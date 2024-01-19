@@ -4,11 +4,18 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 13:12:45 GMT</lastBuildDate>
+    <item>
+      <title>考虑转行 - 我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ailro/thinking_of_a_career_change_what_should_i_do/</link>
+      <description><![CDATA[背景：我是一名拥有 12 年游戏经验的 Web 开发人员，但我知道我的技能远不止编程。编码是我盒子里的一个工具，但这个盒子是由我拥有的更强大的技能构建的——在客户的问题和解决方案中，我真的变得活跃起来。我无法解释我是多么喜欢找到问题的解决方案以及对最终客户的影响......  所以我的问题是，什么职业适合这里？什么可以将我的技术背景与我为人们寻找解决方案和解决问题的能力结合起来？  TIA :)    由   提交/u/TomWoody96  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ailro/thinking_of_a_career_change_what_should_i_do/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:03:01 GMT</pubDate>
+    </item>
     <item>
       <title>我们不小心创造了一个热门产品 - 它是 Photify AI 机器人</title>
       <link>https://www.reddit.com/r/webdev/comments/19ai7ru/we_accidentally_created_a_hit_its_photify_ai_bot/</link>
-      <description><![CDATA[Photify AI 是人工智能驱动的照片生成器，让您只需 2 秒一张自拍照即可获得大量精彩照片！您可以选择预定义的提示或编写自己的提示来更改外观、身材、情绪、肤色、种族、文化等，为您的照片带来独特且鼓舞人心的触感。  这一切都从 Botify AI 应用程序开始，您可以在其中创建一个角色来聊天。在交谈时，您可以获得机器人应要求发送给您的令人惊叹的照片。这些图片会根据对话上下文和默认机器人面孔进行变换。例如，如果你与冬季女王弗利萨谈论美好的暑假，她会给你发一张穿着泳衣的照片……还有雪花。  两个月前，我们的一次每周例会让我们想到在 Messenger 中单独尝试这个照片模型，作为一个机器人来修改用户根据他们写的提示下载的图片。我们创建了 Telegram 机器人，第一周就超出了我们的所有预期！最近，我们为 Play Market 制作了一个应用程序，因此我们获得了超过 2 000 000 个请求！  您可以使用 Photify AI 做什么： 表达自己：无论您是内容创作者、影响者，还是只是喜欢分享故事的人，Photify AI 都是您的选择- 真实视觉叙事的工具。在照片中展示人类多样性的丰富性，让您的创造力飙升。 为变化做好准备：坚持使用 Photify AI 来预测您对未来发型的期望。收集令人印象深刻的衣服和你穿着它们的照片，创建一个情绪板来想象你的未来或让它立即发生。  与好友一起欢笑：用粉红色精灵发型或可爱的巴黎之旅为您的照片带来意想不到的转变，将照片发送给您的朋友并等待他们的反应。有更多的东西可以将你和你的爱人联系起来总是很好的。  打破障碍：Photify AI 不仅仅是一个应用程序，更是一种声明。通过打破视觉障碍，它鼓励我们感知和欣赏差异的方式发生积极转变。这是朝着促进包容性和庆祝人类织锦迈出的一步。 现在我们推出了 Product Hunt：https ://www.producthunt.com/posts/photify-ai 并将感谢您的反馈和支持。我们已经掌握了很多，如果能够继续扩大我们对用户体验的了解，那就太好了。    由   提交/u/guardedallegory588  [链接] [评论]]]></description>
+      <description><![CDATA[Photify AI 是人工智能驱动的照片生成器，让您只需 2 秒一张自拍照即可获得大量精彩照片！您可以选择预定义的提示或编写自己的提示来更改外观、身材、情绪、肤色、种族、文化等，为您的照片带来独特且鼓舞人心的触感。  这一切都从 Botify AI 应用程序开始，您可以在其中创建一个角色来聊天。在交谈时，您可以获得机器人应要求发送给您的令人惊叹的照片。这些图片会根据对话上下文和默认机器人面孔进行变换。例如，如果你与冬季女王弗利萨谈论美好的暑假，她会给你发一张穿着泳衣的照片......还有雪花。  两个月前，我们的一次每周例会让我们想到在 Messenger 中单独尝试这个照片模型，作为一个机器人来修改用户根据他们写的提示下载的图片。我们创建了 Telegram 机器人，第一周就超出了我们的所有预期！最近，我们为 Play Market 制作了一个应用程序，因此我们获得了超过 2 000 000 个请求！  您可以使用 Photify AI 做什么： 表达自己：无论您是内容创作者、影响者，还是只是喜欢分享故事的人，Photify AI 都是您的选择- 真实视觉叙事的工具。在照片中展示人类多样性的丰富性，让您的创造力飙升。 为变化做好准备：坚持使用 Photify AI 来预测您对未来发型的期望。收集令人印象深刻的衣服和你穿着它们的照片，创建一个情绪板来想象你的未来或让它立即发生。  与好友一起欢笑：用粉红色精灵发型或可爱的巴黎之旅为您的照片带来意想不到的转变，将照片发送给您的朋友并等待他们的反应。有更多的东西可以将你和你的爱人联系起来总是很好的。  打破障碍：Photify AI 不仅仅是一个应用程序，更是一种声明。通过打破视觉障碍，它鼓励我们感知和欣赏差异的方式发生积极转变。这是朝着促进包容性和庆祝人类织锦迈出的一步。 现在我们推出了 Product Hunt：https ://www.producthunt.com/posts/photify-ai 并将感谢您的反馈和支持。我们已经掌握了很多，如果能够继续扩大我们对用户体验的了解，那就太好了。    由   提交/u/guardedallegory588  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ai7ru/we_accidentally_created_a_hit_its_photify_ai_bot/</guid>
       <pubDate>Fri, 19 Jan 2024 12:41:32 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Fri, 19 Jan 2024 10:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>ploi.io 中的克隆站点，但 DNS 记录仍解析为原始记录</title>
+      <title>ploi.io 中的克隆站点，但 DNS 记录仍解析为原始站点</title>
       <link>https://www.reddit.com/r/webdev/comments/19ag29h/cloned_site_in_ploiio_but_dns_records_still/</link>
-      <description><![CDATA[我从 adultsmareach.co.uk 克隆了一个网站24 小时前访问 bmd-hub.org，但仍解析为原始站点，并且 ploi 中的 DNS 记录显示原始站点记录 在 Cloudflare 中，我使用指向我的 ploi 服务器的 IP 注册了域名。我也为其他一些网站设置了此设置，运行良好。 Cloudflare 中的所有域都指向相同的 IP（我的服务器），但 bmd-hub.org 仍解析为 adultsmareach.co.uk 在ploi，我去了adultsmareach 并“管理”然后“克隆站点”，然后将域设置为 bmd-hub.org。 如果我直接访问 bmd-hub.org 或从 ploi 内部访问，它会访问 Adultmareach.co.uk反而。如果我从 ploi 中查看 DNS 记录，我可以看到它们仍然指向 Adultmareach.co.uk 设置。 是否需要更改某些内容才能使其正确指向新域？    由   提交/u/jayrdi   [链接] [评论]]]></description>
+      <description><![CDATA[我从 adultsmareach.co.uk 克隆了一个网站超过 24 小时前访问 bmd-hub.org，但仍解析为原始站点，并且 ploi 中的 DNS 记录显示原始站点记录 在 Cloudflare 中，我使用指向我的 ploi 服务器的 IP 注册了域名。我也为其他一些网站设置了此设置，运行良好。 Cloudflare 中的所有域都指向相同的 IP（我的服务器），但 bmd-hub.org 仍解析为 adultsmareach.co.uk 在ploi，我去了adultsmareach 并“管理”然后“克隆站点”，然后将域设置为 bmd-hub.org。 如果我直接访问 bmd-hub.org 或从 ploi 内部访问，它会访问 Adultmareach.co.uk反而。如果我从 ploi 中查看 DNS 记录，我可以看到它们仍然指向 Adultmareach.co.uk 设置。 是否需要更改某些内容才能使其正确指向新域？    由   提交/u/jayrdi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ag29h/cloned_site_in_ploiio_but_dns_records_still/</guid>
       <pubDate>Fri, 19 Jan 2024 10:25:06 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>为什么使用 VueJs 作为文件浏览器</title>
       <link>https://www.reddit.com/r/webdev/comments/19af42j/why_vuejs_for_file_explorer/</link>
-      <description><![CDATA[我想为 Windows 制作一个文件浏览器，尝试了所有浏览器，但没有一个适合我。 我是考虑使用 Vue3 Typescript Tailwind ElectronJS。我的目标是使其功能齐全，复制粘贴、删除、打开文件、搜索、排序，以及 Windows 文件资源管理器中的任何功能。Vue 因为它简单，并且与 React 相比，将使开发过程超级快。&lt; br /&gt; Tailwind - 我将制作完全定制的 ui，超级美观且令人愉悦且友好。 整个目标是使其美观，UI 厚重，超级用户友好，并且在导航和搜索方面具有高性能，并且像 VSCode 一样非常可定制。其他一切都已经存在于本机资源管理器中，但我仍然会在我的资源管理器中实现它们。 它将是开源的，以便其他人可以做出贡献，我希望人们找到它，使用它，并感到惊讶。所以它不像一个宠物项目，我计划长期致力于它。 为什么我应该使用 Vue3 而不是 React - 以及 - 为什么我应该使用 React 而不是 Vue3。任何人或两者。 讲述所有观点、技术观点、性能、调试、输出代码质量、库。 除此之外，也欢迎其他建议和意见。 😄   由   提交 /u/Himanshu_Chauhan   [链接] [评论]]]></description>
+      <description><![CDATA[我想为 Windows 制作一个文件浏览器，尝试了所有浏览器，但没有一个适合我。 我是考虑使用 Vue3 Typescript Tailwind ElectronJS。我的目标是使其功能齐全，复制粘贴、删除、打开文件、搜索、排序，以及 Windows 文件资源管理器中的任何功能。Vue 因为它简单，并且与 React 相比，将使开发过程超级快。&lt; br /&gt; Tailwind - 我将制作完全定制的 ui，超级美观且令人愉悦且友好。 整个目标是使其美观，UI 厚重，超级用户友好，并且在导航和搜索方面具有高性能，并且像 VSCode 一样非常可定制。其他一切都已经存在于本机资源管理器中，但我仍然会在我的资源管理器中实现它们。 它将是开源的，以便其他人可以做出贡献，我希望人们找到它，使用它，并感到惊讶。所以它不像一个宠物项目，我打算长期致力于它。 为什么我应该使用 Vue3 而不是 React - 以及 - 为什么我应该使用 React 而不是 Vue3。任何人或两者。 讲述所有观点、技术观点、性能、调试、输出代码质量、库。 除此之外，也欢迎其他建议和意见。 😄   由   提交 /u/Himanshu_Chauhan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19af42j/why_vuejs_for_file_explorer/</guid>
       <pubDate>Fri, 19 Jan 2024 09:18:38 GMT</pubDate>
     </item>
@@ -83,9 +90,9 @@
       <pubDate>Fri, 19 Jan 2024 08:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，我可以得到一些反馈吗？</title>
+      <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，请问我可以得到一些反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</link>
-      <description><![CDATA[   /u/Seaweed_Widef   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/Seaweed_Widef  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</guid>
       <pubDate>Fri, 19 Jan 2024 08:45:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[请帮助解决此问题。 每当我尝试提交网址时，它都会在桌面上给出 301 重定向错误，但不会 但是我在桌面上打开了网站，一切都很好，网址在评论下面   由   提交/u/Inevitable_Ad525   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</guid>
       <pubDate>Fri, 19 Jan 2024 08:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件的尝试分类</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</guid>
-      <pubDate>Fri, 19 Jan 2024 07:05:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>聊天GPT |帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 13:13:31 GMT</lastBuildDate>
     <item>
       <title>5 个必须使用 OpenAI API 密钥尝试的 ChatGPT 应用程序</title>
       <link>https://feed.indiehackers.world/post/bc1edc26ba</link>
@@ -20,11 +20,11 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Mon, 27 Nov 2023 19:05:58 GMT</pubDate>
     </item>
     <item>
-      <title>我们在 MRR 达到 1000 美元后推出了 ProductHunt，结果发生了。</title>
+      <title>我们在 MRR 达到 1,000 美元后推出了 ProductHunt，结果发生了。</title>
       <link>https://feed.indiehackers.world/post/52b9cfe452</link>
       <description><![CDATA[我们在 ProductHunt 上推出，现在我们是当天排名第三的产品！
 独立黑客们大家好，
-我们一直在 Twitter 上分享我们的旅程，因此我们在 PH 上有了一个良好的开端。最近，我们的 ChatGPT PDF 工具的 MRR 达到了 1000 美元。我们花了 4 个月的时间才达到这个里程碑。我们决定推出 ProductHunt，以吸引更多需要该工具的人。现在我们是当今排名第三的工具！
+我们一直在 Twitter 上分享我们的旅程，因此我们在 PH 上有了一个良好的开端。最近，我们的 ChatGPT PDF 工具的 MRR 达到了 1000 美元。我们花了 4 个月的时间才达到这个里程碑。我们决定推出 ProductHunt 来接触更多需要该工具的人。现在我们是当今排名第三的工具！
 如果您在 ProductHunt 上，如果您能在这段成为当日排名第一产品的旅程中为我们提供支持，我们将不胜感激。
 这是 ProductHunt 链接。一如既往，我们乐于接受反馈。
 https://www.producthunt.com/posts/documind
@@ -45,9 +45,9 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/31cbbc92ae</link>
       <description><![CDATA[优化结果的提示和最佳实践。
 💡本教程适合谁？
-本教程面向渴望将 AI 交互提升到新水平的开发人员、数据科学家和 AI 爱好者。建议具备人工智能概念和编程的基础知识。
+本教程适合渴望将 AI 交互提升到新水平的开发人员、数据科学家和 AI 爱好者。建议具备人工智能概念和编程的基础知识。
 🌟 为什么选择浪链的OpenAI API？
-LangChain 提供无缝集成，让您可以使用自己的数据增强 ChatGPT 的功能，从而开启了定制的可能性世界。
+LangChain 提供无缝集成，允许您使用自己的数据增强 ChatGPT 的功能，从而开启了定制的可能性世界。
 https://youtu.be/ROsb_73EpzE
 #ChatGPT #AI #LangChain #OpenAIAPI #Tutorial #Customization #Innovation #AIEnthusiasts
 Discord 独立黑客聊天广告这里]]></description>
@@ -68,7 +68,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/7a02f49cec</link>
       <description><![CDATA[嘿，我创建了一个新的 WhatsApp 群组来讨论和分享有关 Chat GPT、生成式 AI 及其相关一切的知识。
 使用链接加入：https://chat.whatsapp.com/Kyo9hDQOiwNJ06dsUDSRpt
-不，这不是另一个发送垃圾邮件的组织。它致力于讨论生成式人工智能及其周围的一切。 
+不，这不是另一个发送垃圾邮件的组织。它致力于讨论生成人工智能及其周围的一切。 
 🚫不允许
 
 销售与销售促销活动
@@ -129,13 +129,13 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Tue, 22 Aug 2023 07:40:12 GMT</pubDate>
     </item>
     <item>
-      <title>用于数据分析的 OpenAI</title>
+      <title>OpenAI 数据分析</title>
       <link>https://feed.indiehackers.world/post/ccce370406</link>
       <description><![CDATA[免责声明 - 我不是开发人员:-)
 我遇到的情况是，我正在研究如何在 Bubble.io 支持的 MVP 中使用 AI 来：
 
 从我的数据库创建自定义模型
-使用此模型提供建议，即这些帐户面临流失风险，这是帐户追加销售的空白等
+使用此模型提供建议，即这些帐户有流失的风险，这是帐户追加销售的空白等
 
 在进一步讨论之前，我希望验证这是否可行，如果可行的话，这是一个明智的解决方案。如果是这样，您对经过尝试和测试的方法有什么建议吗（我可以在 OpenAI 中使用微调等）。
 Discord 独立黑客聊天广告这里]]></description>
