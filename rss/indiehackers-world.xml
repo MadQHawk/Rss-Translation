@@ -4,7 +4,64 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 19 Jan 2024 18:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 21:12:59 GMT</lastBuildDate>
+    <item>
+      <title>烘烤我的样板应用程序想法</title>
+      <link>https://feed.indiehackers.world/post/08ca834fdf</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/08ca834fdf</guid>
+      <pubDate>Fri, 19 Jan 2024 20:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的企业家寻找有想法的开发人员</title>
+      <link>https://feed.indiehackers.world/post/4a565d8372</link>
+      <description><![CDATA[大家好！
+我今年 33 岁，来自德国，2005 年 15 岁时，我首次开始自己的生意。2015 年，我将自己的生意（一家网上商店）收入提升到了 150 万欧元。当时我还有 4 名全职员工。 2018年我成功卖掉了网店。
+现在我想建立一项新业务。我正在寻找一位也有想法的软件开发人员。我有兴趣开办 SaaS 或在线商店，但我愿意接受任何想法。 
+我可以全职工作。
+让我们一起打造成功的企业！
+有关我的更多信息：https://hofmannmoritz.com
+PS：过去 11 个月我一直致力于 https://roboreimburse.com/en - 但我们遇到了问题DHL Captcha，所以尽管我有 26 家感兴趣的公司，但我们目前无法推出该产品，这就是为什么这个想法有点被扔进垃圾桶了。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/4a565d8372</guid>
+      <pubDate>Fri, 19 Jan 2024 20:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>您能给我着陆页反馈吗？</title>
+      <link>https://feed.indiehackers.world/post/44ee750677</link>
+      <description><![CDATA[今年我想花更多时间与家人和朋友在一起。
+Focused on Me 是一款日历助手，可帮助我实现时间管理目标。
+我一年前就做过这个工作，但在对其进行改造并使其对我自己更有用后，决定再试一次。
+我可以在我的目标网页上获得一些反馈吗？如何改进？
+https://www.focusedon.me
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/44ee750677</guid>
+      <pubDate>Fri, 19 Jan 2024 19:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>对抗拖延症并开启美好一天的 5 个问题</title>
+      <link>https://feed.indiehackers.world/post/e33515fba6</link>
+      <description><![CDATA[每一天都是推动您实现目标的机会。 
+但是...众所周知...斗争是真实的。 
+这五个问题将帮助您战胜拖延症，并以成功所需的专注和精力开始新的一天：
+
+什么对我来说最重要？
+
+我今天最重要的目标是什么？
+
+今天哪些行为最有利于我的自信和自尊？
+
+什么会让今天的每项任务最有利可图/最有益/最令人愉快？
+
+我现在最有建设性的利用时间是什么？
+
+
+注意：如果您在前一天晚上、早上第一件事和一整天都问这些问题，您会得到最好的结果。 
+希望这对您有帮助😊
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e33515fba6</guid>
+      <pubDate>Fri, 19 Jan 2024 18:22:29 GMT</pubDate>
+    </item>
     <item>
       <title>请烘烤我的 Medium / Substack 式博客平台</title>
       <link>https://feed.indiehackers.world/post/86abb60a1f</link>
@@ -100,59 +157,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8a0bcb9745</guid>
       <pubDate>Fri, 19 Jan 2024 13:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的开源 Astro Build Starter 主题</title>
-      <link>https://feed.indiehackers.world/post/f427c0e028</link>
-      <description><![CDATA[我创建了一个开源 astro 构建入门主题，让您快速启动并运行新的 Astro 网站。
-https://github.com/astrolize-fabform/astrolize-astro-template
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f427c0e028</guid>
-      <pubDate>Fri, 19 Jan 2024 12:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>新发布 - 无需代码包即可启动您的下一个产品</title>
-      <link>https://feed.indiehackers.world/post/5c6d12bbb4</link>
-      <description><![CDATA[嘿伙计们！
-我最近推出了令人惊叹的无代码包。即用型包包括：
-🧱 Webflow：前端页面。
-🧠 Wized：前端逻辑。
-🔧 XANO：后端。
-🔑 谷歌 OAuth。
-🤖 OpenAI：与模型集成。
-💳 Stripe：付款处理。
-📧 Sendgrid：电子邮件基础设施。
-🎨 UI 组件等
-使用 No Code Hero 可以节省多达一个月的时间来交付下一个大（或小）事情！
-https://no-code-hero.com
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5c6d12bbb4</guid>
-      <pubDate>Fri, 19 Jan 2024 12:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 Tidy Cal 的设计烤肉</title>
-      <link>https://feed.indiehackers.world/post/9a64617ce8</link>
-      <description><![CDATA[1/100 设计烘焙
-@Tidy_Cal
-之前 → 之后 ✅ 
-赋予其休闲风格，保持品牌活力。 
-还切换了 CTA 按钮以实现高转化。 
-希望得到反馈😊
-。
-@诺阿卡根
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9a64617ce8</guid>
-      <pubDate>Fri, 19 Jan 2024 12:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的内部工具也可以提高您的开发团队的生产力</title>
-      <link>https://feed.indiehackers.world/post/1b0ce8e2d8</link>
-      <description><![CDATA[（当我们处于测试版本时，ALTO 可以免费使用。如有任何反馈，我们将不胜感激）
-*Team Brilliant 是一家战略技术咨询公司，帮助公司设计和创建数字产品
-**内部工具状态报告
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1b0ce8e2d8</guid>
-      <pubDate>Fri, 19 Jan 2024 10:57:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
