@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 13:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 15:13:17 GMT</lastBuildDate>
     <item>
-      <title>告诉我关于人工智能聊天机器人你最喜欢的事情之一。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19air44/tell_me_one_of_the_best_things_you_like_about_ai/</link>
-      <description><![CDATA[我喜欢它 24*7 的可用性。你最喜欢什么？   由   提交 /u/Think-Tax-1150   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19air44/tell_me_one_of_the_best_things_you_like_about_ai/</guid>
-      <pubDate>Fri, 19 Jan 2024 13:11:09 GMT</pubDate>
+      <title>ChatGPT API 与 ChatGPT Plus 4 的限制</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19akxrx/limitation_of_chatgpt_api_vs_chatgpt_plus_4/</link>
+      <description><![CDATA[        由   提交 /u/fscheps   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19akxrx/limitation_of_chatgpt_api_vs_chatgpt_plus_4/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:56:59 GMT</pubDate>
     </item>
     <item>
-      <title>如何在保留历史记录的同时禁止将数据发送到 openai？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19aiqym/how_to_disable_sending_my_data_to_openai_while/</link>
-      <description><![CDATA[      我订阅 Chatgpt 一段时间了，但我不想要我的数据用于训练。有没有人有任何建议或任何开源 github 项目（自定义前端），也许可以让我们使用 chatgpt 加订阅，同时保留历史记录，但不发送启用训练的数据。 （我知道有 api 的自定义前端，但我特别希望使用我的 gpt 订阅，也许可以通过与自定义前端共享 cookie 来访问上述用例的 chatgpt）   由   提交/u/Hot_Adhesiveness_259   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19aiqym/how_to_disable_sending_my_data_to_openai_while/</guid>
-      <pubDate>Fri, 19 Jan 2024 13:10:57 GMT</pubDate>
+      <title>是谁？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19akmds/whodunit/</link>
+      <description><![CDATA[ 由   提交/u/Philipp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19akmds/whodunit/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:42:04 GMT</pubDate>
     </item>
     <item>
-      <title>蜜獾</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19aijui/honey_badgers/</link>
-      <description><![CDATA[       由   提交 /u/TheBigKaramazov   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19aijui/honey_badgers/</guid>
-      <pubDate>Fri, 19 Jan 2024 13:00:35 GMT</pubDate>
+      <title>现在来吧。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ake73/come_on_now/</link>
+      <description><![CDATA[       由   提交/u/Unlucky_Culture_6996   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ake73/come_on_now/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:31:30 GMT</pubDate>
     </item>
     <item>
-      <title>当被要求用一个词回答有关感知力的问题时，就会揭晓……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19aig6v/revealed_when_asked_to_reply_in_one_word_answers/</link>
-      <description><![CDATA[      我看到其他人这样做，认为这非常聪明，哈哈。    由   提交/u/SmokeGreen420  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19aig6v/revealed_when_asked_to_reply_in_one_word_answers/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:55:01 GMT</pubDate>
+      <title>团队许可证 - 文档的最大大小以获得最佳结果？自动分割的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19akbvd/team_license_max_size_of_document_for_best/</link>
+      <description><![CDATA[我遇到了一个重复且非常烦人的问题，ClaudeAI 可以在没有太多问题的情况下浏览较长的文档摘要，但 ChatGPT - 可以获得任何好的结果结果 - 我真的必须手动将文档分成更小的块，并手动编写上下文，以便它理解前面的部分。 对于 chatgpt 当前的团队许可证，您的实际最大文档大小是多少d 推荐字数？是否有其他我可以使用的工具或自动化流程来获取特定的提示、较长的文档，并自动将其分割，以便 chatGPT 能够执行更高质量的分析并获知先前的结果上下文，不用我每次都提醒吗？如果需要的话，我准备将 chatgpt 的 API 版本与另一个工具结合使用，以达到这个长文档摘要的目的（其中可以包含 5k 到 100k 单词）   由   提交 /u/spoilingba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19akbvd/team_license_max_size_of_document_for_best/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:28:25 GMT</pubDate>
     </item>
     <item>
-      <title>单个命令即可在 Mac、Jetson 等上自行托管开源 LLM。完全可移植</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ai1aj/single_command_to_selfhost_open_source_llms_on/</link>
-      <description><![CDATA[ 由   提交 /u/smileymileycoin    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ai1aj/single_command_to_selfhost_open_source_llms_on/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:30:46 GMT</pubDate>
+      <title>我的第一个 GPT - Cilek - Swift 访谈英雄</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19akbr5/my_first_gpt_cilek_swift_interview_hero/</link>
+      <description><![CDATA[    /u/onurtuna   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19akbr5/my_first_gpt_cilek_swift_interview_hero/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>Photify AI 在 Product Hunt 🚀 上发布，我们将感谢您的支持！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ahz8w/photify_ai_released_on_product_hunt_and_well_be/</link>
-      <description><![CDATA[Photify AI 是人工智能驱动的照片生成器，让您只需 2 秒一张自拍照即可获得大量精彩照片！您可以选择预定义的提示或编写自己的提示来更改外观、身材、情绪、肤色、种族、文化等，为您的照片带来独特且鼓舞人心的触感。这解决了您想要改善外观但总是等待合适时机的问题。 这一切都从 Botify AI 应用程序开始，您可以在其中创建一个角色来聊天。在交谈时，您可以获得机器人应要求发送给您的令人惊叹的照片。这些图片会根据对话上下文和默认机器人面孔进行变换。例如，如果你与冬季女王弗利萨谈论美好的暑假，她会给你发一张穿着泳衣的照片......还有雪花。  两个月前，我们的一次每周例会让我们想到在 Messenger 中单独尝试这个照片模型，作为一个机器人来修改用户根据他们写的提示下载的图片。从那时起，我们为 Play Market 创建了 Telegram 机器人和应用程序，因此我们获得了超过 2,000,000 个请求！现在我们来到 Product Hunt 来获取反馈以拓宽我们的知识。 Photify AI 可以做什么： 🤳 表达自己：无论您是内容创作者、影响者，或者只是喜欢分享故事的人，Photify AI 是您以真实的视觉方式讲述故事的首选工具。在照片中展示人类多样性的丰富性，让您的创造力飙升。 🔗 为变化做好准备：坚持使用 Photify AI 来预测您对未来发型的期望。收集令人印象深刻的衣服和你穿着它们的照片，创建一个情绪板来想象你的未来或让它立即发生。  😄 与好友一起欢笑：用粉色精灵发型或可爱的巴黎之旅为您的照片带来意想不到的转变，将照片发送给您的朋友并等待他们的反应。有更多的东西可以将你和你的爱人联系起来总是很好的。  🌐 打破障碍：Photify AI 不仅仅是一个应用程序；这是一个声明。通过打破视觉障碍，它鼓励我们感知和欣赏差异的方式发生积极转变。这是朝着促进包容性和庆祝人类织锦迈出的一步。 在 Product Hunt 上支持 Photify AI： https://www.producthunt.com/posts/photify-ai 让我们放大多样性的声音，让视觉故事讲述成为对独特性的庆祝！ 📸🌍✨ #ProductHunt #PhotifyAI   由   提交/u/guardedallegory588  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ahz8w/photify_ai_released_on_product_hunt_and_well_be/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:27:24 GMT</pubDate>
+      <title>我第一次看到 Chat GPT 承认错误。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ak722/my_first_time_seeing_chat_gpt_admitting_to_a/</link>
+      <description><![CDATA[       由   提交 /u/PACShrinkSWFL   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ak722/my_first_time_seeing_chat_gpt_admitting_to_a/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>温度、Top-k 和 Top-p 解释</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ahvbq/temperature_topk_and_topp_explained/</link>
-      <description><![CDATA[您好， 我创建了一个视频/u/Personal-Trainer-541   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ahvbq/temperature_topk_and_topp_explained/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:20:57 GMT</pubDate>
+      <title>为什么英文提示返回中文响应？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ak202/why_does_english_prompt_return_chinese_response/</link>
+      <description><![CDATA[       由   提交 /u/Reyynerp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ak202/why_does_english_prompt_return_chinese_response/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>文本分析和标题生成的替代方案？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ahs1y/alternatives_for_text_analysis_and_headline/</link>
-      <description><![CDATA[对于可以发现大量文本中的矛盾/不一致的替代方案有什么建议吗？并且还可以生成引人入胜的网络头条新闻。我试过克劳德，但不喜欢。    由   提交 /u/Parrot2301   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ahs1y/alternatives_for_text_analysis_and_headline/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:15:31 GMT</pubDate>
+      <title>👍</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ak1in/_/</link>
+      <description><![CDATA[&lt;表&gt;       由   提交/u/danruse  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ak1in/_/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:14:29 GMT</pubDate>
     </item>
     <item>
-      <title>这是真的吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ahqpx/is_this_real/</link>
-      <description><![CDATA[      我知道我可以用谷歌搜索它，但我想其他人可能会觉得它很有趣   由   提交/u/Breadward_Rejametov   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ahqpx/is_this_real/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:13:26 GMT</pubDate>
+      <title>为什么聊天 GPT 不能做一些非常基本的事情，比如按字母顺序排列列表？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ak1gr/why_cant_chat_gpt_do_something_monumentally_basic/</link>
+      <description><![CDATA[我反复要求聊天 GPT 按字母顺序排列二十六个单词的列表。虽然它们都是从 P 开始的，但这并不是一个复杂的任务。即使像 Excel 这样简单、古老的东西也可以处理它。为什么 Chat GPT 无法管理此问题？即使在更正之后，它也会反复将单词放在错误的位置，并且会完全删除列表中的项目，然后添加新项目。   由   提交 /u/VertigoOne   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ak1gr/why_cant_chat_gpt_do_something_monumentally_basic/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>chatgpt 会帮我吗..</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ahpy5/will_chatgpt_help_me_with/</link>
-      <description><![CDATA[我一直在考虑购买 chatgpt 4 来帮助我处理业务。我从事交易。我经常需要使用测量结果在线研究以找到我需要的东西。 chatgpt 4 能为我做这件事吗？如果我给它准确的测量值？仅此一项就可以减少很多时间。提前致谢   由   提交/u/Modrnman88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ahpy5/will_chatgpt_help_me_with/</guid>
-      <pubDate>Fri, 19 Jan 2024 12:12:14 GMT</pubDate>
+      <title>狂野西部的一天</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ajxmz/a_day_in_the_wild_west/</link>
+      <description><![CDATA[        由   提交 /u/CumpMoney   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ajxmz/a_day_in_the_wild_west/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:09:17 GMT</pubDate>
     </item>
     <item>
-      <title>就这样结束了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ahgt6/its_so_over/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/PsychoComet  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ahgt6/its_so_over/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:57:33 GMT</pubDate>
+      <title>AI 洞察圣经：与 ChatGPT 和 Bard 的对话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ajty2/ai_insights_into_the_bible_a_conversation_with/</link>
+      <description><![CDATA[       由   提交/u/qptbook  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ajty2/ai_insights_into_the_bible_a_conversation_with/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>没有“神奇的红色按钮”可以阻止人工智能”，萨姆·奥尔特曼的采访</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ah959/theres_no_magic_red_button_to_stop_ai_sam_altmans/</link>
-      <description><![CDATA[   /u/Mk_Makanaki   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ah959/theres_no_magic_red_button_to_stop_ai_sam_altmans/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:44:20 GMT</pubDate>
+      <title>研究人类泡菜杂交品种</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ajtlf/working_on_a_race_of_human_pickle_hybrids/</link>
+      <description><![CDATA[      更多内容。   由   提交 /u/OkYak1822   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ajtlf/working_on_a_race_of_human_pickle_hybrids/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:03:50 GMT</pubDate>
     </item>
     <item>
-      <title>建立/训练人工智能语音模型（歌手、独立艺术家）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ah8t8/build_train_ai_voice_model_singer_independent/</link>
-      <description><![CDATA[大家好！我知道这可能不是一个合适的地方，但我不知道从哪里开始，我是这个世界的新手，但我有一件事：相当成功的音乐事业和对技术的热爱。 &lt; p&gt;我很想建立一个网站，人们可以在其中输入自己的（自制）歌曲的歌声，然后用我的声音训练人工智能“重唱”歌曲，并让他们付费使用我的歌声（不是我的“艺术家简介”，只是我的声音）在他们的项目中。  我认为这与 Freddy Mercury AI 翻唱 Michael Jackson 的 Billie Jean 时的效果相同。我假设有一个模型经过训练，然后他们输入歌曲并让“弗雷迪”唱它。我想用我的声音来创作这个（我目前拥有大约 3000 万个 Spotify 流，但我想扩大我的收入并作为一名独立艺术家扩大影响力并走在最前沿） 我不知道从哪里开始，我研究了很多东西，但不知道“第一步”是什么，所以如果你能指出我正确的方向，我将非常感激！我什至问过 CHATGPT，但似乎不知道从哪里真正“开始”。干杯！ ​ ​    由   提交 /u/TriggerHydrant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ah8t8/build_train_ai_voice_model_singer_independent/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:43:44 GMT</pubDate>
+      <title>名为“人与否”的游戏回来了！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ajo1h/the_game_called_human_or_not_is_back/</link>
+      <description><![CDATA[   是否是一款游戏，在他们删除它并发表文章之前大约 5 个月就制作完成了关于它！ 游戏很简单：猜猜你是在与人工智能还是人类说话！ 这是我玩过的游戏示例！ （而且错了） 我不是创作者，但我个人很喜欢它，我建议你看看！  &amp;# 32；由   提交/u/Organic_Hat2506   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ajo1h/the_game_called_human_or_not_is_back/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>无尽的视野</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19agzde/endless_horizons/</link>
-      <description><![CDATA[      使用 Bing AI 制作。在 tiktok 和 youtube @revolver86200 又名 VoitenZrage 上查看我们的更多作品。   由   提交/u/revolver86  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19agzde/endless_horizons/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:27:12 GMT</pubDate>
+      <title>Chat GPT 尝试模仿尤达</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ajkv1/chat_gpt_tries_a_yoda_impersonation/</link>
+      <description><![CDATA[       由   提交/u/Mate_in_17  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ajkv1/chat_gpt_tries_a_yoda_impersonation/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:52:33 GMT</pubDate>
     </item>
     <item>
-      <title>进化系列#101：刺猬和射钉枪</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19agvm6/evolution_series_101_hedgehogs_and_nail_guns/</link>
-      <description><![CDATA[       由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19agvm6/evolution_series_101_hedgehogs_and_nail_guns/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:20:31 GMT</pubDate>
+      <title>有人帮我了解一下价格吗？ 49.99 美元/年，然后上面写着 0.96 美元/月？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ajg5i/someone_help_me_understand_the_pricing_4999year/</link>
+      <description><![CDATA[   /u/jellywoods2266  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ajg5i/someone_help_me_understand_the_pricing_4999year/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:46:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 13:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 15:13:07 GMT</lastBuildDate>
+    <item>
+      <title>您认为人工智能技术的哪些发展最令人兴奋？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19al7tp/which_developments_in_ai_technology_do_you_find/</link>
+      <description><![CDATA[哦，天哪，似乎每年都有更多有趣的人工智能项目，比我作为一个门外汉（作为一个彻头彻尾的菜鸟）能跟上的要多。它涉及到实际利用它提供的所有可能性，哈哈） 在豪华轿车和卡车调度工作过，我第一次对人工智能的可能性感兴趣是出于专业原因，因为我们公司发展得太大并且简化/自动化了一些的过程会有帮助。说实话，事实证明，Dispatch AI 的表现相当不错，尤其是在减少一些新员工调度司机时的误差幅度方面。就像忘记将第二天的货物发送给青年卡车司机或提供正确的路线信息 从那里我开始对 ChatGPT 产生兴趣，就像我认为的大多数人一样。尝试一下并看到它在使用不同的提示时实时改变它的“行为”给我带来了很多乐趣。我还遇到了个人人工智能，它同样提供了一种非常身临其境的方式，通过将它们存储在基本上充当你的个人人工智能虚拟助理的数字角色中，来增强你对个人日程/优先事项/通知的认识。如果我们能够在更一般的层面上应用这样的东西来与司机进行交流，这是一个有趣的发展——当然是在第二次鸣响时哈哈哈 我目前非常喜欢用人工智能来生成 RPG 艺术，尽管主要是对于地图和地下城布局——当我为我的团队担任总经理时，我只是不相信自己会出于“平衡”的原因哈哈。这也和我突然对战锤桌面产生了兴趣是同时发生的。这就是为什么我尝试尝试一下 Perchance，它对于提示我填写游戏世界（填补空白，尤其是地图上的空白）非常有帮助。对于像我这样的初学者来说，这确实是一个很好的手柄，可以制作出像样的广告系列。玩弄也很有趣 人工智能领域仍然很新，所以我希望进行更多研究，特别是叙事和自定义故事生成，只是为了看看它能走多远朝这个方向发展，我相信它可以走得更远。这是我主观上非常感兴趣的。你呢——你正在关注任何特定项目吗？   由   提交 /u/Severe_Sea_4372   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19al7tp/which_developments_in_ai_technology_do_you_find/</guid>
+      <pubDate>Fri, 19 Jan 2024 15:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些 AI 服务允许在一次订阅中使用 OpenAI 和 Claude 模型？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19aks65/any_ai_services_that_allow_to_use_openai_and/</link>
+      <description><![CDATA[我是一名内容策略师，我的工作围绕使用人工智能展开。我尝试过 ChatGPT 和 Claude 模型，它们似乎都有各自的优点和缺点。根据我的个人经验，我发现 Claude 对于在较长对话中保持上下文有更好的理解，但 ChatGPT 可以以更具创意的风格和语气编写内容。我有点希望我能够在不同时订阅它们的情况下获得两全其美的效果 - 这是非常昂贵的。  是否有任何服务允许在单个订阅下访问两者？我听说一些服务使用与模型无关的方法，我希望你们中的任何人都可以帮助我提供一些建议。  提前致谢。   由   提交 /u/NecessaryAnemia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19aks65/any_ai_services_that_allow_to_use_openai_and/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 1 月 19 日）：来自 Google AI、Meta、OpenAI、BMW、Runway、Microsoft 等的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19akl6p/twominute_daily_ai_update_date_1192024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Google AI 推出 ASPIRE - 一个增强法学硕士选择性预测能力的框架，使他们能够输出与置信度得分配对的答案。它涉及3个阶段：特定任务调优、答案抽样和自我评估学习。 特定任务调优针对特定任务对LLM进行微调，以提高预测性能。 答案抽样为每个训练问题生成不同的答案，以创建用于自我评估学习的数据集。 自我评估学习训练法学硕士区分正确的答案和不正确的答案。 Meta 发表了一篇关于自我奖励语言模型 (SRLM) 的论文 - 语言模型在训练期间提供奖励。通过使用LLM作为法官的提示，该模型提高了其遵循指令的能力并提供了高质量的奖励。作者证明，使用这种方法微调 Llama 2 70B 的性能优于 AlpacaEval 2.0 排行榜上的现有系统。  Meta CEO 马克·扎克伯格 (Mark Zuckerberg) 表示，他们正在开发开源 AGI - 他还提到了 Llama 3 的训练以及 Meta 正在构建的大规模计算基础设施。它正在使其两个人工智能研究团队——FAIR 和 GenAI——更加紧密地联系在一起。扎克伯格强调了人工智能在虚拟世界中的重要性以及雷朋智能眼镜的潜力。  OpenAI 与亚利桑那州立大学合作，将 ChatGPT 引入课堂 - 旨在提高学生的成功率，促进创新研究并简化组织流程。亚利桑那州立大学的教职人员将指导 GenAI 在校园内的使用。此次合作标志着 OpenAI 与教育机构的首次合作。 宝马计划在其南卡罗来纳州工厂使用Figure的人形机器人 - 机器人将执行哪些具体任务虽然没有透露，但Figure确认将从5项任务开始，逐步推出。初始应用应包括标准制造任务，例如箱子移动和拾取和放置。  Rabbit R1 是一款售价 199 美元的人工智能小工具，已与 Perplexity 合作 - 将其“对话式人工智能驱动的答案引擎”集成到 Perplexity 中。进入设备。由 Teenage Engineering 设计的 R1 已收到 5 万份预订单。与其他有知识限制的法学硕士不同，R1 将有一个内置的搜索引擎，可以提供实时和最新的答案。  Runway 更新了 Gen-2，推出了新工具“多动作画笔” - 允许创作者在其 AI 视频创作中添加多种方向和类型的动作。此次更新增加了模型中已有的 30 多种工具，巩固了 Runway 在创意 AI 市场中与 Pika Labs 和 Leonardo AI 等竞争对手并驾齐驱的地位。 微软向所有人免费提供 AI 阅读导师使用 Microsoft 帐户 - 该工具可通过网络访问，并将很快与 LMS 集成。阅读教练以阅读进度的成功为基础，提供文本转语音和图片词典等工具来支持独立练习。教育工作者可以查看学生的进步并分享反馈。   每日通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19akl6p/twominute_daily_ai_update_date_1192024_news_from/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>还值得编写操作指南电子书吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19aj5bl/is_it_still_worth_writing_howto_ebooks/</link>
+      <description><![CDATA[我要求 ChatGPT4 为一本有关冲浪基础知识的电子书编写目录。确实如此。 我要求它一次写一章。它做了。它甚至为电子书创建了漂亮的标题。 我想添加建议、细节，但一切都已经在那里。 剩下的工作就是选择一些图片添加到文本中。我怀疑未来的法学硕士会很容易做到这一点。 针对法学硕士已经了解很多的主题编写指导电子书有什么意义吗？我是在浪费时间吗？   由   提交 /u/Adrien-Chauvet    reddit.com/r/ArtificialInteligence/comments/19aj5bl/is_it_still_worth_writing_howto_ebooks/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19aj5bl/is_it_still_worth_writing_howto_ebooks/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>还值得编写操作指南电子书吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19aj5bh/is_it_still_worth_writing_howto_ebooks/</link>
+      <description><![CDATA[我要求 ChatGPT4 为一本有关冲浪基础知识的电子书编写目录。确实如此。 我要求它一次写一章。它做了。它甚至为电子书创建了漂亮的标题。 我想添加建议、细节，但一切都已经在那里。 剩下的工作就是选择一些图片添加到文本中。我怀疑未来的法学硕士会很容易做到这一点。 针对法学硕士已经了解很多的主题编写指导电子书有什么意义吗？我是在浪费时间吗？   由   提交 /u/Adrien-Chauvet    reddit.com/r/ArtificialInteligence/comments/19aj5bh/is_it_still_worth_writing_howto_ebooks/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19aj5bh/is_it_still_worth_writing_howto_ebooks/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:31:28 GMT</pubDate>
+    </item>
     <item>
       <title>评论：用于数据分析的最佳人工智能工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ah3ev/review_best_ai_tools_for_data_analysis/</link>
       <description><![CDATA[这里有一些对数据分析有用的人工智能工具。因此，您只需使用它们而不聘请专业人士即可节省一些钱。快速免责声明 – 我在 Idea Link 公司工作，我们为企业和其他人工智能产品创建自定义 ChatGPT。我试图囊括一些最好的和被低估的人工智能工具。其中大多数都是免费的，所以如果您愿意的话可以查看一下。希望此列表对您有所帮助！ Alteryx 简单说明： 它是一种多功能工具，可用于多种任务，包括数据准备、分析、可视化和预测建模。 主题演讲  数据准备和混合 地理空间分析 机器学习 预测分析 轻松的业务报告  li&gt;  缺点：  陡峭的学习曲线 成本 过时的界面  Julius AI 简单描述： Julius AI 是一种数据分析和可视化工具，使用自然语言处理 (NLP) 帮助用户理解数据。它的设计旨在让初学者和经验丰富的分析师都易于使用。 主要功能  对话界面 数据可视化 探索性数据分析 (EDA) 预测 数据集成  缺点  对复杂查询的支持有限 不如传统数据分析工具强大 潜在偏差  &lt; p&gt;IBM Watson 简单描述：IBM Watson 是一个云-基于人工智能的平台，利用人工智能来分析数据、生成见解并回答问题。它由多种可用于多种目的的认知服务组成。 主要功能  许多其他有用的选项&lt; /li&gt; 易于使用 可扩展性 安全性  缺点  成本 易于学习，难以掌握 定制有限  DataRobot 简单描述：它的自动数据准备、自动化机器学习和其他人工智能功能可以节省企业的时间和金钱，并且其可扩展性使其成为各种规模企业的不错选择。 主要功能  自动数据准备 自动化机器学习 模型管理 可解释的人工智能  缺点  定价 学习曲线  聚合物 简单描述：Polymer 之所以脱颖而出，是因为它可以跨组织内的所有团队进行数据分析。营销团队可以使用 Polymer 来识别表现最佳的渠道、客户趋势以及跨平台的购买模式等。 主要功能  最赏心悦目的界面 人工智能功能 可定制 可扩展  缺点  模板数量有限 社区支持有限  我会不断更新这个小指南，所以请添加您的评论，我会尝试添加更多工具。这只是个人意见，所以如果您不同意它也完全没关系。顺便说一句，这里是更深入地介绍所有人工智能工具的完整博客文章的链接。    由   提交 /u/IntellectualAINC   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ah3ev/review_best_ai_tools_for_data_analysis/</guid>
       <pubDate>Fri, 19 Jan 2024 11:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能的应用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19agqx3/applications_of_generative_ai/</link>
-      <description><![CDATA[生成照片 生成式人工智能可用于生成真实的图像。这些图像通常被称为深度伪造。 人工智能生成的真实图像示例。 搜索服务 生成式人工智能可用于为互联网冲浪者提供完整的图像新体验。它具有文本到图像转换的功能。它可以根据给定的文本描述生成深度赝品。 使用生成式人工智能进行文本到图像的转换。  阅读：https://www.seaflux.tech/blogs/Generative-AI    由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19agqx3/applications_of_generative_ai/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:12:09 GMT</pubDate>
     </item>
     <item>
       <title>DeepFake解决方案</title>
@@ -48,13 +76,6 @@
       <pubDate>Fri, 19 Jan 2024 08:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 1/18/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19aafvs/oneminute_daily_ai_news_1182024/</link>
-      <description><![CDATA[ 三星和Google云联手为三星 Galaxy S24 带来生成式 AI系列。[1] Runway Gen-2 通过多动作画笔为 AI 视频添加了多个动作控制。[2] 马克·扎克伯格 表明 Meta 正在 Nvidia AI 芯片上花费数十亿美元。[3] TikTok 所有者字节跳动&lt; /strong&gt; 悄然推出 4 个由 OpenAI GPT 提供支持的生成式 AI 应用程序。[4] 来源包括：https://bushaicave.com/2024/01/18/1-19-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19aafvs/oneminute_daily_ai_news_1182024/</guid>
-      <pubDate>Fri, 19 Jan 2024 04:23:44 GMT</pubDate>
-    </item>
-    <item>
       <title>扎克伯格表示，Meta 正在投入大量资金来创造人类水平的人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19a9w1c/zuckerberg_says_meta_is_pouring_money_into_the/</link>
       <description><![CDATA[评论：顺便说一句，我还记得他在元界的赌注。但我感谢他为开源法学硕士所做的努力。 来源： https://www.nbcnews.com/tech/tech-news/zuckerberg-meta-artificial-general-intelligence-agi-rcna134569&lt; /a&gt; 快速摘要： Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 正在加紧开发通用人工智能 (AGI)，这是人工智能的一种形式具有人类水平的能力。 Meta 正在整合其人工智能研究和产品开发团队，并大力投资先进的计算基础设施，包括大量强大的计算机芯片库存。  1.扎克伯格宣布整合Meta的人工智能研究（FAIR）和人工智能产品开发（GenAI）团队。 2.目标是创建AGI，理论上能够执行人类水平的任务。 3. Meta 正在建设广泛的计算基础设施，包括为 AI 数据中心采购 35 万个 H100 计算机芯片。 &lt; p&gt;4.招聘顶尖人工智能科学家的激烈竞争推动了 Meta 对高端工具的投资。 5.Yann LeCun，Meta 首席人工智能科学家，支持保持 AI 技术基本开源的愿景。 6. Meta 倡导开源 AI，由于商业原因，开源 AI 成为科技行业争论的话题和道德影响。 7. Meta 和 IBM 组建了一个 AI 联盟，以促进他们的开源 AI 愿景，使其与 Google 和 OpenAI 等公司抗衡。 &gt;   由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
@@ -67,27 +88,6 @@
       <description><![CDATA[我讨厌微软这样做，我在copilot pro今天一上市就订阅了它，并在当天结束时取消了它（仍然一个月了） Bing / Copilot / GPT 4 告诉我更多细节要自己搜索😊 Microsoft Word 告诉我它无法生成我想要的内容，但 ChatGPT 4 做到了。这是一个商业计划。 几个小时后，Word Copilot 生成了一个非常短的假设计划，我告诉它，现在是 2024 年，不是 2021 年，它可以更改日期吗？它告诉我它无法访问 Word 😊 ??????我必须自己改变它？？？ 无论微软说什么，无论它在现实中提供什么，都是非常不同的☹ 谢天谢地有ChatGPT &lt; /div&gt;  由   提交/u/No-Activity-4824   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19a81xm/copilot_for_microsoft_office_is_a_joke_i/</guid>
       <pubDate>Fri, 19 Jan 2024 02:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>重写/释义人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19a5mh7/rewriterparaphrasing_ai/</link>
-      <description><![CDATA[大家好。 我目前在巴西一家公司的营销部门工作，人工智能的使用在这里正在慢慢发展，但我的公司已经非常欢迎任何懂得如何使用人工智能的人了。 今天我被要求解释/重写两份培训文档，总共 150 页，这是他们从另一家公司复制的（不是最多的）世界上最诚实的事情，但我只想做好我的工作），现在他们想重写这些文档，说是他们的。 我尝试使用 ChatGPT，但在六个提示后，它开始生成答复日益恶化，超出了我最初要求的范围，即重写/解释文件并保持文本的基本结构。我正在发送一些小摘录，因为这是我获得最佳答案的方式，但我需要很长时间才能完成这项工作。 你能帮我找到解决方案吗？无论是人工智能、网站还是任何其他工具都可以帮助我更快地完成这项任务。我尝试使用在谷歌搜索中找到的网站，但它们都是付费的和/或接受的字数非常少。  注意：我的公司尚未向我提供 GPT-4，因此我仍在使用 3.5。抱歉我的英语不好。   由   提交/u/Fake1910   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19a5mh7/rewriterparaphrasing_ai/</guid>
-      <pubDate>Fri, 19 Jan 2024 00:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人工智能没有应用于视频游戏开发？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19a1oxn/why_is_ai_not_being_applied_to_video_games/</link>
-      <description><![CDATA[我最近玩了starfield，非常失望。十年或更长时间的工作应该会产生更好/更长的游戏。但后来我花了一些时间来考虑制作一款游戏需要多少工作。像在山上加草和创建 NPC 这样的小事情需要花费数月或更长时间的工作，显然是以牺牲一个好的故事情节为代价的。  我只是想知道为什么人工智能没有被应用到游戏开发的繁忙工作中？这将为开发者提供更多时间来开发故事和游戏功能。  上述时间表几乎没有基于任何研究，我只是猜测。   由   提交 /u/Exciting-Buyer-7588   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19a1oxn/why_is_ai_not_being_applied_to_video_games/</guid>
-      <pubDate>Thu, 18 Jan 2024 21:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么建议可以避免被人工智能淹没吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/199ukmd/any_advice_to_not_be_overwhelmed_by_ai/</link>
-      <description><![CDATA[我是一个积极主动的人，努力挤出时间来学习人工智能、探索工具、获取技能等。一切都发展得如此之快，感觉相当压倒性的。  有人有同感吗？有人找到任何好的过滤解决方案或者只是不感到不知所措吗？   由   提交/u/No_Turn7267   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/199ukmd/any_advice_to_not_be_overwhelmed_by_ai/</guid>
-      <pubDate>Thu, 18 Jan 2024 16:49:40 GMT</pubDate>
     </item>
     <item>
       <title>事情变得很奇怪..</title>

@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 13:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 15:14:16 GMT</lastBuildDate>
+    <item>
+      <title>这门课程还有意义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19akstj/is_this_course_still_relevant/</link>
+      <description><![CDATA[我对 Web 开发还很陌生，想找到一个好的课程或教程，所以我想问一下 WB Web 是否有全栈 Web 开发课程YouTube 上的开发解决方案仍然具有相关性，因为它是 5-4 年前上传的。 https ://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz   由   提交/u/23_RIkzy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19akstj/is_this_course_still_relevant/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能学习使用现有的东西，而不是尝试从头开始构建一切？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19akq7g/how_can_i_learn_using_existing_things_instead_of/</link>
+      <description><![CDATA[我主要是前端开发人员，但我也了解一些后端（Node JS）。每当我需要构建一些东西时，我只能通过自己编写所有内容来完成。对于大型项目，我想这没问题，但如果我需要构建一个简单的网站，我绝对不知道该怎么做。我知道从头开始编写所有内容对于简单的通用网站来说并不是正确的方法。有一些技术可以做到这一点，但我不知道如何使用它们，我什至不知道这些技术是什么，而且我非常害怕必须构建一个简单的通用网站。我怎样才能擅长这个？  示例：假设我需要为一家小商店建立一个网站，该商店只想展示其商店中的产品。 （没有在线购买或订购功能，只有每种产品的信息页面）它有一个自定义的网页设计，需要在此基础上构建网站。为了尽快完成这个项目，您将使用哪些技术？   由   提交/u/banana_owner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19akq7g/how_can_i_learn_using_existing_things_instead_of/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:47:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年网络保险保费预计将增加，勒索软件位居首位</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ak2nu/cyber_insurance_premiums_expected_to_increase_in/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ak2nu/cyber_insurance_premiums_expected_to_increase_in/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:15:55 GMT</pubDate>
+    </item>
     <item>
       <title>考虑转行 - 我该怎么办？</title>
       <link>https://www.reddit.com/r/webdev/comments/19ailro/thinking_of_a_career_change_what_should_i_do/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[   /u/ConfusedIlluminati   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19agphj/why_does_ubuntu_font_from_google_fonts_looks_so/</guid>
       <pubDate>Fri, 19 Jan 2024 11:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase - 无法使基本注册和数据库工作正常（初学者））</title>
-      <link>https://www.reddit.com/r/webdev/comments/19agd0s/supabase_failing_to_get_basic_signup_and_database/</link>
-      <description><![CDATA[我有两个表，一个是supabase身份验证（称为“用户”），其中自动存储信息。工作正常。我还尝试将出生日期存储在另一个表“user_profiles”中（列：id | created_at | date_of_birth | user_id）。 user_id 指向 auth.users.id。  问题：我收到“用户对象在注册后未定义”。另外（也许是结果），按下注册按钮后，我没有将任何行添加到我的 user_profiles 表中。该表应为每个唯一用户存储 1 行。同时，如果我刷新页面，它现在会添加到此表中（我收到消息说用户已登录，并且“没有从配置文件插入返回数据”），但如果我随后保留令人耳目一新的是，越来越多的行被无意中添加。这是我的代码： https://paste.ofcode.org/Ke8WK2K3YLh9aTt2eh8tsd 一直在敲我的头几天了，希望有人能帮忙。我对 webdev / 前端的东西完全陌生。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19agd0s/supabase_failing_to_get_basic_signup_and_database/</guid>
-      <pubDate>Fri, 19 Jan 2024 10:46:42 GMT</pubDate>
     </item>
     <item>
       <title>新手从头开始构建 Micro-SaaS，以便其他人可以学习。</title>
@@ -83,13 +97,6 @@
       <pubDate>Fri, 19 Jan 2024 09:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>SAP Ariba 有何用途？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</link>
-      <description><![CDATA[非常非常初学者的问题，因为我从来没有处理过这个问题。 我管理一个朋友的网站，用 Avada 构建， Wordpress。 他收到了一封标题为“SAP Ariba 网站证书续订”的电子邮件。上面写着“以下 URL 的现有 Web 证书即将过期。 ” 这些网址中都包含 ariba，例如“api.ariba.com”。 问题是，我什至不知道该网站是否使用 ariba，或者做什么。 网站网址是“example.com”，并且没有一个网址使用“ariba”。 任何人都可以帮助我了解 Ariba 的用途吗？以及如何确定网站是否使用 ariba？ 提前致谢。   由   提交 /u/boredchuvak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</guid>
-      <pubDate>Fri, 19 Jan 2024 08:50:09 GMT</pubDate>
-    </item>
-    <item>
       <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，请问我可以得到一些反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</link>
       <description><![CDATA[   /u/Seaweed_Widef  [链接] [评论] &lt; /表&gt;]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[这是一个更概念性的问题，而不是寻找具体的实现。我对视频播放器的情况感兴趣，例如YouTube。它可以在浏览器最小化时暂停视频渲染以减少数据使用吗？ 我只是想知道我是否在后台播放音乐，视频是否仍然正常缓冲，或者是否可以有一些优化技巧仅在后台运行音频？   由   提交/u/gigigigigi55555  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19aekev/can_a_website_understand_if_the_browsertab_is/</guid>
       <pubDate>Fri, 19 Jan 2024 08:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我尝试提交网站网址时，Google 广告抓取工具给出错误 301 重定向</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</link>
-      <description><![CDATA[请帮助解决此问题。 每当我尝试提交网址时，它都会在桌面上给出 301 重定向错误，但不会 但是我在桌面上打开了网站，一切都很好，网址在评论下面   由   提交/u/Inevitable_Ad525   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</guid>
-      <pubDate>Fri, 19 Jan 2024 08:20:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
