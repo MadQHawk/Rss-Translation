@@ -4,7 +4,35 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 12:58:34 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个免费的开源 Astro Build Starter 主题</title>
+      <link>https://feed.indiehackers.world/post/f427c0e028</link>
+      <description><![CDATA[我创建了一个开源 astro 构建入门主题，让您快速启动并运行新的 Astro 网站。
+https://github.com/astrolize-fabform/astrolize-astro-template
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f427c0e028</guid>
+      <pubDate>Fri, 19 Jan 2024 12:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>新发布 - 无需代码包即可启动您的下一个产品</title>
+      <link>https://feed.indiehackers.world/post/5c6d12bbb4</link>
+      <description><![CDATA[嘿伙计们！
+我最近推出了令人惊叹的无代码包。即用型包包括：
+🧱 Webflow：前端页面。
+🧠 Wized：前端逻辑。
+🔧 XANO：后端。
+🔑 谷歌 OAuth。
+🤖 OpenAI：与模型集成。
+💳 Stripe：付款处理。
+📧 Sendgrid：电子邮件基础设施。
+🎨 UI 组件等
+使用 No Code Hero 可以节省多达一个月的时间来交付下一个大（或小）事情！
+https://no-code-hero.com
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5c6d12bbb4</guid>
+      <pubDate>Fri, 19 Jan 2024 12:26:21 GMT</pubDate>
+    </item>
     <item>
       <title>这是 Tidy Cal 的设计烤肉</title>
       <link>https://feed.indiehackers.world/post/9a64617ce8</link>
@@ -163,22 +191,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b5ecca7070</guid>
       <pubDate>Fri, 19 Jan 2024 08:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>运气=【做事】*【告诉人】</title>
-      <link>https://feed.indiehackers.world/post/882b010ede</link>
-      <description><![CDATA[如果您想了解更多有趣的内容，请在 Twitter 上关注我，又名 X 😉
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/882b010ede</guid>
-      <pubDate>Fri, 19 Jan 2024 08:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>运气=【做事】*【告诉人】</title>
-      <link>https://feed.indiehackers.world/post/5a3a5640e7</link>
-      <description><![CDATA[如果您想了解更多有趣的内容，请在 Twitter 上关注我，又名 X 😉
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5a3a5640e7</guid>
-      <pubDate>Fri, 19 Jan 2024 08:28:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:21:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 12:58:00 GMT</lastBuildDate>
+    <item>
+      <title>我们不小心创造了一个热门产品 - 它是 Photify AI 机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ai7ru/we_accidentally_created_a_hit_its_photify_ai_bot/</link>
+      <description><![CDATA[Photify AI 是人工智能驱动的照片生成器，让您只需 2 秒一张自拍照即可获得大量精彩照片！您可以选择预定义的提示或编写自己的提示来更改外观、身材、情绪、肤色、种族、文化等，为您的照片带来独特且鼓舞人心的触感。  这一切都从 Botify AI 应用程序开始，您可以在其中创建一个角色来聊天。在交谈时，您可以获得机器人应要求发送给您的令人惊叹的照片。这些图片会根据对话上下文和默认机器人面孔进行变换。例如，如果你与冬季女王弗利萨谈论美好的暑假，她会给你发一张穿着泳衣的照片……还有雪花。  两个月前，我们的一次每周例会让我们想到在 Messenger 中单独尝试这个照片模型，作为一个机器人来修改用户根据他们写的提示下载的图片。我们创建了 Telegram 机器人，第一周就超出了我们的所有预期！最近，我们为 Play Market 制作了一个应用程序，因此我们获得了超过 2 000 000 个请求！  您可以使用 Photify AI 做什么： 表达自己：无论您是内容创作者、影响者，还是只是喜欢分享故事的人，Photify AI 都是您的选择- 真实视觉叙事的工具。在照片中展示人类多样性的丰富性，让您的创造力飙升。 为变化做好准备：坚持使用 Photify AI 来预测您对未来发型的期望。收集令人印象深刻的衣服和你穿着它们的照片，创建一个情绪板来想象你的未来或让它立即发生。  与好友一起欢笑：用粉红色精灵发型或可爱的巴黎之旅为您的照片带来意想不到的转变，将照片发送给您的朋友并等待他们的反应。有更多的东西可以将你和你的爱人联系起来总是很好的。  打破障碍：Photify AI 不仅仅是一个应用程序，更是一种声明。通过打破视觉障碍，它鼓励我们感知和欣赏差异的方式发生积极转变。这是朝着促进包容性和庆祝人类织锦迈出的一步。 现在我们推出了 Product Hunt：https ://www.producthunt.com/posts/photify-ai 并将感谢您的反馈和支持。我们已经掌握了很多，如果能够继续扩大我们对用户体验的了解，那就太好了。    由   提交/u/guardedallegory588  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ai7ru/we_accidentally_created_a_hit_its_photify_ai_bot/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React Hook Form 构建动态表单</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ai5me/build_dynamic_forms_with_react_hook_form/</link>
+      <description><![CDATA[       由   提交/u/Clarity_89  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ai5me/build_dynamic_forms_with_react_hook_form/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>易于使用 FOSS MITM 代理 (forwarder-proxy.io)</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ai1ko/easy_to_use_foss_mitm_proxy_forwarderproxyio/</link>
+      <description><![CDATA[我在 Sauce Labs 工作，开发快速 MITM 代理，该代理易于设置和运行。 通过这个项目，我们的目标是提供在各种环境（例如 Windows 和 macOS）中提供最佳代理体验。 Sauce Labs 是一家进行大规模 Web/移动测试的公司，我们每天使用这项技术代理大量数据。 我邀请您探索转发器：  GitHub 存储库：https://github.com/ Saucelabs/forwarder 文档站点：https://forwarder-proxy.io  我希望这有帮助！如果您还有任何其他问题，请告诉我。   由   提交/u/mmatczuk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ai1ko/easy_to_use_foss_mitm_proxy_forwarderproxyio/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Google Fonts 中的 Ubuntu 字体在 Chromium 浏览器上看起来那么难看？火狐浏览器看起来不错。</title>
       <link>https://www.reddit.com/r/webdev/comments/19agphj/why_does_ubuntu_font_from_google_fonts_looks_so/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</guid>
       <pubDate>Fri, 19 Jan 2024 07:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我正在构建的软件正在解决真正棘手的问题，或者拥有产品只是一件好事，请提供诚实的反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</link>
-      <description><![CDATA[我正在构建一个 AI 工具，它可以读取需求文档和相关的代码库，并可以在这两者之间进行映射。然后说你有 12 个要求。 6 很容易做到，因此门票很快就关闭了。但其他 6 个对开发人员来说具有复杂的依赖关系或学习曲线。所以第二批看起来好像没有在板上移动。但随着越来越多的功能被构建来支持这些要求，这个工具可以显示正在取得的更详细的进展。公司愿意为这样的工具付费吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</guid>
-      <pubDate>Fri, 19 Jan 2024 06:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是简单网站、普通网站和高级网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19abt6r/what_is_considered_simple_normal_and_advanced/</link>
-      <description><![CDATA[正如标题所示，就 HTML 和 CSS 而言，什么被认为是简单网站和高级网站？我目前是一名初学者，我很好奇什么是简单的和高级的。如果有人可以发送一些与此相关的链接，我将不胜感激   由   提交/u/XtremeX9x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19abt6r/what_is_considered_simple_normal_and_advanced/</guid>
-      <pubDate>Fri, 19 Jan 2024 05:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用交易计算股票投资组合的解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ab8xc/solution_for_computing_equity_portfolio_using/</link>
-      <description><![CDATA[各位 Reddit 用户大家好 我正在寻找一个 API 或 NPM 包，它可以接收交易列表（股票/期货） /etc)，然后对其执行各种计算。这包括计算当前持有量、提供投资回报率图表以及夏普比率等潜在的其他财务指标。  我最初打算通过获取股票的单独价格（来自雅虎财经等）来自己编写代码，但是，很快我意识到股票分割、合并、股息等事情使得这个任务比我想象的要复杂得多。由于这是一个相对复杂的工具（每个金融相关网站都会需要），我预计会有现有的 NPM 包或 SaaS 来解决这个问题，但没有找到。有人能指出我正确的方向吗？   由   提交 /u/devmrfitz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ab8xc/solution_for_computing_equity_portfolio_using/</guid>
-      <pubDate>Fri, 19 Jan 2024 05:07:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
