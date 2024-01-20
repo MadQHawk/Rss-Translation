@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 06:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 09:11:23 GMT</lastBuildDate>
+    <item>
+      <title>面向人工智能专业人士和爱好者的新竞赛宣布</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19b6vlp/new_competition_announced_for_ai_professionals/</link>
+      <description><![CDATA[Applied AI Company (AAICO) 竞赛于 2024 年 2 月在阿联酋迪拜举行的一次特别活动中启动，由 AAICO 和 Decoding Data Science 组织。黑客马拉松的重点是为消防员服装开发实时语音处理系统。 该系统将处理消防员输入的 1 分钟音频，并： 识别关键字：系统需要识别消防员所说的关键词，例如“银河温度”。或“银河电池”。这些关键字将触发特定的操作或命令。  广播通信：系统需要向整个团队广播消防员之间的通信。这将使消防员能够彼此实时共享信息和更新。  不广播命令：系统不会广播消防员所说的关键字或命令。这是为了避免沟通渠道混乱以及不必要的信息让团队不堪重负。  黑客马拉松参与者将获得包含消防员通信和命令的录音数据集。他们必须开发一种机器学习模型，能够准确地实时识别关键字、通信和命令。该模型将根据其准确性、延迟和计算效率进行评估。  前 3 名获奖者可获得 20,000 迪拉姆（约 5,445 美元）的奖金。  报名兴趣的截止日期为 2024 年 1 月 31 日。2 月 3 日星期六，问题将被发布，所有解决方案必须在 2024 年 2 月 11 日星期日 23:59 之前提交。获奖者名单将于2 月 15 日的特别活动。 比赛是虚拟的，因此来自世界各地的任何人都可以参加。 欢迎所有人参加。获奖者将被考虑在 The Applied AI Company (AAICO) 立即注册您的团队 👉 &lt; a href=&quot;https://decodingdatascience.com/hack&quot;&gt;https://decodingdatascience.com/hack 解码数据科学和人工智能是人工智能和数据科学专业人士和爱好者的社区。   由   提交/u/pchees  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19b6vlp/new_competition_announced_for_ai_professionals/</guid>
+      <pubDate>Sat, 20 Jan 2024 08:07:30 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 1/19/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19b4t1o/oneminute_daily_ai_news_1192024/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[我想创建一个 YouTube 频道，但我有与言语相关的障碍，包括口吃、语速过快和软“r”。 是否有任何软件可以检测所有这些并将其清理，以便我可以将其用于配音？ 我尝试查找生成的 AI 语音以使用其中之一，但那让我陷入了控制台命令的海洋、可以说是昂贵的订阅服务和/或有问题的商业许可政策中。   由   提交 /u/Distinct-Temp6557    reddit.com/r/ArtificialInteligence/comments/19b2o2n/is_there_any_software_that_can_detect_and_clean/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19b2o2n/is_there_any_software_that_can_detect_and_clean/</guid>
       <pubDate>Sat, 20 Jan 2024 03:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>库兹韦尔的“加速回报定律”和人工智能的指数级进步并没有放缓。我们人类能很好地适应这种日益加快的变化吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19b26oi/kurzweils_law_of_accelerating_returns_and/</link>
-      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/Georgeo57  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19b26oi/kurzweils_law_of_accelerating_returns_and/</guid>
-      <pubDate>Sat, 20 Jan 2024 03:27:00 GMT</pubDate>
     </item>
     <item>
       <title>如何在提供 customGPT 之前处理大型 PDF 文件并构建数据</title>
