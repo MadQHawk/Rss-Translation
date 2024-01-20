@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 15:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 18:15:19 GMT</lastBuildDate>
     <item>
-      <title>我在 TypeScript 中创建了一个用于类型安全分布式计算的库</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bdlte/i_created_a_library_for_typesafe_distributed/</link>
-      <description><![CDATA[       由   提交/u/http203  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bdlte/i_created_a_library_for_typesafe_distributed/</guid>
-      <pubDate>Sat, 20 Jan 2024 15:00:59 GMT</pubDate>
+      <title>Reddit Tracker 发现早期趋势</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bht92/reddit_tracker_to_spot_early_trends/</link>
+      <description><![CDATA[Web 开发人员大家好， 我喜欢尽早跟上趋势，并在趋势起飞之前开始构建有用的 Web 项目。 但是要检测趋势...您需要数据。 过去我使用 subredditstats 来实现此目的，因为小型、快速增长的 subreddit 通常表明趋势。 但是几周前 subredditstats 停止工作。 这就是我构建 reddstats.com 的原因。 reddstats 跟踪每天大约增长 900000 个 subreddit。 它已经帮助我识别了一些有趣的、即将到来的趋势。 一个有趣的 subreddit： Apple Vision Pro（在我看来有很多潜力） ​ 很想得到一些反馈。  ​ ​ ​  &amp; #32；由   提交 /u/reddstats   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bht92/reddit_tracker_to_spot_early_trends/</guid>
+      <pubDate>Sat, 20 Jan 2024 18:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>最低限度的 CSS 响应能力和可读性</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bdccf/bare_minimum_css_for_responsiveness_and/</link>
-      <description><![CDATA[我尝试在这个和其他相关子版块中搜索此内容，但我似乎找不到它。 我还记得不久前的一篇文章，其中一些人分享了一个网站，该网站是响应式网站所需的最低限度的 CSS。它本质上是一个模板网站。其他人也开始分享更现代的版本，包括无衬线字体和深色模式，这是初始版本所缺乏的。  TLDR：这里有人知道一个网站的名称吗？响应式布局。 提前谢谢您！   由   提交/u/huntsalone01  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bdccf/bare_minimum_css_for_responsiveness_and/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:48:45 GMT</pubDate>
+      <title>我构建了一个支持搜索的编程助手</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bhopd/i_built_a_searchenabled_programming_assistant/</link>
+      <description><![CDATA[       由   提交/u/jsonathan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bhopd/i_built_a_searchenabled_programming_assistant/</guid>
+      <pubDate>Sat, 20 Jan 2024 18:03:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关使用 TypeScript/React 构建具有 3D 视口的 Web 编辑器的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bdax4/seeking_advice_on_building_a_web_editor_with_3d/</link>
-      <description><![CDATA[您好，我是一名程序员，我想创建一个带有 3D 视口的 Web 编辑器来创建简单的形状，例如立方体和球体。有什么方法可以让我用 typescript 或 React 编写一次代码，并在浏览器中运行相同的前端（它将与后台的一些 REST API 进行通信，也有 grpc 的）（我需要 webgl 吗？）并在桌面应用程序可能带有诸如电子之类的东西？  对于第一个版本，我可能只会得到“.png”来自服务器的视口图像，然后可能稍后移动到“流位置和几何图形”以提高性能。我现在无法控制后端，但我可以请求 API。  感谢您的任何建议，我真的不知道该开始探索哪些技术来解决这个问题。   由   提交/u/Specialist_Ice_5715   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bdax4/seeking_advice_on_building_a_web_editor_with_3d/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:46:48 GMT</pubDate>
+      <title>查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖项和导出。发货前先把它剪掉！</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bhn7g/find_unused_files_dependencies_and_exports_in/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bhn7g/find_unused_files_dependencies_and_exports_in/</guid>
+      <pubDate>Sat, 20 Jan 2024 18:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>少量成功</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bd8wl/success_in_small_numbers/</link>
-      <description><![CDATA[作为开发者，我们经常听说独立创作者取得了令人难以置信的成功，但我们很少能一睹他们真正的挣扎和胜利。这就是“少数人的成功”的意义所在。我的时事通讯是对在科技界产生巨大影响的小团队的致敬。无论是独立游戏开发者还是 SAAS 初创公司，他们的旅程都充满了经验教训和灵感。 这些故事不仅仅关乎成功，还关乎成功。它们是关于紧凑团队面对挑战时的力量和弹性。让我们一起深入研究这些不为人知的故事，并找到我们自己的项目所需的动力。 如果这听起来很有趣，请访问该网站并订阅，这样您就不会错过 22 日的第一期. https://www.successinsmallnumbers.com/   由   提交 /u/McWipey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bd8wl/success_in_small_numbers/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:44:08 GMT</pubDate>
+      <title>作品集网站 [周六炫耀]</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bhmnm/portfolio_website_showoff_saturday/</link>
+      <description><![CDATA[我是一名业余程序员，用 3 个小项目制作了这个作品集网站： ​ https://freds-portfolio.onrender.com/ ​&lt; /p&gt;  使用 Express、MongoDB、Stripe 和 Auth 的电子商务商店 Google Books API 2D Canvas 游戏  &lt; p&gt;问题：  接下来我应该做什么来改进？学习 TypeScript 或 next.js 是一个好的计划吗？ 我已经拥有工程和管理学士学位，但我更喜欢编程 - 是否建议再读一个计算机科学学士学位，或者我已经可以这样做网络开发实习生并逐步晋升？   ​ ​   由   提交 /u/kadaxda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bhmnm/portfolio_website_showoff_saturday/</guid>
+      <pubDate>Sat, 20 Jan 2024 18:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>学习 SQL 移动应用/游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bd1ip/learn_sql_mobile_apps_games/</link>
-      <description><![CDATA[有人可以为 SQL 初学者-中级人员推荐一款类似游戏的移动应用程序吗？有没有像 duolingo 或国际象棋战术谜题这样的应用程序，您可以每天玩 10-15 分钟来提高 SQL 查询的编写能力？   由   提交/u/domwc14  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bd1ip/learn_sql_mobile_apps_games/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:34:14 GMT</pubDate>
+      <title>如何设置自动每月托管费用？充电和接受付款的最佳平台是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bhdsp/how_do_you_set_up_automatic_monthly_charges_for/</link>
+      <description><![CDATA[我目前使用 Square 进行所有销售，并且由于我正在向想要自动付款（而不是每月发送发票）的客户发展，我发现他们的系统达不到人们的期望（无法提前安排自动付款，无法提前 x 天提醒客户他们将被收费，无法要求客户保存付款信息等）。 当然，你们中有些人从事这行的时间比我长，并且知道“正确的”方法。方法来做到这一点。我愿意按月付费或以其他方式购买一个好的系统，该系统可以包含许多用于跟踪销售等的功能。 我在网上看到的每个 CRM 确实都非常耗时。试用的角度（他们在向您展示应用程序之前需要您的电话号码和电子邮件），我什至不确定这些类型的东西是否可以处理计费等。    由   提交 /u/atalkingfish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bhdsp/how_do_you_set_up_automatic_monthly_charges_for/</guid>
+      <pubDate>Sat, 20 Jan 2024 17:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>超越代码——工程师与知识丢失的斗争</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bcgau/beyond_the_code_an_engineers_battle_against/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bcgau/beyond_the_code_an_engineers_battle_against/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:03:46 GMT</pubDate>
+      <title>面试官问了这个小问题，请解释一下。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bhd1k/interviewer_asked_this_little_question_please/</link>
+      <description><![CDATA[有人问我：- let a = {}let b = {}console.log(a==b ) //false 面试官想让我深入解释一下为什么它是假的。如果有什么深入的解释，请您解释一下。计算机如何处理内存分配？浅复制与深复制在这种情况下会产生影响。抱歉，如果我问一个新手问题。 ​   由   提交 /u/outlierkk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bhd1k/interviewer_asked_this_little_question_please/</guid>
+      <pubDate>Sat, 20 Jan 2024 17:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>您最喜欢哪个个人项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bcc3a/what_personal_project_did_you_enjoy_the_most/</link>
-      <description><![CDATA[我最喜欢的项目是使用 WebSockets 创建聊天应用程序。不仅学习 Websocket 及其附带的所有内容都很酷，而且我可以与其他人实时聊天的最终结果也很酷。  &amp;# 32；由   提交 /u/OutlandishnessSad764   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bcc3a/what_personal_project_did_you_enjoy_the_most/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:58:00 GMT</pubDate>
+      <title>域和 DNS 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bggyg/problems_with_domains_and_dns/</link>
+      <description><![CDATA[带有 www 前缀的域重定向到旧的、已删除的托管服务 带有 www。重定向到错误的托管 首先，我是新人，这是我第一次自己做这样的事情。  当我今年第一次购买域名时，我使用了 netlify dns 和托管，几天后决定使用 cloudflare。  从我的注册商处，我删除了 netlify dns，现在只有 2 个 pete 和 eve cloudflare，我也从 netlify 中删除了整个托管，但是当我专门转到 www。 mysite.com 会抛出 netlify 404 错误，而访问 mysite.com 则工作正常，与 https 相同   由   提交 /u/Centered-Div   /u/Centered-Div reddit.com/r/webdev/comments/19bggyg/problems_with_domains_and_dns/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bggyg/problems_with_domains_and_dns/</guid>
+      <pubDate>Sat, 20 Jan 2024 17:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>聊天和学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bc405/chatting_and_learning/</link>
-      <description><![CDATA[我是一名经验丰富的程序员，最近我将知识传授给我的一位对 .Net 感兴趣的朋友，这是我编写的代码库 我很喜欢通过 Slack 进行在线会议以及一般的教学过程。 我有一些空闲时间，我想知道是否可以建立一个小社区希望能够共同提供见解并教授一些有关编程的知识。 我愿意接受语言/框架的建议。我并不熟悉所有这些语言/框架，但我确信我可以跟上进度，并且也可能学到一些东西！ 也就是说，以下是我熟悉的语言/框架：&lt; /p&gt;  C/C++。 20多年。我可能有点生疏了，我已经一年没碰它了。我使用 Win32 C Api 进行编码多年。 C#。 15 年以上，最近使用 swagger 开发 Asp.net core/identity + MySQL 到 Flutter UI。 Dart/Flutter。经过 1 年的努力，我的应用程序现已在 iOS 和 Android 上上线。 Javascript。舒适但不热衷！ Typescript。虽然是新手，但这是一个值得欢迎的改进，我已经学习了一周左右。 Php.很好，很简单，我在圣诞节期间的几周内为一个小型项目选择了它。 Java。 12年没碰过。我不介意再去那里一次。 Rust。喜欢，不过我正在学习atm。我只在其中编写了一个应用程序。 x64/x86！已经有一段时间了，但如果你真的很极客，我们可以一起去那里！  如果有人感兴趣，那么我们可以使用 Slack 进行团队会议。 欢迎所有级别！ 来找我吧！   由   提交 /u/MartynAndJasper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bc405/chatting_and_learning/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:46:16 GMT</pubDate>
+      <title>如何改进这个用户界面</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bgf7g/how_to_improve_this_ui/</link>
+      <description><![CDATA[       由   提交 /u/StudyInProgress   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bgf7g/how_to_improve_this_ui/</guid>
+      <pubDate>Sat, 20 Jan 2024 17:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>GSAP ScrollTrigger 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bc2wy/gsap_scrolltrigger_issue/</link>
-      <description><![CDATA[嘿伙计们！  我有一个具有 max-width 和 margin-left auto 的部分，其中滑块触发 ScrollTrigger 动画。 我的问题是向上滚动（到滑块开头）时等待，直到用户可以再次在页面上滚动...这是我的代码： let tl = gsap.timeline({scrollTrigger: {trigger: &quot;.container&quot;; ，pin：true，开始：`顶部顶部`，结束：&#39;底部底部&#39;，擦洗：2 } }); tl.to(“.list”, { x: () =&gt; -moveDistance, 持续时间: 1 });  你能帮我吗？  谢谢！   由   提交 /u/upsips   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bc2wy/gsap_scrolltrigger_issue/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:44:40 GMT</pubDate>
+      <title>在github页面上部署vite-react应用程序时遇到问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bg83k/facing_problem_in_deploying_vitereact_app_on/</link>
+      <description><![CDATA[      我在 github 页面上上传了我的 viite-react 应用程序（通过观看 yt vdo），但现在它除了标题和 favicon 之外不渲染任何内容。控制台显示这些错误。我该如何解决它..？ &gt;https://preview.redd.it/4gt20urolmdc1.png?width=771&amp;format=png&amp;auto=webp&amp;s=8ccb32d068fa97ffe2b112653845bd434d29bc42   由   提交/u/ayaan_012  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bg83k/facing_problem_in_deploying_vitereact_app_on/</guid>
+      <pubDate>Sat, 20 Jan 2024 16:59:33 GMT</pubDate>
     </item>
     <item>
-      <title>使 CORS 工作变得简单的工具箱</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bbubj/toolbox_that_makes_working_with_cors_easy/</link>
-      <description><![CDATA[       大家好， 我是 Max，我想向您展示我的 CORS（跨源资源共享）工具箱的 MVP。 &lt;它的目标是提供各种工具来减轻使用 CORS 时的痛苦。作为一名网络开发人员，您可能已经亲身体验过。 目前的工具是： - CORS 调试器，可以详细告诉您客户端请求是否正在传递服务器的 CORS 策略&lt; /p&gt;  - 一个配置生成器，为您的后端提供安全的 CORS 配置 我有更多的想法，但首先我想检查人们是否真正看到了其中的一些价值。  如果这听起来对您有帮助，请随时查看此处。 &lt; p&gt;如果您想关注我的开发之旅，我将在 Twitter 上发布更新。 干杯感谢大家参加周六的 Showoff CORS 调试器的输出   由   提交 /u/__brennerm   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bbubj/toolbox_that_makes_working_with_cors_easy/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:32:04 GMT</pubDate>
+      <title>一个免费开源的抽认卡学习平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bg456/a_free_and_open_source_flashcard_studying_platform/</link>
+      <description><![CDATA[嘿！ 👋 大约一年前，Quizlet 开始对其许多核心功能进行付费。对于那些不知道 Quizlet 是什么的人来说，这是一个广泛使用的网站，提供抽认卡学习工具。现在，这个付费专区的费用是每年 100 美元以上，以前每个人都可以使用这些功能，但这对我来说并不合适。 因此，我一直在开发一个等效的开源项目过去的一年称为 Scholarsome。它是一个基于网络的开源学习系统。您可以创建抽认卡、参加测验来测试您的知识，并与其他用户共享您的集合 - 所有这些都可以从任何设备访问。它有一个任何人都可以理解的易于使用的界面，但仍然有强大的工具来帮助您学习。 您还可以从 Quizlet、Anki 和 CSV 文件导入集合 - 并导出为这些格式也。令我恼火的是，Quizlet 只为您提供了一种粗略的导出集合的方法，并且只允许您在创建集合时导出集合 - 这不是 Scholarsome 的问题。 我在以下位置免费托管一个公共版本： https://scholarsome.com - 它运行与最新版本相同的版本，并具有所有相同的功能。如果您想了解有关项目的更多信息，可以查看我们的 GitHub 页面 https://github.com/hwgilbert16/scholarsome&lt; /a&gt; 除了使用公共托管版本之外，您还可以在本地安装 Scholarsome 并自行托管。我们在 https://scholarsome.com/handbook/ 上提供了有关使用该应用程序、如何自行托管该应用程序以及开发人员文档的大量文档。  很高兴回答您在评论或项目社区服务器中提出的任何问题。 (https://discord.gg/hRgVvc5MKf)    ;由   提交 /u/Treked   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bg456/a_free_and_open_source_flashcard_studying_platform/</guid>
+      <pubDate>Sat, 20 Jan 2024 16:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>Permify - 我们构建了一个开源（Github 上有 2.2k 颗星⭐）授权基础设施，用于构建可扩展的授权系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bbo5a/permify_we_built_an_opensource_22k_stars_on/</link>
-      <description><![CDATA[       由   提交 /u/ege-aytin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bbo5a/permify_we_built_an_opensource_22k_stars_on/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:22:56 GMT</pubDate>
+      <title>Eye See You：Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bfk1z/eye_see_you_chrome_extension/</link>
+      <description><![CDATA[（之前已删除，因为不是周六） Eye See You 我制作了一个扩展程序，可以在您浏览的页面中的图像中查找面孔，并附加跟随鼠标移动的眼睛光标在页面周围。它最初是我大约一年前组装的 CodePen。 这个扩展可以很好地与Google 图片搜索头像或其他任何地方有很多中/大尺寸的面孔。 好吧，因此权限要求读取和更改所有站点数据，这是我访问 DOM 以将元素附加到页面的唯一方法。我知道人们对此有所保留，我明白，但我只是想预先解释一下。没有进行任何跟踪或任何数据收集。这只是一双眼睛。   由   提交/u/gimmeslack12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bfk1z/eye_see_you_chrome_extension/</guid>
+      <pubDate>Sat, 20 Jan 2024 16:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>根据您每天阅读的内容创建个性化时事通讯</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bbned/create_a_personalized_newsletter_of_content_you/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/usedigest  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bbned/create_a_personalized_newsletter_of_content_you/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:21:48 GMT</pubDate>
+      <title>自动缩放和自动部署/CI CD 的正确方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bffa3/what_is_correct_way_to_auto_scale_and_auto/</link>
+      <description><![CDATA[我目前是一名数据科学家，但我正在构建一些业余项目以成为一名网络开发人员（如果您对实现这一目标有任何建议，请告诉我!)  我的前端是一个 React SPA，为了托管它，我将设置 netlify 并在那里上传 JS 包。我的后端要么是 GO，要么是 Docker 容器内的 C# .net api（目前在两者之间尚未确定）。  我本来打算编写一些基本的单元测试来学习它们，但这是我的问题： - 对于前端，是否有一个工具可以自动运行单元测试，然后在有人推送到 master 时部署到 netlify？ - 对于后端，是否有一个服务/工具，我可以自动运行单元测试，然后将 docker 容器推送到自动化 kubernetes/自动缩放服务（正在考虑使用数字海洋的 kubernetes） 感谢任何接受的人是时候帮忙了！   由   提交/u/GinjaTurtles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bffa3/what_is_correct_way_to_auto_scale_and_auto/</guid>
+      <pubDate>Sat, 20 Jan 2024 16:23:50 GMT</pubDate>
     </item>
     <item>
-      <title>您在编写单元测试时是否引用用户故事的功能逻辑，或者您是否仅专注于验证代码的功能（假设在代码开发过程中遵循了用户故事中的业务逻辑）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bb8ue/do_you_reference_the_user_story_for_functional/</link>
-      <description><![CDATA[.   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bb8ue/do_you_reference_the_user_story_for_functional/</guid>
-      <pubDate>Sat, 20 Jan 2024 12:59:55 GMT</pubDate>
+      <title>我构建了一个人工智能应用程序来为您提供短信回复建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bfcn2/i_built_an_ai_app_to_give_you_reply_suggestions/</link>
+      <description><![CDATA[      我参加了 Scott Moss 在前端大师举办的人工智能研讨会在与我的一位朋友交谈时想到了这个想法。您所要做的就是上传短信的屏幕截图、设定基调并获取回复建议。  让我知道你们的想法。欢迎任何反馈 链接 - usewingmanai.com   由   提交/u/codingknite  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bfcn2/i_built_an_ai_app_to_give_you_reply_suggestions/</guid>
+      <pubDate>Sat, 20 Jan 2024 16:20:37 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个专注于音乐的社交媒体</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bb8kk/i_made_a_music_focused_social_media/</link>
-      <description><![CDATA[       该网站名为 Beatsync，是一个专注于音乐的社交媒体。 该网站的目标是为人们提供一种分享对音乐的热爱的方式并结识其他人。 目前它支持基本功能，例如创建个人资料、创建和删除帖子、将歌曲、播放列表和图像附加到帖子、添加评论、喜欢帖子和评论、关注用户...&lt; /p&gt; 我还想根据应用程序的反馈添加更多功能，例如消息传递、通知... 要访问该网站，请单击以下链接并创建一个帐户：&lt; /p&gt; https://beatsync-frontend.vercel.app 网站使用Deezer API，因此您需要一个 Deezer 帐户才能登录 前端和后端的存储库可以在以下链接中找到： https://github.com/Lucas-4/beatsync-API https://github.com/Lucas-4/beatsync-Frontend 随时报告任何问题并提供有关我的内容的反馈可以更改、添加或改进。 谢谢大家！ ​ https://preview.redd.it/axnxst1alldc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=85f6e 3816b10950036845108096bfa4ba9bcdf14    由   提交 /u/Asdragarth   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bb8kk/i_made_a_music_focused_social_media/</guid>
-      <pubDate>Sat, 20 Jan 2024 12:59:27 GMT</pubDate>
+      <title>顺风 vs 我</title>
+      <link>https://www.reddit.com/r/webdev/comments/19beitw/tailwind_vs_me/</link>
+      <description><![CDATA[作为一名工程师，我觉得我即将输掉反对在生产代码中使用 Tailwind 的战争。我在许多项目上经历过多次战斗，但有些事情可能不再值得战斗。 我很欣赏 Tailwind，因为它减轻了许多前端开发人员认为的繁重工作，或者低于这些工作，或者太“不合逻辑”了 但我历来对那些我担心样式的长期可变性/可扩展性的应用程序划定了界限。我可以一遍又一遍地说以下内容，但它不会引起共鸣，尤其是对于 React 开发人员： “我希望您使用语义类名称来设计模式提交按钮的样式。我不希望您将该按钮的样式设置为圆形、红色背景、白色粗体文本。” 我认为年轻的开发人员有很好的理解力（无论如何比我在相似年龄时更好）关于关注点分离。让你的皮肤分离和可更换的概念可以追溯到网络出现之前。但当顺风进入谈话时，这一切对他们来说似乎都不重要了。 我的想法哪里出了问题？我缺少什么？   由   提交/u/lotusland17  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19beitw/tailwind_vs_me/</guid>
+      <pubDate>Sat, 20 Jan 2024 15:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何为客户端和客户端创建一个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bb4pk/how_to_create_a_website_for_both_customer_side/</link>
-      <description><![CDATA[我想创建一个网站，人们（求职者）有一个个人资料，通过以求职者身份登录和以客户身份登录的客户来展示他们的工作，可以根据给定的过滤器查看所有求职者。客户和客户都会有个人资料，一旦客户认为相应的人适合他们的工作，我们将可以选择与求职者聊天。  这不是确切的想法，但我希望网站像这样工作。启发我如何去做。还请告诉我是否有更好的方法。像 upwork 这样的网站只有一次登录，有 2 个选项，因此可以申请工作并发布工作。让我知道哪种方法更好以及如何实现。   由   提交/u/Mindless-nomad  /u/Mindless-nomad reddit.com/r/webdev/comments/19bb4pk/how_to_create_a_website_for_both_customer_side/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bb4pk/how_to_create_a_website_for_both_customer_side/</guid>
-      <pubDate>Sat, 20 Jan 2024 12:53:11 GMT</pubDate>
+      <title>【周六秀】800+精心挑选和整理的网页开发设计资源，收集了十多年的行业经验并定期修剪！</title>
+      <link>https://www.reddit.com/r/webdev/comments/19befuv/showoff_saturday_800_handpicked_and_organised/</link>
+      <description><![CDATA[   /u/addycodes  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19befuv/showoff_saturday_800_handpicked_and_organised/</guid>
+      <pubDate>Sat, 20 Jan 2024 15:39:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
