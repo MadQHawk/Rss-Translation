@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 18:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 21:12:04 GMT</lastBuildDate>
     <item>
-      <title>Reddit Tracker 发现早期趋势</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bht92/reddit_tracker_to_spot_early_trends/</link>
-      <description><![CDATA[Web 开发人员大家好， 我喜欢尽早跟上趋势，并在趋势起飞之前开始构建有用的 Web 项目。 但是要检测趋势...您需要数据。 过去我使用 subredditstats 来实现此目的，因为小型、快速增长的 subreddit 通常表明趋势。 但是几周前 subredditstats 停止工作。 这就是我构建 reddstats.com 的原因。 reddstats 跟踪每天大约增长 900000 个 subreddit。 它已经帮助我识别了一些有趣的、即将到来的趋势。 一个有趣的 subreddit： Apple Vision Pro（在我看来有很多潜力） ​ 很想得到一些反馈。  ​ ​ ​  &amp; #32；由   提交 /u/reddstats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bht92/reddit_tracker_to_spot_early_trends/</guid>
-      <pubDate>Sat, 20 Jan 2024 18:08:48 GMT</pubDate>
+      <title>接下来我应该实现什么功能？ 2 真相 1 谎言</title>
+      <link>https://www.reddit.com/r/webdev/comments/19blyqq/what_feature_should_i_implement_next_2_truths_1/</link>
+      <description><![CDATA[大家好我最近一直在制作这个网页游戏(https://www.two-truths-one-lie.com/），我有一个我想尽快开发的功能列表。请看一下游戏并告诉我您接下来想看哪款游戏。我将实施获得更多选票的方案。  显示每个句子的正确/错误答案的百分比 猜测或未回答答案时的炫酷动画和声音 显示用户记录，例如连续更快猜出 20 个答案的用户的用户名 成就板 根据人们回答错误的频率显示每个问题的难度  非常欢迎功能建议🚀 游戏的链接是：https://www.two-truths-one-lie.com/   由   提交/u/Cold_Complex945   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19blyqq/what_feature_should_i_implement_next_2_truths_1/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个支持搜索的编程助手</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bhopd/i_built_a_searchenabled_programming_assistant/</link>
-      <description><![CDATA[       由   提交/u/jsonathan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bhopd/i_built_a_searchenabled_programming_assistant/</guid>
-      <pubDate>Sat, 20 Jan 2024 18:03:24 GMT</pubDate>
+      <title>Firefox 中的间隔和 setTimeout 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19blmg1/issue_with_interval_and_settimeout_in_firefox/</link>
+      <description><![CDATA[我正在尝试创建自己的节拍器应用程序，并且在 Chrome 和 IE 中一切正常。但由于某些原因，Forefox 中的超时开始变得奇怪，并且音频开始重叠。 我只在 Firefox 中遇到此错误有什么具体原因吗？我该如何修复它？   由   提交 /u/diarmuid_odyna   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19blmg1/issue_with_interval_and_settimeout_in_firefox/</guid>
+      <pubDate>Sat, 20 Jan 2024 20:53:53 GMT</pubDate>
     </item>
     <item>
-      <title>查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖项和导出。发货前先把它剪掉！</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bhn7g/find_unused_files_dependencies_and_exports_in/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bhn7g/find_unused_files_dependencies_and_exports_in/</guid>
-      <pubDate>Sat, 20 Jan 2024 18:01:39 GMT</pubDate>
+      <title>对 Google 身份验证的工作原理感到困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bl39p/confused_about_how_google_authenticate_works/</link>
+      <description><![CDATA[我正在看这个示例：https://codesandbox.io/p/sandbox/otplib-yt9ytk?file=%2Fsrc%2FApp.js%3A32%2C5 看看它背后的理论：https://soshace.com/implementing-two- Factor-authentication-with-nodejs-and-otplib、https://www.youtube.com/watch? v=XYVrnZK5MAU  这是服务器和客户端之间共享的[秘密]令牌，因此我们可以确定客户端已以某种方式被授予访问权限。由于服务器负责生成令牌，因此我们面临的第一个问题是与客户端共享密钥。  秘密是服务器和用户都知道的东西。秘密加上计数器用于生成 OTP（长字符串），然后将其转换为较短的整数。 用户输入较短的整数，服务器使用秘密和当前计数器值确定当前生成和截断的 OTP 是否等于用户输入的 OTP。  第二步是找到一种方法，让客户端能够访问服务器生成的机密。由于大多数现代手机都配有摄像头，因此二维码是对（不方便的长）字符串进行编码的一种便捷方式，这样用户就不必将其键入。  我看不到Google Authenticator 在哪里发挥作用 - 除了节省用户手动应用截断算法（OTP 长字符串到较短整数）的痛苦之外？由于用户知道他们的秘密，并且服务器向用户提供长 OTP，因此用户拥有自己确定较短 OTP 所需的所有数据？    ;由   提交/u/passerbyalbatross   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bl39p/confused_about_how_google_authenticate_works/</guid>
+      <pubDate>Sat, 20 Jan 2024 20:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>作品集网站 [周六炫耀]</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bhmnm/portfolio_website_showoff_saturday/</link>
-      <description><![CDATA[我是一名业余程序员，用 3 个小项目制作了这个作品集网站： ​ https://freds-portfolio.onrender.com/ ​&lt; /p&gt;  使用 Express、MongoDB、Stripe 和 Auth 的电子商务商店 Google Books API 2D Canvas 游戏  &lt; p&gt;问题：  接下来我应该做什么来改进？学习 TypeScript 或 next.js 是一个好的计划吗？ 我已经拥有工程和管理学士学位，但我更喜欢编程 - 是否建议再读一个计算机科学学士学位，或者我已经可以这样做网络开发实习生并逐步晋升？   ​ ​   由   提交 /u/kadaxda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bhmnm/portfolio_website_showoff_saturday/</guid>
-      <pubDate>Sat, 20 Jan 2024 18:01:03 GMT</pubDate>
+      <title>自由职业作品集审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bkmzk/portfolio_review_for_freelance_work/</link>
+      <description><![CDATA[我可以对我的作品集进行审核吗？既是为了获得一份自由职业，也是为了进入网络开发市场。  另外，什么样的作品集有助于更多的自由职业 谢谢 链接： https://www.udabasili.online/   由   提交/u/udbasil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bkmzk/portfolio_review_for_freelance_work/</guid>
+      <pubDate>Sat, 20 Jan 2024 20:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>如何设置自动每月托管费用？充电和接受付款的最佳平台是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bhdsp/how_do_you_set_up_automatic_monthly_charges_for/</link>
-      <description><![CDATA[我目前使用 Square 进行所有销售，并且由于我正在向想要自动付款（而不是每月发送发票）的客户发展，我发现他们的系统达不到人们的期望（无法提前安排自动付款，无法提前 x 天提醒客户他们将被收费，无法要求客户保存付款信息等）。 当然，你们中有些人从事这行的时间比我长，并且知道“正确的”方法。方法来做到这一点。我愿意按月付费或以其他方式购买一个好的系统，该系统可以包含许多用于跟踪销售等的功能。 我在网上看到的每个 CRM 确实都非常耗时。试用的角度（他们在向您展示应用程序之前需要您的电话号码和电子邮件），我什至不确定这些类型的东西是否可以处理计费等。    由   提交 /u/atalkingfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bhdsp/how_do_you_set_up_automatic_monthly_charges_for/</guid>
-      <pubDate>Sat, 20 Jan 2024 17:50:21 GMT</pubDate>
+      <title>如何在 e2e 测试中模拟组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bkdlc/how_to_mock_a_component_in_e2e_test/</link>
+      <description><![CDATA[我可能是个大傻瓜。但不明白我怎么能做到这一点。 https://www.reddit。 com/r/MSPlaywright/s/Hz6fYeg0Gl   由   提交/u/Creepy_Tax_3759   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bkdlc/how_to_mock_a_component_in_e2e_test/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:59:38 GMT</pubDate>
     </item>
     <item>
-      <title>面试官问了这个小问题，请解释一下。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bhd1k/interviewer_asked_this_little_question_please/</link>
-      <description><![CDATA[有人问我：- let a = {}let b = {}console.log(a==b ) //false 面试官想让我深入解释一下为什么它是假的。如果有什么深入的解释，请您解释一下。计算机如何处理内存分配？浅复制与深复制在这种情况下会产生影响。抱歉，如果我问一个新手问题。 ​   由   提交 /u/outlierkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bhd1k/interviewer_asked_this_little_question_please/</guid>
-      <pubDate>Sat, 20 Jan 2024 17:49:29 GMT</pubDate>
+      <title>我创建了一个扩展程序，可以让您在任何实时网站、屏幕上的任何位置留下评论并标记其他人。它像信使一样实时工作。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bkar6/i_created_an_extension_that_lets_you_leave/</link>
+      <description><![CDATA[   /u/hustle_fred  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bkar6/i_created_an_extension_that_lets_you_leave/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:56:01 GMT</pubDate>
     </item>
     <item>
-      <title>域和 DNS 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bggyg/problems_with_domains_and_dns/</link>
-      <description><![CDATA[带有 www 前缀的域重定向到旧的、已删除的托管服务 带有 www。重定向到错误的托管 首先，我是新人，这是我第一次自己做这样的事情。  当我今年第一次购买域名时，我使用了 netlify dns 和托管，几天后决定使用 cloudflare。  从我的注册商处，我删除了 netlify dns，现在只有 2 个 pete 和 eve cloudflare，我也从 netlify 中删除了整个托管，但是当我专门转到 www。 mysite.com 会抛出 netlify 404 错误，而访问 mysite.com 则工作正常，与 https 相同   由   提交 /u/Centered-Div   /u/Centered-Div reddit.com/r/webdev/comments/19bggyg/problems_with_domains_and_dns/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bggyg/problems_with_domains_and_dns/</guid>
-      <pubDate>Sat, 20 Jan 2024 17:10:00 GMT</pubDate>
+      <title>三天学会React？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bjulj/learning_react_in_3_days/</link>
+      <description><![CDATA[我意识到我的学位计划不会涵盖 React 任何内容，因为它专注于 TypeScript 和 Angular。我希望对 React 有一些实用的了解，以便为今后的发展打下良好的基础。如果你有 3 天的时间，对于不懂 React 的人来说，最重要的事情是什么？我应该注意什么以及我应该真正在脑海中记住并记住什么？   由   提交/u/Chemillion  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bjulj/learning_react_in_3_days/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>如何改进这个用户界面</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bgf7g/how_to_improve_this_ui/</link>
-      <description><![CDATA[       由   提交 /u/StudyInProgress   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bgf7g/how_to_improve_this_ui/</guid>
-      <pubDate>Sat, 20 Jan 2024 17:07:50 GMT</pubDate>
+      <title>有什么优雅的方式来处理使用普通 JavaScript 创建 HTML 元素吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bjr9a/any_elegant_way_to_handle_creating_html_elements/</link>
+      <description><![CDATA[目前，我使用： &#39;&lt;tr&gt;&#39; + this.#buildColumn(title) + &#39;${new Date(date)}&#39; + &#39;${this.text}&#39; + &#39;${this.link}&#39; + &#39;&lt;/tr&gt;&#39;;  我正在寻找更好的东西： const row = () =&gt;; tr( td(标题), td( b(&#39;世界&#39;), span(a({href: &#39;vanjs.org&#39;}, &#39;VanJS&#39;)), ), td(&#39;文本&#39;) ) &lt; /pre&gt; 这是 VanJS，它非常好，正是我正在寻找的，但我有普通 JavaScript 作为限制（没有框架、库）... 你知道有什么优雅的方法来处理许多元素的创建吗？哦，更好的是，你知道我如何复制 VanJS 的技巧技巧” 在类内？   由   提交 /u/Wise_Stick9613   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bjr9a/any_elegant_way_to_handle_creating_html_elements/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>在github页面上部署vite-react应用程序时遇到问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bg83k/facing_problem_in_deploying_vitereact_app_on/</link>
-      <description><![CDATA[      我在 github 页面上上传了我的 viite-react 应用程序（通过观看 yt vdo），但现在它除了标题和 favicon 之外不渲染任何内容。控制台显示这些错误。我该如何解决它..？ &gt;https://preview.redd.it/4gt20urolmdc1.png?width=771&amp;format=png&amp;auto=webp&amp;s=8ccb32d068fa97ffe2b112653845bd434d29bc42   由   提交/u/ayaan_012  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bg83k/facing_problem_in_deploying_vitereact_app_on/</guid>
-      <pubDate>Sat, 20 Jan 2024 16:59:33 GMT</pubDate>
+      <title>项目使用哪些 api？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bj8ca/which_apis_to_use_for_projects/</link>
+      <description><![CDATA[我用来托管 api 的第一个 Web 平台是 RapidAPI，但过了一会儿它说试用期已过期，我所有的工作都消失了，我不希望这样我的项目发生了这样的情况，如果我想避免丢失我的项目，我应该使用哪个 api 或者我应该采取什么预防措施？   由   提交 /u/Flaky-Pspecial3202   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bj8ca/which_apis_to_use_for_projects/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:09:40 GMT</pubDate>
     </item>
     <item>
-      <title>一个免费开源的抽认卡学习平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bg456/a_free_and_open_source_flashcard_studying_platform/</link>
-      <description><![CDATA[嘿！ 👋 大约一年前，Quizlet 开始对其许多核心功能进行付费。对于那些不知道 Quizlet 是什么的人来说，这是一个广泛使用的网站，提供抽认卡学习工具。现在，这个付费专区的费用是每年 100 美元以上，以前每个人都可以使用这些功能，但这对我来说并不合适。 因此，我一直在开发一个等效的开源项目过去的一年称为 Scholarsome。它是一个基于网络的开源学习系统。您可以创建抽认卡、参加测验来测试您的知识，并与其他用户共享您的集合 - 所有这些都可以从任何设备访问。它有一个任何人都可以理解的易于使用的界面，但仍然有强大的工具来帮助您学习。 您还可以从 Quizlet、Anki 和 CSV 文件导入集合 - 并导出为这些格式也。令我恼火的是，Quizlet 只为您提供了一种粗略的导出集合的方法，并且只允许您在创建集合时导出集合 - 这不是 Scholarsome 的问题。 我在以下位置免费托管一个公共版本： https://scholarsome.com - 它运行与最新版本相同的版本，并具有所有相同的功能。如果您想了解有关项目的更多信息，可以查看我们的 GitHub 页面 https://github.com/hwgilbert16/scholarsome&lt; /a&gt; 除了使用公共托管版本之外，您还可以在本地安装 Scholarsome 并自行托管。我们在 https://scholarsome.com/handbook/ 上提供了有关使用该应用程序、如何自行托管该应用程序以及开发人员文档的大量文档。  很高兴回答您在评论或项目社区服务器中提出的任何问题。 (https://discord.gg/hRgVvc5MKf)    ;由   提交 /u/Treked   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bg456/a_free_and_open_source_flashcard_studying_platform/</guid>
-      <pubDate>Sat, 20 Jan 2024 16:54:40 GMT</pubDate>
+      <title>我为一家小型企业重新设计了一个网站，我对如何部署它+搜索引擎优化感到困惑（详细信息如下）</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bj78e/i_redesigned_a_website_for_a_small_business_and/</link>
+      <description><![CDATA[他们原来的网站是使用squarespace制作的，我用reactjs重新设计了他们的网站。我对网络开发相对较新，因此我希望获得一些有关如何部署新网站并保留相同域名的指导。我以前使用过 netlify 和 vercel，但我不确定如果我使用其中之一进行部署，他们的网站是否仍会显示在 google 搜索的顶部（我还需要处理 seo 吗？）   由   提交 /u/smileycat__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bj78e/i_redesigned_a_website_for_a_small_business_and/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>Eye See You：Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bfk1z/eye_see_you_chrome_extension/</link>
-      <description><![CDATA[（之前已删除，因为不是周六） Eye See You 我制作了一个扩展程序，可以在您浏览的页面中的图像中查找面孔，并附加跟随鼠标移动的眼睛光标在页面周围。它最初是我大约一年前组装的 CodePen。 这个扩展可以很好地与Google 图片搜索头像或其他任何地方有很多中/大尺寸的面孔。 好吧，因此权限要求读取和更改所有站点数据，这是我访问 DOM 以将元素附加到页面的唯一方法。我知道人们对此有所保留，我明白，但我只是想预先解释一下。没有进行任何跟踪或任何数据收集。这只是一双眼睛。   由   提交/u/gimmeslack12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bfk1z/eye_see_you_chrome_extension/</guid>
-      <pubDate>Sat, 20 Jan 2024 16:29:44 GMT</pubDate>
+      <title>我可以将什么很酷的东西融入到我的网站中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bj4vl/what_cool_thing_can_i_incorporate_into_my_website/</link>
+      <description><![CDATA[我正在创建一个编码作品集，以展示我为雇主做过的项目，并且我想脱颖而出。我了解 html、JavaScript 和 python，我想使用这些语言来展示一下。有人知道我可以在我的网站上创建和发布哪些很酷的方面吗？比如游戏什么的？   由   提交/u/Tell_meThings  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bj4vl/what_cool_thing_can_i_incorporate_into_my_website/</guid>
+      <pubDate>Sat, 20 Jan 2024 19:05:19 GMT</pubDate>
     </item>
     <item>
-      <title>自动缩放和自动部署/CI CD 的正确方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bffa3/what_is_correct_way_to_auto_scale_and_auto/</link>
-      <description><![CDATA[我目前是一名数据科学家，但我正在构建一些业余项目以成为一名网络开发人员（如果您对实现这一目标有任何建议，请告诉我!)  我的前端是一个 React SPA，为了托管它，我将设置 netlify 并在那里上传 JS 包。我的后端要么是 GO，要么是 Docker 容器内的 C# .net api（目前在两者之间尚未确定）。  我本来打算编写一些基本的单元测试来学习它们，但这是我的问题： - 对于前端，是否有一个工具可以自动运行单元测试，然后在有人推送到 master 时部署到 netlify？ - 对于后端，是否有一个服务/工具，我可以自动运行单元测试，然后将 docker 容器推送到自动化 kubernetes/自动缩放服务（正在考虑使用数字海洋的 kubernetes） 感谢任何接受的人是时候帮忙了！   由   提交/u/GinjaTurtles   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bffa3/what_is_correct_way_to_auto_scale_and_auto/</guid>
-      <pubDate>Sat, 20 Jan 2024 16:23:50 GMT</pubDate>
+      <title>如何使切片在单击时以模式方式弹出，并且还可以很好地旋转文本？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19birux/how_can_i_make_slices_pop_up_in_modal_on_click/</link>
+      <description><![CDATA[我正在创造一个命运之轮。当用户启动时，它会旋转，当它停止时，会弹出一个赢得切片的模式。一切都运行良好，但现在我想补充一点，当用户单击切片时，当轮子不旋转时，它会再次打开带有所单击切片的文本和 bgImage 的模式。我怎样才能实现这一点，数学不是我最擅长的部分哈哈？ 而且我希望切片的文本始终以相同的方式旋转，我怎样才能实现这一点？  https://jsfiddle.net/bst6kq0r/    ;由   提交/u/fravit13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19birux/how_can_i_make_slices_pop_up_in_modal_on_click/</guid>
+      <pubDate>Sat, 20 Jan 2024 18:50:11 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个人工智能应用程序来为您提供短信回复建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bfcn2/i_built_an_ai_app_to_give_you_reply_suggestions/</link>
-      <description><![CDATA[      我参加了 Scott Moss 在前端大师举办的人工智能研讨会在与我的一位朋友交谈时想到了这个想法。您所要做的就是上传短信的屏幕截图、设定基调并获取回复建议。  让我知道你们的想法。欢迎任何反馈 链接 - usewingmanai.com   由   提交/u/codingknite  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bfcn2/i_built_an_ai_app_to_give_you_reply_suggestions/</guid>
-      <pubDate>Sat, 20 Jan 2024 16:20:37 GMT</pubDate>
+      <title>我刚刚推出了我的作品集，你有什么想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bi95l/i_just_pushed_my_portfolio_what_are_your_thoughts/</link>
+      <description><![CDATA[ 由   提交 /u/RockyStrongo    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bi95l/i_just_pushed_my_portfolio_what_are_your_thoughts/</guid>
+      <pubDate>Sat, 20 Jan 2024 18:27:48 GMT</pubDate>
     </item>
     <item>
-      <title>顺风 vs 我</title>
-      <link>https://www.reddit.com/r/webdev/comments/19beitw/tailwind_vs_me/</link>
-      <description><![CDATA[作为一名工程师，我觉得我即将输掉反对在生产代码中使用 Tailwind 的战争。我在许多项目上经历过多次战斗，但有些事情可能不再值得战斗。 我很欣赏 Tailwind，因为它减轻了许多前端开发人员认为的繁重工作，或者低于这些工作，或者太“不合逻辑”了 但我历来对那些我担心样式的长期可变性/可扩展性的应用程序划定了界限。我可以一遍又一遍地说以下内容，但它不会引起共鸣，尤其是对于 React 开发人员： “我希望您使用语义类名称来设计模式提交按钮的样式。我不希望您将该按钮的样式设置为圆形、红色背景、白色粗体文本。” 我认为年轻的开发人员有很好的理解力（无论如何比我在相似年龄时更好）关于关注点分离。让你的皮肤分离和可更换的概念可以追溯到网络出现之前。但当顺风进入谈话时，这一切对他们来说似乎都不重要了。 我的想法哪里出了问题？我缺少什么？   由   提交/u/lotusland17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19beitw/tailwind_vs_me/</guid>
-      <pubDate>Sat, 20 Jan 2024 15:43:26 GMT</pubDate>
+      <title>让客户端访问本地主机的最简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bhlg4/easiest_way_to_give_client_access_to_localhost/</link>
+      <description><![CDATA[是否有 VS code 插件可以向外部 Web 显示 LAMP 页面？ 我不想有在我的家庭网络上设置静态 IP（我在家工作），然后通过我的家庭路由器防火墙路由传入流量。  你是如何做到这一点的？   由   提交 /u/myuser01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bhlg4/easiest_way_to_give_client_access_to_localhost/</guid>
+      <pubDate>Sat, 20 Jan 2024 17:59:51 GMT</pubDate>
     </item>
     <item>
-      <title>【周六秀】800+精心挑选和整理的网页开发设计资源，收集了十多年的行业经验并定期修剪！</title>
-      <link>https://www.reddit.com/r/webdev/comments/19befuv/showoff_saturday_800_handpicked_and_organised/</link>
-      <description><![CDATA[   /u/addycodes  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19befuv/showoff_saturday_800_handpicked_and_organised/</guid>
-      <pubDate>Sat, 20 Jan 2024 15:39:37 GMT</pubDate>
+      <title>硝基与 Fastify</title>
+      <link>https://www.reddit.com/r/webdev/comments/19az0te/nitro_vs_fastify/</link>
+      <description><![CDATA[我正在思考它们作为 API 后端有何不同。有谁用过并且知道吗？  我问的是fastify而不是express，因为express很旧并且缺乏fastify所具有的基本功能。就像内置类型的安全路线一样。内置快速记录器，pino。另外，如果你看看 github 贡献者，express 几乎没有得到 1 个窥视者的提交。 Fastify 由 4 个窥视者平均携带。   由   提交/u/delllibrary  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19az0te/nitro_vs_fastify/</guid>
+      <pubDate>Sat, 20 Jan 2024 00:50:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
