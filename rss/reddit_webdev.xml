@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 12:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 15:13:02 GMT</lastBuildDate>
     <item>
-      <title>测试我的JS...</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bacr2/testing_my_js/</link>
-      <description><![CDATA[多年来我一直断断续续地进行编程（网络开发）。在发现 Leetcode 之前，我无法想象我的编程能力到底有多差。哈哈。 Leetcode 是我新的痴迷。无论如何，问题... 我在 YouTube 上看到开发人员通过测试人员运行他们的 Leetcode JS 代码，并立即为他们提供性能指标。因为我很少...错误...从不运行单元测试或正确测试（是的，我知道）。  我想知道在编写代码时测试代码的最简单/最好的方法是什么？顺便说一句，我使用 VS 代码编辑器，也许有集成？ 谢谢++; :-)    ;由   提交 /u/myuser01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bacr2/testing_my_js/</guid>
-      <pubDate>Sat, 20 Jan 2024 12:06:25 GMT</pubDate>
+      <title>我在 TypeScript 中创建了一个用于类型安全分布式计算的库</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bdlte/i_created_a_library_for_typesafe_distributed/</link>
+      <description><![CDATA[       由   提交/u/http203  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bdlte/i_created_a_library_for_typesafe_distributed/</guid>
+      <pubDate>Sat, 20 Jan 2024 15:00:59 GMT</pubDate>
     </item>
     <item>
-      <title>我正在构建一个应用程序，可以使用 Nuxt 和 Tauri 在您键入时将缩写扩展到任何文本</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ba5dj/im_building_an_app_that_expands_abbreviations/</link>
-      <description><![CDATA[       由   提交 /u/nchntrz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ba5dj/im_building_an_app_that_expands_abbreviations/</guid>
-      <pubDate>Sat, 20 Jan 2024 11:53:48 GMT</pubDate>
+      <title>最低限度的 CSS 响应能力和可读性</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bdccf/bare_minimum_css_for_responsiveness_and/</link>
+      <description><![CDATA[我尝试在这个和其他相关子版块中搜索此内容，但我似乎找不到它。 我还记得不久前的一篇文章，其中一些人分享了一个网站，该网站是响应式网站所需的最低限度的 CSS。它本质上是一个模板网站。其他人也开始分享更现代的版本，包括无衬线字体和深色模式，这是初始版本所缺乏的。  TLDR：这里有人知道一个网站的名称吗？响应式布局。 提前谢谢您！   由   提交/u/huntsalone01  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bdccf/bare_minimum_css_for_responsiveness_and/</guid>
+      <pubDate>Sat, 20 Jan 2024 14:48:45 GMT</pubDate>
     </item>
     <item>
-      <title>WIP - 我使用 SolidWorks、Blender 和 Babylon.js 重新创建的旧 BRAUN ET 33 计算器的 3D Web 视图</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ba10j/wip_3d_web_view_of_my_old_braun_et_33_calculator/</link>
-      <description><![CDATA[       由   提交 /u/PuzzleheadedGold4861   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ba10j/wip_3d_web_view_of_my_old_braun_et_33_calculator/</guid>
-      <pubDate>Sat, 20 Jan 2024 11:45:08 GMT</pubDate>
+      <title>寻求有关使用 TypeScript/React 构建具有 3D 视口的 Web 编辑器的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bdax4/seeking_advice_on_building_a_web_editor_with_3d/</link>
+      <description><![CDATA[您好，我是一名程序员，我想创建一个带有 3D 视口的 Web 编辑器来创建简单的形状，例如立方体和球体。有什么方法可以让我用 typescript 或 React 编写一次代码，并在浏览器中运行相同的前端（它将与后台的一些 REST API 进行通信，也有 grpc 的）（我需要 webgl 吗？）并在桌面应用程序可能带有诸如电子之类的东西？  对于第一个版本，我可能只会得到“.png”来自服务器的视口图像，然后可能稍后移动到“流位置和几何图形”以提高性能。我现在无法控制后端，但我可以请求 API。  感谢您的任何建议，我真的不知道该开始探索哪些技术来解决这个问题。   由   提交/u/Specialist_Ice_5715   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bdax4/seeking_advice_on_building_a_web_editor_with_3d/</guid>
+      <pubDate>Sat, 20 Jan 2024 14:46:48 GMT</pubDate>
     </item>
     <item>
-      <title>电商推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b9rpz/ecommerce_recommendations/</link>
-      <description><![CDATA[嘿， 我主要是一名前端开发人员，但我想帮助本地企业建立电子商务他们的网站。您的建议是最简单且最具成本效益的。我正在考虑一个带有无头 cms 和 stripe 集成的 nextjs 网站（这是我不确定的部分） 我主要担心结帐，我希望客户能够使用信用购物直接/借记卡。我可以使用一些免费/低成本的集成吗？ 非常感谢！   由   提交/u/gogo1520180   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b9rpz/ecommerce_recommendations/</guid>
-      <pubDate>Sat, 20 Jan 2024 11:27:29 GMT</pubDate>
+      <title>少量成功</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bd8wl/success_in_small_numbers/</link>
+      <description><![CDATA[作为开发者，我们经常听说独立创作者取得了令人难以置信的成功，但我们很少能一睹他们真正的挣扎和胜利。这就是“少数人的成功”的意义所在。我的时事通讯是对在科技界产生巨大影响的小团队的致敬。无论是独立游戏开发者还是 SAAS 初创公司，他们的旅程都充满了经验教训和灵感。 这些故事不仅仅关乎成功，还关乎成功。它们是关于紧凑团队面对挑战时的力量和弹性。让我们一起深入研究这些不为人知的故事，并找到我们自己的项目所需的动力。 如果这听起来很有趣，请访问该网站并订阅，这样您就不会错过 22 日的第一期. https://www.successinsmallnumbers.com/   由   提交 /u/McWipey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bd8wl/success_in_small_numbers/</guid>
+      <pubDate>Sat, 20 Jan 2024 14:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习 SQL 移动应用/游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bd1ip/learn_sql_mobile_apps_games/</link>
+      <description><![CDATA[有人可以为 SQL 初学者-中级人员推荐一款类似游戏的移动应用程序吗？有没有像 duolingo 或国际象棋战术谜题这样的应用程序，您可以每天玩 10-15 分钟来提高 SQL 查询的编写能力？   由   提交/u/domwc14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bd1ip/learn_sql_mobile_apps_games/</guid>
+      <pubDate>Sat, 20 Jan 2024 14:34:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越代码——工程师与知识丢失的斗争</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bcgau/beyond_the_code_an_engineers_battle_against/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bcgau/beyond_the_code_an_engineers_battle_against/</guid>
+      <pubDate>Sat, 20 Jan 2024 14:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢哪个个人项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bcc3a/what_personal_project_did_you_enjoy_the_most/</link>
+      <description><![CDATA[我最喜欢的项目是使用 WebSockets 创建聊天应用程序。不仅学习 Websocket 及其附带的所有内容都很酷，而且我可以与其他人实时聊天的最终结果也很酷。  &amp;# 32；由   提交 /u/OutlandishnessSad764   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bcc3a/what_personal_project_did_you_enjoy_the_most/</guid>
+      <pubDate>Sat, 20 Jan 2024 13:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>聊天和学习</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bc405/chatting_and_learning/</link>
+      <description><![CDATA[我是一名经验丰富的程序员，最近我将知识传授给我的一位对 .Net 感兴趣的朋友，这是我编写的代码库 我很喜欢通过 Slack 进行在线会议以及一般的教学过程。 我有一些空闲时间，我想知道是否可以建立一个小社区希望能够共同提供见解并教授一些有关编程的知识。 我愿意接受语言/框架的建议。我并不熟悉所有这些语言/框架，但我确信我可以跟上进度，并且也可能学到一些东西！ 也就是说，以下是我熟悉的语言/框架：&lt; /p&gt;  C/C++。 20多年。我可能有点生疏了，我已经一年没碰它了。我使用 Win32 C Api 进行编码多年。 C#。 15 年以上，最近使用 swagger 开发 Asp.net core/identity + MySQL 到 Flutter UI。 Dart/Flutter。经过 1 年的努力，我的应用程序现已在 iOS 和 Android 上上线。 Javascript。舒适但不热衷！ Typescript。虽然是新手，但这是一个值得欢迎的改进，我已经学习了一周左右。 Php.很好，很简单，我在圣诞节期间的几周内为一个小型项目选择了它。 Java。 12年没碰过。我不介意再去那里一次。 Rust。喜欢，不过我正在学习atm。我只在其中编写了一个应用程序。 x64/x86！已经有一段时间了，但如果你真的很极客，我们可以一起去那里！  如果有人感兴趣，那么我们可以使用 Slack 进行团队会议。 欢迎所有级别！ 来找我吧！   由   提交 /u/MartynAndJasper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bc405/chatting_and_learning/</guid>
+      <pubDate>Sat, 20 Jan 2024 13:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSAP ScrollTrigger 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bc2wy/gsap_scrolltrigger_issue/</link>
+      <description><![CDATA[嘿伙计们！  我有一个具有 max-width 和 margin-left auto 的部分，其中滑块触发 ScrollTrigger 动画。 我的问题是向上滚动（到滑块开头）时等待，直到用户可以再次在页面上滚动...这是我的代码： let tl = gsap.timeline({scrollTrigger: {trigger: &quot;.container&quot;; ，pin：true，开始：`顶部顶部`，结束：&#39;底部底部&#39;，擦洗：2 } }); tl.to(“.list”, { x: () =&gt; -moveDistance, 持续时间: 1 });  你能帮我吗？  谢谢！   由   提交 /u/upsips   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bc2wy/gsap_scrolltrigger_issue/</guid>
+      <pubDate>Sat, 20 Jan 2024 13:44:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>使 CORS 工作变得简单的工具箱</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bbubj/toolbox_that_makes_working_with_cors_easy/</link>
+      <description><![CDATA[       大家好， 我是 Max，我想向您展示我的 CORS（跨源资源共享）工具箱的 MVP。 &lt;它的目标是提供各种工具来减轻使用 CORS 时的痛苦。作为一名网络开发人员，您可能已经亲身体验过。 目前的工具是： - CORS 调试器，可以详细告诉您客户端请求是否正在传递服务器的 CORS 策略&lt; /p&gt;  - 一个配置生成器，为您的后端提供安全的 CORS 配置 我有更多的想法，但首先我想检查人们是否真正看到了其中的一些价值。  如果这听起来对您有帮助，请随时查看此处。 &lt; p&gt;如果您想关注我的开发之旅，我将在 Twitter 上发布更新。 干杯感谢大家参加周六的 Showoff CORS 调试器的输出   由   提交 /u/__brennerm   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bbubj/toolbox_that_makes_working_with_cors_easy/</guid>
+      <pubDate>Sat, 20 Jan 2024 13:32:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Permify - 我们构建了一个开源（Github 上有 2.2k 颗星⭐）授权基础设施，用于构建可扩展的授权系统</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bbo5a/permify_we_built_an_opensource_22k_stars_on/</link>
+      <description><![CDATA[       由   提交 /u/ege-aytin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bbo5a/permify_we_built_an_opensource_22k_stars_on/</guid>
+      <pubDate>Sat, 20 Jan 2024 13:22:56 GMT</pubDate>
     </item>
     <item>
       <title>根据您每天阅读的内容创建个性化时事通讯</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b9r9a/create_a_personalized_newsletter_of_content_you/</link>
-      <description><![CDATA[ 由   提交/u/useddigest  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b9r9a/create_a_personalized_newsletter_of_content_you/</guid>
-      <pubDate>Sat, 20 Jan 2024 11:26:36 GMT</pubDate>
+      <link>https://www.reddit.com/r/webdev/comments/19bbned/create_a_personalized_newsletter_of_content_you/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/usedigest  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bbned/create_a_personalized_newsletter_of_content_you/</guid>
+      <pubDate>Sat, 20 Jan 2024 13:21:48 GMT</pubDate>
     </item>
     <item>
-      <title>为 Nuxt 制作 CMS - Pruvious</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b9ogr/made_a_cms_for_nuxt_pruvious/</link>
-      <description><![CDATA[       由   提交 /u/murisceman    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b9ogr/made_a_cms_for_nuxt_pruvious/</guid>
-      <pubDate>Sat, 20 Jan 2024 11:21:22 GMT</pubDate>
+      <title>您在编写单元测试时是否引用用户故事的功能逻辑，或者您是否仅专注于验证代码的功能（假设在代码开发过程中遵循了用户故事中的业务逻辑）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bb8ue/do_you_reference_the_user_story_for_functional/</link>
+      <description><![CDATA[.   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bb8ue/do_you_reference_the_user_story_for_functional/</guid>
+      <pubDate>Sat, 20 Jan 2024 12:59:55 GMT</pubDate>
     </item>
     <item>
-      <title>构建我们的 Extremely Lite 样式组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b979b/building_our_extremely_lite_styledcomponents/</link>
-      <description><![CDATA[ 由   提交/u/mburakerman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b979b/building_our_extremely_lite_styledcomponents/</guid>
-      <pubDate>Sat, 20 Jan 2024 10:48:41 GMT</pubDate>
+      <title>我制作了一个专注于音乐的社交媒体</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bb8kk/i_made_a_music_focused_social_media/</link>
+      <description><![CDATA[       该网站名为 Beatsync，是一个专注于音乐的社交媒体。 该网站的目标是为人们提供一种分享对音乐的热爱的方式并结识其他人。 目前它支持基本功能，例如创建个人资料、创建和删除帖子、将歌曲、播放列表和图像附加到帖子、添加评论、喜欢帖子和评论、关注用户...&lt; /p&gt; 我还想根据应用程序的反馈添加更多功能，例如消息传递、通知... 要访问该网站，请单击以下链接并创建一个帐户：&lt; /p&gt; https://beatsync-frontend.vercel.app 网站使用Deezer API，因此您需要一个 Deezer 帐户才能登录 前端和后端的存储库可以在以下链接中找到： https://github.com/Lucas-4/beatsync-API https://github.com/Lucas-4/beatsync-Frontend 随时报告任何问题并提供有关我的内容的反馈可以更改、添加或改进。 谢谢大家！ ​ https://preview.redd.it/axnxst1alldc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=85f6e 3816b10950036845108096bfa4ba9bcdf14    由   提交 /u/Asdragarth   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bb8kk/i_made_a_music_focused_social_media/</guid>
+      <pubDate>Sat, 20 Jan 2024 12:59:27 GMT</pubDate>
     </item>
     <item>
-      <title>需要 sso 和 oauth 帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b8dqk/need_help_with_sso_and_oauth/</link>
-      <description><![CDATA[嗨r/webdev， Tldr；需要帮助为微服务视频游戏电子商务平台实施 oauth，包括 nextjs 网站和虚幻引擎 5 视频游戏。  我是一名 DevOps 工程师，正在涉足全栈编程。我正在开发一个类似 Steam 的替代方案，我将在其中托管我自己的视频游戏。然而，我遇到了我的项目的身份验证和授权问题 - 我似乎无法找到一个好的解决方案（或者也许我当时已经做到了但还不明白......）。 我正在寻找的想法非常简单 - 用户通过 oauth 将我登录到网站，提供其他详细信息，然后购买并下载游戏。启动游戏时，我希望针对我的用户数据库实现 sso。 我尝试了多种方法 - 但由于身份验证是如此令人畏惧，我完全迷失在它们之间，感觉我失去了对什么的掌握oauth 和 sso 甚至是。 对于初学者来说，我的堆栈： * k8s 上的 Nodejs 微服务，用于处理与 postgres DB 的通信 * nextjs 网站 * 虚幻引擎 5 游戏 * 用多种不同语言开发的游戏服务器 我考虑过以下方法：1.使用passportjs和jwt验证微服务，其中passport使用oauth针对谷歌或facebook等社交网络。好处包括完全控制一切，以及能够将用户数据完全存储在同一个数据库表中。我对这种策略的问题是需要处理 jwt 的很多方面。 2. Keycloak 作为身份验证服务 - 使用自定义领域实现 keycloak，keycloak 使用 oauth 针对社交网络。我认为它的好处包括不必担心安全性，因为 keycloak 是一个预先配置的产品。还能够在每个应用程序中使用定制的身份验证库（例如我的下一个应用程序的 nextauth，而不是编写自定义逻辑）。缺点包括用户和 user_additional_data 的单独数据库以及实现逻辑，必须通过 keycloak 登录页面而不是应用程序内，并且必须为与我的应用程序解耦的 keycloak 登录页面编写单独的代码。 3. 直接针对云提供商单独处理我的网页/游戏中的 oauth，同时维护用于访问控制的授权微服务。好处包括为网络/游戏使用定制的身份验证库，而无需担心 jwts 等。我认为缺点是我在每个部分中以不同的方式处理 oauth，而不是针对相同的中央服务 - 对于每个新的集成，我必须更新每个部分。 我有一些问题： 1. 你会如何处理我的情况？ 2. 您建议在哪里处理游戏的身份验证 - 在游戏本身还是在游戏服务器中？ 3. 如果我在每个组件中直接使用oauth，它会自然地实现SSO吗？由于游戏不在浏览器中，它会在游戏中保留来自网站的相同令牌吗？ 提前感谢您的帮助！ &lt;!-- SC_ON - -&gt;  由   提交/u/castleking1810   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b8dqk/need_help_with_sso_and_oauth/</guid>
-      <pubDate>Sat, 20 Jan 2024 09:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为应用内支持创建了新的用户体验模式 - 解释一下</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b847n/made_a_new_user_experience_pattern_for_inapp/</link>
-      <description><![CDATA[    /u/msign   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b847n/made_a_new_user_experience_pattern_for_inapp/</guid>
-      <pubDate>Sat, 20 Jan 2024 09:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prisma 中的授权建模 - 没有理论，只有代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b7qx4/modeling_authorization_in_prisma_no_theory_just/</link>
-      <description><![CDATA[       由   提交/u/jiashenggo  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b7qx4/modeling_authorization_in_prisma_no_theory_just/</guid>
-      <pubDate>Sat, 20 Jan 2024 09:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何应对高流量？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b721p/how_to_counter_high_traffic/</link>
-      <description><![CDATA[有一个预订网站上午10点开放1小时，此时访问网站的人太多，导致网站崩溃或速度极慢..有什么办法可以解决这个问题吗？   由   提交 /u/Spiritual-Sea-1102   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b721p/how_to_counter_high_traffic/</guid>
-      <pubDate>Sat, 20 Jan 2024 08:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>zhttp：一个最小的、类型安全的 HTTP 库，带有 Zod 验证 🧑‍💻</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b70b5/zhttp_a_minimal_typesafe_http_library_with_zod/</link>
-      <description><![CDATA[       由   提交 /u/evertdespiegeleer   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b70b5/zhttp_a_minimal_typesafe_http_library_with_zod/</guid>
-      <pubDate>Sat, 20 Jan 2024 08:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能冷来电？有没有任何服务可以做到这一点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b6dci/ai_cold_caller_is_there_any_service_out_there/</link>
-      <description><![CDATA[我们计划为我们的业务构建一个应用程序（内部）。该应用程序将输入电话号码供人工智能拨打。如果人工智能认为呼叫者是潜在的线索（出租其财产/出租），它会将呼叫转发给实际的代理。  RingCentral 这样做吗？不确定该流程如何运作或我们应该集成哪些工具。   由   提交/u/disonarnibal  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b6dci/ai_cold_caller_is_there_any_service_out_there/</guid>
-      <pubDate>Sat, 20 Jan 2024 07:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳独立/便携式浏览器</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b5lgh/best_standaloneportable_browser/</link>
-      <description><![CDATA[有人知道用于测试目的的良好的真正隔离的独立便携式浏览器吗？理想的设置是能够在同一浏览器的两个单独实例上有两个单独的会话。  我已经用 Firefox Portable 尝试过这一点，但似乎如果你并排有两个实例，它们就会开始互相干扰，因为 FF 可能仍然使用一些本地数据来保存它。我知道 Chrome 也很难真正孤立地工作。当您需要并排进行两个单独的会话时，您通常会使用什么？    由   提交 /u/TScottFitzgerald   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b5lgh/best_standaloneportable_browser/</guid>
-      <pubDate>Sat, 20 Jan 2024 06:42:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对网络开发的课程（项目）推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/19b3syy/course_projects_recommendations_for_web_dev/</link>
-      <description><![CDATA[如此多的 Web 开发课程可供选择，而且它们似乎都声称不需要任何先验知识。  我实际上有多年的编程经验，html、css、jquery、老式 cgi 等等，但我无法制作一个简单漂亮的网站来拯救我的生命。我可以制作一个动态实用程序网页，其中涉及一些 jquery 和css 与后端代码，但它是为功能而不是演示而设计的。我只是通常不会这样做，或者做得不够好而无法擅长。这就是为什么我正在寻找一门包含需要完成的项目的课程。  您可能建议我看看有什么课程、课程提供商或训练营推荐吗？ — 分享您的经验。   由   提交/u/hoodie_man23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19b3syy/course_projects_recommendations_for_web_dev/</guid>
-      <pubDate>Sat, 20 Jan 2024 04:55:33 GMT</pubDate>
+      <title>如何为客户端和客户端创建一个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bb4pk/how_to_create_a_website_for_both_customer_side/</link>
+      <description><![CDATA[我想创建一个网站，人们（求职者）有一个个人资料，通过以求职者身份登录和以客户身份登录的客户来展示他们的工作，可以根据给定的过滤器查看所有求职者。客户和客户都会有个人资料，一旦客户认为相应的人适合他们的工作，我们将可以选择与求职者聊天。  这不是确切的想法，但我希望网站像这样工作。启发我如何去做。还请告诉我是否有更好的方法。像 upwork 这样的网站只有一次登录，有 2 个选项，因此可以申请工作并发布工作。让我知道哪种方法更好以及如何实现。   由   提交/u/Mindless-nomad  /u/Mindless-nomad reddit.com/r/webdev/comments/19bb4pk/how_to_create_a_website_for_both_customer_side/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bb4pk/how_to_create_a_website_for_both_customer_side/</guid>
+      <pubDate>Sat, 20 Jan 2024 12:53:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
