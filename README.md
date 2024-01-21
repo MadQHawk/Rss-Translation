@@ -40,4 +40,4 @@
  - source027 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
  - source028 [https://rsshub.app/bbc/world-asia](https://rsshub.app/bbc/world-asia) -> [BBC-news](rss/BBC-news.xml)
  - source029 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuters-news](rss/reuters-news.xml)
- - source030 [https://rsshub.app/reuters/world/asia-pacific](https://rsshub.app/reuters/world/asia-pacific) -> [reuters-news](rss/reuters-news-asis.xml)
+ - source030 [https://rsshub.app/reuters/world/asia-pacific](https://rsshub.app/reuters/world/asia-pacific) -> [reuters-news](rss/reuters.xml)
