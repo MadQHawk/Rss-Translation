@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 21 Jan 2024 04:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 06:17:13 GMT</lastBuildDate>
+    <item>
+      <title>我在 Twitter 上烤了我自己的登陆页面</title>
+      <link>https://feed.indiehackers.world/post/8da9dec75c</link>
+      <description><![CDATA[大家好，我觉得有时我们内心深处知道我们的设计/服务/产品出了什么问题。
+我们只是低调假装没事。
+所以这次我做了一些不同的事情。
+我烤了自己的着陆页。
+你觉得怎么样？如果您还有更多要添加的内容，请写下来，不要犹豫。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8da9dec75c</guid>
+      <pubDate>Sun, 21 Jan 2024 04:23:47 GMT</pubDate>
+    </item>
     <item>
       <title>烤我的第一个 B2B SaaS 的登陆页面</title>
       <link>https://feed.indiehackers.world/post/aa5b5bbaf5</link>
@@ -205,17 +217,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/37a650091c</guid>
       <pubDate>Sat, 20 Jan 2024 13:17:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ahrefs 太贵了！</title>
-      <link>https://feed.indiehackers.world/post/0509c2d9b8</link>
-      <description><![CDATA[大家好，
-我觉得 Ahrefs 成本太高，而且功能太丰富。我看到一些其他与 SEO 相关的工具，每月只需 15 美元，但我忘了记下来，现在它不见了。你能给我推荐一些替代方案吗？如果它是 IndieHacker 的工具就更好了。
-我的主要目的是关键字研究，其余的都是额外的奖励。
-谢谢
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/0509c2d9b8</guid>
-      <pubDate>Sat, 20 Jan 2024 12:48:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
