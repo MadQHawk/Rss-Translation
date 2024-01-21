@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 18:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 21:11:58 GMT</lastBuildDate>
+    <item>
+      <title>我如何培养游戏之心？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cdoml/how_do_i_develop_this_heart_for_a_game/</link>
+      <description><![CDATA[我必须为客户的网页游戏创建类似的内容： https://www.joshwcomeau.com/css/custom-css-reset/  在右侧，在“table do content”有一个动画心形（仅在桌面版本上可见） 我检查了该元素，它是一个带有许多蒙版和  的 svg。  我有 Adob​​e Illustrator 和 CSS 技能，但这是我第一次创建这样的东西。 我应该使用原始 css 还是像在网站中那样使用 svg？  感谢所有帮助我的人🙏   由   提交/u/Ale9xs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cdoml/how_do_i_develop_this_heart_for_a_game/</guid>
+      <pubDate>Sun, 21 Jan 2024 21:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否认为一家要求每周工作 5 天的公司已经过时了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cchvk/would_you_consider_a_company_that_requires_being/</link>
+      <description><![CDATA[在我见过的这一行的所有工作中，95% 要么完全远程工作，要么提供混合工作。 &lt;一家要求员工每周在办公室工作五天的公司，您认为他们还会表现出其他不良做法或老式的工作文化吗？  您认为这在现代世界中是一个危险信号吗？   由   提交/u/throtawayspeedy12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cchvk/would_you_consider_a_company_that_requires_being/</guid>
+      <pubDate>Sun, 21 Jan 2024 20:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>带照片的个人博客 - 寻找推荐</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cc22s/personal_blog_with_photos_looking_for/</link>
+      <description><![CDATA[嗨 Reddit！ 我只是在寻找有关我的博客解决方案的建议，我认为我的情况是“ “独特”，所以请继续阅读： 就目前而言，我有一个个人博客，其中有一些帖子在 Wordpress 上运行。自己的托管，Wordpress 在 Docker 中运行。不幸的是，我很少发帖（想想每年几篇帖子）。通常的主题是旅行，某种旅行报告/日记，其中有相当多的照片、地图、轨迹。这些帖子有点“读得很长”。 （我现在要发布的内容大约有 9 万个字符和大约 7.5 万个单词，可能大约有 50-80 张照片）。绝大多数帖子都是俄语的，但我也有一些英文帖子，还有双语帖子。 在 WordPress 中让我感到沮丧的是一些事情： - 时不时地当我登录时（可能几个月一次），我收到大量通知“更新这个，更新那个”。这非常烦人并且会降低发帖的积极性。 - 该网站并不是真的“太慢”，但我希望它能更快一些。 - 我还没有找到照片的结构。我的 HDD/NAS 上有一个相当有组织的结构（IMO），包含年/月/旅行，但在 WordPress 中，我上传带有类似时间戳的文件名的照片，然后通过某些插件自动重命名为更易于理解的名称（想想snow-in-oregon-crater-lake-np.jpg）。所以如果我想有一天“原路返回”照片从帖子到原始 RAW 文件（例如重新生成它，或发布到其他地方）我想我快要迷路了。 - 一般来说，WP 似乎是为非技术人员设计的。我是软件工程师（主要是 Python），我不介意更多的“裸机”。如果需要的话，可以采用这种方法（尽管我不想为一些琐碎的事情编写一堆代码） - “功能”的数量即使只是开箱即用似乎也太多了，我什至不关心其中 80% 左右... 所以每次我坐下来发布新内容时，我都会想到我可能需要更轻量级的东西，比如某种静态站点生成器等等。但这似乎是在频谱的另一边：-也许我错过了一些东西，但我没有看到应该能够很好地处理大量图片的框架，大多数 SSG 都适用于具有 max 的类似开发的博客每个帖子有几张照片，重点是文本/代码。我喜欢 WP 插件为我的帖子带来带有 EXIF 数据的精美灯箱（GPS、ISO/光圈/镜头等）。我喜欢评论（尽管我只有一些）和帖子之间的交叉引用。对于 SSG 来说，多语言支持似乎也是一种罕见的野兽...... 有什么建议吗？难道我做错了什么？我应该继续吐槽 WP 但使用它，还是有一些奇特的框架可以帮助我？   由   提交/u/lega4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cc22s/personal_blog_with_photos_looking_for/</guid>
+      <pubDate>Sun, 21 Jan 2024 19:54:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GitHub API 和 React 进行用户搜索过滤</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cb6a5/user_search_filter_with_github_api_and_react/</link>
+      <description><![CDATA[我正在为我的项目添加搜索功能。最简单的部分是使用输入的用户名获取 github api。更困难的部分是在用户输入时添加搜索建议（就像您在 YouTube 或 Google 上看到的那样）。如果所有用户都在一个小数组中，我可以将它们过滤掉或者其他什么，那会很容易，但这不是问题。 我的问题是：如何在用户键入时实现搜索建议输出用户名（当然使用 GitHub API）？ 如果我需要澄清一些事情，请 lmk 并感谢您抽出时间。   由   提交/u/GullibleCondition150   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cb6a5/user_search_filter_with_github_api_and_react/</guid>
+      <pubDate>Sun, 21 Jan 2024 19:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 jQuery 和 React 在 Vanilla JavaScript 之间共享状态的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cb3fo/what_would_be_the_best_way_to_share_state_between/</link>
+      <description><![CDATA[我参与了一个大型单页应用程序的迁移，该应用程序全部用 Vanilla JavaScript 编写，并大量依赖 jQuery 到 React 18。目标是一次用较新的 React 组件替换 UI 的各个部分 到目前为止，一切进展顺利，但我想知道在应用程序的旧部分之间共享状态（数据）的最佳方式是什么（使用 jQuery 构建）和较新的 React 组件。 我已经看到一些有关 Redux 的信息作为可能的解决方案，尽管我以前从未使用过它，而且我不知道这是否会过头。  记住这个工作主要是因为就像我说的，它总是被编写为单页应用程序（SPA）。 所以我正在寻找有关如何做的建议和建议这是正确的。 ​ ​ ​ &lt;!-- SC_ON - -&gt;  由   提交 /u/showcasefloyd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cb3fo/what_would_be_the_best_way_to_share_state_between/</guid>
+      <pubDate>Sun, 21 Jan 2024 19:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义滚动条没有轨道？ （WordPress）</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cb2nd/custom_scrollbar_with_no_track_wordpress/</link>
+      <description><![CDATA[我希望复制您在此处看到的滚动条类型：https: //cuberto.com/ 如果你仔细观察，你会发现页面的背景一直延伸到边缘，所以没有滚动条轨道，滚动条本身就在顶部页面内容的内容。 正如您在此处看到的，另一个网站具有丑陋的滚动条轨道，并且内容被切断而不是到达屏幕边缘：https://css-tricks.com/ 我尝试了很多方法，并从不同来源复制/粘贴了很多代码，试图做这个。但似乎总是在默认滚动条轨道所在的位置留下滚动条轨道或空白，内容被切断而不是到达边缘。 我使用 Wordpress，所以应该是可能的   由   提交 /u/GeorgeCostanza1048   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cb2nd/custom_scrollbar_with_no_track_wordpress/</guid>
+      <pubDate>Sun, 21 Jan 2024 19:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向网络开发人员的数字广告</title>
+      <link>https://www.reddit.com/r/webdev/comments/19catie/digital_advertisement_for_web_developers/</link>
+      <description><![CDATA[大家好。 我正在从技术角度寻找有关数字广告的资源（书籍、课程等）。它如何在 DA 机构方面运作、在我自己的网站上实施的最佳实践、代码片段等。我寻找一本，但只找到了面向“商业”人员的书籍。 有吗？谢谢大家的建议！   由   提交/u/Serious_Discussion18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19catie/digital_advertisement_for_web_developers/</guid>
+      <pubDate>Sun, 21 Jan 2024 19:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页设计和服务的 Al 消亡？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19carhj/the_al_death_of_web_design_services/</link>
+      <description><![CDATA[我真的认为人工智能将大规模取代网页设计师，而且可能比我想象的要快。我看到 Elementor 现在有一个用于网站的 AI 生成器（我还没有使用过）。现在我读到搜索引擎优化因聊天机器人而消亡。  我感觉自己好像经历过去年ChatGPT“实现”时的恐慌。我开始担心，正在考虑学习一门新技能。 我知道这些事情仍然需要时间，但我不想在以后的生活中找到答案。  其他人的想法是什么？   由   提交/u/Rambus_Jarbus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19carhj/the_al_death_of_web_design_services/</guid>
+      <pubDate>Sun, 21 Jan 2024 19:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>将字体保留在嵌入的 SVG 中</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cai7m/keeping_your_fonts_in_embedded_svg/</link>
+      <description><![CDATA[       由   提交/u/nfrankel  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cai7m/keeping_your_fonts_in_embedded_svg/</guid>
+      <pubDate>Sun, 21 Jan 2024 18:49:32 GMT</pubDate>
+    </item>
     <item>
       <title>自动执行并加速 Google 和 Bing 站点地图对动态内容的索引。</title>
       <link>https://www.reddit.com/r/webdev/comments/19c96u8/automate_and_speedup_google_and_bing_sitemap/</link>
@@ -27,13 +90,6 @@
       <pubDate>Sun, 21 Jan 2024 17:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道如何让我的帐户在 Instagram 帖子上自动发表评论</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c6ptj/does_anyone_know_how_to_make_my_account_comment/</link>
-      <description><![CDATA[有赠品，我想赢得它，所以我必须在特定帖子上获得最高数量的评论，我可以让我的手机或笔记本电脑每 2 分钟自动评论一次？   由   提交/u/Brief_Handle1575  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c6ptj/does_anyone_know_how_to_make_my_account_comment/</guid>
-      <pubDate>Sun, 21 Jan 2024 16:09:32 GMT</pubDate>
-    </item>
-    <item>
       <title>开发工具中的屏幕变得非常小，知道如何解决这个问题吗？我尝试更改屏幕尺寸，但没有任何变化。突然发生这种情况，不知道如何恢复正常......</title>
       <link>https://www.reddit.com/r/webdev/comments/19c5l37/screen_in_dev_tools_has_become_extremely_small/</link>
       <description><![CDATA[   /u/r1a2k3i4b   [链接] [评论] &lt; /表&gt;]]></description>
@@ -48,67 +104,11 @@
       <pubDate>Sun, 21 Jan 2024 14:50:22 GMT</pubDate>
     </item>
     <item>
-      <title>如何保护 Chrome 扩展代码免受检查？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c4yzr/how_to_secure_chrome_extension_code_from/</link>
-      <description><![CDATA[开发人员您好。我开发了一个 Chrome 扩展程序，但遇到了有关代码可见性的问题。本质上，任何人都可以检查我的扩展的代码。有没有办法防止这种情况发生？ 对于任何语言错误，我深表歉意；英语不是我的母语。   由   提交/u/No-Campaign158   /u/No-Campaign158 reddit.com/r/webdev/comments/19c4yzr/how_to_secure_chrome_extension_code_from/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c4yzr/how_to_secure_chrome_extension_code_from/</guid>
-      <pubDate>Sun, 21 Jan 2024 14:49:44 GMT</pubDate>
-    </item>
-    <item>
       <title>还值得学习 React 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19c4tm8/still_worth_it_to_learn_react/</link>
       <description><![CDATA[React（仍然）主导着前端领域。它不会很快消失，但有越来越多的替代库和框架可供选择。 你今天会学习 React 吗？或者您会将精力集中在另一个库/框架上？ 请评论您会选择什么以及为什么。 查看投票   由   提交 /u/tspwd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19c4tm8/still_worth_it_to_learn_react/</guid>
       <pubDate>Sun, 21 Jan 2024 14:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 个 Kubernetes 端口：最终外观 - Expose、NodePort、TargetPort 等</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c4j39/6_kubernetes_ports_a_definitive_look_expose/</link>
-      <description><![CDATA[   /u/lovestacoo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c4j39/6_kubernetes_ports_a_definitive_look_expose/</guid>
-      <pubDate>Sun, 21 Jan 2024 14:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望我的网站的一部分成为博客，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c4gsz/want_part_of_my_website_to_be_a_blog_any_tips/</link>
-      <description><![CDATA[您好！我需要一些关于制作博客网站的建议。我过去使用 html、css 和 js 制作了一些有趣的网站。我一直对使用数据库和诸如 sql 和 php 之类的语言来拓宽我的知识感兴趣。  现在，我想制作一个部分是博客的网站，这样我现在住得离我很远的表弟就可以向我更新她每天的动态。因为通常我们会交换一本像日记一样的小书，并在我们之间写作和交换。  我付费托管我的网站的托管网站还包括一个数据库。解决这个问题的最佳方法是什么？请记住，我只希望两个人访问此博客。 （包括我） 请记住，我对数据库语言一无所知！但非常愿意学习。也许您可以给我一些指示或提示，从哪里开始或避免什么。  谢谢！   由   提交/u/Prestigious-Ad-6091   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c4gsz/want_part_of_my_website_to_be_a_blog_any_tips/</guid>
-      <pubDate>Sun, 21 Jan 2024 14:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>API参数名称应该与数据库中表的字段名称不同吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c4d6a/should_api_parameter_name_be_different_with/</link>
-      <description><![CDATA[创建api时，通常如何命名参数？  例如， { &quot;user_name&quot;: &quot;JohnDoe&quot;, &quot;email_address&quot;: &quot;john @example.com” }，表示user_name和email_address与表的字段名相同？ 参数名应该与数据库中的字段名相同吗？或者出于安全目的您会更改名称吗？    由   提交/u/Substantial_Gift_861   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c4d6a/should_api_parameter_name_be_different_with/</guid>
-      <pubDate>Sun, 21 Jan 2024 14:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>可滚动容器中阴影被切断的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c2eny/issues_with_shadows_being_cut_off_in_a_scrollable/</link>
-      <description><![CDATA[我有一个带有溢出滚动的可滚动容器，其中有带阴影的子项为了为阴影添加空间，我添加了下面的 css，它可以工作很棒，但有一个警告。当用户开始滚动或子组件被切断时（以便阴影在该方向上不可见），它会被新的填充/边距切断，因此它与其余内容不完全对齐。  scroll-padding-left: 8px; 内边距: 8px 8px 20px 8px; 边距: -8px -8px -20px -8px;  我尝试寻找解决方案，似乎很多人都有同样的问题，但我找不到完美的解决方案 这里还有其他人遇到同样的问题并找到解决方案吗？    由   提交/u/Weyulin  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c2eny/issues_with_shadows_being_cut_off_in_a_scrollable/</guid>
-      <pubDate>Sun, 21 Jan 2024 12:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么最能描述您？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c1q3m/what_describes_you_best/</link>
-      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/tspwd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c1q3m/what_describes_you_best/</guid>
-      <pubDate>Sun, 21 Jan 2024 11:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>URL解析器性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c14h6/url_parser_performance/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c14h6/url_parser_performance/</guid>
-      <pubDate>Sun, 21 Jan 2024 11:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帧转发问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c09rr/trouble_with_frame_forwarding/</link>
-      <description><![CDATA[我有一个网站（我们称之为 xyz.com）和另一个域（abc.com）。在访问 abc.com 时，我想将用户重定向到 xyz.com，同时将 URL 保留为 abc.com。所以这是一个帧转发的情况（如果我没记错的话），所以我为 abc.com 创建了一个 iframe 并将 src 设置为 xyz.com。访问 abc.com 时，会打开登录页面，到这里就不麻烦了。但当我登录时，我没有进入仪表板页面，而是收到 302 重定向。我在这里犯了什么错误？有人可以帮助我吗？我是否需要更改 URL 的结构或其他内容？我的网站是基于 PHP 的。   由   提交/u/achilles16333  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c09rr/trouble_with_frame_forwarding/</guid>
-      <pubDate>Sun, 21 Jan 2024 10:08:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
