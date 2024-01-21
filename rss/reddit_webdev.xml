@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 01:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 03:13:30 GMT</lastBuildDate>
+    <item>
+      <title>我已经在 SendGrid 上设置了域身份验证。我可以在二月份接受 Gmail 和 Yahoo 的更改吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bskr5/i_already_set_up_domain_authentication_on/</link>
+      <description><![CDATA[我使用 sendgrid 处理一些事情 - 每天发送的电子邮件远低于 5000 封，但让它们停止工作会造成破坏 - 我得到了关于需要确保我更新内容以确保符合 Gmail 和 Yahoo 更新的电子邮件。 事实是，sendgrid 指南上的大多数链接都是关于域身份验证的，我不久前就已经设置过了。这是否意味着我可以走了？   由   提交 /u/IndirectLeek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bskr5/i_already_set_up_domain_authentication_on/</guid>
+      <pubDate>Sun, 21 Jan 2024 02:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 打破了互联网</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bs6t6/javascript_broke_the_internet/</link>
+      <description><![CDATA[我可能会被否决，但我必须这么说。 说真的，网站是怎么回事？没有 JavaScript 就无法运行？对于这种对每件小事都使用 JavaScript 框架的痴迷，我忍不住摇头。 网站的加载速度快如闪电。现在，我们陷入等待无数脚本加载的困境，导致缓慢、臃肿的混乱，让用户感到沮丧，并想知道为什么一个简单的任务需要如此多的计算能力。如果你敢禁用 JavaScript 会发生什么？好吧，一半的互联网变成了禁区。 这违背了网络应坚持的包容性和可访问性原则。 不，我不想使用你们最新、最快、最轻的 JavaScript 框架。设置开发环境就像填写一张发射宇宙飞船的表格。我经常看到 JavaScript 开发人员像孩子一样追逐最新、最闪亮的玩具。他们似乎沉迷于复杂性，就好像他们相信让事情变得更加复杂可以提高他们的编码能力。 ​ 你的网站应该 100% 具有功能性JavaScript 已禁用。 PS：https://motherfuckingwebsite.com/   由   提交 /u/Chargnn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bs6t6/javascript_broke_the_internet/</guid>
+      <pubDate>Sun, 21 Jan 2024 01:55:58 GMT</pubDate>
+    </item>
     <item>
       <title>在 VPS 上设置电子邮件服务器 - 有人可以帮忙吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19br14z/setting_up_email_servers_on_vps_can_anyone_help/</link>
@@ -41,11 +55,11 @@
       <pubDate>Sat, 20 Jan 2024 23:09:42 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bog51/roast_my_site/</link>
-      <description><![CDATA[因此，它目前仅适用于移动设备，但这也是我构建的第一个有人正在使用的网站。这意味着我对此不熟悉，因此更具有建设性的烘焙值得赞赏   由   提交/u/Extra_Razzmatazz_212   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bog51/roast_my_site/</guid>
-      <pubDate>Sat, 20 Jan 2024 22:58:59 GMT</pubDate>
+      <title>[炫耀星期六] 为海外人士从零开始打造的社交媒体网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</link>
+      <description><![CDATA[各位开发者大家好！过去 2 个月，我为居住在国外的人们构建了一个社交媒体网站，度过了大部分宝贵的夜晚🥲 我正在将后端从 Vercel 的无服务器功能迁移到 Spring Boot，因此前面的路还很长。 让我继续前进的是，已经有大约 300 名通过电子邮件验证的用户，这让我知道有些人正在发现我所做的东西的价值，这给了我动力。 &lt; p&gt;祝您的宠物项目中的每个人好运:) 站点：https://distantclub.com   由   提交 /u/Vitamina_e   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</guid>
+      <pubDate>Sat, 20 Jan 2024 22:57:41 GMT</pubDate>
     </item>
     <item>
       <title>三角形 CSS</title>
@@ -90,25 +104,11 @@
       <pubDate>Sat, 20 Jan 2024 20:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>自由职业作品集审查</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bkmzk/portfolio_review_for_freelance_work/</link>
-      <description><![CDATA[我可以对我的作品集进行审核吗？既是为了获得一份自由职业，也是为了进入网络开发市场。  另外，什么样的作品集有助于更多的自由职业 谢谢 链接： https://www.udabasili.online/   由   提交/u/udbasil  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bkmzk/portfolio_review_for_freelance_work/</guid>
-      <pubDate>Sat, 20 Jan 2024 20:10:38 GMT</pubDate>
-    </item>
-    <item>
       <title>让客户端访问本地主机的最简单方法？</title>
       <link>https://www.reddit.com/r/webdev/comments/19bhlg4/easiest_way_to_give_client_access_to_localhost/</link>
       <description><![CDATA[是否有 VS code 插件可以向外部 Web 显示 LAMP 页面？ 我不想有在我的家庭网络上设置静态 IP（我在家工作），然后通过我的家庭路由器防火墙路由传入流量。  你是如何做到这一点的？   由   提交 /u/myuser01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bhlg4/easiest_way_to_give_client_access_to_localhost/</guid>
       <pubDate>Sat, 20 Jan 2024 17:59:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>硝基与 Fastify</title>
-      <link>https://www.reddit.com/r/webdev/comments/19az0te/nitro_vs_fastify/</link>
-      <description><![CDATA[我正在思考它们作为 API 后端有何不同。有谁用过并且知道吗？  我问的是fastify而不是express，因为express很旧并且缺乏fastify所具有的基本功能。就像内置类型的安全路线一样。内置快速记录器，pino。另外，如果你看看 github 贡献者，express 几乎没有得到 1 个窥视者的提交。 Fastify 由 4 个窥视者平均携带。   由   提交/u/delllibrary  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19az0te/nitro_vs_fastify/</guid>
-      <pubDate>Sat, 20 Jan 2024 00:50:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
