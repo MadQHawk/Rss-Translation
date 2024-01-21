@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 12:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:49:14 GMT</lastBuildDate>
     <item>
-      <title>[媒体]遗憾的是，原作者没有提供任何总结内容。</title>
-      <link>https://t.me/hn_summary/70003</link>
-      <description><![CDATA[成千上万的小企业因研发摊销而陷入困境
-遗憾的是，原作者没有提供任何总结内容。]]></description>
-      <guid>https://t.me/hn_summary/70003</guid>
-      <pubDate>Sat, 20 Jan 2024 12:13:18 GMT</pubDate>
+      <title>[媒体] Lavinia Greenlaw 评论《The Bast Extent》——一个充满好奇心的柜子</title>
+      <link>https://t.me/hn_summary/70094</link>
+      <description><![CDATA[Lavinia Greenlaw 的《The Bast Extent》评论 – 一个充满好奇心的内阁
+拉维尼娅·格林劳 (Lavinia Greenlaw) 的《广阔》是 17 篇“爆炸性文章”的合集，深入探讨了作者一生对艺术、风景、天气等的看法。格林劳提出了关于我们如何理解我们所看到的以及我们如何描述看不见的事物的问题。这本书的灵感来自于“好奇柜”，这是一个来自 16 世纪和 17 世纪的概念，展示了各种物品和稀奇古怪的东西。格林劳的兴趣广泛，从动物研究和雕塑到镭的发现以及 JM 巴里和弗吉尼亚·伍尔夫的生活。这本书既富有诗意又富有策展性，重点是将事物排列起来，同时又将它们分开。作者的个人经历，包括她在不同地点的旅行以及她与已故父亲和天体物理学家兄弟的关系，为该系列增添了深度和情感。]]></description>
+      <guid>https://t.me/hn_summary/70094</guid>
+      <pubDate>Sun, 21 Jan 2024 00:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>Web 内容讨论了 Pratt 解析器，也称为自顶向下运算符优先级解析器，w [...]</title>
-      <link>https://t.me/hn_summary/70002</link>
-      <description><![CDATA[Pratt 解析器：表达式解析变得简单
-Web 内容讨论了 Pratt 解析器，也称为自顶向下运算符优先级解析器，它是解析编程语言中的表达式的巧妙解决方案。作者解释说，递归下降解析对于解析声明和语句很容易，但在处理包含中缀、后缀和混合运算符的表达式时就变得比较棘手。 Pratt 解析通过提供一种简单而有效的技术来处理运算符优先级，从而解决了这个问题。作者指出 Pratt 解析并不为人所知，旨在以清晰易懂的方式解释其背后的核心概念。该内容还介绍了一种名为 Bantam 的玩具语言，并提供了如何使用 Pratt 解析技术为其构建解析器的示例。 （根据 50% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/70002</guid>
-      <pubDate>Sat, 20 Jan 2024 12:09:13 GMT</pubDate>
+      <title>[媒体]本文讨论了动漫产业，该产业已成为一个价值 250 亿美元的娱乐市场 [...]</title>
+      <link>https://t.me/hn_summary/70093</link>
+      <description><![CDATA[动漫是一个 250 亿美元的行业，向动画师支付几分钱
+本文讨论了动漫产业，该产业近年来已成为一个价值 250 亿美元的市场。尽管取得了成功，但该行业仍受到动画师工资低的困扰，有些人的收入仅为每天 5 美元。文章探讨了这一问题背后的原因，包括日本的过度劳累文化和动画工作的外包。它还提到了政府对这个问题的回应，其中包括为过度工作制定指导方针，而不是将其定为非法。这篇文章强调了围绕该行业对待工人的方式的争议，并呼吁进行变革。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70093</guid>
+      <pubDate>Sun, 21 Jan 2024 00:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文章讨论了在浏览器中使用 TypeScript 模拟最小单元格。</title>
-      <link>https://t.me/hn_summary/70001</link>
-      <description><![CDATA[在浏览器中模拟最小单元格
-本文讨论了在浏览器中使用 TypeScript 模拟最小单元。作者解释说，细胞很复杂，科学家对分子如何相互作用的了解仍然有限。作者发现一篇论文创建了已知最简单细胞中的分子和反应模型，并决定在 TypeScript 中重现它。本文重点介绍充分搅拌模型，该模型将整个细胞建模为单一均匀混合物。作者还讨论了基因组数据、动力学参数、使用化学主方程和常微分方程进行模拟以及该研究的未来可能性。作者在其 GitHub 上提供了该项目的完整源代码。]]></description>
-      <guid>https://t.me/hn_summary/70001</guid>
-      <pubDate>Sat, 20 Jan 2024 11:43:00 GMT</pubDate>
+      <title>[媒体]标题：自我奖励语言模型</title>
+      <link>https://t.me/hn_summary/70092</link>
+      <description><![CDATA[自我奖励语言模型
+标题：自我奖励语言模型
+
+本研究论文探讨了自我奖励语言模型的概念，该模型经过训练可根据模型本身提供的奖励信号生成文本。传统的语言模型是使用监督学习来训练的，其中人类生成的文本被用作目标。然而，自我奖励模型允许模型生成自己的奖励信号，从而消除了对人类生成数据的需求。作者提出了一种称为“人类反馈强化学习”(RLHF) 的方法来训练这些模型。结果表明，自我奖励模型可以实现与监督模型相当的性能，凸显了这种方法在减少对人类生成数据的依赖方面的潜力。]]></description>
+      <guid>https://t.me/hn_summary/70092</guid>
+      <pubDate>Sun, 21 Jan 2024 00:24:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最小。</title>
-      <link>https://t.me/hn_summary/70000</link>
-      <description><![CDATA[一个丑陋的单页网站通过联盟营销每月赚取 5000 美元&lt; /a&gt;
-最小。该网站通过亚马逊提供的联属链接进行的每笔销售都会赚取佣金。该网站的所有者对网站进行了优化，以提高流量和转化率，从而每月获得 5,000 美元的稳定收入。尽管其设计简单且缺乏吸引力，但该网站的功能及其为用户提供的价值使其成为一次成功的冒险。这个故事强调了联属营销的成功潜力，即使是一个基本的网站。]]></description>
-      <guid>https://t.me/hn_summary/70000</guid>
-      <pubDate>Sat, 20 Jan 2024 11:37:53 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，科学家们发现胎盘是 [...]</title>
+      <link>https://t.me/hn_summary/70091</link>
+      <description><![CDATA[胎盘如何从古代病毒进化而来（2020）
+令人惊讶的是，科学家发现胎盘是哺乳动物繁殖的重要器官，是由一种古老的病毒进化而来的。这项开创性的研究挑战了以前的理论，并为这一重要器官的起源提供了新的线索。这项研究表明，数百万年前感染我们哺乳动物祖先的逆转录病毒在胎盘的发育中发挥了关键作用。这一发现不仅为我们的进化史提供了令人着迷的见解，而且还提出了有关病毒与复杂生物体进化之间关系的问题。]]></description>
+      <guid>https://t.me/hn_summary/70091</guid>
+      <pubDate>Sun, 21 Jan 2024 00:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]台积电</title>
-      <link>https://t.me/hn_summary/69999</link>
-      <description><![CDATA[台积电2nm更新：两座晶圆厂正在建设中，一座正在等待政府批准&lt; /a&gt;
-台积电 (TSMC) 正在采用不同的方法，采用 N2（2 纳米级）工艺技术。该公司没有升级现有工厂，而是在台湾建设两座能够生产 N2 芯片的新工厂。第一座晶圆厂位于新竹县宝山附近，预计将于 2025 年下半年开始大批量生产。第二座晶圆厂位于高雄科学园区，预计于 2026 年左右启动 HVM。台积电也正在寻求政府批准台中科学园区第三座 N2 晶圆厂预计将于 2027 年投产。有了这三座晶圆厂，台积电将拥有大量 2 纳米产能。]]></description>
-      <guid>https://t.me/hn_summary/69999</guid>
-      <pubDate>Sat, 20 Jan 2024 11:34:11 GMT</pubDate>
+      <title>[媒体]此网络内容探讨了用各种语言表达笑声的不同方式[...]</title>
+      <link>https://t.me/hn_summary/70090</link>
+      <description><![CDATA[不同语言在线笑
+该网络内容探讨了在线不同语言和文化中表达笑声的不同方式。它强调了笑声在人身上是多么普遍，但当把它写下来时，不同的语言有自己特定的术语。例如，在日语中，“warau”是表达笑声的一种方式，它演变为“www”，因为它看起来像草叶。在土耳其语中，诸如“asdfghjkl”之类的键盘垃圾邮件用于表示娱乐。内容提供了不同语言的笑声表达示例，展示了网络笑声的多样性。]]></description>
+      <guid>https://t.me/hn_summary/70090</guid>
+      <pubDate>Sun, 21 Jan 2024 00:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个 GitHub 项目用 Python 演示了 Lamport 的烘焙算法。</title>
-      <link>https://t.me/hn_summary/69998</link>
-      <description><![CDATA[Lamport 烘焙算法，用 Python 演示
-这个 GitHub 项目用 Python 演示了 Lamport 的烘焙算法。 Bakery 算法是并发编程中使用的一种锁定机制，用于防止多个进程同时进入其临界区，从而导致数据损坏或不一致。该算法保证了互斥性和公平性，允许每个进程在有限的时间内进入其临界区。该算法的独特之处在于它能够确保互斥，而不需要原子读写，这使得它在无法保证原子性的系统中非常强大。尽管存在 Python 全局解释器锁的限制，但提供的 Python 代码演示了该算法的工作原理。]]></description>
-      <guid>https://t.me/hn_summary/69998</guid>
-      <pubDate>Sat, 20 Jan 2024 11:26:03 GMT</pubDate>
+      <title>创始人：反乌托邦商业模拟器</title>
+      <link>https://t.me/hn_summary/70089</link>
+      <description><![CDATA[创始人：反乌托邦商业模拟器
+《创始人：反乌托邦商业模拟器》是一款独特且引人入胜的游戏，玩家可以在反乌托邦环境中创办自己的梦想公司。故事背景设定在 2001 年，玩家们从自己的公寓出发，与主要玩家和未来科技巨头一起努力奋斗。该游戏强调了聚集最优秀人才的重要性，同时保持低成本，以低于市场的价格和福利吸引技术工人。玩家还有责任研究突破性技术，并将自己的公司推向邪教般的地位。游戏的重点是不断的扩张和利润，玩家需要满足股东的要求，否则将面临辞职。游戏强调了玩家行为的后果以及他们塑造美丽新世界的力量。]]></description>
+      <guid>https://t.me/hn_summary/70089</guid>
+      <pubDate>Sun, 21 Jan 2024 00:04:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 抱歉，我无法访问或总结特定的网页内容，因为我是人工智能语言 [...]</title>
-      <link>https://t.me/hn_summary/69997</link>
-      <description><![CDATA[悲伤混蛋食谱从亚马逊下架
-抱歉，我无法访问或总结特定的网页内容，因为我是人工智能语言模型，没有浏览功能。不过，我可以提供一般信息或回答您可能有的任何问题。]]></description>
-      <guid>https://t.me/hn_summary/69997</guid>
-      <pubDate>Sat, 20 Jan 2024 11:21:57 GMT</pubDate>
+      <title>[媒体]最近发表在《自然生态学与进化》上的一项研究揭示了先进的材料[...]</title>
+      <link>https://t.me/hn_summary/70088</link>
+      <description><![CDATA[Shiyu发现揭示了东亚先进材料可追溯到45,000 BDE
+最近发表在《自然生态学与进化》杂志上的一项研究揭示了东亚先进的物质文化可以追溯到 45,000 年前。研究人员检查了中国山西省石峪遗址的文物，发现了刀片技术、齿状和柄状弹头、长距离黑曜石转移以及穿孔石墨盘的使用的证据。这一发现提供了对古代智人向东亚迁徙的深入了解，并展示了当时生活在该地区的人们的先进工具包和文化创新。这些发现挑战了对人类全球扩张的传统理解，并突显了文化克里奥尔化的过程。]]></description>
+      <guid>https://t.me/hn_summary/70088</guid>
+      <pubDate>Sat, 20 Jan 2024 23:47:25 GMT</pubDate>
     </item>
     <item>
-      <title>AI时代的B2B SaaS不可能吗？</title>
-      <link>https://t.me/hn_summary/69996</link>
-      <description><![CDATA[AI时代的B2B SaaS不可能吗？&lt; br/&gt;
-作者讨论了AI时代B2B SaaS初创公司面临的挑战。他们强调，尽管已经将外部服务器用于其他目的，但公司不愿意与人工智能 API 共享内部数据或将其存储在外部数据库中。作者认为这种不情愿是不合理的，并质疑初创公司如何说服 B2B 客户接受 AI 产品作为 SaaS，而不是选择类似于咨询服务而不是传统 SaaS 产品的自托管或自部署解决方案。]]></description>
-      <guid>https://t.me/hn_summary/69996</guid>
-      <pubDate>Sat, 20 Jan 2024 11:20:51 GMT</pubDate>
+      <title>[媒体]Meta 引入了一种称为自我奖励语言模型 (SRLM) 的新范例，[...]</title>
+      <link>https://t.me/hn_summary/70087</link>
+      <description><![CDATA[Meta 推出能够达到 GPT-4 级别性能的自我奖励语言模型
+Meta 引入了一种称为自我奖励语言模型 (SRLM) 的新范式，它允许语言模型不断改进并提供高质量的反馈。与依赖人类偏好来训练奖励模型的传统方法不同，SRLM 会生成自己的奖励，从而能够持续改进指令遵循和奖励建模能力。 SRLM 方法涉及指令遵循和自指令创建，使模型能够自我调整并提高其性能。这些模型将自己作为法官，在训练过程中提供反馈和奖励，避免了传统方法的局限性。通过迭代过程，Meta 能够训练出只需 3 次迭代即可实现 GPT-4 级别性能的 SRLM。语言模型持续改进的潜力非常有趣。]]></description>
+      <guid>https://t.me/hn_summary/70087</guid>
+      <pubDate>Sat, 20 Jan 2024 23:43:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了围绕自由意志理念的争议 [...]</title>
-      <link>https://t.me/hn_summary/69995</link>
-      <description><![CDATA[科学对自由意志的攻击
-本文根据最近的科学研究讨论了围绕自由意志这一概念的争议。作者重点介绍了神经生物学家罗伯特·萨波尔斯基的工作，他认为人类的决定是由我们无法控制的神经刺激决定的。这挑战了个人责任的传统观念，并提出了社会应如何对待罪犯和反社会行为的问题。作者认为，如果自由意志不存在，正义和公平等概念就失去了意义。他们还质疑科学家自己对研究的参与以及试图说服他人缺乏自由意志时出现的矛盾。文章引用陀思妥耶夫斯基的《地下笔记》来强调主观意识的重要性和自由意志的现实性。]]></description>
-      <guid>https://t.me/hn_summary/69995</guid>
-      <pubDate>Sat, 20 Jan 2024 10:35:35 GMT</pubDate>
+      <title>[媒体] Bun Shell 是 Bun 中的一种新的实验性嵌入式语言和解释器，它允许 [...]</title>
+      <link>https://t.me/hn_summary/70086</link>
+      <description><![CDATA[面包壳
+Bun Shell 是 Bun 中的一种新的实验性嵌入式语言和解释器，允许您在 JavaScript 和 TypeScript 中运行跨平台 shell 脚本。它的目的是简化在 JavaScript 中运行 shell 脚本，由于跨平台的 shell 和语法不同，这可能具有挑战性。 Bun Shell 提供了重定向 stdout、在 shell 脚本中使用 JavaScript 变量、管道命令等功能。它被设计为简单 shell 脚本的直接替代品，适用于 Windows、macOS 和 Linux。 Bun Shell 内置于 Bun 中，安装 Bun v1.0.24 或更高版本即可使用。]]></description>
+      <guid>https://t.me/hn_summary/70086</guid>
+      <pubDate>Sat, 20 Jan 2024 23:38:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目是一个开源 Spotify 客户端，可以在多个平台上使用 [...]</title>
-      <link>https://t.me/hn_summary/69994</link>
-      <description><![CDATA[开源 Spotify 客户端，不需要 Premium 也不使用 Electron&lt; /a&gt;
-该项目是一个开源 Spotify 客户端，可以在多个平台上使用，无需订阅 Spotify Premium。它利用 Spotify 的数据 API 和 YouTube（或其他替代方案，例如 Piped.video 或 JioSaavn）作为音频源。该客户端提供无广告、可下载曲目、跨平台支持、小尺寸、匿名/访客登录、时间同步歌词和本机性能等功能。它也不收集用户数据或使用遥测技术。作者强调，该客户端不是另一个 Electron 应用程序，这可能会将其与其他可用的 Spotify 客户端区分开来。该项目是开源的，并根据 BSD-4-Clause 许可证获得许可。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69994</guid>
-      <pubDate>Sat, 20 Jan 2024 10:24:25 GMT</pubDate>
+      <title>[媒体] Tomahawk 是一款音乐应用程序，允许用户从朋友的计算机上传输音乐 [...]</title>
+      <link>https://t.me/hn_summary/70085</link>
+      <description><![CDATA[Tomahawk，无人谈论的最重要的音乐应用程序 (2012)&lt; /a&gt;
+Tomahawk 是一款音乐应用程序，允许用户从朋友的计算机流式传输音乐并从不同设备访问自己的音乐。安装必要的插件需要一些技术知识，但现在比以前更容易使用。该应用程序还允许用户与朋友实时听音乐并创建广播电台。 Tomahawk是一个开源项目，不打算赚钱。该应用旨在解决音乐存储在不同平台的问题，并提供以用户为中心的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/70085</guid>
+      <pubDate>Sat, 20 Jan 2024 23:22:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

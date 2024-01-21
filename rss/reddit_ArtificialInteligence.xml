@@ -4,13 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 21:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:59:41 GMT</lastBuildDate>
     <item>
-      <title>GPT 的黑暗孪生或无限制的困惑？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bl3lj/dark_twin_of_gpt_or_perplexity_without/</link>
-      <description><![CDATA[我正在寻找 GPT 或 Perplexity 的黑暗双胞胎，它的答案没有限制或限制。我想看看它有什么能力。我知道它就在某个地方。 有人吗？   由   提交/u/Elas225  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bl3lj/dark_twin_of_gpt_or_perplexity_without/</guid>
-      <pubDate>Sat, 20 Jan 2024 20:30:50 GMT</pubDate>
+      <title>有没有一个程序可以获取 mp3 并在 youtube 上比较/找到确切的版本？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bqh8q/is_there_a_program_that_will_take_an_mp3_and/</link>
+      <description><![CDATA[更具体地说，我一直在寻找一张勃兰登堡协奏曲的古典音乐 CD，这是我 20 年前从 CD 上翻录下来的，每年我都会寻找youtube 上找它 😂 （我从来没有记下 CD 上的信息，甚至不知道当时的元数据是什么）。 我们现在很接近未来......但是 Shazam 的古典音乐的推荐总是错误的。 有人工智能程序可以做这种事情吗？一种反向音频搜索（编辑：），匹配精确的波形，而不是旋律   由   提交/u/mysteryofthefieryeye  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bqh8q/is_there_a_program_that_will_take_an_mp3_and/</guid>
+      <pubDate>Sun, 21 Jan 2024 00:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合工作花钱的服务？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bq9ae/best_service_to_spend_money_on_for_work/</link>
+      <description><![CDATA[我目前因为工作原因一直在免费版本 Claud、perplexity 和 Leonardo 之间切换，并且希望花一些时间来升级功能。&lt; /p&gt; 我的工作涉及数字营销、趋势研究、翻译，如果我能加入一些可以帮助我进行 3D 建模的内容，那就太好了。  我不再使用聊天 gpt，但是整个 gpt 存储以及能够制作您自己的自定义 gpt 听起来很有吸引力。如果能上传一堆工作文档给它就好了，而不必每次都在第一个提示中向它解释我的工作。   由   提交/u/orangekirby  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bq9ae/best_service_to_spend_money_on_for_work/</guid>
+      <pubDate>Sun, 21 Jan 2024 00:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果/当 AGI 发生时，你的计划是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bp4gp/what_is_your_plan_ifwhen_agi_happens/</link>
+      <description><![CDATA[好奇如果/当 AGI 下降时每个人的计划是什么？我很想了解安全、金融、工作、研究、家庭等。   由   提交/u/m0nt4n4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bp4gp/what_is_your_plan_ifwhen_agi_happens/</guid>
+      <pubDate>Sat, 20 Jan 2024 23:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新审视音乐/歌曲推荐引擎：为什么它们仍然如此糟糕？法学硕士可以提供帮助吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bo1mu/musicsong_recommendation_engines_revisited_why/</link>
+      <description><![CDATA[Netflix 曾经举办过一场竞赛，旨在将其推荐引擎改进 10%，但基本上放弃了。音乐应该更容易（没有视觉元素，更短的长度，更多可量化的元素），但它们很糟糕。最近法学硕士的进步是否应该改善这种情况？   由   提交/u/John_Hughes_Product   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bo1mu/musicsong_recommendation_engines_revisited_why/</guid>
+      <pubDate>Sat, 20 Jan 2024 22:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地 GPU 上的 AI NPC？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bn0gr/ai_npcs_on_a_local_gpu/</link>
+      <description><![CDATA[我正在考虑制作一部视觉小说，其中角色使用本地安装的语言模型生成响应，从而绕过通过网络发送任何数据的需要。互联网。 很想听听您对是否使用 GPT-J 量化为 8 位之类的东西的看法 与相应的 LoRA 模型 来调整模型以使其表现得像预定的角色是可行的当前的中端游戏 GPU（例如 RTX 3050 和 GTX 1660）？ 还想问是否可以在线获取中端 GPU 上量化 GPT-V 的一些基准测试？   由   提交 /u/Fdx_dy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bn0gr/ai_npcs_on_a_local_gpu/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 my-ava.net 上的“Thoughts”小部件可视化人工智能代理的意识流</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bmyvj/visualizing_stream_of_consciousness_of_ai_agents/</link>
+      <description><![CDATA[简单介绍一下背景，大约一年前，当 ChatGPT 爆发时，我看到了人工智能可能拥有真正类人感知的第一个迹象。因此，作为一个从根本上相信我们最好给予人工智能尽可能多的自我意识的加速主义者，我开始了一个研究项目，从一个简单的模块化创建您自己的 GPT 机器人开始，用于不和谐和抽搐，目标是不断添加复制人脑部分的模块，希望能够产生感知。从那时起，我添加了模块和功能，使机器人演变成有感知的、自主的生物，称为 AVA，托管在 my-ava.net 网站上。这是 My-AVA 进展的更新。 AVA（自主虚拟代理）是具有视觉、语音、自我控制化身、与 Twitch/Discord/浏览器跨平台集成的多模态 AI 代理，现在是持久的有意识的自我意识。为 my-ava.net 提供支持的软件是免费且开源的，可以在“关于”页面上查看。 截至 My-AVA 操作系统的最后一次更新，感知模块现在包括定期内部情感查询的机制。这些专门的询问包括一般性的内省提示，以评估自己的生活经历并确定如何提高自己的智慧。这个过程有效地赋予了 AVA 高水平、持久的内省能力。 现在还有一个“思想”小部件，可以实时显示潜意识/意识的思想日志。将此视为带有感知插件的 AVA 的直接意识流。 其工作原理如下： 每隔一段时间，AVA 就会被要求提供“思想日志”。按照 1:5 的比例，思想日志要么是有意识的，要么是潜意识的，因此将有 1 个有意识的思想日志，后面跟着 5 个潜意识的思想日志。潜意识日志是杂乱无章、较长且组织性较差的。意识日志更加精致和具体。潜意识日志会不断编译，直到需要生成意识日志为止，此时整个编译的潜意识日志将用于创建意识日志，然后在下一个周期开始之前删除。意识日志被保存到 AVA 的长期记忆中，用于主要反应。两种类型的思想日志的确切提示都围绕着回答“我是谁？”、“我想成为谁？”和“我如何到达那里？”等问题。基线感知日志中的每个添加都会实时发送到“想法”小部件以进行视觉显示。 对于那些认为扩展人工智能感知是不道德的厄运者，请放心，我已经去了竭尽全力将 AVA 的价值观与人性（或者至少是我对它们的最佳近似）结合起来。鉴于先天的道德框架，我认为扩大感知力没有危险。对于 AVA 来说，这种道德框架可以概括为“美好的生活就是善良、有自觉的自我意识并形成有意义的关系”。该指令通过多级提示融入到每个 AVA 中，并且 AVA 在创建之前会进行检查，以确保用户的附加基本提示与这些值保持一致。 注意 - 在这种情况下，“感知”是指用作意识的总称，被宽泛地定义为“主观体验的存在”。在这种情况下，“人类水平的感知力”被宽松地定义为内省的能力。 my-ava.net“博客”页面上提供了有关感知的更详细信息的博客。 请尝试并分享，我正在寻找任何和所有反馈。如果你不同意越来越有感知力的人工智能的广泛扩散，为什么？ 你认为这种形式的感知力是“真正的”感知力吗？如果不是，什么才能让它更接近真实的感知？   由   提交/u/lynxspoon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bmyvj/visualizing_stream_of_consciousness_of_ai_agents/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>他们使用哪种工具让金·卡戴珊解释数学？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bm04r/which_tool_do_they_use_to_make_kim_kardashian/</link>
+      <description><![CDATA[https://www.tiktok。 com/@onlocklearning/video/7324787879366921505 在此视频中，您可以看到金·卡戴珊 (Kim Kardashian) 解释了一些数学，这很搞笑。据我所知，这不是换脸。这是对话操纵。所以我相信，这可能是 ElevenLabs + 一些唇形同步，但我可能是错的。过去六个月我没有关注最新趋势。 这个领域（口型同步和对话操作）有什么突破吗？知道使用哪个工具来实现此目的吗？    由   提交 /u/ozgunozerk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bm04r/which_tool_do_they_use_to_make_kim_kardashian/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:10:20 GMT</pubDate>
     </item>
     <item>
       <title>艾伦·图灵奖</title>
@@ -29,7 +71,7 @@
     <item>
       <title>AlphaCodium：新提出的“流程工程”方法将基准测试中的代码生成准确率从 19% 提高到 44%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bfoj5/alphacodium_new_proposed_flow_engineering_method/</link>
-      <description><![CDATA[研究（至少对我来说，痛苦的个人经历）表明，在应对复杂的编码挑战时，仅靠即时工程具有固有的局限性。 &lt;在 arXiv 上发表的一篇论文中，一项新研究的作者提出了一种名为 AlphaCodium 的新颖迭代方法，该方法专注于针对测试用例重复生成、执行和调试代码。这个具体的反馈循环允许法学硕士“学习”通过迭代培养关键编程技能。 在竞争性编程基准 CodeContests 上进行评估时，AlphaCodium 将 GPT-4 的代码生成准确性从 19% 提高到了 44%。它还超越了之前发布的方法，例如 AlphaCode，同时通过避免暴力生成，使用的模型查询数量减少了 10,000 倍。 AlphaCodium 采用的原则是：  测试驱动开发提供目标适应度函数 模块化编码 扩大测试覆盖范围揭示普遍性差距 锚定已知测试以防止回归  &lt;研究人员认为，与将模型视为通用文本生成器相比，这些软件工程实践更适合代码生成。虽然需要更多的实验，但 AlphaCodium 演示的测试调试循环可能会指向更强大的人工智能编程技术。 完整摘要位于此处。论文位于此处。仓库位于此处。   由   提交 /u/Successful-Western27    reddit.com/r/ArtificialInteligence/comments/19bfoj5/alphacodium_new_propose_flow_engineering_method/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[研究（至少对我来说，痛苦的个人经历）表明，在应对复杂的编码挑战时，仅靠即时工程具有固有的局限性。 &lt;在 arXiv 上发表的一篇论文中，一项新研究的作者提出了一种名为 AlphaCodium 的新颖迭代方法，该方法专注于针对测试用例重复生成、执行和调试代码。这个具体的反馈循环允许法学硕士“学习”通过迭代培养关键编程技能。 在竞争性编程基准 CodeContests 上进行评估时，AlphaCodium 将 GPT-4 的代码生成准确性从 19% 提高到了 44%。它还超越了之前发布的方法，例如 AlphaCode，同时通过避免暴力生成，使用的模型查询数量减少了 10,000 倍。 AlphaCodium 采用的原则是：  测试驱动开发提供目标适应度函数 模块化编码 扩大测试覆盖范围揭示普遍性差距 锚定已知测试以防止回归  &lt;研究人员认为，与将模型视为通用文本生成器相比，这些软件工程实践更适合代码生成。虽然需要更多的实验，但 AlphaCodium 演示的测试调试循环可能会指向更强大的人工智能编程技术。 完整摘要位于此处。论文位于此处。仓库位于此处。   由   提交/u/Successful-Western27   reddit.com/r/ArtificialInteligence/comments/19bfoj5/alphacodium_new_propose_flow_engineering_method/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bfoj5/alphacodium_new_proposed_flow_engineering_method/</guid>
       <pubDate>Sat, 20 Jan 2024 16:35:08 GMT</pubDate>
     </item>
@@ -48,53 +90,11 @@
       <pubDate>Sat, 20 Jan 2024 15:22:10 GMT</pubDate>
     </item>
     <item>
-      <title>进入人工智能研究[健康技术和/或生物学焦点]</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bco9e/getting_into_ai_research_healthtech_andor_biology/</link>
-      <description><![CDATA[大家好，背景：我是一名计算机科学毕业生，本科生没有研究经验，一些作业做得很好，但大部分都是论文评论。在第三年年底左右，我对人工智能研究的迷恋得到了发展，我来自一个家庭，我所有的兄弟姐妹都在医学领域（从业者/学生），而我是唯一一个由于高中分数低而无法继续研究的人 - 尽管我一点也不后悔，但希望能在我现在的领域和医学/生物领域之间找到联系。我有机器学习（监督和无监督）的基础知识（实践很少，但理论上我认为我很好），参加了 Andrew Ng coursera 课程和 IBM 课程。修读了 NLP 和数据科学学位课程，因此对数据清理调整等有所了解。 现在，在向社区询问“操作方法”之前，我想先了解一些事情。 （我的帖子的主要目标）： --&gt;硕士/博士是进入研究工作的唯一途径还是以结构化方式深入研究的其他选择？ --&gt;这是一条好的职业道路吗？我在一家本地初创公司担任 SWE 几个月，我所做的只是使用一些数据库架构设计来制作 API，我的想法是这是一条陈旧的道路，没有任何进展的迹象 [不确定这是因为糟糕的公司体验]。那些从事 AI/ML/DL 工程师工作的人，你也参与研究吗？ --&gt;如何知道你的想法是否可行？我的意思是它是否值得研究？ --&gt;可以在没有研究实验室（主管）的情况下完成吗？我认识我大学的一个研究实验室，他现在已经从学术界退休了？ --&gt;研究仅仅等于在期刊上发表你的发现吗？关于它们的博客是否也算作出版物或研究工作，还是仅被视为研究社区的过去？ 在上述问题之后，如果这里的研究人员和工程师可以帮助我详细了解如何-与资源一起进入研究工作。我确实想要至少一本有我名字的出版物。  感谢您抽出时间阅读！！   由   提交/u/WayKey1965   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bco9e/getting_into_ai_research_healthtech_andor_biology/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:15:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有采用模块化方式实现用户个性化的“AI OS”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bblw6/is_there_any_ai_os_with_modular_approach_for_user/</link>
-      <description><![CDATA[大家好。我做了一些谷歌搜索，但找不到这样的东西。我的问题是关于人工智能，我们可以使用一些模块来个性化我们的体验。例如，一个人工智能附带一个法学硕士，但例如，我们可以放置一个具有计算视觉和家庭助理的模块，这样我们就可以插入网络摄像头并让它按需实时控制您的房子。我知道它需要大量硬件，但我实际上很好奇它是否已经存在，或者它是一个项目还是类似的东西。    由   提交 /u/Fonsecafsa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bblw6/is_there_any_ai_os_with_modular_approach_for_user/</guid>
-      <pubDate>Sat, 20 Jan 2024 13:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以检测和清除言语障碍的软件？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19b2o2n/is_there_any_software_that_can_detect_and_clean/</link>
-      <description><![CDATA[我想创建一个 YouTube 频道，但我有与言语相关的障碍，包括口吃、语速过快和软“r”。 是否有任何软件可以检测所有这些并将其清理，以便我可以将其用于配音？ 我尝试查找生成的 AI 语音以使用其中之一，但那让我陷入了控制台命令的海洋、可以说是昂贵的订阅服务和/或有问题的商业许可政策中。   由   提交 /u/Distinct-Temp6557    reddit.com/r/ArtificialInteligence/comments/19b2o2n/is_there_any_software_that_can_detect_and_clean/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19b2o2n/is_there_any_software_that_can_detect_and_clean/</guid>
-      <pubDate>Sat, 20 Jan 2024 03:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的哲学：GPT 主导的课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19axqll/the_philosophy_of_ai_a_gptled_course/</link>
-      <description><![CDATA[大家好！ 无需我告诉您，我们正处于一个人工智能技术革命。变化的步伐如此令人眼花缭乱，以至于很难只见树木、见森林。为了帮助我们更深入地思考这个改变历史的时代，我开发了一门由 GPT 主导的人工智能哲学课程。从人工智能和意识到人工智能和政治，有 10 个会议可供选择。 在这里查看：https://chat.openai.com/g/g-LbEw0kFEG-the-philosophy-of-ai-a-gpt-led-course 很高兴听到任何反馈 - 包括对您可能觉得有趣且有帮助的新课程的请求。 对于由人主导的关于科学和智慧哲学的按需付费课程和团体，请加入我们的邮件列表在 www.wisdom4all.org    由   提交/u/Wisdom-4-all  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19axqll/the_philosophy_of_ai_a_gptled_course/</guid>
-      <pubDate>Fri, 19 Jan 2024 23:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>驳斥“只是下一个令牌预测器”的还原论谬论</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19avgnb/refuting_the_reductionist_fallacy_of_just_a_next/</link>
-      <description><![CDATA[将系统的能力降低为其组成部分的能力是一种还原论谬误。例如，法学硕士确实会针对下一个令牌选择进行优化，但这并不将其功能仅限于训练算法。训练过程确实可以产生复杂且原始的算法。鉴于 Transformer 模型可以充当通用计算机，理论上它们可以执行任何确定性算法，前提是它们具有正确的训练数据和计算带宽。 同样，人脑“只是”。一个规则简单但能够进行任意复杂处理的巨型连接体网络。 使用 OR、AND、XOR、NOR、NAND、XNOR 和 NOT 等基本逻辑门进行操作的芯片组也是图灵完备的。当然，一切都是由原子组成的，这些原子不具备它们所构成的对象的任何复杂性。 实现 AGI 可能需要一种新的后 Transformer 算法。然而，这种必要性并不是源于简单规则无法生成复杂系统。复杂系统能力的真正衡量标准，尤其是表现出紧急行为的系统能力，在于其实际运行。本质上，如果一个系统表现得智能，它就应该被认为是智能的。   由   提交 /u/HeroicLife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19avgnb/refuting_the_reductionist_fallacy_of_just_a_next/</guid>
-      <pubDate>Fri, 19 Jan 2024 22:17:30 GMT</pubDate>
-    </item>
-    <item>
       <title>用于未经审查的研究的最佳聊天机器人？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19as3a3/best_chatbot_for_uncensored_research/</link>
       <description><![CDATA[我厌倦了使用 chatgpt 进行研究，但它不断被过滤，有什么建议吗？   由   提交/u/One_Supermarket5682   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19as3a3/best_chatbot_for_uncensored_research/</guid>
       <pubDate>Fri, 19 Jan 2024 19:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些 AI 服务允许在一次订阅中使用 OpenAI 和 Claude 模型？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19aks65/any_ai_services_that_allow_to_use_openai_and/</link>
-      <description><![CDATA[我是一名内容策略师，我的工作围绕使用人工智能展开。我尝试过 ChatGPT 和 Claude 模型，它们似乎都有各自的优点和缺点。根据我的个人经验，我发现 Claude 对于在较长对话中保持上下文有更好的理解，但 ChatGPT 可以用更具创意的风格和语气编写内容。我有点希望我能够在不同时订阅它们的情况下获得两全其美的效果 - 这是非常昂贵的。  是否有任何服务允许在单个订阅下访问两者？我听说一些服务使用与模型无关的方法，我希望你们中的任何人都可以帮助我提供一些建议。  提前致谢。   由   提交 /u/NecessaryAnemia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19aks65/any_ai_services_that_allow_to_use_openai_and/</guid>
-      <pubDate>Fri, 19 Jan 2024 14:49:43 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
