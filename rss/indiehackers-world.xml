@@ -4,7 +4,55 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 21 Jan 2024 09:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 12:23:11 GMT</lastBuildDate>
+    <item>
+      <title>Laravel 平台可安装多种 SaaS 产品。多语言与 Postgres n Mongo 保持一致。对象、服务配置.GCP可部署</title>
+      <link>https://feed.indiehackers.world/post/b4d6bad961</link>
+      <description><![CDATA[我想构建一个 Laravel 启动板来安装与特定用例（GRC 合规性/B2B 销售）相关的多个 SaaS 产品，并具有统一的用户、SaaS 管理。多语言与 Postgres n Mongo 保持一致。对象、服务配置。GCP 可部署。
+我正在检查这是否可行并寻求指导。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b4d6bad961</guid>
+      <pubDate>Sun, 21 Jan 2024 12:20:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>满足 BETA 审核：我将在 24 小时内审核您的产品、网站或“进入市场”策略，费用为 50 美元！</title>
+      <link>https://feed.indiehackers.world/post/d56e1cc8ee</link>
+      <description><![CDATA[创始人最难获得真实的反馈
+我将在新启动的“BETA 审核”后 24 小时内审核您的产品、网站或“进入市场”策略。
+我是一位经验丰富的创始人，有过成功也有过失败:)
+这是我的测试版
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d56e1cc8ee</guid>
+      <pubDate>Sun, 21 Jan 2024 10:25:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>社区货币化</title>
+      <link>https://feed.indiehackers.world/post/0c013f702a</link>
+      <description><![CDATA[各位同学大家好
+我正在集思广益，为我的设计公司 (https://www.tobeDesign.co/) 启动一个不和谐的设计社区，并且我想知道我应该做一个会员费的社区还是应该做一个免费的社区？ 
+如果我做一个付费社区，我应该如何管理会员资格？我真的很困惑。希望听到这里有经验的人的意见，他们中的许多人都创建了成功的社区。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0c013f702a</guid>
+      <pubDate>Sun, 21 Jan 2024 10:12:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 Beezle Social，一款适用于 iOS 的社交媒体应用程序并寻求反馈！</title>
+      <link>https://feed.indiehackers.world/post/1fbc6239ef</link>
+      <description><![CDATA[⚡
+请访问我们的网站：https://beezleapp.com 并下载该应用程序。请让我知道你的想法！ 
+以下是 App Store 的链接：https://apps.apple.com/us/app /beezle-social/id1661982809
+Play 商店：https://play.google.com/store/apps/details? id=com.beezleapp.beezle
+🖥️
+在开发阶段，我获得了对 Swift 和 Rust（使用的主要编程语言）以及通过 AWS 部署应用程序的广泛了解。我编写了一些开源库来支持 Beezle，可以在我的帐户中找到它们：https://github.com/Jasperav。&lt; /p&gt;
+我正在寻找一般反馈：
+您对用户界面有何看法？
+是否缺少任何功能？
+您遇到错误了吗？
+非常感谢您的反馈，谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1fbc6239ef</guid>
+      <pubDate>Sun, 21 Jan 2024 09:53:05 GMT</pubDate>
+    </item>
     <item>
       <title>StudioMax - Agency 多页主题使用 Astro、Tailwind CSS 和 MDX 构建</title>
       <link>https://feed.indiehackers.world/post/d6f9082ed2</link>
@@ -17,7 +65,6 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>早期创始人想要合作？</title>
       <link>https://feed.indiehackers.world/post/a2131e8774</link>
       <description><![CDATA[
-MVP：[是或否]
 状态：[开发版或 v1.0 已发布]
 您正在寻找技术或非技术领域的联合创始人/合作伙伴吗？
 建议在本财年年底前完成 MRR。
@@ -36,7 +83,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>将您的网站包含在产品化服务目录通讯的第 2 卷中。 2 月 9 日到来。</title>
       <link>https://feed.indiehackers.world/post/c85906c550</link>
-      <description><![CDATA[如果您是新来的，我一直在我的网站上构建产品化服务目录，提交的内容主要来自独立黑客社区和 Productize Yourself 社区的优秀人士：https://productizeyourself.co
+      <description><![CDATA[如果您是新来的，我一直在我的网站上构建产品化服务目录，提交的内容主要来自独立黑客社区和 Productize Yourself 社区中的优秀人士：https://productizeyourself.co
 每个月，我都会发送一份时事通讯，其中包含目录中的所有列表。 
 该目录已增加到 60 个列表。该时事通讯第一期有 31 名订阅者。 
 如果您希望在网站目录中列出您的产品化服务并在时事通讯第 2 卷中得到推荐，请在 2 月 9 日之前在 Chief of Stuff 网站上提交您的详细信息：https://chiefofstuff.online
@@ -45,7 +92,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Sun, 21 Jan 2024 07:25:45 GMT</pubDate>
     </item>
     <item>
-      <title>我在 Twitter 上烤了我自己的登陆页面</title>
+      <title>我在 Twitter 上烤了自己的登陆页面</title>
       <link>https://feed.indiehackers.world/post/8da9dec75c</link>
       <description><![CDATA[大家好，我觉得有时我们内心深处知道我们的设计/服务/产品出了什么问题。
 我们只是低调假装没事。
@@ -158,54 +205,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/7b92d65387</guid>
       <pubDate>Sat, 20 Jan 2024 23:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>孤独是一个值得关注的真正市场</title>
-      <link>https://feed.indiehackers.world/post/75d1385fac</link>
-      <description><![CDATA[为什么现在很多人已经带头
-完全同意。然而，以下是我的一些反驳观点：
-
-虽然似乎有很多开发人员在创建聊天机器人，但这只是目前所提供服务的一小部分。热潮从去年年中开始，所以我们还有时间。
-
-根据 Bloomberg 和 Statista 的数据，Gen-AI 市场目前价值约为 240B 美元，聊天机器人市场约为 4.47 亿美元。到 2032 年，Gen-AI 市场预计将增长到 1.3T 美元。就像我上面所说的，这只是一个开始。
-
-推理、语音功能和 RAG 服务器运营成本几乎每个月都在迅速降低。具有商业可行性的新技术突破几乎每月都会发布。最近，Pinecone 推出了他们的无服务器数据库，现在它是基于每次使用的，并且价格比之前的产品低了 50 倍。 Play.HT 现在拥有无限代，每月只需 100 美元，企业合作伙伴可以获得更好的收益。越来越多的托管公司正在降低开源 LLM 的推理价格，其中一家甚至为其 7B 模型收取每 100 万代币 0.2 美元的费用，具有闪电般的文本和图像生成速度。这意味着，通过适当的定价策略，现在可以以非常有竞争力的价格提供现有成功的聊天机器人服务的类似功能。 
-
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/75d1385fac</guid>
-      <pubDate>Sat, 20 Jan 2024 23:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：将产品发布到我的 100 人邮件列表</title>
-      <link>https://feed.indiehackers.world/post/a90e5e49fd</link>
-      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a90e5e49fd</guid>
-      <pubDate>Sat, 20 Jan 2024 22:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚在亚马逊上出版了我的书</title>
-      <link>https://feed.indiehackers.world/post/974f1fa17d</link>
-      <description><![CDATA[独立黑客们大家好，
-我刚刚在亚马逊上出版了我的书。这一切都与个人发展和个人成功有关。
-如果您想购买，可以在亚马逊上购买，可以点击下面的链接：
-老实说，值得一试
-https://amzn.to/3Sq4kKg
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/974f1fa17d</guid>
-      <pubDate>Sat, 20 Jan 2024 17:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将在 Product Hunt 上推出 🚀</title>
-      <link>https://feed.indiehackers.world/post/96f590a788</link>
-      <description><![CDATA[嘿，伙计们！
-我们将以合理的价格推出基于 Product Hunt 和营销自动化的 Stimch。唯一兼顾经济性和有效性的营销平台！
-Stimch 定于 1 月 23 日星期二发布，我们希望得到您的支持！请在 PH 上订阅我们并支持我们的发布🙏
-https://www.producthunt.com/prod...
-在您尝试 https://stimch.com/ 后，我们也期待您的反馈。这对我们来说非常重要！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/96f590a788</guid>
-      <pubDate>Sat, 20 Jan 2024 16:19:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

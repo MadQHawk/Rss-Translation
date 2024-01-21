@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 09:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 12:22:36 GMT</lastBuildDate>
+    <item>
+      <title>什么最能描述您？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19c1q3m/what_describes_you_best/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/tspwd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19c1q3m/what_describes_you_best/</guid>
+      <pubDate>Sun, 21 Jan 2024 11:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>URL解析器性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/19c14h6/url_parser_performance/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19c14h6/url_parser_performance/</guid>
+      <pubDate>Sun, 21 Jan 2024 11:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>帧转发问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19c09rr/trouble_with_frame_forwarding/</link>
+      <description><![CDATA[我有一个网站（我们称之为 xyz.com）和另一个域（abc.com）。在访问 abc.com 时，我想将用户重定向到 xyz.com，同时将 URL 保留为 abc.com。所以这是一个帧转发的情况（如果我没记错的话），所以我为 abc.com 创建了一个 iframe 并将 src 设置为 xyz.com。访问 abc.com 时，会打开登录页面，到这里就不麻烦了。但当我登录时，我没有进入仪表板页面，而是收到 302 重定向。我在这里犯了什么错误？有人可以帮助我吗？我是否需要更改 URL 的结构或其他内容？我的网站是基于 PHP 的。   由   提交/u/achilles16333  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19c09rr/trouble_with_frame_forwarding/</guid>
+      <pubDate>Sun, 21 Jan 2024 10:08:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有效使用 requestAnimationFrame 实现 10 fps？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19c05to/efficient_use_of_requestanimationframe_for_10_fps/</link>
+      <description><![CDATA[我正在开发一个带有键盘控制的简单 2D 游戏。目前，每当按下某个键并且更新游戏状态时，我都会使用以下命令对重新渲染进行排队： requestAnimationFrame(() =&gt; { gameRenderer.render() }) &lt; /code&gt; 我想开始向游戏添加一些基本的 10 fps 动画。我最初的想法是有一个看起来像这样的主渲染循环： function render() { gameRenderer.render() setTimeout(() =&gt; { requestAnimationFrame(render) }, 100) } render()  但是，我能找到的所有示例都不要使用这种方法，并且我发现了一些解释，说明为什么这不理想并且可能无法给出所需的结果帧率。建议的方法通常是这样的： let prevRenderTime function render(timestamp: number) { if (!prevRenderTime) { prevRenderTime = timestamp - 100 } if (timestamp &gt;= prevRenderTime + 100 ) { gameRenderer.render() prevRenderTime = timestamp } requestAnimationFrame(render) } requestAnimationFrame(render)  在这种方法中，游戏每秒仅渲染约 10 次，但是 render 函数可以根据硬件更频繁地调用。例如。每秒 60 次。 如果我仅以 10fps 渲染，我是否应该担心 render 函数被如此频繁地调用？或者开销可以忽略不计并且不太可能对性能产生任何影响？   由   提交/u/DanielGibbs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19c05to/efficient_use_of_requestanimationframe_for_10_fps/</guid>
+      <pubDate>Sun, 21 Jan 2024 10:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>wardialers.org/jqwidgets。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bzwo1/wardialersorg_jqwidgets/</link>
+      <description><![CDATA[我是某种类型软件的收藏家...我的网站可以在 wardialers.net... 您可以看到我使用网格来显示行和列中的每个项目。我也曾经有过它，你可以双击该项目（这可能只是因为我在我的 iPad 上，它不起作用）......无论如何，我希望每个应用程序的屏幕截图都显示在“双击”中摘要”对于每个项目 - 但无法真正弄清楚如何。我最好只使用行索引属性并显示在特定文件夹中找到的带有 JPG 扩展名的任何内容吗？请指教..我是一个新手编码员..就足够危险了。 ​ 感谢小组！   由   提交 /u/lucidphreak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bzwo1/wardialersorg_jqwidgets/</guid>
+      <pubDate>Sun, 21 Jan 2024 09:43:04 GMT</pubDate>
+    </item>
     <item>
       <title>WebAssembly 的现状 – 2023 年和 2024 年</title>
       <link>https://www.reddit.com/r/webdev/comments/19byre6/the_state_of_webassembly_2023_and_2024/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>现在，AWS Lambda 函数在处理大容量请求时的扩展速度提高了 12 倍</title>
       <link>https://www.reddit.com/r/webdev/comments/19bxlrc/aws_lambda_functions_now_scale_12_times_faster/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bxlrc/aws_lambda_functions_now_scale_12_times_faster/</guid>
       <pubDate>Sun, 21 Jan 2024 07:05:16 GMT</pubDate>
     </item>
@@ -71,44 +106,9 @@
     <item>
       <title>现在还是星期六。希望对我的作品集网站提供反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/19bszbm/its_still_saturday_would_like_feedback_on_my/</link>
-      <description><![CDATA[嗨，开发者， 我已经阅读了很多有关制作作品集网站的内容，例如我应该做什么和不应该做什么。 t 包含在其中。本周我已经整理了我的第一个作品集网站，想知道是否应该添加或删除任何内容。 zevs-portfolio.netlify.app（是的，我还没有购买域名） 一些注意事项：  这个这是一项正在进行中的工作。它是针对移动设备优先构建的，因此在大屏幕上看起来可能不太好。 我现在正在修改我的简历。完成后，我将在“工作”中添加一个下载链接。部分。 我询问的是对该网站的反馈，而不是其上列出的任何项目。如果您在想，“为什么称自​​己为全栈开发人员？”你所有的项目都是前端的东西。”我有一些正在进行中的全栈项目。完成后我会添加它们。 如果您愿意，请随时下载我的 vscode 主题！ 我的设计怎么样？我应该添加颜色吗？  谢谢!!   由   提交/u/Zev18  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，开发者， 我已经阅读了很多有关制作作品集网站的内容，例如我应该做什么和不应该做什么。 t 包含在其中。本周我已经整理了我的第一个作品集网站，想知道是否有任何我应该添加或删除的内容。 zevs-portfolio.netlify.app（是的，我还没有购买域名） 一些注意事项：  这个这是一项正在进行中的工作。它是针对移动设备优先构建的，因此在大屏幕上看起来可能不太好。 我现在正在修改我的简历。完成后，我将在“工作”中添加一个下载链接。部分。 我询问的是对该网站的反馈，而不是其上列出的任何项目。如果您在想，“为什么称自​​己为全栈开发人员？”你所有的项目都是前端的东西。”我有一些正在进行中的全栈项目。完成后我会添加它们。 如果您愿意，请随时下载我的 vscode 主题！ 我的设计怎么样？我应该添加颜色吗？  谢谢!!   由   提交/u/Zev18  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bszbm/its_still_saturday_would_like_feedback_on_my/</guid>
       <pubDate>Sun, 21 Jan 2024 02:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经在 SendGrid 上设置了域身份验证。我可以在二月份接受 Gmail 和 Yahoo 的更改吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bskr5/i_already_set_up_domain_authentication_on/</link>
-      <description><![CDATA[我使用 sendgrid 处理一些事情 - 每天发送的电子邮件远低于 5000 封，但让它们停止工作会造成破坏 - 我得到了关于需要确保我更新内容以确保符合 Gmail 和 Yahoo 更新的电子邮件。 事实是，sendgrid 指南上的大多数链接都是关于域身份验证的，我不久前就已经设置过了。这是否意味着我可以走了？   由   提交 /u/IndirectLeek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bskr5/i_already_set_up_domain_authentication_on/</guid>
-      <pubDate>Sun, 21 Jan 2024 02:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 打破了互联网</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bs6t6/javascript_broke_the_internet/</link>
-      <description><![CDATA[我可能会被否决，但我必须这么说。 说真的，网站是怎么回事？没有 JavaScript 就无法运行？对于这种对每件小事都使用 JavaScript 框架的痴迷，我忍不住摇头。 网站的加载速度快如闪电。现在，我们陷入等待无数脚本加载的困境，导致缓慢、臃肿的混乱，让用户感到沮丧，并想知道为什么一个简单的任务需要如此多的计算能力。如果你敢禁用 JavaScript 会发生什么？好吧，一半的互联网变成了禁区。 这违背了网络应坚持的包容性和可访问性原则。 不，我不想使用你们最新、最快、最轻的 JavaScript 框架。设置开发环境就像填写一张发射宇宙飞船的表格。我经常看到 JavaScript 开发人员像孩子一样追逐最新、最闪亮的玩具。他们似乎沉迷于复杂性，就好像他们相信让事情变得更加复杂可以提高他们的编码能力。 ​ 你的网站应该 100% 具有功能性JavaScript 已禁用。 PS：https://motherfuckingwebsite.com/   由   提交 /u/Chargnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bs6t6/javascript_broke_the_internet/</guid>
-      <pubDate>Sun, 21 Jan 2024 01:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 VPS 上设置电子邮件服务器 - 有人可以帮忙吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19br14z/setting_up_email_servers_on_vps_can_anyone_help/</link>
-      <description><![CDATA[您好，希望您一切顺利！ 我正在尝试在我的 VPS 上设置我自己的邮件服务器，但是可以肯定地说，我正在努力寻找任何易于理解的资源来帮助我学习如何解决这个问题。 我已经看到我需要结合使用 postfix 和 dovecote在大多数情况下，但正在努力发送“测试”安装 postfix 和 mailutils 后发送电子邮件，设置 opendkim 证书并设置 IMAP 和 POP3。 说实话，虽然我只是在篡改并试图使其正确，而其他地方的资源很稀缺/过时/不起作用。 如果有人能给我指导，我将非常感激！   由   提交 /u/KoldHiel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19br14z/setting_up_email_servers_on_vps_can_anyone_help/</guid>
-      <pubDate>Sun, 21 Jan 2024 00:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>接下来我应该实现什么功能？ 2 真相 1 谎言</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bqqlw/what_feature_should_i_implement_next_2_truths_1/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Cold_Complex945  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bqqlw/what_feature_should_i_implement_next_2_truths_1/</guid>
-      <pubDate>Sun, 21 Jan 2024 00:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[炫耀星期六] 为海外人士从零开始打造的社交媒体网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</link>
-      <description><![CDATA[各位开发者大家好！过去 2 个月，我为居住在国外的人们构建了一个社交媒体网站，度过了大部分宝贵的夜晚🥲 我正在将后端从 Vercel 的无服务器功能迁移到 Spring Boot，因此前面的路还很长。 让我继续前进的是，已经有大约 300 名通过电子邮件验证的用户，这让我知道有些人正在发现我所做的东西的价值，这给了我动力。 &lt; p&gt;祝您的宠物项目中的每个人好运:) 站点：https://distantclub.com   由   提交 /u/Vitamina_e   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</guid>
-      <pubDate>Sat, 20 Jan 2024 22:57:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
