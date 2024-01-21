@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 07:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 09:12:52 GMT</lastBuildDate>
+    <item>
+      <title>WebAssembly 的现状 – 2023 年和 2024 年</title>
+      <link>https://www.reddit.com/r/webdev/comments/19byre6/the_state_of_webassembly_2023_and_2024/</link>
+      <description><![CDATA[    /u/gdradodyr   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19byre6/the_state_of_webassembly_2023_and_2024/</guid>
+      <pubDate>Sun, 21 Jan 2024 08:23:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果没有明确的目标，如何制作网站呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bymtp/how_do_you_make_a_website_when_there_is_no_clear/</link>
+      <description><![CDATA[我知道我需要一个网站，并且我已经设置好它并且正在运行。现在我面临的问题是，这个网站需要什么，我想从中得到什么？ 我想建立一个作品集类型的网站，只是描述“我”，但我的工作是分类的，我没有做过任何外部项目。我想制作一个网站并将整个内容制作成我的个人简介……愚蠢？我想展示我的技能，但我不知道如何在视觉上做到这一点或展示它。我需要帮助来决定我需要我的网站。 我知道我无法得知一切，但也许一些指示会有所帮助？如果这有帮助的话，我是一名软件工程师实习生。 编辑：我一直在考虑给这个网站一个“有用”的目的。我一直在想“为什么有人会访问这个网站？我需要找个理由。”   由   提交/u/IAskSoMnyQuestions   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bymtp/how_do_you_make_a_website_when_there_is_no_clear/</guid>
+      <pubDate>Sun, 21 Jan 2024 08:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在，AWS Lambda 函数在处理大容量请求时的扩展速度提高了 12 倍</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bxlrc/aws_lambda_functions_now_scale_12_times_faster/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bxlrc/aws_lambda_functions_now_scale_12_times_faster/</guid>
+      <pubDate>Sun, 21 Jan 2024 07:05:16 GMT</pubDate>
+    </item>
     <item>
       <title>链接域名？</title>
       <link>https://www.reddit.com/r/webdev/comments/19bx641/linking_domain_names/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>现在还是星期六。希望对我的作品集网站提供反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/19bszbm/its_still_saturday_would_like_feedback_on_my/</link>
-      <description><![CDATA[嗨，开发者， 我已经阅读了很多有关制作作品集网站的内容，例如我应该做什么和不应该做什么。 t 包含在其中。本周我已经整理了我的第一个作品集网站，想知道是否有任何我应该添加或删除的内容。 zevs-portfolio.netlify.app（是的，我还没有购买域名） 一些注意事项：  这个这是一项正在进行中的工作。它是针对移动设备优先构建的，因此在大屏幕上看起来可能不太好。 我现在正在修改我的简历。完成后，我将在“工作”中添加一个下载链接。部分。 我询问的是对该网站的反馈，而不是其上列出的任何项目。如果您在想，“为什么称自​​己为全栈开发人员？”你所有的项目都是前端的东西。”我有一些正在进行中的全栈项目。完成后我会添加它们。 如果您愿意，请随时下载我的 vscode 主题！ 我的设计怎么样？我应该添加颜色吗？  谢谢!!   由   提交/u/Zev18  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，开发者， 我已经阅读了很多有关制作作品集网站的内容，例如我应该做什么和不应该做什么。 t 包含在其中。本周我已经整理了我的第一个作品集网站，想知道是否应该添加或删除任何内容。 zevs-portfolio.netlify.app（是的，我还没有购买域名） 一些注意事项：  这个这是一项正在进行中的工作。它是针对移动设备优先构建的，因此在大屏幕上看起来可能不太好。 我现在正在修改我的简历。完成后，我将在“工作”中添加一个下载链接。部分。 我询问的是对该网站的反馈，而不是其上列出的任何项目。如果您在想，“为什么称自​​己为全栈开发人员？”你所有的项目都是前端的东西。”我有一些正在进行中的全栈项目。完成后我会添加它们。 如果您愿意，请随时下载我的 vscode 主题！ 我的设计怎么样？我应该添加颜色吗？  谢谢!!   由   提交/u/Zev18  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bszbm/its_still_saturday_would_like_feedback_on_my/</guid>
       <pubDate>Sun, 21 Jan 2024 02:36:25 GMT</pubDate>
     </item>
@@ -83,28 +104,7 @@
       <pubDate>Sun, 21 Jan 2024 00:44:18 GMT</pubDate>
     </item>
     <item>
-      <title>简历和发票生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bps1b/resume_and_invoice_builder/</link>
-      <description><![CDATA[ 由   提交/u/tootac  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bps1b/resume_and_invoice_builder/</guid>
-      <pubDate>Sat, 20 Jan 2024 23:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子商务网站的最佳堆栈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bpabh/the_best_stack_for_an_ecommerce_website/</link>
-      <description><![CDATA[我想为我的个人业务建立一个电子商务网站。起初会列出大约 100 个产品，但将来可能会更多，因此性能和可扩展性非常重要。 我是 Web 开发的初级人员，没有太多经验。几个月前我建立了一个电子商务网站，但不是真正使用，这是一个课程项目。我使用了 HTML、CSS、Javascript、Bootstrap + Django 和 SQLite。我还可以使用 React、Typescript 和一些 CSS 框架，例如 Tailwind。但对于后端，我现在只知道 Django。 您向我推荐什么技术堆栈？ 如果您能给我一些建议并告诉我我可以期待什么，这将非常有帮助。我不想在没有好好计划的情况下就直接投入其中。我还看到了很多关于 Shopify 的建议。使用 Shopify 的费用是多少？ ​   由   提交/u/CryptoBeast77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bpabh/the_best_stack_for_an_ecommerce_website/</guid>
-      <pubDate>Sat, 20 Jan 2024 23:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户要求抄送副本</title>
-      <link>https://www.reddit.com/r/webdev/comments/19boozr/client_requested_carbon_copy/</link>
-      <description><![CDATA[大家好 我的客户要求提供一份网站的副本，但带有他们的品牌而不是竞争对手的品牌。有没有一种简单的方法可以做到这一点，或者我必须从头开始重建？参考网址：https:// century21jm.com/    ;由   提交 /u/Chungythegunner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19boozr/client_requested_carbon_copy/</guid>
-      <pubDate>Sat, 20 Jan 2024 23:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[炫耀星期六] 一个为海外人士从零开始建立的社交媒体网站！</title>
+      <title>[炫耀星期六] 为海外人士从零开始打造的社交媒体网站！</title>
       <link>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</link>
       <description><![CDATA[各位开发者大家好！过去 2 个月，我为居住在国外的人们构建了一个社交媒体网站，度过了大部分宝贵的夜晚🥲 我正在将后端从 Vercel 的无服务器功能迁移到 Spring Boot，因此前面的路还很长。 让我继续前进的是，已经有大约 300 名通过电子邮件验证的用户，这让我知道有些人正在发现我所做的东西的价值，这给了我动力。 &lt; p&gt;祝您的宠物项目中的每个人好运:) 站点：https://distantclub.com   由   提交 /u/Vitamina_e   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</guid>
