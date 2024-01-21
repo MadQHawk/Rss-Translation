@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 06:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 06:50:32 GMT</lastBuildDate>
+    <item>
+      <title>链接域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bx641/linking_domain_names/</link>
+      <description><![CDATA[我有一个网站（公司）plumbingheatingandairconditionong.com。我有域名（公司）phac.com。后者不太拗口，但前者是我的确切名字。我想两者都保留。我喜欢 SEO 目的的确切名称（网络上名称的一致性），但我想使用 (company)phac.com，因为它更容易输入。我该如何实现这个目标？使用较短的首字母缩略词是否会像网络上其他地方都写出我的公司全名一样影响 SEO？谢谢！   由   提交 /u/PLMRGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bx641/linking_domain_names/</guid>
+      <pubDate>Sun, 21 Jan 2024 06:37:34 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 精简版</title>
       <link>https://www.reddit.com/r/webdev/comments/19bwnip/awslite/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[各位开发者大家好！过去 2 个月，我为居住在国外的人们构建了一个社交媒体网站，度过了大部分宝贵的夜晚🥲 我正在将后端从 Vercel 的无服务器功能迁移到 Spring Boot，因此前面的路还很长。 让我继续前进的是，已经有大约 300 名通过电子邮件验证的用户，这让我知道有些人正在发现我所做的东西的价值，这给了我动力。 &lt; p&gt;祝您的宠物项目中的每个人好运:) 站点：https://distantclub.com   由   提交 /u/Vitamina_e   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bof44/showoff_saturday_a_social_media_site_for_people/</guid>
       <pubDate>Sat, 20 Jan 2024 22:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>三角形 CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bo8s1/triangle_css/</link>
-      <description><![CDATA[      为什么一种方法倾向于生成直角三角形，而另一种方法倾向于生成等边三角形，尽管两种方法设置的属性相同 ​ P.S.如果您了解一些，还请参考一些资源/文档来了解此主题 https://preview.redd.it/h44ff4mubodc1.jpg?width=942&amp;format=pjpg&amp;auto=webp&amp;s=755f540b60e9122133752562fa473e 1394a448b8    由   提交/u/Plane-Analysis-6770   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bo8s1/triangle_css/</guid>
-      <pubDate>Sat, 20 Jan 2024 22:49:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

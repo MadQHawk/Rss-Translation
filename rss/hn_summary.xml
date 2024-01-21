@@ -4,7 +4,15 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 06:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 06:21:58 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 此网页内容是关于游戏体验和用户界面中的碰撞检测。</title>
+      <link>https://t.me/hn_summary/70127</link>
+      <description><![CDATA[碰撞检测
+此 Web 内容涉及游戏体验和用户界面中的碰撞检测。作者使用圆形、矩形和直线等基本形状解释了碰撞背后的算法。内容包括交互式示例和每种碰撞算法的源代码。作者还提到这些示例可能无法在移动设备上正常运行，并鼓励用户在计算机上尝试该网站。内容不涉及三维空间或椭圆，作者邀请读者提交具体碰撞或他们构建的示例的请求。]]></description>
+      <guid>https://t.me/hn_summary/70127</guid>
+      <pubDate>Sun, 21 Jan 2024 06:21:58 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 在客户被禁止后，交付公司 DPD 禁用了部分人工智能聊天机器人 [...]</title>
       <link>https://t.me/hn_summary/70126</link>
@@ -76,14 +84,6 @@ Games That Weren 网站发现了一款​​以前不为人知的游戏，名为
 美国阿得拉的短缺对注意力缺陷多动障碍（ADHD）患者产生了重大影响。这种短缺是由生产延误、劳动力短缺和大流行期间需求增加共同造成的，使得多动症患者很难获得药物。这种短缺尤其影响了患有多动症的成年人，他们现在正在寻求大量治疗。然而，美国缺乏诊断和治疗成人多动症的临床指南，引发了人们对需求增长合法性的担忧。成人精神病学领域在认识和解决成人多动症方面进展缓慢，并且缺乏训练有素的专业人员来提供适当的评估和治疗。缺乏指南还意味着一些人可能会接受不必要的兴奋剂药物处方，例如阿得拉（Adderall），这可能会产生严重的副作用和风险。美国多动症及相关疾病专业协会目前正在制定指南，以规范成人多动症的护理和治疗，但在此之前，情况仍然一片混乱。]]></description>
       <guid>https://t.me/hn_summary/70118</guid>
       <pubDate>Sun, 21 Jan 2024 03:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：如何在不列出清单的情况下提高工作效率？</title>
-      <link>https://t.me/hn_summary/70117</link>
-      <description><![CDATA[问 HN：如何在不列清单的情况下提高工作效率？
-news.ycombinator.com 上这篇文章的作者分享他们意识到，就生产力而言，列表对他们不起作用。他们描述了他们最近如何决定放弃日常生活并追求当下感兴趣的任何事物，这促使他们了解了万智牌。然而，当他们开始创建列表并记录他们的学习时，他们对万智牌的兴趣开始减弱。作者认为，清单扼杀了好奇心的自发性，取而代之的是期望和焦虑。他们寻求关于如何在不使用列表的情况下提高工作效率的建议，并质疑是否应该完全放弃列表。作者还反思了他们之前的信念，即缺乏结构是导致动力不足的原因，并意识到结构可能是问题所在。]]></description>
-      <guid>https://t.me/hn_summary/70117</guid>
-      <pubDate>Sun, 21 Jan 2024 03:19:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
