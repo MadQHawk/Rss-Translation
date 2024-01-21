@@ -4,7 +4,39 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 03:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 03:39:15 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]美国阿得拉的短缺对个人造成了重大影响[...]</title>
+      <link>https://t.me/hn_summary/70118</link>
+      <description><![CDATA[成人多动症是精神病学的狂野西部
+美国阿得拉的短缺对注意力缺陷多动障碍（ADHD）患者产生了重大影响。这种短缺是由生产延误、劳动力短缺和大流行期间需求增加共同造成的，使得多动症患者很难获得药物。这种短缺尤其影响了患有多动症的成年人，他们现在正在寻求大量治疗。然而，美国缺乏诊断和治疗成人多动症的临床指南，引发了人们对需求增长合法性的担忧。成人精神病学领域在认识和解决成人多动症方面进展缓慢，并且缺乏训练有素的专业人员来提供适当的评估和治疗。缺乏指南还意味着一些人可能会接受不必要的兴奋剂药物处方，例如阿得拉（Adderall），这可能会产生严重的副作用和风险。美国多动症及相关疾病专业协会目前正在制定指南，以规范成人多动症的护理和治疗，但在此之前，情况仍然一片混乱。]]></description>
+      <guid>https://t.me/hn_summary/70118</guid>
+      <pubDate>Sun, 21 Jan 2024 03:39:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：如何在不列出清单的情况下提高工作效率？</title>
+      <link>https://t.me/hn_summary/70117</link>
+      <description><![CDATA[问 HN：如何在不列清单的情况下提高工作效率？
+news.ycombinator.com 上这篇文章的作者分享他们意识到，就生产力而言，列表对他们不起作用。他们描述了他们最近如何决定放弃日常生活并追求当下感兴趣的任何事物，这促使他们了解了万智牌。然而，当他们开始创建列表并记录他们的学习时，他们对万智牌的兴趣开始减弱。作者认为，清单扼杀了好奇心的自发性，取而代之的是期望和焦虑。他们寻求关于如何在不使用列表的情况下提高工作效率的建议，并质疑是否应该完全放弃列表。作者还反思了他们之前的信念，即缺乏结构是导致动力不足的原因，并意识到结构可能是问题所在。]]></description>
+      <guid>https://t.me/hn_summary/70117</guid>
+      <pubDate>Sun, 21 Jan 2024 03:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]‘你是什么水果？</title>
+      <link>https://t.me/hn_summary/70116</link>
+      <description><![CDATA[&#39;你是什么水果？&#39;如何回答最糟糕的求职面试问题
+在本文中，作者讨论了候选人可能遇到的一些最糟糕的求职面试问题，并提供了如何回答这些问题的建议。作者强调了诸如“如果你是一块水果，你会是什么？”这样的问题的荒谬和不恰当。以及“如果你被老板性骚扰，你会如何反应？”他们建议专业地回答这些问题并遵循适当的协议。作者还回答了有关过去的错误、工作稳定性和未来计划的问题，强调需要保持冷静并提供深思熟虑的回应。本文以幽默的方式探讨了工作面试的挑战，并提供了应对这些挑战的实用技巧。]]></description>
+      <guid>https://t.me/hn_summary/70116</guid>
+      <pubDate>Sun, 21 Jan 2024 03:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>也许 Haskell 是一本探索用没有 null 的语言进行编程的体验的书。</title>
+      <link>https://t.me/hn_summary/70115</link>
+      <description><![CDATA[也许是Haskell
+也许 Haskell 是一本探索用没有 null 的语言进行编程的体验的书。它为读者提供了学习 Haskell 的机会，同时深入了解无 null 编程的好处。这本书可以 PDF 格式下载，还有一个 GitHub 存储库，供那些有兴趣探索代码示例并进一步了解 Haskell 的人使用。这种独特的编程方法挑战了 null 的传统用法，并为软件开发提供了全新的视角。]]></description>
+      <guid>https://t.me/hn_summary/70115</guid>
+      <pubDate>Sun, 21 Jan 2024 03:17:53 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 作者讨论了 Common Lisp 中的控制流机制，特别是 BLOC [...]</title>
       <link>https://t.me/hn_summary/70114</link>
@@ -52,38 +84,6 @@
 在加沙地带电话和互联网中断的情况下，巴勒斯坦人开始使用 eSIM 卡作为与外界保持联系的方式。 eSIM 卡可以加载到较新的智能手机上，允许用户访问无线网络。一些巴勒斯坦人正在使用在其他国家注册的捐赠电话套餐来接收来自以色列或埃及手机信号塔的漫游信号。然而，eSIM 并不是一个完美的解决方案，因为旧手机无法使用它们，而且有些手机无法正常工作。活动人士一直在收集和分发 eSIM 卡，以帮助加沙人民建立联系。停电严重影响了该地区的通讯，一些人一周多无法与家人联系。加沙主要电信公司帕尔特尔指责以色列的电力封锁和空袭破坏了通信基础设施。以色列国防军没有回应置评请求。]]></description>
       <guid>https://t.me/hn_summary/70109</guid>
       <pubDate>Sun, 21 Jan 2024 02:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 1944 年中央情报局破坏会议指南，尽管实际上不是由中央情报局 [...]</title>
-      <link>https://t.me/hn_summary/70108</link>
-      <description><![CDATA[1944 年中央情报局破坏会议指南 (2021) 
-1944 年《中央情报局破坏会议指南》虽然实际上不是由中央情报局编写，而是由战略情报局编写，但它提供了如何扰乱和扰乱企业和组织的说明。该指南于第二次世界大战期间创建，旨在赋予潜在盟友权力，并为心怀不满的公民提供造成经济混乱和严重困难的工具。令人惊讶的是，这种近 80 年前的反叛指导至今仍然引起强烈共鸣，其中包括不公正划分选区和偏颇等例子。该指南的争议之处在于它提倡采用破坏性策略来实现政治和经济目标。]]></description>
-      <guid>https://t.me/hn_summary/70108</guid>
-      <pubDate>Sun, 21 Jan 2024 02:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 题为“PHP：不良设计的分形”的文章是对 PHP 编程的批评 [...]</title>
-      <link>https://t.me/hn_summary/70107</link>
-      <description><![CDATA[PHP：糟糕设计的分形（2012） 
-题为“PHP：不良设计的分形”的文章是对 PHP 编程语言的批评。作者表达了他们对 PHP 的失望，指出几乎 PHP 中的每个功能都在某种程度上被破坏了。他们认为 PHP 不一致、需要过多的样板文件、不可靠且难以调试。作者还批评了 PHP 开发人员的心态，他们为该语言的缺陷道歉，而不是寻求更好的替代方案。文章最后指出，PHP 缺乏清晰的设计理念，依赖于其他语言的灵感，而熟悉这些语言的人却无法理解。 （根据故事文本的 17% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70107</guid>
-      <pubDate>Sun, 21 Jan 2024 02:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 科学领域可能是混乱且不透明的，数据常常含糊不清，科学 [...]</title>
-      <link>https://t.me/hn_summary/70106</link>
-      <description><![CDATA[&#39;我听起来几乎像个疯子，但我认为确实如此超导体&#39;
-科学领域可能是混乱且不透明的，数据常常含糊不清，科学家有时也很顽固。社交媒体和预印本档案的兴起使其变得更加混乱，疯狂的发现在得到适当审查之前就已经流传开来。去年夏天，人们对一种被认为在室温下具有超导体的材料的发现感到兴奋，但后来被揭穿了。然而，中国团队现在发表了一篇论文，表明类似的材料可以在家用冰箱可达到的温度下成为超导体。虽然一些科学家对此表示怀疑，但另一些科学家则认为这可能是一个突破。超导领域仍然充满了悬而未决的问题，对室温超导体的探索仍在继续。]]></description>
-      <guid>https://t.me/hn_summary/70106</guid>
-      <pubDate>Sun, 21 Jan 2024 02:29:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Gemini 是一个分布式训练系统，旨在实现快速故障恢复[...]</title>
-      <link>https://t.me/hn_summary/70105</link>
-      <description><![CDATA[Gemini：使用内存检查点进行分布式训练中的快速故障恢复 [pdf](https://news.ycombinator.com/item?id=39074646)
-Gemini是一个分布式训练系统，旨在实现大型模型训练中的快速故障恢复。它通过对主机的 CPU 内存进行检查点来解决训练大型深度学习模型时观察到的频繁故障，与远程存储相比，主机的聚合带宽要大得多。然而，对 CPU 内存设置检查点存在两个挑战：故障期间检查点的可用性以及检查点流量对训练流量的干扰。 Gemini 提出了一种检查点放置策略，以最大限度地提高从 CPU 内存中恢复故障的概率，并提出一种检查点流量调度算法，以最大限度地减少干扰。评估结果表明，Gemini 比现有解决方案实现了更快的故障恢复。 （根据故事文本的 11% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70105</guid>
-      <pubDate>Sun, 21 Jan 2024 02:28:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

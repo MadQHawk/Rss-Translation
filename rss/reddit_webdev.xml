@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 03:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 03:48:48 GMT</lastBuildDate>
+    <item>
+      <title>WordPress 网站开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/19btthd/wordpress_website_development/</link>
+      <description><![CDATA[你好。我需要精通 WordPress 的 Web 开发专家。或者更确切地说，wordpress 开发人员。我只需要一个来制作我的网站。如果你有能力，直接私信你的作品集、你之前做过的事情和一些推荐。  先到先得。   由   提交 /u/MayweatherVolcano1st   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19btthd/wordpress_website_development/</guid>
+      <pubDate>Sun, 21 Jan 2024 03:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 网站开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/19btpzq/wordpress_website_development/</link>
+      <description><![CDATA[你好。我需要精通 WordPress 的 Web 开发专家。或者更确切地说，wordpress 开发人员。我只需要一个来制作我的网站。如果你有能力，直接私信你的作品集、你之前做过的事情和一些推荐。  先到先得。   由   提交 /u/MayweatherVolcano1st   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19btpzq/wordpress_website_development/</guid>
+      <pubDate>Sun, 21 Jan 2024 03:15:52 GMT</pubDate>
+    </item>
     <item>
       <title>我已经在 SendGrid 上设置了域身份验证。我可以在二月份接受 Gmail 和 Yahoo 的更改吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19bskr5/i_already_set_up_domain_authentication_on/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在尝试创建自己的节拍器应用程序，并且在 Chrome 和 IE 中一切正常。但由于某些原因，Forefox 中的超时开始表现得很奇怪，并且音频开始重叠。 我只在 Firefox 中遇到此错误有什么具体原因吗？我该如何修复它？   由   提交 /u/diarmuid_odyna   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19blmg1/issue_with_interval_and_settimeout_in_firefox/</guid>
       <pubDate>Sat, 20 Jan 2024 20:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 Google 身份验证的工作原理感到困惑</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bl39p/confused_about_how_google_authenticate_works/</link>
-      <description><![CDATA[我正在看这个示例：https://codesandbox.io/p/sandbox/otplib-yt9ytk?file=%2Fsrc%2FApp.js%3A32%2C5 看看它背后的理论：https://soshace.com/implementing-two- Factor-authentication-with-nodejs-and-otplib、https://www.youtube.com/watch? v=XYVrnZK5MAU  这是服务器和客户端之间共享的[秘密]令牌，因此我们可以确定客户端已以某种方式被授予访问权限。由于服务器负责生成令牌，因此我们面临的第一个问题是与客户端共享密钥。  秘密是服务器和用户都知道的东西。秘密加上计数器用于生成 OTP（长字符串），然后将其转换为较短的整数。 用户输入较短的整数，服务器使用秘密和当前计数器值确定当前生成和截断的 OTP 是否等于用户输入的 OTP。  第二步是找到一种方法，让客户端能够访问服务器生成的机密。由于大多数现代手机都配有摄像头，因此二维码是对（不方便的长）字符串进行编码的一种便捷方式，这样用户就不必将其键入。  我看不到Google Authenticator 在哪里发挥作用 - 除了节省用户手动应用截断算法（OTP 长字符串到较短整数）的痛苦之外？由于用户知道他们的秘密，并且服务器向用户提供长 OTP，因此用户拥有自己确定较短 OTP 所需的所有数据？    ;由   提交/u/passerbyalbatross   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bl39p/confused_about_how_google_authenticate_works/</guid>
-      <pubDate>Sat, 20 Jan 2024 20:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>让客户端访问本地主机的最简单方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bhlg4/easiest_way_to_give_client_access_to_localhost/</link>
-      <description><![CDATA[是否有 VS code 插件可以向外部 Web 显示 LAMP 页面？ 我不想有在我的家庭网络上设置静态 IP（我在家工作），然后通过我的家庭路由器防火墙路由传入流量。  你是如何做到这一点的？   由   提交 /u/myuser01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bhlg4/easiest_way_to_give_client_access_to_localhost/</guid>
-      <pubDate>Sat, 20 Jan 2024 17:59:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
