@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 00:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 03:13:40 GMT</lastBuildDate>
+    <item>
+      <title>如果您有一个有助于项目和文件管理的独立程序，您希望看到哪些功能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19clbxp/if_you_had_a_standalone_program_that_assisted/</link>
+      <description><![CDATA[不久前，我谈到了如何拼凑一系列流程和脚本来帮助我管理项目。您可以在这里找到该讨论：https://www.reddit.com/r/ArtificialInteligence/s/vXa0plFEEB 无需深入讨论，它主要是一系列自动化，利用 Microsoft Office 功能来记录会议、提取文字记录、使用 AI 创建会议记录，并通过电子邮件或电子邮件自动发送出去。团队。  我花了几年的时间慢慢地将这个过程拼凑在一起，并且在工作中效果很好。由于我花了更多的时间在个人项目上，我想或多或少地重新创建在家使用的功能（然后是一些功能）。  但是，我想从头开始构建它（可以这么说），以便它是一个独立的程序。随着时间的推移，我可能会尝试添加功能以将其与 Microsoft 或 Google 套件集成。但目前（API 调用除外）我希望它或多或少是完全独立的。 我还要指出，这完全是一个个人项目。我知道有大量的软件可以完成我想要的大部分功能。我只想为我构建一些东西。 我主要想要两件事：  自动文件管理，包括： 根据文件内容删除重复文件 汇总文件的上下文 实施标准化命名约定 根据上下文组织文件 和类似类型的功能 协助项目管理 &lt; li&gt;记录和转录会议 创建包含操作项的会议记录 维护任务列表 维护日历事件 类似类型的功能  简而言之，一种帮助我保持井井有条、步入正轨的私人助理。我知道自己想要什么，并且已经开始规划一切。  但这让我思考：我可能想要什么我还没有想到的以及其他人可能想要什么。 所以..如果你有一个独立的程序来提供服务作为一种帮助管理文件和项目的个人助理，您希望看到什么样的功能？   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19clbxp/if_you_had_a_standalone_program_that_assisted/</guid>
+      <pubDate>Mon, 22 Jan 2024 02:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于人工智能信任和可信度的调查</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ck6fb/survey_about_ai_trust_and_trustworthiness/</link>
+      <description><![CDATA[大家好， 我是一名博士。我的学生和我的论文研究的一部分是公众对人工智能的看法，特别是关于信任和可信度。因此，我正在寻找调查参与者（这是一项简短的 Qualtrics 调查，需要不到 10 分钟的时间）。我非常感谢您的意见和见解！ 链接到调查 * 该研究由加拿大安大略省圭尔夫市圭尔夫大学网络科学实验室进行。该项目已获得研究伦理委员会的批准，确保遵守涉及人类参与者的加拿大联邦研究准则 (REB#23-08-018)。  &amp;# 32；由   提交/u/vodku_buhayu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ck6fb/survey_about_ai_trust_and_trustworthiness/</guid>
+      <pubDate>Mon, 22 Jan 2024 01:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>字母识别和手写翻译？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cjniq/alphabet_recognition_and_handwritten_translation/</link>
+      <description><![CDATA[大家好， 是否有一款应用程序（可能基于 AI/ML）可以获取手写文本（来自一个字母） /段落或更多字符）以未知语言编写，并 1）确定此文本是用哪种语言编写的 2）如果可能，将文本翻译为所选的另一种语言由用户。  (2)中的关键部分是输入是手写文本。 如果(2)还不可能，是否有一个工具至少可以做到(1)？  提前感谢您提供任何有用的答案！   由   提交/u/Lucky-Substance23  /u/Lucky-Substance23 reddit.com/r/ArtificialInteligence/comments/19cjniq/alphabet_recognition_and_handwriting_translation/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cjniq/alphabet_recognition_and_handwritten_translation/</guid>
+      <pubDate>Mon, 22 Jan 2024 01:25:03 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能生成时事通讯？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cieix/ai_generated_newsletter/</link>
@@ -48,13 +69,6 @@
       <pubDate>Sun, 21 Jan 2024 16:55:43 GMT</pubDate>
     </item>
     <item>
-      <title>高级即时工程测量</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19c77oh/advanced_prompt_engineering_survey/</link>
-      <description><![CDATA[所以最近做了一个关于高级即时工程技术以及如何尝试使用它们来创建和维护产品的网络研讨会。感谢反馈！ https://youtu.be/fQV5AXsNLu0?si=4gqkA2wHGTvOf3FJ 我们谈论一下什么在为您的个人应用程序甚至生产环境进行即时工程时，您应该注意这一点。希望您对这两个内容提供反馈   由   提交 /u/MiNeves   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19c77oh/advanced_prompt_engineering_survey/</guid>
-      <pubDate>Sun, 21 Jan 2024 16:31:14 GMT</pubDate>
-    </item>
-    <item>
       <title>战略性地使用 ChatGPT 的 10 种简单方法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19c4bnl/10_easy_ways_to_use_chatgpt_strategically/</link>
       <description><![CDATA[不浪费时间了，让我们直接开始吧！ 1) 💎 使用 ChatGPT 从不同的角度写作 提高你的写作能力通过让 ChatGPT 采用来自不同背景或观点的人物的观点。 示例提示： 主题：企业家的生产力 对于上述主题，请写出具有不同观点的群体的多个观点。对于每个观点，用他们自己的声音，使用人们会使用的短语来写。2) 💎 使用 ChatGPT 改变输出格式 通过要求 ChatGPT 以各种格式生成内容，发挥创意。 /&gt; 示例提示： 以内容创建者的身份使用 Notion 保持组织性为主题创建思维导图，列出中心思想、主要分支和子分支。 3) 💎 生成有目的的内容ChatGPT 内容 向 ChatGPT 告知您的受众以及定制输出内容的目标。 示例提示： 主题：如何发展您的教练业务 适合受众：商业教练 内容目标：激励让观众对发展业务感到兴奋，同时教他们一个技巧。写作风格：清晰、简洁、对话式、脚踏实地、谦逊、经验丰富4) 💎 使用非常规提示 通过开放式或抽象提示探索 ChatGPT 的创造潜力。 示例提示: 写一首关于文案写作的诗。 用 10 个形容词描述自己像一名企业家的感觉。 5) 💎 与 ChatGPT 进行超级头脑风暴 通过向 ChatGPT 寻求独特的角度来超越一般性熟悉的主题。 提示示例： 主题：如何使创意产出加倍。对于上述主题，集思广益新的角度或方法。优先考虑不常见或新颖的想法。6) 💎 捕捉您的写作风格指导 ChatGPT 根据您自己的写作创建风格指南。 示例提示：分析文本以下为风格、声音和语气。使用 NLP 创建提示，以相同的风格、语气和语气撰写新文章：[在此处插入您的文本] 7) 💎 融入人类写作技巧 将专家写作建议与 ChatGPT 相结合增强内容的能力。示例提示：写一篇简短的文章，说明为什么文案写作是 2023 年的一项基本技能。使用这些策略： - 使用强有力的说服性语言 - 提出问题以在段落之间过渡 - 备份主要内容带有证据和示例的观点 - 直接与读者交谈8) 💎 尝试风格和语气 利用 ChatGPT 获取各种风格或语气的内容，例如讽刺或讽刺。 示例提示：  就使用 ChatGPT 创建更有效的内容提供最具讽刺意味的建议。 9) 💎 模拟专家角色 与 ChatGPT 互动，就好像它是客户、共同主持人一样，或特定领域的专家。 示例提示： 您是一家顶级市场研究公司的才华横溢的分析师，毕业于哈佛商学院。指导我创建与 B2B SaaS 公司的 C 级管理人员建立联系的内容。我会问哪些开放式问题？优先考虑不常见的专家建议。 10) 💎 挑战传统叙事 鼓励 ChatGPT 提供与主流叙事相反的观点。 示例提示： 主题：发展您的电子邮件通讯 对于上述主题，请举出与主流叙述相矛盾的例子。为挑战假设的发人深省的内容生成大纲。如果您发现这有用，请考虑获取我的提示工程指南 点击此处。   由   提交 /u/Senior_tasteey   [链接] [评论]]]></description>
@@ -67,20 +81,6 @@
       <description><![CDATA[如果我想专门使用一台旧机器（4GBRAM，无 GPU）来运行一个非常大的未经审查的 AI（30 GB），用于纯文本应用程序，完全在本地，我该如何设置？是否可以？是否需要数年时间才能得到简单的答复？  抱歉，我不知道“技术”是什么。天赋需要额外的步骤。这只是一个问题。我不知道如何改变风格。   由   提交 /u/copycat042   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19c3das/if_i_dont_care_about_speed_how_can_i_run_a_huge/</guid>
       <pubDate>Sun, 21 Jan 2024 13:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能演讲</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19c0t9r/ai_speech/</link>
-      <description><![CDATA[您好，我正在尝试使用 AI 配音生成一些内容。问题是，我有很重的口音，这就是我走人工智能路线的原因。我尝试了很多文本到语音人工智能生成器，老实说它们听起来都很假。 我正在寻找一个可以获取我真实声音的软件/应用程序/网站（我对付费版本没有问题），然后我给它一个音频，然后它重新生成具有相同情感、停顿等的相同音频，但是使用我的声音，有这样的事情吗？  注意：我不希望有东西克隆我的声音，然后通过文本转语音使用我的声音重新生成另一个音频，因为它听起来又很假。 为了简单起见：  1-我需要人工智能来学习我自己的声音。  2-然后我给它一个音频文件（我计划创建很多） 3-然后，它会重新生成相同的音频，其中包含情感和暂停，但使用我的声音，没有口音。 我必须等到 2050 年还是这项技术存在？  非常感谢!! 编辑1：如果由于我有口音而学习自己的声音会产生问题，那么我可以毫无问题地放弃这部分。但我仍然需要一些东西来获取我的音频并使用另一种声音重新生成它以消除口音，但保持情感和停顿等。   由   提交/u/Hashem93  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19c0t9r/ai_speech/</guid>
-      <pubDate>Sun, 21 Jan 2024 10:45:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用什么框架来构建开源的 LLM 聊天机器人，该机器人可在企业中扩展到多个用户</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19bzffd/what_framework_to_use_to_build_an_opensourced_llm/</link>
-      <description><![CDATA[大家好，如果我想构建一个可企业扩展到多个用户的开源 LLM 聊天机器人，我应该使用什么框架或工具？ 我正在考虑的一个框架/工具是Langchain。我的聊天机器人不会进行任何微调，因此我不确定是否需要使用 Langchain。 如果我想为中小型企业构建，是否有其他合适的框架可供使用规模企业与大型企业相比？ 我正在考虑使用 AWS 托管 LLM 模型。  任何帮助将不胜感激。非常感谢！   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/19bzffd/what_framework_to_use_to_build_an_opensourced_llm/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19bzffd/what_framework_to_use_to_build_an_opensourced_llm/</guid>
-      <pubDate>Sun, 21 Jan 2024 09:09:44 GMT</pubDate>
     </item>
     <item>
       <title>代码提示，最新的提示技术：这是您需要了解的内容。</title>
