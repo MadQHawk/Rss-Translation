@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 15:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 21:12:36 GMT</lastBuildDate>
     <item>
-      <title>今天使用 React 的优点和缺点</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cxo79/the_pros_and_cons_of_using_react_today/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cxo79/the_pros_and_cons_of_using_react_today/</guid>
-      <pubDate>Mon, 22 Jan 2024 15:06:33 GMT</pubDate>
+      <title>您可能不需要 `eslint-config-prettier` 或 `eslint-plugin-prettier` |金博客</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d5zwf/you_probably_dont_need_eslintconfigprettier_or/</link>
+      <description><![CDATA[       由   提交 /u/HurpaDurpDeeDurp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d5zwf/you_probably_dont_need_eslintconfigprettier_or/</guid>
+      <pubDate>Mon, 22 Jan 2024 20:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>“模式注册表”解决方案允许非编码人员进行编辑</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cxcnc/schema_registry_solution_to_allow_noncoders_to/</link>
-      <description><![CDATA[大家好，我正在尝试解决我在这一时期的概念中遇到的问题。一般来说，我们的想法是拥有一个 JSON 对象（即模式），它给出了应用程序的结构和流程。因此，开发团队将构建单独的小部件，然后架构将决定它们出现的顺序、它们如何相互流动等。 但是，部分愿望是允许产品编辑架构或根据需要创建一个新的。为此，他们可能需要网站上有某种界面来与数据交互（而不是像 Compass 这样的应用程序）。有什么好的解决方案吗？   由   提交/u/RPauly13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cxcnc/schema_registry_solution_to_allow_noncoders_to/</guid>
-      <pubDate>Mon, 22 Jan 2024 14:52:11 GMT</pubDate>
+      <title>适用于 macOS 的 PHP、MySQL/MariaDB、Nginx/Apache 版本管理工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d5fb4/php_mysqlmariadb_nginxapache_version_management/</link>
+      <description><![CDATA[我正在 macOS 上设置新的 Web 开发环境。我运行一个 Laravel REST API 项目。我曾经在 Windows 上使用 WAMP 来管理我的 Web 项目环境配置。它允许安装不同的 PHP、MySQL、MariaDB 和 Apache 版本，并为每个虚拟主机设置不同的 PHP 版本。我发现了一些适用于 macOS 的替代方案，例如 XAMPP 和 MAMP。 MAMP 似乎不支持同时使用不同的 PHP 版本（在其免费版本中）。我还发现了 Laravel Herd。它不包括数据库服务器。还有DBngin，但它不支持MariaDB。我还找到了 StackBricks，它支持 MariaDB。因此，有这么多不同的一体化软件包，我很好奇您使用什么来在 macOS 上运行需要 SQL 数据库的 Laravel 项目，您推荐什么以及为什么？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d5fb4/php_mysqlmariadb_nginxapache_version_management/</guid>
+      <pubDate>Mon, 22 Jan 2024 20:28:25 GMT</pubDate>
     </item>
     <item>
-      <title>如果我继续学习的话，什么更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cwkxj/what_is_better_if_i_continue_studying/</link>
-      <description><![CDATA[我打算成为一名全栈 Web 开发人员，在深入研究 HTML、CSS 和 JS 之前，我最好先学习 C 语言的数据结构，否则我会等我对网络编程有了更好的基础后再去研究？   由   提交/u/Matheuss81  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cwkxj/what_is_better_if_i_continue_studying/</guid>
-      <pubDate>Mon, 22 Jan 2024 14:15:21 GMT</pubDate>
+      <title>是否有返回 javascript/php/python 文档的免费公共 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d5c62/are_there_any_free_public_apis_that_return/</link>
+      <description><![CDATA[我正在专门寻找 api *endpoints* ，而不是在线文档。我知道像 DevDocs 和 Zeal 这样的项目已经存在，并且我已经使用这两个项目来浏览文档。我想要的端点是查询保留字和内置函数名称之类的东西，这样我就可以在我正在制作的widjet中突出显示它们，而不必对它们进行硬编码（并在它们更改时手动更新它们）。&lt; /p&gt;   由   提交 /u/cloudclaude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d5c62/are_there_any_free_public_apis_that_return/</guid>
+      <pubDate>Mon, 22 Jan 2024 20:24:43 GMT</pubDate>
     </item>
     <item>
-      <title>什么是语义版本控制？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cwf14/what_is_semantic_versioning/</link>
-      <description><![CDATA[ 由   提交/u/debordian  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cwf14/what_is_semantic_versioning/</guid>
-      <pubDate>Mon, 22 Jan 2024 14:07:33 GMT</pubDate>
+      <title>伙计们，这个网站引起了我的注意，有人能告诉我他们用什么语言来制作这个吗？我只是好奇。 （链接在评论里）</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d50cj/guys_this_website_caught_my_attention_can_anybody/</link>
+      <description><![CDATA[https://innovexagency.ae/ about-innovex-marketing-agency/   由   提交 /u/ROAD-ROLA-DAA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d50cj/guys_this_website_caught_my_attention_can_anybody/</guid>
+      <pubDate>Mon, 22 Jan 2024 20:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>Google 如何消除代码审查的痛苦，并获得 97% 的开发者满意度</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cwc8s/how_google_takes_the_pain_out_of_code_reviews/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cwc8s/how_google_takes_the_pain_out_of_code_reviews/</guid>
-      <pubDate>Mon, 22 Jan 2024 14:03:45 GMT</pubDate>
+      <title>对于某些用户来说，什么可能导致这种非预期的文本换行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d4hq6/what_could_cause_this_nonintended_text_wrapping/</link>
+      <description><![CDATA[您好， 有些用户有非常奇怪的文本换行行为。从轻微烦人到（示例 1 和 2）几乎严重（示例 3） 示例 1- flex &lt;; ul&gt;与块  - 这实际上是 Bootstrap nav-tab （或更具体地说 ng-bootstrap (Angular) NgbNav 指令）。选项卡应水平相邻。仅当屏幕宽度足够小时（flex-wrap），这才会中断 示例 2 - 第一个（左） Flexbox 的元素，调整内容。该元素是一个带有文本的 h2 和一个附加的  元素。内部元素（即“0 b”）只有当屏幕宽度足够小时（flex-wrap）才会中断 示例 3- 嵌套的可折叠无序列表，项目为 display:flex.Locally 如果我将侧边栏宽度设置得较小，它确实会中断，但实际上高度正确，因此文本不会重叠。 &lt; p&gt;所有这些问题似乎都来自 Chrome - Windows 10。 不幸的是，我无法重现它。尝试调整窗口大小、更改字体大小、缩放。 Windows 中的缩放比例和分辨率。我们使用 Lambdatest，我也在那里检查了不同的分辨率。运气不好。剩下的一件事是检查受影响的人是否有任何可能修改页面的扩展。 所以我看到，常见的是 flexbox。我非常确定可能有一些精细的设置导致其行为不同。 有什么建议我应该如何继续调试这个或者我应该研究什么？   由   提交/u/G1PP0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d4hq6/what_could_cause_this_nonintended_text_wrapping/</guid>
+      <pubDate>Mon, 22 Jan 2024 19:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>下载带有后端的网站供离线使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cvyuv/download_website_with_backend_for_offline_use/</link>
-      <description><![CDATA[所以，有一个网站，我们在办公室每天必须访问数百次。该网站仅在下午 3.30 后才能运行，一旦运行，速度就会变得非常慢。该网站显示申请的状态。我们只需输入申请号和验证码，它就会显示相关信息。现在我想要一个解决方案，以避免 3.30 之前的等待期和网站的缓慢。 有没有办法下载整个网站及其数据库，以便我可以离线获取这些详细信息？ 有没有办法下载整个网站及其数据库，以便我可以离线获取这些详细信息？ p&gt; 网站是：https://ipindiaservices.gov.in/eregister/eregister.aspx    由   提交/u/Dense-One-618  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cvyuv/download_website_with_backend_for_offline_use/</guid>
-      <pubDate>Mon, 22 Jan 2024 13:45:50 GMT</pubDate>
+      <title>Spring 框架修复了最新版本中的严重 DoS 漏洞 - Cyber​​ Kendra</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d43pf/spring_framework_fixes_severe_dos_vulnerability/</link>
+      <description><![CDATA[       由   提交/u/geek_noob  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d43pf/spring_framework_fixes_severe_dos_vulnerability/</guid>
+      <pubDate>Mon, 22 Jan 2024 19:33:32 GMT</pubDate>
     </item>
     <item>
-      <title>如何以及为何使用 CSS 悬停媒体查询 |雅各布·帕迪拉</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cvj8h/how_and_why_to_use_the_css_hover_media_queries/</link>
-      <description><![CDATA[除了基于宽度的媒体查询之外，悬停媒体查询对我来说是迄今为止最有用的。在我的文章中，我回顾了它们的工作原理，并向您展示了两种非常有用的方法，我使用它们来制作我的网站更加人性化！   由   提交 /u/jpjacobpadilla   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cvj8h/how_and_why_to_use_the_css_hover_media_queries/</guid>
-      <pubDate>Mon, 22 Jan 2024 13:23:39 GMT</pubDate>
+      <title>给开发者的线框图问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d415p/question_on_wireframes_for_developers/</link>
+      <description><![CDATA[大家好， 我正在设计一个网站，并将其交给开发人员，我刚刚完成了线框图。线框可能是中等保真度，我想知道在这个阶段包含动画和滚动行为等内容是否合适还是没有必要？我认为包含尽可能多的信息会有所帮助，但也可能会使对结构的理解变得过于复杂。任何意见将是有益的。非常感谢   由   提交/u/ryang2723  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d415p/question_on_wireframes_for_developers/</guid>
+      <pubDate>Mon, 22 Jan 2024 19:30:34 GMT</pubDate>
     </item>
     <item>
-      <title>我需要帮助在 ReactJS 中创建时间线图表</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cv9cx/i_need_help_in_creating_a_timeline_chart_in/</link>
-      <description><![CDATA[https://i.imgur.com/kwncKC7 .jpg 我正在使用reactjs，我想知道是否有任何框架或库可以用来创建它。我尝试过谷歌图表，svg 的，反应图表似乎没有任何作用   由   提交/u/iwantjusticeeee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cv9cx/i_need_help_in_creating_a_timeline_chart_in/</guid>
-      <pubDate>Mon, 22 Jan 2024 13:08:33 GMT</pubDate>
+      <title>八年级网页设计课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d3fip/web_design_class_for_8th_graders/</link>
+      <description><![CDATA[我目前在我的私立学校教授网页设计课程，我们没有课程。所以我必须一边做一边做我们每天要做的事情。我让学生使用 Wix 设计一个用于企业的网站的基本布局。我学到的所有东西都是在几个不同的 YouTube 教程中学到的。但对于如何让这门课再持续一个半月，我已经没有想法了。 关于我可以教的东西或我可以让学生做的项目有什么想法吗？有一次，我计划让他们为彼此做一个模拟网站，其中一个人是要求特定网站的客户，另一个人必须根据他们的要求制作。但这只会浪费大约一周的时间。   由   提交 /u/TenMoreBears   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d3fip/web_design_class_for_8th_graders/</guid>
+      <pubDate>Mon, 22 Jan 2024 19:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>项目进行到一半时感到焦虑</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cuolw/anxiety_in_the_middle_of_a_project/</link>
-      <description><![CDATA[因此，在研究了几年 Web 开发（html/css/js），然后是 React 和现在的 next.js 后，我终于得到了我的第一个我通过 Upwork 聘请了一名高级开发人员来使这个项目成为一流的付费项目。  一切开始都很棒，我们设计了我认为不错的 Figma 设计，现在我们已经完成了前端，然后再开始集成 CMS。  突然动力下降，我失去了继续下去的兴趣，就像我在推迟事情，一切都突然变得令人生畏。奇怪的感觉。  但我需要继续；下一步是建立电子商务，所以我应该有兴趣赚更多的钱。不明白这是怎么回事，有同样经历的人吗？   由   提交/u/Pretty-Technologies  /u/Pretty-Technologies  reddit.com/r/webdev/comments/19cuolw/anxiety_in_the_middle_of_a_project/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cuolw/anxiety_in_the_middle_of_a_project/</guid>
-      <pubDate>Mon, 22 Jan 2024 12:36:20 GMT</pubDate>
+      <title>Safari 17.3 中的 WebKit 功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d2m8y/webkit_features_in_safari_173/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d2m8y/webkit_features_in_safari_173/</guid>
+      <pubDate>Mon, 22 Jan 2024 18:31:54 GMT</pubDate>
     </item>
     <item>
-      <title>响应式设计和内容布局转变</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cuat6/responsive_design_and_content_layout_shift/</link>
-      <description><![CDATA[我的网站在内容布局转换方面得分非常差。我已将其范围缩小为我实现响应式布局的方式的问题。  我有一个全宽横幅，它设置为 max-width:100% 以使其随着页面缩小而变小。  这意味着未指定高度。  如果我指定图像尺寸，那么我就会失去响应式布局，我怎样才能同时拥有两者？我是否必须删除网站为任意尺寸的功能（目前只是视口的整个宽度），而只需将其限制为多种尺寸并使用媒体查询从一种尺寸跳转到另一种尺寸？    由   提交 /u/squirrelsaviour   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cuat6/responsive_design_and_content_layout_shift/</guid>
-      <pubDate>Mon, 22 Jan 2024 12:14:17 GMT</pubDate>
+      <title>我渴望有一天 Google 跟踪代码管理器不再存在</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d1k17/i_long_for_the_day_that_google_tag_manager_ceases/</link>
+      <description><![CDATA[我想把 GTM（Google 跟踪代码管理器）扔到太阳深处，再也不想听到它或不得不再与它斗争. ...我理解它的必要性。谷歌可能垄断了这种营销工具，它带来的价值如果没有它就会消失……好吧。但。我仍然讨厌它。 我更讨厌的是我必须与营销团队就这个工具进行的互动 就像我讨厌 GTM 一样作为一种工具，非工程师可以注入随机 JS 并减慢我们的网站速度（然后指责我们性能缓慢），一个好的副作用是我不必处理所有这些跟踪 BS。他们可以通过 GTM 来做到这一点。 但结果是我们两全其美  营销团队&lt; /strong&gt;：“我们已经支付了这个新标签/像素的费用，需要您的帮助。我们尝试在 GTM 中进行设置，但它不起作用，因此我们需要您在代码中手动执行此操作...这是您需要放入代码库中的代码[一团狗屎]” 我：“...你从哪里得到这个代码块，你有文档吗？”  （因为那不是这是如何工作的。这不仅仅是复制/粘贴，而是像您想象的那样工作 营销团队：“这就是 GTM 文档告诉我们的内容” 营销团队：“这就是 GTM 文档告诉我们的内容” 我：叹气 我设法让一些东西“工作” &lt; strong&gt;营销团队：“好吧...GTM 说已启动，但事件并未显示。您能帮忙吗” 我&lt; /strong&gt;：叹息 我的整个职业生涯经历过几个不同的团队，其中“其他人拥有 GTM”，所以不，我几乎没有获得关于这狗屎如何的合法经验和知识有效。我只是“触发标签/事件”和“添加到数据层” 营销团队：“你需要调用此代码，但你不是”我不这样做” 我：叹息...“我可以访问 GTM 吗？”  营销团队：“也许，这需要一些时间，因为[人]正在度假，但我们确实需要这个才能开始工作，因为我们已经支付了广告费用浪费钱 我：叹息 营销团队： &gt;“好消息，我找到了如何在 GTM 中执行此操作，就像我们最初想要的那样，因此我们不需要使用第三方像素”” 我：感谢上帝 营销团队：“所以我们最不需要的就是您添加该代码块，我们就很好了” ; 我：“你说你可以在 GTM 中使用它” 营销团队：“是的，但 GTM 说我们需要添加此代码，您能为我们添加此代码吗？” 我：“我们已经这样做了，你说它不起作用，你添加了标签和触发器......我可以检查你是如何做到的吗？” 营销团队：“我们将暂停该广告活动，因为我们的工程团队无法使其正常运行”   由   提交 /u/ObjectiveDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d1k17/i_long_for_the_day_that_google_tag_manager_ceases/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>我如何为我的作品集想出网站创意？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ctjff/how_do_i_come_up_with_website_ideas_for_my/</link>
-      <description><![CDATA[我为大学制作了一个网站，但他们给了我们一个要包含的内容列表，但当涉及到将其包含在我的投资组合中时，我可以&#39;什么也想不出来。   由   提交/u/russell0014   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ctjff/how_do_i_come_up_with_website_ideas_for_my/</guid>
-      <pubDate>Mon, 22 Jan 2024 11:28:28 GMT</pubDate>
+      <title>您如何部署网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d1h5c/how_do_you_deploy_a_website/</link>
+      <description><![CDATA[我是一名软件工程专业的学生，​​一位家庭成员要求我为他们的小型企业（一家房地产代理公司）建立一个网站。  网站将显示不同的房屋，并且需要管理功能来管理房屋。它将需要一些空间，因为将上传视频和图像。  我可能会使用 Node 和 Express 作为后端，React 作为前端，Postgres 作为数据库。开发不会有太大的挑战，因为我对这些技术非常熟悉。  我从未部署过 Web 应用程序，需要您提供有关廉价且可靠的方法的建议。  我想学习Docker。我不知道这是否对部署有帮助。  感谢您的帮助。   由   提交 /u/duartegoncalves   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d1h5c/how_do_you_deploy_a_website/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:46:04 GMT</pubDate>
     </item>
     <item>
-      <title>为对象的一组可共享类创建 URL/代码（HTML/JS/其他？）</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ct9f6/creating_a_urlcode_for_a_shareable_set_of_classes/</link>
-      <description><![CDATA[我为游戏制作了收藏追踪器您可以在其中选择您拥有的单位以查看您缺少的内容。这是通过在单击图像以添加一些样式（删除灰度并添加边框）时向图像添加一个类来完成的，并且单击对象的 ID 也存储在本地存储中，因此将为每个人保存集合状态。 它目前运行良好，但我一直想要的一个功能是让人们能够与其他人分享他们的收藏。我想象这将通过人们可以复制/粘贴到字段中的代码或 URL 实现，并且随后的页面将无法像正常页面一样可单击/可编辑。实现此目的的最佳方法是什么？ 过去，我通过附加到 URL 的哈希完成了类似的操作，但那是针对具有一定数量对象的对象，因此对象的长度哈希相当容易管理。随着游戏不断发展并添加更多单位，我想这样的方法会变得越来越笨拙，所以我不认为这是走下去的道路。 我是一个自学成才的人业余爱好者，所以我不知道我在这里尝试做的事情的适当术语，所以如果这是一个易于搜索的问题，我很抱歉。但是寻找可保存/可共享页面状态之类的东西似乎并没有给我带来我想要的东西。   由   提交 /u/quaremoritor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ct9f6/creating_a_urlcode_for_a_shareable_set_of_classes/</guid>
-      <pubDate>Mon, 22 Jan 2024 11:10:08 GMT</pubDate>
+      <title>在域中隐藏我的个人信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d17kb/hide_my_personal_info_from_domain/</link>
+      <description><![CDATA[      嗨，我不知道是否可以在这里写这个。我刚刚购买了一个域名并链接到 shopify，当我将我的网站名称放在 whois 上时，会出现我的名字和姓氏，我该如何隐藏它？第一张图片是我的网站，第二张图片是其他网站，不显示任何个人数据。   由   提交/u/Mysterious_Wafer_297   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d17kb/hide_my_personal_info_from_domain/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:35:27 GMT</pubDate>
     </item>
     <item>
-      <title>“React 还可以比其他框架更好地教你 JavaScript”这一论点有多准确？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ct8zx/how_accurate_is_the_argument_that_react_can_also/</link>
-      <description><![CDATA[大家好！ 👋 我一直在尝试在 Vue 和 React 之间做出选择，以深入专业化一段时间，并且我遇到了本主题标题中提到的论点。然而，我有一些困惑。 React 如何能比 Vue 更好地教授 JavaScript？在 React 中，由于不变性问题，您必须使用一些有限的数组方法。例如，要将一个项目添加到数组中，您必须首先复制数组并使用 map() 方法。但对于 Vue，如果您愿意，您可以使用 push() 方法。同样，如果你想从数组中删除一个项目，如果你愿意，你可以使用 splice() 而不是 filter()。 使用简化版本的方法如何比 Vue 更能提高我的 JS 技能？我是否遗漏了一些要点？我对它们都有一定的了解，并且非常了解它们在幕后是如何工作的（React 的重新渲染和树摇动系统或 Vue 的代理系统等）。 你能帮我理解吗？提前致谢。   由   提交 /u/tostbildiklerim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ct8zx/how_accurate_is_the_argument_that_react_can_also/</guid>
-      <pubDate>Mon, 22 Jan 2024 11:09:21 GMT</pubDate>
+      <title>如果我需要使用组合键并且经常只查询该键的一部分，那么 Redis 是一个有效的解决方案吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d0ur5/is_redis_an_efficient_solution_if_i_need_to_use_a/</link>
+      <description><![CDATA[我正在构建通知服务，并且需要一个数据存储来存储我的通知。我正在考虑为此使用 Redis，因为数据本质上是短暂的（生存时间只有几天）并且数据量不应该太大（给定时间可能有几十万条记录，分为 20 或 30000 个）用户） 我的服务正在使用 java springboot 后端，我当前正在设置数据和存储库类。我的通知的复合键如下： userId:notificationType:notificaionId 其中 userId 是此通知发送到的用户，notificationType 是类型（当前有 5 或 6 种类型），notificationId 将是唯一的键。 我使用复合键，因为我的理解是，使用 Redis，您只想通过键查询，运行对值的查询效率不高。我想我可以将 userId 和 notificationType 放入表示我的值的 JSON 中，并在它们上放置二级索引，但如果我最常通过 userId 查询来获取此数据，这真的是一个好主意吗？ 我在 spring redis 库方面遇到了一些问题，并且发现很难准确地弄清楚如何将我的查询转换为代码。 要在 UI 中填充我的通知抽屉，我需要获取给定用户的所有通知。我对键中的值进行了排序，以便最广泛的值位于第一个，然后它们从那里获得更具体的值（userId -&gt; notificationType -&gt; notificationId）。 redis 查询看起来像  KEYS [userId]* 根据我读过的所有内容，我知道我不应该在生产环境中使用 KEYS 命令，而且运行时似乎也不太好。 我想我想知道我是否应该继续考虑将 Redis 作为我的数据存储，或者转向某种关系型存储，这样我可以设置更好的索引并在查询方面拥有更大的灵活性。 &lt; !-- SC_ON --&gt;  由   提交/u/skytbest  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d0ur5/is_redis_an_efficient_solution_if_i_need_to_use_a/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:21:20 GMT</pubDate>
     </item>
     <item>
-      <title>有效的 Node + TypeScript + ts-node + ESM 体验。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ct7jz/a_node_typescript_tsnode_esm_experience_that_works/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ct7jz/a_node_typescript_tsnode_esm_experience_that_works/</guid>
-      <pubDate>Mon, 22 Jan 2024 11:06:26 GMT</pubDate>
+      <title>在 Node.js 中处理环境变量</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d0pm0/handling_environment_variables_in_nodejs/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d0pm0/handling_environment_variables_in_nodejs/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>哪个平台适合小型企业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ct2i8/which_platform_to_host_a_small_business/</link>
-      <description><![CDATA[开发人员您好， 我最近使用 SvelteKit JavaScript 框架创建了一个小型企业网站，现在我正在寻找合适的托管平台。目前，由于过去的积极经验（将其用于免费项目），我倾向于 Vercel。但是，我对其处理来自客户端的高流量的能力感到担忧。 关于 Vercel 是否是处理增加的流量的可靠选择，或者我应该考虑替代托管平台，有什么建议或见解吗？ 谢谢！   由   提交/u/Blackwater-1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ct2i8/which_platform_to_host_a_small_business/</guid>
-      <pubDate>Mon, 22 Jan 2024 10:57:57 GMT</pubDate>
+      <title>我是否正确使用了 chrome Extensions API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d0o19/am_i_using_the_chrome_extensions_api_correctly/</link>
+      <description><![CDATA[我正在尝试通过将 console.log(&quot;Hello world&quot;) 添加到扩展来进行最简单的健全性检查从 chrom 扩展示例克隆，但我看不到  chrome.webNavigation.onCompleted.addListener((details) =&gt; { console.log(“Hello world”) chrome.notifications.create({ type: &#39;basic&#39;, iconUrl: &#39;icon.png&#39;, title: &#39;页面已加载&#39;, message: &#39;加载完成：&#39; + details.url + &#39; at &#39; + details.timeStamp + &#39; 自纪元以来的毫秒数。&#39; }); });  如果我无法访问 DOM，我也无法理解 service-worker 的意义。如果这是一个简单的问题，我很抱歉，但我已阅读 Chrome 扩展文档，但找不到正确的解释。   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d0o19/am_i_using_the_chrome_extensions_api_correctly/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
