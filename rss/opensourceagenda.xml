@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 21 Jan 2024 21:12:20 GMT</lastBuildDate>
-    <item>
-      <title>Mihonapp网站</title>
-      <link>https://www.opensourceagenda.com/projects/mihonapp-website</link>
-      <description><![CDATA[Mihon 应用程序的官方网站。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mihonapp-website</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>托马斯·德博克构造</title>
-      <link>https://www.opensourceagenda.com/projects/thomas-de-bock-construct</link>
-      <description><![CDATA[通过 NASM 进行 x86 汇编语言抽象的编译器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/thomas-de-bock-construct</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的世界文件编码器</title>
-      <link>https://www.opensourceagenda.com/projects/minecraft-file-encoder</link>
-      <description><![CDATA[将文件编码到 Minecraft 地图中的插件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/minecraft-file-encoder</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>支架精细</title>
-      <link>https://www.opensourceagenda.com/projects/holderbot</link>
-      <description><![CDATA[快速而简单的机器人，可在 Marzban 面板中创建具有“on_hold”功能的用户。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/holderbot</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xiaoya Alist</title>
-      <link>https://www.opensourceagenda.com/projects/xiaoya-alist</link>
-      <description><![CDATA[小雅Alist的相关周边]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xiaoya-alist</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>模式</title>
-      <link>https://www.opensourceagenda.com/projects/modos</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/modos</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Aimbot 助手多游戏 V9</title>
-      <link>https://www.opensourceagenda.com/projects/ai-aimbot-assistant-multigames-v9</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ai-aimbot-assistant-multigames-v9</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:18 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jan 2024 00:59:17 GMT</lastBuildDate>
     <item>
       <title>盗贼</title>
       <link>https://www.opensourceagenda.com/projects/thef</link>
       <description><![CDATA[决赛]]></description>
       <guid>https://www.opensourceagenda.com/projects/thef</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:18 GMT</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:59:17 GMT</pubDate>
     </item>
     <item>
       <title>法斯姆 Raylib Simd</title>
       <link>https://www.opensourceagenda.com/projects/fasm-raylib-simd</link>
       <description><![CDATA[在 fasm 中使用 SIMD 指令和 Raylib 的简单演示]]></description>
       <guid>https://www.opensourceagenda.com/projects/fasm-raylib-simd</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:18 GMT</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:59:17 GMT</pubDate>
     </item>
     <item>
       <title>布卢普利</title>
       <link>https://www.opensourceagenda.com/projects/blooply</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/blooply</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM PC BIOS</title>
-      <link>https://www.opensourceagenda.com/projects/ibm-pc-bios</link>
-      <description><![CDATA[这是使用扫描和扫描对原始 1981-82 IBM PC BIOS 源代码进行的重建IBM 技术参考手册中 BIOS 列表的转录。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ibm-pc-bios</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息</title>
-      <link>https://www.opensourceagenda.com/projects/news-os</link>
-      <description><![CDATA[有关设置和使用 Sony NEWS 工作站和 NEWS-OS（Sony 的 Unix 发行版）的信息的存储库20 世纪 80 年代末至 90 年代中后期。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/news-os</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrionStarAI猎户座</title>
-      <link>https://www.opensourceagenda.com/projects/orionstarai-orion</link>
-      <description><![CDATA[Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/orionstarai-orion</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:17 GMT</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:59:17 GMT</pubDate>
     </item>
     <item>
       <title>伊达斯克兹</title>
       <link>https://www.opensourceagenda.com/projects/idascxz</link>
       <description><![CDATA[dsdsdas]]></description>
       <guid>https://www.opensourceagenda.com/projects/idascxz</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:17 GMT</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>模式</title>
+      <link>https://www.opensourceagenda.com/projects/modos</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/modos</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Aimbot 助手多游戏 V9</title>
+      <link>https://www.opensourceagenda.com/projects/ai-aimbot-assistant-multigames-v9</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ai-aimbot-assistant-multigames-v9</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM PC BIOS</title>
+      <link>https://www.opensourceagenda.com/projects/ibm-pc-bios</link>
+      <description><![CDATA[这是使用扫描和扫描对原始 1981-82 IBM PC BIOS 源代码进行的重建IBM 技术参考手册中 BIOS 列表的转录。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ibm-pc-bios</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息</title>
+      <link>https://www.opensourceagenda.com/projects/news-os</link>
+      <description><![CDATA[有关设置和使用 Sony NEWS 工作站和 NEWS-OS（Sony 的 Unix 发行版）的信息的存储库20 世纪 80 年代末至 90 年代中后期。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/news-os</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrionStarAI猎户座</title>
+      <link>https://www.opensourceagenda.com/projects/orionstarai-orion</link>
+      <description><![CDATA[Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/orionstarai-orion</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slidev主题学术</title>
+      <link>https://www.opensourceagenda.com/projects/slidev-theme-academic</link>
+      <description><![CDATA[使用 Slidev 进行学术演示变得简单🎓]]></description>
+      <guid>https://www.opensourceagenda.com/projects/slidev-theme-academic</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slidev 主题精神</title>
+      <link>https://www.opensourceagenda.com/projects/slidev-theme-geist</link>
+      <description><![CDATA[Slidev 的 Vercel 主题]]></description>
+      <guid>https://www.opensourceagenda.com/projects/slidev-theme-geist</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>幻灯片主题《无名》</title>
+      <link>https://www.opensourceagenda.com/projects/slidev-theme-the-unnamed</link>
+      <description><![CDATA[Slidev 主题 - 未命名]]></description>
+      <guid>https://www.opensourceagenda.com/projects/slidev-theme-the-unnamed</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:14 GMT</pubDate>
     </item>
     <item>
       <title>光之光</title>
       <link>https://www.opensourceagenda.com/projects/agonlight</link>
       <description><![CDATA[独立、BASIC 可编程微控制器和微型计算机合二为一！有史以来最快、最便宜、最容易破解的 8 位计算机。]]></description>
       <guid>https://www.opensourceagenda.com/projects/agonlight</guid>
-      <pubDate>Sun, 21 Jan 2024 21:12:16 GMT</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>幻灯片 Vscode</title>
+      <link>https://www.opensourceagenda.com/projects/slidev-vscode</link>
+      <description><![CDATA[Slidev 的 VS Code 扩展]]></description>
+      <guid>https://www.opensourceagenda.com/projects/slidev-vscode</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>幻灯片主题德古拉</title>
+      <link>https://www.opensourceagenda.com/projects/slidev-theme-dracula</link>
+      <description><![CDATA[slidev 的德古拉主题 🧛]]></description>
+      <guid>https://www.opensourceagenda.com/projects/slidev-theme-dracula</guid>
+      <pubDate>Mon, 22 Jan 2024 00:59:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
