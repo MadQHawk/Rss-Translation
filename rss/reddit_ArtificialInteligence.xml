@@ -4,20 +4,69 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 12:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 15:13:05 GMT</lastBuildDate>
+    <item>
+      <title>当前用于生成数字音乐的人工智能选项？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dqhq5/current_ai_options_for_generating_digital_music/</link>
+      <description><![CDATA[当前生成数字节拍和音乐的最佳选择是什么？我不是音乐家，所以我最感兴趣的是了解这个领域的现状以及未来的主要障碍。  &amp;# 32；由   提交 /u/LamenticallyTrivial   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dqhq5/current_ai_options_for_generating_digital_music/</guid>
+      <pubDate>Tue, 23 Jan 2024 15:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pi.ai 声音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dqebn/piai_voices/</link>
+      <description><![CDATA[有没有办法让 Pi.ai 语音朗读电子书？或者比 Edge 的 ReadAloud 上的声音更好？ Pi.ai 的声音太棒了   由   提交 /u/Mappletv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dqebn/piai_voices/</guid>
+      <pubDate>Tue, 23 Jan 2024 15:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[crosspost] 科幻作家的近未来小说《AFTER WORLD》是关于人工智能/法学硕士的，他现在正在 r/fantasy 举办 AMA 和赠品活动</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dpgqw/crosspost_scifi_author_whose_nearfuture_novel/</link>
+      <description><![CDATA[ 由   提交/u/debbieurbanski  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dpgqw/crosspost_scifi_author_whose_nearfuture_novel/</guid>
+      <pubDate>Tue, 23 Jan 2024 14:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 1 月 23 日）：来自 Meta、ElevenLabs、TikTok、Google、Elon Musk、MIT 和 Berkley AI 的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19do9h5/twominute_daily_ai_update_date_1232024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Meta 引入了用于 3D 生成模型的 Mosiac-SDF - M-SDF 使用形状边界附近的局部网格来近似形状的符号距离函数 (SDF) 。它计算速度快，参数高效，并且与基于 Transformer 的架构兼容。通过使用 3D Warehouse 数据集训练 3D 生成流模型以及使用标题形状对进行文本到 3D 生成，证明了其功效。 ElevenLabs 在 B 轮融资中筹集了 8000 万美元 + 宣布了新的人工智能产品 - 本轮融资由 Andreessen Horowitz、Nat Friedman 和 Daniel Gross 共同领投。这笔资金将巩固该公司作为语音人工智能研究和产品开发领导者的地位。 - ElevenLabs 还发布了新的人工智能产品，包括配音工作室、语音库市场和移动阅读器应用程序。该公司的技术已被广泛应用于各个领域，包括出版、对话式人工智能、娱乐、教育和无障碍。  TikTok 宣布推出 Depth Anything - 这是稳健的单目深度估计的实用解决方案。该方法侧重于通过收集和注释大规模未标记数据来扩展数据集。采用两种策略来提高模型的性能：通过数据增强创建更具挑战性的优化目标，并使用辅助监督来合并语义先验。  据报道，Google 正在开发一项新的人工智能功能“语音撰写” - Android 版 Gmail 的一项新功能称为“语音撰写”，它使用人工智能帮助用户起草电子邮件。该功能被称为“帮助我写作”。于 2023 年中期推出，允许用户输入文本片段，以便人工智能进行构建和改进。新的更新将支持语音输入，允许用户说出他们的电子邮件，并让人工智能根据他们的语音输入生成草稿。不过，目前还没有关于此功能何时正式发布的信息。 Google 已与员工分享了 2024 年全公司目标 (OKR) - 此外， Sundar Pichai 关于裁员的备忘录鼓励员工开始内部测试 Bard Advanced，这是一种由 Gemini 提供支持的新付费等级。这表明即将公开发布。 Elon Musk 表示 Grok 1.5 将于下个月发布 - Elon Musk 宣布下一版本的 Grok由他的人工智能公司 xAI 开发的语言（Grok 1.5）模型将于下个月发布，并进行了实质性改进。通过对 Twitter 影响者的帖子发表评论而宣布。  麻省理工学院的研究发现，在大多数工作中人工智能仍然比人类更昂贵 - 该研究旨在解决人工智能在各个行业取代人类工人的担忧。研究人员发现，只有 23% 的工人可以经济有效地被人工智能取代。这项研究反驳了人们普遍认为人工智能将消灭工作岗位的观点，表明人类在许多角色中仍然更具成本效益。 伯克利人工智能研究人员展示了一段视频，展示了他们的多功能人形机器人在机器人中行走。旧金山的街道。   这些新闻和创新的更详细分类，请参见 每日新闻通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19do9h5/twominute_daily_ai_update_date_1232024_news_from/</guid>
+      <pubDate>Tue, 23 Jan 2024 13:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能用例</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19do0zk/generative_ai_use_cases/</link>
+      <description><![CDATA[以下是生成式 AI 在创意环境中的一些用例：  文本生成：文本生成生成式人工智能的工作原理是使用机器学习算法来分析大量数据并学习语言的模式和结构。  客户服务：客户服务中的生成式人工智能涉及使用人工智能算法自动生成对客户询问或投诉的响应。  音乐生成：在音乐生成的情况下，机器学习算法在现有音乐的数据集上进行训练，例如古典乐曲或流行歌曲。  代码生成：用于代码生成的生成式 AI 涉及在大型代码样本数据集上训练模型，然后使用该模型根据给定的输入或描述生成新代码。   阅读：https://www.seaflux .tech/blogs/generative-ai-industry-scope    由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19do0zk/generative_ai_use_cases/</guid>
+      <pubDate>Tue, 23 Jan 2024 13:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能的兴起：机器如何变得富有创造力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dnxt2/the_rise_of_generative_ai_how_machines_are/</link>
+      <description><![CDATA[生成式 AI 是一个快速发展的人工智能领域，专注于创建可以生成新内容的系统，例如图像、音乐、文本，甚至整个虚拟世界。这项技术能够创造出可以模仿人类创造力的新的独特内容。 生成式人工智能的主要目标是使机器能够产生与人类创造的内容没有区别的高质量输出。这可以通过使用大型数据集训练模型来实现，这使得它们能够学习模式并根据这些模式生成新内容。  阅读：https://www.seaflux.tech/blogs/generative-ai -行业范围   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dnxt2/the_rise_of_generative_ai_how_machines_are/</guid>
+      <pubDate>Tue, 23 Jan 2024 13:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT4All 没有给出回应，它只是完成了我的提示？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dnwps/gpt4all_not_giving_responses_it_just_completes_my/</link>
+      <description><![CDATA[我目前正在尝试用 Python 制作一个聊天机器人，我在 gpt3.5 上取得了一些成功，但认为使用本地 gpt 会好得多。我下载了 gpt4all 并使用 mistra 7b openorca 模型。但由于某种原因，当我通过它处理提示时，它只是完成提示，而不是实际给出回复 示例： 用户：嗨，我是 sam GPT4All：燃料。我成为一名摄影师已经大约 5 年了，我很喜欢它。这段时间我学到了很多东西，比如使用不同的相机、灯光技术、构图等等。但我学到的最重要的东西是如何通过我的图像讲述故事。 如何我修复了这个问题吗？ 这是我用于测试此问题的代码 model = GPT4All(&quot;/Users/name/Library/Application Support/nomic.ai/GPT4All /mistral-7b-openorca.Q4_0.gguf”，allow_download=False) user_input = input(“用户：”) model_response = model.generate(user_input) print(“GPT4All：” + model_response)   ​   由   提交 /u/Pyth4k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dnwps/gpt4all_not_giving_responses_it_just_completes_my/</guid>
+      <pubDate>Tue, 23 Jan 2024 13:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款AI工具，帮助您在5分钟内创建自己的迷你世界/游戏</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dn9qv/an_ai_tool_that_helps_you_create_your_own/</link>
+      <description><![CDATA[我和几个朋友正在基于最新的生成式 AI 功能构建一个名为 Domi 的工具。有了它，你只需10分钟就可以轻松创建自己的世界或互动小游戏。请在此处观看视频演示：https://youtu.be/e3RVPQtXkl0  目前，对于您自己的空间，您可以生成背景，创建物品和角色，并通过门户构建子空间。您还可以邀请朋友到您的空间。  我们看到早期测试者正在创建虚拟画廊、平台游戏、互动小说和迷你冒险游戏。有人甚至和多米一起为波普猫建造了一座神社。  未来，你可以向所有人发布自己的空间，创建可以为你铺床或收养宠物的 NPC，并在你的空间中与朋友一起放松。 它现在处于 alpha 阶段，我们将根据测试人员的反馈继续添加新功能。如果这听起来像你的菜，请随时加入我们的 Discord 并尝试我们的早期 alpha：https://discord.gg/rEJmwSWHNG    由   提交/u/PodrickPayn3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dn9qv/an_ai_tool_that_helps_you_create_your_own/</guid>
+      <pubDate>Tue, 23 Jan 2024 12:25:26 GMT</pubDate>
+    </item>
     <item>
       <title>AI软件给游戏配音？我想为一款游戏配音，就像《天际》那样</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dlu3e/ai_softwares_to_dub_games_voices_i_would_like_to/</link>
-      <description><![CDATA[您好，我想学习如何用我的语言为游戏配音，就像在 mod 中为 skyrim 所做的那样（ Mod链接）。所以我想学习但我不知道从哪里开始，使用哪些软件等...    由   提交 /u/xKhaozs   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我想学习如何用我的语言为游戏配音，就像在 mod 中为《天际》所做的那样（ Mod链接）。所以我想学习但我不知道从哪里开始，使用哪些软件等...    由   提交 /u/xKhaozs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dlu3e/ai_softwares_to_dub_games_voices_i_would_like_to/</guid>
       <pubDate>Tue, 23 Jan 2024 10:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>对不起，先生？您的 LLM 模型正在泄漏（信息）。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dkadz/excuse_me_sir_your_llm_model_is_leaking/</link>
-      <description><![CDATA[又一天，另一篇研究论文强调了 LLM 模型带来的潜在漏洞和威胁。他们开始堆积起来。就我个人而言，这与技术完全无关。人是技术的驱动者，人是技术的使用者，人工智能也是如此，至少目前如此。  人们将使用基于提示的注入来攻击 LLM 模型。这是新的 SQL 注入。这些问题并非无法解决，也不是新问题。只是目前很少有人真正尝试在这个特定领域创建解决方案。那么，让我们来解决这个问题吧！  为了做到这一点，您总共需要四个基本包： Numpy：非常简单。 90% 的 Python 机器学习相关项目都需要这个包。  NLTK：自然语言工具包。几乎我们将要使用的所有内容都包含在这个工具包中。它是一个非常强大的库，用于在代码中处理、解释和操作自然语言。  Sentence Transformers：我们将利用此包来实现 NLTK 包的附加功能。让我们能够用单词，尤其是句子做更多的事情。  SciKit Learn：当我们需要将数学方程和函数应用到我们的单词中时。  我基本上在脑海中浏览了人们通常用来提示注入 LLM 模型的所有方法，并设计了越来越复杂的方法来检测这些攻击的各个方面。此 Google Colab 笔记本包含基本的完整流程，可让您轻松了解使用这些不同的工具包究竟可以做什么：Colab 环境 也许您不想要完整的教程体验，而只想访问我创建的代码和应用程​​序，将所有这些简化为一个功能？我也把你覆盖在那里！通过 MIT 开源许可证发布，完整代码和基本应用程序：LLM 异常提示检测器 GitHub 最后，如果您是对 AI 安全感兴趣的企业主，该软件包的更强大且易于安装的版本可作为 Corporate Iron Dome 的一部分提供：https://corporateirondome.com    由   提交 /u/Fantastic-Ninja3839    reddit.com/r/ArtificialInteligence/comments/19dkadz/excuse_me_sir_your_llm_model_is_leaking/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dkadz/excuse_me_sir_your_llm_model_is_leaking/</guid>
-      <pubDate>Tue, 23 Jan 2024 09:05:52 GMT</pubDate>
     </item>
     <item>
       <title>为什么数学对于你的人工智能职业发展至关重要</title>
@@ -27,32 +76,11 @@
       <pubDate>Tue, 23 Jan 2024 08:32:22 GMT</pubDate>
     </item>
     <item>
-      <title>AGI有用吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dj7l5/will_agi_be_useful/</link>
-      <description><![CDATA[对于 AGI 将如何出现以及它将如何改变世界，每个人都有自己的想法。抛开所有可能与意识或感知相关的常见问题——即使我们确实实现了通用人工智能，并且它没有比当前的聊天机器人更多的意识、情感或感知——它会有用吗？想象一下，阿尔伯特·爱因斯坦、达·芬奇、巴勃罗·毕加索、弗里德里希·席勒、伏尔泰和老学校看门人哈利都聚集在一起，你要求它写一篇关于向日葵的文章。是否会充满了需要各个领域的高度先进知识的参考资料和离题，以至于只有少数人能够理解它想要表达的内容？我们是否能够盲目地相信它所做的事情，因为我们不再能够轻易确定它是在做一些出色的事情还是完全愚蠢的事情？我们是否必须故意将其简化才能仍然能够像人类一样与它进行交流？我认识的最聪明的人是我已故的数学教授，他还拥有哲学、历史和许多其他科学学位。我记得以任何方式与他互动都是极其复杂和具有挑战性的，我们的任何小小的交流都会让我思考他的话几个小时——有时只是为了发现这位伟大的老人在一些相对琐碎的事情上是完全错误的，但我仍然想知道是否有一些我太愚蠢而无法理解的精彩推论。   由   提交 /u/Ok-Ice-6992   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dj7l5/will_agi_be_useful/</guid>
-      <pubDate>Tue, 23 Jan 2024 07:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的工作和现实世界问题。</title>
+      <title>人工智能的工作和现实世界问题的问题。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dip4e/ai_jobs_and_problems_with_real_world_problems/</link>
       <description><![CDATA[我开始认为人工智能自动化的现实世界可能会带来一些独特的挑战，有些事情会变得更好、更高效，但会意外地以惊人的方式失败。我受到《华尔街日报》文章的启发：为什么机器人拉直烛芯如此困难，还有最近对 Altman 的采访，其中记者询问了法学硕士、工作和自动驾驶的未来进展，纠正了自动驾驶。现实世界充满了独特的事物，可以改变形状、颜色，可以看起来像其他事物，甚至对于在这个世界上进化并为我们自己创造这个世界的人类来说也可能是粘性的、混乱的和具有挑战性的。许多执行简单日常任务的机器人会被人类头发、口香糖等最简单的东西损坏。我认为现实世界中所有自动化技术的失败率都会很高，因为我们已经有大量破碎的机器人垃圾填埋场的清洁工。以太将会有巨大的技术腰部或维修和升级回收方面的巨大改进。问题就在这里。即使是人类也不太擅长更换弯曲的部件、脱落的螺钉等。故障零件通常处于独特的状态。法学硕士天生不擅长处理特殊情况。   由   提交 /u/Caderent   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dip4e/ai_jobs_and_problems_with_real_world_problems/</guid>
       <pubDate>Tue, 23 Jan 2024 07:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何检查AI提供的信息的有效性？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19di1ly/how_to_check_validity_of_provided_info_by_ai/</link>
-      <description><![CDATA[AI 最常创建的内容是否有效？我想利用人工智能以更个性化的方式更快地学习，但我担心它并不总是能提供事实信息。我不想检查它提供的每一个事实，但我绝对不想有虚假信息。我可以使用单一来源来获取纯事实信息吗？另外，我如何以其他方式利用人工智能来发挥我的优势并改善我的生活？如此频繁地使用它是否道德？这项技术的未来会是什么样子？过度使用会导致对生活缺乏兴趣吗？   由   提交/u/Waste-Hunt-7480   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19di1ly/how_to_check_validity_of_provided_info_by_ai/</guid>
-      <pubDate>Tue, 23 Jan 2024 06:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常忙碌的大学生的工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dhznn/tools_for_very_busy_college_student/</link>
-      <description><![CDATA[我是美国的一名三年级本科生。我是校园内多个组织的主席，并且通过使用 Google 日历、苹果笔记、邮件标签等做得很好，但是您发现了哪些真正的人工智能工具可以更有效地执行多任务、节省时间、委派和管理可以让生活变得更轻松的项目或一般软件？ 我致力于保持人工智能的领先地位，所以我想使用最新的技术来帮助我做在我各自的职位/大学里，如果他们在那里的话。 谢谢！   由   提交/u/Shittyberg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dhznn/tools_for_very_busy_college_student/</guid>
-      <pubDate>Tue, 23 Jan 2024 06:25:32 GMT</pubDate>
     </item>
     <item>
       <title>ElevenLabs 估值 11 亿美元</title>
@@ -62,27 +90,6 @@
       <pubDate>Tue, 23 Jan 2024 02:18:56 GMT</pubDate>
     </item>
     <item>
-      <title>我使用什么人工智能软件来生成现有角色并让他们执行某些操作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dc9ef/what_ai_software_do_i_use_to_generate_existing/</link>
-      <description><![CDATA[我对 AI 很陌生，我只知道 ChatGPT 和 DALLE 图像生成器，我只是想知道有些人用什么软件来制作有趣的视频现有角色？例如，就像游戏中的虚构角色一样，该角色有很多模因，积极地让角色移动并做游戏中没有的事情（又名 TIk tok 舞蹈或视频格式中与模因相关的东西）。这是我能解释的最好方式。我只是想知道是否有软件可以做到这一点，或者您是否必须了解编程/编码才能做到这一点？   由   提交 /u/spiritualqueen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dc9ef/what_ai_software_do_i_use_to_generate_existing/</guid>
-      <pubDate>Tue, 23 Jan 2024 01:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部问答：小型联邦机构制定标准，使人工智能安全可靠且值得信赖</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dc17d/insider_qa_small_federal_agency_crafts_standards/</link>
-      <description><![CDATA[内部问答：小型联邦机构制定标准，使人工智能安全、可靠和值得信赖 https://candorium.com/news/20240122150903126/insider -qanda-小型联邦机构工艺标准用于使人工智能安全可靠且值得信赖    由   提交/u/10marketing8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dc17d/insider_qa_small_federal_agency_crafts_standards/</guid>
-      <pubDate>Tue, 23 Jan 2024 01:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>自适应人工智能在 2024 年商业中的力量：每位企业主必读！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dar2a/the_power_of_adaptive_ai_in_business_2024_a/</link>
-      <description><![CDATA[作为一个有眼光的企业主，保持竞争优势、优化运营效率和培养创新是当务之急。探索自适应人工智能的潜力——一股重组当代商业动态结构的强大力量。 🔗 原创文章：点击此处 🌐 商业领袖的战略见解：原始文章摘要 解码自适应人工智能：超越传统人工智能，自适应人工智能代表着自主进化的动态代码。其独特的适应性是游戏规则的改变者，提供了一个可以在不断变化的业务环境的复杂景观中无缝导航的系统。 战略实施：作为业务领导者，路径自适应人工智能集成的成功需要战略远见。定义与业务挑战相一致的明确目标，指导选择定制算法和数据收集策略。这可确保根据您的业务需求提供无缝且优化的性能。 商业利益揭晓：自适应人工智能对企业的变革能力是巨大的。通过提高运营效率并以无与伦比的精确度做出决策来获得战略优势。这不仅仅是自动化 - 它是一种整体方法，可提供个性化体验并实施有效的风险缓解策略。 自适应人工智能的实际应用：自适应人工智能的深远影响在商业领域 1- 在医疗保健领域，它正在彻底改变个性化医疗、疾病诊断和药物发现。 2- 金融体验欺诈检测、智能投资策略和个性化客户服务方面的优势。 3- 在制造中，它优化了预测性维护、质量控制和供应链运营。 &gt; 4- 即使在游戏领域，它也能提高用户参与度、扩大市场吸引力，并将品牌定位为市场领导者。 📈 Gartner 的战略洞察力：2026 年的战略当务之急是采用人工智能工程实践的企业的表现将比同行高出 25%。自适应人工智能的战略整合不仅仅是一种选择，更是一种选择。这是现代商业动态格局中的必需品。 准备好提升您的业务战略了吗？ 这仅作为预览。深入研究完整的帖子进行详尽的探索，包括现实世界的应用程序和优化数据的方法。要了解更多信息，阅读全文   由   提交 /u/SirYurii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dar2a/the_power_of_adaptive_ai_in_business_2024_a/</guid>
-      <pubDate>Tue, 23 Jan 2024 00:08:33 GMT</pubDate>
-    </item>
-    <item>
       <title>Reddit推荐的2024年最佳AI客服工具是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19d18h8/best_ai_customer_service_tool_recommended_by/</link>
       <description><![CDATA[ 由   提交 /u/LonelyAmphibian1551   [链接] [评论]]]></description>
@@ -90,14 +97,7 @@
       <pubDate>Mon, 22 Jan 2024 17:36:29 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能激励我继续编码</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cuxv0/ai_motivated_me_to_keep_coding/</link>
-      <description><![CDATA[Python 是我的第一种编码语言，但最初并没有取得太大进展。我很快意识到我需要加深对算法、数据结构和其他复杂主题的了解。我买了几门课程，但这是浪费钱。所以我想……为什么不尝试人工智能呢？  我首先使用人工智能驱动的聊天机器人，它们针对我的问题提供了具体的建议和解释。这就像指导，但以虚拟形式进行。我能够提出有关复杂概念的问题，并且机器人提供了清晰易懂的解释。这些机器人的准确度仍然让我感到惊讶。  并简要介绍一下我在使用人工智能进行学习时发现的优势： 聊天机器人在学习困难概念时是很有帮助的导师； 它们提供了个性化的学习计划；  分析人工智能建议的代码让我了解了解决问题的新方法和途径，从而丰富了我的技能； 使用人工智能审查和生成基础代码改善了学习过程并为进一步的工作提供了框架。 人工智能是否改善了您的编码体验？或者你担心它很快就会取代你的工作，哈哈？    由   提交 /u/ivesencat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cuxv0/ai_motivated_me_to_keep_coding/</guid>
-      <pubDate>Mon, 22 Jan 2024 12:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
