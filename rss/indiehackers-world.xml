@@ -4,7 +4,95 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 23 Jan 2024 15:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 18:17:59 GMT</lastBuildDate>
+    <item>
+      <title>我的开源 SaaS 如何在 Product Hunt 上排名第一</title>
+      <link>https://feed.indiehackers.world/post/570ad6d92c</link>
+      <description><![CDATA[
+加州建立了强大的社区和生态系统。这不是一件容易克隆的事情。尤其是当你是克隆人时。
+Cal 在其产品方面拥有深厚的内部技术专业知识。克隆人则不然。当卡尔做出重大改变时，克隆人可能会遇到很多麻烦。更不用说他们可能做出的任何许可更改。
+
+如今，代码在很大程度上已成为一种商品。只需几十万美元，您就可以克隆大多数应用程序。无论它们是开源的还是闭源的。
+困难的部分是建立业务。其中包括分销。作为 1:1 的模仿者，很难获得显着的吸引力。
+Rocket Internet 以复制业务而闻名，并取得了一些成功。但在大多数情况下，经营一家模仿公司是行不通的。
+尽管我刚才说了这么多，但让你的代码公开还是存在合理的担忧。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/570ad6d92c</guid>
+      <pubDate>Tue, 23 Jan 2024 17:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>茄子 - 代理多页主题。使用 Astro、Tailwind CSS 和 MDX 构建</title>
+      <link>https://feed.indiehackers.world/post/c130c871cb</link>
+      <description><![CDATA[Aubergine - Agency 多页主题
+使用 Astro、Tailwind CSS 和MDX
+
+21页
+50 多个部分
+60 多个组件
+
+现场观看并了解其中包含的内容：
+https://lexingtonthemes.com/info/aubergine/
+以文本内容为重点的深色精致设计，分为多个部分以便于导航和阅读，适合需要详细呈现内容的工作室、机构网站或平台。
+
+
+
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c130c871cb</guid>
+      <pubDate>Tue, 23 Jan 2024 17:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>React/Next/NodeJS 的免费开源 SaaS 启动器比较</title>
+      <link>https://feed.indiehackers.world/post/11c8397cbb</link>
+      <description><![CDATA[我对 React/NextJS 生态系统的 4 个免费开源 SaaS 启动器进行了比较。
+这是我发现的 4 个免费开源项目，目前正在积极维护。 
+享受吧！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/11c8397cbb</guid>
+      <pubDate>Tue, 23 Jan 2024 17:10:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不得不退款给客户。 😔 这是为什么？ 👇</title>
+      <link>https://feed.indiehackers.world/post/8a9db2ce90</link>
+      <description><![CDATA[&lt;块引用&gt;
+潜在客户，我相信优先考虑质量和
+建立畅通的沟通渠道将有助于
+Pentaclay 的长期成功。
+
+如果您对我们的工作感兴趣或有可能成为我们本月接待的两个新客户之一，请访问 http://pentaclay。 com。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8a9db2ce90</guid>
+      <pubDate>Tue, 23 Jan 2024 15:46:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用机器学习为日本游戏创建全自动 OCR</title>
+      <link>https://feed.indiehackers.world/post/c377e1af9f</link>
+      <description><![CDATA[游戏是从 OBS 流式传输的虚拟摄像机捕获的，该虚拟摄像机在便携式模式下运行，我使用 obsws-python 以编程方式进行控制。
+我将这一切都封装在一个 websockets 服务器下，以便与我现有的 web 应用程序进行通信，因此我几乎不需要添加任何新内容，因为所有繁重的工作都是在 Python 中完成的，我所要做的就是使用 base64 发送一个事件OCR 区域的编码图像。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c377e1af9f</guid>
+      <pubDate>Tue, 23 Jan 2024 15:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 LinkedIn 上发布的所有内容都是为了发布。深入探讨。</title>
+      <link>https://feed.indiehackers.world/post/7a81761ac9</link>
+      <description><![CDATA[‍__________________________________________________________________
+7 月后 - 8 月（正在测试定价；参与度几乎为零）
+&lt;小时/&gt;
+当我公开构建时，我正在尝试定价模型，并且希望获得反馈。
+您愿意每月支付多少费用来发现和保存来自直接竞争对手的电子邮件而不订阅他们的电子邮件列表？
+10-20 美元
+20-30 美元
+30-40 美元
+$40+
+&lt;小时/&gt;
+8 月后 - 八月
+&lt;小时/&gt;
+当谈到在 linked in、twitter 或其他技术人员聚会平台上增加受众时，您发现什么是有效的？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7a81761ac9</guid>
+      <pubDate>Tue, 23 Jan 2024 15:16:33 GMT</pubDate>
+    </item>
     <item>
       <title>关于撰写电子邮件主题行有什么建议吗？</title>
       <link>https://feed.indiehackers.world/post/df133d972d</link>
@@ -141,93 +229,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/75f9450ba6</guid>
       <pubDate>Tue, 23 Jan 2024 10:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>🙌 2024 年您应该应用的产品技巧。第五部分</title>
-      <link>https://feed.indiehackers.world/post/a679e848df</link>
-      <description><![CDATA[📝 编写了2024年应用的产品提示第5部分
-✅ 页面上的待办事项列表
-😀 第一批用户的好处
-📺展示，而不是讲述
-👀 使用自动对焦
-📧 添加带有 CTA 的电子邮件签名
-🏗️ 开放式构建
-👉查看一下🔗https:// bohdan-v.medium.com/product-tips-you-should-apply-in-2024-part- Five-782703636990
-👉我的Twitter了解更多有趣的内容🔗https://twitter.com/bohdanvorona
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a679e848df</guid>
-      <pubDate>Tue, 23 Jan 2024 10:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>🙌 2024 年您应该应用的产品技巧。第五部分</title>
-      <link>https://feed.indiehackers.world/post/28f285c0c5</link>
-      <description><![CDATA[📝 编写了2024年应用的产品提示第5部分
-✅ 页面上的待办事项列表
-😀 第一批用户的好处
-📺展示，而不是讲述
-👀 使用自动对焦
-📧 添加带有 CTA 的电子邮件签名
-🏗️ 开放式构建
-👉查看一下🔗https:// bohdan-v.medium.com/product-tips-you-should-apply-in-2024-part- Five-782703636990
-👉我的Twitter了解更多有趣的内容🔗https://twitter.com/bohdanvorona
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/28f285c0c5</guid>
-      <pubDate>Tue, 23 Jan 2024 10:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解这些技术堆栈要点！</title>
-      <link>https://feed.indiehackers.world/post/9bf2be260f</link>
-      <description><![CDATA[最后，我们不要忘记 API 和第三方服务的集成。它们扩展了您的技术堆栈的功能，使您能够整合特性和功能，而无需重新发明轮子。
-对于那些想要更深入了解的人，我建议您阅读这篇文章，其中提供了选择完美技术堆栈的分步指南。此资源可以提供更详细的了解，帮助您根据您的特定需求做出明智的决策。
-&lt;块引用&gt;
-https://www.aimprosoft.com/blog/guide-on-选择技术堆栈/
-
-总而言之，技术堆栈不仅仅是技术的集合；它也是技术的集合。它是一套精心策划的工具，可以协同工作，将数字项目变为现实。了解要点是构建高效、有效且可扩展的技术解决方案的第一步。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9bf2be260f</guid>
-      <pubDate>Tue, 23 Jan 2024 10:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以将您的软件启动提交到 +150 个目录，并覆盖 +2300 万每月用户。</title>
-      <link>https://feed.indiehackers.world/post/d0fbcfb259</link>
-      <description><![CDATA[
-自动提交到 150 多个目录。
-80 个以人工智能为重点的目标覆盖范围。
-不再需要手动填写表格或无休止的研究。
-节省了几个小时。效率提升。
-
-有什么好处：
-
-强大的搜索引擎优化和有价值的反向链接。
-每天覆盖数百万受众。
-清晰、无混淆的可见性。
-
-如果您有兴趣，请不要忘记今天为快速列表投票！ ：https://www.producthunt.com/posts/quicklisting
-Quicklisting 源于我自己的挑战，旨在帮助企业家同行避免错过重要的曝光机会。我很高兴与您分享这段旅程，并了解您推广项目的经验！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d0fbcfb259</guid>
-      <pubDate>Tue, 23 Jan 2024 09:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于沟通/协作工具的民意调查。</title>
-      <link>https://feed.indiehackers.world/post/6de41fd8b2</link>
-      <description><![CDATA[我希望找到能够帮助团队共同联系、创造和创新的首选工具。
-参与本次投票。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6de41fd8b2</guid>
-      <pubDate>Tue, 23 Jan 2024 09:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSD2 是什么以及它如何影响您的 SaaS 产品</title>
-      <link>https://feed.indiehackers.world/post/c6b6b558db</link>
-      <description><![CDATA[财务和法律后果
-不遵守 aPSD2 法规可能会导致许多法律和财务问题。充分了解这些法规并采取一切必要措施来避免它们不仅很重要，而且您有责任。 
-因为无法充分遵守合规规定将导致巨额罚款，具体金额取决于违规的严重程度。如果实施限制，可能会发生运营中断，这显然会导致收入损失。 
-更糟糕的是，事情可能会升级，企业可能会面临因不合规而受到安全漏洞或欺诈活动影响的监管机构或个人的法律诉讼。
-我们之前已经提到过这一点，并且有充分的理由：错误的 SCA 实施可能会导致客户信任和品牌声誉的丧失，正如您可以想象的那样，这意味着严重的收入流失。 
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c6b6b558db</guid>
-      <pubDate>Tue, 23 Jan 2024 09:17:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
