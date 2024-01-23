@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 21:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:57:50 GMT</lastBuildDate>
+    <item>
+      <title>有没有 daisy ui 的替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d9ra3/are_there_alternative_to_daisy_ui/</link>
+      <description><![CDATA[您能推荐一个适用于纯 html 的组件库吗？    ;由   提交 /u/steerflesh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d9ra3/are_there_alternative_to_daisy_ui/</guid>
+      <pubDate>Mon, 22 Jan 2024 23:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新令牌与长期访问令牌？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d9hye/refresh_tokens_vs_long_lived_access_tokens/</link>
+      <description><![CDATA[我正在尝试为我的应用程序实现刷新令牌系统，但是我仍然遇到一些问题： - 当前客户端登录时在 cookie 中获取并存储 accessTokens + 刷新令牌  - 由于令牌存储在 cookie 中，因此它们会在每个请求中发送 因此，如果两个令牌具有相同级别的漏洞，我使用相同的 cookie 标志（h​​ttpOnly、sameSite、secure 等），那么使用刷新令牌与仅使用长期存在的 accessToken 有何意义？它们本质上不是同一件事吗？   由   提交 /u/Signal-Following-854   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d9hye/refresh_tokens_vs_long_lived_access_tokens/</guid>
+      <pubDate>Mon, 22 Jan 2024 23:14:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于续订过期虚拟主机和域名的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d8vlf/advice_on_renewing_an_expired_web_hosting_and/</link>
+      <description><![CDATA[大家好， 我目前在 Hostinger 的网络托管计划已过期，他们要求我支付近 100 美元来续订它。对于域名，他们要求我在“宽限期”期间额外支付 80 美元。  我会继续托管我的网站，它基本上是一个有 4 个页面的 React JS Web 应用程序。如果可能的话，至少有一个带有我的域名的电子邮件地址。我在推送生产分支时使用 github 管道自动更新我的网站。 我想到的第一个解决方案是在 Hostinger 上创建一个新帐户，以便在新客户交易中再受益一年（大约 36一年的托管和域名费用）。但我不认为我能够保留与他们提供的免费名称相同的域名（至少这是我的理解），即我无法转移我当前拥有的域名。 我愿意考虑其他托管解决方案，但我真的很想保留我的域名，并限制成本。 如果我错了，请纠正我，但另一种解决方案可以是将域名转移到域名注册商（例如porkbun），并使用其他托管解决方案（在我的研究过程中，我看到了Netlify）。 任何以低价继续使用Hostinger的成功尝试，或者您实际用于类似案例的建议/当前解决方案？ 提前非常感谢您的帮助！  &amp; #32；由   提交 /u/Yoruigan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d8vlf/advice_on_renewing_an_expired_web_hosting_and/</guid>
+      <pubDate>Mon, 22 Jan 2024 22:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会如何解决这个问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d7zrz/how_would_you_solve_this/</link>
+      <description><![CDATA[假设您有一个简单的网站，它从简单的数据库加载内容。您希望您的用户将文件上传到数据库“共享到云”功能。但用户希望将文件从移动应用程序共享到云端。我的网站如何从移动应用程序接收文件作为共享意图，而且，此共享文件需要有用户在从应用程序共享时编写的自定义标题。 我正在考虑构建我的自己的应用程序充当应用程序剪辑器或共享到云应用程序，但问题是我没有移动开发经验。还有别的办法吗？   由   提交/u/Dramatic_Disaster837   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d7zrz/how_would_you_solve_this/</guid>
+      <pubDate>Mon, 22 Jan 2024 22:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>讨论：我们如何让拖放功能更好地适应网络</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d7qlc/talk_how_we_can_make_drag_and_drop_better_for_the/</link>
+      <description><![CDATA[在本次演讲中，我分享了一些关于如何安全地改进 Web 浏览器中的拖放 API 以使工程师更容易使用的想法，并创造更令人愉悦的最终用户体验。 📺 我们如何让拖放功能更适合网络 我很想知道人们对我的想法有何看法。 👋 我是 Alex，我花了相当多的时间进行拖放工作问题空间。我是 react-beautiful-dnd 和即将推出的 实用拖放    ;由   提交 /u/alexreardon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d7qlc/talk_how_we_can_make_drag_and_drop_better_for_the/</guid>
+      <pubDate>Mon, 22 Jan 2024 22:01:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些托管服务可以为设置提供良好的支持？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d7iun/any_hosting_services_that_provide_good_support/</link>
+      <description><![CDATA[我有一个使用 REACT 构建的 vite 网站，它还有一个服务器端 js 文件以便运行 nodemailer。 &lt; p&gt;任何人都可以推荐一个具有良好设置支持的托管服务吗？这是我第一次托管具有前端和服务器端代码的网站。 谢谢！ &lt; !-- SC_ON --&gt;  由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d7iun/any_hosting_services_that_provide_good_support/</guid>
+      <pubDate>Mon, 22 Jan 2024 21:52:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一个 linter 可以用来警告 HTML 中特定类的使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19d6ivq/is_there_a_linter_i_can_use_to_warn_on_usage_of/</link>
+      <description><![CDATA[您好！  我希望找到一个可以配置为警告 HTML 中特定类的使用的 linter。  例如：linter 可以配置为警告不应使用“some-deprecated-class”。  内容  显然，无论我最终使用什么工具，其作用都远远不止于此。但你知道有一个工具可以做到这一点吗？  谢谢！   由   提交/u/tom-on-the-internet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19d6ivq/is_there_a_linter_i_can_use_to_warn_on_usage_of/</guid>
+      <pubDate>Mon, 22 Jan 2024 21:12:51 GMT</pubDate>
+    </item>
     <item>
       <title>您可能不需要 `eslint-config-prettier` 或 `eslint-plugin-prettier` |金博客</title>
       <link>https://www.reddit.com/r/webdev/comments/19d5zwf/you_probably_dont_need_eslintconfigprettier_or/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我目前在我的私立学校教授网页设计课程，我们没有课程。所以我必须一边做一边做我们每天要做的事情。我让学生使用 Wix 设计一个用于企业的网站的基本布局。我学到的所有东西都是在几个不同的 YouTube 教程中学到的。但对于如何让这门课再持续一个半月，我已经没有想法了。 关于我可以教的东西或我可以让学生做的项目有什么想法吗？有一次，我计划让他们为彼此做一个模拟网站，其中一个人是要求特定网站的客户，另一个人必须根据他们的要求制作。但这只会浪费大约一周的时间。   由   提交 /u/TenMoreBears   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19d3fip/web_design_class_for_8th_graders/</guid>
       <pubDate>Mon, 22 Jan 2024 19:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 17.3 中的 WebKit 功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d2m8y/webkit_features_in_safari_173/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d2m8y/webkit_features_in_safari_173/</guid>
-      <pubDate>Mon, 22 Jan 2024 18:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我渴望有一天 Google 跟踪代码管理器不再存在</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d1k17/i_long_for_the_day_that_google_tag_manager_ceases/</link>
-      <description><![CDATA[我想把 GTM（Google 跟踪代码管理器）扔到太阳深处，再也不想听到它或不得不再与它斗争. ...我理解它的必要性。谷歌可能垄断了这种营销工具，它带来的价值如果没有它就会消失……好吧。但。我仍然讨厌它。 我更讨厌的是我必须与营销团队就这个工具进行的互动 就像我讨厌 GTM 一样作为一种工具，非工程师可以注入随机 JS 并减慢我们的网站速度（然后指责我们性能缓慢），一个好的副作用是我不必处理所有这些跟踪 BS。他们可以通过 GTM 来做到这一点。 但结果是我们两全其美  营销团队&lt; /strong&gt;：“我们已经支付了这个新标签/像素的费用，需要您的帮助。我们尝试在 GTM 中进行设置，但它不起作用，因此我们需要您在代码中手动执行此操作...这是您需要放入代码库中的代码[一团狗屎]” 我：“...你从哪里得到这个代码块，你有文档吗？”  （因为那不是这是如何工作的。这不仅仅是复制/粘贴，而是像您想象的那样工作 营销团队：“这就是 GTM 文档告诉我们的内容” 营销团队：“这就是 GTM 文档告诉我们的内容” 我：叹气 我设法让一些东西“工作” &lt; strong&gt;营销团队：“好吧...GTM 说已启动，但事件并未显示。您能帮忙吗” 我&lt; /strong&gt;：叹息 我的整个职业生涯经历过几个不同的团队，其中“其他人拥有 GTM”，所以不，我几乎没有获得关于这狗屎如何的合法经验和知识有效。我只是“触发标签/事件”和“添加到数据层” 营销团队：“你需要调用此代码，但你不是”我不这样做” 我：叹息...“我可以访问 GTM 吗？”  营销团队：“也许，这需要一些时间，因为[人]正在度假，但我们确实需要这个才能开始工作，因为我们已经支付了广告费用浪费钱 我：叹息 营销团队： &gt;“好消息，我找到了如何在 GTM 中执行此操作，就像我们最初想要的那样，因此我们不需要使用第三方像素”” 我：感谢上帝 营销团队：“所以我们最不需要的就是您添加该代码块，我们就很好了” ; 我：“你说你可以在 GTM 中使用它” 营销团队：“是的，但 GTM 说我们需要添加此代码，您能为我们添加此代码吗？” 我：“我们已经这样做了，你说它不起作用，你添加了标签和触发器......我可以检查你是如何做到的吗？” 营销团队：“我们将暂停该广告活动，因为我们的工程团队无法使其正常运行”   由   提交 /u/ObjectiveDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d1k17/i_long_for_the_day_that_google_tag_manager_ceases/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何部署网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d1h5c/how_do_you_deploy_a_website/</link>
-      <description><![CDATA[我是一名软件工程专业的学生，​​一位家庭成员要求我为他们的小型企业（一家房地产代理公司）建立一个网站。  网站将显示不同的房屋，并且需要管理功能来管理房屋。它将需要一些空间，因为将上传视频和图像。  我可能会使用 Node 和 Express 作为后端，React 作为前端，Postgres 作为数据库。开发不会有太大的挑战，因为我对这些技术非常熟悉。  我从未部署过 Web 应用程序，需要您提供有关廉价且可靠的方法的建议。  我想学习Docker。我不知道这是否对部署有帮助。  感谢您的帮助。   由   提交 /u/duartegoncalves   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d1h5c/how_do_you_deploy_a_website/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在域中隐藏我的个人信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d17kb/hide_my_personal_info_from_domain/</link>
-      <description><![CDATA[      嗨，我不知道是否可以在这里写这个。我刚刚购买了一个域名并链接到 shopify，当我将我的网站名称放在 whois 上时，会出现我的名字和姓氏，我该如何隐藏它？第一张图片是我的网站，第二张图片是其他网站，不显示任何个人数据。   由   提交/u/Mysterious_Wafer_297   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d17kb/hide_my_personal_info_from_domain/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我需要使用组合键并且经常只查询该键的一部分，那么 Redis 是一个有效的解决方案吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d0ur5/is_redis_an_efficient_solution_if_i_need_to_use_a/</link>
-      <description><![CDATA[我正在构建通知服务，并且需要一个数据存储来存储我的通知。我正在考虑为此使用 Redis，因为数据本质上是短暂的（生存时间只有几天）并且数据量不应该太大（给定时间可能有几十万条记录，分为 20 或 30000 个）用户） 我的服务正在使用 java springboot 后端，我当前正在设置数据和存储库类。我的通知的复合键如下： userId:notificationType:notificaionId 其中 userId 是此通知发送到的用户，notificationType 是类型（当前有 5 或 6 种类型），notificationId 将是唯一的键。 我使用复合键，因为我的理解是，使用 Redis，您只想通过键查询，运行对值的查询效率不高。我想我可以将 userId 和 notificationType 放入表示我的值的 JSON 中，并在它们上放置二级索引，但如果我最常通过 userId 查询来获取此数据，这真的是一个好主意吗？ 我在 spring redis 库方面遇到了一些问题，并且发现很难准确地弄清楚如何将我的查询转换为代码。 要在 UI 中填充我的通知抽屉，我需要获取给定用户的所有通知。我对键中的值进行了排序，以便最广泛的值位于第一个，然后它们从那里获得更具体的值（userId -&gt; notificationType -&gt; notificationId）。 redis 查询看起来像  KEYS [userId]* 根据我读过的所有内容，我知道我不应该在生产环境中使用 KEYS 命令，而且运行时似乎也不太好。 我想我想知道我是否应该继续考虑将 Redis 作为我的数据存储，或者转向某种关系型存储，这样我可以设置更好的索引并在查询方面拥有更大的灵活性。 &lt; !-- SC_ON --&gt;  由   提交/u/skytbest  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d0ur5/is_redis_an_efficient_solution_if_i_need_to_use_a/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Node.js 中处理环境变量</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d0pm0/handling_environment_variables_in_nodejs/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d0pm0/handling_environment_variables_in_nodejs/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:15:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否正确使用了 chrome Extensions API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d0o19/am_i_using_the_chrome_extensions_api_correctly/</link>
-      <description><![CDATA[我正在尝试通过将 console.log(&quot;Hello world&quot;) 添加到扩展来进行最简单的健全性检查从 chrom 扩展示例克隆，但我看不到  chrome.webNavigation.onCompleted.addListener((details) =&gt; { console.log(“Hello world”) chrome.notifications.create({ type: &#39;basic&#39;, iconUrl: &#39;icon.png&#39;, title: &#39;页面已加载&#39;, message: &#39;加载完成：&#39; + details.url + &#39; at &#39; + details.timeStamp + &#39; 自纪元以来的毫秒数。&#39; }); });  如果我无法访问 DOM，我也无法理解 service-worker 的意义。如果这是一个简单的问题，我很抱歉，但我已阅读 Chrome 扩展文档，但找不到正确的解释。   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d0o19/am_i_using_the_chrome_extensions_api_correctly/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
