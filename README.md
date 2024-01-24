@@ -41,3 +41,4 @@
  - source028 [https://rsshub.app/bbc/world-asia](https://rsshub.app/bbc/world-asia) -> [BBC-news](rss/BBC-news.xml)
  - source029 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuters-news](rss/reuters-news.xml)
  - source030 [https://rsshub.app/reuters/world/asia-pacific](https://rsshub.app/reuters/world/asia-pacific) -> [reuters-news](rss/reuters-news.xml)
+ - source031 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP-news](rss/AP-news.xml)
