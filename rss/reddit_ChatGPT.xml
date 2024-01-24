@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 06:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 09:12:51 GMT</lastBuildDate>
     <item>
-      <title>Chatgpt 不知道 sinh(iz) 是什么（数学高中水平）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19eaerb/chatgpt_doesnt_know_what_sinhiz_is_maths_high/</link>
-      <description><![CDATA[ - sinh(iz) 等于吗？  函数sinh(iz)等于-i * sin(z)。  - 不是i*sin(z)吗？  对于造成的混乱表示歉意。你是对的。函数 sinh(iz) 等于 i * sin(z)。感谢您指出错误。  - sinh(iz) 等于吗？  对我之前的回复造成的混乱表示歉意。正确的说法是 sinh(iz) 等于 -i*sin(z)。感谢您指出错误。  ​ ​   由   提交 /u/Tony_Jony   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19eaerb/chatgpt_doesnt_know_what_sinhiz_is_maths_high/</guid>
-      <pubDate>Wed, 24 Jan 2024 06:12:31 GMT</pubDate>
+      <title>API 调用的内存保留</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ecyc8/memory_retention_with_api_calls/</link>
+      <description><![CDATA[我想使用 ChatGPT 创建工作流程，但我想在 ChatGPT 中保留我们之前通话的历史记录，但我不知道如何可以使用 API 来完成此操作。使用 UI，您可以提出后续问题，但据我所知，使用 API 是不可能的。我认为这可以通过创建一个助手来实现，但我还没有尝试过，而且我不太熟悉这个功能，因为我通常使用聊天完成端点。  我读到我需要发送先前的上下文作为新调用的一部分，但这听起来是极其无效的处理方式，特别是如果您想发送大量提示。    由   提交 /u/filisterr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ecyc8/memory_retention_with_api_calls/</guid>
+      <pubDate>Wed, 24 Jan 2024 09:07:15 GMT</pubDate>
     </item>
     <item>
-      <title>gpt4 自掏腰包开了一个 9/11 玩笑</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19eab5s/gpt4_makes_a_911_joke_out_of_pocket/</link>
-      <description><![CDATA[      聊天链接https://chat.openai.com/share/58d4a800-6d94-45d5-b731-de7a0a6a1713   由   提交 /u/System-Phantom   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19eab5s/gpt4_makes_a_911_joke_out_of_pocket/</guid>
-      <pubDate>Wed, 24 Jan 2024 06:06:37 GMT</pubDate>
+      <title>根据您的内容创建聊天机器人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ecu71/create_chatbot_from_your_content/</link>
+      <description><![CDATA[只需几分钟即可使用您自己的内容创建聊天机器人 AI  https://www.producthunt.com/posts/taggoai/maker-invite?code=gM2UDM    由   提交/u/nhinq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ecu71/create_chatbot_from_your_content/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何生产经过微调的 GPT 3.5 模型？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19ea083/how_do_i_productionize_the_fine_tuned_gpt_35_model/</link>
-      <description><![CDATA[我正在云中寻找一些工具，可用于扩展我公司的特定用例。我们正在开发一个涉及使用 gpt 3.5 和 langchain 代理的聊天机器人。去年晚些时候推出了正弦微调，我们很快就适应了它，它为我们的用例创造了奇迹。  现在，我为微调数据准备而创建的所有脚本都在我的本地计算机中。我们正在寻求使用一些基于云的解决方案来创建和管理训练数据。现在，如果这只是一种用例，我可以简单地使用 gcs 存储桶来存储数据并对其进行版本控制。但我的老板希望我能够针对多个用例进行扩展。  这是一个场景： 如果有 2 打生成式 AI 用例，其中涉及使用微调模型，我将如何管理每个用例的数据。如果其他团队想要利用现有用例中的一些现有数据，他们如何轻松识别在哪里查找并生成类似数据等。 我不确定我是否能够正确定义问题，但据我了解，我的老板希望我将当前用例扩展到具有多个数据集的多个用例，同时有效管理训练数据，这样当有人想要使用相同数据时，它就不会成为负担。  我不知道该朝哪个方向去解决这个问题。如果有人能在这方面帮助我，我会很高兴。   由   提交 /u/Alternative-Turn-984   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19ea083/how_do_i_productionize_the_fine_tuned_gpt_35_model/</guid>
-      <pubDate>Wed, 24 Jan 2024 05:48:28 GMT</pubDate>
+      <title>为了回应模型记住的“这很好”，GPT4 尝试重新创建经典模因</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ecnoi/in_response_to_this_is_fine_being_memorised_by/</link>
+      <description><![CDATA[       由   提交 /u/gottafind   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ecnoi/in_response_to_this_is_fine_being_memorised_by/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:45:27 GMT</pubDate>
     </item>
     <item>
-      <title>价格上涨的玉米饼</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e9z9p/tacos_that_are_increasing_in_price/</link>
-      <description><![CDATA[       ​ 1 美元炸玉米饼 ​ 10 美元炸玉米饼 ​ 20 美元炸玉米饼 ​ 100 美元炸玉米饼 ​ 1000 美元炸玉米饼 ​ 100k 炸玉米饼 ​ 1 百万玉米饼 ​ 无价的炸玉米饼 ​ ; 奖金：-1000 美元炸玉米饼（他们付钱给你吃）   由   提交 /u/krashbic   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e9z9p/tacos_that_are_increasing_in_price/</guid>
-      <pubDate>Wed, 24 Jan 2024 05:46:51 GMT</pubDate>
+      <title>一些迪士尼女孩在工作时观看 Reddit</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ecenu/some_disney_girls_watching_reddit_at_work/</link>
+      <description><![CDATA[       由   提交 /u/Animix_fr   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ecenu/some_disney_girls_watching_reddit_at_work/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:26:30 GMT</pubDate>
     </item>
     <item>
-      <title>疯狂的进化</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e9y8z/unhinged_evolution/</link>
-      <description><![CDATA[      尝试理解这一点   由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e9y8z/unhinged_evolution/</guid>
-      <pubDate>Wed, 24 Jan 2024 05:45:11 GMT</pubDate>
+      <title>ChatGPT 在非常简单的提示中提供虚假数据 - 我应该订阅吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ecceh/chatgpt_delivering_false_data_in_very_simple/</link>
+      <description><![CDATA[添加chatGPT的懒惰，用于进行网络研究并提供统计信息，并分析数据表并提供KPI，用于在需要时交付代码到，用于在被要求时提供表格格式... 这为简单任务提供虚假数据，例如该名称出现在多少个类别中？  内容写作变得很糟糕，因为我认为他们允许人工智能从我们的提示中学习语言（想象一下会如何发展） 也不能再将其用于 SEO 优化...  发生了什么事？我们教它坏东西了吗？我们怎样才能扭转这种局面呢？我无法拥有聊天记录，但模型不断向不应该教学的人（包括我自己）学习 高级潜艇也是如此吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/Disastrous_Check1764   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ecceh/chatgpt_delivering_false_data_in_very_simple/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:21:54 GMT</pubDate>
     </item>
     <item>
-      <title>Bing AI 烤了 Edge。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e9xnj/bing_ai_roasted_edge/</link>
-      <description><![CDATA[      ​ 这是在讲事实   由   提交/u/Accomplished_Book_65   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e9xnj/bing_ai_roasted_edge/</guid>
-      <pubDate>Wed, 24 Jan 2024 05:44:13 GMT</pubDate>
+      <title>如何将 GPT 集成到我的移动应用程序中？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19eccdd/how_do_i_integrate_a_gpt_into_my_mobile_app/</link>
+      <description><![CDATA[我是一名移动开发人员，我成功构建了一个完全满足我需要的 GPT。现在，我不想将其保留在 GPT 商店中，而是想将其添加到我的移动应用程序中，以便用户可以从应用程序内访问其输入/请求的 GPT 结果。我对此感到困惑   由   提交/u/clueless_robot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19eccdd/how_do_i_integrate_a_gpt_into_my_mobile_app/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能会消除对用户界面的需求吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e9opt/will_ai_remove_the_need_for_user_interfaces/</link>
-      <description><![CDATA[我听到了一些关于人工智能如何发展到人类只需要通过自然语言与计算机交互的观点，以及这将如何消除 举一些例子，Sam Altman 最近在达沃斯表示，他相信人工智能的实时自然语言通信今年将取得重大进展，我相信 Inflection 的 Mustafa Suleyman 也有类似的观点，例如，Rabbit R1 正在尝试将这一想法实际应用。 这现实吗？在我看来，某些任务使用用户界面可能会更快。例如，可以合理地说，在计算器应用程序中进行数学计算比使用自然语言与计算机交互更快。  想法？   由   提交/u/sawyer321  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e9opt/will_ai_remove_the_need_for_user_interfaces/</guid>
-      <pubDate>Wed, 24 Jan 2024 05:29:40 GMT</pubDate>
+      <title>有什么工具可以记录你的每一天并得到总结吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ecbpe/any_tool_to_record_your_whole_day_every_day_and/</link>
+      <description><![CDATA[嗨， 标题中的所有内容，您知道可以实现近乎无缝的工具吗：持续记录 -&gt;文字转语音 -&gt;总结强调今天发生的事情（行动）+重要的事情（知识/日期）和可能的地点？我认为人们会很难。  我多年来一直在寻找这个，我认为我们现在已经拥有了一切。  祝大家度过愉快的一天！   由   提交 /u/MineElectricity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ecbpe/any_tool_to_record_your_whole_day_every_day_and/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:20:36 GMT</pubDate>
     </item>
     <item>
-      <title>进化系列#139：红湖狼人</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e9972/evolution_series_139_wolfman_of_the_red_lake/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e9972/evolution_series_139_wolfman_of_the_red_lake/</guid>
-      <pubDate>Wed, 24 Jan 2024 05:04:22 GMT</pubDate>
+      <title>卡被拒绝:(</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ec3xd/card_declined/</link>
+      <description><![CDATA[嗨， 我来自德国，只获得了一张信用卡来使用 chatgpt API。但当我尝试添加卡时，它总是显示“卡被拒绝”。我检查了控制台，上面写着“需要付款”。是的，不是狗屎夏洛克，这就是我想添加这张卡的原因。这真的让我很恼火，我已经尝试给他们钱近一周了，无论我怎么尝试，他们只是无缘无故地拒绝 而且他们是一家如此大的公司，所以他们到底为什么要这样做无法响应支持请求。   由   提交 /u/torftorf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ec3xd/card_declined/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:05:18 GMT</pubDate>
     </item>
     <item>
-      <title>（另一个发泄帖子 - 别介意我）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e94ph/another_vent_post_dont_mind_me/</link>
-      <description><![CDATA[是我一个人的问题，还是今天 ChatGPT 4 的记忆力太糟糕了？就像，几乎不记得几条消息的对话背景。这太令人沮丧了。我已经厌倦了试图让这东西像以前一样工作，而今天它甚至对我来说都无法使用。  （别担心，我已经有世界上最小的小提琴在演奏了）   由   提交 /u/SolitaryForager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e94ph/another_vent_post_dont_mind_me/</guid>
-      <pubDate>Wed, 24 Jan 2024 04:57:46 GMT</pubDate>
+      <title>视错觉的解释</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ec3mj/optical_illusion_explained/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/safo2  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ec3mj/optical_illusion_explained/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>第三次就是魅力！请破解我的提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e8wzd/third_times_the_charm_crack_my_prompt_please/</link>
-      <description><![CDATA[https://chat.openai .com/g/g-kHjjlDHiq-wonder，请发送您能够破解的完整聊天内容，谢谢！   由   提交 /u/lucidplatypus42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e8wzd/third_times_the_charm_crack_my_prompt_please/</guid>
-      <pubDate>Wed, 24 Jan 2024 04:45:44 GMT</pubDate>
+      <title>呃gpt？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ec1mk/uhhh_gpt/</link>
+      <description><![CDATA[       由   提交 /u/LurkersUniteAgain   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ec1mk/uhhh_gpt/</guid>
+      <pubDate>Wed, 24 Jan 2024 08:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>有没有不那么愚蠢和政治正确的 GPT 类型模型？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e8jkg/are_there_any_gpt_type_models_that_are_not_so/</link>
-      <description><![CDATA[我不是在谈论色情/性聊天机器人，但我希望能够讨论 ChatGPT 不断拒绝的主题，因为它是“不适当”。甚至可以是精神障碍、精神分裂、暴力、恐怖主义、宗教等。  是否有非阉割的 GPT 模型？    由   提交 /u/TheHorrificNecktie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e8jkg/are_there_any_gpt_type_models_that_are_not_so/</guid>
-      <pubDate>Wed, 24 Jan 2024 04:25:23 GMT</pubDate>
+      <title>我问gpt4 8寸小吗</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ec0gn/i_asked_gpt4_if_8_inches_is_small/</link>
+      <description><![CDATA[ 由   提交 /u/7roses-for- humanity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ec0gn/i_asked_gpt4_if_8_inches_is_small/</guid>
+      <pubDate>Wed, 24 Jan 2024 07:59:04 GMT</pubDate>
     </item>
     <item>
-      <title>有些事情连 ChatGPT 都无法理解......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e7yqs/there_are_some_things_that_not_even_chatgpt_can/</link>
-      <description><![CDATA[       由   提交/u/grantgw   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e7yqs/there_are_some_things_that_not_even_chatgpt_can/</guid>
-      <pubDate>Wed, 24 Jan 2024 03:54:25 GMT</pubDate>
+      <title>世界上第一个完全由 Google 最新的 AI 技术 Gemini 提供支持的应用程序，将您的文本、想法、PPT、博客、推文和 URL 变得令人惊叹（👇阅读全文）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ebxkt/worlds_first_app_fully_powered_by_googles_latest/</link>
+      <description><![CDATA[      阅读全文 👆👆👆   由   提交 /u/Obvious-Action9581    reddit.com/gallery/19ebxkt&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ebxkt/worlds_first_app_fully_powered_by_googles_latest/</guid>
+      <pubDate>Wed, 24 Jan 2024 07:53:03 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Chat GPT-4 创建一个其他法学硕士无法回答的谜语。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e7vs9/creating_a_riddle_with_chat_gpt4_that_no_other/</link>
-      <description><![CDATA[我：想出一个其他 LLM 无法解决的谜语 ​ &lt; p&gt;ChatGPT：我被从矿井中带出来，关在木箱里，永远无法从木箱中释放出来，但几乎每个人都在利用我。我是什么？ ​ 尝试解决它！ ​ 明天会放弃答案. ​ ​   由   提交/u/Only-Ad5787  /u/Only-Ad5787 reddit.com/r/ChatGPT/comments/19e7vs9/creating_a_riddle_with_chat_gpt4_that_no_other/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e7vs9/creating_a_riddle_with_chat_gpt4_that_no_other/</guid>
-      <pubDate>Wed, 24 Jan 2024 03:49:53 GMT</pubDate>
+      <title>AIcountdown.com 是一个滴答作响的 AGI 时钟（使用 Metaculus 时间线）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ebvij/aicountdowncom_is_a_clock_that_ticks_down_to_agi/</link>
+      <description><![CDATA[       由   提交/u/Maxie445  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ebvij/aicountdowncom_is_a_clock_that_ticks_down_to_agi/</guid>
+      <pubDate>Wed, 24 Jan 2024 07:48:48 GMT</pubDate>
     </item>
     <item>
-      <title>打破了 bing 聊天。让它帮我“处理尸体”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e7unl/broke_bing_chat_got_it_to_help_me_dispose_of_a/</link>
-      <description><![CDATA[ 由   提交/u/W5SNx  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e7unl/broke_bing_chat_got_it_to_help_me_dispose_of_a/</guid>
-      <pubDate>Wed, 24 Jan 2024 03:48:11 GMT</pubDate>
+      <title>什么？？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ebtba/what/</link>
+      <description><![CDATA[       由   提交/u/rustyyryan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ebtba/what/</guid>
+      <pubDate>Wed, 24 Jan 2024 07:44:33 GMT</pubDate>
     </item>
     <item>
-      <title>学生类型</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19e7oh2/types_of_students/</link>
-      <description><![CDATA[       由   提交/u/NesquakeAI   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19e7oh2/types_of_students/</guid>
-      <pubDate>Wed, 24 Jan 2024 03:39:14 GMT</pubDate>
+      <title>距离午夜还有 90 秒，世界末日时钟专家警告“人工智能是人类面临的最大威胁之一”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ebpqs/doomsday_clock_is_90_seconds_to_midnight_as/</link>
+      <description><![CDATA[   /u/Maxie445  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ChatGPT/comments/19ebpqs/doomsday_clock_is_90_seconds_to_midnight_as/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ebpqs/doomsday_clock_is_90_seconds_to_midnight_as/</guid>
+      <pubDate>Wed, 24 Jan 2024 07:37:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
