@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 15:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 21:08:35 GMT</lastBuildDate>
     <item>
-      <title>[媒体]这个项目叫做 Servo，是一个用 Ru [...] 编写的开源浏览器引擎。</title>
-      <link>https://t.me/hn_summary/70745</link>
-      <description><![CDATA[用 Rust 编写的开源浏览器引擎&lt; br/&gt;
-这个项目叫做 Servo，是一个用 Rust 语言编写的开源浏览器引擎。目前正在 macOS、Linux、Windows 和 Android 上开发。该项目的目的是提供一个原型 Web 浏览器引擎，可用于开发、基准测试、性能测试或实际使用。作者提到 Servo 是使用 Rust 包管理器 Cargo 构建的，并使用 Mozilla 的 Mach 工具来编排构建和其他任务。它还利用 rustup.rs 自动下载特定版本的 Rust每晚。自述文件提供了如何在不同操作系统上设置和构建 Servo 的说明。]]></description>
-      <guid>https://t.me/hn_summary/70745</guid>
-      <pubDate>Wed, 24 Jan 2024 15:09:47 GMT</pubDate>
+      <title>[媒体] 该项目的目的是创建一个自托管的 GitHub 问题通知程序。</title>
+      <link>https://t.me/hn_summary/70806</link>
+      <description><![CDATA[显示 HN：自托管 GitHub 问题通知程序 
+该项目的目的是创建一个自托管的 GitHub 问题通知程序。它是一个守护进程，用于侦听 GitHub 存储库中的新问题并发送有关它们的电子邮件通知。作者在 Raspberry Pi 4 上运行它来监控他们喜欢贡献的开源存储库。该项目可用于解决 GitHub 存储库中的新问题保持更新的问题，而无需手动检查它们。作者提到该项目可以用作 Docker 容器，也可以作为独立的 Go 二进制文件编译和运行。它还允许配置存储库来监听和过滤问题。该项目需要在 .env 文件中定义 SMTP 服务器变量。欢迎通过拉取请求做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/70806</guid>
+      <pubDate>Wed, 24 Jan 2024 21:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了792年至1392年间日本战争和武器的演变。</title>
-      <link>https://t.me/hn_summary/70744</link>
-      <description><![CDATA[日本战争和武器的演变，792-1392
-本文讨论了从 792 年到 1392 年日本战争和武器的演变。它挑战了武士作为剑客的流行形象，并强调了骑射手在日本历史上的重要性。作者研究了这一时期日本武士使用的武器、盔甲和战术的史学。在日本，关于弩的使用存在争议，对其流行程度有不同的看法。文章还讨论了学者之间关于武士中仪式化、一对一战斗盛行的争论。作者认为，十世纪的战斗是小团体共同作战的复杂组合，而不是大规模步兵或决斗。文章还提到了日本马匹的局限性以及针对箭矢和剑砍的有效装甲的开发。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70744</guid>
-      <pubDate>Wed, 24 Jan 2024 14:59:35 GMT</pubDate>
+      <title>[媒体]文章讨论了半导体制造与技术之间的关系[...]</title>
+      <link>https://t.me/hn_summary/70805</link>
+      <description><![CDATA[Enchippening
+本文讨论了半导体制造与各行业技术进步之间的关系。它解释说，许多技术进步，例如计算机芯片、太阳能电池板和基因组测序设备，都是使用与制造计算机芯片类似的设备和工艺来实现的。该文章强调，了解这些技术如何制造的关键在于了解半导体制造，其中涉及在平坦晶圆上沉积和蚀刻半导体、绝缘体和金属层。作者建议，任何可以简化为扁平矩形层并使用半导体制造方法制造的技术都可以小型化并变得更便宜。文章最后指出，任何可以在芯片上新制造的有用技术都应该被认为是有前途的，并且随着制造工艺的改进，可能会变得更便宜。]]></description>
+      <guid>https://t.me/hn_summary/70805</guid>
+      <pubDate>Wed, 24 Jan 2024 21:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AMD Radeon RX 7600 XT 现已可供购买，审核禁运已[...]</title>
-      <link>https://t.me/hn_summary/70743</link>
-      <description><![CDATA[AMD Radeon RX 7600 XT Linux 性能
-AMD Radeon RX 7600 XT 现已开放购买，并且审核禁运已解除。该显卡专为 1080p/1440p 游戏而设计，与非 XT 型号相比可提供更高的性能。它具有 16GB GDDR6 视频内存、增强的游戏时钟和更高的主板总功率。 Radeon RX 7600 XT 具有与 RX 7600 相同的计算单元和加速器，以及其他标准 AMD RDNA3 显卡功能。它受到 AMD 在 Linux 上的开源驱动程序堆栈的完全支持，并且还有适用于旧发行版的 Radeon Software for Linux 驱动程序。]]></description>
-      <guid>https://t.me/hn_summary/70743</guid>
-      <pubDate>Wed, 24 Jan 2024 14:55:23 GMT</pubDate>
+      <title>[媒体]BLIS 是一个便携式软件框架，用于高性能类似 BLAS 的密集线性代数 [...]</title>
+      <link>https://t.me/hn_summary/70804</link>
+      <description><![CDATA[BLIS：用于基本线性代数例程的新的类似 BLAS 的框架&lt; /a&gt;
+BLIS 是一个便携式软件框架，用于高性能类似 BLAS 的密集线性代数库。它提供了常用和计算密集型操作的优化实现。 BLIS 提供了一个新的类似 BLAS 的 API，并包括用于传统 BLAS 例程调用的 BLAS 兼容层。它是用 ISO C99 编写的，可在 BSD 许可证下使用。该项目因其对数值软件的贡献而获得奖项和认可。 BLIS 通过提供基于对象的 API 和多线程小/瘦矩阵支持和混合数据类型 gemm 操作等功能而脱颖而出。它由德克萨斯大学奥斯汀分校高性能计算科学小组和南卫理公会大学马修斯研究小组开发和维护。 （根据故事文本的 29% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70804</guid>
+      <pubDate>Wed, 24 Jan 2024 21:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一名 61 岁男子因误判而起诉梅西百货和 Sunglass Hut，索赔 1000 万美元 [...]</title>
-      <link>https://t.me/hn_summary/70742</link>
-      <description><![CDATA[梅西百货和 Sunglass Hut 因人脸识别逮捕和起诉，索赔 1000 万美元性侵犯
-一名 61 岁男子因被误逮捕并遭到性侵犯，正在起诉梅西百货和 Sunglass Hut，索赔 1000 万美元。 2022 年，两名男子抢劫了德克萨斯州休斯顿梅西百货内的 Sunglass Hut 售货亭。 Sunglass Hut 母公司 EssilorLuxottica 防损负责人根据面部识别软件确认该男子为嫌疑人之一。该男子被指控犯有另外两起抢劫案。然而，他的律师声称该软件“容易出错且有缺陷”，并且该男子的照片匹配错误。该男子被捕，但他的不在场证据得到证实，所有指控均被撤销。他现在正在寻求恶意起诉、非法监禁和重大过失的赔偿。私营公司使用面部识别技术存在争议，一些人认为这会危及客户，应予以禁止。]]></description>
-      <guid>https://t.me/hn_summary/70742</guid>
-      <pubDate>Wed, 24 Jan 2024 14:49:05 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，作者讨论了曾经被描绘成勇敢的竞争对手的苹果公司如何 [...]</title>
+      <link>https://t.me/hn_summary/70803</link>
+      <description><![CDATA[苹果现在的老大哥
+在本文中，作者讨论了苹果公司（曾经在传奇的超级碗广告中被描绘成 IBM 老大哥的勇敢竞争对手）现在如何因其​​ iOS 应用商店而面临反垄断审查。作者认为，虽然苹果允许开发者使用外部支付链接，但这个过程非常繁琐且成本高昂，基本上没有什么用处。他们强调，苹果的插页式弹出窗口会警告用户潜在风险并跟踪他们的购买情况，类似于 Facebook 的跟踪方案。作者对苹果转型为大佬表示失望，并批评该公司的做法。]]></description>
+      <guid>https://t.me/hn_summary/70803</guid>
+      <pubDate>Wed, 24 Jan 2024 21:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Undermind.ai 很自豪地推出我们的人工智能代理，它可以对所有内容进行深度搜索 [...]</title>
-      <link>https://t.me/hn_summary/70741</link>
-      <description><![CDATA[显示 HN：所有 ML 论文的深度搜索&lt; br/&gt;
-Undermind.ai 很自豪地推出我们的 AI 代理，它可以执行深度搜索所有机器学习论文。我们的代理有能力理解复杂的主题并系统地搜索精确相关的论文。我们的人工智能代理与众不同之处在于它能够解释其收集的论文背后的推理。此功能使用户可以更深入地了解搜索结果。在 app.undermind.ai 上试用我们的 AI 代理亲自体验深度搜索的力量。]]></description>
-      <guid>https://t.me/hn_summary/70741</guid>
-      <pubDate>Wed, 24 Jan 2024 14:45:53 GMT</pubDate>
+      <title>[媒体] 在一项开创性的调查中，404 Media 揭露了 Patte 的内部运作方式 [...]</title>
+      <link>https://t.me/hn_summary/70802</link>
+      <description><![CDATA[监控数十亿用户的全球电话间谍工具内部
+在一项开创性的调查中，404 Media 揭露了 Patternz 的内部运作方式，Patternz 是一种秘密间谍工具，可通过广告行业监控数十亿的手机配置文件。该工具秘密运行，引起了人们对隐私和监视的担忧。谷歌已采取行动回应 404 Media 的询问，但围绕 Patternz 的争议仍然存在。这一揭露揭示了数字时代监控的程度，并强调了提高个人数据透明度和保护个人数据的必要性。]]></description>
+      <guid>https://t.me/hn_summary/70802</guid>
+      <pubDate>Wed, 24 Jan 2024 20:53:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网页内容的作者认为，对于大多数程序员来说，学习 C 语言并不是必要的。</title>
-      <link>https://t.me/hn_summary/70740</link>
-      <description><![CDATA[你（可能）不需要学习 C
-该网页内容的作者认为，对于大多数程序员来说，学习 C 语言并不是必要的。他们反驳了人们普遍认为学习 C 对于理解计算机如何工作、探索有限资源计算机或性能原因很重要的说法。作者指出C是计算机体系结构的抽象，并没有表现出现代CPU的复杂性。他们还认为，像内存分配和指针这样的概念可以在不学习 C 的情况下理解。作者建议程序员应该关注与他们的工作相关的抽象级别，并且只在必要时进行更深入的研究。他们的结论是，学习 C 对于大多数程序员来说并不是必需的，Rust 等其他语言也可以发挥其作用。]]></description>
-      <guid>https://t.me/hn_summary/70740</guid>
-      <pubDate>Wed, 24 Jan 2024 14:45:48 GMT</pubDate>
+      <title>[媒体]该网页内容的作者是一位医生，他创建了一款名为 Lungy 的呼吸应用程序 [...]</title>
+      <link>https://t.me/hn_summary/70801</link>
+      <description><![CDATA[Show HN：我是一名医生，制作了一款呼吸应用程序压力与焦虑-Lungy 2.0
+该网络内容的作者是一位医生，他创建了一款名为 Lungy 2.0 的呼吸应用程序来帮助缓解压力和焦虑。该应用程序包括一项新功能，利用微小的振动来指示何时吸气、呼气或屏住呼吸。作者发现这个功能非常棒，并提到他们甚至可以在入睡之前不看屏幕就使用该应用程序。然而，他们建议使用不同的吸气和呼气信号以避免混淆。总体而言，作者强烈推荐该应用程序。应用程序开发人员对评论做出了回应，感谢作者，并承诺考虑在即将推出的更新中使每个呼吸阶段的振动更加具体。]]></description>
+      <guid>https://t.me/hn_summary/70801</guid>
+      <pubDate>Wed, 24 Jan 2024 20:30:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容是 old.r 上 r/ChatGPT subreddit 的一组规则和指南 [...]</title>
-      <link>https://t.me/hn_summary/70739</link>
-      <description><![CDATA[诈骗 YouTube 广告越来越好
-此网页内容是 old.reddit.com。这些规则涵盖恶意传播、垃圾帖、自我广告和政治讨论等各个方面。我们鼓励用户向版主举报任何违反这些规则的帖子以供审核。该内容还邀请用户加入 Discord 和 Telegram 上的社区。本摘要中没有强调任何争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/70739</guid>
-      <pubDate>Wed, 24 Jan 2024 14:41:39 GMT</pubDate>
+      <title>[媒体]波音公司发布了一批新的内部消息，揭示了员工的担忧[...]</title>
+      <link>https://t.me/hn_summary/70800</link>
+      <description><![CDATA[由猴子监督的小丑设计：波音内部消息 
+波音公司发布了一批新的内部消息，揭示了员工对 737 Max 以及用于培训飞机飞行员的飞行模拟器存在问题的担忧。在一条信息中，一名公司飞行员称这架飞机是“由小丑设计，而小丑又由猴子监督”。这些消息威胁到波音公司重新获得公众对 737 Max 信任的努力，该机型自 3 月份发生两起致命空难以来一直处于停飞状态。美国众议员彼得·德法齐奥称这些电子邮件“令人难以置信”，并指责波音试图逃避审查。波音公司已道歉并声明其对透明度的承诺。]]></description>
+      <guid>https://t.me/hn_summary/70800</guid>
+      <pubDate>Wed, 24 Jan 2024 20:28:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由于强降雨，德克萨斯州和路易斯安那州部分地区正在发生危险的山洪。</title>
-      <link>https://t.me/hn_summary/70738</link>
-      <description><![CDATA[德克萨斯州和路易斯安那州正在发生危险的山洪，更多降雨即将到来&lt; /a&gt;
-由于强降雨，德克萨斯州和路易斯安那州部分地区正在发生危险的山洪。圣安东尼奥、博蒙特和查尔斯湖等城市已发布山洪警报。美国国家气象局警告该地区出现“危及生命的山洪”。洪水威胁预计将扩大到路易斯安那州的更多地区，并到达密西西比州的部分地区。此次强降雨是由墨西哥湾向北涌动的温暖潮湿空气造成的。路易斯安那州和密西西比州的干旱地区降雨总量可能接近两位数。预计降雨将持续一周，并在周五和周六扩大到美国东部。]]></description>
-      <guid>https://t.me/hn_summary/70738</guid>
-      <pubDate>Wed, 24 Jan 2024 14:40:30 GMT</pubDate>
+      <title>此网页内容提供了一系列与 CRT 相关的文章、照片和小册子（Cath [...]</title>
+      <link>https://t.me/hn_summary/70799</link>
+      <description><![CDATA[CRT制造
+此 Web 内容提供了与泰克 CRT（阴极射线管）制造相关的文章、照片和手册的集合。内容跨越20世纪50年代至1990年代，展示CRT生产的各个方面，包括CRT大楼的建造、CRT灯具的制造过程、参与CRT制造的不同部门，以及CRT生产里程碑的纪念。内容还强调了存储 CRT 制造和微型 CRT 制造的终结。令人惊讶的是泰克 CRT 制造的寿命很长，尽管更新的显示技术不断兴起，但它仍持续到 1990 年代。]]></description>
+      <guid>https://t.me/hn_summary/70799</guid>
+      <pubDate>Wed, 24 Jan 2024 20:17:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧盟人工智能法案即将通过，使用人工智能系统的组织将需要[...]</title>
-      <link>https://t.me/hn_summary/70737</link>
-      <description><![CDATA[欧盟签署协议后，科技界很快就会遵守规定人工智能法案关闭
-欧盟的人工智能法案即将通过，使用人工智能系统的组织将需要在紧迫的时间内遵守该立法。根据泄露的信息，企业可能只有 6 到 12 个月的时间来准备大多数规则和限制，鼓励高风险系统提供商更早遵守规定。拟议的法案包括基于不同类别人工智能的交错合规要求。禁止使用，例如生物识别分类系统和基于个人特征的社会评分，需要在六个月内遵守。通用人工智能模型需要满足某些标准，而高风险系统将需要更长的时间来满足。拟议的法案因可能给研究带来负担而受到批评，但监管沙箱可能为开发提供一定的灵活性。]]></description>
-      <guid>https://t.me/hn_summary/70737</guid>
-      <pubDate>Wed, 24 Jan 2024 14:21:18 GMT</pubDate>
+      <title>[媒体]国防部监察长办公室最近进行的一项调查[...]</title>
+      <link>https://t.me/hn_summary/70798</link>
+      <description><![CDATA[白宫有一家药房——而且很乱，新调查发现
+国防部监察长办公室最近的一项调查揭露了白宫药房的相关做法。尽管官员声称这不是药房，但调查发现，该办公室在没有核实患者身份的情况下分发受管制药物，并允许人们从开放的垃圾箱中取出非处方药。调查还发现，由于记录保存不当，浪费了超过 64 万美元的纳税人资金。该报告强调了办公室内部缺乏监督和有毒文化。专家们对调查结果表示严重担忧，表示如果是传统药房，将面临严重后果。]]></description>
+      <guid>https://t.me/hn_summary/70798</guid>
+      <pubDate>Wed, 24 Jan 2024 20:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 你应该打2打8吗？</title>
-      <link>https://t.me/hn_summary/70736</link>
-      <description><![CDATA[你应该选择 2 减 8 吗？
-这篇文章讨论了围绕足球比赛落后 8 分时进行两分转换的策略的争议。作者反驳了普遍认为该策略可将获胜机会增加 12% 以上的观点，并指出更现实的计算表明它仅增加了不到 1% 的机会。作者还批评了幼稚的概率计算，这些计算没有考虑到所有可能性，并假设足球中的所有事件都可以归结为有偏见的抛硬币。他们认为，足球是一项复杂的运动，有多种因素可以影响结果，例如心理和身体因素、动力和策略。作者的结论是，G42D8策略可能是一种心理游戏，但它并不是一个明确的赌注，取决于各种不确定因素。]]></description>
-      <guid>https://t.me/hn_summary/70736</guid>
-      <pubDate>Wed, 24 Jan 2024 14:16:08 GMT</pubDate>
+      <title>[媒体]作者讨论了他们如何将 iPad Pro 变成终极经典 Macintos [...]</title>
+      <link>https://t.me/hn_summary/70797</link>
+      <description><![CDATA[将 iPad Pro 变成终极经典 Macintosh（2021 年）
+作者讨论了他们如何使用 iOS 上提供的 Macintosh 模拟器将 iPad Pro 变成终极的经典 Macintosh。他们对 Mini vMac 和 BasiliskII 这两个模拟器进行了比较，最终选择 BasiliskII 作为获胜者，因为它具有先进的 RAM 和 CPU 模拟以及本机 iOS 界面。作者还解释了两个模拟器中的文件共享过程，其中 BasiliskII 更易于使用。他们提到了原始 Macintosh 的屏幕分辨率以及他们如何在 BasiliskII 中自定义分辨率以匹配 iPad Pro 的显示屏。作者还强调了自定义键盘的使用以及使用 iPad Pro 的好处，例如便携性和对 iOS 和蓝牙键盘等现代功能的访问。他们最后表示，他们的设置为他们提供了新旧世界中最好的东西，使其成为终极经典 Macintosh。]]></description>
+      <guid>https://t.me/hn_summary/70797</guid>
+      <pubDate>Wed, 24 Jan 2024 20:05:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
