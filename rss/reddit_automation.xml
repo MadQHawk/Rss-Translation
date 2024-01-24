@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 23 Jan 2024 21:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:56:04 GMT</lastBuildDate>
+    <item>
+      <title>AutoWP - 使用 ChatGpt 自动编写 WordPress 文章并自动发布</title>
+      <link>https://www.reddit.com/r/automation/comments/19e26ea/autowp_automate_wordpress_articles_writing_with/</link>
+      <description><![CDATA[自从人工智能工具主要出现以来，我就有这个想法很长时间了。上周我决定让它成为现实。 我制作了这个使用 gpt-3.5-turbo 或 gpt-4 模型生成文章的脚本，然后我使用 Rest Api 自动发布文章。  这个想法很简单，所以我把它变得更复杂一些。我添加了一个用于生成关键字（20、50 或 70 个关键字）并将它们保存到文本文件的选项。然后脚本将遍历每个关键字并撰写一篇关于它的文章并发布它。 我还添加了一个选项，让用户选择他想要为每个关键字生成多少篇文章。 &lt;我还不满意，所以我决定制作一个调度程序。理论上，该脚本现在可以“无限期”地发布。用户可以决定每 15 分钟、30 分钟、1 小时……到一周生成多少篇文章。  现在你只需获取一个 vps/rdp，在那里设置程序，就可以构建整个网站。 你可以在此处查看脚本：https://www.youtube.com/watch?v=ZXOUZcLMp4s   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/19e26ea/autowp_automate_wordpress_articles_writing_with/</guid>
+      <pubDate>Tue, 23 Jan 2024 23:18:43 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Make/Chat GPT/Airtable 和 Hey Gen 创建了 28 种语言的 25 分钟视频</title>
       <link>https://www.reddit.com/r/automation/comments/19dwwgd/created_a_25_minute_video_in_28_languages_with/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>有 Visual Cron 用户吗？</title>
       <link>https://www.reddit.com/r/automation/comments/194yb8q/any_visual_cron_users_out_there/</link>
-      <description><![CDATA[嘿 Reddit 自动化社区！当我寻找改进自动化工具的想法时，我正在寻求反馈。我目前正在审查的是 Visual Cron。你们中有人或曾经使用过该工具吗？我很好奇的是：  您喜欢哪些功能，哪些功能可以增强？ 您希望 VC 能够更好地处理或希望完成哪些具体任务提供吗？ 您是否使用 RPA 功能？您的体验如何？  我非常感谢您的任何反馈，请在下面留下您的想法。感谢前系统管理员转型为自动化产品经理的开发人员。   由   提交/u/rovergoes  [链接] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit 自动化社区！当我寻找改进自动化工具的想法时，我正在寻求反馈。我目前正在审查的是 Visual Cron。你们中有人或曾经使用过该工具吗？我很好奇的是：  您喜欢哪些功能，哪些功能可以增强？ 您希望 VC 能够更好地处理或希望完成哪些特定任务提供吗？ 您是否使用 RPA 功能？您的体验如何？  我非常感谢您的任何反馈，请在下面留下您的想法。感谢前系统管理员转型为自动化产品经理的开发人员。   由   提交/u/rovergoes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/194yb8q/any_visual_cron_users_out_there/</guid>
       <pubDate>Fri, 12 Jan 2024 15:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于申请工作的自动网络抓取工具 - 寻找建设性批评</title>
-      <link>https://www.reddit.com/r/automation/comments/194d8oz/an_automated_web_scraper_for_applying_to_jobs/</link>
-      <description><![CDATA[大家好 - 我的团队一直在开发一个使用 Selenium 和 Selenium 的工具。网络抓取代表您申请工作。我们正在寻找测试版用户，使用该工具可以免费发送最多 25 份工作申请，无需任何付款方式或类似方式！该工具名为 ApplyGenie，可以在 applygenie.ai 找到&gt;. 如果有人有兴趣提供一些建议或建设性反馈，我们将不胜感激！   由   提交 /u/Render_Analytics   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/194d8oz/an_automated_web_scraper_for_applying_to_jobs/</guid>
-      <pubDate>Thu, 11 Jan 2024 21:37:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
