@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 00:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 12:18:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该博文宣布 Kagi 的付费会员已达到 20,000 名，其中包括超过 1, [...]</title>
-      <link>https://t.me/hn_summary/70843</link>
-      <description><![CDATA[Kagi 搜索付费会员已达 2 万名
-该博客文章宣布 Kagi 已拥有 20,000 名付费会员，其中包括全球 1,500 多个家庭。该帖子对社区的支持表示感谢，并宣布计划开设商品店。商店上线后，前 20,000 名 Kagi 会员将免费获得 Kagi T 恤和贴纸包。该帖子强调了建立商品项目的挑战以及与塞尔维亚一家小型印刷店合作以确保高品质 T 恤的决定。该帖子还解释说，T 恤是向早期采用者表示感谢和支持会员社区的一种方式。下一个里程碑定为 50,000 名会员。]]></description>
-      <guid>https://t.me/hn_summary/70843</guid>
-      <pubDate>Thu, 25 Jan 2024 00:45:27 GMT</pubDate>
+      <title>题为“成帧：通过操纵传输队列绕过 Wi-Fi 加密”的论文 [...]</title>
+      <link>https://t.me/hn_summary/70898</link>
+      <description><![CDATA[成帧：通过操纵传输队列绕过 Wi-Fi 加密
+题为“Framing Frames：Bypassing Wi-Fi Encryption by Manipulate Transmit Queues”的论文在第 32 届 USENIX 安全研讨会上发表。作者 Domien Schepers、Aanjhan Ranganathan 和 Mathy Vanhoef 讨论了一种通过操纵传输队列来绕过 Wi-Fi 加密的新方法。这项研究强调了 Wi-Fi 网络中可能被攻击者利用的潜在漏洞。该论文提供了有关该技术及其对 Wi-Fi 安全影响的详细信息。该演示视频可在 USENIX 网站上获取，以便进一步探讨该主题。]]></description>
+      <guid>https://t.me/hn_summary/70898</guid>
+      <pubDate>Thu, 25 Jan 2024 12:18:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者首先描述了他们在没有[...]的山脉中跋涉的经历。</title>
-      <link>https://t.me/hn_summary/70842</link>
-      <description><![CDATA[2023年信
-作者首先描述了他们在凯文·凯利和克雷格·莫德的组织下徒步穿越泰国北部山区的经历。他们遇到大象、美丽的风景，并与其他参与者进行深入的对话。作者反思了边走边说成为一种常见活动的想法，但也承认规划这一努力面临的挑战。然后，他们开始讨论在清迈的时光，探索美食和东南亚高原​​。作者还强调了中国公民逃离中国并前往泰国等国寻求庇护的趋势。他们提到了越来越多的中国公民在美墨边境被捕，以及他们希望离开中国的原因。作者最后讨论了清迈的精神实践和迷幻药的可用性。 （根据故事文本的 24% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70842</guid>
-      <pubDate>Thu, 25 Jan 2024 00:36:17 GMT</pubDate>
+      <title>[媒体]文章讨论了加拿大心理学家乔丹·彼得森 (Jordan Peterson) 的受欢迎程度和影响力 [...]</title>
+      <link>https://t.me/hn_summary/70897</link>
+      <description><![CDATA[我们应得的知识
+文章讨论了加拿大心理学家、教授乔丹·彼得森的受欢迎程度和影响力。作者认为彼得森的作品缺乏实质内容，并且充满了模糊和难以理解的语言。他们批评他的书《意义地图》过于复杂且不可证伪，涵盖了广泛的主题而没有提供清晰的见解。尽管如此，彼得森还是赢得了大批追随者，并受到各种媒体和知识分子的赞扬。作者质疑彼得森的作品为何获得如此多的认可，并表示他的模糊性允许多种解释，从而吸引不同的受众。 （根据故事文本的 17% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70897</guid>
+      <pubDate>Thu, 25 Jan 2024 11:52:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“整数映射数据结构”是一个为s [...]提供新数据结构的项目</title>
-      <link>https://t.me/hn_summary/70841</link>
-      <description><![CDATA[显示HN：整数映射数据结构
-“整数映射数据结构”是一个项目，它提出了一种用于存储有序整数映射的新数据结构。它的目标是在 x-&gt;y 映射上高效地执行查找、分配、删除和迭代操作，其中 x 和 y 是整数。所提出的数据结构是一种压缩的、缓存友好的基数树，可以最大限度地减少内存访问和存储需求。它的性能与无序映射相当，并且比有序映射快得多。该项目的独特之处在于使用具有 4 位决策而不是 1 位决策的基数树，对内部指针和存储值采用压缩方案，并优化缓存对齐和空间局部性。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70841</guid>
-      <pubDate>Thu, 25 Jan 2024 00:30:08 GMT</pubDate>
+      <title>[媒体]冒充乔·拜登的虚假机器人电话消息引起了选举专家的警惕 [...]</title>
+      <link>https://t.me/hn_summary/70896</link>
+      <description><![CDATA[新罕布什尔州的虚假拜登机器人电话消息向选举专家发出警报 
+一条冒充乔·拜登的虚假机器人电话消息引起了新罕布什尔州选举专家的警惕。该电话谎称来自拜登竞选团队，敦促选民在选举日呆在家里，因为排长队和担心 COVID-19。选举官员担心这种误导性信息可能会抑制选民投票率并破坏选举过程的完整性。虽然机器人电话用于政治目的的情况并不少见，但使用总统候选人的虚假信息尤其令人担忧。当局正在调查电话来源，并努力防止今后发生类似事件。]]></description>
+      <guid>https://t.me/hn_summary/70896</guid>
+      <pubDate>Thu, 25 Jan 2024 11:42:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 此网页内容是对 Django 开发人员的轻量级 JavaScript 框架的回顾。</title>
-      <link>https://t.me/hn_summary/70840</link>
-      <description><![CDATA[轻量级 JavaScript 框架回顾（针对 Django 开发人员）&lt; br /&gt;
-此 Web 内容是对 Django 开发人员的轻量级 JavaScript 框架的回顾。作者讨论了各种框架，包括 Phoenix LiveView、Laravel Livewire、Hotwire（Turbo、Stimulus）、StimulusReflex、Catalyst、HTMX、Unpoly、Alpine.js、Django Reactor、Django Unicorn、django-sockpuppet 和 Tetra。作者强调了这篇文章的独特性，它不仅比较了 Django 社区内的解决方案，还比较了 Phoenix、Rails 和 Laravel 等其他社区的解决方案。作者解释了每个框架的特性和功能，包括它们使用 WebSockets、HTTP 和 AJAX 进行客户端和服务器之间的双向通信。作者还提到了Phoenix LiveView中Elixir的使用以及Laravel社区中Livewire与Alpine.js的结合。这篇文章最后提到了 StimulusReflex 和 Turbo Stream 在 Rails 中的使用以及它们通过 django-sockpuppet 等项目移植到 Django。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70840</guid>
-      <pubDate>Thu, 25 Jan 2024 00:21:59 GMT</pubDate>
+      <title>[媒体]18世纪奥西斯史诗的发现被誉为重大l [...]</title>
+      <link>https://t.me/hn_summary/70895</link>
+      <description><![CDATA[Ossian，“北方荷马”，最伟大的文学骗局(2016)
+18世纪奥西安史诗的发现被誉为一项重大文学发现，激发了浪漫主义运动并吸引了上流社会。然而，这部作品的真实性很快就受到质疑，文学巨匠塞缪尔·约翰逊谴责它是伪造的。现在，科学家们利用数学技术将奥西斯中的人物社交网络与两个爱尔兰故事中的人物社交网络进行了比较，发现它们几乎是完美的匹配。这有力地表明，奥西安确实是一个骗局，是詹姆斯·麦克弗森为了迎合英国精英对古典希腊和罗马的迷恋而改编爱尔兰民间传说而创造的。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70895</guid>
+      <pubDate>Thu, 25 Jan 2024 11:42:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联邦航空管理局 (FAA) 已叫停波音公司进一步 [...]</title>
-      <link>https://t.me/hn_summary/70839</link>
-      <description><![CDATA[美国联邦航空局暂停波音进一步提高最大产量&lt; br /&gt;
-美国联邦航空管理局 (FAA) 暂停了波音进一步增加陷入困境的 737 Max 飞机产量的计划。美国联邦航空局对飞机的安全表示担忧，并希望确保在允许增加产量之前采取所有必要的措施。这一决定是在 737 Max 发生两起致命事故之后做出的，事故导致该飞机在全球范围内停飞。波音公司一直致力于软件更新和其他修改，以解决导致坠机的问题。美国联邦航空局的决定被视为波音公司从危机中恢复的努力的挫折。]]></description>
-      <guid>https://t.me/hn_summary/70839</guid>
-      <pubDate>Thu, 25 Jan 2024 00:01:45 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了一本 13 世纪的阿拉伯食谱，名为“餐桌上的剩余食物 [...]</title>
+      <link>https://t.me/hn_summary/70894</link>
+      <description><![CDATA[一本 13 世纪的阿拉伯食谱揭示了安达卢斯的烹饪生活
+这篇文章讨论了一本 13 世纪的阿拉伯食谱，名为《餐桌上的剩余食物和菜肴》，由安达卢斯学者伊本·拉辛·图吉比 (Ibn Razīn al-Tujībī) 撰写。这本烹饪书最近由英国食品历史学家丹尼尔·纽曼翻译，题为《流亡者的烹饪书》，深入了解了穆斯林统治期间安达卢斯的烹饪生活。 Al-Tujībī 的食谱反映了精英阶层的美食，以肉类为主的菜肴为主，但也包括社会各阶层都会吃的菜肴。该食谱还强调了安达卢西亚美食中 murri（一种类似于酱油的发酵酱）的使用以及鸡蛋的丰富性。]]></description>
+      <guid>https://t.me/hn_summary/70894</guid>
+      <pubDate>Thu, 25 Jan 2024 11:29:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]宗教“无信仰者”现在是美国最大的单一群体</title>
-      <link>https://t.me/hn_summary/70838</link>
-      <description><![CDATA[宗教“无信仰者”现在是美国最大的单一群体&lt; /a&gt;
-皮尤研究中心的一项新研究显示，无宗教信仰的人（也称为“无信仰者”）目前占美国成年人的 28%，超过了天主教徒或福音派新教徒的数量。无神论者包括无神论者、不可知论者和那些认为他们的宗教“没什么特别的”的人。虽然大多数无人信仰上帝或更高的力量，但很少有人参加宗教仪式。他们对科学有更积极的看法，拒绝科学可以解释一切的观点。 Nones 的增长可能会对美国的公共生活产生影响，因为他们是美国最自由和民主的选区之一。然而，与有宗教信仰的成年人相比，他们在当地社区投票和做志愿者的可能性较小。这些人大多是年轻的白人男性，但群体内部存在基于无神论者、不可知论者或“没什么特别的”自我认同的差异。女性更有可能将自己的宗教描述为“没什么特别的”，而男性则更有可能认为自己是无神论者或不可知论者。]]></description>
-      <guid>https://t.me/hn_summary/70838</guid>
-      <pubDate>Wed, 24 Jan 2024 23:52:35 GMT</pubDate>
+      <title>[媒体]在本文中，作者讨论了 Tom Meurs 进行的一项研究的结果，[...]</title>
+      <link>https://t.me/hn_summary/70893</link>
+      <description><![CDATA[谁付费以及为什么付费：研究人员检查勒索软件受害者的心态&lt; /a&gt;
+在本文中，作者讨论了特温特大学网络犯罪研究员 Tom Meurs 进行的一项关于勒索软件受害者心态的研究结果。该研究分析了向荷兰警方报告的 382 起勒索软件攻击的数据以及事件响应人员提供的近 100 起攻击的信息。研究发现，与第三方事件响应公司合作的公司更有可能支付赎金。在攻击中拥有保险或数据泄露与支付更高的赎金相关，但不一定与首先支付赎金有关。拥有备份数据的公司支付赎金的可能性较小，但当他们支付赎金时，他们会支付更多费用。研究还显示，信息技术行业的公司是勒索软件攻击者最有利可图的目标。]]></description>
+      <guid>https://t.me/hn_summary/70893</guid>
+      <pubDate>Thu, 25 Jan 2024 11:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员发现，跳蛛尽管大脑很小，但表现出[...]</title>
-      <link>https://t.me/hn_summary/70837</link>
-      <description><![CDATA[研究人员发现跳蛛具有智力迹象
-研究人员发现，尽管跳蛛的大脑很小，但它们却表现出智力和复杂行为的迹象。人们发现这些蜘蛛，特别是波蒂亚属蜘蛛，具有非凡的认知能力，例如利用视觉能力来寻找和跟踪猎物，根据其他蜘蛛的行为调整狩猎策略，以及规划复杂的路线以到达目标。它们还可以形成对周围环境的心理表征，并且能够学习和调整狩猎技术。这些发现挑战了大脑大小决定智力的假设，并强调了小型动物认知能力的复杂性。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/70837</guid>
-      <pubDate>Wed, 24 Jan 2024 23:51:28 GMT</pubDate>
+      <title>[媒体] 一个包含 260 亿条泄露记录的庞大数据库被发现，为其赢得了 ti [...]</title>
+      <link>https://t.me/hn_summary/70892</link>
+      <description><![CDATA[“违规之母”中已泄露 26B 条记录
+一个包含 260 亿条泄露记录的庞大数据库被发现，并赢得了“所有泄露之母”的称号。然而，情况并不像听起来那么可怕。这次泄露实际上是以前泄露的数据的汇编，不包含任何新信息。虽然个人数据在网上暴露仍然令人担忧，但那些一直保持安全的人应该不会比以前更担心。保持警惕并更新安全措施（例如更改密码）非常重要。这次泄密事件严重影响了腾讯、微博、MySpace、Twitter 和 Wattpad 等公司以及政府组织。 Have I Been Pwned 等工具可以帮助确定一个人是否受到数据泄露的影响。]]></description>
+      <guid>https://t.me/hn_summary/70892</guid>
+      <pubDate>Thu, 25 Jan 2024 11:23:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容提供了算盘的简要历史，从最早的算盘开始 [...]</title>
-      <link>https://t.me/hn_summary/70836</link>
-      <description><![CDATA[算盘：珠之谜 (2004)&lt; br /&gt;
-该网页内容提供了算盘的简要历史，从最早的由粘土或木头和沙子或卵石制成的算盘开始。它讨论了巴比伦、希腊和罗马等古代文明中算盘的使用。内容还提到了罗马人发明的手算盘及其可能传入中国。它还讨论了不同文化中使用的不同类型的算盘，包括玛雅人、阿兹特克人、中国人、日本人和俄罗斯人。内容最后强调了算盘在当今的持续使用及其在算术教学和发展思维能力方面的好处。 （根据故事文本的 13% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70836</guid>
-      <pubDate>Wed, 24 Jan 2024 23:36:18 GMT</pubDate>
+      <title>[媒体] Scarfolk Council 网站讲述了数十人失踪的令人毛骨悚然的故事 [...]</title>
+      <link>https://t.me/hn_summary/70891</link>
+      <description><![CDATA[伤民委员会
+斯卡福克委员会网站讲述了 1976 年斯卡福克高中数十名儿童失踪的令人毛骨悚然的故事。仅仅三天后，这些孩子就被宣布死亡，每年，警方都会向他们的父母发送一份草图，说明失踪的孩子可能会如何度过。看看他们是否没有消失。 1979 年，一位家长注意到其中一幅草图上有一个暗号，结果发现了 347 名儿童被关在艺术家的工作室里。警方扣押了这些孩子作为证据，但案件从未上法庭，孩子们在警方抽奖中作为奖品被赠送。这位艺术家原来是警察局长的儿子。]]></description>
+      <guid>https://t.me/hn_summary/70891</guid>
+      <pubDate>Thu, 25 Jan 2024 10:44:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容是关于一个名为 webperfdemo.com 的网站，该网站展示了 [...]</title>
-      <link>https://t.me/hn_summary/70835</link>
-      <description><![CDATA[展示 HN：4 分钟速度优化
-网络内容是关于一个名为 webperfdemo.com 的网站，该网站展示了速度优化过程只需四分钟。作者强调了拥有快速网站的好处，包括提高业务绩效、用户满意度、环境友好性、成本效益和可访问性。该网站允许用户通过实施最佳实践将缓慢的页面转变为更快的页面。内容还提到该网站是由 Shane Niebergall 创建并受到 Jeremy Thomas 的启发。作者最后表达了与读者聊天的兴趣。]]></description>
-      <guid>https://t.me/hn_summary/70835</guid>
-      <pubDate>Wed, 24 Jan 2024 23:34:09 GMT</pubDate>
+      <title>西澳大利亚大学的植物生物学家发现许多抗疟药物 [...]</title>
+      <link>https://t.me/hn_summary/70890</link>
+      <description><![CDATA[治疗疟疾的化学品也能杀死杂草（2017）
+西澳大利亚大学的植物生物学家发现，许多抗疟药也可以是有效的除草剂。这一发现建立在 20 世纪 90 年代的联系之上，当时发现除草剂会干扰疟疾寄生虫的生长过程。这项发表在《科学报告》上的研究表明，抗疟药物的广泛知识可以应用于开发新的除草剂。该研究得到了澳大利亚研究委员会的支持。这一发现可能会导致开发出作用不同或具有不同目标的新型除草剂，从而解决现代农业对新型除草剂的迫切需求。]]></description>
+      <guid>https://t.me/hn_summary/70890</guid>
+      <pubDate>Thu, 25 Jan 2024 10:40:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了太空战斗模拟游戏的衰落并强调了[...]</title>
-      <link>https://t.me/hn_summary/70834</link>
-      <description><![CDATA[X-Wing 是视频游戏的希腊之火
-本文讨论了太空战斗模拟游戏的衰落，并重点介绍了《X-Wing》游戏作为该类型的杰出例子。它强调 X-Wing 提供的完美飞行机制以及精确度和速度感，这使其与其他太空战斗游戏区分开来。作者对太空格斗游戏的现状表示失望，他们认为这些游戏已经忽视了 X 翼如此伟大的原因。他们希望未来的工作室能够捕捉 X 翼的魔力，并向新一代介绍快速、流畅的太空战斗的乐趣。]]></description>
-      <guid>https://t.me/hn_summary/70834</guid>
-      <pubDate>Wed, 24 Jan 2024 23:21:58 GMT</pubDate>
+      <title>[媒体] 本文介绍了一种名为自动扭线钳的新型手动工具的想法。</title>
+      <link>https://t.me/hn_summary/70889</link>
+      <description><![CDATA[新手动工具的创意：自动扭线钳
+本文介绍了一种名为自动扭线钳的新型手动工具的想法。它旨在解决的问题是手动将电线或安全线拧在一起的不便。建议的解决方案是一把带有棘轮旋转头和活塞臂的钳子，可以一次将头旋转 360°。与现有方法相比，该钳子通过弹簧自动复位，并提供更高的速度和可重复性。该文章包括现有绞线器的图片，并提出了一种使用手摇手电筒机构的设计。作者还提到了相关产品，并提供了 Hacker News 讨论的链接。]]></description>
+      <guid>https://t.me/hn_summary/70889</guid>
+      <pubDate>Thu, 25 Jan 2024 10:21:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

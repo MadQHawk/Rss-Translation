@@ -4,11 +4,67 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 25 Jan 2024 09:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 12:25:06 GMT</lastBuildDate>
+    <item>
+      <title>Tim Bennetto – 独立创始人，自学编程后创建了价值 7.4 万美元 MRR 的社交媒体工具</title>
+      <link>https://feed.indiehackers.world/post/dc9181f409</link>
+      <description><![CDATA[
+注意：这对 Tim 有效的原因是因为市场 a) 正在增长，b) 足够大，可以避免价格竞争。即使存在这样的价格压力，作为一个没有巨额管理费用的个体企业家，蒂姆在某种程度上也能免受影响。
+快速移动
+Tim 希望他的客户相信 Pallyy（他！）背后的团队能够不断修复错误并推出新功能。事实上，我听说新通讯工具 Beehiiv 的创始人讨论了从现有工具中赢得用户的相同策略。
+我们的想法是，即使您的工具还不是市场上最好的，您也可以让您的客户有理由相信您最终会成为最好的。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/dc9181f409</guid>
+      <pubDate>Thu, 25 Jan 2024 11:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立人工智能项目？使用基于信用的计费。这就是为什么</title>
+      <link>https://feed.indiehackers.world/post/f5bb4e89ad</link>
+      <description><![CDATA[如果您不知道如何实施基于信用的计费系统或者懒得构建一个系统怎么办？ 
+这就是 StripeCredits 的用武之地。这是一款 Stripe 应用程序，可让您将基于信用的计费系统无缝集成到您的平台中。 
+所以走出去，开始向客户正确收费！
+如果您喜欢阅读本文，请随时在 twitter 上关注我
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f5bb4e89ad</guid>
+      <pubDate>Thu, 25 Jan 2024 10:52:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>F'*！# 密码。获取密码！</title>
+      <link>https://feed.indiehackers.world/post/9ff5ff746b</link>
+      <description><![CDATA[通过 Corbado，我们提供密钥即服务：
+我们的产品使开发人员能够项目经理可以轻松快速地在任何现有应用程序或网站中实施密钥。
+我们正在进行 Product Hunt 活动，感谢您的支持：🚀
+www.producthunt.com/posts/corbado
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9ff5ff746b</guid>
+      <pubDate>Thu, 25 Jan 2024 10:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carbon - 目录主题。使用 Astro 和 Tailwind CSS 构建</title>
+      <link>https://feed.indiehackers.world/post/aa907eca3a</link>
+      <description><![CDATA[Carbon - 目录主题。
+使用 Astro 构建顺风CSS
+包括：
+– 第 26 页
+– 第 80+ 节
+– 组件 100+
+观看直播并了解更多信息：→
+
+https://lexingtonthemes.com/info/carbon/
+
+充满活力的深色布局，带有充满活力的橙色色调，专为创意目录网站而设计。它具有大胆的印刷元素和动态视觉效果。
+
+
+
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/aa907eca3a</guid>
+      <pubDate>Thu, 25 Jan 2024 09:44:32 GMT</pubDate>
+    </item>
     <item>
       <title>会计GPT</title>
       <link>https://feed.indiehackers.world/post/3419d0ec0a</link>
-      <description><![CDATA[大多数企业使用带有报告的会计工具。在这个 ChatGPT 和生成式人工智能时代，人们通过在 ChatGPT 中提问来节省宝贵的时间，但决策者仍然依赖各种报告来做出明智的决策。此过程非常耗时，尤其是考虑到获取这些报告所需的时间。
+      <description><![CDATA[大多数企业使用带有报告的会计工具。在这个 ChatGPT 和生成式人工智能的时代，人们通过在 ChatGPT 中提问来节省宝贵的时间，但决策者仍然依赖各种报告来做出明智的决策。此过程非常耗时，尤其是考虑到获取这些报告所需的时间。
 这就是 AccountingGPT 诞生的原因。企业主可以连接他们的会计工具并快速开始获得所有问题的答案，就像他们在 ChatGPT 中提问一样。
 我们很乐意听到您的想法和意见！
 此外，有关加入等待名单的登陆页面的反馈也会非常有帮助！
@@ -22,7 +78,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>寻找会计 GPT 的 Beta 测试人员</title>
       <link>https://feed.indiehackers.world/post/3350a1d5c4</link>
       <description><![CDATA[我们 AccountingGPT 正在为您的会计工具添加生成式 AI 功能。
-实现的 2 个步骤：
+实现的两个步骤：
 1.将您现有的会计应用程序与会计GPT连接
   2.询问有关财务的任何问题并获得答案。就好像有一个 24/7 的财务团队将您的财务掌握在他们的指尖。
 我们正在寻找有兴趣的 Beta 测试人员。请填写表格，以便我们加入我们的 Beta 测试用户。
@@ -36,7 +92,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>寻找 AccountingGPT 的 Beta 测试人员</title>
       <link>https://feed.indiehackers.world/post/eea9453bd3</link>
       <description><![CDATA[我们 AccountingGPT 正在为您的会计工具添加生成式 AI 功能。
-实现的 2 个步骤：
+实现的两个步骤：
 
 将您现有的会计应用与会计 GPT 连接
 提出有关财务的任何问题并获得答案。就好像有一个 24/7 的财务团队将您的财务掌握在他们的指尖。
@@ -52,7 +108,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>正在寻找 AccoutingGPT 的 Beta 测试人员！</title>
       <link>https://feed.indiehackers.world/post/38b21969a3</link>
       <description><![CDATA[我们 AccountingGPT 正在为您的会计工具添加生成式 AI 功能。
-实现的 2 个步骤：
+实现的两个步骤：
 将您现有的会计应用程序与会计 GPT 连接
 提出有关财务的任何问题并获得答案。就好像有一个 24/7 的财务团队将您的财务掌握在他们的指尖。
 
@@ -81,7 +137,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[
 受到与您当前目标相符的每日励志名言的激励
 通过时间限制克服拖延症。 Tobi（Shopify 首席执行官）使用时间盒来克服帕金森定律。我个人认为时间盒也是一种有效的方法。时间范围、截止日期、截止日期提醒和任务持续时间功能可以很好地协同工作，帮助您及时完成任务
-每周、每月和每年的回顾可帮助您回顾进度、正确的计划、保持积极性并专注于下一步的成功
+每周、每月和每年的回顾可帮助您回顾进展情况、正确的计划、保持积极性并专注于下一步的成功
 我的应用程序链接：https://goalfocus.io/
 
 Discord 独立黑客聊天广告这里]]></description>
@@ -124,7 +180,7 @@ Discord 独立黑客聊天广告这里]]></description>
 讨论这个故事。 
 新闻中📰
 
-来自增长趋势时事通讯
+摘自增长趋势时事通讯
 📝 TikTok 有效广告指南出价策略。
 🔎广泛定位失败时该怎么办。
 💲 链接到您的产品在这里。我们最实惠的广告。
@@ -138,51 +194,6 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dd6f23c8c1</guid>
       <pubDate>Thu, 25 Jan 2024 01:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据八年发送冷邮件的经验，如何改进冷外展游戏。</title>
-      <link>https://feed.indiehackers.world/post/03594dfbd8</link>
-      <description><![CDATA[跟进者是你的朋友。 
-在您了解他们是否对您的电子邮件感兴趣之前，1-2 次跟进就足够了。 
-C.有些对话不在收件箱内 - 有些潜在客户在 Linkedin、Reddit、Slack、ProductHunt 上更加活跃。 
-尝试其他沟通媒介以最大限度地提高效率。
-D.不要热情洋溢——最好的电子邮件是对话的开场白。尝试像与朋友交谈一样发送电子邮件。 
-最后，总是有实验的空间
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/03594dfbd8</guid>
-      <pubDate>Thu, 25 Jan 2024 01:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ottehr：我们的开源电子健康记录 (EHR)</title>
-      <link>https://feed.indiehackers.world/post/758572436d</link>
-      <description><![CDATA[奥特：https://www.ottehr.com/
-路线图：https://www.ottehr.com/#rivermap
-立即分叉：https://github.com/masslight/ottehr
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/758572436d</guid>
-      <pubDate>Wed, 24 Jan 2024 21:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的目标网页有何想法？ （中型和子堆栈竞争对手）</title>
-      <link>https://feed.indiehackers.world/post/466173045f</link>
-      <description><![CDATA[我为程序员和科学家构建了一个基于 Markdown 的写作平台。
-想法？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/466173045f</guid>
-      <pubDate>Wed, 24 Jan 2024 20:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snowbuild - 更便宜的自托管 GitHub Actions Runners</title>
-      <link>https://feed.indiehackers.world/post/bedba35c16</link>
-      <description><![CDATA[大家好，
-我们正在寻找 https://snowbuild.dev 的反馈和一些初始测试人员，这是一个自行托管您自己的 GitHub Actions 运行器的平台成本仅为 GitHub Runners 的一小部分。该平台目前处于测试阶段，但功能相当可靠。
-我们目前为 Ubuntu 运行者提供 Windows 和 Mac 操作系统，即将推出。我正在寻找有关入职流程、产品实用性以及产品本身的反馈。 
-设置很简单，只需使用您的 GitHub 帐户登录、设置计费并将我们的标签添加到您的 GitHub 操作中即可开始破解。 
-如果您有任何想法或意见，请加入我们的discord：https://discord.com/invite/KZum6jnC或发送电子邮件我们的c&amp; #111;ntact@snowbu ;ild.dev.
-这篇文章的前 10 位订阅者在结帐时使用代码 INDIE30 可以在前 3 个月内每月获得 10 美元的积分。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/bedba35c16</guid>
-      <pubDate>Wed, 24 Jan 2024 20:41:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

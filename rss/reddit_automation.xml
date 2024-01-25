@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 25 Jan 2024 09:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 12:23:07 GMT</lastBuildDate>
     <item>
       <title>AutoWP V1 - 自动化您的 WordPress</title>
       <link>https://www.reddit.com/r/automation/comments/19evim6/autowp_v1_automate_your_wordpress/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>自动化帮助！！！</title>
       <link>https://www.reddit.com/r/automation/comments/19b70br/automation_help/</link>
-      <description><![CDATA[我一直在尝试使用 Vs code 让此代码在我的 POP 操作系统上运行，但它不起作用，我需要帮助 &lt; h1&gt;导入所需模块 from selenium import webdriver from selenium.webdriver.common.by import By from selenium.webdriver.support.ui import WebDriverWait from selenium.webdriver.support import Expected_conditions as EC import Traceback&lt; /p&gt; 定义 URL 和浏览器选项 url = &#39;https://faucetearner.org/faucet .php&#39; options = webdriver.ChromeOptions() options.binary_location = &#39;chromedriver.exe&#39; 添加分离选项以防止关闭浏览器 options.add_experimental_option( “detach”, True) 创建 Chrome 驱动程序对象 driver = webdriver.Chrome(options=options) 将页面加载超时设置为 30秒 driver.set_page_load_timeout(30) 打开水龙头页面 driver.get(url) 创建一个类水龙头页面 class FaucetPage: # 定义网页元素的定位器 reqbtn = (By.CLASS_NAME, &quot;reqbtn&quot;)alert_ok = (By.ID, &quot; ;alert_ok&quot;) # 初始化驱动和页面 def __init__(self, driver): self.driver = driver self.driver.get(url) # 定义点击请求按钮的方法 def click_reqbtn(self): # 等待按钮可点击 WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable(self.reqbtn)) # 点击按钮 self.driver.find_element(*self.reqbtn).click() # 定义点击方法警报 OK 按钮 def click_alert_ok(self): # 等待按钮可见 WebDriverWait(self.driver, 10).until(EC.visibility_of_element_ located(self.alert_ok)) # 单击按钮 self.driver.find_element(*self .alert_ok).click()  创建faucet页面的实例 faucet_page = FaucetPage(driver) 使用try/ except块来处理任何异常 try: # 使用 while 循环重复操作 while True: # 单击请求按钮 faucet_page.click_reqbtn() # 单击警报 OK 按钮 faucet_page.click_alert_ok() except KeyboardInterrupt: # 打印一条消息并退出驱动程序 print(“自动化已被用户停止。”) driver.quit() except Exception as e: # 打印错误消息和堆栈跟踪 print(“发生错误:”, e) traceback.print_exc() # 优雅地退出驱动 driver.quit()   由   提交/u/Gen-Zed-7547   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在尝试使用 Vs code 让此代码在我的 POP 操作系统上运行，但它不起作用，我需要帮助 &lt; h1&gt;导入所需模块 from selenium import webdriver from selenium.webdriver.common.by import By from selenium.webdriver.support.ui import WebDriverWait from selenium.webdriver.support import Expected_conditions as EC import Traceback&lt; /p&gt; 定义 URL 和浏览器选项 url = &#39;https://faucetearner.org/faucet .php&#39; options = webdriver.ChromeOptions() options.binary_location = &#39;chromedriver.exe&#39; 添加分离选项以防止关闭浏览器 options.add_experimental_option( “detach”, True) 创建 Chrome 驱动程序对象 driver = webdriver.Chrome(options=options) 将页面加载超时设置为 30秒 driver.set_page_load_timeout(30) 打开水龙头页面 driver.get(url) 创建一个类水龙头页面 class FaucetPage: # 定义网页元素的定位器 reqbtn = (By.CLASS_NAME, &quot;reqbtn&quot;)alert_ok = (By.ID, &quot; ;alert_ok&quot;) # 初始化驱动和页面 def __init__(self, driver): self.driver = driver self.driver.get(url) # 定义点击请求按钮的方法 def click_reqbtn(self): # 等待按钮可点击 WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable(self.reqbtn)) # 点击按钮 self.driver.find_element(*self.reqbtn).click() # 定义点击方法警报 OK 按钮 def click_alert_ok(self): # 等待按钮可见 WebDriverWait(self.driver, 10).until(EC.visibility_of_element_ located(self.alert_ok)) # 单击按钮 self.driver.find_element(*self .alert_ok).click()  创建faucet页面的实例 faucet_page = FaucetPage(driver) 使用try/ except块来处理任何异常 try: # 使用 while 循环重复操作 while True: # 单击请求按钮 faucet_page.click_reqbtn() # 单击警报 OK 按钮 faucet_page.click_alert_ok() except KeyboardInterrupt: # 打印一条消息并退出驱动程序 print(&quot;自动化已被用户停止。&quot;) driver.quit() except Exception as e: # 打印错误消息和堆栈跟踪 print(&quot;发生错误:&quot;, e) traceback.print_exc() # 优雅地退出驱动 driver.quit()   由   提交/u/Gen-Zed-7547   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/19b70br/automation_help/</guid>
       <pubDate>Sat, 20 Jan 2024 08:16:19 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>新加入者 - 访问自动消息</title>
       <link>https://www.reddit.com/r/automation/comments/19788iz/new_joiners_access_auto_message/</link>
-      <description><![CDATA[我会在这里尽量简短。  目前的情况：如果我们有新员工，HR 会与 IT 部门共享姓名，为他们创建电子邮件，并允许他们访问我们正在使用的 OSS 应用程序，并且会有基本的信息他们将需要的系统。前任;票务系统 - 人力资源系统 - 松弛 - 缩放  想法：我们希望自动化这个过程。也许将 OSS 与我们的数据仓库集成，并设置一个触发器，每当我们有新员工时，它就会自动创建帐户。并且根据可能性级别，访问权限将有所不同：管理员 - 查看者 - .. 等 这可能吗？如果是，有哪些工具可以帮助我实现目标？   由   提交/u/Fuzzy-Example-7326   [链接] [评论]]]></description>
+      <description><![CDATA[我会在这里尽量简短。  目前的情况：如果我们有新员工，HR 会与 IT 部门共享姓名，为他们创建电子邮件，并允许他们访问我们正在使用的 OSS 应用程序，并且会有基本的信息他们需要的系统。前任;票务系统 - 人力资源系统 - 松弛 - 缩放  想法：我们希望自动化这个过程。也许将 OSS 与我们的数据仓库集成，并设置一个触发器，每当我们有新员工时，它就会自动创建帐户。并且根据可能性级别，访问权限将有所不同：管理员 - 查看者 - .. 等 这可能吗？如果是，有哪些工具可以帮助我实现目标？   由   提交/u/Fuzzy-Example-7326   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/19788iz/new_joiners_access_auto_message/</guid>
       <pubDate>Mon, 15 Jan 2024 13:03:39 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>SWE 与 AI：谁来实现自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/</link>
-      <description><![CDATA[TL;DR：人工智能可能会取代软件工程师的工作。人工智能工程师会成为下一个大事件，还是医学院是逃生舱口？ 童年的梦想和自动机的幽灵 还记得我父亲的那位建筑师朋友吗？他是我们的神，他的工程创造了一个神话般的天堂。钱就像他画的汇票一样流动。那时，我认为“建筑师=富有”，老实说，这并不总是正确的。但种子已经种下：创意领域预示着财富。 快进，现实咬牙切齿。我不是达芬奇的重生，所以建筑不是我的道路。但我目睹了一些令人着迷的事情：自动化。 AutoCAD 摧毁了一个工程领域，将五个 30 天的项目变成了一日奇迹。电网也感受到了同样的刺痛。 ETAP + 1 名工程师 + 5 名技术人员现在已经征服了曾经需要 30 名的人员。 SWE 是下一个冲锋线吗？ 现在，人工智能日益凸显。那些奇特的模型和它们的应用程序工厂……我不知道它们什么时候能达到峰值效率，但 10 年感觉很慷慨。猜猜谁自动化了所有其他领域？是的，软件工程师。所以，轮到他们面对现实了。 回想起来，20 年前，成为一名 SWE 意味着扮演自动化木偶师。但现在，问题依然悬而未决：谁来实现自动化？人工智能工程师是下一个淘金热吗？这是摆脱即将被遗忘的软件的出路吗？或者我们应该收拾行李去医学院？ 我没有答案。   由   提交 /u/Which-Distance1384    reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[TL;DR：人工智能可能会取代软件工程师的工作。人工智能工程师会成为下一个大事件，还是医学院是逃生舱口？ 童年的梦想和自动机的幽灵 还记得我父亲的那位建筑师朋友吗？他是我们的神，他的工程创造了一个神话般的天堂。钱就像他画的汇票一样流动。那时，我认为“建筑师=富有”，老实说，这并不总是正确的。但种子已经种下：创意领域预示着财富。 快进，现实咬牙切齿。我不是达芬奇的重生，所以建筑不是我的道路。但我目睹了一些令人着迷的事情：自动化。 AutoCAD 摧毁了一个工程领域，将五个 30 天的项目变成了一日奇迹。电网也感受到了同样的刺痛。 ETAP + 1 名工程师 + 5 名技术人员现在已经征服了曾经需要 30 名的人员。 SWE 是下一个冲锋线吗？ 现在，人工智能日益凸显。那些奇特的模型和它们的应用程序工厂……我不知道它们什么时候能达到峰值效率，但 10 年感觉很慷慨。猜猜谁自动化了所有其他领域？是的，软件工程师。所以，轮到他们面对现实了。 回想起来，20 年前，成为一名 SWE 就意味着扮演自动化木偶师。但现在，问题依然悬而未决：谁来实现自动化？人工智能工程师是下一个淘金热吗？这是摆脱即将被遗忘的软件的出路吗？或者我们应该收拾行李去医学院？ 我没有答案。   由   提交 /u/Which-Distance1384    reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/</guid>
       <pubDate>Sun, 14 Jan 2024 16:59:59 GMT</pubDate>
     </item>
