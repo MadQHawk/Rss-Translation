@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 00:58:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 03:14:04 GMT</lastBuildDate>
+    <item>
+      <title>在 Squarespace 的域的 Github 页面上托管时出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eypfd/problem_with_hosting_on_github_pages_for_a_domain/</link>
+      <description><![CDATA[     &lt; td&gt; 我昨天从 squarespace 为我的 ReactJs 网站购买了一个域名，并决定在 GitHub 页面上托管。我已在方形空间一侧添加了 4 个 A 记录和 CNAME。 ​ https://preview.redd.it/zpw60e16zhec1.png?width=939&amp;format=png&amp;auto=webp&amp;s= 3c4da6d1c3acd3bc745fd87496ba0a34b7b3fc86 然后，我将我的网站名称添加到 github 上的“页面”部分，并打开 Enorce HTTPS。 我没有看到我的网站弹出域名尚未确定，所以我决定等待，24 小时后，当我尝试访问我的网站时，我看到一个白色页面，标题显示在图标旁边的选项卡上，但仅此而已。我在控制台上收到错误 404，但我无法弄清楚出了什么问题。 https://preview.redd.it/xvavqvvuzhec1.png?width=1195&amp;format=png&amp;auto=webp&amp;s=94e09c3305b1fa171cf6028abd65 5ab542cb32d6 这里有人曾经在 Github 页面上托管过 squarespace 域名吗？   由   提交/u/MalekRockie00  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eypfd/problem_with_hosting_on_github_pages_for_a_domain/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:34:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么这个二维码扫描不了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eyi78/why_doesnt_this_qr_code_scan/</link>
+      <description><![CDATA[      我在美术馆找到了这个二维码。据我所知，它是无效的，但我很好奇为什么？   由   提交/u/mikegecawic​​z   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eyi78/why_doesnt_this_qr_code_scan/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道该网站使用什么网站构建器吗？我试图使用 Hostinger 创建类似的东西，但没有类似的模板。我似乎也找不到任何具有此布局的网站模板：</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eyhvr/anyone_know_what_website_builder_was_used_for_the/</link>
+      <description><![CDATA[       由   提交 /u/Practical-Horse-7568   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eyhvr/anyone_know_what_website_builder_was_used_for_the/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有时，当我在网站上单击后退按钮返回一页时，它不会离开当前页面，而且几乎看起来像是刚刚刷新了页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ey3zp/sometimes_when_im_on_a_website_and_click_the_back/</link>
+      <description><![CDATA[昨晚正在考虑这个问题。是否因为最后一页可能重定向到当前页面？   由   提交 /u/OrJustNotLive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ey3zp/sometimes_when_im_on_a_website_and_click_the_back/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于低预算项目来说，Wordpress 是目前最便宜、最快的网站制作方法吗？初级开发人员在这里。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ewsgp/is_wordpress_the_cheapest_fastest_way_of_making/</link>
+      <description><![CDATA[嗨，基本上就是标题。大约两年前，我从计算机科学专业毕业。到目前为止，我已经创建了 2 个网站，其中一个用于我的大学社区在 vanilla JS/Tailwind 上的工作，另一个是在朋友的指导下通过 Angular 和无头 WP 进行的。 （设计和开发是我做的，他负责代码审查等方面） 这是链接 &lt;最近，两位公关朋友联系了我，他们告诉我他们的几个客户正在寻找非常基本的 5 页网站（类似于上面的网站）。无需创建帐户，所有按钮都会指向 WhatsApp 或其他社交媒体帐户，并且它们应该具有响应能力。公关人员本身（在某种程度上）负责创建设计。 最大的缺点是公司的预算。它们的价格非常低，从 100 美元到 300-400 美元不等（公关人员也需要从中分一杯羹）。然而，作为一名大三学生，这看起来是一个绝佳的机会，可以让我在自己的作品集上获得一些经验。问题是，我已经有一份全职工作，而且我的可用时间有限。因此，我正在寻找一种快速且廉价的方法来完成此类项目，主要是因为我制作的 Angular 项目花了我大约 6 个月的时间（这是一个很大的学习曲线） 由于我之前曾使用过 WP，这是我迄今为止所理解的总体想法（这也是我正在寻找一些见解的地方）：  寻找适合的主题客户的需求和预算 将其发送给公关，以便他们围绕它进行设计 让他们在选择主题后购买主题，然后从公关那里收到最终设计 相应地修改它，尝试匹配他们的预算（我试图尽量减少我需要花在这里的时间）  希望这些改变没有那么多，我可以在一个月内完成该项目，每周花费大约 8 - 15 个小时，这又取决于预算？ 我的说法对吗？有没有更快的方法？我错过了什么吗？ 我真的很感激一些见解。提前致谢！ TLDR；对于简单的 5 页网站来说，购买 WP 主题然后稍微修改它是否是最快的方法，这些网站也必须是反应性的，考虑到它们是非常低的预算项目？ ($100-$400)   由   提交/u/aWabbaJag  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ewsgp/is_wordpress_the_cheapest_fastest_way_of_making/</guid>
+      <pubDate>Thu, 25 Jan 2024 01:01:08 GMT</pubDate>
+    </item>
     <item>
       <title>嵌入 YouTube 视频会将移动版 PageSpeed 得分从 56 降至 22，桌面版 PageSpeed 得分从 93 降至 70。除了删除视频之外，还有什么最佳修复方法吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19ewd78/embedding_a_youtube_video_drops_mobile_pagespeed/</link>
-      <description><![CDATA[如果可能的话，我想将其保留在网站上 - 但是如果它严重降低了 PageSpeed 分数，那么可能值得将其删除，因为它对于网页的目标来说并不是关键任务。 是否有任何最佳实践能够嵌入 YouTube 视频而不拖慢网站加载时间？这是使用的语法： &lt;iframe src=&quot;https://www.youtube.com/embed/video\_string\_BLAH&quot; title=&quot;展示如何BLAH BLAH BLAH 的视频&quot;框架边框=“0” allowfullscreen&gt;&lt;/iframe&gt; 我们是否也可以花点时间来欣赏 Google 旗下的 YouTube 如此大幅地降低网站加载时间的搞笑之处？您可能认为他们会知道+更有效地开发自己的小部件...    由   提交 /u/What_The_Hex   [链接] [评论]]]></description>
+      <description><![CDATA[即使它位于页面底部，情况也是如此。 我想将其保留在网站上，如果可能的话 - 但是，如果它严重降低了 PageSpeed 分数，那么可能值得消除它，因为它对于网页的目标来说不是关键任务。 是否有任何最佳实践能够嵌入 YouTube 视频而不拖慢您网站的加载时间吗？这是使用的语法： &lt;iframe src=&quot;https://www.youtube.com/embed/video\\\_string\\\_BLAH&quot; title=&quot;展示如何BLAH BLAH BLAH 的视频&quot;框架边框=“0”允许全屏&gt;  我们是否也可以花点时间欣赏一下 Google 旗下的 YouTube 如此戏剧性地缩短网站加载时间的搞笑之处？您可能认为他们会知道+更有效地开发自己的小部件...   由   提交 /u/What_The_Hex   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ewd78/embedding_a_youtube_video_drops_mobile_pagespeed/</guid>
       <pubDate>Thu, 25 Jan 2024 00:41:27 GMT</pubDate>
     </item>
@@ -22,7 +57,7 @@
     <item>
       <title>您绝对鄙视哪些关于开发人员的媒体比喻？</title>
       <link>https://www.reddit.com/r/webdev/comments/19eu9t4/what_media_tropes_about_developers_do_you/</link>
-      <description><![CDATA[我们都知道一个在他妈妈的地下室里的胖子的编码器/程序员/开发人员比喻，或者是一个超级酷的技术家伙，可以立即侵入政府服务器。  我想知道有关编码员/程序员/开发人员的哪些比喻会立即让您感到不舒服？当你观看它时，你会想“这个人甚至从未见过程序员，更不用说与程序员交谈了。”  另一方面，当您观看一段媒体时，您会立即看到“这个人明白了！” ?   由   提交 /u/SchmehFilms   [链接] [评论]]]></description>
+      <description><![CDATA[我们都知道一个在他妈妈的地下室里的胖子的编码器/程序员/开发人员的比喻，或者是一个超级酷的技术家伙，可以立即侵入政府服务器。  我想知道有关编码员/程序员/开发人员的哪些比喻会立即让您感到不舒服？当你观看它时，你会想“这个人甚至从未见过程序员，更不用说与程序员交谈了。”  另一方面，当您观看一段媒体时，您会立即看到“这个人明白了！” ?   由   提交 /u/SchmehFilms   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19eu9t4/what_media_tropes_about_developers_do_you/</guid>
       <pubDate>Wed, 24 Jan 2024 23:08:55 GMT</pubDate>
     </item>
@@ -43,21 +78,21 @@
     <item>
       <title>我应该在哪里部署全栈应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/19ety1z/where_should_i_deploy_a_fullstack_app/</link>
-      <description><![CDATA[我正在开发一个全栈 SaaS 应用程序，该应用程序有一个静态登录页面（托管在 site.com），并且应用程序本身具有前端和后端返回（托管于 app.site.com）。  我部署静态仅前端站点没有任何问题，但这是我的第一个全栈项目，所以我不知道应该使用什么服务来托管我的数据库。  应用程序堆栈：NextJS（正面 + 背面）/Prisma / Postgres  我认为不会有很多流量，因为我主要是为了好玩而构建它/学习目的。  我愿意接受所有建议，因为我主要想学习新东西，但我想避免不必要的成本。  &amp;# 32；由   提交 /u/Tixarer   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个全栈 SaaS 应用程序，该应用程序有一个静态登录页面（托管在 site.com），并且应用程序本身具有前端和后端返回（托管于 app.site.com）。  我部署静态仅前端站点没有任何问题，但这是我的第一个全栈项目，所以我不知道应该使用什么服务来托管我的数据库。  应用程序堆栈：NextJS（正面+背面）/Prisma/Postgres  我认为不会有很多流量，因为我主要是为了好玩而构建它/学习目的。  我愿意接受所有建议，因为我主要想学习新东西，但我想避免不必要的成本。  &amp;# 32；由   提交 /u/Tixarer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ety1z/where_should_i_deploy_a_fullstack_app/</guid>
       <pubDate>Wed, 24 Jan 2024 22:55:18 GMT</pubDate>
     </item>
     <item>
       <title>[ $0,00] （抱歉）我在设计方面很糟糕，需要首页的灵感和帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/19ettmc/000_im_sorry_i_suck_at_design_and_need/</link>
-      <description><![CDATA[付款：无 嗨， 我知道这是一个长远来看，我当然不想毁掉我的帐户或听起来像 /r/EntitledBitch，所以请原谅我如果这低于你备受赞赏的艺术。 我目前正在开发一个网站，这是一个类似博客的网站，报告居住在特定地区的人们的死亡情况（不是开玩笑。 ），几乎就像一本杂志或报纸（我已经在 Google 上搜索得差不多了。） 也就是说，我正在开发一个网站（Nuxt、Nuxt/Content、Tailwind 等），这基本上是一个简短的报告/博客。我能说的就这么多了。 我需要的是一个平面设计师，水平不重要，年龄不重要，你只需要：  &lt; li&gt;适应并理解当前的风格和审美， 为我提供一种或希望更粗糙的屏幕设计。  受影响的页面是首页，已部分完成，并透露了网站的总体风格。 如果有人足够好心帮助我（我是一名经验丰富的网络开发人员，但完全不擅长创意） .为了回报您的好意，我免费提供一些开发工作。 DM 我了解更多信息...    提交者   /u/Mavrokordato   [链接] [评论]]]></description>
+      <description><![CDATA[付款：无 嗨， 我知道这是一个长远来看，我当然不想毁掉我的帐户或听起来像 /r/EntitledBitch，所以请原谅我如果这低于您备受赞赏的艺术。 我目前正在开发一个网站，这是一个类似博客的网站，报告居住在特定地区的人们的死亡情况（不是开玩笑。 ），几乎就像一本杂志或报纸（我已经在 Google 上搜索得差不多了。） 也就是说，我正在开发一个网站（Nuxt、Nuxt/Content、Tailwind 等），这基本上是一个简短的报告/博客。我能说的就这么多了。 我需要的是一个平面设计师，水平不重要，年龄不重要，你只需要：  &lt; li&gt;适应并理解当前的风格和审美， 为我提供一种或希望更粗糙的屏幕设计。  受影响的页面是首页，已部分完成，并泄露了网站的总体风格。 如果有人足够好心帮助我（我是一名经验丰富的网络开发人员，但完全不擅长创意） .为了回报您的好意，我免费提供一些开发工作。 DM 我了解更多...    提交者   /u/Mavrokordato   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ettmc/000_im_sorry_i_suck_at_design_and_need/</guid>
       <pubDate>Wed, 24 Jan 2024 22:50:06 GMT</pubDate>
     </item>
     <item>
       <title>像 omegle 这样的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/19et82t/a_website_like_omegle/</link>
-      <description><![CDATA[我对网页设计有中等水平的知识 创建像 ometv 或 omegle 这样的网站有多难 我需要使用什么语言？    由   提交/u/Enornose-  [链接] [评论]]]></description>
+      <description><![CDATA[我对网页设计有中等程度的了解 创建像 ometv 或 omegle 这样的网站有多难 我需要使用什么语言？    由   提交/u/Enornose-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19et82t/a_website_like_omegle/</guid>
       <pubDate>Wed, 24 Jan 2024 22:25:05 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19esnh7/changelog_podcast_hateoas_corpus/</guid>
       <pubDate>Wed, 24 Jan 2024 22:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>机构！显示您的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eslzk/agencies_show_me_your_website/</link>
-      <description><![CDATA[我们正在寻求重新设计我们的网站（我们将在内部完成这项工作），我想看看其他机构如何回答一些基本问题有关语音、内容组织等的问题。如果您愿意分享，请在评论中添加指向您网站的链接。    由   提交/u/tillwehavefaces  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eslzk/agencies_show_me_your_website/</guid>
-      <pubDate>Wed, 24 Jan 2024 22:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>解码 HTTP：系统设计人员的网络基础知识</title>
-      <link>https://www.reddit.com/r/webdev/comments/19escr5/decoding_http_networking_fundamentals_for_system/</link>
-      <description><![CDATA[ 🌐系列：系统设计访谈 📖主题：HTTP协议和网络基础 🎯 目标受众：没有经验的初级软件工程师和寻求不同视角的更有经验的开发人员。  主题： - 💡 OSI 模型和层：软件工程师应该关注第 7 层（应用层） ，HTTP 所在的位置）和第 4 层（TCP/IP 和 UDP 等传输协议）。 - ✂️ 应用层：HTTP 请求/响应格式、HTTP 方法、HTTP 标头。 - 🚆 传输层 - TCP/IP 与 UDP，三向握手。 - 📈 HTTP 的未来：HTTP2.0 和 HTTP3.0。 - 🌐 系统设计：HTTP 的无状态特性允许水平扩展和负载平衡 阅读完整文章：https://cloudnativeengineer.substack.com/p/networking-fundamentals-for-system-design   由   提交/u/sanpino84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19escr5/decoding_http_networking_fundamentals_for_system/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要什么服务来进行身份验证和授权？帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/19es4io/what_service_do_i_need_for_authentication_and/</link>
-      <description><![CDATA[您好！这是我的第一篇文章，不知道是否是正确的地方。在我工作的公司中，我开发了四个应用程序，每个应用程序都有自己的登录名（这很混乱，因为一个组织可以获取多个应用程序，并且用户必须使用不同的帐户进行访问）。 因此，我希望将登录与各个模块解耦，并允许客户组织自行管理其用户，而无需访问其他组织的信息。我需要通过用户/密码或 SAML 启用登录（例如，使用 Azure Active Directory 中的 MyApps）。 我想强调的是，每个组织都不应该访问其他组织的数据。我如何搜索这样的服务？对于满足这些要求的服务有什么建议吗？ PS：到目前为止，我已经了解了 Microsoft、Firebase、OneWelcome、OneLogin、Strapi，但我很困惑。  PPS：已经有一个帖子讨论这个疑问了吗？   由   提交 /u/Ill_Persimmon_4368   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19es4io/what_service_do_i_need_for_authentication_and/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果数据库命名方案做得非常糟糕，您会继续修复它还是继续使用错误的命名？寻找意见。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19es363/if_a_db_naming_scheme_is_done_really_poorly_would/</link>
-      <description><![CDATA[我需要更新、维护现有系统并为其添加功能，该系统的表列名称非常奇怪。数据库已经有 50 多个表，列名如下。 假设表名是“suppliers”，列名是“supplier_id”、“supplier_name”等。  然后，假设还有另一个名为“supplier_contacts”的表。其中每个条目都是“suppliers”的子项，列名称将为“supplier_contact_id”、“supplier_contact_supplier_id”等。 更进一步，给定表“supplier_contacts_details”，作为联系人的子项，列名称将为“supplier_contacts_detail_id”、“supplier_contacts_detail_supplier_contact_id”、“supplier_contacts_detail_email”等。 要继续创建新列，您会继续遵循这种趋势还是有大多数数据库都有详细的命名方案，而有些部分则没有？ 一级本身并没有那么糟糕，但是当表有子表时，它会变得非常长和冗长。参见。   由   提交 /u/aeriose   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19es363/if_a_db_naming_scheme_is_done_really_poorly_would/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>本次申请要求</title>
-      <link>https://www.reddit.com/r/webdev/comments/19erqez/this_application_requirements/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/spurkle  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19erqez/this_application_requirements/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:24:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
