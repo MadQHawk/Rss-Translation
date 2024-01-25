@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 24 Jan 2024 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 15:13:00 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 与 Google 合作开展开放式 AI 合作</title>
+      <link>https://huggingface.co/blog/gcp-partnership</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gcp-partnership</guid>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开源法学硕士作为 LangChain 代理</title>
       <link>https://huggingface.co/blog/open-source-llms-as-agents</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/moe</guid>
       <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SetFitABSA：使用 SetFit 进行基于少样本方面的情感分析</title>
-      <link>https://huggingface.co/blog/setfit-absa</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/setfit-absa</guid>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AMD + 🤗：使用 AMD GPU 进行开箱即用的大型语言模型加速</title>

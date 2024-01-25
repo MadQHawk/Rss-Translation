@@ -4,7 +4,7 @@
     <title>无代码 |帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 25 Jan 2024 12:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 15:15:09 GMT</lastBuildDate>
     <item>
       <title>Softr 用户注册+购买逻辑？ [帮助]</title>
       <link>https://feed.indiehackers.world/post/d6be8eb427</link>
@@ -14,7 +14,7 @@
 主页是公开的，带有指向与 Stripe 配合使用的结帐页面的链接。
 但是当我运行测试时，这些用户不会出现在我的“用户”部分中。
 所以我的问题是，我需要创建注册流程吗？我如何知道注册的人是真正的付费客户？ Softr 似乎根本没有检查这一点。
-如果我不创建这个，这些用户下次将如何访问该内容？他们在结帐后被重定向到付费内容，但下次又回到原点。
+如果我不创建此内容，这些用户下次将如何访问该内容？他们在结账后被重定向到付费内容，但下次又回到原点。
 我真的迷失了方向，所以非常感谢任何帮助。谢谢！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d6be8eb427</guid>
@@ -81,7 +81,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>向您的博客添加类似 Medium 的亮点</title>
       <link>https://feed.indiehackers.world/post/80d51e0482</link>
       <description><![CDATA[你好！ 👋
-我的名字是 Ian，我刚刚发布了highlight.cool。我想要一种方法来向我的博客添加类似于媒体的亮点，但实际上没有什么——所以我构建了一些东西来让每个人都这样做！ 
+我的名字是 Ian，我刚刚发布了highlight.cool。我想要一种方法来向我的博客添加类似媒体的亮点，但实际上没有什么——所以我构建了一些东西让每个人都可以这样做！ 
 https://highlight.cool
 寻找反馈和人们来尝试！
 Discord 独立黑客聊天广告这里]]></description>
@@ -106,7 +106,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>免费 Framer 登陆页面模板</title>
       <link>https://feed.indiehackers.world/post/e57df0cc61</link>
-      <description><![CDATA[我为那些想要以漂亮的方式展示他们的移动/桌面应用程序的人制作了一个免费的 Framer 登陆页面模板。有浅色/深色模式。
+      <description><![CDATA[我为那些想要以漂亮的方式展示他们的移动/桌面应用程序的人制作了一个免费的 Framer 登录页面模板。有浅色/深色模式。
 👀预览：https://applifai.framer.website/
 ⬇️下载：https://framergoods.com/
 希望您发现它有用且有帮助！
@@ -115,7 +115,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Tue, 09 Jan 2024 16:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>可穿戴式AI助手，帮助你变得更好</title>
+      <title>可穿戴式AI助手，助你变得更好</title>
       <link>https://feed.indiehackers.world/post/2170fe5620</link>
       <description><![CDATA[🚀 很高兴宣布推出 Sama AI - 全球首款主动式人工智能导师，可在 iPhone 上或作为可穿戴设备使用！
 Discord 独立黑客聊天广告这里]]></description>

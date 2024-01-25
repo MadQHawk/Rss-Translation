@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 12:23:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 15:13:06 GMT</lastBuildDate>
+    <item>
+      <title>有没有可以用来创建应用程序的头像创建软件？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19fbije/is_there_a_avatar_creator_software_that_i_can_use/</link>
+      <description><![CDATA[我看到很多关于训练和创建头像的网络应用程序的业务，例如 heygen。 我知道他们收费然而，随着越来越多的公司使用，他们使用的人工智能系统似乎是现成的。创建这些头像的软件（引擎）是什么？像chatgpt或RVC本身之类的东西？ 谢谢   由   提交 /u/alternative_iv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19fbije/is_there_a_avatar_creator_software_that_i_can_use/</guid>
+      <pubDate>Thu, 25 Jan 2024 15:11:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhisperFusion：与人工智能聊天机器人的超低延迟对话</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19fb7sd/whisperfusion_ultralow_latency_conversations_with/</link>
+      <description><![CDATA[通过使用完全开源的工具 WhisperLive &amp; 创建实时 AI 聊天机器人通信系统。 WhisperSpeech，Collabora 的工程师解决了当前机器人交互中的不自然延迟问题，以实现无缝对话。 https://www.collabora.com/news-and-blog/news-and-events/whisperfusion-ultra-low- Latency-conversations-with-an-ai-chatbot.html   由   提交 /u/mfilion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19fb7sd/whisperfusion_ultralow_latency_conversations_with/</guid>
+      <pubDate>Thu, 25 Jan 2024 14:57:52 GMT</pubDate>
+    </item>
     <item>
       <title>探索 Mojo🔥 编程语言的力量</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19f7k3e/exploring_the_power_of_mojo_programming_language/</link>
@@ -57,16 +71,9 @@
     <item>
       <title>认识 Wilson：用于独特聊天的个性化人工智能！自定义名称、心情和风格。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ewuam/meet_wilson_your_personalizable_ai_for_unique/</link>
-      <description><![CDATA[Wilson 是一款对话式 AI 工具，可让您个性化您的聊天。您可以更改其名称、基调和风格。  Wilson 使用 Timpi 的网络索引来获取更新的准确信息。威尔逊还可以通过学习在线内容并提供定制的客户服务来帮助企业。  Wilson 是您的人工智能，它重视您的独特性并创建有意义的数字交互。  查看此链接以了解更多信息：https://x.com/Timpi_TheNewWay/status /1750138885114409445?s=20   由   提交 /u/GMcondesa   [链接] [评论]]]></description>
+      <description><![CDATA[Wilson 是一款对话式 AI 工具，可让您个性化您的聊天。您可以更改其名称、气氛和风格。  Wilson 使用 Timpi 的网络索引来获取更新的准确信息。威尔逊还可以通过学习在线内容并提供定制的客户服务来帮助企业。  Wilson 是您的人工智能，它重视您的独特性并创建有意义的数字交互。  查看此链接以了解更多信息：https://x.com/Timpi_TheNewWay/status /1750138885114409445?s=20   由   提交 /u/GMcondesa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ewuam/meet_wilson_your_personalizable_ai_for_unique/</guid>
       <pubDate>Thu, 25 Jan 2024 01:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种工具可以删除视频中的攻击性语言？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ewssh/is_there_a_tool_that_removes_offensive_language/</link>
-      <description><![CDATA[我一直在将一些直播内容编辑成 YouTube 视频。虽然我还没有货币化，但我想确保它们将来可以货币化。这方面的规则已经改变了多次，所以我认为安全总比后悔好。有没有一种工具可以自动静音/发出咒语/其他攻击性语言的声音？这会节省我大量的时间。   由   提交/u/KranzGesegnet  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ewssh/is_there_a_tool_that_removes_offensive_language/</guid>
-      <pubDate>Thu, 25 Jan 2024 01:01:30 GMT</pubDate>
     </item>
     <item>
       <title>诚实的人工智能刚刚发布 v1.5.1 - 免费稳定扩散 (SD Anything v5)、公共 AI 板和可选的 Mixtral 8x7b 聊天模型！</title>
@@ -83,13 +90,6 @@
       <pubDate>Wed, 24 Jan 2024 22:41:15 GMT</pubDate>
     </item>
     <item>
-      <title>在企业家人工智能方面处于领先地位的最佳公司？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19eqs6l/best_companies_who_are_leading_the_way_with_ai/</link>
-      <description><![CDATA[我看到一篇关于人工智能应该如何帮助创业和完成大量创业工作的文章。哪些公司是参与此领域的值得关注的好公司？ 如果我理解正确的话，一旦该软件存在，人们最需要的是广泛的商业理念，然后人工智能将处理大部分法律和文书工作类型事物、商业计划、营销计划、网站等。   由   提交/u/db1075  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19eqs6l/best_companies_who_are_leading_the_way_with_ai/</guid>
-      <pubDate>Wed, 24 Jan 2024 20:45:11 GMT</pubDate>
-    </item>
-    <item>
       <title>文章：新理论表明聊天机器人可以理解文本</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19eqaa1/article_new_theory_suggests_chatbots_can/</link>
       <description><![CDATA[“最大的大型语言模型远非“随机鹦鹉”，它们似乎学习了足够的技能来理解它们正在处理的单词。”  https://www.quantamagazine.org/ new-theory-suggests-chatbots-can-understand-text-20240122/ 参考：https:/ /arxiv.org/abs/2310.17567   由   提交 /u/emptyplate   [链接] [评论]]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 24 Jan 2024 20:24:35 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
