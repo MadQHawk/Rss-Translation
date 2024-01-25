@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 25 Jan 2024 03:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 06:17:09 GMT</lastBuildDate>
+    <item>
+      <title>建造你自己的星球（使用 Three.js）</title>
+      <link>https://www.reddit.com/r/programming/comments/19f1hy7/build_your_own_planet_uses_threejs/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19f1hy7/build_your_own_planet_uses_threejs/</guid>
+      <pubDate>Thu, 25 Jan 2024 05:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们消除内联 HTML 电子邮件（过去的爆炸）</title>
+      <link>https://www.reddit.com/r/programming/comments/19f1c23/lets_stamp_out_inlinehtml_emails_blast_from_the/</link>
+      <description><![CDATA[ 由   提交/u/tubameister  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19f1c23/lets_stamp_out_inlinehtml_emails_blast_from_the/</guid>
+      <pubDate>Thu, 25 Jan 2024 04:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>五个以上的原因和“第八层”问题</title>
+      <link>https://www.reddit.com/r/programming/comments/19f13dv/more_than_five_whys_and_layer_eight_problems/</link>
+      <description><![CDATA[ 由   提交 /u/lelanthran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19f13dv/more_than_five_whys_and_layer_eight_problems/</guid>
+      <pubDate>Thu, 25 Jan 2024 04:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何保护您的项目免受已弃用 npm 包的风险</title>
+      <link>https://www.reddit.com/r/programming/comments/19ezu7x/how_to_protect_your_projects_from_the_risks_of/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19ezu7x/how_to_protect_your_projects_from_the_risks_of/</guid>
+      <pubDate>Thu, 25 Jan 2024 03:31:43 GMT</pubDate>
+    </item>
     <item>
       <title>评估现代智能手机恢复出厂设置后的数据残留——“部分加密的 Android 用户数据在恢复出厂设置后仍以字节形式存在。” “现代 Android 恢复出厂设置时不会擦除多个分区。” “重置后，有关设备使用情况的一些信息仍可能恢复。”</title>
       <link>https://www.reddit.com/r/programming/comments/19ezgvf/assessing_data_remnants_in_modern_smartphones/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/19er6hf/those_who_cant_be_named/</guid>
       <pubDate>Wed, 24 Jan 2024 21:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器中的 Gmail 样式查询</title>
-      <link>https://www.reddit.com/r/programming/comments/19eqjfv/gmail_style_querying_in_the_browser/</link>
-      <description><![CDATA[ 由   提交 /u/wpcarroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19eqjfv/gmail_style_querying_in_the_browser/</guid>
-      <pubDate>Wed, 24 Jan 2024 20:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zed 编辑器开源了！</title>
-      <link>https://www.reddit.com/r/programming/comments/19epuuk/zed_editor_went_open_source/</link>
-      <description><![CDATA[ 由   提交/u/voicefeed  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19epuuk/zed_editor_went_open_source/</guid>
-      <pubDate>Wed, 24 Jan 2024 20:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greenmask数据库混淆工具发布</title>
-      <link>https://www.reddit.com/r/programming/comments/19eppbt/greenmask_database_obfuscation_tool_release/</link>
-      <description><![CDATA[ 由   提交/u/anyweny  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19eppbt/greenmask_database_obfuscation_tool_release/</guid>
-      <pubDate>Wed, 24 Jan 2024 20:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 从开发人员到管理者的转变：应对新挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/19ep7j7/the_transition_from_developer_to_manager/</link>
-      <description><![CDATA[ 由   提交/u/jablonskipj  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19ep7j7/the_transition_from_developer_to_manager/</guid>
-      <pubDate>Wed, 24 Jan 2024 19:41:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
