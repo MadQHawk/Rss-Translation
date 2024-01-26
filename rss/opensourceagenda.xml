@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 26 Jan 2024 09:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 12:21:53 GMT</lastBuildDate>
     <item>
-      <title>视觉网络竞技场</title>
-      <link>https://www.opensourceagenda.com/projects/visualwebarena</link>
-      <description><![CDATA[VisualWebArena 是多模式代理的基准。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/visualwebarena</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>不和谐决斗机器人</title>
-      <link>https://www.opensourceagenda.com/projects/discord-duelbot</link>
-      <description><![CDATA[你可以和朋友一起决斗，度过愉快的时光🎉🍔]]></description>
-      <guid>https://www.opensourceagenda.com/projects/discord-duelbot</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端工具</title>
-      <link>https://www.opensourceagenda.com/projects/ferramentas-frontend</link>
-      <description><![CDATA[用于前端开发的工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ferramentas-frontend</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕尔世界Rcon</title>
-      <link>https://www.opensourceagenda.com/projects/palworldrcon</link>
-      <description><![CDATA[用于 Palworld 专用服务器的简单 WPF/.net 7 Rcon 工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/palworldrcon</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>SweetlyFamiliar After Effects 破解版 2024</title>
-      <link>https://www.opensourceagenda.com/projects/sweetlyfamiliar-after-effects-crack-2024</link>
-      <description><![CDATA[1]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sweetlyfamiliar-after-effects-crack-2024</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abc 虚拟背景制作器</title>
-      <link>https://www.opensourceagenda.com/projects/abc-virtual-background-maker</link>
-      <description><![CDATA[一个独立的 React 应用程序，旨在创建和下载富含可自定义文本的虚拟背景图像元素。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/abc-virtual-background-maker</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>很棒的姜戈量表</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-django-scale</link>
-      <description><![CDATA[与“大规模”使用 Django 构建相关的精彩内容的精选列表。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-django-scale</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型 Ocr 模型.github.io</title>
-      <link>https://www.opensourceagenda.com/projects/large-ocr-modelgithubio</link>
+      <title>前端沉浸</title>
+      <link>https://www.opensourceagenda.com/projects/imersao-frontend</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/large-ocr-modelgithubio</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:50 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/imersao-frontend</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>Python 基础知识 01 2024</title>
-      <link>https://www.opensourceagenda.com/projects/python-fundamentals-01-2024</link>
-      <description><![CDATA[Python 编程基础知识 - 软件大学课程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/python-fundamentals-01-2024</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:49 GMT</pubDate>
+      <title>螺旋GPT</title>
+      <link>https://www.opensourceagenda.com/projects/helix-gpt</link>
+      <description><![CDATA[Helix 代码完成 LSP，支持 Copilot + OpenAI。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/helix-gpt</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>数字模拟时钟</title>
-      <link>https://www.opensourceagenda.com/projects/digitalanalogclock</link>
+      <title>免费 Telegram 工具</title>
+      <link>https://www.opensourceagenda.com/projects/telegram-tools-gratis</link>
+      <description><![CDATA[电报工具 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/telegram-tools-gratis</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>分解选择 Pytorch</title>
+      <link>https://www.opensourceagenda.com/projects/decomp-opt-pytorch</link>
+      <description><![CDATA[DecompOpt 的实现 - 用于基于结构的分子优化的可控和分解扩散模型 - ICLR 2024 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/decomp-opt-pytorch</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whatsapp 免费工具</title>
+      <link>https://www.opensourceagenda.com/projects/whatsapp-tools-gratis</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/digitalanalogclock</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:49 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/whatsapp-tools-gratis</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>蓝色RPC</title>
-      <link>https://www.opensourceagenda.com/projects/bluerpc</link>
-      <description><![CDATA[用于端到端 Go-Typescript 类型安全的 Golang 库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bluerpc</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:49 GMT</pubDate>
+      <title>Honghongai</title>
+      <link>https://www.opensourceagenda.com/projects/honghongai</link>
+      <description><![CDATA[哄哄模拟器开源版]]></description>
+      <guid>https://www.opensourceagenda.com/projects/honghongai</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>格格布</title>
-      <link>https://www.opensourceagenda.com/projects/ggb</link>
-      <description><![CDATA[基于Gin框架的开发样板，旨在帮助开发者快速构建和开发Web应用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ggb</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:48 GMT</pubDate>
+      <title>3蓝1棕字幕</title>
+      <link>https://www.opensourceagenda.com/projects/3blue1brown-captions</link>
+      <description><![CDATA[3blue1brown 视频的字幕]]></description>
+      <guid>https://www.opensourceagenda.com/projects/3blue1brown-captions</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>PalWorld 服务器非官方修复</title>
-      <link>https://www.opensourceagenda.com/projects/palworld-server-unoffical-fix</link>
-      <description><![CDATA[这是一个非官方的 palworld 服务器二进制分发项目，修复了原始版本的一些问题服务器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/palworld-server-unoffical-fix</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:48 GMT</pubDate>
+      <title>K3节点</title>
+      <link>https://www.opensourceagenda.com/projects/k3-node</link>
+      <description><![CDATA[Keras 3 中的多后端图神经网络]]></description>
+      <guid>https://www.opensourceagenda.com/projects/k3-node</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>格纹大理石</title>
-      <link>https://www.opensourceagenda.com/projects/checkmarble-marble</link>
-      <description><![CDATA[Marble - 欺诈和反洗钱的实时决策引擎]]></description>
-      <guid>https://www.opensourceagenda.com/projects/checkmarble-marble</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:48 GMT</pubDate>
+      <title>帕尔莫丁</title>
+      <link>https://www.opensourceagenda.com/projects/palmodding</link>
+      <description><![CDATA[一个与 modding Palworld 相关的有用/有趣的东西的存储库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/palmodding</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>表单向导 Vue3</title>
-      <link>https://www.opensourceagenda.com/projects/form-wizard-vue3</link>
-      <description><![CDATA[使用 Vue 制作的表单向导/步进组件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/form-wizard-vue3</guid>
-      <pubDate>Fri, 26 Jan 2024 09:14:47 GMT</pubDate>
+      <title>Jsknnr 隐藏服务器</title>
+      <link>https://www.opensourceagenda.com/projects/jsknnr-enshrouded-server</link>
+      <description><![CDATA[在容器中运行 Enshrouded 专用服务器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jsknnr-enshrouded-server</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>OFA系统同上</title>
+      <link>https://www.opensourceagenda.com/projects/ofa-sys-ditto</link>
+      <description><![CDATA[角色扮演的自我辅助方法]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ofa-sys-ditto</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>CD 项目.nvim</title>
+      <link>https://www.opensourceagenda.com/projects/cd-projectnvim</link>
+      <description><![CDATA[我尝试了很多“项目管理”插件。最后，我发现我需要的是一种更简单的方法“cd”到另一个项目目录。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cd-projectnvim</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>建造任何东西</title>
+      <link>https://www.opensourceagenda.com/projects/buildanything</link>
+      <description><![CDATA[生成任何 HTML 页面/应用程序并查看其实时流式传输。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/buildanything</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>CVE 2024 20698</title>
+      <link>https://www.opensourceagenda.com/projects/cve-2024-20698</link>
+      <description><![CDATA[漏洞分析]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cve-2024-20698</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>最小故障</title>
+      <link>https://www.opensourceagenda.com/projects/smallnest-breakdown</link>
+      <description><![CDATA[记录国内外互联网公司和电信企业P0级别的重大故障]]></description>
+      <guid>https://www.opensourceagenda.com/projects/smallnest-breakdown</guid>
+      <pubDate>Fri, 26 Jan 2024 12:21:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
