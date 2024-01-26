@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Jan 2024 06:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 09:14:25 GMT</lastBuildDate>
+    <item>
+      <title>[需要工作] Fullstack webdev - 20 年以上经验，欧盟 - 寻找远程工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abe5xy/need_a_job_fullstack_webdev_20_years_of/</link>
+      <description><![CDATA[我是那些自学成才的开发人员之一，他们带来了知识和大量经验（超过 20 年）谁的工作就是他的世界。如果你选择我，我会为成功和贵公司的认可而奋斗，但我需要在其中看到自己。 我经历了很多事情，并且有一个很多经验。 DevOps（Linux 系统）、硬件工程师（ATMEL、ARM 嵌入式），但主要是网页设计师（UX、品牌标识、用户界面）、前端（Vue、React、Angular、TypeScript，非常擅长 CSS、jquery.. 我的经验是一直回到表和 IE5）和后端（PHP MVC、NodeJS、Python、Joomla、Wordpress..）。但主要是我想专注于全栈。 如果你将我添加到一个团队中，你会得到一个想要融入其中的人，性格内向，完全是极客（Picard是我的队长）。 请随时在 Linkedin 上 ping 我：https://www.linkedin.com /in/miharajster/ 或查看我的 Github：https://github.com/miharajster 我也有 Medium，但我需要做更多的工作：https://medium.com/@rajster.miha 我正在寻找全职遥控器。任何时区。每天7-12小时，无薪休假。工作时间=赚到的钱。我也有自己的公司了。   由   提交 /u/winsucker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abe5xy/need_a_job_fullstack_webdev_20_years_of/</guid>
+      <pubDate>Fri, 26 Jan 2024 09:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rails 7 GMAIL smtp 令人头痛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abe07s/rails_7_gmail_smtp_headache/</link>
+      <description><![CDATA[您好， 参考《使用 Rails 7 进行敏捷 Web 开发》一书，其中有关电子邮件的章节。 之后创建 .env 并设置 GMAIL_USERNAME、GMAIL_PASSWORD （使用应用密码） 在环境/开发 .rb config.action_mailer.delivery_method = :smtp config. action_mailer.smtp_settings = { :address =&gt;; “smtp.gmail.com”，：端口=&gt; 587、：用户名=&gt; ENV[&#39;GMAIL_USERNAME&#39;], :密码=&gt; ENV[&#39;GMAIL_PASSWORD&#39;], :身份验证=&gt; “普通”， :enable_starttls_auto =&gt; true } 日志看起来一切都很顺利，chatGPT 已经把它搞死了，但我没有看到 gmail 中的外发电子邮件或收件人电子邮件。 &lt; p&gt;我在这里不知所措 - 有什么指示吗？   由   提交 /u/TokyoBaguette   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abe07s/rails_7_gmail_smtp_headache/</guid>
+      <pubDate>Fri, 26 Jan 2024 08:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Wordpress 迁移到 Framer 但保留相同的域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abdvg9/migrating_from_wordpress_to_framer_but_keeping/</link>
+      <description><![CDATA[嗨， 我是一个正在尝试学习的初学者，所以请耐心等待！ 我们（我们公司）正在从 Wordpress（旧站点）迁移到 Framer（新站点），但我们保留相同的域名。您能否帮我确认下面的清单，以便我知道我不会在排名/Google 索引方面使网站崩溃。   构建 Framer 站点并尝试尽可能复制 URL、菜单、站点地图和内容结构等 ？ 更新 DNS 记录并指向新的 Framer 网站 将新站点地图上传到 Search Console/Framer 维护/移动后分析  我有点对于第二点不清楚。在发布当天，我们是否关闭第一个站点，然后立即进入第三步？因为据我所知，两个同名的网站不可能同时存在。  非常感谢任何帮助！ 祝你有美好的一天！   由   提交/u/NordicPilot00   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abdvg9/migrating_from_wordpress_to_framer_but_keeping/</guid>
+      <pubDate>Fri, 26 Jan 2024 08:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在外部网站的 iFrame 中跟踪分析</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abdni5/tracking_analytics_in_an_iframe_on_external/</link>
+      <description><![CDATA[我拥有一个 iFrame，我们的客户已将我们的 iFrame 嵌入到他们的网站上。 我们需要跟踪简单的指标例如在其网站上看到徽章的人数以及网站所有者的 URL。不过，我很难配置 Google Analytics（分析）来跟踪此情况。 当我设置 Google Analytics（分析）时，如果我单独检查 iFrame URL，它就会跟踪访问情况。但是，当我访问包含我们的 iFrame 的客户页面时，它不会跟踪访问。 如何解决此问题？  P.S.不存在法律问题，因为我们的客户同意这种安排。   由   提交/u/Charming-Fox5574   reddit.com/r/webdev/comments/1abdni5/tracking_analytics_in_an_iframe_on_external/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abdni5/tracking_analytics_in_an_iframe_on_external/</guid>
+      <pubDate>Fri, 26 Jan 2024 08:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>希特勒尝试了新的 RSC 和 Nextjs 14</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abdlm3/hitler_tried_new_rsc_and_nextjs_14/</link>
+      <description><![CDATA[ 由   提交 /u/catapillaarr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abdlm3/hitler_tried_new_rsc_and_nextjs_14/</guid>
+      <pubDate>Fri, 26 Jan 2024 08:23:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站简约，但速度慢</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abdcrz/minimalistic_website_but_slow/</link>
+      <description><![CDATA[你好。 我是 Web 开发的完全初学者。最近，我购买了 Hostinger 的高级托管来创建自定义计算器（Wordpress）。计算器是用插件制作的，它是非常简单的每小时费率计算器。尝试了一些加快速度的步骤（例如缓存清理），但 PageSpeed Insights 显示移动性能为 63，桌面性能为 74。 是否是因为我使用模板启动了网站？一开始，我的网站默认有多个页面和段落。我刚刚在编辑器模式下删除了所有内容并添加了我的插件的短代码。我不知道。  如果更有经验的人能够阐明这个情况，我将非常感激！   由   提交/u/vekur  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abdcrz/minimalistic_website_but_slow/</guid>
+      <pubDate>Fri, 26 Jan 2024 08:05:58 GMT</pubDate>
+    </item>
     <item>
       <title>Oxlint，ESLint 的未来替代品？</title>
       <link>https://www.reddit.com/r/webdev/comments/1abbic0/oxlint_a_future_replacement_for_eslint/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[介绍我的 JavaScript 快速参考指南。一个涵盖 JavaScript 基础知识的全面而简洁的快速参考工具。 🔍 快速语法查找：轻松定位和学习常用语法和结构。 💡 高效学习：将 JavaScript 复杂性简化为核心概念。  🖥️ 整合资源：在一个地方浏览 JavaScript 基础知识。 🌍 社区驱动：与同事协作开发人员增强本指南。 JavaScript，简化。 GitHub 链接。 Mods：这是我上传到 GitHub 的免费资源，旨在帮助社区，特别是那些尚未掌握 JavaScript 的人:)   由   提交 /u/BringtheBacon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ab6aem/javascript_simplified_quick_reference_guide/</guid>
       <pubDate>Fri, 26 Jan 2024 01:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的阿尔爆头生成器？有谁知道有什么好的起诉方式可以让你先免费试用一下吗？找不到一个。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fnizs/free_al_headshot_generator_anyone_know_of_a_good/</link>
-      <description><![CDATA[我正在尝试为我的客户在其网站上的头像找到一个好的 al 头像生成器。他们通常没有最好的图像或质量。看看是否有人有他们推荐的好产品。   由   提交/u/Overall-Cry9838  /u/Overall-Cry9838 reddit.com/r/webdev/comments/19fnizs/free_al_headshot_generator_anyone_know_of_a_good/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fnizs/free_al_headshot_generator_anyone_know_of_a_good/</guid>
-      <pubDate>Thu, 25 Jan 2024 23:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>请烤我新的免费人工智能爆头生成器网站的登陆页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fngbn/please_roast_landing_page_of_my_new_free_ai/</link>
-      <description><![CDATA[       由   提交 /u/usama__01   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fngbn/please_roast_landing_page_of_my_new_free_ai/</guid>
-      <pubDate>Thu, 25 Jan 2024 23:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>连接2个API</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fn6s4/connecting_2_apis/</link>
-      <description><![CDATA[您好，我是 Web 开发新手，我正在开发一个项目，我想在其中连接两个 API。具体来说，我想将语音文本 API 连接到 Open AI API，以便用户可以输入音频文件并从 ChatGPT 获取响应。您如何称呼这种类型的后端连接？是否有工具可以帮助我？作为一个几乎没有编码经验的人，这对我来说有多困难？这是否可以在常规网站建设者中实现？  正如您可能已经注意到的，我对此非常陌生，因此非常感谢任何形式的帮助。已经谢谢了:)   由   提交 /u/Intelligent-Push8524    reddit.com/r/webdev/comments/19fn6s4/connecting_2_apis/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fn6s4/connecting_2_apis/</guid>
-      <pubDate>Thu, 25 Jan 2024 23:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我想拥有灵活性，如何选择托管/部署服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fmirt/how_to_choose_hostingdeployment_service_if_i_want/</link>
-      <description><![CDATA[我是一名学生，很快将第一次创建一个网络应用程序作为业余项目。 我&#39;听说过 Heroku、PocketBase 等一堆服务，有点不知所措。 我想知道是否有一个服务可以为我提供一些灵活性。在我可用的时间范围内，我会： ​  仅编写前端，并使用那些“自行生成”的服务。 (?) 我的后端  或者如果我最终有更多时间：  覆盖/重构后端/API 内容并自己编写Java（Spring Boot 或 Quarkus）  是否有这样的服务可以灵活地执行第一个版本，其中我只编写前端，然后继续编写第二个版本，我在其中编写前端使用 Java 进行后端？ 抱歉，如果我没有正确表达自己，习惯了行话:)   由   提交 /u/thebigdbandito   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fmirt/how_to_choose_hostingdeployment_service_if_i_want/</guid>
-      <pubDate>Thu, 25 Jan 2024 23:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个需求更大（如果有的话）：MERN 还是 Next.js？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fmi52/which_is_more_in_demand_if_any_mern_or_nextjs/</link>
-      <description><![CDATA[现在哪个需求更大（如果有的话）？现在比较两者，MERN 看起来在招聘网站上出现得更多   由   提交/u/dacodingman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fmi52/which_is_more_in_demand_if_any_mern_or_nextjs/</guid>
-      <pubDate>Thu, 25 Jan 2024 23:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些 Chrome 扩展的帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19fm71t/need_some_help_for_a_chrome_extension/</link>
-      <description><![CDATA[嘿伙计们！ 我正在尝试构建一个 Chrome 扩展程序，它检查当前网页的链接，然后传递该链接到一个 python 脚本中，该脚本进一步执行它并将其传递到 ML 模型中。最终输出由覆盖在屏幕上的扩展名显示。我该怎么做？我应该使用什么？   由   提交 /u/Reasonable_Ruin_3502   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19fm71t/need_some_help_for_a_chrome_extension/</guid>
-      <pubDate>Thu, 25 Jan 2024 22:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
