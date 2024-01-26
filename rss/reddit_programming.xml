@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 26 Jan 2024 18:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 21:11:28 GMT</lastBuildDate>
     <item>
-      <title>三重奏游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1aboxsg/a_game_of_trios/</link>
-      <description><![CDATA[ 由   提交 /u/UntangleCS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aboxsg/a_game_of_trios/</guid>
-      <pubDate>Fri, 26 Jan 2024 18:15:49 GMT</pubDate>
+      <title>作为程序员，有氧运动的惊人好处</title>
+      <link>https://www.reddit.com/r/programming/comments/1abr2v0/surprising_benefits_of_cardio_as_a_programmer/</link>
+      <description><![CDATA[ 由   提交/u/verax55  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1abr2v0/surprising_benefits_of_cardio_as_a_programmer/</guid>
+      <pubDate>Fri, 26 Jan 2024 19:47:31 GMT</pubDate>
     </item>
     <item>
-      <title>谁是 Medibank 黑客 Aleksandr Ermakov？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aboxmy/who_is_alleged_medibank_hacker_aleksandr_ermakov/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aboxmy/who_is_alleged_medibank_hacker_aleksandr_ermakov/</guid>
-      <pubDate>Fri, 26 Jan 2024 18:15:37 GMT</pubDate>
+      <title>MongoDB - 复制（逐步）</title>
+      <link>https://www.reddit.com/r/programming/comments/1abqmgz/mongodb_replication_stepbystep/</link>
+      <description><![CDATA[ 由   提交/u/ricardohsmello   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1abqmgz/mongodb_replication_stepbystep/</guid>
+      <pubDate>Fri, 26 Jan 2024 19:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>大约十年前，我为 Windows 构建了一个资源高效的 REST API 客户端，已有超过 45,000 人使用。当时只是一个业余爱好项目。终于决定在本周将其开源。主要更新目前也在进行中。欢迎投稿！</title>
+      <link>https://www.reddit.com/r/programming/comments/1abpiam/almost_a_decade_ago_i_built_a_resourceefficient/</link>
+      <description><![CDATA[ 由   提交 /u/kid_jenius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1abpiam/almost_a_decade_ago_i_built_a_resourceefficient/</guid>
+      <pubDate>Fri, 26 Jan 2024 18:40:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>支付初创公司的经验教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1abpbgr/lessons_learned_from_payments_startups/</link>
+      <description><![CDATA[ 由   提交/u/pgr0ss  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1abpbgr/lessons_learned_from_payments_startups/</guid>
+      <pubDate>Fri, 26 Jan 2024 18:32:03 GMT</pubDate>
     </item>
     <item>
       <title>使用 React 的开源 Pong 游戏🏓🚀</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[ 由   提交/u/kakunuh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1abooih/automatically_update_hosts_file_from_a_filter_list/</guid>
       <pubDate>Fri, 26 Jan 2024 18:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能告诉我如何以编程方式检测该图像中的红色箭头，提前谢谢您:)</title>
-      <link>https://www.reddit.com/r/programming/comments/1abo8tf/can_anyone_kindly_tell_me_how_i_go_about/</link>
-      <description><![CDATA[ 由   提交/u/TonightAware8956  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1abo8tf/can_anyone_kindly_tell_me_how_i_go_about/</guid>
-      <pubDate>Fri, 26 Jan 2024 17:47:23 GMT</pubDate>
     </item>
     <item>
       <title>海尔的故事简介</title>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 26 Jan 2024 17:30:48 GMT</pubDate>
     </item>
     <item>
-      <title>帧指针 vs DWARF – 我的结论</title>
+      <title>帧指针 vs DWARF – 我的判断</title>
       <link>https://www.reddit.com/r/programming/comments/1abnud4/frame_pointers_vs_dwarf_my_verdict/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1abnud4/frame_pointers_vs_dwarf_my_verdict/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1abntii/use_any_for_generics_and_interface_for_interfaces/</guid>
       <pubDate>Fri, 26 Jan 2024 17:29:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>WASI 预览版 2 发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1abntho/wasi_preview_2_launched/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1abntho/wasi_preview_2_launched/</guid>
-      <pubDate>Fri, 26 Jan 2024 17:29:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
