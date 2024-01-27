@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 27 Jan 2024 09:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 12:19:59 GMT</lastBuildDate>
     <item>
-      <title>皮姆勒</title>
-      <link>https://www.opensourceagenda.com/projects/pymle</link>
-      <description><![CDATA[随机微分方程（扩散）的最大似然估计和模拟]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pymle</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:28 GMT</pubDate>
+      <title>皮科计划</title>
+      <link>https://www.opensourceagenda.com/projects/project-pico</link>
+      <description><![CDATA[因为在 2020 年代发布带有 Micro-USB 的产品应该是一种犯罪]]></description>
+      <guid>https://www.opensourceagenda.com/projects/project-pico</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:59 GMT</pubDate>
     </item>
     <item>
-      <title>GDPy</title>
-      <link>https://www.opensourceagenda.com/projects/hsulab-gdpy</link>
-      <description><![CDATA[使用 Python 激发深层潜力]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hsulab-gdpy</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:27 GMT</pubDate>
+      <title>Comfyui Inpaint 节点</title>
+      <link>https://www.opensourceagenda.com/projects/comfyui-inpaint-nodes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/comfyui-inpaint-nodes</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>麦克工具</title>
-      <link>https://www.opensourceagenda.com/projects/mc-tools</link>
-      <description><![CDATA[一些蒙特卡罗工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mc-tools</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:27 GMT</pubDate>
+      <title>阿普克斯特克罗尔</title>
+      <link>https://www.opensourceagenda.com/projects/apxutekror</link>
+      <description><![CDATA[kikus38ifritik]]></description>
+      <guid>https://www.opensourceagenda.com/projects/apxutekror</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>SpinMC.jl</title>
-      <link>https://www.opensourceagenda.com/projects/spinmcjl</link>
-      <description><![CDATA[晶格自旋系统的经典蒙特卡罗模拟]]></description>
-      <guid>https://www.opensourceagenda.com/projects/spinmcjl</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:27 GMT</pubDate>
+      <title>互斥器</title>
+      <link>https://www.opensourceagenda.com/projects/mutexer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mutexer</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>埃塞克斯实验室格兰德</title>
-      <link>https://www.opensourceagenda.com/projects/essex-lab-grand</link>
-      <description><![CDATA[用于在 OpenMM 中执行 GCMC 插入和删除水分子的 Python 模块。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/essex-lab-grand</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:26 GMT</pubDate>
+      <title>MTA集成</title>
+      <link>https://www.opensourceagenda.com/projects/mta-integration</link>
+      <description><![CDATA[Discord MTA Entegre Sistemi]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mta-integration</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>摩尔莱特</title>
-      <link>https://www.opensourceagenda.com/projects/moer-lite</link>
-      <description><![CDATA[面向教学的蒙特卡洛路径追踪（Monte Carlo Path Tracing）渲染框架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/moer-lite</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:26 GMT</pubDate>
+      <title>Frida Sigaction Seccomp</title>
+      <link>https://www.opensourceagenda.com/projects/frida-sigaction-seccomp</link>
+      <description><![CDATA[Frida-Sigaction-Seccomp实现对Android APP系统调用的拦截]]></description>
+      <guid>https://www.opensourceagenda.com/projects/frida-sigaction-seccomp</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>瓦洛MC</title>
-      <link>https://www.opensourceagenda.com/projects/valomc</link>
-      <description><![CDATA[用于模拟光传播的蒙特卡罗软件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/valomc</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:26 GMT</pubDate>
+      <title>我没有</title>
+      <link>https://www.opensourceagenda.com/projects/jen-ai</link>
+      <description><![CDATA[一个可以完全运行的简单语音转文本和文本转语音 AI 聊天机器人离线。&lt;​​/p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jen-ai</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>速度</title>
-      <link>https://www.opensourceagenda.com/projects/celeritas</link>
-      <description><![CDATA[Celeritas 是一种新的蒙特卡罗传输代码，旨在通过提高探测器模拟吞吐量来加速高能物理领域的科学发现以及使用 GPU 的能源效率。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/celeritas</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:25 GMT</pubDate>
+      <title>防火墙绕过</title>
+      <link>https://www.opensourceagenda.com/projects/firewall-bypass</link>
+      <description><![CDATA[使用进程注入绕过防火墙从互联网下载数据]]></description>
+      <guid>https://www.opensourceagenda.com/projects/firewall-bypass</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:56 GMT</pubDate>
     </item>
     <item>
-      <title>NQCDynamics.jl</title>
-      <link>https://www.opensourceagenda.com/projects/nqcdynamicsjl</link>
-      <description><![CDATA[Julia 中快速灵活的非绝热分子动力学！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nqcdynamicsjl</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:25 GMT</pubDate>
+      <title>交叉MAE</title>
+      <link>https://www.opensourceagenda.com/projects/crossmae</link>
+      <description><![CDATA[CrossMAE 论文的正式实现：重新思考屏蔽自动编码器的补丁依赖性]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crossmae</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:56 GMT</pubDate>
     </item>
     <item>
-      <title>斯科特山堡 摩纳哥</title>
-      <link>https://www.opensourceagenda.com/projects/scottshambaugh-monaco</link>
-      <description><![CDATA[使用工业级蒙特卡洛库量化计算机模型中的不确定性和敏感性。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/scottshambaugh-monaco</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:24 GMT</pubDate>
+      <title>朋友编辑</title>
+      <link>https://www.opensourceagenda.com/projects/paledit</link>
+      <description><![CDATA[在 PalWorld Saves 中编辑和生成 Pal 的简单工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/paledit</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:56 GMT</pubDate>
     </item>
     <item>
-      <title>罗宾·吉利欧期权定价</title>
-      <link>https://www.opensourceagenda.com/projects/robin-guilliou-option-pricing</link>
-      <description><![CDATA[各种模型的期权定价（Black-Scholes、Heston、Merton 跳跃扩散、等）和方法（蒙特卡罗、有限差分、傅立叶）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/robin-guilliou-option-pricing</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:24 GMT</pubDate>
+      <title>邪恶BPF</title>
+      <link>https://www.opensourceagenda.com/projects/evilbpf</link>
+      <description><![CDATA[通过研究 eBPF 来研究 Linux 内核 offsec（隐藏文件、PID、SSH 密钥等） /XDP]]></description>
+      <guid>https://www.opensourceagenda.com/projects/evilbpf</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>蒙特卡罗熊猫</title>
-      <link>https://www.opensourceagenda.com/projects/pandas-montecarlo</link>
-      <description><![CDATA[一个轻量级 Python 库，用于在 Pandas 系列数据上运行简单的蒙特卡洛模拟]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pandas-montecarlo</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:23 GMT</pubDate>
+      <title>光盘</title>
+      <link>https://www.opensourceagenda.com/projects/dishka</link>
+      <description><![CDATA[具有范围和令人满意的 API 的小型 DI 框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dishka</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>奥格姆2Pgbm</title>
-      <link>https://www.opensourceagenda.com/projects/ogm2pgbm</link>
-      <description><![CDATA[基于 BIM 的稳健 2D-LiDAR 定位，可在不断变化的动态环境中实现终身室内导航]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ogm2pgbm</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:23 GMT</pubDate>
+      <title>血魔团结</title>
+      <link>https://www.opensourceagenda.com/projects/bloodseeker-unity</link>
+      <description><![CDATA[Easy-as-dumb 工具包，可防止 Android 应用中出现任何恶意注入。谨防骗子！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bloodseeker-unity</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>偶然</title>
-      <link>https://www.opensourceagenda.com/projects/aleatory</link>
-      <description><![CDATA[📦 用于随机过程模拟和可视化的 Python 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aleatory</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:23 GMT</pubDate>
+      <title>访客IP6</title>
+      <link>https://www.opensourceagenda.com/projects/gost-ip6</link>
+      <description><![CDATA[Ip6 的 Gost 隧道脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gost-ip6</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>重叠定位</title>
-      <link>https://www.opensourceagenda.com/projects/overlap-localization</link>
-      <description><![CDATA[chen2020iros：学习基于重叠的 3D LiDAR 定位观测模型。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/overlap-localization</guid>
-      <pubDate>Sat, 27 Jan 2024 09:11:22 GMT</pubDate>
+      <title>筛选扫描</title>
+      <link>https://www.opensourceagenda.com/projects/siftscan</link>
+      <description><![CDATA[SiftScan 是一个集成资产识别、资产梳理、资产收集、弱点检测、漏洞检测等的工具。它致力于提高红蓝对抗/脆弱性赏金的效率。is a tool that integrates asset identification, asset sorting, asset collection, vulnerability detection, vulnerability detection, etc. It is committed to improving the efficiency of the red-blue confrontation/vulnerability bounty.]]></description>
+      <guid>https://www.opensourceagenda.com/projects/siftscan</guid>
+      <pubDate>Sat, 27 Jan 2024 12:19:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
