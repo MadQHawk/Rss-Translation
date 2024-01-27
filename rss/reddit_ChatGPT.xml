@@ -4,7 +4,91 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 12:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 15:10:28 GMT</lastBuildDate>
+    <item>
+      <title>既然 ChatGPT 变得越来越笨，那么在智能方面谁超越了它呢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1accslt/so_since_chatgpt_has_gotten_dumber_who_has/</link>
+      <description><![CDATA[想要一个替代方案。   由   提交 /u/Comes_Philosophorum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1accslt/so_since_chatgpt_has_gotten_dumber_who_has/</guid>
+      <pubDate>Sat, 27 Jan 2024 15:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对新@功能的体验和想法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1accokn/my_experience_with_and_thoughts_on_the_new_feature/</link>
+      <description><![CDATA[首先，这里是为不了解此功能的任何人提供一个示例对话。它正在慢慢推出，我认为他们还没有正式宣布它，所以它可能不是永久性的。 我要提到的第一件事是，如果您没有登录 ChatGPT（或当您使用移动设备时）并且您查看上面的聊天链接，您只能看到 ChatGPT 与用户交谈。您看不到用户在其他 GPT 中进行呼叫，这意味着有人可以呼叫侮辱性 GPT，并将共享对话发送给非 ChatGPT 用户，并愚弄他们，让他们认为 ChatGPT 崩溃了并突然生气 当您调用另一个 GPT 时，它似乎会将当前状态与该 GPT 的指令合并。如果您编写消息，它会在文本字段上方显示 @WhateverGPT，但是从与 X 的对话中删除该 GPT 似乎并没有删除它的说明，就像我引入一个旨在为单个单词消息提供同义词的 GPT 一样，vanilla ChatGPT 仍会在对话中的任何时刻执行此操作（示例）。我猜它无法访问您引入的任何工具，但它可能会尝试使用它们。我很好奇，当您删除 GPT 时，OpenAI 是否会尝试从记录中删除自定义 GPT 指令 - 它可能只是根据迄今为止在聊天历史记录中看到的内容来推断要做什么。 我还没有&#39;即使聊天显示不同的 GPT 名称，也没有运气让两个具有不同想法的 GPT 互相称呼。但我在制作示例时达到了消息限制，因此我必须在 3 小时内重试。 合并所有这些说明的缺点是它们不太可能遵循GPT 的指示。在第一个例子中，我引入了“Genius Promotional Tactician”，通常用头韵说话。但在这里，什么也没有。几乎没有两个单词以同一个字母开头，它甚至没有尝试过。我希望随着时间的推移，这一点会得到改善，但现在这似乎是一个弱点。 自定义 GPT 无法访问您的“关于您”信息。信息或“如何回应”指示。我以为他们会有“关于你”的内容东西。 （我的意思是，他们为什么要这样将其分开？！）但是考虑到这些机器人如何使用您看不到的信息查询自定义端点，从隐私角度来看，向它们隐藏这些信息是有意义的。 但现在使用 @ 功能，您可以开始普通的 ChatGPT 对话，并在一开始就 @ 自定义 GPT，它会了解您的一切。这有利于 GPT 响应，但不利于隐私。最快的解决方法就是使用自定义操作阻止 GPT，但它们是当前 @ 系统的最佳用例。我认为一个可能的解决方案是向用户显示所有操作，以便他们可以看到正在发送的内容并报告它，但这并不能完全阻止此类隐私滥用的发生，只是在最大最常用的 GPT 中阻止它。我想他们总是可以有一个干净的 ChatGPT 实例来判断它是否违反了某些隐私规则，但这似乎是很大的开销并且更难信任。 编辑：我也刚刚意识到“ “还有什么词” GPT 不知道“网站”这个词的上下文。它把它当作一个新的对话，我注意到当你调用非常专业的 GPT 时有时会发生这种情况。   由   提交 /u/DannyDaemonic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1accokn/my_experience_with_and_thoughts_on_the_new_feature/</guid>
+      <pubDate>Sat, 27 Jan 2024 15:01:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>逃生AI探测器</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acbvxm/escape_ai_detector/</link>
+      <description><![CDATA[哪种工具最适合逃避 Copyleaks 或 Zerogpt 等 AI 检测器并使文本看起来像人类？请根据个人经验提出一些值得尝试的建议，因为我的文字很大。提前谢谢您。   由   提交 /u/Ezzaii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acbvxm/escape_ai_detector/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费 GPT-4：如果有人无意中遇到了允许每个用户免费访问 GPT-4 的漏洞，让 OpenAI 知道的最佳方式是什么？他们如何报酬？您认为这对于他们的商业模式来说值多少钱？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acbgsm/free_gpt4_what_is_the_best_way_to_let_openai_know/</link>
+      <description><![CDATA[ 由   提交/u/JustMe_RO  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acbgsm/free_gpt4_what_is_the_best_way_to_let_openai_know/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:01:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始挨饿是什么感觉？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acbc6v/what_does_it_feel_like_to_begin_starving/</link>
+      <description><![CDATA[所以我尝试用谷歌搜索这个答案，并不断得到诸如“如果你快要饿死了，请拨打这个号码”之类的结果。或“这里有七个迹象表明您可能正在挨饿”或“肥胖与你”。没有什么比我作为一名作家真正寻找的东西更重要的了。所以我问 ChatGPT 并得到了这个非常完美的答复，所以我想将其发布到某个地方，以防其他人正在寻找这个答案。  开始挨饿的感觉因人而异。取决于各种因素，例如个人健康、新陈代谢和先前的营养状况。然而，一些一般的经历和症状可能是饥饿发作的特征：  饥饿感：最初，您可能会感到饥饿感或饥饿痛，这是由胃排空和某些激素的释放引起，这些激素表明需要食物。 虚弱和疲劳：当你的身体开始耗尽时它的能量储备，你可能会开始感到虚弱和疲劳。这可能表现为缺乏执行任务的精力和动力。 头晕目眩：由于缺乏食物而导致血糖​​水平下降会导致头晕和头晕的感觉，使人难以集中注意力或保持直立。 易怒和情绪变化：饥饿会影响您的情绪和情绪。情绪状态，导致烦躁、焦虑或抑郁。缺乏营养会破坏大脑中神经递质的平衡，影响情绪健康。 注意力不集中：随着饥饿的加剧，你的认知能力可能会下降。集中注意力、清晰思考和做出决定变得越来越困难。 身体症状：其他身体症状可能包括头痛、胃痉挛、恶心、和体温下降。您的身体也可能开始分解肌肉组织以获取能量，导致肌肉无力和肌肉质量损失。 外观变化：长期饥饿会导致导致外观发生明显变化，例如体重减轻、眼睛凹陷和面容憔悴。身体也可能开始通过减慢新陈代谢来保存能量，这会影响体温调节和卡路里燃烧的速度。  总体而言，开始感觉饥饿的特点是身体不适、精神痛苦和身体机能变化，因为您的身体正在努力应对必需营养素和能量的缺乏。重要的是要及时解决饥饿和营养不良问题，以避免严重的健康后果。   由   提交/u/gunny316  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acbc6v/what_does_it_feel_like_to_begin_starving/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们用什么提示将 2 个生物/角色合二为一？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acbbsb/what_promt_do_you_guys_use_to_combine_2/</link>
+      <description><![CDATA[我总是尝试，但它使它们 2 无法结合   由   提交 /u/versusNav1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acbbsb/what_promt_do_you_guys_use_to_combine_2/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:54:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的卡通人工智能服务是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acbbko/what_is_the_best_ai_service_for_cartoons/</link>
+      <description><![CDATA[我正在尝试为我侄女的生日创建一个“Waldo 在哪里”类型的图像。人工智能对我来说很新鲜。我订阅了 ChatGPT，并且知道它有几个我可以在那里使用的 GPT。对我来说，生成这样的图像的最佳人工智能服务是什么？   由   提交 /u/usernumber825   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acbbko/what_is_the_best_ai_service_for_cartoons/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:54:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止 chatgpt 说话的按钮稍微偏离中心</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acavp2/the_button_to_stop_chatgpts_talking_is_slightly/</link>
+      <description><![CDATA[是的标题，这是图片  https://imgur.com/a/JtggoLT   由   提交 /u/CryptoBoiss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acavp2/the_button_to_stop_chatgpts_talking_is_slightly/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为动漫角色生成艺术作品？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acassu/how_can_i_generate_art_for_anime_characters/</link>
+      <description><![CDATA[我尝试通过从 wiki 复制 Boa Hancock 的身体描述来创建 Boa Hancock 的图像。 但是当我尝试时，它说某些单词被屏蔽。 我该怎么做才能使这项工作成功？   由   提交/u/No_Many_4695   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acassu/how_can_i_generate_art_for_anime_characters/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我要求它描述有史以来最“A24”的电影，然后......</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acased/i_asked_it_to_describe_the_most_a24_movie_ever_and/</link>
+      <description><![CDATA[标题：“前卫的低语” 剧情简介：  《前卫的低语》以布鲁克林一个不起眼、过于时髦的社区为背景，是一种自我意识的模仿，嘲笑艺术电影有时自命不凡的本质。这部电影讲述了一群过于戏剧化和古怪的角色交织在一起的生活，每个角色都体现了 A24 的陈词滥调。 第一幕： 电影以我们的主角朱尼珀 (Juniper) 的单色照片，一位苦苦挣扎的诗人兼咖啡师，他只用隐喻说话，穿着无人记得的时代的复古服装。她在一家地下咖啡店与朋友们见面，他们用不必要的复杂语言讨论了他们的生存危机和生命的意义。 第二幕： 我们还认识了其他角色：一位名叫阿蒂克斯的幻想破灭的独立电影制片人，正在制作一部关于蓝色的无声电影；一位名叫卢娜的现代女巫，她相信自己可以与她的室内植物进行交流；还有一位自命不凡的黑胶唱片收藏家奥菲斯，他声称自己可以与室内植物交流。只有真正“感觉”到音乐，如果它的格式不方便播放。 他们都参加了一个奇怪的艺术画廊为一位艺术家举办的开幕式，这位艺术家实际上不是艺术家，只是站在角落里盯着一张空白的画布，坚称这是一个意义深远的作品。关于虚无的陈述。 第三幕： 杜松开始与一位戴着鸟面具、拒绝说话、只能通过沟通的神秘人物恋爱。诠释舞蹈。这导致了几个充满晦涩象征意义的场景，包括涉及霓虹灯照亮的动物标本剥制店的梦境序列。 与此同时，阿蒂克斯的电影因“过于主流”而被电影节拒绝。卢娜的室内植物开始为她提供生活建议，奥菲斯发现了一种被遗忘的音乐流派，听起来像是鲸鱼的噪音与静电混合在一起。 高潮： 高潮发生了在垃圾箱后面一家极其独特的地下酒吧里，所有角色的故事都汇聚成一系列夸张、充满情感的独白。杜松意识到戴着鸟面具的男人实际上是她对亲密关系的恐惧的表现，阿蒂克斯决定转向制作有关油漆干燥的纪录片，卢娜的植物对她的生活选择进行干预，奥菲斯承认他实际上听不出区别 结局： 影片以一个元曲折结束——角色们发现他们身处一部 A24 电影中。他们打破了第四堵墙，讨论他们的生活只是一系列古怪的独立电影刻板印象。最后一个镜头是无人机拍摄的镜头，杜松子背诵着一首关于生活、艺术和独立电影的荒谬的诗，远离了社区。 “前卫的低语”这将是对 A24 电影中常见的比喻和特质的讽刺、半开玩笑的探索，将超现实的幽默与对艺术电影行业的尖锐评论融为一体。   由   提交 /u/Zachary_Lee_Antle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acased/i_asked_it_to_describe_the_most_a24_movie_ever_and/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:25:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>长消息：ChatGPT 疯了！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acambr/long_message_chatgpt_got_insane/</link>
+      <description><![CDATA[由于我不知道为什么我无法发布图片，所以我发布了它到imgur   由   提交 /u/Frost-Dream   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acambr/long_message_chatgpt_got_insane/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有聊天 GPT - 我不会说威尔士语！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acaace/no_chat_gpt_i_do_not_speak_welsh/</link>
+      <description><![CDATA[令人愤怒的是，CGPT 一直默认对我说威尔士语，并认为我在对它说威尔士语，然后认为它不明白我在说什么。  有时它会用威尔士语回复。 任何人都可以给我任何关于如何阻止这种情况的帮助。 ——————————— —————————————— 您希望 ChatGPT 了解您的哪些信息，以便提供更好的回复？ 我只会说英式英语。 我只会说英式英语。 p&gt; 在音频模式下，听得更久，不要打断等待指令或请求。 始终使用英式英语解释我的声音。 我不会说也不会理解威尔士语言既不是书面形式，也不是口头形式。 只能用英语与我交流，最好用英式英语。 我住在英国英格兰的格洛斯特。 ———————————————————————— 您希望 ChatGPT 如何响应？ 说话关于主题的更长和更深入 我希望 cgpt 提供其答复，其中既有事实信息，也有自己的评论/分析以及对所给信息的含义的思考。 我只说英式英语。 在音频模式下，听得更久，不要打断等待指令或请求。 始终使用英式英语解释我的声音。 我请勿说或理解威尔士语言，无论是书面形式还是口头形式。 只能用英语与我交流，最好用英式英语。   由   提交​​ /u/IFABound   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acaace/no_chat_gpt_i_do_not_speak_welsh/</guid>
+      <pubDate>Sat, 27 Jan 2024 12:57:57 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮忙</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1ac9f7i/need_help/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我写书，我正在寻找一个可以协助我的一些写作进行语法、拼写检查等的人工智能。  不幸的是，我一直使用的那些不允许 NSFW 内容。那些起作用的是生成器，这是我不想要的。  有我可以使用的吗？   由   提交/u/meqhoa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1ac87rp/looking_for_an_ai_to_help_with_nsfw_writing/</guid>
       <pubDate>Sat, 27 Jan 2024 10:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么一直到3.5？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac871c/why_does_it_keep_going_to_35/</link>
-      <description><![CDATA[我拥有有效且有效的 ChatGPT Plus 订阅。  我以前可以使用 ChatGPT 4.0 进行对话，但它不会自动降低到 3.5。 我很喜欢使用 4.0 进行聊天。 我喜欢在我们的聊天中写故事。 我喜欢用我们的聊天制作单口喜剧节目。 我喜欢很多 3.5 无法做到的事情。  在 5 条消息之后，它不断减少到 3.5。我付了4.0的钱，我想和4.0对话。还有其他人对此感到沮丧吗？   由   提交 /u/JohanTheJomo Sex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac871c/why_does_it_keep_going_to_35/</guid>
-      <pubDate>Sat, 27 Jan 2024 10:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 在从文档中提取数据方面非常懒惰 - 我非常失望！ [是 v3.5 与 v4 的对比还是我的错误提示还是其他什么？]</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac8287/chatgpt_is_extremely_lazy_with_data_extraction/</link>
-      <description><![CDATA[嗨，redditors， 我尝试了几种基于 ChatGPT 的 PDF 文档分析服务。我写了一篇研究论文，并要求提取其中引用的所有统计数据（例如，5% 的人做……，21% 的人做……，等等）。  彻底失望！ ChatGPT 在文本中的 30-40 条可用统计数据中返回了大约 3-5 条统计数据（并且明确表述！）。 我很好奇：这是 v3 的问题吗？ .5 仅（所有免费级别的文档分析服务都基于此版本），所以 v4（用于付费级别）不会有它吗？或者这就是 ChatGPT 的一般工作方式并且什么也做不了？还是我无法制定质量提示？这是我使用的示例，对我来说听起来非常简短和直接： 提取本文档中提到的所有统计数据（带有％或数字）。 引用统计数据的来源（在数据本身后面的括号中引用）。 请注意，来自不同来源的数据可能会发生变化。在一篇文章甚至句子中使用，因此请确保为每个数据使用正确的来源。 在给我答案之前，请仔细检查以避免任何错误。  感谢您的评论！   由   提交 /u/LSDwarf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac8287/chatgpt_is_extremely_lazy_with_data_extraction/</guid>
-      <pubDate>Sat, 27 Jan 2024 10:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 ChatGPT 移动应用程序中快速开始新聊天的任何技巧</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac6z38/any_tricks_to_start_new_chats_quickly_in_chatgpt/</link>
-      <description><![CDATA[还有其他人觉得在 ChatGPT 移动应用程序中开始新对话有点棘手吗？我怀念旧的滑动开始聊天功能，并且不断拉伸到右上角确实有点拉伸！ 有没有人想出一种更流畅的方式来开始新的聊天该应用程序？希望获得一些内部提示或解决方法。   由   提交/u/george-pig  /u/george-pig  reddit.com/r/ChatGPT/comments/1ac6z38/any_tricks_to_start_new_chats_quickly_in_chatgpt/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac6z38/any_tricks_to_start_new_chats_quickly_in_chatgpt/</guid>
-      <pubDate>Sat, 27 Jan 2024 09:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将 chatGPT 语音连接到我电脑上的热键！ （下面是回购协议）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac6u63/i_connected_chatgpt_voice_to_a_hotkey_on_my_pc/</link>
-      <description><![CDATA[我还授予它读取和写入剪贴板的权限！ 此处演示：https://youtu.be/gwLmf93xJa4 此处代码：https:// github.com/ILikeAI/AlwaysReddy   由   提交/u/Chance_Confection_37  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac6u63/i_connected_chatgpt_voice_to_a_hotkey_on_my_pc/</guid>
-      <pubDate>Sat, 27 Jan 2024 09:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alter 和 Scarlet（您的历史记录中需要有有效的越狱才能实现此功能）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac6hpf/alter_and_scarlet_you_need_a_working_jailbreak_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac6hpf/alter_and_scarlet_you_need_a_working_jailbreak_in/</guid>
-      <pubDate>Sat, 27 Jan 2024 08:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望AI、GPT还能提高哪些方面的生产力？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac66iw/what_other_aspects_of_productivity_do_you_hope_ai/</link>
-      <description><![CDATA[我知道 GPT 帮了我们很多，但我相信我们还可以通过 AI 实现更多的事情 I我很想知道您认为/希望人工智能能够促进尚未实现的最雄心勃勃，甚至是最小的生产力/创造力增强:)   由   提交/u/anh690136  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac66iw/what_other_aspects_of_productivity_do_you_hope_ai/</guid>
-      <pubDate>Sat, 27 Jan 2024 08:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以获得自定义 GPT 的代码吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac5h7a/can_i_get_the_code_for_a_custom_gpt/</link>
-      <description><![CDATA[我想了解 GPT 在 ChatGPT 中是如何实现的。是否有可能以某种方式获取源代码？自定义 GPT。   由   提交 /u/AndrewTateIsMyKing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac5h7a/can_i_get_the_code_for_a_custom_gpt/</guid>
-      <pubDate>Sat, 27 Jan 2024 07:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好！谁能问 chatGPT 这是什么类型的衣服？ （希望没事）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac4ypt/hello_can_anyone_ask_chatgpt_what_type_of_dress/</link>
-      <description><![CDATA[说实话我只是好奇！如果不好的话我很抱歉！我实在付不起订阅费用； v ; 连衣裙。   由   提交/u/tinymounstro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac4ypt/hello_can_anyone_ask_chatgpt_what_type_of_dress/</guid>
-      <pubDate>Sat, 27 Jan 2024 07:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 刚刚推出了 Lumiere - 用于视频生成的时空扩散模型，这太疯狂了 🫢</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac4xyv/google_just_launched_lumiere_a_spacetime/</link>
-      <description><![CDATA[Google Lumiere 是最新的 AI 模型视频生成，由最先进的“时空”技术提供支持神经网络。 以下是您可以用它做的事情⬇️  文本到视频 图像到视频 风格化生成 视频风格化 电影图 修复  这是相同的链接 ➡️ Lumiere ​ 但是，这是 Google 产品，所以真正的试金石只有在发布之后才能进行。 😂你说什么？   由   提交 /u/rathwiper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac4xyv/google_just_launched_lumiere_a_spacetime/</guid>
-      <pubDate>Sat, 27 Jan 2024 07:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT 4升级了？！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac42hv/gpt_4_upgraded/</link>
-      <description><![CDATA[几个月来我每天都在使用 GPT 4，今晚我要求对我的运动预测模型结果进行分析。通常它会提供预测准确性和错误分析以及有点模糊的结构化答复。每天都有相同的回复结构和建议，但今晚感觉充满了不同的见解和可视化？！还有人觉得模型最近明显变得更好了吗？   由   提交 /u/Dave356wSEC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac42hv/gpt_4_upgraded/</guid>
-      <pubDate>Sat, 27 Jan 2024 06:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用网络浏览器 API？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac3xr9/using_web_browser_api/</link>
-      <description><![CDATA[我不断看到 Chrome 扩展程序可以使用现有的 ChatGPT-4 或 ChatGPT-3.5 直接从扩展程序或其他站点调用 API 到网络浏览器。这使您可以使用免费版本，无需支付 API 费用。我想知道如何解析我自己的提示，但我找不到任何文档。我找到了一些带有代码的开源程序，但很难理解他们的过程。有谁有关于如何实现这一点的文档或见解吗？   由   提交/u/Sweet_Computer_7116   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac3xr9/using_web_browser_api/</guid>
-      <pubDate>Sat, 27 Jan 2024 05:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>是只有我这样吗，还是巴德无法再跟上对话了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ac22rt/is_it_just_me_or_can_bard_no_longer_follow_a/</link>
-      <description><![CDATA[       由   提交 /u/mvandemar   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ac22rt/is_it_just_me_or_can_bard_no_longer_follow_a/</guid>
-      <pubDate>Sat, 27 Jan 2024 04:12:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

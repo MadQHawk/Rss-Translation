@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 12:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 15:11:36 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个编程助手，可以搜索网络以帮助将包集成到您的代码中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac99ei/i_built_a_programming_assistant_that_searches_the/</link>
-      <description><![CDATA[   /u/jsonathan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac99ei/i_built_a_programming_assistant_that_searches_the/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:55:13 GMT</pubDate>
+      <title>我觉得我完全依赖 ChatGPT，浪费了我参加的训练营，而且我不知道如何回到正轨。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1accnuh/i_feel_like_i_wasted_the_bootcamp_i_took_by/</link>
+      <description><![CDATA[我去年参加了一个训练营，然后和我的女朋友一起搬到一个新的国家。搬家后，我需要一份固定的工作以及语言课程，这让我没有时间做任何项目来练习自己的技能。 两个月后我终于有时间了，但在试图获得一个我发现我可以在不向 ChatGPT 寻求帮助的情况下做绝对的事情。我正在制作一个我想做的小游戏，但后来每日配额用完了，我完全不知道如何继续。我想也许在代码战争上尝试一些更简单的事情可以帮助我，但我什至不能做 7 kyu 练习。我有点想哭。    由   提交 /u/churrundo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1accnuh/i_feel_like_i_wasted_the_bootcamp_i_took_by/</guid>
+      <pubDate>Sat, 27 Jan 2024 15:01:02 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 Monaco 编辑器制作了交互式 TSX 教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac92e7/i_made_an_interactive_tsx_tutorial_using_monaco/</link>
-      <description><![CDATA[ 由   提交/u/traintocode  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac92e7/i_made_an_interactive_tsx_tutorial_using_monaco/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:42:22 GMT</pubDate>
+      <title>将 UX 开发外包给非技术图形设计师是否可行，他将使用图像或（基本 HTML/CSS），然后让前端编码人员在代码中实现它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1accj3p/is_it_feasible_to_outsource_ux_dev_to_a/</link>
+      <description><![CDATA[我是一名全栈开发人员，包括 CSS 重置、HTML、前端 JS 以及使用 React 构建前端组件（使用 CSS模块）。我有作为用户体验视觉设计师的时刻，但这并不是我的强项，如果可能的话，我想将其外包。 我在想，与其自己做这件事或雇用技术熟练的前端编码员，不如自己做这件事关于将其外包给图形设计师，他们渲染简单的图像，或者使用 Bootstrap 等库在 HTML/CSS 中实现它，然后我可以将其转移到带有 CSS 模块的 ReactJS 中。客户可以与图形设计师联络，直到他们对设计感到满意为止，然后我会从那里开始设计。 想法？  &amp;# 32；由   提交/u/U4-EA  /u/U4-EA  reddit.com/r/webdev/comments/1accj3p/is_it_feasible_to_outsource_ux_dev_to_a/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1accj3p/is_it_feasible_to_outsource_ux_dev_to_a/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>当这样的事情发生时，SEO 还有什么意义呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac8y8p/whats_the_point_in_seo_when_stuff_like_this/</link>
-      <description><![CDATA[       由   提交 /u/GenericUsernames101   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac8y8p/whats_the_point_in_seo_when_stuff_like_this/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:34:32 GMT</pubDate>
+      <title>我做了这个阿蒂克斯仪表板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1accbf8/i_made_this_atticus_dashboard/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/bogdan0000  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1accbf8/i_made_this_atticus_dashboard/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:44:13 GMT</pubDate>
     </item>
     <item>
-      <title>为什么网站的宽度不适合全屏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac8y88/why_does_the_width_on_website_no_fit_full_screen/</link>
-      <description><![CDATA[      这是如何完成的以及我们需要应用的通常宽度是多少？  我复制了这样的宽度，但执行了 ; &lt;组1&gt;  .group1 { 最大宽度：1440; }    由   提交 /u/ApioxFR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac8y88/why_does_the_width_on_website_no_fit_full_screen/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:34:30 GMT</pubDate>
+      <title>后端开发新手</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acc7m4/new_to_backend_development/</link>
+      <description><![CDATA[嘿伙计们，我是一名前端开发人员，我刚刚开始学习后端，我已经学习了 Go 并且正在使用 gin 框架，它是有趣，但我需要你的帮助和推荐来了解更多有关用户身份验证和授权的知识，所以如果你们能给我提示或推荐非常有帮助的课程或书籍，先谢谢你们。   由   提交/u/Sharon_tate1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acc7m4/new_to_backend_development/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个网站来聚合人工智能领域的职位</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac8trt/i_made_a_site_to_aggregate_jobs_in_ai/</link>
-      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac8trt/i_made_a_site_to_aggregate_jobs_in_ai/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:26:12 GMT</pubDate>
+      <title>正在寻找项目协作论坛来学习新技术，有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acc21k/looking_for_project_collaboration_forums_to_learn/</link>
+      <description><![CDATA[大家好，作为开发人员已有几年了。想要研究一些新技术，但也想从事业余项目之外的事情，在那里我可以在应用学到的知识的同时做出一些贡献。 有谁知道有哪些论坛列出了需要开发工作的项目？例如，使用 Vue/react/Laravel 构建功能/Greenfield 构建项目 到目前为止，当我搜索开源项目时，我通常最终会找到具有内务任务的维护项目。我会很高兴找到一些可以参与改变代码库的东西，同时我可以了解正在使用的模式。 提前致谢！   由   提交/u/Professional-Leg1645   /u/Professional-Leg1645 reddit.com/r/webdev/comments/1acc21k/looking_for_project_collaboration_forums_to_learn/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acc21k/looking_for_project_collaboration_forums_to_learn/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>SharpAPI - 面向程序员的人工智能瑞士军刀 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac8nt9/sharpapi_aipowered_swiss_army_knife_api_for/</link>
-      <description><![CDATA[嘿，各位程序员！ 与大家分享我过去两个月一直在做的项目。它的主要思想是节省无数的编程时间，并通过 2 行代码为您的应用程序提供 AI 功能。 我在 Laravel 上构建了整个平台，它的第一个客户端也是 Laravel &amp; 的包;其他 PHP8 框架。  它能为开发人员及其应用程序做什么？ 它可以为常见的数据处理场景快速添加常用的人工智能功能，例如 - 产品对组织良好的产品目录进行分类  - 生成引人入胜的产品描述和标记  - 过滤掉垃圾邮件内容  - 允许理解和分析产品中的情绪用于数据驱动决策的评论、评论、用户反馈 -生成复杂的职位描述并从简历文件中提取信息以便于处理 -以及更多...&lt; /p&gt; ​ 谢谢！   由   提交 /u/FunDaveX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac8nt9/sharpapi_aipowered_swiss_army_knife_api_for/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:14:57 GMT</pubDate>
+      <title>[Showoff Saturday] 跟踪锻炼很慢，所以我做了一个可以通过点击快速添加我的组数的方法，并使用自定义滑块进行调整</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acbx3k/showoff_saturday_tracking_workouts_is_slow_so_i/</link>
+      <description><![CDATA[      &amp;# 32；由   提交 /u/competetowin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acbx3k/showoff_saturday_tracking_workouts_is_slow_so_i/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:24:36 GMT</pubDate>
     </item>
     <item>
-      <title>我做了神秘搜索 - Google，但你得到了最后一个人的搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac8bkc/i_made_mystery_search_google_but_you_get_the_last/</link>
-      <description><![CDATA[       由   提交 /u/MarzipanCraft   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac8bkc/i_made_mystery_search_google_but_you_get_the_last/</guid>
-      <pubDate>Sat, 27 Jan 2024 10:51:59 GMT</pubDate>
+      <title>我有一本 2019 年的 React 和 Redux 书，这本书作为入门基础仍然有用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acbfve/i_have_a_react_and_redux_book_from_2019_will_this/</link>
+      <description><![CDATA[标题   由   提交 /u/omlette_du_chomage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acbfve/i_have_a_react_and_redux_book_from_2019_will_this/</guid>
+      <pubDate>Sat, 27 Jan 2024 14:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>API设计建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac84zm/api_design_advive/</link>
-      <description><![CDATA[大家好， 我正在构建一个与 React 前端一起使用的节点 API。我只是在寻找有关 api 结构的一些建议。 因为只有数据由后端提供，而不是前端本身，所以是否有处理请求的特定模式。此外，该应用程序是多租户的，数据既特定于租户又特定于属性，因此每个请求都需要传递信息。用户和租户当前在 JWT 中传递，然后前端在请求中传递站点（物理属性），后端确认该用户对此站点的访问权限。 我开始了只是使用 req.query 对象通过我的请求传递变量，但我只是想确保我不会让自己进一步头痛。 示例：  &lt; li&gt;/users?siteId=1 /bookings?siteId=1&amp;start=2024-01-10T00:00:00:000&amp;end=2024- 01-12T00:00:00:000 /stats/on-site?siteId=1&amp;date=2024-01-10 &lt; li&gt;/guests?siteId=1 Etc 等  我有限制访问的身份验证逻辑如有必要，请访问网站等。 对此的任何想法，我们深表谢意。如果我继续这样下去，是否会遇到任何陷阱？ 谢谢西蒙   由   提交/u/Wotsits1984  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac84zm/api_design_advive/</guid>
-      <pubDate>Sat, 27 Jan 2024 10:39:41 GMT</pubDate>
+      <title>Chartjs 与 .Net 8 mvc TypeScript</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acbfcd/chartjs_with_net_8_mvc_typescript/</link>
+      <description><![CDATA[我有一个 .Net 8（核心）MVC Web 应用程序，我在上面安装了打字稿编译器。我之前曾使用过 ChartJS 和 MVC，只是使用普通的 JavaScript，但我不知道如何使用 TypeScript 来完成这项工作。有什么想法吗？也许我应该在mvc项目中放弃TS？   由   提交 /u/twigmytwig   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acbfcd/chartjs_with_net_8_mvc_typescript/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:59:57 GMT</pubDate>
     </item>
     <item>
-      <title>静态提供 CSS 的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac7186/problem_in_serving_css_statically/</link>
-      <description><![CDATA[      嘿，我需要一些帮助，使用 express.static 静态地提供 css 文件。我无法正确地访问CSS，每当我走一条路线时，大多数情况下CSS都会正确加载，但是当我从该页面重定向到另一个路线时，CSS根本不会加载。只是简单的 html 正在显示。但如果我重新加载同一页面，CSS 就会再次加载。我很困惑到底出了什么问题。有人可以帮助我吗？ 我会分享我的目录结构以及中间件代码。 https://preview.redd.it/tdeoc8kbayec1.png?width=788&amp;format=png&amp;auto=webp&amp;s=7db6b7bc63faaa7597d29d4ac d9e619a4ea0b34d  https://preview.redd .it/yeef52ceayec1.png?width=192&amp;format=png&amp;auto=webp&amp;s=6e12b16877ad62083a143250cdcf0fdda9157bdd   由   提交/u/No-ash_03  /u/No-ash_03  reddit.com/r/webdev/comments/1ac7186/problem_in_serving_css_statically/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac7186/problem_in_serving_css_statically/</guid>
-      <pubDate>Sat, 27 Jan 2024 09:21:34 GMT</pubDate>
+      <title>wtframework/sql：PHP 的 SQL 语句生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acbdtb/wtframeworksql_an_sql_statement_builder_for_php/</link>
+      <description><![CDATA[   /u/wtframework  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acbdtb/wtframeworksql_an_sql_statement_builder_for_php/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>WASM 的意义是什么？我应该如何/何时使用它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac6x3i/whats_the_point_of_wasm_and_howwhen_should_i_use/</link>
-      <description><![CDATA[我已经听说 Web Assembly 几个月了，我决定开始使用它。它应该比 JavaScript 更快、更安全。但我正在观看一个谈论它的视频，这很奇怪，因为那家伙说它是由 JS 读取（或解释）的。这是真的？只是JS在后台运行，怎么可能比JS快呢？我确信情况并非如此，因为它只会使其速度变慢？ 但即便如此，它的实际用途是什么？有没有办法将其作为一个小型测试部分集成到我已经建立的项目中？这对我来说是一个新的（但不是那么新的）概念。编码和编译为 WASM 的最流行方法是什么？我可以将其与 Svelte 或 Vue 或任何其他框架一起使用吗？   由   提交/u/cake_with_talent  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac6x3i/whats_the_point_of_wasm_and_howwhen_should_i_use/</guid>
-      <pubDate>Sat, 27 Jan 2024 09:13:28 GMT</pubDate>
+      <title>[Showoff Saturday] 我建立了一个网站，根据您的提示生成 SQL 查询</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acb9yo/showoff_saturday_i_built_a_website_to_generate/</link>
+      <description><![CDATA[涉及的技术有： - Vue：这是我选择的框架，但是学习组合 API 比我想象的要难 - NodeJS：这对我来说不是什么新鲜事，我没有尝试新事物 - openAI：很棒的 AP​​I，我还需要学习更多！ &lt; p&gt;- Stripe：必须将客户门户添加到您的平台中，让用户自己订阅并处理订阅，这将节省大量时间。 登陆页面 应用    由   提交/u/kirdape   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acb9yo/showoff_saturday_i_built_a_website_to_generate/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:51:51 GMT</pubDate>
     </item>
     <item>
-      <title>前端开发人员可以在没有后端开发人员帮助的情况下构建网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac6jsu/can_a_frontend_developer_build_a_website_without/</link>
-      <description><![CDATA[​ 考虑参加课程以成为一名经过认证的前端开发人员。我只是想知道在没有接受后端开发技能培训的情况下我能做什么的局限性，因为这些课程非常昂贵。成为一名全栈开发人员是否需要自己构建网站，或者我可以仅使用前端知识来完成它吗？ 与每种技能相比，我可以使用两种技能组合构建的网站有哪些示例其他？   由   提交 /u/PerfectConclusion932   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac6jsu/can_a_frontend_developer_build_a_website_without/</guid>
-      <pubDate>Sat, 27 Jan 2024 08:48:34 GMT</pubDate>
+      <title>我们是否需要最好的朋友？我们的做法是否正确？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acb7jr/do_we_need_a_bff_and_are_we_doing_it_the_right_way/</link>
+      <description><![CDATA[我们正在重建服务/网页及其后端，并重新评估其架构。 我们之前的设置是： - 前端客户端（其联系表单） - 通过 RESTFul API 与 JAVA 后端进行通信。 通信是只是一个“POST”请求（该页面是一个在用户之间发送消息的表单）。后端负责将消息保存到数据库，以及将消息推送到队列并触发一些其他错误逻辑（例如，向收件人发送电子邮件通知） 现在开始我们的新设置. 一位高级后端工程师建议添加另一个端点（我们称之为 BFF），该端点将驻留在前端层。 ( https://docs.astro.build/en/core-concepts/端点/#server-endpoints-api-routes）前端层端点将承担一些职责，例如 -验证字段 -清理 - 提供 recaptcha 服务 - 可能使用垃圾邮件检测第三方 API - 最终将 JSON 转发到后端（Java 层）。 ​ 我对这种架构提出质疑，因为我意识到“后端-后端”是一种复杂的架构。 *也*将承担 BFF 的一些（如果不是大部分）职责。 （例如，它也会进行验证）。 我有两个担忧：  我们到底为什么要重复逻辑？ 不会验证规则或业务逻辑不同步？  ​ 顺便说一句，拥有“BFF”的目标是前端开发人员方面更加灵活。当我们将消息转发到后端时，我们需要遵守一个 JSON 架构（合约），理论上它允许我们（前端开发人员）在不接触后端代码的情况下添加/删除字段。我质疑增加的复杂性是否值得。我的建议是在 JS 上编写后端代码，以便所有开发人员都可以在堆栈的所有部分上工作。   由   提交/u/athens2019  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acb7jr/do_we_need_a_bff_and_are_we_doing_it_the_right_way/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>🖤❤️心潮澎湃</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac69ib/heartwave/</link>
-      <description><![CDATA[ 由   提交/u/mburakerman  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac69ib/heartwave/</guid>
-      <pubDate>Sat, 27 Jan 2024 08:28:47 GMT</pubDate>
+      <title>我是一名尝试建立网站的数据科学家</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acag3q/im_a_data_scientist_that_took_a_crack_at_building/</link>
+      <description><![CDATA[      大家好，现在来与大家分享这个 过去几个月我热衷的项目是使用大语言模型来比较新闻文章并找到关键差异。目的？让人们非常容易地看到新闻报道的多种观点，因为我们生活在一个媒体机构依赖于人们缺乏时间来研究他们想要传播的叙述之外的世界。  因此，我摆脱了整天使用 Python 和构建 ML 模型的舒适区，学习了全新的技术堆栈。并建立了 NewsCord。  我是第一次做前端开发，请多多包涵！使用起来很简单。粘贴您感兴趣的文章并点击搜索。将您的文章与不同出版商的类似文章进行比较。或者，只需前往“热门新闻”部分，查看当前重大新闻主题的热门新闻。 希望得到这个社区的一些想法和反馈❤️   由   提交/u/nimzinho  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acag3q/im_a_data_scientist_that_took_a_crack_at_building/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:06:42 GMT</pubDate>
     </item>
     <item>
-      <title>帮我挑一堆！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac617o/help_me_pick_a_stack/</link>
-      <description><![CDATA[所以，我目前是一名 PHP/Typescript 人员，希望重写我早就该进行的 SAAS 检修。我没有按时完成任务，并且非常乐于学习新东西。  背景： 这是一个小众社交网络应用程序，类似于 Facebook，但成人网站拥有大约 100 万用户（并非所有活跃用户）。目前在 3 台专用服务器上运行，微服务在 AWS 上，资产在 cloudfront/s3 上。跨时区大约 1-2k 并发用户。  前端： 前端的第一个想法是 React，但是（React 开发人员快要恨我了）我真的不认为它对 SEO 非常友好（海绵宝宝模因，但 Google 解析渲染的 js等等）但我也有一个庞大的国际用户群，因此有效负载大小是一个重要因素。  我考虑过将它仅用于会员区域，这显然是 React 的一个很好的用例。唯一的问题是公开内容中有很多交叉内容，并且不能将其写入两次。  Vue.js 似乎是一种可能性，并且似乎有可能获得相当小的有效负载，并且对 SSR 更友好，这将解决公共/成员可重用性问题，所以我想我想要一些原因我的这个思维过程是错误的。  老派的 Jquery/Bootstrap/SASS 风格？显然是超轻（zepto），但已经完成了，虽然它是轻自动对焦，并且与我的简约强迫症融为一体。我真的很喜欢基于组件的方法和较新的框架。  后端：SSR 绝对是一个主要需求。能够很好地提高组件可重用性的东西。有点想 Nest.js（Nuxt？），但我真的很想涉足 Go。我想使用 websockets 进行消息/通知，似乎 go 在资源方面更好一点，但似乎没有很多模板选项（基于 3 秒的谷歌搜索，请建议）像 Laravel 之类的东西。我还拥有 20 年经验（至少是 PHP）的额外好处 所以……现在我已经惹恼了这里的每一位开发人员……我是一本开放的书。真的很想用所有的可能性来看待这个问题。我有点老派，我真的很喜欢最小的依赖性，并且诚实地喜欢尽可能多地从裸机构建 对任何和所有讨论和辩论持开放态度。所有选项都有优点和缺点，我很想听听您对在我的场景中使用什么的意见。尤其是那些我没有考虑过的。   由   提交/u/dontletthestankout   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac617o/help_me_pick_a_stack/</guid>
-      <pubDate>Sat, 27 Jan 2024 08:12:55 GMT</pubDate>
+      <title>普洛提乌斯 |用于讲述数据故事的 JavaScript 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acafbm/plotteus_the_javascript_library_for_data/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acafbm/plotteus_the_javascript_library_for_data/</guid>
+      <pubDate>Sat, 27 Jan 2024 13:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>印刷媒体风格导航</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac5lcc/navigation_in_print_media_style/</link>
-      <description><![CDATA[      教程、代码和示例演示：此处  &amp; #32；由   提交/u/mirhod  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac5lcc/navigation_in_print_media_style/</guid>
-      <pubDate>Sat, 27 Jan 2024 07:43:45 GMT</pubDate>
+      <title>我为 React 构建了一个播放列表播放器组件（免费，开源）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aca5er/i_built_a_playlist_player_component_for_react/</link>
+      <description><![CDATA[   /u/bezdazen   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aca5er/i_built_a_playlist_player_component_for_react/</guid>
+      <pubDate>Sat, 27 Jan 2024 12:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>Web 应用程序 - 客户帐户登录模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ac5isa/web_app_customer_account_login_template/</link>
-      <description><![CDATA[我做网站已经很多年了，但我仍然无法集中精力找到任何简单快捷的东西。我正在寻找一个经过修改的网络应用程序模板，该模板将允许我的客户创建帐户、登录并查看他们的文档、帐户详细信息、未结帐单并进行付款。  模板必须在 Visual Studio 中可编辑，并链接到 MSSQL 作为数据库 - 所以我对预制商店网站等不感兴趣，它用于这些模板/的一组定制服务网站构建器网站无法处理。 有什么想法吗？我在哪里可以获得这样的模板，这样我就不必花费几个月的时间从头开始构建？   由   提交/u/james1b14  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ac5isa/web_app_customer_account_login_template/</guid>
-      <pubDate>Sat, 27 Jan 2024 07:38:50 GMT</pubDate>
+      <title>[Showoff Saturday] 在线地图编辑器 - 添加标记、线条、沿线设置动画标记、生成像素图和热图。下载为 JS 代码、静态图像，或直接嵌入到网站中。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aca18t/showoff_saturday_online_map_editor_add_markers/</link>
+      <description><![CDATA[    /u/martynasma   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aca18t/showoff_saturday_online_map_editor_add_markers/</guid>
+      <pubDate>Sat, 27 Jan 2024 12:42:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
