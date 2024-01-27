@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 26 Jan 2024 21:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:51:49 GMT</lastBuildDate>
+    <item>
+      <title>有人使用 Curio AI 或其他工具进行原始素材搜索吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1abxls4/has_anyone_used_curio_ai_or_other_tools_for_raw/</link>
+      <description><![CDATA[你知道他们是否曾经推出过吗？我正在研究用于索引/搜索的工具 - 我想知道您使用哪些工具和/或工作流程。 这是我发现 Curio 的演示：https://www.youtube.com/watch?v=tz4RyOZKLUg&amp;t=590s 似乎可以原始成绩单搜索、人脸搜索，还有一些其他功能。   由   提交 /u/bunnyfy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1abxls4/has_anyone_used_curio_ai_or_other_tools_for_raw/</guid>
+      <pubDate>Sat, 27 Jan 2024 00:28:13 GMT</pubDate>
+    </item>
     <item>
       <title>寻找为录音生成字幕的服务</title>
       <link>https://www.reddit.com/r/editors/comments/1absy9x/looking_for_a_service_to_generate_subtitles_for/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[https://youtu.be/dQEmaj9C6ko?si =IL33zlJ01RLQenye   由   提交/u/edit-boy-zero  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1absvd7/a_truly_stupendous_and_eyeopening_video_about/</guid>
       <pubDate>Fri, 26 Jan 2024 21:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频编辑 - 建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1absmvm/video_editing_advice/</link>
-      <description><![CDATA[您好，reddit！ 这不是广告，我只是寻求建议。 我将视频编辑视为副业，因为从我记事起我就一直在编辑。然而，其中很多都是我 12 岁时发布的《使命召唤》游戏视频。当涉及到更严肃的编辑视频时，我只有 2 或 3 个可以向人们展示，其他的更多是动作设计而不是编辑。 （一个是音乐视频，另外两个是大学项目） 所以我的问题如下：  我如何寻找客户？ （主要问这个是因为我的老板讨厌副业，因为它们没有安全感） 制作宣传视频展示一些编辑技巧是个好主意吗？这将讨论定价，并将作为向客户的介绍（如果/当我最终找到一个哈哈） 最后，收费多少是合适的？我在想每 10 分钟视频 50 美元等等。我知道很难为您的时间定价，因为它完全取决于技能水平和自尊，我只是好奇你们过去收取/已经收取了多少费用？  抱歉如果您经常收到这些问题，请务必将我与其他提出类似问题的人联系起来。 感谢您的回复！  &amp;# 32；由   提交 /u/EveryDayIsPainv3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1absmvm/video_editing_advice/</guid>
-      <pubDate>Fri, 26 Jan 2024 20:53:26 GMT</pubDate>
     </item>
     <item>
       <title>关于编解码器的真正出色的视频（轻微 OT）</title>
@@ -78,7 +78,7 @@
     <item>
       <title>有人知道一个好的隐藏式字幕工作流程吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1abmyil/anyone_know_a_good_closed_captions_workflow/</link>
-      <description><![CDATA[嘿嘿！我即将失去我的绝对理智，所以如果这里有人足够聪明，知道解决方案，我可能会永远爱你。 情况是这样的： 我是一名全职员工YouTuber/内容创作者（无论你想怎么称呼它，我自己也编辑这些视频），我们每两周发布一次长篇作品。这些视频都在屏幕底部添加了隐藏式字幕。这些总是以特定的方式格式化以帮助参与。每框一行，最多 25 个字符等。 我们过去使用 Premiere Pro 内置的语音转文本生成器，显然它首先会创建文字记录，修复错误，然后将其转换为隐藏式字幕。当您生成此字幕轨道时，您可以选择每个框所需的行数、最大字符数等。就像我们需要的那样。这很好，因为我需要两个不同的 SRT 文件。一种是在屏幕上显示单行风格化字幕，另一种是在上传时提供给 YouTube 的标准广播设置（两行、正常字体等）。 但问题是：不仅如此最近更新后，语音转文本功能完全无法使用（老实说，它弄错了一切，这真是令人震惊），但我也想让那些字幕公司之一来写它们，因为我们/我花了整整 5 个小时才得到它们对（我说了很多）。  但是，这些公司仅提供适合自己上传到 YouTube 的标准化格式的 SRT 文件，而不提供屏幕上的单行风格化字幕。但是当 SRT 不是来自他们自己的“转录”面板时，Premiere 不允许我更改为单行或字符限制。而且他们还只允许以自己的特定文件格式导入转录本，而这些公司似乎也不提供这种服务。 是否有任何方法可以获取现有的 SRT 文件并能够在 Premiere 中将其重新格式化为是单行并且有特定的字符限制吗？我什至不介意是否需要插件或第三方软件来路由它，它只是到了需要花费大量宝贵时间的地步（天哪，这太无聊了）。  ​ 如果有人经历过类似的事情，请告诉我！   由   提交/u/QuintenHyde  [链接] [评论]]]></description>
+      <description><![CDATA[嘿嘿！我即将失去我的绝对理智，所以如果这里有人足够聪明，知道解决方案，我可能会永远爱你。 情况是这样的： 我是一名全职员工YouTuber/内容创作者（无论你想怎么称呼它，我自己也编辑这些视频），我们每两周发布一次长篇作品。这些视频都在屏幕底部添加了隐藏式字幕。这些总是以特定的方式格式化以帮助参与。每框一行，最多 25 个字符等。 我们过去使用 Premiere Pro 内置的语音转文本生成器，显然它首先会创建文字记录，修复错误，然后将其转换为隐藏式字幕。当您生成此字幕轨道时，您可以选择每个框所需的行数、最大字符数等。就像我们需要的那样。这很好，因为我需要两个不同的 SRT 文件。一种是在屏幕上显示单行风格化字幕，另一种是在上传时提供给 YouTube 的标准广播设置（两行、正常字体等）。 但问题是：不仅如此最近更新后，语音转文本功能完全无法使用（老实说，它所得到的一切都错得离谱，这真是令人震惊），但我也想让那些字幕公司之一来写它们，因为我们/我花了整整 5 个小时才得到它们对（我说了很多）。  但是，这些公司只提供适合自己上传到 YouTube 的标准化格式的 SRT 文件，而不提供屏幕上的单行风格化字幕。但是当 SRT 不是来自他们自己的“脚本”面板时，Premiere 不允许我更改为单行或字符限制。而且他们还只允许以自己的特定文件格式导入转录本，而这些公司似乎也不提供这种服务。 是否有任何方法可以获取现有的 SRT 文件并能够在 Premiere 中将其重新格式化为是单行并且有特定的字符限制吗？我什至不介意是否需要插件或第三方软件来路由它，它只是到了需要花费大量宝贵时间的地步（天哪，这太无聊了）。  ​ 如果有人经历过类似的事情，请告诉我！   由   提交/u/QuintenHyde  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1abmyil/anyone_know_a_good_closed_captions_workflow/</guid>
       <pubDate>Fri, 26 Jan 2024 16:53:35 GMT</pubDate>
     </item>

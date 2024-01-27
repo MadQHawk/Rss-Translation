@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 26 Jan 2024 21:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:51:06 GMT</lastBuildDate>
+    <item>
+      <title>AutoWP V2 - 自动化您的 WordPress</title>
+      <link>https://www.reddit.com/r/automation/comments/1abvmbc/autowp_v2_automate_your_wordpress/</link>
+      <description><![CDATA[再次嗨 在我之前的帖子中：链接 我介绍了自动将内容发布到 WordPress 网站的程序。并且用户可以安排发布时间来无限期地运行程序。 在此版本中，我添加了以下功能：  社交媒体集成（目前为 Facebook）：该程序将总结文章并为其添加主题标签，然后将其与文章链接一起发布到您的 Facebook 页面。  水印集成：您可以在将生成/报废的图片添加到文章中之前为其添加水印。  语气选择：您现在可以选择生成文章时使用的语气。  &lt; p&gt;您可以在此处查看该计划：https://www.youtube.com/watch?v=ExCj5r_0xcI&lt; /a&gt;   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1abvmbc/autowp_v2_automate_your_wordpress/</guid>
+      <pubDate>Fri, 26 Jan 2024 22:59:45 GMT</pubDate>
+    </item>
     <item>
       <title>免费 Make.com 课程</title>
       <link>https://www.reddit.com/r/automation/comments/19fgm05/free_makecom_classes/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>AutoWP - 使用 ChatGpt 自动编写 WordPress 文章并自动发布</title>
       <link>https://www.reddit.com/r/automation/comments/19e26ea/autowp_automate_wordpress_articles_writing_with/</link>
-      <description><![CDATA[自从人工智能工具主要出现以来，我就有这个想法很长时间了。上周我决定让它成为现实。 我制作了这个使用 gpt-3.5-turbo 或 gpt-4 模型生成文章的脚本，然后我使用 Rest Api 自动发布文章。  这个想法很简单，所以我把它变得更复杂一些。我添加了一个用于生成关键字（20、50 或 70 个关键字）并将它们保存到文本文件的选项。然后脚本将遍历每个关键字并撰写一篇关于它的文章并发布它。 我还添加了一个选项，让用户选择他想要为每个关键字生成多少篇文章。 &lt;我还不满意，所以我决定制作一个调度程序。理论上，该脚本现在可以“无限期”地发布。用户可以决定每 15 分钟、30 分钟、1 小时……到一周生成多少篇文章。  现在你只需获取一个 vps/rdp，在那里设置程序，就可以构建整个网站。 你可以在此处查看脚本：https://www.youtube.com/watch?v=ZXOUZcLMp4s   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
+      <description><![CDATA[自从人工智能工具主要出现以来，我就有这个想法很长时间了。上周我决定让它成为现实。 我制作了这个脚本，使用 gpt-3.5-turbo 或 gpt-4 模型生成文章，然后我使用 Rest Api 自动发布文章。  这个想法很简单，所以我把它变得更复杂一些。我添加了一个用于生成关键字（20、50 或 70 个关键字）并将它们保存到文本文件的选项。然后脚本将遍历每个关键字并撰写一篇关于它的文章并发布它。 我还添加了一个选项，让用户选择他想要为每个关键字生成多少篇文章。 &lt;我还不满意，所以我决定制作一个调度程序。理论上，该脚本现在可以“无限期”地发布。用户可以决定每 15 分钟、30 分钟、1 小时……到一周生成多少篇文章。  现在你只需获取一个 vps/rdp，在那里设置程序，就可以构建整个网站。 你可以在此处查看脚本：https://www.youtube.com/watch?v=ZXOUZcLMp4s   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/19e26ea/autowp_automate_wordpress_articles_writing_with/</guid>
       <pubDate>Tue, 23 Jan 2024 23:18:43 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>为什么人工智能不会造成大规模失业</title>
       <link>https://www.reddit.com/r/automation/comments/1977crb/why_ai_wont_create_mass_unemployment/</link>
-      <description><![CDATA[当人类学会以更廉价和持续的方式生产食物时，除了少数农民之外，每个人都失业了吗？不，相反，我们吃得太多了。我们在物质上也变得更加雄心勃勃，利用额外的时间和精力创办更复杂、更豪华的企业。 蒸汽机、电动机和内燃机使得从世界各地获取物品变得更便宜、更快捷。从世界到我们的房屋，我们现在每周出行的距离是否比我们的祖先 250 年前减少了？离得很远！我们会在半小时内走完一整天的路程，却觉得这没什么。 有了比一百年前更节能的灯泡，我们每个家庭的用电量是否会比那时更少？ &lt;随着计算机的每瓦特和每美元的性能越来越强大，而且是天文数字，我们是否减少了它们的产量？现在使用计算机的人数比 60 年前少吗？ 当然不是。当我们学会更有效地使用资源时，我们最终会使用更多而不是更少。这是因为我们（广义上）不会尝试生产和完成我们*需要*的东西，我们尝试生产和完成我们*想要*的东西，这是一口非常深的井（更不用说移动的井）  当人工智能变得强大到足以完成当前大多数工作时，大多数新工作将成为某种形式：为了人类利益而指导、审查和协调智能机器团队。他们越聪明，你完成的任务就越多，但不幸的是，你的工作日不会因此而缩短，因为雇用你的公司在其使命宣言或销售目标中没有任何地方有“足够”这个词。越多越好，当然，你必须跟上竞争的步伐。 就业和工资水平更多地是一个政治问题，而不是一个技术问题。 8小时工作日、最低工资和周末并不是因为工厂增加了产量而出现的。 所以习惯于与人工智能交谈，你会经常这样做。 &lt; /div&gt;  由   提交 /u/StrategicHarmony   [链接] [评论]]]></description>
+      <description><![CDATA[当人类学会以更廉价和持续的方式生产食物时，除了少数农民之外，每个人都失业了吗？不，相反，我们吃得太多了。我们在物质上也变得更加雄心勃勃，利用额外的时间和精力创办更复杂、更豪华的企业。 蒸汽机、电动机和内燃机使得从世界各地获取物品变得更便宜、更快捷。从世界到我们的房屋，我们现在每周出行的距离是否比我们的祖先 250 年前减少了？离得很远！我们会在半小时内走完一整天的路，却觉得这没什么。 有了比一百年前更节能的灯泡，我们每个家庭的用电量是否会比那时更少？ &lt;随着计算机的每瓦特和每美元的性能越来越强大，而且是天文数字，我们是否减少了它们的产量？现在使用计算机的人数比 60 年前少吗？ 当然不是。当我们学会更有效地使用资源时，我们最终会使用更多而不是更少。这是因为我们（广义上）不会尝试生产和完成我们*需要*的东西，我们尝试生产和完成我们*想要*的东西，这是一口非常深的井（更不用说移动的井）  当人工智能变得强大到足以完成大多数当前工作时，大多数新工作将成为某种形式：为了人类利益而指导、审查和协调智能机器团队。他们越聪明，你完成的任务就越多，但不幸的是，你的工作时间不会因此而缩短，因为雇用你的公司在其使命宣言或销售目标中没有任何地方有“足够”这个词。越多越好，当然，你必须跟上竞争的步伐。 就业和工资水平更多地是一个政治问题，而不是一个技术问题。 8小时工作日、最低工资和周末并不是因为工厂增加了产量而出现的。 所以习惯于与人工智能交谈，你会经常这样做。 &lt; /div&gt;  由   提交 /u/StrategicHarmony   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1977crb/why_ai_wont_create_mass_unemployment/</guid>
       <pubDate>Mon, 15 Jan 2024 12:13:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/SparklySpencer  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/196l46p/gen_ai_powers_smarter_robots_with_nvidia_isaac/</guid>
       <pubDate>Sun, 14 Jan 2024 17:29:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>SWE 与 AI：谁来实现自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/</link>
-      <description><![CDATA[TL;DR：人工智能可能会取代软件工程师的工作。人工智能工程师会成为下一个大事件，还是医学院是逃生舱口？ 童年的梦想和自动机的幽灵 还记得我父亲的那位建筑师朋友吗？他是我们的神，他的工程创造了一个神话般的天堂。钱就像他画的汇票一样流动。那时，我认为“建筑师=富有”，老实说，这并不总是正确的。但种子已经种下：创意领域预示着财富。 快进，现实咬牙切齿。我不是达芬奇的重生，所以建筑不是我的道路。但我目睹了一些令人着迷的事情：自动化。 AutoCAD 摧毁了一个工程领域，将五个 30 天的项目变成了一日奇迹。电网也感受到了同样的刺痛。 ETAP + 1 名工程师 + 5 名技术人员现在已经征服了曾经需要 30 名的人员。 SWE 是下一个冲锋线吗？ 现在，人工智能日益凸显。那些奇特的模型和它们的应用程序工厂……我不知道它们什么时候能达到峰值效率，但 10 年感觉很慷慨。猜猜谁自动化了所有其他领域？是的，软件工程师。所以，轮到他们面对现实了。 回想起来，20 年前，成为一名 SWE 意味着扮演自动化木偶师。但现在，问题依然悬而未决：谁来实现自动化？人工智能工程师是下一个淘金热吗？这是摆脱即将被遗忘的软件的出路吗？或者我们应该收拾行李去医学院？ 我没有答案。   由   提交 /u/Which-Distance1384    reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/196kf2r/swe_vs_ai_who_automates_the_automators/</guid>
-      <pubDate>Sun, 14 Jan 2024 16:59:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
