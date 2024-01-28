@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 00:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 03:12:28 GMT</lastBuildDate>
+    <item>
+      <title>我的 Windows 软件设置；有什么遗漏或更好的吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</link>
+      <description><![CDATA[软件🛠️ 这些是我在 Windows 安装上使用的。有什么遗漏的吗？分享它们或提出新的建议！  系统实用程序：  HWiNFO： 您获取系统信息和监控的首选。 HWiNFO 风扇控制：控制笔记本电脑风扇。 获取 FanControl xpipe： 像老板一样管理 Windows 进程。 探索 xpipe  文件管理：  TeraCopy：  快速高效的文件传输。 TeraCopy ChoEazyCopy： 用于 RoboCopy 任务的简单 GUI。 ChoEazyCopy 7-Zip： 一个可靠的文件存档器。 7-Zip Kid3：音频标签编辑器。 Kid3  可启动 USB 工具：  &lt; strong&gt;Ventoy：现在大家都知道这是什么了吧？ Ventoy Raspberry Pi Imager：您可以使用 ssh/wifi 凭据编辑图像在写入图像之前 Raspberry Pi Imager Rufus： 快速且轻松创建可启动 USB。 Rufus  网络：  WireGuard： 现代 VPN 的优点。 WireGuard Tailscale： 轻松实现安全网络的 VPN。 Tailscale  终端安装程序：  独家报道：&lt; /strong&gt; Windows 应用程序的命令行安装程序。 Scoop Chocolatey： Windows 包管理器。 巧克力  音频工具：   SOX：强大的声音处理能力。 SOX EarTrumpet： Windows 音量控制，重新定义。 EarTrumpet MusicBee：您的功能齐全的音乐伴侣。 MusicBee 飞信：轻量级在线音频流。 飞信  Docker：  Portainer： Docker 管理变得简单。 Portainer Navidrome：您的自托管音乐服务器。 Navidrome Kavita： 有声读物服务器魔法。 Kavita 有声书架：无缝管理您的有声读物。 Audiobookshelf  杂项：  虎斑猫：  时尚且功能丰富的终端模拟器。 Tabby LocalSend：快速本地文件共享。 LocalSend Greenshot：轻松捕获屏幕。 Greenshot LibreWolf：注重隐私的基于 Firefox 的浏览器。 LibreWolf  安全：  KeePassXC：开源密码掌握。 KeePassXC   您依赖哪些 Windows 工具？分享您的最爱或推荐新的东西！ 🚀🔧   由   提交/u/-SHINSTER007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</guid>
+      <pubDate>Sun, 28 Jan 2024 02:44:05 GMT</pubDate>
+    </item>
     <item>
       <title>不带“亚洲”字体的 Windows 文字处理程序</title>
       <link>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[请帮助我   由   提交/u/inferno human0705   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ac91xu/how_do_i_make_idm_download_faster/</guid>
       <pubDate>Sat, 27 Jan 2024 11:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>非 adobe pdf 阅读器？</title>
-      <link>https://www.reddit.com/r/software/comments/1ac8oh0/nonadobe_pdf_reader/</link>
-      <description><![CDATA[我正在寻找一款不是来自 Adob​​e 的免费 pdf 阅读器，因为道德原因（你知道它会窃取你的所有文件等），有没有一个可以还可以吗？ 我真的不需要很多功能，我知道编辑 pdf 非常复杂，因为你不是故意的，所以如果它不能编辑也没什么大不了的。&lt; /p&gt; 能够留下某种小笔记或涂鸦，即使没有保存为 pdf 也会很酷，但不认为存在  所以是的标准，只是免费阅读，没有任何“嘿，我将访问您的所有文件并分析它们”恶作剧会很好   由   提交/u/TactiCool_99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ac8oh0/nonadobe_pdf_reader/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:16:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
