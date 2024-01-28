@@ -4,18 +4,39 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 03:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 06:14:34 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以将按键分配给特定软件的软件，即使打开了不同的选项卡</title>
+      <link>https://www.reddit.com/r/software/comments/1acuw5e/looking_for_software_that_can_assign_keys_to/</link>
+      <description><![CDATA[我会尽量保持简单，问题是： 我使用 OBS 从多个源进行记录，其中一个是PowerPoint 演示文稿。我有一个简单的无线答题器，它使用虚拟箭头键在幻灯片之间切换。  问题是，当我打开 OBS 时，单击箭头键会更改场景。要切换到下一张幻灯片，我必须切换回 PowerPoint 查看器，然后返回 OBS 来切换场景（如有必要）。  我没有任何方法可以重新映射无线答题器，即使如此，我仍然需要切换到 PowerPoint 查看器才能切换到下一页，因为它必须打开才能进行使用任何快捷方式。  有什么办法可以解决这个问题吗？   由   提交 /u/ishkidor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1acuw5e/looking_for_software_that_can_assign_keys_to/</guid>
+      <pubDate>Sun, 28 Jan 2024 05:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>清理受感染电脑的工具？</title>
+      <link>https://www.reddit.com/r/software/comments/1acusab/tools_to_clean_infected_pcs/</link>
+      <description><![CDATA[以前，当我为朋友和家人清理电脑时，我有时会使用 MSE、Spybot、Malwarebytes，甚至 HijackThis。我意识到其中大部分现在可能已经过时了，我想知道除了 Windows 10 内置防病毒软件之外，我还应该使用什么。 TIA   由   提交 /u/manolid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1acusab/tools_to_clean_infected_pcs/</guid>
+      <pubDate>Sun, 28 Jan 2024 05:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以恢复完全损坏的没有音频和视频数据的 mp4 文件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1acttv2/any_way_to_recover_a_fully_corrupted_mp4_file/</link>
+      <description><![CDATA[我非常沮丧，我之前为 12 年级解剖录制的视频完全损坏了，我一直在尝试恢复它在过去的 2 个小时里，我已经按照过去的 reddit 线程尝试了 Untrunct：https:// www.reddit.com/r/software/comments/lweu7k/free_way_of_fixing_corrupt_mp4_video_files/ 但不幸的是，它提示了我： https://preview.redd.it/cf8vfmxhv3fc1.png?width=810&amp;format=png&amp; auto=webp&amp;s=5df8bb74938603ba33325f2ecf35b9a3379f2447 所以如果有人可以帮助我恢复损坏的 mp4，我的 dms 已打开    由   提交 /u/shr3mp1e   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1acttv2/any_way_to_recover_a_fully_corrupted_mp4_file/</guid>
+      <pubDate>Sun, 28 Jan 2024 04:08:38 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Windows 软件设置；有什么遗漏或更好的吗？</title>
       <link>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</link>
-      <description><![CDATA[软件🛠️ 这些是我在 Windows 安装上使用的。有什么遗漏的吗？分享它们或提出新的建议！  系统实用程序：  HWiNFO： 您获取系统信息和监控的首选。 HWiNFO 风扇控制：控制笔记本电脑风扇。 获取 FanControl xpipe： 像老板一样管理 Windows 进程。 探索 xpipe  文件管理：  TeraCopy：  快速高效的文件传输。 TeraCopy ChoEazyCopy： 用于 RoboCopy 任务的简单 GUI。 ChoEazyCopy 7-Zip： 一个可靠的文件存档器。 7-Zip Kid3：音频标签编辑器。 Kid3  可启动 USB 工具：  &lt; strong&gt;Ventoy：现在大家都知道这是什么了吧？ Ventoy Raspberry Pi Imager：您可以使用 ssh/wifi 凭据编辑图像在写入图像之前 Raspberry Pi Imager Rufus： 快速且轻松创建可启动 USB。 Rufus  网络：  WireGuard： 现代 VPN 的优点。 WireGuard Tailscale： 轻松实现安全网络的 VPN。 Tailscale  终端安装程序：  独家报道：&lt; /strong&gt; Windows 应用程序的命令行安装程序。 Scoop Chocolatey： Windows 包管理器。 巧克力  音频工具：   SOX：强大的声音处理能力。 SOX EarTrumpet： Windows 音量控制，重新定义。 EarTrumpet MusicBee：您的功能齐全的音乐伴侣。 MusicBee 飞信：轻量级在线音频流。 飞信  Docker：  Portainer： Docker 管理变得简单。 Portainer Navidrome：您的自托管音乐服务器。 Navidrome Kavita： 有声读物服务器魔法。 Kavita 有声书架：无缝管理您的有声读物。 Audiobookshelf  杂项：  虎斑猫：  时尚且功能丰富的终端模拟器。 Tabby LocalSend：快速本地文件共享。 LocalSend Greenshot：轻松捕获屏幕。 Greenshot LibreWolf：注重隐私的基于 Firefox 的浏览器。 LibreWolf  安全：  KeePassXC：开源密码掌握。 KeePassXC   您依赖哪些 Windows 工具？分享您的最爱或推荐新的东西！ 🚀🔧   由   提交/u/-SHINSTER007   [链接] [评论]]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</guid>
       <pubDate>Sun, 28 Jan 2024 02:44:05 GMT</pubDate>
     </item>
     <item>
       <title>不带“亚洲”字体的 Windows 文字处理程序</title>
       <link>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</link>
-      <description><![CDATA[是否有适用于 Windows (10) 的文字处理程序不会强迫您使用不同的字体拉丁字符？我不明白为什么会这样，因为我知道 Courier New（我经常使用的字体）有“亚洲”字样。其中包含语言字符，因此没有理由必须为中文或日文字符使用不同的字体。我通常使用 Google 文档来处理所有事情，但我想写一些东西并只将其保留在我的计算机上，这就是为什么我以前从未遇到过这个问题。我尝试在 Google 上搜索答案，但没有找到任何内容（或者至少我不知道如何表达）。   由   提交 /u/AlexanderMasonBowser   [链接] [评论]]]></description>
+      <description><![CDATA[是否有适用于 Windows (10) 的文字处理程序不会强制您使用不同的字体拉丁字符？我不明白为什么会这样，因为我知道 Courier New（我经常使用的字体）有“亚洲”字样。其中包含语言字符，因此没有理由必须为中文或日文字符使用不同的字体。我通常使用 Google 文档来处理所有事情，但我想写一些东西并只将其保留在我的计算机上，这就是为什么我以前从未遇到过这个问题。我尝试在 Google 上搜索答案，但没有找到任何内容（或者至少我不知道如何表达）。   由   提交 /u/AlexanderMasonBowser   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</guid>
       <pubDate>Sun, 28 Jan 2024 00:41:41 GMT</pubDate>
     </item>
@@ -29,14 +50,14 @@
     <item>
       <title>如何简化“免费”跟踪借出设备和自动归还提醒？</title>
       <link>https://www.reddit.com/r/software/comments/1acndb7/how_to_simplify_tracking_loanedout_equipment_and/</link>
-      <description><![CDATA[我向客户借出硬盘，并寻求一种简单、免费的软件解决方案来自动提醒在指定期限后归还硬盘。  目前，我通过 Zoho 手动安排提醒电子邮件，并在 Google 表格上跟踪贷款详细信息。  有没有更有效的方法？  跟踪的数据包括：退出日期、返回日期、客户名称、客户联系人、项目和驱动器名称。    由   提交/u/Apple_Efficient  [链接] [评论]]]></description>
+      <description><![CDATA[我将硬盘借给客户，并寻求一种简单、免费的软件解决方案来自动提醒在指定期限后归还硬盘。  目前，我通过 Zoho 手动安排提醒电子邮件，并在 Google 表格上跟踪贷款详细信息。  有没有更有效的方法？  跟踪的数据包括：退出日期、返回日期、客户名称、客户联系人、项目和驱动器名称。    由   提交/u/Apple_Efficient  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acndb7/how_to_simplify_tracking_loanedout_equipment_and/</guid>
       <pubDate>Sat, 27 Jan 2024 22:52:12 GMT</pubDate>
     </item>
     <item>
       <title>需要 IDM 下载帮助</title>
       <link>https://www.reddit.com/r/software/comments/1acmzx4/need_help_with_idm_downloads/</link>
-      <description><![CDATA[有办法阻止这个问题出现在我脸上吗？当我玩游戏时，它会弹出并且我在桌面上。如何禁用此通知以及来自 IDM 的任何类型的通知？ https://preview.redd.it/ggb9fd8b82fc1.png?width=392&amp;format=png&amp;auto=webp&amp;s=dbf801cfbe4e6742833a249a3e7831a402a41 06b   由   提交/u/ssam07303  [链接] [评论]]]></description>
+      <description><![CDATA[有办法阻止它出现在我脸上吗？当我玩游戏时，它会弹出并且我在桌面上。如何禁用此功能以及来自 IDM 的任何类型的通知？ https://preview.redd.it/ggb9fd8b82fc1.png?width=392&amp;format=png&amp;auto=webp&amp;s=dbf801cfbe4e6742833a249a3e7831a402a41 06b   由   提交/u/ssam07303  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acmzx4/need_help_with_idm_downloads/</guid>
       <pubDate>Sat, 27 Jan 2024 22:35:42 GMT</pubDate>
     </item>
@@ -71,14 +92,14 @@
     <item>
       <title>有没有一个词可以形容...</title>
       <link>https://www.reddit.com/r/software/comments/1acg0mq/is_there_a_word_for/</link>
-      <description><![CDATA[高级软件用户，但不是软件工程师或 IT 人员。 背景：我有 IT 背景的朋友但他们的软件专业知识仅限于他们所从事的领域。有些人了解 Python、Kotlin 等多种语言和其他广泛使用的语言，而另一些人则熟悉 PowerBI 等工具。然而，当谈到生产力软件时，他们却很愚蠢。  举个例子，我安装了一个磁盘使用情况 应用程序，根据大小对 Android 目录进行排序并以图形方式显示。我正在向一位IT背景的朋友展示它。他认为，当您已经拥有库存存储分析器时，该应用程序毫无用处（不同之处在于，该应用程序根据大小对每个文件夹进行排序，并提供图形表示来识别哪个文件夹或子文件夹占用了空间）。 他们的提问方式导致了一些捂脸时刻，促使我质疑他们的 IT 背景。承认软件和 IT 行业规模巨大这一事实，我有兴趣找到一个词来形容那些不是工程师或来自纯粹 IT 背景但在处理和理解软件方面具有高级用户技能的人。假设一个人天生就有能力在没有太多指导的情况下开发出全新的软件。他是一名非正式的勤杂工，负责处理任何损坏电脑、手机甚至无线路由器的事情。  一些很接近但不是我要找的词是高级用户、超级用户和高级用户。 请随意建议一些可能会出现的词。字典中不存在！   由   提交/u/Individual-News4228  /u/Individual-News4228 reddit.com/r/software/comments/1acg0mq/is_there_a_word_for/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[高级软件用户，但不是软件工程师或 IT 人员。 背景：我有 IT 背景的朋友但他们的软件专业知识仅限于他们所从事的领域。有些人了解 Python、Kotlin 等多种语言和其他广泛使用的语言，而另一些人则熟悉 PowerBI 等工具。然而，当谈到生产力软件时，他们却很愚蠢。  举个例子，我安装了一个磁盘使用情况 应用程序，根据大小对 Android 目录进行排序并以图形方式显示。我正在向一位IT背景的朋友展示它。他认为，当您已经拥有库存存储分析器时，该应用程序毫无用处（不同之处在于，该应用程序根据大小对每个文件夹进行排序，并提供图形表示来识别哪个文件夹或子文件夹占用了空间）。 他们的提问方式导致了一些捂脸时刻，促使我质疑他们的 IT 背景。承认软件和 IT 行业规模巨大这一事实，我有兴趣找到一个词来形容那些不是工程师或纯粹 IT 背景但在处理和理解软件方面具有高级用户技能的人。假设一个人天生就有能力在没有太多指导的情况下开发出全新的软件。他是一名非正式的勤杂工，负责处理任何损坏电脑、手机甚至无线路由器的事情。  一些很接近但不是我要找的词是高级用户、超级用户和高级用户。 请随意建议一些可能会出现的词。字典中不存在！   由   提交/u/Individual-News4228  /u/Individual-News4228 reddit.com/r/software/comments/1acg0mq/is_there_a_word_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acg0mq/is_there_a_word_for/</guid>
       <pubDate>Sat, 27 Jan 2024 17:29:12 GMT</pubDate>
     </item>
     <item>
       <title>正在寻找一款适用于 Windows 的优秀录音机/录音机</title>
       <link>https://www.reddit.com/r/software/comments/1acg0fe/looking_for_a_good_audio_recorderdictaphone_for/</link>
-      <description><![CDATA[多年来我一直使用 Windows 10 中的默认录音机应用程序。我喜欢它的简单性。我喜欢通过简单的按钮保存所有录音。这就是为什么我不使用 Audacity 或直接录制到视频编辑器。所以... 我正在寻找一些简单的东西（如果可能的话免费），但我的主要要求是它必须将录音保存为 .wav。 Windows 录音机正在使用 . m4a，有时会出现问题。   由   提交 /u/TaToten   [链接] [评论]]]></description>
+      <description><![CDATA[多年来我一直使用 Windows 10 中的默认录音机应用程序。我喜欢这种简单性。我喜欢通过简单的按钮保存所有录音。这就是为什么我不使用 Audacity 或直接录制到视频编辑器。所以... 我正在寻找一些简单的东西（如果可能的话免费），但我的主要要求是它必须将录音保存为 .wav。 Windows 录音机正在使用 . m4a，有时会出现问题。   由   提交 /u/TaToten   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acg0fe/looking_for_a_good_audio_recorderdictaphone_for/</guid>
       <pubDate>Sat, 27 Jan 2024 17:28:57 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[嘿，我的任务是找到一个类似电子表格的应用程序，可以处理摄取和许多行〜1MILL。 Airtable 是完美的，除了 150k 行的业务计划可能太小，然后是企业定价。除了 Airtable 之外，还有其他选择来实现良好的无代码 SQL 数据库吗？ Airtable 的有用之处在于它与所有内容集成，因此连接 Mailchimp 和网站以及 Pipedream 变得轻而易举。  这是我朋友想做的一个草根小项目，他问我，因为我是一名开发人员，但我有工作，我真的不认为构建一个 CRUD 应用程序值得花时间，他同意。所以我只是在寻找无代码解决方案。预算不是一个大问题，但锁定企业计划却是一个禁忌。  我即将测试 budibase，然后是 appsmith，但他们似乎不太关注数据库方面的事情。尾声也一样。我担心我会遇到整合和专注方面的问题。  我过去喜欢 Hubspot，但它会将你锁定在独特的电子邮件中，这也是不行的。  当我测试这些产品时，我希望 reddit 的人们对 budibase、appsmith 或任何替代方案有任何见解 （而且我猜我所说的一切是一个网络应用程序而不是桌面软件。如果违反规则，我除了 lmk 之外看不到任何东西） 谢谢！    ;由   提交 /u/_intercept   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acen1k/airtable_alternatives/</guid>
       <pubDate>Sat, 27 Jan 2024 16:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个重命名多个文件的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1acc1mp/i_need_a_software_for_renaming_multiple_files/</link>
-      <description><![CDATA[我有超过 10k 张图片和视频，需要一种方法一次重命名一批 100 多个或更多。我将举例说明该程序应该为我做什么。  功能： 例如，我有 5 张具有不同名称的图片，但我希望它们是按名称对它们进行排序后按顺序列出在一起，而不更改它们当前的名称（这样我仍然可以搜索关键字）。我希望它们被编号，但仍然有自己的名字。所以不是：苹果，汽车，狗，猫，蜜蜂我想要：1个苹果，2个汽车，3个狗，4个猫， 5只蜜蜂。  特点：让我们再拍同样的 5 张照片。但这一次，我希望他们的名字中有相同的单词或短语，而不改变他们的实际名字。假设我想澄清是谁制作了这些照片。所以我想要的是：（马库斯）苹果，（马库斯）汽车，（马库斯）狗，而不是：苹果，汽车，狗，猫，蜜蜂， （马库斯）猫、（马库斯）蜜蜂或者：苹果（马库斯）、汽车（马库斯）、狗（马库斯）、猫（马库斯）、蜜蜂（马库斯）  特征： 又是同样的 5 张照片。假设我犯了一个错误，而马库斯不是这些图片的艺术家。现在我想再次删除他的名字所以而不是：（马库斯）苹果，（马库斯）汽车，（马库斯）狗，（马库斯）猫，（马库斯）蜜蜂我想要：苹果，汽车、dog、cat、bee  到目前为止，我必须手动将它们全部重命名，但由于图片/视频/文档太多，我需要一个比这。我不想为每组文件创建一个文件夹。目前我生活在文件夹接收地狱中。我想（快速）改变这一点。    由   提交/u/Z_e_p_h_e_r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acc1mp/i_need_a_software_for_renaming_multiple_files/</guid>
-      <pubDate>Sat, 27 Jan 2024 14:30:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不干扰远程视频录制专用 Windows 设备的情况下监控它的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1acbxx4/best_way_to_monitor_a_remote_video_recording/</link>
-      <description><![CDATA[您好！ :) 长话短说，我基本上在专用于自主高质量视频录制的远程设备上安装了 TightVNC Server，以便在需要时进行监控（因为它显然主要操作视频，所以我无法使用 SSH 进行 CLI 管理，所以我必须使用 VNC，因为使用 RDP 登录会搞砸视频录制，因为远程计算机正在切换我的本地图形设置）。所以，我的问题是，我选择 TightVNC 因为我认为它是轻量级的，但是当我启动到远程服务器的 SSH 连接并启动 VNC 查看器时，我立即在游戏直接 UI 中看到巨大的 FPS 下降。这些与 TightVNC“不良”渲染无关，这些发生在远程计算机本身上，因为 VNC 会耗尽资源。实际上，只要远程录像机本身不被干扰，我什至不介意VNC是否以1 FPS传输视频流量。我以为我可以通过软件减少 TightVNC 服务器传输，但我不知道如何做到这一点，而且我对硬件和视频一般都是菜鸟，所以我不知道如何真正改变它。 因为我能够使用 OBS 以高帧速率进行录制，而不会通过使用 NVIDIA NVENC H.264 编码器干扰游戏，但我再次认为使用 TightVNC 不可能实现这一点。也许唯一的解决方案最终是使用 OBS WebSocket API 在远程计算机上启动流并通过 SSH 发送它？   由   提交/u/easypixels  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acbxx4/best_way_to_monitor_a_remote_video_recording/</guid>
-      <pubDate>Sat, 27 Jan 2024 14:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让 idm 下载速度更快</title>
-      <link>https://www.reddit.com/r/software/comments/1ac91xu/how_do_i_make_idm_download_faster/</link>
-      <description><![CDATA[请帮助我   由   提交/u/inferno human0705   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ac91xu/how_do_i_make_idm_download_faster/</guid>
-      <pubDate>Sat, 27 Jan 2024 11:41:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
