@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 09:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 12:19:35 GMT</lastBuildDate>
+    <item>
+      <title>如何在使用 Web Audio API 时保持音调？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad1eg2/how_to_preserve_pitch_while_using_web_audio_api/</link>
+      <description><![CDATA[我想更改音频文件的速度并保留音调： https://stackoverflow.com/a/36940850/10974338 但是上面的答案会改变音高。    由   提交/u/yukiiiiiii2008   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad1eg2/how_to_preserve_pitch_while_using_web_audio_api/</guid>
+      <pubDate>Sun, 28 Jan 2024 12:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 框架的 DX</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/</link>
+      <description><![CDATA[我正在开发一个 Web 框架，希望获得一些有关 DX 方向的反馈。 我希望这属于“UX”类别。因为我不知道将其发布到哪个网站。 该框架将有 3 个主要组件 - 路由、数据库查询和验证。 该框架还使用 Typescript，因此我正在尝试使用该语言创建一个 API。 我正在考虑为该框架使用 3 种不同的 API： 基于对象： ``&lt; code&gt;ts // 路由 Route({ path: &quot;/user/:name&quot;, method: &quot;GET&quot;, middleware: [auth], handler: (params: { name: string }) =&gt; { return new Response(user ${params.name}`); }, }); // 验证 const data = { name: &quot;joe&quot;, email: &quot;joe@exmaple.com&quot;, }; validate({ 数据: 数据, 规则: { 名称: { 必需: true }, 电子邮件: { required: true, email: true }, }, }); //查询 query({ select: &quot;*&quot;, from: &quot;users&quot;, where: [&quot;name&quot; ;, “=”, “乔”], }); ``` 基于类： ``ts // 路由 Router.path(&quot;/user/:name&quot;) .method(&quot;GET&quot;; ) .middleware([auth]) .handler((params: { name: string }) =&gt; { return new Response(user ${params.name}`); }); &lt; p&gt;// 验证 const data = { name: &quot;joe&quot;, email: &quot;joe@exmaple.com&quot;, }; Validator.validate(data).rules({ name: Rule.required(), email: Rule.required().email(), }); //查询Query。 select(&quot;*&quot;).from(&quot;users&quot;).where(&quot;name&quot;, &quot;=&quot;, &quot;joe&quot;); ``` 混合/基于函数： ``ts // 路由route .get(&quot;/user/:name&quot;, () =&gt;; { return new Response(user ${params.name}`); }) .middleware([auth]); // 验证 const data = { name: &quot;joe&quot;,电子邮件：“joe@exmaple.com”，}; validate.check(data, { name: Rule. required(), email: Rule.required().email(), }); //查询 database.query(&quot;*&quot;, &quot;users&quot;).where(&quot;name&quot; ;, “=”, “乔”); ``` 我希望 API 保持一致，我只是不确定该往哪个方向发展。 我很想听听人们的一些想法来提供帮助我做出决定。   由   提交 /u/Mediocre-Cobbler2978    reddit.com/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/</guid>
+      <pubDate>Sun, 28 Jan 2024 11:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你不在前端使用EventSource时，它仍然被称为服务器发送事件吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad07gt/is_it_still_called_serversent_event_when_you_dont/</link>
+      <description><![CDATA[   MDN 文档显示在前端使用 EventSource。但是如果您想发送带有正文的 POST 请求怎么办？您无法使用 EventSource。 我从 中等帖子。您不使用 EventSource 从后端接收流响应，而是使用读取器实例，然后使用 while 循环来获取每个响应块。 使用这个让我很困惑，您如何处理错误？当响应卡住几秒钟时如何处理？ https://preview.redd.it/fujgdkwxv5fc1.png?width=816&amp;format=png&amp;auto=webp&amp;s=bc672dc5d92ca1685a49a759afe770708693a4a 9   由   提交 /u/OrganicSearchTraffic   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad07gt/is_it_still_called_serversent_event_when_you_dont/</guid>
+      <pubDate>Sun, 28 Jan 2024 10:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年构建网站的理想技术堆栈是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad02tz/what_is_the_ideal_tech_stack_to_build_a_website/</link>
+      <description><![CDATA[   /u/Forsterps   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad02tz/what_is_the_ideal_tech_stack_to_build_a_website/</guid>
+      <pubDate>Sun, 28 Jan 2024 10:47:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我破解了一家热门连锁超市主办的一款大奖网页游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aczre1/i_hacked_a_big_prize_web_game_hosted_by_a_popular/</link>
+      <description><![CDATA[几年前，比利时德尔海兹的一家知名连锁超市举办了一场有奖游戏。  这是一款网页游戏，你的奖品取决于你的排名。  由于这是一款基于网页的游戏，所以你可以猜到会发生什么🤖通过一些技巧，我设法调整了评分逻辑。我可以在每一轮中为自己奖励尽可能多的分数。  奖品价值超过50 美元，并且有超过100,000 的物品可供争夺。  意识到这一点并以比其他任何人都多的分数在排行榜上名列前茅后，我通过 Linkedin 联系了德尔海兹的某人，并让他们知道了这一严重问题他们的游戏中存在漏洞。  这令人难以置信，但他们从未修复过它，也没有取消游戏。当然，我从未领取过我的奖品，但这是一个关于他们对整个事情有多么漠不关心的故事。    由   提交/u/findurself020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aczre1/i_hacked_a_big_prize_web_game_hosted_by_a_popular/</guid>
+      <pubDate>Sun, 28 Jan 2024 10:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web Clip / Apple Touch 图标让我大吃一惊！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aczmpy/web_clip_apple_touch_icon_is_busting_my_balls/</link>
+      <description><![CDATA[我正在制作一个特定于表格的网站。我在标题中添加了一个苹果触摸图标，如下所示： 因此，当用户将网页添加到主屏幕时，它会使用我的图标，它看起来像真正的应用程序图标，而不是页面的缩小屏幕截图，看起来什么也没有。 我正在使用几部 iPhone 和三部较旧的 iPad 进行测试。 iPhone 工作正常，但只有一台 iPad 可以使用自定义图标。其中两个不会。我不断地重新加载。我关闭选项卡。我强制退出 safari。我重新启动设备。但它仍然无法拾取触摸图标，66% 的时间它仍然使用预览。 这是怎么回事？有什么方法可以强制重新加载吗？嗯，超级力量重装？要让它再次尝试找到该图标吗？ 注意 - 我只有一种图标大小，它是 512x512。图标中的细节并不是那么好，因此根据需要自动缩小尺寸就可以了。 作为后续问题，有没有办法为此网络应用程序设置自定义默认名称（又名）网络剪辑？它似乎使用页面的 HTML 标题作为名称。没关系，但我可以选择一个更好的。 编辑：我使用的是真实有效的证书，而不是自签名的。此外，这里没有任何内容受到密码保护。    由   提交/u/l008com  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aczmpy/web_clip_apple_touch_icon_is_busting_my_balls/</guid>
+      <pubDate>Sun, 28 Jan 2024 10:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能帮我理清这些概念吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1acyu14/can_you_help_me_disentangle_those_concepts/</link>
+      <description><![CDATA[所以我对 webdev 主题还很陌生。到目前为止，我用 Flask 做了一个小型微服务，用 django 做了一个小型 Web 应用程序，并阅读了有关 Rust 的 webdev。 当涉及到总体设计时，有太多的选项和概念，我不知道如果我把它们全部正确，以及它们在今天有多常见和相关。  像 Django 这样的框架被设计为全栈，这意味着服务器创建 html 并发送它给客户。这就是服务端渲染SSR的意思吗？我在前端开发的背景下也听到过这个短语，所以我很困惑。 到处都只读到 REST 后端和单独的前端。这种情况很常见，我想知道其他技术是否仍然相关，或者不应该在其上花费太多时间。 单独的前端是否直接意味着单页应用程序 SPA？我的意思是，如果您在客户端创建 DOM，则似乎没有理由使用其他各种 url 端点。  如果 3 为 true，则我假设 2 为 false。因为我作为网络用户的经验是许多网页使用不同的端点。就像报纸页面、论坛、YouTube 等。它们都使用不同的 URI 进行导航。   由   提交 /u/Simaryp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1acyu14/can_you_help_me_disentangle_those_concepts/</guid>
+      <pubDate>Sun, 28 Jan 2024 09:22:12 GMT</pubDate>
+    </item>
     <item>
       <title>手机上的网站速度很糟糕</title>
       <link>https://www.reddit.com/r/webdev/comments/1acylqw/terrible_website_speed_on_mobile/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>设计我自己的流媒体平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1acylcc/designing_my_own_streaming_platform/</link>
-      <description><![CDATA[首先，我不知道哪个社区适合发布此内容，所以如果这不适合这里，我深表歉意。  我想设计自己的流媒体平台。我计划的方式是创建一个适合我的想法和偏好的设计，并将其放置在现有的平台上。因此，想象一下，如果我只是在 Netflix 上添加了新设计，但电影和电视节目仍然来自 Netflix。我这样做是为了简单起见，因为我不知道如何实现实际的电影流服务。话虽这么说，我真的想不出一种方法来做到这一点，而不必从我的新设计中单独链接到每部电影到 Netflix，但一定有另一种方法，对吗？  我的另一个问题是，我如何“检测”新电影？  我在这里需要一些帮助，我是否完全以错误的方式思考这个问题？ 希望你们中的一些人有一些想法来帮助我，我将不胜感激！  &gt;   由   提交 /u/PrincessConsuelaXI   [链接] [评论]]]></description>
+      <description><![CDATA[首先，我不知道哪个社区适合发布此内容，所以如果这不适合这里，我深表歉意。 我想设计自己的流媒体平台。我计划的方式是创建一个适合我的想法和偏好的设计，并将其放置在现有的平台上。因此，想象一下，如果我只是在 Netflix 上添加了新设计，但电影和电视节目仍然来自 Netflix。我这样做是为了简单起见，因为我不知道如何实现实际的电影流服务。 话虽这么说，我真的想不出一种方法来做到这一点，而不必从我的新设计中单独将每部电影链接到 Netflix，但一定有其他方法吗？ 我的另一个问题是，我如何“检测”新电影？ 我这里需要一些帮助，我是否完全以错误的方式思考这个问题？ 编辑：该设计仅供我自己使用，我可能会在本地托管它。这只是我一段时间以来想做的一个项目，让我父亲更轻松地浏览流媒体平台，他不是一个技术人员。我会把这个平台设置得像电视一样，你可以在其中切换频道。  希望你们中的一些人有一些想法可以帮助我，我将不胜感激！   由   提交 /u/PrincessConsuelaXI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1acylcc/designing_my_own_streaming_platform/</guid>
       <pubDate>Sun, 28 Jan 2024 09:04:56 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[标题   由   提交/u/RealActuary4108   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1acvcla/why_people_dont_like_javascript_on_the_backend/</guid>
       <pubDate>Sun, 28 Jan 2024 05:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个黑客新闻 pwa</title>
-      <link>https://www.reddit.com/r/webdev/comments/1acubsi/i_made_a_hacker_news_pwa/</link>
-      <description><![CDATA[我想构建一些东西来使用 shadcn-svelte 和 pwa 功能（现在不多，但将继续探索这个项目） 使用 sveltekit 制作并使用 vercel 部署 https://github.com/cotyhamilton/hacker-newsy    由   提交 /u/cotyhamilton   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1acubsi/i_made_a_hacker_news_pwa/</guid>
-      <pubDate>Sun, 28 Jan 2024 04:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome浏览器处于垄断地位</title>
-      <link>https://www.reddit.com/r/webdev/comments/1actpkm/chrome_browser_as_a_monopoly/</link>
-      <description><![CDATA[最近我看到了一些关于 Firefox 消亡的事情，导致基本上出现了 2 个主要浏览器：Chrome 和 Safari。我可以看出垄断通常不是一个好主意，但 Chrome 似乎主要基于 Chromium，这是一个免费的开源项目，对吗？这是基于免费、开源代码的垄断，还是比这更邪恶？人们已经用 Chromium 构建了像 Brave 这样的浏览器，对吗？感谢您的想法。   由   提交/u/nesterspokebar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1actpkm/chrome_browser_as_a_monopoly/</guid>
-      <pubDate>Sun, 28 Jan 2024 04:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>课程：如何基于 NEAR PROTOCOL 进行构建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1actm0c/course_how_to_build_on_near_protocol/</link>
-      <description><![CDATA[      您想开始在 NEAR 上构建还是想学习 ❓ ⚡这个初学者的指南由 LearnNear 为您创建👀 🔥立即开始： https://learnnear.club/how-to-build-on-near-starting-guide/ 您会在本指南中找到什么⁉️ ⚡您将在那里找到您需要的一切，即：所创建产品的所有必要信息、测试和示例 谁是LearnNear ⁉️ ⚡全包双手-在 NEARProtocol 的入门平台上，通过 (L)Earn 方法将 NEAR 生态系统项目与积极的社区成员连接起来 ⚡由 NEARFoundation 提供支持 ✳️立即开始： &lt; p&gt;https://learnnear.club/ 📜课程： https://learnnear.club/how-to-build-on-near-starting-guide/   由   提交/u/ganiket19  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1actm0c/course_how_to_build_on_near_protocol/</guid>
-      <pubDate>Sun, 28 Jan 2024 03:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何备份您的自托管合理分析数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1acswkt/how_to_back_up_your_selfhosted_plausible/</link>
-      <description><![CDATA[       由   提交/u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1acswkt/how_to_back_up_your_selfhosted_plausible/</guid>
-      <pubDate>Sun, 28 Jan 2024 03:19:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>星期六的 Showoff 使用哪个时区？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1acsdo1/what_time_zone_is_used_for_showoff_saturday/</link>
-      <description><![CDATA[我对 Reddit 子版块还很陌生，我对利用 Showoff Saturday 很感兴趣。我住在新西兰，现在是周日，但过去 3 小时内仍然有很多周六炫耀的帖子。只是希望有人能让我知道是否必须使用某个时区来确定周六秀的时间，或者实际上并不那么严格，我可以在周日 NZT 发帖吗？我认为，如果在“炫耀周六”的描述中澄清这一点，对像我这样的新成员会很有帮助。   由   提交/u/kiwigamer2021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1acsdo1/what_time_zone_is_used_for_showoff_saturday/</guid>
-      <pubDate>Sun, 28 Jan 2024 02:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用新框架和客户端/服务器端渲染的 SEO 有效性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1acr9hn/seo_effectiveness_using_new_frameworks_and/</link>
-      <description><![CDATA[如果这不是正确的子项，我深表歉意，但根据最近的帖子，我坚信它属于此处。 用于制作使用 Astro 和 Eleventy 等新的前端静态站点框架创建博客，我知道您可以做一些事情来使博客内容在客户端可用，这样整个站点就可以是静态站点并部署在 GitHub 页面等内容上。我还知道您可以使用 Astro（例如）构建一个博客，并使用服务器端内容渲染。 据我所知，（以前）服务器端渲染有利于 SEO，而客户端渲染则有利于 SEO。杀死搜索引擎优化。对于像 Astro 和 Eleventy 这样的较新框架，这种想法仍然正确吗？或者内容存储方式是否不同，或者以对 SEO 仍然有效的方式存储？ （注：我目前正在学习 Astro 和 11ty；它是可以假设我是一个困惑的人。）   由   提交/u/omniumoptimus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1acr9hn/seo_effectiveness_using_new_frameworks_and/</guid>
-      <pubDate>Sun, 28 Jan 2024 01:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能改善我的投资组合？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1acqyzv/how_can_i_improve_my_portfolio/</link>
-      <description><![CDATA[大家好， 我正在整理我的作品集网站，希望得到一些意见。总是希望给人留下好印象。希望在这里得到一些关于如何改进的诚实反馈。 如果您看到任何简单到中等的修复，而不是彻底的修改，我很想听到更多。  &gt; 作品集网站： https://rickyggarcia.com Github： https://github.com/garcrich/portfolio 谢谢！ 瑞奇   由   提交/u/Bulky-Idea-895   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1acqyzv/how_can_i_improve_my_portfolio/</guid>
-      <pubDate>Sun, 28 Jan 2024 01:39:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

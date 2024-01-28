@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 28 Jan 2024 09:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 12:19:58 GMT</lastBuildDate>
     <item>
-      <title>Idm 破解版 PC 版</title>
-      <link>https://www.opensourceagenda.com/projects/idm-crack-for-pc</link>
-      <description><![CDATA[Internet Download Manager 是美国公司 Tonec 拥有的商业下载管理软件应用程序，公司]]></description>
-      <guid>https://www.opensourceagenda.com/projects/idm-crack-for-pc</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:25 GMT</pubDate>
+      <title>生态系统清理</title>
+      <link>https://www.opensourceagenda.com/projects/ecosystem-cleanup</link>
+      <description><![CDATA[一个跟踪清理 JS 生态系统的持续努力的地方]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ecosystem-cleanup</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>重新混合客户端缓存</title>
-      <link>https://www.opensourceagenda.com/projects/remix-client-cache</link>
-      <description><![CDATA[在 Remix.run 中缓存客户端数据的实用程序库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/remix-client-cache</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:25 GMT</pubDate>
+      <title>调用 Docker</title>
+      <link>https://www.opensourceagenda.com/projects/llama-docker</link>
+      <description><![CDATA[使用 CUDA 的 Docker 化 AI。 Llama-cpp-python 和稳定扩散。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/llama-docker</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>Discord 机器人基地</title>
-      <link>https://www.opensourceagenda.com/projects/discord-bot-base</link>
+      <title>皮革背景</title>
+      <link>https://www.opensourceagenda.com/projects/leather-background</link>
+      <description><![CDATA[Flutter 中的皮革背景着色器演示]]></description>
+      <guid>https://www.opensourceagenda.com/projects/leather-background</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verthandii Palworld Go</title>
+      <link>https://www.opensourceagenda.com/projects/verthandii-palworld-go</link>
+      <description><![CDATA[《幻兽帕鲁》私服启动器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/verthandii-palworld-go</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palworld服务器工具</title>
+      <link>https://www.opensourceagenda.com/projects/palworld-server-tool</link>
+      <description><![CDATA[通过可视化界面或命令行工具管理幻兽帕鲁 / PalWorld 专用服务器，玩家列表/踢出/封禁/游戏内广播，基于 RCON 实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/palworld-server-tool</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>第二讲</title>
+      <link>https://www.opensourceagenda.com/projects/lecture2</link>
+      <description><![CDATA[讲座 2 - 2024-01-20]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lecture2</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>方块世界</title>
+      <link>https://www.opensourceagenda.com/projects/blockworld</link>
+      <description><![CDATA[一个新的类似 Minecraft 的游戏实现。它的目标是与《我的世界》模组实现源代码级兼容。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/blockworld</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>中央R9</title>
+      <link>https://www.opensourceagenda.com/projects/central-r9</link>
+      <description><![CDATA[专为控制 R9 的 PC 功能而构建的管理桌面应用程序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/central-r9</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络航行者</title>
+      <link>https://www.opensourceagenda.com/projects/webvoyager</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/discord-bot-base</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:25 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/webvoyager</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>塔科夫 2024 H4ack</title>
-      <link>https://www.opensourceagenda.com/projects/tarkov-2024-h4ack</link>
-      <description><![CDATA[新 Tarkov hack 2024 开发存储库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tarkov-2024-h4ack</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:25 GMT</pubDate>
+      <title>反应列表播放器</title>
+      <link>https://www.opensourceagenda.com/projects/react-list-player</link>
+      <description><![CDATA[灵活的 React 播放列表控制器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-list-player</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:53 GMT</pubDate>
     </item>
     <item>
-      <title>惯性导航系统</title>
-      <link>https://www.opensourceagenda.com/projects/ins-vws</link>
+      <title>创意合成器</title>
+      <link>https://www.opensourceagenda.com/projects/creativesynth</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ins-vws</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:24 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/creativesynth</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:53 GMT</pubDate>
     </item>
     <item>
-      <title>大众汽车</title>
-      <link>https://www.opensourceagenda.com/projects/ytb-vws</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ytb-vws</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:24 GMT</pubDate>
+      <title>Hmes98318 Palworld Docker</title>
+      <link>https://www.opensourceagenda.com/projects/hmes98318-palworld-docker</link>
+      <description><![CDATA[可轻松运行Palworld专用服务器的Docker容器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hmes98318-palworld-docker</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>行波管VWS</title>
-      <link>https://www.opensourceagenda.com/projects/twt-vws</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/twt-vws</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:24 GMT</pubDate>
+      <title>香草小地图</title>
+      <link>https://www.opensourceagenda.com/projects/vanillaminimaps</link>
+      <description><![CDATA[完全原生的小地图，没有任何模组。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vanillaminimaps</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>搜索搜索Go</title>
-      <link>https://www.opensourceagenda.com/projects/searchsearchgo</link>
-      <description><![CDATA[一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎，来体验找寻资源的快乐吧~]]></description>
-      <guid>https://www.opensourceagenda.com/projects/searchsearchgo</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:24 GMT</pubDate>
+      <title>纸你</title>
+      <link>https://www.opensourceagenda.com/projects/paper-ai</link>
+      <description><![CDATA[根据ai寻找到的论文生成引用文献]]></description>
+      <guid>https://www.opensourceagenda.com/projects/paper-ai</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:51 GMT</pubDate>
     </item>
     <item>
-      <title>食品经理</title>
-      <link>https://www.opensourceagenda.com/projects/lunaai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lunaai</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速原油</title>
-      <link>https://www.opensourceagenda.com/projects/fastcrud</link>
-      <description><![CDATA[FastCRUD 是 FastAPI 的 Python 包，提供强大的异步 CRUD 操作和灵活的端点创建实用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fastcrud</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoritoZ1 Mevbot</title>
-      <link>https://www.opensourceagenda.com/projects/noritoz1-mevbot</link>
-      <description><![CDATA[以太坊三明治 MeV BoT：使用 AI 被动制作 | MEV 机器人指南]]></description>
-      <guid>https://www.opensourceagenda.com/projects/noritoz1-mevbot</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>VWS账户</title>
-      <link>https://www.opensourceagenda.com/projects/tk-vws</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tk-vws</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>很棒的六角爬行</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-hexcrawl</link>
-      <description><![CDATA[:world_map：很棒的免费 Hexcrawl 资源列表]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-hexcrawl</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Springboot React 社交登录</title>
-      <link>https://www.opensourceagenda.com/projects/springboot-react-social-login</link>
-      <description><![CDATA[该项目的目标是实现一个名为 movie-app 的应用程序来管理电影。为此，我们将实现一个名为 movie-api 的后端 Spring Boot 应用程序和一个名为 movie-ui 的字体端 React 应用程序。此外，我们将使用 OAuth2（社交登录）来保护这两个应用程序的安全。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/springboot-react-social-login</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络跑者山猫</title>
-      <link>https://www.opensourceagenda.com/projects/net-runner-lynx</link>
-      <description><![CDATA[Lynx - 链接和书签管理器以及广域网共享平台。 Next.js、Node.js + Hyper Express、Nx]]></description>
-      <guid>https://www.opensourceagenda.com/projects/net-runner-lynx</guid>
-      <pubDate>Sun, 28 Jan 2024 09:13:22 GMT</pubDate>
+      <title>愈合</title>
+      <link>https://www.opensourceagenda.com/projects/heal</link>
+      <description><![CDATA[[ICLR2024] HEAL：开放异构协作感知的可扩展框架🤠➡️ 协作感知的统一框架！ ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/heal</guid>
+      <pubDate>Sun, 28 Jan 2024 12:19:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
