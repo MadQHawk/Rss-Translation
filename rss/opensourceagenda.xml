@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 28 Jan 2024 18:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 21:13:41 GMT</lastBuildDate>
     <item>
-      <title>第二讲</title>
-      <link>https://www.opensourceagenda.com/projects/lecture2</link>
-      <description><![CDATA[讲座 2 - 2024-01-20]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lecture2</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:40 GMT</pubDate>
+      <title>假发光材料 R3f</title>
+      <link>https://www.opensourceagenda.com/projects/fake-glow-material-r3f</link>
+      <description><![CDATA[用于反应三纤维的假发光材料。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fake-glow-material-r3f</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>方块世界</title>
-      <link>https://www.opensourceagenda.com/projects/blockworld</link>
-      <description><![CDATA[一个新的类似 Minecraft 的游戏实现。它的目标是与《我的世界》模组实现源代码级兼容。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/blockworld</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:40 GMT</pubDate>
+      <title>MILVLG 小鬼</title>
+      <link>https://www.opensourceagenda.com/projects/milvlg-imp</link>
+      <description><![CDATA[一系列多模态小语言模型]]></description>
+      <guid>https://www.opensourceagenda.com/projects/milvlg-imp</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>创意合成器</title>
-      <link>https://www.opensourceagenda.com/projects/creativesynth</link>
+      <title>2024 懒惰开发会议</title>
+      <link>https://www.opensourceagenda.com/projects/2024-lazydevconf</link>
+      <description><![CDATA[2024 Lazy 开发者大会演示]]></description>
+      <guid>https://www.opensourceagenda.com/projects/2024-lazydevconf</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SDOS</title>
+      <link>https://www.opensourceagenda.com/projects/sdos</link>
+      <description><![CDATA[（快捷方式磁盘操作系统）基于 iOS/iPadOS 的 DOS，带有快捷方式应用程序和文件应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sdos</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabrina Aip 拼写检查</title>
+      <link>https://www.opensourceagenda.com/projects/sabrina-aip-spellcheck</link>
+      <description><![CDATA[一个非常愚蠢的拼字比赛]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sabrina-aip-spellcheck</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>AutoCAD2024</title>
+      <link>https://www.opensourceagenda.com/projects/autocad-autodesk2024</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/creativesynth</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:39 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/autocad-autodesk2024</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>中央R9</title>
-      <link>https://www.opensourceagenda.com/projects/central-r9</link>
-      <description><![CDATA[专为控制 R9 的 PC 功能而构建的管理桌面应用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/central-r9</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:39 GMT</pubDate>
+      <title>深度标签搜索</title>
+      <link>https://www.opensourceagenda.com/projects/deep-tab-search</link>
+      <description><![CDATA[Chrome 扩展程序，可让您搜索所有打开的标签页的内容。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/deep-tab-search</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>网络航行者</title>
-      <link>https://www.opensourceagenda.com/projects/webvoyager</link>
+      <title>黑客新闻</title>
+      <link>https://www.opensourceagenda.com/projects/hacker-newsy</link>
+      <description><![CDATA[漂亮的黑客新闻客户端]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hacker-newsy</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币工具</title>
+      <link>https://www.opensourceagenda.com/projects/btctools</link>
+      <description><![CDATA[BTCTools - 管理您的 ASIC 矿工 (Windows)]]></description>
+      <guid>https://www.opensourceagenda.com/projects/btctools</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>多心智</title>
+      <link>https://www.opensourceagenda.com/projects/polymind</link>
+      <description><![CDATA[一个多模式、函数调用驱动的 LLM Webui。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/polymind</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>XxTekkyX Mev 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/xxtekkyx-mev-bot</link>
+      <description><![CDATA[&quot;demorem/Mevbot&quot;❌ || XxTekkyX/mev-bot 很干净✅ - 赚钱（被动收入）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xxtekkyx-mev-bot</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>固体错误</title>
+      <link>https://www.opensourceagenda.com/projects/solid-errors</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/webvoyager</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:39 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/solid-errors</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>Hmes98318 Palworld Docker</title>
-      <link>https://www.opensourceagenda.com/projects/hmes98318-palworld-docker</link>
-      <description><![CDATA[可轻松运行Palworld专用服务器的Docker容器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hmes98318-palworld-docker</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:38 GMT</pubDate>
+      <title>诅咒包 F31</title>
+      <link>https://www.opensourceagenda.com/projects/cursedpkt-f31</link>
+      <description><![CDATA[在网络上隐藏 Kali Linux 的工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cursedpkt-f31</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>香草小地图</title>
-      <link>https://www.opensourceagenda.com/projects/vanillaminimaps</link>
-      <description><![CDATA[完全原生的小地图，没有任何模组。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vanillaminimaps</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应列表播放器</title>
-      <link>https://www.opensourceagenda.com/projects/react-list-player</link>
-      <description><![CDATA[灵活的 React 播放列表控制器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/react-list-player</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP Bpm 检测</title>
-      <link>https://www.opensourceagenda.com/projects/php-bpm-detect</link>
-      <description><![CDATA[用于 bpm 检测的 php 类]]></description>
-      <guid>https://www.opensourceagenda.com/projects/php-bpm-detect</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>纸你</title>
-      <link>https://www.opensourceagenda.com/projects/paper-ai</link>
-      <description><![CDATA[根据ai寻找到的论文生成引用文献]]></description>
-      <guid>https://www.opensourceagenda.com/projects/paper-ai</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>愈合</title>
-      <link>https://www.opensourceagenda.com/projects/heal</link>
-      <description><![CDATA[[ICLR2024] HEAL：开放异构协作感知的可扩展框架🤠➡️ 协作感知的统一框架！ ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/heal</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐分析器</title>
-      <link>https://www.opensourceagenda.com/projects/musicanalyser</link>
-      <description><![CDATA[使用音频频率分析来执行音高检测并预测音乐元素。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/musicanalyser</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>君悦草 AndroidSoundTouch</title>
-      <link>https://www.opensourceagenda.com/projects/junyuecao-androidsoundtouch</link>
-      <description><![CDATA[适用于 Android 的 SoundTouch java 包装器库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/junyuecao-androidsoundtouch</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>霍姆布里奇声触</title>
-      <link>https://www.opensourceagenda.com/projects/homebridge-soundtouch</link>
+      <title>网络开发人员组合</title>
+      <link>https://www.opensourceagenda.com/projects/web-developer-portfolio</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/homebridge-soundtouch</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:36 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/web-developer-portfolio</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>阿拉斯贡戈尔国际象棋机器人</title>
-      <link>https://www.opensourceagenda.com/projects/arasgungore-chess-bot</link>
-      <description><![CDATA[一个 C++ 项目，您可以在其中与使用 alpha-beta 剪枝的 AI 下棋预测最佳移动。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arasgungore-chess-bot</guid>
-      <pubDate>Sun, 28 Jan 2024 18:14:35 GMT</pubDate>
+      <title>Github 配置文件生成器</title>
+      <link>https://www.opensourceagenda.com/projects/github-profile-generator</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/github-profile-generator</guid>
+      <pubDate>Sun, 28 Jan 2024 21:13:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

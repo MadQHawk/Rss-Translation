@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 18:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 21:13:19 GMT</lastBuildDate>
     <item>
-      <title>好关系还有用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad8boc/is_goodrelationship_is_still_useful/</link>
-      <description><![CDATA[我读到，当雅虎使用良好关系时，他们观察到点击率增加了 15%。 &lt; !-- SC_ON --&gt;  由   提交 /u/sohail_ansari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad8boc/is_goodrelationship_is_still_useful/</guid>
-      <pubDate>Sun, 28 Jan 2024 17:47:43 GMT</pubDate>
+      <title>（WIP）第一个组合项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1add3p6/wip_first_portfolio_project/</link>
+      <description><![CDATA[      与标题相同。 UI 已经基本完成，只需要一些小的调整。除了“2+2”之外，我还没有实现任何 JavaScript。和“5”只是作为一个演示。明天要开始研究功能了，祝我好运！ 🤞🏾   由   提交 /u/ArliumArt   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1add3p6/wip_first_portfolio_project/</guid>
+      <pubDate>Sun, 28 Jan 2024 21:06:15 GMT</pubDate>
     </item>
     <item>
-      <title>如何通过 FTP 直接通过服务器上传字体，就像在 Elementor 中使用 adobe typekit 一样使用这些字体？ （例如，可以在任何我想要的地方使用任何字体，而不仅仅是哦，这种字体在所有 header 1 和 ext 中......）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad6igr/how_to_upload_fonts_directly_through_server/</link>
-      <description><![CDATA[我已通过 FTP 将字体移至我的 WordPress 网站文件，但我需要知道什么代码允许我在 Elementor 中像 adobe 一样使用它们typekit 插件允许我这样做。因此，elementor 有一个下拉菜单，我可以为正在格式化的文本选择所需的字体，在 CSS 中我可以通过使用字体名称来获取它，就像在 CSS 中一样。我怎样才能用我安装的字体做到这一点？  提前请原谅我提出这个非常基本的问题，我正在边学习边学习，3 年前我对构建网站、SEO 或其他任何事情一无所知。仍在学习编码语言，并且仍然非常基础，因为网络构建器已经宠坏了我 XD，但我正在尝试。   由   提交 /u/Kimyr1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad6igr/how_to_upload_fonts_directly_through_server/</guid>
-      <pubDate>Sun, 28 Jan 2024 16:30:40 GMT</pubDate>
+      <title>与普通 JS 同步复选框？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adck5c/sync_checkboxes_with_vanilla_js/</link>
+      <description><![CDATA[例如 手机 [ ] iPhone 4 [ ] Galaxy S9 [ ] Lumia 1020 [ ] ... 品牌[ ] 苹果 [ ] 三星 [ ] 诺基亚 [ ] ... 国家 [ ] 美国 [ ] 韩国 [ ] 芬兰 [ ] ...  因此，如果我只需单击 iPhone、Apple 和 US会自动检查自己，如果我检查美国也会发生同样的情况，Apple 和 iPhone 也会跟随。 我尝试搜索如何执行此操作，但所有答案都使用 jQuery 或示例位于 2 个复选框之间，所以我不知道如何升级，有什么帮助吗？   由   提交 /u/nopeac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adck5c/sync_checkboxes_with_vanilla_js/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:43:48 GMT</pubDate>
     </item>
     <item>
-      <title>我的sql替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad67p2/my_sql_alternative/</link>
-      <description><![CDATA[我喜欢 Planetscale 是 mysql，但仅此而已。有mysql替代品吗？   由   提交/u/darbokredshrirt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad67p2/my_sql_alternative/</guid>
-      <pubDate>Sun, 28 Jan 2024 16:17:39 GMT</pubDate>
+      <title>提醒：远离hostgator</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adcctg/reminder_stay_away_from_hostgator/</link>
+      <description><![CDATA[我本来打算详细说明我与他们的糟糕经历，但经过快速搜索后，我意识到这是这里流行的观点，无需多言已经说过了。所以这是为那些可能还不知道的开发人员准备的。不要使用hostgator   由   提交 /u/professorhummingbird   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adcctg/reminder_stay_away_from_hostgator/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>您建议我如何继续执行以下任务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad5tew/how_would_you_suggest_i_proceed_with_the/</link>
-      <description><![CDATA[我想通过复制内联注释来自动生成任何代码的文档。最好适用于所有编程语言。知道如何做到这一点吗？   由   提交/u/BellatorGriss  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad5tew/how_would_you_suggest_i_proceed_with_the/</guid>
-      <pubDate>Sun, 28 Jan 2024 16:00:44 GMT</pubDate>
+      <title>第一个反应项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adccch/first_react_project/</link>
+      <description><![CDATA[大家觉得怎么样？   由   提交/u/Professional_Use9558   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adccch/first_react_project/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:34:37 GMT</pubDate>
     </item>
     <item>
-      <title>[炫耀星期六] 个人网站 |简约/深色主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad51hu/showoff_saturday_personal_website_minimalistic/</link>
-      <description><![CDATA[ 由   提交 /u/Pisay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad51hu/showoff_saturday_personal_website_minimalistic/</guid>
-      <pubDate>Sun, 28 Jan 2024 15:26:04 GMT</pubDate>
+      <title>如何删除标题上的项目？ （Wordpress，没有 elementor pro）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adc7hf/how_can_i_remove_an_item_on_my_header_wordpress/</link>
+      <description><![CDATA[      两个联系页面，不知道如何删除它们。   由   提交/u/Xswezzy8  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adc7hf/how_can_i_remove_an_item_on_my_header_wordpress/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:28:53 GMT</pubDate>
     </item>
     <item>
-      <title>测试 Chrome 扩展的性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad4tp7/testing_performance_for_chrome_extensions/</link>
-      <description><![CDATA[大家好，我开发了一个带有后台脚本和内容脚本的 Chrome 扩展。我想知道如何对扩展进行性能测试，这样我就知道我不会减慢/冻结任何安装我的扩展的人。我如何确保我当前的和新的代码会对我的任何用户产生不良影响？如果有什么东西可以集成到我的 CI 中，或者在本地进行测试，那就太好了。我了解 chrome devtools，但我正在寻找“更自动化”的东西，而不是仅仅研究图表和其他东西。   由   提交/u/aviv18901  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad4tp7/testing_performance_for_chrome_extensions/</guid>
-      <pubDate>Sun, 28 Jan 2024 15:16:01 GMT</pubDate>
+      <title>Web 开发人员是否应该在每次交付中升级依赖项？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adc6a6/should_a_web_developer_upgrade_dependencies_in/</link>
+      <description><![CDATA[嘿， 不确定这是否是解决这个问题的最佳位置，但我有点困惑。  我在 IT 团队工作，但我们的很多开发工作都是从其他公司采购的。只要项目处于初始构建/开发阶段，他们中的一些人就会定期使用随机票证进行 NPM 包更新。  我知道，过于频繁地这样做，尤其是当应用程序已经成熟时，会带来太多的工作而没有足够的收获，所以我们尝试每年做一到两次。当应用程序上线时，我们必须向合作伙伴下订单才能升级它们。 ​ 但我们还有另一个合作伙伴不会这样做在开发阶段就这样做，并希望我们每次需要时都创建新的票证/工作项目，尽管他们每个月都会批量提供功能。他们只是不想自己做这项工作。他们说他们不想自掏腰包，这是有道理的，因为我们按小时付费，所以无论你在哪里记录这些时间都不是问题，我们只是希望每月交付时你不会引入当产品尚未准备好时，就已经过时的软件包并增加了技术债务。  ​ 业界对此有何看法？   由   提交 /u/vsamma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adc6a6/should_a_web_developer_upgrade_dependencies_in/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助建立一个只为两个人设计的网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad4t8d/need_help_for_a_website_thats_only_designed_for/</link>
-      <description><![CDATA[大家好， 我正在为我和我的女朋友创建一个网站。该网站应具有以下功能：  时间线，显示自我们第一次约会以来的时间（以年、月、周等为单位）。 存储我们共享食谱的地方 一个照片库，其中的时间线显示每张照片的拍摄日期 一个画布抽屉，可以用多种颜色绘制小图片并将它们存储在图库中 进入网站的密码检查  我已经拥有自己的领域和面向对象编程语言（例如 C# 和 Java）的编程技能。没有 HTML、JavaScript、PHP、CSS 等方面的经验。  我正在寻找有关如何实现这一点的建议。我希望它看起来不错并且易于非技术人员使用。 您会推荐哪些技术和框架？什么托管合适？请记住，它仅供两个人（我和她）访问。 感谢您的反馈！    ;由   提交/u/Honest_Association94   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad4t8d/need_help_for_a_website_thats_only_designed_for/</guid>
-      <pubDate>Sun, 28 Jan 2024 15:15:21 GMT</pubDate>
+      <title>另一个“is x macbook”足以用于 webdev（和其他），线程。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adbxir/another_is_x_macbook_enough_for_webdev_and_others/</link>
+      <description><![CDATA[长话短说。我有一台带有双引导 Windows 和 Linux 的宏碁笔记本电脑（8GB 内存，R7 2700U）。 我时不时会遇到一些冻结问题，但总体来说还不错。 我想要购买 MacBook Air M2（8GB，256SSD）。是否足够用于： - WebDev（主要焦点） - 特别是 NextJS、1/2 docker 容器、NodeJS（MERN 堆栈）和 php - 网页设计 - Figma - VSCode IDE - 轻量级 python 开发 - 和媒体（YT、电影等） ） 我不会使用太多同时打开的东西，并且主要用于网络开发。 此外，我想将其连接到外部显示器（全高清，27 ”，60Hz）。 够了吗？ （我可以在笔记本电脑上花费最多 1.3k，并且我不想使用带有 Windows 的东西，因为我会经常旅行，并且我需要在不插入充电器的情况下充满电） 抱歉，如果我偏离了主题。   由   提交 /u/blzdawg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adbxir/another_is_x_macbook_enough_for_webdev_and_others/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>【周六秀】GPTOS：受 Rabbit R1 启发的 Android 助手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad3xx6/showoff_saturday_gptos_an_android_assistant/</link>
-      <description><![CDATA[      GPTOS：受 Rabbit 启发的 Android 助手R1  UI 基于 webview  评论：https ://youtube.com/clip/Ugkx9UalYBJbCeROOs1E1z7wjw84xjEWx7Pv?si=cHdmaetr-htZ7RZW 演示：https://twitter.com/friuns2/status/1750863905608306991  WIP 用户界面：  https://preview.redd.it/e11jccb7z6fc1.png ?width=431&amp;format=png&amp;auto=webp&amp;s=26ae1ed36a3f337bb8664d80986a23aad70af9f1   由   提交/u/friuns  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad3xx6/showoff_saturday_gptos_an_android_assistant/</guid>
-      <pubDate>Sun, 28 Jan 2024 14:34:06 GMT</pubDate>
+      <title>电子管理仪表板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adbodr/electron_admin_dashboard/</link>
+      <description><![CDATA[我正在为自己开发一个电子商务网站，同时我也一直在制作其管理仪表板。最初，我打算将其设为可通过互联网访问的网站 (admin.example.com)，但认为对于我的特定情况而言，这是不必要的安全风险。因此，我决定使用电子将其制作为桌面应用程序 该网站使用电子邮件身份验证进行登录（令牌被发送到管理员用于登录的电子邮件），但这似乎毫无用处，如果数据库的用户名和密码仅存储在包文件中的某个位置。  我该怎么办？我应该放弃身份验证吗？使用数据库用户名和密码进行身份验证？有想法吗？对于上下文，我将是唯一的用户   由   提交/u/Over-Distribution570  /u/Over-Distribution570 reddit.com/r/webdev/comments/1adbodr/electron_admin_dashboard/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adbodr/electron_admin_dashboard/</guid>
+      <pubDate>Sun, 28 Jan 2024 20:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>无法登录该网站。尝试了不同的浏览器网络等，但问题仅发生在这台电脑上。控制台中也有一些 api 错误。这可能是什么问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad3p22/cant_login_to_this_website_tried_different/</link>
-      <description><![CDATA[   /u/gatoratemylips  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad3p22/cant_login_to_this_website_tried_different/</guid>
-      <pubDate>Sun, 28 Jan 2024 14:21:38 GMT</pubDate>
+      <title>向我推荐适合小型企业的最佳托管网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adb8s7/recommend_me_best_hosting_sites_for_a_small/</link>
+      <description><![CDATA[大家好，我和我的朋友一起创办了一家小企业，我们需要一个像样的托管网站来放置我们的网站，我们的预算不是很大，而且我们的需求也很简单，主要是显示图片或视频等信息/内容。 ​ 先谢谢了！ &lt; !-- SC_ON --&gt;  由   提交 /u/DDevil_Rengar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adb8s7/recommend_me_best_hosting_sites_for_a_small/</guid>
+      <pubDate>Sun, 28 Jan 2024 19:47:53 GMT</pubDate>
     </item>
     <item>
-      <title>Web 开发人员通常有固定的朝九晚五的时间表，还是他们的工作更多地基于项目时间表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad3euh/do_web_developers_usually_have_fixed_95_schedules/</link>
-      <description><![CDATA[我希望我的表述是正确的。预先感谢您的回答！   由   提交 /u/ViSuo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad3euh/do_web_developers_usually_have_fixed_95_schedules/</guid>
-      <pubDate>Sun, 28 Jan 2024 14:07:13 GMT</pubDate>
+      <title>MPA 的 URL 模式和方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1adakvl/url_patterns_and_methods_for_mpa/</link>
+      <description><![CDATA[所以我创建了一个使用 djangos 模型、视图和模板的 Django 项目。 不过，我的 URL 模式强烈面向什么通常建议用于 REST API（尽管我现在知道对于实际的 REST HATEOAS 比那些 URL 模式更重要），并且我通过在其 URI 上进行 DELETE 来实现资源的删除，而不是像 POST 到 /product/ 这样的操作;/delete/. 但是由于它不是 REST API，而是 MPA，我想知道是否还有其他常见的方法来设计它。也许坚持使用 GET 和 POST 更好，因为即使没有我的 JS 函数来创建 DELETE，它仍然可以工作。 简而言之：  是 MPA URL 模式的建议与典型的休息模式不同？ 我应该坚持 GET 和 POST 并通过不同端点创建 CRUD 还是应该实现 PUT 和 DELETE？    由   提交 /u/Simaryp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1adakvl/url_patterns_and_methods_for_mpa/</guid>
+      <pubDate>Sun, 28 Jan 2024 19:20:34 GMT</pubDate>
     </item>
     <item>
-      <title>工程师对 Web 开发的一些奇怪看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad39bx/weird_things_engineers_believe_about_web/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/tonlapshy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad39bx/weird_things_engineers_believe_about_web/</guid>
-      <pubDate>Sun, 28 Jan 2024 14:00:05 GMT</pubDate>
+      <title>授权/OIDC建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad9y8t/authorization_oidc_advice/</link>
+      <description><![CDATA[我想对我的应用程序实施授权和身份验证，并想知道您使用谁？看起来最大的 3 个选择是 Okta、firebase 和 supabase。有人可以告诉我两者的好处以及实施起来有多容易吗？ 谢谢！   由   提交/u/Intelligent_Sugar207   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad9y8t/authorization_oidc_advice/</guid>
+      <pubDate>Sun, 28 Jan 2024 18:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>Webdev 或云计算的跨平台开发人员。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad22yp/webdev_or_crossplataform_developer_for_cloud/</link>
-      <description><![CDATA[你好。有机会学习webdev或者跨平台开发者，有点拿不定主意。考虑到我的主要兴趣是云计算及其运营以及网络安全，那么学习 webdev 是否​​更符合逻辑？与作为多平台开发人员随后接受面向云计算的培训相比，它会给我更多的知识吗？   由   提交 /u/Story-Boring    reddit.com/r/webdev/comments/1ad22yp/webdev_or_crossplataform_developer_for_cloud/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad22yp/webdev_or_crossplataform_developer_for_cloud/</guid>
-      <pubDate>Sun, 28 Jan 2024 12:56:16 GMT</pubDate>
+      <title>为什么存在虚拟队列？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad9ut1/why_do_virtual_queues_exist/</link>
+      <description><![CDATA[标题。我的意思是，任何主机上是否没有足够的资源来同时处理数千或一百万个请求？这主要发生在购买活动门票时（我是阿根廷人）   由   提交 /u/laritawaifu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad9ut1/why_do_virtual_queues_exist/</guid>
+      <pubDate>Sun, 28 Jan 2024 18:51:04 GMT</pubDate>
     </item>
     <item>
-      <title>作为开发者如何打造个人品牌</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad1wb9/how_to_build_a_personal_brand_as_a_developer/</link>
-      <description><![CDATA[ 由   提交/u/outtub838  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad1wb9/how_to_build_a_personal_brand_as_a_developer/</guid>
-      <pubDate>Sun, 28 Jan 2024 12:45:33 GMT</pubDate>
+      <title>求职面试准备 -> 对于这些科目，您推荐什么技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad9h17/job_interview_preparation_what_technology_do_you/</link>
+      <description><![CDATA[您好，如果可能的话，我需要一些帮助。我要准备一个工作面试（针对初级 php 开发人员）位置），为此我必须准备两个主题来围绕它们进行讨论。当然，我最初一直在自己四处寻找，但我想看看您是否有任何可能对我的准备工作感兴趣的想法。 - 主题 1：单元测试和场景  我们想要设置自动化测试和场景。必须编写一些测试，但我们正在寻找一种解决方案来根据执行的操作（例如宏）自动创建它们。  - 主题 2：运行时环境  我们希望为客户提供 Microsoft Azure 平台上的运行时环境。然而，对于希望托管自己的服务的客户，我们希望提供一个打包的解决方案，使这些服务能够部署在受控环境中，无论主机操作系统如何。我们已经探索过 docker 等解决方案。这个环境必须允许通过我们的部署工具进行更新。  关于第一个，我研究了Selenium并发现了Behat，我认为这对这个话题很有好处。 对于第二个，我不太确定，除了 Docker（我认为没有必要在这个讨论中推动它）之外，我认为Kubernetes 作为一个潜在主题，但没有直接链接，我还研究了 FrankenPHP （因为它可以将应用程序打包在静态二进制文件中），但随后更新为客户的不一定是最简单的？第二点，我只是想回顾一下CI/CD的概念，但是我没有更多的想法？ 所以我想问一下你有什么意见，或者可能是一些技术我应该看看？当然，我并不是要求将所有内容都放在盘子上交给我，只是一个指向文档的链接，我会自己去检查。也许我太专注于这些元素而无法看到其他可能性，所以我需要更大的大脑或者更广阔的视野来帮助我一点。 谢谢大家。   由   提交/u/Meiyo33  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad9h17/job_interview_preparation_what_technology_do_you/</guid>
+      <pubDate>Sun, 28 Jan 2024 18:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>如何在使用 Web Audio API 时保持音调？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad1eg2/how_to_preserve_pitch_while_using_web_audio_api/</link>
-      <description><![CDATA[我想更改音频文件的速度并保留音调： https://stackoverflow.com/a/36940850/10974338 但是上面的答案会改变音调。 &lt; p&gt;编辑： 似乎还没有本机实现： https://github.com/WebAudio/web-audio-api/issues/2487 有可用的第三方库吗？ ​    由   提交/u/yukiiiiiii2008   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad1eg2/how_to_preserve_pitch_while_using_web_audio_api/</guid>
-      <pubDate>Sun, 28 Jan 2024 12:15:01 GMT</pubDate>
+      <title>正确使用变量的 CSS 框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ad9gm8/css_framework_that_makes_proper_use_of_variables/</link>
+      <description><![CDATA[嗨， 我必须构建一个相对轻量级的应用程序，用户还可以通过设置屏幕对设计进行有限的修改。比如更改主题颜色、上传徽标等。 由于 CSS 变量的原因，现在这应该是一个相对简单的任务。如果不需要的话，我不想在运行时编译一些 SCSS 等。 所以我查看了 bootstrap 和 bulma 并意识到 bootstrap 使用变量，但非常不一致，并且 bulma 不使用变量根本不。如果可能的话，我不想只使用普通 CSS。 您能为仅使用 CSS 变量的 CSS 框架提出建议吗？   由   提交/u/sebastianstehle  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ad9gm8/css_framework_that_makes_proper_use_of_variables/</guid>
+      <pubDate>Sun, 28 Jan 2024 18:34:46 GMT</pubDate>
     </item>
     <item>
-      <title>Web 框架的 DX</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/</link>
-      <description><![CDATA[我正在开发一个 Web 框架，希望获得一些有关 DX 方向的反馈。 我希望这属于“UX”类别。因为我不知道将其发布到哪个网站。 该框架将有 3 个主要组件 - 路由、数据库查询和验证。 该框架还使用 Typescript，因此我正在尝试使用该语言创建一个 API。 我正在考虑为该框架使用 3 种不同的 API： 基于对象： ``&lt; code&gt;ts // 路由 Route({ path: &quot;/user/:name&quot;, method: &quot;GET&quot;, middleware: [auth], handler: (params: { name: string }) =&gt; { return new Response(user ${params.name}`); }, }); // 验证 const data = { name: &quot;joe&quot;, email: &quot;joe@exmaple.com&quot;, }; validate({ 数据: 数据, 规则: { 名称: { 必需: true }, 电子邮件: { required: true, email: true }, }, }); //查询 query({ select: &quot;*&quot;, from: &quot;users&quot;, where: [&quot;name&quot; ;, “=”, “乔”], }); ``` 基于类： ``ts // 路由 Router.path(&quot;/user/:name&quot;) .method(&quot;GET&quot;; ) .middleware([auth]) .handler((params: { name: string }) =&gt; { return new Response(user ${params.name}`); }); &lt; p&gt;// 验证 const data = { name: &quot;joe&quot;, email: &quot;joe@exmaple.com&quot;, }; Validator.validate(data).rules({ name: Rule.required(), email: Rule.required().email(), }); //查询Query。 select(&quot;*&quot;).from(&quot;users&quot;).where(&quot;name&quot;, &quot;=&quot;, &quot;joe&quot;); ``` 混合/基于函数： ``ts // 路由route .get(&quot;/user/:name&quot;, () =&gt;; { return new Response(user ${params.name}`); }) .middleware([auth]); // 验证 const data = { name: &quot;joe&quot;,电子邮件：“joe@exmaple.com”，}; validate.check(data, { name: Rule. required(), email: Rule.required().email(), }); //查询 database.query(&quot;*&quot;, &quot;users&quot;).where(&quot;name&quot; ;, “=”, “乔”); ``` 我希望 API 保持一致，我只是不确定该往哪个方向发展。 我很想听听人们的一些想法来提供帮助我做出决定。   由   提交 /u/Mediocre-Cobbler2978    reddit.com/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/</guid>
-      <pubDate>Sun, 28 Jan 2024 11:20:40 GMT</pubDate>
+      <title>[炫耀星期六] 一个为海外人士从零开始建立的社交媒体网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aco87e/showoff_saturday_a_social_media_site_for_people/</link>
+      <description><![CDATA[各位开发者大家好！过去 2 个月，我为居住在国外的人们构建了一个社交媒体网站，度过了大部分宝贵的夜晚🥲 我正在将后端从 Vercel 的无服务器功能迁移到 Spring Boot，因此前面的路还很长。 让我继续前进的是，已经有大约 300 名经过电子邮件验证的用户，这让我知道有些人正在发现我所做的东西的价值，这给了我动力。 &lt; p&gt;祝您的宠物项目中的每个人好运:) 站点：https://distantclub.com   由   提交 /u/Vitamina_e   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aco87e/showoff_saturday_a_social_media_site_for_people/</guid>
+      <pubDate>Sat, 27 Jan 2024 23:29:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
