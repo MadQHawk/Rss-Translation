@@ -4,14 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 28 Jan 2024 15:10:29 GMT</lastBuildDate>
-    <item>
-      <title>🚀 使用 Python Selenium 自动化 Instagram 参与</title>
-      <link>https://www.reddit.com/r/automation/comments/1ad471s/automating_instagram_engagement_with_python/</link>
-      <description><![CDATA[       观看完整视频。 很高兴分享一个使用 Selenium 自动化 Instagram 参与的 Python 脚本。该脚本利用网络自动化来执行评论、点赞、关注和查看故事等操作。高效社交媒体管理的强大工具！ 💡 主要功能：  动态评论： 真实地参与积极评论。 高效点赞：自动点赞指定标准内的帖子。 策略性关注：根据定义的参数关注帐户. 故事查看：与故事无缝交互。  🔧 自定义：对于那些不熟悉 Python 的人，我可以帮助自定义脚本以满足您的喜好。 🌐 与 tonfollowers.com 集成：该脚本与 tonfollowers.com 无缝集成，以增强参与策略。 &lt; p&gt;📈 如何使用：  输入您的 Instagram 凭据。 指定您想要自动执行的操作（评论、点赞、关注、故事视图）。 运行脚本并见证魔法！  📚 技术堆栈：  Python Selenium MySQL  🤝 与我联系：让我们讨论一下这个自动化脚本如何协作通过 tonfollowers.com，可以提升您的社交媒体策略。请随时联系我们！ #Automation #Python #Selenium #SocialMedia #Engagement #TonFollowers ​ https://preview.redd.it/y8m959vy07fc1.png?width=1000&amp;format=png&amp; ;auto=webp&amp;s=330fa7524efe641da07262bc0b7c9292b98604f9   由   提交/u/imad_kb   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ad471s/automating_instagram_engagement_with_python/</guid>
-      <pubDate>Sun, 28 Jan 2024 14:46:26 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Jan 2024 18:12:44 GMT</lastBuildDate>
     <item>
       <title>AutoWP V2 - 自动化您的 WordPress</title>
       <link>https://www.reddit.com/r/automation/comments/1abvmbc/autowp_v2_automate_your_wordpress/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[场景：我想在 YouTube 上发布剪辑。有时，这些剪辑是由病毒剪辑媒体公司授权的。 YouTube 不会自动检测到这一点，如果媒体公司看到它，他们最终会将其删除，我会收到版权警告。 那么，有没有一种方法可以自动执行这些检查过程公司搜索数据库以查看某个剪辑是否获得许可？ 例如，如果我上传视频、视频截图，甚至是关键字，是否有任何内容可以返回搜索结果，以便我可以看看这些公司是否真的拥有该视频？ 抱歉，如果这是一个糟糕的解释   由   提交/u/Free_Pain4060   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/196tkfa/very_specific_question/</guid>
       <pubDate>Sun, 14 Jan 2024 23:24:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gen AI 通过 NVIDIA Isaac 平台为智能机器人提供动力</title>
+      <link>https://www.reddit.com/r/automation/comments/196l46p/gen_ai_powers_smarter_robots_with_nvidia_isaac/</link>
+      <description><![CDATA[       由   提交/u/SparklySpencer  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/196l46p/gen_ai_powers_smarter_robots_with_nvidia_isaac/</guid>
+      <pubDate>Sun, 14 Jan 2024 17:29:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

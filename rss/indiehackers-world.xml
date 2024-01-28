@@ -4,7 +4,54 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 28 Jan 2024 15:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 18:14:47 GMT</lastBuildDate>
+    <item>
+      <title>想加入 Bootstrapper 周刊吗？</title>
+      <link>https://feed.indiehackers.world/post/51c8744947</link>
+      <description><![CDATA[大家好，我目前正在组织与 Bootstrappers 和独立黑客的每周视频通话。
+我们的想法是，每个人都简短地自我介绍，然后介绍上周的进展情况。
+我们的目标是保持联系、互相学习并分享其他人已经解决的问题的解决方案。
+每周日程，最多 1 小时，每次通话最多 10 名参与者
+如果您有兴趣加入，请在 Twitter 上联系我 (https://twitter.com/__brennerm)。 
+干杯
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/51c8744947</guid>
+      <pubDate>Sun, 28 Jan 2024 18:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放核心独立黑客。</title>
+      <link>https://feed.indiehackers.world/post/e3cd54f2d2</link>
+      <description><![CDATA[嗨，独立黑客 - 我已经有一分钟没有在这里发帖了。 
+我越来越相信，技术创始人的最佳方法是使用优质产品、Laravel 和 Databricks 模型构建开源。
+排序感觉很自然。产品市场契合度可以通过采用轻松衡量，您很快就会发现该项目是否有用。如果是这样，以后就有办法通过优质产品来支持开发者。
+我相信这就是所谓的“开放核心”？
+在开放核心空间中有哪些有趣的人可以互动？
+我应该听谁从开放核心中吸取了不好的经验/教训？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e3cd54f2d2</guid>
+      <pubDate>Sun, 28 Jan 2024 17:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Simulit 构建之旅 - 通过 AI 改进用户访谈</title>
+      <link>https://feed.indiehackers.world/post/1f983df204</link>
+      <description><![CDATA[提高 Simulit 的知名度是我最近关注的重点。我正在制作能在各种平台上引起共鸣的帖子，旨在吸引潜在用户并获得支持。您的见解和反馈是这一旅程的基石，我很高兴看到这种势头将带我们走向何方。
+结论
+从一个模糊的想法到希望能够改变游戏规则的东西的这段旅程将是令人难以置信的。每一天都会带来新的挑战和见解，加深与这个支持性社区的联系。我邀请大家与我一起继续开发 Simulit，分享您的反馈，甚至可能在这个令人兴奋的项目上进行合作。
+让我们一起彻底改变用户访谈！ 🚀
+您可以在此处加入候补名单：www.simulit.app
+或关注 Twitter @juliankempf99 获取每日更新👋🏻
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1f983df204</guid>
+      <pubDate>Sun, 28 Jan 2024 16:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Show IH：Sparks AI - 使用多 llms 和应用程序构建 AI 并从中获利</title>
+      <link>https://feed.indiehackers.world/post/14dc6a6662</link>
+      <description><![CDATA[独立黑客们大家好，我们刚刚推出了 Sparks AI 测试版。 Sparks AI 是一个使用应用程序集成和多个 llms 构建 AI 助手并从中获利的平台。我们仍在解决问题，很乐意收到您的反馈🙏
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/14dc6a6662</guid>
+      <pubDate>Sun, 28 Jan 2024 16:54:51 GMT</pubDate>
+    </item>
     <item>
       <title>有人想要保罗·格雷厄姆论文的实体副本吗？</title>
       <link>https://feed.indiehackers.world/post/aaee80ba7f</link>
@@ -121,51 +168,6 @@ https://eastbrightmarketing.gumroad.com/l/inc5000-2023
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b1445e4ca3</guid>
       <pubDate>Sat, 27 Jan 2024 23:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个充满疑问的物理系学生的自白：探索粒子、代码和大问题</title>
-      <link>https://feed.indiehackers.world/post/2d9c5e84b2</link>
-      <description><![CDATA[代码和构造任务：
-2024 年 1 月，我和室友想，为什么不测试一下我们的编码技能呢？我们正在为一家建筑公司开发 SAAS。令人兴奋，对吧？但还是有疑问，拍拍我的肩膀——他们会想要吗，该地区的主席说他们会想要，但事情随时都可能发生变化。
-永无休止的怀疑：
-怀疑是我可信赖的伙伴。先追逐金钱，然后再解决棘手的大问题，这很酷吗？或者我应该放弃一切，直接迎接巨大的挑战。
-丹尼尔特雷罗.co
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2d9c5e84b2</guid>
-      <pubDate>Sat, 27 Jan 2024 23:09:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能从 Tiktok 赚钱</title>
-      <link>https://feed.indiehackers.world/post/811bca8169</link>
-      <description><![CDATA[额外提示：创建有关热门主题和事件的内容。例如：克什米尔日即将到来，您可以为克什米尔日海报创建人工智能图像并轻松传播。您还可以从不同的网站选择图像，例如 https://quotesinurdu.pk/kashmir-day -海报-克什米尔日-海报-想法/
-通过将您的创造力与人工智能的力量相结合，您可以释放在 TikTok 上赚钱的新机会。那么，为什么还要等呢？今天就开始创作引人入胜的内容，为您成为 TikTok 明星铺平道路！
-请记住，TikTok 的成功并非一朝一夕就能实现。它需要奉献精神、创造力和适应不断变化的社交媒体格局的意愿。但只要掌握正确的策略和工具，您就可以将 TikTok 梦想变成现实。创造愉快！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/811bca8169</guid>
-      <pubDate>Sat, 27 Jan 2024 21:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的产品发布在 Reddit 上获得超过 10 万次浏览</title>
-      <link>https://feed.indiehackers.world/post/d8e1ce1ab1</link>
-      <description><![CDATA[如果我在第一篇文章处停下来，我最终会获得大约 95 次浏览。
-正如您想象的那样，获得 122K 浏览量的帖子本身并没有一路上升。该策略围绕一个关键事项：参与度。
-似乎包含视频的帖子最终获得的观看次数比“常规”帖子多得多。帖子。因此，请毫不犹豫地创建一个（如果您还没有的话）。
-我真的希望这能帮助你们中的一些人为社区制作一些精彩的帖子。
-当然，再说一遍：我是这方面的初学者。别把我的话当成理所当然。
-自己进行实验..并继续尝试！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d8e1ce1ab1</guid>
-      <pubDate>Sat, 27 Jan 2024 20:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 IH：你们为 MVP 聘请设计师吗？</title>
-      <link>https://feed.indiehackers.world/post/5988cd594a</link>
-      <description><![CDATA[大家好！
-我正在一个拥有成熟应用的空间中开发 Shopify 应用。我希望最初通过定价来使我的产品脱颖而出，但会推出竞争对手所没有的功能（即人工智能支持的建议，人们在评论中要求的东西）。希望保留对产品至关重要的相同核心功能。老牌竞争对手已经过时了最终向客户展示的设计，因此我可以看到他们希望通过更美观的用户界面来提升商家的品牌。 
-为了更好地区分我的产品，是否值得聘请设计师来构建初始页面？或者这会是一种浪费，因为我还没有对想要为我的产品付费的用户进行验证，因为已经有一些成熟的应用程序（基本上是指由于一些成功的应用程序的存在而引起了一些兴趣）。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5988cd594a</guid>
-      <pubDate>Sat, 27 Jan 2024 20:16:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
