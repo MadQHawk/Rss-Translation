@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 29 Jan 2024 15:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 18:14:01 GMT</lastBuildDate>
+    <item>
+      <title>如何使用移动 otp 或使用 MS 验证器应用程序自动化 Microsoft 2FA？</title>
+      <link>https://www.reddit.com/r/automation/comments/1adyr6r/how_to_automate_microsoft_2fa_using_mobile_otp_or/</link>
+      <description><![CDATA[当我点击项目 URL 时，系统会要求我使用 Microsoft 凭据登录。输入有效凭据后，一条 OTP 消息将发送到我的手机。使用 MS 验证器应用程序还有一个身份验证选项，我需要输入显示的 2 位代码 如何使用带有 JS 的 playwright 自动执行此场景？   由   提交 /u/naturally_nivi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1adyr6r/how_to_automate_microsoft_2fa_using_mobile_otp_or/</guid>
+      <pubDate>Mon, 29 Jan 2024 16:03:45 GMT</pubDate>
+    </item>
     <item>
       <title>AutoWP V2 - 自动化您的 WordPress</title>
       <link>https://www.reddit.com/r/automation/comments/1abvmbc/autowp_v2_automate_your_wordpress/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>新加入者 - 访问自动消息</title>
       <link>https://www.reddit.com/r/automation/comments/19788iz/new_joiners_access_auto_message/</link>
-      <description><![CDATA[我会在这里尽量简短。  目前的情况：如果我们有新员工，HR 会与 IT 部门共享姓名，为他们创建电子邮件，并允许他们访问我们正在使用的 OSS 应用程序，并且会有基本的信息他们将需要的系统。前任;票务系统 - 人力资源系统 - 松弛 - 缩放  想法：我们希望自动化这个过程。也许将 OSS 与我们的数据仓库集成，并设置一个触发器，每当我们有新员工时，它就会自动创建帐户。并且根据可能性级别，访问权限将有所不同：管理员 - 查看者 - .. 等 这可能吗？如果是，有哪些工具可以帮助我实现目标？   由   提交/u/Fuzzy-Example-7326   [链接] [评论]]]></description>
+      <description><![CDATA[我会在这里尽量简短。  目前的情况：如果我们有新员工，HR 会与 IT 部门共享姓名，为他们创建电子邮件，并允许他们访问我们正在使用的 OSS 应用程序，并且会有基本的信息他们需要的系统。前任;票务系统 - 人力资源系统 - 松弛 - 缩放  想法：我们希望自动化这个过程。也许将 OSS 与我们的数据仓库集成，并设置一个触发器，每当我们有新员工时，它就会自动创建帐户。并且根据可能性级别，访问权限将有所不同：管理员 - 查看者 - .. 等 这可能吗？如果是，有哪些工具可以帮助我实现目标？   由   提交/u/Fuzzy-Example-7326   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/19788iz/new_joiners_access_auto_message/</guid>
       <pubDate>Mon, 15 Jan 2024 13:03:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[场景：我想在 YouTube 上发布剪辑。有时，这些剪辑是由病毒剪辑媒体公司授权的。 YouTube 不会自动检测到这一点，如果媒体公司看到它，他们最终会将其删除，我会收到版权警告。 那么，有没有一种方法可以自动执行这些检查过程公司搜索数据库以查看某个剪辑是否获得许可？ 例如，如果我上传视频、视频截图，甚至是关键字，是否有任何内容可以返回搜索结果，以便我可以看看这些公司是否真的拥有该视频？ 抱歉，如果这是一个糟糕的解释   由   提交/u/Free_Pain4060   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/196tkfa/very_specific_question/</guid>
       <pubDate>Sun, 14 Jan 2024 23:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gen AI 通过 NVIDIA Isaac 平台为智能机器人提供动力</title>
-      <link>https://www.reddit.com/r/automation/comments/196l46p/gen_ai_powers_smarter_robots_with_nvidia_isaac/</link>
-      <description><![CDATA[       由   提交/u/SparklySpencer  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/196l46p/gen_ai_powers_smarter_robots_with_nvidia_isaac/</guid>
-      <pubDate>Sun, 14 Jan 2024 17:29:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

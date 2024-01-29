@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 29 Jan 2024 15:12:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 18:14:52 GMT</lastBuildDate>
     <item>
-      <title>Primeagen 宣布 🤣-lang (lmao-lang) 预览版</title>
-      <link>https://www.reddit.com/r/programming/comments/1adwpxt/primeagen_announces_preview_of_lang_lmaolang/</link>
-      <description><![CDATA[ 由   提交 /u/subnohmal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adwpxt/primeagen_announces_preview_of_lang_lmaolang/</guid>
-      <pubDate>Mon, 29 Jan 2024 14:34:35 GMT</pubDate>
+      <title>学习编程的课程</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae1qgh/courses_for_learn_programming/</link>
+      <description><![CDATA[嗨，我想学习前端或完整堆栈等编程，我们的网站您能给我建议吗？  我听说过 scrimba.com 和代码学院，您对这些网站有何看法？   由   提交 /u/Papoteur_LOL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae1qgh/courses_for_learn_programming/</guid>
+      <pubDate>Mon, 29 Jan 2024 18:04:34 GMT</pubDate>
     </item>
     <item>
-      <title>八种数据科学编程语言，助你实现稳健的职业生涯</title>
-      <link>https://www.reddit.com/r/programming/comments/1adwkxy/top_8_data_science_programming_languages_for_a/</link>
-      <description><![CDATA[ 由   提交/u/Shradha_Singh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adwkxy/top_8_data_science_programming_languages_for_a/</guid>
-      <pubDate>Mon, 29 Jan 2024 14:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>释放 GraalVM 的本机成像能力 • Alina Yurenko 和 Bert Jan Schrijver</title>
-      <link>https://www.reddit.com/r/programming/comments/1adwck1/unleashing_native_imaging_power_in_graalvm_alina/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adwck1/unleashing_native_imaging_power_in_graalvm_alina/</guid>
-      <pubDate>Mon, 29 Jan 2024 14:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的功能筛可以快速吗？在 HVM 上优化 Tromp 算法。</title>
-      <link>https://www.reddit.com/r/programming/comments/1adw3xt/can_a_simple_functional_sieve_be_fast_optimizing/</link>
-      <description><![CDATA[ 由   提交 /u/SrPeixinho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adw3xt/can_a_simple_functional_sieve_be_fast_optimizing/</guid>
-      <pubDate>Mon, 29 Jan 2024 14:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让你的程序员（看起来像他们）更加努力地工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1adw198/how_to_make_your_programmers_look_like_they_work/</link>
-      <description><![CDATA[ 由   提交/u/mixteenth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adw198/how_to_make_your_programmers_look_like_they_work/</guid>
-      <pubDate>Mon, 29 Jan 2024 14:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 请求的自适应速率限制</title>
-      <link>https://www.reddit.com/r/programming/comments/1advlup/adaptive_rate_limiting_for_api_requests/</link>
-      <description><![CDATA[ 由   提交/u/paul_lorenz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1advlup/adaptive_rate_limiting_for_api_requests/</guid>
-      <pubDate>Mon, 29 Jan 2024 13:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>您应该了解的 Terraform 社区</title>
-      <link>https://www.reddit.com/r/programming/comments/1advlac/terraform_communities_you_should_know_about/</link>
-      <description><![CDATA[ 由   提交/u/DiggerHQ  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1advlac/terraform_communities_you_should_know_about/</guid>
-      <pubDate>Mon, 29 Jan 2024 13:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能自动化中的防御性和鲁棒性设计 - 将防御性编程原则转移到人工智能自动化</title>
-      <link>https://www.reddit.com/r/programming/comments/1adu4hr/defensive_and_robust_design_in_ai_automation/</link>
-      <description><![CDATA[ 由   提交 /u/TheDeadlyPretzel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adu4hr/defensive_and_robust_design_in_ai_automation/</guid>
-      <pubDate>Mon, 29 Jan 2024 12:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>高效的 CI/CD 管道触发器：GitLab 分步指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1adttql/efficient_cicd_pipeline_triggers_a_stepbystep/</link>
-      <description><![CDATA[ 由   提交 /u/howhendew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adttql/efficient_cicd_pipeline_triggers_a_stepbystep/</guid>
-      <pubDate>Mon, 29 Jan 2024 12:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程挑战赛 - 澳大利亚公开赛选手排名</title>
-      <link>https://www.reddit.com/r/programming/comments/1adsxq9/coding_challenge_australian_open_player_ranking/</link>
-      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adsxq9/coding_challenge_australian_open_player_ranking/</guid>
-      <pubDate>Mon, 29 Jan 2024 11:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>深度强化学习教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1adskoa/deep_reinforcement_learning_tutorial/</link>
-      <description><![CDATA[ 由   提交 /u/ml_dnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adskoa/deep_reinforcement_learning_tutorial/</guid>
-      <pubDate>Mon, 29 Jan 2024 10:51:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>RevenueCat 如何管理缓存以处理超过 12 亿的每日 API 请求</title>
-      <link>https://www.reddit.com/r/programming/comments/1adsbju/how_revenuecat_manages_caching_for_handling_over/</link>
-      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adsbju/how_revenuecat_manages_caching_for_handling_over/</guid>
-      <pubDate>Mon, 29 Jan 2024 10:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数人认为不够简单</title>
-      <link>https://www.reddit.com/r/programming/comments/1adruar/most_people_dont_think_simple_enough/</link>
+      <title>海量 JavaScript 难以承受的重量</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae1ns4/the_unbearable_weight_of_massive_javascript/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adruar/most_people_dont_think_simple_enough/</guid>
-      <pubDate>Mon, 29 Jan 2024 10:01:58 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1ae1ns4/the_unbearable_weight_of_massive_javascript/</guid>
+      <pubDate>Mon, 29 Jan 2024 18:01:35 GMT</pubDate>
     </item>
     <item>
-      <title>Node.js 性能监控 |你的 APM 是在虚张声势</title>
-      <link>https://www.reddit.com/r/programming/comments/1adrtl8/nodejs_performance_monitoring_your_apm_is_bluffing/</link>
-      <description><![CDATA[ 由   提交 /u/tonlapshy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adrtl8/nodejs_performance_monitoring_your_apm_is_bluffing/</guid>
-      <pubDate>Mon, 29 Jan 2024 10:00:55 GMT</pubDate>
+      <title>LinkedIn 已成为一堆垃圾（甚至比平时还要多）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae1lns/linkedin_has_become_a_pile_of_garbage_even_more/</link>
+      <description><![CDATA[ 由   提交 /u/pysk00l   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae1lns/linkedin_has_become_a_pile_of_garbage_even_more/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:59:29 GMT</pubDate>
     </item>
     <item>
-      <title>Jasper 报表设计器：重要的报表元素</title>
-      <link>https://www.reddit.com/r/programming/comments/1adrqbo/jasper_report_designer_the_important_report/</link>
-      <description><![CDATA[ 由   提交/u/oditeksolutionsyaaas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adrqbo/jasper_report_designer_the_important_report/</guid>
-      <pubDate>Mon, 29 Jan 2024 09:54:51 GMT</pubDate>
+      <title>MySQL 视图：如何以及为何通过示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae1bi6/mysql_views_how_and_why_with_examples/</link>
+      <description><![CDATA[ 由   提交/u/zachm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae1bi6/mysql_views_how_and_why_with_examples/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:47:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需电脑即可读取二维码</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae19s7/reading_qr_codes_without_a_computer/</link>
+      <description><![CDATA[ 由   提交/u/pigage145  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae19s7/reading_qr_codes_without_a_computer/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何面试程序员——角斗士风格</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae1852/how_to_interview_programmers_gladiator_style/</link>
+      <description><![CDATA[ 由   提交/u/gHeadphone  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae1852/how_to_interview_programmers_gladiator_style/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 和 Pygame 中的 2048 游戏。源代码在说明中。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae15fj/2048_game_in_python_and_pygame_source_code_is_in/</link>
+      <description><![CDATA[ 由   提交 /u/DataWizual   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae15fj/2048_game_in_python_and_pygame_source_code_is_in/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在家工作时保持理智</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae0y4o/how_to_stay_sane_while_working_from_home/</link>
+      <description><![CDATA[ 由   提交/u/rco8786  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1ae0y4o/how_to_stay_sane_while_working_from_home/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae0y4o/how_to_stay_sane_while_working_from_home/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:32:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何建立高绩效的工程团队</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae0tdu/how_to_build_highperformance_engineering_teams/</link>
+      <description><![CDATA[ 由   提交/u/luminoumen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae0tdu/how_to_build_highperformance_engineering_teams/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ExecIT,使用 rundll32 执行 shellcode 文件,下载ExecIT的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae0nov/github_florylskexecit_execute_shellcode_files/</link>
+      <description><![CDATA[ 由   提交/u/byebid422  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae0nov/github_florylskexecit_execute_shellcode_files/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dolt - 版本控制数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1ae0d5e/dolt_a_version_controlled_database/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ae0d5e/dolt_a_version_controlled_database/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>讨论开源人工智能定义的公共论坛 - Voices of Open Source</title>
+      <link>https://www.reddit.com/r/programming/comments/1adzter/a_public_forum_to_discuss_the_open_source_ai/</link>
+      <description><![CDATA[ 由   提交 /u/HimadHustler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1adzter/a_public_forum_to_discuss_the_open_source_ai/</guid>
+      <pubDate>Mon, 29 Jan 2024 16:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>中途API</title>
+      <link>https://www.reddit.com/r/programming/comments/1adzlx5/midjourney_api/</link>
+      <description><![CDATA[ 由   提交/u/SeriousSpaceshipsBiz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1adzlx5/midjourney_api/</guid>
+      <pubDate>Mon, 29 Jan 2024 16:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 亿行挑战表明 Java 可以在两秒内处理 10 亿行文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1adzcdx/the_one_billion_row_challenge_shows_that_java_can/</link>
+      <description><![CDATA[ 由   提交/u/Ohsbar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1adzcdx/the_one_billion_row_challenge_shows_that_java_can/</guid>
+      <pubDate>Mon, 29 Jan 2024 16:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>2022 年 9 月从 Google 辞职，最终写了一本关于当今世界功能失调的软件开发实践的书。这是免费章节之一：敏捷作为微观管理工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1adz5jw/resigned_from_google_back_in_sept_2022_and_ended/</link>
+      <description><![CDATA[ 由   提交/u/redkit42  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1adz5jw/resigned_from_google_back_in_sept_2022_and_ended/</guid>
+      <pubDate>Mon, 29 Jan 2024 16:20:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
