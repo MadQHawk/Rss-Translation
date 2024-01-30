@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 18:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 21:14:09 GMT</lastBuildDate>
+    <item>
+      <title>LAMP 堆栈字典应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aeymdl/lamp_stack_dictionary_application/</link>
+      <description><![CDATA[大家好，我是一名大学生，目前正在攻读计算机科学学士学位，最近在我的软件开发课程中，我们一直在研究 LAMP基于联系人的应用程序。我发现它相对容易，并且一直在考虑创建一个使用 LAMP 堆栈的个人字典 + 共轭器项目。大家觉得这样可行吗？我首先获得了一本开源词典，但我不完全确定如何将其合并到数据库中。任何提示将不胜感激。谢谢！   由   提交 /u/raidnaeeem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aeymdl/lamp_stack_dictionary_application/</guid>
+      <pubDate>Tue, 30 Jan 2024 20:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何轻松迁移网站主机？从 Google 协作平台切换</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aey1st/how_to_easily_migrate_website_hosts_switching/</link>
+      <description><![CDATA[有关如何迁移的任何建议？去年，我在 Google 协作平台上为本地服务业务建立了网站。现在，我获得了更多关于 SEO 的知识，我发现了 Google 协作平台的一些限制。有没有一种简单的方法可以将我的整个网站复制到新主机上？谢谢。   由   提交/u/PriorityOk4440   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aey1st/how_to_easily_migrate_website_hosts_switching/</guid>
+      <pubDate>Tue, 30 Jan 2024 20:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何礼貌地告诉客户他们的 DIY 方法正在伤害他们？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aexyey/how_do_you_politely_tell_a_client_that_their_diy/</link>
+      <description><![CDATA[我有一位潜在客户对新网站感兴趣，她提到她也有一个针对其业务的网站。当我查看时，我感到畏缩。这是一个非常有 DIY 感觉的 Weebly 网站。它不会激发信任感或专业精神。  她知道该网站并不完美，但认为它已经足够好了。 我很难解释它最终歪曲了她的品牌。她是一辆奔驰，但她的网站让她看起来像一辆破旧的旅行车。 是否有人有任何策略可以礼貌地向非技术人员解释拥有某些东西符合他们自己的最大利益更精致？   由   提交 /u/bnd5k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aexyey/how_do_you_politely_tell_a_client_that_their_diy/</guid>
+      <pubDate>Tue, 30 Jan 2024 20:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一个没有经验的程序员，有一个网站的想法，我只需要一个我需要做什么的粗略轮廓</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aewtfm/im_an_inexperienced_programmer_with_a_website/</link>
+      <description><![CDATA[所以基本上，我想创建一个中世纪手稿网站，您可以在其中浏览原始的插图纸、转置为纯文本以及翻译为现代手稿同时讲英语。我的想法是，每个文本，比如说，将在其自己的页面上包含一些信息和目录，并且所述文本的每个页面将被分配给一个子页面；例如/manuscript_1/page4。因此，例如在 /page4 上，我需要三个可切换（这是一个单词吗？）窗格，第一个由原始文本手稿表组成，第二个由纯文本转置组成，第三个由用户选择的翻译组成。我希望这些窗格能够单独缩放，但我的主要问题来自于用户是否单击“下一页”箭头并进入/page5。我需要切换设置和所选翻译在本手稿的每一页上保持相同。因此，如果用户只想查看换位和翻译，那么所有页面都是这种情况，对于所选翻译也是如此。我对此很困惑，老实说，我是一个非常缺乏经验的程序员，所以我真的很感激，即使是我如何完成这个任务的粗略轮廓。谢谢。   由   提交 /u/Significant_Level497   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aewtfm/im_an_inexperienced_programmer_with_a_website/</guid>
+      <pubDate>Tue, 30 Jan 2024 19:22:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过哈希字符串表示会话或状态</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aewfx5/how_to_represent_a_session_or_state_through/</link>
+      <description><![CDATA[你好，你好，我正在构建一个客户端应用程序，您基本上可以在其中进行 Powerpoint 演示并浏览多个页面（在同一路径中）。 人们可以在特定页面上输入信息，这将导致不同的路线（不是实际路线，因为它仍然在同一页面上）。该信息被记录为全局状态的一部分（我正在使用 Zustand ），以及路径本身的信息！  这里的问题是，您无法使用所提供的信息真正恢复到特定屏幕。  我能想到的潜在解决方案类似于《炉石传说》中的套牌代码，它很好地将状态包装成单个散列字符串，并将其存储在 cookie 中。 是有什么方法/特定算法可以用来将 JSON 转换为单个字符串吗？   由   提交/u/verysad1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aewfx5/how_to_represent_a_session_or_state_through/</guid>
+      <pubDate>Tue, 30 Jan 2024 19:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在组织中使用 InnerSource 和设计共享的经验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aeweb6/experiences_with_innersource_and_designsharing_in/</link>
+      <description><![CDATA[💡 亲爱的 Reddit 开发者 🔥 您的组织如何处理共享代码和设计以供重用？请分享您的经验！ 您的组织是否有 InnerSource 计划或设计系统社区？ 如果有，是仅共享代码、仅共享设计还是两者兼而有之？ 这是如何管理的？由谁管理？ 如何在组织内公开 InnerSource/共享计划？ 非常感谢您抽出时间！ 🙌   由   提交 /u/wild-fire   /u/wild-fire  reddit.com/r/webdev/comments/1aeweb6/experiences_with_innersource_and_designsharing_in/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aeweb6/experiences_with_innersource_and_designsharing_in/</guid>
+      <pubDate>Tue, 30 Jan 2024 19:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>React APP 的 FE 服务器特征</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aewdei/fe_server_characteristics_for_a_react_app/</link>
+      <description><![CDATA[Hello Webdev！ 一些客户想要我们为我们当前与他们合作的项目建议的服务器架构的文档。  粗略地说，我们想要的前端只是使用 nginx Web 服务器托管一个静态 ReactJS 应用程序（没有 Next 或类似的）。该服务器中没有任何处理，因为一切都委托给 API 和身份验证服务器：该服务器仅提供文件并将每个请求路由到 index.html 文件（因为react-router） 现在，应用程序将处理 500 到 1500 个并发用户会话，因此为了稳定性和可用性，我们建议使用两台应用程序服务器和一台负载均衡器。所有这些都将使用 nginx 提供服务，如前所述：我们正在考虑在每台服务器上使用 4 核处理器 @ 2.5GHz 和 16 GB 内存。平衡器可能需要 32 个内存，处理器速度高达 3.5GHz。 您认为这足够了吗？是否太过分了？ 此外，任何可用于证明这些数字合理性的链接或其他内容将不胜感激。 OFC 我不会引用这篇文章来证明我的理由，我只是想向社区核实一下我们的数字是否“物有所值”。或不 使用来自亚马逊或类似的 CND 或静态存储桶不是一个选项，因为该客户端希望对其服务器有绝对控制权🦖🦖🦖，因此从一开始就被丢弃了。  提前致谢！   由   提交/u/deus_ith  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aewdei/fe_server_characteristics_for_a_react_app/</guid>
+      <pubDate>Tue, 30 Jan 2024 19:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发中的“妈妈测试”：当每个人都在骗你时提出好问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aew1oj/the_mom_test_in_software_development_asking_good/</link>
+      <description><![CDATA[       由   提交/u/kendumez  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aew1oj/the_mom_test_in_software_development_asking_good/</guid>
+      <pubDate>Tue, 30 Jan 2024 18:52:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法登录网站并发生此错误。我在评论部分添加了控制台上提示的错误代码。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aew0dy/cant_login_to_a_website_and_this_error_happens_i/</link>
+      <description><![CDATA[   /u/gatoratemylips  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aew0dy/cant_login_to_a_website_and_this_error_happens_i/</guid>
+      <pubDate>Tue, 30 Jan 2024 18:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅在生产中随机尾随分号？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aevu4s/random_trailing_semicolon_only_in_production/</link>
+      <description><![CDATA[      ​ 无论出于何种原因，我的投资组合网站上有一个尾随分号，仅在生产中存在。我认为它可能来自 Vercel 托管，但我检查了我在 Github 页面上托管的网站，结果是一样的。我还在我的许多其他网站以及 Vercels 网站上发现了这一点。但其他一些人没有……我很困惑。   由   提交 /u/Requiem_For_Yaoi   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aevu4s/random_trailing_semicolon_only_in_production/</guid>
+      <pubDate>Tue, 30 Jan 2024 18:43:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>操作方法：使用 NextJS 应用程序路由器处理未保存的页面更改</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aevdnv/howto_handle_unsaved_page_changes_with_nextjs_app/</link>
+      <description><![CDATA[       由   提交/u/JonJamesDesign  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aevdnv/howto_handle_unsaved_page_changes_with_nextjs_app/</guid>
+      <pubDate>Tue, 30 Jan 2024 18:25:53 GMT</pubDate>
+    </item>
     <item>
       <title>我怎样才能使披萨显示为 2x2 并且描述容器位于右侧？尝试修复它一个小时（flexbox）</title>
       <link>https://www.reddit.com/r/webdev/comments/1aev0ty/how_can_i_make_it_so_the_pizzas_are_displayed_as/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[所以我问了一切，但我的“打开侧边栏按钮”没有出现在我的背景图像上方，它创建了另一个页面并将自己放在那里，代码如下。 HTML：   &lt;元字符集=“UTF-8”&gt; &lt;元名称=“视口”&gt; content=“width=device-width”，initial-scale=1。&gt; Bio     &lt;/div&gt; &lt;div class=&quot;sidebar&quot;&gt; 关闭侧边栏  打开侧边栏 ;  filler 一个学习过程 filler filler filler filler filler ;/h3&gt;  &lt;/div&gt;  &lt;/body&gt; &lt;/html&gt; ​ CSS: &lt; p&gt;​ body { 字体系列: font-serif; } body.darkmode { 背景颜色: #1f2833 ; 颜色：#ffffff; z 索引：-1; } 正文 { 边距：0; 填充：0; /&gt; font-family: Arial, sans-serif; } .opening-page { 高度: 100vh; 位置: 相对; z-index: 0; } .background-image { height: 100%; 背景: url(&#39;Bio-openingpage.jpg&#39;) center/cover no-repeat; /&gt; 位置：相对； 顶部：0； 左：0； 右：0； 底部：0； z 索引：-1；&lt; br /&gt; } body { margin: 0; padding: 0; font-family: Arial, sans-serif; } .起始页 { 高度：100vh； 位置：相对； z-index：0； /\ 为起始页面设置较低的 z-index */* }  .sidebar { height: 100%;位置：固定；顶部：0；左：0；背景颜色：#111；溢出-x：隐藏；过渡：0.5s；  padding-top: 60px; z-index: 1; } .sidebar p { 颜色: 白色; padding: 15px;&lt; br /&gt; } .open-sidebar-btn { 字体大小：20px； 光标：指针； 背景颜色：#111； 颜色：白色； 边框：无； 内边距：10px 20px； 位置：绝对； 顶部：20px； 左侧：20px； z-index : 2; 页数: 1;  }  .open-sidebar-btn, .close-sidebar-btn { 字体大小：20px; 光标：指针;背景颜色：#111；颜色：白色；边框：无；内边距：10px 20px；位置：相对； /\ 添加此行 */* z-index: 3; /\ 为按钮设置更高的 z-index */* } .open-sidebar-btn:hover, .close-sidebar-btn: hide { background-color: #444; } /\ 根据需要调整样式 */*  h1 { 颜色：#86c232； 字体大小：2em； 位置：绝对； 顶部：30%； 左侧：50%； 顶部边距： 5px; 变换：翻译(-50% , -50%); } h2 { 颜色：#ffffff; 字体大小：4em;&lt; br /&gt; 文本对齐：居中； 位置：绝对； 顶部：50%； 左侧：50%； 变换：翻译（-50% , -50% ); } h3 { 颜色: #61892f; 字体大小: 18px; 位置: 绝对; 顶部: 75%;&lt; br /&gt; 左：50%； 文本对齐：居中； 变换：翻译(-50% , -50%); }  JavaScript ​ function openSidebar() { document.querySelector(&#39;.sidebar&#39;).style.width = &#39;250px&#39;; document.querySelector (&#39;.content&#39;).style.marginLeft = &#39;250px&#39;; } function closeSidebar() { document.querySelector(&#39;.sidebar&#39;).style.width = &#39;0&#39; ; document.querySelector(&#39;.content&#39;).style.marginLeft = &#39;0&#39;; }   由   提交 /u/Pxfxction   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aeuarg/my_button_is_not_appearing_above_my_background/</guid>
       <pubDate>Tue, 30 Jan 2024 17:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要刷新本地主机两次才能使用 Next.js App Router 进行更改，其他人也有这样的情况吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aeu69s/i_need_to_refresh_the_localhost_twice_for_changes/</link>
-      <description><![CDATA[我正在使用 TypeScript 和 App Router 开发 Next.js 应用程序。问题是，在我的本地主机上，对代码所做的更改不会立即反映。我必须手动刷新页面以使浏览器与最新的代码更改同步。或者我想我必须刷新应用程序两次。我怎样才能解决这个问题？我应该坚持使用页面路由器，因为我从来没有遇到过这些问题。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aeu69s/i_need_to_refresh_the_localhost_twice_for_changes/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:37:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找出 chrome 开发工具中（大量）油漆的原因？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aetgi9/how_to_find_out_the_cause_of_a_massive_paint_in/</link>
-      <description><![CDATA[      我正在开发一款游戏。地图大小（以像素为单位）为 30720 x 30720。这个 16.7 M x 16.7 M 像素的 Paint 调用似乎有点过多，导致 fps 大幅下降。 通常，paint 调用看起来相当合理，有几个视口内某个位置的像素数（即更新精灵或游戏 UI 的一部分） 但在这种情况下，不知道哪一段代码负责这种大规模绘制。我该如何找出答案呢？  https://preview.redd .it/g7a28hno0mfc1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=0d06551fab0a3183a3f6e91adeceaca619975442   由   提交/u/dieomesieptoch  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aetgi9/how_to_find_out_the_cause_of_a_massive_paint_in/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售经理询问有关监督我们网站开发的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aet9q7/sales_manager_here_with_a_question_about/</link>
-      <description><![CDATA[嘿社区。我是一家小企业的销售总经理。我们不认识任何了解开发的人，所以我和我的合作伙伴决定将开发外包给亚洲的一个人。一般来说，我之前没有大规模编程的经验。我在大学里学过 CS 101 课程，但仅此而已。只不过是 for 循环和递归函数。 问题是这个人告诉我们使用 digitalocean 进行网络托管活动，尽管他甚至还没有完成网站的开发 - 我们没有用户 - 我们的 digitalocean账单仍在继续（几天内到目前为止 7 美元）。我很担心这个问题，因为我查看了一些统计数据，发现一些服务器的 CPU 运行率为 62%。我想知道这正常吗？  更不用说他至少逾期了几周，并且不会向我们提供有关何时交付产品的明确日期。 此外，如果您可以帮助我理解这一点那就太好了！ 感谢和问候   由   提交 /u/Important-Title-1730   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aet9q7/sales_manager_here_with_a_question_about/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要将 NameCheap 用于 .fr TLD</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/</link>
-      <description><![CDATA[快速背景故事， 过去 3 年我在 .fr 中拥有 i 域名。这是我的主要电子邮件地址，对我来说非常重要。过去，我总是提前续订域名。但这个月我的主手机坏了一点，我意识到我的域名将在 10 天后过期（这很重要）。 所以我进入我的 NameCheap 帐户查看“错误信息：不支持在该 TLD 到期日期前 12 天更新。 ”。所以我加入了支持聊天，代理告诉我将 18.56 美元存入我的帐户以进行续订，他们会在最后完成此操作。 那天晚些时候，我收到了这封电子邮件： p&gt;  您好， 我们正在就您的 xxxxxx.fr 域名进行联系。  很遗憾，您的域名目前处于赎回状态。为了在此阶段恢复它，需要支付赎回费和续订价格。在这种情况下，总金额为 98.98 美元。  所以我尚未过期的域名处于赎回状态？！ 经过一番搜索，我发现我的实际注册地址是 1API（WHOIS 信息）。让我们看看他们为什么制定此规则... https://wiki.hexonet.net/wiki/FR (注意：hexonet 和 1API 是同一家公司） 而且......他们没有，我开始另一个支持聊天并问这个危险的问题。 我：什么是技术原因？ 代理 1：请允许我在这方面联系我们的团队 5-10 分钟。 代理 2：感谢您的等待。有关 .FR 域名续订的规则不是由 Namecheap 制定的，而是由我们的上游提供商制定的。 “域名续订者”是指“域名续订者”。 Namecheap 帐户中指示了日期，您应该在该日期之前续订（让域名自动续订）。如果不续订的话。进入赎回期，需要支付赎回费以及定期续订费用。未按时续订的域名将会出现“警报”状态。状态，并在到期后的第二天从 Namecheap 帐户中删除。如果您想转移域名，我们的礼宾部门将为您提供帮助。 我：您的上游提供商 1API 是吗？ 代理 2：不，这不是我们的上游提供商。 代理 2：遗憾的是，我无法透露我们的内部信息。 是的，一家拥有 1000 万客户的公司使用一家公司，该公司使用其他公司作为主要 TLD 之一。  为了结束这个故事，我以 6 欧元的价格将我的域名转移到 OVH，他们免费续订了它！ TLDR：不要使用 NameCheap .CH，.ES, .&lt;强&gt;FR，。LI ，。PE，.SG, .COM.SG, &lt;强&gt;.COM.AU，.ORG.AU&lt; /strong&gt;, .NET.AU域。 https://www. namecheap.com/support/knowledgebase/article.aspx/9916/2207/tlds-grace-periods/   由   提交/u/mrbn100ful  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/</guid>
-      <pubDate>Tue, 30 Jan 2024 16:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aespa7/making_a_website/</link>
-      <description><![CDATA[大家好，我真的很想为我正在启动的体育媒体频道制作一个网站。我想知道解决这个问题的最佳方法，不想使用 wix 等，只是因为它们有限制并且收费过高。还希望能够托管自定义域。抱歉，如果这听起来很菜鸟，以前从未真正做过很多 Web 开发，但想学习。   由   提交 /u/DINGGRAYS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aespa7/making_a_website/</guid>
-      <pubDate>Tue, 30 Jan 2024 16:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我自己的 vps 意外被防火墙屏蔽</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aes5ez/accidentally_firewalld_out_of_my_own_vps/</link>
-      <description><![CDATA[我只需在某处输入此内容，否则我会爆炸。我试图在我刚刚从我国的托管提供商租用的 vps 上部署应用程序，在输入 ufw allowed ssh 后我用 ufw 激活了防火墙，现在我无法 ssh 进入 vps。托管提供商有一个重新安装按钮，该按钮不起作用，并且支持处于离线状态。没什么大不了的，因为我什至还没有开始配置一切，但我现在感觉像个白痴。我猜这是学习的最难的方法！   由   提交/u/chromata31  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aes5ez/accidentally_firewalld_out_of_my_own_vps/</guid>
-      <pubDate>Tue, 30 Jan 2024 16:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以检查 Facebook 用户的群组？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aes54s/is_it_possible_to_check_a_facebook_users_groups/</link>
-      <description><![CDATA[我正在尝试为自己和一些朋友开发一个小应用程序。我们都是同一个私人 Facebook 群组的成员，目前我们在该群组中协调活动等。我想为此创建一个应用程序，主要是为了我自己的享受和学习。 我已经设法使 Facebook 登录正常工作使用 Firebase 插件。现在，我想实现一个功能来检查用户是否是特定 Facebook 群组的成员。 我已经在网上和 Graph API 文档中查找过，但我能找到的只是：https://developers.facebook.com/docs/graph-api/reference/v19.0 /用户/组。好像在v3.2之后就被删除了。我无法确定它是否已被重新定位或完全从 API 中删除。如果有人知道它是否仍然可能或有可以实现相同结果的替代方法，我将不胜感激任何意见！   由   提交/u/mikkelmalmros  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aes54s/is_it_possible_to_check_a_facebook_users_groups/</guid>
-      <pubDate>Tue, 30 Jan 2024 16:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户管理/计费平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aes3mr/platform_for_user_management_billing/</link>
-      <description><![CDATA[我有一个在 php 后端运行的产品，但 95% 是前端。我正在考虑转向 NextJS 或类似的，但也会考虑出于此目的继续使用 php。 我需要的是能够进行用户管理的东西。这意味着身份验证、注册、计费（特别是订阅计费）以及一个将用户数据/计费数据绑定到我的产品中的简单 API。我还希望它足够灵活，以便我可以设置诸如“父/子”之类的内容。帐户或企业帐户，其中一个帐户为子帐户等计费。 我目前正在使用一种称为 AMember 的东西，但它非常有限，而且使用起来有点尴尬。 理想情况下，我想要一些只托管在我的服务器上的东西，但也会考虑某种 SaaS 解决方案。 谢谢！  &amp; #32；由   提交 /u/fiddlermd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aes3mr/platform_for_user_management_billing/</guid>
-      <pubDate>Tue, 30 Jan 2024 16:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件//-链接替代内联网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aernfy/filelink_alternatives_intranet/</link>
-      <description><![CDATA[TLDR;老板想要 file://-links 从 Web 浏览器访问 Windows 资源管理器 你好，我不是 webdev，我也不想成为一名 webdev，但我们必须维护该 Intranet，我讨厌它。这就是我的问题：我收到的任务是替换我们内联网中的 file:// 链接。我有一个 iis Webserver 10.5，它运行我们自制的 Intranet。 它只是 .asp 与 vb.net .html 和一些 .aspx 与内联 csharp 的混合。所以没有什么专业的，也没有中心 IDE 计划或想法。  在某些时候，有人开始使用 file:// 链接来访问 windows-explorer 以获得公告板和其他内容。随着 Internet Explorer 的结束，如果不面临安全风险或添加浏览器扩展，文件链接将不再有效。 这都不是我们想要使用的解决方案。我的其他解决方案是将公告板添加为网络路径，将其集成到我们的公共网络路径中，或者编写一个显示文件夹内容和链接以打开文件或上传等的站点。 所有这些我的老板都说不，这不是他想要的解决方案。他希望它像以前一样...所以我的问题是有一个解决方案可以通过网络浏览器恢复 file:// 访问，或者您是否有任何其他解决方案而不使用 cms 或其他软件？ &lt; p&gt;提前致谢:)   由   提交 /u/Kamel_ohne_buckel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aernfy/filelink_alternatives_intranet/</guid>
-      <pubDate>Tue, 30 Jan 2024 15:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何编码这个设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aermz8/how_can_i_code_this_design/</link>
-      <description><![CDATA[我发现这个设计很漂亮。我如何在我的 React js 项目中编写此设计的代码。   导航栏是使用图像或矢量进行圆形设计还是使用 css 制作。  ​ https://preview.redd.it/xfba558gnlfc1.png?width=1148&amp;格式=png&amp;auto=webp&amp;s=6adc0aeff​​4abe04eed23703064b3c28e9d626a7f   由   提交/u/byteNinja10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aermz8/how_can_i_code_this_design/</guid>
-      <pubDate>Tue, 30 Jan 2024 15:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年网络代理？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aerijv/web_agency_in_2024/</link>
-      <description><![CDATA[到 2024 年，经营网络代理机构仍然是一项有利可图的业务吗？如果是，您给刚刚起步并帮助他们脱颖而出的一些建议是什么？   由   提交 /u/erateran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aerijv/web_agency_in_2024/</guid>
-      <pubDate>Tue, 30 Jan 2024 15:49:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
