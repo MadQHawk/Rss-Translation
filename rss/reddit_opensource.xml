@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Jan 2024 06:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 09:13:52 GMT</lastBuildDate>
+    <item>
+      <title>AntiPython 编译器以您的首选语言使用 Google Colab GPU</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aeiazh/antipython_compiler_to_use_google_colab_gpus_in/</link>
+      <description><![CDATA[此编译器可让您访问 GPU 和庞大的 Python AI 生态系统，而无需接触 Python。 它适用于对 AI 感兴趣的开发人员，但非常不喜欢 Python。 GitHub 上的源代码以及欢迎贡献/想法。现在 Java 导入正在运行。让我知道您最喜欢的编程语言，我将添加支持:) GitHub：https:// github.com/Fileforma/AntiPython-AI-Compiler-Colab/    由   提交 /u/DataBaeBee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aeiazh/antipython_compiler_to_use_google_colab_gpus_in/</guid>
+      <pubDate>Tue, 30 Jan 2024 06:54:13 GMT</pubDate>
+    </item>
     <item>
       <title>🎾 网球发球分析</title>
       <link>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这应该用于阅读新闻网站上的新闻文章。理想情况下，我会将 URL 共享给应用程序，它会检测到自己仅在网页上运行文本，即没有导航窗格，也没有图片文本。或者，它应该能够用作打印机，因为某些页面提供的打印功能实际上只包含文章。有什么合适的吗？   由   提交 /u/funtomat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ad9ltb/looking_for_a_text_to_speech_app_for_reading_web/</guid>
       <pubDate>Sun, 28 Jan 2024 18:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为所有诺贝尔奖论文创建一个开源存储库并在 Reddit 上收集社区支持？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ad06fw/how_can_i_create_an_opensource_repository_for_all/</link>
-      <description><![CDATA[ 由   提交 /u/black_frost_byte   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ad06fw/how_can_i_create_an_opensource_repository_for_all/</guid>
-      <pubDate>Sun, 28 Jan 2024 10:54:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

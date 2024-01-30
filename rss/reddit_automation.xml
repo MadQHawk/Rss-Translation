@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 30 Jan 2024 06:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 09:12:25 GMT</lastBuildDate>
     <item>
       <title>通过 API 将 Facebook 帖子分享到 Facebook 群组时遇到问题吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1aean7b/having_problem_to_share_facebook_posts_to/</link>
@@ -62,9 +62,9 @@
       <pubDate>Wed, 24 Jan 2024 07:06:24 GMT</pubDate>
     </item>
     <item>
-      <title>AutoWP - 使用 ChatGpt 自动撰写 WordPress 文章并自动发布</title>
+      <title>AutoWP - 使用 ChatGpt 自动编写 WordPress 文章并自动发布</title>
       <link>https://www.reddit.com/r/automation/comments/19e26ea/autowp_automate_wordpress_articles_writing_with/</link>
-      <description><![CDATA[自从人工智能工具主要出现以来，我就有这个想法很长时间了。上周我决定让它成为现实。 我制作了这个脚本，使用 gpt-3.5-turbo 或 gpt-4 模型生成文章，然后我使用 Rest Api 自动发布文章。  这个想法很简单，所以我把它变得更复杂一些。我添加了一个用于生成关键字（20、50 或 70 个关键字）并将它们保存到文本文件的选项。然后，脚本将遍历每个关键字并撰写一篇有关它的文章并发布。 我还添加了一个选项，让用户选择他想要为每个关键字生成多少篇文章。 &lt;我还不满意，所以我决定制作一个调度程序。理论上，该脚本现在可以“无限期”地发布。用户可以决定每 15 分钟、30 分钟、1 小时……到一周生成多少篇文章。  现在你只需获取一个 vps/rdp，在那里设置程序，就可以构建整个网站。 你可以在此处查看脚本：https://www.youtube.com/watch?v=ZXOUZcLMp4s   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
+      <description><![CDATA[自从人工智能工具主要出现以来，我就有这个想法很长时间了。上周我决定让它成为现实。 我制作了这个使用 gpt-3.5-turbo 或 gpt-4 模型生成文章的脚本，然后我使用 Rest Api 自动发布文章。  这个想法很简单，所以我把它变得更复杂一些。我添加了一个用于生成关键字（20、50 或 70 个关键字）并将它们保存到文本文件的选项。然后脚本将遍历每个关键字并撰写一篇关于它的文章并发布它。 我还添加了一个选项，让用户选择他想要为每个关键字生成多少篇文章。 &lt;我还不满意，所以我决定制作一个调度程序。理论上，该脚本现在可以“无限期”地发布。用户可以决定每 15 分钟、30 分钟、1 小时……到一周生成多少篇文章。  现在你只需获取一个 vps/rdp，在那里设置程序，就可以构建整个网站。 你可以在此处查看脚本：https://www.youtube.com/watch?v=ZXOUZcLMp4s   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/19e26ea/autowp_automate_wordpress_articles_writing_with/</guid>
       <pubDate>Tue, 23 Jan 2024 23:18:43 GMT</pubDate>
     </item>
