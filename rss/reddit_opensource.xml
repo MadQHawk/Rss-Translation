@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Jan 2024 21:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 00:52:40 GMT</lastBuildDate>
+    <item>
+      <title>🎾 网球发球分析</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</link>
+      <description><![CDATA[网球发球分析应用程序是一款移动应用程序，旨在彻底改变网球运动员分析和改进发球的方式。该应用程序利用机器学习算法和计算机视觉技术，为用户提供个性化反馈、与职业球员的即时比较以及对其发球机制的宝贵见解。 请为 repo如果你喜欢你所看到的😊。 💻安装链接 在 Play 商店中安装 （或）  下载 Apk  📖 使用  在您的移动设备上启动应用程序。 输入您的身高和打球的手型（左手或右手）。 上传您要分析的侧发球视频。 查看分析，包括与职业球员的最大、最小和平均关节角度以及球速比较（目前包括罗杰·费德勒、拉斐尔·纳达尔和法比奥·福格尼尼）。  ✨功能  🦵 姿势估计：利用机器学习模型MoveNet来估计用户发球的关键点，包括肘、肩、膝等关节。  🧔 职业球员比较：允许用户将自己的发球与同等身高的职业球员进行比较，提供视觉叠加和角度比较。  🥎 球跟踪：采用 AutoML Vision 进行球检测和跟踪，计算球撞击后的速度。 👥 用户反馈：提供关节角度的实时反馈，使用户了解他们的技术并收到改进建议。 📊 数据驱动的进度跟踪：使用户能够跟踪他们随时间的进展，帮助他们监控改进并完善他们的训练策略.    由   提交 /u/adityabolt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</guid>
+      <pubDate>Tue, 30 Jan 2024 00:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于Automatic1111稳定扩散WebUI的SDK/Python客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ae7vzt/sdkpython_client_for_automatic1111s_stable/</link>
+      <description><![CDATA[介绍 auto1111sdk，这是一个 Python 包，封装了 Automatic1111 Stable Diffusion WebUI 的所有主要功能。  `pip install auto1111sdk`  https://github.com/saketh12/Auto1111SDK  关于我们为什么构建这个、您现在可以用它做什么以及我们计划在下面做什么的主题：   由   提交/u/thaiberry  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ae7vzt/sdkpython_client_for_automatic1111s_stable/</guid>
+      <pubDate>Mon, 29 Jan 2024 22:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有适用于 Brave/Chromium 的 URL 拦截器浏览器扩展？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ae70ba/any_url_blocker_browser_extension_for/</link>
+      <description><![CDATA[我在社交媒体上花费了太多时间，是否有适用于 Brave/Chromium 的 FOSS 浏览器扩展来阻止特定网站。最好有何时屏蔽某些网站的功能。   由   提交 /u/skincr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ae70ba/any_url_blocker_browser_extension_for/</guid>
+      <pubDate>Mon, 29 Jan 2024 21:38:38 GMT</pubDate>
+    </item>
     <item>
       <title>Plasma 6 - RC 2 将于周三登陆。准备好向我们询问任何问题！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ae51sd/plasma_6_rc_2_is_landing_on_wednesday_get_ready/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>React Server 现在有一个社区</title>
       <link>https://www.reddit.com/r/opensource/comments/1ae03e4/react_server_now_has_a_community/</link>
-      <description><![CDATA[大家好，React Server现在主办了一个社区，希望获得一些知名度、曝光率和用户参与度。  您很可能没有听说过它。这是一个新框架，允许您在后端使用 TSX 使用反应式方法编写代码（钩子、效果、状态和状态 &gt;组件）。这使您可以在后端编写高度可维护和可重用的代码。 作为奖励，它附带 GraphQL 的 Pub/Sub 机制，可以在任何连接的客户端上提供实时状态更新。编写实时应用程序变得轻而易举。 它仍处于早期阶段（pre-alpha），但正在积极维护并不断取得进展。  请查看 https://state-less.cloud/community 了解您可以做什么用它来构建。请随意探索该页面的示例并阅读有关内部工作原理的更多信息。   由   提交/u/That_Unit_3992   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，React Server现在主办了一个社区，希望获得一些知名度、曝光率和用户参与度。  您很可能没有听说过它。它是一个新框架，允许您在后端使用 TSX 使用反应式方法编写代码（钩子、效果、状态和状态 &gt;组件）。这使您可以在后端编写高度可维护和可重用的代码。 作为奖励，它附带 GraphQL 的 Pub/Sub 机制，可以在任何连接的客户端上提供实时状态更新。编写实时应用程序变得轻而易举。 它仍处于早期阶段（pre-alpha），但正在积极维护并不断取得进展。  请查看 https://state-less.cloud/community 了解您可以做什么用它来构建。请随意探索该页面的示例并阅读有关内部工作原理的更多信息。   由   提交/u/That_Unit_3992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ae03e4/react_server_now_has_a_community/</guid>
       <pubDate>Mon, 29 Jan 2024 16:59:27 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>Anukool：我的求职助手</title>
       <link>https://www.reddit.com/r/opensource/comments/1adpfah/anukool_my_job_hunting_assistant/</link>
-      <description><![CDATA[嘿 Reddit，我一直在申请工作，发现为每个职位写求职信很乏味。我还深入研究了 LLM 和 Langchain，希望利用它们来做一个项目来帮助我找工作。因此，我在 GPL 许可下开发了 Anukool。虽然它远非完美，但事实证明它对我来说非常有用，我希望它也能让您受益。由于我是 ML 和 LLM 的新手，非常感谢任何建议或反馈，也欢迎贡献。我计划很快利用 Llama-2 进一步开源该项目。 查看 GitHub 链接，如果您发现该项目有趣，请为其加注星标：https://github.com/dakshesh14/anukool   由   提交 /u/_dakshesh   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit，我一直在申请工作，发现为每个职位写求职信很乏味。我还深入研究了 LLM 和 Langchain，希望利用它们来做一个项目来帮助我找工作。因此，我在 GPL 许可下开发了 Anukool。虽然它远非完美，但事实证明它对我来说非常有用，我希望它也能让您受益。由于我是 ML 和 LLM 的新手，非常感谢任何建议或反馈，也欢迎贡献。我计划很快利用 Llama-2 进一步开源该项目。 查看 GitHub 链接，如果您发现该项目有趣，请为其加注星标：https://github.com/dakshesh14/anukool   由   提交/u/_dakshesh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1adpfah/anukool_my_job_hunting_assistant/</guid>
       <pubDate>Mon, 29 Jan 2024 07:14:13 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/black_frost_byte   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ad06fw/how_can_i_create_an_opensource_repository_for_all/</guid>
       <pubDate>Sun, 28 Jan 2024 10:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>FL studio 有开源版本吗</title>
-      <link>https://www.reddit.com/r/opensource/comments/1acuuu9/is_there_an_opensource_version_version_of_fl/</link>
-      <description><![CDATA[我试用了 FL Studio 并且喜欢它我想知道是否有开源版本所以我不付费并且它赢了不占用太多空间。   由   提交 /u/Zealousideal-Ship740    reddit.com/r/opensource/comments/1acuuu9/is_there_an_opensource_version_version_of_fl/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1acuuu9/is_there_an_opensource_version_version_of_fl/</guid>
-      <pubDate>Sun, 28 Jan 2024 05:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beyond All Reason 游戏代码的哪一部分负责选择和移动单位？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aclitd/which_part_of_the_beyond_all_reason_game_code_is/</link>
-      <description><![CDATA[超越一切原因是一个 RTS 游戏，您可以选择坦克和机器人等单位并移动它们来攻击敌人。与星际争霸/魔兽争霸等类似流行 RTS 相比，这款游戏的独特之处在于它是完全开源的。 这是游戏代码。 我发现很难找到游戏最基本的功能；选择单位，您可以通过单击它们来完成，然后将它们移动到某个地方，您可以通过右键单击来完成。 它到底在源代码中的哪里？我到处看到的都是简单的游戏数据像这样 armdrone.lua 定义某些游戏对象的参数，例如生命值和伤害等，或者是与游戏内音乐或图形相关的代码。  &amp; #32；由   提交/u/lojik-games  /u/lojik-games  reddit.com/r/opensource/comments/1aclitd/which_part_of_the_beyond_all_reason_game_code_is/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aclitd/which_part_of_the_beyond_all_reason_game_code_is/</guid>
-      <pubDate>Sat, 27 Jan 2024 21:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>PyMacroRecord。一个免费的宏录制器，使用 GUI 与之交互。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1acksqr/pymacrorecord_a_free_macro_recorder_using_a_gui/</link>
-      <description><![CDATA[   /u/LOUDO56  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1acksqr/pymacrorecord_a_free_macro_recorder_using_a_gui/</guid>
-      <pubDate>Sat, 27 Jan 2024 20:57:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
