@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 21:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 00:54:04 GMT</lastBuildDate>
+    <item>
+      <title>有什么理由不在前端验证登录输入（电子邮件、密码）的格式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af4q7j/any_reason_not_to_validate_the_format_of_login/</link>
+      <description><![CDATA[*** 所有输入都将在服务器端进行验证，无论 **\* In在注册场景中，您希望看到电子邮件和密码格式的前端验证。密码示例：- 必须存在，必须是字符串，必须最少 X 个字符，必须最多 X 个字符。  对于密码创建/更新场景，还会有密码强度，例如 zxcvbn。除了强度验证之外，我是否还应该在登录场景上验证密码格式，以确保用户不会输入任何无效内容？这将更快地捕获格式错误（对于用户而言），并且还可以通过在客户端捕获它来减轻服务器的工作。    ;由   提交/u/U4-EA  /u/U4-EA  reddit.com/r/webdev/comments/1af4q7j/any_reason_not_to_validate_the_format_of_login/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af4q7j/any_reason_not_to_validate_the_format_of_login/</guid>
+      <pubDate>Wed, 31 Jan 2024 00:52:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的客户要求制定一份协议，说明如果我死了该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af45b7/my_client_asked_for_a_protocol_for_what_to_do_if/</link>
+      <description><![CDATA[我没有为此进行任何设置？ 您是否有指示让他们向其他开发人员提供？&lt; /p&gt; 编辑：我正在构建、维护、更新和托管网站。   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af45b7/my_client_asked_for_a_protocol_for_what_to_do_if/</guid>
+      <pubDate>Wed, 31 Jan 2024 00:25:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>后表面级 CRUD：最大的挑战是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af2ij7/post_surfacelevel_crud_what_are_the_big_challenges/</link>
+      <description><![CDATA[我正在尝试确定一些研究领域。 将数据库、服务器和客户端全部组合到位并进行基本的交互是很棒的。但显然，这只是开始。您如何分解一个大团队需要长期解决的各种问题？  我在想这样的事情：（无顺序）  TDD/自动化测试策略，特别是如何模拟特定于您的工具和服务的奇怪情况，   li&gt; 可访问性（基础知识应该从一开始就存在/但网络可访问性审核）， 国际化（i18n）， 本地化（l10n）， 通过工具或社区跟踪错误， 缓存策略， 安全覆盖范围， 性能优化（在服务器/微服务和客户端/中）他们自己的方面）， 更复杂的状态管理组织， 跨应用程序的 UI 设计系统和文档工具， 连接到所有跟踪和营销事物并保持它们的组织和记录， DevOps 和 CI/CD， 渐进式 Web 应用程序 (PWA) 问题，例如通知和服务工作线程， 服务器端渲染（SSR）和静态站点生成（SSG）选项 - 以及测试将如何受到影响， 管理依赖项更新和发布 您跟踪的数据的法律事项 - 以及基于您的受众和位置 事务性电子邮件（可能相当简单 - 但也可能会失控）， 可扩展性和负载平衡， 备份和迁移&lt; /li&gt; 管理角色和管理用户行为的方法 。 我确信 - 有很多事情我什至不知道。  . ​  我不是在谈论区块链、DApp、ML、动画以及真正特定的东西 对于给定的产品 - 但更多的是随着大型网络应用程序的成熟而出现的常见情况及其解决方案。  我错过了什么？哪些项目对您来说最重要？哪些是最不重要的或者可以进一步推到未来？是否有任何材料或书籍能够高水平地涵盖这一大范围的主题？我想制作一个项目，其中包含所有这些领域的小但不平凡的示例来探索它们。谢谢！   由   提交 /u/sheriffderek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af2ij7/post_surfacelevel_crud_what_are_the_big_challenges/</guid>
+      <pubDate>Tue, 30 Jan 2024 23:14:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要构建一个房屋检查网络应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af2d8w/need_to_build_a_home_inspection_web_app/</link>
+      <description><![CDATA[希望开发一个 Web 应用程序来进行房屋检查。我拥有大约 90% 的屏幕，我很乐意分享这些屏幕来解释应用程序的用户工作流程和功能。 简而言之，我们的项目由家庭组成，需要有对他们进行了一系列检查。检查将包含问题描述、可标记的问题图像、问题位置以及负责修复问题的行业。检查还必须包含供房主和检查员提交签名的空间，检查完成后导出检查的 PDF 文件，该文件发送到检查员和房主的电子邮件。  管理员必须能够设置项目，添加所有相关详细信息并添加房屋及其详细信息。管理员还必须能够将用户分配到项目，然后这些用户可以在他们有权访问的项目中的房屋下创建检查。  这是基础知识，我还需要图表屏幕和桌面版本的屏幕，以便能够在捕获数据后对其进行操作。例如更改问题状态、添加或更改交易以及使用过滤器对内容进行排序后导出数据的 Excel/pdf 文件。 ​ 感谢您的阅读。&lt; /p&gt; ​   由   提交/u/350gt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af2d8w/need_to_build_a_home_inspection_web_app/</guid>
+      <pubDate>Tue, 30 Jan 2024 23:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>优秀的网络开发人员和糟糕的网络开发人员之间有什么区别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af0jbr/differences_between_a_great_webdeveloper_and_a/</link>
+      <description><![CDATA[优秀的 Web 开发人员如何从糟糕的开发人员中脱颖而出？ 优秀的开发人员是否有更好的能力？掌握计算机科学基础知识？ 是热情让他们成为十级开发者吗？ 或者只是简单的时间投资来完善他们的工艺？ ​   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af0jbr/differences_between_a_great_webdeveloper_and_a/</guid>
+      <pubDate>Tue, 30 Jan 2024 21:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我真是太笨了。我只是不明白如何在 Firebase 中部署和运行我的 Web 应用程序 [目前在 Flask + Ngrok 中运行良好]。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af0grs/i_am_so_dumb_i_just_dont_understand_how_i_get_my/</link>
+      <description><![CDATA[大家好， 我有一个可以在本地运行的 Flask 应用程序，然后使用 ngrok（上帝保佑那些人）进行隧道传输它到美丽的万维网。这非常有效，我很高兴。 但是，我知道这种方法有点笨拙，而且无法扩展——而且不一定是最安全的做事方式。现在很好，我很高兴，因为我的服务有[付费]客户，他们很高兴。 但这一切都只是通过我本地的笔记本电脑运行，我知道我最终需要得到一些东西出于 X Y Z 原因而选择云。 我在 Firebase 中托管一些内容，并认为我也应该在 Firebase 中托管此 Webhook 应用程序。我使用 Firebase 的身份验证和托管来处理其他事情，这似乎是放置其他所有内容的合理位置。 当我在互联网上查找如何将 Flask 应用部署到 Firebase 时，我总是看到一些东西“Firebase 不支持 Flask，但您可以使用 Google Cloud Functions。”然后就到此为止。 好吧，简洁又酷，但我不知道“只使用 Google Cloud Functions”是什么意思。方法。 GCF 本质上是一个 EC2 实例吗？有人可以帮助我连接如何将 Flask 应用部署到 Firebase 吗？人们都在说使用 Docker？我只需要有人帮助我向我愚蠢的小大脑解释一下。 （如果人们提出其他建议，那很好。但我确实需要托管服务能够与Google Cloud 和 AWS 数据库。）   由   提交 /u/Due_Yam1613   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af0grs/i_am_so_dumb_i_just_dont_understand_how_i_get_my/</guid>
+      <pubDate>Tue, 30 Jan 2024 21:50:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 技巧：从高度 0 过渡到自动！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af072y/css_trick_transition_from_height_0_to_auto/</link>
+      <description><![CDATA[这里是如何从高度 0 转换为自动&lt; /a&gt; 同时避免固定高度并使用网格模板行的巧妙技巧。希望它对某人有帮助！   由   提交 /u/Due-Function4447    reddit.com/r/webdev/comments/1af072y/css_trick_transition_from_height_0_to_auto/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af072y/css_trick_transition_from_height_0_to_auto/</guid>
+      <pubDate>Tue, 30 Jan 2024 21:40:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有库可以将灰度深度图像转换为使用颜色图着色的图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af035p/any_libraries_to_convert_from_a_grayscale_depth/</link>
+      <description><![CDATA[      您好，我有一个像这样的灰度图像：  https://preview.redd.it/zphtdap3bnfc1.jpg？ width=275&amp;format=pjpg&amp;auto=webp&amp;s=de9f6843b1509d44269f2312a488228c116d1666 我想使用颜色图将其转换为彩色图像，特别是光谱颜色图：https://matplotlib.org/stable/users/explain/colors/colormaps.html#diverging&lt; /p&gt; https://preview.redd。 it/iuwx2ukdbnfc1.jpg?width=250&amp;format=pjpg&amp;auto=webp&amp;s=2b4d604928fad6d1180073b868f70594da53193c 有人知道有一个不错的库可以做到这一点吗？我已经看到了其中的一些内容：  此工具可以从一种颜色图转换为另一种颜色图，但不能从灰度图转换：https://github.com/smsaladi/fixthejet?tab=readme-ov-file 此库可以应用颜色图，但文档稀疏： https://www.npmjs.com/package/apply-colormap  感谢您的帮助！   由   提交 /u/gold_twister   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af035p/any_libraries_to_convert_from_a_grayscale_depth/</guid>
+      <pubDate>Tue, 30 Jan 2024 21:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我个人认为 vanilla CSS 的独特之处在于它过于复杂。作为一种语言在简单项目和高级项目中都失败了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1af00xj/i_personally_feel_that_vanilla_css_unique_in_how/</link>
+      <description><![CDATA[这是我不常看到的热门镜头。我听到人们将简单的任务称为技能问题，例如将 div 居中，而不是我认为是语言本身的问题。 CSS 很难处理简单的事情，而且它没有良好的缩放功能。在我看来，它的级联部分就像只处理 OOP 的不好的部分。令我困惑的是，这竟然成为了标准。我有兴趣听取其他意见。   由   提交 /u/Smash-Mothman   /u/Smash-Mothman  reddit.com/r/webdev/comments/1af00xj/i_personally_feel_that_vanilla_css_unique_in_how/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1af00xj/i_personally_feel_that_vanilla_css_unique_in_how/</guid>
+      <pubDate>Tue, 30 Jan 2024 21:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>LAMP 堆栈字典应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1aeymdl/lamp_stack_dictionary_application/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[💡 亲爱的 Reddit 开发者 🔥 您的组织如何处理共享代码和设计以供重用？请分享您的经验！ 您的组织是否有 InnerSource 计划或设计系统社区？ 如果有，是仅共享代码、仅共享设计还是两者兼而有之？ 这是如何管理的？由谁管理？ 如何在组织内公开 InnerSource/共享计划？ 非常感谢您抽出时间！ 🙌   由   提交 /u/wild-fire   /u/wild-fire  reddit.com/r/webdev/comments/1aeweb6/experiences_with_innersource_and_designsharing_in/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aeweb6/experiences_with_innersource_and_designsharing_in/</guid>
       <pubDate>Tue, 30 Jan 2024 19:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>React APP 的 FE 服务器特征</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aewdei/fe_server_characteristics_for_a_react_app/</link>
-      <description><![CDATA[Hello Webdev！ 一些客户想要我们为我们当前与他们合作的项目建议的服务器架构的文档。  粗略地说，我们想要的前端只是使用 nginx Web 服务器托管一个静态 ReactJS 应用程序（没有 Next 或类似的）。该服务器中没有任何处理，因为一切都委托给 API 和身份验证服务器：该服务器仅提供文件并将每个请求路由到 index.html 文件（因为react-router） 现在，应用程序将处理 500 到 1500 个并发用户会话，因此为了稳定性和可用性，我们建议使用两台应用程序服务器和一台负载均衡器。所有这些都将使用 nginx 提供服务，如前所述：我们正在考虑在每台服务器上使用 4 核处理器 @ 2.5GHz 和 16 GB 内存。平衡器可能需要 32 个内存，处理器速度高达 3.5GHz。 您认为这足够了吗？是否太过分了？ 此外，任何可用于证明这些数字合理性的链接或其他内容将不胜感激。 OFC 我不会引用这篇文章来证明我的理由，我只是想向社区核实一下我们的数字是否“物有所值”。或不 使用来自亚马逊或类似的 CND 或静态存储桶不是一个选项，因为该客户端希望对其服务器有绝对控制权🦖🦖🦖，因此从一开始就被丢弃了。  提前致谢！   由   提交/u/deus_ith  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aewdei/fe_server_characteristics_for_a_react_app/</guid>
-      <pubDate>Tue, 30 Jan 2024 19:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中的“妈妈测试”：当每个人都在骗你时提出好问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aew1oj/the_mom_test_in_software_development_asking_good/</link>
-      <description><![CDATA[       由   提交/u/kendumez  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aew1oj/the_mom_test_in_software_development_asking_good/</guid>
-      <pubDate>Tue, 30 Jan 2024 18:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法登录网站并发生此错误。我在评论部分添加了控制台上提示的错误代码。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aew0dy/cant_login_to_a_website_and_this_error_happens_i/</link>
-      <description><![CDATA[   /u/gatoratemylips  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aew0dy/cant_login_to_a_website_and_this_error_happens_i/</guid>
-      <pubDate>Tue, 30 Jan 2024 18:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅在生产中随机尾随分号？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aevu4s/random_trailing_semicolon_only_in_production/</link>
-      <description><![CDATA[      ​ 无论出于何种原因，我的投资组合网站上有一个尾随分号，仅在生产中存在。我认为它可能来自 Vercel 托管，但我检查了我在 Github 页面上托管的网站，结果是一样的。我还在我的许多其他网站以及 Vercels 网站上发现了这一点。但其他一些人没有……我很困惑。   由   提交 /u/Requiem_For_Yaoi   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aevu4s/random_trailing_semicolon_only_in_production/</guid>
-      <pubDate>Tue, 30 Jan 2024 18:43:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>操作方法：使用 NextJS 应用程序路由器处理未保存的页面更改</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aevdnv/howto_handle_unsaved_page_changes_with_nextjs_app/</link>
-      <description><![CDATA[       由   提交/u/JonJamesDesign  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aevdnv/howto_handle_unsaved_page_changes_with_nextjs_app/</guid>
-      <pubDate>Tue, 30 Jan 2024 18:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能使披萨显示为 2x2 并且描述容器位于右侧？尝试修复它一个小时（flexbox）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aev0ty/how_can_i_make_it_so_the_pizzas_are_displayed_as/</link>
-      <description><![CDATA[       由   提交/u/PolarBearBalls2   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aev0ty/how_can_i_make_it_so_the_pizzas_are_displayed_as/</guid>
-      <pubDate>Tue, 30 Jan 2024 18:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最好的域名网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aeumxm/best_domain_sites_now/</link>
-      <description><![CDATA[我正在考虑购买一个域名，我是网络事物的新手，所以不知道安全性如何运行，不要对dns了解很多，有人可以告诉我应该使用哪个网站来创建具有完整设置和安全性的域名，我听说godaddy很糟糕，我在考虑namecheap和cloudfare，但仍然很困惑。我想要它用于专业工作。   由   提交/u/PearWestern6798   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aeumxm/best_domain_sites_now/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Interop 2023 庆祝互操作性更强的网络</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aeuebc/celebrate_a_more_interoperable_web_with_interop/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aeuebc/celebrate_a_more_interoperable_web_with_interop/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的按钮没有出现在我的背景图片上方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aeuarg/my_button_is_not_appearing_above_my_background/</link>
-      <description><![CDATA[所以我问了一切，但我的“打开侧边栏按钮”没有出现在我的背景图像上方，它创建了另一个页面并将自己放在那里，代码如下。 HTML：   &lt;元字符集=“UTF-8”&gt; &lt;元名称=“视口”&gt; content=“width=device-width”，initial-scale=1。&gt; Bio     &lt;/div&gt; &lt;div class=&quot;sidebar&quot;&gt; 关闭侧边栏  打开侧边栏 ;  filler 一个学习过程 filler filler filler filler filler ;/h3&gt;  &lt;/div&gt;  &lt;/body&gt; &lt;/html&gt; ​ CSS: &lt; p&gt;​ body { 字体系列: font-serif; } body.darkmode { 背景颜色: #1f2833 ; 颜色：#ffffff; z 索引：-1; } 正文 { 边距：0; 填充：0; /&gt; font-family: Arial, sans-serif; } .opening-page { 高度: 100vh; 位置: 相对; z-index: 0; } .background-image { height: 100%; 背景: url(&#39;Bio-openingpage.jpg&#39;) center/cover no-repeat; /&gt; 位置：相对； 顶部：0； 左：0； 右：0； 底部：0； z 索引：-1；&lt; br /&gt; } body { margin: 0; padding: 0; font-family: Arial, sans-serif; } .起始页 { 高度：100vh； 位置：相对； z-index：0； /\ 为起始页面设置较低的 z-index */* }  .sidebar { height: 100%;位置：固定；顶部：0；左：0；背景颜色：#111；溢出-x：隐藏；过渡：0.5s；  padding-top: 60px; z-index: 1; } .sidebar p { 颜色: 白色; padding: 15px;&lt; br /&gt; } .open-sidebar-btn { 字体大小：20px； 光标：指针； 背景颜色：#111； 颜色：白色； 边框：无； 内边距：10px 20px； 位置：绝对； 顶部：20px； 左侧：20px； z-index : 2; 页数: 1;  }  .open-sidebar-btn, .close-sidebar-btn { 字体大小：20px; 光标：指针;背景颜色：#111；颜色：白色；边框：无；内边距：10px 20px；位置：相对； /\ 添加此行 */* z-index: 3; /\ 为按钮设置更高的 z-index */* } .open-sidebar-btn:hover, .close-sidebar-btn: hide { background-color: #444; } /\ 根据需要调整样式 */*  h1 { 颜色：#86c232； 字体大小：2em； 位置：绝对； 顶部：30%； 左侧：50%； 顶部边距： 5px; 变换：翻译(-50% , -50%); } h2 { 颜色：#ffffff; 字体大小：4em;&lt; br /&gt; 文本对齐：居中； 位置：绝对； 顶部：50%； 左侧：50%； 变换：翻译（-50% , -50% ); } h3 { 颜色: #61892f; 字体大小: 18px; 位置: 绝对; 顶部: 75%;&lt; br /&gt; 左：50%； 文本对齐：居中； 变换：翻译(-50% , -50%); }  JavaScript ​ function openSidebar() { document.querySelector(&#39;.sidebar&#39;).style.width = &#39;250px&#39;; document.querySelector (&#39;.content&#39;).style.marginLeft = &#39;250px&#39;; } function closeSidebar() { document.querySelector(&#39;.sidebar&#39;).style.width = &#39;0&#39; ; document.querySelector(&#39;.content&#39;).style.marginLeft = &#39;0&#39;; }   由   提交 /u/Pxfxction   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aeuarg/my_button_is_not_appearing_above_my_background/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:42:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
