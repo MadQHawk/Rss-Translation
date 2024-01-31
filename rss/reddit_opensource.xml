@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 31 Jan 2024 06:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 09:12:52 GMT</lastBuildDate>
+    <item>
+      <title>尚未发布的开发版本的版本号格式？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1afckju/version_number_format_for_notyetreleased/</link>
+      <description><![CDATA[我知道有多种选择，但我希望在这里得到您的建议和经验。 我愿意” “标记”特定版本为“正在开发中”？ 我知道不使用额外标记的项目。假设奇数版本号正在开发中（或不稳定），偶数版本号是稳定/发布。 其他人添加“-dev”。在版本号的末尾。例如“1.4.2-dev”是即将推出（但尚未发布）的“1.4.2”。由于“1.4.1”是最新的稳定版和官方版本。 其他人确实只使用“+”号。  其他选项？   由   提交/u/buhtz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1afckju/version_number_format_for_notyetreleased/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:46:34 GMT</pubDate>
+    </item>
     <item>
       <title>我可以分叉一个开源应用程序，然后将其商业化和闭源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1af9v3u/can_i_fork_an_open_source_app_and_then_make_it/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>寻找涉及树莓派的 Meraki、Aruba、Fortigate 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</link>
-      <description><![CDATA[标题基本上。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
+      <description><![CDATA[基本标题。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</guid>
       <pubDate>Tue, 30 Jan 2024 20:52:45 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>[OC] Bibata 光标：现在有右手支持！</title>
       <link>https://www.reddit.com/r/opensource/comments/1aenltj/oc_bibata_cursor_now_with_right_hand_support/</link>
-      <description><![CDATA[链接  Bibata 光标存储库：https://www.github.com/ful1e5/Bibata_Cursor Bibata 应用程序存储库：https://www.github.com/ful1e5/bibata 在 https 创建您的个性化 Bibata 光标主题://www.bibata.live  二进制文件 最新版本可在 KDE 商店和 Pling 商店免费获得。 正常变体：  Bibata 现代冰：https:/ /store.kde.org/p/1197198 Bibata 原味冰：https://store .kde.org/p/1914812 Bibata 现代经典：https://store.kde .org/p/1914825 Bibata 原创经典：https://store.kde.org /p/1914826 Bibata 现代琥珀：https://store.kde.org/p /1914819 Bibata 原始琥珀：https://store.kde.org/p/1914824   右手变体：  Bibata 现代冰右手：https://store.kde.org/p/2125193 Bibata 原味冰权：https://store.kde.org/p/2125192 Bibata 现代经典右：https://store.kde.org/p/2125190 Bibata 原创经典右：https://store.kde.org/p/2125186 Bibata 现代琥珀右：https://store.kde.org/p/2125201 Bibata 原始琥珀右：https://store.kde.org/p/2125194  Bibata 需要您的帮助 您的支持对于这个项目和我在 GitHub 上的其他开源项目的持续开发至关重要。考虑通过一次性或每月捐款进行赞助，解锁各种福利，详情请参阅 GitHub 赞助商页面。  对于超过 100 美元的一次性捐赠或“标准” 级别的每月赞助，您的名字将在 Bibata 主页的  下显着位置显示“英雄”部分。我们真诚地感谢您的支持，并为 Bibata 的持续成功作出贡献。   由   提交/u/ful1e5  [链接] [评论]]]></description>
+      <description><![CDATA[链接  Bibata 光标存储库：https://www.github.com/ful1e5/Bibata_Cursor Bibata 应用程序存储库：https://www.github.com/ful1e5/bibata 在 https 创建您的个性化 Bibata 光标主题://www.bibata.live  二进制文件 最新版本可在 KDE 商店和 Pling 商店免费获得。 正常变体：  Bibata 现代冰：https:/ /store.kde.org/p/1197198 Bibata 原味冰：https://store .kde.org/p/1914812 Bibata 现代经典：https://store.kde .org/p/1914825 Bibata 原创经典：https://store.kde.org /p/1914826 Bibata 现代琥珀：https://store.kde.org/p /1914819 Bibata 原始琥珀：https://store.kde.org/p/1914824   右手变体：  Bibata 现代冰右手：https://store.kde.org/p/2125193 Bibata 原味冰权：https://store.kde.org/p/2125192 Bibata 现代经典右：https://store.kde.org/p/2125190 Bibata 原创经典右：https://store.kde.org/p/2125186 Bibata 现代琥珀右：https://store.kde.org/p/2125201 Bibata 原始琥珀右：https://store.kde.org/p/2125194  Bibata 需要您的帮助 您的支持对于这个项目和我在 GitHub 上的其他开源项目的持续开发至关重要。考虑通过一次性或每月捐款进行赞助，解锁各种福利，详情请参阅 GitHub 赞助商页面。  对于超过 100 美元的一次性捐赠或“标准” 级别的每月赞助，您的名字将在 Bibata 主页的  下显着位置显示“英雄”部分。我们真诚地感谢您的支持，并为 Bibata 的持续成功做出贡献。   由   提交/u/ful1e5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aenltj/oc_bibata_cursor_now_with_right_hand_support/</guid>
       <pubDate>Tue, 30 Jan 2024 12:46:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[此编译器可让您访问 GPU 和庞大的 Python AI 生态系统，而无需接触 Python。 它适用于对 AI 感兴趣的开发人员，但非常不喜欢 Python。 GitHub 上的源代码以及欢迎贡献/想法。现在 Java 导入正在运行。让我知道您最喜欢的编程语言，我将添加支持:) GitHub：https:// github.com/Fileforma/AntiPython-AI-Compiler-Colab/    由   提交 /u/DataBaeBee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aeiazh/antipython_compiler_to_use_google_colab_gpus_in/</guid>
       <pubDate>Tue, 30 Jan 2024 06:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎾 网球发球分析</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</link>
-      <description><![CDATA[网球发球分析应用程序是一款移动应用程序，旨在彻底改变网球运动员分析和改进发球的方式。该应用程序利用机器学习算法和计算机视觉技术，为用户提供个性化反馈、与职业球员的即时比较以及对其发球机制的宝贵见解。 请为 repo如果你喜欢你所看到的😊。 💻安装链接 在 Play 商店中安装 （或）  下载 Apk  📖 使用  在您的移动设备上启动应用程序。 输入您的身高和打球的手型（左手或右手）。 上传您要分析的侧发球视频。 查看分析，包括与职业球员的最大、最小和平均关节角度以及球速比较（目前包括罗杰·费德勒、拉斐尔·纳达尔和法比奥·福格尼尼）。  ✨功能  🦵 姿势估计：利用机器学习模型MoveNet来估计用户发球的关键点，包括肘、肩、膝等关节。  🧔 职业球员比较：允许用户将自己的发球与同等身高的职业球员进行比较，提供视觉叠加和角度比较。  🥎 球跟踪：采用 AutoML Vision 进行球检测和跟踪，计算球撞击后的速度。 👥 用户反馈：提供关节角度的实时反馈，使用户了解他们的技术并收到改进建议。 📊 数据驱动的进度跟踪：使用户能够跟踪他们随时间的进展，帮助他们监控改进并完善他们的训练策略.    由   提交 /u/adityabolt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</guid>
-      <pubDate>Tue, 30 Jan 2024 00:43:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

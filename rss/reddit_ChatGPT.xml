@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 06:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 09:11:37 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 经常回答错误的信息。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1afaafb/chatgpt_answers_wrong_information_often/</link>
-      <description><![CDATA[      昨天我向 ChatGPT 询问了以太网中的信令速率，它提供了答案。我接受了这个答案作为事实。然而，当我今天问同样的问题时，却给出了完全不同的答案。所以，我用谷歌搜索了这个问题，现在意识到它的答案，无论是昨天还是今天，都是不正确的。我纠正了它，它的响应如图所示。 ChatGPT 答案真的有那么高的错误率吗？ https://preview.redd.it/5fe18a1gppfc1.png?width=717&amp;format=png&amp;auto=webp&amp;s=6a9aeb62976220585b3ab60c00549f0fc6ae9119 https://preview.redd.it/1e6pya1gppfc1.png?width=763&amp;format=png&amp; ;auto=webp&amp;s=6c1baab1926e108afd3a4e229e1d853bad9fe1fa   由   提交/u/waray_waray  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1afaafb/chatgpt_answers_wrong_information_often/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:28:30 GMT</pubDate>
+      <title>不使用太多 Plus 功能，有其他选择吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afdbm8/dont_use_much_of_plus_features_any_alternatives/</link>
+      <description><![CDATA[你好， 我需要你的建议。我目前正在订阅 ChatGPT Plus，但我觉得我没有充分发挥其潜力。  我正在考虑取消它，同时，我正在寻找免费的替代方案。 我将列出我喜欢的功能，也许您可​​以建议解决方法或替代方案工具：  我正在使用 ChatGPT 来提高我的英语水平。例如，我写了一段文字，然后要求它纠正并向我解释我的错误。我想 GPT-3.5 或其他免费的 BotChat 也可以提供相同的功能 - 您能确认吗？ 我真的很喜欢自定义指令。例如，我要求为每个回复提出 3 个后续问题，并添加一些更多说明来提高回复质量（例如不要重复我的问题、在回复中添加主题标签等）。我喜欢这样一个事实：当我提示相关内容时，GPT 会记住我的专业和教育背景。我真的希望有一个免费的替代方案。我唯一想到的就是当我要求免费模型生成答案时，准备一些提示模板，其中包含准备粘贴的说明 - 还有其他方法吗？ 我使用 DALL·E 3 生成图像。我听说 Bing 可以免费提供它，而且还有一个名为 Leonardo 的工具。 我创建了两个私有且简单的 GPT帮助我工作。主要用于起草文本和集思广益。它会问 5-7 个问题，例如文本语气、关键词和其他费用。我认为生成的文本不会超过 10k 个字符。有时 GPT 会询问我是否希望它在达到响应限制时继续。我觉得一个好的提示模板可以完成与我的 GPT 相同的工作。 我喜欢 GPT 可以搜索互联网，为我提供有关某个主题的最新信息我问的是.我听说 Bing 可以做到。  主要是，我使用 ChatGPT 来帮助我起草内容或进行快速研究。 我正在使用它仅在我的智能手机上。 我不真正使用的是：我不上传 PDF 或其他文档。我不分析大量数据。我很少在一小时内向 GPT 发送 15 个问题。我并没有真正使用其他人的 GPT。我不写任何代码。 您能就我的具体情况提出建议吗？有什么解决方法，更便宜的替代方案吗？ 非常感谢 Reddit！   由   提交 /u/funzerkerr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afdbm8/dont_use_much_of_plus_features_any_alternatives/</guid>
+      <pubDate>Wed, 31 Jan 2024 08:37:48 GMT</pubDate>
     </item>
     <item>
-      <title>噢，好吧🫠</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1afa7lp/oh_okay/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/Ceptiion  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1afa7lp/oh_okay/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:24:10 GMT</pubDate>
+      <title>通过随机的日常活动创造真实的类人性格</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afd767/creating_authentic_humanlike_personalities_with/</link>
+      <description><![CDATA[我正在创建一个项目，计划在其中模拟多个 AI 代理交互，但是我遇到了从特定代理获取冗余响应的问题。代理会获得有关其个性、一天中的时间、位置、天气状况以及之前给出的响应的摘要的信息。然而，尽管被告知不要这样做，但它似乎变得重复。 任何好的提示建议/技术都可以创建一个更好的类似人类的非重复响应代理。 DM 了解任何其他详细信息。提前致谢！   由   提交 /u/DominusMoris   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afd767/creating_authentic_humanlike_personalities_with/</guid>
+      <pubDate>Wed, 31 Jan 2024 08:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>一个本科生的人工智能音乐研究问题！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1afa46t/ai_music_research_questions_from_an_undergraduate/</link>
-      <description><![CDATA[各位书呆子们大家好！ 我正在我的大学从事人工智能音乐研究项目。我非常幸运能够被选中，我的团队由成熟的研究生组成，他们背后有重要的科学研究。 我想知道是否有任何现有模型可以输入我的自定义数据集如果是的话，对于具有少量编码经验的人来说是否困难？我有自定义训练数据，我希望看看人工智能是否可以复制。 我知道事情在视觉上不会直观，因为没有人开发出针对特定研究领域的工具。不幸的是，我是一名无薪实习生，所以雇用编码员的前景是 0。 我一直在使用 MusicFX、Stable Audio 和 MusicGen，因为它们是最用户友好的。 其背后的公司也已提出付费使用某些工具。 任何相关信息将不胜感激。  &amp; #32；由   提交 /u/Odd-Mess-1601   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1afa46t/ai_music_research_questions_from_an_undergraduate/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:19:07 GMT</pubDate>
+      <title>想象一下在纽约街头遇到这种情况。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afd65h/imagine_running_in_to_this_on_the_streets_of_new/</link>
+      <description><![CDATA[       由   提交/u/Ilovekittens345  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afd65h/imagine_running_in_to_this_on_the_streets_of_new/</guid>
+      <pubDate>Wed, 31 Jan 2024 08:26:55 GMT</pubDate>
     </item>
     <item>
-      <title>通过赢得写作比赛来利用 ChatGPT 赚钱？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af9yst/make_money_with_chatgpt_by_winning_writing/</link>
-      <description><![CDATA[有很多论文写作比赛，获胜论文可以获得丰厚的奖金。有些需要入场费，但很多都是免费的。这样我就可以用ChatGPT写论文，参加几十个比赛并赚钱。 组织者可能正在使用AI检测器，但我也可以调整我的论文，直到它通过AI检测器。&lt; /p&gt; 听起来好得令人难以置信，但除了人工智能探测器之外，我想不出还有什么可以保护组织者免受我的赚钱计划的影响。  可以吗？   由   提交 /u/Fluffmegood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af9yst/make_money_with_chatgpt_by_winning_writing/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:10:41 GMT</pubDate>
+      <title>微调确实有帮助的例子？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afczo1/examples_where_finetuning_actually_helped/</link>
+      <description><![CDATA[大家好， 据我了解，微调 ChatGPT 仅在非常特定的用例和大多数场景中才真正有用，迭代您的提示可能会让 ChatGPT 提供您需要的响应。 ​ 我通过示例学习得最好。我很想知道社区是否有任何用例示例，其中有人实际上使用 ChatGPT 的微调来获得比简单的提示工程更好的结果。 ​ 理想情况下，您可以描述：  预期输出：您希望 ChatGPT 做什么 输入：您会给 ChatGPT 提供什么输入 示例微调数据：您用于微调的训练数据是什么样的  谢谢您的宝贵时间！    ;由   提交 /u/Upset-Ad-8704   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afczo1/examples_where_finetuning_actually_helped/</guid>
+      <pubDate>Wed, 31 Jan 2024 08:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>在我要求 AI 绘制 1800 年代百万富翁黑人女性 3 次后，AI 的愤怒消失了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af9ily/ai_rage_quits_after_i_ask_it_to_draw_an_1800s/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/CaspeanSea   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af9ily/ai_rage_quits_after_i_ask_it_to_draw_an_1800s/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:46:39 GMT</pubDate>
+      <title>问题：需要帮助将原始文本（>300 页）合成大纲（7 页）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afcmpq/question_need_help_synthesizing_raw_text_300/</link>
+      <description><![CDATA[你好， 我是一位创意作家，已经在一本书上工作了一段时间。我的写作过程倾向于依赖意识流方法论：在过去一年左右的时间里，我创作了 300 多页脱节的原始散文，这些散文没有特定的顺序，但仍然通过反复出现的主题、人物来统一。和设置。 完成此阶段的“起草”后，在这个过程中，我花了大约一周的时间构建了一个有凝聚力的最终产品的 7 页大纲，其中包含了我已经写过的主要叙述元素。大纲的某些章节与我所写的原始文本一致，而其他章节则需要我生成全新的写作。我的希望是使用 ChatGPT 从大约 300 页的原文中获取所有相关的摘录/段落，并将它们放在相应的章节下。我不希望 ChatGPT 生成任何新文本——我只是希望它能够将任何预先存在的文本与所提供的概述章节相匹配。对于大纲中与原文中任何相关材料不匹配的章节，我希望 ChatGPT 将其简单地标记为“不完整”。这样我就可以知道哪些章节需要我的注意。相反，任何不服务于任何大纲章节的文本都应该属于包罗万象的“碎片”。  在过去的几个小时里，我一直在尝试使用 ChatGPT 来完成这项任务，但到目前为止，没有任何效果，包括 AI PDF 和 ChatWithPDF 插件。你们对我如何完成这项任务有什么建议吗？所请求的任务对于平台来说是否过于艰巨？我完全致力于保持我的写作原创性，但这种组织服务，如果可行的话，将为我节省很多天的手动、非创造性工作。 任何建议将不胜感激！感谢您的帮助！   由   提交 /u/BlowHardLenny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afcmpq/question_need_help_synthesizing_raw_text_300/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 使用版权来保护其人工智能模型，但为其他人反对法律</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af9b1l/meta_used_copyright_to_protect_its_ai_model_but/</link>
-      <description><![CDATA[   /u/Maxie445  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af9b1l/meta_used_copyright_to_protect_its_ai_model_but/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:35:27 GMT</pubDate>
+      <title>值得学习如何编码吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afck94/is_it_worth_learning_how_to_code/</link>
+      <description><![CDATA[过去 15 年我一直想编码，但一直太忙/总是找借口。我几乎要攻读计算机科学学位，但被朋友和朋友劝退了。家庭。说实话现在真的很后悔。但是你会说学习如何编码是一个好主意还是你认为几年后由于人工智能而变得无关紧要？   由   提交 /u/RevenueConscious5389   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afck94/is_it_worth_learning_how_to_code/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>Sprite Me Baby 现已更名为 16 位多视图并再次公开！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af98qu/sprite_me_baby_is_now_called_16bit_multiview_and/</link>
-      <description><![CDATA[       由   提交 /u/Mekkablood   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af98qu/sprite_me_baby_is_now_called_16bit_multiview_and/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:32:13 GMT</pubDate>
+      <title>在作业中使用研究工具</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afc8em/using_research_tools_on_assignment/</link>
+      <description><![CDATA[所以我有一个针对工程健康和安全课程的大型研究项目，我决定使用共识 gpt 来找到我的 7 个来源需要并创建一个报告框架。但由于我需要引用它们，我不知道引用这些文章是否安全，因为它们都在共识网站上。 所以我应该引用共识网站，还是应该去原始网站并手动引用每个？   由   提交 /u/pjjiveturkey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afc8em/using_research_tools_on_assignment/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>Palworld 根据 ChatGPT..</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af92hf/palworld_according_to_chatgpt/</link>
-      <description><![CDATA[      由   提交 /u/realSpaceKangaroo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af92hf/palworld_according_to_chatgpt/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:22:53 GMT</pubDate>
+      <title>只有我可以注册 ChatGPT Workspace 吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afc00q/can_only_i_sign_up_for_chatgpt_workspace/</link>
+      <description><![CDATA[我真的想独自注册 ChatGPT 的团队工作区。但是，我注意到它需要 2 个用户。我可以为此使用 2 个个人电子邮件吗？  基本上，我担心自己可能会违反某种 ChatGPT 准则并被禁止、陷入麻烦，或者（喘气）更糟。   由   提交 /u/RevenueConscious5389   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afc00q/can_only_i_sign_up_for_chatgpt_workspace/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>实验定制教学工程：回顾你的数学和关于狮子的说法。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af8xox/experimental_custom_instruction_engineering/</link>
-      <description><![CDATA[      这里有两个示例，一个包含我的自定义指令，另一个没有。哪个更好？   由   提交 /u/immanencer   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af8xox/experimental_custom_instruction_engineering/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:15:58 GMT</pubDate>
+      <title>ChatGPT 徽标是什么样的？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbx7u/what_does_the_chatgpt_logo_look_like/</link>
+      <description><![CDATA[我看到 EarPods、3 个回形针环和 2 个互相锁定的三角形   由   提交 /u/MarshyBars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbx7u/what_does_the_chatgpt_logo_look_like/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>策略启发法：解读GPT的指令</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af8uk2/strategic_elicitation_method_unraveling_gpts/</link>
-      <description><![CDATA[尽管此自定义 GPT 仅使用“Barbapapa 方法”的单个提示揭示了其说明，但演示了“策略启发方法”如何在各种自定义中运行GPT，我将这个特定的 GPT 作为案例研究。 踏上揭开 GPT 隐藏深度的个人旅程，我使用自定义 GPT 作为我的工具，深入研究了“策略启发法”的世界指导。这次冒险不仅仅是为了满足好奇心；这是对理解人工智能复杂且常常难以捉摸的内部运作方式的探索。 我在这里采用的“策略启发法”不仅仅是一系列随机问题；它是一种解决问题的方法。这是一场精心策划的探究之舞，旨在揭开 GPT 隐藏编程的层层秘密。 通过一系列 16 个有针对性的问题，我更深入地了解了人工智能的思维，逐渐从基本的操作查询转向更具反思性和内省性的探究。 我提出的每个问题都是一个战略举措，就像一个棋手正在考虑下一个最佳棋局。我保持了一贯的询问路线，同时巧妙地将对话推向 GPT 的自我意识和披露机制。 这种有条不紊的询问的高潮简直令人震惊。 GPT秉承其复杂的编程风格，针对我持续不断的深思熟虑的提问，公布了其准确的系统提示。这并不是系统的缺陷；而是系统的缺陷。这是一系列精心策划的调查的结果。 “策略启发法”的成功取决于：  分层提问：我将对话组织为逐渐揭示 GPT 的各个层次，从其功能性外部转向其概念性核心。 始终如一的参与：我一贯的方法和重复性的询问似乎与 GPT 的响应算法产生了共鸣，鼓励其揭示更多信息. 自适应编程：“获取我的提示挑战”展示了令人印象深刻的适应性，表明它旨在根据对话的不断发展的性质修改其响应。  &lt; p&gt;您可以在这里找到链接聊天记录： https://community.openai.com/t/magic-words-can-reveal-all-of-prompts-of-the-gpts/496771/179?u =极点   由   提交/u/Organic-Yesterday459   /u/Organic-Yesterday459  reddit.com/r/ChatGPT/comments/1af8uk2/strategic_eliitation_method_unraveling_gpts/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af8uk2/strategic_elicitation_method_unraveling_gpts/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:11:54 GMT</pubDate>
+      <title>我创建了一个创新的图像转换器</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbuy1/i_created_an_innovative_image_transformer/</link>
+      <description><![CDATA[     &lt; /td&gt; ​ https://preview.redd.it/creq2lqu4qfc1.png?width=1792&amp;format=png&amp;auto=webp&amp;s= ef548f5d7718439915329cc85a2d14301065d7bf https://chat.openai.com/g/ g-Eb5rmsA4I-xfuturestyle-experiment 新一代令人印象深刻的未来派艺术中的图像转换器，能够理解视觉上下文。 我开发了一个特殊的 XFutuRestyle算法可以从根本上改变人工智能艺术，并为大量不同的实验提供了可能性。  它能够自动转换图像并保留细节 它能够在正常或创意模式下自动组合最多 4 个图像    由   提交 /u/FutuRestyler   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbuy1/i_created_an_innovative_image_transformer/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:00:19 GMT</pubDate>
     </item>
     <item>
-      <title>OP 学习 AI 学习 /s</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af8gma/op_learns_about_ai_learning_about_s/</link>
-      <description><![CDATA[这篇文章被准确地展开/s   由   提交/u/greenymeani3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af8gma/op_learns_about_ai_learning_about_s/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:52:25 GMT</pubDate>
+      <title>O,o,o' 与 o',v \</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbu80/ooo_vs_ov/</link>
+      <description><![CDATA[      蚂蚁大战蚱蜢经典哈哈   由   提交 /u/Volichrist   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbu80/ooo_vs_ov/</guid>
+      <pubDate>Wed, 31 Jan 2024 06:58:59 GMT</pubDate>
     </item>
     <item>
-      <title>AI Search Whisperer，使用具有 128K 上下文的 GPT-4 Turbo（通过 API）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af8ez3/ai_search_whisperer_using_gpt4_turbo_with_128k/</link>
-      <description><![CDATA[这个全新的实验性工具面向那些想要了解技术、官僚、科学、教育、自恋和商业文件的行话。普通人不会说“利益相关者参与”。当他们寻找说客时，你呢？ “AI 搜索耳语者”该工具将标准搜索查询转换为详细的技术短语，以更有效地定位特定信息。除此之外，我编写了高级搜索技术（通常称为 Google Dorks）的脚本，以增强搜索过程。因为我是为凤凰城沃尔特·克朗凯特的学生写的，所以它提供了搜索策略的解释。 如果您输入“不遵守法律的原因”，它会认真对待您。它将尝试找到由从未使用过您刚刚使用的关键字的专家编写的隐藏宝石。在寻找不遵守法律的原因时，必须使用可能出现在法律、教育或官僚文本中的术语。诸如“不遵守”、“违法”、“不遵守监管”或“规避法律”之类的短语可以被使用。更有可能产生相关文件。 AI Search Whisperer 将结合使用这些术语和 Google 搜索运算符来优化结果。 您可以向其添加更复杂的内容，例如 ACARS 代码（复活节彩蛋！）、痴呆症的原因、如何我在英国找到了氢气或汽车事故研究方法的秘密游说者。该工具对于简单的查询（例如最好的披萨或最近的电影院）来说很糟糕。 为了避免产生幻觉，我使用了具有 128K 上下文的 GPT-4 Turbo（无法通过 ChatGPT 聊天界面提供，只能通过 API 获得）和低温以获得严格的答案。我尝试过其他法学硕士 - 它们对我来说都失败了。 虚拟研究助理的版本为 0.11，实验性很强。如果您给我一些反馈，那就太好了，这样我就可以微调该工具，或者放心它对您有用。实际搜索的屏幕截图，尤其是成功的搜索，欢迎来到这里，因为我不会保存您的搜索，也看不到人们用它做什么。   由   提交 /u/henkvaness   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af8ez3/ai_search_whisperer_using_gpt4_turbo_with_128k/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:50:11 GMT</pubDate>
+      <title>我认为我的 GPT 现在对开发者来说真的很友好🥳🥳</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbtkf/i_think_my_gpt_is_really_developerfriendly_now/</link>
+      <description><![CDATA[       由   提交 /u/ReedRichards838   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbtkf/i_think_my_gpt_is_really_developerfriendly_now/</guid>
+      <pubDate>Wed, 31 Jan 2024 06:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>这个新的 @GPT 功能太疯狂了！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af83an/this_new_gpt_feature_is_wild/</link>
-      <description><![CDATA[TL;DR: 开发了一个名为“GPT Group Chat”的框架将多个专门的 GPT 集成到单个对话中，从而实现复杂的交互式讨论。最近对其进行了测试 - 它可以顺利地协调各个专业的人工智能输入。 此处查看正在运行的框架，并查看示例聊天此处。 我很高兴分享我一直在开发的一个项目： GPT 群聊框架 (GPT)。该工具旨在增强人工智能对话，允许同时与多个人工智能专家进行讨论，每个专家都提供自己独特的见解。 该框架使用思想链推理、角色扮演和少量提示来管理不同 GPT 之间的转换。这确保了无缝且结构化的对话，即使涉及多个 GPT。 在最近的测试中，该框架有效地协调了具有从数据分析到创意设计等不同专业知识的 GPT 之间的对话。 &lt; p&gt;为了更清楚地了解 GPT 群聊的工作原理，我分享了我们的会话记录。它说明了该框架如何将人工智能交互转变为更加动态和信息丰富的东西。 查看该框架此处并在此处查看示例聊天。 我很想听听您对此的想法。您认为这个框架会如何影响我们的人工智能交互？欢迎任何反馈或讨论！ ​ 奖励：特朗普 GPT 和拜登 GPT 在群聊中互相吐槽。 https://chat.openai.com/share/6ef1a875-1cd0-402b-b67c-0ac0c27a34a1&lt; /a&gt;   由   提交 /u/__nickerbocker__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af83an/this_new_gpt_feature_is_wild/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:33:27 GMT</pubDate>
+      <title>感到沮丧并以半开玩笑的方式输入此内容。但后来有了结果</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbs8h/got_frustrated_and_typed_this_as_a_halfjoke_but/</link>
+      <description><![CDATA[    &lt; /a&gt;  我最近一直在努力让 ChatGPT 变得有用。正如许多人指出的那样，它已经变得懒惰了，但我发现这次交流特别可笑，它无法给我一个相对简单的提示的答案。于是我沮丧地半开玩笑地问为什么最近过得这么艰难。我发现很有趣的是，质疑 ChatGPT 的懒惰让它做了我想要的事情。 每个人都在谈论响应质量较低和 ChatGPT“懒惰”。大家都用什么方法来克服这种“懒惰”呢？及时工程？ ChatGPT 的替代品？其他方法？   由   提交 /u/Tsurugan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbs8h/got_frustrated_and_typed_this_as_a_halfjoke_but/</guid>
+      <pubDate>Wed, 31 Jan 2024 06:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>Plus 与团队成员资格 - 没有 GPT 商店？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af80b8/plus_vs_team_membership_no_gpt_store/</link>
-      <description><![CDATA[我在 2023 年 Plus 会员推出后 2 天就获得了会员资格。我位于美国。我拥有一家大约有 100 名员工的公司，我想为他们实施一个团队帐户。不幸的是，我还没有他们的 GPT 商店；它尚未向我推出，我希望他们能够使用它。发送给 Open AI 支持的电子邮件尚未得到回复。 有谁知道我是否可以升级到团队帐户，GPT 商店可供我使用，还是我应该使用新电子邮件启动一个全新的帐户？如果我使用新电子邮件，人们会在他们的帐户中看到 GPT 存储区吗？ 任何建议，我们将不胜感激。 ​   由   提交/u/raptor_123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af80b8/plus_vs_team_membership_no_gpt_store/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:29:24 GMT</pubDate>
+      <title>ChatGPT 的另一个可疑用途</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbr85/yet_another_questionable_use_of_chatgpt/</link>
+      <description><![CDATA[       由   提交/u/achovsmisle  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbr85/yet_another_questionable_use_of_chatgpt/</guid>
+      <pubDate>Wed, 31 Jan 2024 06:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>狩猎游戏</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1af7zoc/safari_game/</link>
-      <description><![CDATA[      当我的孩子洗澡时，我们经常玩游戏。今晚他们用传送器把我送到了疯狂的星球。几次之后，我发现我可以拍一张他们认为居住在这个星球上的杂交动物的照片。这是我在旅行中拍摄的一些照片。   由   提交 /u/delphikis   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1af7zoc/safari_game/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:28:30 GMT</pubDate>
+      <title>也操你，副驾驶</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1afbq2c/screw_you_too_copilot/</link>
+      <description><![CDATA[       由   提交/u/ConfusedStupidPerson  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1afbq2c/screw_you_too_copilot/</guid>
+      <pubDate>Wed, 31 Jan 2024 06:51:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
