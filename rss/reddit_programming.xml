@@ -4,34 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 31 Jan 2024 15:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 18:12:30 GMT</lastBuildDate>
+    <item>
+      <title>什么是 X-Forwarded-For？您什么时候可以信任它？</title>
+      <link>https://www.reddit.com/r/programming/comments/1afniq7/what_is_xforwardedfor_and_when_can_you_trust_it/</link>
+      <description><![CDATA[ 由   提交/u/pimterry  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1afniq7/what_is_xforwardedfor_and_when_can_you_trust_it/</guid>
+      <pubDate>Wed, 31 Jan 2024 17:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>来认识一下这个“很棒的主题”存储库😎</title>
+      <link>https://www.reddit.com/r/programming/comments/1afngi8/meet_this_awesome_topics_repo/</link>
+      <description><![CDATA[ 由   提交/u/Mahmoudz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1afngi8/meet_this_awesome_topics_repo/</guid>
+      <pubDate>Wed, 31 Jan 2024 17:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>合成器固件点亮彩色块以显示堆栈跟踪，以及一个机器人来识别和解码它们（线程）</title>
+      <link>https://www.reddit.com/r/programming/comments/1afne7z/synth_firmware_lights_up_colored_blocks_to/</link>
+      <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1afne7z/synth_firmware_lights_up_colored_blocks_to/</guid>
+      <pubDate>Wed, 31 Jan 2024 17:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人使用平板电脑或敞篷车作为主要开发笔记本电脑吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1afn1yu/does_anyone_use_a_tablet_or_convertible_as_their/</link>
+      <description><![CDATA[我主要谈论 Windows 中的 Java 和 C# 开发空间。我发现自己经常使用 MS Paint 来绘制 UML 图和流程图。有时在现实生活中的记号板上写字并拍照。这里还有其他人尝试过使用触摸屏界面的专用于绘图和图表的软件吗？什么是高效用例？   由   提交/u/Artistic-Teaching395  /u/Artistic-Teaching395 pcguide.com/tablet/guide/best-business/?tag=pcgtabletforbusiness-20&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1afn1yu/does_anyone_use_a_tablet_or_convertible_as_their/</guid>
+      <pubDate>Wed, 31 Jan 2024 17:19:18 GMT</pubDate>
+    </item>
     <item>
       <title>转储空终止字符串</title>
       <link>https://www.reddit.com/r/programming/comments/1afjn01/dumping_null_terminated_strings/</link>
       <description><![CDATA[ 由   提交/u/ieyberg  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1afjn01/dumping_null_terminated_strings/</guid>
       <pubDate>Wed, 31 Jan 2024 14:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 DevJournal.ai - 一款专为开发人员打造的快速且细心的日记应用程序！</title>
-      <link>https://www.reddit.com/r/programming/comments/1afj172/introducing_devjournalai_a_fast_and_mindful/</link>
-      <description><![CDATA[ 由   提交 /u/Accomplished_Link647    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afj172/introducing_devjournalai_a_fast_and_mindful/</guid>
-      <pubDate>Wed, 31 Jan 2024 14:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>找一份快速工程、人工智能或机器学习领域的工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1afiu8x/get_a_job_in_prompt_engineering_ai_or_ml/</link>
-      <description><![CDATA[ 由   提交 /u/Difficult_Remove_674    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afiu8x/get_a_job_in_prompt_engineering_ai_or_ml/</guid>
-      <pubDate>Wed, 31 Jan 2024 14:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥 [新GPTS] 1 月 31 日在 storeChatGPT.ai 发售！您对最新的 GPTS 有何看法？</title>
-      <link>https://www.reddit.com/r/programming/comments/1afif4g/new_gpts_available_on_jan_31_at_storechatgptai/</link>
-      <description><![CDATA[ 由   提交/u/remoteyep  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afif4g/new_gpts_available_on_jan_31_at_storechatgptai/</guid>
-      <pubDate>Wed, 31 Jan 2024 13:57:04 GMT</pubDate>
     </item>
     <item>
       <title>Node.js 中的 NPM 和 package.json - 文章</title>
@@ -76,13 +83,6 @@
       <pubDate>Wed, 31 Jan 2024 12:41:14 GMT</pubDate>
     </item>
     <item>
-      <title>任何使用过 FreeCodeCamp 的人</title>
-      <link>https://www.reddit.com/r/programming/comments/1afgj4a/anyone_who_used_freecodecamp/</link>
-      <description><![CDATA[ 由   提交 /u/Straight-Carpet-6315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afgj4a/anyone_who_used_freecodecamp/</guid>
-      <pubDate>Wed, 31 Jan 2024 12:16:56 GMT</pubDate>
-    </item>
-    <item>
       <title>如何以螺旋顺序绕方阵旋转</title>
       <link>https://www.reddit.com/r/programming/comments/1affi9q/how_to_go_around_a_square_matrix_in_spiral_order/</link>
       <description><![CDATA[ 由   提交/u/Own-Estate-5717   [链接] [评论]]]></description>
@@ -97,18 +97,18 @@
       <pubDate>Wed, 31 Jan 2024 10:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>Edge 似乎在未经用户许可的情况下导入 Chrome 标签页</title>
-      <link>https://www.reddit.com/r/programming/comments/1aff1ia/edge_appears_to_import_chrome_tabs_without_user/</link>
-      <description><![CDATA[ 由   提交/u/digman666  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aff1ia/edge_appears_to_import_chrome_tabs_without_user/</guid>
-      <pubDate>Wed, 31 Jan 2024 10:41:29 GMT</pubDate>
-    </item>
-    <item>
       <title>DFS 前置和后置、BFS 和漂亮打印树</title>
       <link>https://www.reddit.com/r/programming/comments/1afetdz/dfs_pre_and_post_bfs_and_pretty_print_tree/</link>
       <description><![CDATA[ 由   提交/u/audulus-mark  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1afetdz/dfs_pre_and_post_bfs_and_pretty_print_tree/</guid>
       <pubDate>Wed, 31 Jan 2024 10:25:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>绩效不平等差距，2024 年</title>
+      <link>https://www.reddit.com/r/programming/comments/1afecl2/the_performance_inequality_gap_2024/</link>
+      <description><![CDATA[ 由   提交/u/genericemon24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1afecl2/the_performance_inequality_gap_2024/</guid>
+      <pubDate>Wed, 31 Jan 2024 09:52:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
