@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 01 Feb 2024 06:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 09:14:15 GMT</lastBuildDate>
+    <item>
+      <title>视觉效果图（Unity）学习（第1部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解多区域数据驻留的架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag6k9z/understanding_architectures_for_multiregion_data/</link>
+      <description><![CDATA[ 由   提交/u/almirvuk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag6k9z/understanding_architectures_for_multiregion_data/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:46:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何管理待命职责</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag6ix1/how_to_manage_oncall_duties/</link>
+      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag6ix1/how_to_manage_oncall_duties/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据我在亚马逊与初创公司工作的经历写了一篇博客文章？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag6awa/wrote_a_blog_post_based_on_my_experiences_while/</link>
+      <description><![CDATA[ 由   提交/u/Sridhar02  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag6awa/wrote_a_blog_post_based_on_my_experiences_while/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为“作者”，Pull Request 的道德规范</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag61i2/the_ethics_of_pull_requests_being_the_author/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag61i2/the_ethics_of_pull_requests_being_the_author/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过 4 个步骤在随叫随到中生存</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag5jyg/how_to_survive_oncall_in_4_steps/</link>
+      <description><![CDATA[ 由   提交/u/Accomplished_Link647   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag5jyg/how_to_survive_oncall_in_4_steps/</guid>
+      <pubDate>Thu, 01 Feb 2024 07:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员生产力指标 - 非常有趣的文章</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag5hat/developer_productivity_metrics_really_interesting/</link>
+      <description><![CDATA[ 由   提交/u/Accomplished_Link647   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag5hat/developer_productivity_metrics_really_interesting/</guid>
+      <pubDate>Thu, 01 Feb 2024 07:31:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新思考前端开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag5dk3/rethinking_frontend_development/</link>
+      <description><![CDATA[我是一名 Angular 开发人员，最近开始涉足各种技术，例如 React、Next.JS、Qwik... 和 htmx。尽管如此，在没有详细探索 htmx 的情况下，我正在写一些我认为在基于 JS 的现代前端开发中可能出现的错误。   由   提交 /u/haasilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag5dk3/rethinking_frontend_development/</guid>
+      <pubDate>Thu, 01 Feb 2024 07:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关为 AWS 站点到站点 VPN 配置 StrongSwan 的详细教程。它包括分步说明、安全实践和故障排除提示，以实现本地网络和 AWS 之间的稳健连接。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag4yxu/a_detailed_tutorial_on_configuring_strongswan_for/</link>
+      <description><![CDATA[ 由   提交/u/Vasilkosturski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag4yxu/a_detailed_tutorial_on_configuring_strongswan_for/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>2022年至2024年1月31日，457,000名技术员工被解雇</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag4xll/457000_technology_employees_laid_off_2022_january/</link>
+      <description><![CDATA[你好，r/programming 你是过去两年被解雇的数十万人中的一员吗？ 科技公司在帕尼尼期间过度招聘后利润下降。 🥪🤒😷💻👨‍💻📊 轶事，但我开始频繁谈论遣散费。你们中的一些人在美国真的很僵硬。我觉得随着未来几年现金技术的发展，我们可以通过讨价还价获得更好的福利，包括解雇时的遣散费。 你考虑过成立工会吗？  您是否曾与科技界的其他人谈论过科技工会？我问了我圈子里的一小部分软件工程师，总的来说，我听到的大多是“我会加入一个工会，但我认为没有人愿意尝试建立一个工会。”这有多真实？ 您认为加入工会的好处和坏处是什么？您的组织有多少员工？ 我会开始 - 我认为成立工会是在同事之间建立社区并为组织文化做出有意义贡献的潜在途径。这是让我感兴趣的众多事情之一（金钱真的让我很感兴趣，ngl）。我目前不觉得自己是“社区的一部分”。在这个行业，尤其​​是现在远程工作的新复兴中。我认为这是一个缺点——可能会遭到高管的报复。哎呀。报复是非法的，但我确实认为其中一些人有太多钱了。 Google/Alphabet 技术工人于 2021 年通过美国通信工人协会成立了工会。 Alphabet 工人联盟有一个网站，他们的常见问题解答部分回答了我知道我们很多人都有的许多逆向问题。 Mods，我阅读了规则，我希望您认为这是主题，并且是相关的与程序员的对话。我很高兴在不同的 Reddit 子版块上继续这个对话，但重要的是这个对话是在技术工作者之间进行的。我想知道程序员如何看待自己在这个行业的权利。   由   提交 /u/Pupperniccle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag4xll/457000_technology_employees_laid_off_2022_january/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henrik Fransson：当软件杀人时</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag4rrl/henrik_fransson_when_software_kills/</link>
+      <description><![CDATA[ 由   提交 /u/_a4z   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag4rrl/henrik_fransson_when_software_kills/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将环境变量添加到通过 ShellExecuteEx 或 IContextMenu 启动的进程？ - 旧事新事</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag4o58/how_can_i_add_an_environment_variable_to_a/</link>
+      <description><![CDATA[ 由   提交/u/cherry-pie123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag4o58/how_can_i_add_an_environment_variable_to_a/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:36:31 GMT</pubDate>
+    </item>
     <item>
       <title>🌟 电子商务网站开发：终极指南 🌟 在当今的数字环境中，您的电子商务网站可以改变游戏规则。以下是如何让您的品牌脱颖而出：🛠️ 建立您的品牌：定义...</title>
       <link>https://www.reddit.com/r/programming/comments/1ag1tz0/ecommerce_website_development_the_ultimate_guide/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ag0k9w/hiding_and_displaying_the_mouse_cursor_and_ways/</guid>
       <pubDate>Thu, 01 Feb 2024 02:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Windows 11 中的 WSL 2 上安装 Ubuntu</title>
-      <link>https://www.reddit.com/r/programming/comments/1afy4cc/how_to_install_ubuntu_on_wsl_2_in_windows_11/</link>
-      <description><![CDATA[ 由   提交 /u/jsonobject2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afy4cc/how_to_install_ubuntu_on_wsl_2_in_windows_11/</guid>
-      <pubDate>Thu, 01 Feb 2024 00:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>.env 加载器与秘密管理器集成</title>
-      <link>https://www.reddit.com/r/programming/comments/1afv7ik/env_loader_with_secret_manager_integration/</link>
-      <description><![CDATA[ 由   提交/u/Equivalent_Address44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afv7ik/env_loader_with_secret_manager_integration/</guid>
-      <pubDate>Wed, 31 Jan 2024 22:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的自动化游戏发挥最后一点 JavaScript 性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1afu6jh/squeezing_last_bit_of_javascript_performance_for/</link>
-      <description><![CDATA[ 由   提交/u/insraq  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afu6jh/squeezing_last_bit_of_javascript_performance_for/</guid>
-      <pubDate>Wed, 31 Jan 2024 22:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>无服务器和服务器哪个更便宜？</title>
-      <link>https://www.reddit.com/r/programming/comments/1afrai0/which_is_cheaper_serverless_or_servers/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afrai0/which_is_cheaper_serverless_or_servers/</guid>
-      <pubDate>Wed, 31 Jan 2024 20:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 中的缓存基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1afr90i/benchmarking_caches_in_rust/</link>
-      <description><![CDATA[ 由   提交/u/not-matthias  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afr90i/benchmarking_caches_in_rust/</guid>
-      <pubDate>Wed, 31 Jan 2024 20:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建GUI平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1afqau5/building_a_gui_platform/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afqau5/building_a_gui_platform/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 内存指标揭秘</title>
-      <link>https://www.reddit.com/r/programming/comments/1afqat4/go_memory_metrics_demystified/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afqat4/go_memory_metrics_demystified/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>交叉编译中的关注点分离</title>
-      <link>https://www.reddit.com/r/programming/comments/1afqas4/separation_of_concerns_in_crosscompilation/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afqas4/separation_of_concerns_in_crosscompilation/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>像 1990 年一样对 DOS 软件进行逆向工程</title>
-      <link>https://www.reddit.com/r/programming/comments/1afqaqy/reverse_engineering_dos_software_as_if_it_were/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afqaqy/reverse_engineering_dos_software_as_if_it_were/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>立场论据</title>
-      <link>https://www.reddit.com/r/programming/comments/1afqaq3/positional_arguments/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afqaq3/positional_arguments/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Foundations 简介 - 我们的开源 Rust 服务基础库</title>
-      <link>https://www.reddit.com/r/programming/comments/1afq9yu/introducing_foundations_our_open_source_rust/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afq9yu/introducing_foundations_our_open_source_rust/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>ksql</title>
-      <link>https://www.reddit.com/r/programming/comments/1afq9xx/ksql/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afq9xx/ksql/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:28:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

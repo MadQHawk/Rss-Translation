@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 01 Feb 2024 03:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 09:14:45 GMT</lastBuildDate>
     <item>
-      <title>刚刚和 Meta 的一位招聘人员朋友聊过，她直言不讳。因为人工智能可以完成前端的大部分工作，所以 Meta 主要寻找全栈和后端人才......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afz646/just_talked_to_a_recruiter_friend_at_meta_and_she/</link>
-      <description><![CDATA[只是想与更大的社区分享。   由   提交 /u/OakDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afz646/just_talked_to_a_recruiter_friend_at_meta_and_she/</guid>
-      <pubDate>Thu, 01 Feb 2024 01:45:56 GMT</pubDate>
+      <title>那些停止使用prettier 的人，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag6m02/those_who_stopped_using_prettier_why/</link>
+      <description><![CDATA[你好， 每隔一段时间，我就会看到一些讨厌“更漂亮”的人的评论。 有时这真的很痛苦，尤其是与其他扩展规则集成。  如果您是停止使用 prettier 的人之一，您现在使用什么？ 值得吗？ ​ 对我来说，我喜欢看到我的代码在保存时被格式化（vscode），你现在用什么代替？ 谢谢你  &amp; #32；由   提交/u/menewhome31  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag6m02/those_who_stopped_using_prettier_why/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>恢复批评？更详细的评论里</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afyb3r/resume_critique_more_detail_in_comments/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/IsopodSome9635   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afyb3r/resume_critique_more_detail_in_comments/</guid>
-      <pubDate>Thu, 01 Feb 2024 01:04:51 GMT</pubDate>
+      <title>注册 .in 域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag659l/registering_in_domain/</link>
+      <description><![CDATA[注册 .in 域的最佳网站是什么？我注意到像 namecheap 这样的网站不为该域提供隐私安全   由   提交/u/Otakuwale69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag659l/registering_in_domain/</guid>
+      <pubDate>Thu, 01 Feb 2024 08:17:33 GMT</pubDate>
     </item>
     <item>
-      <title>项目级别的 AI 代码协助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afy0mz/ai_code_assistance_on_project_level/</link>
-      <description><![CDATA[我想向社区询问项目级别的代码助手 – 例如项目设置、维护、功能实现... 根据我的经验，Copilot、Tabnine、ChatGPT 等在代码级别（例如实现功能）很有帮助。我仍然怀念强大的 AI 编码工具，它允许我大体上进行绘制，例如“设置 Next.js 项目”、“基于此 Figma 链接创建组件”、“实现功能 Y”。编写改变整个代码库的提示。  您是否已经将人工智能用于文档/测试/完成等经典工作或了解有前景的项目？   由   提交 /u/thusman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afy0mz/ai_code_assistance_on_project_level/</guid>
-      <pubDate>Thu, 01 Feb 2024 00:51:23 GMT</pubDate>
+      <title>拥有一个允许用户图像上传到 S3 的开源组合项目是一个坏主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag5o21/is_it_a_bad_idea_to_have_an_open_source_portfolio/</link>
+      <description><![CDATA[我有一个已经构建了一段时间的项目，我想将其放入我的投资组合中。 已通过身份验证用户可以上传个人资料图片，也可以将图片添加到他们的任何帖子中。我认为我已经安全地完成了所有工作，并确保我的后端限制文件大小、类型等，但我对 AWS 的经验并不丰富，而且你不知道你不知道什么...... 我担心的是，如果我在我的 github 上公开这个应用程序、部署它并将其放入我的投资组合中，我就会冒着它以某种方式被滥用并让我损失金钱的风险。并不是说我有任何理由认为任何人都会关心我的小应用程序，但我只是不知道炫耀一个允许用户上传的应用程序是否通常是不明智的，除非你真的要对待它就像真正的企业一样，并将其货币化，这样您就不会只是承担可能产生的任何成本。 无论如何，我怀疑是否有人会真正使用该应用程序，而且 AWS 成本将是几美分，但是再说一次，我只是不知道。 有人有什么建议吗？我还应该担心这个吗？或者机器人会按照我的应用程序行事并给我留下一百万美元的 AWS 账单吗？ 说真的，任何想法或建议都会受到赞赏。   由   提交/u/thesummerofgeorge  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag5o21/is_it_a_bad_idea_to_have_an_open_source_portfolio/</guid>
+      <pubDate>Thu, 01 Feb 2024 07:44:16 GMT</pubDate>
     </item>
     <item>
-      <title>从 Webpack 迁移到 Vite 有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afxzxv/advice_for_migrating_from_webpack_to_vite/</link>
-      <description><![CDATA[嘿，我一直在四处搜索，有很多关于这个主题的文章，但只是好奇这里的每个人都对此有何评论。 我是否最好从头开始构建一个 vite 项目，或者是否有一种简单/干净的方法通过更改一些文件和配置来移植现有项目？ 谢谢！ &lt; /div&gt;  由   提交/u/chris_ots  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afxzxv/advice_for_migrating_from_webpack_to_vite/</guid>
-      <pubDate>Thu, 01 Feb 2024 00:50:30 GMT</pubDate>
+      <title>.in 或 .net</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag4oas/in_or_net/</link>
+      <description><![CDATA[对于我的网站，类似于 letterboxd 和 IMDB，.in 或 .net 是更好的域名    由   提交/u/Otakuwale69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag4oas/in_or_net/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>设计面试 API 的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afxhbx/best_practices_for_designing_an_api_for_an/</link>
-      <description><![CDATA[我正在查看一些练习，并发现一家公司推出了一份带回家的练习。他们要求为有一些要求的银行应用程序设计一个 API。由于时间有限，他们并不期待完整的 API，而只是根据给定的需求测试实现情况以及代码编写得如何。这让我思考，如果我要这样做，我应该考虑哪些因素？我怎样才能脱颖而出并确保“好的代码”？和“良好实践” API的设计和代码本身的编写是如何实现的？ 我想象着可以添加Guards，Auth机制，禁用多个登录，让一个用户只能登录一个实例。但是我还可以做并考虑哪些其他事情？   由   提交 /u/HalalTikkaBiryani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afxhbx/best_practices_for_designing_an_api_for_an/</guid>
-      <pubDate>Thu, 01 Feb 2024 00:26:23 GMT</pubDate>
+      <title>缩小和压缩简单静态网站的最佳最简单方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag4l07/best_most_simple_way_to_minify_and_compress_a/</link>
+      <description><![CDATA[大家好，我有一个简单的网站，由一个 HTML 文件、一个 favicon、两个 CSS 文件（Bootstrap 和一个进行了一些单独调整的文件）组成），Bootstrap 的缩小版 JS 文件，Bootstrap 图标包，我用作字体和一个图像文件。有没有一种简单的方法来捆绑、缩小和压缩 CSS 文件、JS 文件，也许还有字体，这样只有我在网站中实际使用的部分被加载，而不是整个 Bootstrap 套件？到目前为止，我发现的唯一选择是使用 Webpack 或 Vite，在我看来，这太不相称了，因为它们是为成熟的 Web 应用程序设计的，而不是为一个简单的网站设计的。那么有人有更好的主意吗？   由   提交 /u/BenNordish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag4l07/best_most_simple_way_to_minify_and_compress_a/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:30:55 GMT</pubDate>
     </item>
     <item>
-      <title>你们公司有超额招聘吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afwpn1/did_your_company_over_hire/</link>
-      <description><![CDATA[我们都知道大型科技公司过度招聘，我听说被解雇的人是那些拥有高度专业技能的人（比如那些只专注于制作一个按钮），所以只是好奇这是否在行业中普遍存在。你的公司是其中之一并让员工离开吗？如果是的话，它对您的工作产生了重大影响吗？   由   提交 /u/JIsADev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afwpn1/did_your_company_over_hire/</guid>
-      <pubDate>Wed, 31 Jan 2024 23:52:06 GMT</pubDate>
+      <title>对于具有多种变体的 Shopify 产品，重新格式化 CSV 文件是个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag4jly/reformatting_csv_files_a_good_idea_for_shopify/</link>
+      <description><![CDATA[我想将批发网站上的 100 种产品放入我的网站上。为此，批发网站给了我一个 CSV 文件，用于将产品上传到 Shopify，但它们的格式错误，而且 Shopify 有 100 个变体限制，而且这些产品有很多变体。我现在有一个无限的变体选项 Shopify 应用程序来解决这个问题。我听说过一些解决方案，但希望能得到你们的帮助。  手动上传所有产品，然后手动将变体选项输入到我的无限选项应用程序中。这将非常耗时。 将 CSV 文件转换为正确的格式并将其上传到 Shopify，但不要有太多变体？然后将产品的变体输入到我的应用程序中。花费的时间少了一些，但不知道如何做到这一点？如果可行的话，有没有什么好方法可以重新格式化 CSV 文件？ 聘请开发人员将批发网站与我的网站集成，以便我可以输入他们的产品，甚至获得实时定价和库存情况。我已经与 Upwork 的开发人员进行了交谈，但不知道他们是否好，尽管他们有很好的评价。一个人说他可以绕过 100 个变体的限制，而另一个人说这是不可能的，所以我很困惑在花一大笔钱之前该相信谁。  你认为是什么最好的选择？或者也许有更好的选择？谢谢！   由   提交/u/Big_Seat2545   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag4jly/reformatting_csv_files_a_good_idea_for_shopify/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:28:32 GMT</pubDate>
     </item>
     <item>
-      <title>首选灯箱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afw1j1/preferred_lightbox/</link>
-      <description><![CDATA[我正在尝试制作一个灯箱，但我发现在线教程对我这个 JavaScript 初学者来说并没有多大帮助。 &lt; p&gt;有没有人遇到过类似的情况，并且知道任何现代方法/资源链接来为投资组合网站制作一个好的灯箱类型系统？ 谢谢！   由   提交 /u/ilovemodok   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afw1j1/preferred_lightbox/</guid>
-      <pubDate>Wed, 31 Jan 2024 23:23:18 GMT</pubDate>
+      <title>Django 还是 Spring Boot？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag4ehd/django_or_spring_boot/</link>
+      <description><![CDATA[我是一名应届毕业生，目前正在寻找工作。我的大部分经验涉及使用 React 进行前端开发，但我想学习后端框架。我之前用express构建过一些rest API，所以我想我了解基础知识。我正在考虑 spring boot，因为我看到很多工作都需要它，但我有点想给 Django 一个机会，因为我在 leetcode 中使用 python，并且我想在一些实际项目中使用我获得的 python 技能。我应该为了找工作而选择 Spring Boot，还是为了好玩而选择 Django？   由   提交 /u/CantStantTheWeather   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag4ehd/django_or_spring_boot/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:19:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何在没有额外后端的情况下使用 firebase 实现排行榜？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afvs9p/how_to_realise_a_leaderboard_with_firebase/</link>
-      <description><![CDATA[我的网站上有一个非常简单的 2D 游戏，我想实现一个在线排行榜。 玩家应该能够查看排行榜并添加他们的名字，无需任何注册。 我选择 firebase 作为后端，因此我不必担心自己的后端。 使用这样的安全吗？ firestore 数据库，每个人都可以在无需身份验证的情况下读取/写入？ 它不是一个专业项目，而是我的投资组合的项目。没有敏感数据（只有姓名和分数）。   由   提交 /u/kadaxda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afvs9p/how_to_realise_a_leaderboard_with_firebase/</guid>
-      <pubDate>Wed, 31 Jan 2024 23:12:32 GMT</pubDate>
+      <title>准确启动和停止</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag4be6/start_and_stop_accurately/</link>
+      <description><![CDATA[时间应在单击“旅程开始”按钮后开始，并在再次单击后停止。显示的时间应与数据库中的时间一致。 解决方案1 单击按钮发送POST 请求并开始计时。如果再次单击该按钮，则会发出另一个 POST 请求。 问题： 随着时间的推移，这将导致差异。也许计时器显示的是 30 分钟，但数据库中可能存储的是 32 分钟。 解决方案 2 如果单击该按钮，则会发送 POST 请求并提供日期和时间。然后 JavaScript 总是简单地计算差异。 问题 1.) 解决方案 2 不是一个好主意吗？解决方案2也会导致差异吗？什么会造成差异？2.) 还有哪些其他经过验证的、更准确的解决方案？这些天你如何解决类似的问题？   由   提交 /u/Stella_Hill_Smith   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag4be6/start_and_stop_accurately/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>noreply@domain.com 替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afv3p1/noreplydomaincom_alternatives/</link>
-      <description><![CDATA[我看过一些提倡反对使用无回复电子邮件的文章。就我个人而言，我不喜欢他们。然而，它们仍然非常受欢迎，并且几乎成为交易/自动电子邮件的标准，并被每个公司和网站使用。就电子邮件信誉而言，使用 noreply 电子邮件（历史记录除外）是否有原因？一些垃圾邮件过滤工具/黑名单是否处理 [noreply@domain.com](mailto: noreply@domain.com), [no-reply@domain.com](mailto:no-reply@domain.com）与例如不同[notifications@domain.com](mailto:notifications@domain.com &gt;), [bot@domain.com](mailto:bot@domain.com ）等？这些电子邮件的送达率是否比任何其他随机电子邮件地址更高（或可能更低？）？您希望如何命名您的电子邮件地址？ 编辑：这里有一篇文章讨论了为什么不使用无回复电子邮件的原因。 编辑 2：您认为在接受回复的电子邮件中使用 Reply-To 标头怎么样？ （如果您想为用户提供回复选项，但用于发送交易电子邮件的电子邮件地址不接受传入电子邮件。）   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afv3p1/noreplydomaincom_alternatives/</guid>
-      <pubDate>Wed, 31 Jan 2024 22:44:07 GMT</pubDate>
+      <title>游戏网络平台反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag45cf/feedback_on_gaming_webplatform/</link>
+      <description><![CDATA[ 由   提交/u/gtapstudio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag45cf/feedback_on_gaming_webplatform/</guid>
+      <pubDate>Thu, 01 Feb 2024 06:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个书签扩展，使用键盘快捷键来提高效率</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afuhqi/i_developed_a_bookmarks_extension_that_uses/</link>
-      <description><![CDATA[       由   提交/u/tamir_nakar  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afuhqi/i_developed_a_bookmarks_extension_that_uses/</guid>
-      <pubDate>Wed, 31 Jan 2024 22:18:57 GMT</pubDate>
+      <title>提供基于 WooCommerce 的平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag3kwl/offering_a_woocommerce_based_platform/</link>
+      <description><![CDATA[我们有许多客户来找我们寻找电子商务网站，我们通常选择的平台是 SaaS 解决方案，例如 Shopify。然而，对于许多这样的客户来说，这些应用程序增加了太多的成本，或者他们不喜欢笨重的后端界面，或者他们无法通过 Shopify 进行某些定制。  我们考虑过提供一个为您服务的平台（类似于按月付费网站模型），该网站是在该平台上构建的，但对 WooCommerce 进行了大量定制，因此 WordPress 管理界面仅限于电子商务功能，彻底修改用户界面，使其更加清晰，他们只看到他们需要的内容。因为这是一个托管解决方案，我们将在添加所需的插件后锁定插件（不同的价格点提供不同数量的集成/应用程序）。这主要是较小的客户，但我不确定这是否可以作为一个想法？   由   提交/u/dillonlawrence0101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag3kwl/offering_a_woocommerce_based_platform/</guid>
+      <pubDate>Thu, 01 Feb 2024 05:31:04 GMT</pubDate>
     </item>
     <item>
-      <title>我在 Astro 中做错了什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aftzaf/what_did_i_do_wrong_in_astro/</link>
-      <description><![CDATA[我是 James Q Quick 的菜鸟和粉丝，所以我想在我的 VS Code 中查看他的个人网站存储库。但是当我运行 npm run dev 时，出现错误。他是完美的，所以一定是我搞砸了。 我已经尝试了一切，我问困惑的副驾驶，说可能是 mac 斜线 / vs windows 斜线 \（我有一个 Windows）。但我看不出错误的斜杠在哪里。然后我注意到错误有一个“n”节点中缺失。也许有一个错字，但我找不到它。我已经在 Node v 20 中尝试过，然后降级到 18.4。在他的另一个仓库中，我注意到其中一张图片丢失了，只显示了白色的覆盖层。但这个网站甚至没有在本地主机中显示。 这是错误： [ERROR] [vite] 内部服务器错误：无法解析导入＆quot;C:Users8DocumentsWebsitepersonal-blog  ode_modules@spotlightjsastrosrcoverlayindex.ts”来自“astro：dev-overlay”。文件是否存在？ 插件：vite:import-analysis 文件：astro:dev-overlay:3:29 2 |导出 const loadDevOverlayPlugins = async () =&gt; { 3 |返回 [(await import(&#39;C:\Users\8\Documents\Website\personal-blog\node_modules\@spotlightjs\astro\src\overlay\index.ts&#39;)).default];  | ^ 4 | }; 5 | at formatError (file:///C:/Users/8/Documents/Website/personal-blog/node_modules/astro/node_modules/vite/dist /node/chunks/dep-YJaePtkC.js:63007:46) at TransformContext.error (file:///C:/Users/8/Documents/Website/personal-blog/node_modules/astro /node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:63001:19) 位于 normalizeUrl (file:///C:/Users/8/Documents/Website/personal-blog /node_modules/astro/node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:61282:33) 在 process.processTicksAndRejections (node:internal/process/task_queues:95:5)&lt; /p&gt; 在异步文件:///C:/Users/8/Documents/Website/personal-blog/node_modules/astro/node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:61432： 47 在异步Promise.all（索引0） 在异步TransformContext.transform（file:///C:/Users/8/Documents/Website/personal-blog/ node_modules/astro/node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:61353:13) at async Object.transform (file:///C:/Users/8/Documents /Website/personal-blog/node_modules/astro/node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:63302:30) at async loadAndTransform (file:///C:/ Users/8/Documents/Website/personal-blog/node_modules/astro/node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:49045:29) at async viteTransformMiddleware (文件:/ //C:/Users/8/Documents/Website/personal-blog/node_modules/astro/node_modules/vite/dist/node/chunks/dep-YJaePtkC.js:58643:32) &lt; !-- SC_ON --&gt;  由   提交 /u/harderisbetter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aftzaf/what_did_i_do_wrong_in_astro/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:58:05 GMT</pubDate>
+      <title>有谁知道有一个 API 可以根据常用词获取歌曲吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag2j2k/does_anyone_know_of_an_api_that_can_fetch_songs/</link>
+      <description><![CDATA[我正在寻找一个 API，它允许我提供用户输入的单词并返回具有匹配单词的歌曲标题列表。有什么想法吗？   由   提交 /u/Krispenedladdeh542   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag2j2k/does_anyone_know_of_an_api_that_can_fetch_songs/</guid>
+      <pubDate>Thu, 01 Feb 2024 04:33:40 GMT</pubDate>
     </item>
     <item>
-      <title>域名购买/托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afttjz/domain_buyinghosting/</link>
-      <description><![CDATA[您好，很抱歉又问了一个随机问题。是在构建网站之前购买域名然后寻找托管它的地方更好还是从提供托管的网站构建器购买域名更好？   由   提交 /u/DINGGRAYS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afttjz/domain_buyinghosting/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:51:35 GMT</pubDate>
+      <title>承包商加班？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag283g/overtime_for_contractors/</link>
+      <description><![CDATA[我觉得自己在工作中被宠坏了，但我想找一份薪水更高的工作，目前我是一家公司的员工。 这让我担心作为承包商的工作。只要我得到公平的报酬，我加班就没有任何问题，当我必须缴纳自己的税时，那么报酬必须是公平的。 这是一家美国公司，但我我很好奇这对于承包商来说是否正常，以及作为承包商的你们如何处理这个问题？   由   提交/u/Limp_Flatworm_1832   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag283g/overtime_for_contractors/</guid>
+      <pubDate>Thu, 01 Feb 2024 04:17:16 GMT</pubDate>
     </item>
     <item>
-      <title>我从未制作过网站，每次尝试都让我感觉自己快疯了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aftpfi/i_have_never_made_a_website_and_every_time_i_try/</link>
-      <description><![CDATA[有其他人经历过这种感觉吗？您是如何克服的？每次尝试使用 Webflow 时，我都感觉自己像公交车上的小丑，尽管它看起来并不那么难。   由   提交 /u/TheJokerCharacterArc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aftpfi/i_have_never_made_a_website_and_every_time_i_try/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:46:51 GMT</pubDate>
+      <title>顺风顺风？？？？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag1uii/tailwind/</link>
+      <description><![CDATA[人们是否真正使用 Tailwind CSS，如果是的话，为什么使用它而不是常规 CSS，以及您使用它对“清洁”有什么好处？你的代码。它看起来有点挑剔和过度，但我想了解为什么人们会选择顺风而不是普通 CSS。 tysm &lt;3   由   提交 /u/Ok-Title-9652   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag1uii/tailwind/</guid>
+      <pubDate>Thu, 01 Feb 2024 03:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>网站建立后如何/在哪里启动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afszg5/howwhere_to_launch_website_once_built/</link>
-      <description><![CDATA[所以我用 JavaScript/html/css 制作了一个网站，我想将其公开以便人们可以使用它。它使用 JS 调用 Spotify API 并获取一些信息并显示它。  我想将其公开（这最终需要 Spotify 让我退出开发者模式，但这是另一个问题），但我有点不知道在哪里托管/如何设置它。  现在，它向 Spotify 发出 Oauth 请求，我将该访问令牌存储在本地存储中。然后我进行一些简单的 API 调用并显示数据。这是否需要专用后端/重组才能连接到后端？我不确定这是否仍然构成静态网站。我正在考虑使用 firebase，但我不确定这是否仅适用于静态网页。如果是这样，最便宜/最简单的方法是什么？ 将访问令牌存储在本地存储中是否不安全？   由   提交/u/BlindHorse12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afszg5/howwhere_to_launch_website_once_built/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:17:41 GMT</pubDate>
+      <title>顺风顺风？？？？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag1ui6/tailwind/</link>
+      <description><![CDATA[人们是否真正使用 Tailwind CSS，如果是的话，为什么使用它而不是常规 CSS，以及您使用它对“清洁”有什么好处？你的代码。它看起来有点挑剔和过度，但我想了解为什么人们会选择顺风而不是普通 CSS。 tysm &lt;3   由   提交 /u/Ok-Title-9652   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag1ui6/tailwind/</guid>
+      <pubDate>Thu, 01 Feb 2024 03:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>对单个域使用多个电子邮件提供商是否会损害声誉（列入黑名单）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afsz10/is_using_multiple_email_providers_for_a_single/</link>
-      <description><![CDATA[假设我有一个网站 website.com 并使用 Gmail电子邮件地址为 [support@website.com](mailto:support@website. com），但随后我使用 Mailgun 发送来自 [notifications@website.com](mailto:notifications@website.com），还有 Mailchimp for [marketing@campaign.website.com ](mailto:marketing@website.com) 等。基本上，同一域和子域上的不同邮件服务器提供商使用不同的电子邮件服务器。这是否会降低声誉和/或使 website.com 由于使用多个电子邮件提供商而显得不那么合法，并使从 @&lt; 发送的电子邮件a href=&quot;https://website.com&quot;&gt;website.com 或 @sudomain.website.com 最终进入垃圾邮件文件夹或完全退回？ 我想尝试一些电子邮件在我与其中一到两个提供商安顿下来之前，我会先咨询他们，但不想冒险。使用多个电子邮件提供商的另一个原因可能是每个提供商都有自己的优势，因此每个提供商可用于不同类型的电子邮件地址。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afsz10/is_using_multiple_email_providers_for_a_single/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:17:13 GMT</pubDate>
+      <title>🌟 电子商务网站开发：终极指南 🌟 在当今的数字环境中，您的电子商务网站可以改变游戏规则。以下是如何让您的品牌脱颖而出：🛠️ 建立您的品牌：定义...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag1tu8/ecommerce_website_development_the_ultimate_guide/</link>
+      <description><![CDATA[       由   提交 /u/Chris-t-fire   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag1tu8/ecommerce_website_development_the_ultimate_guide/</guid>
+      <pubDate>Thu, 01 Feb 2024 03:57:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
