@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 01 Feb 2024 03:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 06:16:18 GMT</lastBuildDate>
+    <item>
+      <title>🌟 电子商务网站开发：终极指南 🌟 在当今的数字环境中，您的电子商务网站可以改变游戏规则。以下是如何让您的品牌脱颖而出：🛠️ 建立您的品牌：定义...</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag1tz0/ecommerce_website_development_the_ultimate_guide/</link>
+      <description><![CDATA[ 由   提交 /u/Chris-t-fire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag1tz0/ecommerce_website_development_the_ultimate_guide/</guid>
+      <pubDate>Thu, 01 Feb 2024 03:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 中的泛型和类型擦除</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag1oia/generics_type_erasure_in_java/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag1oia/generics_type_erasure_in_java/</guid>
+      <pubDate>Thu, 01 Feb 2024 03:49:16 GMT</pubDate>
+    </item>
     <item>
       <title>隐藏和显示鼠标光标以及从程序内置的功能部分导入“鼠标悬停”和“鼠标移出”类型的鼠标功能的方法</title>
       <link>https://www.reddit.com/r/programming/comments/1ag0k9w/hiding_and_displaying_the_mouse_cursor_and_ways/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>Rust 中的缓存基准测试</title>
       <link>https://www.reddit.com/r/programming/comments/1afr90i/benchmarking_caches_in_rust/</link>
-      <description><![CDATA[ 由   提交 /u/not-matthias   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/not-matthias  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1afr90i/benchmarking_caches_in_rust/</guid>
       <pubDate>Wed, 31 Jan 2024 20:07:53 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1afq9xx/ksql/</guid>
       <pubDate>Wed, 31 Jan 2024 19:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>良好代码审查的艺术</title>
-      <link>https://www.reddit.com/r/programming/comments/1afq9vp/the_art_of_good_code_review/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afq9vp/the_art_of_good_code_review/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:28:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>nix-direnv 是生活质量的巨大改善</title>
-      <link>https://www.reddit.com/r/programming/comments/1afq9ut/nixdirenv_is_a_huge_quality_of_life_improvement/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1afq9ut/nixdirenv_is_a_huge_quality_of_life_improvement/</guid>
-      <pubDate>Wed, 31 Jan 2024 19:28:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
