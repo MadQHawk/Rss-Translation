@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 31 Jan 2024 21:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 03:12:59 GMT</lastBuildDate>
+    <item>
+      <title>自动化可以帮助我下床吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ag0o4o/automation_to_help_me_stay_out_of_bed/</link>
+      <description><![CDATA[问题 你好，我的多动症、抑郁症和在家办公的组合造成了一个严重的问题问题：我经常躺在床上。起床后在床上徘徊、吃饭/在床上看电视、小睡、工作和/或从床上滚下来，我一天中很大一部分时间都在床上。  专家表示，床应该只用于性和睡眠。我知道，每次白天我在床上疲惫不堪时，我的生物钟和睡眠线索都会混乱。然而，我就是停不下来。 我希望当它在预定的时间/例程中检测到我躺在床上时发出某种警报——例如；上午 11 点至晚上 9 点之间。上午 11 点之后，闹钟会提醒我现在应该离开床，然后阻止我在晚上 9 点之前回到床上。 我的需求：  计划/定时器/例行程序功能，以便闹钟仅在特定时间之间运行，并且该例程每天都会重复。 连接到扬声器的声音警报（不仅仅是智能手机 ping） /短信/闹钟，从我的 iPhone 本身播放）。最好，这不容易手动暂停/忽略，但一旦我不再“检测到”，它就会自动关闭。闹钟应该很烦人，但不要刺耳/令人恐惧（我和室友住在一起）。 “警报”选项越多越好 - 理想情况下，我想选择/上传我自己的 MP3、录制我自己的声音并发出温和的提醒、播放音乐或其他不会造成创伤的警报音。内置音量控制将是理想的选择，这样我在设置时就可以灵活地进行设置。  我的偏好：  A当我躺在床上时，探测器会探测到我；但当我刚刚经过卧室时，比如从衣柜或抽屉里拿东西、穿衣服或在地板上做伸展运动时，不会发现我。因此，非常短距离/局部、有角度的范围（不是 360 度）或“绊线”型探测器似乎效果最好。 初始成本低，无需订阅费。  li&gt; 安装所需购买的附加组件最少（我没有任何智能集线器）。  ---------------- -------------------------------------------------- -------------------------------------------------- --------------------------------------解决方案 我做了很多研究的结果让我感到困惑/不知所措，因为我以前从未涉足过智能家居设备。我遇到的一些选项：  重量/压力传感器（垫在床垫下的垫子）- 问题：大多数高级/管理员压力传感器垫会检测到重量何时被移除，即有人离开床。我还没有发现任何可以检测体重何时增加（即有人上床）的传感器。 接触传感器 - 问题：一旦绊倒，我每次都必须手动重置。另外，这种形式似乎不太可能与调度功能兼容。 声音检测器 - 问题：我在研究中确实对此了解不多，但也许我可能会听到沙沙声/声音进入床单会触发警报吗？但是，如果我只是经过我的卧室或打开我的衣柜，则不太可能分辨出差异。 运动探测器（摄像头）- 问题：我不喜欢这个主意由于黑客攻击，我的卧室里录制了许多视频文件，而且我根本不需要看这些视频。 运动检测器（光/红外）- 问题：这似乎是最好的格式，但我有很难找到一个能够满足我的两种需求，更不用说上面列出的我的偏好^^  -------------------- -------------------------------------------------- -------------------------------------------------- ----------------------------------请阅读 我有各种心理健康状况，这些状况会养成习惯-打破困难，所以我对听到诸如“只要有更多的自我控制力”之类的替代建议不感兴趣。 “让你楼下的桌子更有吸引力，”或“停止在家工作”。  请善待。我衷心感谢您提供的任何指导、链接、产品名称或教程。   由   提交/u/Fast_Ad7500   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ag0o4o/automation_to_help_me_stay_out_of_bed/</guid>
+      <pubDate>Thu, 01 Feb 2024 02:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>有多少人工智能自动化可以通过 Nocode 实现？</title>
+      <link>https://www.reddit.com/r/automation/comments/1afz6go/how_much_of_this_ai_automation_is_doable_with/</link>
+      <description><![CDATA[找到此 AI 自动电子邮件流程 非常惊人。我知道人工智能起草回复的核心功能相当简单，无需代码，但其余的功能有多少是可能的呢？  特别是，使用您的电子邮件数据库微调模型，以便它了解您的写作风格以及过去类似回复中关于您的一些知识。  我知道不存在代码微调平台，但它在没有代码的情况下将大量数据放入 csv 中，这让我特别困惑。 &lt;!-- SC_ON - -&gt;  由   提交/u/The-Road  /u/The-Road  reddit.com/r/automation/comments/1afz6go/how_much_of_this_ai_automation_is_doable_with/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1afz6go/how_much_of_this_ai_automation_is_doable_with/</guid>
+      <pubDate>Thu, 01 Feb 2024 01:46:22 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能和自动化项目组合网站 - 对招聘有用？？？</title>
       <link>https://www.reddit.com/r/automation/comments/1afm13i/ai_automation_projects_portfolio_website_useful/</link>
@@ -13,39 +27,11 @@
       <pubDate>Wed, 31 Jan 2024 16:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>教程：使用自动化将 Instagram 帐户增加到 10 万</title>
-      <link>https://www.reddit.com/r/automation/comments/1af2hm5/tutorial_growing_an_instagram_account_to_100k/</link>
-      <description><![CDATA[   /u/wildkarrde  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1af2hm5/tutorial_growing_an_instagram_account_to_100k/</guid>
-      <pubDate>Tue, 30 Jan 2024 23:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 API 将 Facebook 帖子分享到 Facebook 群组时遇到问题吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1aean7b/having_problem_to_share_facebook_posts_to/</link>
-      <description><![CDATA[       由   提交/u/tys203831   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1aean7b/having_problem_to_share_facebook_posts_to/</guid>
-      <pubDate>Tue, 30 Jan 2024 00:14:35 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用移动 otp 或使用 MS 验证器应用程序自动化 Microsoft 2FA？</title>
       <link>https://www.reddit.com/r/automation/comments/1adyr6r/how_to_automate_microsoft_2fa_using_mobile_otp_or/</link>
       <description><![CDATA[当我点击项目 URL 时，系统会要求我使用 Microsoft 凭据登录。输入有效凭据后，一条 OTP 消息将发送到我的手机。使用 MS 验证器应用程序还有一个身份验证选项，我需要输入显示的 2 位代码 如何使用带有 JS 的 playwright 自动执行此场景？   由   提交 /u/naturally_nivi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1adyr6r/how_to_automate_microsoft_2fa_using_mobile_otp_or/</guid>
       <pubDate>Mon, 29 Jan 2024 16:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoWP V2 - 自动化您的 WordPress</title>
-      <link>https://www.reddit.com/r/automation/comments/1abvmbc/autowp_v2_automate_your_wordpress/</link>
-      <description><![CDATA[再次嗨 在我之前的帖子中：链接 我介绍了自动将内容发布到 WordPress 网站的程序。并且用户可以安排发布时间来无限期地运行程序。 在此版本中，我添加了以下功能：  社交媒体集成（目前为 Facebook）：该程序将总结文章并为其添加主题标签，然后将其与文章链接一起发布到您的 Facebook 页面。  水印集成：您可以在将生成/报废的图片添加到文章中之前为其添加水印。  语气选择：您现在可以选择生成文章时使用的语气。  &lt; p&gt;您可以在此处查看该计划：https://www.youtube.com/watch?v=ExCj5r_0xcI&lt; /a&gt;   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1abvmbc/autowp_v2_automate_your_wordpress/</guid>
-      <pubDate>Fri, 26 Jan 2024 22:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoWP V1 - 自动化您的 WordPress</title>
-      <link>https://www.reddit.com/r/automation/comments/19evim6/autowp_v1_automate_your_wordpress/</link>
-      <description><![CDATA[昨天我发布了一个名为 AutoWP 的新程序，它将帮助您自动化将文章发布到 WordPress 网站的过程。 阅读帖子此处：链接  今天我设法在文章中集成图像以及。现在，用户可以选择在文章中生成和使用多少图像，段落间发布的准确度为 85%。每篇文章中的图像都会有所不同。  图像可以使用 DALL-E 3 生成，也可以从 Pixabay、Unsplash 和 Pexels 中删除。  AutoWP 实际应用 https://youtu.be/zyPUQQRHVuM   由   提交 /u/Bropocalypse_Team   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/19evim6/autowp_v1_automate_your_wordpress/</guid>
-      <pubDate>Thu, 25 Jan 2024 00:02:20 GMT</pubDate>
     </item>
     <item>
       <title>抓取商业信息</title>
@@ -104,11 +90,25 @@
       <pubDate>Wed, 17 Jan 2024 21:29:45 GMT</pubDate>
     </item>
     <item>
+      <title>新加入者 - 访问自动消息</title>
+      <link>https://www.reddit.com/r/automation/comments/19788iz/new_joiners_access_auto_message/</link>
+      <description><![CDATA[我会在这里尽量简短。  目前的情况：如果我们有新员工，HR 会与 IT 部门共享姓名，为他们创建电子邮件，并允许他们访问我们正在使用的 OSS 应用程序，并且会有基本的信息他们将需要的系统。前任;票务系统 - 人力资源系统 - 松弛 - 缩放  想法：我们希望自动化这个过程。也许将 OSS 与我们的数据仓库集成，并设置一个触发器，每当我们有新员工时，它就会自动创建帐户。并且根据可能性级别，访问权限将有所不同：管理员 - 查看者 - .. 等 这可能吗？如果是，有哪些工具可以帮助我实现目标？   由   提交/u/Fuzzy-Example-7326   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/19788iz/new_joiners_access_auto_message/</guid>
+      <pubDate>Mon, 15 Jan 2024 13:03:39 GMT</pubDate>
+    </item>
+    <item>
       <title>为什么人工智能不会造成大规模失业</title>
       <link>https://www.reddit.com/r/automation/comments/1977crb/why_ai_wont_create_mass_unemployment/</link>
-      <description><![CDATA[当人类学会以更廉价和持续的方式生产食物时，除了少数农民之外，每个人都失业了吗？不，相反，我们吃得太多了。我们在物质上也变得更加雄心勃勃，利用额外的时间和精力创办更复杂、更豪华的企业。 蒸汽机、电动机和内燃机使得从世界各地获取物品变得更便宜、更快捷。从世界到我们的房屋，我们现在每周出行的距离是否比我们的祖先 250 年前减少了？离得很远！我们会在半小时内走完一整天的路，却觉得这没什么。 有了比一百年前更节能的灯泡，我们每个家庭的用电量是否会比那时更少？ &lt;随着计算机的每瓦特和每美元的性能越来越强大，而且是天文数字，我们是否减少了它们的产量？现在使用计算机的人数比 60 年前少吗？ 当然不是。当我们学会更有效地使用资源时，我们最终会使用更多而不是更少。这是因为我们（广义上）不会尝试生产和完成我们*需要*的东西，我们尝试生产和完成我们*想要*的东西，这是一口非常深的井（更不用说移动的井）  当人工智能变得强大到足以完成大多数当前工作时，大多数新工作将成为某种形式：为了人类利益而指导、审查和协调智能机器团队。他们越聪明，你完成的任务就越多，但不幸的是，你的工作时间不会因此而缩短，因为雇用你的公司在其使命宣言或销售目标中没有任何地方有“足够”这个词。越多越好，当然，你必须跟上竞争的步伐。 就业和工资水平更多地是一个政治问题，而不是一个技术问题。 8小时工作日、最低工资和周末并不是因为工厂增加了产量而出现的。 所以习惯于与人工智能交谈，你会经常这样做。 &lt; /div&gt;  由   提交 /u/StrategicHarmony   [链接] [评论]]]></description>
+      <description><![CDATA[当人类学会以更廉价和持续的方式生产食物时，除了少数农民之外，每个人都失业了吗？不，相反，我们吃得太多了。我们在物质上也变得更加雄心勃勃，利用额外的时间和精力创办更复杂、更豪华的企业。 蒸汽机、电动机和内燃机使得从世界各地获取物品变得更便宜、更快捷。从世界到我们的房屋，我们现在每周出行的距离是否比我们的祖先 250 年前减少了？离得很远！我们会在半小时内走完一整天的路，却觉得这没什么。 有了比一百年前更节能的灯泡，我们每个家庭的用电量是否会比那时更少？ &lt;随着计算机的每瓦特和每美元的性能越来越强大，而且是天文数字，我们是否减少了它们的产量？现在使用计算机的人数比 60 年前少吗？ 当然不是。当我们学会更有效地使用资源时，我们最终会使用更多而不是更少。这是因为我们（广义上）不会尝试生产和完成我们*需要*的东西，我们尝试生产和完成我们*想要*的东西，这是一口非常深的井（更不用说移动的井）  当人工智能变得强大到足以完成大多数当前工作时，大多数新工作将成为某种形式：为了人类利益而指导、审查和协调智能机器团队。他们越聪明，你完成的任务就越多，但不幸的是，你的工作日不会因此而缩短，因为雇用你的公司在其使命宣言或销售目标中没有任何地方有“足够”这个词。越多越好，当然，你必须跟上竞争的步伐。 就业和工资水平更多地是一个政治问题，而不是一个技术问题。 8小时工作日、最低工资和周末并不是因为工厂增加了产量而出现的。 所以习惯于与人工智能交谈，你会经常这样做。 &lt; /div&gt;  由   提交 /u/StrategicHarmony   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1977crb/why_ai_wont_create_mass_unemployment/</guid>
       <pubDate>Mon, 15 Jan 2024 12:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>非常具体的问题</title>
+      <link>https://www.reddit.com/r/automation/comments/196tkfa/very_specific_question/</link>
+      <description><![CDATA[场景：我想在 YouTube 上发布剪辑。有时，这些剪辑是由病毒剪辑媒体公司授权的。 YouTube 不会自动检测到这一点，如果媒体公司看到它，他们最终会将其删除，我会收到版权警告。 那么，有没有一种方法可以自动执行这些检查过程公司搜索数据库以查看某个剪辑是否获得许可？ 例如，如果我上传视频、视频截图，甚至是关键字，是否有任何内容可以返回搜索结果，以便我可以看看这些公司是否真的拥有该视频？ 抱歉，如果这是一个糟糕的解释   由   提交/u/Free_Pain4060   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/196tkfa/very_specific_question/</guid>
+      <pubDate>Sun, 14 Jan 2024 23:24:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
