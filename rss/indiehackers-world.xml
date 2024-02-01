@@ -4,7 +4,48 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 01 Feb 2024 18:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 21:11:35 GMT</lastBuildDate>
+    <item>
+      <title>我终于让我的登陆页面适合移动设备</title>
+      <link>https://feed.indiehackers.world/post/d9418d5472</link>
+      <description><![CDATA[
+尝试将浏览器窗口设置为比正常显示器宽度又高又窄。它应该以一种在每个宽度上至少看起来都不错的方式动态调整。
+任何登陆页面烘焙也总是受欢迎的。
+如果您能猜出为什么域名是“infaq”，则可获得奖励分。 :)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d9418d5472</guid>
+      <pubDate>Thu, 01 Feb 2024 21:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我搁置了一个“很棒”的功能：EchoTalent 策略重新思考</title>
+      <link>https://feed.indiehackers.world/post/92f96e34d9</link>
+      <description><![CDATA[今天标志着向集中改进的转变——一个不太明显但影响深远的阶段。它注重细节，将用户体验从良好提升到卓越。作为一家灵活的初创公司，我们拥有独特的优势，能够在不让用户普遍感到沮丧的情况下调整、完善和完善我们的产品。
+在这段专注增强的旅程中，您的见解和经验非常宝贵。您是否在扩展功能和完善产品之间遇到过类似的困境？您是如何做出这些决定的？
+我们非常欢迎您提出想法、故事和问题。在这个社区中，我们可以一起分享、学习和成长。 #ProductFocus #AIResumeBuilder #CareerNavigator #AICoverLetter #EchoTalent
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/92f96e34d9</guid>
+      <pubDate>Thu, 01 Feb 2024 18:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要使用价格作为主要的差异化因素。个人失败的教训。</title>
+      <link>https://feed.indiehackers.world/post/204a015060</link>
+      <description><![CDATA[使您的服务/产品便宜不应该是您唯一的竞争优势。 
+我们都知道这一点，但我仍然很难学会它。 
+当我们开始第一个业务时，我们认为以 1% 的费用提供招聘服务是明智的主意（而其他人收取 15-20% 的费用）
+我们印有百分号的 T 恤，并参加了提供我们服务的会议。 
+正如你所猜到的，事实证明这是一个糟糕的策略😬
+伟大的公司并没有认真对待我们。我们签署的协议结果证明是一场灾难。 
+尝试寻找其他能让您与竞争对手区分开来的东西：
+质量
+客户服务
+用户体验/用户界面
+利基用例
+技术
+不是价格💲
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/204a015060</guid>
+      <pubDate>Thu, 01 Feb 2024 18:24:32 GMT</pubDate>
+    </item>
     <item>
       <title>所以我安排了在 Product Hunt 上的发布。怎么办？</title>
       <link>https://feed.indiehackers.world/post/80d5407e83</link>
@@ -78,7 +119,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Thu, 01 Feb 2024 17:22:51 GMT</pubDate>
     </item>
     <item>
-      <title>我在旅途中犯过的最尴尬的错误</title>
+      <title>不要犯我在旅途中犯过的同样令人尴尬的错误</title>
       <link>https://feed.indiehackers.world/post/4c6dff2e32</link>
       <description><![CDATA[随着 Halisi 的成长，我也在成长。每一天都会带来新的挑战，但也有新的学习和提高的机会。从塔莱滕到哈利西的旅程不仅仅是一个项目的故事；更是一个故事。这是一个关于个人成长、毅力和对梦想不懈追求的故事。在初创公司的世界里，成功并不能保证，但凭借经验、洞察力和不屈的精神，我已做好准备，驾驭科技世界不断变化的潮流。
 在您离开之前，我将把这个“公共建筑”带入您的视野。认真地并希望我正在朝着正确的方向迈出一步。请查看我们的登陆页面并给我们留下反馈https://halisiai.com/来帮助我们。我们很快就会为前 100 位用户推出测试版。
@@ -150,37 +191,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/94c7d89bfd</guid>
       <pubDate>Thu, 01 Feb 2024 14:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[AMA] AppSumo 创始人、《百万美元周末》作者💚🫰</title>
-      <link>https://feed.indiehackers.world/post/183fe059fe</link>
-      <description><![CDATA[Hola 黑客👋
-喜欢回答有关发展软件业务的问题。 
-您可能知道我们创建的一些业务：AppSumo.com（8000 万美元/年）、TidyCal.com、KingSumo.com、SendFox.com、Monthy1k（都是 7 位数的业务）。
-以下是我构建的一些失败项目的列表：shortysms、softwaretaco、hauldrop、rewardlevel、sumo-market、sumome、freecallsto、emailbadge、百万美元电子邮件模板、ssleepybio、metfam、betacade 等等。 
-今天发布了一本关于如何做到这一点的书：MillionDollarWeekend.com
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/183fe059fe</guid>
-      <pubDate>Thu, 01 Feb 2024 13:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>乔·伯里尔 (Joe Burrill) 如何建立职业买卖网站</title>
-      <link>https://feed.indiehackers.world/post/7e8ae530d5</link>
-      <description><![CDATA[本文最初发表于 FlipMySite.com。如果您喜欢它，请查看其他企业家的故事，例如 Spencer Patterson 和 奥列格·加利耶夫。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7e8ae530d5</guid>
-      <pubDate>Thu, 01 Feb 2024 13:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 1/2 年前，我在 Indie Hackers 上认识了我的联合创始人。超过 100 万美元的 ARR 后，我们现在终于见面了</title>
-      <link>https://feed.indiehackers.world/post/e69cb354e9</link>
-      <description><![CDATA[https://x.com/mynameis_davis/status/1751254331326632406?s=20
-
-由于独立黑客论坛，我和维沙尔的生活发生了永远的改变。所以我们将永远感激@csallen和@channingallen🙏
-PS 我们还将在下周左右宣布推出新的 SaaS。如果您想了解更多信息，请在 IH 或 X (https://twitter.com/mynameis_davis) 上关注我
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e69cb354e9</guid>
-      <pubDate>Thu, 01 Feb 2024 12:20:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
