@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 01 Feb 2024 09:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 12:21:37 GMT</lastBuildDate>
+    <item>
+      <title>您想在终端上看电影吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag9lp3/do_you_want_to_watch_a_movie_in_your_terminal/</link>
+      <description><![CDATA[ 由   提交/u/Appressive_Bit7392   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag9lp3/do_you_want_to_watch_a_movie_in_your_terminal/</guid>
+      <pubDate>Thu, 01 Feb 2024 12:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>建筑人工智能：它真的有效吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag956p/ai_for_architecture_does_it_even_work/</link>
+      <description><![CDATA[ 由   提交/u/rahul_ramteke  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag956p/ai_for_architecture_does_it_even_work/</guid>
+      <pubDate>Thu, 01 Feb 2024 11:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>StoreChatGPT - 2024 年产品信息、最新更新和评论 |产品搜索</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag8ko0/storechatgpt_product_information_latest_updates/</link>
+      <description><![CDATA[ 由   提交 /u/remoteyep   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag8ko0/storechatgpt_product_information_latest_updates/</guid>
+      <pubDate>Thu, 01 Feb 2024 11:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>KCL 双周通讯 | v0.7.5 发布并与 GitOps 集成 Flux</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag8ada/kcl_biweekly_newsletter_v075_released_and_flux/</link>
+      <description><![CDATA[ 由   提交/u/Peefy-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag8ada/kcl_biweekly_newsletter_v075_released_and_flux/</guid>
+      <pubDate>Thu, 01 Feb 2024 10:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>透明大页 (THP) 简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag7zh8/introduction_to_transparent_hugepage_thp/</link>
+      <description><![CDATA[ 由   提交/u/grzybo93  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag7zh8/introduction_to_transparent_hugepage_thp/</guid>
+      <pubDate>Thu, 01 Feb 2024 10:30:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 2024 年 1 月</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag7v1r/visual_studio_code_january_2024/</link>
+      <description><![CDATA[ 由   提交/u/dwaxe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag7v1r/visual_studio_code_january_2024/</guid>
+      <pubDate>Thu, 01 Feb 2024 10:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>CheerpJ 3.0：用于在浏览器中运行实际应用程序的 WebAssembly JVM</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag7goi/cheerpj_30_a_webassembly_jvm_to_run_realworld/</link>
+      <description><![CDATA[ 由   提交/u/alexp_lt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag7goi/cheerpj_30_a_webassembly_jvm_to_run_realworld/</guid>
+      <pubDate>Thu, 01 Feb 2024 09:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>这位 15 岁的建筑商正在平衡学校和 2 家 SaaS 企业。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ag74br/this_15yearold_builder_is_balancing_school_and_2/</link>
+      <description><![CDATA[ 由   提交 /u/cryptonaresh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ag74br/this_15yearold_builder_is_balancing_school_and_2/</guid>
+      <pubDate>Thu, 01 Feb 2024 09:27:30 GMT</pubDate>
+    </item>
     <item>
       <title>视觉效果图（Unity）学习（第1部分）</title>
       <link>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/Accomplished_Link647   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ag5hat/developer_productivity_metrics_really_interesting/</guid>
       <pubDate>Thu, 01 Feb 2024 07:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新思考前端开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag5dk3/rethinking_frontend_development/</link>
-      <description><![CDATA[我是一名 Angular 开发人员，最近开始涉足各种技术，例如 React、Next.JS、Qwik... 和 htmx。尽管如此，在没有详细探索 htmx 的情况下，我正在写一些我认为在基于 JS 的现代前端开发中可能出现的错误。   由   提交 /u/haasilein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag5dk3/rethinking_frontend_development/</guid>
-      <pubDate>Thu, 01 Feb 2024 07:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关为 AWS 站点到站点 VPN 配置 StrongSwan 的详细教程。它包括分步说明、安全实践和故障排除提示，以实现本地网络和 AWS 之间的稳健连接。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag4yxu/a_detailed_tutorial_on_configuring_strongswan_for/</link>
-      <description><![CDATA[ 由   提交/u/Vasilkosturski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag4yxu/a_detailed_tutorial_on_configuring_strongswan_for/</guid>
-      <pubDate>Thu, 01 Feb 2024 06:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>2022年至2024年1月31日，457,000名技术员工被解雇</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag4xll/457000_technology_employees_laid_off_2022_january/</link>
-      <description><![CDATA[你好，r/programming 你是过去两年被解雇的数十万人中的一员吗？ 科技公司在帕尼尼期间过度招聘后利润下降。 🥪🤒😷💻👨‍💻📊 轶事，但我开始频繁谈论遣散费。你们中的一些人在美国真的很僵硬。我觉得随着未来几年现金技术的发展，我们可以通过讨价还价获得更好的福利，包括解雇时的遣散费。 你考虑过成立工会吗？  您是否曾与科技界的其他人谈论过科技工会？我问了我圈子里的一小部分软件工程师，总的来说，我听到的大多是“我会加入一个工会，但我认为没有人愿意尝试建立一个工会。”这有多真实？ 您认为加入工会的好处和坏处是什么？您的组织有多少员工？ 我会开始 - 我认为成立工会是在同事之间建立社区并为组织文化做出有意义贡献的潜在途径。这是让我感兴趣的众多事情之一（金钱真的让我很感兴趣，ngl）。我目前不觉得自己是“社区的一部分”。在这个行业，尤其​​是现在远程工作的新复兴中。我认为这是一个缺点——可能会遭到高管的报复。哎呀。报复是非法的，但我确实认为其中一些人有太多钱了。 Google/Alphabet 技术工人于 2021 年通过美国通信工人协会成立了工会。 Alphabet 工人联盟有一个网站，他们的常见问题解答部分回答了我知道我们很多人都有的许多逆向问题。 Mods，我阅读了规则，我希望您认为这是主题，并且是相关的与程序员的对话。我很高兴在不同的 Reddit 子版块上继续这个对话，但重要的是这个对话是在技术工作者之间进行的。我想知道程序员如何看待自己在这个行业的权利。   由   提交 /u/Pupperniccle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag4xll/457000_technology_employees_laid_off_2022_january/</guid>
-      <pubDate>Thu, 01 Feb 2024 06:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Henrik Fransson：当软件杀人时</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag4rrl/henrik_fransson_when_software_kills/</link>
-      <description><![CDATA[ 由   提交 /u/_a4z   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag4rrl/henrik_fransson_when_software_kills/</guid>
-      <pubDate>Thu, 01 Feb 2024 06:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将环境变量添加到通过 ShellExecuteEx 或 IContextMenu 启动的进程？ - 旧事新事</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag4o58/how_can_i_add_an_environment_variable_to_a/</link>
-      <description><![CDATA[ 由   提交/u/cherry-pie123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag4o58/how_can_i_add_an_environment_variable_to_a/</guid>
-      <pubDate>Thu, 01 Feb 2024 06:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 电子商务网站开发：终极指南 🌟 在当今的数字环境中，您的电子商务网站可以改变游戏规则。以下是如何让您的品牌脱颖而出：🛠️ 建立您的品牌：定义...</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag1tz0/ecommerce_website_development_the_ultimate_guide/</link>
-      <description><![CDATA[ 由   提交 /u/Chris-t-fire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag1tz0/ecommerce_website_development_the_ultimate_guide/</guid>
-      <pubDate>Thu, 01 Feb 2024 03:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 中的泛型和类型擦除</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag1oia/generics_type_erasure_in_java/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag1oia/generics_type_erasure_in_java/</guid>
-      <pubDate>Thu, 01 Feb 2024 03:49:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>隐藏和显示鼠标光标以及从程序内置的功能部分导入“鼠标悬停”和“鼠标移出”类型的鼠标功能的方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag0k9w/hiding_and_displaying_the_mouse_cursor_and_ways/</link>
-      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag0k9w/hiding_and_displaying_the_mouse_cursor_and_ways/</guid>
-      <pubDate>Thu, 01 Feb 2024 02:53:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

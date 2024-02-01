@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 01 Feb 2024 09:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 12:21:55 GMT</lastBuildDate>
+    <item>
+      <title>每月入门/网络开发职业主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag9d28/monthly_getting_started_web_dev_career_thread/</link>
+      <description><![CDATA[由于有关此主题的问题越来越多，因此决定每月提交一个专门讨论此主题的线程，以减少重复帖子的数量关于这个话题。主线程中将不再允许此类帖子。 其中许多问题也在子常见问题解答中得到解决，或者可能已在 以前的每月职业线程。 专门针对这些类型的订阅者问题包括一般性和开放式职业问题的r/cscareerquestions和r/learnprogramming 了解早期学习问题。 为行业做好准备而学习的主题的一般建议包括：  &lt; a href=&quot;https://www.udemy.com/course/javascript-beginners-complete-tutorial&quot;&gt;HTML/CSS/JS 训练营 版本控制 自动化 前端框架（React/Vue/Etc） API 和 CRUD 测试（单元和集成） 常见设计模式&lt; /li&gt;  您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 计划 6-12 个月在申请工作之前进行自我学习和为您的作品集制作项目。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag9d28/monthly_getting_started_web_dev_career_thread/</guid>
+      <pubDate>Thu, 01 Feb 2024 12:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为经验丰富的开发人员获得大型项目客户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag9bpy/getting_big_project_clients_as_an_experienced/</link>
+      <description><![CDATA[大家好！ 我是一名自由开发人员，拥有大约 10 年的全栈 Web/Web 应用程序/原生开发经验包装器开发。我知道我可以为人们提供真正优质的解决方案，并且我有一些很好的例子。我只是不确定在哪里可以找到正在寻找完整解决方案的人。我知道有特定职位的工作，但我在哪里可以找到寻找完整职位的公司或人员？如果这是有道理的。 谢谢！   由   提交/u/Graineon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag9bpy/getting_big_project_clients_as_an_experienced/</guid>
+      <pubDate>Thu, 01 Feb 2024 11:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些适合计划或技术面试的好资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag8vb6/what_are_some_good_resources_for_planning_or_a/</link>
+      <description><![CDATA[根据标题，差不多。自学成才，失业几个月后，我接受了一家公司的第二轮面试，在这种情况下，面试的是技术性的。我上一份工作也没有经过技术面试，所以这对我来说是第一次。  被告知：  这将在某种程度上基于算法。 没有人工智能帮助。 需要宣布如果我需要搜索一些东西。  他们会现场观看我编码。  在这次面试之前我想改进的另一件事是某种协作知识。我的上一个职位是我部门中唯一的程序员，在第一次面试中，我回顾了我设计和交付的应用程序、我一直在使用的工具，以及通常哪些用例将客户带到我的办公室。我缺乏协作经验肯定是可以接受的，因为这个问题在我参加技术面试之前就已经讨论过了，但基本上我在每次第一轮面试中都会被问到这个问题。如果我在技术面试和/或未来的第一轮面试中遇到这个问题（如果我没有得到这份工作），我不会感到惊讶。    由   提交 /u/NA__Scrubbed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag8vb6/what_are_some_good_resources_for_planning_or_a/</guid>
+      <pubDate>Thu, 01 Feb 2024 11:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习视觉设计的资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag8q1c/resources_to_learn_visual_design/</link>
+      <description><![CDATA[希望这个 sub 可以提供帮助！ 我将自己描述为一位经验丰富且有能力的全栈开发人员。在后端更舒服（这很可能是这里的问题），我在 Next、Express、PHP、Laravel、Slim、Python 中做过一些事情，甚至最近开始涉足 Go；编写了整个数据库模块和服务，并且非常了解 MariaDB。我还了解 DevOps 的基础知识，以及如何实际部署、测试和运行某些内容。这并不是说前端被忽视了：我了解语义 HTML，在 React 中使用 TypeScript 构建了完整的应用程序，为 jQuery 做出了贡献，并使用了所有现代 CSS 功能，包括（仍然有点不情愿） ）顺风。告诉我您需要什么以及您希望它是什么样子，我会构建它，并且我始终掌握新内容。 这个难题中只有一个主要缺失的部分：我可以设计不是为了狗屎。让我做我上面描述的一切？没问题，先生，我会在 4 周内给您。让我这样做并设计它的外观？当然，先生，请在我输入 1995 年的时候输入这台 DeLorean。 每当我有一个想法时，我都能在脑海中想象出美妙、流畅、优雅的设计，但我就是无法将它们显示在该死的屏幕上！这个子程序使用什么来学习如何制作实际上看起来清晰、现代并且很好的东西？   由   提交 /u/BigResponsibility252   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag8q1c/resources_to_learn_visual_design/</guid>
+      <pubDate>Thu, 01 Feb 2024 11:19:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django allauth + React 谷歌社交登录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ag88a9/django_allauth_react_google_social_login/</link>
+      <description><![CDATA[嗨r/webdev，请让我知道这是否更适合某些 Django 或 React 子系统： 当我直接访问后端时，我有 django-allauth 与 Google 社交登录配合良好。我现在想知道如何从我的 React 前端使用它（或替换为它）。 最初我的后端是 FastAPI 并与 fastapi-users 配合使用，并且它运行得很好反应。也就是说，在 React 中，我有一个 useAuth 钩子，它又依赖于 useContext，而我的 React 按钮将GET auth_url&lt; /code&gt; 来自后端的 /auth/google/authorize，重定向我，使用 /auth/google/callback，并最终将令牌存储在 cookie 中。 对于 Django，我现在想知道一般方法应该是什么。我应该：  选项 A：让我的 React 按钮带我到 django-allauth 的 /accounts/google/login，用户完成登录周期并最终重定向回我的 React 的 /profile？到目前为止的问题是，尽管后端 google 部分似乎可以工作，但在重定向后 React 会抱怨令牌为空。目前这并不奇怪，因为我还没有将该令牌发送回前端。但我不知道是否继续采用这种方法，或者我是否应该... 选项 B：尝试重新创建 /auth/google/authorize 和 /auth /google/callback 流程我曾经使用 FastAPI，但现在使用 Django。具体来说，我正在使用 django-ninja ，并且大多数教程都使用 Django DRF，尽管我可能可以模仿这些步骤，但如果切换到 django-allauth 不再需要，我不知道是否要尝试此路径？显然我必须将前端的令牌发送到后端，我认为这违背了我目前使用 django-allauth 的方式。另外，我看到一些提及（例如此处和这里）的react -google-login，但也许它现在已被弃用或不必要？  这两个工作流程是否同等有效，或者其中一个比另一个更好？选项A更安全吗？从我的角度来看，感觉就像选择 A 一样，我会利用已经起作用的身份验证，但我不知道。  谢谢   由   提交 /u/jayplusplus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ag88a9/django_allauth_react_google_social_login/</guid>
+      <pubDate>Thu, 01 Feb 2024 10:47:14 GMT</pubDate>
+    </item>
     <item>
       <title>那些停止使用prettier 的人，为什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ag6m02/those_who_stopped_using_prettier_why/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我们有许多客户来找我们寻找电子商务网站，我们通常选择的平台是 SaaS 解决方案，例如 Shopify。然而，对于许多这样的客户来说，这些应用程序增加了太多的成本，或者他们不喜欢笨重的后端界面，或者他们无法通过 Shopify 进行某些定制。  我们考虑过提供一个为您服务的平台（类似于按月付费网站模型），该网站是在该平台上构建的，但对 WooCommerce 进行了大量定制，因此 WordPress 管理界面仅限于电子商务功能，彻底修改用户界面，使其更加清晰，他们只看到他们需要的内容。因为这是一个托管解决方案，我们将在添加所需的插件后锁定插件（不同的价格点提供不同数量的集成/应用程序）。这主要是较小的客户，但我不确定这是否可以作为一个想法？   由   提交/u/dillonlawrence0101   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ag3kwl/offering_a_woocommerce_based_platform/</guid>
       <pubDate>Thu, 01 Feb 2024 05:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道有一个 API 可以根据常用词获取歌曲吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ag2j2k/does_anyone_know_of_an_api_that_can_fetch_songs/</link>
-      <description><![CDATA[我正在寻找一个 API，它允许我提供用户输入的单词并返回具有匹配单词的歌曲标题列表。有什么想法吗？   由   提交 /u/Krispenedladdeh542   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ag2j2k/does_anyone_know_of_an_api_that_can_fetch_songs/</guid>
-      <pubDate>Thu, 01 Feb 2024 04:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>承包商加班？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ag283g/overtime_for_contractors/</link>
-      <description><![CDATA[我觉得自己在工作中被宠坏了，但我想找一份薪水更高的工作，目前我是一家公司的员工。 这让我担心作为承包商的工作。只要我得到公平的报酬，我加班就没有任何问题，当我必须缴纳自己的税时，那么报酬必须是公平的。 这是一家美国公司，但我我很好奇这对于承包商来说是否正常，以及作为承包商的你们如何处理这个问题？   由   提交/u/Limp_Flatworm_1832   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ag283g/overtime_for_contractors/</guid>
-      <pubDate>Thu, 01 Feb 2024 04:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>顺风顺风？？？？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ag1uii/tailwind/</link>
-      <description><![CDATA[人们是否真正使用 Tailwind CSS，如果是的话，为什么使用它而不是常规 CSS，以及您使用它对“清洁”有什么好处？你的代码。它看起来有点挑剔和过度，但我想了解为什么人们会选择顺风而不是普通 CSS。 tysm &lt;3   由   提交 /u/Ok-Title-9652   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ag1uii/tailwind/</guid>
-      <pubDate>Thu, 01 Feb 2024 03:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>顺风顺风？？？？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ag1ui6/tailwind/</link>
-      <description><![CDATA[人们是否真正使用 Tailwind CSS，如果是的话，为什么使用它而不是常规 CSS，以及您使用它对“清洁”有什么好处？你的代码。它看起来有点挑剔和过度，但我想了解为什么人们会选择顺风而不是普通 CSS。 tysm &lt;3   由   提交 /u/Ok-Title-9652   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ag1ui6/tailwind/</guid>
-      <pubDate>Thu, 01 Feb 2024 03:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 电子商务网站开发：终极指南 🌟 在当今的数字环境中，您的电子商务网站可以改变游戏规则。以下是如何让您的品牌脱颖而出：🛠️ 建立您的品牌：定义...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ag1tu8/ecommerce_website_development_the_ultimate_guide/</link>
-      <description><![CDATA[       由   提交 /u/Chris-t-fire   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ag1tu8/ecommerce_website_development_the_ultimate_guide/</guid>
-      <pubDate>Thu, 01 Feb 2024 03:57:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
