@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 01 Feb 2024 15:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 18:15:13 GMT</lastBuildDate>
+    <item>
+      <title>发布：2024 年开源状况报告</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agg086/announcing_the_2024_state_of_open_source_report/</link>
+      <description><![CDATA[   /u/vmbrasseur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agg086/announcing_the_2024_state_of_open_source_report/</guid>
+      <pubDate>Thu, 01 Feb 2024 17:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>De4py：Python逆向工程工具包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agep50/de4py_a_toolkit_for_python_reverse_engineering/</link>
+      <description><![CDATA[我和我的朋友创建了一个名为 De4py&lt; /a&gt; 我认为这对于分析 python 恶意软件并监控其行为很有用，它有一个漂亮的 UI 和一些不错的功能。 反混淆：De4py 支持一些流行的混淆器，例如：Jawbreaker、BlankOBF、PlusOBF、Wodx、 Hyperion，pyobfuscate.com 混淆器。 Pycode 执行：在进程内执行您自己的 python 代码。 字符串转储：转储 python 进程中的字符串并将其保存为文件，这对于提取数据非常有用行为监控：De4py 可以监控 python 进程，查看它们是否打开了任何文件句柄、打开了进程、写入/读取了其他进程的内存，还监控了该进程是否终止了其他进程，例如除了套接字监控之外。 文件分析器：具有许多功能的分析器，例如检测 python 程序是否已打包并尝试解包（如果使用 pyinstaller），例如，它还有一个功能，可以显示所有字符串或可疑字符串（可疑字符串，例如：IP、网站、“discord”、“leveldb”）以及文件中的其他可疑字符串），并在一个漂亮的输出窗口中显示它们。它还支持 pulgins，以及您在查看存储库时可以发现的一些其他功能。我希望它对任何分析 py 恶意软件的人。   由   提交/u/AhmedMinegames  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agep50/de4py_a_toolkit_for_python_reverse_engineering/</guid>
+      <pubDate>Thu, 01 Feb 2024 16:16:32 GMT</pubDate>
+    </item>
     <item>
       <title>Prici.io - 管理任何 SaaS 应用程序的计划和定价限制</title>
       <link>https://www.reddit.com/r/opensource/comments/1agcrtl/priciio_manage_plans_and_pricing_limitations_for/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>更新：OneUptime - 自托管 StatusPage.io + Incident.io + Loggly 替代方案。</title>
       <link>https://www.reddit.com/r/opensource/comments/1agb7y4/update_oneuptime_self_hosted_statuspageio/</link>
-      <description><![CDATA[OneUptime () 是开源替代方案到 StausPage.io + UptimeRobot + PagerDuty。它是 100% 免费的，您可以在虚拟机/服务器上自行托管它。 新更新：以下是自我上次在此 Reddit 子版块上发布以来的一些更新。  日志管理上线！您现在可以使用 OpenTelemetry 在 OneUptime 中存储日志。我们还将很快添加 Fluentd 支持，以便您可以从任何地方提取日志。 我们现在正在开发跟踪和指标，更多 APM 功能即将推出。&lt; /li&gt; 在听取了该社区的反馈后，我们正在将所有 20 个不同的 oneuptime 容器合并为一个容器，以便人们更容易自行托管并占用更少的资源。这已经进行到一半了，应该会在 2 月底完成。 Docker Compose 文件位于存储库中，现在位于 ArtifactHub 上：，您可以在 K8s 集群上尝试一下。期待听到大家的想法！ 我们听到你的声音了！请告诉我们您需要什么功能，我们将为您构建。    由   提交/u/OuPeaNut   [链接] [评论]]]></description>
+      <description><![CDATA[OneUptime () 是开源替代方案到 StausPage.io + UptimeRobot + PagerDuty。它是 100% 免费的，您可以在虚拟机/服务器上自行托管它。 新更新：以下是自我上次在此 Reddit 子版块上发布以来的一些更新。  日志管理上线！您现在可以使用 OpenTelemetry 在 OneUptime 中存储日志。我们还将很快添加 Fluentd 支持，以便您可以从任何地方提取日志。 我们现在正在开发跟踪和指标，更多 APM 功能即将推出。&lt; /li&gt; 在听取了该社区的反馈后，我们正在将所有 20 个不同的 oneuptime 容器合并为一个容器，以便人们更容易自行托管并占用更少的资源。这已经进行到一半，应该会在 2 月底完成。 Docker Compose 文件位于存储库中，现在位于 ArtifactHub 上：，您可以在 K8s 集群上尝试一下。期待听到大家的想法！ 我们听到你的声音了！请告诉我们您需要什么功能，我们将为您构建。    由   提交/u/OuPeaNut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agb7y4/update_oneuptime_self_hosted_statuspageio/</guid>
       <pubDate>Thu, 01 Feb 2024 13:39:53 GMT</pubDate>
     </item>
     <item>
       <title>类似 Bitwarden 的应用程序，但用于书签？</title>
       <link>https://www.reddit.com/r/opensource/comments/1agaap5/an_app_like_bitwarden_but_for_bookmarks/</link>
-      <description><![CDATA[我意识到同步（无论是在 Chrome 还是 Brave 上）都是一坨屎，而且它很少能按照我想要的方式工作。 是否有像 Bitwarden 这样的应用程序可以让您在设备之间同步书签（我的意思是在同一个浏览器上）？   由   提交/u/clara59000   [链接] [评论]]]></description>
+      <description><![CDATA[我意识到同步（无论是在 Chrome 还是 Brave 上）都是一坨屎，而且它很少能按照我想要的方式工作。 是否有像 Bitwarden 这样的应用程序可以让您在设备之间同步书签（我的意思是在同一个浏览器上）？   由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agaap5/an_app_like_bitwarden_but_for_bookmarks/</guid>
       <pubDate>Thu, 01 Feb 2024 12:52:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[俗话说，“重要的不是你知道什么，而是你认识谁”。似乎有些过时了。在当今的职业环境中，更合适的说法是“这既是你所知道的，也是你所认识的人。”在我的职业生涯中，包括 Linux 管理、Web 开发和软件工程方面的角色，我将我的软件开发技能归类为处于职业生涯早期到中期阶段。我善于承担各种角色并与不同领域的专业人士合作。尽管近年来我积极申请和面试职位，但我尚未收到任何工作机会。我经常会遇到极具挑战性的 Leetcode 问题，或者被问及 Linux 管理的一些晦涩难懂的方面，例如 Kerberos 配置——实际上，我自己和许多同行已经很长时间没有接触过这些领域了。 ，我正在考虑改变策略。我不想继续不加区别地申请，而是考虑在志愿者的基础上为开源项目做出贡献。我希望通过以实用、可见的方式展示我的技能，我可能会引起其他开发人员的注意，他们会看到邀请我以付费身份加入他们的团队的价值。您对此有何想法方法？这里有人通过为开源项目做出贡献而成功找到工作吗？   由   提交/u/k0mi55ar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1af4itn/software_developers_of_reddit_have_you_ever/</guid>
       <pubDate>Wed, 31 Jan 2024 00:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 HLS Mono Node.js/ffmpeg 项目寻找开源贡献者 🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1af1f3a/seeking_open_source_contributors_for_hls_mono/</link>
-      <description><![CDATA[ 开源社区您好！ 我很高兴能分享一个我一直在从事的项目，并且邀请这个令人惊叹的社区进行合作。它是 HLS Mono Node.js/ffmpeg 概念验证，我正在寻找贡献者来帮助维护和增强它，特别是在编写 S3 兼容性适配器方面。  这个项目的目的是为创建需要视频上传的服务器（即 LMS）时通常需要的特定任务制作一个简单的即插即用存储库，我不想成为被迫使用 Vimeoo 或 Mux 订阅，我们可能有自己的实例，可以根据我们的需要进行扩展 关于该项目： 该项目是一个Turborepo 包含多个专为视频编码和处理而设计的软件包和应用程序：  api：一个简单的 Express.js 应用程序，用于将视频上传并编码为 HLS 格式。 hlsify：一个利用 ffmpeg 进行 HLS 视频编码的便携式 Node.js 包。 hlsify-worker：一个与框架无关的、为 hlsify 包预先设置 MQ 工作线程，用辣酱 🌶️ 和钩子 🔗 调味。  入门：  克隆存储库：git clone https://github.com/ahmedrowaihi/hls-monorepo 安装：使用 pnpm install 进行设置。 运行应用：只需输入 pnpm dev 即可走吧！  我们正在寻找的贡献：  维护：帮助管理和维护更新现有代码库。 S3 适配器：编写适配器以使此解决方案与 S3 存储解决方案兼容。  为什么贡献?  成为激动人心的开源项目的一部分。 使用视频处理领域的尖端技术。 与全球开发者社区合作。  如何贡献： 随意分叉存储库、进行更改并提交拉取请求。如需更详细的讨论或建议，请在此处或 GitHub 存储库上留言。 感谢您考虑为此项目做出贡献。非常感谢您的专业知识和时间！    由   提交 /u/Independent-Kick4381   /u/Independent-Kick4381 reddit.com/r/opensource/comments/1af1f3a/seeking_open_source_contributors_for_hls_mono/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1af1f3a/seeking_open_source_contributors_for_hls_mono/</guid>
-      <pubDate>Tue, 30 Jan 2024 22:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找涉及树莓派的 Meraki、Aruba、Fortigate 的替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</link>
-      <description><![CDATA[基本标题。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</guid>
-      <pubDate>Tue, 30 Jan 2024 20:52:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
