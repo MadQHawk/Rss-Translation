@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 02 Feb 2024 18:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 21:11:05 GMT</lastBuildDate>
     <item>
-      <title>惊群问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1aha8ze/the_thundering_herd_problem/</link>
+      <title>🚀 创业指南 🚀 准备好开展您的梦想事业了吗？请遵循以下 5 个步骤：https://ckinnovation.ca/articles/how-to-start-a-6-figure-business 🧠 步骤 1：构思您的业务 探索您...</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahe2w7/start_a_business_guide_ready_to_launch_your_dream/</link>
+      <description><![CDATA[ 由   提交 /u/Chris-t-fire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahe2w7/start_a_business_guide_ready_to_launch_your_dream/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:58:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Go 的配置文件引导优化 (PGO) 将数据库的读取延迟减少 5%</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahdxqy/using_gos_profileguided_optimization_pgo_to/</link>
+      <description><![CDATA[ 由   提交/u/zachm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahdxqy/using_gos_profileguided_optimization_pgo_to/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jeanine Soterwood - 帮助客户了解维护工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahc6wy/jeanine_soterwood_helping_clients_understand/</link>
+      <description><![CDATA[ 由   提交/u/robbyrussell  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahc6wy/jeanine_soterwood_helping_clients_understand/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:38:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>freeCodeCamp 播客：Oh My Zsh 创建者兼 Dev Shop 首席执行官 Robby Russell</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahc242/freecodecamp_podcast_oh_my_zsh_creator_and_dev/</link>
+      <description><![CDATA[ 由   提交 /u/robbyrussell   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahc242/freecodecamp_podcast_oh_my_zsh_creator_and_dev/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 Pkl，一种用于配置的编程语言 :: Pkl Docs</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahbzfl/introducing_pkl_a_programming_language_for/</link>
+      <description><![CDATA[ 由   提交/u/islon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahbzfl/introducing_pkl_a_programming_language_for/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>法律推理和质量保证有联系吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahbln0/legal_reasoning_and_quality_assurance_is_there_a/</link>
+      <description><![CDATA[ 由   提交/u/cheq  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahbln0/legal_reasoning_and_quality_assurance_is_there_a/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个偷偷摸摸的 1 行更改加速了 subprocess#communicate 1000x+</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahbfet/this_sneaky_1line_change_sped_up/</link>
+      <description><![CDATA[ 由   提交/u/sYnfo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahbfet/this_sneaky_1line_change_sped_up/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:05:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>单体应用、微服务和无服务器并不是您想象的那样</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahasw0/monoliths_microservices_and_serverless_arent_what/</link>
+      <description><![CDATA[ 由   提交 /u/moonbunR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahasw0/monoliths_microservices_and_serverless_arent_what/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“gotofail”错误的小故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagph/a_short_story_about_the_gotofail_bug/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagph/a_short_story_about_the_gotofail_bug/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microdot：微控制器的网络框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagob/microdot_a_web_framework_for_microcontrollers/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagob/microdot_a_web_framework_for_microcontrollers/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我们的 iOS 构建系统从 Buck 迁移到 Bazel</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagna/migrating_our_ios_build_system_from_buck_to_bazel/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aha8ze/the_thundering_herd_problem/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:15:35 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagna/migrating_our_ios_build_system_from_buck_to_bazel/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>你什么时候应该放弃一个不起作用的项目？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aha2as/when_should_you_give_up_on_a_project_that_doesnt/</link>
-      <description><![CDATA[ 由   提交 /u/preethamrn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aha2as/when_should_you_give_up_on_a_project_that_doesnt/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:07:50 GMT</pubDate>
+      <title>SpeedTests：比较各种编程语言的执行速度</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagm2/speedtests_comparing_the_execution_speeds_of/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagm2/speedtests_comparing_the_execution_speeds_of/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:28 GMT</pubDate>
     </item>
     <item>
-      <title>Java 的新 FMA：复兴还是衰落？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah8zjk/javas_new_fma_renaissance_or_decay/</link>
-      <description><![CDATA[ 由   提交 /u/OldCaterpillarSage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah8zjk/javas_new_fma_renaissance_or_decay/</guid>
-      <pubDate>Fri, 02 Feb 2024 17:22:44 GMT</pubDate>
+      <title>GPUI 中的所有权和数据流</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagko/ownership_and_data_flow_in_gpui/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagko/ownership_and_data_flow_in_gpui/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:26 GMT</pubDate>
     </item>
     <item>
-      <title>Chromium 问题跟踪器迁移将于太平洋标准时间 2024 年 2 月 2 日下午 5 点开始</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah8tkf/chromium_issue_tracker_migration_beginning_feb_2/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah8tkf/chromium_issue_tracker_migration_beginning_feb_2/</guid>
-      <pubDate>Fri, 02 Feb 2024 17:15:38 GMT</pubDate>
+      <title>使异步 Rust 变得可靠</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagk5/making_async_rust_reliable/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagk5/making_async_rust_reliable/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能驱动的 API 分析：利用自主代理获得可行的见解</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah7oy5/aidriven_api_analytics_leveraging_autonomous/</link>
-      <description><![CDATA[ 由   提交/u/itsrorymurphy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah7oy5/aidriven_api_analytics_leveraging_autonomous/</guid>
-      <pubDate>Fri, 02 Feb 2024 16:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 文件必须以 .py 结尾，对吗？再猜！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah5zfx/python_files_must_end_with_py_right_guess_again/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah5zfx/python_files_must_end_with_py_right_guess_again/</guid>
-      <pubDate>Fri, 02 Feb 2024 15:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>PL 设计：安全、共享可变性和未装箱类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah3uqb/pl_design_safe_shared_mutability_with_unboxed/</link>
-      <description><![CDATA[ 由   提交/u/RndmPrsn11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah3uqb/pl_design_safe_shared_mutability_with_unboxed/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱炫耀的人、极繁主义者和你</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah3lo9/showboaters_maximalists_and_you/</link>
-      <description><![CDATA[ 由   提交/u/agbell  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah3lo9/showboaters_maximalists_and_you/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>周末聆听：DORA（指标）和对卓越工程的追求</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah3joo/weekend_listening_dora_metrics_and_the_pursuit_of/</link>
-      <description><![CDATA[ 由   提交/u/hatchikyu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah3joo/weekend_listening_dora_metrics_and_the_pursuit_of/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一份精选的云提供商列表和估计成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah30oe/i_built_a_curated_list_of_cloud_providers_and/</link>
-      <description><![CDATA[ 由   提交/u/anthonynsimon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah30oe/i_built_a_curated_list_of_cloud_providers_and/</guid>
-      <pubDate>Fri, 02 Feb 2024 12:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>接下来介绍哈希节点</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah1nzd/introducing_hashnode_next/</link>
-      <description><![CDATA[ 由   提交/u/alexkates  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah1nzd/introducing_hashnode_next/</guid>
-      <pubDate>Fri, 02 Feb 2024 11:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子表格狂热者在 Microsoft Excel 中构建了一个 CPU，它具有显示屏，但无法运行 Excel 或 Doom - 不，它还不能在云中运行</title>
-      <link>https://www.reddit.com/r/programming/comments/1ah0cs2/spreadsheet_fanatic_builds_a_cpu_within_microsoft/</link>
-      <description><![CDATA[ 由   提交 /u/LinearArray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ah0cs2/spreadsheet_fanatic_builds_a_cpu_within_microsoft/</guid>
-      <pubDate>Fri, 02 Feb 2024 10:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习 Dart 中的面向对象编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1agzjxk/learn_objectoriented_programming_in_dart/</link>
-      <description><![CDATA[ 由   提交/u/ram-foss  /u/ram-foss  blackslate.io/articles/object-orient-programming-in-dart&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agzjxk/learn_objectoriented_programming_in_dart/</guid>
-      <pubDate>Fri, 02 Feb 2024 09:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>DevOps 中的生成式 AI [实现 DevOps 峰值性能]</title>
-      <link>https://www.reddit.com/r/programming/comments/1agzfvh/generative_ai_in_devops_achieve_peak_devops/</link>
-      <description><![CDATA[ 由   提交/u/AzilenTech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agzfvh/generative_ai_in_devops_achieve_peak_devops/</guid>
-      <pubDate>Fri, 02 Feb 2024 09:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unity 视觉特效学习第 2 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1agyl5h/unity_vfx_learning_part_2/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agyl5h/unity_vfx_learning_part_2/</guid>
-      <pubDate>Fri, 02 Feb 2024 07:59:38 GMT</pubDate>
+      <title>Sporth - 基于堆栈的音频编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahagj1/sporth_a_stackbased_audio_programming_language/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahagj1/sporth_a_stackbased_audio_programming_language/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:24:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

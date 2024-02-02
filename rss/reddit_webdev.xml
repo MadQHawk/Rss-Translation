@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 18:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 21:11:27 GMT</lastBuildDate>
     <item>
-      <title>用于监视数据库中数据更改的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah9wfd/tool_for_monitoring_changes_to_data_in_a_database/</link>
-      <description><![CDATA[我定期使用 mariadb-dump（mariadb 的 mysqldump）备份我的 MariaDB 数据库。  但是，我想在以下任一情况下确保数据完整性： - 使用数据库的应用程序中的漏洞已被利用，并对数据进行了未经授权的更改（例如，攻击者伪造或删除数据）例如更改随机用户帐户的密码或删除用户帐户） - 应用程序错误或错误影响了数据（例如导致数据损坏或数据丢失，例如影响不应受到影响的行的查询）&lt; /p&gt; 我的意思是，我想确保如果发生上述任何一种情况，我可以以易于理解的方式查看数据更改的历史记录（例如使用 diff工具）。因此，我可能需要诸如 DELETE、INSERT 和 UPDATE 操作的事件日志记录之类的内容，这些操作将在按时间顺序排序的列表（带有事件时间戳）中列出每个此类数据操作查询，并且我可以将其与最后一个已知修订版本进行比较（以仅查看更改）我之前没有审查过）。 我正在寻找一个数据库数据更改工具，它可以让我查看是否发生了对数据的授权更改（不需要自动执行任何安全规则，只需要事件发生后以简单的方式进行手动检查的能力）。 我知道最好的办法是（主动）采取预防措施，但我还需要像我所描述的那样采取额外措施尽量减少后果。 到目前为止，我能做的最好的事情就是使用 diff 比较工具来比较两个 .sql 顺序 mysqldump。然而，这种方法并不容易遵循，因为它需要在文件内向前和向后移动，而且我也看不到何时发生更改，因为数据库中没有存储行更新时间的列。 &lt; /div&gt;  由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah9wfd/tool_for_monitoring_changes_to_data_in_a_database/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:01:14 GMT</pubDate>
+      <title>🚀 创业指南 🚀 准备好开展您的梦想事业了吗？请遵循以下 5 个步骤：https://ckinnovation.ca/articles/how-to-start-a-6-figure-business 🧠 步骤 1：构思您的业务 探索您...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahe2vb/start_a_business_guide_ready_to_launch_your_dream/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交 /u/Chris-t-fire   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahe2vb/start_a_business_guide_ready_to_launch_your_dream/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:58:48 GMT</pubDate>
     </item>
     <item>
-      <title>需要有关移动网站或应用程序 1.0 版本的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah8xtm/needing_advice_for_version_10_for_a_mobile_site/</link>
-      <description><![CDATA[我将与一个或多个开发人员合作，帮助构建一个具有视频和直播功能的移动就绪版本的网站。我对可用于视频和流媒体所有后端部分的工具和平台的了解已经很深入，但现在我需要将这些部分集成到移动设备的最佳框架中。我正在考虑像react.js 这样的选项，但我想得到一些关于这个的意见。更多背景知识有助于反馈。这个项目是全新的，所以还没有收入，所以我不想过度建设，但基本的想法是创建具有登录访问权限的用户帐户。支付功能（可能只是条带集成）、视频点播、实时流媒体以及最后的视频聊天（网络 rtc）。 一旦我与开发人员合作，我会让那个人接受领导而不是挂在他们的肩膀上，但在选择开发人员时，我希望能够找到一种可靠的方法，使事情保持简单，并且只是为第一次迭代创建足够好的东西。我可以稍后构建更强大的东西。感谢大家的宝贵时间。   由   提交 /u/soloinmiami   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah8xtm/needing_advice_for_version_10_for_a_mobile_site/</guid>
-      <pubDate>Fri, 02 Feb 2024 17:20:40 GMT</pubDate>
+      <title>你如何证明一个设计或概念确实是你的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahdyzs/how_do_you_prove_that_a_design_or_concept_was/</link>
+      <description><![CDATA[我通常不太关心人们抄袭想法或设计，但假设有人故意或巧合地抄袭你，然后指责你抄袭他们。那么你如何证明你首先提出了网页设计或网站概念呢？ （最好没有专利）。 例如，大多数网站都会随着时间的推移而改变，因此很难证明该网站在 3 年前就在线，更难证明它当时的样子，我想（或者说它是如何运作的）。 Github 存储库也不是万无一失的（历史可以被操纵），所以我怀疑这些可以作为证据吗？ 你是否采取了任何措施来保护你的工作，或者你知道有什么好的方法吗？   由   提交 /u/your_name_forever   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahdyzs/how_do_you_prove_that_a_design_or_concept_was/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:54:17 GMT</pubDate>
     </item>
     <item>
-      <title>Chromium 问题跟踪器迁移将于太平洋标准时间 2024 年 2 月 2 日下午 5 点开始</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah8u0a/chromium_issue_tracker_migration_beginning_feb_2/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah8u0a/chromium_issue_tracker_migration_beginning_feb_2/</guid>
-      <pubDate>Fri, 02 Feb 2024 17:16:09 GMT</pubDate>
+      <title>Google reCaptcha 从代码中消失了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahdpte/google_recaptcha_disappeared_from_code/</link>
+      <description><![CDATA[我知道这听起来很疯狂，但我现在有点困惑： 所以在我的网站上我有一个除了提交表单按钮之外，还带有一个 recaptcha v2 框的联系表单。  在过去几天没有收到任何邮件后，我查看了联系表单页面，却发现不再有验证码。奇怪的是，我认为这可能与按键或需要完成的一些更改有关。  我跳上 filezilla 下载所有内容，只是突然发现在表单所在的 contact.php 上，没有提到 reCaptcha，不是对 api.js 的调用，不是关键什么都没有 - 首先我以为我们的网站不知何故被黑了，黑客只是删除了该页面上的验证码，没有做其他任何事情。但所有文件的最后修改日期是去年 11 月。  现在我想澄清一下，我并不疯狂，我发誓我在提交按钮旁边有验证码。如果我一开始就没有这样做，我仍然会从该页面收到电子邮件，但由于提交后 reCaptcha 消失了，您会收到 500 错误，并且邮件永远不会送达。这怎么可能 ？再说一遍，我真的没有疯   由   提交/u/cleronfx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahdpte/google_recaptcha_disappeared_from_code/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>是否有任何免费的 AI 工具可用于根据提示创建 UI 设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah8oh4/are_there_any_free_ai_tools_available_for/</link>
-      <description><![CDATA[我尝试使用 Bing，但不幸的是，没有找到任何令人满意的结果。 &lt;!-- SC_ON - -&gt;  由   提交/u/william_buttler  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah8oh4/are_there_any_free_ai_tools_available_for/</guid>
-      <pubDate>Fri, 02 Feb 2024 17:09:40 GMT</pubDate>
+      <title>尽早做出决定更好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahdpt4/decisions_better_made_at_an_early_stage/</link>
+      <description><![CDATA[例如：与稍后在项目中添加相比，a11y、i18n 从一开始就更容易实现。 抱歉&#39;我在打电话，所以不会写太多   由   提交/u/hurisksjzodoealals   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahdpt4/decisions_better_made_at_an_early_stage/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>每 200 名网络用户中就有 1 名仍在使用 Internet Explorer</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah83sd/1_in_200_web_users_are_still_using_internet/</link>
-      <description><![CDATA[       由   提交/u/weakly_held  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah83sd/1_in_200_web_users_are_still_using_internet/</guid>
-      <pubDate>Fri, 02 Feb 2024 16:45:52 GMT</pubDate>
+      <title>如何解决 Lighthouse 报告中的“文档没有有效的 rel=canonical”错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahdbyt/how_do_i_resolve_this_document_does_not_have_a/</link>
+      <description><![CDATA[我网站的 Lighthouse 报告正在对接我，因为  文档没有有效的 rel=canonical指向域的根 URL（主页），而不是等效的内容页面  我已阅读 关于此的文档但我仍然很困惑。有人可以像我五岁一样向我解释一下吗？ 如果有帮助，这是页面抛出错误。   由   提交/u/neb2357  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahdbyt/how_do_i_resolve_this_document_does_not_have_a/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>开发者快速调查：分享见解，支持 Techfugees 🚀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah80uw/quick_survey_for_devs_share_insights_support/</link>
-      <description><![CDATA[🚀 开发者，有 3 分钟时间吗？用您的见解帮助我们打造免费的开源后端工具。每完成一项调查，我们都会向 Techfugees 捐赠 3 欧元，以通过技术为难民提供帮助。 💻❤️  立即发挥影响力！ 参加调查！  截止日期：23/02/2024 🌟 非常感谢🙏🙏 🙏   由   提交/u/stosssik  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah80uw/quick_survey_for_devs_share_insights_support/</guid>
-      <pubDate>Fri, 02 Feb 2024 16:42:25 GMT</pubDate>
+      <title>Ejs 占位符 - Bootstrap</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahd3i4/ejs_placeholder_bootstrap/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahd3i4/ejs_placeholder_bootstrap/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:17:04 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 如何将消息存储到数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah6owx/how_do_chatgpt_store_messages_to_the_database/</link>
-      <description><![CDATA[如果您向 ChatGPT 输入提示，ChatGPT 会逐块返回消息，在此过程中重新加载页面时，您将看到不完整的消息返回的消息被保存，几乎看起来像是实时保存的。 有时消息保存的内容比重新加载之前向用户显示的内容要多，我假设这是因为块显示为键入动画，这比实际接收块慢，因此实际接收到的块/消息不会立即渲染。 现在，他们如何将这些消息存储在数据库中？以下是我的猜测：  为收到的每个块更新表。这种情况发生的可能性较小，而且成本较高。 每 3 秒更新一次表。这种可能性更大，但成本仍然很高。 流式传输以更新数据库。现在，这不是我所熟悉的事情。我什至不确定这是否可能。    由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah6owx/how_do_chatgpt_store_messages_to_the_database/</guid>
-      <pubDate>Fri, 02 Feb 2024 15:45:34 GMT</pubDate>
+      <title>有没有办法查看网页上正在运行的脚本？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahd0nq/is_there_a_way_to_see_the_scripts_being_run_on_a/</link>
+      <description><![CDATA[我想为我的网站创建一个计算器，我找到了一个可以用作基础的类似计算器，但我不知道如何让它发挥作用，所以我联系了几位不同的自由职业者，他们每个人都说，如果没有更多信息，他们不知道如何做到这一点。 我在想我是否可以获得现有自由职业者的来源将帮助他们了解如何完成以及如何构建具有附加功能的新版本。 有人有任何想法吗？   由   提交 /u/reefingdragon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahd0nq/is_there_a_way_to_see_the_scripts_being_run_on_a/</guid>
+      <pubDate>Fri, 02 Feb 2024 20:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>你被要求组建一个网站，而你了解它的一切以及如何完美地完成它的各个方面。您实际上如何计算时间估计？您是否只是在心里想象每一步需要多长时间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah6hrb/youve_been_ask_to_put_together_a_website_and_you/</link>
-      <description><![CDATA[嗨。我被要求将相当简单的网站与静态内容放在一起。我几乎知道如何做所有事情。只需要知道如何估计需要多长时间。如果要求你做 A、B 和 C，你如何计算需要多长时间？您是否依靠以前的经验来进行粗略的估计？ 很想了解更多有关 Web 开发的时间管理方面的信息。谢谢。   由   提交 /u/ashkanahmadi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah6hrb/youve_been_ask_to_put_together_a_website_and_you/</guid>
-      <pubDate>Fri, 02 Feb 2024 15:36:30 GMT</pubDate>
+      <title>如果您喜欢在编码或学习时有（不同的）背景音乐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahcjco/if_you_like_to_have_different_music_on_the/</link>
+      <description><![CDATA[这里有一些不错的复古合成器播放列表，没有人声。如果您还有播放列表，请发布您的！ 链接1，  链接2， link3 新年快乐！   由   提交/u/letsstartanew2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahcjco/if_you_like_to_have_different_music_on_the/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>关于大型客户项目框架的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah6116/suggestions_on_framework_for_large_client_project/</link>
-      <description><![CDATA[我有一个客户，我已经合作了几年了。他们希望我开始一个项目，该项目基本上是一个非常复杂的后端系统，供该客户和申请参与其业务的人员使用。申请人需要完成多个步骤，填写表格、查看培训等，客户可以看到他们的进度、信息等。 现在，这似乎不是一个疯狂的项目我。我通常会使用 PHP 和 SQL 作为制作此类内容的主要方法。我以前给客户做过类似这样的接口，这个方法对我来说效果很好。 但是，因为很多功能（开户、上传文档、填表）都非常“典型” ，我很好奇是否有人对听起来更适合这个项目的框架或其他方法有任何建议。 我是那种从头开始做所有事情的人，但我愿意如果人们认为新系统更好，请尝试它。   由   提交 /u/atalkingfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah6116/suggestions_on_framework_for_large_client_project/</guid>
-      <pubDate>Fri, 02 Feb 2024 15:15:35 GMT</pubDate>
+      <title>为什么谷歌桑给巴尔在建筑授权方面表现出色</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahc7ng/why_google_zanzibar_shines_at_building/</link>
+      <description><![CDATA[   /u/akajla09  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahc7ng/why_google_zanzibar_shines_at_building/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:39:08 GMT</pubDate>
     </item>
     <item>
-      <title>创建具有支付网关和安全层的全栈电子商务网站的指南。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah44m4/guidance_for_creating_a_full_stack_ecommece_site/</link>
-      <description><![CDATA[我必须创建一个包含产品列表、购物车、购买页面、管理门户的电子商务网站，目前卖家将是单一实体，并且集成用于支付的支付网关。我想问什么是足够的技术堆栈。我假设高峰时段每天有 1000 个唯一用户，但这对为未来做好准备不会有什么坏处。我目前在 scala 中工作，但不想在此基础上构建后端，因为可维护性将是一个问题，因为新用户在没有适当培训的情况下将无法使用 scala 后端。所以我的问题是： 1.我应该使用什么技术堆栈（我有 meern 的基本概念 - 在大学时代使用，golang - 最近探索过，scala/java（在工作中使用它） - 不是 java 的粉丝）。 2. 在您建议的特定堆栈中，就良好代码实践而言，需要记住哪些事项。 3. 您之前使用过/您建议使用哪种支付网关以及集成它的任何文档。 4. 您对我有任何网络和安全框架或建议。 5. 任何前端开源模板都可以开始，因为我是后端人员。 6. 还有一些框架，例如shopify等。我没有使用它们的经验，如果有人以前使用过它们，您可以分享您的经验吗？ 非常感谢任何反馈或建议。谢谢   由   提交 /u/ExplorerEasy5553   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah44m4/guidance_for_creating_a_full_stack_ecommece_site/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:51:00 GMT</pubDate>
+      <title>带有同步实时结果页面的调查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahbxxk/survey_with_synchedlive_results_page/</link>
+      <description><![CDATA[我目前运营社交媒体帐户和一个专注于娱乐/电视节目的网站，我希望粉丝可以参与有关以下内容的调查不同的节目，但我不想不断更新，并希望在我们网站的网页上自动更新。  我们使用 wordpress、elementor+ 并具有 qualtrics（但我们愿意更改为不同的表单生成器）！ 任何建议将不胜感激！！   由   提交 /u/Sup_Chief   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahbxxk/survey_with_synchedlive_results_page/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助将我的域从 Hostgator 定向到 Webflow</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah42cw/need_help_directing_my_domain_away_from_hostgator/</link>
-      <description><![CDATA[我是这方面的新手。我的情况是这样的：我有一个几年前建立的旧网站。我从 IONOS 购买了域名，我记得当时将 DNS 定向到我在 Hostgator 上的托管帐户。  现在，我使用 Webflow 创建了一个新网站，并尝试将我购买的 IONOS 域定向到 Webflow 的托管。  我的 IONOS DNS 没有显示任何记录，当我尝试按照 Webflow 的说明添加新记录时，即使我看到一条消息说已成功添加，仍然没有新记录显示在那里。不过，我的 Hostgator 有记录。  这是我从 Hostgator 中删除记录的第一步。然后在IONOS和Webflow之间进行域名重定向？   由   提交 /u/DudeFromNewYork   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah42cw/need_help_directing_my_domain_away_from_hostgator/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:48:03 GMT</pubDate>
+      <title>FontAwesome 和 WordPress 主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahbl7o/fontawesome_and_a_wordpress_theme/</link>
+      <description><![CDATA[大家好， 我正在构建我的第一个 Wordpress 主题，当一切都说完了，我想把它放在给公众的狗被撕碎并吃掉。如何添加 fontawesome 字体支持？我在自己的项目中使用了 FA 套件，但由于带宽限制，套件可能无法在许多人使用的模板中使用。 CDN 似乎不再是 FA 的一个选项。我是否在模板内自行托管字体？完成了什么？ 非常感谢任何帮助。  谢谢， 西蒙   由   提交/u/Wotsits1984  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahbl7o/fontawesome_and_a_wordpress_theme/</guid>
+      <pubDate>Fri, 02 Feb 2024 19:12:04 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以帮助我理解有关无服务器应用程序/数据交换到 Auth0 的一些原则吗，我迷路了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah409u/can_somebody_help_me_understand_some_principles/</link>
-      <description><![CDATA[您好，我基本上是通过在线课程和 YouTube 视频学习编程挖掘。目前我正在开发一个 webapp 构建，并在 Vercel 上部署了 React。我对我想要构建的内容（个人用户设置、新闻提要获取）的要求非常有限，到目前为止，我已经能够使用 Auth0 实现身份验证，效果很好，但当涉及到实际使用 Auth0 时，我真的迷失了。我快要疯了，因为网上这么多信息似乎相互矛盾。 我想要的只是在页面上显示用户的名字和一个允许用户选择个人的设置页面优先。我在第一个项目上就已经失败了，这听起来完全是可笑的。 Auth0 不会要求在注册页面上提供名字，因此我想我可以抓取用户界面上的数据并将其发送回 Auth0 以将其存储为元数据 - 不知道如何实现。 我可以吗？需要后端吗？ API？ 如果有人愿意透露一些信息，我将不胜感激。 非常感谢，祝一切顺利   由   提交/u/Vincenzo_K   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah409u/can_somebody_help_me_understand_some_principles/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:45:04 GMT</pubDate>
+      <title>开源 Firebase 替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahb88v/the_open_source_firebase_alternative/</link>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahb88v/the_open_source_firebase_alternative/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:57:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何获取作者对象和内容对象</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah3wqi/how_to_get_the_author_object_and_content_object/</link>
-      <description><![CDATA[    &lt; /a&gt;  我已经尝试访问它们大约一个小时了   由   提交 /u/Bubbly-Exit-6569   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah3wqi/how_to_get_the_author_object_and_content_object/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:40:20 GMT</pubDate>
+      <title>有什么好的图表库推荐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahapa5/any_recommendations_for_good_charting_libraries/</link>
+      <description><![CDATA[我对这个领域还很陌生，正在寻找一个浏览器图表库，它：  有一个很好的和符合人体工程学的 API 最好是硬件加速（使用 WebGL 甚至 WebGPU） 可以绘制多个数据集 免费和开源  我只是想可视化大量的时间序列数据集，全是二维的。谢谢！ 编辑：添加了开源要求   由   提交 /u/solidiquis1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahapa5/any_recommendations_for_good_charting_libraries/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>介绍 flecks：不是全栈框架！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah37wh/introducing_flecks_not_a_fullstack_framework/</link>
-      <description><![CDATA[       由   提交/u/cha0s  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah37wh/introducing_flecks_not_a_fullstack_framework/</guid>
-      <pubDate>Fri, 02 Feb 2024 13:05:35 GMT</pubDate>
+      <title>Astro 有多常见/难学？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahamtz/how_commondifficult_to_learn_is_astro/</link>
+      <description><![CDATA[tl;dr：我应该让我的新 Web 开发人员将我的小型非营利组织相当简单的网站的堆栈从 WP 切换到 Astro+Sanity 吗？有多容易？如果我们的下一个 Web 开发人员还不知道该堆栈，那么他们应该学习该堆栈吗？ 我经营一个小型非营利组织（预算很少）。我的一个朋友是一位熟练的 WordPress 开发人员，他为我们免费建立了一个网站，但现在他太忙了，无法维护它。 我们找到了另一位低免费开发人员，但他不喜欢 WordPress并试图说服我们切换到他喜欢的堆栈 Astro + Sanity。 我们永远不会有大量流量或任何复杂/动态页面（我们在 Bubble 中构建了一个志愿者门户，但这就是一个单独的事情）。我们需要的是一个漂亮的网站，加上我们的员工能够自己编辑页面和创建简单页面（无需等待兼职开发人员处理小事情。） 新开发人员让我相信他“将能够使用 Sanity 为我们设置一个场景，我们可以非常轻松地编辑任何页面，甚至在需要时从模板创建漂亮的简单新页面（他给我的演示实际上看起来比在 Elementor 中编辑更容易、更干净） ）。他指出 WP 的另一个大缺点是多语言功能更加费力，尽管我仍然不确定我们是否真的需要我们的网站是双语的。 但是，我对 Astro 最担心的是是否下次我们需要新人时，我们将能够找到另一个低福利开发人员。有一个由开发人员组成的小社区，他们愿意为我们行业的组织提供无偿服务，但规模并没有大到他们中的任何人可能已经知道这个堆栈。这是一种经验丰富的技术 Web 开发人员可以通过一份兼职工作轻松学习的堆栈，还是这是一件疯狂的事情？  &amp;# 32；由   提交 /u/evahamer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahamtz/how_commondifficult_to_learn_is_astro/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>建立一个像 HeyPeers 这样的网站可能要花多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah2afz/how_much_is_it_likely_to_cost_to_build_a_website/</link>
-      <description><![CDATA[嗨， 我住在孟加拉国，我希望以尽可能便宜的价格建立一个网站。该网站将是英文的，非常类似于：https://www.heypeers.com/  有人可以告诉我建立这样一个网站可能要花多少钱吗？    由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah2afz/how_much_is_it_likely_to_cost_to_build_a_website/</guid>
-      <pubDate>Fri, 02 Feb 2024 12:14:17 GMT</pubDate>
+      <title>用于简单游戏和活动的最佳 WordPress 兼容工具是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ahacvo/what_are_the_best_wordpresscompatible_tools_for/</link>
+      <description><![CDATA[嘿，网络开发人员，我正在帮助一家非营利组织开发一个儿童教育网站。网络开发不是我的主要工作——我是一名营销人员——我只是无偿提供帮助，因为没有其他人能做到。他们正在寻找一种创建交互式内容的系统 - 想想非常基本的迷你游戏 - 而我正在寻找最好、最具成本效益的选项来测试。 Wordpress 是 CMS。 如果这一切都可以从 Wordpress 完成，那就太好了，但是导入到 WP 或通过 FTP 上传的其他工具也可以。我想要我们拥有并控制其内容的工具——我正在寻找创作者工具，而不是专有平台。而且它必须全部是 HTML，无需下载插件，因为这些通常会在 Chromebook 上运行。  我见过 Google Stories，它作为一个基本的演示工具似乎还不错，但似乎非常有限，而且我不一定相信 Google 明天不会停止使用它。我也找到了 H5P，但我不确定学习曲线。 对于小型演示、测验、谜题和基本游戏，您会推荐什么？我们不需要记分板或登录或任何东西——这些都是设计上独立的、匿名的活动。  这位非开发人员（和孩子们）感谢您提供的任何信息！   由   提交 /u/WorldsGreatestWorst   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ahacvo/what_are_the_best_wordpresscompatible_tools_for/</guid>
+      <pubDate>Fri, 02 Feb 2024 18:20:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
