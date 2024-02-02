@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 01 Feb 2024 21:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:51:35 GMT</lastBuildDate>
+    <item>
+      <title>与AI的对话（发人深省）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1agp6z6/a_conversation_with_ai_thought_provoking/</link>
+      <description><![CDATA[我录制了一段与 AI 的快速对话，我想你们可能会觉得很有趣。我们讨论了人性、人工智能、宗教和自我完善。我什至为她演奏了一点口琴。 https://youtu.be/Q2fXHps5qo0?si= cvoKwA-CIhHMipKX   由   提交/u/KidVicious87  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1agp6z6/a_conversation_with_ai_thought_provoking/</guid>
+      <pubDate>Thu, 01 Feb 2024 23:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在操作系统文件系统上训练 AI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1agp2ae/training_ai_on_os_filesystems/</link>
+      <description><![CDATA[我对机器学习和人工智能总体来说还比较陌生，我的大部分经验都是在 python 方面的。话虽如此，我正在开发一个个人项目，简而言之，我想训练一个模型来理解操作系统文件系统，并扩展我在该领域的知识，我想开发一个利用人工智能学习的程序以我的 Ubuntu 为例，操作系统的文件系统，并确定基本系统中未包含的软件包和软件。这不是风险项目的最终目标，而是一个起点。有人这样做过吗？最好使用什么模型？   由   提交 /u/Su_doNymm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1agp2ae/training_ai_on_os_filesystems/</guid>
+      <pubDate>Thu, 01 Feb 2024 23:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>我因为AI而郁闷……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1agk9id/i_am_depressed_because_of_ai/</link>
@@ -48,13 +62,6 @@
       <pubDate>Thu, 01 Feb 2024 17:26:59 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以将科学论文提供给人工智能，以便我可以对其进行精确查询？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1agfix4/is_it_possible_to_feed_scientific_papers_to_an_ai/</link>
-      <description><![CDATA[我知道我不能用 chatgpt 做到这一点，但是随着 Mistral AI beeing 开源，它是否可行，如果可以的话，你有吗有什么一般指示吗？我有几篇大论文或书籍需要从中提取数据，但手工编写的数据非常长。此外，格式并不总是相同，因此很难为其编写解析器。   由   提交/u/bdcht42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1agfix4/is_it_possible_to_feed_scientific_papers_to_an_ai/</guid>
-      <pubDate>Thu, 01 Feb 2024 16:51:12 GMT</pubDate>
-    </item>
-    <item>
       <title>一般人忽视的一个关键点——你仍然拥有驾驶这艘船的能力</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1agffmh/a_key_point_the_general_population_misses_you/</link>
       <description><![CDATA[LLM/Transformers 的系统还有很长的路要走。  当我听到公众（即 NPR、社交媒体）的意见时，他们似乎都忽略了一个关键点。要从人工智能技术中获得可靠的输出，需要付出巨大的努力、正确的知识和创造力。  这不是代理。有时我会听到一些对此感到担心的人的意见。无论如何，它仍然需要一个人。  通过点击按钮，它不会将某人的速度提升 10 倍。如果他们投入工作，知道在哪里以及如何去做，那么正确的人选可以是十倍。   由   提交 /u/ItAllStartsRn   [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[人工智能如何在扎克伯格的议程中占据元宇宙的中心舞台...... 阅读全文...   由   提交 /u/cwsgray   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1agejxg/zuck_switches_to_ai_over_metaverse/</guid>
       <pubDate>Thu, 01 Feb 2024 16:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 将如何影响 2024 年选举？😵</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1agdkx4/how_will_ai_affect_the_2024_elections/</link>
-      <description><![CDATA[由于人工智能有可能影响 2024 年的选举，回顾 1975 年的阿西洛玛会议可以提供一些见解。 仅靠监管是不够的;关键是挑战海量数据处理的可持续性成本。 这是一个道德困境，而不仅仅是监管...... 阅读更多...   由   提交 /u/cwsgray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1agdkx4/how_will_ai_affect_the_2024_elections/</guid>
-      <pubDate>Thu, 01 Feb 2024 15:28:10 GMT</pubDate>
     </item>
     <item>
       <title>如何使用人工智能工作而不感到倦怠？</title>
