@@ -4,11 +4,95 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 09:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 12:21:20 GMT</lastBuildDate>
+    <item>
+      <title>建立一个像 HeyPeers 这样的网站可能要花多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah2afz/how_much_is_it_likely_to_cost_to_build_a_website/</link>
+      <description><![CDATA[嗨， 我住在孟加拉国，我希望以尽可能便宜的价格建立一个网站。该网站将为英文，非常类似于：https://www.heypeers.com/  有人可以告诉我建立这样一个网站可能要花多少钱吗？    由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah2afz/how_much_is_it_likely_to_cost_to_build_a_website/</guid>
+      <pubDate>Fri, 02 Feb 2024 12:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>你用什么将图像转换为 WEBP 并压缩它们？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah20vl/what_do_you_use_to_convert_images_to_webp_and/</link>
+      <description><![CDATA[您是否使用特定的软件、命令或网站将图像转换为 WEBP 并对其进行压缩？ 我正在寻找快速解决方案（如右键单击 -&gt; 转换为 webp 并压缩）。  我经常创建图像、下载图像或创建屏幕截图...然后我需要将其压缩为 WEBP，然后再将其包含在网站中。 您有什么建议用于日常运营？    由   提交 /u/collimarco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah20vl/what_do_you_use_to_convert_images_to_webp_and/</guid>
+      <pubDate>Fri, 02 Feb 2024 11:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是使用 GitHub Copilot 的 10 种意想不到的方式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah1rv5/here_are_10_unexpected_ways_to_use_github_copilot/</link>
+      <description><![CDATA[这里有 10 种使用 GitHub 的方法副驾驶超越代码生成，包括运行终端命令、编写拉取请求摘要、生成提交消息、在终端中获取帮助等等。    由   提交 /u/Due-Function4447    reddit.com/r/webdev/comments/1ah1rv5/here_are_10_unexpected_ways_to_use_github_copilot/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah1rv5/here_are_10_unexpected_ways_to_use_github_copilot/</guid>
+      <pubDate>Fri, 02 Feb 2024 11:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，作为一个没有学位/工作经验的自学成才的人，希望对我的简历提供一些反馈。我知道这是一个很高的要求！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah1lr6/hello_would_appreciate_some_feedback_on_my_resume/</link>
+      <description><![CDATA[   /u/_Koke_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah1lr6/hello_would_appreciate_some_feedback_on_my_resume/</guid>
+      <pubDate>Fri, 02 Feb 2024 11:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何自行托管和嵌入视频以针对不同的互联网速度使用自适应比特率，同时优化视频以进行 SEO？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah1jr0/how_to_selfhost_and_embed_videos_to_use_adaptive/</link>
+      <description><![CDATA[我们目前使用 Vimeo，但播放器太慢了。我的网站上是否可以有自我托管的视频，可以不断调整以适应用户的互联网速度？我们有一个相当强大的服务器，并在我们的网站上使用 WordPress - 如果有任何插件，他们会非常受欢迎 - 我见过的大多数都没有大量安装或已经有一段时间没有更新了。  我们将拥有将成为网站元素的自动播放静音循环以及“正常”循环。带有播放器控件和音频的视频可供观看。到目前为止，我们一直在使用 JavaScript 来选择视频文件 - 但据我了解，自适应比特率也可以通过本机 HTML 实现吗？ 我有点不知所措。我接触过 HLS 和 DASH，但我不知道如何正确使用它们。据 caniuse.com 称，两者都没有得到广泛支持。 我们还希望向视频中添加结构化数据，以提高 SEO 可见性 - 在 Google 因我的 JavaScript 代码而无法识别视频之前。  p&gt; 如果您能在这里帮助我并给我一些最佳实践，那就太好了。 我不是开发人员，就我的研究而言：许多您可能会说“那就不要托管我们自己的视频”。但我被要求测试它 - 所以我真的想提出一个选择。另外，我有兴趣并愿意学习并提高我的理解。   由   提交/u/anonmoez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah1jr0/how_to_selfhost_and_embed_videos_to_use_adaptive/</guid>
+      <pubDate>Fri, 02 Feb 2024 11:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们知道有哪个 Reddit 视频 API 可以从特定的 Reddit 子版块下载随机视频吗？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah1deu/you_guys_know_any_reddit_video_api_that_will/</link>
+      <description><![CDATA[我已经从github和scroller实现了meme api..但是scroller似乎没有给出高质量的结果 这就是为什么需要一些解决这个问题   由   提交/u/roktimradman  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah1deu/you_guys_know_any_reddit_video_api_that_will/</guid>
+      <pubDate>Fri, 02 Feb 2024 11:16:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过“innerHTML”与“setAttribute”操作 SVG</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah12wn/manipulating_svgs_via_innerhtml_vs_setattribute/</link>
+      <description><![CDATA[我创建了一个动画，其中在每个动画帧中都对 SVG 进行操作。在第一个版本中，我重新生成了整个 SVG 代码并通过innerHTML 设置它。然而，有人提到，这对于浏览器在每一帧中解析可能会很昂贵。 （话虽这么说，SVG 并不大，可能包含 30 或 40 个矩形。）因此，我开发了第二个版本，其中我维护对 DOM 中每个矩形的引用，并通过 setAttribute 专门操作它们，而不直接更改 HTML /SVG 代码。有趣的是，当我检查系统监视器时，两个版本的浏览器负载始终保持在 30% 左右。这个结果有些出人意料，因为没有明显的赢家。因此，我想知道 setAttribute 是否在每次调用后触发渲染，这可能会导致成本高昂，或者是否会等到当前 JavaScript 块完成后再渲染 DOM。   由   提交 /u/isbtegsm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah12wn/manipulating_svgs_via_innerhtml_vs_setattribute/</guid>
+      <pubDate>Fri, 02 Feb 2024 10:57:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了网络兄弟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah0yl0/tired_of_web_bros/</link>
+      <description><![CDATA[作为一名自由网页设计师 &amp;自 2000 年中期以来，我一直是一名开发人员，请允许我花一点时间来表达我对当前情况的沮丧，以及是否其他人也有同样的感觉。 网页设计曾经是一种创造性的、有趣的东西。这感觉就像是激烈竞争的另一种选择，尽管我们经常帮助他们，但感觉与董事会会议室里的西装革履截然不同。但现在似乎每个角落都充满了技术兄弟，告诉我他们如何我的业务将扩大十倍，或者建立一个必须拥有这么多数字的机构。感觉就像销售人员一夜之间成为了想要成为网页设计师的人，现在根据行业中一半人的说法，另一半人做的一切都是错的，应该像他们一样做。而且你不可能只是为了好玩而这样做，你一定是为了赚大钱。我知道仍然有很多真诚的人因为热爱而这样做，并且真正擅长他们的工作去做——想要赚大钱并没有错。但似乎对每个人来说，都有一个新的卖蛇油的骗子。或者也许我只是老了，脾气暴躁。有人听到我的声音吗？    由   提交/u/nomadickid942  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah0yl0/tired_of_web_bros/</guid>
+      <pubDate>Fri, 02 Feb 2024 10:49:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kirby CMS 教程/课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah0cja/kirby_cms_tutorialscourses/</link>
+      <description><![CDATA[大家好， 如果我走错地方了，请原谅，你知道我可以在哪里找到吗有哪些课程可以帮助您了解 Kirby CMS？  谢谢。   由   提交 /u/dirkyamaok   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah0cja/kirby_cms_tutorialscourses/</guid>
+      <pubDate>Fri, 02 Feb 2024 10:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以从服务器提供所有小内容吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah08xn/can_we_serve_everything_little_content_from_the/</link>
+      <description><![CDATA[我们可以在服务器上提供带有/不带有动态内容的每个页面吗？这意味着，我们需要添加到页面的每个内容都添加到服务器上，甚至是像亚马逊产品这样的动态内容，然后提供预先准备好的文件，其中客户端的工作只是显示页面由服务器准备并提供。基本上有点像wordpress。它提供服务器上的所有内容，包括动态内容。是否可以使用express和node来实现？基本上是一个完全使用服务器端的全栈应用程序，几乎不使用客户端编程。是否可以 ？会有多困难？   由   提交 /u/green_viper_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah08xn/can_we_serve_everything_little_content_from_the/</guid>
+      <pubDate>Fri, 02 Feb 2024 10:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助！需要添加水平滚动条</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah007m/help_need_to_add_horizontal_scroll/</link>
+      <description><![CDATA[大家好， 我是个菜鸟，需要帮助！如何为其添加水平滚动条？ （我可以抓住它并滑动，但我也想要水平滚动） https://codepen.io/ Hyperplexed/pen/MWXBRBp  是否可以添加点击图像交互并将其缩放到完整视图尺寸？也有平滑的过渡  ​   由   提交 /u/TheJokerHisoka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah007m/help_need_to_add_horizontal_scroll/</guid>
+      <pubDate>Fri, 02 Feb 2024 09:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>将翻译添加到由嵌入式网络服务器提供服务的网站的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1agzvpy/suggestions_for_adding_translations_to_a_website/</link>
+      <description><![CDATA[我有一个内置网络服务器的物联网设备。网站部分相当全面，而且只有英文。有没有常见的方法/建议的方法来添加翻译？理想情况下，不会占用太多空间（存储代码的内存有限）。 ​   由   提交 /u/MartynCurrey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1agzvpy/suggestions_for_adding_translations_to_a_website/</guid>
+      <pubDate>Fri, 02 Feb 2024 09:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>DNS和服务器迁移问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1agypxn/dns_and_server_migration_question/</link>
-      <description><![CDATA[大家好， 我是新来的人。最近我在一家开发商机构获得了第一个开发人员职位。这是一家拥有相当一部分客户的小企业。我想得到一些关于这个问题的意见，因为我是一个新人，所以我不完全确定这是否疯狂。  我们拥有这些大型服务器，可以托管 30-60 多个站点。最近，服务器出现问题，导致需要关闭。现在我们必须检查 60 个站点的 DNS 记录并手动将它们全部更新到新服务器。有些位于不同的 dns 帐户后面，有些是委托的，有些我们甚至无法直接访问。这一切对我来说听起来有点疯狂。  所有这些 dns 记录难道不应该指向某个负载均衡器或中间服务器，并保留静态 IP，仅负责将流量路由到托管站点的服务器吗？这样您就不需要手动更新多个 DNS 记录。您可以只调整负载均衡器/中间服务器吗？   由   提交/u/porkins1196   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是新来的人。最近我在一家开发商机构获得了第一个开发人员职位。这是一家拥有相当一部分客户的小企业。我想得到一些关于这个问题的意见，因为我是一个新人，所以我不完全确定这是否疯狂。  我们拥有这些大型服务器，可以托管 30-60 多个站点。最近，服务器出现问题，导致需要关闭。现在我们必须检查 60 个站点的 DNS 记录并手动将它们全部更新到新服务器。有些位于不同的 dns 帐户后面，有些是委托的，有些我们甚至无法直接访问。这一切对我来说听起来有点疯狂。  所有这些 dns 记录难道不应该指向某个负载均衡器或中间服务器，并保留静态 IP，只负责将流量路由到托管站点的服务器吗？这样您就不需要手动更新多个 DNS 记录。您可以只调整负载均衡器/中间服务器吗？   由   提交/u/porkins1196   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1agypxn/dns_and_server_migration_question/</guid>
       <pubDate>Fri, 02 Feb 2024 08:08:29 GMT</pubDate>
     </item>
@@ -25,90 +109,6 @@
       <description><![CDATA[前端向导： ​ 我有一个 HTML 文件，我们称之为 x .html 和 styles.css。它们都保存在同一个文件夹中，没有其他文件。但是，CSS 显示为 Tor 文件。我已经打开了 html 文件，它只是纯文本。  ​ Html: ;  &lt;html&gt; &lt;头&gt;  &lt;标题&gt;RealiseHome系统&lt;/标题&gt; &lt;/head&gt; CSS： ​ html { 背景颜色：darkolivegreen; } head{ 背景颜色：darkolivegreen;不透明度：0.6；字体系列：Arial、Helvetica、sans-serif；字体大小：26pt； } 正文 { 背景颜色：darkolivegreen;不透明度：0.6；字体系列：Arial、Helvetica、sans-serif；字体大小：14pt； }  我做错了什么？提前致谢。 ​   由   提交/u/Zarathustra_04   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1agxjjy/help_needed_html_css_files_not_linking/</guid>
       <pubDate>Fri, 02 Feb 2024 06:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候离开代理工作了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agxhaw/is_it_time_to_move_on_from_agency_work/</link>
-      <description><![CDATA[自从一家代理机构刚成立以来，我就一直在该机构工作，担任设计师和前端开发人员。虽然我喜欢最初几年的快节奏和不断变化的工作，但我们已经慢慢转向更加代理的结构，我开始感到失望。我们在管理上变得更加层级化，并被划分为伪部门（我们仍然是一个大约 10 人的小团队）。我现在几乎只从事设计工作，去年我的工作量变化得可笑（这在某种程度上是我的错）。扮演多个角色开始让我感到厌烦，特别是因为我没有像行业中的类似职位那样接近。我很矛盾，因为我爱我的团队，真正喜欢与客户合作，而且我喜欢多样性的工作。我也得到了大量的 PTO。但没有保险或许多其他福利，项目可能感觉太匆忙，我的工资太低，并且尽我最大的努力创造使这份工作如此特别的工作环境，这让我精疲力尽。出于某种原因，我觉得这份工作已经尽善尽美了？我错了吗？是时候继续前进了吗？   由   提交 /u/shesshiny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agxhaw/is_it_time_to_move_on_from_agency_work/</guid>
-      <pubDate>Fri, 02 Feb 2024 06:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextJS 没有 Vercel？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agwsi8/nextjs_without_vercel/</link>
-      <description><![CDATA[在没有 Vercel 的情况下使用 NextJS 会很痛苦吗？ 我是一名后端开发人员，尽管我大约 10 年前做过一些前端 -主要是在 AngularJS 中。我有一个非常古老的项目，它本质上是构建在自定义框架上的（本身构建在 jQuery 之上）。我想对其进行现代化改造，但我讨厌与特定供应商联系在一起的想法。我的公司使用 NextJS 并且似乎很喜欢它，但在生产中使用 Vercel 确实是一个巨大的痛苦。这是真的？我们的前端开发人员甚至没有在本地开发环境中设置 Web 应用程序（只是在 docker compose 中设置后端 + 数据库），这对我来说似乎是一种奇怪的工作方式。我也在考虑尝试使用 Vue 或其他框架，但老实说我不确定从哪里开始（Expo 可能很有趣，因为我想要一个本机应用程序）。   由   提交/u/CalRobert   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agwsi8/nextjs_without_vercel/</guid>
-      <pubDate>Fri, 02 Feb 2024 06:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找对我的简历的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agwdjb/looking_for_feedback_on_my_cv/</link>
-      <description><![CDATA[      我要么被拒绝（“我们决定与另一位候选人一起去总是原因（如果有）或没有任何回应，通常是没有回应。 我试图查明我的申请的真正问题是什么，是我的简历吗？  我是一名拥有 8 年工作经验的大学生（不管我的简历怎么说），所以我认为招聘人员只会看到“学生”一词。或“当前状态：大学”然后立即移开视线？ 我最初以为这是我的网站/作品集，因为即使我也不认为它很好 - 我正在构建一个新网站 - 但后来我添加了一个系统看看人们何时查看我的网页，似乎招聘人员甚至没有到达那部分......他们只是看到我的简历并继续前进。 那么，我应该添加什么？改变？消除？有什么布局建议吗？任何建议都将非常感激！甚至不必与简历相关。   由   提交 /u/Responsible-Bug900   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agwdjb/looking_for_feedback_on_my_cv/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>按月付费网站模型 - 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agvlzu/pay_monthly_site_model_questions/</link>
-      <description><![CDATA[根据经验，存在一个未得到满足的中间地带，即企业需要比 DIY 页面构建器提供的更好的网站，但没有钱花在网站上网站或太小而无法证明其合理性。我们的代理机构经常遇到这样的客户，我觉得我把钱留在桌子上，把他们拒之门外，但我的问题是，客户是否看到页面构建器的成本与完全管理和构建的每月成本相比网站，但仍然避免这样做，还是他们愿意付费以避免自己这样做？  我们正在考虑提供 12 个月的合同。我正在考虑要么让网站的成本在网站的生命周期内保持不变，要么在 12 个月后如果他们不需要任何更新或更改，他们可以转向仅托管套餐。想法？   由   提交/u/dillonlawrence0101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agvlzu/pay_monthly_site_model_questions/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我告诉你</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agvjfo/im_telling_you/</link>
-      <description><![CDATA[有时，胡说八道、粉饰自己所做的事情、拍拍经理的马屁，比实际完成工作和编码更重要。妈的，今天又重温了一遍这个老课。   由   提交/u/Glittering_Camera407   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agvjfo/im_telling_you/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发商店给我报价 50,000 美元用于 MVP 的 Alpha 发布，我自己花了 200 美元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agvhy6/dev_shop_quoted_me_50000_for_alpha_release_of_mvp/</link>
-      <description><![CDATA[现在，在你认为我是编码神童之前，让我向你保证我不是。我拥有基本的编码技能和坚定的决心。以下是我创业冒险的内幕。 我想为砖块和汽车企业构建 ERP。  有文档和用户访谈吗？ 有报价：alpha 版本 50,000 美元吗？我差点被拿铁咖啡噎住了。 我立即没有使用任何代码工具。 只需 200 美元的 CRM 模板，就可以使用 Bubble 快速启动并运行一些东西。 &lt; p&gt;最终生意失败了，但你对此有何看法？ ​   由   提交 /u/houmanasefiau   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agvhy6/dev_shop_quoted_me_50000_for_alpha_release_of_mvp/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证我是否拥有受域名隐私保护保护的域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agv06i/verifying_that_i_own_my_domain_names_cloaked_with/</link>
-      <description><![CDATA[如果任何事情都可能出错，那就一定会出错。 如果我的注册商的记录遭到破坏或黑客攻击？当此处显示的所有内容 icann.org 是否已将我注册为所有者/en/lookup&quot;&gt;https://lookup.icann.org/en/lookup 是“数据已编辑”？有什么想法吗？ 我看到此建议来添加将 TXT 记录添加到 DNS 区域文件以验证域所有权。那么，如果我能够做到这一点，是否可以保证我是 icann 的注册所有者？或者注册商的软件是否允许我在同一注册商的其他人拥有的情况下执行此操作？ 谢谢。 ​  谢谢。 div&gt;  由   提交/u/invaluabledata  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agv06i/verifying_that_i_own_my_domain_names_cloaked_with/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助黑客马拉松项目！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agumaw/help_with_project_for_a_hackathon/</link>
-      <description><![CDATA[因此，我们一天内将举行 24 小时黑客马拉松，所以到目前为止，我们只对您的登录注册页面进行了身份验证和登陆页。我们决定对地图做一些事情，它会在地图上显示救护车（我们会让任何人成为我们的救护车用于显示目的），用户可以根据自己的选择以一定的价格预订到最近的医院。但这似乎很难，我们昨天没能执行它。因此，如果你们有任何其他很酷的黑客马拉松想法，或者可以告诉我如何执行上述内容，那就太好了！   由   提交 /u/Awkward_Enigma1303   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agumaw/help_with_project_for_a_hackathon/</guid>
-      <pubDate>Fri, 02 Feb 2024 03:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visio TV 使用 svelte</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agslq3/visio_tv_uses_svelte/</link>
-      <description><![CDATA[       由   提交 /u/grantholle   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agslq3/visio_tv_uses_svelte/</guid>
-      <pubDate>Fri, 02 Feb 2024 02:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据加载进度条</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ags048/data_load_progress_bar/</link>
-      <description><![CDATA[我有一个前端，用户可以在其中上传 Excel 文档。 Excel 文档可能有几千行需要处理。 一旦 PHP 获取文件，它将执行一些数据库操作。我想向用户显示进度更新。示例：处理：13/104 并在记录之间移动时对其进行更新。 我真的不知道从哪里开始。   由   提交 /u/orddie1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ags048/data_load_progress_bar/</guid>
-      <pubDate>Fri, 02 Feb 2024 01:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果对我的简历有任何反馈，我们将不胜感激:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agrv30/any_feedback_on_my_cv_would_be_greatly_appreciated/</link>
-      <description><![CDATA[      同样根据这份简历，我现在应该争取什么样的薪水？我在英国伦敦。 谢谢🙏🏾   由   提交/u/Intelligent_Will_948   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agrv30/any_feedback_on_my_cv_would_be_greatly_appreciated/</guid>
-      <pubDate>Fri, 02 Feb 2024 01:38:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>基础表单与API实践——从零开始电子贺卡生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agrrho/basic_forms_and_api_practice_ecard_generator_from/</link>
-      <description><![CDATA[为学校制作了一个非常业余的电子贺卡生成器静态页面。首先是 Rust API 和一些基本的 Python 图像编辑。 随意滥用我的端点，但不要忘记你的操作正在被记录。   由   提交/u/artificialedge  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agrrho/basic_forms_and_api_practice_ecard_generator_from/</guid>
-      <pubDate>Fri, 02 Feb 2024 01:33:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
