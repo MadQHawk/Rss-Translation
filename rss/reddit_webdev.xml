@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 00:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 03:14:23 GMT</lastBuildDate>
+    <item>
+      <title>Visio TV 使用 svelte</title>
+      <link>https://www.reddit.com/r/webdev/comments/1agslq3/visio_tv_uses_svelte/</link>
+      <description><![CDATA[       由   提交 /u/grantholle   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1agslq3/visio_tv_uses_svelte/</guid>
+      <pubDate>Fri, 02 Feb 2024 02:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据加载进度条</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ags048/data_load_progress_bar/</link>
+      <description><![CDATA[我有一个前端，用户可以在其中上传 Excel 文档。 Excel 文档可能有几千行需要处理。 一旦 PHP 获取文件，它将执行一些数据库操作。我想向用户显示进度更新。示例：处理：13/104 并在记录之间移动时对其进行更新。 我真的不知道从哪里开始。   由   提交 /u/orddie1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ags048/data_load_progress_bar/</guid>
+      <pubDate>Fri, 02 Feb 2024 01:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果对我的简历有任何反馈，我们将不胜感激:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1agrv30/any_feedback_on_my_cv_would_be_greatly_appreciated/</link>
+      <description><![CDATA[      同样根据这份简历，我现在应该争取什么样的薪水？我在英国伦敦。 谢谢🙏🏾   由   提交/u/Intelligent_Will_948   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1agrv30/any_feedback_on_my_cv_would_be_greatly_appreciated/</guid>
+      <pubDate>Fri, 02 Feb 2024 01:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>基础表单与API实践——从零开始电子贺卡生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1agrrho/basic_forms_and_api_practice_ecard_generator_from/</link>
+      <description><![CDATA[为学校制作了一个非常业余的电子贺卡生成器静态页面。首先是 Rust API 和一些基本的 Python 图像编辑。 随意滥用我的端点，但不要忘记你的操作正在被记录。   由   提交/u/artificialedge  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1agrrho/basic_forms_and_api_practice_ecard_generator_from/</guid>
+      <pubDate>Fri, 02 Feb 2024 01:33:43 GMT</pubDate>
+    </item>
     <item>
       <title>显示自 1995 年以来每年访问量最大的 10 个网站的信息图。</title>
       <link>https://www.reddit.com/r/webdev/comments/1agqscu/infographic_showing_the_top_10_most_visited/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[作为 webdev 的菜鸟，我想尽早掌握的一件事是安全性，尤其是身份验证。我非常惊讶的是，搜索该主题揭示了更多不该做的事情，并且到目前为止只有很少但相当模糊的建议。 我实际上希望找到关于在后端和上做什么的直接说明。前端。因为如果它不安全，为什么还要费心呢？我认为网络比我想象的更不安全。 到目前为止，我认为 JWT 以及 SSL 都是一件好事。但似乎没有安全的选项来为前端存储它。   由   提交 /u/Simaryp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1agkqjv/why_is_security_so_obscure/</guid>
       <pubDate>Thu, 01 Feb 2024 20:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>为网络开发人员开发灵活的文件工具（转换、压缩、调整大小等）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agkdw4/working_on_flexible_file_tool_for_web_devs/</link>
-      <description><![CDATA[嘿，开发人员，我正在开发一款名为 Frankenfile 的 Mac 应用程序。基本上我们使用 AI 来帮助完成任务，例如文件转换、图像调整大小、批处理文件重命名等。您添加文件和任务提示，例如“调整大小至 200x200”、“将 _thumbnail 添加到文件名”等.并且我们尝试在您的计算机上本地完成任务（无需上传！） 作为开发人员，有时我会使用 imagemagick 或 SIP 等命令行工具来完成这些事情，但我永远记不起这些命令，而且每次都去查找真是浪费时间。我也不想费心去下载专门的工具，或者编写我用过一次就忘记的脚本。 因此，我们将 Frankenfile 放在一起，以节省执行此类批处理工作的时间。如果有人想尝试一下，它可以免费完成 40 个任务，但我们还提供 6 个月的免费订阅（无需卡片）。我们需要反馈来测试限制并看看我们需要改进什么！ 如果您想查看它，请从 https: //www.frankenfile.com。谢谢   由   提交 /u/roomDesignerAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agkdw4/working_on_flexible_file_tool_for_web_devs/</guid>
-      <pubDate>Thu, 01 Feb 2024 20:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助为特定项目选择正确的技术堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agjun0/help_choose_the_right_tech_stack_for_a_specific/</link>
-      <description><![CDATA[各位程序员大家好， 我需要你们对一些技术堆栈决策的建议。 我的公司主要是使用 flutter + firebase 开发移动应用程序。我们现在请求构建一个（面向最终用户的）Web 应用程序，它将主要是一个仪表板，在 Firestore 数据库上提供基本的 CRUD 操作。 所需功能： - 身份验证 - 数据库读/写 - 付款订阅系统 我的问题是我们可以用于开发和部署的最有效（即实现时间和质量）的技术堆栈是什么？ 我们有 Flutter 和 NextJS 的经验. 我知道 NextJS 是一个完全有能力开发应用程序的工具，但我没有在 firebase 上托管 NextJS 的经验，它稳定吗？云功能是否得到了很好的支持？ 另一方面，移动应用程序中的大部分仪表板已经在 Flutter 中开发。但我听说过有关 Flutter for Web 的好消息。 我想基本上我有两个问题可以帮助做出决定：  flutter 是否适合 Web 应用程序开发？ 在 firebase 上托管且可靠（当前版本）NextJS 是否容易？  我们也一直在考虑使用 NextJS 作为身份验证和支付的 shell，以及用于演示的嵌入式颤动和数据库上的 CRUD，有人有这样做的经验吗？ 感谢您的时间。   由   提交 /u/Shaparder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agjun0/help_choose_the_right_tech_stack_for_a_specific/</guid>
-      <pubDate>Thu, 01 Feb 2024 19:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建此 Web 应用程序以使用一键式文章创建器扩展您的 AI 博客。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agjngq/building_this_web_app_to_scale_your_ai_blogs/</link>
-      <description><![CDATA[ 由   提交/u/itsrennyman  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agjngq/building_this_web_app_to_scale_your_ai_blogs/</guid>
-      <pubDate>Thu, 01 Feb 2024 19:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站如何知道我是否使用 VPN</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agjk5f/how_can_a_website_know_if_i_am_using_vpn_or_not/</link>
-      <description><![CDATA[好吧，我对此感到困惑。有一个网站（很小，有几百人使用），它是某人的一个宠物项目。现在该网站可以跟踪我是否使用 VPN。我不知道怎么办。我知道大玩家可以做到。对于某些宠物项目来说，他从该网站的收入甚至不高（每月不到 100 美元），他如何能够跟踪我是否使用 VPN。 &lt;!-- SC_ON - -&gt;  由   提交 /u/hmmIsItAGoodUsername   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agjk5f/how_can_a_website_know_if_i_am_using_vpn_or_not/</guid>
-      <pubDate>Thu, 01 Feb 2024 19:39:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
