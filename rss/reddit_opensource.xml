@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 02 Feb 2024 06:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 09:13:57 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个开源项目向解决某些错误和实现的人员付费？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agzk9x/is_there_an_opensource_project_that_pays_people/</link>
+      <description><![CDATA[如果是这样，他们使用哪些网站以及哪些网站是他们提出这些挑战的手段，并向解决这些问题的人提供现金奖励？&lt; /p&gt;   由   提交/u/DigAdministrative448   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agzk9x/is_there_an_opensource_project_that_pays_people/</guid>
+      <pubDate>Fri, 02 Feb 2024 09:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何/在哪里联系巴西开源社区？ 🇧🇷</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agz3ch/how_where_to_reach_brazilian_open_source_community/</link>
+      <description><![CDATA[嘿嘿！ 我正在运行一个开源项目，并注意到巴西人喜欢开源。想要深入了解，但无法真正找到巴西操作系统社区聚集的地方。 有什么建议吗？ 🤓   由   提交 /u/jobenjada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agz3ch/how_where_to_reach_brazilian_open_source_community/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:35:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 Vue 备忘单</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agxij1/open_source_vue_cheatsheet/</link>
+      <description><![CDATA[它是 Vue、Vue Router 和 Pinia 的交互式备忘单。 🎊 无论您使用的是 Vue、Vue Router 还是 Vue CheatSheet，这是您唯一需要的 Vue CheatSheet。 Pinia 在您的 Vue 项目中或开始一个新的 Vue 项目。 Vue CheatSheet 面向大型 Vue 用户社区，他们发现很难搜索 Vue、Vue Router 和 Pinia。 主要特点：  - 全面覆盖Vue、Vue router、Pinia - 交互式搜索 - 简洁的代码片段 - 轻松复制代码片段并使用它 - 开源 GitHub：https://github.com/themeselection /vue-cheatsheet   由   提交/u/Abhi_mech007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agxij1/open_source_vue_cheatsheet/</guid>
+      <pubDate>Fri, 02 Feb 2024 06:45:15 GMT</pubDate>
+    </item>
     <item>
       <title>在计算实时用户细分时提高了 ClickHouse 实例的可扩展性</title>
       <link>https://www.reddit.com/r/opensource/comments/1agqsqt/improved_the_scalability_of_my_clickhouse/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/waozen  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1afi6ek/cbmc_c_bounded_model_checker_for_verifying_array/</guid>
       <pubDate>Wed, 31 Jan 2024 13:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice 24.2 社区适用于所有操作系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1afh3dj/libreoffice_242_community_available_for_all/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/Neustradamus   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1afh3dj/libreoffice_242_community_available_for_all/</guid>
-      <pubDate>Wed, 31 Jan 2024 12:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有这样的开源网站吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1afeg01/is_there_an_open_source_website_like_this/</link>
-      <description><![CDATA[有这样的开源网站吗？ 一个可以添加、重命名、删除类别的开源网站，例如有0个类别，你想添加一个，你将其命名为“数学”，你创建了另一个类别并将其命名为“科学”，每个类别就像一个目录，但在ui界面中，你单击“科学” ;类别，它就像一个不和谐的聊天室，用户可以添加图像、文本、音频 奖励：如果单个 wifi 路由器中的多个用户即使没有互联网连接，他们也可以一起与网站交互，并且仍然可以这样做CRUD 事物并查看实时更改并将其存储到数据库中   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1afeg01/is_there_an_open_source_website_like_this/</guid>
-      <pubDate>Wed, 31 Jan 2024 09:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>尚未发布的开发版本的版本号格式？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1afckju/version_number_format_for_notyetreleased/</link>
-      <description><![CDATA[我知道有多种选择，但我希望在这里得到您的建议和经验。 我愿意” “标记”特定版本为“正在开发中”？ 我知道不使用额外标记的项目。假设奇数版本号正在开发中（或不稳定），偶数版本号是稳定/发布。 其他人添加“-dev”。在版本号的末尾。例如“1.4.2-dev”是即将推出（但尚未发布）的“1.4.2”。由于“1.4.1”是最新的稳定版和官方版本。 其他人确实只使用“+”号。  其他选项？   由   提交/u/buhtz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1afckju/version_number_format_for_notyetreleased/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:46:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 06:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 09:12:56 GMT</lastBuildDate>
     <item>
-      <title>赠送定制 GPT 创意！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agx0c9/giving_away_a_customgpt_idea/</link>
-      <description><![CDATA[可以设计自定义 GPT 来直接创建 Apple 快捷方式，而不仅仅是给出如何操作的说明。 拥有数百万 iOS 用户利用快捷方式简化日常任务并提高工作效率，创建一个生成这些快捷方式的自动化解决方案可能会改变游戏规则。 以下是我从研究中发现的结果： 您可以使用 Jellycuts，这是一个开源工具，有自己的语言用于创建快捷方式和将代码转换为快捷方式文件的脚本。如果自定义 GPT 了解 Jellycuts 的语言以及它可以从 Jellycuts 文档中做什么，它可能能够自己编写快捷方式代码。 此外，如果有一个服务器可以将代码转换为快捷方式文件，用户可以直接从聊天中获取下载快捷方式的链接。要将代码转换为快捷方式文件，您也可以使用 Jellycuts cli。 但是，iOS 15 及更高版本的安全规则会阻止您安装未签名的快捷方式。但是您可以在 Mac 终端中使用命令签署快捷方式（快捷方式 sign --mode Any --input unsigned.shortcut --output &quot;signed.shortcut&quot; ）。挑战在于在 Linux 上执行此操作或仅使用 Mac 服务器来签名快捷方式。不过，看起来可能有办法解决这个问题。 我没有太多时间进一步探索这个问题，但如果有人创建一个自定义 GPT 来创建快捷方式，我会使用它很多，可能还有很多其他！  ​   由   提交 /u/aramvr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agx0c9/giving_away_a_customgpt_idea/</guid>
-      <pubDate>Fri, 02 Feb 2024 06:13:24 GMT</pubDate>
+      <title>进化系列#148：水貂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agzi3d/evolution_series_148_minks/</link>
+      <description><![CDATA[       由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agzi3d/evolution_series_148_minks/</guid>
+      <pubDate>Fri, 02 Feb 2024 09:05:57 GMT</pubDate>
     </item>
     <item>
-      <title>审查更新了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agwpea/censor_updated/</link>
-      <description><![CDATA[我通常不会抱怨这一点，因为无论我是否同意，这是他们的平台和他们的规则。但是 - 有没有其他人注意到审查员在过去 24 小时内特别挑剔？   由   提交 /u/SolitaryForager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agwpea/censor_updated/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:55:05 GMT</pubDate>
+      <title>ChatGPT 无法编写角色侮辱其他角色的场景？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agzfpo/chatgpt_cant_write_scenes_with_characters/</link>
+      <description><![CDATA[      所以我正在做一个世界构建项目，涉及幻想的东西，基本的 DnD 类型我承认，世界建设主要是为了我自己的自我放纵的目的。我一直在关注一群吟游诗人的 ATM，并提到他们如何用尖刻的智慧来侮辱某人，用恶毒的俏皮话和恰当的笑话来解除他们的武装。嗯，我注意到 ChatGPT 有一个奇怪的习惯，我该怎么说，不描绘非常尖锐的侮辱。它不写侮辱，最多它会写一个场景并说某某人说了一些特别尖刻的话。然而，它从来没有真正写下侮辱。  我觉得 ChatGPT 有时在写台词时有点像奶奶，从不越过某一行，也不对对话有任何咬合。所以今天，当我改变提示说“一定要包括真正说这些侮辱的人时，我希望你能从这个场景中收集尽可能多的对话，”它告诉了我需要知道的一切。 这是我编辑的提示的一部分 这就是回复 现在我知道我可以写自己的东西了，当然可以，这只是我偷懒让ChatGPT写的编出我喜欢阅读的自我放纵的故事情节。不过，我觉得这有点愚蠢。特别是因为在我编辑提示之前，ChatGPT 非常容易地写下了场景，并描述了说侮辱的话的人。 所以我们可以谈论侮辱，但不能侮辱。明白了。 我不知道，也许这只是因为我正在写一个关于海盗和小丑的故事，并且希望对话能有所体现，但也许这只是我的想法想要太多。我是反应过度了，还是像我想象的那样愚蠢？   由   提交 /u/Johnderderian   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agzfpo/chatgpt_cant_write_scenes_with_characters/</guid>
+      <pubDate>Fri, 02 Feb 2024 09:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>不要创建折磨连结</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agwp5k/dont_create_the_torment_nexus/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/PsychoComet  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agwp5k/dont_create_the_torment_nexus/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:54:39 GMT</pubDate>
+      <title>在泰勒·斯威夫特人工智能争议之后，新法案针对深度造假罪犯</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agzelq/new_bill_targets_deepfake_offenders_in_wake_of/</link>
+      <description><![CDATA[   /u/XXmynameisNeganXX  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agzelq/new_bill_targets_deepfake_offenders_in_wake_of/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>有人遇到过这个错误吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agwjct/anyone_had_this_error/</link>
-      <description><![CDATA[       由   提交 /u/LivelyZebra   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agwjct/anyone_had_this_error/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:44:47 GMT</pubDate>
+      <title>对 chatgpt 图像生成的限制感到沮丧</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agze1v/getting_frustrated_with_the_limits_by_chatgpt_for/</link>
+      <description><![CDATA[您最喜欢的图像生成订阅计划是什么？我主要将它用于工作，并且需要一些不会在第 45 个提示时阻止我的东西。 编辑：并且我需要使用质量较好的图像。例如，Bing 的质量太差。   由   提交 /u/PetiteCaresse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agze1v/getting_frustrated_with_the_limits_by_chatgpt_for/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:57:59 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以做聊天 GPT 和 SuperSaiyan 的不同级别吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agwdjq/can_someone_please_do_chat_gpt_and_the_different/</link>
-      <description><![CDATA[拜托，不可避免地它最终会成为银河赛亚人。但我还是感兴趣哈哈哈   由   提交/u/xFromtheskyx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agwdjq/can_someone_please_do_chat_gpt_and_the_different/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:34:58 GMT</pubDate>
+      <title>Google Bard 现在能够创建图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agz7e4/google_bard_is_now_capable_of_creating_images/</link>
+      <description><![CDATA[       由   提交/u/Hallucinator-  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agz7e4/google_bard_is_now_capable_of_creating_images/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:44:16 GMT</pubDate>
     </item>
     <item>
-      <title>我发誓这就是使用 ChatGPT 与使用 Bard 进行除编码或图像生成之外的任何事情的感觉</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agwa3a/i_swear_this_is_how_using_chatgpt_vs_using_bard/</link>
-      <description><![CDATA[    /u/LengthyLegato114514   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agwa3a/i_swear_this_is_how_using_chatgpt_vs_using_bard/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:29:28 GMT</pubDate>
+      <title>在 AI 中模拟情绪</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agz6bs/simulate_emotions_in_ai/</link>
+      <description><![CDATA[      我想知道到目前为止谁在让 AI 感受到某种东西方面做得最好？ 相关但不是答案 休谟 - 他们可以根据声音和面部特征来预测情绪。 但我真的想知道如何让她感觉良好。有人尝试真正做到这一点吗？ 复制品和角色与我所附的照片有点接近。但我看不到它们里面有什么。 你们中的一些人有机会更仔细地研究这个主题吗？我要求：  书籍 您的带有提示的共享聊天 YouTube 视频 人物 博客文章 意见    由   提交 /u/Robert-treboR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agz6bs/simulate_emotions_in_ai/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>不再是 PNG，而是 .webp？严重地？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agw99d/no_more_png_but_webp_instead_seriously/</link>
-      <description><![CDATA[你真的只是默默地从制作质量相当不错的 PNG 图像切换到糟糕的 .webp 图像吗？ 至少让我们下载以前的 PNG 质量的初始作品，如果您必须节省服务器空间，那么您可以在一周或一个月后将所有内容存档在 webp 中（如果需要）...尽管我也不喜欢这样做。  说真的，怎么了？请修复此问题...   由   提交 /u/slavandproud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agw99d/no_more_png_but_webp_instead_seriously/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:28:06 GMT</pubDate>
+      <title>您希望看到更多哪些方面的研究？心理学/人工智能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agyyhd/what_would_you_like_to_see_more_research_in/</link>
+      <description><![CDATA[您好，我是一名在英国学习心理学的大学生，目前正处于论文的初步阶段（即解决研究空白）。我绝对喜欢与人工智能有关的一切，并希望这成为我论文的主题领域。我对解决研究空白、提供人工智能在心理学领域的新见解或潜在应用的主题特别感兴趣。我对所有可能对该领域做出重大贡献的想法持开放态度。 以下是我正在考虑的几个领域： -人工智能在诊断方面的准确性和道德影响心理健康状况。 -人工智能对人类行为和社会互动的影响。 -人工智能在个性化治疗和心理健康干预中的应用。  - 用于心理评估的人工智能算法中的道德考虑和偏见。 如果您能分享任何建议、忠告或资源，以帮助我缩小选择范围并完善我的重点，我将不胜感激。如果您发现了有趣的研究、新兴技术，或者对人工智能在心理学中的创新应用有个人见解，我很想听听它们。  &amp; #32；由   提交 /u/ed_lal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agyyhd/what_would_you_like_to_see_more_research_in/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>我知道他们数学不好，但是差这么多？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agw8lp/i_know_they_are_bad_at_math_but_this_much/</link>
-      <description><![CDATA[       由   提交 /u/AkuseSenpai   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agw8lp/i_know_they_are_bad_at_math_but_this_much/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:26:59 GMT</pubDate>
+      <title>……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agyow4/_/</link>
+      <description><![CDATA[       由   提交/u/Ghalipla6   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agyow4/_/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:06:27 GMT</pubDate>
     </item>
     <item>
-      <title>如何在GPT中快速复制最后一个答案。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agw7mc/how_to_copy_the_last_answer_quickly_in_gpt/</link>
-      <description><![CDATA[我想快速复制最后一个答案。 autohotkey scripte 或 chrome 扩展 ...  一切都好。 ^^;;  请推荐一个好工具。 ^^  感谢您提前提供的任何帮助。    由   提交/u/Sophie0315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agw7mc/how_to_copy_the_last_answer_quickly_in_gpt/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:25:29 GMT</pubDate>
+      <title>聊天GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agynf6/chatgpt/</link>
+      <description><![CDATA[      以如此流畅的方式探索抽象思想的方式是超现实且无限迷人的。到目前为止，我从未分享过完整的聊天内容，所以希望这能起作用，您可以从头到尾阅读它。   由   提交/u/Dirt_Illustrious  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agynf6/chatgpt/</guid>
+      <pubDate>Fri, 02 Feb 2024 08:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>奇怪的洞穴壁画被发现了……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agvxky/strange_cave_painting_has_been_discovered/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/Human_Possibility117   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agvxky/strange_cave_painting_has_been_discovered/</guid>
-      <pubDate>Fri, 02 Feb 2024 05:09:50 GMT</pubDate>
+      <title>这是 ChatGPT-4 有史以来表现最好的一次</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agyevz/this_is_the_best_chatgpt4_has_ever_performed/</link>
+      <description><![CDATA[我将改变通常的“GPT-4 现在很糟糕”对话，并说，GPT-4 最近表现出色。 我不确定他们是否发布了新模型，但这太棒了。它的回复从不懒惰，总是彻底，真的感觉我终于物有所值了。   由   提交 /u/empathyboi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agyevz/this_is_the_best_chatgpt4_has_ever_performed/</guid>
+      <pubDate>Fri, 02 Feb 2024 07:47:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能聊天机器人概念的简要介绍：嵌入和矢量数据库的基础知识</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agvn2i/a_gentle_introduction_to_ai_chat_bot_concepts/</link>
-      <description><![CDATA[       由   提交/u/phantom69_ftw  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agvn2i/a_gentle_introduction_to_ai_chat_bot_concepts/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:53:40 GMT</pubDate>
+      <title>冥想练习</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agycgi/meditative_exercise/</link>
+      <description><![CDATA[      这是一段关于生活挑战的对话，以及一个寓言，将这些挑战描述为通往山顶的台阶或设施。    由   提交/u/job180828  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agycgi/meditative_exercise/</guid>
+      <pubDate>Fri, 02 Feb 2024 07:42:11 GMT</pubDate>
     </item>
     <item>
-      <title>不知道为什么我不直接谷歌一下。感谢您提供完全错误的信息 gpt。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agvba2/unsure_why_i_didnt_just_google_it_thanks_for_the/</link>
-      <description><![CDATA[    /u/Even-Matter-5576   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agvba2/unsure_why_i_didnt_just_google_it_thanks_for_the/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:35:30 GMT</pubDate>
+      <title>CHATGPT 确实如此 -</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agy9md/chatgpt_for_real_said_it/</link>
+      <description><![CDATA[       由   提交/u/randombitch2476   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agy9md/chatgpt_for_real_said_it/</guid>
+      <pubDate>Fri, 02 Feb 2024 07:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 GPT，可以根据图片评估您的风格/服装</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agv9jo/i_made_a_gpt_that_evaluates_your_styleoutfit_from/</link>
-      <description><![CDATA[       由   提交/u/emotional_dyslexic  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agv9jo/i_made_a_gpt_that_evaluates_your_styleoutfit_from/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:32:48 GMT</pubDate>
+      <title>这是应该发生的还是我只是超级幸运？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agy762/is_this_supposed_to_happen_or_am_i_just_super/</link>
+      <description><![CDATA[      我不小心通过 Apple ID 资金购买了 1 个月的 ChatGPT Plus。所以我立即要求退款并没有使用该服务。但当我获得批准状态时，我的诱惑战胜了我，我开始使用它。我知道他们有可能取消我的退款，如果有必要的话，我可以使用 1 个月。然而令我惊讶的是我仍然得到了退款。但更令人震惊的是，我仍然可以在我使用过的聊天中使用 GPT 4 聊天，甚至说退款，但仍然让我使用它，并且也可以使用 GPT 4 创建新的聊天。在设置页面上还显示免费计划。   由   提交/u/Suffered_Heart   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agy762/is_this_supposed_to_happen_or_am_i_just_super/</guid>
+      <pubDate>Fri, 02 Feb 2024 07:31:42 GMT</pubDate>
     </item>
     <item>
-      <title>我的代词是巫师</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1agv0f2/my_pronoun_is_wizard/</link>
-      <description><![CDATA[       由   提交 /u/stumblingmonk   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1agv0f2/my_pronoun_is_wizard/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:18:41 GMT</pubDate>
+      <title>嗯...🤔</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agy4wr/well/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Own_Jellyfish822   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agy4wr/well/</guid>
+      <pubDate>Fri, 02 Feb 2024 07:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 ChatGPT 为我女儿构建了一个应用程序，它成了新闻！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aguy2k/i_used_chatgpt_to_build_an_app_for_my_daughter/</link>
-      <description><![CDATA[https://www.fox5vegas.com/2024/01/30/las-vegas-parent-creates-reading-app-using-artificial-intelligence   由   提交 /u/thecopypastecoder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aguy2k/i_used_chatgpt_to_build_an_app_for_my_daughter/</guid>
-      <pubDate>Fri, 02 Feb 2024 04:15:07 GMT</pubDate>
+      <title>你们觉得怎么样</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1agy34a/what_do_yall_think_of_this/</link>
+      <description><![CDATA[    &lt; /td&gt;  由   提交/u/nicdunz   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1agy34a/what_do_yall_think_of_this/</guid>
+      <pubDate>Fri, 02 Feb 2024 07:23:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
