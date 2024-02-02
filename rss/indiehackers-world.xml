@@ -4,7 +4,97 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 02 Feb 2024 12:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 15:14:05 GMT</lastBuildDate>
+    <item>
+      <title>如何加快API业务发展？</title>
+      <link>https://feed.indiehackers.world/post/e2a9ed3f4d</link>
+      <description><![CDATA[大家好，我计划做一些非常简单的 API 并尝试将它们作为 SaaS 出售，但老实说，我害怕整个面向用户的部分，比如 API 访问、管理等的门户。
+我打算使用：
+
+clerk.com 用于用户部分和用户管理
+用于计费的条纹
+
+但缺少的是 API 密钥访问创建和访问的平台。就像某种门户网站一样，用户可以在其中生成 API 密钥并进行管理。我真的不想构建它，因为我想也许我可以找到一种方法来构建 API 并完成此任务。
+您是否知道有任何 SaaS 提供某种 API“前端”，用户可以在其中登录、管理其 API 密钥并提供某种后端访问来验证这些密钥？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e2a9ed3f4d</guid>
+      <pubDate>Fri, 02 Feb 2024 15:05:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>解释 CORS 细节的交互式备忘单</title>
+      <link>https://feed.indiehackers.world/post/85d0a3603e</link>
+      <description><![CDATA[这份备忘单是我在上个月开始构建 Blocked by CORS 时了解 CORS 的详细情况后的浓缩结果。如果您有任何疑问或建议，请与我联系。周末愉快！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/85d0a3603e</guid>
+      <pubDate>Fri, 02 Feb 2024 14:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们在所有平台上建立社区！</title>
+      <link>https://feed.indiehackers.world/post/1b46627db0</link>
+      <description><![CDATA[让我们在 X、PH 和 IH 上建立我们的社区！
+我们每天在 IH 上互相支持，所以让我们在 X 和 PH 上建立联系，建立一个强大的社区。我们每天都会参与有关 IH 的讨论，并且我们应该将这种支持扩展到 PH 和 PH 等。 X 通过参与其他职位并创造支持性环境。
+请分享您的 X、IH 和 PH 帐户。让我们互相关注并提供支持。 
+我的-
+X- https://twitter.com/swayammi7
+PH- https://www.producthunt.com/@swayammi7
+IH- https://www.indiehackers.com/Swayammi7
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1b46627db0</guid>
+      <pubDate>Fri, 02 Feb 2024 14:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flaco - 个人多页主题。使用 Astro、Tailwind CSS 和 MDX 构建</title>
+      <link>https://feed.indiehackers.world/post/67409a275a</link>
+      <description><![CDATA[
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/67409a275a</guid>
+      <pubDate>Fri, 02 Feb 2024 14:11:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>健身挑战 SaaS</title>
+      <link>https://feed.indiehackers.world/post/af7f9f8712</link>
+      <description><![CDATA[您认为，有人会使用健身挑战应用程序，您可以在其中创建私人群组，设置俯卧撑、引体向上每年/每月/等目标，并且您需要达到这些目标。您会看到您和您的朋友在图表中挑战进度。
+谢谢，
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/af7f9f8712</guid>
+      <pubDate>Fri, 02 Feb 2024 13:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用相同框架在 12 个月内实现从 0 美元到 10 万美元 MRR 的旅程</title>
+      <link>https://feed.indiehackers.world/post/215da85d61</link>
+      <description><![CDATA[我分析了 100 多家初创公司，包括 10web AI、Formwise AI、Stunning.so、Tweet Hunter 和 Writersonic 等。
+在分析了 100 多家年收入超过 10 万美元的 AI 和 Saas 初创公司后，我发现所有这些初创公司都使用相同的框架和工具集。
+我花了几个小时寻找并创建了 30 多个最重要的工具列表，以实现增长并扩展到 10 万美元以上的 MRR。
+然后；我为每个工具创建了分步指南，为 Saas 创始人和开发人员提供了独特的用例。这些创始人如何使用这些工具来发展他们的 SaaS，并将其规模扩大到每月 10 万美元以上。
+该工具包价值 29 美元。但作为一种因果报应，我将其免费赠送给我的 100 位独立黑客伙伴。
+您可以在这里免费获取：
+https://gumroad.com/l/saas-growth-toolkit/BISMILLAHSGTFREE
+注意：这个工具包可以帮助很多新手，所以如果你认为某些东西丢失或不正确。请告诉我！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/215da85d61</guid>
+      <pubDate>Fri, 02 Feb 2024 13:11:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node.JS 正在失去人气吗？</title>
+      <link>https://feed.indiehackers.world/post/78f0ec81ca</link>
+      <description><![CDATA[总而言之，虽然 Node.js 面临着激烈的竞争，但它远未被边缘化。它的多功能性和对 JavaScript 的熟悉程度继续使其成为许多人的首选。关键要点是什么？保持适应能力，不断探索，并为正确的工作选择正确的工具。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/78f0ec81ca</guid>
+      <pubDate>Fri, 02 Feb 2024 12:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>从拉面到 5 万美元的 MRR，再到收购，再到遗憾</title>
+      <link>https://feed.indiehackers.world/post/3159f108ea</link>
+      <description><![CDATA[
+我认为我做对了以及我建议做的事情
+我做错了什么以及我认为更好的解决方案
+
+我的目标是每周发表一篇文章。我平时不会写那么多，所以这对我来说是一个很大的挑战。订阅并分享这个词！
+{{订阅}}
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/3159f108ea</guid>
+      <pubDate>Fri, 02 Feb 2024 12:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>创始人打造非盈利人工智能产品的幕后故事</title>
       <link>https://feed.indiehackers.world/post/61a2a67af8</link>
@@ -25,7 +115,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>商业想法验证清单</title>
       <link>https://feed.indiehackers.world/post/637e092fbb</link>
-      <description><![CDATA[验证您对新业务或新产品的想法是重要的一步，可以确保您不会浪费时间，并有助于获得可改进您的产品的反馈。在 Founder Reports，我们创建了这个免费的 5 步商业创意验证清单，以使流程变得简单。它可以作为概念模板使用，也可以作为可打印的 PDF 提供，以指导您完成每个步骤的特定任务。
+      <description><![CDATA[验证您对新业务或新产品的想法是确保您不会浪费时间并帮助获得反馈以改进您的产品的重要一步。在 Founder Reports，我们创建了这个免费的 5 步商业创意验证清单，以使流程变得简单。它可以作为概念模板使用，也可以作为可打印的 PDF 提供，以指导您完成每个步骤的特定任务。
 https://Founderreports.com/free-business-idea-validation-checklist/ 
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/637e092fbb</guid>
@@ -50,7 +140,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>基于订阅的模型：初创公司建立经常性收入的指南</title>
       <link>https://feed.indiehackers.world/post/4f80d6c2f5</link>
-      <description><![CDATA[构建成功的基于订阅的模式需要将引人注目的产品、有效的营销以及为客户提供持续价值的承诺结合起来。根据客户反馈和市场趋势定期评估和调整您的策略，以在不断变化的商业环境中保持竞争力。
+      <description><![CDATA[建立成功的基于订阅的模式需要将引人注目的产品、有效的营销以及为客户提供持续价值的承诺结合起来。根据客户反馈和市场趋势定期评估和调整您的策略，以在不断变化的商业环境中保持竞争力。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4f80d6c2f5</guid>
       <pubDate>Fri, 02 Feb 2024 10:55:19 GMT</pubDate>
@@ -65,83 +155,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/803b87e541</guid>
       <pubDate>Fri, 02 Feb 2024 10:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 月份，我们的付费客户增长了 100%，MRR 增长了 50%。</title>
-      <link>https://feed.indiehackers.world/post/37fa40288a</link>
-      <description><![CDATA[一月是 BluedotHQ 表现最好的月份。 
-付费用户数量增加 100%
-MRR 增长 50%
-我们网站的流量增长了 120%
-与其他几位创始人交谈，他们表示上个月的表现非常强劲。 
-你经历过同样的一月魔法吗？ 🪄🪄🪄
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/37fa40288a</guid>
-      <pubDate>Fri, 02 Feb 2024 10:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>+500 个创业公司目录供您提交创业公司</title>
-      <link>https://feed.indiehackers.world/post/4fc0699fb4</link>
-      <description><![CDATA[一个数据库，其中列出了您可以在启动启动时传播信息的所有位置。
-链接：https://datanerd.gumroad.com/l/jbpoy/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4fc0699fb4</guid>
-      <pubDate>Fri, 02 Feb 2024 09:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频编辑新时代</title>
-      <link>https://feed.indiehackers.world/post/4f15725a8b</link>
-      <description><![CDATA[我们只是重构了视频编辑的未来，并推出了革命性的在线视频编辑器https://chillin.online。希望你可以尝试一下！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4f15725a8b</guid>
-      <pubDate>Fri, 02 Feb 2024 08:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 30 个最佳 ChatGPT 替代品（免费和付费）</title>
-      <link>https://feed.indiehackers.world/post/04cfdf0ed1</link>
-      <description><![CDATA[像 ChatGPT 这样的人工智能工具正在重新定义边界，彻底改变创意写作、编码和视觉内容创建。尽管 ChatGPT 的功能令人印象深刻，但它的局限性也不容忽视。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/04cfdf0ed1</guid>
-      <pubDate>Fri, 02 Feb 2024 08:25:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何使用 Reddit 进行有机营销？</title>
-      <link>https://feed.indiehackers.world/post/1d355eb36a</link>
-      <description><![CDATA[您的用例是什么？ 
-你发现成功了吗？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1d355eb36a</guid>
-      <pubDate>Fri, 02 Feb 2024 07:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的新产品——没有投票系统的反馈板</title>
-      <link>https://feed.indiehackers.world/post/d36e11aa91</link>
-      <description><![CDATA[各位黑客大家好！
-几周前，我分享了我如何改变我的创业之旅。并且上周，我深入研究了我将如何选择下一家初创公司想法。在分享这些想法时，我决定追求一个渗透的想法。
-几天前，我开始致力于Feedbackpaw。我通常从制作 MVP 开始，但现在我想要一种不同的方法– 在构建之前先讨论。
-您对这个想法有何看法？它并不新，而且空间很拥挤。您认为还有一个利基市场需要它吗？
-任何形式的反馈都将不胜感激。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d36e11aa91</guid>
-      <pubDate>Fri, 02 Feb 2024 07:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于如何预售优质研究报告订阅的想法？</title>
-      <link>https://feed.indiehackers.world/post/9f94ed1f86</link>
-      <description><![CDATA[这行得通吗？我是否需要为未来的订阅者做类似的事情，以便在每月的指定日期进行所有计费，或者我是否会在他们订阅时开始收取费用？
-我对此有点困惑。任何想法将不胜感激。
-谢谢！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9f94ed1f86</guid>
-      <pubDate>Fri, 02 Feb 2024 07:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁使用冷电子邮件来扩展规模以获得第一批客户？</title>
-      <link>https://feed.indiehackers.world/post/ea3e01e37c</link>
-      <description><![CDATA[有什么效果特别好的吗？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ea3e01e37c</guid>
-      <pubDate>Fri, 02 Feb 2024 05:28:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

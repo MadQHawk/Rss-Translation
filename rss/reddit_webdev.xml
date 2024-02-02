@@ -4,18 +4,67 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 12:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 15:13:35 GMT</lastBuildDate>
+    <item>
+      <title>了解访问网站时 DNS 解析的工作原理 👇</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah4gap/understanding_how_dns_resolution_works_when/</link>
+      <description><![CDATA[      有没有想过您的网络浏览器如何知道在哪里可以找到您要访问的网站？让我们来分解一下 DNS（域名系统）解析背后的魔力： 🌐 Web 服务器和 IP 地址： 每个 Web 服务器都由唯一的 IP 地址标识，该地址是一系列数字，计算机用于在互联网上相互定位。当您想要访问某个网站时，您的网络浏览器需要将人类友好的域名转换为该数字 IP 地址。  💡什么是 DNS？ DNS 就像互联网的电话簿。它是一个将域名转换为 IP 地址的服务器网络，使我们可以更轻松地浏览网络，而无需记住数字。  🔍 DNS 服务器： 当您想要访问网站时，您的设备首先在本地、路由器和 ISP DNS 缓存中查找该网站的 IP 地址。如果在那里找不到，则会继续通过一系列旨在解析域名的 DNS 服务器进行搜索：   根名称服务器：查询从此处开始。根服务器不存储各个站点的 IP 地址。相反，他们知道在哪里可以找到 TLD（顶级域）服务器。  TLD 服务器：这些服务器管理特定扩展名（例如 .com 或 .net）下的域，并且可以将查询定向到每个域的确切权威名称服务器。  权威名称服务器：通常由 GoDaddy 等域名卖家提供，这些服务器保存域的实际 DNS 记录，包括您的浏览器访问网站所需的关键 IP 地址。   🔄 DNS 解析过程： 让我们来看看 DNS 解析的步骤。   设备请求 IP 地址：您的设备向 DNS 解析器（ISP 的递归 DNS 服务器）发送查询，以查找网站域名的 IP 地址。  查询根服务器：DNS 解析器联系根服务器，根服务器以域扩展的 TLD 服务器地址进行响应。  查询 TLD 服务器：解析器然后查询 TLD 服务器，TLD 服务器将其定向到该域的权威名称服务器。  查询权威服务器：解析器从权威服务器检索IP地址。  访问网站：浏览器使用 IP 地址与 Web 服务器建立连接，Web 服务器将网页内容发送回您的浏览器。   瞧！网页加载到您的设备上，您可以访问您正在寻找的信息，而无需看到幕后复杂的网络交互。  https://preview.redd .it/5gw18a8li6gc1.png?width=734&amp;format=png&amp;auto=webp&amp;s=b975c14f41c578e657e9ee887de8fdff2b9fc5a1   由   提交 /u/Krishan_Shamod   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah4gap/understanding_how_dns_resolution_works_when/</guid>
+      <pubDate>Fri, 02 Feb 2024 14:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建具有支付网关和安全层的全栈电子商务网站的指南。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah44m4/guidance_for_creating_a_full_stack_ecommece_site/</link>
+      <description><![CDATA[我必须创建一个包含产品列表、购物车、购买页面、管理门户的电子商务网站，目前卖家将是单一实体，并且集成用于支付的支付网关。我想问什么是足够的技术堆栈。我假设高峰时段每天有 1000 个唯一用户，但这对为未来做好准备不会有什么坏处。我目前在 scala 中工作，但不想在此基础上构建后端，因为可维护性将是一个问题，因为新用户在没有适当培训的情况下将无法使用 scala 后端。所以我的问题是： 1.我应该使用什么技术堆栈（我有 meern 的基本概念 - 在大学时代使用，golang - 最近探索过，scala/java（在工作中使用它） - 不是 java 的粉丝）。 2. 在您建议的特定堆栈中，就良好代码实践而言，需要记住哪些事项。 3. 您之前使用过/您建议使用哪种支付网关以及集成它的任何文档。 4. 您对我有任何网络和安全框架或建议。 5. 任何前端开源模板都可以开始，因为我是后端人员。 6. 还有一些框架，例如shopify等。我没有使用它们的经验，如果有人以前使用过它们，您可以分享您的经验吗？ 非常感谢任何反馈或建议。谢谢   由   提交 /u/ExplorerEasy5553   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah44m4/guidance_for_creating_a_full_stack_ecommece_site/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助将我的域从 Hostgator 定向到 Webflow</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah42cw/need_help_directing_my_domain_away_from_hostgator/</link>
+      <description><![CDATA[我是这方面的新手。我的情况是这样的：我有一个几年前建立的旧网站。我从 IONOS 购买了域名，我记得当时将 DNS 定向到我在 Hostgator 上的托管帐户。  现在，我使用 Webflow 创建了一个新网站，并尝试将我购买的 IONOS 域定向到 Webflow 的托管。  我的 IONOS DNS 没有显示任何记录，当我尝试按照 Webflow 的说明添加新记录时，即使我看到一条消息说已成功添加，仍然没有新记录显示在那里。不过，我的 Hostgator 有记录。  这是我从 Hostgator 中删除记录的第一步。然后在IONOS和Webflow之间进行域名重定向？   由   提交 /u/DudeFromNewYork   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah42cw/need_help_directing_my_domain_away_from_hostgator/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:48:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我理解有关无服务器应用程序/数据交换到 Auth0 的一些原则吗，我迷路了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah409u/can_somebody_help_me_understand_some_principles/</link>
+      <description><![CDATA[您好，我基本上是通过在线课程和 YouTube 视频学习编程挖掘。目前我正在开发一个 webapp 构建，并在 Vercel 上部署了 React。我对我想要构建的内容（个人用户设置、新闻提要获取）的要求非常有限，到目前为止，我已经能够使用 Auth0 实现身份验证，效果很好，但当涉及到实际使用 Auth0 时，我真的迷失了。我快要疯了，因为网上这么多信息似乎相互矛盾。 我想要的只是在页面上显示用户的名字和一个允许用户选择个人的设置页面优先。我在第一个项目上就已经失败了，这听起来完全是可笑的。 Auth0 不会要求在注册页面上提供名字，因此我想我可以抓取用户界面上的数据并将其发送回 Auth0 以将其存储为元数据 - 不知道如何实现。 我可以吗？需要后端吗？ API？ 如果有人愿意透露一些信息，我将不胜感激。 非常感谢，祝一切顺利   由   提交/u/Vincenzo_K   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah409u/can_somebody_help_me_understand_some_principles/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取作者对象和内容对象</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah3wqi/how_to_get_the_author_object_and_content_object/</link>
+      <description><![CDATA[    &lt; /a&gt;  我已经尝试访问它们大约一个小时了   由   提交 /u/Bubbly-Exit-6569   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah3wqi/how_to_get_the_author_object_and_content_object/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 URL 因某种原因被盗用，如何恢复？由于某种原因，这就是网页现在显示的内容。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah3hnz/my_url_was_somehow_compromised_how_do_i_get_it/</link>
+      <description><![CDATA[    /u/TSPF11   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah3hnz/my_url_was_somehow_compromised_how_do_i_get_it/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:19:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 flecks：不是全栈框架！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ah37wh/introducing_flecks_not_a_fullstack_framework/</link>
+      <description><![CDATA[       由   提交/u/cha0s  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ah37wh/introducing_flecks_not_a_fullstack_framework/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:05:35 GMT</pubDate>
+    </item>
     <item>
       <title>建立一个像 HeyPeers 这样的网站可能要花多少钱？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ah2afz/how_much_is_it_likely_to_cost_to_build_a_website/</link>
-      <description><![CDATA[嗨， 我住在孟加拉国，我希望以尽可能便宜的价格建立一个网站。该网站将为英文，非常类似于：https://www.heypeers.com/  有人可以告诉我建立这样一个网站可能要花多少钱吗？    由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我住在孟加拉国，我希望以尽可能便宜的价格建立一个网站。该网站将是英文的，非常类似于：https://www.heypeers.com/  有人可以告诉我建立这样一个网站可能要花多少钱吗？    由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ah2afz/how_much_is_it_likely_to_cost_to_build_a_website/</guid>
       <pubDate>Fri, 02 Feb 2024 12:14:17 GMT</pubDate>
     </item>
     <item>
       <title>你用什么将图像转换为 WEBP 并压缩它们？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ah20vl/what_do_you_use_to_convert_images_to_webp_and/</link>
-      <description><![CDATA[您是否使用特定的软件、命令或网站将图像转换为 WEBP 并对其进行压缩？ 我正在寻找快速解决方案（如右键单击 -&gt; 转换为 webp 并压缩）。  我经常创建图像、下载图像或创建屏幕截图...然后我需要将其压缩为 WEBP，然后再将其包含在网站中。 您有什么建议用于日常运营？    由   提交 /u/collimarco   [链接] [评论]]]></description>
+      <description><![CDATA[您是否使用特定的软件、命令或网站将图像转换为 WEBP 并压缩它们？ 我正在寻找快速解决方案（如右键单击 -&gt; 转换为 webp 并压缩）。  我经常创建图像、下载图像或创建屏幕截图...然后我需要将其压缩为 WEBP，然后再将其包含在网站中。 您有什么建议用于日常运营？    由   提交 /u/collimarco   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ah20vl/what_do_you_use_to_convert_images_to_webp_and/</guid>
       <pubDate>Fri, 02 Feb 2024 11:58:55 GMT</pubDate>
     </item>
@@ -36,7 +85,7 @@
     <item>
       <title>如何自行托管和嵌入视频以针对不同的互联网速度使用自适应比特率，同时优化视频以进行 SEO？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ah1jr0/how_to_selfhost_and_embed_videos_to_use_adaptive/</link>
-      <description><![CDATA[我们目前使用 Vimeo，但播放器太慢了。我的网站上是否可以有自我托管的视频，可以不断调整以适应用户的互联网速度？我们有一个相当强大的服务器，并在我们的网站上使用 WordPress - 如果有任何插件，他们会非常受欢迎 - 我见过的大多数都没有大量安装或已经有一段时间没有更新了。  我们将拥有将成为网站元素的自动播放静音循环以及“正常”循环。带有播放器控件和音频的视频可供观看。到目前为止，我们一直在使用 JavaScript 来选择视频文件 - 但据我了解，自适应比特率也可以通过本机 HTML 实现吗？ 我有点不知所措。我接触过 HLS 和 DASH，但我不知道如何正确使用它们。据 caniuse.com 称，两者都没有得到广泛支持。 我们还希望向视频中添加结构化数据，以提高 SEO 可见性 - 在 Google 因我的 JavaScript 代码而无法识别视频之前。  p&gt; 如果您能在这里帮助我并给我一些最佳实践，那就太好了。 我不是开发人员，就我的研究而言：许多您可能会说“那就不要托管我们自己的视频”。但我被要求测试它 - 所以我真的想提出一个选择。另外，我有兴趣并愿意学习并提高我的理解。   由   提交/u/anonmoez  [链接] [评论]]]></description>
+      <description><![CDATA[我们目前使用 Vimeo，但播放器太慢了。我的网站上是否可以有自我托管的视频，可以不断调整以适应用户的互联网速度？我们有一个相当强大的服务器，并在我们的网站上使用 WordPress - 如果有任何插件，他们会非常受欢迎 - 我见过的大多数都没有大量安装或已经有一段时间没有更新了。  我们将拥有将成为网站元素的自动播放静音循环以及“正常”循环。带有播放器控件和音频的视频可供观看。到目前为止，我们一直在使用 JavaScript 来选择视频文件 - 但据我了解，自适应比特率也可以通过本机 HTML 实现吗？ 我有点不知所措。我接触过 HLS 和 DASH，但我不知道如何正确使用它们。根据 caniuse.com 的说法，两者都没有得到广泛支持。 我们还希望向我们的视频添加结构化数据，以提高 SEO 可见性 - 在 Google 因我的 JavaScript 代码而无法识别视频之前。  p&gt; 如果您能在这里帮助我并给我一些最佳实践，那就太好了。 我不是开发人员，就我的研究而言：许多您可能会说“那就不要托管我们自己的视频”。但我被要求测试它 - 所以我真的想提出一个选择。另外，我有兴趣并愿意学习并提高我的理解。   由   提交/u/anonmoez  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ah1jr0/how_to_selfhost_and_embed_videos_to_use_adaptive/</guid>
       <pubDate>Fri, 02 Feb 2024 11:28:14 GMT</pubDate>
     </item>
@@ -57,58 +106,9 @@
     <item>
       <title>厌倦了网络兄弟</title>
       <link>https://www.reddit.com/r/webdev/comments/1ah0yl0/tired_of_web_bros/</link>
-      <description><![CDATA[作为一名自由网页设计师 &amp;自 2000 年中期以来，我一直是一名开发人员，请允许我花一点时间来表达我对当前情况的沮丧，以及是否其他人也有同样的感觉。 网页设计曾经是一种创造性的、有趣的东西。这感觉就像是激烈竞争的另一种选择，尽管我们经常帮助他们，但感觉与董事会会议室里的西装革履截然不同。但现在似乎每个角落都充满了技术兄弟，告诉我他们如何我的业务将扩大十倍，或者建立一个必须拥有这么多数字的机构。感觉就像销售人员一夜之间成为了想要成为网页设计师的人，现在根据行业中一半人的说法，另一半人做的一切都是错的，应该像他们一样做。而且你不可能只是为了好玩而这样做，你一定是为了赚大钱。我知道仍然有很多真诚的人因为热爱而这样做，并且真正擅长他们的工作去做——想要赚大钱并没有错。但似乎对每个人来说，都有一个新的卖蛇油的骗子。或者也许我只是老了，脾气暴躁。有人听到我的声音吗？    由   提交/u/nomadickid942  [链接] [评论]]]></description>
+      <description><![CDATA[作为一名自由网页设计师 &amp;自 2000 年中期以来，我一直是一名开发人员，请允许我花一点时间来表达我对当前情况的沮丧，以及是否其他人也有同样的感觉。 网页设计曾经是一种创造性的、有趣的事情。这感觉就像是激烈竞争的另一种选择，尽管我们经常帮助他们，但感觉与董事会会议室里的西装革履截然不同。但现在似乎每个角落都充满了技术兄弟，告诉我他们如何我的业务将扩大十倍，或者建立一个必须拥有这么多数字的机构。感觉就像销售人员一夜之间成为了想成为网页设计师的人，现在根据行业中一半人的说法，另一半人做的一切都是错的，应该像他们一样做。而且你不可能这样做是为了好玩，你一定是为了赚大钱。我知道仍然有很多真诚的人因为热爱而这样做，并且真正擅长他们的工作去做——想要赚大钱并没有错。但似乎对每个人来说，都有一个新的卖蛇油的骗子。或者也许我只是老了，脾气暴躁。有人听到我的声音吗？    由   提交/u/nomadickid942  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ah0yl0/tired_of_web_bros/</guid>
       <pubDate>Fri, 02 Feb 2024 10:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kirby CMS 教程/课程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah0cja/kirby_cms_tutorialscourses/</link>
-      <description><![CDATA[大家好， 如果我走错地方了，请原谅，你知道我可以在哪里找到吗有哪些课程可以帮助您了解 Kirby CMS？  谢谢。   由   提交 /u/dirkyamaok   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah0cja/kirby_cms_tutorialscourses/</guid>
-      <pubDate>Fri, 02 Feb 2024 10:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以从服务器提供所有小内容吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah08xn/can_we_serve_everything_little_content_from_the/</link>
-      <description><![CDATA[我们可以在服务器上提供带有/不带有动态内容的每个页面吗？这意味着，我们需要添加到页面的每个内容都添加到服务器上，甚至是像亚马逊产品这样的动态内容，然后提供预先准备好的文件，其中客户端的工作只是显示页面由服务器准备并提供。基本上有点像wordpress。它提供服务器上的所有内容，包括动态内容。是否可以使用express和node来实现？基本上是一个完全使用服务器端的全栈应用程序，几乎不使用客户端编程。是否可以 ？会有多困难？   由   提交 /u/green_viper_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah08xn/can_we_serve_everything_little_content_from_the/</guid>
-      <pubDate>Fri, 02 Feb 2024 10:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！需要添加水平滚动条</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ah007m/help_need_to_add_horizontal_scroll/</link>
-      <description><![CDATA[大家好， 我是个菜鸟，需要帮助！如何为其添加水平滚动条？ （我可以抓住它并滑动，但我也想要水平滚动） https://codepen.io/ Hyperplexed/pen/MWXBRBp  是否可以添加点击图像交互并将其缩放到完整视图尺寸？也有平滑的过渡  ​   由   提交 /u/TheJokerHisoka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ah007m/help_need_to_add_horizontal_scroll/</guid>
-      <pubDate>Fri, 02 Feb 2024 09:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>将翻译添加到由嵌入式网络服务器提供服务的网站的建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agzvpy/suggestions_for_adding_translations_to_a_website/</link>
-      <description><![CDATA[我有一个内置网络服务器的物联网设备。网站部分相当全面，而且只有英文。有没有常见的方法/建议的方法来添加翻译？理想情况下，不会占用太多空间（存储代码的内存有限）。 ​   由   提交 /u/MartynCurrey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agzvpy/suggestions_for_adding_translations_to_a_website/</guid>
-      <pubDate>Fri, 02 Feb 2024 09:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS和服务器迁移问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agypxn/dns_and_server_migration_question/</link>
-      <description><![CDATA[大家好， 我是新来的人。最近我在一家开发商机构获得了第一个开发人员职位。这是一家拥有相当一部分客户的小企业。我想得到一些关于这个问题的意见，因为我是一个新人，所以我不完全确定这是否疯狂。  我们拥有这些大型服务器，可以托管 30-60 多个站点。最近，服务器出现问题，导致需要关闭。现在我们必须检查 60 个站点的 DNS 记录并手动将它们全部更新到新服务器。有些位于不同的 dns 帐户后面，有些是委托的，有些我们甚至无法直接访问。这一切对我来说听起来有点疯狂。  所有这些 dns 记录难道不应该指向某个负载均衡器或中间服务器，并保留静态 IP，只负责将流量路由到托管站点的服务器吗？这样您就不需要手动更新多个 DNS 记录。您可以只调整负载均衡器/中间服务器吗？   由   提交/u/porkins1196   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agypxn/dns_and_server_migration_question/</guid>
-      <pubDate>Fri, 02 Feb 2024 08:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 PlayStation 网站上的滚动动画看起来比 Bambu Lab 好得多？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agxyfk/why_does_the_scrolling_animation_look_so_much/</link>
-      <description><![CDATA[我在 PlayStation 5 网站&lt; /a&gt;，滚动动画看起来比 Bambu Lab. 这是为什么呢？他们不都是用同样的逻辑和技术来做出这样的效果吗？有什么区别？   由   提交 /u/TBarni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agxyfk/why_does_the_scrolling_animation_look_so_much/</guid>
-      <pubDate>Fri, 02 Feb 2024 07:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助 - HTML + CSS 文件未链接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1agxjjy/help_needed_html_css_files_not_linking/</link>
-      <description><![CDATA[前端向导： ​ 我有一个 HTML 文件，我们称之为 x .html 和 styles.css。它们都保存在同一个文件夹中，没有其他文件。但是，CSS 显示为 Tor 文件。我已经打开了 html 文件，它只是纯文本。  ​ Html: ;  &lt;html&gt; &lt;头&gt;  &lt;标题&gt;RealiseHome系统&lt;/标题&gt; &lt;/head&gt; CSS： ​ html { 背景颜色：darkolivegreen; } head{ 背景颜色：darkolivegreen;不透明度：0.6；字体系列：Arial、Helvetica、sans-serif；字体大小：26pt； } 正文 { 背景颜色：darkolivegreen;不透明度：0.6；字体系列：Arial、Helvetica、sans-serif；字体大小：14pt； }  我做错了什么？提前致谢。 ​   由   提交/u/Zarathustra_04   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1agxjjy/help_needed_html_css_files_not_linking/</guid>
-      <pubDate>Fri, 02 Feb 2024 06:47:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
