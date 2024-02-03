@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 03 Feb 2024 06:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 09:14:35 GMT</lastBuildDate>
     <item>
       <title>离岸 PHP 开发的最佳实践和挑战</title>
       <link>https://feed.indiehackers.world/post/9fcc0e59a0</link>
@@ -17,7 +17,7 @@
 利用具有异步功能的协作平台
 
 虽然不是灵丹妙药，但仔细的安排和严格的沟通可以最大限度地减少时区问题。
-如果正确预期和计划，离岸人才和更快交付的优势将胜过挑战。
+如果正确预期和规划，离岸人才和更快交付的优势将胜过挑战。
 在最早的规划阶段遵循最佳实践有助于避免通信故障、安全问题和协调问题。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9fcc0e59a0</guid>
@@ -27,7 +27,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>😴 拖延症患者快速一事无成的指南</title>
       <link>https://feed.indiehackers.world/post/5ce4ee5aac</link>
       <description><![CDATA[大家好👋
-为我的业余项目写了一篇新的博客文章 - Pomotastic 👉拖延症患者一事无成的指南。
+为我的业余项目写了一篇新的博客文章 - Pomotastic 👉 拖延症患者一事无成的指南。
 &lt;块引用&gt;
 欢迎来到拖延大师的世界，在这里，拖延的艺术占据了中心舞台。在本指南中，我们将为那些渴望以令人印象深刻的效率一事无成的人探索七种专家级技术。虽然我们不鼓励这些做法以获得长期成功，但它们提供了一个轻松的视角，告诉我们如何不把事情做好。
 
@@ -84,11 +84,11 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Tue, 30 Jan 2024 04:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>MVP ✅ --> 寻求营销线索以推动进入市场策略 B2B 销售 SAAS APP</title>
+      <title>MVP ✅ --> 寻求营销线索以推动进入市场策略 B2B 销售 SAAS 应用程序</title>
       <link>https://feed.indiehackers.world/post/a95ef3fd13</link>
       <description><![CDATA[召集所有数字营销专家！ ThreadLive，一个革命性的 B2B 销售平台，有望颠覆整个行业。我们正在寻找一位充满热情和战略思维的人来领导我们在营销方面的市场推广工作。
-什么是 ThreadLive？ 💡 想象一下 Gmail 与 B2B 销售的 Notion 相结合——一个统一的平台，销售人员可以直接通过时尚、直观的界面管理整个业务。我们的 MVP 通过 Chrome 扩展程序无缝连接到 Gmail，从而提高工作效率并简化工作流程。 
-🦾我们正在致力于基于独特电子邮件数据的人工智能驱动的销售自动化，取代繁重的工作并放大人类的影响。 （我们的 ike 电子邮件组织平台将相关对话分组在一起，这对于训练我们的模型来说非常完美）
+什么是 ThreadLive？ 💡 想象一下，Gmail 与 B2B 销售的 Notion 相结合，这是一个统一的平台，销售人员可以直接通过时尚、直观的界面管理整个业务。我们的 MVP 通过 Chrome 扩展程序无缝连接到 Gmail，从而提高工作效率并简化工作流程。 
+🦾我们正在致力于基于独特电子邮件数据的人工智能驱动的销售自动化，取代繁重的工作并扩大人类影响。 （我们的 ike 电子邮件组织平台将相关对话分组在一起，这对于训练我们的模型来说非常完美）
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a95ef3fd13</guid>
       <pubDate>Mon, 29 Jan 2024 18:41:27 GMT</pubDate>
@@ -97,14 +97,14 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>利用软件和工具进行快速 SaaS 验证和开发</title>
       <link>https://feed.indiehackers.world/post/559f94722c</link>
       <description><![CDATA[
-Excalidraw：一款白板工具，可让您轻松集思广益和可视化想法，创建和共享图表、线框图，以及许多其他事情。
+Excalidraw：一种白板工具，可让您轻松集思广益和可视化想法，创建和共享图表、线框图，以及许多其他事情。
 Draft.io：一款协作工具，超直观、易于使用且非常有用，免费-构建模板
 
 此过程将帮助您了解整个故事，并构建正确的产品。
 网站和着陆页：将访问者转化为潜在客户
 您的目标网页通常是与潜在用户和客户互动的第一个点。它应该有吸引力、信息丰富且令人信服。
 
-Figma：一款功能强大的设计工具，易于使用，可以创建令人惊叹的网页设计，并且许多免费登陆页面、网站、移动应用程序等的模板。它还拥有一个广泛的插件库，可以组合工具并提高生产力。
+Figma：一款功能强大的设计工具，可轻松用于创建令人惊叹的网页设计，并且许多免费登陆页面、网站、移动应用程序等的模板。它还拥有一个广泛的插件库，可以组合工具并提高生产力。
 
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/559f94722c</guid>
@@ -228,7 +228,7 @@ Discord 独立黑客聊天广告这里]]></description>
 建立一个等待名单来验证需求。
 
 Dorik 可让您注册 Dorik AI。它有助于为您的网站生成用户界面、文案和图像。
-Slack 可让您注册 &gt;Slack AI。它有助于深入了解您的聊天和知识库。
+Slack 可让您注册  &gt;Slack AI。它有助于深入了解您的聊天和知识库。
 JetBrains 可让您注册 JetBrains Grazie。它可以帮助软件团队更好地编写和沟通。
 
 
