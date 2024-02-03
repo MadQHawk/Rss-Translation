@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 02 Feb 2024 21:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 00:51:28 GMT</lastBuildDate>
     <item>
-      <title>🚀 创业指南 🚀 准备好开展您的梦想事业了吗？请遵循以下 5 个步骤：https://ckinnovation.ca/articles/how-to-start-a-6-figure-business 🧠 步骤 1：构思您的业务 探索您...</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahe2w7/start_a_business_guide_ready_to_launch_your_dream/</link>
+      <title>OSI 解程序器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahiuxx/the_osi_deprogrammer/</link>
+      <description><![CDATA[ 由   提交 /u/FUZxxl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahiuxx/the_osi_deprogrammer/</guid>
+      <pubDate>Sat, 03 Feb 2024 00:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我编写了一个脚本来解析所有英语维基词典以生成单词形式及其引理的数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahilj1/i_wrote_a_script_that_parses_all_of_the_english/</link>
+      <description><![CDATA[我只是想从最常用的西班牙语单词列表中获取西班牙语单词列表来学习，结果发现该列表没有进行词形还原。在那之后和一些注意力缺陷多动症之后，这就是我写的。 这无疑是非常粗糙的 - 如果您总体上熟悉维基词典和维基文本，那么我们非常欢迎（并且需要）贡献！   由   提交/u/Heartade  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahilj1/i_wrote_a_script_that_parses_all_of_the_english/</guid>
+      <pubDate>Sat, 03 Feb 2024 00:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>听说过飞轮内容营销吗？ ⚙️ 想要彻底改变您的营销策略吗？探索内容飞轮——一个旨在增强动力并促进持久关系的战略框架……</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahhzfk/ever_heard_of_flywheel_content_marketing_looking/</link>
       <description><![CDATA[ 由   提交 /u/Chris-t-fire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahe2w7/start_a_business_guide_ready_to_launch_your_dream/</guid>
-      <pubDate>Fri, 02 Feb 2024 20:58:50 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1ahhzfk/ever_heard_of_flywheel_content_marketing_looking/</guid>
+      <pubDate>Fri, 02 Feb 2024 23:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求率的 SI 单位</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahgugy/si_units_for_request_rate/</link>
+      <description><![CDATA[ 由   提交 /u/finallyanonymous   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahgugy/si_units_for_request_rate/</guid>
+      <pubDate>Fri, 02 Feb 2024 22:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yokai：一个简单、模块化、可观察的 Go 框架，考虑了 k8s，但又不仅仅如此。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahg6z8/yokai_a_simple_modular_and_observable_go/</link>
+      <description><![CDATA[ 由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahg6z8/yokai_a_simple_modular_and_observable_go/</guid>
+      <pubDate>Fri, 02 Feb 2024 22:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Djot 而不是 Markdown 写博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahejx2/blogging_in_djot_instead_of_markdown/</link>
+      <description><![CDATA[ 由   提交/u/jonas_h   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahejx2/blogging_in_djot_instead_of_markdown/</guid>
+      <pubDate>Fri, 02 Feb 2024 21:18:26 GMT</pubDate>
     </item>
     <item>
       <title>使用 Go 的配置文件引导优化 (PGO) 将数据库的读取延迟减少 5%</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ahagob/microdot_a_web_framework_for_microcontrollers/</guid>
       <pubDate>Fri, 02 Feb 2024 18:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我们的 iOS 构建系统从 Buck 迁移到 Bazel</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagna/migrating_our_ios_build_system_from_buck_to_bazel/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagna/migrating_our_ios_build_system_from_buck_to_bazel/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpeedTests：比较各种编程语言的执行速度</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagm2/speedtests_comparing_the_execution_speeds_of/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagm2/speedtests_comparing_the_execution_speeds_of/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPUI 中的所有权和数据流</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagko/ownership_and_data_flow_in_gpui/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagko/ownership_and_data_flow_in_gpui/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使异步 Rust 变得可靠</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagk5/making_async_rust_reliable/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagk5/making_async_rust_reliable/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sporth - 基于堆栈的音频编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagj1/sporth_a_stackbased_audio_programming_language/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagj1/sporth_a_stackbased_audio_programming_language/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
