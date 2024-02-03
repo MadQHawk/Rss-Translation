@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 03 Feb 2024 03:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 06:14:47 GMT</lastBuildDate>
+    <item>
+      <title>什么是协程？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahoytk/what_is_goroutine/</link>
+      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahoytk/what_is_goroutine/</guid>
+      <pubDate>Sat, 03 Feb 2024 05:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Python 中将文本转换为语音：Python 挑战 14</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahowe8/transform_text_to_speech_in_python_python/</link>
+      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahowe8/transform_text_to_speech_in_python_python/</guid>
+      <pubDate>Sat, 03 Feb 2024 05:42:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>👨‍💻 稳定代码 3B：人工智能驱动的编码稳定性新时代 AI 推出了一款可以重新定义我们所知道的编码的工具。您认为它改变行业的潜力如何？ 🔗 讨论和见解：阅读更多>>> https://justaitrends.com/stable-code-3b/</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahnzx3/stable_code_3b_a_new_era_in_aipowered_coding/</link>
+      <description><![CDATA[ 由   提交 /u/justaitrends   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahnzx3/stable_code_3b_a_new_era_in_aipowered_coding/</guid>
+      <pubDate>Sat, 03 Feb 2024 04:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 CanIUse.com 不 100% 支持 <html> 元素？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahmhlo/why_isnt_the_html_element_100_supported_on/</link>
+      <description><![CDATA[ 由   提交/u/segfaultcrisis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahmhlo/why_isnt_the_html_element_100_supported_on/</guid>
+      <pubDate>Sat, 03 Feb 2024 03:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>PiSegment（一个轻量级的Python软件，用于图像分割，带有少量人工注释）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahm8e6/pisegment_a_lightweight_python_software_for_image/</link>
+      <description><![CDATA[ 由   提交 /u/No_Effective7572   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahm8e6/pisegment_a_lightweight_python_software_for_image/</guid>
+      <pubDate>Sat, 03 Feb 2024 03:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>如何入职</title>
       <link>https://www.reddit.com/r/programming/comments/1ahkkta/how_to_onboard/</link>
@@ -34,7 +69,7 @@
       <pubDate>Fri, 02 Feb 2024 22:56:19 GMT</pubDate>
     </item>
     <item>
-      <title>Yokai：一个简单、模块化、可观察的 Go 框架，考虑了 k8s，但又不仅仅如此。</title>
+      <title>Yokai：一个简单、模块化、可观察的 Go 框架，考虑到了 k8s，但又不仅仅如此。</title>
       <link>https://www.reddit.com/r/programming/comments/1ahg6z8/yokai_a_simple_modular_and_observable_go/</link>
       <description><![CDATA[ 由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ahg6z8/yokai_a_simple_modular_and_observable_go/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/islon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ahbzfl/introducing_pkl_a_programming_language_for/</guid>
       <pubDate>Fri, 02 Feb 2024 19:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>法律推理和质量保证有联系吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahbln0/legal_reasoning_and_quality_assurance_is_there_a/</link>
-      <description><![CDATA[ 由   提交/u/cheq  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahbln0/legal_reasoning_and_quality_assurance_is_there_a/</guid>
-      <pubDate>Fri, 02 Feb 2024 19:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个偷偷摸摸的 1 行更改加速了 subprocess#communicate 1000x+</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahbfet/this_sneaky_1line_change_sped_up/</link>
-      <description><![CDATA[ 由   提交/u/sYnfo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahbfet/this_sneaky_1line_change_sped_up/</guid>
-      <pubDate>Fri, 02 Feb 2024 19:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>单体应用、微服务和无服务器并不是您想象的那样</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahasw0/monoliths_microservices_and_serverless_arent_what/</link>
-      <description><![CDATA[ 由   提交 /u/moonbunR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahasw0/monoliths_microservices_and_serverless_arent_what/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于“gotofail”错误的小故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagph/a_short_story_about_the_gotofail_bug/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagph/a_short_story_about_the_gotofail_bug/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microdot：微控制器的网络框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahagob/microdot_a_web_framework_for_microcontrollers/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahagob/microdot_a_web_framework_for_microcontrollers/</guid>
-      <pubDate>Fri, 02 Feb 2024 18:24:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
