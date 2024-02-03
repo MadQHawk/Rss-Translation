@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 03 Feb 2024 18:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 21:11:16 GMT</lastBuildDate>
+    <item>
+      <title>Web 应用程序在平板电脑上的性能与本机应用程序的性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai67fk/performance_of_web_app_on_tablet_v_native_app/</link>
+      <description><![CDATA[大家好， 我是一名构建读写应用程序的 React 开发人员。全部构建在网络上。它有很多声音（字母声音和反馈等）以及大量拖放和排序等。 生产性能从来没有像本地主机那样反应灵敏，在平板电脑上感觉更糟/电话。是否有可能让网络应用程序在反应性方面感觉接近本机应用程序质量？是否有核心模式、架构需要注意？ 我预加载了所有音频并使用 howl.js，这当然有帮助，但感觉仍然更快...... 谢谢！   由   提交/u/deadant88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai67fk/performance_of_web_app_on_tablet_v_native_app/</guid>
+      <pubDate>Sat, 03 Feb 2024 21:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个小型网络应用程序来创建和生成鼓循环</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai5qd7/i_made_a_small_webapp_to_create_and_generate_drum/</link>
+      <description><![CDATA[     &lt; td&gt; ​ https://i.redd.it/mblwt4xwnfgc1.gif ​ 过去几个月一直致力于此。偶然发现了 Tone.js 库并想用它做点什么。 https://www.beatblox.app 简短演示：https://www.youtube.com/watch?v=Fppi3j2UmQc&lt; /a&gt; 有兴趣看看大家的想法！ **如果您最终尝试了并且使用的是 iOS，则您的手机不能处于静音模式（如果是的话，声音将被静音 - 不确定为什么 Tone.js 库会出现这种情况）   由   提交/u/synap5e  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai5qd7/i_made_a_small_webapp_to_create_and_generate_drum/</guid>
+      <pubDate>Sat, 03 Feb 2024 20:45:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>你愿意为这个项目收取多少费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai5iyd/how_much_would_you_have_charged_for_this_project/</link>
+      <description><![CDATA[像许多人一样，我有兴趣建立一些定期的自由职业/独立工作来扩展我的技能，尝试新技术等。 &lt;我的一位老导师/老板主动联系我，要求我为他们的新企业打造一个 MVP。我故意这样做的成本很低，因为我早期的职业发展很大程度上归功于他们，并且认为这是第一次与“客户”合作的好机会。 帮助为未来定价项目，我很好奇根据这个有用的社区的经验和专业知识我可以/应该收取什么费用。 一些功能要求是：  PWA&lt; /li&gt; 通过短信 OTP 进行身份验证 - 最终使用 Supabase 和 Vonage 实现此目的 付款/订阅管理 - 通过 Stripe  简单的屏幕 - 主页、产品列表、条款、隐私，加上用于处理身份验证/共享的 UI 元素 业务逻辑 - 根据购买的订阅类型每周/每月兑换免费物品（在本例中为啤酒），并管理访问/权限等。&lt; /li&gt; 将预填充文本的链接分享到 Whatsapp/SMS  记录关键事件 Google Analytics / 标签 社交开放图谱标签 基本支持/错误修复/初始交付后的编辑 设计 - 我没有得到任何（超出所需的品牌颜色），所以它只是我自由设计的  li&gt; 文案写作 - 再说一次，并没有真正给予任何东西，所以只是自由设计（进行一些编辑）  将来我肯定会在范围界定和估计需求方面做得更好事先，并跟踪我在构建过程中的时间。一路走来已经吸取了教训！ 那么，对于这样的事情，你大概会收取多少费用？  — 剧透：我不希望这被视为广告（MVP 只对一个非盟城市有效，所以对大多数人来说没有用），但如果您想查看该网站的上下文，请访问：www.aleblazer.com 。注意：作为 MVP，有一些粗糙的边缘作为更快的想法验证的权衡。   由   提交/u/Safe_Analysis_7535   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai5iyd/how_much_would_you_have_charged_for_this_project/</guid>
+      <pubDate>Sat, 03 Feb 2024 20:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用单个 html 文件制作了一个可定制的开源（无许可证）起始页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai5grl/i_made_a_customizable_open_source_unlicense/</link>
+      <description><![CDATA[       由   提交/u/xvvvyz  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai5grl/i_made_a_customizable_open_source_unlicense/</guid>
+      <pubDate>Sat, 03 Feb 2024 20:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代简约作品集网站推荐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai4u91/modern_minimalist_portfolio_site_recommendations/</link>
+      <description><![CDATA[我想尽快创建一个简单但非常漂亮和有效的作品集网站。你们中是否有人推荐任何符合此标准的作品集网站，我可以从中获取想法并用作灵感。我不想讲太多，但我想讲清楚重点，即我的工作。谢谢！   由   提交/u/Droski_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai4u91/modern_minimalist_portfolio_site_recommendations/</guid>
+      <pubDate>Sat, 03 Feb 2024 20:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>中级前端开发的简历反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai4gad/resume_feedback_for_midlevel_front_end_dev/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/tmoss726  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai4gad/resume_feedback_for_midlevel_front_end_dev/</guid>
+      <pubDate>Sat, 03 Feb 2024 19:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户在 sass 中有原始代码，雇用了非 sass 人员来修复它，我应该接受吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai4aqi/client_has_orignal_code_in_sass_hired_non_sass/</link>
+      <description><![CDATA[直接在输出css文件中更改了400行，我没有原始的sass文件，客户没有在sass中提到它，只是说html，jquery和CSS。直接修复css文件多痛苦啊（编译了3个文件）   由   提交/u/Plastic_Bank3291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai4aqi/client_has_orignal_code_in_sass_hired_non_sass/</guid>
+      <pubDate>Sat, 03 Feb 2024 19:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在一周内制作了这个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai47l6/i_made_this_website_in_one_week/</link>
+      <description><![CDATA[ 由   提交/u/SwitchUpCB  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai47l6/i_made_this_website_in_one_week/</guid>
+      <pubDate>Sat, 03 Feb 2024 19:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有最佳 API 的文件存储</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai46h4/file_storage_with_best_apis/</link>
+      <description><![CDATA[我正在 FlutterFlow 中制作一个移动/网络应用程序，这是我的律师事务所的一种客户端门户和文档自动化。在整个应用程序中，我需要使用文件存储系统进行 API 调用，API 调用将： - 获取模板文件、填充占位符、添加格式化文本（项目符号、粗体、居中、缩进）等.基于一系列复杂的 if/then 语句。 - 对于 Google Drive 或 Box.com（无数据库） - 将填充的 Word 或 PDF 文件通过电子邮件发送到我在 API 调用中指定的电子邮件 - 让用户轻松访问其整个内容文件夹或将文件上传到 API 调用指定的特定位置 我目前正在使用 Google 云端硬盘和 Google App 脚本，但遇到了一些限制。看起来 Box.com 可能有一些更好的 API 功能，包括良好的上传文件链接/界面。我想知道这里的人们是否对文件存储服务有意见，该服务具有通过 API 调用创建、填充、共享、修改和通过电子邮件发送文档/文件夹的最佳 API 功能。   由   提交/u/David44357  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai46h4/file_storage_with_best_apis/</guid>
+      <pubDate>Sat, 03 Feb 2024 19:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们认为构建一个反馈软件会好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai3shl/do_you_guys_think_that_building_a_feedback/</link>
+      <description><![CDATA[所以基本上我的想法是构建一款软件，将所有企业反馈集中到一个地方。因此，我会连接到他们使用的所有人们可以发表评论的平台（社交媒体、客户支持收件箱、网站上的客户支持票证、表格等），以便企业可以了解人们对其产品/服务的看法，而无需了解滚动浏览他们所有的评论和内容。该软件会列出人们请求/投诉的第 1、2、3 号事项等，以便企业可以对该事项采取行动。我将包括针对竞争对手的基准测试和 100% 的客户满意度，这些是软件中的主要内容，以及其他一些较小的内容，例如大多数反馈来自哪些平台。 我是考虑瞄准更多的高价客户，并提供在我的软件中构建软件的服务，为他们连接所有社交、客户支持收件箱等（有点像 SAP 在其软件中构建自定义数据库的方式），然后有选择对于中小型企业来说，采用订阅模式，他们可以自己连接和设置，因为从金钱的角度来看，他们的时间不像大企业主那么有价值，他们不需要我为他们定制，因为1. 他们不会得到足够的反馈，2. 他们没有钱 只是想知道你们对这个想法有何看法。我正在验证软件的想法，因为我已经开始了构建过程，但如果没有人真正使用它，我不想花几个月的时间进行构建。   由   提交 /u/ThatNoCodeGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai3shl/do_you_guys_think_that_building_a_feedback/</guid>
+      <pubDate>Sat, 03 Feb 2024 19:18:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用哪个网站构建器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai3que/which_website_builder_do_you_use/</link>
+      <description><![CDATA[除了 WP，我曾经使用 Ghost cms，但总是遇到图形/设计问题，因为我不是设计师。 Ghost 有一些不错的模板，我可以根据自己的喜好修改 css。 我现在正在寻找更快的前端网站构建器，许多人推荐 webflow 或 framer，但我还没有对它们进行比较. 你们都用什么？对于干净、快速且易于定制的网站（博客），您有何建议？   由   提交/u/boklos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai3que/which_website_builder_do_you_use/</guid>
+      <pubDate>Sat, 03 Feb 2024 19:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 PHP 与 Typescript，该选择哪一个？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai2vnk/php_vs_typescript_in_2024_which_to_choose/</link>
+      <description><![CDATA[嘿嘿！ 长话短说：我可能会非常幸运能够选择在不久的将来使用什么。 选项是 PHP/Symfony 或 Typescript（仅后端，不知道哪个框架）。 我正在返回 Web在其他软件相关职位上工作了一段时间后，我不得不提高技能并缩小一些差距，无论我最终选择什么技术，而且我对这两种技术都没有强烈的个人意见。 就未来的就业能力而言，我相信 PHP 目前在我所在的世界角落拥有更多职位，但我不想太快换工作，因此在那之前情况可能会发生变化。 抽象出所有非技术的内容相关（薪酬、工作条件等），是否有任何强有力的因素可能使一种选择比另一种选择更具吸引力？ ​ 为清楚起见进行编辑：我并不是想为新项目或其他任何事情选择技术。这是两个完全独立的机会，位于不同的细分市场，拥有不同的客户和其他一切。我只是想看看与我在技术方面更了解最新情况的人（也就是 -&gt; 你们都在这里 :) 在这两个机会之间是否有任何我应该从技术方面特别考虑的事情。 &lt; /div&gt;  由   提交 /u/squirrelpickle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai2vnk/php_vs_typescript_in_2024_which_to_choose/</guid>
+      <pubDate>Sat, 03 Feb 2024 18:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Javascript缓存问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai2ovb/javascript_caching_question/</link>
+      <description><![CDATA[我基本上想要这个： 我单击一个按钮，刷新页面，该按钮保持单击状态。  这是存储在缓存中的吗？我在谷歌上找不到任何关于它的信息。可能是因为我措辞不正确。我可以搜索什么/有人知道 youtube 视频吗？   由   提交 /u/machinetranslator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai2ovb/javascript_caching_question/</guid>
+      <pubDate>Sat, 03 Feb 2024 18:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个由人工智能驱动、人工策划的配色方案库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ai2idb/i_built_an_aipowered_humancurated_color_scheme/</link>
+      <description><![CDATA[       由   提交 /u/msavin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ai2idb/i_built_an_aipowered_humancurated_color_scheme/</guid>
+      <pubDate>Sat, 03 Feb 2024 18:21:31 GMT</pubDate>
+    </item>
     <item>
       <title>您的笔记本电脑在工作时使用什么协议？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ai29hg/whats_the_protocol_on_your_laptop_at_work/</link>
       <description><![CDATA[您在约定的某个时间收到新的吗？您可以在 Windows、Mac 和 Linux 之间进行选择吗？   由   提交 /u/karen_jd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ai29hg/whats_the_protocol_on_your_laptop_at_work/</guid>
       <pubDate>Sat, 03 Feb 2024 18:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要开发人员！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai20wm/need_a_dev/</link>
-      <description><![CDATA[寻找网页设计师来帮助我的教会网站。我阅读了规则，我认为可以发布此内容……但如果不是，请不要禁止我，只需删除我的帖子即可。   由   提交 /u/TheJayBay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai20wm/need_a_dev/</guid>
-      <pubDate>Sat, 03 Feb 2024 18:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要开发人员！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai20rm/need_a_dev/</link>
-      <description><![CDATA[寻找网页设计师来帮助我的教会网站。我阅读了规则，我认为可以发布此内容……但如果不是，请不要禁止我，只需删除我的帖子即可。   由   提交 /u/TheJayBay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai20rm/need_a_dev/</guid>
-      <pubDate>Sat, 03 Feb 2024 18:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>路线反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai0vd5/routes_feedback/</link>
-      <description><![CDATA[您好， 我正在寻找有关我们的用户界面有多困难的反馈。该产品尚未推出，我不寻求促销。实际上，我将这段视频发布在我的个人帐户上，并模糊了网址，以免自我推销。老实说，我只是在寻求反馈。 我所知道的所有网页设计平台都使用页面进行操作。通常有一个区域来配置页面。不过，当谈到 SPA 开发时，人们通常会使用“路由器”。我基于这个概念构建了一个 UI。 我知道这个 UI 会被认为更复杂，但我觉得有必要能够正确处理子路由。我的意思是，假设您创建了一个服务页面。您希望其下面的所有页面都有一个公共部分。您可能有 /services 的一般描述，也可能有特定的页面，例如 /services/development 和 /services/media 等。您希望网站有一个通用的页眉/页脚，并且您希望服务部分有一个单独的通用页眉/页脚。这就是子路由。 我知道像 Webflow 这样的一些平台说只使用组件，但我觉得在网站的每个页面上放置页眉/页脚组件的副本是如此丑陋和乏味。它很快就会变得复杂。所以，这就是我构建此设计的原因。 在这个 5 分钟的视频中，我创建了一个小型主页，然后将其转换为路由器。如果您能提供有关您想法的反馈，我将不胜感激。 https://www.youtube.com/watch ?v=nyksBFvBZsY   由   提交/u/cagdas_ucar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai0vd5/routes_feedback/</guid>
-      <pubDate>Sat, 03 Feb 2024 17:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>批评我的公寓上市组合项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai0opr/criticize_my_apartment_listing_portfolio_project/</link>
-      <description><![CDATA[      大家好， 所以我已经在这个投资组合项目上工作了一段时间了，我刚刚完成它，希望您能给我任何建议或关于代码和设计的提示（我不擅长设计哈哈）， 所以该项目是一个网络应用程序，您可以发布公寓，它还包括 Mapbox 地图和实时聊天功能所有者，这样您就可以提出任何您想要的问题。 我使用节点、express 和 mongoDB 作为后端，使用 ejs 和 bootstrap 作为前端，使用套接字 io 处理消息。 live: https://apartment-seeker.onrender.com 存储库：https://github.com/Adnanyu/Apartment-seeker 我将不胜感激任何评论，并提前感谢大家。  注意：我在渲染上使用免费层，因此在一段时间不活动后需要一分钟才能启动。  https://preview.redd .it/j5kzk7ixiegc1.png?width=2878&amp;format=png&amp;auto=webp&amp;s=d7aca529401ee4920b1607dd2a45ae7f74f45b01 https://preview.redd.it/v7oz76ixiegc1.png?width=2878&amp;format=png&amp;auto=webp&amp;s=56c8b0c7680b 76687fc622863d45017ced9f67c1 https://preview .redd.it/7gicz7ixiegc1.png?width=2878&amp;format=png&amp;auto=webp&amp;s=786bd9b7396bd16a3bf3c0cc0eb9aa79b54d0575   由   提交/u/Brilliant_Tea_5933  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai0opr/criticize_my_apartment_listing_portfolio_project/</guid>
-      <pubDate>Sat, 03 Feb 2024 17:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要了解 php 才能在托管站点上运行 Web 服务器吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai0m5u/do_i_need_to_know_php_to_run_a_web_server_at/</link>
-      <description><![CDATA[编辑：了解基本的 html、css、js 和 python。在 github 页面上托管网站。想要雇用网络托管服务来运行服务器和带有域的常规网站，但在运行服务器和域网站方面没有经验。我需要了解 php 还是 sql 足以实现此目的？   由   提交 /u/FunkyBattal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai0m5u/do_i_need_to_know_php_to_run_a_web_server_at/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个旅游网站，目标是帮助人们在一个地方找到他们需要的一切</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai0hz5/i_made_a_travel_website_with_the_goal_help_people/</link>
-      <description><![CDATA[我一直在这个旅游网站单独工作很长时间了，本周发布了初始版本。这是我发布的第一个网站，因为我几乎完全作为后端工作，所以不要把我烤得太难。 我已经吃饱了为了获得有关旅行目的地的一些基本信息，需要完成一些无用的事情。我对现有网站也不满意，主要是因为网站臃肿且缺乏实际有用的信息，因此我踏上了漫长的旅程，创建一个简单但全面的资源，其中包含人们计划旅行所需的一切。 堆栈没什么花哨的 - Django、Vanilla JS 和 Bootstrap。使用 Postgres 作为数据库，整个过程托管在 DO Droplet 上并使用 docker-compose 进行部署。 DevOps 一直是个麻烦事，主要是因为我必须在一个月内吸收大量新信息。 不过，我对加载时间和交互速度感到满意。决定使用 Vanilla JS 而不是框架，因为我对 JS 从来没有特别熟练，并且认为在转向框架之前在 vanilla 中获得一些不错的经验会很好。 所有数据都是开源，主要是 Wikidata 和 OpenStreetMaps，但需要进行大量清理和检查才能确保其正确性。所有景点和图像都是手动添加的，以确保一切都具有良好的质量而不是垃圾邮件。 还有很多工作要做 - 我已经通过 Lighthouse 运行它，添加大量新内容等等，但我们会实现这一目标。 如果您提供任何反馈，我将不胜感激。谢谢 编辑：我刚刚意识到我搞乱了标题。我累坏了。   由   提交/u/denisbotev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai0hz5/i_made_a_travel_website_with_the_goal_help_people/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 JAMstack 网站部署到 cPanel（最好通过 FTP）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai0a1h/how_to_deploy_jamstack_websites_to_cpanel_via_ftp/</link>
-      <description><![CDATA[我一直托管我的 JAMstack 网站 (11ty 和 Astro) 在 Netlify 和 Vercel。我对两者提供的出色的 CI/CD 感到非常满意。然而，客户希望他的网站是自托管的。我最近才在这个 JAMstack 时代进行 Web 开发，所以我不太熟悉旧的 Web 应用程序如何部署。 ​ 之后经过一番研究，我发现我可以通过 cPanel 创建 FTP 用户。可以在Github Actions中编写脚本来构建网站，然后通过FTP将dist文件夹复制到服务器。不过，这个过程确实太慢了。没有节点模块的缓存，因此必须为每个构建下载它们。与本地构建过程相比，构建过程也感觉更慢。即使将文件复制到 FTP 步骤也需要太长的时间，有时甚至超过 5 分钟。 ​ 长话短说，我想要正确且最有效的方法将 JAMstack 网站部署到自托管服务器。   由   提交 /u/pexeixv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai0a1h/how_to_deploy_jamstack_websites_to_cpanel_via_ftp/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:43:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个公共开源网络分析</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai042e/i_created_a_public_and_open_source_webanalytics/</link>
-      <description><![CDATA[大家好！两年前，我为我的业余项目创建了一个名为 Faenz 的网络分析工具。它采用 Ruby on Rails 构建，可自托管并在 GitHub 上开源。 最近，我已更新它并创建了一个可供所有人公开访问的演示版本。 它是如何工作的？您可以添加您的网站、博客或电子商务网站并跟踪其访问。其他人可以看到您的统计数据，并且您也可以查看其他人的统计数据。出于安全原因，您无法编辑或删除网站；请与我联系。 这是一个有趣的实验，看看人们如何处理 SEO 或发现新网站😊 让我知道你的想法:)    由   提交 /u/rusl1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai042e/i_created_a_public_and_open_source_webanalytics/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>回到大学时，我必须疯狂地搜索谷歌才能弄清楚方法的作用 - 现在我们只需点击一下即可完成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai01v3/back_in_college_i_had_to_dig_through_google_like/</link>
-      <description><![CDATA[   我实际上花了一半的大学生活来解决问题，并在 Google 和 StackOverflow 上寻找我正在学习的代码的解释。 仅仅 5-6 就非常疯狂了几年前，这就像科幻电影中的场景，只需点击一下即可进行各种人工智能操作并获得特定方法的说明。 https://preview.redd.it/4k8xs3i6degc1.png?width=1400&amp;format=png&amp; auto=webp&amp;s=8549ccda4803e1f040be30ae85ea95cf71bc7e8a ​ 想象一下未来几年我们可以期待什么；我们已经在使用 Apple Vision Pro 进行随时随地编码，因此我认为即将发生一些巨大的变化。   由   提交/u/findurself020   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai01v3/back_in_college_i_had_to_dig_through_google_like/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:33:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>10行代码实现生产级限速</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ahzxmr/productiongrade_ratelimiting_in_10_lines_of_code/</link>
-      <description><![CDATA[有多少次，我在对 API 实施速率限制方面一再拖延，因为我发现的解决方案不完整/很糟糕，而且我没有时间我自己编码并管理速率限制逻辑/基础设施。在每个项目中，我都避免了超出基本内容的编码率限制。在处理外部 API 时也是如此，我需要遵守其速率限制，而 429 错误促使我使用“指数退避”策略。黑客。但 GPT 和其他 genai API 的高昂成本迫使我卷起袖子。 我正在寻求您对独特方法的反馈（作为速率限制专家或潜在用户）  p&gt;  它的作用：执行并遵守速率限制 * 工作原理：导入 sdk（例如 javascript/node.js sdk），然后用 10 行代码包装您的代码，然后您可以通过 UI 配置/更新速率限制策略  虽然，易用性是解决拖延问题的首要任务，但这种方法也有一些独特的优势，例如  核心速率限制服务与应用程序代码分离，它允许对速率限制代码/基础设施使用进行更好的管理/可扩展性。可以通过 UI 轻松管理/更新速率限制策略，而无需更改应用程序代码。 由于速率限制通过 SDK 靠近应用程序工作，因此它具有应用程序/用户的完整上下文，启用诸如每用户速率限制、基于订阅的速率限制、基于使用的速率限制、基于任何基于应用程序/用户的参数的优先级请求等用例。  它是可用的作为开源和托管服务。 我为构建这个感到自豪，已经达到了相当稳定的版本，并且很想听到一些“这有多酷”的声音。 :) 但前提是你有这样的感觉。您的建设性批评非常有价值，如果可行的话，我会尽力在一周内采纳您的反馈。  有什么问题都可以问我，我会在接下来的几天里回答你的问题，如果你迟到了，你可以 在 Discord 上关注我 谢谢   由   提交 /u/gitcommitshow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ahzxmr/productiongrade_ratelimiting_in_10_lines_of_code/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个无需编码的复杂网站——如何制作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ahzw15/a_complicated_website_without_coding_how_to_make/</link>
-      <description><![CDATA[嗨！我是一名网页设计师，大部分工作都是在 Figma 中完成。另外，我在 WordPress 中管理了一个网站，所以我知道良好的 divi 构建器以及一些如何使用插件（如过滤器、表单等）制作一些东西。我了解网络流的一些基础知识，并且可以在那里创建一些简单的网站，但不是真正大型且技术上具有挑战性的网站。我了解其他构建者的工作方式，但不与他们合作。  我有一位客户要求我帮助设计一个网站，但他希望它不是一个设计，而是一个工作网站。一些功能应该是：   - 像约会应用程序/Bumble一样建立个人资料 - 作为*要求*附加到每个个人资料的视频 - 匹配个人资料（就像在约会应用程序中一样）  - 显示在线状态 - 即时消息 - 消息功能（如 Facebook 或 LinkedIn 或 Bumble） - 自动背景调查 - 用于检查推荐信和 Garda 审查  我以前从未做过类似的事情，不明白是否有可能弄清楚它，以及是否可以在没有编码技能的情况下做到这一点。你能帮我理解怎么做吗？有哪些实施变体？这是一个技术复杂的网站吗？  我不想接受这个项目然后就不做，同时我也不想错过一个工作机会。  我正在寻求建议，并想详细了解这个项目，也许是为了将来，等等。所以，如果你不想提供帮助，就没有必要写一些令人沮丧的东西。  提前非常感谢！  ​   由   提交/u/divinetragedyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ahzw15/a_complicated_website_without_coding_how_to_make/</guid>
-      <pubDate>Sat, 03 Feb 2024 16:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于改进我的投资组合的任何建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ahuhdo/any_tips_on_improvement_of_my_portfolio/</link>
-      <description><![CDATA[https://kroszborg.netlify.app  大家好，两个月前看到你们在上一篇文章中提出的有用评论后，我又回来了。我努力学习并积累了经验，现在我带着更新后的作品集回来寻求一些建议。   由   提交/u/kroszborg11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ahuhdo/any_tips_on_improvement_of_my_portfolio/</guid>
-      <pubDate>Sat, 03 Feb 2024 11:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>受 David Bowie 的启发，我使用 Replicate、Nuxt 和 Pixi.js 开发了一款 AI 驱动的网络摄像头</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ahu2zb/i_developed_an_ai_powered_web_camera_inspired_by/</link>
-      <description><![CDATA[       由   提交/u/leemartin  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ahu2zb/i_developed_an_ai_powered_web_camera_inspired_by/</guid>
-      <pubDate>Sat, 03 Feb 2024 11:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>编译器将网络开发人员转变为人工智能开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ahtymh/compiler_turns_webdevs_into_ai_devs/</link>
-      <description><![CDATA[      我构建了一个编译器，让您可以用自己喜欢的语言构建 AI，同时可以访问庞大的 Python AI 工具生态系统和免费的 Google Colab GPU。 它是使用 Google 构建的Chrome Javascript API 和 C Treesitter 库用于解析抽象语法树。  它是免费且开源的。现在它支持 Java 导入，我希望获得 webdev 的贡献。请为该存储库加注星标 https://github.com/Fileforma/AntiPython-AI-Compiler -Colab ​ https://preview.redd.it/asv6b8mwtcgc1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=69a1553027e46732645933789 b8dc22f57a0805b   由   提交 /u/DataBaeBee   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ahtymh/compiler_turns_webdevs_into_ai_devs/</guid>
-      <pubDate>Sat, 03 Feb 2024 11:19:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
