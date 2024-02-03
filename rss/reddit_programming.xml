@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 03 Feb 2024 09:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 12:20:50 GMT</lastBuildDate>
+    <item>
+      <title>使用 PHP（和一些 MySQL）的 Code 2023 来临 - GitHub Repository</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahuv96/advent_of_code_2023_with_php_and_a_grain_of_mysql/</link>
+      <description><![CDATA[ 由   提交/u/ControlWestern2745   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahuv96/advent_of_code_2023_with_php_and_a_grain_of_mysql/</guid>
+      <pubDate>Sat, 03 Feb 2024 12:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 为巴西 SAE 方程式比赛中的第一辆无人驾驶汽车提供动力</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahugjw/raspberry_pi_powers_first_driverless_car_in/</link>
+      <description><![CDATA[ 由   提交 /u/LinearArray   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahugjw/raspberry_pi_powers_first_driverless_car_in/</guid>
+      <pubDate>Sat, 03 Feb 2024 11:52:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢的播客剧集是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahtooh/what_are_your_favourite_podcast_episodes/</link>
+      <description><![CDATA[我找到了这个帖子 非常适合查找一些剧集来收听和发现新的播客。 我认为再次提出这个问题会很有趣。 我发现一些令人兴奋的剧集： &gt; 关于 Unix 诞生的有趣见解：https://open.spotify.com/episode/37jxRgFEbc1o0GRNBhPkUh？ si=T0_yVL27SkOgRsdUAvv7wA 关于 Heroku 以及发展公司：https:// open.spotify.com/episode/3nEwB6apkvUpwk8W9KgzEF?si=PFquTN0kQL6ubloQvmZqaA 采访 Runar Bjarnason 关于函数式编程：https://open.spotify.com/episode/3aZjaNf8cvvqIpIJDr53l9?si=JqoMIB7wTLO0Q3bXVrwGig   由   提交 /u/RonStampler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahtooh/what_are_your_favourite_podcast_episodes/</guid>
+      <pubDate>Sat, 03 Feb 2024 11:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个多平台扩展程序，以隐藏 Facebook、Instagram、Reddit、YouTube、LinkedIn、Twitter 等社交媒体平台上的干扰。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahsjxb/i_created_a_multiplatform_extension_to_hide/</link>
+      <description><![CDATA[ 由   提交/u/f00barbuz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahsjxb/i_created_a_multiplatform_extension_to_hide/</guid>
+      <pubDate>Sat, 03 Feb 2024 09:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>探索数据库系统中的 MVCC</title>
       <link>https://www.reddit.com/r/programming/comments/1ahr1mt/exploring_mvcc_in_database_systems/</link>
@@ -48,13 +76,6 @@
       <pubDate>Sat, 03 Feb 2024 05:42:26 GMT</pubDate>
     </item>
     <item>
-      <title>👨‍💻 稳定代码 3B：人工智能驱动的编码稳定性新时代 AI 推出了一款可以重新定义我们所知道的编码的工具。您认为它改变行业的潜力如何？ 🔗 讨论和见解：阅读更多>>> https://justaitrends.com/stable-code-3b/</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahnzx3/stable_code_3b_a_new_era_in_aipowered_coding/</link>
-      <description><![CDATA[ 由   提交 /u/justaitrends   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahnzx3/stable_code_3b_a_new_era_in_aipowered_coding/</guid>
-      <pubDate>Sat, 03 Feb 2024 04:50:40 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么 CanIUse.com 不 100% 支持 <html> 元素？</title>
       <link>https://www.reddit.com/r/programming/comments/1ahmhlo/why_isnt_the_html_element_100_supported_on/</link>
       <description><![CDATA[ 由   提交/u/segfaultcrisis  [链接] [评论]]]></description>
@@ -88,27 +109,6 @@
       <description><![CDATA[我只是想从最常用的西班牙语单词列表中获取西班牙语单词列表来学习，结果发现该列表没有进行词形还原。在那之后和一些注意力缺陷多动症之后，这就是我写的。 这无疑是非常粗糙的 - 如果您总体上熟悉维基词典和维基文本，那么我们非常欢迎（并且需要）贡献！   由   提交/u/Heartade  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ahilj1/i_wrote_a_script_that_parses_all_of_the_english/</guid>
       <pubDate>Sat, 03 Feb 2024 00:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求率的 SI 单位</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahgugy/si_units_for_request_rate/</link>
-      <description><![CDATA[ 由   提交 /u/finallyanonymous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahgugy/si_units_for_request_rate/</guid>
-      <pubDate>Fri, 02 Feb 2024 22:56:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yokai：一个简单、模块化、可观察的 Go 框架，考虑了 k8s，但又不仅仅如此。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahg6z8/yokai_a_simple_modular_and_observable_go/</link>
-      <description><![CDATA[ 由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahg6z8/yokai_a_simple_modular_and_observable_go/</guid>
-      <pubDate>Fri, 02 Feb 2024 22:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Djot 而不是 Markdown 写博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahejx2/blogging_in_djot_instead_of_markdown/</link>
-      <description><![CDATA[ 由   提交/u/jonas_h   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahejx2/blogging_in_djot_instead_of_markdown/</guid>
-      <pubDate>Fri, 02 Feb 2024 21:18:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

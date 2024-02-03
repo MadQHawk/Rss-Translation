@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 03 Feb 2024 09:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 12:21:31 GMT</lastBuildDate>
+    <item>
+      <title>我们的开源 API 安全项目刚刚过去 1 年：寻求建议。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ahtr00/exactly_1_year_to_our_open_source_api_security/</link>
+      <description><![CDATA[整整一年前，我们启动了我们的开源项目。它确实帮助用户更快地采用我们的产品，因为它处理大量敏感数据，而且人们更愿意尝试开源版本。我认为我们在采用方面可以做得更好。我希望得到其他开源项目维护者的任何建议，以发展社区和采用。项目 - https://github.com/akto-api-security/akto   由   提交 /u/Previous_Piano9488   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ahtr00/exactly_1_year_to_our_open_source_api_security/</guid>
+      <pubDate>Sat, 03 Feb 2024 11:05:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何开源 SaaS 应用程序可供我启动和运行以销售给最终客户？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ahsid9/are_there_any_open_source_saas_apps_that_i_can/</link>
+      <description><![CDATA[需要澄清的是，我并不是想将某些东西分拆为“自己的”并赚钱。  但我正在寻找一种简单的入门方法，因为我没有编码经验。  我想知道是否有人知道一个完整的开源 SaaS 解决方案，我可以在几乎没有编程经验的情况下轻松设置和管理。  例如，我可以在几小时/几天内在 app.example.com 上向最终客户启动 xyz 开源项目并开始吸引客户。  当然，一旦我的产品开始赚钱，我就会支持开源项目。我只是在寻找一种简单的入门方法。我很感谢您提前的指导。谢谢！   由   提交 /u/DinakarSakthivel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ahsid9/are_there_any_open_source_saas_apps_that_i_can/</guid>
+      <pubDate>Sat, 03 Feb 2024 09:40:29 GMT</pubDate>
+    </item>
     <item>
       <title>🛌 全栈家具应用程序 (Timberr) 🪑</title>
       <link>https://www.reddit.com/r/opensource/comments/1ahrm2a/full_stack_furniture_app_timberr/</link>
@@ -13,32 +27,11 @@
       <pubDate>Sat, 03 Feb 2024 08:39:03 GMT</pubDate>
     </item>
     <item>
-      <title>每天一句感谢</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ahm82r/a_thanks_every_day/</link>
-      <description><![CDATA[感谢 @saurabh 发现了这个很酷的博客https://ankeshkothari.com/how-to-get-smart-people-to-send-you-cool-goodies-for-free/&lt; /a&gt; 每天写一封感谢信真是个好主意。鉴于我们有很多值得感谢的事情，这应该不难。从今天开始，我将从我迄今为止使用过的所有操作系统库开始尝试这一点。应该会令人兴奋😊   由   提交/u/krishna404  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ahm82r/a_thanks_every_day/</guid>
-      <pubDate>Sat, 03 Feb 2024 03:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源中途替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ahm44b/open_source_midjourney_alternative/</link>
-      <description><![CDATA[创建了一个开源中途/免费 AI 艺术生成器，您可以将其添加到不和谐中 https://discord.com/api/oauth2/authorize?client_id=1200182012212936744&amp;permissions=2147483648&amp;scope=bot &lt; /p&gt; 在这里开源：https://github.com/Netwrck/stable-diffusion-server  这里有一个网站：ebank.nz 了解更多信息:)  让我知道你在想什么:)  我还有很多特殊命令需要执行，但是 ar --16:9 和 9:16 可以制作 1080p 艺术作品     由   提交 /u/leepenkman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ahm44b/open_source_midjourney_alternative/</guid>
-      <pubDate>Sat, 03 Feb 2024 03:09:01 GMT</pubDate>
-    </item>
-    <item>
       <title>PiSegment（用于图像分割的轻量级Python软件）</title>
       <link>https://www.reddit.com/r/opensource/comments/1ahlrfz/pisegment_a_lightweight_python_software_for_image/</link>
       <description><![CDATA[PiSegment (https://github.com/aGIToz/PiSegment ）是开源项目，完全用 python 编写，它基本上允许分割图像的不同部分，只需少量人工注释。它可用于背景提取、语义分割、着色等。分割通常应用于医学成像、自动驾驶车辆和卫星图像。  ​   由   提交 /u/No_Effective7572   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ahlrfz/pisegment_a_lightweight_python_software_for_image/</guid>
       <pubDate>Sat, 03 Feb 2024 02:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款开源触摸屏MaTouch ESP32-S3 SPI IPS 2.8" with Camera，基于ESP32-S3，配备300万（3MP）像素摄像头和SPI接口，适用于远程监控/人脸检测等智能应用，也支持LVGL，你们觉得怎么样？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ahlq8m/i_made_an_opensource_touchable_displaymatouch/</link>
-      <description><![CDATA[我们的团队非常喜欢制作开源产品，我们相信开源可以帮助我们和创客共同成长和发展。 关于本产品， 规格： - 控制器：ESP32-S3 - 无线：WiFi&amp;蓝牙5.0 - LCD：2.8英寸，320x240分辨率，驱动ST7789V - LCD接口：SPI，16bit - FPS：&gt;30 p&gt; - 摄像头：OV3660、3M、DFOV 66.5° - 闪存：16MB 闪存 - PSRAM：8MB - 触摸屏：5点触式，电容式 - 触摸屏驱动程序：GT911 - USB：1 * USB 转 UART，1 * USB_native - 电源：USB 类型- C 5.0V(4.0V~5.25V) - 按钮：闪光按钮和复位按钮 - 扩展接口：1 * GPIO、1 * I2C  - MicroSD：是 - Arduino 支持：是 - 工作温度：-40℃ 至 +85℃ ​ &lt; p&gt;如果您对此感兴趣，可以查看更多信息 我们的网站或github  ​ 如果您对此产品有任何想法，请告诉我。 另外，由于临近农历新年，我们的产品现在 15% 折扣。有兴趣的不要错过！   由   提交 /u/Vearts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ahlq8m/i_made_an_opensource_touchable_displaymatouch/</guid>
-      <pubDate>Sat, 03 Feb 2024 02:48:56 GMT</pubDate>
     </item>
     <item>
       <title>开源非线性视频编辑器，用 C# 编写</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我想分享一个我制作的教程存储库，以展示我如何能够为我的开源项目 Dittofeed 提高 ClickHouse 实例的可扩展性： https://github.com/dittofeed/clickhouse-segments-tutorial&lt; /p&gt; 您可以使用存储库来运行测试，并按照存储库自述文件中链接的技术博客文章进行操作。帖子中的代码示例演示了 ClickHouse 中简化的用户细分设置。 快速概述我在帖子中介绍的内容： 为什么 ClickHouse 非常适合分析工作负载，特别是用户细分。 什么是用户细分以及我们如何计算它们？我介绍了一些基本的伪代码。解决幂等性问题以避免重复数据扰乱我们的计算。通过微批处理进行扩展。通过小批量增量聚合用户事件来模拟流处理。这是本文的核心。“活动时间”与“处理时间”。事件何时发生以及我们如何测量时间？我们如何在应用程序中适应不同的时间度量？ 一般来说，有很多关于 ClickHouse 的民间知识，我希望看到更多的知识被编纂出来。这是我为此做出贡献的尝试。希望对您有所帮助！   由   提交 /u/dittofeed   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agqsqt/improved_the_scalability_of_my_clickhouse/</guid>
       <pubDate>Fri, 02 Feb 2024 00:48:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>HortusFox v2.0，植物育儿和跟踪应用程序，现在具有工作 Docker 环境</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agqe0a/hortusfox_v20_the_plant_parenting_tracking_app/</link>
+      <description><![CDATA[嘿。 我已经在 r/selfhosted 但我想我也想与 Reddit 上的开源社区分享它。 HortusFox v2.0 大约一周前发布，现在具有工作docker环境。此外，您不需要自己构建镜像，因为每个版本都会自动生成一个镜像，并且可以通过 GitHub Container Registry 获取。 变更日志：   Docker 镜像现已可从 GHCR 获取 改进了 Docker 构建流程 动态设置现已存储在数据库中 用于植物预览和图库照片的图像共享功能  li&gt; 植物照片现在在添加新植物时是可选的 链接到移动设备上汉堡旁边的个人资料 图库项目操作现在反映在历史日志中 用户个人资料页面中的个人注释 其他改进和错误修复  如果您使用的是 Android 应用，建议也进行更新。  如果您使用 Android 应用，建议也进行更新。 p&gt; 同时，还有一个 YouTube 频道，您可以在其中观看有关安装和使用的教程视频。它相当新，因此可能需要一些时间才能发布新的视频内容。 更多信息：https://www .hortusfox.com/  PS：有时 Reddit 用户提出的功能是很酷的想法，但想法可能会丢失。这就是为什么我建议并欢迎您在 GitHub 上创建问题。 祝您有美好的一天！   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agqe0a/hortusfox_v20_the_plant_parenting_tracking_app/</guid>
+      <pubDate>Fri, 02 Feb 2024 00:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
