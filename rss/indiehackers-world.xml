@@ -4,7 +4,58 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 04 Feb 2024 18:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 21:11:03 GMT</lastBuildDate>
+    <item>
+      <title>个体企业家不断分享最糟糕的建议</title>
+      <link>https://feed.indiehackers.world/post/c27af8d9ea</link>
+      <description><![CDATA[如果您喜欢这篇文章，请在 Twitter 上关注我：https://twitter.com/elie2222 
+我正在构建收件箱零，以帮助人们通过人工智能自动化更好地管理他们的电子邮件收件箱。
+我不断改进产品，并尽我所能来营销它。但杀手级产品最终将决定 Inbox Zero 的长期成功。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c27af8d9ea</guid>
+      <pubDate>Sun, 04 Feb 2024 20:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>精通技术的前医生寻求联合创始人职位</title>
+      <link>https://feed.indiehackers.world/post/27ff424584</link>
+      <description><![CDATA[如果您正在寻找一位不仅精通技术，而且准备好让事情发生变化的联合创始人，我们来聊聊吧！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/27ff424584</guid>
+      <pubDate>Sun, 04 Feb 2024 19:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>为就业委员会提供 B2B 销售建议</title>
+      <link>https://feed.indiehackers.world/post/6dd26d4097</link>
+      <description><![CDATA[嘿！ 
+我经营着一个加密货币就业委员会，该社区最近发展迅速。我专注于社区，这得到了回报，约有 4300 名成员活跃且参与。网站流量也很大，而且受众遍布全球 - 感觉很强劲，是提升到新水平的好时机。
+我想与公司联系，讨论 (a) 带薪职位以及 (b) 在招聘方面与他们密切合作，但我的 B2B 技能非常基础 - 我正在努力决定如何决定下一步。
+任何人都可以提供有关如何进步的建议吗？有关如何（大规模）接触公司并建立关系的任何提示或技巧。 
+如果有兴趣，我的网站是www.degcryptojobs.com！
+谢谢！！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/6dd26d4097</guid>
+      <pubDate>Sun, 04 Feb 2024 19:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>有些东西我已经准备好付钱了...</title>
+      <link>https://feed.indiehackers.world/post/a866d76be5</link>
+      <description><![CDATA[我正在构建Scipress.io，并且我正在尝试实现社交共享卡片，以便当我的用户发布内容然后在其他网站上共享指向该内容的链接时，会自动显示漂亮的预览图像（也称为开放图形图像）。 
+由于 Next.js 的 ImageResponse，实现这一点很容易，但我拉着我的头发尝试设计一些漂亮的东西。我通过购买 Tailwind UI 并调整他们的设计，让我的网站看起来不错。我希望有人能出售这些 OG 图像的类似模板。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a866d76be5</guid>
+      <pubDate>Sun, 04 Feb 2024 19:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Simulit 之旅的第 2 周 - 揭示策略、绊脚石和小胜利</title>
+      <link>https://feed.indiehackers.world/post/97baeb06c6</link>
+      <description><![CDATA[当我为新的一周做好准备时，我很高兴能够深入研究冷电子邮件、进一步的社区参与，也许最重要的是，不懈地追求让客户访谈对每个人来说都更容易理解、更富有洞察力。 
+我很想听听您对平衡副项目与其他承诺、吸引潜在用户的策略或对 Simulit 的任何反馈的想法。
+请访问 www.simulit.app 查看更新后的登录页面，并继续关注此旅程的更多更新。
+祝大家接下来的一周富有成效！ 🚀
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/97baeb06c6</guid>
+      <pubDate>Sun, 04 Feb 2024 18:39:10 GMT</pubDate>
+    </item>
     <item>
       <title>你的时事通讯介绍让我睡着了😴</title>
       <link>https://feed.indiehackers.world/post/6dbcdc0e2d</link>
@@ -100,69 +151,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dee3765131</guid>
       <pubDate>Sun, 04 Feb 2024 16:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>向您的应用程序添加游戏化功能</title>
-      <link>https://feed.indiehackers.world/post/54684c25d2</link>
-      <description><![CDATA[虽然我们计划在接下来的两周内启动（准备一些进一步的入门和文档），但我想为该社区的一些早期采用者提供对该系统的访问权限。我也希望得到一些反馈并相应地做出改进。
-如果您有兴趣，请通过注册 https://tally.so/r/wad8Zb 来表明您的意图，并且我会回复您并帮助您设置解决方案。
-期待与一些独立黑客合作并将他们的应用程序游戏化！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/54684c25d2</guid>
-      <pubDate>Sun, 04 Feb 2024 15:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开始撰写产品简讯，我需要知道它是否糟糕</title>
-      <link>https://feed.indiehackers.world/post/acd0d72e67</link>
-      <description><![CDATA[这个周末我创建了一份时事通讯。
-http://lessonsinproduct.com/
-它是关于产品如何从“新技术”发展到今天的样子。
-我拿了 1 个产品（物理的、数字的 - 可以是任何东西）并写下：
-
-为什么我喜欢它
-它是如何开始的
-它可以教给我们的教训
-
-到目前为止我已经写了 2 个：
-
-老虎机
-牛仔裤
-
-–––
-人们怎么想？
-http://lessonsinproduct.com/
-感谢诚实的反馈。
-提前致谢
-——汤姆
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/acd0d72e67</guid>
-      <pubDate>Sun, 04 Feb 2024 15:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为自己获取一个免费的 Android 应用程序！</title>
-      <link>https://feed.indiehackers.world/post/a934494cf1</link>
-      <description><![CDATA[还有一个 Twitter 线程，您也可以在其中提出您的要求 - https://x。 com/brhn_dev/status/1754150981397537088?s=20
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a934494cf1</guid>
-      <pubDate>Sun, 04 Feb 2024 14:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>电商、美妆品牌AI模特摄影</title>
-      <link>https://feed.indiehackers.world/post/3dcd7beba7</link>
-      <description><![CDATA[我正在为美容品牌、电子商务构建生成人工智能模型摄影。这些都是稳定扩散的商业免费照片。这里有人需要这些照片吗？或者有人可以为我推荐好的潜在渠道吗？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3dcd7beba7</guid>
-      <pubDate>Sun, 04 Feb 2024 14:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么竞争对你的初创公司有好处</title>
-      <link>https://feed.indiehackers.world/post/8add52bbe9</link>
-      <description><![CDATA[（我建议从多个开始，因为很可能其中一个会流行，然后您可以稍后全部投入。）
-总而言之，竞争被认为对你的初创公司不利。然而，我们只是用它来验证市场并在该领域找到您的 USP。
-现在开始工作，找到第一个客户！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8add52bbe9</guid>
-      <pubDate>Sun, 04 Feb 2024 13:39:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
