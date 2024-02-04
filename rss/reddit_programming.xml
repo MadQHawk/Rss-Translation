@@ -4,13 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 03 Feb 2024 21:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:56:15 GMT</lastBuildDate>
     <item>
-      <title>Fenrir Softworks 网络项目希望了解您对我当前项目的意见。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ai5v80/fenrir_softworks_webprojekt_möchte_eure_meinungen/</link>
-      <description><![CDATA[ 由   提交/u/LordThrawnTV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ai5v80/fenrir_softworks_webprojekt_möchte_eure_meinungen/</guid>
-      <pubDate>Sat, 03 Feb 2024 20:50:56 GMT</pubDate>
+      <title>链接检查器机器人（我已经开发了）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai9qhx/link_inspector_bot_ive_developed_it/</link>
+      <description><![CDATA[编程语言：Javascript。链接检查器机器人是一个 Discord 机器人，可帮助会员在点击链接之前了解链接的指向。 以下是链接检查器机器人的功能：   扫描链接并显示其指向的位置。  显示域名。  解析网站的 IP 地址。  取消缩短链接。  检测链接的类型，无论是网站还是文件/应用程序。  检测带有西里尔字母的恶意链接。  获取链接（服务器）的名称服务器、服务器和主机管理员。  截取网站截图。  🔹Discord 邀请链接：https://top.gg/bot/1114537586774519839/invite   由   提交/u/steve_walson  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai9qhx/link_inspector_bot_ive_developed_it/</guid>
+      <pubDate>Sat, 03 Feb 2024 23:42:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>(JavaScript) 这个周末我构建了一个人类可维护的正则表达式生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai8zem/javascript_i_built_a_humanmaintainable_regex/</link>
+      <description><![CDATA[ 由   提交/u/fisherkingpoet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai8zem/javascript_i_built_a_humanmaintainable_regex/</guid>
+      <pubDate>Sat, 03 Feb 2024 23:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spring Cloud Config 热重载</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai8n17/spring_cloud_config_hot_reloading/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai8n17/spring_cloud_config_hot_reloading/</guid>
+      <pubDate>Sat, 03 Feb 2024 22:53:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>文章提出，到 2027 年将需要 100 万机器学习专家，您怎么看？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai87fs/article_suggest_that_1_million_ml_specialists/</link>
+      <description><![CDATA[https://fortune. com/education/articles/machine-learning-bootcamps/ 我个人正在努力寻找初级开发人员的工作，所以这对我来说很有趣。 不过我想知道这是否属实。在我看来，真正有用的机器学习模型是由几家拥有世界顶尖人才的大公司构建的。然后，这些公司公开任何开发人员都可以使用的 API。那么真的需要这么多机器学习工程师吗？或者是掌握如何处理LLM API、矢量数据库等的工程师？在这种情况下，可能真的不需要学习机器学习的复杂性。有什么想法吗？   由   提交/u/RAJA_1000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai87fs/article_suggest_that_1_million_ml_specialists/</guid>
+      <pubDate>Sat, 03 Feb 2024 22:34:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有恒定空间的近似经验分布</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai760n/approximating_empirical_distributions_with/</link>
+      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai760n/approximating_empirical_distributions_with/</guid>
+      <pubDate>Sat, 03 Feb 2024 21:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序架构即代码 - AWS reinvent 2023 的演示</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai6uxg/application_architecture_as_code_presentation/</link>
+      <description><![CDATA[ 由   提交 /u/gHeadphone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai6uxg/application_architecture_as_code_presentation/</guid>
+      <pubDate>Sat, 03 Feb 2024 21:34:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名程序员，最近购买了 Meta Quest 3，想测试一下我是否可以在 VR 中编码。这是我的经验。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ai6kn1/im_a_programmer_and_i_recently_bought_meta_quest/</link>
+      <description><![CDATA[总体体验很好，但显示效果不如 4k 显示器清晰，但你可以使用它，最好的是你可以访问三个大型显示屏随处可见。我没有遇到任何延迟或连接问题，并且使用键盘和鼠标也非常容易。   由   提交/u/vikasofvikas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ai6kn1/im_a_programmer_and_i_recently_bought_meta_quest/</guid>
+      <pubDate>Sat, 03 Feb 2024 21:21:55 GMT</pubDate>
     </item>
     <item>
       <title>芬兰高中生搭建多米诺骨牌计算机，可在 45 秒内将两个 6 位数字相加（世界纪录）</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/waozen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ai0nnz/editing_faster_in_vscode_without_vim_keybinds/</guid>
       <pubDate>Sat, 03 Feb 2024 17:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Docker 容器实现相互 TLS（使用 Golang）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahz7l2/how_to_implement_mutual_tls_with_docker/</link>
-      <description><![CDATA[ 由   提交 /u/Professional-East-65   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahz7l2/how_to_implement_mutual_tls_with_docker/</guid>
-      <pubDate>Sat, 03 Feb 2024 15:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>被胶水</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahy3rm/being_glue/</link>
-      <description><![CDATA[ 由   提交 /u/sethamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahy3rm/being_glue/</guid>
-      <pubDate>Sat, 03 Feb 2024 15:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation 2 DMAC 基础知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahxxch/playstation_2_dmac_basics/</link>
-      <description><![CDATA[ 由   提交/u/amfobes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahxxch/playstation_2_dmac_basics/</guid>
-      <pubDate>Sat, 03 Feb 2024 14:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将第一个发布的 docker 镜像的大小减少了 40% - dockerizing shell 脚本的课程</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahwyx2/how_i_reduced_the_size_of_my_very_first_published/</link>
-      <description><![CDATA[ 由   提交 /u/BhupeshV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahwyx2/how_i_reduced_the_size_of_my_very_first_published/</guid>
-      <pubDate>Sat, 03 Feb 2024 14:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>rexi：用 Python 构建的用于正则表达式测试的终端 UI</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahvygp/rexi_a_terminal_ui_for_regex_testing_built_in/</link>
-      <description><![CDATA[ 由   提交/u/R3zn1kk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahvygp/rexi_a_terminal_ui_for_regex_testing_built_in/</guid>
-      <pubDate>Sat, 03 Feb 2024 13:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PHP（和一些 MySQL）的 Code 2023 来临 - GitHub Repository</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahuv96/advent_of_code_2023_with_php_and_a_grain_of_mysql/</link>
-      <description><![CDATA[ 由   提交/u/ControlWestern2745   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahuv96/advent_of_code_2023_with_php_and_a_grain_of_mysql/</guid>
-      <pubDate>Sat, 03 Feb 2024 12:17:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

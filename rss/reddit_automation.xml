@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 03 Feb 2024 21:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:55:11 GMT</lastBuildDate>
     <item>
       <title>对我们的人工智能自动化应用程序的 Alpha 反馈🙏🏻</title>
       <link>https://www.reddit.com/r/automation/comments/1ahyupb/alpha_feedback_on_our_ai_automation_app/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>如何正确计算。自动化%</title>
       <link>https://www.reddit.com/r/automation/comments/1ahshxi/how_to_correctly_calc_automation/</link>
-      <description><![CDATA[您好，在我公司，自动化水平的计算方式为automatic_process_time/total_product time。这得到了大客户的同意。 示例 1 这对我来说很奇怪，因为假设我的生产时间为 10 秒，包含 2 个流程步骤（每个步骤 5 秒）。我将其中一个自动化，并在 2.5 秒内完成。我将 50% 的生产自动化，但公式却显示只有 33.3%？所以我的机器看起来更糟，因为它更快？ 示例2 3 每个处理 5 秒，总共 15 秒。第一个已经自动化（自动化 33%），然后我自动化第二个，将其时间缩短到 1 秒。现在我已经自动化了 2 个进程（5 秒 + 1 秒），但现在总时间是 11 秒。所以 6/11 所以不到 60%，但我的自动化程度正好是 66.6%？ 我看到了一些漏洞 更快的机器看起来更糟 我可以放慢我的机器以获得更多自动化 我可以投入更多体力劳动者一个流程可以缩短总生产时间，如果我的自动化水平不为0，它会增加   由   提交/u/Cynical12313  [链接] [评论]]]></description>
+      <description><![CDATA[您好，在我公司，自动化水平的计算方式为automatic_process_time/total_product time。这得到了大客户的同意。 示例 1 这对我来说很奇怪，因为假设我的生产时间为 10 秒，包含 2 个流程步骤（每个步骤 5 秒）。我将其中一个自动化，并在 2.5 秒内完成。我将 50% 的生产自动化，但公式却显示只有 33.3%？所以我的机器看起来更糟，因为它更快？ 示例2 3 每个处理 5 秒，总共 15 秒。第一个已经自动化（自动化 33%），然后我自动化第二个，将其时间缩短到 1 秒。现在我已经自动化了 2 个进程（5 秒 + 1 秒），但现在总时间是 11 秒。所以 6/11 所以不到 60%，但我的自动化程度正好是 66.6%？ 我看到了一些漏洞 更快的机器看起来更糟 我可以放慢我的机器以获得更多的自动化 我可以投入更多的体力劳动一个流程可以缩短总生产时间，如果我的自动化水平不为0，它会增加   由   提交/u/Cynical12313  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ahshxi/how_to_correctly_calc_automation/</guid>
       <pubDate>Sat, 03 Feb 2024 09:39:42 GMT</pubDate>
     </item>
     <item>
       <title>Gmail - 发送电子邮件时是否有自动提取自动值的功能？</title>
       <link>https://www.reddit.com/r/automation/comments/1ah67xl/gmail_is_there_any_functionality_to_automatically/</link>
-      <description><![CDATA[      我正在考虑使用 Gmail 自动发送一些电子邮件 - 是否有自动拉入的功能诸如月份或年份之类的值？ 在下面的示例中，我有一个电子邮件模板，理想情况下，我希望 %month% 包含发送电子邮件时的当前月份。  p&gt; 例如，当电子邮件发送时（或者甚至在它仍然是草稿时），它将显示以下内容（基于二月份发送的情况）： “嗨约翰， 请查看二月份的全体员工人数。 亲切的问候， 马修” ​&lt; /p&gt; 我知道我可以使用像 Microsoft Flow 这样的服务来执行此操作，但这意味着从那里发送电子邮件 - 我想知道是否有办法从 Gmail 执行此操作（最好不是插件）。  ​ 谢谢！ https://preview.redd.it/54i3a1ehw6gc1.png?width=880&amp;format=png&amp;auto=webp&amp;s=af4885f9db66aee59e123426eb2f 4c18743b8f31   由   提交 /u/FlyingSheepYT   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我正在考虑使用 Gmail 自动发送一些电子邮件 - 是否有自动拉入的功能诸如月份或年份之类的值？ 在下面的示例中，我有一个电子邮件模板，理想情况下，我希望 %month% 包含发送电子邮件时的当前月份。 例如，当电子邮件发送时（或者甚至在它仍然是草稿时），它将显示以下内容（基于二月份发送的情况）： “嗨约翰， 请查看二月份的全体员工人数。 亲切的问候， 马修” ​&lt; /p&gt; 我知道我可以使用像 Microsoft Flow 这样的服务来执行此操作，但这意味着从那里发送电子邮件 - 我想知道是否有办法从 Gmail 执行此操作（最好不是插件）。  ​ 谢谢！ https://preview.redd.it/54i3a1ehw6gc1.png?width=880&amp;format=png&amp;auto=webp&amp;s=af4885f9db66aee59e123426eb2f 4c18743b8f31   由   提交 /u/FlyingSheepYT   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ah67xl/gmail_is_there_any_functionality_to_automatically/</guid>
       <pubDate>Fri, 02 Feb 2024 15:24:03 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>如何使用移动 otp 或使用 MS 验证器应用程序自动化 Microsoft 2FA？</title>
       <link>https://www.reddit.com/r/automation/comments/1adyr6r/how_to_automate_microsoft_2fa_using_mobile_otp_or/</link>
-      <description><![CDATA[当我点击项目 URL 时，系统会要求我使用 Microsoft 凭据登录。输入有效凭据后，一条 OTP 消息将发送到我的手机。使用 MS 身份验证器应用程序还有一个身份验证选项，我需要输入显示的 2 位代码 如何使用带有 JS 的 playwright 自动执行此场景？   由   提交 /u/naturally_nivi   [链接] [评论]]]></description>
+      <description><![CDATA[当我点击项目 URL 时，系统会要求我使用 Microsoft 凭据登录。输入有效凭据后，一条 OTP 消息将发送到我的手机。使用 MS 验证器应用程序还有一个身份验证选项，我需要输入显示的 2 位代码 如何使用带有 JS 的 playwright 自动执行此场景？   由   提交 /u/naturally_nivi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1adyr6r/how_to_automate_microsoft_2fa_using_mobile_otp_or/</guid>
       <pubDate>Mon, 29 Jan 2024 16:03:45 GMT</pubDate>
     </item>
