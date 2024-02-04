@@ -4,13 +4,76 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 04 Feb 2024 15:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 18:15:33 GMT</lastBuildDate>
     <item>
-      <title>投票主题：您对什么类型的编程课程感兴趣？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aipwb0/poll_what_kind_of_programming_courses_are_you/</link>
-      <description><![CDATA[ 由   提交/u/HerrNamenlos123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aipwb0/poll_what_kind_of_programming_courses_are_you/</guid>
-      <pubDate>Sun, 04 Feb 2024 15:06:41 GMT</pubDate>
+      <title>WebRTC 安全：真正的去中心化和私密通话可能吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiu8dp/webrtc_security_are_truly_decentralized_and/</link>
+      <description><![CDATA[ 由   提交/u/igankevich  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiu8dp/webrtc_security_are_truly_decentralized_and/</guid>
+      <pubDate>Sun, 04 Feb 2024 18:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>成为一名成功的软件工程师并不需要计算机科学学位</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiu3wk/a_cs_degree_is_not_needed_to_be_successful_as_a/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiu3wk/a_cs_degree_is_not_needed_to_be_successful_as_a/</guid>
+      <pubDate>Sun, 04 Feb 2024 18:05:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭示 Rust 中并发的力量：深入探讨</title>
+      <link>https://www.reddit.com/r/programming/comments/1ait8h1/unraveling_the_power_of_concurrency_in_rust_a/</link>
+      <description><![CDATA[ 由   提交/u/guleriashubham63   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ait8h1/unraveling_the_power_of_concurrency_in_rust_a/</guid>
+      <pubDate>Sun, 04 Feb 2024 17:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件架构师的蓝图：选择功能标志平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1ais8s7/a_software_architects_blueprint_selecting_the/</link>
+      <description><![CDATA[ 由   提交 /u/GSargi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ais8s7/a_software_architects_blueprint_selecting_the/</guid>
+      <pubDate>Sun, 04 Feb 2024 16:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在努力学习 React 或任何 JavaScript 框架？这里有 7 个阻碍的错误（以及该怎么做）💪🎉</title>
+      <link>https://www.reddit.com/r/programming/comments/1ais4s8/struggling_to_learn_react_or_any_javascript/</link>
+      <description><![CDATA[ 由   提交/u/joyancefa  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1ais4s8/struggling_to_learn_react_or_any_javascript/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ais4s8/struggling_to_learn_react_or_any_javascript/</guid>
+      <pubDate>Sun, 04 Feb 2024 16:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年软件工程师指导指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1airwpu/2024_guide_to_mentoring_for_software_engineer/</link>
+      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1airwpu/2024_guide_to_mentoring_for_software_engineer/</guid>
+      <pubDate>Sun, 04 Feb 2024 16:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 NoSQL：4 种主要存储类型和 CAP 定理</title>
+      <link>https://www.reddit.com/r/programming/comments/1airp2f/exploring_nosql_4_main_store_types_the_cap_theorem/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1airp2f/exploring_nosql_4_main_store_types_the_cap_theorem/</guid>
+      <pubDate>Sun, 04 Feb 2024 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软团队失败了|两支球队的故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiqli6/microsoft_teams_went_down_a_tale_of_two_teams/</link>
+      <description><![CDATA[ 由   提交/u/kaiwen2times  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiqli6/microsoft_teams_went_down_a_tale_of_two_teams/</guid>
+      <pubDate>Sun, 04 Feb 2024 15:37:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>该死的蜜罐太多了</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiqe9v/there_are_too_many_damn_honeypots/</link>
+      <description><![CDATA[ 由   提交/u/keybeebig  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiqe9v/there_are_too_many_damn_honeypots/</guid>
+      <pubDate>Sun, 04 Feb 2024 15:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助开发者在舞台上获得信心的 7 个公开演讲技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiq1t1/7_public_speaking_tips_for_developers_to_gain/</link>
+      <description><![CDATA[ 由   提交 /u/odd_sherlock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiq1t1/7_public_speaking_tips_for_developers_to_gain/</guid>
+      <pubDate>Sun, 04 Feb 2024 15:13:26 GMT</pubDate>
     </item>
     <item>
       <title>Envoy 异步 HTTP 过滤器：lua-resty-ffi 与 golang 过滤器</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/pmz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aiov7x/debugging_dockerized_python_apps_in_vscode/</guid>
       <pubDate>Sun, 04 Feb 2024 14:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 WinSDK 构建 Swift Windows 新闻应用程序 | WinUI | Swift-WinRT</title>
-      <link>https://www.reddit.com/r/programming/comments/1ainope/build_swift_windows_news_app_with_winsdk_winui/</link>
-      <description><![CDATA[ 由   提交 /u/alfianlo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ainope/build_swift_windows_news_app_with_winsdk_winui/</guid>
-      <pubDate>Sun, 04 Feb 2024 13:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Letlang 规范最终确定！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ainnn4/letlang_specification_finalized/</link>
-      <description><![CDATA[ 由   提交/u/david-delassus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ainnn4/letlang_specification_finalized/</guid>
-      <pubDate>Sun, 04 Feb 2024 13:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 HTML/CSS/JavaScript 模板：</title>
-      <link>https://www.reddit.com/r/programming/comments/1ainfmk/free_htmlcssjavascript_templates/</link>
-      <description><![CDATA[ 由   提交/u/mdenic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ainfmk/free_htmlcssjavascript_templates/</guid>
-      <pubDate>Sun, 04 Feb 2024 13:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Pkl，一种用于配置的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1aimaxy/introducing_pkl_a_programming_language_for/</link>
-      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aimaxy/introducing_pkl_a_programming_language_for/</guid>
-      <pubDate>Sun, 04 Feb 2024 11:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何直接从浏览器提供网页</title>
-      <link>https://www.reddit.com/r/programming/comments/1ail8pm/how_to_serve_web_pages_directly_from_your_browser/</link>
-      <description><![CDATA[ 由   提交/u/way193  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ail8pm/how_to_serve_web_pages_directly_from_your_browser/</guid>
-      <pubDate>Sun, 04 Feb 2024 10:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>每两周瀑布（又名 Scrum）</title>
-      <link>https://www.reddit.com/r/programming/comments/1aikbs3/fortnightly_waterfall_aka_scrum/</link>
-      <description><![CDATA[ 由   提交/u/emanresu_2017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aikbs3/fortnightly_waterfall_aka_scrum/</guid>
-      <pubDate>Sun, 04 Feb 2024 09:44:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>你什么时候应该放弃一个不起作用的项目？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aijsmn/when_should_you_give_up_on_a_project_that_doesnt/</link>
-      <description><![CDATA[ 由   提交/u/cowjam716  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aijsmn/when_should_you_give_up_on_a_project_that_doesnt/</guid>
-      <pubDate>Sun, 04 Feb 2024 09:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚开始担任软件开发人员时给自己的建议</title>
-      <link>https://www.reddit.com/r/programming/comments/1aijm43/advice_to_myself_when_starting_out_as_a_software/</link>
-      <description><![CDATA[ 由   提交/u/besmaashafy91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aijm43/advice_to_myself_when_starting_out_as_a_software/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>jj初始化</title>
-      <link>https://www.reddit.com/r/programming/comments/1aiigfn/jj_init/</link>
-      <description><![CDATA[ 由   提交/u/stackoverflooooooow  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aiigfn/jj_init/</guid>
-      <pubDate>Sun, 04 Feb 2024 07:38:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

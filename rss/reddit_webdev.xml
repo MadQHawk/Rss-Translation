@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 04 Feb 2024 15:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 18:15:56 GMT</lastBuildDate>
+    <item>
+      <title>有好的 Vectorizer.ai 替代品吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aitbr2/any_good_vectorizerai_alternatives/</link>
+      <description><![CDATA[我使用 vectorizer.ai 将 PNG 图标转换为 SVG 图标在原型设计过程中，我可能会弄乱代码或和。但是，它现在被屏蔽在付费墙后面。 我尝试搜索，但使用这个基本的仪表板图标 （透明和白色）作为我的测试图像，我要么得到糟糕的矢量化 SVG，要么只是空白的 SVG，vectorizer.ai 是唯一正确矢量化的图像图标（但当然，如果我不支付 7.99 英镑就无法下载它）。 我使用 vectorizer.ai足以让我支付 7.99 英镑，但我目前破产了。   由   提交 /u/Responsible-Bug900    reddit.com/r/webdev/comments/1aitbr2/any_good_vectorizerai_alternatives/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aitbr2/any_good_vectorizerai_alternatives/</guid>
+      <pubDate>Sun, 04 Feb 2024 17:32:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写接口代码！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiskdb/code_to_an_interface/</link>
+      <description><![CDATA[您多久听到过“向接口编写代码”这个短语？我确信您至少遇到过几次，并且我知道一开始可能很难理解。我记得很难理解这个概念，所以我希望这个解释可以帮助您更好地理解它。 https://blog.oussama-mater.tech/code-to-an-interface 任何反馈表示赞赏，它可以帮助我写出更好的文章，谢谢:)   由   提交 /u/According_Ant_5944   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiskdb/code_to_an_interface/</guid>
+      <pubDate>Sun, 04 Feb 2024 17:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们因为我的作品集中有前端导师项目而批评我？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1airk3o/why_are_people_bashing_me_for_having_frontend/</link>
+      <description><![CDATA[就上下文而言，我是新人，正在寻找 JR 前端职位。话虽这么说，我不是设计师，也不是建筑师。那么，为什么我使用 FEM 的设计和想法来构建项目会如此糟糕呢？所有代码都是我的。 JR不就是这么干的吗？实现其他人的想法和设计？ 我的简历上还有其他不是来自 FEM 的项目。主要的一个是我从头到尾完全自己想出的一个全栈项目。 那么我是否应该从我的投资组合中删除 FEM 项目，或者这只是 reddit 的一个例子是 reddit？   由   提交 /u/theanxiousprogrammer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1airk3o/why_are_people_bashing_me_for_having_frontend/</guid>
+      <pubDate>Sun, 04 Feb 2024 16:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开源我的网站构建器项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiqvnu/i_am_open_sourcing_my_wesite_builder_project/</link>
+      <description><![CDATA[大家好， 希望您能顺利收到此消息。我很高兴分享有关 Chai Builder 项目的重大更新 - 它现已开源！ 我的名字是 Suraj，我于 2021 年 12 月开始了与 Chai Builder 的这段旅程。在为其投入了几个月的时间后全职开发，后来兼职贡献，我很高兴宣布这一重大里程碑。如果没有一位同事的宝贵支持，我不可能实现这一目标，他在这项协作努力中发挥了重要作用。 该项目已经准备好让其他人来掌控和定制以满足他们的特定需求。我设想 Chai Builder 不仅会成为一个出色的网站构建器，而且现在还会成为一个出色的开源网站构建器。 展望未来，我致力于定期做出贡献，以推动该项目更接近我的雄心勃勃的愿景在其成立之初。然而，真正的魔力在于 Chai Builder 社区的集体努力。这就是您的用武之地。 作为尊贵的 Chai Builder 用户，我邀请您积极参与其开发。您的见解、反馈和贡献可以在提高其稳定性和整体质量方面发挥关键作用。让我们一起简化并重新定义拥有最好的网站构建器的意义。 感谢您参与这一激动人心的旅程，我期待见证我们的社区共同实现的令人难以置信的转变。  Github：github.com/chaibuilder 文档：docs.chaibuilder.com 网站：chaibuilder.com 最诚挚的问候， Suraj   由   提交 /u/surajair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiqvnu/i_am_open_sourcing_my_wesite_builder_project/</guid>
+      <pubDate>Sun, 04 Feb 2024 15:50:25 GMT</pubDate>
+    </item>
     <item>
       <title>React/Next.JS/Tailwind/Radix.UI 学习项目。图片上传组件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aipm0u/reactnextjstailwindradixui_learning_project_image/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>不平滑，半屏滚动</title>
       <link>https://www.reddit.com/r/webdev/comments/1aioux7/non_smooth_half_screen_scroll/</link>
-      <description><![CDATA[Hello Devvies，祝大家周末愉快 我已经想到了样式/功能一直在寻找实施方法；和 Bono 一样，我似乎找不到我要找的东西 我的项目是使用 Vuetify 引导的 VueJS。我的主页视图分为左栏和右栏 - 我希望右侧保持原状，左侧则滚动。 滚动效果不应该是平滑的，而是“整页”从底部翻转&#39;类型的运动 - 这种效果的名称是我的问题之一。 滚动效果应从屏幕底部的按钮启动 -单击按钮，左列的底部直接移动到顶部，露出“下面的卡片”。 为此做准备，左列被制作为卡片，而右列将保持静止。为了澄清起见，这是我的该视图的模板 ​ &lt;template&gt; &lt;v-容器流体&gt; &lt;v-行&gt;    &lt;v-card class=“左半暗背景”&gt;  &lt;封面左/&gt;&gt; &lt;/v-card-text&gt; &lt;/v-card&gt;  &lt;/v-col&gt;    &lt;右盖&gt;  &lt;/v-col&gt; &lt;/v-row&gt; &lt;/v-容器&gt; &lt;/模板&gt;  因此，我正在寻找有关如何实现此功能的想法、特定滚动效果的名称以及您可能知道的显示不同示例的任何网站。  如果我看到它的实际效果，我想我可以用 vuetify 模仿它，但我不是设计师。我只是想通过这部分来专注于创意内容；因此，任何人都可以添加任何可能有助于有效推动我实现这一目标的内容，我将不胜感激。谢谢 ​   由   提交/u/DivineSwine_   [链接] [评论]]]></description>
+      <description><![CDATA[Hello Devvies，祝大家周末愉快 我已经想到了样式/功能一直在寻找实施方法；和 Bono 一样，我似乎找不到我要找的东西 我的项目是使用 Vuetify 引导的 VueJS。我的主页视图分为左栏和右栏 - 我希望右侧保持原状，左侧则滚动。 滚动效果不应该是平滑的，而是“整页”从底部翻转&#39;类型的运动 - 这种效果的名称是我的问题之一。 滚动效果应从屏幕底部的按钮启动 -单击按钮，左列的底部直接移动到顶部，露出“下面的卡片”。 为此做准备，左列被制成卡片，而右列将保持静止。为了澄清起见，这是我的该视图的模板 ​ &lt;template&gt; &lt;v-容器流体&gt; &lt;v-行&gt;    &lt;v-card class=“左半暗背景”&gt;  &lt;封面左/&gt;&gt; &lt;/v-card-text&gt; &lt;/v-card&gt;  &lt;/v-col&gt;    &lt;右盖&gt;  &lt;/v-col&gt; &lt;/v-row&gt; &lt;/v-容器&gt; &lt;/模板&gt;  因此，我正在寻找有关如何实现此功能的想法、特定滚动效果的名称以及您可能知道的显示不同示例的任何网站。  如果我看到它的实际效果，我想我可以用 vuetify 模仿它，但我不是设计师。我只是想通过这部分来专注于创意内容；因此，任何人都可以添加任何可能有助于有效推动我实现这一目标的内容，我将不胜感激。谢谢 ​   由   提交/u/DivineSwine_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aioux7/non_smooth_half_screen_scroll/</guid>
       <pubDate>Sun, 04 Feb 2024 14:17:43 GMT</pubDate>
     </item>
@@ -62,53 +90,25 @@
       <pubDate>Sun, 04 Feb 2024 13:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>您是否为所学或记录的内容创建文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ainbxu/do_you_create_files_for_what_you_learn_or_document/</link>
-      <description><![CDATA[我为我将来学到的东西创建了 markdown，寻找我忘记的东西，比如 Angular、Reactjs、Spring Security with JWT，但我不认为它是一个好主意，因为只有 Anuglar 有 4000 行，而且它还没有结束，有很多东西，比如：View Encapsulation、ElementRef、Renderer2、ContentChild、Input、Output 和 EventEmitter...我正在考虑把所有东西都放在 Notion 中... 你如何处理你学到的一切？他写？文档？创建您的记录？为什么有一天你可能不会使用它并忘记它。   由   提交 /u/CodeSilva   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ainbxu/do_you_create_files_for_what_you_learn_or_document/</guid>
-      <pubDate>Sun, 04 Feb 2024 12:58:24 GMT</pubDate>
+      <title>顶级 JS 库可以在任何设备上流畅地免费绘图？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ailkeq/top_js_libraries_for_smooth_free_drawing_at_any/</link>
+      <description><![CDATA[嘿！我正在制作一个需要全屏绘图板的开源项目，并且我正在寻找一个轻量级库，它允许我实现以下功能： 1.在任何速度和任何设备下平滑绘图而不冻结 2. 轻松保存和加载画布状态（撤消/重做/导出） 3. 灵活实现工具（画笔、橡皮擦等）的可能性 4. 移动设备支持 /&gt; 5. 方便的绘图缩放 我已经尝试过的库： P5 – 很好，很容易编码，但快速绘图时无法避免延迟 Konva –对于简单的事情来说太棘手 考虑： PaperJS（好的解决方案：https://jsfiddle.net/ MartinThoma/dbszj/) 2.JS：看起来太复杂，不友好，但是很顺利 Fabric.JS：因为主页设计令人厌恶，所以没有尝试，但我决定在写这篇文章时看看，并感到惊讶，这个库有实现绘图板的最佳示例（http://fabricjs.com/freedrawing）。请让我知道这个库如何针对大屏幕和快速绘图进行优化。  借此机会，我邀请您参与 DrawTo 项目 - 该项目的想法是通过将不可编辑的绘图添加到以太坊区块链并以美丽的方式显示该历史，从而能够在历史中留下不可编辑的绘图。方便流畅的格式。  https://github.com/drawto https://t.me/drawtodev    由   提交 /u/GiveMeYourSmile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ailkeq/top_js_libraries_for_smooth_free_drawing_at_any/</guid>
+      <pubDate>Sun, 04 Feb 2024 11:07:06 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 TailwindCSS 需要扫描我的源代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ainaua/why_does_tailwindcss_need_to_scan_my_source/</link>
-      <description><![CDATA[有一组固定的 tailwind 实用程序，任何其他实用程序都在配置中定义。为什么 TailwindCSS 需要扫描我的源代码才能生成样式表？    由   提交 /u/HappyMajor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ainaua/why_does_tailwindcss_need_to_scan_my_source/</guid>
-      <pubDate>Sun, 04 Feb 2024 12:56:32 GMT</pubDate>
+      <title>投资组合网站的反馈。我从其他网站获得灵感。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aijk8a/feed_back_for_portfolio_website_i_took/</link>
+      <description><![CDATA[       由   提交/u/josephadam1  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aijk8a/feed_back_for_portfolio_website_i_took/</guid>
+      <pubDate>Sun, 04 Feb 2024 08:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>网络抓取合法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ain86a/is_web_scraping_legal/</link>
-      <description><![CDATA[我看到许多网站都有可公开访问的信息（因此，信息不在付费专区后面），并且有法律免责声明，不允许您复制任何内容在其网站上找到的材料，尤其是用于商业目的的材料。他们没有明确提及网络抓取，但我相信这也是免责声明的一部分。 但是，我仍然很好奇。诸如 INCI Beauty 之类的大型应用程序（或具有可以从互联网（例如专门网站）收集信息的大型数据库的任何其他应用程序）如何创建可能包含数百万条记录的数据库？以这个例子为例，INCI Beauty 有一个数据库，其中包含有关化妆品成分/物质的信息。有关它们的信息可以在多个网站上找到。你相信他们使用了网络抓取吗？因为与专业团队一起手动创建有关成分的每个条目似乎相当乏味且成本​​高昂。 话虽如此，什么属于公共领域，什么不属于公共领域？或者有人可以向我解释一下用于商业目的的网络抓取的合法性吗？   由   提交/u/Alex_The_Android   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ain86a/is_web_scraping_legal/</guid>
-      <pubDate>Sun, 04 Feb 2024 12:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我作为前端开发人员使用 Figma Dev 模式的经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ailocq/my_experience_with_figma_dev_mode_as_a_frontend/</link>
-      <description><![CDATA[     &lt; td&gt; TLDR： 即使您自己支付专业计划费用，您也无法使用Figma 开发模式。要免费获得类似的体验，请导出 Figma 文件并将其导入 Pixso。 完整故事： 我是一名与多个客户合作的前端开发人员。在大多数情况下，我在 Figma 中进行设计。 这是一个非常方便的工具，直到 Figma 决定将“检查”选项卡移至开发模式下。在二月初之前都是免费的。 我不介意为我使用的工具付费，所以昨天，我注册了专业计划来访问开发模式：  开发模式作为专业计划的一部分进行宣传 然后我打开了一个设计并尝试启用开发模式，但出现了问题： 如果不是团队成员，则无法访问开发模式 好的。所以，我要求设计师邀请我作为一个项目的观众。我收到了不同的错误： 请求开发模式访问权限 如果设计师升级我的帐户，他的团队将每月额外支付 15 美元的费用，以获得额外的席位，以便我可以访问开发模式。 也就是说称为骗局。我已经付费购买了一项功能，但无法使用它。 唯一的解决方法是导出 Figma 文件并将其导入到 Figma 中我的团队下。在这种情况下，我将能够使用开发模式，但所有协作工具都将丢失。另外，如果进行了一些更改，我必须手动重新导入更新的设计。 从技术上讲，我可以使用 Pixso 等替代服务执行相同的操作，在其中我可以简单地导入 Figma 设计并获得类似的结果开发模式背后的想法很简单：Figma 决定将“检查”选项卡上的一些与开发人员相关的功能转移到开发模式，然后不仅向公司收取设计师席位的费用，还向开发人员收费。  我不介意为我用来完成工作的功能付费。 15 美元/月是可以接受的价格，但最终我无法使用它。我的客户仍然需要为我合作的每个团队支付 15 美元/月的费用。 就 Figma Dev 模式本身而言，它在某些情况下可能很有用，但内置的代码生成是一个垃圾。有时它会起作用，但在大多数情况下它会导致更多混乱。 所以不要犯我的错误。如果你是开发者，那么不值得为 Figma 付费。   由   提交/u/toniyevych  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ailocq/my_experience_with_figma_dev_mode_as_a_frontend/</guid>
-      <pubDate>Sun, 04 Feb 2024 11:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>发票模板工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ailo4u/tools_for_invoice_templates/</link>
-      <description><![CDATA[嘿👋🏼 我需要用 html 创建一些发票模板，我真的发现 html/css 很无聊. 有什么工具可以用于此目的吗？喜欢一些拖放操作吗？   由   提交 /u/larstomas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ailo4u/tools_for_invoice_templates/</guid>
-      <pubDate>Sun, 04 Feb 2024 11:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想在开始 Javascript 之前练习 HTML 和 CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aila70/i_would_like_to_practice_html_and_css_before/</link>
-      <description><![CDATA[嗨，我刚刚学完 CSS，但我觉得我需要先练习 HTML 和 CSS 来做好准备，您对 YouTube 频道有什么建议吗？逐步解释如何做某些项目的网站？感谢您的阅读:)   由   提交/u/Flavix55  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aila70/i_would_like_to_practice_html_and_css_before/</guid>
-      <pubDate>Sun, 04 Feb 2024 10:48:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的基于项目的 React 课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ail27r/whats_a_good_project_based_course_for_react/</link>
-      <description><![CDATA[我总是通过创建一个半复杂的项目并在途中解释所有内容来学到最好的东西。我猜那里有很多这样的东西，但你有最喜欢的吗？我想同时顺风集成会很好，但不是必需的   由   提交 /u/omlette_du_chomage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ail27r/whats_a_good_project_based_course_for_react/</guid>
-      <pubDate>Sun, 04 Feb 2024 10:33:57 GMT</pubDate>
+      <title>打包一个全栈 Web 应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aii35b/packaging_a_full_stack_web_app/</link>
+      <description><![CDATA[我知道这是一个菜鸟问题，但我只是想问这个问题，因为可能有解决方法。我最近使用 React、Express 和 MySQL 构建了一个全栈 Web 应用程序。该应用程序将在没有互联网要求或任何东西的单台 PC 上使用，并且使用它的客户实际上没有太多使用计算机的经验。我的第一个方法是使用 pkg 打包后端，然后使用 xampp 托管后端，因为随着计算机启动很容易启动。我写这篇文章是为了问是否有更简单的方法可以做到这一点？例如使用电子来包装所有内容，或者是否有一种更简单的方法可以使网络应用程序的整个启动变得更容易，或者只需单击一下？我很想听听您的建议和建议。我经验不是很丰富，这是我的第一个大型网络应用程序。 编辑：我知道用于实现我想要的结果的技术可能不是最佳的，我知道我有错误，但这是我的第一个大项目，我无法重建这个，因为考虑到我是为一个非常近的亲戚建造这个，我什至可能没有得到报酬。    由   提交 /u/kraniiax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aii35b/packaging_a_full_stack_web_app/</guid>
+      <pubDate>Sun, 04 Feb 2024 07:12:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
