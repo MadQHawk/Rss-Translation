@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 04 Feb 2024 06:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 09:13:00 GMT</lastBuildDate>
+    <item>
+      <title>刷新令牌应该存储在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiju2a/where_should_refresh_tokens_be_stored/</link>
+      <description><![CDATA[例如，我有一个访问令牌，该令牌将在 X 时间内过期，然后在执行某个操作时，我有一个刷新令牌，这只是一个新令牌具有新有效期的令牌。我的问题的实现并不重要，因为我问的是这个令牌应该存储在哪里。 我可以在内存中执行此操作，但这不是持久的。 SQL 数据库对于小型应用程序来说可能是一个有效的选择，但对于大型应用程序来说，它可能会产生开销并且数据是持久的。我想知道键值对数据库存储是否是更好的选择，因为它们通常是轻量级的并且数据也可以持久化？    由   提交 /u/CannotStopMeOnReddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiju2a/where_should_refresh_tokens_be_stored/</guid>
+      <pubDate>Sun, 04 Feb 2024 09:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不同的手机屏幕上设计应用程序的样式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiji46/how_to_style_your_application_different_phone/</link>
+      <description><![CDATA[您还会使用媒体查询吗？  就上下文而言，我的 div 和容器相对于手机上背景图像的布局在 Iphone 14 上看起来很棒，但在 Iphone 12 上则不太好。   由   提交 /u/chillblaze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiji46/how_to_style_your_application_different_phone/</guid>
+      <pubDate>Sun, 04 Feb 2024 08:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>哦，没有面包会杀死我所拥有的一切！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aijh6a/oh_no_bun_is_killing_everything_i_have/</link>
+      <description><![CDATA[   作为标题。我刚刚学会了如何使用 Babel 来转译我的 javascript，并将这些东西正确地填充到我奶奶的 IE 中，并将所有东西捆绑到一些高度组织的包中。最重要的是，我为此感到自豪。现在我刚刚观看了 Bun 1.0 的简介，看到了这个： ESM和CommonJS的混合 这是：  快速刷新内置-in 还有这个： 快如他妈的 npm i 替换 对于我来说最悲伤的部分是因为知道如何设置 Babel： Babellllllllll 你在做什么????????? ???? 有人可以列出使用 Bun 代替 npm、Babel、webpack 等旧工具的 10 个缺点吗？或者你能告诉我我已经浪费了一个月的时间来学习这些旧工具吗？是否有人开始使用bun进行前端开发并认为它在某些方面很糟糕？ 这是作为前端开发人员的感觉吗？我应该放弃那些旧工具吗？  只是为了证明我付出了自己理解 Babel，尤其是该死的 useBuiltIns: 用法。 ​   由   提交/u/rainning0513  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aijh6a/oh_no_bun_is_killing_everything_i_have/</guid>
+      <pubDate>Sun, 04 Feb 2024 08:47:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>情人节网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiit8d/website_for_valentines/</link>
+      <description><![CDATA[所以我想通过制作一个网站向我喜欢的人求婚，但我完全不知道自己在做什么。到目前为止我所做的就是制作一个 Github 空项目 https://valentine.mewtru.com/我希望它是这样的，但不是“是”对话框变得更大，“否”按钮应该出现在随机的位置。我还需要自定义“否”按钮中的句子。  我真的很感激有人给我一个逐步的演练，向我解释一切，就像你对一个五岁的孩子所做的那样。  提前致谢   由   提交 /u/PSSGAMER   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiit8d/website_for_valentines/</guid>
+      <pubDate>Sun, 04 Feb 2024 08:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>swiss.gl 下来了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiio9e/swissgl_down/</link>
+      <description><![CDATA[我真的很喜欢 SwissGL 背后的想法，服务器 swiss.gl 似乎已关闭。 API 文档仍在 GitHub 上：https://github.com/google/swissgl/blob/ main/docs/API.md 这是否意味着该项目已经死了，我不应该碰它？或者它仍然是个人探索的好工具？是否有类似的、更积极维护的东西？   由   提交 /u/isbtegsm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiio9e/swissgl_down/</guid>
+      <pubDate>Sun, 04 Feb 2024 07:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是IT文盲，我想建立一个网站，像twitter一样，为每个网站添加标签以改进搜索</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiik3c/i_am_it_illiterate_i_want_to_build_a_website/</link>
+      <description><![CDATA[嗨，我对IT一窍不通。只是一个爱好者。我的预算是0。我想建立一个利基网站。我想输入类似 Twitter 的小帖子，并根据小帖子传递的主题对它们进行标记。我希望在搜索框中添加搜索词后这些标签就会显示出来，我想让搜索变得非常好。用户可以使用多个过滤器来查找有关他们想要的利基的信息。我该如何开始？   由   提交/u/As9s  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiik3c/i_am_it_illiterate_i_want_to_build_a_website/</guid>
+      <pubDate>Sun, 04 Feb 2024 07:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将旧的 Joomla 网站替换为云托管服务器上的 Wordpress 网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aihvtn/how_do_i_replace_an_old_joomla_site_with_a/</link>
+      <description><![CDATA[嗨，我父亲有一个非常旧的 Joomla 安装网站。由于joomla版本太旧，他一直使用的插件已损坏，验证码插件无法再使用。该网站是一名开发商 10 年前建立的，现在一团糟。他们创建了一个不再使用的应用程序。现在基本上只用作博客。我想从 WordPress 构建开始。开发者如何在不影响旧网站的情况下重建网站？我可以创建一个子域 dev.sitename.com，然后将网站移过来吗？或者最好在本地服务器上创建它然后将其移动？    由   提交 /u/meljv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aihvtn/how_do_i_replace_an_old_joomla_site_with_a/</guid>
+      <pubDate>Sun, 04 Feb 2024 06:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>RSS 源格式不正确，缺少图像的 <media:content></title>
+      <link>https://www.reddit.com/r/webdev/comments/1aihheq/incorrect_format_of_rss_feed_which_is_missing_the/</link>
+      <description><![CDATA[使用 RSS Feed URL在 Chrome 上扩展时，我得到 digitalsplendid.agency 的 RSS URL：https://digitalsplendid.agency/feed/ 为 digitalsplendid.agency 发起 RSS 可重复活动时网站，我添加了RSS Feed URL扩展显示的url：https://digitalsplendid.agency/feed/ Moosend 仪表板屏幕截图 电子邮件上的图像无法加载。 在进一步联系 Moosend 支持时，他们说这是由于我的 RSS feed 格式不正确，缺少&lt;媒体：内容&gt;对于图像，我可以参考此示例，了解 RSS 提要中的图像应如何 http://rss.cnn.com /rss/cnn_topstories.rss。 所以我的查询是如何添加上述 用于我的 RSS 提要的图像。   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aihheq/incorrect_format_of_rss_feed_which_is_missing_the/</guid>
+      <pubDate>Sun, 04 Feb 2024 06:34:01 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 如何获得新客户？ 5 个最强大的渠道 想要扩大您的客户群吗？以下是最值得探索的 5 个渠道：https://ckinnovation.ca/articles/how-to-get-new-customers 🔍 S...</title>
       <link>https://www.reddit.com/r/webdev/comments/1aifbb1/how_to_get_new_customers_the_5_most_powerful/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好， 我目前是一家公司的独立开发人员，独自处理他们的 2-3 个产品。 我目前是一家公司的独立开发人员，独自处理他们的 2-3 个产品。 p&gt; 其中一个产品需要重大升级和重构。它构建在 PHP7.2 和 MySQL5 之上。通常情况下，我会自己做，但这会使其他产品无人看管。 因此，我目前正在寻找执行此类任务的某人/某个小组。我目前正在寻找聘请 Rector 团队，但在我采取这一行动之前，也许你们中的一些人认识精通此事的人？   由   提交 /u/Bag_Calm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aidy71/crowdsource_phpmysql_upgrade/</guid>
       <pubDate>Sun, 04 Feb 2024 03:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>取消隐藏字段是谁的责任，前端还是后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aidsey/whose_responsibility_is_it_to_nullify_hidden/</link>
-      <description><![CDATA[假设表单有一个复选框，“是”或“否”，如果选择“否”，则显示文本字段，如果选择“是”，则隐藏文本框。假设用户填写了文本字段，改变主意并选择“是”，然后提交表单。 假设我们不取消 UI 上的字段，因为我们希望用户返回如果他们犯了错误。但是，当有效负载提交到后端时，您认为谁的责任是使这个现在隐藏的字段无效？ 前端使该字段无效优点： 仅后端获取前端提供的数据，因此可以正确验证何时应该缺少字段并适当地返回错误 前端使字段无效 缺点： 在前端完成更多处理，效率较低？ 编辑：为了消除一些混乱，这不是一个关于验证的问题。前端和后端都应该验证，就这样。无论如何，后端应该始终进行清理。  但是如果前端有责任使隐藏字段无效，那么后端如果发现矛盾就会引发错误，否则如果只是后端的工作来使隐藏字段无效，那么它就不会引发错误并会悄悄地“修复”矛盾。 查看民意调查 &lt;!-- SC_ON - -&gt;  由   提交/u/railsprogrammer94   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aidsey/whose_responsibility_is_it_to_nullify_hidden/</guid>
-      <pubDate>Sun, 04 Feb 2024 03:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 2024 年的创业精神关乎创新、韧性和影响力。以下是如何成功：https://ckinnovation.ca/articles/how-to-be-an-entrepreneur 🔍了解创业精神：它是关于......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aicyxc/entrepreneurship_in_2024_is_about_innovation/</link>
-      <description><![CDATA[       由   提交 /u/Chris-t-fire   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aicyxc/entrepreneurship_in_2024_is_about_innovation/</guid>
-      <pubDate>Sun, 04 Feb 2024 02:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建单页面原型多平台应用程序的最简单框架是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aibdoj/what_is_the_simplest_framework_to_create_single/</link>
-      <description><![CDATA[嗨， 我是一名专业游戏程序员，自从高中 14 的第一门课程以来，我从未做过任何适当的 Webdev几年前。 我希望深入研究应用程序原型的 Web 开发，以便在正确投资之前进行测试（我要么更认真地对待 webDev，要么聘请专业人士） &lt; p&gt;我想要做的项目类似于“Magic ToDo”应用程序。  所以一般来说，它会是：  单页应用程序（可能有多个“屏幕”或“选项卡”，但是仍然是一个页面） 我想要制作的所有原型都是围绕使用 OpenAi api 进行尝试 我不知道不想过多担心 Ui 设计（布局、颜色、动画、主题等），因此可重用性是这里的关键。  数据库目前将是 100% 客户端（或保存在用户的 Google 帐户中）  我的内容 &lt; em&gt;真的想要避免：  繁琐的初始项目设置 “手动” ui设计编码  要么是可视化编辑器，要么更好，是支持导入（免费或付费）重新设计的模板的工具  尽可能少地依赖第三方。   奖励：  多平台部署（我不关心它是原生的还是只是一个 webView.apk）  我尝试过：  颤动。   看起来不错，但我担心这对于我想做的事情来说可能有点矫枉过正，也许有一个更简单的 JavaScript 框架。  我也只是猜测使用更标准化的框架将使我能够轻松购买预制的用户界面。    ps： 以防万一我使用“ui”一词用 webdev 这个词来说是错误的，我的意思只是从一个超级基本的丑陋的“默认”到“默认”。查看看起来很高级的东西。 谢谢！ 编辑： 忘记说，根据我所做的快速搜索，最好的候选者是：&lt; /p&gt;  flutter sveltkit Angular.js&lt; /li&gt; React.js  如果该列表正确，我很想知道您对我的需求的客观意见，再说一次，可扩展性不是目前的目标。 注意： 目前正在 Unity 中进行原型设计，除了构建时间较长之外，一切都对我有利，我尝试了 flutter，我真的很喜欢无论我写什么，都可以在我可以立即共享的网页上进行测试。   由   提交 /u/alaslipknot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aibdoj/what_is_the_simplest_framework_to_create_single/</guid>
-      <pubDate>Sun, 04 Feb 2024 01:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自动执行入职任务（将书签添加到书签栏）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aib9dh/how_to_go_about_automating_onboarding_task_adding/</link>
-      <description><![CDATA[      我希望使用自动化工具来帮助我完成一个小项目。我想创建一个程序，可以打开 Chrome 和 Firefox，并自动为我的团队成员完成工作任务所需的所有网站添加书签。  pupeteer 允许完成此类任务吗？我确实安装了 npm 并尝试在 Chrome 中使用书签栏，但最终出现错误。  ​ const puppeteer = require(&#39;puppeteer&#39;); 异步函数 setupBookmarks() { const browser=await puppeteer.launch(); const page=await browser.newPage();&lt; /code&gt; await page.goto(&#39;chrome://bookmarks/&#39;); await browser.close();&lt; /code&gt; console.log(&quot;测试完成&quot;); }  setupBookmarks();  ​ /u/KingZeke74  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aib9dh/how_to_go_about_automating_onboarding_task_adding/</guid>
-      <pubDate>Sun, 04 Feb 2024 00:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>性能最高/最便宜的 VPS 或专用服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aia5ze/most_performant_cheap_vps_or_dedicated_servers/</link>
-      <description><![CDATA[谁是最好的？我听说过有关 Hetzner 的好与坏，我需要建议。   由   提交 /u/Legend-Of-Crybaby   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aia5ze/most_performant_cheap_vps_or_dedicated_servers/</guid>
-      <pubDate>Sun, 04 Feb 2024 00:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>双模态问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aia3g2/double_modal_issue/</link>
-      <description><![CDATA[      通过 stopPropagation() 实现此功能。感谢 nrugor ​ 我是新人到网络开发人员。 网站正在使用 PHP 和 bootstrap。 处理我网站的日历部分，并使用模式添加和编辑日历日期的事件。 我有两个 onclick 事件。一个用于“单元格”，即日期。单击单元格中的任意位置都会弹出一个新的事件模式。另一个 onclick 是当您单击当天“单元格”内的事件时。这样做会弹出一个编辑事件模式。 问题是，单击事件会弹出添加新事件模式和编辑事件模式。 ​ 有解决方法吗？ ​ 这是包含事件的日单元格的样子。单击绿色框会弹出编辑模式和新模式。单击白色区域只会弹出新模态。 https://preview.redd.it/tyw5grrzkggc1.png?width=226&amp;format=png&amp;auto=webp&amp;s=ad35f9e13a7ecd347347adf4d537ead24b6f1b3d   由   提交 /u/orddie1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aia3g2/double_modal_issue/</guid>
-      <pubDate>Sat, 03 Feb 2024 23:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Radix UI/Headless 用户，您如何声明您的颜色值？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aia0zx/radix_uiheadless_users_how_do_you_declare_your/</link>
-      <description><![CDATA[您是否将颜色硬编码到组件中？ $green = #005500 .radix-button, radix- checkbox { background: $green }  或者你有主题结构吗？ $primary = #005500 $ secondary = #FFFFFF $light = # AAAAAA .radix-button { background: $light }  或者你有组件结构吗？ $accent = #005500 $body = #FFFFFF $divider = #AAAAAA .radix-button { 背景：$body }  ​   由   提交/u/phatangus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aia0zx/radix_uiheadless_users_how_do_you_declare_your/</guid>
-      <pubDate>Sat, 03 Feb 2024 23:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>用了 3 个月的时间为国外的人们建立了我的社交媒体网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ai704q/3_months_in_building_my_social_media_site_for/</link>
-      <description><![CDATA[在过去 3 个月里，我每天晚上都在编码，为居住在国外的人们构建一个网站。 我能够积累周围的资源从那时起，大约有 350 位用户，这真是太棒了。 希望它能为任何从事业余项目的人提供灵感！ 网站：https://distantclub.com   由   提交 /u/Vitamina_e   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ai704q/3_months_in_building_my_social_media_site_for/</guid>
-      <pubDate>Sat, 03 Feb 2024 21:40:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
