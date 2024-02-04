@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 04 Feb 2024 03:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 06:15:21 GMT</lastBuildDate>
+    <item>
+      <title>RSGL，我的轻量级纯标头 GUI 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/</link>
+      <description><![CDATA[RSGL 是我一直致力于开发的一个开源、轻量级、仅包含标头的 GUI 库。它的主要重点是易于使用和用户友好，同时也便于携带且相对轻便。它可用于轻松创建 GUI 应用程序和游戏。我尝试将底层 GUI 库的自由度与现代 C 技术结合起来，提供简单性、便利性和一定程度的模块化。 RSGL 实现这一目标的主要方式部分是通过使用其他开源单头库（其中大部分是我做的），都有相似的设计理念，我制作并合并了它们。其中包括，RGFW -&gt;轻量级/易于使用 GLFW 替代品 RGL -&gt; OpenGL版本抽象层（类似raylib的RLGL） RFont -&gt;一个简单易用的模块化字体渲染库 Silicon.h -&gt;单头 cocoa (macos) API 轻型包装器，因此可以在纯 C 中使用 stb_image -&gt;非常著名的单头库，我的库的设计理念的灵感来自于 miniaudio.h -&gt;单头音频播放库 RSGL 与 raylib 非常相似，但它试图更加轻量级和现代化。 RSGL 可以在这里找到：https://github.com/ColleagueRiley/RSGL   由   提交 /u/Comrade-Riley    reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/</guid>
+      <pubDate>Sun, 04 Feb 2024 03:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>我如何开始一个项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ai71ep/how_do_i_start_a_project/</link>
-      <description><![CDATA[大家好！ 希望这篇文章是合适的！  我的职业是软件工程师。已经工作了一段时间了，老实说，我喜欢编写代码。我喜欢建造东西。我喜欢自动化的东西。我喜欢弄清楚事情。 在大学里，我和一个朋友一起开发了一个社交媒体应用程序。最酷的事情就是周末去酒吧，看到一个我不认识的人在使用它。它吸引了一小部分追随者，但最终失败了。我仍然很怀念那段时光，虽然工作量很大，但经历却很好。不管怎样，从那时起，除了帮助管理我指导的机器人团队之外，我还没有真正做过任何副业项目。但仅此而已。我已经准备好重新开始了。 但是，当考虑启动一个开源项目时，我很快就不知所措了！我真的很喜欢这个帖子（ https://old.reddit.com/r/opensource/comments/18fzw3c /killed_by_open_sourced_software_companies_that/ ）真正谈论了开源软件颠覆行业的所有时间。如果我只是开始推出我自己的流行商业产品版本，那么我也打算出售许可证......我想我会有点疯狂。打败老牌公司是很困难的，而且他们有资源不断领先于我。然而，如果我觉得可以制作出完全免费的好产品，那就另当别论了。  无论如何，我的帖子的真正目的是希望解释我的想法并提出一些问题。  这是一个不好的观点吗？例如，我曾考虑过制作一些我认为在工作中有用的监控工具，我确信以前已经做过。它不会是什么革命性的东西，但希望它是高质量和免费的 您如何审查开源项目的优势？仅仅是你认为人们会喜欢的东西？还有其他我应该考虑的事情吗？ 还有其他反馈吗？  无论如何，我对一些可能性感到非常兴奋，并想列出我的路线思考   由   提交/u/Joe_Scouter  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 希望这篇文章是合适的！  我的职业是软件工程师。已经工作了一段时间了，老实说，我喜欢编写代码。我喜欢建造东西。我喜欢自动化的东西。我喜欢弄清楚事情。 在大学里，我和一个朋友一起开发了一个社交媒体应用程序。最酷的事情就是周末去酒吧，看到一个我不认识的人在使用它。它吸引了一小部分追随者，但最终失败了。我仍然很怀念那段时光，虽然工作量很大，但经历却很好。不管怎样，从那时起，除了帮助管理我指导的机器人团队之外，我还没有真正做过任何副业项目。但仅此而已。我已经准备好重新开始了。 但是，当考虑启动一个开源项目时，我很快就不知所措了！我真的很喜欢这个帖子（ https://old.reddit.com/r/opensource/comments/18fzw3c /killed_by_open_sourced_software_companies_that/ ）真正谈论了开源软件颠覆行业的所有时间。如果我只是开始推出我自己的流行商业产品版本，那么我也打算出售许可证......我想我会有点疯狂。打败老牌公司是很困难的，而且他们有资源不断领先于我。然而，如果我觉得可以制作出完全免费的好产品，那就另当别论了。  无论如何，我的帖子的真正目的是希望解释我的想法并提出一些问题。  这是一个不好的观点吗？例如，我曾考虑过制作一些我认为在工作中有用的监控工具，我确信以前已经做过。它不会是什么革命性的东西，但希望它是高质量和免费的 您如何审查开源项目的优势？仅仅是你认为人们会喜欢的东西？还有其他我应该考虑的事情吗？ 还有其他反馈吗？  无论如何，我对一些可能性感到非常兴奋，并想列出我的路线思考   由   提交 /u/Joe_Scouter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ai71ep/how_do_i_start_a_project/</guid>
       <pubDate>Sat, 03 Feb 2024 21:42:29 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>是否有任何开源 SaaS 应用程序可供我启动和运行以销售给最终客户？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ahsid9/are_there_any_open_source_saas_apps_that_i_can/</link>
-      <description><![CDATA[需要澄清的是，我并不是想将某些东西分拆为“自己的”并赚钱。  但我正在寻找一种简单的入门方法，因为我没有编码经验。  我想知道是否有人知道一个完整的开源 SaaS 解决方案，我可以在几乎没有编程经验的情况下轻松设置和管理。  例如，我可以在几小时/几天内在 app.example.com 上向最终客户启动 xyz 开源项目并开始吸引客户。  当然，一旦我的产品开始赚钱，我就会支持开源项目。我只是在寻找一种简单的入门方法。我很感谢您提前的指导。谢谢！   由   提交 /u/DinakarSakthivel   [链接] [评论]]]></description>
+      <description><![CDATA[需要澄清的是，我并不是想将某些东西分拆为“自己的”并赚钱。  但我正在寻找一种简单的入门方法，因为我没有编码经验。  我想知道是否有人知道一个完整的开源 SaaS 解决方案，我可以在几乎没有编程经验的情况下轻松设置和管理。  例如，我可以在几小时/几天内在 app.example.com 上向最终客户启动 xyz 开源项目并开始吸引客户。  当然，一旦我的产品开始赚钱，我就会支持开源项目。我只是在寻找一种简单的入门方法。我很感谢您的提前指导。谢谢！   由   提交 /u/DinakarSakthivel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ahsid9/are_there_any_open_source_saas_apps_that_i_can/</guid>
       <pubDate>Sat, 03 Feb 2024 09:40:29 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>开源非线性视频编辑器，用 C# 编写</title>
       <link>https://www.reddit.com/r/opensource/comments/1ahl86k/open_source_nonlinear_video_editor_written_in_c/</link>
-      <description><![CDATA[嘿！一年前，我开始从事视频编辑器工作，作为一种爱好，并了解有关 C# 和 WPF 的更多信息，最近才得到继续开发的灵感，并最终重写了所有内容。 它的名字是框架PFX。如果您有兴趣，请点击以下 github 链接：https://github.com/AngryCarrot789/FramePFX 到目前为止，它只具有一些基本功能，例如拖动剪辑和拖动复制剪辑、在轨道之间移动剪辑等，并支持使用 FFmpeg 作为解码器的图像和视频剪辑（但还没有音频）。它还支持再次使用 FFmpeg 作为编码器导出视频。渲染引擎使用 SkiaSharp 很想知道你们对此有何看法以及是否有任何反馈/批评：D。 AFAIK 这是唯一用 C# 编写的开源视频编辑器，所以我猜这是 🙃   由   提交 /u/tea-vs-coffee   [链接] [评论]]]></description>
+      <description><![CDATA[嘿！一年前，我开始从事视频编辑器工作，作为一种爱好，并了解有关 C# 和 WPF 的更多信息，最近才获得继续开发的灵感，并最终重写了所有内容。 它的名字是框架PFX。如果您有兴趣，请点击以下 github 链接：https://github.com/AngryCarrot789/FramePFX 到目前为止，它只具有一些基本功能，例如拖动剪辑和拖动复制剪辑、在轨道之间移动剪辑等，并支持使用 FFmpeg 作为解码器的图像和视频剪辑（但还没有音频）。它还支持再次使用 FFmpeg 作为编码器导出视频。渲染引擎使用 SkiaSharp 很想知道你们对此有何看法以及是否有任何反馈/批评：D。 AFAIK 这是唯一用 C# 编写的开源视频编辑器，所以我猜这是 🙃   由   提交 /u/tea-vs-coffee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ahl86k/open_source_nonlinear_video_editor_written_in_c/</guid>
       <pubDate>Sat, 03 Feb 2024 02:23:02 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果是这样，他们使用哪些网站以及哪些网站是他们提出这些挑战的手段，并向解决这些问题的人提供现金奖励？&lt; /p&gt;   由   提交/u/DigAdministrative448   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agzk9x/is_there_an_opensource_project_that_pays_people/</guid>
       <pubDate>Fri, 02 Feb 2024 09:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何/在哪里联系巴西开源社区？ 🇧🇷</title>
-      <link>https://www.reddit.com/r/opensource/comments/1agz3ch/how_where_to_reach_brazilian_open_source_community/</link>
-      <description><![CDATA[嘿嘿！ 我正在运行一个开源项目，并注意到巴西人喜欢开源。想要深入了解，但无法真正找到巴西操作系统社区聚集的地方。 有什么建议吗？ 🤓   由   提交 /u/jobenjada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1agz3ch/how_where_to_reach_brazilian_open_source_community/</guid>
-      <pubDate>Fri, 02 Feb 2024 08:35:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
