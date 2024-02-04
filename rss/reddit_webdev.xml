@@ -4,11 +4,88 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 04 Feb 2024 12:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 15:12:14 GMT</lastBuildDate>
+    <item>
+      <title>React/Next.JS/Tailwind/Radix.UI 学习项目。图片上传组件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aipm0u/reactnextjstailwindradixui_learning_project_image/</link>
+      <description><![CDATA[我正在慢慢学习教程，我想建立一个学习网站，让我上传图像，无论是在文件系统上选择它或拖/放/粘贴它，然后让我为其添加两个描述性字段、我找到它的 URL（可以为空）以及稍后检索它的关键字。图像和相关元数据将存储在 FastAPI/SQLite 后端中。 您能否建议图像上传功能的最佳方法或组件？ 考虑像 IMGUR 这样的东西.. . 非常感谢。   由   提交 /u/olddoglearnsnewtrick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aipm0u/reactnextjstailwindradixui_learning_project_image/</guid>
+      <pubDate>Sun, 04 Feb 2024 14:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不平滑，半屏滚动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aioux7/non_smooth_half_screen_scroll/</link>
+      <description><![CDATA[Hello Devvies，祝大家周末愉快 我已经想到了样式/功能一直在寻找实施方法；和 Bono 一样，我似乎找不到我要找的东西 我的项目是使用 Vuetify 引导的 VueJS。我的主页视图分为左栏和右栏 - 我希望右侧保持原状，左侧则滚动。 滚动效果不应该是平滑的，而是“整页”从底部翻转&#39;类型的运动 - 这种效果的名称是我的问题之一。 滚动效果应从屏幕底部的按钮启动 -单击按钮，左列的底部直接移动到顶部，露出“下面的卡片”。 为此做准备，左列被制作为卡片，而右列将保持静止。为了澄清起见，这是我的该视图的模板 ​ &lt;template&gt; &lt;v-容器流体&gt; &lt;v-行&gt;    &lt;v-card class=“左半暗背景”&gt;  &lt;封面左/&gt;&gt; &lt;/v-card-text&gt; &lt;/v-card&gt;  &lt;/v-col&gt;    &lt;右盖&gt;  &lt;/v-col&gt; &lt;/v-row&gt; &lt;/v-容器&gt; &lt;/模板&gt;  因此，我正在寻找有关如何实现此功能的想法、特定滚动效果的名称以及您可能知道的显示不同示例的任何网站。  如果我看到它的实际效果，我想我可以用 vuetify 模仿它，但我不是设计师。我只是想通过这部分来专注于创意内容；因此，任何人都可以添加任何可能有助于有效推动我实现这一目标的内容，我将不胜感激。谢谢 ​   由   提交/u/DivineSwine_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aioux7/non_smooth_half_screen_scroll/</guid>
+      <pubDate>Sun, 04 Feb 2024 14:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为 Netlify 付费用户 6 年 - 我的帐户突然被关闭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiol65/6_years_as_a_paid_netlify_user_my_account_was/</link>
+      <description><![CDATA[     &lt; /td&gt; 过去 6 年我一直在客户端站点使用 Netlify。我在那里发布了大约 20 个网站，其中 8 个是为客户提供的。 几周前，我收到通知，说我没有支付订阅费用（由于搬家和假期，我的生活有点忙碌） ，所以我没有注意到我的一个银行账户已经出现亏损）。因此，Netlify 关闭了我的一些网站。 几周后，我处理了未付的账单（我知道，这肯定太长了）。我等了大约 12 个小时并联系支持人员进行检查。几个小时后，他们告诉我网站已恢复。 一个网站已恢复，但其余网站均未恢复。  https://preview.redd .it/qk1kpo13skgc1.png?width=1006&amp;format=png&amp;auto=webp&amp;s=9ffe1f66b1c051f17bbba70fcb4bcd77e2664d6e 除此之外，还有另一个问题 - 我无法登录。  ​ https://preview.redd.it/ffdi8eh4skgc1.png?width=842&amp;format=png&amp;auto=webp&amp;s=180a11e056257464d303c2ecafb68839890f1ecf  24小时后，发送支持我这个： ​ https://preview.redd.it/hqgeloi5skgc1.png?width=1238&amp;format=png&amp;auto=webp&amp;s=1442c3fb55f8c74515fed22a1d903024 424c9536 我已经作为一名独立网络开发人员已经有 4 年了，随着市场的饱和，客户很快就会找到其他选择来构建他们的网站。值得庆幸的是，我目前并不依赖这笔收入，但我与当前客户的信任肯定受到了损害。 我要求提供更多信息并收到： &amp; #x200b; https:// Preview.redd.it/7p3nu6t6skgc1.png?width=1516&amp;format=png&amp;auto=webp&amp;s=e8d1bda14e3166f4a9922c60b12d7413ca10041c 我完全不熟悉该网站。直到他们禁用我的帐户后，我才收到任何投诉通知，令人非常沮丧的是，Netlify 没有让我对此采取行动，而是将我完全踢出了平台。就像我什至不知道 我怀疑该帐户被黑客入侵，或者我不明智地注册了一些人工智能网站生成器，该生成器已被泄露并在我不知情的情况下发布了一个网站/同意，但是我担保了 4 年的服务在没有警告的情况下就放弃了，这太烦人了 显然，我现在要寻找另一项服务。希望我的域名转移不会太令人头痛。我只是想把这个故事讲出来，让人们知道。如果你们对替代网络主机有任何建议，请 lmk。 Cloudflare Pages 现在看起来非常有趣。   由   提交/u/the_earl_man   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiol65/6_years_as_a_paid_netlify_user_my_account_was/</guid>
+      <pubDate>Sun, 04 Feb 2024 14:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>紧迫的！我的最后一年的主要项目需要帮助（书籍推荐系统）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiof6q/urgent_need_help_with_my_final_year_major_project/</link>
+      <description><![CDATA[我必须为我的最后一年做一个图书推荐网络应用程序项目。我必须在两天内向我的小组提供推荐功能的演示。你们中的任何人都可以帮助我吗？ 我很乐意在 dms 中分享 github 链接:..)   由   提交 /u/thecsoul   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiof6q/urgent_need_help_with_my_final_year_major_project/</guid>
+      <pubDate>Sun, 04 Feb 2024 13:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从网站查找源代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aiod4g/how_to_find_sourcecode_from_a_site/</link>
+      <description><![CDATA[所以，是的，查看网站上的大部分前端代码很简单，但有谁知道用户如何/如果可能的话可以访问 API 和后端代码/什么使用的语言/框架？合法。   由   提交/u/Zarathustra_04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aiod4g/how_to_find_sourcecode_from_a_site/</guid>
+      <pubDate>Sun, 04 Feb 2024 13:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在创建/编辑模式中处理文件的模式？ （反应/节点）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aio7pd/pattern_for_handling_a_file_in_a_createedit_modal/</link>
+      <description><![CDATA[我总是被困在如何处理这种模式上，所以寻求建议。假设我有一个待办事项应用程序，并且待办事项有图像（类型文件）和描述（类型字符串）。  要创建待办事项，我单击“创建待办事项”它打开一个包含空  和 ，我选择图像并输入描述，然后点击提交。前端将此表单数据发送到后端，后端首先将我的图像保存到我的 S3 存储桶，然后将新图像 URL 和描述保存到我的数据库。  到目前为止一切顺利，这就是我陷入困境的地方。我现在单击现有待办事项上的“编辑待办事项”，这将打开一个我希望预先填充当前数据的模式。描述已预先填充，但对于图像文件，其  困难/不可能(?) 预填充  就像这样。另外，即使我可以，如果我在提交时没有更改图像，它仍然会再次发送到后端，并且副本会上传到 S3，导致存储膨胀。 处理此问题的最佳方法是什么？    由   提交 /u/ReactiveNative   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aio7pd/pattern_for_handling_a_file_in_a_createedit_modal/</guid>
+      <pubDate>Sun, 04 Feb 2024 13:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我使用后端作为 API 工作的全栈应用程序，PassportJS 的成功/失败重定向会毫无用处吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aio5c1/would_passportjss_successfailure_redirects_be/</link>
+      <description><![CDATA[我的页面位于 React 部分，我使用节点部分作为与数据库通信的 api。 问题是 PassportJS 在成功登录后会重定向您，但由于它在后端运行，因此会将我重定向到不存在的页面。 我不确定我是否做错了，或者是否这是正常的，我只需要使用不同的重定向方法... 编辑：为了澄清我的意思，这里是我的页面结构： 前端有这样的页面： / （假设是应用程序的主页，只有登录后才可以使用）和 /auth （用于登录）。 后端有类似的内容： /auth/login 和 /auth/signup 它们托管在本地不同的端口上，因此与前端页面无关，并通过发送 fetch POST 方法来尝试登录/注册进行交互。 现在 PassportJs 有成功时重定向之类的东西，不幸的是，它会将我重定向到后端的地址，例如将 get 发送到 / ，但没有定义路由。 我没有看到 Stack Overflow 上的人建议用户尝试做 res.redirect。 我可以做到这一点，并且我认为它会起作用，但问题是这将跳过 PassportJS 的 did() 函数，我相信该函数可以将用户保存在会话中，这就是我不知道该怎么做。 坦白说，我发现身份验证/授权非常令人困惑，因为有大量的移动部分和许多指南，每个指南都使用不同的方法。   由   提交 /u/CyperFlicker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aio5c1/would_passportjss_successfailure_redirects_be/</guid>
+      <pubDate>Sun, 04 Feb 2024 13:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议，我正在大学最后一年。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ainmn3/need_advice_i_am_in_my_final_year_of_college/</link>
+      <description><![CDATA[我自学了前端和后端。但我对自己的技能没有信心，这就是为什么我在 YouTube 上看到了一些全栈项目视频，但有些部分无法理解。是否有任何免费资源可以提高我的技能并构建易于理解的项目。有时我会感到沮丧，想要放弃。   由   提交 /u/Primary_Move_7784   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ainmn3/need_advice_i_am_in_my_final_year_of_college/</guid>
+      <pubDate>Sun, 04 Feb 2024 13:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否为所学或记录的内容创建文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ainbxu/do_you_create_files_for_what_you_learn_or_document/</link>
+      <description><![CDATA[我为我将来学到的东西创建了 markdown，寻找我忘记的东西，比如 Angular、Reactjs、Spring Security with JWT，但我不认为它是一个好主意，因为只有 Anuglar 有 4000 行，而且它还没有结束，有很多东西，比如：View Encapsulation、ElementRef、Renderer2、ContentChild、Input、Output 和 EventEmitter...我正在考虑把所有东西都放在 Notion 中... 你如何处理你学到的一切？他写？文档？创建您的记录？为什么有一天你可能不会使用它并忘记它。   由   提交 /u/CodeSilva   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ainbxu/do_you_create_files_for_what_you_learn_or_document/</guid>
+      <pubDate>Sun, 04 Feb 2024 12:58:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 TailwindCSS 需要扫描我的源代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ainaua/why_does_tailwindcss_need_to_scan_my_source/</link>
+      <description><![CDATA[有一组固定的 tailwind 实用程序，任何其他实用程序都在配置中定义。为什么 TailwindCSS 需要扫描我的源代码才能生成样式表？    由   提交 /u/HappyMajor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ainaua/why_does_tailwindcss_need_to_scan_my_source/</guid>
+      <pubDate>Sun, 04 Feb 2024 12:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络抓取合法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ain86a/is_web_scraping_legal/</link>
+      <description><![CDATA[我看到许多网站都有可公开访问的信息（因此，信息不在付费专区后面），并且有法律免责声明，不允许您复制任何内容在其网站上找到的材料，尤其是用于商业目的的材料。他们没有明确提及网络抓取，但我相信这也是免责声明的一部分。 但是，我仍然很好奇。诸如 INCI Beauty 之类的大型应用程序（或具有可以从互联网（例如专门网站）收集信息的大型数据库的任何其他应用程序）如何创建可能包含数百万条记录的数据库？以这个例子为例，INCI Beauty 有一个数据库，其中包含有关化妆品成分/物质的信息。有关它们的信息可以在多个网站上找到。你相信他们使用了网络抓取吗？因为与专业团队一起手动创建有关成分的每个条目似乎相当乏味且成本​​高昂。 话虽如此，什么属于公共领域，什么不属于公共领域？或者有人可以向我解释一下用于商业目的的网络抓取的合法性吗？   由   提交/u/Alex_The_Android   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ain86a/is_web_scraping_legal/</guid>
+      <pubDate>Sun, 04 Feb 2024 12:52:05 GMT</pubDate>
+    </item>
     <item>
       <title>我作为前端开发人员使用 Figma Dev 模式的经验</title>
       <link>https://www.reddit.com/r/webdev/comments/1ailocq/my_experience_with_figma_dev_mode_as_a_frontend/</link>
-      <description><![CDATA[     &lt; td&gt; TLDR： 即使您自己支付专业计划费用，您也无法使用Figma 开发模式。要免费获得类似的体验，请导出 Figma 文件并将其导入 Pixso。 完整故事： 我是一名与多个客户合作的前端开发人员。在大多数情况下，我在 Figma 中进行设计。 这是一个非常方便的工具，直到 Figma 决定将“检查”选项卡移至开发模式下。在二月初之前都是免费的。 我不介意为我使用的工具付费，所以昨天，我注册了专业计划来访问开发模式：  开发模式作为专业计划的一部分进行宣传 然后我打开了一个设计并尝试启用开发模式，但出现了问题： 如果不是团队成员，则无法访问开发模式 好的。所以，我要求设计师邀请我作为一个项目的观众。我收到了不同的错误： 请求开发模式访问权限 如果设计师升级我的帐户，他的团队将每月额外支付 15 美元的费用，以获得额外的席位，以便我可以访问开发模式。 也就是说称为骗局。我已经付费购买了一项功能，但无法使用它。 唯一的解决方法是导出 Figma 文件并将其导入到 Figma 中我的团队下。在这种情况下，我将能够使用开发模式，但所有协作工具都将丢失。另外，如果进行了一些更改，我必须手动重新导入更新的设计。 从技术上讲，我可以使用 Pixso 等替代服务执行相同的操作，在其中我可以简单地导入 Figma 设计并获得类似的结果 就 Figma Dev 模式本身而言，它在某些情况下可能很有用，但内置的代码生成是垃圾。有时它会起作用，但在大多数情况下它会导致更多混乱。 所以不要犯我的错误。如果你是开发者，那么不值得为 Figma 付费。   由   提交/u/toniyevych  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; td&gt; TLDR： 即使您自己支付专业计划费用，您也无法使用Figma 开发模式。要免费获得类似的体验，请导出 Figma 文件并将其导入 Pixso。 完整故事： 我是一名与多个客户合作的前端开发人员。在大多数情况下，我在 Figma 中进行设计。 这是一个非常方便的工具，直到 Figma 决定将“检查”选项卡移至开发模式下。在二月初之前都是免费的。 我不介意为我使用的工具付费，所以昨天，我注册了专业计划来访问开发模式：  开发模式作为专业计划的一部分进行宣传 然后我打开了一个设计并尝试启用开发模式，但出现了问题： 如果不是团队成员，则无法访问开发模式 好的。所以，我要求设计师邀请我作为一个项目的观众。我收到了不同的错误： 请求开发模式访问权限 如果设计师升级我的帐户，他的团队将每月额外支付 15 美元的费用，以获得额外的席位，以便我可以访问开发模式。 也就是说称为骗局。我已经付费购买了一项功能，但无法使用它。 唯一的解决方法是导出 Figma 文件并将其导入到 Figma 中我的团队下。在这种情况下，我将能够使用开发模式，但所有协作工具都将丢失。另外，如果进行了一些更改，我必须手动重新导入更新的设计。 从技术上讲，我可以使用 Pixso 等替代服务执行相同的操作，在其中我可以简单地导入 Figma 设计并获得类似的结果开发模式背后的想法很简单：Figma 决定将“检查”选项卡上的一些与开发人员相关的功能转移到开发模式，然后不仅向公司收取设计师席位的费用，还向开发人员收费。  我不介意为我用来完成工作的功能付费。 15 美元/月是可以接受的价格，但最终我无法使用它。我的客户仍然需要为我合作的每个团队支付 15 美元/月的费用。 就 Figma Dev 模式本身而言，它在某些情况下可能很有用，但内置的代码生成是一个垃圾。有时它会起作用，但在大多数情况下它会导致更多混乱。 所以不要犯我的错误。如果你是开发者，那么不值得为 Figma 付费。   由   提交/u/toniyevych  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ailocq/my_experience_with_figma_dev_mode_as_a_frontend/</guid>
       <pubDate>Sun, 04 Feb 2024 11:14:23 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[我总是通过创建一个半复杂的项目并在途中解释所有内容来学到最好的东西。我猜那里有很多这样的东西，但你有最喜欢的吗？我想同时顺风集成会很好，但不是必需的   由   提交 /u/omlette_du_chomage   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ail27r/whats_a_good_project_based_course_for_react/</guid>
       <pubDate>Sun, 04 Feb 2024 10:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>【文章】你就是你所爱的人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aikmgc/article_you_are_what_you_love/</link>
-      <description><![CDATA[   /u/Pestilentio  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aikmgc/article_you_are_what_you_love/</guid>
-      <pubDate>Sun, 04 Feb 2024 10:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何学习在简历/LinkedIn 中写出很酷的职位描述？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aikbvp/how_to_learn_to_do_cool_job_description_in_your/</link>
-      <description><![CDATA[我看到我认识的人描述他们的经历，他们让最简单的任务听起来就像他们是火箭科学家（虽然没有撒谎），同时每次我试着描述一下我的，听起来非常基础。  例如，我工作的很大一部分是复制复杂的登陆页面 Figma 设计并将其放入实际代码中。逻辑不多，但非常精细且高级的 CSS。如何使这个声音正确？   由   提交 /u/harry_powell   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aikbvp/how_to_learn_to_do_cool_job_description_in_your/</guid>
-      <pubDate>Sun, 04 Feb 2024 09:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>刷新令牌应该存储在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiju2a/where_should_refresh_tokens_be_stored/</link>
-      <description><![CDATA[例如，我有一个访问令牌，该令牌将在 X 时间内过期，然后在执行某个操作时，我有一个刷新令牌，这只是一个新令牌具有新有效期的令牌。我的问题的实现并不重要，因为我问的是这个令牌应该存储在哪里。 我可以在内存中执行此操作，但这不是持久的。 SQL 数据库对于小型应用程序来说可能是一个有效的选择，但对于大型应用程序来说，它可能会产生开销并且数据是持久的。我想知道键值对数据库存储是否是更好的选择，因为它们通常是轻量级的并且数据也可以持久化？    由   提交 /u/CannotStopMeOnReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiju2a/where_should_refresh_tokens_be_stored/</guid>
-      <pubDate>Sun, 04 Feb 2024 09:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不同的手机屏幕上设计应用程序的样式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiji46/how_to_style_your_application_different_phone/</link>
-      <description><![CDATA[您还会使用媒体查询吗？  就上下文而言，我的 div 和容器相对于手机上背景图像的布局在 Iphone 14 上看起来很棒，但在 Iphone 12 上则不太好。   由   提交 /u/chillblaze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiji46/how_to_style_your_application_different_phone/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:48:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>哦，没有面包会杀死我所拥有的一切！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aijh6a/oh_no_bun_is_killing_everything_i_have/</link>
-      <description><![CDATA[   作为标题。我刚刚学会了如何使用 Babel 来转译我的 javascript，并将这些东西正确地填充到我奶奶的 IE 中，并将所有东西捆绑到一些高度组织的包中。最重要的是，我为此感到自豪。现在我刚刚观看了 Bun 1.0 的简介，看到了这个： ESM和CommonJS的混合 这是：  快速刷新内置-in 还有这个： 快如他妈的 npm i 替换 对于我来说最悲伤的部分是因为知道如何设置 Babel： Babellllllllll 你在做什么????????? ???? 有人可以列出使用 Bun 代替 npm、Babel、webpack 等旧工具的 10 个缺点吗？或者你能告诉我我已经浪费了一个月的时间来学习这些旧工具吗？是否有人开始使用bun进行前端开发并认为它在某些方面很糟糕？ 这是作为前端开发人员的感觉吗？我应该放弃那些旧工具吗？  只是为了证明我付出了自己理解 Babel，尤其是该死的 useBuiltIns: 用法。 ​   由   提交/u/rainning0513  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aijh6a/oh_no_bun_is_killing_everything_i_have/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>情人节网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiit8d/website_for_valentines/</link>
-      <description><![CDATA[所以我想通过制作一个网站向我喜欢的人求婚，但我完全不知道自己在做什么。到目前为止我所做的就是制作一个 Github 空项目 https://valentine.mewtru.com/我希望它是这样的，但不是“是”对话框变得更大，“否”按钮应该出现在随机的位置。我还需要自定义“否”按钮中的句子。  我真的很感激有人给我一个逐步的演练，向我解释一切，就像你对一个五岁的孩子所做的那样。  提前致谢   由   提交 /u/PSSGAMER   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiit8d/website_for_valentines/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>swiss.gl 下来了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiio9e/swissgl_down/</link>
-      <description><![CDATA[我真的很喜欢 SwissGL 背后的想法，服务器 swiss.gl 似乎已关闭。 API 文档仍在 GitHub 上：https://github.com/google/swissgl/blob/ main/docs/API.md 这是否意味着该项目已经死了，我不应该碰它？或者它仍然是个人探索的好工具？是否有类似的、更积极维护的东西？   由   提交 /u/isbtegsm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiio9e/swissgl_down/</guid>
-      <pubDate>Sun, 04 Feb 2024 07:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是IT文盲，我想建立一个网站，像twitter一样，为每个网站添加标签以改进搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiik3c/i_am_it_illiterate_i_want_to_build_a_website/</link>
-      <description><![CDATA[嗨，我对IT一窍不通。只是一个爱好者。我的预算是0。我想建立一个利基网站。我想输入类似 Twitter 的小帖子，并根据小帖子传递的主题对它们进行标记。我希望在搜索框中添加搜索词后这些标签就会显示出来，我想让搜索变得非常好。用户可以使用多个过滤器来查找有关他们想要的利基的信息。我该如何开始？   由   提交/u/As9s  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiik3c/i_am_it_illiterate_i_want_to_build_a_website/</guid>
-      <pubDate>Sun, 04 Feb 2024 07:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将旧的 Joomla 网站替换为云托管服务器上的 Wordpress 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aihvtn/how_do_i_replace_an_old_joomla_site_with_a/</link>
-      <description><![CDATA[嗨，我父亲有一个非常旧的 Joomla 安装网站。由于joomla版本太旧，他一直使用的插件已损坏，验证码插件无法再使用。该网站是一名开发商 10 年前建立的，现在一团糟。他们创建了一个不再使用的应用程序。现在基本上只用作博客。我想从 WordPress 构建开始。开发者如何在不影响旧网站的情况下重建网站？我可以创建一个子域 dev.sitename.com，然后将网站移过来吗？或者最好在本地服务器上创建它然后将其移动？    由   提交 /u/meljv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aihvtn/how_do_i_replace_an_old_joomla_site_with_a/</guid>
-      <pubDate>Sun, 04 Feb 2024 06:59:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>RSS 源格式不正确，缺少图像的 <media:content></title>
-      <link>https://www.reddit.com/r/webdev/comments/1aihheq/incorrect_format_of_rss_feed_which_is_missing_the/</link>
-      <description><![CDATA[使用 RSS Feed URL在 Chrome 上扩展时，我得到 digitalsplendid.agency 的 RSS URL：https://digitalsplendid.agency/feed/ 为 digitalsplendid.agency 发起 RSS 可重复活动时网站，我添加了RSS Feed URL扩展显示的url：https://digitalsplendid.agency/feed/ Moosend 仪表板屏幕截图 电子邮件上的图像无法加载。 在进一步联系 Moosend 支持时，他们说这是由于我的 RSS feed 格式不正确，缺少&lt;媒体：内容&gt;对于图像，我可以参考此示例，了解 RSS 提要中的图像应如何 http://rss.cnn.com /rss/cnn_topstories.rss。 所以我的查询是如何添加上述 用于我的 RSS 提要的图像。   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aihheq/incorrect_format_of_rss_feed_which_is_missing_the/</guid>
-      <pubDate>Sun, 04 Feb 2024 06:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 如何获得新客户？ 5 个最强大的渠道 想要扩大您的客户群吗？以下是最值得探索的 5 个渠道：https://ckinnovation.ca/articles/how-to-get-new-customers 🔍 S...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aifbb1/how_to_get_new_customers_the_5_most_powerful/</link>
-      <description><![CDATA[      &amp;# 32；由   提交 /u/Chris-t-fire   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aifbb1/how_to_get_new_customers_the_5_most_powerful/</guid>
-      <pubDate>Sun, 04 Feb 2024 04:26:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
