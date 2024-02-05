@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 05 Feb 2024 15:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 18:15:40 GMT</lastBuildDate>
     <item>
-      <title>密钥共享示例：Flutter (iOS/Android)、Vue.js、Golang</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajhjvm/passkey_sharing_example_flutter_iosandroid_vuejs/</link>
-      <description><![CDATA[ 由   提交/u/vdelitz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajhjvm/passkey_sharing_example_flutter_iosandroid_vuejs/</guid>
-      <pubDate>Mon, 05 Feb 2024 14:17:31 GMT</pubDate>
+      <title>Google 安全博客：提高 Rust 和 C++ 之间的互操作性</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajn0i9/google_security_blog_improving_interoperability/</link>
+      <description><![CDATA[ 由   提交 /u/Karma_Policer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajn0i9/google_security_blog_improving_interoperability/</guid>
+      <pubDate>Mon, 05 Feb 2024 18:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用糟糕的比喻来解释软件开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajhj73/how_to_use_bad_metaphors_to_explain_software/</link>
-      <description><![CDATA[ 由   提交/u/mixteenth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajhj73/how_to_use_bad_metaphors_to_explain_software/</guid>
-      <pubDate>Mon, 05 Feb 2024 14:16:38 GMT</pubDate>
+      <title>你好，翼朗六角！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajmvz1/hello_winglang_hexagon/</link>
+      <description><![CDATA[ 由   提交/u/nate4t  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajmvz1/hello_winglang_hexagon/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:58:56 GMT</pubDate>
     </item>
     <item>
-      <title>抽象的本质</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajh2zg/the_essence_of_abstraction/</link>
-      <description><![CDATA[ 由   提交/u/HenriqueInonhe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajh2zg/the_essence_of_abstraction/</guid>
-      <pubDate>Mon, 05 Feb 2024 13:56:03 GMT</pubDate>
+      <title>短读：共享数据库和打破规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajmsg4/short_read_sharing_a_database_and_breaking_the/</link>
+      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajmsg4/short_read_sharing_a_database_and_breaking_the/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>解决持久执行的不变性问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajgh95/solving_durable_executions_immutability_problem/</link>
-      <description><![CDATA[ 由   提交 /u/stsffap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajgh95/solving_durable_executions_immutability_problem/</guid>
-      <pubDate>Mon, 05 Feb 2024 13:27:22 GMT</pubDate>
+      <title>如何刷新 .NET 8 中的内存限制</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajmj9d/how_to_refresh_memory_limit_in_net_8/</link>
+      <description><![CDATA[ 由   提交 /u/TheDotnetoffice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajmj9d/how_to_refresh_memory_limit_in_net_8/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>使用 PID 控制器的资源感知分片</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajggsh/resource_aware_sharding_using_a_pid_controller/</link>
-      <description><![CDATA[ 由   提交/u/marcus-pousette  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajggsh/resource_aware_sharding_using_a_pid_controller/</guid>
-      <pubDate>Mon, 05 Feb 2024 13:26:44 GMT</pubDate>
+      <title>Visual Studio 中的 Android WebView |入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajltgi/android_webview_in_visual_studio_getting_started/</link>
+      <description><![CDATA[ 由   提交/u/monsterboz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajltgi/android_webview_in_visual_studio_getting_started/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>语言设计、可计算性和词法分析器的制作简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajfr7b/intro_to_language_design_computability_making_a/</link>
-      <description><![CDATA[ 由   提交/u/fd93_blog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajfr7b/intro_to_language_design_computability_making_a/</guid>
-      <pubDate>Mon, 05 Feb 2024 12:51:05 GMT</pubDate>
+      <title>HTMX 深入探讨</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajljhp/htmx_deep_dive/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajljhp/htmx_deep_dive/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>每个产品都需要一个架构愿景</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajfor5/every_product_needs_an_architecture_vision/</link>
-      <description><![CDATA[ 由   提交/u/workflow91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajfor5/every_product_needs_an_architecture_vision/</guid>
-      <pubDate>Mon, 05 Feb 2024 12:47:35 GMT</pubDate>
+      <title>一致性</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajljgm/consistency/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajljgm/consistency/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建下沉物体的模拟</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajfcyt/how_to_create_a_simulation_of_a_sinking_object/</link>
-      <description><![CDATA[ 由   提交/u/Mo-mono  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajfcyt/how_to_create_a_simulation_of_a_sinking_object/</guid>
-      <pubDate>Mon, 05 Feb 2024 12:29:52 GMT</pubDate>
+      <title>我如何学会停止担忧并热爱玩转 C++ 原子</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajliya/how_i_learned_to_stop_worrying_and_love_juggling/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajliya/how_i_learned_to_stop_worrying_and_love_juggling/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:06:23 GMT</pubDate>
     </item>
     <item>
-      <title>编码挑战 - Apple Vision Pro 数字表冠调整</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajf35k/coding_challenge_apple_vision_pro_digital_crown/</link>
-      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajf35k/coding_challenge_apple_vision_pro_digital_crown/</guid>
-      <pubDate>Mon, 05 Feb 2024 12:14:17 GMT</pubDate>
+      <title>ABC 结构编辑器 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajliuv/the_abc_structure_editor_pdf/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajliuv/the_abc_structure_editor_pdf/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>速度极快的 JAVASCRIPT - 我在分析 CPU 和内存使用情况时使 JS 速度极快</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajesv7/blazingly_fast_javascript_i_made_js_blazingly/</link>
-      <description><![CDATA[ 由   提交/u/nerodesu017  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajesv7/blazingly_fast_javascript_i_made_js_blazingly/</guid>
-      <pubDate>Mon, 05 Feb 2024 11:57:50 GMT</pubDate>
+      <title>颠倒计算中的三个关键关系</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajli2i/inverting_three_key_relationships_in_computing/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajli2i/inverting_three_key_relationships_in_computing/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:05:23 GMT</pubDate>
     </item>
     <item>
-      <title>Python 教程：使用正则表达式验证电子邮件地址。 Python 挑战15</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajek1u/python_tutorial_validating_email_addresses_with/</link>
-      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajek1u/python_tutorial_validating_email_addresses_with/</guid>
-      <pubDate>Mon, 05 Feb 2024 11:42:02 GMT</pubDate>
+      <title>加快 Rust 编辑-构建-运行周期</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajlhp8/speeding_up_rust_editbuildrun_cycle/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajlhp8/speeding_up_rust_editbuildrun_cycle/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>入门职位发布🚀</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajegw8/starter_job_posting/</link>
-      <description><![CDATA[ 由   提交/u/remoteyep  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajegw8/starter_job_posting/</guid>
-      <pubDate>Mon, 05 Feb 2024 11:36:23 GMT</pubDate>
+      <title>使用 Lua 创建 MacOS 应用程序（仅此而已）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajlho0/creating_a_macos_app_with_lua_and_nothing_else/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajlho0/creating_a_macos_app_with_lua_and_nothing_else/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:04:58 GMT</pubDate>
     </item>
     <item>
-      <title>Hive Metastore - 我们是否用供应商锁替换了它？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajee1a/hive_metastore_did_we_replace_it_with_a_vendor/</link>
-      <description><![CDATA[ 由   提交/u/matbaylaw  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajee1a/hive_metastore_did_we_replace_it_with_a_vendor/</guid>
-      <pubDate>Mon, 05 Feb 2024 11:31:17 GMT</pubDate>
+      <title>分解的预写日志</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajlhn3/the_disaggregated_writeahead_log/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajlhn3/the_disaggregated_writeahead_log/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>以下 Ruby 代码的返回值是多少？ ✨💫</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajdhf6/whats_the_return_value_of_the_following_ruby_code/</link>
-      <description><![CDATA[ 由   提交/u/mehdifarsi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajdhf6/whats_the_return_value_of_the_following_ruby_code/</guid>
-      <pubDate>Mon, 05 Feb 2024 10:32:45 GMT</pubDate>
+      <title>Zest：符号和表示</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajlhm3/zest_notation_and_representation/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajlhm3/zest_notation_and_representation/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>你们有人尝试过吗？很想听听您的想法以及您是否有任何使用它的技巧！来！我们讨论一下！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajdeln/have_any_of_you_tried_it_out_would_love_to_hear/</link>
-      <description><![CDATA[ 由   提交 /u/RudeCalligrapher7593   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajdeln/have_any_of_you_tried_it_out_would_love_to_hear/</guid>
-      <pubDate>Mon, 05 Feb 2024 10:27:17 GMT</pubDate>
+      <title>您可以使用 SELECT 做一些很酷的事情</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajlgzx/cool_things_you_can_do_with_select/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajlgzx/cool_things_you_can_do_with_select/</guid>
+      <pubDate>Mon, 05 Feb 2024 17:04:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
