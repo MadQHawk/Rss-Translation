@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 05 Feb 2024 12:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 15:12:30 GMT</lastBuildDate>
+    <item>
+      <title>密钥共享示例：Flutter (iOS/Android)、Vue.js、Golang</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajhjvm/passkey_sharing_example_flutter_iosandroid_vuejs/</link>
+      <description><![CDATA[ 由   提交/u/vdelitz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajhjvm/passkey_sharing_example_flutter_iosandroid_vuejs/</guid>
+      <pubDate>Mon, 05 Feb 2024 14:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用糟糕的比喻来解释软件开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajhj73/how_to_use_bad_metaphors_to_explain_software/</link>
+      <description><![CDATA[ 由   提交/u/mixteenth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajhj73/how_to_use_bad_metaphors_to_explain_software/</guid>
+      <pubDate>Mon, 05 Feb 2024 14:16:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>抽象的本质</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajh2zg/the_essence_of_abstraction/</link>
+      <description><![CDATA[ 由   提交/u/HenriqueInonhe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajh2zg/the_essence_of_abstraction/</guid>
+      <pubDate>Mon, 05 Feb 2024 13:56:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决持久执行的不变性问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajgh95/solving_durable_executions_immutability_problem/</link>
+      <description><![CDATA[ 由   提交 /u/stsffap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajgh95/solving_durable_executions_immutability_problem/</guid>
+      <pubDate>Mon, 05 Feb 2024 13:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 PID 控制器的资源感知分片</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajggsh/resource_aware_sharding_using_a_pid_controller/</link>
+      <description><![CDATA[ 由   提交/u/marcus-pousette  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajggsh/resource_aware_sharding_using_a_pid_controller/</guid>
+      <pubDate>Mon, 05 Feb 2024 13:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>语言设计、可计算性和词法分析器的制作简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajfr7b/intro_to_language_design_computability_making_a/</link>
+      <description><![CDATA[ 由   提交/u/fd93_blog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajfr7b/intro_to_language_design_computability_making_a/</guid>
+      <pubDate>Mon, 05 Feb 2024 12:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个产品都需要一个架构愿景</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajfor5/every_product_needs_an_architecture_vision/</link>
+      <description><![CDATA[ 由   提交/u/workflow91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajfor5/every_product_needs_an_architecture_vision/</guid>
+      <pubDate>Mon, 05 Feb 2024 12:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建下沉物体的模拟</title>
+      <link>https://www.reddit.com/r/programming/comments/1ajfcyt/how_to_create_a_simulation_of_a_sinking_object/</link>
+      <description><![CDATA[ 由   提交/u/Mo-mono  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ajfcyt/how_to_create_a_simulation_of_a_sinking_object/</guid>
+      <pubDate>Mon, 05 Feb 2024 12:29:52 GMT</pubDate>
+    </item>
     <item>
       <title>编码挑战 - Apple Vision Pro 数字表冠调整</title>
       <link>https://www.reddit.com/r/programming/comments/1ajf35k/coding_challenge_apple_vision_pro_digital_crown/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交 /u/RudeCalligrapher7593   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ajdeln/have_any_of_you_tried_it_out_would_love_to_hear/</guid>
       <pubDate>Mon, 05 Feb 2024 10:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个 Web 开发人员都应该了解的 HTML 属性</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajcrci/html_attributes_that_every_web_developer_should/</link>
-      <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajcrci/html_attributes_that_every_web_developer_should/</guid>
-      <pubDate>Mon, 05 Feb 2024 09:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥🌪️💥 令人兴奋的 Unity 动画/粒子系统：元素掌握和时间线！ 🔥🌪️💥</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajcr7d/exciting_unity_animationparticle_system_elemental/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajcr7d/exciting_unity_animationparticle_system_elemental/</guid>
-      <pubDate>Mon, 05 Feb 2024 09:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 考试备忘单</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajcll1/cheatsheet_c_exam/</link>
-      <description><![CDATA[两周后我将进行 C++ 考试。测试主要包括查找代码中的错误。我被允许带一张 Din A4 纸，并在上面写下任何对我考试有帮助的内容。上面应该写什么？这是我学习编程的第一个学期，所以我（还）不是专业人士。   由   提交 /u/CaterpillarKlutzy463   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajcll1/cheatsheet_c_exam/</guid>
-      <pubDate>Mon, 05 Feb 2024 09:29:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是数据库 Kubernetes Operator？我尝试将其分解并用示例进行解释。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajciqh/what_is_a_database_kubernetes_operator_i_try_to/</link>
-      <description><![CDATA[ 由   提交/u/inelp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajciqh/what_is_a_database_kubernetes_operator_i_try_to/</guid>
-      <pubDate>Mon, 05 Feb 2024 09:23:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用 Java 创建丰富的桌面应用程序？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajcgra/how_to_create_rich_desktop_applications_in_java/</link>
-      <description><![CDATA[ 由   提交/u/erdsingh24  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajcgra/how_to_create_rich_desktop_applications_in_java/</guid>
-      <pubDate>Mon, 05 Feb 2024 09:19:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fireship 新模因说唱：不需要像 Linus 那样的介绍</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajc2bu/fireship_fresh_new_meme_rap_no_intro_needed_like/</link>
-      <description><![CDATA[ 由   提交/u/CEE501  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajc2bu/fireship_fresh_new_meme_rap_no_intro_needed_like/</guid>
-      <pubDate>Mon, 05 Feb 2024 08:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 技巧 2</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajbrju/python_tip_2/</link>
-      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajbrju/python_tip_2/</guid>
-      <pubDate>Mon, 05 Feb 2024 08:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解自动化测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1ajbpyr/understanding_automated_testing/</link>
-      <description><![CDATA[ 由   提交 /u/Akmandev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ajbpyr/understanding_automated_testing/</guid>
-      <pubDate>Mon, 05 Feb 2024 08:24:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
