@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 06:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 09:12:05 GMT</lastBuildDate>
+    <item>
+      <title>寻找AI转录/摘要工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajboa0/looking_for_ai_transcription_summary_tools/</link>
+      <description><![CDATA[这是我希望解决的一个与工作相关的问题 我在人力资源部门工作，花了很多时间面试/ 亲自、通过 Teams 或通过电话进行绩效评估/纪律处分。 我目前使用 Otter AI 来记录我的 IRL 和 Teams 会议，但我需要一种方法来记录通话，然后进行转录，我想将我的 Mac 设置为麦克风来录制通话，但必须有一种更简单的方法（我在英国）。 一旦我转录了通话，我可能会有 10 个与员工 John Smith 相关的 pdf - 我可以使用什么把它们放在一起，然后总结和学习，这样我就可以向它提出问题，例如“约翰·史密斯有什么借口没有去上班”等，就像我可以要求实习生查找信息一样。 我的另一个用例是为与我一起工作的人建立一个“档案”，保留一个可以随时总结的运行文件，这样我就可以记住约翰·史密斯有三个孩子，周末打高尔夫球等。 目前我已经向 ChatGPT / OtterAI 付费了 - 我很高兴花钱，我不是在寻找最便宜的选择，而是在寻找一个有效的选择。 谢谢！    由   提交/u/Social_Fool  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajboa0/looking_for_ai_transcription_summary_tools/</guid>
+      <pubDate>Mon, 05 Feb 2024 08:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能开发的基本编程语言</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajb70w/essential_programming_languages_for_ai_development/</link>
+      <description><![CDATA[JavaScript：网络上的人工智能JavaScript 作为网络语言，随着TensorFlow.js 和 Brain.js 等库和框架。借助 JavaScript，开发人员现在可以构建直接在 Web 浏览器中运行的 AI 应用程序。  R：统计引擎 当 Python 在人工智能领域备受瞩目时，R 在统计和数据分析领域大放异彩。 R 拥有全面的统计库和软件包，使其成为从事人工智能开发的研究人员和统计学家的首选。  Mojo🔥：一种可扩展且高性能的人工智能编程语言 Mojo 是一种新的编程语言，旨在为人工智能应用程序提供可扩展和高性能的编程语言。它将Python的可用性与C的性能相结合，解锁了AI硬件无与伦比的可编程性和AI模型的可扩展性。   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajb70w/essential_programming_languages_for_ai_development/</guid>
+      <pubDate>Mon, 05 Feb 2024 07:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>在本地运行开源模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9otx/running_opensource_models_locally/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>嘿有什么好的 github 仓库吗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/</link>
-      <description><![CDATA[您好，我正在为 AI 寻找一个好的 Github 存储库，以便我可以根据 PDF 和文章等信息进行训练？   由   提交 /u/Mean-Archer4979    reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[您好，我正在为 AI 寻找一个好的 Github 存储库，以便我可以根据 PDF 和文章等信息进行训练？   由   提交/u/Mean-Archer4979   reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/</guid>
       <pubDate>Mon, 05 Feb 2024 05:27:10 GMT</pubDate>
     </item>
@@ -76,23 +90,9 @@
       <pubDate>Sun, 04 Feb 2024 18:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>Bug Bounty 金矿：AI/ML 第三方包</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1air2f8/the_bug_bounty_gold_mine_aiml_thirdparty_packages/</link>
-      <description><![CDATA[ 由   提交/u/CirclesWeRun4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1air2f8/the_bug_bounty_gold_mine_aiml_thirdparty_packages/</guid>
-      <pubDate>Sun, 04 Feb 2024 15:58:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>你用过的最好的人工智能研究代理是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aijitr/whats_the_best_ai_research_agent_youve_used/</link>
-      <description><![CDATA[寻找一种能够通过在线浏览完成深入研究任务的研究工具。 Copilot/bing 还不够彻底，记得前段时间遇到过一个基于 langchain 的项目，但记不起项目名称了。    ;由   提交/u/sardoa11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aijitr/whats_the_best_ai_research_agent_youve_used/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:50:12 GMT</pubDate>
-    </item>
-    <item>
       <title>我创建了一个网站来跟踪世界各地的人工智能法规</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aigzid/i_created_a_website_to_keep_track_of_ai/</link>
-      <description><![CDATA[为了帮助您了解各国政府在人工智能方面所做的工作，我创建了一个交互式世界地图，用于跟踪世界各地的人工智能监管和政策发展。单击某个区域（或使用搜索栏）以查看其配置文件。本网站定期更新（包括添加新区域）。 免费访问。无需登录。这是针对社区的:) https://www.techieray.com/GlobalAIRegulationTracker   由   提交/u/techie_ray  [链接] [评论]]]></description>
+      <description><![CDATA[为了帮助您了解政府在人工智能方面所做的工作，我创建了一个交互式世界地图，用于跟踪世界各地的人工智能监管和政策发展。单击某个区域（或使用搜索栏）查看其配置文件。本网站定期更新（包括添加新区域）。 免费访问。无需登录。这是针对社区的:) https://www.techieray.com/GlobalAIRegulationTracker   由   提交/u/techie_ray  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aigzid/i_created_a_website_to_keep_track_of_ai/</guid>
       <pubDate>Sun, 04 Feb 2024 06:03:06 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
