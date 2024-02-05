@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 05 Feb 2024 09:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 12:20:34 GMT</lastBuildDate>
     <item>
       <title>为我的小型企业寻找获取客户的技巧。分享你的秘密！</title>
       <link>https://www.reddit.com/r/automation/comments/1ajabhg/looking_for_tips_on_client_acquisition_for_my/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>如何正确计算。自动化%</title>
       <link>https://www.reddit.com/r/automation/comments/1ahshxi/how_to_correctly_calc_automation/</link>
-      <description><![CDATA[您好，在我公司，自动化水平的计算方式为automatic_process_time/total_product time。这得到了大客户的同意。 示例 1 这对我来说很奇怪，因为假设我的生产时间为 10 秒，包含 2 个流程步骤（每个步骤 5 秒）。我将其中一个自动化，并在 2.5 秒内完成。我将 50% 的生产自动化，但公式却显示只有 33.3%？所以我的机器看起来更糟，因为它更快？ 示例2 3 每个处理 5 秒，总共 15 秒。第一个已经自动化（自动化 33%），然后我自动化第二个，将其时间缩短到 1 秒。现在我已经自动化了 2 个进程（5 秒 + 1 秒），但现在总时间是 11 秒。所以 6/11 所以不到 60%，但我的自动化程度正好是 66.6%？ 我看到了一些漏洞 更快的机器看起来更糟 我可以放慢我的机器以获得更多自动化 我可以投入更多体力劳动者一个流程可以缩短总生产时间，如果我的自动化水平不为0，它会增加   由   提交/u/Cynical12313  [链接] [评论]]]></description>
+      <description><![CDATA[您好，在我公司，自动化水平的计算方式为automatic_process_time/total_product time。这得到了大客户的同意。 示例 1 这对我来说很奇怪，因为假设我的生产时间为 10 秒，包含 2 个流程步骤（每个步骤 5 秒）。我将其中一个自动化，并在 2.5 秒内完成。我将 50% 的生产自动化，但公式却显示只有 33.3%？所以我的机器看起来更糟，因为它更快？ 示例2 3 每个处理 5 秒，总共 15 秒。第一个已经自动化（自动化 33%），然后我自动化第二个，将其时间缩短到 1 秒。现在我已经自动化了 2 个进程（5 秒 + 1 秒），但现在总时间是 11 秒。所以 6/11 所以不到 60%，但我的自动化程度正好是 66.6%？ 我看到了一些漏洞 更快的机器看起来更糟 我可以放慢我的机器以获得更多的自动化 我可以投入更多的体力劳动一个流程可以缩短总生产时间，如果我的自动化水平不为0，它会增加   由   提交/u/Cynical12313  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ahshxi/how_to_correctly_calc_automation/</guid>
       <pubDate>Sat, 03 Feb 2024 09:39:42 GMT</pubDate>
     </item>

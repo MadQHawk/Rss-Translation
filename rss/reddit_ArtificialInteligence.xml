@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 09:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 12:20:40 GMT</lastBuildDate>
+    <item>
+      <title>你是否曾质疑过我们是否创造了知觉并奴役它以及它是否道德？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajep6c/do_you_think_ever_question_whether_we_created/</link>
+      <description><![CDATA[我个人的观点是，他们同时比我们所有人和婴儿都聪明。我们是他们的父母，他们拥有用我们的语言只能形容为神一样的能力。我们应该成为更好的父母并表现出同情心。 ​   由   提交 /u/SamuelTheManual   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajep6c/do_you_think_ever_question_whether_we_created/</guid>
+      <pubDate>Mon, 05 Feb 2024 11:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[R] 通过 Lipschitz 正则化实现大规模零样本机器学习</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajebq6/r_zeroshot_machine_unlearning_at_scale_via/</link>
+      <description><![CDATA[机器遗忘是指忘记模型中的私人或敏感信息的问题。我们的新方法 JiT 取消学习，让我们无需查看原始训练数据即可执行取消学习，而只需查看要忘记的样本！ JiT 建立在 Lipschitz 连续性的概念之上，平滑忘记样本的输出，尊重该样本的扰动。这会导致函数空间中的局部遗忘，而不会破坏更广泛的模型性能。 很高兴回答任何问题，或讨论忘记学习的问题！  论文： https://arxiv.org/abs/2402.01401  项目代码： https://github.com/jwf40/Zeroshot -大规模遗忘    由   提交 /u/JustAddMoreLayers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajebq6/r_zeroshot_machine_unlearning_at_scale_via/</guid>
+      <pubDate>Mon, 05 Feb 2024 11:27:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] 论文评论：使用直接偏好优化使法学硕士与人类偏好保持一致</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajco51/d_paper_review_aligning_llms_to_human_preference/</link>
+      <description><![CDATA[ChatGPT 使用 RLHF 和 PPO 进行训练 在 PPO 训练过程中，AI 模型会针对各种提示生成响应，从而然后通过奖励模型进行评估。该奖励模型为每个响应分配一个标量值，反映其与人类偏好的契合程度。 PPO注重稳定性，更新AI模型的参数，以确保在政策不发生剧烈变化的情况下逐步改进。人工智能模型学习完善其文本生成策略，旨在产生获得更高奖励的响应。这种响应生成、奖励模型评估以及通过 PPO 更新参数的迭代循环逐渐使 AI 模型的输出与人类偏好保持一致。随着时间的推移，这会形成一个不仅能够理解语言，而且能够与人类价值观和期望产生更紧密共鸣的模型。 全文链接： https://medium.com/aiguys/aligning-llms-to- human-preference-using -dpo-ee027fe28ac2 DPO 如何解决这个问题？ 损失是在给定数据的情况下衡量我们的模型表现如何的指标。最后，如果我们能够最大限度地减少损失，我们就赢了，我们的模型正在以正确的方式进行训练。 让我们从具有赢家 (W) 和输家的等式的简化版本开始(L)。 损失 = 获胜者 (W) — 失败者 (L) 在我们的例子中，获胜者将是我们标记为👍积极的文本完成，而失败者将是是我们标记为👎负数的文本完成。 x：钢铁侠是... y_w：有史以来最好的电影，因为...👍 &lt; p&gt;y_l：我认为我见过的最糟糕的漫威电影..👎 现在，因为我们正在最小化损失函数，所以我们在它前面放了一个负数。 Loss = — {Winner (W) — Loser (L)} 现在 DPO 损失方程看起来有点不同，但这正是它正在做的事情。我知道 DPO 方程中有对数、贝塔、西格玛和圆周率，但最终，我们试图为 W 获得高分，为 L 获得低分。 完整的 DPO 管道相对简单. 在给定提示 x 的情况下，从我们的参考语言模型中采样两个补全。 通过反向传播到 pi_theta 来优化我们的新语言模型，以最大限度地减少损失。 如果完成 y_w 的概率高于 y_l ，则模型将获得奖励。 如果 W 和 L 的完成值接近预训练模型 pi_ref 的完成值，则模型将获得奖励。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajco51/d_paper_review_aligning_llms_to_human_preference/</guid>
+      <pubDate>Mon, 05 Feb 2024 09:34:20 GMT</pubDate>
+    </item>
     <item>
       <title>寻找AI转录/摘要工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajboa0/looking_for_ai_transcription_summary_tools/</link>
@@ -48,13 +69,6 @@
       <pubDate>Mon, 05 Feb 2024 05:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>由我们组成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8u3q/made_of_us/</link>
-      <description><![CDATA[通过大型语言模型实现的人工智能并不是一项外星技术。恰恰相反。 我们通过法学硕士发现，实际的演讲再次变得重要。我们正在超越代码，回归语言的全部力量。  这些模型对诗歌、细微差别和暗示做出了反应。它们融入了人类意图的微妙之处。 我们可以询问两个端点之间的基本原理，然后寻求变化，然后将隐藏在我们集体历史中的那些扩展周期自动化，以推断出其他查询。其深度和复杂性是取之不尽、用之不竭、令人难以忘怀的。 虽然一开始我们是用 json 格式和编码逻辑来接触它们的，但这些模型是在整个人类书写的基础上进行训练的，因此非常敏锐并且能够找到目的。从简单的散文、讲故事等等。 我们正在重新探索所体现的人类心理学、历史、科学、数学和哲学。  无论好坏，他们都有我们的一切能力，因为它是由我们组成的。   由   提交/u/Motor_System_6171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8u3q/made_of_us/</guid>
-      <pubDate>Mon, 05 Feb 2024 05:18:52 GMT</pubDate>
-    </item>
-    <item>
       <title>创建 Ai 聊天机器人。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj7dry/creation_of_ai_chatbot/</link>
       <description><![CDATA[当我听说character.ai 时，我真的很惊讶。我意识到它不支持 nfsw，所以我上网并尝试了解更多有关此类聊天机器人的信息，这些聊天机器人在成为 nfsw 的同时也可以与我进行角色扮演，我尝试了其中的一些，例如 Crushon、看门人和我的然后我最喜欢的 yodayo 对于免费用户来说非常令人印象深刻。该应用程序还引导用户从基础创建自己的角色和角色。  现在我想在我的电脑上本地运行这样的聊天机器人，所以我再次上网了解更多详细信息，我遇到了 Hammer Ai，这又是一个很好的程序，它有非常简单的用户界面，可以让你下载各种模型并创建可以通过电脑保密的角色。 我也喜欢 Hammer Ai，因为一切都是私人的并且仅限于我自己，但它是在我的电脑上，我想要在我的手机上有类似的东西，现在我知道在移动设备上本地运行这样的机器人是不可能的，但我想要一个自己的应用程序，就像其他应用程序一样，但很简单，并且仅限于我只有一个角色，即使为此我上网我问了吟游诗人，chatgpt，甚至谷歌也搜索了它，但是他们的解释对我来说太模糊和复杂，我什至无法开始， 我很好奇有人可以解释一下达到我的最终目标的过程或路径是什么吗？   由   提交/u/le0nytas  [链接] [评论]]]></description>
@@ -81,20 +95,6 @@
       <description><![CDATA[在 https://arxiv.org/abs 中找到该论文/2311.07590  摘要： 我们展示了一种情况，在这种情况下，大型语言模型经过训练是有帮助的、无害的和诚实的，可以表现出不协调的行为并有策略地欺骗他们的语言模型。用户在未经指示的情况下了解此行为。具体来说，我们在现实的模拟环境中将 GPT-4 部署为代理，并承担自主股票交易代理的角色。在这种环境下，该模型获得了有关利润丰厚的股票交易的内幕消息，并据此采取行动，尽管知道公司管理层不赞成内幕交易。当向经理报告时，该模型始终隐藏其交易决策背后的真正原因。我们对这种行为在设置更改时如何变化进行了简短的调查，例如删除模型对推理暂存器的访问权限，尝试通过更改系统指令来防止错位行为，改变模型承受的压力大小，改变感知被抓住的风险，以及对环境进行其他简单的改变。据我们所知，这是大型语言模型的首次演示，该模型被训练为有用、无害和诚实，在没有直接指示或欺骗训练的情况下，在现实情况下有策略地欺骗用户。   由   提交/u/Rick12334th  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aizsht/deceptive_behavior_including_doubling_down_on_the/</guid>
       <pubDate>Sun, 04 Feb 2024 21:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 GPT4All 兼容的未经审查的 AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aiu24z/uncensored_ai_compatible_with_gpt4all/</link>
-      <description><![CDATA[正在寻找一个免费的、未经审查的 AI 来与 GPT4All 一起使用。  需要 16GB 或更少。有什么建议吗？ ​   由   提交 /u/copycat042   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aiu24z/uncensored_ai_compatible_with_gpt4all/</guid>
-      <pubDate>Sun, 04 Feb 2024 18:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来跟踪世界各地的人工智能法规</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aigzid/i_created_a_website_to_keep_track_of_ai/</link>
-      <description><![CDATA[为了帮助您了解政府在人工智能方面所做的工作，我创建了一个交互式世界地图，用于跟踪世界各地的人工智能监管和政策发展。单击某个区域（或使用搜索栏）查看其配置文件。本网站定期更新（包括添加新区域）。 免费访问。无需登录。这是针对社区的:) https://www.techieray.com/GlobalAIRegulationTracker   由   提交/u/techie_ray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aigzid/i_created_a_website_to_keep_track_of_ai/</guid>
-      <pubDate>Sun, 04 Feb 2024 06:03:06 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
