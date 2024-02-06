@@ -4,11 +4,102 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 15:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:14:20 GMT</lastBuildDate>
+    <item>
+      <title>嵌入式 POD 商店仅适用于美国，但我在奥地利</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akg8jl/embedded_pod_shop_only_works_for_usa_but_i_am_in/</link>
+      <description><![CDATA[      我的嵌入式研讨会仅适用于美国 抱歉对于低质量的照片，但我想它显示了我所看到的 所以我将我的 printify 商店嵌入到我的网站上，由 Ghost.io 托管，与 fitprint.io 付款工作结束stripe 我在 Printify 上选择了一家捷克公司，因为我来自奥地利，我已经为自己订购了 5 件衬衫，效果非常好，显然它们是从德国发货的。  所以这是我的问题：在我的网站上，当您尝试购买一件衬衫时，它只允许我订购到美国地址，我不知道为什么。我尽可能选择了所有欧洲商品，但它会计算美国的运费，以美元显示价格，并且只允许来自美国的一份订单。 我已经联系了 fitprint，但还没有收到任何回复，人们会已经想买一些衬衫了，但买不到。 这是 printify 的问题吗？我能做什么！   由   提交 /u/doppelsmoker   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akg8jl/embedded_pod_shop_only_works_for_usa_but_i_am_in/</guid>
+      <pubDate>Tue, 06 Feb 2024 18:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他人觉得非开发人员角色毫无用处吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akfq13/does_anyone_else_feel_like_nondeveloper_roles_are/</link>
+      <description><![CDATA[HR、QA、项目经理、UI/UX...我的公司有所有这些“支持”角色，他们什么都不做，只是做一些糟糕的工作，没有任何帮助。问责制只会妨碍实际完成工作。我认为一半的问题在于我们的招聘标准，因为所有这些人的工作都很糟糕。 我经常不得不向同事指出遗漏的要求、规格、缺乏细节等问题。  感觉这些角色可以压缩为另一个开发人员角色，他实际上可以像样地完成这些工作。 只是咆哮，我曾在只有开发人员的地方工作过这还不错。我还曾与一位产品经理合作过，他的工作非常出色，但这个人也做了 QA 工作。只是好奇每个人的想法。 编辑：我以前曾与出色的 QA 合作过。当他们表现好的时候，他们会很有帮助。我们的员工是由一位不喜欢面试的新经理雇用的，而且他们完全一无所知。我对所有不称职的员工束手无策，我认为人力资源部门应该负主要责任。他们甚至很难提供准确的职位列表和职位要求，而我们的面试没有公司标准。   由   提交/​​u/MMizzle9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akfq13/does_anyone_else_feel_like_nondeveloper_roles_are/</guid>
+      <pubDate>Tue, 06 Feb 2024 17:48:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为我的上级不知道他们在做什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akf50x/i_think_my_superiors_have_little_idea_what_theyre/</link>
+      <description><![CDATA[大家好。所以我是一名初级网络开发人员，我们教过。我自学了一年，然后找到了一份工作，在那里工作了六个月。现在我找到了一家新公司，并被分配了基本上完成它的任务，因为它已经完成了 95%  但是，问题是，即使我没有经验，我想我确信它的编码很糟糕例如，他们不使用作用域样式（vue），而是散布大量 css，这些 css 既不遵循 BEM 也不遵循任何其他命名约定，到处散布 !important  复制粘贴标记而不是只是将变化的部分放入数组中并循环遍历它，以及类似的事情 如何应对？我是否要继续解决这个混乱并尝试“学习调试”并在团队中获得经验，还是？ 我只是担心我无法向这里的同事学习......即使到目前为止，解开这个烂摊子并深入兔子洞确实给我带来了很多知识和见解   由   提交 /u/lponkl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akf50x/i_think_my_superiors_have_little_idea_what_theyre/</guid>
+      <pubDate>Tue, 06 Feb 2024 17:24:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>内容管理系统模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akexno/cms_templates/</link>
+      <description><![CDATA[所以我正在考虑创建 cms 模板来兼职赚钱，但我有几个问题。你们有人知道这是否真的有利可图，或者标记是否太饱和了吗？另外，您发现哪个网站最容易销售模板：是标准的网络流程，还是其他网站？感谢您的输入！   由   提交 /u/tobimika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akexno/cms_templates/</guid>
+      <pubDate>Tue, 06 Feb 2024 17:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚石乐队 WordPress 网站：自定义主题？主题代码和CMS之间的界限？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akeo9h/rolling_stones_wordpress_website_custom_theme/</link>
+      <description><![CDATA[对于一次性客户端网站，主题代码和内容之间的界限到底在哪里？ 例如滚石乐队网站似乎正在使用 Wordpress： https://www.RollingStones.com 他们有一个非常复杂的标志，可以根据场景在不同的图像之间切换。我猜测，由于其复杂性，该元素被内置到自定义主题的代码中，而不是从 WordPress 的 CMS 中检索？网站的其余部分怎么样？  他们会在主题代码和内容之间划清界限吗？ 通过将元素构建到主题的自定义代码中，您是否不会失去例如的许多功能。图像优化插件？ 自定义主题是构建一次性客户端网站的正确策略吗？   由   提交/u/seventai  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akeo9h/rolling_stones_wordpress_website_custom_theme/</guid>
+      <pubDate>Tue, 06 Feb 2024 17:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 现在屏蔽了广告拦截器，所以我制作了这个 Chrome 扩展程序（广告加速），它使广告运行速度在 3 个月前提高了 16 倍，并且现在拥有超过 30 万用户:) 还有一种免费的方式来总结 YT 视频（如果您愿意）。 [附代码]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akemzx/youtube_is_now_blocking_ad_blockers_so_i_made/</link>
+      <description><![CDATA[我使用了 uBlock Origin，它对我很有用，直到我被这个弹出窗口打倒 - https://imgur.com/AfqSuhk 表示禁用广告拦截器，否则 YouTube 将完全停止播放视频。它让我思考如何用我现有的技能解决这个问题。 我首先将它作为一个书签运行（制作起来很有趣https://en.wikipedia.org/wiki/Bookmarklet），但在知道很多人想要它后很快就把它变成了扩展。 广告加速（ https://chromewebstore.google.com/detail/ad-speedup- Skip-video-ads/pcjlckhhhmlefmobnnoolakplfppdchi?hl=en) 使广告静音并自动播放广告 16 倍，因此几乎可以在您没有注意到的情况下跳过所有广告 - 速度快如闪电。我还在侧边栏中添加了一种免费的方式来总结长 YouTube 视频，供需要它的人使用，尽管我不是它的忠实粉丝 - 它可以关闭，有时会派上用场。 我不知道，但我我的想法是对的，这也意味着内容创作者仍然可以从视频中获得收入？如果是这样的话，这是比广告拦截器更好的解决方案，您觉得怎么样？ 这是我编写的实际扩展代码，您可以复制它，重新分发它，并随心所欲地使用它 -或者在这里使用我的扩展 - AdSpeedup.com // CONTENT-SCRIPT.JS (function () { function clickSkipButton(player) { const SkipButton = player.querySelector( &quot;.ytp- ad-skip-button-modern.ytp-button” ); if (skipButton) {skipButton.click(); } } function adjustmentVideoPlayback(player, isAdPlaying) { const video =player.querySelector(“视频”); if ( video) { if (isAdPlaying) { video.playbackRate = 16; // 加快视频播放速度 video.muted = true; // 使视频静音 } } } functionobserverCallback(mutations,observer) { for (constmutationsofmutations){ if (mutation.type === &quot;attributes&quot;; &amp;&amp;mutation.attributeName === &quot;class&quot; ) { const player =mutation.target; const isAdPlaying =player.classList.contains(&quot;广告展示&quot;; ) || player.classList.contains(“广告中断”);调整VideoPlayback（播放器，isAdPlaying）； } if (mutation.type === &quot;childList&quot; &amp;&amp;mutation.addedNodes.length) { clickSkipButton(mutation.target); } } } function setupObserver() { const player = document.querySelector(“#movie_player”); if (玩家) { const Observer = new MutationObserver(observerCallback); observer.observe(player, { 属性: true, childList: true, 子树: true, }); // 初始检查 const isAdPlaying = player.classList.contains(“ad-showing”) || player.classList.contains(“广告中断”);调整VideoPlayback（播放器，isAdPlaying）；单击跳过按钮（玩家）； } else { setTimeout(setupObserver, 50); setupObserver(); })(); // MANIFEST.JSON { “manifest_version”: 3, “name”: “您的名字”, “version”: “1.0.1”, “version_name”: “1.0.1”, “”描述”：“您的描述”，“内容脚本”：[ {“匹配”：[“https://*.youtube.com/*” ], &quot;js&quot;: [ &quot;minified/content-script.min.js&quot;; ], “run_at”: “document_start” } ] }    由   提交/u/pareshmukh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akemzx/youtube_is_now_blocking_ad_blockers_so_i_made/</guid>
+      <pubDate>Tue, 06 Feb 2024 17:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>你听说过这个叫做 rawJs 的框架吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akehn0/have_you_heard_of_this_framework_called_rawjs/</link>
+      <description><![CDATA[当我浏览 YouTube 时，我遇到了这个名为 RawJs 的框架。你知道它是如何运作的吗？好不好？ https://github.com/squaresapp/rawjs &lt; /div&gt;  由   提交/u/No-Cauliflower-2825   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akehn0/have_you_heard_of_this_framework_called_rawjs/</guid>
+      <pubDate>Tue, 06 Feb 2024 16:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳产品目录制作者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akea26/best_product_catalog_maker/</link>
+      <description><![CDATA[我是 Web 开发新手，有人要求我制作公司产品目录。我需要制作一个目录，允许客户单击每个单独的项目并重定向到仅该项目的页面。从那里，我需要客户能够下载该特定项目的 PDF。我还需要将目录导出为 PDF 格式。  我也更喜欢免费软件。 有什么建议吗？   由   提交/u/Labrat1515  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akea26/best_product_catalog_maker/</guid>
+      <pubDate>Tue, 06 Feb 2024 16:48:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[咆哮] Javascript 依赖地狱比我想象的更糟糕......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ake0hd/rant_javascript_dependency_hell_is_worse_than_i/</link>
+      <description><![CDATA[我有一个大型项目，一切正常，直到您需要引入一些小的更改、一些小的更新；那么你的整个工作就是由决定破坏的保姆依赖项组成的。 次要版本不会导致......退一步，次要版本与主要版本一样频繁地破坏所有内容，最糟糕的是你不是甚至不知道是什么损坏了。 当您更新 ubuntu 或在另一台计算机上运行它时，某些依赖项会损坏；小更新使它可以在 Windows 上运行，安装它会导致许多其他依赖项被破坏。 我除尘了一些运行 jquery 的古老 javascript 代码，它仍然有效，我除尘了一些我十几岁时编写的 C++ 旧代码它仍然可以编译；我采用了一个已有 2 年历史的现代项目，在进行 npm 安装时，我得到了分段错误核心转储，并且我的浏览器出现了一个小中风和无数警告。 你认为不要更新任何东西，好吧这不仅不是你应该做的事情，你确定不打算修补这个安全漏洞吗？...（这可能只是因为你安装的用于将文本填充到左侧的库也有几个矿工而存在）但是而且，它们仍然会自行破裂；如果你敢于更新操作系统，这不应该是“可移植的”，那到底是什么？...我不得不从 node_modules 的黑洞中删除大约一百个依赖项并制作我自己的依赖项自定义解决方案，系统现在更快、更可靠，但似乎无论我做什么，依赖关系树仍然很疯狂。 这里有一些建议供每个初级人员在实施时使用你自己的解决方案，有些书呆子会告诉你“呃，你太蠢了为什么要重新发明轮子”，不要听他们的；该代码很可能会更简单，并且具有更少甚至没有依赖性，并且完全按照您需要的方式进行；不要犯我犯过的同样的错误，我安装的每一个库都是为了做一些我自己可以做的事情而适得其反，每一个库，无一例外。越接近基础知识越好，否则 node_modules 会把你吸进去，你的生活、希望和梦想。 参考视频：https://www.youtube.com/watch?v=Uo3cL4nrGOk   由   提交/u/boisheep  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ake0hd/rant_javascript_dependency_hell_is_worse_than_i/</guid>
+      <pubDate>Tue, 06 Feb 2024 16:37:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个软件开发人员必须了解的关于 Unicode 的绝对最低限度（仍然没有任何借口！）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akd7oa/the_absolute_minimum_every_software_developer/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akd7oa/the_absolute_minimum_every_software_developer/</guid>
+      <pubDate>Tue, 06 Feb 2024 16:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>CLI 作为后端，API 作为前端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akd5or/a_cli_as_a_backend_with_an_api_as_a_frontend/</link>
+      <description><![CDATA[       由   提交/u/izalutski  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akd5or/a_cli_as_a_backend_with_an_api_as_a_frontend/</guid>
+      <pubDate>Tue, 06 Feb 2024 16:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的网站重定向到诈骗网站 帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akcl1a/my_website_redirects_to_a_scam_website_help/</link>
+      <description><![CDATA[        由   提交 /u/Aardvark-Fearless   /u/Aardvark-Fearless reddit.com/r/webdev/comments/1akcl1a/my_website_redirects_to_a_scam_website_help/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akcl1a/my_website_redirects_to_a_scam_website_help/</guid>
+      <pubDate>Tue, 06 Feb 2024 15:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>MJML 列不会在移动设备上堆叠</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akc6ib/mjml_columns_do_not_stack_on_mobile/</link>
+      <description><![CDATA[我使用 mjml.io 的在线编辑器创建了一个非常基本的 2 列设计，但我无法设法使其在移动设备上堆叠。  https://mjml.io/try-it-live/zQNs_0A07P 收到的电子邮件在桌面和移动设备上看起来完全相同：并排 2 列。该设计只是在移动设备上按比例缩小。我正在使用适用于 PC 的 Outlook 365 和 iPhone 13 上的 Outlook 进行测试。 我尝试使用 mj-group，但没有改变任何内容。 任何人都可以指出什么吗？我忘了？   由   提交/u/Asker82237  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akc6ib/mjml_columns_do_not_stack_on_mobile/</guid>
+      <pubDate>Tue, 06 Feb 2024 15:18:55 GMT</pubDate>
+    </item>
     <item>
       <title>UI/UX 设计师还是前端开发人员？</title>
       <link>https://www.reddit.com/r/webdev/comments/1akc0z5/uiux_designer_or_frontend_developer/</link>
-      <description><![CDATA[嘿r/webdev！ ​ 我正在努力在 UI/UX 设计和前端开发之间做出选择。我喜欢打造用户体验，但也喜欢编码。目前我已经学会了html css和javascript。我应该走哪条路？任何建议表示赞赏！谢谢！ ​   由   提交/u/wonderful_utility  [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/webdev！ ​ 我在 UI/UX 设计和前端开发之间犹豫不决。我喜欢手工设计，但也喜欢编码。目前我已经学习了 html,css Javascript 已经完成一半了。我应该走哪条路？任何建议表示赞赏！谢谢！ ​   由   提交/u/wonderful_utility  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akc0z5/uiux_designer_or_frontend_developer/</guid>
       <pubDate>Tue, 06 Feb 2024 15:12:27 GMT</pubDate>
     </item>
@@ -18,97 +109,6 @@
       <description><![CDATA[大家好。我作为一个组织的前端开发/PM，正在尝试购买一个 Web 开发项目的一部分，其中包括来自娱乐软件 (ACTIVEnet) 的 API 集成，以获取有关自动生成并输入到我们网站中的类的信息，以及填充我们的搜索页面，以便用户可以搜索/过滤该信息。不确定这是否重要，但该网站是一个用于上下文的 WordPress 网站。 （.org，而不是 .com） 我有一位开发人员要求我估算该项目需要多少次 API 调用，以便他们能够给我准确的报价。 &lt; p&gt;ACTIVEnet 有 API 文档，但它似乎是您将实际 API 添加到站点所需的信息，它并没有真正指定特定信息集的调用次数。 我有一个帐户ACTIVEnet 的代表，我解释说，我很难根据他们的文档确定 API 调用的报价，他告诉我：您的组织每月收到 30 万次 API 调用。对于将其网站与 API 集成的客户来说，这通常是令人满意的。通常，当用户从站点请求信息时，站点将被设置为调用 API。或者他们可以将其设置为以每 5 分钟等时间间隔调用 API。 我对 API 集成有一定的了解，而且我的代表给我的答案似乎无助于确定需要多少工作量为开发人员进行实际的 API 集成。我在这里误解了什么吗？ 我觉得我遗漏了一些术语或者没有正确地表达问题。谁能给我指出正确的方向，以便我能够获得有关该开发人员的更准确的信息？   由   提交 /u/ginmonty   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akbjv0/how_do_i_quote_a_number_of_api_calls_for_a/</guid>
       <pubDate>Tue, 06 Feb 2024 14:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，这终于发生在我身上了！我有……眼睛！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akb14u/guys_its_finally_happened_to_me_i_havethe_eyes/</link>
-      <description><![CDATA[怎么了！  担任软件工程师已有 4 年多了。昨天我终于体验到了我们都渴望的启蒙水平。  我收到了一位高级工程师的代码审查请求，大约有 15 个文件和 300 行。大约5分钟就审完了，并要求修改。  工程师同事说你不可能那么快完成审核。您甚至还没有将其拉下来并在本地运行它！  我说“我不需要把它拉下来。”正如我在评论中指出的那样，由于 x、y、z 原因，这不会起作用，而且这 2 个边缘情况也未被发现等等”。  20 分钟后，工程师同事回来了，并说道“哇，你怎么知道这些事情会发生，甚至没有把它拆下来”。  我的回答：“......我可以阅读代码吗？ 🤷🏽‍♂️”  这是一个非常有趣的时刻，但说真的，最近它就像一盏灯亮了，我现在可以阅读和理解其他人的代码，就像我现在正在阅读自然语言句子一样。我花了一段时间才达到这一点，因为在我职业生涯的前两年，我主要是阅读自己的代码。但无论如何，我还是很自豪能来到这里。   由   提交 /u/AZXCIV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akb14u/guys_its_finally_happened_to_me_i_havethe_eyes/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>应对裁员并开始自己的网络开发业务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akaxvn/navigating_layoffs_and_starting_own_webdev/</link>
-      <description><![CDATA[刚刚（再次）成为裁员俱乐部的一员，对业务放缓时的一次性待遇感到悲伤和沮丧。 🥹  我渴望将这次挫折转为在 HCOL 城市开始我自己的网络开发业务，但我的网络有限，尽管在营销机构（网络开发、用户体验设计）之间跳来跳去多年后拥有足够的经验、电子邮件营销、搜索引擎优化，但尚未掌握 PPC） 希望了解您如何开始您的旅程，尤其是在联系最少的情况下。另外，对启动所需的初始投资感到好奇。  感谢任何建议或分享经验！   由   提交 /u/Lokomotivv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akaxvn/navigating_layoffs_and_starting_own_webdev/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于快速前端原型设计的在线网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akasuq/online_site_for_quick_front_end_prototyping/</link>
-      <description><![CDATA[大家好。我目前正在寻找可以让我快速 DIY 构建前端原型的在线网站，可以选择不同的组件，例如按钮、文本框、文本字段、视频、图像、提交按钮、滚动条等。我想知道你们知道有什么很酷的网站有这个功能吗？非常感谢！   由   提交/u/MrPotato79  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akasuq/online_site_for_quick_front_end_prototyping/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置通常如何存储？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akalkv/how_are_settings_usually_stored/</link>
-      <description><![CDATA[我正在创建我的第一个应用程序，目前正在致力于实现暗光主题。我可能需要添加一些其他选项，例如语言首选项等。这些东西通常存储在数据库中还是其他地方？  编辑：我刚刚发现了“本地存储”，我猜就是这个？   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akalkv/how_are_settings_usually_stored/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么前端框架和浏览器不使用连接池？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aka3mj/why_are_frontend_frameworks_and_browsers_not/</link>
-      <description><![CDATA[我只是查看了前端请求的速度，发现一半的时间用于连接和 TLS 设置，尽管所有请求都进行了到相同的服务器和IP（使用vue和firefox） 在数据库连接的后端，通常有某种连接池来重用相同的连接，而不需要每次都进行TLS握手等。这真的不是前端的事情还是有什么方法可以设置它？   由   提交 /u/bokuWaKamida   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aka3mj/why_are_frontend_frameworks_and_browsers_not/</guid>
-      <pubDate>Tue, 06 Feb 2024 13:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>正确同步多个用户在同一云文档上的编辑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak9u4j/properly_synchronise_edit_by_multiple_users_on/</link>
-      <description><![CDATA[当今的许多服务允许人们同时协作处理同一个文档。我很好奇它是如何工作的。 让我们先考虑一下 git。假设 Alice 和 Bob 都分叉了同一个存储库。 Alice 在文件中添加了一些内容，而 Bob 在同一个文件中添加了一些内容。如果他们都尝试合并，那么它并不总是成功 - 可能会发生合并冲突。然而，对于云协作服务，通常没有任何记录的处理“合并冲突”的过程。或“竞争条件”。 事实上，有时，由于互联网连接速度较慢，当我们尝试远程编辑同一文档时，我们会看到有线的东西。 这样的协作软件，如果用过于简单的方法，由于竞争条件导致意外数据丢失，这是不安全的，我的问题是 - 市场上现有的解决方案是否有办法在一定程度上克服这个困难？ 最后，澄清，我确实注意到互联网上有很多关于同步的文章。 这个问题不仅仅是关于同步。我特别询问合并冲突的协调。暴力同步破坏一些编辑看起来不太好。   由   提交 /u/speedy-spade   /u/speedy-spade  reddit.com/r/webdev/comments/1ak9u4j/properly_synchronise_edit_by_multiple_users_on/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak9u4j/properly_synchronise_edit_by_multiple_users_on/</guid>
-      <pubDate>Tue, 06 Feb 2024 13:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Web 可访问性做出贡献：公布我的学士论文项目 - 符合 W3C 指南的 React 可访问性库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak99xy/contributing_to_web_accessibility_unveiling_my/</link>
-      <description><![CDATA[大家好， 我目前正在撰写关于网络应用程序中的数字可访问性主题的学士论文强&gt;。作为其中的一小部分，我根据万维网联盟公司的指南和成功标准及其 Web 内容可访问性指南 2.2 创建了一个 npm 库。各个组件是使用 TypeScript 创建的，专为 React 应用程序而设计。这些组件根本不包含任何 CSS 样式规则。它们通过可访问的功能扩展了本机 HTML 元素，以便您的 Web 应用程序变得可访问。 如果您有时间并且愿意支持我的这项工作，欢迎您查看文档和库并根据需要安装它。如果您能花 5 到 10 分钟事后回答几个问题，我将非常感激。 如果您既没有 React，也不想安装或测试该库，那么您就是也欢迎只查看文档或故事书并回答有关文档或故事书的一些问题。 非常感谢， Michael 我的 npm 库 包含所有组件的 Storybook 文档 其 GitHub 页面 调查:)&lt; /p&gt;   由   提交/u/Foreign_Equipment_97   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak99xy/contributing_to_web_accessibility_unveiling_my/</guid>
-      <pubDate>Tue, 06 Feb 2024 13:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为 Android 开发人员探索 Web 开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak8qlx/exploring_web_development_as_an_android_developer/</link>
-      <description><![CDATA[嗨 我是一名本机应用开发人员 (Java./Kotlin)，拥有 1 年以上的经验，所以最近我离开了由于某种原因，之前的工作。我一直在寻找另一份应用程序开发人员的工作，但我在 Laravel 后端方面非常擅长，因为我负责为我的团队在 Laravel 中管理所有 api，同时承担作为 Android 开发人员的职责。我正在接受一些 Android 开发人员的面试，但我也尝试过 Laravel。我被选为全职 Vue + Laravel 开发人员。 现在我很困惑，我应该加入这份工作并获得作为 Web 开发人员的知识，还是不应该加入，因为它不会是 Web 开发经验对我的下一份应用程序开发人员工作没有帮助，或者现在我的应用程序开发经验不会在 Web 开发中使用。  我实际上很困惑，因为我对此没有太多经验，而且我也不认识任何像这样切换过域名的人。  &amp; #32；由   提交/u/godeater47x  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak8qlx/exploring_web_development_as_an_android_developer/</guid>
-      <pubDate>Tue, 06 Feb 2024 12:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需求之家</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak8kav/the_house_of_requirements/</link>
-      <description><![CDATA[       由   提交/u/WolfOliver  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak8kav/the_house_of_requirements/</guid>
-      <pubDate>Tue, 06 Feb 2024 12:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>业余项目机会。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak8gh5/side_project_opportunity/</link>
-      <description><![CDATA[大家好！ 在过去的两个月里，我一直在做一个小项目。该项目将是一个简历构建器，并且可能会开源。我正在使用 React 和 Node。 现在，我正在寻找其他想要加入的开发人员。目标是学习和练习软件生产流程并建立人际网络！ 唯一要求： 欧洲人 英语流利 一些专业经验 任何有兴趣的人都可以在 Reddit 上找到我： https://www.linkedin.com/in/konstantinos-kazazis-32a470228/ [kazaziskonstantinos@gmail。 com](mailto:kazaziskonstantinos@gmail.com) 直播：https://jobready-frontend-a5f107d0de7b.herokuapp.com/ 谢谢！ &lt; !-- SC_ON --&gt;  由   提交/u/No_Arachnid_9853   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak8gh5/side_project_opportunity/</guid>
-      <pubDate>Tue, 06 Feb 2024 12:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>高要求资产存储解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak86kq/solution_for_highlydemaning_asset_storage/</link>
-      <description><![CDATA[各位开发者大家好，我和团队正在努力解决这里的问题，希望您的智慧可以帮助我们。 我们是将重建一家大公司的数字身份，包括为该公司拥有的不同品牌建立大约 5 个网站。就背景而言，该公司建造并租赁房地产。他们已经拥有数千种产品的目录（办公室、停车场、公寓等），每种产品都有数百张图像。他们为这些产品拥有的所有图像加起来大约有 20TB 的资产。 因此，我们想使用 Sanity CMS&lt; /a&gt; 因为它非常适合该项目的需求...除此之外，因为它提供了大约 500GB 的资产存储，这还远远不够。问题是大多数云 CMS 都提供类似数量的数据存储，我可以理解为什么云存储并不便宜。 所以我的问题是您将如何处理这个问题？ 我&#39;我一直在考虑使用 FTP 作为资产服务器，但我不知道它能如何很好地处理数千个并发用户。我想在某个时候我们会联系 Sanity 销售团队。 非常感谢！   由   提交 /u/cortvi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak86kq/solution_for_highlydemaning_asset_storage/</guid>
-      <pubDate>Tue, 06 Feb 2024 12:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着 Insomnia 现在加入 Postman 的行列，强制其用户拥有云帐户，您还推荐哪些其他替代 API 客户端应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak7wtk/with_insomnia_now_joining_postman_in_forcing/</link>
-      <description><![CDATA[如果有任何类似于 insomnia/postman 和跨平台的无云、无跟踪和无混乱应用程序的建议，我将不胜感激？&lt; /p&gt;   由   提交/u/waaat222  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak7wtk/with_insomnia_now_joining_postman_in_forcing/</guid>
-      <pubDate>Tue, 06 Feb 2024 11:47:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apache 服务器返回 php 文件而不是执行它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ak6p8r/apache_server_return_php_file_instead_of/</link>
-      <description><![CDATA[我有一个用 html 和 js 构建的简单 Web 表单，它向用于发送电子邮件的简单 php 脚本（PHPmailer）发出 post 请求，并返回一些 json回复。  它工作得很好，但在某些时候，而不是 JSON 服务器开始发送发送请求的整个 php 文件（sendmail php）和状态代码 200。  可以抱歉，不分享任何代码。但我希望描述足够好。 PHP 版本为 8.0.28，服务器 Apache，操作系统 ububtu。   由   提交/u/Crutch1232  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ak6p8r/apache_server_return_php_file_instead_of/</guid>
-      <pubDate>Tue, 06 Feb 2024 10:27:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
