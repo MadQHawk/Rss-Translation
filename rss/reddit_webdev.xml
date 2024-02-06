@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 06:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 09:12:58 GMT</lastBuildDate>
+    <item>
+      <title>格莱美网站在转义字符方面遇到一些问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak4njo/grammys_website_having_some_trouble_with_escape/</link>
+      <description><![CDATA[       由   提交 /u/TScottFitzgerald   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak4njo/grammys_website_having_some_trouble_with_escape/</guid>
+      <pubDate>Tue, 06 Feb 2024 07:56:06 GMT</pubDate>
+    </item>
     <item>
       <title>需要建议：将 Google Sheets 中的扑克游戏数据转换为网站表格</title>
       <link>https://www.reddit.com/r/webdev/comments/1ak277e/advice_needed_turning_poker_game_data_from_google/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>您会使用什么技术堆栈进行小型自由网络开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ak1jfv/what_tech_stack_would_you_use_for_smallscale/</link>
-      <description><![CDATA[我是一名专业的全栈软件工程师，在 Typescript/React/NestJS 环境中工作。我目前在编程和通过代码在 React 中构建动态 Web 应用程序方面拥有丰富的经验，但对 WordPress、Webflow 等任何选项几乎没有经验。  我希望开始自由职业对于本地企业来说，建立主要用于广告的网站，并为企业提供 Facebook 之外的在线展示（或替换其当前的、过时的网站）。想想私立学校、零售商店，也许还有水管工等——我希望这些网站需要营销信息，但也需要一些次要功能，例如活动日历、博客式通知（可能会发送到电子邮件列表以进行营销？），也许是基于预约的预订系统、联系表格等。  我觉得任何“传统”都可以。涉及 React 的技术堆栈对此来说太过分了，并且有几个主要缺点： 1.) 客户可能会担心，如果他们停止与我合作，无论他们带来谁，维护网站的成本会更高来代替我不会熟悉我的自定义解决方案。 2.) 我不想每次客户想要向其日历添加内容时都必须手动添加数据、做广告在他们的网站上进行促销，更改他们的英雄形象，等等。我主要希望构建初始站点，然后提供小型维护和托管——不提供数据输入或维护其业务功能。因此，我想要某种用户友好的仪表板，客户可以使用它来对其网站进行小幅更新。  虽然我现在能够比任何其他选项更快地在 React 中构建一个手册式网站，但由于上述原因，我认为投资一些时间来学习网站是明智的做法某种类型的构建器/成熟的 CMS。不过，再想一想，要求随机经营一家服装销售小企业的 60 岁女性更新其网站上的文案可能有点太过分了，无论网站是用什么系统构建的。也许这最好通过我通过电子邮件来完成，作为托管和维护的一部分？ 如果您要从头开始从事这种类型的自由职业业务，您会投入时间学习使用哪些工具尽可能高效和现实？任何有关课程的建议也将不胜感激。我倾向于 WordPress，但也愿意接受其他选择（或者只是坚持我所知道的）。   由   提交 /u/Hitwelve   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名专业的全栈软件工程师，在 Typescript/React/NestJS 环境中工作。目前，我在编程和通过代码在 React 中构建动态 Web 应用程序方面拥有丰富的经验，但对 WordPress、Webflow 等任何选项几乎没有经验。  我希望开始自由职业对于本地企业来说，建立主要用于广告的网站，并为企业提供 Facebook 之外的在线展示（或替换其当前的、过时的网站）。想想私立学校、零售商店，也许还有水管工等——我希望这些网站需要营销信息，但也需要一些次要功能，例如活动日历、博客式通知（可能会发送到电子邮件列表以进行营销？），也许是基于预约的预订系统、联系表格等。  我觉得任何“传统”都可以。涉及 React 的技术堆栈对此来说太过分了，并且有几个主要缺点： 1.) 客户可能会担心，如果他们停止与我合作，无论他们带来谁，维护网站的成本会更高来代替我不会熟悉我的自定义解决方案。 2.) 我不想每次客户想要向其日历添加内容时都必须手动添加数据、做广告在他们的网站上进行促销，更改他们的英雄形象，等等。我主要希望构建初始站点，然后提供小型维护和托管——不提供数据输入或维护其业务功能。因此，我想要某种用户友好的仪表板，客户可以使用它来对其网站进行小幅更新。  虽然我现在能够比任何其他选项更快地在 React 中构建一个手册式网站，但由于上述原因，我认为投资一些时间来学习网站是明智的做法某种类型的构建器/成熟的 CMS。不过，再想一想，要求随机经营一家出售服装的小企业的 60 岁女性更新其网站上的副本可能有点太过分了，无论它是用什么系统构建的。也许这最好通过我通过电子邮件来完成，作为托管和维护的一部分？ 如果您要从头开始从事这种类型的自由职业业务，您会投入时间学习使用哪些工具尽可能高效和现实？任何有关课程的建议也将不胜感激。我倾向于 WordPress，但也愿意接受其他选择（或者只是坚持我所知道的）。   由   提交 /u/Hitwelve   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ak1jfv/what_tech_stack_would_you_use_for_smallscale/</guid>
       <pubDate>Tue, 06 Feb 2024 04:42:19 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>我的 WordPress 网站 (Elementor + QuillForm) 无法与 Facebook 广告正常配合</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajzwvo/my_wordpress_site_elementor_quillform_is_not/</link>
-      <description><![CDATA[我正在利用 Elementor 和 Quill Forms 解决我的 WordPress 网站上的一个问题，并希望在这里能了解一些外部想法。 该网站和表单在大多数现代设备和浏览器上表现良好。然而，在审查了 Microsoft Clarity 会议后，我们从 Facebook 广告中获得的线索（主要是在 Android 设备上）在加载页面时遇到问题（如果加载的话），有时如果确实加载，元素的渲染方式也会有所不同，这也会阻止用户正确单击按钮。 （导致如此多的用户流失）我们在录音中看到的其他问题是加载时间。就像任何人用 iOS 设备点击广告一样，效果很好……这太令人沮丧了。 （五分之一的用户受到此影响） 有人使用 Elementor 和 Quill Forms 应对过类似的挑战吗，特别是在运行付费流量时？ 对 Elementor 作为潜在罪魁祸首的看法在这种情况下？或者 Quill Forms 是否会造成性能瓶颈？ 您是否会建议使用一种替代的、更轻量级且适合移动设备且与 Elementor 集成良好的表单构建器？ 如果您的解决方案有帮助我出去，我欠你一杯虚拟咖啡（或啤酒！）🧙‍♂️   由   提交/u/lynamup  [链接] [评论]]]></description>
+      <description><![CDATA[我正在利用 Elementor 和 Quill Forms 解决我的 WordPress 网站上的一个问题，并希望在这里能利用一些外部想法。 该网站和表单在大多数现代设备和浏览器上表现良好。然而，在审查了 Microsoft Clarity 会议后，我们从 Facebook 广告（主要在 Android 设备上）获取的线索在加载页面时遇到了问题（如果加载的话），有时如果确实加载，元素的渲染方式也会有所不同，这也会阻止用户正确单击按钮。 （导致如此多的用户流失）我们在录音中看到的其他问题是加载时间。就像任何人用 iOS 设备点击广告一样，效果很好……这太令人沮丧了。 （五分之一的用户受到此影响） 是否有人使用 Elementor 和 Quill Forms 解决了类似的挑战，特别是在运行付费流量时？ 对 Elementor 作为潜在罪魁祸首的看法在这种情况下？或者 Quill Forms 是否会造成性能瓶颈？ 您是否会建议使用一种替代的、更轻量级且适合移动设备且与 Elementor 集成良好的表单构建器？ 如果您的解决方案有帮助我出去，我欠你一杯虚拟咖啡（或啤酒！）🧙‍♂️   由   提交/u/lynamup  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajzwvo/my_wordpress_site_elementor_quillform_is_not/</guid>
       <pubDate>Tue, 06 Feb 2024 03:14:55 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>有没有办法在画布 API 中利用更高的位深度？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</link>
-      <description><![CDATA[我正在做一些反馈效果，这些效果依赖于能够重叠和平均多个画布图像。 令我惊讶的是，循环每个像素进行处理不会导致瓶颈，而只是像缓冲区一样获取画布数据！我很想在画布上做所有事情，但不幸的是，由于画布上限为 255，因此无法执行多个画布的平均值之类的操作。 有没有办法“解锁， ”该值并以暂时高于 255 的方式执行画布合成功能？   由   提交 /u/zachtheperson   [链接] [评论]]]></description>
+      <description><![CDATA[我正在做一些反馈效果，这些效果依赖于能够重叠和平均多个画布图像。 令我惊讶的是，循环每个像素进行处理不会导致瓶颈，而只是像缓冲区一样获取画布数据！我很想在画布上做所有事情，但不幸的是，由于画布上限为 255，所以无法执行多个画布的平均值之类的操作。 有没有办法“解锁， ”该值并以暂时高于 255 的方式执行画布合成功能？   由   提交 /u/zachtheperson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</guid>
       <pubDate>Tue, 06 Feb 2024 02:52:33 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>您如何推广您的项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</link>
-      <description><![CDATA[我正在完成一个业余项目 Web 应用程序的工作，只是弄清楚如何推广它是令人畏惧的。我知道我可以把钱投入到广告的黑匣子中 - 但我说的是向人们展示你所做的事情的良好时尚行为。我也知道SEO非常重要，但那只能被动地吸引用户。另外，如果你的网站是利基市场，搜索引擎优化只能做这么多。一直被打破）。我唯一能想到的地方是Product Hunt，但他们似乎要求你发布你的全名，这可以理解，但对我来说有点紧张。 那么，你通常如何宣传你的产品？项目？   由   提交 /u/unwriting_rules   [链接] [评论]]]></description>
+      <description><![CDATA[我正在完成一个业余项目 Web 应用程序的工作，只是弄清楚如何推广它是令人畏惧的。我知道我可以把钱投入到广告的黑匣子中 - 但我说的是向人们展示你所做的事情的良好时尚行为。我也知道SEO非常重要，但那只能被动地吸引用户。另外，如果你的网站是利基市场，SEO 只能做这么多。 这很糟糕，因为大多数与我的项目远程相关的子版块和不和谐服务器都有禁止自我推销的规则（尽管它们似乎一直被打破）。我唯一能想到的地方是Product Hunt，但他们似乎要求你发布全名，这可以理解，但对我来说有点紧张。 那么，你通常如何宣传你的产品？项目？   由   提交 /u/unwriting_rules   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</guid>
       <pubDate>Tue, 06 Feb 2024 01:11:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[什么[背景信息] 从 Reddit API 获取多种功能的 Web 应用程序，包括： - 存档帖子 - 识别那些已存档和未存档的 - 缺失评论 - 识别评论是实时的还是缺失 - 评论排名 - 识别评论的位置（排名 # 1、#2 等） 我有一个来自印度的 UpWork 的时薪 20 美元的工人构建的应用程序，但它不断出现故障（如果 reddit 不断更改它，也许是 API 的错误？），我正在寻找更高的技能和更好的沟通能力。 谁[我的问题] 我试图从以下方面找出谁最适合这份工作：  - 时薪 - 技能水平 - 最佳招聘国家/地区 哪里[我的问题] 我正在寻找现在就在 UpWork 上。我应该使用的任何其他招聘网站。另外，就最有价值而言，从哪个县招聘最好？   由   提交 /u/scotch-n-rocks57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajx00w/scope_of_work_reddit_api_web_application/</guid>
       <pubDate>Tue, 06 Feb 2024 00:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使 Web 共享与文件一起使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajwiel/how_to_make_web_share_work_with_files/</link>
-      <description><![CDATA[    /u/Seanitzel   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajwiel/how_to_make_web_share_work_with_files/</guid>
-      <pubDate>Tue, 06 Feb 2024 00:32:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
