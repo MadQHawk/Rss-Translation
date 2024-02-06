@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 03:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 06:16:29 GMT</lastBuildDate>
+    <item>
+      <title>需要建议：将 Google Sheets 中的扑克游戏数据转换为网站表格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak277e/advice_needed_turning_poker_game_data_from_google/</link>
+      <description><![CDATA[大家好， 我有一张 Google 表格，其中包含我和我的朋友玩的扑克游戏的数据。我正在考虑建立一个网站，可以提取这些数据并将其呈现在各种表格中。关于解决这个问题的最佳方法有什么建议吗？   由   提交/u/ky_james  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak277e/advice_needed_turning_poker_game_data_from_google/</guid>
+      <pubDate>Tue, 06 Feb 2024 05:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>恶意 npm 包伪装成 Noblox.js，针对 Roblox 用户获取数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak1lwa/malicious_npm_package_masquerades_as_nobloxjs/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak1lwa/malicious_npm_package_masquerades_as_nobloxjs/</guid>
+      <pubDate>Tue, 06 Feb 2024 04:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会使用什么技术堆栈进行小型自由网络开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak1jfv/what_tech_stack_would_you_use_for_smallscale/</link>
+      <description><![CDATA[我是一名专业的全栈软件工程师，在 Typescript/React/NestJS 环境中工作。我目前在编程和通过代码在 React 中构建动态 Web 应用程序方面拥有丰富的经验，但对 WordPress、Webflow 等任何选项几乎没有经验。  我希望开始自由职业对于本地企业来说，建立主要用于广告的网站，并为企业提供 Facebook 之外的在线展示（或替换其当前的、过时的网站）。想想私立学校、零售商店，也许还有水管工等——我希望这些网站需要营销信息，但也需要一些次要功能，例如活动日历、博客式通知（可能会发送到电子邮件列表以进行营销？），也许是基于预约的预订系统、联系表格等。  我觉得任何“传统”都可以。涉及 React 的技术堆栈对此来说太过分了，并且有几个主要缺点： 1.) 客户可能会担心，如果他们停止与我合作，无论他们带来谁，维护网站的成本会更高来代替我不会熟悉我的自定义解决方案。 2.) 我不想每次客户想要向其日历添加内容时都必须手动添加数据、做广告在他们的网站上进行促销，更改他们的英雄形象，等等。我主要希望构建初始站点，然后提供小型维护和托管——不提供数据输入或维护其业务功能。因此，我想要某种用户友好的仪表板，客户可以使用它来对其网站进行小幅更新。  虽然我现在能够比任何其他选项更快地在 React 中构建一个手册式网站，但由于上述原因，我认为投资一些时间来学习网站是明智的做法某种类型的构建器/成熟的 CMS。不过，再想一想，要求随机经营一家服装销售小企业的 60 岁女性更新其网站上的文案可能有点太过分了，无论网站是用什么系统构建的。也许这最好通过我通过电子邮件来完成，作为托管和维护的一部分？ 如果您要从头开始从事这种类型的自由职业业务，您会投入时间学习使用哪些工具尽可能高效和现实？任何有关课程的建议也将不胜感激。我倾向于 WordPress，但也愿意接受其他选择（或者只是坚持我所知道的）。   由   提交 /u/Hitwelve   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak1jfv/what_tech_stack_would_you_use_for_smallscale/</guid>
+      <pubDate>Tue, 06 Feb 2024 04:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 JS 基础知识到实际构建东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak11f2/from_js_basics_to_actually_building_stuff/</link>
+      <description><![CDATA[Intro⁣ ⁣我经常遇到/看到如何从理解 JavaScript 的构建块（数据类型、变量、条件、循环、函数等）到实际构建的东西。希望我可以在这里提供一些帮助。⁣⁣ 大多数人都会建议从小目标开始，然后逐步实现。如果我受到文字和时间的限制，我也会说同样的话。 ⁣⁣ 但是说实话，弄清楚这些小项目应该是什么本身就是一个挑战。作为初学者，知道如何进行实验是很困难的。 ⁣⁣我将在这篇文章中尽我所能用文字进行扩展，但我会链接我在底部制作的 YouTube 视频，以防万一你想要看到更详细的代码演示，这是很难用语言来完成的。⁣⁣ 希望这不要被视为自我推销；我真诚地相信它会有所帮助。如果是，请让我知道版主，我不会再发布我的 YouTube 视频的链接。⁣⁣ 说明⁣ 定义小目标⁣ ⁣无论如何，在我们这里用文字扩展一下，我相信通过前端 JavaScript、与 HTML 和 CSS 交互来学习是最简单的。通过这种方式，您可以将变量、函数、循环和条件应用于实际、可见的事物。 ⁣ 您可以使用文本、列表、卡片、表单、下拉菜单、图像、模式等。考虑更改可见性、大小、颜色、粗体、大写、项目添加/删除等。这些小目标将增强您的理解，并为您构建更复杂的应用程序奠定基础。⁣⁣ 心态⁣ ⁣此外，过渡从学习到行动需要思维方式的转变。拥抱实验，不要害怕犯错误。承认您最初不知道如何完成这些任务，但它们是如此之小，通过重复，您可以开始看到 JavaScript 构建块的使用模式。不要害怕查看答案，但请确保您花时间理解答案（不要只是复制并粘贴它们然后继续。）。⁣⁣ 缩放向上⁣ ⁣当您对小型项目充满信心时，就开始扩大规模。最终尝试复制真实网站的 UI，然后您可以尝试使用免费 API 中的示例数据。在不知不觉中，您将对自己的前端能力充满信心，并且您将一路学习如何使用 JavaScript 基础知识。⁣⁣ 然后您将能够创建自己的应用程序，结合使用 JavaScript 基础知识。这可能是一个交互式游戏或从 API 获取数据的 Web 应用程序。请记住，每个复杂的项目都只是一系列简单步骤的组合。在接下来的每个项目中，您都会更容易地看到这种细分。⁣⁣ 感谢您的阅读！⁣ ⁣这里是 YouTube 视频链接：https://youtu.be/S7_ApcLsRv4?si=c7CZ3aEATuQkHZ6x⁣   由   提交 /u/coderjared   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak11f2/from_js_basics_to_actually_building_stuff/</guid>
+      <pubDate>Tue, 06 Feb 2024 04:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该购买以下三个中的哪一个？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak0zsq/which_of_the_following_three_should_i_buy/</link>
+      <description><![CDATA[请不要告诉我他们太过分了 - 我已经知道了。  M3max 14” 48gb 1tb - 3349 美元。配备 64gb - 3529 美元 Creator 16” AI studio 64 GB 内存 1tb - 3999 美元 Zephyrus 16” 32gb 内存 1tb 内存 - 3499 美元   由   提交/u/Ineedtoknow777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak0zsq/which_of_the_following_three_should_i_buy/</guid>
+      <pubDate>Tue, 06 Feb 2024 04:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 WordPress 网站 (Elementor + QuillForm) 无法与 Facebook 广告正常配合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajzwvo/my_wordpress_site_elementor_quillform_is_not/</link>
+      <description><![CDATA[我正在利用 Elementor 和 Quill Forms 解决我的 WordPress 网站上的一个问题，并希望在这里能了解一些外部想法。 该网站和表单在大多数现代设备和浏览器上表现良好。然而，在审查了 Microsoft Clarity 会议后，我们从 Facebook 广告中获得的线索（主要是在 Android 设备上）在加载页面时遇到问题（如果加载的话），有时如果确实加载，元素的渲染方式也会有所不同，这也会阻止用户正确单击按钮。 （导致如此多的用户流失）我们在录音中看到的其他问题是加载时间。就像任何人用 iOS 设备点击广告一样，效果很好……这太令人沮丧了。 （五分之一的用户受到此影响） 有人使用 Elementor 和 Quill Forms 应对过类似的挑战吗，特别是在运行付费流量时？ 对 Elementor 作为潜在罪魁祸首的看法在这种情况下？或者 Quill Forms 是否会造成性能瓶颈？ 您是否会建议使用一种替代的、更轻量级且适合移动设备且与 Elementor 集成良好的表单构建器？ 如果您的解决方案有帮助我出去，我欠你一杯虚拟咖啡（或啤酒！）🧙‍♂️   由   提交/u/lynamup  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajzwvo/my_wordpress_site_elementor_quillform_is_not/</guid>
+      <pubDate>Tue, 06 Feb 2024 03:14:55 GMT</pubDate>
+    </item>
     <item>
       <title>没有经验可以找到一份 Typescript 工作吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajzwfp/can_one_land_a_typescript_job_without_experience/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>有没有办法在画布 API 中利用更高的位深度？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</link>
-      <description><![CDATA[我正在做一些反馈效果，这些效果依赖于能够重叠和平均多个画布图像。 令我惊讶的是，循环每个像素进行处理不会导致瓶颈，而只是像缓冲区一样获取画布数据！我很想在画布上做所有事情，但不幸的是，由于画布上限为 255，所以无法执行多个画布的平均值之类的操作。 有没有办法“解锁， ”该值并以暂时高于 255 的方式执行画布合成功能？   由   提交 /u/zachtheperson   [链接] [评论]]]></description>
+      <description><![CDATA[我正在做一些反馈效果，这些效果依赖于能够重叠和平均多个画布图像。 令我惊讶的是，循环每个像素进行处理不会导致瓶颈，而只是像缓冲区一样获取画布数据！我很想在画布上做所有事情，但不幸的是，由于画布上限为 255，因此无法执行多个画布的平均值之类的操作。 有没有办法“解锁， ”该值并以暂时高于 255 的方式执行画布合成功能？   由   提交 /u/zachtheperson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</guid>
       <pubDate>Tue, 06 Feb 2024 02:52:33 GMT</pubDate>
     </item>
@@ -25,20 +67,6 @@
       <description><![CDATA[我是自由 Web 开发人员，我有使用 Django 和 ExpressJs 的经验。现在我有机会使用 CPanel 工作，但我面临着一个大问题。 使用 CPanel 我无法提供 Fast React 应用程序或任何动态网站。任何人都可以建议我一个好的轻量级框架吗？ 或者如果有人有 CPanel 的经验，如果你遇到了同样的问题，你是如何解决它的？    由   提交/u/No-Cauliflower-2825   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajzby1/best_lightweight_framework_for_cpanel/</guid>
       <pubDate>Tue, 06 Feb 2024 02:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有诚实的网络开发人员可以问我一些问题吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajzafm/any_honest_web_developers_out_there_that_i_can/</link>
-      <description><![CDATA[像大多数缺乏网页设计经验的人一样，我相信我有一个好主意。  但是，我知道每个人都相信这一点，所以我希望找到一个有信誉的诚实的人来批评、关闭，基本上是对我的想法进行拉屎，让我知道为什么它不可行，或者不会从经济上讲没有意义。  当我说诚实时，我基本上指的是那些不会“逃跑”我的想法的人。  我知道这是互联网，无论如何都不可能真正信任某人。但我希望有人不介意倾听并提供一些建议。  我希望我在这里没有要求太多，如果这不是正确的地方，我深表歉意。  我已经在谷歌上搜索并查找了开发人员，但没有得到我需要的信息。  因此，如果有知识的人可以帮助我，那就太好了。我想要的只是改善我的生活，我希望从有经验的人那里获得意见可以让我走上正轨。   由   提交 /u/Thementalistt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajzafm/any_honest_web_developers_out_there_that_i_can/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>通常有多少人参与制作一个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajz2z8/how_many_people_are_usually_involved_in_making_a/</link>
-      <description><![CDATA[每个参与者从开始到结束的整个过程是什么？  &amp; #32；由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajz2z8/how_many_people_are_usually_involved_in_making_a/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:33:52 GMT</pubDate>
     </item>
     <item>
       <title>如何在 SVG 矩形上复制 Photoshop 中的溶解混合模式？</title>
@@ -57,7 +85,7 @@
     <item>
       <title>您如何推广您的项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</link>
-      <description><![CDATA[我正在完成一个业余项目 Web 应用程序的工作，只是弄清楚如何推广它是令人畏惧的。我知道我可以把钱投入到广告的黑匣子中 - 但我说的是向人们展示你所做的事情的良好时尚行为。我也知道SEO非常重要，但那只能被动地吸引用户。另外，如果你的网站是利基市场，SEO 只能做这么多。 这很糟糕，因为大多数与我的项目远程相关的子版块和不和谐服务器都有禁止自我推销的规则（尽管它们似乎一直被打破）。我唯一能想到的地方是Product Hunt，但他们似乎要求你发布全名，这可以理解，但对我来说有点紧张。 那么，你通常如何宣传你的产品？项目？   由   提交 /u/unwriting_rules   [链接] [评论]]]></description>
+      <description><![CDATA[我正在完成一个业余项目 Web 应用程序的工作，只是弄清楚如何推广它是令人畏惧的。我知道我可以把钱投入到广告的黑匣子中 - 但我说的是向人们展示你所做的事情的良好时尚行为。我也知道SEO非常重要，但那只能被动地吸引用户。另外，如果你的网站是利基市场，搜索引擎优化只能做这么多。一直被打破）。我唯一能想到的地方是Product Hunt，但他们似乎要求你发布你的全名，这可以理解，但对我来说有点紧张。 那么，你通常如何宣传你的产品？项目？   由   提交 /u/unwriting_rules   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</guid>
       <pubDate>Tue, 06 Feb 2024 01:11:51 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[    /u/Seanitzel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajwiel/how_to_make_web_share_work_with_files/</guid>
       <pubDate>Tue, 06 Feb 2024 00:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>接待的好地方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajwefi/a_good_place_to_host/</link>
-      <description><![CDATA[当然，这个问题被问到的人比地球上的人还要多，但我在这里。 我专门使用 Vue。 Node.js（前）、ASP.net（后 REST API）和 MongoDB（我只是使用 atlas 的免费 ATM，但一旦我准备好启动我的 Web 应用程序，就可以升级到无服务器）哪里有一个不贵的好地方成为主持。感谢您的帮助！   由   提交 /u/dragonfrut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajwefi/a_good_place_to_host/</guid>
-      <pubDate>Tue, 06 Feb 2024 00:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>html 视频控件非常庞大</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajvo1q/html_video_controls_are_massive/</link>
-      <description><![CDATA[      我的 html 视频播放器具有大规模扩展的控件。我设法独立缩放控件，但它使按钮在一定比例下无法单击。如果我不进行任何缩放，我通常会得到这样的结果。  https://preview.redd .it/q73o5k05uugc1.png?width=835&amp;format=png&amp;auto=webp&amp;s=ca425eb3718430ad37a3caa88c78f33dcb253c16 我尝试缩放，按钮无法单击。  视频 { 变换原点：左上角；变换：缩放（0.2）； /* 也缩放控件 */ width: 500%; }  ​ .ThumbnailGridArea { 网格区域：1 / 1 / 跨度 2 / 跨度 1;显示：内联块； }  ​  &lt;视频控制={true} style={{pointerEvents:“auto”, }}&gt; &lt;源 src={videothing} 类型=“视频/mp4” &gt;&gt; &lt;/视频&gt;   ​ https://preview.redd.it/edj82aymuugc1.png?width=1007&amp;format=png&amp;auto=webp&amp;s=a20dfe120afb18581d81ade166f1954f7a316 4a0 &lt; !-- SC_ON --&gt;  由   提交/u/couchpotatochip21   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajvo1q/html_video_controls_are_massive/</guid>
-      <pubDate>Mon, 05 Feb 2024 23:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>离线持久用户存储的想法 - PWA</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajuvin/ideas_for_offline_persistent_user_storage_pwa/</link>
-      <description><![CDATA[嗨，我真的可以使用一些建议来确定我的前端的数据存储。我正在使用 Vue 3，希望在本地保存用户数据，而不必使用数据库。我研究过indexedDB（dexiejs），尽管我听说这不是一个好的长期持久解决方案，因为我希望我的用户无限期地拥有他们的数据。我不想处理云解决方案和数据库，因为它需要用户身份验证，从那里它变得复杂。有人有什么建议或想法吗？我听说过文件系统 api，尽管我不确定它的读/写能力，而且我还没有找到足够的资源。  谢谢！   由   提交/u/ali_k23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajuvin/ideas_for_offline_persistent_user_storage_pwa/</guid>
-      <pubDate>Mon, 05 Feb 2024 23:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于电子邮件的交易 - 最好的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajusx0/emailbased_transactions_best_way_to_do_it/</link>
-      <description><![CDATA[我正在构建一个可以促进交易的网络应用程序。交易有两方——买方和卖方。双方均已关联其付款帐户。 在这种情况下，卖方必须通过电子邮件向买方提供商品。为了代理交易，需要有一个中间人，货物首先由我的应用程序验证，然后才能转发给买家。一旦我的应用程序验证了电子邮件，该应用程序将自动促进付款，并且商品将转发到买家的个人电子邮件地址。 我最初的计划是为每笔交易生成一个唯一的电子邮件地址（类似于 12345@my-app.com）。卖家可以通过电子邮件将他们的商品发送到那里，我的应用程序可以读取并验证它，然后将商品转发给买家。 我找到了一个可以为我生成随机 gmail 的 API，但它无法满足原因如下： - 它一次只允许一封活动电子邮件 - 它仅适用于 gmail 所以我不得不重新考虑我的设计。一种选择是采用单一的方式，仅使用一个电子邮件地址作为中介，但这感觉不具有可扩展性、安全性或可靠性。每笔交易拥有唯一的地址可以使索引和回溯变得更加容易。 主要是，我正在寻找有关如何创建一个程序来为我的应用大规模生成唯一电子邮件地址的建议。它可能是 100 多个地址的集合列​​表，这些地址会被使用然后被擦除。我不知道从这里去哪里，希望得到任何反馈或建议！谢谢   由   提交/u/Longjumping-Speed511  /u/Longjumping-Speed511 reddit.com/r/webdev/comments/1ajusx0/emailbased_transactions_best_way_to_do_it/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajusx0/emailbased_transactions_best_way_to_do_it/</guid>
-      <pubDate>Mon, 05 Feb 2024 23:18:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
