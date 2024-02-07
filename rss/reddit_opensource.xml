@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 07 Feb 2024 18:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 21:12:04 GMT</lastBuildDate>
+    <item>
+      <title>非开发经验贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ald308/nondev_experience_contributing/</link>
+      <description><![CDATA[大家好， 我是一名致力于 PM/TPM 角色的 SWE。我希望学习和加强上述角色的技能，并认为为开源做出贡献将是一个好方法。  这里有人有编写代码之外的贡献经验吗？你是如何做出贡献的？您是如何决定参与一个项目的？  谢谢。   由   提交/u/just_happy_2_b_here  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ald308/nondev_experience_contributing/</guid>
+      <pubDate>Wed, 07 Feb 2024 20:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>云原生计算基金会项目排名</title>
+      <link>https://www.reddit.com/r/opensource/comments/1alcdj8/ranking_cloud_native_computing_foundation_projects/</link>
+      <description><![CDATA[大家好，我已经启动了一个项目根据关键度分数对孵化和毕业的 CNCF 项目（地球上最重要的开源软件之一）进行排名。欢迎任何反馈或贡献😊    ;由   提交/u/0111001101110010   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1alcdj8/ranking_cloud_native_computing_foundation_projects/</guid>
+      <pubDate>Wed, 07 Feb 2024 20:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>瓢虫浏览器项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1albpfm/the_ladybird_browser_project/</link>
+      <description><![CDATA[ 由   提交/u/brbee07   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1albpfm/the_ladybird_browser_project/</guid>
+      <pubDate>Wed, 07 Feb 2024 19:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 Codeium 内置自动完成功能的 React 代码编辑器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1alatx1/react_code_editor_with_codeiums_autocomplete/</link>
+      <description><![CDATA[嘿！我在 Codeium 的团队刚刚发布了一个开源项目，允许任何开发人员在一个内置自动完成功能的网站。使用自动完成功能不需要注册，您可以在​​此处尝试编辑器的实时版本。让我们知道您的想法！ https://github.com/Exafunction/codeium-反应代码编辑器   由   提交 /u/andyzg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1alatx1/react_code_editor_with_codeiums_autocomplete/</guid>
+      <pubDate>Wed, 07 Feb 2024 19:08:13 GMT</pubDate>
+    </item>
     <item>
       <title>用于下载 Spotify 播放列表的 WebUI！</title>
       <link>https://www.reddit.com/r/opensource/comments/1al6qs4/webui_for_downloading_spotify_playlists/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我正在考虑启动自己的开源项目，该项目与 Suricata 具有类似但不同的功能，因此旨在执行网络入侵检测各种方式。 我开始想知道，我该如何建立一个项目，使其实际上对人们有用并且会被使用。我想我必须应对的两个主要挑战是首先使项目启动，并在暴露于更广泛的不断变化的用户需求时多年来维护项目。 什么代码实践您认为，项目属性或其他技术对确定开源项目成功有很大影响吗？ 我渴望从您的经验中学习。 到目前为止，这是我找到的最佳资源： https://open .nytimes.com/how-to-take-your-open-source-project-from-good-to-great-49c392175e5c  &amp;# 32；由   提交/u/Koen1999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ak5227/what_makes_an_open_source_project_succeedfail_in/</guid>
       <pubDate>Tue, 06 Feb 2024 08:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁愿意建立一个真正的开源、基于网络的办公室？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ak1wa2/whos_down_to_build_a_truly_opensource_webbased/</link>
-      <description><![CDATA[我是 Puter 的创建者，一个基于网络的“操作系统”。近一年来，我们一直在尝试向 Puter 添加办公套件。唯一真正的选择是 OnlyOffice，尽管他们声称是开源的，但事实与事实相去甚远：他们有 &lt; a href=&quot;https://forum.onlyoffice.com/t/what-exactly-is-document-server-20-connection-limit/4481&quot;&gt;代码中的人为限制，使用非标准修改AGPL许可证，并且编译源代码极其困难，几乎不可能。对于任何有用的东西，您都必须购买企业许可证。 ​ 世界缺乏真正的、100% 开源的办公套件。这里有人有兴趣和我一起建造一个吗？我知道这很疯狂，但有可能！   由   提交 /u/mitousa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ak1wa2/whos_down_to_build_a_truly_opensource_webbased/</guid>
-      <pubDate>Tue, 06 Feb 2024 05:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试为 Visual Studio Code 贡献 r/ADHD_Programmers 的生产力提升功能，如果您喜欢，请点赞！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ajysjq/trying_to_contribute_a_productivity_booster/</link>
-      <description><![CDATA[ 由   提交 /u/Maximetinu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ajysjq/trying_to_contribute_a_productivity_booster/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源开发人员：您见过闭源替代方案的创建者吗？它怎么样？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ajtbni/open_sourced_devs_have_you_ever_met_the_creators/</link>
-      <description><![CDATA[目前是为期 3 天的会议的第一天，刚刚与我们最大的闭源替代方案的创建者会面。他们荒谬的定价和过于复杂的软件确实激励我构建一个开源替代方案。  从那时起，他们的一些企业客户已转向我们，并且值得庆幸的是，他们一直在经济上支持我（可能支付的费用是之前的 1/10 xD）。无论如何，互动非常不舒服，而且他们非常粗鲁。这里还有其他人遇到过这种情况吗？请告诉我它会比这更好！    由   提交/u/2_3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ajtbni/open_sourced_devs_have_you_ever_met_the_creators/</guid>
-      <pubDate>Mon, 05 Feb 2024 22:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要放弃变焦吗？探索 MiroTalk SFU 的强大功能 - 开源替代方案！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ajnuny/want_to_ditch_zoom_explore_the_power_of_mirotalk/</link>
-      <description><![CDATA[https://github.com/miroslavpejic85/mirotalksfu   由   提交/u/mirotalk  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ajnuny/want_to_ditch_zoom_explore_the_power_of_mirotalk/</guid>
-      <pubDate>Mon, 05 Feb 2024 18:36:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
