@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 09:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:21:31 GMT</lastBuildDate>
+    <item>
+      <title>入门？ [自雇]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al1bdf/getting_started_self_employed/</link>
+      <description><![CDATA[尚未接近技能水平。但我想知道一些事情： 您什么时候有足够的信心从副项目转向接待客户？  成为一名完全远程自由职业者有多容易或多困难？   由   提交/u/Zarathustra_04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al1bdf/getting_started_self_employed/</guid>
+      <pubDate>Wed, 07 Feb 2024 12:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用svg作为剪辑路径错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al12pi/using_svg_as_clip_path_error/</link>
+      <description><![CDATA[我在 svg 中有一个边框，当我将其用作剪辑路径时，它似乎与其内部内容重叠，这可能是因为它的导出方式来自 Adob​​e Illustrator，但不知道如何修复。下面的演示我提供了两个示例，一个有边框（左），一个没有（右） https: //codepen.io/iliyan7305/pen/wvOxpPX   由   提交 /u/TrashPandu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al12pi/using_svg_as_clip_path_error/</guid>
+      <pubDate>Wed, 07 Feb 2024 11:44:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 PixiJS 教程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akz0vr/pixijs_tutorial_needed/</link>
+      <description><![CDATA[您好，有人可以建议我如何学习 pixiJS 吗？任何提示、视频教程或任何东西都将不胜感激。   由   提交/u/great_finger1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akz0vr/pixijs_tutorial_needed/</guid>
+      <pubDate>Wed, 07 Feb 2024 09:20:30 GMT</pubDate>
+    </item>
     <item>
       <title>如果我希望布局元素在台式机和笔记本电脑上看起来都很好，我应该使用什么单位？</title>
       <link>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在寻找与特定技术堆栈和最佳实践紧密结合的教程（或一系列教程）。我的目标是掌握构建可扩展的全栈系统。以下是我关注的技术的简要概述：  前端：React（包括状态管理和挂钩）、TypeScript 和 CSS 预处理器（例如 SASS）。&lt; /li&gt; 后端：Node.js 与 Express.js、MongoDB（包括架构设计和索引）以及实现安全身份验证 (JWT/OAuth)。 &lt;集装箱化&amp;编排：精通用于容器化的 Docker 和用于编排的 Kubernetes。 DevOps 和 Kubernetes。 CI/CD：熟悉 CI/CD 工具（Jenkins/GitLab CI/CD/GitHub Actions），以及使用 Terraform 或 CloudFormation 的基础设施即代码 (IaC)。 云服务：了解云提供商（AWS/Azure/Google Cloud）及其容器和数据库托管服务。 监控和管理日志记录：使用 Winston/Morgan 等工具实现日志记录，并使用 Prometheus/Grafana 或 ELK Stack 进行监控。 安全性：了解安全编码实践、网络安全、HTTPS、TLS ，并保护应用程序免受常见漏洞的影响。 性能优化：负载平衡（NGINX/HAProxy）、Redis 缓存策略以及速率限制。  该教程最好向某人展示如何使用这些技术实际构建整个系统，并以视频格式解释决策和步骤。 有人知道符合此要求的任何资源吗？ ？以视频格式呈现的堆栈各个部分的建议也将受到高度赞赏。 提前致谢！！！   由   提交 /u/naptowin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aksls1/looking_for_a_comprehensive_tutorial_on_building/</guid>
       <pubDate>Wed, 07 Feb 2024 02:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁是最好的 CS/编程老师？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akrxoa/who_are_the_best_csprogramming_teachers/</link>
-      <description><![CDATA[我是一名编程老师，一直在寻找新的榜样和可以学习的人。非常感谢！   由   提交 /u/BeerIsTheMindKiller   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akrxoa/who_are_the_best_csprogramming_teachers/</guid>
-      <pubDate>Wed, 07 Feb 2024 02:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyber​​Bytes 播客：开源安全转向解决供应链问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akrl8e/cyberbytes_podcast_open_source_security_shifts/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akrl8e/cyberbytes_podcast_open_source_security_shifts/</guid>
-      <pubDate>Wed, 07 Feb 2024 02:04:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - DavidAI2024/DrugGeneExplorer: 此 Python 脚本旨在使用用于自然语言处理的 Sydney 模块和药物基因相互作用数据库 (DGIdb) API 提供有关药物和基因之间相互作用的详细信息。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akqak0/github_davidai2024druggeneexplorer_this_python/</link>
-      <description><![CDATA[   大家好！ 🌟 我很高兴向您介绍 DrugGeneExplorer，这是一款功能强大的交互式 Python 工具，它利用 Sydney AI 的功能来探索药物与基因之间复杂的相互作用。通过 DrugGeneExplorer，您可以分析药物如何影响基因表达和功能，并提供有关以下方面的详细信息：副作用、治疗意义和研究发现。得益于丰富的库，用户界面的视觉风格更加丰富，使体验既信息丰富又引人入胜。我邀请您尝试 DrugGeneExplorer，提供反馈，如果您发现它有价值，请考虑在 GitHub 上留下一个星星。您的明星推动了该工具的持续支持和发展！感谢您对 DrugGeneExplorer 发展的兴趣和贡献。 🚀   由   提交 /u/FruitysX   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akqak0/github_davidai2024druggeneexplorer_this_python/</guid>
-      <pubDate>Wed, 07 Feb 2024 01:03:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
