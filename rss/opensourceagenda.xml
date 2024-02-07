@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 07 Feb 2024 06:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 09:14:13 GMT</lastBuildDate>
     <item>
-      <title>空间媒体工具包</title>
-      <link>https://www.opensourceagenda.com/projects/spatialmediakit</link>
-      <description><![CDATA[在 Apple Silicon Mac 上创建和分割 MV-HEVC 视频文件。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/spatialmediakit</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>英雄联盟脚本</title>
-      <link>https://www.opensourceagenda.com/projects/league-of-legends-script</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/league-of-legends-script</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pkl Lang.org</title>
-      <link>https://www.opensourceagenda.com/projects/pkl-langorg</link>
-      <description><![CDATA[pkl-lang.org 网站]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pkl-langorg</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复蒂姆</title>
-      <link>https://www.opensourceagenda.com/projects/fixtim</link>
-      <description><![CDATA[修复 macOS 上的每个运行时错误。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fixtim</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>深AAT</title>
-      <link>https://www.opensourceagenda.com/projects/deepaat</link>
-      <description><![CDATA[深度自动化空中三角测量，用于基于无人机的快速测绘]]></description>
-      <guid>https://www.opensourceagenda.com/projects/deepaat</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>C1ph3rX13 变体</title>
-      <link>https://www.opensourceagenda.com/projects/c1ph3rx13-variant</link>
-      <description><![CDATA[Go 反病毒框架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/c1ph3rx13-variant</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>秘密像素</title>
-      <link>https://www.opensourceagenda.com/projects/secretpixel</link>
-      <description><![CDATA[SecretPixel 是一款尖端的隐写工具，旨在安全地隐藏图像中的敏感信息。它通过结合先进的加密、压缩和种子最低有效位 (LSB) 技术，为无法检测到的嵌入数据提供强大的解决方案，从而在数字隐写术领域脱颖而出。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/secretpixel</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>布鲁斯普回忆录</title>
-      <link>https://www.opensourceagenda.com/projects/brucepro-memoir</link>
-      <description><![CDATA[Memoir+ 是 Text Gen Web UI 的角色扩展。这包括记忆、情绪、命令处理等等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/brucepro-memoir</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ProFive TradingView 高级版</title>
-      <link>https://www.opensourceagenda.com/projects/profive-tradingview-premium</link>
-      <description><![CDATA[TradingView 免费高级版]]></description>
-      <guid>https://www.opensourceagenda.com/projects/profive-tradingview-premium</guid>
-      <pubDate>Wed, 07 Feb 2024 06:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>反广告拦截</title>
-      <link>https://www.opensourceagenda.com/projects/antiantiadblock</link>
-      <description><![CDATA[自定义广告拦截器规则，用于拦截 MailRu、Yandex、Yahoo...等的垃圾广告。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/antiantiadblock</guid>
-      <pubDate>Wed, 07 Feb 2024 06:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fortnite Soultaker 账户盗取者</title>
-      <link>https://www.opensourceagenda.com/projects/fortnite-soultaker-account-stealer</link>
-      <description><![CDATA[功能强大，工作稳定，最好的 Fortnite 窃取者 | SOCKS 5 支持]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fortnite-soultaker-account-stealer</guid>
-      <pubDate>Wed, 07 Feb 2024 06:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>锈握</title>
-      <link>https://www.opensourceagenda.com/projects/rust-grep</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rust-grep</guid>
-      <pubDate>Wed, 07 Feb 2024 06:16:59 GMT</pubDate>
+      <title>不错的反应代码</title>
+      <link>https://www.opensourceagenda.com/projects/nice-react-ticker</link>
+      <description><![CDATA[镇上最好的反应代码！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nice-react-ticker</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:13 GMT</pubDate>
     </item>
     <item>
       <title>被笼罩的社区</title>
       <link>https://www.opensourceagenda.com/projects/enshrouded-community</link>
       <description><![CDATA[用于自托管游戏《Enshrouded》的指南、文件和设置存储库。]]></description>
       <guid>https://www.opensourceagenda.com/projects/enshrouded-community</guid>
-      <pubDate>Wed, 07 Feb 2024 06:16:58 GMT</pubDate>
+      <pubDate>Wed, 07 Feb 2024 09:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>点斜线</title>
-      <link>https://www.opensourceagenda.com/projects/dotslash</link>
-      <description><![CDATA[简化的可执行文件部署]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotslash</guid>
-      <pubDate>Wed, 07 Feb 2024 06:16:58 GMT</pubDate>
+      <title>新兴市场的交易策略 Coursera</title>
+      <link>https://www.opensourceagenda.com/projects/trading-strategies-in-emerging-markets-coursera</link>
+      <description><![CDATA[设计您自己的交易策略]]></description>
+      <guid>https://www.opensourceagenda.com/projects/trading-strategies-in-emerging-markets-coursera</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>纳米电子饲料</title>
-      <link>https://www.opensourceagenda.com/projects/nano-elfeed</link>
-      <description><![CDATA[elfeed（新闻阅读器）的 Emacs 配置文件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nano-elfeed</guid>
-      <pubDate>Wed, 07 Feb 2024 06:16:58 GMT</pubDate>
+      <title>谢客户</title>
+      <link>https://www.opensourceagenda.com/projects/tse-client</link>
+      <description><![CDATA[用于从德黑兰证券交易所 (TSETMC) 获取股票数据的客户端。可在浏览器、节点和 CLI 中工作。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tse-client</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币股票行情</title>
+      <link>https://www.opensourceagenda.com/projects/btc-ticker</link>
+      <description><![CDATA[连接到 rasberry 零 WH 的 2.7 英寸电子纸上的 BTC Ticker]]></description>
+      <guid>https://www.opensourceagenda.com/projects/btc-ticker</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Framer 运动收录器</title>
+      <link>https://www.opensourceagenda.com/projects/framer-motion-ticker</link>
+      <description><![CDATA[用framer-motion制作的简单的股票代码。无限无缝地滚动元素。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/framer-motion-ticker</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>IOTA套利</title>
+      <link>https://www.opensourceagenda.com/projects/iota-arbitrage</link>
+      <description><![CDATA[🔷 IOTA 套利 🔷（实时报价 IOTA / 以太坊 / 比特币）| ⛓ https://ayidouble.github.io/IOTA-Arbitrage ⛓]]></description>
+      <guid>https://www.opensourceagenda.com/projects/iota-arbitrage</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币</title>
+      <link>https://www.opensourceagenda.com/projects/btcbar</link>
+      <description><![CDATA[适用于 OS X 的小型状态栏小部件，显示多个代码的最新现货价格]]></description>
+      <guid>https://www.opensourceagenda.com/projects/btcbar</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>马科斯·戈纳隆斯 Tradingview Scraper</title>
+      <link>https://www.opensourceagenda.com/projects/marcos-gonalons-tradingview-scraper</link>
+      <description><![CDATA[从 TradingView 套接字实时获取任何市场数据 :) 即可使用在您的 Golang 项目中！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/marcos-gonalons-tradingview-scraper</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 高级新闻行情</title>
+      <link>https://www.opensourceagenda.com/projects/react-advanced-news-ticker</link>
+      <description><![CDATA[一个强大、灵活、轻量级且动画的 React 垂直新闻滚动条组件。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-advanced-news-ticker</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>火瓦兹克斯</title>
+      <link>https://www.opensourceagenda.com/projects/wazirx-api</link>
+      <description><![CDATA[Wazirx API 文档]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wazirx-api</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>货运坦帕斯工作室</title>
+      <link>https://www.opensourceagenda.com/projects/studio-freight-tempus</link>
+      <description><![CDATA[整个应用仅使用一个 requestAnimationFrame]]></description>
+      <guid>https://www.opensourceagenda.com/projects/studio-freight-tempus</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速反应选框</title>
+      <link>https://www.opensourceagenda.com/projects/react-fast-marquee</link>
+      <description><![CDATA[一个轻量级的 React 组件，利用 CSS 动画的力量来创建丝般光滑的选取框。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-fast-marquee</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>安达曼货币信息服务</title>
+      <link>https://www.opensourceagenda.com/projects/adamant-currencyinfo-services</link>
+      <description><![CDATA[自托管加密货币和法定货币汇率服务提供商。 MOEX、Currency-Api、ExchangeRate.host、Coinmarketcap、CryptoCompare 和 Coingecko。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/adamant-currencyinfo-services</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Imxeno Tradingview 刮刀</title>
+      <link>https://www.opensourceagenda.com/projects/imxeno-tradingview-scraper</link>
+      <description><![CDATA[Node.js 应用程序的 TradingView 数据网关！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/imxeno-tradingview-scraper</guid>
+      <pubDate>Wed, 07 Feb 2024 09:14:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

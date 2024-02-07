@@ -4,13 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 07 Feb 2024 06:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 09:13:15 GMT</lastBuildDate>
     <item>
-      <title>在教程视频出错后，Express JS Github 存储库被虚假 PR 发送垃圾邮件</title>
-      <link>https://www.reddit.com/r/programming/comments/1akv7v6/the_express_js_github_repo_is_being_spammed_by/</link>
-      <description><![CDATA[ 由   提交 /u/Witty-Play9499   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1akv7v6/the_express_js_github_repo_is_being_spammed_by/</guid>
-      <pubDate>Wed, 07 Feb 2024 05:08:48 GMT</pubDate>
+      <title>API 授权最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1akypcx/bestpractices_for_api_authorization/</link>
+      <description><![CDATA[ 由   提交/u/Due-Function4447  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akypcx/bestpractices_for_api_authorization/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:56:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docker 简介 - 一步一步</title>
+      <link>https://www.reddit.com/r/programming/comments/1akyl8r/docker_introduction_step_by_step/</link>
+      <description><![CDATA[ 由   提交/u/kyprogramming  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akyl8r/docker_introduction_step_by_step/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>早晨酿造#3876</title>
+      <link>https://www.reddit.com/r/programming/comments/1akyebe/the_morning_brew_3876/</link>
+      <description><![CDATA[ 由   提交/u/RecognitionDecent266  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akyebe/the_morning_brew_3876/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:33:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 的 textwrap 模块可以做的一切</title>
+      <link>https://www.reddit.com/r/programming/comments/1aky7ds/everything_you_can_do_with_pythons_textwrap_module/</link>
+      <description><![CDATA[ 由   提交 /u/Am4t3uR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aky7ds/everything_you_can_do_with_pythons_textwrap_module/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ada 中的十亿行挑战</title>
+      <link>https://www.reddit.com/r/programming/comments/1akxndj/the_one_billion_row_challenge_in_ada/</link>
+      <description><![CDATA[ 由   提交/u/jaypatelani  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akxndj/the_one_billion_row_challenge_in_ada/</guid>
+      <pubDate>Wed, 07 Feb 2024 07:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发可用算法的步骤。</title>
+      <link>https://www.reddit.com/r/programming/comments/1akxj5t/steps_to_developing_a_usable_algorithm/</link>
+      <description><![CDATA[ 由   提交 /u/altayali   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akxj5t/steps_to_developing_a_usable_algorithm/</guid>
+      <pubDate>Wed, 07 Feb 2024 07:31:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个空间计算和其他沉浸式技术职位的网站</title>
+      <link>https://www.reddit.com/r/programming/comments/1akxivo/i_made_a_site_for_jobs_in_spatial_computing_and/</link>
+      <description><![CDATA[ 由   提交 /u/WordyBug    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akxivo/i_made_a_site_for_jobs_in_spatial_computing_and/</guid>
+      <pubDate>Wed, 07 Feb 2024 07:30:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 10 个免费提示生成 React 或 HTML。使用 snipt.ai 的懒惰客户端开发工具。这是我第一次尝试创造产品；它简单又美丽。我很想得到有关它的反馈；可能有一些错误，所以要温柔🙃</title>
+      <link>https://www.reddit.com/r/programming/comments/1akwred/generate_react_or_html_with_10_free_prompts_tool/</link>
+      <description><![CDATA[ 由   提交 /u/YuvalKrispin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1akwred/generate_react_or_html_with_10_free_prompts_tool/</guid>
+      <pubDate>Wed, 07 Feb 2024 06:40:17 GMT</pubDate>
     </item>
     <item>
       <title>使用 Python 进行异步编程</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ako9sd/pocgtfo_22_reversing_security_zine_pdf/</guid>
       <pubDate>Tue, 06 Feb 2024 23:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭秘 GPU 计算架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1ako95j/demystifying_gpu_compute_architectures/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ako95j/demystifying_gpu_compute_architectures/</guid>
-      <pubDate>Tue, 06 Feb 2024 23:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是硬错误，是什么让它比简单错误更难？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ako7yu/what_is_a_hard_error_and_what_makes_it_harder/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ako7yu/what_is_a_hard_error_and_what_makes_it_harder/</guid>
-      <pubDate>Tue, 06 Feb 2024 23:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Go 中达成共识：Raft 实现</title>
-      <link>https://www.reddit.com/r/programming/comments/1ako53f/achieving_consensus_in_go_a_raft_implementation/</link>
-      <description><![CDATA[ 由   提交 /u/jmsadair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ako53f/achieving_consensus_in_go_a_raft_implementation/</guid>
-      <pubDate>Tue, 06 Feb 2024 23:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>SemanticDiff 与 Difftastic：它们有何不同？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aknsyz/semanticdiff_vs_difftastic_how_do_they_differ/</link>
-      <description><![CDATA[ 由   提交 /u/DarkPlayer2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aknsyz/semanticdiff_vs_difftastic_how_do_they_differ/</guid>
-      <pubDate>Tue, 06 Feb 2024 23:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种简单的技术让软件更可靠</title>
-      <link>https://www.reddit.com/r/programming/comments/1akmur5/a_simple_technique_for_more_reliable_software/</link>
-      <description><![CDATA[ 由   提交/u/rco8786  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1akmur5/a_simple_technique_for_more_reliable_software/</guid>
-      <pubDate>Tue, 06 Feb 2024 22:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitspace：使用 RxJS 的反应图</title>
-      <link>https://www.reddit.com/r/programming/comments/1aklpg0/bitspace_reactive_graphs_with_rxjs/</link>
-      <description><![CDATA[ 由   提交/u/Widiiz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aklpg0/bitspace_reactive_graphs_with_rxjs/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:47:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Actions 将静态站点部署到 GitHub Pages 的简单指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1akl7sn/simple_guide_to_deploy_static_site_to_github/</link>
-      <description><![CDATA[ 由   提交/u/rcxwhiz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1akl7sn/simple_guide_to_deploy_static_site_to_github/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:28:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
