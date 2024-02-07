@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 12:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 15:12:28 GMT</lastBuildDate>
+    <item>
+      <title>CSRF 保护和“让我保持登录状态”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al4dw8/csrf_protection_and_keep_me_logged_in/</link>
+      <description><![CDATA[想知道是否有人可以为我解释 CSRF 保护的某些方面。 ​ 假设我有一个与服务器通信的简单 HTML 客户端。它使用基于会话的身份验证，会话 ID 存储在 cookie 中。经过身份验证后，我可以访问受保护的路线来加载表格，例如允许我将钱转给其他人。现在我明白，正是这种设置使我容易受到 CSRF 攻击，为了防止这种情况，服务器将使用 CSRF 令牌向我的表单添加一个隐藏字段，然后需要使用表单操作将其发送回。 ​ 即使关闭并重新打开浏览器，我也希望能够保持登录状态。那么这是如何工作的呢？ ​ 如果我关闭并重新打开浏览器，然后返回转账页面，我假设服务器检查是否有有效的会话 ID已发送，如果是这样，则授予我对受保护路由的访问权限，生成新的 CSRF 令牌并将其添加到表单中，以便现在我可以使用表单操作将令牌发送回。 ​ ​ p&gt; 如何阻止使用 JS 的恶意网站复制该内容。因此，当我访问恶意页面时，它首先向我的服务器发送获取请求以访问受保护的路由。我的会话 cookie 将与请求一起发送，因此服务器不应该将包含 CSRF 令牌的转账页面发送回恶意网站，该网站可以检索该令牌并使用它来执行 CSRF 攻击。 &lt; p&gt;​ 我知道我对这个过程的理解有误，但我不确定哪里错了。   由   提交 /u/DuckBroker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al4dw8/csrf_protection_and_keep_me_logged_in/</guid>
+      <pubDate>Wed, 07 Feb 2024 14:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>缓解眼睛疲劳的小窍门？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al42bg/tips_for_eye_fatigue/</link>
+      <description><![CDATA[我知道这不是特定的 WebDev 主题，但它是相关的。 有关如何减轻长时间眼部疲劳的任何提示编码会话？ 我知道屏幕发出的蓝光会导致疲劳，但是是否有任何经过验证的、非噱头的事情需要考虑？ 我使用 Mac Studio 显示器夜班，但这并没有多大帮助，我读到有眼镜可以反射蓝光？想法？ ​   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al42bg/tips_for_eye_fatigue/</guid>
+      <pubDate>Wed, 07 Feb 2024 14:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>与设计师合作时，您对要求完成的桌面屏幕分辨率的偏好是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al3e3w/when_working_with_a_designer_what_your_preference/</link>
+      <description><![CDATA[我最近与一位设计师合作，只让他们制作了宽度为 1440px 的网站。 显然我得到了移动设备和平板电脑版本。 当您与设计师合作设计标准 5 页网站时，您要求为桌面制作什么分辨率版本？ ​ ​ p&gt; ​ ​ ​    ;由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al3e3w/when_working_with_a_designer_what_your_preference/</guid>
+      <pubDate>Wed, 07 Feb 2024 13:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>对Topics API的疑问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al38kh/doubt_about_the_topics_api/</link>
+      <description><![CDATA[我的网站每天有 1000 个新用户，这些用户通常不会重新进入，因为这在我的网站类型中没有意义. 我希望能够根据用户的喜好向他们展示他们可能感兴趣的内容 经过一些研究，我发现它不是这样工作的，它是专为大型 Adtech 公司收集信息而设计。我认为您只能看到在其学习的领域中的主题，因此，我的用户将只能看到在我的领域中学习的主题。 （在大多数用例中，我没有增加价值） 我认为像我这样的网站无法访问用户的主题。甚至，尽管所谓的 API 已经包含了所有可能的隐私，但除其他外，还制作了每周主题。  这是真的吗？  谢谢   由   提交 /u/LordSuricato   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al38kh/doubt_about_the_topics_api/</guid>
+      <pubDate>Wed, 07 Feb 2024 13:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>预订系统、付款和增值税</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al2vgy/booking_systems_payments_and_value_added_tax/</link>
+      <description><![CDATA[嗨， 不确定这如何适用于美国观众，但在英国，我们有增值税。增值税很复杂。它以不同的税率针对不同的项目支付，并根据纳税点日期计算，而纳税点日期本身是根据许多变量计算的。  这是我的问题 - 任何人都可以向我指出可以实现的数据结构和方法的方向，以解决（请原谅双关语）复杂性。  我正在构建一个预订系统，以便可以进行付款，然后对预订详细信息进行调整，这意味着适用于付款的费率可能会发生变化。这不仅仅是收取付款、将付款分配给某个行项目然后忘记所有事情直到时间结束的情况。  任何帮助，感激不尽。   由   提交/u/Wotsits1984  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al2vgy/booking_systems_payments_and_value_added_tax/</guid>
+      <pubDate>Wed, 07 Feb 2024 13:26:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>预订系统、付款和增值税</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al2vex/booking_systems_payments_and_value_added_tax/</link>
+      <description><![CDATA[嗨， 不确定这如何适用于美国观众，但在英国，我们有增值税。增值税很复杂。它以不同的税率针对不同的项目支付，并根据纳税点日期计算，而纳税点日期本身是根据许多变量计算的。  这是我的问题 - 任何人都可以向我指出可以实现的数据结构和方法的方向，以解决（请原谅双关语）复杂性。  我正在构建一个预订系统，以便可以进行付款，然后对预订详细信息进行调整，这意味着适用于付款的费率可能会发生变化。这不仅仅是收取付款、将付款分配给某个行项目然后忘记所有事情直到时间结束的情况。  任何帮助，感激不尽。   由   提交/u/Wotsits1984  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al2vex/booking_systems_payments_and_value_added_tax/</guid>
+      <pubDate>Wed, 07 Feb 2024 13:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于网站开发最后阶段的问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al1syo/question_about_the_final_stage_of_website/</link>
+      <description><![CDATA[各位 Web 开发人员大家好。我正在寻找你的一些经验分享。我已经创建了一个 Spring boot 项目，得到了一个 Debian 服务器（我知道如何使用它）和一个域名。 如何将这些单独的部分组合成一个网站，哪种方法最稳定、最现代？我知道我需要安装的唯一其他部分是 Nginx/Apache 服务器来托管 Spring boot 并给出我的域名？ 如何在服务器上传输/更新 Spring boot？我正在考虑将代码上传到 Github 并手动保持代码最新。个人项目不需要使用任何其他工具，对吧。    由   提交 /u/Next-Manager3333    reddit.com/r/webdev/comments/1al1syo/question_about_the_final_stage_of_website/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al1syo/question_about_the_final_stage_of_website/</guid>
+      <pubDate>Wed, 07 Feb 2024 12:28:40 GMT</pubDate>
+    </item>
     <item>
       <title>入门？ [自雇]</title>
       <link>https://www.reddit.com/r/webdev/comments/1al1bdf/getting_started_self_employed/</link>
@@ -29,7 +78,7 @@
     <item>
       <title>如果我希望布局元素在台式机和笔记本电脑上看起来都很好，我应该使用什么单位？</title>
       <link>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</link>
-      <description><![CDATA[您好， 如果我想要布局，我应该使用什么单位来表示构成布局的元素的大小让大型桌面屏幕和小型笔记本电脑（现在不需要移动设备）看起来都不错？ 例如，如果我的布局只有很少的 div 和按钮，我是否应该在其宽度上使用百分比？ （我也尽量避免高度） 我制作的示例布局：https://imgur.com /a/ollYYI7 如何确保布局在两种屏幕尺寸上保持相同，并且不会“破坏”布局调整大小时，保持相同的比例，但如果可能的话，根据尺寸稍微调整一下，这样在较大的显示器上它会更大一点，在较小的笔记本电脑屏幕上它会更小，但不会太小 （因此台式机和笔记本电脑的布局应该是相同的，与移动设备不同，它们开始堆叠） 请注意，我不会考虑文本大小等内部测量，或者按钮的填充，对于这些我将使用 em、rem 等。 是否可以仅使用百分比来实现，或者我需要使用媒体查询来定位这些特定大小，例如：&lt; /p&gt; @media (min-width:801px) { /* 低分辨率笔记本电脑 */ } @media (min-width:1025px) { /*笔记本电脑和一些台式机 */ } @media (min-width:1281px) { /* 高分辨率笔记本电脑和台式机 */ }  然后为每个查询设置样式 ​ 谢谢   由   提交 /u/ligonsk   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 如果我想要布局，我应该使用什么单位来表示构成布局的元素的大小让大型台式机屏幕和小型笔记本电脑（现在不需要移动设备）看起来都不错？ 例如，如果我的布局只有很少的 div 和按钮，我是否应该在其宽度上使用百分比？ （我也尽量避免高度） 我制作的示例布局：https://imgur.com /a/ollYYI7 如何确保布局在两种屏幕尺寸上保持相同，并且不会“破坏”布局调整大小时，保持相同的比例，但如果可能的话，根据尺寸稍微调整一下，这样在较大的显示器上它会更大一点，在较小的笔记本电脑屏幕上它会更小，但不会太小 （因此台式机和笔记本电脑的布局应该是相同的，与移动设备不同，它们开始堆叠） 请注意，我不会考虑文本大小等内部测量，或者按钮的填充，对于这些我将使用 em、rem 等。 是否可以仅使用百分比来完成，或者我需要使用媒体查询来定位这些特定大小，例如：&lt; /p&gt; @media (min-width:801px) { /* 低分辨率笔记本电脑 */ } @media (min-width:1025px) { /*笔记本电脑和一些台式机 */ } @media (min-width:1281px) { /* 高分辨率笔记本电脑和台式机 */ }  然后为每个查询设置样式 ​ 谢谢   由   提交 /u/ligonsk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</guid>
       <pubDate>Wed, 07 Feb 2024 08:38:55 GMT</pubDate>
     </item>
@@ -48,13 +97,6 @@
       <pubDate>Wed, 07 Feb 2024 08:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>你好！需要帮助我应该选择什么课程。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akxupr/hello_need_help_on_what_course_should_i_take_up/</link>
-      <description><![CDATA[Udemy：HTML、CSS、JavaScript、React – 在线认证课程 哈佛大学：CS50 计算机科学概论   由   提交 /u/jopardee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akxupr/hello_need_help_on_what_course_should_i_take_up/</guid>
-      <pubDate>Wed, 07 Feb 2024 07:53:47 GMT</pubDate>
-    </item>
-    <item>
       <title>jQuery 4.0.0 测试版！发布和变更日志</title>
       <link>https://www.reddit.com/r/webdev/comments/1akws8n/jquery_400_beta_release_and_changelog/</link>
       <description><![CDATA[ 由   提交/u/gb_14  [链接] [评论]]]></description>
@@ -67,48 +109,6 @@
       <description><![CDATA[       由   提交/u/scorpio312  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akwngt/interop_2024_for_browsers_jpeg_xl_won_with_4x/</guid>
       <pubDate>Wed, 07 Feb 2024 06:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费托管 Flask socket-io 后端的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akwgph/what_is_the_best_way_to_host_a_flask_socketio/</link>
-      <description><![CDATA[我在 Vercel 上部署了前端，但它不支持 Web 套接字。目前我正在研究 fly.io，尽管我不确定可能遇到的任何限制。如有任何建议，我们将不胜感激！   由   提交 /u/SkirschAlt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akwgph/what_is_the_best_way_to_host_a_flask_socketio/</guid>
-      <pubDate>Wed, 07 Feb 2024 06:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于不同技术站点的 NGINX 代理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aktrca/nginx_proxy_for_different_tech_based_sites/</link>
-      <description><![CDATA[首先，我想说我是个菜鸟……并且让我提前感谢您对我的耐心。我并不是一个完全的编码菜鸟，我已经成为一名嵌入式工程师有一段时间了，主要使用 C/C++、Python、裸机，但也使用一些 RTOS 等。但是，所有这些 Web 内容（和 Docker）对我来说是完全陌生的我。我只是想尝试一下（不是以不尊重的方式，而是真正以一种好奇的方式——我非常尊重你们所有的网络向导），作为整合更多我的物联网设备之类的方式。我处理很多低级技术、协议开发、数据分析器等。甚至 JSON 的级别也比我真正习惯的要高。所以，我想...也许可以像一个技术四岁的孩子一样向我解释一下？基本上，我无法决定采用哪种网络技术堆栈，所以我希望能够使用其中一些。蟒蛇 &amp; Flask、Node.js、GoLang 等（这里也是您的推荐） 我有几个领域，而且我也在学习一些 AWS 技术，所以我想合并几个不同的领域事物。  想法：在 docker 容器中运行 NGINX 反向代理，将每个子域转发到 docker 容器中托管不同服务器的不同端口。例如，在我的盒子上，我希望有 flask.handsomeDomain.com、node.handsomeDomain.com，go.handsomeDomain.com，handsomeDomain.com，flask.uglyDomain.com，uglyDomain.com等 级别超高，这可能吗？我的意思是，我认为这是来自我一直在做的阅读。我似乎无法在行动中找到一个很好的例子。也许是因为大多数理智的人不会像这样故意混合竞争技术？再说一遍，我只是在学习。但是，如果你有一个令人信服的理由只使用一种技术，我会洗耳恭听 - 我真的不需要使用所有不同的技术堆栈，除了只是感受一下它们，然后可能最终切换到一种技术堆栈。这一切只是为了好玩。  我相信我会让每个服务器堆栈在不同的端口上运行，然后让 NGINX 看到每个子域和域中传入的流量，然后将其转发到服务器的正确端口？对于访客来说，一切都会看起来很漂亮，对吗？因为它将全部公开托管在端口 80 上？ 我认为我会有这样的目录结构： Sites - node.handsomeDomain.com - flask.handsomeDomain.com&lt; br /&gt; - handsomeDomain.com - uglyDomain.com &gt; - node.uglyDomain.com 等 Node heaven 将在端口上运行8000，flask在8001端口上很帅，在8002端口上很帅，等等。 最终，我想将它们全部打包在docker镜像中并部署容器。或者也许把它们全部放在一个容器中？我对此也不太确定。 Docker 是如此令人困惑，但又看起来如此简单。  我不确定它是否有帮助，但有更多背景信息：我有一个小型家庭实验室，运行着几台服务器。我在 Mac mini 上进行开发（阅读：我太便宜了，无法升级到 MacBook）。我已经安装了 Docker Desktop，并在本地试用了它。我真的不确定将代码部署到 AWS 中的远程服务器的最佳方法。吉特，我猜？如果有人对本地托管的 CI/CD 有任何建议，我也会洗耳恭听。我已经做了相当多的谷歌搜索，但我还没有确定任何事情。  在我的家庭实验室中，我运行 NodeRed、Mosquito MQTT、InfluxDB 来完成大部分家庭自动化和物联网接口。我已经在 Docker 中部署了所有这些服务，但这实际上是一个简单的命令，所以我真的不觉得我做了任何事情。 （除了我编写的 NodeRed 函数中的 javascript 之外）我希望在某个时刻将数据从 homelab 转储到某个域上的 API 中。 - 我不确定此信息是否相关，但这是最终目标。也许在我的 AWS 机器上托管一个 MQTT 服务器，然后将其填充到 NodeRed 中的数据库中？我也洗耳恭听。  如果我疯了或者只是愚蠢而我需要坚持使用位敲击，请告诉我。    由   提交 /u/ovrland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aktrca/nginx_proxy_for_different_tech_based_sites/</guid>
-      <pubDate>Wed, 07 Feb 2024 03:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADA 合规条款</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aktqdy/ada_compliance_clause/</link>
-      <description><![CDATA[对于那些提供网站设计服务的人，您的合同中是否有条款规定，如果有人因您的网站设计不当而起诉您，您无需承担责任是否符合无障碍/ADA 标准？ （这是考虑到您整个协议的一部分，当然不包括使网站符合 ADA 标准） ​ 该措辞是什么样的？ &lt; /div&gt;  由   提交/u/alohayas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aktqdy/ada_compliance_clause/</guid>
-      <pubDate>Wed, 07 Feb 2024 03:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有数字游牧民族吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aktpvw/any_digital_nomads/</link>
-      <description><![CDATA[大家好， 只是好奇这里是否有任何数字游牧网络开发人员（最好是非自由职业者）能够环游世界并为公司远程工作并获得稳定的收入？ 只是想知道您的体验如何？   由   提交 /u/Awkward-Lack-3601   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aktpvw/any_digital_nomads/</guid>
-      <pubDate>Wed, 07 Feb 2024 03:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅后端 Web 开发机构：寻求建议！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aktnh1/backendonly_web_dev_agency_seeking_advice/</link>
-      <description><![CDATA[嘿各位，你们有没有遇到过专门从事后端 API 工作的 Web 开发机构？ 我不是我自己是前端工作的忠实粉丝，并且一直在考虑启动自己的工作，只专注于后端。但我有点坚持那到底是什么样子。我不知道这是否是一个糟糕的想法，哈哈。 理想情况下，我会与处理前端的人合作，同时深入研究我喜欢称之为的后端魔法。还有其他人经历过类似的事情或有任何建议吗？ 干杯！ 🚀 编辑：我知道有后端开发公司，但我只是好奇这个过程是什么样的。这不像水管工或电工来找你说我想要一个网站。我也不能走进一家咖啡店说，我想给你建一个网站哈哈。 ​   由   提交 /u/McWipey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aktnh1/backendonly_web_dev_agency_seeking_advice/</guid>
-      <pubDate>Wed, 07 Feb 2024 03:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关使用 React、MongoDB、Docker 和 Kubernetes 构建可扩展的全栈系统的综合教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aksls1/looking_for_a_comprehensive_tutorial_on_building/</link>
-      <description><![CDATA[我正在寻找与特定技术堆栈和最佳实践紧密结合的教程（或一系列教程）。我的目标是掌握构建可扩展的全栈系统。以下是我关注的技术的简要概述：  前端：React（包括状态管理和挂钩）、TypeScript 和 CSS 预处理器（例如 SASS）。&lt; /li&gt; 后端：Node.js 与 Express.js、MongoDB（包括架构设计和索引）以及实现安全身份验证 (JWT/OAuth)。 &lt;集装箱化&amp;编排：精通用于容器化的 Docker 和用于编排的 Kubernetes。 DevOps 和 Kubernetes。 CI/CD：熟悉 CI/CD 工具（Jenkins/GitLab CI/CD/GitHub Actions），以及使用 Terraform 或 CloudFormation 的基础设施即代码 (IaC)。 云服务：了解云提供商（AWS/Azure/Google Cloud）及其容器和数据库托管服务。 监控和管理日志记录：使用 Winston/Morgan 等工具实现日志记录，并使用 Prometheus/Grafana 或 ELK Stack 进行监控。 安全性：了解安全编码实践、网络安全、HTTPS、TLS ，并保护应用程序免受常见漏洞的影响。 性能优化：负载平衡（NGINX/HAProxy）、Redis 缓存策略以及速率限制。  该教程最好向某人展示如何使用这些技术实际构建整个系统，并以视频格式解释决策和步骤。 有人知道符合此要求的任何资源吗？ ？以视频格式呈现的堆栈各个部分的建议也将受到高度赞赏。 提前致谢！！！   由   提交 /u/naptowin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aksls1/looking_for_a_comprehensive_tutorial_on_building/</guid>
-      <pubDate>Wed, 07 Feb 2024 02:53:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
