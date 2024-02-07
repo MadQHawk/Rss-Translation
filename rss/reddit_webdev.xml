@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 03:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 06:16:32 GMT</lastBuildDate>
+    <item>
+      <title>用于不同技术站点的 NGINX 代理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aktrca/nginx_proxy_for_different_tech_based_sites/</link>
+      <description><![CDATA[首先，我想说我是个菜鸟……并且让我提前感谢您对我的耐心。我并不是一个完全的编码菜鸟，我已经成为一名嵌入式工程师有一段时间了，主要使用 C/C++、Python、裸机，但也使用一些 RTOS 等。但是，所有这些 Web 内容（和 Docker）对我来说是完全陌生的我。我只是想尝试一下（不是以不尊重的方式，而是真正以一种好奇的方式——我非常尊重你们所有的网络向导），作为整合更多我的物联网设备之类的方式。我处理很多低级技术、协议开发、数据分析器等。甚至 JSON 的级别也比我真正习惯的要高。所以，我想...也许可以像一个技术四岁的孩子一样向我解释一下？基本上，我无法决定采用哪种网络技术堆栈，所以我希望能够使用其中一些。蟒蛇 &amp; Flask、Node.js、GoLang 等（这里也是您的推荐） 我有几个领域，而且我也在学习一些 AWS 技术，所以我想合并几个不同的领域事物。  想法：在 docker 容器中运行 NGINX 反向代理，将每个子域转发到 docker 容器中托管不同服务器的不同端口。例如，在我的盒子上，我希望有 flask.handsomeDomain.com、node.handsomeDomain.com，go.handsomeDomain.com，handsomeDomain.com，flask.uglyDomain.com，uglyDomain.com等 级别超高，这可能吗？我的意思是，我认为这是来自我一直在做的阅读。我似乎无法在行动中找到一个很好的例子。也许是因为大多数理智的人不会像这样故意混合竞争技术？再说一遍，我只是在学习。但是，如果你有一个令人信服的理由只使用一种技术，我会洗耳恭听 - 我真的不需要使用所有不同的技术堆栈，除了只是感受一下它们，然后可能最终切换到一种技术堆栈。这一切只是为了好玩。  我相信我会让每个服务器堆栈在不同的端口上运行，然后让 NGINX 看到每个子域和域中传入的流量，然后将其转发到服务器的正确端口？对于访客来说，一切都会看起来很漂亮，对吗？因为它将全部公开托管在端口 80 上？ 我认为我会有这样的目录结构： Sites - node.handsomeDomain.com - flask.handsomeDomain.com&lt; br /&gt; - handsomeDomain.com - uglyDomain.com &gt; - node.uglyDomain.com 等 Node heaven 将在端口上运行8000，flask在8001端口上很帅，在8002端口上很帅，等等。 最终，我想将它们全部打包在docker镜像中并部署容器。或者也许把它们全部放在一个容器中？我对此也不太确定。 Docker 是如此令人困惑，但又看起来如此简单。  我不确定它是否有帮助，但有更多背景信息：我有一个小型家庭实验室，运行着几台服务器。我在 Mac mini 上进行开发（阅读：我太便宜了，无法升级到 MacBook）。我已经安装了 Docker Desktop，并在本地试用了它。我真的不确定将代码部署到 AWS 中的远程服务器的最佳方法。吉特，我猜？如果有人对本地托管的 CI/CD 有任何建议，我也会洗耳恭听。我已经做了相当多的谷歌搜索，但我还没有确定任何事情。  在我的家庭实验室中，我运行 NodeRed、Mosquito MQTT、InfluxDB 来完成大部分家庭自动化和物联网接口。我已经在 Docker 中部署了所有这些服务，但这实际上是一个简单的命令，所以我真的不觉得我做了任何事情。 （除了我编写的 NodeRed 函数中的 javascript 之外）我希望在某个时刻将数据从 homelab 转储到某个域上的 API 中。 - 我不确定此信息是否相关，但这是最终目标。也许在我的 AWS 机器上托管一个 MQTT 服务器，然后将其填充到 NodeRed 中的数据库中？我也洗耳恭听。  如果我疯了或者只是愚蠢而我需要坚持使用位敲击，请告诉我。    由   提交 /u/ovrland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aktrca/nginx_proxy_for_different_tech_based_sites/</guid>
+      <pubDate>Wed, 07 Feb 2024 03:52:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADA 合规条款</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aktqdy/ada_compliance_clause/</link>
+      <description><![CDATA[对于那些提供网站设计服务的人，您的合同中是否有条款规定，如果有人因您的网站设计不当而起诉您，您无需承担责任是否符合无障碍/ADA 标准？ （这是考虑到您整个协议的一部分，当然不包括使网站符合 ADA 标准） ​ 该措辞是什么样的？ &lt; /div&gt;  由   提交/u/alohayas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aktqdy/ada_compliance_clause/</guid>
+      <pubDate>Wed, 07 Feb 2024 03:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有数字游牧民族吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aktpvw/any_digital_nomads/</link>
+      <description><![CDATA[大家好， 只是好奇这里是否有任何数字游牧网络开发人员（最好是非自由职业者）能够环游世界并为公司远程工作并获得稳定的收入？ 只是想知道您的体验如何？   由   提交 /u/Awkward-Lack-3601   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aktpvw/any_digital_nomads/</guid>
+      <pubDate>Wed, 07 Feb 2024 03:49:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅后端 Web 开发机构：寻求建议！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aktnh1/backendonly_web_dev_agency_seeking_advice/</link>
+      <description><![CDATA[嘿各位，你们有没有遇到过专门从事后端 API 工作的 Web 开发机构？ 我不是我自己是前端工作的忠实粉丝，并且一直在考虑启动自己的工作，只专注于后端。但我有点坚持那到底是什么样子。我不知道这是否是一个糟糕的想法，哈哈。 理想情况下，我会与处理前端的人合作，同时深入研究我喜欢称之为的后端魔法。还有其他人经历过类似的事情或有任何建议吗？ 干杯！ 🚀 编辑：我知道有后端开发公司，但我只是好奇这个过程是什么样的。这不像水管工或电工来找你说我想要一个网站。我也不能走进一家咖啡店说，我想给你建一个网站哈哈。 ​   由   提交 /u/McWipey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aktnh1/backendonly_web_dev_agency_seeking_advice/</guid>
+      <pubDate>Wed, 07 Feb 2024 03:46:26 GMT</pubDate>
+    </item>
     <item>
       <title>寻找有关使用 React、MongoDB、Docker 和 Kubernetes 构建可扩展的全栈系统的综合教程</title>
       <link>https://www.reddit.com/r/webdev/comments/1aksls1/looking_for_a_comprehensive_tutorial_on_building/</link>
@@ -76,37 +104,9 @@
       <pubDate>Tue, 06 Feb 2024 21:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Ngrok 测试本地主机</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akltye/using_ngrok_to_test_localhost/</link>
-      <description><![CDATA[       由   提交/u/http203  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akltye/using_ngrok_to_test_localhost/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:52:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为在可预见的将来，Github Copilot 是否有可能访问整个存储库并建议相关代码片段？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aklq5o/do_you_think_in_the_foreseeable_future_there_will/</link>
-      <description><![CDATA[至少对于简单的事情，例如： - 您创建新文件，副驾驶读取文件名和同一文件夹中的其他文件，然后建议已命名的组件，其中包含与这些文件相关的基本内容  - 您创建 firebaseClient 配置文件，然后打开您的 loginForm.tsx 组件，您会获得如何将 firebaseClient 逻辑与函数和 JSX 连接起来的建议 -您创建一个组件，然后开始在新的相邻文件中写入类型，并且您会获得基于该组件代码的类型集的代码建议 还有很大的空间改进预测程序员的行为。特别是在大文件中，当您在远处更改相关内容时，它还无法预测您要在更大的范围内完成什么。   由   提交/u/amelix34  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aklq5o/do_you_think_in_the_foreseeable_future_there_will/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitspace 简介 - 一种新型的创意游乐场（RxJS、React 和 Typescript）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aklldd/introducing_bitspace_a_new_kind_of_playground_for/</link>
-      <description><![CDATA[       由   提交/u/Widiiz  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aklldd/introducing_bitspace_a_new_kind_of_playground_for/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>报纸网站帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akl9o3/newspaper_website_help/</link>
-      <description><![CDATA[我正在寻找为当地少年棒球联盟建立一个网站，该网站采用报纸格式（如传统报纸），这样我就可以进行撰写和框选偶尔用一张照片来得分。  最好的方法是什么和/或我如何学习如何做到这一点？ 理想情况下，教练会通过电子邮件将他们的文章发送给我，我会将它们发布在第二天的网站。冲洗并重复所有已存档的内容。   由   提交/u/GeorgeSteele66   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akl9o3/newspaper_website_help/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:30:58 GMT</pubDate>
-    </item>
-    <item>
       <title>如何防止打开软件键盘时手机上的页面滚动</title>
       <link>https://www.reddit.com/r/webdev/comments/1akbeez/how_to_prevent_page_from_scrolling_on_mobile_when/</link>
-      <description><![CDATA[   嗨，我正在探索制作移动设备的可能性- 友好的网络应用程序。我尝试实现的场景之一： 当虚拟键盘出现（并占用一些屏幕空间）时，组件“缩小”我们得到了某种“页面的紧凑版本” ​ 缩小网页的概念 经过修补，我发现屏幕可见部分的大小（不是受键盘影响）是 visualViewport https://developer.mozilla.org /en-US/docs/Web/API/VisualViewport 我通过创建自定义钩子使我的组件对 VisualViewport 的更改做出反应。某些元素的高度需要根据当前的 VisualViewport 高度计算。最后，我做了一个表格草稿，响应软件键盘的打开。 但是，问题是，当我的页面缩小到可用空间后，键盘下的页面仍然有一个空白部分可以滚动（由于它是空的，所以没用）。 起初我认为这是由于一些根元素（如 HTML、body 等）扩展到窗口（文档）大小。为了测试这一点，我使用 USB 调试，发现所有元素都缩小到 VisualViewport 大小 (444) ​ 通过 USB 调试的 Chrome 开发工具 这是演示空白部分滚动的视频： https://youtube.com/shorts/5AO8GyEs0fk ​ 你知道有什么办法可以摆脱这种滚动吗？也许以某种方式使文档高度== VisualViewport？    由   提交/u/skorphil  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   嗨，我正在探索制作移动设备的可能性- 友好的网络应用程序。我尝试实现的场景之一： 当虚拟键盘出现（并占用一些屏幕空间）时，组件“缩小”我们得到了某种“页面的紧凑版本” ​ 缩小网页的概念 经过修补，我发现屏幕可见部分的大小（不是受键盘影响）是 visualViewport https://developer.mozilla.org /en-US/docs/Web/API/VisualViewport 我通过创建自定义钩子使我的组件对 VisualViewport 的更改做出反应。某些元素的高度需要根据当前的 VisualViewport 高度计算。最后我做了一个表格草稿，它响应软件键盘的打开。 但是，问题是，当我的页面缩小到可用空间后，键盘下的页面仍然有一个空白部分可以滚动（由于它是空的，所以没用）。 起初我认为这是由于一些根元素（如 HTML、body 等）扩展到窗口（文档）大小。为了测试这一点，我使用 USB 调试，发现所有元素都缩小到 VisualViewport 大小 (444) ​ 通过 USB 调试的 Chrome 开发工具 这是演示空白部分滚动的视频： https://youtube.com/shorts/5AO8GyEs0fk ​ 你知道有什么办法可以摆脱这种滚动吗？也许以某种方式使文档高度== VisualViewport？    由   提交/u/skorphil  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akbeez/how_to_prevent_page_from_scrolling_on_mobile_when/</guid>
       <pubDate>Tue, 06 Feb 2024 14:45:43 GMT</pubDate>
     </item>
