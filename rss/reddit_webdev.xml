@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 18:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 21:12:03 GMT</lastBuildDate>
+    <item>
+      <title>引导行问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am65mh/bootstrap_row_issue/</link>
+      <description><![CDATA[大家好， 我对 bootstrap 很有经验，但我一生都无法弄清楚为什么我会得到我的网站在手机和平​​板电脑上水平滚动。这让我发疯。 网站是 www.mortgageratesearch.co.uk TIA   由   提交/u/Brettles1986   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am65mh/bootstrap_row_issue/</guid>
+      <pubDate>Thu, 08 Feb 2024 21:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>vscode 中的 ThunderClient - 是否有办法提取用于身份验证的令牌？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am5ycy/thunderclient_in_vscode_is_there_anyway_to/</link>
+      <description><![CDATA[在 vscode 中，如果我运行我的网站（ng 以 Angular 方式服务），每当我更改代码时它都会自动重新加载，所以很明显 vscode 可以访问该网站浏览器实例。那么有没有一种方法可以从当前正在使用的浏览器会话中提取 JWT 并将其设置为 Thunderlicent，这样我就不必不断手动粘贴它？   由   提交 /u/astarastarastarastar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am5ycy/thunderclient_in_vscode_is_there_anyway_to/</guid>
+      <pubDate>Thu, 08 Feb 2024 20:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Static.app 登录无法正常工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am5tz3/staticapp_login_not_working/</link>
+      <description><![CDATA[static.app 网站的登录对您有用吗？它不适合我... 我的静态站点似乎只加载查找，但我无法登录该站点进行更改！  &amp;# 32；由   提交 /u/JustSayYes1_61803   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am5tz3/staticapp_login_not_working/</guid>
+      <pubDate>Thu, 08 Feb 2024 20:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立一个简单网站的最佳且廉价的方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am5p1w/whats_the_best_inexpensive_way_to_put_up_a_simple/</link>
+      <description><![CDATA[过去两年我选择的主机很糟糕。 Bluehost 绝对是残暴的。甚至我的 WordPress 网站也遇到了麻烦。然后离开他们，和 Hostgator 一起去了，他们也很糟糕。我曾经制作过网站，但现在在浪费了大约 400 美元之后，我想到的可能只是一个有自己的 URL 的 weebly 网站，或者有我自己的 URL 的 wordpress.com。  我真的只需要一个网站来存放我的个人简介、图片，也许还需要一个联系页面。没有什么花哨。你会推荐什么或做什么？我已经拥有该网址。我什至考虑从头开始制作一个 HTML/CSS/Javascript，但不知道在哪里托管它。我还没有真正跟上最新的平台。谢谢！   由   提交 /u/geetarqueen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am5p1w/whats_the_best_inexpensive_way_to_put_up_a_simple/</guid>
+      <pubDate>Thu, 08 Feb 2024 20:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你在网站上禁用捏合缩放功能，那你就是个混蛋</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am5oa0/youre_an_asshole_if_you_disable_pinch_to_zoom_on/</link>
+      <description><![CDATA[别是个混蛋。   由   提交 /u/Nick_Reach3239   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am5oa0/youre_an_asshole_if_you_disable_pinch_to_zoom_on/</guid>
+      <pubDate>Thu, 08 Feb 2024 20:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮我弄清楚如何称呼我正在寻找某人的这项任务吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am4xjq/can_someone_help_me_figure_out_what_to_call_this/</link>
+      <description><![CDATA[我为人们的婚礼弹钢琴。  我想要一个“梦想歌单”我网站的一部分，人们可以浏览我的完整歌曲列表，并选择某些歌曲，然后生成他们选择的歌曲的集合列表。我无法让 squarespace 来做我需要的事情，所以我希望雇佣一个人来完成这一项简单的任务。但不确定该任务的确切名称是什么。  另外，如果你能做到这一点并且愿意帮助我，我将给你 20 美元作为你的麻烦，这应该不会太困难。  谢谢   由   提交/u/-salt-  /u/-salt- reddit.com/r/webdev/comments/1am4xjq/can_someone_help_me_figure_out_what_to_call_this/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am4xjq/can_someone_help_me_figure_out_what_to_call_this/</guid>
+      <pubDate>Thu, 08 Feb 2024 20:09:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 30 分钟内将 Google Analytics 替换为完全自托管的分析</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am4o8h/replaced_google_analytics_with_completely/</link>
+      <description><![CDATA[在我需要公共分析之后，我研究了现有的解决方案并发现了合理的解决方案。 最酷的部分是内部30 分钟内，我设置了一个 VPS，运行了所有必要的服务，并为我的网站准备好了自托管分析设置。 &lt; p&gt;我从应用程序中完全删除了 Google Analytics（分析）。 您的体验如何？还有其他人使用过自托管分析服务吗？  您可以在 Plausible 网站上找到如何托管分析的详细步骤。   由   提交/u/findurself020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am4o8h/replaced_google_analytics_with_completely/</guid>
+      <pubDate>Thu, 08 Feb 2024 19:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是唯一一个不喜欢 Reddit 新 UI 的人吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am3xqu/am_i_the_only_one_who_dislikes_reddits_new_ui/</link>
+      <description><![CDATA[谁认为不必要地实施新设计是个好主意？深绿色的背景看起来也很糟糕。由于新设计，我大约在 2015 年开始使用 reddit，但这个新设计太糟糕了。   由   提交/u/meguminsdfc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am3xqu/am_i_the_only_one_who_dislikes_reddits_new_ui/</guid>
+      <pubDate>Thu, 08 Feb 2024 19:28:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不断看到人们谈论放弃 Redux...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am3s93/i_keep_seeing_people_talking_about_moving_away/</link>
+      <description><![CDATA[人们不再喜欢 Redux 的什么地方？或者，更恰当地说，替代它的替代工具/模式是什么？这些只在 React 上下文中有意义吗？ Angular 开发人员是否应该考虑放弃 NgRx？   由   提交 /u/AttackOnGolrk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am3s93/i_keep_seeing_people_talking_about_moving_away/</guid>
+      <pubDate>Thu, 08 Feb 2024 19:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>图形计算器库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am3heh/library_for_graphing_calculator/</link>
+      <description><![CDATA[我正在尝试制作一个像 Desmos 这样能够显示动画图形的图形计算器。我研究了 Konva 并且我也考虑过只使用 vanilla Canvas API，但我不确定我应该使用什么。有人有什么建议吗？   由   提交/u/dalfie123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am3heh/library_for_graphing_calculator/</guid>
+      <pubDate>Thu, 08 Feb 2024 19:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>初始利润？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am3go4/initial_margins/</link>
+      <description><![CDATA[如果你有一个占据整个屏幕的主 div，并且里面有一个小 div，你会如何制作它，以便它尝试拥有例如，上边距为 16px，但如果垂直窗口高度缩小到足以推动小 div 的底部，则边距会缩小？    ;由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am3go4/initial_margins/</guid>
+      <pubDate>Thu, 08 Feb 2024 19:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Radix UI 不再更新？我们应该使用 shadcn/ui 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am37ag/why_isnt_radix_ui_updated_anymore_should_we_even/</link>
+      <description><![CDATA[   https://github.com/radix-ui/primitives 上次提交是 5 个月前。 ​ https://preview.redd.it/ffuyqyq7sehc1.png ?width=314&amp;format=png&amp;auto=webp&amp;s=08ad2e5b477b0c2d6ef4eb73b3c3dd8aba8a141d   由   提交 /u/JumboTrucker   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am37ag/why_isnt_radix_ui_updated_anymore_should_we_even/</guid>
+      <pubDate>Thu, 08 Feb 2024 18:58:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端 Webdev 还是图形程序员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am2xff/front_end_webdev_or_graphics_programmer/</link>
+      <description><![CDATA[嗨，我已经开始学习编程有一段时间了，并掌握了它的基础知识，但现在我处于一个我应该做的地方决定什么“分支”重点关注的编程。问题是我喜欢前端 Web 开发的想法，但我也喜欢学习着色器和类似的东西，这更像是游戏开发类型的东西。我需要一些帮助，虽然我知道有一些库允许用 javascript 编程这些东西，但我担心我会把自己分散得太小。有谁知道结合一切并找到工作的想法有多可行？或者我应该放弃其中之一？我住在欧洲，如果它改变了什么。   由   提交/u/KW2601  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am2xff/front_end_webdev_or_graphics_programmer/</guid>
+      <pubDate>Thu, 08 Feb 2024 18:46:27 GMT</pubDate>
+    </item>
     <item>
       <title>有人复制了我的前端作品集网站和一个最大的项目，并在上面写上了自己的名字，现在将其作为自己的作品展示。我能做些什么吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1am1y6e/someone_copied_my_frontend_portfolio_website/</link>
-      <description><![CDATA[你好。我正在考虑是否值得采取一些法律行动，或者我是否应该简单地接受这样一个事实，即公开我的所有私人项目会带来一定的风险和后果。 以防万一有人想看一下他们自己，以下是链接： 他们的投资组合：https://2023-frontend-portfolio.netlify.app  我的原始作品集：https://matt765-portfolio.vercel.app/ github上的代码：https://github.com/matt765/portfolio 他还将我的主要投资组合项目（NextJS 应用程序）复制到他的 Github，更改提交作者，并将此应用程序放置在该投资组合的项目部分中 并链接到他自己的 Github 您可以在我的 Github 上查看此应用程序的原始代码：https://github.com/matt765/daydash 我不久前在 Reddit 上发布了申请和作品集，因此，对于某些人来说，它可能看起来很熟悉 如果您提供有关如何处理这种情况的任何建议，我将不胜感激。   由   提交 /u/Armauer   [链接] [评论]]]></description>
+      <description><![CDATA[你好。我正在考虑是否值得采取一些法律行动，或者我是否应该简单地接受这样一个事实，即公开我的所有私人项目会带来一定的风险和后果。 以防万一有人想看一下他们自己，以下是链接： 他们的投资组合：https://2023-frontend-portfolio.netlify.app  我的原始作品集：https://matt765-portfolio.vercel.app/  github上的代码：https://github.com/matt765/portfolio 他们也将我的主要投资组合项目（NextJS 应用程序）复制到他们的 Github，更改提交作者，并将此应用程序放置在该投资组合的项目部分中 并链接到他们的自己的 Github 您可以在我的 Github 上查看此应用程序的原始代码：https://github.com/matt765/daydash 我不久前在 Reddit 上发布了申请和作品集，因此，对于某些人来说，它可能看起来很熟悉 如果您提供有关如何处理这种情况的任何建议，我将不胜感激。   由   提交 /u/Armauer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1am1y6e/someone_copied_my_frontend_portfolio_website/</guid>
       <pubDate>Thu, 08 Feb 2024 18:05:17 GMT</pubDate>
     </item>
     <item>
-      <title>如果我的登陆页面包含身份验证逻辑，是否应该与我的 React 应用程序分开？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1am1km7/should_my_landing_page_be_separate_from_my_react/</link>
-      <description><![CDATA[如果我的登陆页面包含身份验证逻辑，它是否应该与我的 React 应用程序分开？ 我目前有静态 HTML 和 JavaScript与我的 React 应用程序分开的登陆页面。目前身份验证发生在 React 应用程序中。但是，我想实现页面登录并通过登陆页面中的弹出窗口进行注册。 这就是它的工作原理：  用户去在登陆页面上单击“注册”或“登录” 将出现弹出窗口，要求进行身份验证 用户通过身份验证后Auth0，它们将被重定向到我的 React 应用程序  我应该将登陆页面移动到我的 React 应用程序中还是将其分开？   由   提交 /u/cinnabams   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1am1km7/should_my_landing_page_be_separate_from_my_react/</guid>
-      <pubDate>Thu, 08 Feb 2024 17:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助将应用程序部署到 Heroku，只是想知道是否有人可以帮助我</title>
-      <link>https://www.reddit.com/r/webdev/comments/1am1kka/i_need_help_getting_an_application_deployed_to/</link>
-      <description><![CDATA[我什至不知道如何充分描述问题，因为这些错误日志对我来说毫无意义，因此为什么我要求另一对眼睛。可能是 MongoDB Atlas 连接的问题，但对我来说一切看起来都很好，即连接字符串是正确的，并且 .env 的东西具有一致的命名约定...我不知道，我是绿色的，我的截止日期很快就到了， 这里的所有都是它的。请帮忙！ 编辑：这是一个 MERN 堆栈应用程序，用于上下文。   由   提交/u/bad-taf  /u/bad-taf  reddit.com/r/webdev/comments/1am1kka/i_need_help_getting_an_application_deployed_to/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1am1kka/i_need_help_getting_an_application_deployed_to/</guid>
-      <pubDate>Thu, 08 Feb 2024 17:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求一种简单的、与框架无关的工具来捕获详细的用户交互数据。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1am12bl/seeking_a_simple_frameworkagnostic_tool_for/</link>
-      <description><![CDATA[大家好！ 我正在探索可以轻松集成到我们的内部 Web 应用程序中的工具或库的选项与 Google Analytics 类似，但重点是捕获特定的用户交互数据。它需要跨不同框架（React、Angular、Vue、Vanilla JS）工作，而无需进行重大代码更改。以下是我想要捕获的数据类型：  数据对用户可见的时间戳 (UTC) 当时登录用户的标识&lt; /li&gt; 向用户显示的数据的键值对  我正在寻找可以轻松嵌入到新的和现有的内部项目中的东西，类似于 Google只需一段代码即可添加分析。此外，随着 Web 应用程序的发展，该工具应该自动调整以记录新类型的信息，而不需要开发人员进一步干预，使用某种内省。 是否有开源或专有工具可以提供这种程度的简单性和功能性吗？或者也许可以将一些工具组合在一起，以最小的麻烦实现这些目标？我们将非常感谢您的建议和见解！ 非常感谢您的帮助并期待您的建议！   由   提交 /u/ButterscotchEarly729   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1am12bl/seeking_a_simple_frameworkagnostic_tool_for/</guid>
-      <pubDate>Thu, 08 Feb 2024 17:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>你还在使用堆栈溢出吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1am0hi4/do_you_still_use_stack_overflow/</link>
-      <description><![CDATA[我是一名网络/移动前端开发人员，去年我一直在使用 gpt + google bard 来获取编码解决方案，而不是访问堆栈溢出。我上次访问堆栈溢出是大约一个月前，当时 get 和 bard 都无法为我提供答案。我个人更喜欢 bard，因为它比 GPT 更新得更多，但也更喜欢 GPT 来实现更复杂的解决方案。  重点是，我不会错过堆栈溢出，老实说对我来说，访问网站并搜索问题并尝试答案非常耗时。  我想知道其他开发人员每天如何解决他们的问题。   由   提交/u/Low_Arm9230   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1am0hi4/do_you_still_use_stack_overflow/</guid>
-      <pubDate>Thu, 08 Feb 2024 17:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用原生 css 嵌套是否安全</title>
-      <link>https://www.reddit.com/r/webdev/comments/1am0fgk/is_it_safe_to_use_native_css_nesting/</link>
-      <description><![CDATA[      我一直在关注原生 css 嵌套一段时间，我想知道你是否会考虑这是一个安全的功能。 这里是我可以使用的支持 https: //caniuse.com/css-nesting 我说的是不使用 &amp; 的干净版本。字首。  没有 sass 的干净 css 嵌套请告诉我未来就在这里。   由   提交/u/he11mager  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1am0fgk/is_it_safe_to_use_native_css_nesting/</guid>
-      <pubDate>Thu, 08 Feb 2024 17:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式导航栏设计教程|网络开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alzjva/responsive_navbar_design_tutorial_web_dev/</link>
-      <description><![CDATA[🌟 准备好提升您的 Web 开发技能了吗？ 🚀 深入了解我最新的视频教程，了解如何制作时尚且响应灵敏的导航栏设计！ 💻 不要错过 – 点击下面的链接立即观看！ 👨‍💻✨ #WebDev #Tutorial #ResponsiveDesign 在此观看：https://youtu.be/LlLLUc8s8qw 🎬    由   提交/u/robson_muniz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alzjva/responsive_navbar_design_tutorial_web_dev/</guid>
-      <pubDate>Thu, 08 Feb 2024 16:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>爬虫下载所需的所有 HTML/CSS/JS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alylrw/crawler_to_download_all_htmlcssjs_needed/</link>
-      <description><![CDATA[我为一家企业建立了一个相当简单的网站，在多个类别中在线展示其工作。它使用 Coldfusion 借助文件系统读取并与电子表格文件提供的元数据合并，为每个类别生成大量子页面。  我终于厌倦了我的 CF 服务（更不用说，谁再用 CF 编程了），我希望完全摆脱它。最后这个网站是静态的，所以我正在寻找一种好方法来刮掉整个呈现的网站以在替代静态服务器上使用。如今有什么好的方法可以做到这一点？我已经做了一些搜索，但“网站抓取工具”似乎意味着现在定价元数据之类的东西，而不是实际的网站文件。   由   提交 /u/skredditt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alylrw/crawler_to_download_all_htmlcssjs_needed/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否选错了职业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alyhqf/did_i_choose_the_wrong_career/</link>
-      <description><![CDATA[编程是我喜欢做的工作，并且一直是我真正的热情所在。几年前，我找到了一份很棒的软件工程工作。我喜欢这份工作，薪水很高，工作与生活的平衡很好。我也很擅长。 去年，我陷入了整个公司的大规模裁员浪潮。六个月以来，我几乎每天都在申请工作，但只收到了几次让我印象深刻的面试，以及一堆就业骗局。我不知道市场已经如此饱和。作为一名初级开发人员，感觉不可能找到 SWE 的工作。我正在失去希望，担心在找到东西之前我的 EI 就会用完。自由职业不稳定且很难找到客户。我感觉被困住了。 我是不是选错了职业？   由   提交/u/JBriltz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alyhqf/did_i_choose_the_wrong_career/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页设计灵感目录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alyhky/web_design_inspiration_catalog/</link>
-      <description><![CDATA[       由   提交 /u/DrinkMoreCodeMore   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alyhky/web_design_inspiration_catalog/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>方形复选框的爱的记忆</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alyfkl/in_loving_memory_of_square_checkbox/</link>
-      <description><![CDATA[ 由   提交 /u/MarzipanCraft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alyfkl/in_loving_memory_of_square_checkbox/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在没有前端的情况下显示 php 错误和输出？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alxxw2/showing_php_error_and_output_without_frontend/</link>
-      <description><![CDATA[我们在工作中使用日志平台，与开发无关。它不是我可以用来获取数据的 api，而是具有在我可以手动设置的地方创建帖子的功能。我正在考虑创建一个 php 服务器，并让它将 json 数据发布到一个端点，在该端点上处理数据并将其存储在我们自己的数据库中。 但是我如何从中获取输出？如果我从该发布请求发回信息，它最终会出现在我无权或访问的日志平台上的某个位置。有什么简单的方法可以调试这样一个我无法控制的帖子。   由   提交 /u/madmenyo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alxxw2/showing_php_error_and_output_without_frontend/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>那一次我无意中创建了一个区块链Web IDE</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alxtsq/that_time_i_accidentally_created_a_blockchain_web/</link>
-      <description><![CDATA[       由   提交/u/nsjames1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alxtsq/that_time_i_accidentally_created_a_blockchain_web/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>JustGore/LiveLeak 合法性吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alxrqy/justgoreliveleak_legality/</link>
-      <description><![CDATA[有一天，我偶然发现了theync、liveleak和justgore等网站的利润率。我想知道拥有此类网站的合法性以及可能存在的问题？  像这样的网站并不存在，而且它们已经积累了数百万美元，而且大多数已经在线多年，因此似乎并不违法。 我想知道是否任何人都知道在欧洲推出一个具有震撼价值的网站及其合法性有多困难。感谢您花时间阅读我的问题）   由   提交/u/Financial_Arrival_31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alxrqy/justgoreliveleak_legality/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好的 Discord 社区可以用来提出编码疑问？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alxfrn/what_are_some_good_discord_communities_to_ask/</link>
-      <description><![CDATA[我是一名有抱负的前端开发人员，已经学习了 HTML CSS，目前正在学习 Javascript。 我可以访问 stack Overflow或 reddit，但我想要实时解决方案或想要讨论我在编码时遇到的问题。有哪些好的 Discord 服务器可供人们分享编码问题并向经验丰富的开发人员寻求帮助？ ​ ​ 提前致谢&lt;3    由   提交/u/wonderful_utility  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alxfrn/what_are_some_good_discord_communities_to_ask/</guid>
-      <pubDate>Thu, 08 Feb 2024 14:51:29 GMT</pubDate>
+      <title>Cloudflare NS 与 Porkbun NS 的自定义电子邮件域比较？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am1m4o/cloudflare_ns_vs_porkbun_ns_for_custom_email/</link>
+      <description><![CDATA[通过 Porkbun 注册的域名以及 SSL、WHOIS 隐私、域名锁定、DNSSEC、域名密码保护、用于电子邮件安全的 SPF DKIM DMARC 记录以及启用的 2FA帐户本身。使用 SimpleLogin 转发到 iCloud 托管的电子邮件设置。  我应该继续使用 Porkbun NameServers 还是替换为 Cloudflare NS？有人建议我不要将所有鸡蛋放在一个篮子里，以便将注册商、DNS、NS 和主机分开，但我仅使用电子邮件域。除了 NS 之外，我还需要什么来保护我的案件？    由   提交/u/Massive-Lie1857   reddit.com/r/webdev/comments/1am1m4o/cloudflare_ns_vs_porkbun_ns_for_custom_email/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am1m4o/cloudflare_ns_vs_porkbun_ns_for_custom_email/</guid>
+      <pubDate>Thu, 08 Feb 2024 17:51:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,48 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 08 Feb 2024 18:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 21:12:36 GMT</lastBuildDate>
+    <item>
+      <title>概念“太好了”吗？</title>
+      <link>https://feed.indiehackers.world/post/2c1a634456</link>
+      <description><![CDATA[早在 2021 年，我就写了一篇题为“聚合与解耦”的文章。它认为，技术经历了一种工具被用于所有事情的阶段，只是该工具被许多不同的工具“取代”，而这些工具可以更好地完成每项任务。我认为我们现在的立场是，Notion 是聚合工具。有一天，Notion 将会解耦。我经常反复考虑是否应该满足于使用多种产品的低效率但对冲风险，或者选择更舒适但风险更高的策略，即继续使用 Notion。您有什么想法？您个人使用 Notion 的目的是什么？如果您不使用 Notion，您使用的产品是否可以给您带来同样的好处/问题？
+[最初于 2023 年 1 月 19 日发布在 jacob-robinson.com 上]
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2c1a634456</guid>
+      <pubDate>Thu, 08 Feb 2024 21:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何接触新用户？</title>
+      <link>https://feed.indiehackers.world/post/5ac016e66a</link>
+      <description><![CDATA[一些背景信息：我目前正在开发一个用于研究软件系统设计概念的交互式资源：https://systemdesigndaily.com。我最近有一篇博客文章（https://dev.to/dezhango /system-design-is-more-important-than-you-think-g0e）在开发者论坛上做得很好。该网站吸引了大约 40 名新注册用户。
+我正在尝试找出与这些新用户联系以获取网站反馈的最佳方式。我需要设置像 MailChimp 这样的电子邮件平台吗？或者我可以直接向这 40 个人中的每一个人发送电子邮件吗？
+有关电子邮件营销或客户反馈收集（或其他任何内容，包括网站本身）的任何其他建议，我们将不胜感激！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5ac016e66a</guid>
+      <pubDate>Thu, 08 Feb 2024 19:24:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>与工作相关的 SaaS：移动应用程序还是 Chrome 扩展？</title>
+      <link>https://feed.indiehackers.world/post/2ea5a96655</link>
+      <description><![CDATA[嘿那里！
+我目前正在开发一款专为中小企业量身定制的 SaaS，专为日常使用而设计，很像任务管理工具或日历。
+为了提高用户参与度，我正在考虑向桌面应用程序添加补充工具（Chrome 扩展程序或移动应用程序），以简化创建和更新任务的过程。
+我很想听听您的偏好：对于与工作相关的应用程序，您更倾向于使用 Chrome 扩展程序还是移动应用程序？或者只是网络应用程序？
+预先感谢您的投入！ 🙏
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2ea5a96655</guid>
+      <pubDate>Thu, 08 Feb 2024 18:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人花钱购买了 SaaS 样板并认为值得吗？</title>
+      <link>https://feed.indiehackers.world/post/f0eebd6838</link>
+      <description><![CDATA[标题差不多了。
+我有兴趣听取这些产品用户的意见。
+（从我的角度来看，这看起来像是一个骗局，但当双方都高兴时，我想它不是）
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f0eebd6838</guid>
+      <pubDate>Thu, 08 Feb 2024 18:24:43 GMT</pubDate>
+    </item>
     <item>
       <title>我们制作了一个漂亮的团队时间跟踪网络应用程序。寻找意见和建议。</title>
       <link>https://feed.indiehackers.world/post/3901825225</link>
@@ -59,7 +100,7 @@ Discord 独立黑客聊天广告这里]]></description>
 Aviator Game 的成功部分归功于其社交功能，它创造了身临其境的互动体验。该游戏能够将玩家聚集在一个竞争性且公共的环境中，这体现了游戏平台中社交整合的潜力。 
 挑战和考虑因素：
 尽管有这些好处，但将社交网络集成到游戏平台中也面临着挑战。隐私问题、内容审核和维护积极的社区氛围是开发者必须解决的重要考虑因素，以确保为所有用户提供安全、愉快的环境。
-社交网络与游戏平台的整合正在重塑游戏行业，为参与、社区建设和货币化提供了新的机会。正如 Aviator Game 等平台所证明的那样，社交功能可以显着增强游戏体验，使游戏更具吸引力和社区性。随着这种趋势的不断发展，游戏和社交网络之间的界限将越来越模糊，从而形成更加互联和社交的游戏格局。
+社交网络与游戏平台的整合正在重塑游戏行业，为参与、社区建设和货币化提供了新的机会。正如 Aviator Game 等平台所证明的那样，社交功能可以显着增强游戏体验，使游戏更具吸引力和社区性。随着这一趋势的不断发展，游戏和社交网络之间的界限将越来越模糊，从而形成更加互联和社交的游戏格局。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/fe65a3c689</guid>
       <pubDate>Thu, 08 Feb 2024 16:53:10 GMT</pubDate>
@@ -84,7 +125,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/07c03bf7b7</link>
       <description><![CDATA[展望未来
 George Moulos 在 25 岁时所取得的成就简直令人惊叹。但他的目标和雄心仍然为进一步的成长留下了足够的空间。
-当我问乔治今天的动力是什么时，他说：“我喜欢这项运动。当我们有客户以大幅折扣的价格和我们为他们谈判的优惠条件成功购买一家企业时，或者当我们出售远高于行业平均市盈率的企业并且他们给我们热情洋溢的推荐时，这就是胜利的意义我。我很有竞争力，当我的团队能够为客户实现这一目标时，我知道我们正在获胜。收到这些推荐后，我们会在最终文档上签字，然后获得报酬，这感觉就像是锦上添花，而不是我们这样做的全部原因。”
+当我问乔治今天的动力是什么时，他说：“我喜欢这项运动。当我们的客户以大幅折扣的价格和我们为他们谈判的优惠条件成功购买一家企业时，或者当我们出售一家远高于行业平均市盈率的企业并且他们给了我们热情洋溢的推荐时，这就是胜利的意义我。我很有竞争力，当我的团队能够为客户实现这一目标时，我知道我们正在获胜。收到这些推荐后，我们会在最终文档上签字，然后获得报酬，这感觉就像是锦上添花，而不是我们这样做的全部原因。”
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/07c03bf7b7</guid>
       <pubDate>Thu, 08 Feb 2024 16:13:00 GMT</pubDate>
@@ -125,47 +166,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/adca811064</guid>
       <pubDate>Thu, 08 Feb 2024 13:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>初创公司商标和专利检索的方法</title>
-      <link>https://feed.indiehackers.world/post/24097a5fa8</link>
-      <description><![CDATA[总而言之，作为一名专利律师，我强烈建议不要跳过这一步，因为检索结果对产品的进一步开发有着至关重要的影响。对于初创企业来说，进行彻底的商标和专利检索以保护其知识产权并最大限度地提高成功机会至关重要。有什么想法吗？
-&lt;小时/&gt;
-对 IP 有疑问吗？请发表评论，我很乐意提供帮助。
-也可以尝试一下我们的人工智能搜索工具，这里有一个免费进行人工智能商标搜索的链接 - https: //app.ipnote.pro/ai?actions=I想要进行商标检索
-如果您想在任何国家/地区找到知识产权律师，只需在我们的全球市场上注册 - https://app.ipnote .pro/auth/sign-up
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/24097a5fa8</guid>
-      <pubDate>Thu, 08 Feb 2024 12:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何粉碎你的竞争对手</title>
-      <link>https://feed.indiehackers.world/post/7bb50d5da1</link>
-      <description><![CDATA[因此，如果您厌倦了平庸的分析工具，请尝试一下 Websense，亲自看看有何不同。我们可以共同提高网站分析的标准，并为全球网站所有者提供支持。
-请记住，当您将用户和产品放在第一位时，就有可能在竞争激烈的环境中取得成功。让我们继续共同建设、学习和成长。
-追踪愉快！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7bb50d5da1</guid>
-      <pubDate>Thu, 08 Feb 2024 12:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Product Hunt 推出的障碍：</title>
-      <link>https://feed.indiehackers.world/post/fa77b5b78f</link>
-      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/fa77b5b78f</guid>
-      <pubDate>Thu, 08 Feb 2024 11:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关我的 LP 的反馈</title>
-      <link>https://feed.indiehackers.world/post/de17226605</link>
-      <description><![CDATA[大家好，
-我一直在开发 https://velty.app，这是一个网络工具，可让您整理 YouTube 订阅和视频收藏。 
-我的目标受众是想要控制 YouTube Feed 的高级用户，以便更轻松地找到他们感兴趣的内容。
-作为一名独立开发者，我发现营销方面的事情相当令人困惑。如果您有任何想法或建议，我们将不胜感激。
-我很想听听您对这个想法的想法！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/de17226605</guid>
-      <pubDate>Thu, 08 Feb 2024 11:11:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
