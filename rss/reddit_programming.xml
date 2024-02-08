@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 07 Feb 2024 21:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 00:51:50 GMT</lastBuildDate>
+    <item>
+      <title>Node.js 社区关于可能分拆 NPM 的争论愈演愈烈</title>
+      <link>https://www.reddit.com/r/programming/comments/1aliqxy/nodejs_community_debate_intensifies_over/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aliqxy/nodejs_community_debate_intensifies_over/</guid>
+      <pubDate>Thu, 08 Feb 2024 00:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对其他必须了解的重要 Linux 命令有什么想法吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1alikdk/any_thoughts_on_other_essential_musttoknow_linux/</link>
+      <description><![CDATA[ 由   提交/u/Bat-Hat47  /u/Bat-Hat47 bat-hat.com/2024/01/most-used-powerful-kali-linux-commands.html&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alikdk/any_thoughts_on_other_essential_musttoknow_linux/</guid>
+      <pubDate>Thu, 08 Feb 2024 00:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>JQuery 4 已发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1alhgw1/jquery_4_is_out/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alhgw1/jquery_4_is_out/</guid>
+      <pubDate>Wed, 07 Feb 2024 23:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 技术预览版 188 发行说明</title>
+      <link>https://www.reddit.com/r/programming/comments/1algfjk/release_notes_for_safari_technology_preview_188/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1algfjk/release_notes_for_safari_technology_preview_188/</guid>
+      <pubDate>Wed, 07 Feb 2024 23:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何设计您的第一个 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1alfisz/how_to_design_your_first_web_application/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alfisz/how_to_design_your_first_web_application/</guid>
+      <pubDate>Wed, 07 Feb 2024 22:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费 Udemy 优惠券课程集合</title>
+      <link>https://www.reddit.com/r/programming/comments/1aleqsc/free_udemy_coupon_courses_collection/</link>
+      <description><![CDATA[ 由   提交/u/thweb  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aleqsc/free_udemy_coupon_courses_collection/</guid>
+      <pubDate>Wed, 07 Feb 2024 21:51:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>只需 48 小时即可使用 Python 自动化制作 YouTube 短片！</title>
+      <link>https://www.reddit.com/r/programming/comments/1alepy6/automating_youtube_shorts_in_python_in_just_48/</link>
+      <description><![CDATA[ 由   提交 /u/-F10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alepy6/automating_youtube_shorts_in_python_in_just_48/</guid>
+      <pubDate>Wed, 07 Feb 2024 21:50:08 GMT</pubDate>
+    </item>
     <item>
       <title>LINK-INSPECTOR 2.1：自动扫描链接、文件和目录以查找损坏的链接🔗 500+ NPM 下载🚀 经常在 github 存储库上使用，以快速审核旧代码🔍 用于 Google Tenserflow、Amazon PECOS 等💰</title>
       <link>https://www.reddit.com/r/programming/comments/1aldbpj/linkinspector_21_automatically_scan_links_files/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1alavyo/will_it_block/</guid>
       <pubDate>Wed, 07 Feb 2024 19:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用传感器</title>
-      <link>https://www.reddit.com/r/programming/comments/1alavxl/using_transducers/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alavxl/using_transducers/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 救不了我们：2023 年已知被利用漏洞的分析</title>
-      <link>https://www.reddit.com/r/programming/comments/1alatjm/rust_wont_save_us_an_analysis_of_2023s_known/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alatjm/rust_wont_save_us_an_analysis_of_2023s_known/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅设置符号位的二进制补码整数应该是陷阱表示</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaslp/twos_complement_integers_with_only_sign_bit_set/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaslp/twos_complement_integers_with_only_sign_bit_set/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>jQuery v4.0 测试版</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaski/jquery_v40_beta/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaski/jquery_v40_beta/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Postgres 中实现系统版本控制表</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaoqc/implementing_systemversioned_tables_in_postgres/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaoqc/implementing_systemversioned_tables_in_postgres/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scriptisto：“Shebang 解释器”，可以在编译语言中编写脚本</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaooi/scriptisto_shebang_interpreter_that_enables/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaooi/scriptisto_shebang_interpreter_that_enables/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>瓢虫浏览器项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaoo3/the_ladybird_browser_project/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaoo3/the_ladybird_browser_project/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:02:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
