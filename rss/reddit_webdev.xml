@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 15:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 18:15:10 GMT</lastBuildDate>
+    <item>
+      <title>有人复制了我的前端作品集网站和一个最大的项目，并在上面写上了自己的名字，现在将其作为自己的作品展示。我能做些什么吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am1y6e/someone_copied_my_frontend_portfolio_website/</link>
+      <description><![CDATA[你好。我正在考虑是否值得采取一些法律行动，或者我是否应该简单地接受这样一个事实，即公开我的所有私人项目会带来一定的风险和后果。 以防万一有人想看一下他们自己，以下是链接： 他们的投资组合：https://2023-frontend-portfolio.netlify.app  我的原始作品集：https://matt765-portfolio.vercel.app/ github上的代码：https://github.com/matt765/portfolio 他还将我的主要投资组合项目（NextJS 应用程序）复制到他的 Github，更改提交作者，并将此应用程序放置在该投资组合的项目部分中 并链接到他自己的 Github 您可以在我的 Github 上查看此应用程序的原始代码：https://github.com/matt765/daydash 我不久前在 Reddit 上发布了申请和作品集，因此，对于某些人来说，它可能看起来很熟悉 如果您提供有关如何处理这种情况的任何建议，我将不胜感激。   由   提交 /u/Armauer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am1y6e/someone_copied_my_frontend_portfolio_website/</guid>
+      <pubDate>Thu, 08 Feb 2024 18:05:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我的登陆页面包含身份验证逻辑，是否应该与我的 React 应用程序分开？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am1km7/should_my_landing_page_be_separate_from_my_react/</link>
+      <description><![CDATA[如果我的登陆页面包含身份验证逻辑，它是否应该与我的 React 应用程序分开？ 我目前有静态 HTML 和 JavaScript与我的 React 应用程序分开的登陆页面。目前身份验证发生在 React 应用程序中。但是，我想实现页面登录并通过登陆页面中的弹出窗口进行注册。 这就是它的工作原理：  用户去在登陆页面上单击“注册”或“登录” 将出现弹出窗口，要求进行身份验证 用户通过身份验证后Auth0，它们将被重定向到我的 React 应用程序  我应该将登陆页面移动到我的 React 应用程序中还是将其分开？   由   提交 /u/cinnabams   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am1km7/should_my_landing_page_be_separate_from_my_react/</guid>
+      <pubDate>Thu, 08 Feb 2024 17:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助将应用程序部署到 Heroku，只是想知道是否有人可以帮助我</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am1kka/i_need_help_getting_an_application_deployed_to/</link>
+      <description><![CDATA[我什至不知道如何充分描述问题，因为这些错误日志对我来说毫无意义，因此为什么我要求另一对眼睛。可能是 MongoDB Atlas 连接的问题，但对我来说一切看起来都很好，即连接字符串是正确的，并且 .env 的东西具有一致的命名约定...我不知道，我是绿色的，我的截止日期很快就到了， 这里的所有都是它的。请帮忙！ 编辑：这是一个 MERN 堆栈应用程序，用于上下文。   由   提交/u/bad-taf  /u/bad-taf  reddit.com/r/webdev/comments/1am1kka/i_need_help_getting_an_application_deployed_to/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am1kka/i_need_help_getting_an_application_deployed_to/</guid>
+      <pubDate>Thu, 08 Feb 2024 17:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求一种简单的、与框架无关的工具来捕获详细的用户交互数据。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am12bl/seeking_a_simple_frameworkagnostic_tool_for/</link>
+      <description><![CDATA[大家好！ 我正在探索可以轻松集成到我们的内部 Web 应用程序中的工具或库的选项与 Google Analytics 类似，但重点是捕获特定的用户交互数据。它需要跨不同框架（React、Angular、Vue、Vanilla JS）工作，而无需进行重大代码更改。以下是我想要捕获的数据类型：  数据对用户可见的时间戳 (UTC) 当时登录用户的标识&lt; /li&gt; 向用户显示的数据的键值对  我正在寻找可以轻松嵌入到新的和现有的内部项目中的东西，类似于 Google只需一段代码即可添加分析。此外，随着 Web 应用程序的发展，该工具应该自动调整以记录新类型的信息，而不需要开发人员进一步干预，使用某种内省。 是否有开源或专有工具可以提供这种程度的简单性和功能性吗？或者也许可以将一些工具组合在一起，以最小的麻烦实现这些目标？我们将非常感谢您的建议和见解！ 非常感谢您的帮助并期待您的建议！   由   提交 /u/ButterscotchEarly729   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am12bl/seeking_a_simple_frameworkagnostic_tool_for/</guid>
+      <pubDate>Thu, 08 Feb 2024 17:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>你还在使用堆栈溢出吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am0hi4/do_you_still_use_stack_overflow/</link>
+      <description><![CDATA[我是一名网络/移动前端开发人员，去年我一直在使用 gpt + google bard 来获取编码解决方案，而不是访问堆栈溢出。我上次访问堆栈溢出是大约一个月前，当时 get 和 bard 都无法为我提供答案。我个人更喜欢 bard，因为它比 GPT 更新得更多，但也更喜欢 GPT 来实现更复杂的解决方案。  重点是，我不会错过堆栈溢出，老实说对我来说，访问网站并搜索问题并尝试答案非常耗时。  我想知道其他开发人员每天如何解决他们的问题。   由   提交/u/Low_Arm9230   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am0hi4/do_you_still_use_stack_overflow/</guid>
+      <pubDate>Thu, 08 Feb 2024 17:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用原生 css 嵌套是否安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/1am0fgk/is_it_safe_to_use_native_css_nesting/</link>
+      <description><![CDATA[      我一直在关注原生 css 嵌套一段时间，我想知道你是否会考虑这是一个安全的功能。 这里是我可以使用的支持 https: //caniuse.com/css-nesting 我说的是不使用 &amp; 的干净版本。字首。  没有 sass 的干净 css 嵌套请告诉我未来就在这里。   由   提交/u/he11mager  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1am0fgk/is_it_safe_to_use_native_css_nesting/</guid>
+      <pubDate>Thu, 08 Feb 2024 17:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应式导航栏设计教程|网络开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alzjva/responsive_navbar_design_tutorial_web_dev/</link>
+      <description><![CDATA[🌟 准备好提升您的 Web 开发技能了吗？ 🚀 深入了解我最新的视频教程，了解如何制作时尚且响应灵敏的导航栏设计！ 💻 不要错过 – 点击下面的链接立即观看！ 👨‍💻✨ #WebDev #Tutorial #ResponsiveDesign 在此观看：https://youtu.be/LlLLUc8s8qw 🎬    由   提交/u/robson_muniz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alzjva/responsive_navbar_design_tutorial_web_dev/</guid>
+      <pubDate>Thu, 08 Feb 2024 16:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>爬虫下载所需的所有 HTML/CSS/JS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alylrw/crawler_to_download_all_htmlcssjs_needed/</link>
+      <description><![CDATA[我为一家企业建立了一个相当简单的网站，在多个类别中在线展示其工作。它使用 Coldfusion 借助文件系统读取并与电子表格文件提供的元数据合并，为每个类别生成大量子页面。  我终于厌倦了我的 CF 服务（更不用说，谁再用 CF 编程了），我希望完全摆脱它。最后这个网站是静态的，所以我正在寻找一种好方法来刮掉整个呈现的网站以在替代静态服务器上使用。如今有什么好的方法可以做到这一点？我已经做了一些搜索，但“网站抓取工具”似乎意味着现在定价元数据之类的东西，而不是实际的网站文件。   由   提交 /u/skredditt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alylrw/crawler_to_download_all_htmlcssjs_needed/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否选错了职业？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alyhqf/did_i_choose_the_wrong_career/</link>
+      <description><![CDATA[编程是我喜欢做的工作，并且一直是我真正的热情所在。几年前，我找到了一份很棒的软件工程工作。我喜欢这份工作，薪水很高，工作与生活的平衡很好。我也很擅长。 去年，我陷入了整个公司的大规模裁员浪潮。六个月以来，我几乎每天都在申请工作，但只收到了几次让我印象深刻的面试，以及一堆就业骗局。我不知道市场已经如此饱和。作为一名初级开发人员，感觉不可能找到 SWE 的工作。我正在失去希望，担心在找到东西之前我的 EI 就会用完。自由职业不稳定且很难找到客户。我感觉被困住了。 我是不是选错了职业？   由   提交/u/JBriltz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alyhqf/did_i_choose_the_wrong_career/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页设计灵感目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alyhky/web_design_inspiration_catalog/</link>
+      <description><![CDATA[       由   提交 /u/DrinkMoreCodeMore   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alyhky/web_design_inspiration_catalog/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>方形复选框的爱的记忆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alyfkl/in_loving_memory_of_square_checkbox/</link>
+      <description><![CDATA[ 由   提交 /u/MarzipanCraft   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alyfkl/in_loving_memory_of_square_checkbox/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在没有前端的情况下显示 php 错误和输出？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alxxw2/showing_php_error_and_output_without_frontend/</link>
+      <description><![CDATA[我们在工作中使用日志平台，与开发无关。它不是我可以用来获取数据的 api，而是具有在我可以手动设置的地方创建帖子的功能。我正在考虑创建一个 php 服务器，并让它将 json 数据发布到一个端点，在该端点上处理数据并将其存储在我们自己的数据库中。 但是我如何从中获取输出？如果我从该发布请求发回信息，它最终会出现在我无权或访问的日志平台上的某个位置。有什么简单的方法可以调试这样一个我无法控制的帖子。   由   提交 /u/madmenyo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alxxw2/showing_php_error_and_output_without_frontend/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>那一次我无意中创建了一个区块链Web IDE</title>
       <link>https://www.reddit.com/r/webdev/comments/1alxtsq/that_time_i_accidentally_created_a_blockchain_web/</link>
@@ -15,100 +99,16 @@
     <item>
       <title>JustGore/LiveLeak 合法性吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1alxrqy/justgoreliveleak_legality/</link>
-      <description><![CDATA[有一天，我偶然发现了theync、liveleak和justgore等网站的利润率。我想知道拥有此类网站的合法性以及可能存在的问题？  像这样的网站并不存在，而且它们已经积累了数百万美元，而且大多数已经在线多年，所以看起来并不违法。 我想知道是否任何人都知道在欧洲推出一个具有震撼价值的网站及其合法性有多困难。感谢您花时间阅读我的问题）   由   提交/u/Financial_Arrival_31   [链接] [评论]]]></description>
+      <description><![CDATA[有一天，我偶然发现了theync、liveleak和justgore等网站的利润率。我想知道拥有此类网站的合法性以及可能存在的问题？  像这样的网站并不存在，而且它们已经积累了数百万美元，而且大多数已经在线多年，因此似乎并不违法。 我想知道是否任何人都知道在欧洲推出一个具有震撼价值的网站及其合法性有多困难。感谢您花时间阅读我的问题）   由   提交/u/Financial_Arrival_31   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1alxrqy/justgoreliveleak_legality/</guid>
       <pubDate>Thu, 08 Feb 2024 15:06:31 GMT</pubDate>
     </item>
     <item>
-      <title>有哪些好的 Discord 社区可以用来询问编码疑问？</title>
+      <title>有哪些好的 Discord 社区可以用来提出编码疑问？</title>
       <link>https://www.reddit.com/r/webdev/comments/1alxfrn/what_are_some_good_discord_communities_to_ask/</link>
       <description><![CDATA[我是一名有抱负的前端开发人员，已经学习了 HTML CSS，目前正在学习 Javascript。 我可以访问 stack Overflow或 reddit，但我想要实时解决方案或想要讨论我在编码时遇到的问题。有哪些好的 Discord 服务器可供人们分享编码问题并向经验丰富的开发人员寻求帮助？ ​ ​ 提前致谢&lt;3    由   提交/u/wonderful_utility  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1alxfrn/what_are_some_good_discord_communities_to_ask/</guid>
       <pubDate>Thu, 08 Feb 2024 14:51:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>菜鸟问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alvkia/noob_question/</link>
-      <description><![CDATA[      我正在观看这个 HTML 教程，但我不明白为什么当标签用于显示 Dog 、 cat 、 Fish 时他使用值...有什么用此处的值   由   提交 /u/punjabipendulover   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alvkia/noob_question/</guid>
-      <pubDate>Thu, 08 Feb 2024 13:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于多个 Web 应用程序的哪种 EC2 实例及其性能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alvhbn/what_kind_of_ec2_instances_for_multiple_web_apps/</link>
-      <description><![CDATA[就上下文而言，我正在构建一个包含多个网络应用程序的投资组合网站。所以结构将是这样的......将有一个主要的单页组合，它将链接到托管在同一服务器上的其他网络应用程序，只是在不同的子域上。 NGINX 将处理反向代理的事情。  所有应用程序都将是 Next + React。我还将使用 django 后端。  这就是我遇到问题的地方。我为每个应用程序构建了单独的 django 后端。我想我可能需要将它们全部合并为一个，只是为了计算资源。目前我的所有项目也都有单独的 Next 服务器。  即使运行 NGINX + next，t2.micro 实例中的 CPU 利用率也会达到 85% 左右 是的...这不会成功。我刚刚意识到写这个。太多了……东西。我的预算也非常紧张。我怎样才能做到这一点？   由   提交 /u/Striking-Storm-6092   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alvhbn/what_kind_of_ec2_instances_for_multiple_web_apps/</guid>
-      <pubDate>Thu, 08 Feb 2024 13:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有公共代码演示如何使用 AWS 构建企业级 Web 应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1altup5/are_there_public_codes_that_demonstrate_how_to/</link>
-      <description><![CDATA[如果您正在构建自己的 Web 应用程序并需要找出构建 Web 应用程序的最佳实践，是否有在线资源演示如何设置一起来？项目结构、关注点分离、数据库配置方面的最佳实践。 我不知道“企业”这个词在这里的用法是否正确。只是如何构建一个具有大量用户的 Web 应用程序，并考虑适当的扩展和负载平衡等。    由   提交/u/aiai92  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1altup5/are_there_public_codes_that_demonstrate_how_to/</guid>
-      <pubDate>Thu, 08 Feb 2024 11:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>实用的颜色选择器，免费版本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1altm5b/useful_colourpicker_with_a_free_verison/</link>
-      <description><![CDATA[    /u/ninthessence    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1altm5b/useful_colourpicker_with_a_free_verison/</guid>
-      <pubDate>Thu, 08 Feb 2024 11:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何保持 2k+ 行公关的概览？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1altld5/how_do_you_keep_an_overview_on_2k_lines_prs/</link>
-      <description><![CDATA[说真的，怎么样？自己审查和创建它们都是痛苦的。我期待很多评论，因为过了一段时间我就放弃了，只是认为它有效。有什么建议吗？   由   提交 /u/Yayeeety   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1altld5/how_do_you_keep_an_overview_on_2k_lines_prs/</guid>
-      <pubDate>Thu, 08 Feb 2024 11:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 Web 开发中速度和可访问性的当务之急</title>
-      <link>https://www.reddit.com/r/webdev/comments/1altil4/the_imperative_of_speed_and_accessibility_in/</link>
-      <description><![CDATA[问候r/webdev， 在我们追求创造卓越的网络体验的过程中，网站速度和可访问性的重要性怎么强调都不为过。这些不仅仅是趋势或合规性复选框，而是定义我们工作的质量和包容性的基本元素。 速度定义用户体验 网站的加载时间常常为用户体验奠定基础。在用户期望即时性的时代，快速加载的网站是不可协商的。对速度的承诺反映了对用户的承诺，由于将核心网络生命周期集成到搜索排名中，它是影响从用户满意度到搜索引擎优化 (SEO) 等各个方面的关键组成部分。 优化是持续的&lt; /strong&gt; 优化过程是迭代的，需要我们的注意力超越最初的发布。定期使用 Lighthouse 等工具进行审核可以确保我们维持绩效标准，而不必产生额外成本。 绩效是多维的 绩效不仅仅体现在速度上加载一个页面。它包括交互的响应能力、动画的效率以及浏览体验的整体流畅性。性能优化就是创建一个功能与效率相结合的环境。 可访问性是不可协商的 可访问性应该是一个优先事项，而不是事后的想法。我们有责任确保我们的网站可供所有人使用，这从本质上扩大了我们的影响范围并为不同的受众提供服务。实施无障碍最佳实践既是道德要求，也是明智的商业决策。 总之，网络开发的这些方面是我们技术不可或缺的一部分。他们要求我们勤奋并塑造我们提供的体验。随着技术的不断发展，让这些原则指导我们的开发实践，以创建更高效​​、更具包容性和更成功的网站。 我最喜欢的一天是当我在 PageSpeed 的辅助功能上获得 100 分时 &gt; 请告诉我您的想法   由   提交 /u/ninthessence   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1altil4/the_imperative_of_speed_and_accessibility_in/</guid>
-      <pubDate>Thu, 08 Feb 2024 11:22:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我拥有一家代理机构，这是我刚刚收到的一封电子邮件，来自一个想要网站的人……我以为她只是在电话里这样说话……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alsznd/i_own_a_agency_and_this_is_an_email_i_just/</link>
-      <description><![CDATA[老实说，当我打开它时，我简直不敢相信所看到的，有一些您不想要的客户： 嗨，我想我不知道这对你说了什么，我要收养你作为我的儿子，无论如何，我们需要一个新网站，有一个网站，我昨晚写的，它很模糊，所以我必须正确准确地写它我们想要什么，然后我会把它给你，你决定我们应该把它放在哪里，或者通常我们把它放在最后，然后我有一张我的照片，我正在尝试看一些我的照片现在我长大了，哈哈，越老越年轻。我总是拍自己年轻时的照片，我不应该这样做。我应该做一个。这就是我的样子，但现在我想念我必须进行植入的选择。我今天眼睛里化了一些化妆品，所以我去看了医生，这就是我没有来的原因，所以我想让你知道，明天我会过来，我会完成这件事，我们可以从我们的网站开始，你可以告诉我，你认为大概会完成多少。我确信你想要照片，我有盒子的照片，但你想要的是一种我想我们可以把我所有的盒子都做一下，然后他们就可以得到一个想法，这样会更便宜对我来说，自从我们从 2011 年开始营业以来，我们又重新开始了，实际上 2007 年和 2011 年，我们在水疗产品之前坚持使用所有盒子。不管怎样，我的手机号码是 。谢天谢地，我周一换牙，所以我一直戴着口罩。哦，太糟糕了。永远不要变老，你永远不会看到你认为你会变老你知道我不会得到我妈妈我不会得到我祖母的全部哦是的，好吧，它令人毛骨悚然就像我丈夫以前也这么想的。他曾经打球和愚蠢，然后他在硅谷工作，我们很快就兑现了，进入了她自己的企业，所以嗯，但后来火山，我们必须重新开始，花了三年时间，所以那个年龄只是相当多，但我们已经慢慢恢复正常了。    由   提交/u/everything_in_sync   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alsznd/i_own_a_agency_and_this_is_an_email_i_just/</guid>
-      <pubDate>Thu, 08 Feb 2024 10:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 html 页面上运行自定义 JS 代码的简单方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alskne/simple_way_to_run_custom_js_code_on_an_html_page/</link>
-      <description><![CDATA[你好！ 我有 C++ 背景，想要在 iOS 上使用名为 Scriptable 的应用程序在网页上运行一些 javascript。这意味着我正在从服务器检索一个 php 站点，并希望从其 html 代码中获取数据。  现在，我正在尝试找到一种在将代码移至 iOS 应用程序之前在 PC 上进行调试的好方法。所以我查看了像 codepen.io 这样的网站，在那里我可以粘贴 html 代码和 css 代码。但我猜该工具正在尝试显示网页，然后找不到服务器上资源的所有其他引用。 我只想通过执行以下操作来抓取一些表格：&lt; /p&gt; var table = document.getElementById(&#39;tablename&#39;); for (var i = 0, row; row = table.rows[i]; i++) { ...do stuff...}  我想我需要一个“更简单”的方法IDE比codepen.io但是有什么可以推荐的吗？ 在chrome中我只能使用控制台输入js代码，但我不能定义变量并进行 if 语句。 非常感谢任何帮助！ ​ 感谢您的输入！    由   提交/u/tzippy84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alskne/simple_way_to_run_custom_js_code_on_an_html_page/</guid>
-      <pubDate>Thu, 08 Feb 2024 10:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>在VSC中调试使用localStorage或indexedDB的js代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alshq6/debugging_js_code_that_uses_localstorage_or/</link>
-      <description><![CDATA[大家好。  我正在编写一个浏览器扩展，它在 VSC 中使用 localStorage 和 indexedDB 存储。 我的代码被分成模块，webpack 将它们编译成单个 dev.js 和 prod.js . 是否有任何库或方法可以让我在调试器中模拟浏览器功能？ 由于 VSC 没有存储空间，调试器在遇到代码的这些部分时会中断. ​ 我正在考虑创建假类，我相信它们被称为 polyfill，但也许某些东西已经存在，但我没有运气找到它。&lt; /p&gt; ​ 谢谢   由   提交/u/mefistofelosrdt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alshq6/debugging_js_code_that_uses_localstorage_or/</guid>
-      <pubDate>Thu, 08 Feb 2024 10:11:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>LCP 真的很慢 - 需要一些建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1als9w4/lcp_really_slow_could_use_some_advice/</link>
-      <description><![CDATA[大家好， 我一直在努力尝试关闭我的一个网站的 LCP。我安装了 WP-Rocket，但 LCP 仍然非常高。 https://pagespeed.web.dev/analysis/https-www-petsuppliesandtoys-com/hp1vwb2pce?form_factor=mobile  我尝试了很多不同的方法，但 LCP 仍在继续要高。据说是 LCP 的图像相对较小，所以我不确定为什么它会注册 17 秒 LCP。比修复问题更重要的是如何找出导致延迟的原因。如果社区中的任何人可以提供一些建议，我将不胜感激。谢谢！   由   提交 /u/bigskycoffeelover   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1als9w4/lcp_really_slow_could_use_some_advice/</guid>
-      <pubDate>Thu, 08 Feb 2024 09:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该学习哪个堆栈才能成为一名创意前端开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alrqfb/which_stack_should_i_study_to_become_a_creative/</link>
-      <description><![CDATA[大家好， 我渴望成为一名更具创造力的前端开发人员，并且正在寻求一些建议要关注哪些堆栈或技术。我对探索那些能让我通过 Web 开发表达创造力的领域特别感兴趣。 我一直在考虑深入研究 WebGL、GSAP（GreenSock 动画平台）和 Three.js，但我&#39;我不完全确定从哪里开始。我有点担心自己太小众而无法研究这个。它有未来吗？ 对于那些有创意前端开发经验或了解这些技术的人，我很想听听你们的见解。对于那些希望增强创造力并突破前端开发界限的人，您会推荐哪个堆栈？您认为我应该考虑探索其他任何工具或框架吗？ 您可以提供的任何建议、技巧或资源将不胜感激！提前致谢！   由   提交/u/Marco_Boyo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alrqfb/which_stack_should_i_study_to_become_a_creative/</guid>
-      <pubDate>Thu, 08 Feb 2024 09:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在 iOS 17 beta 中破坏了网络应用程序并且尚未修复它们</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alr8mj/apple_broke_web_apps_in_ios_17_beta_and_hasnt/</link>
-      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alr8mj/apple_broke_web_apps_in_ios_17_beta_and_hasnt/</guid>
-      <pubDate>Thu, 08 Feb 2024 08:41:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
