@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 08 Feb 2024 06:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 09:13:12 GMT</lastBuildDate>
+    <item>
+      <title>OpenAPI Generator v7.3.0 发布，包含 4 个适用于 Rust、Kotlin、Scala 和 Java 的新生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1alrj0q/openapi_generator_v730_released_with_4_new/</link>
+      <description><![CDATA[ 由   提交/u/wing328  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alrj0q/openapi_generator_v730_released_with_4_new/</guid>
+      <pubDate>Thu, 08 Feb 2024 09:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instacart 利用机器学习和事件处理创建实时商品可用性架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1alr8z0/instacart_creates_realtime_item_availability/</link>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alr8z0/instacart_creates_realtime_item_availability/</guid>
+      <pubDate>Thu, 08 Feb 2024 08:42:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为工程经理，你应该坚持技术吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1alr6bq/should_you_stay_technical_as_an_engineering/</link>
+      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alr6bq/should_you_stay_technical_as_an_engineering/</guid>
+      <pubDate>Thu, 08 Feb 2024 08:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用微服务架构构建票务应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1alqzpd/built_a_ticketing_app_with_microservices/</link>
+      <description><![CDATA[ 由   提交 /u/TusharKapil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alqzpd/built_a_ticketing_app_with_microservices/</guid>
+      <pubDate>Thu, 08 Feb 2024 08:23:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年移动应用开发趋势和新兴功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1alqcwq/mobile_app_development_trends_and_emerging/</link>
+      <description><![CDATA[ 由   提交/u/Zealousideal_Dot_76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alqcwq/mobile_app_development_trends_and_emerging/</guid>
+      <pubDate>Thu, 08 Feb 2024 07:38:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>非对称加密——Whatsapp 机制。 WhatsApp的非对称加密方法。最近在一次面试中，我被要求系统设计一款可以与WhatsApp相媲美的通讯软件。此外，面试官主要感兴趣的领域是端到端加密。</title>
+      <link>https://www.reddit.com/r/programming/comments/1alqc7f/asymmetric_encryption_whatsapp_mechanism/</link>
+      <description><![CDATA[ 由   提交 /u/Ok_Slip_5843   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alqc7f/asymmetric_encryption_whatsapp_mechanism/</guid>
+      <pubDate>Thu, 08 Feb 2024 07:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的 Python 温度转换器：摄氏度到华氏度以及华氏度到摄氏度</title>
+      <link>https://www.reddit.com/r/programming/comments/1alqb8m/simple_python_temperature_converter_celsius_to/</link>
+      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alqb8m/simple_python_temperature_converter_celsius_to/</guid>
+      <pubDate>Thu, 08 Feb 2024 07:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 redux 和 redux saga 的 Snap-Fetch 数据获取工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1alq9zg/snapfetch_data_fetching_tool_using_redux_and/</link>
+      <description><![CDATA[ 由   提交/u/Charming-Treacle-726   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alq9zg/snapfetch_data_fetching_tool_using_redux_and/</guid>
+      <pubDate>Thu, 08 Feb 2024 07:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>向量是 Action Script 3 编程语言中用于存储所有类型且数量不受限制的数据的容器</title>
+      <link>https://www.reddit.com/r/programming/comments/1alq760/a_vector_is_a_container_for_storing_all_types_of/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1alq760/a_vector_is_a_container_for_storing_all_types_of/</guid>
+      <pubDate>Thu, 08 Feb 2024 07:26:55 GMT</pubDate>
+    </item>
     <item>
       <title>Node.js 社区关于默认启用 Corepack 的争论愈演愈烈</title>
       <link>https://www.reddit.com/r/programming/comments/1alovz7/nodejs_community_debate_intensifies_over_enabling/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/Bat-Hat47  /u/Bat-Hat47 bat-hat.com/2024/01/most-used-powerful-kali-linux-commands.html&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1alikdk/any_thoughts_on_other_essential_musttoknow_linux/</guid>
       <pubDate>Thu, 08 Feb 2024 00:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>JQuery 4 已发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1alhgw1/jquery_4_is_out/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alhgw1/jquery_4_is_out/</guid>
-      <pubDate>Wed, 07 Feb 2024 23:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版 188 发行说明</title>
-      <link>https://www.reddit.com/r/programming/comments/1algfjk/release_notes_for_safari_technology_preview_188/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1algfjk/release_notes_for_safari_technology_preview_188/</guid>
-      <pubDate>Wed, 07 Feb 2024 23:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设计您的第一个 Web 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1alfisz/how_to_design_your_first_web_application/</link>
-      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alfisz/how_to_design_your_first_web_application/</guid>
-      <pubDate>Wed, 07 Feb 2024 22:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 Udemy 优惠券课程集合</title>
-      <link>https://www.reddit.com/r/programming/comments/1aleqsc/free_udemy_coupon_courses_collection/</link>
-      <description><![CDATA[ 由   提交/u/thweb  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aleqsc/free_udemy_coupon_courses_collection/</guid>
-      <pubDate>Wed, 07 Feb 2024 21:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需 48 小时即可使用 Python 自动化制作 YouTube 短片！</title>
-      <link>https://www.reddit.com/r/programming/comments/1alepy6/automating_youtube_shorts_in_python_in_just_48/</link>
-      <description><![CDATA[ 由   提交 /u/-F10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alepy6/automating_youtube_shorts_in_python_in_just_48/</guid>
-      <pubDate>Wed, 07 Feb 2024 21:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>LINK-INSPECTOR 2.1：自动扫描链接、文件和目录以查找损坏的链接🔗 500+ NPM 下载🚀 经常在 github 存储库上使用，以快速审核旧代码🔍 用于 Google Tenserflow、Amazon PECOS 等💰</title>
-      <link>https://www.reddit.com/r/programming/comments/1aldbpj/linkinspector_21_automatically_scan_links_files/</link>
-      <description><![CDATA[ 由   提交/u/dhillonjustin99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aldbpj/linkinspector_21_automatically_scan_links_files/</guid>
-      <pubDate>Wed, 07 Feb 2024 20:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greenmask v0.1.4 发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1ald3vt/greenmask_v014_release/</link>
-      <description><![CDATA[ 由   提交/u/anyweny  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ald3vt/greenmask_v014_release/</guid>
-      <pubDate>Wed, 07 Feb 2024 20:42:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pyodide：基于 WebAssembly 的浏览器和 Node.js 的 Python 发行版</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaw3h/pyodide_python_distribution_for_the_browser_and/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaw3h/pyodide_python_distribution_for_the_browser_and/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 1.22 发行说明</title>
-      <link>https://www.reddit.com/r/programming/comments/1alaw2y/go_122_release_notes/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1alaw2y/go_122_release_notes/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:10:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
