@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 09:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:21:02 GMT</lastBuildDate>
+    <item>
+      <title>iOS 17.4 似乎取消了欧盟对 Web 应用程序的支持</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ammqve/ios_174_seems_to_remove_web_app_support_in_the_eu/</link>
+      <description><![CDATA[      PWA 似乎无法在 iOS 17.4+ 上运行。    由   提交/u/Gugadev  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ammqve/ios_174_seems_to_remove_web_app_support_in_the_eu/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对框架的了解胜过对 JS 的了解</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ammq8m/i_know_frameworks_better_than_i_know_js/</link>
+      <description><![CDATA[我实际上从未真正（专业地）使用过 vanilla JS，并且总是通过实践和创造来学习。我在过去的 7 年里一直在使用框架，现在在面对普通的 JS 问题或核心原则时有时会毫无头绪。 还有其他人遇到同样的问题吗？我该如何填补这个知识空白？   由   提交 /u/Thomdesle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ammq8m/i_know_frameworks_better_than_i_know_js/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我通过我的网站赚钱，我会遇到任何法律问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ammly4/will_i_have_any_legal_trouble_if_i_make_money/</link>
+      <description><![CDATA[我想制作一个教育网站，我正在考虑添加广告或订阅。我的问题是我不知道我是否需要纳税或遇到任何法律问题。我的背景是我是一名居住在匈牙利的学生，但我不是匈牙利人   由   提交/u/PaleontologiesFirm13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ammly4/will_i_have_any_legal_trouble_if_i_make_money/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试实施 HTTPS 后控制台显示 GET http 请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ammkot/console_showing_get_http_request_after_trying_to/</link>
+      <description><![CDATA[我不明白为什么，但我尝试在本地启用 https，以便代码更接近地模仿我稍后开始托管时的情况。我可以成功转到 https://127.0.0.1:8000/ 但由于某种原因在控制台中它仍然显示为 GET / HTTP/1.1 当我访问本地站点的其他页面时出现同样的问题。为什么会发生这种情况？   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ammkot/console_showing_get_http_request_after_trying_to/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求 CMS 自托管选项的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ammhrc/seeking_recommendations_for_self_hosting_option/</link>
+      <description><![CDATA[大家好！ 我正在寻找一些关于最便宜的自我的社区智慧-带有数据库的 CMS 后端托管解决方案。我正在建立一个网站，预计每天有 500-1000 名访问者，目标是简单性和成本效益。 这是我正在寻找的内容：  使用情况：预计每天有 500-1000 名访客。 最低配置：首选简单直接的设置。 经济高效的托管：我一直在考虑 Heroku，它提供每月 5-7 美元的数据库选项。  我很想听听您成功使用过的其他解决方案类似的用例。任何想法或建议将不胜感激！ 提前致谢！   由   提交/u/nikolaymih11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ammhrc/seeking_recommendations_for_self_hosting_option/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Plesk 创建子域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/</link>
+      <description><![CDATA[大家好！ 我将为客户重新启动一个网站。旧网站应在创建过程中保持在线状态。现在我已收到您的 Plesk 界面登录数据，据我所知，我必须在那里创建一个子域并在其上安装 Wordpress。网站完成后，应该可以通过旧域名或普通域名访问。我在这里非常小心，所以我想请教各位专家是否有人可以向我解释如何正确执行这些步骤？我需要考虑什么？感谢您的帮助。   由   提交/u/Smooth-Base9330   /u/Smooth-Base9330 reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Next.js 前端构建 Python 后端 - 廉价且安全的身份验证选项？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amm72i/building_a_python_backend_with_nextjs_frontend/</link>
+      <description><![CDATA[大家好， 我正在开发一个带有 Python 后端和 Next.js 前端的 Web 应用程序。我需要实现用户身份验证，并且希望得到一些建议。 标准：  具有成本效益 安全 兼容使用 Python 和 Next.js  有什么建议或见解吗？谢谢！我研究过supabase和firebase，但supabase说它仍在为python开发。还有其他想法吗？    由   提交 /u/ParanoidPath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amm72i/building_a_python_backend_with_nextjs_frontend/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的第一个 React 微前端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amlyi1/your_first_react_micro_frontend/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/haasilein   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amlyi1/your_first_react_micro_frontend/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>那么我是否在浪费时间学习这一切呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amlvj4/so_am_i_wasting_my_time_learning_all_this_or_not/</link>
+      <description><![CDATA[我想进入网络开发领域，因为我听说它报酬很高，而且我可能会找到一份远程工作并在家工作。 但是听到所有这些裁员以及比我更有经验的人如何找不到工作让我觉得我只是在浪费时间。   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amlvj4/so_am_i_wasting_my_time_learning_all_this_or_not/</guid>
+      <pubDate>Fri, 09 Feb 2024 11:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>零编码经验的 SaaS 冒险 - 第 2 周更新</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amld3v/saas_adventure_with_zero_coding_experience_week_2/</link>
+      <description><![CDATA[      我正在从头开始构建一个成熟的 SaaS，没有编码经验。  我正在记录它，以向其他人（和我自己：）证明 2024 年这是可能的。 跟进 原始帖子，这是我第 2 周的进度。  本周，我解决了 FE 和 BE 的集成问题，使 Firestore 和 Next.js 握手言和。 我原以为轻而易举的任务变成了马拉松。 以下是我的冒险经历：https://youtu.be/QKnTMSOrh8A。这不仅仅是代码的问题；这是关于学习如何学习，就我而言 - 学习 GPT 能做什么和不能做什么。 从头开始学习很困难 - 我希望这能鼓励现在需要它的人。可以随意提出任何问题，我会在这里闲逛。 对于那里的退伍军人，我洗耳恭听您的建议。 对于那些考虑开始自己的项目的人，让这是一个迹象。如果我能做到，你也能。让我们保持简单，专注于本质，并构建一些伟大的东西。  期待听到您的想法或回答问题👋🏻 https://preview.redd.it/ytweez7ngjhc1.png?width=1406&amp;format=png&amp;auto=webp&amp;s=9ddcddb06192045b975b32e8ad8120f 0e37c8446   由   提交/u/oba2311  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amld3v/saas_adventure_with_zero_coding_experience_week_2/</guid>
+      <pubDate>Fri, 09 Feb 2024 10:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建市场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amlbov/creating_a_marketplace/</link>
+      <description><![CDATA[嗨，菜鸟问题。您会选择什么语言/路径来创建市场。公司购买/销售产品的地方。示例：我是货运公司，我有一些备件想要出售，其他公司想要购买。他们来到我的网站/平台，筛选出他们想要的东西并联系卖家。我相信最好的付款方式是托管。  当然，我没有 webdev 经验，但我什至不知道该寻找哪些专家可以提供帮助。你有什么建议？  谢谢。   由   提交/u/Standard-Bike-3730   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amlbov/creating_a_marketplace/</guid>
+      <pubDate>Fri, 09 Feb 2024 10:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 作为个人作品集！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amkr3l/minecraft_as_personal_portfolio/</link>
+      <description><![CDATA[ 由   提交 /u/dvfcfbgv    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amkr3l/minecraft_as_personal_portfolio/</guid>
+      <pubDate>Fri, 09 Feb 2024 09:58:14 GMT</pubDate>
+    </item>
     <item>
       <title>您如何记录公司中的代码？</title>
       <link>https://www.reddit.com/r/webdev/comments/1amk2t5/how_do_you_document_your_codes_in_your_company/</link>
@@ -15,7 +99,7 @@
     <item>
       <title>如何优化该组件以缩短 LCP 时间</title>
       <link>https://www.reddit.com/r/webdev/comments/1amjynr/how_do_i_optimize_this_component_for_reduced_lcp/</link>
-      <description><![CDATA[import { useState, useEffect } from &#39;react&#39;;从 &#39;react-icons/bs&#39; 导入 { BsChevronCompactLeft, BsChevronCompactRight };从&#39;react-icons/rx&#39;导入{RxDotFilled}；类型 ImageSliderProps = { 图像: String[]; // ImageKit.io 上提供的 URL 字符串 };导出函数 ImageSlider({ images }: ImageSliderProps) { const [currentImageIndex, setCurrentImageIndex] = useState(0);让 xdelta = null;让 ydelta = null; useEffect(() =&gt;; { const Interval = setInterval(() =&gt;; { const isLastImage = currentImageIndex === images.length - 1; const newIndex = isLastImage ? 0 : currentImageIndex + 1; setCurrentImageIndex(newIndex); }, 5000); return () =&gt; clearInterval(interval); // 清理 }, [currentImageIndex, images.length]); const handleTouchStart = (e) =&gt;; { xdelta = e.touches[0].clientX; ydelta = e.touches[0].clientY; } const handleTouchEnd = (e) =&gt;; { const xmove = xdelta !== null ? e.changedTouches[0].clientX - xdelta : 0; const ymove = ydelta !== null ? e.changedTouches[0].clientY - ydelta : 0; if (Math.abs(xmove) &gt; Math.abs(ymove)) { if (xmove &gt; 0) { handlePreviousImage(); } } else { 处理NextImage(); } } } consthandleNextImage = () =&gt;; { const isLastImage = currentImageIndex === images.length - 1;常量 newIndex = isLastImage ? 0：当前图像索引+1；设置当前图像索引（新索引）； }; const handlePreviousImage = () =&gt;; { const isFirstImage = currentImageIndex === 0;常量 newIndex = isFirstImage ? images.length - 1 : 当前图像索引 - 1;设置当前图像索引（新索引）； }; const goToImage = (索引: 数字) =&gt; { setCurrentImageIndex(索引); } return (         {images.map((_image, index) =&gt; (  goToImage(index) } className=&#39;text-2xl 光标指针&#39; &gt;   ))} &lt;/div&gt;  ）； }  此组件导致 PageSpeed 性能得分较低。我该如何改进它？   由   提交 /u/fasterrider81   [链接] [评论]]]></description>
+      <description><![CDATA[import { useState, useEffect } from &#39;react&#39;;从 &#39;react-icons/bs&#39; 导入 { BsChevronCompactLeft, BsChevronCompactRight };从&#39;react-icons/rx&#39;导入{RxDotFilled}；类型 ImageSliderProps = { 图像: String[]; // ImageKit.io 上提供的 URL 字符串 };导出函数 ImageSlider({ images }: ImageSliderProps) { const [currentImageIndex, setCurrentImageIndex] = useState(0);让 xdelta = null;让 ydelta = null; useEffect(() =&gt;; { const Interval = setInterval(() =&gt;; { const isLastImage = currentImageIndex === images.length - 1; const newIndex = isLastImage ? 0 : currentImageIndex + 1; setCurrentImageIndex(newIndex); }, 5000); return () =&gt; clearInterval(interval); // 清理 }, [currentImageIndex, images.length]); const handleTouchStart = (e) =&gt;; { xdelta = e.touches[0].clientX; ydelta = e.touches[0].clientY; } const handleTouchEnd = (e) =&gt;; { const xmove = xdelta !== null ? e.changedTouches[0].clientX - xdelta : 0; const ymove = ydelta !== null ? e.changedTouches[0].clientY - ydelta : 0; if (Math.abs(xmove) &gt; Math.abs(ymove)) { if (xmove &gt; 0) { handlePreviousImage(); } } else { 处理NextImage(); } } } consthandleNextImage = () =&gt;; { const isLastImage = currentImageIndex === images.length - 1;常量 newIndex = isLastImage ? 0：当前图像索引+1；设置当前图像索引（新索引）； }; const handlePreviousImage = () =&gt;; { const isFirstImage = currentImageIndex === 0;常量 newIndex = isFirstImage ? images.length - 1 : 当前图像索引 - 1;设置当前图像索引（新索引）； }; const goToImage = (索引: 数字) =&gt; { setCurrentImageIndex(索引); } return (         {images.map((_image, index) =&gt; (  goToImage(index) } className=&#39;text-2xl 光标指针&#39; &gt;   ))} ;  ）； }  此组件导致 PageSpeed 性能得分较低。我该如何改进它？   由   提交 /u/fasterrider81   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1amjynr/how_do_i_optimize_this_component_for_reduced_lcp/</guid>
       <pubDate>Fri, 09 Feb 2024 09:00:00 GMT</pubDate>
     </item>
@@ -25,90 +109,6 @@
       <description><![CDATA[我真的很喜欢斯坦福网站上的活动部分，并试图为我的项目复制它，但无法让它看起来那么好，我需要它用于一个大学项目。我可以通过什么方式从网站复制确切的部分，包括 css 和 JavaScript 部分，以便我可以根据自己的喜好修改它？如果可以使用任何工具或其他工具来实现这一点，那将会有很大的帮助。   由   提交 /u/FaZe_Fladder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1amjrx1/how_to_copy_a_section_as_it_is_from_a_website/</guid>
       <pubDate>Fri, 09 Feb 2024 08:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个辅助功能扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amjc6g/i_made_an_accessibility_extension/</link>
-      <description><![CDATA[嘿伙计们，感谢您查看我的帖子！ 我刚刚发布了NavKeys，一种辅助功能 Chrome 扩展程序，可让您使用箭头键导航页面。老实说，它目前有点问题，肯定需要一些工作，所以我会在空闲时间改进它，使其更加直观和无缝。 我只是想知道，该怎么办你们想到这个主意了吗？你认为这会有用吗？你个人会使用它吗？假设它不像现在那样有问题，哈哈。 此外，如果你想做出贡献，请随时在 NavKeys 存储库 非常感谢，祝您有美好的一天！   由   提交/u/SideLow2446   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amjc6g/i_made_an_accessibility_extension/</guid>
-      <pubDate>Fri, 09 Feb 2024 08:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建前端结构并构建正确的前端以便稍后可以实现后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amj2fo/how_do_i_create_the_frontend_structure_and_build/</link>
-      <description><![CDATA[上下文： 我有 6 周的时间与计算机科学班的一个小组一起构建一个全栈项目，这是我第一次做全栈项目在团体环境中。假设我们计划构建一个与 yelp 类似的网站，我是前端团队的一员，我们决定在前端使用 CSS、HTML 和 REACT； Node.js 和 Express.js 用于后端；和MySQL作为数据库。 我想知道如何在不依赖后端的情况下开始实现前端部分？我正在考虑为下次会议绘制网站结构草图，以便我们了解它的外观，但是是否有关于如何构建网站的特定结构？就像我要按页眉、页脚、导航、部分/内容，也许还有侧边栏来拆分网站一样？ 我们如何在不同的人之间分配工作？我们是否将其按我们应该处理的组件进行拆分？ 任何帮助或链接到我可以快速学习所有这些内容的地方将不胜感激:)。 &lt; !-- SC_ON --&gt;  由   提交 /u/ViSioNTx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amj2fo/how_do_i_create_the_frontend_structure_and_build/</guid>
-      <pubDate>Fri, 09 Feb 2024 07:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>JS 运行时是否过多？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amiqjo/are_there_too_many_js_runtimes/</link>
-      <description><![CDATA[AWS 刚刚开源了自己的 https://github.com /awslabs/llrt 添加到现有的。根据我的经验，所有这些都有些不相容。基本的东西可能有效，但总有一些东西会在某些时候困扰你。如果不是在实际运行时，那么在与现有生态系统的集成中。 已经有一些库具有针对不同运行时的特定代码（.node.js、.edge.js、.bun.js 等）并且然后是框架和库在基本类型之上添加自己的装饰器以实现最大程度的混乱。  现在的趋势是用 zig、c++、Rust 等重写 js 运行时。为什么不直接使用它们...  &amp;# 32；由   提交 /u/yksvaan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amiqjo/are_there_too_many_js_runtimes/</guid>
-      <pubDate>Fri, 09 Feb 2024 07:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kreya：邮递员/失眠症的替代品，并不糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ami0w1/kreya_a_postmaninsomnia_alternative_that_doesnt/</link>
-      <description><![CDATA[大家好！  Kreya 是 Postman/Insomnia 的替代品，它以 JSON 格式在本地存储项目文件，并且关心隐私。这允许您将项目与您喜欢的软件同步，例如通过将其签入 git 存储库。无需帐户/登录，只需下载即可开始使用。 免责声明：我是 Kreya 的作者之一，所以如果您对此有任何疑问，请联系我。&lt; /p&gt;   由   提交 /u/mallenspach   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ami0w1/kreya_a_postmaninsomnia_alternative_that_doesnt/</guid>
-      <pubDate>Fri, 09 Feb 2024 06:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有半代码平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amhc7w/are_there_any_halfcode_platforms_out_there/</link>
-      <description><![CDATA[嘿伙计们，这里是经验丰富的开发人员。 我看到开发人员经常贬低低代码/无代码解决方案，但我老实说，我对这个概念很感兴趣，尽管我还没有找到一个可以正确执行此操作的平台，但我所知道的所有平台（例如 Bubble 和 Retool）在我看来执行得都很差。我认为他们缺少的是一个集成良好的自定义代码功能。 我认为，如果低代码具有制作精良的自定义编码功能，它就可以很好地工作。通过这种方式，您可以使用无代码轻松构建平凡的重复性内容，但对于任何更自定义/高级的内容，您可以自己编写一些代码。正确获取自定义代码部分的代码工具？也许问这个问题的正确方法是是否有任何工具专注于自定义代码，但有一些无代码功能作为奖励？欢迎分享您对低代码的一般看法。   由   提交/u/SideLow2446   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amhc7w/are_there_any_halfcode_platforms_out_there/</guid>
-      <pubDate>Fri, 09 Feb 2024 06:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最适合网络开发的 Macbook？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amgayr/best_macbook_in_2024_for_web_dev/</link>
-      <description><![CDATA[截至 2024 年，哪种 Macbook 最适合 Web 开发人员？    ;由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amgayr/best_macbook_in_2024_for_web_dev/</guid>
-      <pubDate>Fri, 09 Feb 2024 05:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于表单属性的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amg6b9/question_about_forms_attributes/</link>
-      <description><![CDATA[据我了解，属性“action”定义了数据发送的位置。这可以对普通网站访问者隐藏吗？  我是网络开发新手，但我觉得它应该是值得隐藏的东西，以阻止人们向数据接收位置发送垃圾邮件。  我有点困惑，因为我刚刚查看了 Instagram 登录页面，发现它们实际上根本没有“action”属性？它对我隐藏还是他们使用不同的方法发送数据？   由   提交 /u/RizMC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amg6b9/question_about_forms_attributes/</guid>
-      <pubDate>Fri, 09 Feb 2024 04:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>事后付费修复漏洞？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amfm8i/payment_to_fix_vulnerabilities_after_the_fact/</link>
-      <description><![CDATA[我受雇于一家公司，花了大约 1.5 年的时间为他们开发了一个应用程序。它始终是一个 POC，公司没有吸引力。这也是非常非正式的。 “让我们尝试构建这个，好吧，不，不是那样，而是像这样。” 无论如何，他们用完了钱，聘用也结束了。没有什么不好的感觉。  现在，他们似乎对潜在投资者感兴趣，但他们要求先进行渗透测试。不用担心，我提供 APK 发送给团队进行分析。 返回时有大约 10 个小问题，但投资者对此感到担忧。一切都好，我们可以修复它们。但是，客户似乎认为他们不应该付费，因为这是应用程序的问题，应该在保留期间解决。 我参与了许多笔测试，甚至是企业公司去获取 ISO 证书，并且在开发过程中几乎总会遇到一些小问题。 我是说我应该得到报酬来解决这些问题。你有什么想法？   由   提交 /u/axl_hart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amfm8i/payment_to_fix_vulnerabilities_after_the_fact/</guid>
-      <pubDate>Fri, 09 Feb 2024 04:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>行为注意事项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amfjiy/behance_dos_and_donts/</link>
-      <description><![CDATA[嗨！我是行为新手，想展示我开发的网站。我也从事 ui/ux 方面的工作。您能分享一些有效展示我的项目的技巧吗？该做什么和不该做什么，以及怎样才能制作出出色的封面图片   由   提交/u/pinkypr0mis3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amfjiy/behance_dos_and_donts/</guid>
-      <pubDate>Fri, 09 Feb 2024 04:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>将图像高效地放到网络上从未如此简单。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amet0u/its_never_been_easier_to_performantly_put_images/</link>
-      <description><![CDATA[   /u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amet0u/its_never_been_easier_to_performantly_put_images/</guid>
-      <pubDate>Fri, 09 Feb 2024 03:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASP.NET Core：用于创建视图和处理 POST 请求的两个视图模型？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ame1jh/aspnet_core_two_view_models_for_creating_view_and/</link>
-      <description><![CDATA[所以我有一个由表单组成的视图。我传递一个视图模型来帮助构建视图，并将不同的视图模型传递给控制器​​中的 POST 方法来帮助处理提交。我面临的问题是，如果我想添加验证，“asp-for”标签助手只会查看传递给视图的视图模型。所以这让我想知道我是否在做一些不推荐的事情？我是否应该不在 POST 方法签名中传递视图模型，而是单独传递每个表单输入字段？   由   提交 /u/zerquet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ame1jh/aspnet_core_two_view_models_for_creating_view_and/</guid>
-      <pubDate>Fri, 09 Feb 2024 03:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助找出错误：即使我点击旁边的链接，触摸输入也会打开下拉菜单/触发链接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amczd6/need_help_figuring_out_a_bug_touch_input_opens/</link>
-      <description><![CDATA[嗨， 我创建了一个带有 div 的网站，该 div 在悬停时显示下拉菜单。我现在正在尝试使其适合移动设备，但当我使用触摸屏而不是鼠标时，我遇到了两个问题。  即使我触摸 div 旁边，它仍然表现得像我点击了它，它显示了下拉菜单。我对所有链接都这样做。我在 Web 开发模式下检查了所有元素框，我 100% 认为它在它们之外。此外，当我使用鼠标时，它是像素完美的。 当通过点击潜水下方显示下拉列表时，它会自动选择下拉列表的第一个元素并触发到页面的链接。当我看到它时，看起来似乎显示了下拉列表，并且在第一个元素（我点击的位置）也被点击后不到一秒的时间。  我过去尝试过谷歌搜索/调试两天了，但我要么没有使用正确的关键字，要么这是我所做的具体错误，因为我找不到答案。 我读到了有关停止传播的内容，但这似乎是与JS相关，这个问题只与HTML和CSS有关。我还尝试在 :hover 之后添加 :active，但得到了完全相同的行为。 下拉菜单设置为 display: none，当我将鼠标悬停在 div 上时，它会更改为 display: block。 &gt; 任何正确方向的帮助/指示将不胜感激。 谢谢 这是一个[视频](https://youtu.be/ryaVtKxGYyg）的问题。在视频中，您可以看到我单击下拉菜单，但它仍然打开它。当我使用鼠标指针时，一切都很好。 这是我的 css： .dropdown { position ：相对； 显示：内联块； } &lt; code&gt;.dropdownContent { 显示：无； 位置：绝对； &lt; p&gt;背景颜色：#EFEFEF; 盒子阴影：0px 8px 16px 0px rgba(0,0,0,0.2);&lt; /p&gt; z 索引：1; 文本对齐：左； 顶部: 0.7rem; } .dropdownContent a { 填充：0.2rem 0.2rem； 文本装饰：无； 显示：块；  颜色：#112B3C; 左边距：0px; 边距-right: 0px; 字体大小: 0.5rem; } &lt; p&gt;.dropdown:hover .dropdownContent { display: block;} ​ .dropdownContent a:hover { 背景颜色：#205375; 过渡：背景0.3 秒缓入缓出； 颜色：#EFEFEF; } 这是我的 html： &lt;div class=&quot;colonne dropdown&quot;&gt;   &lt;a&gt;&lt;?= displayText(“菜单”) ?&gt;&lt;/a&gt; &lt;div class=&quot;dropdownContent&quot;&gt; 网站服务 &lt;a href=&#39;/reseau&#39;&gt;Reseau&lt;/a&gt; &lt;a href=&#39;/virtualization-de-serveurs&#39;&gt;虚拟化- de server&lt;/a&gt; Gestion de sauvegardes   &lt;/div&gt;  编辑：我尝试修复代码的格式，但无法让它正确显示，抱歉。   由   提交/u/itachi737  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amczd6/need_help_figuring_out_a_bug_touch_input_opens/</guid>
-      <pubDate>Fri, 09 Feb 2024 02:09:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
