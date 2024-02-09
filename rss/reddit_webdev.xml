@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 12:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 15:12:30 GMT</lastBuildDate>
+    <item>
+      <title>如果 SQL 语句返回数据库怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amq6ra/what_if_an_sql_statement_returned_a_database/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amq6ra/what_if_an_sql_statement_returned_a_database/</guid>
+      <pubDate>Fri, 09 Feb 2024 15:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我的棋盘游戏带入在线生活的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ampy8b/website_for_bringing_my_board_games_to_life_online/</link>
+      <description><![CDATA[寻求入门帮助（仅限业余爱好者） 您好，我正在寻求启动业余爱好者项目的帮助。我没有编程或构建网站的经验，尽管我愿意学习并向其他人寻求帮助，但我没有时间限制，而且做这些都不是为了钱。所以我可以很悠闲地做这件事，纯粹只是因为我想把我的一些想法变成现实。  我想建立一个网站来创建和托管我在现实生活中制作的一些基于浏览器的棋盘游戏版本。其中一个潜在独特且可能困难的部分是，对于其中一些人来说，我希望能够同时拥有传统的回合制游戏或实时策略模式（模拟地，我使用沙计时器来实现这一点）它确实有效，尽管有点挑剔）。这些游戏比《帝国时代》或《星际争霸》等基于计算机的 RTS 简单得多，为了更好的想法，可以想象一下国际象棋游戏，但不是轮流进行，而是每个棋子都有一个 30 秒的计时器，当计时器一个单独的部件已升起，当您将其指向（翻转沙漏）时，它可以再次自由移动。所以你和你的对手同时玩弄多个棋子。我的游戏在某种程度上比这更简单，因为每面可能有 7 个棋子。在其他方面有点复杂，因为除了移动和捕获棋子之外，你还可以做更多的事情。整个“板”都适合一个屏幕，因此不需要屏幕滚动，从用户角度来看，命令都很简单，可以用鼠标完成，因此不需要热键等。但它必须是足够精确，例如，黑主教和白骑士都试图移动到同一个位置，无论哪个用户先输入都会先到达该位置。  游戏一开始也需要随机设置，所以我也需要有这个功能。  这仅适用于通过互联网进行的 PvP。大多数游戏都是 1v1，也许一对夫妇可以进行 4 或 5 名玩家。没有计划或愿望做任何类型的人工智能。与其他 RTS 不同的是，它没有寻路或自主行动，它比这更简单——实际上就像抽象策略棋盘游戏，但棋子有计时器。  还希望它能够支持排行榜/天梯，其中帐户根据表现获得 ELO 分数。但对实际的配对不太感兴趣。  任何有关从哪里开始的建议将不胜感激！谢谢   由   提交 /u/SwanseaStephen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ampy8b/website_for_bringing_my_board_games_to_life_online/</guid>
+      <pubDate>Fri, 09 Feb 2024 14:55:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Over The Edge：微软的设计策略如何损害免费浏览器的选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ampums/over_the_edge_how_microsofts_design_tactics/</link>
+      <description><![CDATA[一份非常有趣的报告，深入探讨了微软在推动 Edge 方面的黑暗模式。从伪装广告和自动重置浏览器首选项，到将实际标记注入竞争对手的网站。 在 Apple 削弱 PWA 之际看到这一点真是太有趣了。 &lt;!-- SC_ON - -&gt;  由   提交/u/rg Three   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ampums/over_the_edge_how_microsofts_design_tactics/</guid>
+      <pubDate>Fri, 09 Feb 2024 14:51:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在无头 CMS（有效负载）之上构建自定义管理 UI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ampslw/building_custom_admin_ui_on_top_of_a_headless_cms/</link>
+      <description><![CDATA[大家好， 这里是初级。我的任务是创建一个带有付款门的工作委员会，我认为这是一项艰巨的任务。但我想要这样做，并且我选择了像 Payload 这样的无头 CMS。第一个问题，你会往这个方向发展吗？我不是高年级学生，我不想从头开始构建 CMS，所以最好相信 Payload 的专业人士。  但是，管理 UI 非常基本且不可自定义。这对于我这个开发人员来说是完美的，但对于想要管理东西的客户来说却不是。构建使用 Payload 中的数据的自定义管理前端是一个坏主意吗？当轮子就在那里时，这有点像重新发明轮子。我最担心的是安全性，如何使其足够安全，以便它充当第二个个性化（且更有限）的仪表板。这是一个愚蠢的想法吗？或者没那么蠢？ 谢谢！   由   提交/u/koevh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ampslw/building_custom_admin_ui_on_top_of_a_headless_cms/</guid>
+      <pubDate>Fri, 09 Feb 2024 14:48:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌搜索说我的页面为 noindex 。 。 。但我还没有</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ampkbv/google_search_is_saying_ive_got_my_page_as/</link>
+      <description><![CDATA[我写了页面，没有索引的元标记，我没有写任何标题。 ​ ; 是不是因为我刚刚请求了它，所以它是默认设置？  我在渲染上托管 - 这是他们的结局吗？   由   提交 /u/LordBadgerFlaps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ampkbv/google_search_is_saying_ive_got_my_page_as/</guid>
+      <pubDate>Fri, 09 Feb 2024 14:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>页面一侧的“调用此导航”是什么意思？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amp0r1/what_does_on_call_this_navigation_on_the_side_of/</link>
+      <description><![CDATA[      我正在寻找我用红色标记的网站的特定部分。它像页内导航一样显示页面中的各个部分，但我找不到对应的词。它叫什么？ ​ https://preview.redd.it/lvdwwkk2ikhc1.png?width=1717&amp;format=png&amp;auto=webp&amp;s=8bc4279749360fff111aa4e6eff0222ccae1ee68 &lt; !-- SC_ON --&gt;  由   提交 /u/HoodedCowl   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amp0r1/what_does_on_call_this_navigation_on_the_side_of/</guid>
+      <pubDate>Fri, 09 Feb 2024 14:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们为开发者推出了 Netflix。本周我们放弃了 7 个新节目。如果您检查一下，我们会很高兴 🎬</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amopdt/we_launched_a_netflix_for_developers_we_dropped_7/</link>
+      <description><![CDATA[       由   提交/u/mattatdirectus  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amopdt/we_launched_a_netflix_for_developers_we_dropped_7/</guid>
+      <pubDate>Fri, 09 Feb 2024 13:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Python 构建面部识别应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amngnk/how_to_build_facial_recognition_application_with/</link>
+      <description><![CDATA[计算机视觉是人工智能领域，研究解释和分析图像和视频的方法和算法。  目标是教计算机“检测”并以与人类相同的方式“理解”图像。  人脸识别是计算机视觉领域的一项技术，可用于各种场景，例如访问手机、进入建筑物以及授权物理和数字访问。  人脸识别技术用于构建各个领域的应用程序、系统、软件。集成人脸识别 API 非常简单，在本教程中，我们将引导您完成使用 Python 创建人脸识别应用程序的步骤。  在此处了解更多信息 https ://luxand.cloud/face-recognition-blog/how-to-build-facial-recognition-application-with-python &lt;!-- SC_ON - -&gt;  由   提交 /u/YummyGrocser   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amngnk/how_to_build_facial_recognition_application_with/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能告诉我为什么 gl 函数在 Google CSE 上不起作用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amnbdr/can_anyone_tell_me_why_the_gl_function_isnt/</link>
+      <description><![CDATA[无论我输入哪个区域，结果都是美国特定的。我尝试了大写和小写，但没有任何效果。搜索词也非常广泛。有什么想法吗？ https://www. googleapis .com/customsearch/v1?key=[key]&amp;cx=[cx]&amp;start=1 &amp;gl=au &amp;safe=off&amp;dateRestrict=undefined&amp;sort=&amp; ;q=新闻&amp;lr=lang_ar|lang_bg|lang_ca|lang_cs|lang_da|lang_de|lang_el|lang_en|lang_es|lang_et|lang_fi|lang_hr|lang_hu|lang_id|lang_is|lang_it|lang_iw|lang_ja|lang_ko|lang_lt|lang_lv|lang_nl |lang_no|lang_pl|lang_pt|lang_ro|lang_ru|lang_sk|lang_sl|lang_sr|lang_sv|lang_tr|lang_zh-CN|lang_zh-TW   由   提交 /u/Dneail22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amnbdr/can_anyone_tell_me_why_the_gl_function_isnt/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 17.4 似乎取消了欧盟对 Web 应用程序的支持</title>
       <link>https://www.reddit.com/r/webdev/comments/1ammqve/ios_174_seems_to_remove_web_app_support_in_the_eu/</link>
@@ -34,13 +97,6 @@
       <pubDate>Fri, 09 Feb 2024 12:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>寻求 CMS 自托管选项的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ammhrc/seeking_recommendations_for_self_hosting_option/</link>
-      <description><![CDATA[大家好！ 我正在寻找一些关于最便宜的自我的社区智慧-带有数据库的 CMS 后端托管解决方案。我正在建立一个网站，预计每天有 500-1000 名访问者，目标是简单性和成本效益。 这是我正在寻找的内容：  使用情况：预计每天有 500-1000 名访客。 最低配置：首选简单直接的设置。 经济高效的托管：我一直在考虑 Heroku，它提供每月 5-7 美元的数据库选项。  我很想听听您成功使用过的其他解决方案类似的用例。任何想法或建议将不胜感激！ 提前致谢！   由   提交/u/nikolaymih11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ammhrc/seeking_recommendations_for_self_hosting_option/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:56:22 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 Plesk 创建子域</title>
       <link>https://www.reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/</link>
       <description><![CDATA[大家好！ 我将为客户重新启动一个网站。旧网站应在创建过程中保持在线状态。现在我已收到您的 Plesk 界面登录数据，据我所知，我必须在那里创建一个子域并在其上安装 Wordpress。网站完成后，应该可以通过旧域名或普通域名访问。我在这里非常小心，所以我想请教各位专家是否有人可以向我解释如何正确执行这些步骤？我需要考虑什么？感谢您的帮助。   由   提交/u/Smooth-Base9330   /u/Smooth-Base9330 reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/&quot;&gt;[链接] [评论]]]></description>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好， 我正在开发一个带有 Python 后端和 Next.js 前端的 Web 应用程序。我需要实现用户身份验证，并且希望得到一些建议。 标准：  具有成本效益 安全 兼容使用 Python 和 Next.js  有什么建议或见解吗？谢谢！我研究过supabase和firebase，但supabase说它仍在为python开发。还有其他想法吗？    由   提交 /u/ParanoidPath   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1amm72i/building_a_python_backend_with_nextjs_frontend/</guid>
       <pubDate>Fri, 09 Feb 2024 11:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的第一个 React 微前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amlyi1/your_first_react_micro_frontend/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/haasilein   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amlyi1/your_first_react_micro_frontend/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么我是否在浪费时间学习这一切呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amlvj4/so_am_i_wasting_my_time_learning_all_this_or_not/</link>
-      <description><![CDATA[我想进入网络开发领域，因为我听说它报酬很高，而且我可能会找到一份远程工作并在家工作。 但是听到所有这些裁员以及比我更有经验的人如何找不到工作让我觉得我只是在浪费时间。   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amlvj4/so_am_i_wasting_my_time_learning_all_this_or_not/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>零编码经验的 SaaS 冒险 - 第 2 周更新</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amld3v/saas_adventure_with_zero_coding_experience_week_2/</link>
-      <description><![CDATA[      我正在从头开始构建一个成熟的 SaaS，没有编码经验。  我正在记录它，以向其他人（和我自己：）证明 2024 年这是可能的。 跟进 原始帖子，这是我第 2 周的进度。  本周，我解决了 FE 和 BE 的集成问题，使 Firestore 和 Next.js 握手言和。 我原以为轻而易举的任务变成了马拉松。 以下是我的冒险经历：https://youtu.be/QKnTMSOrh8A。这不仅仅是代码的问题；这是关于学习如何学习，就我而言 - 学习 GPT 能做什么和不能做什么。 从头开始学习很困难 - 我希望这能鼓励现在需要它的人。可以随意提出任何问题，我会在这里闲逛。 对于那里的退伍军人，我洗耳恭听您的建议。 对于那些考虑开始自己的项目的人，让这是一个迹象。如果我能做到，你也能。让我们保持简单，专注于本质，并构建一些伟大的东西。  期待听到您的想法或回答问题👋🏻 https://preview.redd.it/ytweez7ngjhc1.png?width=1406&amp;format=png&amp;auto=webp&amp;s=9ddcddb06192045b975b32e8ad8120f 0e37c8446   由   提交/u/oba2311  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amld3v/saas_adventure_with_zero_coding_experience_week_2/</guid>
-      <pubDate>Fri, 09 Feb 2024 10:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建市场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amlbov/creating_a_marketplace/</link>
-      <description><![CDATA[嗨，菜鸟问题。您会选择什么语言/路径来创建市场。公司购买/销售产品的地方。示例：我是货运公司，我有一些备件想要出售，其他公司想要购买。他们来到我的网站/平台，筛选出他们想要的东西并联系卖家。我相信最好的付款方式是托管。  当然，我没有 webdev 经验，但我什至不知道该寻找哪些专家可以提供帮助。你有什么建议？  谢谢。   由   提交/u/Standard-Bike-3730   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amlbov/creating_a_marketplace/</guid>
-      <pubDate>Fri, 09 Feb 2024 10:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minecraft 作为个人作品集！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amkr3l/minecraft_as_personal_portfolio/</link>
-      <description><![CDATA[ 由   提交 /u/dvfcfbgv    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amkr3l/minecraft_as_personal_portfolio/</guid>
-      <pubDate>Fri, 09 Feb 2024 09:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何记录公司中的代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amk2t5/how_do_you_document_your_codes_in_your_company/</link>
-      <description><![CDATA[我通常不这样做。如果有必要的话我可能会写评论。但是你做什么，尤其是在你的公司或工作场所？ 查看民意调查   由   提交/u/amAProgrammer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amk2t5/how_do_you_document_your_codes_in_your_company/</guid>
-      <pubDate>Fri, 09 Feb 2024 09:07:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何优化该组件以缩短 LCP 时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amjynr/how_do_i_optimize_this_component_for_reduced_lcp/</link>
-      <description><![CDATA[import { useState, useEffect } from &#39;react&#39;;从 &#39;react-icons/bs&#39; 导入 { BsChevronCompactLeft, BsChevronCompactRight };从&#39;react-icons/rx&#39;导入{RxDotFilled}；类型 ImageSliderProps = { 图像: String[]; // ImageKit.io 上提供的 URL 字符串 };导出函数 ImageSlider({ images }: ImageSliderProps) { const [currentImageIndex, setCurrentImageIndex] = useState(0);让 xdelta = null;让 ydelta = null; useEffect(() =&gt;; { const Interval = setInterval(() =&gt;; { const isLastImage = currentImageIndex === images.length - 1; const newIndex = isLastImage ? 0 : currentImageIndex + 1; setCurrentImageIndex(newIndex); }, 5000); return () =&gt; clearInterval(interval); // 清理 }, [currentImageIndex, images.length]); const handleTouchStart = (e) =&gt;; { xdelta = e.touches[0].clientX; ydelta = e.touches[0].clientY; } const handleTouchEnd = (e) =&gt;; { const xmove = xdelta !== null ? e.changedTouches[0].clientX - xdelta : 0; const ymove = ydelta !== null ? e.changedTouches[0].clientY - ydelta : 0; if (Math.abs(xmove) &gt; Math.abs(ymove)) { if (xmove &gt; 0) { handlePreviousImage(); } } else { 处理NextImage(); } } } consthandleNextImage = () =&gt;; { const isLastImage = currentImageIndex === images.length - 1;常量 newIndex = isLastImage ? 0：当前图像索引+1；设置当前图像索引（新索引）； }; const handlePreviousImage = () =&gt;; { const isFirstImage = currentImageIndex === 0;常量 newIndex = isFirstImage ? images.length - 1 : 当前图像索引 - 1;设置当前图像索引（新索引）； }; const goToImage = (索引: 数字) =&gt; { setCurrentImageIndex(索引); } return (         {images.map((_image, index) =&gt; (  goToImage(index) } className=&#39;text-2xl 光标指针&#39; &gt;   ))} ;  ）； }  此组件导致 PageSpeed 性能得分较低。我该如何改进它？   由   提交 /u/fasterrider81   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amjynr/how_do_i_optimize_this_component_for_reduced_lcp/</guid>
-      <pubDate>Fri, 09 Feb 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从网站复制一个部分及其 CSS 和所有内容？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amjrx1/how_to_copy_a_section_as_it_is_from_a_website/</link>
-      <description><![CDATA[我真的很喜欢斯坦福网站上的活动部分，并试图为我的项目复制它，但无法让它看起来那么好，我需要它用于一个大学项目。我可以通过什么方式从网站复制确切的部分，包括 css 和 JavaScript 部分，以便我可以根据自己的喜好修改它？如果可以使用任何工具或其他工具来实现这一点，那将会有很大的帮助。   由   提交 /u/FaZe_Fladder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amjrx1/how_to_copy_a_section_as_it_is_from_a_website/</guid>
-      <pubDate>Fri, 09 Feb 2024 08:45:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
