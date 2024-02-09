@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 15:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 18:14:14 GMT</lastBuildDate>
+    <item>
+      <title>关于 Photoshop AI 的一个问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amtswy/a_question_about_the_photoshop_ai/</link>
+      <description><![CDATA[大家好，我是新来的，但过去几个月我一直在 Photoshop 中尝试 AI。虽然它非常好，但某些单词被更频繁地标记，使得找到我需要的结果的解决方法变得更加困难。甚至像“士兵”和“警卫”这样的词现在也会被屏蔽。除了显而易见的事情之外，找到不同的词语来使用，有人知道是否有人正在研究/已经创建/找到了某种解决方法吗？例如，解锁某些单词？   由   提交 /u/Spyke2k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amtswy/a_question_about_the_photoshop_ai/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alphabet 的 Gemini 好用吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amtk0j/is_alphabets_gemini_any_good/</link>
+      <description><![CDATA[我过去用过 Bard，效果很糟糕。到现在已经过去一年左右了。 Alphabet 的 NLP AI 有任何改进吗？   由   提交 /u/TheBlokington   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amtk0j/is_alphabets_gemini_any_good/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>警示故事和希望之光</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amsihl/cautionary_tales_and_a_ray_of_hope/</link>
+      <description><![CDATA[过渡到 AGI 的四种场景。让我们看一下关于人类与人工智能不断变化的关系的四个未来小说。 每个场景都基于过去的事件，并且每个场景都考虑了未来几个月和几年事情如何进一步发展。 但愿这些场景被证明是自我封锁的预言！ （有一个例外！） 在此处阅读更多内容   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amsihl/cautionary_tales_and_a_ray_of_hope/</guid>
+      <pubDate>Fri, 09 Feb 2024 16:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您必须尝试的 5 款人工智能编码助手</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amrh0t/top_5_ai_coding_assistants_you_must_try/</link>
+      <description><![CDATA[AI 编码助手已成为开发过程的重要组成部分，因为它们协助代码生成、理解、项目搜索以及使用提示执行各种任务或代码。甚至 Google Colab 和 Deepnote 等云 IDE 平台也提供 AI 辅助编码，可以帮助您生成代码并解决问题。  在这篇文章中，我将分享 5 个最值得一试的人工智能编码助手。它们都带有 VSCode 扩展并且易于设置。您所需要做的就是安装它们并开始体验更新、更简单的程序开发方法。 ​ 链接：https://www.kdnuggets.com/top-5-ai-coding-assistants-you-must-try   由   提交 /u/kingabzpro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amrh0t/top_5_ai_coding_assistants_you_must_try/</guid>
+      <pubDate>Fri, 09 Feb 2024 16:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFAF 挑战第 6 天：交互式代理基础模型（微软、斯坦福大学、加州大学洛杉矶分校）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amr9hz/pfaf_challenge_day_6_an_interactive_agent/</link>
+      <description><![CDATA[TL;研究论文：模型可以从广义训练数据中学习。 如果有人说他们有证据的话这些东西以及与之相伴的广泛测试。  这是我几个月前写的关于这些事情的研究论文：https://huggingface.co/blog/TuringsSolutions /pfafresearch 这里是开放角色AI。我已尽可能让不知道如何编码的人能够轻松地与他们进行交互。它通过生成比地球上其他任何地方都更好的角色 AI 模型来展示这些概念（我也使用 2B 参数模型）：打开角色AI   由   提交 /u/Fantastic-Ninja3839    reddit.com/r/ArtificialInteligence/comments/1amr9hz/pfaf_challenge_day_6_an_interactive_agent/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amr9hz/pfaf_challenge_day_6_an_interactive_agent/</guid>
+      <pubDate>Fri, 09 Feb 2024 15:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>您每月在人工智能工具和应用程序上花费多少钱？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ampx0y/how_much_do_you_spend_each_month_for_ai_tools_and/</link>
@@ -29,14 +64,14 @@
     <item>
       <title>我可以相信 Google Bard/Gemini 能够正确解决我的统计练习吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amnlmn/can_i_trust_google_bardgemini_to_solve_my/</link>
-      <description><![CDATA[我在有关归纳统计和预测数据分析的统计课程中完全迷失了方向，陷入了困境。教授在解释事情方面很糟糕，我认识的每个人都同样迷失了，我不知道没有人能理解这些狗屎，而且我找不到在线资源来让我有足够的理解力来解决我们所分配的任务。我是一名商科学生，而不是数据或计算机科学家的学生，我不应该能够理解这种难度的东西。但这并不重要，由于某种原因，它在我的程序中是强制性的。  所以我唯一的想法就是让人工智能帮助我。我知道 ChatGPT 3.5 实际上无法计算，尽管它非常擅长假装。但双子座在某种程度上可以，对吧？  所以，如果我给 Gemini 一个数据集和一个回归模型的方程，如果我要求的话，它会准确地计算出系数和均方误差吗？或者为我计算该模型的岭估计器？它会选择正确的方法并正确地进行计算吗？  我的意思是它做了一些事情。这对我来说听起来似乎有道理。但正如我所说，我对此事并没有最好的理解。  如果它确实是正确的，那就太棒了，最终给了我通过课程的希望，因为我终于有了一位导师，可以根据需要并用我需要的简单术语向我解释一切...   由   提交 /u/BaguetteOfDoom   [链接] [评论]]]></description>
+      <description><![CDATA[我在有关归纳统计和预测数据分析的统计课程中完全迷失了方向。教授在解释事情方面很糟糕，我认识的每个人都同样迷失了，我不知道没有人能理解这些狗屎，而且我找不到在线资源来让我有足够的理解来解决我们所分配的任务。我是一名商科学生，而不是数据或计算机科学家的学生，我不应该能够理解这种难度的东西。但这并不重要，由于某种原因，它在我的程序中是强制性的。  所以我唯一的想法就是让人工智能帮助我。我知道 ChatGPT 3.5 实际上无法计算，尽管它非常擅长假装。但双子座在某种程度上可以，对吧？  所以，如果我给 Gemini 一个数据集和一个回归模型的方程，如果我要求的话，它会准确地计算出系数和均方误差吗？或者为我计算该模型的岭估计器？它会选择正确的方法并正确地进行计算吗？  我的意思是它做了一些事情。这对我来说听起来似乎有道理。但正如我所说，我对此事并没有最好的理解。  如果它确实是正确的，那就太棒了，最终给了我通过课程的希望，因为我终于有了一位导师，可以根据需要并用我需要的简单术语向我解释一切...   由   提交 /u/BaguetteOfDoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amnlmn/can_i_trust_google_bardgemini_to_solve_my/</guid>
       <pubDate>Fri, 09 Feb 2024 12:59:47 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 chatgpt plus 或 AI 从我正在做的在线课程的视频中做笔记？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amlvda/how_to_use_chatgpt_plus_or_ai_to_make_notes_from/</link>
-      <description><![CDATA[基本上是标题。感谢您的帮助，不胜感激。祝周末愉快:) 关于使用人工智能或人工智能驱动的工具做笔记或在线视频课程摘要的任何其他资源或建议，我们也欢迎。 &lt; !-- SC_ON --&gt;  由   提交/u/Dan_gig   [链接] [评论]]]></description>
+      <description><![CDATA[基本上是标题。感谢您的帮助，不胜感激。祝周末愉快:) 关于使用人工智能或人工智能驱动的工具做笔记或在线视频课程总结的任何其他资源或建议，我们也欢迎。 &lt; !-- SC_ON --&gt;  由   提交/u/Dan_gig   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amlvda/how_to_use_chatgpt_plus_or_ai_to_make_notes_from/</guid>
       <pubDate>Fri, 09 Feb 2024 11:16:14 GMT</pubDate>
     </item>
@@ -48,56 +83,21 @@
       <pubDate>Fri, 09 Feb 2024 10:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以学习创建彭罗斯瓷砖吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amjc4b/could_ai_learn_to_create_the_penrose_tiles/</link>
-      <description><![CDATA[这让我着迷了一段时间，因为彭罗斯瓷砖是由一组有限的形状构成的永不重复的图案。扩散模型是否可以学习创建图案的某些部分，或者只是通过近似来学习两个图块并将其弄得一团糟，看起来像彭罗斯图块？   由   提交/u/Cyber​​naut-Neko  /u/Cyber​​naut-Neko reddit.com/r/ArtificialInteligence/comments/1amjc4b/could_ai_learn_to_create_the_penrose_tiles/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amjc4b/could_ai_learn_to_create_the_penrose_tiles/</guid>
-      <pubDate>Fri, 09 Feb 2024 08:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道有一个人工智能网站可以用麦克风发声吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ami8o3/does_anyone_know_of_an_ai_website_that_does/</link>
-      <description><![CDATA[如果有人知道有一个网站可以上传 MP3 样本以创建像 Elevenlabs 这样的声音，但使用麦克风说话的网站，请帮忙细微差别和言语流畅，有点像 Voicify，我将永远感激不已。 Voicify 说你不能将其用于商业用途，但我觉得他们的意思是通过他们的“删除链接功能”来使用它。为创作的歌曲制作人工智能翻唱，这是我不想做的。我想为我的项目为我的角色提供逼真的声音。如果有人有任何建议，我将永远感激你们互联网人 &lt;3   由   提交 /u/Hedonisticbiped   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ami8o3/does_anyone_know_of_an_ai_website_that_does/</guid>
-      <pubDate>Fri, 09 Feb 2024 06:58:29 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 正在击败 Google，因为他们精干且刻薄，员工不到 1000 人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amhctx/openai_is_trouncing_google_because_they_are_lean/</link>
-      <description><![CDATA[微软在 Openai 上投资了近 140 亿美元，但又让他们完全控制所发生的事情，这是非常出色的。谷歌拥有数万名员工和传统的等级制度，它过于头重脚轻，无法快速以正确的方式完成工作。他们改变这种动态的唯一方法是创建一个由一千名顶尖研究人员和程序员组成的部门，并授予这个新部门的领导者主要的自主决策权。他们必须在信任方面学到非常宝贵的一课。如果他们不这样做，他们将继续以蜗牛的速度进化，太多的厨师将继续破坏他们的人工智能汤。 我希望他们决定以这种方式转向，也许它将成为人工智能进步的新商业模式。 google 越好，openai 就会越好，或者说处于不断改进和加速上升的螺旋中。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <description><![CDATA[微软在 Openai 上投资了近 140 亿美元，但又让他们完全控制所发生的事情，这是非常出色的。谷歌拥有数万名员工和传统的等级制度，它过于头重脚轻，无法快速以正确的方式完成工作。他们改变这种动态的唯一方法是创建一个由一千名顶尖研究人员和程序员组成的部门，并授予这个新部门的领导者主要的自主决策权。他们必须在信任方面学到非常宝贵的一课。如果他们不这样做，他们将继续以蜗牛的速度进化，太多的厨师将继续破坏他们的人工智能汤。 我希望他们决定以这种方式转向，也许它将成为人工智能进步的新商业模式。 google 越好，openai 就会越好，或者说处于不断改进和加速上升的螺旋之中。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amhctx/openai_is_trouncing_google_because_they_are_lean/</guid>
       <pubDate>Fri, 09 Feb 2024 06:03:20 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2/​​8/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amgqbl/oneminute_daily_ai_news_282024/</link>
-      <description><![CDATA[ 斯坦福大学和斯坦福大学OpenAI 引入“元提示”来提高语言模型性能。[1] FCC 宣布机器人呼叫中人工智能生成的语音是非法的。[2] li&gt; NVIDIA 首席执行官黄仁勋 (Jensen Huang) 因其 GPU 和人工智能革命而受到表彰，当选为美国国家工程院院士。[3] 俄罗斯人创建了 ChatGPT 聊天机器人不仅在 Tinder 上找到了他的完美伴侣，而且他还建立了一个法学硕士，可以在他之前与女性聊天。[4]  来源包括：https://bushaicave.com/2024/02/08/2-8-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amgqbl/oneminute_daily_ai_news_282024/</guid>
-      <pubDate>Fri, 09 Feb 2024 05:26:51 GMT</pubDate>
-    </item>
-    <item>
       <title>您最常使用哪些人工智能工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amdxzb/which_ai_tools_have_you_got_the_most_use_out_of/</link>
-      <description><![CDATA[我只是想知道人工智能技术的哪些发展为您带来了最大的好处，无论它们是否实用并与您的工作相关，或者只是帮助你培养你的爱好和其他活动，比如运动、艺术创作、语言学习等等。一般来说，这些工具对我们来说只是“点击”，你无法想象不在它们设计的情况/工作/活动中使用它们。 几年前我个人对人工智能感兴趣，但实际上最近开始使用工具。当我认识到这项新技术对我的生活确实有帮助并适用时，而不仅仅是读起来很有趣的新奇事物。从免费的 GPT 开始（我认为它是 GPT 2？最终订阅了最新版本，以便我可以将流程与早期版本进行比较）。从那时起，我尝试了大量的艺术生成软件和基于法学硕士的项目，但在我尝试过的所有项目中，我认为我可以安全地选出三个给我带来最大价值的  &lt; a href=&quot;https://interviewsby.ai/&quot;&gt;Interviewsby.ai — 我曾经对面试非常冷淡，但当我失去了 5 年的工作并决定转行时，我不会说实话，我突然对当今就业市场的面试前景感到害怕。当然，我可以“表现得”自然，但如果能得到一些帮助，我们将不胜感激。就在那时，我发现了这个工具，它确实帮了我很大的忙，让我有信心重新回到招聘领域。现在，我在当前的工作中使用它来在与潜在雇员的面试中实际提出问题并预测答案 个人人工智能 — 我现在的老板实际上买了这个工具，我们开始以一种跳房子的方式使用它，但很快我就发现它对于简化（几乎自动化）管理层对我们的常规合作伙伴和客户的响应实际上是多么有用。事实上，您可以拥有多个自定义的代币虚拟角色，这也为其提供了额外的实用层。这就像当工作堆积如山而你无法足够快地接触到每个人时的第一道防线。因此，这个工具可以处理初始响应，以便我们可以稍后跟进，它确实对改善我们的工作流程产生了奇迹  RambleFix - 开始在我的手机上休闲地使用这个进行头脑风暴。它基本上是一种语音转文本工具，可根据口头提示生成内容。这非常适合集思广益，现在回想起来，我希望我在学校也能有这样的东西。事实上，我主要用它来产生创意写作的想法    由   提交/u/OneHamster1337   [链接] [评论]]]></description>
+      <description><![CDATA[我只是想知道人工智能技术的哪些发展为您带来了最大的好处，无论它们是否实用并与您的工作相关，或者只是帮助您培养您的爱好和其他活动，例如体育、艺术创作、语言学习等。一般来说，这些工具对我们来说只是“点击”，你无法想象不在它们设计的情况/工作/活动中使用它们。 几年前我个人对人工智能感兴趣，但实际上最近开始使用工具。当我认识到这项新技术对我的生活确实有帮助并适用时，而不仅仅是读起来很有趣的新奇事物。从免费的 GPT 开始（我认为它是 GPT 2？最终订阅了最新版本，以便我可以将流程与早期版本进行比较）。从那时起，我尝试了大量的艺术生成软件和基于法学硕士的项目，但在我尝试过的所有项目中，我认为我可以安全地选出三个给我带来最大价值的  &lt; a href=&quot;https://interviewsby.ai/&quot;&gt;Interviewsby.ai — 我曾经对面试非常冷淡，但当我失去了 5 年的工作并决定转行时，我不会说实话，我突然对当今就业市场的面试前景感到害怕。当然，我可以“表现得”自然，但如果能得到一些帮助，我们将不胜感激。就在那时，我发现了这个工具，它确实帮了我很大的忙，让我有信心重新回到招聘领域。现在，我在当前的工作中使用它来在与潜在雇员的面试中实际提出问题并预测答案 个人人工智能 — 我现在的老板实际上买了这个工具，我们开始以一种跳房子的方式使用它，但很快我就发现它对于简化（几乎自动化）管理层对我们的常规合作伙伴和客户的响应实际上是多么有用。事实上，您可以拥有多个自定义的代币虚拟角色，这也为其提供了额外的实用层。这就像当工作堆积如山而你无法足够快地接触到每个人时的第一道防线。因此，这个工具可以处理最初的响应，这样我们就可以稍后跟进，它确实对改善我们的工作流程产生了奇迹  RambleFix - 开始在我的手机上休闲地使用这个进行头脑风暴。它基本上是一种语音转文本工具，可根据口头提示生成内容。这非常适合集思广益，现在回想起来，我希望我在学校也能有这样的东西。事实上，我主要用它来产生创意写作的想法    由   提交/u/OneHamster1337   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amdxzb/which_ai_tools_have_you_got_the_most_use_out_of/</guid>
       <pubDate>Fri, 09 Feb 2024 02:57:30 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能和敏感任务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1amapfy/ai_and_sensitive_tasks/</link>
-      <description><![CDATA[这是一个的例子，说明为什么不能信任人工智能来执行敏感任务。通常需要人工监督的任务。  我的预测是，我们永远无法 100% 信任人工智能来执行敏感任务。它总是容易犯一些人类永远不会犯的错误。同时在其他类型的任务中超越人类。   由   提交 /u/EuphoricPangolin7615   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1amapfy/ai_and_sensitive_tasks/</guid>
-      <pubDate>Fri, 09 Feb 2024 00:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>书籍推荐看这里！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1am8vec/book_recommendations_here/</link>
-      <description><![CDATA[您读过的关于人工智能的最好的书是什么？ 也许是那本激发了您对人工智能最初的好奇心的书。也许那篇文章向您介绍了有关该主题的令人着迷的新观点。或者只是一本很好读的书。 无论它是什么，我都想听听！✨ 📚✨   由   提交/u/Droid716  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1am8vec/book_recommendations_here/</guid>
-      <pubDate>Thu, 08 Feb 2024 22:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 15:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 18:15:34 GMT</lastBuildDate>
+    <item>
+      <title>我想与我的同事分享这个工具，同时限制他们免费访问代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amtv4o/i_want_to_share_this_tool_with_my_colleagues/</link>
+      <description><![CDATA[嘿， 我在 Google App Script 中创建了一个工具，它基本上从用户的工作中搜索某种类型的邮件Gmail 帐户并从这些邮件中提取任务名称，以复制到匹配标题下的电子表格中。本质上是生成他们曾经分派的所有任务的综合列表，避免了手动复制粘贴他们曾经完成的数百个任务名称的需要。 我想在应用程序脚本中共享包含此脚本的电子表格，这样每个人都可以使用它并使他们的生活更轻松。但我不希望任何人看到这个脚本并进行编辑。那么我如何免费保护它，以便每个人都可以打开我与他们共享的这张只读工作表，为自己制作该工作表的副本，并且可以使用我创建的工具，但没有权限查看或访问该脚本 提前致谢   由   提交 /u/asking_anonym   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amtv4o/i_want_to_share_this_tool_with_my_colleagues/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>硅谷的安全播客：在开放中采用安全心态</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amt8v8/the_security_podcast_in_silicon_valley_adopting_a/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amt8v8/the_security_podcast_in_silicon_valley_adopting_a/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您能审阅一下我的作品集并给出一些意见和建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amt5i3/can_you_review_my_portfolio_and_give_some/</link>
+      <description><![CDATA[这是链接，我在 github 中托管了我的网站：https://cloudycane.github.io/myportfolio/#root   由   提交/u/jayjayheather  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amt5i3/can_you_review_my_portfolio_and_give_some/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:12:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发面试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amt4nk/web_dev_interview/</link>
+      <description><![CDATA[嗨， 我有一个初级 Web 开发人员面试，这是我的第一次面试。  与网络开发经理和团队的其他两名成员一起。  只安排了 30 分钟。因为我没有接受人力资源筛选，所以我不确定会发生什么。  任何提示将不胜感激。谢谢！   由   提交 /u/Ef_Rem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amt4nk/web_dev_interview/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何方法可以将数据插入指向该文件的 IndexedDB</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amsy9l/there_is_any_way_to_insert_data_into_an_indexeddb/</link>
+      <description><![CDATA[大家好，我需要在 IndexedDB 中插入数据，但不是在浏览器上下文中。直接指向 IndexedDB 文件。我可以访问该文件 有任何模块/库允许我这样做吗？   由   提交/u/jaaydbars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amsy9l/there_is_any_way_to_insert_data_into_an_indexeddb/</guid>
+      <pubDate>Fri, 09 Feb 2024 17:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，需要一些有关如何执行此操作的指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amsaq7/hi_need_some_guidance_on_how_to_do_this/</link>
+      <description><![CDATA[https://idx.dev/ ​ 我正在访问这个网站，发现框中不断变化的文本非常酷。我想知道是否有人知道如何做到这一点并指导我如何学习如何做到这一点。  我想我只是创建一个我想要的句子数组，然后在函数中从数组中获取单词，获取其长度并形成等于长度的乱码单词，并逐步将单词带入，但我不知道如何不断地改变文字，如何一步步地把文字带过来。  ​   由   提交/u/DimWitRM  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amsaq7/hi_need_some_guidance_on_how_to_do_this/</guid>
+      <pubDate>Fri, 09 Feb 2024 16:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，需要一些有关如何执行此操作的指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amsaps/hi_need_some_guidance_on_how_to_do_this/</link>
+      <description><![CDATA[https://idx.dev/ ​ 我正在访问这个网站，发现框中不断变化的文本非常酷。我想知道是否有人知道如何做到这一点并指导我如何学习如何做到这一点。  我想我只是创建一个我想要的句子数组，然后在函数中从数组中获取单词，获取其长度并形成等于长度的乱码单词，并逐步将单词带入，但我不知道如何不断地改变文字，如何一步步地把文字带过来。  ​   由   提交/u/DimWitRM  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amsaps/hi_need_some_guidance_on_how_to_do_this/</guid>
+      <pubDate>Fri, 09 Feb 2024 16:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>34曲面显示器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amro85/34_curved_monitor/</link>
+      <description><![CDATA[我想买一台 1500 曲面显示器来玩游戏，我想知道什么适合工作。   由   提交 /u/suniracle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amro85/34_curved_monitor/</guid>
+      <pubDate>Fri, 09 Feb 2024 16:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>做了一个农历新年网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amr4p1/made_a_lunar_new_year_website/</link>
+      <description><![CDATA[仓库：https://github.com/darenhua/happynewyear  我已经很长一段时间没有为了乐趣而编码了。我原以为我会改变这一点并建立一个项目，而不是因为我想要为我的简历添加一些东西，或者为了赚钱——建立一个项目来重新唤起我对 webdev 的热爱，正是这种热爱让我走到了现在的位置。 我想在这里分享我的网站，因为我对此感到非常自豪 - 如果有人感兴趣，我欢迎您查看并向您的朋友或家人发送电子邮件！ https://happyyearofthedragon.com/ 此网站可让您通过重新发送的方式向任何人发送农历新年快乐电子邮件。 （天哪，我再也不想使用电子邮件模板了）前端是用 vite、react 构建的，我尝试了 tailwind 的新 UI 库 催化剂。后端使用lambda和dynamodb作为表，并使用zappa托管flask。 I很乐意回答有关该项目或其他任何问题！谢谢:D   由   提交 /u/hatvaccum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amr4p1/made_a_lunar_new_year_website/</guid>
+      <pubDate>Fri, 09 Feb 2024 15:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用获得 API 密钥的注册用户构建后端...您会使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amqzc3/building_a_backend_with_registered_users_that_are/</link>
+      <description><![CDATA[开发朋友们，您会使用什么来创建一个后端，让注册用户能够访问可用于访问 API 的 API 密钥？ 我正在考虑 NestJS + Supabase。你选择什么？   由   提交/u/avitorio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amqzc3/building_a_backend_with_registered_users_that_are/</guid>
+      <pubDate>Fri, 09 Feb 2024 15:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于您向客户提供的访问权限以及如何划分项目的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amqhxa/question_about_amount_of_access_you_give_clients/</link>
+      <description><![CDATA[这个标题有点不确定，但我必须写点东西。一些简短的背景信息：我是一名实体电脑维修人员。我的许多客户都是小企业主，在这些人中，我注意到他们的网络存在确实需要一些帮助。我的一个客户的网站是通过 http 提供服务的，因此当您浏览该网站时，您会收到一条浏览器警告，告诉您该网站不安全，需要转身 - 哦 - 对业务不太有利。无论如何，我已经创建了一些自己的非常合理的 WordPress 网站，并且我想为我的一些小型企业提供 Web 服务。  我以前从未参与过该业务，因此我想知道您通常如何在托管和企业主访问方面管理所有项目。例如，不久前，一位客户向我寻求解决他们电子邮件的 Outlook 问题，因为他们的网站管理员不知道这个问题。我要求访问他们的主机，以便我可以检查 MX 记录等...网站管理员解释说，他们所有的客户端托管都在一个 Bluehost 帐户下，因此通过向我提供访问权限会将他们的所有客户端暴露给我。从最好的情况来看，这似乎很笨拙，从最坏的情况来看，这完全是错误的方法。 正确的方法是什么？您如何以管理员身份管理所有项目，但客户仍然保留访问权限，因为这是他们的财产？    由   提交/u/Pleaseclap4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amqhxa/question_about_amount_of_access_you_give_clients/</guid>
+      <pubDate>Fri, 09 Feb 2024 15:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何使用 Ecohosting 进行后端开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1amqhcq/how_should_i_do_backend_development_with/</link>
+      <description><![CDATA[我使用 Ecohosting.co.uk 作为网络主机，我正在寻找一些非静态网站。我的一个想法是开发一个非常基本的聊天 Web 应用程序。 我向支持人员发送消息，他们说我无法运行自己的 http 服务器，如果我理解正确的话，这有点限制。 我认为我需要的是使用 cgi-bin 将消息写入数据库并等待新消息，但我不知道这是否是最好的方法。 我也有通过 cron 作业来运行守护进程的想法，确保给定目录中的每个可执行文件都在运行，但这看起来很混乱。 我没有有意义的 Web 开发经验，所以可能有一些明显的原因一切似乎都比应有的困难，但我看不到它。   由   提交 /u/to7m   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1amqhcq/how_should_i_do_backend_development_with/</guid>
+      <pubDate>Fri, 09 Feb 2024 15:19:28 GMT</pubDate>
+    </item>
     <item>
       <title>如果 SQL 语句返回数据库怎么办？</title>
       <link>https://www.reddit.com/r/webdev/comments/1amq6ra/what_if_an_sql_statement_returned_a_database/</link>
@@ -13,7 +97,7 @@
       <pubDate>Fri, 09 Feb 2024 15:05:58 GMT</pubDate>
     </item>
     <item>
-      <title>将我的棋盘游戏带入在线生活的网站</title>
+      <title>使我的棋盘游戏在线上栩栩如生的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1ampy8b/website_for_bringing_my_board_games_to_life_online/</link>
       <description><![CDATA[寻求入门帮助（仅限业余爱好者） 您好，我正在寻求启动业余爱好者项目的帮助。我没有编程或构建网站的经验，尽管我愿意学习并向其他人寻求帮助，但我没有时间限制，而且做这些都不是为了钱。所以我可以很悠闲地做这件事，纯粹只是因为我想把我的一些想法变成现实。  我想建立一个网站来创建和托管我在现实生活中制作的一些基于浏览器的棋盘游戏版本。其中一个潜在独特且可能困难的部分是，对于其中一些人来说，我希望能够同时拥有传统的回合制游戏或实时策略模式（模拟地，我使用沙计时器来实现这一点）它确实有效，尽管有点挑剔）。这些游戏比《帝国时代》或《星际争霸》等基于计算机的 RTS 简单得多，为了更好的想法，可以想象一下国际象棋游戏，但不是轮流进行，而是每个棋子都有一个 30 秒的计时器，当计时器一个单独的部件已升起，当您将其指向（翻转沙漏）时，它可以再次自由移动。所以你和你的对手同时玩弄多个棋子。我的游戏在某种程度上比这更简单，因为每面可能有 7 个棋子。在其他方面有点复杂，因为除了移动和捕获棋子之外，你还可以做更多的事情。整个“板”都适合一个屏幕，因此不需要屏幕滚动，从用户角度来看，命令都很简单，可以用鼠标完成，因此不需要热键等。但它必须是足够精确，例如，黑主教和白骑士都试图移动到同一个位置，无论哪个用户先输入都会先到达该位置。  游戏一开始也需要随机设置，所以我也需要有这个功能。  这仅适用于通过互联网进行的 PvP。大多数游戏都是 1v1，也许一对夫妇可以进行 4 或 5 名玩家。没有计划或愿望做任何类型的人工智能。与其他 RTS 不同的是，它没有寻路或自主行动，它比这更简单——实际上就像抽象策略棋盘游戏，但棋子有计时器。  还希望它能够支持排行榜/天梯，其中帐户根据表现获得 ELO 分数。但对实际的配对不太感兴趣。  任何有关从哪里开始的建议将不胜感激！谢谢   由   提交 /u/SwanseaStephen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ampy8b/website_for_bringing_my_board_games_to_life_online/</guid>
@@ -25,90 +109,6 @@
       <description><![CDATA[一份非常有趣的报告，深入探讨了微软在推动 Edge 方面的黑暗模式。从伪装广告和自动重置浏览器首选项，到将实际标记注入竞争对手的网站。 在 Apple 削弱 PWA 之际看到这一点真是太有趣了。 &lt;!-- SC_ON - -&gt;  由   提交/u/rg Three   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ampums/over_the_edge_how_microsofts_design_tactics/</guid>
       <pubDate>Fri, 09 Feb 2024 14:51:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在无头 CMS（有效负载）之上构建自定义管理 UI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ampslw/building_custom_admin_ui_on_top_of_a_headless_cms/</link>
-      <description><![CDATA[大家好， 这里是初级。我的任务是创建一个带有付款门的工作委员会，我认为这是一项艰巨的任务。但我想要这样做，并且我选择了像 Payload 这样的无头 CMS。第一个问题，你会往这个方向发展吗？我不是高年级学生，我不想从头开始构建 CMS，所以最好相信 Payload 的专业人士。  但是，管理 UI 非常基本且不可自定义。这对于我这个开发人员来说是完美的，但对于想要管理东西的客户来说却不是。构建使用 Payload 中的数据的自定义管理前端是一个坏主意吗？当轮子就在那里时，这有点像重新发明轮子。我最担心的是安全性，如何使其足够安全，以便它充当第二个个性化（且更有限）的仪表板。这是一个愚蠢的想法吗？或者没那么蠢？ 谢谢！   由   提交/u/koevh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ampslw/building_custom_admin_ui_on_top_of_a_headless_cms/</guid>
-      <pubDate>Fri, 09 Feb 2024 14:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌搜索说我的页面为 noindex 。 。 。但我还没有</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ampkbv/google_search_is_saying_ive_got_my_page_as/</link>
-      <description><![CDATA[我写了页面，没有索引的元标记，我没有写任何标题。 ​ ; 是不是因为我刚刚请求了它，所以它是默认设置？  我在渲染上托管 - 这是他们的结局吗？   由   提交 /u/LordBadgerFlaps   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ampkbv/google_search_is_saying_ive_got_my_page_as/</guid>
-      <pubDate>Fri, 09 Feb 2024 14:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>页面一侧的“调用此导航”是什么意思？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amp0r1/what_does_on_call_this_navigation_on_the_side_of/</link>
-      <description><![CDATA[      我正在寻找我用红色标记的网站的特定部分。它像页内导航一样显示页面中的各个部分，但我找不到对应的词。它叫什么？ ​ https://preview.redd.it/lvdwwkk2ikhc1.png?width=1717&amp;format=png&amp;auto=webp&amp;s=8bc4279749360fff111aa4e6eff0222ccae1ee68 &lt; !-- SC_ON --&gt;  由   提交 /u/HoodedCowl   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amp0r1/what_does_on_call_this_navigation_on_the_side_of/</guid>
-      <pubDate>Fri, 09 Feb 2024 14:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们为开发者推出了 Netflix。本周我们放弃了 7 个新节目。如果您检查一下，我们会很高兴 🎬</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amopdt/we_launched_a_netflix_for_developers_we_dropped_7/</link>
-      <description><![CDATA[       由   提交/u/mattatdirectus  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amopdt/we_launched_a_netflix_for_developers_we_dropped_7/</guid>
-      <pubDate>Fri, 09 Feb 2024 13:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Python 构建面部识别应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amngnk/how_to_build_facial_recognition_application_with/</link>
-      <description><![CDATA[计算机视觉是人工智能领域，研究解释和分析图像和视频的方法和算法。  目标是教计算机“检测”并以与人类相同的方式“理解”图像。  人脸识别是计算机视觉领域的一项技术，可用于各种场景，例如访问手机、进入建筑物以及授权物理和数字访问。  人脸识别技术用于构建各个领域的应用程序、系统、软件。集成人脸识别 API 非常简单，在本教程中，我们将引导您完成使用 Python 创建人脸识别应用程序的步骤。  在此处了解更多信息 https ://luxand.cloud/face-recognition-blog/how-to-build-facial-recognition-application-with-python &lt;!-- SC_ON - -&gt;  由   提交 /u/YummyGrocser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amngnk/how_to_build_facial_recognition_application_with/</guid>
-      <pubDate>Fri, 09 Feb 2024 12:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能告诉我为什么 gl 函数在 Google CSE 上不起作用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amnbdr/can_anyone_tell_me_why_the_gl_function_isnt/</link>
-      <description><![CDATA[无论我输入哪个区域，结果都是美国特定的。我尝试了大写和小写，但没有任何效果。搜索词也非常广泛。有什么想法吗？ https://www. googleapis .com/customsearch/v1?key=[key]&amp;cx=[cx]&amp;start=1 &amp;gl=au &amp;safe=off&amp;dateRestrict=undefined&amp;sort=&amp; ;q=新闻&amp;lr=lang_ar|lang_bg|lang_ca|lang_cs|lang_da|lang_de|lang_el|lang_en|lang_es|lang_et|lang_fi|lang_hr|lang_hu|lang_id|lang_is|lang_it|lang_iw|lang_ja|lang_ko|lang_lt|lang_lv|lang_nl |lang_no|lang_pl|lang_pt|lang_ro|lang_ru|lang_sk|lang_sl|lang_sr|lang_sv|lang_tr|lang_zh-CN|lang_zh-TW   由   提交 /u/Dneail22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amnbdr/can_anyone_tell_me_why_the_gl_function_isnt/</guid>
-      <pubDate>Fri, 09 Feb 2024 12:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.4 似乎取消了欧盟对 Web 应用程序的支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ammqve/ios_174_seems_to_remove_web_app_support_in_the_eu/</link>
-      <description><![CDATA[      PWA 似乎无法在 iOS 17.4+ 上运行。    由   提交/u/Gugadev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ammqve/ios_174_seems_to_remove_web_app_support_in_the_eu/</guid>
-      <pubDate>Fri, 09 Feb 2024 12:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对框架的了解胜过对 JS 的了解</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ammq8m/i_know_frameworks_better_than_i_know_js/</link>
-      <description><![CDATA[我实际上从未真正（专业地）使用过 vanilla JS，并且总是通过实践和创造来学习。我在过去的 7 年里一直在使用框架，现在在面对普通的 JS 问题或核心原则时有时会毫无头绪。 还有其他人遇到同样的问题吗？我该如何填补这个知识空白？   由   提交 /u/Thomdesle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ammq8m/i_know_frameworks_better_than_i_know_js/</guid>
-      <pubDate>Fri, 09 Feb 2024 12:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我通过我的网站赚钱，我会遇到任何法律问题吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ammly4/will_i_have_any_legal_trouble_if_i_make_money/</link>
-      <description><![CDATA[我想制作一个教育网站，我正在考虑添加广告或订阅。我的问题是我不知道我是否需要纳税或遇到任何法律问题。我的背景是我是一名居住在匈牙利的学生，但我不是匈牙利人   由   提交/u/PaleontologiesFirm13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ammly4/will_i_have_any_legal_trouble_if_i_make_money/</guid>
-      <pubDate>Fri, 09 Feb 2024 12:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试实施 HTTPS 后控制台显示 GET http 请求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ammkot/console_showing_get_http_request_after_trying_to/</link>
-      <description><![CDATA[我不明白为什么，但我尝试在本地启用 https，以便代码更接近地模仿我稍后开始托管时的情况。我可以成功转到 https://127.0.0.1:8000/ 但由于某种原因在控制台中它仍然显示为 GET / HTTP/1.1 当我访问本地站点的其他页面时出现同样的问题。为什么会发生这种情况？   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ammkot/console_showing_get_http_request_after_trying_to/</guid>
-      <pubDate>Fri, 09 Feb 2024 12:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Plesk 创建子域</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/</link>
-      <description><![CDATA[大家好！ 我将为客户重新启动一个网站。旧网站应在创建过程中保持在线状态。现在我已收到您的 Plesk 界面登录数据，据我所知，我必须在那里创建一个子域并在其上安装 Wordpress。网站完成后，应该可以通过旧域名或普通域名访问。我在这里非常小心，所以我想请教各位专家是否有人可以向我解释如何正确执行这些步骤？我需要考虑什么？感谢您的帮助。   由   提交/u/Smooth-Base9330   /u/Smooth-Base9330 reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ammfqz/creation_of_a_subdomain_using_plesk/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:52:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Next.js 前端构建 Python 后端 - 廉价且安全的身份验证选项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amm72i/building_a_python_backend_with_nextjs_frontend/</link>
-      <description><![CDATA[大家好， 我正在开发一个带有 Python 后端和 Next.js 前端的 Web 应用程序。我需要实现用户身份验证，并且希望得到一些建议。 标准：  具有成本效益 安全 兼容使用 Python 和 Next.js  有什么建议或见解吗？谢谢！我研究过supabase和firebase，但supabase说它仍在为python开发。还有其他想法吗？    由   提交 /u/ParanoidPath   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amm72i/building_a_python_backend_with_nextjs_frontend/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:37:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
