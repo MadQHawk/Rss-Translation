@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 10 Feb 2024 12:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 15:11:29 GMT</lastBuildDate>
+    <item>
+      <title>具有读/写功能的免费 txt 文件托管服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anhzlw/free_txt_file_hosting_service_with_readwrite/</link>
+      <description><![CDATA[大家好，我正在寻找一些非常简单的东西，但在互联网上没有找到。 txt 文件的免费托管服务，可通过 HTTP 进行读写访问。我想将它用于在我为自己编写的应用程序中管理的列表。类似pastebin但可更新的东西。我需要它保留下来，而不是在不活动后自动删除。   由   提交/u/skygate2012   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anhzlw/free_txt_file_hosting_service_with_readwrite/</guid>
+      <pubDate>Sat, 10 Feb 2024 14:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 寻求播放列表控制项目的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anhyuy/showoff_saturday_seeking_feedback_for_a_playlist/</link>
+      <description><![CDATA[      嘿！ 我一直在致力于一个项目，旨在解决我在使用 YouTube 播放列表时遇到的常见烦恼。想象一下：您在睡觉前听播放列表或将它们用作背景噪音，而 YouTube 坚持播放整个列表，让您在返回时不知道正在播放哪个视频。  为了解决这个问题，我开始开发一个项目，允许用户输入播放列表 ID 并选择要播放的视频数量或设置特定的播放时长。  ​ 设置 ​ 视频播放器 我相信这个工具对于那些喜欢精心策划的播放列表但希望更好地控制自己的收听/观看体验的人来说非常有用。 您认为哪些功能有价值？有什么想法可以增强用户体验吗？让我知道您的想法，如果您觉得这个概念有用，请:) 提前致谢！   由   提交/u/scrnie  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anhyuy/showoff_saturday_seeking_feedback_for_a_playlist/</guid>
+      <pubDate>Sat, 10 Feb 2024 14:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个应用程序来更轻松地比较 JS 片段和包的性能。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anhso6/made_an_app_to_more_easily_compare_the/</link>
+      <description><![CDATA[       由   提交 /u/nchntrz   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anhso6/made_an_app_to_more_easily_compare_the/</guid>
+      <pubDate>Sat, 10 Feb 2024 14:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新进入网络开发空间。过去10年发生了什么变化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anh6i9/reentering_the_web_dev_space_what_has_changed_in/</link>
+      <description><![CDATA[10 年前，我是相当优秀的 Web 开发人员。曾在一家主要负责 Wordpress 插件和主题的机构工作。我想重新开始，但做自由职业。游戏中发生了什么变化？我应该关注哪些语言/平台才能最大限度地提高投资回报率？   由   提交/u/dick4days  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anh6i9/reentering_the_web_dev_space_what_has_changed_in/</guid>
+      <pubDate>Sat, 10 Feb 2024 14:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术入职优化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1angrav/technical_onboarding_optimisations/</link>
+      <description><![CDATA[我最近开始负责四名初级开发人员的技术入职（负责帮助他们成为我们产品的高效贡献者（按速度衡量））。我热爱教学，并且有帮助个别青少年站起来的经验，但我对管理四名开发人员的入职感到有点不知所措。  你们中的任何人发现任何有效的技术或示例（除了减少我的开发工作量之外）？当一群人入职时，似乎有很多可能的优化需要进行？我很想听听一些过去对您有用的具体例子。 提前致谢！    ;由   提交/u/DrumAndBass90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1angrav/technical_onboarding_optimisations/</guid>
+      <pubDate>Sat, 10 Feb 2024 13:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有项目的投资组合 - 寻求建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1angk6f/portfolio_with_no_projects_looking_for_advice/</link>
+      <description><![CDATA[嘿，我是一名开发人员，我已经编程很多年了...但完全是作为一种爱好：我会一些我感兴趣的朋友或企业的项目。 最近，我决定认真对待开发，并将其作为一项实际工作。问题是，我参与的大部分项目至少属于以下其中一项： - 未上传到 Github &amp;代码因时间原因丢失。 - 该网站所属的个人项目或公司现已失效。 - 仍然存在，但不供公众查看。 因为我是兼职工作，所以我在没有任何证据的情况下成功成为了一名开发人员。这是谎言，我的 LinkedIn 有相当多的连接和推荐，并且我有发送给客户的进度屏幕截图图像，可供我使用。 现在我正在尝试实现此目标，我该怎么办职业？ 我想我可以制作一个很棒的作品集，但是“以前的项目”部分将是空的...... 我应该花一个月的时间制作一堆随机网站？不是随机的，而是像...医院管理系统的前端...除了...该网站没有被任何医院使用。 现在，如果我可以通过某种方式获得编码面试的机会来展示我的技能，但显然，如果没有事先展示之前经验的作品集/拼贴画，这是不会发生的。 任何建议将不胜感激！&lt; /p&gt;   由   提交 /u/Local-Alternative-53   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1angk6f/portfolio_with_no_projects_looking_for_advice/</guid>
+      <pubDate>Sat, 10 Feb 2024 13:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>对CMS很困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anggiz/very_confused_about_cms/</link>
+      <description><![CDATA[嘿伙计们，如果我没有使用正确的技术术语，请提前道歉 - 我对此很陌生，有点迷失。 我正在考虑制作一个题库网站，其功能类似于www.PassMedicine.com。这本质上是一个人们可以注册、付费订阅和访问考试练习题的网站。重点/USP 将放在评论方面，我希望能够根据数据分析生成自定义测验（因此更多关于薄弱领域的问题，这可能是公式而不是人工智能）。 1) 我对使用哪个 CMS 的信息存在冲突，有人告诉我 Wordpress 是最便宜/最简单的，但后来又被告知使用其他东西。我是否无法在 WordPress 上使用示例网站的功能/会缺少什么？如果没有，您推荐哪种 CMS？ 2) 我为该项目提供的报价差异很大，您预计该项目的成本是多少？ （我知道，如果没有所有信息，很难确定，但是有了大概的了解，我就可以更自信地接触开发人员） 3）一位朋友说，要先在 Figma 上进行设计（我会这样）与自由职业者一起完成），然后再制作可能会更具成本效益。这听起来是个好主意吗？ 提前非常感谢您。   由   提交 /u/t2diabeetus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anggiz/very_confused_about_cms/</guid>
+      <pubDate>Sat, 10 Feb 2024 13:35:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码管理器保存用户名和密码，而不是电子邮件和密码；如何解决这个问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ang4ba/password_manager_saves_username_and_password/</link>
+      <description><![CDATA[我有一个包含姓名、用户名、电子邮件和密码的注册表单。  浏览器密码管理器（例如 Android 上的 Chrome）会保存用户名和密码，但它应该保存电子邮件和密码。 作为网站的开发人员，我该如何修复这个在网站表格中吗？  我基本上需要告诉密码管理器保存电子邮件地址（而不是用户名）以供将来登录。   由   提交 /u/collimarco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ang4ba/password_manager_saves_username_and_password/</guid>
+      <pubDate>Sat, 10 Feb 2024 13:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>是时候重新考虑我们的 IDE 了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anfy4h/time_to_rethink_our_ide/</link>
+      <description><![CDATA[作为一家成长型初创公司的高级软件开发人员，我面临着由于缺乏专门的 DevOps 团队而面临的一些挑战。这导致我们手动管理服务器的部署和扩展以处理流量变化，同时浏览非结构化的开发设置并努力保持本地、临时和生产环境同步。添加新的临时环境的过程会消耗大量的时间和精力。 ​ 在寻找解决方案时，我遇到了各种开源工具和 SaaS产品，每个产品都解决一个问题。然而，由于我们的功能路线图太多，将它们全部集成起来将是一项耗时的任务。 ​ 这段经历让我想到了这个问题：为什么可以我们不是有一个具有隐藏基础设施的开发人员平台（就像无服务器一样，我们最初谎称没有服务器，但仍然存在一些东西），它集中了开发人员所需的一切，就在我们的代码旁边？ &amp; #x200b; 我意识到解决方案不应该是浏览器中另一个远离代码的 Chrome 选项卡。 我从 IDE 的发展中获得了启发，还记得我们是如何做到的吗？由于扩展、集成终端、集成版本控制等原因，转向 VSCode。 ​ 这促使我为初创公司构建了一个 IDE（名为 DX Code），独立开发人员由您自己的云上的 PaaS 提供强大的支持，具有内置的可观察性，完全隐藏了基础设施的麻烦，从而使开发人员能够更轻松地构建、部署、扩展和监控应用程序。 ​  DX 代码旨在将所有分散的开发部分带回到它们应该在的位置 - 就在我们的代码旁边。 ​ 这个概念建立在 Kubernetes、OpenTelemetry 和 VS Code 等开源技术的基础上，以防止我们锁定特定的云提供商。 ​ 现在是时候了吗？重新构想我们的 IDE 以获得更好的开发人员体验？ 在我最新的博文中了解平台工程原理如何更好地服务独立开发人员和初创生态系统，并推动 IDE 的未来： &lt; p&gt;https://www.terrapilot.dev/post/time-to-rethink-our- ide ​ 查看主页 https://www .terrapilot.dev/ 我很想听听您的想法：  IDE 应该只专注于代码编写吗或者它们应该提供扩展的功能和特性？ 您目前如何应对部署和扩展挑战？ 您希望您的 IDE 具有哪些功能来简化开发？ &lt; /ol&gt;   由   提交 /u/yourpairprogrammer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anfy4h/time_to_rethink_our_ide/</guid>
+      <pubDate>Sat, 10 Feb 2024 13:07:53 GMT</pubDate>
+    </item>
     <item>
       <title>有关 Google Cloud Run 上多租户应用的域名注册和映射的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1anewc6/advice_on_domain_registration_and_mapping_for/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[我正在深入研究 Next.js，目标是掌握版本 14。但是，我注意到 YouTube 上缺乏专门针对Next.js 14 因为它相对较新。因此，我正在考虑转向 Next.js 13 教程寻求指导。 我的问题是，学习 Next.js 13 教程来掌握基础知识是否有效？然后用 Next.js 14 特有的附加功能来补充这些知识？如果是这样，您能否建议我在版本 14 中应注意的关键功能或更改，以确保我完全掌握最新信息并熟练掌握？ 非常感谢您提供的任何见解或建议在这个问题上。提前致谢！   由   提交/u/Minimum-Difficulty63  /u/Minimum-Difficulty63 reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/</guid>
       <pubDate>Sat, 10 Feb 2024 10:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 React 中的另一个页面导航回来时如何保留第一页上的滚动位置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ancuj9/how_to_preserve_scroll_position_on_the_first_page/</link>
-      <description><![CDATA[假设我有两个页面/两条路线。在其中一个我有一个 &lt;Link&gt;组件： &lt;链接到=“/某事”&gt; &lt;按钮&gt;这是链接   在第二个中，我可以返回到之前的路线： const handleGoBack = () =&gt;; { 导航(-1); }; return (  返回  );  将第一页的位置保存到我单击&lt;链接&gt;的位置的最佳方法是什么？组件，以便当我从另一个页面导航回来时，我应该返回到单击链接的确切位置？ 我尝试将其添加到第一个组件： function storeScrollPosition() { sessionStorage.setItem(&#39;scrollPosition&#39;, window.scrollY.toString()); }  然后我在  中使用它作为 onClick 操作，同时在第二个组件中执行 useEffect 中的所有逻辑： useEffect(() =&gt; { const rollPosition = sessionStorage.getItem(&#39;scrollPosition&#39;); if (scrollPosition) { window.scrollTo(0, parseInt(scrollPosition)); sessionStorage.removeItem(&#39;scrollPosition&#39;); } else { window.scrollTo(0, 0); } }, []);  但似乎效果并不完美。有时有效，有时无效。有没有更好的方法来做到这一点？   由   提交/u/riomycat  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ancuj9/how_to_preserve_scroll_position_on_the_first_page/</guid>
-      <pubDate>Sat, 10 Feb 2024 09:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于创建网站+制作浏览器游戏的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anc46t/questions_in_creating_a_website_making_a_browser/</link>
-      <description><![CDATA[我是一名设计师，但作为利益相关者，我也是不断发展的餐饮业务的一部分。我们在封锁期间创办了一家食品企业，随着许多特许经营店和商店的开业，它变得相当大。 我的主要目标是为其创建一个网站，最初是一个简单的网站，仅用于显示信息、菜单， 接触。还没有什么重大的事情 - 但我还想之后为它创建一个基于浏览器的游戏。就像食品摊游戏一样，顾客过来时，会显示食物的图像，然后你建立他们的订单并获得积分。完毕。非常简单的餐厅游戏，我在其中推销食物，就像 2010 年的 Facebook 游戏或旧的 Flash 游戏一样，但都是关于我们的品牌的。 我从 A 点开始到 B 点应该从哪里开始？ 我的UI/UX 设计师是指在为上述企业从事设计工作之外的工作。 8年来，我只是从 PM 那里得到简报，做 UI（如果没有其他人的话，有时也做 UX），然后交给开发人员。有时会重申，重复......但仅此而已。 我确实在大学里了解过一些前端知识，并且对前端有所了解。离开训练营。目前我所知道的只是足以让你们的生活不再那么悲惨。所以，是的。 这对我来说只是一种爱好，就像一个目标或我 2024 年的大项目，而不是真正的职业或任何东西。   由   提交/u/Away-Development-109   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anc46t/questions_in_creating_a_website_making_a_browser/</guid>
-      <pubDate>Sat, 10 Feb 2024 08:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么工具进行网页设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anbyjl/what_tool_do_you_use_for_web_design/</link>
-      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/LISCoxH1Gj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anbyjl/what_tool_do_you_use_for_web_design/</guid>
-      <pubDate>Sat, 10 Feb 2024 08:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>不想学习下一步，我的选择是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anamfa/dont_want_to_learn_next_my_alternatives/</link>
-      <description><![CDATA[标题。我的工作不需要学习它，但看看目前的情况，Nextjs 和 Remix 迟早会成为新 Web 应用程序的默认选择。 但是看看 Nextjs 生态系统、错误、不一致和其他事情，它确实如此看起来不太吸引人去学习和花时间。 Nextjs 非常复杂，他们甚至必须制作视频来解释其复杂的框架以及您在使用它之前必须考虑并以某种方式了解的所有边缘情况。对我来说，它看起来臃肿、过于复杂、作为 Web 框架做了太多事情并且需要太多时间来学习😕 有没有可以在工作中使用的替代方案？我目前首选的堆栈：React + Vite。也许是quickjs/solidjs/sveltejs？ Vue 看起来像是一个全新的框架，与 React 无关。 非常感谢。   由   提交/u/dabe3ee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anamfa/dont_want_to_learn_next_my_alternatives/</guid>
-      <pubDate>Sat, 10 Feb 2024 07:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot 现在好用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ana35h/is_github_copilot_any_good_nowadays/</link>
-      <description><![CDATA[我正计划购买 Copilot，但在人工智能辅助编程世界（以及整个人工智能世界）持续繁荣的时期，我想知道 mb 在那里是更好的选择吗？还是mb更便宜？甚至免费？您现在对 Copilot 有何看法？您能提出更好的替代方案吗？   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ana35h/is_github_copilot_any_good_nowadays/</guid>
-      <pubDate>Sat, 10 Feb 2024 06:38:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许 IMAP 的电子邮件托管吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an7cdl/email_hosting_that_allows_imap/</link>
-      <description><![CDATA[我在 GoDaddy 上购买了一个域名，该域名附带了关联的 Outlook 电子邮件。但是，我最近了解到他们不再支持 IMAP/POP。 有人对具有此功能的电子邮件托管有建议吗？  &amp; #32；由   提交 /u/Longjumping-Speed511    reddit.com/r/webdev/comments/1an7cdl/email_hosting_that_allows_imap/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an7cdl/email_hosting_that_allows_imap/</guid>
-      <pubDate>Sat, 10 Feb 2024 03:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从头开始创建一个体育统计网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an646o/how_to_create_a_sports_statistics_website_from/</link>
-      <description><![CDATA[大家好。希望我能获得一些关于如何构建我的梦想项目的一般提示，从而朝着正确的方向前进。 TLDR：我想创建一个通过 API 获取体育统计数据的网站这些统计数据按团队组织，并在整个网站上以不同的表格、图表、高级搜索和排序功能等方式显示。 我如何开始使用此功能？我需要在域中安装 CMS 吗？完整堆栈？ 谢谢！   由   提交/u/JBregz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an646o/how_to_create_a_sports_statistics_website_from/</guid>
-      <pubDate>Sat, 10 Feb 2024 02:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 codepen 上看到了这个，想稍微改变一下，但它在 vscode 中不起作用，但在 codepen 中可以</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an63a7/i_saw_this_on_codepen_and_wanted_to_change_it_a/</link>
-      <description><![CDATA[当我将代码复制到 vscode 时，它​​根本不起作用，我已经在 vscode 中链接了样式表和 js 源，但它不起作用 css和 html 工作正常，但当涉及到 JS 时，它不再工作了，我需要 JS 才能工作，因为那是网站的动画，你们能帮我吗？ https://codepen.io/Trimzy/pen/jOJePGj   由   提交/u/Trimzy_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an63a7/i_saw_this_on_codepen_and_wanted_to_change_it_a/</guid>
-      <pubDate>Sat, 10 Feb 2024 02:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an5puf/help_with_proxy/</link>
-      <description><![CDATA[有关代理的帮助 我想使用紫外线代理制作一个畅通无阻的游戏网站 https://github.com/titaniumnetwork-dev/Ultraviolet 我希望它类似于星际穿越，https://github.com/InterstellarNetwork/Interstellar 有人可以告诉我如何做到这一点/它需要什么，我的下一个问题是，如何做当我点击星际上的游戏并通过代理加载游戏/url 时它可以工作吗？   由   提交 /u/WhiteeyScience   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an5puf/help_with_proxy/</guid>
-      <pubDate>Sat, 10 Feb 2024 02:30:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
