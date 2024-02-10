@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 10 Feb 2024 15:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 21:12:58 GMT</lastBuildDate>
     <item>
-      <title>具有读/写功能的免费 txt 文件托管服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anhzlw/free_txt_file_hosting_service_with_readwrite/</link>
-      <description><![CDATA[大家好，我正在寻找一些非常简单的东西，但在互联网上没有找到。 txt 文件的免费托管服务，可通过 HTTP 进行读写访问。我想将它用于在我为自己编写的应用程序中管理的列表。类似pastebin但可更新的东西。我需要它保留下来，而不是在不活动后自动删除。   由   提交/u/skygate2012   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anhzlw/free_txt_file_hosting_service_with_readwrite/</guid>
-      <pubDate>Sat, 10 Feb 2024 14:51:05 GMT</pubDate>
+      <title>r/webdev 帮助我的网站 NewsCord 改进了 10 倍</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anq4jm/rwebdev_helped_make_my_website_newscord_10x_better/</link>
+      <description><![CDATA[     &lt; td&gt; TLDR： 这个令人惊叹的 Reddit 子版块为我提供了高质量的建设性批评，使我的网站NewsCord 好 10 倍。这个社区正式为 NewsCord 的发展做出了贡献！ ❤️ 我在星期六的炫耀会上发布了并获得了很多人们投入大量时间提出有价值的建议，得到了大量的反馈。它得到了回报！ 快速回顾：NewsCord 的使命是使用大语言模型快速让人们全面了解新闻。您可以通过粘贴您感兴趣的文章/即时使用 Chrome 扩展程序、浏览我们的“趋势新闻”部分或在主页的搜索栏中输入您的新闻主题来获取新闻。然后，它会为您总结文章，并比较不同来源之间的报道，为您提供叙述差异、遗漏信息，甚至语气差异。 来自 r/webdev： - 类似的文章不是很准确（现在基本上已修复） - AI 输出有时有点误导（固定在最高优先级） - 大量 UI 建议（其中大部分已实现） 结果： - 用户保留率不断提高。现在每天持续吸引约 100 位用户，其中 30% 是回访者 - 拥有 60% 的访客来自美国的坚实基础，其余大部分来自英国、印度和加拿大 - Twitter 上确实有很好的吸引力和支持和 Reddit 我要感谢这个社区，他们推动我改进 NewsCord，使其成为今天的样子，并确保它对世界有用！查看新的 NewsCord，让我知道您的想法！   由   提交 /u/nimzinho   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anq4jm/rwebdev_helped_make_my_website_newscord_10x_better/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 寻求播放列表控制项目的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anhyuy/showoff_saturday_seeking_feedback_for_a_playlist/</link>
-      <description><![CDATA[      嘿！ 我一直在致力于一个项目，旨在解决我在使用 YouTube 播放列表时遇到的常见烦恼。想象一下：您在睡觉前听播放列表或将它们用作背景噪音，而 YouTube 坚持播放整个列表，让您在返回时不知道正在播放哪个视频。  为了解决这个问题，我开始开发一个项目，允许用户输入播放列表 ID 并选择要播放的视频数量或设置特定的播放时长。  ​ 设置 ​ 视频播放器 我相信这个工具对于那些喜欢精心策划的播放列表但希望更好地控制自己的收听/观看体验的人来说非常有用。 您认为哪些功能有价值？有什么想法可以增强用户体验吗？让我知道您的想法，如果您觉得这个概念有用，请:) 提前致谢！   由   提交/u/scrnie  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anhyuy/showoff_saturday_seeking_feedback_for_a_playlist/</guid>
-      <pubDate>Sat, 10 Feb 2024 14:50:04 GMT</pubDate>
+      <title>我正在构建一个开源、非营利、100% 无广告的 Reddit 替代品，从维基百科和 Signal 等其他非营利组织汲取灵感</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anpyg4/im_building_an_opensource_nonprofit_100_adfree/</link>
+      <description><![CDATA[       由   提交/u/previnder  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anpyg4/im_building_an_opensource_nonprofit_100_adfree/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个应用程序来更轻松地比较 JS 片段和包的性能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anhso6/made_an_app_to_more_easily_compare_the/</link>
-      <description><![CDATA[       由   提交 /u/nchntrz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anhso6/made_an_app_to_more_easily_compare_the/</guid>
-      <pubDate>Sat, 10 Feb 2024 14:41:40 GMT</pubDate>
+      <title>便宜的共享主机？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anpkq7/cheap_shared_hosting/</link>
+      <description><![CDATA[我想建立一个小型社区论坛（每月最多大约 100 个活跃用户）。 我不&#39;不太关心它托管在哪里（所以即使价格很低），而且我不需要 VPS 访问权限。 你有什么建议？  &amp; #32；由   提交/u/clara59000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anpkq7/cheap_shared_hosting/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:28:50 GMT</pubDate>
     </item>
     <item>
-      <title>重新进入网络开发空间。过去10年发生了什么变化？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anh6i9/reentering_the_web_dev_space_what_has_changed_in/</link>
-      <description><![CDATA[10 年前，我是相当优秀的 Web 开发人员。曾在一家主要负责 Wordpress 插件和主题的机构工作。我想重新开始，但做自由职业。游戏中发生了什么变化？我应该关注哪些语言/平台才能最大限度地提高投资回报率？   由   提交/u/dick4days  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anh6i9/reentering_the_web_dev_space_what_has_changed_in/</guid>
-      <pubDate>Sat, 10 Feb 2024 14:11:02 GMT</pubDate>
+      <title>如何为信息网站制作超简单的 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anp9ez/how_can_i_make_an_ultra_simple_cms_for_an/</link>
+      <description><![CDATA[我正在为客户开发一个信息网站；他们期望做的唯一更新是编辑现有内容的数字或描述。我研究了一些无头 CMS 平台，但它们都比我实际需要的复杂得多。  这就是我的想法：  他们希望编辑的内容将位于 JSON 文件中。 该网站将被开发在 React 中（个人偏好）。 我将使用 Vercel 来部署站点以进行 Git 集成，以便任何对 main 的推送都会自动重新部署站点。 我将提供有关如何进行操作的说明编辑 JSON 文件并通过 GitHub 网站将其推送到 main。 任何超出此范围的编辑我都会自行处理。  这有意义吗？请记住，我以前没有使用过 Vercel，而且我没有从这个项目中获得报酬，它是一个非常小的非营利组织的志愿者工作。  &amp;# 32；由   提交/u/freew1ll_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anp9ez/how_can_i_make_an_ultra_simple_cms_for_an/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>技术入职优化？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1angrav/technical_onboarding_optimisations/</link>
-      <description><![CDATA[我最近开始负责四名初级开发人员的技术入职（负责帮助他们成为我们产品的高效贡献者（按速度衡量））。我热爱教学，并且有帮助个别青少年站起来的经验，但我对管理四名开发人员的入职感到有点不知所措。  你们中的任何人发现任何有效的技术或示例（除了减少我的开发工作量之外）？当一群人入职时，似乎有很多可能的优化需要进行？我很想听听一些过去对您有用的具体例子。 提前致谢！    ;由   提交/u/DrumAndBass90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1angrav/technical_onboarding_optimisations/</guid>
-      <pubDate>Sat, 10 Feb 2024 13:50:35 GMT</pubDate>
+      <title>希望为我的小型金融公司创建一个简单的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anp8eg/looking_to_create_a_simple_website_for_my_small/</link>
+      <description><![CDATA[我一开始只用了很少的资金，我通过 Wix 创建了一个简单的网站，我对能够让我继续前进的设计感到满意。 我发现这是我决定是否购买他们的 1 年 50% 折扣保费计划（174 美元）的最后一天。我认为在接下来的 12 个月内，我将能够聘请专业的网页设计师来创建一个更强大的网站，并且能够支付他们所报价的 WordPress 运行网站的费用（2,000 美元 + 50 美元/月）。 我没有任何编码知识，因此 Wix 提供的拖放前提对我很有吸引力。 我的问题是，在我点击购买 Wix 年度选项之前，有什么我应该知道的吗？或者有什么其他选择可以让我以大约相同的价格采取，而不需要我花费 100 个小时来弄清楚如何使用 Wordpress？ 谢谢！   由   提交 /u/NoDonut8789   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anp8eg/looking_to_create_a_simple_website_for_my_small/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>没有项目的投资组合 - 寻求建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1angk6f/portfolio_with_no_projects_looking_for_advice/</link>
-      <description><![CDATA[嘿，我是一名开发人员，我已经编程很多年了...但完全是作为一种爱好：我会一些我感兴趣的朋友或企业的项目。 最近，我决定认真对待开发，并将其作为一项实际工作。问题是，我参与的大部分项目至少属于以下其中一项： - 未上传到 Github &amp;代码因时间原因丢失。 - 该网站所属的个人项目或公司现已失效。 - 仍然存在，但不供公众查看。 因为我是兼职工作，所以我在没有任何证据的情况下成功成为了一名开发人员。这是谎言，我的 LinkedIn 有相当多的连接和推荐，并且我有发送给客户的进度屏幕截图图像，可供我使用。 现在我正在尝试实现此目标，我该怎么办职业？ 我想我可以制作一个很棒的作品集，但是“以前的项目”部分将是空的...... 我应该花一个月的时间制作一堆随机网站？不是随机的，而是像...医院管理系统的前端...除了...该网站没有被任何医院使用。 现在，如果我可以通过某种方式获得编码面试的机会来展示我的技能，但显然，如果没有事先展示之前经验的作品集/拼贴画，这是不会发生的。 任何建议将不胜感激！&lt; /p&gt;   由   提交 /u/Local-Alternative-53   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1angk6f/portfolio_with_no_projects_looking_for_advice/</guid>
-      <pubDate>Sat, 10 Feb 2024 13:40:24 GMT</pubDate>
+      <title>Turbo Repo 不会注册新的工作区。有人可以帮忙吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anp2q8/turbo_repo_wont_register_new_workspaces_can/</link>
+      <description><![CDATA[我一直在寻找这个问题的答案，但没有找到任何东西。我正在使用yarn 1.x工作区和turbo repo，最新的。 我的文件夹结构如下所示： my-app/ ├─ apps/ │ ├─ app1/ │ ├─ app2/ ├─ 实验室/ │ ├─ labapp1/ ├─ 包/ │ ├─ pkg1/ │ ├─ pkg2/ ├─ 工人/ │ ├─ 工人1/ │ ├─ 工人2/  每个应用程序都有自己的名称，许多只是复制的模板。  我的 package.json 工作区字段如下所示： &quot;workspaces&quot;: [ &quot;apps/*&quot;, &quot;lab/*&quot;, &quot; ;包/*”,“工人/*” ]  但是当我运行 turbo genworkspace --copy 时，我得到的只是原始项目的样板：  &lt;代码&gt;&gt;&gt;从“my-app”复制现有工作区？应添加什么类型的工作区？ （使用箭头键）❯ 应用程序包  我不太确定还能做什么。我检查了配置中是否有任何可能相关的内容，但除了 package.json 工作区之外似乎没有其他内容。    由   提交/u/trout_fucker  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anp2q8/turbo_repo_wont_register_new_workspaces_can/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:06:42 GMT</pubDate>
     </item>
     <item>
-      <title>对CMS很困惑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anggiz/very_confused_about_cms/</link>
-      <description><![CDATA[嘿伙计们，如果我没有使用正确的技术术语，请提前道歉 - 我对此很陌生，有点迷失。 我正在考虑制作一个题库网站，其功能类似于www.PassMedicine.com。这本质上是一个人们可以注册、付费订阅和访问考试练习题的网站。重点/USP 将放在评论方面，我希望能够根据数据分析生成自定义测验（因此更多关于薄弱领域的问题，这可能是公式而不是人工智能）。 1) 我对使用哪个 CMS 的信息存在冲突，有人告诉我 Wordpress 是最便宜/最简单的，但后来又被告知使用其他东西。我是否无法在 WordPress 上使用示例网站的功能/会缺少什么？如果没有，您推荐哪种 CMS？ 2) 我为该项目提供的报价差异很大，您预计该项目的成本是多少？ （我知道，如果没有所有信息，很难确定，但是有了大概的了解，我就可以更自信地接触开发人员） 3）一位朋友说，要先在 Figma 上进行设计（我会这样）与自由职业者一起完成），然后再制作可能会更具成本效益。这听起来是个好主意吗？ 提前非常感谢您。   由   提交 /u/t2diabeetus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anggiz/very_confused_about_cms/</guid>
-      <pubDate>Sat, 10 Feb 2024 13:35:14 GMT</pubDate>
+      <title>我可以请求对我的作品集提供反馈吗[周六炫耀]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anp14b/may_i_kindly_request_feedback_on_my_portfolio/</link>
+      <description><![CDATA[各位开发人员大家好， 我一直在开发我的个人作品集网站，我想用它来展示我的技能来帮助您我找到了一份开发人员的工作。我有几个项目，前端训练营（3.5 个月）和软件开发课程（4.5 个月），获得了多项认证等。 我相信我拥有在这方面取得成功所需的技能领域，但我现在必须说服潜在的雇主/客户为什么会出现这种情况，我认为投资组合是第一步。  我非常感谢您的反馈和指导，以帮助我朝着正确的方向前进。  注意：请以 1920x1080 或 2560x1080 分辨率查看页面。由于家庭义务，我还没有机会使其移动响应，我真的很想今天发布它，而不是再等一周。我将在明天结束前准备好移动响应能力！  站点：www.maciejdev.com  提前谢谢您。  ​   由   提交 /u/maciejdev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anp14b/may_i_kindly_request_feedback_on_my_portfolio/</guid>
+      <pubDate>Sat, 10 Feb 2024 20:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>密码管理器保存用户名和密码，而不是电子邮件和密码；如何解决这个问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ang4ba/password_manager_saves_username_and_password/</link>
-      <description><![CDATA[我有一个包含姓名、用户名、电子邮件和密码的注册表单。  浏览器密码管理器（例如 Android 上的 Chrome）会保存用户名和密码，但它应该保存电子邮件和密码。 作为网站的开发人员，我该如何修复这个在网站表格中吗？  我基本上需要告诉密码管理器保存电子邮件地址（而不是用户名）以供将来登录。   由   提交 /u/collimarco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ang4ba/password_manager_saves_username_and_password/</guid>
-      <pubDate>Sat, 10 Feb 2024 13:17:10 GMT</pubDate>
+      <title>Planetscale 和其他公司如何生成这些高质量的 HTML 动画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anodsk/how_do_planetscale_and_other_companies_generate/</link>
+      <description><![CDATA[       由   提交 /u/SilentHopes   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anodsk/how_do_planetscale_and_other_companies_generate/</guid>
+      <pubDate>Sat, 10 Feb 2024 19:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>是时候重新考虑我们的 IDE 了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anfy4h/time_to_rethink_our_ide/</link>
-      <description><![CDATA[作为一家成长型初创公司的高级软件开发人员，我面临着由于缺乏专门的 DevOps 团队而面临的一些挑战。这导致我们手动管理服务器的部署和扩展以处理流量变化，同时浏览非结构化的开发设置并努力保持本地、临时和生产环境同步。添加新的临时环境的过程会消耗大量的时间和精力。 ​ 在寻找解决方案时，我遇到了各种开源工具和 SaaS产品，每个产品都解决一个问题。然而，由于我们的功能路线图太多，将它们全部集成起来将是一项耗时的任务。 ​ 这段经历让我想到了这个问题：为什么可以我们不是有一个具有隐藏基础设施的开发人员平台（就像无服务器一样，我们最初谎称没有服务器，但仍然存在一些东西），它集中了开发人员所需的一切，就在我们的代码旁边？ &amp; #x200b; 我意识到解决方案不应该是浏览器中另一个远离代码的 Chrome 选项卡。 我从 IDE 的发展中获得了启发，还记得我们是如何做到的吗？由于扩展、集成终端、集成版本控制等原因，转向 VSCode。 ​ 这促使我为初创公司构建了一个 IDE（名为 DX Code），独立开发人员由您自己的云上的 PaaS 提供强大的支持，具有内置的可观察性，完全隐藏了基础设施的麻烦，从而使开发人员能够更轻松地构建、部署、扩展和监控应用程序。 ​  DX 代码旨在将所有分散的开发部分带回到它们应该在的位置 - 就在我们的代码旁边。 ​ 这个概念建立在 Kubernetes、OpenTelemetry 和 VS Code 等开源技术的基础上，以防止我们锁定特定的云提供商。 ​ 现在是时候了吗？重新构想我们的 IDE 以获得更好的开发人员体验？ 在我最新的博文中了解平台工程原理如何更好地服务独立开发人员和初创生态系统，并推动 IDE 的未来： &lt; p&gt;https://www.terrapilot.dev/post/time-to-rethink-our- ide ​ 查看主页 https://www .terrapilot.dev/ 我很想听听您的想法：  IDE 应该只专注于代码编写吗或者它们应该提供扩展的功能和特性？ 您目前如何应对部署和扩展挑战？ 您希望您的 IDE 具有哪些功能来简化开发？ &lt; /ol&gt;   由   提交 /u/yourpairprogrammer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anfy4h/time_to_rethink_our_ide/</guid>
-      <pubDate>Sat, 10 Feb 2024 13:07:53 GMT</pubDate>
+      <title>我做了一个小应用程序来学习网络套接字</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ano2s1/i_made_a_little_app_to_learn_web_sockets/</link>
+      <description><![CDATA[    &lt; /a&gt;  http://ec2-3-88-25-22.compute-1.amazonaws.com/   由   提交/u/NiftyOctopus_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ano2s1/i_made_a_little_app_to_learn_web_sockets/</guid>
+      <pubDate>Sat, 10 Feb 2024 19:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>有关 Google Cloud Run 上多租户应用的域名注册和映射的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anewc6/advice_on_domain_registration_and_mapping_for/</link>
-      <description><![CDATA[我正在为我的内容管理系统 (Express/PayloadCMS) 和前端应用程序 (NextJS) 构建多租户应用程序。我的 CMS 托管在 Google Cloud Run 上，我的前端应用程序托管在 Vercel 上 我正在尝试构建功能，让我可以为客户创建和映射域，而无需手动创建和配置它们谷歌云。客户应该能够通过转至 admin.domain.com 来访问其网站 CMS，并通过转至 domain.com。  Vercel 可以使用其 API 处理前端域，但我在理解如何为我的 CMS 执行此操作时遇到了一些困难。据我了解，我应该使用负载均衡器并将负载均衡器指向我的 Google Cloud Run 服务。这些域应指向该负载均衡器，而不是尝试将新域直接映射到 Cloud Run 服务。但我真的不知道这是否是 1. 正确的方法和 2. 可通过 Google API 执行，我可以从 CMS 触发。  有关此主题的任何建议将不胜感激。我在开发网络应用程序方面拥有丰富的经验，但是当涉及到网络时，我肯定会有点迷失   由   提交 /u/ske66   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anewc6/advice_on_domain_registration_and_mapping_for/</guid>
-      <pubDate>Sat, 10 Feb 2024 12:06:46 GMT</pubDate>
+      <title>我需要有关 HTML 项目的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anmch6/i_need_help_on_a_html_project/</link>
+      <description><![CDATA[       您好！我有一个大学项目，我必须使用 HTML、CSS 和 JS 制作自己的作品集。我是一个完全的初学者，所以如果有人能给我一些帮助，我将非常感激！我的导航栏有问题。正如您在图像中看到的，当我缩小屏幕时，切换按钮位于左侧，但如果我没有记错的话，它应该位于右侧。我该如何修复它？ https ://preview.redd.it/g8895uexsshc1.jpg?width=1348&amp;format=pjpg&amp;auto=webp&amp;s=0a69f050b7a2fa38997895d19a13fdc47764dabf ​  https://preview.redd.it/r5exaz7zsshc1.jpg？ width=1291&amp;format=pjpg&amp;auto=webp&amp;s=da9c58fa84f4af1996ca53f2eca59262e845c30a ​ https://preview.redd.it/nq3pa9xzsshc1.jpg?width=767&amp;format=pjpg&amp;auto=webp&amp;s =cc77d34b016cd2b7c39f4c53ebbec9774be48204   由   提交 /u/LuckyLookingLucho   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anmch6/i_need_help_on_a_html_project/</guid>
+      <pubDate>Sat, 10 Feb 2024 18:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>后端开发人员通常如何记录他们的 API？那么前端开发者，如何处理API中的变量变化呢？最后，经理们，你们记录需求文档的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1andopt/how_do_backend_developers_usually_document_their/</link>
-      <description><![CDATA[作为一名前端开发人员，我在工作场所遇到了一个反复出现的问题。我的工作经常依赖 API，但有时后端开发人员提供必要的 API 的速度很慢。此外，还缺乏适当的 API 文档。相反，他们只是为我们提供了 Postman 集合。该集合可能包含许多变量，其中许多对于我们的目的来说是不必要的。因此，我经常需要询问后端开发人员在特定情况下应该使用哪些变量。例如，当在前端显示时间时，他们可能会给我诸如“created_at”之类的变量。 “已更新”，和“创建”。然后我必须咨询后端开发人员来确定我应该使用哪一个。如果我建议删除不需要的变量，他们经常声称这需要大量的工作。他们认为数据直接来自数据库，所以我勉强接受他们的解释并根据他们的指导进行操作。 主要问题是在实施后经过相当长的时间后出现的。他们可能会对 API 或类似内容进行更改。在此期间，键和值也可能会更改。因此，这可能会导致前端出现错误。这种情况可能会在实施后几个月发生。 当我询问为什么这些变量发生变化时，他们会这样回答：“我们在处理需求时已经讨论过这一点。”我们告诉您使用“created”变量而不是“created_at”。”这个回答让我完全困惑和迷失。据我记得，他们指示我使用“created_at”变量。不过，我不擅长争论，所以我会接受这是我自己的错。 这种情况在各种场景中经常发生。它可能与变量、API 端点名称，甚至是正在实现功能的区域相关。 项目经理还将与我们共享软件需求文档。然而，在大多数情况下，这些文件并没有清楚地解释这些要求。他们只记下了要求，没有提及受影响的地区或场景。我很想知道你们公司如何处理软件变更以及你们的需求文档中包含哪些信息。 我还想询问 API 文档。您是否也遇到过类似的沟通不畅的问题？你是怎么做到的？我有兴趣了解您的组织如何处理 API 文档。后端有必要在API文档中提及变量的使用场景吗？   由   提交 /u/william_buttler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1andopt/how_do_backend_developers_usually_document_their/</guid>
-      <pubDate>Sat, 10 Feb 2024 10:47:09 GMT</pubDate>
+      <title>我可以获得修改 CSS 代码的帮助吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anlq0u/can_i_get_help_for_modifying_a_css_code/</link>
+      <description><![CDATA[我正在使用 WordPress 构建一个网站，其中使用的是 Royal Elementor Addon Carousel，此轮播在免费版本中没有自动播放功能，但我我正在尝试使用 CSS 来做到这一点，其中将鼠标悬停在轮播上会停止自动播放。但是当我使用 CSS 代码时，轮播播放得太快了。鼠标悬停会停止自动播放。 引用如下： /* 设置轮播幻灯片的 3 秒过渡持续时间和延迟 */ .top -carousel .slick-slide { 过渡：变换 3s 缓入-出； 动画延迟：3s； /* 添加初始暂停的动画延迟 */ } ​ /* 隐藏手动导航箭头（可选）*/ .top-carousel .slick-prev， .top-carousel .slick-next { 显示：无; } ​ /* 防止动画过程中幻灯片溢出 */ .top-carousel .slick-slider { overflow: hidden; } ​ /* 设置动画持续时间（可选，根据需要调整）*/ . top-carousel .slick-track { 动画：slide-carousel 3s线性无限向前； /* 根据幻灯片宽度调整百分比 */ transition-duration: 3s; /* 添加了幻灯片过渡的过渡持续时间 */ } ​ /* 悬停时暂停动画（可选）*/ .top-carousel:hover .slick-track { 动画播放状态：已暂停; } ​&lt; /p&gt; /* 动画关键帧（可选，根据幻灯片宽度调整百分比） */  u/keyframes 幻灯片轮播{ 0% { 变换：translateX(0); }  100% { 变换：translateX(-100%); } } ​   由   提交/u/Downtown_Ad624   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anlq0u/can_i_get_help_for_modifying_a_css_code/</guid>
+      <pubDate>Sat, 10 Feb 2024 17:39:18 GMT</pubDate>
     </item>
     <item>
-      <title>哪些关键词最能描述我的职位/技能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1andi60/what_keywords_would_describe_my_positionskills/</link>
-      <description><![CDATA[我从事 Web 开发已有 10 多年了，我一直为没有明确职责结构的小公司或初创企业工作。我做了与数字开发和生态系统相关的所有事情。当我想找一份新工作时，我想知道如何用几句话来描述我的个人资料。我对专业IT公司的架构不太熟悉。所以我想知道您如何用几句话描述我的个人资料。 我制作了多个 Web 应用程序的前端和后端，因此可以称自己为“全栈开发人员”。  我托管了所有内容并让服务器运行。 （不多，但我可以在 Linux 上安装并运行 LAMP 服务器） 我与用户和利益相关者制定并讨论了可能的解决方案。我分析了情况并收集了我需要的信息。这种概念性工作通常是由所谓的“项目经理”完成的，对吗？ 我为每个工作人员提供了支持。我写了手册并向用户解释。支持者通常做什么。  我对当前系统进行了研究，并添加了定制（第三方）软件或硬件，以将它们纳入 IT 生态系统中。 我没有大型项目的经验。单元测试、过度设计的 OOP、Jira、Docker 等从来都不是我所做的事情的选择。 您如何用几句话描述我的个人资料？ ​&lt; /p&gt;   由   提交/u/damianUHX  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1andi60/what_keywords_would_describe_my_positionskills/</guid>
-      <pubDate>Sat, 10 Feb 2024 10:34:27 GMT</pubDate>
+      <title>Flex box 和 Grid 单独就足够了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anldb5/is_flex_box_grid_alone_good_enough/</link>
+      <description><![CDATA[我是 CSS 新手，我一直想知道弹性框和网格是否足以创建前端网站，我应该能够掌握/知道如何使用内联/块？我参与的大多数项目都看到了代码，因为他们几乎没有使用内联/块。 额外奖励： 我也不知道何时使用网格或弹性框&amp;何时使用 div 或 span 或section，因此也将不胜感激。 谢谢！   由   提交/u/cooketrunlizer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anldb5/is_flex_box_grid_alone_good_enough/</guid>
+      <pubDate>Sat, 10 Feb 2024 17:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个简单的情人节网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1andc6h/i_made_a_simple_valentine_site/</link>
-      <description><![CDATA[我创建这个网站是为了邀请一个女孩做我的情人，我想我不妨分享它以获得一些关于您的反馈大家认为或者我是否可以添加一些其他功能。 ​ 站点：https ://valentine.hesselp.dev/ Git：https://github.com/Heesel/情人节   由   提交 /u/heesell   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1andc6h/i_made_a_simple_valentine_site/</guid>
-      <pubDate>Sat, 10 Feb 2024 10:22:34 GMT</pubDate>
+      <title>我查看用户消息合法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anl547/is_it_legal_for_me_to_see_user_messages/</link>
+      <description><![CDATA[我正在制作一个应用程序，用户可以在其中向人工智能发出指令，并且我正在存储消息，以便指令下次再次出现他们登录。所以这可能是一个菜鸟问题，但我可以看到消息（目前它只是本地主机并且仍在开发中），可以吗？或者非法（根据 GDPR 或隐私法）？提出这个问题是因为，用户显然可以向人工智能提供敏感信息。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anl547/is_it_legal_for_me_to_see_user_messages/</guid>
+      <pubDate>Sat, 10 Feb 2024 17:14:34 GMT</pubDate>
     </item>
     <item>
-      <title>为面试准备准备的个人 DSA 笔记！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1and65v/curated_personal_dsa_notes_for_interview_prep/</link>
-      <description><![CDATA[https://github.com/Tushar -Kapil/DSA-Notes # 🌟 存储库亮点： - 树 🌲 - 图 📊 - 动态规划🔄 - 链表 🔗 - 堆 📊 - 堆栈和堆栈队列 ⏩⏪ - 尝试 🌐 - 递归 🔁 - 字符串 🧵 - 多维数组 🔄 - 哈希 🔍 - 异常处理 ❌🔍 - OOPS 🧑‍💻 - 位运算符 🧮   由   提交 /u/TusharKapil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1and65v/curated_personal_dsa_notes_for_interview_prep/</guid>
-      <pubDate>Sat, 10 Feb 2024 10:10:28 GMT</pubDate>
+      <title>从预取到预渲染，使用推测规则 API 优化性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ankw6q/from_prefetch_to_prerender_optimize_performance/</link>
+      <description><![CDATA[ 由   提交/u/rossrobino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ankw6q/from_prefetch_to_prerender_optimize_performance/</guid>
+      <pubDate>Sat, 10 Feb 2024 17:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>我应该学习 Next.js 13 还是 14？菜鸟寻求指导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/</link>
-      <description><![CDATA[我正在深入研究 Next.js，目标是掌握版本 14。但是，我注意到 YouTube 上缺乏专门针对Next.js 14 因为它相对较新。因此，我正在考虑转向 Next.js 13 教程寻求指导。 我的问题是，学习 Next.js 13 教程来掌握基础知识是否有效？然后用 Next.js 14 特有的附加功能来补充这些知识？如果是这样，您能否建议我在版本 14 中应注意的关键功能或更改，以确保我完全掌握最新信息并熟练掌握？ 非常感谢您提供的任何见解或建议在这个问题上。提前致谢！   由   提交/u/Minimum-Difficulty63  /u/Minimum-Difficulty63 reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/</guid>
-      <pubDate>Sat, 10 Feb 2024 10:04:27 GMT</pubDate>
+      <title>我构建了一个 LLM 代理，可以回答有关您的代码库的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anktzd/i_built_a_llm_agent_that_can_answer_questions/</link>
+      <description><![CDATA[       由   提交/u/jsonathan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anktzd/i_built_a_llm_agent_that_can_answer_questions/</guid>
+      <pubDate>Sat, 10 Feb 2024 17:01:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

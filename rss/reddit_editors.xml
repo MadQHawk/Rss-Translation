@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 10 Feb 2024 18:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 21:12:15 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro 导出的视频存在几秒钟的冻结帧和严重的压缩问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1ano9ip/premiere_pro_exports_videos_with_seconds_of/</link>
+      <description><![CDATA[规格和技术细节： Mac Studio M2 Max 96 GB RAM 1 TB SSD 我目前正在通过 Samsung T7 编辑和导出视频。 原始镜头：Sony Alpha 7Siii 和 Alpha 7R5，自己拍摄的； SLOG 3。 我在 Davinci 中对素材进行了粗剪和颜色分级，然后在 Premiere 中再次打开它，因此我当前尝试导出的素材是 ProRes 422。 ------------------------------------------------- ------------------------------- 问题： 我目前正在编辑视频，但导出时出现了严重错误。近两天来，我一直在尝试导出该视频，以便您只需完整观看一次即可进行修改。每次，视频中的段落在导出后都会丢失几秒钟。就好像编码器无法跟上比特率一样。此外，某些地方会出现几秒钟的压缩错误。然后该图像将无法识别。 我已尝试了所有不同的导出设置；但没有成功。 VBR1,2； CBR1，比特率从 50 到 100 不等。首先，我在 Premiere Pro beta 版本中剪切视频。 在导出错误后，我切换回了据称稳定的 Premiere Pro 2024 版本。  p&gt; 始终是相同的导出错误，但在视频的不同部分。我正在慢慢失去耐心。视频为4k，时长27分钟，带特效；因此，导出需要相应较长的时间。 我以前从未遇到过此问题。 有人知道可能导致此问题的原因吗？ 提前致谢！   由   提交 /u/GrindelShindel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ano9ip/premiere_pro_exports_videos_with_seconds_of/</guid>
+      <pubDate>Sat, 10 Feb 2024 19:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid 免费试用问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1annl93/avid_free_trials_questions/</link>
+      <description><![CDATA[大家好。我是一名在工作中使用 Premiere Pro 的专业剪辑师。我已经使用 Avid First 有一段时间了，但它所缺乏的功能对我来说太烦人了，无法继续使用它。所以，我想买它。我选择了免费试用版，现在正在使用 Avid Ultimate。我知道我想购买 avid，但我只需要每月 24 美元的标准版，而不是每月 50 美元的终极版。当免费试用结束并要求我购买并且我选择标准 avid 时，我的 Ultimate 项目将无法运行吗？我现在应该买标准的吗？如果我这样做，系统是否会自行降级或其他什么，或者我应该卸载软件并按照标准重新安装它？谢谢！   由   提交 /u/darsvedder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1annl93/avid_free_trials_questions/</guid>
+      <pubDate>Sat, 10 Feb 2024 19:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>有东方代表吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1annkq5/anyone_represented_by_eastern/</link>
+      <description><![CDATA[您的经历是什么？只是好奇。   由   提交/u/Lens_Vagabond  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1annkq5/anyone_represented_by_eastern/</guid>
+      <pubDate>Sat, 10 Feb 2024 19:01:17 GMT</pubDate>
+    </item>
     <item>
       <title>Resolve 能够在不限制工作流程的情况下将图片锁定延迟极长的时间，这使其成为最好的 NLE。</title>
       <link>https://www.reddit.com/r/editors/comments/1anka21/resolve_is_capable_of_delaying_picturelock_for_an/</link>
@@ -22,19 +43,19 @@
     <item>
       <title>2/2-2/9 周每周综述</title>
       <link>https://www.reddit.com/r/editors/comments/1angy7f/weekly_roundup_for_week_of_2229/</link>
-      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (265 🡅) 我的第一部故事片剪辑将是剧院 (211 🡅) 还有其他人经历过以下阶段吗认为它们真的很好，然后又认为它们绝对糟糕 (148 🡅) 2023 年后期制作行业报告现已发布 (133 🡅) 放弃 Avid 进行 Premiere (129 🡅)  评论最多的帖子  所有 Adob​​e 的仇恨是怎么回事？ (234 💬) 您为某部影片选择的 NLE 是什么电影？ (215 💬) 编辑们，您有哪些常见错误注意到业余电影剪辑了吗？ (183 💬) Jon Chu 使用 Apple Vision Pro 进行编辑(172 💬) 放弃 Avid 进行首映 (161 💬)     由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1angy7f/weekly_roundup_for_week_of_2229/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (265 🡅) 我的第一部故事片剪辑将是剧院 (211 🡅) 还有其他人经历过以下阶段吗认为它们真的很好，然后又认为它们绝对糟糕 (148 🡅) 2023 年后期制作行业报告现已发布 (133 🡅) 放弃 Avid 进行 Premiere (129 🡅)  评论最多的帖子  所有 Adob​​e 的仇恨是怎么回事？ (234 💬) 您为某部影片选择的 NLE 是什么电影？ (215 💬) 编辑们，您常见的错误有哪些注意到业余电影剪辑了吗？ (183 💬) Jon Chu 使用 Apple Vision Pro 进行编辑(172 💬) 放弃 Avid 进行首映 (161 💬)     由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1angy7f/weekly_roundup_for_week_of_2229/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1angy7f/weekly_roundup_for_week_of_2229/</guid>
       <pubDate>Sat, 10 Feb 2024 14:00:16 GMT</pubDate>
     </item>
     <item>
       <title>Avid 将 17:9 剪辑的源设置更改为 16:9。</title>
       <link>https://www.reddit.com/r/editors/comments/1aneq1z/avid_changes_source_settings_on_179_clip_to_169/</link>
-      <description><![CDATA[我以 17:9 拍摄了素材，并制作了一个 2048x1080p 项目以节省屏幕空间。序列似乎具有相同的分辨率，并且剪辑在时间轴上看起来正确，但是在源设置中，Frameflex 将它们设置为 16:9 1920x1080，并且每当我尝试更改它时都会恢复到该设置。时间轴上的所有剪辑都具有 Frameflex 效果 - 在我看来，17:9 序列将素材解释为 16:9，并且“更改”为 16:9。它适合 17:9 的比例。因此，所有剪辑都应用了毫无意义的效果。知道我做错了什么吗？到目前为止，我只处理过标准 1920x1080 项目。 系统规格：i5 9600k、GTX 1070、16GB RAM // 软件规格：Avid MC 2023.12 // 素材规格：DNxHR SQ、MXF，在 Resolve 中转码   由   提交 /u/helari_s   [链接] [评论]]]></description>
+      <description><![CDATA[我以 17:9 拍摄了素材，并制作了一个 2048x1080p 项目以节省屏幕空间。序列似乎具有相同的分辨率，并且剪辑在时间线上看起来是正确的，但是在源设置中，Frameflex 将它们设置为 16:9 1920x1080，并且每当我尝试更改它时都会恢复到该设置。时间轴上的所有剪辑都具有 Frameflex 效果 - 在我看来，17:9 序列将素材解释为 16:9，并且“更改”为 16:9。它适合 17:9 的比例。因此，所有剪辑都应用了毫无意义的效果。知道我做错了什么吗？到目前为止，我只处理过标准 1920x1080 项目。 系统规格：i5 9600k、GTX 1070、16GB RAM // 软件规格：Avid MC 2023.12 // 素材规格：DNxHR SQ、MXF，在 Resolve 中转码   由   提交 /u/helari_s   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1aneq1z/avid_changes_source_settings_on_179_clip_to_169/</guid>
       <pubDate>Sat, 10 Feb 2024 11:56:36 GMT</pubDate>
     </item>
     <item>
-      <title>当您有一些较低 fps 的视频 (24fps) 并且需要添加到 30fps 的合成时，您会怎么做？</title>
+      <title>当您有一些较低 fps 的视频 (24fps) 并且要添加到 30fps 的合成时，您会怎么做？</title>
       <link>https://www.reddit.com/r/editors/comments/1and3pl/what_do_you_do_when_you_have_few_lower_fps_videos/</link>
       <description><![CDATA[新手， 例如，如果您正在编辑将以 30 fps 导出的合成，但是您会做什么例如，您有几个 24fps 的视频？ 或者，如果您有一个 25fps 的合成，而您有几个 23.976 或 24fps 的视频？ 我通常所做的只是拖动阅读了这里的几篇文章后，我认为这是不正确的。 有什么建议吗？ 我在 Mac 工作室中，使用 Premiere Pro。   由   提交 /u/kt0n   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1and3pl/what_do_you_do_when_you_have_few_lower_fps_videos/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>Titler+ 已经 5 岁了</title>
       <link>https://www.reddit.com/r/editors/comments/1an7r6h/titler_is_5_years_old/</link>
-      <description><![CDATA[在这里找到这个 --- 亲爱的 Avid Titler+ 迟来的生日快乐！两个月前，你五岁了。你相信吗？整整五年是多么伟大的五年啊！从 2018 年 12 月发布第一个稳定版本，到 2024 年 2 月几乎让我们突出显示我们实际指向的文本。这肯定会让您思考。五年后，谁知道呢？也许您甚至能够应对行间距！开发一个编写实际文本的工具可能非常具有挑战性，但您确实是经过整整五年的紧张开发的产物，当然，这只是在第一个稳定版本之后。 当然，有人可能会说Davinci Resolve 在过去五年中已经成为最有能力和最具革命性的 NLE 之一，当然，他们在做这件事的同时成功地包含了一个很棒的标题工具，但我们狂热的忠实粉丝知道，如果你没有稳定性。这就是你，Avid Titler+。当我们感觉周围的世界正在崩溃时，我们总是可以向 Avid Titler+ 寻求稳定。想象一下，有一天上班时，不必在占位符标题卡上渲染标准叠化效果。随之而来的就是混乱！但你不是，Avid Titler+。你们就像一张熟悉的温暖毯子，已经五年了。 所以，Avid Titler+，不用担心我们。今天是你的好日子。我可以在 2030 年完成这些滚动学分，没问题。生日快乐，伙计。祝又五年了。 ​   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
+      <description><![CDATA[在这里找到这个 --- 亲爱的 Avid Titler+ 迟来的生日快乐！两个月前，你五岁了。你相信吗？整整五年是多么伟大的五年啊！从 2018 年 12 月发布第一个稳定版本，到 2024 年 2 月几乎让我们突出显示我们实际指向的文本。这肯定会让您思考。五年后，谁知道呢？也许您甚至能够应对行间距！开发一个可写入实际文本的工具可能非常具有挑战性，但您确实是经过整整五年的紧张开发的产物，当然，这只是在第一个稳定版本之后。 当然，有人可能会说Davinci Resolve 在过去的五年里已经成为最有能力和革命性的 NLE 之一，当然，他们在做这件事的同时成功地包含了一个很棒的标题工具，但我们狂热的忠实粉丝知道，如果你没有稳定性。这就是你，Avid Titler+。当我们感觉周围的世界正在崩溃时，我们总是可以向 Avid Titler+ 寻求稳定。想象一下，有一天上班时，不必在占位符标题卡上渲染标准叠化效果。随之而来的就是混乱！但你不是，Avid Titler+。你们就像一张熟悉的温暖毯子，已经五年了。 所以，Avid Titler+，不用担心我们。今天是你的好日子。我可以在 2030 年完成这些滚动学分，没问题。生日快乐，伙计。祝又五年了。 ​   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1an7r6h/titler_is_5_years_old/</guid>
       <pubDate>Sat, 10 Feb 2024 04:20:54 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>您希望在开始时得到的建议。</title>
       <link>https://www.reddit.com/r/editors/comments/1an33vu/advice_that_you_wish_you_were_given_while/</link>
-      <description><![CDATA[您好，作为“给刚开始发帖的人的建议”中的另一位，我想知道你们中的一些在职业生涯中取得成功的人会怎么做？不得不对那些希望在后期制作领域起步的人说。  大学毕业后，我已经在制作部门担任 PA 工作了大约一年，目前正在搬迁到洛杉矶。搬家后，我想换个方向，从事后期制作工作。现在我了解了从后期公共广播到助理编辑再到编辑的传统流程，我正在寻找后期制作公共广播的工作——最适合后期制作公司。就技能而言，我多年来一直在 Premiere 中编辑自己的项目/为朋友的项目，但我对此的基础知识仅限于此。我愿意并且想要了解更多的工作流程以及其他软件，但我担心基于我有限的技能和经验，甚至无法获得入门级工作。  我在洛杉矶有一小部分人脉，但他们更多地参与了制作方面的工作，我不一定认识在后期领域工作的人。  您会给刚刚开始的人什么建议，我应该寻找或考虑什么样的事情？我也想听听其他人的故事。感谢任何花时间对此做出回应的人。   由   提交 /u/DanglinSnoozer   [链接] [评论]]]></description>
+      <description><![CDATA[您好，作为“给刚开始发帖的人的建议”中的另一位，我想知道你们中的一些在职业生涯中取得成功的人会怎么做？不得不对那些希望在后期制作领域起步的人说。  大学毕业后，我已经在制作部门担任 PA 工作了大约一年，目前正在搬迁到洛杉矶。搬家后，我想换个方向，从事后期制作工作。现在我了解了从后期公共广播到助理编辑再到编辑的传统流程，我正在寻找后期制作公共广播的工作——最适合后期工作室。就技能而言，我多年来一直在 Premiere 中编辑自己的项目/为朋友的项目，但我对此的基础知识仅限于此。我愿意并且想要了解更多的工作流程以及其他软件，但我担心基于我有限的技能和经验，甚至无法获得入门级工作。  我在洛杉矶有一小部分人脉，但他们更多地参与了制作方面的工作，我不一定认识在后期领域工作的人。  你会给刚刚开始的人什么建议，我应该寻找或考虑什么样的事情？我也想听听其他人的故事。感谢任何花时间对此做出回应的人。   由   提交 /u/DanglinSnoozer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1an33vu/advice_that_you_wish_you_were_given_while/</guid>
       <pubDate>Sat, 10 Feb 2024 00:23:06 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好！我想我们这里的许多人都在家办公，有时被锁在家里，社交生活比其他人少，这意味着我们必须处理家庭日常事务、压力、限制、工作等。您想分享一些管理日常生活的技巧吗？例如，我尝试时不时地更新我的家和我工作的房间的东西，更换植物，移动我的东西，每小时出去到阳台上呼吸新鲜空气，投资我的家以拥有漂亮的东西期待。因为我每天 24 小时都在那里度过的景色等等。   由   提交/u/ZiggyStardust_88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1an0x33/techniques_to_support_working_from_home/</guid>
       <pubDate>Fri, 09 Feb 2024 22:44:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>AE 在这里，与新编辑在新的后期工作室开始一个项目，我有一些问题。</title>
-      <link>https://www.reddit.com/r/editors/comments/1an09uj/ae_here_starting_a_project_with_a_new_editor_at_a/</link>
-      <description><![CDATA[您好， 我是商业领域的 AE，本月晚些时候我将协助一位新编辑。我和同一个编辑一起工作了一段时间，我已经习惯了他们的工作方式。  所以我想知道，我应该问这位新编辑什么问题，以便我可以开始进行项目准备？我有几个问题，这些问题自然都与项目分解、组织、他们喜欢如何工作和编辑有关，但我更好奇您希望新的 AE 问什么问题？ 这个新的问题我的职位是 Premiere，虽然我非常了解 Premiere，但我更习惯 Avid 担任 AE 角色。大多数时候，如果我在 Premiere，我是剪辑师 - 我知道职责是相同的，但是，我担心我可能会错过一些 AE 特定的“技巧”特定于首映。对此有何见解？ ​   由   提交/u/hambone_bowler  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1an09uj/ae_here_starting_a_project_with_a_new_editor_at_a/</guid>
-      <pubDate>Fri, 09 Feb 2024 22:16:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买 DAS 硬盘</title>
-      <link>https://www.reddit.com/r/editors/comments/1an02rt/hdd_purchase_for_das/</link>
-      <description><![CDATA[星期五好， 我的计划是购买 OWC Thunderbay 4，并需要一些安装指南。我对硬盘的了解有限，所以我对启动这个项目感到有点紧张。 OWC 将预装以下内容：https://eshop.macsales.com/item/Seagate/ST6000NM024A/#概述 但我发现这些大约相差 75 美元：https://www.newegg.com/seagate-exos-x14-enterprise-st12000nm0008-12tb/p/1Z4-002P-00JV2?Item=9SIAAEEK1C2124 我的问题是：除了容量之外，它们之间的性能差异（如果有）是什么？ 不幸的是，我的预算有限，总共约为 1,500 美元。  ​ 规格：Apple M2 Max，配备 12 核 CPU、38 核 GPU、16 核神经引擎、64GB 统一内存、2TB SSD 存储 谢谢   由   提交 /u/mrhappysuncle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1an02rt/hdd_purchase_for_das/</guid>
-      <pubDate>Fri, 09 Feb 2024 22:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>同时使用 Premiere、After Effects、Photoshop 和 Resolve 是否正常？</title>
-      <link>https://www.reddit.com/r/editors/comments/1amx4er/is_it_normal_to_use_premiere_after_effects/</link>
-      <description><![CDATA[ 由   提交/u/shorthaired13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1amx4er/is_it_normal_to_use_premiere_after_effects/</guid>
-      <pubDate>Fri, 09 Feb 2024 20:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
