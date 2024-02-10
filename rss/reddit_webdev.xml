@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 10 Feb 2024 09:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 12:20:30 GMT</lastBuildDate>
+    <item>
+      <title>有关 Google Cloud Run 上多租户应用的域名注册和映射的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anewc6/advice_on_domain_registration_and_mapping_for/</link>
+      <description><![CDATA[我正在为我的内容管理系统 (Express/PayloadCMS) 和前端应用程序 (NextJS) 构建多租户应用程序。我的 CMS 托管在 Google Cloud Run 上，我的前端应用程序托管在 Vercel 上 我正在尝试构建功能，让我可以为客户创建和映射域，而无需手动创建和配置它们谷歌云。客户应该能够通过转至 admin.domain.com 来访问其网站 CMS，并通过转至 domain.com。  Vercel 可以使用其 API 处理前端域，但我在理解如何为我的 CMS 执行此操作时遇到了一些困难。据我了解，我应该使用负载均衡器并将负载均衡器指向我的 Google Cloud Run 服务。这些域应指向该负载均衡器，而不是尝试将新域直接映射到 Cloud Run 服务。但我真的不知道这是否是 1. 正确的方法和 2. 可通过 Google API 执行，我可以从 CMS 触发。  有关此主题的任何建议将不胜感激。我在开发网络应用程序方面拥有丰富的经验，但是当涉及到网络时，我肯定会有点迷失   由   提交 /u/ske66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anewc6/advice_on_domain_registration_and_mapping_for/</guid>
+      <pubDate>Sat, 10 Feb 2024 12:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端开发人员通常如何记录他们的 API？那么前端开发者，如何处理API中的变量变化呢？最后，经理们，你们记录需求文档的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1andopt/how_do_backend_developers_usually_document_their/</link>
+      <description><![CDATA[作为一名前端开发人员，我在工作场所遇到了一个反复出现的问题。我的工作经常依赖 API，但有时后端开发人员提供必要的 API 的速度很慢。此外，还缺乏适当的 API 文档。相反，他们只是为我们提供了 Postman 集合。该集合可能包含许多变量，其中许多对于我们的目的来说是不必要的。因此，我经常需要询问后端开发人员在特定情况下应该使用哪些变量。例如，当在前端显示时间时，他们可能会给我诸如“created_at”之类的变量。 “已更新”，和“创建”。然后我必须咨询后端开发人员来确定我应该使用哪一个。如果我建议删除不需要的变量，他们经常声称这需要大量的工作。他们认为数据直接来自数据库，所以我勉强接受他们的解释并根据他们的指导进行操作。 主要问题是在实施后经过相当长的时间后出现的。他们可能会对 API 或类似内容进行更改。在此期间，键和值也可能会更改。因此，这可能会导致前端出现错误。这种情况可能会在实施后几个月发生。 当我询问为什么这些变量发生变化时，他们会这样回答：“我们在处理需求时已经讨论过这一点。”我们告诉您使用“created”变量而不是“created_at”。”这个回答让我完全困惑和迷失。据我记得，他们指示我使用“created_at”变量。不过，我不擅长争论，所以我会接受这是我自己的错。 这种情况在各种场景中经常发生。它可能与变量、API 端点名称，甚至是正在实现功能的区域相关。 项目经理还将与我们共享软件需求文档。然而，在大多数情况下，这些文件并没有清楚地解释这些要求。他们只记下了要求，没有提及受影响的地区或场景。我很想知道你们公司如何处理软件变更以及你们的需求文档中包含哪些信息。 我还想询问 API 文档。您是否也遇到过类似的沟通不畅的问题？你是怎么做到的？我有兴趣了解您的组织如何处理 API 文档。后端有必要在API文档中提及变量的使用场景吗？   由   提交 /u/william_buttler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1andopt/how_do_backend_developers_usually_document_their/</guid>
+      <pubDate>Sat, 10 Feb 2024 10:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些关键词最能描述我的职位/技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1andi60/what_keywords_would_describe_my_positionskills/</link>
+      <description><![CDATA[我从事 Web 开发已有 10 多年了，我一直为没有明确职责结构的小公司或初创企业工作。我做了与数字开发和生态系统相关的所有事情。当我想找一份新工作时，我想知道如何用几句话来描述我的个人资料。我对专业IT公司的架构不太熟悉。所以我想知道您如何用几句话描述我的个人资料。 我制作了多个 Web 应用程序的前端和后端，因此可以称自己为“全栈开发人员”。  我托管了所有内容并让服务器运行。 （不多，但我可以在 Linux 上安装并运行 LAMP 服务器） 我与用户和利益相关者制定并讨论了可能的解决方案。我分析了情况并收集了我需要的信息。这种概念性工作通常是由所谓的“项目经理”完成的，对吗？ 我为每个工作人员提供了支持。我写了手册并向用户解释。支持者通常做什么。  我对当前系统进行了研究，并添加了定制（第三方）软件或硬件，以将它们纳入 IT 生态系统中。 我没有大型项目的经验。单元测试、过度设计的 OOP、Jira、Docker 等从来都不是我所做的事情的选择。 您如何用几句话描述我的个人资料？ ​&lt; /p&gt;   由   提交/u/damianUHX  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1andi60/what_keywords_would_describe_my_positionskills/</guid>
+      <pubDate>Sat, 10 Feb 2024 10:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个简单的情人节网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1andc6h/i_made_a_simple_valentine_site/</link>
+      <description><![CDATA[我创建这个网站是为了邀请一个女孩做我的情人，我想我不妨分享它以获得一些关于您的反馈大家认为或者我是否可以添加一些其他功能。 ​ 站点：https ://valentine.hesselp.dev/ Git：https://github.com/Heesel/情人节   由   提交 /u/heesell   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1andc6h/i_made_a_simple_valentine_site/</guid>
+      <pubDate>Sat, 10 Feb 2024 10:22:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>为面试准备准备的个人 DSA 笔记！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1and65v/curated_personal_dsa_notes_for_interview_prep/</link>
+      <description><![CDATA[https://github.com/Tushar -Kapil/DSA-Notes # 🌟 存储库亮点： - 树 🌲 - 图 📊 - 动态规划🔄 - 链表 🔗 - 堆 📊 - 堆栈和堆栈队列 ⏩⏪ - 尝试 🌐 - 递归 🔁 - 字符串 🧵 - 多维数组 🔄 - 哈希 🔍 - 异常处理 ❌🔍 - OOPS 🧑‍💻 - 位运算符 🧮   由   提交 /u/TusharKapil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1and65v/curated_personal_dsa_notes_for_interview_prep/</guid>
+      <pubDate>Sat, 10 Feb 2024 10:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该学习 Next.js 13 还是 14？菜鸟寻求指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/</link>
+      <description><![CDATA[我正在深入研究 Next.js，目标是掌握版本 14。但是，我注意到 YouTube 上缺乏专门针对Next.js 14 因为它相对较新。因此，我正在考虑转向 Next.js 13 教程寻求指导。 我的问题是，学习 Next.js 13 教程来掌握基础知识是否有效？然后用 Next.js 14 特有的附加功能来补充这些知识？如果是这样，您能否建议我在版本 14 中应注意的关键功能或更改，以确保我完全掌握最新信息并熟练掌握？ 非常感谢您提供的任何见解或建议在这个问题上。提前致谢！   由   提交/u/Minimum-Difficulty63  /u/Minimum-Difficulty63 reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1and31j/hould_i_learn_nextjs_13_or_14_noob_looking_for_a/</guid>
+      <pubDate>Sat, 10 Feb 2024 10:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 React 中的另一个页面导航回来时如何保留第一页上的滚动位置？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ancuj9/how_to_preserve_scroll_position_on_the_first_page/</link>
+      <description><![CDATA[假设我有两个页面/两条路线。在其中一个我有一个 &lt;Link&gt;组件： &lt;链接到=“/某事”&gt; &lt;按钮&gt;这是链接   在第二个中，我可以返回到之前的路线： const handleGoBack = () =&gt;; { 导航(-1); }; return (  返回  );  将第一页的位置保存到我单击&lt;链接&gt;的位置的最佳方法是什么？组件，以便当我从另一个页面导航回来时，我应该返回到单击链接的确切位置？ 我尝试将其添加到第一个组件： function storeScrollPosition() { sessionStorage.setItem(&#39;scrollPosition&#39;, window.scrollY.toString()); }  然后我在  中使用它作为 onClick 操作，同时在第二个组件中执行 useEffect 中的所有逻辑： useEffect(() =&gt; { const rollPosition = sessionStorage.getItem(&#39;scrollPosition&#39;); if (scrollPosition) { window.scrollTo(0, parseInt(scrollPosition)); sessionStorage.removeItem(&#39;scrollPosition&#39;); } else { window.scrollTo(0, 0); } }, []);  但似乎效果并不完美。有时有效，有时无效。有没有更好的方法来做到这一点？   由   提交/u/riomycat  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ancuj9/how_to_preserve_scroll_position_on_the_first_page/</guid>
+      <pubDate>Sat, 10 Feb 2024 09:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>关于创建网站+制作浏览器游戏的问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1anc46t/questions_in_creating_a_website_making_a_browser/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[有关代理的帮助 我想使用紫外线代理制作一个畅通无阻的游戏网站 https://github.com/titaniumnetwork-dev/Ultraviolet 我希望它类似于星际穿越，https://github.com/InterstellarNetwork/Interstellar 有人可以告诉我如何做到这一点/它需要什么，我的下一个问题是，如何做当我点击星际上的游戏并通过代理加载游戏/url 时它可以工作吗？   由   提交 /u/WhiteeyScience   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1an5puf/help_with_proxy/</guid>
       <pubDate>Sat, 10 Feb 2024 02:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据采访流程进行过滤</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an417u/filtering_based_on_interview_processes/</link>
-      <description><![CDATA[TL;DR - 高级工程师，已经超过了 LEETcode BS，并且看到足够多的公司没有这样做，我想我要开始过滤掉那些这样做；如何知道他们是否在第一轮中这样做？  我正在找工作，令我惊喜的是，大多数面试都是与工作更相关的事情，而不是白板难题：项目、代码审查、讨论集成选项等。  我发现这对于了解在某个地方工作的感觉更有启发性，并且还展示了我的工作方式（无论是与他人还是合作）。  我刚刚炸掉了一个谜题，老实说这让我措手不及，因为我已经进行了几轮（包括与副总裁/工程师进行了一些技术讨论）。  我显然可以做得更好，提前获得更多细节。考虑到还有多少其他公司没有这些，我想在前端过滤掉这些公司。 Glassdoor 在这方面的表现相当糟糕。  向大家提两个问题： 您是否也见过较少的 LEETcode BS（在 FAANG 之外）？ 在第一次致电时，您会如何进行沟通？获得有关回合的更多详细信息？我在 Glassdoor 上看到的一个地方有一篇面试评论，大意是“他们说这一轮特定的面试不是白板，但它完全是，只是没有 Coderpad。”   由   提交/u/bufferingmelonshorts  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an417u/filtering_based_on_interview_processes/</guid>
-      <pubDate>Sat, 10 Feb 2024 01:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为独立开发者创建了 SEO 跟踪器、索引器和停机时间跟踪器 - Indexely</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an3g3i/i_created_an_seo_tracker_indexer_downtime_tracker/</link>
-      <description><![CDATA[大家好！我创建了 Indexely 作为 Ahrefs、Semrush 等大牌的替代品。它的功能不是那么齐全，但它可以完成工作！ Indexely 是用 Laravel 构建的。就业和就业的巨大利用用于处理大量数据的队列。  ​ 我创建 Indexely 作为一个产品，提供给我的代理机构的客户，为每个项目提供更好的价值。如果您想尝试一下，使用折扣代码 FREETOKENS 即可获得 500 个代币。 ​ https://indexely.com/ ​ 谢谢！  ​ ​   由   提交/u/qF_I_Leno   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an3g3i/i_created_an_seo_tracker_indexer_downtime_tracker/</guid>
-      <pubDate>Sat, 10 Feb 2024 00:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an2grr/how_are_you_guys/</link>
-      <description><![CDATA[进展如何？   由   提交 /u/userknownunknown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an2grr/how_are_you_guys/</guid>
-      <pubDate>Fri, 09 Feb 2024 23:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>该网站使用哪个视频平台/插件/编码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an26lj/which_video_platform_plugin_coding_does_this/</link>
-      <description><![CDATA[1.你能找出这个视频播放器在塔克·卡尔森的网站上使用哪个平台吗？ https ://tuckercarlson.com/the-vladimir-putin-interview/ （例如 youtube 嵌入/vimeo 嵌入）？ 或者他们是否编写了自己的视频播放器从头开始？ 2.您能判断他是在自己的服务器上托管该网站还是通过托管提供商托管该网站吗？ 我问的原因是视频更多且更丰富。如今，这些内容更多地托管在人们自己的网站上，以避免社交媒体公司的审查。我经常想知道他们是否也在自己的财产中托管自己的服务器，以避免对域名托管服务的潜在审查。谁能证实这一点？ 干杯   由   提交/u/Fun-Fix6487  /u/Fun-Fix6487 reddit.com/r/webdev/comments/1an26lj/which_video_platform_plugin_coding_does_this/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an26lj/which_video_platform_plugin_coding_does_this/</guid>
-      <pubDate>Fri, 09 Feb 2024 23:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - DavidAI2024/Gemini-KD:KD Gemini-Pro 是 PyQt5 上的桌面应用程序，简化了与 Google Gemini-Pro AI 模型的交互。用户轻松提交问题，接收即时生成的答复。具有直观的界面和先进的功能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an215h/github_davidai2024geminikd_kd_geminipro_a_desktop/</link>
-      <description><![CDATA[   KDGemini-pro 简介：一个基于 PyQt5 的工具，用于与 Google 生成式 AI 模型交互，双子座专业版。该工具使用户能够提出问题并获得创造性的答复。它具有时尚的 UI，具有 API 密钥身份验证、温度选择和对话状态管理。使用 KDGemini-pro 探索 AI 生成内容的世界！   由   提交 /u/FruitysX   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an215h/github_davidai2024geminikd_kd_geminipro_a_desktop/</guid>
-      <pubDate>Fri, 09 Feb 2024 23:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些广告服务建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an174a/need_some_suggestion_for_ads_service/</link>
-      <description><![CDATA[我制作了一个小型网络应用程序来帮助玩棋盘游戏，它是免费的，并且流量很好。我想添加一些广告横幅以减轻服务器费用。我尝试过 Google Ads，但由于某种原因未获批准，我尝试遵守但放弃了。还有其他我可以研究的简单广告服务吗？   由   提交/u/Artemis_21  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an174a/need_some_suggestion_for_ads_service/</guid>
-      <pubDate>Fri, 09 Feb 2024 22:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 Web 开发令人筋疲力尽，这是我们自己的错</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an0xia/modern_web_development_is_exhausting_its_our_own/</link>
-      <description><![CDATA[    /u/McWipey   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an0xia/modern_web_development_is_exhausting_its_our_own/</guid>
-      <pubDate>Fri, 09 Feb 2024 22:45:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
