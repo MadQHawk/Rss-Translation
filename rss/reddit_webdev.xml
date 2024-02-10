@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 10 Feb 2024 03:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 09:13:04 GMT</lastBuildDate>
+    <item>
+      <title>关于创建网站+制作浏览器游戏的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anc46t/questions_in_creating_a_website_making_a_browser/</link>
+      <description><![CDATA[我是一名设计师，但作为利益相关者，我也是不断发展的餐饮业务的一部分。我们在封锁期间创办了一家食品企业，随着许多特许经营店和商店的开业，它变得相当大。 我的主要目标是为其创建一个网站，最初是一个简单的网站，仅用于显示信息、菜单， 接触。还没有什么重大的事情 - 但我还想之后为它创建一个基于浏览器的游戏。就像食品摊游戏一样，顾客过来时，会显示食物的图像，然后你建立他们的订单并获得积分。完毕。非常简单的餐厅游戏，我在其中推销食物，就像 2010 年的 Facebook 游戏或旧的 Flash 游戏一样，但都是关于我们的品牌的。 我从 A 点开始到 B 点应该从哪里开始？ 我的UI/UX 设计师是指在为上述企业从事设计工作之外的工作。 8年来，我只是从 PM 那里得到简报，做 UI（如果没有其他人的话，有时也做 UX），然后交给开发人员。有时会重申，重复......但仅此而已。 我确实在大学里了解过一些前端知识，并且对前端有所了解。离开训练营。目前我所知道的只是足以让你们的生活不再那么悲惨。所以，是的。 这对我来说只是一种爱好，就像一个目标或我 2024 年的大项目，而不是真正的职业或任何东西。   由   提交/u/Away-Development-109   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anc46t/questions_in_creating_a_website_making_a_browser/</guid>
+      <pubDate>Sat, 10 Feb 2024 08:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么工具进行网页设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anbyjl/what_tool_do_you_use_for_web_design/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/LISCoxH1Gj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anbyjl/what_tool_do_you_use_for_web_design/</guid>
+      <pubDate>Sat, 10 Feb 2024 08:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>不想学习下一步，我的选择是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anamfa/dont_want_to_learn_next_my_alternatives/</link>
+      <description><![CDATA[标题。我的工作不需要学习它，但看看目前的情况，Nextjs 和 Remix 迟早会成为新 Web 应用程序的默认选择。 但是看看 Nextjs 生态系统、错误、不一致和其他事情，它确实如此看起来不太吸引人去学习和花时间。 Nextjs 非常复杂，他们甚至必须制作视频来解释其复杂的框架以及您在使用它之前必须考虑并以某种方式了解的所有边缘情况。对我来说，它看起来臃肿、过于复杂、作为 Web 框架做了太多事情并且需要太多时间来学习😕 有没有可以在工作中使用的替代方案？我目前首选的堆栈：React + Vite。也许是quickjs/solidjs/sveltejs？ Vue 看起来像是一个全新的框架，与 React 无关。 非常感谢。   由   提交/u/dabe3ee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anamfa/dont_want_to_learn_next_my_alternatives/</guid>
+      <pubDate>Sat, 10 Feb 2024 07:13:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot 现在好用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ana35h/is_github_copilot_any_good_nowadays/</link>
+      <description><![CDATA[我正计划购买 Copilot，但在人工智能辅助编程世界（以及整个人工智能世界）持续繁荣的时期，我想知道 mb 在那里是更好的选择吗？还是mb更便宜？甚至免费？您现在对 Copilot 有何看法？您能提出更好的替代方案吗？   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ana35h/is_github_copilot_any_good_nowadays/</guid>
+      <pubDate>Sat, 10 Feb 2024 06:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许 IMAP 的电子邮件托管吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1an7cdl/email_hosting_that_allows_imap/</link>
+      <description><![CDATA[我在 GoDaddy 上购买了一个域名，该域名附带了关联的 Outlook 电子邮件。但是，我最近了解到他们不再支持 IMAP/POP。 有人对具有此功能的电子邮件托管有建议吗？  &amp; #32；由   提交 /u/Longjumping-Speed511    reddit.com/r/webdev/comments/1an7cdl/email_hosting_that_allows_imap/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1an7cdl/email_hosting_that_allows_imap/</guid>
+      <pubDate>Sat, 10 Feb 2024 03:58:21 GMT</pubDate>
+    </item>
     <item>
       <title>如何从头开始创建一个体育统计网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1an646o/how_to_create_a_sports_statistics_website_from/</link>
@@ -22,21 +57,14 @@
     <item>
       <title>代理帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1an5puf/help_with_proxy/</link>
-      <description><![CDATA[有关代理的帮助 我想使用紫外线代理制作一个畅通无阻的游戏网站https://github.com/titaniumnetwork-dev/Ultraviolet 我希望它类似于星际穿越，https://github.com/InterstellarNetwork/Interstellar 有人可以告诉我如何做到这一点/它需要什么，我的下一个问题是，如何做当我点击星际上的游戏并通过代理加载游戏/url 时它可以工作吗？   由   提交 /u/WhiteeyScience   [链接] [评论]]]></description>
+      <description><![CDATA[有关代理的帮助 我想使用紫外线代理制作一个畅通无阻的游戏网站 https://github.com/titaniumnetwork-dev/Ultraviolet 我希望它类似于星际穿越，https://github.com/InterstellarNetwork/Interstellar 有人可以告诉我如何做到这一点/它需要什么，我的下一个问题是，如何做当我点击星际上的游戏并通过代理加载游戏/url 时它可以工作吗？   由   提交 /u/WhiteeyScience   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1an5puf/help_with_proxy/</guid>
       <pubDate>Sat, 10 Feb 2024 02:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>前端开发中实现3D效果的标准做法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1an5i9i/whats_the_standard_practice_for_implementing_3d/</link>
-      <description><![CDATA[我一直在探索将 3D 效果集成到 Web 项目中，并注意到许多现代网站都使用令人印象深刻的 3D 视觉效果。很明显，Three.js 和 WebGL 这样的库在这方面发挥了重要作用，但我很好奇前端开发人员为实现这种效果所遵循的标准实践。 大多数前端开发人员都是这样做的吗？使用 3D 效果的人也专门研究 Three.js/WebGL，或者是否有一个公共存储库或资源，可以让他们获取预制的 3D 效果和对象以合并到他们的项目中？想到所有使用这些视觉效果的前端开发人员都是 3D 编程专家，我觉得有点令人畏惧。我的假设是，可能存在流行的平台或社区，开发人员可以在其中共享或销售即用型 3D 组件。 有人可以分享一下您通常如何向 Web 项目添加 3D 元素的见解或经验吗？对于那些希望通过 3D 视觉效果增强其网站而无需从一开始就需要在 Three.js 或 WebGL 方面拥有深厚专业知识的人，您是否有推荐的特定工具、库或网站？ 提前感谢您的意见和建议!   由   提交/u/Jaded_Run3214   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1an5i9i/whats_the_standard_practice_for_implementing_3d/</guid>
-      <pubDate>Sat, 10 Feb 2024 02:19:25 GMT</pubDate>
-    </item>
-    <item>
       <title>根据采访流程进行过滤</title>
       <link>https://www.reddit.com/r/webdev/comments/1an417u/filtering_based_on_interview_processes/</link>
-      <description><![CDATA[TL;DR - 高级工程师，已经超过了 LEETcode BS，并且看到足够多的公司没有这样做，我想我要开始过滤掉那些这样做；如何知道他们是否在第一轮中这样做？  我正在找工作，令我惊喜的是，大多数面试都是与工作更相关的事情，而不是白板难题：项目、代码审查、讨论集成选项等。  我发现这对于了解在某个地方工作的感觉更有启发性，并且还展示了我的工作方式（无论是与他人还是合作）。  我刚刚炸掉了一个谜题，老实说这让我措手不及，因为我已经进行了几轮（包括与副总裁/工程师进行了一些技术讨论）。  我显然可以做得更好，以便预先获得更多细节。考虑到还有多少其他公司没有这些，我想在前端过滤掉这些公司。 Glassdoor 在这方面的表现相当糟糕。  向大家提两个问题： 您是否也见过较少的 LEETcode BS（在 FAANG 之外）？ 在第一次致电时，您会如何进行沟通？获得有关回合的更多详细信息？我在 Glassdoor 上看到的一个地方有一篇面试评论，大意是“他们说这一轮特定的面试不是白板，但它完全是，只是没有 Coderpad。”   由   提交/u/bufferingmelonshorts  [链接] [评论]]]></description>
+      <description><![CDATA[TL;DR - 高级工程师，已经超过了 LEETcode BS，并且看到足够多的公司没有这样做，我想我要开始过滤掉那些这样做；如何知道他们是否在第一轮中这样做？  我正在找工作，令我惊喜的是，大多数面试都是与工作更相关的事情，而不是白板难题：项目、代码审查、讨论集成选项等。  我发现这对于了解在某个地方工作的感觉更有启发性，并且还展示了我的工作方式（无论是与他人还是合作）。  我刚刚炸掉了一个谜题，老实说这让我措手不及，因为我已经进行了几轮（包括与副总裁/工程师进行了一些技术讨论）。  我显然可以做得更好，提前获得更多细节。考虑到还有多少其他公司没有这些，我想在前端过滤掉这些公司。 Glassdoor 在这方面的表现相当糟糕。  向大家提两个问题： 您是否也见过较少的 LEETcode BS（在 FAANG 之外）？ 在第一次致电时，您会如何进行沟通？获得有关回合的更多详细信息？我在 Glassdoor 上看到的一个地方有一篇面试评论，大意是“他们说这一轮特定的面试不是白板，但它完全是，只是没有 Coderpad。”   由   提交/u/bufferingmelonshorts  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1an417u/filtering_based_on_interview_processes/</guid>
       <pubDate>Sat, 10 Feb 2024 01:06:50 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[    /u/McWipey   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1an0xia/modern_web_development_is_exhausting_its_our_own/</guid>
       <pubDate>Fri, 09 Feb 2024 22:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我的热情项目？有人愿意贡献吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amzs5w/open_source_my_passion_project_would_anyone_even/</link>
-      <description><![CDATA[      你好r/webdev 社区， ​ 去年我开发了一个一体化的求职平台，我很高兴，几个月前，当我在此处展示它时，收到了压倒性的积极反馈。尽管尚未获得我的第一个全职开发职位，但这个项目一直是我的骄傲和快乐。多么残酷的市场……但无论如何，这里有一个 TrayectoAI 演示的链接。这个演示有点远远落后于实际的产品状态，实际的产品状态现在包括带有人工智能的求职信生成器以及更好的仪表板见解。 ​ 我已经达到了十字路口，正在寻求你们的集体智慧。该平台最初是为了货币化而建立的。然而，我的主要目标已经转向获得可靠的软件工程职位，并且我正在考虑公开存储库是否会增加我的机会。在我的 GitHub 上拥有一个令人印象深刻的项目似乎至关重要，而缺乏这种可见性可能会成为一个障碍。 ​ 开源应用程序的想法让我兴奋不已几个原因。它不仅可以作为一个重要的投资组合，而且社区为其发展做出贡献的想法确实令人鼓舞。然而，我很伤心。一方面，开源可以邀请协作、反馈和改进，使平台变得更好。另一方面，创造货币化产品的机会更少。  我现在似乎没有足够的精力来完全投入到这个产品中。 ​ 我重视这个社区的洞察力和经验，尤其是那些经历过类似情况或在开源贡献和个人职业发展之间取得平衡的人。如果您能分享任何建议、考虑因素或个人轶事，我们将不胜感激。 ​ 感谢您花时间阅读和回复。当我做出这些决定时，您的支持和指导对我来说意义重大。  以下是我的本地构建中尚未推出到演示版本的功能的屏幕截图： 桑基图表 ​ 采用人工智能的求职信生成器 &amp; #x200b; 更新了界面   由   提交 /u/ozkvr   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amzs5w/open_source_my_passion_project_would_anyone_even/</guid>
-      <pubDate>Fri, 09 Feb 2024 21:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 面试需要注意什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amyyr3/things_to_know_for_a_react_interview/</link>
-      <description><![CDATA[有什么反应技巧吗？下周我将进行第一次面试，我正在研究每个概念，以尽我所能地真正解释它们，但是任何关于要关注的内容等的建议将不胜感激。我会为自定义库构建组件。谢谢！   由   提交 /u/TonyBikini   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amyyr3/things_to_know_for_a_react_interview/</guid>
-      <pubDate>Fri, 09 Feb 2024 21:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使我了解 Vue 到一定程度，我真的应该学习 React 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amyc9f/should_i_really_learn_react_even_tho_i_know_vue/</link>
-      <description><![CDATA[我可以用 Vue 开发应用，但是我很难找到 Vue 的工作，但我仍然有精力去学习。 Vue 是否不如 React？切换到 React 是否明智？如果是的话，原因是什么？   由   提交/u/Kinkajou89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amyc9f/should_i_really_learn_react_even_tho_i_know_vue/</guid>
-      <pubDate>Fri, 09 Feb 2024 20:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>OAuth2 数据帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1amy6zc/oauth2_data_help/</link>
-      <description><![CDATA[大家好！我是一名拥有丰富经验的软件开发人员，但我对 Web 开发还很陌生，所以我希望这不是一个太愚蠢的问题。 现在，我正在尝试创建一个nextjs 中的应用程序，我们将从规划中心收集用户列表。我想使用 OAuth，规划中心提供了 python 和 PHP 示例，但我对 js 的了解不够，无法移植这些示例。我已尝试遵循 nextauth 的一些文档，但这似乎更适合创建用户帐户，这不是我想要对此集成执行的操作。 任何帮助将不胜感激！&lt; /p&gt;   由   提交 /u/swagminecrafter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1amy6zc/oauth2_data_help/</guid>
-      <pubDate>Fri, 09 Feb 2024 20:46:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
