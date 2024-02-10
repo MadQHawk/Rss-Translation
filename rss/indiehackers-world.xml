@@ -4,7 +4,102 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 10 Feb 2024 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 18:15:17 GMT</lastBuildDate>
+    <item>
+      <title>应用程序依赖关系仪表板</title>
+      <link>https://feed.indiehackers.world/post/ca47627d8e</link>
+      <description><![CDATA[大家好！
+我正在为处理项目依赖项的工程师和技术领导者推出一款应用程序。其目的是查找所有 NuGet、NPM 和 Maven 应用程序依赖项，显示其版本并突出显示过期的依赖项。此应用程序有助于保持项目之间的依赖关系一致并保持最新。
+演示链接：https://demo-dependency.itbusina.com
+安装说明：
+docker run -p 5000:8080 -e GITHUB_API_BASE_URL=https://api.github.com -e GITHUB_ACCESS_TOKEN={访问令牌} -e PROJECTS=dotnet/aspnetcore --name dependency-dashboard -d kbahdanovich/dependency-dashboard:latest
+我希望您尝试一下并分享您的反馈。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ca47627d8e</guid>
+      <pubDate>Sat, 10 Feb 2024 17:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>超过 6 位订阅者来自 1 个 Facebook 群组的内容再利用</title>
+      <link>https://feed.indiehackers.world/post/a84a415ae2</link>
+      <description><![CDATA[内容再利用是王道。
+我刚刚获得了 6/23 个新订阅者，仅将我的博客内容重新调整为 1 个 Facebook 群组的简短文章即可算在内。
+为读者生成价值并通过评论 CTA 进行转化。
+这是一个示例
+为 10 多个小组做这件事
+（需要2-5分钟）
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a84a415ae2</guid>
+      <pubDate>Sat, 10 Feb 2024 17:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>19 种可用于制定策略的广告技巧</title>
+      <link>https://feed.indiehackers.world/post/d699a3dd4c</link>
+      <description><![CDATA[注意：这些广告策略在全世界都是众所周知的。在这里写下它们的目的是激励您使用上述一种或多种策略进行组合、集思广益并提出自己的想法。 
+您可以找到最适合您的方法，也可以复制我用来吸引前 10 位客户的策略之一。 
+希望对您有帮助：）
+如果您有任何其他可行的想法或您自己创造的想法，请告诉我。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d699a3dd4c</guid>
+      <pubDate>Sat, 10 Feb 2024 17:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的生活将永远不一样。</title>
+      <link>https://feed.indiehackers.world/post/87973d835c</link>
+      <description><![CDATA[我在这里，在夜间为我的第一次创业构建登陆页面
+我现在在这里，在 2024 年农历新年写下这句话。今天标志着新的一年，我知道我的生活将永远不一样。
+我希望这对您来说也是美好的一年:)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/87973d835c</guid>
+      <pubDate>Sat, 10 Feb 2024 16:40:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SonarQube 和 SonarCloud 项目的仪表板</title>
+      <link>https://feed.indiehackers.world/post/1f15250a11</link>
+      <description><![CDATA[大家好，
+我正在为使用 sonarqube 和 sonarcloud 的工程师和技术领导者推出一款应用程序。其目的是在一个地方查看所有代码分析指标，确保项目代码可靠且安全。它是通过 docker 映像提供的，因此您可以将其托管在您的笔记本电脑或场所上，并确保所有扫描的安全。
+演示链接：https://demo-sonar.itbusina.com/projects.html
+安装说明：
+docker run -p 5000:8080 -e SONARQUBE_HOST=https://sonarcloud.io -e SONARQUBE_PROJECTS=ecoAPM_StatiqPipelines --name sonarqube-wallboard -d kbahdanovich/sonarqube-wallboard：最新
+我希望您尝试一下并分享您的反馈。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1f15250a11</guid>
+      <pubDate>Sat, 10 Feb 2024 16:16:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 2 次成功退出和 4 次失败后启动我的第 6 个 SaaS</title>
+      <link>https://feed.indiehackers.world/post/d48bbde93f</link>
+      <description><![CDATA[在完全没有进行任何营销的情况下，我每月的页面浏览量仍然接近 4k。有些用户每天都会使用AI工具和提示库功能。但是，由于我无法弄清楚货币化问题，所以我决定不再将时间投入到该项目中。
+给你。这些是我在过去 3 年里开发的所有产品。我自己一直在投资，知道有时研究一只股票需要花多少时间。这就是我构建 Stock Market GPT 的原因。
+我很想听到社区的反馈。我将以此方式与我的新产品分享我的学习成果。
+谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d48bbde93f</guid>
+      <pubDate>Sat, 10 Feb 2024 16:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>有两种设计登陆页面样式的方法。类似 Linear 的风格和类似 Pieter Levels 的风格。</title>
+      <link>https://feed.indiehackers.world/post/7dc273d3f8</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7dc273d3f8</guid>
+      <pubDate>Sat, 10 Feb 2024 15:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们机构的 MRR 达到 55,000 美元</title>
+      <link>https://feed.indiehackers.world/post/17b3127461</link>
+      <description><![CDATA[但是非常可行、有趣且令人兴奋！
+尤其是当你与客户交谈时，当你解释流程时，当然还有当他们看到你的作品时，他们会很高兴。
+对我们所取得的进展感到非常满意，我很高兴今年的 ARR 达到 1MM 美元！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/17b3127461</guid>
+      <pubDate>Sat, 10 Feb 2024 15:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么联合创始人匹配失败</title>
+      <link>https://feed.indiehackers.world/post/df873190bc</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/df873190bc</guid>
+      <pubDate>Sat, 10 Feb 2024 15:16:19 GMT</pubDate>
+    </item>
     <item>
       <title>Videco：刚刚启动了我们的等候名单！ 2024 年第二季度推出</title>
       <link>https://feed.indiehackers.world/post/648c9d1300</link>
@@ -45,7 +140,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Sat, 10 Feb 2024 13:46:59 GMT</pubDate>
     </item>
     <item>
-      <title>一键创建 AI 字幕</title>
+      <title>一键创建AI字幕</title>
       <link>https://feed.indiehackers.world/post/582a14b191</link>
       <description><![CDATA[在短视频内容的快节奏世界中，创作者不断寻找脱颖而出并吸引观众注意力的方法。 Chillin.online 成为这个动态领域的游戏规则改变者，提供人工智能驱动的字幕工具。
 Discord 独立黑客聊天广告这里]]></description>
@@ -64,100 +159,6 @@ WordPress 是一个多功能平台，可以满足本地企业的需求。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/07fcebae51</guid>
       <pubDate>Sat, 10 Feb 2024 12:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snow Peak — SaaS 多页主题。使用 Astro、Tailwind CSS 和 MDX 构建</title>
-      <link>https://feed.indiehackers.world/post/36bab08c9c</link>
-      <description><![CDATA[
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/36bab08c9c</guid>
-      <pubDate>Sat, 10 Feb 2024 09:47:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您的 SaaS 发送交易 + 营销电子邮件</title>
-      <link>https://feed.indiehackers.world/post/356c4a3b21</link>
-      <description><![CDATA[嘿创始人
-我们正在构建 cocomail
-(https://cocomail.io)
-面向 SaaS 创始人的电子邮件自动化平台。
-在同一屋檐下发送交易和营销电子邮件🚀。
-如果您需要使用它，请加入我们的等待名单。
-距离推出私人测试版仅剩两周时间。
-谢谢🙏
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/356c4a3b21</guid>
-      <pubDate>Sat, 10 Feb 2024 09:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>新动态：在拥挤的市场中脱颖而出</title>
-      <link>https://feed.indiehackers.world/post/8bb22564f9</link>
-      <description><![CDATA[通常需要更多接触点才能实现转化，因此请重新定位您的网站访问者或与您的广告互动的用户。这一次，要树立你的信誉。向他们展示案例研究和感言，并向他们介绍您的免费产品。
-制作完美的广告
-什么才是优秀的广告？没有简单的答案，但这是我的看法：
-
-个性化：您的广告需要以客户为中心。考虑他们的痛点、需求或他们可能感兴趣的收益。
-
-提供：您需要激励他们。为他们提供一些他们无法抗拒的东西。那个“东西”是什么？你问？这取决于您的客户！
-
-CTA：设定期望，然后引导您的客户采取您希望他们采取的行动。
-
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8bb22564f9</guid>
-      <pubDate>Sat, 10 Feb 2024 07:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的 SaaS 刚刚达到 6,000 美元的 MRR，且付费营销几乎为零。我们是这样做的！</title>
-      <link>https://feed.indiehackers.world/post/baf039369a</link>
-      <description><![CDATA[我们还计划推出一个在线社区以及每月一次的虚拟和线下活动，其中包括播客和 Twitter (X) Spaces。如果您恰好在墨西哥城，请在下面发表评论，我将向您发送免费邀请参加我们的下一次线下活动；）感谢您阅读到最后！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/baf039369a</guid>
-      <pubDate>Sat, 10 Feb 2024 04:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供免费社交媒体营销服务！</title>
-      <link>https://feed.indiehackers.world/post/8a444c14fd</link>
-      <description><![CDATA[绩效跟踪：监控指标并提供见解，以优化您的社交媒体工作以获得最大影响。
-有兴趣吗？只需发送消息给我 hello@lumi ;narystudios.&amp; #x63;o 有关您的业务和社交媒体目标的一些详细信息，让我们共同努力提升您的在线形象！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8a444c14fd</guid>
-      <pubDate>Sat, 10 Feb 2024 03:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>自力更生与筹款：为您的初创企业选择正确的道路</title>
-      <link>https://feed.indiehackers.world/post/8c21badc6f</link>
-      <description><![CDATA[筹款就像拥有一张进入快车道的门票，帮助您的初创公司迈出阶梯的前几级。然而，投资者并不是因为喜欢而捐钱，而是因为他们愿意捐钱。他们想要对你如何花钱有发言权，更糟糕的是，他们想要分一杯羹。
-在这过山车的最后，选择权最终在你手中。分析、研究、梦想远大，然后开始您的创业之旅。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8c21badc6f</guid>
-      <pubDate>Sat, 10 Feb 2024 03:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>从数据中获取见解的新方法</title>
-      <link>https://feed.indiehackers.world/post/1c1e183bfc</link>
-      <description><![CDATA[😠 太多的会议专注于报告而不是见解。
-⭐ 获取指南，让您的团队能够提供定性见解
-有太多的会议展示了数据，却没有时间花在寻找见解和解决问题上。行动项目。今天就改变它。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1c1e183bfc</guid>
-      <pubDate>Sat, 10 Feb 2024 02:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>🇯🇵日本下个月推出数字游牧签证📗，这意味着什么......！</title>
-      <link>https://feed.indiehackers.world/post/da9ad66e85</link>
-      <description><![CDATA[但申请有要求，请关注以获取更多相关信息！
-我从 20 多个旅游网站 搜索最佳旅游新闻在免费每周通讯中策划最好的内容，订阅以保持更新。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/da9ad66e85</guid>
-      <pubDate>Sat, 10 Feb 2024 02:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>'你好吗？'</title>
-      <link>https://feed.indiehackers.world/post/d9ece66f31</link>
-      <description><![CDATA[如果我的概念日历必须回答“你好吗？”对我来说，这就像……尖叫🙃
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d9ece66f31</guid>
-      <pubDate>Sat, 10 Feb 2024 02:05:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
