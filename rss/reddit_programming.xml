@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 11 Feb 2024 09:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 12:19:33 GMT</lastBuildDate>
+    <item>
+      <title>什么是 Kubernetes？给开发者的非正统指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao6hnq/what_is_kubernetes_an_unorthodox_guide_for/</link>
+      <description><![CDATA[ 由   提交/u/aeisele  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao6hnq/what_is_kubernetes_an_unorthodox_guide_for/</guid>
+      <pubDate>Sun, 11 Feb 2024 12:04:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>eBPF 跟踪：性能优化初学者指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao68ve/ebpf_tracing_a_beginners_guide_to_performance/</link>
+      <description><![CDATA[ 由   提交/u/zdouglassimon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao68ve/ebpf_tracing_a_beginners_guide_to_performance/</guid>
+      <pubDate>Sun, 11 Feb 2024 11:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘 API 网关：它们是什么以及它们为何重要</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao5s77/demystifying_api_gateways_what_they_are_why_they/</link>
+      <description><![CDATA[ 由   提交/u/animesh371  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao5s77/demystifying_api_gateways_what_they_are_why_they/</guid>
+      <pubDate>Sun, 11 Feb 2024 11:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免编程和软件开发中的疯狂</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao5hro/avoiding_insanity_in_programming_and_software/</link>
+      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao5hro/avoiding_insanity_in_programming_and_software/</guid>
+      <pubDate>Sun, 11 Feb 2024 11:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>UTC 是不够的，24 小时是很长的时间 / Epoch 时间戳与 RFC 3339 字符串</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao5hoo/utc_is_not_enough_24_hours_is_a_long_time_epoch/</link>
+      <description><![CDATA[ 由   提交/u/mnvrth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao5hoo/utc_is_not_enough_24_hours_is_a_long_time_epoch/</guid>
+      <pubDate>Sun, 11 Feb 2024 11:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 如何对 Supabase Edge Function 进行速率限制🤯</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao5fg4/how_to_rate_limit_supabase_edge_function/</link>
+      <description><![CDATA[ 由   提交/u/rockenrollas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao5fg4/how_to_rate_limit_supabase_edge_function/</guid>
+      <pubDate>Sun, 11 Feb 2024 10:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>GrandCypher：使用 openCypher 搜索 NetworkX 图</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao52l2/grandcypher_search_networkx_graphs_with_opencypher/</link>
+      <description><![CDATA[ 由   提交/u/davidmezzetti  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao52l2/grandcypher_search_networkx_graphs_with_opencypher/</guid>
+      <pubDate>Sun, 11 Feb 2024 10:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>Pinterest 为 Kafka、Flink 和 MemQ 开源了可用于生产的 PubSub Java 客户端</title>
       <link>https://www.reddit.com/r/programming/comments/1ao3wij/pinterest_opensources_a_productionready_pubsub/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/yawaramin  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ao255z/why_functional_programming_should_be_the_future/</guid>
       <pubDate>Sun, 11 Feb 2024 07:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Javascript 学习正则表达式</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao1ya3/learning_regex_with_javascript/</link>
-      <description><![CDATA[ 由   提交/u/guleriashubham63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao1ya3/learning_regex_with_javascript/</guid>
-      <pubDate>Sun, 11 Feb 2024 06:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Vision Pro 开发者资源 - Vision Pro 博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao06wf/apple_vision_pro_developer_resources_the_vision/</link>
-      <description><![CDATA[ 由   提交/u/stephensburg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao06wf/apple_vision_pro_developer_resources_the_vision/</guid>
-      <pubDate>Sun, 11 Feb 2024 05:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试更改一些代码。</title>
-      <link>https://www.reddit.com/r/programming/comments/1anzyof/i_tried_to_change_some_code/</link>
-      <description><![CDATA[ 由   提交 /u/Equivalent-Quiet8427   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anzyof/i_tried_to_change_some_code/</guid>
-      <pubDate>Sun, 11 Feb 2024 04:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人尝试过影响图吗？一种可视化业务目标并集中关注推动目标所需影响的工具。</title>
-      <link>https://www.reddit.com/r/programming/comments/1anyqef/has_anyone_tried_out_impact_mapping_a_tool_for/</link>
-      <description><![CDATA[ 由   提交/u/DjangoZero  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anyqef/has_anyone_tried_out_impact_mapping_a_tool_for/</guid>
-      <pubDate>Sun, 11 Feb 2024 03:47:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们做对了什么，做错了什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1anwvs4/what_we_got_right_what_we_got_wrong/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anwvs4/what_we_got_right_what_we_got_wrong/</guid>
-      <pubDate>Sun, 11 Feb 2024 02:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程语言和歧义？</title>
-      <link>https://www.reddit.com/r/programming/comments/1anwbnk/programming_languages_and_ambiguity/</link>
-      <description><![CDATA[我正在阅读此处链接的一篇文章，发现这句话有点令人费解“广泛使用的编程语言中没有歧义......”这是什么意思真正的意思是什么？   由   提交/u/thinkingwalking  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anwbnk/programming_languages_and_ambiguity/</guid>
-      <pubDate>Sun, 11 Feb 2024 01:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>这感觉像是一个骗局</title>
-      <link>https://www.reddit.com/r/programming/comments/1anupkg/this_feels_like_a_scam/</link>
-      <description><![CDATA[我在一月份从非技术行业的工作中被解雇。我五月份完成了副学士学位，并决定继续尝试找到一份初级开发人员的工作。我一直在申请几乎任何没有学士学位要求并且使用我熟悉的语言的工作。我通过我填写的一款应用程序在 LinkedIn 中收到了此回复。  “”“”你好！  感谢您申请我们的 FastTrack 在线计划，该计划最终被我们的一位客户安置。我们的客户正在积极从 FastTrack 毕业生中招聘开发人员。  我们的下一个在线 FastTrack 计划将于 2024 年 3 月 4 日开始，并且免费。这将是一个为期 8 周的全栈开发在线课程，重点关注 Java、Spring、JavaScript、Angular 等，帮助您为纳什维尔、孟菲斯、菲尼克斯或远程客户的入门级开发人员角色做好准备。  请访问 allaboutfasttrack.com 的“常见问题解答”选项卡查看更多信息。  第一步是进行编码评估。请参阅下面的链接： https://www.hackerrank.com/test/e5omm2pe18o/098dd143295801c7df923fc17c368281&lt; /a&gt; 非常感谢您的努力！ Carrie 请注意，快速通道计划仅向美国公民和 GC 持有者候选人开放TIME。 Carrie DeBardelaben 库克系统公司技术招聘人员cdebardelaben@cooksys.com“”” 感觉像是一个骗局，或者是一种从某人那里获得免费工作的方式。该公司是 Cook Systems Inc.。我想知道是否有人对此有所了解并且值得尝试吗？   由   提交/u/Zapherial  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anupkg/this_feels_like_a_scam/</guid>
-      <pubDate>Sun, 11 Feb 2024 00:21:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

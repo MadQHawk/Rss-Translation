@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 11 Feb 2024 09:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 12:20:22 GMT</lastBuildDate>
     <item>
-      <title>伏特塞夫</title>
-      <link>https://www.opensourceagenda.com/projects/voltaserve</link>
-      <description><![CDATA[⚡️ 下一代云存储]]></description>
-      <guid>https://www.opensourceagenda.com/projects/voltaserve</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:23 GMT</pubDate>
+      <title>YouTube Viewbot Twitch 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/youtube-viewbot-twitch-bot</link>
+      <description><![CDATA[https://telegram.me/DevianKing]]></description>
+      <guid>https://www.opensourceagenda.com/projects/youtube-viewbot-twitch-bot</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>组件运行时</title>
-      <link>https://www.opensourceagenda.com/projects/component-runtime</link>
-      <description><![CDATA[Talend Component Kit（实施存储库）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/component-runtime</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:22 GMT</pubDate>
+      <title>维塞尔克隆</title>
+      <link>https://www.opensourceagenda.com/projects/vercel-clone</link>
+      <description><![CDATA[从头开始克隆 Vercel 🚀]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vercel-clone</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>果冻酱保护区</title>
-      <link>https://www.opensourceagenda.com/projects/jellyjampreserve</link>
-      <description><![CDATA[JellyJamPreserve 是一个使用 Jack Timemachine 的 Raspberry Pi 项目 (http://plugin.org.uk/timemachine/ ）在录音室中录制音频。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jellyjampreserve</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:22 GMT</pubDate>
+      <title>Skiff 应用程序主要</title>
+      <link>https://www.opensourceagenda.com/projects/skiff-apps-main</link>
+      <description><![CDATA[skiffs 应用程序的最后一个存储库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/skiff-apps-main</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 认证 DP 100 Azure 数据科学家</title>
-      <link>https://www.opensourceagenda.com/projects/microsoft-certification-dp-100-azure-data-scientist</link>
-      <description><![CDATA[DP-100 考试的学习材料]]></description>
-      <guid>https://www.opensourceagenda.com/projects/microsoft-certification-dp-100-azure-data-scientist</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:22 GMT</pubDate>
+      <title>Postgresql 思维导图</title>
+      <link>https://www.opensourceagenda.com/projects/postgresql-mindmap</link>
+      <description><![CDATA[收集我做的一些PostgreSQL脑图。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/postgresql-mindmap</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>MCW 现代云应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/mcw-modern-cloud-apps</link>
-      <description><![CDATA[MCW 现代云应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mcw-modern-cloud-apps</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:22 GMT</pubDate>
+      <title>LLM 提示工程简化书</title>
+      <link>https://www.opensourceagenda.com/projects/llm-prompt-engineering-simplified-book</link>
+      <description><![CDATA[LLM 提示工程简化书籍]]></description>
+      <guid>https://www.opensourceagenda.com/projects/llm-prompt-engineering-simplified-book</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>伊安斯托泰勒·虚空</title>
-      <link>https://www.opensourceagenda.com/projects/ianstormtaylor-void</link>
-      <description><![CDATA[用于制作生成艺术的工具包。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ianstormtaylor-void</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:21 GMT</pubDate>
+      <title>N链</title>
+      <link>https://www.opensourceagenda.com/projects/nchain</link>
+      <description><![CDATA[Linux 的轻量级主题切换器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nchain</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>Djlint Vscode</title>
-      <link>https://www.opensourceagenda.com/projects/djlint-vscode</link>
-      <description><![CDATA[VS Code 扩展，用于格式化和检查 HTML 模板（Django、Jinja、Nunjucks、Twig、Handlebars、小胡子）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/djlint-vscode</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:21 GMT</pubDate>
+      <title>杰斯鲁塞普</title>
+      <link>https://www.opensourceagenda.com/projects/jsluicepp</link>
+      <description><![CDATA[jsluice++ 是一个 Burp Suite 扩展，设计用于使用 CLI 工具 jsluice 被动和主动扫描 JavaScript 流量]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jsluicepp</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>Cledev.OpenAI.Studio</title>
-      <link>https://www.opensourceagenda.com/projects/cledevopenaistudio</link>
-      <description><![CDATA[使用 Cledev.OpenAI .NET 库的 OpenAI Blazor 服务器游乐场]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cledevopenaistudio</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:21 GMT</pubDate>
+      <title>Dymensionxyz 链注册</title>
+      <link>https://www.opensourceagenda.com/projects/dymensionxyz-chain-registry</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dymensionxyz-chain-registry</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>Studio插件</title>
-      <link>https://www.opensourceagenda.com/projects/studioplugins</link>
-      <description><![CDATA[Android Studio 精品插件合集，不在于多只在于精]]></description>
-      <guid>https://www.opensourceagenda.com/projects/studioplugins</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:20 GMT</pubDate>
+      <title>帕特里克斯文松小精灵</title>
+      <link>https://www.opensourceagenda.com/projects/patriksvensson-wisp</link>
+      <description><![CDATA[用于与 PDF 文件交互的低级库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/patriksvensson-wisp</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>BSD XFCE</title>
-      <link>https://www.opensourceagenda.com/projects/bsd-xfce</link>
-      <description><![CDATA[在几分钟内轻松将您的 FreeBSD 系统转变为完整可靠的工作站和创意工作室！感受里面的守护进程！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bsd-xfce</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:20 GMT</pubDate>
+      <title>工作区诊断.nvim</title>
+      <link>https://www.opensourceagenda.com/projects/workspace-diagnosticsnvim</link>
+      <description><![CDATA[填充所有项目文件的诊断，而不仅仅是打开的文件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/workspace-diagnosticsnvim</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>格里达科遗产</title>
-      <link>https://www.opensourceagenda.com/projects/gridaco-legacy</link>
-      <description><![CDATA[已存档]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gridaco-legacy</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:20 GMT</pubDate>
+      <title>兼容标志</title>
+      <link>https://www.opensourceagenda.com/projects/compat-flags</link>
+      <description><![CDATA[🌴 渐进功能标志。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/compat-flags</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:18 GMT</pubDate>
     </item>
     <item>
-      <title>阿兹卡德夫工作室</title>
-      <link>https://www.opensourceagenda.com/projects/azkadev-studio</link>
-      <description><![CDATA[在服务器端和客户端编辑视频/音频/照片的库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/azkadev-studio</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:20 GMT</pubDate>
+      <title>六角形</title>
+      <link>https://www.opensourceagenda.com/projects/hexasm</link>
+      <description><![CDATA[用于连接 hexl 和 nasm 源代码缓冲区的 Emacs 次要模式]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hexasm</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:18 GMT</pubDate>
     </item>
     <item>
-      <title>控制面电机推子</title>
-      <link>https://www.opensourceagenda.com/projects/control-surface-motor-fader</link>
-      <description><![CDATA[Arduino 电动推子控制器，以及与控制表面库集成的示例代码。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/control-surface-motor-fader</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:19 GMT</pubDate>
+      <title>电子阅读卡创建器</title>
+      <link>https://www.opensourceagenda.com/projects/e-readercardcreator</link>
+      <description><![CDATA[设计用于读取、压缩和解压缩任天堂电子阅读器点码数据的前端应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/e-readercardcreator</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:18 GMT</pubDate>
     </item>
     <item>
-      <title>电动推子</title>
-      <link>https://www.opensourceagenda.com/projects/motorized-fader</link>
-      <description><![CDATA[带电动推子的 USB MIDI 控制器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/motorized-fader</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:19 GMT</pubDate>
+      <title>QML课程</title>
+      <link>https://www.opensourceagenda.com/projects/qml-course</link>
+      <description><![CDATA[我为 École de Technologie Supérieure（蒙特利尔，魁北克省，加利福尼亚州）开发了一门量子机器学习课程。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/qml-course</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:17 GMT</pubDate>
     </item>
     <item>
-      <title>亚西字体</title>
-      <link>https://www.opensourceagenda.com/projects/acy-font</link>
-      <description><![CDATA[自制手写字体。A hand-writing font set.]]></description>
-      <guid>https://www.opensourceagenda.com/projects/acy-font</guid>
-      <pubDate>Sun, 11 Feb 2024 09:12:19 GMT</pubDate>
+      <title>S4杀手</title>
+      <link>https://www.opensourceagenda.com/projects/s4killer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/s4killer</guid>
+      <pubDate>Sun, 11 Feb 2024 12:20:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
