@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 11 Feb 2024 15:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 21:12:17 GMT</lastBuildDate>
     <item>
-      <title>你曾经合作过的技能最低的网络开发人员是什么样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aoa22s/what_was_the_lowest_skill_web_dev_youve_ever/</link>
-      <description><![CDATA[对人们所看到的感到好奇。   由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aoa22s/what_was_the_lowest_skill_web_dev_youve_ever/</guid>
-      <pubDate>Sun, 11 Feb 2024 15:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>它不是微服务或单体应用；这是你首先需要理解的认知负荷</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao9zoj/its_not_microservice_or_monolith_its_cognitive/</link>
+      <title>Web 性能入门</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoif3z/getting_started_with_web_performance/</link>
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao9zoj/its_not_microservice_or_monolith_its_cognitive/</guid>
-      <pubDate>Sun, 11 Feb 2024 15:06:21 GMT</pubDate>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoif3z/getting_started_with_web_performance/</guid>
+      <pubDate>Sun, 11 Feb 2024 21:01:34 GMT</pubDate>
     </item>
     <item>
-      <title>非 Webdev 使用 CMS 的最短路径</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao9vht/shortest_path_to_using_a_cms_for_a_non_webdev/</link>
-      <description><![CDATA[我是一名云工程师，希望收集我学到的所有技巧并使用我的领域构建教程/知识库，但不学习如何成为一名全栈开发人员。 我愿意学习足够的知识来使网站上线。我在工作中使用 TypeScript 与 Pulumi 一起工作，因此我已经可以掌握这些概念。 换句话说，关于在线获取具有基于 JS 前端的无头 CMS 的任何好的建议。也许像 Ghost 和 Vue.js 一样？ 可行吗，有人选择这条路吗？   由   提交 /u/wired_ronin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao9vht/shortest_path_to_using_a_cms_for_a_non_webdev/</guid>
-      <pubDate>Sun, 11 Feb 2024 15:01:22 GMT</pubDate>
+      <title>Google 日历 API 范围需要 YouTube 视频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aohr53/google_calendar_api_scope_needs_a_youtube_video/</link>
+      <description><![CDATA[我正在尝试将 Google Calendar API 实现到我的应用程序中，但我感觉自己陷入了第 22 条军规的困境。 我在这里做错了什么？  ​   由   提交/u/amusedonion  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aohr53/google_calendar_api_scope_needs_a_youtube_video/</guid>
+      <pubDate>Sun, 11 Feb 2024 20:33:20 GMT</pubDate>
     </item>
     <item>
-      <title>Google reCaptcha 网站密钥滥用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao9s10/google_recaptcha_site_key_abuse/</link>
-      <description><![CDATA[我今天查看了 Google reCaptcha 文档，似乎涉及两种类型的交互：一种是客户端使用“站点密钥”，另一种是客户端使用“站点密钥”。一个服务器端使用“秘密密钥”。另外，从这里 https://cloud.google.com/recaptcha-enterprise/pricing 据我了解，两者这些交互都应用了速率限制。我的问题是，由于站点密钥完全暴露，我们如何防止外部参与者检查我们的客户端应用程序、提取站点密钥并滥用它（例如耗尽免费速率限制层）？    由   提交/u/revyth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao9s10/google_recaptcha_site_key_abuse/</guid>
-      <pubDate>Sun, 11 Feb 2024 14:57:16 GMT</pubDate>
+      <title>HTML 和 CSS 代码审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aohelt/html_css_code_review/</link>
+      <description><![CDATA[这是我的第一个功能齐全的响应式登陆页面（我希望）它不多，但我很高兴我想出了一个第一次尝试。 如果有人看一下代码并告诉我错误在哪里，那就太好了，因为我肯定有一些错误，我愿意接受任何批评。 &lt; p&gt;https://jsfiddle.net/abdAG/7atc3f94/4/ 感谢前进！&lt;​​/p&gt; ​   由   提交 /u/cooketrunlizer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aohelt/html_css_code_review/</guid>
+      <pubDate>Sun, 11 Feb 2024 20:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>副驾驶有话要说 - 意大利面条式的代码已经受够了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao9nqw/copilot_has_something_to_say_its_had_enough_of/</link>
-      <description><![CDATA[       由   提交/u/findurself020   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao9nqw/copilot_has_something_to_say_its_had_enough_of/</guid>
-      <pubDate>Sun, 11 Feb 2024 14:51:41 GMT</pubDate>
+      <title>大家好，烤我的网站。 getholdof.co.uk。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoh7yi/hi_everyone_roast_my_website_getholdofcouk/</link>
+      <description><![CDATA[有一天，我设法将手机和钥匙锁在车里。锁匠过来让我进去，花了我 65 英镑。如果我知道我妻子的电话号码，我可以从借给我手机的人而不是锁匠那里给她打电话，她可以买我的备用钥匙 我想如果有一个应用程序或网站可以让我可以添加 3 个联系人，我只需点击即可呼叫。我本来可以省下钱的。   由   提交/u/Idliketoknow73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoh7yi/hi_everyone_roast_my_website_getholdofcouk/</guid>
+      <pubDate>Sun, 11 Feb 2024 20:10:54 GMT</pubDate>
     </item>
     <item>
-      <title>笔记本电脑建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao8ztw/laptop_advice/</link>
-      <description><![CDATA[大家好！ 寻求一些笔记本电脑建议。 我目前拥有一台 2017 年 13 英寸 Macbook Pro 8GB，由于我的疏忽（饮料洒在上面🙄），我需要购买一个新的，因为现在我的屏幕上全是线条。它也变得有点慢。 我是一名营销助理，作为我工作的一部分，需要能够在 SquareSpace 上无缝运行和编辑并处理大量图形设计图像。我们有一位平面设计师，他会在主题演讲上创作一些东西，但有时我们需要为了不同的目的而改变东西或模仿设计。 我的预算是 1000 英镑。  我需要 Mac 吗？寻求公正的建议！   由   提交 /u/ProcedureClear2787   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao8ztw/laptop_advice/</guid>
-      <pubDate>Sun, 11 Feb 2024 14:20:31 GMT</pubDate>
+      <title>网站创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoh35n/website_idea/</link>
+      <description><![CDATA[在观看一些 YouTube 视频后，我有了一个网站的想法以及如何构建该网站的总体想法。我已经通过 Namehero 购买了基本套餐，因为我只需要 1 个网站。但由于它是一个社交媒体网站，我认为它需要更多资源（提前思考）。开放寻求解决方案。 我正在考虑使用 Peepso 或 buddyboss 作为基础（尚未购买）。除了 WordPress 之外，还有其他类似的服务和更好的网站构建器吗？请告诉我。 我曾考虑过将整个过程外包给个人或公司，但我担心这个想法可以很容易地由他们自己开发。但将来当有相当多的人时，我确信我需要聘请专业人员，因为我对这个主题完全无能为力。 我非常感谢任何关于如何使用高效组件开发它的建议具有良好的基础。如何最初引入用户、用户测试、安全功能、潜在障碍、功能自动化。 背景 - 我是来自医疗行业的个人。手头有几块钱。能够在空闲时间建立一个网站。  非常感谢任何建议和建议   由   提交 /u/Steve_Bobbs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoh35n/website_idea/</guid>
+      <pubDate>Sun, 11 Feb 2024 20:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个网络应用程序，可以为您的消息创建手写风格的卡片，发送给您所爱的人（评论中的链接）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao7y9c/i_made_a_web_app_that_creates_handwrittenstyle/</link>
-      <description><![CDATA[       由   提交/u/_nightwielder_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao7y9c/i_made_a_web_app_that_creates_handwrittenstyle/</guid>
-      <pubDate>Sun, 11 Feb 2024 13:27:56 GMT</pubDate>
+      <title>Codecademy Pro 与开放应用学院</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aogw1o/codecademy_pro_vs_open_app_academy/</link>
+      <description><![CDATA[大家好，您认为这两个平台之间的最佳选择是什么？为什么？ Codecademy Pro 与开放应用学院   由   提交 /u/shadowofthetoast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aogw1o/codecademy_pro_vs_open_app_academy/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>Netlify 与 Vercel 免费套餐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao6u7g/netlify_vs_vercel_free_tiers/</link>
-      <description><![CDATA[对于使用过两者的人，您建议免费开始使用哪一个？两者有何优缺点？ 供参考：我想部署一个带有 Vue 前端和 websockets 的全栈 Laravel 应用程序。   由   提交 /u/KiwiNFLFan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao6u7g/netlify_vs_vercel_free_tiers/</guid>
-      <pubDate>Sun, 11 Feb 2024 12:26:01 GMT</pubDate>
+      <title>谷歌是如何实现这种阴影效果的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aog74d/how_is_google_doing_this_shadow_effect/</link>
+      <description><![CDATA[      如果您访问 https://www.google.com/travel/search，您会看到右侧有一个地图部分，左侧有一个酒店和事物列表（搜索过滤器位于顶部）。  地图部分的顶部有一个边框阴影： https://preview.redd.it/0za1svt9c0ic1.png?width=1376&amp;format=png&amp;auto=webp&amp;s=0a40f707bc61c1918b9dba7fe0ea e20c4b095114 我无法弄清楚这是如何实现的。有问题的 div 是类名“JvLuC”的 div（我认为）。我可以看到层次结构中较低的 div 正在执行插入框阴影以提供左侧的阴影，但我不知道顶部阴影是如何实现的。我看不到任何阴影或样式中的任何内容。 我很想知道，所以如果有人更擅长 CSS 想要看看，我将非常感激！ 🙏 ​   由   提交/u/ClaudioKilgannon37   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aog74d/how_is_google_doing_this_shadow_effect/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>付费客户的直播解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao6piq/live_streaming_solution_for_paying_customers/</link>
-      <description><![CDATA[嗨， 我正在为客户开发一个网站，我必须接手，因为现有的开发是一个整体灾难，目标是尽可能多地使用现有服务来降低风险和缩短上市时间。 其中一项功能是向客户提供实时流媒体活动。因为他们为这些活动付费，所以我们不能只使用 Youtube。 您能推荐一项服务吗？理想情况下是集成聊天，但我认为我们迟早也会集成 getstream。 （Getstream 还提供视频，但目前处于测试阶段）。   由   提交/u/sebastianstehle  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao6piq/live_streaming_solution_for_paying_customers/</guid>
-      <pubDate>Sun, 11 Feb 2024 12:18:21 GMT</pubDate>
+      <title>RSS 还是很不错的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aog0ef/rss_is_still_pretty_great/</link>
+      <description><![CDATA[ 由   提交/u/_PC__LOAD__LETTER_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aog0ef/rss_is_still_pretty_great/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:20:56 GMT</pubDate>
     </item>
     <item>
-      <title>无密码邮箱验证码Auth是个好举措吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao6ahi/is_passwordless_email_verification_code_auth_a/</link>
-      <description><![CDATA[我正在为大学构建一个个人项目，一个使用 Express.js 和 React 的类似 YouTube 的应用程序。我想在我的服务器上实现本地和 OAuth 身份验证模式。 注意：我不允许使用 Auth0 或 Clerk 等第三方服务。我需要出于教育目的，尽可能保持低级别。 起初，我想为两个身份验证模式创建一个用户模型，有点像这样。 模型用户{ id String @id @default(uuid()) email String @unique password String }  它在本地身份验证中工作得很好，但是当用户使用第 3 方帐户注册时，我尝试创建新的 User 对象时遇到麻烦。由于第三方 OAuth 提供商出于明显的原因不共享密码，因此我无法在密码字段中放入任何内容。 我已经考虑过处理此问题的方法，但老实说，它们似乎都不正确。将密码字段留空或随机生成它是不好的。我曾考虑过创建单独的模型，例如 OAuth 用户的帐户，但它会导致外键的额外复杂性。如果只有一个唯一的 User 模型将其用作相关表中的外键，那就容易多了。 然后我研究了一些其他 Web 应用程序的身份验证模式，并偶然发现了 Vercel。在那里他们不需要密码，只需发送电子邮件验证码。我认为这是使我的数据库模型变得非常简单的好方法。 model User { id String @id @default(uuid()) email String @unique 提供者？ AuthProvider 通道？ Channel // 其他字段 } model Channel { user User @relation(fields: [user_id],references: [id]) user_id String @unique handle String @unique // 其他字段 }   那么，在我的情况下可以使用无密码电子邮件代码验证吗？   由   提交/u/Alex_054  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao6ahi/is_passwordless_email_verification_code_auth_a/</guid>
-      <pubDate>Sun, 11 Feb 2024 11:52:32 GMT</pubDate>
+      <title>很难建立并运行我的第一个网站。遇到可能与依赖项相关的 apache 或路径问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aofnse/difficulty_getting_my_first_website_up_and/</link>
+      <description><![CDATA[我是 Web 开发新手，这是我的第一个网站。这是我的问题，我现在可以使用 Vultr 控制台通过 ubuntu 在 localhost 上完美运行所有内容，但我在使用 pm2 让网站在我的域中持续运行时遇到问题。前端出现，但每当我执行与后端相关的任何操作时，都会收到无法连接到本地主机的错误。我不确定这是否是由于我在 Ubuntu 中配置的方式或其与我的 apache 服务器有关。我觉得有一个简单的解决方案就在我的脑海中。  这就是我到目前为止所做的事情。我在前端使用 React 构建网站，在后端使用 Flask 构建网站，并使用 vscode 的终端在本地主机上运行。一旦我对自己所拥有的感到满意，我就想看看是否可以启动并运行它，以便任何人都可以访问该网站。我从 Cloudflare 购买了一个域名，进行设置并将其连接到 Vultr 的托管平台。在将我的 github 存储库克隆到 ubuntu 后，使用 Vultr 的控制台，我可以使用 ubuntu 在本地主机上运行它。我的 apache 服务器正在运行，但我不确定它是否正确链接到我的本地主机路由并且是我的问题的原因，或者它与我的文件如何使用 pm2 设置更相关。  这是我为尝试解决此问题所做的工作，主要是使用 ChatGPT 的帮助。我的主要困难是我的后端。我使用 ubuntu 将依赖项安装到虚拟环境中。我为后端创建了一个 Ecosystem.config.js 文件。我正在尝试使用 pm2 来保持服务器运行，但遇到了诸如 ModuleNotFoundError: No module namedflask_sqlalchemy 之类的错误。现在我知道这可能不是用于生产的正确数据库。但我预计不会有很多人访问该网站，它的唯一用途是将访问令牌从后端的一个函数传递到另一个函数，而无需通过前端。由于某种原因，这种依赖给我带来了问题。它位于requirements.txt文件中，我可以看到它安装在虚拟环境中。所以我不确定为什么这个依赖会破坏事情，也不知道如何解决这个问题。  我感觉完全超出了我的能力范围，并且花了一整天的时间试图弄清楚这一点。我知道在没有看到我编写的代码或所有内容如何配置的情况下可能很难提供建议，但希望你们中的一个人能给我指出正确的方向。我将不胜感激任何帮助。   由   提交/u/ttoclaw87  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aofnse/difficulty_getting_my_first_website_up_and/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:06:03 GMT</pubDate>
     </item>
     <item>
-      <title>用于查看和搜索日志文件的终端应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao5ono/a_terminal_app_to_view_and_search_log_files/</link>
-      <description><![CDATA[嗨r/webdev 我创建了这个终端工具来查看日志文件。我认为您可能会发现它有用 https://github.com/Textualize/toolong   由   提交 /u/willm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao5ono/a_terminal_app_to_view_and_search_log_files/</guid>
-      <pubDate>Sun, 11 Feb 2024 11:12:31 GMT</pubDate>
+      <title>有关 Web 1.0 开发的资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aofawt/resources_on_web_10_development/</link>
+      <description><![CDATA[我是 Web 开发新手。到目前为止，我真的很喜欢自己编程一切。我发现了新城市，我喜欢人们在那里拥有的资源。有没有一些当时Web开发的老书？我想进一步磨练这种美学。   由   提交/u/Shadowforce426   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aofawt/resources_on_web_10_development/</guid>
+      <pubDate>Sun, 11 Feb 2024 18:50:51 GMT</pubDate>
     </item>
     <item>
-      <title>(2023) 代码不是技术债务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao4pop/2023_code_is_not_technical_debt/</link>
+      <title>我的第一个（本机）网站似乎存在缓存问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoei85/my_first_native_website_seems_to_have_issues_with/</link>
+      <description><![CDATA[所以我最近从头开始制作了我的第一个网站（也就是说，没有使用 Wordpress 等）。 我注意到，当我对网站进行了更改，但缓存存在一些问题。我看到网上有人说要始终以隐身模式进行测试或按 CTRL+F5。然而，这个问题似乎在我没有开发的其他设备上仍然存在，例如我的手机。 目前我在 Spaceship 上托管，因为它很便宜。假设它成功了，明年我会把它移到更好的地方。 这是网站 如果你在帮助我时让你 ROFL（眨眼），请提前道歉。   由   提交 /u/ThePointsBandit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoei85/my_first_native_website_seems_to_have_issues_with/</guid>
+      <pubDate>Sun, 11 Feb 2024 18:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似 iOS 的 React UI 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoe87r/ioslike_react_ui_frameworks/</link>
+      <description><![CDATA[我正在寻找一个 React UI 框架/组件库，它具有类似于 iOS 应用程序或 icloud.com 的干净、轻便的外观。有什么建议吗？   由   提交/u/learningTest  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoe87r/ioslike_react_ui_frameworks/</guid>
+      <pubDate>Sun, 11 Feb 2024 18:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何向集合中现有的 50 多个文档添加新字段？更新很多？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoe85h/how_would_i_add_a_new_field_to_pre_existing_50/</link>
+      <description><![CDATA[我在 MongoDB（带有猫鼬）中有这个学生集合，其中包含姓名、班级、father_name、 mother_name、parent_phone_number_1、parent_phone_number_2、地址字段的各个文档。我已经在集合中添加了 25 个文档，现在我意识到，我忘记添加性别字段。 我可以使用 updateMany 查询，但话又说回来，我只需要执行一次。这是否意味着我创建一个新的 js 文件，编写代码，运行该文件，然后完成，或者我创建一个补丁请求并在那里执行它，因为将来我可能需要添加另一个包含其 url 的字段图像 ？另外，我想问，假设我正在向每个文档添加 imageURL 字段，并且我有 100 多个文档。我是否使用 imageURL 字段向单个文档 ID 发送补丁请求？或者是否有另一种方法可以做到这一点，因为它看起来非常乏味，特别是如果集合中的文档增加更多。我正在使用 Express 和 MongoDB（带有 mongoose）。   由   提交 /u/green_viper_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoe85h/how_would_i_add_a_new_field_to_pre_existing_50/</guid>
+      <pubDate>Sun, 11 Feb 2024 18:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您向 Google 报告某个网站时会发生什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aod1x7/what_happens_when_you_report_a_website_to_google/</link>
+      <description><![CDATA[它不允许我编辑问题，但我想我向 Instagram 报告了该网站。 我正在提出报价到一家公司从事自由职业，正在查看他们的网站。当我仍然打开该网站时，我把手机放在后口袋里，而不是对接拨号，而是对接报告了他们！他们的网站会发生什么事情吗？他们会知道是我吗？   由   提交/u/Rockout80s  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aod1x7/what_happens_when_you_report_a_website_to_google/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:16:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库基础知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aocsws/database_fundamentals/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao4pop/2023_code_is_not_technical_debt/</guid>
-      <pubDate>Sun, 11 Feb 2024 10:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>一项服务即可托管所有这些内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao4h4k/one_service_to_host_them_all/</link>
-      <description><![CDATA[我正在寻找一个集中的地方，我可以将所有 docker 映像、所有网站、API、数据库部署到那里，并将所有域移至那里。&lt; /p&gt; 到目前为止，我的工作一团糟：  Cloudflare 域 Linode/Heroku/其他 PHP 网站托管服务提供商 用于数据库的 MongoDB Atlas/CockroachDB  我希望将所有内容移至一个位置，以便对所有内容有清晰的概览。  这是一个好方法吗？您使用什么服务提供商？   由   提交 /u/WorldCitiz3n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao4h4k/one_service_to_host_them_all/</guid>
-      <pubDate>Sun, 11 Feb 2024 09:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态html和js粘贴bin</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anywkv/static_html_and_js_paste_bin/</link>
-      <description><![CDATA[是否可以查看我自己制作的简单 html 和 js 粘贴箱的源代码，最好是像 rentry.co？ 对于存储，我使用 Firebase 的 firestore！   由   提交/u/cozitalks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anywkv/static_html_and_js_paste_bin/</guid>
-      <pubDate>Sun, 11 Feb 2024 03:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为哪些身份验证提供商是良好的用户注册体验所必需的最低限度？谷歌、脸书、推特等？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ankgen/which_auth_providers_do_you_think_are_the_minimum/</link>
-      <description><![CDATA[建议使注册过程尽可能顺畅，以免阻止用户注册。最常见的方法是使用 Auth 提供商，例如 Google、Facebook、Twitter 等。 但是有很多可供选择。您是否只是将它们全部添加到您的网站中？ 如果不是，您认为满足绝大多数用户所需的最低限度的最重要的提供商是什么？    由   提交 /u/chinawcswing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ankgen/which_auth_providers_do_you_think_are_the_minimum/</guid>
-      <pubDate>Sat, 10 Feb 2024 16:44:13 GMT</pubDate>
+      <guid>https://www.reddit.com/r/webdev/comments/1aocsws/database_fundamentals/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:05:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
