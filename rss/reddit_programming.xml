@@ -4,13 +4,83 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 11 Feb 2024 15:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 18:15:28 GMT</lastBuildDate>
     <item>
-      <title>Chrome DevTools 必须了解的提示和技巧 – Jacob Padilla</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao9ujz/mustknow_tips_and_tricks_for_chrome_devtools/</link>
-      <description><![CDATA[ 由   提交/u/jpjacobpadilla   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao9ujz/mustknow_tips_and_tricks_for_chrome_devtools/</guid>
-      <pubDate>Sun, 11 Feb 2024 15:00:22 GMT</pubDate>
+      <title>Rust 中的错误管理以及支持它的库</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoedn2/error_management_in_rust_and_libs_that_support_it/</link>
+      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoedn2/error_management_in_rust_and_libs_that_support_it/</guid>
+      <pubDate>Sun, 11 Feb 2024 18:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>即将举行的新 C++ 会议 - 2 月 29 日 - 3 月 2 日</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoe02f/new_upcoming_c_conference_29th_february_2nd_march/</link>
+      <description><![CDATA[ 由   提交 /u/ProgrammingArchive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoe02f/new_upcoming_c_conference_29th_february_2nd_march/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:56:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>CharlotteAPI - 多个 API 的集合在一个地方</title>
+      <link>https://www.reddit.com/r/programming/comments/1aodv04/charlotteapi_a_collection_of_multiple_apis_in_one/</link>
+      <description><![CDATA[ 由   提交 /u/rsoorajs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aodv04/charlotteapi_a_collection_of_multiple_apis_in_one/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于开关中缺少中断的谜题（Java 中）</title>
+      <link>https://www.reddit.com/r/programming/comments/1aodhb0/puzzler_about_missing_breaks_in_switches_in_java/</link>
+      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aodhb0/puzzler_about_missing_breaks_in_switches_in_java/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>未知的恐惧游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoctr3/the_unknown_fear_game/</link>
+      <description><![CDATA[ 由   提交 /u/Ok_Dragonfruit_8488   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoctr3/the_unknown_fear_game/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>每周摘要 #2：Rails 8 计划</title>
+      <link>https://www.reddit.com/r/programming/comments/1aocqy5/weekly_digest_2_the_plan_for_rails_8/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aocqy5/weekly_digest_2_the_plan_for_rails_8/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>《高级工程师的培养》作者：Addy Osmani（Google Chrome 开发体验主管）</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoc8la/the_making_of_a_senior_engineer_by_addy_osmani/</link>
+      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoc8la/the_making_of_a_senior_engineer_by_addy_osmani/</guid>
+      <pubDate>Sun, 11 Feb 2024 16:42:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>质疑 Go 的 range-over-func 提案</title>
+      <link>https://www.reddit.com/r/programming/comments/1aobuu5/questioning_gos_rangeoverfunc_proposal/</link>
+      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aobuu5/questioning_gos_rangeoverfunc_proposal/</guid>
+      <pubDate>Sun, 11 Feb 2024 16:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>是时候摆脱企业敏捷了</title>
+      <link>https://www.reddit.com/r/programming/comments/1aobui2/its_time_to_break_free_from_corporate_agile/</link>
+      <description><![CDATA[ 由   提交/u/danielrothmann  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aobui2/its_time_to_break_free_from_corporate_agile/</guid>
+      <pubDate>Sun, 11 Feb 2024 16:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 在老派 RuneScape 中学习 PvP（强化学习）</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoaqgx/ai_learns_pvp_in_old_school_runescape/</link>
+      <description><![CDATA[ 由   提交/u/Naton1-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoaqgx/ai_learns_pvp_in_old_school_runescape/</guid>
+      <pubDate>Sun, 11 Feb 2024 15:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何启动、发展您的工程通讯并从中获利</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoaphe/how_to_start_grow_and_monetize_your_engineering/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoaphe/how_to_start_grow_and_monetize_your_engineering/</guid>
+      <pubDate>Sun, 11 Feb 2024 15:38:07 GMT</pubDate>
     </item>
     <item>
       <title>Python 标准库的文件魔法</title>
@@ -39,76 +109,6 @@
       <description><![CDATA[ 由   提交/u/ahamsaha   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ao8bgn/is_github_ipv6_ready_yet_no/</guid>
       <pubDate>Sun, 11 Feb 2024 13:47:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>RSS 还是很不错的</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao80c3/rss_is_still_pretty_great/</link>
-      <description><![CDATA[ 由   提交/u/_PC__LOAD__LETTER_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao80c3/rss_is_still_pretty_great/</guid>
-      <pubDate>Sun, 11 Feb 2024 13:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从《软件架构：困难部分》这本书中学到了什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao78va/what_i_learned_from_the_book_software/</link>
-      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao78va/what_i_learned_from_the_book_software/</guid>
-      <pubDate>Sun, 11 Feb 2024 12:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>难以解析：设计语言 II</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao71qu/hard_to_parse_designing_a_language_ii/</link>
-      <description><![CDATA[ 由   提交/u/fd93_blog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao71qu/hard_to_parse_designing_a_language_ii/</guid>
-      <pubDate>Sun, 11 Feb 2024 12:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 Kubernetes？给开发者的非正统指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao6hnq/what_is_kubernetes_an_unorthodox_guide_for/</link>
-      <description><![CDATA[ 由   提交/u/aeisele  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao6hnq/what_is_kubernetes_an_unorthodox_guide_for/</guid>
-      <pubDate>Sun, 11 Feb 2024 12:04:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>eBPF 跟踪：性能优化初学者指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao68ve/ebpf_tracing_a_beginners_guide_to_performance/</link>
-      <description><![CDATA[ 由   提交/u/zdouglassimon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao68ve/ebpf_tracing_a_beginners_guide_to_performance/</guid>
-      <pubDate>Sun, 11 Feb 2024 11:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭秘 API 网关：它们是什么以及它们为何重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao5s77/demystifying_api_gateways_what_they_are_why_they/</link>
-      <description><![CDATA[ 由   提交/u/animesh371  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao5s77/demystifying_api_gateways_what_they_are_why_they/</guid>
-      <pubDate>Sun, 11 Feb 2024 11:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免编程和软件开发中的疯狂</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao5hro/avoiding_insanity_in_programming_and_software/</link>
-      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao5hro/avoiding_insanity_in_programming_and_software/</guid>
-      <pubDate>Sun, 11 Feb 2024 11:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>UTC 是不够的，24 小时是很长的时间 / Epoch 时间戳与 RFC 3339 字符串</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao5hoo/utc_is_not_enough_24_hours_is_a_long_time_epoch/</link>
-      <description><![CDATA[ 由   提交/u/mnvrth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao5hoo/utc_is_not_enough_24_hours_is_a_long_time_epoch/</guid>
-      <pubDate>Sun, 11 Feb 2024 11:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 如何对 Supabase Edge Function 进行速率限制🤯</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao5fg4/how_to_rate_limit_supabase_edge_function/</link>
-      <description><![CDATA[ 由   提交/u/rockenrollas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao5fg4/how_to_rate_limit_supabase_edge_function/</guid>
-      <pubDate>Sun, 11 Feb 2024 10:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrandCypher：使用 openCypher 搜索 NetworkX 图</title>
-      <link>https://www.reddit.com/r/programming/comments/1ao52l2/grandcypher_search_networkx_graphs_with_opencypher/</link>
-      <description><![CDATA[ 由   提交/u/davidmezzetti  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ao52l2/grandcypher_search_networkx_graphs_with_opencypher/</guid>
-      <pubDate>Sun, 11 Feb 2024 10:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 11 Feb 2024 15:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 18:16:11 GMT</lastBuildDate>
+    <item>
+      <title>独立黑客帖子：第 3 周回顾 - 使用 Simulit 应对挑战并庆祝里程碑</title>
+      <link>https://feed.indiehackers.world/post/b249a74495</link>
+      <description><![CDATA[您发展项目社区的策略是什么？您有什么建议或经验想分享吗？将您的想法写在下面，让我们互相学习！
+祝大家接下来的一周富有成效！ 🚀
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b249a74495</guid>
+      <pubDate>Sun, 11 Feb 2024 16:40:16 GMT</pubDate>
+    </item>
     <item>
       <title>Show IH：Promptotype - 开发、测试和监控您的 LLM {结构化}任务</title>
       <link>https://feed.indiehackers.world/post/6cad942f62</link>
@@ -44,7 +53,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>释放电子邮件营销最佳实践的力量（8 个简单方法）</title>
       <link>https://feed.indiehackers.world/post/34b3e2647b</link>
       <description><![CDATA[结论
-总而言之，电子邮件营销不仅仅是一种工具，它还是企业希望在当今的数字环境中蓬勃发展。
+总之，电子邮件营销不仅仅是一种工具 - 它是企业希望在当今的数字环境中蓬勃发展。
 通过采用这 8 项电子邮件营销最佳实践并将其融入到您的营销活动中，您将充分发挥这一强大媒介的潜力，推动您的业务取得更大的成功。因此，亲爱的营销人员，继续前进，向世界释放电子邮件营销的力量 - 可能性是无限的！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/34b3e2647b</guid>
@@ -56,7 +65,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[我的 5000 美元 MRR 之旅
 作为一名独立创始人，我怀着对技术变革力量的信念，踏上了 AI2SQL 的旅程。每一小步的进步，每一个克服的挑战，都是迈向这一重要里程碑的垫脚石。这是一段不仅需要辛勤工作，而且需要不断追求创新和卓越的旅程。
 未来：扩大视野
-跨越 5,000 美元 MRR 门槛只是更大旅程的开始。我们现在的重点是扩展 AI2SQL，增强我们的 AI 能力，并覆盖更多可以从我们用户友好的 SQL 方法中受益的用户。
+跨越 5,000 美元 MRR 门槛只是更大旅程的开始。我们现在的重点是扩展 AI2SQL，增强我们的 AI 功能，并覆盖更多可以从我们用户友好的 SQL 方法中受益的用户。
 灵感讯息
 致所有梦想家、创新者和有抱负的企业家：AI2SQL 的故事提醒您，您的愿景可以成为现实。只要有决心、创新和直面挑战的意愿，一切皆有可能。让 AI2SQL 的旅程激励您追逐梦想并在世界上留下自己的印记。
 Discord 独立黑客聊天广告这里]]></description>
@@ -138,7 +147,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>尝试了 4 倍的价格上涨 - 这是有史以来最好的决定！</title>
       <link>https://feed.indiehackers.world/post/7f1770cd69</link>
       <description><![CDATA[起初，我们遇到了一些长期用户的强烈反对，他们认为增加价格是一个错误，会毁掉我们的公司。
-但是，我们预计会失去大约 50% 的新付费客户，但另外 50% 的客户将弥补损失的 MRR。但实际结果让我们所有人都感到惊讶。 
+但是，我们预计会失去大约 50% 的新付费客户，但另外 50% 的客户将弥补损失的 MRR。但实际结果让我们所有人都大吃一惊。 
 一个月后，我们仅损失了约 15% 的新付费客户。这使我们来自新客户的 MRR 增长了两倍。我们二月份的表现甚至更好，并以之前的定价获得了新的付费客户。现在我们想知道为什么我们不早几个月或几年这样做。 
 当然，大幅提高价格是有风险且有争议的。但如果出于正确的理由采取行动，回报可能是巨大的。请务必照顾现有用户！ 
 如果您对我们在此次重大价格变动方面的体验还有其他疑问，请告诉我。我很高兴分享我们学到的东西。
@@ -154,19 +163,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d815191a2d</guid>
       <pubDate>Sat, 10 Feb 2024 18:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序依赖关系仪表板</title>
-      <link>https://feed.indiehackers.world/post/ca47627d8e</link>
-      <description><![CDATA[大家好！
-我正在为处理项目依赖项的工程师和技术领导者推出一款应用程序。其目的是查找所有 NuGet、NPM 和 Maven 应用程序依赖项，显示其版本并突出显示过期的依赖项。此应用程序有助于保持项目之间的依赖关系一致并保持最新。
-演示链接：https://demo-dependency.itbusina.com
-安装说明：
-docker run -p 5000:8080 -e GITHUB_API_BASE_URL=https://api.github.com -e GITHUB_ACCESS_TOKEN={访问令牌} -e PROJECTS=dotnet/aspnetcore --name dependency-dashboard -d kbahdanovich/dependency-dashboard:latest
-我希望您尝试一下并分享您的反馈。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ca47627d8e</guid>
-      <pubDate>Sat, 10 Feb 2024 17:56:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
