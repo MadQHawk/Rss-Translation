@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 11 Feb 2024 12:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 15:13:36 GMT</lastBuildDate>
+    <item>
+      <title>你曾经合作过的技能最低的网络开发人员是什么样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoa22s/what_was_the_lowest_skill_web_dev_youve_ever/</link>
+      <description><![CDATA[对人们所看到的感到好奇。   由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoa22s/what_was_the_lowest_skill_web_dev_youve_ever/</guid>
+      <pubDate>Sun, 11 Feb 2024 15:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>它不是微服务或单体应用；这是你首先需要理解的认知负荷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao9zoj/its_not_microservice_or_monolith_its_cognitive/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao9zoj/its_not_microservice_or_monolith_its_cognitive/</guid>
+      <pubDate>Sun, 11 Feb 2024 15:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>非 Webdev 使用 CMS 的最短路径</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao9vht/shortest_path_to_using_a_cms_for_a_non_webdev/</link>
+      <description><![CDATA[我是一名云工程师，希望收集我学到的所有技巧并使用我的领域构建教程/知识库，但不学习如何成为一名全栈开发人员。 我愿意学习足够的知识来使网站上线。我在工作中使用 TypeScript 与 Pulumi 一起工作，因此我已经可以掌握这些概念。 换句话说，关于在线获取具有基于 JS 前端的无头 CMS 的任何好的建议。也许像 Ghost 和 Vue.js 一样？ 可行吗，有人选择这条路吗？   由   提交 /u/wired_ronin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao9vht/shortest_path_to_using_a_cms_for_a_non_webdev/</guid>
+      <pubDate>Sun, 11 Feb 2024 15:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google reCaptcha 网站密钥滥用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao9s10/google_recaptcha_site_key_abuse/</link>
+      <description><![CDATA[我今天查看了 Google reCaptcha 文档，似乎涉及两种类型的交互：一种是客户端使用“站点密钥”，另一种是客户端使用“站点密钥”。一个服务器端使用“秘密密钥”。另外，从这里 https://cloud.google.com/recaptcha-enterprise/pricing 据我了解，两者这些交互都应用了速率限制。我的问题是，由于站点密钥完全暴露，我们如何防止外部参与者检查我们的客户端应用程序、提取站点密钥并滥用它（例如耗尽免费速率限制层）？    由   提交/u/revyth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao9s10/google_recaptcha_site_key_abuse/</guid>
+      <pubDate>Sun, 11 Feb 2024 14:57:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>副驾驶有话要说 - 意大利面条式的代码已经受够了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao9nqw/copilot_has_something_to_say_its_had_enough_of/</link>
+      <description><![CDATA[       由   提交/u/findurself020   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao9nqw/copilot_has_something_to_say_its_had_enough_of/</guid>
+      <pubDate>Sun, 11 Feb 2024 14:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>笔记本电脑建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao8ztw/laptop_advice/</link>
+      <description><![CDATA[大家好！ 寻求一些笔记本电脑建议。 我目前拥有一台 2017 年 13 英寸 Macbook Pro 8GB，由于我的疏忽（饮料洒在上面🙄），我需要购买一个新的，因为现在我的屏幕上全是线条。它也变得有点慢。 我是一名营销助理，作为我工作的一部分，需要能够在 SquareSpace 上无缝运行和编辑并处理大量图形设计图像。我们有一位平面设计师，他会在主题演讲上创作一些东西，但有时我们需要为了不同的目的而改变东西或模仿设计。 我的预算是 1000 英镑。  我需要 Mac 吗？寻求公正的建议！   由   提交 /u/ProcedureClear2787   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao8ztw/laptop_advice/</guid>
+      <pubDate>Sun, 11 Feb 2024 14:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个网络应用程序，可以为您的消息创建手写风格的卡片，发送给您所爱的人（评论中的链接）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao7y9c/i_made_a_web_app_that_creates_handwrittenstyle/</link>
+      <description><![CDATA[       由   提交/u/_nightwielder_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao7y9c/i_made_a_web_app_that_creates_handwrittenstyle/</guid>
+      <pubDate>Sun, 11 Feb 2024 13:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netlify 与 Vercel 免费套餐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ao6u7g/netlify_vs_vercel_free_tiers/</link>
+      <description><![CDATA[对于使用过两者的人，您建议免费开始使用哪一个？两者有何优缺点？ 供参考：我想部署一个带有 Vue 前端和 websockets 的全栈 Laravel 应用程序。   由   提交 /u/KiwiNFLFan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ao6u7g/netlify_vs_vercel_free_tiers/</guid>
+      <pubDate>Sun, 11 Feb 2024 12:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>付费客户的直播解决方案？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ao6piq/live_streaming_solution_for_paying_customers/</link>
@@ -15,7 +71,7 @@
     <item>
       <title>无密码邮箱验证码Auth是个好举措吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ao6ahi/is_passwordless_email_verification_code_auth_a/</link>
-      <description><![CDATA[我正在为大学构建一个个人项目，一个使用 Express.js 和 React 的类似 YouTube 的应用程序。我想在我的服务器上实现本地和 OAuth 身份验证架构。 注意：我不允许使用 Auth0 或 Clerk 等第三方服务。我需要出于教育目的，尽可能保持低级别。 首先，我想为两个身份验证模式创建一个用户模型，有点像这样。 模型用户{ id String @id @default(uuid()) email String @unique password String }  它在本地身份验证中工作得很好，但是当用户使用第 3 方帐户注册时，我尝试创建新的 User 对象时遇到麻烦。由于第三方 OAuth 提供商出于明显的原因不共享密码，因此我无法在密码字段中放入任何内容。 我已经考虑过处理此问题的方法，但老实说，它们似乎都不正确。将密码字段留空或随机生成是没有好处的。我曾考虑过创建单独的模型，例如 OAuth 用户的帐户，但它会导致外键的额外复杂性。如果只有一个唯一的用户模型将其用作相关表中的外键，那就容易多了。 然后我研究了一些其他 Web 应用程序的身份验证模式，并偶然发现了 Vercel。在那里他们不需要密码，只需发送电子邮件验证码。我认为这是使我的数据库模型变得非常简单的好方法。 model User { id String @id @default(uuid()) email String @unique 提供者？ AuthProvider 通道？ Channel // 其他字段 } model Channel { user User @relation(fields: [user_id],references: [id]) user_id String @unique handle String @unique // 其他字段 }   那么，在我的情况下可以使用无密码电子邮件代码验证吗？   由   提交/u/Alex_054  [链接] [评论]]]></description>
+      <description><![CDATA[我正在为大学构建一个个人项目，一个使用 Express.js 和 React 的类似 YouTube 的应用程序。我想在我的服务器上实现本地和 OAuth 身份验证模式。 注意：我不允许使用 Auth0 或 Clerk 等第三方服务。我需要出于教育目的，尽可能保持低级别。 起初，我想为两个身份验证模式创建一个用户模型，有点像这样。 模型用户{ id String @id @default(uuid()) email String @unique password String }  它在本地身份验证中工作得很好，但是当用户使用第 3 方帐户注册时，我尝试创建新的 User 对象时遇到麻烦。由于第三方 OAuth 提供商出于明显的原因不共享密码，因此我无法在密码字段中放入任何内容。 我已经考虑过处理此问题的方法，但老实说，它们似乎都不正确。将密码字段留空或随机生成它是不好的。我曾考虑过创建单独的模型，例如 OAuth 用户的帐户，但它会导致外键的额外复杂性。如果只有一个唯一的 User 模型将其用作相关表中的外键，那就容易多了。 然后我研究了一些其他 Web 应用程序的身份验证模式，并偶然发现了 Vercel。在那里他们不需要密码，只需发送电子邮件验证码。我认为这是使我的数据库模型变得非常简单的好方法。 model User { id String @id @default(uuid()) email String @unique 提供者？ AuthProvider 通道？ Channel // 其他字段 } model Channel { user User @relation(fields: [user_id],references: [id]) user_id String @unique handle String @unique // 其他字段 }   那么，在我的情况下可以使用无密码电子邮件代码验证吗？   由   提交/u/Alex_054  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ao6ahi/is_passwordless_email_verification_code_auth_a/</guid>
       <pubDate>Sun, 11 Feb 2024 11:52:32 GMT</pubDate>
     </item>
@@ -41,74 +97,18 @@
       <pubDate>Sun, 11 Feb 2024 09:49:36 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个一键部署媒体内容的工具！ （这样我们就可以轻松嵌入我们的网站）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao41tf/i_made_a_tool_to_deploy_media_content_in_one/</link>
-      <description><![CDATA[       由   提交/u/henryo84  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao41tf/i_made_a_tool_to_deploy_media_content_in_one/</guid>
-      <pubDate>Sun, 11 Feb 2024 09:19:08 GMT</pubDate>
+      <title>静态html和js粘贴bin</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anywkv/static_html_and_js_paste_bin/</link>
+      <description><![CDATA[是否可以查看我自己制作的简单 html 和 js 粘贴箱的源代码，最好是像 rentry.co？ 对于存储，我使用 Firebase 的 firestore！   由   提交/u/cozitalks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anywkv/static_html_and_js_paste_bin/</guid>
+      <pubDate>Sun, 11 Feb 2024 03:56:59 GMT</pubDate>
     </item>
     <item>
-      <title>全新网页设计自由职业者！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao3uyu/brand_new_web_design_freelance_venture/</link>
-      <description><![CDATA[在担任全职 SDE 职务后，计划兼职创办一家小企业。  我打算瞄准从一开始，我所在地区及周边地区的本地企业就将我的投资组合建立到至少 10-15 个稳定客户，然后将我的客户群扩展到高收入国家。 计划是瞄准利基市场。将从牙科诊所和牙医开始，因为我已经与其中许多人取得了联系。  我看到的痛点是，大多数企业主认为获得牙科诊所和牙医的成本太高网站的运行和维护都很麻烦。 我想创建一个可以为所有客户遵循的流程，这样我就可以高效工作。我使用 Wordpress，但这可能有点矫枉过正，而且需要大量维护。此外，从客户的角度来看，在大多数情况下，他们确实不希望拥有复杂的 Web 堆栈，或者更确切地说，许多人甚至不关心。我个人是通过技术博客从 Wordpress 转向 nextjs，每天的访问量约为 5000 次。 相反，这就是我的想法。 ​ &lt; p&gt;方法 1，  从 themeforest 购买几个适合我目标行业的 HTML 主题。 将其转换为适合的模板适合我的流程。 计划使用 NextJS / TailwindCSS 进行构建，并叠加我们购买的模板。 将代码托管在 GitHub 上 部署到 Vercel。我可能需要购买每月 20 美元的计划。 下一个 MDX 博客，以防他们需要 CMS。 简单的 4 页网站 - 登陆、服务、关于、联系方式&lt; /li&gt;  ​ 方法 2，  不使用 NextJS，完全只使用 HTML / CSS 当我需要集成某种动态任务（例如表单提交、弹出窗口等）时，这会受到限制。  ​&lt; /p&gt; 方法 3，  坚持使用 Wordpress  ​ 您有什么建议？ 这是定价。 定价  假设 1000美元作为预付款，50 美元用于托管。 每年 30 美元用于域管理。 网站部署后的任何更改每小时 25 美元。 &gt;    由   提交 /u/iammukeshm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao3uyu/brand_new_web_design_freelance_venture/</guid>
-      <pubDate>Sun, 11 Feb 2024 09:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否应该用本机浏览器级延迟加载来替换lazysizes？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao3eyt/should_lazysizes_be_replaced_with_native/</link>
-      <description><![CDATA[我正在重建网站，当前网站已使用lazysizes 来延迟加载图像、视频和iframe。随着对浏览器级延迟加载的更广泛支持，它是否应该取代诸如lazysizez之类的库？我无法找到具有明确答案的资源。了解继续使用lazysizes 相对于本机延迟加载是否有好处会很有用且有帮助。    由   提交/u/ryanhallinger   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao3eyt/should_lazysizes_be_replaced_with_native/</guid>
-      <pubDate>Sun, 11 Feb 2024 08:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>将对话存储在本地存储 VS 数据库中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao3357/storing_conversation_in_local_storage_vs_in/</link>
-      <description><![CDATA[在本地存储中存储消息有哪些缺点或优点？我正在构建一个应用程序，用户可以在其中与人工智能聊天，但问题是我想保留对话历史记录（类似于 chatgpt）以改善用户体验。然而，从安全角度来看，将消息存储在数据库中似乎是一个主要麻烦，因为我可以看到消息和类似的东西（如果这感觉像似曾相识，那是因为我发布了其他线程）。本地存储似乎更容易做到并且风险更小。但我对此并不熟悉，所以本地存储可能存在不可预见的缺点？观察。我知道他们不会在不同的设备等上看到这些消息，但这并不是立即必要的，我认为这只是一个小小的不便。但我想知道我可能错过了有关本地存储的其他方面。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao3357/storing_conversation_in_local_storage_vs_in/</guid>
-      <pubDate>Sun, 11 Feb 2024 08:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>当“一切”变得太多：2024 年的 npm 包混乱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao301i/when_everything_becomes_too_much_the_npm_package/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao301i/when_everything_becomes_too_much_the_npm_package/</guid>
-      <pubDate>Sun, 11 Feb 2024 08:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试您的 Web 开发技能（针对 Web 开发人员）🧑‍💻</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao2qds/test_your_web_dev_skills_for_web_developers/</link>
-      <description><![CDATA[我为 Web 开发人员制作了这套 10 个实用问题。 这很有趣、简单且易于理解。非常实用。 最后，您会通过对您的网络开发技能的一些评论获得分数。 尝试一下 - https://formnx.com/f/85kf10 在下面分享你的分数👇 （如果得到 100 则分享截图😆）   由   提交 /u/Genuine-Helperr   /u/Genuine-Helperr reddit.com/r/webdev/comments/1ao2qds/test_your_web_dev_skills_for_web_developers/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao2qds/test_your_web_dev_skills_for_web_developers/</guid>
-      <pubDate>Sun, 11 Feb 2024 07:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人网络应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao2iif/personal_webapps/</link>
-      <description><![CDATA[大家好，我有很多自己编写或从网络保存的网络应用程序/页面。所以我想将它们捆绑到一个集合中以便于访问。在桌面上，我只是将它们放入带有索引页面的文件夹中进行导航，并设置了一个绕过 CORS 的浏览器快捷方式，以便这些本地文件访问在线 API。而且效果很好。但在 Android 上，从我收集的情况来看，似乎很难绕过 CORS？ PWA 似乎很合适，但我需要它首先是离线的，并且访问是私密的。大家有做过类似的事情吗？您对创建个人使用的应用程序有何建议？   由   提交/u/skygate2012   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao2iif/personal_webapps/</guid>
-      <pubDate>Sun, 11 Feb 2024 07:33:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的授权实施进行健全性检查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao27y1/sanity_check_on_my_authorization_implementation/</link>
-      <description><![CDATA[我正在使用 jwt 来授权我的用户。为了最大限度地提高安全性，我完成了以下步骤：  JWS：使用 HS256 签署 JWT JWE：使用 AES256 加密 JWT IP 检查：用户的IP 地址存储在 JWT 中以供将来验证  我遗漏了什么吗？ 编辑：我当然还有 JWT 的到期日期   由   提交 /u/_DataGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao27y1/sanity_check_on_my_authorization_implementation/</guid>
-      <pubDate>Sun, 11 Feb 2024 07:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genius（歌词）如何在新的 url 处显示抽屉而不丢失滚动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao25si/how_does_genius_lyrics_display_a_drawer_at_a_new/</link>
-      <description><![CDATA[      所以我最近只是在看一首关于天才的歌曲的一些歌词。但我注意到，带有歌词的主页托管在自己的 url 上，注释也位于自己的 url 上，这样打开注释就会导航到“不同”页面，但 UI 似乎不会刷新，除非您从主页的注释。他们是如何实现这一目标的？我刚刚注意到我无法在这里发布视频，但是您可以在他们的网站上看到交互，不过，我按照 UI 及其 URL 的顺序留下了屏幕截图。   由   提交/u/therealgrugatti   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao25si/how_does_genius_lyrics_display_a_drawer_at_a_new/</guid>
-      <pubDate>Sun, 11 Feb 2024 07:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站是建立在什么平台上的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ao1xj4/what_platform_is_this_website_built_on/</link>
-      <description><![CDATA[   试图找出它是在什么平台上构建的。有人告诉我 WordPress，但我认为这是不正确的。谢谢！   由   提交/u/Ok_Training4264   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ao1xj4/what_platform_is_this_website_built_on/</guid>
-      <pubDate>Sun, 11 Feb 2024 06:56:40 GMT</pubDate>
+      <title>您认为哪些身份验证提供商是良好的用户注册体验所必需的最低限度？谷歌、脸书、推特等？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ankgen/which_auth_providers_do_you_think_are_the_minimum/</link>
+      <description><![CDATA[建议使注册过程尽可能顺畅，以免阻止用户注册。最常见的方法是使用 Auth 提供商，例如 Google、Facebook、Twitter 等。 但是有很多可供选择。您是否只是将它们全部添加到您的网站中？ 如果不是，您认为满足绝大多数用户所需的最低限度的最重要的提供商是什么？    由   提交 /u/chinawcswing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ankgen/which_auth_providers_do_you_think_are_the_minimum/</guid>
+      <pubDate>Sat, 10 Feb 2024 16:44:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
