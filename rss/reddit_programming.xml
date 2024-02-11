@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 11 Feb 2024 06:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 09:11:42 GMT</lastBuildDate>
+    <item>
+      <title>Pinterest 为 Kafka、Flink 和 MemQ 开源了可用于生产的 PubSub Java 客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao3wij/pinterest_opensources_a_productionready_pubsub/</link>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao3wij/pinterest_opensources_a_productionready_pubsub/</guid>
+      <pubDate>Sun, 11 Feb 2024 09:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是N+1查询问题以及如何检测它？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao3ahc/what_is_the_n1_query_problem_and_how_to_detect_it/</link>
+      <description><![CDATA[ 由   提交/u/observability_geek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao3ahc/what_is_the_n1_query_problem_and_how_to_detect_it/</guid>
+      <pubDate>Sun, 11 Feb 2024 08:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python弹性客户端搜索对象不返回任何内容，甚至不返回空响应数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao37fr/python_elastic_client_search_object_returns/</link>
+      <description><![CDATA[请有人帮我解决这个问题。   由   提交/u/alan2472  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao37fr/python_elastic_client_search_object_returns/</guid>
+      <pubDate>Sun, 11 Feb 2024 08:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>mraylib：使用发送器/接收器 (P2300) 框架编写 C++23 光线追踪器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao328n/mraylib_writing_a_c23_ray_tracer_using/</link>
+      <description><![CDATA[ 由   提交 /u/RishabhRD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao328n/mraylib_writing_a_c23_ray_tracer_using/</guid>
+      <pubDate>Sun, 11 Feb 2024 08:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>学了 C++ 23 年。所以过度编程。失去了 100% 的利息。 🤮</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao3201/did_c_23_years_so_over_programming_lost_100/</link>
+      <description><![CDATA[ 由   提交/u/Laufter  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao3201/did_c_23_years_so_over_programming_lost_100/</guid>
+      <pubDate>Sun, 11 Feb 2024 08:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>RelaGit：第一个 Beta 版本现已可供下载。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao2x4o/relagit_first_beta_release_now_available_to/</link>
+      <description><![CDATA[ 由   提交 /u/RGBGamingAxolotl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao2x4o/relagit_first_beta_release_now_available_to/</guid>
+      <pubDate>Sun, 11 Feb 2024 08:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>官方 reddit 社区 abot Pkl</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao2pcx/official_reddit_community_abot_pkl/</link>
+      <description><![CDATA[ 由   提交 /u/o_sadchy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao2pcx/official_reddit_community_abot_pkl/</guid>
+      <pubDate>Sun, 11 Feb 2024 07:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么函数式编程应该成为软件开发的未来</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao255z/why_functional_programming_should_be_the_future/</link>
+      <description><![CDATA[ 由   提交/u/yawaramin  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao255z/why_functional_programming_should_be_the_future/</guid>
+      <pubDate>Sun, 11 Feb 2024 07:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Javascript 学习正则表达式</title>
+      <link>https://www.reddit.com/r/programming/comments/1ao1ya3/learning_regex_with_javascript/</link>
+      <description><![CDATA[ 由   提交/u/guleriashubham63   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ao1ya3/learning_regex_with_javascript/</guid>
+      <pubDate>Sun, 11 Feb 2024 06:58:04 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Vision Pro 开发者资源 - Vision Pro 博客</title>
       <link>https://www.reddit.com/r/programming/comments/1ao06wf/apple_vision_pro_developer_resources_the_vision/</link>
@@ -36,7 +99,7 @@
     <item>
       <title>编程语言和歧义？</title>
       <link>https://www.reddit.com/r/programming/comments/1anwbnk/programming_languages_and_ambiguity/</link>
-      <description><![CDATA[我正在阅读此处链接的一篇文章，发现这行有点令人费解“广泛使用的编程语言中没有歧义......”这是什么意思真正的意思是什么？   由   提交/u/thinkingwalking  [链接] [评论]]]></description>
+      <description><![CDATA[我正在阅读此处链接的一篇文章，发现这句话有点令人费解“广泛使用的编程语言中没有歧义......”这是什么意思真正的意思是什么？   由   提交/u/thinkingwalking  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1anwbnk/programming_languages_and_ambiguity/</guid>
       <pubDate>Sun, 11 Feb 2024 01:39:58 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[我在一月份从非技术行业的工作中被解雇。我五月份完成了副学士学位，并决定继续尝试找到一份初级开发人员的工作。我一直在申请几乎任何没有学士学位要求并且使用我熟悉的语言的工作。我通过我填写的一款应用程序在 LinkedIn 中收到了此回复。  “”“”你好！  感谢您申请我们的 FastTrack 在线计划，该计划最终被我们的一位客户安置。我们的客户正在积极从 FastTrack 毕业生中招聘开发人员。  我们的下一个在线 FastTrack 计划将于 2024 年 3 月 4 日开始，并且免费。这将是一个为期 8 周的全栈开发在线课程，重点关注 Java、Spring、JavaScript、Angular 等，帮助您为纳什维尔、孟菲斯、菲尼克斯或远程客户的入门级开发人员角色做好准备。  请访问 allaboutfasttrack.com 的“常见问题解答”选项卡查看更多信息。  第一步是进行编码评估。请参阅下面的链接： https://www.hackerrank.com/test/e5omm2pe18o/098dd143295801c7df923fc17c368281&lt; /a&gt; 非常感谢您的努力！ Carrie 请注意，快速通道计划仅向美国公民和 GC 持有者候选人开放TIME。 Carrie DeBardelaben 库克系统公司技术招聘人员cdebardelaben@cooksys.com“”” 感觉像是一个骗局，或者是一种从某人那里获得免费工作的方式。该公司是 Cook Systems Inc.。我想知道是否有人对此有所了解并且值得尝试吗？   由   提交/u/Zapherial  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1anupkg/this_feels_like_a_scam/</guid>
       <pubDate>Sun, 11 Feb 2024 00:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blipsort（模式击败快速排序中的无分支 Lomuto）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ant7xs/blipsort_branchless_lomuto_in_pattern_defeating/</link>
-      <description><![CDATA[ 由   提交/u/R3dB3dH3d  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ant7xs/blipsort_branchless_lomuto_in_pattern_defeating/</guid>
-      <pubDate>Sat, 10 Feb 2024 23:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>当“一切”变得太多：2024 年的 npm 包混乱</title>
-      <link>https://www.reddit.com/r/programming/comments/1ant3kw/when_everything_becomes_too_much_the_npm_package/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ant3kw/when_everything_becomes_too_much_the_npm_package/</guid>
-      <pubDate>Sat, 10 Feb 2024 23:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 和 Demoscene Sizecoding，作者：p01 - Lovebyte 2024 研讨会</title>
-      <link>https://www.reddit.com/r/programming/comments/1ansbt9/javascript_and_demoscene_sizecoding_by_p01/</link>
-      <description><![CDATA[ 由   提交 /u/Slackluster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ansbt9/javascript_and_demoscene_sizecoding_by_p01/</guid>
-      <pubDate>Sat, 10 Feb 2024 22:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 设置如 CSS 效果</title>
-      <link>https://www.reddit.com/r/programming/comments/1anr12i/windows_settings_like_css_effect/</link>
-      <description><![CDATA[ 由   提交/u/IAmOpenSourced  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anr12i/windows_settings_like_css_effect/</guid>
-      <pubDate>Sat, 10 Feb 2024 21:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何用 JavaScript 制作 1K 弹球游戏 - Lu1ky Pinball</title>
-      <link>https://www.reddit.com/r/programming/comments/1annfrt/how_i_made_a_1k_pinball_game_in_javascript_lu1ky/</link>
-      <description><![CDATA[ 由   提交 /u/Slackluster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1annfrt/how_i_made_a_1k_pinball_game_in_javascript_lu1ky/</guid>
-      <pubDate>Sat, 10 Feb 2024 18:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 深度编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1annb0m/python_programming_in_depth/</link>
-      <description><![CDATA[ 由   提交/u/tracktech  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1annb0m/python_programming_in_depth/</guid>
-      <pubDate>Sat, 10 Feb 2024 18:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Light-Project/dog：最小的猫替代品</title>
-      <link>https://www.reddit.com/r/programming/comments/1ann9ry/lightprojectdog_a_minimal_cat_alternative/</link>
-      <description><![CDATA[ 由   提交/u/Fragrant_Bag_4180   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ann9ry/lightprojectdog_a_minimal_cat_alternative/</guid>
-      <pubDate>Sat, 10 Feb 2024 18:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>给你的经理支持你的理由</title>
-      <link>https://www.reddit.com/r/programming/comments/1anmej2/give_your_manager_reasons_to_advocate_for_you/</link>
-      <description><![CDATA[ 由   提交/u/basmamataha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anmej2/give_your_manager_reasons_to_advocate_for_you/</guid>
-      <pubDate>Sat, 10 Feb 2024 18:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何提出“正确”的问题？</title>
-      <link>https://www.reddit.com/r/programming/comments/1anmbyq/how_to_ask_the_right_questions/</link>
-      <description><![CDATA[ 由   提交/u/basmamataha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1anmbyq/how_to_ask_the_right_questions/</guid>
-      <pubDate>Sat, 10 Feb 2024 18:06:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
