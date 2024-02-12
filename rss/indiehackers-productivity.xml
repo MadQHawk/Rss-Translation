@@ -4,7 +4,21 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 12 Feb 2024 15:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:15:45 GMT</lastBuildDate>
+    <item>
+      <title>期望与现实。我从毫无成效的一周中学到了什么。</title>
+      <link>https://feed.indiehackers.world/post/7b6ef68b90</link>
+      <description><![CDATA[🎉庆祝胜利
+即使这不是我最有成效的一周，你仍然完成了任务。有总比没有好。 
+📵 消除干扰
+有几周我很难集中注意力，我真的需要消除干扰。我需要将通知静音，放下手机，去一个不同的环境，并与某人谈论我的项目，以使我的大脑朝着正确的方向前进。 
+📊 我最坏的情况仍然比我最好的情况要好
+在我构建 emailemu.com 的整个过程中，我实施了一个例程，它帮助我提高了工作效率。我从中学到的是，即使在我生产力最差的几周或几天，它们仍然比我前几年最好的日子要好。这是值得庆祝的进步。 
+对于那些好奇的人，这里是我每天设定要完成的事情的实际列表，以及我已经完成的事情。 
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7b6ef68b90</guid>
+      <pubDate>Mon, 12 Feb 2024 16:40:26 GMT</pubDate>
+    </item>
     <item>
       <title>更好的 ChatGPT 文本替代方案：WriteFastAI</title>
       <link>https://feed.indiehackers.world/post/7a31fa4fee</link>
@@ -210,24 +224,6 @@ PFPMaker 👉 https://pfpmaker.com/
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/14e9d0b03e</guid>
       <pubDate>Sat, 03 Feb 2024 12:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>离岸 PHP 开发的最佳实践和挑战</title>
-      <link>https://feed.indiehackers.world/post/9fcc0e59a0</link>
-      <description><![CDATA[这些提示可帮助您有效协调：
-
-确定双方理想的协作时间
-如果可能，调整陆上时间表
-招募遍布全球的离岸开发人员，以实现 24 小时高效工作
-通过每日状态更新、文档、聊天进行充分沟通
-利用具有异步功能的协作平台
-
-虽然不是灵丹妙药，但仔细的安排和严格的沟通可以最大限度地减少时区问题。
-如果正确预期和计划，离岸人才和更快交付的优势将胜过挑战。
-在最早的规划阶段遵循最佳实践有助于避免通信故障、安全问题和协调问题。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9fcc0e59a0</guid>
-      <pubDate>Fri, 02 Feb 2024 17:06:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
