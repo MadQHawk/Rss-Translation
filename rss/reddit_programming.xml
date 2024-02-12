@@ -4,9 +4,72 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 12 Feb 2024 09:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 12:22:13 GMT</lastBuildDate>
     <item>
-      <title>使用 Ruff 提高 Python 开发速度：闪电般的一体化 linter</title>
+      <title>(2023) 代码不是技术债务</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoykc4/2023_code_is_not_technical_debt/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoykc4/2023_code_is_not_technical_debt/</guid>
+      <pubDate>Mon, 12 Feb 2024 12:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 中的 Android UI 视觉设计器 |入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoy029/android_ui_visual_designer_in_visual_studio/</link>
+      <description><![CDATA[ 由   提交/u/monsterboz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoy029/android_ui_visual_designer_in_visual_studio/</guid>
+      <pubDate>Mon, 12 Feb 2024 11:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 中的 Android UI 视觉设计器 |入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoxzyp/android_ui_visual_designer_in_visual_studio/</link>
+      <description><![CDATA[ 由   提交/u/monsterboz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoxzyp/android_ui_visual_designer_in_visual_studio/</guid>
+      <pubDate>Mon, 12 Feb 2024 11:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们很高兴推出 CronbotAI：一种无代码人工智能聊天机器人，可根据您的品牌进行定制，根据您的网站内容进行培训，回答客户问题并产生销售线索。</title>
+      <link>https://www.reddit.com/r/programming/comments/1aoxp25/we_are_happy_to_launch_cronbotai_a_nocode_ai/</link>
+      <description><![CDATA[ 由   提交/u/sharvinshah51   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aoxp25/we_are_happy_to_launch_cronbotai_a_nocode_ai/</guid>
+      <pubDate>Mon, 12 Feb 2024 11:15:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手需要帮助</title>
+      <link>https://www.reddit.com/r/programming/comments/1aox6lu/newbie_need_help/</link>
+      <description><![CDATA[您好，我想更改此网站 valentine.mewtru.com 的文本，但我不知道该怎么做。你能指导我怎么做吗？   由   提交/u/CompliancePear809  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aox6lu/newbie_need_help/</guid>
+      <pubDate>Mon, 12 Feb 2024 10:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>松耦合的 10 个好处</title>
+      <link>https://www.reddit.com/r/programming/comments/1aowxvv/10_benefits_of_loose_coupling/</link>
+      <description><![CDATA[ 由   提交/u/dev8840  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aowxvv/10_benefits_of_loose_coupling/</guid>
+      <pubDate>Mon, 12 Feb 2024 10:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Python 中使用 OpenAI、NATS.io、Streamlit 构建实时 AI 驱动的警报应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1aowsqc/how_to_build_a_realtime_aipowered_alerting_app/</link>
+      <description><![CDATA[ 由   提交/u/bumurzokov  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aowsqc/how_to_build_a_realtime_aipowered_alerting_app/</guid>
+      <pubDate>Mon, 12 Feb 2024 10:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用Flyway有效管理数据库变更</title>
+      <link>https://www.reddit.com/r/programming/comments/1aowp9j/how_to_effectively_manage_database_changes_using/</link>
+      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aowp9j/how_to_effectively_manage_database_changes_using/</guid>
+      <pubDate>Mon, 12 Feb 2024 10:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们有人工智能测试工具吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1aow0qf/are_we_there_yet_with_ai_testing_tools/</link>
+      <description><![CDATA[ 由   提交/u/soap94  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1aow0qf/are_we_there_yet_with_ai_testing_tools/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aow0qf/are_we_there_yet_with_ai_testing_tools/</guid>
+      <pubDate>Mon, 12 Feb 2024 09:19:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Ruff 提高 Python 开发速度：一款闪电般的一体化 linter</title>
       <link>https://www.reddit.com/r/programming/comments/1aovw9f/boosting_python_development_speed_with_ruff_an/</link>
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aovw9f/boosting_python_development_speed_with_ruff_an/</guid>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/DevMind01  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aourfh/3_best_free_django_cms/</guid>
       <pubDate>Mon, 12 Feb 2024 07:48:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一部分是关于Action Script 3编程语言中Array类和Vector类的比较</title>
-      <link>https://www.reddit.com/r/programming/comments/1aou62w/the_first_part_is_about_the_comparison_between/</link>
-      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aou62w/the_first_part_is_about_the_comparison_between/</guid>
-      <pubDate>Mon, 12 Feb 2024 07:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>漩涡叶子粒子系统（Unity）</title>
-      <link>https://www.reddit.com/r/programming/comments/1aotvqk/swirl_leaves_particle_system_unity/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aotvqk/swirl_leaves_particle_system_unity/</guid>
-      <pubDate>Mon, 12 Feb 2024 06:48:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找新的软件开发人员工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1aot53e/finding_a_new_software_developer_job/</link>
-      <description><![CDATA[ 由   提交/u/henrik_w   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aot53e/finding_a_new_software_developer_job/</guid>
-      <pubDate>Mon, 12 Feb 2024 06:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我玩了坏苹果！！在 ATOMS 上（ft. P、NP 和 Bin Packing）</title>
-      <link>https://www.reddit.com/r/programming/comments/1aostji/i_played_bad_apple_on_atoms_ft_p_np_and_bin/</link>
-      <description><![CDATA[ 由   提交 /u/residualentropy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aostji/i_played_bad_apple_on_atoms_ft_p_np_and_bin/</guid>
-      <pubDate>Mon, 12 Feb 2024 05:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要更快地踏上工程管理之路吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aos1vb/desiring_to_tread_the_path_of_engineering/</link>
-      <description><![CDATA[ 由   提交/u/sirkarthik  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aos1vb/desiring_to_tread_the_path_of_engineering/</guid>
-      <pubDate>Mon, 12 Feb 2024 05:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>BItwise 📼 LIiminal ~ 256 字节代码的短片</title>
-      <link>https://www.reddit.com/r/programming/comments/1aop7l9/ｂｉｔｗｉｓｅ_ｌｉｍｉｎａｌ_a_short_film_in_256_bytes_of_code/</link>
-      <description><![CDATA[ 由   提交/u/Slackluster  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aop7l9/ｂｉｔｗｉｓｅ_ｌｉｍｉｎａｌ_a_short_film_in_256_bytes_of_code/</guid>
-      <pubDate>Mon, 12 Feb 2024 02:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：摘要 #9</title>
-      <link>https://www.reddit.com/r/programming/comments/1aooht2/engineering_with_java_digest_9/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1aooht2/engineering_with_java_digest_9/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aooht2/engineering_with_java_digest_9/</guid>
-      <pubDate>Mon, 12 Feb 2024 01:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么语言？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aonvzu/what_language/</link>
-      <description><![CDATA[大家好，我想创建一个 Windows 应用程序，从特定来源获取货币价格并每秒更新它们。我需要学习哪种语言？   由   提交 /u/Rayollasomeday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aonvzu/what_language/</guid>
-      <pubDate>Mon, 12 Feb 2024 01:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>《龙骑兵传奇》完全反编译了 PlayStation 1 后期游戏的本机 PC 端口，并提供增强功能和模组支持 - 项目 Severed Chains</title>
-      <link>https://www.reddit.com/r/programming/comments/1aon9av/legend_of_dragoon_fully_decompiled_native_pc_port/</link>
-      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aon9av/legend_of_dragoon_fully_decompiled_native_pc_port/</guid>
-      <pubDate>Mon, 12 Feb 2024 00:39:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
