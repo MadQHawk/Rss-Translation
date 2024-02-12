@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 12 Feb 2024 15:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 21:10:03 GMT</lastBuildDate>
+    <item>
+      <title>VBA 导致“已接受”响应而不是实际里程 - 使用 Google Maps API 和 Make.com</title>
+      <link>https://www.reddit.com/r/automation/comments/1ap9p9e/vba_is_resulting_in_accepted_response_rather_than/</link>
+      <description><![CDATA[       由   提交 /u/V-creative-username   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ap9p9e/vba_is_resulting_in_accepted_response_rather_than/</guid>
+      <pubDate>Mon, 12 Feb 2024 20:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化滑雪比赛注册页面</title>
+      <link>https://www.reddit.com/r/automation/comments/1ap5axe/automate_a_ski_race_signup_page/</link>
+      <description><![CDATA[嗨， 我即将参加一场名为 vasaloppet 的滑雪比赛，那里有不同的出发组。 这些组是07:00、07:10、07:20、07:30 等直至 08:00。  除08:00外，一组可容纳x人，可容纳任意数量。问题是我无法切换到较早的群组，因为该群组已满，并且我需要等待有人离开群组才能加入。最重要的是，我需要在有人更改组时进行签名，以便能够在其他人之前进行更改。 有没有一种简单的方法可以自动执行此操作？我在 python 中看到了一些关于 Beautifulsoup 的内容，但是有没有更简单的方法可以使用浏览器扩展等来不断刷新页面并尝试 HTTP - 调用更改组请求。 任何帮助将不胜感激！    由   提交 /u/Complete_Original999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ap5axe/automate_a_ski_race_signup_page/</guid>
+      <pubDate>Mon, 12 Feb 2024 17:20:40 GMT</pubDate>
+    </item>
     <item>
       <title>用于视频编辑的人工智能工具？也用于配音</title>
       <link>https://www.reddit.com/r/automation/comments/1anjzal/ai_tools_for_video_editing_also_for_voice_acting/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[各位创业者大家好， 我正在接触这个社区，希望从这些人那里收集见解、经验和建议他们成功地应对了业务扩展的挑战。具体来说，我管理着一家精品人工智能模特经纪公司和公司。客户管理公司，我已经准备好将其提升到一个新的水平。我们的目标是每月净收入持续达到或超过 50,000 美元，我相信这里的集体智慧可以帮助指导我们实现这一目标。 背景： &lt;我的业务主要围绕提供尖端的人工智能建模解决方案和全面的客户管理服务。我们拥有一支敬业的团队和不断增长的创新项目组合，奠定了坚实的基础。然而，当我们寻求规模化时，我发现自己面临着在竞争日益激烈的环境中获取和保留客户的艰巨任务。 问题： 1 。 客户获取策略：您认为在技术和人工智能领域获取新客户最有效的策略是什么？是否有比其他渠道效果更好的特定渠道（数字营销、社交活动、合作伙伴关系）？ 2. 扩展洞察：对于那些已将业务扩展至每月净收入 5 万美元或以上的公司，您的增长的关键驱动因素是什么？您如何平衡新客户获取的需求与现有客户的管理和满意度？ 3. 营销和品牌：您的营销和品牌方法对于吸引新客户有多重要？您是否专注于利基市场或广泛的推广？哪些平台产生了最佳的投资回报率？ 4. 定价策略：扩展时调整定价结构可能很棘手。您如何制定定价以保持竞争力并确保盈利？对于使双方都满意的合同谈判有什么建议吗？ 5. 运营效率：随着我们规模的扩大，保持运营效率变得至关重要。您实施了哪些工具、流程或方法来简化运营，特别是在客户管理和项目交付方面？ 6. 挑战和解决方案：您在扩展阶段遇到的最大挑战是什么？您是如何克服这些挑战的？回顾过去，您是否会采取不同的做法？ 7. 给其他企业家的建议：最后，当您扩展业务时，您希望有人与您分享任何一般性建议或经验教训吗？ 我完全同意耳朵并准备好从您的经验中学习。创业之旅既令人兴奋又充满挑战，我相信通过分享我们的故事和建议，我们可以共同成长。 预先感谢您的宝贵时间和见解。我期待阅读您的回复并参与有意义的讨论。   由   提交 /u/lustfulproducts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ajabhg/looking_for_tips_on_client_acquisition_for_my/</guid>
       <pubDate>Mon, 05 Feb 2024 06:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>照明</title>
-      <link>https://www.reddit.com/r/automation/comments/1airb7h/illumination/</link>
-      <description><![CDATA[如何基于光照明构建自动化，我想根据光的强度打开和关闭某些东西。我该怎么做？   由   提交 /u/Inside-Intention-351   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1airb7h/illumination/</guid>
-      <pubDate>Sun, 04 Feb 2024 16:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我们的人工智能自动化应用程序的 Alpha 反馈🙏🏻</title>
-      <link>https://www.reddit.com/r/automation/comments/1ahyupb/alpha_feedback_on_our_ai_automation_app/</link>
-      <description><![CDATA[大家好！我的名字是 Krijn（前 OpenAI 产品设计师） 👋🏼 去年，我们一直在构建 Gen4。一款新工具，可让您使用 AI 自动化现有工作流程。您可以使用自然语言以及与您喜爱的应用程序和服务的即插即用集成来指导它，而不是编程。让设置变得简单（快速）。 我们邀请一些初始用户加入我们的封闭 Alpha 版，并且希望来自 Reddit 的反馈！我们真的很兴奋，迫不及待想听听您的想法！ 🤗 使用此临时链接注册我们的 Alpha   由   提交 /u/krijnr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ahyupb/alpha_feedback_on_our_ai_automation_app/</guid>
-      <pubDate>Sat, 03 Feb 2024 15:40:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
