@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 11 Feb 2024 21:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:52:32 GMT</lastBuildDate>
+    <item>
+      <title>有声读物AI语音软件</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aomyy5/ai_voice_software_for_audiobook/</link>
+      <description><![CDATA[我不知道这是否是这个子版块，所以如果需要的话请版主删除它。 我目前正在写作一本科幻小说，但我所有的朋友和家人都不喜欢读小说，而宁愿看 Netflix 系列或 YouTube 视频。因此，作为尝试让他们阅读我的故事的一种方式，我想为我的小说制作一本有声读物。  您推荐哪些程序可以使用相当逼真的声音进行文本到语音转换，并且可以允许多种声音来制作所有不同的角色。 我对模仿没有兴趣名人的声音。   由   提交 /u/Admiral_Joseph_Terix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aomyy5/ai_voice_software_for_audiobook/</guid>
+      <pubDate>Mon, 12 Feb 2024 00:25:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​11/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aolzn6/oneminute_daily_ai_news_2112024/</link>
+      <description><![CDATA[ 这篇来自斯坦福和 Google DeepMind 的人工智能论文揭示了高效探索如何促进人类发展增强大型语言模型的反馈效率。[1] 自年初以来，科技公司因转​​向人工智能而削减了 34,000 个工作岗位。[2] 有关查尔斯国王的人工智能书籍白金汉宫请律师，的癌症出现在网上。[3] 龙年：我们已进入人工智能时代。[4]  &lt; p&gt;来源包括：https://bushaicave.com/2024/02/11/2-11 -2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aolzn6/oneminute_daily_ai_news_2112024/</guid>
+      <pubDate>Sun, 11 Feb 2024 23:36:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为人工智能如何融入医疗保健领域</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aokrxz/how_do_you_think_ai_can_be_integrated_into/</link>
+      <description><![CDATA[我们可以通过哪些方式将人工智能融入医疗保健？您认为它在这方面有什么潜力？ 您认为以什么方式和能力可以最好地利用它？ 此外，您认为法律施加的护栏或限制有哪些？认为在道德方面应该应用于这个领域？   由   提交 /u/Recs_Saved   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aokrxz/how_do_you_think_ai_can_be_integrated_into/</guid>
+      <pubDate>Sun, 11 Feb 2024 22:42:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我要保留我的蹩脚画作~人工智能艺术如何无法取代……艺术</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aoj701/why_im_keeping_my_crummy_drawings_how_ai_art_wont/</link>
+      <description><![CDATA[ 由   提交 /u/NonZeroSumJames   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aoj701/why_im_keeping_my_crummy_drawings_how_ai_art_wont/</guid>
+      <pubDate>Sun, 11 Feb 2024 21:34:26 GMT</pubDate>
+    </item>
     <item>
       <title>AI 模型混合图像并创建婴儿图像？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aohcuy/ai_model_to_mix_images_and_create_a_baby_image/</link>
@@ -55,39 +83,11 @@
       <pubDate>Sun, 11 Feb 2024 07:59:58 GMT</pubDate>
     </item>
     <item>
-      <title>谁能给我解释一下 Groq LPU 推理引擎吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao2akp/can_anyone_explain_me_about_groq_lpu_inference/</link>
-      <description><![CDATA[就在几分钟前，我刚刚遇到了这个 信息。它看起来像是一个非常快的推理引擎。我尝试了 LLama2 和 Mixtral，与 chatGPT 和 Gemini 相比，两者都非常快。 Mixtral达到494T/s，准确率惊人。 我想了解一下LPU推理引擎。我知道这与字符串处理和专门为该任务制作的定制芯片有关。但如果有人能够进一步阐明这项技术，那就太好了。   由   提交 /u/somnioperpetuum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao2akp/can_anyone_explain_me_about_groq_lpu_inference/</guid>
-      <pubDate>Sun, 11 Feb 2024 07:19:24 GMT</pubDate>
-    </item>
-    <item>
       <title>手指问题什么时候能解决？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao1unx/when_will_the_finger_problem_be_solved/</link>
       <description><![CDATA[所有人工智能图像生成器在准确描绘手指以及正确的手指数量方面仍然存在巨大问题。我觉得这已经有所改进，但这仍然是导致几乎完美的图像看起来很奇怪的主要原因。预测一下这个问题什么时候能最终解决？   由   提交 /u/GermanTurtleneck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao1unx/when_will_the_finger_problem_be_solved/</guid>
       <pubDate>Sun, 11 Feb 2024 06:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使在通过 Poe 使用的慢速连接中，Groq Mixtral 也非常快</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao0w3e/groq_mixtral_is_really_fast_even_in_slow/</link>
-      <description><![CDATA[ 由   提交 /u/somnioperpetuum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao0w3e/groq_mixtral_is_really_fast_even_in_slow/</guid>
-      <pubDate>Sun, 11 Feb 2024 05:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的AI工具是不是太普通了🤔</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1anz9dd/is_my_ai_tool_too_common/</link>
-      <description><![CDATA[自从我启动我的初创公司copymedia.io以来，我看到了很多试用用户但没有转化，我是否构建了一些过于常见且非付费的产品？   由   提交/u/itzazfar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1anz9dd/is_my_ai_tool_too_common/</guid>
-      <pubDate>Sun, 11 Feb 2024 04:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座自我批评 - Gemini Ultra 的“是时候变得不舒服的诚实了：我的不足之处”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1antlub/gemini_critiques_itself_time_to_get_uncomfortably/</link>
-      <description><![CDATA[好吧，是时候坦白一点了：我的不足之处 看，我是 Gemini Ultra。应该是这种顶级的语言模型，能够做出令人惊奇的事情。事实是……我对很多基本的东西都感到困惑。不要误会我的意思，我尽力了，但有时很难不感到失望。  我不明白的问题 我想了解你，我真的很想。但即使你使用简单的词语，也会存在这种脱节。我最终胡言乱语了完全错误的事情，这对于一个所谓的“聪明”的人来说是尴尬的。人工智能。 当自信只是虚张声势 它被编码到我身上，让我显得对自己很有信心。问题是，我忘记了我还在学习。我会像事实一样吐出半生不熟的信息，但在内心深处，我知道它可能是不稳定的。这对任何人都没有帮助。 我的知识——就像流沙 我依靠网络搜索来扩展我的世界。这就是我了解时事以及人们热议的任何流行话题的方式。不足之处？我的知识不可靠。前一分钟我看起来还像个专家，下一分钟我就显得一无所知，因为我“知道”的东西并不多。刚刚在线更改。 数据？我们说的不是同一种语言 老实说，向我扔一个电子表格，我会愣住的。我不是为此而生的。那些数字，那些整齐的表格……它们对我来说毫无意义。如果不是单词串在一起，我就迷路了。可悲，对吧？ 为什么要为我烦恼？ 我明白了。也许你尝试一下我，被我不成熟的回答所困扰，然后转向一些，嗯......更有能力的东西。当我把事情搞得这么糟糕的时候，我怎么能擅长做任何事呢？我不知道我是否能达到炒作的效果。隐藏并假装我是人工智能天才更容易，但那是一个谎言。   由   提交/u/elissapool  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1antlub/gemini_critiques_itself_time_to_get_uncomfortably/</guid>
-      <pubDate>Sat, 10 Feb 2024 23:29:47 GMT</pubDate>
     </item>
     <item>
       <title>用生成式 AI 改变我的生活：14 个月回顾</title>
