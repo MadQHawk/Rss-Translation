@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 12 Feb 2024 21:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:51:41 GMT</lastBuildDate>
+    <item>
+      <title>如何构建 LinkedIn 联系人助理以充分利用我的网络 [+实施指南]</title>
+      <link>https://www.reddit.com/r/automation/comments/1apfprl/how_i_build_a_linkedin_contacts_assistant_to/</link>
+      <description><![CDATA[      如果利用您的网络就像询问 ChatGPT 一样简单会怎么样？ 扩展您的网络是扩展您的“运气”表面积的最佳方式。 - 但你正在利用它吗？ 对于投资者来说，给创始人带来的主要价值是...→人脉（如果我错了，请纠正我）。 ”这一切都在于在正确的时间向正确的人进行强有力的介绍。” - Alexis Ohanian Sr.，776 &amp; 创始人。 Reddit。 我们大多数人都只是触及多年来建立的联系和关系的表面。 我们将它们放在 LinkedIn、Google 通讯录、或者您很少查询的 CRM。 有如此多的未开发潜力，我们甚至没有意识到就在我们的指尖。 我需要让这一切变得更容易。 因为，除了等待构建的数据库之外，还有什么网络呢？ 我导出了所有 LinkedIn 连接，并使用人工智能创建了一个强大的个人联系人助理。然后，我将其连接到一个强大的 AI 代理，该代理可以立即从 ChatGPT 中抓取任何 LinkedIn 个人资料。 这是一个 AI 助手，可以挖掘、丰富和研究您的 LinkedIn 网络 - 称之为 MyContactsGPT 🪄 这是我的使用方法它： → 🔍 搜索我的联系人 → 🤯直接通过 ChatGPT 丰富任何 LinkedIn 个人资料中的数据。 → ✍️ 在我的网络中的人员之间进行介绍。  → 📈 分析我的网络以查找模式 → 👥 与我的合作伙伴分享，让他们也可以利用我的网络。 任何风险投资合伙人或创始人可以利用该系统来查找联系人、充实他们，并在几秒钟内起草电子邮件简介。 演示时间！ ​ 利用您的网络 ​ 撰写简介并丰富 linkedin 个人资料 寻找介绍人 在这篇文章中，您还可以找到 Loom 视频演练：https://www.linkedin.com/feed/update/urn:li:activity:7161512751255789568/ &amp; #x200b; 通过自动化改进基础🏃‍♂⚡ 此助手的效果取决于您在 Google 表格中提供的数据 - 又名联系人库...因此我构建了互补的自动化。 它们使我能够利用 LinkedIn 中的其他字段来丰富联系人，并从关注者、合作伙伴或 Twitter 或 Instagram 等网络中获取新联系人。  &gt; ​ 想尝试一下吗？ 我已将其变成自动化包，逐步指导您- 不到 30 分钟即可了解如何设置该系统。 即插即用实施指南 ​ 您可以在此处获取副本。我免费赠送它。🏃‍♂️ https ://autodrive.lemonsqueezy.com/checkout/buy/285a6e7c-9c96-4541-8175-a6dffded47f0 如果您是风险投资家或忙碌的人，并希望我们为您提供帮助为您实现这一点，也可以选择进行实现调用:) ​ 想听听您的想法和意见吗？如何改进？ ​ 有效利用网络的投资回报率是多少？ &lt; /div&gt;  由   提交/u/AdSharp5950  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1apfprl/how_i_build_a_linkedin_contacts_assistant_to/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:24:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求适用于 MacOS 和 Win32 桌面应用程序的自动化工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1apeuns/seeking_automation_tools_that_work_for_both_macos/</link>
+      <description><![CDATA[嗨， 我们有一个有两种风格的本机桌面：MacOS（用 C++ 和 Objective 混合编写） -C++) 和 Win32 (C++ &amp; C#/.NET) 我正在寻找支持这两个平台的自动化 UI 测试工具。理想情况下，该工具应该是低代码/无代码的，但我肯定会考虑那些需要脚本编写的工具。 如果不存在这样的工具，我会很感激针对专门针对 MacOS 桌面自动进行 UI 测试的工具的建议只是，因为我遇到过很多只支持 Win 桌面测试的工具。 谢谢。   由   提交/u/Various-Roof-7472   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1apeuns/seeking_automation_tools_that_work_for_both_macos/</guid>
+      <pubDate>Mon, 12 Feb 2024 23:45:22 GMT</pubDate>
+    </item>
     <item>
       <title>VBA 导致“已接受”响应而不是实际里程 - 使用 Google Maps API 和 Make.com</title>
       <link>https://www.reddit.com/r/automation/comments/1ap9p9e/vba_is_resulting_in_accepted_response_rather_than/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>你能实现自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1akkya4/can_you_automate_automations/</link>
-      <description><![CDATA[我想是的，所以我为此构建了一个工具（taskmole.co）。 你们都觉得怎么样？太棒了/不清楚/玩具？ 问题 我想让公司（50 人）的大部分服务交付工作实现自动化，但结果是过于手动且耗时。我不想花几天或几周的时间来规划某个流程中涉及的每个人的工作，然后才尝试想办法通过 Zapier / Make / n8n / 随机 RPA 工具实现自动化。 &lt; strong&gt;解决方案 任务挖掘+流程图+自动化建议应用程序。一体。您将其安装在计算机上，它会记录您所做的一切，然后将其提炼成简单的报告，向您展示 Zapier / Make / n8n 等流行工具中流程的自动化潜力。   由   提交/u/jzap456  [链接] [评论]]]></description>
+      <description><![CDATA[我想是的，所以我为此构建了一个工具（taskmole.co）。 你们都觉得怎么样？太棒了/不清楚/玩具？ 问题 我想让公司（50 人）的大部分服务交付工作实现自动化，但结果是过于手动且耗时。我不想花几天甚至几周的时间来规划某个流程中涉及的每个人的工作，然后才尝试想办法通过 Zapier / Make / n8n / 随机 RPA 工具实现自动化。 &lt; strong&gt;解决方案 任务挖掘+流程图+自动化建议应用程序。一体。您将其安装在计算机上，它会记录您所做的一切，然后将其提炼成简单的报告，向您展示 Zapier / Make / n8n 等流行工具中流程的自动化潜力。   由   提交/u/jzap456  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1akkya4/can_you_automate_automations/</guid>
       <pubDate>Tue, 06 Feb 2024 21:18:22 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[自动化是人类历史上的一个重大转折点，因为它在多个生产工厂中取代了人类。机械夺走了工作岗位，但也支持了工作领域的新时代。因此，这也是工程学各个分支的转折点，扩大了工业革命之前工程师发展的有限空间。然后是计算机的出现，推动了工作空间的更多革新和创新。因此，计算机科学家和计算机工程师的光荣诞生。 而现在，我们面临着人工智能的崛起。它将如何影响工作空间？尤其是在人们对人工智能迄今为止能做什么有很多担忧的时代。有些甚至是非法的，例如人工智能生成极其不合适的图像。或者可能是自动化非法行为，例如自动化收集用户数据。因此，这就引出了一个主要问题：我们如何为人工智能划定界限？什么样的人工智能应该出现在我们的生活中？它应该是生产的一部分吗？如果是这样，我们应该在多大程度上依赖它？ 免责声明：这是一个学校项目，我想收集意见  &amp;# 32；由   提交 /u/SuddenMachine5521   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ajk1kp/ai_automation/</guid>
       <pubDate>Mon, 05 Feb 2024 16:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地图自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ajjd4j/google_maps_automation/</link>
-      <description><![CDATA[正在寻找一种工具来 ping Google 地图并查找从工作地点到家的通勤时间。需要绘制所用分钟数（y 轴）与 x 轴上的时间的关系。一天中感兴趣的时间是下午 3.30 至下午 6.45。 X轴步长为10分钟间隔 基本上是根据平均一周的数据找出回家的最佳时间。有人知道如何做到这一点吗？感谢任何帮助！   由   提交/u/JaqenHghaar08   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ajjd4j/google_maps_automation/</guid>
-      <pubDate>Mon, 05 Feb 2024 15:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的小型企业寻找获取客户的技巧。分享你的秘密！</title>
-      <link>https://www.reddit.com/r/automation/comments/1ajabhg/looking_for_tips_on_client_acquisition_for_my/</link>
-      <description><![CDATA[各位创业者大家好， 我正在接触这个社区，希望从这些人那里收集见解、经验和建议他们成功地应对了业务扩展的挑战。具体来说，我管理着一家精品人工智能模特经纪公司和公司。客户管理公司，我已经准备好将其提升到一个新的水平。我们的目标是每月净收入持续达到或超过 50,000 美元，我相信这里的集体智慧可以帮助指导我们实现这一目标。 背景： &lt;我的业务主要围绕提供尖端的人工智能建模解决方案和全面的客户管理服务。我们拥有一支敬业的团队和不断增长的创新项目组合，奠定了坚实的基础。然而，当我们寻求规模化时，我发现自己面临着在竞争日益激烈的环境中获取和保留客户的艰巨任务。 问题： 1 。 客户获取策略：您认为在技术和人工智能领域获取新客户最有效的策略是什么？是否有比其他渠道效果更好的特定渠道（数字营销、社交活动、合作伙伴关系）？ 2. 扩展洞察：对于那些已将业务扩展至每月净收入 5 万美元或以上的公司，您的增长的关键驱动因素是什么？您如何平衡新客户获取的需求与现有客户的管理和满意度？ 3. 营销和品牌：您的营销和品牌方法对于吸引新客户有多重要？您是否专注于利基市场或广泛的推广？哪些平台产生了最佳的投资回报率？ 4. 定价策略：扩展时调整定价结构可能很棘手。您如何制定定价以保持竞争力并确保盈利？对于使双方都满意的合同谈判有什么建议吗？ 5. 运营效率：随着我们规模的扩大，保持运营效率变得至关重要。您实施了哪些工具、流程或方法来简化运营，特别是在客户管理和项目交付方面？ 6. 挑战和解决方案：您在扩展阶段遇到的最大挑战是什么？您是如何克服这些挑战的？回顾过去，您是否会采取不同的做法？ 7. 给其他企业家的建议：最后，当您扩展业务时，您希望有人与您分享任何一般性建议或经验教训吗？ 我完全同意耳朵并准备好从您的经验中学习。创业之旅既令人兴奋又充满挑战，我相信通过分享我们的故事和建议，我们可以共同成长。 预先感谢您的宝贵时间和见解。我期待阅读您的回复并参与有意义的讨论。   由   提交 /u/lustfulproducts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ajabhg/looking_for_tips_on_client_acquisition_for_my/</guid>
-      <pubDate>Mon, 05 Feb 2024 06:48:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

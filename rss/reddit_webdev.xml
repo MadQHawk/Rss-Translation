@@ -4,11 +4,74 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 12 Feb 2024 21:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:52:59 GMT</lastBuildDate>
+    <item>
+      <title>使用 Canvas Chart 寻找正确方向的凹口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apg06q/looking_for_a_notch_in_the_right_direction_with/</link>
+      <description><![CDATA[     &lt; td&gt; 我第一次制作饼图/圆环图画布图表，但在定位标签时遇到问题。我需要将它们全部放置在图表的右侧，总是位于他的范围附近。我对这一部分的理解是正确的。 我的问题是我希望所有标签与图表的距离相同，并且具有对称的外观。 我试图进行硬编码它带有条件，但由于标签的宽度而不同。我打赌一定有更好的方法，但我只是不知道该怎么做。 到目前为止我所拥有的： https://preview.redd.it/dadmlr8bw8ic1.png?width=329&amp;format=png&amp;auto= webp&amp;s=13ec4123cb4fe002d5eb2e304caa032e1a586c1c 我需要如何定位标签（Figma 设计）： ​ https://preview.redd.it/tstviwfhz8ic1.png?width=281&amp; ;format=png&amp;auto=webp&amp;s=53947a5dde0a3fd3399f6ccbd6dc37c12906602f函数drawDoughnutChart() {totalProductiveTime =秒ToDdHhMm(totalProductiveTime);总干扰时间=秒数ToDdHhMm(总干扰时间);总中立时间=秒数ToDdHhMm(总中立时间); const data = [ { 标签：&#39;生产&#39;，百分比：百分比生产，颜色：&#39;#f6fb15&#39;，时间：totalProductiveTime }，{ 标签：&#39;中性&#39;，百分比：百分比中性，颜色：&#39;#B1AEAE&#39;，时间：totalNeutralTime }， { 标签：&#39;Distractions&#39;，百分比：percentageDistractions，颜色：&#39;#6bfde3&#39;，时间：totalDistractionsTime } ]; data.sort((a, b) =&gt; b.percentage - a.percentage); data.forEach((entry) =&gt; { addData(entry.percentage,entry.color,entry.label,entry.time); });让大多数X = 0； ctx.clearRect(0, 0, canvas.width, canvas.height); var 总计 = value.reduce((acc, val) =&gt; acc + val, 0); var startAngle = -Math.PI / 34 - 125; var maxValueIndex = value.indexOf(Math.max(...values)); var 最大标签宽度 = 0; for (var i = 0; i &lt; labels.length; i++) { var labelWidth = ctx.measureText(labels[i]).width; if (labelWidth &gt; maxLabelWidth) { maxLabelWidth = labelWidth; } for (var i = maxValueIndex; i  mostX) { mostX = labelX; } else { labelX = mostX; var LabelWidth = ctx.measureText(labels[index]).width; console.log(&#39;LabelWidth&#39;, LabelWidth); ctx.zIndex = &#39;10&#39;; ctx.fillStyle = &#39;#000&#39;; ctx.font = `${ labels[index] === &#39;高效&#39; ? &#39;30px&#39; : &#39;20px&#39; } “这里又是我”，Arial`; ctx.textAlign = &#39;居中&#39;; ctx.fillText(标签[索引], labelX, labelY); var timeLabelText = times[index]; var timeLabelWidth = ctx.measureText(timeLabelText).width + 20; var timeLabelX = labelX &gt;;中心 X ?标签X + 10 : 标签X - 10; ctx.fillStyle = 颜色[索引];令水平除法 = 2.25； if (labels[index] == &#39;生产&#39;) { timeLabelWidth = timeLabelWidth - 10;水平除法 = 2.1； ctx.fillRect( timeLabelX - timeLabelWidth / splitHorizo​​ntally, labelY + 6, timeLabelWidth - 5, 20 ); ctx.font = `${ labels[index] === &#39;高效&#39; ? &#39;16.5px&#39; : &#39;13.5px&#39; } &quot;Inria Sans&quot;, Arial`; ctx.fillStyle = &#39;#000&#39;; ctx.textAlign = &#39;居中&#39;;让verticalPosition = labels[index] === &#39;生产&#39; ？ 22：20； ctx.fillText(timeLabelText, timeLabelX, labelY + 垂直位置);起始角度+=切片角度； } } &gt;    由   提交/u/foottaster123  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apg06q/looking_for_a_notch_in_the_right_direction_with/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一些构建前端的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</link>
+      <description><![CDATA[您好，我是一名正在从事 Web 开发的计算机专业学生。我正在开发一个使用express js作为后端的项目，并计划使用react或vue作为前端。这一切都很好，但我不擅长用 html 和 css 设计东西（我做了两件事，但我都不是很满意）。我向我的一个朋友提到了这一点，他们说我应该在 Figma 中设计它，但仔细查看它似乎实际上并没有原生生成 css/hmtl 文件。我看到还有一些其他工具，例如 Framer 和 Webflow，以及 Figma 插件，但我需要一些帮助来帮助我入门。我真的只是想要一些东西，让我能够轻松地重现我脑海中的布局/设计，并能够将 js 函数连接到元素。这是否存在，或者你们只是在文本编辑器中制作令人惊叹的网站😆 谢谢   由   提交 /u/DeepFrozeOof   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅对 MariaDB 中的特定列进行版本控制/试听（没有触发器？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apfkjy/versioningaudition_only_specific_columns_in/</link>
+      <description><![CDATA[MariaDB 是否支持仅对特定表列而不是整个表进行版本控制/审核（更新/插入/删除查询），或者是唯一的方法手动创建触发器（并在表架构更改时维护它们）？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apfkjy/versioningaudition_only_specific_columns_in/</guid>
+      <pubDate>Tue, 13 Feb 2024 00:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的动态 WordPress 新闻博客上不运行缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apepuc/running_no_caching_on_my_dynamic_wordpress_news/</link>
+      <description><![CDATA[大家好， 网络托管不是我的专长，所以请原谅任何愚蠢的行为。  我经营一个新闻风格的网站/博客，每月有 2 万用户。  目前使用的是 GCP e2-standard -2（2 VCPUS，8GB RAM）Openlitespeed 随着我们发布更新的方式和投放广告的方式发生新变化，我们已禁用缓存插件（WP Fastest Cache）。 这是一个错误的调用吗？缓存有多重要？我们可以不使用缓存吗？  进入 Pingdom：性能等级 72/页面大小 6.7MB/页面加载 4.55 秒/请求者 104  从我的测试来看，页面加载速度并没有那么快如果没有缓存，情况会更糟。  很想听听别人的想法。干杯!    由   提交/u/legofan420  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apepuc/running_no_caching_on_my_dynamic_wordpress_news/</guid>
+      <pubDate>Mon, 12 Feb 2024 23:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Tauri 的前端-->后端发送事件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</link>
+      <description><![CDATA[我正在制作一个小应用程序，它根据配置文件从 api 下载（不是那么重要，但我想无论如何我都会分享它）。我需要将带有用户选择的文件夹路径的字符串发送到后端。但是当我使用 emit 来执行此操作时，它总是解析为带有 some() 和一堆反斜杠的奇怪字符串。  ​ 前端代码片段：  import { open } from &#39;@tauri-apps/api/dialog&#39;;从&#39;@tauri-apps/api/event&#39;导入{emit}； async function showDialog() { const selected = wait open({ 目录: true, multiple: false, }); if (selected !== null) { const selectedValue = Array.isArray(selected) ?选定[0]：选定； selectedDir.set(selectedValue); console.log(selectedValue) 发出(&#39;selectedDirChanged&#39;, selectedValue); } }  后端代码片段： // On tauri::Builder::default() .setup(|app| { app.listen_global( &quot;selectedDirChanged&quot;, |dirchange| { letfolder_dir = dirchange.payload(); println!(&quot;得到路径为 {:#?} 的 selectedDirChanged&quot;,folder_dir); }); Ok(()) })  前端日志：D:\some\very\cool\folder\path 后端日志：got selectedDirChanged with path Some(  “\”D:\\\\some\\\\very\\\\cool\\\\folder\\\\path\&quot;&quot; ;, ) 注意：\\\\是因为windows希望与 \ 不同，它也是转义字符，因为当我用正斜杠替换它时，它只是一个。但这仍然是一个问题。 我已经阅读了所有有关事件的 2 分钟文档，并在网上查找了它，但没有人提到任何有关此的内容。 我是新来的一般编码，因此我们将不胜感激。   由   提交/u/SingleZero27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</guid>
+      <pubDate>Mon, 12 Feb 2024 23:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议：新的简单用户目录平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/</link>
+      <description><![CDATA[寻找一些可考虑开发网站的技术选项。每隔两年左右，我发现自己会做一个网络项目并学习一个新的技术平台来完成它。我正要开始另一个，但我太脱离现实了，我希望 Reddit 的好心人能帮助我缩小我应该考虑的选择范围。 我十年前就使用过 WP，但每次都这样我最近走近它，发现它又丑又臃肿（我错了吗 - 告诉我是否是这样？）。我当前的网站基本上是手工剪裁并使用 Hugo 构建的 - 没有 CMS，根本没有数据库或后端（不过速度很快）。这不适用于我的新项目。 我有一个新项目，我想将其放在一起。 这将是一种目录站点。有几个主页，简单的主题，用户可以在其中注册并创建他们的个人资料（提供服务），最好用他们的专业领域和服务的地理位置来标记他们的个人资料。  例如，如果这些是摄影师，他们可能会标记“婚礼”、“公司”、“肖像”等服务，然后标记“悉尼”、“墨尔本”等区域。 [我会想要限制实际可用的标签] 然后访问者可以搜索 weddings/Sydney 来查找人员并直接联系。这类事情。 所以我正在寻找一个开始的地方（10 年前是 WP）——我太脱离现实了，我不知道什么是当前的、好的、稳定的，并得到很好的支持。  [我精通技术 - 在技术行业工作了几十年，但不是这一部分，很高兴学习新东西以正确地完成工作，但不热衷于维护 CMS 所需的所有后端，并且我应该能够获取已经制作和维护的用户注册系统]。 十年前，我就开始使用 WP，看看我能找到什么。它有用户配置文件位、数据库和标签等。还有 Xenforo（我知道是随机的，但至少我知道它在那里）。 您会考虑什么来启动这样的项目？  欢迎您提出想法和想法。   由   提交/u/gerardv-anz  /u/gerardv-anz  reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/</guid>
+      <pubDate>Mon, 12 Feb 2024 22:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我笑了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</link>
+      <description><![CDATA[       由   提交/u/the_dancing_squirel  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</guid>
+      <pubDate>Mon, 12 Feb 2024 22:40:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么建议可以从事副业吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apc6kw/suggestions_for_which_area_to_side_hustle/</link>
+      <description><![CDATA[工作愉快，但有兴趣在晚上/周末接待一些副业客户，想知道什么是最有利可图、最受欢迎但最不耗时的服务专注在？为小型企业建立网站？为中型企业构建网络应用程序？为没有全职开发人员的公司管理/维护事物？基于票据的保留任何东西？   由   提交 /u/indiealaska   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apc6kw/suggestions_for_which_area_to_side_hustle/</guid>
+      <pubDate>Mon, 12 Feb 2024 21:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>加载文本问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apb5jm/loading_text_question/</link>
+      <description><![CDATA[嗨！ 我正在开发我的 React/NextJs 应用程序，我有一个关于“loading”行业标准的问题。 ..”文本。 在我的应用程序中，某些页面仅应在用户经过身份验证/授权后才能访问。这些多个页面显示“正在加载...”。文本，同时检查用户是否登录。如果用户已登录，则会呈现正确的页面。如果用户没有登录，则显示“登录”。组件将呈现。代码的工作原理如下： function(){ if (loading) { return( Loading... ) } else if (userId===null){ return(  ) } return (  ) }  我的问题是，使用此方法，多个页面我的网站有一个 0.5 秒的“正在加载...”渲染正确页面之前的文本。这是行业标准吗？如果有“正在加载...”在我网站的大部分页面上显示 0.5 秒的文本可以接受吗？如果没有，更好的方法是什么？ ​ 谢谢！  &amp; #32；由   提交/u/Intelligent_Sugar207   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apb5jm/loading_text_question/</guid>
+      <pubDate>Mon, 12 Feb 2024 21:11:43 GMT</pubDate>
+    </item>
     <item>
       <title>有人的工作场所使用非捆绑客户端吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1apaha3/anyones_workplace_using_unbundled_client/</link>
-      <description><![CDATA[https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7 这个恕我直言，这篇文章让它变得比需要的更复杂，因为大多数人的主要障碍可能不是 100% PageSpeed，更重要的是，这可能只是没有意识到，但它明白了要点。 我已经单独做这个工作很长时间了，但我想知道团队如何找到它（如果有的话）。 除了这种零构建、零固执己见的风格之外，还带来了极大的灵活性，但这是一个两个问题可能是团队的利剑。   由   提交/u/elendee  [链接] [评论]]]></description>
+      <description><![CDATA[https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7 我多年来我一直在单独做这件事，但我想知道团队如何找到它（如果有的话）。 除了零捆绑、零意见风格之外，还带来了极大的灵活性，但这是一个对于一个团队来说可能是一把两刃剑。   由   提交/u/elendee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1apaha3/anyones_workplace_using_unbundled_client/</guid>
       <pubDate>Mon, 12 Feb 2024 20:45:18 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ap7xad/weird_things_engineers_believe_about_web/</guid>
       <pubDate>Mon, 12 Feb 2024 19:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我在打开笔记本电脑之前就感到精疲力竭，我该如何强迫自己去工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap7geh/how_do_i_force_myself_to_work_if_i_feel_exhausted/</link>
-      <description><![CDATA[我的职责总是落后于计划，我担心他们会因为表现不佳而解雇我 远程工作，3岁，大公司，这份工作98%只是写代码   由   提交/u/Deep-Philosophy-807   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap7geh/how_do_i_force_myself_to_work_if_i_feel_exhausted/</guid>
-      <pubDate>Mon, 12 Feb 2024 18:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您还能在没有感染病毒的情况下访问 Frontpage 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap7frd/can_you_still_get_frontpage_without_getting_a/</link>
-      <description><![CDATA[Microsoft Frontpage 2003 看起来是我制作网站的完美方式，同时赋予其复古美感，但我找不到包含以下内容的链接：有机会用病毒破坏我的电脑。我可以在哪里获取 Frontpage 2003 并在 Windows 10 上运行它，它对构建我的个人网站有帮助吗？   由   提交/u/ChemicalPanda10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap7frd/can_you_still_get_frontpage_without_getting_a/</guid>
-      <pubDate>Mon, 12 Feb 2024 18:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>调度架构解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap7fk6/architecture_solution_for_scheduling/</link>
-      <description><![CDATA[我正在设计一个有一些奇怪要求的平台。它与 n8n.io 和其他类似平台类似。 人们可以添加操作。有些行动每周、每天等都会发生。这很简单。基本上是一个cron。比如，每周发送电子邮件。  不幸的是，某些操作会在某些事件经过 n 次后才会发生。例如，在某人退房半小时后发送电子邮件。这是有问题的。 我能想到的唯一实现方法是让某种调度程序工作人员在经过 n 时间后循环遍历所有这些事件和触发器，但肯定需要已经专门为此提供了一些服务，但真的想不出什么。 SNS和Kafka似乎没有它，除非我找不到它。    由   提交 /u/edhelatar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap7fk6/architecture_solution_for_scheduling/</guid>
-      <pubDate>Mon, 12 Feb 2024 18:45:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 PHP/mySQL 虚拟主机？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap5xv5/modern_phpmysql_web_hosting/</link>
-      <description><![CDATA[我只是想说我不是专业人士。我白天是一名 IT 人员，忙于网络开发。我所做的大部分工作都是自行托管的，因此我正在寻找一个地方来开始开发网络应用程序作为小型企业。它需要 PHP（如果可能的话，希望使用 Composer）、mySQL 以及一种发送电子邮件的简单方法，甚至可能上传/访问云托管文件（如 Amazon S3 等）。还需要一个类似 cpanel 的系统来管理它（设置 cron 作业或计划任务将非常有帮助）。 ​ 是否有任何“”？行业标准领导者”你会推荐吗？我认为目前我的要求应该是基本和通用的，但我很好奇人们现在在使用什么。   由   提交/u/thingmabobby   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap5xv5/modern_phpmysql_web_hosting/</guid>
-      <pubDate>Mon, 12 Feb 2024 17:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何在 2 小时内构建并启动人工智能求职板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4ymd/how_i_built_and_launched_a_job_board_for_ai_in_2/</link>
-      <description><![CDATA[       由   提交 /u/WordyBug   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4ymd/how_i_built_and_launched_a_job_board_for_ai_in_2/</guid>
-      <pubDate>Mon, 12 Feb 2024 17:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么（除了长时间运行的 javascript 或布局）会导致丢帧？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4lgt/what_besides_longrunning_javascript_or_layout_can/</link>
-      <description><![CDATA[      这是我在 Chrome 中捕获的性能跟踪，显示大多数帧被丢弃（红色方块），但没有长时间运行的代码或布局明显导致这些帧丢失。帧通过网络传输，因此我怀疑它可能是网络绑定的（我在同事的计算机上捕获了跟踪，因此我必须去检查），但我不希望这会导致客户端出现丢帧警告。任何其他可能导致 Chrome 显示“丢帧”的情况警告？ https://preview .redd.it/n7wjd1fvo6ic1.png?width=594&amp;format=png&amp;auto=webp&amp;s=4807204f2b823d485fdc463b722cb4a825025915   由   提交/u/BENWILEY4000   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4lgt/what_besides_longrunning_javascript_or_layout_can/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>你去哪里上网？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4eqv/where_do_you_go_to_network/</link>
-      <description><![CDATA[亲自或在线。顺便说一句，我在西澳。    由   提交/u/future_web_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4eqv/where_do_you_go_to_network/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何处理我自己的 npm 包中的依赖项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap4818/how_should_i_be_handling_dependencies_in_my_own/</link>
-      <description><![CDATA[我创建了一个使用现有包作为依赖项的包，但是当我安装自己的包时，我应该如何处理我的依赖项？我有一些想法：  将它们设置为我的包中的 PeerDependency。 运行 npm i &amp;&amp; npx tsc 在 postinstall 挂钩中。我安装依赖项，在安装的包中创建一个新的节点模块目录。它看起来像这样：   /my-repo ---/node_modules ------/my-package ---------/ node_modules   提供我自己的类型定义，我宁愿重用它们。 此外，将代码转译为dist 并将节点模块推送到 GitHub。现在不需要转译任何东西，因为一切都在那里。  有人吗？ 注意：包是基于 TypeScript 的。 编辑1：这是我第三次在子帖子上发布此内容。我希望这次有人能帮助我。   由   提交 /u/CannotStopMeOnReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap4818/how_should_i_be_handling_dependencies_in_my_own/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aceternity：用于构建登陆页面的 UI 库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap45ii/aceternity_ui_library_for_building_landing_pages/</link>
-      <description><![CDATA[   /u/pink_tshirt  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap45ii/aceternity_ui_library_for_building_landing_pages/</guid>
-      <pubDate>Mon, 12 Feb 2024 16:34:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
