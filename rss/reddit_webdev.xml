@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 03:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 06:17:58 GMT</lastBuildDate>
+    <item>
+      <title>确保用户只能在我的 API 中更新自己的记录的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apmqq7/whats_the_best_way_to_make_sure_a_user_can_only/</link>
+      <description><![CDATA[大家好， 我正在使用 NestJS 创建一个 API，尽管我不认为这依赖于框架，而且我我正在努力确保用户只能更新他们自己在我的数据库中的记录。使用典型的 REST API 标准，其中 DELETE 端点在 url 中具有要删除的资源的 id，那么仅允许该资源的所有者进行删除的最佳方法是什么？ JWT 有其中用户的 uid，我可以先查询数据库并检查它是否属于该用户，但我觉得这增加了一堆额外的查询。  想法？   由   提交/u/wojo1086  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apmqq7/whats_the_best_way_to_make_sure_a_user_can_only/</guid>
+      <pubDate>Tue, 13 Feb 2024 06:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Http 标头中的 Cookie、Set-cookie 和 set-cookie2 有什么区别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apm0sy/whats_the_dofference_between_cookie_setcookie_and/</link>
+      <description><![CDATA[标题   由   提交 /u/PrimaDony   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apm0sy/whats_the_dofference_between_cookie_setcookie_and/</guid>
+      <pubDate>Tue, 13 Feb 2024 05:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Express.js 垃圾 PR 事件凸显开源的商品化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aple73/expressjs_spam_prs_incident_highlights_the/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aple73/expressjs_spam_prs_incident_highlights_the/</guid>
+      <pubDate>Tue, 13 Feb 2024 05:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>从遗留存档重建？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apkx8w/rebuild_from_legacy_archive/</link>
+      <description><![CDATA[你们中有人知道网络开发商店会从 archive.org 集合中重建一个死掉的网站吗？ 该网站已经很旧了，需要从头开始重新设计。这是我认为大多数商店可以/将会轻松完成的简单部分。我想知道是否有人能够从 archive.org（或他们提供给我的存档 html）抓取/抓取遗留数据并将其注入新网站。 如果你能指出我对于个人/公司来说，这将是非常棒的！   由   提交 /u/DmC8pR2kZLzdCQZu3v   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apkx8w/rebuild_from_legacy_archive/</guid>
+      <pubDate>Tue, 13 Feb 2024 04:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约有聚会吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apkdc7/any_meetups_in_nyc/</link>
+      <description><![CDATA[我希望与其他人建立一些联系并编写代码。不确定纽约地区是否有人已经参与了可以帮助我的事情。  否则，我该如何寻找见面机会呢？我用谷歌搜索过，但没有真正显示出来。   由   提交 /u/little_hoarse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apkdc7/any_meetups_in_nyc/</guid>
+      <pubDate>Tue, 13 Feb 2024 04:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会如何建造这样的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apk9wb/how_would_you_build_something_like_this/</link>
+      <description><![CDATA[ 由   提交 /u/MobyFreak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apk9wb/how_would_you_build_something_like_this/</guid>
+      <pubDate>Tue, 13 Feb 2024 04:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>孤立域并且必须保留电子邮件 DNS 记录</title>
       <link>https://www.reddit.com/r/webdev/comments/1apj4z2/orphaned_a_domain_and_have_to_preserve_email_dns/</link>
-      <description><![CDATA[      我刚刚获得了一个旧 GoDaddy 域名的所有权，该域名已经拥有指向网络托管和电子邮件的自定义名称服务器。我对这些服务的提供商并不熟悉，而且我仍然不确定我是否知道电子邮件服务提供商的名称。 我需要更改 DNS 记录，以便它指向新的网络主机。我通过删除自定义域名服务器并恢复到 GoDaddy 默认域名服务器来做到这一点。然后我添加了指向新虚拟主机的 A 记录，它适用于虚拟主机。但是电子邮件坏了，这在我的预料之中。 我真的不知道如何让电子邮件恢复正常工作，因为我不了解我正在查看的旧 DNS 配置是否允许电子邮件。在进行更改之前，我有一些 DNS 配置的屏幕截图。 ​ 旧的 GoDaddy 自定义域名服务器（我已删除） ​ &lt; a href=&quot;https://preview.redd.it/dja0mofjq9ic1.png?width=2362&amp;format=png&amp;auto=webp&amp;s=c4725e47668b5264b894c79583fe6d916ff16527&quot;&gt;通过 who.is 运行时的 DNS 记录（在我进行任何更改之前）  图像中现有的 MX 记录只是指向该域。我尝试复制该内容，但没有成功。 知道如何恢复电子邮件吗？   由   提交/u/pvJ0w4HtN5   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我刚刚获得了一个旧 GoDaddy 域名的所有权，该域名已经拥有指向网络托管和电子邮件的自定义名称服务器。我对这些服务的提供商并不熟悉，而且我仍然不确定我是否知道电子邮件服务提供商的名称。 我需要更改 DNS 记录，以便它指向新的网络主机。我通过删除自定义域名服务器并恢复到 GoDaddy 默认域名服务器来做到这一点。然后我添加了指向新虚拟主机的 A 记录，它适用于虚拟主机。但是电子邮件坏了，这在我的预料之中。 我真的不知道如何让电子邮件恢复正常工作，因为我不了解我正在查看的旧 DNS 配置是否允许电子邮件。在进行更改之前，我有一些 DNS 配置的屏幕截图。 ​ 旧的 GoDaddy 自定义域名服务器（我已删除） ​ &lt; a href=&quot;https://preview.redd.it/dja0mofjq9ic1.png?width=2362&amp;format=png&amp;auto=webp&amp;s=c4725e47668b5264b894c79583fe6d916ff16527&quot;&gt;通过 who.is 运行时的 DNS 记录（在我进行任何更改之前）  图像中现有的 MX 记录只是指向该域。我尝试复制该内容，但没有成功。 知道如何恢复电子邮件吗？ 编辑：在进行任何更改之前，唯一的自定义设置是我上面图片中的名称服务器。除此之外，没有现有的自定义 DNS 记录，因此我不知道除了那些自定义名称服务器之外我还应该查找哪些其他现有信息。  &amp; #32；由   提交/u/pvJ0w4HtN5   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1apj4z2/orphaned_a_domain_and_have_to_preserve_email_dns/</guid>
       <pubDate>Tue, 13 Feb 2024 03:06:01 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>JSDOM 未运行 javascript</title>
       <link>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</link>
-      <description><![CDATA[我在使用 JSDOM 时遇到了问题。由于某种原因，我的 Jest 单元测试似乎在 JavaScript 加载之前运行。如何确保在测试运行之前加载 JavaScript？ HTML 有一个脚本标签 。 ​ import {fireEvent, getByTestId} 来自“@testing-library/dom”从“路径”导入{目录名}；导入“@testing-library/jest-dom”从“jsdom”导入 jsdom, {JSDOM}从“路径”导入路径从“url”导入{ fileURLToPath }； const __filename = fileURLToPath(import.meta.url); const __dirname = dirname(__filename); const BASE = path.resolve(__dirname, &quot;./src&quot;) let virtualConsole let dom, body描述(&quot;手风琴测试&quot;, function () { beforeEach(async () =&gt; { dom = wait JSDOM.fromFile( path.join(BASE, &#39;/index.html&#39;), { url: `${BASE}`, runScripts: &quot;dangerously&quot;, resources: &quot;usable&quot;, fakeToBeVisual: true, // virtualConsole }) body = dom .window.document.body }) it(&#39;显示默认展开的第一个项目描述&#39;, async function () { const Accordion1 = getByTestId(body, &#39;1&#39;) const description1 = Accordion1.querySelector(&#39;.description&#39;) Expect (description1).toBeVisible() const ids = [&#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;] for (const id of ids) { const Accordion = getByTestId(body, id) const description = Accordion.querySelector (&#39;.description&#39;) Expect(description).not.toBeVisible() } }) .....  ​    提交者   /u/False-Owl8404   [链接] [评论]]]></description>
+      <description><![CDATA[我在使用 JSDOM 时遇到了问题。由于某种原因，我的 Jest 单元测试似乎在 JavaScript 加载之前运行。如何确保在测试运行之前加载 JavaScript？ HTML 有一个脚本标签 。 ​ import {fireEvent, getByTestId} 来自“@testing-library/dom”从“路径”导入{目录名}；导入“@testing-library/jest-dom”从“jsdom”导入 jsdom, {JSDOM}从“路径”导入路径从“url”导入{ fileURLToPath }； const __filename = fileURLToPath(import.meta.url); const __dirname = dirname(__filename); const BASE = path.resolve(__dirname, &quot;./src&quot;) let virtualConsole let dom, body描述(&quot;手风琴测试&quot;, function () { beforeEach(async () =&gt; { dom = wait JSDOM.fromFile( path.join(BASE, &#39;/index.html&#39;), { url: `${BASE}`, runScripts: &quot;危险&quot;, resources: &quot;可用&quot;, fakeToBeVisual: true, // virtualConsole }) body = dom .window.document.body }) it(&#39;显示默认展开的第一个项目描述&#39;, async function () { const Accordion1 = getByTestId(body, &#39;1&#39;) const description1 = Accordion1.querySelector(&#39;.description&#39;) Expect (description1).toBeVisible() const ids = [&#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;] for (const id of ids) { const Accordion = getByTestId(body, id) const description = Accordion.querySelector (&#39;.description&#39;) Expect(description).not.toBeVisible() } }) .....  ​    提交者   /u/False-Owl8404   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</guid>
       <pubDate>Tue, 13 Feb 2024 01:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一些构建前端的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</link>
-      <description><![CDATA[您好，我是一名正在从事 Web 开发的计算机专业学生。我正在开发一个使用express js作为后端的项目，并计划使用react或vue作为前端。这一切都很好，但我不擅长用 html 和 css 设计东西（我做了两件事，但我都不是很满意）。我向我的一个朋友提到了这一点，他们说我应该在 Figma 中设计它，但仔细查看它似乎实际上并没有原生生成 css/hmtl 文件。我看到还有一些其他工具，例如 Framer 和 Webflow，以及 Figma 插件，但我需要一些帮助来帮助我入门。我真的只是想要一些东西，让我能够轻松地重现我脑海中的布局/设计，并能够将 js 函数连接到元素。这是否存在，或者你们只是在文本编辑器中制作令人惊叹的网站😆 谢谢   由   提交 /u/DeepFrozeOof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</guid>
-      <pubDate>Tue, 13 Feb 2024 00:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅对 MariaDB 中的特定列进行版本控制/试听（没有触发器？）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apfkjy/versioningaudition_only_specific_columns_in/</link>
-      <description><![CDATA[MariaDB 是否支持仅对特定表列而不是整个表进行版本控制/审核（更新/插入/删除查询），或者是唯一的方法手动创建触发器（并在表架构更改时维护它们）？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apfkjy/versioningaudition_only_specific_columns_in/</guid>
-      <pubDate>Tue, 13 Feb 2024 00:17:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的动态 WordPress 新闻博客上不运行缓存</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apepuc/running_no_caching_on_my_dynamic_wordpress_news/</link>
-      <description><![CDATA[大家好， 网络托管不是我的专长，所以请原谅任何愚蠢的行为。  我经营一个新闻风格的网站/博客，每月有 2 万用户。  目前使用的是 GCP e2-standard -2（2 VCPUS，8GB RAM）Openlitespeed 随着我们发布更新的方式和投放广告的方式发生新变化，我们已禁用缓存插件（WP Fastest Cache）。 这是一个错误的调用吗？缓存有多重要？我们可以不使用缓存吗？  进入 Pingdom：性能等级 72/页面大小 6.7MB/页面加载 4.55 秒/请求者 104  从我的测试来看，页面加载速度并没有那么快如果没有缓存，情况会更糟。  很想听听别人的想法。干杯!    由   提交/u/legofan420  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apepuc/running_no_caching_on_my_dynamic_wordpress_news/</guid>
-      <pubDate>Mon, 12 Feb 2024 23:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Tauri 的前端-->后端发送事件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</link>
-      <description><![CDATA[我正在制作一个小应用程序，它根据配置文件从 api 下载（不是那么重要，但我想无论如何我都会分享它）。我需要将带有用户选择的文件夹路径的字符串发送到后端。但是当我使用 emit 来执行此操作时，它总是解析为带有 some() 和一堆反斜杠的奇怪字符串。  ​ 前端代码片段：  import { open } from &#39;@tauri-apps/api/dialog&#39;;从&#39;@tauri-apps/api/event&#39;导入{emit}； async function showDialog() { const selected = wait open({ 目录: true, multiple: false, }); if (selected !== null) { const selectedValue = Array.isArray(selected) ?选定[0]：选定； selectedDir.set(selectedValue); console.log(selectedValue) 发出(&#39;selectedDirChanged&#39;, selectedValue); } }  后端代码片段： // On tauri::Builder::default() .setup(|app| { app.listen_global( &quot;selectedDirChanged&quot;, |dirchange| { letfolder_dir = dirchange.payload(); println!(&quot;得到路径为 {:#?} 的 selectedDirChanged&quot;,folder_dir); }); Ok(()) })  前端日志：D:\some\very\cool\folder\path 后端日志：got selectedDirChanged with path Some(  “\”D:\\\\some\\\\very\\\\cool\\\\folder\\\\path\&quot;&quot; ;, ) 注意：\\\\是因为windows希望与 \ 不同，它也是转义字符，因为当我用正斜杠替换它时，它只是一个。但这仍然是一个问题。 我已经阅读了所有有关事件的 2 分钟文档，并在网上查找了它，但没有人提到任何有关此的内容。 我是新来的一般编码，因此我们将不胜感激。   由   提交/u/SingleZero27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</guid>
-      <pubDate>Mon, 12 Feb 2024 23:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求建议：新的简单用户目录平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/</link>
-      <description><![CDATA[寻找一些可考虑开发网站的技术选项。每隔两年左右，我发现自己会做一个网络项目并学习一个新的技术平台来完成它。我正要开始另一个，但我太脱离现实了，我希望 Reddit 的好心人能帮助我缩小我应该考虑的选择范围。 我十年前就使用过 WP，但每次都这样我最近走近它，发现它又丑又臃肿（我错了吗 - 告诉我是否是这样？）。我当前的网站基本上是手工剪裁并使用 Hugo 构建的 - 没有 CMS，根本没有数据库或后端（不过速度很快）。这不适用于我的新项目。 我有一个新项目，我想将其放在一起。 这将是一种目录站点。有几个主页，简单的主题，用户可以在其中注册并创建他们的个人资料（提供服务），最好用他们的专业领域和服务的地理位置来标记他们的个人资料。  例如，如果这些是摄影师，他们可能会标记“婚礼”、“公司”、“肖像”等服务，然后标记“悉尼”、“墨尔本”等区域。 [我会想要限制实际可用的标签] 然后访问者可以搜索 weddings/Sydney 来查找人员并直接联系。这类事情。 所以我正在寻找一个开始的地方（10 年前是 WP）——我太脱离现实了，我不知道什么是当前的、好的、稳定的，并得到很好的支持。  [我精通技术 - 在技术行业工作了几十年，但不是这一部分，很高兴学习新东西以正确地完成工作，但不热衷于维护 CMS 所需的所有后端，并且我应该能够获取已经制作和维护的用户注册系统]。 十年前，我就开始使用 WP，看看我能找到什么。它有用户配置文件位、数据库和标签等。还有 Xenforo（我知道是随机的，但至少我知道它在那里）。 您会考虑什么来启动这样的项目？  欢迎您提出想法和想法。   由   提交/u/gerardv-anz  /u/gerardv-anz  reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apdcl4/advice_sought_platform_for_new_simple_user/</guid>
-      <pubDate>Mon, 12 Feb 2024 22:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我笑了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</link>
-      <description><![CDATA[       由   提交/u/the_dancing_squirel  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</guid>
-      <pubDate>Mon, 12 Feb 2024 22:40:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
