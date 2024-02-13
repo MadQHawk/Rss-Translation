@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 13 Feb 2024 18:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 21:13:03 GMT</lastBuildDate>
     <item>
-      <title>植物病害检测仪</title>
-      <link>https://www.opensourceagenda.com/projects/plant-disease-detector</link>
-      <description><![CDATA[人工智能驱动的植物病害检测和援助平台目前可作为应用程序和 API 提供。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/plant-disease-detector</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:42 GMT</pubDate>
+      <title>周五操作系统副驾驶</title>
+      <link>https://www.opensourceagenda.com/projects/os-copilot-friday</link>
+      <description><![CDATA[一个自我改进的具体对话代理，无缝集成到操作系统中，以自动执行我们的日常任务。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/os-copilot-friday</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>严苛Android微信</title>
-      <link>https://www.opensourceagenda.com/projects/harshandroid-wechat</link>
-      <description><![CDATA[使用 Firebase 在 Flutter 中聊天应用程序 |飞镖]]></description>
-      <guid>https://www.opensourceagenda.com/projects/harshandroid-wechat</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:41 GMT</pubDate>
+      <title>智能广场</title>
+      <link>https://www.opensourceagenda.com/projects/pkl-intellij</link>
+      <description><![CDATA[提供 Pkl 语言支持的 JetBrains 编辑器插件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pkl-intellij</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>Nextjs 13 Firebase 入门版</title>
-      <link>https://www.opensourceagenda.com/projects/nextjs-13-firebase-starter</link>
-      <description><![CDATA[用于使用 Firebase 构建 Next.js 13 应用程序的入门模板。它为开发具有服务器端渲染、身份验证和实时数据同步的现代 Web 应用程序提供了坚实的基础。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nextjs-13-firebase-starter</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:41 GMT</pubDate>
+      <title>黄金GDT遗产</title>
+      <link>https://www.opensourceagenda.com/projects/goldgdt-legacy</link>
+      <description><![CDATA[Godot 的 GoldSrc 角色控制器插件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/goldgdt-legacy</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>Flarebase 授权</title>
-      <link>https://www.opensourceagenda.com/projects/flarebase-auth</link>
-      <description><![CDATA[适用于 Cloudflare Workers 的 Firebase/Admin Auth Javascript 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flarebase-auth</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:41 GMT</pubDate>
+      <title>贸易革命经理</title>
+      <link>https://www.opensourceagenda.com/projects/trade-revolution-manager</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/trade-revolution-manager</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>健康化</title>
-      <link>https://www.opensourceagenda.com/projects/healthify</link>
-      <description><![CDATA[Healthify - 一款用于跟踪您每日饮水量和睡眠情况并提高工作效率的应用程序。 Healthify 使用 Kotlin 构建，遵循所有现代 Android 开发实践，因此对于初学者来说是一个很好的学习资源]]></description>
-      <guid>https://www.opensourceagenda.com/projects/healthify</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:41 GMT</pubDate>
+      <title>EDR预加载器</title>
+      <link>https://www.opensourceagenda.com/projects/edr-preloader</link>
+      <description><![CDATA[EDR​​ 绕过，通过劫持 AppVerifier 层来防止 EDR 挂钩或将 DLL 加载到我们的进程中&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/edr-preloader</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>Firestore美丽搜索</title>
-      <link>https://www.opensourceagenda.com/projects/firestore-meilisearch</link>
-      <description><![CDATA[使用 Meil​​isearch 在 Firebase 上进行全文搜索]]></description>
-      <guid>https://www.opensourceagenda.com/projects/firestore-meilisearch</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:40 GMT</pubDate>
+      <title>丽娜演讲</title>
+      <link>https://www.opensourceagenda.com/projects/lina-speech</link>
+      <description><![CDATA[lina-speech：基于线性注意力的文本转语音]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lina-speech</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>Flutter Firebase 完整新闻应用</title>
-      <link>https://www.opensourceagenda.com/projects/flutter-firebase-full-news-app</link>
-      <description><![CDATA[Flutter Firebase 完整应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flutter-firebase-full-news-app</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:40 GMT</pubDate>
+      <title>免费通用机器人应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/free-general-bot-app</link>
+      <description><![CDATA[generalfoss 开源免费通用机器人应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/free-general-bot-app</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>沙舍克提普托普</title>
-      <link>https://www.opensourceagenda.com/projects/shashiirk-tiptop</link>
-      <description><![CDATA[男士网上购物]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shashiirk-tiptop</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:40 GMT</pubDate>
+      <title>赌场赢家机器人 80 机会</title>
+      <link>https://www.opensourceagenda.com/projects/casino-winner-bot-80-chance</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/casino-winner-bot-80-chance</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>颤动预设</title>
-      <link>https://www.opensourceagenda.com/projects/flutter-presetup</link>
-      <description><![CDATA[预设置 flutter 应用程序，包括风格、riverpod、go router 和本地化]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flutter-presetup</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:40 GMT</pubDate>
+      <title>配置目录</title>
+      <link>https://www.opensourceagenda.com/projects/config-dir</link>
+      <description><![CDATA[📁 .config/ 目录的提案。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/config-dir</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>Flutter Firebase 大师班</title>
-      <link>https://www.opensourceagenda.com/projects/flutter-firebase-masterclass</link>
-      <description><![CDATA[Flutter 和 Firebase 大师班]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flutter-firebase-masterclass</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:40 GMT</pubDate>
+      <title>指南通用应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/guide-general-app</link>
+      <description><![CDATA[generalguidecorporation 通用应用产品用户指南]]></description>
+      <guid>https://www.opensourceagenda.com/projects/guide-general-app</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dart Firebase 管理员</title>
-      <link>https://www.opensourceagenda.com/projects/dart-firebase-admin</link>
-      <description><![CDATA[🔥 适用于 Dart 的 Firebase 管理 SDK。 （开发中）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dart-firebase-admin</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:39 GMT</pubDate>
+      <title>免费的 General Discord 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/free-general-discord-bot</link>
+      <description><![CDATA[generalfoss 免费开源通用 Discord 机器人]]></description>
+      <guid>https://www.opensourceagenda.com/projects/free-general-discord-bot</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>反应用户界面</title>
-      <link>https://www.opensourceagenda.com/projects/react-ul</link>
-      <description><![CDATA[React 课程的代码文件。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/react-ul</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:39 GMT</pubDate>
+      <title>指南一般 Discord 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/guide-general-discord-bot</link>
+      <description><![CDATA[generalguidecorporation 使用常规 Discord 机器人产品的说明]]></description>
+      <guid>https://www.opensourceagenda.com/projects/guide-general-discord-bot</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kanika637 亚马逊克隆</title>
-      <link>https://www.opensourceagenda.com/projects/kanika637-amazon-clone</link>
-      <description><![CDATA[克隆亚马逊网站]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kanika637-amazon-clone</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:39 GMT</pubDate>
+      <title>指南通用机器人应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/guide-general-bot-app</link>
+      <description><![CDATA[generalguidecorporation 使用通用机器人应用产品的说明]]></description>
+      <guid>https://www.opensourceagenda.com/projects/guide-general-bot-app</guid>
+      <pubDate>Tue, 13 Feb 2024 21:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>实时位置追踪器 Flutter</title>
-      <link>https://www.opensourceagenda.com/projects/live-location-tracker-flutter</link>
-      <description><![CDATA[使用 Firebase 和 google 地图在 flutter 中实时位置跟踪器的源代码。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/live-location-tracker-flutter</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:39 GMT</pubDate>
+      <title>引导通用Ai Bot</title>
+      <link>https://www.opensourceagenda.com/projects/guide-general-ai-bot</link>
+      <description><![CDATA[generalguidecorporation 通用 Ai Bot 产品使用说明]]></description>
+      <guid>https://www.opensourceagenda.com/projects/guide-general-ai-bot</guid>
+      <pubDate>Tue, 13 Feb 2024 21:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>羽斧库</title>
-      <link>https://www.opensourceagenda.com/projects/feather-axure-library</link>
-      <description><![CDATA[基于 Feather 图标的 Axure 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/feather-axure-library</guid>
-      <pubDate>Tue, 13 Feb 2024 18:16:38 GMT</pubDate>
+      <title>免费通用 Telegram 用户机器人</title>
+      <link>https://www.opensourceagenda.com/projects/free-general-telegram-userbot</link>
+      <description><![CDATA[generalfoss 开源免费通用 Telegram 用户机器人]]></description>
+      <guid>https://www.opensourceagenda.com/projects/free-general-telegram-userbot</guid>
+      <pubDate>Tue, 13 Feb 2024 21:12:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
