@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 09:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 12:21:15 GMT</lastBuildDate>
     <item>
-      <title>Epic 游戏商店（CEF 等网络开发）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1app4n3/epic_games_store_cef_so_webdev/</link>
-      <description><![CDATA[Epic Games 商店采用 Chromium 嵌入式框架 (CEF) 构建，因此其网络技术。我的问题是发生了什么事情让它变得这么慢。它慢得不可思议，就像网站如果这么慢就会超时一样。而且服务器流量并不大，而且服务器距离很远。它从来都不是很快，而且从来都不是。在 2022 年的 PC 上冷启动 2 分钟是疯狂的。您认为它可能会在加载之前检查所有本地文件吗？这对于全新安装来说应该不重要。在干净的 SSD 上应该会更好，但事实并非如此。 您认为瓶颈是什么？他们与数据库通信的方式可能是？   由   提交/u/vesko26  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1app4n3/epic_games_store_cef_so_webdev/</guid>
-      <pubDate>Tue, 13 Feb 2024 08:59:57 GMT</pubDate>
+      <title>如何屏蔽 YouTube（短片）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aps3x5/how_to_block_youtube_shorts/</link>
+      <description><![CDATA[大家好 - 我最近在手机上花费了很多时间，我想用它来做更有成效的事情。我没有 TikTok，所以最大的罪魁祸首是 YouTube 短片。有谁知道如何才能只屏蔽 YouTube 短片？如果我不能只屏蔽 YouTube 短片，那么如何屏蔽一般的 YouTube？是否有我可以下载的应用程序或软件或可以编辑的设置等？我尝试过通过设置来完成此操作，并通过谷歌搜索但我找不到任何东西。我知道林业应用程序会锁定它，但它也会锁定我的消息等，这并不总是很方便。正在寻找我可以使用的任何资源！ 谢谢！ TLDR：我想屏蔽 YouTube 短片，但不知道如何操作   由   提交/u/Bookwordsbestwords  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aps3x5/how_to_block_youtube_shorts/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:18:28 GMT</pubDate>
     </item>
     <item>
-      <title>CSS_BOX。编写 CSS 的更好方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apoxku/css_box_a_better_way_to_write_css/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/toniyevych  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apoxku/css_box_a_better_way_to_write_css/</guid>
-      <pubDate>Tue, 13 Feb 2024 08:45:11 GMT</pubDate>
+      <title>域名转让过程是如何完成的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aps2wt/how_is_the_process_of_transferring_domain_names/</link>
+      <description><![CDATA[我有一个网站 (.org)，几年前我将其外包给第三方。但现在，我已经用 HTML 和 CSS 构建了自己的域名，并希望从与我的合同将于本月终止的第三方手中收回域名。一旦他们同意将域名交给我，是如何完成的？域名是否注册到电子邮件地址？如果是这样，他们将如何更改我的电子邮件？   由   提交/u/slenderman_27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aps2wt/how_is_the_process_of_transferring_domain_names/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:16:51 GMT</pubDate>
     </item>
     <item>
-      <title>开始自由网络开发服务所需的文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apokq7/documents_needed_for_starting_out_freelance_web/</link>
-      <description><![CDATA[您好，我作为开发人员工作了一段时间，我希望通过自由网络开发获得第二个收入来源。我正在做一些关于自由职业的研究，需要向潜在客户提供许多不同的文件。希望您对应该制作哪些文件并将其提供给潜在客户提出意见和个人意见。提前致谢！   由   提交/u/Dazzling_Accident_68   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apokq7/documents_needed_for_starting_out_freelance_web/</guid>
-      <pubDate>Tue, 13 Feb 2024 08:19:35 GMT</pubDate>
+      <title>简单的应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aprwsw/simple_apps/</link>
+      <description><![CDATA[假设您需要构建一个非常简单的应用程序，只有几个屏幕，仅使用 js 和 CSS 以及其他资源。 您是否选择： - 一个 ssr，例如从服务器提供所有 html 并将资源存储在 Web 服务器上。  - 或 -   一个简单的 vite React 应用程序和一个简单的服务器向客户端和服务器发送 json。  查看投票&lt; /p&gt;   由   提交 /u/TheChickenKingHS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aprwsw/simple_apps/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:06:52 GMT</pubDate>
     </item>
     <item>
-      <title>你会写 Lee Code 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apogxt/do_you_even_leet_code/</link>
-      <description><![CDATA[我想知道有多少专业开发人员为 Leet 代码之类的东西烦恼。这种事情是行业的必需品吗？我的意思是，你不需要成为算法之王/女王来击败网站。 那么，你甚至会 Leet Code 吗？   由   提交 /u/Independent_Range171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apogxt/do_you_even_leet_code/</guid>
-      <pubDate>Tue, 13 Feb 2024 08:11:53 GMT</pubDate>
+      <title>我知道这是一个新手问题，但是对于一家软件和网络开发公司，如何与订购软件的客户事先“讨论”具体需求和功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aprrst/i_know_its_a_rookie_question_but_with_a_software/</link>
+      <description><![CDATA[是否有一个大型会议，让开发团队（或开发人员的领导）坐下来，聆听想要委托制作的客户的意见来自开发公司的软件或网站等，他们会详细介绍托管、后端、公司能够使用的技术等的详细信息和选项？  我是 Web 开发领域的新手，我想至少粗略地了解一下我如何想象“起始”阶段。一个项目的 ​ 非常感谢！ Fred&#39;s Plant    由   提交 /u/FredHerberts_Plant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aprrst/i_know_its_a_rookie_question_but_with_a_software/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>在前端和后端之间通信错误代码和类型的最佳实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apn9ho/best_practice_for_communicating_error_codes_and/</link>
-      <description><![CDATA[因此，使用我的后端 API (FastAPI)，我一直在抛出 HTTPException，status_code 为 400，详细信息为一些人类可读的字符串（“太多”短时间内请求。稍后再试。”）或类似的内容。但我意识到这并不是让我的前端在向用户显示某些内容方面做出正确反应的好方法，除非我只是在前端显示确切的消息。如果我想返回错误类型、错误代码和描述？像错误代码 400 一样，输入“TOO_MANY_REQUESTS”，然后输入像我之前那样的描述。还是人们不这样做？我知道我可以使用字符串匹配长描述来确定有错误的前端操作，但我知道有一天我会遇到麻烦。  &amp; #32；由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apn9ho/best_practice_for_communicating_error_codes_and/</guid>
-      <pubDate>Tue, 13 Feb 2024 06:48:38 GMT</pubDate>
+      <title>帮我说服我的老板我们收费不够</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aprjzi/help_me_convince_my_boss_that_were_not_charging/</link>
+      <description><![CDATA[您好！ 我目前在一家数字营销机构担任首席开发人员。我们基本上是一家初创公司，但已经发展了大约 8 年左右，并且拥有相当大的客户（我们的一些网站被名人/高端时尚积极使用）。作为首席开发人员，我经常让我的老板抱怨我们每年从 Web 开发中赚到的钱是多么少……正如你可以想象的，当我认为我们收费不够而我是负责人时，这会变得非常令人沮丧。我是公司唯一的开发人员，因此我始终处于分散状态。 为了提供更多背景信息，我构建了一个“框架”它由许多与古腾堡完美集成的 WordPress 插件组成，这意味着未来应该构建最少的新东西，因此网站的制作成本应该相当便宜。 对于一个标准服务网站，其中包括3 页和一个简单的联系表格，我们的收费约为 1500 英镑，每多一页需要额外支付 150 英镑。 对于“标准”页面，我们收取 150 英镑。我们的电子商务网站收费约为 3000 英镑。按照标准，我的意思是它使用所有标准 WooCommerce 功能，但我们还包括“免费”功能集成 algolia.com 产品和帖子搜索。 所有网站均由我们的设计师从头开始设计（这是包含在价格中），而且不用太亲吻我们的屁股，我认为它们可能是这个国家最好看的网站之一。 自从我的“框架”建立以来，可以轻松地推出我老板想要的网站 - 每月推出 3 个左右的网站。当然，这对于我的框架是可行的，但我也没有时间正确维护网站，因为我们总是试图获得更多业务。我的薪水也不好，因为我们负担不起，而且我们没有钱引进另一位开发商，所以我觉得我们陷入了无法摆脱的困境，但提高价格可能会有所帮助. 如果任何人都可以回复他们对服务和（标准 WooCommerce）电子商务网站的收费，他们来自世界上的哪个地方，如果这是自由职业者或通过一家公司，那就太好了！&lt; /p&gt;   由   提交/u/brebut  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aprjzi/help_me_convince_my_boss_that_were_not_charging/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>检查代码对于视障人士的可访问性的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apn5ho/whats_the_best_way_to_check_accessibility_of_your/</link>
-      <description><![CDATA[该社区需要正文。   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apn5ho/whats_the_best_way_to_check_accessibility_of_your/</guid>
-      <pubDate>Tue, 13 Feb 2024 06:41:50 GMT</pubDate>
+      <title>希望与其他自由职业者合作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aprgnl/looking_to_collaborate_with_fellow_freelancers/</link>
+      <description><![CDATA[关于我自己的一些背景信息，我早在 2020 年就开始了我的旅程，作为一名 FT 工作的 Web 开发人员。 目前正朝着兼职和合同工作而不是全职工作。迄今为止，作为个人开发者与 10 多家机构/初创公司合作过。希望与世界各地的自由职业者/顾问建立联系以共同工作。愿意在需要时为您提供额外帮助。？专业知识：React、Express、Nest、PostgreSQL、MongoDB    由   提交 /u/freeze_ninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aprgnl/looking_to_collaborate_with_fellow_freelancers/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:40:30 GMT</pubDate>
     </item>
     <item>
-      <title>确保用户只能在我的 API 中更新自己的记录的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apmqq7/whats_the_best_way_to_make_sure_a_user_can_only/</link>
-      <description><![CDATA[大家好， 我正在使用 NestJS 创建一个 API，尽管我不认为这依赖于框架，而且我我正在努力确保用户只能更新他们自己在我的数据库中的记录。使用典型的 REST API 标准，其中 DELETE 端点在 url 中具有要删除的资源的 id，那么仅允许该资源的所有者进行删除的最佳方法是什么？ JWT 有其中用户的 uid，我可以先查询数据库并检查它是否属于该用户，但我觉得这增加了一堆额外的查询。  想法？   由   提交/u/wojo1086  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apmqq7/whats_the_best_way_to_make_sure_a_user_can_only/</guid>
-      <pubDate>Tue, 13 Feb 2024 06:16:25 GMT</pubDate>
+      <title>使用 Array.prototype.with 更新不可变数组</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aprbnn/immutable_array_updates_with_arrayprototypewith/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aprbnn/immutable_array_updates_with_arrayprototypewith/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>Http 标头中的 Cookie、Set-cookie 和 set-cookie2 有什么区别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apm0sy/whats_the_dofference_between_cookie_setcookie_and/</link>
-      <description><![CDATA[标题   由   提交 /u/PrimaDony   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apm0sy/whats_the_dofference_between_cookie_setcookie_and/</guid>
-      <pubDate>Tue, 13 Feb 2024 05:34:54 GMT</pubDate>
+      <title>部署我的第一个项目，每日文本更新：我的做法正确吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apr4it/deploying_my_firstever_project_a_daily_textual/</link>
+      <description><![CDATA[TL;DR -- 我计划使用日常 Python 脚本生成 HTML 页面，通过 PythonAnywhere 存储和提供&lt; /p&gt; 高级目标：一个每天更新文本体育内容的网站。  方法：  我想出了一个有效的Python脚本，它生成文本更新作为输出。它依赖一些基本的API，并且在本地运行得很好。 我打算使用Python来生成（或修改）日常超基本的HTML页面。我对 HTML 的熟悉程度不如 Python，但我想我会没事的。 （偏离切线：我将其作为网页，因为我认为其他人可以从这个简短而甜蜜的更新中受益）。 对于托管，我在想依赖 PythonAnywhere。我以前没有使用过它，但是浏览他们的文档，它似乎很容易。例如：每天运行一个脚本，该脚本将替换“主页”，并将前几天的页面保存在服务器上。因此，主页将始终具有“最新”更新。  问题：  我的方法合理吗？你能建议我以某种方式改变它吗？ 我不打算赚钱，也不关心“花哨”的东西。域名，因此我选择了免费服务。您还有其他建议吗？ 鉴于这是我第一次做这样的事情，我应该注意哪些障碍？ (:     提交者    /u/some_advice_needed   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apr4it/deploying_my_firstever_project_a_daily_textual/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:19:05 GMT</pubDate>
     </item>
     <item>
-      <title>Express.js 垃圾 PR 事件凸显开源的商品化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aple73/expressjs_spam_prs_incident_highlights_the/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aple73/expressjs_spam_prs_incident_highlights_the/</guid>
-      <pubDate>Tue, 13 Feb 2024 05:00:52 GMT</pubDate>
+      <title>有没有地方可以搜索域名字符串中的单词？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apqznz/is_there_a_place_to_search_for_words_within/</link>
+      <description><![CDATA[基本上，我想检查是否有人拥有链接到我公司的域名。例如，如果我的公司名为“Grimdango”，是否有任何方法可以搜索包含“Grimdango”一词的域名（即使只是在 .com 中）（例如 EatGrimdango.com、Grimdangosucks.com） ）。  这存在吗？我尝试到处搜索这个但找不到它。   由   提交 /u/FuckingPope   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apqznz/is_there_a_place_to_search_for_words_within/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>从遗留存档重建？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apkx8w/rebuild_from_legacy_archive/</link>
-      <description><![CDATA[你们中有人知道网络开发商店会从 archive.org 集合中重建一个死掉的网站吗？ 该网站已经很旧了，需要从头开始重新设计。这是我认为大多数商店可以/将会轻松完成的简单部分。我想知道是否有人能够从 archive.org（或他们提供给我的存档 html）抓取/抓取遗留数据并将其注入新网站。 如果你能指出我对于个人/公司来说，这将是非常棒的！   由   提交 /u/DmC8pR2kZLzdCQZu3v   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apkx8w/rebuild_from_legacy_archive/</guid>
-      <pubDate>Tue, 13 Feb 2024 04:35:53 GMT</pubDate>
+      <title>YouTube Data API 推广视频统计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apquhp/youtube_data_api_promoted_video_statistics/</link>
+      <description><![CDATA[我搜索了 YouTube Data API v3，试图找到一种方法来提取已广告的 YouTube 视频并检索每个视频的观看次数。但是，我没有成功找到此信息。有谁知道应该使用哪种方法和函数来实现此目的？或者，是否有可用的解决方法？   由   提交/u/vainiusb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apquhp/youtube_data_api_promoted_video_statistics/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>纽约有聚会吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apkdc7/any_meetups_in_nyc/</link>
-      <description><![CDATA[我希望与其他人建立一些联系并编写代码。不确定纽约地区是否有人已经参与了可以帮助我的事情。  否则，我该如何寻找见面机会呢？我用谷歌搜索过，但没有真正显示出来。   由   提交 /u/little_hoarse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apkdc7/any_meetups_in_nyc/</guid>
-      <pubDate>Tue, 13 Feb 2024 04:06:57 GMT</pubDate>
+      <title>寻找类似于 Bing Copilot 或 Google Bard (Gemini) 的 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apqu2y/looking_for_apis_similar_to_bing_copilot_or/</link>
+      <description><![CDATA[大家好， 我正在寻找一个类似于 Bing Copilot 或 Google Bard (Gemini) 的 API 来进行总结输入的主题。例如，《关于Fortinet经济护城河的总结》。从互联网获取最新数据（没有 Chat GPT 3.5）至关重要。 我找不到任何访问 Bing Copilot 和 Google Bard (Gemini) 的可能性，因为它们不提供 API 访问权限。&lt; /p&gt; 提前致谢🙏   由   提交 /u/bohdan-v   /u/bohdan-v  reddit.com/r/webdev/comments/1apqu2y/looking_for_apis_similar_to_bing_copilot_or/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apqu2y/looking_for_apis_similar_to_bing_copilot_or/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>你会如何建造这样的东西？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apk9wb/how_would_you_build_something_like_this/</link>
-      <description><![CDATA[ 由   提交 /u/MobyFreak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apk9wb/how_would_you_build_something_like_this/</guid>
-      <pubDate>Tue, 13 Feb 2024 04:02:06 GMT</pubDate>
+      <title>最适合预算开发的云平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apq5v8/best_cloud_platform_for_budget_dev/</link>
+      <description><![CDATA[我承认这可能是一个愚蠢的问题，但你不知道你不知道什么......所以必须从某个地方开始。 所以情况就是这样。我第一次转向在云中进行开发，并且很高兴开始使用 FireBase。然而，也遇到过有人在代码中犯错误而导致数千美元账单的情况。自然希望避免这种情况。 我发现与 FireBase 相比，Supabase 有支出上限。这里有人遇到过这个问题并可以详细说明他们的经历吗？ 如果达到上限，您的应用程序是否会关闭？或者您只是收到一条提醒，提示您的应用程序仍在增加成本？ 还有其他值得考虑的简单集成平台吗？或者有支出上限的平台，不会让您意外支出超出预算？ 非常欢迎任何和所有进一步的信息或注意事项。当然，我也在对此进行更深入的研究，但我也有兴趣听取人们的第一手经验 ​ 编辑：其他一些考虑因素 &gt;  我不想头痛服务器配置和管理，这就是为什么我正在寻找这样的云平台。  如果可以避免的话，我真的不想学习一堆新技术。  我还想知道该应用程序也可以轻松扩展，这又对他们有利。  基本上，我是一个完整的堆栈开发人员想要尽可能快速、简单地构建可扩展的应用程序。现阶段我身后没有团队支持。 ​   由   提交/u/p3zbruh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apq5v8/best_cloud_platform_for_budget_dev/</guid>
+      <pubDate>Tue, 13 Feb 2024 10:14:28 GMT</pubDate>
     </item>
     <item>
-      <title>孤立域并且必须保留电子邮件 DNS 记录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apj4z2/orphaned_a_domain_and_have_to_preserve_email_dns/</link>
-      <description><![CDATA[      我刚刚获得了一个旧 GoDaddy 域名的所有权，该域名已经拥有指向网络托管和电子邮件的自定义名称服务器。我对这些服务的提供商并不熟悉，而且我仍然不确定我是否知道电子邮件服务提供商的名称。 我需要更改 DNS 记录，以便它指向新的网络主机。我通过删除自定义域名服务器并恢复到 GoDaddy 默认域名服务器来做到这一点。然后我添加了指向新虚拟主机的 A 记录，它适用于虚拟主机。但是电子邮件坏了，这在我的预料之中。 我真的不知道如何让电子邮件恢复正常工作，因为我不了解我正在查看的旧 DNS 配置是否允许电子邮件。在进行更改之前，我有一些 DNS 配置的屏幕截图。 ​ 旧的 GoDaddy 自定义域名服务器（我已删除） ​ &lt; a href=&quot;https://preview.redd.it/dja0mofjq9ic1.png?width=2362&amp;format=png&amp;auto=webp&amp;s=c4725e47668b5264b894c79583fe6d916ff16527&quot;&gt;通过 who.is 运行时的 DNS 记录（在我进行任何更改之前）  图像中现有的 MX 记录只是指向该域。我尝试复制该内容，但没有成功。 知道如何恢复电子邮件吗？ 编辑：在进行任何更改之前，唯一的自定义设置是我上面图片中的名称服务器。除此之外，没有现有的自定义 DNS 记录，因此我不知道除了那些自定义名称服务器之外我还应该查找哪些其他现有信息。  &amp; #32；由   提交/u/pvJ0w4HtN5   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apj4z2/orphaned_a_domain_and_have_to_preserve_email_dns/</guid>
-      <pubDate>Tue, 13 Feb 2024 03:06:01 GMT</pubDate>
+      <title>有没有办法在我的 React 应用程序中包含内容管理系统而不使用后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1appzah/is_there_a_way_to_include_the_content_management/</link>
+      <description><![CDATA[我已经为我的大学俱乐部构建了一个 React frotend 应用程序，目前它正在从 JSON 文件中获取数据，但他们想要使用某种他们可以根据自己的意愿使用和更改数据的内容管理系统。是否有任何第三方应用程序可用作仪表板和内容管理系统。  我不想将后端和数据库集成到其中，但如果没有其他选择，那么我必须选择后端集成和数据库。   由   提交/u/steven4869  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1appzah/is_there_a_way_to_include_the_content_management/</guid>
+      <pubDate>Tue, 13 Feb 2024 10:01:41 GMT</pubDate>
     </item>
     <item>
-      <title>如何将资金发送（电汇）至银行账户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apj3op/how_do_you_send_wire_funds_to_a_bank_account/</link>
-      <description><![CDATA[例如，Etsy/Amazon/eBay 等。买家向公司付款，然后公司将资金发送给卖家。 后一个公园如何运作？如今，公司可以支持多种付款方式，例如 PayPal 等。想必这些“银行公司”有某种 API。 我对最不奇特的选项更感兴趣 - 将资金大概从另一个银行账户（例如公司账户）发送到银行账户 &lt; /div&gt;  由   提交/u/jigajigga  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apj3op/how_do_you_send_wire_funds_to_a_bank_account/</guid>
-      <pubDate>Tue, 13 Feb 2024 03:04:19 GMT</pubDate>
+      <title>MacBook 和 Windows 笔记本电脑都无法进入睡眠状态（Chrome 问题）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1appvan/macbook_and_windows_laptop_both_do_not_go_to/</link>
+      <description><![CDATA[大约一周以来，我注意到我的 MacBook Pro 和 Windows 笔记本电脑实际上在合上盖子时不会进入睡眠/待机模式。他们俩都在不停地工作，直到风扇全速运转并且两台笔记本电脑都变得非常热。这不应该是操作系统问题，因为它们位于不同的平台上，而且我在这两个平台上使用的常见应用程序是 VS Code 和 Chrome。然后我检查了 Chrome，发现 Mac 和 Windows 的资源消耗都非常高。另外，我通常会在两台笔记本电脑上观看并暂停多个 YouTube 视频，然后让它们进入睡眠状态，稍后再继续观看其余部分。我怀疑这一切都与谷歌最近为阻止广告拦截器等所做的努力有关，这些努力不知何故导致了内存泄漏或资源过度消耗。还有其他人注意到这一点吗？还是发生了其他事情？   由   提交 /u/Heatstreak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1appvan/macbook_and_windows_laptop_both_do_not_go_to/</guid>
+      <pubDate>Tue, 13 Feb 2024 09:53:42 GMT</pubDate>
     </item>
     <item>
-      <title>如何更好地进行网页设计？我的网站缺少颜色，也许还有其他东西。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apj0mf/how_to_be_better_at_web_design_my_website_lacks/</link>
-      <description><![CDATA[我是一名后端开发人员，最近开始从事前端开发。我正在使用 Astro 构建一个网站。我选择了一个免费主题并边学习边学习。我觉得我的网站缺乏色彩，也许还有其他一些东西。我可以使用任何资源来帮助我改进网页设计吗？  我看到人们推荐 Coolors.co 和其他资源。   由   提交/u/sanji1212  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apj0mf/how_to_be_better_at_web_design_my_website_lacks/</guid>
-      <pubDate>Tue, 13 Feb 2024 03:00:17 GMT</pubDate>
+      <title>寻找网络应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1appnp5/looking_for_a_web_app/</link>
+      <description><![CDATA[我想用 wep 应用程序创建一个在线球员评估表，例如 nba 球队排名。您能提出一些建议吗？   由   提交/u/ADNFLASH7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1appnp5/looking_for_a_web_app/</guid>
+      <pubDate>Tue, 13 Feb 2024 09:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
