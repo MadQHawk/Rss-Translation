@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 13 Feb 2024 15:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 18:15:16 GMT</lastBuildDate>
+    <item>
+      <title>严重的问题：如何在 ChatGPT 中自动执行大量程序任务？</title>
+      <link>https://www.reddit.com/r/automation/comments/1apzkp0/serious_question_how_to_automate_largevolume/</link>
+      <description><![CDATA[注意到 GPT 喜欢在较大的任务上超时，无论 max_length 是多少，并且需要干预。更糟糕的是，它在一次处理一个事情时失去了自己的位置，这很糟糕，即使你能让它重新生成响应，它也会开始产生幻觉。 有没有更好的方法来处理处理大量我可能不知道的数据？我一定错过了一些东西，因为我认为这就是 ChatGPT 的全部意义。   由   提交 /u/Better_Than_Free123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1apzkp0/serious_question_how_to_automate_largevolume/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:47:10 GMT</pubDate>
+    </item>
     <item>
       <title>有人愿意给我一个抖音机器人吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1apif0f/does_anybody_have_a_tiktok_bot_that_anybody_is/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨朋友们，我们构建了一个 Chrome 扩展来帮助人们将繁琐的任务委托给 AI 代理。现在它只有一个一些工作流程，例如发送电子邮件、播放音乐或设置自动回复。很想听听您对此的想法。很高兴添加您需要的新工作流程！ 扩展程序链接： https://chromewebstore.google.com/detail/webagent/hnapinnnfbikkchmbninlfmmbaafdoic?hl=en-US&amp;utm_source=ext_sidebar  &amp; #32；由   提交/u/simplegen_ai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ak4dik/building_web_agent/</guid>
       <pubDate>Tue, 06 Feb 2024 07:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1ajk1kp/ai_automation/</link>
-      <description><![CDATA[自动化是人类历史上的一个重大转折点，因为它在多个生产工厂中取代了人类。机械夺走了工作岗位，但也支持了工作领域的新时代。因此，这也是工程学各个分支的转折点，扩大了工业革命之前工程师发展的有限空间。然后是计算机的出现，推动了工作空间的更多革新和创新。因此，计算机科学家和计算机工程师的光荣诞生。 而现在，我们面临着人工智能的崛起。它将如何影响工作空间？尤其是在人们对人工智能迄今为止能做什么有很多担忧的时代。有些甚至是非法的，例如人工智能生成极其不合适的图像。或者可能是自动化非法行为，例如自动化收集用户数据。因此，这就引出了一个主要问题：我们如何为人工智能划定界限？什么样的人工智能应该出现在我们的生活中？它应该是生产的一部分吗？如果是这样，我们应该在多大程度上依赖它？ 免责声明：这是一个学校项目，我想收集意见  &amp;# 32；由   提交 /u/SuddenMachine5521   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ajk1kp/ai_automation/</guid>
-      <pubDate>Mon, 05 Feb 2024 16:06:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
