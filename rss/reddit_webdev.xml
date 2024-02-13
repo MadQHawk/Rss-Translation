@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 12:21:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 15:11:46 GMT</lastBuildDate>
+    <item>
+      <title>连接 mongodb 时遇到问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apvdpx/having_issues_connecting_with_mongodb/</link>
+      <description><![CDATA[     &lt; td&gt; 我尝试将 mongodb 与我的 Express 应用程序连接，但偶然发现了此错误，问题是什么？    由   提交/u/clandestineeeeeee  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apvdpx/having_issues_connecting_with_mongodb/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对 Next js 应用程序的移动包装器的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apuy2g/suggestions_for_mobile_wrapper_for_a_next_js_app/</link>
+      <description><![CDATA[我目前有一个下一个 js 应用程序（由 supabase 提供支持），它也是一个 PwA。我想为 Nextjs 网站制作一个适用于 iOS 和 Android 的移动应用程序（主要用于本机通知和客户想要的移动应用程序）。我遇到了 Capacitorjs，它似乎完成了工作。  那么我可能需要考虑电容器的其他替代品吗？如上所述，本机通知和对单独应用程序的需求是我用 nextjs 无法实现的唯一需要。   由   提交/u/Ok_Jacket3710   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apuy2g/suggestions_for_mobile_wrapper_for_a_next_js_app/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以获得 php 的 Web 开发路线图吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apuwsk/can_i_get_a_php_roadmap_for_web_development/</link>
+      <description><![CDATA[大家好 我最近开始学习 php，因为我想学习一种除了 JavaScript 之外的不同语言来制作网站。 php的主要原因是想学习wordpress和Laravel。 我只是在学习如何嵌入php代码块和HTML。 自从我了解JavaScript学习一门新语言学习起来应该不会太难，但希望我能得到一份关于 Web 开发时特定于 php 的重要主题列表。 感谢所有评论🙏   由   提交 /u/he11mager   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apuwsk/can_i_get_a_php_roadmap_for_web_development/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何做一个市场？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apurpp/how_make_a_marketplace/</link>
+      <description><![CDATA[支持。  我正在考虑创建一个市场，但我没有创建网站的技能。开始时最重要的是什么？  ​ 你有什么秘诀吗？    由   提交/u/little_tricky  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apurpp/how_make_a_marketplace/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们尝试在 1 小时内构建一个 AirBnB 克隆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apuezk/we_tried_to_build_an_airbnb_clone_in_less_than_1/</link>
+      <description><![CDATA[       由   提交/u/mattatdirectus  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apuezk/we_tried_to_build_an_airbnb_clone_in_less_than_1/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:12:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 如何解决其所有产品的全球授权问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aptaxq/how_google_solved_authorization_globally_across/</link>
+      <description><![CDATA[    /u/ege-aytin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aptaxq/how_google_solved_authorization_globally_across/</guid>
+      <pubDate>Tue, 13 Feb 2024 13:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单网站的不合理有效性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apsnao/the_unreasonable_effectiveness_of_simple_websites/</link>
+      <description><![CDATA[ 由   提交 /u/ruinijuni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apsnao/the_unreasonable_effectiveness_of_simple_websites/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在我的 Web 应用程序中使用 AI？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apslpy/how_can_i_use_ai_in_my_webapps/</link>
+      <description><![CDATA[嘿大家，我知道这可能听起来像是一个非常无知的问题（对此感到抱歉）。  我是一名初级网络开发人员，为不同的客户做了很多项目，但最近很多人告诉我，他们希望我不断思考如何将人工智能融入他们的网络应用程序中。  现在，他们和我都不知道我们到底可以在他们的网络应用程序中添加什么作为 AI 工具，而不是 Charbots，而我不需要他们的网站。  所以我想知道我可以添加哪些由人工智能支持的 API，以便他们可以向客户提供网络应用程序，并说我们在网站上到处使用人工智能。  稍微了解一下背景，我当时做的应用类型大多是学习中心，或者测验应用，或者长而复杂的表格，或者一些拖放应用，或者收集数据的应用。&lt; /p&gt;   由   提交/u/PotatoHeadQuestions   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apslpy/how_can_i_use_ai_in_my_webapps/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>如何屏蔽 YouTube（短片）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aps3x5/how_to_block_youtube_shorts/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aprbnn/immutable_array_updates_with_arrayprototypewith/</guid>
       <pubDate>Tue, 13 Feb 2024 11:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署我的第一个项目，每日文本更新：我的做法正确吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apr4it/deploying_my_firstever_project_a_daily_textual/</link>
-      <description><![CDATA[TL;DR -- 我计划使用日常 Python 脚本生成 HTML 页面，通过 PythonAnywhere 存储和提供&lt; /p&gt; 高级目标：一个每天更新文本体育内容的网站。  方法：  我想出了一个有效的Python脚本，它生成文本更新作为输出。它依赖一些基本的API，并且在本地运行得很好。 我打算使用Python来生成（或修改）日常超基本的HTML页面。我对 HTML 的熟悉程度不如 Python，但我想我会没事的。 （偏离切线：我将其作为网页，因为我认为其他人可以从这个简短而甜蜜的更新中受益）。 对于托管，我在想依赖 PythonAnywhere。我以前没有使用过它，但是浏览他们的文档，它似乎很容易。例如：每天运行一个脚本，该脚本将替换“主页”，并将前几天的页面保存在服务器上。因此，主页将始终具有“最新”更新。  问题：  我的方法合理吗？你能建议我以某种方式改变它吗？ 我不打算赚钱，也不关心“花哨”的东西。域名，因此我选择了免费服务。您还有其他建议吗？ 鉴于这是我第一次做这样的事情，我应该注意哪些障碍？ (:     提交者    /u/some_advice_needed   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apr4it/deploying_my_firstever_project_a_daily_textual/</guid>
-      <pubDate>Tue, 13 Feb 2024 11:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有地方可以搜索域名字符串中的单词？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apqznz/is_there_a_place_to_search_for_words_within/</link>
-      <description><![CDATA[基本上，我想检查是否有人拥有链接到我公司的域名。例如，如果我的公司名为“Grimdango”，是否有任何方法可以搜索包含“Grimdango”一词的域名（即使只是在 .com 中）（例如 EatGrimdango.com、Grimdangosucks.com） ）。  这存在吗？我尝试到处搜索这个但找不到它。   由   提交 /u/FuckingPope   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apqznz/is_there_a_place_to_search_for_words_within/</guid>
-      <pubDate>Tue, 13 Feb 2024 11:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Data API 推广视频统计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apquhp/youtube_data_api_promoted_video_statistics/</link>
-      <description><![CDATA[我搜索了 YouTube Data API v3，试图找到一种方法来提取已广告的 YouTube 视频并检索每个视频的观看次数。但是，我没有成功找到此信息。有谁知道应该使用哪种方法和函数来实现此目的？或者，是否有可用的解决方法？   由   提交/u/vainiusb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apquhp/youtube_data_api_promoted_video_statistics/</guid>
-      <pubDate>Tue, 13 Feb 2024 11:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似于 Bing Copilot 或 Google Bard (Gemini) 的 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apqu2y/looking_for_apis_similar_to_bing_copilot_or/</link>
-      <description><![CDATA[大家好， 我正在寻找一个类似于 Bing Copilot 或 Google Bard (Gemini) 的 API 来进行总结输入的主题。例如，《关于Fortinet经济护城河的总结》。从互联网获取最新数据（没有 Chat GPT 3.5）至关重要。 我找不到任何访问 Bing Copilot 和 Google Bard (Gemini) 的可能性，因为它们不提供 API 访问权限。&lt; /p&gt; 提前致谢🙏   由   提交 /u/bohdan-v   /u/bohdan-v  reddit.com/r/webdev/comments/1apqu2y/looking_for_apis_similar_to_bing_copilot_or/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apqu2y/looking_for_apis_similar_to_bing_copilot_or/</guid>
-      <pubDate>Tue, 13 Feb 2024 11:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合预算开发的云平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apq5v8/best_cloud_platform_for_budget_dev/</link>
-      <description><![CDATA[我承认这可能是一个愚蠢的问题，但你不知道你不知道什么......所以必须从某个地方开始。 所以情况就是这样。我第一次转向在云中进行开发，并且很高兴开始使用 FireBase。然而，也遇到过有人在代码中犯错误而导致数千美元账单的情况。自然希望避免这种情况。 我发现与 FireBase 相比，Supabase 有支出上限。这里有人遇到过这个问题并可以详细说明他们的经历吗？ 如果达到上限，您的应用程序是否会关闭？或者您只是收到一条提醒，提示您的应用程序仍在增加成本？ 还有其他值得考虑的简单集成平台吗？或者有支出上限的平台，不会让您意外支出超出预算？ 非常欢迎任何和所有进一步的信息或注意事项。当然，我也在对此进行更深入的研究，但我也有兴趣听取人们的第一手经验 ​ 编辑：其他一些考虑因素 &gt;  我不想头痛服务器配置和管理，这就是为什么我正在寻找这样的云平台。  如果可以避免的话，我真的不想学习一堆新技术。  我还想知道该应用程序也可以轻松扩展，这又对他们有利。  基本上，我是一个完整的堆栈开发人员想要尽可能快速、简单地构建可扩展的应用程序。现阶段我身后没有团队支持。 ​   由   提交/u/p3zbruh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apq5v8/best_cloud_platform_for_budget_dev/</guid>
-      <pubDate>Tue, 13 Feb 2024 10:14:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在我的 React 应用程序中包含内容管理系统而不使用后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1appzah/is_there_a_way_to_include_the_content_management/</link>
-      <description><![CDATA[我已经为我的大学俱乐部构建了一个 React frotend 应用程序，目前它正在从 JSON 文件中获取数据，但他们想要使用某种他们可以根据自己的意愿使用和更改数据的内容管理系统。是否有任何第三方应用程序可用作仪表板和内容管理系统。  我不想将后端和数据库集成到其中，但如果没有其他选择，那么我必须选择后端集成和数据库。   由   提交/u/steven4869  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1appzah/is_there_a_way_to_include_the_content_management/</guid>
-      <pubDate>Tue, 13 Feb 2024 10:01:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook 和 Windows 笔记本电脑都无法进入睡眠状态（Chrome 问题）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1appvan/macbook_and_windows_laptop_both_do_not_go_to/</link>
-      <description><![CDATA[大约一周以来，我注意到我的 MacBook Pro 和 Windows 笔记本电脑实际上在合上盖子时不会进入睡眠/待机模式。他们俩都在不停地工作，直到风扇全速运转并且两台笔记本电脑都变得非常热。这不应该是操作系统问题，因为它们位于不同的平台上，而且我在这两个平台上使用的常见应用程序是 VS Code 和 Chrome。然后我检查了 Chrome，发现 Mac 和 Windows 的资源消耗都非常高。另外，我通常会在两台笔记本电脑上观看并暂停多个 YouTube 视频，然后让它们进入睡眠状态，稍后再继续观看其余部分。我怀疑这一切都与谷歌最近为阻止广告拦截器等所做的努力有关，这些努力不知何故导致了内存泄漏或资源过度消耗。还有其他人注意到这一点吗？还是发生了其他事情？   由   提交 /u/Heatstreak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1appvan/macbook_and_windows_laptop_both_do_not_go_to/</guid>
-      <pubDate>Tue, 13 Feb 2024 09:53:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1appnp5/looking_for_a_web_app/</link>
-      <description><![CDATA[我想用 wep 应用程序创建一个在线球员评估表，例如 nba 球队排名。您能提出一些建议吗？   由   提交/u/ADNFLASH7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1appnp5/looking_for_a_web_app/</guid>
-      <pubDate>Tue, 13 Feb 2024 09:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
