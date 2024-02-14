@@ -4,11 +4,88 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 09:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 12:22:26 GMT</lastBuildDate>
+    <item>
+      <title>新旅行社网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqlhoa/new_travel_agency_website/</link>
+      <description><![CDATA[大家好， PHP、Lamp、AWS、Asp.Net、Nodejs 等...所有这些都将继续存在通过我们  我们是一家旅行社，正在寻找一个新网站，过去我们只是与一位设计精美的开发人员交谈并付钱给他，但现在他们都坚持认为这些工具是他们的使用是最好的。 我们必须使用GDS认可的开发者，因为不使用的成本太高。我们真正想知道的是哪种编程语言最适合：  我们处理大量消费者数据，因此安全性非常重要 如今网页速度非常重要对于 SEO，所以我们希望使用“堆栈”在这方面这不会杀死我们。 我们所有的价格都在不断更新，所以我相信这是一个“动态网站”。因为实时数据是从我们的 GDS 中提取的。 过去，我们一直提供 CMS 系统，以便我们可以编写博客、上传新图像等  谁能给出一个粗略的指导，告诉我们在寻找公司时应该寻找哪些编程语言/数据库。   由   提交/u/LeftImplement9730   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqlhoa/new_travel_agency_website/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将如何创建像这个交互式网站介绍这样的东西。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqlh1k/how_would_i_go_about_creating_something_like_this/</link>
+      <description><![CDATA[https://learninglinksindia.org/   由   提交/u/franklinscntryclb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqlh1k/how_would_i_go_about_creating_something_like_this/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助：使用 webpack-dev-server 运行时遇到 404 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqkm85/help_facing_404_error_when_i_run_using/</link>
+      <description><![CDATA[我正在使用 Node.js 创建一个带有一些游戏的 javascript Web 应用程序，用于学习目的。我正在尝试使用 webpack 构建并使用 webpack-dev-server 运行它，但我遇到 404 错误。任何人都可以浏览一下我的项目并帮助我理解我做错了什么吗？   由   提交 /u/bunnuz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqkm85/help_facing_404_error_when_i_run_using/</guid>
+      <pubDate>Wed, 14 Feb 2024 11:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为具有多个开发人员的网站设置工作流程的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqkksi/best_way_to_set_up_my_workflow_for_my_site_with/</link>
+      <description><![CDATA[我正在寻求一些有关推动网站开发的最佳方式的建议。  我不是开发人员（请耐心等待），但多年来一直在修补我自己的网站，因此对一切如何运作有基本的了解。例如，我了解每种编码语言的作用，但无法自己编码。  我使用 Wordpress 和页面构建器 Elementor 和 Crocoblock（如果您熟悉的话）构建了我的网站，因为我基本上可以通过拖放来实现我想要的功能（我知道）。我喜欢使用可用的工具想象和添加新功能，并尽可能实现最佳的用户体验。任何我自己无法完成的事情，我都会聘请外部开发人员来完成，现在我会定期聘请一些人来完成任务。  现在的情况是，我有一个很好的电子商务网站，即将启动，我雇用的两名​​开发人员已经说过应该如何构建该网站而不使用 WordPress 插件，因为它们会减慢网站速度下来并添加不必要的痛点（更新破坏性内容等）。这是我想做的事情，并且在我的计划中，但我觉得我将失去自己向网站添加东西并尝试东西的能力，这就是我如何将我的想法变为现实并测试它们的方式。我想我不想失去它。我之前工作过，我刚刚雇佣开发人员来做所有事情，等待看到别人实现一个想法是令人沮丧的，然后它是不对的，所以它会再次完成，也许仍然不太正确等等。我补充道特性和功能，我可以创建它，然后对开发人员说 - 好吧，看看这个，这就是我想要的。就是这样。还有一点是，我想保持对正在进行的开发的控制。 因此，这篇文章的要点以及我对经验丰富的开发人员的问题是，实现上述目标的最佳流程和设置是什么？您可能还有其他一些想法，但这些是我想到的：  有一个临时站点，我的测试站点配备了所有页面构建器等，供我添加功能&lt; /li&gt; 我将更改或添加内容添加到我的暂存站点 拥有第二个暂存站点，将更改推送到该暂存站点以供开发人员处理 开发人员转换将我的想法转化为暂存站点 2 上的常规编码元素 我检查他们的暂存站点上的工作 如果一切顺利，我会将文件上传到实时站点 这样，就会有一个阶段，我可以添加我的想法，一个阶段，开发人员实现它们，但没有它上线，我可以仔细检查，以及一个阶段，只有我可以进行更改。  从经验丰富的开发人员的角度来看，这对我来说是一个好的或可行的设置，因为我知道我不是真正的开发人员，但想保持一些创造性的控制和对安全性的完全控制？  感谢您的宝贵时间。   由   提交 /u/ChrisRussellHosp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqkksi/best_way_to_set_up_my_workflow_for_my_site_with/</guid>
+      <pubDate>Wed, 14 Feb 2024 11:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：在 Namecheap 和 Cloudflare 之间进行域名注册选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqkgf6/help_needed_choosing_between_namecheap_and/</link>
+      <description><![CDATA[嘿 Reddit 社区， 我目前与域名注册提供商面临着两难的境地。我一直在使用 Google Domains，但随着 Squarespace 最近收购，所有域名都将转移到 Squarespace。不过，出于各种原因，我不想使用 Squarespace。 以下是我当前的设置：  通过 Google Domains 注册的域名 网站代码托管于GitHub 使用 Netlify 进行部署 利用 Netlify DNS  现在，我正在考虑两个选项：  &lt; li&gt;将域名转移到 Namecheap 并在那里管理 DNS，同时保持其他所有内容不变。 将域名转移到 Cloudflare，使用 Cloudflare DNS，并探索用于从 GitHub 托管网站的 Cloudflare Pages。 &lt; /ol&gt; 我的偏好如下：  性能 安全 易于使用 价格&lt; /li&gt;  考虑到我的偏好，我正在寻求有关哪个选项最适合我的设置的建议。如果您对 Namecheap 或 Cloudflare 进行域名注册和 DNS 管理有任何见解、经验或建议，我们将不胜感激。 提前感谢您的帮助！ &lt;!-- SC_ON - -&gt;  由   提交/u/ok-capital442200  /u/ok-capital442200 reddit.com/r/webdev/comments/1aqkgf6/help_needed_choosing_ Between_namecheap_and/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqkgf6/help_needed_choosing_between_namecheap_and/</guid>
+      <pubDate>Wed, 14 Feb 2024 11:11:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>请教我有关移动优先的知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqkea5/enlighten_me_about_mobilefirst/</link>
+      <description><![CDATA[最近进入 Web 开发领域，并意识到“移动优先”的口号是有道理的。 你能做到吗？推荐资源或给我关于该主题的见解？寻找一个起点。 目前，我首先构建桌面版本，并在完成后继续响应。  我觉得有更优化的方法，但我无法想象如何扭转这个过程。 TIA   由   提交 /u/ViSuo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqkea5/enlighten_me_about_mobilefirst/</guid>
+      <pubDate>Wed, 14 Feb 2024 11:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 格式的联系表 7 或替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqjtm0/contact_form_7_in_html_or_alternatives/</link>
+      <description><![CDATA[大家好，我遇到了一些麻烦。 我不是 Web 开发人员，但我已经开始自由营销，由于网站问题需要为客户提供一个登陆页面。目前我的利润很小，所以想避免外包。  我创建了一个自定义 HTML 登录页面，但不知道如何使该表单正常工作。 PHP 超出了我的职权范围，我通常会使用 CF7，但由于它在 WP 之外，我认为我无法使用它。 对此有什么解决方案吗？  提前致谢！   由   提交/u/DomCorleone69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqjtm0/contact_form_7_in_html_or_alternatives/</guid>
+      <pubDate>Wed, 14 Feb 2024 10:30:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地测试/使用使用“安全”功能的网页的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqjpt9/what_is_the_best_way_to_locally_testuse_a_webpage/</link>
+      <description><![CDATA[编辑：标题中的拼写错误。忽略“with” 编辑：现在大部分已解决，请参阅评论。我仍然有几个问题，最重要的是关于我在 Chromium 中收到的弃用警告，我不明白。 大家好，我不是 Web 开发人员，但我很平静。 大家好，我不是 Web 开发人员，但我很平静。 &gt; 我正在制作一个与 MIDI 相关的小型应用程序。在考虑了所有选项之后，我得出的结论是，实现它的最合理选择是网页，我认为我可以用浏览器在本地打开它。 问题是，我的网页使用Web MIDI API 的，浏览器往往会拒绝激活，除非它通过HTTPS 连接。更具体地说，维基百科中的 MIDI 功能已关闭，并且 Chromium 发出弃用警告（因此我认为我的应用程序在某个时候也会停止在那里工作）。 我尝试运行 Browsersync 获取本地 HTTPS Web 服务器，使用以下命令： npx browser-sync start --server  它最初实际上可以与 Firefox 配合使用，这意味着我可以访问我的网页并使用 MIDI 功能，但今天早上 Firefox 告诉我我的连接不安全，我不知道为什么。请记住，我不是 Web 开发人员，整个 HTTPS 的事情对我来说似乎有点复杂 😅。 Chromium 现在的失败方式与 Firefox 相同。 任何信息/帮助/建议将不胜感激。特别是，请随意质疑我的技术选择并提出替代方案。   由   提交 /u/project_broccoli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqjpt9/what_is_the_best_way_to_locally_testuse_a_webpage/</guid>
+      <pubDate>Wed, 14 Feb 2024 10:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>“盗链”与“复制”的礼仪（无论哪种方式都完全归因）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqjffb/etiquette_for_hotlinking_vs_reproducing/</link>
+      <description><![CDATA[当我引用或介绍其他各方时，我喜欢至少包含他们的徽标或某种特征图像，以增加一些深度参考。 我倾向于直接从他们的官方网站链接/嵌入这些资产。我的理由/自然偏好是避免复制和托管他人的内容（这是他们的 IP）。 但是，我刚刚读到“热链接”和“热链接保护”（没有人拥有“对我来说，我只是在阅读/学习网络开发，是的，我绝对是一个业余爱好者），现在我很矛盾...... 我应该（a）引用他们的网站吗？并“进行盗链”但避免复制其内容？或者 (b) 获取一份副本并自己托管，但减少他们的资源？或者 (c) 忘记图像，只需恢复到带有文本和超链接的 OG www。 感谢任何帮助和帮助。间接从其他人的帖子中学习东西！   由   提交 /u/Psengath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqjffb/etiquette_for_hotlinking_vs_reproducing/</guid>
+      <pubDate>Wed, 14 Feb 2024 10:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名 Web 开发人员，但并不是所有编程语言的大师。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqj9nh/im_a_web_dev_not_a_master_of_all_programming/</link>
+      <description><![CDATA[最近公司和雇主发生了什么。现在大多数招聘广告似乎都有条款...我们需要懂 HTML、CSS、JS Vue 和 React 等的人...（没问题）...哦，顺便说一句...你还需要有强大的 C# 能力和对 Linux 服务器端的强大掌握等我只是一个人哈哈    由   提交 /u/beginningofdayz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqj9nh/im_a_web_dev_not_a_master_of_all_programming/</guid>
+      <pubDate>Wed, 14 Feb 2024 09:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>蔚蓝前门雨火 403</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqj52y/azure_frontdoor_rain_fires_403/</link>
+      <description><![CDATA[大家好， 我工作的公司最近切换到 Frontdoor。现在一切都乱了。 我们是一家以 API 为中心的公司，这意味着我们处理 JSON 和 XML，这些 XML 具有架构链接和内容。就像没有可以定义的模式一样。  现在的问题是，API 调用在生产环境中左右受阻，而从开发人员角度来看，我们感到措手不及。我们公司的预算有点紧张，所以现在没有 UAT，我们只有开发和质量保证。这两个都驻留在专用网络中 即使我们被迫拥有一个 UAT，QA 也能够在其中测试“某些”网络。作为一家 SaaS 公司，我们可能无法测试客户尝试的所有场景。  理想的方式是什么！？应该如何顺利解决这个问题，以便我们可以放心地说，只有恶意 API 调用才会被阻止，而不会阻止有效的 API 调用。 谢谢   由   提交 /u/Mindless-Umpire-9395   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqj52y/azure_frontdoor_rain_fires_403/</guid>
+      <pubDate>Wed, 14 Feb 2024 09:42:35 GMT</pubDate>
+    </item>
     <item>
       <title>我应该担心吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqhxlh/should_i_be_worried/</link>
-      <description><![CDATA[最近使用 docker-compose 启动了一个站点（尚不需要 Swarm 或 Kubernetes 等可扩展性），运行容器化 Django、Nginx、Celery 等容器。&lt; br /&gt; 它托管在 Ubuntu 20 的 DO Droplet 上，并在顶部运行 Cloudflare。 一切都在顺利运行，直到昨晚我收到我的网站已关闭的通知。尝试打开它时，我不断收到： 此网站无法提供安全连接并且{{ domain }} 使用不受支持的协议。  我重新启动了发行版，重新启动了容器 - 什么也没有。再次重新启动容器后，这次不是处于分离模式，一切都恢复正常。我的 SSL 证书还剩 40 天，我没有更改任何配置。  是否存在恶意行为或类似的事情偶尔发生？谢谢   由   提交/u/denisbotev  [链接] [评论]]]></description>
+      <description><![CDATA[最近使用 docker-compose 启动了一个站点（尚不需要 Swarm 或 Kubernetes 等可扩展性），运行容器化 Django、Nginx、Celery 等容器。&lt; br /&gt; 它托管在 Ubuntu 20 的 DO Droplet 上，并在顶部运行 Cloudflare。 一切都在顺利运行，直到昨晚我收到我的网站已关闭的通知。尝试打开它时，我不断收到： 此网站无法提供安全连接并且{{ domain }} 使用不受支持的协议。  我重新启动了发行版，重新启动了容器 - 什么也没有。再次重新启动容器后，这次不是处于分离模式，一切都恢复正常。 我的 SSL 证书还剩 40 天，我没有更改任何配置。  是否存在恶意行为或类似的事情偶尔发生？谢谢   由   提交/u/denisbotev  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqhxlh/should_i_be_worried/</guid>
       <pubDate>Wed, 14 Feb 2024 08:13:42 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[   /u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqhcdc/how_to_use_cache_in_cloudflare_workers_newbeelearn/</guid>
       <pubDate>Wed, 14 Feb 2024 07:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在时间窗口内控制机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqgosz/controlling_bots_within_time_windows/</link>
-      <description><![CDATA[我想暂时减少机器人在高峰时段对我的系统施加的资源负载（目前可能是正常流量的 2-3 倍）。有没有标准的方法来做到这一点？我正在考虑如果检测到机器人，则立即返回响应代码 429 Too Many Requests 或 503 Service Unavailable 。    由   提交/u/everybodyoutofthepoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqgosz/controlling_bots_within_time_windows/</guid>
-      <pubDate>Wed, 14 Feb 2024 06:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何托管我的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqfz72/how_should_i_host_my_site/</link>
-      <description><![CDATA[我正在为《命运 2》构建一个 Web 应用程序，可让您根据一系列不同因素计算伤害，并想知道托管的最佳方式是什么未来是。现在我在 github 页面上有一个超级简化的版本，但我现在意识到我需要一个数据库，并且（据我所知）没有办法在那里进行数据库集成。 所以这是我的问题，我应该转移到 AWS 这样的网站，还是自己设置一个家庭服务器并托管它。如果我选择云，我如何托管数据库？它会变得过于昂贵吗？ 如果我使用家庭服务器，我可以通过一些我认识的人免费获得一个，所以我不需要预先支付任何费用。我愿意学习如何做到这一点，我的方式可能是托管网站和一个单独的 api，这样我就可以格式化一个请求以发送到 api，然后该 api 将访问数据库并返回我的内容需要。 我也已经有了一个可以使用的域名。我已经说服自己，家庭服务器是最好的选择，但想看看你们会如何解决这个问题。就上下文而言，数据库现在只是大的 json 文件，我使用的算法是用 python 编写的。无论我选择什么选项，我还需要有环境变量来隐藏 api 密钥。   由   提交 /u/ll-Fuze-ll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqfz72/how_should_i_host_my_site/</guid>
-      <pubDate>Wed, 14 Feb 2024 06:05:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于通过 Knex 查询轻松实现 Relay 游标分页的节点库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqfk78/node_library_for_easily_implementing_relay_cursor/</link>
-      <description><![CDATA[       由   提交 /u/izzlesnizzit   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqfk78/node_library_for_easily_implementing_relay_cursor/</guid>
-      <pubDate>Wed, 14 Feb 2024 05:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目从哪里开始？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqf7ly/where_to_start_on_project/</link>
-      <description><![CDATA[我想为一个业余项目创建我的第一个网站，并希望获得一些关于研究内容/如何实现某些功能的建议。我确实没有经验，所以欢迎任何建议。  上下文的项目描述：扫描时链接到包含与特定标签相关信息的网页的物理 ID 标签。每个标签都带有序列号和 PIN，可添加到用户的帐户（在网站上）以编辑标签信息。 网站目标：超越主页、关于页面和联系页面等基本网站创建。我希望用户能够使用该网站创建帐户或绑定到他们的 Google 帐户。每个用户个人资料都能够更改电子邮件、密码等基本信息，并能够将标签连接到个人资料。标签将通过输入 S/N 和 PIN 来连接到该帐户。连接后，用户将能够更改扫描标签时显示在显示页面上的基本信息，例如名称和描述。每个标签都有一个与序列号相关联且仅供查看的显示页面。显示页面仅在扫描标签并打开链接时显示，而不是通过网站上的任何部分显示。我还希望通过输入随机 URL 很难查看子页面。 感谢您的帮助！ :)   由   提交 /u/TheDeadCatJeep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqf7ly/where_to_start_on_project/</guid>
-      <pubDate>Wed, 14 Feb 2024 05:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需自己动手即可发布内容的最佳/最简单方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqely7/besteasiest_way_to_put_up_content_without_doing/</link>
-      <description><![CDATA[如果这不是正确的 subreddit，请提前抱歉。如果没有，如果你能至少推荐一下 Reddit 子版块，那就太好了。  我的缺点之一是写作。我可以坐在那里看一个页面一个小时，也许可以打出三个句子。我有大约 25 页关于特定主题的内容，需要放在我的网站上，但输入这么多内容简直让我发疯。  我正在寻找一位文案撰稿人，但他们每页收费约 300 美元，所以我现在不想付 7,500 美元。  我的朋友告诉我使用 Chat GPT。 Chat GPT 可以用于此目的吗？是否有您推荐的人工智能内容创作者，或者我可能不知道的其他选项？ 谢谢！  &amp;# 32；由   提交/u/zenlifey  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqely7/besteasiest_way_to_put_up_content_without_doing/</guid>
-      <pubDate>Wed, 14 Feb 2024 04:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>你怎么称呼这种设计风格？ Z世代??</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqe350/what_do_you_call_this_design_style_genz/</link>
-      <description><![CDATA[      我在一些地方看到过这种样式，但我不确定它是什么简称为。  我能描述的最好方式是：  对于年轻观众（Z 世代？），在我看来，他们是野兽先生的粉丝，并且喝酒Prime :D  明亮的荧光调色板 有趣的字体，几乎是 Comic Sans，带有阴影  我附上了一个示例我的意思是。 ​ https://preview.redd.it/qqtds8vl8hic1.png?width=2616&amp;format=png&amp;auto=webp&amp;s=7b52cf4ce8fbb9cbabddeb1c18965a10d6b15869 &lt; !-- SC_ON --&gt;  由   提交 /u/fartzilla21   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqe350/what_do_you_call_this_design_style_genz/</guid>
-      <pubDate>Wed, 14 Feb 2024 04:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何跟上任务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqdofw/how_do_you_keep_up_with_tasks/</link>
-      <description><![CDATA[每个人都选择什么软件/技术来完成任务？ 我的工作场所都是公司制的，有很多网络和桌面应用程序，主要是网络应用程序。我每周都会参加 2 到 3 项任务，但总的来说，我的工作量中有大约 15 项任务，有些是不活动的，有些处于测试状态，有些正在开发中。 对于我的每项任务跟踪多个项目/id：内部任务 ID、内部部署 ID、git 分支、附加的 sql 脚本的名称、处理/更新的文件的名称、相关的测试帐户，当然还有笔记等。 我主要将所有这些内容保存在记事本++中的 1 到 3 个文件中，但我想要升级.. 你们如何跟踪类似的事情？我想听听你所有的方法。 ​ 谢谢   由   提交/u/DarthCoderMx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqdofw/how_do_you_keep_up_with_tasks/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让一家只使用 Facebook 的餐厅相信网站会带来好处？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqdo9m/how_do_you_convince_a_restaurant_that_only_uses/</link>
-      <description><![CDATA[您好， 我目前正在查看周围的餐馆，发现绝大多数都使用 Facebook 页面作为他们的“网站”。通常，他们只发布菜单更改，偶尔发布公告或照片。 当然，Facebook 在社交媒体策略中占有一席之地，但在我看来，它不太适合作为网站的替代品。它的主要吸引力在于它简单且免费，但我不禁认为这些企业可以从拥有一个带有 CMS 的真实网站中受益，该网站允许他们更改菜单。然后可以使用 Facebook/Instagram 等来宣传该餐厅并接触顾客，而不是成为无聊的“本周菜单”。页面。 您将如何与这些企业讨论，看看转向网站是否有意义，同时尝试向他们展示如何从拥有网站和社交媒体中受益？  p&gt; 谢谢！   由   提交 /u/Extreme_Garlic_87000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqdo9m/how_do_you_convince_a_restaurant_that_only_uses/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:58:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用yarn add时出现权限错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqd66r/permission_error_when_using_yarn_add/</link>
-      <description><![CDATA[嘿，这里是初学者 Web 开发人员，我正在尝试按照 YouTube 上的教程构建一个市场（我使用 MacOS），但我总是收到权限错误当我使用yarn add或npx来安装某些东西时，我只使用了sudo并且它可以工作，在我到达必须将package.json中的“dev”字段更改为“cross-env PAYLOAD_CONFIG_PATH=src/payload”的部分之后。 config.ts nodemon&#39; 并删除 package-lock.json ，甚至yarn dev也无法工作，它显示了一个奇怪的错误，我无法理解它，而且它也不在堆栈溢出上。 ​ ; 错误信息：node:events:495  throw er; // 未处理的“错误”事件 ^错误：生成nodemon ENOENT   由   提交 /u/AeroArtz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqd66r/permission_error_when_using_yarn_add/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:32:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用yarn add时出现权限错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqd66o/permission_error_when_using_yarn_add/</link>
-      <description><![CDATA[嘿，这里是初学者 Web 开发人员，我正在尝试按照 YouTube 上的教程构建一个市场（我使用 MacOS），但我总是收到权限错误当我使用yarn add或npx来安装某些东西时，我只使用了sudo并且它可以工作，在我到达必须将package.json中的“dev”字段更改为“cross-env PAYLOAD_CONFIG_PATH=src/payload”的部分之后。 config.ts nodemon&#39; 并删除 package-lock.json ，甚至yarn dev也无法工作，它显示了一个奇怪的错误，我无法理解它，而且它也不在堆栈溢出上。 ​ ; 错误信息：node:events:495  throw er; // 未处理的“错误”事件 ^错误：生成nodemon ENOENT   由   提交 /u/AeroArtz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqd66o/permission_error_when_using_yarn_add/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:32:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>你会怎么做这个？ CSS 还是将其制作为图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqd3vx/how_would_you_make_this_css_or_make_it_as_an_image/</link>
-      <description><![CDATA[      嘿伙计们，需要你们对此的想法。  我正在制作一个采用这种设计的登陆页面。我不知道如何创建这样的背景（具有弯曲的线条和不同的颜色），上面还有另一个部分，其纯蓝色连接到该部分。  这可以在 CSS 中完成吗？或者我应该将其制作为图像？ https://preview.redd.it/lfqip10ozgic1.png?width=1086&amp;format=png&amp;auto=webp&amp;s=829374d8716cc3db5b30566854e62535477551ef   由   提交/u/luckypanda95  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqd3vx/how_would_you_make_this_css_or_make_it_as_an_image/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:28:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
