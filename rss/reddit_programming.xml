@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 14 Feb 2024 06:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 09:13:28 GMT</lastBuildDate>
+    <item>
+      <title>DoorDash 使用 CockroachDB 创建微服务配置管理平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqip03/doordash_uses_cockroachdb_to_create_config/</link>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqip03/doordash_uses_cockroachdb_to_create_config/</guid>
+      <pubDate>Wed, 14 Feb 2024 09:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>模糊效果后处理 (Unity)</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqhjxd/blur_effects_post_processing_unity/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqhjxd/blur_effects_post_processing_unity/</guid>
+      <pubDate>Wed, 14 Feb 2024 07:47:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZetScript 编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqh55h/zetscript_programming_language/</link>
+      <description><![CDATA[ 由   提交 /u/Pioneer_X   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqh55h/zetscript_programming_language/</guid>
+      <pubDate>Wed, 14 Feb 2024 07:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 ChatGPT Api 和 Node.js 总结 Youtube 视频</title>
+      <link>https://www.reddit.com/r/programming/comments/1aqgtu5/how_to_summarize_youtube_video_using_chatgpt_api/</link>
+      <description><![CDATA[如何使用人工智能总结 YouTube 视频。 📺 我经常因为忙于承诺或其他事情而错过我喜欢的视频。 在本期实施中，我将解释如何从头开始制作一个系统YouTube 视频的链接会生成文本摘要。 https://implementing.substack.com/p/how-to-summarize-youtube-video-using&quot;&gt;https:/ /implementing.substack.com/p/how-to-summarize-youtube-video-using 让我知道您的想法！ 💭   由   提交 /u/MarcoMoauro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aqgtu5/how_to_summarize_youtube_video_using_chatgpt_api/</guid>
+      <pubDate>Wed, 14 Feb 2024 06:58:39 GMT</pubDate>
+    </item>
     <item>
       <title>关于学习，软件开发人员应该了解的 10 件事</title>
       <link>https://www.reddit.com/r/programming/comments/1aqevuq/10_things_software_developers_should_learn_about/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/chip_1992  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aq7xjy/enhancing_team_communication_by_leveraging_team/</guid>
       <pubDate>Tue, 13 Feb 2024 23:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用Spring框架快速跟踪数据流开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq7ler/how_to_fast_track_data_stream_development_with/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] &amp; #32； [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq7ler/how_to_fast_track_data_stream_development_with/</guid>
-      <pubDate>Tue, 13 Feb 2024 23:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 C 创建了自己的动态整数列表，我对 C 还很陌生，所以我希望得到一些建设性的批评</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq75dh/i_made_my_own_dynamic_integer_list_in_c_im_pretty/</link>
-      <description><![CDATA[ 由   提交/u/Tearsofthekorok_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq75dh/i_made_my_own_dynamic_integer_list_in_c_im_pretty/</guid>
-      <pubDate>Tue, 13 Feb 2024 22:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Socket 项目报告 v0 弃用</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq4tfx/socket_project_reports_v0_deprecation/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq4tfx/socket_project_reports_v0_deprecation/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个程序员都应该知道#2：乐观并发控制</title>
-      <link>https://www.reddit.com/r/programming/comments/1aq3cmy/every_programmer_should_know_2_optimistic/</link>
-      <description><![CDATA[ 由   提交/u/berkansasmaz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aq3cmy/every_programmer_should_know_2_optimistic/</guid>
-      <pubDate>Tue, 13 Feb 2024 20:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

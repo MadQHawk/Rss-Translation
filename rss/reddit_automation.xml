@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 14 Feb 2024 06:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 09:12:29 GMT</lastBuildDate>
+    <item>
+      <title>通过教授 ChatGPT 了解您的业务，工作速度提高 20%</title>
+      <link>https://www.reddit.com/r/automation/comments/1aqicjj/work_20_faster_by_teaching_chatgpt_to_understand/</link>
+      <description><![CDATA[       由   提交/u/moshestv  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1aqicjj/work_20_faster_by_teaching_chatgpt_to_understand/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:43:26 GMT</pubDate>
+    </item>
     <item>
       <title>手动触发 Zapier Zaps</title>
       <link>https://www.reddit.com/r/automation/comments/1aqaqto/manually_triggering_zapier_zaps/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>在图像上批量插入文本</title>
       <link>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</link>
-      <description><![CDATA[我正在寻找一个网站，可以让我上传图片模板和大约 20 个不同的句子，然后自动将每个句子添加到单独的图像中。&lt; /p&gt;   由   提交/u/rattletrap777  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个网站，可以让我上传图片模板和大约 20 个不同的句子，然后自动将每个句子添加到单独的图像中。&lt; /p&gt;   由   提交/u/rattletrap777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</guid>
       <pubDate>Tue, 13 Feb 2024 22:12:39 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>寻求适用于 MacOS 和 Win32 桌面应用程序的自动化工具</title>
       <link>https://www.reddit.com/r/automation/comments/1apeuns/seeking_automation_tools_that_work_for_both_macos/</link>
-      <description><![CDATA[嗨， 我们有一个有两种风格的本机桌面：MacOS（用 C++ 和 Objective 混合编写） -C++) 和 Win32 (C++ &amp; C#/.NET) 我正在寻找支持这两个平台的自动化 UI 测试工具。理想情况下，该工具应该是低代码/无代码的，但我肯定会考虑那些需要脚本编写的工具。 如果不存在这样的工具，我会很感激针对专门针对 MacOS 桌面自动进行 UI 测试的工具的建议只是，因为我遇到过很多只支持 Win 桌面测试的工具。 谢谢。   由   提交/u/Various-Roof-7472   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我们有一个有两种风格的本机桌面：MacOS（用 C++ 和 Objective 混合编写） -C++) 和 Win32 (C++ &amp; C#/.NET) 我正在寻找支持这两个平台的自动化 UI 测试工具。理想情况下，该工具应该是低代码/无代码的，但我肯定会考虑那些需要脚本编写的工具。 如果不存在这样的工具，我会很感激针对专门针对 MacOS 桌面自动执行 UI 测试的工具的建议只是，因为我遇到过很多只支持 Win 桌面测试的工具。 谢谢。   由   提交/u/Various-Roof-7472   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1apeuns/seeking_automation_tools_that_work_for_both_macos/</guid>
       <pubDate>Mon, 12 Feb 2024 23:45:22 GMT</pubDate>
     </item>
     <item>
       <title>自动化滑雪比赛注册页面</title>
       <link>https://www.reddit.com/r/automation/comments/1ap5axe/automate_a_ski_race_signup_page/</link>
-      <description><![CDATA[嗨， 我即将参加一场名为 vasaloppet 的滑雪比赛，那里有不同的出发组。 这些组是07:00、07:10、07:20、07:30 等直至 08:00。  除08:00外，一组可容纳x人，可容纳任意数量。问题是我无法切换到较早的群组，因为该群组已满，并且我需要等待有人离开群组才能加入。最重要的是，我需要在有人更改组时进行签名，以便能够在其他人之前进行更改。 有没有一种简单的方法可以自动执行此操作？我在 python 中看到了一些关于 Beautifulsoup 的内容，但是有没有更简单的方法可以使用浏览器扩展等来不断刷新页面并尝试 HTTP - 调用更改组请求。 任何帮助将不胜感激！    由   提交 /u/Complete_Original999   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我即将参加一场名为 vasaloppet 的滑雪比赛，那里有不同的出发组。 这些组是07:00、07:10、07:20、07:30 等直至 08:00。  除08:00外，一组可容纳x人，可容纳任意数量。问题是我无法更改到较早的群组，因为该群组已满，并且我需要等待有人离开群组才能加入。最重要的是，我需要在有人更改组时进行签名，以便能够在其他人之前进行更改。 有没有一种简单的方法可以自动执行此操作？我在 python 中看到了一些关于 Beautifulsoup 的内容，但是有没有更简单的方法可以使用浏览器扩展等来不断刷新页面并尝试 HTTP - 调用更改组请求。 任何帮助将不胜感激！    由   提交 /u/Complete_Original999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ap5axe/automate_a_ski_race_signup_page/</guid>
       <pubDate>Mon, 12 Feb 2024 17:20:40 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>你能实现自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1akkya4/can_you_automate_automations/</link>
-      <description><![CDATA[我想是的，所以我为此构建了一个工具（taskmole.co）。 你们都觉得怎么样？太棒了/不清楚/玩具？ 问题 我想让公司（50 人）的大部分服务交付工作实现自动化，但结果是过于手动且耗时。我不想花几天甚至几周的时间来规划某个流程中涉及的每个人的工作，然后才尝试想办法通过 Zapier / Make / n8n / 随机 RPA 工具实现自动化。 &lt; strong&gt;解决方案 任务挖掘+流程图+自动化建议应用程序。一体。您将其安装在计算机上，它会记录您所做的一切，然后将其提炼成简单的报告，向您展示 Zapier / Make / n8n 等流行工具中流程的自动化潜力。   由   提交/u/jzap456  [链接] [评论]]]></description>
+      <description><![CDATA[我想是的，所以我为此构建了一个工具（taskmole.co）。 你们都觉得怎么样？太棒了/不清楚/玩具？ 问题 我想让公司（50 人）的大部分服务交付工作实现自动化，但结果是过于手动且耗时。我不想花几天或几周的时间来规划某个流程中涉及的每个人的工作，然后才尝试想办法通过 Zapier / Make / n8n / 随机 RPA 工具实现自动化。 &lt; strong&gt;解决方案 任务挖掘+流程图+自动化建议应用程序。一体。您将其安装在计算机上，它会记录您所做的一切，然后将其提炼成简单的报告，向您展示 Zapier / Make / n8n 等流行工具中流程的自动化潜力。   由   提交/u/jzap456  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1akkya4/can_you_automate_automations/</guid>
       <pubDate>Tue, 06 Feb 2024 21:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个人工智能来帮你接电话！</title>
-      <link>https://www.reddit.com/r/automation/comments/1ake18v/i_made_an_ai_that_picks_up_the_phone_for_you/</link>
-      <description><![CDATA[大家好！我和我的朋友们制作了一个可以帮你打电话的人工智能系统。 Opencall 是我们尝试了解人工智能如何承担日常电话任务的尝试。很容易让它非常可靠地完成任务，同时又超轻且快速。您可以：  获取电话号码并将其连接到自定义代理 通过该号码 24x7 接听数百个电话。 自动收取费用来自这些调用的数据 在调用期间向调用者提供实时数据 对第三方集成执行 API 调用  我们为任何想要尝试并通过他们的用例与我们交谈的人提供个性化设置。我们正在尝试看看我们可以在哪些实际应用中使用我们的人工智能，我们将不胜感激任何反馈（请随时私信我）！ 网站： opencall.ai 演示（眼科办公室接待员）：致电 +1(650) 651-4460   由   提交 /u/shiny_beluga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ake18v/i_made_an_ai_that_picks_up_the_phone_for_you/</guid>
-      <pubDate>Tue, 06 Feb 2024 16:38:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
