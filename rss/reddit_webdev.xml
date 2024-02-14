@@ -4,11 +4,74 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 15:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 18:16:17 GMT</lastBuildDate>
+    <item>
+      <title>Nextjs App Router - 在 Shopify 上更新数据后，使用 Shopify Storefront API 找不到 404</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqte9d/nextjs_app_router_404_not_found_using_shopify/</link>
+      <description><![CDATA[最近，我的同事通过管理面板对 Shopify 产品进行了一些更改，添加了一个产品并删除了两个现有产品。然而，前端不是不显示已删除的产品，而是显示一个空图像，并带有类似“shopify.cdn 404 错误”之类的控制台错误消息。在 Next.js 中。此外，Shopify 管理面板上最近添加的产品没有出现在前端。 我在 Cloudflare Pages 上重试了部署（我的 Next.js 项目是使用 Edge 运行时部署的），刷新后页面，所有内容都显示为最新。我很好奇可能导致此问题的原因以及如何确保 Shopify 后端中的每个更改都能反映在前端上，而无需重试部署。在本地，后端的更改会自动反映在前端。 据我所知，GraphQL 代码很好。但以下是在 page.tsx 中使用 Storefront API Client 获取数据的代码： const Collection: NextPage = async () =&gt;; { const { 数据：{ 产品：{ 节点：产品 } }，错误：productsErrors } = 等待 client.request(GET_PRODUCTS); const { 数据：{ 集合：{ 节点：集合 } }，错误：collectionsErrors } = 等待 client.request(GET_COLLECTIONS); return (  &lt;&gt;   ;  ) }  产品数据依次传递到 客户端组件，如上所示。我指的文档是这个：https://shopify.dev/docs/api/storefront。使用 Storefront API 客户端库。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqte9d/nextjs_app_router_404_not_found_using_shopify/</guid>
+      <pubDate>Wed, 14 Feb 2024 18:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>重构十诫</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqtdx7/the_ten_commandments_of_refactoring/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqtdx7/the_ten_commandments_of_refactoring/</guid>
+      <pubDate>Wed, 14 Feb 2024 18:05:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>重叠的服务箱问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqsnoy/overlapping_service_box_issues/</link>
+      <description><![CDATA[嗨r/webdev！ 我正在从 Google 协作平台过渡，发现了一个由 HTML Codex 制作的模板。我使用了该模板并进行了一些修改以适应我正在开发的品牌，但我一生都无法获得服务项目框，当放大超过 170% 时，文本和图标不会延伸到框之外我只用两个盒子。盒子还需要更宽，我认为这是问题的一部分。当我考虑那些通过移动设备访问该网站或某人的显示屏较小时，这是一个问题。 在几个月的时间里，我研究了这个问题并尝试更改显示 元素，将 min-width 元素以及诸如 flex-direction 之类的其他方面应用于框，但没有任何改进。唯一的小改进是在框中实现类似 font-size:1.5vw 的内容，但这还不够。使用AI工具对解决问题也无济于事。 去年我把用于故障排除的网站放在了GitHub上，这是可在此处获取。如果您想要视觉布局想法，可以在此处可见该网站。当您向下滚动到社区服务时，服务框位于主页上。 我的目标是让文本和图标适合服务框，并让服务框在小屏幕上查看时自然调整（当放大浏览器时。）   由   提交 /u/XGMCLOLCrazE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqsnoy/overlapping_service_box_issues/</guid>
+      <pubDate>Wed, 14 Feb 2024 17:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于所有浏览器的 Opus 编码和解码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqsbgx/opus_encoding_and_decoding_that_works_in_every/</link>
+      <description><![CDATA[嘿！ 我想我正在尝试让 ogg/opus 音频流编码/解码在每个浏览器中工作这将是某个库的 WASM 版本，直到 Safari 开始支持 WebCodecs 的音频 api。有人有这方面的经验吗？我一直在查看 https://github.com/pion/opus?tab=readme-ov-file  ，但我想要小的bunde大小，所以编译Go是行不通的。我还查看了ffmpeg并仅使用Opus编码器/解码器编译它，但似乎API使得直接使用流变得困难。然后我们有一些 C 和 Rust（实验性）实现，它们有可能被编译为 WASM。但这条路似乎并不平坦。 我想要的是录制麦克风音频并将原始音频数据转换为 ogg/opus 并使用 WebAudio APIdecodeAudioData() 方法立即播放   由   提交/u/marcus-pousette   reddit.com/r/webdev/comments/1aqsbgx/opus_encoding_and_decoding_that_works_in_every/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqsbgx/opus_encoding_and_decoding_that_works_in_every/</guid>
+      <pubDate>Wed, 14 Feb 2024 17:22:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找我看到的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqr8z1/im_looking_for_a_website_i_saw/</link>
+      <description><![CDATA[我正在开发一个网站，该网站保存正在填充的地铁中的涂鸦，就像历史数据库一样。我正在继续前一年另一位学生留下的内容...所以我正在尝试修复主地图页面。我查看了我的历史记录，找不到我想要使用其中的代码的示例页面，它是一些开源网站。但我找不到它。该网站，我记不清了，但我记得它有看起来像 Roguelike 迷你地图之一的东西，左上角有小圆角方块，你也可以垂直滚动作为水平。它可能是在 ThreeJS 中，或者是 JQuery 的东西，我记得在课堂上做一个 React 项目时看过这个。“地图”页面的问题是有一个地铁的蓝图，每个部分都有一个蓝图所述部分的叠加图像。问题是他们让它是动态的并使用网格，并且没有固定任何东西，所以如果你改变屏幕尺寸，它就会完全混乱。  如果您想要/需要该网站，我可以编辑并提供它，但我不确定它是否真的需要。这是一个学校项目，没有金钱收益。   由   提交 /u/PoiCats   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqr8z1/im_looking_for_a_website_i_saw/</guid>
+      <pubDate>Wed, 14 Feb 2024 16:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何称呼“访问者”存储库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqqomh/how_do_you_call_the_visitor_repository/</link>
+      <description><![CDATA[您好， 我正在创建一个新的 Web 应用程序，对于 api 和后台，我有明确的名称。对于处理访问者请求的存储库，多年来我使用了不同的名称：public、frontend、portal、web... 您最喜欢哪一个？ &lt; !-- SC_ON --&gt;  由   提交/u/xavicx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqqomh/how_do_you_call_the_visitor_repository/</guid>
+      <pubDate>Wed, 14 Feb 2024 16:15:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近被代码国家课程录取。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqq8yv/ive_recently_been_accepted_onto_a_code_nation/</link>
+      <description><![CDATA[我正在等待合规部门的技能扫描，对此我有点紧张。有人能明白它意味着什么吗？我相当确定这只是英语测试或类似的测试。我只是想复习一下所需的技能。   由   提交 /u/Acrobatic_Step_1171   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqq8yv/ive_recently_been_accepted_onto_a_code_nation/</guid>
+      <pubDate>Wed, 14 Feb 2024 15:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为技术堆栈提供建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqq2ar/advise_for_a_tech_stack/</link>
+      <description><![CDATA[我面临着在公司网站上实现导航（页眉和页脚）的挑战，该导航可以在任何页面上注册，无论其内容如何主机站点的技术堆栈。 ​ 当前堆栈：  Vue CLI 自定义构建目录 + Tailwind（Web 组件） Decap CMS（以前的 Netlify CMS）作为一个轻量级无头、平面文件 CMS，它包裹着 git 工作流程（在自托管的 GitLab 实例上），生成静态文件多种语言的 JSON 文件  我们能够为页眉和页脚构建单独的 Web 组件，具有不同的主题和功能特性。我们能够在注册期间将自定义道具传递给 Web 组件，即  [...]  [#shadowDom]  [...] &lt;script src=“header.min.js”&gt;&lt;/script&gt;  [...] 组件的内容是从我们与每种语言的 JS 包一起提供的静态 JSON 文件中获取的（即 en/header-A.json、fr/header-A.json、it/footer-b.json、es/footer-b.json 等） Gitlab 后端允许我们的贡献者直接使用他们的 GitLab 帐户登录，并具有维护者权限，以便获得推送访问权限。 我们将授权代码与 PKCE 流程一起使用。 ​ &lt; p&gt;我喜欢当前实现的地方是，网络组件很容易注册（设置），并且通过传递自定义道具可以高度自定义。 ​ 以下一些问题使用当前的解决方案。 ​ Decap CMS：  贡献体验较差 由于嵌套条目的数量（我们有三到四个级别的导航），对象小部件和 UI 可能会变得有点复杂 内置预览仅在您使用 React 时才起作用，没有支持其他框架，例如 Vue.js（我们在管理面板之外构建了自己的预览页面） 相当简约的 UI，自过去几年以来没有真正的改进 开源项目，社区规模相当小，即使在 Decap 接手后进展也很缓慢  别误会我的意思，我喜欢开源项目，非常感谢所有贡献者经常维护如此出色的应用程序，但现阶段该应用程序缺乏满足特定要求的成熟度。 ​ Web 组件 (Vue CLI 自定义构建目标） :  Vue CLI 现在处于维护模式，自定义构建目标尚未在 Vue 3 中继续，但我们在 Vue 中确实有自定义组件3（不知道Web组件相对于自定义组件有什么优点/缺点）  Vue CLI生成的Web组件使用shadow-dom，这对SEO不友好，并且需要搜索引擎爬虫执行JS才能遍历 Shadow-dom 相信只有 Google 和 Ask.com 能够首先执行 JS 我们注册 Web 组件的每个域都会出现 CORS 问题，因为实际的 Web 组件正在请求内容来自初始页面加载时的静态 JSON 文件，而实际文件托管在专用生产服务器上，因此我们需要将每个域列入白名单，以便允许针对 JSON 文件的请求  对于改造，我需要满足 CMS 和前端应用程序的某些要求。 ​ CMS 的要求   没有数据库 无头 内容国际化 半途而废的贡献经验 理想地围绕 git 工作流程（准确地说是 GitLab） 理想地免费 没有 PHP，理想地是 Node.js  &amp;# x200b; 前端应用程序的要求  SEO 友好 小文件大小 轻松设置 必须在任何网站上运行，无论主机的技术堆栈如何 理想情况下预渲染HTML 必须能够渲染不同的内容布局/主题和自定义功能/行为 理想情况下基于 Vue.js 等框架，没有自定义代码  ​ 考虑到所有这些限制，我发现找到合适的解决方案相当令人沮丧，因此我感谢任何建议。   由   提交/u/Prior-Ad-2710   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqq2ar/advise_for_a_tech_stack/</guid>
+      <pubDate>Wed, 14 Feb 2024 15:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个非常具体的解决方案 - 调整大小时保持焦点。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqpwop/looking_for_a_very_specific_solution_keep_focus/</link>
+      <description><![CDATA[嘿伙计们，这里是一名 Web 开发新手。我最近制作了一个不错的视频浏览器页面，每个视频下方都有一堆链接，将其设置为在调整浏览器窗口大小时，显示：网格图块会增长，包括所有字体、按钮和边距。  但是一个负面的副作用是长视频列表中的当前焦点发生变化，列表向上爬行，直到我最终到达页面顶部。 我的最佳解决方案是什么在调整窗口大小时强制它“粘在”当前可见的视频列表部分？ 聊天 GPT 和谷歌搜索已被证明有点无用，也许我只是不知道实际上如何询问这个具体问题。   由   提交 /u/laacis3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqpwop/looking_for_a_very_specific_solution_keep_focus/</guid>
+      <pubDate>Wed, 14 Feb 2024 15:43:28 GMT</pubDate>
+    </item>
     <item>
       <title>如何将现有目录邮件列表集成到新的电子商务注册中</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqnz15/how_to_integrate_existing_catalogue_mailing_list/</link>
-      <description><![CDATA[你好。我在一家营销机构担任数字顾问，在审查客户的网站（不是我们开发的）时遇到了以下问题，我希望有人可以帮助我找出如何适当（且巧妙）解决的问题。&lt; /p&gt; 我们管理客户的纸质目录已有一段时间了。目录的每个客户都有一个帐户代码。最近，客户决定将纸质目录放到网上，开始接受网络订单。当有人去结帐时，它会询问他们是否是现有的目录客户。如果您单击“是”，它会显示一个示例目录标签的图像，其中突出显示了客户帐号，以及一个用于输入您的帐号的空白字段。如果您成功输入该号码，您的所有客户信息都会填充到新帐户中。这对我来说是隐私和安全的危险信号，因为拥有随机数生成器的黑客可以轻松提取他们的整个客户数据库，如果他们成功注册该帐户，他们还可以提取所有以前的订单信息。 我绞尽脑汁试图找出一种不同的方法来自动将新帐户注册链接到现有帐户，但我能想到的最好的方法是让在网站上注册的人拥有他们的最后一个帐户姓名、帐号和现有电子邮件或手机，用于发送短信验证码以验证该人的身份。然而，客户表示，他们只有大约 10% 的客户的电子邮件地址，并且数据库中的电话号码可能并不都是手机。 如有任何想法，我们将不胜感激。谢谢！ ​   由   提交 /u/quietpilgrim   [链接] [评论]]]></description>
+      <description><![CDATA[你好。我在一家营销机构担任数字顾问，在审查客户的网站（不是我们开发的）时遇到了以下问题，我希望有人可以帮助我找出如何适当（且巧妙）解决的问题。&lt; /p&gt; 我们管理客户的纸质目录已有一段时间了。目录的每个客户都有一个帐户代码。最近，客户决定将纸质目录放到网上，开始接受网络订单。当有人去结帐时，它会询问他们是否是现有的目录客户。如果您单击“是”，它将显示一个示例目录标签的图像，其中突出显示了客户帐号，以及一个用于输入您的帐号的空白字段。如果您成功输入该号码，您的所有客户信息都会填充到新帐户中。这对我来说是隐私和安全的危险信号，因为拥有随机数生成器的黑客可以轻松提取他们的整个客户数据库，如果他们成功注册该帐户，他们还可以提取所有以前的订单信息。 我绞尽脑汁试图找出一种不同的方法来自动将新帐户注册链接到现有帐户，但我能想到的最好的方法是让在网站上注册的人拥有他们的最后一个帐户姓名、帐号和现有电子邮件或手机，用于发送短信验证码以验证该人的身份。然而，客户表示，他们只有大约 10% 的客户的电子邮件地址，并且数据库中的电话号码可能并不都是手机。 如有任何想法，我们将不胜感激。谢谢！ ​   由   提交 /u/quietpilgrim   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqnz15/how_to_integrate_existing_catalogue_mailing_list/</guid>
       <pubDate>Wed, 14 Feb 2024 14:20:26 GMT</pubDate>
     </item>
@@ -43,72 +106,9 @@
     <item>
       <title>我将如何创建像这个交互式网站介绍这样的东西。</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqlh1k/how_would_i_go_about_creating_something_like_this/</link>
-      <description><![CDATA[https://learninglinksindia.org/   由   提交/u/franklinscntryclb   [链接] [评论]]]></description>
+      <description><![CDATA[https://learninglinksindia.org/   由   提交 /u/franklinscntryclb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqlh1k/how_would_i_go_about_creating_something_like_this/</guid>
       <pubDate>Wed, 14 Feb 2024 12:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助：使用 webpack-dev-server 运行时遇到 404 错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqkm85/help_facing_404_error_when_i_run_using/</link>
-      <description><![CDATA[我正在使用 Node.js 创建一个带有一些游戏的 javascript Web 应用程序，用于学习目的。我正在尝试使用 webpack 构建并使用 webpack-dev-server 运行它，但我遇到 404 错误。任何人都可以浏览一下我的项目并帮助我理解我做错了什么吗？   由   提交 /u/bunnuz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqkm85/help_facing_404_error_when_i_run_using/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>为具有多个开发人员的网站设置工作流程的最佳方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqkksi/best_way_to_set_up_my_workflow_for_my_site_with/</link>
-      <description><![CDATA[我正在寻求一些有关推动网站开发的最佳方式的建议。  我不是开发人员（请耐心等待），但多年来一直在修补我自己的网站，因此对一切如何运作有基本的了解。例如，我了解每种编码语言的作用，但无法自己编码。  我使用 Wordpress 和页面构建器 Elementor 和 Crocoblock（如果您熟悉的话）构建了我的网站，因为我基本上可以通过拖放来实现我想要的功能（我知道）。我喜欢使用可用的工具想象和添加新功能，并尽可能实现最佳的用户体验。任何我自己无法完成的事情，我都会聘请外部开发人员来完成，现在我会定期聘请一些人来完成任务。  现在的情况是，我有一个很好的电子商务网站，即将启动，我雇用的两名​​开发人员已经说过应该如何构建该网站而不使用 WordPress 插件，因为它们会减慢网站速度下来并添加不必要的痛点（更新破坏性内容等）。这是我想做的事情，并且在我的计划中，但我觉得我将失去自己向网站添加东西并尝试东西的能力，这就是我如何将我的想法变为现实并测试它们的方式。我想我不想失去它。我之前工作过，我刚刚雇佣开发人员来做所有事情，等待看到别人实现一个想法是令人沮丧的，然后它是不对的，所以它会再次完成，也许仍然不太正确等等。我补充道特性和功能，我可以创建它，然后对开发人员说 - 好吧，看看这个，这就是我想要的。就是这样。还有一点是，我想保持对正在进行的开发的控制。 因此，这篇文章的要点以及我对经验丰富的开发人员的问题是，实现上述目标的最佳流程和设置是什么？您可能还有其他一些想法，但这些是我想到的：  有一个临时站点，我的测试站点配备了所有页面构建器等，供我添加功能&lt; /li&gt; 我将更改或添加内容添加到我的暂存站点 拥有第二个暂存站点，将更改推送到该暂存站点以供开发人员处理 开发人员转换将我的想法转化为暂存站点 2 上的常规编码元素 我检查他们的暂存站点上的工作 如果一切顺利，我会将文件上传到实时站点 这样，就会有一个阶段，我可以添加我的想法，一个阶段，开发人员实现它们，但没有它上线，我可以仔细检查，以及一个阶段，只有我可以进行更改。  从经验丰富的开发人员的角度来看，这对我来说是一个好的或可行的设置，因为我知道我不是真正的开发人员，但想保持一些创造性的控制和对安全性的完全控制？  感谢您的宝贵时间。   由   提交 /u/ChrisRussellHosp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqkksi/best_way_to_set_up_my_workflow_for_my_site_with/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：在 Namecheap 和 Cloudflare 之间进行域名注册选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqkgf6/help_needed_choosing_between_namecheap_and/</link>
-      <description><![CDATA[嘿 Reddit 社区， 我目前与域名注册提供商面临着两难的境地。我一直在使用 Google Domains，但随着 Squarespace 最近收购，所有域名都将转移到 Squarespace。不过，出于各种原因，我不想使用 Squarespace。 以下是我当前的设置：  通过 Google Domains 注册的域名 网站代码托管于GitHub 使用 Netlify 进行部署 利用 Netlify DNS  现在，我正在考虑两个选项：  &lt; li&gt;将域名转移到 Namecheap 并在那里管理 DNS，同时保持其他所有内容不变。 将域名转移到 Cloudflare，使用 Cloudflare DNS，并探索用于从 GitHub 托管网站的 Cloudflare Pages。 &lt; /ol&gt; 我的偏好如下：  性能 安全 易于使用 价格&lt; /li&gt;  考虑到我的偏好，我正在寻求有关哪个选项最适合我的设置的建议。如果您对 Namecheap 或 Cloudflare 进行域名注册和 DNS 管理有任何见解、经验或建议，我们将不胜感激。 提前感谢您的帮助！ &lt;!-- SC_ON - -&gt;  由   提交/u/ok-capital442200  /u/ok-capital442200 reddit.com/r/webdev/comments/1aqkgf6/help_needed_choosing_ Between_namecheap_and/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqkgf6/help_needed_choosing_between_namecheap_and/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:11:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>请教我有关移动优先的知识</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqkea5/enlighten_me_about_mobilefirst/</link>
-      <description><![CDATA[最近进入 Web 开发领域，并意识到“移动优先”的口号是有道理的。 你能做到吗？推荐资源或给我关于该主题的见解？寻找一个起点。 目前，我首先构建桌面版本，并在完成后继续响应。  我觉得有更优化的方法，但我无法想象如何扭转这个过程。 TIA   由   提交 /u/ViSuo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqkea5/enlighten_me_about_mobilefirst/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 格式的联系表 7 或替代方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqjtm0/contact_form_7_in_html_or_alternatives/</link>
-      <description><![CDATA[大家好，我遇到了一些麻烦。 我不是 Web 开发人员，但我已经开始自由营销，由于网站问题需要为客户提供一个登陆页面。目前我的利润很小，所以想避免外包。  我创建了一个自定义 HTML 登录页面，但不知道如何使该表单正常工作。 PHP 超出了我的职权范围，我通常会使用 CF7，但由于它在 WP 之外，我认为我无法使用它。 对此有什么解决方案吗？  提前致谢！   由   提交/u/DomCorleone69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqjtm0/contact_form_7_in_html_or_alternatives/</guid>
-      <pubDate>Wed, 14 Feb 2024 10:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地测试/使用使用“安全”功能的网页的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqjpt9/what_is_the_best_way_to_locally_testuse_a_webpage/</link>
-      <description><![CDATA[编辑：标题中的拼写错误。忽略“with” 编辑：现在大部分已解决，请参阅评论。我仍然有几个问题，最重要的是关于我在 Chromium 中收到的弃用警告，我不明白。 大家好，我不是 Web 开发人员，但我很平静。 大家好，我不是 Web 开发人员，但我很平静。 &gt; 我正在制作一个与 MIDI 相关的小型应用程序。在考虑了所有选项之后，我得出的结论是，实现它的最合理选择是网页，我认为我可以用浏览器在本地打开它。 问题是，我的网页使用Web MIDI API 的，浏览器往往会拒绝激活，除非它通过HTTPS 连接。更具体地说，维基百科中的 MIDI 功能已关闭，并且 Chromium 发出弃用警告（因此我认为我的应用程序在某个时候也会停止在那里工作）。 我尝试运行 Browsersync 获取本地 HTTPS Web 服务器，使用以下命令： npx browser-sync start --server  它最初实际上可以与 Firefox 配合使用，这意味着我可以访问我的网页并使用 MIDI 功能，但今天早上 Firefox 告诉我我的连接不安全，我不知道为什么。请记住，我不是 Web 开发人员，整个 HTTPS 的事情对我来说似乎有点复杂 😅。 Chromium 现在的失败方式与 Firefox 相同。 任何信息/帮助/建议将不胜感激。特别是，请随意质疑我的技术选择并提出替代方案。   由   提交 /u/project_broccoli   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqjpt9/what_is_the_best_way_to_locally_testuse_a_webpage/</guid>
-      <pubDate>Wed, 14 Feb 2024 10:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>“盗链”与“复制”的礼仪（无论哪种方式都完全归因）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqjffb/etiquette_for_hotlinking_vs_reproducing/</link>
-      <description><![CDATA[当我引用或介绍其他各方时，我喜欢至少包含他们的徽标或某种特征图像，以增加一些深度参考。 我倾向于直接从他们的官方网站链接/嵌入这些资产。我的理由/自然偏好是避免复制和托管他人的内容（这是他们的 IP）。 但是，我刚刚读到“热链接”和“热链接保护”（没有人拥有“对我来说，我只是在阅读/学习网络开发，是的，我绝对是一个业余爱好者），现在我很矛盾...... 我应该（a）引用他们的网站吗？并“进行盗链”但避免复制其内容？或者 (b) 获取一份副本并自己托管，但减少他们的资源？或者 (c) 忘记图像，只需恢复到带有文本和超链接的 OG www。 感谢任何帮助和帮助。间接从其他人的帖子中学习东西！   由   提交 /u/Psengath   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqjffb/etiquette_for_hotlinking_vs_reproducing/</guid>
-      <pubDate>Wed, 14 Feb 2024 10:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名 Web 开发人员，但并不是所有编程语言的大师。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqj9nh/im_a_web_dev_not_a_master_of_all_programming/</link>
-      <description><![CDATA[最近公司和雇主发生了什么。现在大多数招聘广告似乎都有条款...我们需要懂 HTML、CSS、JS Vue 和 React 等的人...（没问题）...哦，顺便说一句...你还需要有强大的 C# 能力和对 Linux 服务器端的强大掌握等我只是一个人哈哈    由   提交 /u/beginningofdayz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqj9nh/im_a_web_dev_not_a_master_of_all_programming/</guid>
-      <pubDate>Wed, 14 Feb 2024 09:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>蔚蓝前门雨火 403</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqj52y/azure_frontdoor_rain_fires_403/</link>
-      <description><![CDATA[大家好， 我工作的公司最近切换到 Frontdoor。现在一切都乱了。 我们是一家以 API 为中心的公司，这意味着我们处理 JSON 和 XML，这些 XML 具有架构链接和内容。就像没有可以定义的模式一样。  现在的问题是，API 调用在生产环境中左右受阻，而从开发人员角度来看，我们感到措手不及。我们公司的预算有点紧张，所以现在没有 UAT，我们只有开发和质量保证。这两个都驻留在专用网络中 即使我们被迫拥有一个 UAT，QA 也能够在其中测试“某些”网络。作为一家 SaaS 公司，我们可能无法测试客户尝试的所有场景。  理想的方式是什么！？应该如何顺利解决这个问题，以便我们可以放心地说，只有恶意 API 调用才会被阻止，而不会阻止有效的 API 调用。 谢谢   由   提交 /u/Mindless-Umpire-9395   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqj52y/azure_frontdoor_rain_fires_403/</guid>
-      <pubDate>Wed, 14 Feb 2024 09:42:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
