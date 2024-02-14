@@ -4,11 +4,18 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 14 Feb 2024 00:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 03:13:33 GMT</lastBuildDate>
+    <item>
+      <title>手动触发 Zapier Zaps</title>
+      <link>https://www.reddit.com/r/automation/comments/1aqaqto/manually_triggering_zapier_zaps/</link>
+      <description><![CDATA[我正在 Zapier 中开发 Zap，它包含五个步骤。 - 第一步是运行的计划触发器每天的特定时间。 - 第二步是对 Notion 的 API 调用，检索数据并将其转换为 JSON 格式。 - 第三步是 Python 代码处理数据并创建记录。 - 第四步是仅允许正值的过滤器。 - 第五步是发送带有记录的 Discord 消息的操作来自Notion。 我想知道如何在不等待预定时间的情况下手动触发我的Zap（我可以将其设置为每小时，但这对于简单测试来说仍然太多时间）。有没有办法在不使用 Webhooks 的情况下做到这一点？我需要这个，以便我可以查看最后的数据是否是我需要的。我感谢任何有用且具体的建议，而不是像 Zapier 社区论坛上那样模糊或笼统的答复。感谢您的帮助。   由   提交/u/ActuatorOutside5256   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1aqaqto/manually_triggering_zapier_zaps/</guid>
+      <pubDate>Wed, 14 Feb 2024 01:32:37 GMT</pubDate>
+    </item>
     <item>
       <title>在图像上批量插入文本</title>
       <link>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</link>
-      <description><![CDATA[我正在寻找一个网站，可以让我上传图片模板和大约 20 个不同的句子，然后自动将每个句子添加到单独的图像中。&lt; /p&gt;   由   提交/u/rattletrap777  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个网站，可以让我上传图片模板和大约 20 个不同的句子，然后自动将每个句子添加到单独的图像中。&lt; /p&gt;   由   提交/u/rattletrap777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</guid>
       <pubDate>Tue, 13 Feb 2024 22:12:39 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>寻求适用于 MacOS 和 Win32 桌面应用程序的自动化工具</title>
       <link>https://www.reddit.com/r/automation/comments/1apeuns/seeking_automation_tools_that_work_for_both_macos/</link>
-      <description><![CDATA[嗨， 我们有一个有两种风格的本机桌面：MacOS（用 C++ 和 Objective 混合编写） -C++) 和 Win32 (C++ &amp; C#/.NET) 我正在寻找支持这两个平台的自动化 UI 测试工具。理想情况下，该工具应该是低代码/无代码的，但我肯定会考虑那些需要脚本编写的工具。 如果不存在这样的工具，我会很感激针对专门针对 MacOS 桌面自动进行 UI 测试的工具的建议只是，因为我遇到过很多只支持 Win 桌面测试的工具。 谢谢。   由   提交/u/Various-Roof-7472   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我们有一个有两种风格的本机桌面：MacOS（用 C++ 和 Objective 混合编写） -C++) 和 Win32 (C++ &amp; C#/.NET) 我正在寻找支持这两个平台的自动化 UI 测试工具。理想情况下，该工具应该是低代码/无代码的，但我肯定会考虑那些需要脚本编写的工具。 如果不存在这样的工具，我会很感激针对专门针对 MacOS 桌面自动执行 UI 测试的工具的建议只是，因为我遇到过很多只支持 Win 桌面测试的工具。 谢谢。   由   提交/u/Various-Roof-7472   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1apeuns/seeking_automation_tools_that_work_for_both_macos/</guid>
       <pubDate>Mon, 12 Feb 2024 23:45:22 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>你能实现自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1akkya4/can_you_automate_automations/</link>
-      <description><![CDATA[我想是的，所以我为此构建了一个工具（taskmole.co）。 你们都觉得怎么样？太棒了/不清楚/玩具？ 问题 我想让公司（50 人）的大部分服务交付工作实现自动化，但结果是过于手动且耗时。我不想花几天甚至几周的时间来规划某个流程中涉及的每个人的工作，然后才尝试想办法通过 Zapier / Make / n8n / 随机 RPA 工具实现自动化。 &lt; strong&gt;解决方案 任务挖掘+流程图+自动化建议应用程序。一体。您将其安装在计算机上，它会记录您所做的一切，然后将其提炼成简单的报告，向您展示 Zapier / Make / n8n 等流行工具中流程的自动化潜力。   由   提交/u/jzap456  [链接] [评论]]]></description>
+      <description><![CDATA[我想是的，所以我为此构建了一个工具（taskmole.co）。 你们都觉得怎么样？太棒了/不清楚/玩具？ 问题 我想让公司（50 人）的大部分服务交付工作实现自动化，但结果是过于手动且耗时。我不想花几天或几周的时间来规划某个流程中涉及的每个人的工作，然后才尝试想办法通过 Zapier / Make / n8n / 随机 RPA 工具实现自动化。 &lt; strong&gt;解决方案 任务挖掘+流程图+自动化建议应用程序。一体。您将其安装在计算机上，它会记录您所做的一切，然后将其提炼成简单的报告，向您展示 Zapier / Make / n8n 等流行工具中流程的自动化潜力。   由   提交/u/jzap456  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1akkya4/can_you_automate_automations/</guid>
       <pubDate>Tue, 06 Feb 2024 21:18:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我和我的朋友们制作了一个可以帮你打电话的人工智能系统。 Opencall 是我们尝试了解人工智能如何承担日常电话任务的尝试。很容易让它非常可靠地完成任务，同时又超轻且快速。您可以：  获取电话号码并将其连接到自定义代理 通过该号码 24x7 接听数百个电话。 自动收取费用来自这些调用的数据 在调用期间向调用者提供实时数据 对第三方集成执行 API 调用  我们为任何想要尝试并通过他们的用例与我们交谈的人提供个性化设置。我们正在尝试看看我们可以在哪些实际应用中使用我们的人工智能，我们将不胜感激任何反馈（请随时私信我）！ 网站： opencall.ai 演示（眼科办公室接待员）：致电 +1(650) 651-4460   由   提交 /u/shiny_beluga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ake18v/i_made_an_ai_that_picks_up_the_phone_for_you/</guid>
       <pubDate>Tue, 06 Feb 2024 16:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建网络代理</title>
-      <link>https://www.reddit.com/r/automation/comments/1ak4dik/building_web_agent/</link>
-      <description><![CDATA[嗨朋友们，我们构建了一个 Chrome 扩展来帮助人们将繁琐的任务委托给 AI 代理。现在它只有一个一些工作流程，例如发送电子邮件、播放音乐或设置自动回复。很想听听您对此的想法。很高兴添加您需要的新工作流程！ 扩展程序链接： https://chromewebstore.google.com/detail/webagent/hnapinnnfbikkchmbninlfmmbaafdoic?hl=en-US&amp;utm_source=ext_sidebar  &amp; #32；由   提交/u/simplegen_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ak4dik/building_web_agent/</guid>
-      <pubDate>Tue, 06 Feb 2024 07:36:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
