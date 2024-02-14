@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 13 Feb 2024 15:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:54:11 GMT</lastBuildDate>
+    <item>
+      <title>开源的全新完整人工智能应用程序堆栈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/smw355  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</guid>
+      <pubDate>Tue, 13 Feb 2024 21:38:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>envio - 用于管理环境变量的现代且安全的 CLI 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aq1w7y/envio_a_modern_and_secure_cli_tool_for_managing/</link>
+      <description><![CDATA[       由   提交/u/Ok_Acanthoperygii40   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aq1w7y/envio_a_modern_and_secure_cli_tool_for_managing/</guid>
+      <pubDate>Tue, 13 Feb 2024 19:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>能够将一系列图像转换为视频的软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</link>
+      <description><![CDATA[我正在上计算机动画课，我们使用的软件通常将视频输出为 PNG 序列。通常，我们会使用 Adob​​e Media Encoder 将图像转换为视频，但我正在寻找替代软件，以便在我的家用计算机上使用来完成如此简单的任务。 Blender 有能力这样做，但只能处理 2 种视频文件格式。l 你们会推荐什么软件？   由   提交/u/UV_Sun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</guid>
+      <pubDate>Tue, 13 Feb 2024 19:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>管道日志和工件但在本地</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aq089q/pipeline_logs_and_artifacts_but_locally/</link>
+      <description><![CDATA[   /u/sourishkrout  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aq089q/pipeline_logs_and_artifacts_but_locally/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Express.js 垃圾 PR 事件凸显开源贡献的商品化</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apztk7/expressjs_spam_prs_incident_highlights_the/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apztk7/expressjs_spam_prs_incident_highlights_the/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>🐽 Oink：单个文件中的 PHP API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apxkqh/oink_an_api_for_php_in_a_single_file/</link>
+      <description><![CDATA[       由   提交/u/JCx64  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apxkqh/oink_an_api_for_php_in_a_single_file/</guid>
+      <pubDate>Tue, 13 Feb 2024 16:27:51 GMT</pubDate>
+    </item>
     <item>
       <title>通过贝叶斯优化，LLM 评估速度提高 10 倍</title>
       <link>https://www.reddit.com/r/opensource/comments/1apvi0s/10_times_faster_llm_evaluation_with_bayesian/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[       由   提交/u/TheAstroNut  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ap7cub/been_working_on_a_gpu_accelerated_ecmascript/</guid>
       <pubDate>Mon, 12 Feb 2024 18:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>BURST——“我们今天无法重制 VLC”：J.-B. Kempf (Videolan) [法国]</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ap56us/burst_on_ne_pourrait_pas_refaire_vlc_aujourdhui/</link>
-      <description><![CDATA[       由   提交/u/wisi_eu  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ap56us/burst_on_ne_pourrait_pas_refaire_vlc_aujourdhui/</guid>
-      <pubDate>Mon, 12 Feb 2024 17:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>#4opens 框架提供了一套用于测试、评估和促进进步的社会和技术项目的原则。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ap1r2x/the_4opens_framework_provides_a_set_of_principles/</link>
-      <description><![CDATA[ 由   提交/u/openmedianetwork  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ap1r2x/the_4opens_framework_provides_a_set_of_principles/</guid>
-      <pubDate>Mon, 12 Feb 2024 14:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个Python PDF表单库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ap0phs/i_made_a_python_pdf_form_library/</link>
-      <description><![CDATA[大家好！我在 /r/Python 分享了一个我已经工作了三年的开源项目，并得到了一些非常积极的反馈，所以我也很想在这里分享。它是一个专门处理 PDF 表单的 Python 库，最突出的功能是通过简单地输入 Python 字典以编程方式填充 PDF 表单。 我曾经在一家以 Python 作为后端的初创公司工作堆。客户不断向我们提供纸质文档，我们需要将其生成 PDF。我们使用reportlab脚本来做这件事，我很快发现这个过程对于更复杂的PDF来说是乏味且耗时的。 这就是这个项目的想法的由来。您无需编写冗长且难以维护的reportlab脚本来生成PDF，只需将任何纸质文档转换为PDF表单模板，PyPDFForm就可以轻松填充它。 以下是该项目的一些资源： GitHub：https://github.com/chinapandaman/PyPDFForm  PyPi：https://pypi.org/project/PyPDFForm/ 文档：https://chinapandaman.github.io/PyPDFForm/ 我对这个项目所做的公开演讲：https://www.youtube.com/watch?v=8t1RdAKwr9w 我希望你们发现这个库对您有帮助自己的 PDF 生成工作流程。请随意尝试、测试、留下评论或建议以及打开问题。当然，如果您愿意，请在 GitHub 上给我一颗星。   由   提交 /u/chinapandaman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ap0phs/i_made_a_python_pdf_form_library/</guid>
-      <pubDate>Mon, 12 Feb 2024 14:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>TDARR 自由软件替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aoxloh/tdarr_foss_alternative/</link>
-      <description><![CDATA[TDARR 是一个服务器端应用程序，可在后台对视频进行编码。它具有许多功能，例如分布式编码和精美的 Web UI。 TDARR V1 显然是自由开源软件，但已休眠多年。 V2 效果很好，但是是专有的。 我正在寻找一个类似的服务器端应用程序，它以无人值守的方式监视我的视频服务器的目录，并处理那里的现有文件，以便将它们转码为 H.265以最小的质量损失，以减少磁盘使用。我找到了 HBBatchBeast，但它是一个 GUI 应用程序。我并不真正需要 TDARR 的任何高级功能，但支持视频质量指标来判断原始代码和转码之间的质量损失将是一个很好的选择。 我可能可以这样写： FFMPEG 和一个花哨的 shell 脚本 + cron，但这更多是最后的手段。   由   提交/u/Yugen42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aoxloh/tdarr_foss_alternative/</guid>
-      <pubDate>Mon, 12 Feb 2024 11:09:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些对神经网络感兴趣的人：过去几个月我一直致力于使用 C++ 和 Vulkan 从头开始​​构建 CNN（没有数学或 ML 库）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aowzp3/for_those_interested_in_neural_nets_ive_spent_the/</link>
-      <description><![CDATA[    &lt; /a&gt;  一开始是为了了解更多有关神经网络的个人努力，但我有点得意忘形了，不断完善它并添加更多功能:) 我最近使用 Vulkan 计算着色器在 GPU 上运行它🎉 这是一个 CLI 应用程序，您只需在其中描述网络的形状一个 json 配置文件并将其指向您的训练数据，然后在评估模式下再次运行它并将其指向以前从未见过的一些数据，它将尝试对每个样本进行分类。 如果您&#39;如果您对神经网络感兴趣，您希望会发现代码非常可读，并且我已在 Documentation/math.pdf 中编写了数学内容。 目前这是一项正在进行的工作。我有一大堆积压的功能想要添加，所以请注意这个空间:)   由   提交/u/LlaroLlethri   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aowzp3/for_those_interested_in_neural_nets_ive_spent_the/</guid>
-      <pubDate>Mon, 12 Feb 2024 10:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>SharpWeather - 用 C# 制作的 CLI 天气工具。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aov09f/sharpweather_a_cli_weather_tool_made_in_c/</link>
-      <description><![CDATA[   和我朋友一起做的简单项目。   由   提交 /u/xyqnn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aov09f/sharpweather_a_cli_weather_tool_made_in_c/</guid>
-      <pubDate>Mon, 12 Feb 2024 08:05:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

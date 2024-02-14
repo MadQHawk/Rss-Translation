@@ -4,13 +4,13 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 13 Feb 2024 21:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:52:06 GMT</lastBuildDate>
     <item>
-      <title>严重的问题：如何在 ChatGPT 中自动执行大量程序任务？</title>
-      <link>https://www.reddit.com/r/automation/comments/1apzkp0/serious_question_how_to_automate_largevolume/</link>
-      <description><![CDATA[注意到 GPT 喜欢在较大的任务上超时，无论 max_length 是多少，并且需要干预。更糟糕的是，它在一次处理一个事情时失去了自己的位置，这很糟糕，即使你能让它重新生成响应，它也会开始产生幻觉。 有没有更好的方法来处理处理大量我可能不知道的数据？我一定错过了一些东西，因为我认为这就是 ChatGPT 的全部意义。   由   提交 /u/Better_Than_Free123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1apzkp0/serious_question_how_to_automate_largevolume/</guid>
-      <pubDate>Tue, 13 Feb 2024 17:47:10 GMT</pubDate>
+      <title>在图像上批量插入文本</title>
+      <link>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</link>
+      <description><![CDATA[我正在寻找一个网站，可以让我上传图片模板和大约 20 个不同的句子，然后自动将每个句子添加到单独的图像中。&lt; /p&gt;   由   提交/u/rattletrap777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</guid>
+      <pubDate>Tue, 13 Feb 2024 22:12:39 GMT</pubDate>
     </item>
     <item>
       <title>有人愿意给我一个抖音机器人吗？</title>
@@ -36,7 +36,7 @@
     <item>
       <title>自动化滑雪比赛注册页面</title>
       <link>https://www.reddit.com/r/automation/comments/1ap5axe/automate_a_ski_race_signup_page/</link>
-      <description><![CDATA[嗨， 我即将参加一场名为 vasaloppet 的滑雪比赛，那里有不同的出发组。 这些组是07:00、07:10、07:20、07:30 等直至 08:00。  除08:00外，一组可容纳x人，可容纳任意数量。问题是我无法切换到较早的群组，因为该群组已满，并且我需要等待有人离开群组才能加入。最重要的是，我需要在有人更改组时进行签名，以便能够在其他人之前进行更改。 有没有一种简单的方法可以自动执行此操作？我在 python 中看到了一些关于 Beautifulsoup 的内容，但是有没有更简单的方法可以使用浏览器扩展等来不断刷新页面并尝试 HTTP - 调用更改组请求。 任何帮助将不胜感激！    由   提交 /u/Complete_Original999   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我即将参加一场名为 vasaloppet 的滑雪比赛，那里有不同的出发组。 这些组是07:00、07:10、07:20、07:30 等直至 08:00。  除08:00外，一组可容纳x人，可容纳任意数量。问题是我无法更改到较早的群组，因为该群组已满，并且我需要等待有人离开群组才能加入。最重要的是，我需要在有人更改组时进行签名，以便能够在其他人之前进行更改。 有没有一种简单的方法可以自动执行此操作？我在 python 中看到了一些关于 Beautifulsoup 的内容，但是有没有更简单的方法可以使用浏览器扩展等来不断刷新页面并尝试 HTTP - 调用更改组请求。 任何帮助将不胜感激！    由   提交 /u/Complete_Original999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ap5axe/automate_a_ski_race_signup_page/</guid>
       <pubDate>Mon, 12 Feb 2024 17:20:40 GMT</pubDate>
     </item>
