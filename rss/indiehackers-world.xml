@@ -4,11 +4,53 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 14 Feb 2024 03:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 06:17:29 GMT</lastBuildDate>
+    <item>
+      <title>一天之内就有 30 位用户加入了我的候补名单，其中一些已经准备好付款。</title>
+      <link>https://feed.indiehackers.world/post/0834af0a04</link>
+      <description><![CDATA[昨天，我根据新 AI 应用的想法和用例创建了登陆页面。
+然后，我在 subreddits 中分享了它，请求验证这个想法。我得到了一些验证和更多的候补名单注册。 
+所以我的问题是我应该现在开始构建还是需要再等待一段时间？
+候补名单网址 - https://mmntm.me/infography
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0834af0a04</guid>
+      <pubDate>Wed, 14 Feb 2024 06:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>弥合分布式团队的文化差距</title>
+      <link>https://feed.indiehackers.world/post/09fbcd68e2</link>
+      <description><![CDATA[如今，不仅仅是 Google 和 Microsoft 等公司在印度等新兴科技国家建立了专门的开发团队。全球越来越多的企业，无论其规模大小，都热衷于与全球团队合作并使用
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/09fbcd68e2</guid>
+      <pubDate>Wed, 14 Feb 2024 06:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费 Django Cookiecutter 在线生成器</title>
+      <link>https://feed.indiehackers.world/post/6715a89dbd</link>
+      <description><![CDATA[我经常发现自己渴望在初始设置期间使用 django-cookiecutter 重新访问和调整以前的设置。
+这就是为什么我构建了一个免费的在线 django 项目生成器以使其更容易：
+看看：https://djangosaas.com/tools/cookiecutter/
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/6715a89dbd</guid>
+      <pubDate>Wed, 14 Feb 2024 05:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么您应该知道前 5 位目标客户的真实姓名</title>
+      <link>https://feed.indiehackers.world/post/b283241ed1</link>
+      <description><![CDATA[“他只为他的两个朋友写了一本书。 （蒂姆·费里斯）设计他的书并不是为了实现抽象目标或吸引抽象读者。他变得真实了。当你变得真实时，你会处理你想要解决的真正问题，而不是沉迷于你对问题的想法。 ”- 小迈克·梅普尔斯
+放弃理论上的客户角色，专注于真实的、特定的个人。
+您越了解自己角色的微妙需求和复杂痛点，您可以提供的价值就越大。
+因此，列出世界上 1-5 个最佳目标，研究他们，为他们提供最佳的用户体验。
+打印出目标的照片并将其钉在桌子上，将其提升到一个新的水平。
+希望这可以帮助您今天继续关注 PMF :)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b283241ed1</guid>
+      <pubDate>Wed, 14 Feb 2024 03:18:00 GMT</pubDate>
+    </item>
     <item>
       <title>由于销量低迷，AppSumo 即将将我除名。</title>
       <link>https://feed.indiehackers.world/post/70b2d064ba</link>
-      <description><![CDATA[自从在 AppSumo 上发布以来，我一定添加了 10 个新功能。
+      <description><![CDATA[自从我在 AppSumo 上发布以来，我一定添加了 10 个新功能。
 当然，我的起步很慢，但我在 AppSumo 上的销售额逐月增长，而且到目前为止我的评论都是 5 星。
 为什么他们就不能给我一个他妈的机会！？
 Discord 独立黑客聊天广告这里]]></description>
@@ -18,7 +60,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>无需代码即可构建 SaaS</title>
       <link>https://feed.indiehackers.world/post/dd58de1dfe</link>
-      <description><![CDATA[嘿伙计们！我和我的朋友正在无代码领域尝试一个新想法，针对那些想要构建 SaaS/个性化工具但不会编写代码且非技术人员的人们。这个想法是，您基本上可以使用自然语言来构建和共享软件。
+      <description><![CDATA[嘿伙计们！我和我的朋友正在无代码空间中尝试一个新想法，针对那些想要构建 SaaS/个性化工具但不会编写代码且非技术人员的人。这个想法是，您基本上可以使用自然语言来构建和共享软件。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dd58de1dfe</guid>
       <pubDate>Tue, 13 Feb 2024 22:03:38 GMT</pubDate>
@@ -26,7 +68,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>🌟我们来谈谈生意吧！ 🌟</title>
       <link>https://feed.indiehackers.world/post/bbf4e17c4f</link>
-      <description><![CDATA[所以，如果您决心表明立场并尝试创业，那么我们就来谈谈吧！分享您的想法、经历、挑战和愿望。我们可以一起探索各种可能性，提供支持，并在这一构建伟大事业的旅程中互相激励。
+      <description><![CDATA[所以，如果您决心表明立场并尝试创业，那就让我们谈谈吧！分享您的想法、经历、挑战和愿望。我们可以一起探索各种可能性，提供支持，并在这一构建伟大事业的旅程中互相激励。
 发表评论或给我发消息 - 我迫不及待地想收到你的消息！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/bbf4e17c4f</guid>
@@ -131,61 +173,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/827cf11dd1</guid>
       <pubDate>Tue, 13 Feb 2024 17:40:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Feedspace 无缝导入 Product Hunt 评论</title>
-      <link>https://feed.indiehackers.world/post/0e89e48b73</link>
-      <description><![CDATA[可信度和转化率的游戏规则改变者。 🔥 你猜怎么着？ 
-AppSumo 的独家终身优惠现已上线！不要错过这个增强您的推荐的机会
-https://appsumo.com/products/feedspace/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/0e89e48b73</guid>
-      <pubDate>Tue, 13 Feb 2024 17:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交证明的力量：通过产品搜索评论提高付费注册量</title>
-      <link>https://feed.indiehackers.world/post/ea1f100670</link>
-      <description><![CDATA[建立信任：利用真实评价建立的信任来推动转化并扩大用户群。
-如何获得 AppSumo 终身优惠：
-准备好将您的社交证明游戏提升到新的水平了吗？前往 AppSumo 并获取 Feedspace 的独家终身优惠！ 🚀 不要错过这个机会来增强您的推荐并见证对付费注册的影响。
-总之，社交证明是营销游戏中的一个强大工具，将其与 Feedspace 的功能相结合可以将您的产品推向新的高度。为提高转化率、扩大用户群以及所有独立黑客同行的持续成功而干杯！ 💪✨
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ea1f100670</guid>
-      <pubDate>Tue, 13 Feb 2024 17:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>设定营销目标的艺术</title>
-      <link>https://feed.indiehackers.world/post/cbf16d247e</link>
-      <description><![CDATA[最终，目标设定的本质在于其应用：每项任务、活动、内容或实验都应在结构化框架的指导下与这些目标保持一致并有助于实现这些目标。这种做法对于营销领导者确保其团队为增长和品牌发展做出重大贡献至关重要，创始人应在营销领导力中优先考虑目标设定能力。
-完整内容：https://flywheeleffect.substack.com/p/set-your-营销目标
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cbf16d247e</guid>
-      <pubDate>Tue, 13 Feb 2024 17:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>表单生成器 - 提交数量、创建表单数量和问题数量没有上限。</title>
-      <link>https://feed.indiehackers.world/post/d224e3e6bb</link>
-      <description><![CDATA[我正在制作表格&amp;工作流程构建器产品称为 Duonut[www.duonut.com]，它具有以下免费功能。希望听到社区关于可以添加到我们的路线图中的下一组功能的信息。
-期待听到您的想法！
-当前免费提供的功能：
-~ 无限提交
-~ 无限模板
-~ 无限幻灯片
-~ 自定义用户流程逻辑
-~ 自定义谢谢页面
-~ 完成后重定向
-~ 回答管道
-~ 安排截止日期
-~ 自定义 CSS
-~ 关闭提交限制
-~ 自定义关闭消息
-~ 游戏化模板
-~ 单点登录[SSO]
-_ 以及网站上列出的更多内容。
-PS：我们今天启动了产品搜寻，请随时在此处添加您的评论/反馈 - https://www .producthunt.com/posts/duonut-2
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d224e3e6bb</guid>
-      <pubDate>Tue, 13 Feb 2024 15:59:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

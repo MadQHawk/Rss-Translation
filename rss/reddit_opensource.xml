@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 03:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 06:17:08 GMT</lastBuildDate>
     <item>
-      <title>开源的全新完整人工智能应用程序堆栈</title>
+      <title>“FOSSholes” - 为什么讨厌？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aqf4wk/fossholes_why_the_hate/</link>
+      <description><![CDATA[刚刚看到一条社交媒体帖子，人们纷纷表达这样的立场：“如果你跟我谈论开源，那你就是个混蛋”。 。  就我个人而言，我在职业和个人圈子中也遇到过仇恨者。这并不是说他们争论某些特定的应用程序或问题，而是开源的存在在某种程度上绝对是令人反感的。  举个例子，当指出几乎整个互联网都在开源上运行时：“开源是服务器猴子的。”真实的人使用来自真实公司的真实软件”。  人们是怎么变成这样的？面对这样的人我们该怎么办呢？我完全赞成忽略那些奇怪的个人仇恨者，但我越来越多地在社会经济决策者中发现这样的人，现在他们联合起来成为社交媒体的趋势。我承认可能没有什么可做的，我只是需要咆哮。对此感到抱歉。    由   提交/u/jaykayenn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aqf4wk/fossholes_why_the_hate/</guid>
+      <pubDate>Wed, 14 Feb 2024 05:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Formex - 无头表单构建器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aqdwli/formex_a_headless_form_builder/</link>
+      <description><![CDATA[令人兴奋的消息！经过六个月的努力，我很高兴地宣布我的无头表单生成器 Formex v0.1.0 发布。该工具专为 SaaS 公司设计，现已开源且完全免费。查看下面的 GitHub 链接即可开始使用！ GitHub 链接：https://github.com/OysterD3/formex  Stackblitz：https://stackblitz.com/edit/formex-react-mui 欢迎批评🤭 我为什么制作 Formex？ 我曾与一些需要表单构建器的 SaaS 公司合作过。完全可定制。他们愿意花钱购买现有的解决方案。但我找不到一个。其中大多数要么无法自定义 UI，要么必须在其平台上创建表单。   由   提交 /u/OysterD3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aqdwli/formex_a_headless_form_builder/</guid>
+      <pubDate>Wed, 14 Feb 2024 04:10:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的完整开源人工智能应用程序堆栈</title>
       <link>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/smw355  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>能够将一系列图像转换为视频的软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</link>
-      <description><![CDATA[我正在上计算机动画课，我们使用的软件通常将视频输出为 PNG 序列。通常我们会使用 Adob​​e Media Encoder 将图像转换为视频，但我正在寻找替代软件，以便在我的家用计算机上使用来完成如此简单的任务。 Blender 有能力这样做，但只能处理 2 种视频文件格式。l 你们会推荐什么软件？   由   提交/u/UV_Sun   [链接] [评论]]]></description>
+      <description><![CDATA[我正在上计算机动画课，我们使用的软件通常将视频输出为 PNG 序列。通常，我们会使用 Adob​​e Media Encoder 将图像转换为视频，但我正在寻找替代软件，以便在我的家用计算机上使用来完成如此简单的任务。 Blender 有能力这样做，但只能处理 2 种视频文件格式。l 你们会推荐什么软件？   由   提交/u/UV_Sun   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</guid>
       <pubDate>Tue, 13 Feb 2024 19:12:19 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>ZLUDA：AMD GPU 上的 CUDA</title>
       <link>https://www.reddit.com/r/opensource/comments/1apnuy2/zluda_cuda_on_amd_gpus/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/unquietwiki  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/unquietwiki  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1apnuy2/zluda_cuda_on_amd_gpus/</guid>
       <pubDate>Tue, 13 Feb 2024 07:27:45 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！ 我正在慢慢开源我的“互联网操作系统”，在真正的、未经修改的OSS许可证下——绝对没有“开放核心”或“可用源”假OSS废话。 我想知道这里是否有人有兴趣加入我们。 Puter 已经成为一个非常大且超级有趣的项目，涉及编程的许多不同领域（网络、图形、wasm、云......）以及初学者和高级用户/非常欢迎程序员加入:) 我们的项目  终端 (AGPL): https://github.com/HeyPuter/terminal [今天发布] Phoenix Shell (AGPL)：https://github.com/HeyPuter/phoenix [今天发布] KV.JS （麻省理工学院），即“浏览器中的 Redis！”：https://github.com/HeyPuter/kv.js [1,300 颗星 &lt;3 ] SDK (Apache 2.0)：我们的 SDK 目前正在生产中，但尚未发布[将于本周或下周发布] GUI (AGPL)：puter.com 的 GUI（桌面环境），目前最大的挑战是寻找/设计开源图标。 [~下个月即将推出] Office (AGPL)：关于 几天前的这个 subreddit [即将推出] 应用，例如 记事本等[即将推出]  最后但并非最不重要的一点：我们还不知道如何赚钱，但工作真的很有趣这个项目哈哈 ​   由   提交 /u/mitousa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1apm1af/3_years_of_work_and_1_million_users_later_im/</guid>
       <pubDate>Tue, 13 Feb 2024 05:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Golang 和 Tqla 进行动态 SQL 模板化</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aphqc3/dynamic_sql_templating_with_golang_and_tqla/</link>
-      <description><![CDATA[我们创建了一个小型库，可用于轻松构建动态/条件查询。 Tqla 扩展了 Golang 标准文本/模板 pkg 以确保查询安全。您可以在我们最新的博客中了解有关 Tqla 的更多信息 https://blog.vaunt.dev/dynamic-sql-template-with-golang https ://github.com/vauntdev/tqla   由   提交/u/Apart_Lobster000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aphqc3/dynamic_sql_templating_with_golang_and_tqla/</guid>
-      <pubDate>Tue, 13 Feb 2024 01:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一直在为网络视频的 Advanced SubStation Alpha 字幕开发 GPU 加速的 ECMAScript 渲染器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ap7cub/been_working_on_a_gpu_accelerated_ecmascript/</link>
-      <description><![CDATA[       由   提交/u/TheAstroNut  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ap7cub/been_working_on_a_gpu_accelerated_ecmascript/</guid>
-      <pubDate>Mon, 12 Feb 2024 18:42:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
