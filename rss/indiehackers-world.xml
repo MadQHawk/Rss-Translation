@@ -4,7 +4,52 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 15 Feb 2024 18:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 21:12:45 GMT</lastBuildDate>
+    <item>
+      <title>Show IH：我的新 Shopify 应用程序“RetroOrder”</title>
+      <link>https://feed.indiehackers.world/post/dfc7b9ad42</link>
+      <description><![CDATA[我推出了新的 Shopify 应用！
+https://apps.shopify.com/retroorder
+这是一款免费应用程序，允许商家追溯修改订单。
+目前您只能更改现有订单的日期，但我们将来会提供更多功能。
+我很快就会构建工具来允许您的客户更改订单：
+
+送货地址
+运费
+帐单地址
+
+还有更多。
+我们与其他具有类似功能的应用程序的不同之处在于，我们提供“批量”修改订单的功能。因此，如果您有数千个订单需要修改，我们的基础设施可以处理。 
+我们通过在 AWS 和 AWS 上进行构建来实现这一目标。利用SQS消息队列。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/dfc7b9ad42</guid>
+      <pubDate>Thu, 15 Feb 2024 18:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>筑梦：一位妈妈为教育工作者打造人工智能应用程序的旅程 🚀</title>
+      <link>https://feed.indiehackers.world/post/5104885a6b</link>
+      <description><![CDATA[🌟话虽如此，我非常高兴地宣布 Brainsy AI 的候补名单正式开放！ 🎉✨ —我也在寻找 Beta 测试人员！ 🧑‍🔬 所以，如果您想注册来测试一下那就太好了，如果不想，那也很酷！ :)
+www.brainsy.ai
+您的支持对我来说意味着整个世界，
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5104885a6b</guid>
+      <pubDate>Thu, 15 Feb 2024 18:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用您已有的电子邮件帐户发送丰富的 HTML 电子邮件</title>
+      <link>https://feed.indiehackers.world/post/5f7c42b754</link>
+      <description><![CDATA[curl -X POST https://api.indiepitcher.com/v1/email/transactional
+   -H &#39;内容类型：application/json&#39;
+   -H“授权：持有者{您的API令牌}”
+   -d &#39;{“subject”：“欢迎来到 IndiePitcher”，“body”：“您的电子邮件内容”，“bodyType”：“纯文本”，“recipientEmail”：“john@example.com” ;, “类别”: “入职”}&#39;
+
+您还可以创建预定义模板并通过提供个性化数据来发送电子邮件。
+这里是完整的 API 参考 https://github.com/IndiePitcher/documentation/blob/ main/rest-api.md
+欢迎在 https://indiepitcher.com 免费注册并尝试一下。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5f7c42b754</guid>
+      <pubDate>Thu, 15 Feb 2024 18:44:48 GMT</pubDate>
+    </item>
     <item>
       <title>Product Hunt 变得非常不公平，我们没有获得推荐，只是因为我们正在交叉推广我们的产品。</title>
       <link>https://feed.indiehackers.world/post/cf4ac1189c</link>
@@ -17,7 +62,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>如何针对利基受众进行内容营销</title>
       <link>https://feed.indiehackers.world/post/2006a37d12</link>
       <description><![CDATA[
-在权威利基网站上发表客座文章以扩大影响范围。研究适合您的利基市场的博客、杂志或网站。与他们联系，发表一篇能吸引他们的观众的客座文章。这有助于向更多目标市场展示您的内容。
+在权威利基网站上发表客座文章以扩大影响范围。研究适合您的利基市场的博客、杂志或网站。与他们联系，发表一篇能吸引他们的观众的客座帖子。这有助于向更多目标市场展示您的内容。
 在活动中或与有影响力的人建立联系。参加与您的利基市场相关的会议、聚会或活动。自我介绍并与与会者和演讲者建立联系。您还可以通过社交媒体或通过他们的工作来识别有影响力的人。礼貌地分享您的内容并讨论潜在的合作伙伴关系。利用影响者现有的追随者可以起到很大的推动作用。
 
 关键是确定您的受众在线上和线下的时间都花在哪里。然后通过分享您的专业知识成为这些空间的积极一部分。通过利基推广策略，您可以有效地吸引并吸引特定受众来观看您的内容。
@@ -136,45 +181,11 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>Elena Buetler 如何以七位数的价格出售她的第一个网站</title>
       <link>https://feed.indiehackers.world/post/bd142cb1f5</link>
       <description><![CDATA[&lt;块引用&gt;
-👉订阅翻转我的网站，了解更多像这样鼓舞人心的成功故事。
+👉订阅翻转我的网站以获取更多像这样鼓舞人心的成功故事。
 
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/bd142cb1f5</guid>
       <pubDate>Thu, 15 Feb 2024 14:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>实验：我通过 ProductHunt 上的发布来销售我的产品</title>
-      <link>https://feed.indiehackers.world/post/7d21029ceb</link>
-      <description><![CDATA[我相信SlideLab在拥有资源的人手中具有良好的增长潜力。
-该产品列在获取上，并包含所有详细信息。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7d21029ceb</guid>
-      <pubDate>Thu, 15 Feb 2024 13:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您是这两款 Saas 应用程序的创建者，您会如何营销？</title>
-      <link>https://feed.indiehackers.world/post/71652c2c7d</link>
-      <description><![CDATA[嘿，独立开发者，
-我构建了这两个 Saas 应用程序
-thumbgenix.com——一款人工智能驱动的缩略图生成SaaS工具，可以使用提示生成缩略图
-dubtitles.io -- 这是一个 AI Saas 工具，可以为任何语言的 YT 视频/音频自动生成英文字幕/说明文字（适用于播客）
-如果您是这些 Saas 应用的开发人员，您将如何接近目标客户以及如何营销他们？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/71652c2c7d</guid>
-      <pubDate>Thu, 15 Feb 2024 13:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>昨天我尝试在 5 个不同的平台上发布相同的内容。</title>
-      <link>https://feed.indiehackers.world/post/3cae60454c</link>
-      <description><![CDATA[
-巧妙地利用内容：巧妙地重复使用内容可以节省时间，同时仍能吸引眼球。 Reddit 是我在这里的重大胜利。
-
-这就像行动中的迷你帕累托效应 - 不完全是 80-20，但 Reddit 的成功表明，专注于正确的位置可以产生大部分结果。
-专注于重要的地方才能真正获得回报。
-但最终在不同平台上传播您的信息可能会非常难以预测，但见解却是宝贵的。保持简单，看看有什么点击。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3cae60454c</guid>
-      <pubDate>Thu, 15 Feb 2024 13:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
