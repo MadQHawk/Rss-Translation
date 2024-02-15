@@ -4,7 +4,76 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 15 Feb 2024 15:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:17:39 GMT</lastBuildDate>
+    <item>
+      <title>Product Hunt 变得非常不公平，我们没有获得推荐，只是因为我们正在交叉推广我们的产品。</title>
+      <link>https://feed.indiehackers.world/post/cf4ac1189c</link>
+      <description><![CDATA[请告诉我，您对此有何看法？公平吗？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/cf4ac1189c</guid>
+      <pubDate>Thu, 15 Feb 2024 17:23:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何针对利基受众进行内容营销</title>
+      <link>https://feed.indiehackers.world/post/2006a37d12</link>
+      <description><![CDATA[
+在权威利基网站上发表客座文章以扩大影响范围。研究适合您的利基市场的博客、杂志或网站。与他们联系，发表一篇能吸引他们的观众的客座文章。这有助于向更多目标市场展示您的内容。
+在活动中或与有影响力的人建立联系。参加与您的利基市场相关的会议、聚会或活动。自我介绍并与与会者和演讲者建立联系。您还可以通过社交媒体或通过他们的工作来识别有影响力的人。礼貌地分享您的内容并讨论潜在的合作伙伴关系。利用影响者现有的追随者可以起到很大的推动作用。
+
+关键是确定您的受众在线上和线下的时间都花在哪里。然后通过分享您的专业知识成为这些空间的积极一部分。通过利基推广策略，您可以有效地吸引并吸引特定受众来观看您的内容。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2006a37d12</guid>
+      <pubDate>Thu, 15 Feb 2024 16:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周的微型 SaaS 收购机会</title>
+      <link>https://feed.indiehackers.world/post/2909e990e9</link>
+      <description><![CDATA[
+提供正常运行时间监控和状态页面的工具： $30k | ❎ | ❎ | ❎ |企业对企业 | ❎
+允许商家开设在线商店的电子商务平台： 4.5 万美元 | 0 美元 | 74 美元 | 4.9 倍 |企业对企业 |订阅
+
+💰💰💰💰💰 $50k-$100k 次
+
+人工智能驱动的招聘平台： 6万美元 | -$18k | 0 美元 | 3.8 倍 |企业对企业 |许可
+面向求职者的人工智能职业平台： 7.5 万美元 | 1 万美元 | 1000 美元 | 5x |故障码 |订阅
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2909e990e9</guid>
+      <pubDate>Thu, 15 Feb 2024 16:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么要在 2024 年用 2000 个 SQLite 数据库替换 PostgreSQL</title>
+      <link>https://feed.indiehackers.world/post/988926f893</link>
+      <description><![CDATA[使用分布式 SQLite 数据库云（与 Turso 等 DaaS 提供商一起），您可以解决传统上困扰 Web 开发人员的三个痛点。
+
+无需客户端缓存的主动搜索：您可以将数据库和服务器放在靠近的 Edge 上，因此时间延迟可以忽略不计。
+每个租户使用数据库的多租户：您可以为组织拥有自己的 Sqlite db:s，因此不再有额外的 WHERE org_id = ? 查询。
+轻松测试和开发分支：您可以在每个开发或 QA 的封闭边缘上启动数据库，并让他们单独进行初步测试。
+
+在此处阅读完整的博客文章：
+https://dev.to/hanshoi /为什么应该-you-replace-your-postgresql-with-2000-sqlite-databases-5e0d
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/988926f893</guid>
+      <pubDate>Thu, 15 Feb 2024 16:13:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>隆重推出 TeaTimeChat！ - 有限的免费终身订阅:)</title>
+      <link>https://feed.indiehackers.world/post/b0dbb8a500</link>
+      <description><![CDATA[如果您无法试用该应用程序，但有时间查看网站，请尝试。我真的很感激。无论是在网站、视觉效果、入门指导还是您能想到的任何其他方面，我们都会感激所有反馈。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b0dbb8a500</guid>
+      <pubDate>Thu, 15 Feb 2024 16:08:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过人工智能创新推动收入增长：探索 Boldicius 及其他领域</title>
+      <link>https://feed.indiehackers.world/post/5c18d39d0e</link>
+      <description><![CDATA[总而言之，人工智能创收的潜力巨大，涵盖各个行业和应用。通过采用像 bidici.us 这样的创新人工智能解决方案，企业可以发现市场差距，抓住机遇，并在当今快速发展的市场中保持竞争优势。
+让我们继续对话：您认为还有哪些人工智能驱动的创新将塑造商业的未来？
+这篇文章旨在提供对人工智能创收想法的见解，同时巧妙地展示 Ontheflads 的 bidici.us 的功能。它促进了社区内有意义的讨论，符合提供信息丰富且引人入胜的内容而不公开宣传特定产品的精神。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5c18d39d0e</guid>
+      <pubDate>Thu, 15 Feb 2024 15:49:11 GMT</pubDate>
+    </item>
     <item>
       <title>帮助潜在客户将您视为另一家企业</title>
       <link>https://feed.indiehackers.world/post/e283443b05</link>
@@ -67,7 +136,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>Elena Buetler 如何以七位数的价格出售她的第一个网站</title>
       <link>https://feed.indiehackers.world/post/bd142cb1f5</link>
       <description><![CDATA[&lt;块引用&gt;
-👉订阅翻转我的网站以获取更多像这样鼓舞人心的成功故事。
+👉订阅翻转我的网站，了解更多像这样鼓舞人心的成功故事。
 
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/bd142cb1f5</guid>
@@ -83,7 +152,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Thu, 15 Feb 2024 13:55:57 GMT</pubDate>
     </item>
     <item>
-      <title>如果您是这两个 Saas 应用程序的创建者，您将如何营销这两个应用程序？</title>
+      <title>如果您是这两款 Saas 应用程序的创建者，您会如何营销？</title>
       <link>https://feed.indiehackers.world/post/71652c2c7d</link>
       <description><![CDATA[嘿，独立开发者，
 我构建了这两个 Saas 应用程序
@@ -106,106 +175,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3cae60454c</guid>
       <pubDate>Thu, 15 Feb 2024 13:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了避免创业失败，您应该应对哪些风险？ 🚧</title>
-      <link>https://feed.indiehackers.world/post/b7a2e3b164</link>
-      <description><![CDATA[令人悲哀的统计数据表明，90% 的创业想法在存在的第一年就消失了。我们已经找出了导致初创企业失败的最常见风险，并制定了经过市场检验的策略来减轻这些风险。
-概述讨论：
-🎯任何初创公司都可能面临的 10 多种致命风险
-🎯 有关如何应对这些风险的一般提示
-🎯 如何制定您自己的风险管理计划
-🎯 如何确保你的创业公司不会陷入 90% 
-创业总是要考虑冒险。最好向那些未能为自己铺平成功之路的人学习！ 
-查看原始文章以获取更多详细信息。为世界带来另一个伟大的想法！ 💡
-https://www.upsilonit.com/blog/most -常见启动风险如何管理它们
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b7a2e3b164</guid>
-      <pubDate>Thu, 15 Feb 2024 13:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品开发最佳实践：从创意​​到最小可行产品 (MVP)</title>
-      <link>https://feed.indiehackers.world/post/dd7dec6b9d</link>
-      <description><![CDATA[
-客户支持和互动：提供卓越的客户支持，以留住现有用户并促进积极的口碑推荐。
-持续创新：紧跟市场变化和不断变化的用户需求，不断创新和增强您的产品，以保持其相关性和竞争力。
-
-通过遵循这些最佳实践和阶段，您可以高效地完成从创意构思到成功推出最小可行产品的产品开发之旅。请记住，灵活性、适应性和以客户为中心的方法是推动长期成功的关键。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dd7dec6b9d</guid>
-      <pubDate>Thu, 15 Feb 2024 13:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>R.J. 如何韦斯建立了一个六位数的个人理财博客</title>
-      <link>https://feed.indiehackers.world/post/1cbc553b73</link>
-      <description><![CDATA[您使用了哪些策略来发展业务？
-我开始发现，从长远来看，最好的增长策略是有机搜索。然而，我知道这需要一些时间来构建。因此，我开始在 Pinterest 上建立个人资料来获取流量。 
-此外，我还看到其他网站如何使用 Facebook 广告来增加流量。因此，我也利用这一点来开始扩大我的受众群体，其好处是这些受众群体的扩大不需要像有机搜索那样长的时间。在此背景下，我着眼于长期有机搜索作为主要收入驱动力，我们最终在 2019 年实现了这一目标。
-向我们介绍一下您的团队。
-我有一位总编辑和四位撰稿人。此外，我最近聘请了一名虚拟助理来帮助完成数据组织以及其他各种任务。 
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1cbc553b73</guid>
-      <pubDate>Thu, 15 Feb 2024 12:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你建立现有大公司的替代品，如何在 Google 中获得 1-2 名</title>
-      <link>https://feed.indiehackers.world/post/52ff42d9be</link>
-      <description><![CDATA[那么我们做了什么？ 
-我们把“ Docsend 的替代方案”在登陆页面的主标题中。
-请在我们的页面上查看。 
-所以，几个月后我们的排名开始上升到 2.5，今天又上升到 1.5。
-目前还是有点波动。 
-缺点：
-
-仅适用于早期阶段
-临时解决方案
-如果人们不了解大型产品，可能会感到困惑
-宣传竞争对手
-
-尽管存在所有缺点，但对于处于早期阶段的公司来说，这是一种可靠的方式来吸引具有购买意向的用户
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/52ff42d9be</guid>
-      <pubDate>Thu, 15 Feb 2024 12:39:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你建立现有大公司的替代品，如何在 Google 中获得 1-2 名</title>
-      <link>https://feed.indiehackers.world/post/6b4867622b</link>
-      <description><![CDATA[那么我们做了什么？ 
-我们把“ Docsend 的替代方案”在登陆页面的主标题中。
-请在我们的页面上查看。 
-所以，几个月后我们的排名开始上升到 2.5，今天又上升到 1.5。
-目前还是有点波动。 
-缺点：
-
-仅适用于早期阶段
-临时解决方案
-如果人们不了解大型产品，可能会感到困惑
-宣传竞争对手
-
-尽管存在所有缺点，但对于处于早期阶段的公司来说，这是一种可靠的方式来吸引具有购买意向的用户
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6b4867622b</guid>
-      <pubDate>Thu, 15 Feb 2024 12:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你建立现有大公司的替代品，如何在 Google 中获得 1-2 名</title>
-      <link>https://feed.indiehackers.world/post/3f90c706b9</link>
-      <description><![CDATA[那么我们做了什么？ 
-我们把“ Docsend 的替代方案”在登陆页面的主标题中。
-请在我们的页面上查看。 
-所以，几个月后我们的排名开始上升到 2.5，今天又上升到 1.5。
-目前还是有点波动。 
-缺点：
-
-仅适用于早期阶段
-临时解决方案
-如果人们不了解大型产品，可能会感到困惑
-宣传竞争对手
-
-尽管存在所有缺点，但对于处于早期阶段的公司来说，这是一种可靠的方式来吸引具有购买意向的用户
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3f90c706b9</guid>
-      <pubDate>Thu, 15 Feb 2024 12:37:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

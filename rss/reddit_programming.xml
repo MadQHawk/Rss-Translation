@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 15 Feb 2024 15:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:16:43 GMT</lastBuildDate>
+    <item>
+      <title>不必要的 Git 测验</title>
+      <link>https://www.reddit.com/r/programming/comments/1arly6u/unnecessary_git_quiz/</link>
+      <description><![CDATA[ 由   提交/u/DoctorMany7987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arly6u/unnecessary_git_quiz/</guid>
+      <pubDate>Thu, 15 Feb 2024 18:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>情人节网站（效果出奇的好）</title>
+      <link>https://www.reddit.com/r/programming/comments/1arlua1/valentines_day_website_worked_surprisingly_well/</link>
+      <description><![CDATA[ 由   提交 /u/Didigas1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arlua1/valentines_day_website_worked_surprisingly_well/</guid>
+      <pubDate>Thu, 15 Feb 2024 18:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>100 多个带有源代码的 JavaScript 项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1arlo1i/100_javascript_projects_with_source_code/</link>
+      <description><![CDATA[ 由   提交/u/High_Sleep3694   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arlo1i/100_javascript_projects_with_source_code/</guid>
+      <pubDate>Thu, 15 Feb 2024 18:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是 Webhook 以及它们如何工作？</title>
+      <link>https://www.reddit.com/r/programming/comments/1arki3v/what_are_webhooks_and_how_do_they_work/</link>
+      <description><![CDATA[ 由   提交 /u/API2Cart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arki3v/what_are_webhooks_and_how_do_they_work/</guid>
+      <pubDate>Thu, 15 Feb 2024 17:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>编译历史：C 编译器简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1arkcfm/compiling_history_a_brief_tour_of_c_compilers/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arkcfm/compiling_history_a_brief_tour_of_c_compilers/</guid>
+      <pubDate>Thu, 15 Feb 2024 17:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么大写 SQL 如此常见，以及为什么它没有意义</title>
+      <link>https://www.reddit.com/r/programming/comments/1arkavn/why_uppercase_sql_is_so_common_and_why_it_doesnt/</link>
+      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arkavn/why_uppercase_sql_is_so_common_and_why_it_doesnt/</guid>
+      <pubDate>Thu, 15 Feb 2024 17:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>陷入愚蠢的计算机科学课程（C#）</title>
+      <link>https://www.reddit.com/r/programming/comments/1arjmt2/stuck_in_a_stupid_computer_science_coursec/</link>
+      <description><![CDATA[ 由   提交/u/Character_Mood_700   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arjmt2/stuck_in_a_stupid_computer_science_coursec/</guid>
+      <pubDate>Thu, 15 Feb 2024 16:37:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>robots.txt 的兴衰</title>
+      <link>https://www.reddit.com/r/programming/comments/1arivf7/the_rise_and_fall_of_robotstxt/</link>
+      <description><![CDATA[ 由   提交/u/aScottishBoat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arivf7/the_rise_and_fall_of_robotstxt/</guid>
+      <pubDate>Thu, 15 Feb 2024 16:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览应用程序托管选项的复杂环境：决策者指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1ariq5j/navigating_the_complex_landscape_of_application/</link>
+      <description><![CDATA[ 由   提交/u/yoel-reddits  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ariq5j/navigating_the_complex_landscape_of_application/</guid>
+      <pubDate>Thu, 15 Feb 2024 15:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用python从音频文件中提取声学特征</title>
+      <link>https://www.reddit.com/r/programming/comments/1ari6zi/extracting_acoustic_features_from_audio_files/</link>
+      <description><![CDATA[我正在制作一个语音性别检测器，并尝试新的示例，我需要从音频示例中获取以下功能，并且我编写了这段代码但显然是“audioFeatureExtraction”在“pyAudioAnalysis”中不存在了，我该怎么办？ 声学特征：meanfreq：平均频率（以 kHz 为单位）sd：频率标准差中位数：中值频率（以 kHz 为单位）Q25：第一分位数（以 kHz 为单位） kHz) Q75：第三分位数（以 kHz 为单位） IQR：分位数间距（以 kHz 为单位） skew：偏斜度（请参阅specprop 描述中的注释） kurt：峰度（请参阅specprop 描述中的注释） sp.ent：谱熵 sfm：谱平坦度模式：模式频率质心：频率质心（请参阅specprop）peakf：峰值频率（具有最高能量的频率）meanfun：在声学信号中测量的基频平均值minfun：在声学信号中测量的最小基频maxfun：在声学信号中测量的最大基频meandom：跨声学信号测量的主频率的平均值 Mindom：跨声学信号测量的主频率的最小值 maxdom：跨声学信号测量的主频率的最大值 dfrange：跨声学信号测量的主频率的范围 modindx：调制指数。计算方法为基频相邻测量值之间的累积绝对差除以频率范围   由   提交/u/it_is_kk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ari6zi/extracting_acoustic_features_from_audio_files/</guid>
+      <pubDate>Thu, 15 Feb 2024 15:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET9 中的新功能 | .NET 9 愿景</title>
+      <link>https://www.reddit.com/r/programming/comments/1ari6xs/new_features_coming_in_net9_vision_for_net_9/</link>
+      <description><![CDATA[ 由   提交 /u/TheDotnetoffice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ari6xs/new_features_coming_in_net9_vision_for_net_9/</guid>
+      <pubDate>Thu, 15 Feb 2024 15:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>灰胡子之墓：语言设计失落的宝藏</title>
+      <link>https://www.reddit.com/r/programming/comments/1arhth2/greybeards_tomb_the_lost_treasure_of_language/</link>
+      <description><![CDATA[ 由   提交 /u/FUZxxl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1arhth2/greybeards_tomb_the_lost_treasure_of_language/</guid>
+      <pubDate>Thu, 15 Feb 2024 15:20:43 GMT</pubDate>
+    </item>
     <item>
       <title>为什么软件“安全债务”正成为开发人员面临的一个严重问题</title>
       <link>https://www.reddit.com/r/programming/comments/1argtu9/why_software_security_debt_is_becoming_a_serious/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交/u/srvaroa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1argan1/how_about_we_forget_the_concept_of_test_types/</guid>
       <pubDate>Thu, 15 Feb 2024 14:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们忘记测试类型的概念怎么样？</title>
-      <link>https://www.reddit.com/r/programming/comments/1argamz/how_about_we_forget_the_concept_of_test_types/</link>
-      <description><![CDATA[ 由   提交/u/srvaroa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1argamz/how_about_we_forget_the_concept_of_test_types/</guid>
-      <pubDate>Thu, 15 Feb 2024 14:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 工程师指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1arfweo/engineers_guide_to_linkedin/</link>
-      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arfweo/engineers_guide_to_linkedin/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果想要消灭 PWA</title>
-      <link>https://www.reddit.com/r/programming/comments/1arfnjz/apple_wants_to_kill_pwas/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arfnjz/apple_wants_to_kill_pwas/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:40:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我现在不使用 .NET Aspire</title>
-      <link>https://www.reddit.com/r/programming/comments/1arf9p8/why_i_wont_use_net_aspire_for_now/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arf9p8/why_i_wont_use_net_aspire_for_now/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们会从头到尾告诉您在 YouTube 搜索中获得最高曝光率的秘密。</title>
-      <link>https://www.reddit.com/r/programming/comments/1arf90v/유튜브_검색_상위노출의_비밀_a_부터_z까지_알려드립니다/</link>
-      <description><![CDATA[ 由   提交/u/Alarming_Plane_7906   [链接] [comments ] ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arf90v/유튜브_검색_상위노출의_비밀_a_부터_z까지_알려드립니다/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>极其线性的 Git 历史</title>
-      <link>https://www.reddit.com/r/programming/comments/1arf440/extremely_linear_git_history/</link>
-      <description><![CDATA[ 由   提交/u/Gurrewe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arf440/extremely_linear_git_history/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何提高 Yelp 开发人员的生产力？</title>
-      <link>https://www.reddit.com/r/programming/comments/1arf40b/how_we_drive_developer_productivity_at_yelp/</link>
-      <description><![CDATA[ 由   提交/u/sirkarthik  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arf40b/how_we_drive_developer_productivity_at_yelp/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 追踪器</title>
-      <link>https://www.reddit.com/r/programming/comments/1arex08/whatsapp_tracker/</link>
-      <description><![CDATA[如何制作类似于 WhatEye 的应用程序？如何获取你的源代码？我的目标是制作一个应用程序，列出 WhatsApp 最近的在线和离线时间。我想制作该应用程序，以便它位于辅助手机上的本地服务器上，或者它不需要单独的服务器，但使用我手机上的whatsapp。如果可以用来监控非联系人的电话号码就好了。   由   提交/u/weiszadam17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arex08/whatsapp_tracker/</guid>
-      <pubDate>Thu, 15 Feb 2024 13:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>25 分钟内超过 1.5 万个 PDF</title>
-      <link>https://www.reddit.com/r/programming/comments/1ard4wf/15_million_pdfs_in_25_minutes/</link>
-      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ard4wf/15_million_pdfs_in_25_minutes/</guid>
-      <pubDate>Thu, 15 Feb 2024 11:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xpiry - 跟踪您的过期产品并在它们变质之前收到通知！</title>
-      <link>https://www.reddit.com/r/programming/comments/1arcl78/xpiry_track_your_expiring_products_get_notified/</link>
-      <description><![CDATA[ 由   提交/u/Raduku1999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arcl78/xpiry_track_your_expiring_products_get_notified/</guid>
-      <pubDate>Thu, 15 Feb 2024 10:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Spring Boot 中设置 Spanner 模拟器 🌐🔧</title>
-      <link>https://www.reddit.com/r/programming/comments/1arcgr2/setting_up_a_spanner_emulator_in_spring_boot/</link>
-      <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arcgr2/setting_up_a_spanner_emulator_in_spring_boot/</guid>
-      <pubDate>Thu, 15 Feb 2024 10:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何将时间序列加快 20-30 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1arc8od/how_we_sped_up_time_series_by_2030x/</link>
-      <description><![CDATA[ 由   提交 /u/Fickle-Conference-87   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1arc8od/how_we_sped_up_time_series_by_2030x/</guid>
-      <pubDate>Thu, 15 Feb 2024 10:09:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
