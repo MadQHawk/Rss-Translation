@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 15 Feb 2024 09:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 12:21:13 GMT</lastBuildDate>
+    <item>
+      <title>是什么导致我的页面渲染如此缓慢？ REACT 应用程序来自 90 年代？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1are6s1/whats_causing_my_page_to_render_so_slowly_react/</link>
+      <description><![CDATA[所以我构建了一个 REACT 应用程序。 它现在托管在 Netlify 上。 唯一的问题问题是所有图像都需要相当长的时间才能像 90 年代的网站一样分块渲染。 除此之外，CSS 样式存在延迟，因为英雄部分中的 H1 会逐字渲染没有字体，半秒后字体呈现在其上！   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1are6s1/whats_causing_my_page_to_render_so_slowly_react/</guid>
+      <pubDate>Thu, 15 Feb 2024 12:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[堆栈建议] 实时同步视频播放和聊天</title>
+      <link>https://www.reddit.com/r/webdev/comments/1are1qp/stack_advice_realtime_synchronized_video_player/</link>
+      <description><![CDATA[大家好！ 长话短说，我正在举办一个“观看派对”用于本地保存视频的客户端单页应用程序，以提供绝对最小的延迟。 我已经决定使用  Bun 的 WebSocket 实现（以及一般的 Bun，既作为包管理器又作为服务器），现在我只需要锁定要使用的框架。 我喜欢 React 和 React。 NextJS，但担心它们会降低性能成本  整体布局是静态的（除了视频聊天/消息元素），所以我不会真正利用 React 来实现 JSX（当`document.getElementById` 工作正常）， 内容本身是动态的（从视频播放器到按钮，再到聊天 I/O），所以我不会真正利用服务器端渲染...  我还被建议使用数据库（MongoDB/PostgreSQL）来跟踪“房间” &amp; “用户”，但我承认我对数据库总体来说是新手——我只是在 Bun 的 WS 示例&lt;中使用 Pub/Sub 模型&lt; /a&gt;... 您建议我研究什么框架/堆栈？ 草案：https://covid-player.onrender.com（代表协调视频播放器哈哈） 草稿说明：点击黑色方块（需要用户交互以允许JS发起的视频控制），稍等一下默认视频加载，如果需要，可以点击“ &#39;链接&#39;底部栏上的按钮可更改视频源。 （注意：我本来可以让“选择视频”按钮正常工作，但这是一个旧的 GitHub 提交，我担心回到这么久远的地方 - 我已经做了 3 次变基从那时起😅） 编辑：我也一直在研究 SvelteKit，它看起来很有趣，但看到了 此处表示 NextJS 是“具有动态内容的网站的首选”，所以我现在完全不明白什么是“动态内容”。动态”在这种情况下意味着哈哈   由   提交/u/djohoe28  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1are1qp/stack_advice_realtime_synchronized_video_player/</guid>
+      <pubDate>Thu, 15 Feb 2024 12:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>无/低/完整代码选项 - 寻求建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ard7rc/no_low_full_code_options_seeking_advice/</link>
+      <description><![CDATA[大家好， 我想知道您是否可以向我提供有关我必须构建公司市场的 3x 选项的见解平台。我用无代码 MVP 测试了这个想法，现在想要构建真实的东西。 我不完全理解无/低/完整代码选项之间的差异以及它们各自的限制 - 并且我想知道您会推荐什么来构建这种类型的平台： 我相信上面的大多数事情都可以使用无代码/低代码来完成 - 但我不确定这如何与用户帐户部分和 API 连接） - 2x 类型的用户帐户（带登录名/密码）（1x 买家 + 1x 卖家） - API 日历集成预结帐（用户选择前往结帐之前的合适时间） - 连接到白标视频会议解决方案的 API/框架 - 一系列自动化 - 例如帐户时的电子邮件创建、购买订单等。  ​ 我相信上面的大多数事情都可以使用无/低代码完成 - 但我不确定如何这可以与用户帐户部分和 API 连接一起使用。 ​ 只是补充一下 - 我有一些编码方面的基本知识并且足智多谋 - 但我也可以雇用开发人员或与 CTO 合作，这对我来说是不可能单独完成的。 ​ 您能告诉我您认为哪种类型的解决方案最适合这？我很想让它在低代码平台上工作，但我不确定这是否可行。 ​ 提前感谢您的帮助。 ​ 提前感谢您的帮助。 p&gt;   由   提交/u/Domdd86  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ard7rc/no_low_full_code_options_seeking_advice/</guid>
+      <pubDate>Thu, 15 Feb 2024 11:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>一般 Web 开发的 CPU/RAM 要求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1arct8j/cpuram_requirements_for_general_web_development/</link>
+      <description><![CDATA[我很好奇人们认为 Web 开发的资源充足，涉及日常任务，例如：  Docker 运行超过 1 个本地站点，通常是 2 或 3 个，可能运行 Xdebug Vscode 或 Jetbrains 多个浏览器，打开多个选项卡。 能够操作多个 GB 的大型文本文件（.sql、.log、.csv 等） 屏幕共享/录制  基本上日常使用网络开发人员/系统管理员的日常任务。 我目前在 2021 年 Dell Latitude 5510 上运行 Debian，该计算机具有以下规格：  Intel(R) Core (TM) i5-10310U CPU @ 1.70GHz 16GB RAM 256GB SSD  ​   由   提交 /u/Fantastic-Support524    reddit.com/r/webdev/comments/1arct8j/cpuram_requirements_for_general_web_development/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1arct8j/cpuram_requirements_for_general_web_development/</guid>
+      <pubDate>Thu, 15 Feb 2024 10:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有具有特定要求的代码构建工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1arcpid/no_code_building_tool_with_specific_requirements/</link>
+      <description><![CDATA[嗨， 我是一名 Web 开发人员。我的公司给我的任务是寻找一个很好的无代码构建器来重构我们的登陆网站，所以我一直在探索寻找最好的一个。目前，我们正在使用 WordPress，我知道它无所不能，但如果没有所需技能，我们也很容易创建低于标准的结果，而我们不具备这些技能。 要求是：  在欧盟地区托管。 本地化：我们有三个不同的区域设置。 用于营销团队撰写的文章的 CMS。 拖放构建器，因此不涉及编码器（我是唯一的 Web 开发人员，他们不想让我这样做）。  最初，我真的很喜欢 Webflow 和 Ycode，但它们缺乏一项强制性要求。 Webflow 托管在美国，Ycode 目前不提供本地化服务。尽管可以通过插件实现，但他们更喜欢使用本机函数。  我找到了理论上完美的bondlayer，但我在互联网上找不到那么多，而且社区似乎不存在。有什么想法吗？   由   提交 /u/Fantastic-Ad9431    reddit.com/r/webdev/comments/1arcpid/no_code_building_tool_with_specific_requirements/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1arcpid/no_code_building_tool_with_specific_requirements/</guid>
+      <pubDate>Thu, 15 Feb 2024 10:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>有基于角色的访问模型的 github 项目吗？出于灵感/最佳实践目的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1arcnm3/any_github_projects_for_role_based_access_models/</link>
+      <description><![CDATA[所以我想开发一个具有精细权限和角色的仪表板。例如，我不想彻底拒绝访问“查看银行帐户数据”路线 - 我宁愿希望“管理员”访问“查看银行帐户数据”路线。和“高级用户”类似地能够到达那里，但只有高级用户才应该，例如看到一个启用“编辑”的按钮银行数据。 是否有任何项目具有这种基于角色的访问模型？我不想重新发明轮子...  我当前的数据模型有一个“Module_Permission”列出允许访问 UI（或模块）元素的所有角色的界面。以及“用户”。包含“角色”的界面将与“Module_Permission”进行比较的接口...如果它在那里列出，则允许用户执行某些操作。 问题在于，每次添加新的 UI 元素时，Module_Permission 对象或数组对象的数量将无限增长。每次前端缩放时，后端都必须向数组添加更多对象...   由   提交/u/Kaimura  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1arcnm3/any_github_projects_for_role_based_access_models/</guid>
+      <pubDate>Thu, 15 Feb 2024 10:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮我找到一篇关于如何在 React 中使用惰性和挂起构建 Reddit 或类似 Reddit 的应用程序的文章。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1archvt/please_help_me_find_an_article_which_is_about_how/</link>
+      <description><![CDATA[我一辈子都不记得我在哪里读到这篇文章了，谷歌搜索也帮不了我。一旦你输入“Reddit”这个词在你的搜索中，你得到的只是 Reddit 的结果。 我所记得的关于这篇文章的内容是，重点是使用 Lazy 和 Suspense 动态加载组件和内容。我不记得这篇文章是否说“这就是 Reddit 的构建方式”。或“这就是构建 Reddit 风格网站的方法” Reddit 肯定被用作文章/教程中包含的代码示例的参考。  当我阅读它时，我应该给它添加书签，但当时它的内容与我正在构建的内容并不真正相关，但现在我认为我可以使用其中的一些技术。  p&gt; ​   由   提交 /u/alexefy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1archvt/please_help_me_find_an_article_which_is_about_how/</guid>
+      <pubDate>Thu, 15 Feb 2024 10:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>手机（IO）支持水平滚动容器吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1arc3jp/horizontal_scrolling_containers_supported_by/</link>
+      <description><![CDATA[您好，我尝试了不同的javascript代码来实现水平滚动菜单（因此电子商务网站上的每个产品都是容器（图片+文本）并且应该可以水平滚动）。在 IO（iPhone）上，它不断消失并重新加载。仅当我实现水平滚动脚本时，它才会出现问题。 所以问题：您在 javascript（重要的是 js）中是否有任何替代方案/库/等来创建滚动菜单？ &lt; p&gt;非常感谢，如果有人有可行的解决方案，我会通过贝宝给他/她小费   由   提交/u/Oxbow8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1arc3jp/horizontal_scrolling_containers_supported_by/</guid>
+      <pubDate>Thu, 15 Feb 2024 09:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>敏捷工作流程和 GIT 分支。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1arbrzn/agile_workflow_and_git_branching/</link>
+      <description><![CDATA[我有一个简单的问题，我觉得我还没有得到直接的答案。当您在专业环境中处理项目并使用 git 时，分支通常是什么样子的？  每个人都在自己的个人分支上吗？例如：Matt 的分支、Cody 的分支等？ 或者你对不同的组件有单独的分支，例如：导航栏、Hero、API 功能等？  有人有任何好的 BASIC 资源和示例吗？我唯一的经验是在我的个人项目和简单的学校项目中使用 git。   由   提交/u/Octo-Diver  /u/Octo-Diver  reddit.com/r/webdev/comments/1arbrzn/agile_workflow_and_git_branching/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1arbrzn/agile_workflow_and_git_branching/</guid>
+      <pubDate>Thu, 15 Feb 2024 09:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>几个月前就已经铺设了，现在他们已经破坏了网站的格式。修复我的个人作品集屏幕截图的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1arboqu/laid_of_months_ago_and_now_theyve_broken_the/</link>
+      <description><![CDATA[首先，我根本不是开发人员，如果我不知道解释事情的最佳方式，那么很抱歉。我是一名编辑经理/撰稿人，使用基于 HTML 的 CMS 创建和发布包含文本、文本格式、照片和视频的博客。  当我回去为我的网站截取屏幕截图时，我发现他们重新设计了样式，所有这些新的更改都破坏了整个博客积压的格式。主要是段落分隔符、间距、字体/标题大小和图像等。他们甚至开始使用一行破折号来分隔段落;_; 对于像我这样具有良好计算机知识的非开发人员来说，编辑/重新创建这些屏幕截图的最佳方法是什么？  理想情况下，我还想重新创建一个可以链接到的整个博客页面，但我不确定这是否可行。   由   提交 /u/SlimegirlMcDouble   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1arboqu/laid_of_months_ago_and_now_theyve_broken_the/</guid>
+      <pubDate>Thu, 15 Feb 2024 09:29:47 GMT</pubDate>
+    </item>
     <item>
       <title>使用什么</title>
       <link>https://www.reddit.com/r/webdev/comments/1arai8h/what_to_use/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[你好。如前所述，我希望用户能够登录他的帐户，添加 3 种酒、冰块等，然后计算每种饮料或特定数量的成本。有任何想法吗？基本上，它阻碍我的是我需要每个人都有能力查看他的食谱和成分，但不能查看其他人的。   由   提交/u/karavidas_1987   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ar5enr/wp_plugin_to_login_add_ingredients_calculate_cost/</guid>
       <pubDate>Thu, 15 Feb 2024 02:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们如何决定您的作品集的背景颜色？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar5cik/how_do_yall_decide_on_a_background_colour_for/</link>
-      <description><![CDATA[正如标题所示，我正在努力想出一个简单的背景颜色。我尝试过深蓝色、深灰色、白色、浅蓝色等，但出于某种原因，我对它不满意，我认为它看起来很糟糕。但我从未见过其他作品集的背景颜色很糟糕？ 我在这里苦苦挣扎。设计绝对不是我的技能之一。   由   提交 /u/Polople   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar5cik/how_do_yall_decide_on_a_background_colour_for/</guid>
-      <pubDate>Thu, 15 Feb 2024 02:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个聊天机器人小部件来提高您的着陆页转化率</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar55tg/i_made_a_chatbot_widget_to_increase_your_landing/</link>
-      <description><![CDATA[大家好！我想分享一个我一直在从事的名为 Chatmate (https://chatmate.fly.dev/) 的项目。它就像所有其他基于 gpt 的聊天机器人构建器一样，但它是免费的，我已经对模型进行了微调，以积极与您的潜在客户互动并尝试转化他们。目标是提高网站的着陆页转化率！现在还不完美，但我认为通过更多数据，它实际上可以对着陆页产生重大影响。  任何反馈/见解将不胜感激，迫不及待地让您尝试！  https://chatmate.fly.dev/   由   提交/u/North-Ad6756   /u/North-Ad6756 reddit.com/r/webdev/comments/1ar55tg/i_made_a_chatbot_widget_to_increase_your_landing/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar55tg/i_made_a_chatbot_widget_to_increase_your_landing/</guid>
-      <pubDate>Thu, 15 Feb 2024 02:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有风险的商业播客：Socket 如何对抗开源包中的恶意软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar3tck/risky_business_podcast_how_socket_combats_malware/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar3tck/risky_business_podcast_how_socket_combats_malware/</guid>
-      <pubDate>Thu, 15 Feb 2024 01:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建您自己的维基百科网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar3btl/creating_your_own_wikipedia_site/</link>
-      <description><![CDATA[大家好，我不确定我是否在这里使用了正确的术语或是否正确地提出了问题，所以请耐心等待。当我上大学时，我曾托管过自己的维基百科网站，是一位教授帮助我建立的。我已经很多年没有碰过它了，当我去把它从旧硬盘上取下来时，它已经坏了。基本上所有东西都提供给我了，但我不记得它在哪里。我只需下载某种模板库，然后将我的 index.html 指向它即可。我一辈子都不记得它叫什么，也不记得从哪里得到它，所以我想我会来这里问是否有人这样做过？  已经过去了这么久（2012 年左右），也许现在有更好的选择，所以我将描述一下我想做的事情。我一直在使用 Pyhton 教程开发一个小记事卡网站。只是我一直想玩的一些有趣的东西。在陷入困境后，我离开了一段时间，浏览我的笔记并没有多大帮助，因为我的笔记杂乱无章，这让我想起了大学时代的维基。我会做很多辅导工作，并经常在那里写一些我的笔记，然后将它们组织成迷你教程，并进行实验和其他学生可以运行的实验。我想再次拥​​有它，并将首先向其中添加我的 Python 网站注释，并希望实际上有我要在其中编写的网站。  不确定我是否清楚地表达了所有这些，但这是 reddit，我确信有人会让我知道，哈哈。  我的主要问题是在那天，我使用了某种类型的模板，该模板为我自己的 wiki 页面完成了 99% 的工作，但我不记得它是什么，我正在寻找找到它或类似的替代品。  任何方向都值得赞赏。    由   提交 /u/ProjectObjective   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar3btl/creating_your_own_wikipedia_site/</guid>
-      <pubDate>Thu, 15 Feb 2024 01:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>戏剧性的 SEO 反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar1zut/dramatic_seo_feedback/</link>
-      <description><![CDATA[我们正在与 SEO 机构合作，他们看起来非常热情，但很乐意就我们在询问 JS 缩小时得到的以下建议获得一些反馈：  &quot;建议完整主题更新和维护以及管理/PM 时间 注释：  他们的主题是仍在 Salient 12.1.2。 Salient当前版本是16.1.3 WP版本是5.5.14，当前版本是6.4.3 插件也过时了 服务器设置upload_max_filesize需要大于 post_max_size PHP 版本仍然是 7.4 最新版本的 Salient 允许添加脚本，这将消除对其代码片段插件的需要（从而减轻负载）  li&gt; 他们有 Cloudflare，但没有缓存工具 他们后面有不再需要的手动简码，包括随机手动 reCaptcha？！为什么要重新发明轮子。我们需要尽快更新此内容。   总之，主题和 WP 版本需要尽快更新，然后才能做任何事情，而且网站已经过时了，严重。  完成上述工作可能需要我们大约 9-12 个小时的工作时间。我们还需要确保插件在升级过程中支持新版本。我们当时需要探索这种风险。 如果我们不采取任何行动，那么就会出现与 Google Ads 合规性相关的风险，以及 SEO 适得其反的风险。该网站需要爱，简单！ 我们只能从网站中榨取这么多。我知道我们已经讨论重建很长时间了。我们并不是[我认为他们的意思是现在]这个网站的生命即将结束。 ”   由   提交 /u/Staghr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar1zut/dramatic_seo_feedback/</guid>
-      <pubDate>Thu, 15 Feb 2024 00:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨，我有一个请求，我不会说很简单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar1fqc/hi_i_have_a_request_i_wont_say_is_simple/</link>
-      <description><![CDATA[我正在寻找可以从此网站制作 webkit 的人。 http://websdr.ewi.utwente.nl:8901/m.html &lt; p&gt;函数将是： 。能够通过输入随机切换频率 。输入将基于所使用设备的传感器数据。麦克风输入不需要影响任何它只需要访问的内容 。输入将自行产生输出，从而允许工具包进行自我操作。  。我认为彻底的设置和选项是理想的，但这只是一个理想，我只想要一些功能性的东西。 如果没有人愿意花个人时间来做这件事，这是完全可以理解的，特别是因为我无法支付费用开发成本。我发帖作为学习如何开发 sdk 的替代方案。   由   提交/u/Umpire_Effective  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar1fqc/hi_i_have_a_request_i_wont_say_is_simple/</guid>
-      <pubDate>Wed, 14 Feb 2024 23:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管/部署我的网络应用程序的最佳选择？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar1f4i/best_options_to_hostdeploy_my_web_app/</link>
-      <description><![CDATA[大家好，我正在开发一个全栈应用程序，并且对托管/部署我的应用程序的最佳路线感到好奇。  技术堆栈：前端：Vite React Typescript  后端：Node Express Typescript TypeORM PostgreSQL  我之前使用 MongoDB 构建了全栈应用程序并将其托管在heroku 非常顺利。自从我使用 PostgreSQL 以来，这个过程会有多大不同？ 它也不必是 heroku，甚至不必是免费的（尽管免费就太好了） 我只是好奇如何解决这个问题。我还了解到使用 Docker 可能会有好处，但我不太熟悉它，但如果它对我的项目有意义，我会研究一下。   由   提交 /u/CodeCrazyAquile   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar1f4i/best_options_to_hostdeploy_my_web_app/</guid>
-      <pubDate>Wed, 14 Feb 2024 23:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于 sysadmin 项目的开源 Web 应用程序堆栈 (PHP + MySQL)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ar050z/open_source_web_app_stack_php_mysql_for_sysadmin/</link>
-      <description><![CDATA[大家好！ 我是一名系统管理员，正在处理有关操作系统和网络服务器的任务！我需要一个用 PHP 和 MySQL 编写的带有前端的开源 Web 应用程序堆栈。 Web 应用程序堆栈当然可以是一些奇特的东西，它包含的代码越多并且编译得越好！ 你们知道我在哪里可以找到并使用这样的示例 Web 应用程序吗？或者是否有人在 GitHub 上公开了一个 webstack 项目，并且没有任何使用限制？ PS：肯定不会有内容盗窃或抄袭。在我的作业中肯定会向开发人员提供荣誉和引用！ 编辑：更清楚地说，我需要一个现成的 PHP Web 应用程序，其中已经有现成的数据库数据，我可以将其直接部署为LAMP-stack   由   提交/u/karesoul  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ar050z/open_source_web_app_stack_php_mysql_for_sysadmin/</guid>
-      <pubDate>Wed, 14 Feb 2024 22:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在 Chrome (Javascript) 中加载 AIF 文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqztjp/cant_load_aif_files_in_chrome_javascript/</link>
-      <description><![CDATA[有人遇到过这个问题吗？我专门用Mac。我无法使用 new Audio() 或任何使用它的库加载 AIF 文件。 AIF 文件在 Safari 中加载良好。我需要支持客户端能够加载 AIF 文件，所以有什么想法吗？   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqztjp/cant_load_aif_files_in_chrome_javascript/</guid>
-      <pubDate>Wed, 14 Feb 2024 22:32:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要网页设计师但不知道从哪里开始。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqz37g/web_designer_needed_but_dont_know_where_to_start/</link>
-      <description><![CDATA[您好，我希望我能得到一些指导，了解如何找到优质的网页设计师以及正确的方法。除了他们的作品集之外，在审查潜在设计师时我还应该问哪些类型的问题？任何提示/资源将不胜感激。 编辑：我可能应该补充一点，我试图将其发布在 r/webdesign，但显然您需要积极参与该子项目才能发布问题。如果我是一名开发人员并且对设计一无所知，我认为我不会对参与该子项目提出的问题有太大帮助。这里的任何方向将不胜感激。提前谢谢您。   由   提交 /u/SlickkChickk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqz37g/web_designer_needed_but_dont_know_where_to_start/</guid>
-      <pubDate>Wed, 14 Feb 2024 22:00:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

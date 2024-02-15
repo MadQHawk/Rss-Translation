@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 15 Feb 2024 09:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 12:21:31 GMT</lastBuildDate>
     <item>
-      <title>汽车潜艇</title>
-      <link>https://www.opensourceagenda.com/projects/auto-subs</link>
-      <description><![CDATA[在 Davinci Resolve 编辑软件中使用 OpenAI Whisper 生成字幕。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/auto-subs</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:34 GMT</pubDate>
+      <title>Tldraw 图形布局</title>
+      <link>https://www.opensourceagenda.com/projects/tldraw-graph-layout</link>
+      <description><![CDATA[tldraw 中基于约束的图形布局]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tldraw-graph-layout</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:31 GMT</pubDate>
     </item>
     <item>
-      <title>比邻星</title>
-      <link>https://www.opensourceagenda.com/projects/proxima</link>
-      <description><![CDATA[使用多台机器进行编码，直接从 DaVinci Resolve 转码源媒体。非常适合快速创建代理。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/proxima</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:34 GMT</pubDate>
+      <title>Cherlanea PC 版应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/cherlanea-app-for-pc</link>
+      <description><![CDATA[用于编辑照片和视频的应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cherlanea-app-for-pc</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:31 GMT</pubDate>
     </item>
     <item>
-      <title>In03 嘎嘎声</title>
-      <link>https://www.opensourceagenda.com/projects/in03-squawk</link>
-      <description><![CDATA[使用 OpenAI Whisper 为 DaVinci Resolve 自动添加字幕]]></description>
-      <guid>https://www.opensourceagenda.com/projects/in03-squawk</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:34 GMT</pubDate>
+      <title>努克斯特志木</title>
+      <link>https://www.opensourceagenda.com/projects/nuxt-shiki</link>
+      <description><![CDATA[Nuxt + Shiki 语法荧光笔]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nuxt-shiki</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:30 GMT</pubDate>
     </item>
     <item>
-      <title>皮达芬奇</title>
-      <link>https://www.opensourceagenda.com/projects/pydavinci</link>
-      <description><![CDATA[帮助您编写 DaVinci Resolve 脚本的 python 包]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pydavinci</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:33 GMT</pubDate>
+      <title>1000小时</title>
+      <link>https://www.opensourceagenda.com/projects/1000-hours</link>
+      <description><![CDATA[集中注意力 1000 小时，您就可以掌握所需的任何内容。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/1000-hours</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:30 GMT</pubDate>
     </item>
     <item>
-      <title>Protune 变换</title>
-      <link>https://www.opensourceagenda.com/projects/protune-transforms</link>
-      <description><![CDATA[适用于 DaVinci Resolve 的 GoPro Protune Flat 和 LogB ACES IDT 以及 YRGB 变换（基于 HERO5 Black）&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/protune-transforms</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:33 GMT</pubDate>
+      <title>Langchainai聊天Langchainjs</title>
+      <link>https://www.opensourceagenda.com/projects/langchain-ai-chat-langchainjs</link>
+      <description><![CDATA[💬 与 LangChain JS/TS 文档和源代码进行交流。 💬]]></description>
+      <guid>https://www.opensourceagenda.com/projects/langchain-ai-chat-langchainjs</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:30 GMT</pubDate>
     </item>
     <item>
-      <title>解决Dctl</title>
-      <link>https://www.opensourceagenda.com/projects/resolve-dctl</link>
-      <description><![CDATA[Davinci Resolve 的 DCTL 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/resolve-dctl</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:33 GMT</pubDate>
+      <title>涡轮拱门</title>
+      <link>https://www.opensourceagenda.com/projects/turboarch</link>
+      <description><![CDATA[TurboArch - 立即用 Arch Linux 无缝替换您当前的操作系统！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/turboarch</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:30 GMT</pubDate>
     </item>
     <item>
-      <title>揭秘颜色 DCTL</title>
-      <link>https://www.opensourceagenda.com/projects/demystify-color-dctls</link>
-      <description><![CDATA[Blackmagic Design DaVinci Resolve 的免费 DCTL。由尼科·芬克撰写。有关这些 DCTL 的见解/教程，请访问：www.demystify-color.com/dctl-coding]]></description>
-      <guid>https://www.opensourceagenda.com/projects/demystify-color-dctls</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:33 GMT</pubDate>
+      <title>Sdweb Easy Stable 级联扩散器</title>
+      <link>https://www.opensourceagenda.com/projects/sdweb-easy-stablecascade-diffusers</link>
+      <description><![CDATA[如果有人创建了一个不错的扩展，请切换到它。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sdweb-easy-stablecascade-diffusers</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>HarshitKumar9030 Tailwind 组件</title>
-      <link>https://www.opensourceagenda.com/projects/harshitkumar9030-tailwind-components</link>
-      <description><![CDATA[Tailwind 组件 |导航栏 |页脚|英雄部分|电子商务 |表格 |更多 |内置 React (Next.js)。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/harshitkumar9030-tailwind-components</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:32 GMT</pubDate>
+      <title>AI社交媒体代理</title>
+      <link>https://www.opensourceagenda.com/projects/aisocialmediaagent</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aisocialmediaagent</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>加林</title>
-      <link>https://www.opensourceagenda.com/projects/galini</link>
-      <description><![CDATA[可扩展的 MINLP 求解器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/galini</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:32 GMT</pubDate>
+      <title>多屏视觉专业版</title>
+      <link>https://www.opensourceagenda.com/projects/multiscreenvisonpro</link>
+      <description><![CDATA[此项目可以将 Mac 的显示扩展到 VisionPro 上的多个屏幕，从而绕过单屏限制。它涉及一个 Mac 应用程序创建流式传输到 VisionPro 的虚拟显示器，其中另一个应用程序管理这些虚拟显示器以获得更广泛的桌面体验。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/multiscreenvisonpro</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>科拉明</title>
-      <link>https://www.opensourceagenda.com/projects/coramin</link>
-      <description><![CDATA[用于开发 MINLP 算法的工具（类、函数等）集合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coramin</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:32 GMT</pubDate>
+      <title>ComfyUI ADMotionDirector</title>
+      <link>https://www.opensourceagenda.com/projects/comfyui-admotiondirector</link>
+      <description><![CDATA[用于训练 AnimateDiff 运动 loras 的 ComfyUI 节点]]></description>
+      <guid>https://www.opensourceagenda.com/projects/comfyui-admotiondirector</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>胖胎决心</title>
-      <link>https://www.opensourceagenda.com/projects/fat-tire-resolve</link>
-      <description><![CDATA[使用 Docker 或 Podman 构建和运行适用于 Linux 的 DaVinci Resolve [Studio] 的容器脚本&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fat-tire-resolve</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:32 GMT</pubDate>
+      <title>彻</title>
+      <link>https://www.opensourceagenda.com/projects/toru</link>
+      <description><![CDATA[Bittorrent 流 CLI 工具。实时串流动漫种子，无需等待下载。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/toru</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>TW 元素反应</title>
-      <link>https://www.opensourceagenda.com/projects/tw-elements-react</link>
-      <description><![CDATA[TW Elements for React - 𝙃𝙪𝙜𝙚 Tailwind + React 组件、部分和模板的集合 😎&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tw-elements-react</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:31 GMT</pubDate>
+      <title>密封911</title>
+      <link>https://www.opensourceagenda.com/projects/seal-911</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/seal-911</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>Tailwind Figma Ui 套件</title>
-      <link>https://www.opensourceagenda.com/projects/tailwind-figma-ui-kit</link>
-      <description><![CDATA[FlowBite 是 Figma 中一组免费且开源的 UI 组件和页面专为 Tailwind CSS 构建]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tailwind-figma-ui-kit</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:31 GMT</pubDate>
+      <title>FL V21</title>
+      <link>https://www.opensourceagenda.com/projects/fl-v21</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fl-v21</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>状态页 状态页</title>
-      <link>https://www.opensourceagenda.com/projects/status-page-status-page</link>
-      <description><![CDATA[开源 Statuspage 软件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/status-page-status-page</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:31 GMT</pubDate>
+      <title>协议研究</title>
+      <link>https://www.opensourceagenda.com/projects/protocol-studies</link>
+      <description><![CDATA[学习以太坊和构建协议 wiki 的研究小组]]></description>
+      <guid>https://www.opensourceagenda.com/projects/protocol-studies</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:27 GMT</pubDate>
     </item>
     <item>
-      <title>推文 Conf Dash</title>
-      <link>https://www.opensourceagenda.com/projects/tweet-conf-dash</link>
-      <description><![CDATA[闪亮的 Twitter 会议仪表板]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tweet-conf-dash</guid>
-      <pubDate>Thu, 15 Feb 2024 09:15:30 GMT</pubDate>
+      <title>魔兽世界MIPS</title>
+      <link>https://www.opensourceagenda.com/projects/wowmips</link>
+      <description><![CDATA[适用于 x86 的 Windows NT MIPS 模拟器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wowmips</guid>
+      <pubDate>Thu, 15 Feb 2024 12:21:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
