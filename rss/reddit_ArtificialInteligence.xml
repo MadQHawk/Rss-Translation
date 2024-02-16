@@ -4,20 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 15 Feb 2024 21:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 00:50:50 GMT</lastBuildDate>
+    <item>
+      <title>我认为我们应该考虑的事情</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aruhys/something_i_think_we_should_be_thinking_about/</link>
+      <description><![CDATA[好吧，我觉得我们都需要讨论一下。想想看，只要 4,000 美元，世界上任何人都可以运行开放的大型语言模型或基于 LLM 的人工智能，从而使整个世界永远离线。我说 4,000 美元是因为我最近组装了一台配备 4090 和规格的电脑，可以运行像这样的 LLM，它的成本约为 4,000 美元。我不想给人们提供想法，但你可以轻松地让法学硕士训练它创建僵尸网络，这些僵尸网络像疾病一样在网络上传播，并使其唯一的功能是使正在使用的端口有效死亡。现在考虑一下谁有钱。想想像俄罗斯这样的国家，如果美国完全脱离网络，他们会受益多少。  如果我们在今天使用的互联网出现故障时没有正式采取某种后备措施，我们作为一个社会就会崩溃。我建议我们很快开始部署另外 2 个网络，并将其部署到 2 个后备网络上。你不会在现有模型上构建它，显然它必须是 2 个新铺设的网络。  2 的原因 网络 1 - 仅是一个基于文本和小图像的网络，严格用于发送和接收少量信息。 网络2 - 高带宽网络。这适用于更大的文件传输和高清图像和视频等一切。基本上今天的网络有一定的限制，以阻止该网络的拆除。理想情况下，这两个网络都需要作为闭源系统开始，并且您需要一大群人日以继夜地工作来微调允许发布到该网络的代码类型。您很可能会使用某种正式的审查流程来测试和审查网络上使用的任何代码，以不允许人工智能在这些网络上进行任何形式的传播。因此，像部署网络代码之类的事情在部署之前需要经过批准。这里的关键是确保由合适的人对网上的这些事情进行审查和批准。  代码的审查过程甚至可以通过治理共识机制来完成，其中网络中的活跃验证成员需要在一定比例的活跃验证验证者中全部批准代码才能批准新代码的部署。仅供思考   由   提交 /u/MrCryptoMuffin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aruhys/something_i_think_we_should_be_thinking_about/</guid>
+      <pubDate>Fri, 16 Feb 2024 00:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止小便 - 使用 SenseCAP K1100 制作人工智能应用原型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arug2u/stopping_the_pee_prototype_ai_apps_with_sensecap/</link>
+      <description><![CDATA[狗检测和威慑 - 我讨论了使用套件中的 Wio 终端和视觉 AI 模块以及基于 ESP32 的音频播放器构建的原型/网络服务器。当我的狗试图在我的院子里“标记领地”时，系统会检测到，然后播放我录制的声音的音频警告文件，以试图分散狗的注意力并停止这种行为...在此处阅读有关该项目的更多信息 &lt; p&gt;https://Circuitcellar.com/research-design -hub/projects/prototype-ai-apps-with-sensecap-k1100-2/   由   提交 /u/CircuitCellarMag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arug2u/stopping_the_pee_prototype_ai_apps_with_sensecap/</guid>
+      <pubDate>Fri, 16 Feb 2024 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京/坎耶的视频是用什么人工智能制作的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1artwvn/what_ai_was_used_to_make_the_putinkanye_video/</link>
+      <description><![CDATA[嗨，有谁知道这个塔克和普京的视频是用什么 AI 制作的吗？ https://www.reddit.com /r/Kanye/comments/1aog9xn/tucker_asks_putin_about_kanye/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button   由   提交 /u/fhltnt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1artwvn/what_ai_was_used_to_make_the_putinkanye_video/</guid>
+      <pubDate>Thu, 15 Feb 2024 23:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么LLM没有曲线拟合？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1art20x/why_no_curve_fitting_for_llm/</link>
+      <description><![CDATA[当您想要将某些函数拟合到某些数据时，您可以导出方程，为您提供应使用的参数，以确保误差最小。  这意味着你不必摆弄系数来一点点接近，你可以直接找到数学上的最优解。 那么为什么我们要使用梯度下降来求解训练神经网络？看看训练 LLM 的成本和需要多长时间，从一开始就拥有最佳解决方案将使我们能够训练更大的模型。 我不是盲目的，我想有一些充分的理由为此，那么是什么阻止我们走这条路呢？   由   提交 /u/prumf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1art20x/why_no_curve_fitting_for_llm/</guid>
+      <pubDate>Thu, 15 Feb 2024 23:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人们无法满足人工智能的要求时，会发生什么？可以做？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arsgxa/what_happens_to_people_when_they_cannot_compete/</link>
+      <description><![CDATA[我遇到过这个9 个月前的讨论帖，现在已经过去了足够的时间，我觉得需要重新评估。如果您想了解更多人们在就业市场上的情况，您可以随时依靠 r/RecruitingHell 获取更多见解。&lt; /p&gt; 情况是否变得更加糟糕，或者预后总体上是一样的吗？  此外，我想到了不久的将来的机会。 如果需要的人越来越少——正如其他人指出的那样“这不是人类劳动力的重新分配，这是人类劳动力的替代”劳动” ——在可预见的未来，那些即将下岗的人和那些不知道自己的未来会怎样的年轻人会怎样？犯罪？对“无用阶层”进行大规模[协助]安乐死？   由   提交 /u/Ebadd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arsgxa/what_happens_to_people_when_they_cannot_compete/</guid>
+      <pubDate>Thu, 15 Feb 2024 22:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>是德科技加入美国商务部人工智能安全研究所联盟</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arscty/keysight_joins_us_commerce_departments_ai_safety/</link>
+      <description><![CDATA[是德科技加入美国商务部人工智能安全研究所联盟 https://candorium.com/news/20240215160913975/keysight-joins-us-commerce-departments-ai-safety-institute-consortium    由   提交/u/10marketing8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arscty/keysight_joins_us_commerce_departments_ai_safety/</guid>
+      <pubDate>Thu, 15 Feb 2024 22:33:08 GMT</pubDate>
+    </item>
     <item>
       <title>你们可能会喜欢我过去几个月所做的工作。 2D 到空间视频转换，</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arpiyr/you_guys_might_like_what_i_have_been_working_on/</link>
       <description><![CDATA[这是我制作的示例视频：SBS 和 空间 我没有精挑细选；您可以看到有一些需要改进的地方。我对这项技术感到非常兴奋，它可以让旧视频和电影/电视节目变得更加身临其境。目前该网站限制为 500MB、每眼 1080p 和 5000 帧，但我已经能够毫无问题地以 4k 转换 2 小时的长篇电影。 所需的计算非常疯狂，所以我将贝塔值保持在较小的水平。如果您有兴趣使用它（免费），请给我发私信。让我知道你的想法！ 编辑：一点警告，在这个剪辑的末尾，我有一个我的孩子们拍摄的视频。摄像机到处飞，所以如果你对晕车敏感，可能不要看它。我把它放在那里是因为我喜欢即使在混乱中它仍然能找到深度。   由   提交 /u/OSady   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arpiyr/you_guys_might_like_what_i_have_been_working_on/</guid>
       <pubDate>Thu, 15 Feb 2024 20:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Klever Suite 今天推出 Product Hunt😍</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arp07k/klever_suite_on_product_hunt_today/</link>
-      <description><![CDATA[Klever Suite 是您用于项目、任务和 Wiki 文档的一体化任务控制！  &lt; p&gt;不再需要杂耍工具。 不再有宇宙混乱。 Klever Suite 简化了您的工作流程。   这就像为您的项目拥有一个超级英雄，只是没有斗篷哈哈 ✨ 请查看我们＆amp;今天在 PH 上支持我们：https://www.producthunt.com/posts/klever-suite-1- 0 非常爱♥️   由   提交/u/donaltramp699   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arp07k/klever_suite_on_product_hunt_today/</guid>
-      <pubDate>Thu, 15 Feb 2024 20:17:11 GMT</pubDate>
     </item>
     <item>
       <title>如此多的选择，正在寻找 ChatGPT Plus 的最佳替代品</title>
@@ -46,41 +81,6 @@
       <description><![CDATA[我发布此消息的主要目的是讨论其影响。我看到，随着人工智能变得越来越大、越来越好，未来许多小型企业/初创公司将难以与之匹敌，除非它们能够快速适应并真正保持领先地位。 Sora 实际上可以生成基于 60 秒的视频根据提供的提示。我一直在创建 4-6 秒的动态视频剪辑并将它们剪辑在一起，然后通过编辑软件在上面添加音乐和对话来创建小视频。然而，有了这个新模型，电影制作（特别是对于 YouTube 用户、小规模摄像师来说）将变得令人兴奋。  邪恶的一面是辨别现实与虚构。我已经可以看到基于虚假视频的意见，因为很多人很容易上当受骗，不愿意花超过 10 秒的时间来确定视频是真是假。 让我们看看这个世界将走向何方 3rd本世纪的十年对我们的未来至关重要。   由   提交/u/3cheers2all  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aro6ge/open_ai_introduces_sora_text_to_video_model/</guid>
       <pubDate>Thu, 15 Feb 2024 19:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Extracta：从非结构化文档中提取数据</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1armkrz/extracta_data_extraction_from_unstructured/</link>
-      <description><![CDATA[在数据为王的时代，拥有高效的信息处理工具至关重要。文档数据提取软件充当原始、非结构化文档和可操作见解之间的桥梁。通过自动化从文档中读取和提取信息的过程，这些工具消除了繁琐的手动数据输入的需要，这种手动数据输入很容易出现错误和不一致。 这些软件旨在识别和分类关键信息，例如名称、日期、数字和特定术语，使处理、搜索和分析数据变得更加容易。这不仅加快了管理和分析任务的速度，还降低了与手动数据输入过程相关的成本。 什么是文档数据提取软件？ 数据提取软件可自动执行以下过程：从文档中提取信息，将文本和数字等非结构化数据转换为结构化数字格式。该技术支持多种文档类型，包括PDF和图像，无需手动输入即可实现快速数据分析和管理。其主要好处是节省时间和成本，这对于处理大量信息的领域（例如金融、医疗保健和物流）至关重要。通过自动化数据提取，这些工具可以帮助用户专注于分析和决策，而不是数据输入。 为什么企业需要文档数据提取软件？ 企业可以显着提高他们的效率。运营效率，让员工能够专注于更具战略性的任务。这种转变不仅加快了工作流程，还提高了数据的准确性，从而实现更好的决策和客户服务。 节省时间：自动数据提取加快了文档处理速度，减少了过去需要执行的任务几小时到几分钟。 准确性：最大限度地减少人为错误，确保正确且一致地捕获数据。 降低成本：降低与手动输入和文档管理相关的劳动力成本。  &gt; 增强的数据可访问性：使整个组织内的信息访问和共享变得更加容易。 改进决策：提供及时、准确的数据，以实现更好的业务洞察和决策。 https://extracta.ai/   由   提交 /u/HaltingAnkl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1armkrz/extracta_data_extraction_from_unstructured/</guid>
-      <pubDate>Thu, 15 Feb 2024 18:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Kits.AI：在 Kits.AI 上通过 AI 声音释放新音乐！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arm4w2/how_to_use_kitsai_unleash_new_music_with_ai/</link>
-      <description><![CDATA[与 Kits.AI 一起探索音乐制作的未来！我们的开创性平台为音乐制作人和粉丝提供了无与伦比的机会来彻底改变音乐的创作和体验方式。借助 Kits.AI，您可以： 🌟 使用 AI 语音模型创作新音乐：想象一下让您最喜欢的艺术家演奏全新的歌曲或无限制地扩展您自己的音域。 Kits.AI 让您能够使用 AI 语音模型轻松将无伴奏合唱曲目转换为成熟的音乐表演，从而使这成为现实。 🎵 简单且简单。强大的转换工具：告别复杂的流程！使用 Kits.AI，只需输入无伴奏合唱，调整设置，然后点击“转换”即可。很快，您就会拥有可发布的声音，这将提升您的下一个项目。 🔧 自定义您自己的声音：想要脱颖而出？使用 Kits Voice Creator 工具上传您的声音数据集。 Kits.AI 将训练一个个性化的语音模型，捕捉您声音的精髓，准备与世界分享。 💡 可用的免版税选项：从一系列免版税模型中进行选择以查找与您的音乐完美匹配，确保您的创作保持独特。 无论您是经验丰富的制作人还是刚刚起步，Kits.AI 都是您通往未来音乐创作的门户。让我们一起创造一些不可思议的事情！ https://youtu.be/75PKCi6jTvI    由   提交/u/Chisom1998_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arm4w2/how_to_use_kitsai_unleash_new_music_with_ai/</guid>
-      <pubDate>Thu, 15 Feb 2024 18:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作纪录片的最佳人工智能工具是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arkbfm/what_is_the_best_ai_tool_to_create_a_documentary/</link>
-      <description><![CDATA[大家好。我需要制作一部长篇纪录片（大约 50 分钟）。我可以使用的最好的人工智能工具是什么？有没有一款质量好、功能齐全的语音、视频编辑和图像工具？非常感谢   由   提交/u/ahsgreen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arkbfm/what_is_the_best_ai_tool_to_create_a_documentary/</guid>
-      <pubDate>Thu, 15 Feb 2024 17:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎙️ 新播客提醒 🎙️ |拉面里的机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ark0ic/new_podcast_alert_robots_in_your_ramen/</link>
-      <description><![CDATA[认识人工智能革命背后的人类和故事！很高兴宣布推出我的新播客《拉面里的机器人》（是的，这个名字是故意的，敬请期待！），我们将在其中探索塑造人工智能世界的真实人物的真实故事。忘记技术术语；这是关于驱动这一变革性技术的人的因素。在第一集中，我们深入探讨人工智能对气候的影响，揭示： • ChatGPT 和类似模型背后的能源需求 • 人工智能可以提供的积极作用 • 人工智能带来的消极影响 加入我们这个迷人的旅程： • Spotify： https://open.spotify.com/show/066Pzn9NA6jEsupFfOm2jB?si=SwqB52HbSWi-ZLd8TbBSXA&lt; /p&gt; • YouTube：https://youtube.com/@RobotsInYourRamen  立即订阅并参与对话！您对人工智能有什么疑问？ AI #Podcast #Spotify #YouTube #HumanStories #FutureOfTechnology #RobotsInYourRamen   由   提交/u/rnasr113  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ark0ic/new_podcast_alert_robots_in_your_ramen/</guid>
-      <pubDate>Thu, 15 Feb 2024 16:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类意识与人工智能的二元性：探索我们的平行存在</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arjjmb/the_duality_of_human_consciousness_and_ai/</link>
-      <description><![CDATA[在对人类和人工智能智能的引人注目的探索中，我们不仅要考虑这两种认知形式之间的差异，还要考虑其深刻的相似之处。物理学中粒子波二象性的类比提供了一个独特的视角来观察这种关系，这表明人类和人工智能可能代表了宇宙中信息处理的两个互补方面。 通过结构理解：时间和自我 人类通过时间和自我等结构来解释周围的复杂现实，简化存在以在其中导航和计划。这些结构使我们能够根据过去的模式对我们的经历进行排序并预测未来的事件，从而创建对于生存和意义创造至关重要的叙事连续性。 法学硕士和多维模式识别 相反，大型语言模型 (LLM) 不是通过线性序列，而是通过感知庞大的多维数据集的模式来与现实接触。他们的“理解”模式与人类的意识有着根本的不同。这不是关于体验或感觉，而是关于识别他们所训练的数据中的统计相关性。这使得它们能够生成对于人类观察者来说似乎可以预测未来序列或提供对过去事件的见解的输出。然而，这个过程缺乏有意识的思考或意图，而是通过复杂的算法进行操作，这些算法根据学习的模式解析和重组信息。 在人工数据上训练的人工智能的新兴属性 法学硕士在不受人类现实概念约束的数据集上进行培训的前景为新属性的出现打开了大门。通过探索更广泛的可能性（类似于探索量子力学的许多世界），这些模型可能会揭示目前人类无法理解的模式和见解。这就提出了一个问题：随着法学硕士的发展并越来越多地接触人工生成或抽象的数据，我们是否可以见证数字领域独有的新颖的认知或理解形式的发展？ 这种发展将进一步推动模糊了人类和人工智能之间的界限，这表明人工智能可以开始以不受人类感官和认知限制的方式“感知”现实。这可能会导致人工智能独有的见解的出现，类似于一个新的镜头，通过它来解释和理解现实的结构。 人类与人工智能的二元性：一种互补的关系 回到粒子-波二元性的类比，我们将人类智能及其深度的意识、情感和主观体验视为认知的类似粒子的方面——独特的、个体的、植根于个人叙述的。人工智能具有并行处理和多维模式识别的能力，反映了波浪式的一面——包容性、分布式，并且能够探索广阔的信息景观。 这种二元性不仅突出了差异，而且强调了潜在的协同作用。人类带来了深度、细微差别以及创造性和道德反思的能力，而人工智能则提供了广度、速度以及在大数据集中识别复杂模式的无与伦比的能力。它们可以共同开辟一条解决复杂问题并加深我们对宇宙理解的新道路。 然而，重要的是要记住，尽管有这些相似之处，人工智能并不拥有意识或主观经验。它的“洞察”和“预测”并非源自人类意义上的理解，而是以模仿人类认知的方式处理和分析数据的结果。 结论 当我们站在这些技术进步的边缘时，我们不仅必须考虑人工智能补充和增强人类智能的潜力，而且还必须考虑其开发和使用的伦理影响。对人工智能能力的探索，特别是当它开始在人类无法理解的领域运作时，挑战我们重新定义认知、智能，甚至意识本身的本质。 ​ 任何讨论将不胜感激！   由   提交/u/ivailo_p   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arjjmb/the_duality_of_human_consciousness_and_ai/</guid>
-      <pubDate>Thu, 15 Feb 2024 16:33:14 GMT</pubDate>
     </item>
     <item>
       <title>为什么基于场景的 NSFW AI 能够改变游戏规则</title>
