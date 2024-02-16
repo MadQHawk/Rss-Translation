@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 16 Feb 2024 12:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:13:36 GMT</lastBuildDate>
+    <item>
+      <title>软件工程的现状 🔨 — 与 Kent Beck</title>
+      <link>https://www.reddit.com/r/programming/comments/1as9z1f/the_state_of_software_engineering_with_kent_beck/</link>
+      <description><![CDATA[ 由   提交/u/mmoubi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as9z1f/the_state_of_software_engineering_with_kent_beck/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:32:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>从结构化日志到 OpenTelemetry</title>
+      <link>https://www.reddit.com/r/programming/comments/1as9ox7/from_structured_logs_to_opentelemetry/</link>
+      <description><![CDATA[https://blog .edanschwartz.com/2024/02/13/otel-intro   由   提交/u/edanschwartz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as9ox7/from_structured_logs_to_opentelemetry/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何进行结对编程？</title>
+      <link>https://www.reddit.com/r/programming/comments/1as9j0j/how_do_you_do_pair_programming/</link>
+      <description><![CDATA[几周前我与该公司会面，他们告诉我他们如何进行结对编程。 95% 的情况下，它实际上是一台计算机和两名开发人员。还有其他人这样做吗？   由   提交/u/rcarlson8203  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as9j0j/how_do_you_do_pair_programming/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Torvalds 演讲：Rust 对 Linux 内核的影响</title>
+      <link>https://www.reddit.com/r/programming/comments/1as9ekt/torvalds_speaks_rusts_impact_on_the_linux_kernel/</link>
+      <description><![CDATA[ 由   提交/u/omko  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as9ekt/torvalds_speaks_rusts_impact_on_the_linux_kernel/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从工程师到经理：我爱什么，我恨什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1as9beg/from_engineer_to_manager_what_i_love_what_i_hate/</link>
+      <description><![CDATA[ 由   提交/u/vklepov  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as9beg/from_engineer_to_manager_what_i_love_what_i_hate/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>现实生活中的 OOP</title>
+      <link>https://www.reddit.com/r/programming/comments/1as9b2m/oop_in_reallife_cases/</link>
+      <description><![CDATA[ 由   提交/u/Xadartt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as9b2m/oop_in_reallife_cases/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>大麻爸爸</title>
+      <link>https://www.reddit.com/r/programming/comments/1as80mj/chamba_papa/</link>
+      <description><![CDATA[寻找懂高级Python编程的计算机或软件工程教授有兴趣薪资85到100（面议）    由   提交 /u/Hemanuelz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as80mj/chamba_papa/</guid>
+      <pubDate>Fri, 16 Feb 2024 13:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我们可以编译 Bash 时，为什么要编写它呢？</title>
+      <link>https://www.reddit.com/r/programming/comments/1as7xxv/why_write_bash_when_we_could_compile_to_it/</link>
+      <description><![CDATA[ 由   提交/u/tmewett  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as7xxv/why_write_bash_when_we_could_compile_to_it/</guid>
+      <pubDate>Fri, 16 Feb 2024 12:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java列表</title>
+      <link>https://www.reddit.com/r/programming/comments/1as7mme/java_list/</link>
+      <description><![CDATA[ 由   提交/u/arshikajtp  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1as7mme/java_list/</guid>
+      <pubDate>Fri, 16 Feb 2024 12:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>在家工作如何改变了我的生活</title>
       <link>https://www.reddit.com/r/programming/comments/1as694t/how_working_from_home_changed_my_life/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/kaba40k  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1as4zut/the_dark_side_of_optimistic_protective_and/</guid>
       <pubDate>Fri, 16 Feb 2024 09:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>与罗斯林一起检查“一切”</title>
-      <link>https://www.reddit.com/r/programming/comments/1as4xwb/chequeando_todos_con_roslyn/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as4xwb/chequeando_todos_con_roslyn/</guid>
-      <pubDate>Fri, 16 Feb 2024 09:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Sora：从文本创建视频</title>
-      <link>https://www.reddit.com/r/programming/comments/1as4c70/openai_sora_creating_video_from_text/</link>
-      <description><![CDATA[ 由   提交/u/tchanu06  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as4c70/openai_sora_creating_video_from_text/</guid>
-      <pubDate>Fri, 16 Feb 2024 09:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我永远不会在生产中应用的 9 个 Python 反模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1as3hwo/9_python_anti_patterns_that_i_will_never_apply_in/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as3hwo/9_python_anti_patterns_that_i_will_never_apply_in/</guid>
-      <pubDate>Fri, 16 Feb 2024 08:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>解析比你想象的要简单得多！</title>
-      <link>https://www.reddit.com/r/programming/comments/1as37pv/parsing_is_much_simpler_than_you_think/</link>
-      <description><![CDATA[ 由   提交/u/samhsmith___   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as37pv/parsing_is_much_simpler_than_you_think/</guid>
-      <pubDate>Fri, 16 Feb 2024 07:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>本指南将引导您在 AWS 中构建示例数据湖，方法是使用 Firehose C# 客户端将新闻 API 数据流推送到 S3，使用 Athena 分析数据，并通过 Glue 设置 ETL 流程以将数据加载到 MySQL RDS。</title>
-      <link>https://www.reddit.com/r/programming/comments/1as2hee/this_guide_walks_you_through_building_a_sample/</link>
-      <description><![CDATA[ 由   提交/u/Vasilkosturski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as2hee/this_guide_walks_you_through_building_a_sample/</guid>
-      <pubDate>Fri, 16 Feb 2024 07:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rescript 越来越受我们欢迎</title>
-      <link>https://www.reddit.com/r/programming/comments/1as1zt9/rescript_is_growing_on_us/</link>
-      <description><![CDATA[ 由   提交/u/DoctorMany7987  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as1zt9/rescript_is_growing_on_us/</guid>
-      <pubDate>Fri, 16 Feb 2024 06:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>模块化网站抓取器：使用 Python 抓取网站</title>
-      <link>https://www.reddit.com/r/programming/comments/1as1np4/modular_website_scraper_crawling_websites_with/</link>
-      <description><![CDATA[ 由   提交/u/developer_1010   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as1np4/modular_website_scraper_crawling_websites_with/</guid>
-      <pubDate>Fri, 16 Feb 2024 06:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swift WinRT 和 WinUI 3 Google Gemini AI 聊天应用程序简短演示 |谷歌生成人工智能</title>
-      <link>https://www.reddit.com/r/programming/comments/1as1aoj/swift_winrt_winui_3_google_gemini_ai_chat_app/</link>
-      <description><![CDATA[ 由   提交 /u/alfianlo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as1aoj/swift_winrt_winui_3_google_gemini_ai_chat_app/</guid>
-      <pubDate>Fri, 16 Feb 2024 05:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Node.js 和 Cheerio 抓取 Amazon 的指南 — 使用住宅代理帮助克服网络抓取的挑战。</title>
-      <link>https://www.reddit.com/r/programming/comments/1as18zm/a_guide_to_scraping_amazon_with_nodejs_and/</link>
-      <description><![CDATA[ 由   提交/u/TheLostWanderer47  [链接]   抓取网站[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as18zm/a_guide_to_scraping_amazon_with_nodejs_and/</guid>
-      <pubDate>Fri, 16 Feb 2024 05:46:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
