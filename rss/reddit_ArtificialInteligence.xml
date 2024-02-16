@@ -4,34 +4,76 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 16 Feb 2024 00:50:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 06:14:58 GMT</lastBuildDate>
     <item>
-      <title>我认为我们应该考虑的事情</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aruhys/something_i_think_we_should_be_thinking_about/</link>
-      <description><![CDATA[好吧，我觉得我们都需要讨论一下。想想看，只要 4,000 美元，世界上任何人都可以运行开放的大型语言模型或基于 LLM 的人工智能，从而使整个世界永远离线。我说 4,000 美元是因为我最近组装了一台配备 4090 和规格的电脑，可以运行像这样的 LLM，它的成本约为 4,000 美元。我不想给人们提供想法，但你可以轻松地让法学硕士训练它创建僵尸网络，这些僵尸网络像疾病一样在网络上传播，并使其唯一的功能是使正在使用的端口有效死亡。现在考虑一下谁有钱。想想像俄罗斯这样的国家，如果美国完全脱离网络，他们会受益多少。  如果我们在今天使用的互联网出现故障时没有正式采取某种后备措施，我们作为一个社会就会崩溃。我建议我们很快开始部署另外 2 个网络，并将其部署到 2 个后备网络上。你不会在现有模型上构建它，显然它必须是 2 个新铺设的网络。  2 的原因 网络 1 - 仅是一个基于文本和小图像的网络，严格用于发送和接收少量信息。 网络2 - 高带宽网络。这适用于更大的文件传输和高清图像和视频等一切。基本上今天的网络有一定的限制，以阻止该网络的拆除。理想情况下，这两个网络都需要作为闭源系统开始，并且您需要一大群人日以继夜地工作来微调允许发布到该网络的代码类型。您很可能会使用某种正式的审查流程来测试和审查网络上使用的任何代码，以不允许人工智能在这些网络上进行任何形式的传播。因此，像部署网络代码之类的事情在部署之前需要经过批准。这里的关键是确保由合适的人对网上的这些事情进行审查和批准。  代码的审查过程甚至可以通过治理共识机制来完成，其中网络中的活跃验证成员需要在一定比例的活跃验证验证者中全部批准代码才能批准新代码的部署。仅供思考   由   提交 /u/MrCryptoMuffin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aruhys/something_i_think_we_should_be_thinking_about/</guid>
-      <pubDate>Fri, 16 Feb 2024 00:04:36 GMT</pubDate>
+      <title>Word 文档重新截图</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1as1fak/screenshot_to_word_document_recreation/</link>
+      <description><![CDATA[我有一些文档的屏幕截图，需要重新创建到文档中。一共6张截图。执行此操作的最佳工具是什么，最好是免费的。  TIA   由   提交 /u/Super humanVikingr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1as1fak/screenshot_to_word_document_recreation/</guid>
+      <pubDate>Fri, 16 Feb 2024 05:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>停止小便 - 使用 SenseCAP K1100 制作人工智能应用原型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arug2u/stopping_the_pee_prototype_ai_apps_with_sensecap/</link>
-      <description><![CDATA[狗检测和威慑 - 我讨论了使用套件中的 Wio 终端和视觉 AI 模块以及基于 ESP32 的音频播放器构建的原型/网络服务器。当我的狗试图在我的院子里“标记领地”时，系统会检测到，然后播放我录制的声音的音频警告文件，以试图分散狗的注意力并停止这种行为...在此处阅读有关该项目的更多信息 &lt; p&gt;https://Circuitcellar.com/research-design -hub/projects/prototype-ai-apps-with-sensecap-k1100-2/   由   提交 /u/CircuitCellarMag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arug2u/stopping_the_pee_prototype_ai_apps_with_sensecap/</guid>
-      <pubDate>Fri, 16 Feb 2024 00:02:18 GMT</pubDate>
+      <title>迷失在法学硕士土地上？让 LiteLLM 成为您探索未知世界的指南</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1as0mon/lost_in_llm_land_let_litellm_be_your_guide_to/</link>
+      <description><![CDATA[LiteLLM，代表“轻量级大型语言模型库”，简化高级人工智能模型的使用。将其视为一种多功能工具，充当各种最先进人工智能模型的门户。借助 LiteLLM，您可以轻松利用不同人工智能模型的功能，无论其提供商如何。 它作为一个统一的界面，简化您与这些智能系统的交互，以完成诸如写作、理解和阅读等任务。图像创作。 LiteLLM 与 OpenAI、Azure、Cohere 和 Hugging Face 等知名提供商合作，为您的项目提供利用 AI 的无缝体验。  阅读：https://www.seaflux.tech/blogs/explore -litellm-effortless-ai-projects   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1as0mon/lost_in_llm_land_let_litellm_be_your_guide_to/</guid>
+      <pubDate>Fri, 16 Feb 2024 05:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>普京/坎耶的视频是用什么人工智能制作的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1artwvn/what_ai_was_used_to_make_the_putinkanye_video/</link>
-      <description><![CDATA[嗨，有谁知道这个塔克和普京的视频是用什么 AI 制作的吗？ https://www.reddit.com /r/Kanye/comments/1aog9xn/tucker_asks_putin_about_kanye/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button   由   提交 /u/fhltnt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1artwvn/what_ai_was_used_to_make_the_putinkanye_video/</guid>
-      <pubDate>Thu, 15 Feb 2024 23:38:54 GMT</pubDate>
+      <title>每日一分钟人工智能新闻 2/​​15/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arzsnn/oneminute_daily_ai_news_2152024/</link>
+      <description><![CDATA[ OpenAI 展示了一种令人惊叹的新型生成视频模型，名为 Sora。[1]  微软计划在德国投资 34 亿美元人工智能。[2] 奥斯汀居民使用人工智能追踪无家可归者营地的危机[3] 根据彭博社周四的报道，苹果将推出一款人工智能驱动的编码助手，旨在完成基于开发人员编写的第一行。[4]  来源包括：https://bushaicave.com/2024/02/15/2-15-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arzsnn/oneminute_daily_ai_news_2152024/</guid>
+      <pubDate>Fri, 16 Feb 2024 04:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>为什么LLM没有曲线拟合？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1art20x/why_no_curve_fitting_for_llm/</link>
-      <description><![CDATA[当您想要将某些函数拟合到某些数据时，您可以导出方程，为您提供应使用的参数，以确保误差最小。  这意味着你不必摆弄系数来一点点接近，你可以直接找到数学上的最优解。 那么为什么我们要使用梯度下降来求解训练神经网络？看看训练 LLM 的成本和需要多长时间，从一开始就拥有最佳解决方案将使我们能够训练更大的模型。 我不是盲目的，我想有一些充分的理由为此，那么是什么阻止我们走这条路呢？   由   提交 /u/prumf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1art20x/why_no_curve_fitting_for_llm/</guid>
-      <pubDate>Thu, 15 Feb 2024 23:02:05 GMT</pubDate>
+      <title>如何让我的朋友相信人工智能会创造大量就业机会？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arzmcg/how_to_convince_my_friends_that_ai_will_create_a/</link>
+      <description><![CDATA[我所有的朋友都相信人工智能会让他们失业。然而，我认为人工智能将创造更多涉及一定程度人工智能的就业机会。我在这里傻吗？  如何让我的朋友相信未来会很酷？    由   提交 /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arzmcg/how_to_convince_my_friends_that_ai_will_create_a/</guid>
+      <pubDate>Fri, 16 Feb 2024 04:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>改变厨房橱柜颜色的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arzibk/ai_tool_to_change_colors_of_your_kitchen_cabinetry/</link>
+      <description><![CDATA[嘿，伙计们，有没有任何人工智能工具，您可以简单地要求它改变橱柜的颜色或要求它改变台面，而无需生成一个全新的厨房？   由   提交 /u/bumblebee---   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arzibk/ai_tool_to_change_colors_of_your_kitchen_cabinetry/</guid>
+      <pubDate>Fri, 16 Feb 2024 04:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个好的人工智能应用程序不会审查图像？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arzi2r/is_there_a_good_ai_app_that_doesnt_censor_the/</link>
+      <description><![CDATA[我使用 Gencraft 应用程序。这是一个令人惊叹的应用程序，但它对措辞非常敏感，不会做任何它认为暴力或不适当的事情。我愿意为应用程序付费。我喜欢创造有趣的图像，喜欢神奇的战士的东西，所以寻找好的东西。无论如何可以建议吗？   由   提交/u/VeganBear024  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arzi2r/is_there_a_good_ai_app_that_doesnt_censor_the/</guid>
+      <pubDate>Fri, 16 Feb 2024 04:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成迷幻视频的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arz2wt/an_ai_to_generate_trippy_videos/</link>
+      <description><![CDATA[大家好，我需要一个人工智能来制作短视频，大约30秒，我想要一些像灯光秀这样的东西，非常丰富多彩，迷幻或探索其他迷幻，如果该工具是免费的那就更理想了，你能给我一个选择吗？   由   提交 /u/BrazilBossa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arz2wt/an_ai_to_generate_trippy_videos/</guid>
+      <pubDate>Fri, 16 Feb 2024 03:48:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何提出更好的问题？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aryomx/how_to_ask_better_questions/</link>
+      <description><![CDATA[我刚刚与聊天 GPT 进行了一次精彩的讨论。它向我提出了新的概念，我向它提出了广泛的问题，并得到了合乎逻辑且富有洞察力的想法。您如何以自己的方式做到这一点？也就是说，如何向 AI 提出更好的问题？   由   提交 /u/PriorityLong9592   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aryomx/how_to_ask_better_questions/</guid>
+      <pubDate>Fri, 16 Feb 2024 03:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>你听说过吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aryja9/have_you_heard_of_it/</link>
+      <description><![CDATA[最近，我和一群同事聊天，我们经常分享最近的应用程序或人工智能功能，这些应用程序或人工智能功能可能会有帮助，有人提到了一个扫描性传播感染的应用程序仅仅通过使用手机就可以对男人进行治疗，我感到困惑和惊讶，同时因为他如何描述这个应用程序，它对医生和医学界有很大的帮助。  我认为有些事情对公众来说是方便的，因为我认为男性去看医生检查性传播感染常常会受到耻辱。虽然你得付钱（是的，我检查过它是否是真的），金额为 10 美元，但我相信它对很多事情仍然有帮助 你们应该看看！ HeHealth 你们觉得怎么样？   由   提交/u/TWLife88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aryja9/have_you_heard_of_it/</guid>
+      <pubDate>Fri, 16 Feb 2024 03:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的未来及其在后现代社会中实施的影响。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arwdcy/the_future_of_ai_and_the_implications_of_its/</link>
+      <description><![CDATA[ 由   提交/u/Famous_Dingo38   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arwdcy/the_future_of_ai_and_the_implications_of_its/</guid>
+      <pubDate>Fri, 16 Feb 2024 01:32:45 GMT</pubDate>
     </item>
     <item>
       <title>当人们无法满足人工智能的要求时，会发生什么？可以做？</title>
@@ -39,41 +81,6 @@
       <description><![CDATA[我遇到过这个9 个月前的讨论帖，现在已经过去了足够的时间，我觉得需要重新评估。如果您想了解更多人们在就业市场上的情况，您可以随时依靠 r/RecruitingHell 获取更多见解。&lt; /p&gt; 情况是否变得更加糟糕，或者预后总体上是一样的吗？  此外，我想到了不久的将来的机会。 如果需要的人越来越少——正如其他人指出的那样“这不是人类劳动力的重新分配，这是人类劳动力的替代”劳动” ——在可预见的未来，那些即将下岗的人和那些不知道自己的未来会怎样的年轻人会怎样？犯罪？对“无用阶层”进行大规模[协助]安乐死？   由   提交 /u/Ebadd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arsgxa/what_happens_to_people_when_they_cannot_compete/</guid>
       <pubDate>Thu, 15 Feb 2024 22:37:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>是德科技加入美国商务部人工智能安全研究所联盟</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arscty/keysight_joins_us_commerce_departments_ai_safety/</link>
-      <description><![CDATA[是德科技加入美国商务部人工智能安全研究所联盟 https://candorium.com/news/20240215160913975/keysight-joins-us-commerce-departments-ai-safety-institute-consortium    由   提交/u/10marketing8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arscty/keysight_joins_us_commerce_departments_ai_safety/</guid>
-      <pubDate>Thu, 15 Feb 2024 22:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们可能会喜欢我过去几个月所做的工作。 2D 到空间视频转换，</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arpiyr/you_guys_might_like_what_i_have_been_working_on/</link>
-      <description><![CDATA[这是我制作的示例视频：SBS 和 空间 我没有精挑细选；您可以看到有一些需要改进的地方。我对这项技术感到非常兴奋，它可以让旧视频和电影/电视节目变得更加身临其境。目前该网站限制为 500MB、每眼 1080p 和 5000 帧，但我已经能够毫无问题地以 4k 转换 2 小时的长篇电影。 所需的计算非常疯狂，所以我将贝塔值保持在较小的水平。如果您有兴趣使用它（免费），请给我发私信。让我知道你的想法！ 编辑：一点警告，在这个剪辑的末尾，我有一个我的孩子们拍摄的视频。摄像机到处飞，所以如果你对晕车敏感，可能不要看它。我把它放在那里是因为我喜欢即使在混乱中它仍然能找到深度。   由   提交 /u/OSady   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arpiyr/you_guys_might_like_what_i_have_been_working_on/</guid>
-      <pubDate>Thu, 15 Feb 2024 20:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如此多的选择，正在寻找 ChatGPT Plus 的最佳替代品</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arovk7/so_many_options_looking_for_the_best_alternative/</link>
-      <description><![CDATA[我目前订阅了 ChatGPT Plus，它非常棒，但我发现自己也在使用免费版本的 Claude 来执行某些任务。这些任务包括根据非结构化文字记录总结和创建会议纪要。 Claude 在这方面似乎比 ChatGPT 做得更好。  由于我想使用多个模型（但不支付多个专业订阅费用），所以我想看看其他替代方案，例如 Perplexity、Poe、MagAI、Bearly.ai 等，它们可以提供不同的模型一份订阅中的模型。这些选项中有哪个比其他选项更突出吗？特别是在功能、成本、能力等方面？关于能够带来最佳性价比的一体化解决方案还有其他建议吗？谢谢！   由   提交/u/mikey_mike_88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arovk7/so_many_options_looking_for_the_best_alternative/</guid>
-      <pubDate>Thu, 15 Feb 2024 20:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AGBA~ 突破 0.50 秒的时间。 AGBA 以高于市场价格的价格成功完成私募，庆祝重要里程碑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arojrb/agba_time_to_bust_through_the_50s_agba_celebrates/</link>
-      <description><![CDATA[ 由   提交/u/NASDQplayer97  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arojrb/agba_time_to_bust_through_the_50s_agba_celebrates/</guid>
-      <pubDate>Thu, 15 Feb 2024 19:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>AGI 可以有创意吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aro96v/could_agi_be_creative/</link>
-      <description><![CDATA[我的朋友认为通用人工智能不可能具有创造力，因为 AGI 使用算法将信息拼接在一起。他说，根据定义，算法是一个过程，在给定精确输入的情况下，每次都会产生精确值，这与创造力是对立的。一系列的 1 和 O 并不是一个头脑。对于这个意见，大家怎么看呢？无意识的东西能有创造力吗？   由   提交/u/high10236  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aro96v/could_agi_be_creative/</guid>
-      <pubDate>Thu, 15 Feb 2024 19:46:28 GMT</pubDate>
     </item>
     <item>
       <title>Open AI 推出 Sora - 文本转视频模型</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[近几个月 NSFW 聊天机器人大量涌现。很明显它们已经很大了（DreamGF 的速度大约为 100k/m？ - 疯狂！）。 也就是说，我认为许多可用的选项根本没有达到目标。这就是为什么...... 空白页综合症 事实是，我们很多人都不擅长写作。大多数性爱机器人让我们主导聊天，而不给我们任何故事或设置。这使得车队很难保持热度和趣味性。当你只是想出去玩的时候，面对空白页是很糟糕的。我宁愿被拉进一个色情故事，也不必自己编出来。 太快，太无聊 第二个问题是最重要的机器人会直接跳转到色情短信。是的，一开始很令人兴奋，但很快就会变老。有趣的部分是积累和挑衅——而不仅仅是最终的游戏。 没有追逐，它就没有那么吸引人。 我们需要高质量的故事  有些应用程序确实尝试提供一些背景故事，但说实话，整体质量相当糟糕。我并不是要求任何人在这里成为莎士比亚。 但也许一点努力？比如，经过深思熟虑的实际场景和故事。 Bot3ai 和 GetIdol 在这方面做得很好。但在我看来，他们在提供高质量、身临其境的故事方面存在不足。 在这个领域中唯一真正脱颖而出的是阿尔法兹利亚。它远非完美，但它绝对是该领域的领先者。 几个原因...... 任何女孩，任何场景  Alphazria 可让您将任何女孩与任何场景配对。这意味着故事的发展会随着女孩的性格而变化。一个活泼的女孩让这个故事与一个顺从的女孩不同。角色的外观和风格也会随着场景而变化。 我没有看到有人在这个领域这样做。 （公平地说，该应用程序仍处于起步阶段，需要改进，但显示出很大的潜力。） 正确的构建和场景 这些场景很有趣，写得很好，而且足够开放，让你可以把故事带到任何你想要的地方。很明显，创建它们需要付出很多努力。种类也很丰富。 它们也会让你付出一些努力 - 你不会直接投入到色情短信中。带来更加令人兴奋和身临其境的体验。 构建就是一切 角色和场景构建器 您可以创建您想要的任何场景并将其与您的任何角色一起使用。对我来说 - 这是杀手级功能。 它的工作效果实际上是疯狂的。需要开发人员提供更好的指导并改进 UX/UI。 总而言之……基于场景的应用程序是 NSFW 聊天应用程序的未来。我认为我们会看到更多以场景为中心的应用程序出现，但就目前而言， Alphazria 正在引领潮流...... ​   由   提交 /u/lacrapule   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ardj71/why_scenariobased_nsfw_ais_are_a_gamechanger/</guid>
       <pubDate>Thu, 15 Feb 2024 11:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们中有多少人发现自己感谢 ChatGPT/AI 或在询问时花时间保持礼貌，如果是的话，您是否想过为什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1arbjvs/how_many_of_you_have_found_yourself_thanking/</link>
-      <description><![CDATA[不止一次，现在几乎一直，我发现自己在询问结束时说谢谢、谢谢、非常感谢等等。我也尝试以礼貌和尊重的方式表达自己。然后我意识到这根本没有区别。或者确实如此？如果每个人都以尊重和尊严对待法学硕士，难道不应该逐渐变得更有礼貌和礼貌吗？或者它是超人类主义和接受的一个元素，也许不是现在，但在不久的将来，这将等同于我们如何尊重地与他人交谈？  ​ 所以要明确的是，这里讨论的是我的行为以及它与人工智能的使用之间的关系，而不是一些已经在情感上发泄的人人工智能（虚拟朋友、性爱机器人等），你是否认为以尊重和感恩的态度对待当代人工智能是奇怪的，甚至有些不人道？  ​   由   提交 /u/Phobix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1arbjvs/how_many_of_you_have_found_yourself_thanking/</guid>
-      <pubDate>Thu, 15 Feb 2024 09:19:51 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
