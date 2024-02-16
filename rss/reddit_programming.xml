@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 16 Feb 2024 15:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 18:16:06 GMT</lastBuildDate>
     <item>
-      <title>软件工程的现状 🔨 — 与 Kent Beck</title>
-      <link>https://www.reddit.com/r/programming/comments/1as9z1f/the_state_of_software_engineering_with_kent_beck/</link>
-      <description><![CDATA[ 由   提交/u/mmoubi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as9z1f/the_state_of_software_engineering_with_kent_beck/</guid>
-      <pubDate>Fri, 16 Feb 2024 14:32:03 GMT</pubDate>
+      <title>为什么Python有整数除法层</title>
+      <link>https://www.reddit.com/r/programming/comments/1asfaab/why_pythons_integer_division_floors/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asfaab/why_pythons_integer_division_floors/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>从结构化日志到 OpenTelemetry</title>
-      <link>https://www.reddit.com/r/programming/comments/1as9ox7/from_structured_logs_to_opentelemetry/</link>
-      <description><![CDATA[https://blog .edanschwartz.com/2024/02/13/otel-intro   由   提交/u/edanschwartz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as9ox7/from_structured_logs_to_opentelemetry/</guid>
-      <pubDate>Fri, 16 Feb 2024 14:19:47 GMT</pubDate>
+      <title>支持核心语言的 6 个理由，反对 (Agda) 的 5 个理由</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf8mb/6_reasons_in_favor_of_a_core_language_and_5/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf8mb/6_reasons_in_favor_of_a_core_language_and_5/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>你如何进行结对编程？</title>
-      <link>https://www.reddit.com/r/programming/comments/1as9j0j/how_do_you_do_pair_programming/</link>
-      <description><![CDATA[几周前我与该公司会面，他们告诉我他们如何进行结对编程。 95% 的情况下，它实际上是一台计算机和两名开发人员。还有其他人这样做吗？   由   提交/u/rcarlson8203  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as9j0j/how_do_you_do_pair_programming/</guid>
-      <pubDate>Fri, 16 Feb 2024 14:12:38 GMT</pubDate>
+      <title>25 年编程反思</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf7uu/reflections_on_25_years_of_programming/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf7uu/reflections_on_25_years_of_programming/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:05:20 GMT</pubDate>
     </item>
     <item>
-      <title>Torvalds 演讲：Rust 对 Linux 内核的影响</title>
-      <link>https://www.reddit.com/r/programming/comments/1as9ekt/torvalds_speaks_rusts_impact_on_the_linux_kernel/</link>
-      <description><![CDATA[ 由   提交/u/omko  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as9ekt/torvalds_speaks_rusts_impact_on_the_linux_kernel/</guid>
-      <pubDate>Fri, 16 Feb 2024 14:07:00 GMT</pubDate>
+      <title>Nix 中的依赖关系解决</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf7to/dependency_solving_in_nix/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf7to/dependency_solving_in_nix/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:05:19 GMT</pubDate>
     </item>
     <item>
-      <title>从工程师到经理：我爱什么，我恨什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1as9beg/from_engineer_to_manager_what_i_love_what_i_hate/</link>
-      <description><![CDATA[ 由   提交/u/vklepov  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as9beg/from_engineer_to_manager_what_i_love_what_i_hate/</guid>
-      <pubDate>Fri, 16 Feb 2024 14:02:57 GMT</pubDate>
+      <title>从头开始建立法学硕士：自动区分</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf6op/building_an_llm_from_scratch_automatic/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf6op/building_an_llm_from_scratch_automatic/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>现实生活中的 OOP</title>
-      <link>https://www.reddit.com/r/programming/comments/1as9b2m/oop_in_reallife_cases/</link>
-      <description><![CDATA[ 由   提交/u/Xadartt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as9b2m/oop_in_reallife_cases/</guid>
-      <pubDate>Fri, 16 Feb 2024 14:02:33 GMT</pubDate>
+      <title>纯 Bash Web 服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf5w8/pure_bash_web_server/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf5w8/pure_bash_web_server/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>大麻爸爸</title>
-      <link>https://www.reddit.com/r/programming/comments/1as80mj/chamba_papa/</link>
-      <description><![CDATA[寻找懂高级Python编程的计算机或软件工程教授有兴趣薪资85到100（面议）    由   提交 /u/Hemanuelz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as80mj/chamba_papa/</guid>
-      <pubDate>Fri, 16 Feb 2024 13:00:43 GMT</pubDate>
+      <title>作为拓扑空间的数据结构 (2002) [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf2yh/data_structures_as_topological_spaces_2002_pdf/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf2yh/data_structures_as_topological_spaces_2002_pdf/</guid>
+      <pubDate>Fri, 16 Feb 2024 18:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>当我们可以编译 Bash 时，为什么要编写它呢？</title>
-      <link>https://www.reddit.com/r/programming/comments/1as7xxv/why_write_bash_when_we_could_compile_to_it/</link>
-      <description><![CDATA[ 由   提交/u/tmewett  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as7xxv/why_write_bash_when_we_could_compile_to_it/</guid>
-      <pubDate>Fri, 16 Feb 2024 12:57:06 GMT</pubDate>
+      <title>Emacsen 系列、Emacs 的设计以及 Lisp 的重要性 [视频]</title>
+      <link>https://www.reddit.com/r/programming/comments/1asf2bb/the_emacsen_family_the_design_of_an_emacs_and_the/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asf2bb/the_emacsen_family_the_design_of_an_emacs_and_the/</guid>
+      <pubDate>Fri, 16 Feb 2024 17:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>Java列表</title>
-      <link>https://www.reddit.com/r/programming/comments/1as7mme/java_list/</link>
-      <description><![CDATA[ 由   提交/u/arshikajtp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as7mme/java_list/</guid>
-      <pubDate>Fri, 16 Feb 2024 12:40:09 GMT</pubDate>
+      <title>让旭日！ — 关于如何在 Plotly 中绘制旭日图的明确指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1ase8ek/let_the_sunburst_the_definite_guide_on_how_to/</link>
+      <description><![CDATA[ 由   提交/u/phicreative1997  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ase8ek/let_the_sunburst_the_definite_guide_on_how_to/</guid>
+      <pubDate>Fri, 16 Feb 2024 17:26:32 GMT</pubDate>
     </item>
     <item>
-      <title>在家工作如何改变了我的生活</title>
-      <link>https://www.reddit.com/r/programming/comments/1as694t/how_working_from_home_changed_my_life/</link>
-      <description><![CDATA[ 由   提交/u/Bit_of_Binary  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as694t/how_working_from_home_changed_my_life/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:21:25 GMT</pubDate>
+      <title>做出我的第一个开源贡献</title>
+      <link>https://www.reddit.com/r/programming/comments/1ase7xw/making_my_first_open_source_contribution/</link>
+      <description><![CDATA[ 由   提交/u/jesusha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ase7xw/making_my_first_open_source_contribution/</guid>
+      <pubDate>Fri, 16 Feb 2024 17:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Strangler Fig 模式重构遗留代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1as60hl/refactoring_legacy_code_with_the_strangler_fig/</link>
+      <title>使用 Django 构建基于嵌入的语义搜索引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1asdkal/building_embedding_based_semantic_search_engine/</link>
+      <description><![CDATA[ 由   提交/u/levkk1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asdkal/building_embedding_based_semantic_search_engine/</guid>
+      <pubDate>Fri, 16 Feb 2024 16:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有神经网络 AI 的俄勒冈小道狩猎迷你游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1ascgeg/oregon_trail_hunting_minigame_with_neural_network/</link>
+      <description><![CDATA[灵感源自人工智能速成课程，我使用 Python 和 Pygame 重新创建了 1970 年代 Oregon Trail 中的狩猎迷你游戏。然后我制作了一个神经网络人工智能，它可以自己学习玩游戏，并且在连续几代中变得越来越好。   由   提交/u/MoTTs_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ascgeg/oregon_trail_hunting_minigame_with_neural_network/</guid>
+      <pubDate>Fri, 16 Feb 2024 16:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>API 端点：初学者指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1asc7jo/api_endpoints_a_beginners_guide/</link>
+      <description><![CDATA[ 由   提交/u/itsrorymurphy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asc7jo/api_endpoints_a_beginners_guide/</guid>
+      <pubDate>Fri, 16 Feb 2024 16:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>分布式 PostgreSQL 架构概述</title>
+      <link>https://www.reddit.com/r/programming/comments/1asc6bw/an_overview_of_distributed_postgresql/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as60hl/refactoring_legacy_code_with_the_strangler_fig/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:06:35 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1asc6bw/an_overview_of_distributed_postgresql/</guid>
+      <pubDate>Fri, 16 Feb 2024 16:04:07 GMT</pubDate>
     </item>
     <item>
-      <title>Kubernetes 资源在非工作时间与 KEDA 一起睡觉</title>
-      <link>https://www.reddit.com/r/programming/comments/1as5po7/kubernetes_resources_to_sleep_during_offhours/</link>
-      <description><![CDATA[ 由   提交 /u/Gigatronbot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as5po7/kubernetes_resources_to_sleep_during_offhours/</guid>
-      <pubDate>Fri, 16 Feb 2024 10:47:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>端口号（几乎）有趣的历史</title>
-      <link>https://www.reddit.com/r/programming/comments/1as5lg3/the_almost_interesting_history_of_port_numbers/</link>
-      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as5lg3/the_almost_interesting_history_of_port_numbers/</guid>
-      <pubDate>Fri, 16 Feb 2024 10:39:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>htmx 只是另一个 JavaScript 框架吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1as549v/is_htmx_just_another_javascript_framework/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as549v/is_htmx_just_another_javascript_framework/</guid>
-      <pubDate>Fri, 16 Feb 2024 10:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>乐观型、保护型和教练型管理者的阴暗面</title>
-      <link>https://www.reddit.com/r/programming/comments/1as4zut/the_dark_side_of_optimistic_protective_and/</link>
-      <description><![CDATA[ 由   提交/u/kaba40k  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1as4zut/the_dark_side_of_optimistic_protective_and/</guid>
-      <pubDate>Fri, 16 Feb 2024 09:58:07 GMT</pubDate>
+      <title>C3（低级类 C 编程语言）达到 0.5.4 版本。</title>
+      <link>https://www.reddit.com/r/programming/comments/1asboo0/c3_low_level_clike_programming_language_reaches/</link>
+      <description><![CDATA[ 由   提交/u/Nuoji  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1asboo0/c3_low_level_clike_programming_language_reaches/</guid>
+      <pubDate>Fri, 16 Feb 2024 15:43:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
