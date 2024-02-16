@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 16 Feb 2024 00:51:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 03:15:35 GMT</lastBuildDate>
+    <item>
+      <title>一个小的 python 包，用于从网络上抓取图像</title>
+      <link>https://www.reddit.com/r/opensource/comments/1arx769/a_small_python_package_to_scrape_images_from_web/</link>
+      <description><![CDATA[大家好，希望你们一切顺利。我有一些惊人的消息要与您分享！我创建了一个名为 better_bing_image_downloader 的新 Python 库。 它是一个功能强大且方便的工具，无需任何 API 密钥即可从 Bing 下载批量图像。它与 python 3.x 及更高版本兼容，并且托管在 pip 和 github 上。 您可以使用 pip install better-bing-image-downloader 轻松安装它。  github 上的 README.md 文件让您全面了解如何在任何需要 Web 图像抓取的项目中充分发挥此包的潜力。  您可以在这里查看：Pypi 链接 或 GitHub Repo 。 我希望这个库对您的数据和机器学习项目有所帮助。我很想听听您的反馈和建议！   由   提交 /u/JOHNJRAMBO2403   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1arx769/a_small_python_package_to_scrape_images_from_web/</guid>
+      <pubDate>Fri, 16 Feb 2024 02:12:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何确定要添加哪些模块，而不需要为每个功能重新发明轮子？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1arvos1/how_to_figure_out_what_modules_to_add_without/</link>
+      <description><![CDATA[我正在尝试构建一个开源框架，将无头浏览与 LLM 相结合，以协助浏览器自动化任务、抓取、演示环境的产品游览，我从客户对话中收集了有关要构建哪些解决方案的信息，但如果我正在构建一个开源项目，我应该以用户安装和使用开销最小的方式提供功能。该框架将具有用户将使用的多个单独的组件，并且每个组件可能需要一个单独的模块。这是我的问题：我应该将多个其他开放项目统一在一个模块中吗？我发现还有其他开源项目可以解决某些模块（例如，apify 可以帮助我以更结构化的方式提取数据）。例如，如果我编写一个抓取模块，我是否应该编写多个类，每个类都有自己的抓取实现？这是一个不好的做法吗？项目链接：https://github.com/kindsmiles/pyvigate    由   提交 /u/metalvendetta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1arvos1/how_to_figure_out_what_modules_to_add_without/</guid>
+      <pubDate>Fri, 16 Feb 2024 01:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>帮助找到一个应用程序来练习测试</title>
       <link>https://www.reddit.com/r/opensource/comments/1arvfx3/help_finding_an_app_to_practice_testing/</link>
-      <description><![CDATA[大家好！我经营一个软件测试培训和辅导社区，我们正在寻找一款可以用来练习测试的开源应用程序！ 我很难找到一个能够满足所有条件的应用程序，我我想你们可能会在 2 秒内提供帮助，哈哈。 所以无论如何，这些都是要求：  用 Nodejs 打字稿编写 有一个可访问的数据库、API 和 UI 层，以便我们可以练习 e2e 测试（需要 swagger 页面或 postman 集合！） 易于在本地设置和运行 - docker/docker compose 首选 奖励积分如果里面已经有一个剧作家项目 - 支持 postgres、MySQL、mongo 或 sqlite  任何类型的 ERP、CRM、公告板、社交媒体克隆等都很棒！ p&gt; 提前致谢！   由   提交/u/sqassociates  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我经营一个软件测试培训和辅导社区，我们正在寻找一款可以用来练习测试的开源应用程序！ 我很难找到一个能够满足所有条件的应用程序，我我想你们可能会帮忙。 所以无论如何，这些都是要求：  用 Nodejs 打字稿编写 有一个可访问的数据库、API 和UI 层，以便我们可以练习 e2e 测试（需要 swagger 页面或邮递员集合！） 易于在本地设置和运行 - docker/docker compose 首选 如果有剧作家项目，可加分内部已经支持 postgres、MySQL、mongo 或 sqlite  任何类型的 ERP、CRM、公告板、社交媒体克隆等都很棒！ 提前致谢！   由   提交/u/sqassociates  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1arvfx3/help_finding_an_app_to_practice_testing/</guid>
       <pubDate>Fri, 16 Feb 2024 00:48:03 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/hex20dec   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ar2h7m/anyone_have_an_alternative_for_shadeinc/</guid>
       <pubDate>Thu, 15 Feb 2024 00:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>图形界面人工智能应用商店</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ar0yn7/ai_app_store_for_graphical_interfaces/</link>
-      <description><![CDATA[GitHub：https://github.com/dht/gdi  网站：https://usegdi.com 什么是 GDI？ GDI是一个用于人工智能驱动界面的应用程序商店。 它有何独特之处？  集中数据：所有 GDI 应用程序共享一个通用数据库，并且资产库。 人工智能驱动：对于每个用例，根本问题是“当人工智能在您身边时，如何最好地实现这一点。” 基于模式：GDI 采用基于模式的方法，支持动态界面和内容版本控制。从数据到 UI 再到生成的内容，一切都是由架构定义的。  基于架构的视频示例：https://usegdi.com/boards/B-013/modelz 项目目标是什么？探索AI时代图形界面的新可能性。毕竟，并不是所有事情都可以通过提示完成...:-)   由   提交/u/dht  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ar0yn7/ai_app_store_for_graphical_interfaces/</guid>
-      <pubDate>Wed, 14 Feb 2024 23:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Fit/Google 钱包是否被视为开源？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aqvlq9/are_google_fitgoogle_wallet_considered_open_source/</link>
-      <description><![CDATA[我所在的公司要求任何外部软件的使用都需要通过填写表格来批准。我有一位测试人员希望在我们的移动应用测试环境中启用 Google Fit/Google 钱包功能。对于每个应用程序，我需要回答的问题之一是它们是否被视为开源，并提供澄清的详细信息，即最新的稳定版本、许可证、存储库位置等。我看到 Google 钱包属于开放钱包基金会，并且我我不确定这与开源有何关系。根据本子使用的定义，这两个 Google 软件是否被视为开源？   由   提交/u/mysteriousNinja2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aqvlq9/are_google_fitgoogle_wallet_considered_open_source/</guid>
-      <pubDate>Wed, 14 Feb 2024 19:33:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
