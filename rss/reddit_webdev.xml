@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 06:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 09:11:44 GMT</lastBuildDate>
+    <item>
+      <title>我的网站所有流量来源均来自http://statics.teams.cdn.office.net/</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asxf3k/all_of_my_website_traffic_source_is_coming_from/</link>
+      <description><![CDATA[这是什么意思？   由   提交 /u/Fast-Ad-7653   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asxf3k/all_of_my_website_traffic_source_is_coming_from/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过冒泡排序确定需求的优先级</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asx6f7/prioritize_requirements_with_bubble_sort/</link>
+      <description><![CDATA[ 由   提交/u/nicotinum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asx6f7/prioritize_requirements_with_bubble_sort/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>让文档自己生成！ （寻求早期想法）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aswz8h/let_the_documentations_be_generated_themselves/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/amAProgrammer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aswz8h/let_the_documentations_be_generated_themselves/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名在推送到 GitHub 后不久就被占用了...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</link>
+      <description><![CDATA[所以，我在一年前创建了这个 iOS 应用程序。直到现在我才打算为其创建一个网站。我去Namecheap上搜索域名。它被采取了。出于纯粹的好奇，我在 Whois 上搜索以查看该名称何时被占用。它说它是在22年11月22日注册的。这引起了怀疑，因此我转到我的 GitHub 帐户来检查我何时对该项目进行了首次提交。我最初的提交是在 22 年 10 月 25 日，大约在注册前一个月... 我只是偏执地过度思考这个问题，也许这是一个巧合？注册商是否会在 GitHub 上搜索项目并获取域名？这似乎是窃取和追加销售域名的完美场所，因为如果人们花费数小时为其项目编写代码，就会产生明显的兴趣   由   提交/u/danhiggins1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的流量仅在 Google Analytics 中可见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</link>
+      <description><![CDATA[Google Analytics 显示自 14.2 起。我的网站每 20 分钟就会有来自波兰、华沙的定期访问，并显示在流量来源“news.grets.store”中这似乎是俄罗斯域名 https://eveninsight.com/safety-checker/website/news.grets。 store  想要阻止此操作，但我在网站日志中找不到有关这些访问的统计信息，似乎它们只存在于 Google Analytics 中。机器人流量是否通常会从我的网站监控日志中过滤掉并仅显示在 Google 分析中？  感觉有点多余，流量在 GA 中可见，但不能轻易地从网站配置中阻止（如果或因为我似乎在那里看不到这些访问，我没有他们的 IP 或用户代理）&lt; /p&gt; 有什么想法吗？以前在我的网站上从未见过这种流量。  ​   由   提交/u/SpecialistAd4217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</guid>
+      <pubDate>Sat, 17 Feb 2024 07:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个人工智能工作网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</link>
+      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</guid>
+      <pubDate>Sat, 17 Feb 2024 07:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>独立开发者，如何编辑图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</link>
+      <description><![CDATA[嗨，我正在制作一个应用程序，我需要使用客户的徽标进行启动和导航。他们发给我的徽标是横向的，我也需要纵向版本。然后我还需要将前景和背景分成两个文件。 现在我知道我可以花十美元聘请一位艺术家来完成此任务，但这些任务看起来很简单，比如在上面添加一个白色矩形顶部和底部。 有没有一个好的软件可以轻松做到这一点？我以前默认使用 gimp，但它太大了，我每次都需要查找 YouTube 视频。你用什么？   由   提交 /u/ratrak_one   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</guid>
+      <pubDate>Sat, 17 Feb 2024 06:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对 CSS-in-JS、Tailwind 和 CSS 模块脚本的看法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asv6n6/my_thoughts_on_cssinjs_tailwind_and_css_modules/</link>
+      <description><![CDATA[TL;DR: 不，如果你编写 CSS-in-JS，那么就组件的可重用性和可读性而言，这不是一个好主意，并且以下是我的论点 HTML 中的 JS (JSX) HTML 中的 JS 是合理的。 （我知道，从技术上讲，它是 JS 中的 HTML，但我想重点关注“我们在 HTML 标签内编写 js 代码”）  在设计组件时，我们通常首先考虑其无样式的形状（ HTML）和功能（JS）。 当重用组件时，我们通常希望保留其无样式的形状（HTML）和功能（JS） )。 从我的角度来看，这就是 JSX 流行的原因。  更好的是，我更喜欢 HTML 中的数据，即我们只能看到 HTML 中的数据名称。这些 HTML 标记不应嵌入任何逻辑。   HTML 中的 CSS HTML 中的 CSS 是有问题的。  我们想要这样做的唯一原因是 CSS 本身在本地应用样式方面存在一些问题，我们天真地选择了它作为解决方法。  当我们想要改变一个组件的样式时，通常会同时改变很多部分的样式。为此，我们将相关部分的样式编写在一个地方，即 CSS 文件。 当我们想要删除组件的样式时，我们只需删除 CSS 文件即可。 &lt; li&gt;说实话，我认为如果 UI/UX 设计师需要从你复杂的 javascript/typescript 文件中了解你的风格设计，那么他们要理解你现有的风格设计将是一场噩梦。   li&gt;  JS 中的 CSS JS 中的 CSS 是有问题的。  这不是一个决定，而是你决定“申请”的结果。范围样式”对于您的组件，即您已经编写了 JSX，并且还希望在 HTML 中使用 CSS。 现在考虑一个情况：您想根据组件的状态更改样式  这个想法考虑到封装性，您希望在编写逻辑时只看到那些依赖于状态的样式。 不幸的是，现在您在 HTML 中拥有 JSX 和 CSS，即您在同一个文件中拥有 HTML+CSS+JS 的所有内容 “但是所有的东西都卡在一个地方有什么问题吗？”直到您意识到您现在被迫以 strangeNamingStyle 编写 CSS。   结论 所以这就是为什么大多数人仍然更喜欢 Tailwind 而不是 CSS-in-JS。  Tailwind 唯一的大问题是如果不减少类数量的话可读性。虽然我们有将 CSS 与 HTML 和 JS 分离的优势。 使用 JS 中的 CSS，您被迫创建仅用于样式的包装器组件来封装您的样式设计，即使它与调试逻辑无关你的组件。  写完之后 也许我全错了。其实我需要批评来学习不同的声音。 我不知道，我觉得现在的前端开发出了问题，对于初学者来说一切都变得如此混乱。   由   提交/u/rainning0513  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asv6n6/my_thoughts_on_cssinjs_tailwind_and_css_modules/</guid>
+      <pubDate>Sat, 17 Feb 2024 06:18:25 GMT</pubDate>
+    </item>
     <item>
       <title>新手需要帮助 - 我的域电子邮件停止接收传入电子邮件</title>
       <link>https://www.reddit.com/r/webdev/comments/1asulrl/newbie_needs_help_my_domain_email_stopped/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[我正在开发 Monkeytype 脚本 我需要知道如何检测 reddits 当前主题。   由   提交/u/k_Parth_singh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1asswm4/is_there_any_way_to_detect_reddits_mode_in_js/</guid>
       <pubDate>Sat, 17 Feb 2024 04:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何改进设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1assbne/how_to_improve_a_design/</link>
-      <description><![CDATA[大家好，我正在构建一个网络应用程序，一切进展顺利，但设计。我怎样才能让我的网站看起来更好？有没有人工智能工具可以帮助我解决这个问题？我认为我最需要帮助的是颜色。任何反馈将不胜感激。 🙏  https://rtcdigitals.xyz  &amp; #32；由   提交/u/Ralphc360  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1assbne/how_to_improve_a_design/</guid>
-      <pubDate>Sat, 17 Feb 2024 03:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用什么预约系统？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asrgtj/what_should_i_use_for_an_appointment_system/</link>
-      <description><![CDATA[所以我的兄弟是一名理发师，希望我为他制作一个预约网站（他已经有了一个网站，所以不着急）。我是一名计算机科学学生，觉得这是一个很好的项目，可以学习一些新东西以及如何制作一个真正的工作系统。 我当前的问题是我不知道从哪里开始以及我应该做什么用于构建网络应用程序/网站。我已经在课程中学习了 SpringBoot，并且知道如何使用它，但至于它是否适合此类项目，我不知道。因此，我想要一些建议，了解您建议我在前端/后端和以后的托管中使用/学习的内容。 应用程序应该具有：  预约时段每 20/30 分钟一班，具体取决于所选的服务 不同的服务需要不同的时间。因此，仅仅理发是 20 分钟，理发和修剪胡须是 30 分钟等等。选择这些服务时，应该只显示这些服务的可用时段。 不需要在线支付 &lt; li&gt;帐户不是强制性的 预约需要由管理员确认 客户的预约得到确认后会收到通知（通过电子邮件或其他方式） &lt; li&gt;一个显示所有当前约会和可用时段的管理面板。  这就是我目前能想到的。如有任何建议，我们将不胜感激。   由   提交/u/gawk_gawk9000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asrgtj/what_should_i_use_for_an_appointment_system/</guid>
-      <pubDate>Sat, 17 Feb 2024 02:54:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[OC] 我创建了一个漂亮的 random.org 克隆</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asr1c4/oc_i_create_a_beautiful_clone_of_randomorg/</link>
-      <description><![CDATA[嗨 我很高兴分享我的项目https ://chanceseed.com。  它是一个创建小部件（轮子、骰子、战利品箱物品）的工具，用于随机化内容并将其嵌入到您的网站上。也许你可以尝试一下。  谢谢   由   提交/u/trieu1912   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asr1c4/oc_i_create_a_beautiful_clone_of_randomorg/</guid>
-      <pubDate>Sat, 17 Feb 2024 02:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的投资组合网站应该使用什么托管/域名网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asqa7r/what_hostingdomain_site_should_i_use_for_my/</link>
-      <description><![CDATA[我正在考虑使用 github 来托管/域，但如果您有更好的替代方案，请告诉我。    由   提交 /u/Wicked_Weaboo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asqa7r/what_hostingdomain_site_should_i_use_for_my/</guid>
-      <pubDate>Sat, 17 Feb 2024 01:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有史以来最流行的面试问题 - 祝大家好运</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asomev/most_popular_interview_questions_of_all_time_good/</link>
-      <description><![CDATA[   /u/TranslatorAway9891   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asomev/most_popular_interview_questions_of_all_time_good/</guid>
-      <pubDate>Sat, 17 Feb 2024 00:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress 与 Elementor 或 Shopify 联属营销博客？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aso6bu/wordpress_w_elementor_or_shopify_for_affiliate/</link>
-      <description><![CDATA[我正在为我的企业创建一个联盟营销博客，为 PC 游戏新手提供有关购买最佳 PC 的建议。主要收入来自一项调查，该调查链接到推荐的电脑（例如来自亚马逊、百思买），我收取佣金。博客是为了产生流量。 目前的计划是保留这种联属营销模式，但我想敞开大门，开设一个实际的电子商务网站，在那里我作为零售商销售电脑并且不想再做一遍工作。  Wordpress 还是 Shopify 更适合我的业务？   由   提交 /u/raypatjr1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aso6bu/wordpress_w_elementor_or_shopify_for_affiliate/</guid>
-      <pubDate>Sat, 17 Feb 2024 00:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果官方宣布在欧盟取消 Web 应用程序 - Open Web Advocacy</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asnxva/its_official_apple_kills_web_apps_in_the_eu_open/</link>
-      <description><![CDATA[       由   提交/u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asnxva/its_official_apple_kills_web_apps_in_the_eu_open/</guid>
-      <pubDate>Sat, 17 Feb 2024 00:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>两个仿冒 Python 包利用 Discord CDN 部署恶意软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asnreh/two_typosquatting_python_packages_exploit_discord/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asnreh/two_typosquatting_python_packages_exploit_discord/</guid>
-      <pubDate>Sat, 17 Feb 2024 00:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
