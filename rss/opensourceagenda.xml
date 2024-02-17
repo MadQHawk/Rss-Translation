@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 17 Feb 2024 03:14:04 GMT</lastBuildDate>
-    <item>
-      <title>卡蒂多拉</title>
-      <link>https://www.opensourceagenda.com/projects/catid-dora</link>
-      <description><![CDATA[DoRA 的实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/catid-dora</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:04 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Feb 2024 06:16:22 GMT</lastBuildDate>
     <item>
       <title>Nexus 存储库迁移</title>
       <link>https://www.opensourceagenda.com/projects/nexus-repo-migration</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/nexus-repo-migration</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:03 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:21 GMT</pubDate>
     </item>
     <item>
       <title>UAC BOF 富矿</title>
       <link>https://www.opensourceagenda.com/projects/uac-bof-bonanza</link>
       <description><![CDATA[武器化为 BOF 的 UAC 绕过技术集合]]></description>
       <guid>https://www.opensourceagenda.com/projects/uac-bof-bonanza</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:03 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:21 GMT</pubDate>
     </item>
     <item>
       <title>格斯溅射</title>
       <link>https://www.opensourceagenda.com/projects/ges-splatting</link>
       <description><![CDATA[“GES：用于高效辐射场渲染的广义指数泼溅”的原始参考实现]]></description>
       <guid>https://www.opensourceagenda.com/projects/ges-splatting</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADU 规划师 Rag A Thon2024</title>
-      <link>https://www.opensourceagenda.com/projects/adu-planner-rag-a-thon2024</link>
-      <description><![CDATA[2024 LlamaIndex RAG 黑客松“一等奖”项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/adu-planner-rag-a-thon2024</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>米凯尔·波蒂拉 Rss</title>
-      <link>https://www.opensourceagenda.com/projects/mikaelporttila-rss</link>
-      <description><![CDATA[📰 Deno 模块，用于将 RSS 或 ATOM XML 提要反序列化为类型化对象 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mikaelporttila-rss</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:02 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:21 GMT</pubDate>
     </item>
     <item>
       <title>微变换</title>
       <link>https://www.opensourceagenda.com/projects/micro-transform</link>
       <description><![CDATA[超级简单的 Typescript 序列化器]]></description>
       <guid>https://www.opensourceagenda.com/projects/micro-transform</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:02 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:20 GMT</pubDate>
     </item>
     <item>
       <title>随机某人69 CsGo</title>
       <link>https://www.opensourceagenda.com/projects/randomsomeone69-csgo</link>
       <description><![CDATA[CSGO 未检测到]]></description>
       <guid>https://www.opensourceagenda.com/projects/randomsomeone69-csgo</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:02 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:20 GMT</pubDate>
     </item>
     <item>
       <title>艾Saas应用</title>
       <link>https://www.opensourceagenda.com/projects/ai-saas-app</link>
-      <description><![CDATA[构建具有人工智能功能以及支付和积分的真正的软件即服务应用程序您甚至可以使用 Next.js 14、Clerk、MongoDB、Cloudinary AI 和 Stripe 将其转化为副业收入或商业想法。]]></description>
+      <description><![CDATA[构建具有 AI 功能以及支付和积分的真正软件即服务应用程序您甚至可以使用 Next.js 14、Clerk、MongoDB、Cloudinary AI 和 Stripe 将其转化为副业收入或商业想法。]]></description>
       <guid>https://www.opensourceagenda.com/projects/ai-saas-app</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>NFC PN532 SPI</title>
-      <link>https://www.opensourceagenda.com/projects/nfc-pn532-spi</link>
-      <description><![CDATA[Adafruit CircuitPython 到 PN532 NFC/RFID 控制库 (SPI) 的 Micropython 的部分移植&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nfc-pn532-spi</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pn532.js</title>
-      <link>https://www.opensourceagenda.com/projects/pn532js</link>
-      <description><![CDATA[PN532.js 是基于 Web 蓝牙和 Web 串行的 PN532 JavaScript 库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pn532js</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DomathID Live2d 模型</title>
-      <link>https://www.opensourceagenda.com/projects/domathid-live2d-model</link>
-      <description><![CDATA[live2D 小部件模型集合、l2d-widget、live2d 模型👖👕👔👗]]></description>
-      <guid>https://www.opensourceagenda.com/projects/domathid-live2d-model</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:01 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:20 GMT</pubDate>
     </item>
     <item>
       <title>Live2D Linux 本机示例</title>
       <link>https://www.opensourceagenda.com/projects/live2d-linux-native-sample</link>
       <description><![CDATA[Live2D Cubism3 + OpelGL（GLFW 和 GLEW）示例]]></description>
       <guid>https://www.opensourceagenda.com/projects/live2d-linux-native-sample</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:01 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:19 GMT</pubDate>
     </item>
     <item>
       <title>快速pb</title>
       <link>https://www.opensourceagenda.com/projects/fastpb</link>
       <description><![CDATA[更快的 Protobuf 序列化器和反序列化器。]]></description>
       <guid>https://www.opensourceagenda.com/projects/fastpb</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:01 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>米凯尔·波蒂拉 Rss</title>
+      <link>https://www.opensourceagenda.com/projects/mikaelporttila-rss</link>
+      <description><![CDATA[📰 Deno 模块，用于将 RSS 或 ATOM XML 提要反序列化为类型化对象 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mikaelporttila-rss</guid>
+      <pubDate>Sat, 17 Feb 2024 06:16:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>NFC PN532 SPI</title>
+      <link>https://www.opensourceagenda.com/projects/nfc-pn532-spi</link>
+      <description><![CDATA[Adafruit CircuitPython 到 PN532 NFC/RFID 控制库 (SPI) Micropython 的部分移植&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nfc-pn532-spi</guid>
+      <pubDate>Sat, 17 Feb 2024 06:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pn532.js</title>
+      <link>https://www.opensourceagenda.com/projects/pn532js</link>
+      <description><![CDATA[PN532.js 是基于 Web 蓝牙和 Web 串行的 PN532 JavaScript 库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pn532js</guid>
+      <pubDate>Sat, 17 Feb 2024 06:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>DomathID Live2d 模型</title>
+      <link>https://www.opensourceagenda.com/projects/domathid-live2d-model</link>
+      <description><![CDATA[live2D 小部件模型集合、l2d-widget、live2d 模型👖👕👔👗]]></description>
+      <guid>https://www.opensourceagenda.com/projects/domathid-live2d-model</guid>
+      <pubDate>Sat, 17 Feb 2024 06:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archimate PlantUML</title>
+      <link>https://www.opensourceagenda.com/projects/archimate-plantuml</link>
+      <description><![CDATA[PlantUML 宏和 Archimate 图的其他包含内容]]></description>
+      <guid>https://www.opensourceagenda.com/projects/archimate-plantuml</guid>
+      <pubDate>Sat, 17 Feb 2024 06:16:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archimate Ci 图像</title>
+      <link>https://www.opensourceagenda.com/projects/archimate-ci-image</link>
+      <description><![CDATA[用于持续集成管道的 Archi 容器映像]]></description>
+      <guid>https://www.opensourceagenda.com/projects/archimate-ci-image</guid>
+      <pubDate>Sat, 17 Feb 2024 06:16:17 GMT</pubDate>
     </item>
     <item>
       <title>NFC工具GUI</title>
       <link>https://www.opensourceagenda.com/projects/nfctoolsgui</link>
       <description><![CDATA[与 PN532 交互的跨平台程序，支持 Windows、Linux 和 macOS。]]></description>
       <guid>https://www.opensourceagenda.com/projects/nfctoolsgui</guid>
-      <pubDate>Sat, 17 Feb 2024 03:14:00 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2024 06:16:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

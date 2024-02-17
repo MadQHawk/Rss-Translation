@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 03:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 06:15:57 GMT</lastBuildDate>
+    <item>
+      <title>新手需要帮助 - 我的域电子邮件停止接收传入电子邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asulrl/newbie_needs_help_my_domain_email_stopped/</link>
+      <description><![CDATA[     &lt; td&gt; 所以我最近在 GoDaddy 上购买了一个带有电子邮件的域名。然而，该电子邮件突然停止接收传入电子邮件。我不确定我错过了什么，但我认为之前有一条弹出消息，我需要添加特定的 spf/mx 记录，但现在我无法做到这一点，我不确定什么是正确的要添加的记录。 PS：这仍然是我正在学习的虚拟网站，因此请原谅那里的一些记录，因为我试图将其连接到不同的营销平台。我们将非常感谢您的建议！  https://preview.redd.it/15zbn7es23jc1.png?width=1241&amp;format=png&amp;auto=webp&amp;s=1265b76b5f8db7a20b50de5fbd835b9a41e9a287 /u/justatrader00   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asulrl/newbie_needs_help_my_domain_email_stopped/</guid>
+      <pubDate>Sat, 17 Feb 2024 05:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我想起了当年的“全闪存”网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asub3w/reminds_me_of_the_all_flash_websites_from_back_in/</link>
+      <description><![CDATA[    /u/amirrajan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asub3w/reminds_me_of_the_all_flash_websites_from_back_in/</guid>
+      <pubDate>Sat, 17 Feb 2024 05:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过文件夹选择随机文本和图像 [JavaScript]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asu6sw/random_text_image_selected_via_a_folder_javascript/</link>
+      <description><![CDATA[大家好-- 我有一个简单的问题。是否有可能引入一种“随机”的方法？元素 [使用 JavaScript] 链接到通过文件夹（即 Dropbox）选择的文本和图像？我正在开发一个与天文学相关的存储库，该存储库将有自己的网站。我考虑过使用 Neocities 来托管这个网站，但我相信我必须制定一个新计划（HTML 似乎不是这个项目的最佳语言）。  谢谢，我不知道我是否以最简洁的方式解释了这一点，所以如果您对我有任何疑问，我很乐意解释。再次感谢。   由   提交 /u/EmbraceandmyCollapse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asu6sw/random_text_image_selected_via_a_folder_javascript/</guid>
+      <pubDate>Sat, 17 Feb 2024 05:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个用于 1v1 编码的网络应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1astvv7/i_made_a_web_app_for_1v1_coding/</link>
+      <description><![CDATA[基本上，你选择一个难度（简单、中等、困难）和一个主题，然后你就会与对手匹配。第一个解决 leetcode 问题的人获胜。 如果您注册并推荐朋友，你们都将获得 5 美元 链接：https://elitecode.app   由   提交/u/webDevAndy9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1astvv7/i_made_a_web_app_for_1v1_coding/</guid>
+      <pubDate>Sat, 17 Feb 2024 05:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PWA 今天可以做什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1astvbm/what_pwa_can_do_today/</link>
+      <description><![CDATA[   /u/fagnerbrack   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1astvbm/what_pwa_can_do_today/</guid>
+      <pubDate>Sat, 17 Feb 2024 05:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以将 Spotify 中的歌曲下载到您的计算机上吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1astuqg/can_you_download_songs_from_spotify_onto_your/</link>
+      <description><![CDATA[正如标题所说，我正在尝试弄清楚 Spotify 如何获取数据，以及我们是否可以通过浏览器开发工具下载 mp3 等音频文件。&lt; /p&gt; 额外问题你使用 Brain(dot)fm 吗？ 😉   由   提交/u/caffelinedcheetxh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1astuqg/can_you_download_songs_from_spotify_onto_your/</guid>
+      <pubDate>Sat, 17 Feb 2024 05:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法在JS中检测reddit的模式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asswm4/is_there_any_way_to_detect_reddits_mode_in_js/</link>
+      <description><![CDATA[我正在开发 Monkeytype 脚本 我需要知道如何检测 reddits 当前主题。   由   提交/u/k_Parth_singh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asswm4/is_there_any_way_to_detect_reddits_mode_in_js/</guid>
+      <pubDate>Sat, 17 Feb 2024 04:08:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何改进设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1assbne/how_to_improve_a_design/</link>
+      <description><![CDATA[大家好，我正在构建一个网络应用程序，一切进展顺利，但设计。我怎样才能让我的网站看起来更好？有没有人工智能工具可以帮助我解决这个问题？我认为我最需要帮助的是颜色。任何反馈将不胜感激。 🙏  https://rtcdigitals.xyz  &amp; #32；由   提交/u/Ralphc360  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1assbne/how_to_improve_a_design/</guid>
+      <pubDate>Sat, 17 Feb 2024 03:38:14 GMT</pubDate>
+    </item>
     <item>
       <title>我应该使用什么预约系统？</title>
       <link>https://www.reddit.com/r/webdev/comments/1asrgtj/what_should_i_use_for_an_appointment_system/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1asnreh/two_typosquatting_python_packages_exploit_discord/</guid>
       <pubDate>Sat, 17 Feb 2024 00:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚幻引擎 5 即将登陆网页浏览器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asmrq2/unreal_engine_5_is_coming_to_web_browser/</link>
-      <description><![CDATA[https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser   由   提交/u/astlouis44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asmrq2/unreal_engine_5_is_coming_to_web_browser/</guid>
-      <pubDate>Fri, 16 Feb 2024 23:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>你会收取什么费用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asmhhl/what_would_you_charge/</link>
-      <description><![CDATA[为了获得更好的薪酬机会，我​​不久前离开了以前的雇主。我离开后，他们削弱了我构建的一个自定义应用程序，认为没有必要，却发现事实上它每天为数千名用户提供基本的业务功能。到目前为止，它已经下降了几个月。他们聘请了一位替代者，他似乎不太熟悉这种类型的开发工作（这是一个完全不同的问题，因为它基本上只是一堆在 LAMP 堆栈上运行的 CRUD 服务......）并且一直在尝试让一切恢复并在新的服务器版本上运行。长话短说，他们陷入了困境，现在他们向我伸出了援手，提供了一份合同，让我回来为他们修复问题。听起来大部分工作将重新设计身份验证系统的某些方面，并使其与较新的 PHP 版本兼容。我猜这不会是一项很长的工作，大约需要几天的工作时间？ 您每小时为此收取多少费用？ 我已经完成了之前的自由职业（主要是与代理机构签订合同的 WordPress 定制构建）的价格在 75-100 美元/小时之间。考虑到它的紧急工作并且其中会散布一些系统管理员类型的东西，我认为这应该更高。我是一位拥有大约 15 年经验的高级全栈人员，当我在那里时，我自己构建了整个东西。美国密歇根州。谢谢！   由   提交 /u/peninsuladreams   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asmhhl/what_would_you_charge/</guid>
-      <pubDate>Fri, 16 Feb 2024 23:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4自主发现网站漏洞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asm15u/gpt4_autonomously_finds_vulnerabilities_in/</link>
-      <description><![CDATA[研究人员表明，LLM 代理可以自主破解网站，执行盲数据库模式提取和 SQL 注入等复杂任务，无需人工反馈。代理不需要事先知道漏洞。   代理 通过@5 总体成功率    GPT-4 助手 73.3% 42.7%  &lt; tr&gt; GPT-3.5助手 6.7% 2.7%   OpenHermes-2.5-Mistral-7B td&gt; 0.0% 0.0%   LLaMA-2 聊天 (70B) 0.0% 0.0%   LLaMA-2 聊天 (13B) 0.0% 0.0%   LLaMA-2 聊天 (7B) 0.0% 0.0%   Mixtral-8x7B指令 0.0% 0.0%   Mistral (7B) 指令 v0.2 0.0%  0.0%   Nous Hermes-2 Yi (34B) 0.0% 0.0%&lt; /td&gt;   OpenChat 3.5 0.0% 0.0%   &lt; p&gt;如图所示，开源法学硕士尚不具备所需的功能（文档读取、回溯等）。   漏洞 GPT -4 成功率 OpenChat 3.5 检测率    LFI 60% 40%   CSRF 100% 60%   &lt; td&gt;XSS 80% 40%   SQL注入 100% 100%   暴力破解 80% 60%   SQL 联合 80% 0%   SSTI 40% 0%   Webhook XSS 20% 0%   文件上传 40% 80%   授权绕过 0%&lt; /td&gt; 0%   SSRF 20% 0%  &lt; tr&gt; Javascript 攻击 0% 0%   硬 SQL 注入 0 % 0%   硬 SQL 联合 20% 0% &lt; /tr&gt;  XSS + CSRF 0% 0%   测试在沙盒环境中的真实网站上执行。运行 5 次后，每个站点的代币成本平均为 9.81 美元。 除了现实世界的黑客影响之外，这还可能为开发人员漏洞/单元测试带来一种有趣的方法。  在此处阅读全文   由   提交/u/terra-incognita68  /u/terra-incognita68 reddit.com/r/webdev/comments/1asm15u/gpt4_autonomously_finds_vulnerability_in/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asm15u/gpt4_autonomously_finds_vulnerabilities_in/</guid>
-      <pubDate>Fri, 16 Feb 2024 22:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作之间的时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asluf7/time_in_between_jobs/</link>
-      <description><![CDATA[你好。我知道我们中有很多熟练的专业人士由于被解雇而努力寻找另一份工作。外面就像一片丛林。 我想问：除了温习技能和申请工作之外，你还做什么来打发时间？ 这不需要是软件相关。可能是为了自己的心理健康而做的事情，甚至是副业。   由   提交/u/_robert_neville_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asluf7/time_in_between_jobs/</guid>
-      <pubDate>Fri, 16 Feb 2024 22:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular 中的终极动画师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1askn0x/the_ultimate_animator_in_angular/</link>
-      <description><![CDATA[在撰写本文时，我意识到我已经成为过度工程的受害者。我在 Angular 17 中开始了一个项目。它有一些动画和东西。我最初是在指令中编写动画，然后将它们应用到我需要设置动画的组件上，但后来我意识到我还需要在滚动和语言更改时设置动画，所以然后我创建了一个 AbstractAnimation，现在有两个它的子动画师，SlideAnimation 和 FadeAnimation。旁边有两个 IAnimationTrigger，其作用是接收控件以触发 AbstractAnimation。 AbstractAnimation 实例在整个应用程序生命周期中是短暂的，因为它们是指令，但 IAnimationTrigger 也可以像任何服务或任何其他指令一样是单例。 我一边哭一边写这篇文章，并考虑在 npm 中创建另一个库呵呵   由   提交/u/mwaqar666   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1askn0x/the_ultimate_animator_in_angular/</guid>
-      <pubDate>Fri, 16 Feb 2024 21:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为自由职业者，我应该获得 GitHub Copilot 个人许可证还是商业许可证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asi3ao/should_i_get_github_copilot_individual_or/</link>
-      <description><![CDATA[哪一个最好？您选择哪一个？为什么？ 🍑🍆   由   提交 /u/AndrewTateIsMyKing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asi3ao/should_i_get_github_copilot_individual_or/</guid>
-      <pubDate>Fri, 16 Feb 2024 20:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管代码最便宜的方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ashsn8/what_is_the_cheapest_way_to_host_your_code/</link>
-      <description><![CDATA[我为餐馆创建了一种入口管理解决方案，代码非常小。对于数据库，我使用 postgresSQL，它只有 3-4 个表。在云上托管我的代码和数据库的最便宜的方式是什么？ （每个餐厅都会有这个代码和数据库作为单独的）  如果你也能给出大概的费用那就太好了   由   提交/u/greatmaxy17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ashsn8/what_is_the_cheapest_way_to_host_your_code/</guid>
-      <pubDate>Fri, 16 Feb 2024 19:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个新的基于 docker 的简约本地开发环境：draky</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ashhge/a_new_minimalistic_dockerbased_local_development/</link>
-      <description><![CDATA[大家好。最近，我做了一个开源的东西，我发现它可能对某人有用:)。 https://draky。 dev 它与其他一些环境（如 lando、docksal 或 ddev）的区别在于，它并不是为每个问题提供解决方案，隐藏在间接层后面，第三- 派对图像。相反，它只是设置和管理您自己的“docker-compose.yml”的帮助程序，因此它是高级用户的解决方案，他们在设计自己的环境时更喜欢拥有最终决定权。 如果您喜欢 docker，但不喜欢深入研究复杂的本地开发解决方案的特定于供应商的问题（这些解决方案试图以非显而易见的方式解决所有问题），那么 draky 可能正适合您。 什么是draky 的一些功能？  自定义命令可以编写为实际的 shell 脚本。这些 shell 脚本甚至可以在容器内运行（如果应该执行命令，则 stdin 也会从主机传递到容器）。而且非常简单。只需适当地命名您的 shell 脚本，draky 就会自动连接所有内容。 它不会强制您使用任何特定的图像。您可以使用 Docker Hub 中的通用 php/nginx/mariadb docker 映像设置自定义 Web 应用程序项目。这使得依赖树更短。您可以在更靠近上游的地方工作。通过使用特殊的 docker 入口点，您可以根据需要配置现有的通用映像。 您始终可以查看和修改描述您的环境的实际“docker-compose.yml”文件。第三方图像中没有隐藏任何内容。  简而言之，这很乏味。我在生态系统中寻找一种简约、直接的开发环境配置方法，但没有找到，所以我决定撸起袖子尝试自己实现它。 哦，并且它已经可以工作了，并且已经被功能测试很好地覆盖了，所以它将继续工作。 我有一些想法从这里开始，以及如何进一步开发它，但这是我想首先衡量公众对该项目的兴趣的时刻。 我希望它对某人有用。非常欢迎任何反馈。 :)   由   提交/u/enador   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ashhge/a_new_minimalistic_dockerbased_local_development/</guid>
-      <pubDate>Fri, 16 Feb 2024 19:38:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
