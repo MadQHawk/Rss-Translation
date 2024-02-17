@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 09:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 12:19:59 GMT</lastBuildDate>
+    <item>
+      <title>[周六炫耀]：Armyclash.io</title>
+      <link>https://www.reddit.com/r/webdev/comments/1at0ou8/showoff_saturday_armyclashio/</link>
+      <description><![CDATA[        由   提交 /u/jbs__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1at0ou8/showoff_saturday_armyclashio/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发新手需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1at0iv7/new_to_web_dev_require_help/</link>
+      <description><![CDATA[我目前正在通过一些免费的 youtube 课程学习 webdev，在该课程中，他们正在教如何制作 Spotify 克隆，并介绍如何托管他们推荐的网站（webhostmost）这还不错，只是它没有为免费计划提供足够的存储空间，所以我正在探索其他选项，例如渲染和奖励空间以及 WordPress，但 WordPress 主要感觉像一个博客托管网站，也许还有一些商店，但我可以托管吗像 Spotify 这样的网站克隆有很多歌曲吗？以及托管此类网站的其他不错的选择。我是这个子版块的新手，我在 Reddit 上发帖很少，所以如果我违反了任何规则，我很抱歉。   由   提交/u/dank_guy0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1at0iv7/new_to_web_dev_require_help/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 TypeScript 中使用泛型：实用指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszzeu/using_generics_in_typescript_a_practical_guide/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Clarity_89  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszzeu/using_generics_in_typescript_a_practical_guide/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP 的历史和状态码背后的故事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszw2r/the_history_of_http_and_the_stories_behind_status/</link>
+      <description><![CDATA[       由   提交/u/waterslurpingnoises   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszw2r/the_history_of_http_and_the_stories_behind_status/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:29:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 PHP 框架中添加了 AI 函数调用功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszjgy/i_added_ai_function_calling_feature_to_my_php/</link>
+      <description><![CDATA[我使用了 llama.cpp 并打开源LLM 当用户输入与提示相关的内容时，提示控制器会触发以产生一些效果。  例如，如果用户询问收养一只猫，这将触发：  用户：我正在考虑养一只猫 框架： ```php [RespondsToPromptSubject( 操作：&#39;采用&#39;，主题：&#39;猫&#39;，  )] [Singleton(collection: SingletonCollection::PromptSubjectResponder)] 只读类 CatAdopt 实现 PromptSubjectResponderInterface { public function respondToPromptSubject(PromptSubjectRequest $request, PromptSubjectResponse $response): void { $response -&gt;write(“给你：\n\n”); $response-&gt;write(&quot; |_./|\n&quot;); $response-&gt;write(&quot; | o o |\n&quot;); $response-&gt;write(“( T )\n”); $response-&gt;write(&quot; .-^-.\n&quot;); $response-&gt;write(&quot; &lt;代码&gt;.;.\n&quot;); $response-&gt;write(&quot; | | | | |\n&quot;); $response-&gt;write(&quot; ((((|))_))\n&quot;); $响应-&gt;结束(); } } ``` 整个图库：https://imgur.com/a/t4FVabp&lt; /p&gt; 该项目是免费且开源的。 Resonance 是一个新的异步 PHP 框架，可促进基础设施中服务之间的互操作性和消息传递，并授予一些 AI 功能。 了解更多 - 文档：https://resonance.distantmagic.com/ GitHub 存储库：https://github.com/distantmagic/resonance 顺便说一句，我需要你的帮助！我现在正在免费开发该项目几个月。我正在寻找测试人员和贡献者（例如改进提示）。如果您想提供帮助，请访问 Discord，我将帮助您开始。如果您只是想来打个招呼，或者在 GitHub 上留下一个开始，我也将不胜感激。这会表明我对这类工作有兴趣。  https://i.imgur.com/fCmSTRb.gif   由   提交 /u/mcharytoniuk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszjgy/i_added_ai_function_calling_feature_to_my_php/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AHA 堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszj8p/the_aha_stack/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszj8p/the_aha_stack/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以及在何处存储备份？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszg6d/how_and_where_to_store_backups/</link>
+      <description><![CDATA[大家好， 我的团队目前正在构建一个中小型项目，该项目也涉及敏感用户数据（我们正在欧盟），我们目前正在考虑如何以及在哪里存储数据库备份，所以我想知道 2024 年的最佳实践是什么。 你们有什么可以推荐的免费服务吗？您是自动备份还是手动备份？ 谢谢！   由   提交 /u/mixedfeelingz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszg6d/how_and_where_to_store_backups/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>星期六炫耀：人工智能辅助日期假名化？软件即服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asz5vd/showoff_saturday_ai_assisted_date/</link>
+      <description><![CDATA[大家好，我一直在开发人工智能辅助假名引擎，该引擎最近发布了第一个版本。该应用程序旨在使数据假名化管道的创建、管理和执行变得简单且可扩展，同时还使用机器学习提供对数据集及其可能包含的任何个人数据的巧妙洞察。完整的门户网站仍在开发中，但您可以在https://seudo.alpn-software.com&lt;查看该应用程序的演示/a&gt; 应用程序末尾有反馈表，请留下您的想法。多多益善。对于任何感兴趣的人来说，UI 是使用 Vue3 构建并托管在 AWS Cloudfront 上，而后端是一个微服务架构，其 API 是用 Python 编写的，并使用 AWS Lambda、Docker 和 AWS API 网关进行部署。整个事情是使用 Terraform 进行管理的。    由   提交/u/OkInteraction493  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asz5vd/showoff_saturday_ai_assisted_date/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的旧项目的代码 - 一个书籍制作网站，适合那些正在寻找灵感的人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asz2kd/code_for_my_old_project_a_bookmaking_website_for/</link>
+      <description><![CDATA[       由   提交/u/Magiqon   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asz2kd/code_for_my_old_project_a_bookmaking_website_for/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:36:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>过滤前的 CTA</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asyqtt/cta_before_fiiter/</link>
+      <description><![CDATA[      页脚上方有 CTA 的部分称为哪些部分。想知道它的术语。上面的例子来自 whop   由   提交/u/Galvanikal  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asyqtt/cta_before_fiiter/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 从哪里获得这些标题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asy4ig/where_does_google_get_these_titles_from/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/d71etz2i74jc1.png?width=1135&amp;format=png&amp; ;auto=webp&amp;s=1f38d9e7aee56e3c95af4a1d88a56193d5eece1f 这不是标题元标记，也不是域名。有人可以帮忙吗？   由   提交 /u/kevinsschmidt   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asy4ig/where_does_google_get_these_titles_from/</guid>
+      <pubDate>Sat, 17 Feb 2024 09:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pree：一个简单的工具，可以轻松构建免构建网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asy4d2/pree_a_simple_tool_to_easily_build_nobuild/</link>
+      <description><![CDATA[   /u/lorean_victor  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asy4d2/pree_a_simple_tool_to_easily_build_nobuild/</guid>
+      <pubDate>Sat, 17 Feb 2024 09:32:28 GMT</pubDate>
+    </item>
     <item>
       <title>我的网站所有流量来源均来自http://statics.teams.cdn.office.net/</title>
       <link>https://www.reddit.com/r/webdev/comments/1asxf3k/all_of_my_website_traffic_source_is_coming_from/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[     &lt; td&gt; 由   提交/u/amAProgrammer   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aswz8h/let_the_documentations_be_generated_themselves/</guid>
       <pubDate>Sat, 17 Feb 2024 08:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名在推送到 GitHub 后不久就被占用了...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</link>
-      <description><![CDATA[所以，我在一年前创建了这个 iOS 应用程序。直到现在我才打算为其创建一个网站。我去Namecheap上搜索域名。它被采取了。出于纯粹的好奇，我在 Whois 上搜索以查看该名称何时被占用。它说它是在22年11月22日注册的。这引起了怀疑，因此我转到我的 GitHub 帐户来检查我何时对该项目进行了首次提交。我最初的提交是在 22 年 10 月 25 日，大约在注册前一个月... 我只是偏执地过度思考这个问题，也许这是一个巧合？注册商是否会在 GitHub 上搜索项目并获取域名？这似乎是窃取和追加销售域名的完美场所，因为如果人们花费数小时为其项目编写代码，就会产生明显的兴趣   由   提交/u/danhiggins1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</guid>
-      <pubDate>Sat, 17 Feb 2024 08:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的流量仅在 Google Analytics 中可见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</link>
-      <description><![CDATA[Google Analytics 显示自 14.2 起。我的网站每 20 分钟就会有来自波兰、华沙的定期访问，并显示在流量来源“news.grets.store”中这似乎是俄罗斯域名 https://eveninsight.com/safety-checker/website/news.grets。 store  想要阻止此操作，但我在网站日志中找不到有关这些访问的统计信息，似乎它们只存在于 Google Analytics 中。机器人流量是否通常会从我的网站监控日志中过滤掉并仅显示在 Google 分析中？  感觉有点多余，流量在 GA 中可见，但不能轻易地从网站配置中阻止（如果或因为我似乎在那里看不到这些访问，我没有他们的 IP 或用户代理）&lt; /p&gt; 有什么想法吗？以前在我的网站上从未见过这种流量。  ​   由   提交/u/SpecialistAd4217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</guid>
-      <pubDate>Sat, 17 Feb 2024 07:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个人工智能工作网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</link>
-      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</guid>
-      <pubDate>Sat, 17 Feb 2024 07:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>独立开发者，如何编辑图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</link>
-      <description><![CDATA[嗨，我正在制作一个应用程序，我需要使用客户的徽标进行启动和导航。他们发给我的徽标是横向的，我也需要纵向版本。然后我还需要将前景和背景分成两个文件。 现在我知道我可以花十美元聘请一位艺术家来完成此任务，但这些任务看起来很简单，比如在上面添加一个白色矩形顶部和底部。 有没有一个好的软件可以轻松做到这一点？我以前默认使用 gimp，但它太大了，我每次都需要查找 YouTube 视频。你用什么？   由   提交 /u/ratrak_one   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</guid>
-      <pubDate>Sat, 17 Feb 2024 06:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 CSS-in-JS、Tailwind 和 CSS 模块脚本的看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asv6n6/my_thoughts_on_cssinjs_tailwind_and_css_modules/</link>
-      <description><![CDATA[TL;DR: 不，如果你编写 CSS-in-JS，那么就组件的可重用性和可读性而言，这不是一个好主意，并且以下是我的论点 HTML 中的 JS (JSX) HTML 中的 JS 是合理的。 （我知道，从技术上讲，它是 JS 中的 HTML，但我想重点关注“我们在 HTML 标签内编写 js 代码”）  在设计组件时，我们通常首先考虑其无样式的形状（ HTML）和功能（JS）。 当重用组件时，我们通常希望保留其无样式的形状（HTML）和功能（JS） )。 从我的角度来看，这就是 JSX 流行的原因。  更好的是，我更喜欢 HTML 中的数据，即我们只能看到 HTML 中的数据名称。这些 HTML 标记不应嵌入任何逻辑。   HTML 中的 CSS HTML 中的 CSS 是有问题的。  我们想要这样做的唯一原因是 CSS 本身在本地应用样式方面存在一些问题，我们天真地选择了它作为解决方法。  当我们想要改变一个组件的样式时，通常会同时改变很多部分的样式。为此，我们将相关部分的样式编写在一个地方，即 CSS 文件。 当我们想要删除组件的样式时，我们只需删除 CSS 文件即可。 &lt; li&gt;说实话，我认为如果 UI/UX 设计师需要从你复杂的 javascript/typescript 文件中了解你的风格设计，那么他们要理解你现有的风格设计将是一场噩梦。   li&gt;  JS 中的 CSS JS 中的 CSS 是有问题的。  这不是一个决定，而是你决定“申请”的结果。范围样式”对于您的组件，即您已经编写了 JSX，并且还希望在 HTML 中使用 CSS。 现在考虑一个情况：您想根据组件的状态更改样式  这个想法考虑到封装性，您希望在编写逻辑时只看到那些依赖于状态的样式。 不幸的是，现在您在 HTML 中拥有 JSX 和 CSS，即您在同一个文件中拥有 HTML+CSS+JS 的所有内容 “但是所有的东西都卡在一个地方有什么问题吗？”直到您意识到您现在被迫以 strangeNamingStyle 编写 CSS。   结论 所以这就是为什么大多数人仍然更喜欢 Tailwind 而不是 CSS-in-JS。  Tailwind 唯一的大问题是如果不减少类数量的话可读性。虽然我们有将 CSS 与 HTML 和 JS 分离的优势。 使用 JS 中的 CSS，您被迫创建仅用于样式的包装器组件来封装您的样式设计，即使它与调试逻辑无关你的组件。  写完之后 也许我全错了。其实我需要批评来学习不同的声音。 我不知道，我觉得现在的前端开发出了问题，对于初学者来说一切都变得如此混乱。   由   提交/u/rainning0513  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asv6n6/my_thoughts_on_cssinjs_tailwind_and_css_modules/</guid>
-      <pubDate>Sat, 17 Feb 2024 06:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手需要帮助 - 我的域电子邮件停止接收传入电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asulrl/newbie_needs_help_my_domain_email_stopped/</link>
-      <description><![CDATA[     &lt; td&gt; 所以我最近在 GoDaddy 上购买了一个带有电子邮件的域名。然而，该电子邮件突然停止接收传入电子邮件。我不确定我错过了什么，但我认为之前有一条弹出消息，我需要添加特定的 spf/mx 记录，但现在我无法做到这一点，我不确定什么是正确的要添加的记录。 PS：这仍然是我正在学习的虚拟网站，因此请原谅那里的一些记录，因为我试图将其连接到不同的营销平台。我们将非常感谢您的建议！  https://preview.redd.it/15zbn7es23jc1.png?width=1241&amp;format=png&amp;auto=webp&amp;s=1265b76b5f8db7a20b50de5fbd835b9a41e9a287 /u/justatrader00   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asulrl/newbie_needs_help_my_domain_email_stopped/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:43:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我想起了当年的“全闪存”网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asub3w/reminds_me_of_the_all_flash_websites_from_back_in/</link>
-      <description><![CDATA[    /u/amirrajan   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asub3w/reminds_me_of_the_all_flash_websites_from_back_in/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过文件夹选择随机文本和图像 [JavaScript]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asu6sw/random_text_image_selected_via_a_folder_javascript/</link>
-      <description><![CDATA[大家好-- 我有一个简单的问题。是否有可能引入一种“随机”的方法？元素 [使用 JavaScript] 链接到通过文件夹（即 Dropbox）选择的文本和图像？我正在开发一个与天文学相关的存储库，该存储库将有自己的网站。我考虑过使用 Neocities 来托管这个网站，但我相信我必须制定一个新计划（HTML 似乎不是这个项目的最佳语言）。  谢谢，我不知道我是否以最简洁的方式解释了这一点，所以如果您对我有任何疑问，我很乐意解释。再次感谢。   由   提交 /u/EmbraceandmyCollapse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asu6sw/random_text_image_selected_via_a_folder_javascript/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个用于 1v1 编码的网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1astvv7/i_made_a_web_app_for_1v1_coding/</link>
-      <description><![CDATA[基本上，你选择一个难度（简单、中等、困难）和一个主题，然后你就会与对手匹配。第一个解决 leetcode 问题的人获胜。 如果您注册并推荐朋友，你们都将获得 5 美元 链接：https://elitecode.app   由   提交/u/webDevAndy9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1astvv7/i_made_a_web_app_for_1v1_coding/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>PWA 今天可以做什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1astvbm/what_pwa_can_do_today/</link>
-      <description><![CDATA[   /u/fagnerbrack   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1astvbm/what_pwa_can_do_today/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以将 Spotify 中的歌曲下载到您的计算机上吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1astuqg/can_you_download_songs_from_spotify_onto_your/</link>
-      <description><![CDATA[正如标题所说，我正在尝试弄清楚 Spotify 如何获取数据，以及我们是否可以通过浏览器开发工具下载 mp3 等音频文件。&lt; /p&gt; 额外问题你使用 Brain(dot)fm 吗？ 😉   由   提交/u/caffelinedcheetxh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1astuqg/can_you_download_songs_from_spotify_onto_your/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在JS中检测reddit的模式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asswm4/is_there_any_way_to_detect_reddits_mode_in_js/</link>
-      <description><![CDATA[我正在开发 Monkeytype 脚本 我需要知道如何检测 reddits 当前主题。   由   提交/u/k_Parth_singh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asswm4/is_there_any_way_to_detect_reddits_mode_in_js/</guid>
-      <pubDate>Sat, 17 Feb 2024 04:08:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
