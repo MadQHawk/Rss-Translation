@@ -4,7 +4,56 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 16 Feb 2024 21:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:50:42 GMT</lastBuildDate>
+    <item>
+      <title>无提示的思维链推理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asnzsn/chainofthought_reasoning_without_prompting/</link>
+      <description><![CDATA[这篇论文对我来说是一个非常重要的突破。你觉得怎么样？ https://huggingface.co/papers/2402.10200 &lt; blockquote&gt; 在增强大型语言模型（LLM）的推理能力方面，先前的研究主要专注于特定的提示技术，例如少样本或零样本思想链（CoT）提示。这些方法虽然有效，但通常涉及手动密集型提示工程。我们的研究采用了一种新颖的方法，提出了这样的问题：法学硕士能否在没有提示的情况下有效推理？有趣的是，我们的研究结果表明，只需改变解码过程，就可以从预先训练的 LLM 中导出 CoT 推理路径。我们研究了 top-𝑘 替代标记，而不是传统的贪婪解码，发现 CoT 路径通常是这些序列中固有的。这种方法不仅绕过了提示的混杂因素，而且还使我们能够评估法学硕士的内在推理能力。此外，我们观察到解码路径中 CoT 的存在与模型解码答案的更高置信度相关。该置信度度量有效区分 CoT 和非 CoT 路径。对各种推理基准的广泛实证研究表明，所提出的 CoT 解码大大优于标准贪婪解码。  ​ &lt;!-- SC_ON - -&gt;  由   提交 /u/JoeStrout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asnzsn/chainofthought_reasoning_without_prompting/</guid>
+      <pubDate>Sat, 17 Feb 2024 00:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>大卫·伍德讨论“经济奇点”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asnumt/david_wood_discusses_the_economic_singularity/</link>
+      <description><![CDATA[博士。大卫·伍德讨论了“经济奇点”，这是一场源于人工智能和人工智能的颠覆性经济事件。自动化技术可能会导致大规模失业——而且可能已经开始了。 在此处观看完整采访： https://www.youtube.com/watch?v=XCYrPHdXi0A 今天的讨论重点是新书《未来愿景：如何在即将到来的经济奇点中生存和繁荣：多种观点》中的主题。可通过亚马逊购买：https://www.amazon.co.uk/dp/B0CTGHJCT4 ​ 我们的讨论不仅包括对经济相关趋势的推测性分析，人工智能对劳动力市场的影响，以及自动化和人工智能的历史例子供应链效率中断。这包括沃尔玛在 20 世纪 90 年代的增长，该公司被指控由于高效的供应链管理而扰乱了小企业，以及亚马逊等门户网站在线购物的繁荣，该门户网站被指控通过定价扰乱了购物中心&amp;方便。 ​ 博士。大卫·伍德（David Wood），著名未来学家、作家、奇点主义者、伦敦未来主义者协会主席。他拥有剑桥大学数学硕士学位、科学哲学研究生学位、威斯敏斯特大学荣誉科学博士学位，并在技术行业拥有 30 多年的经验，涉及移动软件和应用程序等领域。操作系统开发到企业咨询和领导力。 ​ 作为未来学家，Wood 博士曾担任 Transhumanist UK 的联合创始人、Transpolitica、Node 的执行董事千年项目联合主席、道德与新兴技术研究所研究员，目前担任 Delta Wisdom 的负责人。他还在 SingularityNet、Sustensis、LEV 基金会担任董事会职务，并且是 Humanity Plus 的前董事会成员。 ​ David 是 13 本书的作者，是T3“100位最具影响力的科技人物”之一。他的重点是技术颠覆所带来的社会和人类的彻底变革。   由   提交/u/timothy-ventura  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asnumt/david_wood_discusses_the_economic_singularity/</guid>
+      <pubDate>Sat, 17 Feb 2024 00:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找 AI 聚会类型活动的完整列表</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asnmgv/im_looking_for_a_comprehensive_list_of_ai_meetup/</link>
+      <description><![CDATA[我正在寻找 AI 聚会类型活动的完整列表。特别是我可以通过视频会议远程参加的活动。我住在美国，但我也有兴趣参加世界其他地区的活动，这些活动将以英语进行演示。我总是喜欢获得不同的观点和更广阔的世界观。 我确实通过 ChatGPT 运行了这个问题，它输出了一些选项。 ChatGPT 推荐 events.ai 作为查找源。我发现一个最初看起来很有趣的小组 - sv.ai - 但主页很简单。我给他们发了一封电子邮件，但他们已将该小组重新调整为不同的用途。我找到了一个相关的聚会小组，但描述将其描述为“圆桌会议”。并规定每位与会者必须发言 1 至 2 分钟。我希望选择成为一个沉默的观察者。 鉴于此信息 - 您会推荐任何聚会或类似的团体吗？   由   提交/u/Short-Sector4774   reddit.com/r/ArtificialInteligence/comments/1asnmgv/im_looking_for_a_compressive_list_of_ai_meetup/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asnmgv/im_looking_for_a_comprehensive_list_of_ai_meetup/</guid>
+      <pubDate>Fri, 16 Feb 2024 23:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据某些特征和成人内容对图像进行分类的工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asnma8/tool_to_categorize_images_based_on_certain/</link>
+      <description><![CDATA[大家好。由于我不打算详细说明的原因，我需要浏览大量图像。其中一些图像包含裸体和/或露骨的色情内容。我想使用人工智能来识别这些文件，这样我就可以删除它们，而不必浏览数千张图像，也不必看到数百张色情图像。 但有一个警告：绘画/艺术裸体或性行为在某些情况下是允许的，并且我愿意手动对标记为成人和卡通/彩绘/等的图像进行排序。此外，内衣模特的照片也是允许的。 所以基本上我需要一个工具，可以将各种文件类型的图像粘贴到其中，然后得到人工智能怀疑的文件列表色情内容和人工智能怀疑是成人但也具有艺术性的文件列表（在绘画或动画或其他意义上）。 我不太擅长编码。我在本科时学过一些 Java，但仅此而已。有没有我可以使用的非 CS 专业友好工具？理想情况下，它将是一个成熟的工具，不需要我进行任何编码，但如果有人彻底引导我完成它，我愿意自己编码。 预先感谢您！   由   提交 /u/AIcatagorizo​​r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asnma8/tool_to_categorize_images_based_on_certain/</guid>
+      <pubDate>Fri, 16 Feb 2024 23:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的朋友劳埃德一定会很兴奋。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asnhla/my_friend_lloyd_would_be_so_excited/</link>
+      <description><![CDATA[我的朋友 Lloyd 在人工智能学校，非常有动力，非常聪明。我们出去玩了一晚，他要做的所有事情都让我大吃一惊。  不幸的是，他被一位嫉妒的丈夫开枪打死，我不会详细说明，但请相信我，当我说劳埃德是一个特殊的人，他不值得发生在他身上的事情时。 他会对人工智能所取得的进步感到非常兴奋。   由   提交/u/exciter706  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asnhla/my_friend_lloyd_would_be_so_excited/</guid>
+      <pubDate>Fri, 16 Feb 2024 23:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>十年后我们可以期待什么样的人工智能革命？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asn8l3/what_kind_of_ai_revolutions_could_we_expect_10/</link>
+      <description><![CDATA[我想知道10年内会发生什么样的创新革命。您认为哪些行业受影响最大？会发生什么样令人难以置信的革命？哪一个最让你印象深刻？   由   提交 /u/JessicaBuccheri   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asn8l3/what_kind_of_ai_revolutions_could_we_expect_10/</guid>
+      <pubDate>Fri, 16 Feb 2024 23:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人类在做机器人的工作，而人工智能正在接管人类的工作？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aslxam/why_are_humans_doing_the_robotic_work_while_ai_is/</link>
+      <description><![CDATA[你们都看过 Sora 的公告，如果这还没有发生，那么 Sora 就会意识到人工智能正在真正以天文数字的速度进步步伐。这种威胁有很多原因，但至少是娱乐行业的每个人。在这一点上，人工智能在某种程度上取代人类艺术几乎是不可避免的，而且在小范围内它已经做到了。为什么我们决定采用人工智能的方向？我们本可以努力让人工智能在医学或恶劣的劳动条件方面提供帮助，但我们的目标是娱乐业？为什么？我知道水印不会有太大帮助，但说真的，需要有一种真正的方法来判断某些东西是否是人工智能生成的，并且需要在我们仍然有这种选择的情况下迅速发明它。天啊，这听起来太科幻了，我简直不敢相信这是真的。   由   提交/u/ekopwolston  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aslxam/why_are_humans_doing_the_robotic_work_while_ai_is/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:42:17 GMT</pubDate>
+    </item>
     <item>
       <title>关于人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asj979/about_ai/</link>
@@ -13,46 +62,11 @@
       <pubDate>Fri, 16 Feb 2024 20:51:40 GMT</pubDate>
     </item>
     <item>
-      <title>关于人工智能职业的问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ashmcf/question_about_career_with_ai/</link>
-      <description><![CDATA[您好（：我想转行，有一个问题我从未上过计算机科学学校，但我刚刚学习编码， 3D 建模、AR 等等。我想用它做点什么，成为新事物的一部分，但我就是跟不上所有技术的进步。 我一直在正在熟悉 openAI，但是现在出现了 Dalle 和 Sora 这样的 AI，你认为未来会走向何方？ 由于我从未正式学习过 compsci，所以我想真正磨练 AI并学习新技能以便将来找到工作。 但是我从哪里开始？我是否只学习如何使用人工智能来创造东西？我是否将编码和人工智能结合起来来制作应用程序/程序？我可以吗？了解人工智能如何工作并学习数据科学，这样我就可以进入人工智能公司？ 那里有很多东西要学，但我想真正专注于一件可以帮助我找到工作的事情，而且让我与所有在学校学习计算机和技术的人区分开来。 请帮忙！！谢谢！   由   提交 /u/Jamminbaker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ashmcf/question_about_career_with_ai/</guid>
-      <pubDate>Fri, 16 Feb 2024 19:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能的局限性</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ashb9a/generative_ai_limitations/</link>
-      <description><![CDATA[https ://www.linkedin.com/pulse/generative-ai-limitations-atul-kumar-alhkc 我在这里探讨 GenAI 模型的一些局限性及其从有限预算的角度使用它们。这是我们尝试构建会议分析工具、代码分析工具以及对金融科技创新探索的结果。   由   提交 /u/atulkr2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ashb9a/generative_ai_limitations/</guid>
-      <pubDate>Fri, 16 Feb 2024 19:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为哪些职业将从人工智能中受益最多？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asgrv9/which_professions_do_you_think_will_benefit_the/</link>
-      <description><![CDATA[虽然有些人担心自动化可能会导致工作岗位流失，但有几个领域有望从人工智能集成中获得实质性好处。我想到了以下几点：我认为现在人工智能技术可以帮助医疗专业人员诊断疾病、分析医学图像，甚至更精确地进行手术，这一点非常重要。 Buoy 是我在该领域最喜欢的应用程序之一。金融行业将从人工智能驱动的算法中获益，这些算法可以分析大量数据以检测模式、管理风险并实时做出明智的投资决策。此外，人工智能驱动的聊天机器人和虚拟助理简化了客户服务，提供更快的响应和个性化建议。感谢 ShortlistIQ，我正在使用人工智能助手。我认为教育也将从人工智能中获得巨大的好处。智能辅导系统可以提供即时反馈、自适应课程计划，甚至可以识别学生可能遇到困难的领域，帮助教育工作者优化教学策略。您是否使用任何应用程序来处理此事？随着网络威胁变得越来越复杂，人工智能驱动的解决方案对于实时检测和预防攻击至关重要。机器学习算法可以分析网络流量模式，识别异常情况，并在潜在的违规行为发生之前阻止它们，从而增强网络安全防御能力。虽然可能有人担心工作岗位被取代，但现实是人工智能有潜力增强人类的能力，提高效率，推动各行业的创新。拥抱这些进步并相应地调整技能组合将是释放人工智能在劳动力中全部潜力的关键。您认为还有哪些其他职业会在人工智能时代蓬勃发展？您使用哪些应用程序？   由   提交 /u/M_a_l_f_o_y   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asgrv9/which_professions_do_you_think_will_benefit_the/</guid>
-      <pubDate>Fri, 16 Feb 2024 19:09:09 GMT</pubDate>
-    </item>
-    <item>
       <title>富裕的时代，但转型又如何呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asgh0v/age_of_abundance_but_what_about_the_transition/</link>
-      <description><![CDATA[因此，从长远来看，AGI 可能会带来富裕时代（忽略所有世界末日场景）。 但与此同时，随着人工智能的进步有两件事将会发生 - 1. 人们失业。2. 物价变得更便宜。 问题是，当这两个因素相互竞争时，情况会变得多么糟糕，然后才会好转？ 最好的策略是什么？ 在实际富裕和富裕之前存一些钱。 UBI 发生了吗？！ 或者花钱&amp;享受当下，因为危机时期不会持续太久？    由   提交/u/pulkitsingh01   [链接] [评论]]]></description>
+      <description><![CDATA[因此，从长远来看，AGI 可能会带来富裕时代（忽略所有世界末日场景）。 但与此同时，随着人工智能的进步有两件事将会发生 - 1. 人们失业。2. 物价变得更便宜。 问题是，当这两个因素相互竞争时，情况会变得多么糟糕，然后才会好转？ 最好的策略是什么？ 在实际富裕和富裕之前存一些钱。 UBI 发生了吗？！ 还是花钱&amp;享受当下，因为危机时期不会持续太久？    由   提交/u/pulkitsingh01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asgh0v/age_of_abundance_but_what_about_the_transition/</guid>
       <pubDate>Fri, 16 Feb 2024 18:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建我的自定义 Java 代码生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asgfkk/build_my_custom_java_code_generator/</link>
-      <description><![CDATA[您好，有没有一种方法可以通过采用开源语言模型 (LLM) 以及我的 Java 代码库来构建 RAG 系统来生成 Java 代码类似于现有的代码？我的目标是开发一个可以从我的 Java 代码库中学习的系统，在合并新功能时提供代码片段帮助，这与传统的代码完成不同。感谢您的帮助👍   由   提交 /u/sboubaker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asgfkk/build_my_custom_java_code_generator/</guid>
-      <pubDate>Fri, 16 Feb 2024 18:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以使用人工智能和聊天机器人“自言自语”吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asfffh/could_someone_talk_to_themselves_using_ai_and/</link>
-      <description><![CDATA[我认为拥有另一个版本的我会很有趣，最好是声音，但当我正在处理一些复杂的事情时，它也可以是文本聊天或有压力。您可以看到自己的缺点以及对不同事物的反应。  在我所有的帐户中，我有大约 15 年的 Reddit 评论，我可以提供给它。我今天可以用当前的人工智能来做这件事吗？   由   提交 /u/SoggyHotdish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asfffh/could_someone_talk_to_themselves_using_ai_and/</guid>
-      <pubDate>Fri, 16 Feb 2024 18:13:41 GMT</pubDate>
     </item>
     <item>
       <title>麻省理工学院研究人员发明液态金属快速 3D 打印</title>
@@ -76,28 +90,14 @@
       <pubDate>Fri, 16 Feb 2024 11:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>联想凭借AI操作系统挑战Windows，它能推翻Windows吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1as691c/lenovo_takes_on_windows_with_ai_os_can_it/</link>
-      <description><![CDATA[联想据称的操作系统将配备人工智能功能，并围绕多终端产品构建。 阅读全文：&lt; a href=&quot;https://www.ibtimes.co.uk/lenovo-takes-windows-ai-os-can-it-dethrone-windows-1723470&quot;&gt;https://www.ibtimes.co.uk/lenovo -takes-windows-ai-os-can-it-dethrone-windows-1723470   由   提交 /u/vinaylovestotravel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1as691c/lenovo_takes_on_windows_with_ai_os_can_it/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:21:15 GMT</pubDate>
-    </item>
-    <item>
       <title>我没有失去任何一个利用人工智能的机会</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1as3d9f/i_have_not_lost_a_single_opportunity_to_ai/</link>
-      <description><![CDATA[我是一名架构师和设计师，当我第一次开始了解 Gen AI 的疯狂进步时，我很担心。随着时间的推移，经过这么长时间，输出已经变得更加确定，但它可以瞄准一组非常利基的东西：  想要低质量设计工作的客户 想要制作低质量广告、海报的客户 想要通过复制某人的艺术或审美来窃取的人  当我说质量时，我并不是指像素密度或清晰度，我的意思是对客户提供的简报的低质量响应。  我对人工智能最大的不满是缺乏控制。每当我使用它时，我都必须花费大量时间进行后期处理。 当我看到 degen thread bois 恐惧散布的视频或帖子时，我忍不住感到畏缩。  我可以举个例子： 一位客户要求我对他们委托的一栋公寓楼进行 5 幅渲染。通常，我每次渲染都会花费近 3 到 4 个小时，因为渲染、后期处理等输出的质量非常高。颜色需要准确，而支付大笔费用的客户对此非常挑剔。所以我花了更多的时间来完善材料。  将其插入人工智能软件，甚至架构软件中的人工智能插件会导致一些真正可怕的、崩溃的、垃圾输出。原因是，它从来没有很好地响应简报。 距离它真正有用还有很长的路要走。 &lt;!-- SC_ON - -&gt;  由   提交 /u/ConcernedHumanDroid   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名架构师和设计师，当我第一次开始了解 Gen AI 的疯狂进步时，我很担心。随着时间的推移，经过这么长时间，输出已经变得更加确定，但它可以瞄准一组非常利基的东西：  想要低质量设计工作的客户 想要制作低质量广告、海报的客户 想要通过复制某人的艺术或审美来窃取的人  当我说质量时，我并不是指像素密度或清晰度，我的意思是对客户提供的简报的低质量响应。  我对人工智能最大的不满是缺乏控制。每当我使用它时，我都必须花费大量时间进行后期处理。 当我看到 degen thread bois 散布恐惧的视频或帖子时，我忍不住感到畏缩。  我可以举个例子： 一位客户要求我对他们委托的一栋公寓楼进行 5 幅渲染。通常情况下，我每次渲染都会花费近 3 到 4 个小时，因为渲染、后期处理等输出的质量非常高。颜色需要准确，而支付大笔费用的客户对此非常挑剔。所以我花了更多的时间来完善材料。  将其插入人工智能软件，甚至架构软件中的人工智能插件会导致一些真正可怕的、崩溃的、垃圾输出。原因是，它从来没有很好地响应简报。 距离它真正有用还有很长的路要走。 &lt;!-- SC_ON - -&gt;  由   提交 /u/ConcernedHumanDroid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1as3d9f/i_have_not_lost_a_single_opportunity_to_ai/</guid>
       <pubDate>Fri, 16 Feb 2024 08:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>Open AI 推出 Sora - 文本转视频模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aro6ge/open_ai_introduces_sora_text_to_video_model/</link>
-      <description><![CDATA[我发布此消息的主要目的是讨论其影响。我看到，随着人工智能变得越来越大、越来越好，未来许多小型企业/初创公司将难以与之匹敌，除非它们能够快速适应并真正保持领先地位。 Sora 实际上可以生成基于 60 秒的视频根据提供的提示。我一直在创建 4-6 秒的动态视频剪辑并将它们剪辑在一起，然后通过编辑软件在上面添加音乐和对话来创建小视频。然而，有了这个新模型，电影制作（特别是对于 YouTube 用户、小规模摄像师来说）将变得令人兴奋。  邪恶的一面是辨别现实与虚构。我已经可以看到基于虚假视频的意见，因为很多人很容易上当受骗，不愿意花超过 10 秒的时间来确定视频是真是假。 让我们看看这个世界将走向何方 3rd本世纪的十年对我们的未来至关重要。   由   提交/u/3cheers2all  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aro6ge/open_ai_introduces_sora_text_to_video_model/</guid>
-      <pubDate>Thu, 15 Feb 2024 19:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
