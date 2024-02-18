@@ -4,20 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 18 Feb 2024 12:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 15:13:37 GMT</lastBuildDate>
+    <item>
+      <title>我如何构建完全离线的智能家居，以及为什么你也应该这样做</title>
+      <link>https://www.reddit.com/r/programming/comments/1atw47b/how_i_built_a_fully_offline_smart_home_and_why/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atw47b/how_i_built_a_fully_offline_smart_home_and_why/</guid>
+      <pubDate>Sun, 18 Feb 2024 15:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单静态站点的堆栈</title>
+      <link>https://www.reddit.com/r/programming/comments/1atvi5k/stacks_for_simple_static_sites/</link>
+      <description><![CDATA[ 由   提交/u/fd93_blog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atvi5k/stacks_for_simple_static_sites/</guid>
+      <pubDate>Sun, 18 Feb 2024 14:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>😎 我成为 TOP 1% 工程师的策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1atuxc4/my_strategy_to_become_a_top_1_engineer/</link>
+      <description><![CDATA[ 由   提交/u/erFrankie99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atuxc4/my_strategy_to_become_a_top_1_engineer/</guid>
+      <pubDate>Sun, 18 Feb 2024 14:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>事务发件箱：微服务架构和邮局相遇的地方</title>
+      <link>https://www.reddit.com/r/programming/comments/1atui5f/transactional_outbox_a_place_where_microservices/</link>
+      <description><![CDATA[ 由   提交/u/kapittalist  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atui5f/transactional_outbox_a_place_where_microservices/</guid>
+      <pubDate>Sun, 18 Feb 2024 13:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速行动打破了一切：舞台环境的重要性</title>
+      <link>https://www.reddit.com/r/programming/comments/1attn5q/moving_fast_breaks_things_the_importance_of_a/</link>
+      <description><![CDATA[ 由   提交/u/kendumez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1attn5q/moving_fast_breaks_things_the_importance_of_a/</guid>
+      <pubDate>Sun, 18 Feb 2024 13:04:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在工程行业中形成意见的重要性</title>
+      <link>https://www.reddit.com/r/programming/comments/1atth35/the_importance_of_forming_opinions_in_the/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atth35/the_importance_of_forming_opinions_in_the/</guid>
+      <pubDate>Sun, 18 Feb 2024 12:55:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么软件“安全债务”正成为开发人员面临的一个严重问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1att2xk/why_software_security_debt_is_becoming_a_serious/</link>
+      <description><![CDATA[ 由   提交/u/fadfun385  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1att2xk/why_software_security_debt_is_becoming_a_serious/</guid>
+      <pubDate>Sun, 18 Feb 2024 12:31:48 GMT</pubDate>
+    </item>
     <item>
       <title>Drew DeVault 完全基于电子邮件的开源工作流程</title>
       <link>https://www.reddit.com/r/programming/comments/1atsobm/drew_devaults_entirely_emailbased_open_source/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1atsobm/drew_devaults_entirely_emailbased_open_source/</guid>
       <pubDate>Sun, 18 Feb 2024 12:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘲笑黑暗模式大厅</title>
-      <link>https://www.reddit.com/r/programming/comments/1atsl2c/laughing_off_the_dark_mode_lobby/</link>
-      <description><![CDATA[ 由   提交/u/LloydAtkinson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atsl2c/laughing_off_the_dark_mode_lobby/</guid>
-      <pubDate>Sun, 18 Feb 2024 12:02:16 GMT</pubDate>
     </item>
     <item>
       <title>Reaction 微前端模块联合示例 - Makemychance</title>
@@ -27,7 +69,7 @@
       <pubDate>Sun, 18 Feb 2024 11:39:05 GMT</pubDate>
     </item>
     <item>
-      <title>基于网络的 Android 模拟器如何在幕后工作。我可以在我的机器上运行模拟器，而且我也了解一些关于 Web 开发的知识，所以如果我想构建类似：https://appetize.io/ 的方法应该是什么。</title>
+      <title>基于网络的 Android 模拟器如何在幕后工作。我可以在我的机器上运行模拟器，而且我也了解一些有关 Web 开发的知识，所以如果我想构建类似：https://appetize.io/ 的方法应该是什么。</title>
       <link>https://www.reddit.com/r/programming/comments/1ats5zq/how_web_based_android_emulator_works_behind_the/</link>
       <description><![CDATA[ 由   提交 /u/TheSayAnime   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ats5zq/how_web_based_android_emulator_works_behind_the/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交 /u/knaveiam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1atora4/tryting_to_utilize_an_opensource_torrent_software/</guid>
       <pubDate>Sun, 18 Feb 2024 07:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>nmathew98/txn：分布式事务的容器</title>
-      <link>https://www.reddit.com/r/programming/comments/1ato2hr/nmathew98txn_a_container_for_distributed/</link>
-      <description><![CDATA[ 由   提交/u/FirefighterAnnual454  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ato2hr/nmathew98txn_a_container_for_distributed/</guid>
-      <pubDate>Sun, 18 Feb 2024 07:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>nmathew98/incremental：简单的可组合异步状态管理实用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1ato10r/nmathew98incremental_simple_composable_async/</link>
-      <description><![CDATA[ 由   提交/u/FirefighterAnnual454  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ato10r/nmathew98incremental_simple_composable_async/</guid>
-      <pubDate>Sun, 18 Feb 2024 06:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 VSCode 扩展“Staircase Imports”！</title>
-      <link>https://www.reddit.com/r/programming/comments/1atmabb/my_first_vscode_extension_staircase_imports/</link>
-      <description><![CDATA[ 由   提交/u/MyPing0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atmabb/my_first_vscode_extension_staircase_imports/</guid>
-      <pubDate>Sun, 18 Feb 2024 05:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>事件驱动系统——实践经验教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1atlktb/event_driven_systemslessons_from_the_trenches/</link>
-      <description><![CDATA[ 由   提交/u/sidcool1234  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atlktb/event_driven_systemslessons_from_the_trenches/</guid>
-      <pubDate>Sun, 18 Feb 2024 04:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Concurrent.js 库对 JavaScript RTE 上的 Web Workers（多线程）进行性能基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1atkp5t/performance_benchmarking_of_web_workers/</link>
-      <description><![CDATA[ 由   提交/u/b_eshan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atkp5t/performance_benchmarking_of_web_workers/</guid>
-      <pubDate>Sun, 18 Feb 2024 03:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>.NET 8 WebAPI 和 Angular 17 使用 JWT 令牌进行基于角色的身份验证第 - 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1atkm8n/net_8_webapi_angular_17_role_based_authentication/</link>
-      <description><![CDATA[ 由   提交/u/ThisCar6196   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atkm8n/net_8_webapi_angular_17_role_based_authentication/</guid>
-      <pubDate>Sun, 18 Feb 2024 03:37:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
