@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 00:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 03:13:17 GMT</lastBuildDate>
+    <item>
+      <title>免费在线 Django Cookiecutter 生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atj975/free_online_django_cookiecutter_generator/</link>
+      <description><![CDATA[嗨r/webdev 周六快乐！我为 django cookiecutter 用户构建了一个免费的 Web 工具，完全免费，无需登录。 尽管它有很多优点，但我经常发现自己渴望在 django cookiecutter 初始项目设置方面获得更好的体验。  &gt; 受此推动，上周末我致力于开发一个在线 Django Cookiecutter 生成器。其主要目标是在初始项目设置期间完善和增强用户体验，使其更加灵活和用户友好。 我很高兴邀请您探索这个工具，并很高兴听到您的意见反馈或想法： 在线 Django Cookiecutter 生成器 如果您有任何问题或者需要有关 Django Cookiecutter 项目的帮助，我非常乐意提供帮助。   由   提交/u/data-leon  /u/data-leon  reddit.com/r/webdev/comments/1atj975/free_online_django_cookiecutter_generator/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atj975/free_online_django_cookiecutter_generator/</guid>
+      <pubDate>Sun, 18 Feb 2024 02:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>做一个这样的介绍有多难？对于构建网站来说是全新的，所以如果问题愚蠢，我很抱歉。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atilhr/how_hard_is_it_to_make_an_intro_like_this_brand/</link>
+      <description><![CDATA[    /u/HighAsAGiraffesPussy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atilhr/how_hard_is_it_to_make_an_intro_like_this_brand/</guid>
+      <pubDate>Sun, 18 Feb 2024 01:51:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页设计师会经历哪些流程来决定网站的外观？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ati9kt/web_designers_what_processes_do_you_go_through_to/</link>
+      <description><![CDATA[单词。   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ati9kt/web_designers_what_processes_do_you_go_through_to/</guid>
+      <pubDate>Sun, 18 Feb 2024 01:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制网站设计时，多接近才算太接近？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ati3s8/how_close_is_too_close_when_copying_a_websites/</link>
+      <description><![CDATA[我正在 Wix 中为我的小型初创公司创建一个网站，并且我正在使用“竞争对手”的网站网站设计/模板，以拥有一个看起来不错的网站作为开始。 我的问题是，这里的复制有多接近才算太接近？  我有： - 通常在3个不同的页面上使用他们的整体设计布局方案 - 将我的文本和图片放置在非常相似的区域 - 使用可选插件创建了类似的定价页面&lt; br /&gt; - 使用类似的图标来表示小事物，例如复选标记、表示服务类型的库存图标等。 我没有： - 复制了他们的任何内容逐字文本 - 完全复制他们的任何图片 - 使用相同的颜色 - 以任何形状或形式复制他们的徽标或名称  I计划在未来 12 个月内雇用一名网页设计师/开发人员，但无论如何，我都不是那些人，而且 Wix 模板对我的目的来说很糟糕。 ​ &lt; p&gt;我可以继续发布我的网站而不必担心潜在的版权索赔吗？ 谢谢 Reddit！ :D 编辑：拼写错误   由   提交 /u/NoDonut8789   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ati3s8/how_close_is_too_close_when_copying_a_websites/</guid>
+      <pubDate>Sun, 18 Feb 2024 01:26:17 GMT</pubDate>
+    </item>
     <item>
       <title>PHP CMS 比较 #3 - 大小和性能</title>
       <link>https://www.reddit.com/r/webdev/comments/1atgufo/php_cms_comparisons_3_size_and_performance/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>向后兼容性真的很重要吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1atf5kf/is_backwards_compatibility_actually_important/</link>
-      <description><![CDATA[具体讨论浏览器与 ES6 的兼容性，目前所有现代浏览器都支持它（最迟自 2017 年以来），并且考虑到大多数用户都支持它自动更新只允许“使用”的人使用不兼容的旧浏览器是使用 90 年代计算机的浏览器。如果有人使用旧浏览器，他们显然是故意这样做的，不断忽略每 5 分钟发生一次的弹出窗口并不容易，而且还有大量的安全漏洞，为什么我们还要考虑支持 7-10 的软件+ 岁？对于开发人员来说，这似乎是浪费时间，对于真正保持系统最新的人来说也带来不便，因为现在（取决于公司的公司）该网站可能会一起删除这些现代功能，然后提出一个问题，为什么还要写首先是 ES6 代码。   由   提交 /u/intoxatingBlackAle   [链接] [评论]]]></description>
+      <description><![CDATA[具体讨论浏览器与 ES6 的兼容性，目前所有现代浏览器都支持它（最迟自 2017 年以来），并且考虑到大多数用户都已支持自动更新只允许“使用”的人使用不兼容的旧浏览器是使用 90 年代计算机的浏览器。如果有人使用旧浏览器，他们显然是故意这样做的，不断忽略每 5 分钟发生一次的弹出窗口并不容易，而且还有大量的安全漏洞，为什么我们还要考虑支持 7-10 的软件+ 岁？对于开发人员来说，这似乎是浪费时间，并且对于那些真正保持系统最新的人来说也是不便的，因为现在（取决于公司的公司）该网站可能会一起删除这些现代功能，然后提出一个问题，为什么还要写首先是 ES6 代码。   由   提交 /u/intoxatingBlackAle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1atf5kf/is_backwards_compatibility_actually_important/</guid>
       <pubDate>Sat, 17 Feb 2024 23:08:37 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>为什么网络开发如此简单？</title>
       <link>https://www.reddit.com/r/webdev/comments/1atch7n/why_is_web_dev_so_easy/</link>
-      <description><![CDATA[我从 gamedev 切换到 webdev，相信我，游戏开发变得更加困难，尤其是在 3D 环境中工作时。 &lt; !-- SC_ON --&gt;  由   提交/u/MrBigDick05  [链接] [评论]]]></description>
+      <description><![CDATA[我从 gamedev 切换到 webdev，相信我，游戏开发变得更加困难，尤其是在 3D 环境下工作时。 &lt; !-- SC_ON --&gt;  由   提交/u/MrBigDick05  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1atch7n/why_is_web_dev_so_easy/</guid>
       <pubDate>Sat, 17 Feb 2024 21:12:24 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我的关系数据库课程将在几个月内完成一个大学项目，我被告知要建立一个完整的堆栈使用 MySQL 的应用程序/网站。目前，我对前端开发了解较多，但缺乏后端相关技能。我不需要研究后端概念和工具，我还要在有限的时间内学习一个后端框架。因此，我认为使用一个轻量级、快速学习的框架来完成我的工作是合适的。另外，优选限定为Python、JS、Java中的任一个。谁能提供符合这些标准的建议？    由   提交/u/death_and_void  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1atc33m/recommend_a_modern_backend_framework_for_working/</guid>
       <pubDate>Sat, 17 Feb 2024 20:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面浏览器与 IOS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atbb50/desktop_browser_vs_ios/</link>
-      <description><![CDATA[大家好， 我最近创建了一个基于我同事的Figma 设计的网站。话虽如此，这并不一致。  有一个部分在桌面上查看时会加载，但在 IOS 上查看时看不到它。  可能是什么原因造成的？提前致谢。  不要开枪，因为我最近刚刚学习了网站开发的基础知识。  网站是www.argo-advisory.com。    由   提交 /u/KaligulaG1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atbb50/desktop_browser_vs_ios/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:21:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为图像或元素编写流体形状容器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atb5cz/how_do_i_code_fluid_shaped_containers_for_images/</link>
-      <description><![CDATA[      我在 Instagram reels 上看到过这种设计，我不知道如何设计，甚至在我学习更多有关设计的知识时称呼它们，我认为该人正在使用Figma或某些设计工具在图像和元素容器上制作这些形状，有没有办法对这些形状进行编码？请帮帮我   由   提交/u/mostaqim77  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atb5cz/how_do_i_code_fluid_shaped_containers_for_images/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nocode Web 开发人员寻求指导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atb3a9/nocode_web_developer_looking_for_guidance/</link>
-      <description><![CDATA[大家好，我是一名专门从事 Bubble 的 nocode 开发人员。在过去的三年里，我一直在构建网络应用程序，并认为自己在这方面相当不错。 虽然无代码工具让我能够快速启动我的网络开发职业生涯，但我和其他许多人都知道一些基本概念没有完全意识到或不理解。 至少可以说，我们大多数人都不知道如何正确使用 Chrome DevTools。我听说有很多可用的资源，例如来自 Mozilla 的资源，但我也没有对它们进行太多探索。 另一个重要领域是数据库架构。随着前端和后端使用不同的工具变得越来越流行，我看到人们在没有任何数据库管理/架构知识或培训的情况下从一个数据库转移到另一个数据库。 我们还在重新发明最佳实践，例如命名约定、清洁代码、评论等。传统开发人员已经建立的东西。 长话短说，我认为没有编码器缺少 Web 开发 101 知识，而不仅仅是语法和编码。 话虽这么说，您可以分享一下我在哪里吗？开始？！所有 Web 开发人员都必须学习/了解的绝对必须阅读/了解的原则是什么？ 如果你们能够分享一些资源，我将不胜感激。 🙏   由   提交/u/Gio_13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atb3a9/nocode_web_developer_looking_for_guidance/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果/谷歌没有受到伤害</title>
-      <link>https://www.reddit.com/r/webdev/comments/1atausp/no_applegoogle_harmed/</link>
-      <description><![CDATA[     &lt; td&gt; 网络游戏会成为现实吗？ https://developer.mozilla.org/en-US/docs/Games/Introduction   由   提交/u/fellow_manusan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1atausp/no_applegoogle_harmed/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:02:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
