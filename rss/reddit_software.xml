@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 03:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 06:15:35 GMT</lastBuildDate>
+    <item>
+      <title>下载 Twitch 视频、调节最大 DL 速度（DL 启动后向上和向下）、选择分辨率和帧速率、重命名文件、自动重新启动和停止/暂停下载的最佳 Windows 11 GUI 是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1atn0gv/what_is_the_best_windows_11_gui_to_download/</link>
+      <description><![CDATA[到目前为止，我已经尝试过 4K 视频下载器，它可以完成我想要的一切，除了它经常崩溃，所以我必须从头开始重新下载。我已经与开发人员联系了好几个星期，现在正在尝试他们所有不同的版本，但我们取得的进展为零。  我还使用过 Twitch Downloader，它非常完美，只是它只允许我在每个 DL 开始时设置最大 DL 带宽，而不是随时上下调节。  https://github.com/lay295/TwitchDownloader  提前致谢伙计们。    由   提交/u/jocogi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1atn0gv/what_is_the_best_windows_11_gui_to_download/</guid>
+      <pubDate>Sun, 18 Feb 2024 05:55:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何打开这个文件</title>
+      <link>https://www.reddit.com/r/software/comments/1atmxcj/how_do_i_open_this_file/</link>
+      <description><![CDATA[每当我打开它时，它都会显示此加密   由   提交 /u/Friendly-Log6683    reddit.com/gallery/1atmxcj&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1atmxcj/how_do_i_open_this_file/</guid>
+      <pubDate>Sun, 18 Feb 2024 05:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>从该网站下载流媒体视频的工具</title>
+      <link>https://www.reddit.com/r/software/comments/1atlvj4/tool_to_download_streamed_video_from_this_website/</link>
+      <description><![CDATA[您好！我敬爱的曾祖母的生命庆祝活动在此网站上进行了直播。 但是，如果你想下载该服务的副本，他们会要求你支付 40 美元或类似的费用，管他的！！ 我花了一些时间来研究它（开发者）工具之类的），以前我曾经很擅长这样的事情，但现在我觉得我只是太脱离现实了，你们能帮我找到一种下载她的服务的方法吗？  相当有趣的是，您可以在整个视频中随时从多个摄像机中进行选择，如果可能的话，我很乐意保留该功能！ 谢谢你们！ 💗   由   提交/u/lovenet99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1atlvj4/tool_to_download_streamed_video_from_this_website/</guid>
+      <pubDate>Sun, 18 Feb 2024 04:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是 Archive.rpa</title>
+      <link>https://www.reddit.com/r/software/comments/1atl2z9/what_is_archiverpa/</link>
+      <description><![CDATA[卸载是否安全，有什么用？    ;由   提交 /u/ChaoticIkonik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1atl2z9/what_is_archiverpa/</guid>
+      <pubDate>Sun, 18 Feb 2024 04:02:54 GMT</pubDate>
+    </item>
     <item>
       <title>寻求人工智能文章摘要器</title>
       <link>https://www.reddit.com/r/software/comments/1athfh5/seeking_an_ai_article_summarizer/</link>
@@ -55,7 +83,7 @@
       <pubDate>Sat, 17 Feb 2024 17:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>我的任务是组织和重命名各种外部硬盘驱动器中的数万个文件。我认为没有自动化的空间，因为必须使用很多自由裁量权。我应该使用什么软件来学习和记住快捷方式来优化这项耗时的任务？</title>
+      <title>我的任务是组织和重命名各种外部硬盘驱动器中的数万个文件。我认为没有自动化的空间，因为必须使用大量的自由裁量权。我应该使用什么软件来学习和记住快捷方式来优化这项耗时的任务？</title>
       <link>https://www.reddit.com/r/software/comments/1at6eih/ive_been_given_the_task_to_organize_and_rename/</link>
       <description><![CDATA[有人告诉我资源管理器不是正确的选择。 也许是一个基于文本的文件管理程序以提高速度？ 将会有大量的重命名和移动文件，以及解压缩和压缩（RAR 格式）。 感谢您的意见，操作系统是 Windows 11，所有驱动器上的文件系统都是 NTFS . 一些其他硬件详细信息 CPU 为 Intel 第 12 代 i9。 RAM 为 64GB（双通道）。 内部 NVMe SSD 为 4 TB Gen 4。 大多数数据是通过 USB-C 从外部访问的，尽管内部复制块是加快管理速度的一个选项？ 谢谢。 &lt; /div&gt;  由   提交/u/peacefulMercedes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1at6eih/ive_been_given_the_task_to_organize_and_rename/</guid>
@@ -76,39 +104,11 @@
       <pubDate>Sat, 17 Feb 2024 12:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>假设我有一个来自已恢复驱动器的图像文件夹。所有混乱的文件名。有些让我穿着红色衬衫，有些穿着黑色衬衫，还有一些穿着白色衬衫。是否有一个程序可以根据相似性将图像分组，然后创建新文件夹并将图像从程序内重定向到所述文件夹？</title>
+      <title>假设我有一个来自已恢复驱动器的图像文件夹。所有混乱的文件名。有些让我穿着红色衬衫，有些穿着黑色衬衫，还有一些穿着白色衬衫。是否有一个程序可以根据相似性将图像分组在一起，然后创建新文件夹并将图像从程序内重定向到所述文件夹？</title>
       <link>https://www.reddit.com/r/software/comments/1asykd8/say_i_have_an_image_folder_from_a_recovered_drive/</link>
       <description><![CDATA[想要从  C:\Users\me\Pictures\folder 包含所有恢复的图像&lt; /p&gt;  到...  C:\Users\me\Pictures\NEW\RedShirt C:\Users\me\图片\NEW\WhiteShirt C:\Users\me\Pictures\NEW\BlackShirt  （日期是一个完全不同的头痛问题，我不打算打扰)   由   提交 /u/Dulianiti   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1asykd8/say_i_have_an_image_folder_from_a_recovered_drive/</guid>
       <pubDate>Sat, 17 Feb 2024 10:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一款集成whatsapp和onenote的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1asxcwr/suggest_software_which_integrates_whatsapp_and/</link>
-      <description><![CDATA[我想设置，这样 我向 Whatsapp 中的特定群组发送一条消息，它会自动将其保存到一个群组请注意， 请建议任何具有此功能的软件   由   提交/u/badnaamkulfi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1asxcwr/suggest_software_which_integrates_whatsapp_and/</guid>
-      <pubDate>Sat, 17 Feb 2024 08:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找用于文件组织的免费软件（Windows 10）</title>
-      <link>https://www.reddit.com/r/software/comments/1aswut2/looking_for_freeware_for_file_organization/</link>
-      <description><![CDATA[已解决（有点）- 现在使用 Q-Dir。 问候！ 有人可以吗推荐一种比资源管理器更容易/更好地组织文件的方法？就像有时我最终会得到多达 8 个不同的资源管理器窗口，而找到正确的一个是一件痛苦的事情。 我喜欢这样的东西，我可以在一个窗口中打开不同的文件夹，但仍然可以预览等。&lt; /p&gt; 英语不是我的母语。希望这仍然有意义。 谢谢。   由   提交 /u/GW_Alithea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aswut2/looking_for_freeware_for_file_organization/</guid>
-      <pubDate>Sat, 17 Feb 2024 08:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法将 hdocs 转换为 PDF？</title>
-      <link>https://www.reddit.com/r/software/comments/1asvc0s/is_there_a_way_to_convert_hdocs_to_pdf/</link>
-      <description><![CDATA[我想在家中阅读多个 hdoc 文件，但它需要这个讨厌的闪存驱动器才能读取。我不能把闪存驱动器带回家。有没有办法将此 hdoc 文件转换为 PDF？   由   提交 /u/MikeWazowsk1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1asvc0s/is_there_a_way_to_convert_hdocs_to_pdf/</guid>
-      <pubDate>Sat, 17 Feb 2024 06:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用深色模式画布绘制替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1asquzu/paint_alternative_with_dark_mode_canvas/</link>
-      <description><![CDATA[嗨，我正在寻找一款具有深色模式画布的白板软件，其功能如下：ctrl + z，擦除全部内容并擦除部分书写内容。&lt; /p&gt;   由   提交/u/_Arthxr  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1asquzu/paint_alternative_with_dark_mode_canvas/</guid>
-      <pubDate>Sat, 17 Feb 2024 02:23:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
