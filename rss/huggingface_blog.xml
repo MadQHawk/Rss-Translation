@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Fri, 16 Feb 2024 12:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 09:12:19 GMT</lastBuildDate>
+    <item>
+      <title>🤗 PEFT迎来新的合并方式</title>
+      <link>https://huggingface.co/blog/peft_merging</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/peft_merging</guid>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>合成数据：利用开源节省金钱、时间和碳排放</title>
       <link>https://huggingface.co/blog/synthetic-data-save-costs</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/open-source-llms-as-agents</guid>
       <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 🤗 Transformer 微调 W2V2-Bert 以实现低资源 ASR</title>
-      <link>https://huggingface.co/blog/fine-tune-w2v2-bert</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/fine-tune-w2v2-bert</guid>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

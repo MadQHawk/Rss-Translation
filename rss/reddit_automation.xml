@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 19 Feb 2024 06:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 09:12:16 GMT</lastBuildDate>
+    <item>
+      <title>需要一个函数，使用 API 将我的问题的输出从 Chatgpt 导入到特定的 Excel 单元格中</title>
+      <link>https://www.reddit.com/r/automation/comments/1auim4o/need_a_function_that_import_the_output_of_my/</link>
+      <description><![CDATA[      需要一个函数，使用以下命令将我的问题的输出从 Chatgpt 导入到特定的 Excel 单元格API 找到了这个excel插件： deepanshu88/excelChatGPT/ ChatGPT的Excel插件的这个功能可以解决我的问题： AIAssistant_QnA（查询，段落）：它从您提供的自定义大文本中提供问题的答案。 - 查询：指定包含问题的单元格。 - 段落：指定包含大文本的单元格。 但我还没有数据“包含大文本” 哪个函数 cuold : .AIAssistant(text, [word_count]) ：使用 ChatGPT 生成搜索查询的输出。 - text ：要搜索的文本 - word_count ：可选。指定 ChatGPT 生成的输出的最大字数。 AAIAssistant_Chat(text, [reset]) ：像 ChatGPT 网站一样进行对话，记住之前的对话。 - 文本：要搜索的文本 - 重置：可选。开始/重置聊天会话。 AAIAssistant_FillData(rng_existingdata, rng_fill) ：通过在现有数据上训练 ChatGPT 来填充不完整的数据。 - rng_existingdata ：训练数据范围 - rng_fill ：指定需要填写的单元格。 AAIAssistant_Extractor(prompt, keywords) ：从您提供的文本中提取关键数据。关键数据可以是名称、地点、组织详细信息等。 - 提示：指定包含要从中提取关键数据的文本的单元格。 - 关键字：关键字可以是名称、地点、组织等&lt; /h2&gt; AIAssistant_Insights(rng_data, [prompt]) ：它从提供的数据集中生成数据见解。 - rng_data ：指定包含数据的单元格（包括标题）。 - 提示：可选。提供您想要的有关数据的具体信息。 AIAssistant_QnA（查询，段落）：它从您提供的自定义大文本中提供问题的答案。 - 查询：指定包含问题的单元格。 - pass ：指定包含大文本的单元格。   由   提交 /u/Independent-Bill-770   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1auim4o/need_a_function_that_import_the_output_of_my/</guid>
+      <pubDate>Mon, 19 Feb 2024 08:38:48 GMT</pubDate>
+    </item>
     <item>
       <title>您对明年完全由人工智能模型生成一部完整的好莱坞故事片有何赌注？</title>
       <link>https://www.reddit.com/r/automation/comments/1au8neg/what_is_your_bet_on_the_year_in_which_a/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>数据抓取</title>
       <link>https://www.reddit.com/r/automation/comments/1atanwg/data_scraping/</link>
-      <description><![CDATA[我正在寻求数据抓取方面的帮助。我建立了一个工作委员会，为了将新工作放在工作委员会上，我必须手动输入每一个工作。我看过人们介绍如何自动化该过程的视频，但我一直在努力抓取我需要的所有数据。我尝试了一些 Chrome 扩展程序，但有些扩展程序无法提取我需要的每条数据。我对计算机和代码知之甚少。我想找到一种方法从某些公司的职位发布和职位板上抓取正确的数据以在我的职位板上列出。我愿意聘请某人来教我如何抓取正确的数据，或者如果您也如何自动化该过程，我会雇用您来完成所有工作。 &lt;!-- SC_ON - -&gt;  由   提交 /u/FrontSecure8437   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻求数据抓取方面的帮助。我建立了一个工作委员会，为了将新工作放在工作委员会上，我必须手动输入每一个工作。我看过人们介绍如何自动化该过程的视频，但我一直在努力抓取我需要的所有数据。我尝试了一些 Chrome 扩展程序，但有些扩展程序无法提取我需要的每条数据。我对计算机和代码知之甚少。我想找到一种方法从某些公司的职位发布和职位板上抓取正确的数据以在我的职位板上列出。我愿意雇用某人来教我如何抓取正确的数据，或者如果您也如何自动化该过程，我会雇用您来完成所有工作。 &lt;!-- SC_ON - -&gt;  由   提交/u/FrontSecure8437  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1atanwg/data_scraping/</guid>
       <pubDate>Sat, 17 Feb 2024 19:54:30 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>屡获殊荣的应用人工智能书籍的第二版对于每个想了解如何在商业环境中应用人工智能的人来说都是一个很好的资源——周六之前免费提供 Kindle 版本</title>
       <link>https://www.reddit.com/r/automation/comments/1aqsr70/the_2nd_edition_of_the_awardwinning_applied_ai/</link>
-      <description><![CDATA[第一版在亚马逊上畅销，并被 CES 评选为 2018 年顶级科技书籍之一。以第一版中提供的基础知识为基础，同时引入有关生成式人工智能和大型语言模型 (LLM) 前沿领域的重要更新和新章节。 在有限的时间内（直到周六），您可以获取Kindle 版免费。 https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-商业电子书/dp/B0CV599T4C   由   提交/u/keatena57  [链接] [评论]]]></description>
+      <description><![CDATA[第一版在亚马逊上畅销，并被 CES 评选为 2018 年顶级科技书籍之一。以第一版中提供的基础知识为基础，同时引入有关生成式人工智能和大型语言模型 (LLM) 前沿领域的重要更新和新章节。 在有限的时间内（直到周六），您可以获取Kindle 版本免费。 https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-商业电子书/dp/B0CV599T4C   由   提交/u/keatena57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aqsr70/the_2nd_edition_of_the_awardwinning_applied_ai/</guid>
       <pubDate>Wed, 14 Feb 2024 17:40:15 GMT</pubDate>
     </item>
@@ -90,16 +97,9 @@
       <pubDate>Tue, 13 Feb 2024 22:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>有人愿意给我一个抖音机器人吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1apif0f/does_anybody_have_a_tiktok_bot_that_anybody_is/</link>
-      <description><![CDATA[ 由   提交 /u/ImpossibleFortune247   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1apif0f/does_anybody_have_a_tiktok_bot_that_anybody_is/</guid>
-      <pubDate>Tue, 13 Feb 2024 02:31:26 GMT</pubDate>
-    </item>
-    <item>
       <title>如何构建 LinkedIn 联系人助理以充分利用我的网络 [+实施指南]</title>
       <link>https://www.reddit.com/r/automation/comments/1apfprl/how_i_build_a_linkedin_contacts_assistant_to/</link>
-      <description><![CDATA[      如果利用您的网络就像询问 ChatGPT 一样简单怎么办？ 扩展您的网络是扩展您的“运气”表面积的最佳方式。 - 但你正在利用它吗？ 对于投资者来说，给创始人带来的主要价值是...→人脉（如果我错了，请纠正我）。 ”这一切都在于在正确的时间向正确的人进行强有力的介绍。” - Alexis Ohanian Sr.，776 &amp; 创始人。 Reddit。 我们大多数人都只是触及多年来建立的联系和关系的表面。 我们将它们放在 LinkedIn、Google 通讯录、或者您很少查询的 CRM。 有如此多的未开发潜力，我们甚至没有意识到就在我们的指尖。 我需要让这一切变得更容易。 因为，除了等待构建的数据库之外，还有什么网络呢？ 我导出了所有 LinkedIn 连接，并使用人工智能创建了一个强大的个人联系人助理。然后，我将其连接到一个强大的 AI 代理，该代理可以立即从 ChatGPT 中抓取任何 LinkedIn 个人资料。 这是一个 AI 助手，可以挖掘、丰富和研究您的 LinkedIn 网络 - 称之为 MyContactsGPT 🪄 这是我的使用方法它： → 🔍 搜索我的联系人 → 🤯直接通过 ChatGPT 丰富任何 LinkedIn 个人资料中的数据。 → ✍️ 在我的网络中的人员之间进行介绍。  → 📈 分析我的网络以查找模式 → 👥 与我的合作伙伴分享，让他们也可以利用我的网络。 任何风险投资合伙人或创始人可以利用此系统来查找联系人、充实他们，并在几秒钟内起草电子邮件简介。 演示时间！ ​ 利用您的网络 ​ 撰写简介并丰富 linkedin 个人资料 寻找介绍人 在这篇文章中，您还可以找到 Loom 视频演练：https://www.linkedin.com/feed/update/urn:li:activity:7161512751255789568/ &amp; #x200b; 通过自动化改进基础🏃‍♂⚡ 此助手的效果取决于您在 Google 表格中提供的数据 - 又名联系人库...因此我构建了互补的自动化。 它们使我能够利用 LinkedIn 中的其他字段来丰富联系人，并从关注者、合作伙伴或 Twitter 或 Instagram 等网络中获取新联系人。  &gt; ​ 想尝试一下吗？ 我已将其变成自动化包，逐步指导您- 不到 30 分钟即可了解如何设置该系统。 即插即用实施指南 ​ 您可以在此处获取副本。我免费赠送它。🏃‍♂️ https ://autodrive.lemonsqueezy.com/checkout/buy/285a6e7c-9c96-4541-8175-a6dffded47f0 如果您是风险投资家或忙碌的人，并希望我们为您提供帮助为您实现这一点，也可以选择进行实现调用:) ​ 想听听您的想法和意见吗？如何改进？ ​ 有效利用网络的投资回报率是多少？ &lt; /div&gt;  由   提交/u/AdSharp5950  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      如果利用您的网络就像询问 ChatGPT 一样简单会怎么样？ 扩展您的网络是扩展您的“运气”表面积的最佳方式。 - 但你正在利用它吗？ 对于投资者来说，给创始人带来的主要价值是...→人脉（如果我错了，请纠正我）。 ”这一切都在于在正确的时间向正确的人进行强有力的介绍。” - Alexis Ohanian Sr.，776 &amp; 创始人。 Reddit。 我们大多数人都只是触及多年来建立的联系和关系的表面。 我们将它们放在 LinkedIn、Google 通讯录、或者您很少查询的 CRM。 有如此多的未开发潜力，我们甚至没有意识到就在我们的指尖。 我需要让这一切变得更容易。 因为，除了等待构建的数据库之外，还有什么网络呢？ 我导出了所有 LinkedIn 连接，并使用人工智能创建了一个强大的个人联系人助理。然后，我将其连接到一个强大的 AI 代理，该代理可以立即从 ChatGPT 中抓取任何 LinkedIn 个人资料。 这是一个 AI 助手，可以挖掘、丰富和研究您的 LinkedIn 网络 - 称之为 MyContactsGPT 🪄 这是我的使用方法它： → 🔍 搜索我的联系人 → 🤯直接通过 ChatGPT 丰富任何 LinkedIn 个人资料中的数据。 → ✍️ 在我的网络中的人员之间进行介绍。  → 📈 分析我的网络以查找模式 → 👥 与我的合作伙伴分享，让他们也可以利用我的网络。 任何风险投资合伙人或创始人可以利用该系统来查找联系人、充实他们，并在几秒钟内起草电子邮件简介。 演示时间！ ​ 利用您的网络 ​ 撰写简介并丰富 linkedin 个人资料 寻找介绍人 在这篇文章中，您还可以找到 Loom 视频演练：https://www.linkedin.com/feed/update/urn:li:activity:7161512751255789568/ &amp; #x200b; 通过自动化改进基础🏃‍♂⚡ 此助手的效果取决于您在 Google 表格中提供的数据 - 又名联系人库...因此我构建了互补的自动化。 它们使我能够利用 LinkedIn 中的其他字段来丰富联系人，并从关注者、合作伙伴或 Twitter 或 Instagram 等网络中获取新联系人。  &gt; ​ 想尝试一下吗？ 我已将其变成自动化包，逐步指导您- 不到 30 分钟即可了解如何设置该系统。 即插即用实施指南 ​ 您可以在此处获取副本。我免费赠送它。🏃‍♂️ https ://autodrive.lemonsqueezy.com/checkout/buy/285a6e7c-9c96-4541-8175-a6dffded47f0 如果您是风险投资家或忙碌的人，并希望我们为您提供帮助为您实现这一点，也可以选择进行实现调用:) ​ 想听听您的想法和意见吗？如何改进？ ​ 有效利用网络的投资回报率是多少？ &lt; /div&gt;  由   提交/u/AdSharp5950  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1apfprl/how_i_build_a_linkedin_contacts_assistant_to/</guid>
       <pubDate>Tue, 13 Feb 2024 00:24:04 GMT</pubDate>
     </item>
