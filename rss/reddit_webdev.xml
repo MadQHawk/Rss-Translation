@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 18:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 21:13:21 GMT</lastBuildDate>
+    <item>
+      <title>构建这个脚本应用程序的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auytsh/best_way_to_build_this_scripting_app/</link>
+      <description><![CDATA[嗨。我正在寻求有关为我当前的销售工作创建基于网络的应用程序的最简单方法的建议。我对每个发短信的客户或多或少使用相同的脚本，并对姓名等进行一些细微的自定义。这些自定义会占用大量时间。 我希望有一种方法来创建模板带有下拉菜单或框的脚本来填充某些部分。我想要一个按钮，允许我复制整个脚本，以便我可以将其粘贴到不同的应用程序中。 是否有一种简单的无代码或低代码方法可以完成此任务？    由   提交 /u/Adventurous_Orchid51   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auytsh/best_way_to_build_this_scripting_app/</guid>
+      <pubDate>Mon, 19 Feb 2024 21:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求帮助恢复旧的网络项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auxye0/looking_for_help_reviving_an_old_web_project/</link>
+      <description><![CDATA[ 由   提交 /u/themedicd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auxye0/looking_for_help_reviving_an_old_web_project/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>死亡互联网理论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/</link>
+      <description><![CDATA[我目前正在学习网络开发，我的课堂上谈到了互联网本质上是如何逐年消亡的。机器人无处不在，网站和 SEO/算法的混乱化将一切都搞砸了。影响者过度饱和和内容过度曝光。  HN 上每周都会有多篇文章谈论好的网站如何消失或很难找到，以及应用程序如何成为公司比网站更好的面孔。年轻人使用 Tiktok 进行搜索的次数超过了 Google。  我也想过人工智能将如何吐出大量廉价的内容和信息，这些内容和信息只会让人们感到困惑/烦恼。你不知道该相信什么，而且你必须付出巨大的努力才能弄清楚你正在阅读的内容是否是由某些人工智能吐出来的。人工智能艺术和音乐已经开始进入 Spotify，但这一切听起来都很糟糕。我们还谈到了互联网最终将如何陷入困境，并且一大群人将基本上“离开”它。这也符合林迪效应。 你对此有何看法？    由   提交 /u/lizardelitecouncil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Html 网站滚动时卡住</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auxqgt/html_website_get_stuck_when_scrollin/</link>
+      <description><![CDATA[嘿开发人员， 我正在开发一个网站，一切正常。我遇到的唯一问题是在移动设备上。 我有 iPhone，所以当我在 Safari 上滚动时，搜索栏会变小。当发生这种情况时，网站会卡住并停止滚动。 我尝试了一些方法，例如删除页脚和更改布局。但它不起作用。 我做了一些研究，但找不到任何可以帮助我解决这个问题的东西。 我已经使用 google firebase 上传了该网站，以便你们可以自己使用。我希望它能被修复。 （我经验不足，仍在学习中）。谢谢大家！   由   提交 /u/7Jackks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auxqgt/html_website_get_stuck_when_scrollin/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建自定义 PDF</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auxccz/creating_a_custom_pdf/</link>
+      <description><![CDATA[我希望用户能够自定义和创建带有自定义字段、可更改徽标、可移动部分（如页脚和公司信息等）的发票 PDF，然后以 PDF 格式下载。 有我想象的那么难吗？是否可以通过创建图像（例如 .jpg）并将其野蛮地粘贴到 pdf 文档中来实现？ 对任何想法都持开放态度。谢谢。 编辑：Javascript   由   提交/u/JohnPaulie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auxccz/creating_a_custom_pdf/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的网站上自动生成信用报告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auwylq/automate_credit_reports_on_my_website/</link>
+      <description><![CDATA[您好！我经营一家小公司，需要信用报告才能提供服务。我正在寻求一些帮助，以弄清楚我的客户如何将他们的信息输入我的网站，以直接将他们的信用报告转发给我，而不是目前必须输入信息，然后我在付款后重新输入（非常低效）。欢迎任何提示、建议或答案！谢谢！   由   提交 /u/brntnf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auwylq/automate_credit_reports_on_my_website/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种编程语言学习和使用起来最有趣？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auwyaq/which_programming_language_is_the_most_enjoyable/</link>
+      <description><![CDATA[只是想知道哪种编程语言被大多数人认为学习和使用起来最有趣？   由   提交/u/Galaxianz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auwyaq/which_programming_language_is_the_most_enjoyable/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>manifest.json 的加载时间 >1 分钟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auwuiq/1_minute_loading_time_for_manifestjson/</link>
+      <description><![CDATA[      所以我在一段时间从我的网站上观察到这种非常奇怪的行为。第一次导航到它时 - 后续时间并不重要，因为它是 PWA 并且资源被缓存 - 加载时间非常长（即 1.3 分钟）。最初我认为这可能是后端的一些冷启动问题，但事实并非如此，因为即使一切都很热，它仍然会发生。 查看所附图像 - 看起来好像是在请求页面时的时间建立连接的要求很高。它等待的不是服务器，而是其他我不知道可能是什么的东西。 该网站部署在 Netlify 上，域名位于 Cloudflare 上。 DNS 记录配置为直接重定向到 Netlify，无需 Cloudflare 执行任何缓存或其他操作。我无法在 Netlify 上查看网站本身的任何指标或日志，因为我还没有支付 Pro 费用 - 这是一个业余爱好项目。 Cloudflare 上也有同样的情况。我使用 Netlify Edge 函数对基于使用 Go Netlify 函数从 PostgreSQL 无服务器数据库 (Neon) 检索的数据的请求进行一些 HTML 操作。 问题可能是什么？有人能指出我的方向吗？当我第一次部署这个时（大约 2023 年 5 月），它运行得非常好。这个问题出现得很晚，就像突然发生了什么变化一样。自第一次部署以来，我没有接触过任何配置。 网站是 popthegrid.com。 https://preview.redd.it/1nw6c020jljc1.png ?width=998&amp;format=png&amp;auto=webp&amp;s=3ab910fa5d691d8725cdff39307a40595e964389 manifest.json HTML 页面 ​   由   提交 /u/pixusnixus   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auwuiq/1_minute_loading_time_for_manifestjson/</guid>
+      <pubDate>Mon, 19 Feb 2024 19:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的 GitHub 存储库可以用来学习与 webdev 相关的内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auwsw3/what_are_some_good_github_repos_to_learn_stuff/</link>
+      <description><![CDATA[一有空就想看书   由   提交/u/AdInfinite9325   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auwsw3/what_are_some_good_github_repos_to_learn_stuff/</guid>
+      <pubDate>Mon, 19 Feb 2024 19:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugo SSG - 有没有简单的替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auwdet/hugo_ssg_is_there_any_simple_alternative/</link>
+      <description><![CDATA[我既不是 WebDev，也不是程序员（两者都已经是很久以前的事了），我需要创建一个现代且简单的投资组合/静态登陆页面地点。我遇到了hugo，但很难安装/使用任何漂亮的主题，所有这些主题都需要与 CLI 进行长时间的舞蹈才能安装它（例如下载 git、+ init 10 模块、+ 使用 npm，然后下载特殊版本的 PowerShell 7） Windows PowerShell，有些需要 git + bash，有些被放弃并且不能正确显示帖子，或者有非常棘手的内部文件夹结构或没有文档等等...）我花了两天时间尝试构建简单的两页网站和采用任何好的主题，但没有取得积极的成功。 是否有任何好用且简单易用的 SSG，有数百个主题可供选择？或者也许只是下载漂亮/响应式 HTML 模板的地方？   由   提交/u/ogrimia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auwdet/hugo_ssg_is_there_any_simple_alternative/</guid>
+      <pubDate>Mon, 19 Feb 2024 19:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Cloudflare Workers、Fly、Koyeb、Railway 和 Render 上部署了基本的 Hono 服务器，并比较了每个平台的延迟。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auunra/i_deployed_a_basic_hono_server_on_cloudflare/</link>
+      <description><![CDATA[   /u/tibozaurus   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auunra/i_deployed_a_basic_hono_server_on_cloudflare/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>命名个人网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auufvr/naming_personal_site/</link>
+      <description><![CDATA[我一直在开发一个个人作品集网站，并正在考虑获得一个域名，但我有一个非常常见的名字是“Sam Thomas”使得找到一个好的域名变得非常困难。  sam-thomas 无人认领，但我担心使用连字符可能看起来不专业，想知道人们是否有建议？或者我可以考虑使用不同的域名，例如 .online，但我对此也有同样的担忧    由   提交/u/shrimpton_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auufvr/naming_personal_site/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:23:46 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 React Query 组织 React 应用程序中的 API 层</title>
       <link>https://www.reddit.com/r/webdev/comments/1autbkz/how_to_organize_the_api_layer_in_react_apps_using/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我在一家公司经历了三轮面试，都非常顺利，在第三轮经理/面试官告诉我我会知道我是否会在 2-3 天内找到工作。快进一个月后，我要求更新情况，内部招聘人员为延误道歉，他们要求我与他们的技术主管进行 45 分钟的第四轮面试。  我真的不想浪费时间。是否可以接受告诉他们不，有没有办法做到这一点而不 100% 危及我在这家公司的机会？   由   提交 /u/unoumena   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ausa6c/should_i_do_a_fourth_interview_with_this_company/</guid>
       <pubDate>Mon, 19 Feb 2024 17:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>为好奇的软件工程师提供的学习资源集合👩🏾‍💻</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aus1m4/a_collection_of_learning_resources_for_curious/</link>
-      <description><![CDATA[       由   提交 /u/DominusKelvin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aus1m4/a_collection_of_learning_resources_for_curious/</guid>
-      <pubDate>Mon, 19 Feb 2024 16:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind HTML 登陆页面模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aurpgs/tailwind_html_landing_page_template/</link>
-      <description><![CDATA[       由   提交/u/tmoreton  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aurpgs/tailwind_html_landing_page_template/</guid>
-      <pubDate>Mon, 19 Feb 2024 16:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个聊天应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aur6xb/i_made_a_chatting_app/</link>
-      <description><![CDATA[https://cuptalk.onrender.com/  功能： • 发送和删除消息 • 回复 • 私聊和群聊  • 聊天活动（聊天成员打字时键入动画） • 离开和添加用户到群聊 • 用户在线状态 • 消息查看状态 • 用户个人资料自定义 • 群组信息自定义 • NSFW 图像检测+有趣的隐藏功能（如果您尝试上传图像）；） • 实时通知（但我目前在 safari 上可能遇到一些问题） 如果你们能测试一下并告诉我您的想法和建议，我将不胜感激 🙏🏻 我绝不是一个专家，这只是我探索后端的第二个项目 Stack：React、Express、MySQL 和 socket.io   由   提交 /u/Mjz11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aur6xb/i_made_a_chatting_app/</guid>
-      <pubDate>Mon, 19 Feb 2024 16:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React 和 C++ 创建数据结构和算法可视化页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aup8u4/creating_a_data_structures_and_algorithm/</link>
-      <description><![CDATA[您好，我目前正在学习 C++ 和 React (Next.js)，只是为了好玩。通常，当学习一门新语言时，我喜欢创建所有最流行的数据结构和算法。这次因为我也在学习 React，所以我想创建一个可以可视化数据结构和算法的页面。 这可能吗？有一些用于逻辑和反应显示的 C++ 代码吗？或者我需要使用诸如 openGL 之类的东西，然后将其显示在页面上？   由   提交 /u/JuanCiro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aup8u4/creating_a_data_structures_and_algorithm/</guid>
-      <pubDate>Mon, 19 Feb 2024 14:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有像静态网站那样的（好的）WordPress 免费托管解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aup5cx/are_there_good_free_hosting_solutions_for/</link>
-      <description><![CDATA[Netlify、Cloudflare Pages、Vercel、GitHub Pages 等都有非常棒的免费托管级别。但据我所知，这些解决方案都无法运行 WordPress。 有吗？  如果不是，什么才算是“好”呢？现在的 WordPress 托管平台（自从我研究非静态解决方案以来已经有一段时间了：P）。   由   提交 /u/crazybabyeater   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aup5cx/are_there_good_free_hosting_solutions_for/</guid>
-      <pubDate>Mon, 19 Feb 2024 14:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>MDN 上有完整的 CSS 文档吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1auoxd9/is_css_documented_fully_on_mdn/</link>
-      <description><![CDATA[CSS 是否完整记录在 MDN 上还是还剩下一些部分？是否有所有 CSS 部分的地图或列表？ （如 Flexbox、动画、网格系统、滚动捕捉）在 MDN 上称为模块   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1auoxd9/is_css_documented_fully_on_mdn/</guid>
-      <pubDate>Mon, 19 Feb 2024 14:44:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>将单例添加到我的 Sanity 仪表板，但“deskTool”已弃用。ts(6385)。我该怎么办？它仍然有效，但我担心它将来会起作用。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1auouu0/adding_singletons_to_my_sanity_dashboard_but/</link>
-      <description><![CDATA[   /u/realSNG   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1auouu0/adding_singletons_to_my_sanity_dashboard_but/</guid>
-      <pubDate>Mon, 19 Feb 2024 14:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌认证后端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1auno81/google_authentication_backend/</link>
-      <description><![CDATA[嗨，我正在尝试在我的应用程序中实现 google 登录。  我已经在前端实现了身份验证，并在后端创建了端点，在那里我发送在前端获得的令牌并验证它。现在我必须将用户添加到数据库中并生成 JWT 令牌，但我不确定应该存储和使用哪些信息来识别用户。一些教程说我应该存储从谷歌其他人那里收到的电子邮件，但我不应该存储这些电子邮件，而是使用 subject 字段。使用谷歌进行身份验证时存储用户数据的正确方法是什么？    由   提交/u/No_Chocolate9486   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1auno81/google_authentication_backend/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立一个交互式数据可视化网站，但迷失了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aundwm/building_an_interactive_data_visualization/</link>
-      <description><![CDATA[我想创建一个网站，该网站接受用户的文件，然后将这些文件中的数据可视化为图表、图形等，我只有一个公平的作为前端和 Web 开发人员，我有丰富的经验，并且我了解一点 Python。我应该关注后端的哪些内容。   由   提交/u/Sad_Balance_4059   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aundwm/building_an_interactive_data_visualization/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果只能购买一个人工智能工具，您会购买哪一个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aun3u0/which_ai_tool_would_you_purchase_if_you_could/</link>
-      <description><![CDATA[如果你只能选择一个。 查看投票   由   提交 /u/hiroshitanahashii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aun3u0/which_ai_tool_would_you_purchase_if_you_could/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chromium 浏览器从特定网站获取 JSON 时出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aumzm1/chromium_browsers_have_a_problem_fetching_json/</link>
-      <description><![CDATA[我不知道为什么会发生这种情况。 我正在尝试这样做，以便用户的 IP 地址用于获取将用于居中地图的坐标，但由于某种原因，Chromium 浏览器（我已在 Brave、Chrome、Edge、Opera GX 中打开它。但由于某种原因它在 Opera 浏览器中工作）阻止了 API 请求制作到特定网站！我总是收到 net::ERR_BLOCKED_BY_CLIENT。 我尝试在 Firefox 和 Safari iOS 浏览器（使用 vscode 开发隧道）中打开它，它效果很好！代码在下面。 fetch(&#39;https://api.ipgeolocation.io/ipgeo?apiKey=[我把我的 api 密钥放在这里]&#39;) .then(response =&gt; response .json()) .then(data =&gt; { const { 纬度, 经度 } = data; 地图(经度, 纬度); });  但是，如果我使用 http://ipwho.is/ 而不是 https://api.ipgeolocation.io/ipgeo?apiKey=[我输入了我的 api 密钥这里]，它适用于 chromium 浏览器，但不适用于 Safari iOS 浏览器！ 那么，什么给了！？我已经实现了一种解决方法，其中我有一个网站列表，将循环浏览这些网站，直到链接有效并且它确实有效，但我想了解为什么这种情况不断发生。 编辑 1：我有 AdGuard chrome 浏览器和 Firefox 中的 uBlock，以及 iOS 上的 AdGuard 应用   由   提交 /u/ImFromRwanda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aumzm1/chromium_browsers_have_a_problem_fetching_json/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 是不可能的，但没关系</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aumype/css_is_impossible_and_thats_okay/</link>
-      <description><![CDATA[   /u/TheNerdistRedditor   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aumype/css_is_impossible_and_thats_okay/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:12:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

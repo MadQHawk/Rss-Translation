@@ -4,11 +4,39 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 18:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 21:13:27 GMT</lastBuildDate>
+    <item>
+      <title>Project Octopus - Team Indigo Sword 的开源游戏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1auyo5b/project_octopus_team_indigo_swords_open_source/</link>
+      <description><![CDATA[大家好。我正在创建一个开源项目 - Project Octopus  - 与我们大学的另外两名学生一起参加我们的开源软件开发课程。我们正在构建一款 16 位自上而下的 2D 灵魂类中世纪赛博朋克（名字好长，天哪） 游戏。 我们在这里发帖有几个原因，并将把它们（与链接）如下： 1- 我们需要人们帮助我们为我们的 godot 游戏创造艺术和机制。如果有人愿意提供帮助或者知道我们在哪里可以找到帮助，请联系我们！2-我们需要人们为我们项目的后端。例如，我（作者）目前正在负责后端，并且确实需要一些帮助来管理数据库。我们正在寻找这方面的一些建议（以及一些 PR 😃）3-我们想要构建一个非常酷的自述文件，但我们不太确定如何做到这一点，所以如果有人有关于如何开始，请帮助我们😃。如果您有任何建议，请向我们提供！我们真的很想在这里创建一个很酷的项目。我们有一个不和谐服务器，但 sub 不允许我们将链接放在这里，所以私信我们进入:) 编辑：格式   由   提交/u/joao7808  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1auyo5b/project_octopus_team_indigo_swords_open_source/</guid>
+      <pubDate>Mon, 19 Feb 2024 21:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求帮助恢复旧的网络项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</link>
+      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Open Source at X”或工程博客给组织带来了什么价值。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1auxoef/what_value_does_open_source_at_x_or_an/</link>
+      <description><![CDATA[ 由   提交 /u/David_AnkiDroid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1auxoef/what_value_does_open_source_at_x_or_an/</guid>
+      <pubDate>Mon, 19 Feb 2024 20:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动 dockermake （为 docker/docker-compose 创建 Makefiles）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1auw5fb/started_dockermake_create_makefiles_for/</link>
+      <description><![CDATA[      我最近在 r/docker 并获得了大约 8 万次浏览，所以我决定启动一个名为 dockermake 的开源 npm 包。如果你们检查这个项目并给它一颗星，我将非常感激。 🌟  PS：它仍处于测试阶段，希望得到建设性的反馈。  Reddit 上关于 r/docker 的帖子：https://www.reddit.com /r/docker/comments/1atcomp/why_are_makefiles_not_the_norm_while_using_docker/#:~:text=Makefile%20was%20Designed%20in%2019xx,in%20Make%20when%20I%20can。 &lt; !-- SC_ON --&gt;  由   提交/u/basilyusuf1709  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1auw5fb/started_dockermake_create_makefiles_for/</guid>
+      <pubDate>Mon, 19 Feb 2024 19:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>开源游戏引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1auu4wh/open_source_game_engine/</link>
-      <description><![CDATA[嗨，我是一名软件工程师，去年 10 月被解雇了。 4 个月后，我将在下周开始一个新的角色，并在一家很棒的公司工作！在我有时间的 4 个月里，我在 pygame 之上构建了一个用 python 构建的开源游戏引擎。该项目进展顺利！但随着我的可用性即将急剧下降，我真的需要一些帮助来建立一个由感兴趣的人组成的社区来与我一起构建这个项目。 除了像这样的 reddit 线程吗？ 我为该项目创建的 github 帐户是 m-one-w，项目名称是 m1wengine。请随意查看！我使用 github 项目，目前积压的工作量很大，哈哈。 ​   由   提交 /u/ humanfrompluto   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是一名软件工程师，去年 10 月被解雇了。 4 个月后，我将在下周开始一个新的角色，并在一家很棒的公司工作！在我有时间的 4 个月里，我在 pygame 之上构建了一个用 python 构建的开源游戏引擎。该项目进展顺利！但随着我的可用性即将急剧下降，我真的需要一些帮助来建立一个由感兴趣的人组成的社区来与我一起构建这个项目。 除了像这样的 reddit 帖子吗？ 欢迎查看！我使用 github 项目，目前积压的工作量很大，哈哈。 https:// github.com/m-one-w/M1WEngine ​   由   提交 /u/ humanfrompluto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auu4wh/open_source_game_engine/</guid>
       <pubDate>Mon, 19 Feb 2024 18:12:07 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨，我正在寻找一个看起来有点像这样的许可证（我将某些内容与 ChatGPT 放在一起）：  具有商业限制的 MIT 许可证 版权所有 (c) [年份] [全名] 特此免费授予任何获得本软件及相关文档文件副本的人（“软件”），不受限制地处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售的权利 /&gt; 本软件的副本，前提是满足以下条件： 1. 允许在各种商业环境中使用本软件或其任何部分（包括修改版本），例如集成到产品、服务、或系统。1.1。但是，它不得成为其他公司提供的任何商业产品或服务的主要或主要方面。 1.2。如果本软件被用作其他公司提供的任何商业产品或服务的主要或主要部分，则必须从版权所有者处获得单独的许可或协议。3. 上述版权声明和本许可声明应适用包含在本软件的所有副本或重要部分中。本软件按“原样”提供，不提供任何类型的明示或暗示的保证，包括但不限于适销性、特定用途的适用性和不侵权的保证。在任何情况下， 作者或版权持有者均不对因 引起的任何索赔、损害或其他 责任（无论是合同诉讼、侵权行为还是其他行为）承担责任。与软件的联系或软件中的使用或其他交易。  我的想法是我想发布一个应用程序并希望允许商业用途，因为我个人在以下情况下感到恼火我找到了一个很好的工具，我只能在私人场合使用，而不能在工作中使用，但我也想保护我的作品不被出售或其他东西。我的目标是在允许商业使用和防止第三方直接销售或利用我的软件之间取得平衡。 有类似的建议或要点吗？也许某件事已经被证明了？ ​ 你们对此有何看法？您认为这仍然是开源吗？   由   提交 /u/mArKoLeW   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1au2974/modified_mit_license_with_restricted_commercial/</guid>
       <pubDate>Sun, 18 Feb 2024 19:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular 无头哈希节点 |开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1au1k2z/angular_headless_hashnode_open_source_project/</link>
-      <description><![CDATA[我想和大家分享一下我最近开始的 Angular 开源项目。 欢迎各个级别的 Angular 开发者协作 - https://github.com/monacodelisa/angular-headless-hashnode   由   提交 /u/monacodelisa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1au1k2z/angular_headless_hashnode_open_source_project/</guid>
-      <pubDate>Sun, 18 Feb 2024 18:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎉 想分享我的第一个开源项目的一个小里程碑：Logbun 今天收到了第一个贡献！一个简单的拼写错误修复，但对我来说是一个重要的里程碑。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1au0f9l/want_to_share_a_small_milestone_for_my_first/</link>
-      <description><![CDATA[   /u/Accomplished_Horse_4   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1au0f9l/want_to_share_a_small_milestone_for_my_first/</guid>
-      <pubDate>Sun, 18 Feb 2024 18:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>NxtCMS - NodeJS 无头 CMS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</link>
-      <description><![CDATA[一项开源计划，旨在为下一代应用程序构建和维护功能齐全的 CMS。在 MongoDB 的支持下使用 NodeJS 和 NextJS 构建。 欢迎合作者加入团队并帮助我们开发。 Github : https://github.com/nxtopen/nxtcms 加入我们！  &amp; #32；由   提交/u/gilzonme  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</guid>
-      <pubDate>Sun, 18 Feb 2024 15:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化网络抓取开源库反馈和提示</title>
-      <link>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</link>
-      <description><![CDATA[嗨，我正在和一群人一起开发一个开源库，目标是让这个项目成为首选用于抓取的工具库，类似于数据科学中的 pandas，与经典库的区别在于利用 LLM 和代理技术，我知道这是一个相当雄心勃勃的目标，为此我向您询问一些技巧和方法扩展维护者/贡献者以及如何发展此类项目。 此处存储库：https://github.com/ VinciGit00/Scrapegraph-ai   由   提交/u/lurenssss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</guid>
-      <pubDate>Sun, 18 Feb 2024 12:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
