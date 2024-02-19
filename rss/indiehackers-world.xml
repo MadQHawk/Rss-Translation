@@ -4,14 +4,26 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 06:17:42 GMT</lastBuildDate>
+    <item>
+      <title>Inc. 5000 名单 - 2023（CSV 和 PDF 格式）、公司名称、网址、位置、增长率、描述、成立时间、行业、员工人数、邮政编码</title>
+      <link>https://feed.indiehackers.world/post/b2ca791ebb</link>
+      <description><![CDATA[员工数量：评估这些企业（从初创企业到老牌企业）的规模和运营能力。
+邮政编码：深入了解这些公司的具体位置，帮助您进行市场研究和区域定位工作。
+无论您是市场研究员、投资者、业务分析师还是寻求灵感的企业家，Inc. 5000 强名单 - 2023 数据包都能为您提供做出明智决策和发现增长机会所需的工具。
+不要错过这个了解 2023 年表现最佳的公司的宝贵资源。立即获取 Inc. 5000 强名单 - 2023 年数据包，开始揭开商业成功的秘密！
+https://eastbrightmarketing.gumroad.com/l/inc5000-2023
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b2ca791ebb</guid>
+      <pubDate>Mon, 19 Feb 2024 04:04:09 GMT</pubDate>
+    </item>
     <item>
       <title>也许是个愚蠢的想法？</title>
       <link>https://feed.indiehackers.world/post/2a021f31ac</link>
       <description><![CDATA[我需要一些关于新功能的反馈。 
 我有一个产品，可以抓取数百万个 Reddit 帖子，并使用它们来生成产品创意和基本的营销工件。这是一个屏幕截图 - https://twitter.com/chinkapin_/status/ 1749568013257302358?t=bU_DfkK5R1wbZK0ab4RBWQ&amp;s=19
 我已经获得了大约 1000 个用户+良好的反馈，但是当我设置付费专区时，我没有获得任何销售。 
-我的问题是 - 如果用户可以部署一个使用生成的标题、产品名称等进行个性化的样板，结果会怎样？
+我的问题是 - 如果用户可以部署一个使用生成的标题、产品名称等进行个性化的样板，会怎么样？
 基本上，您愿意为个性化、经过验证的微型 SaaS 样板付费吗？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/2a021f31ac</guid>
@@ -28,7 +40,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>CompSci 项目 004 启动后</title>
       <link>https://feed.indiehackers.world/post/32b208bab6</link>
-      <description><![CDATA[使用 Python 轻松洞察数据集。查看最新的 After CompSci 项目，学习使用 Python 进行基本的探索性数据分析！并在全套课程推出前获得早鸟折扣。
+      <description><![CDATA[使用 Python 轻松洞察数据集。查看最新的 After CompSci 项目，学习使用 Python 进行基本的探索性数据分析！并在全套课程推出前获得早鸟优惠。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/32b208bab6</guid>
       <pubDate>Sun, 18 Feb 2024 23:50:40 GMT</pubDate>
@@ -149,13 +161,6 @@ https://twitter.com/itaydre/status/1759135712794783790
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f5046db9ea</guid>
       <pubDate>Sun, 18 Feb 2024 14:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在公开构建我的 SaaS（字面意思！）👀</title>
-      <link>https://feed.indiehackers.world/post/cb465e2c69</link>
-      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cb465e2c69</guid>
-      <pubDate>Sun, 18 Feb 2024 13:17:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

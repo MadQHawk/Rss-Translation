@@ -4,9 +4,9 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 06:15:52 GMT</lastBuildDate>
     <item>
-      <title>您对哪一年完全由人工智能模型生成一部完整的好莱坞故事片有何赌注？</title>
+      <title>您对明年完全由人工智能模型生成一部完整的好莱坞故事片有何赌注？</title>
       <link>https://www.reddit.com/r/automation/comments/1au8neg/what_is_your_bet_on_the_year_in_which_a/</link>
       <description><![CDATA[ 由   提交 /u/rhypple   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1au8neg/what_is_your_bet_on_the_year_in_which_a/</guid>
@@ -15,7 +15,7 @@
     <item>
       <title>计划基于 iOS/iPhone 应用逆向工程制作我自己的 tiktok SaaS 机器人解决方案出于自动化目的重建所有请求</title>
       <link>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</link>
-      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookies、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
+      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookie、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</guid>
       <pubDate>Sun, 18 Feb 2024 15:47:25 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>数据抓取</title>
       <link>https://www.reddit.com/r/automation/comments/1atanwg/data_scraping/</link>
-      <description><![CDATA[我正在寻求数据抓取方面的帮助。我建立了一个工作委员会，为了将新工作放在工作委员会上，我必须手动输入每一个工作。我看过人们介绍如何自动化该过程的视频，但我一直在努力抓取我需要的所有数据。我尝试了一些 Chrome 扩展程序，但有些扩展程序无法提取我需要的每条数据。我对计算机和代码知之甚少。我想找到一种方法从某些公司的职位发布和职位板上抓取正确的数据以在我的职位板上列出。我愿意雇用某人来教我如何抓取正确的数据，或者如果您也如何自动化该过程，我会雇用您来完成所有工作。 &lt;!-- SC_ON - -&gt;  由   提交/u/FrontSecure8437  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻求数据抓取方面的帮助。我建立了一个工作委员会，为了将新工作放在工作委员会上，我必须手动输入每一个工作。我看过人们介绍如何自动化该过程的视频，但我一直在努力抓取我需要的所有数据。我尝试了一些 Chrome 扩展程序，但有些扩展程序无法提取我需要的每条数据。我对计算机和代码知之甚少。我想找到一种方法从某些公司的职位发布和职位板上抓取正确的数据以在我的职位板上列出。我愿意聘请某人来教我如何抓取正确的数据，或者如果您也如何自动化该过程，我会雇用您来完成所有工作。 &lt;!-- SC_ON - -&gt;  由   提交 /u/FrontSecure8437   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1atanwg/data_scraping/</guid>
       <pubDate>Sat, 17 Feb 2024 19:54:30 GMT</pubDate>
     </item>
@@ -57,14 +57,14 @@
     <item>
       <title>帮助（自动化新手）我应该学习什么编程语言？</title>
       <link>https://www.reddit.com/r/automation/comments/1aqujgn/help_new_to_automation_what_programming_language/</link>
-      <description><![CDATA[[业务流程自动化] 嘿，我正在从虚拟助理转变为自动化专家。我对编程语言的背景为零，但很想认真对待并投入时间。我学得很快，我希望你们能给我一个时间表，告诉我如果我全职学习这些语言需要多长时间~每天 8 小时。 Make 和 Zapier 确实是用户友好的工具，我能够为我以前的一些客户设置一些自动化功能。非常感谢您的帮助！   由   提交/u/Super_Bank_798   [链接] [评论]]]></description>
+      <description><![CDATA[[业务流程自动化] 嘿，我正在从虚拟助理转变为自动化专家。我对编程语言的背景为零，但很想认真对待并真正投入时间。我学得很快，我希望你们能给我一个时间表，告诉我如果我全职学习这些语言需要多长时间~每天 8 小时。 Make 和 Zapier 确实是用户友好的工具，我能够为我以前的一些客户设置一些自动化功能。非常感谢您的帮助！   由   提交/u/Super_Bank_798   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aqujgn/help_new_to_automation_what_programming_language/</guid>
       <pubDate>Wed, 14 Feb 2024 18:51:38 GMT</pubDate>
     </item>
     <item>
       <title>屡获殊荣的应用人工智能书籍的第二版对于每个想了解如何在商业环境中应用人工智能的人来说都是一个很好的资源——周六之前免费提供 Kindle 版本</title>
       <link>https://www.reddit.com/r/automation/comments/1aqsr70/the_2nd_edition_of_the_awardwinning_applied_ai/</link>
-      <description><![CDATA[第一版在亚马逊上畅销，并被 CES 评选为 2018 年顶级科技书籍之一。以第一版中提供的基础知识为基础，同时引入有关生成人工智能和大型语言模型 (LLM) 前沿领域的重要更新和新章节。 限时（周六之前），您可以获取Kindle 版本免费。 https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-商业电子书/dp/B0CV599T4C   由   提交/u/keatena57  [链接] [评论]]]></description>
+      <description><![CDATA[第一版在亚马逊上畅销，并被 CES 评选为 2018 年顶级科技书籍之一。以第一版中提供的基础知识为基础，同时引入有关生成式人工智能和大型语言模型 (LLM) 前沿领域的重要更新和新章节。 在有限的时间内（直到周六），您可以获取Kindle 版免费。 https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-商业电子书/dp/B0CV599T4C   由   提交/u/keatena57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aqsr70/the_2nd_edition_of_the_awardwinning_applied_ai/</guid>
       <pubDate>Wed, 14 Feb 2024 17:40:15 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>如何构建 LinkedIn 联系人助理以充分利用我的网络 [+实施指南]</title>
       <link>https://www.reddit.com/r/automation/comments/1apfprl/how_i_build_a_linkedin_contacts_assistant_to/</link>
-      <description><![CDATA[      如果利用您的网络就像询问 ChatGPT 一样简单会怎么样？ 扩展您的网络是扩展您的“运气”表面积的最佳方式。 - 但你正在利用它吗？ 对于投资者来说，给创始人带来的主要价值是...→人脉（如果我错了，请纠正我）。 ”这一切都在于在正确的时间向正确的人进行强有力的介绍。” - Alexis Ohanian Sr.，776 &amp; 创始人。 Reddit。 我们大多数人都只是触及多年来建立的联系和关系的表面。 我们将它们放在 LinkedIn、Google 通讯录、或者您很少查询的 CRM。 有如此多的未开发潜力，我们甚至没有意识到就在我们的指尖。 我需要让这一切变得更容易。 因为，除了等待构建的数据库之外，还有什么网络呢？ 我导出了所有 LinkedIn 连接，并使用人工智能创建了一个强大的个人联系人助理。然后，我将其连接到一个强大的 AI 代理，该代理可以立即从 ChatGPT 中抓取任何 LinkedIn 个人资料。 这是一个 AI 助手，可以挖掘、丰富和研究您的 LinkedIn 网络 - 称之为 MyContactsGPT 🪄 这是我的使用方法它： → 🔍 搜索我的联系人 → 🤯直接通过 ChatGPT 丰富任何 LinkedIn 个人资料中的数据。 → ✍️ 在我的网络中的人员之间进行介绍。  → 📈 分析我的网络以查找模式 → 👥 与我的合作伙伴分享，让他们也可以利用我的网络。 任何风险投资合伙人或创始人可以利用该系统来查找联系人、充实他们，并在几秒钟内起草电子邮件简介。 演示时间！ ​ 利用您的网络 ​ 撰写简介并丰富 linkedin 个人资料 寻找介绍人 在这篇文章中，您还可以找到 Loom 视频演练：https://www.linkedin.com/feed/update/urn:li:activity:7161512751255789568/ &amp; #x200b; 通过自动化改进基础🏃‍♂⚡ 此助手的效果取决于您在 Google 表格中提供的数据 - 又名联系人库...因此我构建了互补的自动化。 它们使我能够利用 LinkedIn 中的其他字段来丰富联系人，并从关注者、合作伙伴或 Twitter 或 Instagram 等网络中获取新联系人。  &gt; ​ 想尝试一下吗？ 我已将其变成自动化包，逐步指导您- 不到 30 分钟即可了解如何设置该系统。 即插即用实施指南 ​ 您可以在此处获取副本。我免费赠送它。🏃‍♂️ https ://autodrive.lemonsqueezy.com/checkout/buy/285a6e7c-9c96-4541-8175-a6dffded47f0 如果您是风险投资家或忙碌的人，并希望我们为您提供帮助为您实现这一点，也可以选择进行实现调用:) ​ 想听听您的想法和意见吗？如何改进？ ​ 有效利用网络的投资回报率是多少？ &lt; /div&gt;  由   提交/u/AdSharp5950  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      如果利用您的网络就像询问 ChatGPT 一样简单怎么办？ 扩展您的网络是扩展您的“运气”表面积的最佳方式。 - 但你正在利用它吗？ 对于投资者来说，给创始人带来的主要价值是...→人脉（如果我错了，请纠正我）。 ”这一切都在于在正确的时间向正确的人进行强有力的介绍。” - Alexis Ohanian Sr.，776 &amp; 创始人。 Reddit。 我们大多数人都只是触及多年来建立的联系和关系的表面。 我们将它们放在 LinkedIn、Google 通讯录、或者您很少查询的 CRM。 有如此多的未开发潜力，我们甚至没有意识到就在我们的指尖。 我需要让这一切变得更容易。 因为，除了等待构建的数据库之外，还有什么网络呢？ 我导出了所有 LinkedIn 连接，并使用人工智能创建了一个强大的个人联系人助理。然后，我将其连接到一个强大的 AI 代理，该代理可以立即从 ChatGPT 中抓取任何 LinkedIn 个人资料。 这是一个 AI 助手，可以挖掘、丰富和研究您的 LinkedIn 网络 - 称之为 MyContactsGPT 🪄 这是我的使用方法它： → 🔍 搜索我的联系人 → 🤯直接通过 ChatGPT 丰富任何 LinkedIn 个人资料中的数据。 → ✍️ 在我的网络中的人员之间进行介绍。  → 📈 分析我的网络以查找模式 → 👥 与我的合作伙伴分享，让他们也可以利用我的网络。 任何风险投资合伙人或创始人可以利用此系统来查找联系人、充实他们，并在几秒钟内起草电子邮件简介。 演示时间！ ​ 利用您的网络 ​ 撰写简介并丰富 linkedin 个人资料 寻找介绍人 在这篇文章中，您还可以找到 Loom 视频演练：https://www.linkedin.com/feed/update/urn:li:activity:7161512751255789568/ &amp; #x200b; 通过自动化改进基础🏃‍♂⚡ 此助手的效果取决于您在 Google 表格中提供的数据 - 又名联系人库...因此我构建了互补的自动化。 它们使我能够利用 LinkedIn 中的其他字段来丰富联系人，并从关注者、合作伙伴或 Twitter 或 Instagram 等网络中获取新联系人。  &gt; ​ 想尝试一下吗？ 我已将其变成自动化包，逐步指导您- 不到 30 分钟即可了解如何设置该系统。 即插即用实施指南 ​ 您可以在此处获取副本。我免费赠送它。🏃‍♂️ https ://autodrive.lemonsqueezy.com/checkout/buy/285a6e7c-9c96-4541-8175-a6dffded47f0 如果您是风险投资家或忙碌的人，并希望我们为您提供帮助为您实现这一点，也可以选择进行实现调用:) ​ 想听听您的想法和意见吗？如何改进？ ​ 有效利用网络的投资回报率是多少？ &lt; /div&gt;  由   提交/u/AdSharp5950  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1apfprl/how_i_build_a_linkedin_contacts_assistant_to/</guid>
       <pubDate>Tue, 13 Feb 2024 00:24:04 GMT</pubDate>
     </item>
