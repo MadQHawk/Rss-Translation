@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 15:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 18:16:20 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 React Query 组织 React 应用程序中的 API 层</title>
+      <link>https://www.reddit.com/r/webdev/comments/1autbkz/how_to_organize_the_api_layer_in_react_apps_using/</link>
+      <description><![CDATA[我在我的 React 应用程序中已经使用了相当多的 React Query。它有助于分离 API 层。 最初我所做的是分离我的服务层。这是负责远程数据访问的层。 例如，假设我们有一个 Post 服务： ```ts // api/posts.service.ts&lt; /p&gt; export const getPosts = () =&gt; axios.get(“http://localhost:5000/posts”) export const createPost = ({标题，描述}：CreatePostParams) =&gt; axios.get(&quot;http://localhost:5000/posts&quot;) const postsService = { getPost, createPost, ... } ``` 这是朝着正确方向迈出的一步，并且与框架无关。 现在，下一步是创建自定义钩子包裹着反应查询钩子。所以我们会有这样的东西： ```ts import { UseQueryOptions, QueryKey, UseMutationOptions, MutationFunction, useQuery, } from &#39; @tanstack/react-query&#39;; const useGetPosts = ( options: UseQueryOptions, ) =&gt;; useQuery({ queryKey: [&#39;posts&#39;], queryFn: getPosts, options }); const useCreatePost = ( options: UseMutationOptions, ) =&gt;; useMutation({mutationFn:serviceFn as MutationFunction,...options,}); ``` 最后，您可以像任何其他钩子一样在组件中的某个位置使用它。 这种方法是朝着正确方向迈出的一步，但它有其缺陷：  p&gt;  我们必须跟踪所有这些类型（参数和响应类型） 我们必须手动创建每个新查询或突变 查询键是没有集中化的神奇字符串  如果我们能够以某种方式将整个 postsService 对象传递给某个函数，该函数将为我们生成所有这些钩子，那就太好了？ 我创建了一个开源库 react-query-factory ，它正是这样做的，我在我的所有项目中都使用它（但它现在在 npm 上成为了自己的库）： ```ts // 服务层 const postsService = { getPosts, createPosts, getPostById } // 查询层 const postsQueries = createQueriesFromService(postsService, &#39;posts&#39;) const PostsManager = () =&gt;; { const { data, isLoading } = postsQueries.getPosts.useQuery() // 完全类型安全的数据和选项等。 const { mutate } = postQueries.createPosts.useMutation()  const { data, isLoading } = postsQueries.getPostById.useQuery({id: &quot;123&quot;}) // 完全类型安全的参数等 const queryKey = postsQueries.getPostById.queryKey({id: &quot;; 123&quot;}) // 自动查询键处理 + 完全类型安全 const clickHandler = () =&gt;; { mutate({title: &quot;帖子标题&quot;, description: &quot;帖子描述&quot;}) // 完全类型安全的 mutate 函数 } return ...; } ``` 它简化了为服务层创建自定义挂钩的过程。服务层成为唯一的事实来源，并且是在需求发生变化时唯一需要修改的地方。这样我们就可以避免手动输入，因为所有内容都是从服务层推断出来的。 如果您愿意，可以阅读全文此处，或成为 github 存储库。 你如何管理你的 API 层？这是我真正感兴趣的话题，所以我想听听不同的意见。 祝你编码愉快！   由   提交 /u/veljkoza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1autbkz/how_to_organize_the_api_layer_in_react_apps_using/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现用户自定义域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1auszdt/how_to_implement_custom_domain_names_for_users/</link>
+      <description><![CDATA[我正在制作一个 saas 应用程序，它是一个网站构建器，用户可以在其中创建特定类型的网站。 我是通过 netlify 托管我的 ssr 应用程序。目前，用户创建的任何内容都托管在网站域的特定路由 (somesaasapp.com/&lt;username&gt;) 下。 我需要让他们添加自己的自定义域，这些域将映射到此特定路由，这对于每个用户来说都是唯一的，具体取决于他们的用户名。有没有人遇到过类似的问题？实现这个的最简单方法是什么？   由   提交/u/Similar_Philosophy_1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1auszdt/how_to_implement_custom_domain_names_for_users/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该对这家公司进行第四次面试吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ausa6c/should_i_do_a_fourth_interview_with_this_company/</link>
+      <description><![CDATA[我在一家公司经历了三轮面试，都非常顺利，在第三轮经理/面试官告诉我我会知道我是否会在 2-3 天内找到工作。快进一个月后，我要求更新情况，内部招聘人员为延误道歉，他们要求我与他们的技术主管进行 45 分钟的第四轮面试。  我真的不想浪费时间。是否可以接受告诉他们不，有没有办法做到这一点而不 100% 危及我在这家公司的机会？   由   提交 /u/unoumena   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ausa6c/should_i_do_a_fourth_interview_with_this_company/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为好奇的软件工程师提供的学习资源集合👩🏾‍💻</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aus1m4/a_collection_of_learning_resources_for_curious/</link>
+      <description><![CDATA[       由   提交 /u/DominusKelvin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aus1m4/a_collection_of_learning_resources_for_curious/</guid>
+      <pubDate>Mon, 19 Feb 2024 16:52:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailwind HTML 登陆页面模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aurpgs/tailwind_html_landing_page_template/</link>
+      <description><![CDATA[       由   提交/u/tmoreton  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aurpgs/tailwind_html_landing_page_template/</guid>
+      <pubDate>Mon, 19 Feb 2024 16:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个聊天应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aur6xb/i_made_a_chatting_app/</link>
+      <description><![CDATA[https://cuptalk.onrender.com/  功能： • 发送和删除消息 • 回复 • 私聊和群聊  • 聊天活动（聊天成员打字时键入动画） • 离开和添加用户到群聊 • 用户在线状态 • 消息查看状态 • 用户个人资料自定义 • 群组信息自定义 • NSFW 图像检测+有趣的隐藏功能（如果您尝试上传图像）；） • 实时通知（但我目前在 safari 上可能遇到一些问题） 如果你们能测试一下并告诉我您的想法和建议，我将不胜感激 🙏🏻 我绝不是一个专家，这只是我探索后端的第二个项目 Stack：React、Express、MySQL 和 socket.io   由   提交 /u/Mjz11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aur6xb/i_made_a_chatting_app/</guid>
+      <pubDate>Mon, 19 Feb 2024 16:18:31 GMT</pubDate>
+    </item>
     <item>
       <title>使用 React 和 C++ 创建数据结构和算法可视化页面？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aup8u4/creating_a_data_structures_and_algorithm/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[   /u/TheNerdistRedditor   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aumype/css_is_impossible_and_thats_okay/</guid>
       <pubDate>Mon, 19 Feb 2024 13:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>屏幕录制</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aumswq/screenrecording/</link>
-      <description><![CDATA[你们是否提供过您遇到的错误的屏幕录制？  或者你们是否曾经要求对错误进行屏幕录制来重现它？ 有没有任何屏幕录制工具可以做到这一点？我的开发人员目前面临着复制客户和质量保证团队所面临的错误的问题——他们位于不同的时区，并且面临着正确沟通的问题。对任何工具有什么建议吗？    由   提交 /u/Shitfuckusername   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aumswq/screenrecording/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩笑单元测试失败，无法扩展类，基类未定义，循环依赖？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aumm63/jest_unit_tests_failing_cant_extend_class_base/</link>
-      <description><![CDATA[大家好， 所以我在一个大型代码库上设置了玩笑。 而且我不断地得到诸如超级表达式必须为空或函数之类的错误 我运行了 madge，我得到了超过 2k 的循环 deps 我目前有点迷失了所有设置和任何内容有关如何应对这种情况的指示会很有帮助，ty : )   由   提交 /u/Heausty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aumm63/jest_unit_tests_failing_cant_extend_class_base/</guid>
-      <pubDate>Mon, 19 Feb 2024 12:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>您见过的最佳作品集网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aumb1n/best_portfolio_sites_you_have_ever_seen/</link>
-      <description><![CDATA[您见过的最佳作品集网站？   由   提交 /u/DanielQuickSilver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aumb1n/best_portfolio_sites_you_have_ever_seen/</guid>
-      <pubDate>Mon, 19 Feb 2024 12:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>易于使用且便宜的云服务器，具有高 RAM，适合前端开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aumat8/easy_to_use_and_cheap_cloud_server_with_high_ram/</link>
-      <description><![CDATA[嗨！ 我正在学习一些后端，想要将带有 puppeteer 爬虫的 dockerized Nodejs Express 服务器部署到服务器。  Puppeteer 使用大量 RAM，特别是用于屏幕截图，因此我需要一台 RAM 优化的服务器，最好是 32GB 以上，带有大约 2 个 CPU 和 20GB 存储空间。 我知道裸机是最便宜的，然后是 AWS、Google Cloud、Azure 等，但问题是我不太擅长后端，我想要一个易于部署的服务器，如 Render、Flyio 等。就像 PaaS 一样。 我知道我要求的是不可能的，但你可以忽略我的想法并建议我其他方式。 考虑 Linode，但显然我需要学习一些东西。 你会怎么做？您建议使用哪家云提供商？   由   提交 /u/hiccupq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aumat8/easy_to_use_and_cheap_cloud_server_with_high_ram/</guid>
-      <pubDate>Mon, 19 Feb 2024 12:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究 API/DAPI 市场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aum2um/research_apidapi_marketplace/</link>
-      <description><![CDATA[   大家好！我正在致力于 API 和 DAPI 市场的 UI/UX 工作，目前正处于研究阶段。我邀请您花 5 分钟时间完成有关上述市场的调查。您的贡献对于改进和调整平台以满足用户需求将非常有帮助。预先感谢您的宝贵时间和见解！   由   提交/u/MeatScepter1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aum2um/research_apidapi_marketplace/</guid>
-      <pubDate>Mon, 19 Feb 2024 12:24:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何准确地将 Figma 设计中的像素转换为 VH 或容器的百分比？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aul6h8/how_do_i_accurately_convert_pixels_to_vh_or/</link>
-      <description><![CDATA[抱歉，如果这是一个显而易见的问题，但我确实发现我的方法与我的方法非常不一致，而且我厌倦了必须“注意-”  我知道您可以在设计中除以查看器端口宽度，但在增加响应能力时，它更多地依赖于判断。有没有人有办法解决吗？    由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aul6h8/how_do_i_accurately_convert_pixels_to_vh_or/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:31:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
