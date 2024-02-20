@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 20 Feb 2024 09:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 12:21:23 GMT</lastBuildDate>
+    <item>
+      <title>人工智能在推荐系统和引擎中扮演什么角色？</title>
+      <link>https://www.reddit.com/r/programming/comments/1avfyxm/what_role_does_ai_play_in_recommendation_systems/</link>
+      <description><![CDATA[ 由   提交/u/ago459  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avfyxm/what_role_does_ai_play_in_recommendation_systems/</guid>
+      <pubDate>Tue, 20 Feb 2024 11:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maintenanceable.fm：Chad Fowler - 我们能把这个问题降到多小？</title>
+      <link>https://www.reddit.com/r/programming/comments/1avfnks/maintainablefm_chad_fowler_how_small_can_we_make/</link>
+      <description><![CDATA[ 由   提交/u/robbyrussell  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avfnks/maintainablefm_chad_fowler_how_small_can_we_make/</guid>
+      <pubDate>Tue, 20 Feb 2024 11:40:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>矢量数据库和相似性搜索解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1avfgde/vector_databases_similarity_search_explained/</link>
+      <description><![CDATA[ 由   提交/u/True_Hedgehog6990   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avfgde/vector_databases_similarity_search_explained/</guid>
+      <pubDate>Tue, 20 Feb 2024 11:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用子解释器运行 Python 并行应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1avfc0s/running_python_parallel_applications_with_sub/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avfc0s/running_python_parallel_applications_with_sub/</guid>
+      <pubDate>Tue, 20 Feb 2024 11:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notepad++ 的 Graphviz 语法高亮显示</title>
+      <link>https://www.reddit.com/r/programming/comments/1aveqej/graphviz_syntax_highlighting_for_notepad/</link>
+      <description><![CDATA[ 由   提交 /u/syrokomskyi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aveqej/graphviz_syntax_highlighting_for_notepad/</guid>
+      <pubDate>Tue, 20 Feb 2024 10:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>从长远来看，未来哪些编码语言会流行？</title>
+      <link>https://www.reddit.com/r/programming/comments/1avepb0/in_long_term_what_coding_languages_will_be/</link>
+      <description><![CDATA[Kotlin、Mojo、Python、Zig 和 Rust？   由   提交/u/BaiShan_99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avepb0/in_long_term_what_coding_languages_will_be/</guid>
+      <pubDate>Tue, 20 Feb 2024 10:39:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>您不需要前端开发人员来进行后台集成。但你确实需要采用者。</title>
+      <link>https://www.reddit.com/r/programming/comments/1avemlt/you_dont_need_frontend_developers_for_backstage/</link>
+      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avemlt/you_dont_need_frontend_developers_for_backstage/</guid>
+      <pubDate>Tue, 20 Feb 2024 10:34:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>复杂的侧边菜单| SwiftUI 教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1aveat4/complex_side_menu_swiftui_tutorial/</link>
+      <description><![CDATA[ 由   提交/u/MobileAppsAcademy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aveat4/complex_side_menu_swiftui_tutorial/</guid>
+      <pubDate>Tue, 20 Feb 2024 10:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 8 Web API、Angular 17 和 Tailwind CSS 分步指南！ 🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1avdrf4/a_stepbystep_guide_with_net_8_web_api_angular_17/</link>
+      <description><![CDATA[ 由   提交/u/ThisCar6196   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1avdrf4/a_stepbystep_guide_with_net_8_web_api_angular_17/</guid>
+      <pubDate>Tue, 20 Feb 2024 09:36:46 GMT</pubDate>
+    </item>
     <item>
       <title>在电脑前工作数小时后如何放松颈部肌肉？</title>
       <link>https://www.reddit.com/r/programming/comments/1avd4jd/how_can_i_relax_my_neck_muscles_after_hours_of/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/Stanulilic  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1avbquw/dozzle_an_interactive_webbased_ui_for_viewing/</guid>
       <pubDate>Tue, 20 Feb 2024 07:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个 Web 开发人员都应该学习的新 JavaScript 数组方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1avbq8m/new_javascript_array_methods_that_every_web/</link>
-      <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1avbq8m/new_javascript_array_methods_that_every_web/</guid>
-      <pubDate>Tue, 20 Feb 2024 07:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>测量能源使用情况：常规代码与 SIMD 代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1avapz8/measuring_energy_usage_regular_code_vs_simd_code/</link>
-      <description><![CDATA[ 由   提交/u/Specialist_Disk_8087   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1avapz8/measuring_energy_usage_regular_code_vs_simd_code/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频：4 位 Web 开发人员、1 个应用程序创意（Salma Alam-Naylor、Scott Tolinski、Eve Porcello）</title>
-      <link>https://www.reddit.com/r/programming/comments/1avaiw3/video_4_web_devs_1_app_idea_salma_alamnaylor/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1avaiw3/video_4_web_devs_1_app_idea_salma_alamnaylor/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布推出中国版 web.dev</title>
-      <link>https://www.reddit.com/r/programming/comments/1av9epl/announcing_webdev_for_china/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av9epl/announcing_webdev_for_china/</guid>
-      <pubDate>Tue, 20 Feb 2024 05:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释器第三部分：构建即时 (JIT) 编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1av7fv0/interpreters_part_iii_building_a_justintime_jit/</link>
-      <description><![CDATA[ 由   提交/u/sourceprobe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av7fv0/interpreters_part_iii_building_a_justintime_jit/</guid>
-      <pubDate>Tue, 20 Feb 2024 03:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Audio 开源版本</title>
-      <link>https://www.reddit.com/r/programming/comments/1av57ad/steam_audio_open_source_release/</link>
-      <description><![CDATA[ 由   提交 /u/LAUAR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av57ad/steam_audio_open_source_release/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pulsar，自 Atom 以来最好的代码编辑器</title>
-      <link>https://www.reddit.com/r/programming/comments/1av5031/pulsar_the_best_code_editor_since_atom/</link>
-      <description><![CDATA[ 由   提交/u/OttoKekalainen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av5031/pulsar_the_best_code_editor_since_atom/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用代码行善</title>
-      <link>https://www.reddit.com/r/programming/comments/1av4qd8/using_code_for_good/</link>
-      <description><![CDATA[我在上面链接了构建我的第一个 Web 应用程序的过程，该应用程序为跑步者生成锻炼以防止受伤。我真的很感激关于我下次如何改进以及这次进展顺利的建议。我尝试利用我的编码知识对人们的健康产生良好的影响。    由   提交/u/Relevant-Trade4773  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av4qd8/using_code_for_good/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频：10 分钟内为 React 开发人员提供 HTMX</title>
-      <link>https://www.reddit.com/r/programming/comments/1av3iyz/video_htmx_for_react_developers_in_10_minutes/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1av3iyz/video_htmx_for_react_developers_in_10_minutes/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:18:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

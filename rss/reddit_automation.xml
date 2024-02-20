@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 20 Feb 2024 09:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 12:20:20 GMT</lastBuildDate>
     <item>
       <title>如何实现扫地机器人的自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1avbeu7/how_to_automate_vacuum_robot/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>计划基于 iOS/iPhone 应用逆向工程制作我自己的 tiktok SaaS 机器人解决方案出于自动化目的重建所有请求</title>
       <link>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</link>
-      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookie、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
+      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用 C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookie、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</guid>
       <pubDate>Sun, 18 Feb 2024 15:47:25 GMT</pubDate>
     </item>
