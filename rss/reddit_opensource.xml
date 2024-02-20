@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 12:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:13:03 GMT</lastBuildDate>
+    <item>
+      <title>Painless Linux Servers：加速设置 VPS 服务器的工具。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avj3qv/painless_linux_servers_a_tool_to_speed_up_setting/</link>
+      <description><![CDATA[我时不时要做的最烦人的事情之一：就是在 Linux 机器上一遍又一遍地安装相同的东西。我通常只需要启动一个 LAMP 服务器或 Python 服务器来进行机器学习。 为了节省自己的时间并自动化这些无聊的事情 - 我构建了 Scriptables：https://plexscriptables.com/ Scriptables 是一种 GUI，用于设置 LAMP 类型服务器，并从一个地方管理服务器的防火墙和 CRONS。易于使用的 GUI。 100% 开源且免费使用。   由   提交 /u/KevinCoder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avj3qv/painless_linux_servers_a_tool_to_speed_up_setting/</guid>
+      <pubDate>Tue, 20 Feb 2024 14:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 的 opentrack 克隆！ （把招工广告）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aviwtf/a_opentrack_clone_for_linux_help_wanted/</link>
+      <description><![CDATA[ 由   提交 /u/r6memelord   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aviwtf/a_opentrack_clone_for_linux_help_wanted/</guid>
+      <pubDate>Tue, 20 Feb 2024 14:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>70-78% 的公司使用开源软件，50-65% 的开发人员为开源做出贡献。探索开源领域的初创企业、趋势和商业理念</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aviv59/7078_of_companies_use_opensource_software_and/</link>
+      <description><![CDATA[       由   提交/u/no-lavash  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aviv59/7078_of_companies_use_opensource_software_and/</guid>
+      <pubDate>Tue, 20 Feb 2024 14:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关开源项目商业化的建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avi6ul/seeking_advice_on_commercializing_an_open_source/</link>
+      <description><![CDATA[我正在寻找一些有关将我一直在从事的开源项目商业化的建议。该项目旨在部署在客户的云帐户中，而不是传统的 SaaS 产品中。 我有兴趣听取其他已成功商业化开源项目的人的意见。哪些策略对您有效？以下是我的一些具体问题： 1.您如何定义您的价值主张并如何在拥挤的市场中使您的产品脱颖而出？2.您采取了哪些步骤来围绕您的项目建立社区，以及您是如何促进参与和贡献的？ 3.您提供了哪些专业服务或增值功能来产生收入？ 4.您是如何实现盈利的，以及您使用了什么许可模式？&lt; br /&gt; 5.您遇到过哪些挑战，是如何克服的？  我期待听到社区的声音并从你们的经验中学习。任何有关这方面的资源也都很棒。  预先感谢您的帮助！   由   提交 /u/irensaltali   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avi6ul/seeking_advice_on_commercializing_an_open_source/</guid>
+      <pubDate>Tue, 20 Feb 2024 13:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好！查看 Pilot：一种动态类型编程语言，其编译器是用 C++ 编写的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avgzqa/hey_guys_check_out_pilot_a_dynamically_typed/</link>
+      <description><![CDATA[链接到项目和语法文档：https:// github.com/ary27x/pilot 我是来自印度的一年级学生，我将其作为我的学期项目。欢迎您的反馈......（这是我第一次制作编译器，所以请原谅菜鸟的错误） 编辑：我确实在我的 yt 频道上流式传输了开发过程的某些部分，这里是播放列表： https://www.youtube.com/playlist?list=PLm7R-cUo29CVmWXQ2ZiaGcUIOVy0FEGaH    由   提交/u/Efficient_Creme1900   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avgzqa/hey_guys_check_out_pilot_a_dynamically_typed/</guid>
+      <pubDate>Tue, 20 Feb 2024 12:55:49 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个 OSS 库来检测 GO 跟踪。 Go/Chi 路由在 golang 项目中广泛使用，但开放遥测不支持其检测。该库已被 OTEL 在其注册表中接受。如果您喜欢该项目，我们将赞赏存储库上的星星</title>
       <link>https://www.reddit.com/r/opensource/comments/1avf5pv/i_created_an_oss_library_to_instrument_go_traces/</link>
@@ -27,16 +62,16 @@
       <pubDate>Tue, 20 Feb 2024 07:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大的闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
+      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</link>
-      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的旧版 IDE 配合使用，而且由于 Arduino 和开发板版本更新得非常快，不可能每次有新版本出现时都更新我们所有的程序。 但是，如果你真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
+      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的较旧 IDE 配合使用，并且由于 Arduino 和开发板版本更新得非常快，因此不可能每次有新版本出现时都更新我们所有的程序。 但是，如果您真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</guid>
       <pubDate>Tue, 20 Feb 2024 06:10:04 GMT</pubDate>
     </item>
     <item>
       <title>React-print-pdf：一个使用 React 生成 PDF 的开源库</title>
       <link>https://www.reddit.com/r/opensource/comments/1av4f7v/reactprintpdf_an_opensource_library_to_generate/</link>
-      <description><![CDATA[大家好，在过去的几周里，我和两个朋友一直在开发一个名为“react-print-pdf&quot;。我们的目标？为开发人员提供更好的 PDF 设计方式。我们厌倦了处理 Overleaf 上的 LaTeX 和 Microsoft Word 上的 docx，因此我们开始创建一些利用现代 Web 技术（例如 React）的东西 您可以从库中获得什么？ - 与我们使用的其他库不同，我们让您完全控制 PDF 的布局：边距、字体、样式、图像、图表、表格——一切。像设计网站一样设计 PDF。 - 我们已经构建了 React 组件，例如页脚、页眉和脚注，以及报告、发票、保密协议、简历等模板。我们不断添加新的模板/组件并鼓励社区做出贡献（请继续关注我们即将推出的市场，您将在其中找到所有社区模板）。 - 将数据库中的动态数据直接无缝集成到您的文档中。  工作流程简单但功能强大：React --&gt; HTML x CSS --&gt; PDF  我们很想听听您的想法！如果您有兴趣做出贡献，可以在我们的文档中找到所有信息，或者您也可以加入我们的Discord 并与社区其他成员聊天。  ⭐️ 查看我们的存储库，如果您喜欢所看到的内容，请为其加注星标，并发表评论以分享您的反馈：https://github.com/OnedocLabs/react-print-pdf  奖励：我们实现了“Markdown”今天的组件，所以如果您想用 Markdown 编写 PDF 的某些部分，现在就可以。我们很想听听您关于如何使这个库更好、对开发人员有用的一些想法！    由   提交 /u/atroskalov   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，在过去的几周里，我和两个朋友一直在开发一个名为“react-print-pdf&quot;。我们的目标？为开发人员提供更好的 PDF 设计方式。我们厌倦了处理 Overleaf 上的 LaTeX 和 Microsoft Word 上的 docx，因此我们开始创建一些利用现代 Web 技术（例如 React）的东西 您可以从库中获得什么？ - 与我们使用的其他库不同，我们让您完全控制 PDF 的布局：边距、字体、样式、图像、图表、表格——一切。像设计网站一样设计 PDF。 - 我们已经构建了 React 组件，例如页脚、页眉和脚注，以及报告、发票、保密协议、简历等模板。我们不断添加新的模板/组件，并鼓励社区做出贡献（请继续关注我们即将推出的市场，您将在其中找到所有社区模板）。 - 将数据库中的动态数据直接无缝集成到您的文档中。  工作流程简单但功能强大：React --&gt; HTML x CSS --&gt; PDF  我们很想听听您的想法！如果您有兴趣做出贡献，可以在我们的文档中找到所有信息，或者您也可以加入我们的Discord 并与社区其他成员聊天。  ⭐️ 查看我们的存储库，如果您喜欢所看到的内容，请为其加注星标，并发表评论以分享您的反馈：https://github.com/OnedocLabs/react-print-pdf  奖励：我们实现了“Markdown”今天的组件，所以如果您想用 Markdown 编写 PDF 的某些部分，现在就可以。我们很想听听您关于如何使这个库更好、对开发人员有用的一些想法！    由   提交 /u/atroskalov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1av4f7v/reactprintpdf_an_opensource_library_to_generate/</guid>
       <pubDate>Tue, 20 Feb 2024 00:58:52 GMT</pubDate>
     </item>
@@ -64,7 +99,7 @@
     <item>
       <title>寻求帮助恢复旧的网络项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</link>
-      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
+      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理能力的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</guid>
       <pubDate>Mon, 19 Feb 2024 20:36:40 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/David_AnkiDroid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auxoef/what_value_does_open_source_at_x_or_an/</guid>
       <pubDate>Mon, 19 Feb 2024 20:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动 dockermake （为 docker/docker-compose 创建 Makefiles）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auw5fb/started_dockermake_create_makefiles_for/</link>
-      <description><![CDATA[      我最近在 r/docker 并获得了大约 8 万次浏览，所以我决定启动一个名为 dockermake 的开源 npm 包。如果你们检查这个项目并给它一颗星，我将非常感激。 🌟  PS：它仍处于测试阶段，希望得到建设性的反馈。  Reddit 上关于 r/docker 的帖子：https://www.reddit.com /r/docker/comments/1atcomp/why_are_makefiles_not_the_norm_while_using_docker/#:~:text=Makefile%20was%20Designed%20in%2019xx,in%20Make%20when%20I%20can。 &lt; !-- SC_ON --&gt;  由   提交/u/basilyusuf1709  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auw5fb/started_dockermake_create_makefiles_for/</guid>
-      <pubDate>Mon, 19 Feb 2024 19:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源游戏引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auu4wh/open_source_game_engine/</link>
-      <description><![CDATA[嗨，我是一名软件工程师，去年 10 月被解雇了。 4 个月后，我将在下周开始一个新的角色，并在一家很棒的公司工作！在我有时间的 4 个月里，我在 pygame 之上构建了一个用 python 构建的开源游戏引擎。该项目进展顺利！但随着我的可用性即将急剧下降，我真的需要一些帮助来建立一个由感兴趣的人组成的社区来与我一起构建这个项目。 除了像这样的 reddit 帖子吗？ 欢迎查看！我使用 github 项目，目前积压的工作量很大，哈哈。 https:// github.com/m-one-w/M1WEngine ​   由   提交 /u/ humanfrompluto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auu4wh/open_source_game_engine/</guid>
-      <pubDate>Mon, 19 Feb 2024 18:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目是否应该允许禁用遥测？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ausyxa/should_opensource_projects_allow_disabling/</link>
-      <description><![CDATA[我们刚刚让一位用户提交了问题和 PR，以恢复我们之前所做的更改，即删除禁用遥测的选项。我们认为与早期开发的开源工具的作者分享使用数据是一个公平的要求；但用户的观点也是完全可以理解的。我们这里错了吗？ https://github.com/diggerhq/digger/issues/1179 当然，我们不是第一家面临这种困境的开源公司。我们不想疏远社区；但失去使用可见性听起来也不太好。给人们“更多隐私”按钮，大多数人都会按下它。有快乐的媒介吗？  （我们还在 HN 上发布了此内容，x-posting 在这里，以便我们对下一步要采取的步骤有一个明智的看法）  &amp; #32；由   提交/u/utpalnadiger  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ausyxa/should_opensource_projects_allow_disabling/</guid>
-      <pubDate>Mon, 19 Feb 2024 17:27:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 Adguard home 和 redis 的帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aus4hh/help_with_adguard_home_and_redis/</link>
-      <description><![CDATA[大家好！我想在 Docker 中使用 redis 安装 adguard home，但无法让 redis 用作缓存。有人使用 adguard home 和 redis 作为缓存吗？谁能帮我将 redis 配置为 adguard 缓存？如果有人可以告诉我你需要什么。诚挚的问候   由   提交/u/jrodenas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aus4hh/help_with_adguard_home_and_redis/</guid>
-      <pubDate>Mon, 19 Feb 2024 16:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有错误报告或功能请求</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auodck/no_bug_report_or_feature_request/</link>
-      <description><![CDATA[我创建了一个开源应用程序并发布在 Github 上。我相信有一些用户，因为有一些明星。 自从我几个月前发布以来，Github 上没有创建任何问题。很安静。与我的其他开源库相比，这是非常不同的，这些库在发布后很快就收到了问题。 但我的应用程序并非没有错误。我自己经常发现严重的错误。也许用户遇到bug就直接转身了。我将设置一些自动测试。除了技术解决方案之外，如何鼓励用户报告错误而不是离开？   由   提交 /u/CommunicationFun2962   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auodck/no_bug_report_or_feature_request/</guid>
-      <pubDate>Mon, 19 Feb 2024 14:19:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
