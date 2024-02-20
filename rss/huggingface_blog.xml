@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Mon, 19 Feb 2024 09:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 09:11:55 GMT</lastBuildDate>
+    <item>
+      <title>介绍开放式 Ko-LLM 排行榜：引领韩国 LLM 评估生态系统</title>
+      <link>https://huggingface.co/blog/leaderboards-on-the-hub-upstage</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-upstage</guid>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>🤗 PEFT迎来新的合并方式</title>
       <link>https://huggingface.co/blog/peft_merging</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gcp-partnership</guid>
       <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源法学硕士作为 LangChain 代理</title>
-      <link>https://huggingface.co/blog/open-source-llms-as-agents</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/open-source-llms-as-agents</guid>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

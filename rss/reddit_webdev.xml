@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 03:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 09:13:12 GMT</lastBuildDate>
     <item>
-      <title>是否值得在下一个应用程序路由器中使用反应上下文？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av6ncz/is_it_worth_using_react_context_in_next_app_router/</link>
-      <description><![CDATA[最初，在每个需要的页面/组件上获取用户所需的所有数据的想法似乎让我感到不舒服，但是在纠结了实现上下文之后我想放弃。在应用程序路由器中感觉超级笨拙，您必须做的所有事情只是从服务器获取数据，然后将其设置为上下文状态。此外，当您使用 url 而不是链接进行导航时，上下文会被重置。我在这里做错了什么吗？我似乎找不到任何关于在应用程序路由器中以有意义的方式使用上下文（涉及从服务器获取的数据）的好资源，但我即将放弃。   由   提交/u/JackedIvyLeaguer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av6ncz/is_it_worth_using_react_context_in_next_app_router/</guid>
-      <pubDate>Tue, 20 Feb 2024 02:40:57 GMT</pubDate>
+      <title>有人有 nginx 下 http3/quic 的“最佳实践”指南吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avddzy/anyone_have_a_best_practices_guide_for_http3quic/</link>
+      <description><![CDATA[我工作很快（由 https://http3check.net 验证/），但发现我网站的上传速度因此受到影响。 我后来添加了 http3_stream_buffer_size 1m; （默认为 64k&lt; /code&gt;）并且速度已经大大提高，至少提高了一个数量级。 这太棒了，“问题解决了”。但没有任何地方告诉我在设置快速设置时要这样做。我想知道我目前可能没有意识到的其他陷阱，或者应该针对大多数人的用例更改哪些其他默认设置。 谢谢。 &lt;!-- SC_ON - -&gt;  由   提交/u/codemunky  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avddzy/anyone_have_a_best_practices_guide_for_http3quic/</guid>
+      <pubDate>Tue, 20 Feb 2024 09:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>许多网站使用 JavaScript“按钮”而不是超链接，这会阻止您在新选项卡中打开内容。这是否有任何真正的目的，或者只是公司不必要地强迫您以某种方式使用该网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av6a50/a_lot_of_websites_use_javascript_buttons_instead/</link>
-      <description><![CDATA[我说“按钮”因为很多时候它们并不是真正的按钮，它们只是看起来像通常的超链接，但它的行为仍然像一个按钮，因为您无法将鼠标悬停在它上面并查看 URL 或在新选项卡中打开它。  我目前在搜索页面上的 OfferUp 上，我尝试在新选项卡中打开我的帐户设置，但我注意到我的浏览器没有将其检测为链接，我已经看到了数千次之前，这让我想问。 https://i.imgur.com/m7q2gLx .jpeg 只是好奇是否有任何真正好的理由这样做？   由   提交 /u/drippyneon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av6a50/a_lot_of_websites_use_javascript_buttons_instead/</guid>
-      <pubDate>Tue, 20 Feb 2024 02:23:42 GMT</pubDate>
+      <title>您能为经销商托管推荐一个可靠的邮箱吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avdb1x/can_you_recommend_a_solid_mailbox_for_reseller/</link>
+      <description><![CDATA[我们托管我们构建的大部分网站，但我们的大多数客户都有自己的 IT 团队来管理域名和电子邮件。 &lt; p&gt;有时，我们的小客户也会要求电子邮件托管，但我不确定最好的解决方案是什么。 通常，我会鼓励客户设置自己的 365 或 Google Workspace 帐户，但什么是最好的解决方案？我们代表他们进行管理的最佳选择是什么？   由   提交 /u/tomjazzman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avdb1x/can_you_recommend_a_solid_mailbox_for_reseller/</guid>
+      <pubDate>Tue, 20 Feb 2024 09:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>API测试错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av5kkl/api_testing_error/</link>
-      <description><![CDATA[       由   提交 /u/Zealousideal-Ad9018    reddit.com/gallery/1av5kkl&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av5kkl/api_testing_error/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:51:29 GMT</pubDate>
+      <title>更新：OneUptime - 开源 StatusPage.io + Incident.io + Loggly 替代方案。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avcxg5/update_oneuptime_open_source_statuspageio/</link>
+      <description><![CDATA[OneUptime (https://github.com/oneuptime/oneuptime ）是 StausPage.io + UptimeRobot + Loggly + PagerDuty 的开源替代品。它 100% 免费，您可以在虚拟机/服务器上自行托管它。 ​ 新更新：我们现在支持 Fluentd (https://www.fluenced.org/) 用于日志提取，以便您可以使用 1000 多个来源，例如Docker、Syslog、Systemd 将日志发送到 OneUptime。由 Ceph 提供支持点击屋。摄取 PB 级日志并在几毫秒内进行搜索。从任何来源提取，当出现问题时提醒正确的团队成员。   由   提交/u/OuPeaNut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avcxg5/update_oneuptime_open_source_statuspageio/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>Web 开发者最喜欢的开源实用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av5axk/favourite_open_source_utilities_for_web_dev/</link>
-      <description><![CDATA[您最喜欢的开源实用程序是什么，可以是附加组件或 npm 包。  好奇最近有哪些有趣的开源项目。   由   提交 /u/ImaginationOther4696   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av5axk/favourite_open_source_utilities_for_web_dev/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:39:13 GMT</pubDate>
+      <title>用于工作的 Web 开发工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avcwgw/web_dev_tools_used_for_work/</link>
+      <description><![CDATA[您好， 我的公司建议用户使用 Chrome，而不是其他浏览器。 将会使用 Chromium 浏览器对我来说比较明智，还是使用 Firefox 比较好？出于某种原因，我真的很喜欢 Firefox 的开发工具。   由   提交/u/Charming_Pop90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avcwgw/web_dev_tools_used_for_work/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>通过哈希路由的 Github 页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av5a7o/github_pages_via_hash_routing/</link>
-      <description><![CDATA[正在制作 我自己的博客网站，并意识到这也适用于其他人。它使用 GitHub API 将文件夹/文件内容存储在存储库内的选定位置，并使用哈希值来模拟路由而无需刷新页面。 `static/md` 中的内容从缓存中渲染，并在一段时间后刷新以遵守 API 限制。  您可以根据自己的喜好更改 css/字体/图像。还可以将存储库克隆到您的私有服务器，并在没有 GitHub 页面的情况下从那里提供服务，甚至将其用于私有存储库，而无需通过公共页面公开数据。有一个字段可以设置不记名令牌，以防您想将其用于私人存储库。    由   提交 /u/__ibowankenobi__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av5a7o/github_pages_via_hash_routing/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:38:14 GMT</pubDate>
+      <title>oneword.domains 如何在不花费巨额成本的情况下跟踪 250 万个域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avbwzp/how_does_oneworddomains_track_25m_domains_without/</link>
+      <description><![CDATA[大家好， 向你们技术奇才提出一个简单的问题。我们一直在查看 oneword.domains，他们每分钟都会检查各个 TLD 中 250 万个域名的可用性。有人知道如何在不收取大量 API 费用或不需要超级计算机的情况下做到这一点吗？ 他们是否使用 DNS 技巧、智能缓存或其他东西？很好奇这种事情是如何在不花太多钱的情况下工作的。 谢谢！   由   提交/u/AManFromEarth_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avbwzp/how_does_oneworddomains_track_25m_domains_without/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:30:54 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av4sqk/my_first_website/</link>
-      <description><![CDATA[大家好，我对网页设计有点陌生，现在我仍在 youtube、udemy 和 wordpress 论坛上学习。最近，我购买了一个域名和一个主机服务器，并创建了我的第一个关于二手鞋店的网站，我在网站中展示的所有产品和图像仍然是演示，因为我想测试我的商店布局会是什么样子我上传真实的产品和我的图片。 我使用 flatsome 主题和 wordpress。 这是我的网站链接：https://shop2hand.store/ 我很乐意收到有关我的网站需要改进的任何反馈。  谢谢你们。   由   提交 /u/bullebpy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av4sqk/my_first_website/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:15:51 GMT</pubDate>
+      <title>必须使用 Bluehost 共享主机制作一个网站。不确定最好的方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avbtdu/have_to_make_a_website_with_bluehost_shared/</link>
+      <description><![CDATA[我的大学有一个项目，其中我获得了一个 bluehost 子域，我的任务是使用它来创建一个您可以添加的网站，为尝试进一步学习的学生存储和展示资源。我不会承担任何可能是该项目五月之前的其他持续成本（无数据库费用）的费用。 我是 Web 开发的新手，我有一些 WordPress、javascript 的入门技能，并且框架（vue、next、svetle）以及一些 Netlify 和 MongoDB 等知识。  根据我的研究，我发现我无法真正在 Bluhost 共享上运行 Node JS，因此没有下一个 js 没有 javascript 服务器。我也许可以使用面板中包含的普通 JavaScript 和 MySQL 数据库，但这需要我学习 PHP。 有人对解决此问题的最佳方法有任何想法或建议吗？我不知道该怎么办。我缺乏经验，所以我在这方面遇到了困难 TLDR 必须使用 Bluehost 共享主机制作一个网站。不确定最好的方法。感谢您的帮助   由   提交 /u/Lazer_lad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avbtdu/have_to_make_a_website_with_bluehost_shared/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:24:36 GMT</pubDate>
     </item>
     <item>
-      <title>如何缓存 PWA 中的所有 MP3？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av4hku/how_to_cache_all_mp3s_in_my_pwa/</link>
-      <description><![CDATA[我正在开发一个简单的 PWA，我需要在客户端上缓存其所有 MP3 文件，因此它们已准备就绪，但尚未准备就绪等待网络请求播放。我在谷歌上得到的解释缺乏，所以寻求一些帮助。谢谢。 ​   由   提交/u/raybanshee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av4hku/how_to_cache_all_mp3s_in_my_pwa/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:01:36 GMT</pubDate>
+      <title>我如何在前端变得更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avb4rm/how_do_i_get_better_at_front_end/</link>
+      <description><![CDATA[我真的很难处理 html 和 css，你们有什么提示或教程可以帮助吗？   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avb4rm/how_do_i_get_better_at_front_end/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:41:27 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮忙 ！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av47z8/need_help/</link>
-      <description><![CDATA[我是 Btech CSE 的学生，我想从 YouTube 学习 FullStack webdev，请给我推荐一些与 webdev 相关的课程    由   提交 /u/Opening_Birthday223   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av47z8/need_help/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:49:43 GMT</pubDate>
+      <title>隐藏主页上未隐藏的元素(Html/flask/js)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avahtx/hiding_unhiding_elements_on_the_home/</link>
+      <description><![CDATA[大家好。我一直在学习如何使用 Python 和 Flask 编写网站。有时我对前端的 html 和 javascript 比什么都感兴趣，希望有人能帮助我。 我正在编写一个闪存卡应用程序，在其中存储用户、牌组和闪存该套牌的卡片将赢得 sqlalachemy 数据库。我在 html 中有一个嵌套的 for 循环，它将用甲板填充主页，然后在下面列出闪存卡标题。我希望能够切换显示抽认卡列表，但不太确定该怎么做。如果有人能指出我正确的方向，这是我的循环。也许我应该用完全不同的方式来做这件事？ ​   &lt;按钮类型=“按钮”类=“btn” onClick=“fetchDeck({{牌组.title }})”&gt;{{牌组.title }}&lt;/button&gt; &lt;按钮类型=“按钮”类=“关闭” onClick=“deleteDeck(&#39;{{牌组.title }}&#39;)”&gt;删除&lt;/button&gt;   {% for dial.flashcards %} ; &lt;按钮类型=“按钮”类=“btn” onClick=&quot;fetchFlash({{ flashcard.id }})&quot;&gt;{{ flashcard.title }} &lt;按钮类型=“按钮”类=“关闭” onClick=&quot;deleteFlash({{ flashcard.id }})&quot;&gt;删除  &lt;/li&gt; {% endfor %} &lt;/ul&gt;  &lt;/li&gt; {% endfor %}  ​   由   提交 /u/ProjectObjective   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avahtx/hiding_unhiding_elements_on_the_home/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>https://github.com/meet4592/test</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av37lq/httpsgithubcommeet4592test/</link>
-      <description><![CDATA[​ 嘿，你能帮我找出代码中的问题吗，我不是能够从数据库中获取数据并将其显示在页面上 提前致谢 ​   由   提交/u/meet__07  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av37lq/httpsgithubcommeet4592test/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:05:29 GMT</pubDate>
+      <title>小型全栈项目后端服务器推荐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avac98/recommendations_of_backend_server_for_small/</link>
+      <description><![CDATA[刚刚完成了一个完整的堆栈项目，我目前在 render 上托管前端和后端.com 免费套餐。  我注意到服务器在不活动时会关闭，并且需要很长时间才能接受第一个登录请求并重新打开服务器。对于不这样做的后端主机有什么建议吗？  寻找免费或相对便宜的选择是一个小项目。    由   提交 /u/Penguinbreath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avac98/recommendations_of_backend_server_for_small/</guid>
+      <pubDate>Tue, 20 Feb 2024 05:54:39 GMT</pubDate>
     </item>
     <item>
-      <title>大家都去哪里找猎头？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av2u8m/where_are_you_guys_finding_headhunters/</link>
-      <description><![CDATA[大家好， 我是一名员工级前端工程师，拥有大约 15 年的经验。最近，我决定在工作满意度与工资率曲线上重新掷骰子。但之前与我合作的招聘人员/猎头却退出了游戏。  有人有良好的资源或联系来寻找高级员工级别的前端职位吗？   由   提交 /u/MrMattBarr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av2u8m/where_are_you_guys_finding_headhunters/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:50:13 GMT</pubDate>
+      <title>无服务器后端 + 客户端项目的框架/样板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ava3m9/frameworks_boilerplate_for_a_serverless_backend/</link>
+      <description><![CDATA[各位智者，我正在寻求您的建议，了解我可以使用哪些框架或样板项目来加速个人项目的开发。我想尽量减少编写配置和样板代码所花费的时间...如果我可以分叉一些项目并将其变成我的，那就太好了。它是一个小型客户端（2-4 页）、一个后端服务器（较少）节点和一个 SQL 数据库。任何有关使用内容的建议将不胜感激！   由   提交/u/mood_mechanic_50   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ava3m9/frameworks_boilerplate_for_a_serverless_backend/</guid>
+      <pubDate>Tue, 20 Feb 2024 05:41:02 GMT</pubDate>
     </item>
     <item>
-      <title>寻求网页设计方面的帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av2o1m/seeking_help_with_web_design/</link>
-      <description><![CDATA[所以，我的网站已经有几年了，但我也全职工作，没有太多时间专注于我的网站的设计网站（也许工作是一个借口，但我确实知道我精神上太疲惫了，甚至无法尝试专注于网站设计）相反，我主要专注于获得好的内容。我确实相信我有很多富有洞察力的帖子可以与世界分享，但我希望我的网站看起来更专业、用户友好且令人兴奋，足以让人们想要留在该网站上，这样他们最终会点击不同的帖子来访问读。一堆以博客风格/新闻格式排列的帖子似乎对我来说效果不太好。 我想要一个令人兴奋的主页/静态页面。我的网站基于各种主题，例如：心理健康、受困扰的艺术家的内心世界、内向者的重要性、肢体语言和非语言交流的重要性、心理排练和意象的重要性、我们的思想、正念、形而上学和宇宙世界的力量，以及过去所有伟大的天才如何利用这种力量来实现看似的奇迹、成瘾、虐待、孤独的影响等等。&lt; /p&gt; 我也会回顾一下我的经历，以及与我现在所处的地方相比，我过去经历过的黑暗之处。希望我的经历能够帮助其他人看到光明。因此，我对主页的想法是有两个不同的部分，您可以单击，一个部分用于“之前”部分。 （黑暗的阶段），一个是之后的（恢复和建议其他人再次看到光明。）它可能有两种不同的图像，一个是黑暗的洞穴或监狱，一个是宫殿，表明你可以要么在你的思想领域建造一座监狱，要么建造一座宫殿，这取决于你如何处理事情，如何训练你的思想以对你有利或阻碍你的方式工作。基本上是想向人们表明，我们的生活方式完全取决于我们的心态、决定、思维过程和我们采取的行动。  虽然我不知道如何创建这个主页，但我尝试过，但它看起来很贫民窟且不专业。我愿意付费购买主题或模板，甚至付费找人帮我做。我什至不知道从哪里开始。  在 google 和 Youtube 教程上搜索建议只能让我到目前为止。请帮助一个女孩!!!!! 我想要执行此操作的网站位于我个人资料上的链接中。我不想在这里发布它，因为我认为这会被视为促销。请检查一下并给我任何可能的建议。或者推荐任何可以为我做这件事的人。 提前非常感谢:) ​   由   提交 /u/Minddoesntstop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av2o1m/seeking_help_with_web_design/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:43:16 GMT</pubDate>
+      <title>宣布推出中国版 web.dev</title>
+      <link>https://www.reddit.com/r/webdev/comments/1av9f27/announcing_webdev_for_china/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1av9f27/announcing_webdev_for_china/</guid>
+      <pubDate>Tue, 20 Feb 2024 05:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>通过Firebase发布简单的个人网站有哪些安全风险？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av2el0/what_are_the_security_risks_of_publishing_a/</link>
-      <description><![CDATA[请原谅我的无知，但我无法真正理解这里是否存在任何安全隐患。我觉得我创建的内容比其他在线问这个问题的人简单得多。 我已经建立了一个使用基本 HTML 制作的小型个人网站（作品集网站）。我的作品包括我的全名，但没有其他个人信息。我使用 Firebase 和我的个人 Google 帐户设置了网站。 在安全方面有什么我应该担心或主动采取的措施吗？我并不是费尽心思在网上隐藏我的全名（我有 LinkedIn 等），但我想我很好奇是否有关于网络托管或 Firebase 的事情我不知道。  感谢您的帮助:)    由   提交 /u/Icy_Maintenance1474   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av2el0/what_are_the_security_risks_of_publishing_a/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:32:28 GMT</pubDate>
+      <title>CSS 是不可能掌握的，但没关系</title>
+      <link>https://www.reddit.com/r/webdev/comments/1av8zez/css_is_impossible_to_master_and_thats_okay/</link>
+      <description><![CDATA[   /u/TheNerdistRedditor   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1av8zez/css_is_impossible_to_master_and_thats_okay/</guid>
+      <pubDate>Tue, 20 Feb 2024 04:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>我应该为研究新功能、确定技能组付费吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av1z0b/should_i_charge_for_researching_new_features/</link>
-      <description><![CDATA[在某些情况下，一位客户找到我，希望我向他的另一位开发人员构建的 Web 应用程序添加一些功能。我们已经召开了初步发现会议，我记下了他的要求和他想要添加的内容。 我之前参与过的项目都是新构建的网站，过程非常简单. 但是，对于该客户，他描述了他想要添加的功能，并相信我会找出是否可以实现，然后提供这些功能。我以前没有经历过这个过程，我应该向他收取初始费用来进行研究，然后如果我认为我可以在之后向他报价吗？ 感谢任何帮助和想法，谢谢🙏🏼    由   提交 /u/SirSparagus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av1z0b/should_i_charge_for_researching_new_features/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:15:11 GMT</pubDate>
+      <title>开发设置入门</title>
+      <link>https://www.reddit.com/r/webdev/comments/1av8s3t/getting_started_with_a_dev_setup/</link>
+      <description><![CDATA[所以我正在尝试再次以学生身份进入 Web 开发（我知道，可能是最糟糕的进入时间）。但我记得上次发生的一件事是我的操作系统安装与所有服务和东西变得一团糟。然后到处都是大约一千个节点模块、构建脚本、其他库、运行时环境、扩展（看看你的 VSCode）副本。 我现在全新安装了 Windows，想要整齐地做事情。我尝试使用 Docker Desktop 来管理开发环境，但无法限制其使用的资源，并且它导致我的旧笔记本电脑上的 CPU 升温。我还想，如果我走 Docker 路线，我不是必须为每个项目多次安装 Node、PHP 或 Python 吗？ 也太破产了，无法购买台式机/新笔记本电脑/修复此风扇笔记本电脑/支付 Github Codespaces 或 VPS，我不必偏执于计算使用时间等。 所以我正在寻找如何使用全新安装的 Windows 来构建本地开发环境/设置使得  不会到处乱七八糟， 如果以后我想要从我的笔记本电脑中取出所有内容，我必须采取最少的步骤删除整个开发设置。 Web 开发、应用程序开发，我猜 Electron 属于 Web 开发？也许其他语言也可以，比如 C++、Rust、Go？  我想我对此太偏执了？我什至不确定这是否是正确的提问地点？  tl;dr 如何在我的全新 Windows 安装中构建一个可组织/隔离的开发环境（没有更好的词语？），以便稍后可以轻松删除？   div&gt;  由   提交/u/DarkChaos98  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1av8s3t/getting_started_with_a_dev_setup/</guid>
+      <pubDate>Tue, 20 Feb 2024 04:27:46 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个没人要求的 webgl 加载器，但它只需要 9kb</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av1uss/i_made_a_webgl_loader_noone_asked_for_but_it/</link>
-      <description><![CDATA[ 由   提交/u/KulawaAntylopa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av1uss/i_made_a_webgl_loader_noone_asked_for_but_it/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:10:31 GMT</pubDate>
+      <title>我是否正确使用 JWT？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1av8k78/am_i_using_jwts_correctly/</link>
+      <description><![CDATA[我用 Svelte 编写前端，用 Rust 编写后端。发送凭证并进行身份验证后，服务器会返回一个包含用户 ID 及其角色的 JWT。 现在，根据我的研究，我发现建议将其设置为仅 HTTP 的 cookie 并通过 HTTPS 发送，因此 jwt 无法被恶意 Js 或 MiM 攻击窃取。但是，我需要访问用户的角色来动态渲染和授权某些页面，这样就迫使我不使用 HTTP-ONLY cookie，如果我没有记错的话，这会允许任何恶意扩展窃取令牌并冒充用户。&lt; /p&gt; 我是否遗漏了什么，或者这不是 JWT 的预期用途。您有什么建议？   由   提交/u/Maypher  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1av8k78/am_i_using_jwts_correctly/</guid>
+      <pubDate>Tue, 20 Feb 2024 04:16:05 GMT</pubDate>
     </item>
     <item>
-      <title>与后端相比，我们为前端编写的代码行数多了 4.6 倍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1av10xi/we_have_written_46x_more_lines_of_code_for_the/</link>
-      <description><![CDATA[   I只是想分享一个我认为你们可能会感兴趣的统计数据。 我和我的朋友正在开发一个管理员管理面板，该项目即将完成（你知道，像所有项目一样）。 我们使用 Go 和 Gin 框架作为后端，使用 Flutter 作为前端。 我很好奇到目前为止我们已经编写了多少代码这个项目，我发现了这个 VS Code 扩展。 &amp;# x200b; 以下是我发现的结果： Go - Gin 项目包含 2508 行代码 Flutter 项目包含11602 行代码（多出 4.6 倍） ​ 我已经知道前端有更多代码，但我绝对不知道期待这样的差异。 ​ 后端 2508 行 ​ 前端 11602 行   由   提交 /u/ercantomac   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1av10xi/we_have_written_46x_more_lines_of_code_for_the/</guid>
-      <pubDate>Mon, 19 Feb 2024 22:37:35 GMT</pubDate>
+      <title>关于创建动画藏宝图线有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1av8c2p/any_suggestions_on_creating_an_animated_treasure/</link>
+      <description><![CDATA[我正在研究让藏宝图上出现的线条（例如破折号和 X）在从上到下蜿蜒滚动时动画化页面的。我研究过 GSAP 和 Framer Motion，但我很好奇是否有人有使用其中任何一种的经验，以及哪一种比另一种更好。    由   提交/u/greentiger45  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1av8c2p/any_suggestions_on_creating_an_animated_treasure/</guid>
+      <pubDate>Tue, 20 Feb 2024 04:04:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
