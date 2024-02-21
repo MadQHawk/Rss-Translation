@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 21:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:52:37 GMT</lastBuildDate>
+    <item>
+      <title>添加赞助链接感到尴尬</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avwo4u/feeling_awkward_about_adding_a_sponsorship_link/</link>
+      <description><![CDATA[你好！ 我一直在人工智能领域构建一个开源项目，并且与很多用户进行了交谈，并发现了一些令人兴奋的利基市场，我可以在此基础上继续发展。不过，由于可能需要一些 AI 和其他 API 成本，所以我别无选择，只能放一个赞助链接。我之前创建的任何开源项目都没有明确这样做过，这次我感到很尴尬。 以下是我的主要担忧以及我向您寻求的建议： - 我如何才能有效地传达财务支持的需求，而又不会损害项目的开源完整性或我们社区的信任？   我们如何整合财务支持机制，以符合我们对开源原则的承诺和项目的协作精神？     由   提交 /u/metalvendetta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avwo4u/feeling_awkward_about_adding_a_sponsorship_link/</guid>
+      <pubDate>Tue, 20 Feb 2024 23:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求在 Mac OS 上设置 Adempiere 的帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avuqj5/looking_for_help_with_setting_up_adempiere_on_mac/</link>
+      <description><![CDATA[遇到一些问题（一直到向导，但在连接/设置 PostgreSQL 数据库时遇到问题）。很想与熟悉的人聊天以帮助查看可能出现的错误！对于编码和一切都是新手。    由   提交/u/natelizabeth10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avuqj5/looking_for_help_with_setting_up_adempiere_on_mac/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求在 Mac OS 上设置 Adempiere 的帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avuqcv/looking_for_help_with_setting_up_adempiere_on_mac/</link>
+      <description><![CDATA[遇到一些问题（一直到向导，但在连接/设置 PostgreSQL 数据库时遇到问题）。很想与熟悉的人聊天以帮助查看可能出现的错误！对于编码和一切都是新手。    由   提交/u/natelizabeth10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avuqcv/looking_for_help_with_setting_up_adempiere_on_mac/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>Valve 开源 Steam Audio</title>
       <link>https://www.reddit.com/r/opensource/comments/1avnooz/valve_releases_steam_audio_as_open_source/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>如何翻译播客？</title>
       <link>https://www.reddit.com/r/opensource/comments/1avmcie/how_to_translate_a_podcast/</link>
-      <description><![CDATA[我想将 Andrew Huberman 的播客翻译成法语 您知道有一个 FOSS 应用程序可以做到这一点吗？  我很想听到音频形式的结果。   由   提交/u/clara59000   [链接] [评论]]]></description>
+      <description><![CDATA[我想将 Andrew Huberman 的播客翻译成法语 您知道有一个 FOSS 应用程序可以做到这一点吗？  我很想听到音频形式的结果。   由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avmcie/how_to_translate_a_podcast/</guid>
       <pubDate>Tue, 20 Feb 2024 16:49:43 GMT</pubDate>
     </item>
@@ -76,9 +97,9 @@
       <pubDate>Tue, 20 Feb 2024 07:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大的闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
+      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</link>
-      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的旧版 IDE 配合使用，而且由于 Arduino 和开发板版本更新得非常快，不可能每次有新版本出现时都更新我们所有的程序。 但是，如果你真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
+      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的较旧 IDE 配合使用，并且由于 Arduino 和开发板版本更新得非常快，因此不可能每次有新版本出现时都更新我们所有的程序。 但是，如果您真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</guid>
       <pubDate>Tue, 20 Feb 2024 06:10:04 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我一直在使用 photopea 作为 Photoshop 的替代品，并且喜欢我什至可以导入原生 PSD 文件。有谁知道是否存在类似的开源首要克隆？我有一些主要的序列文件，我不介意以相同的方式导入。 如果没有，那么推荐一个好的免费视频编辑器？谢谢朋友   由   提交 /u/foslforever   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1av2t3d/are_there_any_open_source_free_alternatives_to/</guid>
       <pubDate>Mon, 19 Feb 2024 23:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>MindForger 2.0.0：注意 – LLM 是您笔记应用程序的全部需求！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1av1jmi/mindforger_200_attention_llm_is_all_your/</link>
-      <description><![CDATA[嘿你好！我刚刚完成了新的 MindForger 版本，集成了大型语言模型，它将笔记和知识管理提升到一个新的水平。 MindForger 现在允许您利用人工智能的力量轻松扩展您的笔记和知识。无论您需要准备计划、撰写深入分析、起草博客文章，还是只是产生想法。大型语言模型可以修复语法、翻译，写入，重新制定，总结、建议同义词和反义词等等。您可以轻松创建高质量的内容并增强知识的组织。享受吧！   由   提交 /u/ultradvorka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1av1jmi/mindforger_200_attention_llm_is_all_your/</guid>
-      <pubDate>Mon, 19 Feb 2024 22:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Octopus - Team Indigo Sword 的开源游戏</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auyo5b/project_octopus_team_indigo_swords_open_source/</link>
-      <description><![CDATA[大家好。我正在创建一个开源项目 - Project Octopus  - 与我们大学的另外两名学生一起参加我们的开源软件开发课程。我们正在构建一款 16 位自上而下的 2D 灵魂类中世纪赛博朋克（名字好长，天哪） 游戏。 我们在这里发帖有几个原因，并将把它们（与链接）如下： 1- 我们需要人们帮助我们为我们的 godot 游戏创造艺术和机制。如果有人愿意提供帮助或者知道我们在哪里可以找到帮助，请联系我们！2-我们需要人们为我们项目的后端。例如，我（作者）目前正在负责后端，并且确实需要一些帮助来管理数据库。我们正在寻找这方面的一些建议（以及一些 PR 😃）3-我们想要构建一个非常酷的自述文件，但我们不太确定如何做到这一点，所以如果有人有关于如何开始，请帮助我们😃。如果您有任何建议，请向我们提供！我们真的很想在这里创建一个很酷的项目。我们有一个不和谐服务器，但 sub 不允许我们将链接放在这里，所以私信我们进入:) 编辑：格式   由   提交/u/joao7808  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auyo5b/project_octopus_team_indigo_swords_open_source/</guid>
-      <pubDate>Mon, 19 Feb 2024 21:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求帮助恢复旧的网络项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</link>
-      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</guid>
-      <pubDate>Mon, 19 Feb 2024 20:36:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

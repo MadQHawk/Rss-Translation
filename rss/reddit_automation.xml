@@ -4,13 +4,20 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 20 Feb 2024 21:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:51:28 GMT</lastBuildDate>
     <item>
-      <title>你能用简单的英语创建浏览器机器人吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1avr61c/can_you_create_browser_bots_in_plain_english/</link>
-      <description><![CDATA[我绝对认为这是可能的。这就是我正在 https://www.workman.so/  进行的项目问题 构建机器人或 rpa 太困难了。您要么必须成为一名开发人员，要么雇用一名开发人员，要么了解过于复杂的软件，以至于人们无法理解。许多企业仍然手动运行数据输入、表格归档和其他重复性任务。我不想意识到我有这么多可以自动化的流程，但却无法对此做任何事情。 解决方案 描述使用自然语言完成您的任务，并在几分钟内创建 RPA 机器人，无需任何开发人员。任何人都可以制作一个。我们希望降低创建机器人的门槛，让自动化机构和后台等企业本身变得更加高效并更快地扩展。 以下是数据输入用例的演示：https://www.loom.com/share/b8bc663c55c647d7a699743e06603ed4?sid= 9dc6ddf1-97bf-4ef8-b47c -f42a01c265e1 你们都觉得怎么样？ 对于任何认为这可以帮助他们的用例的人来说，这是一个不和谐的链接:) https://discord.gg/GQtxcy8qww   由   提交 /u/One-Marketin   /u/One-Marketin  reddit.com/r/automation/comments/1avr61c/can_you_create_browser_bots_in_plain_english/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1avr61c/can_you_create_browser_bots_in_plain_english/</guid>
-      <pubDate>Tue, 20 Feb 2024 19:59:59 GMT</pubDate>
+      <title>作者埃里克·劳伦斯 (Erik Lawrence) 在《理解人工智能：人工智能指南》中揭开了人工智能的秘密</title>
+      <link>https://www.reddit.com/r/automation/comments/1avy8ck/author_erik_lawrence_unveils_ai_secrets_in/</link>
+      <description><![CDATA[    /u/Ragingboomerang   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1avy8ck/author_erik_lawrence_unveils_ai_secrets_in/</guid>
+      <pubDate>Wed, 21 Feb 2024 00:43:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何自动化我朋友的日常工作！让我知道你的想法！</title>
+      <link>https://www.reddit.com/r/automation/comments/1avthng/how_i_automated_my_friends_daily_grind_let_me/</link>
+      <description><![CDATA[我的朋友问他的 Twitter 内容生成和加密研究是否可以自动化。 我很感兴趣，决定帮助他自动化他的整个工作流程。我研究了他如何手动执行此操作，并找到了一些可以轻松自动化的常见模式。 我的方法是这样的： ​ &lt; ol&gt; 编制 dexscreener、dexcheck 等网络资源列表，以收集趋势代币。 根据市值等各种重要因素筛选优质代币、数量、币龄等。 将具有相似标准的代币分组。例如，微型市值代币应具有至少 50 万美元以上的交易量、10 万美元以上的上限等。 最后，一些用于跟踪代币表现的 KPI。  ​ 我使用 Python 和 JavaScript 来抓取趋势代币数据。我没有使用一些固定参数，而是将其设为动态参数并由用户定义，以找到更好的标记。然后，我将干净的数据发送到谷歌表格进行处理和可视化以获得见解。该程序每小时自动在 Twitter 上分享顶级代币的摘要，并在时事通讯中编制表现最佳代币的每周摘要。 我很高兴这种自动化使他的工作变得更加轻松，减少了近 90%辛苦了。让我知道你的想法！   由   提交 /u/Ill_Concept_6002   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1avthng/how_i_automated_my_friends_daily_grind_let_me/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:30:37 GMT</pubDate>
     </item>
     <item>
       <title>如何实现扫地机器人的自动化？</title>
@@ -43,7 +50,7 @@
     <item>
       <title>计划基于 iOS/iPhone 应用逆向工程制作我自己的 tiktok SaaS 机器人解决方案出于自动化目的重建所有请求</title>
       <link>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</link>
-      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用 C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookie、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
+      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookie、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</guid>
       <pubDate>Sun, 18 Feb 2024 15:47:25 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>数据抓取</title>
       <link>https://www.reddit.com/r/automation/comments/1atanwg/data_scraping/</link>
-      <description><![CDATA[我正在寻求数据抓取方面的帮助。我建立了一个工作委员会，为了将新工作放在工作委员会上，我必须手动输入每一个工作。我看过人们介绍如何自动化该过程的视频，但我一直在努力抓取我需要的所有数据。我尝试了一些 Chrome 扩展程序，但有些扩展程序无法提取我需要的每条数据。我对计算机和代码知之甚少。我想找到一种方法从某些公司的职位发布和职位板上抓取正确的数据以在我的职位板上列出。我愿意雇用某人来教我如何抓取正确的数据，或者如果您也如何自动化该过程，我会雇用您来完成所有工作。 &lt;!-- SC_ON - -&gt;  由   提交 /u/FrontSecure8437   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻求数据抓取方面的帮助。我建立了一个工作委员会，为了将新工作放在工作委员会上，我必须手动输入每一个工作。我看过人们介绍如何自动化该过程的视频，但我一直在努力抓取我需要的所有数据。我尝试了一些 Chrome 扩展程序，但有些扩展程序无法提取我需要的每条数据。我对计算机和代码知之甚少。我想找到一种方法从某些公司的职位发布和职位板上抓取正确的数据以在我的职位板上列出。我愿意聘请某人来教我如何抓取正确的数据，或者如果您也如何自动化该过程，我会雇用您来完成所有工作。 &lt;!-- SC_ON - -&gt;  由   提交/u/FrontSecure8437  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1atanwg/data_scraping/</guid>
       <pubDate>Sat, 17 Feb 2024 19:54:30 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>屡获殊荣的应用人工智能书籍的第二版对于每个想了解如何在商业环境中应用人工智能的人来说都是一个很好的资源——周六之前免费提供 Kindle 版本</title>
       <link>https://www.reddit.com/r/automation/comments/1aqsr70/the_2nd_edition_of_the_awardwinning_applied_ai/</link>
-      <description><![CDATA[第一版在亚马逊上畅销，并被 CES 评选为 2018 年顶级科技书籍之一。以第一版中提供的基础知识为基础，同时引入有关生成人工智能和大型语言模型 (LLM) 前沿领域的重要更新和新章节。 限时（周六之前），您可以获取Kindle 版免费。 https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-商业电子书/dp/B0CV599T4C   由   提交/u/keatena57  [链接] [评论]]]></description>
+      <description><![CDATA[第一版在亚马逊上畅销，并被 CES 评选为 2018 年顶级科技书籍之一。以第一版中提供的基础知识为基础，同时引入有关生成式人工智能和大型语言模型 (LLM) 前沿领域的重要更新和新章节。 在有限的时间内（直到周六），您可以获取Kindle 版免费。 https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-商业电子书/dp/B0CV599T4C   由   提交/u/keatena57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aqsr70/the_2nd_edition_of_the_awardwinning_applied_ai/</guid>
       <pubDate>Wed, 14 Feb 2024 17:40:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/moshestv  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aqicjj/work_20_faster_by_teaching_chatgpt_to_understand/</guid>
       <pubDate>Wed, 14 Feb 2024 08:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>手动触发 Zapier Zaps</title>
-      <link>https://www.reddit.com/r/automation/comments/1aqaqto/manually_triggering_zapier_zaps/</link>
-      <description><![CDATA[我正在 Zapier 中开发 Zap，它包含五个步骤。 - 第一步是运行的计划触发器每天的特定时间。 - 第二步是对 Notion 的 API 调用，检索数据并将其转换为 JSON 格式。 - 第三步是 Python 代码处理数据并创建记录。 - 第四步是仅允许正值的过滤器。 - 第五步是发送带有记录的 Discord 消息的操作来自Notion。 我想知道如何在不等待预定时间的情况下手动触发我的Zap（我可以将其设置为每小时，但这对于简单测试来说仍然太多时间）。有没有办法在不使用 Webhooks 的情况下做到这一点？我需要这个，以便我可以查看最后的数据是否是我需要的。我感谢任何有用且具体的建议，而不是像 Zapier 社区论坛上那样模糊或笼统的答复。感谢您的帮助。   由   提交/u/ActuatorOutside5256   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1aqaqto/manually_triggering_zapier_zaps/</guid>
-      <pubDate>Wed, 14 Feb 2024 01:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
