@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 21 Feb 2024 18:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 21:11:01 GMT</lastBuildDate>
+    <item>
+      <title>现在你如何做一个普通的老式SPA？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awn6h7/how_do_you_do_a_plain_old_fashioned_spa_nowadays/</link>
+      <description><![CDATA[不是 Webdev，我的工作主要是后端/cli 工具/数据/devops 我有一个个人项目想写一个前端。我了解普通的 JS/TS，并且编写了一些更简单的前端，没有任何问题，但从来没有任何我称之为“网络应用程序”的东西值得。 这次的不同之处在于它需要具有很强的交互性，并且我需要一个大量的组件间通信并保持跨路由的状态等。 现在 JavaScript 框架都趋向于这些混合 SPA/SSR，用我们的框架编写完整的堆栈整体，你们用什么来制作一个好的旧框架不再流行 SPA 了吗？ 我本来打算使用 React，但文档立即将您发送到 Next.js，在我看来，引入所有这些我不需要的服务器功能似乎有点严厉. 我看到的每个框架都是相同的 sveltkit、solidstart 等。当我需要的只是带有路由和状态库的 SPA 时，它们都具有后端功能。  如有任何建议，我们将不胜感激。谢谢！   由   提交/u/SirAutismx7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awn6h7/how_do_you_do_a_plain_old_fashioned_spa_nowadays/</guid>
+      <pubDate>Wed, 21 Feb 2024 20:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress Hosting：小型宣传册网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awmmi7/wordpress_hosting_small_brochure_site/</link>
+      <description><![CDATA[我通常会让客户获得自己的托管，但我现在觉得我应该提供附属机构或自己托管。 小型 5 寻呼机 WP，我应该推荐什么？我应该执行 Elementor WP 托管联属计划还是其他计划？  感谢提示！    由   提交 /u/greenandseven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awmmi7/wordpress_hosting_small_brochure_site/</guid>
+      <pubDate>Wed, 21 Feb 2024 20:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>React.js 与 Vanilla JS 对于组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awm92s/reactjs_vs_vanilla_js_for_portfolio_website/</link>
+      <description><![CDATA[大家好。我最近使用 React 完成了三个相当大的项目作为我的投资组合。现在，最后一步是创建投资组合网站本身。以下是我想要使用的设计的链接。它们非常简单，所以我倾向于不使用 React，尽管到目前为止，使用它对我来说就像是第二天性:) 是什么让我质疑该使用哪一个是我正在考虑稍后可能会在我的投资组合中添加一些更复杂的功能，所以现在我不确定是否要面向未来并从一开始就使用 React，或者一旦我想让我的投资组合变得更复杂，就过渡到它，比如添加 3D 动画等。希望得到一些建议。谢谢。 我想使用的设计：https://www.figma.com/community /file/1100794861710979147 和 https://www.figma.com/community/file/1122916074438882264    由   提交 /u/Material-Capital5933    reddit.com/r/webdev/comments/1awm92s/reactjs_vs_vanilla_js_for_portfolio_website/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awm92s/reactjs_vs_vanilla_js_for_portfolio_website/</guid>
+      <pubDate>Wed, 21 Feb 2024 20:20:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何识别用于创建密钥的身份验证器/密码管理器类型。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awlp3l/how_to_identity_what_kind_of/</link>
+      <description><![CDATA[我正在开发一个允许用户使用密码登录的网站。我遇到的麻烦是在密钥管理中，因为我想向用户显示创建密钥的位置，例如 Google 密码管理器/Samsung Pass/Windows Hello，甚至只需 Android 或 Windows 就足够了。  AttestationResponse 对象中没有任何内容可以直接指示使用的身份验证器。但是，如果您现在在 Windows 浏览器上为 Google 帐户创建密钥，它会将密钥名称设置为 Windows Hello。我不确定它是如何确定的。我能猜测的最好的结果是它使用证明格式，并查看该值是否为 fmt 的 TPM。它假定 Windows Hello。 （我对此可能完全错误） 我还想尝试避免使用js确定操作系统。只是因为您可以在外部设备上创建密钥，所以当您尝试credentials.create()时 无法找到任何具体信息来确定这一点，因此我们将不胜感激。 &lt; /div&gt;  由   提交/u/cavern_xkcd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awlp3l/how_to_identity_what_kind_of/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>PasteePad - 简单的在线文本编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awl73c/pasteepad_simple_online_text_editor/</link>
+      <description><![CDATA[我制作了这个简单的文本编辑器，以便能够在浏览器上保存文本： https://pasteepad.com/ 一些技术方面：  我不在服务器上保存任何数据，全部使用 localstorage 保存在浏览器上 编辑器功能是使用 contenteditable 实现的 没有使用任何库，它是纯 HTML/CSS/JS 纯静态代码，无后端  享受吧！   由   提交 /u/scaredpitoco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awl73c/pasteepad_simple_online_text_editor/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 Netlify 的帮助，对配置 json 的部署感到困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awkq4y/need_help_with_netlify_confused_on_deployment/</link>
+      <description><![CDATA[我正在使用 Netlify 托管我的新网站，我在终点线绊倒了... 我实现了一个与 API 交互的新功能，我将 Api 密钥放入环境变量中。我没有使用框架，因此为了获取 ApiKey，我将其写入一个 JSON 文件，该文件进入我的根目录。当我在本地和 netlify 上启动它时，我能够解析 JSON 文件（使用 fetch()），但是当我浏览我的域 url 时，它会失败。 有人有这方面的经验吗？&lt; /p&gt; 这是我的文件浏览器和构建设置：https://imgur.com/a/hBloOJe 项目目录中有一个index.html，它链接到我的js文件夹中的脚本文件。 js 文件夹还包含生成 config.json 文件的实用程序，您可以在根目录中看到该文件。任何帮助将不胜感激   由   提交 /u/Srz2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awkq4y/need_help_with_netlify_confused_on_deployment/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何处理图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awk9fm/how_do_you_guys_handle_images/</link>
+      <description><![CDATA[我正在制作一个电子商务网页的投资组合项目。每个项目我都会有自己的图像，但我不打算在项目完成后添加更多图像或项目。  你们如何处理这些图像？我认为 blob 存储是一种可行的方法，而不是直接将图像上传到项目，但同时我希望将成本保持在尽可能低的水平，因为这只是一个组合项目。  你们通常使用/建议什么？ 编辑 通过上传，我的意思是在项目中插入图像，然后当项目稍后与存储库一起托管时，将它们一起上传。  此外，我正在考虑使用 azure blob 存储，而不是将图像直接保存到数据库中。只是 url 将保存在指向 azure blob 存储图像的数据库中 ** 编辑 2 ** 感谢您的建议！我将按照我的计划将它们上传到文件夹中。感谢您的建议！   由   提交/u/waterwedoin96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awk9fm/how_do_you_guys_handle_images/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于如何有效计算访客实际阅读博客文章时间的综合指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awk8wg/comprehensive_guide_on_how_to_calculate_visitors/</link>
+      <description><![CDATA[我写了一篇文章，介绍如何通过分析用户对帖子内容的实际阅读时间来评估博客文章的有效性。如果您能指出我错过的场景，那就太好了。 https://ajaxtown.com/post/calculate-reading-time-of-your-blog-article-effectly  &amp;# 32；由   提交 /u/redsnowmac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awk8wg/comprehensive_guide_on_how_to_calculate_visitors/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页的必要性是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awk6jv/what_are_necessity_for_a_web_page/</link>
+      <description><![CDATA[我想制作一个基于交互式世界地图图像的网页。我需要您认为必要的这些网页的推荐（例如鼠标滚动缩放）   由   提交/u/dream_nobody  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awk6jv/what_are_necessity_for_a_web_page/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚在更新页面中看到，您可以启用 VS Code 监听“Hey Code”语音命令，以启动与 Copilot Chat 的语音会话。距离企业计算机又近了一步……</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awjhkp/just_saw_in_the_update_page_you_can_enable_vs/</link>
+      <description><![CDATA[       由   提交/u/hobyvh  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awjhkp/just_saw_in_the_update_page_you_can_enable_vs/</guid>
+      <pubDate>Wed, 21 Feb 2024 18:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 开发人员成为更具吸引力的候选人或团队成员的 8 项基本技能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1awjg67/8_essential_skills_for_developers_to_become_more/</link>
+      <description><![CDATA[       由   提交 /u/bohdan-v   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1awjg67/8_essential_skills_for_developers_to_become_more/</guid>
+      <pubDate>Wed, 21 Feb 2024 18:30:53 GMT</pubDate>
+    </item>
     <item>
       <title>无需用户注册的电子商务市场</title>
       <link>https://www.reddit.com/r/webdev/comments/1awivt3/ecommerce_marketplace_with_no_user_registration/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[如果 JWT 被认为对 XSS 攻击不安全，那么它们还有什么意义呢？我目前正在我的应用程序中使用它们，登录后我将 JWT 存储在本地存储中。但我在代码中启用了安全的 CSP。我“安全”吗？或者我是否需要以某种方式替换 JWT 的所有用法？   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1awhskw/confused_about_jwts/</guid>
       <pubDate>Wed, 21 Feb 2024 17:26:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该辞职去追求发展？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awhppb/should_i_quit_my_job_to_pursue_development/</link>
-      <description><![CDATA[嗨！所以我在一所大学工作，我有很大的机会成为一名全职教授（物理学）。问题是，我真的不喜欢这所大学，真的不想继续在那里工作（在这所特定的大学，其他的都很好）。  我想要的是我的职业生涯是一名开发人员，但我不确定这是一条安全的道路，我真的不想最终失业，尤其是我生活在一个这样的国家没有开发公司，我也没有计算机科学相关学位。  我的问题是：如果我足够熟练，开发是一个安全的职业吗？或者我应该忍气吞声，继续在破烂的大学工作，拿破烂的工资？   由   提交 /u/Itchy_Firefighter876   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awhppb/should_i_quit_my_job_to_pursue_development/</guid>
-      <pubDate>Wed, 21 Feb 2024 17:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很高兴地宣布，r/pixijs 经过多年的限制现在再次开放！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awhiq3/i_am_excited_to_announce_that_rpixijs_is_now_open/</link>
-      <description><![CDATA[各位了不起的程序员、创作者和网络魔术师， 我很高兴地宣布 r/pixijs 在被限制多年后，现在再次开放！ 作为一名 Pixijs 爱好者，当我试图在 Pixijs subreddit 上发帖，却发现它受到限制并且处于非活跃状态，最新帖子是 4 年前发布的。在向唯一可用的版主发消息请求发帖许可但没有得到回复后，我检查了他们的个人资料，结果发现他们最后一次活跃是在九年前，当时我请求接管 Reddit 子版块，主要是为了释放它并为任何想要讨论 Pixijs 相关内容的人打开它。 因此，如果您想讨论或分享与这个神奇框架相关的任何内容，请随时加入 Reddit 子版块并发帖。 快乐创作！   由   提交 /u/Piko8Blue   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awhiq3/i_am_excited_to_announce_that_rpixijs_is_now_open/</guid>
-      <pubDate>Wed, 21 Feb 2024 17:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该离开这家公司吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awhgww/should_i_leave_this_company/</link>
-      <description><![CDATA[嗨，我来这里寻求建议。我在这家公司工作了大约 6 个月，我的试用期即将结束，我不知道我是否应该要求他们不要验证它（这意味着我的国家的失业金）或留下来（如果我离开）我自己就没有失业金） 我们是一个由 15 名开发人员组成的团队，公司有 300 或 400 人左右。我们主要做实习生应用程序，这很好。  我所在的 3 人功能团队正在开发移动应用程序。 2 个前端/1 个后端。我们工作得很好，但也存在一些问题： - 即使我们为内部客户工作，他们也会像对待外部客户一样对待我们。我们每个月都有最后期限，我们需要向 PO 展示他们此时将拥有的内容。如果我们没有达到期望，他们就会转向另一个应用程序（外部应用程序）。这意味着，我们始终处于压力之中。这几乎就像他们勒索我们一样。   - 不仅截止日期很严格（我从 8 点工作到 22 点工作了 3 周，我的同事在周末工作），而且他们还推迟了截止日期。第一个截止日期是 1 月，我们在 11 月底得知他们需要 12 月初。我们只剩下不到一周的时间，而不是一个半月。 - 我们看不到。我们了解他们在每个截止日期后想要什么，这意味着我们因为缺乏时间而编写了糟糕的代码，接下来的几个月我们意识到我们需要重写代码，因为下一个功能需要上一个截止日期的 X 或 Y 内容。我们不知道这会发生什么，因为“你需要编写应用程序，而不是了解大局”  - 我的经理一直在我们背后询问我们目前在做什么，为什么我们的专题报道迟到了等等，而他在家工作时正在玩电子游戏，在办公室里看漫画、看 YouTube。开会时，他大部分时间都在打电话。他不关注公关，因为他最后一份编码工作只是 10 年前。他有一份虚构的工作。 - 当我们告诉他“我们没有做任何敏捷的事情，我们有最后期限，我们只是在冲刺中获取每个用户故事。” ”他对我们大喊，告诉我们没有最后期限。   - 我们这个项目只有一个后端，而且它是唯一一个不是用 Typescript 编写的。这意味着我们无法检查他的公关。他真的很棒，但即使对于顶级开发者来说，评论也很重要。我们无法提供这一点。我们不被允许帮助他做后端，这是一种逻辑，因为我们不懂这种语言，但我们应该学习，他也应该学习做一些移动设备。  - 图形设计师已被解雇，不会被替换。他在离开之前做了很多工作，但由于客户每两天就会改变主意，所以故事和 Figma 相距甚远。所以我们做我们认为最好的事情。我们因此获得了很多回报。  - PO 有大约 7 个项目。他和我们不在一个房间，很难有500万和他在一起。当我们问他一些事情时，有时需要一天以上的时间才能回答。  我列出了这家公司的优点和缺点，好的一面是我只得到了团队。这真的很棒，我们笑得很开心。薪资还可以，几乎是市场平均水平。  但我问自己，如果你工作只是为了见见你的朋友，这是一份健康的工作吗？  我的项目的 V1 是今年夏天的，但对我来说离开已经太晚了，我需要被解雇（或者我什么也得不到），但我不知道我是否可以再留 4 个几个月在这狗屎里。他们已经告诉我们，我们需要在周末工作一段时间才能准时上班，但仍然有薪。他们没有钱雇人，所以也没有钱好好加薪。不能抱怨，否则我们会被骂。 我应该留下，还是应该走？我想做一些自由职业（我有3年的经验，主要是前端，但我也做了一些专业水平的后端），为什么不做一些方便的工作呢。  当他们雇用我时，他们告诉我流程会改变，我们会有时间，我们会做一些测试等等。在 6 个月内，我们什么也没做。是的，我们的流程好一点，但仍然没有文档，没有测试等。    由   提交 /u/Pumpkyns   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awhgww/should_i_leave_this_company/</guid>
-      <pubDate>Wed, 21 Feb 2024 17:13:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 图片代理是否违反版权法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awh47p/does_google_image_proxy_break_copyright_law/</link>
-      <description><![CDATA[如果我拥有数字图像的版权，然后将该图像嵌入到发送给潜在客户的电子邮件中，如果这些客户中的任何一个使用 Gmai，则在我不知情的情况下，Google 图片代理服务会将该图片复制到 Google 的 CDN，然后将其存储一个月（我可能在此处的时间长度上有误）。 如果我在任何阶段都没有允许 Google 复制该数字艺术作品，这不是侵犯版权吗？ 如果不是，这与从 Netflix 复制电影并“缓存”有什么不同？在我自己的服务器上？   由   提交/u/jammy-git   /u/jammy-git  reddit.com/r/webdev/comments/1awh47p/does_google_image_proxy_break_copyright_law/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awh47p/does_google_image_proxy_break_copyright_law/</guid>
-      <pubDate>Wed, 21 Feb 2024 17:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>苏帕巴足够吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awgzbz/is_supabase_enough/</link>
-      <description><![CDATA[据我所知，它提供了很多东西，而且非常易于使用。 您在什么时候会这样做想“嗯，我认为为此我需要一个实际的 BE”，什么时候只使用 supabase 会变得烦人/困难？   由   提交 /u/ErebusDazai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awgzbz/is_supabase_enough/</guid>
-      <pubDate>Wed, 21 Feb 2024 16:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不订阅的情况下在不同的断点、不同的屏幕上预览我的设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awgjbg/how_can_i_preview_my_designs_at_different/</link>
-      <description><![CDATA[你们用什么来预览您的网站并测试您的响应式设计？  我知道 Chrome 提供了预览，但它并不准确，更多的是一个指南。   由   提交 /u/Independent_Range171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awgjbg/how_can_i_preview_my_designs_at_different/</guid>
-      <pubDate>Wed, 21 Feb 2024 16:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>组件是否可能过于干燥？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awgioa/is_it_possible_for_a_component_to_be_too_dry/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awgioa/is_it_possible_for_a_component_to_be_too_dry/</guid>
-      <pubDate>Wed, 21 Feb 2024 16:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试解析 duolingo 以获取这些字符，但 html 中似乎没有它们的 url。有什么想法要做什么吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awfkh3/im_trying_to_parse_duolingo_in_order_to_get_those/</link>
-      <description><![CDATA[    /u/Beaw3r   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awfkh3/im_trying_to_parse_duolingo_in_order_to_get_those/</guid>
-      <pubDate>Wed, 21 Feb 2024 15:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我一个后端推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awfgkg/please_give_me_a_backend_recommendation/</link>
-      <description><![CDATA[      哪个服务最接近我的愿望？ 我尝试制作一个简单的 websocket 服务器来发送我的 webrtc 游戏信号，并在客户端需要时将房间列表作为浏览器发送给客户端。  这正是我想要的由 haxball 游戏制作的完全相同的东西。 https://www.haxball.com/about haxball房间列表： &lt; p&gt;https://preview.redd.it/g913n3bxjyjc1。 png?width=848&amp;format=png&amp;auto=webp&amp;s=9c691c3756b58322f67be3a4b1c49f4053e736ab 房间可7 24 开放。在 Haxball 中，通常有 700 个房间和 3000 名玩家（可能在玩家加入玩家的房间连接关闭后），我希望服务器可以通过可扩展性处理数百万个玩家。使用 aws websocket api 在 8 个请求中完成与对等方（其中之一是打开 websocket 连接 7 24 的房间所有者）之间的连接。我不想使用像aws的websocket api这样的无状态的东西。我想要特定的每月付款，而不是基于已用请求计数的即用即付。 aws 应用程序运行程序似乎可以处理我想要的大部分内容，但没有 websocket 支持:( &amp; #x200b; 这些听起来不切实际，我对后端不熟悉。 易于使用：我想专注于开发我的软件，而不用担心基础设施管理。&lt; /p&gt; 自动扩展：我绝对不想处理 pub/sub、负载均衡、ci/cd 身份验证和授权：应该很容易建立会员系统并防止未经授权还可以将用户名从数据库发送到 webrtc 房间（我不想使用 lambda 授权程序等中间件处理 jwt 验证） DDoS 保护：应该保护服务器免受 https 的 DDoS 攻击，然后暂时禁止它们帐户上的基本速率限制器（作为最后的手段，我会在服务器上自己做） 地理位置：我需要从 ip 获取大约的纬度经度、国家/地区（如果没有任何内置的东西，我已经使用 maxmind geolite2)   由   提交 /u/cenkerc   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awfgkg/please_give_me_a_backend_recommendation/</guid>
-      <pubDate>Wed, 21 Feb 2024 15:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何同时获得圆角边框和圆角图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awf0r7/how_to_get_both_rounded_border_and_rounded_image/</link>
-      <description><![CDATA[我想为一些照片添加白色边框，以便将图像弹出到较暗的背景上。我可以将边框圆角化，但不能将图像圆角化。  &lt;div class=&quot;border-8 border-solid border-whiterotate-12 rounded-md&quot;&gt; &lt;img class=“rounded-md” src=&quot;&quot;&gt;  &lt;/div&gt; 我正在使用 TailwindCSS。   由   提交/u/macboost84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awf0r7/how_to_get_both_rounded_border_and_rounded_image/</guid>
-      <pubDate>Wed, 21 Feb 2024 15:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>漂亮又简单的平面文件 CMS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awdahs/nice_and_simple_flat_file_cms/</link>
-      <description><![CDATA[这引起了我的注意。有很多“平面文件 CMS”可供选择。今天在那里，我以为那已经是过去的事情了，但现在我看到了一些非常漂亮的选择，但不知道该选择哪一个，以免浪费太多时间进行实验，我想我会问在这里。 我只是想运行一个博客来进行插图、写作和我正在从事的一些游戏项目。处理 Laravel、Drupal、Wordpress 等似乎都是一种矫枉过正 - 而且我厌倦了担心网站是否会被黑客攻击和/或垃圾邮件 - 与插件和主题战斗以获得我真正想要的东西 - 等等。 所以...这里有人有平面文件 CMS 系统的经验吗？我通过在这里搜索找到了大量的选项。 有什么建议吗？ 我的总体要求很简单： 1 - 能够制作漂亮的主页，需要时自定义 html/css 和 js。 2 - 与 WordPress 相同的博客选项。分类帖子 - 能够添加一些媒体和一些标记以使事情变得漂亮。 就是这样。  我目前正在关注 Grav 和 Pico。有人有这些方面的经验吗？还有其他想法吗？   由   提交/u/b_art   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awdahs/nice_and_simple_flat_file_cms/</guid>
-      <pubDate>Wed, 21 Feb 2024 14:25:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

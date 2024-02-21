@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 18:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 21:11:06 GMT</lastBuildDate>
+    <item>
+      <title>开源法学硕士与专有法学硕士在标记胸部 X 射线报告方面的比较</title>
+      <link>https://www.reddit.com/r/opensource/comments/1awnc8x/open_source_llms_vs_proprietary_llms_in_labeling/</link>
+      <description><![CDATA[    /u/10MinsForUsername   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1awnc8x/open_source_llms_vs_proprietary_llms_in_labeling/</guid>
+      <pubDate>Wed, 21 Feb 2024 21:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1awlfvu/first_open_source_project/</link>
+      <description><![CDATA[嘿，我是软件工程专业的三年级学生，这是我大学最后一个学期的一部分，我必须找到一个错误或添加一个功能一个开源项目。我很难弄清楚该选择什么，因为这是我的第一个开源贡献。我有接下来的 14 周时间来完成这项工作，并且我还正在与另一名学生一起工作。 我想使用 C++、C#、SQL、java 或 python 进行工作。 什么您认为这是一个值得贡献的好项目吗？它不应该过于复杂，但也不应该简单。 谢谢   由   提交/u/aborges420  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1awlfvu/first_open_source_project/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>🥳 新图表 1.2.0 已上线！ 📊📈📉</title>
+      <link>https://www.reddit.com/r/opensource/comments/1awl2qo/new_charts_120_release_is_live/</link>
+      <description><![CDATA[https://github.com/dautovicharis/Charts 此版本中的新增功能： - 贡献指南 - 演示应用程序改进和发布：https://play.google.com/store/apps/details?id=com.hd.charts.app - 动画改进：条形图、饼图、折线图 - 多折线图 - 图表数据验证 - 改进图表可用性 - 自述文件更新 完整发行说明：https://github.com/dautovicharis/Charts/releases/tag/1.2 .0 下一步：首要任务是多平台支持。如果您有任何功能请求，请告诉我，或者您可以在 Github 上创建问题。 谢谢！ 🙌   由   提交 /u/hddevv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1awl2qo/new_charts_120_release_is_live/</guid>
+      <pubDate>Wed, 21 Feb 2024 19:34:41 GMT</pubDate>
+    </item>
     <item>
       <title>IP 摄像机不具备运动检测或 AI 等功能，适用于 Windows 和 Android</title>
       <link>https://www.reddit.com/r/opensource/comments/1awepqg/ip_camera_without_features_like_motion_detection/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[   /u/rubiesordiamonds  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avkmon/an_interview_with_django_maintainer_david_wobrock/</guid>
       <pubDate>Tue, 20 Feb 2024 15:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painless Linux Servers：加速设置 VPS 服务器的工具。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1avj3qv/painless_linux_servers_a_tool_to_speed_up_setting/</link>
-      <description><![CDATA[我时不时要做的最烦人的事情之一：就是在 Linux 机器上一遍又一遍地安装相同的东西。我通常只需要启动一个 LAMP 服务器或 Python 服务器来进行机器学习。 为了节省自己的时间，并自动化这些无聊的事情 - 我构建了 Scriptables：https://plexscriptables.com/ Scriptables 是一种 GUI，用于设置 LAMP 类型服务器，并从一个地方管理服务器的防火墙和 CRONS。易于使用的 GUI。 100% 开源且免费使用。   由   提交 /u/KevinCoder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1avj3qv/painless_linux_servers_a_tool_to_speed_up_setting/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 的 opentrack 克隆！ （把招工广告）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aviwtf/a_opentrack_clone_for_linux_help_wanted/</link>
-      <description><![CDATA[ 由   提交 /u/r6memelord   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aviwtf/a_opentrack_clone_for_linux_help_wanted/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关开源项目商业化的建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1avi6ul/seeking_advice_on_commercializing_an_open_source/</link>
-      <description><![CDATA[我正在寻找一些有关将我一直在从事的开源项目商业化的建议。该项目旨在部署在客户的云帐户中，而不是传统的 SaaS 产品中。 我有兴趣听取其他已成功商业化开源项目的人的意见。哪些策略对你来说效果很好？以下是我的一些具体问题： 1.您如何定义您的价值主张并如何在拥挤的市场中使您的产品脱颖而出？2.您采取了哪些步骤来围绕您的项目建立社区，以及您是如何促进参与和贡献的？ 3.您提供了哪些专业服务或增值功能来产生收入？ 4.您是如何实现盈利的，以及您使用了什么许可模式？&lt; br /&gt; 5.您遇到过哪些挑战，是如何克服的？  我期待听到社区的声音并从你们的经验中学习。任何有关这方面的资源也都很棒。  预先感谢您的帮助！   由   提交 /u/irensaltali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1avi6ul/seeking_advice_on_commercializing_an_open_source/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:55:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
