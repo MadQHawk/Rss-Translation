@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 21 Feb 2024 09:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 12:22:03 GMT</lastBuildDate>
     <item>
-      <title>布莱克教育部</title>
-      <link>https://www.opensourceagenda.com/projects/brblacky-moe</link>
-      <description><![CDATA[MoE 是一个用于 Discord 服务器的机器人。它具有许多功能，包括但不限于发出命令、表情、音乐、主持聊天等等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/brblacky-moe</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:49 GMT</pubDate>
+      <title>沃姆</title>
+      <link>https://www.opensourceagenda.com/projects/wrm</link>
+      <description><![CDATA[删除文件或目录。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wrm</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>TFGaming DiscordJS 审核机器人</title>
-      <link>https://www.opensourceagenda.com/projects/tfagaming-discordjs-moderation-bot</link>
-      <description><![CDATA[我曾经创建过的最好的 Discord 审核机器人（不再是了），全部使用discord.js 版本14 和discord.js-v14-helper 制作。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tfagaming-discordjs-moderation-bot</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:49 GMT</pubDate>
+      <title>矿工关闭</title>
+      <link>https://www.opensourceagenda.com/projects/mineroff</link>
+      <description><![CDATA[所有矿工软件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mineroff</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>BestGamersH 多用途 Discord 机器人</title>
-      <link>https://www.opensourceagenda.com/projects/bestgamersh-multipurpose-discord-bot</link>
-      <description><![CDATA[拥有一切的机器人！ - 升级 • 音乐 • 模因 • 审核 • nsfw • 日志记录 • 门票 • 反应角色 • 乐趣 • 动漫 • 应用程序 • 更多]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bestgamersh-multipurpose-discord-bot</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:48 GMT</pubDate>
+      <title>猫山姆</title>
+      <link>https://www.opensourceagenda.com/projects/cat-sam</link>
+      <description><![CDATA[“CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything”的官方实现模型”。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cat-sam</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>阿克西奥尔</title>
-      <link>https://www.opensourceagenda.com/projects/axiol</link>
-      <description><![CDATA[🚀 适合所有人的高级 Python Discord 机器人 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/axiol</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊芙琳</title>
-      <link>https://www.opensourceagenda.com/projects/evelyn</link>
-      <description><![CDATA[释放服务器的全部潜力。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/evelyn</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>词法分析器</title>
-      <link>https://www.opensourceagenda.com/projects/lexical-analyzer</link>
-      <description><![CDATA[用 Java 编写的基本词法分析器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lexical-analyzer</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>好奇X</title>
-      <link>https://www.opensourceagenda.com/projects/curiousx</link>
-      <description><![CDATA[一个简单的微型编译器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/curiousx</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>彼得哈尼亚·波吉</title>
-      <link>https://www.opensourceagenda.com/projects/peterhanania-pogy</link>
-      <description><![CDATA[使用 Discord.js 制作的完全可定制的 Discord 机器人，具有超过 183 个命令、12 个类别和一个完全可定制的仪表板。关注超过 350,000 个用户和 1,000 个公会。 [已弃用]]]></description>
-      <guid>https://www.opensourceagenda.com/projects/peterhanania-pogy</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>死灵原子机器人</title>
-      <link>https://www.opensourceagenda.com/projects/necroatomicbot</link>
-      <description><![CDATA[功能强大的 Discord 机器人，可以安全调节 Discord 服务器，同时还提供其他功能，例如音乐和实用命令。 NecroAtomic Bot 是一个开源机器人，一直在寻找更多的贡献者来帮助进一步扩展项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/necroatomicbot</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷你C编译器</title>
-      <link>https://www.opensourceagenda.com/projects/mini-c-compiler</link>
+      <title>IOBIT 驱动程序助推器 CRACK2024</title>
+      <link>https://www.opensourceagenda.com/projects/iobit-driver-booster-crack2024</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mini-c-compiler</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:46 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/iobit-driver-booster-crack2024</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>正则表达式转DFA</title>
-      <link>https://www.opensourceagenda.com/projects/regextodfa</link>
-      <description><![CDATA[通过在java中创建语法树直接将regex（正则表达式）转换为DFA]]></description>
-      <guid>https://www.opensourceagenda.com/projects/regextodfa</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:46 GMT</pubDate>
+      <title>Wireguard 网络管理员</title>
+      <link>https://www.opensourceagenda.com/projects/wireguard-webadmin</link>
+      <description><![CDATA[wireguard_webadmin 是用于 WireGuard VPN 管理的直观 Web 界面，旨在简化 VPN 的配置和监督。它支持多用户访问和多个 WireGuard 实例。基于开源原则构建，非常适合寻求高效且用户友好的 VPN 管理解决方案的管理员。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wireguard-webadmin</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>编译器设计</title>
-      <link>https://www.opensourceagenda.com/projects/compiler-design</link>
-      <description><![CDATA[包含“编译器设计”课程所有实验的存储库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/compiler-design</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:46 GMT</pubDate>
+      <title>流畅的顺风</title>
+      <link>https://www.opensourceagenda.com/projects/fluid-tailwind</link>
+      <description><![CDATA[Tailwind 插件，可使用每个内置实用程序轻松生成 Fluid Clamp() 值。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fluid-tailwind</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>W葡萄词法分析器</title>
-      <link>https://www.opensourceagenda.com/projects/wgrape-lexer</link>
-      <description><![CDATA[A lexical analyzer based on DFA that is built using JS and supports multi-language extensions / 一个基于DFA的支持多语言扩展的JS版开源词法分析器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wgrape-lexer</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:45 GMT</pubDate>
+      <title>Figma 预览</title>
+      <link>https://www.opensourceagenda.com/projects/figma-preview</link>
+      <description><![CDATA[将 Figma 设计添加到 Xcode 预览]]></description>
+      <guid>https://www.opensourceagenda.com/projects/figma-preview</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>Llvm万花筒</title>
-      <link>https://www.opensourceagenda.com/projects/llvm-kaleidoscope</link>
-      <description><![CDATA[LLVM 教程：Kaleidscope（使用 LLVM 实现语言）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/llvm-kaleidoscope</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:45 GMT</pubDate>
+      <title>德尔LVM</title>
+      <link>https://www.opensourceagenda.com/projects/delvm</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/delvm</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>AnjaneyaTripathi C 编译器</title>
-      <link>https://www.opensourceagenda.com/projects/anjaneyatripathi-c-compiler</link>
-      <description><![CDATA[接受任何用 C 编写的有效程序的编译器。它是使用 Lex 和 Yacc 编写的。返回符号表、解析树、带注释的语法树和中间代码。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/anjaneyatripathi-c-compiler</guid>
-      <pubDate>Wed, 21 Feb 2024 09:15:45 GMT</pubDate>
+      <title>NoodleScript</title>
+      <link>https://www.opensourceagenda.com/projects/noodlescript</link>
+      <description><![CDATA[这是一种简单的解释性编程语言，其语法和功能深受 Python 启发，但带有意大利风格！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/noodlescript</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ansible Xtradb 集群</title>
+      <link>https://www.opensourceagenda.com/projects/ansible-xtradb-cluster</link>
+      <description><![CDATA[使用 ansible 安装 Percona-xtradb 集群和 Proxysql ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ansible-xtradb-cluster</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pygame 梅西·安东内拉</title>
+      <link>https://www.opensourceagenda.com/projects/pygame-messi-antonela</link>
+      <description><![CDATA[该项目包括创建一款受情人节启发的射击游戏（Space Shooter）。使用 PyGame 的一天。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pygame-messi-antonela</guid>
+      <pubDate>Wed, 21 Feb 2024 12:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>酷GPT</title>
+      <link>https://www.opensourceagenda.com/projects/cool-gpt</link>
+      <description><![CDATA[OpenAI API   百万额度 免费放送]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cool-gpt</guid>
+      <pubDate>Wed, 21 Feb 2024 12:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>苗条选框</title>
+      <link>https://www.opensourceagenda.com/projects/svelte-marquee</link>
+      <description><![CDATA[Svelte 的漂亮选框组件 ✨]]></description>
+      <guid>https://www.opensourceagenda.com/projects/svelte-marquee</guid>
+      <pubDate>Wed, 21 Feb 2024 12:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vue 变形</title>
+      <link>https://www.opensourceagenda.com/projects/vue-metamorph</link>
+      <description><![CDATA[Vue 项目的 Codemod 框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vue-metamorph</guid>
+      <pubDate>Wed, 21 Feb 2024 12:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>末日音频</title>
+      <link>https://www.opensourceagenda.com/projects/doom-audio</link>
+      <description><![CDATA[可通过音频连接播放《Doom》]]></description>
+      <guid>https://www.opensourceagenda.com/projects/doom-audio</guid>
+      <pubDate>Wed, 21 Feb 2024 12:21:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

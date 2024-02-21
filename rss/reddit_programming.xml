@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 21 Feb 2024 09:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 12:21:22 GMT</lastBuildDate>
+    <item>
+      <title>Winteracter - Fortran GUI 工具集</title>
+      <link>https://www.reddit.com/r/programming/comments/1awagqk/winteracter_the_fortran_gui_toolset/</link>
+      <description><![CDATA[ 由   提交/u/lproven  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1awagqk/winteracter_the_fortran_gui_toolset/</guid>
+      <pubDate>Wed, 21 Feb 2024 12:06:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>代数效应、所有权和借款</title>
+      <link>https://www.reddit.com/r/programming/comments/1awa2fu/algebraic_effects_ownership_and_borrowing/</link>
+      <description><![CDATA[ 由   提交/u/RndmPrsn11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1awa2fu/algebraic_effects_ownership_and_borrowing/</guid>
+      <pubDate>Wed, 21 Feb 2024 11:42:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握阶乘：用 Python 计算任何阶乘！ Python 挑战 18</title>
+      <link>https://www.reddit.com/r/programming/comments/1aw9iyp/mastering_factorials_calculate_any_factorial_with/</link>
+      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aw9iyp/mastering_factorials_calculate_any_factorial_with/</guid>
+      <pubDate>Wed, 21 Feb 2024 11:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>控制台.delight</title>
+      <link>https://www.reddit.com/r/programming/comments/1aw8jv9/consoledelight/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aw8jv9/consoledelight/</guid>
+      <pubDate>Wed, 21 Feb 2024 10:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Kubernetes 上配置 APM</title>
+      <link>https://www.reddit.com/r/programming/comments/1aw8ees/configuring_apm_on_kubernetes/</link>
+      <description><![CDATA[ 由   提交/u/ago459  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aw8ees/configuring_apm_on_kubernetes/</guid>
+      <pubDate>Wed, 21 Feb 2024 09:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TNL 进行 GPU 编程的下一集 - 这次是关于 TNL 中的并行 for 循环和 lambda 函数。</title>
+      <link>https://www.reddit.com/r/programming/comments/1aw7ye4/next_episode_of_gpu_programming_with_tnl_this/</link>
+      <description><![CDATA[ 由   提交/u/Guilty-Point4718   youtube.com/watch?v=50cgur3C_R4&amp;t=3s&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aw7ye4/next_episode_of_gpu_programming_with_tnl_this/</guid>
+      <pubDate>Wed, 21 Feb 2024 09:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 10 年编程经历</title>
+      <link>https://www.reddit.com/r/programming/comments/1aw7tuq/my_first_10_years_of_programming/</link>
+      <description><![CDATA[ 由   提交/u/wyhjsbyb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aw7tuq/my_first_10_years_of_programming/</guid>
+      <pubDate>Wed, 21 Feb 2024 09:16:00 GMT</pubDate>
+    </item>
     <item>
       <title>Roc-lang 简介和函数式编程创新 • Richard Feldman 和 James Lewis</title>
       <link>https://www.reddit.com/r/programming/comments/1aw7t2v/intro_to_roclang_innovation_in_functional/</link>
@@ -25,13 +74,6 @@
       <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aw7edk/managing_java_applications_running_in_docker/</guid>
       <pubDate>Wed, 21 Feb 2024 08:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Podlite 简介，一种轻量级的基于块的标记语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1aw6xvl/introducing_podlite_a_lightweight_blockbased/</link>
-      <description><![CDATA[ 由   提交/u/zagap  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw6xvl/introducing_podlite_a_lightweight_blockbased/</guid>
-      <pubDate>Wed, 21 Feb 2024 08:15:38 GMT</pubDate>
     </item>
     <item>
       <title>Bug 经济学</title>
@@ -62,53 +104,11 @@
       <pubDate>Wed, 21 Feb 2024 08:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>规划师的编程让我大吃一惊</title>
-      <link>https://www.reddit.com/r/programming/comments/1aw5mmw/planner_programming_blows_my_mind/</link>
-      <description><![CDATA[ 由   提交 /u/Cubezzzzz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw5mmw/planner_programming_blows_my_mind/</guid>
-      <pubDate>Wed, 21 Feb 2024 06:52:31 GMT</pubDate>
-    </item>
-    <item>
       <title>Bootstrap 与 Tailwind CSS：选择哪一个？</title>
       <link>https://www.reddit.com/r/programming/comments/1aw5d57/bootstrap_vs_tailwind_css_which_one_to_choose/</link>
       <description><![CDATA[ 由   提交/u/DevMind01  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aw5d57/bootstrap_vs_tailwind_css_which_one_to_choose/</guid>
       <pubDate>Wed, 21 Feb 2024 06:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unsafe Safe Rust（cve-rs 的工作原理）[视频]</title>
-      <link>https://www.reddit.com/r/programming/comments/1aw4t7j/unsafe_safe_rust_how_cvers_works_video/</link>
-      <description><![CDATA[ 由   提交/u/residualentropy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw4t7j/unsafe_safe_rust_how_cvers_works_video/</guid>
-      <pubDate>Wed, 21 Feb 2024 06:05:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数开发人员使用#Docker 或#Podman，但您真的了解幕后发生的事情吗？ 🧐 让我们用简单、具体的术语来揭开 #Linux #containers 的神秘面纱。</title>
-      <link>https://www.reddit.com/r/programming/comments/1aw4gi1/most_devs_use_docker_or_podman_but_do_you_really/</link>
-      <description><![CDATA[ 由   提交/u/OttoKekalainen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw4gi1/most_devs_use_docker_or_podman_but_do_you_really/</guid>
-      <pubDate>Wed, 21 Feb 2024 05:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么争论将军对互联网很重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1aw48lw/why_arguing_generals_matter_for_the_internet/</link>
-      <description><![CDATA[ 由   提交/u/Chii  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw48lw/why_arguing_generals_matter_for_the_internet/</guid>
-      <pubDate>Wed, 21 Feb 2024 05:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是可靠的数据系统？</title>
-      <link>https://www.reddit.com/r/programming/comments/1aw3y84/what_is_a_reliable_data_system/</link>
-      <description><![CDATA[ 由   提交 /u/ImportantA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw3y84/what_is_a_reliable_data_system/</guid>
-      <pubDate>Wed, 21 Feb 2024 05:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 JavaScript 深入研究 Big O 表示法 - <FrontBackGeek/></title>
-      <link>https://www.reddit.com/r/programming/comments/1aw3489/a_deep_dive_into_big_o_notation_with_javascript/</link>
-      <description><![CDATA[ 由   提交/u/codeagencyblog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aw3489/a_deep_dive_into_big_o_notation_with_javascript/</guid>
-      <pubDate>Wed, 21 Feb 2024 04:33:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
