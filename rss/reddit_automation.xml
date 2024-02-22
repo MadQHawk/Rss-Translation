@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 22 Feb 2024 15:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 18:14:51 GMT</lastBuildDate>
+    <item>
+      <title>当我没有收到来自已关闭的备份系统的电子邮件（未发送电子邮件）时，如何收到通知</title>
+      <link>https://www.reddit.com/r/automation/comments/1axa6id/how_i_got_notified_when_i_dont_receive_an_email/</link>
+      <description><![CDATA[嗨， 我们有太多的备份系统从不同的客户端运行，基本上我们收到了太多有关已完成的备份作业，当出现错误时，我们会收到一封有关它的电子邮件，当有警告或成功时也是如此，但是当备份系统关闭或服务停止时，备份不会发送给我们电子邮件，我们花了很长时间才知道特定的备份已关闭，我们正在寻找一个自动化系统可以向我们发出这种警报，当备份关闭或在一定时间内没有收到电子邮件时，它会给我们一个有关该故障的通知，因此我们知道该特定备份存在问题...我们的客户不想雇用某人来监控备份和发送的所有电子邮件，而且我们也无法监控每天从所有客户收到的大量电子邮件。 .  我希望这一点能够清楚并得到一些建议或任何软件来解决这个问题。  ​ 感谢大家 Reda   由   提交 /u/RedzaGhariba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1axa6id/how_i_got_notified_when_i_dont_receive_an_email/</guid>
+      <pubDate>Thu, 22 Feb 2024 16:11:49 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能与自动化：到 2025 年印度 GDP 将增长 5000 亿美元，引发迫切的劳动力转型</title>
       <link>https://www.reddit.com/r/automation/comments/1awyv2l/ai_automation_500_billion_boost_to_indias_gdp_by/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>我如何自动化我朋友的日常工作！让我知道你的想法！</title>
       <link>https://www.reddit.com/r/automation/comments/1avthng/how_i_automated_my_friends_daily_grind_let_me/</link>
-      <description><![CDATA[我的朋友问他的 Twitter 内容生成和加密研究是否可以自动化。 我很感兴趣，决定帮助他自动化他的整个工作流程。我研究了他如何手动执行此操作，并找到了一些可以轻松自动化的常见模式。 我的方法是这样的： ​ &lt; ol&gt; 编制 dexscreener、dexcheck 等网络资源列表，以收集趋势代币。 根据市值等各种重要因素筛选优质代币、数量、币龄等。 将具有相似标准的代币分组。例如，微型市值代币应具有至少 50 万美元以上的交易量、10 万美元以上的上限等。 最后，一些用于跟踪代币表现的 KPI。  ​ 我使用 Python 和 JavaScript 来抓取趋势代币数据。我没有使用一些固定参数，而是将其设为动态参数并由用户定义，以找到更好的标记。然后，我将干净的数据发送到谷歌表格进行处理和可视化以获得见解。该程序每小时自动在 Twitter 上分享顶级代币的摘要，并在时事通讯中编制表现最佳代币的每周摘要。 我很高兴这种自动化使他的工作变得更加轻松，减少了近 90%辛苦了。让我知道你的想法！   由   提交 /u/Ill_Concept_6002   [链接] [评论]]]></description>
+      <description><![CDATA[我的朋友问他的 Twitter 内容生成和加密研究是否可以自动化。 我很感兴趣，决定帮助他自动化他的整个工作流程。我研究了他如何手动执行此操作，并找到了一些可以轻松自动化的常见模式。 我的方法是这样的： ​ &lt; ol&gt; 编制 dexscreener、dexcheck 等网络资源列表，以收集趋势代币。 根据市值等各种重要因素筛选优质代币、数量、币龄等。 将具有相似标准的代币分组。例如，微型市值代币应具有至少 50 万美元以上的交易量、10 万美元以上的上限等。 最后，一些用于跟踪代币性能的 KPI。  ​ 我使用 Python 和 JavaScript 来抓取趋势代币数据。我没有使用一些固定参数，而是将其设为动态参数并由用户定义，以找到更好的标记。然后，我将干净的数据发送到谷歌表格进行处理和可视化以获得见解。该程序每小时自动在 Twitter 上分享顶级代币的摘要，并在时事通讯中编制表现最佳代币的每周摘要。 我很高兴这种自动化使他的工作变得更加轻松，减少了近 90%辛苦了。让我知道你的想法！   由   提交 /u/Ill_Concept_6002   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1avthng/how_i_automated_my_friends_daily_grind_let_me/</guid>
       <pubDate>Tue, 20 Feb 2024 21:30:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/rhypple   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1au8neg/what_is_your_bet_on_the_year_in_which_a/</guid>
       <pubDate>Sun, 18 Feb 2024 23:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>计划基于 iOS/iPhone 应用逆向工程制作我自己的 tiktok SaaS 机器人解决方案出于自动化目的重建所有请求</title>
-      <link>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</link>
-      <description><![CDATA[考虑到所需的速度、安全性（闭源，不可反编译）、稳定性、平台独立性和可扩展性，我会使用C++。还有许多 C/C++ 库可用于常规任务，例如 HTTP 请求、cookie、 我想要使用的方法是：官方/ iOS tiktok 应用程序的直接 HTTPS 调用。直接使用私有 tiktok API。 如何在没有移动应用的情况下发送请求？我要发送移动足迹吗？用 C++ 编写的特殊工具集，对于第一次测试，我使用 PHP/libcurl。不使用模拟器、ADB 桥接器、连接的手机。 有几个任务示例如何检查从真实手机通过移动应用程序发送的请求？具有自定义扩展的特殊代理级联、SSL 取消固定、解密、几部 iPhone、大量工作（数周到数月的日常工作）。一些任务： - 普通 HTTP/1.1 或 HTTP/2.0 请求， - 用于登录等身份验证步骤 - 跟随消息等。 -特殊任务，例如统一视频（使它们看起来独特）。 我想让你的机器人尽可能地模拟人类行为，以保持在雷达之下......但是当涉及到识别传入的信息时消息（检测它们，扫描它们的内容，发送匹配的回复）ADB 不再工作。另一方面，如果我真的有一个“客户较少”的情况。 （没有连接的手机）环境，基于真正的逆向工程应用程序代码，我可以简单地调用一个方法，并将收到所有传入的真实文本消息。无 OCR、100% 匹配、100% 匹配回复。 我使用旧 iPhone，因此当绕过加密、安全或 SSL 固定相关时，是否可以自动执行新帐户注册过程？  p&gt; 使用 IMAP 验证电子邮件 使用数据库保存和检索数据。   由   提交 /u/Independent-Bill-770   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1atx190/planning_on_making_my_own_tiktok_saas_bot/</guid>
-      <pubDate>Sun, 18 Feb 2024 15:47:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
