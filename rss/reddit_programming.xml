@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 22 Feb 2024 09:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 12:20:34 GMT</lastBuildDate>
+    <item>
+      <title>看过 IBM 的 8088mph 和 Area5150 - 有 Vectrex 演示吗？那真是太棒了！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax505n/having_see_8088mph_and_area5150_for_ibms_are/</link>
+      <description><![CDATA[ 由   提交/u/ThersATypo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax505n/having_see_8088mph_and_area5150_for_ibms_are/</guid>
+      <pubDate>Thu, 22 Feb 2024 12:14:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Android 应用程序部署到 Google Play 商店 |在 Visual Studio 中生成 Android APK</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax4esq/deploy_android_app_to_google_play_store_generate/</link>
+      <description><![CDATA[ 由   提交/u/monsterboz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax4esq/deploy_android_app_to_google_play_store_generate/</guid>
+      <pubDate>Thu, 22 Feb 2024 11:40:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧的和现代的数据库中的矢量搜索</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax47fq/vector_search_in_old_and_modern_databases/</link>
+      <description><![CDATA[ 由   提交/u/airolG_avodargoniV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax47fq/vector_search_in_old_and_modern_databases/</guid>
+      <pubDate>Thu, 22 Feb 2024 11:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择正确的框架：React Native、Swift、Kotlin、Flutter</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax40ez/choosing_the_right_framework_react_native_vs/</link>
+      <description><![CDATA[ 由   提交/u/Sea_Flower_1988   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax40ez/choosing_the_right_framework_react_native_vs/</guid>
+      <pubDate>Thu, 22 Feb 2024 11:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python Functools 的 7 个用途让你的代码更专业</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax3s92/7_uses_of_python_functools_that_make_your_code/</link>
+      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax3s92/7_uses_of_python_functools_that_make_your_code/</guid>
+      <pubDate>Thu, 22 Feb 2024 11:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>十亿行挑战 (1BRC) - 从 71 秒到 1.7 秒的逐步过程</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax3okp/the_billion_row_challenge_1brc_stepbystep_from/</link>
+      <description><![CDATA[ 由   提交/u/_shadowbannedagain  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax3okp/the_billion_row_challenge_1brc_stepbystep_from/</guid>
+      <pubDate>Thu, 22 Feb 2024 10:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想编写一个Python网络抓取代码来在eatcells（基本上是agar.io的副本）中生成细胞并将它们引导到我的电线上。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax33oz/i_want_to_make_a_python_web_scraping_code_to/</link>
+      <description><![CDATA[我最近在玩这个名为 eatcells 的游戏，它基本上是一个 agar.io，但只是一个较少的延迟服务器和较少的玩家。我记得在 agar.io 上每个人都作弊并让机器人进入他们的牢房，我想做同样的事情，但是在复制游戏中..你知道我怎样才能做到吗？   由   提交 /u/Shyzucek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax33oz/i_want_to_make_a_python_web_scraping_code_to/</guid>
+      <pubDate>Thu, 22 Feb 2024 10:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么有人会做像暴徒编程这样荒谬的事情</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax2vlo/why_would_anyone_do_something_as_absurd_as_mob/</link>
+      <description><![CDATA[ 由   提交 /u/newmudbat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax2vlo/why_would_anyone_do_something_as_absurd_as_mob/</guid>
+      <pubDate>Thu, 22 Feb 2024 10:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>SHA-256 底层原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax2kdm/sha256_under_the_hood/</link>
+      <description><![CDATA[ 由   提交/u/pickeydotai  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax2kdm/sha256_under_the_hood/</guid>
+      <pubDate>Thu, 22 Feb 2024 09:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>认为这是一本非常有趣的读物。它探索了 IC、团队和 EM 的行为模式，从值得赞扬的到完全值得称赞的 💩</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax2fj5/thought_it_was_a_pretty_interesting_read_it/</link>
+      <description><![CDATA[ 由   提交 /u/Background_Prompt921   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax2fj5/thought_it_was_a_pretty_interesting_read_it/</guid>
+      <pubDate>Thu, 22 Feb 2024 09:32:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从开发工具隐藏 React 中的源代码 [3 种不同的方式]</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax2ebf/how_to_hide_the_source_code_in_react_from_dev/</link>
+      <description><![CDATA[ 由   提交/u/JeevaRamanathan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax2ebf/how_to_hide_the_source_code_in_react_from_dev/</guid>
+      <pubDate>Thu, 22 Feb 2024 09:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>一步步解读某些编程语言中0.6 + 0.3 = 0.8999999999999999背后的原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1ax2dnx/decoding_the_reason_behind_06_03/</link>
+      <description><![CDATA[ 由   提交/u/JeevaRamanathan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ax2dnx/decoding_the_reason_behind_06_03/</guid>
+      <pubDate>Thu, 22 Feb 2024 09:29:25 GMT</pubDate>
+    </item>
     <item>
       <title>当您的文章出现在黑客新闻的第二页时会发生什么一些流量洞察</title>
       <link>https://www.reddit.com/r/programming/comments/1ax235w/what_happens_when_your_article_gets_on_second/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ax1wg1/taking_decisions_in_engineering_teams/</guid>
       <pubDate>Thu, 22 Feb 2024 08:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 VSCode 的 Go 堆栈跟踪可视化工具扩展</title>
-      <link>https://www.reddit.com/r/programming/comments/1ax1138/a_go_stack_trace_visualizer_extension_for_vscode/</link>
-      <description><![CDATA[ 由   提交/u/1A111A05   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ax1138/a_go_stack_trace_visualizer_extension_for_vscode/</guid>
-      <pubDate>Thu, 22 Feb 2024 07:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python技巧二</title>
-      <link>https://www.reddit.com/r/programming/comments/1ax0v9t/python_tip_two/</link>
-      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ax0v9t/python_tip_two/</guid>
-      <pubDate>Thu, 22 Feb 2024 07:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>注意：即将举行的 Stack Overflow 版主选举</title>
-      <link>https://www.reddit.com/r/programming/comments/1ax0m1r/heads_up_upcoming_stack_overflow_moderator/</link>
-      <description><![CDATA[ 由   提交/u/starball-tgz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ax0m1r/heads_up_upcoming_stack_overflow_moderator/</guid>
-      <pubDate>Thu, 22 Feb 2024 07:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经完成 Safari 扩展的开发了！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ax0jgr/im_done_developing_safari_extensions/</link>
-      <description><![CDATA[ 由   提交/u/juraj_m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ax0jgr/im_done_developing_safari_extensions/</guid>
-      <pubDate>Thu, 22 Feb 2024 07:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Vitis HLS 中设计 AXI4 流接口</title>
-      <link>https://www.reddit.com/r/programming/comments/1ax01gp/how_to_design_an_axi4_stream_interface_in_vitis/</link>
-      <description><![CDATA[ 由   提交 /u/Pioneer_X   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ax01gp/how_to_design_an_axi4_stream_interface_in_vitis/</guid>
-      <pubDate>Thu, 22 Feb 2024 06:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您相信人工智能驱动的测试吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1awzu05/do_you_trust_aidriven_testing/</link>
-      <description><![CDATA[ 由   提交/u/soap94  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awzu05/do_you_trust_aidriven_testing/</guid>
-      <pubDate>Thu, 22 Feb 2024 06:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>加入系统设计小组，分享和改进应用程序设计。经验丰富的高级工程师提供反馈，促进协作学习。让我们共同增进了解</title>
-      <link>https://www.reddit.com/r/programming/comments/1awztid/join_system_design_group_to_share_and_improve/</link>
-      <description><![CDATA[ 由   提交/u/Ok_Slip_5843   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awztid/join_system_design_group_to_share_and_improve/</guid>
-      <pubDate>Thu, 22 Feb 2024 06:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 程序：将两个数字相加并得出总和。 Python 挑战 19</title>
-      <link>https://www.reddit.com/r/programming/comments/1awzs3x/python_program_add_two_numbers_and_get_the_sum/</link>
-      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awzs3x/python_program_add_two_numbers_and_get_the_sum/</guid>
-      <pubDate>Thu, 22 Feb 2024 06:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自始至终都是人类</title>
-      <link>https://www.reddit.com/r/programming/comments/1awz6xr/its_humans_all_the_way_down/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awz6xr/its_humans_all_the_way_down/</guid>
-      <pubDate>Thu, 22 Feb 2024 06:04:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有一次 Keygen 宕机了 5 个小时（两次）</title>
-      <link>https://www.reddit.com/r/programming/comments/1awxpos/that_one_time_keygen_went_down_for_5_hours_twice/</link>
-      <description><![CDATA[ 由   提交 /u/Inevitable-Swan-714   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awxpos/that_one_time_keygen_went_down_for_5_hours_twice/</guid>
-      <pubDate>Thu, 22 Feb 2024 04:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>NvFBC-Relay：对 Nvidia Capture SDK API 的优雅、新颖且有用的滥用</title>
-      <link>https://www.reddit.com/r/programming/comments/1awvvzx/nvfbcrelay_an_elegant_novel_and_useful_abuse_of/</link>
-      <description><![CDATA[ 由   提交/u/NvFBC-Relay  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awvvzx/nvfbcrelay_an_elegant_novel_and_useful_abuse_of/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>txtai 7.0 发布：添加对图搜索、高级图遍历和图 RAG 的支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1awv5y8/txtai_70_released_adds_support_for_graph_search/</link>
-      <description><![CDATA[ 由   提交/u/davidmezzetti  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1awv5y8/txtai_70_released_adds_support_for_graph_search/</guid>
-      <pubDate>Thu, 22 Feb 2024 02:34:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
