@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 21:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 00:52:13 GMT</lastBuildDate>
+    <item>
+      <title>我什么时候必须使用 MIT 许可代码？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1awobtf/when_do_i_have_to_credit_with_mit_licensed_code/</link>
+      <description><![CDATA[假设我使用 pip 安装了一个 python 库，并在我的项目中使用该库。该项目是否必须包含 python 库的信用和许可证？或者这只适用于有人直接使用源代码并将其直接放置在其 git 存储库中的某个位置？   由   提交 /u/TimeDilution   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1awobtf/when_do_i_have_to_credit_with_mit_licensed_code/</guid>
+      <pubDate>Wed, 21 Feb 2024 21:44:22 GMT</pubDate>
+    </item>
     <item>
       <title>开源法学硕士与专有法学硕士在标记胸部 X 射线报告方面的比较</title>
       <link>https://www.reddit.com/r/opensource/comments/1awnc8x/open_source_llms_vs_proprietary_llms_in_labeling/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[嘿，我是软件工程专业的三年级学生，这是我大学最后一个学期的一部分，我必须找到一个错误或添加一个功能一个开源项目。我很难弄清楚该选择什么，因为这是我的第一个开源贡献。我有接下来的 14 周时间来完成这项工作，并且我还正在与另一名学生一起工作。 我想使用 C++、C#、SQL、java 或 python 进行工作。 什么您认为这是一个值得贡献的好项目吗？它不应该过于复杂，但也不应该简单。 谢谢   由   提交/u/aborges420  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1awlfvu/first_open_source_project/</guid>
       <pubDate>Wed, 21 Feb 2024 19:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>🥳 新图表 1.2.0 已上线！ 📊📈📉</title>
-      <link>https://www.reddit.com/r/opensource/comments/1awl2qo/new_charts_120_release_is_live/</link>
-      <description><![CDATA[https://github.com/dautovicharis/Charts 此版本中的新增功能： - 贡献指南 - 演示应用程序改进和发布：https://play.google.com/store/apps/details?id=com.hd.charts.app - 动画改进：条形图、饼图、折线图 - 多折线图 - 图表数据验证 - 改进图表可用性 - 自述文件更新 完整发行说明：https://github.com/dautovicharis/Charts/releases/tag/1.2 .0 下一步：首要任务是多平台支持。如果您有任何功能请求，请告诉我，或者您可以在 Github 上创建问题。 谢谢！ 🙌   由   提交 /u/hddevv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1awl2qo/new_charts_120_release_is_live/</guid>
-      <pubDate>Wed, 21 Feb 2024 19:34:41 GMT</pubDate>
     </item>
     <item>
       <title>IP 摄像机不具备运动检测或 AI 等功能，适用于 Windows 和 Android</title>
