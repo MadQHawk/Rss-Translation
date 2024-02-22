@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 18:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 21:11:18 GMT</lastBuildDate>
+    <item>
+      <title>寻找有关 JSON 屏蔽库的反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1axgxcm/looking_for_feedback_on_json_masking_library/</link>
+      <description><![CDATA[ 由   提交 /u/ArthurGavlyukovskiy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1axgxcm/looking_for_feedback_on_json_masking_library/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:34:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个新的简单开源工具：Note Map</title>
+      <link>https://www.reddit.com/r/opensource/comments/1axdtu7/a_new_simple_open_source_tool_note_map/</link>
+      <description><![CDATA[🎉 刚刚发布！ 📝 笔记图：轻松组织、可视化和讨论文本笔记。轻松搜索、聊天、集思广益。 我写了一个项目的认知部分的主要代码，但我认为最好添加一个图形界面，以便每个人都可以使用它. https://github.com/SudoACoder/note_map 请给出如果您喜欢，请加星！   由   提交/u/Mr3600  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1axdtu7/a_new_simple_open_source_tool_note_map/</guid>
+      <pubDate>Thu, 22 Feb 2024 18:33:05 GMT</pubDate>
+    </item>
     <item>
       <title>苹果对开源的贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1axc7ym/apples_contributions_to_open_source/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[RGFW 是一个单头轻量级多平台单头非常简单易用的框架库，用于创建 GUI 库或简单的 GUI 程序。它被编写为尽可能可移植，并支持 winapi、Xlib 和 cocoas 的窗口 api。对于图形 API，它支持 OpenGL 传统、现代 OpenGL、Vulkan 和 DirectX。它允许您创建一个带有图形上下文（opengl、vulkan 或 directX）的窗口，并仅通过几个函数调用来管理该窗口及其事件。 更多信息可以在 RGFW 存储库中找到，例如中提供的表格显示 RGFW 支持的特定内容以及有关 RGFW 与 GLFW 相比的其他信息的标头。文档可以在标头本身 RGFW.h 中找到。 github 存储库：https://github.com/ColleagueRiley/RGFW&lt; /a&gt;   由   提交 /u/Comrade-Riley    reddit.com/r/opensource/comments/1aw2dd1/rgfw_singlerheader_lightweight_framework_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aw2dd1/rgfw_singlerheader_lightweight_framework_for/</guid>
       <pubDate>Wed, 21 Feb 2024 03:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于托管服务的开源电子商务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aw16e4/open_source_ecommerce_for_hosting_service/</link>
-      <description><![CDATA[托管服务电子商务有开源选项吗？可以从用户那里获取有关托管（用户名）的输入和计费信息，向用户收费，然后传递用于托管服务配置的信息。   由   提交 /u/craftbot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aw16e4/open_source_ecommerce_for_hosting_service/</guid>
-      <pubDate>Wed, 21 Feb 2024 02:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>添加赞助链接感到尴尬</title>
-      <link>https://www.reddit.com/r/opensource/comments/1avwo4u/feeling_awkward_about_adding_a_sponsorship_link/</link>
-      <description><![CDATA[你好！ 我一直在人工智能领域构建一个开源项目，并且与很多用户进行了交谈，并发现了一些令人兴奋的利基市场，我可以在此基础上继续发展。不过，由于可能需要一些 AI 和其他 API 成本，所以我别无选择，只能放一个赞助链接。我之前创建的任何开源项目都没有明确这样做过，这一次我感到很尴尬。 以下是我的主要担忧以及我向您寻求的建议： - 我如何才能有效地传达财务支持的需求，而又不会损害项目的开源完整性或我们社区的信任？   我们如何整合财务支持机制，以符合我们对开源原则的承诺和项目的协作精神？     由   提交 /u/metalvendetta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1avwo4u/feeling_awkward_about_adding_a_sponsorship_link/</guid>
-      <pubDate>Tue, 20 Feb 2024 23:38:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
