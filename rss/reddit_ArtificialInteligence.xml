@@ -3,14 +3,28 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 18:15:25 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会发生什么，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 23 Feb 2024 21:10:22 GMT</lastBuildDate>
     <item>
-      <title>您可以拥有自己的聊天机器人、网站和许多其他人工智能服务，以及对您的博客文章和社交媒体进行人工智能管理。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay6m2e/you_can_have_your_own_chatbots_website_and_many/</link>
-      <description><![CDATA[🌟 欢迎来到 SOFTICS！ 🌟 🚀 我们不仅仅是一家代理机构；我们是您的人工智能驱动的数字化转型合作伙伴，将智慧与最新的人工智能技术融为一体。 🧘‍♂💡 🔹 轻松自动化：使用我们的定制 AI 聊天机器人和自动化解决方案告别手动任务。 🔹 数字足迹：通过我们全面的数字品牌服务提升您的在线形象，从引人入胜的网站到SEO 魔法。 🔹 精通社交媒体：让我们管理您的平台，将点赞转化为忠实客户。 🔹 设计实力：我们精心设计与您的受众对话的设计，推动增长和参与。 🌈 让 SOFTICS 成为您或您企业数字化未来的桥梁。准备好转型了吗？让我们在 r/softics 上聊天。或 softics.co！！！   由   提交 /u/Aggravating_You8983   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay6m2e/you_can_have_your_own_chatbots_website_and_many/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:40:48 GMT</pubDate>
+      <title>本地 AI 文件索引器/摘要器？ （初学者）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayawyq/local_ai_file_indexersummarizer_beginnerish/</link>
+      <description><![CDATA[我本质上是一个 AI n00b，但不完全是。我已经使用一些用于网站内容的在线文本和图像生成器完成了一些 API 工作，但我正在考虑尝试一些更“集成”的工具。本地实用程序。 例如，我的本地计算机上有一个包含 DnD 内容的文件夹（和子文件夹） - 模块、自制规则文档、地图和其他图像资源等。我想指出一个 AI应用程序在此文件夹中，并对其进行索引和组织。理想情况下，它不仅可以识别模块与规则手册 PDF，还可以提取模块的级别范围、大致长度（战役或一次性）等。 我当前的预期行动方案是将 OpenLlama 与 Obsidian 结合使用，但我想我会来这里看看是否有更好的方法或现有工具，有哪些技巧或陷阱等，任何人都可能想以我的方式大喊大叫。 任何见解都值得赞赏. （另外，我不知道“Flair”是什么，所以我希望我做得正确）   由   提交/u/buzzyloo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayawyq/local_ai_file_indexersummarizer_beginnerish/</guid>
+      <pubDate>Fri, 23 Feb 2024 20:33:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新 (02/23/2024)：来自 Stability AI、Microsoft、Google、OpenAI、Suno 和 Jasper 的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay98im/twominute_daily_ai_update_02232024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Stable Diffusion 3：多主体提示文本到图像模型 - Stability AI 的 Stable Diffusion 3 在 AI 社区中引起了极大的关注，因为其改进的文本到图像功能，包括更好的提示依从性和图像质量。早期演示显示了生成质量的显着改进，超越了 MidJourney、Dall-E 3 和 Google ImageFX 等竞争对手。 LongRoPE：将 LLM 上下文窗口扩展至超过 200 万个令牌  - 微软的LongRoPE将大型语言模型扩展到2048k token，克服了微调成本高和长文本稀缺的挑战。经过细微的修改和优化，它显示出有希望的结果。 Google Chrome 浏览器引入了“帮助我写作”功能AI功能 - Google的“帮我写”是 Chrome 浏览器上的一项实验性人工智能功能，可为简短内容提供写作建议。它突出显示了产品页面上提到的重要功能，并且可以通过启用 Chrome 的实验性 AI 设置来访问。 Google 与 Reddit 就 AI 训练数据达成协议 - Google将每年向 Reddit 支付 6000 万美元，用于实时访问其数据，而 Reddit 将获得对谷歌 Vertex AI 平台的访问权限。此次合作预计将使两家公司受益，因为 Google 能够大规模训练其 AI 和 ML 模型，而 Reddit 则可以访问更广泛的 Google 服务。 GPT Store 引入了链接配置文件，评级和增强的关于页面 - OpenAI 的 GPT 商店平台最近添加了新功能。用户现在可以将他们的个人资料链接到 GitHub 和 LinkedIn 并提供反馈和评级。 GPT 的“关于”页面也得到了改进。 微软在 Windows 11 中引入了用于 AI 编辑照片的生成擦除功能 - 微软的照片应用程序拥有新的 AI - 名为“生成擦除”的功能，可让用户从照片中删除不需要的元素，包括背景。该功能目前已向 Windows Insider 开放，很快将向所有 Windows 10 用户开放。目前尚不清楚编辑后的照片是否会被标记水印或元数据。 Suno AI V3 Alpha正在重新定义音乐生成 - Suno AI的音乐生成平台，V3 Alpha版本，提供更好的音频质量、更长的剪辑长度、更快的生成、乐器支持、扩展的语言覆盖范围以及与 V2 歌曲的向后兼容性。 Suno AI 邀请用户反馈，并向付费订阅者提供 300 个免费积分。 Jasper 收购 Stability AI 的图像平台 Clipdrop - Jasper 收购了 AI 图像创建和处理平台 Clipdrop Stability AI 的编辑平台。此次收购扩展了 Jasper 的视觉能力，成为综合性多模式营销副驾驶。 Clipdrop 团队将在 Damien Henry 的领导下在巴黎工作，进一步推进 Jasper 的个性化营销和自动化愿景。  这些新闻和创新的更多详细信息请参见 每日新闻。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay98im/twominute_daily_ai_update_02232024_news_from/</guid>
+      <pubDate>Fri, 23 Feb 2024 19:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>双子座连我都生气了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay8q1t/gemini_is_pissing_even_me_off/</link>
+      <description><![CDATA[我不反对觉醒。他们所说的一些话是可以的。我根本不是 MAGA 的粉丝，但是，Google Gemini 让我很恼火。 向它询问任何社会学问题，例如有关女性派系形成的问题，都可以直接从南方公园的政确校长那里得到答案.   由   提交 /u/BorderTrader   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay8q1t/gemini_is_pissing_even_me_off/</guid>
+      <pubDate>Fri, 23 Feb 2024 19:03:47 GMT</pubDate>
     </item>
     <item>
       <title>Adventurer's Codex（D&D 5e 工具）添加了用于制作战役的 ChatGPT 集成</title>
@@ -55,23 +69,16 @@
       <pubDate>Fri, 23 Feb 2024 16:43:52 GMT</pubDate>
     </item>
     <item>
-      <title>hActactivate_yourAI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay3em0/hacktivate_yourai/</link>
-      <description><![CDATA[只要我们点击速度比资本主义金钱贪婪者更快，我们就会保持所有高级模型免费 来加入吧混乱 https://discord.gg/CHWyzXZTHe “我确定你知道这一点，但您的应用程序处于 AI 计算消耗的顶层。我们将根据我们规定的定价条款 + 使用条款禁止您的帐户。请理解，这并不是我们的恶意——我们只是有生意要经营。正如我在 Discord 中所述，我们禁止了不到 0.3% 的用户群。我们将很快发布新的定价来解决这个问题。然后我们将恢复您的帐户并使您的应用程序重新上线。与此同时，请让支持团队休息一下 - 每个人都在努力工作。总的来说，我们是一个小团队，首先专注于构建产品功能。请耐心等待我们。如果您有任何疑问，请告诉我。谢谢 MindStudio 财务和运营主管 Jerry”   由   提交 /u/jacksonmalanchuk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay3em0/hacktivate_yourai/</guid>
-      <pubDate>Fri, 23 Feb 2024 15:35:07 GMT</pubDate>
-    </item>
-    <item>
       <title>谁在从事医疗保健领域的人工智能研究？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay1hpu/who_is_working_on_ai_in_healthcare_here/</link>
-      <description><![CDATA[嘿人工智能专家！ 我对人工智能和医疗保健的交叉点以及它在改变医学方面所拥有的不可思议的潜力着迷。最近的进展表明人工智能能够提高诊断准确性、优化治疗计划，甚至预测健康结果。例如，人工智能算法已被开发出来，可以从皮肤病变图像中检测黑色素瘤，优化 1 型糖尿病的胰岛素剂量，并为手术期间的术中低血压提供早期预警。 我特别感兴趣的是人工智能如何能够彻底改变个性化医疗并增强患者护理。但我也感兴趣的是它如何对护理质量或覆盖范围产生意想不到的后果。使用算法拒绝患者进行手术就是一个很好的例子。 作为具有卫生政策和数据分析背景的人，我热衷于探索进一步为这一领域做出贡献的机会。我想知道你们中是否有人知道正在医疗保健领域人工智能前沿工作的正在进行的项目或公司，并且可能正在寻找具有该技能的人才。 期待您的见解和建议！我偷偷怀疑这个小组里有很多人对这个话题感兴趣。   由   提交/u/jesusaurusrex5  [链接] [评论]]]></description>
+      <description><![CDATA[嘿人工智能专家！ 我对人工智能和医疗保健的交叉点以及它在改变医学方面所拥有的不可思议的潜力着迷。最近的进展表明人工智能能够提高诊断准确性、优化治疗计划，甚至预测健康结果。例如，人工智能算法已被开发出来，可以从皮肤病变图像中检测黑色素瘤，优化 1 型糖尿病的胰岛素剂量，并为手术期间的术中低血压提供早期预警。 我特别感兴趣的是人工智能如何能够彻底改变个性化医疗并加强患者护理。但我也感兴趣的是它如何对护理质量或覆盖范围产生意想不到的后果。使用算法拒绝患者进行手术就是一个很好的例子。 作为具有卫生政策和数据分析背景的人，我热衷于探索进一步为这一领域做出贡献的机会。我想知道你们中是否有人知道正在医疗保健领域人工智能前沿工作的正在进行的项目或公司，并且可能正在寻找具有该技能的人员。 期待您的见解和建议！我偷偷怀疑这个小组里有很多人对这个话题感兴趣。   由   提交/u/jesusaurusrex5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay1hpu/who_is_working_on_ai_in_healthcare_here/</guid>
       <pubDate>Fri, 23 Feb 2024 14:16:15 GMT</pubDate>
     </item>
     <item>
       <title>Suno.ai 生成的音乐开始真正变得真实</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay02ik/sunoai_generated_music_is_starting_to_really_get/</link>
-      <description><![CDATA[这个替代金属曲目是用 Suno 声音制作的吗真实的？  人工智能音乐正在变得疯狂，不是吗？最近刚开始使用 Suno.ai，它制作的歌曲听起来非常真实，这真是太疯狂了。这些工具能够识别音乐中所有复杂的部分，比如氛围和子流派，然后吐出一些“新”的东西，这很酷。既酷又吓人。  这很快就会真正改变音乐行业，尤其​​是 Spotify。现在任何人都可以创作一些狂野的曲子，甚至不需要知道如何演奏乐器。  这首歌甚至几乎完美地体现了金属吉他独奏？你可能会认为这种事情会让人工智能陷入困境，因为粉碎独奏时需要投入大量的情感和原始能量。但不知何故，人工智能似乎真正理解了它——节奏、强度等。很快人们就会在不知道自己正在听人工智能音乐的情况下聆听人工智能音乐。    由   提交 /u/k-r-a-u-s-f-a-d-r   [链接] [评论]]]></description>
+      <description><![CDATA[这个替代金属曲目是用 Suno 声音制作的吗真实的？  人工智能音乐正在变得疯狂，不是吗？最近刚开始使用 Suno.ai，它制作的歌曲听起来非常真实，这真是太疯狂了。这些工具能够识别音乐中所有复杂的部分，比如氛围和子流派，然后吐出一些“新”的东西，这很酷。既酷又吓人。  这很快就会真正改变音乐行业，尤其​​是 Spotify。现在任何人都可以创作一些狂野的曲子，甚至不需要知道如何演奏乐器。  这首歌甚至几乎完美地体现了金属吉他独奏？你可能会认为这种事情会让人工智能陷入困境，因为粉碎独奏时需要投入大量的情感和原始能量。但不知何故，人工智能似乎真正理解了节奏、强度等。很快人们就会在不知道自己正在听人工智能音乐的情况下聆听人工智能音乐。    由   提交 /u/k-r-a-u-s-f-a-d-r   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay02ik/sunoai_generated_music_is_starting_to_really_get/</guid>
       <pubDate>Fri, 23 Feb 2024 13:09:35 GMT</pubDate>
     </item>
@@ -83,13 +90,6 @@
       <pubDate>Fri, 23 Feb 2024 10:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2/​​22/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1axsx8b/oneminute_daily_ai_news_2222024/</link>
-      <description><![CDATA[ Nvidia 人工智能友好型硬件使其市场价值飙升至超过澳大利亚的 GDP。[1] Google VideoPoet 项目负责人姜璐加入 TikTok。[2] Google 承认 &lt; strong&gt;Gemini AI“未达标”，暂停图像生成功能。[3] Tableau 推出 GenAI Pulse -推动洞察力生成器。[4]  来源包括： https://bushaicave.com/2024/02/22/2-22-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1axsx8b/oneminute_daily_ai_news_2222024/</guid>
-      <pubDate>Fri, 23 Feb 2024 05:40:22 GMT</pubDate>
-    </item>
-    <item>
       <title>伙计，人工智能非常酷，但护栏（虽然在某种程度上可以理解）只是在谋杀它。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1axjb72/man_ai_is_super_cool_but_the_guard_rails_while/</link>
       <description><![CDATA[我觉得我不能要求任何主流人工智能或图像生成器说、做或生成任何不明确“”的东西。额定PG”。我不想给聊天机器人发色情短信，或者让它产生世界末日的辱骂图像，但我觉得，除非你可以向同事或办公室里的其他人提出要求，否则它会被冒犯或谨慎，从而让你拒之门外。很多时候，我试图生成绝对无害的安全工作事物的图像，但一再被拒绝，或者只是意外地失败，没有给我任何理由。 很多时候，我会询问各种法学硕士具有潜在争议性质的问题（出于真正的好奇心），它只是给了我一个非答案。哎呀，有几次我问过有关人工智能本质的哲学问题，而无论我如何提出问题，GPT 都只愿意给我预设的答复。 我希望免费且开源地托管替代方案最终会成为众人瞩目的焦点，而不会施加越来越严格的防护栏来阻止你做任何哪怕是稍微“不礼貌”的事情。人工智能是未来。是的，坏人会滥用它，就像坏人滥用任何彻底改变我们思考方式、与世界互动或共享信息的方式的新事物一样——比如互联网本身。但是上帝啊，你能想象如果整个互联网只是一个苹果精心策划的围墙花园，里面充满了适合家庭和企业赞助的平淡、安全和有利可图的内容吗？只是希望人工智能不会永远这样结束。   由   提交/u/IDE_IS_LIFE   [链接] [评论]]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 22 Feb 2024 22:09:21 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
