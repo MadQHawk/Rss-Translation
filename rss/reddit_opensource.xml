@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 15:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:16:52 GMT</lastBuildDate>
     <item>
-      <title>科尔斯错误</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ay25gh/cors_errors/</link>
-      <description><![CDATA[我正在使用带有 Coolify 的 vultr vps 来部署 n8n。 我有一个 Web hook 触发的工作流程，当它出现时会出现 cors 错误我的网站上发出了一个帖子请求。 N8n 和网站位于不同的域中。我在这方面不是很有经验，但我认为代理将是最简单的解决方案。 我知道 Coolify 内置了代理（Treafik），会添加另一个代理来处理核心错误导致的问题吗？&lt; /p&gt; 我花了一整天的时间试图找到解决方案，但似乎没有任何进展，非常感谢您的帮助。    由   提交/u/Fine-Ad-706   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ay25gh/cors_errors/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 6 个最佳开源状态页面替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ay21vv/6_best_open_source_status_page_alternatives_for/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ay21vv/6_best_open_source_status_page_alternatives_for/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:40:32 GMT</pubDate>
+      <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
+      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易让 Grist 变得有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</guid>
+      <pubDate>Fri, 23 Feb 2024 16:29:36 GMT</pubDate>
     </item>
     <item>
       <title>正在寻找我正在构建的开放获取应用程序的评论和意见......</title>
@@ -92,7 +85,7 @@
     <item>
       <title>很高兴看到我的一星级库有 70 次下载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ax7rjw/excited_to_see_70_downloads_on_my_1star_library/</link>
-      <description><![CDATA[去年我向 Github 和 Maven Central 发布了一个开源日期时间库。我从不推广它，所以它在 Github 上只获得了 1 颗星。我想看看除了我之外还有没有人在使用它，所以我在其他项目中没有将其使用升级到最新版本。 今天下载统计出来了。最新版本的下载量超过70次，真是令人惊讶！这真的激励我继续进化它（虽然看起来进化的地方不大）！ 只是想知道，你敢使用只有 1 颗星的库吗？如果是，为什么？ 另一个问题是，我希望该库通过支持时区更改/夏令时对其他人更有帮助。但我住在一个没有时区变化/夏令时的城市。我可以从哪里开始呢？我读过维基百科之类的文章，但不太明白其中的规则。   由   提交 /u/CommunicationFun2962   [链接] [评论]]]></description>
+      <description><![CDATA[去年我向 Github 和 Maven Central 发布了一个开源日期时间库。我从不推广它，所以它在 Github 上只获得了 1 颗星。我想看看除了我之外还有没有人在使用它，所以我在其他项目中没有将它的使用升级到最新版本。 今天下载统计出来了。最新版本的下载量超过70次，真是令人惊讶！这真的激励我继续进化它（虽然看起来进化的范围不大）！ 只是想知道，你敢使用只有 1 星的库吗？如果是，为什么？ 另一个问题是，我希望该库通过支持时区更改/夏令时对其他人更有帮助。但我住在一个没有时区变化/夏令时的城市。我可以从哪里开始呢？我读过维基百科之类的文章，但不太明白其中的规则。   由   提交 /u/CommunicationFun2962   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ax7rjw/excited_to_see_70_downloads_on_my_1star_library/</guid>
       <pubDate>Thu, 22 Feb 2024 14:31:16 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[https://ibt.razikus.tech https://github.com/Razikus/In-Browser-Tools   由   提交 /u/Razikus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ax0jxm/i_just_made_full_offline_in_browser_tools_without/</guid>
       <pubDate>Thu, 22 Feb 2024 07:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我什么时候必须使用 MIT 许可代码？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1awobtf/when_do_i_have_to_credit_with_mit_licensed_code/</link>
+      <description><![CDATA[假设我使用 pip 安装了一个 python 库，并在我的项目中使用该库。该项目是否必须包含 python 库的信用和许可证？或者这只适用于有人直接使用源代码并将其直接放置在其 git 存储库中的某个位置？   由   提交 /u/TimeDilution   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1awobtf/when_do_i_have_to_credit_with_mit_licensed_code/</guid>
+      <pubDate>Wed, 21 Feb 2024 21:44:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
