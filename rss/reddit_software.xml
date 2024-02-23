@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 06:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 09:12:22 GMT</lastBuildDate>
+    <item>
+      <title>cvss 3.1 分数 api 的攻击向量</title>
+      <link>https://www.reddit.com/r/software/comments/1axvrdf/attack_vector_to_cvss_31_score_api/</link>
+      <description><![CDATA[大家好，有谁知道有哪些 API 可以将 3.1 版攻击向量转换为 cvss 分数吗？   由   提交 /u/cannon_pais   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1axvrdf/attack_vector_to_cvss_31_score_api/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:40:49 GMT</pubDate>
+    </item>
     <item>
       <title>通过 USB/任何电缆连接将一台笔记本电脑镜像到另一台笔记本电脑？</title>
       <link>https://www.reddit.com/r/software/comments/1axtdwg/mirror_one_laptop_to_another_over_usbany_cable/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>用户无法从 BREVO 软件打开电子邮件</title>
       <link>https://www.reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/</link>
-      <description><![CDATA[我刚刚通过 BREVO 向大约 700 个联系人发送了一封电子邮件。当尝试打开 iOS yahoo 文件夹中的电子邮件地址时，图像会闪烁一秒钟，然后收到此错误消息：“此消息无法显示，因为问题重复发生”。我可以在任何 gmail 或 gmail 支持的电子邮件地址上很好地打开电子邮件，直接在 gmail 应用程序中打开。我刚刚更新了一些设置，以满足 yahoo 和 google 当前的 DMARC 需求（根据 BREVO）。你认为是这样吗？请帮助！谢谢！   由   提交/u/Bumble-love  /u/Bumble-love  reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我刚刚通过 BREVO 向大约 700 个联系人发送了一封电子邮件。当尝试打开 iOS yahoo 文件夹中的电子邮件地址时，图像会闪烁一秒钟，然后收到此错误消息：“此消息无法显示，因为问题重复发生”。我可以在任何 gmail 或 gmail 支持的电子邮件地址上很好地打开电子邮件，直接在 gmail 应用程序中打开。我刚刚更新了一些设置，以满足 yahoo 和 google 当前的 DMARC 需求（根据 BREVO）。你觉得就是这个吗？请帮助！谢谢！   由   提交/u/Bumble-love  /u/Bumble-love  reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aximh2/users_cannot_open_email_from_brevo_software/</guid>
       <pubDate>Thu, 22 Feb 2024 21:41:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[适用于 Windows 10。 我使用 GOM Player 和 KM Player，但找不到任何下载字幕的选项观看电影时来自播放器本身。  有一个名为 MX 播放器的 Android 应用程序，我可以在其中从 MX 播放器本身在线搜索字幕。现在我正在为我的 Windows 10 笔记本电脑寻找类似的应用程序。    由   提交/u/thescarface5567  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ax2uwi/looking_for_a_media_player_software_from_which_i/</guid>
       <pubDate>Thu, 22 Feb 2024 10:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从多个视频（例如 lightcut 或 capcut）自动创建视频工具</title>
-      <link>https://www.reddit.com/r/software/comments/1ax2tsu/auto_create_video_tool_from_multiple_videos_like/</link>
-      <description><![CDATA[我正在寻找一种工具（iOS 或 Windows），可以使用它自动从多个视频中剪切一个视频。 LightCut 很棒，但剪辑太短了。我也想在 Windows 上使用它（如果存在的话）。 由于数据保护，CapCut 是不可能的。  &amp;# 32；由   提交/u/phrankme  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ax2tsu/auto_create_video_tool_from_multiple_videos_like/</guid>
-      <pubDate>Thu, 22 Feb 2024 09:59:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
