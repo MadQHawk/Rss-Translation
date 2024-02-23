@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 21 Feb 2024 15:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 15:12:26 GMT</lastBuildDate>
+    <item>
+      <title>红队抵抗排行榜简介</title>
+      <link>https://huggingface.co/blog/leaderboards-on-the-hub-haizelab</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-haizelab</guid>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>🪆 俄罗斯套娃嵌入模型简介</title>
+      <link>https://huggingface.co/blog/matryoshka</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/matryoshka</guid>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎 Gemma - Google 新开的法学硕士</title>
       <link>https://huggingface.co/blog/gemma</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/intel-starcoder-quantization</guid>
       <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>幻觉排行榜，在大型语言模型中测量幻觉的公开努力</title>
-      <link>https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations</guid>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Secure LLM 安全排行榜简介</title>
-      <link>https://huggingface.co/blog/leaderboards-on-the-hub-decodingtrust</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-decodingtrust</guid>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
