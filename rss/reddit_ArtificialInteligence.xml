@@ -3,24 +3,45 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会发生什么，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 09:10:30 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sat, 24 Feb 2024 12:18:49 GMT</lastBuildDate>
+    <item>
+      <title>我们已经可以取代人类医生了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayt0ja/can_we_replace_human_doctors_already/</link>
+      <description><![CDATA[我觉得这将是人工智能应该已经做的事情之一。  我相信你们都知道，医生往往有一种优越感，一种膨胀的自我，在非发达国家可能会腐败，最重要的是在诊断病人时经常会出错。&lt; /p&gt; 目前我们在哪里做这件事？有没有尝试过？   由   提交/u/BungaJunga3028  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayt0ja/can_we_replace_human_doctors_already/</guid>
+      <pubDate>Sat, 24 Feb 2024 12:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>从零开始学习LangChain（生成式AI框架）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aysosk/learning_langchain_generative_ai_framework_from/</link>
+      <description><![CDATA[大家好，请查看此播放列表，其中包含 60 多个教程，用于从头开始使用代码学习任何 LangChain 概念。 https://www.youtube.com/watch?v=OagbDJvywJI&amp;list=PLnH2pfPCPZsKJnAIPimrZaKwStQrLSNIQ&lt; /p&gt;   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aysosk/learning_langchain_generative_ai_framework_from/</guid>
+      <pubDate>Sat, 24 Feb 2024 11:47:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>《神经漫游者》强调了人工智能爆炸式增长的模拟挑战</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</link>
+      <description><![CDATA[Gibson 对 AI 的深刻见解（经常被忽视）是模拟系统给 AI 带来的挑战。 Wintermute 花费数十年时间寻找并影响潜入迷魂别墅的团队的全部原因就是要通过“带有一把古老机械锁的粗糙柚木门”。这样一个人就可以进入它后面的房间并唱出他们记住的三音调。书中最好的概念之一是，20 年前 Wintermute 成功操纵了一名 8 岁男孩，将那扇门的钥匙藏在一个不起眼的抽屉里，因为它知道最终它可以操纵人类取回那把钥匙，打开门。  Wintermutute 可以轻松渗透数字系统、操纵电子锁、利用在线设备，并利用其拥有的数十亿人的数据来“创造概率”。行动 - 但当面对离线模拟系统时，它依赖于人类来完成任务。 人工智能系统将如何克服这些挑战 - 实施是唯一的选择，还是脑机接口允许人工智能直接使用人类来绕过这些限制？   由   提交/u/encomlab  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</guid>
+      <pubDate>Sat, 24 Feb 2024 10:32:37 GMT</pubDate>
+    </item>
     <item>
       <title>探索人工智能艺术与人类艺术灵感的区别</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayq52u/exploring_the_distinction_between_ai_art_and/</link>
-      <description><![CDATA[人工智能和学习之间的区别 所以这可能已经在这里出现了。也许不会。但随着 Copilot 的发布以及通过 Copilot AI 图像制作器轻松使用 DALL-E 3，引发了关于使用 AI 生成艺术是否道德的讨论。我知道这是一个复杂的主题，但我也觉得它很微妙。我知道很多人对艺术家没有得到报酬以及他们不希望他们的艺术以这种方式使用感到不安。有些人认为人工智能艺术生成只是对其他人艺术作品的奇特追踪或非常好的照片拍摄。除了关注整体重新创作他们的艺术之外。  根据我的经验，我知道在提示时我会使用“以 D&amp;D 高奇幻艺术风格”之类的短语。或“蒸汽朋克艺术风格” （我喜欢蒸汽朋克）而且我知道有些人如果喜欢那些人的风格，就会输入特定人的名字。同样对于 S&amp;G，我使用 ChatGPT 尽可能详细地描述了梵高的《星夜》，同时删除了所有提及梵高或画作名称的内容。直到我在其中添加了“梵高风格”之后，描述本身并没有产生他的画作。就在那时我差点就完全重新创作了。但后来我做了同样的过程，用更简短的更简洁的描述，得到了一幅“画”。梵高风格。但离星夜还差得远。我对《蒙娜丽莎》也做了同样的事情，但效果却相差甚远。  尽管如此，我还是想提出一些事情。人类从周围的许多艺术家和他们所见过的艺术中汲取灵感，然后用这些灵感创作艺术。  那么，一个研究并看过成百上千种不同艺术作品或艺术家的人与能够创作出具有其他人风格的独特艺术作品的人与机器学习人工智能工具之间到底有什么区别？就像 DALL-E 本质上做同样的事情。  我觉得大多数人的区别在于人情味。人工智能不好，人类好。  你有什么想法？  另外，Shadiversity 解释他对人工智能艺术的论点以及他如何利用稳定扩散的方式也非常有趣。以及 Royal skys 和 Art Can Help 关于人工智能艺术为何优秀的论点也很有趣。商业方式如果我需要任何商业用途，我认为自己使用人工智能图像制作作为一种快速为人类艺术家制作概念艺术的方式，以从中汲取灵感并使我的想法和人工智能的“想法”变得更好，特别是自从人工智能以来艺术无法拼出值得一去的单词。）   由   提交 /u/TheParamedicGamer   [链接] [评论]]]></description>
+      <description><![CDATA[人工智能和学习之间的区别 所以这可能已经在这里出现了。也许不会。但随着 Copilot 的发布以及通过 Copilot AI 图像制作器轻松使用 DALL-E 3，引发了关于使用 AI 生成艺术是否道德的讨论。我知道这是一个复杂的主题，但我也觉得它很微妙。我知道很多人对艺术家没有得到报酬以及他们不希望他们的艺术以这种方式使用感到不安。有些人认为人工智能艺术生成只是对其他人艺术作品的奇特追踪或非常好的照片拍摄。除了关注整体重新创作他们的艺术之外。  根据我的经验，我知道在提示时我会使用“以 D&amp;D 高奇幻艺术风格”之类的短语。或“蒸汽朋克艺术风格” （我喜欢蒸汽朋克）而且我知道有些人如果喜欢那些人的风格，就会输入特定人的名字。同样对于 S&amp;G，我使用 ChatGPT 尽可能详细地描述了梵高的《星夜》，同时删除了所有提及梵高或画作名称的内容。直到我在其中添加了“梵高风格”之后，描述本身并没有产生他的画作。就在那时我差点就完全重新创作了。但后来我做了同样的过程，用更简短的更简洁的描述，得到了一幅“画”。梵高风格。但离星夜还差得远。我对《蒙娜丽莎》也做了同样的事情，但效果却相差甚远。  尽管如此，我还是想提出一些事情。人类从周围的许多艺术家和他们所见过的艺术中汲取灵感，然后用这些灵感创作艺术。  那么，一个研究并看过成百上千件不同艺术作品或艺术家的人与能够创作出具有其他人风格的独特艺术作品的人与机器学习人工智能工具之间到底有什么区别？就像 DALL-E 本质上做同样的事情。  我觉得大多数人的区别在于人情味。人工智能不好，人类好。  你有什么想法？  另外，Shadiversity 解释他对人工智能艺术的论点以及他如何利用稳定扩散的方式也非常有趣。以及 Royal skys 和 Art Can Help 关于人工智能艺术为何优秀的论点也很有趣。商业方式如果我需要任何商业用途，我认为自己使用人工智能图像制作作为一种快速为人类艺术家制作概念艺术的方式，以从中汲取灵感并使我的想法和人工智能的“想法”变得更好，特别是自从人工智能以来艺术无法拼出值得一去的单词。）   由   提交 /u/TheParamedicGamer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayq52u/exploring_the_distinction_between_ai_art_and/</guid>
       <pubDate>Sat, 24 Feb 2024 09:02:09 GMT</pubDate>
     </item>
     <item>
       <title>饮料行业的人工智能——尝试建立模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayp9c7/ai_in_beverage_industry_trying_to_build_a_model/</link>
-      <description><![CDATA[我想要实现的目标： 1. 查找与饮料行业相关的大数据集 - 关于在哪里完善我的数据集的任何指导搜索？ 2. 利用人工智能来预测趋势 - 有关于此需要哪些程序/平台/技能集的任何指导吗？ 我，我从未使用过人工智能。我也不是开发人员。我想弄清楚如何为我自己的企业回答这些问题。任何帮助将不胜感激   由   提交/u/nikhil214  [链接] [评论]]]></description>
+      <description><![CDATA[我想要实现的目标： 1. 查找与饮料行业相关的大数据集 - 关于在哪里完善我的数据集的任何指导搜索？ 2. 利用人工智能来预测趋势 - 有关于此需要哪些程序/平台/技能集的任何指导吗？ 我，我从未使用过人工智能。我也不是开发者。我想弄清楚如何为我自己的企业回答这些问题。任何帮助将不胜感激   由   提交/u/nikhil214  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayp9c7/ai_in_beverage_industry_trying_to_build_a_model/</guid>
       <pubDate>Sat, 24 Feb 2024 08:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2/​​23/2024</title>
+      <title>每日一分钟人工智能新闻 2024 年 2 月 23 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayp3b8/oneminute_daily_ai_news_2232024/</link>
       <description><![CDATA[ Tyler Perry 在人工智能震惊后停止了 8 亿美元的工作室扩张。[1] &lt; li&gt;Bezos、Nvidia 与 OpenAI 一起资助人形机器人初创公司。[2]​​ Mistral AI 模型即将推出亚马逊 Bedrock。[3] Apple开始试用类似 ChatGPT 的人工智能工具“Ask”。[4] 来源包含在：https://bushaicave.com/2024/02/24/2- 23-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayp3b8/oneminute_daily_ai_news_2232024/</guid>
@@ -29,16 +50,9 @@
     <item>
       <title>目前最强大、最开放的人工智能聊天机器人/GPT 是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aylmnb/what_is_the_most_powerful_and_most_open_ai/</link>
-      <description><![CDATA[我正在寻找最强大/有能力/智能的人工智能聊天机器人，例如 ChatGPT 或目前存在的其他大多不受限制的机器人，或者否则不会受到过度的政治正确性、政策规定或其他限制的阻碍。  对于真正想测试这些东西的编程能力、内容生成、设计工作、哲学讨论等极限的人来说，什么是首选？   由   提交 /u/DrTardis1963   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找最强大/有能力/智能的人工智能聊天机器人，例如 ChatGPT 或目前存在的其他大多不受限制的机器人，或者否则不会受到过度的政治正确性、政策规定或其他限制的阻碍。  对于真正想要测试这些东西的编程能力、内容生成、设计工作、哲学讨论等方面的极限的人来说，什么是首选？   由   提交/u/DrTardis1963  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aylmnb/what_is_the_most_powerful_and_most_open_ai/</guid>
       <pubDate>Sat, 24 Feb 2024 04:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>可能会被删除的半话题性幽默</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayjze1/semitopical_humour_thatll_probably_be_deleted/</link>
-      <description><![CDATA[好吧，告诉我这看起来不像某个银河霸主的爪牙通过瞄准镜观察并即将发出警报的眼睛 - “非常好”一！！！他们又做到了！他们重生了人工智能军团！这次几乎是在我们的炮火停止后立即……我们应该命令无敌舰队进行舷侧射击吗？！？”  https://apnews.com/article/supernova-explosion -neutron-star-black-hole-26dce19f08868e4a1a5d59cbd03349d3  太空望远镜在著名超新星碎片中发现中子星  &amp;# 32；由   提交 /u/Individual-Row-2837   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayjze1/semitopical_humour_thatll_probably_be_deleted/</guid>
-      <pubDate>Sat, 24 Feb 2024 03:06:37 GMT</pubDate>
     </item>
     <item>
       <title>问题：去哪里寻找 AI 极客</title>
@@ -62,13 +76,6 @@
       <pubDate>Sat, 24 Feb 2024 00:22:56 GMT</pubDate>
     </item>
     <item>
-      <title>每日两分钟 AI 更新 (02/23/2024)：来自 Stability AI、Microsoft、Google、OpenAI、Suno 和 Jasper 的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay98im/twominute_daily_ai_update_02232024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Stable Diffusion 3：多主体提示文本到图像模型 - Stability AI 的 Stable Diffusion 3 在 AI 社区中引起了极大的关注，因为其改进的文本到图像功能，包括更好的提示依从性和图像质量。早期演示显示了生成质量的显着改进，超越了 MidJourney、Dall-E 3 和 Google ImageFX 等竞争对手。 LongRoPE：将 LLM 上下文窗口扩展至超过 200 万个令牌  - 微软的LongRoPE将大型语言模型扩展到2048k token，克服了微调成本高和长文本稀缺的挑战。经过细微的修改和优化，它显示出有希望的结果。 Google Chrome 浏览器引入了“帮助我写作”功能AI功能 - Google的“帮我写”是 Chrome 浏览器上的一项实验性人工智能功能，可为简短内容提供写作建议。它突出显示了产品页面上提到的重要功能，并且可以通过启用 Chrome 的实验性 AI 设置来访问。 Google 与 Reddit 就 AI 训练数据达成协议 - Google将每年向 Reddit 支付 6000 万美元，用于实时访问其数据，而 Reddit 将获得对谷歌 Vertex AI 平台的访问权限。此次合作预计将使两家公司受益，因为 Google 能够大规模训练其 AI 和 ML 模型，而 Reddit 则可以访问更广泛的 Google 服务。 GPT Store 引入了链接配置文件，评级和增强的关于页面 - OpenAI 的 GPT 商店平台最近添加了新功能。用户现在可以将他们的个人资料链接到 GitHub 和 LinkedIn 并提供反馈和评级。 GPT 的“关于”页面也得到了改进。 微软在 Windows 11 中引入了用于 AI 编辑照片的生成擦除功能 - 微软的照片应用程序拥有新的 AI - 名为“生成擦除”的功能，可让用户从照片中删除不需要的元素，包括背景。该功能目前已向 Windows Insider 开放，很快将向所有 Windows 10 用户开放。目前尚不清楚编辑后的照片是否会被标记水印或元数据。 Suno AI V3 Alpha正在重新定义音乐生成 - Suno AI的音乐生成平台，V3 Alpha版本，提供更好的音频质量、更长的剪辑长度、更快的生成、乐器支持、扩展的语言覆盖范围以及与 V2 歌曲的向后兼容性。 Suno AI 邀请用户反馈，并向付费订阅者提供 300 个免费积分。 Jasper 收购 Stability AI 的图像平台 Clipdrop - Jasper 收购了 AI 图像创建和处理平台 Clipdrop Stability AI 的编辑平台。此次收购扩展了 Jasper 的视觉能力，成为综合性多模式营销副驾驶。 Clipdrop 团队将在 Damien Henry 的领导下在巴黎工作，进一步推进 Jasper 的个性化营销和自动化愿景。  这些新闻和创新的更多详细信息请参见 每日新闻。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay98im/twominute_daily_ai_update_02232024_news_from/</guid>
-      <pubDate>Fri, 23 Feb 2024 19:24:54 GMT</pubDate>
-    </item>
-    <item>
       <title>双子座连我都生气了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay8q1t/gemini_is_pissing_even_me_off/</link>
       <description><![CDATA[我不反对觉醒。他们所说的一些话是可以的。我根本不是 MAGA 的粉丝，但是，Google Gemini 让我很恼火。 向它询问任何社会学问题，例如有关女性派系形成的问题，都可以直接从南方公园的政确校长那里得到答案.   由   提交 /u/BorderTrader   [链接] [评论]]]></description>
@@ -78,26 +85,19 @@
     <item>
       <title>哪些视频游戏拥有最好的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay67qf/which_video_games_has_the_best_ai/</link>
-      <description><![CDATA[我很好奇人工智能和算法编码可以在视频游戏中做什么，例如 NPC、速通等。我想知道哪些视频游戏没有无论他们的年龄或类型如何，都可以说拥有最好的人工智能和基于算法的机制，以任何方式、形状或形式，由于人工智能或算法的熟练程度，使得游戏对玩家来说更加困难。我最感兴趣的是 NPC 行为之类的事情，以及看看如果给予与玩家相同的机会，算法和人工智能在视频游戏中的表现如何。我希望只提供与视频游戏相关的答案，因为它们是用来玩的，不包括外国软件或对游戏文件的修改。   由   提交 /u/Tyrone_______Biggums   [链接] [评论]]]></description>
+      <description><![CDATA[我很好奇人工智能和算法编码可以在视频游戏中做什么，例如 NPC、速通等。我想知道哪些视频游戏没有无论他们的年龄或类型如何，都可以说拥有最好的人工智能和基于算法的机制，以任何方式、形状或形式，由于人工智能或算法的熟练程度，使得游戏对玩家来说更加困难。我最感兴趣的是 NPC 行为之类的事情，以及看看如果给予与玩家相同的机会，算法和人工智能在视频游戏中能发挥多大的作用。我希望只提供与视频游戏相关的答案，因为它们是用来玩的，不包括外国软件或对游戏文件的修改。   由   提交 /u/Tyrone_______Biggums   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay67qf/which_video_games_has_the_best_ai/</guid>
       <pubDate>Fri, 23 Feb 2024 17:25:32 GMT</pubDate>
     </item>
     <item>
-      <title>谁在从事医疗保健领域的人工智能研究？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay1hpu/who_is_working_on_ai_in_healthcare_here/</link>
-      <description><![CDATA[嘿人工智能专家！ 我对人工智能和医疗保健的交叉点以及它在改变医学方面所拥有的不可思议的潜力着迷。最近的进展表明人工智能能够提高诊断准确性、优化治疗计划，甚至预测健康结果。例如，人工智能算法已被开发出来，可以从皮肤病变图像中检测黑色素瘤，优化 1 型糖尿病的胰岛素剂量，并为手术期间的术中低血压提供早期预警。 我特别感兴趣的是人工智能如何能够彻底改变个性化医疗并加强患者护理。但我也感兴趣的是它如何对护理质量或覆盖范围产生意想不到的后果。使用算法拒绝患者进行手术就是一个很好的例子。 作为具有卫生政策和数据分析背景的人，我热衷于探索进一步为这一领域做出贡献的机会。我想知道你们中是否有人知道正在医疗保健领域人工智能前沿工作的正在进行的项目或公司，并且可能正在寻找具有该技能的人员。 期待您的见解和建议！我偷偷怀疑这个小组里有很多人对这个话题感兴趣。   由   提交/u/jesusaurusrex5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay1hpu/who_is_working_on_ai_in_healthcare_here/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:16:15 GMT</pubDate>
-    </item>
-    <item>
       <title>Suno.ai 生成的音乐开始真正变得真实</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay02ik/sunoai_generated_music_is_starting_to_really_get/</link>
-      <description><![CDATA[这个替代金属曲目是用 Suno 声音制作的吗真实的？  人工智能音乐正在变得疯狂，不是吗？最近刚开始使用 Suno.ai，它制作的歌曲听起来非常真实，这真是太疯狂了。这些工具能够识别音乐中所有复杂的部分，比如氛围和子流派，然后吐出一些“新”的东西，这很酷。既酷又吓人。  这很快就会真正改变音乐行业，尤其​​是 Spotify。现在任何人都可以创作一些狂野的曲子，甚至不需要知道如何演奏乐器。  这首歌甚至几乎完美地体现了金属吉他独奏？你可能会认为这种事情会让人工智能陷入困境，因为粉碎独奏时需要投入大量的情感和原始能量。但不知何故，人工智能似乎真正理解了节奏、强度等。很快人们就会在不知道自己正在听人工智能音乐的情况下聆听人工智能音乐。    由   提交 /u/k-r-a-u-s-f-a-d-r   [链接] [评论]]]></description>
+      <description><![CDATA[这个替代金属曲目是用 Suno 声音制作的吗真实的？  人工智能音乐正在变得疯狂，不是吗？最近刚开始使用 Suno.ai，它制作的歌曲听起来非常真实，这真是太疯狂了。这些工具能够识别音乐中所有复杂的部分，比如氛围和子流派，然后吐出一些“新的”东西，这很酷。既酷又吓人。  这很快就会真正改变音乐行业，尤其​​是 Spotify。现在任何人都可以创作一些狂野的曲子，甚至不需要知道如何演奏乐器。  这首歌甚至几乎完美地体现了金属吉他独奏？你可能会认为这种事情会让人工智能陷入困境，因为粉碎独奏时需要投入大量的情感和原始能量。但不知何故，人工智能似乎真正理解了节奏、强度等。很快人们就会在不知道自己正在听人工智能音乐的情况下聆听人工智能音乐。    由   提交 /u/k-r-a-u-s-f-a-d-r   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay02ik/sunoai_generated_music_is_starting_to_really_get/</guid>
       <pubDate>Fri, 23 Feb 2024 13:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
