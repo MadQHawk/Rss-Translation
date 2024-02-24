@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 15:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 18:14:52 GMT</lastBuildDate>
     <item>
-      <title>我必须制作一种用户可以在我的网站上使用的加密货币，请帮助我该怎么做</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aywped/i_have_to_make_a_crypto_currency_which_users_can/</link>
-      <description><![CDATA[帮我制作一种加密货币，将其存储在我网站的用户个人资料中，他们可以使用它 &lt; !-- SC_ON --&gt;  由   提交/u/STEAMPUNK2468  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aywped/i_have_to_make_a_crypto_currency_which_users_can/</guid>
-      <pubDate>Sat, 24 Feb 2024 15:08:30 GMT</pubDate>
+      <title>我构建了一个 <1KB CSS 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az14kx/i_built_a_1kb_css_framework/</link>
+      <description><![CDATA[作为个人网站重新设计的一部分，受 Low Tech 杂志的启发，我构建了一个不到 1KB 的 CSS 框架。它旨在提供网页所需的几乎所有结构元素，全部在 1KB 以内。 框架中包含的元素是：  响应式 12-宽列系统 用于移动优先设计的响应式容器 导航栏（非常基本） 预格式化表格 标题大小&lt; /li&gt; 代码块 表单块 平铺 响应式元素隐藏标签 预格式化标题 li&gt; 水平规则  您可以阅读此处的文档 ，您可以在此处下载/贡献代码。 ​ 附注我知道 &lt;1KB CSS 框架确实已经存在，并且我知道我的 CSS 框架并不完美。这实际上只是一个我想公开的个人项目，以防其他人发现它有用。   由   提交 /u/DingyAtoll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az14kx/i_built_a_1kb_css_framework/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>[炫耀星期六] 运输公司的简单商业网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aywky5/showoff_saturday_simple_business_website_for/</link>
-      <description><![CDATA[      最近，我为一家运输公司制作了一个简单的单页商业网站。花了不到一天的时间。这相对容易做到，但作为一名自由职业者，无论如何都是值得的。该网站是使用 Next.js 开发的。   由   提交/u/1chbinamin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aywky5/showoff_saturday_simple_business_website_for/</guid>
-      <pubDate>Sat, 24 Feb 2024 15:03:08 GMT</pubDate>
+      <title>3个问题将让你成为非凡的橡皮鸭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az0zyu/3_questions_that_will_make_you_a_phenomenal/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az0zyu/3_questions_that_will_make_you_a_phenomenal/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:05:37 GMT</pubDate>
     </item>
     <item>
-      <title>我沿着丝绸之路进行了一次互动式的、可选择的冒险活动，这是我在沿着古老路线背包旅行 30,000 多英里后 8 年创作的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aywgim/i_made_an_interactive_chooseyourownadventure/</link>
-      <description><![CDATA[   /u/intofarlands  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aywgim/i_made_an_interactive_chooseyourownadventure/</guid>
-      <pubDate>Sat, 24 Feb 2024 14:57:57 GMT</pubDate>
+      <title>通过神奇宝贝搜索建立了集换式卡牌游戏观看网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az0xw1/built_a_trading_card_game_viewing_website_via/</link>
+      <description><![CDATA[      我想分享一些我一直在做的事情。 Pokédex + TCG 这个项目的目的是使用Framer 作为前端，而不是从头开始构建，并使用我自己的后端。 重点关注设计和颜色转换，我开发了一个网站，您可以在其中搜索您最喜欢的神奇宝贝并查看它们的所有卡片。 功能：  通过文本搜索匹配任何神奇宝贝名称 按国家图鉴编号搜索会提取该神奇宝贝的所有变体（除了＃869，Alcremie，我仍然需要更新数据库，即将推出！） Shiny版本切换 响应式设计，推荐桌面，但移动设备看起来也不错  即将推出的功能：  &lt; li&gt;主页 详细卡牌查看页面 卡牌市场价值 神奇宝贝元素 神奇宝贝详细信息 保存收藏夹  ​ \&quot;ar\&quot; 的文本搜索 ​ 喷火龙和卡片 我希望你们会喜欢这一切到目前为止已开发完毕，并继续使用它，这样您就不会错过任何未来的改进。如果您❤️这个项目，请考虑支持我的工作，非常感谢！   由   提交/u/L_E_U   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az0xw1/built_a_trading_card_game_viewing_website_via/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:03:21 GMT</pubDate>
     </item>
     <item>
-      <title>组织的版本控制系统介绍 - 建议/指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayw8as/version_control_system_introduction_to_an/</link>
-      <description><![CDATA[大家好， 我在一个小型组织工作，我们开发了一些很酷的产品。但是，它的节奏太快了，整个代码只是在文件夹中共享，并且更改是在没有太多主要代码审查的情况下完成的（仅审查和测试最终功能），我们不知道是谁进行了更改。 &lt; p&gt;就在那时我发现了 GIT 和类似的版本控制系统。到目前为止我还没有学到任何东西。但是，我读到，当实施这些工具时，代码管理、变更管理和代码审查会变得容易得多。我无法立即改变我的组织中的这种文化，但我想在不给公司带来太多成本的情况下实现这一点（以任何方式）。我们已经有了 TFS（团队基础服务）（我不确定这是否是正确的名称，我猜在我的组织中没有人真正知道）。这是我们记录任务并记录我为该特定任务花费的时间的地方（URL 类似于 mycompanyname.visualstudio.com）。我看过名为 repos 的部分。是否可以使用它来上传完整的代码库，然后使用它来共享任何更改的代码，然后每个更改都需要由某些经理审核才能生效？ 任何人都可以帮助我共享资源吗？使用 TFS 来使用 GIT 功能？ 或者是否已经有可用的解决方案（类似于 GIT）可通过 Microsoft azure 许可证使用（因为我的公司 IT 团队拥有此类许可证）？ &lt; p&gt;请用您的建议或任何可用的学习材料来指导我，以便在我的组织中推进更好的编码实践，这将有助于我的开发人员！ 提前致谢！！ &lt; /div&gt;  由   提交 /u/Anyone-UnderstandMe   /u/Anyone-UnderstandMe reddit.com/r/webdev/comments/1ayw8as/version_control_system_introduction_to_an/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayw8as/version_control_system_introduction_to_an/</guid>
-      <pubDate>Sat, 24 Feb 2024 14:47:28 GMT</pubDate>
+      <title>表格渲染问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az0988/problems_with_the_rendering_of_a_table/</link>
+      <description><![CDATA[       大家好， 我正在使用 Flask 和 bulma 构建一个小型 Web 应用程序，作为一个业余爱好项目。 我正在尝试动态渲染表格。在这个表中，我有一个通常是“隐藏”的列，并且一个复选框可以显示它。 当显示这个隐藏列时，我在该特定列上有一些奇怪的工件。我找不到代码中的错误，而且我认为代码有点混乱。 有人可以帮我找出问题所在吗？ 这是表 html + Jinja 代码。和两张表格细节的图片 另外，我很抱歉我的英语不好  {% for i in range(1, 10) %} {% set ns = namespace(first_time=true) %}  &lt;table class=&quot;table is-fullwidth is-striped is-bordered&quot;&gt; {% forpellsinspells%} {%ifspell.level==i%} {%ifns.first_time==true%} ; --第/th&gt; Livello {{ i }} n.  {% set ns.first_time = false %} {% endif %}  &lt;td&gt; {% if current_user.id == character.user_id %}  {{ form.hidden_​​tag() }} {{ form.submit(value=&quot;-&quot;, class=&quot;subtract&quot;) }}  {% else %} -- {% endif %} &lt;/td&gt; &lt;td&gt;{{pell.name }}&lt;/td&gt; &lt;td&gt; {% if current_user.id == character.user_id %}  {{ form.hidden_​​tag() }} {{ form.submit(value=spell.prepared, class=&quot;adder&quot;) }}  {% else %} {{拼写.准备}} {% endif %} &lt;/td&gt;   {{ form.hidden_​​tag() }} {{ form.submit(value=&quot;x&quot;, style=&quot;color: red&quot;, class=&quot;subtract&quot;) }}  &lt;/td&gt;  {% endif %} {% endfor %} &lt;/table&gt;  &lt;br&gt; {% endfor %}  当显示时，我有那些奇怪的文物 隐藏时其他一切看起来都不错   由   提交 /u/IamTheTussis   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az0988/problems_with_the_rendering_of_a_table/</guid>
+      <pubDate>Sat, 24 Feb 2024 17:35:31 GMT</pubDate>
     </item>
     <item>
-      <title>OAuth 授权代码流程与 PKCE</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayvpcx/oauth_authorization_code_flow_vs_pkce/</link>
-      <description><![CDATA[您好， 我对这两个 OAuth 流程有疑问。 假设我是使用专门与我公司提供的 API 配合使用的 SPA。 说到身份验证，现在有两个潜在的流程。我可以使用 PKCE 让客户端进行身份验证，例如Azure AD，然后使用完成的令牌与我的 API 对话。客户端必须偶尔根据 Azure AD 刷新令牌。 其他选项是使用授权代码流。我的 API 会协商令牌并以 cookie 的形式将其返回给我的客户端。如果我正确理解它，那么在这种情况下就不需要刷新令牌，因为颁发的令牌现在是由我的 API 而不是由身份验证提供程序 (Azure AD) 发出的，因此我的服务器有机会正确加密有效负载. 我的理解正确吗？ 另外，在这种情况下，我通常会更喜欢哪种流程？似乎 PKCE 通常是首选，但我觉得授权代码流程也提供了优势，因为我的服务器可以“拦截”授权代码流程。例如新帐户登录，这样我就可以开始在内部数据库中跟踪它们，该数据库将外部用户 ID 映射到内部内容。   由   提交/u/nachbarnzumwegwerfen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayvpcx/oauth_authorization_code_flow_vs_pkce/</guid>
-      <pubDate>Sat, 24 Feb 2024 14:23:50 GMT</pubDate>
+      <title>Supabase 数据库对于我当前拥有的记录量来说太大了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az08s5/supabase_database_size_too_big_for_current_amount/</link>
+      <description><![CDATA[我正在使用免费套餐。当我将 Web 应用程序部署到生产环境时，我会将其升级到 Pro。但是，现在 Supabase 的一张表中有大约 30 条记录，第二张表中有 2 条记录。所以我总共有2张桌子。但是，在检查使用情况后，提到我使用了 0.5GB 中的 0.08GB 数据库空间。这怎么可能？我查了一下，他们在文档中的某个地方提到，最终 Supabase 将运行 VACUUM 命令或类似的命令，但似乎我的项目需要很长时间才能触发此命令。 &lt;!-- SC_ON - -&gt;  由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az08s5/supabase_database_size_too_big_for_current_amount/</guid>
+      <pubDate>Sat, 24 Feb 2024 17:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>我如何看待网站设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayvk7h/how_do_i_think_of_website_designs/</link>
-      <description><![CDATA[嘿，抱歉，如果我问了愚蠢的问题，我是最后一年的 UG（印度），目前正在从 YouTube 和 Google 自学 MERN ..当我想做一个网站时，我无法思考设计/布局。.我如何提高我的技能   由   提交 /u/Jarvis_negotiater   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayvk7h/how_do_i_think_of_website_designs/</guid>
-      <pubDate>Sat, 24 Feb 2024 14:17:16 GMT</pubDate>
+      <title>使用Vuejs、Nuxt等技术自动生成短视频。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az07mh/auto_generate_short_videos_with_vuejs_nuxt_and/</link>
+      <description><![CDATA[   https://preview.redd.it/i5e8keewjkkc1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=b4c595df7f de044c9f55fe958b16705131c2d946 使用 Vuejs、Nuxt 和其他技术自动生成短视频。 通过几个简单的步骤在本地自动创建 YouTube Shorts。 1.Give视频主题  根据需要添加额外提示信息 查看脚本 添加自定义搜索关键字 2.选择要使用的特定语音或设置所有世代的全局默认语音 3.生成视频 4.查看视频 - 重新生成视频 5.向视频添加音乐 6.查看所有生成的视频 利润   该项目基于 MoneyPrinter-v1 项目 这里是 github 中该项目的链接 https://github.com/leamsigc/ShortsGenerator 非常欢迎任何反馈。   由   提交 /u/leamsigc   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az07mh/auto_generate_short_videos_with_vuejs_nuxt_and/</guid>
+      <pubDate>Sat, 24 Feb 2024 17:33:44 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个 SaaS 可以自动生成多种格式的徽标变体</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayvjwn/my_first_saas_that_generates_logo_variations_in/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/monomanj   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayvjwn/my_first_saas_that_generates_logo_variations_in/</guid>
-      <pubDate>Sat, 24 Feb 2024 14:16:53 GMT</pubDate>
+      <title>预订火车票的API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az005l/api_for_booking_train_tickets/</link>
+      <description><![CDATA[我想知道是否有人熟悉我可以用来允许人们在我的网站上购买火车票的 API？我查询的火车是 Amtrak、Acela 和任何其他国家线路。   由   提交/u/mitch1618  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az005l/api_for_booking_train_tickets/</guid>
+      <pubDate>Sat, 24 Feb 2024 17:25:10 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个带有记分牌的最小旗帜测验，以比较您在其他玩家中的表现 – worldflags.co</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayve3n/i_created_a_minimal_flag_quiz_with_a_scoreboard/</link>
-      <description><![CDATA[       由   提交/u/kevinito_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayve3n/i_created_a_minimal_flag_quiz_with_a_scoreboard/</guid>
-      <pubDate>Sat, 24 Feb 2024 14:09:29 GMT</pubDate>
+      <title>我做了一个基本的剪刀石头布游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayztjo/i_made_a_basic_rock_paper_scissors_game/</link>
+      <description><![CDATA[这是我将 Javascript 添加到 HTML 和 CSS 的第一个项目。它是为 Odin 项目的“Web 开发简介”而制作的。请给我任何建议，告诉我我可以做些什么不同的事情，以及我做错了什么。 链接到存储库： https://github.com/Blaze4884/Rock-Paper-Scissors 网站链接： https://blaze4884.github.io/Rock-Paper-Scissors/   由   提交/u/Blaze4884_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayztjo/i_made_a_basic_rock_paper_scissors_game/</guid>
+      <pubDate>Sat, 24 Feb 2024 17:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>托管网站和安全</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayv3ow/hosting_a_website_and_security/</link>
-      <description><![CDATA[大家好，我在想如果我想保护我的网站，我应该研究什么。免责声明 我对安全一无所知。到目前为止，我只完成过私人项目，这将是我的第一个公共项目。 我看过很多有关托管服务的广告，但我也不确定它们是否值得信赖。这也可能是一个愚蠢的问题，但如果我要通过其中一个托管服务托管我的网站，这是否也涵盖网站的安全性，或者在将项目上传到托管服务之前我必须自己做些什么？&lt; /p&gt;   由   提交/u/RayGunny178  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayv3ow/hosting_a_website_and_security/</guid>
-      <pubDate>Sat, 24 Feb 2024 13:56:15 GMT</pubDate>
+      <title>取景器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayz0hd/vuefinder/</link>
+      <description><![CDATA[我制作了一个文件管理器组件。并完全接受建议。你觉得怎么样？   由   提交/u/n1crack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayz0hd/vuefinder/</guid>
+      <pubDate>Sat, 24 Feb 2024 16:45:02 GMT</pubDate>
     </item>
     <item>
-      <title>创建了一个网站，您可以在其中免费测试不同的图像、文本和视频 AI 模型。您甚至可以通过 API 使用它们。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayuwik/created_a_site_where_you_can_test_out_different/</link>
-      <description><![CDATA[嘿 Reddit 用户， 我一直在致力于 Chipling.xyz，您可以在该网站免费测试不同的图像、文本和视频 AI 模型。您甚至可以通过 API 使用它们。 我希望获得反馈的领域：  用户界面 - 体验如何？ 您遇到任何故障或错误吗？ 对新模型或功能的建议？  正在进行的工作：&lt; /p&gt;  目前正在解决[具体改进或即将推出的功能]。 您的反馈将影响未来的更新！  分享您的想法：发表评论或给我发私信。很高兴听到您的想法！ 感谢您查看 - Chipling.xyz 等待您的探索！   由   提交 /u/Resident_Discount262   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayuwik/created_a_site_where_you_can_test_out_different/</guid>
-      <pubDate>Sat, 24 Feb 2024 13:46:42 GMT</pubDate>
+      <title>对我的个人网站的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayyxsr/feedback_on_my_personal_site/</link>
+      <description><![CDATA[您好，只是想知道是否有人愿意在我的网站上提供一些反馈gregfield.dev 。  谢谢 格雷格:)   由   提交 /u/Alternative-Set4786    reddit.com/r/webdev/comments/1ayyxsr/feedback_on_my_personal_site/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayyxsr/feedback_on_my_personal_site/</guid>
+      <pubDate>Sat, 24 Feb 2024 16:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>如何以编程方式验证航班 PNR</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayuop3/how_to_verify_flight_pnr_programatically/</link>
-      <description><![CDATA[您好，我正在构建一个航班跟踪聚合器，并希望在包含之前验证用户输入的 pnr。是否有任何 API 可以根据 pnr 号码或预订 id 提供有关机票的信息，或验证 pnr 是否有效。 我没有在许多平台上看到航班 pnr 验证，所以我不确定它是否有效甚至可用或属于私人信息。 感谢任何帮助。   由   提交 /u/ConsciousMud5180   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayuop3/how_to_verify_flight_pnr_programatically/</guid>
-      <pubDate>Sat, 24 Feb 2024 13:35:52 GMT</pubDate>
+      <title>我创建了一个寻找人工智能工作的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayyv04/i_made_a_site_to_find_jobs_in_ai/</link>
+      <description><![CDATA[我开始这个项目是为了一个有趣的挑战 - 在 2 小时内构建并启动一个项目。它立即出现在 Ben&#39;s Bites 和其他时事通讯中。 Robert Scoble 在他的 Twitter 上分享了该项目。 链接：https://www.moaijobs.com/&lt; /p&gt; 堆栈：Nextjs 14、Shadn/UI、Supabase、Cloudflare R2、Lemon scrapezy 请分享您的反馈。谢谢。   由   提交 /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayyv04/i_made_a_site_to_find_jobs_in_ai/</guid>
+      <pubDate>Sat, 24 Feb 2024 16:38:54 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个免费、无限制的图像转换工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayue8p/i_built_a_free_unlimited_image_conversion_tool/</link>
-      <description><![CDATA[    /u/MarzipanCraft   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayue8p/i_built_a_free_unlimited_image_conversion_tool/</guid>
-      <pubDate>Sat, 24 Feb 2024 13:21:04 GMT</pubDate>
+      <title>批评我的个人网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayyqv5/critique_my_personal_website/</link>
+      <description><![CDATA[大家好！ 好了，我已经完成了我的个人网站 (链接）！ 目前，这是一个单页网站，但我计划添加更多页面（即关于、服务） 、项目、联系方式，也许还有博客）。我为我的小网站感到自豪，但我预计公众会有不同的感受。我可以做些什么来将其提升到一个新的水平？ 谢谢！   由   提交 /u/ImYourPappi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayyqv5/critique_my_personal_website/</guid>
+      <pubDate>Sat, 24 Feb 2024 16:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>Passport@0.7.0 ：req.logIn() 不会发回“sid”cookie</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayu00x/passport070_reqlogin_does_not_send_an_sid_cookie/</link>
-      <description><![CDATA[我在 NestJs 应用程序中使用护照进行本地护照身份验证。我对不同的事情有不同的端点，其中两个是 auth/login 和 auth/register 。  现在事情是这样的：我收到请求&gt;我验证了&gt;我在数据库中添加用户&gt; req.logIn( Express.User[Type] ) &gt;使用重定向链接返回响应（现在是“auth/login”而不是“dashboard”）。 一切正常，除了一件事：我没有取回 sid cookie，稍后将用于维护会话。 两个提到的端点都受到 ForwardAuthenticated 中间件的保护，该中间件只执行 req.isAuthenticated()检查。 当我使用auth/login登录时，一切都按预期工作。 确实存在issue 陈述了同样的问题，并且当 passport@0.5.3，但它有自己的问题：会话固定. 由于在提出的 github 问题上也没有太多帮助，我可以做些什么来获得预期结果吗？   由   提交 /u/peculiar_sheikh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayu00x/passport070_reqlogin_does_not_send_an_sid_cookie/</guid>
-      <pubDate>Sat, 24 Feb 2024 13:01:27 GMT</pubDate>
+      <title>我制作了一个多轨虚拟钢琴和音乐制作器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayygs0/i_made_a_multitrack_virtual_piano_and_music_maker/</link>
+      <description><![CDATA[我为了好玩而制作了这个多轨虚拟钢琴和音乐制作器。 https://kewazi.com/piano/music-maker/ 它可以让你分享通过 URL 保存您的创作（以便您或其他人稍后可以看到、听到和编辑它），并将其导出到 MP3。 我确信它并不完美，但它很有趣，制作起来也很有趣:)   由   提交/u/shredgeek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayygs0/i_made_a_multitrack_virtual_piano_and_music_maker/</guid>
+      <pubDate>Sat, 24 Feb 2024 16:22:45 GMT</pubDate>
     </item>
     <item>
-      <title>在 Github 工作流程中自动化文档（等待名单！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aytvzk/automate_documentation_in_github_workflow_waitlist/</link>
-      <description><![CDATA[    &lt; /a&gt;  大家好！ 上周，我提到了这个产品，但没有详细信息。那么，这里是概念示例和详细信息！ 编写文档很耗时，不是吗？这就是为什么，这可以成为团队和初创公司的救星。 只需连接您的存储库，即可分析代码库并创建文档。每当您推送更新时，文档都会自动更新。好的部分是，团队中的每个人都可以使用该工具。 它还没有发布，但我打开了等待列表！因此，您可以抢在其他人之前先睹为快！我很想知道您的想法和反馈！ 加入等候名单：https://codedocs.vercel.app   由   提交/u/amaProgrammer  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aytvzk/automate_documentation_in_github_workflow_waitlist/</guid>
-      <pubDate>Sat, 24 Feb 2024 12:55:41 GMT</pubDate>
+      <title>二维码生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayxras/qr_code_generator/</link>
+      <description><![CDATA[所以最近遇到了一种奇怪的情况，我想分享我和咖啡师一起观看的 YouTube 视频，但我没有（或想要得到）他的电话号码。令我惊讶的是，没有简单的方法可以做到这一点。 所以我回家编码了 ShareAsQRcode.com。  说明很简单： 访问网站。 在手机上安装 PWA。 使用大多数应用程序；像 youtube 一样，点击分享，然后分享为二维码（可能位于更多）图标。  让 sudo 朋友扫描手机。 请享受，但请保留反馈给自己，我为自己做这个是出于一个非常具体的原因:)   由   提交 /u/AnotherWallace   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayxras/qr_code_generator/</guid>
+      <pubDate>Sat, 24 Feb 2024 15:53:23 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个有趣且简单的增量游戏。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayqbl3/i_have_made_a_fun_and_simple_incremental_game/</link>
-      <description><![CDATA[植物浇水游戏是一款简单而有趣的增量游戏。 玩游戏：https://plant-watering-game.vercel.app/ 游戏可以作为 PWA 离线安装和使用。&lt; /p&gt; 保存文件还可以导出和导入以供以后使用。 （只是不要欺骗lmao） 有一个光明和黑暗的主题。   由   提交 /u/Spetterman66_on_rblx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayqbl3/i_have_made_a_fun_and_simple_incremental_game/</guid>
-      <pubDate>Sat, 24 Feb 2024 09:14:20 GMT</pubDate>
+      <title>🌱我做了一个有趣又简单的增量游戏。 🌱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ayr080/i_have_made_a_fun_and_simple_incremental_game/</link>
+      <description><![CDATA[🌱植物浇水游戏是我开发的一款简单又有趣的增量游戏。🌱 查看：https://plant-watering-game.vercel.app/ 游戏可以安装并作为 PWA 离线使用。  保存文件还可以导出和导入以供以后使用。 您可以在深色和浅色主题之间切换。 它也适用于移动设备。    由   提交 /u/Spetterman66_on_rblx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ayr080/i_have_made_a_fun_and_simple_incremental_game/</guid>
+      <pubDate>Sat, 24 Feb 2024 10:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
