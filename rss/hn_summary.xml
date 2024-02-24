@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 00:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 06:13:35 GMT</lastBuildDate>
     <item>
-      <title>使用 C 或 C++ 工作需要了解未定义的行为，这可能会导致意外的 [...]</title>
-      <link>https://t.me/hn_summary/75825</link>
-      <description><![CDATA[C 和 C++ 中的未定义行为
-使用 C 或 C++ 工作需要了解未定义的行为，如果处理不当，可能会导致意外结果。 C 整数仅限于 CPU 寄存器中适合的范围，这与 Python 的无界整数不同。有符号整数溢出、取消引用坏指针、未初始化的数据和其他常见错误可能会导致未定义的行为。 C 标准允许编译器基于不会发生未定义行为的假设来优化代码，从而产生高效但可能不可预测的结果。理解并避免未定义的行为对于编写可靠的 C 和 C++ 代码至关重要。 （根据 37% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75825</guid>
-      <pubDate>Sat, 24 Feb 2024 00:38:57 GMT</pubDate>
+      <title>[媒体]最近的研究发现，患者的血脑屏障受到损害 [...]</title>
+      <link>https://t.me/hn_summary/75854</link>
+      <description><![CDATA[长期与新冠病毒相关的脑雾中存在血脑屏障渗漏&lt; /a&gt;
+最近的研究发现，长期与新冠病毒相关的脑雾患者的血脑屏障受到损害。这一发现揭示了 Covid-19 对神经系统的影响，对于了解该病毒对大脑的长期影响具有重要意义。该研究强调了 SARS-CoV-2 破坏血脑屏障的潜力，使病毒能够进入中枢神经系统并引起神经系统症状。这一发现强调需要进一步研究这些影响背后的机制以及保护大脑免受 Covid-19 相关损伤的潜在治疗方法。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75854</guid>
+      <pubDate>Sat, 24 Feb 2024 06:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 匹兹堡大学的研究发现，重返办公室 (RTO) 要求 [...]</title>
-      <link>https://t.me/hn_summary/75824</link>
-      <description><![CDATA[RTO 并不能提高公司价值，反而让员工痛苦不堪：学习
-匹兹堡大学的研究发现，重返办公室（RTO）指令并没有改善公司的财务指标，反而降低了员工满意度。数据表明，RTO 指令与男性首席执行官在公司拥有更大权力的公司有关。研究人员推测，RTO 指令可能会被用来将公司绩效不佳归咎于员工。研究还发现，RTO 指令与员工满意度下降有关，总体工作满意度、工作与生活平衡、高级管理层和企业文化的评分下降。研究结果表明，反收购政策可能更多的是为了控制而不是提高公司价值。]]></description>
-      <guid>https://t.me/hn_summary/75824</guid>
-      <pubDate>Sat, 24 Feb 2024 00:36:52 GMT</pubDate>
+      <title>[媒体]我们 QED-NE 的团队凭借我们的 Quan 超越了时空压缩理论 [...]</title>
+      <link>https://t.me/hn_summary/75853</link>
+      <description><![CDATA[量子电动VEM驱动器
+我们 QED-NE 的团队利用量子电动力学 VEM 驱动器超越了时空压缩理论。我们进行了三个关键实验，科学地证明了这个概念在实验室环境中的有效性。这些实验包括红移激光波长、测量发动机产生的物理力以及移动封闭在盒子中的有色金属物体。这些实验共同证明我们的引擎不仅是理论上的，而且是实时运行的。请访问我们的网站，回顾我们过去的实验并了解有关我们突破性技术的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/75853</guid>
+      <pubDate>Sat, 24 Feb 2024 05:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>来自主流 OO 语言的 Common Lisp 对象系统 (CLOS) 可能看起来很陌生。</title>
-      <link>https://t.me/hn_summary/75823</link>
-      <description><![CDATA[Lisp 中的类：CLOS 简介
-来自主流 OO 语言的 Common Lisp 对象系统 (CLOS) 可能看起来很陌生。 www.lambda-out-loud.com 上的此介绍 旨在让您熟悉 Lisp 中面向对象的基础知识。与传统的 OO 语言不同，CLOS 将类结构与功能分开。使用 defclass 宏，可以使用槽（属性）和访问器来定义类。对象实例化是通过 make-instance 完成的，对象行为是通过方法实现的。 CLOS 支持继承，包括多重继承，并具有合理的冲突解决方案。虽然本指南是一个很好的起点，但建议进一步阅读以更深入地了解 CLOS。]]></description>
-      <guid>https://t.me/hn_summary/75823</guid>
-      <pubDate>Fri, 23 Feb 2024 23:46:35 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克 (Elon Musk) 创立的 Neuralink 已将大脑监测设备植入人体 [...]</title>
+      <link>https://t.me/hn_summary/75852</link>
+      <description><![CDATA[Neuralink 脑芯片：进展引发安全和保密担忧 
+由埃隆·马斯克 (Elon Musk) 创立的 Neuralink 首次在人体中植入了大脑监控设备，使人能够用意念控制电脑光标。然而，研究人员对该设备的安全性和性能的保密性感到担忧。虽然用意念控制光标的成就并不是开创性的，但瘫痪患者重新获得独立的潜力是巨大的。尽管缺乏信息，科学家们仍然希望 Neuralink 的进步能够推动脑机接口领域的发展。争议在于设备的安全性和性能的保密性。]]></description>
+      <guid>https://t.me/hn_summary/75852</guid>
+      <pubDate>Sat, 24 Feb 2024 05:49:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由亿万富翁资助的人工智能末日论者正在加大游说力度，以推动警察 [...]</title>
-      <link>https://t.me/hn_summary/75822</link>
-      <description><![CDATA[亿万富翁资助的人工智能末日论者加大游说力度
-由亿万富翁资助的人工智能末日论者正在加大游说力度，推动制定政策，要求人工智能开发人员对潜在危害负责，要求高风险系统获得许可，并赋予监管机构在紧急情况下暂停项目的权力。批评者认为，这些努力正在转移人们对人工智能更紧迫问题的注意力，例如工作流失和歧视。由 CAIP 和 CAIS 等组织领导的游说活动可能会让顶级人工智能公司受益，并引发争议。这些团体与有效的利他主义联系在一起，获得了行业领导者的大量资助，引发了人们对其影响力的担忧。转向直接游说标志着这些组织战略的转变，旨在使他们在华盛顿的努力专业化。]]></description>
-      <guid>https://t.me/hn_summary/75822</guid>
-      <pubDate>Fri, 23 Feb 2024 23:42:29 GMT</pubDate>
+      <title>[媒体]国防部正在采用正在发生变化的新人工智能工具[...]</title>
+      <link>https://t.me/hn_summary/75851</link>
+      <description><![CDATA[国防部人工智能负责人：让人类保持循环不再总是可能&lt; /a&gt;
+国防部正在采用新的人工智能工具，这些工具正在改变人类参与军事行动的程度。该部门的首席数字和人工智能官克雷格·马泰尔 (Craig Martell) 认为，让人类参与每个自主决策已不再可能。军队正在从人类驱动的决策转向人类监督的行动，诸如“人在环”、“人在环”和“人在环”等术语被用来解释不断变化的角色军事行动中的人类。人们对人工智能将人类完全排除在外的担忧正在通过新的培训计划得到解决，其中包括麻省理工学院 Horizo​​n 提供的人工智能培训。]]></description>
+      <guid>https://t.me/hn_summary/75851</guid>
+      <pubDate>Sat, 24 Feb 2024 05:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《勇士与忧虑者》中，心理学家乔伊斯·贝南森 (Joyce Benenson) 挑战了口碑 [...]</title>
-      <link>https://t.me/hn_summary/75821</link>
-      <description><![CDATA[女性是排除在外的担忧者
-在《勇士与忧虑者》一书中，心理学家乔伊斯·贝南森对女性比男性更善于交际、男性比女性更具竞争力的观念提出了挑战。她认为，女性将社会排斥作为竞争的关键策略，其目标是保留资源、地位和伴侣。贝南森的研究表明，女孩从幼儿时期就开始遭受社会排斥，而且女性比男性更容易受到社会排斥的影响。这种行为在不同的文化中都有所体现，并可能产生严重后果，例如女孩因严重排斥而不得不转学。 “取消文化”的兴起可以被视为这种女性策略的延伸，部分是由#MeToo运动推动的。这种转变反映了更广泛的文化女性化，对社会动态和规范具有潜在影响。]]></description>
-      <guid>https://t.me/hn_summary/75821</guid>
-      <pubDate>Fri, 23 Feb 2024 23:37:23 GMT</pubDate>
+      <title>[媒体]Techstars 最近宣布对其运营进行调整，引发批评和控诉 [...]</title>
+      <link>https://t.me/hn_summary/75850</link>
+      <description><![CDATA[Techstars 正在苦苦挣扎
+Techstars 最近宣布对其运营进行调整，引发了批评和争议。关闭博尔德、西雅图和奥斯汀加速器的决定引发了 Zillow 联合创始人 Spencer Rascoff 等行业人士的强烈反对。 Techstars 首席执行官 Maëlle Gavet 解决了人们对从本地筹款转向更集中模式的担忧，强调该组织的重点是为创始人提供基础设施和支持。尽管面临挑战，Techstars 仍然积极投资和支持全球代表性不足的创始人。加维特很高兴创建新课程和“企业家大师班”，以分享组织积累的知识和指导资源。]]></description>
+      <guid>https://t.me/hn_summary/75850</guid>
+      <pubDate>Sat, 24 Feb 2024 05:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]前 Gizmodo 作家汤姆·麦凯 (Tom McKay) 将自己的名字改为“Sla [...]</title>
-      <link>https://t.me/hn_summary/75820</link>
-      <description><![CDATA[一位前 Gizmodo 作家更名为“Slackbot”，一直未被发现月
-前 Gizmodo 作家汤姆·麦凯 (Tom McKay) 在 2022 年离开公司后，在 Slack 上将自己的名字改成了“Slackbot”，从而成功搞了一个聪明的恶作剧。几个月来，他一直没有被发现，用一张类似于实际 Slackbot 图标的愤怒版本的个人资料图片来愚弄管理层。通过使用特殊字符来模仿名字，麦凯的帐户避免了删除，并且他能够向同事发送类似机器人的消息。虽然不是每家公司都会上当，但它在 Gizmodo 上奏效了。这种令人惊讶和幽默的情况引起了前同事的嘲笑，其中一位说：“作为 G/O Media 的幸存者，这就是跟踪。”]]></description>
-      <guid>https://t.me/hn_summary/75820</guid>
-      <pubDate>Fri, 23 Feb 2024 23:17:13 GMT</pubDate>
+      <title>[媒体] 佛罗里达州备受争议的卫生局局长，因对 COVID-19 疫苗持怀疑态度而闻名 [...]</title>
+      <link>https://t.me/hn_summary/75849</link>
+      <description><![CDATA[佛罗里达州拒绝禁止患有麻疹疫情的未接种疫苗的学生上学
+佛罗里达州备受争议的卫生局局长因对 COVID-19 疫苗持怀疑态度而闻名，他因违反联邦指导方针，在麻疹爆发期间允许未接种疫苗的学生上学而受到批评。约瑟夫·拉达波医生的决定引发了包括美国儿科学会在内的医生的批评，他们认为未接种疫苗的儿童对其他人构成风险。尽管疾病预防控制中心提出了排除建议，拉达波办公室还是以社区免疫率和家庭负担为由，捍卫了这一选择。这种情况凸显了关于疫苗授权和公共卫生安全措施的持续争论，专家警告麻疹的危险以及遵循既定指南的重要性。]]></description>
+      <guid>https://t.me/hn_summary/75849</guid>
+      <pubDate>Sat, 24 Feb 2024 05:26:02 GMT</pubDate>
     </item>
     <item>
-      <title>标题： 2024 年全球收入最大的行业</title>
-      <link>https://t.me/hn_summary/75819</link>
-      <description><![CDATA[2024 年全球收入最大的行业
-标题：2024 年全球收入最大的行业
-
-电信行业的需求不断增长，但无线运营商之间的竞争阻碍了收入增长。受疫情影响，石油和天然气行业出现了极大的波动，收入将在 2022 年创下历史新高。尽管全球需求旺盛，但保险业仍面临挑战，尤其是在人寿和健康保险方面。养老基金对于退休计划至关重要，积极的投资回报推动收入增长。商业房地产有所下降，但随着经济反弹，预计会出现复苏。汽车销售受到供应链中断的影响，而银行业则受到全球经济表现的影响。汽车制造商正在适应技术进步，旅游业在 2020 年因疫情大幅下滑后正在复苏。]]></description>
-      <guid>https://t.me/hn_summary/75819</guid>
-      <pubDate>Fri, 23 Feb 2024 23:16:09 GMT</pubDate>
+      <title>[媒体]福特已暂时停止其全电动 F-150 Lightning 皮卡的发货，以 [...]</title>
+      <link>https://t.me/hn_summary/75848</link>
+      <description><![CDATA[福特停止发货 F-150 Lightning 电动皮卡&lt; br /&gt;
+福特已暂时停止其全电动 F-150 Lightning 皮卡的发货以进行质量检查，但没有提及具体问题。随着公司向新车型年过渡，这种暂停是制造过程的一部分。福特的 F 系列卡车（包括 Lightning）是美国最畅销的卡车。 Lightning 和 Mustang Mach-E 都是福特的电动产品。尽管发货暂停，福特经销商仍然为客户备有闪电卡车库存。这一举措是在之前因电池问题而停产一年后发生的。据首席执行官 Jim Farley 透露，福特还在致力于未来电动汽车的工程设计。]]></description>
+      <guid>https://t.me/hn_summary/75848</guid>
+      <pubDate>Sat, 24 Feb 2024 05:16:55 GMT</pubDate>
     </item>
     <item>
-      <title>有人退出每天上午 8:30 的站立会议吗？</title>
-      <link>https://t.me/hn_summary/75818</link>
-      <description><![CDATA[有人退出每天上午 8:30 的站立会议吗？ 
-news.ycombinator.com 上这篇文章的作者是寻求有关如何摆脱每天上午 8:30 导致睡眠不足的站立会议的建议。他们正在考虑伪造每周约会或搬到不同的时区以避免提前开会。作者对会议毫无用处并影响他们的睡眠表示沮丧。争议在于平衡工作义务与个人福祉的斗争，而独特的方面是建议搬到不同的时区作为潜在的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/75818</guid>
-      <pubDate>Fri, 23 Feb 2024 23:12:03 GMT</pubDate>
+      <title>[媒体] Rajat Khare 与印度 Appin Technologies 相关，否认参与任何 [...]</title>
+      <link>https://t.me/hn_summary/75847</link>
+      <description><![CDATA[Rajat Khare 否认“参与任何阴谋或共谋谋杀” 
+印度 Appin Technologies 公司的拉贾特·卡雷 (Rajat Khare) 否认参与任何谋杀阴谋，尽管没有人提出这样的指控。在 Appin 成功从路透社和谷歌删除一篇报道后，他们要求从 Techdirt 删除一篇文章，但遭到拒绝。 《连线》报道了这一情况，哈雷的律师随后联系他们，抱怨诽谤并要求撤稿。 《连线》坚持他们的报道，指出他们的文章中从未提出谋杀阴谋指控。围绕这一情况的争议引发了人们对阿平和哈雷行为的质疑。]]></description>
+      <guid>https://t.me/hn_summary/75847</guid>
+      <pubDate>Sat, 24 Feb 2024 04:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]生成模型：他们知道什么？</title>
-      <link>https://t.me/hn_summary/75817</link>
-      <description><![CDATA[生成模型：他们知道什么？他们知道事情吗？让我们来了解一下
-生成模型有潜力创建详细且真实的图像，这引发了人们对其生成图像的真正理解的疑问。我们的论文介绍了 INTRINSIC LoRA (I-LoRA)，这是一种突破性的方法，允许生成模型提取内在场景图，而不需要额外的解码器或广泛的微调。通过采用关键特征图的低秩适应（LoRA），我们的方法可以适应各种生成架构，并生成可与传统监督技术生成的场景内在图相媲美甚至超越的场景内在图。这种创新方法为理解生成模型创建逼真图像的能力开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/75817</guid>
-      <pubDate>Fri, 23 Feb 2024 23:04:57 GMT</pubDate>
+      <title>[媒体] 突破性的新型光盘，大小与 DVD 相同，可存储超过 100 万千兆位 [...]</title>
+      <link>https://t.me/hn_summary/75846</link>
+      <description><![CDATA[DVD 的新表弟可以存储超过 1 Petabit&lt; br /&gt;
+突破性的新型光盘，其大小与 DVD 相当，利用三维存储技术可以存储超过 100 万吉比特的数据。该光盘由中国科学家开发，容量高达 1.6 拍比特，密度是蓝光光盘的 4,000 倍。通过使用一对激光器在 100 层上写入和读取数据，这种新光盘可以彻底改变大型数据中心的数据存储。所使用的材料AIE-DDPR可以精确控制写入和读取过程，使其与传统DVD批量生产兼容。研究人员正在努力提高商业用途的写入速度和能耗。]]></description>
+      <guid>https://t.me/hn_summary/75846</guid>
+      <pubDate>Sat, 24 Feb 2024 04:48:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]路边切割效应是通用设计中的一个概念，强调了无残障人士如何 [...]</title>
-      <link>https://t.me/hn_summary/75816</link>
-      <description><![CDATA[路边切割效果
-路边切割效应是通用设计中的一个概念，它强调了残疾人友好功能如何被比最初预期更广泛的受众所接受。例如，为听力正常的人提供隐藏式字幕，以及为不同群体使用的人行道设置路缘石。这种无意的现象导致人们对包容性设计和经济效益的认识不断提高。然而，这也引发了人们对缺乏针对残疾人群体的个性化设计的担忧。路边削减效应展示了无障碍住宿在创造更具包容性的环境方面的力量，对社会产生积极和消极的影响。]]></description>
-      <guid>https://t.me/hn_summary/75816</guid>
-      <pubDate>Fri, 23 Feb 2024 22:59:51 GMT</pubDate>
+      <title>2022 年，作者面临着在疯狂的市场中尝试买房的压力和震惊 [...]</title>
+      <link>https://t.me/hn_summary/75845</link>
+      <description><![CDATA[如何在一年内失去两份工作
+2022 年，作者面临着在疯狂的市场中试图买房的压力，以及在 Elastic 的软件工程工作被解雇的冲击。尽管获得了遣散费和福利，但他们的身份受到的打击是深远的。他们最终在 Coiled 找到了一份新工作，但在 2023 年再次被解雇。在找工作的过程中，他们面临着健康恐慌，肺部肿块原来是疤痕组织。手术很成功，裁员也就失去了意义。作者在自信中挣扎，但在接受不完美和朋友的支持中找到了安慰。尽管面临持续的挑战，他们还是找到了一份新工作，重新找回了自己的声音，并对这段旅程心存感激。]]></description>
+      <guid>https://t.me/hn_summary/75845</guid>
+      <pubDate>Sat, 24 Feb 2024 04:44:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
