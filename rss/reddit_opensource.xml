@@ -4,11 +4,39 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 24 Feb 2024 18:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 21:11:21 GMT</lastBuildDate>
+    <item>
+      <title>开源社交 VR 平台 Overte 已获得 NLnet 资助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1az562r/overte_an_open_source_social_vr_platform_has/</link>
+      <description><![CDATA[ 由   提交/u/dale_glass  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1az562r/overte_an_open_source_social_vr_platform_has/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF 阅读器应用程序（例如 MS Edge） - 从您离开的地方继续</title>
+      <link>https://www.reddit.com/r/opensource/comments/1az54oc/pdf_reader_app_like_ms_edge_pick_up_where_you_left/</link>
+      <description><![CDATA[您知道是否有一款开源 PDF 阅读器应用程序具有像 Microsoft Edge 一样的“从上次离开的地方继续”功能？始终在您离开的位置打开特定的 PDF，非常方便   由   提交/u/Appressive_Ad_5042   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1az54oc/pdf_reader_app_like_ms_edge_pick_up_where_you_left/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>“开源我的拥有 100 万用户的互联网操作系统”的后续内容</title>
+      <link>https://www.reddit.com/r/opensource/comments/1az32m8/a_followup_to_opensourcing_my_internet_os_with_1/</link>
+      <description><![CDATA[大家好， 上周我在这个 reddit 子版块中发布了关于我开源我的“互联网操作系统”的意图以及我对这个令人惊叹的社区的支持感到非常震惊。我只是想让您知道这个过程正在全面进行，我刚刚也开源了 SDK。&lt; /p&gt; 这是迄今为止的当前列表以及每个项目的状态： ✅ 🆕 SDK (Apache 2.0)：Puter 的官方 JavaScript SDK。 [今天发布] ✅ 终端 (AGPL)：https://github.com/ HeyPuter/terminal [上周发布] - 朝着 POSIX 合规性迈进。 ✅ Phoenix Shell (AGPL)：https://github.com/HeyPuter/phoenix [上周发布] ✅ KV.JS (MIT)，即“浏览器中的 Redis！”：https://github.com/HeyPuter/kv.js [1,300 颗星&lt;3 ] 🔜 GUI (AGPL)：puter.com [下个月推出] 🔜 Office (AGPL)：非常令人鼓舞的讨论 不久前在此 Reddit 子版块上 [即将推出] 🔜 应用程序，例如 记事本等[即将推出] ​ 4 下 3 去！请继续关注更多内容:) ​ P.S. 我们对真实的、未经修改的 OSS 许可证 100% 承诺——绝对不提供“开放核心”许可或“可用源”假OSS废话。   由   提交 /u/mitousa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1az32m8/a_followup_to_opensourcing_my_internet_os_with_1/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tmuxer：轻松启动 tmux 会话</title>
+      <link>https://www.reddit.com/r/opensource/comments/1az1fnp/tmuxer_launch_tmux_sessions_with_ease/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/ParthJadhav   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1az1fnp/tmuxer_launch_tmux_sessions_with_ease/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:23:27 GMT</pubDate>
+    </item>
     <item>
       <title>笔记图更新：谈话、集思广益、组织笔记和想法（gui）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ayko7o/notemap_updated_talk_brainstorm_and_organize/</link>
-      <description><![CDATA[   笔记图是一个简单但功能强大的工具，用于快速分析、组织和发现模式和大量文本文件中的相似性。凭借其直观的界面和高级功能，Note Map 使用户能够轻松地可视化、搜索和关联各种文件格式（包括 PDF、TXT 和 DOCX）的信息。此外，Note Map 还可以集思广益、产生想法，甚至可以与笔记进行交流！ +演示视频可在存储库中找到！ 如果您愿意，请在 GitHub 上给它一个星号喜欢它！   由   提交/u/Mr3600  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   笔记图是一个简单但功能强大的工具，用于快速分析、组织和发现模式和大量文本文件中的相似性。凭借其直观的界面和高级功能，Note Map 使用户能够轻松地可视化、搜索和关联各种文件格式（包括 PDF、TXT 和 DOCX）的信息。此外，笔记地图可以进行头脑风暴、产生想法，甚至可以与笔记进行交流！ +演示视频可在存储库中找到！ 如果您愿意，请在 GitHub 上给它一个星号喜欢它！   由   提交/u/Mr3600  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ayko7o/notemap_updated_talk_brainstorm_and_organize/</guid>
       <pubDate>Sat, 24 Feb 2024 03:41:26 GMT</pubDate>
     </item>
@@ -22,7 +50,7 @@
     <item>
       <title>您发现缺少哪些开源安全产品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</link>
-      <description><![CDATA[您好， 我是一名网络安全架构师，也是一位非常建议的开源用户。有一些很棒的开源软件，例如（fail2ban、pfsense、opnsense、security onion 等）... 我想知道您发现缺少什么？ 例如，我缺少一个优秀的开源 SIEM 和优秀的 WebFiltering 软件。 我对你的经验和想法感到好奇。   由   提交/u/Reasonable_Chain_160   [链接] [评论]]]></description>
+      <description><![CDATA[你好， 我是一名网络安全架构师，也是一位非常建议的开源用户。有一些很棒的开源软件，例如（fail2ban、pfsense、opnsense、security onion 等）... 我想知道您发现缺少什么？ 例如，我缺少一个优秀的开源 SIEM 和优秀的 WebFiltering 软件。 我对你的经验和想法感到好奇。   由   提交/u/Reasonable_Chain_160   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</guid>
       <pubDate>Sat, 24 Feb 2024 03:32:43 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
       <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
-      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易使 Grist 有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
+      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易让 Grist 变得有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</guid>
       <pubDate>Fri, 23 Feb 2024 16:29:36 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由   提交 /u/kanani_nirav   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1axqhi2/open_source_indianiptvapp_watch_500_live_indian/</guid>
       <pubDate>Fri, 23 Feb 2024 03:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关 JSON 屏蔽库的反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1axgxcm/looking_for_feedback_on_json_masking_library/</link>
-      <description><![CDATA[ 由   提交 /u/ArthurGavlyukovskiy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1axgxcm/looking_for_feedback_on_json_masking_library/</guid>
-      <pubDate>Thu, 22 Feb 2024 20:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个新的简单开源工具：Note Map</title>
-      <link>https://www.reddit.com/r/opensource/comments/1axdtu7/a_new_simple_open_source_tool_note_map/</link>
-      <description><![CDATA[🎉 刚刚发布！ 📝 笔记图：轻松组织、可视化和讨论文本笔记。轻松搜索、聊天、集思广益。 我写了一个项目的认知部分的主要代码，但我认为最好添加一个图形界面，以便每个人都可以使用它. https://github.com/SudoACoder/note_map 请给出如果您喜欢，请加星！   由   提交/u/Mr3600  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1axdtu7/a_new_simple_open_source_tool_note_map/</guid>
-      <pubDate>Thu, 22 Feb 2024 18:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果对开源的贡献？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1axc7ym/apples_contributions_to_open_source/</link>
-      <description><![CDATA[Facebook、Google 等大公司都为开源做出了重要贡献……我不知道 Apple。他们怎么样？   由   提交 /u/EvanGR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1axc7ym/apples_contributions_to_open_source/</guid>
-      <pubDate>Thu, 22 Feb 2024 17:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚制作了一个开源桌面应用程序来管理多个 kubectl 端口转发</title>
-      <link>https://www.reddit.com/r/opensource/comments/1axb54d/just_made_a_opensource_desktop_app_to_manage/</link>
-      <description><![CDATA[嘿大家， 只是想分享一些我一直在研究的东西.. kftray 是一个小型的开源软件应用程序旨在简化管理多个 kubectl 端口转发，特别是对于本地开发。 此应用程序是一个菜单栏 GUI，使用 Tauri 框架构建 - Rust 用于后端，TypeScript 用于前端。 &gt; 查看一下：https://github.com/hcavarsan/kftray/releases/tag/ v0.6.3 功能：  - 自动重新连接以实现稳定连接 - 一键设置多个端口转发 - 直接工作使用 Kubernetes API - 通过服务器代理中继支持 TCP 和 UDP - 使用本地 JSON 文件或 Git 集成管理配置。 我非常感谢任何反馈或想法改进应用程序。 如果您发现 kftray 有帮助，请考虑在 github 上给我们 ⭐️ - 真正支持我们的工作。    ;由   提交/u/Beginning_Dot_1310   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1axb54d/just_made_a_opensource_desktop_app_to_manage/</guid>
-      <pubDate>Thu, 22 Feb 2024 16:49:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

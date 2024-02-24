@@ -4,11 +4,43 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 24 Feb 2024 18:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 21:11:47 GMT</lastBuildDate>
+    <item>
+      <title>2024 年，独立开发者在 HubSpot 上的年收入将超过 28 万美元</title>
+      <link>https://feed.indiehackers.world/post/608dc3fab2</link>
+      <description><![CDATA[
+当包月套餐提供年度订阅折扣时，我假设该套餐的安装量中有 20% 采用折扣价。
+
+市场顺风
+独立发行商为 HubSpot 构建的主要原因是能够以更少的精力和成本创造高价值（通过为大量用户群提供更小、更有价值的产品来扩展高级平台的价值。通过免费推广和免费使用的销售渠道向您提供）。 
+如果我们正在评估这个市场以了解这个机会，我们需要衡量那些通过主要将 HubSpot 的价值扩展到其用户来创造价值的产品。
+判断的一个关键方法是询问“数据流向哪个方向？” - 产品可以将数据带入 HubSpot、取出数据或两者兼而有之。那些引入数据的人可能会提高 HubSpot 对其用户的价值。 那些仅获取数据的人可能会提高另一种产品及其用户的价值（他们也可能是 HubSpot 用户，但 HubSpot 市场不太可能是该产品的主要驱动力）产品的营销和销售）。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/608dc3fab2</guid>
+      <pubDate>Sat, 24 Feb 2024 21:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于对 ESlint 和 Prettier 及其相关依赖项感到困惑的人，我希望这可以帮助你</title>
+      <link>https://feed.indiehackers.world/post/2cbd1d439d</link>
+      <description><![CDATA[我正在使用 linting 设置一个新的 Next 项目，并且有点困惑为什么我们需要这些不同的额外依赖项来使 ESlint 和 Prettier 一起工作，例如 eslint-config-prettier、eslint-plugin-prettier。所以我第一次开始学习它们（之前我几乎只是按照网上的一些说明进行操作）。 
+写一个小博客，希望对一些人有帮助
+https://medium.com/@shawnxu0208/how-to -use-eslint-and-prettier-together-3b66318e5cc9
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2cbd1d439d</guid>
+      <pubDate>Sat, 24 Feb 2024 20:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 Kickstarter 验证应用创意</title>
+      <link>https://feed.indiehackers.world/post/574339755d</link>
+      <description><![CDATA[我有一个很酷的应用创意，我正在考虑启动 Kickstarter 活动来筹集资金，最重要的是验证这个创意。我是一名产品设计师，我不想在开发 MVP 上投入太多。您认为 kick starter 作为一种想法验证方法怎么样？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/574339755d</guid>
+      <pubDate>Sat, 24 Feb 2024 20:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>Popescu Victor 豪华电视台经理</title>
       <link>https://feed.indiehackers.world/post/9579d82ffc</link>
-      <description><![CDATA[来认识一下 Popescu Victor，他是 LuxureTV 成功背后的充满活力的经理！ https://luxuretv.social/ Victor 拥有推动娱乐行业增长和创新的良好记录，为每个人带来无与伦比的专业知识和愿景项目。从战略规划到无可挑剔的执行，他擅长带领团队取得骄人的业绩。凭借对卓越的热情和超越期望的奉献精神，Victor 是您的首选合作伙伴，可将您的品牌推向新的高度。今天就与他联系并释放您努力的全部潜力
+      <description><![CDATA[来认识一下 Popescu Victor，他是 LuxureTV 成功背后的充满活力的经理！ https://luxuretv.social/ Victor 拥有推动娱乐行业增长和创新的良好记录，为每个人带来无与伦比的专业知识和远见项目。从战略规划到无可挑剔的执行，他擅长带领团队取得骄人的业绩。凭借对卓越的热情和超越期望的奉献精神，Victor 是您的首选合作伙伴，可将您的品牌推向新的高度。今天就与他联系并释放您努力的全部潜力
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9579d82ffc</guid>
       <pubDate>Sat, 24 Feb 2024 16:08:57 GMT</pubDate>
@@ -41,7 +73,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>任何带有“AI”字样的东西都会受到关注！</title>
       <link>https://feed.indiehackers.world/post/3b0e7c8ca6</link>
-      <description><![CDATA[我为什么这么说？我最近构建了一个 Chrome 扩展，它可以让你从 Google 图像搜索中删除 AI 页面。这是https://chromewebstore.google.com/detail/visualcleanser-pro/jkofphiicpokmbhlhahmklclbgfaioap我不知道X 上没有很多关注者（我认为很多只是机器人），而且我也没有任何营销预算，所以我关于其发布的帖子就变成了空白。我在 ProductHunt 上发布了它，但也没有起到多大作用。然而，我注意到它正在慢慢赢得用户，甚至在 Chrome 网上商店上获得了 5 星评价。
+      <description><![CDATA[我为什么这么说？我最近构建了一个 Chrome 扩展，它可以让你从 Google 图像搜索中删除 AI 页面。这是https://chromewebstore.google.com/detail/visualcleanser-pro/jkofphiicpokmbhlhahmklclbgfaioap我不知道X 上没有很多追随者（我认为很多只是机器人），而且我也没有任何营销预算，所以我关于其发布的帖子就变成了空白。我在 ProductHunt 上发布了它，但也没有起到多大作用。然而，我注意到它正在慢慢赢得用户，甚至在 Chrome 网上商店上获得了 5 星评价。
      这是因为它上面有“AI”吗？或许。我还在此处启动了另外 2 个扩展程序 https://chromewebstore.google.com/detail/speedrun -speed-ads-on-vid/fgjdbfbaeclpkkiocgafjmgkgnbkoali 和 https://chromewebstore.google.com /detail/dingshi-timer-stopwatch/kiopdkjlmpgoiemfboaokhmccjliicij 没有，并且仍然没有获得任何用户。我注意到 ProductHunt 上所有每日/每周热门产品的描述或标语上都有人工智能！你有什么想法？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3b0e7c8ca6</guid>
@@ -135,42 +167,6 @@ FIGMA 组合
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3f9262a522</guid>
       <pubDate>Sat, 24 Feb 2024 04:20:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>新动态：无限的营销故障策略</title>
-      <link>https://feed.indiehackers.world/post/50a4c05bc0</link>
-      <description><![CDATA[💳最简单的方式收取信用卡信息不收费？发布者：米哈伊尔·埃里克。
-💻 什么&lt; /a&gt; 我从测试 X 广告中学到了一些东西。由 Mathis Vella 发布。
-😬 创始人是否需要是无耻又近乎妄想吗？由达伦发布。
-💡赛义德·法拉兹·艾哈迈德。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/50a4c05bc0</guid>
-      <pubDate>Sat, 24 Feb 2024 04:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inc. 5000 名单 - 2023（CSV 和 PDF 格式）、公司名称、网址、位置、增长率、描述、成立时间、行业、员工人数、邮政编码</title>
-      <link>https://feed.indiehackers.world/post/2ac618b954</link>
-      <description><![CDATA[员工数量：评估这些企业（从初创企业到老牌企业）的规模和运营能力。
-邮政编码：深入了解这些公司的具体位置，帮助您进行市场研究和区域定位工作。
-无论您是市场研究员、投资者、业务分析师还是寻求灵感的企业家，Inc. 5000 强名单 - 2023 数据包都能为您提供做出明智决策和发现增长机会所需的工具。
-不要错过这个了解 2023 年表现最佳的公司的宝贵资源。立即获取 Inc. 5000 强名单 - 2023 年数据包，开始揭开商业成功的秘密！
-https://eastbrightmarketing.gumroad.com/l/inc5000-2023
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2ac618b954</guid>
-      <pubDate>Sat, 24 Feb 2024 02:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人惊叹的 AI 如何在不进行 SEO 的情况下每月产生 2.6 万自然访问者</title>
-      <link>https://feed.indiehackers.world/post/6e81a42b31</link>
-      <description><![CDATA[即使在两周内，我们也会为您提供有关所有这些列表和提交的完整详细报告。
-&lt;小时/&gt;
-你必须做什么？
-您只需前往 Avail Saas Growth Kit VIP：
-https://saaspedia.gumroad.com/l/saas-growth-kit-vip/33OFFVIP /
-休息是我们头疼的问题，也是让您在所有这些网站上排名和晋升的责任。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6e81a42b31</guid>
-      <pubDate>Sat, 24 Feb 2024 01:55:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 18:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 21:11:16 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个 <1KB CSS 框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az14kx/i_built_a_1kb_css_framework/</link>
-      <description><![CDATA[作为个人网站重新设计的一部分，受 Low Tech 杂志的启发，我构建了一个不到 1KB 的 CSS 框架。它旨在提供网页所需的几乎所有结构元素，全部在 1KB 以内。 框架中包含的元素是：  响应式 12-宽列系统 用于移动优先设计的响应式容器 导航栏（非常基本） 预格式化表格 标题大小&lt; /li&gt; 代码块 表单块 平铺 响应式元素隐藏标签 预格式化标题 li&gt; 水平规则  您可以阅读此处的文档 ，您可以在此处下载/贡献代码。 ​ 附注我知道 &lt;1KB CSS 框架确实已经存在，并且我知道我的 CSS 框架并不完美。这实际上只是一个我想公开的个人项目，以防其他人发现它有用。   由   提交 /u/DingyAtoll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az14kx/i_built_a_1kb_css_framework/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:10:55 GMT</pubDate>
+      <title>我刚刚推出了开发者内容创建者目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az57ck/i_just_launched_a_directory_of_developer_content/</link>
+      <description><![CDATA[   大家好！我构建了 influencer.dev - 一个面向开发者内容创建者的目录。任何合法的开发内容创建者都可以申请并通过自己的展示页面进行展示。无需任何费用，也无任何附加条件。我希望这将帮助他们扩大受众并找到与以开发为中心的品牌的相关合作机会（更多详细信息请参见 这篇文章）。如果您正在创建内容或正在寻找优质的开发内容创建者 - 请查看并注册！ https: //i.redd.it/8umf5nqeklkc1.gif ​   由   提交/u/distinct_cabbage90   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az57ck/i_just_launched_a_directory_of_developer_content/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:59:13 GMT</pubDate>
     </item>
     <item>
-      <title>3个问题将让你成为非凡的橡皮鸭</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az0zyu/3_questions_that_will_make_you_a_phenomenal/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az0zyu/3_questions_that_will_make_you_a_phenomenal/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:05:37 GMT</pubDate>
+      <title>无服务器明显慢吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az48md/is_serverless_noticeably_slower/</link>
+      <description><![CDATA[这可能取决于实际的提供商，但我将创建一些项目，并且我想澄清一些事情。  我将远离大型提供商（aws、gcp、azure），更多地考虑渲染、Railway、Heroku 或 Deno 与 Linode 或 DO 上完全托管的 Kubernetes。  p&gt; 我正在启动一些 Python 后端，尽可能进行 Docker 化。 Kubernetes 对我来说更直观……这是一个服务器，就在那里。无服务器似乎总是有“加速”期。这种延迟是真实存在的吗？它是否明显使我的应用程序响应速度变慢？或者，无服务器处理请求的速度与带有 nginx 的 kubernetes 一样快吗？   由   提交/u/jokeaz2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az48md/is_serverless_noticeably_slower/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:19:40 GMT</pubDate>
     </item>
     <item>
-      <title>通过神奇宝贝搜索建立了集换式卡牌游戏观看网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az0xw1/built_a_trading_card_game_viewing_website_via/</link>
-      <description><![CDATA[      我想分享一些我一直在做的事情。 Pokédex + TCG 这个项目的目的是使用Framer 作为前端，而不是从头开始构建，并使用我自己的后端。 重点关注设计和颜色转换，我开发了一个网站，您可以在其中搜索您最喜欢的神奇宝贝并查看它们的所有卡片。 功能：  通过文本搜索匹配任何神奇宝贝名称 按国家图鉴编号搜索会提取该神奇宝贝的所有变体（除了＃869，Alcremie，我仍然需要更新数据库，即将推出！） Shiny版本切换 响应式设计，推荐桌面，但移动设备看起来也不错  即将推出的功能：  &lt; li&gt;主页 详细卡牌查看页面 卡牌市场价值 神奇宝贝元素 神奇宝贝详细信息 保存收藏夹  ​ \&quot;ar\&quot; 的文本搜索 ​ 喷火龙和卡片 我希望你们会喜欢这一切到目前为止已开发完毕，并继续使用它，这样您就不会错过任何未来的改进。如果您❤️这个项目，请考虑支持我的工作，非常感谢！   由   提交/u/L_E_U   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az0xw1/built_a_trading_card_game_viewing_website_via/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:03:21 GMT</pubDate>
+      <title>人工智能会接管网络开发吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az45ux/will_ai_ever_take_over_web_development/</link>
+      <description><![CDATA[我见过这个问题被问过很多次，而且我看到的答案通常是“否”但随着人工智能最近的里程碑及其可怕的成就（例如 openAI Sora）以及现在已经是 2024 年的事实，我们已经看到了人工智能的更多可能性，您现在对此有何想法？我问这个问题的原因是因为我想学习网络开发并获得报酬，但老实说，如果机器人可以更便宜、更快并且可能做得更好，我真的不会打扰。   由   提交 /u/0583983949920020959Z   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az45ux/will_ai_ever_take_over_web_development/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:16:33 GMT</pubDate>
     </item>
     <item>
-      <title>表格渲染问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az0988/problems_with_the_rendering_of_a_table/</link>
-      <description><![CDATA[       大家好， 我正在使用 Flask 和 bulma 构建一个小型 Web 应用程序，作为一个业余爱好项目。 我正在尝试动态渲染表格。在这个表中，我有一个通常是“隐藏”的列，并且一个复选框可以显示它。 当显示这个隐藏列时，我在该特定列上有一些奇怪的工件。我找不到代码中的错误，而且我认为代码有点混乱。 有人可以帮我找出问题所在吗？ 这是表 html + Jinja 代码。和两张表格细节的图片 另外，我很抱歉我的英语不好  {% for i in range(1, 10) %} {% set ns = namespace(first_time=true) %}  &lt;table class=&quot;table is-fullwidth is-striped is-bordered&quot;&gt; {% forpellsinspells%} {%ifspell.level==i%} {%ifns.first_time==true%} ; --第/th&gt; Livello {{ i }} n.  {% set ns.first_time = false %} {% endif %}  &lt;td&gt; {% if current_user.id == character.user_id %}  {{ form.hidden_​​tag() }} {{ form.submit(value=&quot;-&quot;, class=&quot;subtract&quot;) }}  {% else %} -- {% endif %} &lt;/td&gt; &lt;td&gt;{{pell.name }}&lt;/td&gt; &lt;td&gt; {% if current_user.id == character.user_id %}  {{ form.hidden_​​tag() }} {{ form.submit(value=spell.prepared, class=&quot;adder&quot;) }}  {% else %} {{拼写.准备}} {% endif %} &lt;/td&gt;   {{ form.hidden_​​tag() }} {{ form.submit(value=&quot;x&quot;, style=&quot;color: red&quot;, class=&quot;subtract&quot;) }}  &lt;/td&gt;  {% endif %} {% endfor %} &lt;/table&gt;  &lt;br&gt; {% endfor %}  当显示时，我有那些奇怪的文物 隐藏时其他一切看起来都不错   由   提交 /u/IamTheTussis   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az0988/problems_with_the_rendering_of_a_table/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:35:31 GMT</pubDate>
+      <title>你在工作中遇到什么困难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az3z1i/what_are_you_struggling_with_at_work/</link>
+      <description><![CDATA[我自 2007 年以来一直是一名来自德国的 Web 开发人员。我确实是一名自由职业者，并且已经见过许多不同的项目和团队。  您在日常工作中遇到什么困难并希望获得其他意见？ AmA   &amp; #32；由   提交 /u/No_Dragonfruit3391   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az3z1i/what_are_you_struggling_with_at_work/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:08:32 GMT</pubDate>
     </item>
     <item>
-      <title>Supabase 数据库对于我当前拥有的记录量来说太大了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az08s5/supabase_database_size_too_big_for_current_amount/</link>
-      <description><![CDATA[我正在使用免费套餐。当我将 Web 应用程序部署到生产环境时，我会将其升级到 Pro。但是，现在 Supabase 的一张表中有大约 30 条记录，第二张表中有 2 条记录。所以我总共有2张桌子。但是，在检查使用情况后，提到我使用了 0.5GB 中的 0.08GB 数据库空间。这怎么可能？我查了一下，他们在文档中的某个地方提到，最终 Supabase 将运行 VACUUM 命令或类似的命令，但似乎我的项目需要很长时间才能触发此命令。 &lt;!-- SC_ON - -&gt;  由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az08s5/supabase_database_size_too_big_for_current_amount/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:35:04 GMT</pubDate>
+      <title>网络浏览器中的 telnet 客户端是否可行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az3y4y/feasibility_of_telnet_client_in_web_browser/</link>
+      <description><![CDATA[所以我目前正在尝试研究使用 Python 以老式 MUD/MOO 风格创建基于 Web 的多人文本 RPG 的可行性我年轻的时候就玩过。这样做的目的是为了编码训练营的最终项目。因此，我不想只使用 MUD 框架并使用游戏内的实用程序来构建游戏。  ​ 我看过 miniboa 和 evennia，两者都有我希望能够完成的部分。我想将 Miniboa 用作框架，但是我不想完全避免使用 telnet 客户端，并让用户通过 Web 浏览器中的 Websocket 进行连接。 Evennia 具有此功能，但更完整（并且是 Django 应用程序，我需要使用 Flask）。 ​ 我想我的总体问题是：为 miniboa 框架包含/转换为 websocket 功能有多容易？或者有没有更好的方法来完成我在这里想做的事情。  ​ 感谢您的任何帮助，谢谢！   由   提交/u/Tomaster  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az3y4y/feasibility_of_telnet_client_in_web_browser/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>使用Vuejs、Nuxt等技术自动生成短视频。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az07mh/auto_generate_short_videos_with_vuejs_nuxt_and/</link>
-      <description><![CDATA[   https://preview.redd.it/i5e8keewjkkc1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=b4c595df7f de044c9f55fe958b16705131c2d946 使用 Vuejs、Nuxt 和其他技术自动生成短视频。 通过几个简单的步骤在本地自动创建 YouTube Shorts。 1.Give视频主题  根据需要添加额外提示信息 查看脚本 添加自定义搜索关键字 2.选择要使用的特定语音或设置所有世代的全局默认语音 3.生成视频 4.查看视频 - 重新生成视频 5.向视频添加音乐 6.查看所有生成的视频 利润   该项目基于 MoneyPrinter-v1 项目 这里是 github 中该项目的链接 https://github.com/leamsigc/ShortsGenerator 非常欢迎任何反馈。   由   提交 /u/leamsigc   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az07mh/auto_generate_short_videos_with_vuejs_nuxt_and/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:33:44 GMT</pubDate>
+      <title>动画起点更改</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az3xjg/animation_starting_point_change/</link>
+      <description><![CDATA[      如果您查看此登录页面，您会看到板球从左上角位置开始在屏幕上弹跳。  我的客户和我想在动画中制作一个从右上角开始的球。 关于我需要更改的内容有什么想法吗？ 🤔 代码如下：     由   提交/u/Interesting_Half_710   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az3xjg/animation_starting_point_change/</guid>
+      <pubDate>Sat, 24 Feb 2024 20:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>预订火车票的API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az005l/api_for_booking_train_tickets/</link>
-      <description><![CDATA[我想知道是否有人熟悉我可以用来允许人们在我的网站上购买火车票的 API？我查询的火车是 Amtrak、Acela 和任何其他国家线路。   由   提交/u/mitch1618  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az005l/api_for_booking_train_tickets/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:25:10 GMT</pubDate>
+      <title>仅 CSS DVD 屏幕保护程序动画：视觉演练</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az3aqo/cssonly_dvd_screensaver_animation_a_visual/</link>
+      <description><![CDATA[       由   提交/u/JavierM42  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az3aqo/cssonly_dvd_screensaver_animation_a_visual/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:39:56 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个基本的剪刀石头布游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayztjo/i_made_a_basic_rock_paper_scissors_game/</link>
-      <description><![CDATA[这是我将 Javascript 添加到 HTML 和 CSS 的第一个项目。它是为 Odin 项目的“Web 开发简介”而制作的。请给我任何建议，告诉我我可以做些什么不同的事情，以及我做错了什么。 链接到存储库： https://github.com/Blaze4884/Rock-Paper-Scissors 网站链接： https://blaze4884.github.io/Rock-Paper-Scissors/   由   提交/u/Blaze4884_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayztjo/i_made_a_basic_rock_paper_scissors_game/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:17:47 GMT</pubDate>
+      <title>我构建了一个工具，可以将您的 Drive/Notion 学习材料转换为考试问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az2wwl/i_built_a_tool_that_converts_your_drivenotion/</link>
+      <description><![CDATA[   /u/DerThan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az2wwl/i_built_a_tool_that_converts_your_drivenotion/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:23:31 GMT</pubDate>
     </item>
     <item>
-      <title>取景器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayz0hd/vuefinder/</link>
-      <description><![CDATA[我制作了一个文件管理器组件。并完全接受建议。你觉得怎么样？   由   提交/u/n1crack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayz0hd/vuefinder/</guid>
-      <pubDate>Sat, 24 Feb 2024 16:45:02 GMT</pubDate>
+      <title>您认为作为软件开发人员使用 ChatGPT 是不好的做法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az2hpq/do_you_think_that_its_bad_practice_to_use_chatgpt/</link>
+      <description><![CDATA[我当然不会用它来生成一大堆代码，但有时我写完一个函数后也想不出哪里出了问题它，然后我只是将函数发布到 ChatGPT，它指出我拼错了一个变量名称，这是我忽略的。 有时我用它来优化代码以使函数更短，但这并不总是值得信赖的它吐出低效的垃圾。在随机使用东西之前，我当然会先检查代码，有时查找信息会很方便。 我不认为现在可以完全取代程序员，但我当然确实认为在某些情况下，如果人们不太依赖它，它可能是一个有用的工具。 您认为作为软件开发人员使用 ChatGPT 是不好的做法吗？ 您认为使用 ChatGPT 是一种不好的做法吗？ &gt; 编辑：在我看来，过度依赖工具会对开发人员的技能产生负面影响。我将此与 GPS 导航系统出现之前的时间进行比较。以前，人们必须查看地图来计算和规划从A点到B点的最有效路线。这使人们的生活变得更加轻松，但与此同时，常规地图变得微不足道。人类变得更加依赖 GPS 导航系统，随着时间的推移，人们的地图阅读能力逐渐下降，以至于没有人知道如何阅读地图。它尤其影响了新一代。   由   提交 /u/CannotStopMeOnReddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az2hpq/do_you_think_that_its_bad_practice_to_use_chatgpt/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:06:24 GMT</pubDate>
     </item>
     <item>
-      <title>对我的个人网站的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayyxsr/feedback_on_my_personal_site/</link>
-      <description><![CDATA[您好，只是想知道是否有人愿意在我的网站上提供一些反馈gregfield.dev 。  谢谢 格雷格:)   由   提交 /u/Alternative-Set4786    reddit.com/r/webdev/comments/1ayyxsr/feedback_on_my_personal_site/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayyxsr/feedback_on_my_personal_site/</guid>
-      <pubDate>Sat, 24 Feb 2024 16:41:58 GMT</pubDate>
+      <title>第一份简历反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az2e6y/first_cv_feedback/</link>
+      <description><![CDATA[      你好，我是一名计算机科学专业的学生，​​预计明年毕业，但我真的想从现在开始，因为我想开始学习更多，这是撰写简历对我来说是一个挑战，因为除了为大学所做的项目之外，我没有任何经验。我读过其他人的简历，并尝试根据反馈写我的简历。如果有人能给我一些关于如何改进我的简历的反馈，那将是很大的帮助。   由   提交/u/verynic3  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az2e6y/first_cv_feedback/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个寻找人工智能工作的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayyv04/i_made_a_site_to_find_jobs_in_ai/</link>
-      <description><![CDATA[我开始这个项目是为了一个有趣的挑战 - 在 2 小时内构建并启动一个项目。它立即出现在 Ben&#39;s Bites 和其他时事通讯中。 Robert Scoble 在他的 Twitter 上分享了该项目。 链接：https://www.moaijobs.com/&lt; /p&gt; 堆栈：Nextjs 14、Shadn/UI、Supabase、Cloudflare R2、Lemon scrapezy 请分享您的反馈。谢谢。   由   提交 /u/WordyBug   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayyv04/i_made_a_site_to_find_jobs_in_ai/</guid>
-      <pubDate>Sat, 24 Feb 2024 16:38:54 GMT</pubDate>
+      <title>我一直在制作我的作品集网站。希望得到一些反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az2dec/ive_been_working_on_my_portfolio_website_would/</link>
+      <description><![CDATA[   /u/ashortpause  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az2dec/ive_been_working_on_my_portfolio_website_would/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:01:29 GMT</pubDate>
     </item>
     <item>
-      <title>批评我的个人网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayyqv5/critique_my_personal_website/</link>
-      <description><![CDATA[大家好！ 好了，我已经完成了我的个人网站 (链接）！ 目前，这是一个单页网站，但我计划添加更多页面（即关于、服务） 、项目、联系方式，也许还有博客）。我为我的小网站感到自豪，但我预计公众会有不同的感受。我可以做些什么来将其提升到一个新的水平？ 谢谢！   由   提交 /u/ImYourPappi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayyqv5/critique_my_personal_website/</guid>
-      <pubDate>Sat, 24 Feb 2024 16:34:12 GMT</pubDate>
+      <title>我做的一个小东西可以帮助我学习德语。您输入一个单词/短语和一个可选的上下文句子。然后你会遇到翻译挑战（由 gpt-4 生成），你可以尝试解决其中出现的输入单词/短语，这样你就可以真正巩固对该单词的理解。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az2ajo/a_little_thingy_i_made_to_help_me_learn_german/</link>
+      <description><![CDATA[   /u/borii0066  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az2ajo/a_little_thingy_i_made_to_help_me_learn_german/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个多轨虚拟钢琴和音乐制作器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayygs0/i_made_a_multitrack_virtual_piano_and_music_maker/</link>
-      <description><![CDATA[我为了好玩而制作了这个多轨虚拟钢琴和音乐制作器。 https://kewazi.com/piano/music-maker/ 它可以让你分享通过 URL 保存您的创作（以便您或其他人稍后可以看到、听到和编辑它），并将其导出到 MP3。 我确信它并不完美，但它很有趣，制作起来也很有趣:)   由   提交/u/shredgeek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayygs0/i_made_a_multitrack_virtual_piano_and_music_maker/</guid>
-      <pubDate>Sat, 24 Feb 2024 16:22:45 GMT</pubDate>
+      <title>未婚夫很难找到她想要的伴娘礼服颜色，所以我建立了一个网站，让你可以选择任何颜色，甚至可以从照片中选择颜色，它会从多家零售商处找到适合你的伴娘礼服 - ShopTheSwatch</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az23jr/fiance_had_a_hard_time_finding_bridesmaid_dresses/</link>
+      <description><![CDATA[在看到我的未婚夫很难找到她想要的颜色的伴娘礼服后，我建立了这个概念验证网站，以便让正装购物变得更容易。作为一名前亚马逊/耐克工程师，我认为这很容易。结果颜色很难，但一旦我成功了，它就非常酷了。 它现在只生产一些零售商的伴娘服，但我计划添加男装、其他正装、配饰和鞋子。感觉整个正装购物体验都是倒退的，所以也许这会有所帮助！ 让我知道你们的想法！  &amp; #32；由   提交 /u/PaybackTony   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az23jr/fiance_had_a_hard_time_finding_bridesmaid_dresses/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:50:37 GMT</pubDate>
     </item>
     <item>
-      <title>二维码生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayxras/qr_code_generator/</link>
-      <description><![CDATA[所以最近遇到了一种奇怪的情况，我想分享我和咖啡师一起观看的 YouTube 视频，但我没有（或想要得到）他的电话号码。令我惊讶的是，没有简单的方法可以做到这一点。 所以我回家编码了 ShareAsQRcode.com。  说明很简单： 访问网站。 在手机上安装 PWA。 使用大多数应用程序；像 youtube 一样，点击分享，然后分享为二维码（可能位于更多）图标。  让 sudo 朋友扫描手机。 请享受，但请保留反馈给自己，我为自己做这个是出于一个非常具体的原因:)   由   提交 /u/AnotherWallace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayxras/qr_code_generator/</guid>
-      <pubDate>Sat, 24 Feb 2024 15:53:23 GMT</pubDate>
+      <title>当你损失了 5 个小时，大量脑细胞都在与 CORS 作斗争时，但 uBlockOrigin 一直都是这样</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az1w1v/when_you_lose_5_hours_and_a_lot_of_braincells/</link>
+      <description><![CDATA[       由   提交/u/stathis21098   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az1w1v/when_you_lose_5_hours_and_a_lot_of_braincells/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:42:15 GMT</pubDate>
     </item>
     <item>
-      <title>🌱我做了一个有趣又简单的增量游戏。 🌱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ayr080/i_have_made_a_fun_and_simple_incremental_game/</link>
-      <description><![CDATA[🌱植物浇水游戏是我开发的一款简单又有趣的增量游戏。🌱 查看：https://plant-watering-game.vercel.app/ 游戏可以安装并作为 PWA 离线使用。  保存文件还可以导出和导入以供以后使用。 您可以在深色和浅色主题之间切换。 它也适用于移动设备。    由   提交 /u/Spetterman66_on_rblx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ayr080/i_have_made_a_fun_and_simple_incremental_game/</guid>
-      <pubDate>Sat, 24 Feb 2024 10:00:58 GMT</pubDate>
+      <title>将 Express 服务器从 Heroku 移至 Railway -> 响应时间减少一半</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az1rss/moved_express_server_from_heroku_to_railway/</link>
+      <description><![CDATA[不确定这是否只是一个侥幸，或者我位于该国的哪个地方，或者什么，但我有一个付费的 Heroku 爱好计划，该计划已经至今已托管 Express 服务器多年。我预计今年年底流量会增加，因为我在我的应用程序上加入了另一家公司，所以我正在考虑进行一些升级。然而，我最近了解了铁路，它的定价似乎更划算。我想我会在移动东西的时候测试它。首先，设置再简单不过了。第二次我启动了服务器，只是随机开始访问端点以确保一切正常工作，并注意到基本上每个端点花费了大约一半的时间来响应。认为这是一种疯狂的跳跃。想分享并看看是否有人有类似的经历或知道为什么差异如此明显。我认为这可能有几件事，铁路计算提供了更多资源。尽管看起来相同，但该地区有所不同。美国西部。或者新服务器上的负载较少，但在周末当前负载相当轻。想法？   由   提交/u/christo9090   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az1rss/moved_express_server_from_heroku_to_railway/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:37:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
