@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 00:55:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 03:13:09 GMT</lastBuildDate>
+    <item>
+      <title>欺骗性弃用：关于 npm 弃用包的真相</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</guid>
+      <pubDate>Sun, 25 Feb 2024 02:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[问题] 2024 年最好学习 STACK，以获得一份完整的远程工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azc44s/question_best_stack_to_learn_in_2024_to_land_a/</link>
+      <description><![CDATA[基本标题，我想知道如何学习才能获得完整的远程工作。   由   提交/u/Quate1v9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azc44s/question_best_stack_to_learn_in_2024_to_land_a/</guid>
+      <pubDate>Sun, 25 Feb 2024 01:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载邮递员集合，我应该将 {practiceid} 替换为 123456，还是需要在其他地方配置 123456？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</link>
+      <description><![CDATA[   /u/lindogamaton  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</guid>
+      <pubDate>Sun, 25 Feb 2024 01:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对注销用户的每会话分析建议比谷歌分析更详细？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azb32w/recs_for_persession_analytics_for_logged_out/</link>
+      <description><![CDATA[大家好，想知道您对显示注销用户的每会话分析的服务有何建议，例如引用 URL 是什么、位置、设备，IP地址，如果他们之前访问过等等。 对我登录的用户使用mixpanel，但他们建议不要记录注销用户的操作，并且我设置了谷歌分析，但似乎只提供非常广泛的数据，例如我每天的访问次数。我目前没有将 Google Analytics 与登录用户关联起来（这看起来确实很复杂），而且 Google 似乎不想让这些数据的使用变得容易。 我们正在开展促销活动不同的城市，并且使用不同的查询字符串来分段数据通常并不总是可行（人们只是给出我们的整个网站，而不是我们发送的链接）。一直在考虑为热图设置 hotjar，但不认为它具有这种注销分析功能。你怎么处理这个问题？还有其他服务可以做得更好吗？谢谢。   由   提交 /u/gyrftw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azb32w/recs_for_persession_analytics_for_logged_out/</guid>
+      <pubDate>Sun, 25 Feb 2024 01:09:19 GMT</pubDate>
+    </item>
     <item>
       <title>想要制作一个简单的网站，对这个过程完全陌生。</title>
       <link>https://www.reddit.com/r/webdev/comments/1azaapc/wanting_to_make_a_simple_website_completely_new/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[刚刚偶然发现了 display: ruby​​; 和  元素。任何人都可以分享关于 &lt;ruby&gt; 之间互连的见解吗？元素和 CSS ruby​​ 注释？鉴于浏览器对 CSS ruby​​ 样式选项的支持程度适中（根据 MDN），这些选项是否有任何实际用例？ 链接：* https://developer.mozilla.org/en-US/docs/Web/CSS/display#ruby * https://html.spec.whatwg.org/multipage/text-level-semantics.html#the -ruby-element * https://developer.mozilla.org/en -US/docs/Web/HTML/Element/ruby   由   提交/u/web-devel  /u/web-devel  reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</guid>
       <pubDate>Sat, 24 Feb 2024 21:43:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到值得信赖的网络开发人员来帮助您构建网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az5wr6/how_do_you_find_a_trusted_webdev_to_help_build/</link>
-      <description><![CDATA[我想询问这个社区，因为我不确定如何解决这个问题：我正在寻找为我的初创公司开发一个 WordPress 网站。我正在尝试自己去做，但我认为付钱给某人来帮助设置可能是值得的。这相当简单。但是，你们都建议如何解决这个问题？我已设置域名和网站托管。我只是不确定如何选择人来帮助我 - 有数以百万计的服务和人员。有哪些值得提出的好问题、需要发现的危险信号等等？   由   提交 /u/centipedeberryjuice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az5wr6/how_do_you_find_a_trusted_webdev_to_help_build/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建一个社交媒体网站有多难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/</link>
-      <description><![CDATA[抱歉，如果这是错误的 Reddit 子版块，但我对开始一个子版块很好奇 实际上不知道如何做，但如何做学习如何运行和制作一个会很难吗？   由   提交 /u/Big-Contribution4896    reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:25:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>#100DaysOfCode #第 12 天</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az5obr/100daysofcode_day_12/</link>
-      <description><![CDATA[#100daysofcode #Day 12📷 以深入研究 API 项目开始——这是我后端课程中的必做之事。任务：创建一个时间戳 API。我必须通过约会课来磨练我的技能，感觉自从我上次接触它以来已经过去了很多年。一路上遇到了很多麻烦，但是，嘿，这就是学习曲线，对吧？ 📷 必须多次循环编码、测试 API、git 推送、失败和调试。但猜猜怎么了？坚持就有回报——我克服了挑战！ 📷 耐心解决问题，伙计们，这是成为一流程序员的真正秘诀。📷 https://youtu.be/zVsOu0VuGu0   由   提交 /u/Zilenxra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az5obr/100daysofcode_day_12/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚推出了开发者内容创建者目录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az57ck/i_just_launched_a_directory_of_developer_content/</link>
-      <description><![CDATA[   大家好！我构建了 influencer.dev - 一个面向开发者内容创建者的目录。任何合法的开发内容创建者都可以申请并通过自己的展示页面进行展示。无需任何费用，也无任何附加条件。我希望这将帮助他们扩大受众并找到与以开发为中心的品牌的相关合作机会（更多详细信息请参见 这篇文章）。如果您正在创建内容或正在寻找优质的开发内容创建者 - 请查看并注册！ https: //i.redd.it/8umf5nqeklkc1.gif ​   由   提交/u/distinct_cabbage90   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az57ck/i_just_launched_a_directory_of_developer_content/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:59:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
