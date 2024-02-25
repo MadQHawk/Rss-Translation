@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 09:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 12:19:33 GMT</lastBuildDate>
+    <item>
+      <title>当今时代：《Clean Code》不是一本书，而是 VS Code 中的点击式 AI CodeLens</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azmkge/todays_generations_clean_code_isnt_a_book_its/</link>
+      <description><![CDATA[      刚开始开发的时候，我花了一些时间阅读《清洁代码》一书，然后不断回头一遍又一遍地重读某些部分来检查我的代码。 这些天，似乎有点不同 https://preview.redd.it/zlg33hu14qkc1.png?width=1721&amp;format= png&amp;auto=webp&amp;s=84b3ab1581a76b6bce40ed099a8523a542ef4c71   由   提交/u/findurself020   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azmkge/todays_generations_clean_code_isnt_a_book_its/</guid>
+      <pubDate>Sun, 25 Feb 2024 12:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助建立网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azmdrt/help_with_building_a_website/</link>
+      <description><![CDATA[您好，我不知道这是发布此内容的正确位置，但是 我是一名 MIS 学生，我现在有我的毕业项目，需要我们从头开始编写一个网站，我们有网站的想法和一切，但我们没有人有足够的编程知识来建立一个网站，（我们的专业只有几门与编码，他们只教你基础知识），我可以使用什么工具，网站，任何东西来构建网站，构建数据库并完成所有这些，它不必看起来很漂亮，它只需要工作，保持请记住，大量的标记都在书面代码上，我该如何开始？   由   提交/u/MahmoudAZ02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azmdrt/help_with_building_a_website/</guid>
+      <pubDate>Sun, 25 Feb 2024 12:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Javascript zip 提取器和服务器安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azm6s0/javascript_zip_extractor_and_server_security/</link>
+      <description><![CDATA[嗨， 我想在我的网站上使用此 ZIP 提取应用程序 (html/javascript) - https://gildas-lormeau.github.io/zip.js/demos/demo-read-file.html  我可以问你一个问题吗？我不是程序员，而是图形设计师。如果我上传这个 html/javascript 应用程序以在我的服务器上解压缩 zip 存档，那么我的服务器应该安全吗？ Zip 存档可能包含病毒和恶意软件，但这是一个“前端应用程序”。文件不存储在我的服务器上，但它们在互联网浏览器中进行处理。我是否正确理解我的服务器无法通过此 JavaScript 应用程序受到某些恶意软件的攻击？感谢您的回复   由   提交/u/pixsector  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azm6s0/javascript_zip_extractor_and_server_security/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关处理 dayjs 对象的帮助。我怎样才能让他们在当地时间进行算术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azlyjr/seeking_help_on_handling_dayjs_objects_how_can_i/</link>
+      <description><![CDATA[      仅供参考，我住在新西兰，目前处于 GMT+13。目前发布于 2 月 25 日 我正在使用 `dayjs` 库，我需要创建一个格式化日期数组，给定最小和最大日期。我根据用户界面中选择的今天的偏移量计算最小值。我根据预先确定的日期计算最大值。 我最初的尝试如下， 导出函数generateLabelRange(): string[] { const minimumDate = getMinimumDate(); const MaximumDate = getMaximumDateFromGoalInformation(); const labelRange = MaximumDate.diff(minimumDate, &#39;天&#39;); let labels = [] for (let offSet = 0; offSet &lt;= labelRange; offSet++) { labels.push(minimumDate.add(offSet, &#39;days&#39;).format(&quot;YYYY-MM-DD&quot;));返回标签； }  在此示例中，“minimumDate”是通过“dayjs().subtract(dateRange, &#39;days&#39;)”创建的，“maximumDate”是通过“dayjs(”YYYY- MM-DD”）`。导致该问题的示例如下： const minimumDate = dayjs().subtract(14, &#39;days&#39;); // 正确的是 2 月 11 日 const MaximumDate = dayjs(&quot;2024-03-05&quot;); // 显示为 3 月 4 日  我遇到的问题是 `dayjs(&quot;2024-03-05&quot;)` 表示的对象实际上是 3 月 4 日，而不是第五。格式化的时候只是第五次。这意味着，“maximumDate.diff(minimumDate, &#39;days&#39;)”将得到 22。但是，这是 3 月 4 日和 2 月 11 日之间的差异，而不是我用来创建日期的原始日期，即3月5日。正确的结果应该是 23，但它只循环了 22 次。因此，我的标签生成方法将关闭 1，具体取决于提供的最大日期。  因此，为了现在解决这个问题，我现在比较格式化的日期，  export functiongenerateLabelRange(): string[] { constminimumDate = getMinimumDate(); const MaximumDate = getMaximumDateFromGoalInformation().format(“YYYY-MM-DD”);让日期=最小日期； let formattedDate = date.format(&#39;YYYY-MM-DD&#39;);让标签：字符串[] = []； while (formattedDate !== MaximumDate) { labels.push(formattedDate); date = date.add(1, &#39;天&#39;); formattedDate = date.format(&quot;YYYY-MM-DD&quot;); } labels.push(formattedDate);返回标签； }  虽然这感觉不太好，但是。如何更改“dayjs”以根据其格式化的日期执行加/减？  我也不明白为什么 dayjs, startOf 结果是前一天的日期，例如 感谢您的帮助。 ​ https://preview.redd.it/jicbepwixpkc1.png?width=268&amp;format=png&amp;auto=webp&amp;s=76251b1a51d37d0a5 a9c9354130eecc9e632e806&lt; /p&gt; https://preview.redd。 it/d7el7andxpkc1.png?width=403&amp;format=png&amp;auto=webp&amp;s=bc06abaf75e1dc94782fe6336d72b707deb11bfb   由   提交/u/Chance_Rhubarb_46   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azlyjr/seeking_help_on_handling_dayjs_objects_how_can_i/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Deno 幻灭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azlfmc/disillusioned_with_deno/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azlfmc/disillusioned_with_deno/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:06:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的显示器设置是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azkzph/whats_your_monitor_setup/</link>
+      <description><![CDATA[继这篇文章之后...  您的显示器设置是什么，以及每个显示器的用途是什么？    由   提交/u/Interesting_Buy_5039   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azkzph/whats_your_monitor_setup/</guid>
+      <pubDate>Sun, 25 Feb 2024 10:38:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Remifyy - px 到 rem 转换器 VSCode 扩展</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azktbi/i_made_remifyy_the_px_to_rem_convertor_vscode/</link>
+      <description><![CDATA[** 厌倦了手动 CSS 单位转换??** 介绍 REMifyy，一个由开发人员构建的 VS Code 扩展），对于开发人员！ 轻松将像素转换为 rem 或 em，并告诉我们您的想法！ 我们重视您的反馈，以使 REMifyy 变得更好。今天就下载吧🙌🏻！  点击下面的链接探索“Remifyy”现在。  使用链接下载：https://marketplace.visualstudio.com/items?itemName =kushagra-aa.remifyy  或搜索“Remifyy”在 VSCode 扩展选项卡中（带有两个“y”） Linkedin 帖子：https://www.linkedin.com/posts/kushagra-aa_vscode-webdev-opensource-activity-7162723122788360192-ASTH?utm_source=share&amp;utm_medium=member_desktop &lt; /p&gt;   由   提交/u/kushagra-aa  /u/kushagra-aa  reddit.com/r/webdev/comments/1azktbi/i_made_remifyy_the_px_to_rem_convertor_vscode/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azktbi/i_made_remifyy_the_px_to_rem_convertor_vscode/</guid>
+      <pubDate>Sun, 25 Feb 2024 10:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 React 过渡到 Angular：寻求路线图和路线</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azkroo/transitioning_from_react_to_angular_seeking/</link>
+      <description><![CDATA[嘿 webdev 社区！ 作为一名前端开发人员 (ReactJs)，希望扩大我的技能并增加我的工作机会，我决定深入学习 Angular。但是，我可以使用一些关于从哪里开始以及使用哪些资源的指导。 您能否为从 React 过渡到 Angular 的人建议一个路线图或学习路径？此外，我非常感谢您推荐任何好的课程或教程，以帮助我有效地加快速度。 提前感谢您的帮助！期待您的建议。   由   提交 /u/ryzenblender   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azkroo/transitioning_from_react_to_angular_seeking/</guid>
+      <pubDate>Sun, 25 Feb 2024 10:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 GoDaddy 之外，您有哪些域名托管建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azkfed/outside_of_godaddy_what_are_your_domain_hosting/</link>
+      <description><![CDATA[我知道 GoDaddy 有其问题，所以我想知道有哪些更好（最好更便宜）的替代服务来制作自定义域名？    由   提交 /u/chillinondasideline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azkfed/outside_of_godaddy_what_are_your_domain_hosting/</guid>
+      <pubDate>Sun, 25 Feb 2024 10:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了必须向下滚动到职位描述才能找到所需的最低经验年限，因此编写了一个脚本来为我做到这一点。现在，它在职位名称下方添加了所需的经验，以便我可以快速评估我的资格。评论里有存储库链接！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azkd61/was_fed_up_with_having_to_scroll_down_to_job/</link>
+      <description><![CDATA[    /u/WorL_YouDecide   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azkd61/was_fed_up_with_having_to_scroll_down_to_job/</guid>
+      <pubDate>Sun, 25 Feb 2024 09:57:39 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年及以后 Opera 仍然是主要浏览器吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aziatr/is_opera_still_a_major_browser_in_2024_and_onwards/</link>
@@ -13,7 +83,7 @@
       <pubDate>Sun, 25 Feb 2024 07:41:16 GMT</pubDate>
     </item>
     <item>
-      <title>将 Vercel 项目移交给客户的建议方式是什么？</title>
+      <title>将 Vercel 项目移交给客户的建议方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1azh46o/whats_the_suggested_way_to_hand_off_a_vercel/</link>
       <description><![CDATA[我正在开展一个志愿者项目，我希望客户拥有代码和部署的最终所有权。我目前正在通过我的 GitLab 帐户部署到 Vercel。如果我想实际将其交给客户，我是否必须为客户创建一个 GitHub 帐户并将其连接到新的 Vercel 帐户，还是有更简单的方法？ &lt; !-- SC_ON --&gt;  由   提交/u/freew1ll_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azh46o/whats_the_suggested_way_to_hand_off_a_vercel/</guid>
@@ -36,79 +106,9 @@
     <item>
       <title>开发人员如何在笔记本电脑或只有一台显示器上工作？我感觉我还需要2个显示器..</title>
       <link>https://www.reddit.com/r/webdev/comments/1azfbi6/how_do_you_devs_work_on_laptops_or_only_one/</link>
-      <description><![CDATA[       由   提交/u/marchershey   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/marchershey  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azfbi6/how_do_you_devs_work_on_laptops_or_only_one/</guid>
       <pubDate>Sun, 25 Feb 2024 04:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用简单的 Cloudflare Worker 转换图像 URL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azf063/transform_image_urls_with_a_simple_cloudflare/</link>
-      <description><![CDATA[       由   提交/u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azf063/transform_image_urls_with_a_simple_cloudflare/</guid>
-      <pubDate>Sun, 25 Feb 2024 04:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>上下文切换还原</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azerge/context_switching_redux/</link>
-      <description><![CDATA[我发现了这篇较早的文章，我有点想将上下文切换的主题带回到生活中，并尝试在如何进行方面获得更多新鲜的想法来处理它。 我的情况与 OP 有点不同，因为我基本上是在使用 3 种不同技术堆栈或 sass 产品的大约 4 个不同项目中进行自由职业。 我非常擅长保持我的工作空间井井有条，我有针对不同项目的 Trello 看板，并将其与我的 Google 日历同步。所以我总是知道我应该什么时候做什么任务。我尝试在特定的一天对类似的任务进行分组，但不可避免的是，在某些日子里需要进行上下文切换。尽管有世界上所有的工具，我有时还是很难让我的大脑进行切换。  你们有没有办法处理这个问题，无论是日程安排技巧、任务之间某种类型的休息或休息、你做的一件事或你访问的一个地方来提神醒脑或让它变得更好能够专注于下一件事吗？ 渴望听到。   由   提交 /u/Amazing_Box_8032   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azerge/context_switching_redux/</guid>
-      <pubDate>Sun, 25 Feb 2024 04:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成的元标签臃肿是正常的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aze6zg/is_it_normal_to_have_bloated_generated_meta_tags/</link>
-      <description><![CDATA[      所以，我正在我的网站上工作并配置元数据、OG 图像等内容那。这是我第一次处理这些事情，但到目前为止，我已经设法弄清楚了。但让我很困扰的一件事是，当我查看元标记时，它们非常臃肿，有很多看不见的字符，如下图所示。  https://preview.redd .it/31delivyhnkc1.png?width=878&amp;format=png&amp;auto=webp&amp;s=d6257e462eb4750fa3032294bce6077caed5fafa 我不知道这是否对 SEO 或速度或类似的东西有任何影响但至少每次都需要检查meta标签是否正确，很麻烦。据我所知，这似乎是 Sanity（我正在使用的 CMS）的错误。当我对来自 Sanity 的数据进行 console.log 时，它总是在输出末尾出现很多奇怪的空格，有时甚至会由于某种原因擦除最后一个字符。不过，数据被正确使用，并且在我的网站上没有任何错误。它可能与 Sanity 处理数据的方式有关，但我在文档中找不到任何相关内容。  有什么办法可以解决这个问题吗？这是我应该担心的事情吗？就像我说的，一切似乎都按预期进行，但必须经历如此多的臃肿来检查所有元标记，这很烦人，更重要的是，我担心它会对 SEO 产生不良影响。&lt; /p&gt; 更多信息，以防万一它很重要：我将 Next.js 14 与 App Router 一起使用，该网站托管在 Vercel 上（开发和生产环境中都会发生膨胀）和 React 18.2。我不知道还有哪些其他相关信息，但请别问。   由   提交 /u/TheSirion   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aze6zg/is_it_normal_to_have_bloated_generated_meta_tags/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在这个饱和的市场中脱颖而出？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aze66v/how_to_stand_out_in_this_saturated_market/</link>
-      <description><![CDATA[既然每个工作机会都有 4.2069 亿程序员，如何作为一名 Web 开发人员脱颖而出？这实际上是不可能的。有小费吗？？？？？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aze66v/how_to_stand_out_in_this_saturated_market/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[炫耀星期六] 生产力工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aze5sn/showoff_saturday_productivity_tool/</link>
-      <description><![CDATA[我已经成为一名开发人员 5 年了，在这段时间里，我注意到大多数开发人员都会做笔记，但没有人有专门的笔记应用程序。现有的应用程序是一般的笔记应用程序，对于过滤/重用信息来说很糟糕，所以我制作了一个应用程序，它可以更轻松地首先：找到我正在处理的代码问题的解决方案，第二：保存笔记，以防万一需要重复使用它们。链接是https://codemento.com。我很想听听您对此的想法。   由   提交 /u/asimo22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aze5sn/showoff_saturday_productivity_tool/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该怎么做呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azdxjo/how_do_i_do_this/</link>
-      <description><![CDATA[      如何使我的大纲在遇到这样的文本时停止，如何做我首先在那里得到文本（我对前端相对较新）   由   提交/u/centerdeveloper  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azdxjo/how_do_i_do_this/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 servlet 和 html 的帮助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azdn6p/help_with_servlet_and_html/</link>
-      <description><![CDATA[您好！我开始在 Web 开发中编程，并且正在编写一个需要创建连接到 servlet 的 html 文件的程序。我用的是netbeans。所以我做的第一件事就是尝试它，但没有成功，因为我缺少很多东西，我必须使用 tomcat 设置我的服务器，修复一些更新问题，安装 Java EE 等等。最终完成所有这些操作后，我能够创建一个项目，并在该项目内创建一个 html 文件和一个 servlet。两者都运行时没有标记任何错误，但问题是 html 文件没有打开浏览器页面。代码的要点是打开一个浏览器页面，其中有一个启动 servlet 的按钮，然后该 servlet 打开，但是什么也没发生，我真的不知道该怎么办。 感谢您的帮助！   由   提交 /u/Zethasu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azdn6p/help_with_servlet_and_html/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>欺骗性弃用：关于 npm 弃用包的真相</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</guid>
-      <pubDate>Sun, 25 Feb 2024 02:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[问题] 2024 年最好学习 STACK，以获得一份完整的远程工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azc44s/question_best_stack_to_learn_in_2024_to_land_a/</link>
-      <description><![CDATA[基本标题，我想知道如何学习才能获得完整的远程工作。   由   提交/u/Quate1v9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azc44s/question_best_stack_to_learn_in_2024_to_land_a/</guid>
-      <pubDate>Sun, 25 Feb 2024 01:57:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载邮递员集合，我应该将 {practiceid} 替换为 123456，还是需要在其他地方配置 123456？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</link>
-      <description><![CDATA[   /u/lindogamaton  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</guid>
-      <pubDate>Sun, 25 Feb 2024 01:21:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

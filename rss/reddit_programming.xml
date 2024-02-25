@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 25 Feb 2024 09:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 12:19:20 GMT</lastBuildDate>
+    <item>
+      <title>LZAV 4.0 - 快速数据压缩算法（仅限标头 C/C++），比率现在优于 Zstd@-1</title>
+      <link>https://www.reddit.com/r/programming/comments/1azm8ig/lzav_40_fast_data_compression_algorithm/</link>
+      <description><![CDATA[ 由   提交/u/avaneev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azm8ig/lzav_40_fast_data_compression_algorithm/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的堆栈数据结构的快速交互式心智模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1azlmtm/my_quick_interactive_mental_model_of_the_stack/</link>
+      <description><![CDATA[ 由   提交/u/andycoupe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azlmtm/my_quick_interactive_mental_model_of_the_stack/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔍 跟踪您作为工程师的成长</title>
+      <link>https://www.reddit.com/r/programming/comments/1azjwa3/track_your_growth_as_an_engineer/</link>
+      <description><![CDATA[ 由   提交/u/erFrankie99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azjwa3/track_your_growth_as_an_engineer/</guid>
+      <pubDate>Sun, 25 Feb 2024 09:25:44 GMT</pubDate>
+    </item>
     <item>
       <title>Shoelace：一个具有前瞻性的 Web 组件库。</title>
       <link>https://www.reddit.com/r/programming/comments/1azjlxv/shoelace_a_forwardthinking_library_of_web/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>大型语言模型可以破解网站。</title>
       <link>https://www.reddit.com/r/programming/comments/1azjaom/large_language_models_can_hack_websites/</link>
-      <description><![CDATA[ 由   提交/u/Connect_Tear402  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Connect_Tear402   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azjaom/large_language_models_can_hack_websites/</guid>
       <pubDate>Sun, 25 Feb 2024 08:46:28 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Think-nothing-210   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1az4vv4/testing_and_tdd_stripping_away_the_bullshit/</guid>
       <pubDate>Sat, 24 Feb 2024 20:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gnuplot 6 附带饼图 [LWN.net]</title>
-      <link>https://www.reddit.com/r/programming/comments/1az3prr/gnuplot_6_comes_with_pie_lwnnet/</link>
-      <description><![CDATA[ 由   提交/u/hogney  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az3prr/gnuplot_6_comes_with_pie_lwnnet/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Apache Spark RDD 是不可变的？</title>
-      <link>https://www.reddit.com/r/programming/comments/1az2zfu/why_apache_spark_rdd_is_immutable/</link>
-      <description><![CDATA[ 由   提交/u/luminoumen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az2zfu/why_apache_spark_rdd_is_immutable/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>满月时代码的工作方式有所不同</title>
-      <link>https://www.reddit.com/r/programming/comments/1az0kxr/the_code_worked_differently_when_the_moon_was_full/</link>
-      <description><![CDATA[ 由   提交 /u/LinearArray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az0kxr/the_code_worked_differently_when_the_moon_was_full/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:48:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
