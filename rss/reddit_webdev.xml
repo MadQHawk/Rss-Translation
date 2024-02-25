@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 21:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 00:55:47 GMT</lastBuildDate>
+    <item>
+      <title>想要制作一个简单的网站，对这个过程完全陌生。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azaapc/wanting_to_make_a_simple_website_completely_new/</link>
+      <description><![CDATA[我想为社交媒体上每半月一次的独立作者活动创建一个新网站。 这也没什么复杂，只是列出参与者（提供指向他们的页面/电子邮件的链接），一些漂亮的图片来展示他们的书籍，列出相关信息，并展示我们的促销合作伙伴。 我从未在我的生活，我对最便宜/最简单的方法有点迷失。我考虑过雇人帮我做这件事，但由于设计简单，我不确定它是否值这个钱。 帮助？ &lt;!-- SC_ON - -&gt;  由   提交/u/archblade7777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azaapc/wanting_to_make_a_simple_website_completely_new/</guid>
+      <pubDate>Sun, 25 Feb 2024 00:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何具有扩展 Markdown 支持的数据库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az98mq/any_db_with_extended_markdown_support/</link>
+      <description><![CDATA[虽然我确实意识到 Markdown 只是标记并且可以表示为字符串，但我想知道是否有一个数据库具有专门的 Markdown 数据类型，例如标签收集、Wiki 链接感知等。我一直在谷歌上搜索一下，虽然 MarkdownDB 似乎有点朝这个方向发展，但它与我在这里的意思并不完全相同，这是一个带有 Markdown 的通用数据库，而不是 Markdown 驱动的（这个术语正确吗？）数据库。   由   提交 /u/skwyckl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az98mq/any_db_with_extended_markdown_support/</guid>
+      <pubDate>Sat, 24 Feb 2024 23:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>善有善报恶有恶报</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az8sra/what_goes_around_comes_around/</link>
+      <description><![CDATA[我想有人可能会喜欢这个。 我一直在为 Shopify 应用商店开发一款应用。尽管进展缓慢，但它正在到来。大约一周前，我遇到了一个问题，并通过在合作伙伴仪表板中启用特定设置来解决它。我花了几个小时才弄清楚（我不是很聪明），一路上我在 Shopify 论坛上发现了几个月前未解决的帖子。 好吧，这次我决定我想做一些事情让世界变得更美好，所以我登录并发布了我的解决方案。当然没有人回应，但我觉得有一天，像我这样的人会出现，在同一个线程中遇到同样的问题，我想让他们的生活变得更轻松。 今天下午，添加后一个新功能，我重新部署了该应用程序，但像往常一样它停止工作。我花了一个小时左右的时间来解决这个问题，无法弄清楚，第一百次回到谷歌，这一次我找到了一个帖子，里面有一群有同样问题的人，最后，一个解决方案。 这是我发布的解决方案。 因此，对于那些想知道在您已经知道的情况下共享修复程序有何意义的人，请记住，如果你曾经遇到过这个问题，那么你可能会再次遇到这个问题。如果您花一点时间分享您的知识，您帮助的人可能就是您自己。   由   提交 /u/oldepoetry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az8sra/what_goes_around_comes_around/</guid>
+      <pubDate>Sat, 24 Feb 2024 23:27:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件工程师如何创造价值</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az8ahm/how_software_engineers_create_value/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az8ahm/how_software_engineers_create_value/</guid>
+      <pubDate>Sat, 24 Feb 2024 23:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[不受欢迎的观点]马克·扎克伯格关于元宇宙的看法是正确的，但这个想法太新了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az828m/unpopular_opinion_mark_zuckerberg_was_right_about/</link>
+      <description><![CDATA[每一项可以上线的服务最终都会上线。就像Zoom、Citrix等视频会议软件以及电子商务平台成功地将传统的线下活动（会议、购物）带到线上。人们最终会在网上做一些诸如太空篮球之类的事情。唯一的问题是侵入性硬件。我休息一下。   由   提交/u/UniversityEastern542   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az828m/unpopular_opinion_mark_zuckerberg_was_right_about/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动和运行 Redux-Toolkit 时遇到问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az7zji/having_trouble_getting_reduxtoolkit_up_and_running/</link>
+      <description><![CDATA[      我在 VS Code 中收到以下错误。我正在尝试在 Angular 应用程序中测试 RTK。它甚至还没有以任何方式与 Angular 联系在一起。这是RTK 2.2.1。具体错误是 对象字面量只能指定已知属性，并且类型&#39;Omit, &quot;selectId&quot;&gt;&#39;.ts(2353)中不存在&#39;selectId&#39;谷歌给我的结果为零（字面意思）。有人遇到过这个吗？ https ://preview.redd.it/avewghee4mkc1.png?width=1354&amp;format=png&amp;auto=webp&amp;s=35f664eb24169a59d29da53f89bd9805662eaa40  &amp;# 32；由   提交 /u/AttackOnGolrk   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az7zji/having_trouble_getting_reduxtoolkit_up_and_running/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从数据库中获取数据并将其显示在 Next.js 的页面上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az7s5h/how_can_i_fetch_the_data_from_the_database_and/</link>
+      <description><![CDATA[嗨，我正在 Next.js、Postgres 作为数据库和 Prisma ORM 创建一个学习管理系统 (LMS)。我想知道如何从数据库（Postgres）获取数据并将其显示在 Page 上。请建议一些资源来理解它并实施它。    由   提交/u/meet__07  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az7s5h/how_can_i_fetch_the_data_from_the_database_and/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用 github 还是 Hostinger 进行托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az7cvd/should_i_use_github_or_hostinger_for_hosting/</link>
+      <description><![CDATA[我通过托管商购买了域名，并且还购买了托管计划。但现在，我的网站已连接到 github。我应该坚持使用 github 进行托管还是将其发送给托管商托管？ 编辑：这是我的投资组合   由   提交 /u/Wicked_Weaboo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az7cvd/should_i_use_github_or_hostinger_for_hosting/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术面试编码模式完整课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az75c6/full_course_on_coding_patterns_for_technical/</link>
+      <description><![CDATA[编码模式比盲目做leetcode更重要，在这个不确定的时期我认为每个人都应该做好面试准备。  编码模式完整课程  &amp;# 32；由   提交 /u/TranslatorAway9891   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az75c6/full_course_on_coding_patterns_for_technical/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 Rust/TypeScript Web 应用程序来探索 Mandelbrot 集分形</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az6mil/i_built_a_rusttypescript_web_app_to_explore_the/</link>
+      <description><![CDATA[       由   提交/u/dp-ross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az6mil/i_built_a_rusttypescript_web_app_to_explore_the/</guid>
+      <pubDate>Sat, 24 Feb 2024 21:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示当前状态：ruby 和 <ruby> 元素</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</link>
+      <description><![CDATA[刚刚偶然发现了 display: ruby​​; 和  元素。任何人都可以分享关于 &lt;ruby&gt; 之间互连的见解吗？元素和 CSS ruby​​ 注释？鉴于浏览器对 CSS ruby​​ 样式选项的支持程度适中（根据 MDN），这些选项是否有任何实际用例？ 链接：* https://developer.mozilla.org/en-US/docs/Web/CSS/display#ruby * https://html.spec.whatwg.org/multipage/text-level-semantics.html#the -ruby-element * https://developer.mozilla.org/en -US/docs/Web/HTML/Element/ruby   由   提交/u/web-devel  /u/web-devel  reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</guid>
+      <pubDate>Sat, 24 Feb 2024 21:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何找到值得信赖的网络开发人员来帮助您构建网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az5wr6/how_do_you_find_a_trusted_webdev_to_help_build/</link>
+      <description><![CDATA[我想询问这个社区，因为我不确定如何解决这个问题：我正在寻找为我的初创公司开发一个 WordPress 网站。我正在尝试自己去做，但我认为付钱给某人来帮助设置可能是值得的。这相当简单。但是，你们都建议如何解决这个问题？我已设置域名和网站托管。我只是不确定如何选择人来帮助我 - 有数以百万计的服务和人员。有哪些值得提出的好问题、需要发现的危险信号等等？   由   提交 /u/centipedeberryjuice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az5wr6/how_do_you_find_a_trusted_webdev_to_help_build/</guid>
+      <pubDate>Sat, 24 Feb 2024 21:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一个社交媒体网站有多难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/</link>
+      <description><![CDATA[抱歉，如果这是错误的 Reddit 子版块，但我对开始一个子版块很好奇 实际上不知道如何做，但如何做学习如何运行和制作一个会很难吗？   由   提交 /u/Big-Contribution4896    reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az5v0s/how_hard_is_it_to_create_a_social_media_site/</guid>
+      <pubDate>Sat, 24 Feb 2024 21:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>#100DaysOfCode #第 12 天</title>
+      <link>https://www.reddit.com/r/webdev/comments/1az5obr/100daysofcode_day_12/</link>
+      <description><![CDATA[#100daysofcode #Day 12📷 以深入研究 API 项目开始——这是我后端课程中的必做之事。任务：创建一个时间戳 API。我必须通过约会课来磨练我的技能，感觉自从我上次接触它以来已经过去了很多年。一路上遇到了很多麻烦，但是，嘿，这就是学习曲线，对吧？ 📷 必须多次循环编码、测试 API、git 推送、失败和调试。但猜猜怎么了？坚持就有回报——我克服了挑战！ 📷 耐心解决问题，伙计们，这是成为一流程序员的真正秘诀。📷 https://youtu.be/zVsOu0VuGu0   由   提交 /u/Zilenxra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1az5obr/100daysofcode_day_12/</guid>
+      <pubDate>Sat, 24 Feb 2024 21:18:03 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚推出了开发者内容创建者目录</title>
       <link>https://www.reddit.com/r/webdev/comments/1az57ck/i_just_launched_a_directory_of_developer_content/</link>
       <description><![CDATA[   大家好！我构建了 influencer.dev - 一个面向开发者内容创建者的目录。任何合法的开发内容创建者都可以申请并通过自己的展示页面进行展示。无需任何费用，也无任何附加条件。我希望这将帮助他们扩大受众并找到与以开发为中心的品牌的相关合作机会（更多详细信息请参见 这篇文章）。如果您正在创建内容或正在寻找优质的开发内容创建者 - 请查看并注册！ https: //i.redd.it/8umf5nqeklkc1.gif ​   由   提交/u/distinct_cabbage90   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1az57ck/i_just_launched_a_directory_of_developer_content/</guid>
       <pubDate>Sat, 24 Feb 2024 20:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>无服务器明显慢吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az48md/is_serverless_noticeably_slower/</link>
-      <description><![CDATA[这可能取决于实际的提供商，但我将创建一些项目，并且我想澄清一些事情。  我将远离大型提供商（aws、gcp、azure），更多地考虑渲染、Railway、Heroku 或 Deno 与 Linode 或 DO 上完全托管的 Kubernetes。  p&gt; 我正在启动一些 Python 后端，尽可能进行 Docker 化。 Kubernetes 对我来说更直观……这是一个服务器，就在那里。无服务器似乎总是有“加速”期。这种延迟是真实存在的吗？它是否明显使我的应用程序响应速度变慢？或者，无服务器处理请求的速度与带有 nginx 的 kubernetes 一样快吗？   由   提交/u/jokeaz2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az48md/is_serverless_noticeably_slower/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能会接管网络开发吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az45ux/will_ai_ever_take_over_web_development/</link>
-      <description><![CDATA[我见过这个问题被问过很多次，而且我看到的答案通常是“否”但随着人工智能最近的里程碑及其可怕的成就（例如 openAI Sora）以及现在已经是 2024 年的事实，我们已经看到了人工智能的更多可能性，您现在对此有何想法？我问这个问题的原因是因为我想学习网络开发并获得报酬，但老实说，如果机器人可以更便宜、更快并且可能做得更好，我真的不会打扰。   由   提交 /u/0583983949920020959Z   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az45ux/will_ai_ever_take_over_web_development/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在工作中遇到什么困难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az3z1i/what_are_you_struggling_with_at_work/</link>
-      <description><![CDATA[我自 2007 年以来一直是一名来自德国的 Web 开发人员。我确实是一名自由职业者，并且已经见过许多不同的项目和团队。  您在日常工作中遇到什么困难并希望获得其他意见？ AmA   &amp; #32；由   提交 /u/No_Dragonfruit3391   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az3z1i/what_are_you_struggling_with_at_work/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:08:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络浏览器中的 telnet 客户端是否可行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az3y4y/feasibility_of_telnet_client_in_web_browser/</link>
-      <description><![CDATA[所以我目前正在尝试研究使用 Python 以老式 MUD/MOO 风格创建基于 Web 的多人文本 RPG 的可行性我年轻的时候就玩过。这样做的目的是为了编码训练营的最终项目。因此，我不想只使用 MUD 框架并使用游戏内的实用程序来构建游戏。  ​ 我看过 miniboa 和 evennia，两者都有我希望能够完成的部分。我想将 Miniboa 用作框架，但是我不想完全避免使用 telnet 客户端，并让用户通过 Web 浏览器中的 Websocket 进行连接。 Evennia 具有此功能，但更完整（并且是 Django 应用程序，我需要使用 Flask）。 ​ 我想我的总体问题是：为 miniboa 框架包含/转换为 websocket 功能有多容易？或者有没有更好的方法来完成我在这里想做的事情。  ​ 感谢您的任何帮助，谢谢！   由   提交/u/Tomaster  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az3y4y/feasibility_of_telnet_client_in_web_browser/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>动画起点更改</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az3xjg/animation_starting_point_change/</link>
-      <description><![CDATA[      如果您查看此登录页面，您会看到板球从左上角位置开始在屏幕上弹跳。  我的客户和我想在动画中制作一个从右上角开始的球。 关于我需要更改的内容有什么想法吗？ 🤔 代码如下：     由   提交/u/Interesting_Half_710   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az3xjg/animation_starting_point_change/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅 CSS DVD 屏幕保护程序动画：视觉演练</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az3aqo/cssonly_dvd_screensaver_animation_a_visual/</link>
-      <description><![CDATA[       由   提交/u/JavierM42  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az3aqo/cssonly_dvd_screensaver_animation_a_visual/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以将您的 Drive/Notion 学习材料转换为考试问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az2wwl/i_built_a_tool_that_converts_your_drivenotion/</link>
-      <description><![CDATA[   /u/DerThan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az2wwl/i_built_a_tool_that_converts_your_drivenotion/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为作为软件开发人员使用 ChatGPT 是不好的做法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az2hpq/do_you_think_that_its_bad_practice_to_use_chatgpt/</link>
-      <description><![CDATA[我当然不会用它来生成一大堆代码，但有时我写完一个函数后也想不出哪里出了问题它，然后我只是将函数发布到 ChatGPT，它指出我拼错了一个变量名称，这是我忽略的。 有时我用它来优化代码以使函数更短，但这并不总是值得信赖的它吐出低效的垃圾。在随机使用东西之前，我当然会先检查代码，有时查找信息会很方便。 我不认为现在可以完全取代程序员，但我当然确实认为在某些情况下，如果人们不太依赖它，它可能是一个有用的工具。 您认为作为软件开发人员使用 ChatGPT 是不好的做法吗？ 您认为使用 ChatGPT 是一种不好的做法吗？ &gt; 编辑：在我看来，过度依赖工具会对开发人员的技能产生负面影响。我将此与 GPS 导航系统出现之前的时间进行比较。以前，人们必须查看地图来计算和规划从A点到B点的最有效路线。这使人们的生活变得更加轻松，但与此同时，常规地图变得微不足道。人类变得更加依赖 GPS 导航系统，随着时间的推移，人们的地图阅读能力逐渐下降，以至于没有人知道如何阅读地图。它尤其影响了新一代。   由   提交 /u/CannotStopMeOnReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az2hpq/do_you_think_that_its_bad_practice_to_use_chatgpt/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一份简历反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az2e6y/first_cv_feedback/</link>
-      <description><![CDATA[      你好，我是一名计算机科学专业的学生，​​预计明年毕业，但我真的想从现在开始，因为我想开始学习更多，这是撰写简历对我来说是一个挑战，因为除了为大学所做的项目之外，我没有任何经验。我读过其他人的简历，并尝试根据反馈写我的简历。如果有人能给我一些关于如何改进我的简历的反馈，那将是很大的帮助。   由   提交/u/verynic3  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az2e6y/first_cv_feedback/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在制作我的作品集网站。希望得到一些反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az2dec/ive_been_working_on_my_portfolio_website_would/</link>
-      <description><![CDATA[   /u/ashortpause  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az2dec/ive_been_working_on_my_portfolio_website_would/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做的一个小东西可以帮助我学习德语。您输入一个单词/短语和一个可选的上下文句子。然后你会遇到翻译挑战（由 gpt-4 生成），你可以尝试解决其中出现的输入单词/短语，这样你就可以真正巩固对该单词的理解。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az2ajo/a_little_thingy_i_made_to_help_me_learn_german/</link>
-      <description><![CDATA[   /u/borii0066  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az2ajo/a_little_thingy_i_made_to_help_me_learn_german/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>未婚夫很难找到她想要的伴娘礼服颜色，所以我建立了一个网站，让你可以选择任何颜色，甚至可以从照片中选择颜色，它会从多家零售商处找到适合你的伴娘礼服 - ShopTheSwatch</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az23jr/fiance_had_a_hard_time_finding_bridesmaid_dresses/</link>
-      <description><![CDATA[在看到我的未婚夫很难找到她想要的颜色的伴娘礼服后，我建立了这个概念验证网站，以便让正装购物变得更容易。作为一名前亚马逊/耐克工程师，我认为这很容易。结果颜色很难，但一旦我成功了，它就非常酷了。 它现在只生产一些零售商的伴娘服，但我计划添加男装、其他正装、配饰和鞋子。感觉整个正装购物体验都是倒退的，所以也许这会有所帮助！ 让我知道你们的想法！  &amp; #32；由   提交 /u/PaybackTony   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az23jr/fiance_had_a_hard_time_finding_bridesmaid_dresses/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你损失了 5 个小时，大量脑细胞都在与 CORS 作斗争时，但 uBlockOrigin 一直都是这样</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az1w1v/when_you_lose_5_hours_and_a_lot_of_braincells/</link>
-      <description><![CDATA[       由   提交/u/stathis21098   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az1w1v/when_you_lose_5_hours_and_a_lot_of_braincells/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Express 服务器从 Heroku 移至 Railway -> 响应时间减少一半</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az1rss/moved_express_server_from_heroku_to_railway/</link>
-      <description><![CDATA[不确定这是否只是一个侥幸，或者我位于该国的哪个地方，或者什么，但我有一个付费的 Heroku 爱好计划，该计划已经至今已托管 Express 服务器多年。我预计今年年底流量会增加，因为我在我的应用程序上加入了另一家公司，所以我正在考虑进行一些升级。然而，我最近了解了铁路，它的定价似乎更划算。我想我会在移动东西的时候测试它。首先，设置再简单不过了。第二次我启动了服务器，只是随机开始访问端点以确保一切正常工作，并注意到基本上每个端点花费了大约一半的时间来响应。认为这是一种疯狂的跳跃。想分享并看看是否有人有类似的经历或知道为什么差异如此明显。我认为这可能有几件事，铁路计算提供了更多资源。尽管看起来相同，但该地区有所不同。美国西部。或者新服务器上的负载较少，但在周末当前负载相当轻。想法？   由   提交/u/christo9090   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az1rss/moved_express_server_from_heroku_to_railway/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:37:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
