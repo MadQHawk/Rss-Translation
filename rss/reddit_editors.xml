@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 25 Feb 2024 03:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 06:14:36 GMT</lastBuildDate>
+    <item>
+      <title>最好的 Avid 训练营？</title>
+      <link>https://www.reddit.com/r/editors/comments/1azgpl4/best_avid_bootcamp/</link>
+      <description><![CDATA[我正在尝试进入 avid，我想知道什么训练营或程序最能帮助我。你们中有人对哪种程序最有效有任何建议或经验吗？  这些是我在网上找到的一些内容，但我想在做出承诺之前确定一下 https://videoboost-school.com/ https://www.assistbootcamp.com/avid-fx https://www.nleacademy.com/ https://www.avid.com/learning/find-a-course?ProductFamily=Media+Composer&amp;Role=   由   提交/u/Galvatron64   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1azgpl4/best_avid_bootcamp/</guid>
+      <pubDate>Sun, 25 Feb 2024 06:02:02 GMT</pubDate>
+    </item>
     <item>
       <title>使用隔行扫描素材</title>
       <link>https://www.reddit.com/r/editors/comments/1azbspa/working_with_interlaced_footage/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>字幕和蹩脚的英语——想法？</title>
       <link>https://www.reddit.com/r/editors/comments/1az7hhs/subtitles_and_broken_english_thoughts/</link>
-      <description><![CDATA[我目前正在开发一个项目，主要是将人物头像插入纪录片风格的剪辑中。 99%的人都用清晰的英语说话，但项目中最重要的人不是以英语为母语的人，而是坚持用英语说话，所以你几乎听不懂他们在说什么。 &lt; p&gt;如果你处于我的位置，你会为那个人添加烧录字幕，还是不管它？我问我汇报的第二把手，他们认为我应该做什么，他们告诉我“弄清楚”。这是我最喜欢的非建议。   由   提交 /u/NeedAssistance_123   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在开发一个项目，主要是将人物头像插入到纪录片风格的剪辑中。 99%的人都用清晰的英语说话，但项目中最重要的人不是以英语为母语的人，而是坚持用英语说话，所以你几乎听不懂他们在说什么。 &lt; p&gt;如果你处于我的位置，你会为那个人添加烧录字幕，还是不管它？我问我汇报的第二把手，他们认为我应该做什么，他们告诉我“弄清楚”。这是我最喜欢的非建议。   由   提交 /u/NeedAssistance_123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1az7hhs/subtitles_and_broken_english_thoughts/</guid>
       <pubDate>Sat, 24 Feb 2024 22:32:31 GMT</pubDate>
     </item>
     <item>
       <title>ArriRaw 文件，我如何避免重新一致性以及是否有其他工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1az6qh0/arriraw_files_how_can_i_evade_reconforming_and_is/</link>
-      <description><![CDATA[我已经制作了一部完整长度的电影，并想要制作一份媒体管理副本以转移到我的同事要评分的地方，Resolve 卡在 6 分-10% 并抛出一个关于 700 个剪辑无法复制的错误...我查看了这些文件，令我惊讶的是它们没有被修剪，也没有重新链接到序列，并且大小大致相同（我们不知道）不进行转码，只是修剪文件以减小大小）；在 Google 上快速搜索，似乎 ArriRaw [.mxf] 文件无法被修剪，所以我想知道是否必须渲染单个剪辑，因此 - 对文件进行转码，以便我的同事能够评分（并重新-符合顺序），或者是否有任何其他方式 - Resolve 的工作流程...提前致谢 ;) ​ ​ &lt; p&gt;系统规格：Windows 10、AMD Threadripper PRO 5975WX 32 核、NVIDIA GeForce RTX 3090、64GB RAM 软件规格：Davinci Resolve 18.6.3 素材规格：MXF OP -1A，通过磁盘驱动器传输   由   提交 /u/IdioticDude   [链接] [评论]]]></description>
+      <description><![CDATA[我已经制作了一部完整长度的电影，并想要制作一份媒体管理副本以转移到我的同事要评分的地方，Resolve 卡在 6 分-10% 并给我一个关于 700 个剪辑无法复制的错误...我查看了这些文件，令我惊讶的是它们没有被修剪，也没有重新链接到序列，并且大小大致相同（我们不这样做）不进行转码，只是修剪文件以减小大小）；在 Google 上快速搜索，似乎 ArriRaw [.mxf] 文件无法被修剪，所以我想知道是否必须渲染单个剪辑，因此 - 对文件进行转码，以便我的同事能够评分（并重新-符合顺序），或者是否有任何其他方式 - Resolve 的工作流程...提前致谢 ;) ​ ​ &lt; p&gt;系统规格：Windows 10、AMD Threadripper PRO 5975WX 32 核、NVIDIA GeForce RTX 3090、64GB RAM 软件规格：Davinci Resolve 18.6.3 素材规格：MXF OP -1A，通过磁盘驱动器传输   由   提交 /u/IdioticDude   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1az6qh0/arriraw_files_how_can_i_evade_reconforming_and_is/</guid>
       <pubDate>Sat, 24 Feb 2024 22:01:31 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>2/16-2/23 周每周综述</title>
       <link>https://www.reddit.com/r/editors/comments/1ayv6m8/weekly_roundup_for_week_of_216223/</link>
-      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (266 🡅) 我的第一部故事片剪辑将是剧院 (220 🡅) 索拉 (195 🡅) 还有其他人经历过认为自己真的很优秀并且然后认为他们绝对糟糕 (147 🡅) OpenAI 宣布 Sora今天，介绍他们的逼真文本到视频产品 (139 🡅)  评论最多的帖子  所有 Adob​​e 的仇恨是怎么回事？ (235 💬) OpenAI 今天宣布推出 Sora，介绍他们的照片级真实感文本转视频产品 (227 💬) Sora ( 199 💬) 编辑们，您常见的错误有哪些你注意到业余电影剪辑了吗？ (183 💬) 作为编辑最糟糕的部分是什么？ (179 💬)  版主选择  /r/editors 更新；值得一读 - 三击，AI 够了，用户天赋，维基更新； Discord，活动（例如今天结束的免费 Adob​​e 峰会）    由   提交/u/sub-roundup  /u/sub-roundup  reddit.com/r/editors/comments/1ayv6m8/weekly_roundup_for_week_of_216223/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (266 🡅) 我的第一部故事片剪辑将是剧院 (220 🡅) 索拉 (195 🡅) 还有其他人经历过认为自己真的很优秀并且然后认为他们绝对糟糕 (147 🡅) OpenAI 宣布 Sora今天，介绍他们的逼真文本到视频产品 (139 🡅)  评论最多的帖子  所有 Adob​​e 的仇恨是怎么回事？ (235 💬) OpenAI 今天宣布推出 Sora，介绍他们的照片级真实感文本转视频产品 (227 💬) Sora ( 199 💬) 编辑们，您常见的错误有哪些你注意到业余电影剪辑了吗？ (183 💬) 作为编辑最糟糕的部分是什么？ (179 💬)  版主选择  /r/editors 更新；值得一读 - 三击，AI 够了，用户天赋，维基更新； Discord，活动（例如今天结束的免费 Adob​​e 峰会）    由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1ayv6m8/weekly_roundup_for_week_of_216223/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ayv6m8/weekly_roundup_for_week_of_216223/</guid>
       <pubDate>Sat, 24 Feb 2024 14:00:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>REC709、REC2020 和 P3 D65 之间有什么区别？</title>
       <link>https://www.reddit.com/r/editors/comments/1ays56k/whats_the_difference_between_rec709_rec2020_p3_d65/</link>
-      <description><![CDATA[REC709、REC2020 和 REC709 之间有什么区别？ P3 D65？以及在通常寻找最可食用能源的情况下哪一个最适合拍摄   由   提交/u/Mysterious_Prize1700   [链接] [评论]]]></description>
+      <description><![CDATA[REC709、REC2020 和 REC709 之间有什么区别？ P3 D65？以及在通常寻找最可食用能源的情况下哪一个最适合拍摄   由   提交 /u/Mysterious_Prize1700   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ays56k/whats_the_difference_between_rec709_rec2020_p3_d65/</guid>
       <pubDate>Sat, 24 Feb 2024 11:12:59 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 23 Feb 2024 22:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>最喜欢的角色 关注/真实场景或文档？</title>
+      <title>最喜欢的角色跟随/真相场景或文档？</title>
       <link>https://www.reddit.com/r/editors/comments/1aycjm5/favorite_character_followvérité_scenes_or_docs/</link>
-      <description><![CDATA[您好！我正在开始制作一部由角色跟随/真实驱动的纪录片，虽然我之前已经编辑过这种类型的文档，但我很早就开始制作，并且作为制片人/编辑获得了很大的自由来拥有这部纪录片（以一种好的方式，而不是以“请为我们做工作”的方式） 为了庆祝这个项目的开始，我很想听听其他编辑们特别喜欢的场景或整个项目文档属于这一类。给我一些启发。 如果文档涉及硬主题，则加分。 干杯！ ​   由   提交 /u/SpicyPeanutSauce   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我正在开始制作一部由角色跟随/真实驱动的纪录片，虽然我以前编辑过这种类型的文档，但我很早就开始制作，并且作为制片人/编辑获得了很大的自由来拥有这部纪录片（以一种好的方式，而不是以“请为我们做工作”的方式） 为了庆祝这个项目的开始，我很想听听其他编辑们特别喜欢的场景或整个项目文档属于这一类。给我一些启发。 如果文档涉及硬主题，则加分。 干杯！ ​   由   提交 /u/SpicyPeanutSauce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1aycjm5/favorite_character_followvérité_scenes_or_docs/</guid>
       <pubDate>Fri, 23 Feb 2024 21:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>平滑的抖动变焦</title>
-      <link>https://www.reddit.com/r/editors/comments/1aycd5q/smooth_jittery_zoom/</link>
-      <description><![CDATA[我正在使用 Filmic Pro 智能手机应用程序拍摄一场派对。 Filmic Pro 上的缩放功能产生了令人不安的结果，其中变焦在变焦过程中停止和开始。  示例附：https://vimeo.com/916107996/0e2c5c10ab?share=copy Premiere 中是否有任何工具可以平滑这一点或将帧混合在一起？或者这是 After Effects？ 我在 Macbook Pro 上使用 Premiere v 24.1。 3.1GHz。 16 GB 内存。  这段视频是用 iPhone 拍摄的。专业研究。 1920x1080。 23.98。 谢谢！   由   提交/u/Wild_Imagination_62   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1aycd5q/smooth_jittery_zoom/</guid>
-      <pubDate>Fri, 23 Feb 2024 21:31:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
