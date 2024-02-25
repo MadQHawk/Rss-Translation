@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 12:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 15:11:52 GMT</lastBuildDate>
+    <item>
+      <title>将我的个人网站重建为单个 HTML 页面。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azpvb6/rebuilt_my_personal_website_as_a_single_html_page/</link>
+      <description><![CDATA[我的网站 我已经过去有一个个人网站，全部都是用 React 构建的不同程度的复杂性。今年，我决定再次重建我的网站，但我回到了最基础的、没有 JS 或框架的纯 HTML 页面。该设计深受 saveflipper.ca 和 hugo-theme-terminal 站点源代码：https://github.com/sgolovine/www  非常感谢任何批评。   由   提交 /u/_fat_santa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azpvb6/rebuilt_my_personal_website_as_a_single_html_page/</guid>
+      <pubDate>Sun, 25 Feb 2024 15:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何管理翻译？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azphmb/how_do_you_manage_translations/</link>
+      <description><![CDATA[您如何管理多语言网站的翻译？ 我正在寻找与 React 网站相关的策略，但后来我我认为任何适用于 webdev 的策略也适用于 React 网站。 我目前在 JSON 文件中的字符串中使用 i18next，对于我的大多数用例来说，它都非常适合我。我可以管理 CSV 中的字符串并将它们导出到 JSON 文件。可以用其他工具替换 CSV 以进行扩展。可以将 CSV 命名到特定页面以自动映射它们等。 当我有一个充满内容的页面而不是为我正在考虑的段落和项目符号创建 50 个翻译标签时，此工作流程对我来说会失败。备择方案。有什么建议吗？   由   提交 /u/webdevop   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azphmb/how_do_you_manage_translations/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用内浏览器不支持 lvh 和 svh 单位？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azphm2/lvh_and_svh_units_not_supported_by_inapp_browsers/</link>
+      <description><![CDATA[这让我发疯。我的网站是基于 lvh 的，但它似乎无法与 Facebook Instagram 和 LinkedIn 使用的这些糟糕的应用内浏览器一起使用？当您随着标题进出而上下滚动时，我的内容会到处弹跳。 这些新的 css 单元是否真的不受此支持？   div&gt;  由   提交 /u/1conflictedconfusion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azphm2/lvh_and_svh_units_not_supported_by_inapp_browsers/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一种简单的方法可以将数据传输到设备？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azp55i/is_there_an_easy_way_to_get_data_to_a_device/</link>
+      <description><![CDATA[上下文：我正在开发一个电视应用程序，它应该与自托管后端服务进行通信。 自从放置在服务的 URL 和 API 密钥中在电视上执行此操作很繁琐，我一直在寻找一种更轻松的自动化方法。 一个想法可能是粘贴 JSON（包括 api- url 和密钥）到pastebin.com，并使用电视应用程序上的短网址来抓取和解析它。 还有其他服务允许免费存储/检索小文本内容吗？&lt; /p&gt;   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azp55i/is_there_an_easy_way_to_get_data_to_a_device/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitter 状态页面 SSL 已过期？难道只有我这边吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azovjr/twitter_status_page_ssl_expired_is_it_only_on_my/</link>
+      <description><![CDATA[我知道这不是发帖的最佳位置。但由于我知道这个小组有精通技术的成员，这与 Web 开发有些关系，我不知道还能去哪里问... 转到 Twitter/X 的主页 (https://twitter.com/）并单击页脚中的“状态”应该会引导您进入 https://status.twitterstat.us/。这个 SSL 证书真的已于 2023 年 8 月 30 日过期吗？还是我这边出了问题？ P.S.有人可以向我解释为什么许多大公司使用这些单独的域来提供不同的服务吗？为什么不使用子域（例如 status.twitter.com）而不是看起来像可疑网络钓鱼的域？有什么好的理由吗？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azovjr/twitter_status_page_ssl_expired_is_it_only_on_my/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 JS/React 控制 VisionOS 的 RealityKit 场景</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azoi7d/controlling_visionoss_realitykit_scene_from/</link>
+      <description><![CDATA[      我想测试从 JS 端对实体进行动画处理是否会导致抖动。实际上看起来相当顺利！ 如果人们对此感兴趣，我可以将其清理到一个库中，以便人们可以使用它。 如果允许，我会在这里发布进度或者在我的 Twitter 上： https://twitter.com/_asadmemon   由   提交/u/twokiloballs   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azoi7d/controlling_visionoss_realitykit_scene_from/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>星期六炫耀...我需要codesandbox 方面的帮助:(</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azocp9/showoff_saturday_i_need_help_with_codesandbox/</link>
+      <description><![CDATA[     &lt; td&gt;   提交者    /u/Kktonic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azocp9/showoff_saturday_i_need_help_with_codesandbox/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>对不良网站 Tampermonkey 的非常小的脚本请求？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azo2mm/very_minor_script_request_for_bad_website/</link>
+      <description><![CDATA[您好，我在访问一个网站时遇到了困难，该网站上有我想阅读的教程，但除了主页之外的每个页面都被移出了屏幕，无法阅读。  我安装了 Tampermonkey，并希望有一个脚本可以修复每个页面的错误。 以前的方法有点乏味（手动更改每个页面的页面源），而且会喜欢与其他人分享解决方案，因为该网站的所有者似乎并不关心并且已经放弃了该网站或其他东西。 ​ https://wiki.beyondunreal.com/ ​ 我之前有人帮助我的方法是更改  div#column-content { margin-left: -12.2em; } ​ 通过从全局包装器下的列内容中的 -12.2em 中删除 - 。 ​ 如果有人想帮助我，我真的很感激 ​ ​ ​   由   提交 /u/Blablablubblubloeder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azo2mm/very_minor_script_request_for_bad_website/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:35:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发工具中网络选项卡中不同类型的缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azniil/different_types_of_cache_in_network_tab_in_dev/</link>
+      <description><![CDATA[      在 devTools 网络选项卡中查看时，“磁盘缓存”、“内存缓存”和“ServiceWorker”有什么区别？ &amp; #x200b; https:// Preview.redd.it/at3pawwadqkc1.png?width=901&amp;format=png&amp;auto=webp&amp;s=97ed35f050ac83889935b06ebc40fd0629fbbf02   由   提交 /u/Fancy_Payment_800   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azniil/different_types_of_cache_in_network_tab_in_dev/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:08:08 GMT</pubDate>
+    </item>
     <item>
       <title>当今时代：《Clean Code》不是一本书，而是 VS Code 中的点击式 AI CodeLens</title>
       <link>https://www.reddit.com/r/webdev/comments/1azmkge/todays_generations_clean_code_isnt_a_book_its/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[继这篇文章之后...  您的显示器设置是什么，以及每个显示器的用途是什么？    由   提交/u/Interesting_Buy_5039   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azkzph/whats_your_monitor_setup/</guid>
       <pubDate>Sun, 25 Feb 2024 10:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Remifyy - px 到 rem 转换器 VSCode 扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azktbi/i_made_remifyy_the_px_to_rem_convertor_vscode/</link>
-      <description><![CDATA[** 厌倦了手动 CSS 单位转换??** 介绍 REMifyy，一个由开发人员构建的 VS Code 扩展），对于开发人员！ 轻松将像素转换为 rem 或 em，并告诉我们您的想法！ 我们重视您的反馈，以使 REMifyy 变得更好。今天就下载吧🙌🏻！  点击下面的链接探索“Remifyy”现在。  使用链接下载：https://marketplace.visualstudio.com/items?itemName =kushagra-aa.remifyy  或搜索“Remifyy”在 VSCode 扩展选项卡中（带有两个“y”） Linkedin 帖子：https://www.linkedin.com/posts/kushagra-aa_vscode-webdev-opensource-activity-7162723122788360192-ASTH?utm_source=share&amp;utm_medium=member_desktop &lt; /p&gt;   由   提交/u/kushagra-aa  /u/kushagra-aa  reddit.com/r/webdev/comments/1azktbi/i_made_remifyy_the_px_to_rem_convertor_vscode/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azktbi/i_made_remifyy_the_px_to_rem_convertor_vscode/</guid>
-      <pubDate>Sun, 25 Feb 2024 10:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 React 过渡到 Angular：寻求路线图和路线</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azkroo/transitioning_from_react_to_angular_seeking/</link>
-      <description><![CDATA[嘿 webdev 社区！ 作为一名前端开发人员 (ReactJs)，希望扩大我的技能并增加我的工作机会，我决定深入学习 Angular。但是，我可以使用一些关于从哪里开始以及使用哪些资源的指导。 您能否为从 React 过渡到 Angular 的人建议一个路线图或学习路径？此外，我非常感谢您推荐任何好的课程或教程，以帮助我有效地加快速度。 提前感谢您的帮助！期待您的建议。   由   提交 /u/ryzenblender   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azkroo/transitioning_from_react_to_angular_seeking/</guid>
-      <pubDate>Sun, 25 Feb 2024 10:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 GoDaddy 之外，您有哪些域名托管建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azkfed/outside_of_godaddy_what_are_your_domain_hosting/</link>
-      <description><![CDATA[我知道 GoDaddy 有其问题，所以我想知道有哪些更好（最好更便宜）的替代服务来制作自定义域名？    由   提交 /u/chillinondasideline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azkfed/outside_of_godaddy_what_are_your_domain_hosting/</guid>
-      <pubDate>Sun, 25 Feb 2024 10:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了必须向下滚动到职位描述才能找到所需的最低经验年限，因此编写了一个脚本来为我做到这一点。现在，它在职位名称下方添加了所需的经验，以便我可以快速评估我的资格。评论里有存储库链接！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azkd61/was_fed_up_with_having_to_scroll_down_to_job/</link>
-      <description><![CDATA[    /u/WorL_YouDecide   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azkd61/was_fed_up_with_having_to_scroll_down_to_job/</guid>
-      <pubDate>Sun, 25 Feb 2024 09:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年及以后 Opera 仍然是主要浏览器吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aziatr/is_opera_still_a_major_browser_in_2024_and_onwards/</link>
-      <description><![CDATA[Opera 是否应该再被视为与 Chrome、Safari 和 Firefox 一样的主要浏览器？在桌面和移动设备上都可以吗？   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aziatr/is_opera_still_a_major_browser_in_2024_and_onwards/</guid>
-      <pubDate>Sun, 25 Feb 2024 07:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Vercel 项目移交给客户的建议方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azh46o/whats_the_suggested_way_to_hand_off_a_vercel/</link>
-      <description><![CDATA[我正在开展一个志愿者项目，我希望客户拥有代码和部署的最终所有权。我目前正在通过我的 GitLab 帐户部署到 Vercel。如果我想实际将其交给客户，我是否必须为客户创建一个 GitHub 帐户并将其连接到新的 Vercel 帐户，还是有更简单的方法？ &lt; !-- SC_ON --&gt;  由   提交/u/freew1ll_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azh46o/whats_the_suggested_way_to_hand_off_a_vercel/</guid>
-      <pubDate>Sun, 25 Feb 2024 06:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azgud5/rate_my_portfolio_site/</link>
-      <description><![CDATA[大家好， 如果您能看一下我的 投资组合网站 并给我一些关于改进和添加内容的反馈。  您还可以访问网站的 Github 存储库。请随意给它一颗星 ⭐   由   提交/u/Ok_Acanthoperygii40   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azgud5/rate_my_portfolio_site/</guid>
-      <pubDate>Sun, 25 Feb 2024 06:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使 JavaScript 编码器的 TypeScript 可读性提高 10000 倍:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azfdx5/how_to_make_typescript_10000x_more_readable_to_a/</link>
-      <description><![CDATA[       由   提交/u/cha0s  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azfdx5/how_to_make_typescript_10000x_more_readable_to_a/</guid>
-      <pubDate>Sun, 25 Feb 2024 04:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员如何在笔记本电脑或只有一台显示器上工作？我感觉我还需要2个显示器..</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azfbi6/how_do_you_devs_work_on_laptops_or_only_one/</link>
-      <description><![CDATA[       由   提交/u/marchershey  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azfbi6/how_do_you_devs_work_on_laptops_or_only_one/</guid>
-      <pubDate>Sun, 25 Feb 2024 04:44:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
