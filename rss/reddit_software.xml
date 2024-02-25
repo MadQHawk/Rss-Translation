@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 18:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 21:12:22 GMT</lastBuildDate>
+    <item>
+      <title>寻找具有类似 ToolTip 功能的 MediaInfo 替代品。</title>
+      <link>https://www.reddit.com/r/software/comments/1azy8k5/looking_for_alternative_to_mediainfo_with_similar/</link>
+      <description><![CDATA[由于运行 Plex 媒体服务器，我管理了大量视频文件。我使用过并且发现非常有用的一个程序是 MediaInfo，它具有“工具提示”功能。该功能使得在文件资源管理器中将鼠标悬停在视频或音频文件上将显示所使用的编解码器、比特率、音轨和视频的语言元数据、视频的长度等。 这是一个非常有用的功能......当它真正起作用时。工具提示功能似乎只是随机启动和随机停止工作，并且其他用户在论坛等上建议的解决方案的有效性同样不一致。有时社区建议的解决方案有效，但有时却无效，并且最终会无缘无故地自行恢复。  这变得比其价值更让人头疼，我想知道是否有人对可以做同样事情的替代程序有任何建议？具体来说，我知道其他程序可以像我所描述的那样读取视频文件数据，但只能通过右键单击它并打开一个单独的窗口来实现。 MediaInfo 也这样做，但我正在寻找一些东西，它还允许我以工具提示/信息提示的形式查看数据，当将鼠标悬停在文件资源管理器中的项目上时会弹出该工具提示/信息提示。拥有工具提示可以极大地加快我对媒体文件的管理和重新编码。  有什么建议吗？   由   提交 /u/Jambopaul   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1azy8k5/looking_for_alternative_to_mediainfo_with_similar/</guid>
+      <pubDate>Sun, 25 Feb 2024 20:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否存在视频容器文件导航器工具？</title>
+      <link>https://www.reddit.com/r/software/comments/1azx7hd/does_a_tool_exist_that_is_a_navigator_of_video/</link>
+      <description><![CDATA[我正在寻找一种工具，可以获取视频文件，询问其潜在的嵌套容器集、数据集、元数据和扩展数据。我想象有一些东西会查看文件并显示嵌套数据的树视图，甚至可能深入到帧数据。这将包括编解码器、视频/音频参数、字节偏移量和长度，如果可能的话，甚至可能对数据进行瞬时解码，如果没有的话，则以十六进制提取等。   由   提交 /u/australianjalien   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1azx7hd/does_a_tool_exist_that_is_a_navigator_of_video/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么软件可以让我制作这样的表格？</title>
+      <link>https://www.reddit.com/r/software/comments/1azw898/is_there_any_software_which_would_let_me_make/</link>
+      <description><![CDATA[​ https://preview.redd.it/ofg1c2hc7skc1.png?width=1256&amp;format=png&amp;auto=webp&amp;s=ff079ca5ef0a18495698a 754ab5ec5e74c33ad5f&lt; /p&gt;   由   提交/u/SKTG_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1azw898/is_there_any_software_which_would_let_me_make/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找某种音乐标签编辑器</title>
+      <link>https://www.reddit.com/r/software/comments/1azvwdv/looking_for_a_music_tag_editor_of_sorts/</link>
+      <description><![CDATA[所以前言，如果影响的话请使用 Windows 10。您知道当您转到音乐文件夹时如何看到各种曲目的标签，例如名称、#、标题、贡献艺术家、专辑等？有没有什么简单的方法可以批量编辑这些？我知道可以右键单击-&gt;属性并手动编辑它们，如果选择了多个，它将​​全部更改，甚至使用“删除属性和个人信息”链接，但如果我想将每个属性更改为特定的内容，我必须手动执行此操作，或者非常小心地按住 Ctrl 键并单击以这种方式批量编辑它们。  我希望有一个程序可以选择整个音乐文件夹，并让我以电子表格格式查看所有标签。类似于 Google Docs 或 Excel 的东西，我可以按标签排序，然后在闲暇时按时间段进行编辑，无需太多点击。 感谢任何人提出的任何建议！    由   提交 /u/AeraAngel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1azvwdv/looking_for_a_music_tag_editor_of_sorts/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:04:58 GMT</pubDate>
+    </item>
     <item>
       <title>支持 AV1 的 LosslessCut 的替代品？</title>
       <link>https://www.reddit.com/r/software/comments/1azty0d/alternatives_to_losslesscut_that_supports_av1/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[寻找免费的 PDF 编辑器来突出显示文本并通过 S-pen 添加手写笔记。  目前使用 Samsung Notes，但它在我的第二台平板电脑 (HD Fire 8+) 上不可用，因此不幸的是我需要另一个应用程序。基本上我需要的是： - 文本标记（直线，明亮的颜色，无重叠 - 添加的层越多，标记不会变得更暗） - 使用 S-pen 检测手写，无需手指绘图 -免费（否则我会选择 Notein 或 Notewise） 目前我正在研究 Obsidian，但它太大了！ 我已经尝试了很多，但是这两个应用程序都需要按月付费或者没有我想要的东西。  有什么建议吗？ 👏   由   提交/u/Big-Jackfruit2710   /u/Big-Jackfruit2710 reddit.com/r/software/comments/1azezi3/android_free_pdf_editor_note_take/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1azezi3/android_free_pdf_editor_note_taking/</guid>
       <pubDate>Sun, 25 Feb 2024 04:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一个可以收藏书签的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1azegcy/is_there_a_software_to_collect_bookmarks/</link>
-      <description><![CDATA[ 由   提交 /u/Unlikely_Joke_5802   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1azegcy/is_there_a_software_to_collect_bookmarks/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>航班API</title>
-      <link>https://www.reddit.com/r/software/comments/1azee59/flight_api/</link>
-      <description><![CDATA[您好，我目前正在构建一个旅行计划应用程序，希望合并实时航班数据，至少包括航班时间、价格和航空公司。有谁知道有免费或廉价的 API 可以做到这一点吗？我搜索了很多，但大多数似乎都要求您是企业才能使用它。    由   提交/u/Study_Cultural  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1azee59/flight_api/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:54:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>聚合电子邮件通讯、RSS 源和新闻或其他警报所需的软件解决方案</title>
-      <link>https://www.reddit.com/r/software/comments/1azdevb/software_solution_needed_to_aggregate_email/</link>
-      <description><![CDATA[正如标题所示，我正在寻找一种工具来聚合我的电子邮件通讯、RSS 提要、基于 Google 快讯的新闻文章或其他关键字，10k 或季度收入等。以前有人使用过任何东西或构建过一些简单但功能强大且灵活的东西吗？ 谢谢！  &amp;# 32；由   提交/u/jimmysjetskis1733  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1azdevb/software_solution_needed_to_aggregate_email/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>比较搜索引擎</title>
-      <link>https://www.reddit.com/r/software/comments/1azc20j/comparing_search_engines/</link>
-      <description><![CDATA[我目前使用 DuckDuckGo 作为我的搜索引擎，发现它的许多内容已经过时。我希望我能在一些搜索引擎上得到很好的推荐，这些搜索引擎提供的结果不断更新新信息并提供理想的结果。我有什么选择？我并不是要求您向我推荐特定的搜索引擎，只是该搜索引擎的长串内容最适合 __ 的人。  &amp; #32；由   提交/u/AnonymousPigeon0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1azc20j/comparing_search_engines/</guid>
-      <pubDate>Sun, 25 Feb 2024 01:55:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
