@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 06:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 09:10:25 GMT</lastBuildDate>
+    <item>
+      <title>最适合工作、教师等的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azimif/best_ai_tools_for_work_teachers_and_some_more/</link>
+      <description><![CDATA[嘿伙计们！  这里是英语老师。我想知道人们在工作中使用哪些人工智能工具，或者您认为有用且易于使用的人工智能工具。我计划让我的学生使用这些人工智能工具来创建一些真实的任务，而不仅仅是完成试卷。  如果您有任何有趣的工具，或者一些可以帮助您完成管理任务的工具，请随时参与！最后，我有一个 RTX4080，想知道有哪些 AI 工具/程序我可以在需要使用显卡的电脑上使用。我不知道这是如何工作的，因为我什至不知道有哪个人工智能程序需要下载它。如果您能为我推荐一个开始的地方，我将不胜感激！将为我的班级大声喝彩。   由   提交/u/kevinkan123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1azimif/best_ai_tools_for_work_teachers_and_some_more/</guid>
+      <pubDate>Sun, 25 Feb 2024 08:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在一个手势识别中使用多个模型。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azhspo/how_to_use_multiple_models_at_ones_gesture/</link>
+      <description><![CDATA[您好，我是学生，目前正在毕业最后一年，需要一些与最后一年项目相关的指导。 我们被分配了一个项目，学生课堂手势检测，能够检测手势以及它是谁的手势。我们主要准备了手势数据集（举手、阅读和写作），我们面临的问题是如何并行使用两种不同的模型，即人脸识别和手势检测。为了能够生成学生的最终报告，包括他们的手势计数和参与度报告。 对于人脸检测，我们正在考虑使用 Deepface，对于手势检测，我们正在考虑 Yolo v8 模型。 任何建议会很有帮助。谢谢你的时间。    由   提交/u/Ali_6200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1azhspo/how_to_use_multiple_models_at_ones_gesture/</guid>
+      <pubDate>Sun, 25 Feb 2024 07:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何训练人工智能模型来编写 Office 风格的脚本？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azh3t4/how_would_i_train_an_ai_model_to_write_scripts_in/</link>
+      <description><![CDATA[仅以 The Office 为例。如果我有来自 Office 的脚本数据集，我将如何将其输入人工智能模型？我可以改变角色的一些事情吗？添加我自己的？谢谢！   由   提交 /u/LinkyLadWasTaken   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1azh3t4/how_would_i_train_an_ai_model_to_write_scripts_in/</guid>
+      <pubDate>Sun, 25 Feb 2024 06:25:51 GMT</pubDate>
+    </item>
     <item>
       <title>计算机科学学位和数据科学学位哪个更适合开发人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azgl7y/what_is_better_for_developing_an_ai_computer/</link>
@@ -41,13 +62,6 @@
       <pubDate>Sat, 24 Feb 2024 22:14:25 GMT</pubDate>
     </item>
     <item>
-      <title>宇宙和人工智能是人格问题的两个重要实例</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az2t5h/the_universe_and_ai_are_two_nontrivial_instances/</link>
-      <description><![CDATA[ 由   提交 /u/andWan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az2t5h/the_universe_and_ai_are_two_nontrivial_instances/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:19:13 GMT</pubDate>
-    </item>
-    <item>
       <title>我只是希望关于奇点子有更有力的论据</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az0bf1/i_just_wish_there_were_stronger_arguments_on_the/</link>
       <description><![CDATA[感觉就像有很多“只是”、“简单”、“我们必须做的”、“只有要做的”等等。接下来是一些极其复杂和资源密集的历史级成就，预计随着 AGI 的出现而得以完善？但这些东西在某种程度上也应该是 AGI 给现实中的人们带来的所有可能问题的解决方案？就像纯粹的循环推理一样，循环得让细菌染色体都羡慕不已。我也情不自禁地感到非常困惑，因为作为一个在他们只是有点……解释的领域受过一点教育的人。就像， 好吧，如果 AGI 准备在 5 到 10 年内发布，并完全自动化人们已经随着时间的推移而失去的工作，那么人们将如何生存？ &gt;&gt;&gt;好吧，UBI 和 AGI 将创造一个后稀缺的乌托邦，在那里没有人需要工作，而且如果确实需要，人们可以转而从事体力劳动工作 好吧，那么你怎么知道政府会提供 UBI，你怎么知道这足以让你生活和幸福呢？什么向您表明它将迎来后稀缺时代？同样在转型过程中，如果每个人都转向体力劳动，这是否会导致工资下降？使用嵌入人工智能的电脑眼镜来指导非技术工人在没有受过教育的情况下进行劳动，难道不会进一步贬值吗？ &gt;&gt;好吧。政府。富裕阶层不会希望发生暴力起义！而有钱人还是需要我们有钱，如果我们没有钱他们会卖给谁？再加上人工智能可以完成所有工作**一切**都将变得便宜且丰富。每个人都将可以通过人工智能获得生产资料！我们都将拥有纳米技术和机器人物质发生器来创造我们想要的所有丰富性！ 但他们不需要你。谁说他们无论如何都会与你分享所有这些？他们需要你的劳动为他们创造财富和丰富，他们需要你作为消费者来流通它，以便他们能够积累它。但如果你不努力生产他们想要的东西，他们就会收缩经济，让大多数人无法参与。自从炮弹、断头台和步枪以来，我们已经走了这么远。他们拥有的东西更强大......他们可以逃到他们的众多私人岛屿或亿万富翁地堡之一......无论如何，我们甚至没有以每个人都可以拥有它们或使其发挥作用的形式来拥有这些东西以您认为的能力。原材料仍然有限。 &gt;&gt;&gt;亿万富翁仍然是人，他们不想要一个我们大多数人只是为了他们的利益而受苦的世界，他们无法忽视这一点！他们绝对不会使用这些武器来对付我们，因为他们就是不会！ AGI 将解决这些技术尚未成熟的事实。另外，我们可以在他们完善机器人物质生成器后，将 AGI 与机器人物质生成器一起发送到太空，以便在其他行星上生成采矿设备，为我们收获并带回地球。 如果你这么说……？您是否期望 AGI 开发出来后这一切都会发挥作用？ 5-10年后？在我们有生之年的大部分时间里，甚至能够享受你所说的这个科技乌托邦吗？难道它不会彻底降低转型时期大多数人的生活质量吗？所有这些痛苦…… &gt;&gt;你只是一个愚蠢的卢德分子，不希望世界上的孩子免受癌症和分娩的困扰！你们只想完全停止一切进步，继续在资本主义压迫中翻滚！这将在我们有生之年治愈包括衰老在内的所​​有疾病，我们都将成为 80 岁的青少年，享受由我们的纳米技术机器人物质发生器产生的 FDVR 机器人抢吃糖果。 *同时，字面意义上的镰状细胞病也被治愈，并且他们想以每次 220 万美元的价格出售这种治疗方法，但我们肯定都会得到照顾* 这就是阅读并与人们争论奇点的感觉。富人拥有我们所没有的一件事，那就是阶级团结。这减少了马鞍制造商在汽车工厂握手的次数，而更多的马被装载到机动车辆上并运往胶水厂。如果所有这些事情都保证以最好的方式进行，我完全赞成，但我不认为人类有能力。这感觉就像一群人被骗，把断头台的刀片误认为是羽绒枕头的丝绸表面，并兴高采烈地把头枕在上面。他们正在为自己而不是我们制造这项技术。   由   提交/u/Goodbye4vrbb   [链接] [评论]]]></description>
@@ -81,20 +95,6 @@
       <description><![CDATA[昨晚我睡得最好。我做了一些疯狂的梦！我就不告诉你那些非常奇怪的细节了，哈哈。然而，在梦中的某个时刻，我有一台非常奇怪的相机。我基本上一直拿着它，但从来没有真正看过它，直到有人问我这件事。当我看到相机正面的那一刻，我意识到，是的，它看起来真的很奇怪。所有正常的梦都是对的。  当我醒来时，我在想梦中的那一刻，这有多么相似，如果我要求人工智能创建一个看起来非常奇怪的相机的图像，它可能会想出类似的东西。  这让我思考，做梦时的潜意识是否类似于我大脑中的人工智能，我要求它想出这个东西？或者，如果我们设计人工智能有意识和潜意识，有点像两个不同的人工智能，一个“控制”另一个人工智能。另一个则喂它“梦想”，我们会更接近实现AGI的设计吗？ 总之，当我第一次醒来的时候，感觉真的很重要😂😂😂！有什么想法吗？   由   提交/u/ender8383  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayuanj/doing_so_much_with_ai_recently_i_had_a_crazy/</guid>
       <pubDate>Sat, 24 Feb 2024 13:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>《神经漫游者》强调了人工智能爆炸式增长的模拟挑战</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</link>
-      <description><![CDATA[Gibson 对 AI 的深刻见解（经常被忽视）是模拟系统给 AI 带来的挑战。温特穆特数十年来努力寻找并影响潜入迷魂别墅的团队的全部原因就是要通过“带有一把古老机械锁的粗糙柚木门”。这样人们就可以进入它后面的房间并唱出他们记住的三音调。书中最好的概念之一是，20 年前 Wintermute 成功操纵了一名 8 岁男孩，将那扇门的钥匙藏在一个不起眼的抽屉里，因为它知道最终它可以操纵人类取回那把钥匙，打开门。  Wintermutute 可以轻松渗透数字系统、操纵电子锁、利用在线设备，并利用其拥有的数十亿人的数据来“创造概率”。行动 - 但当面对离线模拟系统时，它依赖于人类来完成任务。 人工智能系统将如何克服这些挑战 - 实施是唯一的选择，还是脑机接口允许人工智能直接使用人类来绕过这些限制？   由   提交/u/encomlab  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</guid>
-      <pubDate>Sat, 24 Feb 2024 10:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座连我都生气了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ay8q1t/gemini_is_pissing_even_me_off/</link>
-      <description><![CDATA[我不反对觉醒。他们所说的一些话是可以的。我根本不是 MAGA 的粉丝，但是，Google Gemini 让我很恼火。 向它询问任何社会学问题，例如有关女性派系形成的问题，都可以直接从南方公园的政确校长那里得到答案.   由   提交 /u/BorderTrader   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ay8q1t/gemini_is_pissing_even_me_off/</guid>
-      <pubDate>Fri, 23 Feb 2024 19:03:47 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
