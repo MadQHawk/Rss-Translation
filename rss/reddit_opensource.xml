@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 25 Feb 2024 15:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 18:15:02 GMT</lastBuildDate>
+    <item>
+      <title>预发布花园机器人开源设计，请求帮助提供一些建议。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1azt8lg/prerelease_garden_robot_opensource_design/</link>
+      <description><![CDATA[嗨，我希望获得有关这项技术的一些建议。带图像的完整 PDF 位于： https://smallpdf.com /file#s=56e0dba2-9da2-4d9e-b01d-7438e1bd8c0b 和 https://archive.org/details/roboto-coltimech-garden-reprap-v-08b 来自车库的复杂设备、四轴飞行器、收音机和 3D 打印爱好场景。 花园机器人一旦出现，将来自一个网络共同研究的协作项目。 这是对开源猿工具技术的一次尝试，也是一种花园机器人。 这里的根本区别在于机器人手臂，它是一种混合机构。除了这项开源研究之外，其他任何地方都没有它，它基于 RepRap 3D 打印机技术和伸缩线性滑轨，它便宜、精确，您可以自己构建它。 它是一个迷你伸缩式比铰接臂具有更大力量的起重机。它不仅适合园艺，还可以成为一台与众不同的墙壁艺术机器。 因此，耕耘机械人的一个狡猾的姊妹项目是用于墙壁艺术的：这是一种你可以敲打的机制，装进汽车，撒上砂砾，它可以胜任许多不同的工作，也许可以在破旧的墙壁上添加一点油漆。 什么是 Coltimech？ 这是一辆漫游车，可以完成5-8个农场任务。该工具系统类似于炮塔机构。它不是向任何方向发射子弹，而是快速前后移动工具，进行播种、除草和挖掘农业生态混养。手臂下方有一根软管，用于从底盘箱中的水箱中排出水。 铰接臂是花园机器人的一个愚蠢的部分，因此我们根据托盘移动中使用的技术重写了规则手册-叉子和消防车飞行器。 这是一种为小型农场和有土地的乡村住宅设计的机器人。如果你想要一个美食花园，你可以租一个一周，它每天可以工作 20 小时来完成复杂的设计。 你还可以通过在智能手机上滑动手指并喷水来驾驶它在你的花园里转悠。向人们泼水，作为聚会的把戏。这是一个非常昂贵的水枪、雾喷泉、按摩器、派对饮料服务员、唱歌的送花机器人。它配备红外摄像头、手机 CMOS、AI 地图和 1TB 存储，可以全天候为您工作。它分析农场、花园和景观设计的精确 2D 和 3D 地图。 在工具末端有一个自动工具更换器，就像慢速旋转的食品加工机端口，可以夹在不同的物体上。用于照料食物和花卉的花园工具。 通过 3D 可视化和矢量数学对工具进行分析和选择： • 种子沉积器 – 8 至 20 20 m2.h 的各种种子块 • 剪叶机 – 用于割草和树叶 • 钻机/螺旋钻 – 也可用于连根拔除根深蒂固的杂草 • 爪子 • 锄头 – 一种简单可靠的工具，用于研磨和处理蛞蝓&lt; /p&gt; • 土壤探针 – 理论上，目前的技术值得怀疑 • 钻孔机 – 将堆肥管芯放入土壤中地面 现场机器人将通过超人类的能力来增强人类的能力，每周 140 小时进行背部训练、地面观察和办事。他们会将您的设计打印为实体花坛。他们将每小时检查幼苗是否有蛞蝓和虫子，以图表形式绘制每个植物、节点和水果，并优化无化学水果和蔬菜的精确收获。 这项研究涵盖了多种学科、机电一体化、生物物理学、人工智能和野生动物。它是如此的多样和迷人。作为一种爱好，它是发现令人惊叹的科学技术事实的好方法。以下是针对实验室和大学生的设计指南。希望它能够促使环保技术早日问世。 这就是简介。 您觉得“Coltimech”这个名字怎么样？对我来说，找到一个听起来明智又聪明的技术名称很困难。感谢您的阅读！   由   提交/u/science-raven  /u/science-raven  reddit.com/r/opensource/comments/1azt8lg/prerelease_garden_robot_opensource_design/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1azt8lg/prerelease_garden_robot_opensource_design/</guid>
+      <pubDate>Sun, 25 Feb 2024 17:19:25 GMT</pubDate>
+    </item>
     <item>
       <title>求职混乱？使用“跟踪我的工作”来组织和征服。</title>
       <link>https://www.reddit.com/r/opensource/comments/1azp59z/job_search_chaos_organize_conquer_with_track_my/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
       <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
-      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易使 Grist 有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
+      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易让 Grist 变得有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</guid>
       <pubDate>Fri, 23 Feb 2024 16:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找我正在构建的开放获取应用程序的评论和意见......</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ay1xx6/looking_for_review_and_input_with_an_open_access/</link>
-      <description><![CDATA[标题 Raspberry Pi 传感器监控项目 关于 该项目旨在为 Raspberry Pi 上的实时传感器监控提供强大的解决方案，具有用于实时数据可视化的图形用户界面 (GUI)、用于历史分析的数据记录功能以及用于基于阈值的警报。它非常适合从环境监测到家庭自动化系统等各种应用。  开源项目 URL https:// github.com/SMCallan/DataLOGGER\_2024FEB/tree/main   由   提交/u/Cute-Amount5868  /u/Cute-Amount5868 reddit.com/r/opensource/comments/1ay1xx6/looking_for_review_and_input_with_an_open_access/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ay1xx6/looking_for_review_and_input_with_an_open_access/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:35:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
