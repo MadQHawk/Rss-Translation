@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 26 Feb 2024 03:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 06:17:56 GMT</lastBuildDate>
     <item>
       <title>Kitty Control 命令行前端，用于 Kitty 终端远程控制</title>
       <link>https://www.reddit.com/r/opensource/comments/1b0688t/kitty_control_command_line_frontend_for_kitty/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>我制作了一个像 Urban Dictionary 这样的众包网站，但针对的是开发人员条款！</title>
       <link>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</link>
-      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请点击此处： https: //github.com/aelew/devterms   由   提交/u/MajesticWeb2250   [链接] [评论]]]></description>
+      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请在此处获取： https: //github.com/aelew/devterms   由   提交 /u/MajesticWeb2250   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</guid>
       <pubDate>Sun, 25 Feb 2024 23:07:40 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>“开源我的拥有 100 万用户的互联网操作系统”的后续内容</title>
       <link>https://www.reddit.com/r/opensource/comments/1az32m8/a_followup_to_opensourcing_my_internet_os_with_1/</link>
-      <description><![CDATA[大家好， 上周我在这个 reddit 子版块中发布了关于我开源我的“互联网操作系统”的意图以及我对这个令人惊叹的社区的支持感到非常震惊。我只是想让您知道这个过程正在全面进行，我刚刚也开源了 SDK。&lt; /p&gt; 这是迄今为止的当前列表以及每个项目的状态： ✅ 🆕 SDK (Apache 2.0): https://github.com/HeyPuter/puter.js Puter 的官方 JavaScript SDK。 [今天发布] ✅ 终端 (AGPL)：https://github.com/ HeyPuter/terminal [上周发布] - 朝着 POSIX 合规性迈进。 ✅ Phoenix Shell (AGPL)：https://github.com/HeyPuter/phoenix [上周发布] ✅ KV.JS (MIT)，即“浏览器中的 Redis！”：https://github.com/HeyPuter/kv.js [1,300 颗星&lt;3 ] 🔜 GUI (AGPL)：puter.com [下个月推出] 🔜 Office (AGPL)：非常令人鼓舞的讨论 不久前在此 Reddit 子版块上 [即将推出] 🔜 应用程序，例如 记事本等[即将推出] ​ 4 下 3 去！请继续关注更多内容:) ​ P.S. 我们对真实的、未经修改的 OSS 许可证 100% 承诺——绝对不提供“开放核心”许可或“可用源”假OSS废话。   由   提交 /u/mitousa   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 上周我在这个 reddit 子版块中发布了关于我开源我的“互联网操作系统”的意图以及我对这个令人惊叹的社区的支持感到非常震惊。我只是想让您知道这个过程正在全面进行，我刚刚也开源了 SDK。&lt; /p&gt; 这是迄今为止的当前列表以及每个项目的状态： ✅ 🆕 SDK (Apache 2.0): https://github.com/HeyPuter/puter.js Puter 的官方 JavaScript SDK。 [今天发布] ✅ 终端 (AGPL)：https://github.com/ HeyPuter/terminal [上周发布] - 朝着 POSIX 合规性迈进。 ✅ Phoenix Shell (AGPL)：https://github.com/HeyPuter/phoenix [上周发布] ✅ KV.JS (MIT)，即“浏览器中的 Redis！”：https://github.com/HeyPuter/kv.js [1,300 颗星&lt;3 ] 🔜 GUI (AGPL)：puter.com [下个月推出] 🔜 Office (AGPL)：非常令人鼓舞的讨论 不久前在这个 subreddit 上 [即将推出] 🔜 应用程序，例如 记事本等[即将推出] ​ 4 下 3 去！请继续关注更多内容:) ​ P.S. 我们对真实的、未经修改的 OSS 许可证 100% 承诺——绝对不提供“开放核心”许可或“可用源”假OSS废话。   由   提交 /u/mitousa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1az32m8/a_followup_to_opensourcing_my_internet_os_with_1/</guid>
       <pubDate>Sat, 24 Feb 2024 19:30:22 GMT</pubDate>
     </item>
