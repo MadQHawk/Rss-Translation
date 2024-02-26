@@ -4,7 +4,81 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 26 Feb 2024 06:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 09:14:29 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个生成营销口号的工具。免费！</title>
+      <link>https://feed.indiehackers.world/post/4d4b29cc23</link>
+      <description><![CDATA[嘿独立黑客！
+我们刚刚推出了一个简单而有趣的工具，可以帮助独立创始人进行营销。您可以免费试用，并为您的产品或社交媒体简介创建一个吸引人的口号。
+您所需要做的就是描述您的业务和目标受众群体。只需 10 个，您就会获得 10 个类别的 30 条口号：从幽默到挑衅。
+很想得到您的反馈以及有关工具改进的任何想法。
+附注我们还今天在 Product Hunt 上直播，您的支持将会意义重大🧡
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/4d4b29cc23</guid>
+      <pubDate>Mon, 26 Feb 2024 08:05:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的 OTP 2.0 - 您网站的无密码身份验证。包括源代码。</title>
+      <link>https://feed.indiehackers.world/post/23903a3f38</link>
+      <description><![CDATA[嘿嘿！今天重新推出我的产品 Simple OTP，作为一次性付款应用程序，并在每次购买时包含源代码。我是该产品的独立创始人，所有东西都是我自己构建的。
+查看此处的发布并告诉我您的想法：https://www.producthunt.com/帖子/simple-otp-2
+谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/23903a3f38</guid>
+      <pubDate>Mon, 26 Feb 2024 08:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的 OTP：无密码，包含源代码为您的网站进行身份验证</title>
+      <link>https://feed.indiehackers.world/post/adccc3f78c</link>
+      <description><![CDATA[今天重新推出我的产品 Simple OTP，作为一次性付款应用程序，并在每次购买时包含源代码。查看此处的发布并让我知道您的想法：https://www.producthunt.com/posts/simple -otp-2
+谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/adccc3f78c</guid>
+      <pubDate>Mon, 26 Feb 2024 08:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Excelize 2.8.1 发布 - 强大的电子表格 (Excel) 文档开源库</title>
+      <link>https://feed.indiehackers.world/post/e4d3d8df4d</link>
+      <description><![CDATA[
+修复流读取器临时文件无法清除的潜在问题
+修复了某些情况下公式计算结果不正确的问题
+修复获取单元格值时的并发竞争条件
+修复了获取样式定义时缺少的某些格式
+修复数字格式科学记数法补零问题
+修复了读取具有不带 r 属性的内部行元素的工作簿时出现的恐慌
+修复 GetCellRichText 在获取内联富文本单元格时返回错误
+修复了某些情况下设置的单元格值上无效的共享字符串表索引
+修复 GetConditionalFormats 在没有高于平均规则的情况下获取条件格式时出现的恐慌
+修复删除行时调整合并单元格的错误问题
+修复了 SetConditionalFormat 函数创建不正确的多个条件格式规则优先级的问题
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e4d3d8df4d</guid>
+      <pubDate>Mon, 26 Feb 2024 07:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>重振您的登陆页面：使用 GlozUI 开源无差错的复制粘贴动画</title>
+      <link>https://feed.indiehackers.world/post/7c62362124</link>
+      <description><![CDATA[如果您觉得时间不够，我可以代您将动画添加到您的网站
+作为回报，我也希望得到你的帮助！
+如果您使用glozUI并有任何反馈或改进想法，请与我分享。请与可能使用它的朋友分享这个开源库。 
+让我们一起让网络变得更美好！
+UI 库：Gloz UI
+推特：@wizsuby
+领英：@wizsuby
+电子邮件：wizsuby@gmail.com
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7c62362124</guid>
+      <pubDate>Mon, 26 Feb 2024 07:52:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>为企业家提供免费设计咨询</title>
+      <link>https://feed.indiehackers.world/post/acab39c217</link>
+      <description><![CDATA[发表评论或给我发送消息，立即安排您的免费设计咨询！让我们一起将您的想法变为现实。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/acab39c217</guid>
+      <pubDate>Mon, 26 Feb 2024 07:17:08 GMT</pubDate>
+    </item>
     <item>
       <title>一天收入 10 万印度卢比，浏览量近 50 万。</title>
       <link>https://feed.indiehackers.world/post/9a5cf48ac5</link>
@@ -39,7 +113,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>扩大您的潜在客户视野：抓取律师事务所的潜在客户</title>
       <link>https://feed.indiehackers.world/post/a69a37422b</link>
       <description><![CDATA[了解如何从钱伯斯及合作伙伴那里获取线索。查找满足您需求的特定律师事务所和律师。解锁法律行业的宝贵见解。现在就开始！ ＃领先一代
-https://www.octoparse.com/blog/scrape-leads-from-chambers-和-伙伴
+https://www.octoparse.com/blog/scrape-leads-from-chambers-和合作伙伴
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a69a37422b</guid>
       <pubDate>Mon, 26 Feb 2024 03:33:11 GMT</pubDate>
@@ -57,8 +131,8 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>从零到投资者：无需初始资金即可掌握 SaaS 创业之旅并吸引投资者兴趣</title>
       <link>https://feed.indiehackers.world/post/483f44dd81</link>
-      <description><![CDATA[对于我们的潜在投资者和支持者来说，我们才刚刚开始。与我们一起踏上这段激动人心的旅程，我们将重新定义 SaaS 平台的可能性。您对我们愿景的信念将推动我们不断创新并取得成功。让我们共同塑造未来。
-支持我们 3 月 14 日在 Jobsolv 举行的 Product Hunt 发布会，并成为我们故事的一部分，帮助我们将挑战转化为成功的垫脚石。
+      <description><![CDATA[对于我们的潜在投资者和支持者来说，我们才刚刚开始。与我们一起踏上这段激动人心的旅程，我们将重新定义 SaaS 平台的可能性。您对我们愿景的信念将激励我们不断创新并取得成功。让我们共同塑造未来。
+支持我们 3 月 14 日在 Jobsolv 举行的 Product Hunt 发布会，并成为我们故事的一部分，我们将挑战转化为成功的垫脚石。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/483f44dd81</guid>
       <pubDate>Mon, 26 Feb 2024 02:29:39 GMT</pubDate>
@@ -67,7 +141,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>Roast FastMonitor Landingpage V1 请</title>
       <link>https://feed.indiehackers.world/post/38393b95ed</link>
       <description><![CDATA[不久前，我伸出手来询问我们的登陆页面的反馈 - 但实际上我只是提供了我们的登录页面🤦。但我们仍然得到了很好的反馈！
- 当时我们没有登陆页面......现在我们有了！！ （还有更多！我刚刚失业了，所以让我们去吧！）会喜欢你们的反馈团队独立黑客！
+ 当时我们没有登陆页面......现在我们有了！ （还有更多！我刚刚失业了，所以让我们去吧！）会喜欢你们的反馈团队独立黑客！
 https://fastmonitor.io/
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/38393b95ed</guid>
@@ -103,68 +177,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/12fcf5ecb5</guid>
       <pubDate>Sun, 25 Feb 2024 22:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的新目录中分享您自己的（或您最喜欢的）营销工具</title>
-      <link>https://feed.indiehackers.world/post/0fbfd255d0</link>
-      <description><![CDATA[无论如何 - 请检查并添加一些工具！我很高兴看到数据库增长。完全免费。
-您可以在这里找到它：https://marketingstuff.info
-干杯，
-马蒂亚斯
-附注：如果您有任何反馈，请告诉我。您可以在 https://twitter.com/bohlenlabs 找到我
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/0fbfd255d0</guid>
-      <pubDate>Sun, 25 Feb 2024 22:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>增长黑客指南：8 个月内实现 629.75% 的收入增长</title>
-      <link>https://feed.indiehackers.world/post/611c787db5</link>
-      <description><![CDATA[我们正在推出最新的项目，一键式远程作业（恢复 + 自动应用），请通过 https://www.support 我们支持我们。 Producthunt.com/products/jobsolv
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/611c787db5</guid>
-      <pubDate>Sun, 25 Feb 2024 22:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币与交易</title>
-      <link>https://feed.indiehackers.world/post/dbe3126a95</link>
-      <description><![CDATA[另请访问Muslimpro.net，了解与清真加密货币特别相关的更多加密信息。
-总而言之，加密货币交易为投资者提供了一个动态且潜在有利可图的机会，但它也伴随着固有的风险。通过及时了解情况、采用有效的风险管理策略并选择正确的交易平台，交易者可以自信地驾驭加密货币领域并最大限度地提高成功机会。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dbe3126a95</guid>
-      <pubDate>Sun, 25 Feb 2024 19:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚出版了我自己的书</title>
-      <link>https://feed.indiehackers.world/post/31b2bd829c</link>
-      <description><![CDATA[https://gumroad.com/l/marketingagency101
-使用下面的代码可享受所有产品 25% 的折扣：
-NJ9T6KF
-请在评论中告诉我您的想法。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/31b2bd829c</guid>
-      <pubDate>Sun, 25 Feb 2024 18:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何接触不使用该服务的用户？</title>
-      <link>https://feed.indiehackers.world/post/4d4f12333e</link>
-      <description><![CDATA[独立黑客们大家好👋。
-我不擅长营销，我想解决这个问题。
-我的一个项目有3000多个注册用户。其中大约 30 个处于活跃状态并运行免费计划，只有 11 个使用付费计划。
-我如何正确地联系不活跃的用户（通过正确的电子邮件营销）并询问他们为什么停止使用该服务？
-以及如何要求用户留下反馈以确保服务满足他们的期望。
-请分享您的经验以及如何做到这一点。
-提前致谢。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4d4f12333e</guid>
-      <pubDate>Sun, 25 Feb 2024 17:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Webflow Exporter 已使用 1000 次！</title>
-      <link>https://feed.indiehackers.world/post/cc6707f3d2</link>
-      <description><![CDATA[已经达到了一个新的里程碑，我的 webflow Exporter 已被使用 1000 次，免费导出 webflow 网站。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cc6707f3d2</guid>
-      <pubDate>Sun, 25 Feb 2024 16:59:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

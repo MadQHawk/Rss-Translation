@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 26 Feb 2024 06:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 09:13:42 GMT</lastBuildDate>
+    <item>
+      <title>跳跃模拟（Unity）</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0cygp/jump_simulation_unity/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0cygp/jump_simulation_unity/</guid>
+      <pubDate>Mon, 26 Feb 2024 08:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看 Action Script 3 编程语言中的 Point 类</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0cm5c/a_look_at_the_point_class_in_the_action_script_3/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0cm5c/a_look_at_the_point_class_in_the_action_script_3/</guid>
+      <pubDate>Mon, 26 Feb 2024 08:28:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个开发人员都应该了解的标准 JavaScript 对象</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0az2v/standard_javascript_objects_that_every_developer/</link>
+      <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0az2v/standard_javascript_objects_that_every_developer/</guid>
+      <pubDate>Mon, 26 Feb 2024 06:38:21 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Go 和 Chi 构建 URL 缩短器，如 TINYURL</title>
       <link>https://www.reddit.com/r/programming/comments/1b0a0rr/build_a_url_shortener_with_go_and_chi_like_tinyurl/</link>
@@ -15,16 +36,9 @@
     <item>
       <title>RSI 的键盘和桌椅？</title>
       <link>https://www.reddit.com/r/programming/comments/1b09ft9/keyboards_and_desk_chairs_for_rsi/</link>
-      <description><![CDATA[我正在寻求帮助患有 RSI 的丈夫。他没有很棒的键盘或办公椅，这些都严重阻碍了他的编程能力。 他目前从事网络安全工作，但一直在该领域进行一些编程，但他现在有机会完全切换到编程。他热爱编程，但这确实影响了他的 RSI。他最常用的两个键是退格键和输入键，所以右手小指和手腕的小动作是最麻烦的。他还需要为他的办公椅提供一些扶手支撑，但考虑到可用的选项太多，我们都不知道从哪里开始。 有什么建议吗？   由   提交/u/Bekycheppy   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻求帮助患有 RSI 的丈夫。他没有好的键盘或办公椅，这些都严重阻碍了他的编程能力。 他目前从事网络安全工作，但一直在该领域进行一些编程，但他现在有机会完全切换到编程。他热爱编程，但这确实影响了他的 RSI。他最常用的两个键是退格键和输入键，所以右手小指和手腕的小动作是最麻烦的。他还需要为他的办公椅提供一些扶手支撑，但考虑到可用的选项太多，我们都不知道从哪里开始。 有什么建议吗？   由   提交/u/Bekycheppy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b09ft9/keyboards_and_desk_chairs_for_rsi/</guid>
       <pubDate>Mon, 26 Feb 2024 05:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI会取代程序员吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1b08n80/is_ai_going_to_replace_programmers/</link>
-      <description><![CDATA[您认为人工智能会在 20-30 年内取代程序员或其中很大一部分吗？我正在研究系统，但我担心它们会取代我:(     提交者    /u/Canelitadelaurss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b08n80/is_ai_going_to_replace_programmers/</guid>
-      <pubDate>Mon, 26 Feb 2024 04:23:12 GMT</pubDate>
     </item>
     <item>
       <title>包子壳</title>
@@ -50,23 +64,9 @@
     <item>
       <title>中级到高级工程师——首席软件工程经理的视角</title>
       <link>https://www.reddit.com/r/programming/comments/1b02wkg/midlevel_to_senior_engineer_principal_software/</link>
-      <description><![CDATA[大家好 - 我看到其他软件开发人员在社交论坛上讨论这个问题，并想分享我作为工程经理的观点。 这不是代码示例，但我觉得它与那些初级或中级人员非常相关，并试图了解如何向高级人员努力。 剧透警告：这不仅仅是写作更多/更好/聪明的代码，以及作为一个编程可能会根据具体情况而定的人，您在职业生涯的后续步骤中需要关注什么。 我希望您发现这对您有所帮助 - 并且我会很乐意尝试回答任何问题。如果您觉得讨论与编程和您作为程序员的角色相差太远，您也可以向我发送聊天请求，我很乐意讨论。 资历：20 多年编程经验，12管理团队年数（初创公司约 8 年，微软约 4 年）。只是提及上下文，这样我就不是一个完全的互联网随机人 🙂 我保证！   由   提交/u/ncosentino  [链接] [评论]]]></description>
+      <description><![CDATA[嘿各位 - 我看到其他软件开发人员在社交论坛上讨论这个问题，并想分享我作为工程经理的观点。 这不是代码示例，但我觉得它对于那些初级或中级并试图了解如何向高级学习的人非常相关。 剧透警告：这不仅仅是写作更多/更好/聪明的代码，以及作为一个编程可能会根据具体情况而定的人，您在职业生涯的后续步骤中需要关注什么。 我希望您发现这对您有所帮助 - 我会的很乐意尝试回答任何问题。如果您觉得讨论与编程和您作为程序员的角色相差太远，您也可以向我发送聊天请求，我很乐意讨论。 资历：20 多年编程经验，12管理团队年数（初创公司约 8 年，微软约 4 年）。只是提及上下文，这样我就不是一个完全的互联网随机人 🙂 我保证！   由   提交/u/ncosentino  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b02wkg/midlevel_to_senior_engineer_principal_software/</guid>
       <pubDate>Sun, 25 Feb 2024 23:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想为我的 Geoglify 应用程序开发一个实验机器人。我应该用什么？ WhatsApp 或电报？</title>
-      <link>https://www.reddit.com/r/programming/comments/1b01l5d/i_want_to_develop_an_experimental_bot_for_my/</link>
-      <description><![CDATA[ 由   提交/u/leoneljdias  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b01l5d/i_want_to_develop_an_experimental_bot_for_my/</guid>
-      <pubDate>Sun, 25 Feb 2024 22:51:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 NextJS 构建的完全链上 Reddit，无后端，全部在链上</title>
-      <link>https://www.reddit.com/r/programming/comments/1b00coi/fully_onchain_reddit_built_with_nextjs_no_backend/</link>
-      <description><![CDATA[ 由   提交/u/Space-Cool  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b00coi/fully_onchain_reddit_built_with_nextjs_no_backend/</guid>
-      <pubDate>Sun, 25 Feb 2024 22:02:21 GMT</pubDate>
     </item>
     <item>
       <title>为什么 Raycast 是 MacOS 上（开发人员）生产力的必备工具！</title>
@@ -74,20 +74,6 @@
       <description><![CDATA[ 由   提交/u/inelp  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b00c8w/why_raycast_is_a_musthave_for_developer/</guid>
       <pubDate>Sun, 25 Feb 2024 22:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>onelinevalidation 新版本🥳🎉</title>
-      <link>https://www.reddit.com/r/programming/comments/1azzxvd/onelinevalidation_new_version/</link>
-      <description><![CDATA[ 由   提交/u/Organic_Drawing_3339   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azzxvd/onelinevalidation_new_version/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习管理系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1azzdwv/lms/</link>
-      <description><![CDATA[嘿，正在寻找一些关于我需要什么的建议，以便从头开始创建我自己的学习管理系统，包括内置的评分系统。有人有自己构建的经验吗？与 Talent LMS 类似，但我需要它以特定的方式工作以满足我们的认证需求等。欢迎任何建议，谢谢。   由   提交 /u/UnlikelyFruit4739   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azzdwv/lms/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:23:48 GMT</pubDate>
     </item>
     <item>
       <title>设计个人软件：为什么我们需要更多待办事项应用程序</title>
@@ -109,6 +95,20 @@
       <description><![CDATA[ 由   提交/u/micketic  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azxwh4/speed_vs_marketing_dilemma_for_the_web/</guid>
       <pubDate>Sun, 25 Feb 2024 20:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redis 的力量：深入探讨缓存系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1azxmsc/power_of_redis_a_deep_dive_into_caching_systems/</link>
+      <description><![CDATA[ 由   提交/u/elon_musk1017   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azxmsc/power_of_redis_a_deep_dive_into_caching_systems/</guid>
+      <pubDate>Sun, 25 Feb 2024 20:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>NetBeans 能为我们带来一个像样的 VS Code Java 扩展吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1azxj1u/can_netbeans_bring_us_a_decent_java_extension_for/</link>
+      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azxj1u/can_netbeans_bring_us_a_decent_java_extension_for/</guid>
+      <pubDate>Sun, 25 Feb 2024 20:10:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
