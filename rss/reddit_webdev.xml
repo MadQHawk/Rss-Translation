@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 12:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:13:12 GMT</lastBuildDate>
     <item>
-      <title>如何制作具有适当后端的密码管理器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0g4ek/how_do_i_make_a_password_manager_with_proper/</link>
-      <description><![CDATA[我正在考虑制作一个密码管理器作为个人 Web 开发项目。 这个想法是制作一个 Android 应用程序使用 React Native 进行指纹认证，并使用 React js 进行 Chrome 扩展。每当我使用指纹验证 Android 应用程序时，我希望 chrome 扩展能够自动填充当前在 chrome 桌面上打开的网站上的输入框。 我想大致了解所有技术堆栈是什么需要将其变为现实。我目前只知道 React、Node、Express，刚刚开始学习 MongoDB。 需要 Firebase 吗？ 我可以在这个密码管理器中实现 Web3 吗？如果是，那么如何实现？ 如果有人能够简要说明他们如何实现这个想法，那就太好了。  &amp; #32；由   提交 /u/hitarth_gg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0g4ek/how_do_i_make_a_password_manager_with_proper/</guid>
-      <pubDate>Mon, 26 Feb 2024 12:17:23 GMT</pubDate>
+      <title>照片上传网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0jo8u/photo_upload_site/</link>
+      <description><![CDATA[我想知道是否有人可以提供任何指导或帮助我了解如何构建类似名为 Weduploader.com 的网站？这看起来很简单，但不幸的是，除了基本的网站设计之外，我对任何开发都没有真正的了解。本质上，我想弄清楚的是，我如何创建一个独特的门户，人们可以简单地将照片上传到该门户，并在后端根据他们用来上传的唯一链接，他们最终会进入特定的谷歌驱动器文件夹。希望这是有道理的，对于对此有一些基本知识的人来说，这似乎很简单。感谢您的评论，干杯！   由   提交 /u/The_Blind_Idiot_God   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0jo8u/photo_upload_site/</guid>
+      <pubDate>Mon, 26 Feb 2024 15:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT-ing 我的第一个全栈应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0jf1w/chatgpting_my_way_to_my_first_fullstack/</link>
+      <description><![CDATA[只是想分享我的旅程，以帮助激励/鼓励他人。 我有编码背景，但只是作为一个自动化工程师，这需要相当基本的代码技能水平。我的项目墓地很大，开始和停止尝试学习所有这些不同的技术堆栈。但后来 ChatGPT 到来了，我的生活发生了变化。 我开始提示一切，不仅仅是“给我代码”，而是“给我代码并向我解释”，如果.我没有不明白，会继续说，“我不明白，似乎缺少一些基础，假设我是一个完全的初学者”。 我首先提示 GPT 基于 OpenAI 的商业想法API。然后用它来进行头脑风暴。然后制定计划。在开始申请之前了解我需要什么。准备技术堆栈。将其分解为一个多步骤计划，最后开始要求 GPT 开始吐出代码。一开始很简单，然后随着代码库的增长，它会变得越来越难。我开始问它，“如何调试此代码”和“如何添加更多调试控制台消息以帮助我了解错误发生的位置”等等。当然，还有“详细解释代码”，每次都在这个过程中学习和成长。尽量避免走捷径。 最终，在 AWS 上，前端使用了 React，后端使用了 NodeJS 和 Mongo。我学到了很多东西，哭了一会儿，无数次几乎放弃了，但还是完成了，我为自己感到非常自豪。不会发布链接以避免自我推销，但您可以查看我的个人资料并在那里查看。 如果您与此联系，请不要犹豫发表评论！ &lt; /div&gt;  由   提交 /u/naftalibp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0jf1w/chatgpting_my_way_to_my_first_fullstack/</guid>
+      <pubDate>Mon, 26 Feb 2024 14:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>用普通的 javascript 开源桌面/窗口管理器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0j73c/open_source_desktop_window_manager_in_vanilla/</link>
+      <description><![CDATA[我认为这是一个远景，但我需要一个桌面 UI 窗口管理器（打开、调整大小、移动，理想情况下最小化）用于一个商业项目，该项目编写在普通的 JavaScript 中。  ​ 我搜索但找不到……我想在建造之前先问一下。感谢您提供任何线索。   由   提交 /u/Jutboy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0j73c/open_source_desktop_window_manager_in_vanilla/</guid>
+      <pubDate>Mon, 26 Feb 2024 14:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者自由职业者 - 英国的工作定价</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0ip3q/beginner_freelance_pricing_jobs_in_the_uk/</link>
+      <description><![CDATA[对于自由网络开发人员，尤其是那些专门从事前端并在英国（尤其是西北地区）工作的人，我将不胜感激任何有关以下方面的建议或见解定价工作，尤其是作为初学者。 我专注于小型企业，因为我是一个非常初学者。我已经为以前的雇主——一家炸鱼薯条店创建了一个网页，但我是免费做的，作为一种感谢的姿态，也因为它为我提供了宝贵的学习经验。我相信这是我可能关注的一个领域 - 小餐馆、咖啡馆、咖啡店等。 因此，有关定价的任何建议，例如如何确定价格、付款结构（例如，预付款与预付款）分期付款与完成后）、处理网站更新、提供固定计划与每小时费率等，我们将不胜感激！   由   提交 /u/SifsSorrow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0ip3q/beginner_freelance_pricing_jobs_in_the_uk/</guid>
+      <pubDate>Mon, 26 Feb 2024 14:23:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>这太烦人了，让我很快就离开了你的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0i5ea/this_is_so_annoying_and_makes_me_leave_your_site/</link>
+      <description><![CDATA[      您能发现多少个广告？   由   提交/u/Pand4Xpress  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0i5ea/this_is_so_annoying_and_makes_me_leave_your_site/</guid>
+      <pubDate>Mon, 26 Feb 2024 13:58:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>发展路径是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0htss/what_path_to_development/</link>
+      <description><![CDATA[您会如何处理这个问题？一个根据付费订阅者注册时指定的偏好自动向付费订阅者发送定制新闻通讯的网站。 我认为这必须有某种后端 SQL 驱动的数据库，但我想知道是否有现在有更优雅的解决方案。   由   提交/u/itationmustang  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0htss/what_path_to_development/</guid>
+      <pubDate>Mon, 26 Feb 2024 13:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发播客</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0hac5/webdev_podcasts/</link>
+      <description><![CDATA[嗨，您听哪些有关 Web 开发的播客？    ;由   提交 /u/OddEducator1009   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0hac5/webdev_podcasts/</guid>
+      <pubDate>Mon, 26 Feb 2024 13:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计软件最重要的目标是可理解性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0gz0m/the_most_important_goal_in_designing_software_is/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0gz0m/the_most_important_goal_in_designing_software_is/</guid>
+      <pubDate>Mon, 26 Feb 2024 13:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>🌟 滚动式优雅 – 为您的粘性部分添加动画效果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0gkki/onscroll_elegance_animate_your_sticky_sections/</link>
+      <description><![CDATA[       由   提交/u/AdamMarsdenUK  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0gkki/onscroll_elegance_animate_your_sticky_sections/</guid>
+      <pubDate>Mon, 26 Feb 2024 12:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个网站要花多少钱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0ghc6/how_much_would_this_site_cost/</link>
+      <description><![CDATA[https://www.norauto.es/客户想要这样的东西。我想至少10k。可能是 webflow 并为我自己购买了服务器。它提供 3k 种产品。    由   提交 /u/yosefbc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0ghc6/how_much_would_this_site_cost/</guid>
+      <pubDate>Mon, 26 Feb 2024 12:36:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代 HTML 提供了正确开发网站所需的一切（自定义元素、Shadow DOM、<template>）。然而缺少一点粘合代码。哪些是将标准 Web 组件提升为更加用户友好且易于使用的最佳库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0gczo/modern_html_offers_everything_that_is_needed_to/</link>
+      <description><![CDATA[我喜欢尽可能使用 JS+HTML+CSS 来开发网页。我不想使用整个大生态系统附带的大型框架（Angular、React、Vue、Polymer...）。 当今的 Web 组件和其他 HTML/JS/CSS 标准非常强大足以提供 99% 的需求。这些技术让我可以定义自定义元素，在  但是仍然缺少一些粘合代码：必须在自定义元素注册表；手动克隆模板的 DocumentFragment 并将其附加到影子 DOM；手动处理采用的样式表等。 是否有任何简单、轻量级的库可以对这些低级标准组件提供良好的抽象？  &amp;# 32；由   提交/u/IAmBlueNebula  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0gczo/modern_html_offers_everything_that_is_needed_to/</guid>
+      <pubDate>Mon, 26 Feb 2024 12:30:22 GMT</pubDate>
     </item>
     <item>
       <title>开发一个网站。我应该从哪里开始？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b0f8j1/developing_a_website_where_should_i_start/</link>
-      <description><![CDATA[大家好， 我正在开始开发一个网站。该网站的基本思想是它将托管一些基于时间的数据指标。例如。从 1980 年至今，世界所有国家的 HDI 以及数据之外，还将有折线图、条形图描述和地图来可视化（有点类似于 ourworldindata.org） 我想使 UI 与 Statista 或 Kaggle 类似。我正在考虑在 PostgreSQL 上构建主数据库，从中我可以提取某个系列的数字，并在 Chart.js 中使用它们来绘制图表。 我该如何开始这个过程呢？还有网站应该在哪里开发，如何推送到网上？   由   提交 /u/TheMapsDaily   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在开始开发一个网站。该网站的基本思想是它将托管一些基于时间的数据指标。例如。从 1980 年至今世界所有国家的 HDI 以及数据，它还将有折线图、条形图描述和地图来可视化它（有点类似于 ourworldindata.org） 我想使 UI 与 Statista 或 Kaggle 类似。我正在考虑在 PostgreSQL 上构建主数据库，从中我可以提取某个系列的数字，并在 Chart.js 中使用它们来绘制图表。 我该如何开始这个过程呢？还有网站应该在哪里开发，如何推送到网上？   由   提交 /u/TheMapsDaily   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b0f8j1/developing_a_website_where_should_i_start/</guid>
       <pubDate>Mon, 26 Feb 2024 11:24:56 GMT</pubDate>
     </item>
     <item>
       <title>Shopify 在中国</title>
       <link>https://www.reddit.com/r/webdev/comments/1b0f6s1/shopify_in_china/</link>
-      <description><![CDATA[我是一家中型企业的独立全栈开发人员，该企业的主要股东都在中国。就上下文而言，我在东南亚的某个地方，那里没有像中国那样的审查制度。 他们遇到了一个问题，即无法访问在 Shopify 中创建的网站，因为 Shopify 在中国没有 CDN。我听说过 shopifycdn，但开发人员说他们不确定是否继续使用 CDN，因此他们没有相关文档。 我正在考虑将整个网站迁移到另一个平台，但你只能迁移来自 Shopify 的数据，而不是设计 (cmiiw)。所以我需要从头开始重新制作它。 我也在考虑是否有可能让网站仍然在shopify中，但托管在中国更近的地方。因此，无需使用shopify的内置托管。 我还可以从头开始设计、前端、后端、服务器、数据库等（ReactJs）。但由于我是一名独立开发人员，因此现有网站已经投入生产一段时间（我认为是几个月），因此需要更长的时间。 所以我的问题是，这些是我唯一的选择吗？或者有什么办法可以改变shopify的网络服务器吗？非常欢迎任何其他建议。 谢谢   由   提交 /u/driedKelpShake   [链接] [评论]]]></description>
+      <description><![CDATA[我是一家中型企业的独立全栈开发人员，该企业的主要股东都在中国。就上下文而言，我在东南亚的某个地方，那里没有像中国那样的审查制度。 他们遇到了一个问题，即无法访问在 Shopify 中创建的网站，因为 Shopify 在中国没有 CDN。我听说过 shopifycdn，但开发人员说他们不确定是否会继续使用 CDN，因此他们没有相关文档。 我正在考虑将整个网站迁移到另一个平台，但你只能迁移来自 Shopify 的数据，而不是设计 (cmiiw)。所以我需要从头开始重新制作它。 我也在考虑是否有可能让网站仍然在shopify中，但托管在中国更近的地方。因此，无需使用shopify的内置托管。 我还可以从头开始设计、前端、后端、服务器、数据库等（ReactJs）。但由于我是一名独立开发人员，因此现有网站已经投入生产一段时间（我认为是几个月），因此需要更长的时间。 所以我的问题是，这些是我唯一的选择吗？或者有什么办法可以改变shopify的网络服务器吗？非常欢迎任何其他建议。 谢谢   由   提交 /u/driedKelpShake   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b0f6s1/shopify_in_china/</guid>
       <pubDate>Mon, 26 Feb 2024 11:21:53 GMT</pubDate>
     </item>
     <item>
       <title>存储要显示为 html 的内容的最佳方式是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b0f0tj/whats_the_best_way_to_store_content_to_be/</link>
-      <description><![CDATA[将使用一些开源编辑器来格式化一些将显示给其他用户的内容。目前编辑器将仅限于下划线、斜体、保持、3 种文本颜色。已经在考虑保存完整的 html。数据库是postgresql。还有其他可用的选择吗？ 正在评估使用 WordPress 等开源 CMS。   由   提交 /u/DesiBail   [链接] [评论]]]></description>
+      <description><![CDATA[将使用一些开源编辑器来格式化一些将显示给其他用户的内容。目前编辑器将仅限于下划线、斜体、保持、3 种文本颜色。已经考虑保存完整的 html。数据库是postgresql。还有其他可用的选择吗？ 正在评估使用 WordPress 等开源 CMS。   由   提交 /u/DesiBail   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b0f0tj/whats_the_best_way_to_store_content_to_be/</guid>
       <pubDate>Mon, 26 Feb 2024 11:11:26 GMT</pubDate>
     </item>
     <item>
       <title>消除从您的网站保存照片和视频的功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1b0f07b/eliminate_the_ability_to_save_photos_and_videos/</link>
-      <description><![CDATA[通过使用 WordPress 创建数字照片和视频市场，您知道是否可以消除人们进入的可能性，他们是否可以将文件保存在网站上，将其拖到桌面或用鼠标右键保存？ 非常感谢！   由   提交 /u/GoldenGate92   [链接] [评论]]]></description>
+      <description><![CDATA[通过使用 WordPress 创建数字照片和视频市场，您知道是否可以消除人们进入网站的可能性，他们是否可以将文件保存在网站上，将其拖到桌面或用鼠标右键保存？ 非常感谢！   由   提交/u/GoldenGate92  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b0f07b/eliminate_the_ability_to_save_photos_and_videos/</guid>
       <pubDate>Mon, 26 Feb 2024 11:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 授权最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0es3e/bestpractices_for_api_authorization/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/moonbunR  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0es3e/bestpractices_for_api_authorization/</guid>
-      <pubDate>Mon, 26 Feb 2024 10:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让这个背景尽可能的轻盈、灵活呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0e8gq/how_to_make_this_background_the_lightest_and_most/</link>
-      <description><![CDATA[      我是一名 Web 开发新手，我希望我的网站上有以下背景。  在网站上尽可能快地加载并正确调整大小（无论屏幕大小如何）的最佳方法是什么？ SVG 是个好主意吗？我们可以把它们作为CSS背景吗？ 非常感谢您的帮助！  https://preview.redd .it/fdgar34unwkc1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=5632a0d6cf349cf8b0b24b7b0d30cf77ee06e2e4   由   提交/u/frouge  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0e8gq/how_to_make_this_background_the_lightest_and_most/</guid>
-      <pubDate>Mon, 26 Feb 2024 10:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astro、Tailwind CSS 和 Alpine.js 创建交互式定价表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0e2bn/how_to_create_an_interactive_pricing_table_with/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0e2bn/how_to_create_an_interactive_pricing_table_with/</guid>
-      <pubDate>Mon, 26 Feb 2024 10:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解实时数据库和消息传递的 Firebase HTTP REST 身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0dwh3/understanding_firebase_http_rest_authentication/</link>
-      <description><![CDATA[大家好， 需要您的帮助。我正在使用 PHP 开发一个 Web 应用程序，该应用程序必须使用实时数据库和云消息传递。我成功地做到了这一点，但我有一个问题。为了对实时数据库进行身份验证，我通过 API 调用使用匿名登录： https ://identitytoolkit.googleapis.com/v1/accounts:signUp?key= 然后我发送带有 ?auth= 参数的 idToken 以进行插入的 POST 调用 然后我尝试在“Authorization: Bearer”中使用相同的 idToken。云消息 POST 的标头： https://fcm .googleapis.com/v1/projects/project-id/messages:send 但收到“请求的身份验证凭据无效。预期的 OAuth 2 访问令牌”错误，然后我必须使用服务帐户 json 和 GoogleAPIClient PHP 来获取另一种类型的访问令牌。 我做错了什么？ 谢谢   由   提交/u/silentheaven83   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0dwh3/understanding_firebase_http_rest_authentication/</guid>
-      <pubDate>Mon, 26 Feb 2024 09:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>菜鸟的疑惑，需要一个网站吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0d9ba/doubt_of_a_rookie_who_needs_a_website/</link>
-      <description><![CDATA[你好，我想创建一个基本的网站，开始一个商业项目，我没有太多的网络编程想法，我也没有想要花很多钱。您知道提供优质、美观且廉价服务的网站或公司 ​ 谢谢！   由   提交 /u/TheSoundOf_Muzak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0d9ba/doubt_of_a_rookie_who_needs_a_website/</guid>
-      <pubDate>Mon, 26 Feb 2024 09:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自自学前端开发者的问题，作为初学者，您难以理解的事情是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0cdm3/question_from_self_taught_frontend_dev_what_are/</link>
-      <description><![CDATA[正如标题所说，了解它有点有趣。 我和我的朋友们正在自学，我的大多数朋友正在努力解决这些问题 - 内联元素与块元素 - 锚点与按钮标签（更具体地说，他们正在努力识别网页设计中的按钮和链接是什么） - div 与部分 - 何时使用 div 何时使用使用 span - 何时将某些内容包装在 div 中以及何时不这样做 这些是他们在 html 中遇到的一些问题。  您能分享一下您的类似经历吗？您是如何克服的？    由   提交 /u/RiceCookerOfWeb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0cdm3/question_from_self_taught_frontend_dev_what_are/</guid>
-      <pubDate>Mon, 26 Feb 2024 08:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>将静态资源从一个纱线工作区复制到另一个纱线工作区的最佳方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0b66q/best_way_to_copy_static_asset_from_one_yarn/</link>
-      <description><![CDATA[大家好，我有一个带有几个纱线工作区的 monorepo。在其中一个工作区中，我有静态应用程序，在另一个工作区中，我有一些用于 API 层的快速服务器。当我部署时，我的静态应用程序由 Cloudfront 提供服务，但我有一个需要（我现在就不告诉你原因），我还需要通过 Express 服务器将应用程序作为静态资产提供服务。 我的问题是，如何将静态资源从workspace-static复制到workspace-express中，以便静态文件最终包含在我的workspace-express中？显然，我可以逐字复制这些文件，因为我知道它们的位置，但我想知道是否有更好的方法来做到这一点，希望利用纱线工作区。 谢谢！ &lt; !-- SC_ON --&gt;  由   提交 /u/dyniper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0b66q/best_way_to_copy_static_asset_from_one_yarn/</guid>
-      <pubDate>Mon, 26 Feb 2024 06:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有什么积极的东西</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0angt/no_something_positive/</link>
-      <description><![CDATA[不到一年前，我被亚利桑那州一家不错的网络开发公司聘为“初级”开发人员。我一直很喜欢它，在我开始后不久，我就可以看出这个地方有点无组织，但不是很糟糕。 我的工作很快就从初级前端开发变成了中级全栈哈哈，我曾经搞砸过一次，但除此之外我在这个地方做得很好。 作为一个没有学位、只有爱好和自由职业经验的人，我惊讶于自己实际上做得还不错。  我觉得我在吹牛，但我想说的是，没有学位也可以成为一名成功的开发者，市场并不可怕，但也不是很好任何一个。尽管如此，它仍然是可行的！ 如果今晚我的这份工作有什么意义的话，那就是我作为一名开发人员能够取得成功，如果我把时间投入到某些事情上，我相信我可以构建它。    由   提交 /u/pyr00t   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0angt/no_something_positive/</guid>
-      <pubDate>Mon, 26 Feb 2024 06:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你觉得这些带回家的东西怎么样？他们太多了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/</link>
-      <description><![CDATA[我一直在申请一些工作，并且收到了两次测试（不同的公司）。我感觉他们要求太多了。当然，你有一周的时间来完成它们，但考虑到候选人还有其他责任等等，这似乎有点过分。 后端实际作业 前端实际作业 特别是对于前端来说，他们希望你盲目地深入研究他们的文档并找出你能找到什么。您必须花费几个小时来掌握 API 并将其集成到您的应用程序中。他们连提示都没有，哈哈。是的，他们的文档长达 50 多页。当然，并不是所有内容都与作业相关。 我完全赞成带回家的作业而不是 leetcode/algo 问题，但我更喜欢它们更合理一些。我收到的另一份大约需要 30 分钟到一个小时，我们在后续会议中详细讨论了它 - 我将如何实现 X 或 Y，为什么我以某种方式处理问题等等，这很棒. 当然，这些作业都是无偿的。现在这已成为常态吗？   由   提交 /u/name-taken1   /u/name-taken1  reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/</guid>
-      <pubDate>Mon, 26 Feb 2024 05:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使可能失败的技术面试取得成功？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b08tsl/how_can_i_make_a_probable_failed_tech_interview_a/</link>
-      <description><![CDATA[基本上我很确定我会失败，我感觉很没有准备。如何才能快速反弹？   由   提交/u/IdeaExpective3073  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b08tsl/how_can_i_make_a_probable_failed_tech_interview_a/</guid>
-      <pubDate>Mon, 26 Feb 2024 04:33:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
