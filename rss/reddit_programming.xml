@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 26 Feb 2024 09:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 18:15:35 GMT</lastBuildDate>
     <item>
-      <title>跳跃模拟（Unity）</title>
-      <link>https://www.reddit.com/r/programming/comments/1b0cygp/jump_simulation_unity/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b0cygp/jump_simulation_unity/</guid>
-      <pubDate>Mon, 26 Feb 2024 08:52:27 GMT</pubDate>
+      <title>Python Lambda 的危险：由于延迟绑定导致的重复值</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0o5mz/dangers_of_python_lambda_repeated_values_due_to/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0o5mz/dangers_of_python_lambda_repeated_values_due_to/</guid>
+      <pubDate>Mon, 26 Feb 2024 18:05:17 GMT</pubDate>
     </item>
     <item>
-      <title>查看 Action Script 3 编程语言中的 Point 类</title>
-      <link>https://www.reddit.com/r/programming/comments/1b0cm5c/a_look_at_the_point_class_in_the_action_script_3/</link>
-      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b0cm5c/a_look_at_the_point_class_in_the_action_script_3/</guid>
-      <pubDate>Mon, 26 Feb 2024 08:28:27 GMT</pubDate>
+      <title>如何在遗留系统上工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nuxv/how_to_work_on_legacy_systems/</link>
+      <description><![CDATA[ 由   提交/u/luthfurc  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nuxv/how_to_work_on_legacy_systems/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:54:08 GMT</pubDate>
     </item>
     <item>
-      <title>每个开发人员都应该了解的标准 JavaScript 对象</title>
-      <link>https://www.reddit.com/r/programming/comments/1b0az2v/standard_javascript_objects_that_every_developer/</link>
-      <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b0az2v/standard_javascript_objects_that_every_developer/</guid>
-      <pubDate>Mon, 26 Feb 2024 06:38:21 GMT</pubDate>
+      <title>我创建了一个开源自动交易平台。这是一年内的改进程度。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nsqt/i_created_an_opensource_automated_trading/</link>
+      <description><![CDATA[ 由   提交/u/Starks-Technology  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nsqt/i_created_an_opensource_automated_trading/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Go 和 Chi 构建 URL 缩短器，如 TINYURL</title>
-      <link>https://www.reddit.com/r/programming/comments/1b0a0rr/build_a_url_shortener_with_go_and_chi_like_tinyurl/</link>
-      <description><![CDATA[ 由   提交/u/schadokar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b0a0rr/build_a_url_shortener_with_go_and_chi_like_tinyurl/</guid>
-      <pubDate>Mon, 26 Feb 2024 05:40:56 GMT</pubDate>
+      <title>将浮点数编码为更短的整数</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0ns6w/encoding_floating_point_numbers_to_shorter/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0ns6w/encoding_floating_point_numbers_to_shorter/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>RSI 的键盘和桌椅？</title>
-      <link>https://www.reddit.com/r/programming/comments/1b09ft9/keyboards_and_desk_chairs_for_rsi/</link>
-      <description><![CDATA[我正在寻求帮助患有 RSI 的丈夫。他没有好的键盘或办公椅，这些都严重阻碍了他的编程能力。 他目前从事网络安全工作，但一直在该领域进行一些编程，但他现在有机会完全切换到编程。他热爱编程，但这确实影响了他的 RSI。他最常用的两个键是退格键和输入键，所以右手小指和手腕的小动作是最麻烦的。他还需要为他的办公椅提供一些扶手支撑，但考虑到可用的选项太多，我们都不知道从哪里开始。 有什么建议吗？   由   提交/u/Bekycheppy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b09ft9/keyboards_and_desk_chairs_for_rsi/</guid>
-      <pubDate>Mon, 26 Feb 2024 05:07:15 GMT</pubDate>
+      <title>Rust 中的异步清理</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nrsg/asynchronous_cleanup_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nrsg/asynchronous_cleanup_in_rust/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:50:46 GMT</pubDate>
     </item>
     <item>
-      <title>包子壳</title>
-      <link>https://www.reddit.com/r/programming/comments/1b075x9/the_bun_shell/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b075x9/the_bun_shell/</guid>
-      <pubDate>Mon, 26 Feb 2024 03:05:34 GMT</pubDate>
+      <title>Python 中整齐的并行输出</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nr47/neat_parallel_output_in_python/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nr47/neat_parallel_output_in_python/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:50:08 GMT</pubDate>
     </item>
     <item>
-      <title>SnapSpeak：寻求新鲜视角 - 将图像变成故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1b06o7e/snapspeak_seeking_fresh_perspectives_turning/</link>
-      <description><![CDATA[大家好， 遇到了这个名为 SnapSpeak 的 Django 项目。这一切都是关于使用视觉演说合成和 OCR 将图像转化为故事。如果您想查看，他们的 GitHub README 上有一个演示视频：SnapSpeak GitHub Repo 现在，事情是这样的：他们大肆谈论用于模型训练的 MongoDB 集成、用于扩展的 K8s 以及所有这些东西。但是，嘿，每个项目都可以使用新的眼光，对吧？您的反馈可能会成为他们正在寻找的游戏规则改变者。与我们一起将 SnapSpeak 打造成非凡的产品。你的声音很重要。让我们一起实现它吧！ #opensource #feedbackwelcome #developmentcommunity   由   提交 /u/Dev-Daddy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b06o7e/snapspeak_seeking_fresh_perspectives_turning/</guid>
-      <pubDate>Mon, 26 Feb 2024 02:40:46 GMT</pubDate>
+      <title>Creusot，Rust 代码的演绎验证器</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nr2e/creusot_a_deductive_verifier_for_rust_code/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nr2e/creusot_a_deductive_verifier_for_rust_code/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>自动生成的描述出错</title>
-      <link>https://www.reddit.com/r/programming/comments/1b05nlv/autogenerated_descriptions_gone_wrong/</link>
-      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b05nlv/autogenerated_descriptions_gone_wrong/</guid>
-      <pubDate>Mon, 26 Feb 2024 01:51:29 GMT</pubDate>
+      <title>使用大整数将小数正确转换为浮点</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nr1h/correct_decimal_to_floatingpoint_using_big/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nr1h/correct_decimal_to_floatingpoint_using_big/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:50:03 GMT</pubDate>
     </item>
     <item>
-      <title>中级到高级工程师——首席软件工程经理的视角</title>
-      <link>https://www.reddit.com/r/programming/comments/1b02wkg/midlevel_to_senior_engineer_principal_software/</link>
-      <description><![CDATA[嘿各位 - 我看到其他软件开发人员在社交论坛上讨论这个问题，并想分享我作为工程经理的观点。 这不是代码示例，但我觉得它对于那些初级或中级并试图了解如何向高级学习的人非常相关。 剧透警告：这不仅仅是写作更多/更好/聪明的代码，以及作为一个编程可能会根据具体情况而定的人，您在职业生涯的后续步骤中需要关注什么。 我希望您发现这对您有所帮助 - 我会的很乐意尝试回答任何问题。如果您觉得讨论与编程和您作为程序员的角色相差太远，您也可以向我发送聊天请求，我很乐意讨论。 资历：20 多年编程经验，12管理团队年数（初创公司约 8 年，微软约 4 年）。只是提及上下文，这样我就不是一个完全的互联网随机人 🙂 我保证！   由   提交/u/ncosentino  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b02wkg/midlevel_to_senior_engineer_principal_software/</guid>
-      <pubDate>Sun, 25 Feb 2024 23:46:02 GMT</pubDate>
+      <title>编写哑代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nr0j/write_dumb_code/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nr0j/write_dumb_code/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Raycast 是 MacOS 上（开发人员）生产力的必备工具！</title>
-      <link>https://www.reddit.com/r/programming/comments/1b00c8w/why_raycast_is_a_musthave_for_developer/</link>
-      <description><![CDATA[ 由   提交/u/inelp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b00c8w/why_raycast_is_a_musthave_for_developer/</guid>
-      <pubDate>Sun, 25 Feb 2024 22:01:50 GMT</pubDate>
+      <title>有价值的数据库基准测试的要点</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nqzh/the_essentials_of_worthwhile_database_benchmarking/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nqzh/the_essentials_of_worthwhile_database_benchmarking/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>设计个人软件：为什么我们需要更多待办事项应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1azy4fe/designing_personal_software_why_we_need_more_todo/</link>
-      <description><![CDATA[ 由   提交/u/overandoutage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azy4fe/designing_personal_software_why_we_need_more_todo/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:33:46 GMT</pubDate>
+      <title>初探 Rust 的生命周期</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nqcv/a_first_look_at_lifetimes_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nqcv/a_first_look_at_lifetimes_in_rust/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>如何处理无响应的消息代理？ （卡夫卡）</title>
-      <link>https://www.reddit.com/r/programming/comments/1azxxdi/how_to_handle_unresponsive_message_brokers_kafka/</link>
-      <description><![CDATA[我想知道如何让我的微服务具有容错能力。假设网络或 Kafka 出现故障，您通常如何处理？我不希望应该发送的消息就这么消失了。如果处理 30 多个微服务，手动使系统“同步”是一项艰巨的工作。    由   提交 /u/zelloxy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azxxdi/how_to_handle_unresponsive_message_brokers_kafka/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:25:55 GMT</pubDate>
+      <title>关于组合终结器和 ffi 的不可能性</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nqcs/on_the_impossibility_of_composing_finalizers_and/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nqcs/on_the_impossibility_of_composing_finalizers_and/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>速度与营销 - 网络的困境</title>
-      <link>https://www.reddit.com/r/programming/comments/1azxwh4/speed_vs_marketing_dilemma_for_the_web/</link>
-      <description><![CDATA[ 由   提交/u/micketic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azxwh4/speed_vs_marketing_dilemma_for_the_web/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:24:57 GMT</pubDate>
+      <title>KEM Trails - 了解关键封装机制</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nqbb/kem_trails_understanding_key_encapsulation/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nqbb/kem_trails_understanding_key_encapsulation/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:49:11 GMT</pubDate>
     </item>
     <item>
-      <title>Redis 的力量：深入探讨缓存系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1azxmsc/power_of_redis_a_deep_dive_into_caching_systems/</link>
-      <description><![CDATA[ 由   提交/u/elon_musk1017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azxmsc/power_of_redis_a_deep_dive_into_caching_systems/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:14:06 GMT</pubDate>
+      <title>TTY 的历史</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nq8i/a_history_of_the_tty/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nq8i/a_history_of_the_tty/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:49:06 GMT</pubDate>
     </item>
     <item>
-      <title>NetBeans 能为我们带来一个像样的 VS Code Java 扩展吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1azxj1u/can_netbeans_bring_us_a_decent_java_extension_for/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azxj1u/can_netbeans_bring_us_a_decent_java_extension_for/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:10:03 GMT</pubDate>
+      <title>PDF 中的不安全功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0nq7i/insecure_features_in_pdfs/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0nq7i/insecure_features_in_pdfs/</guid>
+      <pubDate>Mon, 26 Feb 2024 17:49:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
