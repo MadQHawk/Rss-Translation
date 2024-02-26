@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 25 Feb 2024 21:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:53:36 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个像 Urban Dictionary 这样的众包网站，但针对的是开发人员条款！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</link>
+      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请在此处获取： https: //github.com/aelew/devterms   由   提交 /u/MajesticWeb2250   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</guid>
+      <pubDate>Sun, 25 Feb 2024 23:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>RSGL |模块化的仅标头跨平台 GUI 库，可按照您的方式轻松创建 GUI 软件！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b015pk/rsgl_modular_headeronly_crossplatform_gui_library/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b015pk/rsgl_modular_headeronly_crossplatform_gui_library/</guid>
+      <pubDate>Sun, 25 Feb 2024 22:33:58 GMT</pubDate>
+    </item>
     <item>
       <title>预发布花园机器人开源设计，请求帮助提供一些建议。</title>
       <link>https://www.reddit.com/r/opensource/comments/1azt8lg/prerelease_garden_robot_opensource_design/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好， 我是一名网络安全架构师，也是一位非常建议的开源用户。有一些很棒的开源软件，例如（fail2ban、pfsense、opnsense、security onion 等）... 我想知道您发现缺少什么？ 例如，我缺少一个优秀的开源 SIEM 和优秀的 WebFiltering 软件。 我对你的经验和想法感到好奇。   由   提交/u/Reasonable_Chain_160   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</guid>
       <pubDate>Sat, 24 Feb 2024 03:32:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了更好地理解MVC框架，我做了这个，我需要贡献！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aycfdz/in_order_to_understand_mvc_frameworks_better_i/</link>
-      <description><![CDATA[大家好。  最近，为了更好地了解 MVC 框架，我做了这个： https ://github.com/prp-e/jails  现在，我在这里推广它，希望得到贡献:-) 随意开个 PR 并给个 star !   由   提交/u/Haghiri75  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aycfdz/in_order_to_understand_mvc_frameworks_better_i/</guid>
-      <pubDate>Fri, 23 Feb 2024 21:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
-      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易让 Grist 变得有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</guid>
-      <pubDate>Fri, 23 Feb 2024 16:29:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
