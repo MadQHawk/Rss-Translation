@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:15:29 GMT</lastBuildDate>
     <item>
       <title>带绿屏的 Chrome 键控：可快速获得结果的最佳 Premiere 插件</title>
       <link>https://www.reddit.com/r/editors/comments/1b1dt2u/chrome_keying_with_greenscreen_best_premiere/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>将捕获的 VHS 素材导入到 6k 时间轴上。您最喜欢的让它看起来更……美味的技巧是什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1b1dr4u/importing_captured_vhs_footage_onto_a_6k_timeline/</link>
-      <description><![CDATA[显然，质量是狗屎，而且仍然是狗屎。但我要问的是，您是否见过或使用过任何新的现代技术，只是让它看起来比一般垃圾 VHS 更酷一点？ AI Upscale/Instagram 滤镜/即时性爱/扫描线/传输模式/等等？ 谢谢 编辑：我将其标记为技术性，因为......它有点技术性，但与系统无关。不过，我正在观看最新的首映，还有 After Effects。   由   提交/u/girafa  [链接] [评论]]]></description>
+      <description><![CDATA[显然，质量是狗屎，而且仍然是狗屎。但我要问的是，您是否见过或使用过任何新的现代技术，可以让这一切看起来比一般垃圾 VHS 更酷一点？ AI Upscale/Instagram 过滤器/即时性爱/扫描线/传输模式/等等？ 谢谢 编辑：我将其标记为技术性，因为......它有点技术性，但与系统无关。不过，我使用的是最新的 Premiere，还使用了 After Effects。 编辑：使用 Topaz 和 AFX 进行了测试 - https://youtu.be/-91W_m4w_-s   由   提交/u/girafa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b1dr4u/importing_captured_vhs_footage_onto_a_6k_timeline/</guid>
       <pubDate>Tue, 27 Feb 2024 14:54:55 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>Avid - 清除特定用户的锁定文件 (.lck)？</title>
       <link>https://www.reddit.com/r/editors/comments/1b1ceow/avid_clear_lock_files_lck_for_particular_user/</link>
-      <description><![CDATA[使用共享存储，有时会崩溃。我实际上可以处理工作中的崩溃问题，但令人烦恼的是，如果我打开了大量垃圾箱，我必须打开/关闭它们以重置锁定文件。 有吗有什么方法可以找到特定用户的锁定文件吗？如果能够删除我在崩溃后留下的所有锁定文件，而不是其他人的，那就太好了。 Avid 清楚地了解谁打开了垃圾箱，但以文本形式查看锁定文件却无法做到这一点。一致地显示用户名。是否有已知的格式或方法来查找锁定文件的用户名？   由   提交/u/ovideos  [链接] [评论]]]></description>
+      <description><![CDATA[使用共享存储，有时会崩溃。我实际上可以处理工作中的崩溃问题，但令人烦恼的是，如果我打开了大量垃圾箱，我必须打开/关闭它们以重置锁定文件。 有吗有什么方法可以找到特定用户的锁定文件吗？如果能够删除我在崩溃后留下的所有锁定文件，而不是其他人的，那就太好了。 Avid 清楚地了解谁打开了垃圾箱，但以文本方式查看锁定文件则不然一致地显示用户名。是否有已知的格式或方法来查找锁定文件的用户名？   由   提交/u/ovideos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b1ceow/avid_clear_lock_files_lck_for_particular_user/</guid>
       <pubDate>Tue, 27 Feb 2024 13:55:23 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>适合多个编辑器的最快、简单的 NAS？</title>
       <link>https://www.reddit.com/r/editors/comments/1b153e5/fastest_straightforward_nas_for_multiple_editors/</link>
-      <description><![CDATA[您好！ 一些 NAS 问题。希望购买不需要太多配置的设备。最多可同时为 4 名编辑提供服务。大约有 8 个驱动器托架。倾向于 QNAP 或 Synology，但开放！预算不是一个问题，而是简单性和读/写速度。 其他问题：  最好采用全闪存 SSD 而不是 HDD，对吗？我想是的，尽管我听说在某些 RAID 设置中，HDD 的速度很快？ 为了减少瓶颈，多个 10gbe 端口是理想的选择，对吗？与只有一个编辑器一样，所有编辑器都将争夺该带宽。  我见过配备 4x 10gbe 的 Blackmagic Cloud Store...尽管对该产品的其他担忧让我犹豫不决。 或者，25gbe 端口会更好，对吗？   编辑方面，配备 10gbe 适配器的 MacBook Pro（通过本机 10gbe 端口，如 Mac Studio）有什么缺点吗？ &lt; /ul&gt; 非常感谢。   由   提交 /u/OpanDeluxe   [链接] [评论]]]></description>
+      <description><![CDATA[您好！ 一些 NAS 问题。希望购买不需要太多配置的设备。最多同时为 4 名编辑提供服务。大约有 8 个驱动器托架。倾向于 QNAP 或 Synology，但开放！预算不是一个问题，而是简单性和读/写速度。 其他问题：  最好采用全闪存 SSD 而不是 HDD，对吗？我想是的，虽然我听说在某些 RAID 设置中，HDD 的速度很快？ 为了减少瓶颈，多个 10gbe 端口是理想的选择，对吗？与只有一个编辑器一样，所有编辑器都将争夺该带宽。  我见过配备 4x 10gbe 的 Blackmagic Cloud Store...尽管对该产品的其他担忧让我犹豫不决。 或者，25gbe 端口会更好，对吗？   编辑方面，配备 10gbe 适配器的 MacBook Pro（通过本机 10gbe 端口，如 Mac Studio）有什么缺点吗？ &lt; /ul&gt; 非常感谢。   由   提交 /u/OpanDeluxe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b153e5/fastest_straightforward_nas_for_multiple_editors/</guid>
       <pubDate>Tue, 27 Feb 2024 06:28:12 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>Premiere Productions 正在迁移 NEXIS - 但我需要重新链接吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1b0zka8/premiere_productions_migrating_nexis_but_will_i/</link>
-      <description><![CDATA[我想知道这里是否有人曾经处理过这个技术问题。 我正在运行一个 Premiere Productions 项目在 AVID NEXIS 上。我所在的后期设施想要将我们的整个项目（因此，我们所有的 NEXIS 工作空间）完全迁移到具有新名称的新物理 NEXIS。 这会导致我由于 NEXIS 的名称已更改，因此必须重新链接 Premiere 中的所有内容？ 我的想法是（不幸的是），是的，我必须这样做，哈哈。 或者，是Premiere 能够忽略实际网络驱动器名称而只查找分区名称吗？ 例如，看看 此屏幕截图。 我想要超级清楚的一件事是，只有括号中的文件路径部分（其中显示 [AvidNexis]）会发生变化。我想知道 Premiere 在查找媒体时是否可能（奇迹般地）忽略文件路径的这个组成部分。因为，卷名称将完全相同 - 只是不是整个网络驱动器的名称。 欢迎任何见解或建议！ &lt;!-- SC_ON - -&gt;  由   提交/u/fly_swatter_friend  [链接] [评论]]]></description>
+      <description><![CDATA[我想知道这里是否有人曾经处理过这个技术问题。 我正在运行一个 Premiere Productions 项目在 AVID NEXIS 上。我所在的后期设施想要将我们的整个项目（因此，我们所有的 NEXIS 工作空间）完全迁移到具有新名称的新物理 NEXIS。 这会导致我由于 NEXIS 的名称已更改，因此必须重新链接 Premiere 中的所有内容？ 我的想法是（不幸的是），是的，我必须这样做，哈哈。 或者，是Premiere 能够忽略实际网络驱动器名称而只查找分区名称吗？ 例如，看看 此屏幕截图。 我想要超级清楚的一件事是，只有括号中的文件路径部分（其中显示 [AvidNexis]）会更改。我想知道 Premiere 在查找媒体时是否可能（奇迹般地）忽略文件路径的这个组成部分。因为，卷名称将完全相同 - 只是不是整个网络驱动器的名称。 欢迎任何见解或建议！ &lt;!-- SC_ON - -&gt;  由   提交/u/fly_swatter_friend  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b0zka8/premiere_productions_migrating_nexis_but_will_i/</guid>
       <pubDate>Tue, 27 Feb 2024 01:46:50 GMT</pubDate>
     </item>
     <item>
       <title>有以前的 Frame io 用户现在改用 Dropbox Replay 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1b0wlqo/any_former_frame_io_users_now_using_dropbox/</link>
-      <description><![CDATA[显然，UI 比 Frame 笨重得多，但我想知道是否有以前的 Frame 用户改用了 Dropbox Replay。或者，也许您是以前的 Replay 用户，后来改用了 Frame 并且不打算再回去了？ 我们是一家公司的 Dropbox 用户，可以以 120 美元/席位/年的价格添加 Replay，这与 Frame io 相比，可以节省约 2000 美元，而且由于我们有 DBX 帐户，因此我们不像 Frame 那样受到存储限制。 Replay 有几个 Frame 没有的有趣功能 - 实时评论看起来很有趣。 NLE“集成”是一种笑话与框架（如果我理解正确的话，它只是导出你的视频，并带有评论所在的标记），但我并没有真正使用该功能 - 通常情况下，客户的时间戳记都是错误的。  也很好奇，因为它看起来默认会转录您上传的任何内容？与将内容发送给 Rev 以获取 AI 成绩单相比，这将节省 addtl $$。  想法？  谢谢！   由   提交 /u/WillEdit4Food   [链接] [评论]]]></description>
+      <description><![CDATA[显然，UI 比 Frame 笨重得多，但我想知道是否有以前的 Frame 用户改用了 Dropbox Replay。或者，也许您是以前的 Replay 用户，后来转用了 Frame，并且不想再回去了？？ 我们是一家公司的 Dropbox 用户，可以以 120 美元/席位/年的价格添加 Replay，这与 Frame io 相比，可以节省约 2k 美元，而且由于我们有 DBX 帐户，因此我们不像 Frame 那样受到存储限制。 Replay 有几个 Frame 没有的有趣功能 - 实时评论看起来很有趣。 NLE“集成”是一种笑话与框架（如果我理解正确的话，它只是导出带有评论所在位置的标记的视频），但我并没有真正使用该功能 - 通常情况下，客户的时间戳记都是错误的。  也很好奇，因为它看起来默认会转录您上传的任何内容？与将内容发送给 Rev 以获取 AI 成绩单相比，这将节省 addtl $$。  想法？  谢谢！   由   提交 /u/WillEdit4Food   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b0wlqo/any_former_frame_io_users_now_using_dropbox/</guid>
       <pubDate>Mon, 26 Feb 2024 23:36:25 GMT</pubDate>
     </item>

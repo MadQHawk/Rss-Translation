@@ -4,7 +4,66 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:16:25 GMT</lastBuildDate>
+    <item>
+      <title>我聘请了另一位独立黑客来制作我的产品宣传视频。结果是这样的</title>
+      <link>https://feed.indiehackers.world/post/725fcb6157</link>
+      <description><![CDATA[几周前，我偶然发现了这篇文章
+获取精彩的产品宣传视频没有压力
+一位独立黑客 (Lera) 提出以 49 美元的价格制作产品宣传视频。我接受了她的提议。今天，我的新宣传视频完成了。
+您可以在我的 Scipress.io 主页上看到它。大家觉得怎么样？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/725fcb6157</guid>
+      <pubDate>Tue, 27 Feb 2024 18:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我计划如何更频繁地交付项目</title>
+      <link>https://feed.indiehackers.world/post/ef6703366c</link>
+      <description><![CDATA[我很想知道：你们如何快速交付工作？ 🤔
+附：
+过去，这篇文章需要花费我几个小时来撰写和编辑。
+今天我给自己 30 分钟的时间来运送它！ 🚀
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ef6703366c</guid>
+      <pubDate>Tue, 27 Feb 2024 16:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个开源 CLI 工具来在任何数据库之间提取/复制数据</title>
+      <link>https://feed.indiehackers.world/post/8efb7ffbed</link>
+      <description><![CDATA[摄取解决方案的一些常见用例是：
+
+将数据从旧系统迁移到现代数据库以进行更好的分析
+在应用数据库和分析平台之间批量或增量同步数据
+备份数据库以确保数据安全
+通过轻松克隆现有数据库，加快设置新测试或开发环境的过程
+促进需要立即更新的应用程序的实时数据传输
+
+我们很乐意听到您的反馈，如果您喜欢，请务必在 GitHub 上给我们一颗星！ 🚀 https://github.com/bruin-data/ingestr
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8efb7ffbed</guid>
+      <pubDate>Tue, 27 Feb 2024 16:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的免费开源 SaaS 启动器缺少哪些功能？</title>
+      <link>https://feed.indiehackers.world/post/b550c71122</link>
+      <description><![CDATA[
+用于批量电子邮件发送和分析整合的 Cron 作业
+一个命令全栈部署 - 使用 Fly.io
+博客和文档 — 带 Astro 的 Starlight 模板
+
+即将推出的功能包括：
+
+通过 LemonSqueezy 付款
+开源 AI 模型示例 - 带复制
+其他着陆页设计
+比特币闪电网络（可能还有 Coinbase Commerce）付款
+
+顺便说一句，我们正在寻找贡献者！您所需要的只是 React 和 React 的工作知识。 Node.js。查看此处的未决问题
+感谢您的宝贵时间！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b550c71122</guid>
+      <pubDate>Tue, 27 Feb 2024 15:15:59 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 5,000 美元积分 - OVH Cloud 10,000 美元积分 - 云账户</title>
       <link>https://feed.indiehackers.world/post/af907c3020</link>
@@ -31,7 +90,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>想法验证：寻找电子商务创始人/企业主</title>
       <link>https://feed.indiehackers.world/post/f8afb2f841</link>
       <description><![CDATA[各位独立黑客大家好
-我正在寻求验证一个潜在的想法，并想与 D2C/电子商务企业主交谈。有人可以给我指出 Reddit/Facebook 上合适的群组吗？或者想在线连接一下，喝杯咖啡以换取他们的反馈。
+我正在寻求验证一个潜在的想法，并想与 D2C/电子商务企业主交谈。有人可以向我指出 Reddit/Facebook 上合适的群组吗？或者想在线连接一下，喝杯咖啡以换取他们的反馈。
 我想了解电子商务所有者如何管理多个平台（例如shopify / amazon / FB / Insta等）并跟踪他们的业务。
 通过 wordsbysoha&amp; #109;@gmail.com我会的发送日历链接
 Discord 独立黑客聊天广告这里]]></description>
@@ -44,7 +103,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[独立黑客大家好
 我正在寻求验证一个潜在的想法，并想与 D2C/电子商务企业主交谈。有人可以帮我在 Reddit / Facebook 上找到合适的群组吗？或者想在线连接一下，喝杯咖啡以换取他们的反馈。 
 我想了解电子商务所有者如何管理多个平台（例如shopify / amazon / FB / Insta等）并跟踪他们的业务。
-通过 wordsbysoha&amp; #x6d;@gmail.com我会的发送日历链接
+通过 wordsbysoha&amp; #109;@gmail.com我会的发送日历链接
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/513a335260</guid>
       <pubDate>Tue, 27 Feb 2024 14:11:55 GMT</pubDate>
@@ -121,82 +180,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e3d7600e7f</guid>
       <pubDate>Tue, 27 Feb 2024 12:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astro、Tailwind CSS 和 Alpine.js 创建自适应滚动导航</title>
-      <link>https://feed.indiehackers.world/post/ec691f3900</link>
-      <description><![CDATA[
-@scroll.window 修饰符： 侦听窗口对象上的滚动事件。它根据滚动位置更新组件的状态。
-条件类： class 绑定： Alpine.js 允许条件类绑定，使您能够根据条件添加或删除类组件的状态。
-
-实现滚动触发的类更改
-让我们分解代码，看看这些概念如何协同工作来更改导航栏在滚动时的外观。
-1 使用 x-data 初始化状态
-我们首先定义一个名为 atTop 的状态，用于跟踪用户是否滚动超过特定阈值。
-``html
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ec691f3900</guid>
-      <pubDate>Tue, 27 Feb 2024 12:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为基于服务的公司寻求指导</title>
-      <link>https://feed.indiehackers.world/post/3827c28d65</link>
-      <description><![CDATA[嘿独立黑客，
-我正在为我的服务公司 Effinium(effinium.com) 寻求指导。
-我们专注于 MuleSoft 和 Salesforce。规划也扩大了我们在其他领域的实践。 
-如果您拥有行业专业知识（尤其是建立基于服务的公司）并且热衷于帮助基于服务的公司蓬勃发展，我很乐意与您联系。您的指导可能会对我们的成长产生重大影响。
-请考虑在我们的网站上提供反馈https://effinium.com
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3827c28d65</guid>
-      <pubDate>Tue, 27 Feb 2024 12:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>48 小时内 10 个席位中的 4 个已被预订 🤩</title>
-      <link>https://feed.indiehackers.world/post/f37b17eba7</link>
-      <description><![CDATA[谁将受益🤔
-
-独立黑客
-个体企业家
-连续创业者
-开发人员、营销人员和开发人员SEO 大师
-
-如何订购
-
- 很简单，只需在 X（以前称为 Twitter） 上给我发私信或评论“有兴趣”即可。
-您还可以免费预订 15 分钟通话 - http://calendly.com/pentaclay/intro
-
-查看我们的网站/登陆页面设计👇
-FIGMA 产品组合
-Dribbble 组合
-&lt;小时/&gt;
-🚨 设计将一一提供。这意味着先到先得。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f37b17eba7</guid>
-      <pubDate>Tue, 27 Feb 2024 11:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>48 小时内 10 个席位中的 4 个已被预订 🤩</title>
-      <link>https://feed.indiehackers.world/post/92018f76e8</link>
-      <description><![CDATA[谁将受益🤔
-
-独立黑客
-个体企业家
-连续创业者
-开发人员、营销人员和开发人员SEO 大师
-
-如何订购
-
- 很简单，只需在 X（以前称为 Twitter） 上给我发私信或评论“有兴趣”即可。
-您还可以免费预订 15 分钟通话 - http://calendly.com/pentaclay/intro
-
-查看我们的网站/登陆页面设计👇
-FIGMA 产品组合
-Dribbble 组合
-&lt;小时/&gt;
-🚨 设计将一一提供。这意味着先到先得。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/92018f76e8</guid>
-      <pubDate>Tue, 27 Feb 2024 11:53:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
