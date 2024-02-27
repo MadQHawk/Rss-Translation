@@ -4,11 +4,67 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 06:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 09:12:37 GMT</lastBuildDate>
+    <item>
+      <title>我从 Microsoft 获得了 3,500 美元，如果你推出了人工智能应用程序，你也应该申请</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b17kj2/i_got_3500_from_microsoft_and_you_should_apply/</link>
+      <description><![CDATA[大约一个月前，我申请了微软主办的 Startup Founders 计划。 申请时，我详细介绍了我推出了 AI 编码助手应用 SnippetHub，该应用已经拥有活跃用户。 不久之后，我收到回复说我获得了 3,500 美元的资助以及一系列 12 个月的许可证，就像 Visual Studio Enterprise 一样， GitHub Enterprise 等... 3,500 美元的积分可细分为：  2,500 美元的 OpenAI 积分 1,000 美元的 Azure 积分  这基本上是我已经支付的费用，所以我将直接使用它。 他们立即为我分配了 OpenAI 积分，我用它们来改进 AI SnippetHub Lens AI 中的功能，它是一个 VS Code 编码助手，我为此获得了资助。这是惊人的。 如果您有已启动的 AI 应用程序，您也可以轻松申请并获得此功能。   由   提交/u/findurself020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b17kj2/i_got_3500_from_microsoft_and_you_should_apply/</guid>
+      <pubDate>Tue, 27 Feb 2024 09:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由开发者，您从哪里获得为客户构建的网站的设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1785s/freelance_devs_where_do_you_get_the_design_for/</link>
+      <description><![CDATA[我正在尝试从事自由职业，但我真的很讨厌设计网站。是否有您选择的模板或您自己创建的模板？在设计方面我有哪些选择？   由   提交 /u/TruePadawan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1785s/freelance_devs_where_do_you_get_the_design_for/</guid>
+      <pubDate>Tue, 27 Feb 2024 08:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业者。一年后的现实期望？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b16t88/freelance_realistic_expectations_after_one_year/</link>
+      <description><![CDATA[我已经学习了大约 2 年了。我想进入自由职业市场。我的计划是一开始就做个傻瓜，接受 5 美元的工作，或者花几周时间做一些专业人士可能需要一两天的工作。我想获得经验并建立声誉。 我还将在当地进行接触，并提供各种其他选择。我暂时不指望能做出什么大事。 我的问题是关于代理和短期合同。这些对于自由职业者来说通常如何工作？您通常会自动为事情投保吗？还是我必须付费？ 另外：我每天工作一年后可以期望每月至少赚到 1000 美元吗？不幸的是，我无法辞去工作，但当我达到那个水平时，我可能会以更少的风险更快地迈向软件职业。 感谢并感谢任何在这里有经验的人！   由   提交 /u/Acerhand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b16t88/freelance_realistic_expectations_after_one_year/</guid>
+      <pubDate>Tue, 27 Feb 2024 08:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>酷化体验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b16onp/coolify_experiences/</link>
+      <description><![CDATA[大家好，自从 Netlify &amp; 以来，我一直在寻找托管 NextJS/Sveltekit 的替代方案。 Vercel 的带宽成本有点可疑。 我一直在想我是否应该在 Hetzner 上安装一个虚拟机并在那里托管站点，但手动部署和管理站点似乎有点过时了。  在这篇文章之后：https://www.reddit.com/r/ webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/ 终于到了尽快迁移的时候了。  我偶然发现了 Coolify，如果我有自己的 dedi/vm，它似乎是一个非常酷的解决方案。 这里是否有人使用 Coolify，如果是，他们对部署的看法如何各种项目？  https://coolify.io/ 谢谢    由   提交 /u/AffectPretend66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b16onp/coolify_experiences/</guid>
+      <pubDate>Tue, 27 Feb 2024 08:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>其余API设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b16hcj/rest_api_design/</link>
+      <description><![CDATA[嘿！有哪些好的资源可以帮助您学习 REST API 设计的最佳实践。响应和请求有效负载，还有 URI:s 结构等。有什么好的课程、好的 YouTube 系列等吗？   由   提交/u/Gullible_Original_18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b16hcj/rest_api_design/</guid>
+      <pubDate>Tue, 27 Feb 2024 07:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>致蒂姆·库克的公开信：破坏网络应用程序是站不住脚的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b163x1/open_letter_to_tim_cook_sabotaging_web_apps_is/</link>
+      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b163x1/open_letter_to_tim_cook_sabotaging_web_apps_is/</guid>
+      <pubDate>Tue, 27 Feb 2024 07:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很想听听你们对具有这些功能的约会网站的大概费用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b15ig9/id_love_to_hear_you_guys_approximate_the_cost_of/</link>
+      <description><![CDATA[ 照片、聊天和视频共享系统 每月 1-5k 用户 自动付款基于在网站上花费的时间的系统    由   提交/u/Brisian  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b15ig9/id_love_to_hear_you_guys_approximate_the_cost_of/</guid>
+      <pubDate>Tue, 27 Feb 2024 06:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能制作一个虚拟试衣室，比如角色定制器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b150u6/how_can_i_make_a_virtual_try_room_something_like/</link>
+      <description><![CDATA[我工作的公司有一个项目，我们想要制作一个类似于角色定制器的插件。基本上对于服装店来说，人们可以根据自己的体型和体重来打扮化身，看看这件特定的衣服穿在他们身上会是什么样子。 这是这样一个例子：https://demo.style.me/ 关于这个网站如何实现这个角色服装化的事情有什么想法吗？&lt; /p&gt; 我想我们首先需要对此类服装进行 3D 扫描，然后以某种方式将它们清理干净，然后将其放在人体模型上。我们需要以某种方式将艺术家从处理模型的工作流程中消除。   由   提交 /u/Tuner92   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b150u6/how_can_i_make_a_virtual_try_room_something_like/</guid>
+      <pubDate>Tue, 27 Feb 2024 06:24:01 GMT</pubDate>
+    </item>
     <item>
       <title>Netlify 刚刚向我发送了 10.4 万美元的简单静态网站账单</title>
       <link>https://www.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/</link>
-      <description><![CDATA[     &lt; /td&gt; 上周末我收到了 Netlify 发来的一封电子邮件，说我有 104,500.00 美元的账单逾期。起初我以为这是一个笑话或一些诈骗电子邮件，但在检查了我的仪表板后，我似乎真的欠他们 104K 美元： 4天内就有190TB带宽 所以我想😅😅😅也许我可以受到ddos攻击。由于Netlify对超出的带宽收取55美元/100GB的费用，因此2月16日的峰值一天的带宽为33385/55 * 100GB = 60.7TB。我的意思是，这并非不可能，但为什么要攻击像我这样的简单静态网站呢？该网站已在 Netlify 上运行 4 年，并且可以使用免费套餐。每月带宽从未超过 10GB，每天只有约 200 名访客。 我联系了他们的计费支持，他们回复我说他们调查了这个问题，带宽来自一些用户代理，这意味着它是一个DDoS 攻击。然后他们说发生这种情况，他们通常会向客户收取 20% 的费用。而且由于我的金额太大，他们提供了5%的折扣，这意味着我还需要支付5千美元。 这对我来说更像是一个骗局。为什么像 Netlify 和 Vercel 这样的无服务器平台没有 ddos​​ 防护，或者至少没有支出限制？如果支出猛增，他们应该提醒我。我检查了我的收件箱和垃圾邮件文件夹，但什么也没发现。唯一的电子邮件是“为带宽购买的额外使用套餐”。 是的，我已将我的网站迁移到 Cloudflare。吸取了教训，再也不会使用 Netlify（甚至 Vercel）了。 ​   由   提交/u/liubanghoudai24  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; /td&gt; 所以上周末我收到了 Netlify 发来的一封电子邮件，说我有 104,500.00 美元的账单逾期。起初我以为这是一个笑话或一些诈骗电子邮件，但在检查了我的仪表板后，我似乎真的欠他们 104K 美元： 4 天内就有 190TB 带宽 所以我想 😅😅😅 也许我可以受到ddos攻击。由于Netlify对超出的带宽收取55$/100GB的费用，因此2月16日的峰值一天的带宽为33385/55 * 100GB = 60.7TB。我的意思是，这并非不可能，但为什么要攻击像我这样的简单静态网站呢？这个网站已经在 Netlify 上运行 4 年了，而且一直都是免费套餐。每月带宽从未超过 10GB，每天只有约 200 名访客。 我联系了他们的计费支持，他们回复我说他们调查了这个问题，带宽来自一些用户代理，这意味着它是一个DDoS 攻击。然后他们说发生这种情况，他们通常会向客户收取 20% 的费用。而且由于我的金额太大，他们提供了5％的折扣，这意味着我还需要支付5千美元。 这对我来说更像是一个骗局。为什么像 Netlify 和 Vercel 这样的无服务器平台没有 ddos​​ 防护，或者至少没有支出限制？如果支出猛增，他们应该提醒我。我检查了我的收件箱和垃圾邮件文件夹，但什么也没发现。唯一的电子邮件是“购买带宽的额外使用套餐”。感觉他们故意不支持这些功能，以便在这种情况下抢钱。 ddos 攻击主要针对我网站上的一个文件。是的，将 3.44MB 大小的声音文件放在我的网站上而不是使用 SoundCloud 等第三方平台，部分是我的错。但这仍然不会使防范此类攻击的意义失效，并限制支出。 我还没有支付那 5000 美元，因此决定先在这里发帖，听听其他人的想法。是的，我已将我的网站迁移到 Cloudflare。吸取了教训，再也不会使用 Netlify（甚至 Vercel）了。 ​ 更新：感谢大家对我在 HackerNews。 更新：这是我从他们的计费支持部门收到的电子邮件回复： 我已经删除了那个 .mp3 文件，但它仍然只是3.44MB 大小，我不认为把它留在那里完全是我的错。 ​  &amp;# 32；由   提交/u/liubanghoudai24  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/</guid>
       <pubDate>Tue, 27 Feb 2024 05:45:02 GMT</pubDate>
     </item>
@@ -29,7 +85,7 @@
     <item>
       <title>帮我找到名称 - 4 个字母的网络（作品集）构建器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b135hk/help_me_find_the_name_4_letter_web_portfolio/</link>
-      <description><![CDATA[好吧，标题有点错误，但我在一个清晨仍然昏昏欲睡的情况下在手机上进行深度浏览。可悲的是，它是隐身的，我不小心关闭了整个东西。路径类似于滚动 reddit &gt;很酷的网络应用程序&gt;开发者 github &gt;开发人员“投资组合”/“我”页面.. 在这个我的页面上，它将链接到 github 和其他社交网站.. 包括指向其他​​页面的链接 - 这就是我正在寻找的页面.. 我会尝试总结一些关键标识符.. ​  我相信平台的名称有 4 个字母 它就像一个我的页面/作品集/构建器/博客创建者 它不是什么“专业”的东西，创建的页面通常非常丰富多彩 我认为开发人员经常使用它，但它可能不是专门针对开发人员 人们可以发表评论，开发人员经常使用该平台来展示他们的技能（它看起来并不没有代码，而且该平台似乎专注于开发人员，它不是较大的，如 wix/cardd 或其他东西，如果您不记得自己到底在寻找什么，则很难在 Google 中找到。 在这些网页上，这对于（主要是年轻/正在学习的开发人员）来说并不罕见。相互链接，因此我访问了很多其他用户页面 他们经常以博客风格的方式发布他们的开发旅程 我看到的其他用例，它用于制作一个漂亮的页面来分享您最喜欢的工具（例如备忘单？） 我会将这些页面标记为“炫耀”页面，或者替代方案将它们归类为极具教育意义/有用，因为我登陆的每个页面都有很多有趣的资源。  我知道这是一篇疯狂的帖子，但我一直在修改现在已经几个小时了，希望有人知道我指的是什么，哈哈。   由   提交 /u/MikeSpecter   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，标题有点错误，但我在一个清晨仍然昏昏欲睡的情况下在手机上进行深度浏览。可悲的是，它是隐身的，我不小心关闭了整个东西。路径类似于滚动 reddit &gt;很酷的网络应用程序&gt;开发者 github &gt;开发人员“投资组合”/“我”页面.. 在这个我的页面上，它将链接到 github 和其他社交网站.. 包括指向其他​​页面的链接 - 这就是我正在寻找的页面.. 我将尝试总结一些关键标识符.. ​  我相信平台的名称有 4 个字母 它就像一个我的页面/作品集/构建器/博客创建者 它不是什么“专业”的东西，创建的页面通常非常丰富多彩 我认为开发人员经常使用它，但它可能不是专门针对开发人员 人们可以发表评论，开发人员经常使用该平台来展示他们的技能（它看起来并不没有代码，而且该平台似乎专注于开发人员，它不是较大的，如 wix/cardd 或其他东西，如果您不记得自己到底在寻找什么，则很难在 Google 中找到。 在这些网页上，这对于（主要是年轻/正在学习的开发人员）来说并不少见。相互链接，因此我访问了很多其他用户页面 他们经常以博客风格的方式发布他们的开发旅程 我看到的其他用例，它用于制作一个漂亮的页面来分享您最喜欢的工具（例如备忘单？） 我会将这些页面标记为“炫耀”页面，或者替代方案将它们分类为极具教育意义/有用，因为我登陆的每个页面都有很多有趣的资源。  我知道这是一篇疯狂的帖子，但我一直在修改现在已经几个小时了，希望有人知道我指的是什么，哈哈。   由   提交 /u/MikeSpecter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b135hk/help_me_find_the_name_4_letter_web_portfolio/</guid>
       <pubDate>Tue, 27 Feb 2024 04:41:03 GMT</pubDate>
     </item>
@@ -43,7 +99,7 @@
     <item>
       <title>Astro + TailwindCSS = 最佳自由职业堆栈？商业计划</title>
       <link>https://www.reddit.com/r/webdev/comments/1b120kb/astro_tailwindcss_best_freelancing_stack_business/</link>
-      <description><![CDATA[像每个普通开发人员一样，我正在考虑为自己建立一项副业。我打算走网页设计路线（虽然我是后端开发人员）。我想尝试针对小型企业，并向他们出售可以改善其数字形象的网站解决方案，也许以后还会追加销售其他服务，例如本地搜索引擎优化、社交媒体营销等。我想额外赚 2-3k 美元。 这是我想要的堆栈。  Astro（我只会构建静态网站，没有什么花哨的）  TailwindCSS 或者 CodeStitch（我最近发现了它们，它们有非常好的模板化部分集合） 用于部署的 Netlify / Vercel。 （我将永远维护这一点。） 用于域名的 NameCheap。 用于托管客户网站代码的 Github 组织。 用于版权保护的 ChatGPT+。 &lt; li&gt;Canva 用于设计，以防万一。 你们推荐的最佳电子邮件托管平台是什么。  业务的 USP  &lt; li&gt;Google LightHouse 和其他网站性能分析工具的 100/100 指标。 同样，加载时间极快。 功能性网页设计。没有废话。 没有 Wordpress 或页面构建器，纯代码。 1 周的交付时间（最初。一旦我为自己构建了一个流程，应该将其减少到 10 小时以下） ） 价格实惠。计划一次性支付 1000 美元起，每月 20 美元用于维护和托管。这包括 5 个具有博客集成的静态页面以及表单。  这个想法是构建一个可以在其他项目中重复使用的模板库。这大大减少了开发时间和工作量。 由于位于印度，我在这里看到的主要问题是，您可以在 100 美元以下完成一个网站，但它们根本不符合任何标准。丑陋的 HTML、Wordpress 无处不在，而且加载时间很慢。 我正在考虑以利基市场为目标。这意味着，一旦我开始从事这项业务，我将瞄准我所在地区及其周边的牙医，并以大约 200 美元的价格为他们建立网站，而不会影响质量。一旦我与几位牙医合作，下一次迭代我就会瞄准瑜伽教练并为他们建立网站。 这将帮助我建立一个投资组合，并接触市场。一旦我建立了一个不错的投资组合，我就会瞄准一个相对较高收入的市场，比如美国或英国，在那里我可以轻松地为每个项目收取 1-2K 美元的费用。 所以，这就是计划。这看起来是不是一个牵强的想法？有人有类似的经历吗？尤其是来自印度的？请告诉我。谢谢！   由   提交 /u/iammukeshm   [链接] [评论]]]></description>
+      <description><![CDATA[像每个普通开发人员一样，我正在考虑为自己建立一项副业。我打算走网页设计路线（虽然我是后端开发人员）。我想尝试针对小型企业，并向他们出售可以改善其数字形象的网站解决方案，也许以后会追加销售其他服务，例如本地搜索引擎优化、社交媒体营销等。我想额外赚 2-3k 美元。 这是我想要的堆栈。  Astro（我只会构建静态网站，没有什么花哨的）  TailwindCSS 或者 CodeStitch（我最近发现了它们，它们有非常好的模板化部分集合） 用于部署的 Netlify / Vercel。 （我将永远维护这一点。） 用于域名的 NameCheap。 用于托管客户网站代码的 Github 组织。 用于版权保护的 ChatGPT+。 &lt; li&gt;Canva 用于设计，以防万一。 你们推荐的最佳电子邮件托管平台是什么。  业务的 USP  &lt; li&gt;Google LightHouse 和其他网站性能分析工具的 100/100 指标。 同样，加载时间极快。 功能性网页设计。没有废话。 没有 Wordpress 或页面构建器，纯代码。 1 周的交付时间（最初。一旦我为自己构建了一个流程，应该将其减少到 10 小时以下） ） 价格实惠。计划一次性支付 1000 美元起，每月 20 美元用于维护和托管。这包括 5 个带有博客集成的静态页面以及表单。  这个想法是构建一个可以在其他项目中重复使用的模板库。这大大减少了开发时间和工作量。 由于位于印度，我在这里看到的主要问题是，您可以在 100 美元以下完成一个网站，但它们根本不符合任何标准。丑陋的 HTML、Wordpress 无处不在，而且加载时间很慢。 我正在考虑以利基市场为目标。这意味着，一旦我开始从事这项业务，我将瞄准我所在地区及其周边的牙医，并以大约 200 美元的价格为他们建立网站，而不会影响质量。一旦我与几位牙医合作，下一次迭代我就会瞄准瑜伽教练并为他们建立网站。 这将帮助我建立一个投资组合，并接触市场。一旦我建立了一个不错的投资组合，我就会瞄准一个相对较高收入的市场，比如美国或英国，在那里我可以轻松地为每个项目收取 1-2K 美元的费用。 所以，这就是计划。这看起来是不是一个牵强的想法？有人有类似的经历吗？尤其是来自印度的？请告诉我。谢谢！   由   提交 /u/iammukeshm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b120kb/astro_tailwindcss_best_freelancing_stack_business/</guid>
       <pubDate>Tue, 27 Feb 2024 03:42:30 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我总是看到一些问题，询问在没有足够信息的情况下，您会对一个复杂的网站收取多少费用。 解决方案您是否要求客户收集进行详细报价所需的信息？这包括收集需求、了解他们当前的设置、关于如何编码解决方案的高级设计文档以及报价。在他们付钱给你之前，你最好提供一个非常粗略的大概范围，并检查他们的预算是否在这个范围之内。 这件事很困难，这是一项熟练的工作，最多需要几个小时，而且通常天，所以你应该为此付费。它使您和客户的项目风险大大降低。错误的估算会对双方造成伤害，如果您不收取估算费用，您就会这么做，因为您会尝试尽快完成估算，而不会了解细节。 人们谈论如何更好地估计，但这里的一个重要因素是，除非您在开始之前探索未知因素并消除它们的风险，否则您将会偏离正轨。 &lt;!-- SC_ON - -&gt;  由   提交/u/withoutdefault  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b11w8i/for_freelancers_please_charge_money_to_do_complex/</guid>
       <pubDate>Tue, 27 Feb 2024 03:36:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么你在所有不应该使用的情况下都使用 div？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b10iyl/why_do_you_use_divs_for_everything_even_when/</link>
-      <description><![CDATA[武德   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b10iyl/why_do_you_use_divs_for_everything_even_when/</guid>
-      <pubDate>Tue, 27 Feb 2024 02:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何支付自定义进度小部件的费用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b102rp/how_should_i_expect_to_pay_for_a_custom_progress/</link>
-      <description><![CDATA[您好，我是一家新成立的小型 501c3 非营利组织的董事，致力于为沿海社区提供培训师类型的健康教育。我们正在建造一艘船，并希望建立一个捐赠页面，人们可以在其中标记对特定系统的捐赠。 我们正在设想一个页面，其中包含船的渲染图片及其所有信息系统突出显示。图片会明显褪色，但仍可辨认。这些系统本质上都是一个进度条，随着捐赠的进展，系统的图像从下到上逐渐淡入。理想情况下，每个进度表都会始终显示该特定系统的捐款总额以及资金完成百分比。我们希望这种能力以通用小部件的形式出现，以便我们的网页设计师可以在需要时更精细地了解系统。最后，需要启用该小部件才能使页面同时运行它的多个副本。 在寻找开发人员之前，我想了解一下什么是小部件支付这样的东西的实际大概价格范围？    由   提交/u/Logically_Challenge2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b102rp/how_should_i_expect_to_pay_for_a_custom_progress/</guid>
-      <pubDate>Tue, 27 Feb 2024 02:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>MVC 中有后端和前端之分吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0zm02/is_there_backend_vs_frontend_in_mvc/</link>
-      <description><![CDATA[我最近在 Web 开发大学课程中了解了 MVC，并对所有内容似乎如何联系在一起感到有点困惑。 M 和 C 看起来像是想象中的后端开发，但 V 对我来说听起来很像前端，尽管它运行在服务器中。另外，PHP 被认为是一种后端语言，但我通常看到它嵌入到 HTML 中，这对我来说似乎是一种前端语言。那么，MVC 中的后端和前端之间是否有像 REST API、JSON 等那样的区别？   由   提交 /u/hahathatsinteresting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0zm02/is_there_backend_vs_frontend_in_mvc/</guid>
-      <pubDate>Tue, 27 Feb 2024 01:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不同平台上设置前端和后端的主域和子域</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0z4mn/setting_up_main_domain_and_subdomain_for_frontend/</link>
-      <description><![CDATA[我正在尝试解决一些难题，确实需要一些指导。我正在开发一个网络应用程序，我决定将事情分成两个平台。我的前端托管在 Netlify 上，后端设置在 Render.com 上。我已使用 Namecheap 注册了我的域名，我正在尝试弄清楚如何让我的主域名指向 Netlify 前端，同时还设置一个指向我的 Render.com 后端的子域名。 （例如 example.com 和 api.example.con）。 以前有人这样做过吗？如何使用 SSL 证书管理 DNS 设置并确保一切安全？非常感谢！   由   提交 /u/itailitai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0z4mn/setting_up_main_domain_and_subdomain_for_frontend/</guid>
-      <pubDate>Tue, 27 Feb 2024 01:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于移动和桌面的简单中小型网站的现代堆栈是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0yey8/whats_modern_stack_for_a_simple_small_to_medium/</link>
-      <description><![CDATA[帮助朋友整理需要在桌面和移动设备上呈现的 20 ~ 200 页网站。其中一些页面将是通用的并且可模板化。目前尚不清楚数据库是否值得打扰，因为它主要是静态一次性写入内容，但编辑每个页面的元数据的某些部分需要更新会很烦人。希望它会随着时间的推移而增长。 我已经很长时间没有为此类事情做过原始 html 或 php 了，所以我想知道当前最喜欢的技术堆栈是什么这？不需要太多花哨的 js。 当前的 html 开发人员是否使用“实时服务器”进行 vscode？扩展，移动/桌面支持的引导程序，一些模板解决方案，用其他一些有用的 js 或 css 库修复？  你使用什么堆栈？ vscode 有哪些扩展？什么 css/js 库？ 谢谢！ ​   由   提交 /u/charlesthayer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0yey8/whats_modern_stack_for_a_simple_small_to_medium/</guid>
-      <pubDate>Tue, 27 Feb 2024 00:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>永久的焦虑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0yeez/permanent_anxiety/</link>
-      <description><![CDATA[只是向其他 Web 开发人员提出的问题。还有其他人对这份工作感到这种永久的焦虑吗？我的意思是，我对获得一个新项目感到焦虑，但当需求不够明确，或者客户觉得我们没有达到他们的期望时也是如此。 此外，在我的指挥下让人们变得更容易我感到焦虑，因为我要为团队的弊端负责，单打独斗让我感觉所有的责任都在我的肩上，当下属让我感觉老板什么都不做，一切都委托给我。 如果该项目采用的是我熟悉的技术，它会让人感觉重复，我担心会陷入困境，但如果它是一项新技术，我就会患上冒名顶替综合症。 所以，换句话说，我会一直焦虑.   由   提交 /u/InformalBandicoot260   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0yeez/permanent_anxiety/</guid>
-      <pubDate>Tue, 27 Feb 2024 00:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0yayh/freelancing_question/</link>
-      <description><![CDATA[你好，我知道 html、css、js、react、node、typescript、prisma、next.js、任何数据库以及与这三个相关的任何内容。 js.所以我想说我在网络开发方面有不错的基础，所以想知道我可以做哪些自由职业。我有一些项目，但它们主要是软件开发，目前，我正在开发一个作品集网站，该网站包含一些使用 Three.js 生态系统的很酷的 3D 场景，我希望完成这个项目，然后使用它来从事自由职业。您认为这是一个好方法吗？另外，尚未极度饱和的自由职业需要哪些技能？我在某处读到，像 3D Web 开发这样的利基领域可能是一个可行的收入来源，但我很想知道你们的想法。谢谢！   由   提交 /u/Atraukos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0yayh/freelancing_question/</guid>
-      <pubDate>Tue, 27 Feb 2024 00:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计实现数字订阅</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0xyt5/design_to_implement_digital_subscription/</link>
-      <description><![CDATA[如何设计 api 并使用它在前端进行验证？例如，我发布 Web 组件，客户只需在其网页上使用脚本。  现在，我捕获一个密钥作为我的 Web 组件的 attr，并在其中进行后端调用。 但是我在多个平台上使用相同的组件，在某些平台中用户已经经过身份验证在这种情况下，就会有多余的调用来检查许可证等。  我无法弄清楚这个的设计模式。  有更好的方法吗？   由   提交/u/pixobe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0xyt5/design_to_implement_digital_subscription/</guid>
-      <pubDate>Tue, 27 Feb 2024 00:34:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
