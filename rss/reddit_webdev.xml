@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 03:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 06:16:16 GMT</lastBuildDate>
+    <item>
+      <title>Netlify 刚刚向我发送了 10.4 万美元的简单静态网站账单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/</link>
+      <description><![CDATA[     &lt; /td&gt; 上周末我收到了 Netlify 发来的一封电子邮件，说我有 104,500.00 美元的账单逾期。起初我以为这是一个笑话或一些诈骗电子邮件，但在检查了我的仪表板后，我似乎真的欠他们 104K 美元： 4天内就有190TB带宽 所以我想😅😅😅也许我可以受到ddos攻击。由于Netlify对超出的带宽收取55美元/100GB的费用，因此2月16日的峰值一天的带宽为33385/55 * 100GB = 60.7TB。我的意思是，这并非不可能，但为什么要攻击像我这样的简单静态网站呢？该网站已在 Netlify 上运行 4 年，并且可以使用免费套餐。每月带宽从未超过 10GB，每天只有约 200 名访客。 我联系了他们的计费支持，他们回复我说他们调查了这个问题，带宽来自一些用户代理，这意味着它是一个DDoS 攻击。然后他们说发生这种情况，他们通常会向客户收取 20% 的费用。而且由于我的金额太大，他们提供了5%的折扣，这意味着我还需要支付5千美元。 这对我来说更像是一个骗局。为什么像 Netlify 和 Vercel 这样的无服务器平台没有 ddos​​ 防护，或者至少没有支出限制？如果支出猛增，他们应该提醒我。我检查了我的收件箱和垃圾邮件文件夹，但什么也没发现。唯一的电子邮件是“为带宽购买的额外使用套餐”。 是的，我已将我的网站迁移到 Cloudflare。吸取了教训，再也不会使用 Netlify（甚至 Vercel）了。 ​   由   提交/u/liubanghoudai24  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/</guid>
+      <pubDate>Tue, 27 Feb 2024 05:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 网络新面貌回顾</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b13l43/review_on_reddits_new_appearance_in_web/</link>
+      <description><![CDATA[开发者您好，您喜欢新的 reddit 的外观和感觉吗？就我而言，今天 UI 发生了相当大的变化。    由   提交/u/WeedLover_1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b13l43/review_on_reddits_new_appearance_in_web/</guid>
+      <pubDate>Tue, 27 Feb 2024 05:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanity + Shopify 氢</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b13i22/sanity_shopify_hydrogen/</link>
+      <description><![CDATA[      社区您好，👋  我只是帮助客户向他们当前的网站添加一个功能，热点地图，技术堆栈是 Hydrogen + Sanity。如果有什么可以帮助您的，请告诉我。 我还尝试使用 Sanity 团队提供的演示工具，并将其添加到我的个人项目中。 （参见演示）    由   提交 /u/Pipe-Silly   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b13i22/sanity_shopify_hydrogen/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮我找到名称 - 4 个字母的网络（作品集）构建器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b135hk/help_me_find_the_name_4_letter_web_portfolio/</link>
+      <description><![CDATA[好吧，标题有点错误，但我在一个清晨仍然昏昏欲睡的情况下在手机上进行深度浏览。可悲的是，它是隐身的，我不小心关闭了整个东西。路径类似于滚动 reddit &gt;很酷的网络应用程序&gt;开发者 github &gt;开发人员“投资组合”/“我”页面.. 在这个我的页面上，它将链接到 github 和其他社交网站.. 包括指向其他​​页面的链接 - 这就是我正在寻找的页面.. 我会尝试总结一些关键标识符.. ​  我相信平台的名称有 4 个字母 它就像一个我的页面/作品集/构建器/博客创建者 它不是什么“专业”的东西，创建的页面通常非常丰富多彩 我认为开发人员经常使用它，但它可能不是专门针对开发人员 人们可以发表评论，开发人员经常使用该平台来展示他们的技能（它看起来并不没有代码，而且该平台似乎专注于开发人员，它不是较大的，如 wix/cardd 或其他东西，如果您不记得自己到底在寻找什么，则很难在 Google 中找到。 在这些网页上，这对于（主要是年轻/正在学习的开发人员）来说并不罕见。相互链接，因此我访问了很多其他用户页面 他们经常以博客风格的方式发布他们的开发旅程 我看到的其他用例，它用于制作一个漂亮的页面来分享您最喜欢的工具（例如备忘单？） 我会将这些页面标记为“炫耀”页面，或者替代方案将它们归类为极具教育意义/有用，因为我登陆的每个页面都有很多有趣的资源。  我知道这是一篇疯狂的帖子，但我一直在修改现在已经几个小时了，希望有人知道我指的是什么，哈哈。   由   提交 /u/MikeSpecter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b135hk/help_me_find_the_name_4_letter_web_portfolio/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业经历</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b133bv/freelancing_experiences/</link>
+      <description><![CDATA[最近我对作为一名网络开发人员开始自由职业的想法很感兴趣，但首先我想听听其他人作为一名网络开发人员的工作经历自由职业者并提出一些问题。我想知道一个刚刚起步的人能赚多少钱。如何将网站交付给客户？我读到过，使用 Node 堆栈更难找到工作，如果我使用 Django 或 Flask 工作会更容易，是这样吗？    由   提交/u/硼酸  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b133bv/freelancing_experiences/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro + TailwindCSS = 最佳自由职业堆栈？商业计划</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b120kb/astro_tailwindcss_best_freelancing_stack_business/</link>
+      <description><![CDATA[像每个普通开发人员一样，我正在考虑为自己建立一项副业。我打算走网页设计路线（虽然我是后端开发人员）。我想尝试针对小型企业，并向他们出售可以改善其数字形象的网站解决方案，也许以后还会追加销售其他服务，例如本地搜索引擎优化、社交媒体营销等。我想额外赚 2-3k 美元。 这是我想要的堆栈。  Astro（我只会构建静态网站，没有什么花哨的）  TailwindCSS 或者 CodeStitch（我最近发现了它们，它们有非常好的模板化部分集合） 用于部署的 Netlify / Vercel。 （我将永远维护这一点。） 用于域名的 NameCheap。 用于托管客户网站代码的 Github 组织。 用于版权保护的 ChatGPT+。 &lt; li&gt;Canva 用于设计，以防万一。 你们推荐的最佳电子邮件托管平台是什么。  业务的 USP  &lt; li&gt;Google LightHouse 和其他网站性能分析工具的 100/100 指标。 同样，加载时间极快。 功能性网页设计。没有废话。 没有 Wordpress 或页面构建器，纯代码。 1 周的交付时间（最初。一旦我为自己构建了一个流程，应该将其减少到 10 小时以下） ） 价格实惠。计划一次性支付 1000 美元起，每月 20 美元用于维护和托管。这包括 5 个具有博客集成的静态页面以及表单。  这个想法是构建一个可以在其他项目中重复使用的模板库。这大大减少了开发时间和工作量。 由于位于印度，我在这里看到的主要问题是，您可以在 100 美元以下完成一个网站，但它们根本不符合任何标准。丑陋的 HTML、Wordpress 无处不在，而且加载时间很慢。 我正在考虑以利基市场为目标。这意味着，一旦我开始从事这项业务，我将瞄准我所在地区及其周边的牙医，并以大约 200 美元的价格为他们建立网站，而不会影响质量。一旦我与几位牙医合作，下一次迭代我就会瞄准瑜伽教练并为他们建立网站。 这将帮助我建立一个投资组合，并接触市场。一旦我建立了一个不错的投资组合，我就会瞄准一个相对较高收入的市场，比如美国或英国，在那里我可以轻松地为每个项目收取 1-2K 美元的费用。 所以，这就是计划。这看起来是不是一个牵强的想法？有人有类似的经历吗？尤其是来自印度的？请告诉我。谢谢！   由   提交 /u/iammukeshm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b120kb/astro_tailwindcss_best_freelancing_stack_business/</guid>
+      <pubDate>Tue, 27 Feb 2024 03:42:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于自由职业者，请收费进行复杂的估算</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b11w8i/for_freelancers_please_charge_money_to_do_complex/</link>
+      <description><![CDATA[我总是看到一些问题，询问在没有足够信息的情况下，您会对一个复杂的网站收取多少费用。 解决方案您是否要求客户收集进行详细报价所需的信息？这包括收集需求、了解他们当前的设置、关于如何编码解决方案的高级设计文档以及报价。在他们付钱给你之前，你最好提供一个非常粗略的大概范围，并检查他们的预算是否在这个范围之内。 这件事很困难，这是一项熟练的工作，最多需要几个小时，而且通常天，所以你应该为此付费。它使您和客户的项目风险大大降低。错误的估算会对双方造成伤害，如果您不收取估算费用，您就会这么做，因为您会尝试尽快完成估算，而不会了解细节。 人们谈论如何更好地估计，但这里的一个重要因素是，除非您在开始之前探索未知因素并消除它们的风险，否则您将会偏离正轨。 &lt;!-- SC_ON - -&gt;  由   提交/u/withoutdefault  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b11w8i/for_freelancers_please_charge_money_to_do_complex/</guid>
+      <pubDate>Tue, 27 Feb 2024 03:36:27 GMT</pubDate>
+    </item>
     <item>
       <title>为什么你在所有不应该使用的情况下都使用 div？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b10iyl/why_do_you_use_divs_for_everything_even_when/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[如何设计 api 并使用它在前端进行验证？例如，我发布 Web 组件，客户只需在其网页上使用脚本。  现在，我捕获一个密钥作为我的 Web 组件的 attr，并在其中进行后端调用。 但是我在多个平台上使用相同的组件，在某些平台中用户已经经过身份验证在这种情况下，就会有多余的调用来检查许可证等。  我无法弄清楚这个的设计模式。  有更好的方法吗？   由   提交/u/pixobe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b0xyt5/design_to_implement_digital_subscription/</guid>
       <pubDate>Tue, 27 Feb 2024 00:34:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>成为开发人员后下一步的想法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0xfpp/thoughts_for_whats_next_after_being_a_developer/</link>
-      <description><![CDATA[从事前端开发大约 7 年了。对此非常满意，目前没有改变的愿望。  但去年我有越来越多的侵入性想法，“如果我醒来并决定不再编写代码，我该怎么办？”我确实感觉有点因没有可靠的后备计划而焦虑。  想知道在没有其他领域的技能/研究的情况下还有谁这么认为，以及您的计划是什么？    由   提交/u/maarzx_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0xfpp/thoughts_for_whats_next_after_being_a_developer/</guid>
-      <pubDate>Tue, 27 Feb 2024 00:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户正在制定从我这里买断代码的付款计划。现在想切换到包月服务。想要回原来的钱。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0v64q/client_was_on_a_payment_plan_to_buyout_the_code/</link>
-      <description><![CDATA[首先我要说的是我提供两种付款结构：  一次性付款，半价工作开始时，另一半交付时。  每月订阅服务，合同结束后他们不会获得任何代码（如果他们选择不续订），但他们可以 24/7 访问我和他们想要在合理范围内进行任何代码编辑。  客户距离完全购买代码还有 2 个月的时间，现在想要重新设计一个完整的网站。我告诉他，他可以切换到包月服务选项，放弃他已经支付的金额，我将设计和建立他新的梦想网站。  他回应说，他希望将月费减少一半，并在他确实想最终买下该新网站时，将所支付的金额视为该新网站的首付款。  你们都怎么想？ 我持观望态度，认为我为我提供的服务付费，而这个新网站是一个完全不同的网站，他将按月付费的新服务。    由   提交 /u/DaErrahs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0v64q/client_was_on_a_payment_plan_to_buyout_the_code/</guid>
-      <pubDate>Mon, 26 Feb 2024 22:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速的 React Web 应用教程推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0usj3/recommendations_for_hard_and_fast_react_web_app/</link>
-      <description><![CDATA[TIA！ 一个朋友的儿子正在寻找一份关于 React 应用程序的深入教程，基础/中级，从头开始进军 webdev 。他还不知道如何部署到 git，但想深入了解教程，然后从中学习。 作为解决方案架构师，我对他来说有点没用，所以我想我会问。他有一个六年级的项目，他想让他的老师惊叹不已。 他愿意支付课程费用，但任何免费的课程都会对行业产生巨大影响。 &lt; p&gt;感谢您的回复！   由   提交 /u/stphngrnr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0usj3/recommendations_for_hard_and_fast_react_web_app/</guid>
-      <pubDate>Mon, 26 Feb 2024 22:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何分析 Java 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0umfx/how_do_i_profile_java_application/</link>
-      <description><![CDATA[大家好，我被分配了一项任务来分析 Java 应用程序，了解为什么它需要这么多内存、核心等，以及如何使用多线程来改进它等等。  我该如何解决这个问题？如何分析部署在 Kubernetes 上的 Java 应用程序？分享一下你在现实生活中遇到过什么有趣的事件吗？  如果您有任何书籍或课程建议，请分享。  谢谢   由   提交 /u/Mindless-Umpire-9395   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0umfx/how_do_i_profile_java_application/</guid>
-      <pubDate>Mon, 26 Feb 2024 22:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助部署多容器网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0t1uf/help_deploying_multicontainer_website/</link>
-      <description><![CDATA[大家好， 我目前在在线部署多容器网站时面临一些挑战。我的设置包括用于后端的 Flask+Gunicorn、用于提供静态文件和 React 内容的 Nginx，以及作为后端的反向代理。 以下是我的设置的简要概述： - 我有一个名为“测试”，我在其中 git 克隆了我的网站项目，名为“网站”。该项目包含两个主要目录：“backend”和“backend”。对于 Flask 和“前端”对于反应。 - 我创建了两个 Dockerfile：一个位于 React 的前端目录中，另一个位于 Flask 的后端目录中。 - 此外，我的项目根目录中有一个 docker-compose.yaml 文件来编排容器。 因此，已成功创建三个映像/容器，每个都可以通过我的本地计算机上的指定端口进行访问。这些容器无缝地协同工作，为我的网站提供支持。值得注意的是，Nginx Dockerfile 是自动生成的。 鉴于此设置，我正在寻求有关将这个多容器网站部署到互联网的最有效且最具成本效益的方法的建议。我感谢任何人提供的任何指导或建议。   由   提交/u/Intelligent-Case-907   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0t1uf/help_deploying_multicontainer_website/</guid>
-      <pubDate>Mon, 26 Feb 2024 21:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>事件冒泡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0ran7/event_bubbling/</link>
-      <description><![CDATA[事件冒泡是好的做法吗？    由   提交/u/beginningofdayz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0ran7/event_bubbling/</guid>
-      <pubDate>Mon, 26 Feb 2024 20:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wappanalyzer 展示了用于新 Reddit UI 的 Python</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0r8ay/wappanalyzer_shows_python_for_new_reddit_ui/</link>
-      <description><![CDATA[reddit 现在使用 django MVT 吗？我以为他们使用 React 或 Next   由   提交/u/Curious_Cantaloupe65   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0r8ay/wappanalyzer_shows_python_for_new_reddit_ui/</guid>
-      <pubDate>Mon, 26 Feb 2024 20:06:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
