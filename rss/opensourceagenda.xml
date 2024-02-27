@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 27 Feb 2024 12:21:16 GMT</lastBuildDate>
-    <item>
-      <title>查找S3帐户</title>
-      <link>https://www.opensourceagenda.com/projects/find-s3-account</link>
-      <description><![CDATA[用于查找 S3 存储桶的 AWS 账户 ID 的示例代码。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/find-s3-account</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>优素福坎布 Tlm</title>
-      <link>https://www.opensourceagenda.com/projects/yusufcanb-tlm</link>
-      <description><![CDATA[本地终端伴侣，由 CodeLLaMa 提供支持。 💻🦙]]></description>
-      <guid>https://www.opensourceagenda.com/projects/yusufcanb-tlm</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:15 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Feb 2024 15:14:13 GMT</lastBuildDate>
     <item>
       <title>Nestjs 奥马缓存</title>
       <link>https://www.opensourceagenda.com/projects/nestjs-omacache</link>
       <description><![CDATA[使用 NestJS 装饰器的灵活、强大且简单的缓存策略]]></description>
       <guid>https://www.opensourceagenda.com/projects/nestjs-omacache</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:15 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:13 GMT</pubDate>
     </item>
     <item>
       <title>开发术语</title>
       <link>https://www.opensourceagenda.com/projects/devterms</link>
       <description><![CDATA[📚 面向开发人员的众包词典。查找各种技术术语、编程术语等的定义！]]></description>
       <guid>https://www.opensourceagenda.com/projects/devterms</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>索引</title>
-      <link>https://www.opensourceagenda.com/projects/insdexer</link>
-      <description><![CDATA[高性能、高度兼容的 EVM Inscriptions 索引器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/insdexer</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>图编辑</title>
-      <link>https://www.opensourceagenda.com/projects/graphedit</link>
-      <description><![CDATA[“GraphEdit：用于图结构学习的大型语言模型”]]></description>
-      <guid>https://www.opensourceagenda.com/projects/graphedit</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:14 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:13 GMT</pubDate>
     </item>
     <item>
       <title>Polyfillpolyfill 获取</title>
       <link>https://www.opensourceagenda.com/projects/polyfillpolyfill-fetch</link>
       <description><![CDATA[window.fetch JavaScript polyfill。]]></description>
       <guid>https://www.opensourceagenda.com/projects/polyfillpolyfill-fetch</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:14 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>查找S3帐户</title>
+      <link>https://www.opensourceagenda.com/projects/find-s3-account</link>
+      <description><![CDATA[用于查找 S3 存储桶的 AWS 账户 ID 的示例代码。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/find-s3-account</guid>
+      <pubDate>Tue, 27 Feb 2024 15:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>优素福坎布 Tlm</title>
+      <link>https://www.opensourceagenda.com/projects/yusufcanb-tlm</link>
+      <description><![CDATA[本地终端伴侣，由 CodeLLaMa 提供支持。 💻🦙]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yusufcanb-tlm</guid>
+      <pubDate>Tue, 27 Feb 2024 15:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>索引</title>
+      <link>https://www.opensourceagenda.com/projects/insdexer</link>
+      <description><![CDATA[高性能、高度兼容的 EVM Inscriptions 索引器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/insdexer</guid>
+      <pubDate>Tue, 27 Feb 2024 15:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>图编辑</title>
+      <link>https://www.opensourceagenda.com/projects/graphedit</link>
+      <description><![CDATA[“GraphEdit：用于图结构学习的大型语言模型”]]></description>
+      <guid>https://www.opensourceagenda.com/projects/graphedit</guid>
+      <pubDate>Tue, 27 Feb 2024 15:14:11 GMT</pubDate>
     </item>
     <item>
       <title>当地抹布</title>
       <link>https://www.opensourceagenda.com/projects/local-rag</link>
       <description><![CDATA[使用开源大型语言模型 (LLM) 提取文件以进行检索增强生成 (RAG)，所有这些都无需第三方或敏感数据离开您的网络。]]></description>
       <guid>https://www.opensourceagenda.com/projects/local-rag</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:13 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:10 GMT</pubDate>
     </item>
     <item>
       <title>快速代理</title>
       <link>https://www.opensourceagenda.com/projects/quickagent</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/quickagent</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:13 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:10 GMT</pubDate>
     </item>
     <item>
       <title>专家稀疏性</title>
       <link>https://www.opensourceagenda.com/projects/expert-sparsity</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/expert-sparsity</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>优先调度员</title>
-      <link>https://www.opensourceagenda.com/projects/prioritydispatcher</link>
-      <description><![CDATA[PriorityDispatcher - 基于 PriorityQueue 的调度程序，用于 Kotlin 协程中任务的优先级排序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/prioritydispatcher</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:12 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:10 GMT</pubDate>
     </item>
     <item>
       <title>GCYZSL莫拉</title>
       <link>https://www.opensourceagenda.com/projects/gcyzsl-mola</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/gcyzsl-mola</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:12 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:09 GMT</pubDate>
     </item>
     <item>
       <title>汽车</title>
       <link>https://www.opensourceagenda.com/projects/automotive</link>
       <description><![CDATA[Rust crate 提供各种汽车相关库，例如与 CAN 接口和诊断 API 进行通信]]></description>
       <guid>https://www.opensourceagenda.com/projects/automotive</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:12 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:09 GMT</pubDate>
     </item>
     <item>
       <title>农场</title>
       <link>https://www.opensourceagenda.com/projects/granges</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/granges</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:12 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:09 GMT</pubDate>
     </item>
     <item>
       <title>涡轮列表</title>
       <link>https://www.opensourceagenda.com/projects/turbolist</link>
       <description><![CDATA[使用 Rails 和 Turbo 8 的 Superlist 的基本克隆]]></description>
       <guid>https://www.opensourceagenda.com/projects/turbolist</guid>
-      <pubDate>Tue, 27 Feb 2024 12:21:11 GMT</pubDate>
+      <pubDate>Tue, 27 Feb 2024 15:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>优先调度员</title>
+      <link>https://www.opensourceagenda.com/projects/prioritydispatcher</link>
+      <description><![CDATA[PriorityDispatcher - 基于 PriorityQueue 的调度程序，用于 Kotlin 协程中任务的优先级排序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/prioritydispatcher</guid>
+      <pubDate>Tue, 27 Feb 2024 15:14:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
