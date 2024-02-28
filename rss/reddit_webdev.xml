@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 12:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 15:12:52 GMT</lastBuildDate>
     <item>
-      <title>我的SE朋友告诉我这是一份很好的简历，但我想问一下你们的想法，因为我从来没有在西方canva简历（我进入大学一年）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b24mao/my_se_friend_told_me_this_is_a_good_resume_but_i/</link>
-      <description><![CDATA[   /u/Mjz11  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b24mao/my_se_friend_told_me_this_is_a_good_resume_but_i/</guid>
-      <pubDate>Wed, 28 Feb 2024 12:12:15 GMT</pubDate>
+      <title>报价估算</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b26n3o/quote_estimation/</link>
+      <description><![CDATA[您好，我正在使用 wordpress 为协会创建一个网站。我很好奇一个具有以下要求的网站从头开始开发的成本如何。对于上下文，我不做网络开发，所以这只是为了比较，我没有足够的知识来猜测。 要求： - 主要空间：一个不花哨的登陆页面，2 个关于页面3 个子信息页面和一个联系页面。 - 内联网空间（每个使用角色显示内容）：博客页面、文档页面、pdf 阅读器、用户配置文件、成员目录、高级日历、多步骤用户创建表单和一些具有自动填充功能的表单。 - 对于管理端：管理用户（更新个人资料、将信息导出为 pdf）、使用模板向角色发送 html 电子邮件、创建新博客文章、创建要在日历中显示的新事件以及将表单导出为 pdf - 全部采用 4 种语言。&lt; /p&gt;   由   提交 /u/quickiler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b26n3o/quote_estimation/</guid>
+      <pubDate>Wed, 28 Feb 2024 13:57:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要一些有关 Graphql 突变的指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b25zh7/wanted_some_guidance_on_graphql_mutations/</link>
+      <description><![CDATA[大家好！ 这里是否有人愿意与我进行 15 分钟的通话引导我完成一个非常大的开源（政府）项目中的一些突变过程？ 我有点陷入困境，同事也没有时间，所以我希望这里有人愿意教我一些问题我就是没能带来突变。这是一个如此大的代码退化，我无法将所有上下文粘贴到这里。 我已经尝试过加载，但很难查明问题是什么，因为我的回答似乎还不错。对于一些上下文，我可以向你们展示这一点，以了解我正在使用的内容。 https://gitlab.com/pleio/frontend/-/commit/6fefb37c65c685777e752c82e9e51ab0bab374bc 这显然是功能分支上的测试提交，因此是硬编码的东西和膨胀。  可以进行 Discord 分享等。非常感谢。   由   提交 /u/Hoxyz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b25zh7/wanted_some_guidance_on_graphql_mutations/</guid>
+      <pubDate>Wed, 28 Feb 2024 13:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有人想请求制作一个前端网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b25sim/anyone_here_wanna_request_to_make_a_frontend_site/</link>
+      <description><![CDATA[我是家里最懒的18岁热爱Web开发的人之一，总之我没什么事可做，甚至在学校里几乎没有，我是一个初学者网络开发人员，但我恳请为你们这些reddit陌生人做一个前端网络服务，给我你们想要我构建的前端的计划和设计，这是我第一次使用next.js 和 vercel 进行部署，但我将使用   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b25sim/anyone_here_wanna_request_to_make_a_frontend_site/</guid>
+      <pubDate>Wed, 28 Feb 2024 13:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Awesome-{placeholder} 到静态可搜索网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b25cw7/awesomeplaceholder_to_static_searchable_website/</link>
+      <description><![CDATA[大家好， 有没有工具可以从 `awesome-xyz` 格式的 md 文件或 yml 生成静态网站？ 我想创建类似的东西：https://kotlin.link/，并且想知道是否有任何具有模板的静态站点生成器。 谢谢！ ​   由   提交 /u/capablesloth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b25cw7/awesomeplaceholder_to_static_searchable_website/</guid>
+      <pubDate>Wed, 28 Feb 2024 12:52:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 React 和 NodeJS 的免费开源 SaaS 入门工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b25cg2/free_opensource_saas_starter_for_react_nodejs/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/hottown  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b25cg2/free_opensource_saas_starter_for_react_nodejs/</guid>
+      <pubDate>Wed, 28 Feb 2024 12:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在全栈应用程序中连接前端和后端以完成图片？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b259ak/how_to_connect_frontend_and_backend_in_a/</link>
+      <description><![CDATA[我是一名自学 Web 开发人员。我已经很好地掌握了纯 HTML、CSS、JS；对一般框架如何工作以及它们试图解决什么问题有很好的理解——我擅长 Vue。我对后端世界也有相当的了解，并且能够在 Express 或 Nestjs 中制作受身份验证和授权保护的 API。 现在的问题是：我已经学习了个人使用中的所有内容，但是当需要将我所知道的一切联系起来时，我却一无所知。  我正在开发我的第一个项目，并且我已经在 Nestjs 中制作了后端，但是现在我已经开始在 Vue 中开发前端，我无法弄清楚如何使用它。  我的意思是我最终能够弄清楚如何获得预期的结果，但我只想以专业的方式做事，而不是让我的应用程序看起来像意大利面条。    由   提交 /u/peculiar_sheikh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b259ak/how_to_connect_frontend_and_backend_in_a/</guid>
+      <pubDate>Wed, 28 Feb 2024 12:46:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者的邮件托管问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2541p/mail_hosting_question_for_developers/</link>
+      <description><![CDATA[嘿！ 所以我有一个带有用户系统的网站。发送电子邮件的目的是：确认注册、忘记密码以及在网站上发布新文章（如果用户选择加入）。 我知道很多邮件提供商不支持发送大量电子邮件 - 但是托管您自己的怎么样？ 我之前使用过 mailcow-dockerized（一个自托管邮件解决方案），效果很好。通过具有专用 IP 的 VPS 托管和发送电子邮件是否是一个好的解决方案，并且大多数 VPS 提供商（如 Hetzner 或 OVH）都允许这样做？ 所以我有一个带有用户系统的网站。发送电子邮件以确认注册、忘记密码以及在网站上发布的新文章（如果用户选择加入）。 我可以使用我的节点向其发送电子邮件的任何优质（廉价）邮件服务器主机。 js/express 项目？   由   提交 /u/tcnoco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2541p/mail_hosting_question_for_developers/</guid>
+      <pubDate>Wed, 28 Feb 2024 12:39:17 GMT</pubDate>
     </item>
     <item>
       <title>为项目创建首页</title>
@@ -29,23 +71,16 @@
     <item>
       <title>低容量交易电子邮件</title>
       <link>https://www.reddit.com/r/webdev/comments/1b24fe6/lowvolume_transactional_email/</link>
-      <description><![CDATA[我在网上进行了搜索，并努力寻找解决此特定问题的方法。我希望你们善良的灵魂能为我指明正确的方向。我们为客户提供定制的网络应用程序。我们使用 Laravel 作为平台。我们是一家小型开发机构。  我自己不是技术人员，但我想我应该尝试 Reddit，而不是进行长时间的讨论来说服我的开发人员放下自尊并向其他开发人员寻求帮助。如果我没有提供足够的技术背景或无法回答您的问题，请提前致歉。 问题... 我们没有数百个客户。我们的客户发送少量交易电子邮件。诸如预订确认和提醒电子邮件等之类的事情。 我们为专用 IP 支付了额外费用，但我相信预热期需要很长时间，并且由于我们已经在该专用 IP 上发生了故障，因此无法启动感觉像是低容量事务性电子邮件的解决方案。 与所有事务性电子邮件一样，它们往往对业务运营至关重要。我讨厌我目前无法为我的客户提供可靠的解决方案。这对我们来说正在成为一个真正的问题。我不确定最近通过 Google、Yahoo 和 Hotmail 进行的全球发送邮件更新是否与此有关，但我需要一种解决混乱的方法。 就像所有提供商都希望您发送数百万封邮件一样垃圾邮件营销电子邮件。或者这只是像我兄弟所说的那样，是互联网的恶作剧？   由   提交/u/funkerley  [链接] [评论]]]></description>
+      <description><![CDATA[我在网上进行了搜索，并努力寻找解决此特定问题的方法。我希望你们善良的灵魂能为我指明正确的方向。我们为客户提供定制的网络应用程序。我们使用 Laravel 作为平台。我们是一家小型开发机构。  我自己不是技术人员，但我想我应该尝试 Reddit，而不是进行长时间的讨论来说服我的开发人员放下自尊并向其他开发人员寻求帮助。如果我没有提供足够的技术背景或无法回答您的问题，请提前致歉。 问题... 我们没有数百个客户。我们的客户发送少量交易电子邮件。诸如预订确认和提醒电子邮件等之类的事情。 我们为专用 IP 支付了额外费用，但我相信预热期需要很长时间，并且由于我们已经在该专用 IP 上发生了故障，因此无法启动感觉像是低容量交易电子邮件的解决方案。 与所有交易电子邮件一样，它们往往对业务运营至关重要。我讨厌我目前无法为我的客户提供可靠的解决方案。这对我们来说正在成为一个真正的问题。我不确定最近通过 Google、Yahoo 和 Hotmail 进行的全球发送邮件更新是否与此有关，但我需要一种解决混乱的方法。 就像所有提供商都希望您发送数百万封邮件一样垃圾邮件营销电子邮件。或者这只是像我兄弟所说的那样，是互联网的恶作剧？   由   提交/u/funkerley  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b24fe6/lowvolume_transactional_email/</guid>
       <pubDate>Wed, 28 Feb 2024 12:01:53 GMT</pubDate>
     </item>
     <item>
       <title>我应该在学习必须管理一切的地方时接受网络开发职位吗</title>
       <link>https://www.reddit.com/r/webdev/comments/1b249eo/should_i_accept_a_web_dev_position_while_studying/</link>
-      <description><![CDATA[我拥有 2.5 年的全栈 Web 开发经验，使用过多种框架和语言，如 django、react、vue、flask、yii2 等。 但现在我正在攻读硕士学位，大约 4 个月没有做过任何编程。我的记忆力确实很差，我相信我已经忘记了我在职业生涯中学到的大部分东西，我的优势是能够快速学习不同的东西，但现在我觉得我已经失去了这种能力。  目前，我收到一份邀请，作为一家公司的唯一开发人员创建一个系统。他们需要的大约 40% 的事情我过去都做过。但我担心我已经忘记了其中大部分是怎么做的，但我对剩下的 60% 的要求没有经验，我害怕接受这个职位，就像我在上一份工作中做过类似的项目一样，我是团队的一员，可以依靠我的团队领导用技术术语向我解释要求并制定要实现的目标。 我的问题是，我是否应该接受这个职位以及应该做什么我愿意？这个职位很重要，因为它可以帮助我在未来 3 个月内找到一个实习机会，而且我听说英国的国际学生很难获得实习机会。 如有任何建议，我们将不胜感激。   由   提交 /u/BonksMan   [链接] [评论]]]></description>
+      <description><![CDATA[我有 2.5 年的全栈 Web 开发经验，使用过多种框架和语言，如 django、react、vue、flask、yii2 等。 但现在我正在攻读硕士学位，大约 4 个月没有做过任何编程。我的记忆力确实很差，我相信我已经忘记了我在职业生涯中学到的大部分东西，我的优势是能够快速学习不同的东西，但现在我觉得我已经失去了这种能力。  目前，我收到一份邀请，作为一家公司的唯一开发人员创建一个系统。他们需要的大约 40% 的事情我过去都做过。但我担心我已经忘记了其中大部分是怎么做的，但我对剩下的 60% 的要求没有经验，我害怕接受这个职位，就像我在上一份工作中做过类似的项目一样，我是团队的一员，可以依靠我的团队领导用技术术语向我解释要求并制定要实现的目标。 我的问题是，我是否应该接受这个职位以及应该做什么我愿意？这个职位很重要，因为它可以帮助我在未来 3 个月内找到一个实习机会，而且我听说英国的国际学生很难找到实习机会。 如有任何建议，我们将不胜感激。   由   提交 /u/BonksMan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b249eo/should_i_accept_a_web_dev_position_while_studying/</guid>
       <pubDate>Wed, 28 Feb 2024 11:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebGPU</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b248fv/webgpu/</link>
-      <description><![CDATA[我想在大学项目中使用 webgpu，有推荐的框架吗？   由   提交/u/No_Grand_3873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b248fv/webgpu/</guid>
-      <pubDate>Wed, 28 Feb 2024 11:50:46 GMT</pubDate>
     </item>
     <item>
       <title>copyprogramming.com 背后是什么？</title>
@@ -55,60 +90,25 @@
       <pubDate>Wed, 28 Feb 2024 11:22:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何将检查元素的窗格保持在这个位置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b234vv/how_to_keep_the_pane_of_inspect_element_in_this/</link>
-      <description><![CDATA[      https://preview.redd.it/4cbk63c72blc1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=8e60d1b98 c5b3f1b4c5706280512a47fee544068 如何将检查元素的窗格保持在这个位置？我不希望它停靠在一侧或与底部的网站重叠，因为它会影响其他元素的位置，或者在这种情况下隐藏某些元素。在屏幕截图中，网页被缩小以使其占据计算机屏幕的面积减少，并且检查窗格通过将窗格停靠在底部而没有与网站重叠，而是位于网页下方的空白区域。 我正在 Windows 10 中使用 Brave 浏览器，使用浏览器开发人员工具检查元素。   由   提交 /u/TruthSeekerHumanist   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b234vv/how_to_keep_the_pane_of_inspect_element_in_this/</guid>
-      <pubDate>Wed, 28 Feb 2024 10:43:35 GMT</pubDate>
+      <title>客户想通过电子商务利润支付给我，我对此不确定。建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1zjjx/client_wants_to_pay_me_through_ecommerce_profits/</link>
+      <description><![CDATA[我刚刚与客户通了电话，讨论为他们构建一些网站。他们想要 1 个静态网站和 4 个电子商务网站。我告诉他们，我通常按每个网站收取统一费用，并在网站完成后免费提供 3 个月的维护阶段，以进行编码更改并确保一切按预期运行。 3 个月后，我将按小时收取任何进一步的工作和维护费用。 他们建议我通过电子商务网站的利润获得报酬 - 并希望与我。他们告诉我他们有现有客户并且已经赚钱了。 我目前有一份开发人员的全职工作，所以我担心如果我这样做，我所有的时间都会被占用通过利润支付，因为我不想对我的可用性产生任何错误的期望，而获得利润意味着他们可能会试图骚扰我做很多工作。 我通常的工作流程是当我在全职工作的同时还有客户来完成工作时，我会全力以赴地完成工作。我担心以利润支付意味着网站建成后客户会对我产生不合理的期望。 网站建成后，我建议最长工作时间是否不合理？每周为他们工作？例如，每周工作 5 小时，支付我所有利润的 2%。增加到 3%，持续 10 小时等等。 任何建议将不胜感激。   由   提交 /u/Diddye   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1zjjx/client_wants_to_pay_me_through_ecommerce_profits/</guid>
+      <pubDate>Wed, 28 Feb 2024 06:45:05 GMT</pubDate>
     </item>
     <item>
-      <title>这让我觉得我永远都不够擅长编程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2334c/it_makes_me_feel_like_ill_never_be_good_enough/</link>
-      <description><![CDATA[      特别是如果它是 React 或 Web 开发或诸如编程之类的东西。只是 f@cking 做了一个提交，我简化了移动菜单的逻辑，并在移动菜单上添加了登录页面的链接。好的。链接在哪里？没有任何。好的。写了 / 而不是 #，认为它会起作用，甚至不检查它，只是在晚上相信我的大脑（永远不要相信它，特别是在 23:00 之后）并认识到不，f@cking 不，这不是 /，它/符号。使用 git ammend --noedit。提交...并查看与那些 f@cking / 和 /sign 的冲突。终于，我完了，现在这个丢脸的事情就变成这个样子了。我讨厌自己   由   提交 /u/SelectCount7059   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2334c/it_makes_me_feel_like_ill_never_be_good_enough/</guid>
-      <pubDate>Wed, 28 Feb 2024 10:40:26 GMT</pubDate>
+      <title>我需要 Flexbox 方面的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1tn4y/i_need_help_with_flexbox/</link>
+      <description><![CDATA[出于某种原因，我真的很难在我的项目中实现 Flexbox 并使一切正常工作。我已经把 display: flex; flex-direction: column; 所有内容都按预期垂直显示，但我有一些问题：  如何让 div 元素全部位于同一行？我尝试过 display: inline/其他几种解决方案 如何更改 div 之间的（垂直）填充？我尝试将填充值放在元素、div 和 flexbox div 上，但没有任何效果 我尝试使用 display: inline; 消除 h 的自动换行符  code&gt; 但这不起作用。 （无关）当准备供公众使用时，如何轻松混淆/隐藏我的代码和样式？如果重要的话我正在使用 Flask。我看到每个网站的 js 和 CSS 都压缩在一行中，所有 js 变量都是毫无意义的字母。我在网上查了一下，只看到了可以上传单个文件/粘贴代码的网站。  今天和昨天的大部分时间我都被这些问题困扰，我将不胜感激。 !   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1tn4y/i_need_help_with_flexbox/</guid>
+      <pubDate>Wed, 28 Feb 2024 01:42:57 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建侧边栏导航 Tailwind CSS 和 Alpine.js。观看直播并获取代码。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b22me6/how_to_create_a_sidebar_navigation_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建侧边栏导航[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b22me6/how_to_create_a_sidebar_navigation_tailwind_css/</guid>
-      <pubDate>Wed, 28 Feb 2024 10:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以从浏览器选项卡录制音频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b22cfk/is_it_possible_to_record_audio_from_a_browser_tab/</link>
-      <description><![CDATA[我们创建了一个用于音频处理的 Web 应用程序。现在，客户端想要从 Web 应用程序之外的任何浏览器选项卡录制音频。想想 loom.com 或通过 Google meet 共享选项卡，但我们需要录制该特定选项卡的音频输出，而不是录制视频。 这可能吗？有没有相关的 Web API 或 Javascript 库？   由   提交 /u/lynob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b22cfk/is_it_possible_to_record_audio_from_a_browser_tab/</guid>
-      <pubDate>Wed, 28 Feb 2024 09:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为令人兴奋的渲染农场项目寻找充满热情的 Web 开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b21wna/seeking_passionate_web_developer_for_exciting/</link>
-      <description><![CDATA[您好， 我目前正在寻找一位才华横溢、充满热情的 Web 开发人员，他与我一样热衷于创造酷炫的东西。这是一个个人项目，我的目标是建立一个在线免费渲染农场，并且我正在寻找致力于在这个小但有意义的项目上进行合作的人。 项目详细信息：  目标：开发一个实用的在线渲染农场。 您的角色：创建一个用户友好的网站和后端解决方案。 我的贡献：我将提供项目所需的服务器。 报酬： strong&gt; 此次合作的预算在 150 美元到 250 美元之间（针对 Web 开发人员）  为什么合作？ 这个项目非常贴近我的心意，因为主要目标是让社区免费使用渲染农场。如果您正在寻求合作并热衷于产生积极影响，我很乐意听取您的意见。 有兴趣或有疑问吗？请随时与我们联系，让我们讨论如何共同实现这个项目。 欢迎所有好的想法，基本上我知道它应该如何工作，我只是不是开发人员，我是 3D 艺术家.   由   提交 /u/Junket_Standard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b21wna/seeking_passionate_web_developer_for_exciting/</guid>
-      <pubDate>Wed, 28 Feb 2024 09:21:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于我的用例来说，Canvas 比 html 元素更好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b21kkl/is_canvas_better_than_html_elements_for_my_use/</link>
-      <description><![CDATA[我正在使用 svelte 构建一个供个人使用的“新选项卡”扩展，并希望其中包含小部件。  目前我有一个模拟时钟、一个翻转时钟和一个相框，可以从 Reddit 上随机获取猫的图片。它确实有效，但我想知道当我将来添加更多小部件时，在画布中绘制这些是否会使速度更快。   由   提交 /u/ZyanCarl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b21kkl/is_canvas_better_than_html_elements_for_my_use/</guid>
-      <pubDate>Wed, 28 Feb 2024 08:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的简历有什么问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b21h6r/whats_wrong_with_my_resume/</link>
-      <description><![CDATA[       由   提交/u/Burning_Ph0enix  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b21h6r/whats_wrong_with_my_resume/</guid>
-      <pubDate>Wed, 28 Feb 2024 08:52:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个服务/API/来源，我可以从中获取有关公司所有者的信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b213i0/looking_for_a_serviceapisource_where_i_can_pull/</link>
-      <description><![CDATA[大家好， 我正在寻找一个可以提取有关公司所有者信息的服务/API/源。例如，关于萨蒂亚纳德拉。带有个人简介和社交资料链接。  我尝试使用 ChatGPT 和 Google LM API，但两者都会生成不切实际的事实😢   由   提交 /u/bohdan-v   /u/bohdan-v  reddit.com/r/webdev/comments/1b213i0/looking_for_a_serviceapisource_where_i_can_pull/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b213i0/looking_for_a_serviceapisource_where_i_can_pull/</guid>
-      <pubDate>Wed, 28 Feb 2024 08:26:21 GMT</pubDate>
+      <title>了解如何将 Angular 项目投入生产</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1sihb/understanding_how_to_take_an_angular_project_into/</link>
+      <description><![CDATA[我一直在学习如何使用 Node.js 和 Angular 构建 SPA。我以前主要在 PHP、Apache、Wordpress 等方面有经验。在大多数情况下，我了解如何在需要这些类型的项目时设置文件权限（或者大多数时候主机已经根据需要设置了它们以保证安全）。  我已经编译并运行了我的 Angular 项目的本地服务器，这很棒，但它是在安全和攻击向量无关的围墙花园中完成的。 我一直在学习 Angular从 Angular 站点上的教程进行构建，但想知道是否有任何可靠的资源可用于学习如何使用反向 Apache 代理和/或必要的权限和保护来正确启动项目并设置服务器？ 据我了解，不同项目的权限可能有所不同，但我认为在深入讨论具体情况之前，有一个起点和最佳实践。 TIA !   由   提交 /u/WatchOutHesBehindYou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1sihb/understanding_how_to_take_an_angular_project_into/</guid>
+      <pubDate>Wed, 28 Feb 2024 00:51:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
