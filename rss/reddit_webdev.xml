@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 00:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 03:13:27 GMT</lastBuildDate>
+    <item>
+      <title>如何快速掌握CS基础知识？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1uzng/how_can_i_quickly_gain_knowledge_of_cs/</link>
+      <description><![CDATA[我想了解更多我可能不知道的事情。我可以学习语言，并且一般性地了解系统的工作原理，但对时间复杂度之类的东西一无所知。   由   提交/u/IdeaExpective3073  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1uzng/how_can_i_quickly_gain_knowledge_of_cs/</guid>
+      <pubDate>Wed, 28 Feb 2024 02:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些关于如何开发“接受/拒绝更改”GUI 的指导。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1urfi/need_some_mentoring_on_how_to_develop_an/</link>
+      <description><![CDATA[      大家好， 我经常使用 ChatGPT它让我开发了一个编辑器工具，可以对 OpenAI 进行 API 调用，以便取回编辑后的文本。然后，该工具使用 Diff-Match_Patch 查找差异并创建 HTML 页面供用户查看他们。  我已经能够使用 JavaScript 创建一个非常基本的方法，供用户接受和拒绝更改。每一个变化都是成对出现的。如您在顶部看到的，如果用户单击红色“m”，则简单的字母更改可以被拒绝；如果用户单击绿色“M”，则可以接受简单的字母更改。基本上，您点击的内容就是您保留的内容。 对于单次插入或删除的更改，我必须插入自己的图标以确保它们成对出现。 ” ✓”图标接受删除，而“⛔”表示接受删除。图标拒绝插入（这些在图中的第 3 行可见）。这允许简单地直接在更改上单击左键来接受或拒绝任何内容，但它看起来很糟糕，而且不那么直观。不过，我不知道如何实现更复杂的东西。 我想创建一些利用鼠标悬停的东西。例如，如果鼠标悬停在更改上，则会出现一对“接受”按钮。或“拒绝”链接悬停在线上方。或者让按钮浮动在右侧边缘。我也很想创建一个“撤消”功能按钮，以便可以撤消用户最近的操作。最后，我想创建一个“跳转到下一个更改”的选项。按钮。 这对我来说是一个学习项目，所以我真的不知道下一步是什么。到目前为止，我只使用纯 JavaScript 和 CSS。如果有人可以就此向我提供建议或愿意与我合作，请发表评论。  https://preview.redd .it/zyda796li8lc1.png?width=1323&amp;format=png&amp;auto=webp&amp;s=90700c4e8877fb59d3b236744e64ce4a6bb1b481   由   提交 /u/JuneFernan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1urfi/need_some_mentoring_on_how_to_develop_an/</guid>
+      <pubDate>Wed, 28 Feb 2024 02:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>附加的跨度以错误的顺序添加</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1tr4p/appended_spans_being_added_in_incorrect_order/</link>
+      <description><![CDATA[我使用 setInterval 将文本打印到类似于 RPG 的 div 中。如果 div 被导航离开，文本将被存储并保留，以便可以保留它，并在 div 再次可见时恢复打印。 存储的文本（如果有）将附加到空文本中。首先是 div，然后继续打印。但是，新生成的文本出现在之前附加的文本之前，它似乎出现在前面的正确位置，而不停留在那里。 我知道这很模糊，但我有一个 StackBlitz 使用里面的所有代码创建显示我的意思，因为这比我在这里解释它更容易看到。 我只是希望文本按预期附加 - 在存储的内容之后而不是在前面。在 StackBlitz 中开始打印，然后来回切换可见性以查看其实际情况。任何见解将不胜感激。   由   提交 /u/PartTimePoster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1tr4p/appended_spans_being_added_in_incorrect_order/</guid>
+      <pubDate>Wed, 28 Feb 2024 01:48:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使网格元素正确调整大小时遇到​​问题，css。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1tdw5/having_problems_getting_element_of_grid_to_resize/</link>
+      <description><![CDATA[      大家好，我定义了一个网格，如下所示。但由于某种原因，“del”并编辑”被挤压到右侧，标题占用了太多空间。有趣的是，如果我将第四个“标题”替换为使用 del 问题得到修复，并且标题完全位于预期的左侧。什么愚蠢的事情我没看到？  .deck_grid{ 显示：网格； /* 网格模板列: 重复(2, minmax(250px, 1fr)); */ grid-template-areas: &#39;header header header header del edit&#39; &#39;left left left right right right&#39;; /* 网格间隙: 10px; */ 宽度：90%；保证金：自动；文本对齐：居中； /* 行距: 50px; */ }   https://preview.redd.it/wzzystlqb8lc1.png?width=1106&amp;format=png&amp;auto=webp&amp;s=5791337c6525579fa768d91333b51d13dc6e2761 将网格更改为“header header header del del”后编辑&#39;  https://preview .redd.it/3o6eocdsb8lc1.png?width=1027&amp;format=png&amp;auto=webp&amp;s=f1af6dbca87b3c1a2c2732fb4aa96c9b40111a76 ​   由   提交 /u/ProjectObjective   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1tdw5/having_problems_getting_element_of_grid_to_resize/</guid>
+      <pubDate>Wed, 28 Feb 2024 01:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为设计师到开发人员的过渡需要多长时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1su8z/how_long_do_you_think_a_designer_to_developer/</link>
+      <description><![CDATA[我是一名想要转型的设计师。我已经有了 CSS 和 HTML 的基础，对 JavaScript 有了基本的了解（我用一些基本的 JavaScript 构建了一些静态网站，这些基本的 JavaScript 是我通过谷歌搜索找到的）。我计划学习更多 JavaScript 以及如何在 Wordpress 上编写代码，但不确定需要花多少时间才能足够熟练地开始申请入门级职位或实习，或者我应该花时间使用哪些其他语言学习。我希望了解以前做过类似转变的任何人的见解。   由   提交/u/loganmorganml1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1su8z/how_long_do_you_think_a_designer_to_developer/</guid>
+      <pubDate>Wed, 28 Feb 2024 01:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器支持政策</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1sk01/browser_support_policies/</link>
+      <description><![CDATA[我只是想知道有多少人对新项目有标准的浏览器支持策略？ 我当前的策略是“最后”所有常青浏览器的 2 个版本”。这在几年前似乎是一个流行的解决方案，但我不确定这是否还有意义。 Safari 并不是真正的常青浏览器，Chrome/edge/firefox 每年都会发布一个新版本一个月 - 所以 2 个版本没什么。 我想知道是否更好的政策是：  任何拥有 x% 全球市场份额的浏览器。  最近 y 个月发布的这些浏览器的任何版本    由   提交 /u/MrMorbid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1sk01/browser_support_policies/</guid>
+      <pubDate>Wed, 28 Feb 2024 00:53:09 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以校对网站的人工智能工具？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b1sf5j/is_there_an_ai_tool_to_proofread_a_website/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[标题   由   提交/u/Logical_Cherry_7588   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b1pai5/what_is_an_element_called_that_must_have_a/</guid>
       <pubDate>Tue, 27 Feb 2024 22:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>抢先体验/测试版新社交网络</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1odap/early_accessbeta_testing_new_social_network/</link>
-      <description><![CDATA[嗨！多年来我一直在随意进行网络开发，但从未正确启动过任何我感兴趣的项目。我即将完成一个新社交网站的最后阶段，该网站从 Reddit、TikTok 和 Instagram 中汲取灵感。我正在寻找一些人来点击并让我知道他们的想法。如果您愿意花几分钟时间，请在下面发表评论，我将讨论详细信息。谢谢 🙂   由   提交/u/glendale87  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1odap/early_accessbeta_testing_new_social_network/</guid>
-      <pubDate>Tue, 27 Feb 2024 21:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>迁移到单一存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1nc59/migrating_to_a_monorepo/</link>
-      <description><![CDATA[正如标题所示，我的团队希望从 3 个单独的存储库迁移到一个单一存储库，该存储库将容纳我们所有的 UI/UX 共享组件和代码对于我们的前端产品。  我正在研究这里的最佳方法，但我想在这里询问是否有人有任何建议。 对于上下文：我们使用 TS/React、npm、parcel 和tsc。对于部署，我们使用 GitHub Actions。  我主要关心的是： 1. 我们如何才能有效地做到这一点，这样人们就不会因为担心失去工作/分支而无法进行开发 2. 与上述内容有点相关，但是否存在我们可以保留 git 历史记录/分支的方法吗？根据我读过的一些 SO 帖子，似乎是的，但很好奇它对其他人来说有多成功 3. 迁移到 monorepo 是否有任何重大陷阱（除了代码库的大小） &lt; !-- SC_ON --&gt;  由   提交 /u/ImWithKatya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1nc59/migrating_to_a_monorepo/</guid>
-      <pubDate>Tue, 27 Feb 2024 21:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>此 ICANN 信息意味着什么？处于“赎回期”但要到六月才到期？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1m2pv/what_does_this_icann_info_mean_in/</link>
-      <description><![CDATA[   我有一位客户想要此 URL，但我从未见过这种状态组合。如果几个月都没有过期，为什么会处于赎回期？   由   提交 /u/atalkingfish   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1m2pv/what_does_this_icann_info_mean_in/</guid>
-      <pubDate>Tue, 27 Feb 2024 20:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Swagger v2 示例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1m0du/open_source_swagger_v2_examples/</link>
-      <description><![CDATA[我正在寻找使用 json 和版本 2 的开放式 swagger 示例，例如 Petstore ( petstore.swagger.io），但找不到任何。有什么建议吗？   由   提交 /u/haasilein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1m0du/open_source_swagger_v2_examples/</guid>
-      <pubDate>Tue, 27 Feb 2024 20:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解速度指数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1lwp1/understanding_speed_index/</link>
-      <description><![CDATA[       加载时间为1.7秒，为什么速度指数是橙色？  Lighthouse 确定分数的方式以及我从 PageSpeed 洞察中得到的结果如下 ​ ​  https://preview.redd.it/1az1nrn3s6lc1.png？ width=881&amp;format=png&amp;auto=webp&amp;s=d55962c7c1d1a886cd033c663a1aea80b0242ff9 https://preview.redd.it/i6ab7e26s6lc1.png?width=915&amp;format=png&amp;auto=webp&amp;s=33237fdf2a197a861f3fdea6 f1d8d8859c2545c6 &lt; /div&gt;  由   提交/u/bartsimpson09   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1lwp1/understanding_speed_index/</guid>
-      <pubDate>Tue, 27 Feb 2024 20:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个垂直的 Flex div，在它里面，我如何拥有一个在同一行上有元素的 div</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b0snfk/i_have_a_vertical_flex_div_inside_it_how_do_i/</link>
-      <description><![CDATA[  ...   这是季节吗：  &lt;/div&gt; CSS: .new_tournament div { justify-content: center;显示：柔性；弹性方向：列；对齐项目：居中； }  抱歉，如果这很简单，我尝试用谷歌搜索它，但没有任何效果   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b0snfk/i_have_a_vertical_flex_div_inside_it_how_do_i/</guid>
-      <pubDate>Mon, 26 Feb 2024 21:01:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
