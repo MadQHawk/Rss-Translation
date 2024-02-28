@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 28 Feb 2024 15:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 18:15:20 GMT</lastBuildDate>
     <item>
-      <title>与 Meta 谈判的不成文规则（到目前为止）</title>
-      <link>https://www.reddit.com/r/programming/comments/1b288yq/the_unwritten_rules_till_now_of_negotiating_with/</link>
-      <description><![CDATA[ 由   提交/u/Clarity_89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b288yq/the_unwritten_rules_till_now_of_negotiating_with/</guid>
-      <pubDate>Wed, 28 Feb 2024 15:08:56 GMT</pubDate>
+      <title>评论就是代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c8xx/comments_are_code/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c8xx/comments_are_code/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:45:48 GMT</pubDate>
     </item>
     <item>
-      <title>[免费公开测试版] 查看我们基于 AsciiDoc 的新技术写作软件（Mac 和 iPad）</title>
-      <link>https://www.reddit.com/r/programming/comments/1b27m3w/free_public_beta_check_out_our_new_technical/</link>
-      <description><![CDATA[ 由   提交/u/adoc-studio  /u/adoc-studio  adoc-studio.app/beta/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b27m3w/free_public_beta_check_out_our_new_technical/</guid>
-      <pubDate>Wed, 28 Feb 2024 14:41:05 GMT</pubDate>
+      <title>在技​​术预览版中引入 QtAsyncio</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c8xe/introducing_qtasyncio_in_technical_preview/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c8xe/introducing_qtasyncio_in_technical_preview/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:45:47 GMT</pubDate>
     </item>
     <item>
-      <title>大型可重复使用的东西很复杂</title>
-      <link>https://www.reddit.com/r/programming/comments/1b27i1q/big_reusable_things_are_complex/</link>
-      <description><![CDATA[ 由   提交/u/endlessvoid94  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b27i1q/big_reusable_things_are_complex/</guid>
-      <pubDate>Wed, 28 Feb 2024 14:35:56 GMT</pubDate>
+      <title>SECOMP：分段 C 程序的正式安全编译</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c8wb/secomp_formally_secure_compilation_of/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c8wb/secomp_formally_secure_compilation_of/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>在 Visual Studio 中查看 Entity Framework Core 查询计划！</title>
-      <link>https://www.reddit.com/r/programming/comments/1b27eet/view_entity_framework_core_query_plan_inside/</link>
-      <description><![CDATA[ 由   提交/u/mcnamaragio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b27eet/view_entity_framework_core_query_plan_inside/</guid>
-      <pubDate>Wed, 28 Feb 2024 14:31:25 GMT</pubDate>
+      <title>不只是 NVIDIA：GPU 编程可以在任何地方运行</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c8v4/not_just_nvidia_gpu_programming_that_runs/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c8v4/not_just_nvidia_gpu_programming_that_runs/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>Booking.com 使用 DORA 指标和微前端将交付性能提高一倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1b273bj/bookingcom_doubles_delivery_performance_using/</link>
-      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b273bj/bookingcom_doubles_delivery_performance_using/</guid>
-      <pubDate>Wed, 28 Feb 2024 14:17:16 GMT</pubDate>
+      <title>了解 GPU 缓存</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c8tr/understanding_gpu_caches/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c8tr/understanding_gpu_caches/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Airbyte 和 Pathway 的 Python ETL</title>
-      <link>https://www.reddit.com/r/programming/comments/1b26t4u/python_etl_with_airbyte_and_pathway/</link>
-      <description><![CDATA[ 由   提交/u/arimbr  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b26t4u/python_etl_with_airbyte_and_pathway/</guid>
-      <pubDate>Wed, 28 Feb 2024 14:04:25 GMT</pubDate>
+      <title>杰文斯悖论并不总是适用于软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c6m1/jevons_paradox_doesnt_always_apply_to_software/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c6m1/jevons_paradox_doesnt_always_apply_to_software/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:43:22 GMT</pubDate>
     </item>
     <item>
-      <title>在恶劣环境中交付高质量软件</title>
-      <link>https://www.reddit.com/r/programming/comments/1b26mw8/shipping_quality_software_in_hostile_environments/</link>
-      <description><![CDATA[ 由   提交/u/allixsenos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b26mw8/shipping_quality_software_in_hostile_environments/</guid>
-      <pubDate>Wed, 28 Feb 2024 13:56:43 GMT</pubDate>
+      <title>M-x Reloaded：Emacs 的第二个黄金时代</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c5ya/mx_reloaded_the_second_golden_age_of_emacs/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c5ya/mx_reloaded_the_second_golden_age_of_emacs/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:42:38 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 令人兴奋的发布：电子商务网站 v1.0.0 与 Razorpay 和 Google Auth 集成！</title>
-      <link>https://www.reddit.com/r/programming/comments/1b26irk/exciting_release_ecommerce_website_v100_with/</link>
-      <description><![CDATA[ 由   提交/u/Pritish1808  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b26irk/exciting_release_ecommerce_website_v100_with/</guid>
-      <pubDate>Wed, 28 Feb 2024 13:51:04 GMT</pubDate>
+      <title>Anansi：向 Python 字符串添加简单标签，让它们变得漂亮</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c5ht/anansi_add_simple_tags_to_python_strings_to_make/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c5ht/anansi_add_simple_tags_to_python_strings_to_make/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:42:09 GMT</pubDate>
     </item>
     <item>
-      <title>FFmpeg twitter 超级疯狂</title>
-      <link>https://www.reddit.com/r/programming/comments/1b26gsl/ffmpeg_twitter_is_super_unhinged/</link>
-      <description><![CDATA[ 由   提交/u/DataBaeBee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b26gsl/ffmpeg_twitter_is_super_unhinged/</guid>
-      <pubDate>Wed, 28 Feb 2024 13:48:30 GMT</pubDate>
+      <title>Claro 编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c4pw/the_claro_programming_language/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c4pw/the_claro_programming_language/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:41:24 GMT</pubDate>
     </item>
     <item>
-      <title>在 TypeScript 中使用泛型：实用指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1b260cl/using_generics_in_typescript_a_practical_guide/</link>
-      <description><![CDATA[ 由   提交/u/Clarity_89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b260cl/using_generics_in_typescript_a_practical_guide/</guid>
-      <pubDate>Wed, 28 Feb 2024 13:25:41 GMT</pubDate>
+      <title>关于编写 Unix 守护进程的一些思考</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c4p4/some_reflections_on_writing_unix_daemons/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c4p4/some_reflections_on_writing_unix_daemons/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:41:23 GMT</pubDate>
     </item>
     <item>
-      <title>白宫敦促开发人员放弃 C 和 C++</title>
-      <link>https://www.reddit.com/r/programming/comments/1b2560n/white_house_urges_developers_to_dump_c_and_c/</link>
-      <description><![CDATA[ 由   提交/u/bambin0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b2560n/white_house_urges_developers_to_dump_c_and_c/</guid>
-      <pubDate>Wed, 28 Feb 2024 12:42:06 GMT</pubDate>
+      <title>Go 枚举很糟糕</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c4nj/go_enums_suck/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c4nj/go_enums_suck/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:41:20 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 UUID7 作为 RDBMS 中的聚集索引比 UUID4 更好</title>
-      <link>https://www.reddit.com/r/programming/comments/1b24z57/why_uuid7_is_better_than_uuid4_as_clustered_index/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b24z57/why_uuid7_is_better_than_uuid4_as_clustered_index/</guid>
-      <pubDate>Wed, 28 Feb 2024 12:32:04 GMT</pubDate>
+      <title>不合理的有效 - 视频游戏如何使用 LUT 以及您也可以如何使用</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c4ni/unreasonably_effective_how_video_games_use_luts/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c4ni/unreasonably_effective_how_video_games_use_luts/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:41:20 GMT</pubDate>
     </item>
     <item>
-      <title>免费预注册 News API</title>
-      <link>https://www.reddit.com/r/programming/comments/1b24uh2/pre_register_for_news_api_for_free/</link>
-      <description><![CDATA[ 由   提交 /u/Far-Amphibian3043   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b24uh2/pre_register_for_news_api_for_free/</guid>
-      <pubDate>Wed, 28 Feb 2024 12:25:01 GMT</pubDate>
+      <title>通用域类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c0zd/universal_domain_types/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c0zd/universal_domain_types/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:37:30 GMT</pubDate>
     </item>
     <item>
-      <title>为什么您的人工智能编码英雄需要安全助手</title>
-      <link>https://www.reddit.com/r/programming/comments/1b23ilt/why_your_ai_coding_hero_needs_a_security_sidekick/</link>
-      <description><![CDATA[ 由   提交/u/dennistitze  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b23ilt/why_your_ai_coding_hero_needs_a_security_sidekick/</guid>
-      <pubDate>Wed, 28 Feb 2024 11:07:31 GMT</pubDate>
+      <title>SymPy：Python 中的符号数学</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c0a6/sympy_symbolic_mathematics_in_python/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c0a6/sympy_symbolic_mathematics_in_python/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>React 与 Vue 的前端对比</title>
-      <link>https://www.reddit.com/r/programming/comments/1b232fx/react_vs_vue_for_frontend/</link>
-      <description><![CDATA[ 由   提交/u/abhinotsogood  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b232fx/react_vs_vue_for_frontend/</guid>
-      <pubDate>Wed, 28 Feb 2024 10:39:13 GMT</pubDate>
+      <title>1 位法学硕士时代：用于经济高效计算的三元参数</title>
+      <link>https://www.reddit.com/r/programming/comments/1b2c09n/the_era_of_1bit_llms_ternary_parameters_for/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b2c09n/the_era_of_1bit_llms_ternary_parameters_for/</guid>
+      <pubDate>Wed, 28 Feb 2024 17:36:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
