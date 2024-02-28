@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 09:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 12:20:21 GMT</lastBuildDate>
+    <item>
+      <title>需要一个localhost代理服务器程序</title>
+      <link>https://www.reddit.com/r/software/comments/1b24hrx/need_a_localhost_proxy_server_program/</link>
+      <description><![CDATA[通常需要某种可以充当代理服务器的程序。 我不需要任何过于高级的东西，因为我我用来绕过某些网站的速率限制的抓取程序只需要多个 IP 地址。   由   提交 /u/RedNapalm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b24hrx/need_a_localhost_proxy_server_program/</guid>
+      <pubDate>Wed, 28 Feb 2024 12:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有任何应用程序可以自动排列不同的设计进行打印</title>
+      <link>https://www.reddit.com/r/software/comments/1b24cvs/is_there_any_application_to_auto_arrange/</link>
+      <description><![CDATA[所以我有多种设计，有些小​​的，有些大的，这些设计将被热传递。我想将它们排列成 2 米纸卷进行打印，以最佳地适应大多数设计。   由   提交 /u/ViktorZackeryMaddox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b24cvs/is_there_any_application_to_auto_arrange/</guid>
+      <pubDate>Wed, 28 Feb 2024 11:58:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.0 和 KDE Gear 24.02 发布</title>
+      <link>https://www.reddit.com/r/software/comments/1b243on/kde_plasma_60_and_kde_gear_2402_released/</link>
+      <description><![CDATA[ 由   提交 /u/JRepin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b243on/kde_plasma_60_and_kde_gear_2402_released/</guid>
+      <pubDate>Wed, 28 Feb 2024 11:42:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 3D 城市和交通设计/构建软件</title>
+      <link>https://www.reddit.com/r/software/comments/1b23jlb/looking_for_3d_city_and_traffic_designerbuilder/</link>
+      <description><![CDATA[有人知道可以在城市和乡村道路上构建整个城市以及交通场景的软件吗？我知道“走鹃” “维康”。我没有想到 Unity 和 Blender，我必须自己构建每个资产，而更像是拖放，可以添加我自己的资产。 编辑：如果是的话，那就更好了可以将汽车、摩托车或卡车内的视图更改为 thridpersonview。   由   提交 /u/PenusVenus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b23jlb/looking_for_3d_city_and_traffic_designerbuilder/</guid>
+      <pubDate>Wed, 28 Feb 2024 11:09:19 GMT</pubDate>
+    </item>
     <item>
       <title>类似于流化身的程序？</title>
       <link>https://www.reddit.com/r/software/comments/1b1y1as/program_akin_to_stream_avatars/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[因为工作的原因，我总是打开几十个软件。 不过，我用得最多的还是Windows资源管理器在文件之间导航。 是否有软件可以创建浮动按钮或快捷方式？如果它能够检测该软件的多个正在运行的实例（=多个窗口）并让我选择它，那就太好了。 因此，一个浮动按钮，当单击时，可以打开该软件，或者打开一个弹出窗口，以便我可以选择实例（窗口）。几乎就像一个分离/浮动任务栏按钮，我可以在屏幕上的任何位置移动和固定/固定。 我不需要一个功能齐全的启动器，只是需要一些更简单的启动器。我提到的是浮动，但如果我可以将按钮附加到桌面的一侧（不是真正的双任务栏，只是按钮本身），那也很棒。可能值得一提的是，我的笔记本电脑由我的公司管理，因此我受到很多限制。 此处为 Windows 10 企业版 22H2 - 但正如我所说，有大量设置由我的公司管理，因此我无权访问它们（例如注册表等） 谢谢大家！   由   提交 /u/mateusonego   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b1f4rq/without_launchers_floating_button_or_shortcut_to/</guid>
       <pubDate>Tue, 27 Feb 2024 15:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用已停产的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1b1f2ro/use_of_discontinued_software/</link>
-      <description><![CDATA[我发现了一个 100% 免费的软件，我曾在我的旧计算机上使用，但现已停止使用。我在它仍然受支持的时候就下载了它。既然它一开始是免费的，我可以使用它吗？我根本不打算分发它。目前有一个受支持的版本（也是 100% 免费），但它没有旧版本的功能。谢谢！   由   提交/u/Dramatic_Crew_6981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b1f2ro/use_of_discontinued_software/</guid>
-      <pubDate>Tue, 27 Feb 2024 15:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用已停产的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1b1f2rg/use_of_discontinued_software/</link>
-      <description><![CDATA[我发现了一个 100% 免费的软件，我曾在我的旧计算机上使用，但现已停止使用。我在它仍然受支持的时候就下载了它。既然它一开始是免费的，我可以使用它吗？我根本不打算分发它。目前有一个受支持的版本（也是 100% 免费），但它没有旧版本的功能。谢谢！   由   提交/u/Dramatic_Crew_6981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b1f2rg/use_of_discontinued_software/</guid>
-      <pubDate>Tue, 27 Feb 2024 15:49:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>在软件开发中你如何与💩客户打交道？</title>
-      <link>https://www.reddit.com/r/software/comments/1b1d35y/how_do_you_deal_with_clients_in_software/</link>
-      <description><![CDATA[这就像一场永无休止的打地鼠游戏🔨🦔。他们突然出现一个“小问题”讨论（即使您刚刚与他们开会）或决定下班后是谈论琐事的最佳时机，这通常可以等到早上。 https://blog.howareyou.work/handling-difficult-clients-in-software-development/   由   提交 /u/Background_Prompt921   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b1d35y/how_do_you_deal_with_clients_in_software/</guid>
-      <pubDate>Tue, 27 Feb 2024 14:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种简单的方法可以将我的音频文件上传到 YouTube？例如，通过将音频格式化为视频并添加空白屏幕？这样，我将自动转录所有音频文件。操作系统并不重要</title>
-      <link>https://www.reddit.com/r/software/comments/1b1czpd/is_there_an_easy_way_to_upload_my_audio_files_to/</link>
-      <description><![CDATA[ 由   提交 /u/Spiritual-Leopard1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b1czpd/is_there_an_easy_way_to_upload_my_audio_files_to/</guid>
-      <pubDate>Tue, 27 Feb 2024 14:21:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
