@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 29 Feb 2024 06:17:22 GMT</lastBuildDate>
-    <item>
-      <title>使用 Magisk Zygisk 和 DenyList 通过 SafetyNet</title>
-      <link>https://www.opensourceagenda.com/projects/passing-safetynet-with-magisk-zygisk-and-denylist</link>
-      <description><![CDATA[使用 Magisk 的 Zygisk 和 DenyList 通过 SafetyNet]]></description>
-      <guid>https://www.opensourceagenda.com/projects/passing-safetynet-with-magisk-zygisk-and-denylist</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cks 速成课程</title>
-      <link>https://www.opensourceagenda.com/projects/cks-crash-course</link>
-      <description><![CDATA[深入实践练习，以取得考试优异成绩。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cks-crash-course</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费开发者认证</title>
-      <link>https://www.opensourceagenda.com/projects/freedevcertifications</link>
-      <description><![CDATA[免费提供的专业认证列表。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/freedevcertifications</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:21 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Feb 2024 09:14:25 GMT</lastBuildDate>
     <item>
       <title>Hackerrank SQL基本技能认证测试方案</title>
       <link>https://www.opensourceagenda.com/projects/hackerrank-sql-basic-skills-certification-test-solution</link>
       <description><![CDATA[包含 Hackerrank SQL（基本）的已解决查询技能认证测试🎓。]]></description>
       <guid>https://www.opensourceagenda.com/projects/hackerrank-sql-basic-skills-certification-test-solution</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>精彩的官方课程</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-official-courses</link>
-      <description><![CDATA[拥有创建者完成证书的技术相关课程列表]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-official-courses</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nodejs 认证准备</title>
-      <link>https://www.opensourceagenda.com/projects/nodejs-certification-preparation</link>
-      <description><![CDATA[有关 https://github.com/nodejs-certified-developer 的有用信息列表/认证]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nodejs-certification-preparation</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:20 GMT</pubDate>
+      <pubDate>Thu, 29 Feb 2024 09:14:25 GMT</pubDate>
     </item>
     <item>
       <title>Gh认证</title>
       <link>https://www.opensourceagenda.com/projects/ghcertified</link>
       <description><![CDATA[准备 GitHub 认证考试！]]></description>
       <guid>https://www.opensourceagenda.com/projects/ghcertified</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:20 GMT</pubDate>
+      <pubDate>Thu, 29 Feb 2024 09:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>Anotacoes AWS 云从业者认证</title>
-      <link>https://www.opensourceagenda.com/projects/anotacoes-aws-cloud-practitioner-certified</link>
-      <description><![CDATA[AWS 云从业者认证注释集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/anotacoes-aws-cloud-practitioner-certified</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:19 GMT</pubDate>
+      <title>Cks 速成课程</title>
+      <link>https://www.opensourceagenda.com/projects/cks-crash-course</link>
+      <description><![CDATA[深入实践练习，以取得考试优异成绩。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cks-crash-course</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>CKA学习指南</title>
-      <link>https://www.opensourceagenda.com/projects/cka-study-guide</link>
-      <description><![CDATA[来自 O 出版的《Certified Kubernetes Administrator (CKA) Study Guide》一书的代码示例&#39;赖利媒体。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cka-study-guide</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:19 GMT</pubDate>
+      <title>免费开发者认证</title>
+      <link>https://www.opensourceagenda.com/projects/freedevcertifications</link>
+      <description><![CDATA[免费提供的专业认证列表。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/freedevcertifications</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:24 GMT</pubDate>
     </item>
     <item>
       <title>Java认证</title>
       <link>https://www.opensourceagenda.com/projects/javacertification</link>
       <description><![CDATA[这是我尝试获得 Java 11 认证的完整资源指南]]></description>
       <guid>https://www.opensourceagenda.com/projects/javacertification</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:19 GMT</pubDate>
+      <pubDate>Thu, 29 Feb 2024 09:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>统一操作系统2</title>
-      <link>https://www.opensourceagenda.com/projects/uc-os2</link>
-      <description><![CDATA[μC/OS-II 是一个抢占式、高度可移植且可扩展的实时内核。专为在大量 CPU 架构上轻松使用而设计。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/uc-os2</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:18 GMT</pubDate>
+      <title>精彩的官方课程</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-official-courses</link>
+      <description><![CDATA[拥有创建者完成证书的技术相关课程列表]]></description>
+      <guid>https://www.opensourceagenda.com/projects/awesome-official-courses</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>Oscp前期准备计划及注意事项</title>
-      <link>https://www.opensourceagenda.com/projects/oscp-pre-preparation-plan-and-notes</link>
-      <description><![CDATA[我的 OSCP 预准备阶段。我不确定我是否能负担得起考试的费用，但重要的是尝试和学习。我要尝试一下。 [开始日期：2022 年 3 月 21 日]]]></description>
-      <guid>https://www.opensourceagenda.com/projects/oscp-pre-preparation-plan-and-notes</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:18 GMT</pubDate>
+      <title>Nodejs 认证准备</title>
+      <link>https://www.opensourceagenda.com/projects/nodejs-certification-preparation</link>
+      <description><![CDATA[有关 https://github.com/nodejs-certified-developer 的有用信息列表/认证]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nodejs-certification-preparation</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:23 GMT</pubDate>
     </item>
     <item>
       <title>认证 Kubernetes 管理员注意事项</title>
       <link>https://www.opensourceagenda.com/projects/certified-kubernetes-administrator-notes</link>
       <description><![CDATA[https://www.cncf.io/certification/cka/]]></description>
       <guid>https://www.opensourceagenda.com/projects/certified-kubernetes-administrator-notes</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:18 GMT</pubDate>
+      <pubDate>Thu, 29 Feb 2024 09:14:22 GMT</pubDate>
     </item>
     <item>
-      <title>Ckad 速成课程</title>
-      <link>https://www.opensourceagenda.com/projects/ckad-crash-course</link>
-      <description><![CDATA[深入实践练习，以取得考试优异成绩。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ckad-crash-course</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:17 GMT</pubDate>
+      <title>Anotacoes AWS 云从业者认证</title>
+      <link>https://www.opensourceagenda.com/projects/anotacoes-aws-cloud-practitioner-certified</link>
+      <description><![CDATA[AWS 云从业者认证注释集]]></description>
+      <guid>https://www.opensourceagenda.com/projects/anotacoes-aws-cloud-practitioner-certified</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>CKA学习指南</title>
+      <link>https://www.opensourceagenda.com/projects/cka-study-guide</link>
+      <description><![CDATA[来自 O 出版的《Certified Kubernetes Administrator (CKA) Study Guide》一书的代码示例&#39;赖利媒体。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cka-study-guide</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:22 GMT</pubDate>
     </item>
     <item>
       <title>很棒的 AWS 认证</title>
       <link>https://www.opensourceagenda.com/projects/awesome-aws-certifications</link>
       <description><![CDATA[☁️ AWS 认证材料精选列表：视频课程、练习考试、准备技巧、等等]]></description>
       <guid>https://www.opensourceagenda.com/projects/awesome-aws-certifications</guid>
-      <pubDate>Thu, 29 Feb 2024 06:17:17 GMT</pubDate>
+      <pubDate>Thu, 29 Feb 2024 09:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>统一操作系统2</title>
+      <link>https://www.opensourceagenda.com/projects/uc-os2</link>
+      <description><![CDATA[μC/OS-II 是一个抢占式、高度可移植且可扩展的实时内核。专为在大量 CPU 架构上轻松使用而设计。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/uc-os2</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oscp前期准备计划及注意事项</title>
+      <link>https://www.opensourceagenda.com/projects/oscp-pre-preparation-plan-and-notes</link>
+      <description><![CDATA[我的 OSCP 预准备阶段。我不确定我是否能负担得起考试的费用，但重要的是尝试和学习。我要尝试一下。 [开始日期：2022 年 3 月 21 日]]]></description>
+      <guid>https://www.opensourceagenda.com/projects/oscp-pre-preparation-plan-and-notes</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>多合一机器人</title>
+      <link>https://www.opensourceagenda.com/projects/all-in-one-bot</link>
+      <description><![CDATA[多功能机器人。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/all-in-one-bot</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ckad 速成课程</title>
+      <link>https://www.opensourceagenda.com/projects/ckad-crash-course</link>
+      <description><![CDATA[深入实践练习，以取得考试优异成绩。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ckad-crash-course</guid>
+      <pubDate>Thu, 29 Feb 2024 09:14:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
