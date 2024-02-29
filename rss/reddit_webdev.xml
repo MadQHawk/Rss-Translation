@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 12:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:13:36 GMT</lastBuildDate>
+    <item>
+      <title>由于某种原因，我最近很快就失去了编码的动力。还有谁？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b32ez6/for_some_reason_i_lost_motivation_to_code_very/</link>
+      <description><![CDATA[目前，我想创建一个不错的作品集网站，甚至清理一些旧项目，使它们看起来更好。然后也适当地重新设计 Figma 设计。 我观看了一些有关如何创建作品集的视频。然而，当轮到我去做的时候，我失去了所有动力，我不知道如何防止这种情况发生。  欢迎任何反馈   由   提交 /u/Slight-Rent-883   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b32ez6/for_some_reason_i_lost_motivation_to_code_very/</guid>
+      <pubDate>Thu, 29 Feb 2024 15:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习动画和简单图形生成的最佳方法/地点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b326cb/best_wayplaces_to_learn_animations_and_simple/</link>
+      <description><![CDATA[我正在开发一个讲故事的项目，我希望在横幅上制作 16 位或简单角色的动画。只是做一些像行走动画循环或面部表情变化之类的事情，没有什么太动态的。有没有适合做这种事情的工具？我查看了anime.js，但我不太确定它是否正是我所需要的文档中的一些示例。我是自学成才，更多的是后端开发而不是前端，因此任何建议将不胜感激。   由   提交/u/l-b_b-l   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b326cb/best_wayplaces_to_learn_animations_and_simple/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于非静态主页 WP 的新手问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b31q11/newb_question_about_non_static_homepage_wp/</link>
+      <description><![CDATA[我有一个 WordPress 网站，该网站是由一位廉价的 Web 开发人员在 2020 年为我建立的。它的主页不是静态的。它被设置为“您的最新帖子”在主页设置中。所以我无法在主页上编辑任何内容。  我收到了版权通知，通知我他们使用了受版权保护的图像。我并不特别担心，但为了安心，我还是想删除该图像。  是否有一种简单的方法来复制内容并将其设置为静态主页，以便我可以对内容进行编辑？  实例中我有哪些选择？  该网站几乎不产生任何流量，因此我不愿意投资重建。我正在寻找最简单的修复方法，而不仅仅是杀死该网站。提前致谢。    由   提交/u/Algae-Major   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b31q11/newb_question_about_non_static_homepage_wp/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:33:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>被视为中端市场的网站和被视为高端市场的网站有什么区别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3182u/what_is_the_difference_between_a_website_that/</link>
+      <description><![CDATA[我认为至少动画可以使某些东西看起来比运动时非常静止的东西更高端。  除此之外，我假设自定义图形是 SVG 文件。他们倾向于赋予它更定制的外观。    由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3182u/what_is_the_difference_between_a_website_that/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道一些好的多品牌网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b314us/anyone_know_some_good_multibranded_websites/</link>
+      <description><![CDATA[我正在寻找一些网站来为客户提供灵感，他们的母公司拥有多个不同的品牌，他们希望每个品牌都有一个不同的“风格”每个品牌的子页面。 例如： 主页：标准“通用”页面母公司品牌子页面：每个品牌都有不同的字体、颜色、布局 我发现的一个不错的例子是gap.com，Banana Republic 和 Athlea 的子页面略有变化，以代表各自的品牌 - 不同的字体、颜色等。 还有人有其他好的例子吗？谢谢！   由   提交/u/Significant_Fig_6290   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b314us/anyone_know_some_good_multibranded_websites/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么样的项目，由一个初级程序员编写，会让你认为他知道他的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b30sgy/what_kind_of_project_coded_by_a_junior_would_make/</link>
+      <description><![CDATA[你好， 在过去的六个月里，我一直在广泛学习 Web 开发技术，投入了大约 4-8+ 的时间每天几个小时。我最初开始学习课程，但很快就放弃了，因为我觉得我所学的课程已经过时了。相反，我主要专注于构建项目。 我的目标是用高质量的项目来充实我的投资组合。目前，我有几个较小的项目和一个较大的全栈项目，涉及 React、Node、TypeScript、Redux、Socket io、Tailwind + Vitest 和 RTL 进行测试。我投入了大量时间，现在感觉有点精疲力尽，我想同时构建一些其他东西。 什么样的项目会让你认为一个人知道他们的东西？由于我没有接受过这个竞争激烈的领域的任何教育，因此我正在寻找挑战，以便在其他后辈中脱颖而出。 想法值得赞赏:)   由   提交 /u/spurkle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b30sgy/what_kind_of_project_coded_by_a_junior_would_make/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何为我的团队找到开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3031b/how_can_i_find_a_developer_for_my_team/</link>
+      <description><![CDATA[大家好， 我们需要一个完整的堆栈开发/后端开发 基本上，我和一个我的几个大学朋友决定制作一个网站，如果成功的话，也可以制作一个应用程序。  我们对此类项目非常陌生，并不认为这是一条容易的道路，但即使我们失败了，那也将是很棒的经历。我们的努力的可笑之处在于我们都不是真正的软件开发人员。我们正在做与开发无关的其他工作，以准备基础和方向。这些是市场研究、寻找潜在的投资机会、UX/UI 设计等。  我们正在考虑要么聘请一名自由职业者来开始开发，要么找一个技能有限的人加入我们的团队。然而，众所周知，即使是演示版，您也必须支付巨额费用。所以，我们更愿意找到一个有足够技能的人来开始开发，然后在技能上一起成长。  到目前为止，我们的搜索成果还不是很丰富。我们进行了几次“采访”，但没有结果。当然，由于我们没有足够的资源，因此没有报酬或报酬很少。到目前为止，这只不过是一个“激情项目”。  如果你们能分享关于如何寻找某人的意见，我将非常感激。    由   提交 /u/TheLazyPillow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3031b/how_can_i_find_a_developer_for_my_team/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OpenStreetMap 为 ActivityPub 重建 FourSquare</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2zta1/rebuilding_foursquare_for_activitypub_using/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2zta1/rebuilding_foursquare_for_activitypub_using/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应式导航的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2zmby/best_practice_for_responsive_navigation/</link>
+      <description><![CDATA[使用单独的 HTML  是否被认为是不好的做法？桌面和移动设备的元素？我总是使用一个元素进行构建并对其进行响应式设计，与设计师合作以确保结构全面保持相同，但是如果设计需要不同的结构，是否有任何理由不应该使用多个 只要正确使用 aria 属性等来隐藏未使用的属性就可以使用？   由   提交 /u/CuteKerryHooer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2zmby/best_practice_for_responsive_navigation/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:52:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我遇到了一个错误，我的获取响应不显示 cookie。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2zkeo/hi_all_i_am_having_a_bug_my_fetch_response_doesnt/</link>
+      <description><![CDATA[   大家好，我遇到了一个错误，我的获取响应不显示 cookie。但我的浏览器在网络选项卡中显示。 我还在此处创建了一个 GitHub 问题。   由   提交/u/AdNecessary8217  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2zkeo/hi_all_i_am_having_a_bug_my_fetch_response_doesnt/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:49:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客马拉松值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2ze1s/are_hackathons_even_worth_it/</link>
+      <description><![CDATA[我觉得他们是对精力的巨大浪费，为了达到任意目标而走捷径对我来说已经是一个破坏性的事情，更糟糕的是企业霸主窃取了你的想法或过程。无能和缺乏组织也是一个令人头疼的问题。我想免费食物和赠品很酷。 这些对某些人来说有趣吗？为什么？   由   提交 /u/ghostyx101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2ze1s/are_hackathons_even_worth_it/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:40:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写工作流程文档</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2z8a0/writing_workflow_documentation/</link>
+      <description><![CDATA[最近我看到一篇关于“万事通”的帖子学长以及如果他被公共汽车撞到该怎么办的问题。 我现在面临着类似的情况，并想开始记录我所做的事情，以便新人最终能够快速获得这些信息了解该机构的运作方式以及开发工作应如何执行。问题是 1. 我从来没有任何编写文档的经验，尤其是在工作流程方面； 2. 因为我们是一家网络机构，不同的客户有不同的需求，有时我需要发明一些以前没有做过的事情，比如无法实际记录。 我的问题是，是否有关于如何编写此类文档的良好资源，或者有任何工具可以帮助您这样做？如果我找不到任何东西，我可能会尝试使用某种 .md 文档。   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2z8a0/writing_workflow_documentation/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个项目什么时候被认为是“全栈”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2z5kt/at_what_point_is_a_project_considered_fullstack/</link>
+      <description><![CDATA[我现在正在制作我的作品集网站。大多数情况下，它都是用 React 构建的前端。但是，我要添加一个联系表单，为此，我需要创建一个快速服务器来处理 HTTP 请求。  这个项目此时是否会被认为是全栈，仅仅因为它有一个简单的 Express 后端？对我来说，这不对，因为我没有创建任何类型的数据库或身份验证或其他任何内容。  你们觉得怎么样？   由   提交 /u/MeltaFlare   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2z5kt/at_what_point_is_a_project_considered_fullstack/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:27:54 GMT</pubDate>
+    </item>
     <item>
       <title>我对如何解决 cookie 横幅疯狂问题的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2yq9k/my_suggestion_on_how_to_solve_the_cookie_banner/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[这变得荒谬且令人难以置信的混乱，我知道很多人对如何构建框架有很多不同的意见，但我认为我们正在得到到了我们有太多东西的地步。 Pheraps 就是简单地选择一个并坚持使用它，但每个开发人员都有自己的堆栈，每个公司都有自己的堆栈。  我想明白为什么会这样，我们必须让 300 种不同的东西相互兼容，而不是用一两个工具来完成大多数事情。 毕竟 Web 应用程序是软件的一部分，但一方面我们拥有持续数十年的 C 语言，它可以做任何事情。另一方面，Javascript、Typescript、React、Vue、Next 和 1000 种不同的工具似乎都在做类似的事情...... 也许这是由于对机器的更高抽象？或者前端需要不断改变以保持竞争力？界面随着人们的变化和市场需要新的东西而变化。 或者说这是因为，作为一种更高级别的动态类型和垃圾收集语言，JavaScript 更容易，每个人都能够一个框架。 我不知道，但从外部来看，这似乎过于臃肿且不可持续，也许我只是需要一个不同的视角。此时，您是否应该真正专注于 2/3 最常用的框架和工具，并希望您加入的公司将使用与您相同的框架和工具，或者成为自由职业者。或者进入一种心态，为了保持竞争力，你总是必须学习新的工具，最终完成类似的事情。 我对 Rust 感兴趣，因为它的生态系统看起来比 Javascript 更干净、更专注。 ，但是 Rust 中的 webdev 看起来仍然相当初级，还没有真正准备好。这就是说它有真正的替代方案吗？整个生态系统有什么新的发展方向吗？还是普遍认为这将保持原样？   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2yf8i/is_there_a_real_alternative_to_this_nightmare_of/</guid>
       <pubDate>Thu, 29 Feb 2024 11:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>onclick 属性与 addEventListener('click')</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2yd3r/onclick_attribute_vs_addeventlistenerclick/</link>
-      <description><![CDATA[与使用 JS 和 addEventListener 添加事件相比，使用内联 onclick 属性（或任何其他 oninput/submit 等）是否有任何重大缺点? 我个人发现，当我在标记中看到一个按钮时，很难理解并弄清楚发生了什么，并且我想嗯，我应该检查 JS 是否附加了任何侦听器。我不会只是看到这个按钮调用这个函数，而是进入 js 看看它做了什么。 我看到的唯一真正的问题可能是有条件地添加侦听器，但是我的工作流程是 SSR 并且我继续模板化，以便为我处理。   由   提交/u/CoolGuy9000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2yd3r/onclick_attribute_vs_addeventlistenerclick/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>给有抱负的初级开发人员的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2xwe7/advice_for_aspiring_junior_dev/</link>
-      <description><![CDATA[大家好，我想提出一个想法，看看高级研究员在招聘初级开发人员时是否会认为有趣。 &lt; p&gt;我一直在使用 MAMP 处理数据库，并产生了为我和我妻子的购物之旅创建一个网站的想法。 我正在考虑一个网站，用户可以在其中使用用户名创建帐户和密码，并在他们的空间内，当他们在杂货店里走动时，他们会添加他们放入购物车的所有产品的价格。 在第一次购物之后，一些价格已经保存在数据库中并且可以下次使用或更新。该网站将保存有关每次杂货购物成本的所有信息，并提供有关哪些产品与之前的购物相比价格上涨或下降的信息。  我会根据我妻子的需求不断添加功能。 我想知道这个小项目是否能引起雇用初级开发人员的人的关注。我会尝试在实际网站中将整个内容设置为一项投资，以在投资组合中展示它。  我很感谢任何意见。非常感谢   由   提交 /u/Affectionate-Tart558    reddit.com/r/webdev/comments/1b2xwe7/advice_for_aspiring_junior_dev/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2xwe7/advice_for_aspiring_junior_dev/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astrojs 和 Tailwind CSS 创建动态特征网格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2xjev/how_to_create_a_dynamic_feature_grid_with_astrojs/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2xjev/how_to_create_a_dynamic_feature_grid_with_astrojs/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为实时网站创建开发区域？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2xh2g/how_do_i_create_a_development_area_for_a_live/</link>
-      <description><![CDATA[嗨， 随机问题，但我认为你是一个不错的选择。对于家族企业来说，有一个由外部公司运营的网站。无论出于何种原因，该公司不再继续提供服务，他们将带有网站的网络服务器移交给了该服务器。它运行在iis上，还有一个Mssql数据库。 我的家人问我是否可以解决这个问题，所以我看了一下，还可以。我可以访问代码（在 wwwroot 文件夹中）并对实时版本进行更改。以及查看所有数据库内容并使用 sql 进行更改。 我的问题是进行更改。我只能对实时版本的代码进行更改。对于像更改 API 密钥（我就是这样做的）这样的小事情，这很好。但是，对于较大的更改，这将是一个问题。  由于我没有源代码，只有部署版本，所以我在网上查找，发现如果有 *.aspx.vb 文件，就很容易进行逆向工程。我有那些文件！我想知道我是否可以在设置开发环境方面获得一些帮助？或者是否有更好的方法来解决这一切？ 我有基本的编码经验，但对服务器和类似的东西一无所知。我确实尝试从 wwwroot 文件复制所有代码并从我的个人计算机在本地主机上启动它；还通过备份（.bak 文件）复制数据库。数据库过来并进行一些权限调整后，网站让我登录，而没有说通常无法登录数据库。但现在出现了不同的错误，图像无法正确加载。我觉得这很奇怪，因为我实际上只是从实时版本中复制了完整代码，效果很好🤷‍♂️   由   提交 /u/JaaferK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2xh2g/how_do_i_create_a_development_area_for_a_live/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 VPS 服务器提供商？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2xaai/best_vps_server_providers/</link>
-      <description><![CDATA[嗨，我想在 vps 服务器上托管一个小型网站。我研究过 Hetzner、ionos、数字海洋。有什么关于安全性和服务方面最好的建议吗？   由   提交/u/sahil_hackerrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2xaai/best_vps_server_providers/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的图片模糊了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2wsfl/my_img_is_blurry/</link>
-      <description><![CDATA[大家好，我正在尝试为静态餐厅网页使用背景图像，但当我更改其大小时，我的图片变得模糊且像素化。有什么办法可以拉伸它或使其合身而不显得可怕吗？    由   提交/u/bloodcurdle-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2wsfl/my_img_is_blurry/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在短时间内通过 powerautomate 或某些电子邮件提供商 API 自动创建/删除电子邮件帐户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2wmug/how_could_one_automate_the_creationdeletion_of/</link>
-      <description><![CDATA[无需详细介绍我的具体用例： 将 powerautomate 用于工作流程的某些部分，该工作流程将放置约 20,000每年 + 交易。 我想将用户的电子邮件地址从他们的实际电子邮件中提取出来。 在我的完美场景中，今天是星期二，来自 50 个不同用户/电子邮件的 100 笔交易。每 10 个用户，我都会创建一封新电子邮件，并将接下来的 10 个用户关联到该电子邮件/帐户。实际上，这 100 笔交易跨越 5 封电子邮件。电子邮件帐户只需活跃一年。我无法使用 [myemail@gmail.com](mailto:myemail@ gmail.com) 和 [myemail+1@gmail.com](mailto:myemail+1@gmail.com）（路由到同一位置），在许多位置的后端被过滤掉或解析为相同的位置。 有有人尝试过做这样的事情吗？自动化此工作流程的最简单方法是什么？他们的电子邮件提供商是否可以轻松地自动提供电子邮件帐户？可以通过 powerautomate 或 API 来完成吗？ 任何帮助，我们将不胜感激。我知道这是一个奇怪的要求。    由   提交/u/bwaugh06  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2wmug/how_could_one_automate_the_creationdeletion_of/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iPad 上制作 13.000 个 SVG 圆圈动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2wkqz/animating_13000_svg_circles_on_a_ipad/</link>
-      <description><![CDATA[大家好， 我需要一些 CSS 技巧来为大量 SVG  制作动画。元素。目前我的解决方案相当不起眼，我有一个关键帧动画，它将颜色（填充）从 x 更改为 y，然后再次返回 x。 准确地说，有 13,000 个关键帧动画，其中在平均有 1,000 - 2,000 个同时变色。动画在桌面上很棒，但在 iPad 上则不然。 使用“will-change: fill;”我还没有取得任何成果。 &lt;圆圈&gt;元素被限制在绝对最小值。 cx、cy 和一个类 f 或 t。 现在我的问题是：如何在不使用 less Circle 的情况下实现所有这些元素的平滑动画？ ​&lt; /p&gt; 感谢您的建议！   由   提交/u/IceTeaIsLaaav   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2wkqz/animating_13000_svg_circles_on_a_ipad/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:44:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何说服潜在客户选择您？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2wc3a/how_do_you_convice_a_potential_client_to_choose/</link>
-      <description><![CDATA[有很多便宜的网站构建器，如果您每月支付 20/40 美元，您就可以获得一个可以根据需要添加元素的网站。您如何认为向您从头开始构建它支付 400 多美元的费用，然后为任何潜在的更改等每月向您支付费用是更好的交易？ &lt;!-- SC_ON - -&gt;  由   提交/u/RayGunny178  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2wc3a/how_do_you_convice_a_potential_client_to_choose/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>工业级音频搜索算法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2w27p/an_industrialstrength_audio_search_algorithm/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2w27p/an_industrialstrength_audio_search_algorithm/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:07:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用“非标准”工具进行自由职业是一个坏主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2vzsc/is_it_a_bad_idea_to_use_nonstandard_tools_for/</link>
-      <description><![CDATA[嗨，我正在开始一项自由网页设计业务。 我已经建立了一个网站（免费），使用SvelteKit 和 TailwindCSS 并托管在 Cloudflare Pages 上。我知道对于这样的网站来说，整个 JS 框架可能有点大材小用，但 Svelte 的语法最接近我的心智模型，我发现我用它工作得更快。 我最近遇到了 editable.website，这是一个工具集合，允许对使用 SvelteKit 制作的网站进行所见即所得编辑。这对我来说看起来很完美，因为它非常适合我的堆栈，并且比 WordPress 等传统 CMS 快得多（并且具有更好的用户体验！）。我已经尝试过它（不幸的是，没有文档，但如果您了解 JS/Svelte，那么学习使用它是非常简单的），并且我认为它非常适合构建自由网站。 我的问题是，与我的客户一起使用这样的工具是否是最佳实践。 如果某些东西停止工作，我会在那里支持他们，而且我认为我对此有足够的了解解决出现的问题。   由   提交/u/Personal_Rich_2322   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2vzsc/is_it_a_bad_idea_to_use_nonstandard_tools_for/</guid>
-      <pubDate>Thu, 29 Feb 2024 09:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>LF如何模拟Excel“冻结单元格”以在表格上使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2vpn5/lf_how_to_emulate_excel_freeze_cell_for_use_on/</link>
-      <description><![CDATA[对于那些不知道的人，冻结单元格功能允许您滚动电子表格，但在您查看时将特定列/标题保留在屏幕上。  有谁知道在网页的表格上模拟这种情况的方法，要么是我不知道的一些CSS（我主要是后端程序员），要么是通过某些库的方法. 我工作的 SaaS 有大量数据，如果能够在列上水平滚动，但仍然看到左侧的 2 列，保持在原位（与标题类似），那就太好了当您向下滚动页面时。想法目标是整个页面没有滚动，只有页面上的表格区域。 请注意，SaaS 是专门为桌面使用而设置的（或至少平板电脑），由于显示/编辑的数据量较大。 谢谢。    提交者   &lt; a href=&quot;https://www.reddit.com/user/greg8872&quot;&gt; /u/greg8872   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2vpn5/lf_how_to_emulate_excel_freeze_cell_for_use_on/</guid>
-      <pubDate>Thu, 29 Feb 2024 08:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>对公司代码进行逆向工程正常吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2vl5a/is_it_normal_to_reverse_engineer_your_company_code/</link>
-      <description><![CDATA[我找到了一份新工作。在这家公司中，不仅没有任何类型的文档，而且几乎没有人知道/创建我被分配改进的所有 api。这当然是因为我的公司收购了另一家公司。 （我正在研究被收购公司的代码）但有时我仍然会生气，因为我没有得到关于我必须做什么的介绍。您觉得这种必须对任何东西进行逆向工程的做法正常吗？   由   提交 /u/ilpiccoloskywalker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2vl5a/is_it_normal_to_reverse_engineer_your_company_code/</guid>
-      <pubDate>Thu, 29 Feb 2024 08:34:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

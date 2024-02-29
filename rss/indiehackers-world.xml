@@ -4,182 +4,201 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 29 Feb 2024 12:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:14:14 GMT</lastBuildDate>
     <item>
-      <title>您如何为产品或服务定价？ 🏷️</title>
-      <link>https://feed.indiehackers.world/post/acfab2551e</link>
-      <description><![CDATA[https://www.upsilonit.com/blog/mastering-startup-pricing-strategy
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/acfab2551e</guid>
-      <pubDate>Thu, 29 Feb 2024 11:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astrojs 和 Tailwind CSS 创建动态特征网格</title>
-      <link>https://feed.indiehackers.world/post/28eca0b09d</link>
-      <description><![CDATA[
-{String(index + 1).padStart(2, &quot;0&quot;) + &quot;⏤&quot;}：将当前索引转换为2位字符串，开始位置加1从 1 开始编号，并附加破折号以进行格式化。对于为每个功能创建一致的编号标签很有用。
+      <title>前 3 位客户，但 Google Ads 根本不起作用</title>
+      <link>https://feed.indiehackers.world/post/d8cd4e4c88</link>
+      <description><![CDATA[你对我有什么想法吗？
+我想我可能需要一位营销联合创始人，这样我们最终就有了三位联合创始人：
 
-完整模板
-{
-  features.map((特征，索引) =&gt; (
-    &lt;&gt;
-      
-    
-  ））
-}
+营销和/或销售人员 (CMO/CSO)
+开发人员 (CTO)
+我（产品负责人/首席执行官）
 
-这就是使用 Astro.js 和 Tailwind CSS 创建动态功能网格的分步指南。通过将 Astro.js 的高效渲染功能与 Tailwind CSS 的风格灵活性相结合，您已经学会了如何制作一个交互式组件，该组件不仅看起来很棒，而且还增强了网站的用户体验。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/28eca0b09d</guid>
-      <pubDate>Thu, 29 Feb 2024 10:35:30 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/d8cd4e4c88</guid>
+      <pubDate>Thu, 29 Feb 2024 15:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>创业的孤独海洋：阿玛诺的诞生</title>
-      <link>https://feed.indiehackers.world/post/4518d85f61</link>
-      <description><![CDATA[发现独立黑客重振了我的决心，让我与那些同样经历过孤立和怀疑的熟悉考验的企业家同行建立了联系。
-反思
-创业是一段孤独的旅程。有一段时间我不吃饭，彻夜难眠，我对一切都提出了质疑。然而，在遇到这个社区时，我在共同的经历中找到了安慰和验证。
-当我们即将推出 Armano 时，我将这段叙述不仅仅作为介绍，而是作为对创业之旅价值的肯定。对于那些走这条路的人来说，要知道你并不孤单。道路是艰难的，往往比预想的更孤独，但正是在这些挑战中，我们发现了自己的韧性和动力。
-祝我们下个月 Armano 发布顺利。我们将共同将挑战转化为机遇。
+      <title>如何使用人工智能分析数百万用户评论来打造更好的产品</title>
+      <link>https://feed.indiehackers.world/post/8a09bd9073</link>
+      <description><![CDATA[我学到的想法
+很多开发者都会在推特上发布他们产品的进展情况，您可以抓取推文来确定 SaaS 产品的竞争力如何。例如，当“文本到语音 SaaS”被使用时在一段时间内出现太多次，您知道您应该避免生产该产品，因为竞争对手太多。
+参考
+通过推文情绪分析来预测股市（斯坦福大学）。
+将股价和新闻情绪纳入股市预测：以香港为例
+github：https://github.com/AshwiniDPrabhu/Stock-Prediction-Using-Twitter -情绪分析
+如果您喜欢这篇文章，并想阅读更多内容，请在下面发表评论并告诉我您想读什么。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4518d85f61</guid>
-      <pubDate>Thu, 29 Feb 2024 10:34:39 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/8a09bd9073</guid>
+      <pubDate>Thu, 29 Feb 2024 15:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>您如何跟踪您的软件订阅费用？</title>
-      <link>https://feed.indiehackers.world/post/1aa859072a</link>
-      <description><![CDATA[我淹没在订阅的海洋中——设计工具、项目管理、电子邮件营销，凡是你能想到的！跟踪所有这些，尤其是成本，是一场噩梦。
-现在，我正在使用 Google 表格来记录订阅名称、费用和续订日期，甚至添加有关使用情况的注释。它工作正常，但更新起来很笨拙且耗时。
-我很好奇 – 你们用什么来跟踪您的软件订阅？
---您和我一样是电子表格爱好者吗？
--- 您是否信赖专门的订阅管理工具？
--- 有没有我错过的隐藏宝石应用程序？
-在评论中分享。 :)
-附注今天在 PH 上发现了 Talisman。到目前为止听起来很有希望。我正在尝试一下：https://www.producthunt.com/posts/talisman-3
+      <title>时尚与区块链融合</title>
+      <link>https://feed.indiehackers.world/post/e4ef1d7d0b</link>
+      <description><![CDATA[在 TopTogging，深入研究季节性时尚与区块链技术的交叉点。了解趋势和技术如何融合，从而周期性地推动创新。
+https://www.toptogging.com/
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1aa859072a</guid>
-      <pubDate>Thu, 29 Feb 2024 10:34:23 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/e4ef1d7d0b</guid>
+      <pubDate>Thu, 29 Feb 2024 14:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>犹豫是否要在 LinkedIn 上发布有关 My Side Gig 的信息</title>
-      <link>https://feed.indiehackers.world/post/9f52e2e11b</link>
-      <description><![CDATA[你们是如何处理这个问题的？
-在没有任何现有联系人或工作经验的情况下开始一份新的空白 LinkedIn 个人资料是否明智？
-或者，如果这些事情确实是我所关心的，那么现在最好不要尝试使用 LinkedIn 来实现此目的吗？
-谢谢！
+      <title>对我们最新产品登陆页面的诚实反馈:)</title>
+      <link>https://feed.indiehackers.world/post/07e39d60cc</link>
+      <description><![CDATA[嘿独立黑客！ 🚀 在我们的 AskCory 登陆页面（针对营销自由职业者和小型机构）寻求反馈。 
+检查一下，请告诉我们您的想法。您的见解很重要！ 💡
+https://www.askcory.ai/lp-marketers-hero-form
+我们想了解新的网站访问者是否会理解它是什么，以及它是否足够吸引人阅读更多内容。
+提前致谢！
+如果您想了解有关该项目的更多信息，请了解一些背景信息：
+我是一名企业家，常驻于葡萄牙一家名为 Build Up Labs 的风险投资建设者和孵化器中。
+我们有一个构思框架，因此我们可以在一年内推出多种数字产品。基本上，快速失败的心态:)
+AskCory 是目前处于软启动阶段的想法之一。目前它是一个利基 SaaS 产品，但如果我们获得足够的关注，我们将继续将其开发为更大的产品。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9f52e2e11b</guid>
-      <pubDate>Thu, 29 Feb 2024 10:22:51 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/07e39d60cc</guid>
+      <pubDate>Thu, 29 Feb 2024 14:45:56 GMT</pubDate>
     </item>
     <item>
-      <title>您在徽标上花费的最低金额是多少？</title>
-      <link>https://feed.indiehackers.world/post/87c0a349bb</link>
-      <description><![CDATA[干杯！！！
+      <title>请烤一下我的着陆页</title>
+      <link>https://feed.indiehackers.world/post/6d79072bd0</link>
+      <description><![CDATA[您能给我的登陆页面和仪表板页面评分吗？我现在正在努力改进设计。
+继续烤它，赞美它，甚至崇拜它。
+只需分享您的想法即可。 
+https://blocktrain.ai
+仪表板： 
+想说什么就说什么
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/87c0a349bb</guid>
-      <pubDate>Thu, 29 Feb 2024 10:16:52 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/6d79072bd0</guid>
+      <pubDate>Thu, 29 Feb 2024 14:37:44 GMT</pubDate>
     </item>
     <item>
-      <title>我计划在三月份同时营销 3 种产品：博客和免费工具</title>
-      <link>https://feed.indiehackers.world/post/57411ee975</link>
-      <description><![CDATA[最后，我必须相信这一点才能让它发挥作用。它是否有效绝对不在我的手中，但我的目标是让我在下个月推出的内容和工具发挥最大的价值。
-独立黑客快乐！
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/d82b9d849f</link>
+      <description><![CDATA[我已经分叉了 Blogen (github.com/gaurav18115) 并向公众提供我的版本 
+它会为给定的关键字生成完整的博客文章（首先要进行该关键字研究）。 
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/57411ee975</guid>
-      <pubDate>Thu, 29 Feb 2024 10:16:10 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/d82b9d849f</guid>
+      <pubDate>Thu, 29 Feb 2024 14:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>登陆页面反馈</title>
-      <link>https://feed.indiehackers.world/post/f115dc2ccf</link>
-      <description><![CDATA[https://bigpicture.site/
-很想在我的目标网页上获得一些反馈。我对提及“竞争”感到犹豫。就在一开始，但另一方面，这些都是巨大的产品，任何想要了解大局的人都已经很清楚了。
-实际上，如果我最终保留它们，我是否需要在这些提及中添加 (TM) 符号？例如：Slack™。我不认为 Slack 本身这样做，但它是一个注册商标。
-如有任何其他意见，我们将不胜感激。谢谢！
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/43b45b8315</link>
+      <description><![CDATA[我已经分叉了 Blogen (github.com/gaurav18115) 并向公众提供我的版本 
+它会为给定的关键字生成完整的博客文章（首先要进行该关键字研究）。 
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f115dc2ccf</guid>
-      <pubDate>Thu, 29 Feb 2024 10:12:54 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/43b45b8315</guid>
+      <pubDate>Thu, 29 Feb 2024 14:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>Web 应用程序的最佳定价模型是什么？</title>
-      <link>https://feed.indiehackers.world/post/923f99f199</link>
-      <description><![CDATA[按使用付费：公平透明
-对于不经常使用的应用程序，按使用付费模式似乎最合乎逻辑。很简单——您只需为使用的内容付费。它公平、透明，非常适合使用情况变化很大的服务，例如按查询付费的 API。
-确定网络应用的最佳定价模型取决于其性质、目标受众及其提供的价值。无论是免费增值、订阅、分层还是按使用付费，每种模式都有自己的位置。诀窍在于充分了解您的服务和客户，以便做出明智的选择。请记住，正确的定价策略是将您的应用从单纯的想法转变为蓬勃发展的业务的关键一步。
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/f4a075dc84</link>
+      <description><![CDATA[我已经分叉了 Blogen 并向公众提供了我的版本：https://github.com/rbatista191/blogen&lt; /p&gt;
+它会为给定的关键字生成完整的博客文章（首先要进行关键字研究）：标题、简介、要点、内部链接、服务/产品促销、目录、常见问题解答、结论。
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
+初始版本请访问 github.com/gaurav18115。
+免责声明 1：不要期望此工具能提供高质量。它不应该取代 SEObotai 或 JournalistAI 等更好的工具。
+免责声明 2：您可能会反对人工智能生成的内容，但 Google 对此没有异议 - 只要它对读者有用。
+请随意分叉并改进它。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/923f99f199</guid>
-      <pubDate>Thu, 29 Feb 2024 09:42:32 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/f4a075dc84</guid>
+      <pubDate>Thu, 29 Feb 2024 14:27:20 GMT</pubDate>
     </item>
     <item>
-      <title>产品开始盈利后，您面临的最大挑战是什么？</title>
-      <link>https://feed.indiehackers.world/post/00ffb4509b</link>
-      <description><![CDATA[您的产品开始赚钱后，您面临的最大挑战是什么？请在下面的评论中告诉我。
-干杯，
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/9538f89c80</link>
+      <description><![CDATA[我已经分叉了 Blogen 并向公众提供了我的版本：https://github.com/rbatista191/blogen&lt; /p&gt;
+它会为给定的关键字生成完整的博客文章（首先要进行关键字研究）：标题、简介、要点、内部链接、服务/产品促销、目录、常见问题解答、结论。
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
+初始版本请访问 github.com/gaurav18115。
+免责声明 1：不要期望此工具能提供高质量。它不应该取代 SEObotai 或 JournalistAI 等更好的工具。
+免责声明 2：您可能会反对人工智能生成的内容，但 Google 对此没有异议 - 只要它对读者有用。
+请随意分叉并改进它。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/00ffb4509b</guid>
-      <pubDate>Thu, 29 Feb 2024 09:04:28 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/9538f89c80</guid>
+      <pubDate>Thu, 29 Feb 2024 14:27:03 GMT</pubDate>
     </item>
     <item>
-      <title>CTO 拥抱企业离岸团队的 5 个原因</title>
-      <link>https://feed.indiehackers.world/post/cb401ae534</link>
-      <description><![CDATA[在本文中，我们将探讨这些原因以及确保离岸中心成功的经常被忽视的关键。
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/6bde7dca55</link>
+      <description><![CDATA[我已经分叉了 Blogen 并向公众提供了我的版本：https://github.com/rbatista191/blogen&lt; /p&gt;
+它会为给定的关键字生成完整的博客文章（首先要进行关键字研究）：标题、简介、要点、内部链接、服务/产品促销、目录、常见问题解答、结论。
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
+初始版本请访问 github.com/gaurav18115。
+免责声明 1：不要期望此工具能提供高质量。它不应该取代 SEObotai 或 JournalistAI 等更好的工具。
+免责声明 2：您可能会反对人工智能生成的内容，但 Google 对此没有异议 - 只要它对读者有用。
+请随意分叉并改进它。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cb401ae534</guid>
-      <pubDate>Thu, 29 Feb 2024 07:20:31 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/6bde7dca55</guid>
+      <pubDate>Thu, 29 Feb 2024 14:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>每月花费不到 10 美元即可托管您的业余项目</title>
-      <link>https://feed.indiehackers.world/post/5d7fe7e1f3</link>
-      <description><![CDATA[大家好，当我们看到越来越多的构建者因不存在的故障而承担巨额托管费用时，我认为向人们展示如何托管自己的 VPS + 备份会很好。每月不到 10 美元。
-评论中的免费 200 美元链接。
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/831ba40109</link>
+      <description><![CDATA[我已经分叉了 Blogen 并向公众提供了我的版本：https://github.com/rbatista191/blogen&lt; /p&gt;
+它会为给定的关键字生成完整的博客文章（首先要进行关键字研究）：标题、简介、要点、内部链接、服务/产品促销、目录、常见问题解答、结论。
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
+初始版本请访问 github.com/gaurav18115。
+免责声明 1：不要期望此工具能提供高质量。它不应该取代 SEObotai 或 JournalistAI 等更好的工具。
+免责声明 2：您可能会反对人工智能生成的内容，但 Google 对此没有异议 - 只要它对读者有用。
+请随意分叉并改进它。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5d7fe7e1f3</guid>
-      <pubDate>Thu, 29 Feb 2024 07:03:51 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/831ba40109</guid>
+      <pubDate>Thu, 29 Feb 2024 14:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>成功蓝图：制定您的软件开发计划</title>
-      <link>https://feed.indiehackers.world/post/dc176f2d0c</link>
-      <description><![CDATA[&lt;强&gt;7。规划您的发布
-制定发布工作软件的时间表，包括 Alpha、Beta 和公开发布里程碑。填充时间表以考虑不可预见的复杂性。
-&lt;强&gt;8。重新审视并调整
-了解更多信息后查看您的路线图。根据内部反馈和外部用户的反馈进行更改。透明度和敏捷性是关键。
-创建适应性强的软件开发计划需要前期的努力和研究，但通过明确的战略调整可以获得红利。
-正如史蒂夫·乔布斯曾经说过的那样，“你必须从客户体验开始，然后再回到技术。”
-这种以客户为中心的方法使团队能够构建真正改变业务指标的解决方案。
+      <title>无需任何预算即可启动您的博客</title>
+      <link>https://feed.indiehackers.world/post/74b6ab65be</link>
+      <description><![CDATA[我已经分叉了 Blogen 并向公众提供了我的版本：https://github.com/rbatista191/blogen&lt; /p&gt;
+它会为给定的关键字生成完整的博客文章（首先要进行关键字研究）：标题、简介、要点、内部链接、服务/产品促销、目录、常见问题解答、结论。
+基本但有效的开始排名。代码并不漂亮，但可以完成工作。
+初始版本请访问 github.com/gaurav18115。
+免责声明 1：不要期望此工具能提供高质量。它不应该取代 SEObotai 或 JournalistAI 等更好的工具。
+免责声明 2：您可能会反对人工智能生成的内容，但 Google 对此没有异议 - 只要它对读者有用。
+请随意分叉并改进它。
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dc176f2d0c</guid>
-      <pubDate>Thu, 29 Feb 2024 06:55:55 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/74b6ab65be</guid>
+      <pubDate>Thu, 29 Feb 2024 14:24:42 GMT</pubDate>
     </item>
     <item>
-      <title>什么是最简单且最便宜的博客网站？</title>
-      <link>https://feed.indiehackers.world/post/ade9320c5f</link>
-      <description><![CDATA[嘿，很棒的 IH：D
-我目前正在使用 Carrd 构建网站，并且很喜欢它。
-但是我现在正在寻找一个便宜且易于使用的博客网站。
+      <title>新手筹款。需要尽快帮助！</title>
+      <link>https://feed.indiehackers.world/post/7d32acf5e8</link>
+      <description><![CDATA[我们周一与 Ultra VC 进行了通话，希望社区提供一些意见：🤟
 
-我以前使用过 Wordpress，发现它很麻烦。
-Webflow 价格昂贵等等。
+接听电话的最佳方式是什么？必须提出的 3 个绝对问题是什么？
 
-理想情况下，它是一个像 Carrd 一样易于使用的博客网站，我可以：
+我们如何协商股权？在网站上，他们指定分配 7 万美元，但没有指定分配多少%。在这种情况下，首选方法是什么？
 
-添加自定义域
-稍后阶段的付费专区
+如何既乐观又不炫耀？
 
-任何建议都会很棒 - 谢谢！
+根据您之前的经验，尝试融资时绝对“不能做”的事情是什么？
+
+
+非常感谢，会告诉大家结果的！
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ade9320c5f</guid>
-      <pubDate>Thu, 29 Feb 2024 06:46:23 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/7d32acf5e8</guid>
+      <pubDate>Thu, 29 Feb 2024 14:10:30 GMT</pubDate>
     </item>
     <item>
-      <title>新变化：不要听取每个创始人的建议</title>
-      <link>https://feed.indiehackers.world/post/dfd95a6b38</link>
-      <description><![CDATA[动力决定你的成功
-设定小目标的全部意义在于说服自己，你正在做某件事，你可以做到，并且有一天这可以帮助你过上梦想的生活。
-如果你是新人，你迫切需要微小的胜利，因为你非常需要证据来说服自己这个企业有立足之地。如果你看不到牵引力的迹象，你就不会有动力去做任何事情。人类都会被进步所激励，无论进步有多小。
-最好设定五个小目标，在实现前一个目标后再设定每个小目标，而不是设定一个大目标。每个小的成功都会带来更大的成功。
-把你的自我放在一边。目标不是永久的；一旦你达到了它们，你就可以修改它们，我们大多数人自然会这样做。设定您实际可以实现的目标，然后开始工作！
+      <title>威廉姆斯将如何从全职教师变成六位数的网站翻转者</title>
+      <link>https://feed.indiehackers.world/post/b517ffe941</link>
+      <description><![CDATA[除了广告收入之外，威尔还使用其他盈利方法，例如联属计划和数字产品（取决于网站），并且他最近开始征求电子邮件赞助。
+在谈到数字产品主题时，威尔说：“如果我对某个主题了解很多，我会尝试自己创建一本电子书/课程。否则，您可以聘请专家来做这件事。如果以前的网站所有者是各自领域的专家，那么与他们合作可以很好地实现这一目标。”
+展望未来
+目前，威尔很享受网站炒作者的工作，没有具体的长期计划。他说：“我曾经对我的网站进行长远考虑，但随着在线空间和谷歌更新的变化速度，我现在的重点是每年保持盈利，并从业务中获得资金并投入到长期投资中。”尽可能进行长期投资。 
 Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dfd95a6b38</guid>
-      <pubDate>Thu, 29 Feb 2024 05:33:33 GMT</pubDate>
+      <guid>https://feed.indiehackers.world/post/b517ffe941</guid>
+      <pubDate>Thu, 29 Feb 2024 13:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关如何进行用户访谈以达到产品市场契合度的专业提示（深入探讨）</title>
+      <link>https://feed.indiehackers.world/post/f57f7a1782</link>
+      <description><![CDATA[7) 不要做出假设。问一些愚蠢的问题。
+如果不问基本问题，您可能会错过很多关键信息。这种情况经常发生，因为您认为自己已经知道答案。此外，基本问题也是让一个人轻松接受面试的好方法。例如，我会以这样的问题开始用户访谈：“你们公司是做什么的？你在公司担任什么职务？”如果你很好地筛选了你的用户，你可能知道这些问题的答案，但询问他们会揭示更多有趣的细节和细微差别。这对于后续问题或当我整理用户场景时可能会派上用场。这对任何人来说都是一个很容易回答的问题，因此这是一个很好的热身，有助于让他们在面试开始时感到更加舒适。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f57f7a1782</guid>
+      <pubDate>Thu, 29 Feb 2024 13:16:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
