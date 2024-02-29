@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 28 Feb 2024 21:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 00:50:47 GMT</lastBuildDate>
+    <item>
+      <title>银行利息收取</title>
+      <link>https://www.reddit.com/r/automation/comments/1b2kgq3/bank_interest_collection/</link>
+      <description><![CDATA[是否有应用或服务可以整合您银行帐户中的所有利息并将其放入单独的帐户中使用？   由   提交 /u/JethroPrimo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b2kgq3/bank_interest_collection/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么样的业务工作流程自动化可以让您的生活更轻松？</title>
+      <link>https://www.reddit.com/r/automation/comments/1b2jr03/what_business_workflow_automation_would_make_your/</link>
+      <description><![CDATA[ 由   提交 /u/Ill_Concept_6002   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b2jr03/what_business_workflow_automation_would_make_your/</guid>
+      <pubDate>Wed, 28 Feb 2024 22:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>#1 免费人工智能摘要工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1b2hnjb/the_1_free_ai_summarizer_tool/</link>
+      <description><![CDATA[   /u/Chisom1998_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b2hnjb/the_1_free_ai_summarizer_tool/</guid>
+      <pubDate>Wed, 28 Feb 2024 21:14:21 GMT</pubDate>
+    </item>
     <item>
       <title>如何自动将职位发布从我的网站发布到 LinkedIn 和 Indeed</title>
       <link>https://www.reddit.com/r/automation/comments/1b2ekgz/how_to_automate_job_postings_from_my_website_to/</link>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 26 Feb 2024 14:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>#1 免费人工智能段落生成器</title>
-      <link>https://www.reddit.com/r/automation/comments/1azv87p/the_1_free_ai_paragraph_generator/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Chisom1998_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1azv87p/the_1_free_ai_paragraph_generator/</guid>
-      <pubDate>Sun, 25 Feb 2024 18:38:36 GMT</pubDate>
-    </item>
-    <item>
       <title>我们不断发展的小型企业对电子邮件管理感到不知所措</title>
       <link>https://www.reddit.com/r/automation/comments/1azu94u/overwhelmed_by_email_management_in_our_growing/</link>
       <description><![CDATA[TL;DR：如果这不是正确的地方，请提前致歉，但我们有点忙了想法 - 请随意指出我其他地方（即使其他地方只是出口）。我们的小型企业每天都被大量电子邮件淹没，需要进行手动审核，以区分新的文档审核请求和正在进行的项目通信。此过程需要一名专门的管理员来手动排序、分配和跟进任务 - 这种方法既不可扩展，也不防故障。我们迫切需要一个自动化/软件解决方案来：  自动对传入电子邮件进行分类。 根据循环/容量系统或基于持续参与。 有效管理截止日期（按小时和分钟）和后续行动。 有某种报告，以便我们可以跟踪客户使用情况、客户代表使用情况、请求类型、我们为他们完成工作所需的时间以及有关工作请求的其他数据。  寻求有关有助于简化流程的工具或策略的建议。- -- 嘿 r/automation，我正在联系希望寻找一些指导，或者也许是一条生命线，来解决日益成为我们小型企业运营和增长瓶颈的问题。如果这不是正确的地方，请提前致歉，但我们有点没有主意 - 请随时指出我其他地方（即使其他地方只是出口）， 背景故事： 随着我们的发展，入站电子邮件的数量猛增。每封电子邮件都至关重要 - 它们要么是要求我们审查和协商文件（我们服务的基础）的新请求，要么是有关现有请求的持续通信。目前，我们的整个电子邮件管理流程取决于一个管理团队的艰巨努力成员。他们的日常工作包括仔细阅读每封电子邮件以确定其性质，以公平的循环方式将工作分配给团队成员（除非它是正在进行的工作，在这种情况下它将被路由回原始处理程序），设定截止日期、发送提醒以及在截止日期后追赶。这个手动流程是一项艰巨的任务，很容易出现效率低下和人为错误的情况，更不用说它给我们的管理员带来的压力了。 困境： 我们正束手无策，试图找到一种更可持续、更防错的方法来管理我们业务的这一关键方面。理想的解决方案将：  将电子邮件无缝分类为“新请求”和“新请求”。或“持续通信”， 自动分配任务，同时尊重我们的循环分配，并智能地指导后续处理相应任务的人员， 自动截止日期设置（按分钟）、后续提醒和警报，以确保没有任何遗漏。 有某种报告，以便我们可以跟踪客户使用情况、客户代表使用情况、请求类型、时间引导我们为他们完成工作，以及有关工作请求的其他数据。  鉴于我们的需求多种多样，而且我们有限的大公司资源，在自动化工具和软件的迷宫中导航解决方案一直令人畏惧。我们知道我们需要采用一种更具可扩展性、自动化的方法，但找到合适的方法是我们陷入困境的地方。 呼吁： 所以，我向你们求助，技术专家、企业主和流程优化者。你们中有人面临过类似的挑战吗？如果是这样，您是如何导航它们的？您推荐哪些特定的工具、软件或策略可以缓解我们的电子邮件管理困境？欢迎任何和所有建议。我们对经济高效的解决方案特别感兴趣，这些解决方案不会让您倾家荡产，但对所有可以帮助我们扭转这一问题的建议持开放态度。感谢您花时间阅读本文以及您能提供的任何见解提供。应对这一挑战对于我们业务的持续增长和效率至关重要，您的专家建议可能是我们需要的希望灯塔。   由   提交/u/HomeworkFast74  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1azu94u/overwhelmed_by_email_management_in_our_growing/</guid>
       <pubDate>Sun, 25 Feb 2024 18:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[D] [P] 意图飞行员：桌面操作代理</title>
-      <link>https://www.reddit.com/r/automation/comments/1ay842w/d_p_intentpilot_a_desktop_operating_agent/</link>
-      <description><![CDATA[库： pip install Intent-pilot 仓库链接：  https://github.com/askui/intent-pilot 嘿！  我们构建了一个可以执行端到端自动化的桌面代理。核心思想是基于Set-of-Mark (SoM) + GPT-4v进行本地化。该库与自操作系统计算机或开放解释器具有相同的路线，但我们认为我们的对象检测更适合 UI 领域。此外，我们通过提供跨平台通知来改善 UI 体验，并修复了键盘布局问题 - 例如，Pyautogui 弄乱了德语键盘中的特殊字符。 让我知道你们的想法。我在一周内完成了它，最后我的同事提供了帮助。因此，我们将不胜感激您的反馈。 我们的对象检测模型位于 API 后面，但我们已经发布了全局密钥（可在存储库中找到）。周末愉快！ 注意：这就像授予婴儿访问权一样。它最让你惊讶，但也可能让你震惊。我建议您在点击错误的内容之前关闭重要的选项卡;)   由   提交/u/Outlandish_MurMan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ay842w/d_p_intentpilot_a_desktop_operating_agent/</guid>
-      <pubDate>Fri, 23 Feb 2024 18:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我没有收到来自已关闭的备份系统的电子邮件（未发送电子邮件）时，如何收到通知</title>
-      <link>https://www.reddit.com/r/automation/comments/1axa6id/how_i_got_notified_when_i_dont_receive_an_email/</link>
-      <description><![CDATA[嗨， 我们有太多的备份系统从不同的客户端运行，基本上我们收到了太多有关已完成的备份作业，当出现错误时，我们会收到一封有关它的电子邮件，当有警告或成功时也是如此，但是当备份系统关闭或服务停止时，备份不会发送给我们电子邮件，我们花了很长时间才知道特定的备份已关闭，我们正在寻找一个自动化系统可以向我们发出这种警报，当备份关闭或在一定时间内没有收到电子邮件时，它会给我们一个有关该故障的通知，因此我们知道该特定备份存在问题...我们的客户不想雇用某人来监控备份和发送的所有电子邮件，而且我们也无法监控每天从所有客户那里收到的大量电子邮件。 .  我希望这一点能够清楚并得到一些建议或任何软件来解决这个问题。  ​ 感谢大家 Reda   由   提交 /u/RedzaGhariba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1axa6id/how_i_got_notified_when_i_dont_receive_an_email/</guid>
-      <pubDate>Thu, 22 Feb 2024 16:11:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
