@@ -4,7 +4,111 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 29 Feb 2024 09:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 12:22:28 GMT</lastBuildDate>
+    <item>
+      <title>您如何为产品或服务定价？ 🏷️</title>
+      <link>https://feed.indiehackers.world/post/acfab2551e</link>
+      <description><![CDATA[https://www.upsilonit.com/blog/mastering-startup-pricing-strategy
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/acfab2551e</guid>
+      <pubDate>Thu, 29 Feb 2024 11:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Astrojs 和 Tailwind CSS 创建动态特征网格</title>
+      <link>https://feed.indiehackers.world/post/28eca0b09d</link>
+      <description><![CDATA[
+{String(index + 1).padStart(2, &quot;0&quot;) + &quot;⏤&quot;}：将当前索引转换为2位字符串，开始位置加1从 1 开始编号，并附加破折号以进行格式化。对于为每个功能创建一致的编号标签很有用。
+
+完整模板
+{
+  features.map((特征，索引) =&gt; (
+    &lt;&gt;
+      
+    
+  ））
+}
+
+这就是使用 Astro.js 和 Tailwind CSS 创建动态功能网格的分步指南。通过将 Astro.js 的高效渲染功能与 Tailwind CSS 的风格灵活性相结合，您已经学会了如何制作一个交互式组件，该组件不仅看起来很棒，而且还增强了网站的用户体验。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/28eca0b09d</guid>
+      <pubDate>Thu, 29 Feb 2024 10:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>创业的孤独海洋：阿玛诺的诞生</title>
+      <link>https://feed.indiehackers.world/post/4518d85f61</link>
+      <description><![CDATA[发现独立黑客重振了我的决心，让我与那些同样经历过孤立和怀疑的熟悉考验的企业家同行建立了联系。
+反思
+创业是一段孤独的旅程。有一段时间我不吃饭，彻夜难眠，我对一切都提出了质疑。然而，在遇到这个社区时，我在共同的经历中找到了安慰和验证。
+当我们即将推出 Armano 时，我将这段叙述不仅仅作为介绍，而是作为对创业之旅价值的肯定。对于那些走这条路的人来说，要知道你并不孤单。道路是艰难的，往往比预想的更孤独，但正是在这些挑战中，我们发现了自己的韧性和动力。
+祝我们下个月 Armano 发布顺利。我们将共同将挑战转化为机遇。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/4518d85f61</guid>
+      <pubDate>Thu, 29 Feb 2024 10:34:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何跟踪您的软件订阅费用？</title>
+      <link>https://feed.indiehackers.world/post/1aa859072a</link>
+      <description><![CDATA[我淹没在订阅的海洋中——设计工具、项目管理、电子邮件营销，凡是你能想到的！跟踪所有这些，尤其是成本，是一场噩梦。
+现在，我正在使用 Google 表格来记录订阅名称、费用和续订日期，甚至添加有关使用情况的注释。它工作正常，但更新起来很笨拙且耗时。
+我很好奇 – 你们用什么来跟踪您的软件订阅？
+--您和我一样是电子表格爱好者吗？
+-- 您是否信赖专门的订阅管理工具？
+-- 有没有我错过的隐藏宝石应用程序？
+在评论中分享。 :)
+附注今天在 PH 上发现了 Talisman。到目前为止听起来很有希望。我正在尝试一下：https://www.producthunt.com/posts/talisman-3
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1aa859072a</guid>
+      <pubDate>Thu, 29 Feb 2024 10:34:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>犹豫是否要在 LinkedIn 上发布有关 My Side Gig 的信息</title>
+      <link>https://feed.indiehackers.world/post/9f52e2e11b</link>
+      <description><![CDATA[你们是如何处理这个问题的？
+在没有任何现有联系人或工作经验的情况下开始一份新的空白 LinkedIn 个人资料是否明智？
+或者，如果这些事情确实是我所关心的，那么现在最好不要尝试使用 LinkedIn 来实现此目的吗？
+谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9f52e2e11b</guid>
+      <pubDate>Thu, 29 Feb 2024 10:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在徽标上花费的最低金额是多少？</title>
+      <link>https://feed.indiehackers.world/post/87c0a349bb</link>
+      <description><![CDATA[干杯！！！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/87c0a349bb</guid>
+      <pubDate>Thu, 29 Feb 2024 10:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我计划在三月份同时营销 3 种产品：博客和免费工具</title>
+      <link>https://feed.indiehackers.world/post/57411ee975</link>
+      <description><![CDATA[最后，我必须相信这一点才能让它发挥作用。它是否有效绝对不在我的手中，但我的目标是让我在下个月推出的内容和工具发挥最大的价值。
+独立黑客快乐！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/57411ee975</guid>
+      <pubDate>Thu, 29 Feb 2024 10:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>登陆页面反馈</title>
+      <link>https://feed.indiehackers.world/post/f115dc2ccf</link>
+      <description><![CDATA[https://bigpicture.site/
+很想在我的目标网页上获得一些反馈。我对提及“竞争”感到犹豫。就在一开始，但另一方面，这些都是巨大的产品，任何想要了解大局的人都已经很清楚了。
+实际上，如果我最终保留它们，我是否需要在这些提及中添加 (TM) 符号？例如：Slack™。我不认为 Slack 本身这样做，但它是一个注册商标。
+如有任何其他意见，我们将不胜感激。谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f115dc2ccf</guid>
+      <pubDate>Thu, 29 Feb 2024 10:12:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用程序的最佳定价模型是什么？</title>
+      <link>https://feed.indiehackers.world/post/923f99f199</link>
+      <description><![CDATA[按使用付费：公平透明
+对于不经常使用的应用程序，按使用付费模式似乎最合乎逻辑。很简单——您只需为使用的内容付费。它公平、透明，非常适合使用情况变化很大的服务，例如按查询付费的 API。
+确定网络应用的最佳定价模型取决于其性质、目标受众及其提供的价值。无论是免费增值、订阅、分层还是按使用付费，每种模式都有自己的位置。诀窍在于充分了解您的服务和客户，以便做出明智的选择。请记住，正确的定价策略是将您的应用从单纯的想法转变为蓬勃发展的业务的关键一步。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/923f99f199</guid>
+      <pubDate>Thu, 29 Feb 2024 09:42:32 GMT</pubDate>
+    </item>
     <item>
       <title>产品开始盈利后，您面临的最大挑战是什么？</title>
       <link>https://feed.indiehackers.world/post/00ffb4509b</link>
@@ -76,106 +180,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dfd95a6b38</guid>
       <pubDate>Thu, 29 Feb 2024 05:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>平衡创新和可靠性：SRE 团队指南</title>
-      <link>https://feed.indiehackers.world/post/5298322368</link>
-      <description><![CDATA[
-强调风险管理：进行彻底的风险评估，以查明潜在的故障点。利用 IT 警报工具进行主动监控和快速响应，应用预防措施来减轻已识别的风险，同时不妨碍创新工作。
-采用增量部署技术：利用金丝雀版本和功能切换来分阶段引入新功能，密切监控基本指标，以及时发现对系统可靠性的任何负面影响。
-解决技术债务：投入资源减少技术债务，确保其不会阻碍新的发展。在新功能引入和减轻技术债务之间取得平衡是保持系统完整性和促进持续创新的关键。
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5298322368</guid>
-      <pubDate>Thu, 29 Feb 2024 04:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用社交媒体来开发潜在客户</title>
-      <link>https://feed.indiehackers.world/post/dc52c5d96f</link>
-      <description><![CDATA[释放全球 49.5 亿活跃社交媒体用户的力量。了解如何使用 Octoparse 提取有价值的潜在客户。通过简单的步骤释放社交媒体数据库的潜力。 #SocialMedia #LeadGeneration #Octoparse
-https://www.octoparse.com/blog/scrape-leads-from-social-media&lt; /a&gt;
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dc52c5d96f</guid>
-      <pubDate>Thu, 29 Feb 2024 02:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>打破现状：BlockTrain ai 的个性化专业发展方法</title>
-      <link>https://feed.indiehackers.world/post/d7f7b9c376</link>
-      <description><![CDATA[简化组织学习
-管理员工发展计划的复杂性对于任何组织来说都是令人畏惧的。 BlockTrain.ai 通过其集中式培训管理系统简化了这一流程，使公司能够有效地监督和优化员工的学习体验。这不仅减轻了管理负担，还提供了宝贵的见解，以提高培训计划的效率。
-转变职业发展：我们的影响和未来
-对我们的 MVP 的热烈反响凸显了对更有针对性、更高效、更可靠的职业发展方法的迫切需求。用户称赞该平台参与和提供相关学习体验的能力，而组织则赞赏培训流程增强的完整性和可管理性。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d7f7b9c376</guid>
-      <pubDate>Thu, 29 Feb 2024 00:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费验证您的想法</title>
-      <link>https://feed.indiehackers.world/post/2270da6f7f</link>
-      <description><![CDATA[嘿 IH 社区
-我推出了很多产品，但都以失败告终。即使您已经阅读了妈妈测试并“做对了一切”，产品/想法验证阶段对于任何构建者来说仍然是一个模糊且痛苦的领域。我正在做一些事情来尝试让想法验证变得不那么痛苦。 
-我们正在寻找一些独立黑客，他们要么
-(1) 有一个他们想要实现的想法或
-(2) 正在积极地构建一个想法。 
-这可能是您一直在考虑的项目，也可能是您尚未启动的正在进行的工作。这不是推销——我们不收取任何费用。最坏的情况是您从我们这里得到反向链接但没有得到验证——最好的情况是您的想法会得到一些早期采用者！
-如果您有兴趣，请在 x/twitter 上给我发私信 https://twitter.com/mattisinfact 或安排快速预约聊天：https://zcal.co/i/_SpfUSZn
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2270da6f7f</guid>
-      <pubDate>Wed, 28 Feb 2024 22:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEO 101：基本原则和技巧</title>
-      <link>https://feed.indiehackers.world/post/1ee93ee85c</link>
-      <description><![CDATA[基本上，这些工具可以帮助网站管理员查看有关其页面的索引结果和错误，以提高 Google 和 Google 的 SEO 性能。必应。
-上面的这些标题对于 SEO 很重要。您可以检查您的网站，看看哪些部分已优化，哪些部分未优化。
-结论
-总之，搜索引擎优化对于提高网站的知名度和吸引潜在客户至关重要。了解 SEO 的基础知识，包括元标记和 robots.txt 等技术方面，以及站内和站外优化，至关重要。站点地图生成器、SEMrush 和 Search Console/Bing 网站管理员等工具可以帮助优化您的网站并跟踪其性能。通过随时了解情况并利用这些资源，您可以增强 SEO 工作并最终扩大您的在线影响力。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1ee93ee85c</guid>
-      <pubDate>Wed, 28 Feb 2024 21:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名出售</title>
-      <link>https://feed.indiehackers.world/post/13e557686f</link>
-      <description><![CDATA[出售
-Hellochef.io
-可能适合食品配送或类似网站
-一些想法：
-
-定制膳食计划：通过 HelloChef.io 提供针对特定饮食需求和偏好的个性化膳食计划。
-
-给我回复或私信报价。
-750 美元起
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/13e557686f</guid>
-      <pubDate>Wed, 28 Feb 2024 21:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用有声读物来挠痒痒</title>
-      <link>https://feed.indiehackers.world/post/8759c87631</link>
-      <description><![CDATA[附注我今天也在 HN 上发布了：https://news.ycombinator.com/item?id=39538183
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8759c87631</guid>
-      <pubDate>Wed, 28 Feb 2024 20:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现 IH 4 年后，推出我的第一个 Saas！ 🚀</title>
-      <link>https://feed.indiehackers.world/post/a068836154</link>
-      <description><![CDATA[我也很想听听您对着陆页的想法 - 不要犹豫！
-在此处探索 Airscale：https://airscale.io
-干杯，
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a068836154</guid>
-      <pubDate>Wed, 28 Feb 2024 19:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>👨‍💻 推出“启动”Framer 的高转化登陆页面模板</title>
-      <link>https://feed.indiehackers.world/post/7906803ca1</link>
-      <description><![CDATA[如果您在结帐时使用代码 LAUNCH，则限时仅需 24 美元。
-让我们在这个周末推出一些东西！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7906803ca1</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

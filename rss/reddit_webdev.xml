@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 09:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 12:22:03 GMT</lastBuildDate>
+    <item>
+      <title>我对如何解决 cookie 横幅疯狂问题的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2yq9k/my_suggestion_on_how_to_solve_the_cookie_banner/</link>
+      <description><![CDATA[   /u/WolfOliver  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2yq9k/my_suggestion_on_how_to_solve_the_cookie_banner/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有真正的替代方案可以替代这个无尽的 Web 框架的噩梦？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2yf8i/is_there_a_real_alternative_to_this_nightmare_of/</link>
+      <description><![CDATA[这变得荒谬且令人难以置信的混乱，我知道很多人对如何构建框架有很多不同的意见，但我认为我们正在得到到了我们有太多东西的地步。 Pheraps 就是简单地选择一个并坚持使用它，但每个开发人员都有自己的堆栈，每个公司都有自己的堆栈。  我想明白为什么会这样，我们必须让 300 种不同的东西相互兼容，而不是用一两个工具来完成大多数事情。 毕竟 Web 应用程序是软件的一部分，但一方面我们拥有持续数十年的 C 语言，它可以做任何事情。另一方面，Javascript、Typescript、React、Vue、Next 和 1000 种不同的工具似乎都在做类似的事情...... 也许这是由于对机器的更高抽象？或者前端需要不断改变以保持竞争力？界面随着人们的变化和市场需要新的东西而变化。 或者说这是因为，作为一种更高级别的动态类型和垃圾收集语言，JavaScript 更容易，每个人都能够一个框架。 我不知道，但从外部来看，这似乎过于臃肿且不可持续，也许我只是需要一个不同的视角。此时，您是否应该真正专注于 2/3 最常用的框架和工具，并希望您加入的公司将使用与您相同的框架和工具，或者成为自由职业者。或者进入一种心态，为了保持竞争力，你总是必须学习新的工具，最终完成类似的事情。 我对 Rust 感兴趣，因为它的生态系统看起来比 Javascript 更干净、更专注。 ，但是 Rust 中的 webdev 看起来仍然相当初级，还没有真正准备好。这就是说它有真正的替代方案吗？整个生态系统有什么新的发展方向吗？还是普遍认为这将保持原样？   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2yf8i/is_there_a_real_alternative_to_this_nightmare_of/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>onclick 属性与 addEventListener('click')</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2yd3r/onclick_attribute_vs_addeventlistenerclick/</link>
+      <description><![CDATA[与使用 JS 和 addEventListener 添加事件相比，使用内联 onclick 属性（或任何其他 oninput/submit 等）是否有任何重大缺点? 我个人发现，当我在标记中看到一个按钮时，很难理解并弄清楚发生了什么，并且我想嗯，我应该检查 JS 是否附加了任何侦听器。我不会只是看到这个按钮调用这个函数，而是进入 js 看看它做了什么。 我看到的唯一真正的问题可能是有条件地添加侦听器，但是我的工作流程是 SSR 并且我继续模板化，以便为我处理。   由   提交/u/CoolGuy9000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2yd3r/onclick_attribute_vs_addeventlistenerclick/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>给有抱负的初级开发人员的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2xwe7/advice_for_aspiring_junior_dev/</link>
+      <description><![CDATA[大家好，我想提出一个想法，看看高级研究员在招聘初级开发人员时是否会认为有趣。 &lt; p&gt;我一直在使用 MAMP 处理数据库，并产生了为我和我妻子的购物之旅创建一个网站的想法。 我正在考虑一个网站，用户可以在其中使用用户名创建帐户和密码，并在他们的空间内，当他们在杂货店里走动时，他们会添加他们放入购物车的所有产品的价格。 在第一次购物之后，一些价格已经保存在数据库中并且可以下次使用或更新。该网站将保存有关每次杂货购物成本的所有信息，并提供有关哪些产品与之前的购物相比价格上涨或下降的信息。  我会根据我妻子的需求不断添加功能。 我想知道这个小项目是否能引起雇用初级开发人员的人的关注。我会尝试在实际网站中将整个内容设置为一项投资，以在投资组合中展示它。  我很感谢任何意见。非常感谢   由   提交 /u/Affectionate-Tart558    reddit.com/r/webdev/comments/1b2xwe7/advice_for_aspiring_junior_dev/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2xwe7/advice_for_aspiring_junior_dev/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:13:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Astrojs 和 Tailwind CSS 创建动态特征网格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2xjev/how_to_create_a_dynamic_feature_grid_with_astrojs/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2xjev/how_to_create_a_dynamic_feature_grid_with_astrojs/</guid>
+      <pubDate>Thu, 29 Feb 2024 10:50:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为实时网站创建开发区域？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2xh2g/how_do_i_create_a_development_area_for_a_live/</link>
+      <description><![CDATA[嗨， 随机问题，但我认为你是一个不错的选择。对于家族企业来说，有一个由外部公司运营的网站。无论出于何种原因，该公司不再继续提供服务，他们将带有网站的网络服务器移交给了该服务器。它运行在iis上，还有一个Mssql数据库。 我的家人问我是否可以解决这个问题，所以我看了一下，还可以。我可以访问代码（在 wwwroot 文件夹中）并对实时版本进行更改。以及查看所有数据库内容并使用 sql 进行更改。 我的问题是进行更改。我只能对实时版本的代码进行更改。对于像更改 API 密钥（我就是这样做的）这样的小事情，这很好。但是，对于较大的更改，这将是一个问题。  由于我没有源代码，只有部署版本，所以我在网上查找，发现如果有 *.aspx.vb 文件，就很容易进行逆向工程。我有那些文件！我想知道我是否可以在设置开发环境方面获得一些帮助？或者是否有更好的方法来解决这一切？ 我有基本的编码经验，但对服务器和类似的东西一无所知。我确实尝试从 wwwroot 文件复制所有代码并从我的个人计算机在本地主机上启动它；还通过备份（.bak 文件）复制数据库。数据库过来并进行一些权限调整后，网站让我登录，而没有说通常无法登录数据库。但现在出现了不同的错误，图像无法正确加载。我觉得这很奇怪，因为我实际上只是从实时版本中复制了完整代码，效果很好🤷‍♂️   由   提交 /u/JaaferK   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2xh2g/how_do_i_create_a_development_area_for_a_live/</guid>
+      <pubDate>Thu, 29 Feb 2024 10:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的 VPS 服务器提供商？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2xaai/best_vps_server_providers/</link>
+      <description><![CDATA[嗨，我想在 vps 服务器上托管一个小型网站。我研究过 Hetzner、ionos、数字海洋。有什么关于安全性和服务方面最好的建议吗？   由   提交/u/sahil_hackerrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2xaai/best_vps_server_providers/</guid>
+      <pubDate>Thu, 29 Feb 2024 10:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的图片模糊了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2wsfl/my_img_is_blurry/</link>
+      <description><![CDATA[大家好，我正在尝试为静态餐厅网页使用背景图像，但当我更改其大小时，我的图片变得模糊且像素化。有什么办法可以拉伸它或使其合身而不显得可怕吗？    由   提交/u/bloodcurdle-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2wsfl/my_img_is_blurry/</guid>
+      <pubDate>Thu, 29 Feb 2024 09:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在短时间内通过 powerautomate 或某些电子邮件提供商 API 自动创建/删除电子邮件帐户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2wmug/how_could_one_automate_the_creationdeletion_of/</link>
+      <description><![CDATA[无需详细介绍我的具体用例： 将 powerautomate 用于工作流程的某些部分，该工作流程将放置约 20,000每年 + 交易。 我想将用户的电子邮件地址从他们的实际电子邮件中提取出来。 在我的完美场景中，今天是星期二，来自 50 个不同用户/电子邮件的 100 笔交易。每 10 个用户，我都会创建一封新电子邮件，并将接下来的 10 个用户关联到该电子邮件/帐户。实际上，这 100 笔交易跨越 5 封电子邮件。电子邮件帐户只需活跃一年。我无法使用 [myemail@gmail.com](mailto:myemail@ gmail.com) 和 [myemail+1@gmail.com](mailto:myemail+1@gmail.com）（路由到同一位置），在许多位置的后端被过滤掉或解析为相同的位置。 有有人尝试过做这样的事情吗？自动化此工作流程的最简单方法是什么？他们的电子邮件提供商是否可以轻松地自动提供电子邮件帐户？可以通过 powerautomate 或 API 来完成吗？ 任何帮助，我们将不胜感激。我知道这是一个奇怪的要求。    由   提交/u/bwaugh06  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2wmug/how_could_one_automate_the_creationdeletion_of/</guid>
+      <pubDate>Thu, 29 Feb 2024 09:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 iPad 上制作 13.000 个 SVG 圆圈动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2wkqz/animating_13000_svg_circles_on_a_ipad/</link>
+      <description><![CDATA[大家好， 我需要一些 CSS 技巧来为大量 SVG  制作动画。元素。目前我的解决方案相当不起眼，我有一个关键帧动画，它将颜色（填充）从 x 更改为 y，然后再次返回 x。 准确地说，有 13,000 个关键帧动画，其中在平均有 1,000 - 2,000 个同时变色。动画在桌面上很棒，但在 iPad 上则不然。 使用“will-change: fill;”我还没有取得任何成果。 &lt;圆圈&gt;元素被限制在绝对最小值。 cx、cy 和一个类 f 或 t。 现在我的问题是：如何在不使用 less Circle 的情况下实现所有这些元素的平滑动画？ ​&lt; /p&gt; 感谢您的建议！   由   提交/u/IceTeaIsLaaav   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2wkqz/animating_13000_svg_circles_on_a_ipad/</guid>
+      <pubDate>Thu, 29 Feb 2024 09:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何说服潜在客户选择您？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2wc3a/how_do_you_convice_a_potential_client_to_choose/</link>
+      <description><![CDATA[有很多便宜的网站构建器，如果您每月支付 20/40 美元，您就可以获得一个可以根据需要添加元素的网站。您如何认为向您从头开始构建它支付 400 多美元的费用，然后为任何潜在的更改等每月向您支付费用是更好的交易？ &lt;!-- SC_ON - -&gt;  由   提交/u/RayGunny178  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2wc3a/how_do_you_convice_a_potential_client_to_choose/</guid>
+      <pubDate>Thu, 29 Feb 2024 09:27:25 GMT</pubDate>
+    </item>
     <item>
       <title>工业级音频搜索算法</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2w27p/an_industrialstrength_audio_search_algorithm/</link>
@@ -13,7 +90,7 @@
       <pubDate>Thu, 29 Feb 2024 09:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用“非标准”工具进行自由职业是不是一个坏主意？</title>
+      <title>使用“非标准”工具进行自由职业是一个坏主意吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2vzsc/is_it_a_bad_idea_to_use_nonstandard_tools_for/</link>
       <description><![CDATA[嗨，我正在开始一项自由网页设计业务。 我已经建立了一个网站（免费），使用SvelteKit 和 TailwindCSS 并托管在 Cloudflare Pages 上。我知道对于这样的网站来说，整个 JS 框架可能有点大材小用，但 Svelte 的语法最接近我的心智模型，我发现我用它工作得更快。 我最近遇到了 editable.website，这是一个工具集合，允许对使用 SvelteKit 制作的网站进行所见即所得编辑。这对我来说看起来很完美，因为它非常适合我的堆栈，并且比 WordPress 等传统 CMS 快得多（并且具有更好的用户体验！）。我已经尝试过它（不幸的是，没有文档，但如果您了解 JS/Svelte，那么学习使用它是非常简单的），并且我认为它非常适合构建自由网站。 我的问题是，与我的客户一起使用这样的工具是否是最佳实践。 如果某些东西停止工作，我会在那里支持他们，而且我认为我对此有足够的了解解决出现的问题。   由   提交/u/Personal_Rich_2322   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2vzsc/is_it_a_bad_idea_to_use_nonstandard_tools_for/</guid>
@@ -32,83 +109,6 @@
       <description><![CDATA[我找到了一份新工作。在这家公司中，不仅没有任何类型的文档，而且几乎没有人知道/创建我被分配改进的所有 api。这当然是因为我的公司收购了另一家公司。 （我正在研究被收购公司的代码）但有时我仍然会生气，因为我没有得到关于我必须做什么的介绍。您觉得这种必须对任何东西进行逆向工程的做法正常吗？   由   提交 /u/ilpiccoloskywalker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2vl5a/is_it_normal_to_reverse_engineer_your_company_code/</guid>
       <pubDate>Thu, 29 Feb 2024 08:34:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么“is-number”包每周下载量达到 5900 万次？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2u2ai/why_does_isnumber_package_have_59m_weekly/</link>
-      <description><![CDATA[   /u/TheNerdistRedditor   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2u2ai/why_does_isnumber_package_have_59m_weekly/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:53:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚为我的预算工具发布了 MVP，并正在寻找人们使用它并测试它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2tnff/just_release_an_mvp_for_my_budgeting_tool_and_am/</link>
-      <description><![CDATA[大家好！ 在过去的几个月里，我一直在开发一个预算工具，我认为它与其他工具有所不同那里有预算工具。我称之为原子预算。我刚刚发布了一个 MVP 版本，我想获得反馈并看看人们是否会喜欢它。  您可以在这里找到它：https://atombudget.com 是什么让这个工具与众不同与其他的不同之处在于，在输入您的收入和支出后，它会准确地告诉您从每项收入中留出多少钱，以便在支出发生时支付您的支出。 它的核心是预算这就是为什么 Atom Budget 的口号是这不是火箭科学！ 非常感谢您的宝贵时间！  &amp; #32；由   提交/u/wojo1086  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2tnff/just_release_an_mvp_for_my_budgeting_tool_and_am/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发现这个东西很有趣，他们是如何阻止使用打开检查器的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2teao/i_found_this_thing_very_interesting_how_they/</link>
-      <description><![CDATA[https://itjobzy.com/加拿大的非技术工作/   由   提交 /u/sohail_ansari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2teao/i_found_this_thing_very_interesting_how_they/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>迫切需要帮助查找 WordPress 安装中内存使用的原因</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2t05t/desperately_need_help_finding_the_cause_of_memory/</link>
-      <description><![CDATA[我安装的 WordPress 使用了 98% 的服务器内存并导致一切崩溃。每当访问该网站时，我都会遇到数据库连接错误。 我禁用了所有插件并设置为默认 WordPress 主题，但问题仍然发生。 我希望备份该网站较早的日期，但显然，由于服务器磁盘空间问题，WHM 中的备份无法正常运行。最早的备份是从 2022 年开始的。 服务器是带有 HostGator 的 VPS，具有 8GB 内存、4 核 CPU 和 240GB 空间。 数据库非常大。比如17GB。 Hostgator 支持一直为 0 帮助。 我很害怕，因为这非常紧急并导致了很多业务问题。 如果有办法将范围缩小到什么脚本或任何其他可能导致它的东西都会有很大的帮助。 非常感谢任何建议。   由   提交/u/WranglerReasonable91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2t05t/desperately_need_help_finding_the_cause_of_memory/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达首席执行官预测编码的消亡——黄仁勋表示人工智能将完成这项工作，所以孩子们不需要学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2svlt/nvidia_ceo_predicts_the_death_of_coding_jensen/</link>
-      <description><![CDATA[       由   提交/u/kickrocksbawd  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2svlt/nvidia_ceo_predicts_the_death_of_coding_jensen/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:43:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在 reddit 上找到好的项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2shqc/does_anybody_find_a_good_projects_on_reddit/</link>
-      <description><![CDATA[我会查看最流行的子 Reddit 搜索，例如  r/forhire r/hire r/freelance 等。 这么多新手和垃圾邮件发送者，每个帖子可能有 1 个点赞和 0 个评论。看起来很悲伤。但在 reddit 上找工作的想法非常有吸引力 ಠ_ಠ   由   提交 /u/sslimmshaddy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2shqc/does_anybody_find_a_good_projects_on_reddit/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有 HTML/CSS 的样式指南吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2q6ni/any_styleguides_on_htmlcss/</link>
-      <description><![CDATA[好！这里是菜鸟开发人员。 （希望这不是一个愚蠢的问题）是否有类似“推荐”的内容？处理 HTML/CSS 的方式？ 这些是我从不同资源收集的东西： 1) 重点关注语义 HTML。 2) 每页最多有一个 H1。 3) 使用 aria 属性来获得可访问性的好处。 4）总是（尝试）使用外部CSS。内联 css 只能用于永久样式。 5）尝试将结构、布局和样式隔离开来。 6) 不要使用 ID 选择器，并在实现 Javascript 时使用 ID。 7) 不要使用 HTML 表格标签进行布局。使用网格代替。 8) 添加“延迟”到 JS 脚本标签，以便它在 CSS 之后加载（经过几个小时的搜索后才了解到这一点）。 9) 给出充分代表元素的良好类名。 10) 使用连字符大小写（我的 Java 混蛋，习惯了驼峰命名法，现在用这个很难了，哈哈）。 我应该养成习惯的其他有用的东西？    由   提交 /u/noobjaish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2q6ni/any_styleguides_on_htmlcss/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>治疗师网站和 HIPAA 合规性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2q2ps/therapist_websites_hipaa_compliance/</link>
-      <description><![CDATA[所以我看到很多治疗师使用的 Squarespace/Wix 网站不符合 HIPAA。我希望将单独执业的治疗师作为我的客户群。这个问题主要针对具有 HIPAA 工作经验的网络开发人员。 这个想法是构建基本网站，其中包括以下内容： - 办公地点 &lt; p&gt;- 治疗师的电话/电子邮件 - 关于治疗师及其理念 对于涉及 PHI 的其他所有内容，我会使用符合 HIPAA 的 EMR 服务，例如 TherapyAppointment 等： - 客户端消息 - 计费 - 预约安排 所以这是我的问题：只要我使用像 TherapyAppointment 这样符合 HIPAA 要求的 EMR 服务，我不必担心要承担任何责任，对吗？因为他们将处理 PHI，而不是我。我看到的唯一潜在问题是，如果我设置 EMR 帐户，我就可以访问登录凭据，从而访问将来收集的任何 PHI。因此，解决方案似乎很简单：确保治疗师在我完成设置后更改登录凭据。那行得通吗？这个想法是否存在一些我忽视的明显问题？ 虽然我认识到处理与 HIPAA 相关的工作风险很大，但我希望通过使用上述 EMR 服务来消除风险。治疗师似乎是很好的目标客户，因为他们中的一些人赚了很多钱，而且当 HIPAA 合规性在他们的工作中至关重要时，在网站上销售他们会更容易。此外，许多治疗师在管理其实践的各个方面效率低下，例如计费、预约安排等，这些可以部分或完全自动化，因此他们可以将更多时间花在临床工作上。这两件事看起来确实是很大的卖点。 您认为这种方法存在哪些问题？是否可以在不涉及律师的情况下完成，或者是否有必要？ ​   由   提交 /u/nottapsycho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2q2ps/therapist_websites_hipaa_compliance/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有域名/托管服务允许承包商/开发人员创建具有有限控制的“子帐户”（他们自己的帐户在单个主帐户下）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2pxwa/is_there_a_domainhosting_service_that_allows/</link>
-      <description><![CDATA[我和我的朋友意识到我们处于一个独特的位置 - 我们可以接触到成千上万不懂技术但需要技术的潜在客户一个基本的网站，并且有资金可以花费。 我们在技术上都没有足够的能力来有效地建立一个专业的网站，因此我们决定将这项工作外包给开发人员，并将我们的精力集中在业务开发和客户的成功。  我们很难找到能够满足我们一项突出需求的服务。我们正在尝试寻找一个域名+托管服务，允许我们的开发人员社区在我们的主/主帐户下创建自己的帐户。我们可能有多个开发人员同时工作，并希望尽量避免只为单个帐户传递一个登录凭据，更不用说让他们访问我们的付款信息了。  有类似的事情吗？我们研究了 Namecheap 的经销商计划 - 它允许创建“CPanel 帐户” - 但这些帐户不允许某人购买域名并设置 Cpanels。我不是这个世界上最精通的人，但似乎我们想要“经销商”计划以外的东西。 ​   由   提交 /u/ffirsttimerr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2pxwa/is_there_a_domainhosting_service_that_allows/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>刷新过期令牌的正确方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2pwyj/what_is_the_proper_way_to_refresh_an_expired_token/</link>
-      <description><![CDATA[我正在尝试完成 Google OAuth 2.0 流程的实现。我使用 React 前端来获取身份验证代码，然后将其发送到 C# API，在其中交换令牌。在令牌响应上，API 将刷新令牌保存到数据库，并将访问令牌传递回我的前端。来自前端的所有授权请求都包含此访问令牌，我在 API 中使用一些中间件来验证每个请求的此令牌。 我在前端实现了一个刷新机制，用于监视令牌过期 15 分钟并在我的 API 上调用刷新端点。刷新端点返回到谷歌以获取新的访问权限和访问权限。刷新令牌，只要用户在网站上保持活动状态，整个过程就会重复。这一切都工作得“很好”。 我遇到一些困惑的是，我希望能够保留用户的会话，而不要求他们每次访问该网站时都登录。现在发生的情况是，如果我离开站点并在超过 15 分钟后返回，则会调用刷新端点，并且我的中间件在验证令牌时会抛出异常，表示令牌已过期。 在这种情况下，吞下该异常并刷新令牌是否被认为是最佳实践？我很好奇我是否在设计中进行了某种监督，并且很难找到涵盖该主题的任何好的资源。处理这种情况的最佳方法是什么？任何见解将不胜感激。提前致谢！   由   提交/u/turkeymaster77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2pwyj/what_is_the_proper_way_to_refresh_an_expired_token/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>真的不知道从哪里/如何开始一个具有许多不同功能和需求的新网站。有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2prnt/really_lost_about_wherehow_to_start_with_a_new/</link>
-      <description><![CDATA[我读过很多东西，并且发现了一些零碎的东西，如果我朝某个方向或另一个方向前进，它们会有所帮助，但我正在考虑建立一个拥有店面的网站，以便人们可以订购实物商品，但我也希望有一个手册等档案 - 我编译的一些 PDF 每个大约 100 MB -所以带宽最终将成为一个大问题。我希望能够偶尔进行拍卖，但没有这个选择我也可以生活。我还需要找到真正白痴友好的页面设计器软件，或者可以帮助进行初始设计和偶尔更新或故障排除而无需花费大量资金的服务。我还想在网站上建立一个页面，充当照片索引，并提供指向档案中手册的链接。最后，我必须做一些广告才能赚到大部分钱——尽管我只想要一两个简单的横幅。不是一堆分散注意力的垃圾或弹出窗口或任何东西。除此之外，接受捐赠的选择将是一个巨大的优势，因为我需要不断采购更多的手册等。  基本上，一个网站具有：店面页面、索引和存档页面以及大量带宽（甚至可能每月几TB）、捐赠选项、广告以及构建或偶尔维护网站的实际帮助。网站（我希望能够做一些琐碎的事情，例如添加新存档项目的缩略图/链接、添加新的商店项目等）。 我拥有站点，并且能够根据需要将其转移到不同的主机。 我开始认为这里不会有一个一刀切的解决方案，我可能必须获得多个涉及的服务。不管怎样 - 有人能帮我朝正确的方向踢一脚吗？ 提前非常感谢！    ;由   提交 /u/MyBallsSmellFruity   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2prnt/really_lost_about_wherehow_to_start_with_a_new/</guid>
-      <pubDate>Thu, 29 Feb 2024 03:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
