@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 03:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 09:11:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体] NVK 是梅萨 NVIDIA 硬件的开源 Vulkan 驱动程序，现已准备好迎接黄金时段。</title>
-      <link>https://t.me/hn_summary/76937</link>
-      <description><![CDATA[NVK 现已准备好迎接黄金时段
-NVK 是梅萨 NVIDIA 硬件的开源 Vulkan 驱动程序，现已准备好迎接黄金时段。它已在 Turing、Ampere 和 Ada GPU 上达到 Vulkan 1.3 一致性，这次没有出现任何黑客攻击。 DXVK 现在在上游 Mesa 上开箱即用，正在进行 D3D12 仿真。 Zink + NVK是OpenGL支持的计划，在性能上超越了旧的OpenGL。性能不断提高，许多游戏都以 60 FPS 或更高的速度运行。 NVK 将成为 Mesa 24.1 的一部分，预计发行版将很快开始发布。尝试您最喜欢的游戏，看看它在 NVK 上的表现如何。]]></description>
-      <guid>https://t.me/hn_summary/76937</guid>
-      <pubDate>Fri, 01 Mar 2024 03:14:06 GMT</pubDate>
+      <title>[媒体] 在“从头开始超越 Linux”中，读者踏上了超越 Li 基础知识的旅程 [...]</title>
+      <link>https://t.me/hn_summary/76979</link>
+      <description><![CDATA[从头开始超越 Linux
+在《从头开始超越 Linux》中，读者将踏上超越 Linux 安装基础知识的旅程，进入网络、图形界面、声音支持等领域。对于那些希望扩展 Linux 知识并定制系统以满足自己需求的人来说，本书是一本全面的指南。无论您是经验丰富的 Linux 用户还是开源操作系统领域的新手，本书都提供了宝贵的见解和实用的建议。通过“从头开始超越 Linux”将您的 Linux 体验提升到一个新的水平。]]></description>
+      <guid>https://t.me/hn_summary/76979</guid>
+      <pubDate>Fri, 01 Mar 2024 09:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]孟买塔塔研究所在癌症治疗方面取得了突破性发现 [...]</title>
-      <link>https://t.me/hn_summary/76936</link>
-      <description><![CDATA[塔塔研究所声称仅需 100 卢比的药片即可预防癌症复发
-孟买塔塔研究所在癌症治疗方面取得了突破性发现，开发出一种售价 100 卢比的药片，可以预防癌症复发并将治疗副作用减少 50%。该药片名为“R+Cu”，含有含有白藜芦醇和铜的促氧化药片，可产生氧自由基，破坏垂死癌细胞释放的染色质颗粒。塔塔纪念医院的 Rajendra Badve 博士表示，虽然人体试验仍在进行中，但该平板电脑已在大鼠测试中显示出有希望的结果。这种药片的经济性和潜在有效性可能会彻底改变癌症治疗，为患者带来希望并改变肿瘤学的格局。]]></description>
-      <guid>https://t.me/hn_summary/76936</guid>
-      <pubDate>Fri, 01 Mar 2024 03:05:59 GMT</pubDate>
+      <title>[媒体]Kappa Beta Phi 是一个以 Wa [...] 为基础的高级金融高管组成的秘密社团。</title>
+      <link>https://t.me/hn_summary/76978</link>
+      <description><![CDATA[Kappa Beta Phi
+Kappa Beta Phi 是一个由高级金融高管组成的秘密社团，总部位于纽约市华尔街。该组织成立于 1893 年，其宗旨主要是社交和荣誉，会员每年举行一次正式晚宴，以吸纳新会员。该协会的起源可能源于大学年鉴的笑话和讽刺，华尔街分会是唯一剩余的活跃分会。著名成员包括迈克尔·布隆伯格和拉里·芬克等人物。该组织的传统包括独特的座右铭、拉丁徽章和古怪的军官头衔，使其成为华尔街文化中迷人且有争议的一部分。 （根据故事文本的 74% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76978</guid>
+      <pubDate>Fri, 01 Mar 2024 09:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bluesky 是一个去中心化社交网络，也是 X 的竞争对手，已任命前 Twitter Trus [...]</title>
-      <link>https://t.me/hn_summary/76935</link>
-      <description><![CDATA[Bluesky 挖走了被马斯克裁掉的前 Twitter/X 信任与安全执行官&lt; /a&gt;
-Bluesky 是一家去中心化社交网络，也是 X 的竞争对手，已任命前 Twitter 信任和安全负责人 Aaron Rodericks 为其新任信任和安全负责人。罗德里克斯因在选举诚信方面所做的努力而遭到右翼竞选活动的攻击，因此面临争议。马斯克在 X 裁掉了罗德里克斯的团队，导致他离开。 Bluesky 的目标是优先考虑信任和安全，并从过去的节制政策中吸取教训。罗德里克斯将领导审核团队，确保对报告做出快速响应。 Bluesky 计划为用户提供独立的审核服务。 Rodericks 在全球信任和安全问题方面的经验将增强 Bluesky 的在线对话方法。]]></description>
-      <guid>https://t.me/hn_summary/76935</guid>
-      <pubDate>Fri, 01 Mar 2024 03:02:54 GMT</pubDate>
+      <title>[媒体] Linux 用户希望通过 HDMI 协议以快速帧速率发送高分辨率图像 [...]</title>
+      <link>https://t.me/hn_summary/76977</link>
+      <description><![CDATA[您无法制作开源 HDMI 2.1 驱动程序
+由于 HDMI 论坛拒绝允许 HDMI 2.1 规范的开源实现，因此希望通过 HDMI 连接以快速帧速率发送高分辨率图像的 Linux 用户就不那么幸运了。尽管 AMD 工程师 Alex Deucher 做出了努力，但 HDMI 论坛还是拒绝了该提议，Linux 用户将 DisplayPort 作为最佳选择。争议在于公众无法获取 HDMI 2.1 规范，以及担心数字视频翻录的媒体公司可能会进行干扰。这一发展迫使 AMD 决定是在闭源 Linux 驱动程序中实现更新的 HDMI 支持，还是引导客户选择其他选项。]]></description>
+      <guid>https://t.me/hn_summary/76977</guid>
+      <pubDate>Fri, 01 Mar 2024 08:50:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Artemidorus 的《Oneirocritica》是一部关于梦解释的古希腊专着，div [...]</title>
-      <link>https://t.me/hn_summary/76934</link>
-      <description><![CDATA[Oneirocritica
-阿特米多洛斯的《Oneirocritica》是一部古希腊解梦专着，分为五卷。它深入研究了个人梦的独特本质以及清醒生活对梦符号的影响。米歇尔·福柯称赞该文本是一本实用指南，强调了与伦理体验相关的具有文化意义的模式。这些书根据解剖学、自然世界物体和其他主题将梦分为几类。阿特米多洛斯强调根据梦者的背景和感受来解释梦的重要性。该文本已被翻译成多种语言，展示了其在梦研究中的持久相关性。]]></description>
-      <guid>https://t.me/hn_summary/76934</guid>
-      <pubDate>Fri, 01 Mar 2024 02:56:48 GMT</pubDate>
+      <title>[媒体] 在 Platformers 社区，我们致力于推动 IDP（身份验证 [...]</title>
+      <link>https://t.me/hn_summary/76976</link>
+      <description><![CDATA[Show HN：平台游戏社区致力于推动 IDP 采用
+在 Platformers Community，我们致力于推动 IDP（身份提供商）在科技行业的采用。我们的平台为个人提供了一个学习平台工程、发现新项目以及与其他志同道合的人建立联系的空间。与我们一起彻底改变数字世界中的身份管理方式。让我们共同努力，使 IDP 的采用成为技术社区的优先事项。立即访问 www.platformers.community 参与其中。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/76976</guid>
+      <pubDate>Fri, 01 Mar 2024 08:23:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 maximullaris.com 上的这篇博文中，我分享了我的无 GC（无堆）实验 [...]</title>
-      <link>https://t.me/hn_summary/76933</link>
-      <description><![CDATA[使用无 GC（无堆）Java 进行实验
-在 maximullaris.com 上的这篇博文中，我与大家分享了我的实验使用 sun.misc.Unsafe 和 java.lang.foreign.MemorySegment 的无 GC（无堆）Java。我探索了在 JVM 堆之外的本机内存中分配数据结构的概念，这需要手动内存管理。令人惊讶的是，尽管 sun.misc.Unsafe 存在风险，但最新的 Java 版本仍然支持它。我以一种独特的类似 OOP 的方式实现数组和哈希表等基本数据结构，通过模板生成代码。此外，我深入研究了新的 MemorySegment 类，发现它是一种更安全的替代方案，具有意想不到的内存消耗优势。我的实验导致了类似 Python 的堆外哈希表实现和压力测试来比较不同的方法。 （根据故事文本的 72% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76933</guid>
-      <pubDate>Fri, 01 Mar 2024 02:55:44 GMT</pubDate>
+      <title>Dittofeed 刚刚推出了 0.10.0 版本，通过 Event En [...]</title>
+      <link>https://t.me/hn_summary/76975</link>
+      <description><![CDATA[显示 HN：Dittofeed v0.10.0 – 事务性消息传递 
+Dittofeed 刚刚推出了 0.10.0 版本，通过事件输入旅程进行交易消息传递，这是一项备受期待的功能。此更新还包括对 Amazon SES 和 Postmark 等新电子邮件服务提供商的支持，其中 Amazon SES 因其交付能力和成本效益而成为热门选择。其他新增内容包括事件搜索和分段引擎的改进。查看发布帖子了解更多详细信息。分享您对交易和营销消息传递工具的想法，并加入 Discord 上的讨论。对于客户参与领域的人员来说，这是令人兴奋的更新。]]></description>
+      <guid>https://t.me/hn_summary/76975</guid>
+      <pubDate>Fri, 01 Mar 2024 08:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作为一项战略举措，诺基亚将在德国电信的德国站点取代华为，m [...]</title>
-      <link>https://t.me/hn_summary/76932</link>
-      <description><![CDATA[诺基亚正在德国电信德国站点取代华为 
-作为一项战略举措，诺基亚将在德国电信的德国站点取代华为，这标志着诺基亚重新进入该电信公司的网络。这一转变是在德国电信试验开放 RAN 技术之后发生的，旨在减少对华为等高风险供应商的依赖。诺基亚移动业务负责人看到了开放 RAN 的巨大机遇，特别是在华为仍处于 O-RAN 联盟之外的情况下。与此同时，华为对虚拟RAN架构的抵制导致一些欧洲运营商探索替代方案，德国可能对华为设备实施禁令。诺基亚采用开放 RAN 技术的创新方法使其成为不断发展的电信领域的关键参与者。]]></description>
-      <guid>https://t.me/hn_summary/76932</guid>
-      <pubDate>Fri, 01 Mar 2024 02:52:39 GMT</pubDate>
+      <title>【媒体】在Altern AI，我们致力于汇聚各行各业的AI爱好者。</title>
+      <link>https://t.me/hn_summary/76974</link>
+      <description><![CDATA[显示 HN：Altern AI – 查找几乎所有与 AI 相关的内容
+在Altern AI，我们致力于汇聚各行各业的人工智能爱好者。我们的平台提供广泛的人工智能相关产品、工具、模型、数据集、新闻通讯和硬件，让您比以往更轻松地了解该领域的最新进展。加入我们的社区，分享见解、对热门资源进行投票、撰写评论并与志趣相投的人建立联系。您进入人工智能世界的旅程从这里开始，Altern AI。释放人工智能的潜力，与我们一起探索无限可能。]]></description>
+      <guid>https://t.me/hn_summary/76974</guid>
+      <pubDate>Fri, 01 Mar 2024 08:20:56 GMT</pubDate>
     </item>
     <item>
-      <title>最近发表在《美国心脏协会杂志》上的一项研究揭示了一个重要的 [...]</title>
-      <link>https://t.me/hn_summary/76931</link>
-      <description><![CDATA[研究发现大麻使用与心血管疾病之间存在联系&lt; br/&gt;
-《美国心脏协会杂志》最近发表的一项研究表明，使用大麻与心血管疾病（包括心脏病和中风）风险增加之间存在显着联系。该研究基于超过 430,000 名美国成年人的调查数据，发现每天吸食大麻的人出现这些症状的几率更高。令人惊讶的是，该研究还发现了近乎线性的剂量反应关系，更频繁地使用大麻与更高的风险相关。尽管存在局限性，例如依赖自我报告的数据，但该研究强调了日益增长的大麻使用者人口中心血管疾病的潜在危险因素。]]></description>
-      <guid>https://t.me/hn_summary/76931</guid>
-      <pubDate>Fri, 01 Mar 2024 02:51:34 GMT</pubDate>
+      <title>令人兴奋的消息！</title>
+      <link>https://t.me/hn_summary/76973</link>
+      <description><![CDATA[CACM 现已开放获取 - ACM 的通信 
+令人兴奋的消息！ ACM 通讯 (CACM) 现已完全开放获取，使六十多年的研究文章、技术报告等可供所有人（而不仅仅是 ACM 成员）使用。这一转变是 ACM 到 2026 年成为完全开放获取出版商的计划的一部分。通过向所有人开放 CACM，ACM 旨在吸引计算机科学界并扩大作者的读者群。我们鼓励现有成员和作者支持这一可持续转型。在新网站上探索 CACM 的丰富内容，并与我们一起开启计算机科学领域可访问性和协作的新篇章。]]></description>
+      <guid>https://t.me/hn_summary/76973</guid>
+      <pubDate>Fri, 01 Mar 2024 08:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 正在寻找 CSV、JSON、TXT 或 XML 格式的 Caltrans CCTV 源吗？</title>
-      <link>https://t.me/hn_summary/76930</link>
-      <description><![CDATA[Caltrans CCTV Feed 以 CSV、JSON、TXT 和 XML 格式
-正在寻找 CSV、JSON、TXT 或 XML 格式的 Caltrans CCTV 源？别再犹豫了！我们的文件提供国道网络上每个闭路电视的位置和状态信息。最重要的是，它可以免费使用并通过 HTTPS 提供。请务必在开始之前检查使用条件。并在您的日历上标记 2020 年 11 月 9 日，届时我们将过渡到 HTTPS 协议。数据由加州交通局组织，使集成到您的应用程序变得轻而易举。通过我们易于访问的数据集随时了解情况并保持联系。]]></description>
-      <guid>https://t.me/hn_summary/76930</guid>
-      <pubDate>Fri, 01 Mar 2024 02:50:29 GMT</pubDate>
+      <title>[媒体] Show HN：探索《创智赢家》季节。</title>
+      <link>https://t.me/hn_summary/76972</link>
+      <description><![CDATA[显示 HN：探索《创智赢家》季节。探索公司、产品、投资
+与 SharkTankSeason.com 一起潜入《Shark Tank Season》的激动人心的世界！探索寻求交易的企业家的事件、推介、产品和投资细节。从《Shark Tank India》第 1、2 和 3 季中的公司故事中获取灵感。了解 Aman Gupta、Anupam Mittal 和 Namita Thapar 等在该剧中进行了大量投资的著名投资者。探索《创智赢家季》中的创新理念和成功交易。不要错过这个独特的学习机会并受到创业精神的启发！]]></description>
+      <guid>https://t.me/hn_summary/76972</guid>
+      <pubDate>Fri, 01 Mar 2024 08:18:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们将深入探讨使用 Vite、Tanstack Ro 构建多租户 B2B SaaS [...]</title>
-      <link>https://t.me/hn_summary/76929</link>
-      <description><![CDATA[展示 HN：使用 Vite 和 Tanstack 路由器构建 SaaS：第 1 部分
-在本文中，我们将深入探讨使用 Vite、Tanstack Router &amp; Query、Chakra UI 和 Saas UI 构建多租户 B2B SaaS。我们探索使用 Tanstack Router 设置 Vite、创建具有身份验证的基本 UI 以及使用 Supabase 构建 API 的基础知识。该堆栈完全类型安全且易于使用，可提供出色的开发人员体验。我们还将 Chakra UI 与 Saas UI 设计系统结合起来进行造型。本文提供了有关设置 Vite、配置路由器、使用 Chakra UI 进行样式设置以及集成 React Query 以进行数据获取和突变的分步指南。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76929</guid>
-      <pubDate>Fri, 01 Mar 2024 02:45:24 GMT</pubDate>
+      <title>[媒体]我喜欢在 Slack 中通过添加不正确的旗帜表情符号来获得一些乐趣 [...]</title>
+      <link>https://t.me/hn_summary/76971</link>
+      <description><![CDATA[显示 HN：标志的乐趣（在 Slack 中） 
+当同事从旅行中带回当地美食时，我喜欢通过添加错误的旗帜表情符号来在 Slack 中获得一些乐趣。这是一种迷惑人们的微妙方式，看看有多少人会点击错误的标志。我选择的不正确的旗帜在图案或颜色上与正确的旗帜相似，创造了一个聪明的滚旗游戏。示例包括使用 🇺🇾 代表乌拉圭，而不使用 🇬🇷 代表希腊。我们的目标是成为第一个发布错误标记的人，并获得尽可能多的点击量，如果没有人添加正确的标记，则可获得额外奖励。这是为办公室增添幽默感的有趣方式。]]></description>
+      <guid>https://t.me/hn_summary/76971</guid>
+      <pubDate>Fri, 01 Mar 2024 08:17:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 使用洗衣机和洗衣机洗衣服在经济上和环境上都可能成本高昂 [...]</title>
-      <link>https://t.me/hn_summary/76928</link>
-      <description><![CDATA[洗衣机和烘干机的效率将大大提高
-洗衣服在经济上和环境上都可能成本高昂，因为洗衣机和烘干机占家庭用电量和碳足迹的很大一部分。拜登政府宣布了这些电器的新能效标准，从而显着节省能源和水。尽管保守派强烈反对将这些变化称为“家电战争”，但这些更新旨在为消费者提供更高效、更具成本效益的选择。这标志着十多年来洗衣机和烘干机标准的首次更新，环保倡导者认为此举早就应该发生了。利益相关者之间的合作表明，在更可持续的电器方面取得进展是可能的。]]></description>
-      <guid>https://t.me/hn_summary/76928</guid>
-      <pubDate>Fri, 01 Mar 2024 02:23:14 GMT</pubDate>
+      <title>[媒体] BLOGEN 是一个基于 Python 的博客生成工具，利用 GPT-3.5 创建良好的博客 [...]</title>
+      <link>https://t.me/hn_summary/76970</link>
+      <description><![CDATA[显示 HN：无需任何预算即可启动您的博客&lt; br /&gt;
+BLOGEN 是一个基于 Python 的博客生成工具，它利用 GPT-3.5 根据用户提供的主要关键字创建结构良好且引人入胜的博客文章。它提供了一种分步方法来创建各种语气的博客内容，并可轻松与 Markdown 格式集成。该项目通过利用 GPT-3.5 的功能进行内容生成并为未来改进提供详细的路线图，从而脱颖而出。用户可以使用 BLOGEN 为他们想要的主题生成信息丰富且引人入胜的内容，从而无需任何预算即可启动他们的博客。]]></description>
+      <guid>https://t.me/hn_summary/76970</guid>
+      <pubDate>Fri, 01 Mar 2024 08:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
