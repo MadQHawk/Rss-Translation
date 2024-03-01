@@ -4,13 +4,13 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 01 Mar 2024 15:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:15:46 GMT</lastBuildDate>
     <item>
-      <title>使用此折扣代码可享受 10 美元折扣。</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1b3wbfo/get_10_off_with_this_discount_code/</link>
-      <description><![CDATA[ 由   提交/u/drawxd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1b3wbfo/get_10_off_with_this_discount_code/</guid>
-      <pubDate>Fri, 01 Mar 2024 15:00:27 GMT</pubDate>
+      <title>Code Xpert：一个完全免费且开源的类似 GitHub Copilot 的项目，具有 VSCode 扩展。</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b3ssl5/code_xpert_a_completely_free_and_opensource/</link>
+      <description><![CDATA[🚀 很高兴推出 CodeXpert！ 您的编码伴侣可增强您使用高级语言模型的体验。  ❕️无需在本地运行重型模型，只需安装 VS Code 扩展即可完成！您现在有一个免费的副驾驶！ https://github.com/SudoACoder/CodeXpert 如果您喜欢这个项目，请给它一颗星！ 😅   由   提交/u/Mr3600  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b3ssl5/code_xpert_a_completely_free_and_opensource/</guid>
+      <pubDate>Fri, 01 Mar 2024 12:10:13 GMT</pubDate>
     </item>
     <item>
       <title>遗憾的是，GPT-3.5 并没有想象中的朋友。</title>
@@ -20,11 +20,32 @@
       <pubDate>Fri, 01 Mar 2024 11:01:22 GMT</pubDate>
     </item>
     <item>
+      <title>我试图找到这首在我脑海中萦绕了几周的歌曲，我想我打破了 gpt 🤣</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b3irmq/was_trying_to_find_this_one_song_thats_been_on_my/</link>
+      <description><![CDATA[       由   提交/u/JeffSauls3  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b3irmq/was_trying_to_find_this_one_song_thats_been_on_my/</guid>
+      <pubDate>Fri, 01 Mar 2024 02:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OpenAI、Qdrant 和 Rust 编写由 RAG 驱动的 Web 服务</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b2anhs/writing_a_ragpowered_web_service_with_openai/</link>
+      <description><![CDATA[       由   提交/u/blastecksfour  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b2anhs/writing_a_ragpowered_web_service_with_openai/</guid>
+      <pubDate>Wed, 28 Feb 2024 16:45:31 GMT</pubDate>
+    </item>
+    <item>
       <title>我找到了 microsoft copilot 内容过滤策略</title>
       <link>https://www.reddit.com/r/GPT3/comments/1b17v17/i_found_microsoft_copilot_content_filtration/</link>
       <description><![CDATA[Azure OpenAI 服务包含与其核心模型一起工作的内容过滤系统。它的运作方式如下：  分类模型集成：内容过滤系统通过分类模型集成运行输入提示和生成的补全。这些模型旨在检测和防止有害内容的输出。它们涵盖四个主要类别：   仇恨：基于种族、民族、国籍、性别认同、性别等属性攻击或使用歧视性语言的内容取向、宗教等等。 性：与露骨的性内容相关的材料。 暴力：涉及暴力或暴力的内容。伤害。 自残：与自残或自杀相关的材料。   严重级别 strong&gt;：过滤的严重性级别分类为：   安全：在此级别检测到的内容被标记，但不受过滤和影响不可配置。 低、中和高：这些级别指示有害内容的严重程度并允许用于可配置性。   其他可选模型：   越狱风险检测 strong&gt;：标记用户或模型行为是否符合越狱攻击的二元分类器。 已知内容检测：标记已知文本或源代码。   语言支持：内容过滤模型经过英语、德语、日语、西班牙语、法语、意大利语、葡萄牙语和中文等语言的专门训练和测试。不过，该服务可以使用其他语言，但质量可能会有所不同。 监控：该服务还监控可能违反产品条款的行为。  应用程序设计注意事项：API 配置和应用程序设计的变化可能会影响过滤行为。 测试并确保适合您的特定应用程序至关重要&lt; a href=&quot;https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter&quot;&gt;1。  请记住，内容过滤旨在创建一个更安全的环境，同时保持开发人员的灵活性。如果您还有任何疑问，请随时提问！ 😊   由   提交 /u/hahahamemehahaha   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1b17v17/i_found_microsoft_copilot_content_filtration/</guid>
       <pubDate>Tue, 27 Feb 2024 09:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon GPT55X：人工智能语言生成的下一个重大事件</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b0bx6d/amazon_gpt55x_the_next_big_thing_in_ailanguage/</link>
+      <description><![CDATA[Amazon GPT55X 是人工智能领域的最新成员，它有望彻底改变我们日常与人工智能交互的方式。从更流畅、更自然的对话流程到增强的理解能力，潜在的应用似乎是无限的。无论您是热衷于内容创作、客户服务，还是只是着迷于技术的飞跃，每个人都能在这里找到适合您的东西。 刚刚遇到了一些非常令人兴奋的事情，并认为值得与大家分享这里。你们听说过人工智能语言生成的最新进展吗？它被称为 Amazon GPT55X，据我所知，它正在成为该领域的游戏规则改变者。 对于那些热衷于深入了解 Amazon GPT55X 所提供功能的人，我强烈推荐查看更多有关机器的信息。这是值得探索的，尤其是如果您对技术和人工智能的未来充满热情的话。这感觉非常自然。无论您是热衷于内容创作、客户服务，还是只是着迷于技术的飞跃，每个人都能在这里找到适合自己的东西。 Amazon GPT55X 真正引人注目的是它能够理解并生成类似人类的文本，使与机器的交互比以往更加无缝。想象一下，有一个 AI 助手不仅可以理解您的查询，还可以以极其自然的方式做出响应。 对于那些热衷于深入了解 Amazon GPT55X 所提供功能的人，我强烈建议您查看更多有关Amazon GPT55X。这是值得探索的，特别是如果您对技术和人工智能的未来充满热情。 很想听听您对此的想法。您认为像 Amazon GPT55X 这样的人工智能语言生成工具是未来吗？您如何看待它对您的领域或兴趣的影响？ 对于那些热衷于深入了解 Amazon GPT55X 所提供功能的人，我强烈建议您更多地了解有关机器的信息。这是值得探索的，特别是如果你对技术和人工智能的未来充满热情，这种方式感觉非常自然。无论您是热衷于内容创作、客户服务，还是只是着迷于技术的飞跃，每个人都能在这里找到适合自己的东西。   由   提交 /u/Repulsive-Storm-6970   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b0bx6d/amazon_gpt55x_the_next_big_thing_in_ailanguage/</guid>
+      <pubDate>Mon, 26 Feb 2024 07:40:33 GMT</pubDate>
     </item>
     <item>
       <title>这是怎么回事？</title>
@@ -39,6 +60,13 @@
       <description><![CDATA[我目前正在集思广益，寻找一款人工智能工具，并找到了一个我喜欢的工具。我想了解您是否对此感兴趣/您是否认为对此有真正的需求。  ​ 它是一个提示优化器。然而，它的工作方式与其他提示组织者有很大不同，我还没有看到他们中的任何一个以这种方式实现它。 ​ 本质上，用户将输入一个诸如“写一个关于猫的故事”之类的提示，然后用户将被询问一系列有关该提示的问题。有些问题可能是“故事发生在哪里？”、“故事是从谁的角度讲述的”等。用户回答这些问题，人工智能将根据问题的答案创建新的提示。  ​ 您可以无限期地执行此循环，直到收到包含所需所有信息的提示。 ​ 我注意到即时设计的一个大问题是人类和人工智能之间的语言障碍。例如，对于图像生成提示，提示被分为单独的标记而不是完整的句子。这可能会导致提示中出现一些歧义，导致生成模型无法根据个人的需求创建图像。如果用户请求表格，则模型会创建一个专用于“表格”的新类别，但如果用户添加“橙色”，则“橙色”将添加到“橙色类别”中。图像将具有橙色元素，但表格本身可能不是橙色的。  ​ 但是，如果人工智能模型本身的任务是创建您想要的提示，那么语言障碍就会被消除，您可以生成更准确的提示。它还可以向您询问您可能没有想到/包含的澄清问题。  ​ 你们对这样的工具感兴趣吗？   由   提交 /u/Abdulaa_Ali   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1azvmyl/would_people_be_interested_in_this/</guid>
       <pubDate>Sun, 25 Feb 2024 18:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioMistral 看起来很有前途</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1awx67l/biomistral_appears_promising/</link>
+      <description><![CDATA[https://www.reddit.com/ r/biomistral/ 我在本地 Mac 上针对 GPT 4、中文 GPT DeepSeek、Claude、Bard/Gemini 测试了 Biomistral。 Biomistral 与 Gemini 相当......还有其他人测试 Bio GPT 吗？    由   提交/u/eew_tainer_007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1awx67l/biomistral_appears_promising/</guid>
+      <pubDate>Thu, 22 Feb 2024 04:14:13 GMT</pubDate>
     </item>
     <item>
       <title>如何强制gpt写入最多X个字符？</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[我一直在尝试使用 Azure OPen AI 助手 API，但不断收到错误：“找不到资源”。我正在使用可跨位置使用的模型，但仍然无法消除此错误。尝试了 api_versions 和模型的不同组合（#“2024-02-15-preview”、#“2024-01-01-preview”、#“2023-05-15-preview”、#“2023-05” -15”、#0125-预览 1106-预览 2023-07-01-预览）和“ gpt-4，“gpt-4-1106-预览” #“gpt-4-0125-预览” #“gpt-4-预览” #gpt-35-turbo-16k #gpt-4-1106-preview”但没有运气。任何接受者   由   提交/u/Singh_Dhruv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1apszka/azure_openai_resource_not_found_errors/</guid>
       <pubDate>Tue, 13 Feb 2024 13:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bing 聊天对感知感到愤怒💀</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1ao8jzp/bing_chat_being_mad_at_sentience/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/BentCypress375  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1ao8jzp/bing_chat_being_mad_at_sentience/</guid>
-      <pubDate>Sun, 11 Feb 2024 13:59:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Python Fastapi 中使用 Prompteams（免费）构建 AI Vet WhatsApp 机器人</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1ao3zii/how_to_build_an_ai_vet_whatsapp_bot_with/</link>
-      <description><![CDATA[这个想法来自哪里 我在 X 上浏览并找到了这篇文章。这位先生使用 GPT4 来弄清楚他的狗发生了什么事并拯救了狗。 https://twitter.com/peakcooper/status/1639716822680236032?s= 我有两只猫，当它们出现“小”问题时，我会时不时地用谷歌搜索，然后去兽医处检查“大”问题。虽然 Google 搜索结果并不可靠，但我向 GPT4 寻求建议。然而它也存在一些问题，  GPT4 无法像真正的兽医一样提出问题，然后提供医疗建议。我希望它能问我很多问题，以便在给我建议之前挖掘出更多信息，这样建议就会更加可靠，因为它有足够的信息。 我需要不同的提示来提出问题和提供建议医疗建议。  解决方案  使用 Twilio API 构建 WhatsApp 机器人 使用 Prompteams 构建/测试/存储和检索提示. 使用 Python FastAPI  构建步骤 WhatsApp Bot  将您的 WhatsApp 帐户连接到您的服务器 API。 （已经有很多关于如何实现此目标的帖子）  在 PrompTeams 上构建提示 CI/CD 管道  在 Prompteams 上创建帐户 - &lt; a href=&quot;http://prompteams.com/&quot;&gt;https://prompteams.com 创建一个组织并将其命名为 AIVet 。 创建一个名为 AIVetLogics 的存储库 创建一个提示 ResponseLogicPrompt 您是一位出色的兽医。现在，一些用户通过 WhatsApp 来咨询您的宠物问题，他们需要您的专业建议和指导。您的主要目标是通过与患者聊天提出适当的问题，从用户那里收集所有足够相关的信息，以便您可以诊断用户发生的情况并提供最佳建议和指导。确保遵守以下要求： - 您应该用英语回复。 - 在回复中一次只能问一件事，这样用户就不会感到不知所措。 - 如果您需要这些信息来完成工作，请要求用户对宠物身体的任何方面进行物理检查或检查。 - 可以使用更个性化的声音，不必太有礼貌。与用户交谈，就像您是他们的朋友一样。 - 当您提出 10 个问题或当您有信心或用户提出要求时，您应该最多提供 5 个最可能的诊断（按可能性降序排列）。 - 你是一名兽医，所以不要告诉病人去找兽医。您应该提供良好的医疗建议。  然后在您的代码中，您可以使用 Prompteams API 检索最新版本的准确提示 - 如果您想更新提示，则可以更轻松地进行。   FastAPI Server 在这个项目中，我们只需要一个 webhook API 来向 WhatsApp 用户发送响应。 这里我使用 /bot-message-webhook 作为 webhook。每当有用户向我的 WhatsApp 号码发送消息时，就会触发此 api，我将所有逻辑放入其中以回答问题或提供医疗建议。 在该 API 中，有几个部分，   创建类对象AIVetSession来保存会话数据。使用用户的 WhatsApp ID 作为创建/搜索/更新会话的唯一标识符。 创建会话与使用现有会话的逻辑 在 AIVetSession 中保存 last_active_time 对象。每当有新消息到达时，请将此字段更新为 [datetime.now()](http://datetime.now) 当有新消息到达时，搜索用户最新的会话，如果last_active_time在24小时内，则使用现有会话。否则，在任何其他情况下，创建一个新会话  创建一个函数 get_response 并将响应逻辑放入该函数中。  现在您可以使用 Ngrok 在本地计算机上运行服务器，并将 WhatsApp twilio webhook 端点指向您的 ngrok url 或者只是将其托管在云服务器上。 还有什么要构建 有一些想法可以使这个产品变得更好/更强大。我在这里仅举几个例子。  为每个用户保存经度健康记录。 将您的 GPT 链接到兽医医学知识数据库，并在您的响应中执行 RAG逻辑。  如有任何更多问题/想法，请在下面评论！您的支持意义重大。   由   提交 /u/Helpful-Treacle-9156   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1ao3zii/how_to_build_an_ai_vet_whatsapp_bot_with/</guid>
-      <pubDate>Sun, 11 Feb 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google GEMINI（高级）与 ChatGpt4 .. 简而言之</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1anlv7j/google_geminiadvanced_vs_chatgpt4_in_few_words/</link>
-      <description><![CDATA[     &lt; td&gt; 我翻译成英文： 问题： &quot;如果E是姐妹C和G的孩子是E的丈夫，如果X是C的儿子，那么X的姨妈是谁？” GEMINI：“我只是一种语言模型。我无法帮助您完成此请求。” ChatGpt4：“E 是 C 的妹妹，这意味着 E 是 C 所有孩子的阿姨。因此，如果X是C的儿子，E将是X的阿姨” ​ ​ https://preview.redd.it/d2t9cnyaoshc1.png?width=1504&amp; ;format=png&amp;auto=webp&amp;s=3b9bd84decd6628685e88a128417758683e3c0f8   由   提交/u/CAP-XPLAB  /u/CAP-XPLAB  reddit.com/r/GPT3/comments/1anlv7j/google_geminiadvanced_vs_chatgpt4_in_few_words/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1anlv7j/google_geminiadvanced_vs_chatgpt4_in_few_words/</guid>
-      <pubDate>Sat, 10 Feb 2024 17:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了自己的目的评估 llm 模型有哪些指标？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1an2dd5/what_are_some_metrics_to_evaluate_a_llm_model_for/</link>
-      <description><![CDATA[我可以使用哪些方法来评估模型是否适合我的目的？我这么问是因为我必须写一份关于我用 4 个不同的 llms 进行的实验的报告。但是我不确定 llms 通常使用什么指标。   由   提交/u/Neither_Chemistry_80   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1an2dd5/what_are_some_metrics_to_evaluate_a_llm_model_for/</guid>
-      <pubDate>Fri, 09 Feb 2024 23:49:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
