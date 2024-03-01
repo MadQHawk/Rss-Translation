@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 01 Mar 2024 18:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 21:13:20 GMT</lastBuildDate>
     <item>
-      <title>Alexverboon狩猎查询检测规则</title>
-      <link>https://www.opensourceagenda.com/projects/alexverboon-hunting-queries-detection-rules</link>
-      <description><![CDATA[KQL 查询。 Microsoft 365 Defender、Microsoft Sentinel]]></description>
-      <guid>https://www.opensourceagenda.com/projects/alexverboon-hunting-queries-detection-rules</guid>
-      <pubDate>Fri, 01 Mar 2024 18:17:01 GMT</pubDate>
+      <title>波利4</title>
+      <link>https://www.opensourceagenda.com/projects/poli4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/poli4</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>CDSE工具</title>
-      <link>https://www.opensourceagenda.com/projects/cdsetool</link>
-      <description><![CDATA[从哥白尼数据空间生态系统 (CDSE) 下载数据]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cdsetool</guid>
-      <pubDate>Fri, 01 Mar 2024 18:17:01 GMT</pubDate>
+      <title>Miktuo</title>
+      <link>https://www.opensourceagenda.com/projects/miktuo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/miktuo</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>Yiying Parent</title>
-      <link>https://www.opensourceagenda.com/projects/yiying-parent</link>
-      <description><![CDATA[在线电影，基于分布式微服务架构，技术架构有SpringBoot、SpringCoud、nacos、dubbo、mybatis-plus、Druid，采用前后端分离方式进行开发，实现自定义视频上传、解码、存储、点播]]></description>
-      <guid>https://www.opensourceagenda.com/projects/yiying-parent</guid>
-      <pubDate>Fri, 01 Mar 2024 18:17:00 GMT</pubDate>
+      <title>维科阿格</title>
+      <link>https://www.opensourceagenda.com/projects/vikoag</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vikoag</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>艾特拉斯竞技场</title>
-      <link>https://www.opensourceagenda.com/projects/aitlas-arena</link>
-      <description><![CDATA[用于评估最先进的图像深度学习方法的开源基准框架地球观测（EO）分类]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aitlas-arena</guid>
-      <pubDate>Fri, 01 Mar 2024 18:17:00 GMT</pubDate>
+      <title>利克4a</title>
+      <link>https://www.opensourceagenda.com/projects/likg4a</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/likg4a</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>PyRawS</title>
-      <link>https://www.opensourceagenda.com/projects/pyraws</link>
-      <description><![CDATA[Python for Raw Sentinel-2 数据 (PyRawS) 是一款开源软件，提供用于打开和处理的实用程序Sentinel 2 RAW 数据，对应于具有附加元数据的 0 级数据的解压缩版本。该软件在第一个 Sentinel-2 数据集上进行了演示，其中包含用于高温热点检测/分类的原始数据。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pyraws</guid>
-      <pubDate>Fri, 01 Mar 2024 18:17:00 GMT</pubDate>
+      <title>基尔西尔</title>
+      <link>https://www.opensourceagenda.com/projects/kilsier</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kilsier</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>Xc Spring Cloud 阿里巴巴</title>
-      <link>https://www.opensourceagenda.com/projects/xc-spring-cloud-alibaba</link>
-      <description><![CDATA[spring cloud alibaba(2.2.1最新版)+nacos+dubbo+gateWay+sentinel+rocketmq+(pgsql/mysql8.0的json支持)+ignite集成可用于docker分布式框架+分布式自动化任务+mybatis多数据源+seate+ shardingSphere分布式分库事务解决方案]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xc-spring-cloud-alibaba</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:59 GMT</pubDate>
+      <title>船舶</title>
+      <link>https://www.opensourceagenda.com/projects/shipthing</link>
+      <description><![CDATA[重建 vercel]]></description>
+      <guid>https://www.opensourceagenda.com/projects/shipthing</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:18 GMT</pubDate>
     </item>
     <item>
-      <title>Sentinel自动化模块</title>
-      <link>https://www.opensourceagenda.com/projects/sentinelautomationmodules</link>
-      <description><![CDATA[Microsoft Sentinel Triage AssistanT (STAT) 可以在 Microsoft Sentinel 中轻松创建事件分类自动化]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sentinelautomationmodules</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:59 GMT</pubDate>
+      <title>好学的引擎</title>
+      <link>https://www.opensourceagenda.com/projects/studious-engine</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/studious-engine</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:18 GMT</pubDate>
     </item>
     <item>
-      <title>艾特尔</title>
-      <link>https://www.opensourceagenda.com/projects/aitlas</link>
-      <description><![CDATA[AiTLAS 采用最先进的人工智能方法对卫星图像进行探索性和预测性分析。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aitlas</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:59 GMT</pubDate>
+      <title>放置</title>
+      <link>https://www.opensourceagenda.com/projects/lokiga</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lokiga</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:18 GMT</pubDate>
     </item>
     <item>
-      <title>巴巴罗·斯坦因</title>
-      <link>https://www.opensourceagenda.com/projects/babarot-stein</link>
-      <description><![CDATA[具有可自定义规则集的配置文件 linter]]></description>
-      <guid>https://www.opensourceagenda.com/projects/babarot-stein</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:59 GMT</pubDate>
+      <title>INeoZz 启动器</title>
+      <link>https://www.opensourceagenda.com/projects/ineozz-launcher</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ineozz-launcher</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>卫星图像深度学习数据集</title>
-      <link>https://www.opensourceagenda.com/projects/satellite-image-deep-learning-datasets</link>
-      <description><![CDATA[利用卫星和航空图像进行深度学习的数据集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/satellite-image-deep-learning-datasets</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:58 GMT</pubDate>
+      <title>模式法</title>
+      <link>https://www.opensourceagenda.com/projects/pattern-method</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pattern-method</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>阿里云微服务演示</title>
-      <link>https://www.opensourceagenda.com/projects/alibabacloud-microservice-demo</link>
-      <description><![CDATA[由 Apache Dubbo 和 Spring Cloud Obama 提供支持的阿里云原生微服务演示]]></description>
-      <guid>https://www.opensourceagenda.com/projects/alibabacloud-microservice-demo</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:58 GMT</pubDate>
+      <title>Tinder Premium 免费</title>
+      <link>https://www.opensourceagenda.com/projects/tinder-premium-free</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tinder-premium-free</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>阿里巴巴KCloud平台</title>
-      <link>https://www.opensourceagenda.com/projects/kcloud-platform-alibaba</link>
-      <description><![CDATA[KCloud-Platform-Alibaba（老寇云平台）是一个企业级微服务架构的云服务平台。基于Spring Boot 3.2.3、Spring Cloud 2023.0.0、Spring Cloud Alibaba 2022.0.0.0（兼容Spring Cloud  Alibaba 2023） 最新版本开发的多租户SaaS系统，家人们，点个star！拜托啦~]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kcloud-platform-alibaba</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:58 GMT</pubDate>
+      <title>Merajahmed2003 佛罗里达工作室</title>
+      <link>https://www.opensourceagenda.com/projects/merajahmed2003-fl-studio</link>
+      <description><![CDATA[1]]></description>
+      <guid>https://www.opensourceagenda.com/projects/merajahmed2003-fl-studio</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>KQL 威胁追踪查询</title>
-      <link>https://www.opensourceagenda.com/projects/kql-threat-hunting-queries</link>
-      <description><![CDATA[专注于 Microsoft Sentinel 的威胁搜寻和威胁检测的 KQL 查询存储库Microsoft XDR（前 Microsoft 365 Defender）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kql-threat-hunting-queries</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:58 GMT</pubDate>
+      <title>工业经济区</title>
+      <link>https://www.opensourceagenda.com/projects/iez</link>
+      <description><![CDATA[用于行人航位推算的 INS-EKF-ZUPT]]></description>
+      <guid>https://www.opensourceagenda.com/projects/iez</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>纳吉奥弗 12306</title>
-      <link>https://www.opensourceagenda.com/projects/nageoffer-12306</link>
-      <description><![CDATA[🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nageoffer-12306</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:57 GMT</pubDate>
+      <title>索尔狙击手</title>
+      <link>https://www.opensourceagenda.com/projects/sol-sniper</link>
+      <description><![CDATA[太阳能狙击手，solana，solana 狙击手]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sol-sniper</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>Yangzongzhuan RuoYi Cloud</title>
-      <link>https://www.opensourceagenda.com/projects/yangzongzhuan-ruoyi-cloud</link>
-      <description><![CDATA[:tada: (RuoYi)官方仓库 基于Spring Boot、Spring Cloud &amp; Alibaba的分布式微服务架构权限管理系统]]></description>
-      <guid>https://www.opensourceagenda.com/projects/yangzongzhuan-ruoyi-cloud</guid>
-      <pubDate>Fri, 01 Mar 2024 18:16:57 GMT</pubDate>
+      <title>Solana 钱包暴力破解</title>
+      <link>https://www.opensourceagenda.com/projects/solana-wallet-bruteforce</link>
+      <description><![CDATA[多线程 Solana 暴力破解。在多线程模式下，该程序会用余额暴力破解被遗忘的加密钱包。高速稳定，使用完全安全。该程序使用多个工作进程为 Solana、ETH、比特币钱包生成随机私钥，并检查它们是否与任何地址匹配。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/solana-wallet-bruteforce</guid>
+      <pubDate>Fri, 01 Mar 2024 21:13:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
