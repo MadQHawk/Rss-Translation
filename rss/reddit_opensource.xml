@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 Mar 2024 00:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 03:13:14 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Fluent Emoji：动画版本是否包含在开源中？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</link>
+      <description><![CDATA[您好，我知道开源 Fluent Emoji 存在某些例外情况（clippy、世界国旗、某些使用 Microsoft 品牌的表情符号等），但是我很好奇 3D 动画版本是否也是开源的？ 3D 动画版本参考此处。我不相信这些在原始的 MSFT GitHub 存储库中，但它们列在 Emojipedia 上，所以我只是想确认一下。谢谢！   由   提交 /u/SkinADeer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</guid>
+      <pubDate>Sat, 02 Mar 2024 02:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>dotnet-gemini-sdk,.NET SDK，用于与 Google Gemini 无缝高效集成,下载dotnet-gemini-sdk的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b4coyg/github_gsilvamartindotnetgeminisdk_net_sdk_for/</link>
+      <description><![CDATA[       由   提交 /u/gsilvamartin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b4coyg/github_gsilvamartindotnetgeminisdk_net_sdk_for/</guid>
+      <pubDate>Sat, 02 Mar 2024 02:08:18 GMT</pubDate>
+    </item>
     <item>
       <title>加拿大会偷走所有拥有开源技能的移民吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b47i5h/will_canada_steal_all_the_immigrants_with_open/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>有什么有趣的开源词典软件（可能有 Android 应用版本）我可以 fork 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b3ptoz/any_interesting_opensource_dictionary_software/</link>
-      <description><![CDATA[作为一个新的宠物项目，我想做一个小词典应用程序来帮助我查找双语词典。 I&#39;我不是一个出色的前端开发人员，所以我主要是一台 PC（可以是浏览器应用程序的简单包装器）+ Android 应用程序，我只能对前端进行轻微修改，并且主要在自己的实际数据部分上工作。&lt; /p&gt; 提前致谢！ 编辑：简单地说，类似于 dict.cc 但开源，如果甚至存在。我对字典的实际内容不感兴趣，但主要是已经实现了一个漂亮的界面的内容，然后用我自己的内容填充。    ;由   提交 /u/croissantdechocolate   [链接] [评论]]]></description>
+      <description><![CDATA[作为一个新的宠物项目，我想做一个小词典应用程序来帮助我查找双语词典。 I&#39;我不是一个出色的前端开发人员，所以我主要是一台 PC（可以是浏览器应用程序的简单包装器）+ Android 应用程序，我只能对前端进行轻微修改，并且主要在自己的实际数据部分上工作。&lt; /p&gt; 提前致谢！ 编辑：简单地说，类似于 dict.cc 但开源，如果甚至存在。我对字典的实际内容不感兴趣，但主要是已经实现了一个漂亮的界面，然后用我自己的内容填充。    ;由   提交 /u/croissantdechocolate   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b3ptoz/any_interesting_opensource_dictionary_software/</guid>
       <pubDate>Fri, 01 Mar 2024 08:59:49 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>用于组合业务消息收件箱的自由和开源软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1b3jqfg/foss_for_combined_business_message_inbox/</link>
-      <description><![CDATA[有一种名为 Kenect 的商业服务，它可以提供一个单一的“收件箱”，其中结合了来自 Facebook Messenger、Instagram DM 的消息和用于 SMS 消息传递的电话号码。这样做的好处是客户服务代表可以从一个位置回复所有消息。  有谁知道任何与此功能非常接近的 FOSS 替代方案吗？   由   提交/u/bmoreitdan  [链接] [评论]]]></description>
+      <description><![CDATA[有一种名为 Kenect 的商业服务，它可以提供一个单一的“收件箱”，其中结合了来自 Facebook Messenger、Instagram DM 的消息以及用于 SMS 消息传递的电话号码。这样做的好处是客户服务代表可以从一个位置回复所有消息。  有谁知道任何与此功能非常接近的 FOSS 替代方案吗？   由   提交 /u/bmoreitdan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b3jqfg/foss_for_combined_business_message_inbox/</guid>
       <pubDate>Fri, 01 Mar 2024 03:04:15 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿r/opensource社区！&lt; /p&gt; 几年前，我启动了自己的脚本引擎，以便用于外包脚本中的任务。它既可以作为配置文件的配置引擎，又足够强大，可以让您创建复杂的脚本。 它的语法受到 C++、PHP、Tcl 和 PowerShell 的启发。它具有重要的功能，例如常量、变量、if 语句、循环、函数等。 我自己将它用于 AquaShell（Windows 的脚本外壳）。它与 AutoIt 类似（并受到它的启发），我用它来自动化我的操作系统上的操作。 例如，我创建了一个脚本来启动本地 Windows Web 服务器环境，最初的 Web 项目 URL 为默认浏览器： https://github.com/danielbrendel/hortusfox -web/blob/main/launch.dnys 如您所见，它利用所谓的插件，这些插件本质上是为 shell 提供更多功能的库。这是有效的，因为底层脚本引擎可以注册自定义命令（以及变量的自定义数据类型）。 随意检查一下！ 脚本引擎：&lt; a href=&quot;https://github.com/danielbrendel/dnyScriptInterpreter&quot;&gt;https://github.com/danielbrendel/dnyScriptInterpreter 脚本外壳：https://github.com/danielbrendel/dnyAquaShell 亲切的问候 编辑：必须插入一个链接脚本，因为代码块被 Reddit 损坏。   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b3ieu6/an_embeddable_scripting_engine_to_outsource_tasks/</guid>
       <pubDate>Fri, 01 Mar 2024 02:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有好的开源程序来绘制业务流程吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b3fm8v/good_opensource_programs_to_diagram_business/</link>
-      <description><![CDATA[嗨。有什么好的程序可以绘制我想要开发的业务流程吗？   由   提交/u/rkim777  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b3fm8v/good_opensource_programs_to_diagram_business/</guid>
-      <pubDate>Thu, 29 Feb 2024 23:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code Xpert：一个完全免费且开源的类似 GitHub Copilot 的项目，具有 VSCode 扩展。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b3e9d1/code_xpert_a_completely_free_and_opensource/</link>
-      <description><![CDATA[🚀 很高兴推出 CodeXpert！  您的编码伴侣可增强您使用高级语言模型的体验。  ❕️无需在本地运行繁重的模型，只需安装 VS Code 扩展即可！您现在有一个免费的副驾驶！ https://github.com/SudoACoder/CodeXpert 如果您喜欢这个项目，请给它一颗星！ 😅   由   提交/u/Mr3600  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b3e9d1/code_xpert_a_completely_free_and_opensource/</guid>
-      <pubDate>Thu, 29 Feb 2024 23:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
