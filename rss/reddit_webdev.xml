@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 06:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 09:11:30 GMT</lastBuildDate>
+    <item>
+      <title>快速提问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4k1u1/vite_question/</link>
+      <description><![CDATA[我正在学习 Vite，并且已经创建了一个 Vanilla JS 项目，添加了 package.json 并安装了 Vite。现在我想捆绑我的 src 目录，其结构如下： / (项目根目录) └── src/ ├── index.html ├── index.js └──Details/ ├ ──index.html └──index.js  当我捆绑我的src时，Vite只捆绑到dist文件夹根目录index.html和index.js，但不捆绑到details文件夹。如何捆绑所有子文件夹？   由   提交 /u/KisniDan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4k1u1/vite_question/</guid>
+      <pubDate>Sat, 02 Mar 2024 09:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Cloudflare Workers 自动刷新 Instagram Basic Display API 令牌。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4jrrz/auto_refresh_instagram_basic_display_api_tokens/</link>
+      <description><![CDATA[https://github.com /lia-07/ig-gallery-worker 我制作这个是因为我的客户网站需要它。从我的测试来看，它似乎工作得很好。 如果有任何反馈，我们将不胜感激，我之前（太多）没有真正从事过开源工作。   由   提交/u/Personal_Rich_2322   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4jrrz/auto_refresh_instagram_basic_display_api_tokens/</guid>
+      <pubDate>Sat, 02 Mar 2024 08:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个 Chrome 扩展，可以一键抓取任何网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4jkqo/i_made_a_chrome_extension_that_can_scrape_any/</link>
+      <description><![CDATA[   /u/dk_the_ human   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4jkqo/i_made_a_chrome_extension_that_can_scrape_any/</guid>
+      <pubDate>Sat, 02 Mar 2024 08:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈新手。你的建筑过程如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4j9eu/new_to_full_stack_how_does_your_building_process/</link>
+      <description><![CDATA[正如标题所说，我对 CSS、HTML 和 javascript 很陌生，但在 Python 和脚本构建方面有几年的历史/一些使用 tkinter 和 PyQt 的简单 GUI 我已经解决了作为钢铁贸易商时遇到的一些与工作相关的问题，但现在我解决了这个问题，并希望更多地参与 Web 开发，并且看看结果会怎样。  重点：如果我有一个网站并想添加一个新页面，你会如何做。例如，您使用什么工具来构建前端 - 我刚刚发现了“实时服务器”这很神奇，但它不允许你将 CSS/javascript 分开在不同的文件中。 - 那么，您是否将页面的大部分内容都放在一个文件中，然后将代码分开，还是我遗漏了某些内容？  我的意思是，是否有更好的方法可以让您清楚地了解更改不同值等时发生的情况？  您是否先构建前端，然后再处理后端？我已经完成了所有的工作，这里做一点，那里做一点……而且我不确定我是否“应该”这样做。用另一种方式来做——这样会更好。  ​ ​   由   提交 /u/lixenstrand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4j9eu/new_to_full_stack_how_does_your_building_process/</guid>
+      <pubDate>Sat, 02 Mar 2024 08:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全迷失在WHM和VPN中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4j2s9/totally_lost_in_whm_and_vpn/</link>
+      <description><![CDATA[长话短说，我拥有一个 Wordpress 网站 14 年了，有一次我收到一条警告，说它对于我的共享主机来说太大了。我真的不知道如何分析它，但假设这可能只是随着时间的推移页面和图像的数量。  我急于再次启动它，所以我被说服使用 VPN 托管并使用 WHM 而不是 cpanel，这超出了我的理解范围，而且超级昂贵，而且可能有点过分，但我还是这么做了保持我的网站正常运行，直到我有时间解决所有问题。  因此，我的网站一团糟，我没有动力更新它（已经过时 9 个月了），我开始创建一个 Squarespace 网站从头开始重建。我的问题是，我不知道如何将图像文件夹下载到我的计算机上。我使用过 ftp，但不知道如何登录或通过 WHM 使用它。我找不到任何东西。 任何帮助或帮助链接将不胜感激。    由   提交/u/MulatedRefuse834  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4j2s9/totally_lost_in_whm_and_vpn/</guid>
+      <pubDate>Sat, 02 Mar 2024 08:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nginx 替代品 Qpackt 0.2.0 发布</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4izc2/nginx_replacement_qpackt_020_released/</link>
+      <description><![CDATA[      Qpackt 是一个开源 Web 服务器，雄心勃勃地取代 Nginx。 它刚刚获得新功能：反向代理（https://github.com/qpackt/qpackt/tree/0.2.0&lt; /a&gt;)  您可以有嵌套前缀。 Qpackt 将对它们进行反向排序并应用先到者。 同一前缀可以有多个目标。有助于在不停机的情况下推出新应用。  https://preview.redd.it/d5tls25imvlc1.png?width=1587&amp;format=png&amp;auto=webp&amp;s=1a946c0d1faca00253f7b4727d6a8287fbddee26  其他有趣的功能：   提供网站的多个版本（用于 A/B 测试或轻轻滚动新版本） 非跟踪访客分析 自动抓取SSL证书    由   提交/u/Over_Intention3342   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4izc2/nginx_replacement_qpackt_020_released/</guid>
+      <pubDate>Sat, 02 Mar 2024 07:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4ipuk/personal_portfolio/</link>
+      <description><![CDATA[大家好，我是初级 Web 开发人员，目前正在寻找该领域的工作。我想获得对我的新个人作品集网站的评论。我没有使用某些框架，而是用纯 HTML/CSS/JS 构建它。从事这项工作时最难的部分是思考设计，对我来说，每个项目最难的部分是设计思维。 链接：https ://jasiuka-portfolio.pages.dev   由   提交/u/Jasiuka  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4ipuk/personal_portfolio/</guid>
+      <pubDate>Sat, 02 Mar 2024 07:37:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从哪里开始以及如何完成？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4i3q1/where_do_i_start_and_hows_it_done/</link>
+      <description><![CDATA[我很想从事 webdev 但不知道，我很想知道从哪里开始以及我应该学习什么才能变得非常擅长。学习网络开发会让我在应用程序开发方面也足够优秀吗？我应该在 webdev 中学习什么？谢谢   由   提交 /u/Stranger1012   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4i3q1/where_do_i_start_and_hows_it_done/</guid>
+      <pubDate>Sat, 02 Mar 2024 06:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>instaneof 与 constructor.name</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4hnrr/instaneof_versus_constructorname/</link>
+      <description><![CDATA[我有这个错误类 export class NotFoundError extends Error {}  &lt; p&gt;我故意抛出这个错误，并且我这样做 if check if (error.constructor.name === &#39;NotFoundError&#39;) { // 此处省略代码 }  此结果为 true。但如果我将其更改为以下内容 if (error instanceof NotFoundError) { // omit code here }  那么它的计算结果为 false。这是不希望的，因为我想以类型安全的方式使用类的实际名称，而不是与构造函数名称字符串进行比较 知道为什么会发生这种情况吗？   由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4hnrr/instaneof_versus_constructorname/</guid>
+      <pubDate>Sat, 02 Mar 2024 06:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>仪表板网络应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b4hijl/dashboard_web_app/</link>
+      <description><![CDATA[我想开发一个基本的仪表板 Web 应用程序来显示一些性能指标。我希望尽快完成。 您会推荐哪些工具和 Web 框架？我可以使用 JS 和 C#。   由   提交/u/Titanx07  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b4hijl/dashboard_web_app/</guid>
+      <pubDate>Sat, 02 Mar 2024 06:24:40 GMT</pubDate>
+    </item>
     <item>
       <title>CoinForge - 一体化构建和启动平台，为您的下一个加密项目提供动力。</title>
       <link>https://www.reddit.com/r/webdev/comments/1b4f10a/coinforge_allinone_build_launch_platform_to_fuel/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[我刚刚开始我的第一份开发工作，我真的很想了解作为一名全职软件工程师应该培养哪些好习惯和坏习惯大学的。在这里呆了一段时间后，我开始认为这可能是我的一个坏习惯，但我不确定，想看看别人怎么说。 例如，我们使用 Bootstrap 和 Vanilla CSS 构建了我们的大部分项目。我可能会在页面上 70% 的组件中使用 Vanilla CSS，例如标题和文章部分、文本、图像等。但是对于像我们的导航栏和表单这样的东西，我依赖于 Bootstrap。有时，它只是使用一些基本的 Bootsrap 类来使元素更加一致和响应更快（例如表单的容器和表单组）。但对于像导航栏这样的东西，我完全依赖 Bootsrap。  从我在我们的代码库中看到的以及四处询问的情况来看，这似乎在我们整个团队中很常见。  我陷入了这个困境，因为对于像导航栏之类的东西，我不知道如何使其响应并使其在没有教程和文章的情况下使用原始 CSS 自行工作。讽刺的是，我在大学里也做了同样的事情。我对弹性框和基本的响应式设计有很好的掌握，但对于导航栏和冗长表单等更复杂的项目，我似乎倾向于使用 Bootstrap 来抽象它。像香草网格这样的东西我仍然不明白。 想法？   由   提交/u/hookup1092   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b4dwfk/is_it_bad_practice_to_use_vanilla_css/</guid>
       <pubDate>Sat, 02 Mar 2024 03:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关此帖子请求的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4dcfv/need_help_with_this_post_request/</link>
-      <description><![CDATA[我对此帖子请求有疑问。我使用邮递员，我希望某些字段为空，但是架构验证失败，因为它不允许这样做。我该如何解决它？  ​ router.post(&#39;/CreateCoworker&#39;, async (req, res) =&gt; { console.log(req.body); 尝试{ // 如果需要，请在此处验证传入数据 const coworker = wait Coworker.create({ first_name: req.body.first_name, last_name: req.body.last_name,department: req.body.department, Potential: req.body.potial , 连接: req.body.connection, 问题: req.body.issue, }); res.json({ msg: &#39;同事创建成功&#39;, 同事 }); }catch(err){ console.error(err); res.status(400).json({ error: &#39;无法添加同事&#39; }); } });错误：错误：同事验证失败：连接：参数“obj” to Document() 必须是一个对象，得到“” （类型字符串）_message：&#39;同事验证失败&#39;} {first_name：&#39;person1&#39;，last_name：&#39;&#39;，部门：&#39;department1&#39;，潜在：&#39;1&#39;，连接：&#39;&#39;，问题：&#39;&#39;}   ​   由   提交 /u/Zealousideal-Ad9018    reddit.com/r/webdev/comments/1b4dcfv/need_help_with_this_post_request/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4dcfv/need_help_with_this_post_request/</guid>
-      <pubDate>Sat, 02 Mar 2024 02:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六展示] 超过 10 年收集和整理的 800 多个网页开发/设计资源！定期修剪，没有损坏的链接！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4d455/showoff_saturday_800_web_devdesign_resources_over/</link>
-      <description><![CDATA[   /u/addycodes  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4d455/showoff_saturday_800_web_devdesign_resources_over/</guid>
-      <pubDate>Sat, 02 Mar 2024 02:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费托管内部文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4cocs/host_internal_documentation_for_free/</link>
-      <description><![CDATA[我们是一个小团队，兼职做一个项目。我们需要在某处托管某种集中文档。理想情况下：  它应该是私有的。 它应该是免费的。 它应该有版本控制。  Google 文档符合第一个和第二个条件，但不符合第三个条件。 GitHub Wiki 匹配第一个和第三个，但不匹配第二个。 GitHub Pages 匹配第二个和第三个，但不匹配第一个。 🤔   由   提交 /u/kugkfokj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4cocs/host_internal_documentation_for_free/</guid>
-      <pubDate>Sat, 02 Mar 2024 02:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>明天我将开发一个样板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4c40k/tomorrow_i_will_develop_a_boilerplate/</link>
-      <description><![CDATA[我刚刚完成了一个前端 kata (lift-kata by kata-log.rocks），我用纯 HTML、CSS 和 JS 开发了它。 我想在 TDD 中进行大量重构，这里需要安装哪个 npm 包：- ts-node - scss - pug - jest 此时我被迫使用 grunt 来管理构建。 我还没有拿到代码，但是它看起来是一个很棒的结构，我将借此机会创建一个样板供自己重用，但是我有一个疑问：直接使用 React 或类似的不是更好吗？   由   提交/u/YoshiEgg23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4c40k/tomorrow_i_will_develop_a_boilerplate/</guid>
-      <pubDate>Sat, 02 Mar 2024 01:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>日志上队列的优点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4bqfr/the_advantages_of_queues_on_logs/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4bqfr/the_advantages_of_queues_on_logs/</guid>
-      <pubDate>Sat, 02 Mar 2024 01:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>删除H1空间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4bkvu/remove_h1_space/</link>
-      <description><![CDATA[      如何删除 H1 中的这个空格，gpt 不理解我的问题 ​ https://preview.redd.it/kpks82qqntlc1.png?width=205&amp;format=png&amp;auto=webp&amp; ;s=b209726326fac97ce00523b86e0f349efb5a20a6   由   提交/u/Mountain_Ad4304   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4bkvu/remove_h1_space/</guid>
-      <pubDate>Sat, 02 Mar 2024 01:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4ad1m/how_much/</link>
-      <description><![CDATA[所以，我有了一位新的领导，一位位于洛杉矶的客户，想要一个公司网站。我想为该项目收取公平的市场价格，但也不会少收自己的费用。我可以自由选择技术堆栈，它也是一个托管在 GoDaddy 上的纯前端项目。它有 7 个页面（主页、关于我们等）。多少才算合理？  P.S.我可能也必须做设计，但暂时不要考虑这一点。    由   提交/u/Razzmatazz_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4ad1m/how_much/</guid>
-      <pubDate>Sat, 02 Mar 2024 00:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个 Chrome 扩展，可以一键抓取任何网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4a9r5/i_made_a_chrome_extension_that_can_scrape_any/</link>
-      <description><![CDATA[大家好，我刚刚发布了一个网页抓取 Chrome 扩展程序，可以非常轻松地从任何网站提取数据：https://easyscraper.com/ 与大多数网络抓取工具一样，Easy Scraper 不需要您先构建一个抓取工具，然后才能抓取网站，而是会自动分析页面并提取相关字段，以便您可以立即开始使用数据。 能够在任何地方立即提取数据真是太棒了，我最喜欢的用例之一是能够快速与 ChatGPT 对话关于自定义数据集。 例如，这是一个 1 分钟的演示，我通过抓取我的 Twitter 关注者来了解其中有多少人居住在旧金山：https://www.loom.com/share/e3248c15a05041deae592d4157ddf4e2?sid=66ac035 d-e924-46e3-b15a-94fa1aa89618&lt; /p&gt; Easy Scraper 可以处理抓取列表并深入抓取每个 URL。它不需要注册帐户，因此您可以轻松尝试。 十多年来，我一直在构建 Chrome 扩展程序和网络抓取工具，对此我感到非常自豪结果是这个。 :) 享受吧，我很想听听你的想法！   由   提交/u/dk_the_ human   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4a9r5/i_made_a_chrome_extension_that_can_scrape_any/</guid>
-      <pubDate>Sat, 02 Mar 2024 00:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布请求帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4a4ju/post_request_help/</link>
-      <description><![CDATA[      我正在尝试在 Postman 上测试此发布请求，但收到一条错误消息，指出无法创建文档。由于我想测试某些值未填充的场景，因此我将其中一些值留空，但出现错误。如何将其中一些值保留为空并让它仍然创建文档？  ​ https://preview.redd.it/efvlr0ecctlc1.png?width=781&amp;format=png&amp;auto=webp&amp;s=52a7f67b30e5942a293aa06b9f38818e8fed49f 2 https://preview.redd.it/p62em0ecctlc1.png?width=862&amp;format= png&amp;auto=webp&amp;s=fd1af754d3e288027388c2b63f658e161286329f https://preview.redd.it/zrrvm1ecctlc1.png?width=822&amp;format=png&amp;auto=webp&amp;s=b5f8eeb862b8699382bb506220ecdbca09c20fd2 https://preview.redd.it/0cvnv0ecctlc1.png?width=730&amp; format=png&amp;auto=webp&amp;s=9f7ee08cc3d52d5efcb47166025041eff4aca5c0   由   提交 /u/Zealousideal-Ad9018    reddit.com/r/webdev/comments/1b4a4ju/post_request_help/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4a4ju/post_request_help/</guid>
-      <pubDate>Sat, 02 Mar 2024 00:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令组件 (shadcn) 中的意外工具提示行为</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4a1xt/unexpected_tooltip_behavior_in_command_component/</link>
-      <description><![CDATA[问题描述 我遇到一个问题，即使用 Shadcn 实现的命令组件内的工具提示无法按预期运行。工具提示旨在为动态列表中的每个项目提供附加信息。但是，无论将鼠标悬停在哪个项目上，显示的工具提示始终针对列表中的最后一个项目。  预期行为 每个工具提示应在悬停时准确反映其相应列表项的信息，不会显示任何重叠或不正确的工具提示内容。 观察到的行为  对于任何悬停的项目，都会显示列表中最底部项目的工具提示。 当鼠标离开项目时，会出现意外的突出显示效果。 &gt;  重现步骤  实现具有多个项目的命令组件，每个项目都配有工具提示。 将鼠标悬停在各个项目上以观察工具提示  简化的代码片段 return (      未找到结果。 &lt; CommandGroup header=&quot;上传的文件&quot;&gt; {files?.map((file, index) =&gt; (  &lt;; span onClick={() =&gt; onSelectFile(file._id)} className=&quot;截断&quot; &gt; &lt;TooltipTrigger id={file._id + index}&gt; {file.fileName} &lt;/TooltipTrigger&gt; &lt; TooltipContent className=“max-w-md 断词空白-正常”&gt; {file.summary}     onDelete (file._id)} className=&quot;h-2 w-2 悬停:text-red-500&quot; //&gt; &lt;/div&gt; &lt;/CommandItem&gt; ))} &lt;/CommandGroup&gt; &lt;/命令列表&gt; &lt;/命令对话框&gt; &lt;/工具提示&gt; &lt;/TooltipProvider&gt;  寻找任何建议来指出我哪里出错了。    由   提交 /u/professorhummingbird   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4a1xt/unexpected_tooltip_behavior_in_command_component/</guid>
-      <pubDate>Sat, 02 Mar 2024 00:08:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
