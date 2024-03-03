@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 18:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 21:11:38 GMT</lastBuildDate>
+    <item>
+      <title>django-boot 样式包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5q91d/djangoboot_styling_package/</link>
+      <description><![CDATA[      开发人员您好， 希望您能顺利收到此消息。最近，我缩减了使用 Flask 的开发规模，并转向 Django，因为它的自动化和交付速度。这促使我更深入地研究并发现可重用应用程序的美丽世界。因此，我决定创建一个供个人使用的包，简单地使用 Bootstrap 5 设计 Django 管理界面（这是很难实现的）。如果您想测试它，我将共享存储库。该应用程序易于配置，并在 PyPI 上建立了索引。 ​  https://i.redd.it/gl32g6cdc6mc1.gif Git：https:// github.com/roderiano/django-boot   由   提交/u/roderiano  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5q91d/djangoboot_styling_package/</guid>
+      <pubDate>Sun, 03 Mar 2024 19:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该放弃学习 Chrome 扩展程序开发吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5q5zr/should_i_give_up_on_learning_chrome_extension/</link>
+      <description><![CDATA[我有一个很酷的扩展想法（可以帮助很多人，但不会让我赚一毛钱），这是你想要的如果您懒惰使用任何框架，一天之内即可完成。但将其开发为扩展实在是太难了。我基本上放弃了谷歌文档并买了一本书，但即使那本书也不够好！这些错误是隐晦的。 API 非常混乱。没有什么该死的工作，工具是手动的，而且很糟糕，在网上寻找答案很痛苦。 我是一个弱开发者，还是扩展很糟糕？   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5q5zr/should_i_give_up_on_learning_chrome_extension/</guid>
+      <pubDate>Sun, 03 Mar 2024 19:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要反向代理自托管网络帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5q1ue/need_help_reverse_proxying_self_hosted_web/</link>
+      <description><![CDATA[我有一个自托管的 Minecraft 服务器，带有一个名为 Dynmap 的插件，它由一个类似于 Google 地球的在线地图组成。它通过 http 与自己的内部 Web 服务器（jetty）配合使用，我一直在尝试通过 nginx 和 apache 对其进行反向代理以获得 SSL 加密（以获得漂亮的 https 锁定符号并使一切顺利体验），但没有成功。  Dynmap web 可以通过端口 8124 访问，在任何地方都可以正常工作，但是当像许多教程那样进行反向代理时，它不会在我的家庭 IP 之外加载。我托管所有内容的 Windows PC 上的防火墙规则已设置，因此连接已打开，并且我确信路由器防火墙不会干扰这里，因为当我尝试禁用它时，网站未加载。 这很奇怪，因为当我尝试从我的家庭 LAN（例如连接到我的 Wi-Fi 或以太网连接）加载网络时，反向代理可以工作，但不能从我家以外的任何互联网连接或移动数据加载网络。为什么当用户 IP 是我的家时反向代理可以工作，而当它是任何其他 IP 时却不能工作？ 我在 conf 文件中所做的设置是您在任何地方的常规教程中看到的设置在互联网上。日志中没有错误消息。 我还想通过一个名为 MCSS 的程序反向代理我的管理面板，该程序可通过端口 25560 访问，但也无法通过反向代理访问它，尽管这是没那么重要，因为它可能是一项安全功能（也许？idk，不是我的优先事项）。 所有详细信息： - Windows 10 Pro 22H2 (19045.3803)  &gt; - Nginx 1.24.0（也使用 XAMPP 3.3.0 和 Apache 2.4.58，但我更喜欢 nginx） - 不重要，但 PHP 8.3.3 - 我还可以通过 Certbot 获取我的 Let&#39;s Encrypt SSL 证书 - No-Ip 动态 DNS (jvg2203.ddns.net) 欢迎任何帮助！我不知道我是否在这里或那里错过了一些愚蠢的配置，但如果情况是没有解决方案，我将更改我的托管配置以将所有文件托管在 nginx 内，这也与该插件兼容，但我不这样做不喜欢那样，因为地图有很多千兆字节大，并且位于 HDD 驱动器内，我必须移动所有这些。   由   提交/u/Jajajavi2203  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5q1ue/need_help_reverse_proxying_self_hosted_web/</guid>
+      <pubDate>Sun, 03 Mar 2024 19:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>元素显示在 Dreamweaver 中不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5pl61/element_display_not_working_in_dreamweaver/</link>
+      <description><![CDATA[最近刚开始在我的网页设计课程中使用 Dreamweaver，我们使用一本书作为教程，但当前的步骤对我来说并不适用原因... 当我在实时视图中单击一行文本时，我需要有一个蓝色框，它曾经在以前的作业中存在，但现在不存在。我需要元素显示来点击 Class/ID 字段的“+”才能完成教程。 我对 Dreamweaver 不太了解，但从我查找的内容来看，我的设置看起来不错。我肯定处于实时视图中，没有选中“隐藏实时视图显示”，没有太多代码，也没有错误，DW 是最新的，我的显卡驱动程序也是最新的，并重新启动了我的电脑。 Adobe 论坛上的一次讨论称，一位用户的驱动器中有一个奇怪的字符，导致了同样的问题，但我的情况并非如此。 任何帮助都会有所帮助，谢谢！    由   提交/u/Blobfish09  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5pl61/element_display_not_working_in_dreamweaver/</guid>
+      <pubDate>Sun, 03 Mar 2024 19:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 CSS 响应能力方面的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5p4zj/need_help_with_responsiveness_in_css/</link>
+      <description><![CDATA[我设置了一个两列布局，网格的右侧有一个旁白元素（其中有一些照片），左侧有文章（其中有里面的内容）。现在的问题是，每当我减小视点宽度时，旁边照片的高度就会减小，而文章中内容的高度就会增加。现在我希望内容和照片高度保持不变，无论视口宽度如何。我怎样才能实现它。顺便说一句，我是网络开发新手，所以请帮助我。  这是参考的CSS html { box-sizing: border-box; } *, *::after, *::before { box-sizing: 继承; } 正文 { 背景颜色：#fff;颜色：#333；保证金：0；字体：1.2em / 1.2 Arial、Helvetica、sans-serif； } img { 最大宽度：100%;显示：块； } .logo { 字体大小：200%；内边距：50px 20px；保证金：0 自动；最大宽度：980px； } .grid { 边距：0 自动；内边距：0 20px；最大宽度：980px； } 导航 { 背景颜色：#000;填充：.5em； } nav ul { 边距：0;填充：0；列表样式：无； } 导航{颜色：#fff;文本装饰：无；填充：.5em 1em； } .photos { 列表样式：无；保证金：0；填充：0； } .feature { 宽度：200px; } /* 这里是我的 CSS */ nav ul { display: flex; justify-content：空间周围； } .feature { float: left;右边距：2.040816326530612%； } .grid { 显示：网格；网格模板列：1fr 1fr； } 文章{宽度：87%;右边距：4.081632653061224%；位置：相对；最大宽度：71.42857142857143%；最小宽度：151.61224489795918%；左：0； } 旁白 { 位置：相对；右：-62.59%；宽度：76.61%；最小宽度：10.20408163265306%； } .photos { 显示：网格；网格模板列：重复（2，1fr）；间隙：5px； } @media (最大宽度: 70em) 和 (最小宽度: 40em) { 文章 { 背景颜色: aqua;位置：相对；左：0; } 旁白 { 背景颜色：红色；浮动：右；宽度：84.61224489795918%； } 导航 { 宽度：115vw; } .grid { 最大高度：680px; }  } @media（最大宽度：600px）{ 文章{ 位置：相对；左：0;  背景颜色：青色； } 旁白 { 背景颜色：红色；位置：相对；右：0；宽度：30.61224489795918%； } 导航 { 宽度：56em; }  }   由   提交 /u/Altruistic-Mud-9376   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5p4zj/need_help_with_responsiveness_in_css/</guid>
+      <pubDate>Sun, 03 Mar 2024 19:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>受 DRM 保护的安全网络 (PWA) 电子阅读器应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5oq94/secure_drmprotected_webbased_pwa_ereader_app/</link>
+      <description><![CDATA[我的任务是为客户进行构建。寻找其他人有相同的经验。 我已经研究了几种商业产品。它们似乎可以归结为以下选项：  将加密的 PDF 发送到应用程序使用的专有库（例如：FileOpen） 在应用程序中托管一个 iframe，使用供应商专有服务绘制 PDF（例如：Vitrium、Kitaboo） 从 PDF 生成页面图像并将其发送到应用程序（例如：Custos）  有吗我遗漏的其他方法？客户端对涉及最终用户拥有“文件”的任何方法不感兴趣。它只能在应用程序内查看 - 无法下载或打印。  Custos 具有非常强大的取证水印功能 - 其他的则不然。有些只加密，不加水印。但对于 Custos，我必须自己创建阅读器逻辑。 客户没有表示需要注释支持，但我从不相信客户知道他们将来想要什么。 FileOpen、Vitrium 和 Kitaboo 支持开箱即用的注释。    由   提交 /u/shufflepoint   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5oq94/secure_drmprotected_webbased_pwa_ereader_app/</guid>
+      <pubDate>Sun, 03 Mar 2024 18:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Markdown 变得如此流行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5ofta/why_has_markdown_become_so_popular/</link>
+      <description><![CDATA[作为一个已经将制作网站作为业余爱好已有 10 多年的人，并且在论坛中活跃的时间更长，我真的很好奇为什么 Markdown 作为一种格式化语言变得如此流行。为什么网络开发人员现在在论坛软件、Reddit 或其他应用程序中使用这种格式化语言，而不是老式的 BBCode 或纯 HTML？ 当然我不能代表其他人，但我个人总是发现 Markdown与 HTML 或 BBCode 相比，使用起来不直观，因为没有“系统”代码。可以这么说，在它后面。在 HTML 或 BBCode 中，所有标签都遵循一个逻辑系统，而在 Markdown 中，基本上使用随机标点符号，这有时与实际的书面文本冲突 - 我见过很多实例，其中仅通过简单地在后面添加数字就创建了无意的有序列表通过句尾点，或者行首的空格弄乱了帖子，导致帖子被视为代码。此外，我经常在 Reddit 评论中看到有关缺少段落的较长帖子的抱怨，问题只是 OP 不知道他们必须双击 Enter 才能创建新段落。论坛中的 BBCode 从未发生过类似的事情，因为 [b] 或 [list] 从来都不是实际书面文本的一部分，并且要创建代码块，您必须编写 [code]。  即使我作为一名经验丰富的用户 - 自从 Discord 推出以来我就一直在使用 Discord，并且在 Reddit 上也使用了好几年 - 也必须定期查找如何在 Markdown 中准确使用括号来格式化链接，而同时我了解 HTML、(S)CSS 和多种编程语言...   由   提交 /u/Semako   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5ofta/why_has_markdown_become_so_popular/</guid>
+      <pubDate>Sun, 03 Mar 2024 18:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>新闻网站图片</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5obck/images_for_news_website/</link>
+      <description><![CDATA[您好，我们正在启动一个新闻网站，我想知道如何从当前事件中获取最新图像，而不引起任何文案等问题。是一张图片真的可以卖 500 美元吗？我们如何才能开始一篇文章的这么多开销呢？如有任何建议，我们将不胜感激！   由   提交 /u/MetalicSky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5obck/images_for_news_website/</guid>
+      <pubDate>Sun, 03 Mar 2024 18:37:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>括号实时预览</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5o86e/brackets_live_preview/</link>
+      <description><![CDATA[当我单击闪电图标时，它会打开 chrome 并显示我的网站。当我对代码进行更改时，它不会在浏览器中实时显示，我需要刷新浏览器才能显示更改。如何解决这个问题？   由   提交/u/lone-wolf0903  /u/lone-wolf0903 reddit.com/r/webdev/comments/1b5o86e/brackets_live_preview/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5o86e/brackets_live_preview/</guid>
+      <pubDate>Sun, 03 Mar 2024 18:34:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>不！不使用都铎王冠！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5o3t3/no_not_usetudorcrown/</link>
+      <description><![CDATA[       由   提交 /u/ZakSFarmer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5o3t3/no_not_usetudorcrown/</guid>
+      <pubDate>Sun, 03 Mar 2024 18:29:29 GMT</pubDate>
+    </item>
     <item>
       <title>gitbrowser - 浏览/搜索终端内的存储库并发现新软件</title>
       <link>https://www.reddit.com/r/webdev/comments/1b5n7hq/gitbrowser_browsesearch_repos_inside_your/</link>
@@ -15,7 +85,7 @@
     <item>
       <title>内部网上商店推荐</title>
       <link>https://www.reddit.com/r/webdev/comments/1b5mxcl/recommendation_for_internal_webshop/</link>
-      <description><![CDATA[您好，我正在寻找一个内部网上商店，供员工选择品牌服装。我不需要任何付款机制，因为我们在另一个程序中处理它。功能应该是浏览和选择我们可以为他们准备的商品。您推荐什么技术？我更喜欢开源和自托管的东西。因为它仅适用于内部，所以我也更喜欢免费。 LDAP 身份验证支持会很棒。以及营销团队的某种 cm/s。 （我尝试过谷歌搜索，但我发现的所有内容似乎都太过分了）   由   提交 /u/panwauu   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我正在寻找一个内部网上商店，供员工选择品牌服装。我不需要任何付款机制，因为我们在另一个程序中处理它。功能应该是浏览和选择我们可以为他们准备的商品。  你推荐什么技术？ 我更喜欢开源和自托管的技术。因为它仅适用于内部，所以我也更喜欢免费。 LDAP 身份验证支持会很棒。以及营销团队的某种 cm/s。 （我尝试过谷歌搜索，但我发现的所有内容似乎都太过分了）   由   提交 /u/panwauu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5mxcl/recommendation_for_internal_webshop/</guid>
       <pubDate>Sun, 03 Mar 2024 17:41:46 GMT</pubDate>
     </item>
@@ -29,7 +99,7 @@
     <item>
       <title>Chrome 浏览器内部 - 第 2 部分</title>
       <link>https://www.reddit.com/r/webdev/comments/1b5mjsw/inside_chrome_browser_part_2/</link>
-      <description><![CDATA[这是一个不错的博客，解释了当您进行导航时（基本上是在地址栏中输入一些文本时）浏览器内部会发生什么。  这是 Inside Chrome 浏览器系列的第 2 部分，因此它展示了当您开始进行任何导航时进程和线程如何进行通信。  如第 1 部分所述，选项卡之外的所有内容均由浏览器进程处理，因此它具有诸如 UI 线程之类的线程，用于处理绘制输入框和按钮，以及网络线程来处理网络堆栈并获取来自互联网的数据等等。  该博客展示了当您在地址栏中输入内容时，UI 线程如何首先检查它是否是要发送到搜索引擎的查询或您请求的网站的 URL。如果它是一个站点，它会启动一个网络线程并开始在站点图标的位置显示一个加载旋转器。  它展示了如果服务器响应标头为 301 的重定向请求，网络线程如何与 UI 线程通信，并发起新的 URL 请求。  博客还展示了一旦​​从服务器获得响应，网络就会检查它是需要渲染的 HTML 文件还是需要下载的 zip 文件（如果是，则需要将其下载）传递给下载管理器） 如果是 HTML 文件，网络线程会告诉 UI 线程，然后 UI 线程启动渲染器进程来负责渲染网页。  最后，它显示了当您现在尝试导航到不同的站点时会发生什么，以及在服务工作人员的情况下会发生什么。  这是一本很好的书。它是由 Mariko Kosaka 编写的。  https://developer.chrome.com/blog/inside-browser -part2   由   提交 /u/hsnice   [链接] [评论]]]></description>
+      <description><![CDATA[这是一个不错的博客，解释了当您进行导航时（基本上是在地址栏中输入一些文本时）浏览器内部会发生什么。  这是 Inside Chrome 浏览器系列的第 2 部分，因此它展示了当您开始进行任何导航时进程和线程如何进行通信。  如第 1 部分所述，选项卡之外的所有内容均由浏览器进程处理，因此它具有诸如 UI 线程之类的线程，用于处理绘制输入框和按钮，以及网络线程来处理网络堆栈并获取来自互联网的数据等等。  该博客展示了当您在地址栏中输入内容时，UI 线程如何首先检查它是否是要发送到搜索引擎的查询或您请求的网站的 URL。如果它是一个站点，它会启动一个网络线程并开始在站点图标的位置显示一个加载旋转器。  它展示了如果服务器响应标头为 301 的重定向请求，网络线程如何与 UI 线程通信，并发起新的 URL 请求。  博客还展示了一旦​​从服务器获得响应，网络就会检查它是需要渲染的 HTML 文件还是需要下载的 zip 文件（如果是，则需要将其下载）传递给下载管理器） 如果是 HTML 文件，网络线程会告诉 UI 线程，然后 UI 线程启动渲染器进程来负责渲染网页。  最后，它显示了当您现在尝试导航到不同的站点时会发生什么，以及在 Service Worker 的情况下会发生什么。  这是一本很好的书。它是由 Mariko Kosaka 编写的。  https://developer.chrome.com/blog/inside-browser -part2   由   提交 /u/hsnice   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5mjsw/inside_chrome_browser_part_2/</guid>
       <pubDate>Sun, 03 Mar 2024 17:25:55 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[   /u/djmalibiran  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5mi2w/which_gallery_lightbox_library_will_allow_me_to/</guid>
       <pubDate>Sun, 03 Mar 2024 17:23:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>CEO说“5年内将不存在程序员”完全是废话</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5me3y/the_ceo_who_said_programmers_will_not_exist_in_5/</link>
-      <description><![CDATA[https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration/ 这家伙有夸大、谎言和操纵的历史来说服投资者 ​ ​ ​ ;   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5me3y/the_ceo_who_said_programmers_will_not_exist_in_5/</guid>
-      <pubDate>Sun, 03 Mar 2024 17:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>几年后，我的简历重新焕然一新。添加专业总结？是/否</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5mcdq/dusting_off_my_resume_after_a_few_years_add_a/</link>
-      <description><![CDATA[我注意到很多简历模板和创建工具（例如resume.co）都包含一个空间。  我可以看到它们如何有助于阐明管理和辅助技能角色的优势，但是如何将其融入到 Web 开发等技术性更强的领域，或者为什么不使用它们呢？  欢迎主动提供建议或我应该询问的事情。谢谢。   由   提交/u/taruckus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5mcdq/dusting_off_my_resume_after_a_few_years_add_a/</guid>
-      <pubDate>Sun, 03 Mar 2024 17:17:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使纵横比由元素的高度而不是宽度定义？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5m0yu/how_to_make_aspectratio_defined_by_the_height_and/</link>
-      <description><![CDATA[      您好.. 我不确定我的问题是否有意义但这是我想要实现的目标： 具有固定高度 我有一个包含 2 列的网格模板。右侧的列定义了行及其内容的高度。 我希望左侧的内容是方形的。在给定的固定高度下，可以轻松使用 aspect-ratio: 1; （参见 Code pen ）。 但是当高度未知时，它不起作用...该元素确实是方形的，但该元素现在正在驱动高度，扰乱布局： https://preview.redd.it/28r39x97h5mc1.png?width=1142&amp; format=png&amp;auto=webp&amp;s=94da6e929a46a2d8906d69ceb55af23a0106dd3b 这就像宽高比使用元素的宽度来定义高度..虽然我想要它的高度定义了它的宽度.. 我尝试用 max-height、max-width 等限制高度，但我找不到一个可行的解决方案。 这是一支带有这些示例的笔：https://codepen.io/Sanjibukai/pen /poBvQqg 有人知道我怎样才能实现我想要的吗？ 谢谢！  &amp; #32；由   提交/u/sanjibukai  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5m0yu/how_to_make_aspectratio_defined_by_the_height_and/</guid>
-      <pubDate>Sun, 03 Mar 2024 17:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>手动加载第三方脚本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5lu77/manually_loading_thirdparty_scripts/</link>
-      <description><![CDATA[我正在梳理这个代码库，发现了一种不熟悉的加载第三方脚本的方式，基本上它要做的就是记住所有需要的第三方 -派对网址和配置，然后通过在正文中附加脚本标签来逐一加载它们，等待当前脚本加载后再获取/执行下一个脚本。 这真的有必要吗？我不明白为什么他们不能将它们全部放置为带有 defer 属性的标记。假设这些脚本可以执行从 cookie 到添加聊天按钮等各种操作，我可以理解为什么您希望首先加载重要的脚本，但又不会在一定程度上推迟执行此操作？   由   提交 /u/ImprovementReady4791   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5lu77/manually_loading_thirdparty_scripts/</guid>
-      <pubDate>Sun, 03 Mar 2024 16:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>10000+ shadcn/ui 主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5l81p/10000_themes_for_shadcnui/</link>
-      <description><![CDATA[我为 shadcn/ui 构建了一个包含超过 10000 个主题的工具。 您可以探索所有现有主题或创建您的主题拥有并与社区分享。 在这里查看：https://ui.jln.dev/ 让我知道你的想法 🙌   由   提交/u/JLN13X   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5l81p/10000_themes_for_shadcnui/</guid>
-      <pubDate>Sun, 03 Mar 2024 16:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为超出其能力范围的心理健康非营利组织提供建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5khsa/advice_for_a_mental_health_nonprofit_who_are_out/</link>
-      <description><![CDATA[几年前，我们创办了一个小型非营利组织，并在当时的 stackbit（现在的 netlify create）上为其创建了一个网站。我们当时的团队成员之前创建过 WordPress 网站，并希望尝试 jamstack 方法。然而三年后，它需要大量更新。这超出了我们当前团队的能力范围，虽然我们已经查找了要求并尝试自己解决，但我们还没有走得太远。然后，我们尝试雇用人员来完成这项工作（通过自由职业者平台），但后来几次招聘失败了（他们查看了代码，然后退出了），没有人愿意或能够以我们能负担得起的价格完成这项工作。  我想澄清这是我们的错。我们应该尽早寻求建议并选择一个允许我们自己维护网站的平台（在我们的预算允许的范围内）或寻求额外的资金。然而，我们没有，现在也没有，现在正在寻求充分利用这种情况。我们现在在想，如果找不到人为我们更新或自己更新，我们将不得不考虑在新平台上复制该网站。我们可以申请额外的资金，但这速度较慢，而且远不受我们的控制。我们知道复制该网站本身会带来挑战，但目前这似乎是最好的选择。  我想知道这里是否有人对我们应该如何进步提出建议，如果我们要复制该网站，什么平台可以避免我们将来再次遇到同样的问题？我们最初被 jamstack 说服是因为静态站点的安全优势以及与 squarespace 相比的低成本。这并没有真正改变，但我们目前的方法也没有真正发挥作用。  任何建议表示赞赏 编辑：回复现已删除的帖子，说我没有提供足够的信息。 我只是想说抱歉，这不是故意的，我只是对网络开发了解不够，无法提供更多细节。我什至不知道问题是什么超出了我在这里解释的范围。这是一个已经三年没有更新的nextjs网站了。 Netlify 收购了 stackbit，自收购以来，netlify 的更新意味着他们的编辑器不再适用于我们的代码库。我们仅通过 stackbit 更新过该网站。我们必须尝试遵循文档，但它也可能是另一种语言的。我们也尝试聘用说过同样话的人。因此，我想知道是否要在潜在的失败原因上投入更多时间，或者是否有人对新手可以维护的平台有替代建议，该平台是安全的，并且理想情况下成本较低。  就需求而言，我们基本上只是与观众进行沟通，更新良好实践的信息，并推广我们的免费课程。我们还使用 netlify 表格来注册我们的课程。除此之外，我认为我们不需要任何其他东西。    由   提交/u/newbydoob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5khsa/advice_for_a_mental_health_nonprofit_who_are_out/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACF 图标选择器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5kfmu/acf_icon_picker/</link>
-      <description><![CDATA[大家好，使用 ACF + Elementor Pro 构建一个房地产类型网站。我使用的主题附带一个自定义图标库（平面图标）。我希望客户端能够在后端选择自己的图标，然后将该图标显示在属性页的前端。我该如何使用 ACF pro &amp; 来做到这一点？元素？本质上，我希望他们从这些特殊图标的列表或库中进行选择，然后将他们选择的图标显示在前端。我知道如何使用文本、图像等来执行此操作，但只需要它也可以使用图标。谢谢    由   提交/u/Books_N_Coffee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5kfmu/acf_icon_picker/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:56:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何卸载全局npm包？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5kd3a/how_to_uninstall_a_global_npm_package/</link>
-      <description><![CDATA[不久前，我通过 npm install 安装了 Angular，只是为了遵循一个简短的教程。我不打算再使用它，所以今天我尝试从 AppData\Roaming\npm\node_modules 中卸载它。我在 Windows PC 上运行 Node 20.10，并使用 git-bash 作为终端。 如果我没记错的话，我输入了如下内容： npm uninstall @angular /cli -g  这似乎按我的预期工作。但是，每次我打开 bash 终端时，都会收到以下消息： bash: ng: command not find  我怀疑这个 ng  与 Angular 有关，不是吗？我想我没有正确卸载软件包。 我检查了 Path 环境变量，但找不到任何与 Angular 相关的内容。 我应该如何继续？谢谢！   由   提交 /u/djimenezc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5kd3a/how_to_uninstall_a_global_npm_package/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 gRPC 不适合外部 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5k000/why_would_grpc_not_be_a_good_fit_for_external_apis/</link>
-      <description><![CDATA[为什么 gRPC 不适合外部 API？    ;由   提交/u/The-Malix  /u/The-Malix  reddit.com/r/webdev/comments/1b5k000/why_would_grpc_not_be_a_good_fit_for_external_apis/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5k000/why_would_grpc_not_be_a_good_fit_for_external_apis/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发生了什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5jcy1/what_did_just_happen/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/Ok_Detail_1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5jcy1/what_did_just_happen/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:09:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

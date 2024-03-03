@@ -4,7 +4,50 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 03 Mar 2024 18:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 21:12:06 GMT</lastBuildDate>
+    <item>
+      <title>不要相信自己会做出正确的选择</title>
+      <link>https://feed.indiehackers.world/post/456ea10125</link>
+      <description><![CDATA[- 调查我们环境中的微小变化或“推动”如何影响我们的生活。可以带来更好的决策。
+
+&lt;小时/&gt;
+这篇文章是 IH 系列提示的一部分。
+订阅下方内容，加入 500 多名雄心勃勃、有思想的人士的行列他们每周都会收到新的见解和提示。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/456ea10125</guid>
+      <pubDate>Sun, 03 Mar 2024 20:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>着陆页专家：您将如何改进这些着陆页？ （烤）</title>
+      <link>https://feed.indiehackers.world/post/02a9eb443f</link>
+      <description><![CDATA[看到其他人在他们的登陆页面上获得了很好的反馈后，我想将我的反馈也加入进来。
+总的来说，我正在寻找您认为可以提高向下滚动率和整体转化率的任何反馈。我故意不去详细介绍我们是什么，因为如果着陆页做好了自己的工作，那么它们就应该做得足够好！
+这是我们的第一个：https://essembi.com/pages/agile-software
+这是我们在我们的空间中用来对抗 800 磅大猩猩的方法：https://essembi.com/pages/jira-alternative&lt; /a&gt;
+这是我们为初创公司/独立开发者提供的特价：https://essembi.com/pages/for-startups
+让我知道你的看法，IndieHackers 的营销奇才！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/02a9eb443f</guid>
+      <pubDate>Sun, 03 Mar 2024 19:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>隐藏电子邮件地址，防止垃圾邮件机器人发现</title>
+      <link>https://feed.indiehackers.world/post/7fb1541f2c</link>
+      <description><![CDATA[当我们在网站上发布电子邮件地址时，我们厌倦了收到 soam 电子邮件，因此我们创建了有趣的刮刮卡来显示您的电子邮件地址。
+Veilmail 确保您是一个真正的人，而不是那些烦人的垃圾邮件机器人之一。
+隐藏垃圾邮件机器人的电子邮件地址
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7fb1541f2c</guid>
+      <pubDate>Sun, 03 Mar 2024 18:32:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>放下你该死的手机，再次提高工作效率！</title>
+      <link>https://feed.indiehackers.world/post/dbf9d1b887</link>
+      <description><![CDATA[本文最初发表于 Psych — 免费双- 每周简讯，快速了解心理偏见。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/dbf9d1b887</guid>
+      <pubDate>Sun, 03 Mar 2024 18:13:32 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 AWS S3 上免费托管网站（或 Vue / React 应用程序）+ 自定义域和免费 SSL</title>
       <link>https://feed.indiehackers.world/post/29c854037e</link>
@@ -43,7 +86,7 @@ Discord 独立黑客聊天广告这里]]></description>
 因此，我决定构建自己的！
 103seo - 是一款随时可用的 SEO 工具，过去几周我一直在使用它来进行关键字研究、估计网站和关键字流量、分析反向链接量、趋势等。
 欢迎任何反馈。 
-如果您有兴趣，也可以在这里留言 - 我将免费提供 5 美元的积分来测试它！
+如果您有兴趣，也可以在这里留言 - 我将免费赠送 5 美元的积分来测试它！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dade4f0770</guid>
       <pubDate>Sun, 03 Mar 2024 15:34:37 GMT</pubDate>
@@ -115,45 +158,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9635990c6a</guid>
       <pubDate>Sun, 03 Mar 2024 12:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro 入门主题</title>
-      <link>https://feed.indiehackers.world/post/02fb184e08</link>
-      <description><![CDATA[创建了一个使用我们的 fabform 表单后端服务的免费 astro 入门主题
-查看我们的astro 入门主题
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/02fb184e08</guid>
-      <pubDate>Sun, 03 Mar 2024 12:23:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关为单独的登陆页面创建子域的建议的帮助</title>
-      <link>https://feed.indiehackers.world/post/94c760636b</link>
-      <description><![CDATA[提前谢谢
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/94c760636b</guid>
-      <pubDate>Sun, 03 Mar 2024 12:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找技术联合创始人</title>
-      <link>https://feed.indiehackers.world/post/fc5ed641e9</link>
-      <description><![CDATA[嗨👋
-我一直在兼职开发一些产品 - nuw.io、caelusai.com 和seoguard.co（已出售）大约 7 个月了，同时领导 supersend.io 的增长工作。
-我本质上是一名构建者，但实际上正在寻找另一位构建者/黑客，这样我就可以更好地专注于增长并更快地生产 mvps/功能。
-寻找技术联合创始人，最好是在 NextJs、NodeJs 方面经验丰富的全栈开发人员。
-目标是开展一个项目，通过注册一些 mrr 来验证这个想法，如果成功则继续扩展，如果不成功则重新启动。
-如果您有兴趣，很高兴与您聊天
-https://cal.com/shivanshmehendiratta/backslope
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/fc5ed641e9</guid>
-      <pubDate>Sun, 03 Mar 2024 12:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对这个 Chrome 扩展程序太过分了 - Clipity</title>
-      <link>https://feed.indiehackers.world/post/6a6336b2c8</link>
-      <description><![CDATA[想尝试一下并留下反馈吗？ 立即安装 Clipity！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6a6336b2c8</guid>
-      <pubDate>Sun, 03 Mar 2024 10:01:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
