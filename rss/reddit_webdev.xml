@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 15:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 18:14:27 GMT</lastBuildDate>
+    <item>
+      <title>gitbrowser - 浏览/搜索终端内的存储库并发现新软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5n7hq/gitbrowser_browsesearch_repos_inside_your/</link>
+      <description><![CDATA[       由   提交 /u/rarecsan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5n7hq/gitbrowser_browsesearch_repos_inside_your/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>内部网上商店推荐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5mxcl/recommendation_for_internal_webshop/</link>
+      <description><![CDATA[您好，我正在寻找一个内部网上商店，供员工选择品牌服装。我不需要任何付款机制，因为我们在另一个程序中处理它。功能应该是浏览和选择我们可以为他们准备的商品。您推荐什么技术？我更喜欢开源和自托管的东西。因为它仅适用于内部，所以我也更喜欢免费。 LDAP 身份验证支持会很棒。以及营销团队的某种 cm/s。 （我尝试过谷歌搜索，但我发现的所有内容似乎都太过分了）   由   提交 /u/panwauu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5mxcl/recommendation_for_internal_webshop/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一个应用程序，用户可以在其中搜索 IG 标签并跟踪其日常活动。我被困在应用程序审核中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5mwmf/i_am_developing_an_app_in_which_users_can_search/</link>
+      <description><![CDATA[我的应用程序已准备好上线，但我卡在应用程序审核部分，在开发过程中我只考虑了 instagram_basic，除了business_management和pages_show_list是必须的。  但是当我获得这些权限时，每当我尝试从“最终用户”登录时帐户，它告诉我我还需要 Instagram 公共内容访问 (IPCA) 和页面阅读参与度。 ipca 搜索主题标签并读取参与度以获取连接的 ig 业务帐户。 因此，我也针对这些权限提交了应用程序审核，但多次被拒绝。请有人帮助我，告诉我这些权限的应用程序审核答案和屏幕录制中到底应该包含哪些内容 我将非常感激 &lt;!-- SC_ON - -&gt;  由   提交/u/dead_man_speaks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5mwmf/i_am_developing_an_app_in_which_users_can_search/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 浏览器内部 - 第 2 部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5mjsw/inside_chrome_browser_part_2/</link>
+      <description><![CDATA[这是一个不错的博客，解释了当您进行导航时（基本上是在地址栏中输入一些文本时）浏览器内部会发生什么。  这是 Inside Chrome 浏览器系列的第 2 部分，因此它展示了当您开始进行任何导航时进程和线程如何进行通信。  如第 1 部分所述，选项卡之外的所有内容均由浏览器进程处理，因此它具有诸如 UI 线程之类的线程，用于处理绘制输入框和按钮，以及网络线程来处理网络堆栈并获取来自互联网的数据等等。  该博客展示了当您在地址栏中输入内容时，UI 线程如何首先检查它是否是要发送到搜索引擎的查询或您请求的网站的 URL。如果它是一个站点，它会启动一个网络线程并开始在站点图标的位置显示一个加载旋转器。  它展示了如果服务器响应标头为 301 的重定向请求，网络线程如何与 UI 线程通信，并发起新的 URL 请求。  博客还展示了一旦​​从服务器获得响应，网络就会检查它是需要渲染的 HTML 文件还是需要下载的 zip 文件（如果是，则需要将其下载）传递给下载管理器） 如果是 HTML 文件，网络线程会告诉 UI 线程，然后 UI 线程启动渲染器进程来负责渲染网页。  最后，它显示了当您现在尝试导航到不同的站点时会发生什么，以及在服务工作人员的情况下会发生什么。  这是一本很好的书。它是由 Mariko Kosaka 编写的。  https://developer.chrome.com/blog/inside-browser -part2   由   提交 /u/hsnice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5mjsw/inside_chrome_browser_part_2/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个画廊灯箱库可以让我创建这样的东西？控制位置根据图像大小/方向进行调整。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5mi2w/which_gallery_lightbox_library_will_allow_me_to/</link>
+      <description><![CDATA[   /u/djmalibiran  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5mi2w/which_gallery_lightbox_library_will_allow_me_to/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:23:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>CEO说“5年内将不存在程序员”完全是废话</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5me3y/the_ceo_who_said_programmers_will_not_exist_in_5/</link>
+      <description><![CDATA[https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration/ 这家伙有夸大、谎言和操纵的历史来说服投资者 ​ ​ ​ ;   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5me3y/the_ceo_who_said_programmers_will_not_exist_in_5/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>几年后，我的简历重新焕然一新。添加专业总结？是/否</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5mcdq/dusting_off_my_resume_after_a_few_years_add_a/</link>
+      <description><![CDATA[我注意到很多简历模板和创建工具（例如resume.co）都包含一个空间。  我可以看到它们如何有助于阐明管理和辅助技能角色的优势，但是如何将其融入到 Web 开发等技术性更强的领域，或者为什么不使用它们呢？  欢迎主动提供建议或我应该询问的事情。谢谢。   由   提交/u/taruckus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5mcdq/dusting_off_my_resume_after_a_few_years_add_a/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使纵横比由元素的高度而不是宽度定义？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5m0yu/how_to_make_aspectratio_defined_by_the_height_and/</link>
+      <description><![CDATA[      您好.. 我不确定我的问题是否有意义但这是我想要实现的目标： 具有固定高度 我有一个包含 2 列的网格模板。右侧的列定义了行及其内容的高度。 我希望左侧的内容是方形的。在给定的固定高度下，可以轻松使用 aspect-ratio: 1; （参见 Code pen ）。 但是当高度未知时，它不起作用...该元素确实是方形的，但该元素现在正在驱动高度，扰乱布局： https://preview.redd.it/28r39x97h5mc1.png?width=1142&amp; format=png&amp;auto=webp&amp;s=94da6e929a46a2d8906d69ceb55af23a0106dd3b 这就像宽高比使用元素的宽度来定义高度..虽然我想要它的高度定义了它的宽度.. 我尝试用 max-height、max-width 等限制高度，但我找不到一个可行的解决方案。 这是一支带有这些示例的笔：https://codepen.io/Sanjibukai/pen /poBvQqg 有人知道我怎样才能实现我想要的吗？ 谢谢！  &amp; #32；由   提交/u/sanjibukai  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5m0yu/how_to_make_aspectratio_defined_by_the_height_and/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>手动加载第三方脚本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5lu77/manually_loading_thirdparty_scripts/</link>
+      <description><![CDATA[我正在梳理这个代码库，发现了一种不熟悉的加载第三方脚本的方式，基本上它要做的就是记住所有需要的第三方 -派对网址和配置，然后通过在正文中附加脚本标签来逐一加载它们，等待当前脚本加载后再获取/执行下一个脚本。 这真的有必要吗？我不明白为什么他们不能将它们全部放置为带有 defer 属性的标记。假设这些脚本可以执行从 cookie 到添加聊天按钮等各种操作，我可以理解为什么您希望首先加载重要的脚本，但又不会在一定程度上推迟执行此操作？   由   提交 /u/ImprovementReady4791   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5lu77/manually_loading_thirdparty_scripts/</guid>
+      <pubDate>Sun, 03 Mar 2024 16:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>10000+ shadcn/ui 主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5l81p/10000_themes_for_shadcnui/</link>
+      <description><![CDATA[我为 shadcn/ui 构建了一个包含超过 10000 个主题的工具。 您可以探索所有现有主题或创建您的主题拥有并与社区分享。 在这里查看：https://ui.jln.dev/ 让我知道你的想法 🙌   由   提交/u/JLN13X   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5l81p/10000_themes_for_shadcnui/</guid>
+      <pubDate>Sun, 03 Mar 2024 16:30:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>为超出其能力范围的心理健康非营利组织提供建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5khsa/advice_for_a_mental_health_nonprofit_who_are_out/</link>
+      <description><![CDATA[几年前，我们创办了一个小型非营利组织，并在当时的 stackbit（现在的 netlify create）上为其创建了一个网站。我们当时的团队成员之前创建过 WordPress 网站，并希望尝试 jamstack 方法。然而三年后，它需要大量更新。这超出了我们当前团队的能力范围，虽然我们已经查找了要求并尝试自己解决，但我们还没有走得太远。然后，我们尝试雇用人员来完成这项工作（通过自由职业者平台），但后来几次招聘失败了（他们查看了代码，然后退出了），没有人愿意或能够以我们能负担得起的价格完成这项工作。  我想澄清这是我们的错。我们应该尽早寻求建议并选择一个允许我们自己维护网站的平台（在我们的预算允许的范围内）或寻求额外的资金。然而，我们没有，现在也没有，现在正在寻求充分利用这种情况。我们现在在想，如果找不到人为我们更新或自己更新，我们将不得不考虑在新平台上复制该网站。我们可以申请额外的资金，但这速度较慢，而且远不受我们的控制。我们知道复制该网站本身会带来挑战，但目前这似乎是最好的选择。  我想知道这里是否有人对我们应该如何进步提出建议，如果我们要复制该网站，什么平台可以避免我们将来再次遇到同样的问题？我们最初被 jamstack 说服是因为静态站点的安全优势以及与 squarespace 相比的低成本。这并没有真正改变，但我们目前的方法也没有真正发挥作用。  任何建议表示赞赏 编辑：回复现已删除的帖子，说我没有提供足够的信息。 我只是想说抱歉，这不是故意的，我只是对网络开发了解不够，无法提供更多细节。我什至不知道问题是什么超出了我在这里解释的范围。这是一个已经三年没有更新的nextjs网站了。 Netlify 收购了 stackbit，自收购以来，netlify 的更新意味着他们的编辑器不再适用于我们的代码库。我们仅通过 stackbit 更新过该网站。我们必须尝试遵循文档，但它也可能是另一种语言的。我们也尝试聘用说过同样话的人。因此，我想知道是否要在潜在的失败原因上投入更多时间，或者是否有人对新手可以维护的平台有替代建议，该平台是安全的，并且理想情况下成本较低。  就需求而言，我们基本上只是与观众进行沟通，更新良好实践的信息，并推广我们的免费课程。我们还使用 netlify 表格来注册我们的课程。除此之外，我认为我们不需要任何其他东西。    由   提交/u/newbydoob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5khsa/advice_for_a_mental_health_nonprofit_who_are_out/</guid>
+      <pubDate>Sun, 03 Mar 2024 15:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACF 图标选择器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5kfmu/acf_icon_picker/</link>
+      <description><![CDATA[大家好，使用 ACF + Elementor Pro 构建一个房地产类型网站。我使用的主题附带一个自定义图标库（平面图标）。我希望客户端能够在后端选择自己的图标，然后将该图标显示在属性页的前端。我该如何使用 ACF pro &amp; 来做到这一点？元素？本质上，我希望他们从这些特殊图标的列表或库中进行选择，然后将他们选择的图标显示在前端。我知道如何使用文本、图像等来执行此操作，但只需要它也可以使用图标。谢谢    由   提交/u/Books_N_Coffee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5kfmu/acf_icon_picker/</guid>
+      <pubDate>Sun, 03 Mar 2024 15:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何卸载全局npm包？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5kd3a/how_to_uninstall_a_global_npm_package/</link>
+      <description><![CDATA[不久前，我通过 npm install 安装了 Angular，只是为了遵循一个简短的教程。我不打算再使用它，所以今天我尝试从 AppData\Roaming\npm\node_modules 中卸载它。我在 Windows PC 上运行 Node 20.10，并使用 git-bash 作为终端。 如果我没记错的话，我输入了如下内容： npm uninstall @angular /cli -g  这似乎按我的预期工作。但是，每次我打开 bash 终端时，都会收到以下消息： bash: ng: command not find  我怀疑这个 ng  与 Angular 有关，不是吗？我想我没有正确卸载软件包。 我检查了 Path 环境变量，但找不到任何与 Angular 相关的内容。 我应该如何继续？谢谢！   由   提交 /u/djimenezc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5kd3a/how_to_uninstall_a_global_npm_package/</guid>
+      <pubDate>Sun, 03 Mar 2024 15:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 gRPC 不适合外部 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5k000/why_would_grpc_not_be_a_good_fit_for_external_apis/</link>
+      <description><![CDATA[为什么 gRPC 不适合外部 API？    ;由   提交/u/The-Malix  /u/The-Malix  reddit.com/r/webdev/comments/1b5k000/why_would_grpc_not_be_a_good_fit_for_external_apis/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5k000/why_would_grpc_not_be_a_good_fit_for_external_apis/</guid>
+      <pubDate>Sun, 03 Mar 2024 15:37:43 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚发生了什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b5jcy1/what_did_just_happen/</link>
       <description><![CDATA[     &lt; td&gt; 由   提交/u/Ok_Detail_1   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5jcy1/what_did_just_happen/</guid>
       <pubDate>Sun, 03 Mar 2024 15:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>架构师使用什么解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5j906/what_solutions_architect_use/</link>
-      <description><![CDATA[如果建筑师想要拥有一个包含项目的网站，他们通常会使用什么？  他们使用 squarespace 吗？  他们是定制的吗？  有没有专注于建筑师的 CSM？ 您的经验是什么？   由   提交 /u/CatolicQuotes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5j906/what_solutions_architect_use/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>成本/如何创建从其他房地产网站提取和聚合特定房产列表的房地产网站？ （英国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5icmj/costhow_to_create_real_estate_site_that_pulls_and/</link>
-      <description><![CDATA[大家好，  我正在尝试计算创建一个从中提取列表的房地产网站需要多少费用其他房地产网站？  我想聚合来自其他房地产网站的具有特定特征和关键字的特定列表，以便用户可以使用我的网站进行“一站式服务”。对于特定类型的房地产，我还希望该网站也允许经过验证的代理直接上传其房产 我知道我可以在 WordPress 中创建一个房地产网站，但不确定如何抓取其他网站并拉取合适的列表会起作用，任何建议将不胜感激:)   由   提交/u/Mr_Bitey-Bat   /u/Mr_Bitey-Bat reddit.com/r/webdev/comments/1b5icmj/costhow_to_create_real_estate_site_that_pulls_and/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5icmj/costhow_to_create_real_estate_site_that_pulls_and/</guid>
-      <pubDate>Sun, 03 Mar 2024 14:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我的设计很糟糕，还值得尝试成为一名 Web 开发人员吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5hjwx/is_it_even_worth_trying_to_be_a_web_developer_if/</link>
-      <description><![CDATA[我大学毕业已经快两年了，甚至还没有接受过一次面对面的面试。我的领域没有太多后端工作，所有入门级职位似乎都是前端或全栈，回想起来，我的大学课程是一个笑话，而且浪费金钱（不知何故，我是班上的尖子生）。  但是，我不擅长设计网站。我花了几个月的时间建立一个网站，结果却因为它们看起来多么糟糕而在这里和其他地方被撕裂。那么它是否值得继续，因为设计似乎是一个如此重要的角色。如果他们不得不雇用第二个人来设计初始网站，我怀疑有人会愿意雇用我。   由   提交 /u/hectoByte   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5hjwx/is_it_even_worth_trying_to_be_a_web_developer_if/</guid>
-      <pubDate>Sun, 03 Mar 2024 13:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以帮我让灰色边框一直到顶部吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5h8c2/can_someone_help_me_make_the_gray_border_go_all/</link>
-      <description><![CDATA[   /u/1cubealot  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5h8c2/can_someone_help_me_make_the_gray_border_go_all/</guid>
-      <pubDate>Sun, 03 Mar 2024 13:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>在同一网站下构建和提供使用不同技术构建的页面的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5h010/what_is_the_best_way_to_structure_and_serve_pages/</link>
-      <description><![CDATA[多年来我一直在使用许多不同的技术，我认为尝试在同一屋檐下发布这些网络应用程序会很有趣。这个想法是有一个主页，只列出所有应用程序的链接（比方说experiments.com），然后是不同路径下的不同应用程序（experiments.com/vue 有一个 vue 应用程序，experiments.com/elixir 有一个 elixir应用程序等）。 这个想法是存在的，但我真的不知道应该如何整体解决这个问题；无论是在项目结构（其中包含不同应用程序的 monorepo 或完全独立的存储库）和托管方面。我也不确定通过 URL 路径进行路由是否是一个好主意。 解决此问题的明智解决方案是什么？我想让它尽可能简单   由   提交/u/Hrafnstrom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5h010/what_is_the_best_way_to_structure_and_serve_pages/</guid>
-      <pubDate>Sun, 03 Mar 2024 13:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何主持我的第一个大项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5gsfq/how_should_i_host_my_first_big_project/</link>
-      <description><![CDATA[嗨，我是一名 IT 学生，我最近完成了我的第一个大型作品集项目 - MERN stack Web 应用程序（一个电影网站，您可以在其中浏览电影并选择座位购买门票）。我想将其部署到云端，以便我可以在简历中添加指向它的链接。我对设置前端没有问题（目前在渲染com上），但节点表达后端是一个更大的问题 - 渲染上的免费层或其他站点在空闲时旋转（不是一个选项）。所以我决定将它托管在一个免费的AWS ec2实例上，但是https配置让我很头疼（我需要自己的域名来加密证书） - 所以最后我似乎有2个选择 - 要么购买我自己的域名每年大约 10 美元的名称，或者在网站上支付大约 5 美元的业余爱好等级，例如铁路。 域名会很好，因为实际网站也可以有我的自定义域名，但它有点贵，而且迫使我使用像 AWS 这样更难的东西（这并不完全是一件坏事）。像铁路这样的网站上的廉价爱好层将使我能够轻松地托管这个和未来的应用程序。  我愿意支付少量费用以使我的网站正常运行，我只是需要一些帮助来决定选择什么。 &lt;!-- SC_ON - -&gt;  由   提交 /u/mbrr2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5gsfq/how_should_i_host_my_first_big_project/</guid>
-      <pubDate>Sun, 03 Mar 2024 13:08:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户选择使用 webflow，并希望使用 GoHighLevel 作为 CRM。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5gp4p/client_set_on_me_using_webflow_and_also_wants_to/</link>
-      <description><![CDATA[有人有在 webflow 中将表单提交定向到 Go High Level 的经验吗？   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5gp4p/client_set_on_me_using_webflow_and_also_wants_to/</guid>
-      <pubDate>Sun, 03 Mar 2024 13:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于电子商务和 POS 的 Shopify Retail 的最佳预算替代方案？ （Shopify Hydrogen、MedusaJS、其他！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5ftjx/best_budget_alternative_for_shopify_retail_for/</link>
-      <description><![CDATA[我是一名用户体验设计师，我正在与某人合作开设巧克力店和网上商店。  我们正在寻找一种“一体化”的解决方案。解决方案使我们的库存和库存在商店和网上商店之间同步。我们发现 Shopify Retail 计划最适合我们的用例。 —问题是 Shopify 的生态系统随着每项功能的添加而变得昂贵。例如，我们想按重量销售，为此，有一个 Shopify 应用程序，每月 25 美元！  —第二个问题是我们需要使用 GSAP 或其他动画库，但我不知道哪个更兼容。 —我们希望推出一些预算友好的东西-来源，因为我们只有原型。在哪里寻找值得信赖的专业人士（最好是具有 GDPR 经验的人） 任何帮助将不胜感激。 ​   由   提交 /u/mdaname   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5ftjx/best_budget_alternative_for_shopify_retail_for/</guid>
-      <pubDate>Sun, 03 Mar 2024 12:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目允许的最佳管理模板（包括付费选项）是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5ffbk/what_is_the_best_admin_template_includes_paid/</link>
-      <description><![CDATA[我一直在寻找一个好的管理模板来使用我的开源项目，但没有任何好看的选择。我检查了许多高级主题，但所有主题都不允许用于开源。只有一个 AdminLTE 主题对所有内容都是免费的，而且它不是一个好看的主题。   由   提交 /u/nothingen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5ffbk/what_is_the_best_admin_template_includes_paid/</guid>
-      <pubDate>Sun, 03 Mar 2024 11:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于具有金融服务经验的前端 Web 开发人员 - 这意味着什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5fc0c/for_frontend_web_devs_with_financial_services/</link>
-      <description><![CDATA[至少在英国，有大量的合同（特别是）前端角色，其工资非常高，这要求您必须有在金融领域工作的经验。这到底是什么意思呢？您认为您可能拥有哪些其他开发人员可能没有的？作为一个从事前端开发多年的人，它总是让我着迷，我一直想知道为什么我不能申请这些工作。  谢谢   由   提交/u/remote_hinge  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5fc0c/for_frontend_web_devs_with_financial_services/</guid>
-      <pubDate>Sun, 03 Mar 2024 11:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>各位，有什么工具可以帮助我调整颜色吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5f1au/guys_is_there_a_tool_that_can_help_me_with_colors/</link>
-      <description><![CDATA[我在 css 中使用 tailwind，但我觉得最难的部分是选择颜色背景、主色、cta 颜色应该是什么;_;  我对此很不擅长，我知道实时颜色，但我不知道在哪里使用什么颜色..  &amp;# 32；由   提交 /u/whyiam_alive   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5f1au/guys_is_there_a_tool_that_can_help_me_with_colors/</guid>
-      <pubDate>Sun, 03 Mar 2024 11:27:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>全栈开发 - 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5ef5f/full_stack_development_question/</link>
-      <description><![CDATA[我正在为学生大学考试制作一个“题库”风格的网站。这将是多项选择，并提供有关答案、自定义测验等的反馈。 我一直在网上寻找自由开发人员，并且看到了一位拥有出色作品集的开发人员，并且我们就以下问题举行了几次会议在该项目中，他提议： “对于这个网站的开发，我们建议使用 React 和 Node.js 作为主要技术。身份验证将通过 Firebase 实施。为了继续，我们需要有关设计的更多细节。考虑到该框架，我们建议使用 Tailwind 或 Material-UI 来提高效率。设计阶段将在 Figma 中开始，然后是开发阶段，预计需要大约 3-4 周的时间。而figma的设计也至少需要两周时间。总共时间为 6-7 周” 对于持续的支持，他说： “我通常每月收取 250-400 美元之间的费用，每个月大约 3000 到 4500 美元年。这包括维护站点的健康状况并修复维护和更新期间可能出现的任何小问题。如果要添加新的特性/功能，则算作一个新项目。” 我的问题： 1）我对所有这些和做的事情都很陌生对此的研究一直相当混乱。他提出的建议对于这个项目来说合理吗？他提出的技术有什么我应该询问的吗？我的主要想法是，如果成功的话，一旦完成就能够扩展它，并且如果将来需要的话，也能够传递给其他开发人员进行工作。 2）我们已经就这个集合达成了一致。增加了成本，但这个支持报价比我预期或想象的要多得多 - 这是一个小型副项目，所以这是一笔相当大的投资。这是通常的支持金额吗/我还应该询问其他问题吗？ ​ 提前谢谢您   由   提交 /u/t2diabeetus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5ef5f/full_stack_development_question/</guid>
-      <pubDate>Sun, 03 Mar 2024 10:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>SPA 中的电子邮件验证路由</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5dyoj/email_verification_route_in_spa/</link>
-      <description><![CDATA[我目前正在为一个业余爱好应用程序在注册时实施电子邮件验证。它是一个简单的架构，由 React(Vite) SPA 和 Node-express 服务器组成。  我已经实现了一个流程，其中包括像“/verify”这样的身份验证路由。在后台。电子邮件中的链接包含编码的验证令牌作为该路由的查询参数。一切都已经正常了。 我现在的问题是这是否是良好的常见做法？我特别问自己，这种架构中的那些验证路由是否通常位于后端+重定向/“关闭窗口”？或者如果它应该在前端并且前端使用令牌向后端发出 http 请求？   由   提交/u/k4nmuru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5dyoj/email_verification_route_in_spa/</guid>
-      <pubDate>Sun, 03 Mar 2024 10:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>衡量 GitHub Copilot 对生产力的影响 – ACM 的沟通</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5dfsu/measuring_github_copilots_impact_on_productivity/</link>
-      <description><![CDATA[像 GitHub Copilot 这样的人工智能结对编程工具对开发人员的工作效率有着重大影响 (这是统计数据）。据报道，在编码时接收人工智能建议的好处涵盖了生产力的各个方面。与其他指标相比，所显示建议的接受率可以更好地预测感知生产力。熟练程度和多年经验会影响开发人员使用 Copilot 的体验。录取率呈现出时间规律，周末和非工作时间的录取率较高。    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5dfsu/measuring_github_copilots_impact_on_productivity/</guid>
-      <pubDate>Sun, 03 Mar 2024 09:44:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

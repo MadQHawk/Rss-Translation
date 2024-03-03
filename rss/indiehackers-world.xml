@@ -4,7 +4,77 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 03 Mar 2024 15:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 18:14:54 GMT</lastBuildDate>
+    <item>
+      <title>如何在 AWS S3 上免费托管网站（或 Vue / React 应用程序）+ 自定义域和免费 SSL</title>
+      <link>https://feed.indiehackers.world/post/29c854037e</link>
+      <description><![CDATA[虽然我们的目标是展示经济高效的实践并利用免费套餐涵盖的服务，但超出使用限制或使用非免费套餐服务可能会导致标准 AWS 费用。请务必查看 AWS 免费套餐条款和条件并监控使用情况，以避免意外费用。
+有关资格详细信息以及有关 AWS 免费套餐的更多信息，请访问 https://aws.amazon.com/free/.
+#aws #s3 #websitehosting
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/29c854037e</guid>
+      <pubDate>Sun, 03 Mar 2024 18:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Gmail 中群发电子邮件</title>
+      <link>https://feed.indiehackers.world/post/549163e196</link>
+      <description><![CDATA[
+邮件合并附件 ：免费计划；每天发送 50 封电子邮件
+
+不幸的是，没有人可以免费做到这一点。只有其中之一允许您无需付费即可发送批量电子邮件。
+这就是完整的帖子！以下是原始博客文章的链接：如何在 Gmail 中发送群发电子邮件。您正在发送冷电子邮件吗？你做得怎么样？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/549163e196</guid>
+      <pubDate>Sun, 03 Mar 2024 17:08:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过几周的工作，我在 Product Hunt 上启动了我的业余项目</title>
+      <link>https://feed.indiehackers.world/post/9be19c0c1f</link>
+      <description><![CDATA[Figma 的 Roast 插件 - 识别设计问题并一键修复它们 ✨
+发现缺失的样式、错误库中不需要的样式或辅助功能问题。快速准备好文件以供开发人员移交或设计审核。保存多个库。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9be19c0c1f</guid>
+      <pubDate>Sun, 03 Mar 2024 15:37:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>103seo - 关键词研究工具</title>
+      <link>https://feed.indiehackers.world/post/dade4f0770</link>
+      <description><![CDATA[深入研究 SEO 后，我发现很难找到好的关键字研究工具：有些工具太贵，有些则缺乏必要的数据。
+因此，我决定构建自己的！
+103seo - 是一款随时可用的 SEO 工具，过去几周我一直在使用它来进行关键字研究、估计网站和关键字流量、分析反向链接量、趋势等。
+欢迎任何反馈。 
+如果您有兴趣，也可以在这里留言 - 我将免费提供 5 美元的积分来测试它！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/dade4f0770</guid>
+      <pubDate>Sun, 03 Mar 2024 15:34:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现设计问题并一键解决它们！</title>
+      <link>https://feed.indiehackers.world/post/5dcd69d696</link>
+      <description><![CDATA[Figma 的 Roast 插件 ✨
+发现缺失的样式、错误库中不需要的样式或辅助功能问题。快速准备好文件以供开发人员移交或设计审核。保存多个库。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5dcd69d696</guid>
+      <pubDate>Sun, 03 Mar 2024 15:34:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 的 Roast 插件现已上线 Product Hunt ✨</title>
+      <link>https://feed.indiehackers.world/post/5fab79534a</link>
+      <description><![CDATA[Figma 的 Roast 插件 - 识别设计问题并一键修复它们 ✨
+发现缺失的样式、错误库中不需要的样式或辅助功能问题。快速准备好文件以供开发人员移交或设计审核。保存多个库。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5fab79534a</guid>
+      <pubDate>Sun, 03 Mar 2024 15:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Product Hunt 上启动了我的副业项目</title>
+      <link>https://feed.indiehackers.world/post/aa536989d6</link>
+      <description><![CDATA[Figma 的 Roast 插件 - 识别设计问题并一键修复它们 ✨
+发现缺失的样式、错误库中不需要的样式或辅助功能问题。快速准备好文件以供开发人员移交或设计审核。保存多个库。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/aa536989d6</guid>
+      <pubDate>Sun, 03 Mar 2024 15:26:05 GMT</pubDate>
+    </item>
     <item>
       <title>🌟 召集所有科技小牛！</title>
       <link>https://feed.indiehackers.world/post/79680de1e7</link>
@@ -84,74 +154,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6a6336b2c8</guid>
       <pubDate>Sun, 03 Mar 2024 10:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在直播上构建新的 SaaS 产品！</title>
-      <link>https://feed.indiehackers.world/post/a19e41e66d</link>
-      <description><![CDATA[嘿独立黑客，
-我很快就要构建一个新的 SaaS 产品，因此我决定在流上实时构建它。
-我应该在哪个直播平台上直播？ 
-此外，构建此 SaaS 的哪一部分会让您有兴趣加入该直播？
-应该更多地制定战略、营销、设计还是开发？ 
-期待听到您的想法吗？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a19e41e66d</guid>
-      <pubDate>Sun, 03 Mar 2024 08:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify 应用中用于计费管理的 SaaS</title>
-      <link>https://feed.indiehackers.world/post/8aae99f557</link>
-      <description><![CDATA[嘿各位独立黑客！ 👋
-我们开发了一款 Shopify 应用，该应用吸引了数百名付费客户。然而，我们遇到了一些挑战。 Shopify 缺乏一个全面的仪表板来跟踪 MRR（每月经常性收入）、ARR（年度经常性收入）、流失率等重要指标。结果，我发现自己手动处理数字，这占用了我很大一部分时间。
-你们中有人知道专门为像我这样的应用程序管理计费相关信息的 SaaS 解决方案吗？我正在寻找一种可以简化这些流程的工具，让我能够更加专注于发展我的业务。任何建议将不胜感激！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8aae99f557</guid>
-      <pubDate>Sun, 03 Mar 2024 05:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建一个利用 ChatGPT 的微型 Saas</title>
-      <link>https://feed.indiehackers.world/post/2dd15f9600</link>
-      <description><![CDATA[你猜怎么着？那里就像是联合国会议！借助 ConveyThis WordPress 插件，我添加了 108 种语言，现在我的粉丝从墨西哥到印度尼西亚。目前的MRR？ 1,500 美元，虽然不起眼，但是，罗马不是一天建成的。
-所以，伙计们，把它放在我身上吧！炒作我的 SaaS，洒下一些智慧，或者分享虚拟的高五。您一直是 Gglot 的王牌，我洗耳恭听您对 TextFlip.ai 的想法！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2dd15f9600</guid>
-      <pubDate>Sun, 03 Mar 2024 04:43:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建一个利用 ChatGPT 的微型 Saas</title>
-      <link>https://feed.indiehackers.world/post/7004c0f965</link>
-      <description><![CDATA[你猜怎么着？那里就像是联合国会议！借助 ConveyThis WordPress 插件，我添加了 108 种语言，现在我的粉丝从墨西哥到印度尼西亚。目前的MRR？ 1,500 美元，虽然不起眼，但是，罗马不是一天建成的。
-所以，伙计们，把它放在我身上吧！炒作我的 SaaS，洒下一些智慧，或者分享虚拟的高五。您一直是 Gglot 的王牌，我洗耳恭听您对 TextFlip.ai 的想法！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7004c0f965</guid>
-      <pubDate>Sun, 03 Mar 2024 04:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建一个利用 ChatGPT 的微型 Saas</title>
-      <link>https://feed.indiehackers.world/post/2fa3d59caf</link>
-      <description><![CDATA[你猜怎么着？那里就像是联合国会议！借助 ConveyThis WordPress 插件，我添加了 108 种语言，现在我的粉丝从墨西哥到印度尼西亚。目前的MRR？ 1,500 美元，虽然不起眼，但是，罗马不是一天建成的。
-所以，伙计们，把它放在我身上吧！炒作我的 SaaS，洒下一些智慧，或者分享虚拟的高五。您一直是 Gglot 的王牌，我洗耳恭听您对 TextFlip.ai 的想法！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2fa3d59caf</guid>
-      <pubDate>Sun, 03 Mar 2024 04:39:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建一个利用 ChatGPT 的微型 Saas</title>
-      <link>https://feed.indiehackers.world/post/501f8fbf87</link>
-      <description><![CDATA[你猜怎么着？那里就像是联合国会议！借助 ConveyThis WordPress 插件，我添加了 108 种语言，现在我的粉丝从墨西哥到印度尼西亚。目前的MRR？ 1,500 美元，虽然不起眼，但是，罗马不是一天建成的。
-所以，伙计们，把它放在我身上吧！炒作我的 SaaS，洒下一些智慧，或者分享虚拟的高五。您一直是 Gglot 的王牌，我洗耳恭听您对 TextFlip.ai 的想法！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/501f8fbf87</guid>
-      <pubDate>Sun, 03 Mar 2024 04:39:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建一个利用 ChatGPT 的微型 Saas</title>
-      <link>https://feed.indiehackers.world/post/3e49f24e66</link>
-      <description><![CDATA[你猜怎么着？那里就像是联合国会议！借助 ConveyThis WordPress 插件，我添加了 108 种语言，现在我的粉丝从墨西哥到印度尼西亚。目前的MRR？ 1,500 美元，虽然不起眼，但是，罗马不是一天建成的。
-所以，伙计们，把它放在我身上吧！炒作我的 SaaS，洒下一些智慧，或者分享虚拟的高五。您一直是 Gglot 的王牌，我洗耳恭听您对 TextFlip.ai 的想法！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3e49f24e66</guid>
-      <pubDate>Sun, 03 Mar 2024 04:37:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

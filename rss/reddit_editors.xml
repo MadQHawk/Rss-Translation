@@ -4,11 +4,18 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 03 Mar 2024 15:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 18:14:02 GMT</lastBuildDate>
+    <item>
+      <title>如果您想要一些工作，哈基姆需要一名额外的编辑。</title>
+      <link>https://www.reddit.com/r/editors/comments/1b5m08n/if_you_want_some_work_hakim_needs_an_additional/</link>
+      <description><![CDATA[你不会被告知你得到了多少钱；这是你选择的一件事。他似乎想给编辑们公平且可观的金额，而且他没有非常频繁的上传时间表。编辑的标准不是很高，就和现在一样高。 请参阅此处了解更多详细信息：https://www.youtube.com/post/Ugkxlqy7n9-lYeefTNjuAW3PV1Rb3M\​​_\_qkat   由   提交/u/Power2ix  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b5m08n/if_you_want_some_work_hakim_needs_an_additional/</guid>
+      <pubDate>Sun, 03 Mar 2024 17:02:55 GMT</pubDate>
+    </item>
     <item>
       <title>搞笑且实际相关的编辑模因</title>
       <link>https://www.reddit.com/r/editors/comments/1b59o1p/hilarious_and_actually_relatable_editor_memes/</link>
-      <description><![CDATA[https: //blog.motionvfx.com/10-epic-memes-about-video-editing/ 非常有趣的网站，我最喜欢的是修订版   &amp; #32；由   提交/u/Imminent_Tuber   [链接] [评论]]]></description>
+      <description><![CDATA[https: //blog.motionvfx.com/10-epic-memes-about-video-editing/ 非常有趣的网站，我最喜欢的是修订版   &amp; #32；由   提交/u/Imminent_Tuber  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b59o1p/hilarious_and_actually_relatable_editor_memes/</guid>
       <pubDate>Sun, 03 Mar 2024 05:43:57 GMT</pubDate>
     </item>
@@ -22,14 +29,14 @@
     <item>
       <title>有什么电影剪辑技巧是你以前从未注意到，但现在一旦看到却无法忽视的？</title>
       <link>https://www.reddit.com/r/editors/comments/1b58595/whats_a_film_editing_technique_you_never_noticed/</link>
-      <description><![CDATA[我先启动它。我注意到有时节目需要来自从未拍摄过的演员的反应。 因此他们会拍摄一个剪辑，反转它，与插入内容进行插切，然后正常播放。 《熊》第一季中有一个片段，里奇向警察举报一些暴徒。 他们确实用了一个他看向别处的镜头，然后将其反转，这样看起来他正在转过头朝向相机。 效果非常好，除了你总能看出它何时反转，因为演员的眼睛跟随他们的头部运动，这表明它是不自然的。 现在我可以了。不相信有多少电影一直在使用这个！   由   提交 /u/carlostambien   [链接] [评论]]]></description>
+      <description><![CDATA[我先启动它。我注意到，有时节目需要来自从未拍摄过的演员的反应。 所以他们会拍摄一个剪辑，反转它，与插入内容进行插切，然后正常播放。 《熊》第一季中有一个片段，里奇向警察举报了一些暴徒。 他们确实使用了他看向别处的镜头，然后将其反转，这样看起来他正在转过头朝向摄像机。 它的效果非常好，除了你总能看出它何时反转，因为演员的眼睛跟随他们的头部运动，这表明它是不自然的。 现在我可以了。不相信有多少电影一直在使用这个！   由   提交 /u/carlostambien   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b58595/whats_a_film_editing_technique_you_never_noticed/</guid>
       <pubDate>Sun, 03 Mar 2024 04:20:12 GMT</pubDate>
     </item>
     <item>
       <title>在 Resolve 上使用代理播放时出现断断续续的情况，在 Premiere Pro 上使用代理时播放流畅吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1b53pnt/choppy_playback_with_proxies_on_resolve_smooth/</link>
-      <description><![CDATA[大家好，这里有问题。似乎无论我做什么，播放都会断断续续，并且在断断续续的播放中编辑运动镜头以寻找那些有趣的快速时刻非常困难。我在固态硬盘上创建了代理文件。它们的格式为 1080p .mov。我还尝试在 Davinci Resolve 中生成优化媒体。 这是我的 mac macOS Sonoma 14.2.1 芯片：Apple M2 Pro 核心总数：12（8 个性能和4 效率）内存：16 GB奇怪的是，即使没有代理，我也可以在 Premiere Pro 上流畅地播放素材，但在 Davinci 中，设置代理文件和四分之一分辨率播放仍然存在问题。还清除了缓存并按照该视频中的步骤进行操作。 https://youtu.be/j4yLY00BezY?si= CvI\_fALWRgypboVw 感谢任何帮助！   由   提交 /u/bemzilla   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，这里有问题。似乎无论我做什么，播放都会断断续续，并且在断断续续的播放中编辑运动镜头以寻找那些有趣的快速时刻非常困难。我在固态硬盘上创建了代理文件。它们的格式为 1080p .mov。我还尝试在 Davinci Resolve 中生成优化媒体。 这是我的 mac macOS Sonoma 14.2.1 芯片：Apple M2 Pro 核心总数：12（8 个性能和4 效率） 内存：16 GB 奇怪的是，我可以在 Premiere Pro 上流畅地播放素材，即使没有代理，但在 Davinci 中，设置代理文件和四分之一分辨率播放仍然存在问题。还清除了缓存并按照此视频中的步骤进行操作。 https://youtu.be/j4yLY00BezY?si= CvI\_fALWRgypboVw 感谢任何帮助！   由   提交 /u/bemzilla   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b53pnt/choppy_playback_with_proxies_on_resolve_smooth/</guid>
       <pubDate>Sun, 03 Mar 2024 00:39:05 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>2/23-3/1 周每周综述</title>
       <link>https://www.reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/</link>
-      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (267 🡅) 我的第一部故事片剪辑将是剧院 (218 🡅) 索拉 (199 🡅) 只需点击 30 秒编辑的版本 100 (193 🡅)&lt; /a&gt; 离开这个行业... (184 🡅)  评论最多的帖子  离开这个行业... (272 💬)  Adobe 的仇恨到底是怎么回事？ (235 💬) OpenAI 今天宣布推出 Sora，介绍他们的照片级真实感文本转视频产品 (229 💬) Sora ( 201 💬) 编辑们，您常见的错误有哪些你注意到业余电影剪辑了吗？ (183 💬)    由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (267 🡅) 我的第一部故事片剪辑将是剧院 (218 🡅) 索拉 (199 🡅) 只需点击 30 秒编辑的版本 100 (193 🡅)&lt; /a&gt; 离开这个行业... (184 🡅)  评论最多的帖子  离开这个行业... (272 💬)  Adobe 的仇恨到底是怎么回事？ (235 💬) OpenAI 今天宣布推出 Sora，介绍他们的照片级真实感文本转视频产品 (229 💬) Sora ( 201 💬) 编辑们，你们有哪些常见错误你注意到业余电影剪辑了吗？ (183 💬)    由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/</guid>
       <pubDate>Sat, 02 Mar 2024 14:00:17 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Sat, 02 Mar 2024 10:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>2 名编辑：Premiere 和 FCP 工作流程</title>
+      <title>2 名剪辑师：Premiere 和 FCP 工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1b4ke8f/2_editors_premiere_fcp_workflow/</link>
       <description><![CDATA[我很快就要导演一场现场音乐表演，计划在两名剪辑师之间编辑 5 个视频。原因是这样我可以教其他编辑如何做，并让他们有机会进行一些编辑和练习。 编辑预算由我自己（我使用 Premiere Pro）和另一个使用 Premiere Pro 的人分配。使用 FCP。两者都能进行编辑的最佳方式是什么？ 我们需要同步所有素材/音频，进行第一次剪辑、反馈、完善所有剪辑和颜色分级。其他人正在制作最终音频。 如果我们都使用 PP，我们只需来回发送项目和任何额外文件即可； PP 和 FCP 之间可能吗？或者，我们中的一个人将不得不使用他们不知道的程序。或者，我们中的一个人完成最初的几步，然后将其全部弹出，另一个人从那里继续。 还存在哪些其他可能性？您以前遇到过这种情况吗？我们都可以参与编辑的最佳方式是什么？他们可以在这个过程中从哪里学习？   由   提交 /u/rrossington   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4ke8f/2_editors_premiere_fcp_workflow/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！  我主要在家工作，我希望投资购买一台 NAS。  目前，我正在考虑配备 10Gbe 以太网适配器、16Tb Ironwolf 驱动器和 1 个 4TB 三星 NVME SSD 的 Synology DS1522+。  我使用 adobe 套件，当前正在进行的项目使用 4 摄像机 4K 多机位序列。 RAW 视频片段大约为 5Tb。 此设置足以顺利运行吗？ 我联系 Synology 确认这将顺利运行，他们给我发回了一个通用的回复说会，但我只是想绝对确定。  有人有这方面的经验吗？  我在网上阅读了很多信息和评论，但没有任何东西可以回答我的确切问题。感谢您的帮助。 :-)    由   提交/u/SagInTheBag  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b48lpo/nas_advice_4k_editing_synology/</guid>
       <pubDate>Fri, 01 Mar 2024 23:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于合并 Avid 项目的问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1b48e70/question_about_merging_avid_projects/</link>
-      <description><![CDATA[目前正在一家工厂与另一位编辑一起工作，该编辑一直在家里的个人硬盘上进行编辑。他们将在这个周末来到办公室，该机构希望我将我们的项目（我的项目目前在 SAN 上）和他的项目合并到我的项目中，这样我们就可以开始工作了。我以前从未这样做过 - avid 是否有特定的工作流程来合并两个项目？或者只记下其根目录中的任何不同 bin，然后手动创建它们并将其序列/剪辑移动到 SAN 上的项目中，这样可以吗？谢谢 Avid MC v2022.10   由   提交 /u/TerdFurgesson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b48e70/question_about_merging_avid_projects/</guid>
-      <pubDate>Fri, 01 Mar 2024 22:59:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
