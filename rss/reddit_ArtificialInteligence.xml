@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 09:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 12:19:24 GMT</lastBuildDate>
+    <item>
+      <title>AI 每周摘要（2 月 24 日至 3 月 2 日）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b5f2p8/ai_weekly_rundown_february_24_to_march_02/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b5f2p8/ai_weekly_rundown_february_24_to_march_02/</guid>
+      <pubDate>Sun, 03 Mar 2024 11:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>将长视频重新调整为短视频的工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b5ebo9/a_tool_to_repurpose_longform_videos_into/</link>
+      <description><![CDATA[我尝试了多种不同的工具，将长格式内容重新调整为短格式剪辑。以下是我认为实现此目的的最佳工具的快速概述 - Opus Clip（我不以任何方式隶属）。 视频提交流程 - 提交视频通过 YouTube、Google Drive、Zoom 和 Rumble 中的链接，或直接从您的设备以 MP4、MOV 和 WEBM 格式播放 - 视频最长可达 3 小时，大小可达 10GB 正在处理时间 - 处理时间可能会有所不同。例如，34 分钟的视频可能需要大约 15 分钟 - 视频准备好后您会收到一封电子邮件 用户界面和生成的剪辑 - 您的剪辑存储在仪表板中- 您获得的剪辑数量取决于视频的长度和内容。 34 分钟的辩论可能会给您 23 个剪辑，而 19 分钟的演讲可能会给您 8 个剪辑 剪辑分析和管理 - 对剪辑进行评分，例如它们的有趣程度以及它们的流动情况如何。您可以获得分数和一些反馈 - 通过仪表板，您可以将剪辑发布到社交媒体，以高清格式下载，并进行一些基本编辑，甚至无需付费 编辑功能 - 编辑区域可让您处理字幕和设计 - 您可以选择剪辑的开始和结束位置、编辑字幕以及更改设计 - 您可以分割剪辑、删除场景、更改布局以及跟踪发言者 其他功能 - 您可以添加 B-Roll 来使您的剪辑更好，但您不能对其进行太多更改 - 有一个功能可以在字幕中添加表情符号，但它可能会更好（即，添加更多表情符号） - 您可以获得一些预设的标题样式和添加徽标的选项 性能和限制 - 善于根据谁在说话以及如何说话来安排剪辑的布局他们互动 - 来自 YouTube 的剪辑和直接上传的剪辑之间的 FPS 存在差异 - 对其他语言的良好支持。我用捷克语的视频进行了尝试，效果很好，包括准确的字幕 还有其他我不知道的工具可以做得更好吗？   由   提交 /u/_realkitsune   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b5ebo9/a_tool_to_repurpose_longform_videos_into/</guid>
+      <pubDate>Sun, 03 Mar 2024 10:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 AI 修复简历的格式。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b5e5gz/fixing_the_formatting_of_a_cv_via_ai/</link>
+      <description><![CDATA[我正在更新我的简历，但遇到了一些问题。多年来我使用过不同的程序和格式（docx、odt 等）。现在，文本之间的距离在各处并不完全相同，并且一般格式也有点偏差。除此之外，还有一个问题是，每当我将文件转换为 PDF 时，某些文本/部分往往会跳转。我现在有很多不同版本的简历，但没有一个版本是 100% 正确的。是否有一个程序可以识别该文档是简历，并自动修复此问题？ 也许还可以立即给您一个完全相同的 pdf？ 所以基本上，您上传文档，程序识别出它是简历（或其他一些重要文档，然后给您一些建议，您按“是”，整个文档就被修复了。    提交者   /u/EmergencyWitness7   &lt; a href=&quot;https://www.reddit.com/r/ArtificialInteligence/comments/1b5e5gz/fixing_the_formatting_of_a_cv_via_ai/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b5e5gz/fixing_the_formatting_of_a_cv_via_ai/</guid>
+      <pubDate>Sun, 03 Mar 2024 10:30:25 GMT</pubDate>
+    </item>
     <item>
       <title>AI健康监测虾？ 🤔</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b5cm39/ai_health_monitoring_of_shrimps/</link>
@@ -41,13 +62,6 @@
       <pubDate>Sun, 03 Mar 2024 04:36:04 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 3/2/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b58fna/oneminute_daily_ai_news_322024/</link>
-      <description><![CDATA[ 这篇来自 Meta AI 的人工智能论文探讨了高级细化策略：揭示逐步基于结果和基于过程的奖励模型的力量。[1 ] AI 蠕虫通过支持 AI 的电子邮件客户端感染用户 — Morris II 生成型 AI 蠕虫在传播时窃取机密数据。[2] 韩国新型 AI 图像生成器速度提高了 8 倍比 OpenAI 最好的工具 - 并且可以在廉价计算机上运行。[3] 人工智能生成的色情内容，包括名人假裸体，在 Etsy 上持续存在，因为深度造假法律“落后”。[4]  来源： [1] https://www.marktechpost.com/2024/ 02/29/这篇人工智能论文来自元人工智能探索高级细化策略揭示逐步基于结果和基于过程的奖励模型的力量/?amp  [2] https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-worm-通过-ai-enabled-email-clients-morris-ii-generative-ai-worm-steals-confidential-data-as-it-spreads感染用户 [3] &lt; a href=&quot;https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool-and-can-在廉价计算机上运行&quot;&gt;https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool -and-can-run-on-cheap-computers [4] https://www.foxnews.com/politics/ai- generated-porn-include-celebrity-fakes-persist-etsy-deepfake- law-lag-behind.amp   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b58fna/oneminute_daily_ai_news_322024/</guid>
-      <pubDate>Sun, 03 Mar 2024 04:35:35 GMT</pubDate>
-    </item>
-    <item>
       <title>Lightricks 推出 LTX Studio</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b56dgm/lightricks_introduces_ltx_studio/</link>
       <description><![CDATA[我通过 Twitter 发现的很酷的版本。他们在这里演示了：https://twitter.com/LTXStudio/status/1762907239424090536  它很高兴看到sora将会有一些竞争。 LTX 的一些例子非常好。您认为这将如何影响艺术家和摄像师的发展？   由   提交/u/Dannyc2021   [链接] [评论]]]></description>
@@ -60,20 +74,6 @@
       <description><![CDATA[诉讼的下一阶段涉及发现。考虑到本案的背景，这可能意味着公众压力可能会迫使 openai 发布他们的开源开发模型。由于我不是律师，也无法联系律师，因此我决定请 Gemini Advanced 参与讨论。 这是我问的问题： “给出在本案中，马斯克声称 OpenAI 从一个旨在为公众利益服务的非营利性透明组织转变为一个与世界上最强大的公司结盟的营利性秘密组织，这难道不是一个很好的论点吗？向公众发布发现信息” 双子座高级： “你说得完全正确。在这一具体诉讼的背景下，有充分的理由要求向公众发布至少部分发现信息。原因如下：  透明度和公众信任：由于马斯克的诉讼围绕着 OpenAI 所谓的偏离透明度和公共利益的方向展开，因此发布相关的发现信息可以帮助他们承担责任，建立公众信任。  公共利益：先进人工智能的发展对社会具有重大影响。 OpenAI 研究的透明度以及与 Microsoft 的潜在联系将是公众的主要利益。 潜在的偏见：公众访问可能有助于揭露 OpenAI 研究方向因其财务原因而存在的任何潜在偏见。与微软的关系。   总体而言，马斯克关于 OpenAI 透明度和目的的主张可能会成为至少发布一些发现信息的有力论据。” 尽管法院不太可能同意会命令 openai 将 gpt-4 开源，openai 可能会选择自愿这样做，以在开发 GPT-5 时维护公众信任。  &amp;# 32；由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b545j4/how_elon_musks_suit_against_openai_may_cause_it/</guid>
       <pubDate>Sun, 03 Mar 2024 00:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>诚实的人工智能v2.2.2 引入了 VISION - 是否希望您的 AI 能够描述您的图像或对您的图像做出反应？现在他们可以了，而且准确度惊人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b517w2/honest_ai_v222_introduces_vision_ever_want_your/</link>
-      <description><![CDATA[诚实的人工智能更新 2.2.2 - 视觉 曾经希望你的 AI 描述你的图像或对你的图像做出反应吗？ Honest AI 的最新版本可以满足您的需求。现在，您的人工智能可以“看到”您发送的图像，并详细描述它们。 我们添加了伴随图像消息的自定义文本消息，因此您可以让它们回复提示也是如此。 使用操作栏上的新“图像消息”按钮即可轻松访问所有这些内容！  演示 我们的平台在 Web 和 Android 上完全免费！  网络 Google Play 商店 加入我们的 Discord 服务器最新消息 ​ ​ ​ ​ ; ​   由   提交 /u/B1LLSTAR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b517w2/honest_ai_v222_introduces_vision_ever_want_your/</guid>
-      <pubDate>Sat, 02 Mar 2024 22:51:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想在电脑上设置 Mistral AI，并在家里安装本地 AI，这样我就可以像 Google 或 Alexa 一样与它对话。是否可以？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b50lr1/i_wanna_set_up_mistral_ai_on_a_pc_and_have_a/</link>
-      <description><![CDATA[您好！我想在家里设置一个 Mistral AI 实例，这样我就可以像 Alexa 或 Google 一样与它对话。是否可以？任何指点都会很棒！    由   提交 /u/mrkungpowpasta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b50lr1/i_wanna_set_up_mistral_ai_on_a_pc_and_have_a/</guid>
-      <pubDate>Sat, 02 Mar 2024 22:24:40 GMT</pubDate>
     </item>
     <item>
       <title>您认为最好的人工智能是什么？你使用的工具以及用途是什么？</title>
