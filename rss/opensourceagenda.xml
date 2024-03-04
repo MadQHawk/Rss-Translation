@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 03 Mar 2024 21:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 00:53:29 GMT</lastBuildDate>
     <item>
-      <title>到过程</title>
-      <link>https://www.opensourceagenda.com/projects/prokga</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/prokga</guid>
-      <pubDate>Sun, 03 Mar 2024 21:12:01 GMT</pubDate>
+      <title>CanSat地面站</title>
+      <link>https://www.opensourceagenda.com/projects/cansat-ground-station</link>
+      <description><![CDATA[CanSat 或 OBCs GUI 地面站的代码，其中实时显示不同的传感器数据。无需传感器即可尝试。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cansat-ground-station</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>克利尼奥夫</title>
-      <link>https://www.opensourceagenda.com/projects/klniov</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/klniov</guid>
-      <pubDate>Sun, 03 Mar 2024 21:12:01 GMT</pubDate>
+      <title>串行监视器 Rust</title>
+      <link>https://www.opensourceagenda.com/projects/serial-monitor-rust</link>
+      <description><![CDATA[完全用 Rust 编写的跨平台串行监视器/绘图仪。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/serial-monitor-rust</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>疯狂的</title>
-      <link>https://www.opensourceagenda.com/projects/dolle</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dolle</guid>
-      <pubDate>Sun, 03 Mar 2024 21:12:00 GMT</pubDate>
+      <title>开放加尔沃蛋白石</title>
+      <link>https://www.opensourceagenda.com/projects/opengalvo-opal</link>
+      <description><![CDATA[用于将 GCode 处理为检流计信号的简约固件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opengalvo-opal</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>罗贝尔</title>
-      <link>https://www.opensourceagenda.com/projects/robere</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/robere</guid>
-      <pubDate>Sun, 03 Mar 2024 21:12:00 GMT</pubDate>
+      <title>USB CDC</title>
+      <link>https://www.opensourceagenda.com/projects/usb-cdc</link>
+      <description><![CDATA[适用于 FPGA 和 ASIC 设计的单/多通道全速 USB 接口]]></description>
+      <guid>https://www.opensourceagenda.com/projects/usb-cdc</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>伊勒</title>
-      <link>https://www.opensourceagenda.com/projects/ille</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ille</guid>
-      <pubDate>Sun, 03 Mar 2024 21:12:00 GMT</pubDate>
+      <title>LED立方体8x8x8</title>
+      <link>https://www.opensourceagenda.com/projects/ledcube8x8x8</link>
+      <description><![CDATA[8x8x8 3D LED 立方体源代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ledcube8x8x8</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>克利克巴</title>
-      <link>https://www.opensourceagenda.com/projects/klilkba</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/klilkba</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:59 GMT</pubDate>
+      <title>威克创</title>
+      <link>https://www.opensourceagenda.com/projects/victron</link>
+      <description><![CDATA[Python 脚本中的 Victron 蓝牙和串行通信。具有 MQTT 和 HomeAssistant 支持。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/victron</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>未定义881</title>
-      <link>https://www.opensourceagenda.com/projects/notdefined881</link>
-      <description><![CDATA[autocad]]></description>
-      <guid>https://www.opensourceagenda.com/projects/notdefined881</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:59 GMT</pubDate>
+      <title>节点 Modbus 流</title>
+      <link>https://www.opensourceagenda.com/projects/node-modbus-stream</link>
+      <description><![CDATA[NodeJS Modbus 流]]></description>
+      <guid>https://www.opensourceagenda.com/projects/node-modbus-stream</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:27 GMT</pubDate>
     </item>
     <item>
-      <title>奥利瓦奥橄榄</title>
-      <link>https://www.opensourceagenda.com/projects/ollivaeo-olive</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ollivaeo-olive</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:59 GMT</pubDate>
+      <title>虚幻引擎 SerialCOM 插件</title>
+      <link>https://www.opensourceagenda.com/projects/unreal-engine-serialcom-plugin</link>
+      <description><![CDATA[虚幻引擎 4 和虚幻引擎 5 的串行 Com 端口库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/unreal-engine-serialcom-plugin</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:27 GMT</pubDate>
     </item>
     <item>
-      <title>瓦勒沃·瓦勒</title>
-      <link>https://www.opensourceagenda.com/projects/wallewor-walle</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wallewor-walle</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:59 GMT</pubDate>
+      <title>安卓蓝牙串口</title>
+      <link>https://www.opensourceagenda.com/projects/android-bluetooth-serial</link>
+      <description><![CDATA[Android 的库，用于简化通过蓝牙的基本串行通信，例如与 Arduino 通信时.]]></description>
+      <guid>https://www.opensourceagenda.com/projects/android-bluetooth-serial</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:27 GMT</pubDate>
     </item>
     <item>
-      <title>Gcadmf ETH MEV 机器人</title>
-      <link>https://www.opensourceagenda.com/projects/gcadmf-eth-mev-bot</link>
-      <description><![CDATA[🤖⚡使用 JaredFromSubway 的秘密武器 ETH MEV 机器人每天赚取 40%]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gcadmf-eth-mev-bot</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:58 GMT</pubDate>
+      <title>P5.串口服务器</title>
+      <link>https://www.opensourceagenda.com/projects/p5serialserver</link>
+      <description><![CDATA[与 p5.serialport 一起使用的服务器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/p5serialserver</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:27 GMT</pubDate>
     </item>
     <item>
-      <title>杰瑞TDN1</title>
-      <link>https://www.opensourceagenda.com/projects/jerrytdn1</link>
-      <description><![CDATA[FiveM.0S]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jerrytdn1</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:58 GMT</pubDate>
+      <title>Ayushsharma82 网络串行</title>
+      <link>https://www.opensourceagenda.com/projects/ayushsharma82-webserial</link>
+      <description><![CDATA[ESP8266 和 ESP32 的远程串行监视器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ayushsharma82-webserial</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>我的名字是Fodahh1</title>
-      <link>https://www.opensourceagenda.com/projects/mynameisfodahh1</link>
-      <description><![CDATA[皮肤交换器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mynameisfodahh1</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:58 GMT</pubDate>
+      <title>串口卢比</title>
+      <link>https://www.opensourceagenda.com/projects/serialport-rs</link>
+      <description><![CDATA[Rust 中的跨平台串行端口库。提供阻塞 I/O 接口和端口枚举，包括 USB 设备信息。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/serialport-rs</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>胡安乔马克斯1</title>
-      <link>https://www.opensourceagenda.com/projects/juanchomax1</link>
-      <description><![CDATA[帕尔]]></description>
-      <guid>https://www.opensourceagenda.com/projects/juanchomax1</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:58 GMT</pubDate>
+      <title>胡尼托尔</title>
+      <link>https://www.opensourceagenda.com/projects/huhnitor</link>
+      <description><![CDATA[ESP8266 Deauther 的星际串行监视器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/huhnitor</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>加密钱包生成器 2024</title>
-      <link>https://www.opensourceagenda.com/projects/crypto-wallet-generator-2024</link>
-      <description><![CDATA[目前最好的加密钱包生成器，以极快的速度创建助记词助记词并且不间断。高稳定性和安全性。钱包是自动创建的。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/crypto-wallet-generator-2024</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:57 GMT</pubDate>
+      <title>Arduino OSC</title>
+      <link>https://www.opensourceagenda.com/projects/arduinoosc</link>
+      <description><![CDATA[Arduino 的 OSC 订阅者/发布者]]></description>
+      <guid>https://www.opensourceagenda.com/projects/arduinoosc</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>种子短语生成器 2024</title>
-      <link>https://www.opensourceagenda.com/projects/seed-phrase-generator-2024</link>
-      <description><![CDATA[目前最好的种子短语生成器，以极快的速度创建加密钱包，不间断。高稳定性和安全性。钱包是自动创建的。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/seed-phrase-generator-2024</guid>
-      <pubDate>Sun, 03 Mar 2024 21:11:57 GMT</pubDate>
+      <title>串行测试</title>
+      <link>https://www.opensourceagenda.com/projects/serialtest</link>
+      <description><![CDATA[Data transceiver/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Win/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/serialtest</guid>
+      <pubDate>Mon, 04 Mar 2024 00:53:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
