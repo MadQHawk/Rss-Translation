@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 03:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 07:01:03 GMT</lastBuildDate>
+    <item>
+      <title>您有多少用户实际使用渐进式 Web 应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b64die/how_many_of_your_users_actually_use_progressive/</link>
+      <description><![CDATA[我只是觉得这有点混乱。话虽如此，我正在构建一个网站，并且了解有关是否支持 PWA 的信息会很有用。   由   提交/u/CromulentSlacker  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b64die/how_many_of_your_users_actually_use_progressive/</guid>
+      <pubDate>Mon, 04 Mar 2024 06:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助下载视频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b63s69/help_downloading_a_video/</link>
+      <description><![CDATA[      大家好。我正在尝试在 Google Chrome 上下载视频。我曾经右键单击视频并选择“将视频另存为”，但现在它呈灰色。 我在谷歌上搜索开发人员工具可以帮助保存视频。我尝试去“检查”它们的“网络”和“媒体”，但我没有看到任何东西。 “全部”下有文件，但我不太确定它们是什么。有没有办法使用 Chrome 上的开发人员工具保存视频？ 我添加了我所看到的图片。谢谢。    由   提交/u/luckystar332  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b63s69/help_downloading_a_video/</guid>
+      <pubDate>Mon, 04 Mar 2024 06:12:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 中的 Bing 与 Google 之战</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b63gap/bing_vs_google_warfare_in_chrome/</link>
+      <description><![CDATA[       这让我成为了周一😂 https://preview.redd.it/88d0zgk3b9mc1.png?width=724&amp;format=png&amp;auto=webp&amp;s=f6e717fa1d1d9b94b89a1487edd8afd 071610396    由   提交/u/Inside-Comb7245  /u/Inside-Comb7245 reddit.com/r/webdev/comments/1b63gap/bing_vs_google_warfare_in_chrome/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b63gap/bing_vs_google_warfare_in_chrome/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助来防止垃圾邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b63f6o/need_help_to_prevent_spammy_emails/</link>
+      <description><![CDATA[嗨，我有一个简单的静态 HTML 网站。我每天收到 10-20 封不相关的垃圾邮件。它每天都有相同的 IP 地址。有时会收到 30-50 封电子邮件并拥有 3-4 个 IP 地址。我在联系表单中设置了验证码。但是，我的收件箱每天仍然收到数十封垃圾邮件。我应该怎么办？验证码不能防止垃圾邮件吗？或者我需要使用第三方联系表单扩展吗？请建议我。谢谢。   由   提交/u/kmartin_BIM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b63f6o/need_help_to_prevent_spammy_emails/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 应用程序很糟糕</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b63e6e/reddit_app_sucks/</link>
+      <description><![CDATA[像 Reddit 这样大的公司怎么可能拥有运行如此糟糕的移动应用程序？我是否遗漏了一些东西，因为我认为在整个阿波罗事件加上谷歌交易之后，这不会是一个问题。 Reddit 工程师整天都在做什么？   由   提交/u/notabadger9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b63e6e/reddit_app_sucks/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 VS Code 时程序无法运行，因为无法加载本地文件。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b633v5/program_wont_run_when_using_vs_code_because_it/</link>
+      <description><![CDATA[我正在使用括号和 p5.js 开发一个应用程序，它工作正常，但我尝试在 VS Code 中使用“运行”和“调试”。当它在 Chrome 中打开时，我只是看到一个白屏（Edge 也是如此）。当我检查控制台时，我收到以下错误消息： 从源“null”获取“（文件名）”的访问已被 CORS 策略阻止：仅协议方案支持跨源请求： http、数据、独立应用程序、chrome 扩展、chrome、https、chrome 不受信任。 和 无法加载资源：net::ERR_FAILED 文件加载的行如下：handleSprite = loadImage(“library/sprites/Handle.png”);以 js 文件的位置作为根。 我想我之前读过一些有关此问题的内容，答案是“您无法向消费者提供存储在 PC 上的本地文件” ;.好的，但我只想测试我在 PC 上制作的应用程序。我没有任何服务器可言。 我对 Web 开发非常陌生，所以我真的不知道如何为 Web 应用程序加载文件。我将其发布在这里是因为我不认为这是 p5 问题或 VS Code 问题。如有任何帮助，我们将不胜感激。   由   提交 /u/MalgorgioArhhnne   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b633v5/program_wont_run_when_using_vs_code_because_it/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员到工程师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b62vv0/developer_to_engineer/</link>
+      <description><![CDATA[作为一名拥有一年经验的全栈开发人员，我注意到我的思维和编码风格更倾向于开发人员的思维方式。然而，我渴望增强我的方法，让自己更像工程师一样思考。是否有任何推荐的资源或提示可以帮助我完成此转换？   由   提交/u/Big-Cchungus  /u/Big-Cchungus  reddit.com/r/webdev/comments/1b62vv0/developer_to_engineer/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b62vv0/developer_to_engineer/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Salesforce 开发转向更标准的 Web 开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b62m54/moving_from_salesforce_development_to_more/</link>
+      <description><![CDATA[我是一名 Salesforce 开发人员，拥有大约 5 年的行业经验。在此期间，我在使用 JavaScript、HTML 和 CSS 的前端技术上做了很多工作。然而，Salesforce 处理了使网站上线和可用的许多过程。因此，您可以做的事情通常受到极大限制。 我希望在我的职业生涯中做出重大转变，从 Salesforce 转向更标准的 Web 开发。问题是：我对销售人员生态系统之外的任何事情都没有任何经验。  有人对我需要学习的技术有什么建议吗（拥有上述三种语言 5 年的经验）？总的来说，我不确定有什么可以用来构建网站。  JavaScript、HTML 和 CSS 足以开始构建网站吗？有人有任何好的资源可以开始这个过程吗？我知道有很多优秀的 JavaScript 库可以在这个过程中提供帮助。对你们所有人的任何提示感兴趣！谢谢！   由   提交 /u/Begeeru   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b62m54/moving_from_salesforce_development_to_more/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:07:13 GMT</pubDate>
+    </item>
     <item>
       <title>JavaScript 比 CSS 更好</title>
       <link>https://www.reddit.com/r/webdev/comments/1b60bsu/javascript_does_css_better/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[在 React 世界中是否有一个与这个精彩网站相当的网站？  我从这里学到了很多解构和定制网站的知识，我想立即做出反应。  有人最喜欢的网站有完整的网站模板或类似于 html5up 的资源吗？   由   提交/u/Round_Astronomer_89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5ueha/websites_similar_to_html5up_but_for_react/</guid>
       <pubDate>Sun, 03 Mar 2024 22:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何记录设计到开发的变更？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5u7er/how_do_you_document_design_to_dev_changes/</link>
-      <description><![CDATA[我们正在寻找改进设计到开发流程的方法。如果客户请求更改设计，如何与开发人员沟通？我很想了解有关客户和项目团队文档的具体流程。   由   提交 /u/livedbyacode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5u7er/how_do_you_document_design_to_dev_changes/</guid>
-      <pubDate>Sun, 03 Mar 2024 22:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享您在公司工作后走向独立的故事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5twqq/share_your_story_about_going_indie_after_working/</link>
-      <description><![CDATA[我个人非常有兴趣听听那些曾在企业环境中工作并在某个时候决定辞职并独立工作的人的故事。以下是我个人想问您的一些问题，但请随意分享您的故事。  是什么让您辞去公司工作？ 您的领域是什么？专业知识和水平（初级/中级/高级/建筑师）？ 在转型为独立公司时，您在财务方面是如何管理的？ 您是自己创办公司还是自己创业？自己独立工作？ 您遇到过哪些困难？ 您希望事先了解哪些事情？ 您学到了什么？你后悔过独立吗？为什么？ 您是否怀念公司环境？具体方面如何？ 您会建议其他人独立吗？如果是这样，在什么情况下？  为了避免关于独立意味着什么的争论，对我来说，要么完全独立工作，要么创办自己的公司来从事自己的项目，所以让我们在这篇文章的上下文中遵循这一点。 民意调查是可选的，我只是认为看到此内容的人会很感兴趣。 查看民意调查   由   提交 /u/dantehiookami   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5twqq/share_your_story_about_going_indie_after_working/</guid>
-      <pubDate>Sun, 03 Mar 2024 22:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于用户/访客的自定义内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5ttnv/custom_content_based_on_uservisitor/</link>
-      <description><![CDATA[几年前，我读到过一个销售电视的电子商务网站，该网站会根据用户更改电视上的图像。如果他们是男性，那就是体育运动或啦啦队或其他什么，如果他们是女性，那就是鲜花，或者卡戴珊之类的。 他们会如何做到这一点（不是图像，是用户男性） / 女性），如果我想了解更多有关如何做此类事情的信息，我应该从哪里开始？ 例如，如果访问者去过我的一个网站，您可以做一些事情吗？竞争对手，我在登陆页面上显示更便宜的价格或不同的横幅/标题。作为一个粗略的例子。   由   提交 /u/JollySquatter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5ttnv/custom_content_based_on_uservisitor/</guid>
-      <pubDate>Sun, 03 Mar 2024 22:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么让软件工程师成为伟大的软件工程师？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5tbkm/what_makes_a_software_engineer_a_great_software/</link>
-      <description><![CDATA[大家好， 我是一名非技术人员，希望在 1-2 年内创办一家初创公司。我需要一位技术创始人，但我经常听说一位出色的技术创始人会让初创公司成功的机会发生巨大变化。 我正在使用 Google 和 ChatGPT 来熟悉一下尽我所能地学习软件工程，但我想进入野兽的腹地以获得最相关的见解。谢谢。   由   提交/u/anon-me-mx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5tbkm/what_makes_a_software_engineer_a_great_software/</guid>
-      <pubDate>Sun, 03 Mar 2024 21:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在这方面做得很糟糕吗？还是很难在 60 分钟或更短的时间内完成响应并具有有效的轮播和选项卡？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5ss5d/am_i_awful_at_this_or_is_this_pretty_difficult_to/</link>
-      <description><![CDATA[   /u/Dreamin0904  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5ss5d/am_i_awful_at_this_or_is_this_pretty_difficult_to/</guid>
-      <pubDate>Sun, 03 Mar 2024 21:35:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>django-boot 样式包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5q91d/djangoboot_styling_package/</link>
-      <description><![CDATA[      开发人员您好， 希望您能顺利收到此消息。最近，我缩减了使用 Flask 的开发规模，并转向 Django，因为它的自动化和交付速度。这促使我更深入地研究并发现可重用应用程序的美丽世界。因此，我决定创建一个供个人使用的包，简单地使用 Bootstrap 5 设计 Django 管理界面（这是很难实现的）。如果您想测试它，我将共享存储库。该应用程序易于配置，并在 PyPI 上建立了索引。 ​  https://i.redd.it/gl32g6cdc6mc1.gif Git：https:// github.com/roderiano/django-boot   由   提交/u/roderiano  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5q91d/djangoboot_styling_package/</guid>
-      <pubDate>Sun, 03 Mar 2024 19:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该放弃学习 Chrome 扩展程序开发吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5q5zr/should_i_give_up_on_learning_chrome_extension/</link>
-      <description><![CDATA[我有一个很酷的扩展想法（可以帮助很多人，但不会让我赚一毛钱），这是你想要的如果您懒惰使用任何框架，一天之内即可完成。但将其开发为扩展实在是太难了。我基本上放弃了谷歌文档并买了一本书，但即使那本书也不够好！这些错误是隐晦的。 API 非常混乱。没有什么该死的工作，工具是手动的，而且很糟糕，在网上寻找答案很痛苦。 我是一个弱开发者，还是扩展很糟糕？   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5q5zr/should_i_give_up_on_learning_chrome_extension/</guid>
-      <pubDate>Sun, 03 Mar 2024 19:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要反向代理自托管网络帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5q1ue/need_help_reverse_proxying_self_hosted_web/</link>
-      <description><![CDATA[我有一个自托管的 Minecraft 服务器，带有一个名为 Dynmap 的插件，它由一个类似于 Google 地球的在线地图组成。它通过 http 与自己的内部 Web 服务器（jetty）配合使用，我一直在尝试通过 nginx 和 apache 对其进行反向代理以获得 SSL 加密（以获得漂亮的 https 锁定符号并使一切顺利体验），但没有成功。  Dynmap web 可以通过端口 8124 访问，在任何地方都可以正常工作，但是当像许多教程那样进行反向代理时，它不会在我的家庭 IP 之外加载。我托管所有内容的 Windows PC 上的防火墙规则已设置，因此连接已打开，并且我确信路由器防火墙不会干扰这里，因为当我尝试禁用它时，网站未加载。 这很奇怪，因为当我尝试从我的家庭 LAN（例如连接到我的 Wi-Fi 或以太网连接）加载网络时，反向代理可以工作，但不能从我家以外的任何互联网连接或移动数据加载网络。为什么当用户 IP 是我的家时反向代理可以工作，而当它是任何其他 IP 时却不能工作？ 我在 conf 文件中所做的设置是您在任何地方的常规教程中看到的设置在互联网上。日志中没有错误消息。 我还想通过一个名为 MCSS 的程序反向代理我的管理面板，该程序可通过端口 25560 访问，但也无法通过反向代理访问它，尽管这是没那么重要，因为它可能是一项安全功能（也许？idk，不是我的优先事项）。 所有详细信息： - Windows 10 Pro 22H2 (19045.3803)  &gt; - Nginx 1.24.0（也使用 XAMPP 3.3.0 和 Apache 2.4.58，但我更喜欢 nginx） - 不重要，但 PHP 8.3.3 - 我还可以通过 Certbot 获取我的 Let&#39;s Encrypt SSL 证书 - No-Ip 动态 DNS (jvg2203.ddns.net) 欢迎任何帮助！我不知道我是否在这里或那里错过了一些愚蠢的配置，但如果情况是没有解决方案，我将更改我的托管配置以将所有文件托管在 nginx 内，这也与该插件兼容，但我不这样做不喜欢那样，因为地图有很多千兆字节大，并且位于 HDD 驱动器内，我必须移动所有这些。   由   提交/u/Jajajavi2203  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5q1ue/need_help_reverse_proxying_self_hosted_web/</guid>
-      <pubDate>Sun, 03 Mar 2024 19:47:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
