@@ -4,7 +4,59 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 04 Mar 2024 07:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 11:04:18 GMT</lastBuildDate>
+    <item>
+      <title>面对面的人工智能代理已经到来：以数字方式克隆你自己</title>
+      <link>https://feed.indiehackers.world/post/22a9e014f5</link>
+      <description><![CDATA[D-ID Agents 今天在 Product Hunt 上推出！ 🤩
+体验面对面数字交互的未来新方式。
+以下是 D-ID Agent 的与众不同之处：
+-- 听&amp;回复，而不仅仅是文字。
+——您的个性化人工智能伴侣。
+-- 2秒内回答，准确率90%。
+-- RAG 驱动的精度和最新信息。
+查看 Product Hunt 上的 D-ID Agents 并在此处分享您的想法：https://www.producthunt。 com/posts/d-id-agents
+非常感谢！ ❤️
+附注您可以免费尝试——创建与您相似的数字代理，训练您的知识并变得无所不在！ :)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/22a9e014f5</guid>
+      <pubDate>Mon, 04 Mar 2024 10:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种框架是微服务的最佳选择？</title>
+      <link>https://feed.indiehackers.world/post/9f114e4679</link>
+      <description><![CDATA[Quarkus 的实时编码功能带来了全新的视角，让您无需重新启动服务器即可实时查看更改。仅此功能就显着加快了开发过程。
+选择“最佳”框架很大程度上取决于您的具体需求和环境。出于稳健性和广泛的社区支持，Spring Boot 是我的首选。对于基于 Java EE 的方法，MicroProfile 非常出色。对于容器化环境中的尖端性能，Quarkus 是游戏规则的改变者。如果您仍在思考并想要更深入地了解，请查看有关“前 3 个 Java 微服务框架”的文章&#39;。它们提供全面的见解，可以帮助您做出明智的决定。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9f114e4679</guid>
+      <pubDate>Mon, 04 Mar 2024 10:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>MVP 完成，PRO 版本已准备就绪：开始营销并寻求建议</title>
+      <link>https://feed.indiehackers.world/post/16ddb24aca</link>
+      <description><![CDATA[
+提交到所有相关的启动和应用目录。
+在博客、Reddit 等上撰写和分享文章，目标受众为营销、销售和人力资源领域的专业人士。
+
+我还制作了一个视频，并正在考虑在 YouTube 上进行推广，不过我对这么小的项目的成本持谨慎态度。
+你有什么想法？对于适合此类项目的经济高效的营销渠道，您有什么建议吗？
+这是工具登陆页面：hrttps://uniqmail.app
+这是我自己创建的视频（是的，我是开发人员而不是设计师）：https://www.youtube.com/watch? v=vUQYvAGoHng
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/16ddb24aca</guid>
+      <pubDate>Mon, 04 Mar 2024 08:57:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求诚实的反馈：回顾 MVP NoCode ML</title>
+      <link>https://feed.indiehackers.world/post/17da2fd28a</link>
+      <description><![CDATA[a) 这样的工具有用吗？
+b) 确定哪些功能最有益
+c) 了解市场上已有的类似解决方案
+感谢您花时间阅读本文，期待您的回复！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/17da2fd28a</guid>
+      <pubDate>Mon, 04 Mar 2024 07:26:19 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Tailwind CSS 和 Astro.js 创建粘性变更日志组件</title>
       <link>https://feed.indiehackers.world/post/65a3508bef</link>
@@ -24,11 +76,11 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>我如何以 2,200 美元的价格出售我的 SaaS，而不是关闭它</title>
       <link>https://feed.indiehackers.world/post/ae006ae849</link>
-      <description><![CDATA[由于我收到了这么多消息，我决定留住他，因为我可能会得到更高的报价。
+      <description><![CDATA[由于我收到了这么多消息，我决定保留他，因为我可能会得到更高的报价。
 我做到了！有人过来说 1,500 美元！我正准备卖给他，然后有人给我发电子邮件说他愿意支付 2,200 美元🤯
 我决定卖掉。
  
-这就是我如何能够扭转局面，而不是关闭我的产品并从中赚钱，而不是关闭我的产品并赚取 - 282 美元的收入！
+这就是我如何能够翻转桌子，而不是关闭我的产品并从中赚钱，而不是关闭我的产品并赚取 - 282 美元的收入！
 如果你们喜欢这个故事，请务必在 X 上关注我！我从这个项目中学到了很多东西。
 看看我如何在今年年底前达到 1 万美元的 MRR。
 Discord 独立黑客聊天广告这里]]></description>
@@ -101,7 +153,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>隐藏电子邮件地址，防止垃圾邮件机器人发现</title>
       <link>https://feed.indiehackers.world/post/7fb1541f2c</link>
-      <description><![CDATA[当我们在网站上发布电子邮件地址时，我们厌倦了收到 soam 电子邮件，因此我们创建了有趣的刮刮卡来显示您的电子邮件地址。
+      <description><![CDATA[当我们在网站上发布电子邮件地址时，我们厌倦了收到垃圾邮件，因此我们创建了有趣的刮刮卡来显示您的电子邮件地址。
 Veilmail 确保您是一个真正的人，而不是那些烦人的垃圾邮件机器人之一。
 隐藏垃圾邮件机器人的电子邮件地址
 Discord 独立黑客聊天广告这里]]></description>
@@ -111,53 +163,10 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>放下你该死的手机，再次提高工作效率！</title>
       <link>https://feed.indiehackers.world/post/dbf9d1b887</link>
-      <description><![CDATA[本文最初发表于 Psych — 免费双- 每周简讯，快速洞察心理偏见。
+      <description><![CDATA[本文最初发表于 Psych — 免费双- 每周简讯，快速了解心理偏见。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dbf9d1b887</guid>
       <pubDate>Sun, 03 Mar 2024 18:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 AWS S3 上免费托管网站（或 Vue / React 应用程序）+ 自定义域和免费 SSL</title>
-      <link>https://feed.indiehackers.world/post/29c854037e</link>
-      <description><![CDATA[虽然我们的目标是展示经济高效的实践并利用免费套餐涵盖的服务，但超出使用限制或使用非免费套餐服务可能会导致标准 AWS 费用。请务必查看 AWS 免费套餐条款和条件并监控使用情况，以避免意外费用。
-有关资格详细信息以及有关 AWS 免费套餐的更多信息，请访问 https://aws.amazon.com/free/.
-#aws #s3 #websitehosting
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/29c854037e</guid>
-      <pubDate>Sun, 03 Mar 2024 18:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Gmail 中群发电子邮件</title>
-      <link>https://feed.indiehackers.world/post/549163e196</link>
-      <description><![CDATA[
-邮件合并附件 ：免费计划；每天发送 50 封电子邮件
-
-不幸的是，没有人可以免费做到这一点。只有其中之一允许您无需付费即可发送批量电子邮件。
-这就是完整的帖子！以下是原始博客文章的链接：如何在 Gmail 中发送群发电子邮件。您正在发送冷电子邮件吗？你做得怎么样？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/549163e196</guid>
-      <pubDate>Sun, 03 Mar 2024 17:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过几周的工作，我在 Product Hunt 上启动了我的副业项目</title>
-      <link>https://feed.indiehackers.world/post/9be19c0c1f</link>
-      <description><![CDATA[Figma 的 Roast 插件 - 识别设计问题并一键修复它们 ✨
-发现缺失的样式、错误库中不需要的样式或辅助功能问题。快速准备好文件以供开发人员移交或设计审核。保存多个库。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9be19c0c1f</guid>
-      <pubDate>Sun, 03 Mar 2024 15:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>103seo - 关键词研究工具</title>
-      <link>https://feed.indiehackers.world/post/dade4f0770</link>
-      <description><![CDATA[深入研究 SEO 后，我发现很难找到好的关键字研究工具：有些工具太贵，有些则缺乏必要的数据。
-因此，我决定构建自己的！
-103seo - 是一款随时可用的 SEO 工具，过去几周我一直在使用它来进行关键字研究、估计网站和关键字流量、分析反向链接量、趋势等。
-欢迎任何反馈。 
-如果您有兴趣，也可以在这里留言 - 我将免费赠送 5 美元的积分来测试它！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dade4f0770</guid>
-      <pubDate>Sun, 03 Mar 2024 15:34:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
