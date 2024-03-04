@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 00:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 03:42:45 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript 比 CSS 更好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b60bsu/javascript_does_css_better/</link>
+      <description><![CDATA[CSS 应该是用于样式的。然而在很多情况下，JS 似乎比 CSS 做得更好。在某些情况下，已经有成熟的 CSS 实践，但您选择 JS，因为它更好。    由   提交 /u/revocer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b60bsu/javascript_does_css_better/</guid>
+      <pubDate>Mon, 04 Mar 2024 03:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳使用语言</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5zeb0/best_language_to_use/</link>
+      <description><![CDATA[我正在创建一个桌面登陆页面，它本质上是一个游戏计算器。放入一个项目，每个项目都有 2 个唯一值，添加其他项目即可得到总计。  这个自定义小部件将具有一些其他功能，例如过滤器、搜索和两种模式之间的循环。  我计划在 WordPress、PHP 上创建这个。现在我正在重新考虑，因为我想开发一个 Android 应用程序，并希望能够简化流程。 我的问题是我应该使用哪种语言来创建桌面网站使用此自定义小部件能够有效地创建具有相同框架的应用程序，而无需太多麻烦。 谢谢！  &amp; #32；由   提交/u/Nabs22  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5zeb0/best_language_to_use/</guid>
+      <pubDate>Mon, 04 Mar 2024 02:23:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>臃肿的软件并不是坏软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5yw7a/bloated_software_isnt_bad_software/</link>
+      <description><![CDATA[    /u/Unappreciable   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5yw7a/bloated_software_isnt_bad_software/</guid>
+      <pubDate>Mon, 04 Mar 2024 01:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>值得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b5y48d/worth_it/</link>
+      <description><![CDATA[嘿，我是一名目前在大学学习计算机科学的学生。我正在考虑去没有网站的餐馆/地方，并让他们付费为他们创建一个网站。所以更多的是自由职业者类型的事情。但目前阻止我前进的是知道我是否应该了解更多有关后端和设计的知识。我会说我非常擅长创建前端，但当涉及到后端/UI 和 UX 时就不那么擅长了。我是否应该稍等一下并了解有关后端和 UI/UX 的更多信息？或者我应该跳起来然后开始？谢谢你！    由   提交 /u/Bvtterz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b5y48d/worth_it/</guid>
+      <pubDate>Mon, 04 Mar 2024 01:22:12 GMT</pubDate>
+    </item>
     <item>
       <title>我该怎么做才能让这些页面更现代、更美观？全栈农贸市场个人项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1b5wpt3/what_can_i_do_to_give_these_pages_a_more_modern/</link>
@@ -39,13 +67,6 @@
       <description><![CDATA[我个人非常有兴趣听听那些曾在企业环境中工作并在某个时候决定辞职并独立工作的人的故事。以下是我个人想问您的一些问题，但请随意分享您的故事。  是什么让您辞去公司工作？ 您的领域是什么？专业知识和水平（初级/中级/高级/建筑师）？ 在转型为独立公司时，您在财务方面是如何管理的？ 您是自己创办公司还是自己创业？自己独立工作？ 您遇到过哪些困难？ 您希望事先了解哪些事情？ 您学到了什么？你后悔过独立吗？为什么？ 您是否怀念公司环境？具体方面如何？ 您会建议其他人独立吗？如果是这样，在什么情况下？  为了避免关于独立意味着什么的争论，对我来说，要么完全独立工作，要么创办自己的公司来从事自己的项目，所以让我们在这篇文章的上下文中遵循这一点。 民意调查是可选的，我只是认为看到此内容的人会很感兴趣。 查看民意调查   由   提交 /u/dantehiookami   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5twqq/share_your_story_about_going_indie_after_working/</guid>
       <pubDate>Sun, 03 Mar 2024 22:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>从您的自定义域发送和接收电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5tulk/sending_receiving_emails_from_your_custom_domain/</link>
-      <description><![CDATA[大家好👋🏻 我正在开始成为一名个体企业家的旅程，我刚刚写了一篇关于电子邮件发送和的文章免费从自定义域接收 ✨ https ://iconicpolar.beehiiv.com/p/send-receive-emails-free-on-your-custom-domain Mailgun 不是免费的，SendGrid 注册起来很麻烦，而且Brevo 是最好的选择，每天有 300 封免费电子邮件。 作为一名 8 岁的软件工程师，我学到了很多知识。现在我正在开始成为 #solopreneur 的旅程。 查看我的网站 ，我在其中分享有用的 npm 包、文章和时事通讯，以支持其他人的旅程并回馈社会社区❤️ 我正在开始成为一名个体企业家的旅程，我刚刚写了一篇关于免费从自定义域发送和接收电子邮件的文章✨ 按照Twitter #mailgun #sendgrid #brevo  &amp;# 32；由   提交 /u/RoughEmployment7647   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5tulk/sending_receiving_emails_from_your_custom_domain/</guid>
-      <pubDate>Sun, 03 Mar 2024 22:18:12 GMT</pubDate>
     </item>
     <item>
       <title>基于用户/访客的自定义内容</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[我有一个自托管的 Minecraft 服务器，带有一个名为 Dynmap 的插件，它由一个类似于 Google 地球的在线地图组成。它通过 http 与自己的内部 Web 服务器（jetty）配合使用，我一直在尝试通过 nginx 和 apache 对其进行反向代理以获得 SSL 加密（以获得漂亮的 https 锁定符号并使一切顺利体验），但没有成功。  Dynmap web 可以通过端口 8124 访问，在任何地方都可以正常工作，但是当像许多教程那样进行反向代理时，它不会在我的家庭 IP 之外加载。我托管所有内容的 Windows PC 上的防火墙规则已设置，因此连接已打开，并且我确信路由器防火墙不会干扰这里，因为当我尝试禁用它时，网站未加载。 这很奇怪，因为当我尝试从我的家庭 LAN（例如连接到我的 Wi-Fi 或以太网连接）加载网络时，反向代理可以工作，但不能从我家以外的任何互联网连接或移动数据加载网络。为什么当用户 IP 是我的家时反向代理可以工作，而当它是任何其他 IP 时却不能工作？ 我在 conf 文件中所做的设置是您在任何地方的常规教程中看到的设置在互联网上。日志中没有错误消息。 我还想通过一个名为 MCSS 的程序反向代理我的管理面板，该程序可通过端口 25560 访问，但也无法通过反向代理访问它，尽管这是没那么重要，因为它可能是一项安全功能（也许？idk，不是我的优先事项）。 所有详细信息： - Windows 10 Pro 22H2 (19045.3803)  &gt; - Nginx 1.24.0（也使用 XAMPP 3.3.0 和 Apache 2.4.58，但我更喜欢 nginx） - 不重要，但 PHP 8.3.3 - 我还可以通过 Certbot 获取我的 Let&#39;s Encrypt SSL 证书 - No-Ip 动态 DNS (jvg2203.ddns.net) 欢迎任何帮助！我不知道我是否在这里或那里错过了一些愚蠢的配置，但如果情况是没有解决方案，我将更改我的托管配置以将所有文件托管在 nginx 内，这也与该插件兼容，但我不这样做不喜欢那样，因为地图有很多千兆字节大，并且位于 HDD 驱动器内，我必须移动所有这些。   由   提交/u/Jajajavi2203  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b5q1ue/need_help_reverse_proxying_self_hosted_web/</guid>
       <pubDate>Sun, 03 Mar 2024 19:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>元素显示在 Dreamweaver 中不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5pl61/element_display_not_working_in_dreamweaver/</link>
-      <description><![CDATA[最近刚开始在我的网页设计课程中使用 Dreamweaver，我们使用一本书作为教程，但当前的步骤对我来说并不适用原因... 当我在实时视图中单击一行文本时，我需要有一个蓝色框，它曾经在以前的作业中存在，但现在不存在。我需要元素显示来点击 Class/ID 字段的“+”才能完成教程。 我对 Dreamweaver 不太了解，但从我查找的内容来看，我的设置看起来不错。我肯定处于实时视图中，没有选中“隐藏实时视图显示”，没有太多代码，也没有错误，DW 是最新的，我的显卡驱动程序也是最新的，并重新启动了我的电脑。 Adobe 论坛上的一次讨论称，一位用户的驱动器中有一个奇怪的字符，导致了同样的问题，但对我来说情况并非如此。 任何帮助都会有所帮助，谢谢！ 编辑: 尝试卸载并重新安装，没有任何结果   由   提交/u/Blobfish09  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5pl61/element_display_not_working_in_dreamweaver/</guid>
-      <pubDate>Sun, 03 Mar 2024 19:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 CSS 响应能力方面的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5p4zj/need_help_with_responsiveness_in_css/</link>
-      <description><![CDATA[我设置了一个两列布局，网格的右侧有一个旁白元素（其中有一些照片），左侧有文章（其中有里面的内容）。现在的问题是，每当我减小视点宽度时，旁边照片的高度就会减小，而文章中内容的高度就会增加。现在我希望内容和照片高度保持不变，无论视口宽度如何。我怎样才能实现它。顺便说一句，我是网络开发新手，所以请帮助我。  这是参考的CSS html { box-sizing: border-box; } *, *::after, *::before { box-sizing: 继承; } 正文 { 背景颜色：#fff;颜色：#333；保证金：0；字体：1.2em / 1.2 Arial、Helvetica、sans-serif； } img { 最大宽度：100%;显示：块； } .logo { 字体大小：200%；内边距：50px 20px；保证金：0 自动；最大宽度：980px； } .grid { 边距：0 自动；内边距：0 20px；最大宽度：980px； } 导航 { 背景颜色：#000;填充：.5em； } nav ul { 边距：0;填充：0；列表样式：无； } 导航{颜色：#fff;文本装饰：无；填充：.5em 1em； } .photos { 列表样式：无；保证金：0；填充：0； } .feature { 宽度：200px; } /* 这里是我的 CSS */ nav ul { display: flex; justify-content：空间周围； } .feature { float: left;右边距：2.040816326530612%； } .grid { 显示：网格；网格模板列：1fr 1fr； } 文章{宽度：87%;右边距：4.081632653061224%；位置：相对；最大宽度：71.42857142857143%；最小宽度：151.61224489795918%；左：0； } 旁白 { 位置：相对；右：-62.59%；宽度：76.61%；最小宽度：10.20408163265306%； } .photos { 显示：网格；网格模板列：重复（2，1fr）；间隙：5px； } @media (最大宽度: 70em) 和 (最小宽度: 40em) { 文章 { 背景颜色: aqua;位置：相对；左：0; } 旁白 { 背景颜色：红色；浮动：右；宽度：84.61224489795918%； } 导航 { 宽度：115vw; } .grid { 最大高度：680px; }  } @media（最大宽度：600px）{ 文章{ 位置：相对；左：0;  背景颜色：青色； } 旁白 { 背景颜色：红色；位置：相对；右：0；宽度：30.61224489795918%； } 导航 { 宽度：56em; }  }   由   提交 /u/Altruistic-Mud-9376   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5p4zj/need_help_with_responsiveness_in_css/</guid>
-      <pubDate>Sun, 03 Mar 2024 19:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>受 DRM 保护的安全网络 (PWA) 电子阅读器应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5oq94/secure_drmprotected_webbased_pwa_ereader_app/</link>
-      <description><![CDATA[我的任务是为客户进行构建。寻找其他人有相同的经验。 我已经研究了几种商业产品。它们似乎可以归结为以下选项：  将加密的 PDF 发送到应用程序使用的专有库（例如：FileOpen） 在应用程序中托管一个 iframe，使用供应商专有服务绘制 PDF（例如：Vitrium、Kitaboo） 从 PDF 生成页面图像并将其发送到应用程序（例如：Custos）  有吗我遗漏的其他方法？客户端对涉及最终用户拥有“文件”的任何方法不感兴趣。它只能在应用程序内查看 - 无法下载或打印。  Custos 具有非常强大的取证水印功能 - 其他的则不然。有些只加密，不加水印。但对于 Custos，我必须自己创建阅读器逻辑。 客户没有表示需要注释支持，但我从不相信客户知道他们将来想要什么。 FileOpen、Vitrium 和 Kitaboo 支持开箱即用的注释。    由   提交 /u/shufflepoint   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5oq94/secure_drmprotected_webbased_pwa_ereader_app/</guid>
-      <pubDate>Sun, 03 Mar 2024 18:54:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
