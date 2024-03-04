@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 04 Mar 2024 18:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 21:11:52 GMT</lastBuildDate>
+    <item>
+      <title>有没有人成功找到 Trint 的另一个选项来创建成绩单？</title>
+      <link>https://www.reddit.com/r/editors/comments/1b6kypa/has_anyone_successfully_found_another_option_to/</link>
+      <description><![CDATA[Trint 很棒，但由于当前的预算情况，我们正在寻找替代工具来创建脚本，主要是真实的拍摄和采访。视频编辑将在 Avid 中完成。 Premiere 的自动转录看起来很棒。我想象能够添加发言人姓名并编辑从 Avid 导出的 mp4 中自动生成的文字记录，并嵌入 Time Of Day TC。然后吐出一个txt。可用于创建 Google Drive 文档的文件，以及 avid 中的 Scriptsync 文件。 Avis 现在有自己的转录，我需要研究是否可以添加演讲者姓名、显示源 TC ，并在 Avid 中编辑生成的文字记录。 只是集思广益，欢迎任何其他意见或建议。 TIA！   由   提交/u/CptMurphy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b6kypa/has_anyone_successfully_found_another_option_to/</guid>
+      <pubDate>Mon, 04 Mar 2024 20:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDL转换问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1b6k1aj/edl_conversion_question/</link>
+      <description><![CDATA[这是我的情况： ​ - 我正在确认一个项目在胶片上拍摄。 - 样片/代理以 29.97fps 的速度创建（二十年前在 betacam 上），编辑以 29.97fps 完成。 - 现在希望符合胶片。 - 我有一个 29.97 EDL，我想转换为 24fps，然后我将用它来扫描胶片以确保符合要求。 - 有谁知道如何轻松地将 29.97 EDL 转换为 24fps？在（遥远的）过去，我曾使用过 Cinema Tools，但这已经不再是真正的事情了。一位同事告诉我 Avid 的列表工具也许能够完成它，但我不确定工作流程。  ​ 谢谢！   由   提交 /u/Ben-jam-in-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b6k1aj/edl_conversion_question/</guid>
+      <pubDate>Mon, 04 Mar 2024 19:39:54 GMT</pubDate>
+    </item>
     <item>
       <title>Frame.IO 的替代品？</title>
       <link>https://www.reddit.com/r/editors/comments/1b6gl3y/alternatives_to_frameio/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好，我正在为我的 M1 MacBook 和 T7 Shield 寻找 Thunderbolt 4 底座。现在，我知道 T7 盾牌不是雷电 SSD，但是，我计划将来购买雷电 4 外壳 + NVME。我更喜欢这个坞站至少有 2 个可用的 thundebolt 4 端口，并且它们也应该向后兼容 USB 3x。    由   提交/u/Academic_Wall_7621   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4rpyi/thunderbolt_4_dock_recommendation/</guid>
       <pubDate>Sat, 02 Mar 2024 16:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>2/23-3/1 周每周综述</title>
-      <link>https://www.reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/</link>
-      <description><![CDATA[点赞最多的帖子  通过我所做的编辑，为我的组织赢得了 5 万美元资助。 (267 🡅) 我的第一部故事片剪辑将是剧院 (218 🡅) 索拉 (199 🡅) 只需点击 30 秒编辑的版本 100 (193 🡅)&lt; /a&gt; 离开这个行业... (184 🡅)  评论最多的帖子  离开这个行业... (272 💬)  Adobe 的仇恨到底是怎么回事？ (235 💬) OpenAI 今天宣布推出 Sora，介绍他们的照片级真实感文本转视频产品 (229 💬) Sora ( 201 💬) 编辑们，你们有哪些常见错误你注意到业余电影剪辑了吗？ (183 💬)    由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b4owud/weekly_roundup_for_week_of_22331/</guid>
-      <pubDate>Sat, 02 Mar 2024 14:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Resolve 中将立体声 wav 导出为单独的左右通道</title>
-      <link>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</link>
-      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学。为了质量控制，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</guid>
-      <pubDate>Sat, 02 Mar 2024 11:58:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
