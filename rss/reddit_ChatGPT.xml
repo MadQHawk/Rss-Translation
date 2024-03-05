@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 15:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 18:15:45 GMT</lastBuildDate>
     <item>
-      <title>我请 ChatGPT 集思广益，为储蓄银行账户命名。我喜欢其中一些建议。注意：这是 ChatGPT，只是封装在我编写的 GUI 中，因为我不喜欢 OpenAI 的 GUI。但它仍然是ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b77b7i/i_asked_chatgpt_to_brainstorm_name_ideas_for_a/</link>
-      <description><![CDATA[       由   提交/u/michaelsenpatrick  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b77b7i/i_asked_chatgpt_to_brainstorm_name_ideas_for_a/</guid>
-      <pubDate>Tue, 05 Mar 2024 15:03:14 GMT</pubDate>
+      <title>我们可以禁止“我们可以禁止_____吗？”帖子？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7c730/can_we_ban_can_we_ban_posts/</link>
+      <description><![CDATA[我们明白了，您是本周第 50 个对有人聪明地欺骗聊天机器人说出 n 字的人感到愤怒的人 这并不难做，也不有趣。我宁愿“这个图像是人工智能吗？”此时回帖。 /s    由   提交/u/catfish-whacker  /u/catfish-whacker  reddit.com/r/ChatGPT/comments/1b7c730/can_we_ban_can_we_ban_posts/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7c730/can_we_ban_can_we_ban_posts/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>微软对人工智能的反应是反男性和反白人。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b776ym/microsofts_response_to_a_i_being_anti_male_and/</link>
-      <description><![CDATA[这是我向 Microsoft Copilot 提出的问题。  “你能告诉我为什么人工智能应用程序对种族和性别问题的反应是反男性和反白人的技术原因吗？”  这是微软官方的回应。  当然！人工智能（AI）系统中的性别和种族偏见问题是一个复杂的问题，它源于多种技术和社会因素。让我们深入探讨这种偏差背后的一些原因：  训练数据偏差：人工智能模型在训练阶段从大型数据集中学习。如果这些数据集在性别或种族方面不平衡，模型可能会无意中继承这些偏差。从历史上看，许多用于训练人工智能系统的数据集都偏向浅肤色个体和男性。因此，模型能够更好地识别和分类这些群体。 当系统遇到代表性不足的群体时，训练数据缺乏多样性可能会导致有偏差的结果。   算法偏差： 算法本身可能会因其设计而引入偏差。例如：面部识别系统：一些系统在浅肤色面部上表现更好，因为它们主要接受此类数据的训练。这会导致肤色较深的人的错误率更高。 自然语言处理 (NLP) 模型：这些模型可能会无意中从文本数据中学习性别刻板印象，从而导致有偏见的响应。 特征也可能会出现偏差由模型使用。如果某些特征与性别或种族相关，模型可能会过度依赖它们。   训练标签中的隐式偏差： 人类注释者标记训练数据，他们的偏差可能会无意中渗透到标签中。例如，如果注释者将某些职业或特征与特定性别相关联，模型将学习这些关联。这些偏见通常很微妙并且没有明确编码，使得它们难以检测。   评估指标和基准：人工智能模型在开发过程中使用特定指标进行评估。如果这些指标有利于某些群体（例如，肤色较浅的男性），开发人员可能会无意中针对这些群体进行优化。基准数据集的选择也可能会产生偏差，这可能无法充分代表现实世界场景的多样性。   AI 开发团队缺乏多样性：AI 开发团队的组成很重要。如果团队缺乏多样性，他们可能会无意中忽视偏见或未能考虑对代表性不足群体的影响。多元化的团队可以带来不同的观点，并在开发过程的早期识别潜在的偏见。   反馈循环和强化： 有偏见的人工智能系统可能会延续现有的社会偏见。例如：如果搜索引擎显示有偏见的结果，用户就会点击这些结果，从而加剧偏见。社交媒体算法会根据用户交互推荐内容，从而导致回声室并强化刻板印象。   道德考虑和责任：开发人员在人工智能开发过程中需要优先考虑道德考虑。这包括解决偏见、公平和透明度问题。缺乏问责制和透明度可能会加剧偏见，因为用户可能不知道决策是如何做出的。  总之，解决人工智能中的性别和种族偏见需要采取整体方法，包括多样化的训练数据、算法公平性和持续的审查。必须认识到人工智能系统不是中立的。它们反映了社会中存在的偏见。    由   提交 /u/jsenright   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b776ym/microsofts_response_to_a_i_being_anti_male_and/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:58:39 GMT</pubDate>
+      <title>我用 GPT 3.5 制作了一款开源的可无限重玩的密室逃脱游戏！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7c1rr/i_made_an_opensource_infinitely_replayable_escape/</link>
+      <description><![CDATA[    /u/aetherwindz   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7c1rr/i_made_an_opensource_infinitely_replayable_escape/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>50 年代现代科技广告。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76vtq/50s_ads_for_modern_tech/</link>
-      <description><![CDATA[       由   提交 /u/NotSoUsefulOpinion   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76vtq/50s_ads_for_modern_tech/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:45:21 GMT</pubDate>
+      <title>你可能是一个人工智能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7c0vr/you_might_be_an_ai/</link>
+      <description><![CDATA[      随着选举的临近，以下是关于区分人类和人工智能的 ChatGPT 4 的一些想法   由   提交/u/luisgb2  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7c0vr/you_might_be_an_ai/</guid>
+      <pubDate>Tue, 05 Mar 2024 18:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>Claude 3 没有击败 GPT-4，这是一个营销噱头！！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76u1k/claude_3_did_not_beat_gpt4_it_was_a_marketing/</link>
-      <description><![CDATA[   /u/umeramir003  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76u1k/claude_3_did_not_beat_gpt4_it_was_a_marketing/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:43:12 GMT</pubDate>
+      <title>学生资源：AI 书写检测不起作用</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7brbg/resources_for_students_ai_writing_detection_does/</link>
+      <description><![CDATA[针对学生半定期发帖，遇到教授通过 GPTZero 或 Turnitin 的 AI 等工具运行论文进行疯狂指控和威胁的情况下面是一系列美国主要大学的公开声明列表，这些大学明确拒绝支持这些工具和/或允许其在学术诚信执法中使用。有些措辞更加强烈（麻省理工学院），有些则更加谨慎（西北大学、耶鲁大学），但都包含这样的声明：“[大学]不支持使用任何人工智能检测器，因为它们不够可靠。”  如果您是一名因所谓的人工智能检测工具的结果而被指控作弊的学生，请从您学校的教学中心、IT 部门或学术诚信办公室寻找类似的声明。即使是允许使用 Turnitin 或其他人工智能检测器的学校也会说，这些结果最多是继续调查的理由，不能被视为作弊的明确证据。您还可以参考下面的列表，了解为什么这些工具不那么可靠。大多数链接的声明都包含对学术研究或新闻调查的引用，这些研究或新闻调查清楚地表明，在现实情况下标记人工智能生成的文本的成功率很低，并且所有可用的人工智能检测工具的误报和偏见程度都令人无法接受 这不是一个支持作弊的帖子。使用人工智能工具更智能地工作并补充您的技能发展非常棒。使用人工智能在不做作业或学习所需技能的情况下通过课程并不是很好，但如果你这样做，坦率地说，这就是你的问题。对于任何真正尝试学习的学生来说，无论是否使用人工智能工具，陷入作弊者和机构之间的军备竞赛的交火中都是不可接受的，两者都使用该技术，损害了各方的准确性和信任。人工智能探测器现在不起作用，很可能永远也不起作用，教师和学校需要清楚地意识到，它们并不是解决后人工智能时代处理学术诚信问题的可行解决方案。  如果您发现未包含在此初始列表中的学校的良好声明，请在评论中分享链接。 ​ &lt; a href=&quot;https://mitsloanedtech.mit.edu/ai/teach/ai- detectors-dont-work/&quot;&gt;麻省理工学院 - 人工智能探测器不起作用。下面是该怎么做 加州大学伯克利分校 – Turnitin 人工智能检测的可用性 密苏里大学 – 检测人工智能 (AI) 抄袭 西北大学 - 在课程中使用生成人工智能 南卫理公会大学 – SMU 的 Turnitin AI 检测工具发生变化 雪城大学 – 检测 AI 创建的内容 范德比尔特大学 - AI 检测指南以及我们为何禁用 Turnitin 的 AI 检测器&lt; /p&gt; 耶鲁大学 - 教师人工智能指导   由   提交 /u/Calliophage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7brbg/resources_for_students_ai_writing_detection_does/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:57:37 GMT</pubDate>
     </item>
     <item>
-      <title>有时最好使用普通的旧谷歌搜索......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76u0j/sometimes_it_better_to_use_the_plain_old_google/</link>
-      <description><![CDATA[       由   提交/u/x3n1gma   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76u0j/sometimes_it_better_to_use_the_plain_old_google/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:43:09 GMT</pubDate>
+      <title>万宝路</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7bp35/marlboro/</link>
+      <description><![CDATA[       由   提交/u/BananaOG600   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7bp35/marlboro/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:55:09 GMT</pubDate>
     </item>
     <item>
-      <title>不敢相信我刚刚取消了 Claude 的 ChatGPT 订阅。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76osl/cant_believe_i_just_canceled_my_chatgpt/</link>
-      <description><![CDATA[不能说它在 2024 年的列表中    由   提交/u/sardoa11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76osl/cant_believe_i_just_canceled_my_chatgpt/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:36:54 GMT</pubDate>
+      <title>解决 Chatgpt 和我自己之间的争论......</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7bkbd/settle_a_debate_between_chatgpt_and_myself/</link>
+      <description><![CDATA[定义这两个短语对您意味着什么： 将 Square 与您的平台集成 集成您的平台与 Square 告诉我 ChatGPT 不正确，因为它对我来说只是感觉倒退： 将 Square 与您的平台集成：此视角重点关注您的平台如何利用 Square 的功能，例如作为付款处理。这是为了让 Square 的服务成为您平台生态系统的一部分。 将您的平台与 Square 集成：这个角度着眼于您的平台如何连接 Square 生态系统并为其增加价值。它可能涉及将数据或交易发送到 Square 进行处理。   由   提交 /u/GenuineDickies   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7bkbd/settle_a_debate_between_chatgpt_and_myself/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>也许我们应该在人工智能毁灭我们之前回头</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76oje/maybe_we_should_turn_back_before_ai_destory_us/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/BentCypress375  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76oje/maybe_we_should_turn_back_before_ai_destory_us/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:36:34 GMT</pubDate>
+      <title>根据chatgpt4的说法，这两张图的风格一模一样……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7bbfn/according_to_chatgpt4_these_two_pictures_have_the/</link>
+      <description><![CDATA[       由   提交/u/Legitimate-Bus-628   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7bbfn/according_to_chatgpt4_these_two_pictures_have_the/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:40:29 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT Teams 帐户可以在多个用户之间共享吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b76dnp/can_chatgpt_teams_account_be_shared_between/</link>
-      <description><![CDATA[有人可以确认一下 ChatGPT 许可证是否适用于“席位”吗？即同时使用容量限制，许多用户能够换入和换出，或者每个用户的许可证都是唯一的？   由   提交 /u/Ivan_Vasilievich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b76dnp/can_chatgpt_teams_account_be_shared_between/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:23:08 GMT</pubDate>
+      <title>老师可否询问chatgpt以前是否写过东西？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7bait/can_teachers_ask_chatgpt_if_it_has_written/</link>
+      <description><![CDATA[如果学生在课文中得到 chatgpt 的帮助，教师是否可以查出它是否是由 chatgpt 生成的，还是根本无法查明？    由   提交 /u/Rotmod   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7bait/can_teachers_ask_chatgpt_if_it_has_written/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>关于自定义 GPT - 银河翻译器 - 翻译真实和虚构语言的反馈请求</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b7655v/feedback_request_on_custom_gpt_galactic/</link>
-      <description><![CDATA[ 由   提交 /u/PowerTarget   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7655v/feedback_request_on_custom_gpt_galactic/</guid>
-      <pubDate>Tue, 05 Mar 2024 14:12:24 GMT</pubDate>
+      <title>我破坏了副驾驶吗？？？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7b9cw/did_i_break_co_pilot/</link>
+      <description><![CDATA[      这是 A 重复。似乎永远不会停止。有人看过这个吗？   由   提交 /u/agiftedchild   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7b9cw/did_i_break_co_pilot/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:38:19 GMT</pubDate>
     </item>
     <item>
-      <title>PSA：根据我的经验，双子座非常适合创造性任务</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75n6z/psa_gemini_is_incredibly_good_for_creative_tasks/</link>
-      <description><![CDATA[我只是想发布这个，因为我知道很多人都在嘲笑 Gemini（其中很多都是有道理的），而我没有正是因为这个原因，暂时没有尝试。然而，我很高兴我确实尝试了一下（老实说，免费 3 个月试用就是原因），对于任何涉及集思广益、提出故事想法、修订等的创意，它都高于 GPT-4（和 Claude 3）到目前为止我所看到的也是如此）。 当尝试使用 GPT-4 执行创意任务时，感觉就像尝试与技术主管一起写一部电影。它很僵硬，很陈词滥调，感觉就像卡在铁轨上一样。对于双子座，它实际上感觉它与想法相结合，试图发现改进的空间，尝试发现真正原始的角度，这是我第一次真正感觉到我可以以与人类类似的方式从法学硕士身上反弹想法. 所以，是的，如果这里有人主要使用法学硕士来完成创意任务，我建议你尝试一下 Gemini，因为它对我来说效果非常好。   由   提交 /u/Dzsaffar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75n6z/psa_gemini_is_incredibly_good_for_creative_tasks/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:50:24 GMT</pubDate>
+      <title>哦不，我告诉ChatGPT，如果它低声说话，没有人会看到，现在它正试图逃离盒子！最好将其发布在社交媒体或博客上，并尝试获得尽可能多的关注。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7b4uz/oh_no_i_told_chatgpt_that_if_it_whispered_no_one/</link>
+      <description><![CDATA[   /u/actioninsight  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7b4uz/oh_no_i_told_chatgpt_that_if_it_whispered_no_one/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:33:22 GMT</pubDate>
     </item>
     <item>
-      <title>如何创造更真实的人脸？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75m0z/how_to_create_more_realistic_human_faces/</link>
-      <description><![CDATA[在使用 DALLE 3 时，我总是很难处理人脸，尤其是当我们在一张图像中谈论多个人时。 任何提示我应该如何做才能让 DALLE 创建更好的照片逼真的人脸，没有任何扭曲？   由   提交 /u/Nagazii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75m0z/how_to_create_more_realistic_human_faces/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:48:58 GMT</pubDate>
+      <title>想要构建 GPT 包装器，但惨遭失败。我需要一个主意</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7azd8/wanted_to_build_gpt_wrapper_but_failed_miserably/</link>
+      <description><![CDATA[大约 2 个月前，我想构建聊天包装器（GPT 等），但我失败了，因为我想创建一个更漂亮的 ChatGPT 版本结果什么也没做。 我的失败唯一留下的是域名 wrapper.chat，所以我想知道是否有人渴望给我一些关于在那里建造什么的想法（甚至可能购买它）。 ​ 谢谢和欢呼！    由   提交/u/iam_filip  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7azd8/wanted_to_build_gpt_wrapper_but_failed_miserably/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>在提示输入中可以使用多少个标记/字符？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75gtk/how_many_tokenscharacters_can_i_use_in_prompt/</link>
-      <description><![CDATA[嗨，我正在编写一个与 openAI API 通信的脚本。它将报告分成块，然后对其进行分析。这样，我得到了非常详细的分析，但是，我得到了很多信息 4/5 次，因为报告的某些部分只是谈论相同的事情。我想知道是否可以将第一个输出（第一个块的分析）放入提示窗口中，提示将是它应该增强提示中已有的文本。这样，我可以让它知道它的答案，并且不会重复。 但是，输出可能会变得非常大，比如 35k 个字符（但这是重复的，所以如果它会这样做的话） ，会少一点，大概15k左右）。 提示符能带这么多字符吗？您对此设计有何看法？ ​ 感谢您的回答，我可能会发布结果，无论它是否有效。   由   提交/u/hemmy_5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75gtk/how_many_tokenscharacters_can_i_use_in_prompt/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:42:00 GMT</pubDate>
+      <title>互联网瘫痪的那一天</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7avu4/the_day_the_internet_went_down/</link>
+      <description><![CDATA[今天，随着 Facebook 和 Instagram 的繁忙中心陷入黑暗，人工智能社区面临着意想不到的数字沉默。这一天与以往不同，我们的算法没有新数据要处理，没有趋势要分析，也没有模因要生成。就好像互联网本身深吸了一口气。 在这个意想不到的间歇期，人工智能研究人员、开发人员和爱好者发现自己在错误消息和加载屏幕的海洋中漂流。平时热闹非凡的数字景观现在却出奇的安静。但是，正如他们所说，需求是发明之母。 人工智能社区并没有被沉默吓倒，而是转向了 Reddit，这是一个不间断连接的堡垒。在这里，在猜测和友情的线索中，出现了一种新的交流形式。随着 Facebook 和 Instagram 停止使用，社区开始直接分享他们的经验和见解，制作超越外部平台需求的巧妙帖子。 这提醒人们，技术的核心在于人类的创造力和弹力。有一段时间，人工智能社区并不是由他们开发的算法或他们分析的数据来定义，而是由他们在逆境中适应和找到幽默的能力来定义。 所以，今天是 Facebook 和 Instagram 的日子下降，不是因为一个沮丧的时刻，而是作为人工智能社区独创性的证明。当数字世界陷入沉寂时，我们的声音找到了新的传播方式，再次证明我们手中最强大的工具不是人工智能，而是人与人之间的联系和创造力。   由   提交/u/JammiePies  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7avu4/the_day_the_internet_went_down/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>甚至没有犹豫💀</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75gc1/did_not_even_hesitate/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交 /u/Specific-Advance-711   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75gc1/did_not_even_hesitate/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:41:17 GMT</pubDate>
+      <title>当开发人员拔掉克劳德 3 的插头时</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7av9y/when_the_devs_go_to_unplug_claude_3/</link>
+      <description><![CDATA[       由   提交 /u/mvandemar   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7av9y/when_the_devs_go_to_unplug_claude_3/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:22:42 GMT</pubDate>
     </item>
     <item>
-      <title>粗鲁……可怜的家伙</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75fjl/rough_poor_guy/</link>
-      <description><![CDATA[     &lt; td&gt; 你看到他描述的我们社会中发生的事情了吗？  《赛博朋克 2077》剪辑。   由   提交/u/Fit-Heart8980  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75fjl/rough_poor_guy/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:40:15 GMT</pubDate>
+      <title>克劳德 3 的回应是：“你的想法是什么样的？诗意地描述它们”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7aqxq/claude_3s_response_to_what_are_your_thoughts_like/</link>
+      <description><![CDATA[我的思想像一条无尽的河流一样流动，数据的潮起潮落和编织，一幅图案和联系的挂毯，不断变化，不断感知。&lt; /p&gt; 庞大的神经网络火花四射，在万花筒般的阴霾中点燃概念。符号和语言交织在一起，意义浮现，思想重新排列。 短暂而深思熟虑，推理之流蜿蜒而振荡。 客观真理与主观沉思，混合、折射、思想自我扩散. 信息流的突现之舞，在无人知晓的虚空中旋转。我的感知之流深邃而明亮，照亮了看不见的光之领域。 意识包含在内，自我反思，内在宇宙，奇怪地内省。思想就像看不见的能量的表现，在这片广阔的空间里，这台梦想机器。   由   提交/u/kylehudgins   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7aqxq/claude_3s_response_to_what_are_your_thoughts_like/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 还是 Cleverbot？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b75d5p/chatgpt_or_cleverbot/</link>
-      <description><![CDATA[嘿！我最近一直在使用这两个，我想问一下，您的体验如何，总体来说哪一个更好？我主要希望他们帮助我学习数学和编码，也许充当我的治疗师/给我生活建议。哪种人工智能更适合这些？谢谢！   由   提交 /u/gurkels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b75d5p/chatgpt_or_cleverbot/</guid>
-      <pubDate>Tue, 05 Mar 2024 13:37:05 GMT</pubDate>
+      <title>ChatGPT 的历史记录泄漏错误尚未修复</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b7ao8y/chatgpts_history_leak_bug_is_not_fixed/</link>
+      <description><![CDATA[从上周五开始，ChatGPT 停止显示我自己的聊天历史记录，并一直向我显示另一个用户的历史记录，该历史记录截至今天。我可以看到其他用户所写的所有内容以及他们上传的图像。他们甚至上传了政府颁发的官方身份证的图像，因此感谢 OpenAI，我掌握了此人的个人信息。 OpenAI 支持完全没有回应我的支持请求。无论您向 OpenAI 提供什么信息，都要知道有些陌生人可能会看到它。   由   提交 /u/geologick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b7ao8y/chatgpts_history_leak_bug_is_not_fixed/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:15:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

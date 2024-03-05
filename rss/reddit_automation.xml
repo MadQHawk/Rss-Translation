@@ -4,13 +4,13 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 05 Mar 2024 15:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 18:15:00 GMT</lastBuildDate>
     <item>
-      <title>用于支持自动化的 Shopify 代理/工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1b735kb/shopify_agenttool_for_support_automation/</link>
-      <description><![CDATA[嗨！据我了解，您应该有“前台”。代理，它将获取支持电子邮件/票证并将其分配给相关人员，但这并不是我所需要的。我检查过 Zapier / n8n，它们都不支持通过 ID 读取交易，所以我认为它们没有帮助。执行操作（通过 Shopify API）或返回一些数据。塔。  流程：根据我的理解，你应该有一个“前台”代理，它将接受支持电子邮件/票证并将其分配给正确的代理（工具）。因此，如果是有关运输信息的请求，它会将请求（仅包含相关文本）传递给 Shopify 代理/工具，然后该代理/工具将执行操作（通过 Shopify API）或返回一些数据。  问题：有什么工具可以帮助我完成这项任务吗？我见过 Airbyte Shopify 集成，但这并不完全是我所需要的。我检查过 Zapier / n8n，它们都不支持通过 ID 读取交易，所以我认为它们没有帮助。  我应该在特定的地方寻找这样的 Shopify 代理吗？    由   提交/u/erol444  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b735kb/shopify_agenttool_for_support_automation/</guid>
-      <pubDate>Tue, 05 Mar 2024 11:36:02 GMT</pubDate>
+      <title>自动电子邮件跟进（Gmail）</title>
+      <link>https://www.reddit.com/r/automation/comments/1b78agv/auto_email_follow_up_gmail/</link>
+      <description><![CDATA[您好！我使用 Gmail，并且发现自己多次跟进某些人。这是一个手动过程，例如跟进，谢谢！或者“谢谢你” 我希望我可以标记他们以进行后续跟进或其他操作。 当我没有收到回复时，Gmail 会提醒我，但是我仍然需要回复或输入模板。我希望它能提示我。您想启动后续流程吗？我会点击“是”，如果他们回复，流程就会停止。 我只想要一些简单的东西。有这样的东西存在吗？   由   提交/u/juwood1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b78agv/auto_email_follow_up_gmail/</guid>
+      <pubDate>Tue, 05 Mar 2024 15:43:10 GMT</pubDate>
     </item>
     <item>
       <title>自动化求职板联系人</title>
@@ -27,13 +27,6 @@
       <pubDate>Mon, 04 Mar 2024 23:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>AI代理的类型</title>
-      <link>https://www.reddit.com/r/automation/comments/1b6960j/types_of_ai_agents/</link>
-      <description><![CDATA[花一点时间查看有关 2024 年生效的人工智能代理类型。让我们探索重塑人工智能技术的最佳人工智能代理。    ;由   提交/u/Cultural-Way-1118  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b6960j/types_of_ai_agents/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:58:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Bet365 自动投注</title>
       <link>https://www.reddit.com/r/automation/comments/1b640i7/auto_bets_on_bet365/</link>
       <description><![CDATA[我有一位来自 Telegram 的线人，他向我发送赛马投注，我依赖他，但问题是当他在我睡觉时进行投注时，当我醒来时，几率显着下降。我想知道是否有一个机器人可以识别在 Telegram 上进行的投注并将其放在 Bet365 上   由   提交/u/thelastmomentguy   [链接] [评论]]]></description>
@@ -48,23 +41,9 @@
       <pubDate>Sun, 03 Mar 2024 04:21:19 GMT</pubDate>
     </item>
     <item>
-      <title>您希望通过人工智能自动化平台实现哪些手动业务流程的自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1b4nnpl/what_manual_businesses_processes_are_you_looking/</link>
-      <description><![CDATA[大家好， 生成式 AI 支持的工作流程自动化正在改变以前耗时且重复的业务流程自动化的格局。传统工具和技术不可能实现这一点。 我很想知道您希望实现哪些业务流程自动化，以及最近哪些 Gen AI 自动化平台引起了您的注意。有没有让您感到兴奋的创新解决方案？ 相关说明，我一直在修补平台 旨在帮助企业创建自己的人工智能代理并自动执行重复性任务。它仍处于早期阶段，但可能性很有趣。   由   提交/u/ironman037  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b4nnpl/what_manual_businesses_processes_are_you_looking/</guid>
-      <pubDate>Sat, 02 Mar 2024 12:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要外包您的人工智能编码项目吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1b4898k/want_to_outsource_your_ai_coding_projects/</link>
-      <description><![CDATA[嘿伙计们， 我注意到很多人工智能自动化机构所有者没有技术编码经验，但是雄心勃勃，想做很多大项目！ 你把所有的技术事情都交给我怎么样！无论项目多么复杂，只要关闭客户端，剩下的事情我们都会处理！ 我经营一家名为 Ethereal AI 的公司，我们为企业提供定制的人工智能解决方案 如果你有兴趣，给我一个Dm！ 谢谢！ www.etherealai.tech   由   提交 /u/The-Manipulator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b4898k/want_to_outsource_your_ai_coding_projects/</guid>
-      <pubDate>Fri, 01 Mar 2024 22:54:14 GMT</pubDate>
-    </item>
-    <item>
       <title>帮助完成工作项目</title>
       <link>https://www.reddit.com/r/automation/comments/1b41re8/help_with_a_work_project/</link>
-      <description><![CDATA[您好r/automation！  希望这个令人惊叹的社区能够帮助我为我正在尝试解决的工作项目指明正确的方向。免责声明，我不是编码员/开发人员，所以如果我问了一个愚蠢的问题，我深表歉意。 我在物流行业工作，我正在寻找一个可以从多个订单中获取订单重量信息的机器人。 PDF 并将信息编译成 Excel 表格。 PDF 将保存到共享文件夹中，并且在任何给定时间可能有数百个 PDF，每个文档中有几页。此外，这些文件并不统一，因为它们来自不同的公司。然而，我们希望抓取唯一的订单或采购订单号，然后是总重量。  解决这个问题的最佳方法是什么？    由   提交/u/Bulldog7811   [链接] [评论]]]></description>
+      <description><![CDATA[您好r/automation！  希望这个令人惊叹的社区能够帮助我为我正在尝试解决的工作项目指明正确的方向。免责声明，我不是编码员/开发人员，所以如果我问了一个愚蠢的问题，我深表歉意。 我在物流行业工作，我正在寻找一个可以从多个订单中获取订单重量信息的机器人。 PDF 并将信息编译成 Excel 表格。 PDF 文件将保存到共享文件夹中，并且在任何给定时间可能有数百个 PDF 文件，每个文档包含几页。此外，这些文件并不统一，因为它们来自不同的公司。然而，我们希望抓取唯一的订单或采购订单号，然后是总重量。  解决这个问题的最佳方法是什么？    由   提交 /u/Bulldog7811   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b41re8/help_with_a_work_project/</guid>
       <pubDate>Fri, 01 Mar 2024 18:36:21 GMT</pubDate>
     </item>
@@ -76,39 +55,60 @@
       <pubDate>Fri, 01 Mar 2024 05:15:40 GMT</pubDate>
     </item>
     <item>
-      <title>Zapier 和 Make.com 终身交易替代方案：Boost.space</title>
-      <link>https://www.reddit.com/r/automation/comments/1b3a207/zapier_and_makecom_lifetime_deal_alternative/</link>
-      <description><![CDATA[       由   提交 /u/theshaikat   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b3a207/zapier_and_makecom_lifetime_deal_alternative/</guid>
-      <pubDate>Thu, 29 Feb 2024 20:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何删除您的 Charstar 帐户：分步指南</title>
-      <link>https://www.reddit.com/r/automation/comments/1b36vn3/how_to_delete_your_charstar_account_stepbystep/</link>
-      <description><![CDATA[       由   提交/u/Chisom1998_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b36vn3/how_to_delete_your_charstar_account_stepbystep/</guid>
-      <pubDate>Thu, 29 Feb 2024 18:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了 ChatGPT 的通用响应？为您的业务培训 ChatGPT</title>
-      <link>https://www.reddit.com/r/automation/comments/1b2yy1i/tired_of_chatgpts_generic_responses_train_chatgpt/</link>
-      <description><![CDATA[   /u/moshestv  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b2yy1i/tired_of_chatgpts_generic_responses_train_chatgpt/</guid>
-      <pubDate>Thu, 29 Feb 2024 12:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>住宅、移动或服务器代理？外行人的视角</title>
-      <link>https://www.reddit.com/r/automation/comments/1b2s48r/residential_mobile_or_server_proxies_a_laymans/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b2s48r/residential_mobile_or_server_proxies_a_laymans/</guid>
-      <pubDate>Thu, 29 Feb 2024 05:01:50 GMT</pubDate>
-    </item>
-    <item>
       <title>银行利息收取</title>
       <link>https://www.reddit.com/r/automation/comments/1b2kgq3/bank_interest_collection/</link>
       <description><![CDATA[是否有应用或服务可以整合您银行帐户中的所有利息并将其放入单独的帐户中使用？   由   提交 /u/JethroPrimo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b2kgq3/bank_interest_collection/</guid>
       <pubDate>Wed, 28 Feb 2024 23:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么样的业务工作流程自动化可以让您的生活更轻松？</title>
+      <link>https://www.reddit.com/r/automation/comments/1b2jr03/what_business_workflow_automation_would_make_your/</link>
+      <description><![CDATA[ 由   提交 /u/Ill_Concept_6002   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b2jr03/what_business_workflow_automation_would_make_your/</guid>
+      <pubDate>Wed, 28 Feb 2024 22:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>#1 免费人工智能摘要工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1b2hnjb/the_1_free_ai_summarizer_tool/</link>
+      <description><![CDATA[   /u/Chisom1998_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b2hnjb/the_1_free_ai_summarizer_tool/</guid>
+      <pubDate>Wed, 28 Feb 2024 21:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何自动将职位发布从我的网站发布到 LinkedIn 和 Indeed</title>
+      <link>https://www.reddit.com/r/automation/comments/1b2ekgz/how_to_automate_job_postings_from_my_website_to/</link>
+      <description><![CDATA[大家好！ 我有一个 Wordpress 求职板网站，其中列出了很多职位。 我想在 Indeed 和 LinkedIn 上发布这些职位的广告。 我可以逐一手动输入这些职位，但我想尝试一下自动化。 做你知道我该怎么做吗？ 你会推荐什么软件/服务？ 非常感谢！  &amp; #32；由   提交/u/NeedMoreSprinkles  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b2ekgz/how_to_automate_job_postings_from_my_website_to/</guid>
+      <pubDate>Wed, 28 Feb 2024 19:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动为社交内容配音</title>
+      <link>https://www.reddit.com/r/automation/comments/1b28dxi/automate_voiceovers_for_social_content/</link>
+      <description><![CDATA[大家好，有没有办法自动生成不同的视频？ 示例：我有一个定性数据表第 1 行：阿森纳 v 曼城 第 2 行：阿森纳 v 利物浦 第 3 行：阿森纳 v 热刺  等等， 有没有办法为社交内容创建大量视频，其中每个视频的配音都是自动的和更改的？    由   提交/u/IRBLT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b28dxi/automate_voiceovers_for_social_content/</guid>
+      <pubDate>Wed, 28 Feb 2024 15:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>商业智能自动化的力量</title>
+      <link>https://www.reddit.com/r/automation/comments/1b25dbw/the_power_of_business_intelligence_automation/</link>
+      <description><![CDATA[        由   提交/u/itzcharlessmith  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b25dbw/the_power_of_business_intelligence_automation/</guid>
+      <pubDate>Wed, 28 Feb 2024 12:52:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hoji AI - 自动人工智能代码审查器</title>
+      <link>https://www.reddit.com/r/automation/comments/1b1wqjv/hoji_ai_automated_ai_code_reviewer/</link>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b1wqjv/hoji_ai_automated_ai_code_reviewer/</guid>
+      <pubDate>Wed, 28 Feb 2024 04:10:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化社交媒体</title>
+      <link>https://www.reddit.com/r/automation/comments/1b1no68/automate_social_media/</link>
+      <description><![CDATA[如何在以下网站上自动发布帖子：  Facebook Twitter (X ) YouTube 社区 LinkedIn Business 页面 Instagram（仅当帖子包含图片时） Telegram 频道 Whatsapp 频道（如果可能）  是否有任何服务可以为我提供这种自动化功能，让我发布一次并自动发布所有内容。   由   提交/u/Appressive_Dig2378   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b1no68/automate_social_media/</guid>
+      <pubDate>Tue, 27 Feb 2024 21:31:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
