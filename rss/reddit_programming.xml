@@ -4,7 +4,84 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 05 Mar 2024 12:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 15:12:34 GMT</lastBuildDate>
+    <item>
+      <title>还在和你的橡皮鸭说话吗？而是画一个图表。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b77adi/still_talking_to_your_rubber_duck_draw_a_diagram/</link>
+      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b77adi/still_talking_to_your_rubber_duck_draw_a_diagram/</guid>
+      <pubDate>Tue, 05 Mar 2024 15:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 很高兴分享我的最新帖子：“技术招聘的丑陋真相：是时候进行革命了”💡 非常欢迎反馈！</title>
+      <link>https://www.reddit.com/r/programming/comments/1b76jrb/excited_to_share_my_latest_post_the_ugly_truth/</link>
+      <description><![CDATA[ 由   提交/u/Rivalez_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b76jrb/excited_to_share_my_latest_post_the_ugly_truth/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>愚蠢的代码击败聪明的代码 - 不要犯我犯过的错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1b76gf3/dumb_code_beats_smart_code_dont_make_the_mistakes/</link>
+      <description><![CDATA[ 由   提交 /u/buildtechcareer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b76gf3/dumb_code_beats_smart_code_dont_make_the_mistakes/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Rust 构建了一个算法交易系统。这就是我遗憾的事情。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b76d9f/i_built_an_algorithmic_trading_system_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/Starks-Technology  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b76d9f/i_built_an_algorithmic_trading_system_in_rust/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:22:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 DRY 的一点建议——更喜欢扁平抽象</title>
+      <link>https://www.reddit.com/r/programming/comments/1b7658s/a_word_of_advice_on_dry_prefer_flat_abstractions/</link>
+      <description><![CDATA[ 由   提交/u/bennett-dev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b7658s/a_word_of_advice_on_dry_prefer_flat_abstractions/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon S3 如何实现 99.999999999% 的耐用性</title>
+      <link>https://www.reddit.com/r/programming/comments/1b75my8/how_amazon_s3_achieves_99999999999_durability/</link>
+      <description><![CDATA[ 由   提交/u/sdxyz42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b75my8/how_amazon_s3_achieves_99999999999_durability/</guid>
+      <pubDate>Tue, 05 Mar 2024 13:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elixir、Phoenix LiveView 和 Erlang：专家讲座 • Sophie DeBenedetto 和 Andrea Leopardi</title>
+      <link>https://www.reddit.com/r/programming/comments/1b75frk/elixir_phoenix_liveview_erlang_expert_talk_sophie/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b75frk/elixir_phoenix_liveview_erlang_expert_talk_sophie/</guid>
+      <pubDate>Tue, 05 Mar 2024 13:40:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能、软件开发和自动化的悖论</title>
+      <link>https://www.reddit.com/r/programming/comments/1b74kqa/ai_software_development_and_the_paradox_of/</link>
+      <description><![CDATA[ 由   提交/u/scarey102  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b74kqa/ai_software_development_and_the_paradox_of/</guid>
+      <pubDate>Tue, 05 Mar 2024 12:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人参与过具有类似功能的候选人测试工具项目吗？寻找见解！</title>
+      <link>https://www.reddit.com/r/programming/comments/1b74fot/has_anyone_worked_on_a_project_for_candidate/</link>
+      <description><![CDATA[Reddit 社区您好， 我目前正在开发一个项目，开发一个候选人测试工具，用于评估空缺职位的候选人。该工具将涉及存储用户信息、候选人详细信息、测试信息、测试问题和候选人回答。 我想知道这里是否有人有从事类似项目的经验或遇到过任何开放-与候选测试工具相关的源项目或资源，具有用户注册、测试管理、自动化测试、结果分析和数据库集成等功能。  任何有关技术、最佳实践或开发过程中面临的挑战的见解、技巧或建议将不胜感激。预先感谢您的帮助！   由   提交/u/qassym  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b74fot/has_anyone_worked_on_a_project_for_candidate/</guid>
+      <pubDate>Tue, 05 Mar 2024 12:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人参与过具有类似功能的候选人测试工具项目吗？寻找见解！</title>
+      <link>https://www.reddit.com/r/programming/comments/1b74d91/has_anyone_worked_on_a_project_for_candidate/</link>
+      <description><![CDATA[我目前正在开发一个项目，开发一个候选人测试工具，用于评估空缺职位的候选人。该工具将涉及存储用户信息、候选人详细信息、测试信息、测试问题和候选人回答。 我想知道这里是否有人有从事类似项目的经验或遇到过任何开放-与候选测试工具相关的源项目或资源，具有用户注册、测试管理、自动化测试、结果分析和数据库集成等功能。  任何有关技术、最佳实践或开发过程中面临的挑战的见解、技巧或建议将不胜感激。预先感谢您的帮助！   由   提交/u/qassym  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b74d91/has_anyone_worked_on_a_project_for_candidate/</guid>
+      <pubDate>Tue, 05 Mar 2024 12:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>S3 很棒，但不是文件系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1b744eh/s3_is_great_but_not_a_filesystem/</link>
+      <description><![CDATA[ 由   提交/u/calp  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b744eh/s3_is_great_but_not_a_filesystem/</guid>
+      <pubDate>Tue, 05 Mar 2024 12:33:22 GMT</pubDate>
+    </item>
     <item>
       <title>根据对象属性过滤、合并和更新 Python 列表</title>
       <link>https://www.reddit.com/r/programming/comments/1b73us0/filter_merge_and_update_python_lists_based_on/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[ 由   提交/u/zaidesanton  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b733xq/feature_flags_are_ruining_your_codebase/</guid>
       <pubDate>Tue, 05 Mar 2024 11:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不是程序员，我有建筑学背景...很好奇编程并将基于网络的 CAD 软件推向市场会面临哪些挑战...例如 fusion 360、tinkercad 或 rayon？</title>
-      <link>https://www.reddit.com/r/programming/comments/1b72xl7/im_not_a_programmer_i_have_a_background_in/</link>
-      <description><![CDATA[这些软件基于什么编程语言？维护此类软件基础设施的相关成本是多少？    由   提交/u/halguy5577  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b72xl7/im_not_a_programmer_i_have_a_background_in/</guid>
-      <pubDate>Tue, 05 Mar 2024 11:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 编程的 9 大技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1b72fa1/top_9_tips_for_programming_with_ai/</link>
-      <description><![CDATA[ 由   提交 /u/iamitbeard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b72fa1/top_9_tips_for_programming_with_ai/</guid>
-      <pubDate>Tue, 05 Mar 2024 10:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>让你的代码更优雅的 Python 技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1b7242z/awesome_python_tricks_that_make_your_code_more/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b7242z/awesome_python_tricks_that_make_your_code_more/</guid>
-      <pubDate>Tue, 05 Mar 2024 10:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个支持本机 Windows 的多运行时管理器</title>
-      <link>https://www.reddit.com/r/programming/comments/1b71gun/i_made_a_multiple_runtime_manager_that_supports/</link>
-      <description><![CDATA[ 由   提交/u/aooohan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b71gun/i_made_a_multiple_runtime_manager_that_supports/</guid>
-      <pubDate>Tue, 05 Mar 2024 09:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 带来的麻烦：如何清理 Windows 11 和 Edge 的“全新安装”</title>
-      <link>https://www.reddit.com/r/programming/comments/1b71gtj/windowsasanuisance_how_i_clean_up_a_clean_install/</link>
-      <description><![CDATA[ 由   提交/u/nipeat179  [链接]   ; [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b71gtj/windowsasanuisance_how_i_clean_up_a_clean_install/</guid>
-      <pubDate>Tue, 05 Mar 2024 09:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能的异构生产力效应 - 来自 Github 的证据</title>
-      <link>https://www.reddit.com/r/programming/comments/1b70lze/the_heterogeneous_productivity_effects_of/</link>
-      <description><![CDATA[ 由   提交/u/datainspace  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b70lze/the_heterogeneous_productivity_effects_of/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:43:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员之路</title>
-      <link>https://www.reddit.com/r/programming/comments/1b70ez5/the_programmers_pathway/</link>
-      <description><![CDATA[ 由   提交/u/jdegoes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b70ez5/the_programmers_pathway/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rune 宣布为多人网页游戏提供开源资助</title>
-      <link>https://www.reddit.com/r/programming/comments/1b702g6/rune_announces_open_source_grant_for_multiplayer/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b702g6/rune_announces_open_source_grant_for_multiplayer/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpine.js 创建动画登录模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1b7004a/how_to_create_an_animated_log_in_modal_with/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建动画登录模态[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b7004a/how_to_create_an_animated_log_in_modal_with/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>C# 中的动态对象及代码示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6z76f/dynamic_objects_in_c_with_code_samples/</link>
-      <description><![CDATA[ 由   提交 /u/pandiyancool   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6z76f/dynamic_objects_in_c_with_code_samples/</guid>
-      <pubDate>Tue, 05 Mar 2024 07:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在本地启动并运行大型语言模型。</title>
-      <link>https://www.reddit.com/r/programming/comments/1b6vvsg/get_up_and_running_with_large_language_models/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b6vvsg/get_up_and_running_with_large_language_models/</guid>
-      <pubDate>Tue, 05 Mar 2024 04:02:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
