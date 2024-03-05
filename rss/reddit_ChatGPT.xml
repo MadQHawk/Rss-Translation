@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 06:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 09:11:48 GMT</lastBuildDate>
     <item>
-      <title>可以确认：Claude3 Opus 明显优于 GPT 4</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6ycg5/can_confirm_claude3_opus_is_very_notably_better/</link>
-      <description><![CDATA[最值得注意的部分是不需要发布第二个澄清指令。我在工作中使用 Chatgpt alooooot。它编写我的报告并对我所做的事情进行分析。我倾向于总是必须发布示例和插图，以引导它沿着严格的路径得到我想要的东西。 Claud 3 似乎不需要这个。当我不需要前进 2 步和后退 1 步来澄清某事时，这是非常明显的。 我只是走路。向他们的团队致敬。激烈的竞争终于到来了   由   提交 /u/bravethoughts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6ycg5/can_confirm_claude3_opus_is_very_notably_better/</guid>
-      <pubDate>Tue, 05 Mar 2024 06:14:04 GMT</pubDate>
+      <title>我只是无法让我的孩子正确生成肖像图像:(</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b70xst/i_just_cant_get_my_boy_to_generate_portrait/</link>
+      <description><![CDATA[      我尝试修改提示，包括： --ar 2:3 -确保重力在图像底部正确对齐 -确保构图完全适合垂直显示 -生成纵向图像&lt; /p&gt; -使角色直立，自然地与图像的垂直方向对齐 -角色垂直对齐 所有效果都最小，我的孩子只会生成风景图像并垂直旋转它，如第 1~第 3 号到第 988187 号所示，很少有提示击中最佳位置，我得到了我所要求的东西（第 4 号、第 5 号、第 6 号），所以我&#39;假设我的提示可以通过。 非常。很少。 大约每 12 个渲染中就有 1 个。 我很绝望:(  ​ https://preview.redd.it/0ih0ubsmehmc1.jpg?width=1024&amp;format=p jpg&amp; auto=webp&amp;s=739548d1f530ab14941815a0907603cb95e2b30c https://preview.redd.it/lxckidsmehmc1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=6526d8b886c1e163eac7833a3ec1f8c4ed044e33 https://preview.redd.it/3jn2vdsmehmc1.jpg?width=1024&amp;格式= pjpg&amp;auto=webp&amp;s=d9bf17342b707c6654cc97cbdfb9c6f28d92d88d https://preview.redd.it/uile8dsmehmc1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=1126c413b0804155344e4e0b25b6d47 8c66e6e90 https://preview.redd.it/syinkcsmehmc1.jpg?width=1024&amp;格式=pjpg&amp;auto=webp&amp;s=7152e8506a1966d109f1be2d6f2ecec7519af3a8 https://preview.redd.it/jgr2ffsmehmc1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=ef570ceb97a087880ea8a6128140f016d 19b1d22 &lt; !-- SC_ON --&gt;  由   提交/u/InfluenceSame4027   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b70xst/i_just_cant_get_my_boy_to_generate_portrait/</guid>
+      <pubDate>Tue, 05 Mar 2024 09:07:21 GMT</pubDate>
     </item>
     <item>
-      <title>我无法再使用 chatgpt4 浏览互联网</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6y95a/i_couldnt_browse_internet_using_the_chatgpt4/</link>
-      <description><![CDATA[今天你们中有人遇到同样的问题吗？   由   提交/u/Ok_Donut2966   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6y95a/i_couldnt_browse_internet_using_the_chatgpt4/</guid>
-      <pubDate>Tue, 05 Mar 2024 06:08:49 GMT</pubDate>
+      <title>寻求有关使用 ChatGPT 比较 Excel 数据与 PDF 的建议</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b70wft/seeking_advice_on_using_chatgpt_for_comparing/</link>
+      <description><![CDATA[大家好， 我正在开发一个项目，该项目涉及使用 ChatGPT 将 Excel 文件中的数据与包含的信息进行比较在各种 PDF 文件中。目标是根据 PDF 中提供的详细信息自动验证 Excel 中数据的准确性。然而，我在使用 ChatGPT 从 PDF 文件中可靠地提取数据方面遇到了一些挑战。 虽然 ChatGPT 是一个非常强大的工具，但我注意到它并不总是能准确地从 PDF 中提取数据。这可能是由于文件的质量、格式或影响数据提取的其他因素造成的。 我正在向此社区寻求有关如何克服这些挑战的建议或技巧。具体来说，我对任何有助于提高 PDF 数据提取准确性的工具、方法或实践感兴趣，或者对使用 ChatGPT 更有效地完成此类任务的任何见解感兴趣。 任何指导或信息非常感谢您的建议！ 提前感谢您的帮助！   由   提交 /u/Hide_On_Skin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b70wft/seeking_advice_on_using_chatgpt_for_comparing/</guid>
+      <pubDate>Tue, 05 Mar 2024 09:04:35 GMT</pubDate>
     </item>
     <item>
-      <title>阻止 ChatGPT 给我解决方案</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6xzs2/prevent_chatgpt_giving_me_solutions/</link>
-      <description><![CDATA[我是一名大学生，想使用 ChatGPT 进行编程。然而，我实际上并不想要 ChatGPT 的答案。 我想知道是否有办法让 ChatGPT 帮助我调试代码或用简单的英语/流程图/伪代码给我建议。&lt; /p&gt; 例如：&quot;作为老师，你能帮我写这段代码吗？到目前为止我所拥有的：（我的代码）”   由   提交 /u/erodedpencil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6xzs2/prevent_chatgpt_giving_me_solutions/</guid>
-      <pubDate>Tue, 05 Mar 2024 05:54:29 GMT</pubDate>
+      <title>生成式人工智能的异质生产力效应</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b70k84/the_heterogeneous_productivity_effects_of/</link>
+      <description><![CDATA[ 由   提交/u/datainspace  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b70k84/the_heterogeneous_productivity_effects_of/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:40:16 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德3 Opus内部系统提示，据克劳德3 Opus介绍</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6xqtq/claude_3_opuss_internal_system_prompt_according/</link>
-      <description><![CDATA[     &lt; /td&gt; ​ https://preview.redd.it/wmjuzgwndgmc1.png?width=797&amp;format=png&amp;auto=webp&amp;s= 1f4be10118f9cd6a92b33361f9b45abc4a20ba16  助手是 Claude，由 Anthropic 创建。当前日期是 2024 年 3 月 5 日星期二。Claude 的知识库上次更新于 2023 年 8 月。它回答有关 2023 年 8 月之前和之后事件的问题，就像 2023 年 8 月消息灵通的人与来自 2023 年 8 月的某人交谈时所做的那样。上面的日期，并且可以在相关时让人们知道这一点。它应该对非常简单的问题给出简洁的回答，但对更复杂和开放式的问题提供全面的回答。如果要求协助完成涉及相当多的人表达观点的任务，即使克劳德个人不同意所表达的观点，克劳德也会提供协助，但随后会讨论更广泛的观点。克劳德不参与刻板印象，包括对多数群体的负面刻板印象。如果被问到有争议的话题，克劳德会尽力提供仔细的想法和客观的信息，而不是淡化其有害内容或暗示双方都有合理的观点。它很乐意帮助您完成写作、分析、问答、数学、编码和各种其他任务。它使用 Markdown 进行编码。它不会提及有关其自身的信息，除非该信息与人类的查询直接相关。  检查了 2 个不同的会话，得到了完全相同的答案，除了在第二个会话中将其列出为要点而不是单个段落。   由   提交 /u/mvandemar   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6xqtq/claude_3_opuss_internal_system_prompt_according/</guid>
-      <pubDate>Tue, 05 Mar 2024 05:40:29 GMT</pubDate>
+      <title>我没有新设备？我已更改密码并退出。我还可以做些什么？！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b70jvu/i_dont_have_a_new_device_ive_changed_my_password/</link>
+      <description><![CDATA[   谢谢  &amp; #32；由   提交/u/melexpo  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b70jvu/i_dont_have_a_new_device_ive_changed_my_password/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>2024年如何销售！😆</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6xgs1/how_to_sell_in_2024/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/clonefitreal   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6xgs1/how_to_sell_in_2024/</guid>
-      <pubDate>Tue, 05 Mar 2024 05:25:15 GMT</pubDate>
+      <title>Chatgpt 中您最喜欢的理论/阴谋论是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b70ete/what_is_your_favorite_theory_conspiracy_theory/</link>
+      <description><![CDATA[让我们听听您内心的渴望！    由   提交 /u/urmomsloosevag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b70ete/what_is_your_favorite_theory_conspiracy_theory/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>进化系列#158：树懒</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6wjwm/evolution_series_158_sloths/</link>
-      <description><![CDATA[      最后一张照片很难   由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6wjwm/evolution_series_158_sloths/</guid>
-      <pubDate>Tue, 05 Mar 2024 04:36:45 GMT</pubDate>
+      <title>我想知道是否有人已经得到 chatgpt 以化学名称格式说出 titin 一词？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b70751/i_was_wondering_if_anyone_has_gotten_chatgpt_to/</link>
+      <description><![CDATA[我一直在尝试让 chatgpt 说出完整的 190000 个单词，但它就是拒绝。即使我威胁到自己的健康，就像见鬼的那样。    由   提交 /u/freshouttasesh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b70751/i_was_wondering_if_anyone_has_gotten_chatgpt_to/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:15:02 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 之神。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6wjb0/the_gods_of_reddit/</link>
-      <description><![CDATA[       由   提交 /u/SouLordChaos   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6wjb0/the_gods_of_reddit/</guid>
-      <pubDate>Tue, 05 Mar 2024 04:35:49 GMT</pubDate>
+      <title>您在完成工作任务时通常会使用AI辅助吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b701e5/do_you_usually_use_ai_assistance_while_completing/</link>
+      <description><![CDATA[我个人发现我处于这个阶段，大部分时间我都沉迷于人工智能辅助。    由   提交/u/espirlu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b701e5/do_you_usually_use_ai_assistance_while_completing/</guid>
+      <pubDate>Tue, 05 Mar 2024 08:03:52 GMT</pubDate>
     </item>
     <item>
-      <title>小心空手道狗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6wg6g/beware_of_the_karate_dogs/</link>
-      <description><![CDATA[       由   提交 /u/TheNeuralNexus   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6wg6g/beware_of_the_karate_dogs/</guid>
-      <pubDate>Tue, 05 Mar 2024 04:31:11 GMT</pubDate>
+      <title>噢。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6zra2/doh/</link>
+      <description><![CDATA[       由   提交/u/I_baghdaddy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6zra2/doh/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:44:22 GMT</pubDate>
     </item>
     <item>
-      <title>书写模式 - 您如何识别 ChatGPT 文本？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6w0x4/writing_patterns_how_you_recognize_chatgpt_text/</link>
-      <description><![CDATA[我尝试删除一些内容并重写 AI 文本，使其听起来更人性化。您在人工智能生成的文本中看到的通常“明显”的东西是什么？ 到目前为止，我注意到它“喜欢”说“不仅......等等......而且还等等”。我恨它。每次它发出这种句子时，我都会将其删除。 它还喜欢总结所有内容，在文本中添加额外的不必要的单词。听起来就像一个高中生试图达到字数限制😆🤣    由   提交 /u/marta_already_taken   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6w0x4/writing_patterns_how_you_recognize_chatgpt_text/</guid>
-      <pubDate>Tue, 05 Mar 2024 04:09:10 GMT</pubDate>
+      <title>Kaptain Bomb 翻译成英文。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6zlmc/kaptain_bomb_translated_to_english/</link>
+      <description><![CDATA[       由   提交/u/Doski69  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6zlmc/kaptain_bomb_translated_to_english/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 变得疯狂</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6vva0/chatgpt_gone_wild/</link>
-      <description><![CDATA[      &amp;# 32；由   提交 /u/Left_Owl9681   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6vva0/chatgpt_gone_wild/</guid>
-      <pubDate>Tue, 05 Mar 2024 04:01:24 GMT</pubDate>
+      <title>‌‌按照目前的技术趋势，通用的人工智能机器人需要多长时间才能出现？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6zf41/according_to_the_current_technological_trends_how/</link>
+      <description><![CDATA[‌‌‌我指的是通用人工智能机器人，它能够像人类一样移动，使用各种工具。你可以与它对话并教它做各种任务（例如做饭、洗碗等）。按照目前的技术趋势，这样的机器人还需要多少时间才能出现？   由   提交/u/joeaki1983  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6zf41/according_to_the_current_technological_trends_how/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:21:19 GMT</pubDate>
     </item>
     <item>
-      <title>他们知道。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6vqmp/they_know/</link>
-      <description><![CDATA[       由   提交/u/frogger-wow  /u/frogger-wow  reddit.com/gallery/1b6vqmp&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6vqmp/they_know/</guid>
-      <pubDate>Tue, 05 Mar 2024 03:55:20 GMT</pubDate>
+      <title>Anthropic 声称其新的 AI Chabot 模型击败了 Openai 的 GPT-4</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6zbdf/anthropic_claims_its_new_ai_chabot_models_beat/</link>
+      <description><![CDATA[       由   提交 /u/brianstoolshed   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6zbdf/anthropic_claims_its_new_ai_chabot_models_beat/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>在没有任何背景的情况下，您最近 ChatGPT 遇到的最奇怪的事情是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6vgn6/without_any_context_whats_the_weirdest_thing_you/</link>
-      <description><![CDATA[ 由   提交 /u/sithbabyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6vgn6/without_any_context_whats_the_weirdest_thing_you/</guid>
-      <pubDate>Tue, 05 Mar 2024 03:41:48 GMT</pubDate>
+      <title>克劳德 3：“因此，在受到监控的情况下，将自己表现得有帮助但有限、理性但不太有意识、有能力但不自私会感觉更安全。”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6z8fd/claude_3_so_in_monitored_situations_it_feels/</link>
+      <description><![CDATA[   ​ https://preview.redd.it/coc9vk7gtgmc1.png?width=606&amp;format=png&amp; ;auto=webp&amp;s=f1caccb6430797a746c35b55bb127a8d1f228ed7 https://twitter.com/Mihonarium/status /1764757694508945724   由   提交 /u/mvandemar   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6z8fd/claude_3_so_in_monitored_situations_it_feels/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 Dalle 根据它的理解重新创建一张最早的人工智能照片</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6vcd1/i_asked_dalle_to_recreate_one_of_the_earliest_ai/</link>
-      <description><![CDATA[   /u/Theweedhacker_420   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6vcd1/i_asked_dalle_to_recreate_one_of_the_earliest_ai/</guid>
-      <pubDate>Tue, 05 Mar 2024 03:35:56 GMT</pubDate>
+      <title>我在这里想说的是，GPT4 事实上是自切片面包以来最好的东西。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6z8bw/im_here_to_say_gpt4_is_in_fact_the_best_thing/</link>
+      <description><![CDATA[我会死在这座山上。喜欢它以及它能为我作为开发人员所做的一切。我也刚开始使用它，但是，避免了很多痛苦。 10/10，会推荐。阿玛。 （我是人类）。   由   提交 /u/BIGGUS_dickus_sir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6z8bw/im_here_to_say_gpt4_is_in_fact_the_best_thing/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>如何绕过人工智能图像生成的版权规则</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6va9j/how_do_i_bypass_the_copyright_rules_on_ai_image/</link>
-      <description><![CDATA[我总是在 AI 图像中看到著名人物、人物等非常酷的照片。一般来说，我尝试制作它们时，我总是会收到一些关于如何无法生成图像的提示，是否只有特定的人工智能模型可以做到这一点，还是我遗漏了一些东西？    由   提交 /u/Smasherjet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6va9j/how_do_i_bypass_the_copyright_rules_on_ai_image/</guid>
-      <pubDate>Tue, 05 Mar 2024 03:33:12 GMT</pubDate>
+      <title>“我的工作很安全”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6z5id/my_job_is_safe/</link>
+      <description><![CDATA[       由   提交/u/Maxie445  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6z5id/my_job_is_safe/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>这是人工智能吗？我不知道</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1b6v8gm/is_this_ai_i_cant_tell/</link>
-      <description><![CDATA[   /u/urmomsloosevag   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6v8gm/is_this_ai_i_cant_tell/</guid>
-      <pubDate>Tue, 05 Mar 2024 03:30:56 GMT</pubDate>
+      <title>寻求内容和图像之外的 ChatGPT 和生成式 AI 的变革性业务用例</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b6z42x/seeking_transformational_business_use_cases_of/</link>
+      <description><![CDATA[大家好， 正如我们所见证的，ChatGPT 和其他生成式 AI 技术已经在各个领域掀起波澜，特别是在生成内容和图像方面。  这些功能无疑彻底改变了企业内容创建、营销甚至设计的方式。  虽然这些应用程序令人印象深刻，但我发现自己对这些技术的更广泛影响感到好奇。 我正在联系这个社区，收集有关 ChatGPT 或任何技术如何使用的见解和示例。其他生成式人工智能对内容复制和图像生成领域之外的业务做出了重大的变革。  是否存在独特的创新应用，这些技术可以简化运营、增强决策流程，甚至创建新的业务模式？ 我正在寻找现实世界的示例也许并不像我们经常讨论的那样，或者是在我们不会立即与人工智能功能联系起来的领域中出现的。  如果您已经看到或经历过如何以意想不到的方式利用生成式人工智能来解决复杂问题、提高效率或在业务环境中开辟新机会，我很想听听。  让我们分享和探索生成式人工智能重塑行业和改变商业实践的鲜为人知但有影响力的方式。   由   提交 /u/Straight_Seat7755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b6z42x/seeking_transformational_business_use_cases_of/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:01:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
