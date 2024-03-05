@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 05 Mar 2024 09:11:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 12:20:33 GMT</lastBuildDate>
+    <item>
+      <title>用于支持自动化的 Shopify 代理/工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1b735kb/shopify_agenttool_for_support_automation/</link>
+      <description><![CDATA[嗨！据我了解，您应该有“前台”。代理，它将获取支持电子邮件/票证并将其分配给相关人员，但这并不是我所需要的。我检查过 Zapier / n8n，它们都不支持通过 ID 读取交易，所以我认为它们没有帮助。执行操作（通过 Shopify API）或返回一些数据。塔。  流程：根据我的理解，你应该有一个“前台”代理，它将接受支持电子邮件/票证并将其分配给正确的代理（工具）。因此，如果是有关运输信息的请求，它会将请求（仅包含相关文本）传递给 Shopify 代理/工具，然后该代理/工具将执行操作（通过 Shopify API）或返回一些数据。  问题：有什么工具可以帮助我完成这项任务吗？我见过 Airbyte Shopify 集成，但这并不完全是我所需要的。我检查过 Zapier / n8n，它们都不支持通过 ID 读取交易，所以我认为它们没有帮助。  我应该在特定的地方寻找这样的 Shopify 代理吗？    由   提交/u/erol444  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1b735kb/shopify_agenttool_for_support_automation/</guid>
+      <pubDate>Tue, 05 Mar 2024 11:36:02 GMT</pubDate>
+    </item>
     <item>
       <title>自动化求职板联系人</title>
       <link>https://www.reddit.com/r/automation/comments/1b6ua62/automating_job_board_contacts/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>招聘无代码自动化开发人员</title>
       <link>https://www.reddit.com/r/automation/comments/1b6q9sa/hiring_for_no_code_utomations_developer/</link>
-      <description><![CDATA[我们希望使用 Hubspot、Make、N8N、Zaps、Boost Space、Emails、Drive、Slack 等各种工具创建多个自动化序列Webhooks 和 API。  寻找具有强大自动化和脚本背景的人来帮助我们完成这些工作。  要申请该职位，请将您过去的作品发送给我。    由   提交/u/1tagupta  [链接] [评论]]]></description>
+      <description><![CDATA[我们希望使用 Hubspot、Make、N8N、Zaps、Boost Space、Emails、Drive、Slack 等各种工具创建多个自动化序列Webhook 和 API。  寻找具有强大自动化和脚本背景的人来帮助我们完成这些工作。  要申请该职位，请将您过去的作品发送给我。    由   提交/u/1tagupta  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b6q9sa/hiring_for_no_code_utomations_developer/</guid>
       <pubDate>Mon, 04 Mar 2024 23:48:58 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>您希望通过人工智能自动化平台实现哪些手动业务流程的自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1b4nnpl/what_manual_businesses_processes_are_you_looking/</link>
-      <description><![CDATA[大家好， 生成式 AI 支持的工作流程自动化正在改变以前耗时且重复的业务流程自动化的格局。传统工具和技术不可能实现这一点。 我很想知道您希望实现哪些业务流程自动化，以及最近哪些 Gen AI 自动化平台引起了您的注意。有没有让您感到兴奋的创新解决方案？ 相关说明，我一直在修补平台 旨在帮助企业创建自己的人工智能代理并自动执行重复性任务。它仍处于早期阶段，但可能性很有趣。   由   提交/u/ironman037  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 生成式人工智能驱动的工作流程自动化正在改变以前耗时且重复的业务流程自动化的格局。传统工具和技术不可能实现这一点。 我很想知道您希望实现哪些业务流程自动化，以及最近哪些 Gen AI 自动化平台引起了您的注意。有没有让您感到兴奋的创新解决方案？ 相关说明，我一直在修补平台 旨在帮助企业创建自己的人工智能代理并自动执行重复性任务。它仍处于早期阶段，但可能性很有趣。   由   提交/u/ironman037  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b4nnpl/what_manual_businesses_processes_are_you_looking/</guid>
       <pubDate>Sat, 02 Mar 2024 12:55:40 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>如何删除您的 Charstar 帐户：分步指南</title>
       <link>https://www.reddit.com/r/automation/comments/1b36vn3/how_to_delete_your_charstar_account_stepbystep/</link>
-      <description><![CDATA[       由   提交/u/Chisom1998_   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/Chisom1998_   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b36vn3/how_to_delete_your_charstar_account_stepbystep/</guid>
       <pubDate>Thu, 29 Feb 2024 18:05:46 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有应用或服务可以整合您银行帐户中的所有利息并将其放入单独的帐户中使用？   由   提交 /u/JethroPrimo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b2kgq3/bank_interest_collection/</guid>
       <pubDate>Wed, 28 Feb 2024 23:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么样的业务工作流程自动化可以让您的生活更轻松？</title>
-      <link>https://www.reddit.com/r/automation/comments/1b2jr03/what_business_workflow_automation_would_make_your/</link>
-      <description><![CDATA[ 由   提交 /u/Ill_Concept_6002   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b2jr03/what_business_workflow_automation_would_make_your/</guid>
-      <pubDate>Wed, 28 Feb 2024 22:36:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
