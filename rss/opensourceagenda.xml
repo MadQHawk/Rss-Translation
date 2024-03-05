@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 05 Mar 2024 00:52:28 GMT</lastBuildDate>
-    <item>
-      <title>MonoGame.SplineFlower</title>
-      <link>https://www.opensourceagenda.com/projects/monogamesplineflower</link>
-      <description><![CDATA[使用触发事件为您的 MonoGame 项目创建美妙平滑的 Bézier-、CatMulRom- 和 Hermite-Splines。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/monogamesplineflower</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>跳转列表扩展器</title>
-      <link>https://www.opensourceagenda.com/projects/jumplist-extender</link>
-      <description><![CDATA[适用于 Windows 上任何程序的自定义跳转列表创建器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jumplist-extender</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:27 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Mar 2024 03:15:03 GMT</lastBuildDate>
     <item>
       <title>Csharp 自定义类</title>
       <link>https://www.opensourceagenda.com/projects/csharp-custom-classes</link>
       <description><![CDATA[.Net Windows 表单应用程序的 C# 自定义类。]]></description>
       <guid>https://www.opensourceagenda.com/projects/csharp-custom-classes</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:27 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:15:03 GMT</pubDate>
     </item>
     <item>
       <title>单实例核心</title>
       <link>https://www.opensourceagenda.com/projects/singleinstancecore</link>
       <description><![CDATA[用于开发单实例应用程序 - 适用于 .NET Core/.NET 5 上的 Windows 应用程序]]></description>
       <guid>https://www.opensourceagenda.com/projects/singleinstancecore</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVS 计算器 Windows 应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/dvs-calculator-windows-app</link>
-      <description><![CDATA[您唯一需要的计算器应用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dvs-calculator-windows-app</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winforms 未付款</title>
-      <link>https://www.opensourceagenda.com/projects/winforms-not-paid</link>
-      <description><![CDATA[客户未付款？向 Windows 窗体添加不透明度，直到它完全消失！灵感来自 https://github.com/kleampa/not-paid]]></description>
-      <guid>https://www.opensourceagenda.com/projects/winforms-not-paid</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aldaviva 暗网</title>
-      <link>https://www.opensourceagenda.com/projects/aldaviva-darknet</link>
-      <description><![CDATA[🌓 为 WPF 和 Windows 窗体标题栏启用本机 Windows 深色模式。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aldaviva-darknet</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:26 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:15:03 GMT</pubDate>
     </item>
     <item>
       <title>超级文本工具箱</title>
       <link>https://www.opensourceagenda.com/projects/supertexttoolbox</link>
       <description><![CDATA[一个免费的文字处理工具箱]]></description>
       <guid>https://www.opensourceagenda.com/projects/supertexttoolbox</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:26 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:15:02 GMT</pubDate>
     </item>
     <item>
-      <title>开放考试套件</title>
-      <link>https://www.opensourceagenda.com/projects/open-exam-suite</link>
-      <description><![CDATA[该项目旨在创建一个开源考试设计器和模拟器，为那些感到安慰的人想要参加任何模拟考试。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/open-exam-suite</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:25 GMT</pubDate>
+      <title>MonoGame.SplineFlower</title>
+      <link>https://www.opensourceagenda.com/projects/monogamesplineflower</link>
+      <description><![CDATA[使用触发事件为您的 MonoGame 项目创建美妙平滑的 Bézier-、CatMulRom- 和 Hermite-Splines。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/monogamesplineflower</guid>
+      <pubDate>Tue, 05 Mar 2024 03:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>跳转列表扩展器</title>
+      <link>https://www.opensourceagenda.com/projects/jumplist-extender</link>
+      <description><![CDATA[适用于 Windows 上任何程序的自定义跳转列表创建器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jumplist-extender</guid>
+      <pubDate>Tue, 05 Mar 2024 03:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>DVS 计算器 Windows 应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/dvs-calculator-windows-app</link>
+      <description><![CDATA[您唯一需要的计算器应用程序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dvs-calculator-windows-app</guid>
+      <pubDate>Tue, 05 Mar 2024 03:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winforms 未付款</title>
+      <link>https://www.opensourceagenda.com/projects/winforms-not-paid</link>
+      <description><![CDATA[客户未付款？向 Windows 窗体添加不透明度，直到它完全消失！灵感来自 https://github.com/kleampa/not-paid]]></description>
+      <guid>https://www.opensourceagenda.com/projects/winforms-not-paid</guid>
+      <pubDate>Tue, 05 Mar 2024 03:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aldaviva 暗网</title>
+      <link>https://www.opensourceagenda.com/projects/aldaviva-darknet</link>
+      <description><![CDATA[🌓 为 WPF 和 Windows 窗体标题栏启用本机 Windows 深色模式。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aldaviva-darknet</guid>
+      <pubDate>Tue, 05 Mar 2024 03:15:01 GMT</pubDate>
     </item>
     <item>
       <title>与 Db 聊天应用程序</title>
       <link>https://www.opensourceagenda.com/projects/chat-app-with-db</link>
       <description><![CDATA[一个聊天应用程序（带有数据库），用 C#（WinForms 和 ADO）开发。网）。]]></description>
       <guid>https://www.opensourceagenda.com/projects/chat-app-with-db</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:25 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:15:00 GMT</pubDate>
     </item>
     <item>
       <title>WinWidgets</title>
       <link>https://www.opensourceagenda.com/projects/winwidgets</link>
       <description><![CDATA[WinWidgets 是一个使用 HTML、CSS 和 JavaScript 进行 Windows 10/11 桌面小组件开发的平台。使用基于 Chromium 项目的前端技术创建您自己的小部件。]]></description>
       <guid>https://www.opensourceagenda.com/projects/winwidgets</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:25 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:15:00 GMT</pubDate>
     </item>
     <item>
       <title>Guptaanmol184图书馆管理系统</title>
       <link>https://www.opensourceagenda.com/projects/guptaanmol184-librarymanagementsystem</link>
       <description><![CDATA[📙 我使用 C#、.NET 和 Windows Forms、MS SQL 数据库制作的图书馆管理系统]]></description>
       <guid>https://www.opensourceagenda.com/projects/guptaanmol184-librarymanagementsystem</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>电报主题</title>
-      <link>https://www.opensourceagenda.com/projects/telegram-themer</link>
-      <description><![CDATA[用于创建电报主题的 Android 应用。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/telegram-themer</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:24 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:15:00 GMT</pubDate>
     </item>
     <item>
       <title>Ookii 对话框 Winforms</title>
       <link>https://www.opensourceagenda.com/projects/ookii-dialogs-winforms</link>
       <description><![CDATA[使用 Microsoft .NET (WinForms) 构建的 Windows 桌面应用程序的超棒对话框]]></description>
       <guid>https://www.opensourceagenda.com/projects/ookii-dialogs-winforms</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:24 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:14:59 GMT</pubDate>
     </item>
     <item>
       <title>简单的视频剪辑器</title>
       <link>https://www.opensourceagenda.com/projects/simple-video-cutter</link>
       <description><![CDATA[基于 Windows 的高效浏览和剪切视频片段的工具]]></description>
       <guid>https://www.opensourceagenda.com/projects/simple-video-cutter</guid>
-      <pubDate>Tue, 05 Mar 2024 00:52:24 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 03:14:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放考试套件</title>
+      <link>https://www.opensourceagenda.com/projects/open-exam-suite</link>
+      <description><![CDATA[该项目旨在创建一个开源考试设计器和模拟器，为那些感到安慰的人想要参加任何模拟考试。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/open-exam-suite</guid>
+      <pubDate>Tue, 05 Mar 2024 03:14:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>电报主题</title>
+      <link>https://www.opensourceagenda.com/projects/telegram-themer</link>
+      <description><![CDATA[用于创建电报主题的 Android 应用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/telegram-themer</guid>
+      <pubDate>Tue, 05 Mar 2024 03:14:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
