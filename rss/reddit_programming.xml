@@ -4,7 +4,84 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 07 Mar 2024 09:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 12:21:35 GMT</lastBuildDate>
+    <item>
+      <title>关于今年如何晋升的 7 个技巧。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8t1b8/7_tips_on_how_to_get_promoted_this_year/</link>
+      <description><![CDATA[ 由   提交/u/CalebMellas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8t1b8/7_tips_on_how_to_get_promoted_this_year/</guid>
+      <pubDate>Thu, 07 Mar 2024 12:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级 NES 俄罗斯方块的错误和故障</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8sprd/bugs_glitches_of_highlevel_nes_tetris/</link>
+      <description><![CDATA[ 由   提交 /u/j909m   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8sprd/bugs_glitches_of_highlevel_nes_tetris/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:48:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布公告：Restate 0.8 已经到来 🎉</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8soq4/release_announcement_restate_08_has_arrived/</link>
+      <description><![CDATA[ 由   提交 /u/stsffap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8soq4/release_announcement_restate_08_has_arrived/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试最佳实践：终极指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8sm58/testing_best_practices_the_ultimate_guide/</link>
+      <description><![CDATA[ 由   提交 /u/Akmandev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8sm58/testing_best_practices_the_ultimate_guide/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机程序员在阅读代码时对形式和意义的违规行为表现出独特的、依赖于专业知识的大脑反应 - 科学报告</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8rpjl/computer_programmers_show_distinct/</link>
+      <description><![CDATA[ 由   提交/u/PenlessScribe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8rpjl/computer_programmers_show_distinct/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>笔记计算器 0.4.0</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8rowr/notecalc_040/</link>
+      <description><![CDATA[ 由   提交/u/bbodi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8rowr/notecalc_040/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>RQ（Redis 队列）作为 Celery 的替代品来管理后台作业</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8re29/rq_redis_queue_as_an_alternative_to_celery_for/</link>
+      <description><![CDATA[ 由   提交/u/soap94  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8re29/rq_redis_queue_as_an_alternative_to_celery_for/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从拥抱面孔中微调法学硕士</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8r9e6/how_to_finetune_an_llm_from_hugging_face/</link>
+      <description><![CDATA[ 由   提交/u/Coolkid-0329  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8r9e6/how_to_finetune_an_llm_from_hugging_face/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用矢量数据库执行数据分析的高级方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8r8c5/advanced_way_to_perform_data_analysis_with_a/</link>
+      <description><![CDATA[ 由   提交/u/Coolkid-0329  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8r8c5/advanced_way_to_perform_data_analysis_with_a/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 中的错误管理以及支持它的库</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8qt3d/error_management_in_rust_and_libs_that_support_it/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8qt3d/error_management_in_rust_and_libs_that_support_it/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解如何在 203 秒内创建 Dockerfile</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8qhyi/learn_how_to_create_a_dockerfile_in_203_seconds/</link>
+      <description><![CDATA[ 由   提交/u/Mr_LA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8qhyi/learn_how_to_create_a_dockerfile_in_203_seconds/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:28:49 GMT</pubDate>
+    </item>
     <item>
       <title>回顾会议揭秘</title>
       <link>https://www.reddit.com/r/programming/comments/1b8pyem/retrospective_meetings_demystified/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[ 由   提交/u/alpaylan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b8le1n/solving_algorithmic_problems_in_the_wild/</guid>
       <pubDate>Thu, 07 Mar 2024 04:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>距离2038年仅有14年</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8kqji/2038_is_only_14_years_away/</link>
-      <description><![CDATA[ 由   提交 /u/Spirited_Horror6603   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8kqji/2038_is_only_14_years_away/</guid>
-      <pubDate>Thu, 07 Mar 2024 03:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>GTA VI ASCII 预告片</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8kh9g/gta_vi_trailer_in_ascii/</link>
-      <description><![CDATA[ 由   提交/u/Straight_Tone_8059   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8kh9g/gta_vi_trailer_in_ascii/</guid>
-      <pubDate>Thu, 07 Mar 2024 03:42:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>David Hansson 谈致力于 Windows</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8gmjj/david_hansson_on_committing_to_windows/</link>
-      <description><![CDATA[ 由   提交/u/Krakenops744   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8gmjj/david_hansson_on_committing_to_windows/</guid>
-      <pubDate>Thu, 07 Mar 2024 00:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版 190 发行说明</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8e5cg/release_notes_for_safari_technology_preview_190/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8e5cg/release_notes_for_safari_technology_preview_190/</guid>
-      <pubDate>Wed, 06 Mar 2024 23:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模有效编程——适合所有人的技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8e09c/effective_programming_at_scale_techniques_for/</link>
-      <description><![CDATA[ 由   提交/u/d166e8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8e09c/effective_programming_at_scale_techniques_for/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:55:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的国际象棋项目，我希望听到一些建议</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8dywm/rate_my_chess_project_and_i_wish_hear_some_advice/</link>
-      <description><![CDATA[带有 GUI 的 C# 国际象棋游戏包含所有棋子可用走法的照明以及国际象棋的所有规则   由   提交 /u/AbdoViper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8dywm/rate_my_chess_project_and_i_wish_hear_some_advice/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 PGVector 之上使用 DuckDB 进行矢量数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8dr4x/vector_databasing_with_duckdb_on_top_of_pgvector/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8dr4x/vector_databasing_with_duckdb_on_top_of_pgvector/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您的 GitHub 页面动态生成 LeetCode 统计信息</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8d5ud/dynamically_generated_leetcode_stats_for_your/</link>
-      <description><![CDATA[ 由   提交 /u/Intelligent_Pear3282   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8d5ud/dynamically_generated_leetcode_stats_for_your/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计软件最重要的目标是可理解性</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8b4jc/the_most_important_goal_in_designing_software_is/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8b4jc/the_most_important_goal_in_designing_software_is/</guid>
-      <pubDate>Wed, 06 Mar 2024 21:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 TypeScript 5.4</title>
-      <link>https://www.reddit.com/r/programming/comments/1b89wku/announcing_typescript_54/</link>
-      <description><![CDATA[ 由   提交/u/DanielRosenwasser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b89wku/announcing_typescript_54/</guid>
-      <pubDate>Wed, 06 Mar 2024 20:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对症状而非原因发出警报</title>
-      <link>https://www.reddit.com/r/programming/comments/1b89oqk/alert_on_symptoms_not_causes/</link>
-      <description><![CDATA[ 由   提交/u/srvaroa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b89oqk/alert_on_symptoms_not_causes/</guid>
-      <pubDate>Wed, 06 Mar 2024 20:04:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

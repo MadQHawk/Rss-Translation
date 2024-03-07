@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 09:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 12:22:01 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个开源视觉审查和测试平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</link>
+      <description><![CDATA[       由   提交/u/EvilSuppressor  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在要发布到公共领域的项目中使用 SIL 开放字体许可证下的字体吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b8rtaa/can_i_use_a_font_under_sil_open_font_license_in_a/</link>
+      <description><![CDATA[Open Sans 是根据 SIL 开放字体许可证发布的，它比 CC0 施加了更多的限制。如果我将在 CC0 下发布包含此字体字形的作品（作为图像的文档），是否意味着我试图在公共领域下发布这些字形，而许可证不允许？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1b8rtaa/can_i_use_a_font_under_sil_open_font_license_in_a/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b8rtaa/can_i_use_a_font_under_sil_open_font_license_in_a/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:54:15 GMT</pubDate>
+    </item>
     <item>
       <title>Penpot：开源设计工具（Figma/Adobe XD 的替代品）</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8n7fo/penpot_an_open_source_design_tool_alternative_to/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>开放式接口 - 使用法学硕士自助操作您的计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</link>
-      <description><![CDATA[      开放接口 - 使用法学硕士操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github: https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      开放接口 - 使用法学硕士操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github：https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</guid>
       <pubDate>Wed, 06 Mar 2024 22:10:56 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>用于创建 VBox 可启动系统映像的 Macrium 替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8207j/macrium_alternative_to_create_vboxbootable_system/</link>
-      <description><![CDATA[自从 Macrium Reflect 免费版退役以来，我一直在连续几个月研究一种可能的开源替代方案，以替代其改变游戏规则的虚拟化功能这是通过 VirtualBox 使用名为 viBoot 的程序实现的。如果有人记得这个程序或者有机会在任何程度上使用它，你可能会记得它是多么酷。不管出于什么原因，在我开始使用 VirtualBox 之前，我个人在 VirtualBox 中经历了最困难的时期，多年来一直出现错误，这又是另一天的长篇故事了。 重要的是，我终于让 viBoot加载我的 Macrium Reflect 系统映像之一的虚拟化实例，我非常兴奋，因为这可以节省时间并减少 SSD 磨损和损坏。如果我需要恢复的图像丢失了损坏的图像中的关键内容，那么我可能必须在系统图像之间返回。理想情况下，当系统还原是您唯一剩下的选择时，情况不会是这样，但实际上，您永远不能指望它。我会定期创建系统备份，但如果我必须使用系统备份，我会这样做，因为我期望我可能会或可能不记得或已保存/记录自该映像以来所做的更改。老实说，我确实主张将虚拟化作为一种​​解决方案来填补这方面的空白。 问题是，Macrium Reflect 是我至少个人使用过的唯一可以实现此目的的程序它可以使用 VirtualBox 来启动整个系统映像。 Reflect Free 退役后，我打开了自动更新，即使我想也无法返回到可以启动免费版本的上一个版本。即使我可以，Windows 在没有它的情况下更新的时间越长，漏洞和漏洞就会开始发挥作用。就在那时我开始想好吧...... 这就是nerf或nuthin&#39;。哦等等抱歉，用词错误。它是开源的或者没什么。 😆😆 在这次经历之后，我或多或少完全退出了第 3 方应用程序，只有在开源的情况下才安装新工具，因为至少我可以摆脱它。这让我想到，嘿，如果 Macrium 可以在 virtualbox 中启动系统映像，那么从开源的角度来看，也许我可以弄清楚他们是如何做到的。实际上，现在可能有另一个应用程序在执行此操作，但我必须弄清楚我需要什么文件类型。 50 多个书签之后，很难从教程和文档中判断程序是否会创建VirtualBox 可启动的文件。我怀疑我需要的第一种文件类型是 .IMG 文件，但是哪些程序可以生成此文件？我通过阅读了解到这是软盘时代使用的较旧的文件类型。另一个候选者可能是我不太了解的 .WIM 文件，或者是好的 ol&#39; VDI 或 VHID 文件（如果有创建这些文件的映像解决方案）。 （长镜头） 如果有人仍然和我一起写这篇长篇文章，非常感谢。我写这篇文章是希望至少有人在某个地方有过类似的想法，并找到可能的解决方案。    由   提交/u/Steamtrigger42  [链接] [评论]]]></description>
+      <description><![CDATA[自从 Macrium Reflect 免费版退役以来，我一直在连续几个月研究一种可能的开源替代方案，以替代其改变游戏规则的虚拟化功能这是通过 VirtualBox 使用名为 viBoot 的程序实现的。如果有人记得这个程序或者有机会在任何程度上使用它，你可能会记得它是多么酷。不管出于什么原因，在我开始使用 VirtualBox 之前，我个人在 VirtualBox 中经历了最困难的时期，多年来一直出现错误，这又是另一天的长篇故事了。 重要的是，我终于让 viBoot加载我的 Macrium Reflect 系统映像之一的虚拟化实例，我非常兴奋，因为这可以节省时间并减少 SSD 磨损和损坏。如果我需要恢复的映像丢失了损坏映像中的关键内容，那么我可能必须在系统映像之间返回，这会导致撕裂。理想情况下，当系统还原是您唯一剩下的选择时，情况不会是这样，但实际上，您永远不能指望它。我会定期创建系统备份，但如果我必须使用系统备份，我会这样做，因为我期望我可能会或可能不记得或已保存/记录自该映像以来所做的更改。老实说，我确实主张将虚拟化作为一种​​解决方案来填补这方面的空白。 问题是，Macrium Reflect 是我至少个人使用过的唯一可以实现此目的的程序它可以使用 VirtualBox 来启动整个系统映像。 Reflect Free 退役后，我打开了自动更新，即使我想也无法返回到可以启动免费版本的上一个版本。即使我可以，Windows 在没有它的情况下更新的时间越长，漏洞和漏洞就会开始发挥作用。就在那时我开始想好吧...... 这就是nerf或nuthin&#39;。哦等等抱歉，用词错误。它是开源的或者没什么。 😆😆 在这次经历之后，我或多或少完全退出了第 3 方应用程序，只有在开源的情况下才安装新工具，因为至少我可以摆脱它。这让我想到，嘿，如果 Macrium 可以在 virtualbox 中启动系统映像，那么从开源的角度来看，也许我可以弄清楚他们是如何做到的。实际上，现在可能有另一个应用程序在执行此操作，但我必须弄清楚我需要什么文件类型。 50 多个书签之后，很难从教程和文档中判断程序是否会创建VirtualBox 可启动的文件。我怀疑我需要的第一种文件类型是 .IMG 文件，但是哪些程序可以生成此文件？我通过阅读了解到这是软盘时代使用的较旧的文件类型。另一个候选者可能是我不太了解的 .WIM 文件，或者是好的 ol&#39; VDI 或 VHID 文件（如果有创建这些文件的映像解决方案）。 （长镜头） 如果有人仍然和我一起写这篇长篇文章，非常感谢。我写这篇文章是希望至少有人在某个地方有过类似的想法，并找到可能的解决方案。    由   提交/u/Steamtrigger42  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8207j/macrium_alternative_to_create_vboxbootable_system/</guid>
       <pubDate>Wed, 06 Mar 2024 15:08:05 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[使用 Windows Phone Link 和 kdeconnect 一段时间了，但这需要大量资源。但现在我发现了这个 - (https://github.com/thevindu-w/clip\_share\_client )。 只是分享这个，因为它让我的生活变得更轻松，而且您可以按需运行它。 （我与作者没有任何关系。）感谢贡献者。   由   提交/u/digga-wat  /u/digga-wat  reddit.com/r/opensource/comments/1b7w0tb/windows_phone_link_alternative_just_found_the/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b7w0tb/windows_phone_link_alternative_just_found_the/</guid>
       <pubDate>Wed, 06 Mar 2024 09:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>阻止另一个程序在预定时间内运行的程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b7v1m1/program_to_block_another_program_from_running_in/</link>
-      <description><![CDATA[是否有开源 Windows 程序可以让我阻止某些程序在预定时间运行。例如，我想阻止 Firefox.exe 从 2100 到 2200 每天运行。 先谢谢您！   由   提交 /u/GladeHeart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b7v1m1/program_to_block_another_program_from_running_in/</guid>
-      <pubDate>Wed, 06 Mar 2024 08:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Podlite：一种通用的基于块的标记语言 - 开源规范（艺术许可证 2.0）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b7v01r/podlite_a_universal_blockbased_markup_language/</link>
-      <description><![CDATA[       由   提交/u/zagap  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b7v01r/podlite_a_universal_blockbased_markup_language/</guid>
-      <pubDate>Wed, 06 Mar 2024 08:47:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
