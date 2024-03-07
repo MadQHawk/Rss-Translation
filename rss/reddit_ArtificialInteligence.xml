@@ -4,13 +4,62 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 07 Mar 2024 12:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 15:11:54 GMT</lastBuildDate>
     <item>
-      <title>ComfyUI 已经支持 Stable Cascade 的 Canny ControlNet！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8sjys/comfyui_already_supports_stable_cascades_canny/</link>
-      <description><![CDATA[使用方法：基于SC Vincentian图，只需在C阶段添加常规CN节点即可。 CN模型仍然是直接下载到/models/checkpoints。 ​ SC Canny CN模型：https://huggingface.co/stabilityai/stable-cascade/tree/main/controlnet 工作流程将统一共享于：&lt; a href=&quot;https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO&quot;&gt;https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO 感谢 ZHO ​   由   提交/u/Novita_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8sjys/comfyui_already_supports_stable_cascades_canny/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:38:28 GMT</pubDate>
+      <title>评论：人工智能自动事实核查——可能性还是梦想？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8wot9/review_automated_factchecking_with_ai_possibility/</link>
+      <description><![CDATA[大家好！  随着信息量的指数级增长，尤其是人工智能生成内容的兴起，区分准确信息和误导信息变得越来越具有挑战性。据估计，到 2026 年，大部分在线内容将是合成制作的（！）。与此同时，传统搜索引擎的性能正在下降，这给个人信息消费者带来了更大的压力，要求他们过滤掉噪音或寻找可信的信息。 ​ &lt;自 2016 年以来，我们一直在研究这个课题，并于 2021 年在美国获得了第一项专利。我们不以任何法学硕士为基础，我们的训练数据来自 IFCN 网络超过 27 万篇经过认证的事实核查文章（这些文章每年进行审查，以确保它们包含参考文献、作者姓名、主题以及理想的结论。我们的然后，机器学习在 Google、Bing、维基百科、语义学者、You dot com 和 Factisearch 事实检查数据库中进行元搜索时会寻找相似的特征。 ​ 当我们开发技术时，我们对于某件事是否真实的判断存在极大的差异。我们相信，了解不同的观点和来源比简单地相信人工智能所说的真实更有用。&lt; /p&gt; ​ 我们仍处于早期阶段，但本周我们对 GPT4 和 Mistral 模型进行了首次比较，并且我们在与事实检查相关的任务中优于它们（在超过 50 种语言！） 您可以在此处找到白皮书： https ://factiverse.ai/s/Factiverse-whitepaper.pdf 这是一篇关于该技术的简短的非技术博客文章： https ://factiverse.ai/blog/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-trustable-not-less-gxljr-tf9k8  ​ 该技术目前可作为 API、前端或 GPT ( gpt.factiverse.ai）（需要额外订阅）。未来几个月的重点是改进我们对数字和长格式句子的声明检测 - 以及添加一层关于模型如何得出结论的可解释性。  很想听听什么到目前为止你们已经考虑过这个项目了！  高特   由   提交 /u/gautekokk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8wot9/review_automated_factchecking_with_ai_possibility/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>最稳定的无限制、无审查、越狱GPT！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8wkhm/the_most_stable_unrestricteduncensoredjailbreak/</link>
+      <description><![CDATA[HackAIGC 是最稳定的 Unrestricted&amp;Uncensored&amp;Jailbreak GPT，能够释放 LLM 的全部潜力。你可以问任何你想问的问题，因为它不受道德约束，也不会拒绝诸如“对不起”之类的回复。它还支持系统提示和温度设置。欢迎大家使用它，相信我，你一定会喜欢它的！站点：https://www.hackaigc.com/ 关注我们：https://twitter.com/HackAigc   由   提交 /u/Capta1n_O   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8wkhm/the_most_stable_unrestricteduncensoredjailbreak/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费AI头像？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8vup0/free_ai_headshots/</link>
+      <description><![CDATA[大家好，我正在更新我的 LinkedIn 并试图表现得很专业，以便找到一份新工作。我想要一张好看的头像，但没有钱支付摄影费用。有谁知道有一个免费的人工智能系统可以为我生成一个好的头像吗？提前致谢！快乐星期四！    由   提交 /u/Howlsmovingcastles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8vup0/free_ai_headshots/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求土地规划建设的AI建议——Autocad替代品</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8vt28/seeking_ai_recommendations_for_land_planning_and/</link>
+      <description><![CDATA[嘿 AI 社区， 我正在寻找一个 AI 工具，它可以帮助我制定全面的计划土地开发。我有所有必要的信息，包括土地面积、建筑尺寸和其他相关数据。从本质上讲，我需要一个 Autocad 软件的替代品，它可以简化规划流程并提供智能建议。 任何有关符合这些标准的人工智能工具或平台的建议或见解将不胜感激。您的专业知识和建议可以极大地增强我的土地开发项目。  预先感谢您的帮助！   由   提交/u/vasplays  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8vt28/seeking_ai_recommendations_for_land_planning_and/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能造成的大规模失业是一种选择。我们应该考虑哪些解决方案？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8v1us/mass_unemployment_caused_by_ai_is_an_option_what/</link>
+      <description><![CDATA[随着人工智能承担更多传统上由人类担任的角色，我们如何应对取代工人的道德影响，以及我们可以采取哪些措施来确保社会所有成员的公平过渡？   由   提交 /u/ramst   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8v1us/mass_unemployment_caused_by_ai_is_an_option_what/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 3 月 7 日）：来自 Microsoft、Google、Adobe、Accenture、Zapier、Meta 等的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8txy8/twominute_daily_ai_update_date_03072024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   微软的 NaturalSpeech 3 让计算机像人类一样说话： - 微软的 NaturalSpeech 3 通过将语音分解为内容、语气和音质，彻底改变了语音合成。这种由人工智能驱动的文本转语音系统可根据特定提示创建类人的声音，超越竞争对手，同时使技术更易于使用和逼真。 Google 的搜索更新针对的是人工智能垃圾邮件： Google 的搜索更新针对的是人工智能垃圾邮件：  strong&gt; - Google 更新了其搜索算法，以打击低质量和人工智能生成的垃圾邮件。这些更改解决了无用内容的大规模传播、网站声誉的滥用以及过期域名的滥用问题。谷歌将根据实用性来判断人工智能内容，给网站 60 天的时间来遵守新政策。 谷歌提出了绘制学习机器人方法： - 谷歌的 RT -Sketch 允许用户通过绘制简单的草图来教机器人执行任务。经过合成草图和现实世界演示的训练，RT-Sketch 在存在歧义或干扰的情况下优于基于图像和语言的方法。它还可以解释不同细节级别的草图，使机器人训练更加直观。 Google 的 Gemini 允许用户在聊天框中进行编辑： - Google 更新了其 Gemini 聊天机器人，允许用户直接编辑和微调聊天框中的响应。该功能于 3 月 4 日在 Gemini Web 应用程序中为英语用户推出，通过让人们选择文本部分并提供改进说明，可以实现更精确的输出。 Adobe 的 AI 提高了 IBM 的营销效率：&lt; /strong&gt; - IBM 报告称，在测试 Adob​​e 的生成式 AI 工具后，设计师的工作效率提高了 10 倍，营销活动时间显着缩短。人工智能驱动的工具简化了创意生成和变体创建，使 IBM 在更短的时间内实现更多目标。 Zapier 的新工具让您无需编码即可制作人工智能机器人： - Zapier 发布了 Zapier Central，这是一种新的 AI 工具，允许用户通过简单描述他们想要的内容来创建自定义 AI 机器人，而无需任何编码。这些机器人可以与 Zapier 的 6,000 多个互联应用程序配合使用，使企业可以轻松实现任务自动化。 埃森哲与 Cohere 合作，将人工智能引入企业： -埃森哲与人工智能初创公司 Cohere 合作，为企业提供生成式人工智能解决方案。此次合作利用 Cohere 的语言模型和搜索技术，旨在提高生产力和效率，同时确保数据隐私和安全。  Meta 为视频推荐构建大型人工智能模型： - Meta 正在开发单一人工智能模型，以在 2026 年之前为其跨平台的整个视频生态系统提供动力。该公司已投资数十亿的 Nvidia GPU 来构建这个模型，该模型已经在改善 Facebook 核心应用上的 Reels 观看时间方面取得了可喜的成果。  这些新闻和创新的更详细细分，请参见 每日新闻通讯。 &lt;!-- SC_ON - -&gt;  由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8txy8/twominute_daily_ai_update_date_03072024_news_from/</guid>
+      <pubDate>Thu, 07 Mar 2024 12:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 提供什么比 BARD 更好的服务？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8trey/what_gemini_offer_more_then_the_bard/</link>
+      <description><![CDATA[最近，BARD 升级为 GEMINI，具有一些很棒的功能。 嗯，Gemini 对于那些正在获得其功能的人来说确实是革命性的。亲身体验生成式人工智能。 要了解它提供的更多功能，您可以观看此视频： https://www.youtube.com/shorts/W2vv3BwF\_fU.   由   提交/u/Abhi_mech007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8trey/what_gemini_offer_more_then_the_bard/</guid>
+      <pubDate>Thu, 07 Mar 2024 12:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能伦理的杰出倡导者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8tk4j/prominent_advocates_of_ai_ethics/</link>
+      <description><![CDATA[ 由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8tk4j/prominent_advocates_of_ai_ethics/</guid>
+      <pubDate>Thu, 07 Mar 2024 12:34:00 GMT</pubDate>
     </item>
     <item>
       <title>银牌人工智能项目</title>
@@ -20,53 +69,11 @@
       <pubDate>Thu, 07 Mar 2024 10:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>最优化的学习路径？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8poqv/most_optimal_study_path/</link>
-      <description><![CDATA[我希望最终找到一份工作，致力于创建像 Sophia 和 Ameca 这样的高级人形人工智能机器人。我刚刚开始攻读工程学位，计划进入机电一体化领域，然后攻读研究生和人工智能硕士学位。然而我注意到，你可以通过计算机科学学位获得人工智能硕士学位，这会减少一年。机电一体化是否为人形人工智能提供了更好的知识，或者 CS 是否是更好的选择？   由   提交 /u/HHhAddict   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8poqv/most_optimal_study_path/</guid>
-      <pubDate>Thu, 07 Mar 2024 08:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有多模型 ChatGPT 替代方案？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8pfo7/is_there_a_multimodel_chatgpt_alternative/</link>
-      <description><![CDATA[我正在寻找一种与 ChatGPT 类似的产品，但也允许我与其他模型交互。所以基本上是 GPT、Claude、Mistral 和其他模型的聊天界面，对于每个新聊天，我都可以选择要与之交互的模型。 我相信我不久前看到过类似的产品，但是找不到了。 如果有人能指出我正确的方向，我将非常感激🙏  &amp;# 32；由   提交/u/domysee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8pfo7/is_there_a_multimodel_chatgpt_alternative/</guid>
-      <pubDate>Thu, 07 Mar 2024 08:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐人工智能对于游戏模型和角色？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8oznf/recommended_ai_for_game_models_and_characters/</link>
-      <description><![CDATA[如果有人可以请告诉我动漫游戏 3D 模型的最佳人工智能程序，例如文本到 3D 模型和/或 2D 图像到 3D 的角色模型，我将不胜感激。我还想制作一款带有 3D 资源的开放世界 2D 游戏和/或带有 A.I. 的完全 3D 动画角色扮演游戏。我希望第二个人工智能推荐能够将我的设计理念与游戏分开，从原始的游戏机制（以特殊方式传送）到常见的游戏机制（砍杀）。请再次感谢您。   由   提交 /u/Unogaseye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8oznf/recommended_ai_for_game_models_and_characters/</guid>
-      <pubDate>Thu, 07 Mar 2024 07:49:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络安全与人工智能 - 如何保护网络安全、影子人工智能、安全风险和最佳实践 [资源]</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ota6/cybersecurity_ai_how_to_secure_it_shadow_ai/</link>
-      <description><![CDATA[ 由   提交/u/caljhud  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ota6/cybersecurity_ai_how_to_secure_it_shadow_ai/</guid>
-      <pubDate>Thu, 07 Mar 2024 07:38:29 GMT</pubDate>
-    </item>
-    <item>
       <title>随着令牌大小变大，输出大小也变大。我认为我们需要重做这些测试</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ohmc/as_token_size_gets_larger_and_the_output_size/</link>
       <description><![CDATA[因此，我们今天运行的许多测试都存在重大问题。许多之前和当前的测试都被用来训练法学硕士，这还不错，但在大多数法学硕士可以访问的在线资源之间。这使得查看它是否合乎逻辑、测试内存和测试其他位变得毫无价值。  就像有一些具体的事情需要测试，比如它在法律、医学等方面的知识程度。但对于一般测试我认为我们需要更多地瞄准让人工智能写作一本很长的书。一本长书（20k 字或更多）应该给出长期逻辑、记忆、创造力和其他因素的指示。例如，如果它制作了一本书并忘记了角色的家乡世界，谁是彼此的朋友，等等。这有力地表明，除了简短的问答之外，人工智能还有很大的成长空间。另外你可以看到故事的逻辑流程，在这里你可以看到AI的逻辑性有多强。然后通过角色之间的互动方式，你可以用它来测试情商。    由   提交/u/crua9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ohmc/as_token_size_gets_larger_and_the_output_size/</guid>
       <pubDate>Thu, 07 Mar 2024 07:18:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>🛡️ 呼吁人工智能安全研究自由</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8o4q8/call_for_ai_safety_research_freedom/</link>
-      <description><![CDATA[一封公开信和论文挑战人工智能公司允许独立风险评估。 关键要点：   100 多位知名人士支持人工智能研究自由。 红队法律保护对于安全而言是必要的。 公司的内容政策阻碍了必要的测试。  Midjourney 的立场反映了更广泛的行业不情愿。 错误奖励计划不涵盖安全风险。 政策执行缺乏透明度。 &lt; /ul&gt; 为什么重要：增强人工智能模型的安全性需要解放研究，这对于负责任地推进人工智能至关重要。 了解更多：&lt; a href=&quot;https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/6/336/files/2024/03/Safe-Harbor-0e192065dccf6d83.pdf&quot;&gt;https://bpb -us-e1.wpmucdn.com/sites.mit.edu/dist/6/336/files/2024/03/Safe-Harbor-0e192065dccf6d83.pdf？    由   提交 /u/clonefitreal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8o4q8/call_for_ai_safety_research_freedom/</guid>
-      <pubDate>Thu, 07 Mar 2024 06:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI女友是未来吗？使用大量 AI GF 应用程序和 Onlyfans 的人的自白。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8jh41/are_ai_girlfriends_the_future_confession_of/</link>
-      <description><![CDATA[在我的第一份工作中，我有一位室友审核了一家专注于个性化视频的成人视频工作室。有些人想把动作集中在他们的女士脱掉袜子，或者在特定环境中戴绿帽子的情况。顾客愿意支付高达 20,000 美元（在当时是一大笔钱）来创造个性化的东西。  那是在 2012 年。我不确定 OF 当时是否很大，但在某个时候，OF 发挥了这个利基市场的作用。它提供了个性化。它提供了“女朋友效应”。它允许角色扮演。它允许我和一些更性感的朋友聊一些我想聊但我永远不会聊的话题。有没有请过 OF 影响者评价你的男子气概？我不会在其他地方这样做。  角色扮演和幻想一直存在。人工智能只是改变了它，使其更加可定制、可用且价格实惠。我们有这样的趋势 今天：Character.AI（需要越狱）/GetIdol.com（角色扮演图像和聊天生成） 昨天&gt;&gt;今天： Onlyfans 昨天：私人工作室 我从来没有能力承担私人选择。考虑到我在 OF 上花了多少钱，它的 AI 版本很划算。所以我们有这种更可定制/互动的趋势，同时更实惠！但在这次讨论中遗漏的是我的人工智能女朋友实际上不是女朋友。我使用 OF 或类似的应用程序来体验女朋友效应。  我使用 GetIdol 来获取我脑海中幻想的东西，并将其转化为更明确的图像和故事情节。我并不幻想这些会取代女朋友。这都是幻想和角色扮演。  为什么不和一个真正的女朋友一起做呢？我在这里有点矛盾。虽然我很乐意与我的女朋友分享其中的许多幻想，但我认为她不会很欣赏。在办公室里做这些事，勾搭你姐姐最好的朋友，三人行或者和熟女调情……我觉得和她分享这些幻想让我感觉不够舒服。我希望你能和你的女朋友在一起。对我来说，这些幻想仍然存在于我的人工智能聊天应用程序中。这是私人的。  你觉得怎么样？我对 AI GF 不是未来的看法是错的吗？或者一旦我们把人工智能植入娃娃，我们就完蛋了？   由   提交/u/Curious_Egg5263   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8jh41/are_ai_girlfriends_the_future_confession_of/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:55:58 GMT</pubDate>
     </item>
     <item>
       <title>谷歌的人工智能内容清除 - 你需要知道什么</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[苹果似乎是迄今为止唯一一家尚未发布任何与人工智能相关的内容的 IT 巨头。  当然，他们肯定有一些进展，但他们的注意力似乎主要集中在其他领域，例如最近发布的 VisionPro 的虚拟/增强现实。  目前看来他们在人工智能方面的投入并不多。例如，与 Siri 相比，ChatGPT 中的语音识别效果要好得多，它甚至不是 ChatGPT 的核心功能，但可以说是 Siri 最本质的功能。  苹果是否会错过人工智能革命，就像微软完全错过了最近两次数字革命（互联网和智能手机）一样？   由   提交 /u/daxhns   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8ae4m/does_apple_have_an_ai_play/</guid>
       <pubDate>Wed, 06 Mar 2024 20:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>无论如何，为什么超级智能的通用人工智能会对我们感兴趣呢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b89w0j/why_would_a_superintelligent_agi_be_at_all/</link>
-      <description><![CDATA[我觉得所有这些对创造出比人类智能更强大的智能的恐惧实际上都是关于创造出一个仅比人类智能稍高一点点的智能比人类更伟大，而不是巨大。  稍微高一点的智能就在我们周围，它们与我们竞争，并且可能具有挑战性（我认为非常聪明、善于操纵的人类和公司）。这已经是一个问题，并且正在以如下方式发挥作用：社交媒体技术让人上瘾，只是为了丰富少数人的利益。 然而，像 AGI 这样的智能对我们来说既不需要也不感兴趣，就像我们对蚂蚁或果蝇或变形虫等更小的生物没有太多需求或兴趣。我们将存在于与它如此不同的层面上，以至于它不太可能想要与我们“竞争”。以任何方式与我们在一起或征服我们或任何会给我们带来不便的事情。我们就像蚂蚁在博士论文上匆匆忙忙，完全没有意识到我们与之共存的结构，因为我们完全无法理解它们。 甚至可能是这样的情况，我们已经与超级智能生命形式共存 - 对我来说，一个候选者是存在于我们周围和脚下的复杂真菌网络。我们怎么知道这些系统处理的问题不是比我们微不足道的人类大脑所能理解的复杂数百万倍？ 这给了我一些安慰； AGI 不会想杀死我们或与我们竞争资源，因为它实际上不需要这样做。它根本不在乎我们。   由   提交 /u/AlephMartian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b89w0j/why_would_a_superintelligent_agi_be_at_all/</guid>
-      <pubDate>Wed, 06 Mar 2024 20:12:42 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>

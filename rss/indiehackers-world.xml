@@ -4,7 +4,85 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 07 Mar 2024 12:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 15:13:38 GMT</lastBuildDate>
+    <item>
+      <title>他用来启动一家软件公司的技术堆栈（以及它的成本是多少）</title>
+      <link>https://feed.indiehackers.world/post/386decabea</link>
+      <description><![CDATA[在此处查看完整帖子：https://www.Founderstacks.co/blog/maciej-cupial 
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/386decabea</guid>
+      <pubDate>Thu, 07 Mar 2024 13:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找兼职增长黑客</title>
+      <link>https://feed.indiehackers.world/post/8fb80c0a83</link>
+      <description><![CDATA[您可以在这里找到整个开头：https://bit.ly/4c5Tr8v。期待您的回复！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8fb80c0a83</guid>
+      <pubDate>Thu, 07 Mar 2024 13:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的启动失败：我正在关闭我的应用程序 🙄</title>
+      <link>https://feed.indiehackers.world/post/29013c5dff</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/29013c5dff</guid>
+      <pubDate>Thu, 07 Mar 2024 13:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔恩·埃尔德 (Jon Elder) 如何辞去工作并建立了一家价值七位数的电子商务企业</title>
+      <link>https://feed.indiehackers.world/post/9cf5b2b35f</link>
+      <description><![CDATA[出售公司后，乔恩休了一年假来放松并与家人共度时光。如今，Jon 负责运营 Black Label Advisor，为亚马逊卖家提供咨询服务。 
+正如乔恩所证明的那样，成为一名成功的在线企业家并不容易，但回报可能会改变生活。
+如果您喜欢乔恩的故事，请查看其他一些故事，例如David Holmes 的故事或&lt; a href=&quot;https://flipmysite.com/george-moulos/&quot;&gt;乔治·莫洛斯。
+&lt;块引用&gt;
+👉订阅翻转我的网站以获取更多像这样鼓舞人心的成功故事。
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9cf5b2b35f</guid>
+      <pubDate>Thu, 07 Mar 2024 13:32:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>别有压力，伙计们，“12 个月内达到 100 万美元的 AAR”是非常罕见的</title>
+      <link>https://feed.indiehackers.world/post/72e5f1c8a1</link>
+      <description><![CDATA[只有 4% 的初创公司有一天的年收益达到 100 万美元
+这需要时间：
+
+平均 7/8 个月内达到 833 美元 MRR（10,000 美元 AAR）
+平均 15/16 个月内达到 8333 美元的 MRR（10 万美元的 AAR）
+
+继续建设，停止与他人比较🫶
+来源：Google 和 https://baremetrics.com/blog/how-fast -saas-companies-hit-arr-里程碑
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/72e5f1c8a1</guid>
+      <pubDate>Thu, 07 Mar 2024 13:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Micro SaaS 创始人从事朝九晚五的工作？是的，这是可能的。</title>
+      <link>https://feed.indiehackers.world/post/504689da96</link>
+      <description><![CDATA[
+Vercel 我使用 Vercel 托管我的网络应用程序。您将提交推送到 GitHub 存储库，然后他们进行部署。就这么简单。
+Next.js 的 NextAuth 身份验证终于变得简单
+PostgreSQL 是我最喜欢的开源 SQL 数据库
+
+为了快速启动您的个人创业之旅，我构建了 Shipped.club Next.js Startup Boilerplate，其中包含您构建所需的所有内容并快速推出您的产品。
+节省数周的编码时间并正确启动您的产品。检查一下。
+我希望这些信息对您有用，如果您有任何疑问，请通过 Twitter/X 或 通过电子邮件 🙌
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/504689da96</guid>
+      <pubDate>Thu, 07 Mar 2024 12:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建用于无服务器 cron 作业和计划函数调用的产品</title>
+      <link>https://feed.indiehackers.world/post/de9acf899d</link>
+      <description><![CDATA[您是否在无服务器应用程序/架构中执行 Cron/后台作业？您面临哪些挑战？
+我正在构建一个产品（https://cronatlas.com/），可以帮助您运行 cron 作业和任务。可靠地调度函数调用。我很乐意直接与您交谈并手动引导您加入。
+我希望获得第一手反馈并构建一款为您提供巨大价值的产品。目前有一些功能正在开发中（例如用于以编程方式管理作业的客户端 API）。我很乐意让早期创新者尝试一下，并希望通过他们的反馈来塑造产品的发展。
+如果您就是这样，请发表评论，我也可以给您发送电子邮件进行跟进。
+您可以通过与您的朋友/同事分享来帮助我扩大影响范围。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/de9acf899d</guid>
+      <pubDate>Thu, 07 Mar 2024 12:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>我的第一个 AI 应用程序在 13 天内创造了收入：方法如下</title>
       <link>https://feed.indiehackers.world/post/4739fdc7a6</link>
@@ -88,110 +166,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f73be6daff</guid>
       <pubDate>Thu, 07 Mar 2024 08:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建多列布局 Tailwind CSS</title>
-      <link>https://feed.indiehackers.world/post/693904ce50</link>
-      <description><![CDATA[组合组件
-这些组件与 Tailwind CSS 中的实用程序类的组合产生了干净、响应灵敏的多列布局。侧边栏和目录可根据需要进行访问，确保主要内容始终成为焦点，同时在屏幕空间足够时提供额外的导航工具。
-结束 tt
-采用 Tailwind CSS 及其实用至上的理念简化了复杂的响应式设计的制作。就像拥有一根魔杖一样，一旦您掌握了咒语（或者在我们的例子中是类）的窍门，您就可以毫不费力地变出不仅看起来不错而且可以在任何设备上无缝运行的布局。
-不要将 Tailwind CSS 视为传统 CSS 的替代品，而是将其视为网页设计工具包的增压器。它可以提高您的效率并保持代码整洁，同时提供微调网站外观和感觉直至最后一个像素的余地，无论屏幕尺寸如何。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/693904ce50</guid>
-      <pubDate>Thu, 07 Mar 2024 08:07:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我们的销售自动化平台的反馈</title>
-      <link>https://feed.indiehackers.world/post/0f09c64472</link>
-      <description><![CDATA[大家好，希望大家一切都好。我需要有关我们的销售自动化平台 https://www.b2brocket.ai/ 的反馈。我们也是 Product Hunt 排名第一的产品。期待越来越多的进步。我们将非常感谢您的反馈。谢谢。如果您有任何疑问，请随时提问。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/0f09c64472</guid>
-      <pubDate>Thu, 07 Mar 2024 05:56:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合您的食品配送业务的 Ubereats 克隆</title>
-      <link>https://feed.indiehackers.world/post/43eb6a516b</link>
-      <description><![CDATA[此外，由于我们致力于提供持续的支持和更新，您将始终在竞争中领先一步。无论您需要帮助解决技术难题还是开发新功能以保持平台的吸引力和新鲜感，我们的专业团队随时为您提供帮助。
-通过使用我们的克隆，您可以充分发挥食品配送业务的潜力，并为您的客户提供卓越的价值。不要错过改变您的业务并从对快速、诱人的送餐服务不断增长的需求中获利的机会。立即联系我们，了解更多信息并开始使用 Appkodes UberEats Clone 取得成功。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/43eb6a516b</guid>
-      <pubDate>Thu, 07 Mar 2024 05:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>新动态：如何处理差评</title>
-      <link>https://feed.indiehackers.world/post/56bdb872d9</link>
-      <description><![CDATA[利用这些设计、开发和转换技巧增强您的目标网页！
-使用比率的空间。使用比例可以更好地调整您的内容，并加强您的目标网页设计。
-例如，将基本尺寸设置为 8px，然后使用八的倍数定义内边距：
-
-微小间隙 = 8 像素。
-小间隙 = 16 像素。
-中等间隙 = 32 像素。
-大间隙 = 64 像素。
-
-订阅 Rob 的One Page Love 时事通讯，了解他最喜欢的 UI、设计和开发发现。 
-从关闭到出售 💰
-
-作者：伊丹·马萨斯
-2023 年 12 月底，经过六个月的努力，我决定关闭失败的 SaaS。这是我第五次失败的 SaaS。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/56bdb872d9</guid>
-      <pubDate>Thu, 07 Mar 2024 05:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>改变你生活的目标设定</title>
-      <link>https://feed.indiehackers.world/post/cbcc5947c4</link>
-      <description><![CDATA[如果我把你从沉睡中叫醒，你应该能够在我提出要求时自动背诵你的目标，士兵。您的目标应该每天从编程的深处表达出来。
-表面的奉献并不是痴迷。没有人每年只进行两次练习赛就能赢得一等奖。
-这样做。否则，你不值得实现你的目标。不着迷的人从生活中得不到任何值得为之而活的东西。他们死得很平庸，不被人记住，而且很可能被利用了。
-写下你的目标。反复。日常的。每日。
-TL;DR：每天写下你的目标。日常的。日常的。这是结束所有生活黑客的生活黑客。 
-您可以选择将其写在任何地方，无论是在电话记录、Notion 中，还是通过下载计划表 .
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cbcc5947c4</guid>
-      <pubDate>Thu, 07 Mar 2024 03:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在销售旅游领域的副业项目</title>
-      <link>https://feed.indiehackers.world/post/5514243b3a</link>
-      <description><![CDATA[社区您好，由于没有时间进行营销和销售，我正在考虑出售我构建的一个 SideProject。
-我致力于其他占用我时间的初创公司。
-我提供什么？
-你看到的一切：
-
-域名。
-完整的品牌。
-开发了网站。
-在 LemonSqueeze 中存储/结帐配置。
-产品：供房东或住宿业主使用的概念模板。
-
-它是一种理想的产品，不需要维护，并且可以极大地扩展以与其他旅游产品交叉销售或为住宿业主添加服务。
-非常适合在这一领域拥有经验并且能够在所创造的产品之外增加价值的企业家。
-链接查看：https://tripmate.click
-基本价格：所有商品 750 美元。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5514243b3a</guid>
-      <pubDate>Thu, 07 Mar 2024 01:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个新的免费等候名单表格生成器</title>
-      <link>https://feed.indiehackers.world/post/7fc0bfee1b</link>
-      <description><![CDATA[大家好，我发布了一个免费的候补名单/电子邮件收集工具，作为我的初创公司 IndiePitcher 的一部分。
-以下是您可以创建的表单示例https://forms.indiepitcher.com/OuGb0L
-当前支持的功能包括：
-
-公共电子邮件收集表单（您可以包含自己的分析跟踪，例如合理的分析）
-如果您想使用自定义 UI 来收集电子邮件，请使用 Rest API
-您可以自动发送“谢谢”当有人注册时发送电子邮件
-您将收到一封有关提交新电子邮件的电子邮件
-提交新电子邮件时的 Webhook 通知。
-然后，您可以将收集的电子邮件导出到 CSV 文件，或继续使用 IndiePitcher 向潜在客户发送更多电子邮件
-
-查看文档 https://docs.indiepitcher.com/waitlist 并免费注册 https://app.indiepitcher.com感兴趣。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7fc0bfee1b</guid>
-      <pubDate>Wed, 06 Mar 2024 22:07:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
