@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 18:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 21:12:48 GMT</lastBuildDate>
+    <item>
+      <title>SynQ：一个拥有 4 万用户的音乐浏览器扩展，提供具有跨服务链接的迷你播放器，现已开源并正在寻找贡献者！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b95az6/synq_a_music_browser_extension_with_40k_users/</link>
+      <description><![CDATA[大家好！ 我非常高兴地宣布，我最初在 6 年前专门为 YouTube Music 开发的浏览器扩展程序现已完全重写以支持多种音乐服务。该扩展在 6 年内获得了大约 4 万用户，我预计随着我们添加更多基于网络的音乐服务，它会从此大幅增长！重写配备了更高质量的迷你播放器和跨服务链接功能，使您可以在您首选的服务上打开来自我们支持的任何服务的曲目、专辑和艺术家链接。 我们目前支持 Spotify、 Apple Music、YouTube Music 和 Amazon Music，但我们很乐意支持所有主要音乐服务，并且在实施另外 11 项服务方面存在问题。我们有一份关于实现音乐服务适配器需要做什么的指南，并且我们尝试在 SynQ 的核心中尽可能多地完成繁重的工作，这应该使这些适配器的实现对初学者更加友好。 &lt; p&gt;在此处查看我们的 GitHub 存储库：https://github.com/SynQApp/Extension 网站下载SynQ：https://www.synqapp.io/ ​   由   提交/u/PatrioTech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b95az6/synq_a_music_browser_extension_with_40k_users/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vernier Logger Pro/图形分析的自由和开源软件替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b932s9/foss_alternative_to_vernier_logger_prographical/</link>
+      <description><![CDATA[我在一所小型大学教授入门物理实验室，我们利用 Vernier LabQuest Mini 传感器接口及其 Logger Pro 软件进行数据收集和分析。然而，我们都付出了很多（因为教育软件和设备的价格过高），并且该软件偶尔会在一些明显的任务上失败，例如将图形导出为图像。 （学生目前必须截屏，保存，然后通过电子邮件发送给自己以包含在他们的实验报告中，这很令人讨厌）。我很想找到一种 FOSS 替代方案（如果存在）。以下是要求：  与 Vernier LabQuest Mini 和传感器完全连接，包括检测和校准 与 Vernier 实验文件 (.cmbl) 兼容 &lt; li&gt;使用易于配置的标签和轴进行简单的数据输入/绘图 曲线拟合，具有用户定义的拟合选项 将数据导出为常见格式并将图形导出为图像（.png、 .jpeg，也许是 svg/pdf） 必须可供具有最少计算经验的本科生使用 最好与操作系统无关（至少是 Mac/Win），以便学生可以在他们的计算机上安装如果需要，可以拥有自己的机器  如果我正在寻找不存在的东西，我理解，但我会接受你能给的任何东西。   由   提交/u/ducks_over_IP   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b932s9/foss_alternative_to_vernier_logger_prographical/</guid>
+      <pubDate>Thu, 07 Mar 2024 19:33:22 GMT</pubDate>
+    </item>
     <item>
       <title>开源：现状和未来的希望</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8vbis/open_source_current_state_and_future_hopes/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[自从 Macrium Reflect 免费版退役以来，我一直在连续几个月研究一种可能的开源替代方案，以替代其改变游戏规则的虚拟化功能这是通过 VirtualBox 使用名为 viBoot 的程序实现的。如果有人记得这个程序或者有机会在任何程度上使用它，你可能会记得它是多么酷。不管出于什么原因，在我开始使用 VirtualBox 之前，我个人在 VirtualBox 中经历了最困难的时期，多年来一直出现错误，这又是另一天的长篇故事了。 重要的是，我终于让 viBoot加载我的 Macrium Reflect 系统映像之一的虚拟化实例，我非常兴奋，因为这可以节省时间并减少 SSD 磨损和损坏。如果我需要恢复的图像丢失了损坏的图像中的关键内容，那么我可能必须在系统图像之间返回。理想情况下，当系统还原是您唯一剩下的选择时，情况不会是这样，但实际上，您永远不能指望它。我会定期创建系统备份，但如果我必须使用系统备份，我会这样做，因为我期望我可能会或可能不记得或已保存/记录自该映像以来所做的更改。老实说，我确实主张将虚拟化作为一种​​解决方案来填补这方面的空白。 问题是，Macrium Reflect 是我至少个人使用过的唯一可以实现此目的的程序它可以使用 VirtualBox 来启动整个系统映像。 Reflect Free 退役后，我打开了自动更新，即使我想也无法返回到可以启动免费版本的上一个版本。即使我可以，Windows 在没有它的情况下更新的时间越长，漏洞和漏洞就会开始发挥作用。就在那时我开始想好吧...... 这就是nerf或nuthin&#39;。哦等等抱歉，用词错误。它是开源的或者没什么。 😆😆 在这次经历之后，我或多或少完全退出了第 3 方应用程序，只有在开源的情况下才安装新工具，因为至少我可以摆脱它。这让我想到，嘿，如果 Macrium 可以在 virtualbox 中启动系统映像，那么从开源的角度来看，也许我可以弄清楚他们是如何做到的。实际上，现在可能有另一个应用程序在执行此操作，但我必须弄清楚我需要什么文件类型。 50 多个书签之后，很难从教程和文档中判断程序是否会创建VirtualBox 可启动的文件。我怀疑我需要的第一种文件类型是 .IMG 文件，但是哪些程序可以生成此文件？我通过阅读了解到这是软盘时代使用的较旧的文件类型。另一个候选者可能是我不太了解的 .WIM 文件，或者是好的 ol&#39; VDI 或 VHID 文件（如果有创建这些文件的映像解决方案）。 （长镜头） 如果有人仍然和我一起写这篇长篇文章，非常感谢。我写这篇文章是希望至少有人在某个地方有过类似的想法，并找到可能的解决方案。    由   提交/u/Steamtrigger42  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8207j/macrium_alternative_to_create_vboxbootable_system/</guid>
       <pubDate>Wed, 06 Mar 2024 15:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于开源原则设计医疗保健领域的病毒隐私政策</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b80p8u/designing_viral_privacy_policies_in_healthcare/</link>
-      <description><![CDATA[ 由   提交/u/analogj  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b80p8u/designing_viral_privacy_policies_in_healthcare/</guid>
-      <pubDate>Wed, 06 Mar 2024 14:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>驱动程序更新程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b7ya4p/driver_updater/</link>
-      <description><![CDATA[我很好奇，因为我找不到任何免费或开源的驱动程序更新工具。是否有适用于 Windows 机器的开放驱动程序更新程序？   由   提交/u/sedi343  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b7ya4p/driver_updater/</guid>
-      <pubDate>Wed, 06 Mar 2024 12:17:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
