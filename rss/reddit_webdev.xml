@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 15:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:16:12 GMT</lastBuildDate>
+    <item>
+      <title>为我即将推出的网站制作了一个易于编写脚本的打字机/文本编辑器效果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9uwpf/made_an_easily_scriptable_typewriter_text_editor/</link>
+      <description><![CDATA[       由   提交/u/Baegus  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9uwpf/made_an_easily_scriptable_typewriter_text_editor/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 Webflow 替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9unaw/opensource_webflow_alternatives/</link>
+      <description><![CDATA[嗨，您知道有哪些开源网站构建器系统允许您导出 HTML css 和 js 吗？谢谢    由   提交/u/Retrobici-9696    reddit.com/r/webdev/comments/1b9unaw/opensource_webflow_alternatives/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9unaw/opensource_webflow_alternatives/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想要一个“向我发送图片”按钮，用用户的网络摄像头发送图片并将其通过电子邮件发送给我</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9udlx/i_want_a_send_me_a_picture_button_that_a_picture/</link>
+      <description><![CDATA[仔细一看，似乎有很多服务器端编程。这是对的吗： 1) JS 使用网络摄像头获取图像。 2) php 将图像保存到服务器。 3) python 发送电子邮件附件？ 感谢您的任何想法！   由   提交 /u/Demeter_Family_Farm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9udlx/i_want_a_send_me_a_picture_button_that_a_picture/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作两个并排的多行文本输入字段并对齐行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9thel/making_two_sidebyside_multiline_text_input_fields/</link>
+      <description><![CDATA[Hello r-slash-webdev ​ 我目前正在尝试制作一个Web 应用程序包含一个组件，该组件由两个并排的文本字段组成，每个字段都允许使用自动换行进行多行输入。我的想法是，我希望用户能够以多种语言编辑文档，因此每种语言版本都可以轻松并排比较。我想让文本字段中的每一行与另一个文本字段中的相应行位于相同的高度，因此，如果由于自动换行或其他原因，一行需要比另一行占用更多的高度，那么另一条线的高度将增加，以便它们都具有相同的高度或垂直位置偏移，以便它们全部对齐。这样，一种语言的每一行/段落都可以被阅读，并与另一种语言的另一行/段落并排进行比较，而不会因为某些语言比其他语言占用更多空间而出现错位。  ​ 这个想法类似于使用表格进行翻译，但是表格对于我的用例来说效果不太好，因为文档的任何一种语言版本都不一定是最终版本草稿在任何时间点，所以我仍然需要能够像文档一样编辑任一版本，而不是严格翻译一个版本。 ​ 到目前为止绝对“最简单的解决方案”我想出的是制作某种类型的自定义组件（可能使用 React，因为这是我最熟悉的），这只是我用 javascript 编写自己的编辑器。我希望有某种方法可以通过标准 HTML 输入、CSS（例如 CSS 网格的对齐功能，但我所有的实验最终都不起作用）和最少的 javascript 来更轻松地完成此任务，但我还没有我自己无法找到任何方法来完成此任务。是否有人碰巧知道任何可用于更简单解决方案的 CSS 或 javascript 技巧，或者是否有针对此用例的现有解决方案（例如 NPM 模块），或者除了编写我自己的自定义编辑器之外没有其他方法？   由   提交/u/Aethix0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9thel/making_two_sidebyside_multiline_text_input_fields/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能帮我理解“receive-cookie-deprecation”会话cookie？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9snp8/can_anyone_help_me_understand/</link>
+      <description><![CDATA[我有一个网站在上个月突然获得了一个名为“receive-cookie-deprecation”的会话 cookie。据我所知，它是由 Chrome 放置的，因为它不会出现在 Firefox 或 Safari 中。我认为这与 Chrome 在 2024 年弃用第 3 方 cookie 有关，并且它用于某些 PrivacySandbox API 功能，但这就是我能发现的全部内容。 您会将此会话 cookie 视为第一方还是第三方派对？另外，有人知道有关 cookie 用途的更多信息吗？ 根据 GDPR，第一方会话 cookie 不需要同意，但网站仍应告诉用户会话 cookie 的作用。因此，如果它被视为第三方，我需要根据用户偏好来阻止它，但如果它是第一方，我仍然需要知道它会做什么来向我的用户披露它。 &lt; !-- SC_ON --&gt;  由   提交 /u/gotnicerice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9snp8/can_anyone_help_me_understand/</guid>
+      <pubDate>Fri, 08 Mar 2024 16:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024年大三找工作，还有可能吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9saqw/finding_a_job_as_a_junior_in_2024_is_it_still/</link>
+      <description><![CDATA[最近我开始更深入地研究 Web 开发。 我曾在 2021 年左右作为自由职业者与某人合作过不是很复杂的 WP 项目。 我没有学位。我正在构建一个包含 2 个大型应用程序的组合（它们包含前端、后端、数据库，它们具有真正的实用性） 问题是我目前正在边做边学（在组合上工作），javascript 与目前有 React、Express、postgresql、router、npm、vite、node、jest。我每天至少花 8 个小时，但我也有连续两周花 16 个小时的时间，我已经取得了很大进步。 我的目标是将这些应用程序推向市场，并将它们用作为未来的雇主提供经验。但是投入这么多时间在这上面，放弃了其他活动全力以赴，基本上除了女朋友之外的任何活动都放弃了。 我想问一下现在市场上有没有这样的公司仍在招聘，如果有机会以“初级”身份进入市场考虑到我在该领域没有多年的经验，虽然过去我用Python和selenium做过网络爬虫和自动化，用html/CSS做的网站很少js和php，但我不能吹嘘它们，很小项目。 仅凭我通过制作和部署这两个项目获得的经验是否有可能被雇用？现在的公司都要求学历吗？我是不是在浪费时间，而且几乎没有机会很快被录用？你有什么经历？谢谢你，对我的英语感到抱歉。   由   提交 /u/Zestyclose-Trainer52    reddit.com/r/webdev/comments/1b9saqw/finding_a_job_as_a_junior_in_2024_is_it_still/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9saqw/finding_a_job_as_a_junior_in_2024_is_it_still/</guid>
+      <pubDate>Fri, 08 Mar 2024 16:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建一个类似于 Shadcn UI 的自定义组件库，具有易于安装、单独组件安装等特点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9s9jh/how_can_one_build_a_custom_component_library/</link>
+      <description><![CDATA[标题基本上，我想了解如何执行此操作，但只能找到用于创建使用如下流程的自定义组件库的流程MUI上线并没有像Shadcn UI那样的流程上。 另外如何让它兼容多个框架？   由   提交/u/_cheekymikey_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9s9jh/how_can_one_build_a_custom_component_library/</guid>
+      <pubDate>Fri, 08 Mar 2024 16:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>渐进式 Web 应用程序框架和技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9s5zq/progressive_web_application_framework_and_tips/</link>
+      <description><![CDATA[我对开发渐进式 Web 应用程序有点陌生，你能帮我推荐一些可以同时用于前端和后端的框架吗-结尾？我已经在我的 Web 应用程序项目中使用过express.js，我也可以将其用于 PWA 吗？ next.js 怎么样？你能给我和新手一样的建议吗？感谢您的见解！   由   提交/u/JIEJIE7JIE  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9s5zq/progressive_web_application_framework_and_tips/</guid>
+      <pubDate>Fri, 08 Mar 2024 16:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godaddy 托管已关闭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9rhny/godaddy_hosting_down/</link>
+      <description><![CDATA[对所有需要与 godaddy 打交道的人表示歉意。仅供参考   由   提交/u/Luckyth13teen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9rhny/godaddy_hosting_down/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>url 重定向和保持页面匿名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9r9jx/url_redirection_and_maintaining_anonymity_for/</link>
+      <description><![CDATA[为了简洁起见，我缩短了下面的网址。 我要发表演讲并希望提交提案但为了防止偏见，必须隐藏提案的作者。 我有一个备用（免费托管）网站 ambridge.uk，所以我将文档放在  ambridge.uk/proposal.txt 并且效果很好。 但是......托管公司（netnerd) 已撤销免费托管由于支持软件许可的费用，所以我不会&#39;以后不能再这样做了。我已经设置了 dns 转发，以便 ambridge.uk 转发并屏蔽到我家的子网站 ambridge.berrow.uk，这工作正常，但是，当然， ambridge.uk/proposal.txt 仍然明显ambridge.berrow.uk/proposal.txt，因此匿名性消失了。 有什么方法可以保持匿名（除了从 google、blogspot 或 dropbox 等地方获得一些免费托管之外）？   由   提交 /u/HaydonBerrow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9r9jx/url_redirection_and_maintaining_anonymity_for/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:50:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>设置在线考试网站最简单的语言是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9r6sa/what_are_the_easiest_languages_to_use_for_setting/</link>
+      <description><![CDATA[需要使用多项选择题和/或有时间限制的常规问题/答案。 一直在考虑使用 JavaEE，但是我对这类事情没有经验，我想远离 PHP。   由   提交 /u/VixHumane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9r6sa/what_are_the_easiest_languages_to_use_for_setting/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>职业发展：Web 开发与数据分析？对两者的兴趣和简要背景。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9qkk0/career_progression_web_development_vs_data/</link>
+      <description><![CDATA[着眼于两个领域的未来前景，对初学者友好，有回报； 什么是更好的选择？ Web 开发 (PT)   2023 年 10 月从训练营毕业 学习 CSS、JS、React、NodeJS 等。 兼职担任 Web 设计师和开发人员  分析背景（FT 职位）  担任营销数据分析师一年多 使用 Google Analytics、跟踪代码管理器、Looker Studio 等工具  目标更深入的学习 - 可获得硕士学位（拥有工商管理学士学位） 困境 我非常喜欢这两个领域，但为了集中精力并取得进步，我想选择一匹马来骑。   由   提交/u/Direct-Foundation909  /u/Direct-Foundation909  reddit.com/r/webdev/comments/1b9qkk0/career_progression_web_development_vs_data/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9qkk0/career_progression_web_development_vs_data/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:22:11 GMT</pubDate>
+    </item>
     <item>
       <title>当我的汉堡菜单打开时，如何停止页面滚动？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b9peyn/how_can_i_stop_page_scrolling_when_my_hamburger/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我的女儿 3 岁，我知道对于小孩子来说可能还太小，但我想提前计划一下当我女儿到了合适的年龄。 这里有人是在这些语言的熏陶下长大并最终成为一名开发人员的吗？ 人们还有其他语言更适合年幼的孩子推荐吗？  有没有更适合 3-5 岁孩子的“编码语言”应用程序？   由   提交/u/FajroFluo92   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b9p8m2/scratch_and_scratchjr_whats_your_opinion/</guid>
       <pubDate>Fri, 08 Mar 2024 14:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉自己无能作为一名网页设计师，并被大量的技术淹没</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9oe9w/feeling_incapable_as_a_web_designer_and/</link>
-      <description><![CDATA[我一直（偶尔）担任独立网页设计师，多年来建立了一些网站，但我不确定我是否&#39;我的技能足够好，我必须真正成为自由职业者，但我不知道从哪里开始或从哪里开始。我没有太多信心，主要是因为我没有大学学位，也没有令人信服的简历。我以前也从未在代理机构工作过，并且一直独立与客户合作。我构建的网站的一些示例： https://zenit.travel https://new.mandalaviajes.cl（目前正在开发中） 我只用简单的 css 和 javaScript 构建了这些网站。当我阅读发布的职位要求时，它经常会说明诸如 React、Vuejs 等框架。我已经对此感到不知所措，我不知道现在是否真的需要在代理机构工作。如有任何建议，我们将不胜感激..   由   提交 /u/N_morgana   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9oe9w/feeling_incapable_as_a_web_designer_and/</guid>
-      <pubDate>Fri, 08 Mar 2024 13:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>这看起来怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9n1f0/how_does_this_look/</link>
-      <description><![CDATA[       由   提交/u/KnightofAmethyst2   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9n1f0/how_does_this_look/</guid>
-      <pubDate>Fri, 08 Mar 2024 12:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astrojs、Tailwind CSS 和 Alpinejs 创建弹出菜单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9moae/how_to_create_a_flyout_menu_with_astrojs_tailwind/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9moae/how_to_create_a_flyout_menu_with_astrojs_tailwind/</guid>
-      <pubDate>Fri, 08 Mar 2024 12:24:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：针对 100 个并发用户优化 MySQL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9mgci/need_help_optimizing_mysql_for_100_concurrent/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9mgci/need_help_optimizing_mysql_for_100_concurrent/</guid>
-      <pubDate>Fri, 08 Mar 2024 12:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤯</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9lxyd/_/</link>
-      <description><![CDATA[&lt;表&gt;       由   提交/u/pruthivithejan   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9lxyd/_/</guid>
-      <pubDate>Fri, 08 Mar 2024 11:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的可访问性实验吗？我希望一些人能够体验残疾人和各种问题的人如何浏览网络</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9kqkn/any_good_accessibility_experiments_i_want_some/</link>
-      <description><![CDATA[TL;DR：我正在寻找一些网络实验，让人们体验某些残疾的感受。不仅仅是视觉上的，希望其他方面也是如此。您是否有一些关于此类主题的很酷的网站可以分享？ 网络有各种解决方案可以让残疾人或有特定偏好的人能够消费内容。 A11y 规则的进步已经取得了很大进步，但很难弄清楚需要做多少事情以及需要做什么才能让人们获得更好的体验。 因此，为了指导开发人员并改进他们的工作，似乎让他们体验某些事情是个好主意。所以我正在寻找这样的东西，所以网站或页面具有：  过滤各种颜色以体验色盲以及如何导致各种问题 一种体验阅读障碍的方法。字母不断变化等等 听力不好的经历。内容被讲述，但很难弄清楚实际所说的内容以及字幕如何提供帮助 屏幕阅读器以及人们如何使用它来阅读网络以及他们需要什么来使其变得更好  li&gt; 您有视力模糊或其他类型的视觉障碍 体验自闭症或多动症的方式，以及网站如何帮助他们驾驭世界 手部颤抖。也许有某种方式让鼠标在需要点击的地方不受控制地晃动  如果它有一些游戏化的角度，其中难度会增加，并且人们最终会在该主题上得到很好的教育，那么就会得到奖励分。   p&gt; 在某种程度上，我想带领一群人围绕健康进行一次冒险，以及如何通过一些改变来建立更好的网站。还与设计师合作改进事物，并与产品负责人交谈等，以确保这些事情得到积压。   由   提交 /u/AwesomeFrisbee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9kqkn/any_good_accessibility_experiments_i_want_some/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node + Prisma + Graphql - 使用大型数据库 [需要建议]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9kff0/node_prisma_graphql_working_with_large_databases/</link>
-      <description><![CDATA[嗨。 后端开发新手，希望您对我现在面临的问题提供一些建议或意见在 Web 应用程序的早期开发阶段。 直接进入问题： 我有 2 个表，用于保存车辆数据 (Vehicle) 和车辆属性 (Attributes) 数据，以及另一个表 ( VehicleAttributeValue) 连接这两者。第三个表变得相当大且非常快，因为假设一辆车可以有大约 25 个属性值。该应用程序应该能够处理相当多的车辆，假设超过 5000 辆，所以现在 VehicleAttributeValue 表的行数超过 125000 行。 Q1：我的第一个问题，因为我是新手对于后端和数据库开发来说，这 125000+ 行数在关系数据库中是常见的还是从这里开始我在这里选择了错误的数据库？ 所以现在当我需要查询时，实际问题开始发生使用 graphql 的数据。如果我将限制保持在相对较低的水平（大约 100），则响应会延迟相当多（2 秒以上），但它会返回...如果我将其增加到一个非常大的限制（可能实际上不切实际的 idk），例如 1000，现在，节点js 内存不足。所以这看起来更像是一个 graphql (javascript/node) 问题，其中节点耗尽堆内存，而不是数据库问题，但我不确定。 Q2（3 和 4）：我知道我可以增加节点堆内存限制，但我认为这不应该是真正的解决方案。解决此类问题的正确方法是什么？我应该将我的数据库架构视为第一个问题吗？我应该将 graphql 解析器视为第一个问题吗？我从哪里开始改进？ ​ PS：如果我应该提供有关应用程序的更多信息，我肯定会提供，请告诉我。 ​ 堆栈： Keystone JS (node / typescript / graphql / prisma / mysql) NextJS (react / graphql) &lt; ;- 与问题无关 ​ tldr: 我在mysql中有一个连接表，其中包含很多行，125000+。当我查询涉及该表的数据并且查询大量行时，节点会耗尽堆内存。我从一开始就做错了什么吗？我使用了错误的堆栈吗？我该如何改进它？   由   提交/u/_shakshuka_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9kff0/node_prisma_graphql_working_with_large_databases/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>存储库显示了前端单元测试的良好示例？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9kdby/repos_showing_good_examples_of_frontend_unit/</link>
-      <description><![CDATA[尽管如此，我仍然很难看到前端单元测试的价值想要确信它是有用的。 任何人都可以给我指出一些可以做到这一点的存储库（而不是文章）吗？   由   提交 /u/jezmck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9kdby/repos_showing_good_examples_of_frontend_unit/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 reCAPTCHA v3 低分 2024-03-08</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9kcnt/google_recaptcha_v3_low_scores_20240308/</link>
-      <description><![CDATA[我遇到了麻烦，用户在过去几个小时内开始获得异常低的分数 0,1-&gt;0,3。 即使手动写入凭据。还有其他人注意到什么吗？   由   提交/u/norpan83  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9kcnt/google_recaptcha_v3_low_scores_20240308/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型组织如何使用双因素身份验证管理共享帐户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9k6ix/how_do_big_organisations_manages_shared_accounts/</link>
-      <description><![CDATA[您好 我想知道当有多个帐户可用时，大型组织如何管理对多人共享的帐户的访问. 例如：平台上的单个帐户（假设为 freepik.com），您需要两因素身份验证 第一，有很多人需要访问该帐户吗？  对于密码，密码管理器就足够了。但是双因素短信或应用程序怎么样？   由   提交/u/kenweego  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9k6ix/how_do_big_organisations_manages_shared_accounts/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rolldown 现已开源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9jjba/rolldown_is_now_open_source/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/TwiliZant   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9jjba/rolldown_is_now_open_source/</guid>
-      <pubDate>Fri, 08 Mar 2024 08:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django Rest Framework (DRF) 是构建后端的首选吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9itzm/is_django_rest_framework_drf_a_good_first_choice/</link>
-      <description><![CDATA[在开发一个简单的 API 后端时，一位高级开发人员向我介绍了它。我不会撒谎，包含电池的部分在 django 管理面板和所有内容中看起来很酷（尽管我倾向于厌倦神奇的 API）。 但是由于我们只需要一个 API，因此他建议使用 DRF。在我看来，这有点倒退，因为他们采用了像 Django 这样的全栈整体框架，并将其扭曲为像 REST API 一样运行。我想如果您是一位想要构建现代 REST API 的 Django 资深人士，这会是令人惊奇的。但是，如果你从未使用过 django，这很好吗？ IMO 如果你想钉钉子，你可以使用锤子。不是螺丝刀的刀柄。但话又说回来，我是一个初级蛆虫，所以我很想听听一些关于使用工具重新调整用途的工具（即 django 重新设计为仅 DRF 形式的 API）而不是 FastAPI 或 Flask 之类的工具的见解。   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9itzm/is_django_rest_framework_drf_a_good_first_choice/</guid>
-      <pubDate>Fri, 08 Mar 2024 08:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

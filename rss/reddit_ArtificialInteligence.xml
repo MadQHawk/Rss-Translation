@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 15:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:14:57 GMT</lastBuildDate>
+    <item>
+      <title>下一级大型机型只能限制企业用户使用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9t92q/next_level_large_models_can_be_restricted_only/</link>
+      <description><![CDATA[出于安全原因，下一级主要语言模型可能只会向企业用户授予会员资格，但主要是出于盈利动机。 GPT-5智能体商业模型，如果智能体的合成数据生成、过滤和推理/规划能力足够先进，这可以增加企业用户的利润率。这意味着大型语言模型的商业模型作为基础设施提供商。此外，生成式人工智能可能遵循类似的过程。那些以此为生的人可能想要推销他们的许可数据，而后者可能会通过人工智能将他们的数据调整为足够原创的内容风格来主张相似权。   由   提交/u/IntrepidRestaurant88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9t92q/next_level_large_models_can_be_restricted_only/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以使用多代理框架模拟我的聚会业务吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9t76f/can_i_simulate_my_party_business_with_multi_agent/</link>
+      <description><![CDATA[我刚刚知道这个模型可以制作 IA 角色，然后让这些角色相互交互以获得更好的响应。 我很难在网上找到我可以实际用来推动我的公司发展的计划。 我是一名执行派对制作人。我住在巴西，制作夜总会和音乐节，我希望使用此技术来缩短各个级别的前期制作和后期制作。 我担心如果不知道如何编码可能会做出什么我的目标是不可能的（目前）。你们可以帮我知道我可以搜索哪些 API 和程序吗？ 我主要想象像 Pigeon 项目（standford+google）之类的东西，但当然没有那么多额外的复杂步骤。我的想法是，我可以让营销团队与创作团队同时开展一个项目，让财务团队批准，然后规划整个事情。活动结束后，资金人员会为我进行数学计算并关闭 Excel。 我是否超前了？或者这已经是可能的？请帮我点灯。   由   提交/u/antoniohfernandes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9t76f/can_i_simulate_my_party_business_with_multi_agent/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建人工智能翻译应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9sja2/building_an_ai_translator_app/</link>
+      <description><![CDATA[我一直在从事一个人工智能副项目，利用周末空闲时间从头开始构建一切，我想在这里分享。  最近我一直在学习法语，很多时候我对 Google Translate 和 Duolingo 感到沮丧，因为翻译断章取义或失去了本质。 然后我就有了这个想法创建Langy，一个基于AI的翻译器。他不仅会说语言，而且能理解它们。使用人工智能，Langy 可以分析、提出建议、进行语法和上下文纠正，甚至解释纠正的要点。 通往最终 MVP 的道路相当艰难。真正的挑战是改进翻译和解释。我们投入了无数的时间来微调人工智能，包括理解用户的主要语言并提供有意义的解释。 目前仅适用于 iOS，但很快就会推出适用于 Android 和 Web 的版本。 https://langyapp.com/ 该应用采用订阅模式，每月费用为 3.99 美元 &lt; p&gt;​ 欢迎并赞赏您提供反馈！   由   提交 /u/invaderzom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9sja2/building_an_ai_translator_app/</guid>
+      <pubDate>Fri, 08 Mar 2024 16:39:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能与骗子对话</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9sifk/ai_to_talk_with_scammers/</link>
+      <description><![CDATA[为什么没有人制作一个带有人工智能的应用程序来与印度微软支持人员对话，所以骗子浪费了很多时间？  我在 r/Denmark 看到一篇帖子，内容是关于一些人遭遇大量印度诈骗的情况用欺骗性的丹麦号码拨打电话。电话公司对此无能为力，很多人对大量的电话感到非常恼火，这是可以理解的。有些人每天会接到多达 20 个电话。如果应用程序足够大，它可能会真正影响诈骗者的收入，因为他们会浪费大量时间与人工智能无休止地交谈。    由   提交/u/DkMomberg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9sifk/ai_to_talk_with_scammers/</guid>
+      <pubDate>Fri, 08 Mar 2024 16:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周人工智能——所有主要人工智能发展简而言之</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9qsq8/this_week_in_ai_all_the_major_ai_developments_in/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9qsq8/this_week_in_ai_all_the_major_ai_developments_in/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:31:22 GMT</pubDate>
+    </item>
     <item>
       <title>寻找免费的人工智能音乐网站/软件</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9pcox/looking_for_a_free_ai_music_websitesoftware/</link>
@@ -13,25 +48,11 @@
       <pubDate>Fri, 08 Mar 2024 14:32:33 GMT</pubDate>
     </item>
     <item>
-      <title>耳语人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9p5ar/whisper_ai/</link>
-      <description><![CDATA[Google Play 商店中有一个应用 https://play.google.com/store/apps/details?id=com.bytejourney.and.whisper &lt; /div&gt;  由   提交/u/NoleFan723  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9p5ar/whisper_ai/</guid>
-      <pubDate>Fri, 08 Mar 2024 14:23:57 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能帮助？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9o9or/ai_help/</link>
       <description><![CDATA[各位聪明人大家好，我真的需要一些帮助。人工智能听起来像是一个很棒的工具，但我不知道如何使用它（或在哪里找到它）。我最近失业了，说实话，技术不是我的强项。我不知道招聘人员希望在简历中看到什么。我在我所申请的工作中拥有出色的技能、知识和经验，但我被拒绝了，因为我相信我的简历看起来像是一个中学生写的。谁能指点我一个免费的人工智能来帮助我让我的简历看起来更合适？如果您读到这里，谢谢您，我很感激。   由   提交 /u/Unmistakes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9o9or/ai_help/</guid>
       <pubDate>Fri, 08 Mar 2024 13:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能推荐一些阅读材料吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9ndmj/can_you_recommend_some_reading_material/</link>
-      <description><![CDATA[我是一名配置会计系统的退休会计师。无需编码，只需配置。我想更多地了解人工智能如何在高水平上运作。我想主要是概念。有什么建议吗？   由   提交 /u/JanFromEarth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9ndmj/can_you_recommend_some_reading_material/</guid>
-      <pubDate>Fri, 08 Mar 2024 13:01:10 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 正在成为恶棍吗？</title>
@@ -55,13 +76,6 @@
       <pubDate>Fri, 08 Mar 2024 11:32:40 GMT</pubDate>
     </item>
     <item>
-      <title>卡塔尔航空推出全球首个人工智能空乘人员</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9ldgm/qatar_airways_unveils_the_worlds_first_ai_cabin/</link>
-      <description><![CDATA[文章链接： https://techmgzn.com/qatar-airways-unveils-the-worlds-first-ai-cabin-crew/    由   提交/u/onceuponatime863  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9ldgm/qatar_airways_unveils_the_worlds_first_ai_cabin/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:54:38 GMT</pubDate>
-    </item>
-    <item>
       <title>🚀 机器人技术不断拓展的前沿：价值 24T 美元的机会</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9i9ai/robotics_expanding_frontier_a_24t_opportunity/</link>
       <description><![CDATA[根据 ARK Investment Management 的说法，人工智能与机器人技术的融合将打开一个价值 24 万亿美元的巨大市场，标志着重大的经济转变。 要点：  人工智能和机器人技术的融合预计将刺激24万亿美元收入。 随着产量每翻一番，机器人成本就会减半，从而提高可及性。 人工智能驱动的机器人能力激增 33 倍，彻底改变了性能指标。 人工智能驱动的机器人能力激增 33 倍。 li&gt;  为什么重要：这种演变强调了人工智能和机器人技术作为未来经济和生产力格局基石的关键交叉点。 了解更多：方舟投资大创意2024    由   提交 /u/clonefitreal   [链接] [评论]]]></description>
@@ -74,20 +88,6 @@
       <description><![CDATA[我最终能否让人工智能制作一部角色、声音完全虚构且情节连贯的电影？如果我想要一款类似于《辐射》的角色扮演游戏怎么办？还是说这太遥远或不可能，以至于只是一厢情愿？   由   提交 /u/YaMaCoSi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9i8pn/will_ai_be_able_to_make_movies_and_games/</guid>
       <pubDate>Fri, 08 Mar 2024 07:22:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 3/7/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9f7hv/oneminute_daily_ai_news_372024/</link>
-      <description><![CDATA[ 由 OpenAI 首席执行官 Sam Altman 支持的一家核初创公司希望为数据中心和家庭提供电力。它一边应对不断增长的需求，一边努力满足监管机构的要求。[1] 从 Tinder 到 Replika，生成式 AI 正在改变人类使用约会应用程序的方式，甚至促使真人与 AI 聊天机器人谈恋爱。[2] NVIDIA 和 HP Inc. 今天宣布 NVIDIA CUDA-X™ 数据处理库将与 HP AI 工作站解决方案集成，以增强数据准备和处理能力构成生成式人工智能开发基础的工作。[3] 总统拜登在他的国情咨文中承认了娱乐和科技行业日益严重的问题周四晚上的工会讲话，呼吁禁止人工智能语音模仿。[4] 来源：https://bushaicave.com/2024/03/07/3-7-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9f7hv/oneminute_daily_ai_news_372024/</guid>
-      <pubDate>Fri, 08 Mar 2024 04:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>彻底改变门诊临床服务：MBAI.c 公布 MedMatrix 5 套件人工智能平台的定价</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b98w3b/revolutionizing_outpatient_clinical_services/</link>
-      <description><![CDATA[ 由   提交 /u/Califanoal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b98w3b/revolutionizing_outpatient_clinical_services/</guid>
-      <pubDate>Thu, 07 Mar 2024 23:32:26 GMT</pubDate>
     </item>
     <item>
       <title>我如何将 LLM 成本降低 85% 以上</title>
