@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 21:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:52:26 GMT</lastBuildDate>
+    <item>
+      <title>关于不同国家/地区IT工作的硕士论文调查问卷</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b97kuu/master_thesis_questionnaire_about_it_jobs_in/</link>
+      <description><![CDATA[您好！ 我目前正在为我的硕士论文进行分析研究，重点关注商业领域技术变革与就业的交叉点您的见解将非常有价值，我恳请您花几分钟时间来完成这项调查。如果您也可以与 IT 行业的同事或朋友分享，我会的非常感谢。 先谢谢您！ Google 表单链接： https://forms.gle/jYPNacjmDtfmU29N6    由   提交/u/Compliance_Gap334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b97kuu/master_thesis_questionnaire_about_it_jobs_in/</guid>
+      <pubDate>Thu, 07 Mar 2024 22:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>在你的 GitHub 中，你能说出你想要制作开源版本而不遇到麻烦的软件的名称吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b97bla/in_your_github_can_you_name_the_software_you_are/</link>
+      <description><![CDATA[ 由   提交 /u/MrOogaBoga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b97bla/in_your_github_can_you_name_the_software_you_are/</guid>
+      <pubDate>Thu, 07 Mar 2024 22:22:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源、分布式、去中心化人工智能：众包如何支付海量数据和计算费用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b95ra5/open_source_distributed_decentralized_ai_how/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b95ra5/open_source_distributed_decentralized_ai_how/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:20:29 GMT</pubDate>
+    </item>
     <item>
       <title>SynQ：一个拥有 4 万用户的音乐浏览器扩展，提供具有跨服务链接的迷你播放器，现已开源并正在寻找贡献者！</title>
       <link>https://www.reddit.com/r/opensource/comments/1b95az6/synq_a_music_browser_extension_with_40k_users/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>Vernier Logger Pro/图形分析的自由和开源软件替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1b932s9/foss_alternative_to_vernier_logger_prographical/</link>
-      <description><![CDATA[我在一所小型大学教授入门物理实验室，我们利用 Vernier LabQuest Mini 传感器接口及其 Logger Pro 软件进行数据收集和分析。然而，我们都付出了很多（因为教育软件和设备的价格过高），并且该软件偶尔会在一些明显的任务上失败，例如将图形导出为图像。 （学生目前必须截屏，保存，然后通过电子邮件发送给自己以包含在他们的实验报告中，这很令人讨厌）。我很想找到一种 FOSS 替代方案（如果存在）。以下是要求：  与 Vernier LabQuest Mini 和传感器完全连接，包括检测和校准 与 Vernier 实验文件 (.cmbl) 兼容 &lt; li&gt;使用易于配置的标签和轴进行简单的数据输入/绘图 曲线拟合，具有用户定义的拟合选项 将数据导出为常见格式并将图形导出为图像（.png、 .jpeg，也许是 svg/pdf） 必须可供具有最少计算经验的本科生使用 最好与操作系统无关（至少是 Mac/Win），以便学生可以在他们的计算机上安装如果需要，可以拥有自己的机器  如果我正在寻找不存在的东西，我理解，但我会接受你能给的任何东西。   由   提交/u/ducks_over_IP   [链接] [评论]]]></description>
+      <description><![CDATA[我在一所小型大学教授入门物理实验室，我们利用 Vernier LabQuest Mini 传感器接口及其 Logger Pro 软件进行数据收集和分析。然而，我们都付出了很多（因为教育软件和设备的价格过高），并且该软件偶尔会在一些明显的任务上失败，例如将图形导出为图像。 （学生目前必须截屏、保存，然后通过电子邮件发送给自己以包含在实验室报告中，这很令人讨厌）。我很想找到一种 FOSS 替代方案（如果存在）。以下是要求：  与 Vernier LabQuest Mini 和传感器完全连接，包括检测和校准 与 Vernier 实验文件 (.cmbl) 兼容 &lt; li&gt;使用易于配置的标签和轴进行简单的数据输入/绘图 曲线拟合，具有用户定义的拟合选项 将数据导出为常见格式并将图形导出为图像（.png、 .jpeg，也许是 svg/pdf） 必须可供具有最少计算经验的本科生使用 最好与操作系统无关（至少是 Mac/Win），以便学生可以在他们的计算机上安装如果需要，可以拥有自己的机器  如果我正在寻找不存在的东西，我理解，但我会接受你能给的任何东西。   由   提交/u/ducks_over_IP   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b932s9/foss_alternative_to_vernier_logger_prographical/</guid>
       <pubDate>Thu, 07 Mar 2024 19:33:22 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>我建立了一个开源视觉审查和测试平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</link>
-      <description><![CDATA[       由   提交 /u/EvilSuppressor   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/EvilSuppressor  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</guid>
       <pubDate>Thu, 07 Mar 2024 11:34:44 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>开放式接口 - 使用法学硕士自助操作您的计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</link>
-      <description><![CDATA[      开放接口 - 使用 LLM 操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github: https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      开放接口 - 使用法学硕士操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github：https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</guid>
       <pubDate>Wed, 06 Mar 2024 22:10:56 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在寻找有关 PyQt6 的项目（或者如果您有一个需要 GUI 的项目）来贡献。我正在努力在这个开源世界中进行更多扩展。我想让其他项目变得更好，同时让我的项目变得更好。因此，如果有人有任何我可以贡献的项目，请在下面的评论中链接它们。  关于我的一些事情。你好。我是 Rohan Kishore，来自印度喀拉拉邦。我现在17岁。我从 2022 年 10 月开始开源（从 2019 年开始学习编码，从我记事起就对计算机感兴趣）。  我目前有一些使用 PyQt6 和 Python 制作的个人项目（其中一些您已经见过），我将在下面链接它们。  光环文本 Youtility Spotifyte ZenNotes    由   提交 /u/Specialist-Arachnid6   /u/Specialist-Arachnid6 reddit.com/r/opensource/comments/1b873do/looking_for_projects_lated_to_python_to/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b873do/looking_for_projects_related_to_python_to/</guid>
       <pubDate>Wed, 06 Mar 2024 18:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国东部时间今天下午 2 点与 Bruce Perens 和 Steven Tey 谈论开源的未来</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b83ib0/talk_on_the_future_of_open_source_today_at_2pm/</link>
-      <description><![CDATA[       由   提交/u/mattatdirectus  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b83ib0/talk_on_the_future_of_open_source_today_at_2pm/</guid>
-      <pubDate>Wed, 06 Mar 2024 16:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们从专有到开源的旅程已经完成！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b83aex/our_journey_from_proprietary_to_open_source_is/</link>
-      <description><![CDATA[r/opensource 社区大家好！&lt; /p&gt; 经过 15 年的专有软件世界之旅后，我们很高兴地宣布，随着 Daytona 的发布，我们已经向开源迈出了一大步——一款旨在简化开发环境管理器您的编码生活。 以下是 Daytona 提供的功能的快速概述：  单一命令设置：告别繁琐的环境配置。借助 Daytona，您只需一个命令即可启动并运行您的开发环境。 基础设施灵活性：无论您是本地爱好者还是云爱好者，Daytona 都能发挥作用，让您可以自由地在最适合您的环境中工作。 开源优势：我们相信最好的软件是通过社区协作成长的。 Daytona 是完全开源的，我们邀请您深入研究代码、做出贡献并帮助我们共同增强开发人员体验。  我们将此称为 0.1.0 alpha发布 - 它是新鲜出炉的，我们渴望您的反馈。查找错误，提出改进建议，让我们以社区的形式塑造开发环境的未来！ 您可以在这里找到源代码并开始使用：https://github.com/daytonaio/daytona 我们在这里回答您可能遇到的任何问题，我们迫不及待地想看看您会如何回答使用 Daytona 改善您的开发工作流程。 让我们一起更好地编码！伊万 P.S.我们不只是发布一个工具；我们还发布了一个工具。我们正在分享一个转变的故事，很想听听您的想法！ https://twitter.com/ivanburazin/status/1765392906054197674   由   提交/u/ancientabsence28  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b83aex/our_journey_from_proprietary_to_open_source_is/</guid>
-      <pubDate>Wed, 06 Mar 2024 16:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于创建 VBox 可启动系统映像的 Macrium 替代方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b8207j/macrium_alternative_to_create_vboxbootable_system/</link>
-      <description><![CDATA[自从 Macrium Reflect 免费版退役以来，我一直在连续几个月研究一种可能的开源替代方案，以替代其改变游戏规则的虚拟化功能这是通过 VirtualBox 使用名为 viBoot 的程序实现的。如果有人记得这个程序或者有机会在任何程度上使用它，你可能会记得它是多么酷。不管出于什么原因，在我开始使用 VirtualBox 之前，我个人在 VirtualBox 中经历了最困难的时期，多年来一直出现错误，这又是另一天的长篇故事了。 重要的是，我终于让 viBoot加载我的 Macrium Reflect 系统映像之一的虚拟化实例，我非常兴奋，因为这可以节省时间并减少 SSD 磨损和损坏。如果我需要恢复的图像丢失了损坏的图像中的关键内容，那么我可能必须在系统图像之间返回。理想情况下，当系统还原是您唯一剩下的选择时，情况不会是这样，但实际上，您永远不能指望它。我会定期创建系统备份，但如果我必须使用系统备份，我会这样做，因为我期望我可能会或可能不记得或已保存/记录自该映像以来所做的更改。老实说，我确实主张将虚拟化作为一种​​解决方案来填补这方面的空白。 问题是，Macrium Reflect 是我至少个人使用过的唯一可以实现此目的的程序它可以使用 VirtualBox 来启动整个系统映像。 Reflect Free 退役后，我打开了自动更新，即使我想也无法返回到可以启动免费版本的上一个版本。即使我可以，Windows 在没有它的情况下更新的时间越长，漏洞和漏洞就会开始发挥作用。就在那时我开始想好吧...... 这就是nerf或nuthin&#39;。哦等等抱歉，用词错误。它是开源的或者没什么。 😆😆 在这次经历之后，我或多或少完全退出了第 3 方应用程序，只有在开源的情况下才安装新工具，因为至少我可以摆脱它。这让我想到，嘿，如果 Macrium 可以在 virtualbox 中启动系统映像，那么从开源的角度来看，也许我可以弄清楚他们是如何做到的。实际上，现在可能有另一个应用程序在执行此操作，但我必须弄清楚我需要什么文件类型。 50 多个书签之后，很难从教程和文档中判断程序是否会创建VirtualBox 可启动的文件。我怀疑我需要的第一种文件类型是 .IMG 文件，但是哪些程序可以生成此文件？我通过阅读了解到这是软盘时代使用的较旧的文件类型。另一个候选者可能是我不太了解的 .WIM 文件，或者是好的 ol&#39; VDI 或 VHID 文件（如果有创建这些文件的映像解决方案）。 （长镜头） 如果有人仍然和我一起写这篇长篇文章，非常感谢。我写这篇文章是希望至少有人在某个地方有过类似的想法，并找到可能的解决方案。    由   提交/u/Steamtrigger42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b8207j/macrium_alternative_to_create_vboxbootable_system/</guid>
-      <pubDate>Wed, 06 Mar 2024 15:08:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
