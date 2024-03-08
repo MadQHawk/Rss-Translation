@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 09:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 12:21:31 GMT</lastBuildDate>
+    <item>
+      <title>使用令牌桶算法对 API 进行速率限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9mgv1/rate_limiting_apis_using_token_bucket_algorithm/</link>
+      <description><![CDATA[   /u/dumbPotatoPot  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9mgv1/rate_limiting_apis_using_token_bucket_algorithm/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：针对 100 个并发用户优化 MySQL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9mgci/need_help_optimizing_mysql_for_100_concurrent/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9mgci/need_help_optimizing_mysql_for_100_concurrent/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>🤯</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9lxyd/_/</link>
+      <description><![CDATA[&lt;表&gt;       由   提交/u/pruthivithejan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9lxyd/_/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么好的可访问性实验吗？我希望一些人能够体验残疾人和各种问题的人如何浏览网络</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9kqkn/any_good_accessibility_experiments_i_want_some/</link>
+      <description><![CDATA[TL;DR：我正在寻找一些网络实验，让人们体验某些残疾的感受。不仅仅是视觉上的，希望其他方面也是如此。您是否有一些关于此类主题的很酷的网站可以分享？ 网络有各种解决方案可以让残疾人或有特定偏好的人能够消费内容。 A11y 规则的进步已经取得了很大进步，但很难弄清楚需要做多少事情以及需要做什么才能让人们获得更好的体验。 因此，为了指导开发人员并改进他们的工作，似乎让他们体验某些事情是个好主意。所以我正在寻找这样的东西，所以网站或页面具有：  过滤各种颜色以体验色盲以及如何导致各种问题 一种体验阅读障碍的方法。字母不断变化等等 听力不好的经历。内容被讲述，但很难弄清楚实际所说的内容以及字幕如何提供帮助 屏幕阅读器以及人们如何使用它来阅读网络以及他们需要什么来使其变得更好  li&gt; 您有视力模糊或其他类型的视觉障碍 体验自闭症或多动症的方式，以及网站如何帮助他们驾驭世界 手部颤抖。也许有某种方式让鼠标在需要点击的地方不受控制地晃动  如果它有一些游戏化的角度，其中难度会增加，并且人们最终会在该主题上得到很好的教育，那么就会得到奖励分。   p&gt; 在某种程度上，我想带领一群人围绕健康进行一次冒险，以及如何通过一些改变来建立更好的网站。还与设计师合作改进事物，并与产品负责人交谈等，以确保这些事情得到积压。   由   提交 /u/AwesomeFrisbee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9kqkn/any_good_accessibility_experiments_i_want_some/</guid>
+      <pubDate>Fri, 08 Mar 2024 10:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node + Prisma + Graphql - 使用大型数据库 [需要建议]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9kff0/node_prisma_graphql_working_with_large_databases/</link>
+      <description><![CDATA[嗨。 后端开发新手，希望您对我现在面临的问题提供一些建议或意见在 Web 应用程序的早期开发阶段。 直接进入问题： 我有 2 个表，用于保存车辆数据 (Vehicle) 和车辆属性 (Attributes) 数据，以及另一个表 ( VehicleAttributeValue) 连接这两者。第三个表变得相当大且非常快，因为假设一辆车可以有大约 25 个属性值。该应用程序应该能够处理相当多的车辆，假设超过 5000 辆，所以现在 VehicleAttributeValue 表的行数超过 125000 行。 Q1：我的第一个问题，因为我是新手对于后端和数据库开发来说，这 125000+ 行数在关系数据库中是常见的还是从这里开始我在这里选择了错误的数据库？ 所以现在当我需要查询时，实际问题开始发生使用 graphql 的数据。如果我将限制保持在相对较低的水平（大约 100），则响应会延迟相当多（2 秒以上），但它会返回...如果我将其增加到一个非常大的限制（可能实际上不切实际的 idk），例如 1000，现在，节点js 内存不足。所以这看起来更像是一个 graphql (javascript/node) 问题，其中节点耗尽堆内存，而不是数据库问题，但我不确定。 Q2（3 和 4）：我知道我可以增加节点堆内存限制，但我认为这不应该是真正的解决方案。解决此类问题的正确方法是什么？我应该将我的数据库架构视为第一个问题吗？我应该将 graphql 解析器视为第一个问题吗？我从哪里开始改进？ ​ PS：如果我应该提供有关应用程序的更多信息，我肯定会提供，请告诉我。 ​ 堆栈： Keystone JS (node / typescript / graphql / prisma / mysql) NextJS (react / graphql) &lt; ;- 与问题无关 ​ tldr: 我在mysql中有一个连接表，其中包含很多行，125000+。当我查询涉及该表的数据并且查询大量行时，节点会耗尽堆内存。我从一开始就做错了什么吗？我使用了错误的堆栈吗？我该如何改进它？   由   提交/u/_shakshuka_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9kff0/node_prisma_graphql_working_with_large_databases/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:48:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>存储库显示了前端单元测试的良好示例？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9kdby/repos_showing_good_examples_of_frontend_unit/</link>
+      <description><![CDATA[尽管如此，我仍然很难看到前端单元测试的价值想要确信它是有用的。 任何人都可以给我指出一些可以做到这一点的存储库（而不是文章）吗？   由   提交 /u/jezmck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9kdby/repos_showing_good_examples_of_frontend_unit/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 reCAPTCHA v3 低分 2024-03-08</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9kcnt/google_recaptcha_v3_low_scores_20240308/</link>
+      <description><![CDATA[我遇到了麻烦，用户在过去几个小时内开始获得异常低的分数 0,1-&gt;0,3。 即使手动写入凭据。还有其他人注意到什么吗？   由   提交/u/norpan83  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9kcnt/google_recaptcha_v3_low_scores_20240308/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:43:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型组织如何使用双因素身份验证管理共享帐户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9k6ix/how_do_big_organisations_manages_shared_accounts/</link>
+      <description><![CDATA[您好 我想知道当有多个帐户可用时，大型组织如何管理对多人共享的帐户的访问. 例如：平台上的单个帐户（假设为 freepik.com），您需要两因素身份验证 第一，有很多人需要访问该帐户吗？  对于密码，密码管理器就足够了。但是双因素短信或应用程序怎么样？   由   提交/u/kenweego  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9k6ix/how_do_big_organisations_manages_shared_accounts/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:31:32 GMT</pubDate>
+    </item>
     <item>
       <title>Rolldown 现已开源</title>
       <link>https://www.reddit.com/r/webdev/comments/1b9jjba/rolldown_is_now_open_source/</link>
@@ -15,7 +71,7 @@
     <item>
       <title>Django Rest Framework (DRF) 是构建后端的首选吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b9itzm/is_django_rest_framework_drf_a_good_first_choice/</link>
-      <description><![CDATA[在开发一个简单的 API 后端时，一位高级开发人员向我介绍了它。我不会撒谎，包含电池的部分在 django 管理面板和所有内容中看起来很酷（尽管我倾向于厌倦神奇的 API）。 但是由于我们只需要一个 API，因此他建议使用 DRF。在我看来，这有点倒退，因为他们采用了像 Django 这样的全栈整体框架，并将其扭曲为像 REST API 一样运行。我想如果您是一位想要构建现代 REST API 的 Django 资深人士，这会是令人惊奇的。但是，如果你从未使用过 django，这很好吗？ IMO 如果你想钉钉子，你可以使用锤子。不是螺丝刀的刀柄。但话又说回来，我是一个初级蛆虫，所以我很想听听一些关于使用工具重新调整用途的工具（即 django 重新设计为仅 DRF 形式的 API）而不是 FastAPI 或 Flask 之类的工具的见解。   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
+      <description><![CDATA[在开发一个简单的 API 后端时，一位高级开发人员向我介绍了它。我不会撒谎，包含电池的部分在 django 管理面板和所有内容中看起来很酷（尽管我倾向于厌倦神奇的 API）。 但是由于我们只需要一个 API，因此他建议使用 DRF。在我看来，这有点倒退，因为他们采用了像 Django 这样的全栈整体框架，并将其扭曲为像 REST API 一样运行。我想如果您是一位想要构建现代 REST API 的 Django 资深人士，这会是令人惊奇的。但是，如果你从未使用过 django，这很好吗？ IMO 如果你想钉钉子，你可以使用锤子。不是螺丝刀的刀柄。但话又说回来，我是一个初级蛆虫，所以我很想听听一些关于使用工具重新调整用途的工具（即 django 重新设计为仅 DRF 形式的 API）而不是 FastAPI 或 Flask 等工具的见解。   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b9itzm/is_django_rest_framework_drf_a_good_first_choice/</guid>
       <pubDate>Fri, 08 Mar 2024 08:01:09 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[昨天，我去面试了。系统设计+小代码测试。系统设计部分进展顺利，尽管我从未做过。但我的代码测试失败了。为什么？因为一些 Leetcode BS。我拥有该项目所需的技能！为什么我需要在时间敏感的环境中做一些愚蠢的算法！！！那是迟钝的！  我的心情非常低落，因为我已经 8 个月没有找到工作了。我真的很有希望，因为我的第一次面试很顺利，这次面试也很顺利，直到算法问题。在这一点上我感觉自己很失败，在这个行业工作了五年后我想放弃，不知道该怎么办。尽管我有能力证明，但我永远不会使用的 HS 让我沮丧。 CHATGPT 可以做到为什么我需要做这个事情！为什么我们至今仍如此执着于此！这并不能证明任何事情！ 也许我在这一切上都是错的。也许我就是问题所在。请让我知道你的想法。因为我感觉不太舒服。   由   提交/u/Silver_Form2827   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b9g0no/tired_of_letcode_bs/</guid>
       <pubDate>Fri, 08 Mar 2024 05:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以将图像存档为 html 格式吗？ （更多细节在帖子中）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9fpbl/any_way_to_archive_images_in_an_html_more/</link>
-      <description><![CDATA[您好！我对网络开发的东西还很陌生，在网上找不到任何东西，所以很抱歉，如果这是一个显而易见的事情， ​ 但是对于上下文，我有一个备份不和谐服务器的 html，我想知道你是否能够在本地存档图像 - 不和谐 html 链接中的所有图像都返回到实际的不和谐托管图像链接，但是如果能够同时获得，那就太酷了所有图像都在本地，并且代码也引用本地文件路径而不是 url。我知道如何手动执行此操作，但我想知道是否有一个工具可以使它更容易。 ​ tldr;您能否从本地下载 html 中的所有图像，并让代码轻松引用这些本地下载的图像，而无需进行大量手动工作？  &amp;# 32；由   提交 /u/GraphicsCow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9fpbl/any_way_to_archive_images_in_an_html_more/</guid>
-      <pubDate>Fri, 08 Mar 2024 04:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试重新设计我的网页，但与我合作的网页设计师坚持要在 Wordpress 上制作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9f5ij/im_trying_to_redesign_my_webpage_but_the_web/</link>
-      <description><![CDATA[我问这个是因为我不是网络开发人员，我们的网页位于 .Net 上，我进行了一些研究，我发现发现 WordPress 在 webdev 社区中有点不受欢迎，为什么呢？  我们是一家软件公司，但我们没有太多的网络开发人员，这就是我们选择另一家公司的原因   由   提交/u/YoBoi909  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9f5ij/im_trying_to_redesign_my_webpage_but_the_web/</guid>
-      <pubDate>Fri, 08 Mar 2024 04:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试制作一个应用程序，将流程图转换为我的大学项目的实际代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9f1ci/trying_to_make_an_application_that_converts_a/</link>
-      <description><![CDATA[任何人都可以帮助我如何做到这一点吗？另外，这可能吗？我的想法很简单。输入流程图的图像。然后输出完整的代码。  我正在考虑从简单的流程图和顺序编程开始，然后可能是 C 语言。 但我还无法理解算法如何理解含义的概念在流程图符号后面并将其转换为可以运行的代码。 请如果有人可以解释它会很有帮助。    由   提交 /u/Funny_Shoe1772   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9f1ci/trying_to_make_an_application_that_converts_a/</guid>
-      <pubDate>Fri, 08 Mar 2024 04:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>难以置信</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9eq4y/unbelievable/</link>
-      <description><![CDATA[       由   提交/u/thanks_man12  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9eq4y/unbelievable/</guid>
-      <pubDate>Fri, 08 Mar 2024 04:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 进行面部情绪识别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9chvw/facial_emotion_recognition_with_python/</link>
-      <description><![CDATA[情绪识别是机器学习的一部分，属于相对较新的人工智能研究领域。如今，该技术用于自动识别图像和视频中的面部表情、音频中的口头表达、文本中的书面表达以及可穿戴设备测量的生理学。Luxand 提供基于云的情绪识别 API，该 API 提供了用于人脸识别的全系列基于人工智能的计算机视觉工具。通过本教程，您将了解如何使用 Python 将 Luxand.clod 情绪检测 API 实现到您的应用程序、软件或系统中。学习更多信息请参见：使用 Python 进行面部情绪识别   由   提交 /u/dothemaumau   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9chvw/facial_emotion_recognition_with_python/</guid>
-      <pubDate>Fri, 08 Mar 2024 02:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>认证问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9bej9/authentication_question/</link>
-      <description><![CDATA[对于通过第三方应用程序进行令牌认证，您可以在后端完成整个过程：请求授权码-&gt;接收码-&gt;请求令牌，还是需要在前端请求代码，然后将其发送到后端，然后从后端请求令牌？  &amp;# 32；由   提交 /u/bilimon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9bej9/authentication_question/</guid>
-      <pubDate>Fri, 08 Mar 2024 01:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>得到教训</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9b7ob/lessons_learned/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9b7ob/lessons_learned/</guid>
-      <pubDate>Fri, 08 Mar 2024 01:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想为我的静态 html+css+js 网站提供一些功能，例如联系表单、路由等。我可以使用的最简单、最轻量级的后端是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9a9w9/i_want_to_give_my_static_htmlcssjs_website_some/</link>
-      <description><![CDATA[所以这些年来我建立的大多数网站都是纯静态页面。 Html、CSS 和 vanilla js。 但是，对于我过去使用的一些 cms 后端来说，有一些功能几乎是开箱即用的，但我确实怀念这些功能。  其中最主要的是能够轻松地拥有发送电子邮件的联系表单，以及删除 *.html 扩展名和使用子目录的方法。 目前，我使用不同的解决方案来实现这些功能。 对于联系表单，我使用 smtp.js + 弹性邮件。 对于 html 文件扩展名，我在 htaccess 文件中使用重写引擎规则。&lt; /p&gt; 但是 smtp.js + 弹性邮件并不完美。 而且我的 htaccess 规则不止一次出现导致问题的情况（所有 godaddy cpanel 主机上出现 500 个内部服务器错误） ，例如）。 所以我想看看还有什么其他解决方案可行。 WordPress 是一个足够简单的答案，但老实说，我讨厌 WordPress，并且真的不想费心使我的页面自定义主题。 有什么建议和建议吗？   由   提交/u/Katylar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9a9w9/i_want_to_give_my_static_htmlcssjs_website_some/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:42:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
