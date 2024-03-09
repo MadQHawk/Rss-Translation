@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 09 Mar 2024 18:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 21:12:04 GMT</lastBuildDate>
+    <item>
+      <title>完全用汇编器编写的 STM32F4 持久闪存驱动程序，可通过实际应用帮助理解和学习 ARM 汇编器。</title>
+      <link>https://www.reddit.com/r/programming/comments/1barvw4/an_stm32f4_persistent_flash_driver_written/</link>
+      <description><![CDATA[ 由   提交/u/Material_Opinion_321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1barvw4/an_stm32f4_persistent_flash_driver_written/</guid>
+      <pubDate>Sat, 09 Mar 2024 20:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的管理之旅为软件工程师提供的可行建议</title>
+      <link>https://www.reddit.com/r/programming/comments/1bargoq/actionable_advice_for_software_engineers_from_my/</link>
+      <description><![CDATA[嘿朋友们 - 我想分享这篇文章，希望您发现它对您的软件工程职业生涯有用且相关。我认为分享一些我在同时担任经理和软件工程师时学到的东西可能会很有趣。 在我职业生涯的前 8 年里，它让我能够深入了解双方经理/IC 关系。我现在是 Microsoft 的首席软件工程经理，因此我的职责看起来与我工作的初创公司时的职责非常不同。 TL;DR 位于文章顶部，也可以节省您一些时间🙂   由   提交/u/ncosentino  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bargoq/actionable_advice_for_software_engineers_from_my/</guid>
+      <pubDate>Sat, 09 Mar 2024 20:34:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>线性规划解释为滑下坡</title>
+      <link>https://www.reddit.com/r/programming/comments/1bard38/linear_programming_explained_as_skating_downhill/</link>
+      <description><![CDATA[ 由   提交/u/padthaipotpie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bard38/linear_programming_explained_as_skating_downhill/</guid>
+      <pubDate>Sat, 09 Mar 2024 20:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作的一个符合 ES5 的解释器，完全用 Java 编写</title>
+      <link>https://www.reddit.com/r/programming/comments/1bapy38/an_es5compliant_interpreter_i_made_written_fully/</link>
+      <description><![CDATA[ 由   提交 /u/topchetoeuwastaken   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bapy38/an_es5compliant_interpreter_i_made_written_fully/</guid>
+      <pubDate>Sat, 09 Mar 2024 19:30:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>ePiano - 我的第二个 Javascript 项目。如何？</title>
+      <link>https://www.reddit.com/r/programming/comments/1baojmw/epiano_my_2nd_javascript_project_how_is_it/</link>
+      <description><![CDATA[ 由   提交/u/Shinjan128  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1baojmw/epiano_my_2nd_javascript_project_how_is_it/</guid>
+      <pubDate>Sat, 09 Mar 2024 18:30:40 GMT</pubDate>
+    </item>
     <item>
       <title>在技​​术团队中建立健康冲突的文化 - Andrew Murphy - NDC 波尔图 2023</title>
       <link>https://www.reddit.com/r/programming/comments/1banz0w/building_a_culture_of_healthy_conflict_in_tech/</link>
@@ -55,7 +90,7 @@
       <pubDate>Sat, 09 Mar 2024 11:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>普利树</title>
+      <title>普罗利树</title>
       <link>https://www.reddit.com/r/programming/comments/1badqmb/prolly_trees/</link>
       <description><![CDATA[ 由   提交/u/keepmyeyesontheprice  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1badqmb/prolly_trees/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/xtpgtpgx  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1badn37/a_cli_tool_for_generating_licenses_for_your/</guid>
       <pubDate>Sat, 09 Mar 2024 09:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>算法可视化应用</title>
-      <link>https://www.reddit.com/r/programming/comments/1bad63r/algorithmly_visualizer_application/</link>
-      <description><![CDATA[为学生和其他人创建算法可视化工具和测验来学习算法。任何反馈和错误提示将不胜感激🙏🏼（ps这是一个网络应用程序，所以不要在移动设备上尝试）   由   提交/u/KingRelative2811   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bad63r/algorithmly_visualizer_application/</guid>
-      <pubDate>Sat, 09 Mar 2024 08:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 HTML 和 CSS 创建渐变线 - Makemychance</title>
-      <link>https://www.reddit.com/r/programming/comments/1bacobs/how_to_create_a_gradient_line_with_html_and_css/</link>
-      <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bacobs/how_to_create_a_gradient_line_with_html_and_css/</guid>
-      <pubDate>Sat, 09 Mar 2024 08:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>一千个微服务的死亡</title>
-      <link>https://www.reddit.com/r/programming/comments/1bacmdf/death_by_a_thousand_microservices/</link>
-      <description><![CDATA[ 由   提交/u/stackoverflooooooow  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bacmdf/death_by_a_thousand_microservices/</guid>
-      <pubDate>Sat, 09 Mar 2024 08:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 STM32 微控制器在示波器上渲染 3D 图形</title>
-      <link>https://www.reddit.com/r/programming/comments/1babn6t/rendering_3d_graphics_on_an_oscilloscope_with_an/</link>
-      <description><![CDATA[ 由   提交 /u/FrancisStokes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1babn6t/rendering_3d_graphics_on_an_oscilloscope_with_an/</guid>
-      <pubDate>Sat, 09 Mar 2024 06:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新攀爬机制和程序跳跃 - (Unity)</title>
-      <link>https://www.reddit.com/r/programming/comments/1bablsz/updates_climbing_mechanism_and_procedural_jumping/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bablsz/updates_climbing_mechanism_and_procedural_jumping/</guid>
-      <pubDate>Sat, 09 Mar 2024 06:52:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
