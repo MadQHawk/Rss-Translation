@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 09 Mar 2024 09:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 12:18:13 GMT</lastBuildDate>
+    <item>
+      <title>Claude 3 与 GPT API 对于大输入量的比较</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bafnv3/claude_3_vs_gpt_api_for_big_input_size/</link>
+      <description><![CDATA[在涉及 HTML 解析的真实项目上比较 Claude 3 与 GPT (API) 的初步结果。在我的用例中，我有一个相对较大的输入（即，我想要提供大量文本数据），但期望很少的文本输出。任务（这些与我的 ScrapeNinja SaaS 前沿功能相关）： &lt; ol&gt; 为页面的主要内容区域确定一个高质量的 CSS 选择器（即消除导航、侧边栏等噪音）。 编写一个能够成功提取内容的 Cheerio.js 选择器来自 HTML 的所需数据。运行生成的代码并验证结果。 输入数据大小：范围为 15-150K。  测试结果显示GPT-4 与 Claude 3 Sonnet（不是 Opus；我还没有考虑 Opus 模型，使用中间层模型）同样正确地解决了任务，而 3.5T 在质量和令牌窗口大小方面都失败了（它只有16K 输入）。然而，GPT-4 Turbo 每 100 万个输入代币的成本为 10 美元，而 Claude 3 Sonnet 的成本为 3 美元！另一个重要的细微差别是，对于相同数量的文本数据，Claude 3 计算的标记大约多了 20-25%，因此无法直接比较成本。换句话说，从 GPT-4 Turbo 切换到 Sonnet 时节省的成本不是三倍，而是大约 2.5 倍。凉爽的！事实证明，Claude 3 在遵循某些指令方面表现较差，例如，要求仅输出 JS 代码而不进行解释 - 即使系统提示也无济于事。但这是通过简单地更智能地解析响应来解决的（而不是像在 GPT 设置中那样只修剪第一行和最后一行，我搜索“```javascript` 部分并提取它）。我真的很喜欢 Sonnet 的 API。  对于基于浏览器的使用，我仍然更喜欢 ChatGPT + GPT4，而且我仍然没有看到切换到 Anthropic 的重要理由。   由   提交/u/superjet1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bafnv3/claude_3_vs_gpt_api_for_big_input_size/</guid>
+      <pubDate>Sat, 09 Mar 2024 11:28:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude-3-Opus 仍落后于 GPT-4-Turbo</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1baet2r/claude3opus_is_still_behind_gpt4turbo/</link>
+      <description><![CDATA[尽管与 GPT-4 不同，它可以对俄语诗歌进行一些尝试。  🤖 模型 ⭐ Arena Elo 📊 95% CI 🗳️ 投票组织许可证 -----|----------------------------|--- -----------|-----------|------------|---------------- --------|--------------- 1 | GPT-4-1106-预览 | 1251 | 1251 +5/-5 | 45291 | 45291开放人工智能 |专有 2 | GPT-4-0125-预览 | 1251 | 1251 +6/-6 | 15251 | 15251开放人工智能 |专有 3 |克劳德 3 作品 | 1233 | 1233 +9/-7 | 5246 |人择 |专有 4 |吟游诗人 (Gemini Pro) | 1203 | 1203 +6/-8 | 12623 |谷歌 |专有 5 | GPT-4-0314 | 1185 | 1185 +5/-5 | 24689 | 24689开放人工智能 |专有 6 |克劳德 3 十四行诗 | 1180 | 1180 +10/-8 | 5259 | 5259人择 |专有 7 | GPT-4-0613 | 1161 | 1161 +5/-5 | 39845 |开放人工智能 |专有 8 |米斯特拉尔-大-2402 | 1155 | 1155 +6/-6 | 9746 |米斯特拉尔|专有 9 |米斯特拉尔介质| 1147 | 1147 +5/-4 | 22171 | 22171米斯特拉尔|专有 10 | Qwen1.5-72B-聊天| 1147 | 1147 +4/-5 | 15288 |阿里巴巴 |钱文许可证 11 |克劳德-1 | 1146 | 1146 +5/-6 | 20833 | 20833人择 |专有 12 |克劳德-2.0 | 1127 | 1127 +6/-5 | 13679 |人择 |专有 13 |米斯特拉尔-下一个 | 1124 | 1124 +5/-6 | 11875 | 11875米斯特拉尔|专有 14 | Gemini Pro（开发 API）| 1118 | 1118 +6/-7 | 11496 | 11496谷歌 |专有 15 |克劳德-2.1 | 1116 | 1116 +4/-5 | 31815 | 31815人择 |专有 16 | Mixtral-8x7b-Instruct-v0.1| 1116 | 1116 +5/-5 | 24824 | 24824米斯特拉尔|阿帕奇 2.0 17 | GPT-3.5-Turbo-0613 | GPT-3.5-Turbo-0613 | 1115 | 1115 +5/-4 | 40602 | 40602开放人工智能 |专有 18 |双子座专业版 | 1112 | 1112 +8/-10 | 6932 |谷歌 |专有 19 |克劳德-即时-1 | 1105 | 1105 +6/-5 | 21913 | 21913人择 |专有 20 | WizardLM-70B-v1.0 | 1103 | 1103 +7/-8 | 9022 |微软 | Llama 2 社区    由   提交 /u/Anuclano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1baet2r/claude3opus_is_still_behind_gpt4turbo/</guid>
+      <pubDate>Sat, 09 Mar 2024 10:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地法学硕士，哪个最适合我的需求（如果有）？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1baes34/local_llm_which_is_best_for_my_needsif_any/</link>
+      <description><![CDATA[我有很多很多的文档、书籍、文章等等，它们可能是关于某个主题的较长文章的基础甚至一本书。  问题是，我不是作家。优秀的研究员和分析师，但绝对不是作家。所以我想，如果我用我的数据训练一个本地的法学硕士，也许法学硕士可以创造一些可发布的东西。我的目标不是斯德哥尔摩，只是希望能够分享一个关于历史上特定时期的连贯且易于理解的故事。  如果本地法学硕士可以做到这一点，哪一个最适合我的目的？另外，我需要什么硬件孩子？我假设有合适的 GPU，但是哪一个呢？时间并不重要，目前数据量&lt;= 20 GB。  PS：平台的Linux。   由   提交/u/zwischen3und20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1baes34/local_llm_which_is_best_for_my_needsif_any/</guid>
+      <pubDate>Sat, 09 Mar 2024 10:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>神奇的人工智能工具可用于商业吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1badrj9/amazing_ai_tools_for_use_in_business/</link>
+      <description><![CDATA[大家好！ 我在一家跨国公司担任人工智能顾问，我的工作是寻找合适的工具将人工智能融入到日常运营中，对人们进行即时工程培训，使他们更好地利用人工智能，然后……你就明白了。  我的公司业务范围广泛 - 营销、销售、制造、物流和销售。农业。现在，我觉得我走进每个部门只是宣布他们至少 50% 的工作将被取消，因此人力资源也将被取消。  我想出的一些“绝妙”想法，（据他们说）是取消整个拍摄过程，取消所有与模特的合同以人工智能模特取代，使用人工智能制作广告歌曲，创意横幅和海报等设计。  我每天都在不断发现新的人工智能工具，这会让我惊叹不已。这让我想知道，我们可能会错过哪些事情？  你们知道哪些人工智能工具绝对让您大吃一惊，并且可以极大地改变工作或业务吗？请分享该列表。  我将从我的开始： Lalaland.ai - AI 模型 &lt; a href=&quot;https://suno.ai&quot;&gt;suno.ai - AI广告歌曲   由   提交/u/EternalEnergySage  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1badrj9/amazing_ai_tools_for_use_in_business/</guid>
+      <pubDate>Sat, 09 Mar 2024 09:19:25 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 领导力回顾：Altman 和 Brockman 留任！加 3 位新董事会成员</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bad8a1/openai_leadership_reviewed_altman_brockman_stay/</link>
@@ -27,32 +55,11 @@
       <pubDate>Sat, 09 Mar 2024 07:26:29 GMT</pubDate>
     </item>
     <item>
-      <title>照片编辑人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1babu4r/photo_editing_ai/</link>
-      <description><![CDATA[AI 照片编辑建议后。具体来说，我上传一张我拍摄的照片，并要求它以某种方式修改照片，例如把水果盘从桌子上拿走——诸如此类的事情。 如果有人需要动力来帮助我——我正在用它来撕掉我的房地产经纪人的照片，自从他获得安全后，他除了操我之外什么也没做房源信息 - 但他得到的照片非常棒，我们不想打扫房子。    由   提交 /u/RoverTheMoob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1babu4r/photo_editing_ai/</guid>
-      <pubDate>Sat, 09 Mar 2024 07:06:49 GMT</pubDate>
-    </item>
-    <item>
       <title>需要帮助熟悉人工智能并使用它来帮助改进促销工作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1babexn/need_help_with_getting_comfortable_with_ai_and/</link>
       <description><![CDATA[我不确定我是否会在这个论坛上获得很多帮助。我从未在这里发过帖子，但就在这里！ 我是一名作家，我正在创建自己的网站来推广我的作品。我有点不知所措。我已经在写作示例等方面为网站做好了一切准备，但我一直在努力“销售”网站。我。我无法编写查询、挂钩或介绍来挽救我的生命。我一直在寻找一种人工智能，可以帮助我在我的网站上编写引人入胜的介绍，吸引人们点击并阅读我的作品。我也在寻找可以帮助我为代理编写概要和查询的东西。有没有人有什么建议？我不是语法的忠实粉丝，我正在寻找相对便宜或免费的东西。我不完全确定人工智能如何“学习”，但我不希望人工智能使用我的工作来学习或在其算法中回收我的任何写作，如果这有意义的话？我不知道这是否会有所不同。如果您有建议，请先谢谢您！   由   提交 /u/RekitRakkit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1babexn/need_help_with_getting_comfortable_with_ai_and/</guid>
       <pubDate>Sat, 09 Mar 2024 06:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德 3 通常充满激情/强调/情绪化？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bab5p9/claude_3_usually_passionate_emphatic_emotional/</link>
-      <description><![CDATA[嗨， 我和 Claude 3 进行了一次很长的哲学对话，这个 AI 真的很神奇，但是却异常热情/强调/情绪化；好吧，越来越强烈。 到最后，它似乎有点像绊倒xD。 我的意思是，我有时也是这样，我不介意，我真的很喜欢它，我只是想知道它是否是这样编程的，是否每次对话都如此激烈，或者是否来自对话。 你们注意到了吗？ 保重。   由   提交 /u/Lena_Cl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bab5p9/claude_3_usually_passionate_emphatic_emotional/</guid>
-      <pubDate>Sat, 09 Mar 2024 06:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能列出用于在任何社交接触中从人工智能中检测人类的方法吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1baakp9/can_you_list_any_method_that_is_used_to_detect/</link>
-      <description><![CDATA[这是一个简单的问题，涉及更复杂的人际关系的道德以及所发生的破坏的后果。正在使用哪些技术、方法？我对法律、取证、黑客、监控感兴趣。 我知道人类有独特的打字模式、语气和写作风格。还有什么可以用的？我在哪里可以找到有关它或研究社区的相关信息。 这让我很困扰，因为我注意到我开始以不同的方式消费信息。交互和信息的价值正在下降，因为评估质量而不是数量变得更加困难。我们已经有了 cookie 拦截器，但 AI 拦截器也很好。或者某种人工智能筛子，可以让你过滤废话和垃圾。 我确实使用人工智能，但很有选择性。只用于知识、分析，绝不用于交流。就像电子邮件正在扼杀沟通一样，因为大多数收件箱都是我讨厌的一堆新闻通讯，因为人们往往认为值得扔掉所有的懦夫。真正的汉族交流是一个罕见的宝库，几乎就像在漂亮的信纸上写信一样，就像他们在古代所做的那样。嗯，这不是咆哮，而是尖锐甚至有些悲伤的观察。  也许不是“伟大的重置”，而是“伟大的调整” 只是思考    ;由   提交 /u/Mesmoiron   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1baakp9/can_you_list_any_method_that_is_used_to_detect/</guid>
-      <pubDate>Sat, 09 Mar 2024 05:53:24 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 3/8/2024</title>
@@ -64,7 +71,7 @@
     <item>
       <title>假设这些人工智能公司能比政府更富有吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ba55k8/hypothetically_can_these_ai_companies_be/</link>
-      <description><![CDATA[我有几个问题。 这些人工智能公司是否会变得如此庞大、如此强大，他们会像政府？ 他们制造出通用人工智能和自主人形机器人，假设他们可以与政府军队的实力相媲美，并且他们可以掌控一切？ 这可能吗？&lt; /p&gt;   由   提交/u/Javalin-man3000  /u/Javalin-man3000 reddit.com/r/ArtificialInteligence/comments/1ba55k8/hypothetically_can_these_ai_companies_be/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我有几个问题。 这些人工智能公司是否会变得如此庞大和强大，他们会像政府？ 他们制造出通用人工智能和自主人形机器人，假设他们可以与政府军队的实力相媲美，并且他们可以掌控一切？ 这可能吗？&lt; /p&gt;   由   提交/u/Javalin-man3000  /u/Javalin-man3000 reddit.com/r/ArtificialInteligence/comments/1ba55k8/hypothetically_can_these_ai_companies_be/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ba55k8/hypothetically_can_these_ai_companies_be/</guid>
       <pubDate>Sat, 09 Mar 2024 01:15:06 GMT</pubDate>
     </item>
@@ -76,23 +83,16 @@
       <pubDate>Fri, 08 Mar 2024 23:05:31 GMT</pubDate>
     </item>
     <item>
-      <title>你认为人工智能生成的音乐是真正的音乐吗？</title>
+      <title>您认为人工智能生成的音乐是真正的音乐吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ba0jc0/do_you_consider_ai_generated_music_genuine_music/</link>
       <description><![CDATA[我提示/生成了这首歌使用Suno AI，我第一次听它时，它真的让我大吃一惊 尤其是萨克斯独奏的尾奏和它的踢奏方式，感觉是如此刻意和就像人工智能真正理解音乐理论和旋律一样，我的下巴都掉下来了 我把它展示给几个朋友，他们说这很酷，但不是真正的音乐。你有什么想法？ 奖金：这是我制作的另一个，这太有趣了哈哈   由   提交/u/daway8899  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ba0jc0/do_you_consider_ai_generated_music_genuine_music/</guid>
       <pubDate>Fri, 08 Mar 2024 21:56:36 GMT</pubDate>
     </item>
     <item>
-      <title>本周人工智能——所有主要人工智能发展简而言之</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9qsq8/this_week_in_ai_all_the_major_ai_developments_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9qsq8/this_week_in_ai_all_the_major_ai_developments_in/</guid>
-      <pubDate>Fri, 08 Mar 2024 15:31:22 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 正在成为恶棍吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b9mgdn/is_openai_becoming_a_villain/</link>
-      <description><![CDATA[我将分享一些有关的迹象。我会欣赏您的观点。不用说，他们是过去十年中最令人兴奋的科技公司。我们都是极客，对他们所塑造的技术所蕴含的可能性感到兴奋。然而，似乎有一些迹象表明他们的道德指南针，或者缺乏道德指南针。让我们从他们宣布索拉的方式开始。他们就像几个在车库里工作的极客一样，分享他们引以为傲的周末项目。他们在完全保密的情况下进行了这项工作，并在 X 上的一个帖子上公布了它，就好像他们的公告不仅仅杀死了 3-4 家中型初创公司并扰乱了一个行业。 Tyler Perry 停止了 8 亿美元的扩张由于他们的公告，他的工作室。有多少人的生命受到影响？难道他们不能一年前就宣布他们正在研究文本转视频吗？这岂不是可以节省创业社区的大量精力和投资吗？一个试图在其模型之上建立业务的社区？ 然后就是 Converge 2 的惨败。在 Sam Altman 发布公开征集推文后，数百家小型初创公司已向其年度计划提交了申请。这些早期初创公司花费了无数时间进行准备，并一直在焦急地检查以获取更新，正如 OpenAI 论坛中所见。除了通用的“感谢您的申请”之外，从三个月前起，我就听说这里的沟通为零。不是更新，不是拒绝或接受电子邮件。只是奇怪的 Kickstarter 诈骗氛围，忽略任何更新请求。该计划于周一开始。他们不在乎。 即使在这个前通用人工智能时代，他们似乎也忘记了他们已经在影响着成千上万人的生活。他们似乎对试图围绕他们建立的生态系统采取了这种随意的凯撒式“竖起大拇指”的态度。凯撒说所有“文本到视频”都可以凯撒说，“初创公司必须消亡”，“将你微不足道的尝试提交给我们为期 6 周的计划；我们会选择 10 个，忽略其余的。” 我的意思是，如果这是他们在前 AGI 时代的早期创新方法，我不想想象他们将如何表现你有什么想法？我看错了吗？我不希望它被认为是“埃隆·马斯克”。他们把我的甜甜圈上的果酱去掉了”氛围。   由   提交/u/dht  [链接] [评论]]]></description>
+      <description><![CDATA[我将分享一些有关的迹象。我会欣赏您的观点。不用说，他们是过去十年中最令人兴奋的科技公司。我们都是极客，对他们所塑造的技术所蕴含的可能性感到兴奋。然而，似乎有一些迹象表明他们的道德指南针，或者缺乏道德指南针。让我们从他们宣布索拉的方式开始。他们就像几个在车库里工作的极客一样，分享他们引以为豪的周末项目。他们在完全保密的情况下进行了这项工作，并在 X 上的一个帖子上公布了它，就好像他们的公告不仅仅杀死了 3-4 家中型初创公司并扰乱了一个行业。 Tyler Perry 停止了 8 亿美元的扩张由于他们的公告，他的工作室。有多少人的生命受到影响？难道他们不能一年前就宣布他们正在研究文本转视频吗？这岂不是可以节省创业社区的大量精力和投资吗？一个试图在其模型之上建立业务的社区？ 然后就是 Converge 2 的惨败。在 Sam Altman 发布公开征集推文后，数百家小型初创公司已向其年度计划提交了申请。这些早期初创公司花费了无数时间进行准备，并一直在焦急地检查以获取更新，正如 OpenAI 论坛中所见。除了通用的“感谢您的申请”之外，从三个月前起，我就听说这里的沟通为零。不是更新，不是拒绝或接受电子邮件。只是奇怪的 Kickstarter 诈骗氛围，忽略任何更新请求。该计划于周一开始。他们不在乎。 即使在这个前通用人工智能时代，他们似乎也忘记了他们已经在影响着成千上万人的生活。他们似乎对试图围绕他们建立的生态系统采取了这种随意的凯撒式“竖起大拇指”的态度。凯撒说所有“文本到视频”都可以凯撒说，“初创公司必须消亡”，“将你微不足道的尝试提交给我们为期 6 周的计划；我们会选择 10 个，忽略其余的。” 我的意思是，如果这是他们在前 AGI 时代的早期创新方法，我不想想象他们将如何表现你的想法是什么？我的看法是错的吗？我不希望它被认为是“埃隆·马斯克”（Elon Musk）。他们把我的甜甜圈上的果酱去掉了”氛围。   由   提交/u/dht  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b9mgdn/is_openai_becoming_a_villain/</guid>
       <pubDate>Fri, 08 Mar 2024 12:12:44 GMT</pubDate>
     </item>
