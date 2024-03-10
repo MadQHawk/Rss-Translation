@@ -4,7 +4,52 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 10 Mar 2024 15:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 18:14:32 GMT</lastBuildDate>
+    <item>
+      <title>Docker 2 分钟 PHP/Nginx/MySQL 设置</title>
+      <link>https://feed.indiehackers.world/post/a757a06ca8</link>
+      <description><![CDATA[我为向导工具包的 Docker 拉取和设置创建了一个视频。我给它计时了，只需要 2 分钟即可下载并让所有内容在 Docker 中运行。我使用了“图像中的容器”技巧 - 只需在终端中执行 5 个命令即可完成所有操作。
+我已经使用 Docker 大约两年了，它仍然给我留下了深刻的印象。这是在受控本地环境中进行开发的好方法！
+Docker 容器包括：
+
+Nginx：1.22.0-alpine
+MySQL 8.3
+PHP 8.1-FPM
+phpMyAdmin
+Wizard 的 Toolkit 低代码开发库
+
+此视频中详细介绍了所有内容：
+https://youtu.be/3myhUcsz9w8
+或者您可以直接跳转到 Docker hub 存储库：
+https://hub.docker.com/r/proglabs/wizards-toolkit
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a757a06ca8</guid>
+      <pubDate>Sun, 10 Mar 2024 16:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉10,500 名用户之后，AI Jingle Maker 不断增长！</title>
+      <link>https://feed.indiehackers.world/post/5964c9fe74</link>
+      <description><![CDATA[它使您能够使用一些构建块创建广播或播客节目。
+我即将在音频创意领域发布第三个微型 SaaS。 
+我邀请您尝试这些产品。
+如果您对想法和内容有任何疑问，请联系我们。开发流程，欢迎询问。
+📻敬请期待！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5964c9fe74</guid>
+      <pubDate>Sun, 10 Mar 2024 16:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高在线形象的 7 个创意营销策略</title>
+      <link>https://feed.indiehackers.world/post/42d7c324c3</link>
+      <description><![CDATA[因此，请在您的营销策略中使用它。 根据个人用户的偏好和行为定制您的内容和消息。个性化营销可以显着提高参与度和转化率。
+7.微时刻
+作为一名商人或营销人员，您还应该专注于利用微时刻。当人们转向设备快速获取信息或做出决定时，这些都是短暂的时刻。预测这些时刻并提供相关的、及时的内容来吸引他们的注意力。
+结论
+提升您的在线形象需要创造力、真实性和战略性的结合思维。通过实施这些创意营销策略，您可以提升品牌形象并以有意义的方式与受众互动。因此，继续发挥创意，让您的在线形象飙升！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/42d7c324c3</guid>
+      <pubDate>Sun, 10 Mar 2024 16:02:08 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Job Boardly 求职板软件审查（实践）</title>
       <link>https://feed.indiehackers.world/post/89702dc2b5</link>
@@ -16,7 +61,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>Nomad Bootstrappers 如何定位社交媒体帖子以吸引其他国家/地区的受众？</title>
       <link>https://feed.indiehackers.world/post/6e23ab58dd</link>
-      <description><![CDATA[如何有效地将我的有机社交媒体帖子定位到特定国家或地区？
+      <description><![CDATA[如何有效地将我的自然社交媒体帖子定位到特定国家或地区？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6e23ab58dd</guid>
       <pubDate>Sun, 10 Mar 2024 11:36:47 GMT</pubDate>
@@ -48,7 +93,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>我的印象突然猛增，不知道为什么？</title>
       <link>https://feed.indiehackers.world/post/d7b02d25e6</link>
       <description><![CDATA[嘿独立黑客。
-我一直在查看我的 Google 搜索控制台，在过去的两周里，我的网站印象似乎正在以不错的趋势攀升……但我不知道为什么？这与我一直在运行的任何特定促销活动或 Google 广告活动都不相符。
+我一直在查看我的 Google 搜索控制台，在过去的两周里，我的网站印象似乎正在以不错的趋势攀升……但我不知道为什么？这与我一直在运行的任何具体促销活动或 Google 广告活动都不相符。
 这可能是谷歌沙盒效应的一个例子吗？
 （我真的很高兴，但我想了解为什么会发生这种情况，以便我可以重复导致此更改的任何原因）
 该网站是英国的免费火灾计算器：https://blackandwhitefire.com
@@ -60,7 +105,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>为非营利组织开发财务 SaaS。</title>
       <link>https://feed.indiehackers.world/post/849a53a1fb</link>
       <description><![CDATA[大家好。我目前正在开发专门为非营利组织设计的财务跟踪软件。 
-除了簿记功能、捐赠者和筹款活动管理、精细报告之外，它还包括（例如，您可以为特定捐赠者创建一份报告，向他们展示其捐赠的使用情况、投资回报率）我正在联系非营利组织，看看他们希望在该软件中看到哪些其他类型的特性和功能，以便更轻松地跟踪他们的财务状况，以便他们可以花更多时间专注于他们的使命。 
+除了簿记功能、捐赠者和筹款活动管理、精细报告之外，它还包括（例如，您可以为特定捐赠者创建一份报告，向他们展示捐赠的使用情况、投资回报率）我正在联系非营利组织，看看他们希望在该软件中看到哪些其他类型的特性和功能，以便更轻松地跟踪他们的财务状况，以便他们可以花更多时间专注于他们的使命。 
 该软件将是基于订阅的，并且对年收入低于 100,000.00 美元的非营利组织免费。如果您知道任何经营非营利组织的人可能对塑造该软件的开发感兴趣，请随时与我们联系。如果您有任何疑问，我也很乐意解答。感谢您抽出时间。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/849a53a1fb</guid>
@@ -84,7 +129,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/c50b72fd0a</link>
       <description><![CDATA[此后，一位来自马来西亚的用户最终注册了。我们的产品提供了30天的沙箱，他尝试了这些。出站的人联系了他，联合创始人继续展示演示。很高兴告诉大家，那个人已经转变了，将从四月开始与我们一起工作。 ARR 约为 3k。
 &lt;小时/&gt;
-那么我应该将这个免费工具算作已产生了 3000 美元的起始年度经常性收入 (ARR)，还是我只是在正确的时间和地点出现了？当我随着时间的推移收集更多数据时，我最终会知道。
+那么我应该将这个免费工具算作已产生 3000 美元的起始年度经常性收入 (ARR)，还是我只是在正确的时间和地点出现了？当我随着时间的推移收集更多数据时，我最终会知道。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c50b72fd0a</guid>
       <pubDate>Sun, 10 Mar 2024 08:13:05 GMT</pubDate>
@@ -103,7 +148,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[我认为有效的方法：
 
 人们从我的博文中学习（权威性和知名度）
-人们看到我在 Twitter 上发布了有关 Kamal 的所有内容（曝光度）
+人们看到我在 Twitter 上发布了有关 Kamal 的所有内容（曝光率）
 由于我的第一本书（权威与信任），我建立了相关受众
 
 有些人在购买第二本书时特别提到他们喜欢我的第一本书。
@@ -142,39 +187,6 @@ https://bridgepath.ai/
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/5182f5e142</guid>
       <pubDate>Sat, 09 Mar 2024 23:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 笔记本到成熟的人工智能求职助手：我的技术堆栈之旅</title>
-      <link>https://feed.indiehackers.world/post/b5a6075235</link>
-      <description><![CDATA[致其他建设者：
-您选择的技术堆栈至关重要，但同样重要的是学习和适应的意愿。我的旅程非常规，但它强调了坚持、自我教育和正确工具的力量。
-查看 Bridge Path，看看我用这个技术堆栈构建了什么：
-https://bridgepath.ai/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b5a6075235</guid>
-      <pubDate>Sat, 09 Mar 2024 23:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 笔记本到成熟的人工智能求职助手：我的技术堆栈之旅</title>
-      <link>https://feed.indiehackers.world/post/ab5f3536f1</link>
-      <description><![CDATA[致其他建设者：
-您选择的技术堆栈至关重要，但同样重要的是学习和适应的意愿。我的旅程非常规，但它强调了坚持、自我教育和正确工具的力量。
-查看 Bridge Path，看看我用这个技术堆栈构建了什么：
-https://bridgepath.ai/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ab5f3536f1</guid>
-      <pubDate>Sat, 09 Mar 2024 23:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 笔记本到成熟的人工智能求职助手：我的技术堆栈之旅</title>
-      <link>https://feed.indiehackers.world/post/f0258c95c2</link>
-      <description><![CDATA[致其他建设者：
-您选择的技术堆栈至关重要，但同样重要的是学习和适应的意愿。我的旅程非常规，但它强调了坚持、自我教育和正确工具的力量。
-查看 Bridge Path，看看我用这个技术堆栈构建了什么：
-https://bridgepath.ai/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f0258c95c2</guid>
-      <pubDate>Sat, 09 Mar 2024 23:57:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
