@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 11 Mar 2024 12:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 15:13:02 GMT</lastBuildDate>
+    <item>
+      <title>外部驱动器有什么好处？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bc5hji/what_are_benefits_of_an_external_drive/</link>
+      <description><![CDATA[ 由   提交 /u/BreakfastSudden9000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bc5hji/what_are_benefits_of_an_external_drive/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:12:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>后期制作的未来</title>
+      <link>https://www.reddit.com/r/editors/comments/1bc4c3c/future_of_postproduction/</link>
+      <description><![CDATA[我正在为西班牙一家高端后期制作工作室进行第一轮投资，我们的投资者完全支持我们的高端后期制作-制作工作室，直到他们看到了 SORA 和其他人工智能技术的能力。他们的担忧促使他们推迟了，要求我们提供一个经过修改的、面向未来的计划。虽然我们有自己的愿景，但我们希望听到您对后期制作的未来的想法，以及为什么高端工作室在这种情况下仍然是一项有价值的投资。  您如何看待后期制作行业在未来几年会如何发展？ 您认为有哪些具体趋势或技术会对我们的工作方式产生重大影响？ 随着远程工作的转变和扩散随着高质量、可访问的技术和人工智能的发展，专业化的高端后期制作服务是否仍然有强劲的市场？ 您如何看待知名客户适应这些变化？ &gt; 想象一下金钱和空间都不是问题。您梦想的后期制作设置是什么样的？从剪辑套件到声音设计和色彩分级，我对您认为构成终极后期制作环境的内容感兴趣。  我们的工作室将坐落在一个以吸引精英而闻名的地区客户，我们专注于了解后期制作专业人士的全球需求和愿望。   由   提交 /u/Zeta-Splash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bc4c3c/future_of_postproduction/</guid>
+      <pubDate>Mon, 11 Mar 2024 14:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理多个单声道 wav 文件？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bc23u7/how_to_deal_with_multiple_mono_wav_files/</link>
+      <description><![CDATA[如果有一个明显的解决方案（除了使用 DAW 之外），我提前表示抱歉。 我有为每个轨道录制为单独的 wav 文件的声音文件。  命名法如下：*项目名称*_T0xx-*曲目名称* 我想要的工作流程： - 使用时间码在解析内同步混音 - 图片批准后：创建 AAF 导出到混音，混音器能够重新链接到 Polywav，并使用任何需要的音轨来增强输出。 我们正在使用不同的系统这次，对于我收到的声音文件，我有点担心混音无法在发送完整编辑进行混音时提取出所需的曲目（因为文件名不同）并且编辑只会使用混音），所以我想从一开始就清理它。 我研究过快门编码器，它似乎不提供创建 似乎 protools、audition 等都可以实现此功能，但是，它似乎不是一个批处理过程，而且是一个有点繁琐的过程。我只是想知道是否有一个工具可以解决这个问题。或者如果这甚至是一个问题。 提前致谢！   由   提交/u/angedesphilio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bc23u7/how_to_deal_with_multiple_mono_wav_files/</guid>
+      <pubDate>Mon, 11 Mar 2024 12:34:17 GMT</pubDate>
+    </item>
     <item>
       <title>询问专业人士 - 每周 - 2024 年 3 月 11 日星期一 - 没有愚蠢的问题！如果您不以此为生，这就是您发帖的地方！规则+职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1bbys2t/ask_a_pro_weekly_monday_mon_mar_11_2024_no_stupid/</link>
@@ -85,30 +106,9 @@
     <item>
       <title>编辑 NAS 建议</title>
       <link>https://www.reddit.com/r/editors/comments/1bas6xe/editing_nas_suggestions/</link>
-      <description><![CDATA[为我的家庭编辑设置寻找 NAS 系统的建议： 我需要一个可以满足我的编辑需求的 NAS 系统高效地满足需求，而又不会在我的钱包上烧个洞。以下是我的要求： 支持 2 个 2.5G 连接 流畅访问 4k 素材 RAID 5 配置，可用存储不超过 24TB  通常，我直接编辑来自 4TB NVME Gen3 驱动器，但项目完成后，我会将文件存档到 HDD 上。然而，偶尔我需要访问存档的 4k 素材，因此需要一个能够无缝处理此类文件的 NAS。鉴于这些要求，我希望获得有关 NAS 型号或特定功能（例如 SSD 缓存、64 位 ARM 处理器）的建议...） 注意。虽然我不需要顶级的规格，但我确实需要足够强大的东西来处理编辑任务而不需要太多妥协。有什么建议么？    由   提交/u/valk_valkyrie  [链接] [评论]]]></description>
+      <description><![CDATA[为我的家庭编辑设置寻找 NAS 系统的建议： 我需要一个可以满足我的编辑需求的 NAS 系统高效地满足需求，而又不会在我的钱包上烧个洞。以下是我的要求： 支持 2x 2.5G 连接 流畅访问 4k 素材 RAID 5 配置，可用存储不超过 24TB  通常，我直接编辑来自 4TB NVME Gen3 驱动器，但项目完成后，我会将文件存档到 HDD 上。然而，偶尔我需要访问存档的 4k 素材，因此需要一个能够无缝处理此类文件的 NAS。鉴于这些要求，我希望获得有关 NAS 型号或特定功能（例如 SSD 缓存、64 位 ARM 处理器）的建议...） 注意。虽然我不需要顶级的规格，但我确实需要足够强大的东西来处理编辑任务而不需要太多妥协。有什么建议么？    由   提交/u/valk_valkyrie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bas6xe/editing_nas_suggestions/</guid>
       <pubDate>Sat, 09 Mar 2024 21:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>基本的 Mac Studio 是否足以支持 Resolve 和 Premiere，还是我需要更多 RAM/电源？</title>
-      <link>https://www.reddit.com/r/editors/comments/1baodxs/is_the_basic_mac_studio_good_enough_for_resolve/</link>
-      <description><![CDATA[我正在考虑购买一个用于 Resolve 和 Premiere 的 Mac 工作室，但尽量不要花太多钱。具有 32GIG 内存和 M2 MAX 的基本 Mac Studio 是否足够强大来处理这些应用程序，还是我需要将 RAM 增加到 64GIG？   由   提交/u/24framespersec   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1baodxs/is_the_basic_mac_studio_good_enough_for_resolve/</guid>
-      <pubDate>Sat, 09 Mar 2024 18:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>3/1-3/8 周每周综述</title>
-      <link>https://www.reddit.com/r/editors/comments/1baid2k/weekly_roundup_for_week_of_3138/</link>
-      <description><![CDATA[点赞最多的帖子  我是一名编辑，而不是动态图形艺术家。 (655 🡅) 为我的组织赢得了 5 万美元资助我所做的编辑。 (268 🡅) 我的第一部故事片剪辑将是剧院 (222 🡅) 索拉 (200 🡅) 只需点击 30 秒编辑的版本 100 (195 🡅)&lt; /a&gt;  评论最多的帖子  离开这个行业... (284 💬) 所有 Adob​​e 的仇恨是怎么回事？ (234 💬) OpenAI 今天宣布推出 Sora，介绍他们的照片级真实感文本转视频产品 (228 💬) Sora ( 201 💬)  版主选择  我去年剪辑的电影《你的幸运日》刚刚在 netflix 上上映！   &amp;# 32；由   提交/u/sub-roundup  /u/sub-roundup reddit.com/r/editors/comments/1baid2k/weekly_roundup_for_week_of_3138/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1baid2k/weekly_roundup_for_week_of_3138/</guid>
-      <pubDate>Sat, 09 Mar 2024 14:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>广播传送参数出现问题 (DVCPRO HD i60)</title>
-      <link>https://www.reddit.com/r/editors/comments/1ba936n/trouble_with_broadcast_delivery_parameters_dvcpro/</link>
-      <description><![CDATA[您好！ 我目前是一家制作公司的 A.E.，我们在满足隔行扫描的 QC 标准方面遇到了困难我们正在向客户提供一些电视节目的片段进行广播。 因此，这是规格摘要： 我们需要提供最终交付具有这些规格  编解码器 - DVCPRO HD 108i60 包装器 - Quicktime Selfcontained 帧速率 - 29.97 fps 分辨率 - 1280x1080本机 扫描 - 隔行扫描 主场 - 上场 视频比特率 - 100-120 Mbps  我们使用这些规格在R3D Raptor上拍摄。它以23.97 fps 逐行扫描拍摄。 我们在 Premiere Pro 2023 上进行编辑。我们使用 R3D RAW 进行在线编辑23.97 序列上的素材。然后我们在 ProRes 422 HQ 中为调色师进行了渲染，仍然是 23.97，以便他们在 DaVinci 中工作。我们在 Avid DNxHR 23.97 中得到了它。 在这里，我们决定将其放在 24 fps 序列上，为隔行扫描做好准备，并制作我们的最终渲染为 DVCPRO HD。 这些是该序列的设置。 从这里我们使用 这些设置。 QC 告诉我们，我们的镜头呈现“阻塞”状态。如此处所示，当查看使用“剪辑中的新序列”制作的序列上的渲染时，从 Premiere 中的节目监视器显示上场优先。 只有从一个镜头过渡到另一个镜头时才会明显。 此外，我们正在讨论是否会出现这种情况此处，同时使用两个字段进行监控是正常的。与上面的示例一样，仅在从一个镜头到另一个镜头的过渡帧上才明显。 作为一个长镜头，在尝试不同方法来避免这些伪像时，我们：  使用这些设置对 DVCPRO HDi60 序列上的颜色交付进行去隔行处理，然后再次在 DVCPRO HD 上进行渲染（这是同事的建议）。 我们是否使用 DVCPRO 在原始 23.97 fps 在线编辑序列上进行渲染高清设置。这是使用 R3D RAW 素材。 我们是否对使用 DVCPRO HD 设置的 23.97 fps 颜色获得的原始文件进行渲染。  这些显示了与以前相同的工件。 在此过程中为使我们的材料符合广播标准而提供的任何帮助或指导将不胜感激。谢谢！   由   提交 /u/KubrickStared   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ba936n/trouble_with_broadcast_delivery_parameters_dvcpro/</guid>
-      <pubDate>Sat, 09 Mar 2024 04:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
