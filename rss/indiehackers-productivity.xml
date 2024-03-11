@@ -4,7 +4,32 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 11 Mar 2024 15:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 18:16:59 GMT</lastBuildDate>
+    <item>
+      <title>Solopreneur AI SaaS 工具包：作为 YC 支持的初创公司的前 CTO，我的技术堆栈</title>
+      <link>https://feed.indiehackers.world/post/afe7f9a8c9</link>
+      <description><![CDATA[
+网络应用托管 (Netlify)
+域管理 (Cloudflare)
+
+工具和工具实用程序
+
+IDE (iTerm2 / AstroNvim)
+密码管理器 (1Password)
+Digital Workspace (Google Workspace)
+视频编辑（描述）
+快速视频录制 (Screen Studio)
+
+个人设置
+
+计算机（M1 Macbook Pro 14 英寸）
+浏览器 (Arc)
+
+下面的技术堆栈不仅包括我使用的框架，还包括帮助我进行日常运营的生产力工具。如果您有任何疑问，请在评论中告诉我！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/afe7f9a8c9</guid>
+      <pubDate>Mon, 11 Mar 2024 15:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>寻找人工智能生产力应用程序的联合创始人[在旧金山湾区]</title>
       <link>https://feed.indiehackers.world/post/b35cded298</link>
@@ -37,8 +62,8 @@ Discord 独立黑客聊天广告这里]]></description>
 
 在 2019 年至 2021 年间，我构建了 SaaS Iterspace 并将其出售。
 2021 年，我开始在 Twitter 上建立一群谈论 Web 开发的受众（顺便说一句，请获取免费的 200 多张关于 JavaScript、React、CSS 的幻灯片（如果您还没有的话）。
-2022 年，我开始公开构建 Hivoe（一款 Twitter DM 自动化微型 SaaS）和 Inboxs（一款 Twitter DM 生产力收件箱微型 SaaS）（MRR 4,000 美元，我于 2023 年将它们都卖掉了）
-2023 年，我构建了 OmniWrite（一款 AI 写作 Chrome 扩展程序）、Userdesk（一个面向企业的 AI 聊天机器人平台（月收入 1,000 美元）、Wuf（一款移动推送通知 Micro SaaS），并推出了Shipped.club，为忙碌的创始人提供的 Next.js 微型 SaaS 样板（收入超过 12,000 美元）。
+2022 年，我开始公开构建 Hivoe（一款 Twitter DM 自动化微型 SaaS）和 Inboxs（一款 Twitter DM 生产力收件箱微型 SaaS）（MRR 4,000 美元，我于 2023 年出售了这两个产品）
+2023 年，我构建了 OmniWrite（一款 AI 写作 Chrome 扩展程序）、Userdesk（一款面向企业的 AI 聊天机器人平台（年收入 1,000 美元）、Wuf（一款移动推送通知 Micro SaaS），并推出了Shipped.club，为忙碌的创始人提供的 Next.js 微型 SaaS 样板（收入超过 12,000 美元）。
 
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/504689da96</guid>
@@ -47,7 +72,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>团队管理的最佳工具</title>
       <link>https://feed.indiehackers.world/post/d9b1ab79c7</link>
-      <description><![CDATA[总而言之，这些工具不仅仅是软件；它们还是软件。它们是任何团队环境中效率、协作和成功的催化剂。开始将它们纳入您的工作流程并见证您团队的生产力飙升！
+      <description><![CDATA[总而言之，这些工具不仅仅是软件；它们还不仅仅是软件。它们是任何团队环境中效率、协作和成功的催化剂。开始将它们纳入您的工作流程并见证您团队的生产力飙升！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d9b1ab79c7</guid>
       <pubDate>Thu, 07 Mar 2024 09:12:12 GMT</pubDate>
@@ -56,7 +81,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>关于创办人工智能咨询机构您需要了解的一切</title>
       <link>https://feed.indiehackers.world/post/67800d13b4</link>
       <description><![CDATA[为什么重要：
-人工智能自动化结合了法学硕士等技术和 Zapier、Make 或 N8N 等自动化工具，以实现复杂业务流程的自动化。它类似于 MLOps，但适用于较小的公司，而且便宜得多。这种形式的自动化通过自动化手动任务（包括产品开发、运营、内容创建和客户服务）来帮助公司。
+人工智能自动化结合了法学硕士等技术和 Zapier、Make 或 N8N 等自动化工具，以实现复杂业务流程的自动化。它就像 MLOps，但适用于较小的公司，而且便宜得多。这种形式的自动化通过自动化手动任务（包括产品开发、运营、内容创建和客户服务）来帮助公司。
 该利基市场的规模较小
 
 Andy 正在建立一个 Go Productivity 自动化机构，以帮助 SaaS 公司和创作者减少工作量并增加收入
@@ -151,23 +176,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/877b361ffe</guid>
       <pubDate>Thu, 29 Feb 2024 16:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳着陆页具有这 3 个元素以提高转化率</title>
-      <link>https://feed.indiehackers.world/post/653945283f</link>
-      <description><![CDATA[最好的着陆页具有这 3 个转化元素。
-Slack、Airtable、Zapier 大量使用它。看看那些是什么？
-📌信任和信誉：
-客户评价
-实例探究
-评论和评级
-安全徽章
-合作伙伴和隶属关系
-认证和奖项
-明确的隐私政策和服务条款
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/653945283f</guid>
-      <pubDate>Thu, 29 Feb 2024 15:43:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

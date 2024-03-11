@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 11 Mar 2024 15:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 18:16:25 GMT</lastBuildDate>
+    <item>
+      <title>寻求聊天应用程序项目的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc9836/seeking_help_for_a_chat_application_project/</link>
+      <description><![CDATA[大家好，我目前正在使用 Node.js、Express.js、MongoDB 和 Socket.IO 开发在线匿名聊天应用程序。这个概念很简单：注册用户可以创建聊天室并接收唯一的密钥以与其他人共享以加入，而非注册用户可以使用共享密钥加入而无需注册。  我正在寻求有关该项目几个方面的建议和指导： 使用正确的 MVC 架构设置 Node.js 和 Express.js。集成 MongoDB 以高效管理用户数据和聊天室会话。使用 Socket.IO 实现实时通信，实现无缝聊天体验。鉴于其匿名性质，确保应用程序的安全性。 如果您有类似项目的经验或对这些领域的见解，我将非常感谢您的意见。此外，有关构建实时聊天应用程序的教程、最佳实践或资源的建议将非常宝贵。提前感谢您的帮助和建议！  &amp; #32；由   提交/u/No-ash_03  /u/No-ash_03  reddit.com/r/webdev/comments/1bc9836/seeking_help_for_a_chat_application_project/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc9836/seeking_help_for_a_chat_application_project/</guid>
+      <pubDate>Mon, 11 Mar 2024 17:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 自动登录 - 它是如何工作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc8ecw/linkedin_auto_login_how_does_it_work/</link>
+      <description><![CDATA[LinkedIn 是我在全新机器上访问过的唯一网站，一旦我登陆，它就会自动使用 Google 登录这一页。我还没有遇到过其他网站可以执行此操作，它总是询问我是否要先使用 Google 登录。 我正在使用 Google Chrome 并使用我的 Google 帐户登录，所以我不确定这是否是其原因。当我使用其他浏览器时，它不提供自动登录功能。 有人知道 LinkedIn 如何做到这一点吗？为什么我们没有在更多网站上更频繁地看到这种情况？我不介意，因为它会让事情变得更快。尝试考虑这样做的缺点。   由   提交/u/avidrunner84  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc8ecw/linkedin_auto_login_how_does_it_work/</guid>
+      <pubDate>Mon, 11 Mar 2024 17:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Speedometer 3.0：迄今为止衡量浏览器性能的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc7s5k/speedometer_30_the_best_way_yet_to_measure/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc7s5k/speedometer_30_the_best_way_yet_to_measure/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>新副业项目的堆栈灵感</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc7f9z/stack_inspiration_for_new_side_project/</link>
+      <description><![CDATA[我计划为一款游戏制作一个 wiki 页面，现在正处于选择堆栈的阶段。 对我来说唯一重要的是动态页面，因为角色和武器会重用相同的布局，只是不同的统计数据，但除此之外，我希望拥有闪电般的快速性能，因此轻量级前端框架会很好。 我的到目前为止的经验是使用razorpages/c#/mssql 和react.js/java springboot/postgresql。我正在考虑选择 TypeScript，因为它似乎非常重要。 我非常愿意尝试任何新技术，因此请毫不犹豫地推荐您绝对喜欢的技术并告诉我原因！ （也欢迎任何不适合我的用例的技术警告！）   由   提交 /u/FenrirBestDoggo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc7f9z/stack_inspiration_for_new_side_project/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>不小心将文章内容放入index.html文件中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc7eif/accidently_put_article_content_in_indexhtml_file/</link>
+      <description><![CDATA[当我制作网站时，我不知道自己在做什么，并且将 index.html 文件的内容制作为普通的博客文章，而不是登陆页面。这样的情况已经好几年了。有什么办法可以解决这个问题，还是我必须去另一个网站？   由   提交​​/u/oceanunderground  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc7eif/accidently_put_article_content_in_indexhtml_file/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:31:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Speedometer 3 提高 Firefox 和整个网络的性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc701o/improving_performance_in_firefox_and_across_the/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc701o/improving_performance_in_firefox_and_across_the/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些推荐的申请初级/实习生职位的网站或平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc6tlk/what_are_some_recommended_websites_or_platform_to/</link>
+      <description><![CDATA[想知道你们中的一些人在哪些平台上成功获得了此类职位，或者是否有任何其他您建议的方式或途径这样的位置   由   提交 /u/starengates   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc6tlk/what_are_some_recommended_websites_or_platform_to/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:08:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Speedometer 3：构建代表网络的基准</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc6o7w/speedometer_3_building_a_benchmark_that/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc6o7w/speedometer_3_building_a_benchmark_that/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不要求学生购买自己的域名的情况下向他们教授 DNS 和托管管理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc6mgs/how_can_i_teach_dns_and_hosting_management_to_my/</link>
+      <description><![CDATA[嗨，我很快就会教 Web 开发人员，我想通过教他们 DNS 基础知识（通过 cloudflare）以及 Web 的方式来启动该计划托管有效。 当我向他们展示如何使用网络托管服务器设置基本域名时，有没有办法让他们按照实际操作说明进行操作？    由   提交/u/totoybilbobaggins   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc6mgs/how_can_i_teach_dns_and_hosting_management_to_my/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用 GPTStore 中的哪种 GPT 来帮助您进行设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc6kai/what_gpt_in_gptstore_do_you_use_to_help_you_come/</link>
+      <description><![CDATA[所以我的问题基本上就是上面的问题。我是一名工程师，而不是设计师。我正在 GPT 商店寻找选项来帮助我提出设计。您使用哪些以及为什么？   由   提交 /u/Zinter71   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc6kai/what_gpt_in_gptstore_do_you_use_to_help_you_come/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的网站每天收到约 10 个假用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc6hda/why_does_my_website_receives_10_fake_users_per_day/</link>
+      <description><![CDATA[嗨！ 我们的处境有点奇怪：我们每天收到大约 10 个假用户。 他们只是注册，收到确认电子邮件，然后什么都不做。  我创建了一个脚本，仅在 72 小时后删除它们，但为什么机器人会这样做呢？让我们花钱买电子邮件？填写我们的数据库？让我们生气？ 它们看起来像是真实的电子邮件（@gmail.com、企业电子邮件等），但我确信它们是假用户。 我该如何缓解这种情况？只需添加验证码即可？    由   提交 /u/AsteroidSnowsuit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc6hda/why_does_my_website_receives_10_fake_users_per_day/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年的付费广告世界会是什么样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc637r/what_is_the_paid_advertising_world_like_in_2024/</link>
+      <description><![CDATA[我不知道如何很好地提出这个问题，但是...我有一个每月大约有 200 万页面浏览量的网站。我使用过adsense一段时间，现在又使用了类似的服务，但我担心如果不拓展业务，我会错过金钱和控制/经验。 /r/adops 子对话好像运行自己的系统是标准的，但我什至不知道从哪里开始. 在我的网站上扔一个脚本标签并让他们进城感觉不太好。我遇到过一些情况，他们改变了一些东西，要么是不良/引人注目的广告通过了，要么是向不应该看到它们的付费用户展示了广告。我只是讨厌那些信任的公司，他们似乎没有任何兴趣确保我的付费用户不会看到广告，而且似乎也没有给我带来那么多收入。 所以我想有两个问题... 在流量不错的网站上投放广告最有利可图的方式是什么？ 如果是使用像 adsense 等服务，那么哪些服务实际上是能否提供一种简单的方法来关闭某些用户的广告？ ​ 谢谢  &amp; #32；由   提交 /u/werdnaegni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc637r/what_is_the_paid_advertising_world_like_in_2024/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>高风险的重构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bc5mkf/the_highrisk_refactoring/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bc5mkf/the_highrisk_refactoring/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:18:32 GMT</pubDate>
+    </item>
     <item>
       <title>Web 样式的二叉树问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1bc58uj/the_twotree_problem_with_styling_on_the_web/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[大家好，正如标题所示，我的祖父母要求我创建一个网站，我们可以在其中展示我们的家谱。由于我绝不是网页开发方面的专家，因此我正在考虑使用网页设计工具，例如 Wix（我们都知道它的广告无处不在）。不过，我很确定这不是最好的选择，而且它的价格相当高，而且我对其功能不感兴趣。 我尝试在网上搜索，发现了一些制作数字家庭的软件树，但它们似乎不符合我的要求。  我正在寻找的是一个在线工具，它允许我创建一个网页而无需编写代码。不需要太复杂，放一些图片就可以了。另外，如果能够将其他一些页面链接到它，那就太好了（例如，当您单击亲戚的姓名/图片时，它会将您重定向到包含他的信息和内容的网页）。我爷爷当然想放点钱进去，我觉得10欧元左右就不错了。如果存在符合我的描述的东西，请告诉我，非常感谢   由   提交 /u/DanteNoDan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bc53xq/site_for_a_family_tree/</guid>
       <pubDate>Mon, 11 Mar 2024 14:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于如何使用 HTML 和 CSS 制作这条曲线有什么见解吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc4spk/any_insights_on_how_can_i_make_this_curve_with/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/e0ytpdbqvpnc1.png?width=320&amp;format=png&amp; ;auto=webp&amp;s=8ad8feffb98d17a4196504bf6482cef061245495   由   提交 /u/mizomuto   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc4spk/any_insights_on_how_can_i_make_this_curve_with/</guid>
-      <pubDate>Mon, 11 Mar 2024 14:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要部署第一个 Web 应用程序的帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc4pbh/need_help_with_deployment_of_first_web_app/</link>
-      <description><![CDATA[你好！ 我使用以下内容构建了一个 Web 应用程序： 前端：React 后端：Springboot (java) 数据库：MySQL 身份验证：SupaBase 该应用程序是一个典型的 CRUD 应用程序，它获取数据并显示到用户。我想部署这个应用程序，因为我知道它只会有几个用户，但我希望能够扩展到几千个用户。有人可以指导我如何获取域、主机前端、主机后端、我的数据库的云，我如何轻松实现持续集成，我如何确保一切都是安全的？如果事情可以经济地完成，那就太好了，但如果我需要为良好的服务付费，我也可以接受。  谢谢！ webdev菜鸟。   由   提交/u/Intelligent_Sugar207   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc4pbh/need_help_with_deployment_of_first_web_app/</guid>
-      <pubDate>Mon, 11 Mar 2024 14:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许保存到本地服务器的 API 测试工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc4jjp/api_testing_tools_that_allow_saving_to_local/</link>
-      <description><![CDATA[我想要有关 API 测试工具的建议，例如邮递员，它能够将集合保存到本地服务器而不是云服务器，以便多人可以访问和同时处理它，如果可能的话具有导入导出功能   由   提交/u/mart945  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc4jjp/api_testing_tools_that_allow_saving_to_local/</guid>
-      <pubDate>Mon, 11 Mar 2024 14:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我昨晚花了一些时间构建了一个最小的新闻阅读器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc3usr/i_spent_last_night_building_a_minimal_news_reader/</link>
-      <description><![CDATA[   这个项目是由于对发现数字新闻（基于人工智能和个性化）的混乱和复杂性感到沮丧而产生的关于数据等）。我想创建一种简单、严肃的方法来访问非技术人员可以使用的苏格兰新闻头条。它基本上是一个 RSS 阅读器，但适合那些不知道什么是 RSS 的人。热衷于听听这里的人们如何处理文章分类。我应该花点心思使用 TextRazor 之类的东西来从头条新闻中提取含义，还是只是将提要设置为直接进入类别？ 🤷‍♂️   由   提交/u/myloman16  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc3usr/i_spent_last_night_building_a_minimal_news_reader/</guid>
-      <pubDate>Mon, 11 Mar 2024 13:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>想知道使用 stripe 的支付功能还需要什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc3svq/wondering_what_else_i_need_for_payment/</link>
-      <description><![CDATA[我的应用程序中的用户可以订阅某些内容。目前看起来像这个。这是订阅用户看到的内容。 （如果已经订阅，我仍然应该禁用结账按钮，以防止同时进行多个订阅。）除此之外，用户还可以取消订阅。结帐按钮将他们带到付款屏幕，他们需要在其中输入电子邮件（自动完成，因为登录需要）和卡信息，然后他们将在付款后订阅。我想知道这样是否好或者我可能忽略了哪些功能？样式是我留到最后的事情。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc3svq/wondering_what_else_i_need_for_payment/</guid>
-      <pubDate>Mon, 11 Mar 2024 13:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚开始接触SQL。这里出了什么问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc34o8/just_started_with_sql_whats_wrong_here/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/roqvgeq5ipnc1.png?width=811&amp;format=png&amp; ;auto=webp&amp;s=0062b64e52340fbfc0d0ed936adef5f2a747078b   由   提交/u/poiuytrewq_123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc34o8/just_started_with_sql_whats_wrong_here/</guid>
-      <pubDate>Mon, 11 Mar 2024 13:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有两个函数调用的按钮不调用机器人函数。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc2be8/button_with_two_function_calls_not_calling_bot/</link>
-      <description><![CDATA[正如标题所示，我在 HTML 中有一个按钮，有 2 个函数调用。这两个函数在单独调用时都会执行它们应该执行的操作，即为每个函数创建一个单独的按钮。但是，当一起调用时，只有第一个可以工作，如果你改变它们的调用顺序，那么有问题的开始工作，而功能正常的就会出现功能障碍。我不知道该怎么办。任何帮助将不胜感激。 它基本上需要一个学期的开始和结束日期，并填写一个表格，其中包含在函数调用时上课的日期。  https://github.com/Humam-hub/Lecture-Bill &lt; !-- SC_ON --&gt;  由   提交/u/FragrantWriter7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc2be8/button_with_two_function_calls_not_calling_bot/</guid>
-      <pubDate>Mon, 11 Mar 2024 12:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义边框（普通 HTML、CSS、JS）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc2aw4/custom_borders_vanilla_html_css_js/</link>
-      <description><![CDATA[大家好， 我正在尝试将自定义边框添加到客户页脚部分的顶部。这是一个示例： https://ashevillebeecharmer.com/honey/ 如果你注意到“自定义”边框是一个由半圆组成的 SVG，与其各自的路径复制并粘贴在一起 我的问题是： 是这是在像 illustrator 这样的软件中设计的吗？ 你怎么可能找出最好的“路径”？又不会完全发疯？ （我一定是缺少一些东西。） 在给定 CSS 的示例中读取 .scalloped-top-footer {  位置：绝对； 左：0%； 顶部：-0.6em； 右：0%； &lt; li&gt;bottom: auto; color: #e69721;  } 这是正确放置上述 SVG 的最佳实践吗？    由   提交 /u/JubieFN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc2aw4/custom_borders_vanilla_html_css_js/</guid>
-      <pubDate>Mon, 11 Mar 2024 12:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以并且应该使用什么技术堆栈（用于我自己的网站和实验；在 all-inkl.com 上）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc29p9/what_tech_stack_can_and_should_i_use_for_my_own/</link>
-      <description><![CDATA[大家好， 让我们尝试另一种方式： &lt; em&gt;这是我的网络托管服务商/计划： https://all-inkl.com/webhosting/ privatplus/ 我是一名图形设计师，但我曾经做过相当多的 html、css、javascript 和很少的 php。我以前做过很多as3。我曾经建立过自己的网站（使用名为 redaxo 的 cms），但大约 10 年来都没有什么重大进展。只有两个带有基本模板的 wp 设置。现在我仍然用c4d中的gsap和python脚本做一些js动画。我接触了一些像 leaflet.js 这样的 js 库。 现在我想建立自己的网站，主要作为一个作品集，同时也作为一个尝试东西的平台像自定义地图或滚动动画等。我只适合我（没有其他编辑器），但我仍然希望它强大且灵活。  所以我做了一些研究过去几年我错过了什么。了解了 headless cms，以及所有用于 js 和 python 的框架和库。 我喜欢 PAYLOAD cms 和 WAGTAIL cms 的外观。所以我阅读了如何开始使用这些内容。  然后我意识到：有效负载似乎不支持 MySQL 或 MariaDB。所以我将无法在我的网站空间上使用它（因为 all-inkl.com 仅提供这两个数据库）。我将无法使用 wagtail，因为 all-inkl 只支持 php 和 perl。  所以有几个问题： - 我可以以某种方式在具有 MySQL/MariaDB 的服务器上使用 Payload 吗？ - 我可以以某种方式在没有专用 python 支持的服务器上使用 Wagtail 吗？  - XAMPP 仍然是本地主机上的开发方式吗？有哪些替代方案？ 非常感谢！ kws   由   提交 /u/_kweso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc29p9/what_tech_stack_can_and_should_i_use_for_my_own/</guid>
-      <pubDate>Mon, 11 Mar 2024 12:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我必须设置一个新的前端工作流程，但我无法运行几年前使用的工作流程。有什么建议或建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc269u/i_have_to_setup_a_new_frontend_workflow_but_i/</link>
-      <description><![CDATA[各位开发者大家好， 我有一个 macOS 2015 13&quot;运行 Monterey。 在 2015 年至 2019 年间，每当我需要在工作中开发新的前端时，我都会使用 Gulp.js 以及 autoprefixer、SCSS 和 Bower 来连接 jQuery 等前端依赖项和 Bootstrap 等。 您可以在这里找到实际的样板：GitHub - keevvinc/gulp-boilerplate 现在，在多年没有接触它之后，我回来了，因为我迫切需要开始开发新的前端。但是，我面临一个问题：我不知道应该使用哪个版本的 Node/npm。我尝试过版本 8、9、10、最新版本等，但似乎没有任何东西能够成功运行 npm install。即使是这样，我也无法运行gulp install。我正在使用 nvm 来管理 npm 版本。 是否有人愿意克隆存储库并尝试使其运行？ 或者，如果有人对其他工作流程有建议（我需要 SCSS 编译、BrowserSync、自动前缀等），这是最新的并且开箱即用（我不需要 React 或 AngularJS），我愿意切换。我只是需要一些东西来工作。 非常感谢您的时间和回答。   由   提交/u/f-s0c13ty  /u/f-s0c13ty reddit.com/r/webdev/comments/1bc269u/i_have_to_setup_a_new_frontend_workflow_but_i/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc269u/i_have_to_setup_a_new_frontend_workflow_but_i/</guid>
-      <pubDate>Mon, 11 Mar 2024 12:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>“尖锐”的替代品 - 需要图书馆</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc1sek/alternative_to_sharplibrary_wanted/</link>
-      <description><![CDATA[嗨，我需要一个 Sharp-library 的替代品。我想做的是： ​  从图像中获取元数据 调整图像大小  （原因：Sharp 在跨平台开发的最新版本中造成了麻烦，并且在 NestJS 框架中使用时也不兼容。它会导致几个依赖问题。这就是我寻找替代方案的原因）   由   提交/u/tf1155  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc1sek/alternative_to_sharplibrary_wanted/</guid>
-      <pubDate>Mon, 11 Mar 2024 12:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL vs MySQL vs NoSQL 以及选择什么作为新入门者？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc12aw/sql_vs_mysql_vs_nosql_and_what_to_choose_as_a_new/</link>
-      <description><![CDATA[嗨，女士们，很抱歉，如果这个问题被问了很多次，但我会再问一次。我刚刚开始担任初级项目经理，除了我所做的事情（敏捷、scrum、jira 等）之外，有人建议我学习 SQL 语言或 Phyton。我离编程还很远，但我想开始它，但我不确定该选择哪一个。作为参考，我们使用了数十万个用户帐户，其中包含大量信息（姓名、ID、出生日期、活动等），提前致谢    ;由   提交 /u/AkkiraNinja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc12aw/sql_vs_mysql_vs_nosql_and_what_to_choose_as_a_new/</guid>
-      <pubDate>Mon, 11 Mar 2024 11:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Web 开发人员提供的高质量开源软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc11cm/high_quality_opensource_software_for_web/</link>
-      <description><![CDATA[       由   提交 /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc11cm/high_quality_opensource_software_for_web/</guid>
-      <pubDate>Mon, 11 Mar 2024 11:32:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
