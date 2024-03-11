@@ -4,14 +4,98 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 11 Mar 2024 06:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 09:14:12 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Astrojs 和 Tailwind CSS 创建和打印发票</title>
+      <link>https://feed.indiehackers.world/post/cf61f6c408</link>
+      <description><![CDATA[
+   
+   
+      项目
+      小时
+      速度
+      价格
+   
+
+表格主体
+
+border-b border-gray-200：为每个表格行应用底部边框 (``)，颜色为 gray-200，确保发票中各个项目之间的视觉分离。
+
+max-w-0：`` 元素上的此类可确保内容不会溢出其容器。它与truncate结合使用特别有用，可以防止过长的文本破坏布局。
+
+py-5 pl-4 pr-3 sm:pl-0：这些填充类调整表格单元格内的间距。 sm:pl-0 类删除了小屏幕及以上屏幕上的左侧填充，以适应不同屏幕尺寸的布局。
+
+font-medium text-base text-gray-900：应用于`
+
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/cf61f6c408</guid>
+      <pubDate>Mon, 11 Mar 2024 08:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>提升博客的影响力：更新内容是您的致命弱点吗？了解一年两次的更新提醒如何彻底改变您的工作流程！</title>
+      <link>https://feed.indiehackers.world/post/d2bc6010ee</link>
+      <description><![CDATA[您想在您的一篇博客文章上测试一下吗？我所要求的回报只是你诚实的见解。或者，如果您和我一样对提升您的每一个内容感到兴奋，那么让我们一起快速跟踪这个工具。只需在下面留下评论，其中包含您希望我检查的文章以及发送结果的电子邮件地址。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d2bc6010ee</guid>
+      <pubDate>Mon, 11 Mar 2024 08:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找人工智能生产力应用程序的联合创始人[在旧金山湾区]</title>
+      <link>https://feed.indiehackers.world/post/b35cded298</link>
+      <description><![CDATA[我正在开发一款生产力健康应用程序，并正在寻找 AI/ML 联合创始人来帮助构建 AI 模型。正在寻找 SF 湾区的人。我可以在私人谈话中更多地解释该产品。 
+谢谢。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b35cded298</guid>
+      <pubDate>Mon, 11 Mar 2024 07:42:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIChatbot：用于客户服务的人工智能聊天机器人！</title>
+      <link>https://feed.indiehackers.world/post/0118cab911</link>
+      <description><![CDATA[AIChatbot 今天在 Product Hunt 上推出！ 🤩
+销售和客户支持的终极解决方案。
+释放人工智能驱动的对话技术的力量：
+-- 以 109 种语言回复
+-- 捕获线索并跟踪订单
+-- 推荐产品并处理退货
+请对 Product Hunt 表示一些喜爱：https://www.producthunt.com/posts/aichatbot-2
+非常感谢！ ❤️
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0118cab911</guid>
+      <pubDate>Mon, 11 Mar 2024 07:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我决定免费提供这个</title>
+      <link>https://feed.indiehackers.world/post/16684db3b6</link>
+      <description><![CDATA[嘿朋友们，发布这篇文章后https://www.indiehackers.com/post/ will-you-buy-this-b7b93e0672 在这里寻求反馈，我决定免费提供它。
+ 我将不断添加更多主题和更多功能。请在此处查看该工具：https://chromewebstore.google.com/detail/cjknpkdhhiichpfeakfbjgngmlfjihka
+记得查看说明。让我知道你的想法。谢谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/16684db3b6</guid>
+      <pubDate>Mon, 11 Mar 2024 07:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做出了一个大胆的举动，公开展示了我们 SaaS 1800 多个客户的数据，接下来发生的事情如下！</title>
+      <link>https://feed.indiehackers.world/post/eda3c73501</link>
+      <description><![CDATA[✅ 独特访问✅ 按指定细分✅ 按部门细分✅ 按公司规模细分
+统计信息每 24 小时刷新一次，以减少每次页面加载的数据库命中率。
+我们如何收集这些数据？
+用户注册后，验证电子邮件后，我们会向他们显示一个入门屏幕来填写此信息。
+我们为什么这样做？
+作为创始人，我喜欢提供客户支持，因为它可以帮助我了解用户用例、他们遇到的困难的步骤以及解决问题的方法。我们可以做出的改进。
+每当我们收到售前问题时，我经常回复以 - 结尾的电子邮件
+**让您知道，我们在全球拥有 1000 多个客户很多
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/eda3c73501</guid>
+      <pubDate>Mon, 11 Mar 2024 06:23:23 GMT</pubDate>
+    </item>
     <item>
       <title>我是如何在第一次转型后 30 分钟内获得第一位客户的！</title>
       <link>https://feed.indiehackers.world/post/a0e1856a9d</link>
       <description><![CDATA[我现在也开始研究免费工具并开始研究 SEO。我将在这个社区分享更多经验！
 产品搜索启动
 如果您想支持我作为独立创始人的旅程，请考虑在我们今天推出产品搜寻时为我的产品投票。这确实会帮助我成长并获得吸引力。
-产品搜寻链接
+产品搜索链接
 非常感谢您阅读我的旅程。我很想得到您对业务的反馈。期待与大家交谈！ 
 
 高塔姆
@@ -97,76 +181,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d2b308016a</guid>
       <pubDate>Sun, 10 Mar 2024 19:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在构建/创建产品创意之前，您如何验证它？</title>
-      <link>https://feed.indiehackers.world/post/4b221d6272</link>
-      <description><![CDATA[嘿！您如何进行市场研究和产品创意验证？
-换句话说，如果您想继续构建产品，验证您的想法的流程是什么？我不需要细节（但将不胜感激：D），只是在开始构建之前您设置产品成功的流程是什么（例如您使用什么工具，您关注什么，您首先看什么等） ）提前非常感谢
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4b221d6272</guid>
-      <pubDate>Sun, 10 Mar 2024 18:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docker 2 分钟 PHP/Nginx/MySQL 设置</title>
-      <link>https://feed.indiehackers.world/post/a757a06ca8</link>
-      <description><![CDATA[我为向导工具包的 Docker 拉取和设置创建了一个视频。我给它计时了，只需要 2 分钟即可下载并让所有内容在 Docker 中运行。我使用了“图像中的容器”技巧 - 只需在终端中执行 5 个命令即可完成所有操作。
-我已经使用 Docker 大约两年了，它仍然给我留下了深刻的印象。这是在受控本地环境中进行开发的好方法！
-Docker 容器包括：
-
-Nginx：1.22.0-alpine
-MySQL 8.3
-PHP 8.1-FPM
-phpMyAdmin
-Wizard 的 Toolkit 低代码开发库
-
-此视频中详细介绍了所有内容：
-https://youtu.be/3myhUcsz9w8
-或者您可以直接跳转到 Docker hub 存储库：
-https://hub.docker.com/r/proglabs/wizards-toolkit
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a757a06ca8</guid>
-      <pubDate>Sun, 10 Mar 2024 16:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎉10,500 名用户之后，AI Jingle Maker 不断增长！</title>
-      <link>https://feed.indiehackers.world/post/5964c9fe74</link>
-      <description><![CDATA[它使您能够使用一些构建块创建广播或播客节目。
-我即将在音频创意领域发布第三个微型 SaaS。 
-我邀请您尝试这些产品。
-如果您对想法和内容有任何疑问，请联系我们。开发流程，欢迎询问。
-📻敬请期待！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5964c9fe74</guid>
-      <pubDate>Sun, 10 Mar 2024 16:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高在线形象的 7 个创意营销策略</title>
-      <link>https://feed.indiehackers.world/post/42d7c324c3</link>
-      <description><![CDATA[因此，请在您的营销策略中使用它。 根据个人用户的偏好和行为定制您的内容和消息。个性化营销可以显着提高参与度和转化率。
-7.微时刻
-作为一名商人或营销人员，您还应该专注于利用微时刻。当人们转向设备快速获取信息或做出决定时，这些都是短暂的时刻。预测这些时刻并提供相关的、及时的内容来吸引他们的注意力。
-结论
-提升您的在线形象需要创造力、真实性和战略性的结合思维。通过实施这些创意营销策略，您可以提升品牌形象并以有意义的方式与受众互动。因此，继续发挥创意，让您的在线形象飙升！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/42d7c324c3</guid>
-      <pubDate>Sun, 10 Mar 2024 16:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Job Boardly 求职板软件审查（实践）</title>
-      <link>https://feed.indiehackers.world/post/89702dc2b5</link>
-      <description><![CDATA[我回顾了 Job Boardly 求职板软件平台。我深入研究并揭示了我的发现。我还建议了一条货币化和扩大受众的途径。访问该帖子 - https://jobboardcoach.com/product-review/job- boardly-job-board-software-review/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/89702dc2b5</guid>
-      <pubDate>Sun, 10 Mar 2024 14:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nomad Bootstrappers 如何定位社交媒体帖子以吸引其他国家/地区的受众？</title>
-      <link>https://feed.indiehackers.world/post/6e23ab58dd</link>
-      <description><![CDATA[如何有效地将我的自然社交媒体帖子定位到特定国家或地区？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6e23ab58dd</guid>
-      <pubDate>Sun, 10 Mar 2024 11:36:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
