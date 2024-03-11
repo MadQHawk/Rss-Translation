@@ -4,13 +4,20 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Mon, 11 Mar 2024 09:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 12:21:15 GMT</lastBuildDate>
     <item>
       <title>Sam Altman 在对突然解雇事件进行调查后重新加入 OpenAI 董事会</title>
       <link>https://www.reddit.com/r/GPT3/comments/1bato6b/sam_altman_rejoins_openais_board_after/</link>
       <description><![CDATA[    /u/Alan-Foster   /u/Alan-Foster  theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1bato6b/sam_altman_rejoins_openais_board_after/</guid>
       <pubDate>Sat, 09 Mar 2024 22:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>过于积极、华丽和鼓舞人心的对话。</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1ban5br/overly_positive_flowery_and_inspirational_dialogue/</link>
+      <description><![CDATA[我已经尝试了一切，但我的故事总是以这种非常多愁善感的对话结束。不断谈论希望、团队合作和团结。 我到底该如何阻止这种情况发生？我什至创建了自定义 GPT，并附有特定命令不这样做，但这种情况仍然会发生。 在这件事和荒谬的专横审查制度之间，我发现真的很难再在意了。&lt; /p&gt;   由   提交 /u/ALTlMlT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1ban5br/overly_positive_flowery_and_inspirational_dialogue/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:32:54 GMT</pubDate>
     </item>
     <item>
       <title>司法部加强对人工智能执法的关注，警告将判处更严厉的刑罚</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[Azure OpenAI 服务包含与其核心模型一起工作的内容过滤系统。它的运作方式如下：  分类模型集成：内容过滤系统通过分类模型集成运行输入提示和生成的补全。这些模型旨在检测和防止有害内容的输出。它们涵盖四个主要类别：   仇恨：基于种族、民族、国籍、性别认同、性别等属性攻击或使用歧视性语言的内容取向、宗教等等。 性：与露骨的性内容相关的材料。 暴力：涉及暴力或暴力的内容。伤害。 自残：与自残或自杀相关的材料。   严重级别 strong&gt;：过滤的严重性级别分类为：   安全：在此级别检测到的内容被标记，但不受过滤和影响不可配置。 低、中和高：这些级别指示有害内容的严重程度并允许用于可配置性。   其他可选模型：   越狱风险检测 strong&gt;：标记用户或模型行为是否符合越狱攻击的二元分类器。 已知内容检测：标记已知文本或源代码。   语言支持：内容过滤模型经过英语、德语、日语、西班牙语、法语、意大利语、葡萄牙语和中文等语言的专门训练和测试。不过，该服务可以使用其他语言，但质量可能会有所不同。 监控：该服务还监控可能违反产品条款的行为。  应用程序设计注意事项：API 配置和应用程序设计的变化可能会影响过滤行为。 测试并确保适合您的特定应用程序至关重要&lt; a href=&quot;https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter&quot;&gt;1。  请记住，内容过滤旨在创建一个更安全的环境，同时保持开发人员的灵活性。如果您还有任何疑问，请随时提问！ 😊   由   提交 /u/hahahamemehahaha   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1b17v17/i_found_microsoft_copilot_content_filtration/</guid>
       <pubDate>Tue, 27 Feb 2024 09:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon GPT55X：人工智能语言生成的下一个重大事件</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1b0bx6d/amazon_gpt55x_the_next_big_thing_in_ailanguage/</link>
-      <description><![CDATA[Amazon GPT55X 是人工智能领域的最新成员，它有望彻底改变我们日常与人工智能交互的方式。从更流畅、更自然的对话流程到增强的理解能力，潜在的应用似乎是无限的。无论您是热衷于内容创作、客户服务，还是只是着迷于技术的飞跃，每个人都能在这里找到适合您的东西。 刚刚遇到了一些非常令人兴奋的事情，并认为值得与大家分享这里。你们听说过人工智能语言生成的最新进展吗？它被称为 Amazon GPT55X，据我所知，它正在成为该领域的游戏规则改变者。 对于那些热衷于深入了解 Amazon GPT55X 所提供功能的人，我强烈推荐查看更多有关机器的信息。这是值得探索的，尤其是如果您对技术和人工智能的未来充满热情的话。这感觉非常自然。无论您是热衷于内容创作、客户服务，还是只是着迷于技术的飞跃，每个人都能在这里找到适合自己的东西。 Amazon GPT55X 真正引人注目的是它能够理解并生成类似人类的文本，使与机器的交互比以往更加无缝。想象一下，有一个 AI 助手不仅可以理解您的查询，还可以以极其自然的方式做出响应。 对于那些热衷于深入了解 Amazon GPT55X 所提供功能的人，我强烈建议您查看更多有关Amazon GPT55X。这是值得探索的，特别是如果您对技术和人工智能的未来充满热情。 很想听听您对此的想法。您认为像 Amazon GPT55X 这样的人工智能语言生成工具是未来吗？您如何看待它对您的领域或兴趣的影响？ 对于那些热衷于深入了解 Amazon GPT55X 所提供功能的人，我强烈建议您更多地了解有关机器的信息。这是值得探索的，特别是如果你对技术和人工智能的未来充满热情，这种方式感觉非常自然。无论您是热衷于内容创作、客户服务，还是只是着迷于技术的飞跃，每个人都能在这里找到适合自己的东西。   由   提交 /u/Repulsive-Storm-6970   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1b0bx6d/amazon_gpt55x_the_next_big_thing_in_ailanguage/</guid>
-      <pubDate>Mon, 26 Feb 2024 07:40:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
