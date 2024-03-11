@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 21:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:53:44 GMT</lastBuildDate>
+    <item>
+      <title>JWT 作为 cookie</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbpjmu/jwt_as_cookie/</link>
+      <description><![CDATA[我目前正在使用 Next.js 构建一个网站（例如：www .example.com）和 ASP.NET Core Web API (api.example.com)。我有一些基本要求： 1. 身份验证逻辑应该仅在后端，而不是接触 Next.js。零信任。 2. Next.js 能够进行身份验证，以向 API 发出服务器渲染页面的请求，但仅使用客户端的凭据。 3. 客户端还知道其登录状态以进行客户端渲染更改。 4. 用户不需要频繁登录，因此需要刷新令牌。 5. 就 API 而言，会话管理是无状态的（可以使用 JWT 实现）。 我想了一会儿处理这个问题的最佳方法；我读到，从安全角度来看，纯 HTTP cookie 被认为是 XSS 保护的最佳选择。因此，我决定使用仅 HTTP 的 cookie。用户登录后，API 将设置 2 个 cookie：一个访问令牌，范围仅限于站点和 API（因为它们共享一个域，这样 Next.js 可以读取该 cookie 并在需要时进行经过身份验证的调用） ）和刷新令牌，其范围仅限于身份验证端点（以减少暴露）。登录请求将返回一个包含过期时间的 JSON，因此浏览器可以知道其令牌状态以刷新并重定向回登录。 现在，我实际上已经尝试开始实现它，看起来从教程中我发现在 cookie 中使用 JWT 的情况非常罕见（或者通常只是将 cookie 用于后端 API）。看起来就像使用“授权：承载者”一样。 header 是强烈首选。我正在做的事情是考虑反模式吗？如果本地存储被认为不够安全，无法存储我的刷新令牌，那么我还有哪些其他选项来维护会话之间的登录？    由   提交/u/McSlayR01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbpjmu/jwt_as_cookie/</guid>
+      <pubDate>Mon, 11 Mar 2024 00:15:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有抽象BaaS的github项目？ （Firebase/Supabase/Pocketbase/等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbobh1/is_there_a_github_project_that_abstracts_baas/</link>
+      <description><![CDATA[似乎每隔一个月就会有一个新的 BaaS 进入竞技场，拥有自己的 SDK、客户端库、CLI 等。如果能换一个新的 BaaS 就好了。应用程序从一种 BaaS 转移到另一种 BaaS 并不令人头疼。大多数 BaaS 都有 Rest/GraphQL API 来管理它们，所以我认为技术上可以将它们全部抽象到客户端库中吗？  我猜是淋浴想法。如果有人最终制作了一个 github 项目，请将其称为 BaaS Pro Shop。   由   提交 /u/velocd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbobh1/is_there_a_github_project_that_abstracts_baas/</guid>
+      <pubDate>Sun, 10 Mar 2024 23:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些好的文档来复习。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbo5me/need_some_good_docs_for_refresher/</link>
+      <description><![CDATA[我在大学学习了 Javascript、HTML 5、CSS、CSS 3、Bootstrap、Angular JS、Jquery 和 Jquery mobile，但已经过去几年了。一直在努力寻找其他工作，决定尝试做自由职业，但想要一些 pdf 形式或电子书形式的手册和/或指南，我可以参考以刷新我的记忆。   由   提交 /u/TheChiarra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbo5me/need_some_good_docs_for_refresher/</guid>
+      <pubDate>Sun, 10 Mar 2024 23:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有打破当代苹果/谷歌/应用程序美学的好网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbo2zz/are_there_good_websites_that_break_with/</link>
+      <description><![CDATA[只是想知道，因为我目前没有任何想法，是否有好的/流行的网站使用干净时尚的应用程序外观？   由   提交 /u/gcpwnd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbo2zz/are_there_good_websites_that_break_with/</guid>
+      <pubDate>Sun, 10 Mar 2024 23:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何与客户处理托管和域名所有权？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbnrsa/how_do_you_handle_hosting_and_domain_ownership/</link>
+      <description><![CDATA[假设您为客户构建了一个网站，但您自己不托管该网站，也不想处理从客户处获得定期付款的问题支付他们的托管和域名费用。 您是否只是在托管/域名和其他服务上记帐，第一次付款，然后将帐户处理给客户？客户续订此类服务是否足够容易？ 我不是全职开发人员，我不想进行交易，也没有自己正确托管网站和处理其域名的知识，所以我更多地寻找“这是您的网站，这里是密钥，您只需每年向公司支付托管和域名费用，这是您的帐户。”解决方案类型。   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbnrsa/how_do_you_handle_hosting_and_domain_ownership/</guid>
+      <pubDate>Sun, 10 Mar 2024 22:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>你使用人工智能来编写代码吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbmrll/do_you_use_ai_to_write_you_code/</link>
+      <description><![CDATA[您好，您使用 ChatGPT 或 Copilot 来帮助您编写代码吗？  我尽量避免使用它们，当我使用（ChatGpt）时，工作完成得更快，但我脑子里有一个声音告诉我，我是一个骗子和一个懒惰的失败者。  ​   由   提交 /u/TopPerspective8217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbmrll/do_you_use_ai_to_write_you_code/</guid>
+      <pubDate>Sun, 10 Mar 2024 22:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>奖励广告/激励行动替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bblvr4/rewarded_adsincentivized_actions_alternative/</link>
+      <description><![CDATA[我有一个网站，每个积分为 1 美元 - 我不知道我认为低于该价格是没有意义的，但我想在取消流程中添加某种激励措施，以防止用户删除其帐户。例如。 “观看此视频可获得 5 个免费积分” 这就是我偶然发现 激励广告，但我似乎无法通过 AdSense 投放这些类型的广告。我正在尝试思考我可以提示用户采取哪些其他操作，这会给我带来轻微的回扣（即观看视频广告、填写调查等） - 是否有任何平台可以让网络开发人员轻松地将此类奖励系统整合到自己的网站中？   由   提交/u/vastava_viz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bblvr4/rewarded_adsincentivized_actions_alternative/</guid>
+      <pubDate>Sun, 10 Mar 2024 21:38:05 GMT</pubDate>
+    </item>
     <item>
       <title>13 年后我如何用 Go 编写 HTTP 服务</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbkzor/how_i_write_http_services_in_go_after_13_years/</link>
@@ -13,7 +62,7 @@
       <pubDate>Sun, 10 Mar 2024 21:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>护照还是不护照</title>
+      <title>去护照还是不去护照</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbkr1w/to_passport_or_not_to_passport/</link>
       <description><![CDATA[因此寻求一些建议。我正在全力为节点中的应用程序构建身份验证系统。它使用用户名/电子邮件和登录密码，一切都工作得很好。 我的下一步是实现某种基于会话的系统，最初我用 JWT 设置它，但发现这些不利于身份验证，因为会使身份验证无效令牌并不简单 无论如何，找到一个关于使用用户名/密码组合实现会话的好的教程/指南似乎几乎是不可能的，但我找到了使用 Passport 的负载。 我的问题是，Passport 是一个很好用的第三方身份验证插件吗？转向实现它是否有意义？ 提前致谢。  &amp; #32；由   提交/u/preacher2041   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbkr1w/to_passport_or_not_to_passport/</guid>
@@ -22,14 +71,14 @@
     <item>
       <title>寻找小型项目创意</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbjq4u/looking_for_small_projekt_ideas/</link>
-      <description><![CDATA[就像标题说我正在寻找一些独特或很酷的项目。任何意见将不胜感激。需要一个公司项目，我有机会加入，但我的头脑一片空白。 请不要使用计算器或井字棋    ;由   提交 /u/avadakava   [链接] [评论]]]></description>
+      <description><![CDATA[就像标题说我正在寻找一些独特或很酷的项目。任何意见将不胜感激。需要一个公司项目，我有机会加入，但我的头脑一片空白。 请不要使用计算器或井字游戏    ;由   提交 /u/avadakava   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbjq4u/looking_for_small_projekt_ideas/</guid>
       <pubDate>Sun, 10 Mar 2024 20:10:42 GMT</pubDate>
     </item>
     <item>
       <title>Vscode 仍然是首选环境吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbiisk/is_vscode_still_the_go_to_env/</link>
-      <description><![CDATA[我最近看到 fireship 有一个视频谈论了一些我什至没有想到的其他编码环境，最近我在 vscode 上遇到了跟不上的问题处理项目错误，无论是添加还是清除它们，以及其他一些看起来很慢的事情。  vscode 仍然是开发的首选吗，至少对于前端来说，我也使用 intellij 来实现后端 java，不确定是否有什么东西可以更好地为 java 做。 或者是像 zed 和atom 这样的东西只是编码得更好、更快、更强，但它只是没有超越流行？我只是希望参与社区并激发他们的想法   由   提交 /u/Trueleo1   [链接] [评论]]]></description>
+      <description><![CDATA[我最近看到 fireship 有一个视频谈论了一些我什至没有想到的其他编码环境，最近我在 vscode 上遇到了跟不上的问题处理项目错误，无论是添加还是清除它们，以及其他一些看起来很慢的事情。  vscode 仍然是开发的首选吗，至少对于前端来说，我也使用 intellij 来做后端 java，不确定是否有什么东西可以更好地为 java 做。 或者是像 zed 和atom 这样的东西只是编码得更好、更快、更强，但它只是没有超越流行？我只是希望参与社区并激发他们的想法   由   提交 /u/Trueleo1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbiisk/is_vscode_still_the_go_to_env/</guid>
       <pubDate>Sun, 10 Mar 2024 19:22:21 GMT</pubDate>
     </item>
@@ -46,55 +95,6 @@
       <description><![CDATA[ 由   提交/u/drakedemon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbhkxm/show_hn_wife_couldnt_find_a_dev_job_so_i_built_a/</guid>
       <pubDate>Sun, 10 Mar 2024 18:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Wix 切换到使用 html、cs、JS 的新网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbhigy/switching_from_wix_to_a_new_website_using_htmlcs/</link>
-      <description><![CDATA[我最初为我的公司建立了一个wix网站，但现在想使用我用HTML、CSS和JS建立的网站。我从 Wix 获得了域名，有没有办法将我的域名和 SEO 转移到新的 HTML 网站，而不丢失从 Wix 网站建立的所有 SEO？如果是这样我该怎么办？谢谢    由   提交 /u/Solid_Temporary4804   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbhigy/switching_from_wix_to_a_new_website_using_htmlcs/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:40:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>文字转语音</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbh7es/text_to_speech/</link>
-      <description><![CDATA[大家好，我将创建一个产品，其主要功能之一是文本转语音功能。有没有人有一些概述或经验，当前的选项是什么以及定价是多少？  谢谢。    由   提交 /u/BlueberryLarge5533   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbh7es/text_to_speech/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 用于托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbh2vo/aws_for_hosting/</link>
-      <description><![CDATA[大家好， 我正在考虑在 AWS 上托管我的第一个网站。它是一个节点/快速应用程序，大部分是静态的，但有一个在后端处理的联系表单。我还使用 EJS 进行一些模板化，但没有太深入。存储库的链接位于：https://github.com/ClearBleu/ClearBleu I&#39;我在大学参加了预科课程后，目前正在攻读云从业者证书。我以前从未自行托管过，所以这是一个开始的好主意吗？或者我应该坚持使用 Heroku 等其他托管网站？  我想将我学到的有关 AWS 的一些知识应用到云上的自托管中，但在使用 Elastic Beanstalk 或 Amplify 等服务时遇到了一些问题。  我还有一个问题，因为我知道使用 EJS 有点过时了（我在 Web 开发课程中学到了它，所以我用它构建了一些项目，这个就是其中之一）。如果我将此项目重构为 React 应用程序，在 AWS 上托管会更容易吗？   由   提交/u/l-b_b-l   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbh2vo/aws_for_hosting/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关桌面/移动响应网站的几个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbguc0/a_couple_of_questions_regarding_desktopmobile/</link>
-      <description><![CDATA[1- 我开始开发一个用于练习的小网络应用程序，我从移动设计开始，索引页有 3 个可以切换的选项卡通过单击各自的图标（想象一下联系人和组之类的示例）。 问题在于，在桌面站点上，选项卡看起来很愚蠢，因为每个选项卡中没有显示太多信息一个，这浪费了大量的空间，所以将三个“选项卡”变成三列是有意义的，每列都有自己的数据全部显示在一起，但这需要更多的编辑CSS类，我应该制作一个桌面组件/页面和移动页面是否可以进行这些更改？ 2- 关于桌面和移动页面之间的 css 差异，我是否只需为组件使用相同的类名，然后使用媒体查询定义两次，每次都有自己的选择器？ 3- 包含 md:-- 或 sm:-- 等内容的 tailwind 类怎么样？这些与媒体查询相同，只是更紧凑吗？ 谢谢。   由   提交 /u/CyperFlicker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbguc0/a_couple_of_questions_regarding_desktopmobile/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法把 Airbnb 上的日历放到我自己的网站上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbgqat/is_there_any_way_to_take_the_calendar_on_airbnb/</link>
-      <description><![CDATA[这两种方式都有所改变，我正在为爱彼迎房东制作一个网站，这是他的要求/想要的之一。我亲自询问过人们，但没有人确切地告诉我。   由   提交/u/Jfc2420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbgqat/is_there_any_way_to_take_the_calendar_on_airbnb/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 URL 中剥离产品类别和产品固定链接库 (WooCommerce)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbgc29/strip_product_category_product_permalink_base/</link>
-      <description><![CDATA[您好，我希望在 WooCommerce 中执行以下操作： 之前： - 产品类别：/product -category/category/ - 子类别：/product-category/category/subcategory/ - 单个产品：/product/product-category/sample-product/  之后：&lt; br /&gt; - 产品类别：/category/ - 子类别：/category/subcategory/ - 单一产品：/product-category/sample-product-1/ 我正在运行的问题最大的问题是我可以让它适用于 2/3 连击，而不能适用于 3/3。  例如，我可以让它执行以下操作： - 产品类别：/category/ - 单一产品：/product-category/sample-product-1/ 然后是子类别: /category/subcategory/ 返回 404。  这是我正在尝试使用的代码：  // 从产品类别 URL 中删除基础 add_filter(&#39;term_link&#39; , &#39;custom_product_category_permalink&#39;, 10, 3); function custom_product_category_permalink($url, $term, $taxonomy) { if ($taxonomy === &#39;product_cat&#39;) { $url = str_replace(&#39;/product-category/&#39;, &#39;/&#39;, $url); }返回 $url; } // 从产品 URL 中删除基础 add_filter(&#39;post_type_link&#39;, &#39;custom_product_permalink&#39;, 10, 2); function custom_product_permalink($permalink, $post) { if ($post-&gt;post_type === &#39;product&#39;) { $permalink = str_replace(&#39;/product/&#39;, &#39;/&#39;, $permalink); }返回$永久链接； } // 处理旧 URL 的重定向 function custom_redirect_old_urls() { if (is_404()) { $current_url = $_SERVER[&#39;REQUEST_URI&#39;]; if (strpos($current_url, &#39;/product-category/&#39;) !== false) { $new_url = str_replace(&#39;/product-category/&#39;, &#39;/&#39;, $current_url); wp_redirect(home_url($new_url), 301);出口; } elseif (strpos($current_url, &#39;/product/&#39;) !== false) { $new_url = str_replace(&#39;/product/&#39;, &#39;/&#39;, $current_url); wp_redirect(home_url($new_url), 301);出口; add_action(&#39;template_redirect&#39;, &#39;custom_redirect_old_urls&#39;); // 添加产品和产品类别的重写规则 function custom_rewrite_rules() { // 产品的规则 add_rewrite_rule(&#39;^([^/]*)/([^/]*)/?&#39;, &#39;index.php?product= $matches[2]&#39;, &#39;顶部&#39;); // 产品子类别和类别的规则 add_rewrite_rule(&#39;^([^/]*)/?&#39;, &#39;index.php?product_cat=$matches[1]&#39;, &#39;top&#39;); add_action(&#39;init&#39;, &#39;custom_rewrite_rules&#39;);  感谢所有帮助。  附录：我为类别和子类别创建了页面，我希望将默认产品类别和子类别直接指向这些页面，以便我可以使用编辑器自定义它们。  谢谢。    由   提交 /u/Ghox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbgc29/strip_product_category_product_permalink_base/</guid>
-      <pubDate>Sun, 10 Mar 2024 17:51:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从这一刻起，每个人都使用 Cloudflare 作为前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbg07y/from_this_moment_everyone_use_cloudflare_for/</link>
-      <description><![CDATA[我的前端是react.js (vite) + redux、firebase。我的后端是node.js + Express，mongoDB + mongoose。那么我应该使用 Cloudflare 作为前端并使用 render.io 作为后端吗？我想要免费套餐，但不想在使用 docker 部署到生产环境时遇到类似 Netlify 的疯狂账单（我可能也使用 Cloudflare 作为 cdn 和 dns），有任何建议请告诉我 🙏🏻   由   提交 /u/Deepinsidesin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbg07y/from_this_moment_everyone_use_cloudflare_for/</guid>
-      <pubDate>Sun, 10 Mar 2024 17:37:44 GMT</pubDate>
     </item>
     <item>
       <title>我创建了协作文本编辑器 - l4r.app</title>
