@@ -4,7 +4,123 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 12 Mar 2024 18:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 21:13:15 GMT</lastBuildDate>
+    <item>
+      <title>2024 年通过 Google AdSense 实现 B2C 网络应用货币化</title>
+      <link>https://feed.indiehackers.world/post/efbe38d151</link>
+      <description><![CDATA[我被这样的想法所吸引：应用程序/工具可以免费使用，消除了成为用户的财务障碍。但是，显然美学和用户体验受到了巨大的打击。目前正在努力解决这种权衡问题。我通常非常重视良好、简洁的设计。
+有人有通过 Adsense 获利的经验吗？我们来听听吧。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/efbe38d151</guid>
+      <pubDate>Tue, 12 Mar 2024 20:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我运行 SaaS 第三年的经验教训</title>
+      <link>https://feed.indiehackers.world/post/eb131d2198</link>
+      <description><![CDATA[我花了一周的时间调整代码，多次增加 VPS 大小，尝试不同的 VPS 提供商，最终放弃，并认为对于我想要经营的生活方式业务类型来说，为 AWS Lambda 支付额外费用是值得的。权衡等等。
+我开始了解我的产品理念
+今年，我从 Justin Duke 的软件业务情绪板上读到了一句话，这句话引起了我的共鸣，也让我明白了我想通过 OnlineOrNot 做的事情：
+&lt;块引用&gt;
+我们将在这里建造好船，如果可以的话可以盈利，如果必须的话就亏损，但总是好船
+
+该业务是自力更生且可持续的（它是默认存活的），所以我不太担心利润。十年后我仍然会在这里做这件事。今年我意识到除了质量之外没有什么可以关注的了。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/eb131d2198</guid>
+      <pubDate>Tue, 12 Mar 2024 20:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题：没有登录障碍的最简单的消息发送方式？</title>
+      <link>https://feed.indiehackers.world/post/2312534a05</link>
+      <description><![CDATA[大家好，
+我的使命是简化用户分享他们对我的项目的见解和建议的方式。虽然 LinkedIn 和 Slack 等平台提供了交互途径，但它们对登录和连接的要求构成了障碍。 
+此外，我不想直接透露我的电子邮件。我正在寻找一种直观的解决方案，使我的网络应用程序的访问者能够无缝发送反馈。
+https://receipts2csv.streamlit.app/
+https://nocode-machine-learning.streamlit.app/
+问候，
+维巴
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2312534a05</guid>
+      <pubDate>Tue, 12 Mar 2024 19:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>#为您的产品获取新客户的基础知识</title>
+      <link>https://feed.indiehackers.world/post/8e74e51acc</link>
+      <description><![CDATA[这些只是帮助您入门的一些提示。请随意添加您最有效、经过实验的客户获取增长技巧！我一直希望向出色的 Indiehackers 社区学习:)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8e74e51acc</guid>
+      <pubDate>Tue, 12 Mar 2024 19:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>请烘烤我的表单生成器，好吗？</title>
+      <link>https://feed.indiehackers.world/post/77c88f2adb</link>
+      <description><![CDATA[我从头开始设计了一个表单生成器（https://formlick.com），现在我不确定人们将如何使用它。 
+如果你把它烤得很硬，那就真的很有趣了。
+您不必注册即可使用表单构建器，只需转到登录页面并使用构建器即可。 
+https://formlick.com
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/77c88f2adb</guid>
+      <pubDate>Tue, 12 Mar 2024 18:59:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>烘烤我的着陆页 SAAS x AI</title>
+      <link>https://feed.indiehackers.world/post/91176bf3ed</link>
+      <description><![CDATA[朋友们大家好👋🏻
+我很快就会推出https://sebora.ai
+我们随时欢迎您的所有反馈，甚至包括烤肉的反馈！您的诚实想法对我们来说非常宝贵，我们愿意倾听您的意见。所以不要退缩！让我们知道您的想法。 🚀
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/91176bf3ed</guid>
+      <pubDate>Tue, 12 Mar 2024 18:57:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌要杀掉我的产品？ 100%。</title>
+      <link>https://feed.indiehackers.world/post/6a0fb98096</link>
+      <description><![CDATA[这就是 Gemini 侧面板的用武之地。
+什么时候它是一个好主意，什么时候它是一个功能什么时候它就注定了？
+很难说你的想法何时会成为一项业务，或者只是某个主要参与者会实施的功能。
+有一件事是肯定的，当我在 Product Hunt 上发布 Gemini Side Panel 时，它排名第 2
+我为此感到自豪，无论发生什么，我在制作预告片、寻找它、将其排名第二，当然还有使用优秀的 JavaScript 构建它时都享受到了很多乐趣:)
+我什至制作了预告片：https://youtu.be/dTsk_NtGFFM
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/6a0fb98096</guid>
+      <pubDate>Tue, 12 Mar 2024 18:38:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌要杀掉我的产品？ 100%。</title>
+      <link>https://feed.indiehackers.world/post/165c7d2933</link>
+      <description><![CDATA[这就是 Gemini 侧面板的用武之地。
+什么时候它是一个好主意，什么时候它是一个功能什么时候它就注定了？
+很难说你的想法何时会成为一项业务，或者只是某个主要参与者会实施的功能。
+有一件事是肯定的，当我在 Product Hunt 上发布 Gemini Side Panel 时，它排名第 2
+我为此感到自豪，无论发生什么，我在制作预告片、寻找它、将其排名第二，当然还有使用优秀的 JavaScript 构建它时都享受到了很多乐趣:)
+我什至制作了预告片：https://youtu.be/dTsk_NtGFFM
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/165c7d2933</guid>
+      <pubDate>Tue, 12 Mar 2024 18:38:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的 SAAS 登陆页面</title>
+      <link>https://feed.indiehackers.world/post/c3e6505c5e</link>
+      <description><![CDATA[我们希望您能称赞我们的登陆页面！ 
+Feedspace.io
+是不是配色方案伤害了你的眼睛？或者也许是字体的选择让你头疼？不要犹豫——我们能承受！
+我们知道总有改进的空间，并且我们并不害怕承认这一点。您的诚实反馈将帮助我们完善目标网页，并为未来的访问者提供更好的体验。
+那么，开始烘焙吧！在下面的评论中留下您最严厉（但有建设性）的批评。 
+我们保证不会哭……太多
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c3e6505c5e</guid>
+      <pubDate>Tue, 12 Mar 2024 18:29:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我与 SAAS 公司的旅程</title>
+      <link>https://feed.indiehackers.world/post/c7ea08cbd2</link>
+      <description><![CDATA[总的来说，在 Feedspace 工作是一次很棒的经历。成为一个为大大小小的企业带来真正改变的团队的一员是值得的。如果您正在寻找 SAAS 工具来增强客户反馈游戏，我强烈建议您查看 Feedspace！
+https://www.feedspace.io/
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c7ea08cbd2</guid>
+      <pubDate>Tue, 12 Mar 2024 18:26:20 GMT</pubDate>
+    </item>
     <item>
       <title>对我的着陆页有反馈吗？ （产品开发订阅）</title>
       <link>https://feed.indiehackers.world/post/571f15a298</link>
@@ -59,136 +175,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/5c4b57c515</guid>
       <pubDate>Tue, 12 Mar 2024 17:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>让私人助理帮助您安排日程等等比以往更容易！</title>
-      <link>https://feed.indiehackers.world/post/07ef9b76d6</link>
-      <description><![CDATA[厌倦了在日历和笔记应用中摸索？ 😴
-我们正在与 Gumdrop 一起进行产品搜寻！
-获得虚拟助理，在 20 秒内帮助您处理日历并提高工作效率。您的联系人列表中的日程安排助理。 🚀
-没有应用程序。您可以向助手发送短信和电子邮件，以完全控制您的日历等。
-在这里看看它能做什么。 https://withporter.notion.site/Gumdrop-What-c​​an-it-do-83f44be8f8c24b19829e377dc7dafd2d&lt; /a&gt;
-检查一下。 https://www.producthunt.com/posts/gumdrop-1
-加入 gumdropit.com Beta 测试等候名单
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/07ef9b76d6</guid>
-      <pubDate>Tue, 12 Mar 2024 16:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁在他们的项目中使用 SaaS 模板？</title>
-      <link>https://feed.indiehackers.world/post/e073b6b095</link>
-      <description><![CDATA[以下是一些值得注意的：
-
-https://shipfa.st/
-https://create.t3.gg/
-https://vercel.com/templates
-https://thecodingmachine.github.io/react-native-boilerplate/
-
-请跟随我为我的最新移动应用选择样板：
-https://youtu.be/5DyzCdQIR8w
-您有在项目中使用的首选样板吗？请在评论中告诉我！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e073b6b095</guid>
-      <pubDate>Tue, 12 Mar 2024 16:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>该堆栈用于运行 3 个软件产品和一个网络抓取服务（及其成本）</title>
-      <link>https://feed.indiehackers.world/post/1523f8e5c2</link>
-      <description><![CDATA[“将它们用于我不想自己做的随机、简单的任务”
-“超级便宜，但许多自由职业者可以成为工作起来很痛苦，即使是看似简单的任务。”
-在此处查看完整帖子：https://www.Founderstacks.co/blog/kacper-staniul 
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1523f8e5c2</guid>
-      <pubDate>Tue, 12 Mar 2024 16:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎉 Typeform 替代方案，但有所不同</title>
-      <link>https://feed.indiehackers.world/post/f7d59eb8be</link>
-      <description><![CDATA[🎉 隆重推出 https://formlick.com，这是一种 Typeform 替代方案，您可以在其中使用 AI 创建表单并接收无限提交。
-&lt;小时/&gt;
-生成表单非常简单，只需告诉您的用例是什么，它就会为您生成一个表单，甚至决定与您的内容匹配的主题。
-此外，通过 Formlick，您可以收到无限量的表单提交内容以及附加功能，例如：
-
-多语言表格
-记录用户输入的数据并移至下一个字段
-表单主题
-为简介页面添加徽标
-更多功能即将推出
-
-&lt;小时/&gt;
-请告诉我您的建议和反馈，期待您的回复。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f7d59eb8be</guid>
-      <pubDate>Tue, 12 Mar 2024 15:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的登陆页面英雄部分。</title>
-      <link>https://feed.indiehackers.world/post/b4648dea10</link>
-      <description><![CDATA[我正在开发我的工具的登录页面，该工具可让您创建候补名单。您能否查看上面的屏幕截图并告诉我价值主张是否已清晰传达？ 
-我欢迎提出改进建议。让我知道。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b4648dea10</guid>
-      <pubDate>Tue, 12 Mar 2024 15:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>React Native 跨平台：它如此适合的原因</title>
-      <link>https://feed.indiehackers.world/post/4e85620679</link>
-      <description><![CDATA[
-文件：创建特定于平台的文件（例如 Component.ios.js 和 Component.android.js）。
-代码执行：使用Platform.OS执行基于平台的代码。
-库：了解需要不同实现的库。
-在两个平台上进行测试：定期在 iOS 和 Android 设备上进行测试。
-处理权限：针对不同的权限模型调整代码。
-处理导航：调整每个平台的导航。
-针对屏幕尺寸优化 UI：应用响应式设计原则。
-资产：使用特定于平台的资产文件夹。
-
-考虑这些步骤，确保您的 React Native 跨平台案例在 iOS 和 Android 平台上提供一致且优化的体验。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4e85620679</guid>
-      <pubDate>Tue, 12 Mar 2024 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个免费电子邮件课程，介绍如何在 7 天内构建和启动 Micro SaaS</title>
-      <link>https://feed.indiehackers.world/post/5e97f248dd</link>
-      <description><![CDATA[您可以在此处找到关于在 7 天内构建和启动 Micro SaaS 的免费电子邮件课程
-，我很乐意收到您的反馈。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5e97f248dd</guid>
-      <pubDate>Tue, 12 Mar 2024 15:12:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在约会应用程序上赚钱：为开发者和应用程序所有者解开秘密</title>
-      <link>https://feed.indiehackers.world/post/73ac3b9455</link>
-      <description><![CDATA[
- 视频广告：视频广告因其高点击率 (CTR) 和吸引力而广受欢迎。据 eMarketer 称，未来两年美国移动视频广告支出预计将达到 248.1 亿美元。这种格式非常有效，因为用户的广告观看时间会随着时间的推移而逐渐增加。
- 奖励视频广告：这种格式会在用户观看整个视频而不跳过时给予奖励。 Unity Ads 将这种格式称为“最热门的收入来源”。我们这个时代的。 OpenX 的一项研究表明，如果观看后获得折扣或奖励，近 80% 的用户会一直观看视频。
- 可玩广告：顾名思义，这些广告通过互动游戏元素吸引用户。用户在收到号召性用语 (CTA) 提示之前，可以有限预览广告商的应用程序。这种格式有助于降低卸载率，因为用户可以在提交之前评估应用的质量。
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/73ac3b9455</guid>
-      <pubDate>Tue, 12 Mar 2024 14:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在约会应用程序上赚钱：为开发者和应用程序所有者解开秘密</title>
-      <link>https://feed.indiehackers.world/post/b47a32ca54</link>
-      <description><![CDATA[
- 视频广告：视频广告因其高点击率 (CTR) 和吸引力而广受欢迎。据 eMarketer 称，未来两年美国移动视频广告支出预计将达到 248.1 亿美元。这种格式非常有效，因为用户的广告观看时间会随着时间的推移而逐渐增加。
- 奖励视频广告：这种格式会在用户观看整个视频而不跳过时给予奖励。 Unity Ads 将这种格式称为“最热门的收入来源”。我们这个时代的。 OpenX 的一项研究表明，如果观看后获得折扣或奖励，近 80% 的用户会一直观看视频。
- 可玩广告：顾名思义，这些广告通过互动游戏元素吸引用户。用户在收到号召性用语 (CTA) 提示之前，可以有限预览广告商的应用程序。这种格式有助于降低卸载率，因为用户可以在提交之前评估应用的质量。
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b47a32ca54</guid>
-      <pubDate>Tue, 12 Mar 2024 14:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越代码：为什么有效的沟通对于软件工程师来说至关重要</title>
-      <link>https://feed.indiehackers.world/post/39ab65867b</link>
-      <description><![CDATA[清晰的沟通不仅仅是软件工程中一项必备技能 - 它改变了一切。 
-通过掌握这些策略和工具，您将简化您的开发流程并与您的团队和客户建立更牢固的关系。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/39ab65867b</guid>
-      <pubDate>Tue, 12 Mar 2024 14:48:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

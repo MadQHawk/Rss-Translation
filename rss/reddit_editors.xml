@@ -4,7 +4,42 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 12 Mar 2024 18:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 21:12:17 GMT</lastBuildDate>
+    <item>
+      <title>在你们国家，编辑每月赚多少钱？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bd84ve/how_much_money_does_an_editor_make_monthly_in/</link>
+      <description><![CDATA[我被聘为编辑，但我想知道我的工资是否过低或过高。这就是为什么我问这个问题是为了了解通常情况是什么。至于我制作的视频类型，我为一位相当知名的创作者编辑短片   由   提交 /u/Fake-products   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bd84ve/how_much_money_does_an_editor_make_monthly_in/</guid>
+      <pubDate>Tue, 12 Mar 2024 20:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>达到极致</title>
+      <link>https://www.reddit.com/r/editors/comments/1bd6u51/delivering_to_extreme_reach/</link>
+      <description><![CDATA[我过去曾向 ER 交付过，但总是从 Avid 交付。这次我在 Premiere 中，想知道如何最好地设置 5.1 环绕声序列以遵循 ER 规范。我一直在网上阅读相互矛盾的信息，但没有找到可靠的答案 根据 ER 要求，8 通道 5.1 音频。 - 我在首映中看到要设置一个8 多通道序列，全单声道。和潘奇左和偶右。然后导出 SMPTE DTV (L,R,C,LFE,LS,RS,LT,RT) - 我发现的另一个资源说不能平移赔率和偶数。而是将每个单声道通道居中平移。 - 另一个视频表示要使用 5.1 音轨设置序列，并在轨道编辑器中编辑它们以平移左前、中置、右前等。 - p&gt; 有人对此有任何见解吗？ ​ 系统规格： Mac Pro 2017 Monterey 12.7.3 &gt; 首映 2024.1 RAM 64 ​   由   提交/u/hambone_bowler  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bd6u51/delivering_to_extreme_reach/</guid>
+      <pubDate>Tue, 12 Mar 2024 19:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有成功移居美国并取得成功的欧洲/英国编辑？很想获得一些见解。</title>
+      <link>https://www.reddit.com/r/editors/comments/1bd5zpi/any_europeanuk_editors_who_managed_to_move_and/</link>
+      <description><![CDATA[这里是动画编辑器，从事后期制作 12 年。大约6年前开始专门从事动画剪辑。作为爱尔兰和英国多家工作室的编辑，参与了多部美国儿童动画系列的制作。我真的很想有机会直接搬到美国工作室工作，但与许多其他职业不同的是，似乎没有动力从国外招聘。我会立刻搬家，我只是不知道从哪里开始。这里有谁设法搬过来的，我假设你有你的雇主赞助你？我很想对此有所了解，如果您从事动画工作，则更是如此！   由   提交 /u/Rustyfist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bd5zpi/any_europeanuk_editors_who_managed_to_move_and/</guid>
+      <pubDate>Tue, 12 Mar 2024 19:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid Media Composer 在初始化插件时退出：AMPIPluginDSM.avx</title>
+      <link>https://www.reddit.com/r/editors/comments/1bd4k6s/avid_media_composer_quits_at_initializing_plugin/</link>
+      <description><![CDATA[3.2 GHz Intel Core i7、Mac mini、Mojave 操作系统、64 GB 2667 MHz DDR4、Media Composer 2018.12 ​ ; 有人有解决这个问题的想法吗？我将 macbook pro 迁移到了 mac mini。我的操作系统是 Mojave，Avid 是 2018.12。迁移后，我在之前的计算机上停用了许可证，并在当前计算机上激活了许可证。那时，我在登录时遇到了问题 - 我不断收到试用已结束的消息（我有一个有效的订阅）。我联系了 Avid，他们进行了远程会话并将 Avid Link 下载到我的计算机上。他们表示问题在于我使用的是旧版本的 Link - Avid Application Manager。 最终他们能够让我登录到 Avid。然而，从那时起，我无法打开 Avid，因为它在该插件处停止运行。我已按照 Avid 知识库文章中的所有说明来解决此问题。在与 Avid 员工进行远程会话之前，我在打开 Avid 时从未遇到过问题。 有人能给我任何建议吗？难道是我迁移计算机时出现了问题？或者可能是我的计算机上安装了新版本的 Avid Link？   由   提交/u/ennea4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bd4k6s/avid_media_composer_quits_at_initializing_plugin/</guid>
+      <pubDate>Tue, 12 Mar 2024 18:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>沙丘：第二部分 — 时间线 📹 编辑 Joe Walker，ACE</title>
+      <link>https://www.reddit.com/r/editors/comments/1bd4dqx/dune_part_two_timeline_editor_joe_walker_ace/</link>
+      <description><![CDATA[屏幕截图 - https://www.youtube .com/watch?v=ogunhBKvB5o 遗憾的是我找不到更多的信息 - 希望我能放大它们哈哈。只是发现它很有趣并想分享。   由   提交 /u/SD_Eragorn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bd4dqx/dune_part_two_timeline_editor_joe_walker_ace/</guid>
+      <pubDate>Tue, 12 Mar 2024 18:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>这里有人用过 Cinegrain 谷物包吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1bd3ylr/anyone_here_use_the_cinegrain_grain_pack/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[毫不羞耻地说，我是一名有抱负的编辑，正在寻求有关公司节目的流派/基调的帮助。  我目前是一名内部编辑助理，他被要求为我公司的新节目剪草稿。 我们制作了各种来自黑暗、险恶的社交媒体的文档。对于幽默甚至有时甚至荒谬的故事很重要。 我想知道是否有人有任何公司/企业/甚至个人的节目可以让我看到灵感？我自己的编辑经验还没有接近事情经常有幽默的一面，我想更好地将幽默融入到其他严肃的话题中。 TIA   由   提交/u/lasagens971   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bcttx0/company_showreel_inspiration/</guid>
       <pubDate>Tue, 12 Mar 2024 10:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题导出 5.1 源于首映？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bct44n/question_export_51_stems_in_premiere/</link>
-      <description><![CDATA[这就是我所做的（音频已通过配音混音器以 6 个茎导出给我（L、R、C、LFE、Ls、 Rs)): 设置多通道序列。轨道类型设置为“单声道” 通道数设置为 6 轨道 1+2 的输出分配设置为混合通道 1-2；轨道 3+4 设置为混合通道 3-4，轨道 5+6 设置为混合通道 5-6。 奇数轨道一直向左平移 (-100) 即使轨道也一直向右平移 (+100) 每个主干的配置为： L 在轨道 1 上 R 在轨道 2 上 C 在轨道 3 上 LFE 在轨道 4 上在轨道 6 上轨道 5 Rs 我已按照他们的要求将其导出，ProRes。在音频中，我导出为 48000Hz、24 位和 5.1（L、R、C、LFE、Ls、Rs）。 我的问题是为什么我要向左和向右规划 C 和 LFE？ 5.1一直让我困惑，我只是好奇我导出的内容是否正确？或者我应该将音频导出为 6 通道而不是 5.1？ 仔细阅读，显然首映会将左和右读取为奇数和偶数？当我从我的扬声器（不是 5.1）播放它时，我的中心 wav 来自我的左扬声器，这样可以吗？ 抱歉华夫饼！蒂亚   由   提交 /u/Assinmik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bct44n/question_export_51_stems_in_premiere/</guid>
-      <pubDate>Tue, 12 Mar 2024 09:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我编辑了昨晚奥斯卡的特技表演者致敬......</title>
-      <link>https://www.reddit.com/r/editors/comments/1bchomr/i_edited_the_stunt_performers_tribute_for_last/</link>
-      <description><![CDATA[...但是他们在前一天晚上将其缩短了几乎整整一分钟。很多人都致力于让这个变得特别（定制音乐、瑞恩·高斯林等），我认为社区可能有兴趣看到完整的、未剪辑的版本！工作两个月了，有什么问题可以来问我！ 💪 https://vimeo.com/919444061   由   提交 /u/BauerBourneBond   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bchomr/i_edited_the_stunt_performers_tribute_for_last/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 导出时在 VLC 中出现卡顿，但在 Quick Time Player - M1/M2 mac 中则不然</title>
-      <link>https://www.reddit.com/r/editors/comments/1bceupz/avid_exports_stutters_in_vlc_but_not_quick_time/</link>
-      <description><![CDATA[有人注意到这个问题了吗？我认为它可能只在 M1+ mac 上出现，但最近我注意到许多从 Avid 导出的 h264 在 VLC 上播放效果很差，但在 QuickTime Player 上则不然。 考虑到 VLC 通常播放流畅，并且可以播放返回几乎所有有效的视频文件，我对此感到惊讶，想知道这是否意味着 Avid 导出的方式有问题？ 我在至少两个（也许三个）不同的项目中看到过这种情况。在我当前的项目中，它是标准粗剪导出 - h264，大约 5-7mbs，固定速率，aac 音频。   由   提交/u/ovideos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bceupz/avid_exports_stutters_in_vlc_but_not_quick_time/</guid>
-      <pubDate>Mon, 11 Mar 2024 21:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 Premiere Pro 时间轴中热键某些素材箱？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bce642/is_there_a_way_to_hot_key_certain_bins_in_a/</link>
-      <description><![CDATA[*premiere pro 项目 我希望能够随时打开某些文件夹    由   提交 /u/T00Human   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bce642/is_there_a_way_to_hot_key_certain_bins_in_a/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:58:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>合法销售“二手”软件？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bce4ot/legally_selling_used_software/</link>
-      <description><![CDATA[如何/如何合法转售使用过的软件？特别是，我有几百 GB 的 AFX、VFX、Foley 以及付费 DCTL、校准软件等。我完全摆脱了剪辑工作。这些资产的成本相当高（都是合法购买的），所以我想收回一些成本。像销售单这样的东西足以将所有权转移到新的所有权吗？或者购买者通常是最终且唯一的用户/被许可人？再次强调，希望完全在董事会之上做到这一点。   由   提交 /u/AlderMediaPro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bce4ot/legally_selling_used_software/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:56:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
