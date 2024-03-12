@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 09:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 15:12:39 GMT</lastBuildDate>
     <item>
-      <title>前端悄然普遍的贬值</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcspc2/the_quiet_pervasive_devaluation_of_frontend/</link>
-      <description><![CDATA[       由   提交 /u/stefanjudis   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcspc2/the_quiet_pervasive_devaluation_of_frontend/</guid>
-      <pubDate>Tue, 12 Mar 2024 09:02:50 GMT</pubDate>
+      <title>知道有什么好的工具来存储定义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcz1vi/know_any_good_tools_for_storing_definitions/</link>
+      <description><![CDATA[我们有一个旧的 Drupal 6 站点，其中存储了大量技术定义，自然地，我们希望摆脱这个古老的站点。我们还没有看到任何合适的途径将它们转移到 Drupal 10（正在取代旧站点），因此我们正在寻找其他工具，我想我应该来这里寻求一些建议。  一些要求： 用户登录 - 最好使用 LDAP 链接到特定定义。即，每个定义可以有一个不同的 url 打印一本“书” PDF 格式的定义（带有打印机友好的模板） 嵌套，用于表示定义中的父/智利关系。 定义使用标记，有些具有原始编码图像。我认为任何富文本编辑器都应该能够处理这些。 一个额外的好处是任何可以加载定义的先前版本的系统，这样我们就可以显示它们随时间变化的差异。  li&gt;  我们正在运行 Docker 化的服务器，因此很容易将任何东西放入我们的环境中。目前，定义位于数据库中，但它们可以轻松导出到 CSV，其中包含注明父/智利关系的字段。 如果有人对现有工具有任何建议，您将节省我有很多时间！我猜这个轮子已经被重新创建了一百万次，每个实例都可能带来一些特殊的天赋。   由   提交/u/john-dev  /u/john-dev  reddit.com/r/webdev/comments/1bcz1vi/know_any_good_tools_for_storing_definitions/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcz1vi/know_any_good_tools_for_storing_definitions/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:49:12 GMT</pubDate>
     </item>
     <item>
-      <title>网站启动需要智慧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcsm4p/website_startup_wisdom_needed/</link>
-      <description><![CDATA[大家好，希望你们今天过得愉快。 就上下文而言，我是一名初级开发人员，也是我的朋友正在设计，问我是否可以为他的客户建立一个网站。所以我说当然，因为我想了解越来越多的东西，而且我之前已经为我父亲建立了一个较低级别的网站，因为它是一家非常小的建筑公司。我对 Angular、C#、typescript、javascript 以及 html 和 css（还有像 bootstrap 这样的库）有丰富的经验。  该网站需要是静态的，因此需要一个长页面和一个导航来转到页面上的某个部分。他给了我一个可以遵循的设计。他们已经拥有一个域名，其网站看起来不太好 我的问题： 有人对如何存储代码以使其安全有任何建议吗所以不是 github，还有关于托管。用户友好，价格是我所关注的，因为我需要给他报价。  我希望有人能提供一些很棒的提示和技巧！非常欣赏它   由   提交 /u/DigImmediate7291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcsm4p/website_startup_wisdom_needed/</guid>
-      <pubDate>Tue, 12 Mar 2024 08:56:47 GMT</pubDate>
+      <title>我一直在尝试构建碳足迹跟踪器网络应用程序。我遇到了 API 请求的问题，并且在多次尝试修复后失败。该项目的 Git Repo 链接如下。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcyu3b/ive_been_trying_to_build_a_carbon_footprint/</link>
+      <description><![CDATA[ 由   提交/u/Deniter_1962   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcyu3b/ive_been_trying_to_build_a_carbon_footprint/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>网站+数字学习平台堆栈评估</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcsimq/stack_evaluation_for_website_digital_learning/</link>
-      <description><![CDATA[大家好 我正在开发一个中型项目，其中包括一个网站和一个学习项目平台。最初，它将提供教育文档供用户查看和下载，并计划扩展到交互式课程。 我正在考虑使用 SvelteKit 进行构建，被它的效率和优雅所吸引。对于托管，我在 Netlify 和 DigitalOcean 之间左右为难，Netlify 是我的经验，并且欣赏它的易用性，而 DigitalOcean 提供了托管数据库，这是一个我觉得很有吸引力的功能。但是，我担心对 Netlify 功能的潜在 DDoS 攻击，因为有效限制访问似乎具有挑战性。 至于 CMS，我正在研究 Strapi、Sanity、Directus 和 Decap，其中优先考虑定制功能，允许网站所有者创建自己的课程。我是否应该考虑为此目的创建自己的 CMS？ 考虑到我们预计有数百甚至数千个用户，扩展是另一个考虑因素。这让我想知道是否有必要集成一个强大的后端解决方案（例如 Supabase）来将所有这些元素无缝地结合在一起。 我很想了解您对一个可供其他人访问的技术堆栈的想法目标是在几个月内掌握它，并且足够强大以支持未来的功能和扩展需求。我是一个独角戏，我认为自己是一名中级开发人员。主要是前端。但我愿意学习并将自己提升到一个新的水平。 非常感谢您的投入：*   由   提交 /u/snarfi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcsimq/stack_evaluation_for_website_digital_learning/</guid>
-      <pubDate>Tue, 12 Mar 2024 08:49:50 GMT</pubDate>
+      <title>Vite 并将 Mp4 渲染为 Webm</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcyt59/vite_and_rendering_mp4_as_webm/</link>
+      <description><![CDATA[只是好奇是否有人知道如何让 vite 创建导入到项目中的 mp4 文件的 webm 版本？我猜它需要拆分导入（例如 import {mp4,webm} from &#39;./video.mp4&#39; 并且构建过程（使用 ffmpeg）可以使用预设创建视频?    提交者    /u/ jonmacabre   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcyt59/vite_and_rendering_mp4_as_webm/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:38:25 GMT</pubDate>
     </item>
     <item>
-      <title>用于测试/演示的设备模拟器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcs2lz/device_emulator_for_testingpresenting/</link>
-      <description><![CDATA[您好，我正在寻找在测试 Web 应用程序和页面时针对不同设备类型使用开发工具的替代方法。最好是可以让您看到正在使用的设备，而不仅仅是屏幕尺寸。 有人有他们使用的任何推荐/最爱吗？   由   提交 /u/pswizzlepollock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcs2lz/device_emulator_for_testingpresenting/</guid>
-      <pubDate>Tue, 12 Mar 2024 08:18:23 GMT</pubDate>
+      <title>将 Rust 集成到 Next.js：开发人员指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcym5h/integrating_rust_into_nextjs_howto_developer_guide/</link>
+      <description><![CDATA[    /u/capJavert   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcym5h/integrating_rust_into_nextjs_howto_developer_guide/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 Chakra UI 中将长文本换行到 <Text> 内？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcs06c/how_to_wrap_long_text_inside_text_in_chakra_ui/</link>
-      <description><![CDATA[      与标题相同，我希望文本在  内自动换行。标签。 {encryptedData &amp;&amp; ( &lt;&gt;  文本X 方向溢出。 https: //preview.redd.it/py5l3pcc3vnc1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=79bbfaf2a4fdc34c46d7c960f150165fce41a667    ;由   提交/u/Mutant101was_here  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcs06c/how_to_wrap_long_text_inside_text_in_chakra_ui/</guid>
-      <pubDate>Tue, 12 Mar 2024 08:13:27 GMT</pubDate>
+      <title>如果我不接受 Cookie，网站默认存储最大数量还是最少数量的 Cookie？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcyi72/if_i_dont_accept_cookies_do_websites_default_to/</link>
+      <description><![CDATA[不确定这是否是正确的子..，但不要单击“此网站使用 cookie”上的任何内容弹出窗口我开始只是用我的广告拦截器隐藏元素，认为如果我没有明确同意任何内容，它们可能实际上无法存储任何内容。我离正确还有多远？ 谢谢   由   提交 /u/BigOlBlimp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcyi72/if_i_dont_accept_cookies_do_websites_default_to/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:25:22 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Flexsearch 将搜索添加到网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcrzl8/how_to_add_search_to_a_website_using_flexsearch/</link>
-      <description><![CDATA[   /u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcrzl8/how_to_add_search_to_a_website_using_flexsearch/</guid>
-      <pubDate>Tue, 12 Mar 2024 08:12:20 GMT</pubDate>
+      <title>这个动画 CSS bg 是如何完成的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcyhqj/how_is_this_animated_css_bg_done/</link>
+      <description><![CDATA[有涟漪水效果（以及不同页面上的其他效果） https://www.extropic.ai/careers 在标题中我可以看到一个“背景图像”梯度，以及“背景过滤器”确实影响它但不控制它的属性。而且它与 js 无关，因为关闭它仍然可以工作。谁能启发我吗？  在一个关于引入新的计算范式的页面上关心这个感觉有点傻，但是嘿，我是一个网络开发人员而不是硬件人员。   由   提交/u/elendee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcyhqj/how_is_this_animated_css_bg_done/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:24:47 GMT</pubDate>
     </item>
     <item>
-      <title>关于自己的投资组合网站有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcrus0/any_tips_about_own_portfolio_website/</link>
-      <description><![CDATA[我想创建自己的简历，但不知道这个“展示柜”如何显示可能看起来像。就像你想要做出色的设计、平滑过渡的那一刻，但你必须将其与简约的需求结合起来，并更多地展示我实际上没有的 Web 开发水平，而不是我可以使用常见的 SCSS 或 Tailwind 或其他东西来实现如何平滑的过渡其他。嗯，设计精美的网页仍然很重要，您可以将其称为您自己的投资组合，但这仍然是一个很好的问题，例如“我不必保留在我的投资组合网页上的内容或我实际拥有的内容？”&lt; /p&gt; 另外，你们要做好准备，我经常对这一切感到偏执，我什至真的担心投资组合页面链接。甚至担心我不会受到由 Netlify 托管的作品集的尊重，因为 page.netlify.app 看起来......很奇怪？直接使用 page.com 更好吗？   由   提交 /u/SelectCount7059   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcrus0/any_tips_about_own_portfolio_website/</guid>
-      <pubDate>Tue, 12 Mar 2024 08:03:09 GMT</pubDate>
+      <title>什么可能导致 ios 用户的 cookie 行为与 android/pc/mac 用户不同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcycgs/what_could_cause_cookies_to_behave_differently/</link>
+      <description><![CDATA[抱歉，这个问题太具体了，但我的下一个应用程序遇到了 iOS 用户每次访问都必须登录的问题。除了 iOS 用户外，没有人遇到此问题，但在 safari 和 Chrome 上却出现了此问题。  我没有 iPhone，因此无法轻松对其进行故障排除，但我希望有人有类似的经历并可以提供一些线索。我的身份验证非常简单...只需在 cookie 中设置一个令牌并检查该令牌，有效期为 30 天。 只需这样做： return new Response(&#39;success&#39; , { status: 200, headers: { &#39;Set-Cookie&#39;: [`token=${res.token}; Expires=${date}; Path=/`, `id=$ {res.id}; Expires=${date}; Path=/`] }, }) ​ 再说一次，任何人都没有问题但iOS。非常感谢任何想法。   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcycgs/what_could_cause_cookies_to_behave_differently/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:18:19 GMT</pubDate>
     </item>
     <item>
-      <title>远程开发环境有多常见？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcrn8f/how_common_are_remote_dev_environments/</link>
-      <description><![CDATA[我最近参与了一个商业技术项目，该项目使用了非常奇怪的开发设置：  没有人运行该项目在开发过程中在本地进行。 对于每个 git 分支，项目的一个实例都会在容器中启动。  如果你想测试一些你用临时日志编写的前端代码，你必须拉取、提交和提交。先推送，然后等待容器重新启动（10-20 秒） 如果您想对后端代码执行相同的操作，您还需要 ssh 进入托管分支的容器并从日志文件中读取。  Idk，也许我缺乏经验，但这感觉很糟糕。我一直认为承诺和推动是一种深思熟虑的行为。相反，提交历史记录字面上看起来像“开始添加功能”、“日志”、“日志”、“调试”、“调试”等。多步骤过程+等待容器旋转是这不是我想象的商业技术项目的工作方式。 根据我所做的少量研究，这称为“远程开发”。这是常见的做法吗？或者我的公司是异常值吗？   由   提交 /u/Accomplished_Cup1513   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcrn8f/how_common_are_remote_dev_environments/</guid>
-      <pubDate>Tue, 12 Mar 2024 07:48:15 GMT</pubDate>
+      <title>墨西哥的 WebDev 机构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcya4x/webdev_agencies_in_mexico/</link>
+      <description><![CDATA[我目前工作的公司正在计划在墨西哥进行扩张，并且正在寻找一家位于墨西哥、拥有 CMS 开发专业知识的公司。  我将非常感谢任何建议   由   提交 /u/sdiama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcya4x/webdev_agencies_in_mexico/</guid>
+      <pubDate>Tue, 12 Mar 2024 14:15:22 GMT</pubDate>
     </item>
     <item>
-      <title>这有多糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcr9i3/how_bad_is_this/</link>
-      <description><![CDATA[       由   提交/u/iopneb   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcr9i3/how_bad_is_this/</guid>
-      <pubDate>Tue, 12 Mar 2024 07:21:14 GMT</pubDate>
+      <title>trend.builtwith.com 数据可靠还是我读错了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcxfnu/is_trendsbuiltwithcom_data_reliable_or_am_i/</link>
+      <description><![CDATA[      这里的任何人都使用 trends.builtwith.com 查看趋势？我知道这与代码无关，但我相信你们中的许多人可能想知道市场的趋势是什么，以便真诚地向您的客户建议可能是什么？如果这不是提问的论坛，我深表歉意，但我确实认为你们是网络开发的精英。  Q1。是否有其他方法可以查找使用各种不同平台构建的网站数量？ Q2。这个数据是正确的还是我读错了？前 1M 显示数字为 228,037，但图表显示 210,000 左右区域呈下降趋势 https://preview.redd.it/3e8dr70downc1.jpg?width=1432&amp;format=pjpg&amp;auto=webp&amp;s=13af48ae3fbbb1e24643b73fbb8bb 3480752426a 第三季度。 Wordpress 网站总数为 22.8%，但饼图显示为 30%，我认为这是一个显着差异。 https://preview.redd.it/yr4hmmwfownc1.jpg?width=1730&amp;format=pjpg&amp;auto=webp&amp;s=9f5ea590be28 599a144c5d84939bf444392916c1   由   提交/u/Excellent-Wear-169   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcxfnu/is_trendsbuiltwithcom_data_reliable_or_am_i/</guid>
+      <pubDate>Tue, 12 Mar 2024 13:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>React js - 如何创建动态导航栏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcqku0/react_js_how_do_i_create_a_dynamic_navbar/</link>
-      <description><![CDATA[我正在开发一个项目，我需要制作一个导航栏，该导航栏应该有一个动态按钮，当用户未登录时/它会显示登录，但登录时显示该人的个人资料图片和姓名，我不是前端开发人员，因此面临这个问题，另外，为网站选择此类组件的最佳资源是什么，我找不到确切的内容我正在寻找   由   提交 /u/RepairOptimal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcqku0/react_js_how_do_i_create_a_dynamic_navbar/</guid>
-      <pubDate>Tue, 12 Mar 2024 06:35:04 GMT</pubDate>
+      <title>提取并显示 Vimeo 视频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcx6kx/extracting_and_displaying_vimeo_videos/</link>
+      <description><![CDATA[大家好！我正在寻找有关从我的 Vimeo 帐户中提取三个最新视频的指导。我可以访问嵌入的链接，并希望将它们合并到我的网站项目中。如果我上传新视频时链接可以自动更新，那就太好了。任何帮助都是极好的！非常感谢！   由   提交 /u/PratikkkPaudel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcx6kx/extracting_and_displaying_vimeo_videos/</guid>
+      <pubDate>Tue, 12 Mar 2024 13:24:57 GMT</pubDate>
     </item>
     <item>
-      <title>包含多语言 + 商务的无头 CMS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcqiv9/headless_cms_with_multilanguage_commerce_included/</link>
-      <description><![CDATA[我在过去 5 个项目中一直使用 Directus，我喜欢它！但是以多语言能力使用它很困难，它涉及嵌套大量关系，在使用页面构建器时变得非常混乱，相关字段的验证目前也被破坏。 有人可以推荐吗一个能够很好地翻译内容（针对客户和开发人员）并且可以选择嵌入电子商务的无头 CMS 系统？ （作为一个很好的拥有）   由   提交 /u/miguste   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcqiv9/headless_cms_with_multilanguage_commerce_included/</guid>
-      <pubDate>Tue, 12 Mar 2024 06:31:28 GMT</pubDate>
+      <title>正在努力寻找好的服务器主机，欢迎任何帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcx0jc/struggling_on_finding_a_good_server_host_any_help/</link>
+      <description><![CDATA[您好！  我对网络开发比较陌生，最近我一直在为一家本地商店开发一个网站，一切都很顺利，但我正在努力寻找一个好的主机。 一切都很好在本地主机上，但我需要一个好的服务器来使其可供公众访问。我一直在研究 Amazon Web Services 和其他主要的 Web 服务器，但它们要么太复杂，要么太昂贵！  我在网络服务器方面并没有太多经验，因此任何基本上允许我们复制和粘贴网站文件和数据库并连接到域的主机都会对我有很大帮助！  或者，我可以单独托管该网站，并将数据库托管在其他地方。只要他们可以沟通并且连接是安全的，我就不能抱怨。  我的预算有点小，理想情况下我每月花费 5-10 bux，但欢迎任何帮助！我希望我足够具体，但如果有任何不清楚的地方，请询问下面我会尽快回答。  谢谢！   由   提交 /u/DogSerious   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcx0jc/struggling_on_finding_a_good_server_host_any_help/</guid>
+      <pubDate>Tue, 12 Mar 2024 13:16:51 GMT</pubDate>
     </item>
     <item>
-      <title>如何改进我的 CSS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcp98e/how_can_i_improve_my_css/</link>
-      <description><![CDATA[我一直在努力提高我的 CSS，现在我正在练习 (https://cssbattle.dev/）对于这些问题有什么好的教程吗？    由   提交/u/Zestyclose_Judge2075   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcp98e/how_can_i_improve_my_css/</guid>
-      <pubDate>Tue, 12 Mar 2024 05:11:41 GMT</pubDate>
+      <title>向模型添加属性或创建全新模型更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcwtch/better_adding_a_property_to_the_model_or_creating/</link>
+      <description><![CDATA[大家好，我是一名初学者 Web 开发人员，我正在构建我的第一个应用程序。 在此应用程序上的每个用户将有可能发帖，例如在 Twitter 或 Facebook 上。我正在对违反应用程序政策的帖子实施报告程序。 在 mongodb 上执行此操作时，我想到了两种方法： 1）添加“报告”布尔值帖子模型上的属性默认为 false。 2) 创建一个名为“reported”的新模型，其中属性是被举报的帖子、举报的用户、原因和帖子所有者。 p&gt; 第一个选项将占用更少的数据库空间，但第二个选项将在有数千个帖子的情况下更快地查找报告的帖子。 您认为最佳实践是什么?   由   提交/u/aquilaruspante1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcwtch/better_adding_a_property_to_the_model_or_creating/</guid>
+      <pubDate>Tue, 12 Mar 2024 13:07:12 GMT</pubDate>
     </item>
     <item>
-      <title>用户如何制作自己的样式表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcp3ki/how_do_users_make_their_own_stylesheets/</link>
-      <description><![CDATA[我目前正在努力理解级联层，显然用户可以制作自己的样式表来覆盖作者样式表。  怎么样？这只是用户在浏览器设置中选择选项还是还有更多内容？   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcp3ki/how_do_users_make_their_own_stylesheets/</guid>
-      <pubDate>Tue, 12 Mar 2024 05:02:25 GMT</pubDate>
+      <title>Firebase Analytics 或 LogRocket 到 Ionic 项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcwq8u/firebase_analytics_or_logrocket_to_ionic_project/</link>
+      <description><![CDATA[我需要实施任何措施来监控我的应用程序，并且我需要在 Firebase 或 LogRocket 之间做出决定。  您会推荐哪一个，为什么？  我使用 Ionic ​   由   提交 /u/lullg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcwq8u/firebase_analytics_or_logrocket_to_ionic_project/</guid>
+      <pubDate>Tue, 12 Mar 2024 13:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>请帮忙！！！！！！ Wix 项目页面问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcp2bc/please_help_wix_project_pages_question/</link>
-      <description><![CDATA[我在项目页面上遇到问题 我尝试添加一个部分，但该部分出现在所有项目页面上 我该如何放置它只出现在一个项目页面而不是所有项目页面？    由   提交 /u/Distinct-Feature785    reddit.com/r/webdev/comments/1bcp2bc/please_help_wix_project_pages_question/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcp2bc/please_help_wix_project_pages_question/</guid>
-      <pubDate>Tue, 12 Mar 2024 05:00:34 GMT</pubDate>
+      <title>如果我最终使用 WordPress，我应该继续学习 React 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcw8vy/should_i_keep_learning_react_if_ill_end_up_using/</link>
+      <description><![CDATA[我购买了 Scrimba（前端职业道路，涵盖 HTML CSS JavaScript 和 React，以及 API、UI 和响应式设计等更多内容）。我大约 60％，我决定通过网络开发来实现我的目标（首先去当地企业并提供便宜的网站以获得经验，然后在网上做广告）wordpress 是一个更好的选择，我发现它在这里不太受欢迎，所以这里是原因： 我计划制作大部分简单的网站，也许是电子商务或只是登陆页面，没有什么花哨的（根据我的理解）需要反应和 JS 的复杂性。在制作网站的时间、价格、简单性等方面，wordpress 似乎更加高效。对于不复杂的网站，它似乎确实做得更好。 现在，回答这个问题。如果我选择 WordPress 路径，是否有理由完成我的课程？我已经介绍了 HTML CSS JS，只剩下 React 和 UI 设计，但这两个似乎相当复杂，可能需要一些时间才能掌握，这阻碍了我启动 WordPress 所需的时间。我一开始的想法是完成反应，以防将来需要它，因为我已经购买了课程（大约 90 美元），但这有必要吗？我也很兴奋地开始使用 WordPress，花 2 个月多的时间在我不会使用的东西上有点无赖。 （我对此做了相当广泛的研究，但如果我错了，请纠正我）任何事情） 希望很清楚，任何建议将不胜感激   由   提交/u/ClientSad1987   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcw8vy/should_i_keep_learning_react_if_ill_end_up_using/</guid>
+      <pubDate>Tue, 12 Mar 2024 12:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>Vue 与 Svelte：哪个更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcoaf9/vue_vs_svelte_which_is_better/</link>
-      <description><![CDATA[我目前正在实现一个网站的前端，我正在寻求您关于在 Vue.js 和 Svelte 之间进行选择的见解。这两个框架都提供了出色的功能，我非常感谢您的专业知识帮助我决定哪一个最适合这个项目。    由   提交 /u/Impressive-joy   /u/Impressive-joy  reddit.com/r/webdev/comments/1bcoaf9/vue_vs_svelte_which_is_better/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcoaf9/vue_vs_svelte_which_is_better/</guid>
-      <pubDate>Tue, 12 Mar 2024 04:18:31 GMT</pubDate>
+      <title>为初级人员进行代码审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcw0dv/doing_code_reviews_for_juniors/</link>
+      <description><![CDATA[我喜欢学习和教学，我想知道是否有某种平台可以让我审查初级开发人员代码来教授他们并支持他们编程之旅。  一些信息，可能不相关： 我已经成为一名中等 Laravel 开发人员有一段时间了。这是一个只有 5 个人的小团队，其中一人不是程序员，更多的是产品负责人。  PS。请不要提及堆栈溢出。   由   提交 /u/zNextiiV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcw0dv/doing_code_reviews_for_juniors/</guid>
+      <pubDate>Tue, 12 Mar 2024 12:26:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
