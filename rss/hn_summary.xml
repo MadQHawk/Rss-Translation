@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 00:47:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 04:55:06 GMT</lastBuildDate>
     <item>
-      <title>Command-R 是一种突破性的生成模型，专为企业中的生产规模 AI [...]</title>
-      <link>https://t.me/hn_summary/78872</link>
-      <description><![CDATA[Command-R：生产规模的 RAG
-Command-R 是一种突破性的生成模型，专为企业环境中的生产规模人工智能而设计。它在检索增强生成 (RAG) 和工具使用等任务中表现出色，可提供极高的准确性、低延迟和高吞吐量。 Command-R 具有长达 128k 令牌的更长上下文长度和改进的定价，是 RAG 应用程序的游戏规则改变者。它支持 10 种主​​要语言，并与 Cohere 的 Embed 和 Rerank 模型无缝集成。 Command-R 还引入了工具使用，可以跨多个系统实现复杂任务的自动化。 Command-R 可在 Cohere 的 API 和主要云提供商上使用，它优先考虑隐私和数据安全，同时推动企业大规模采用人工智能。]]></description>
-      <guid>https://t.me/hn_summary/78872</guid>
-      <pubDate>Tue, 12 Mar 2024 00:47:19 GMT</pubDate>
+      <title>[媒体] Json. human.js 是一个工具，旨在提供 JSON 数据的人性化表示 [...]</title>
+      <link>https://t.me/hn_summary/78909</link>
+      <description><![CDATA[Json. human.js：人类的 JSON 格式
+Json. human.js 是一个工具，旨在提供 JSON 数据的人性化表示，使所有技术水平的个人都可以访问它。该工具由 Event Fabric 开发，旨在在简单性和信息保留之间取得平衡。通过输入 JSON 数据，用户可以生成具有清晰表示数据的 DOM 节点。该工具在 MIT 许可下可用，并提供了以用户友好的方式显示 JSON 数据的独特解决方案。尝试编辑 JSON 数据并单击“转换”以查看人类可读的输出。]]></description>
+      <guid>https://t.me/hn_summary/78909</guid>
+      <pubDate>Tue, 12 Mar 2024 04:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]詹姆斯·卡普兰 (James Kaplan) 的书《3 Shades of Blue》深入探讨了爵士乐的变革性影响 [...]</title>
-      <link>https://t.me/hn_summary/78871</link>
-      <description><![CDATA[迈尔斯·戴维斯如何聘请约翰·科尔特兰
-詹姆斯·卡普兰 (James Kaplan) 的书《3 Shades of Blue》深入探讨了爵士乐传奇人物迈尔斯·戴维斯 (Miles Davis)、约翰·科尔特兰 (John Coltrane) 和比尔·埃文斯 (Bill Evans) 的变革性影响。卡普兰以引人入胜的叙述方式揭示了迈尔斯·戴维斯在新泽西州瓦恩兰的一次偶然相遇后如何雇用约翰·科尔特兰。尽管科尔特兰与海洛因成瘾和自我怀疑作斗争，但他不可否认的才华和对迈尔斯曲目的了解为他在迈尔斯·戴维斯五重奏中赢得了一席之地。两位音乐家之间的活力，以迈尔斯的冷漠和科尔特兰对音乐和精神启蒙的追求为标志，为爵士乐世界的传奇合作奠定了基础。]]></description>
-      <guid>https://t.me/hn_summary/78871</guid>
-      <pubDate>Tue, 12 Mar 2024 00:42:14 GMT</pubDate>
+      <title>[媒体] 隆重推出 Trangram，一款结合了 Adob​​e Illustr 功能的免费动画制作器 [...]</title>
+      <link>https://t.me/hn_summary/78908</link>
+      <description><![CDATA[Show HN：我制作了一个免费动画师，想到了 Adob​​e Illustrator，但为了动画
+隆重推出 Trangram，这是一款免费动画制作器，它将 Adob​​e Illustrator 的功能与动画功能相结合。借助 Trangram，用户可以在一个平台上轻松创建、制作动画和共享动态图形。探索画廊以获取灵感，并立即开始您自己的项目。告别在多个程序之间切换，迎接无缝动画体验。请访问 www.trangram.com 查看 Trangram，并释放您的前所未有的创造力。]]></description>
+      <guid>https://t.me/hn_summary/78908</guid>
+      <pubDate>Tue, 12 Mar 2024 04:06:50 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】2022年，我协办首届DEV |作家 |在迈阿密度假，灵感来自于 [...]</title>
-      <link>https://t.me/hn_summary/78870</link>
-      <description><![CDATA[组织开发者写作静修会
-2022 年，我与他人共同组织了首届 DEV |作家 |受到写作借口社区的启发，在迈阿密静修。这次务虚会旨在为开发者提供一个专注于写作、建立社区和学习新技术的空间。形式包括讲座、研讨会和自由写作时间，最终以大规模出版活动达到高潮。营销至关重要，在赞助商和口碑的帮助下，活动取得了成功。吸取的教训包括场地选择、沟通和设定明确期望的重要性。与会者在创建博客和克服写作挑战方面取得了成功，使这次务虚会成为一次宝贵的经历。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78870</guid>
-      <pubDate>Tue, 12 Mar 2024 00:41:10 GMT</pubDate>
+      <title>[媒体]在本文中，我们提出了一种窃取部分生产语言模型的新颖方法。</title>
+      <link>https://t.me/hn_summary/78907</link>
+      <description><![CDATA[窃取部分生产语言模型
+在本文中，我们提出了一种窃取部分生产语言模型的新方法。通过利用模型的漏洞和弱点，我们能够在不被发现的情况下提取关键组件。我们的方法挑战了语言模型的安全性，并引起了人们对被盗信息可能被滥用的担忧。这种有争议的技术揭示了在语言模型的开发和部署中改进安全措施的必要性。我们能够轻松地提取这些信息，这突显了我们迫切需要提高保护敏感数据的警惕性。]]></description>
+      <guid>https://t.me/hn_summary/78907</guid>
+      <pubDate>Tue, 12 Mar 2024 04:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenAI 在一份法庭文件中对埃隆·马斯克的说法进行了回击，称其“语无伦次……”</title>
-      <link>https://t.me/hn_summary/78869</link>
-      <description><![CDATA[OpenAI 称埃隆·马斯克在法庭文件中的主张“不连贯”
-OpenAI 在一份法庭文件中对埃隆·马斯克的说法进行了回击，称这些说法“语无伦次”并且基于令人费解的事实前提。马斯克在二月份对该公司、首席执行官萨姆·奥尔特曼和总裁格雷格·布罗克曼提起诉讼，指责他们偏离了自己的使命，并受到最大投资者微软公司的影响。这份措辞强硬的文件标志着 OpenAI 对马斯克指控的首次法律回应，凸显了围绕该情况的争议。]]></description>
-      <guid>https://t.me/hn_summary/78869</guid>
-      <pubDate>Tue, 12 Mar 2024 00:27:00 GMT</pubDate>
+      <title>问 HN：美国是否应该对人工智能发展实施全面限制？</title>
+      <link>https://t.me/hn_summary/78906</link>
+      <description><![CDATA[问HN：美国是否应该对人工智能发展采取全面限制？&lt; /a&gt;
+政府委托的报告指出，人工智能的发展对人类构成了生存风险，并建议采取全面的限制措施，包括限制训练模型的计算能力，以及对权重开源进行监禁等惩罚。该报告建议，处于领先地位的人工智能公司应获得政府对新模型的许可，禁止发布权重，加强对人工智能芯片制造和出口的控制，并资助更安全的人工智能研究。这种有争议的方法引发了关于如何平衡人工智能的潜在好处和防止灾难性后果的监管需求的问题。这些限制会抑制创新还是保护我们免受人工智能的潜在危险？]]></description>
+      <guid>https://t.me/hn_summary/78906</guid>
+      <pubDate>Tue, 12 Mar 2024 03:47:38 GMT</pubDate>
     </item>
     <item>
-      <title>今天是 Y Combinator 的 19 岁生日，Y Combinator 是一家初创加速器，彻底改变了 [...]</title>
-      <link>https://t.me/hn_summary/78868</link>
-      <description><![CDATA[今天是 Y Combinator 19 岁生日
-今天是 Y Combinator 的 19 岁生日，Y Combinator 是一家初创企业加速器，彻底改变了初创企业的融资和支持方式。 Y Combinator 由 Paul Graham、Jessica Livingston、Robert Morris 和 Trevor Blackwell 于 2005 年创立，最初的资金只有 20 万美元，其愿景是为年轻、创新的创始人提供标准化种子资金。最初是针对本科生的暑期项目，很快发展成为针对硅谷初创企业的两年一度的融资周期。尽管最初受到质疑，但 Y Combinator 的成功巩固了其在初创企业界的强大声誉，证明即使是被视为“玩具”的想法也可以成为游戏规则的改变者。]]></description>
-      <guid>https://t.me/hn_summary/78868</guid>
-      <pubDate>Tue, 12 Mar 2024 00:20:56 GMT</pubDate>
+      <title>[媒体] 嵌入的余弦相似度真的是相似度吗？</title>
+      <link>https://t.me/hn_summary/78905</link>
+      <description><![CDATA[嵌入的余弦相似度真的与相似度有关吗？ 
+在本文中，我们深入研究了嵌入的余弦相似度的概念，并质疑它是否真正代表了向量之间的相似度。我们探讨了使用余弦相似度作为相似度度量的局限性和假设，强调了潜在的陷阱和误解。通过挑战有关余弦相似性的传统智慧，我们的目标是激发批判性思维并鼓励对基本原则的更深入理解。这种发人深省的分析揭示了向量嵌入的复杂性，并挑战了余弦相似度是相似性的直接度量的观念。]]></description>
+      <guid>https://t.me/hn_summary/78905</guid>
+      <pubDate>Tue, 12 Mar 2024 03:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>在 A.I.</title>
-      <link>https://t.me/hn_summary/78867</link>
-      <description><![CDATA[末日预言者
-Katja Grace，A.I. 首席研究员Impacts 住在西伯克利的一套独特的公寓里，里面摆满了前任居住者留下的未来派小玩意和书籍。她花时间思考人工智能是否可以。将毁灭世界，这个话题将湾区划分为人工智能。安全主义者和技术乐观主义者。格蕾丝为末日论者们举办晚宴，讨论时间线和人类灭绝的可能性。埃利泽·尤德科夫斯基（Eliezer Yudkowsky）是理性主义界的关键人物，他曾经相信人工智能的好处。直到他意识到其潜在的危险。关于人工智能的争论世界末日场景已引起主流关注，一些人全职工作以防止灾难发生。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78867</guid>
-      <pubDate>Tue, 12 Mar 2024 00:19:52 GMT</pubDate>
+      <title>在 Google 上探索洛杉矶黑帮地图（2024 年），深入了解各种犯罪活动 [...]</title>
+      <link>https://t.me/hn_summary/78904</link>
+      <description><![CDATA[洛杉矶黑帮地图 (2024)
+在 Google 上探索洛杉矶帮派地图（2024 年），深入了解该市的各个帮派地盘。该交互式地图详细概述了不同帮派的活动地点，让用户能够以独特的方式了解洛杉矶复杂的帮派格局。全屏打开地图以查看更多详细信息并更好地了解城市中的帮派存在。通过探索这张交互式地图，发现有关洛杉矶帮派活动的有争议和令人惊讶的信息。]]></description>
+      <guid>https://t.me/hn_summary/78904</guid>
+      <pubDate>Tue, 12 Mar 2024 03:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]辛普森悖论是一种统计现象，其中在不同组中看到的趋势[...]</title>
-      <link>https://t.me/hn_summary/78866</link>
-      <description><![CDATA[辛普森悖论
-辛普森悖论是一种统计现象，当各组数据合并时，单独数据组中看到的趋势会消失或逆转。这种悖论可能会导致对真正因果关系的误判，特别是在社会科学和医学科学中。 1951 年，Edward H. Simpson 首次描述了这一悖论，但 Karl Pearson 和 Udny Yule 早些时候也提到过类似的效应。例子包括加州大学伯克利分校招生中的性别偏见和肾结石治疗的成功率。这个悖论可以通过解决统计模型中的混杂变量和因果关系来解决。数学家乔丹·埃伦伯格认为，这个悖论教会我们同时考虑各个部分和整个数据集。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78866</guid>
-      <pubDate>Tue, 12 Mar 2024 00:18:47 GMT</pubDate>
+      <title>[媒体]Incognito 市场是一个暗网毒品集市，现在正在大规模勒索其供应商和商家 [...]</title>
+      <link>https://t.me/hn_summary/78903</link>
+      <description><![CDATA[隐身暗网市场大规模勒索买家、卖家&lt; br/&gt;
+暗网毒品集市 Incognito Market 现在正在大规模勒索其卖家和买家，威胁如果他们拒绝支付 100 至 20,000 美元的费用，就公开加密货币交易和聊天记录。据报道，管理员实施了“退出骗局”，导致用户无法提取数百万美元，之后采取了这一大胆举措。市场计划在5月底发布订单和交易ID转储。这种情况让人想起勒索软件的策略，根据供应商的级别支付不同的金额。正如前网络犯罪分子 Brett Johnson 所解释的那样，这一争议凸显了暗网市场所涉及的风险。]]></description>
+      <guid>https://t.me/hn_summary/78903</guid>
+      <pubDate>Tue, 12 Mar 2024 03:40:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我解决了现有的“为什么你应该写一个[...]</title>
-      <link>https://t.me/hn_summary/78865</link>
-      <description><![CDATA[为什么以及如何在互联网上写东西&lt; br /&gt;
-在本文中，我解决了现有“为什么应该写博客”文章中的常见缺点，并提供了开始撰写博客的积极理由。写作的一大好处是有可能结识更多真挚的友谊，因为写作可以结识新朋友，并与现有朋友引发有趣的对话。我还强调，大多数人低估了自己的写作对其他人的影响，并鼓励降低值得写作的门槛。我提供关于建立一致的写作习惯和产生写作想法的建议。最终，关键是写下最让你兴奋的事情，以产生一致的输出。 （根据故事文本的 44% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78865</guid>
-      <pubDate>Tue, 12 Mar 2024 00:17:43 GMT</pubDate>
+      <title>[媒体]Stratolaunch 制造的世界上最大的飞机大鹏 (Roc) 成功进行了真正的飞行 [...]</title>
+      <link>https://t.me/hn_summary/78902</link>
+      <description><![CDATA[起死回生，最大的飞机刚刚飞行了真正的有效载荷
+由 Stratolaunch 制造的世界上最大的飞机 Roc 首次成功进行了真正的有效载荷飞行。这架飞机在太平洋上空部署了小型航天飞机“Talon-A”。这次飞行没有达到预期的高超音速，但为未来的版本收集了有价值的数据。 Stratolaunch 由微软联合创始人 Paul Allen 于 2011 年创立，在开发飞机和寻找火箭合作伙伴方面面临着挑战。艾伦去世后，该公司在新的所有权下重获新生，并将重点转向发射高超音速飞行器。此次飞行还展示了Ursa Major Technologies公司的哈德利火箭发动机，这标志着美国航空航天业的一个重要里程碑。]]></description>
+      <guid>https://t.me/hn_summary/78902</guid>
+      <pubDate>Tue, 12 Mar 2024 03:38:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，卢卡斯·曼（Lucas Mann）作为一部非小说类作品反思了他与自我怀疑的斗争[...]</title>
-      <link>https://t.me/hn_summary/78864</link>
-      <description><![CDATA[要写一篇伟大的文章，要深入思考和关心（2015）&lt; /a&gt;
-在这篇文章中，卢卡斯·曼反思了他作为一名非小说类作家与自我怀疑的斗争，以及 J.R. 阿克利的《我的狗郁金香》如何帮助他找到灵感。阿克利对细节的专注和对他的德国牧羊犬郁金香的照顾，将平凡的事情变成了意义重大且引起情感共鸣的事情。曼恩讨论了阿克利如何使最微小的时刻变得引人注目的能力，这提醒人们，一篇伟大的文章最终是一种关怀的表现。通过阿克利的写作，曼了解到诚实、具体的力量，以及在生活看似平庸的方面寻找意义的重要性。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78864</guid>
-      <pubDate>Tue, 12 Mar 2024 00:14:38 GMT</pubDate>
+      <title>[媒体] 人类</title>
+      <link>https://t.me/hn_summary/78901</link>
+      <description><![CDATA[人类
+“Humanimals”是一个 Twitter 帐户，它探讨了半人半动物的混合生物这一令人着迷且有时颇具争议的概念。从美人鱼到半人马，这个帐户展示了令人惊叹的艺术作品和关于人类与动物王国交集的发人深省的讨论。这些创作背后的创造力和想象力确实是独一无二的，会让您质疑人类和动物之间的界限。立即加入 Twitter 上的对话并探索“人类”的世界！]]></description>
+      <guid>https://t.me/hn_summary/78901</guid>
+      <pubDate>Tue, 12 Mar 2024 03:37:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]避孕药中的活性成分乙炔雌二醇造成了两难的境地，因为它[...]</title>
-      <link>https://t.me/hn_summary/78863</link>
-      <description><![CDATA[节育造成的水污染引发困境（2012）
-避孕药中的活性成分乙炔雌二醇造成了两难的境地，因为它成为水道污染物，危害野生动物。从废水中去除这种强效污染物的困难已经导致了一个全球性问题，欧盟正在考虑制定法规。升级污水处理厂以遵守拟议限制的成本很高，引发了关于社会是否愿意为保护环境付费的争论。乙炔雌二醇对动物的影响很大，会导致鱼类和两栖动物出现雌雄同体的情况。药品对环境的污染问题仍不为公众所知。]]></description>
-      <guid>https://t.me/hn_summary/78863</guid>
-      <pubDate>Mon, 11 Mar 2024 23:54:29 GMT</pubDate>
+      <title>[媒体] Bitwarden 服务器项目是所有 Bitwarden 客户端应用程序的后端基础设施 [...]</title>
+      <link>https://t.me/hn_summary/78900</link>
+      <description><![CDATA[Bitwarden
+Bitwarden 服务器项目是所有 Bitwarden 客户端应用程序的后端基础设施，使用 .NET Core 和 ASP.NET 核心。它包括API、数据库和其他核心组件。它可以在 Windows、macOS 和 Linux 上跨平台开发、构建、运行和部署。该项目提供了详细的开发人员文档，包括使用 Docker 容器的设置指南和部署说明。 Bitwarden 正在积极寻找贡献者并提供各种工作机会。该项目欢迎代码贡献和安全审计。此外，它们还提供了用于自动格式化的 git 预提交挂钩。]]></description>
+      <guid>https://t.me/hn_summary/78900</guid>
+      <pubDate>Tue, 12 Mar 2024 03:36:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
