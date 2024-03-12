@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 06:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 09:16:52 GMT</lastBuildDate>
+    <item>
+      <title>前端悄然普遍的贬值</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcspc2/the_quiet_pervasive_devaluation_of_frontend/</link>
+      <description><![CDATA[       由   提交 /u/stefanjudis   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcspc2/the_quiet_pervasive_devaluation_of_frontend/</guid>
+      <pubDate>Tue, 12 Mar 2024 09:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站启动需要智慧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcsm4p/website_startup_wisdom_needed/</link>
+      <description><![CDATA[大家好，希望你们今天过得愉快。 就上下文而言，我是一名初级开发人员，也是我的朋友正在设计，问我是否可以为他的客户建立一个网站。所以我说当然，因为我想了解越来越多的东西，而且我之前已经为我父亲建立了一个较低级别的网站，因为它是一家非常小的建筑公司。我对 Angular、C#、typescript、javascript 以及 html 和 css（还有像 bootstrap 这样的库）有丰富的经验。  该网站需要是静态的，因此需要一个长页面和一个导航来转到页面上的某个部分。他给了我一个可以遵循的设计。他们已经拥有一个域名，其网站看起来不太好 我的问题： 有人对如何存储代码以使其安全有任何建议吗所以不是 github，还有关于托管。用户友好，价格是我所关注的，因为我需要给他报价。  我希望有人能提供一些很棒的提示和技巧！非常欣赏它   由   提交 /u/DigImmediate7291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcsm4p/website_startup_wisdom_needed/</guid>
+      <pubDate>Tue, 12 Mar 2024 08:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站+数字学习平台堆栈评估</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcsimq/stack_evaluation_for_website_digital_learning/</link>
+      <description><![CDATA[大家好 我正在开发一个中型项目，其中包括一个网站和一个学习项目平台。最初，它将提供教育文档供用户查看和下载，并计划扩展到交互式课程。 我正在考虑使用 SvelteKit 进行构建，被它的效率和优雅所吸引。对于托管，我在 Netlify 和 DigitalOcean 之间左右为难，Netlify 是我的经验，并且欣赏它的易用性，而 DigitalOcean 提供了托管数据库，这是一个我觉得很有吸引力的功能。但是，我担心对 Netlify 功能的潜在 DDoS 攻击，因为有效限制访问似乎具有挑战性。 至于 CMS，我正在研究 Strapi、Sanity、Directus 和 Decap，其中优先考虑定制功能，允许网站所有者创建自己的课程。我是否应该考虑为此目的创建自己的 CMS？ 考虑到我们预计有数百甚至数千个用户，扩展是另一个考虑因素。这让我想知道是否有必要集成一个强大的后端解决方案（例如 Supabase）来将所有这些元素无缝地结合在一起。 我很想了解您对一个可供其他人访问的技术堆栈的想法目标是在几个月内掌握它，并且足够强大以支持未来的功能和扩展需求。我是一个独角戏，我认为自己是一名中级开发人员。主要是前端。但我愿意学习并将自己提升到一个新的水平。 非常感谢您的投入：*   由   提交 /u/snarfi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcsimq/stack_evaluation_for_website_digital_learning/</guid>
+      <pubDate>Tue, 12 Mar 2024 08:49:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于测试/演示的设备模拟器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcs2lz/device_emulator_for_testingpresenting/</link>
+      <description><![CDATA[您好，我正在寻找在测试 Web 应用程序和页面时针对不同设备类型使用开发工具的替代方法。最好是可以让您看到正在使用的设备，而不仅仅是屏幕尺寸。 有人有他们使用的任何推荐/最爱吗？   由   提交 /u/pswizzlepollock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcs2lz/device_emulator_for_testingpresenting/</guid>
+      <pubDate>Tue, 12 Mar 2024 08:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Chakra UI 中将长文本换行到 <Text> 内？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcs06c/how_to_wrap_long_text_inside_text_in_chakra_ui/</link>
+      <description><![CDATA[      与标题相同，我希望文本在  内自动换行。标签。 {encryptedData &amp;&amp; ( &lt;&gt;  文本X 方向溢出。 https: //preview.redd.it/py5l3pcc3vnc1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=79bbfaf2a4fdc34c46d7c960f150165fce41a667    ;由   提交/u/Mutant101was_here  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcs06c/how_to_wrap_long_text_inside_text_in_chakra_ui/</guid>
+      <pubDate>Tue, 12 Mar 2024 08:13:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Flexsearch 将搜索添加到网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcrzl8/how_to_add_search_to_a_website_using_flexsearch/</link>
+      <description><![CDATA[   /u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcrzl8/how_to_add_search_to_a_website_using_flexsearch/</guid>
+      <pubDate>Tue, 12 Mar 2024 08:12:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于自己的投资组合网站有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcrus0/any_tips_about_own_portfolio_website/</link>
+      <description><![CDATA[我想创建自己的简历，但不知道这个“展示柜”如何显示可能看起来像。就像你想要做出色的设计、平滑过渡的那一刻，但你必须将其与简约的需求结合起来，并更多地展示我实际上没有的 Web 开发水平，而不是我可以使用常见的 SCSS 或 Tailwind 或其他东西来实现如何平滑的过渡其他。嗯，设计精美的网页仍然很重要，您可以将其称为您自己的投资组合，但这仍然是一个很好的问题，例如“我不必保留在我的投资组合网页上的内容或我实际拥有的内容？”&lt; /p&gt; 另外，你们要做好准备，我经常对这一切感到偏执，我什至真的担心投资组合页面链接。甚至担心我不会受到由 Netlify 托管的作品集的尊重，因为 page.netlify.app 看起来......很奇怪？直接使用 page.com 更好吗？   由   提交 /u/SelectCount7059   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcrus0/any_tips_about_own_portfolio_website/</guid>
+      <pubDate>Tue, 12 Mar 2024 08:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程开发环境有多常见？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcrn8f/how_common_are_remote_dev_environments/</link>
+      <description><![CDATA[我最近参与了一个商业技术项目，该项目使用了非常奇怪的开发设置：  没有人运行该项目在开发过程中在本地进行。 对于每个 git 分支，项目的一个实例都会在容器中启动。  如果你想测试一些你用临时日志编写的前端代码，你必须拉取、提交和提交。先推送，然后等待容器重新启动（10-20 秒） 如果您想对后端代码执行相同的操作，您还需要 ssh 进入托管分支的容器并从日志文件中读取。  Idk，也许我缺乏经验，但这感觉很糟糕。我一直认为承诺和推动是一种深思熟虑的行为。相反，提交历史记录字面上看起来像“开始添加功能”、“日志”、“日志”、“调试”、“调试”等。多步骤过程+等待容器旋转是这不是我想象的商业技术项目的工作方式。 根据我所做的少量研究，这称为“远程开发”。这是常见的做法吗？或者我的公司是异常值吗？   由   提交 /u/Accomplished_Cup1513   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcrn8f/how_common_are_remote_dev_environments/</guid>
+      <pubDate>Tue, 12 Mar 2024 07:48:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>这有多糟糕</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcr9i3/how_bad_is_this/</link>
+      <description><![CDATA[       由   提交/u/iopneb   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcr9i3/how_bad_is_this/</guid>
+      <pubDate>Tue, 12 Mar 2024 07:21:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>React js - 如何创建动态导航栏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcqku0/react_js_how_do_i_create_a_dynamic_navbar/</link>
+      <description><![CDATA[我正在开发一个项目，我需要制作一个导航栏，该导航栏应该有一个动态按钮，当用户未登录时/它会显示登录，但登录时显示该人的个人资料图片和姓名，我不是前端开发人员，因此面临这个问题，另外，为网站选择此类组件的最佳资源是什么，我找不到确切的内容我正在寻找   由   提交 /u/RepairOptimal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcqku0/react_js_how_do_i_create_a_dynamic_navbar/</guid>
+      <pubDate>Tue, 12 Mar 2024 06:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>包含多语言 + 商务的无头 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcqiv9/headless_cms_with_multilanguage_commerce_included/</link>
+      <description><![CDATA[我在过去 5 个项目中一直使用 Directus，我喜欢它！但是以多语言能力使用它很困难，它涉及嵌套大量关系，在使用页面构建器时变得非常混乱，相关字段的验证目前也被破坏。 有人可以推荐吗一个能够很好地翻译内容（针对客户和开发人员）并且可以选择嵌入电子商务的无头 CMS 系统？ （作为一个很好的拥有）   由   提交 /u/miguste   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcqiv9/headless_cms_with_multilanguage_commerce_included/</guid>
+      <pubDate>Tue, 12 Mar 2024 06:31:28 GMT</pubDate>
+    </item>
     <item>
       <title>如何改进我的 CSS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bcp98e/how_can_i_improve_my_css/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我目前正在实现一个网站的前端，我正在寻求您关于在 Vue.js 和 Svelte 之间进行选择的见解。这两个框架都提供了出色的功能，我非常感谢您的专业知识帮助我决定哪一个最适合这个项目。    由   提交 /u/Impressive-joy   /u/Impressive-joy  reddit.com/r/webdev/comments/1bcoaf9/vue_vs_svelte_which_is_better/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bcoaf9/vue_vs_svelte_which_is_better/</guid>
       <pubDate>Tue, 12 Mar 2024 04:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>从客户端向服务器发送视频帧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bco37i/sending_video_frames_from_client_to_server/</link>
-      <description><![CDATA[我正在构建一个应用程序来转录视频通话中的人类手势。我的想法是将本地视频流发送到我的后端服务器，该服务器将发送成绩单作为回报。我正在考虑使用 websocket 发送图像，但遇到缓慢且高延迟的问题。另外使用 webrtc 似乎很困难，因为我不希望数据转发到任何客户端，而是仅在服务器端使用它。有没有什么好的例子可以说明我如何做到这一点，或者可以使用帧速率为 15 的 websocket。    由   提交/u/croxfo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bco37i/sending_video_frames_from_client_to_server/</guid>
-      <pubDate>Tue, 12 Mar 2024 04:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 freenginx.org</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcn31j/announcing_freenginxorg/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcn31j/announcing_freenginxorg/</guid>
-      <pubDate>Tue, 12 Mar 2024 03:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 PERN 应用程序的联系页面发送电子邮件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcl4gi/how_to_send_email_from_pern_apps_contact_page/</link>
-      <description><![CDATA[我参加了一个教授 PERN 堆栈的训练营，现在正在将我的个人资料页面放在一起（哇！）。 对于联系页面，我制作了一个表格供用户联系我，我希望这些消息发送到我的电子邮件。是否有 NPM 库或任何我可以用来做到这一点的东西？我找到了nodemailer，但希望不需要通过gmail 来执行此操作。   由   提交/u/sad_throaway13579   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcl4gi/how_to_send_email_from_pern_apps_contact_page/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>电容器社区/条纹 vs @revenuecat/购买电容器 vs glassfy</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bckv6k/capacitorcommunitystripe_vs/</link>
-      <description><![CDATA[我目前在使用这 3 种之一之间陷入困境，我已经使用 Ionic、Angular、Capacitor 大约 4 年了，但我从未实现过付款苹果/安卓。我严格来说只需要 3 个订阅。然而我不知道哪一个是最好的选择。如果必须的话，我个人不想接触任何后端（C#）。更愿意使用 API。   由   提交 /u/CEOTRAMMELL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bckv6k/capacitorcommunitystripe_vs/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>对所有项目使用相同的域/DNS/电子邮件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bckfjq/use_the_same_domaindnsemail_for_all_projects/</link>
-      <description><![CDATA[我喜欢与我的副项目和其他内容的域设置保持一致。使用此方法的过去 3-5 年中，任何这些服务均出现零问题。 域名注册商：Namecheap DNS 提供商：Route53 网站：主要是 Carrd 和 Cloudflare 页面。 电子邮件 - 事务：Mailgun。 电子邮件 - 个人：使用 namecheap 的 catch-all，这样我可以接收但不能发送。 &lt; p&gt;我想最大的好处是我不再把大脑周期花在这上面，而是专注于我正在尝试进行的实验:)我想，试图摆脱自己的方式......&lt; /p&gt; 你们都有一个反复使用的标准设置？ 另外，您会更改什么？  &amp; #32；由   提交 /u/barbacoa_to_goa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bckfjq/use_the_same_domaindnsemail_for_all_projects/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>WSL2 使用 Stripe API + 推送到 git 时速度很慢。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bckbl5/wsl2_is_slow_working_with_stripe_api_pushing_to/</link>
-      <description><![CDATA[嘿。我最近从 Mac 切换到 Windows，并且一直在使用 WSL2 - Ubuntu。除了我在标题中提到的以外，一切都很完美。我经常使用 Stripe API，对于像 stripe.createSubscription 这样的简单方法，可能需要大约 6 秒的时间。它可能看起来不是很多，但是对于如此简单的事情，当我必须不断地测试东西时，我不希望这种延迟。 此外，当推送到分支时，它可以在 1GB 连接上大约需要 10 秒。以前在 Mac 上，所有这些小事情都是即时的。 我没有挂载 Windows 文件夹。我的所有工作都直接在 Ubuntu 系统中进行。 这里还有其他人使用 WSL2 吗？如果是的话，你有没有经历过和我一样的事情？有解决办法吗？   由   提交/u/artFlix  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bckbl5/wsl2_is_slow_working_with_stripe_api_pushing_to/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>怎样做一个这样的网站呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bciyhq/how_to_do_a_website_like_this/</link>
-      <description><![CDATA[       由   提交/u/evessbby  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bciyhq/how_to_do_a_website_like_this/</guid>
-      <pubDate>Tue, 12 Mar 2024 00:08:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要职业建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</link>
-      <description><![CDATA[我已经在另一个 Reddit 子版块上发布了同样的内容，希望得到回复，但主要希望它是正确的，因此我感到内疚，因此被指控。 也许你们可以指导我找到正确的人？ 但我真的非常渴望成为一名前端开发人员。我今年 19 岁，从 15 岁起就开始编写代码。我制作了自己的社交媒体网站，由于我的笔记本电脑坏了，该网站从未上线，我为不同的事情编写了各种程序。我目前正在编写一个程序来查找“每个人都知道”的内容。或“ekt”  就我的技能和知识而言，我从未真正获得过这个领域的资格。这只是我通过傻瓜书和 w3school 页面自学的东西；也是我继父教的。 我必须有一定的资格才能进入这个领域吗？进入这个领域有多难？我进入这个领域的第一步是什么？ 请记住，我有简历和求职信，所以我已经成功了一半（笑）。 我只是想在这里问一下这里的其他开发人员？如果没有，请引导我到其他 Reddit 子版块🤦🏼‍♂️🤦🏼‍♂️🤦🏼‍♂️   由   提交/u/Constant_Ad7811   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否值得搞乱 Shopify 的 url 结构？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcijro/is_it_worth_messing_with_the_url_structure_of/</link>
-      <description><![CDATA[这可能是/r/seo&lt;的问题/a&gt; 但我正在做我的第一个 Shopify 项目，这有点让我生气，因为你几乎无法控制 URL 结构。 就像我们必须将 /blogs/news 作为博客一样在我看来，这是愚蠢的。我们没有多个博客，博客后面的 /news 是多余且不准确的。这不是什么新闻，而且我们只有一个博客。 我们还必须在网址中包含 /collections/ 和 /products/。这让我很烦恼。 除了花几分钟修改它之外，我没有做太多编码，但我听说有些开发人员根据自己的喜好调整了 url 结构，而且我我想知道是否值得努力尝试。如果有可能的话。   由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcijro/is_it_worth_messing_with_the_url_structure_of/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费托管 Google Firebase？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcidun/free_hosting_with_google_firebase/</link>
-      <description><![CDATA[我刚刚发现这个，是不是好得令人难以置信？ 我只需要一些基本的东西，只需一页使用我的域的静态 HTML/CSS 站点。  Firebase 能做到这一点还是我误解了？   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcidun/free_hosting_with_google_firebase/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何以及在何处存储 Spotify API 访问令牌？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bchhzm/how_and_where_to_store_spotify_api_access_token/</link>
-      <description><![CDATA[我正在制作一个使用 Spotify Web API 的网站，该网站为您提供所有 API 请求所需的访问令牌。我的问题是如何存储这个令牌？我将其存储在服务器上还是客户端上？那么在哪里呢？感谢任何帮助。   由   提交/u/jagtrordumenar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bchhzm/how_and_where_to_store_spotify_api_access_token/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:08:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

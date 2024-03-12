@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 06:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 09:16:58 GMT</lastBuildDate>
     <item>
       <title>有没有 FOSS 高尔夫游戏？ （不包括迷你高尔夫游戏）</title>
       <link>https://www.reddit.com/r/opensource/comments/1bcpolg/is_there_any_foss_golf_game_not_including/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[我们非常高兴地宣布 🔥 Wave Terminal v0.7.0 🔥 这是一个主要版本，具有所有 -新的更干净的 UI、新的连接后端、可选的自动更新、Linux 软件包、轻型模式以及许多较小的功能、修复和错误修复。自 v0.6 以来，已合并了 100 多个拉取请求。我们已经为可自定义主题、字体自定义和自定义键绑定做好了基础工作，这些都将很快在 v0.7.x 系列中发布。 一如既往，我们感谢所有反馈和建议。请让我们知道您的想法，或者在 GitHub 上提交错误/增强功能。如果您是 Linux 用户，我们现在有 AppImage、Pacman、.rpm 和 .deb 软件包。所有内容均可在我们的下载页面或我们的 WaveTerm Github 发布页面上获取。 完整发行说明&lt; /strong&gt;: https://docs.waveterm.dev/releasenotes   由   提交/u/dirtygonzo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bcjz63/wave_terminal_v070_released_ui_refresh_autoupdate/</guid>
       <pubDate>Tue, 12 Mar 2024 00:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>精心策划的 694 个自托管软件工具列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bchpkp/a_curated_a_list_of_694_selfhosted_software_tools/</link>
-      <description><![CDATA[       由   提交 /u/johnrushx    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bchpkp/a_curated_a_list_of_694_selfhosted_software_tools/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:16:57 GMT</pubDate>
     </item>
     <item>
       <title>人工智能工作组会议摘要：2024 年 3 月 16 日</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[标题说明了一切。你们中有人有使用开源媒体流媒体播放自己的音乐文件的经验吗？ 我已经不再使用流媒体服务，我将开始存储我的 CD 收藏。您建议使用哪种具有适用于 IOS 和 Android 的可靠 UI 的自托管流媒体？ 我唯一的其他要求是它正在积极开发 Android 和 ios 客户端。 任何建议是欢迎。   由   提交/u/financial_pete  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bbonzj/serving_my_own_music_streamer/</guid>
       <pubDate>Sun, 10 Mar 2024 23:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全控制您的 Discord Rich Presence</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bbebqd/take_full_control_of_your_discord_rich_presence/</link>
+      <description><![CDATA[编写了一个简单的 python 脚本，允许您使用 Discord 允许我们使用的所有配置功能来完全控制您的 Discord Rich Presence。您可以在终端内运行脚本，也可以直接使用最新版本中包含的编译后的可执行文件运行它。祝您玩得开心！ https://github.com/ThatSINEWAVE/Discord-Rich-Presence   由   提交 /u/MonsterDavidOFFICIAL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bbebqd/take_full_control_of_your_discord_rich_presence/</guid>
+      <pubDate>Sun, 10 Mar 2024 16:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
