@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 11 Mar 2024 21:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:52:05 GMT</lastBuildDate>
+    <item>
+      <title>怎样做一个这样的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bciyhq/how_to_do_a_website_like_this/</link>
+      <description><![CDATA[       由   提交/u/evessbby  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bciyhq/how_to_do_a_website_like_this/</guid>
+      <pubDate>Tue, 12 Mar 2024 00:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要职业建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</link>
+      <description><![CDATA[我已经在另一个 Reddit 子版块上发布了同样的内容，希望得到回复，但主要希望它是正确的，因此我感到内疚，因此被指控。 也许你们可以指导我找到正确的人？ 但我真的非常渴望成为一名前端开发人员。我今年 19 岁，从 15 岁起就开始编写代码。我制作了自己的社交媒体网站，由于我的笔记本电脑坏了，该网站从未上线，我为不同的事情编写了各种程序。我目前正在编写一个程序来查找“每个人都知道”的内容。或“ekt”  就我的技能和知识而言，我从未真正获得过这个领域的资格。这只是我通过傻瓜书和 w3school 页面自学的东西；也是我继父教的。 我必须有一定的资格才能进入这个领域吗？进入这个领域有多难？我进入这个领域的第一步是什么？ 请记住，我有简历和求职信，所以我已经成功了一半（笑）。 我只是想在这里问一下这里的其他开发人员？如果没有，请引导我到其他 Reddit 子版块🤦🏼‍♂️🤦🏼‍♂️🤦🏼‍♂️   由   提交 /u/Constant_Ad7811   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</guid>
+      <pubDate>Mon, 11 Mar 2024 23:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否值得搞乱 Shopify 的 url 结构？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcijro/is_it_worth_messing_with_the_url_structure_of/</link>
+      <description><![CDATA[这可能是/r/seo&lt;的问题/a&gt; 但我正在做我的第一个 Shopify 项目，这有点让我生气，因为你几乎无法控制 URL 结构。 就像我们必须将 /blogs/news 作为博客一样在我看来，这是愚蠢的。我们没有多个博客，博客后面的 /news 是多余且不准确的。这不是什么新闻，而且我们只有一个博客。 我们还必须在网址中包含 /collections/ 和 /products/。这让我很烦恼。 除了花几分钟修改它之外，我没有做太多编码，但我听说有些开发人员根据自己的喜好调整了 url 结构，而且我我想知道是否值得努力尝试。如果有可能的话。   由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcijro/is_it_worth_messing_with_the_url_structure_of/</guid>
+      <pubDate>Mon, 11 Mar 2024 23:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费托管 Google Firebase？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcidun/free_hosting_with_google_firebase/</link>
+      <description><![CDATA[我刚刚发现这个，是不是好得令人难以置信？ 我只需要一些基本的东西，只需一页使用我的域的静态 HTML/CSS 站点。  Firebase 能做到这一点还是我误解了？   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcidun/free_hosting_with_google_firebase/</guid>
+      <pubDate>Mon, 11 Mar 2024 23:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一页上放置 2 个滚动条是创新还是烦人？我似乎做不好。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bchop1/putting_2_scroll_bars_on_1_page_is_innovative_or/</link>
+      <description><![CDATA[      大家好， 我一直在致力于这个项目，nexa4ai.com，本质上是一个发现人工智能工具的中心，由交互式聊天机器人提供支持。我的目标是尽可能无缝地找到合适的人工智能工具，但我想通过 UI 来挑战一下极限。 UI 所以，我尝试了一些不同的东西：我将聊天机器人放在屏幕左侧，搜索结果在右侧，有自己的滚动条。这是一个改善用户体验并使搜索体验更具互动性的实验，而不是聊天机器人。 但问题是：有时，当您滚动搜索结果时，整个搜索结果都会显示出来。网页也开始滚动，使得交互感觉有点不对劲。这种意想不到的效果让我质疑我的设计选择。 我真的很好奇你的想法：  你遇到过类似的双滚动设计吗？ ？您的体验如何？ 您认为在一个页面上有两个滚动条通常是一个坏主意，或者如果执行得当，它会被视为创新吗？ 最重要的是，当用户只是尝试滚动搜索结果时，如何防止网页滚动？  在 nexa4ai.com！感谢 Reddit。 ​   由   提交 /u/AlanzhuLy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bchop1/putting_2_scroll_bars_on_1_page_is_innovative_or/</guid>
+      <pubDate>Mon, 11 Mar 2024 23:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以及在何处存储 Spotify API 访问令牌？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bchhzm/how_and_where_to_store_spotify_api_access_token/</link>
+      <description><![CDATA[我正在创建一个使用 Spotify Web API 的网站，该网站为您提供所有 API 请求所需的访问令牌。我的问题是如何存储这个令牌？我将其存储在服务器上还是客户端上？那么在哪里呢？感谢任何帮助。   由   提交/u/jagtrordumenar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bchhzm/how_and_where_to_store_spotify_api_access_token/</guid>
+      <pubDate>Mon, 11 Mar 2024 23:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何向非技术人员解释必要的代码清理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcgy8a/how_do_you_explain_to_nontechs_about_necessary/</link>
+      <description><![CDATA[我继承了为一家相当大的公司（每年销售额 B+ 美元）管理业务逻辑站点的职责。该网站很复杂，对于他们的操作工作流程非常重要，并且是我认为我曾经工作过的最残暴的网站。零 OOP 实践。我认为甚至没有任何类不是第三方库。每个页面大多只是一个长脚本。 HTML 融入了逻辑。到处都是虫子。代码经常重复。移动网站看起来就像他们实际上只是复制了整个网站，并使副本适合移动设备，因此我现在必须进行两次更改。安全漏洞无处不在。这样的例子还在继续。我在浏览该网站时不断地哈哈大笑。 我应该注意，我每月需要 X 小时的固定时间来维护该网站，而不是全职员工。我是在几个月前加入的，但是他们除了进行一些小的调整之外并没有进行太多的调整，所以我实际上不必过多地深入研究代码。最近，他们要求进行一些更大的更改，在我做这些更改的同时，我也一直在重写我正在处理的部分。基本上，我建立了一个框架，并且每当我必须对其进行细微调整时，就会将逻辑转移到适当的 OOP 结构中。 我上个月的工作时间明显高于他们的预期（方式由于我重构了如此多的代码，因此超过了我的聘用率）（并且高于我分配的任务应有的水平）。他们对此有一些疑问，但最终没有太大惊小怪地接受了我的解释。我试图向他们灌输代码的状态，以及达到我认为“可维护”的水平所需的工作。 ——他们很乐意，但希望我确定项目范围来做到这一点。我向其汇报的公司里的人与勒德分子非常接近，所以我不确定他们是否明白这一点。 所以，这让我想到了我的问题，而我并不完全确定如何进行。我想做的第一个项目是废弃“移动网站”，并使桌面网站具有响应能力。我已经知道这将是一个兔子洞，我最终想要重建大量的前端框架（前端是旧版本的 Angular，它不像后端那么糟糕，但是我可以告诉我有很多部分需要完全重做），所以即使是半准确的估计也肯定会很困难。我不想把这一切作为一项艰巨的任务来完成，我宁愿逐步完成，一次完成几页，但他们似乎不明白。我是一名拥有 20 多年经验的高级开发人员，我习惯于在代码清理方面有更多的自主权，尤其是对于根本不懂代码的客户。我想我的理想情况是说服他们每个月给我更多的时间来重构/清理代码，但我不太确定如何说服他们。 任何想法/建议?   由   提交 /u/Red_Icnivad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcgy8a/how_do_you_explain_to_nontechs_about_necessary/</guid>
+      <pubDate>Mon, 11 Mar 2024 22:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>错误处理问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcffnf/error_handling_question/</link>
+      <description><![CDATA[嘿，第一次在这里发帖是因为我在工作中对此进行了辩论，我想你可能会说这是一个意见问题，但很好奇其他人的想法，我不想影响答案，所以我会尽力给出各方面最好的观点以及一些缺点。我们网站上有一个部分显示了几种不同的广告类型的内容，这些内容并不真正相关，但我们希望用户在轮播中执行不同的操作。 UI 调用一个 api 来检索这些要显示的项目。出现了整个轮播加载失败的问题，因为轮播中的第 2 项需要来自供应商的一些数据，而供应商未能响应，因此 api 给出了 500 错误消息，指示无法从供应商检索数据。我们围绕这个 api 的设计进行了讨论，并提出了几个想法： 1) api 应该给出 200 ok 并且不返回 item 2，这消除了对 item 之外的最终用户的任何影响2 失踪。这似乎与 200 表示请求成功的想法相矛盾，并且似乎意味着我们需要分别捕获第 1、2、3 等项的任何异常，以便一个项目永远不会影响另一个项目，即使异常是意外的并且无法处理。 2) API 应给出 200 ok，但返回项目 2，其状态表明发生了错误。这再次减少了对 UI、成功项目显示的影响，现在有一个视觉指示器表明出现了问题，因此我们更有可能注意到供应商失败，但同样 200 表示成功，我们必须捕获甚至意外的错误我们可能还需要 UI 上的逻辑来说明如果缺少预期属性该怎么办。 3) 不做任何更改，发生了意外错误，因此服务正确地给出 500（也许 502 表示供应商 api 出现问题），如果我们走这条路线，则不需要额外的开发。缺点是轮播中的其他项目本来可以显示，但会被抑制。 想知道其他开发人员对这些项目有何看法，或者关于如何设计的任何其他想法。    由   提交/u/anon8914  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcffnf/error_handling_question/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理我的应用程序中新功能所需的初始数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcfam4/how_to_deal_with_initial_data_needed_for_a_new/</link>
+      <description><![CDATA[我有一个应用程序已经顺利运行了一段时间，我很快就会部署一个实现新功能的新更新。为了使该功能正常运行，需要一些初始数据已存在于数据库中。 我以前有过这样的功能，但所需的数据量非常小，我可以手动将其添加到数据库中。在不到一分钟的时间内部署新版本后的数据库。 但这一次有所不同：使用我通常的方法，数据量并不小。作为解决方法，我将新功能隐藏在功能标志后面，以便给自己必要的时间来手动将数据添加到数据库中。 所以，我想知道，什么是更“正确”的？实现这个的方法？我让应用程序在我的开发环境中运行，并考虑使用开发应用程序添加数据，然后从那里导出表并从生产应用程序导入它们。但我不知道这有多安全。 作为参考，我的应用程序是一个 dockerized Django。初始数据分布在 2 或 3 个表中，大约有 150 行。   由   提交 /u/fromtunis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcfam4/how_to_deal_with_initial_data_needed_for_a_new/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fx JSON 查看器现在支持 YAML</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcewum/fx_json_viewer_now_supports_yaml/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/Elfet  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcewum/fx_json_viewer_now_supports_yaml/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>这有多糟糕</title>
       <link>https://www.reddit.com/r/webdev/comments/1bce7sf/how_bad_is_this/</link>
@@ -29,86 +99,16 @@
     <item>
       <title>大公司是否使用公共登录页面作为管理面板/页面？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bcd3aq/does_big_company_use_public_login_page_for_admin/</link>
-      <description><![CDATA[当我看到Crunchyroll的CMS登录页面后，我问自己一个问题，大公司如何保护管理页面？还有，你平时都做什么？  对于那些好奇的人，我正在谈论的页面是 此    由   提交/u/DragoSpiro98  [链接] [评论]]]></description>
+      <description><![CDATA[当我看到Crunchyroll的CMS登录页面后，我问自己一个问题，大公司如何保护管理页面？还有，你平时做什么？  对于那些好奇的人，我正在谈论的页面是 此    由   提交/u/DragoSpiro98  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bcd3aq/does_big_company_use_public_login_page_for_admin/</guid>
       <pubDate>Mon, 11 Mar 2024 20:16:34 GMT</pubDate>
     </item>
     <item>
       <title>仅具有前端的网站技术堆栈（但有大量 JS 代码）</title>
       <link>https://www.reddit.com/r/webdev/comments/1bccz0p/tech_stack_for_website_with_frontend_only_but/</link>
-      <description><![CDATA[我正在启动一个项目，该项目将包含一个包含大量客户端 Javascript 代码的 Web 应用程序（图形可视化库、画布绘制和操作） ，并且很少或没有服务器端代码。 我不是前端开发人员，我希望该项目比index.html、style.css和一些（长）js更加结构化通过 ]]></description>
+      <description><![CDATA[我正在启动一个项目，该项目将包含一个包含大量客户端 Javascript 代码（图形可视化库、画布绘制和操作）的 Web 应用程序，并且很少或没有服务器端代码。 我不是前端开发人员，我希望该项目比index.html、style.css和一些（长）js更加结构化通过 ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bccz0p/tech_stack_for_website_with_frontend_only_but/</guid>
       <pubDate>Mon, 11 Mar 2024 20:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>合并/覆盖 Tailwind 类的简单技巧...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcctyi/simple_trick_to_mergeoverride_tailwind_classes/</link>
-      <description><![CDATA[当使用 Tailwind 构建 React 组件时，通常你可能会像这样开始...... const Comp = ( ）=&gt; (  Kitten  );  ...但随后意识到您希望能够在渲染组件时覆盖 p-20 类。 您可以不要只是将其添加到末尾，因为这不是 CSS 选择器特异性的工作原理。 有一些工具，例如  tailwind-merge 可以解决这个问题，但是从性能/效率的角度来看，处理字符串仍然不理想。 但是有一个超级简单、无库的解决方案： 只需将您的 Tailwind/实用程序类名称指定为对象（{p: 20} 而不是 “p-20”），并使您的组件接受其他样式要覆盖的对象： const Comp: React.FC&lt;{classes?:Record; }&gt; = ({ 类 }) =&gt; (  Kitten  );导出 const useObjToClass = (对象: Record&lt;字符串, 未知&gt;) =&gt;; { return useMemo(() =&gt; { let className = &#39;&#39;; for (const key in object) { className += `${key}${object?.[key] ? `-${object?.[key ]}` : &#39;&#39;} `; } return className?.trim(); }, [object]); };  通过扩展对象属性，您将自动覆盖/合并 Tailwind 类。 然后您需要一个函数（或 useObjToClass 在这种情况下是 React hook）将对象转换为 className 字符串。 所以你现在可以做...   ...覆盖默认填充。 你觉得怎么样？  &amp;# 32；由   提交 /u/kittenchief   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcctyi/simple_trick_to_mergeoverride_tailwind_classes/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助验证我的 B2B SaaS/MVP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcbqs3/need_help_validating_my_b2b_saasmvp/</link>
-      <description><![CDATA[我一直在为 b2b Saas 构建 MVP，这应该可以帮助前端团队在 REST API 发生重大更改时立即收到警报。这是现代 Web 开发中的一个真正问题，因为后端所做的更改通常没有得到很好的沟通，并且这些更改过早地进入生产版本，从而导致前端无法足够快地适应。我的 SaaS 通过监视 REST API 并拍摄快照并比较它们以发现重大更改和细微更改来解决此问题。变化将不再被忽视。 同时，我在 MVP 的开发中已经很远了，我想进一步验证这个想法并找到障碍和批评意见。我最近在 Linkedin 上进行了一项调查，发现 66% 的人遇到了这个问题。 但是，也出现了一些障碍，例如：我依赖 Swagger，所以只有基于 openapi 规范构建的 API正在工作（这很好，因为我的目标是一个利基市场） 安全性仍然很难实现，因为目前 swagger.json 必须在网络上公开访问，但通常情况并非如此，因为它隐藏在专用网络后面。 你的想法是什么？您（公司）愿意为此类服务支付多少钱？   由   提交 /u/haasilein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcbqs3/need_help_validating_my_b2b_saasmvp/</guid>
-      <pubDate>Mon, 11 Mar 2024 19:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这不是平常的废话</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcb6xi/its_not_the_usual_blah_blah/</link>
-      <description><![CDATA[        由   提交/u/dan55907  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcb6xi/its_not_the_usual_blah_blah/</guid>
-      <pubDate>Mon, 11 Mar 2024 19:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些帮助来为具有数十种不同服务/表单的 ASP.NET Core 站点创建结构。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcaryw/need_some_help_with_creating_a_structure_for_an/</link>
-      <description><![CDATA[我正在为我公司的一个组织开发一个网站。该组织下有许多组织。该站点有一个目录，其中包含来自任何子组织的服务。这些服务通常用于以您填写的表格的形式请求支持。提交后，信息将发送至 ADO。大约有 100 项服务，因此大约有 100 个表格。目前，我们使用的是 ASP.NET，表单只是一个 .ascx 文件。标题、联系人、发件人等信息是使用 ID 从数据库中检索的，该 ID 与每个服务/表单相关。这意味着每个服务的表单在必须填写的字段方面看起来都是相同的。但子组织想要一些更可定制的东西，比如添加自己的字段、下拉菜单、单选框等。是否建议继续在数据库中实现这种级别的定制，或者使用新的方法，比如创建新的 Razor 视图/每个服务/表单的页面，并尽可能尝试使用部分视图？ （我应该提到这个新的自定义，我们正在转向 ASP.NET Core，因此提到了 Razor）。 （从 Gemini 复制和粘贴，如果听起来很愚蠢，那么抱歉。）&lt; /p&gt;   由   提交 /u/zerquet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcaryw/need_some_help_with_creating_a_structure_for_an/</guid>
-      <pubDate>Mon, 11 Mar 2024 18:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 浏览器内部 - 第 3 部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcakf6/inside_chrome_browser_part_3/</link>
-      <description><![CDATA[这个博客真的很棒。它显示了当浏览器必须呈现包含 HTML、CSS 和 JavaScript 的页面时，浏览器内部会发生什么。  它显示了渲染器进程如何处理选项卡内的所有内容，因此当渲染器进程开始从浏览器进程的 UI 线程获取文本字符串 (HTML) 时，它开始将这些字符串转换为文档对象模态 (DOM)。  它还展示了如何优化此过程，预加载扫描器同时运行，并将获取外部资源（如任何图像或样式）的请求发送到浏览器进程中的网络线程。  该博客还展示了如何使用“rel=preload”等资源提示来尽快优先加载一些资源。  该博客展示了主线程如何解析 CSS 并确定 DOM 中每个节点的样式。然而，了解文档结构和样式不足以呈现页面。因此，主线程遍历每个节点的 DOM 和计算机样式并创建一个布局树。  布局树包含 xy 坐标和边界框大小等信息。该博客还表示，它仅包含页面上可见的信息，因此如果“display: none”如果应用了该元素，则该元素不是树的一部分，而是“可见性：隐藏”元素的一部分。位于布局树中。布局树还包含一个伪类，如“p::before{content: &#39;Hi&#39;}”，它不是 DOM 的一部分。  但是，如果您不知道绘制页面元素的顺序，那么了解结构、样式和位置还不足以绘制页面。  所以，现在主线程遍历布局树并创建诸如“首先是背景，然后是文本，然后是矩形”的绘制记录。该顺序受到不同“z-索引”的影响。不同元素的值。  博客还展示了更新此渲染管道的成本如何，就像您在布局树中进行更改一样，您将必须为文档的受影响部分再次创建绘制记录。它还显示了浏览器如何在动画的每一帧之间运行所有这些操作，并且浏览器每秒显示 60 帧。  最后，博客展示了主线程如何遍历布局树来创建图层树，传递有关图层树的信息，并将记录绘制到合成器线程。  然后，合成器线程遍历图层树，将其划分为图块，并将每个图块发送到光栅线程。光栅线程对每个图块进行光栅化并将其存储在 GPU 内存中。并且，一旦所有图块都被光栅化，合成器线程就获取每个图块的信息(称为“绘制四边形”)并创建合成器帧。  最后，合成器帧通过 IPC 提交给浏览器进程，并发送到 GPU 以将其显示在屏幕上。合成的最大好处是它是在不涉及主线程的情况下完成的。  这是一本很好的书。它是由 Mariko Kosaka 编写的。  https://developer.chrome.com/blog/inside-browser -part3   由   提交 /u/hsnice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcakf6/inside_chrome_browser_part_3/</guid>
-      <pubDate>Mon, 11 Mar 2024 18:38:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求聊天应用程序项目的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc9836/seeking_help_for_a_chat_application_project/</link>
-      <description><![CDATA[大家好，我目前正在使用 Node.js、Express.js、MongoDB 和 Socket.IO 开发在线匿名聊天应用程序。这个概念很简单：注册用户可以创建聊天室并接收唯一的密钥以与其他人共享以加入，而非注册用户可以使用共享密钥加入而无需注册。  我正在寻求有关该项目几个方面的建议和指导： 使用正确的 MVC 架构设置 Node.js 和 Express.js。集成 MongoDB 以高效管理用户数据和聊天室会话。使用 Socket.IO 实现实时通信，实现无缝聊天体验。鉴于其匿名性质，确保应用程序的安全性。 如果您有类似项目的经验或对这些领域的见解，我将非常感谢您的意见。此外，有关构建实时聊天应用程序的教程、最佳实践或资源的建议将非常宝贵。提前感谢您的帮助和建议！  &amp; #32；由   提交/u/No-ash_03  /u/No-ash_03  reddit.com/r/webdev/comments/1bc9836/seeking_help_for_a_chat_application_project/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc9836/seeking_help_for_a_chat_application_project/</guid>
-      <pubDate>Mon, 11 Mar 2024 17:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 自动登录 - 它是如何工作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc8ecw/linkedin_auto_login_how_does_it_work/</link>
-      <description><![CDATA[LinkedIn 是我在全新机器上访问过的唯一网站，一旦我登陆，它就会自动使用 Google 登录这一页。我还没有遇到过其他网站可以执行此操作，它总是询问我是否要先使用 Google 登录。 我正在使用 Google Chrome 并使用我的 Google 帐户登录，所以我不确定这是否是其原因。当我使用其他浏览器时，它不提供自动登录功能。 有人知道 LinkedIn 如何做到这一点吗？为什么我们没有在更多网站上更频繁地看到这种情况？我不介意，因为它会让事情变得更快。尝试考虑这样做的缺点。   由   提交/u/avidrunner84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc8ecw/linkedin_auto_login_how_does_it_work/</guid>
-      <pubDate>Mon, 11 Mar 2024 17:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speedometer 3.0：迄今为止衡量浏览器性能的最佳方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc7s5k/speedometer_30_the_best_way_yet_to_measure/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc7s5k/speedometer_30_the_best_way_yet_to_measure/</guid>
-      <pubDate>Mon, 11 Mar 2024 16:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>不小心将文章内容放入index.html文件中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc7eif/accidently_put_article_content_in_indexhtml_file/</link>
-      <description><![CDATA[当我制作网站时，我不知道自己在做什么，并且将 index.html 文件的内容制作为普通的博客文章，而不是登陆页面。这样的情况已经好几年了。有什么办法可以解决这个问题，还是我必须去另一个网站？   由   提交​​/u/oceanunderground  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc7eif/accidently_put_article_content_in_indexhtml_file/</guid>
-      <pubDate>Mon, 11 Mar 2024 16:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Speedometer 3 提高 Firefox 和整个网络的性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bc701o/improving_performance_in_firefox_and_across_the/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bc701o/improving_performance_in_firefox_and_across_the/</guid>
-      <pubDate>Mon, 11 Mar 2024 16:15:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
