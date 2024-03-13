@@ -4,7 +4,43 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 13 Mar 2024 18:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 21:14:22 GMT</lastBuildDate>
+    <item>
+      <title>反馈 > 收入</title>
+      <link>https://feed.indiehackers.world/post/ee7c672d8b</link>
+      <description><![CDATA[&lt;小时/&gt;
+如果您喜欢这篇文章，请考虑订阅我的时事通讯。
+我每周发送一次电子邮件，而且邮件很短（阅读 1 分钟）。
+主题是“本周我在创业中最突出的学习点”。 👇
+https://birdsend.page/forms/9255/Mw7NC0sReJ
+您也可以在 X 上与我保持联系：https://twitter.com/therealjayber
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ee7c672d8b</guid>
+      <pubDate>Wed, 13 Mar 2024 20:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第 33 个构建公开更新视频 🎥</title>
+      <link>https://feed.indiehackers.world/post/8f493a21ef</link>
+      <description><![CDATA[我通过运行多个 SaaS 进行的第 33 次公共更新构建。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8f493a21ef</guid>
+      <pubDate>Wed, 13 Mar 2024 20:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立网站的新方法？</title>
+      <link>https://feed.indiehackers.world/post/1e7ee40876</link>
+      <description><![CDATA[你觉得怎么样？ Themex 对您也有意义吗？我非常感谢您的反馈。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1e7ee40876</guid>
+      <pubDate>Wed, 13 Mar 2024 20:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>100 法则概念模板</title>
+      <link>https://feed.indiehackers.world/post/7fb266717f</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7fb266717f</guid>
+      <pubDate>Wed, 13 Mar 2024 20:16:34 GMT</pubDate>
+    </item>
     <item>
       <title>通过短视频内容拓展您的品牌</title>
       <link>https://feed.indiehackers.world/post/3a3117a920</link>
@@ -143,54 +179,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/cae3c878f0</guid>
       <pubDate>Wed, 13 Mar 2024 11:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我们的推荐</title>
-      <link>https://feed.indiehackers.world/post/a6ec3a2b54</link>
-      <description><![CDATA[您最近查看过我们的推荐页面吗？我们很想听听您的想法！无论您使用过我们的产品还是只是浏览过我们的网站，您的意见对我们都很重要。
-https://app.feedspace.io/w/tTK2sdmLWb
-请在下面发表评论，表达您对我们客户评价的看法。他们有帮助你做出决定吗？他们信息丰富且值得信赖吗？或者您有改进建议吗？
-您的反馈将帮助我们增强客户体验并继续为我们的社区提供宝贵的见解。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a6ec3a2b54</guid>
-      <pubDate>Wed, 13 Mar 2024 11:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Show IH：Sprint——针对创始人的友好销售竞赛</title>
-      <link>https://feed.indiehackers.world/post/a575d804cc</link>
-      <description><![CDATA[我们都知道作为创始人专注于销售和营销是多么困难。
-为了打破这个循环，我推出了 Sprint——这是一项为创始人每周增加销售额的友好竞赛。
-很想了解您对这个想法和产品的想法！
-https://trysprint.com
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a575d804cc</guid>
-      <pubDate>Wed, 13 Mar 2024 10:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>您愿意为更好的数据库进度报告付费吗？</title>
-      <link>https://feed.indiehackers.world/post/b9620237e6</link>
-      <description><![CDATA[大家好，
-我最近在工作中构建基于 PostgreSQL 的项目，虽然我喜欢这个数据库，但我觉得与报告长期运行操作的进度相关的开发人员体验可以得到改善（集群、复制、创建索引、真空）。 
-例如，我必须运行创建索引，如果我能在完成后获得文本，那就太好了。 
-查看距离 (%) 以及当前正在运行的操作列表也很好。
-我正在考虑构建具有这些功能的服务。我希望它体积小、价格实惠，同时能很好地完成工作。但问题是：
-作为开发者，您会为这样的服务付费吗？
- 我想一包通知的费用约为 3 美元（即用即付）或每月订阅费用为 5 美元
-感谢大家的评论
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b9620237e6</guid>
-      <pubDate>Wed, 13 Mar 2024 10:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sprint——针对创始人的友好销售竞赛</title>
-      <link>https://feed.indiehackers.world/post/bab73b702c</link>
-      <description><![CDATA[我们都知道作为创始人专注于销售和营销是多么困难。我们大多数人宁愿安静地继续打磨我们的产品！
-为了打破这个循环，我推出了 Sprint。对于创始人来说，这是一场友好的竞争，每周都会增加销售额。
-如果您有兴趣尝试一下，我很乐意了解您对这个想法和产品的想法！
-https://trysprint.com
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/bab73b702c</guid>
-      <pubDate>Wed, 13 Mar 2024 10:21:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
