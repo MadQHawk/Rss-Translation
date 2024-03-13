@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 13 Mar 2024 15:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 18:15:11 GMT</lastBuildDate>
+    <item>
+      <title>Martin Fowler 谈持续集成</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdyfh0/martin_fowler_on_continuous_integration/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdyfh0/martin_fowler_on_continuous_integration/</guid>
+      <pubDate>Wed, 13 Mar 2024 18:13:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 代理使用 TDD 构建可立即运行的 Web 服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdy5so/gpt_agents_build_a_readytorun_web_server_using_tdd/</link>
+      <description><![CDATA[ 由   提交 /u/AndreyKypaku   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdy5so/gpt_agents_build_a_readytorun_web_server_using_tdd/</guid>
+      <pubDate>Wed, 13 Mar 2024 18:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>攻击者可以使用...ChatGPT 访问私有 GitHub 存储库！</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdy2gu/attackers_could_access_private_github/</link>
+      <description><![CDATA[ 由   提交/u/iva3210  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdy2gu/attackers_could_access_private_github/</guid>
+      <pubDate>Wed, 13 Mar 2024 17:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们觉得我现在的游戏状态怎么样？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdxzea/what_do_you_guys_think_about_the_current_state_of/</link>
+      <description><![CDATA[ 由   提交/u/_Hunter_420_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdxzea/what_do_you_guys_think_about_the_current_state_of/</guid>
+      <pubDate>Wed, 13 Mar 2024 17:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 PyCharm 中的 Uvicorn Python 文件中使用调试模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdxx7d/using_debug_mode_in_uvicorn_python_files_in/</link>
+      <description><![CDATA[ 由   提交/u/pandiyancool  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdxx7d/using_debug_mode_in_uvicorn_python_files_in/</guid>
+      <pubDate>Wed, 13 Mar 2024 17:53:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>40 年编程经验</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdwj7d/40_years_of_programming/</link>
+      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdwj7d/40_years_of_programming/</guid>
+      <pubDate>Wed, 13 Mar 2024 16:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>工具和自动化悄悄让你疯狂</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdwdjx/quietly_going_insane_with_tools_automation/</link>
+      <description><![CDATA[ 由   提交/u/vancity-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdwdjx/quietly_going_insane_with_tools_automation/</guid>
+      <pubDate>Wed, 13 Mar 2024 16:52:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 JavaScript 检测大写锁定</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdvhx6/detect_caps_lock_with_javascript/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdvhx6/detect_caps_lock_with_javascript/</guid>
+      <pubDate>Wed, 13 Mar 2024 16:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TypeScript 进行错误处理和防御性编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1bdvfiz/error_handling_and_defensive_programming_with/</link>
+      <description><![CDATA[ 由   提交/u/Clarity_89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bdvfiz/error_handling_and_defensive_programming_with/</guid>
+      <pubDate>Wed, 13 Mar 2024 16:15:18 GMT</pubDate>
+    </item>
     <item>
       <title>上下文密度定律：更大的屏幕空间自然会出现更大的上下文</title>
       <link>https://www.reddit.com/r/programming/comments/1bdtlf4/the_law_of_context_density_a_larger_context/</link>
@@ -18,20 +81,6 @@
       <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bdthec/the_journey_of_a_lone_female_software_developer/</guid>
       <pubDate>Wed, 13 Mar 2024 14:55:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以在不使用任何脚本语言的情况下操作 DOM？</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdt7kb/is_it_possible_to_manipulate_dom_without_any/</link>
-      <description><![CDATA[ 由   提交/u/KissMyAxe-7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdt7kb/is_it_possible_to_manipulate_dom_without_any/</guid>
-      <pubDate>Wed, 13 Mar 2024 14:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的一些项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdspfa/some_of_my_projects/</link>
-      <description><![CDATA[ 由   提交/u/Straight_Tone_8059   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdspfa/some_of_my_projects/</guid>
-      <pubDate>Wed, 13 Mar 2024 14:22:59 GMT</pubDate>
     </item>
     <item>
       <title>BeagleV-Fire 上的 Verilog 基础知识和 FPGA 闪存</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/TechTalksWeekly  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bdriij/all_java_conference_talks_from_2023_ordered_by/</guid>
       <pubDate>Wed, 13 Mar 2024 13:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们开发了一种人工智能工具，可以根据未来 48 小时内的各种因素预测获胜者。目前，它覆盖两个市场——1X2 和 BTTS——并为主要联盟预测比赛。我们渴望听到您对此的想法！没有烦人的广告，100%透明，而且免费！</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdrhyq/weve_developed_an_ai_tool_that_can_predict/</link>
-      <description><![CDATA[ 由   提交 /u/Neblica   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdrhyq/weve_developed_an_ai_tool_that_can_predict/</guid>
-      <pubDate>Wed, 13 Mar 2024 13:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP/2 和 HTTP/3 解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdqhoq/http2_and_http3_explained/</link>
-      <description><![CDATA[ 由   提交/u/macrohard_certified  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdqhoq/http2_and_http3_explained/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>📐 使用 HTML 和 CSS 学习 3D 立方体动画效果 |网页开发教程🖥️</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdqhlj/learn_3d_cube_animation_effects_with_html_and_css/</link>
-      <description><![CDATA[ 由   提交/u/robson_muniz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdqhlj/learn_3d_cube_animation_effects_with_html_and_css/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pokémon GO：世界排名第一的 AR 游戏的架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdq68j/pokémon_go_architecture_of_the_1_ar_game_in_the/</link>
-      <description><![CDATA[ 由   提交 /u/DryAccordion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdq68j/pokémon_go_architecture_of_the_1_ar_game_in_the/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有人可以教我如何托管使用 ASP Net 8 MVC 开发的 Web 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdpwlt/need_someone_who_can_teach_me_how_to_host_a_web/</link>
-      <description><![CDATA[您好！我需要有人可以帮助我托管我的网站。是一个非常简单的 Web 应用程序，使用人数少于 50 人。该应用程序还使用关系数据库。谢谢！！   由   提交/u/Gonchyrobinson02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdpwlt/need_someone_who_can_teach_me_how_to_host_a_web/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>DevOps 中的监控和可观察性 [3 个最佳示例]</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdprxw/monitoring_and_observability_in_devops_3_best/</link>
-      <description><![CDATA[ 由   提交/u/AzilenTech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdprxw/monitoring_and_observability_in_devops_3_best/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>OstFS 🧀：支持零成本快照和克隆的玩具文件系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdpikq/ostfs_toy_filesystem_with_support_for_zerocost/</link>
-      <description><![CDATA[ 由   提交/u/Patryk27  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdpikq/ostfs_toy_filesystem_with_support_for_zerocost/</guid>
-      <pubDate>Wed, 13 Mar 2024 11:49:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
