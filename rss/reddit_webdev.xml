@@ -4,13 +4,48 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 00:53:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 03:15:01 GMT</lastBuildDate>
+    <item>
+      <title>我如何接管域名和托管的管理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdg9qz/how_do_i_take_over_managing_domain_and_hosting/</link>
+      <description><![CDATA[我有一位拥有小型企业的客户。多年来，他一直在花钱请人维护他的网站。他希望我接管并重建它，他希望我保留域名并让我为他托管/维护该网站。 这里获取域名的常见做法是什么切换了？我的猜测是，我只是让旧维护者向我发送现有文件，并在我向他们提供我的信息后，他们请求通过他们的注册进行域名转移？ 只是想确保我没有忽略某些内容。还有什么我需要注意的吗？   由   提交 /u/jambaintoyou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdg9qz/how_do_i_take_over_managing_domain_and_hosting/</guid>
+      <pubDate>Wed, 13 Mar 2024 02:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于快速创建“美丽”网络应用程序的框架/工具，用于快速 AI 演示，具有流文本响应和图像上传等功能。您有什么推荐？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdesnc/frameworkstools_for_creating_a_beautiful_webapp/</link>
+      <description><![CDATA[我研究了 Framer 和 Webflow，用于创建漂亮基于模板的网站快速，但是这些工具不允许构建稍微复杂的 Web 应用程序来支持图像上传、对 OpenAI 进行 API 调用进行处理以及支持流响应等。 我的目标： - 非常快速的原型设计 - 美丽大胆的视觉效果（不像 Gradio 或 Streamlit :( ) - 拖放以实现快速迭代（不是必需的，而是一个优点） - 支持对 OpenAI / Huggingface 等的流式文本响应。 编辑：感谢您建议 Anvil - - 看着它。    提交者    /u/sidgup   [链接]  [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdesnc/frameworkstools_for_creating_a_beautiful_webapp/</guid>
+      <pubDate>Wed, 13 Mar 2024 01:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新定位地址栏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdep1s/reposition_address_bar/</link>
+      <description><![CDATA[收到一份简报，要求将地址栏重新定位到页面底部，仅用于移动视图。这个想法是复制类似应用程序的浏览器设计。  这方面的资源似乎有限，但据我了解，不可能以这种方式操纵地址栏或完全自定义/重新定位它。如果有人对此有任何资源或建议，我将不胜感激。看来是我的知识空白。   由   提交/u/latte_yen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdep1s/reposition_address_bar/</guid>
+      <pubDate>Wed, 13 Mar 2024 01:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>排程网站设计P2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdemot/scheduling_website_design_p2/</link>
+      <description><![CDATA[我希望通过为本地企业（例如理发店）制作具有功能调度的网站并收取统一费率来开始一些主动和被动收入收入以及需要时的服务器托管和维护/编辑的每周/每月费用。 （我住在乡村小镇，附近有几个乡村小镇和小型老式企业，没有网站）。我想知道是否有人可以用简单的术语解释我应该如何进行域名的网络托管。 （从我到目前为止的研究来看，我认为我应该购买与网络主机分开的域名，并且也开始研究 Vultr、plesk 和 digital ocean，但我对简单的设置/业务需要什么感到有点困惑，例如这将是低成本）。在这种情况下，在 word press 上构建网站是好还是坏主意    由   提交 /u/Banndle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdemot/scheduling_website_design_p2/</guid>
+      <pubDate>Wed, 13 Mar 2024 01:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>托管 React 项目的最佳地点？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bdda0k/best_place_to_host_a_react_project/</link>
       <description><![CDATA[我正在为我的第一个自由客户制作一个非常简单的单页 React 应用程序。超级简单又小。大家对 React 应用程序的最佳托管平台有何看法？我正在考虑 Hostinger，但不确定它是否理想。同样，这是一个简单的单页应用程序，但也想确保我也有用于未来开发的工具。谢谢！   由   提交/u/Spartan098  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bdda0k/best_place_to_host_a_react_project/</guid>
       <pubDate>Wed, 13 Mar 2024 00:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>拦截并重新发送来自 Firefox 开发者工具 -> 网络的 POST 请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdcjm2/intercept_and_resend_post_request_from_firefox/</link>
+      <description><![CDATA[你好。 我几乎是所有这一切的新手，所以我感谢任何支持我的人，如果我不这样做，我很抱歉不知道我要求的具体条款！ 有一个 HTML 表单，我像普通用户一样在 Firefox 上提交该表单。 在 FF 的“网络”选项卡上拦截该请求开发工具。返回结果 200 OK，我得到了我需要的响应。都好。现在，我右键单击此请求，然后编辑它以重新发送。我只需要更改请求的正文，就可以毫无问题地执行此操作，重新发送请求并再次获得 200 OK 和我需要的响应。 现在，我需要能够执行此操作自动地。假设我已经有一些需要更改的正文文本，但会自动执行此操作，并在每次更改正文时发送一个新请求。 我还可以通过将其复制为 fetch 并通过它发送来成功发送请求控制台选项卡。也是成功的。因此，也许我可以在将其发送到控制台之前编辑此获取代码，以便它执行我需要的自动排序请求？  希望这足够清楚，并提前感谢任何愿意回复的人。   由   提交/u/yoo420blazeit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdcjm2/intercept_and_resend_post_request_from_firefox/</guid>
+      <pubDate>Tue, 12 Mar 2024 23:45:39 GMT</pubDate>
     </item>
     <item>
       <title>无法让 SVG 在 JS + HTML 中工作 - 它们是不可见的！ 🙃</title>
@@ -29,14 +64,14 @@
     <item>
       <title>作为开发者，您或您的朋友是否使用社交网络？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bdbtm9/do_you_or_your_friends_use_social_networks_given/</link>
-      <description><![CDATA[可能是一个有点沉重的问题，但我想作为开发人员讨论一些问题，因为我们有一个一流的座位来了解我们的技术在幕后是如何工作的。  多年来，我对社交网络越来越感到苦涩。眼前的景色与以前相比有了很大的不同。其他人是否也有同样的感觉——使用社交网络时感到一阵不安？  我不是那种顽固地反对技术的人，或者想在社交网络本身上变得激进的仇恨，但当谈到我目前的经历时，我忍不住想要更多。老实说，在数据责任、缺乏控制、不真实的体验等方面，我觉得使用社交网络并不安全。  在你作为开发者的职业生涯中，你是否应对或改变过你的行为或与社交网络的关系？您（像我一样）是否停止使用网络，或者有任何朋友刚刚停止使用网络，或者您的朋友组中的人因此而难以联系？  这个问题在我心里已经有一段时间了，希望能与社区进行讨论   由   提交 /u/Outrageous-Chip-3961   [链接] [评论]]]></description>
+      <description><![CDATA[可能是一个有点沉重的问题，但我想作为开发人员讨论一些问题，因为我们有一个一流的座位来了解我们的技术在幕后是如何工作的。  多年来，我对社交网络越来越感到苦涩。眼前的景色与以前相比有了很大的不同。其他人是否也有同样的感觉——使用社交网络时感到一阵不安？  我不是那种顽固地反对技术的人，或者想在社交网络本身上变得激进的仇恨，但当谈到我目前的经历时，我忍不住想要更多。老实说，在数据责任、缺乏控制、不真实的体验等方面，我觉得使用社交网络并不安全。  在你作为开发者的职业生涯中，你是否应对或改变过你的行为或与社交网络的关系？您（像我一样）是否停止使用网络，或者有任何朋友刚刚停止使用网络，或者您的朋友组中的人因此而难以联系？  这个问题在我心里已经有一段时间了，希望能与社区讨论   由   提交 /u/Outrageous-Chip-3961   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bdbtm9/do_you_or_your_friends_use_social_networks_given/</guid>
       <pubDate>Tue, 12 Mar 2024 23:15:16 GMT</pubDate>
     </item>
     <item>
       <title>自学10年——如何弥补基础知识差距？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bdbnml/selftaught_for_10_years_how_can_i_bridge_my/</link>
-      <description><![CDATA[我已经编码很多年了。所有这些都是通过互联网这一广泛的资源网络学习的。尽管我有经验，但我的基础知识仍然有些缺乏。 每当我与朋友或同事交谈时，我都会想起这种知识差距。最近，我真的陷入了冒名顶替综合症。 尽管我在我的代码中应用了很多原则。大多数时候，我什至不知道它们是一个原则，而只是我一路上学到的东西。我是在需要知道的基础上学习的。 有人可以分享建议或推荐资源，以提供更快速的途径来掌握基础知识吗？ 是否值得回到学校学习从头开始？  我确信这个问题已经被问过一千次了。我在这里问的部分原因是我需要一些额外的动力，而这些动力是我在过去十年中没有欺骗过的。   由   提交/u/liamb-  [链接] [评论]]]></description>
+      <description><![CDATA[我已经编码很多年了。所有这些都是通过互联网这一广泛的资源网络学习的。尽管我有经验，但我的基础知识仍然有些缺乏。 每当我与朋友或同事交谈时，我都会想起这种知识差距。最近，我真的陷入了冒名顶替综合症。 尽管我在我的代码中应用了很多原则。大多数时候，我什至不知道它们是一个原则，而只是我一路上学到的东西。我是在需要知道的基础上学习的。 有人可以分享建议或推荐资源，以提供更快的途径来掌握基础知识吗？ 是否值得回到学校学习从头开始？  我确信这个问题已经被问过一千次了。我在这里问的部分原因是我需要一些额外的动力，而这些动力是我在过去十年中没有欺骗过的。   由   提交/u/liamb-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bdbnml/selftaught_for_10_years_how_can_i_bridge_my/</guid>
       <pubDate>Tue, 12 Mar 2024 23:08:31 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我正在为朋友建立一个网站，想将其用作学习的副项目。这是一个艺术家作品集网站，非常基础。  我使用 Astro 构建了它，并使用自定义域将其部署到 CloudFront。现在，我想稍微扩大范围并添加功能，让他们将图像上传到网站，然后自动上传到 Instagram、Etsy 等。 所以此时我意识到我只是构建我自己的 CMS。但在设计项目时，我真的不想使用 CMS，因此我可以自己构建一个自定义网站。现在我不太确定该怎么做哈哈，我已经花了时间构建和部署这个网站。有没有一种方法可以将其移植到 CMS，同时仍然自己编写所有代码（免费，我现在只需支付 0.4 英镑用于 AWS 托管）？或者是否值得继续我要走的路线？   由   提交 /u/AegonThe241st   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bd9xuk/am_i_just_building_my_own_cms_at_this_point/</guid>
       <pubDate>Tue, 12 Mar 2024 21:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以使用一些建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bd9usc/could_use_some_suggestions/</link>
-      <description><![CDATA[我有 4 个域 2 个托管在 wix 上 1 个托管在 Google/SS 上&lt; /p&gt; 1 托管在 godaddy/afternic 上  我只需要开发其中一个域名，其余的域名喜欢以便宜的价格停放，但可以选择在同一平台上出售它们。不管怎样，我希望所有 4 个都在同一个注册商/主机上。拥有像 afternic 这样的投资组合观点将是一个优势。  我目前正在考虑名称 namecheap、porkbun、cloudflare 或 godaddy/afternic，或者更好的建议。  任何建议或意见欢迎欢迎，谢谢。    由   提交/u/wombatnoodles  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bd9usc/could_use_some_suggestions/</guid>
-      <pubDate>Tue, 12 Mar 2024 21:55:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有过从 Express 端点使用 Supabase 注销用户的经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bd9s61/has_anyone_had_experience_with_signing_out_a_user/</link>
-      <description><![CDATA[我使用 Node 和 Express 作为 API 端点的后端，并使用 Vite 作为前端。到目前为止，我已经能够将信息从前端发送到后端以进行登录和注册用户。但是，我在注销方面遇到了困难。 Supabase 不允许您准确指定要注销的哪个用户。他们只有一个通用的 auth.signOut() 函数。那么，我的后端如何知道哪个用户从我的前端注销？ 我正在本地存储中设置返回的用户会话，以便稍后与受保护的路由一起使用。我想知道是否有任何方法可以将本地存储变量中的内容传递给 supabase 的注销函数以注销该特定用户。这是到目前为止我的代码： // 从本地存储获取用户 const user = getStorage(); const token = user?.session.access_token; try { // 发送到 api 操作 log out const url = &quot;http://localhost:4000/api/users/logout&quot;; const request = wait fetch(url, { method: &quot;POST&quot;, mode: &quot;cors&quot;, headers: { &quot;Content-Type&quot;: &quot;application/json&quot;, 授权: `Bearer ${token}`, }, }); const 响应 = 等待 request.json(); if (response.status !== 200) { 抛出新错误(response.message); } // 从本地存储中删除用户removeStorage(); // 重定向到登录 navigator(&quot;/sign-in&quot;); } catch (错误) { console.log(错误); }  后端： // 从应用程序中注销用户 const logOutUser = async (req, res) =&gt;; { // 从 header 中获取 token const token = wait req.headers.authorization.split(&quot; &quot;)[1];尝试{ const { error } =等待supabase.auth.signOut(token);如果（错误）{ 抛出错误；返回 res.status(200); } catch (错误) { res.status(400).send(错误); } };  非常感谢任何帮助。我想我选择了错误的工具，因为我没有意识到 supabase auth 应该严格在应用程序的前端运行？   由   提交 /u/little_hoarse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bd9s61/has_anyone_had_experience_with_signing_out_a_user/</guid>
-      <pubDate>Tue, 12 Mar 2024 21:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joomla 是一个痛苦...如果我去 /administrator 这就是我得到的，没有机会登录。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bd9bka/joomla_being_a_pain_in_the_if_i_go_to/</link>
-      <description><![CDATA[   /u/donutworx  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bd9bka/joomla_being_a_pain_in_the_if_i_go_to/</guid>
-      <pubDate>Tue, 12 Mar 2024 21:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务架构建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bd98a5/advice_on_microservice_architecture/</link>
-      <description><![CDATA[这是当前情况， 我有一个管理任务的 CRUD 应用程序。前端是react-admin，后端是带有mysql db的express。任务实体具有可以是“已创建”、“进行中”、“已完成”之一的状态。或“取消”。 由于一些新的要求，为了使任务达到“已完成”的状态，状态，某些任务数据（名称、类型等）需要提交给第三方服务。提交任务后，该服务会返回一个需要保存在任务数据中的 ID。 不幸的是，第 3 方服务是用于提交任务数据的 Web 门户。用户必须登录、提交数据并将提供的 ID 手动输入回 CRUD 应用程序。没有可用的 API。 我想自动化此过程，我的想法是创建一个新服务，使用 puppeteer 登录、提交任务数据，然后通过更新端点将 ID 保存回任务中在快递服务器上。我正在这里探索新领域，我想知道这是一个好方法吗？我还计划用 Express 来构建它，但想知道这是否是 lambda 函数的一个很好的用例？我认为通过队列（也许是 SQS）触发此服务是有意义的，但我不确定我是否使事情变得过于复杂。  欢迎任何建议。谢谢   由   提交 /u/StickyWhistle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bd98a5/advice_on_microservice_architecture/</guid>
-      <pubDate>Tue, 12 Mar 2024 21:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习部署第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bd94p5/learning_to_deploy_first_website/</link>
-      <description><![CDATA[大家好， 我一直在使用 Next.js 和 Pocketbase 开发一个网站，它基本上就像一个在线商店，带有一个贝宝集成。它不会有很高的流量，它更像是一个尝试赚钱并向家人和朋友/大学生推销的副项目。我快完成了，我开始研究如何部署，但我对需要采取的所有不同路线和步骤感到不知所措。我的主要问题如下：  我应该从谁那里购买域名（GoDaddy、Namecheap 等） 我是否应该自行托管或使用 Vercel 之类的东西（具有业余爱好者级别） 无论哪种情况，我应该如何实施 Pocketbase（尤其是 Vercel，找不到任何有关两者的信息） 如果我想要怎么办更新代码（存储在 github 上的存储库中）  任何建议也很棒！ PS 我没有管理 gui，我只使用管理 ui由 ./pocketbaseserve 给出   由   提交/u/EA4242  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bd94p5/learning_to_deploy_first_website/</guid>
-      <pubDate>Tue, 12 Mar 2024 21:27:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

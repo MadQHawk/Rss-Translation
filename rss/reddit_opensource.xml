@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 00:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 03:15:06 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
+      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</guid>
+      <pubDate>Wed, 13 Mar 2024 02:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道我可以在我的服务器上放置一个精心设计的个人音乐流媒体软件吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdf35a/does_anyone_know_of_a_well_polished_personal/</link>
+      <description><![CDATA[ 由   提交/u/Kthor426  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdf35a/does_anyone_know_of_a_well_polished_personal/</guid>
+      <pubDate>Wed, 13 Mar 2024 01:39:01 GMT</pubDate>
+    </item>
     <item>
       <title>构建开源、跨平台的 Loom 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdawx3/building_an_open_source_crossplatform_loom/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>内部库存管理和零件请求软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/</link>
-      <description><![CDATA[大家好！ 我们的支持团队经常需要向我们的团队成员索取零件或电子元件。到目前为止，这是一个相当手动的过程，但规模已经达到了无法再通过 IM 进行管理的程度。 有谁知道有任何 FOSS 库存软件可以让人们提出零件请求吗？可以提交给我们负责的团队成员吗？ 干杯   由   提交/u/abotelho-cbn   /u/abotelho-cbn reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我们的支持团队经常需要向我们的团队成员索取零件或电子元件。到目前为止，这是一个相当手动的过程，但规模已经达到了无法再通过 IM 进行管理的地步。 有谁知道有任何 FOSS 库存软件可以让人们提出零件请求吗？可以提交给我们负责的团队成员吗？ 干杯   由   提交/u/abotelho-cbn   /u/abotelho-cbn reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/</guid>
       <pubDate>Tue, 12 Mar 2024 01:23:09 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我们非常高兴地宣布 🔥 Wave Terminal v0.7.0 🔥 这是一个主要版本，具有所有 -新的更干净的 UI、新的连接后端、可选的自动更新、Linux 软件包、轻型模式以及许多较小的功能、修复和错误修复。自 v0.6 以来，已合并了 100 多个拉取请求。我们已经为可自定义主题、字体自定义和自定义键绑定做好了基础工作，这些都将很快在 v0.7.x 系列中发布。 一如既往，我们感谢所有反馈和建议。请让我们知道您的想法，或者在 GitHub 上提交错误/增强功能。如果您是 Linux 用户，我们现在有 AppImage、Pacman、.rpm 和 .deb 软件包。所有内容均可在我们的下载页面或我们的 WaveTerm Github 发布页面上获取。 完整发行说明&lt; /strong&gt;: https://docs.waveterm.dev/releasenotes   由   提交/u/dirtygonzo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bcjz63/wave_terminal_v070_released_ui_refresh_autoupdate/</guid>
       <pubDate>Tue, 12 Mar 2024 00:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能工作组会议摘要：2024 年 3 月 16 日</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bcexk5/ai_working_group_meeting_summary_march_16th_2024/</link>
-      <description><![CDATA[大家好， 我们很高兴地宣布定于 2024 年 3 月 16 日上午 19 点召开人工智能工作组会议:00 英国时间，由我们的 Jitsi 频道托管：PPI-Board。您可以在此处找到活动摘要和回复链接。 我们每月举行的会议旨在探索人工智能在支持个人海盗党和海盗方面的潜力。我们热衷于讨论人工智能应用程序、工具和政策，同时促进社区内的协作。 所有人工智能交付成果都是完全开源的，可供任何人使用，因为它已经融入了盗版党的精神中。 .   由   提交/u/PPUK_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bcexk5/ai_working_group_meeting_summary_march_16th_2024/</guid>
-      <pubDate>Mon, 11 Mar 2024 21:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人高兴的惊喜：我们的开源开发环境管理器获得了 3,600 颗星</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bccba6/a_pleasent_surprise_our_open_source_dev_env/</link>
-      <description><![CDATA[上周，当我们公开我们的 Daytona 项目时，我们做好了迎接批评和怀疑的准备。在如此短的时间内 GitHub 星数上升到 3,600 颗星让我们感到惊讶，我们要感谢这个令人惊叹的社区认识到 Daytona 的价值。 在走向开源的过程中，我们试图使迪通拿尽可能成熟和实用。我们自己对其进行了测试，以完成更简单的任务，例如为我们的公共网络做出贡献、文档更新和演示环境设置。但我们没有预料到它会如此迅速地引起共鸣。 根据我们对存储库的洞察，吸引力主要来自：  GitHub 的趋势页面，其中以 Daytona 为特色 4天，带来了超过 26% 的流量 我们在 Twitter 和 LinkedIn 上的社交媒体公告分别占近 24% 和 19% Google 直接流量恰好占 9%&lt; /li&gt; 黑客新闻帖子占浏览量的 7% 以上  我们拥有十多年通过会议、聚会和草根计划培养积极参与的程序员社区的经验。但即使有这样的历史，我们对开发环境管理的热情还是让我们感到震惊。 虽然我们非常感谢最初的兴趣洪流，但我们知道真正的考验是为开发者提供持续的价值。所有将使用 Daytona 的人。 我们的使命是不断发展 Daytona 作为真正简化工作流程的开源工具。我们希望通过一个简单、可扩展的解决方案实现无缝、可重复的开发环境设置。 为此，我们邀请每个人都来体验 Daytona 的步伐。尝试一下，提交问题，公开 PR - 深入参与，帮助塑造一个满足全球程序员基本需求的工具。 谢谢！ P.S.正如我们所看到的，这让你们中的一些人感到困扰，您能否在自述文件中帮助澄清 Daytona 的价值主张？我们的目标是简化对 Daytona 功能和优点的解释，以确保它能够清楚地引起不同背景的开发人员的共鸣。有什么建议吗？   由   提交/u/vivaciouslytain  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bccba6/a_pleasent_surprise_our_open_source_dev_env/</guid>
-      <pubDate>Mon, 11 Mar 2024 19:46:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
