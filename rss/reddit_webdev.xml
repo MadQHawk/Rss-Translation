@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 09:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 12:22:35 GMT</lastBuildDate>
+    <item>
+      <title>Mobirise WebBuilder 评论？其订阅价格昂贵？分享您创建的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdpm1b/mobirise_webbuilder_reviews_its_pricey/</link>
+      <description><![CDATA[大家好，有关于 Mobirise Web Builder 的评论吗？分享您的 Mobirise 创作以获取灵感。  对他们的年度订阅有何评论？    由   提交 /u/discooscar1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdpm1b/mobirise_webbuilder_reviews_its_pricey/</guid>
+      <pubDate>Wed, 13 Mar 2024 11:54:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以告诉我为什么我的 div 没有动画吗？我已经花了好几个小时了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdou95/can_someone_please_tell_me_why_my_div_isnt/</link>
+      <description><![CDATA[标题。我真的很感激你的帮助。干杯 ;  &lt;头&gt; &lt;元字符集=“UTF-8” &gt;&gt; &lt;元名称=“视口”内容=“宽度=设备宽度，初始比例=1.0” &gt;&gt; &lt;标题&gt;文档 &lt;风格&gt; * { 边距：0；填充：0；边框：0；轮廓：0；框大小：边框框；滚动行为：平滑； } html, 正文 { 宽度: 100%;高度：100%； } .container { 显示：网格；网格模板列：1fr 1fr 1fr 1fr；网格模板行：1fr 1fr 1fr 1fr；间隙：16px 16px；网格自动流：行； grid-template-areas: &#39;左上左上中左上中右上右&#39;&#39;左上生物生物生物右上&#39;&#39;中左生物生物生物右下&#39;&#39;左下下下-左下中心右下&#39;;宽度：100%；高度：100%；内边距：16px； } .bio { 网格区域：bio; } .top-left { 网格区域：左上角； } .center-left { 网格区域：center-left; } .bottom-left { 网格区域：左下角； } .bottom-center { 网格区域：bottom-center; } .bottom-right { 网格区域：右下角； } .top-right { 网格区域：右上角；光标：指针；背景颜色：浅珊瑚色；边框半径：16px； } .top-center-left { 网格区域：top-center-left; } .top-center-right { 网格区域：top-center-right; } .expanded { 网格列：1 / 跨度 4;网格行：1 / 跨度 4；过渡：全部 0.5 秒缓入缓出； } &lt;/风格&gt; &lt;/头&gt; &lt;正文&gt; &lt;div class=&quot;container&quot;&gt; &lt;div class=&quot;bio&quot;&gt;&lt;/div&gt;       &lt;div class=&quot;top-center-left&quot;&gt;&lt;/div&gt; &lt;div class=&quot;top-center-right&quot;&gt;&lt;/div&gt;  &lt;脚本&gt; document .querySelector(&#39;.top-right&#39;) .addEventListener(&#39;click&#39;, function () { this.classList.add(&#39;expanded&#39;); }); &lt;/脚本&gt; &lt;/正文&gt; &lt;/html&gt;    由   提交/u/sincerely-claire  /u/sincerely-claire  reddit.com/r/webdev/comments/1bdou95/can_someone_please_tell_me_why_my_div_isnt/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdou95/can_someone_please_tell_me_why_my_div_isnt/</guid>
+      <pubDate>Wed, 13 Mar 2024 11:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用主机文件阻止 Postman 更新？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdobz4/block_postman_update_with_hosts_file/</link>
+      <description><![CDATA[有谁知道要在 Windows 主机文件中阻止哪个 IP 地址来阻止 Postman 更新吗？ ​    由   提交 /u/SexyMuthaFunka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdobz4/block_postman_update_with_hosts_file/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:39:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>锻炼生成/跟踪 - 膳食计划/宏观跟踪应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdnxan/workout_generatingtracking_meal_planningmacro/</link>
+      <description><![CDATA[您好，我正在为一个应用程序创建一个 Web 应用程序，该应用程序将为用户生成和跟踪锻炼以及营养信息。我还计划将其游戏化 我的技术堆栈是：Postgres、React、Node、Express。我也打算使用 Typescript。使用 Vite 构建。  你们能给我一些建议吗？请并谢谢！  现在我有大约 100 个原始 SQL 表，每个表都被散列到我想要的字段。一旦完成此步骤，我假设最好的路线是开始使用所需的信息填充我的数据库，然后开始开发 API？    由   提交/u/QuarkGluonPlasma137   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdnxan/workout_generatingtracking_meal_planningmacro/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>七巧板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdnwnj/trangram/</link>
+      <description><![CDATA[ 由   提交/u/goeffballs95  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdnwnj/trangram/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>药房网站 - 英国</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bdnj3d/pharmacy_website_uk/</link>
+      <description><![CDATA[感谢大家花时间查看这篇文章 希望你一切顺利 我可以询问一些问题吗关于使用哪个自由职业平台的指导，因为我几乎没有成功 我想要一家位于英国的药房在线商店 - 首先是小规模销售绷带和糖尿病针的商店 如果有人可以的话请推荐我可以在哪里寻找我的生活，我没有运气，而且经常在这个平台上发现过度承诺 &lt;！-- SC_ON --&gt;  由   提交/u/cryptoreps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bdnj3d/pharmacy_website_uk/</guid>
+      <pubDate>Wed, 13 Mar 2024 09:49:10 GMT</pubDate>
+    </item>
     <item>
       <title>如果我在读了几个月的人工智能新闻后对未来失去了 95% 的希望，如何恢复编写代码时的享受感？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bdmv02/how_do_i_restore_feeling_of_enjoy_when_i_write/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[有办法测试不同的屏幕尺寸吗？ 我正在使用：媒体属性（从 480px 到 1201px。我有 32 英寸屏幕。但是如何查看是否需要针对较小屏幕进行更改？ @media (min-width: 1201px) { /* 高分辨率笔记本电脑和台式机 * / .container-body { margin-top: 120px; } }     提交者   /u/ogonzalesdiaz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bdiq1q/how_do_you_test_the_design_for_different_screen/</guid>
       <pubDate>Wed, 13 Mar 2024 04:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebRTC 中的端到端加密……4 年后</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bdiowc/endtoend_encryption_in_webrtc_4_years_later/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bdiowc/endtoend_encryption_in_webrtc_4_years_later/</guid>
-      <pubDate>Wed, 13 Mar 2024 04:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在域名过期时自动购买域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bdimsv/how_to_automatically_buy_domain_when_it_expires/</link>
-      <description><![CDATA[域名过期时自动购买域名的最佳方式是什么？我知道有一些服务，但不确定这是否是可行的方法或哪种方法效果最好。   由   提交/u/freebird4446  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bdimsv/how_to_automatically_buy_domain_when_it_expires/</guid>
-      <pubDate>Wed, 13 Mar 2024 04:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的艺术网站问题！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bdi4yg/weird_art_website_question/</link>
-      <description><![CDATA[嗨，我有一个非常雄心勃勃的艺术项目，我现在正在将其放在一个网站中。是否可以限制一天中某些时段的网站访问？ （另外，如果有人喜欢从事艺术/面向主题的工作，我正在制作一个网络系列，其中将包含许多媒体元素。如果这听起来符合你的胃口，我正在准备一份预算，所以请告诉我你是否愿意-ho 表示雄心勃勃的目标。）   由   提交 /u/ba_irvin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bdi4yg/weird_art_website_question/</guid>
-      <pubDate>Wed, 13 Mar 2024 04:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>模态叠加问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bdhxhv/modal_overlay_issues/</link>
-      <description><![CDATA[      我正在尝试使用模态来从用户处获取 POST 请求的数据，但是每当模态弹出时就会出现黑色覆盖层，不允许单击模态中的任何按钮。我应该怎么办？  https://preview.redd .it/zzqhkynkx0oc1.png?width=1142&amp;format=png&amp;auto=webp&amp;s=36168f6356c323344f36978f2fd8ff7652d37c4d ​ https://preview.redd.it/2du1k3glx0oc1.png?width=1842&amp;format= png&amp;auto=webp&amp;s=658784e0382fbf97b8bdc57f89683ea039b5b0ac ​ https://preview.redd.it/9corfygmx0oc1.png?width=1629&amp;format=png&amp;auto=webp&amp;s=99194deaf5fb2f8bb782 bd907fb8fe077e5c43ff    由   提交 /u/Zealousideal-Ad9018    reddit.com/r/webdev/comments/1bdhxhv/modal_overlay_issues/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bdhxhv/modal_overlay_issues/</guid>
-      <pubDate>Wed, 13 Mar 2024 03:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在向我的老客户支付托管费用 😵</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bdhw13/ive_been_paying_my_old_clients_hosting/</link>
-      <description><![CDATA[所以我只是查看了我的信用卡历史记录，意识到过去 3-4 年我一直在为 WordPress 的老客户网络托管付费。也许400-500美元。最后一次付款是 9 个月前，金额为 340 美元，有效期至 2025 年。 我的问题是处理此问题的最佳方法是什么？我与该客户的关系很友好，但不是最好的，因为我交付原始网站的时间比计划的要长一些。以下是我可以选择的一些选项： A) 忍耐并支付自己的费用 B) 立即向她收取全部费用 C) 让她知道发生了什么事，看看她是否愿意我分部分向她收取费用，以便我不会用一大笔钱打她。 D) 只向她收取最近一次付款的费用 你会怎么做？    由   提交 /u/TheMomaTrance   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bdhw13/ive_been_paying_my_old_clients_hosting/</guid>
-      <pubDate>Wed, 13 Mar 2024 03:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>你测试你的测试吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bdhtj0/do_you_test_your_tests/</link>
-      <description><![CDATA[不久前，我发现一些一年前的测试代码总是返回成功，无论实际功能如何。原来，有人添加了快速返回SUCCESS；一开始就禁用它，但后来...好吧，我们只能说它从未得到修复。 这让我思考：TDD 强调首先编写失败的测试，但另一方面呢？我们是否曾经测试过我们的测试在应该失败的时候实际上失败了？与仅检查测试是否通过相比，感觉需要考虑更多的边缘情况。 更可怕的是：代码更改后由于错误原因开始通过的测试怎么办？他们是否神奇地修复了错误，或者只是掩盖了新问题？ 理想情况下，测试不应该遵循与任何其他代码相同的标准吗？也许有他们自己的单元测试？  有人有控制测试的良好实践吗？在评论中分享您的战争故事（希望还有成功故事）！   由   提交/u/Diligent_Eye1248   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bdhtj0/do_you_test_your_tests/</guid>
-      <pubDate>Wed, 13 Mar 2024 03:45:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
