@@ -4,17 +4,71 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 13 Mar 2024 06:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 09:14:02 GMT</lastBuildDate>
+    <item>
+      <title>产品化服务：通过 100% 预付款赢得了我的第一个客户（2500 欧元/平方米）</title>
+      <link>https://feed.indiehackers.world/post/890f240b79</link>
+      <description><![CDATA[
+不要让您的报价过于复杂；把事情简单化;一路上你会遇到一些阻力
+预先充电，以光速过滤掉不合格的引线。
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/890f240b79</guid>
+      <pubDate>Wed, 13 Mar 2024 09:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建“AI PNG 制作器/生成器”。</title>
+      <link>https://feed.indiehackers.world/post/594c4db11c</link>
+      <description><![CDATA[我正在构建“AI PNG 制作器/生成器”互联网的。该产品名为FindPng。有人对此感兴趣吗？你能给我一些反馈吗？
+我使用AI生成透明图像而不是去除背景。对此您有何看法？
+网站是：https://www.findpng.com
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/594c4db11c</guid>
+      <pubDate>Wed, 13 Mar 2024 09:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建可关闭的 cookie 横幅</title>
+      <link>https://feed.indiehackers.world/post/2bcb3d8869</link>
+      <description><![CDATA[
+
+增强与 Alpine.js 的交互性
+Alpine.js 可以轻松地向我们的 cookie 横幅添加交互性。我们使用 x-data 来启动组件状态，使用 x-init 在横幅首次加载时进行焦点管理，并使用 x-show控制横幅的可见性。
+
+x-data：初始化组件的数据。
+x-init: 专注于“接受所有 cookie”键盘导航按钮。
+x-show：根据用户同意控制可见性。
+
+制作一个每个人都可以轻松使用的 cookie 横幅是用户友好的网站的关键。在 Alpine.js 和 Tailwind CSS 等工具的帮助下，创建一个看起来不错且符合所有规则的 cookie 横幅可以很简单。
+重要的是要记住，让您的网站易于访问不仅仅意味着遵守法律，还在于让互联网成为一个欢迎所有人的地方。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2bcb3d8869</guid>
+      <pubDate>Wed, 13 Mar 2024 08:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>请支持我们的产品搜寻</title>
+      <link>https://feed.indiehackers.world/post/b6eb60c8b9</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b6eb60c8b9</guid>
+      <pubDate>Wed, 13 Mar 2024 07:37:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>RCFlex – 适用于遥控汽车的 PCPartPicker</title>
+      <link>https://feed.indiehackers.world/post/11aac7fba3</link>
+      <description><![CDATA[创建遥控汽车的数字展示或共享构建日志
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/11aac7fba3</guid>
+      <pubDate>Wed, 13 Mar 2024 07:12:31 GMT</pubDate>
+    </item>
     <item>
       <title>比较 2024 年排名前 9 的 Pagerduty 替代方案</title>
       <link>https://feed.indiehackers.world/post/bfcbeedb3d</link>
-      <description><![CDATA[2024 年需要考虑的 9 个 Pagerduty 替代方案。 1. Sqaudcast 2. Opsgenie 3. xMatters 4. Moogsoft 5. Alertops 6. Bigpanda 7. Victorops 8. FireHydrant。
+      <description><![CDATA[2024 年需要考虑的 9 个 Pagerduty 替代方案。1. Sqaudcast 2. Opsgenie 3. xMatters 4. Moogsoft 5. Alertops 6. Bigpanda 7. Victorops 8. FireHydrant。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/bfcbeedb3d</guid>
       <pubDate>Wed, 13 Mar 2024 05:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>耶耶！一个月内完成第二笔销售</title>
+      <title>耶耶！一个月内完成第二次销售</title>
       <link>https://feed.indiehackers.world/post/b36ec7fb51</link>
       <description><![CDATA[我 2024 年的目标是使其成为在所有尖端人工智能公司寻找工作的首选工作委员会。我更加关注 SEO 来实现这一目标。如果您有自举求职板的经验，请分享您的建议。我会感激他们。
 我在 Twitter 上公开构建我的产品。我在这里写下了我所有的学习和里程碑。您可以跟随我们一起学习、成长。
@@ -63,9 +117,9 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>我运行 SaaS 第三年的经验教训</title>
       <link>https://feed.indiehackers.world/post/eb131d2198</link>
-      <description><![CDATA[我花了一周时间调整代码，多次增加 VPS 大小，尝试不同的 VPS 提供商，最终放弃，并认为对于我想要经营的生活方式业务类型来说，为 AWS Lambda 支付额外费用是值得的。权衡等等。
+      <description><![CDATA[我花了一周的时间调整代码，多次增加 VPS 大小，尝试不同的 VPS 提供商，最终放弃，并认为对于我想要经营的生活方式业务类型来说，为 AWS Lambda 支付额外费用是值得的。权衡等等。
 我开始了解我的产品理念
-今年，我从 Justin Duke 的软件业务情绪板上读到了一段话，这句话引起了我的共鸣，也让我明白了我想通过 OnlineOrNot 做的事情：
+今年，我从 Justin Duke 的软件业务情绪板上读到了一句话，这句话引起了我的共鸣，也让我明白了我想通过 OnlineOrNot 做的事情：
 &lt;块引用&gt;
 我们将在这里建造好船，如果可以的话可以盈利，如果必须的话就亏损，但总是好船
 
@@ -116,67 +170,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/91176bf3ed</guid>
       <pubDate>Tue, 12 Mar 2024 18:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌要杀掉我的产品？ 100%。</title>
-      <link>https://feed.indiehackers.world/post/6a0fb98096</link>
-      <description><![CDATA[这就是 Gemini 侧面板的用武之地。
-什么时候它是一个好主意，什么时候它是一个功能什么时候它就注定了？
-很难说你的想法何时会成为一项业务，或者只是某个主要参与者会实施的功能。
-有一件事是肯定的，当我在 Product Hunt 上发布 Gemini Side Panel 时，它排名第 2
-我为此感到自豪，无论发生什么，我在制作预告片、寻找它、将其排名第二，当然还有使用优秀的 JavaScript 构建它时都享受到了很多乐趣:)
-我什至制作了预告片：https://youtu.be/dTsk_NtGFFM
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6a0fb98096</guid>
-      <pubDate>Tue, 12 Mar 2024 18:38:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌要杀掉我的产品？ 100%。</title>
-      <link>https://feed.indiehackers.world/post/165c7d2933</link>
-      <description><![CDATA[这就是 Gemini 侧面板的用武之地。
-什么时候它是一个好主意，什么时候它是一个功能什么时候它就注定了？
-很难说你的想法何时会成为一项业务，或者只是某个主要参与者会实施的功能。
-有一件事是肯定的，当我在 Product Hunt 上发布 Gemini Side Panel 时，它排名第 2
-我为此感到自豪，无论发生什么，我在制作预告片、寻找它、将其排名第二，当然还有使用优秀的 JavaScript 构建它时都享受到了很多乐趣:)
-我什至制作了预告片：https://youtu.be/dTsk_NtGFFM
-
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/165c7d2933</guid>
-      <pubDate>Tue, 12 Mar 2024 18:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的 SAAS 登陆页面</title>
-      <link>https://feed.indiehackers.world/post/c3e6505c5e</link>
-      <description><![CDATA[我们希望您能称赞我们的登陆页面！ 
-Feedspace.io
-是不是配色方案伤害了你的眼睛？或者也许是字体的选择让你头疼？不要犹豫——我们能承受！
-我们知道总有改进的空间，并且我们并不害怕承认这一点。您的诚实反馈将帮助我们完善目标网页，并为未来的访问者提供更好的体验。
-那么，开始烘焙吧！在下面的评论中留下您最严厉（但有建设性）的批评。 
-我们保证不会哭……太多
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c3e6505c5e</guid>
-      <pubDate>Tue, 12 Mar 2024 18:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我与SAAS公司的旅程</title>
-      <link>https://feed.indiehackers.world/post/c7ea08cbd2</link>
-      <description><![CDATA[总的来说，在 Feedspace 工作是一次很棒的经历。成为一个为大大小小的企业带来真正改变的团队的一员是值得的。如果您正在寻找 SAAS 工具来增强客户反馈游戏，我强烈建议您查看 Feedspace！
-https://www.feedspace.io/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c7ea08cbd2</guid>
-      <pubDate>Tue, 12 Mar 2024 18:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的着陆页有反馈吗？ （产品开发订阅）</title>
-      <link>https://feed.indiehackers.world/post/571f15a298</link>
-      <description><![CDATA[大家好！ 👋
-在过去的 10 多年里，我一直是一名产品设计师和创始人。最近，我专注于创业投资，而不是设计工作。我很高兴能够重新投入产品开发并推出订阅服务。
-希望大家对我的目标网页提供反馈 - 谢谢！
-https://pixelgoat.io
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/571f15a298</guid>
-      <pubDate>Tue, 12 Mar 2024 18:12:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

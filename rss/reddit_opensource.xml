@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 06:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 09:13:42 GMT</lastBuildDate>
+    <item>
+      <title>Windows 活动记录器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</link>
+      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交 /u/basecatcherz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</guid>
+      <pubDate>Wed, 13 Mar 2024 08:56:38 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>内部库存管理和零件请求软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/</link>
-      <description><![CDATA[大家好！ 我们的支持团队经常需要向我们的团队成员索取零件或电子元件。到目前为止，这是一个相当手动的过程，但规模已经达到了无法再通过 IM 进行管理的程度。 有谁知道有任何 FOSS 库存软件可以让人们提出零件请求吗？可以提交给我们负责的团队成员吗？ 干杯   由   提交/u/abotelho-cbn   /u/abotelho-cbn reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我们的支持团队经常需要向我们的团队成员索取零件或电子元件。到目前为止，这是一个相当手动的过程，但规模已经达到了无法再通过 IM 进行管理的地步。 有谁知道有任何 FOSS 库存软件可以让人们提出零件请求吗？可以提交给我们负责的团队成员吗？ 干杯   由   提交/u/abotelho-cbn   /u/abotelho-cbn reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bckm67/internal_inventory_management_and_part_request/</guid>
       <pubDate>Tue, 12 Mar 2024 01:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 Wave Terminal v0.7.0 发布：UI 刷新、自动更新、新的 Linux 软件包等等！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bcjz63/wave_terminal_v070_released_ui_refresh_autoupdate/</link>
-      <description><![CDATA[我们非常高兴地宣布 🔥 Wave Terminal v0.7.0 🔥 这是一个主要版本，具有所有 -新的更干净的 UI、新的连接后端、可选的自动更新、Linux 软件包、轻型模式以及许多较小的功能、修复和错误修复。自 v0.6 以来，已合并了 100 多个拉取请求。我们已经为可自定义主题、字体自定义和自定义键绑定做好了基础工作，这些都将很快在 v0.7.x 系列中发布。 一如既往，我们感谢所有反馈和建议。请让我们知道您的想法，或者在 GitHub 上提交错误/增强功能。如果您是 Linux 用户，我们现在有 AppImage、Pacman、.rpm 和 .deb 软件包。所有内容均可在我们的下载页面或我们的 WaveTerm Github 发布页面上获取。 完整发行说明&lt; /strong&gt;: https://docs.waveterm.dev/releasenotes   由   提交/u/dirtygonzo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bcjz63/wave_terminal_v070_released_ui_refresh_autoupdate/</guid>
-      <pubDate>Tue, 12 Mar 2024 00:54:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
