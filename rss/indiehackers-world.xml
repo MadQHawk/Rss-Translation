@@ -4,7 +4,35 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 13 Mar 2024 12:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 15:13:49 GMT</lastBuildDate>
+    <item>
+      <title>我刚刚为独立黑客推出了 Product Hunt 的替代方案</title>
+      <link>https://feed.indiehackers.world/post/a79e661b83</link>
+      <description><![CDATA[大家好，我刚刚为独立黑客推出了 Product Hunt 的替代方案。
+你觉得怎么样？
+网站是：https://www.indiehunting.com/
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a79e661b83</guid>
+      <pubDate>Wed, 13 Mar 2024 15:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>倦怠后重返独立黑客</title>
+      <link>https://feed.indiehackers.world/post/e53136a95d</link>
+      <description><![CDATA[这就是计划！
+哦，我将在时事通讯中记录整个旅程。
+每周，我都会发送一封电子邮件：
+
+我学到的关于创业的深刻教训
+我本周最好的模因
+我的旅程更新
+
+如果您有兴趣，可以在此处注册。
+让我们再次开始这个聚会吧！ 🔥
+爱你们💙
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e53136a95d</guid>
+      <pubDate>Wed, 13 Mar 2024 13:17:50 GMT</pubDate>
+    </item>
     <item>
       <title>我们正在构建 Web3 Gaming 的 Upwork。加入我们的候补名单！</title>
       <link>https://feed.indiehackers.world/post/cae3c878f0</link>
@@ -158,31 +186,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/594c4db11c</guid>
       <pubDate>Wed, 13 Mar 2024 09:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建可关闭的 cookie 横幅</title>
-      <link>https://feed.indiehackers.world/post/2bcb3d8869</link>
-      <description><![CDATA[
-
-增强与 Alpine.js 的交互性
-Alpine.js 可以轻松地向我们的 cookie 横幅添加交互性。我们使用 x-data 来启动组件状态，使用 x-init 在横幅首次加载时进行焦点管理，并使用 x-show控制横幅的可见性。
-
-x-data：初始化组件的数据。
-x-init: 重点关注“接受所有 cookie”键盘导航按钮。
-x-show：根据用户同意控制可见性。
-
-制作一个每个人都可以轻松使用的 cookie 横幅是用户友好的网站的关键。在 Alpine.js 和 Tailwind CSS 等工具的帮助下，创建一个看起来不错且符合所有规则的 cookie 横幅可以很简单。
-重要的是要记住，让您的网站易于访问不仅仅意味着遵守法律，还在于让互联网成为一个欢迎所有人的地方。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2bcb3d8869</guid>
-      <pubDate>Wed, 13 Mar 2024 08:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>请支持我们的产品搜寻</title>
-      <link>https://feed.indiehackers.world/post/b6eb60c8b9</link>
-      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b6eb60c8b9</guid>
-      <pubDate>Wed, 13 Mar 2024 07:37:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
