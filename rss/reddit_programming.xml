@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 14 Mar 2024 12:23:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 15:12:54 GMT</lastBuildDate>
+    <item>
+      <title>Guardrails 与 Microsoft 指南：LLM 输出验证实践教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1ben1t5/guardrails_vs_microsoft_guidance_a_handson/</link>
+      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] &amp; #32； [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ben1t5/guardrails_vs_microsoft_guidance_a_handson/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>ib 计算机科学 ia</title>
+      <link>https://www.reddit.com/r/programming/comments/1bemqbf/ib_computer_science_ia/</link>
+      <description><![CDATA[是时候开始对我的 ib 计算机科学课程进行内部评估了，但我正在努力。我想制作一个基于文本的冒险游戏，这是允许的，但我不知道从哪里开始。什么是用 java 编写代码的免费好地方？我附上了我想到制作基于文本的游戏的网站。   由   提交/u/polarizedsolareyes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bemqbf/ib_computer_science_ia/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在终端上的广告很恶心</title>
+      <link>https://www.reddit.com/r/programming/comments/1bemlw7/ads_now_in_terminals_is_disgusting/</link>
+      <description><![CDATA[ 由   提交/u/kostakos14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bemlw7/ads_now_in_terminals_is_disgusting/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:33:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人了解 Spring Boot 吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bemc1a/حد_بيفهم_spring_boot/</link>
+      <description><![CDATA[我需要有人可以帮助我解决 Spring Boot 中的一些问题。我是初学者，我想向数据库提交数据，但我不知道，很可能是因为我在表单中放入了一张图像。我不确定。我希望如此。有人可以通过说     来帮助我吗？由   提交/u/Own-Celery8558  [链接] ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bemc1a/حد_بيفهم_spring_boot/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:21:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 进行网页抓取（综合指南）</title>
+      <link>https://www.reddit.com/r/programming/comments/1bel1li/web_scraping_with_python_a_comprehensive_guide/</link>
+      <description><![CDATA[ 由   提交/u/yakult2450  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bel1li/web_scraping_with_python_a_comprehensive_guide/</guid>
+      <pubDate>Thu, 14 Mar 2024 13:21:58 GMT</pubDate>
+    </item>
     <item>
       <title>promkit：用于在 Rust 中构建交互式提示的工具包 [已发布 v0.3.0 🚀]</title>
       <link>https://www.reddit.com/r/programming/comments/1bejssi/promkit_a_toolkit_for_building_interactive_prompt/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/davidebellone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1beg654/why_reaching_100_code_coverage_must_not_be_your/</guid>
       <pubDate>Thu, 14 Mar 2024 08:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 git-annex 管理千兆字节的图像</title>
-      <link>https://www.reddit.com/r/programming/comments/1beg39g/managing_gigabytes_of_images_with_gitannex/</link>
-      <description><![CDATA[ 由   提交 /u/sebawitowski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1beg39g/managing_gigabytes_of_images_with_gitannex/</guid>
-      <pubDate>Thu, 14 Mar 2024 08:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>SafeScript 现在支持 Angular 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1beg1gf/safescript_now_supports_angular_applications/</link>
-      <description><![CDATA[ 由   提交 /u/redradist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1beg1gf/safescript_now_supports_angular_applications/</guid>
-      <pubDate>Thu, 14 Mar 2024 08:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有效的软件迁移策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1beesyt/effective_software_migration_strategy/</link>
-      <description><![CDATA[ 由   提交/u/Jasminee99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1beesyt/effective_software_migration_strategy/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>绘图背后 - Canva 绘图工具的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1beemvp/behind_the_draw_how_canvas_drawing_tool_works/</link>
-      <description><![CDATA[ 由   提交/u/geoffreyhuntley  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1beemvp/behind_the_draw_how_canvas_drawing_tool_works/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写了一篇关于如何在 MySQL 数据库上存储货币值的中等文章</title>
-      <link>https://www.reddit.com/r/programming/comments/1becgg0/ive_written_a_medium_post_about_how_to_store/</link>
-      <description><![CDATA[ 由   提交/u/PlaceCrazy696  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1becgg0/ive_written_a_medium_post_about_how_to_store/</guid>
-      <pubDate>Thu, 14 Mar 2024 04:13:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

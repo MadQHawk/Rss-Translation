@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 12:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 15:13:17 GMT</lastBuildDate>
+    <item>
+      <title>开源并非不安全</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ben0og/open_source_is_not_insecure/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ben0og/open_source_is_not_insecure/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源/自托管状态监视器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bejyiv/open_sourceself_hosted_status_monitors/</link>
+      <description><![CDATA[我正在寻找一个开源/自托管状态监视器，最好带有 Docker 映像。我做了谷歌研究，并测试了以下内容：  openstatus.dev （没有得到它工作） statping（不是最干净的 UI + 不太可定制） cachet（只有状态页面，没有自动监控） uptime kuma（我不知道）我不喜欢这个 UI，但它可能是迄今为止最好的选择）  我可能错过了 github 上的一些隐藏的宝石。我的需求：  URL监控 公共状态页面 能够在状态页面上发布消息 能够自定义状态页面的UI  ​   由   提交/u/leurs247  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bejyiv/open_sourceself_hosted_status_monitors/</guid>
+      <pubDate>Thu, 14 Mar 2024 12:25:41 GMT</pubDate>
+    </item>
     <item>
       <title>有没有像 openreads 这样的应用程序可以追踪电影？</title>
       <link>https://www.reddit.com/r/opensource/comments/1beh7m1/is_there_any_app_like_openreads_for_tacking_movies/</link>
@@ -13,9 +27,9 @@
       <pubDate>Thu, 14 Mar 2024 09:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>我正在为副项目构建一个单一仓库；也许它可以帮助你。</title>
+      <title>我正在为副业项目构建一个单一仓库；也许它可以帮助你。</title>
       <link>https://www.reddit.com/r/opensource/comments/1begab6/im_building_a_monorepo_for_side_projects_maybe_it/</link>
-      <description><![CDATA[嘿大家👋:) 我最近又开始从事业余项目了。 我想轻松...  跨项目重用代码 替换项目中的模块 部署新想法  &lt; p&gt;​ 花了一些时间，但我终于得到了我喜欢的编排。 它还远未成熟，但这是一个很好的起点。 ​ 我计划继续研究它，但有些人可能需要它。 所以，我分享它是为了帮助他们身边的人项目或小型企业。 ​ https://github.com/whatis277 /收获   由   提交/u/7ad29b72   [链接] [评论]]]></description>
+      <description><![CDATA[嘿大家👋:) 我最近又开始从事业余项目了。 我想轻松...  跨项目重用代码 替换项目中的模块 部署新想法  &lt; p&gt;​ 花了一些时间，但我终于得到了一个我喜欢的编排。 它还远未成熟，但这是一个很好的起点。 ​ 我计划继续研究它，但有些人可能需要它。 所以，我分享它是为了帮助他们身边的人项目或小型企业。 ​ https://github.com/whatis277 /收获   由   提交/u/7ad29b72   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1begab6/im_building_a_monorepo_for_side_projects_maybe_it/</guid>
       <pubDate>Thu, 14 Mar 2024 08:22:51 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>乌克兰政府将其电子政务应用程序 Diia 开源。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdyc9x/ukrainian_government_makes_its_egovernance/</link>
-      <description><![CDATA[    /u/TheNightSkyDude   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/TheNightSkyDude  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdyc9x/ukrainian_government_makes_its_egovernance/</guid>
       <pubDate>Wed, 13 Mar 2024 18:10:19 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>Windows 活动记录器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</link>
-      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交/u/basecatcherz   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交 /u/basecatcherz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</guid>
       <pubDate>Wed, 13 Mar 2024 08:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
-      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时会成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</guid>
-      <pubDate>Wed, 13 Mar 2024 02:48:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道我可以在我的服务器上放置一个精心设计的个人音乐流媒体软件吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdf35a/does_anyone_know_of_a_well_polished_personal/</link>
-      <description><![CDATA[ 由   提交/u/Kthor426  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdf35a/does_anyone_know_of_a_well_polished_personal/</guid>
-      <pubDate>Wed, 13 Mar 2024 01:39:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
