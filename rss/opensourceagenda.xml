@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 14 Mar 2024 18:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 21:13:26 GMT</lastBuildDate>
     <item>
-      <title>浏览器锻造</title>
-      <link>https://www.opensourceagenda.com/projects/browserforge</link>
-      <description><![CDATA[🎭 智能浏览器标头和指纹生成器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/browserforge</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:16 GMT</pubDate>
+      <title>书面地</title>
+      <link>https://www.opensourceagenda.com/projects/writly</link>
+      <description><![CDATA[用于富文本编辑的 React 组件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/writly</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>模板开发</title>
-      <link>https://www.opensourceagenda.com/projects/tempad-dev</link>
-      <description><![CDATA[TempPad 带来的开发模式。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tempad-dev</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:15 GMT</pubDate>
+      <title>分散</title>
+      <link>https://www.opensourceagenda.com/projects/scattermoe</link>
+      <description><![CDATA[基于 Triton 的稀疏专家混合实现。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/scattermoe</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:25 GMT</pubDate>
     </item>
     <item>
-      <title>法斯姆2</title>
-      <link>https://www.opensourceagenda.com/projects/fasm2</link>
-      <description><![CDATA[平面汇编器 2]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fasm2</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:15 GMT</pubDate>
+      <title>勤奋好学</title>
+      <link>https://www.opensourceagenda.com/projects/studious-happiness</link>
+      <description><![CDATA[Fort-0S]]></description>
+      <guid>https://www.opensourceagenda.com/projects/studious-happiness</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:25 GMT</pubDate>
     </item>
     <item>
-      <title>成为网关服务</title>
-      <link>https://www.opensourceagenda.com/projects/be-gateway-service</link>
+      <title>HNSW 铁锈</title>
+      <link>https://www.opensourceagenda.com/projects/hnsw-rust</link>
+      <description><![CDATA[Rust 中的 HNSW 实现。参考：https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hnsw-rust</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是你的朋友1</title>
+      <link>https://www.opensourceagenda.com/projects/ichbindeinfreund1</link>
+      <description><![CDATA[Arma3-0S]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ichbindeinfreund1</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌特普罗</title>
+      <link>https://www.opensourceagenda.com/projects/uttrtpro</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/be-gateway-service</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:15 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/uttrtpro</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:24 GMT</pubDate>
     </item>
     <item>
-      <title>喷嘴清洁器</title>
-      <link>https://www.opensourceagenda.com/projects/nozzle-cleaner</link>
+      <title>Flutter制作模板</title>
+      <link>https://www.opensourceagenda.com/projects/flutter-production-template</link>
+      <description><![CDATA[YC 支持的初创公司的 CTO 提供创建初创公司所需的一切]]></description>
+      <guid>https://www.opensourceagenda.com/projects/flutter-production-template</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新构想的特里布尔</title>
+      <link>https://www.opensourceagenda.com/projects/reimagined-tribble</link>
+      <description><![CDATA[MultiVPN]]></description>
+      <guid>https://www.opensourceagenda.com/projects/reimagined-tribble</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>安德里亚马吉1111</title>
+      <link>https://www.opensourceagenda.com/projects/andreamaggi1111</link>
+      <description><![CDATA[Crypt0N]]></description>
+      <guid>https://www.opensourceagenda.com/projects/andreamaggi1111</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>跟随您的点击</title>
+      <link>https://www.opensourceagenda.com/projects/followyourclick</link>
+      <description><![CDATA[[arXiv 2024] Follow-Your-Click：此存储库是“Follow-Your-Click”的官方实现点击：通过简短提示进行开放域区域图像动画”]]></description>
+      <guid>https://www.opensourceagenda.com/projects/followyourclick</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Superopenai</title>
+      <link>https://www.opensourceagenda.com/projects/superopenai</link>
+      <description><![CDATA[openai sdk 的日志记录和缓存功能]]></description>
+      <guid>https://www.opensourceagenda.com/projects/superopenai</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>NoLessTech硬件管理器</title>
+      <link>https://www.opensourceagenda.com/projects/nolesstech-hwid-manager</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nozzle-cleaner</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:15 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/nolesstech-hwid-manager</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:21 GMT</pubDate>
     </item>
     <item>
-      <title>Diia 设置指南</title>
-      <link>https://www.opensourceagenda.com/projects/diia-setup-howto</link>
+      <title>姆索夫24</title>
+      <link>https://www.opensourceagenda.com/projects/msoff24</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/diia-setup-howto</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:14 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/msoff24</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:21 GMT</pubDate>
     </item>
     <item>
-      <title>萨特梅·普</title>
-      <link>https://www.opensourceagenda.com/projects/satmae-pp</link>
-      <description><![CDATA[“重新思考多光谱卫星图像的 Transformers 预训练”官方存储库 (CVPR 2024) ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/satmae-pp</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NixOS 用户反对 MIC 赞助.github.io</title>
-      <link>https://www.opensourceagenda.com/projects/nixos-users-against-mic-sponsorshipgithubio</link>
+      <title>自动CD24</title>
+      <link>https://www.opensourceagenda.com/projects/autocd24</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nixos-users-against-mic-sponsorshipgithubio</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:14 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/autocd24</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:21 GMT</pubDate>
     </item>
     <item>
-      <title>认知计算生成</title>
-      <link>https://www.opensourceagenda.com/projects/cognitivecomputations-generate</link>
+      <title>Hermes 函数调用</title>
+      <link>https://www.opensourceagenda.com/projects/hermes-function-calling</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cognitivecomputations-generate</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>CF工人</title>
-      <link>https://www.opensourceagenda.com/projects/cf-workers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cf-workers</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>陈丝面我的盒子</title>
-      <link>https://www.opensourceagenda.com/projects/chensimian-my-box</link>
-      <description><![CDATA[项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/chensimian-my-box</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>表情黑客</title>
-      <link>https://www.opensourceagenda.com/projects/emote-hack</link>
-      <description><![CDATA[使用 chatgpt（现为 Claude 3）对 Emote 白皮书中的代码进行逆向工程。在制品]]></description>
-      <guid>https://www.opensourceagenda.com/projects/emote-hack</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>R3f人工智能语文老师</title>
-      <link>https://www.opensourceagenda.com/projects/r3f-ai-language-teacher</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/r3f-ai-language-teacher</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>变压器 TTS V2</title>
-      <link>https://www.opensourceagenda.com/projects/transformer-tts-v2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/transformer-tts-v2</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fp6 法学硕士</title>
-      <link>https://www.opensourceagenda.com/projects/fp6-llm</link>
-      <description><![CDATA[通过 6 位量化 (FP6) 为 LLM 推理提供高效 GPU 支持。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fp6-llm</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:12 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/hermes-function-calling</guid>
+      <pubDate>Thu, 14 Mar 2024 21:13:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
