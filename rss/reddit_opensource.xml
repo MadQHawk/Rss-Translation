@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 09:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 12:23:55 GMT</lastBuildDate>
+    <item>
+      <title>有没有像 openreads 这样的应用程序可以追踪电影？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1beh7m1/is_there_any_app_like_openreads_for_tacking_movies/</link>
+      <description><![CDATA[ 由   提交 /u/uzunsov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1beh7m1/is_there_any_app_like_openreads_for_tacking_movies/</guid>
+      <pubDate>Thu, 14 Mar 2024 09:30:57 GMT</pubDate>
+    </item>
     <item>
       <title>我正在为副项目构建一个单一仓库；也许它可以帮助你。</title>
       <link>https://www.reddit.com/r/opensource/comments/1begab6/im_building_a_monorepo_for_side_projects_maybe_it/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
-      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
+      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时会成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</guid>
       <pubDate>Wed, 13 Mar 2024 02:48:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/Kthor426  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdf35a/does_anyone_know_of_a_well_polished_personal/</guid>
       <pubDate>Wed, 13 Mar 2024 01:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建开源、跨平台的 Loom 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdawx3/building_an_open_source_crossplatform_loom/</link>
-      <description><![CDATA[大家好！我目前花了 4 个月的时间构建一个开源、跨平台的 Loom 替代方案。 Cap 支持 macOS、Windows 和 Linux。目前处于早期访问测试阶段，感谢您的支持！ GitHub 存储库：https://github.com/CapSoftware/cap  网站：https://Cap.so   由   提交 /u/datscrayy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdawx3/building_an_open_source_crossplatform_loom/</guid>
-      <pubDate>Tue, 12 Mar 2024 22:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 14 Mar 2024 09:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 12:24:14 GMT</lastBuildDate>
     <item>
-      <title>许珀金杜克·布塔尼姆</title>
-      <link>https://www.opensourceagenda.com/projects/hyperkindukebootanim</link>
-      <description><![CDATA[Xbox One Hyperkin Duke 控制器 - 有关更改启动动画的信息]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hyperkindukebootanim</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:23 GMT</pubDate>
+      <title>浏览器锻造</title>
+      <link>https://www.opensourceagenda.com/projects/browserforge</link>
+      <description><![CDATA[🎭 智能浏览器标头和指纹生成器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/browserforge</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:14 GMT</pubDate>
     </item>
     <item>
-      <title>诺基亚5110文字</title>
-      <link>https://www.opensourceagenda.com/projects/nokia5110-text</link>
-      <description><![CDATA[用于 Arduino 微控制器生态系统的诺基亚 5110 LCD（PCD8544 控制器）的 ASCII 文本库。九种不同大小的 ASCII 文本字体。设计重量轻，内存占用少。在 Arduino、STM32 和 ESP-X 上进行测试]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nokia5110-text</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:23 GMT</pubDate>
+      <title>法斯姆2</title>
+      <link>https://www.opensourceagenda.com/projects/fasm2</link>
+      <description><![CDATA[平面汇编器 2]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fasm2</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>Micropython I2c 液晶显示器</title>
-      <link>https://www.opensourceagenda.com/projects/micropython-i2c-lcd</link>
-      <description><![CDATA[🖥 适用于 I2C 2x16 LCD 屏幕的 MicroPython 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/micropython-i2c-lcd</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:22 GMT</pubDate>
+      <title>成为网关服务</title>
+      <link>https://www.opensourceagenda.com/projects/be-gateway-service</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/be-gateway-service</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>ICN6211 配置器</title>
-      <link>https://www.opensourceagenda.com/projects/icn6211-configurator</link>
-      <description><![CDATA[ICN6211 配置器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/icn6211-configurator</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:22 GMT</pubDate>
+      <title>喷嘴清洁器</title>
+      <link>https://www.opensourceagenda.com/projects/nozzle-cleaner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nozzle-cleaner</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>液晶 I2C 菜单</title>
-      <link>https://www.opensourceagenda.com/projects/liquidcrystal-i2c-menu</link>
-      <description><![CDATA[用于使用 I2C 总线的 LiquidCrystal 显示器的 Arduino 库。提供用于构建用户界面的附加功能。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/liquidcrystal-i2c-menu</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:22 GMT</pubDate>
+      <title>认知计算生成</title>
+      <link>https://www.opensourceagenda.com/projects/cognitivecomputations-generate</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cognitivecomputations-generate</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:12 GMT</pubDate>
     </item>
     <item>
-      <title>字符液晶屏</title>
-      <link>https://www.opensourceagenda.com/projects/char-lcd</link>
-      <description><![CDATA[字符 LCD 显示模拟器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/char-lcd</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:22 GMT</pubDate>
+      <title>CF工人</title>
+      <link>https://www.opensourceagenda.com/projects/cf-workers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cf-workers</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:12 GMT</pubDate>
     </item>
     <item>
-      <title>洛维安GFX</title>
-      <link>https://www.opensourceagenda.com/projects/lovyangfx</link>
-      <description><![CDATA[ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51 的 SPI LCD 图形库(Seeed) ArduinoSAMD51）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lovyangfx</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:21 GMT</pubDate>
+      <title>模板开发</title>
+      <link>https://www.opensourceagenda.com/projects/tempad-dev</link>
+      <description><![CDATA[TempPad 带来的开发模式。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tempad-dev</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:12 GMT</pubDate>
     </item>
     <item>
-      <title>Arduino电脑显示器</title>
-      <link>https://www.opensourceagenda.com/projects/arduino-pc-monitor</link>
-      <description><![CDATA[一个 Arduino 程序和 Python 脚本，可在 LCD 上为您提供系统信息]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arduino-pc-monitor</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:21 GMT</pubDate>
+      <title>变压器 TTS V2</title>
+      <link>https://www.opensourceagenda.com/projects/transformer-tts-v2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/transformer-tts-v2</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>MSP432 示例代码</title>
-      <link>https://www.opensourceagenda.com/projects/msp432-example-codes</link>
-      <description><![CDATA[此存储库将包含 TI MSP432 微控制器的各种示例。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/msp432-example-codes</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:21 GMT</pubDate>
+      <title>Diia 设置指南</title>
+      <link>https://www.opensourceagenda.com/projects/diia-setup-howto</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/diia-setup-howto</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>JK BMSToPylontechCAN</title>
-      <link>https://www.opensourceagenda.com/projects/jk-bmstopylontechcan</link>
-      <description><![CDATA[将 JK-BMS RS485 数据转换为 Pylontech CAN 数据]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jk-bmstopylontechcan</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:21 GMT</pubDate>
+      <title>萨特梅·普</title>
+      <link>https://www.opensourceagenda.com/projects/satmae-pp</link>
+      <description><![CDATA[“重新思考多光谱卫星图像的 Transformers 预训练”官方存储库 (CVPR 2024) ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/satmae-pp</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>MythicApp 神话</title>
-      <link>https://www.opensourceagenda.com/projects/mythicapp-mythic</link>
-      <description><![CDATA[一款独特的 macOS 开源游戏启动器，集成了 Epic Games 并能够运行 Windows 游戏.]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mythicapp-mythic</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:20 GMT</pubDate>
+      <title>NixOS 用户反对 MIC 赞助.github.io</title>
+      <link>https://www.opensourceagenda.com/projects/nixos-users-against-mic-sponsorshipgithubio</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nixos-users-against-mic-sponsorshipgithubio</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>游戏行业主机模板</title>
-      <link>https://www.opensourceagenda.com/projects/gameindustry-hosts-template</link>
-      <description><![CDATA[独特的主机模板，可增强桌面和 Android 游戏、网站和常规软件中的个人隐私设备]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gameindustry-hosts-template</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:20 GMT</pubDate>
+      <title>Fp6 法学硕士</title>
+      <link>https://www.opensourceagenda.com/projects/fp6-llm</link>
+      <description><![CDATA[通过 6 位量化 (FP6) 对 LLM 推理提供高效的 GPU 支持。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fp6-llm</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>史诗兰卡卡预填充</title>
-      <link>https://www.opensourceagenda.com/projects/epic-lancache-prefill</link>
-      <description><![CDATA[使用 Epic Launcher 游戏自动启动 Lancache 的 CLI 工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/epic-lancache-prefill</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:20 GMT</pubDate>
+      <title>陈丝面我的盒子</title>
+      <link>https://www.opensourceagenda.com/projects/chensimian-my-box</link>
+      <description><![CDATA[项目]]></description>
+      <guid>https://www.opensourceagenda.com/projects/chensimian-my-box</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>弗莱克特雅典娜</title>
-      <link>https://www.opensourceagenda.com/projects/vrekt-athena</link>
-      <description><![CDATA[用于与 Fortnite API、XMPP、Party 等交互的库！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vrekt-athena</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:20 GMT</pubDate>
+      <title>表情黑客</title>
+      <link>https://www.opensourceagenda.com/projects/emote-hack</link>
+      <description><![CDATA[使用 chatgpt（现为 Claude 3）对 Emote 白皮书中的代码进行逆向工程。在制品]]></description>
+      <guid>https://www.opensourceagenda.com/projects/emote-hack</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>稀有开发者 稀有</title>
-      <link>https://www.opensourceagenda.com/projects/raredevs-rare</link>
-      <description><![CDATA[Legendary 的 GUI。 Epic Games Launcher 开源替代方案]]></description>
-      <guid>https://www.opensourceagenda.com/projects/raredevs-rare</guid>
-      <pubDate>Thu, 14 Mar 2024 09:13:19 GMT</pubDate>
+      <title>R3f人工智能语文老师</title>
+      <link>https://www.opensourceagenda.com/projects/r3f-ai-language-teacher</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/r3f-ai-language-teacher</guid>
+      <pubDate>Thu, 14 Mar 2024 12:24:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

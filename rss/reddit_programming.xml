@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 14 Mar 2024 09:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 12:23:29 GMT</lastBuildDate>
+    <item>
+      <title>promkit：用于在 Rust 中构建交互式提示的工具包 [已发布 v0.3.0 🚀]</title>
+      <link>https://www.reddit.com/r/programming/comments/1bejssi/promkit_a_toolkit_for_building_interactive_prompt/</link>
+      <description><![CDATA[ 由   提交/u/aqny  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bejssi/promkit_a_toolkit_for_building_interactive_prompt/</guid>
+      <pubDate>Thu, 14 Mar 2024 12:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 Slint v1.5 - 一个现代的声明式 GUI 工具包 - 发布并支持 Android</title>
+      <link>https://www.reddit.com/r/programming/comments/1bej6v3/slint_v15_a_modern_declarative_gui_toolkit/</link>
+      <description><![CDATA[ 由   提交/u/madnirua  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bej6v3/slint_v15_a_modern_declarative_gui_toolkit/</guid>
+      <pubDate>Thu, 14 Mar 2024 11:41:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>全文搜索与矢量搜索</title>
+      <link>https://www.reddit.com/r/programming/comments/1beifk3/fulltext_search_vs_vector_search/</link>
+      <description><![CDATA[ 由   提交/u/ggStrift  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1beifk3/fulltext_search_vs_vector_search/</guid>
+      <pubDate>Thu, 14 Mar 2024 10:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChartJs 可视化库 - 详细演练</title>
+      <link>https://www.reddit.com/r/programming/comments/1behu4b/chartjs_visualization_library_a_detailed/</link>
+      <description><![CDATA[ 由   提交/u/ram-foss  /u/ram-foss  blackslate.io/articles/chartjs-visualization-library-a-detailed-walkthrough&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1behu4b/chartjs_visualization_library_a_detailed/</guid>
+      <pubDate>Thu, 14 Mar 2024 10:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>由 Nintendo 64 提供支持的 VR</title>
+      <link>https://www.reddit.com/r/programming/comments/1behu46/vr_powered_by_nintendo_64/</link>
+      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1behu46/vr_powered_by_nintendo_64/</guid>
+      <pubDate>Thu, 14 Mar 2024 10:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于经济建模的 GAMS</title>
+      <link>https://www.reddit.com/r/programming/comments/1behpq0/gams_for_economics_modeling/</link>
+      <description><![CDATA[嗨！有谁有我可以学习 GAMS 的好资源吗？另外，如果您有任何经验，我将非常感谢您的帮助:)   由   提交/u/koyashthesun  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1behpq0/gams_for_economics_modeling/</guid>
+      <pubDate>Thu, 14 Mar 2024 10:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建工具提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1behj5g/how_to_create_a_tooltip_with_tailwind_css_and/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建工具提示[评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1behj5g/how_to_create_a_tooltip_with_tailwind_css_and/</guid>
+      <pubDate>Thu, 14 Mar 2024 09:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Need Ideas] 创建了一些简单且免费的数据库工具，每个开发人员都可以使用</title>
+      <link>https://www.reddit.com/r/programming/comments/1behdon/need_ideas_created_some_simple_and_free_database/</link>
+      <description><![CDATA[ 由   提交 /u/PavanBelagatti   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1behdon/need_ideas_created_some_simple_and_free_database/</guid>
+      <pubDate>Thu, 14 Mar 2024 09:43:12 GMT</pubDate>
+    </item>
     <item>
       <title>撰写工程通讯的终极指南</title>
       <link>https://www.reddit.com/r/programming/comments/1beggpq/the_ultimate_guide_to_writing_an_engineering/</link>
@@ -48,67 +104,11 @@
       <pubDate>Thu, 14 Mar 2024 06:24:29 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以修改这个吗？我想看看 python 有什么可能，我做了这个糟糕的游戏，因为我是 python 新手，我想看看有什么可能</title>
-      <link>https://www.reddit.com/r/programming/comments/1bee6rb/can_some1_modify_this_i_wana_see_what_is_possible/</link>
-      <description><![CDATA[ 由   提交 /u/Resident_Spite2779   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bee6rb/can_some1_modify_this_i_wana_see_what_is_possible/</guid>
-      <pubDate>Thu, 14 Mar 2024 05:54:04 GMT</pubDate>
-    </item>
-    <item>
       <title>我写了一篇关于如何在 MySQL 数据库上存储货币值的中等文章</title>
       <link>https://www.reddit.com/r/programming/comments/1becgg0/ive_written_a_medium_post_about_how_to_store/</link>
       <description><![CDATA[ 由   提交/u/PlaceCrazy696  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1becgg0/ive_written_a_medium_post_about_how_to_store/</guid>
       <pubDate>Thu, 14 Mar 2024 04:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写了一篇关于我的团队正在翻译的游戏的逆向工程脚本文件的博客文章！</title>
-      <link>https://www.reddit.com/r/programming/comments/1bebkvk/i_wrote_a_blog_post_on_reverseengineering_script/</link>
-      <description><![CDATA[ 由   提交/u/jonko_ds  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bebkvk/i_wrote_a_blog_post_on_reverseengineering_script/</guid>
-      <pubDate>Thu, 14 Mar 2024 03:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>REST、SOAP、GraphQL、GRPC 有什么不同？你一定知道。</title>
-      <link>https://www.reddit.com/r/programming/comments/1bebf87/how_rest_soap_graphql_grpc_differ_you_must_know/</link>
-      <description><![CDATA[ 由   提交 /u/Zealousideal-Web-898   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bebf87/how_rest_soap_graphql_grpc_differ_you_must_know/</guid>
-      <pubDate>Thu, 14 Mar 2024 03:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员对时区的误解</title>
-      <link>https://www.reddit.com/r/programming/comments/1bea6ao/falsehoods_programmers_believe_about_time_zones/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bea6ao/falsehoods_programmers_believe_about_time_zones/</guid>
-      <pubDate>Thu, 14 Mar 2024 02:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>得到教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1be8sur/lessons_learned/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1be8sur/lessons_learned/</guid>
-      <pubDate>Thu, 14 Mar 2024 01:15:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过哈希调用</title>
-      <link>https://www.reddit.com/r/programming/comments/1be83q0/call_by_hash/</link>
-      <description><![CDATA[ 由   提交/u/jkarni  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1be83q0/call_by_hash/</guid>
-      <pubDate>Thu, 14 Mar 2024 00:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让构建 Wasm 变得异常简单</title>
-      <link>https://www.reddit.com/r/programming/comments/1be5spl/how_to_make_building_wasm_blazingly_easy/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1be5spl/how_to_make_building_wasm_blazingly_easy/</guid>
-      <pubDate>Wed, 13 Mar 2024 23:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>将国际象棋线压缩 75%</title>
-      <link>https://www.reddit.com/r/programming/comments/1be5o9h/compressing_chess_lines_by_75/</link>
-      <description><![CDATA[ 由   提交/u/mbuffett1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1be5o9h/compressing_chess_lines_by_75/</guid>
-      <pubDate>Wed, 13 Mar 2024 23:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
