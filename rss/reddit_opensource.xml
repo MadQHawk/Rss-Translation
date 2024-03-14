@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 06:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 09:13:07 GMT</lastBuildDate>
+    <item>
+      <title>我正在为副项目构建一个单一仓库；也许它可以帮助你。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1begab6/im_building_a_monorepo_for_side_projects_maybe_it/</link>
+      <description><![CDATA[嘿大家👋:) 我最近又开始从事业余项目了。 我想轻松...  跨项目重用代码 替换项目中的模块 部署新想法  &lt; p&gt;​ 花了一些时间，但我终于得到了我喜欢的编排。 它还远未成熟，但这是一个很好的起点。 ​ 我计划继续研究它，但有些人可能需要它。 所以，我分享它是为了帮助他们身边的人项目或小型企业。 ​ https://github.com/whatis277 /收获   由   提交/u/7ad29b72   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1begab6/im_building_a_monorepo_for_side_projects_maybe_it/</guid>
+      <pubDate>Thu, 14 Mar 2024 08:22:51 GMT</pubDate>
+    </item>
     <item>
       <title>Open-Source Leg：开放硬件和软件系统的新网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1be9vj3/opensource_leg_new_website_for_open_hardware_and/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
-      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 所以，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
+      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</guid>
       <pubDate>Wed, 13 Mar 2024 02:48:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我目前花了 4 个月的时间构建一个开源、跨平台的 Loom 替代方案。 Cap 支持 macOS、Windows 和 Linux。目前处于早期访问测试阶段，感谢您的支持！ GitHub 存储库：https://github.com/CapSoftware/cap  网站：https://Cap.so   由   提交 /u/datscrayy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdawx3/building_an_open_source_crossplatform_loom/</guid>
       <pubDate>Tue, 12 Mar 2024 22:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个简单的 CLI 工具，可以将文件转换为针对 LLM 优化的格式。用它来快速编码！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bd8234/i_created_a_simple_cli_tool_that_converts_files/</link>
-      <description><![CDATA[    /u/zeJaeger   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bd8234/i_created_a_simple_cli_tool_that_converts_files/</guid>
-      <pubDate>Tue, 12 Mar 2024 20:45:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
