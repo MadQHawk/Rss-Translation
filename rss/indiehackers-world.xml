@@ -4,7 +4,59 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 13 Mar 2024 21:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:52:39 GMT</lastBuildDate>
+    <item>
+      <title>Masud Hossain 如何在三年内将 Queue 的收入增长到 100 万美元以上</title>
+      <link>https://feed.indiehackers.world/post/5853ae9733</link>
+      <description><![CDATA[我们还推出了 Product Hunt，这为我们带来了相当数量的付费帐户。对此我的一个建议是进行外展以进入前 5 名。
+
+向我们介绍一下您的团队。
+我们是一个五人团队。其中包括我（工程师兼首席执行官）、前端工程师、设计师、SDR 和移动应用程序开发人员。我们都处于 100% 的偏远地区，所以很早就集合参加静修活动。我们计划雇用更多职位，特别是内容创作者。 
+您对 Queue 的未来计划是什么？
+从第一天起，我们的主要目标就是创建一个平台，让人们可以将自己的才能转化为蓬勃发展的业务。我们致力于不断开发支持这一愿景的工具。就在一个月前，我们推出了一项新功能，允许用户从朋友、家人和客户那里获得推荐。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5853ae9733</guid>
+      <pubDate>Wed, 13 Mar 2024 23:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将 AI Text-to-MySQL 添加到我的分析应用程序中</title>
+      <link>https://feed.indiehackers.world/post/02ca71e9fc</link>
+      <description><![CDATA[一个失败的示例问题（客户提到的）：“用户在访问/定价页面之前访问了哪两个页面？”。这实际上是一个相当棘手的 MySQL 查询，并且有几种边缘情况。如果任何 SQL 专家知道这个问题的良好/有效的 SQL 答案，请将其写在下面。我链接了数据库结构。
+到目前为止，反响很好，收到了一些来自用户的友好电子邮件。
+ChatGPT 有点贵，所以我计划添加其他不同的 API（任何规模？），甚至本地 Ollama 支持。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/02ca71e9fc</guid>
+      <pubDate>Wed, 13 Mar 2024 22:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>🤯每天都被吹走。</title>
+      <link>https://feed.indiehackers.world/post/178542b6b3</link>
+      <description><![CDATA[我第一次开始使用 ChatGPT+ 和 GitHub Copilot 进行编码时，
+🤯我绝对被震撼了。
+这些工具开辟了一个充满机遇的全新世界......
+从那时起，我已经用 Python、HTML、JS 和 JS 生成了数万行代码。 CSS 并在创意音频领域推出了 3 款微型 SaaS 产品，全部由 AI 生成：
+https://www.aijinglemaker.com（超过 10,500 位用户）
+https://www.aishowmaker.com
+https://www.aithercast.com
+从构思到发布的开发周期的速度是无与伦比的，比使用最简单的无代码工具所能达到的速度要快得多，并且具有更大的灵活性。
+如果您想探索一个已经推迟多年的个人项目，并最终通过人工智能辅助编码的魔力在短时间内实现它，请随时给我打电话以获得免费咨询。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/178542b6b3</guid>
+      <pubDate>Wed, 13 Mar 2024 22:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Meme Token Tools 上的第一笔销售！ 🐸💰🚀</title>
+      <link>https://feed.indiehackers.world/post/c0f607eab7</link>
+      <description><![CDATA[嘿伙计们，我一直在慢慢地破解我的项目模因令牌工具。 （我希望）这个平台将拥有一套工具来在 Solana 区块链上创建和启动 meme 代币。
+目前，该平台只有一个创建模因币的工具。在 Reddit 上发帖并发表一篇媒体文章后，我看到了一些销售的初步吸引力。我很高兴看到我们从这里走向何方并分享这段旅程！
+接下来，我正在构建一个自动空投代币的工具，并帮助项目促进其初始社区的发展。与此同时，我们将在加密货币特定广告网络上尝试一些付费广告。
+希望得到有关我的项目的任何反馈，或者很乐意回答任何问题！
+🌐https://memetoken.tools
+📒 https://medium.com/@vendle /create-and-launch-a-meme-coin-on-solana-part-1-a9ebba40c43c
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c0f607eab7</guid>
+      <pubDate>Wed, 13 Mar 2024 22:35:12 GMT</pubDate>
+    </item>
     <item>
       <title>反馈 > 收入</title>
       <link>https://feed.indiehackers.world/post/ee7c672d8b</link>
@@ -98,8 +150,8 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>看在上帝的份上，遵循精益创业方法</title>
       <link>https://feed.indiehackers.world/post/dedc2a826c</link>
-      <description><![CDATA[重点是，正如 Eric 和 Lenny 在播客中充分解释的那样，这与此无关MVP 的概念。这仅仅是对消费者行为和客户期望的观察。
-MVP 与最低努力量不同。正如它所说：最低限度可行的产品，关键词是“可行”。关键任务应用程序或前沿研究的 MVP 不会便宜或容易，因为要使其“可行”，需要多年的研发。同样，在竞争较弱的市场（例如建筑行业的垂直利基市场）中，辅助服务的 MVP 可能需要不那么复杂，并且（也许）有更多的容错能力。
+      <description><![CDATA[重点是，正如 Eric 和 Lenny 在播客中详细解释的那样，这与此无关MVP 的概念。这仅仅是对消费者行为和客户期望的观察。
+MVP 与最低努力量不同。正如它所说：最低限度可行的产品，关键词是“可行”。关键任务应用程序或前沿研究的 MVP 不会便宜或容易，因为要使其“可行”，需要多年的研发。同样，在竞争不那么激烈的市场（例如建筑行业的垂直利基市场）中，辅助服务的 MVP 可能需要不那么复杂，并且（也许）有更多的容错能力。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dedc2a826c</guid>
       <pubDate>Wed, 13 Mar 2024 17:27:56 GMT</pubDate>
@@ -107,7 +159,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>这个产品的研发花了3年时间</title>
       <link>https://feed.indiehackers.world/post/d9272181a4</link>
-      <description><![CDATA[更好的消息是，我本周演示了如何使用它来提高学校教师的工作效率，并且反响非常积极。我预计 PO 将于本月晚些时候发布。我希望第一个付费客户能够帮助带来更多客户。
+      <description><![CDATA[更好的消息是，本周我演示了如何使用它来提高学校教师的工作效率，并且反响非常积极。我预计 PO 将于本月晚些时候发布。我希望第一个付费客户能够帮助带来更多客户。
 与此同时，功能将继续推出 - 虽然产品很强大，但我仍然希望在登陆页面以及一些高级功能和图形上进行更多工作。
 如果这里有人想尝试一下，请注册免费试用版并写信给我 md[at]gami5d[dot]com 将试用期延长至一个月。
 Discord 独立黑客聊天广告这里]]></description>
@@ -131,54 +183,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4a08ca1a0b</guid>
       <pubDate>Wed, 13 Mar 2024 16:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为下一个独角兽寻找技术创始人</title>
-      <link>https://feed.indiehackers.world/post/b5e24df0cb</link>
-      <description><![CDATA[对于技术人员来说，如果这听起来令您兴奋并且您认为可以为团队增加价值，请发表评论。
-感谢您的宝贵时间，
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b5e24df0cb</guid>
-      <pubDate>Wed, 13 Mar 2024 15:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚为独立黑客推出了 Product Hunt 的替代方案</title>
-      <link>https://feed.indiehackers.world/post/a79e661b83</link>
-      <description><![CDATA[大家好，我刚刚为独立黑客推出了 Product Hunt 的替代方案。
-你觉得怎么样？
-网站是：https://www.indiehunting.com/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a79e661b83</guid>
-      <pubDate>Wed, 13 Mar 2024 15:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>烧掉 10 万美元后回归独立黑客</title>
-      <link>https://feed.indiehackers.world/post/e53136a95d</link>
-      <description><![CDATA[这就是计划！
-哦，我将在时事通讯中记录整个旅程。
-每周，我都会发送一封电子邮件：
-
-我学到的关于创业的深刻教训
-我本周最好的模因
-我的旅程更新
-
-如果您有兴趣，可以在此处注册。
-让我们再次开始这个聚会吧！ 🔥
-爱你们💙
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e53136a95d</guid>
-      <pubDate>Wed, 13 Mar 2024 13:17:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在构建 Web3 Gaming 的 Upwork。加入我们的候补名单！</title>
-      <link>https://feed.indiehackers.world/post/cae3c878f0</link>
-      <description><![CDATA[我们正处于开发新 MVP 的最后阶段，我们希望您加入我们的候补名单并成为第一个尝试它的人！ 
-这是我们的网站，您可以在其中加入候补名单（我们将在接下来的两周内将其与 MVP 一起更新）：https:// app.cryptearn.co/
-哦，我们还有一份私人投资者通讯，我们在其中分享我们的 KPI 和亮点，并跟踪我们作为一家初创公司的进展情况。我仍在犹豫是否开始将其发布在这里，因为我们热衷于公开建设，但如果您想成为其中的一部分，请告诉我，我会将您添加到列表中！ 
-祝您度过愉快的一天！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cae3c878f0</guid>
-      <pubDate>Wed, 13 Mar 2024 11:59:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

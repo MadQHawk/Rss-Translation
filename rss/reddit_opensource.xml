@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 21:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:52:21 GMT</lastBuildDate>
     <item>
       <title>乌克兰政府将其电子政务应用程序 Diia 开源。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdyc9x/ukrainian_government_makes_its_egovernance/</link>
-      <description><![CDATA[    /u/TheNightSkyDude   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/TheNightSkyDude  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdyc9x/ukrainian_government_makes_its_egovernance/</guid>
       <pubDate>Wed, 13 Mar 2024 18:10:19 GMT</pubDate>
     </item>
@@ -71,14 +71,14 @@
     <item>
       <title>Windows 活动记录器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</link>
-      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交/u/basecatcherz   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交 /u/basecatcherz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</guid>
       <pubDate>Wed, 13 Mar 2024 08:56:38 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
-      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 所以，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
+      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</guid>
       <pubDate>Wed, 13 Mar 2024 02:48:21 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>全职工作的专业人士是否有资格参加 GSoC？如果没有，请建议让有影响力的开源贡献在简历中看起来更好并获得一些钱。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/</link>
-      <description><![CDATA[我来自三级学院，一直想以良好的能力为开源做出贡献，以便在简历和金钱上获得足够的认可，从来不知道像 GSoC 这样的东西存在，我现在正在工作，我有资格获得它吗？如果不是，那么我还必须通过哪些其他途径在开源方面做出有意义的贡献才能获得更好的职业前景，当然还可以从中赚到一些钱？我擅长 Golang、Kubernetes、gRPC、Python、Rest。   由   提交 /u/Specialist-Animal915    reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我来自三级学院，一直想以良好的能力为开源做出贡献，以便在简历和金钱上获得足够的认可，从来不知道像 GSoC 这样的东西存在，我现在正在工作，我有资格获得它吗？如果不是，那么我还必须通过哪些其他途径在开源领域做出有意义的贡献，以获得更好的职业前景，当然还可以从中赚到一些钱？我擅长 Golang、Kubernetes、gRPC、Python、Rest。   由   提交 /u/Specialist-Animal915    reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/</guid>
       <pubDate>Tue, 12 Mar 2024 18:28:53 GMT</pubDate>
     </item>
