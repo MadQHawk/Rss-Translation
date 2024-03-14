@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 14 Mar 2024 00:52:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 03:14:32 GMT</lastBuildDate>
+    <item>
+      <title>[援助请求] 解决溢出的内容 x</title>
+      <link>https://www.reddit.com/r/webdev/comments/1beaxh0/aid_request_resolving_overflowing_content_x/</link>
+      <description><![CDATA[当在像 Android 这样的小屏幕上时，我的网站上的某些内容会导致 x 轴溢出，即使我有正常的空白、断词， max-w-[100dvw] 和 px-0。 我只是无法解决这个问题。我在使用 Flex 显示时总是会遇到这种情况。 您可以在 https://elcato.sb.sa/courses/uqucis/cs1312/quizzes/arrays-address/rkv6mmc3fxusbgy 你也会遇到同样的问题在浏览器堆栈中&gt;三星 S23 13 &gt; Chrome 我确实做了研究，但这是我无法找到针对我的具体情况的答案的情况之一 提前致谢。 &lt; !-- SC_ON --&gt;  由   提交/u/Saad5400  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1beaxh0/aid_request_resolving_overflowing_content_x/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们都在哪里找到副业？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1beapoi/where_do_yall_find_your_side_gigs/</link>
+      <description><![CDATA[只是想在晚上做一些额外的工作——经济形势很糟糕。你们都在使用服务、广告、推销电话，或者我们现在如何招揽自由职业者业务吗？ 😫😫😫  &amp; #32；由   提交 /u/unicorndewd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1beapoi/where_do_yall_find_your_side_gigs/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>标准 API 身份验证流程 - 为什么事情比这更复杂？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1beangk/standard_api_auth_flow_why_complicate_things_more/</link>
+      <description><![CDATA[       由   提交/u/NuGGGzGG   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1beangk/standard_api_auth_flow_why_complicate_things_more/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试学习 AJAX，但我发现它违反直觉。你能帮我理解一下吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bealrl/im_trying_to_learn_ajax_but_i_find_it/</link>
+      <description><![CDATA[注意：我用的是Flask。 我在网上找到了很多JS代码，比如这个： &lt; pre&gt;window.onload = function() { var xhr = new XMLHttpRequest(); xhr.open(&#39;POST&#39;, &#39;/get_data&#39;, true); xhr.setRequestHeader(&#39;Content-Type&#39;, &#39;application/json&#39;); xhr.onload = function() { if (xhr.status === 200) { var data = JSON.parse(xhr.responseText); document.getElementById(&#39;output&#39;).innerText = data.message; } }; xhr.send(); }  但是我发现违反直觉的是，在检查xhr.status之后，有xhr.send();。  比如，我们如何在发送请求之前检查状态？   由   提交/u/Rachid90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bealrl/im_trying_to_learn_ajax_but_i_find_it/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django 后端和 React 前端 - 如果 Django HttpResponse 太大，前端会收到空响应</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bead1k/django_backend_and_react_frontend_frontend/</link>
+      <description><![CDATA[大家好。昨天我在我的应用程序上发现了一个错误，该错误一直是一个有待解决的谜。 正如标题所述，我有一个 Django (python) 后端和一个 React (javascript) 前端。我在前端使用 ajax 将 POST 请求发送到后端。总的来说，这工作得很好。但是，问题在于： 我的后端使用 request.session 来存储一些 pandas 数据帧。虽然据我所知这工作得很好，但这些数据帧可能非常大。为了将其发送到前端进行显示，我使用 df.to_dict(orient=“records”) 对其进行转换，然后通过 HttpResponse 发送该结果，如下所示： return HttpResponse(json.dumps({ &quot; data&quot;: data, })) 其中 data 是 to_dict 结果。 当使用“Inspect”时浏览器菜单中的选项（在 Edge 和 Chrome 中尝试过），我可以看到响应大小为 86.2MB。不过，响应太大，无法在检查菜单中查看，并且当尝试在我的前端打印它时（或者甚至像我对所有其他消息所做的那样使用 JSON.parse ），它是空字符串并导致 JSON.解析失败。 根据我收集的信息，Django 在发送此响应的过程中默默地失败了，或者我的前端（或浏览器）拒绝接收完整的响应。我要补充的是，当响应小于 86.2MB 时，此后端调用会起作用，因此它肯定与响应太大有关。 我尝试更改 settings.py 中的 DATA_UPLOAD_MAX_MEMORY_SIZE没有效果。 有人知道这里会发生什么吗？请随意提问，因为我可能错误地遗漏了一些细节。   由   提交/u/peoples888  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bead1k/django_backend_and_react_frontend_frontend/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚拟主机。客户或代理机构应该付款吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bea3w4/web_hosting_client_or_agency_should_pay/</link>
+      <description><![CDATA[让客户自行设置域并托管，或者由代理机构设置并每月向客户开具发票，有何优缺点？    由   提交/u/infrared305  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bea3w4/web_hosting_client_or_agency_should_pay/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:16:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开发者揭秘 Google 跟踪代码管理器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1be9wdl/demystifying_google_tag_manager_for_developers/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/GullibleEngineer4  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1be9wdl/demystifying_google_tag_manager_for_developers/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>架构可能不是问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1be9pqg/the_architecture_might_not_be_the_problem/</link>
+      <description><![CDATA[   /u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1be9pqg/the_architecture_might_not_be_the_problem/</guid>
+      <pubDate>Thu, 14 Mar 2024 01:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要为我的小型初创公司制作网站，我需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1be9hlw/i_need_to_make_website_for_my_small_starting_up/</link>
+      <description><![CDATA[大家好，希望这里允许这样做... 我最近接受了小型家族企业的工作机会。他们对我来说的首要目标是在线销售以及为公司制作网站，但问题是...我以前从未制作过网站.. ​ &lt; p&gt;这里有人可以指导我一个好的入门方向吗？该公司将向当地消费者修理和销售高尔夫球车。用店主的话说，他“希望当当地人搜索要购买的高尔夫球车时，网站就会出现”。 ​ 一切都有帮助。我学得很快，并且一直在 YouTube 上做一些相关的作业，但我想我应该发帖寻求专业人士的帮助。 提前致谢   由   提交 /u/DabbedOutNinja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1be9hlw/i_need_to_make_website_for_my_small_starting_up/</guid>
+      <pubDate>Thu, 14 Mar 2024 01:47:37 GMT</pubDate>
+    </item>
     <item>
       <title>Facebook 和：图像抓取延迟？</title>
       <link>https://www.reddit.com/r/webdev/comments/1be7tt4/facebook_ogimage_scrape_is_delayed/</link>
@@ -43,72 +106,9 @@
     <item>
       <title>什么样的人/企业会使用人工智能来生成网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1be4t48/what_kind_of_people_businesses_would_use_ai_to/</link>
-      <description><![CDATA[我经营自己的咨询公司，并且已经使用无代码工具有一段时间了。随着人工智能工具的发展，现在可以简单地根据提示创建一个网站（这里有一个例子 - https://soloist.ai/） 。我很好奇，与传统的 webdev 团队或混合无代码工具解决方案相比，谁会从使用此类工具中受益最多？   由   提交/u/joodfish  [链接] [评论]]]></description>
+      <description><![CDATA[我经营自己的咨询公司，并且已经使用无代码工具有一段时间了。随着人工智能工具的发展，现在可以简单地根据提示创建一个网站（这里有一个例子 - https://soloist.ai/） 。我很好奇，与传统的 Webdev 团队或混合无代码工具解决方案相比，谁会从使用此类工具中受益最多？   由   提交/u/joodfish  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1be4t48/what_kind_of_people_businesses_would_use_ai_to/</guid>
       <pubDate>Wed, 13 Mar 2024 22:24:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使符号与文本垂直对齐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be4m6z/how_to_get_symbol_align_vertically_with_the_text/</link>
-      <description><![CDATA[ » 提供最佳解决方案   我似乎无法集中证明 chevron 的合理性文本。它似乎总是出现在顶部。  ``` &lt;风格&gt; .container { 显示：flex;对齐项目：居中； } .text { 字体粗细：粗体；行高：0.6；垂直对齐：中间 }   &gt;”&lt;/span&gt; 提供最佳解决方案  ```   由   提交 /u/Immigerated2TakeUrJob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be4m6z/how_to_get_symbol_align_vertically_with_the_text/</guid>
-      <pubDate>Wed, 13 Mar 2024 22:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>重试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be4ldp/retries/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be4ldp/retries/</guid>
-      <pubDate>Wed, 13 Mar 2024 22:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>OAuth 2.0 / 安全存储客户端 ID 和客户端密钥</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be45t7/oauth_20_securely_storing_client_id_and_client/</link>
-      <description><![CDATA[大家好， 这是我第一次在 Bigin by Zoho 和 Adob​​e Sign 之间构建 API 集成。我了解 OAuth 流程的一些细节，但我的问题是关于我的代码中的客户端 ID 和密钥。我是否应该将它们都设置为变量，以便它们被盗的可能性更小？  除此之外，数据将通过 HTTPS 传递。还有什么我应该思考或考虑的吗？  谢谢！   由   提交 /u/Dantesdavid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be45t7/oauth_20_securely_storing_client_id_and_client/</guid>
-      <pubDate>Wed, 13 Mar 2024 21:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地托管网站并将其部署到互联网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be3vhy/local_hosting_websites_and_deploying_them_to_the/</link>
-      <description><![CDATA[你好r/webdev 我有一个今天的问题，想知道是否有人能给我指出正确的方向 我想知道如何在我的电脑上为一堆不同的网站设置本地主机。我问这个是因为我试图启动一个为我当地的人们提供小型自由网页设计，我只是收集了一份可能想要一个网站的潜在人的列表，但我意识到他们会想要一个域名并且他们在互联网上 我是想知道一些事情，例如配置域，以及部署到我拥有的计算机本地托管的互联网。我已经拥有计算机和我只想知道部署过程的所有内容。 谢谢提前这么多   由   提交 /u/fornienyeten   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be3vhy/local_hosting_websites_and_deploying_them_to_the/</guid>
-      <pubDate>Wed, 13 Mar 2024 21:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于网页上简单但可搜索的数据的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be3rl1/advice_on_simplebut_searchabledata_on_a_web_page/</link>
-      <description><![CDATA[我正在寻找一种方法，以可搜索和可过滤的方式在网页上显示简单电子表格中的数据，并且我正在尝试找出最佳方法。 我有几个包含不同数据的电子表格，这些数据的行数在 30-100 行（最多 200 行）之间，最多可能有 20 列。这些电子表格可以显示联系人（包含联系信息的医生办公室）或当前项目等内容。数据需要存放在可由技术能力较低的员工编辑的地方，例如 Google Sheets、Microsoft Lists 或 Airtable。例如，支持包含联系信息的小组。 在前端，用户不仅可以看到整个列表，还可以搜索字段（必填）或过滤器（最好有）。理想情况下，它能够嵌入到我们 Drupal 站点的页面中，但将其显示在单独的页面上也不会造成影响。  如果一切都一样，我们可以简单地拥有一个只能由选定的员工编辑的公共 Google 表格。这将是可搜索和可过滤的。但是，显然，看起来不太专业。 这似乎可以通过 Google 的 Appsheet 或 Microsoft 的 PowerApp 等新工具来解决：它们拥有易于编辑的数据库，以及创建可嵌入的应用程序（尽管是在 iframe 中）的能力。但它似乎也比实际要求更复杂。也许？ 我还搜索了 javascript 的可能性来显示 Google 表格中的数据，但它似乎也不太理想。  如果你正在看这样的事情，你会如何处理它？    由   提交 /u/areseven   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be3rl1/advice_on_simplebut_searchabledata_on_a_web_page/</guid>
-      <pubDate>Wed, 13 Mar 2024 21:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国的开发人员以及来自印度和远东的远程工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be3f3f/uk_based_devs_and_remote_work_from_india_and_the/</link>
-      <description><![CDATA[最近开始寻找新角色，我看到很多来自印度和更远的东部的远程合同和全职开发角色，在英国的 LinkedIn 上。这里有开发人员担任过这些角色之一吗？他们像什么？你如何获得报酬？时差是个问题吗？ 任何信息都很好，谢谢。    由   提交/u/remote_hinge  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be3f3f/uk_based_devs_and_remote_work_from_india_and_the/</guid>
-      <pubDate>Wed, 13 Mar 2024 21:29:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何托管 3d 模型预览。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be2noh/how_to_host_3d_model_preview/</link>
-      <description><![CDATA[大家好！ 我对网络编程知之甚少，我希望有人能给我指出正确的方向创建类似这样的内容： https://bestcustomjewelers.com/?a=19-01-2024&amp;b =390114C 我看过一些具有类似结果的 YouTube 教程，但想检查一下这个社区的建议。提前致谢！   由   提交/u/mutable_substance  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be2noh/how_to_host_3d_model_preview/</guid>
-      <pubDate>Wed, 13 Mar 2024 21:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome DevTools 中隐藏的复活节彩蛋 - 有人找到了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be2i7o/easter_egg_hidden_in_chrome_devtools_has_anyone/</link>
-      <description><![CDATA[       由   提交/u/denno020  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be2i7o/easter_egg_hidden_in_chrome_devtools_has_anyone/</guid>
-      <pubDate>Wed, 13 Mar 2024 20:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>合同签署平台解决方案不是非常昂贵吗？我应该自己做吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1be1st7/contract_signing_platform_solution_that_isnt/</link>
-      <description><![CDATA[我现在对文档签名情况感到非常困惑。虽然具有法律约束力的字段、表格和合同很容易集成到网站中，但实际上拥有一项用户友好的服务（允许用户发送合同并签署合同）的成本相当昂贵。 例如，我有一位客户每月需要签署约 30 份简单的数字合同。它们都是一样的，只需要符合 HIPAA 要求。但成本，我不能把它降到每份合同 3 美元以下。另一位客户也有类似的故事，他每个月都需要几份合同，但实际上每份合同或更多合同要支付几美元。考虑到它是多么简单，这似乎很疯狂。我几乎觉得我可以构建一个合同签署应用程序并使用它？我错过了什么吗？   由   提交 /u/atalkingfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1be1st7/contract_signing_platform_solution_that_isnt/</guid>
-      <pubDate>Wed, 13 Mar 2024 20:25:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
