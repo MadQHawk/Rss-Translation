@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 15 Mar 2024 03:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 06:15:08 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 act CLI 工具在本地运行 GitHub 操作</title>
+      <link>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</link>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</guid>
+      <pubDate>Fri, 15 Mar 2024 05:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试自动化最佳实践</title>
+      <link>https://www.reddit.com/r/automation/comments/1bf4rqt/test_automation_best_practice/</link>
+      <description><![CDATA[大家好！我刚刚加入这里。只是想深入了解您的团队在测试自动化方面的实践。 假设我们有一项新功能。为该功能准备好测试用例后，您是否还要创建测试自动化脚本？或者在自动化之前手动测试它？ 在我以前的公司中，只有在手动测试功能之后才会创建自动化，并且测试是重复的并用于回归。但我现在的公司，情况就很不一样了。我们的任务是创建自动化并使用该自动化来测试该功能，这似乎需要大量工作，因为感觉我们正在测试该功能并测试自动化脚本/流程。  你能分享一下你的想法吗？或者您团队中的流程？谢谢！   由   提交/u/ccttaallyysstt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bf4rqt/test_automation_best_practice/</guid>
+      <pubDate>Fri, 15 Mar 2024 03:44:12 GMT</pubDate>
+    </item>
     <item>
       <title>质量保证自动化项目</title>
       <link>https://www.reddit.com/r/automation/comments/1beufg8/qa_automation_project/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>世界上第一位人工智能软件工程师：Devin - 有一个人工智能可以做到这一点</title>
       <link>https://www.reddit.com/r/automation/comments/1bdvgd0/worlds_first_ai_software_engineer_devin_theres_an/</link>
-      <description><![CDATA[       由   提交 /u/Ok_Sound3244   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/Ok_Sound3244   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bdvgd0/worlds_first_ai_software_engineer_devin_theres_an/</guid>
       <pubDate>Wed, 13 Mar 2024 16:16:13 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>帮助远程控制电源</title>
       <link>https://www.reddit.com/r/automation/comments/1baorsj/help_with_controlling_power_supply_remotely/</link>
-      <description><![CDATA[       您好，我正在开发一个即将进行的项目，出现了一个问题，让我陷入了紧要关头。我有一台计算机（见图），将其放入防水瓶中并部署在水下，由电池供电。我需要某种方法根据脚本远程打开/关闭电脑。我隐约认为这可以使用 arduino 或某种微控制器来完成。有人可以给我指导或指出正确的方向吗？计算机断电非常重要。它可能只是一台已关闭的计算机。第二张图片是电池   由   提交/u/IAmFishman1989   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       您好，我正在开发一个即将进行的项目，出现了一个问题，让我陷入了紧要关头。我有一台计算机（见图），将其放入防水瓶中并部署在水下，由电池供电。我需要某种方法根据脚本远程打开/关闭电脑。我隐约认为这可以使用 arduino 或某种微控制器来完成。有人能给我指导或指出正确的方向吗？计算机断电非常重要。它可能只是一台已关闭的计算机。第二张图片是电池   由   提交/u/IAmFishman1989   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1baorsj/help_with_controlling_power_supply_remotely/</guid>
       <pubDate>Sat, 09 Mar 2024 18:40:04 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/_swax_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1b9ycym/interactively_audit_system_security_with_ai/</guid>
       <pubDate>Fri, 08 Mar 2024 20:29:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试将 Youtube 视频转录为文本的工作流程自动化，发送到 chatgpt，并提示重新编写视频脚本</title>
-      <link>https://www.reddit.com/r/automation/comments/1b95eya/trying_to_automate_a_workflow_of_youtube_videos/</link>
-      <description><![CDATA[ 由   提交 /u/THCrunkadelic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b95eya/trying_to_automate_a_workflow_of_youtube_videos/</guid>
-      <pubDate>Thu, 07 Mar 2024 21:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Originality AI Review：针对 SEO 和抄袭检测的​​ Originality AI 的全面回顾</title>
-      <link>https://www.reddit.com/r/automation/comments/1b91y0f/originality_ai_review_a_comprehensive_review_of/</link>
-      <description><![CDATA[   /u/Chisom1998_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b91y0f/originality_ai_review_a_comprehensive_review_of/</guid>
-      <pubDate>Thu, 07 Mar 2024 18:33:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
