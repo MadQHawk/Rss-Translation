@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 18:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 21:10:22 GMT</lastBuildDate>
+    <item>
+      <title>最好的音频播放器应用</title>
+      <link>https://www.reddit.com/r/software/comments/1bfnd4d/best_audio_player_app/</link>
+      <description><![CDATA[您好，我正在寻找一款适用于 iPhone 的音频播放器应用程序，它可以让我重命名文件、设置重播标记（例如：从 0:05 到 0 重复） :20)，并且有后退/前进 x 秒按钮。我有 vlc，但有问题。   由   提交 /u/Ayouby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bfnd4d/best_audio_player_app/</guid>
+      <pubDate>Fri, 15 Mar 2024 20:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找员工排班软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bfmuii/looking_for_staff_rostering_software/</link>
+      <description><![CDATA[您好！ 我正在寻找一个员工排班工具，为医院大约 30 名员工生成每月排班表。有几个参数需要考虑：每个日历日有一个 24 小时轮班，每个轮班有 4 名工作人员。 4组工作人员。 。工作人员不能连续几天轮班。每个月我都会收到同事的通知，他们哪一天不能轮班或想要轮班，所以这也是重要的一部分！花名册为一年 365 天、24/7。最好是免费软件或非常便宜的软件！ 提前致谢！   由   提交 /u/freedef   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bfmuii/looking_for_staff_rostering_software/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>B2C 库存数据库设计问题</title>
+      <link>https://www.reddit.com/r/software/comments/1bfm3kv/b2c_inventory_database_design_questions/</link>
+      <description><![CDATA[我最近开始重构一个旧的日志转储，该日志转储对存储批量杂货/农产品的库存进行了相对非结构化的快照，以便我的销售和分析同事可以通过关系数据库进行更高效/准确的查询。我正在逐步淘汰旧日志并设计一个名为 inventory_transactions 的新表，该表旨在成为任何给定时间库存的真实来源，我现在正在调试/测试一个实现，并且在我的下一个sprint 我正在构建一个分类帐作为单独的表，以充当分类帐并通过我们的订单收据实现更好的销售查询。 inventory_transactions 和新的分类帐表需要协同工作；它们都有主键 ID，并且在实际情况下应该具有接近 1 对 1 的映射，这对于存储非常有帮助。数据只需要保存在每年的窗口内，我的估计是这些表在给定时间将有大约 100k-1M 条目，线性依赖于 1k-10k 用户的数量。每个交易表都会有一些无法相互链接的条目，例如 inventory_transactions 中的订单替换和分类帐中的折扣；维恩图至少有 95% 的重叠。 1) 我一直在争论是否让库存交易持有分类帐交易的 ID，或者反过来，或者两者兼而有之。 此外，现在的数据库结构是整体式的，但我试图坚持敏捷方法，并为以后更改拓扑敞开大门。因为事务表可以作为处理业务逻辑的事实来源，2) 我可能会在以后缩小所需的窗口以提高效率，并稍后将其写入副本；这是一种干净的方法，还是我忽略了迁移的需要？ 我之前已经经历了地狱般的过程来扩充现有架构，所以我也想保持对列灵活性的了解如果以后需要考虑的话。现在我有 10 个数字/整数列来存储标识符和可用/已售/过期/等，以及一个“厨房水槽”。 JSON 列，用于区分更精细的详细信息，例如事务是否对应于项目替换。 3) 这个 10-ints-plus-a-JSON 模式是我可以干净利落地继续使用的东西，还是我现在可以从拆分列中受益？ 我的 PM还说最终实现用户钱包对于跟踪货币/商店信贷流和法规非常重要，因此这让我思考4）将所有分类账/货币交易存储在同一个表中会带来什么好处和缺点，如果其中一个（公司的）比其他所有的发生得更频繁？ 我只有一名大学外的 YoE，没有其他工程同事，更不用说导师了，不不要问我是怎么来到这里的，但市场很艰难，我总是喜欢挑战；任何意见将不胜感激！ 编辑：我刚刚将其输入 ChatGPT 以获得一些初步建议，但它仅概述了一般权衡，而没有提供太多基于业务经验的具体指针。    由   提交 /u/npeazy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bfm3kv/b2c_inventory_database_design_questions/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:22:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何离线下载本页</title>
+      <link>https://www.reddit.com/r/software/comments/1bfm15n/how_to_download_offline_this_page/</link>
+      <description><![CDATA[大家好。我需要整个页面及其所有子类别的离线状态。我希望它的离线视图与在线视图相同。：  https: //help.mamut.com/no/mhelp/rtm/mhelp.htm  问题是我已经尝试了所有下载方法，但似乎无法离线下载。有人帮我吗？它似乎是 javascript，所以这就是为什么我遇到一些困难。    由   提交/u/Nvidos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bfm15n/how_to_download_offline_this_page/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:19:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>翻译也很重要</title>
+      <link>https://www.reddit.com/r/software/comments/1bfllzp/translations_are_important_too/</link>
+      <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bfllzp/translations_are_important_too/</guid>
+      <pubDate>Fri, 15 Mar 2024 19:01:33 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个简单的工具，让阅读文章变得更容易 - 对任何人免费！整理工具</title>
       <link>https://www.reddit.com/r/software/comments/1bfjyhh/i_made_a_simple_tool_to_make_reading_articles/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嘿伙计们，我正在寻找适合我的想法的产品市场，即创办一家营销公司，与软件公司合作，为他们争取前 1000 个用户12个月内。  我与一家现有的 B2B 软件公司合作已近两年，在此期间我们发展迅速。我想利用我用来扩展该软件公司的服务和技术来帮助其他软件初创公司。这些是我为现有合作伙伴提供的吸引新用户的服务：冷电子邮件营销活动、微影响者合作伙伴提供的一致内容、每月 SEO 更新的漂亮现代网络流网站、博客和网站。支持/帮助页面内容、支持团队、销售团队、用户管理社区、回答论坛问题，当然还有 FB、Google Ads 和 Youtube 上的广告。所有这些不同的服务聚集在一起形成一个用户收集引擎，一旦全部设置完毕，该引擎就可以低成本运行。  我想与软件公司建立合作伙伴关系，首先按成本价设置所有这些服务，并按月收取成本费，然后对与我合作的每个软件公司进行股权分割。  我的想法是，喜欢编码但不想与业务的营销/人员方面互动的独立 SaaS 开发人员可以通过股权分割来为他们处理这一问题。正如我所说，我的目标是帮助软件公司在 12 个月内获得前 1000 个用户。在过去 12 个月里，我帮助我合作的现有软件公司增加了大约 30,000 名用户。  如果软件公司不想要这个产品，我不想投入大量时间和资源。你们认为我如何将我的服务定位为对软件公司产生最大积极影响的报价，并让软件公司与我合作？  &amp; #32；由   提交 /u/Willentious   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bf28hs/do_early_software_companies_want_help_getting/</guid>
       <pubDate>Fri, 15 Mar 2024 01:36:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>HotspotAutoLogin：自动执行 Wi-Fi/以太网 WEB 登录</title>
-      <link>https://www.reddit.com/r/software/comments/1bf0u8g/hotspotautologin_automate_web_logins_for/</link>
-      <description><![CDATA[嘿 r/software 社区！ 👋 我想分享我的项目 HotspotAutoLogin，这是一个 Python 工具，可以自动执行使用强制门户 Web 登录的公共 Wi-Fi 或以太网的登录过程。不再需要手动登录 - 该脚本会自动为您处理基于 Web 的身份验证。如果您经常连接到公共热点（例如咖啡馆、酒店或机场、学校等），它会非常有用... 使用 HotspotAutoLogin，您可以在每次连接到公共 Wi-Fi 或公共热点时忘记输入凭据。以太网热点。只需安装、配置并让它处理剩下的事情。它轻量、高效、开源，旨在简化您的连接体验。  🔗 GitHub 存储库：HotspotAutoLogin 功能：  轻松设置：只需配置一次热点凭据，然后让 HotspotAutoLogin 完成剩下的工作。 始终连接：当您离开时，它可以让您保持连接。 可自定义配置文件：为不同的网络设置不同的配置文件。  尝试一下，让我知道你的想法！ 🚀   由   提交 /u/dnzsfk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bf0u8g/hotspotautologin_automate_web_logins_for/</guid>
-      <pubDate>Fri, 15 Mar 2024 00:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows用户</title>
-      <link>https://www.reddit.com/r/software/comments/1bf0fuw/windows_users/</link>
-      <description><![CDATA[知识用户，计算机上是否需要有管理员用户。或者您的计算机上可以有非管理员用户吗？计算机需要执行哪些常见操作需要管理员用户 2) 当您的计算机上只有一个用户帐户时，将应用程序和软件安装到用户文件夹而不是安装到用户文件夹有什么好处所有文件夹和整个计算机   由   提交 /u/Fly-Hiklnf-6193   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bf0fuw/windows_users/</guid>
-      <pubDate>Fri, 15 Mar 2024 00:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在退出 Roblox 时使用自动点击器？</title>
-      <link>https://www.reddit.com/r/software/comments/1beybha/how_to_use_autoclickers_while_tabbed_out_of_roblox/</link>
-      <description><![CDATA[我现在正在使用 TinyTask 在 Roblox 上自动执行增量游戏，但我不知道如何在退出时使用它，所以我可以这样做玩的时候做其他事情。我知道 Autosofted Key Presser 有这样的功能，但我的试用期已过期。有解决办法吗？   由   提交 /u/Much-Pollution5998    reddit.com/r/software/comments/1beybha/how_to_use_autoclickers_while_tabbed_out_of_roblox/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1beybha/how_to_use_autoclickers_while_tabbed_out_of_roblox/</guid>
-      <pubDate>Thu, 14 Mar 2024 22:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我要复制我爸爸的硬盘</title>
-      <link>https://www.reddit.com/r/software/comments/1bevw57/i_to_take_a_copy_of_my_dads_hard_drive/</link>
-      <description><![CDATA[我一直在研究磁盘驱动器克隆和备份解决方案，但我想知道是否有更简单的选项。场景是这样的——我父亲最近去世了，我需要通过他的电脑整理他的照片和法律文件。他的合伙人希望将他们的所有照片上传到云存储，而他的遗产执行人不断要求提供不同的文件。我不想运输机器或坐在那里好几天，所以我的计划是随身携带 SSD，然后复制所有内容，这样我就可以将数据带回家按照自己的节奏进行处理。我不完全相信他已将内容存储在典型位置，因此仅克隆用户文件夹是不够的。 我理想的情况是到达那里，将一个轻量级免费工具下载到他的计算机上，插入 SSD，按下按钮，然后就可以了。如果可能的话，我想避免实时 CD 刻录或可启动 USB，因为当我开始扰乱其他人机器的启动行为时，我会感到紧张。 备份不需要可启动，而且我&#39;我只做一次，所以调度和版本控制是多余的。我确实需要的一件事是驱动器可以从我的 MacBook 上浏览，因此它需要是 Mac 可读文件系统，并存储为实际文件而不是压缩磁盘映像。 有关适合的软件的任何建议这个规范（如果存在）将不胜感激。 ​ ***  好吧，不知怎的，我之前设法完全破坏了标题发帖 - 读作“我需要一份副本......”   由   提交/u/hobo_fapstronaut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bevw57/i_to_take_a_copy_of_my_dads_hard_drive/</guid>
-      <pubDate>Thu, 14 Mar 2024 20:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>离线测验/测试制作应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1bevcli/offline_quiztest_maker_applications/</link>
-      <description><![CDATA[我只是想测试一下自己。具有多项选择答案的问题。网上的一切都需要一些荒谬的订阅。是否有任何离线软件（即使它收费）可以创建测验/测试？它可以像你喜欢的那样简单。事实上，越简单越好。我不在乎它是否是九十年代的。最好的选择是什么？   由   提交 /u/islandradio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bevcli/offline_quiztest_maker_applications/</guid>
-      <pubDate>Thu, 14 Mar 2024 20:37:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
