@@ -4,7 +4,76 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 15 Mar 2024 06:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 09:13:25 GMT</lastBuildDate>
+    <item>
+      <title>我即将执行的看板任务与 Trello 有何不同？</title>
+      <link>https://feed.indiehackers.world/post/0674d8776b</link>
+      <description><![CDATA[收到一些读者关于我即将推出的 Google Workspace 看板任务扩展的一些问题，其中一个值得注意的问题是它与 Trello 的区别。
+有两个主要区别；
+
+它完全原生集成到您的 Google Workspace 中，因此不同工具之间无需进行上下文切换。外观和风格与 Google 的设计相同，并且您的所有 Google 任务都会同步。
+接下来有一个名为“完成工作”的核心功能。这是一个看板，可以方便地向您显示所有看板中的所有任务，根据截止日期分为“今天待办事项”和“本周待办事项”。这样你就知道你应该做什么。
+除此之外，显然它还拥有 Trello 的所有功能；无限的看板、无限的列表、拖放任务、创建清单、Markdown 任务注释等等！
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0674d8776b</guid>
+      <pubDate>Fri, 15 Mar 2024 09:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们将 Proxycurl 打造成一家价值 7 位数的公司。看着我们在 Sapiengraph 上失败</title>
+      <link>https://feed.indiehackers.world/post/2b24c07e35</link>
+      <description><![CDATA[让我们面对现实吧，许多公司（包括我们自己）都曾一度使用电子表格来跟踪潜在客户和潜在客户。我绝对做到了。
+这就是我们的策略。我们专门针对这些 Google 表格模板制作了高质量的博客文章，重点关注与 CRM 和潜在客户跟踪相关的各种关键字。但尽管我们付出了努力，我们仍然没有排名。
+我想我知道为什么。但我会把它留到明天。请继续关注。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2b24c07e35</guid>
+      <pubDate>Fri, 15 Mar 2024 08:31:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们花了 6 个月的时间和 1,000 名用户在区块链上构建了一个开发人员生产力工具。</title>
+      <link>https://feed.indiehackers.world/post/f0b2be5839</link>
+      <description><![CDATA[今天，Perspect 在 Product Hunt 上推出
+第 0 个月启动区块链
+第 1 个月构建 MVP - 0 位用户
+第 2 个月推出封闭测试版 - 100 位用户
+第 3 个月修复 MVP - 150 位用户
+第 4 个月公开测试版 - 250 位用户
+第 5 个月 ETH 丹佛 - 637 位用户
+第 6 个月在 PH 上发布 - 1,050 位用户
+希望得到反馈
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f0b2be5839</guid>
+      <pubDate>Fri, 15 Mar 2024 08:17:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用此模板在开始时定义您的项目。</title>
+      <link>https://feed.indiehackers.world/post/cb6f96555c</link>
+      <description><![CDATA[当您启动一个项目时，请使用此模板来定义它。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/cb6f96555c</guid>
+      <pubDate>Fri, 15 Mar 2024 08:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>聘请离岸开发商来改造您的业务</title>
+      <link>https://feed.indiehackers.world/post/4a60de1578</link>
+      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/4a60de1578</guid>
+      <pubDate>Fri, 15 Mar 2024 07:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是网络钓鱼以及如何预防？</title>
+      <link>https://feed.indiehackers.world/post/7c33d94936</link>
+      <description><![CDATA[最好让一切都在掌控之中，不是吗？
+但是，有个好消息！
+我正在构建人工智能反网络钓鱼软件，每次检测到网络钓鱼链接时，它都会通知您。
+我目前正在收集反馈，非常非常想听听您对这个想法的看法！
+如果您想注册愿望清单，这里是登陆页面的链接！
+https://www.omterp.com/
+产品准备好后我会通知您
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7c33d94936</guid>
+      <pubDate>Fri, 15 Mar 2024 06:41:07 GMT</pubDate>
+    </item>
     <item>
       <title>名称建议：SimpleURL 与 LeanURL、复数与单数</title>
       <link>https://feed.indiehackers.world/post/f61dac4642</link>
@@ -17,8 +86,8 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>我们是如何转危为安的</title>
       <link>https://feed.indiehackers.world/post/6c6dcb60e7</link>
       <description><![CDATA[结论
-借助 Dualite，我们希望团队能够根据反馈更快地进行实验和迭代，以找到可行的交叉点（在初创企业中也称为 PMF）。凭借当今先进的技术要求，开发人员和设计人员所经历的重复讨论和压力可以得到解决。这是一个困难但可以解决的问题。
-此外，扩大规模还需要在我们面临竞争的行业中提供高质量的产品。因此，如果不能达到极致，就没有必要追求这一努力。我们的时间有限，从事平庸的工作或者做半生不熟的蛋糕都是浪费。
+借助 Dualite，我们希望团队能够根据反馈更快地进行实验和迭代，以找到可行的交叉点（在初创企业中也称为 PMF）。随着当今先进的技术要求，开发人员和设计人员所经历的重复讨论和压力可以得到解决。这是一个困难但可以解决的问题。
+此外，扩大规模还需要在我们面临竞争的行业中提供高质量的产品。因此，如果不能做到极致，那么追求这一努力就没有意义。我们的时间有限，从事平庸的工作或者做半生不熟的蛋糕都是浪费。
 尝试一下 https://bit.ly/DUALITE
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6c6dcb60e7</guid>
@@ -110,90 +179,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/90c147d816</guid>
       <pubDate>Thu, 14 Mar 2024 19:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找新的名称建议！由于应用程序名称与现有产品冲突</title>
-      <link>https://feed.indiehackers.world/post/79e6005a14</link>
-      <description><![CDATA[URLBoost
-网址天才
-网址轻松
-网址大师
-URLSwift
-URL忍者
-网址伪造
-网址智慧
-精通网址
-URL简化
-优联
-快速网址
-缩短
-快联
-迅捷链接
-易通
-快速网址
-链接快照
-快速链接
-SwiftURL
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/79e6005a14</guid>
-      <pubDate>Thu, 14 Mar 2024 18:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了另一个待办事项列表应用程序</title>
-      <link>https://feed.indiehackers.world/post/a219cb3458</link>
-      <description><![CDATA[你的任务在一小时内消失，
-没有登录
-没有注册
-无广告
-您可以每天经常使用它
-如果您有任何建议，请留言:)
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a219cb3458</guid>
-      <pubDate>Thu, 14 Mar 2024 17:51:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要意见：如何为您的产品实现定价页面？</title>
-      <link>https://feed.indiehackers.world/post/6d09a3328f</link>
-      <description><![CDATA[嘿伙计们！
-只是想知道，当您销售或提供某些服务（例如，您运行 SAAS 产品）时，如何为您的网站实现定价页面？ 
-你自己开发的吗？您是否考虑过在此页面上运行 AB 实验（我的意思是创建多个选项，看看哪一个吸引更多用户），如果是，您使用了哪些工具？ 
-我之所以这么问，是因为我正在开发一款可以帮助解决这个问题的产品，但我不确定这是否是一个真正的问题（有些怀疑该项目并没有带来太大的价值）当前状态或者我还没有找到我的用户群）。
-不出售任何东西，只是寻求建议和意见（如果您有兴趣，可以免费试用该产品，并让我知道您的想法https://enhanci.com/?promo=INDIEHACKERS)
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6d09a3328f</guid>
-      <pubDate>Thu, 14 Mar 2024 17:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于达到了 $1K MRR！</title>
-      <link>https://feed.indiehackers.world/post/1bd8b6dafe</link>
-      <description><![CDATA[嘿独立黑客！
-今天是一个特殊的日子，因为我终于达到了 1000 美元 MRR 🥳
-那我的事是什么？
-我经营一家名为Instantly的设计机构，我们从事产品、网络和产品设计。为初创企业和个体企业家提供品牌设计服务。目前我们的收费为 539 美元/月，并计划在下周之前将其提高到 1299 美元/月。因此，请在我们的价格上涨之前抢占席位👀
-那么我是怎么做到的呢？
-我获得客户的唯一营销策略是 Twitter，我几乎每天都会发帖并定期分享我的设计作品。如果你愿意的话，你可以关注我🤝
-下一步是什么？
-我的主要目标是到年底实现 1 万美元的 MRR，我相信我可以在那之前做到这一点，但让我们看看我们能做什么
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1bd8b6dafe</guid>
-      <pubDate>Thu, 14 Mar 2024 17:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过两年的奋斗，我推出了我的第一个产品。</title>
-      <link>https://feed.indiehackers.world/post/4ef3e11d95</link>
-      <description><![CDATA[经过两年的努力发布任何东西，我终于推出了Building Buddy，这是一个独立社区想要建立有利可图的副业项目以辞去朝九晚五的工作的黑客。我面临的主要问题是缺乏动力和支持，因此我创建了这个社区，人们可以在这里找到责任伙伴并加入策划小组，以帮助他们更快地构建盈利产品。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4ef3e11d95</guid>
-      <pubDate>Thu, 14 Mar 2024 17:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[请求反馈] 游戏化服务</title>
-      <link>https://feed.indiehackers.world/post/a5f227ebbe</link>
-      <description><![CDATA[我刚刚推出了一项服务（https://gami5d.com），该服务允许您向网站添加游戏化元素，包括基于规则的点系统、徽章、级别和排行榜。您可以根据您的应用程序自由定义复杂的规则。
-您对这样的服务感兴趣吗？登陆页面是否清楚地说明了所提供的服务？请分享您的反馈。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a5f227ebbe</guid>
-      <pubDate>Thu, 14 Mar 2024 16:30:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

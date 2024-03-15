@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 06:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 09:12:36 GMT</lastBuildDate>
     <item>
       <title>Wondershare 的 Uniconverter 是否窃取/存储我的数据？</title>
       <link>https://www.reddit.com/r/software/comments/1bf782g/is_wondershares_uniconverter_stealingstoring_my/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>HotspotAutoLogin：自动执行 Wi-Fi/以太网 WEB 登录</title>
       <link>https://www.reddit.com/r/software/comments/1bf0u8g/hotspotautologin_automate_web_logins_for/</link>
-      <description><![CDATA[嘿 r/software 社区！ 👋 我想分享我的项目 HotspotAutoLogin，这是一个 Python 工具，可以自动执行使用强制门户 Web 登录的公共 Wi-Fi 或以太网的登录过程。不再需要手动登录 - 该脚本会自动为您处理基于 Web 的身份验证。如果您经常连接到公共热点，如咖啡馆、酒店或机场、学校等，它会非常有用... 使用 HotspotAutoLogin，您可以在每次连接到公共 Wi-Fi 或公共热点时忘记输入凭据。以太网热点。只需安装、配置并让它处理剩下的事情。它轻量、高效、开源，旨在简化您的连接体验。  🔗 GitHub 存储库：HotspotAutoLogin 功能：  轻松设置：只需配置一次热点凭据，然后让 HotspotAutoLogin 完成剩下的工作。 始终连接：当您离开时，它可以让您保持连接。 可自定义配置文件：为不同的网络设置不同的配置文件。  尝试一下，让我知道你的想法！ 🚀   由   提交 /u/dnzsfk   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 r/software 社区！ 👋 我想分享我的项目 HotspotAutoLogin，这是一个 Python 工具，可以自动执行使用强制门户 Web 登录的公共 Wi-Fi 或以太网的登录过程。不再需要手动登录 - 该脚本会自动为您处理基于 Web 的身份验证。如果您经常连接到公共热点（例如咖啡馆、酒店或机场、学校等），它会非常有用... 使用 HotspotAutoLogin，您可以在每次连接到公共 Wi-Fi 或公共热点时忘记输入凭据。以太网热点。只需安装、配置并让它处理剩下的事情。它轻量、高效、开源，旨在简化您的连接体验。  🔗 GitHub 存储库：HotspotAutoLogin 功能：  轻松设置：只需配置一次热点凭据，然后让 HotspotAutoLogin 完成剩下的工作。 始终连接：当您离开时，它可以让您保持连接。 可自定义配置文件：为不同的网络设置不同的配置文件。  尝试一下，让我知道你的想法！ 🚀   由   提交 /u/dnzsfk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bf0u8g/hotspotautologin_automate_web_logins_for/</guid>
       <pubDate>Fri, 15 Mar 2024 00:30:59 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>我要复制我爸爸的硬盘</title>
       <link>https://www.reddit.com/r/software/comments/1bevw57/i_to_take_a_copy_of_my_dads_hard_drive/</link>
-      <description><![CDATA[我一直在研究磁盘驱动器克隆和备份解决方案，但我想知道是否有更简单的选项。场景是这样的——我父亲最近去世了，我需要通过他的电脑整理他的照片和法律文件。他的合伙人希望将他们的所有照片上传到云存储，而他的遗产执行人不断要求提供不同的文件。我不想运输机器或坐在那里好几天，所以我的计划是随身携带 SSD，然后复制所有内容，这样我就可以将数据带回家按照自己的节奏进行处理。我不完全相信他已将内容存储在典型位置，因此仅克隆用户文件夹是不够的。 我理想的情况是到达那里，将一个轻量级免费工具下载到他的计算机上，插入 SSD，按下按钮，然后就可以了。如果可能的话，我想避免实时 CD 刻录或可启动 USB，因为当我开始扰乱其他人机器的启动行为时，我会感到紧张。 备份不需要可启动，而且我&#39;我只做一次，所以调度和版本控制是多余的。我确实需要的一件事是驱动器可以从我的 MacBook 上浏览，因此它需要是 Mac 可读文件系统，并存储为实际文件而不是压缩磁盘映像。 有关适合的软件的任何建议这个规范（如果存在）将不胜感激。 ​ ***  好吧，不知怎的，我之前完全搞砸了标题发帖 - 读作“我需要一份副本......”   由   提交/u/hobo_fapstronaut   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在研究磁盘驱动器克隆和备份解决方案，但我想知道是否有更简单的选项。场景是这样的——我父亲最近去世了，我需要通过他的电脑整理他的照片和法律文件。他的合伙人希望将他们的所有照片上传到云存储，而他的遗产执行人不断要求提供不同的文件。我不想运输机器或坐在那里好几天，所以我的计划是随身携带 SSD，然后复制所有内容，这样我就可以将数据带回家按照自己的节奏进行处理。我不完全相信他已将内容存储在典型位置，因此仅克隆用户文件夹是不够的。 我理想的情况是到达那里，将一个轻量级免费工具下载到他的计算机上，插入 SSD，按下按钮，然后就可以了。如果可能的话，我想避免实时 CD 刻录或可启动 USB，因为当我开始扰乱其他人机器的启动行为时，我会感到紧张。 备份不需要可启动，而且我&#39;我只做一次，所以调度和版本控制是多余的。我确实需要的一件事是驱动器可以从我的 MacBook 上浏览，因此它需要是 Mac 可读文件系统，并存储为实际文件而不是压缩磁盘映像。 有关适合的软件的任何建议这个规范（如果存在）将不胜感激。 ​ ***  好吧，不知怎的，我之前设法完全破坏了标题发帖 - 读作“我需要一份副本......”   由   提交/u/hobo_fapstronaut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bevw57/i_to_take_a_copy_of_my_dads_hard_drive/</guid>
       <pubDate>Thu, 14 Mar 2024 20:59:48 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 14 Mar 2024 19:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>FOSS Figma 的替代品？</title>
+      <title>自由开源软件 Figma 的替代品？</title>
       <link>https://www.reddit.com/r/software/comments/1betsje/foss_alternative_to_figma/</link>
       <description><![CDATA[我正在寻找 Figma 的自由开源软件替代品，最好适用于 Mac，但 Windows 也可以使用。   由   提交/u/Dramatic_Law_4239   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1betsje/foss_alternative_to_figma/</guid>
