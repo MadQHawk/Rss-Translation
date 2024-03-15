@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 15 Mar 2024 15:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 18:16:44 GMT</lastBuildDate>
+    <item>
+      <title>有什么好的 Linux 开源文件转换器吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bfk20o/any_good_open_source_file_converter_for_linux/</link>
+      <description><![CDATA[我厌倦了每次要转换视频/音频时都打开 kdenlive 或 audacity   由   提交 /u/EstouFazendoPastel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bfk20o/any_good_open_source_file_converter_for_linux/</guid>
+      <pubDate>Fri, 15 Mar 2024 17:55:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的工具，让阅读文章变得更容易 - 对任何人免费！整理工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bfjii3/i_made_a_simple_tool_to_make_reading_articles/</link>
+      <description><![CDATA[下载链接： https://drive.google.com/file/d/19YqXt0keJvTB9btKldxdaRavVm1Vkb5d/view?usp=sharing 嘿 reddit， 我经常发现自己在长期、密集的文章和文本，试图让它们更容易理解。为了解决我自己的问题，我创建了一个名为“可读文章格式化程序”的小工具。这是一个简单的应用程序，可将文本分解为更易读的片段，我想也许你们中的一些人也会发现它很有帮助。 它的作用如下： 提高可读性：它通过在句号、逗号、感叹号和问号之后以及“and”和“or”等连词之前插入换行符，自动格式化任何文本块。这个简单的调整对我的可读性产生了巨大的影响。 项目符号功能：只需单击一下，您就可以向每个新行添加项目符号点，从而更轻松地浏览要点或注释。 &gt; 复制到剪贴板：将文本格式化为您喜欢的格式后，您可以将其直接复制到剪贴板，以便在任何地方轻松使用。 我如何使用它： 任何时候我遇到一篇文章或一段文字，只是一堵文字墙，我将其弹出到这个应用程序中，点击“处理”，瞧，它变得更容易处理。我最初为自己制作了这个工具，并没有抱太大期望，但它改变了我的日常阅读和笔记习惯。 一个方便的提示： 格式化文本后，我发现将其复制并粘贴到Readwok.com可以使阅读体验更加流畅。 Readwok 提供了一个干净、无干扰的环境，非常适合消化文章或任何冗长的文本。 我分享的原因： 我意识到，如果像这样简单的事情可以使我的日子过得轻松一点，也许对其他人也能有同样的效果。它并不花哨，但它可以完成工作。 如果您有兴趣，我非常乐意分享它。它是用 Python 和 Tkinter 构建的，虽然它很基础，但我相信“少即是多”的理念。哲学。请随意尝试一下！ 注意：我尝试下载自己的文件，下载后，我的浏览器或防病毒软件将该文件标记为潜在危险或有害。我想向您保证此工具中没有病毒或恶意代码。它是一个打包到可执行文件中的无害 Python 脚本，专门为提高文本可读性而设计。   由   提交 /u/redditorpegaso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bfjii3/i_made_a_simple_tool_to_make_reading_articles/</guid>
+      <pubDate>Fri, 15 Mar 2024 17:32:22 GMT</pubDate>
+    </item>
     <item>
       <title>Ralf Gommers 谈 NumPy 2.0 的发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1bff94v/ralf_gommers_on_the_release_of_numpy_20/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>许可证优先级</title>
       <link>https://www.reddit.com/r/opensource/comments/1bfai9r/license_precedence/</link>
-      <description><![CDATA[嗨， 在我正在构建桌面应用程序的场景中，为此我需要使用两个库，其中一个使用 MIT 许可证，第二个使用 GPL 3：哪一个会影响我的应用程序？ 我正在谈论一个朋友在中型公司谈论开源技术，并意识到大多数闭源项目使用具有各种许可证的软件包的混合包。但没有一家公司提供有关使用或开源代码的免责声明。 我猜这里的另一个问题是：如果一个库使用像 GPL 这样的许可证，那么“提供源代码”是否会被拒绝？仅当您修改项目中的库或使用它时才需要要求？   由   提交 /u/RustyTheCynical   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 在我正在构建桌面应用程序的场景中，为此我需要使用两个库，其中一个使用 MIT 许可证，第二个使用 GPL 3：哪一个会影响我的应用程序？ 我正在谈论一位朋友在中型公司谈论开源技术，并意识到大多数闭源项目使用具有各种许可证的软件包的混合包。但没有一家公司提供有关使用或开源代码的免责声明。 我猜这里的另一个问题是：如果一个库使用像 GPL 这样的许可证，那么“提供源代码”是否会被拒绝？仅当您修改项目中的库或使用它时才需要要求？   由   提交 /u/RustyTheCynical   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bfai9r/license_precedence/</guid>
       <pubDate>Fri, 15 Mar 2024 10:10:24 GMT</pubDate>
     </item>
@@ -39,13 +53,6 @@
       <description><![CDATA[显然，在某些国家/地区，您不能仅在受雇时为开源项目做出贡献。  在 Stackexchange 上找到此内容：  在纽约州，您很可能是一名专业员工。专业员工没有固定的工作时间，也没有固定的工作场所。如果你和客户出去吃饭，那么你就是在工作。如果你在淋浴时想出了如何解决问题，那是属于你的雇主的。作为一名专业员工，默认情况下（这也可能出现在您的合同中）是您编写的所有软件都是属于您的雇主的雇佣作品。这种安排的盛行是 FSF 要求版权转让并要求您的雇主签字的原因之一。  这听起来绝对可怕。到底发生了什么？   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bewotn/new_york_state_are_you_really_that_much_owned_by/</guid>
       <pubDate>Thu, 14 Mar 2024 21:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧑‍💻 开放接口 - 使用法学硕士自行操作计算机</title>
-      <link>https://www.reddit.com/r/opensource/comments/1beuhas/open_interface_selfoperate_computers_using_llms/</link>
-      <description><![CDATA[       由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1beuhas/open_interface_selfoperate_computers_using_llms/</guid>
-      <pubDate>Thu, 14 Mar 2024 20:01:07 GMT</pubDate>
     </item>
     <item>
       <title>开源并非不安全</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我和一个朋友进行了长时间的讨论，对开源公司有一些想法&lt; br /&gt; 每个人都可以访问所有内容（可能对任何支付工具/客户数据库都有一些有限的访问权限）。这是一件事吗？  当然，我看到了很多问题和限制，但我非常有兴趣知道它是否曾经存在，并且拥有一个足够大的社区以使其长期持续 &lt; p&gt;​ 谢谢!!   由   提交 /u/Josso_l   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdttal/is_open_source_company_a_thing/</guid>
       <pubDate>Wed, 13 Mar 2024 15:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS Backstage 的三个视角</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdt8xb/three_perspectives_from_foss_backstage/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdt8xb/three_perspectives_from_foss_backstage/</guid>
-      <pubDate>Wed, 13 Mar 2024 14:46:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

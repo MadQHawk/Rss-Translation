@@ -4,9 +4,23 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 15 Mar 2024 15:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 18:15:46 GMT</lastBuildDate>
     <item>
-      <title>如何使用 act CLI 工具在本地运行 GitHub 操作</title>
+      <title>使用 Microsoft 365 实现业务流程自动化？</title>
+      <link>https://www.reddit.com/r/automation/comments/1bfh8dw/business_process_automation_with_microsoft_365/</link>
+      <description><![CDATA[很有趣的是我们如何利用 ChatGPT、Copilot 等... https://www.crowcanyon.com/resources/webinars/march-madness-series-business -process-automation-with-m365/#   由   提交/u/crowcanyonsoftware  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bfh8dw/business_process_automation_with_microsoft_365/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:54:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个人工智能开发者：我的想法</title>
+      <link>https://www.reddit.com/r/automation/comments/1bfgity/first_ai_developer_my_thoughts/</link>
+      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bfgity/first_ai_developer_my_thoughts/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 act CLI 工具在本地运行 GitHub Actions</title>
       <link>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>世界上第一位人工智能软件工程师：Devin - 有一个人工智能可以做到这一点</title>
       <link>https://www.reddit.com/r/automation/comments/1bdvgd0/worlds_first_ai_software_engineer_devin_theres_an/</link>
-      <description><![CDATA[       由   提交/u/Ok_Sound3244   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交 /u/Ok_Sound3244   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bdvgd0/worlds_first_ai_software_engineer_devin_theres_an/</guid>
       <pubDate>Wed, 13 Mar 2024 16:16:13 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       您好，我正在开发一个即将进行的项目，出现了一个问题，让我陷入了紧要关头。我有一台计算机（见图），将其放入防水瓶中并部署在水下，由电池供电。我需要某种方法根据脚本远程打开/关闭电脑。我隐约认为这可以使用 arduino 或某种微控制器来完成。有人可以给我指导或指出正确的方向吗？计算机断电非常重要。它可能只是一台已关闭的计算机。第二张图片是电池   由   提交/u/IAmFishman1989   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1baorsj/help_with_controlling_power_supply_remotely/</guid>
       <pubDate>Sat, 09 Mar 2024 18:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 AIreelity 发现旅行目的地 - 有一个人工智能可以做到这一点</title>
-      <link>https://www.reddit.com/r/automation/comments/1ban9tg/discover_travel_destinations_with_aireelity/</link>
-      <description><![CDATA[   /u/Ok_Sound3244   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ban9tg/discover_travel_destinations_with_aireelity/</guid>
-      <pubDate>Sat, 09 Mar 2024 17:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 AI 交互式审核系统安全性</title>
-      <link>https://www.reddit.com/r/automation/comments/1b9ycym/interactively_audit_system_security_with_ai/</link>
-      <description><![CDATA[ 由   提交/u/_swax_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1b9ycym/interactively_audit_system_security_with_ai/</guid>
-      <pubDate>Fri, 08 Mar 2024 20:29:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
