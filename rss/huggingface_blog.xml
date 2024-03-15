@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Fri, 15 Mar 2024 12:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:11:48 GMT</lastBuildDate>
+    <item>
+      <title>使用 🤗 Optimum Intel 和 fastRAG 进行 CPU 优化嵌入</title>
+      <link>https://huggingface.co/blog/intel-fast-embedding</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/intel-fast-embedding</guid>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 WebSight 数据集解锁 Web 屏幕截图到 HTML 代码的转换</title>
       <link>https://huggingface.co/blog/websight</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/synthetic-data-save-costs</guid>
       <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 普适人工智能开发者大赛！</title>
-      <link>https://huggingface.co/blog/amd_pervasive_developer_ai_contest</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/amd_pervasive_developer_ai_contest</guid>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

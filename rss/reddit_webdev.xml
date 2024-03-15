@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 12:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:13:13 GMT</lastBuildDate>
+    <item>
+      <title>你如何不再关心一个项目而成为一名 PM？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bffoy7/how_do_you_stop_caring_about_a_project_enough_to/</link>
+      <description><![CDATA[好吧，也许标题是为了引起您的注意。但问题仍然存在——你如何应对一个疲惫不堪、只关心任务完成而不关心质量的 PM？对我来说，作为一名开发人员，做一些我知道是错误的事情并为用户提供更糟糕的 UX/UI 是很困难的……这让我内心疲惫不堪。  但是，如果不是经理职位，如何（或者你？）与你的上级交谈/说服他们，他们只关心任务是否完成，这些任务在完成时会对整体产品产生不利影响。不在乎？或者你只是吹口哨并忽略整个事情？   由   提交 /u/Mentalv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bffoy7/how_do_you_stop_caring_about_a_project_enough_to/</guid>
+      <pubDate>Fri, 15 Mar 2024 14:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器人攻击网站的能力有多强？有多少真实的人在攻击网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfeuuq/how_good_are_bots_at_hacking_a_site_how_many/</link>
+      <description><![CDATA[我已尽最大努力保护我的应用程序，该应用程序目前仍处于本地开发阶段。现在你永远不能太自信......我可能错过了很多我打赌的东西。我不知道在这方面该怎么做。只是上线就冒着被黑客攻击的风险吗？还是无限期地继续提高安全性？我想知道我的应用程序是否有几百个用户或几千个用户，是否有任何真正的专业黑客试图闯入，或者只是针对大公司？   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfeuuq/how_good_are_bots_at_hacking_a_site_how_many/</guid>
+      <pubDate>Fri, 15 Mar 2024 14:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数编写的代码真的非常糟糕吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfetf3/is_most_code_ever_written_really_really_bad/</link>
+      <description><![CDATA[我最近才开始涉足这一领域，所以我不确定我是否真的很不幸，或者事情是否就是这样。我们说的是混乱，没有干，没有固体，什么都没有。 🤣 别误会我的意思，我很清楚我自己的代码有多么蹩脚，只是想知道您在深入研究现有代码库时是否有类似的经历。   由   提交 /u/Accomplished_Cup1513   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfetf3/is_most_code_ever_written_really_really_bad/</guid>
+      <pubDate>Fri, 15 Mar 2024 14:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在申请软件开发实习机会，我需要简历方面的帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfeli5/i_am_applying_for_software_development/</link>
+      <description><![CDATA[      过去几个月我一直在申请 SDE 实习，但尚未收到任何通知回调。我已经做了无数次改变，但我不确定我可以添加更多什么来从人群中脱颖而出。我的简历需要帮助。 ​ https://preview.redd.it/lo77yips7ioc1.png?width=612&amp;format=png&amp;auto=webp&amp;s=80b2892d98fb3a954b2ce5c2738 827e1f2ca834a   由   提交/u/ronnyian  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfeli5/i_am_applying_for_software_development/</guid>
+      <pubDate>Fri, 15 Mar 2024 13:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为我的业务开发一个单页网站，我应该如何与开发人员正确设置它，以便将来进行更多搜索引擎优化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfd9ve/i_am_getting_a_onepager_site_developed_for_my/</link>
+      <description><![CDATA[本月我将开发一款单页程序，我们专注于将其用于某些主页功能，以增强某些帐户的入门功能。这是目前对我来说最好、最实用的选择，但它不会有搜索引擎优化，因为这是一个更高的层次……我如何确保我正在设置这个单页浏览器，具有正确的搜索引擎优化范围和我可以的其他功能将来用得着吗？我应该向开发人员询问并确保什么？我自己能做什么？谢谢    由   提交 /u/feodortwostoveski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfd9ve/i_am_getting_a_onepager_site_developed_for_my/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>接受加密货币的专用托管主机？名字便宜，还有别的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfd72v/dedicated_managed_hosting_that_accepts_crypto/</link>
+      <description><![CDATA[我的项目需要托管专用服务器。安全至关重要。你觉得Namecheap还好吗？不幸的是，我找不到任何其他提供托管专用托管并接受加密货币付款的托管提供商。    由   提交/u/me_newbie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfd72v/dedicated_managed_hosting_that_accepts_crypto/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:49:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>单个网站的两个域 - 一个主域和一个辅助域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfd3vd/two_domains_for_a_single_website_one_primary_and/</link>
+      <description><![CDATA[我正在使用提供自己域名的电子商务，假设 - hello.company.site 现在我是考虑使用我的子域，例如 - store.xyz.com（我拥有 xyz.com） 我正在考虑保留这两个子域，因为大多数用户都知道原始 URL，但第二个更方便供建议和使用。我将来可能会更多地使用第二个。  它会影响我原来的URL的SEO，这是主要问题。目前排名相当高。   由   提交 /u/Intrepid-Door-1535   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfd3vd/two_domains_for_a_single_website_one_primary_and/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当网站托管在 AWS 上时，将 AWS 列为“我们合作的品牌”是否常见？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfd1xq/is_it_common_to_list_aws_among_the_brands_weve/</link>
+      <description><![CDATA[我看到越来越多的网站通过在“我们合作的品牌”中列出他们的工具堆栈来做到这一点。我认为如果您只有 2 到 3 个品牌并且需要更多品牌来填补空白，那么它会很有用。   由   提交/u/phatangus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfd1xq/is_it_common_to_list_aws_among_the_brands_weve/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>你还在使用 Photoshop 进行网页设计吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfbhx9/yall_still_use_photoshop_for_webdesign/</link>
@@ -22,14 +78,14 @@
     <item>
       <title>您生活中的哪些部分已实现自动化？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfawz4/what_parts_of_your_life_have_you_automated/</link>
-      <description><![CDATA[例如：我现在正在寻找一所房子，并构建了一个脚本来抓取符合我的标准的房屋的住房地点。然后，新列表会通过 Slack 向我发送消息。 我还有一个脚本，可以检查我的 YouTube 播放列表中是否有我最喜欢的歌曲。如果添加了新视频，脚本会将其转换为 mp3 并将其存储在我的电脑上。 还有其他人使用像这样很酷的自动化吗？   由   提交 /u/karen_jd   [链接] [评论]]]></description>
+      <description><![CDATA[例如：我现在正在寻找房子，并构建了一个脚本来抓取符合我的标准的房屋的住房地点。然后，新列表会通过 Slack 向我发送消息。 我还有一个脚本，可以检查我的 YouTube 播放列表中是否有我最喜欢的歌曲。如果添加了新视频，脚本会将其转换为 mp3 并将其存储在我的电脑上。 还有其他人使用这样的酷自动化功能吗？   由   提交 /u/karen_jd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfawz4/what_parts_of_your_life_have_you_automated/</guid>
       <pubDate>Fri, 15 Mar 2024 10:36:59 GMT</pubDate>
     </item>
     <item>
       <title>这些类型的英雄部分被称为什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bf9ux1/what_are_these_types_of_hero_sections_called/</link>
-      <description><![CDATA[      这些有名字吗？我想查找示例，但我不知道该怎么称呼它们。 我尝试过“图片拼贴”和“网格”以及这些行周围的内容，但无济于事 https://preview.redd.it/y7pdu6xoygoc1.png?width=1410&amp;format=png&amp;auto=webp&amp;s=2173f825058c36d759ff04eaf5f367d2d806585e   由   提交/u/blunt_bear  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      这些有名字吗？我想查找示例，但我不知道如何称呼它们。 我尝试过“图片拼贴”和“网格”以及这些行周围的内容，但无济于事 https://preview.redd.it/y7pdu6xoygoc1.png?width=1410&amp;format=png&amp;auto=webp&amp;s=2173f825058c36d759ff04eaf5f367d2d806585e   由   提交/u/blunt_bear  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bf9ux1/what_are_these_types_of_hero_sections_called/</guid>
       <pubDate>Fri, 15 Mar 2024 09:24:42 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[嘿，我在 netlify 上有一个页面，使用带有 index.html、css、json 和所有基础知识的自定义域。  然后我在 vercel 上有一个使用 Sveltekit 的网站，该网站没有 index.html，但它在那里部署并运行得很好。 我想使用相同的两者的域名并在 netlify 或 vercel 上合并网站（以允许的为准）。 Sveltekit 网站将充当网站的“主页”。它将链接到 netlify 页面上的各个页面，同时删除 netlify 上的 index.html 功能并让 Sveltekit 网站接管该滚动。  如果这是唯一的方法，他们的托管可以在两个提供商上保持分离。如果有任何问题就问吧。我该如何解决这个问题？ 提前非常感谢您   由   提交/u/yayamane  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bf9dbj/is_it_possible_to_merge_my_netlify_and_sveltekit/</guid>
       <pubDate>Fri, 15 Mar 2024 08:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>引导建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf96lp/bootstrap_advice/</link>
-      <description><![CDATA[您好，我目前正在学习 bootstrap，我有这个项目。我只创建桌面版本没有问题，但是我有响应问题。例如，当我将屏幕设置为半宽时，图像和文本似乎到处都是，甚至在其他元素上也是如此。我尝试使用 Bootstrap 网格备忘单中的提示，如 col-12、row 等，但没有帮助。尝试做 img-fluid，但似乎也不起作用。我希望即使在调整窗口大小时图像也能保持在原位，并且文本元素也能调整大小。我知道可以使用 @media 元素，但是建议我仅使用引导程序。我很困惑，我什至不知道从哪里开始。感谢任何帮助。   由   提交/u/stiletto4721   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf96lp/bootstrap_advice/</guid>
-      <pubDate>Fri, 15 Mar 2024 08:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一篇文章中的 Node.js 2023 年</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf8ykh/nodejs_2023_year_in_an_article/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf8ykh/nodejs_2023_year_in_an_article/</guid>
-      <pubDate>Fri, 15 Mar 2024 08:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP 文本到列</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf8kxl/sap_text_to_columns/</link>
-      <description><![CDATA[       由   提交/u/turon555  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf8kxl/sap_text_to_columns/</guid>
-      <pubDate>Fri, 15 Mar 2024 07:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些装饰性 SVG/图像有名字吗？来自 Quizard.ai</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf8hcj/do_these_kind_of_decorative_svgimages_have_a_name/</link>
-      <description><![CDATA[       由   提交/u/Nicolello_iiiiii  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf8hcj/do_these_kind_of_decorative_svgimages_have_a_name/</guid>
-      <pubDate>Fri, 15 Mar 2024 07:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>你有多少时间在编码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf8c2n/how_much_time_are_you_coding/</link>
-      <description><![CDATA[这是我编程的第四个年头（工作中），而且我在第四家公司，我终于找到了一个可以编程的地方几乎一天中的所有时间，我们的会议都很少（上半年除了站立会议外，我只举行了 2-3 次会议）。我的第一家公司是一家银行，所以如果我能够写 3 个小时的代码，那一天对我来说就很棒了，但这种情况每两周就会发生一次。之前的公司稍微好一点，但是代码库和股东都很糟糕，所以一年半后我辞职了，来到了现在的位置。 ​ 在银行有很多会议，在以前的公司有很多空闲时间。  您一周或一天花多少时间编码？会议和空闲时间占非编码时间的比例是多少？   由   提交 /u/ChiliMarshmallow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf8c2n/how_much_time_are_you_coding/</guid>
-      <pubDate>Fri, 15 Mar 2024 07:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关我的项目的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf89zx/need_feedback_regarding_my_project/</link>
-      <description><![CDATA[所以我刚刚完成了我在 React vite 中制作的作品集网站项目以及 Framer Motion、locomotive、aceternity 和 tailwind。我花了 1 个月的时间制作它，我只想得到一些关于我的表现的反馈。   由   提交/u/Icy_Watercress1584  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf89zx/need_feedback_regarding_my_project/</guid>
-      <pubDate>Fri, 15 Mar 2024 07:24:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>IIS - https 有效，但 http 给了我 403</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf7pcm/iis_https_works_but_http_gives_me_403/</link>
-      <description><![CDATA[我是网络服务器新手，我通过 url 重写进行了 http/https 重定向，但 http 停止工作。请问，您有什么想法可以去哪里看吗？谢谢！   由   提交/u/SumsTheSunbro  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf7pcm/iis_https_works_but_http_gives_me_403/</guid>
-      <pubDate>Fri, 15 Mar 2024 06:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 Google 搜索结果中的网址更改为公司名称</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf7e21/how_to_change_url_to_business_name_in_google/</link>
-      <description><![CDATA[    /u/ExemptedRat   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf7e21/how_to_change_url_to_business_name_in_google/</guid>
-      <pubDate>Fri, 15 Mar 2024 06:21:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
