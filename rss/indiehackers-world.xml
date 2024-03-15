@@ -4,7 +4,107 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 15 Mar 2024 09:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 12:21:45 GMT</lastBuildDate>
+    <item>
+      <title>Gen AI 工具的创意？</title>
+      <link>https://feed.indiehackers.world/post/2eee46b1e4</link>
+      <description><![CDATA[我刚刚构建了一个用于图像和音频生成的生成式人工智能工具。然而，我觉得它只是另一个 Gen AI 工具，因为它没有什么特别的。
+您建议添加什么才能使其成为开箱即用的工具？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2eee46b1e4</guid>
+      <pubDate>Fri, 15 Mar 2024 12:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有更多表格了吗？几乎。了解 Datalinky：实现合规电子邮件列表增长的一键路径</title>
+      <link>https://feed.indiehackers.world/post/1b32dba1cc</link>
+      <description><![CDATA[此外，如果您对终极电子邮件列表工具有任何想法或梦想，请告诉我。我已做好充分准备，让 Datalinky 变得更好。
+干杯让我们的电子邮件冒险减轻一点压力，
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1b32dba1cc</guid>
+      <pubDate>Fri, 15 Mar 2024 11:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示 IH：将 ​​​.​carrd​.co 网站重定向到另一个网站/URL</title>
+      <link>https://feed.indiehackers.world/post/3090b42860</link>
+      <description><![CDATA[
+多次看到营销/初创公司人员使用 Carrd 询问如何将 .carrd.co 网站重定向到另一个网站。
+有了一个想法，就去制作重定向插件！
+🔀redirectplugin.carrd.co
+这是一个免费的 Carrd 插件模板，可将您的旧 Carrd 网站重定向到新 URL。有时，您有一个旧的 .carrd.co 网站，您要将其“升级”到另一个平台上的新 .com 网站，并且希望将 .carrd.co 子域重定向到新的 .com 域。
+技术说明：我们无法更改 301 服务器端重定向的 DNS 记录，因此在客户端的 Embed 元素中使用 JavaScript 是一种解决方法。
+让我知道你的想法！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/3090b42860</guid>
+      <pubDate>Fri, 15 Mar 2024 11:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 更改滚动条的背景颜色</title>
+      <link>https://feed.indiehackers.world/post/bcbe3ef812</link>
+      <description><![CDATA[
+
+通过将 Alpine.js 与 Astro 集成，开发人员可以以最小的开销创建丰富的交互式体验，从而提高 Web 项目的整体质量和用户参与度。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/bcbe3ef812</guid>
+      <pubDate>Fri, 15 Mar 2024 11:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 视频营销：该怎么办？</title>
+      <link>https://feed.indiehackers.world/post/fcf186215f</link>
+      <description><![CDATA[正在为您的 SaaS 产品寻找视频营销吗？
+看看这个轮播和我的时事通讯“销售角色扮演，是不是很性感？”
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/fcf186215f</guid>
+      <pubDate>Fri, 15 Mar 2024 09:57:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 视频营销：该怎么办？</title>
+      <link>https://feed.indiehackers.world/post/e36931c2f5</link>
+      <description><![CDATA[正在为您的 SaaS 产品寻找视频营销吗？
+看看这个轮播和我的时事通讯“销售角色扮演，是不是很性感？”
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e36931c2f5</guid>
+      <pubDate>Fri, 15 Mar 2024 09:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 视频营销：该怎么办？</title>
+      <link>https://feed.indiehackers.world/post/9357914306</link>
+      <description><![CDATA[正在为您的 SaaS 产品寻找视频营销吗？
+看看这个轮播和我的时事通讯＆quot “销售角色扮演，是不是很性感？”
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9357914306</guid>
+      <pubDate>Fri, 15 Mar 2024 09:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 视频营销：该怎么办？</title>
+      <link>https://feed.indiehackers.world/post/84d9b82434</link>
+      <description><![CDATA[正在为您的 SaaS 产品寻找视频营销吗？
+看看这个轮播和我的时事通讯“销售角色扮演，是不是很性感？”
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/84d9b82434</guid>
+      <pubDate>Fri, 15 Mar 2024 09:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何选择正确的方法论？</title>
+      <link>https://feed.indiehackers.world/post/cc58623432</link>
+      <description><![CDATA[&lt;块引用&gt;
+https://www.aimprosoft.com/blog/waterfall-vs-agile-what-to-know-before-choosing-your-development-method/&quot;&gt; goalprosoft.com/blog/waterfall-vs-agile-what-to-know-before-choosing-your-development-method/
+
+灵活性和适应性
+严格选择方法可能会适得其反。我了解到适应能力至关重要。有时，混合瀑布式和敏捷元素的混合方法可能是答案。这是务实的，而不是教条的。
+选择正确的方法并不是随波逐流。这是一个深思熟虑的过程，涉及了解您的项目、了解您的团队并保持灵活性。无论是瀑布法、敏捷法还是混合方法，关键是根据项目的独特需求定制方法。毕竟，正确的方法可以决定项目的成功与失败。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/cc58623432</guid>
+      <pubDate>Fri, 15 Mar 2024 09:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>运动如何帮助我保持生产力？</title>
+      <link>https://feed.indiehackers.world/post/76282456fc</link>
+      <description><![CDATA[您每周锻炼几次？
+#sports #productivity #mentalhealth #physicalhealth
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/76282456fc</guid>
+      <pubDate>Fri, 15 Mar 2024 09:14:44 GMT</pubDate>
+    </item>
     <item>
       <title>我即将执行的看板任务与 Trello 有何不同？</title>
       <link>https://feed.indiehackers.world/post/0674d8776b</link>
@@ -59,126 +159,6 @@ Discord 独立黑客聊天广告这里]]></description>
       <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4a60de1578</guid>
       <pubDate>Fri, 15 Mar 2024 07:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是网络钓鱼以及如何预防？</title>
-      <link>https://feed.indiehackers.world/post/7c33d94936</link>
-      <description><![CDATA[最好让一切都在掌控之中，不是吗？
-但是，有个好消息！
-我正在构建人工智能反网络钓鱼软件，每次检测到网络钓鱼链接时，它都会通知您。
-我目前正在收集反馈，非常非常想听听您对这个想法的看法！
-如果您想注册愿望清单，这里是登陆页面的链接！
-https://www.omterp.com/
-产品准备好后我会通知您
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7c33d94936</guid>
-      <pubDate>Fri, 15 Mar 2024 06:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>名称建议：SimpleURL 与 LeanURL、复数与单数</title>
-      <link>https://feed.indiehackers.world/post/f61dac4642</link>
-      <description><![CDATA[如果您好奇的话，很高兴提供该应用程序的链接。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f61dac4642</guid>
-      <pubDate>Thu, 14 Mar 2024 22:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是如何转危为安的</title>
-      <link>https://feed.indiehackers.world/post/6c6dcb60e7</link>
-      <description><![CDATA[结论
-借助 Dualite，我们希望团队能够根据反馈更快地进行实验和迭代，以找到可行的交叉点（在初创企业中也称为 PMF）。随着当今先进的技术要求，开发人员和设计人员所经历的重复讨论和压力可以得到解决。这是一个困难但可以解决的问题。
-此外，扩大规模还需要在我们面临竞争的行业中提供高质量的产品。因此，如果不能做到极致，那么追求这一努力就没有意义。我们的时间有限，从事平庸的工作或者做半生不熟的蛋糕都是浪费。
-尝试一下 https://bit.ly/DUALITE
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6c6dcb60e7</guid>
-      <pubDate>Thu, 14 Mar 2024 20:09:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能初创公司：寻找技术联合创始人</title>
-      <link>https://feed.indiehackers.world/post/6040d8a32a</link>
-      <description><![CDATA[独角兽潜力！
-人工智能驱动的精确度：我们的平台集成了人工智能驱动的自动化，可精确执行 SEO 策略。
-经过测试的策略：建立在经过验证的策略之上，根据数据驱动的见解提供结果。
-可扩展性：我们的架构旨在满足不断变化的用户需求，捕获超出您想象的典型 SEO 工具所能实现的市场份额。
-以客户为中心的方法：优先考虑客户满意度，并根据反馈不断改进，以建立忠诚的用户群。
-通过hello@seocop ;ilotai.com
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6040d8a32a</guid>
-      <pubDate>Thu, 14 Mar 2024 19:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷电子邮件已经过时了。冷内容。</title>
-      <link>https://feed.indiehackers.world/post/376ccc5464</link>
-      <description><![CDATA[皮斯，J
-ps。我正在 ColdFire.Ventures 寻找股权合作伙伴 CMO。实践、有意义的股权和 3 个月试用后的基本工资。你将负责整个投资组合的增长，并帮助我分类哪些项目需要加倍投资，哪些需要取消。您将为所有企业设置分析，并集中内容+对外增长渠道，以增加投资组合的价值。必须亲自动手，必须拥有 B2B 领域的良好增长记录。
-参考文献：
-https://coldfire.ventures
-https://magicblog.app
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/376ccc5464</guid>
-      <pubDate>Thu, 14 Mar 2024 19:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷电子邮件已经过时了。冷内容。</title>
-      <link>https://feed.indiehackers.world/post/7ee3923502</link>
-      <description><![CDATA[皮斯，J
-ps。我正在 ColdFire.Ventures 寻找股权合作伙伴 CMO。实践、有意义的股权和 3 个月试用后的基本工资。你将负责整个投资组合的增长，并帮助我分类哪些项目需要加倍投资，哪些需要取消。您将为所有企业设置分析，并集中内容+对外增长渠道，以增加投资组合的价值。必须亲自动手，必须拥有 B2B 领域的良好增长记录。
-参考文献：
-https://coldfire.ventures
-https://magicblog.app
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7ee3923502</guid>
-      <pubDate>Thu, 14 Mar 2024 19:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷电子邮件已经过时了。冷内容。</title>
-      <link>https://feed.indiehackers.world/post/33a2b33dc9</link>
-      <description><![CDATA[皮斯，J
-ps。我正在 ColdFire.Ventures 寻找股权合作伙伴 CMO。实践、有意义的股权和 3 个月试用后的基本工资。你将负责整个投资组合的增长，并帮助我分类哪些项目需要加倍投资，哪些需要取消。您将为所有企业设置分析，并集中内容+对外增长渠道，以增加投资组合的价值。必须亲自动手，必须拥有 B2B 领域的良好增长记录。
-参考文献：
-https://coldfire.ventures
-https://magicblog.app
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/33a2b33dc9</guid>
-      <pubDate>Thu, 14 Mar 2024 19:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷电子邮件已经过时了。冷内容。</title>
-      <link>https://feed.indiehackers.world/post/1b17781e8b</link>
-      <description><![CDATA[皮斯，J
-ps。我正在 ColdFire.Ventures 寻找股权合作伙伴 CMO。实践、有意义的股权和 3 个月试用后的基本工资。你将负责整个投资组合的增长，并帮助我分类哪些项目需要加倍投资，哪些需要取消。您将为所有企业设置分析，并集中内容+对外增长渠道，以增加投资组合的价值。必须亲自动手，必须拥有 B2B 领域的良好增长记录。
-参考文献：
-https://coldfire.ventures
-https://magicblog.app
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1b17781e8b</guid>
-      <pubDate>Thu, 14 Mar 2024 19:10:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>2 月 24 日：从零到 174 美元</title>
-      <link>https://feed.indiehackers.world/post/acf964155b</link>
-      <description><![CDATA[三月已经到来，营销也随之重新受到关注。我对与社区和新顾问一起制定的想法和策略感到兴奋。
-让我们这样做吧。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/acf964155b</guid>
-      <pubDate>Thu, 14 Mar 2024 19:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>更多初创公司应该挑战垄断</title>
-      <link>https://feed.indiehackers.world/post/90c147d816</link>
-      <description><![CDATA[我最近写了一篇文章，认为初创公司应该更多地挑战垄断，这与他们通常得到的关于将精力集中在哪里的建议相反。 
-通过第一手经验，我了解到垄断企业往往是理想的竞争者，也是最有机会的地方。主要原因有四个：
-
-垄断企业已经证明该行业是可行且利润丰厚的
-垄断企业拒绝蚕食自己的主导地位
-垄断已将其低效率制度化
-垄断企业因犯错误而损失最大，而初创企业则获益最多
-
-文章在这里：https://www.zaxis.page/p/take-on-垄断
-出版后，很多人告诉我他们同意或不同意我的观点。好奇大家怎么想。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/90c147d816</guid>
-      <pubDate>Thu, 14 Mar 2024 19:02:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
