@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 18:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 21:11:18 GMT</lastBuildDate>
+    <item>
+      <title>[周六炫耀] Firebase 体重追踪器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgg67t/showoff_saturday_firebase_weight_tracker/</link>
+      <description><![CDATA[       由   提交/u/AlphaBeast28  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgg67t/showoff_saturday_firebase_weight_tracker/</guid>
+      <pubDate>Sat, 16 Mar 2024 21:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页插图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgfnwg/web_illustration/</link>
+      <description><![CDATA[大家好，请问一下：漂亮的网页动画是如何制作的？工具！和/或平台。喜欢vercel和github主页   由   提交/u/Zee_98  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgfnwg/web_illustration/</guid>
+      <pubDate>Sat, 16 Mar 2024 20:44:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的简历网站还不错（欢迎批评）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgfekg/our_not_half_bad_resume_sitecritique_welcome/</link>
+      <description><![CDATA[这是为与其他三名学生一起上课而制作的。最初它打算在前面使用 React，但我在最后一刻决定构建一个普通的 html/css/us 页面，因为我不知道 React 很好，而做 React 的学生每周都要去参加一个会议。我们做得有多糟糕？我主要在后端完成数据库工作，直到最后的冲刺，然后我做了很多 vamilla 前端的工作。   由   提交/u/artificialedge  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgfekg/our_not_half_bad_resume_sitecritique_welcome/</guid>
+      <pubDate>Sat, 16 Mar 2024 20:32:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为前端开发的“危险”技能水平是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgf2x9/what_would_you_consider_a_dangerous_level_of/</link>
+      <description><![CDATA[一位招聘人员最近联系我，询问一家初创公司正在寻找全栈 Web 开发人员，特别强调“危险”的开发人员。级别的前端技能。 虽然我对自己的前端能力非常有信心，但我不一定会像其他一些专注于前端的开发人员那样声称拥有忍者级别的技能。 职位描述没有提供任何进一步的细节，所以我很好奇当应用程序以这种方式提到前端开发技能时，其他开发人员或招聘人员的想法。具体来说，我想了解他们认为什么是“危险”的。水平前端技能以及如何展示或评估这种能力。   由   提交/u/macjabeth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgf2x9/what_would_you_consider_a_dangerous_level_of/</guid>
+      <pubDate>Sat, 16 Mar 2024 20:17:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 EmailBuilder.js – 一个免费的开源电子邮件模板生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgev8r/introducing_emailbuilderjs_a_free_and_opensource/</link>
+      <description><![CDATA[如果您以前曾经为电子邮件编写过 HTML/CSS，您就会知道它是从头到尾的表格。  虽然有一些组件库可以帮助解决此问题，但我们希望采用更多无代码方法来构建模板，以便非开发人员可以为模板内容做出贡献。这是我们主要产品的原因，但是，我们最近决定开源我们备受喜爱的电子邮件模板生成器的社区版本。 我们称之为 EmailBuilder.js（GitHub，游乐场）。它是一个功能强大的基于块的电子邮件构建器，它吸收了其他开源库（例如 Editor.js 和电子邮件组件库）的最佳部分，并将它们放入一个易于使用的无代码生成器。 输出是结构良好的 JSON 文件或 HTML，可以在现代电子邮件客户端和设备上良好呈现。我们终于可以开始构建更好的产品电子邮件，而无需使用 90 年代风格的 HTML 和 CSS 😵‍💫 由于构建器完全免费且开源，团队可以根据需要自行托管和扩展构建器. 请务必使用我们的一些示例模板在我们的 Playground/demo 上试用一下：  欢迎电子邮件 一次性密码 (OTP) 重置密码 电子商务订单收据 SaaS 订阅收据&lt; /li&gt; 预订提醒 发布指标报告 回复消息  我们很想听听您的意见思考，我们很高兴看到每个人都用它构建了什么。 如果您喜欢它，请考虑给它一个在 GitHub 上加星 🌟（我是共同作者之一）。 ​   由   提交 /u/fixie__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgev8r/introducing_emailbuilderjs_a_free_and_opensource/</guid>
+      <pubDate>Sat, 16 Mar 2024 20:07:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我的新投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgeu8n/check_out_my_new_portfolio_site/</link>
+      <description><![CDATA[使用 Next.js 和 Talwindcss 构建。由我在 Figma 上设计。    由   提交/u/diegovs05  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgeu8n/check_out_my_new_portfolio_site/</guid>
+      <pubDate>Sat, 16 Mar 2024 20:06:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为我的开源项目制作了一个变更日志页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgeqfo/i_made_a_changelog_page_for_my_open_source_project/</link>
+      <description><![CDATA[   /u/ascendence  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgeqfo/i_made_a_changelog_page_for_my_open_source_project/</guid>
+      <pubDate>Sat, 16 Mar 2024 20:01:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>与客户一起处理 webapp 33K 提案。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgef95/handling_a_webapp_33k_proposal_with_a_client/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgef95/handling_a_webapp_33k_proposal_with_a_client/</guid>
+      <pubDate>Sat, 16 Mar 2024 19:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑将 2 个项目迁移到 VPS，寻求建议、陷阱等。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgeddw/thinking_about_moving_2_projects_to_a_vps_looking/</link>
+      <description><![CDATA[所以我有 2 个相关的站点...它们共享一个数据库（当前为 RDS），但不共享服务器或前端。一个位于子域上，另一个位于同一域的主域上。 其中一个是我在 Netlify 上托管的 NextJS 应用程序，现在已经获得足够的流量到达我需要的地方为 1 级功能层支付 25 美元/月。另一个是 Heroku 上的廉价套餐，服务器每月 15 美元，而 Netlify 上的免费套餐做得很好，尽管我每月确实获得了大约 200 万的页面浏览量。这是一个 CRA 应用程序。 虽然 postgres 数据库的 RDS 花费了我 75 美元/月，但这并不理想，但是这两个站点加起来有太多的数据/流量，无法处理。  所以我想问题是：通过将这些全部转移到 VPS 可以节省多少钱？我知道这是一个沉重的问题，但希望我必须支付的费用的背景有所帮助。我正在突破 Heroku 基本测功机的极限，并且 Next 站点正在不断发展，我希望通过该项目的新方面尽快发展它。 只是不确定 VPS CPU 的表现如何/RAM 使用成本与托管服务相比，我可能会遇到在 VPS 上运行数据库时遇到的问题（我猜延迟会更少，因为它们都在同一个盒子上，这听起来不错）。 &lt; p&gt;设置域以指向 vps 上正在运行的 Nextjs 应用程序和另一个 React 应用程序有多复杂？一般来说，这一切有多复杂？我是一名专业的网络开发人员，并且已经工作了一段时间，但我从来都不是这些事情的真正的开发人员/托管人员，所以没有太多的经验。我当时确实在 Digital Ocean 上有一个 Django 应用程序，但大多数情况下只是按照指南来使其工作。 无论如何，对于这个草率的问题感到抱歉，只是希望从那些更有经验的人那里获得一些见解这种事比我还多。 ​   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgeddw/thinking_about_moving_2_projects_to_a_vps_looking/</guid>
+      <pubDate>Sat, 16 Mar 2024 19:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我的工作笔记本电脑不受监控（MacBook 上没有配置文件或 MDM），为什么我不应该将其用于基本的个人用途？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgdp2d/if_my_work_laptop_isnt_monitored_macbook_with_no/</link>
+      <description><![CDATA[我永远不会向其中下载任何文件，甚至是图像。所有内容都将在网络上查看，并且仅访问那些网站。自从我感染病毒以来，已经有 10 多年了，即使在我的 Windows PC 上，我也不会下载游戏模组或访问任何可疑网站。 我只想将它用于 Obsidian，因为有1 个插件只能在桌面（Windows 或 Mac 或 Linux）上构建缓存，而我的 Windows PC 快要死了，即使坐在它旁边，蓝牙也很糟糕，而且我没有有线鼠标或键盘。我可以在 iPad 上做任何其他事情。 所以，我不担心病毒/恶意软件/等。我也不担心被监视，因为上面没有配置文件或 MDM。据我所知，永远不会有。 那么，我有什么理由不应该使用 Macbook 来工作和处理这些有限的个人事务呢？ 请随意在评论中关注我，如果我考虑它是愚蠢的，我想知道。提前致谢！   由   提交 /u/DudeThatsErin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgdp2d/if_my_work_laptop_isnt_monitored_macbook_with_no/</guid>
+      <pubDate>Sat, 16 Mar 2024 19:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个托管您文档的文档创建器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgd6gy/i_made_a_documentation_creator_that_hosts_your/</link>
+      <description><![CDATA[    &lt; /a&gt;  大家好！我想与我已经开始的文档创建者分享我的小型副业尝试。它称为 Docs+。 基本上，您可以访问一个编辑器，该编辑器允许您创建页面/文档以及任何内容子页面/子文档。 可以保存并托管在网站上，然后您可以共享该链接以向任何人发送网站上托管的文档。 对于任何感兴趣的人技术方面，它是使用 React、Node、Express、Firebase、Firebase Cloud Functions、TipTap 和 Stripe 创建的（不过您仍然可以免费尝试演示） 无论如何，我很想听听任何想法或想法反馈！   由   提交/u/JohnFuhrm12   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgd6gy/i_made_a_documentation_creator_that_hosts_your/</guid>
+      <pubDate>Sat, 16 Mar 2024 18:51:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了我的第一个生产站点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgctpu/i_built_my_very_first_production_site/</link>
+      <description><![CDATA[这是我在 Phoenix 和 Elixir 中从头开始构建的第一个网站。我也开始学习顺风，因为在此之前我没有做过太多设计。欢迎任何建设性的批评。    由   提交 /u/JoeZMar    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgctpu/i_built_my_very_first_production_site/</guid>
+      <pubDate>Sat, 16 Mar 2024 18:35:18 GMT</pubDate>
+    </item>
     <item>
       <title>幻想作者网站 - 安德里亚·切拉索尼</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgc46k/fantasy_author_website_andrea_cerasoni/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我一直在使用 upwork，并且已经经历了 5 个开发人员，但没有运气将我的网站放在一起。要么存在编码问题、错误，要么自由职业者只是花时间。我现在正在努力完成这个网站的第 6 个月。寻找优秀网络开发人员的最佳地点在哪里？    由   提交 /u/BigfellaBar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgbgd1/best_freelancing_platform_to_hire_web_developers/</guid>
       <pubDate>Sat, 16 Mar 2024 17:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的投资组合网站上寻找反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgbb7c/looking_for_feedback_on_my_portfolio_website/</link>
-      <description><![CDATA[嗨，我是一名研究生（信息系统硕士），希望在美国寻找 Web3、后端或全栈职位的工作。我在自己的祖国担任了 4 年的软件工程师（主要是后端）。 我很乐意在我的作品集网站上获得一些反馈（不要介意严厉的批评）：https://shailesh-sh.vercel.app/ 我还有几个问题： &lt; ol&gt; 域名重要吗？ （目前使用免费的 vercel 域名） 我的网站和简历是否过于“区块链”？我知道 Web3 在软件行业中没有良好的声誉，我不想关闭潜在的后端和全栈机会。 希望得到一些有关后端的建议/要追求的全栈项目。  感谢您的帮助！    由   提交/u/annoying-mixed_Case   /u/annoying-mixed_Case reddit.com/r/webdev/comments/1bgbb7c/looking_for_feedback_on_my_portfolio_website/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgbb7c/looking_for_feedback_on_my_portfolio_website/</guid>
-      <pubDate>Sat, 16 Mar 2024 17:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>向吉米·巴菲特致敬</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgax9j/a_tribute_to_jimmy_buffett/</link>
-      <description><![CDATA[我写这个网页是为了向吉米·巴菲特致敬，特别是他的歌曲“It&#39;s 5 o&#39;clock Somewhere”。它尚不支持夏令时。在遵守夏令时的地方，它将偏离一个时区。 https://jimmybuffettsclock.w3spaces.com   由   提交/u/Yuman365  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgax9j/a_tribute_to_jimmy_buffett/</guid>
-      <pubDate>Sat, 16 Mar 2024 17:11:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管一个玩具 .NET 微服务网站有多贵？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bga3pu/how_expensive_would_it_be_to_host_a_toy_net_micro/</link>
-      <description><![CDATA[总共会有大约 5 到 6 个服务，使用 .NET 作为后端，Nextjs 作为前端。我一直在考虑这将是一个很好的投资组合，但我听说它需要很多钱来托管它，并且想知道这里是否有免费/便宜的选择？   由   提交/u/mymar101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bga3pu/how_expensive_would_it_be_to_host_a_toy_net_micro/</guid>
-      <pubDate>Sat, 16 Mar 2024 16:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 插件补丁</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg9qqa/wordpress_plugins_patching/</link>
-      <description><![CDATA[嗨，网络开发人员！  您是否经常发现自己遇到这样的情况：您或您的客户需要某个功能，但已安装/现有的 WordPress 插件不提供该功能，因此您深入研究已安装/最合适的插件代码并更改它（修补）？  当然，您知道更新问题并警告您的客户，但您的客户同意这种方法的缺点。 这是一种流行的情况，还是我只是不惜一切代价解决客户的问题太野蛮了吗？   由   提交 /u/Goofy-Chained-Dragon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg9qqa/wordpress_plugins_patching/</guid>
-      <pubDate>Sat, 16 Mar 2024 16:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以帮助我使用 MapboxOpenGl 从站点中提取标记/数据吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg9kp6/can_someone_help_me_extract_markersdata_from_a/</link>
-      <description><![CDATA[r/webdev 社区大家好！&lt; /p&gt; 我正在开发一个小型网络项目，我想访问以下网站上显示的数据： /u/Schmittounet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg9kp6/can_someone_help_me_extract_markersdata_from_a/</guid>
-      <pubDate>Sat, 16 Mar 2024 16:11:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想开始自由职业，但你们只是让我士气低落</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg8h8b/i_want_to_start_freelancing_but_you_guys_are_just/</link>
-      <description><![CDATA[标题。我今年 24 岁，住在法国，已经 2 年了，已经厌倦了公司的废话。  想要开始自由职业，但阅读这篇文章只会让我想永远放弃工作。我之前的工作让我陷入倦怠和抑郁，阅读你的文章，自由职业也是同样的最终结果 编辑：我只想对 Reddit 用户发表积极和激励性的评论表示感谢。  编辑2：是的，我同意我有点咆哮，但那是我最初的感觉   由   提交 /u/Tiis__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg8h8b/i_want_to_start_freelancing_but_you_guys_are_just/</guid>
-      <pubDate>Sat, 16 Mar 2024 15:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀]我制作了一个精美的字体艺术生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg8588/showoff_saturday_i_made_a_fancy_font_art_generator/</link>
-      <description><![CDATA[       由   提交/u/madovermoto   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg8588/showoff_saturday_i_made_a_fancy_font_art_generator/</guid>
-      <pubDate>Sat, 16 Mar 2024 15:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>P2P Whatsapp、Instagram 和 Metaverse 作为 PWA</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/</link>
-      <description><![CDATA[大家好， 聊天。 Positive-intentions.com 我很高兴与您分享一个我一直在开发的消息应用程序，您可能会感兴趣。这是一款设计为在浏览器中运行的聊天应用程序，重点关注基于浏览器的安全性和去中心化。 该应用程序的独特之处在于它不依赖消息传递服务器来运行。相反，它基于浏览器的 JavaScript 功能工作，因此即使是低端设备也应该可以工作。 以下是该应用程序的一些功能：  安全消息传递：您的消息加密，更加安全。 文件共享：使用 WebRTC 技术和二维码轻松共享文件。 语音和视频通话：通过语音和视频通话与他人联系。&lt; /li&gt; 共享虚拟空间：探索共享的混合现实空间，类似于元宇宙。 图像板：以可滚动格式浏览和共享图像，类似于 Instagram。  您的安全是重中之重。以下是该应用如何确保您的安全：  分散式身份验证：登录不需要中央服务器，使任何人都更难获得未经授权的访问。 唯一 ID：您的ID 是随机加密的，增加了额外的安全层。 端到端加密：您的消息从您的设备到收件人的设备都经过加密，确保只有您和收件人才能阅读它们。  li&gt; 本地数据存储：您的数据仅存储在您的设备上，而不存储在任何外部服务器上。 可自托管：如果您愿意，您可以选择将应用程序托管在您自己的服务器上.  该应用程序仍处于早期阶段，我正在探索这项技术的可能性。我很想听听您对这个想法和应用程序当前状态的反馈。如果您有任何功能请求或想法，我会倾听下面的评论！ 期待听到您的想法！  应用程序：chat.positive-intentions.com 有关该应用程序的更多信息：positive-intentions.com 关注 subreddit 以随时了解该应用的最新动态：r/positive_intentions  注1：作为一名独立开发者，我没有能力或知识来做“正式发布”之类的事情。我预计该应用程序会根据用户的反馈逐渐变得更好（到目前为止）。 注 2：我认为该应用程序已经（大约？）达到了功能完整的状态，但我没有把握。我正在寻找有关缺少哪些功能以及不需要哪些功能的反馈。下一步将是通过使应用程序更加用户友好和更易于使用来增加用户数量。 （我需要您的帮助） 注 3：该应用程序尚未开源（抱歉），但我愿意回答有关代码如何工作的问题（更多详细信息可以在文档中找到） ）。开源该应用程序是我将来想做的事情，但不是现在的优先事项。应用程序的某些部分是开源的。 注释 4：UI 是 Material-UI 的笨拙实现。当我转向开源 UI 组件时，我将解决这个问题。我将借此机会更加关注“桌面友好的用户界面”。 （目前该应用程序在移动设备上体验最佳）。 注 5：我想保留“pods”的措辞。尽管我收到了有关它的反馈，但不清楚它的含义。您可能会将 Pod 视为“聊天室”。并将进一步开发以支持群聊。您可以在联系人详细信息页面中创建一个具有连接对等点的 Pod。措辞“pod”是指“pod”。来自一群鲸鱼如何被称为“群体”。   由   提交/u/Accurate-Screen8774   reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/</guid>
-      <pubDate>Sat, 16 Mar 2024 14:53:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个开源的“博客社交媒体”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg6ixv/i_made_an_open_source_social_media_for_blogs/</link>
-      <description><![CDATA[   嘿大家， 我一直想建立一个博客、个人网站和其他“孤立内容”的方式被发现并与之互动。网络上一些最好的内容隐藏在您无法轻松找到、无法关注、也无法参与其内容的网站中。  因此，我构建了 https://app.recessfeed.com/，一个内容聚合器，您可以在其中关注任何内容网络中的内容（目前通过 RSS feed，但很快就会变得更加普遍）。我才上线两周，但也将其开源，因此欢迎人们参与代码库。您还可以阅读我们的 Manifesto-ish 了解更多详细信息。  https://preview.redd .it/utmolsq5bpoc1.png?width=3018&amp;format=png&amp;auto=webp&amp;s=f29b6cbed677c1788313eb81f23bcd47c76b6c87 让我知道你的想法！   由   提交 /u/brodagaita   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg6ixv/i_made_an_open_source_social_media_for_blogs/</guid>
-      <pubDate>Sat, 16 Mar 2024 13:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>传说之下预购模拟网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg5mty/undertale_preorder_mock_website/</link>
-      <description><![CDATA[     &lt; /td&gt; 刚刚完成“产品登陆页面”来自 freeCodeCamp 的项目！我决定为著名游戏《Undertale》的预订创建一个响应式模拟网站。我对结果感到非常自豪！看起来怎么样？ （我是一名初级前端开发人员，总是欣赏建设性的批评。） 这是我的 Twitter 帖子（如果您能“喜欢”它，我将不胜感激）：https://twitter.com/PrantaneelPegu/status/1768971362796757186 ​ &lt; a href=&quot;https://preview.redd.it/4jznm8902poc1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=d01c51a7c31eecd0c5c16b382cfa19f16547416c&quot;&gt;PC 上的网站视图 &lt; p&gt;​ 响应式在其他大小的视口中查看 ​   由   提交/u/Wintry_Winds_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg5mty/undertale_preorder_mock_website/</guid>
-      <pubDate>Sat, 16 Mar 2024 13:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 Web 应用程序，可将图像大小压缩高达 1 到 100%、无文件大小限制、离线工作、无每日限制、无需上传：IMGCentury.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg3i9h/made_a_webapp_to_compress_image_size_by_up_to_1/</link>
-      <description><![CDATA[        由   提交/u/kAcom24  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg3i9h/made_a_webapp_to_compress_image_size_by_up_to_1/</guid>
-      <pubDate>Sat, 16 Mar 2024 10:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有从事 Pornhub 相关产品的开发人员发现来自德克萨斯州的用户有所增加？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfv3ly/any_devs_working_on_pornhub_adjacent_products/</link>
-      <description><![CDATA[只是好奇这一发展的连锁反应。   由   提交 /u/SenorSplashdamage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfv3ly/any_devs_working_on_pornhub_adjacent_products/</guid>
-      <pubDate>Sat, 16 Mar 2024 02:04:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
