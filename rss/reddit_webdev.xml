@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 15:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 18:15:44 GMT</lastBuildDate>
+    <item>
+      <title>幻想作者网站 - 安德里亚·切拉索尼</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgc46k/fantasy_author_website_andrea_cerasoni/</link>
+      <description><![CDATA[大家好， 我的名字是 Andrea Cerasoni。我的日常工作是一名软件工程师，业余时间则是一名幻想作家。我喜欢修补网络开发，所以我为自己建立了一个作者网站：https://andreacerasoni.com/ I我一直都知道 CDN 很有用，并且是网站性能不可或缺的一部分，但我从未有机会在日常工作中使用它们。我终于开始在我的网站上引入 CDN。今天，我将与 r/webdev 分享这一里程碑！ 具体来说，凤凰动画主页（仅限桌面版本）和所有博客文章特色图像现在都通过 CDN 提供。 集成非常简单。鉴于我已经从后端提供资产，我只需设置我的 CDN 并更新我的 URL。对于那些好奇的人来说，仅此一项更改就显着提高了我的性能得分（根据 PageSpeed 见解）：  &lt; li&gt;移动设备：47 到 56 桌面设备：77 到 86  非常感谢您对此功能或网站任何其他部分的任何反馈！ p&gt;   由   提交/u/andreacerasoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgc46k/fantasy_author_website_andrea_cerasoni/</guid>
+      <pubDate>Sat, 16 Mar 2024 18:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgbviy/looking_for_feedback/</link>
+      <description><![CDATA[大家好！我去年年中开始创业，终于建立了网站以及我需要它如何运营。这项服务完全基于在线，并且本身是独一无二的。当我从公司得到报价时，我最终看到了 10,000 美元以上的制作费用。这是预料之中的，也很好，所以我最终找到了一个开发人员。  这是你们中的一些人可能有意见的地方。有人建议我们尝试 Fiverr。我们并不是在寻找廉价的工作。我们需要有经验的人来指导我们完成这个网站。  我们发现有人提到了一个叫做 bubble 的平台。他们拥有认证、广泛的产品组合，并且是 Fiverr 的推荐，因此我们联系了他们。他们接受了我们的订单，我们支付了近 10,000 美元。  我们现在正进入开发的第二个月，我们正在努力看到隧道尽头的曙光。请理解，我们不知道这需要多长时间，因此我们不会在时间范围内感到不安。然而，我们被告知这将在一个月内完成——这让我们感到惊讶和欢迎。  这可能吗？  我们遇到的另一个问题是，是否建议聘请第二位开发人员来帮助完成这项工作？  当向开发人员询问我们何时达到 MVP 的时间框架时，我们似乎从未得到答案。  感谢您在这方面花费的时间和知识，因为这整个方面对我们来说是令人畏惧的。    由   提交 /u/CalligrapherCheap850   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgbviy/looking_for_feedback/</guid>
+      <pubDate>Sat, 16 Mar 2024 17:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>雇用网络开发人员的最佳自由职业平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgbgd1/best_freelancing_platform_to_hire_web_developers/</link>
+      <description><![CDATA[我一直在使用 upwork，并且已经经历了 5 个开发人员，但没有运气将我的网站放在一起。要么存在编码问题、错误，要么自由职业者只是花时间。我现在正在努力完成这个网站的第 6 个月。寻找优秀网络开发人员的最佳地点在哪里？    由   提交 /u/BigfellaBar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgbgd1/best_freelancing_platform_to_hire_web_developers/</guid>
+      <pubDate>Sat, 16 Mar 2024 17:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的投资组合网站上寻找反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgbb7c/looking_for_feedback_on_my_portfolio_website/</link>
+      <description><![CDATA[嗨，我是一名研究生（信息系统硕士），希望在美国寻找 Web3、后端或全栈职位的工作。我在自己的祖国担任了 4 年的软件工程师（主要是后端）。 我很乐意在我的作品集网站上获得一些反馈（不要介意严厉的批评）：https://shailesh-sh.vercel.app/ 我还有几个问题： &lt; ol&gt; 域名重要吗？ （目前使用免费的 vercel 域名） 我的网站和简历是否过于“区块链”？我知道 Web3 在软件行业中没有良好的声誉，我不想关闭潜在的后端和全栈机会。 希望得到一些有关后端的建议/要追求的全栈项目。  感谢您的帮助！    由   提交/u/annoying-mixed_Case   /u/annoying-mixed_Case reddit.com/r/webdev/comments/1bgbb7c/looking_for_feedback_on_my_portfolio_website/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgbb7c/looking_for_feedback_on_my_portfolio_website/</guid>
+      <pubDate>Sat, 16 Mar 2024 17:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>向吉米·巴菲特致敬</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgax9j/a_tribute_to_jimmy_buffett/</link>
+      <description><![CDATA[我写这个网页是为了向吉米·巴菲特致敬，特别是他的歌曲“It&#39;s 5 o&#39;clock Somewhere”。它尚不支持夏令时。在遵守夏令时的地方，它将偏离一个时区。 https://jimmybuffettsclock.w3spaces.com   由   提交/u/Yuman365  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgax9j/a_tribute_to_jimmy_buffett/</guid>
+      <pubDate>Sat, 16 Mar 2024 17:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管一个玩具 .NET 微服务网站有多贵？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bga3pu/how_expensive_would_it_be_to_host_a_toy_net_micro/</link>
+      <description><![CDATA[总共会有大约 5 到 6 个服务，使用 .NET 作为后端，Nextjs 作为前端。我一直在考虑这将是一个很好的投资组合，但我听说它需要很多钱来托管它，并且想知道这里是否有免费/便宜的选择？   由   提交/u/mymar101  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bga3pu/how_expensive_would_it_be_to_host_a_toy_net_micro/</guid>
+      <pubDate>Sat, 16 Mar 2024 16:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 插件补丁</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg9qqa/wordpress_plugins_patching/</link>
+      <description><![CDATA[嗨，网络开发人员！  您是否经常发现自己遇到这样的情况：您或您的客户需要某个功能，但已安装/现有的 WordPress 插件不提供该功能，因此您深入研究已安装/最合适的插件代码并更改它（修补）？  当然，您知道更新问题并警告您的客户，但您的客户同意这种方法的缺点。 这是一种流行的情况，还是我只是不惜一切代价解决客户的问题太野蛮了吗？   由   提交 /u/Goofy-Chained-Dragon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg9qqa/wordpress_plugins_patching/</guid>
+      <pubDate>Sat, 16 Mar 2024 16:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我使用 MapboxOpenGl 从站点中提取标记/数据吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg9kp6/can_someone_help_me_extract_markersdata_from_a/</link>
+      <description><![CDATA[r/webdev 社区大家好！&lt; /p&gt; 我正在开发一个小型网络项目，我想访问以下网站上显示的数据： /u/Schmittounet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg9kp6/can_someone_help_me_extract_markersdata_from_a/</guid>
+      <pubDate>Sat, 16 Mar 2024 16:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想开始自由职业，但你们只是让我士气低落</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg8h8b/i_want_to_start_freelancing_but_you_guys_are_just/</link>
+      <description><![CDATA[标题。我今年 24 岁，住在法国，已经 2 年了，已经厌倦了公司的废话。  想要开始自由职业，但阅读这篇文章只会让我想永远放弃工作。我之前的工作让我陷入倦怠和抑郁，阅读你的文章，自由职业也是同样的最终结果 编辑：我只想对 Reddit 用户发表积极和激励性的评论表示感谢。  编辑2：是的，我同意我有点咆哮，但那是我最初的感觉   由   提交 /u/Tiis__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg8h8b/i_want_to_start_freelancing_but_you_guys_are_just/</guid>
+      <pubDate>Sat, 16 Mar 2024 15:22:23 GMT</pubDate>
+    </item>
     <item>
       <title>[周六炫耀]我制作了一个精美的字体艺术生成器</title>
       <link>https://www.reddit.com/r/webdev/comments/1bg8588/showoff_saturday_i_made_a_fancy_font_art_generator/</link>
@@ -15,100 +78,37 @@
     <item>
       <title>P2P Whatsapp、Instagram 和 Metaverse 作为 PWA</title>
       <link>https://www.reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/</link>
-      <description><![CDATA[大家好， 聊天。 Positive-intentions.com 我很高兴与您分享一个我一直在开发的消息应用程序，您可能会感兴趣。这是一款设计为在浏览器中运行的聊天应用程序，重点关注基于浏览器的安全性和去中心化。 该应用程序的独特之处在于它不依赖消息传递服务器来运行。相反，它基于浏览器的 JavaScript 功能工作，因此即使是低端设备也应该可以工作。 以下是该应用程序的一些功能：  安全消息传递：您的消息加密，更加安全。 文件共享：使用 WebRTC 技术和二维码轻松共享文件。 语音和视频通话：通过语音和视频通话与他人联系。&lt; /li&gt; 共享虚拟空间：探索共享的混合现实空间，类似于元宇宙。 图像板：以可滚动格式浏览和共享图像，类似于 Instagram。  您的安全是重中之重。以下是该应用如何确保您的安全：  分散式身份验证：登录不需要中央服务器，使任何人都更难获得未经授权的访问。 唯一 ID：您的ID 是随机加密的，增加了额外的安全层。 端到端加密：您的消息从您的设备到收件人的设备都经过加密，确保只有您和收件人才能阅读它们。  li&gt; 本地数据存储：您的数据仅存储在您的设备上，而不存储在任何外部服务器上。 可自托管：如果您愿意，您可以选择将应用程序托管在您自己的服务器上.  该应用程序仍处于早期阶段，我正在探索这项技术的可能性。我很想听听您对这个想法和应用程序当前状态的反馈。如果您有任何功能请求或想法，我会倾听下面的评论！ 期待听到您的想法！  应用程序：chat.positive-intentions.com 有关该应用程序的更多信息：positive-intentions.com 关注 subreddit 以随时了解该应用的最新动态：r/positive_intentions  注1：作为一名独立开发者，我没有能力或知识来做“正式发布”之类的事情。我预计该应用程序会根据用户的反馈逐渐变得更好（到目前为止）。 注 2：我认为该应用程序已经（大约？）达到了功能完整的状态，但我没有把握。我正在寻找有关缺少哪些功能以及不需要哪些功能的反馈。下一步将是通过使应用程序更加用户友好和更易于使用来增加用户数量。 （我需要您的帮助） 注 3：该应用程序尚未开源（抱歉），但我愿意回答有关代码如何工作的问题（更多详细信息可以在文档中找到） ）。开源该应用程序是我将来想做的事情，但不是现在的优先事项。应用程序的某些部分是开源的。 注释 4：UI 是 Material-UI 的笨拙实现。当我转向开源 UI 组件时，我将解决这个问题。我将借此机会更加关注“桌面友好的用户界面”。 （目前该应用程序在移动设备上体验最佳）。 注 5：我想保留“pods”的措辞。尽管我收到了有关它的反馈，但不清楚它的含义。您可能会将 Pod 视为“聊天室”。并将进一步开发以支持群聊。您可以在联系人详细信息页面中创建一个具有连接对等点的 Pod。措辞“pod”是指“pod”。来自一群鲸鱼如何被称为“群体”。   由   提交 /u/Accurate-Screen8774    reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好， 聊天。 Positive-intentions.com 我很高兴与您分享一个我一直在开发的消息应用程序，您可能会感兴趣。这是一款设计为在浏览器中运行的聊天应用程序，重点关注基于浏览器的安全性和去中心化。 该应用程序的独特之处在于它不依赖消息传递服务器来运行。相反，它基于浏览器的 JavaScript 功能工作，因此即使是低端设备也应该可以工作。 以下是该应用程序的一些功能：  安全消息传递：您的消息加密，更加安全。 文件共享：使用 WebRTC 技术和二维码轻松共享文件。 语音和视频通话：通过语音和视频通话与他人联系。&lt; /li&gt; 共享虚拟空间：探索共享的混合现实空间，类似于元宇宙。 图像板：以可滚动格式浏览和共享图像，类似于 Instagram。  您的安全是重中之重。以下是该应用如何确保您的安全：  分散式身份验证：登录不需要中央服务器，使任何人都更难获得未经授权的访问。 唯一 ID：您的ID 是随机加密的，增加了额外的安全层。 端到端加密：您的消息从您的设备到收件人的设备都经过加密，确保只有您和收件人才能阅读它们。  li&gt; 本地数据存储：您的数据仅存储在您的设备上，而不存储在任何外部服务器上。 可自托管：如果您愿意，您可以选择将应用程序托管在您自己的服务器上.  该应用程序仍处于早期阶段，我正在探索这项技术的可能性。我很想听听您对这个想法和应用程序当前状态的反馈。如果您有任何功能请求或想法，我会倾听下面的评论！ 期待听到您的想法！  应用程序：chat.positive-intentions.com 有关该应用程序的更多信息：positive-intentions.com 关注 subreddit 以随时了解该应用的最新动态：r/positive_intentions  注1：作为一名独立开发者，我没有能力或知识来做“正式发布”之类的事情。我预计该应用程序会根据用户的反馈逐渐变得更好（到目前为止）。 注 2：我认为该应用程序已经（大约？）达到了功能完整的状态，但我没有把握。我正在寻找有关缺少哪些功能以及不需要哪些功能的反馈。下一步将是通过使应用程序更加用户友好和更易于使用来增加用户数量。 （我需要您的帮助） 注 3：该应用程序尚未开源（抱歉），但我愿意回答有关代码如何工作的问题（更多详细信息可以在文档中找到） ）。开源该应用程序是我将来想做的事情，但不是现在的优先事项。应用程序的某些部分是开源的。 注释 4：UI 是 Material-UI 的笨拙实现。当我转向开源 UI 组件时，我将解决这个问题。我将借此机会更加关注“桌面友好的用户界面”。 （目前该应用程序在移动设备上体验最佳）。 注 5：我想保留“pods”的措辞。尽管我收到了有关它的反馈，但不清楚它的含义。您可能会将 Pod 视为“聊天室”。并将进一步开发以支持群聊。您可以在联系人详细信息页面中创建一个具有连接对等点的 Pod。措辞“pod”是指“pod”。来自一群鲸鱼如何被称为“群体”。   由   提交/u/Accurate-Screen8774   reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bg7umc/p2p_whatsapp_instagram_and_metaverse_as_a_pwa/</guid>
       <pubDate>Sat, 16 Mar 2024 14:53:55 GMT</pubDate>
     </item>
     <item>
       <title>我做了一个开源的“博客社交媒体”</title>
       <link>https://www.reddit.com/r/webdev/comments/1bg6ixv/i_made_an_open_source_social_media_for_blogs/</link>
-      <description><![CDATA[   嘿大家， 我一直想建立一个博客、个人网站和其他“孤立内容”的方式被发现并与之互动。网络上一些最好的内容隐藏在您无法轻松找到、无法关注、也无法参与其内容的网站上。  因此，我构建了 https://app.recessfeed.com/，一个内容聚合器，您可以在其中关注任何内容网络中的内容（目前通过 RSS feed，但很快就会变得更加普遍）。我才上线两周，但也将其开源，因此欢迎人们参与代码库。您还可以阅读我们的 Manifesto-ish 了解更多详细信息。  https://preview.redd .it/utmolsq5bpoc1.png?width=3018&amp;format=png&amp;auto=webp&amp;s=f29b6cbed677c1788313eb81f23bcd47c76b6c87 让我知道你的想法！   由   提交 /u/brodagaita   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   嘿大家， 我一直想建立一个博客、个人网站和其他“孤立内容”的方式被发现并与之互动。网络上一些最好的内容隐藏在您无法轻松找到、无法关注、也无法参与其内容的网站中。  因此，我构建了 https://app.recessfeed.com/，一个内容聚合器，您可以在其中关注任何内容网络中的内容（目前通过 RSS feed，但很快就会变得更加普遍）。我才上线两周，但也将其开源，因此欢迎人们参与代码库。您还可以阅读我们的 Manifesto-ish 了解更多详细信息。  https://preview.redd .it/utmolsq5bpoc1.png?width=3018&amp;format=png&amp;auto=webp&amp;s=f29b6cbed677c1788313eb81f23bcd47c76b6c87 让我知道你的想法！   由   提交 /u/brodagaita   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bg6ixv/i_made_an_open_source_social_media_for_blogs/</guid>
       <pubDate>Sat, 16 Mar 2024 13:50:19 GMT</pubDate>
     </item>
     <item>
-      <title>专为咖啡爱好者和远程工作者提供的精品咖啡馆分享和评分平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg5dp9/a_platform_to_share_and_rate_specialty_cafés_for/</link>
-      <description><![CDATA[我首先创建了咖啡雷达来列出我最喜欢的世界各地的咖啡馆。然后我添加了一些功能，让任何用户都可以提交评论并添加新地点。从长远来看，我将尝试以某种方式围绕精品咖啡建立一个社区 在这里，用户投票支持某个地点的特定咖啡饮料。他们还可以添加一些额外的信息：例如这个地方有电源插头吗？是适合远程工作还是只是为了喝咖啡？这个地方提供什么类型的牛奶？还有更多。 示例： https://coffeeradar.io /coffee-bar/coffee-syndicate/ 当然，这不想成为地图或类似位置上的任何替代品。它只是针对特定利基市场的非常特定的目录。有很多应用程序和类似的网站，但我想构建自己的版本 咖啡雷达应该帮助想要在咖啡馆工作的远程工作人员和咖啡爱好者准确找到他们正在寻找的地方 此类项目很大程度上取决于网络效应：用户越多，信息越多，平台实际提供的帮助就越大。所以我不知道这是否会成功。我开始构建这个是因为我需要从日常实践中获得一些变化 由于网站的性质（许多页面在 Google 上建立了索引），一些用户找到了它，注册了，并添加了一些他们知道的地方，但到目前为止我并没有太多宣传这个网站 这是一个 WP 网站（我知道你们中的一些人会讨厌它），有一个定制的主题和我从头开始创建的几个插件。稍后我将使用 Expo 或类似的东西构建一个合适的应用程序。 我喜欢从事这个项目：总是有新的 API 可以尝试，总是有一些东西需要迭代和改进，总是有新的东西要学习，总是新的可以添加的功能 像这样的副项目有助于保持对编码的热情，并且与平常的日常工作相比，为了创造而创造:) 如果您喜欢精品咖啡，我很乐意阅读您的反馈！   由   提交 /u/MattVegaDMC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg5dp9/a_platform_to_share_and_rate_specialty_cafés_for/</guid>
-      <pubDate>Sat, 16 Mar 2024 12:50:58 GMT</pubDate>
+      <title>传说之下预购模拟网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg5mty/undertale_preorder_mock_website/</link>
+      <description><![CDATA[     &lt; /td&gt; 刚刚完成“产品登陆页面”来自 freeCodeCamp 的项目！我决定为著名游戏《Undertale》的预订创建一个响应式模拟网站。我对结果感到非常自豪！看起来怎么样？ （我是一名初级前端开发人员，总是欣赏建设性的批评。） 这是我的 Twitter 帖子（如果您能“喜欢”它，我将不胜感激）：https://twitter.com/PrantaneelPegu/status/1768971362796757186 ​ &lt; a href=&quot;https://preview.redd.it/4jznm8902poc1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=d01c51a7c31eecd0c5c16b382cfa19f16547416c&quot;&gt;PC 上的网站视图 &lt; p&gt;​ 响应式在其他大小的视口中查看 ​   由   提交/u/Wintry_Winds_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg5mty/undertale_preorder_mock_website/</guid>
+      <pubDate>Sat, 16 Mar 2024 13:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>迎宾员：记录你是如何认识朋友的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg51nr/greeter_keep_track_of_how_you_met_your_friends/</link>
-      <description><![CDATA[   /u/freshman_dev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg51nr/greeter_keep_track_of_how_you_met_your_friends/</guid>
-      <pubDate>Sat, 16 Mar 2024 12:32:52 GMT</pubDate>
+      <title>制作了一个 Web 应用程序，可将图像大小压缩高达 1 到 100%、无文件大小限制、离线工作、无每日限制、无需上传：IMGCentury.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg3i9h/made_a_webapp_to_compress_image_size_by_up_to_1/</link>
+      <description><![CDATA[        由   提交/u/kAcom24  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg3i9h/made_a_webapp_to_compress_image_size_by_up_to_1/</guid>
+      <pubDate>Sat, 16 Mar 2024 10:58:55 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个后端 Api SaaS 样板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg4nyu/i_built_a_backend_api_saas_boilerplate/</link>
-      <description><![CDATA[是的，有很多这样的。在 javascript 领域...在使用 php 或 python 的非类型领域。 我认为像 .net 或 go 这样的类型化后端 http json api 应该是默认选择，你可以很多比您预期的更快。 它包含所有好东西，例如 auth、ef core、stripe 集成、测试、后台服务、计量，以便您可以将您的 api 作为独立产品货币化。 --- 如果您有兴趣，请查看该网站。查看文档并让我知道您的想法。 我对此进行了很多思考。超出了我最初的计划，而且非常有趣。 您可以在这里查看：breakneck.dev 你觉得怎么样？   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg4nyu/i_built_a_backend_api_saas_boilerplate/</guid>
-      <pubDate>Sat, 16 Mar 2024 12:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有网络开发人员“前 10 名......”都是由人工智能/公关人员/代码传播者编写的还是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg42fj/are_all_web_dev_top_10_written_by_ai_pr_people/</link>
-      <description><![CDATA[在过去的几年里，Google 一直在推动一堆基本上只做“前 10 名......”的网站。类型的内容。如果你有几年的经验，你当然知道这些清单绝对意味着他妈的一切。问题仍然是，它们是实际有用的文章、博客等之上的信息噪音。 我真正的问题是：你们今天如何搜索可靠的信息（当然，ChatGPT 除外）？您只是在 Google 上进行分面搜索吗？   由   提交 /u/skwyckl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg42fj/are_all_web_dev_top_10_written_by_ai_pr_people/</guid>
-      <pubDate>Sat, 16 Mar 2024 11:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀]我创造了我的梦想项目！基于位置的社交媒体平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg3qrz/showoff_saturday_i_created_my_dream_project_a/</link>
-      <description><![CDATA[大家好， 过去一周我一直没有休息，因为我开始开发我的梦想项目。 p&gt; ​ 过去 10 年来，我一直有创建一个基于位置数据的社交媒体平台的想法。但我没有时间或知识来构建它。 基本上，我一直想与人们分享地图上的信息。它可以是交通事故、聚会、音乐会或任何可以固定在地图上以获取详细信息的事物。 ​ 我觉得它已经准备好分享作为测试版。 它有很多错误、缺少功能甚至设计缺陷，但它正在运行，我对此感到非常高兴。 这里是：https://shouterra.com/ 感谢大家的阅读！   由   提交 /u/demongibi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg3qrz/showoff_saturday_i_created_my_dream_project_a/</guid>
-      <pubDate>Sat, 16 Mar 2024 11:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理自定义静态 HTML/CSS/JS 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg3lwf/managing_custom_static_htmlcssjs_website/</link>
-      <description><![CDATA[大家好，首先我知道这个问题之前已经讨论过，并且我已经搜索过 reddit、stackoverflow 和许多其他内容，但尽管找到了非常有用的帖子，但我无法&#39;找不到明确的答案。 所以基本上，我有一堆 html/css/js 文件，这些文件是我通过在线购买模板并将其自定义为遗忘而创建的（这是一个从右到左的语言网站）因此没有免费模板或 SSG 可以完成这项工作）。这是一个静态博客/教程/电子学习类型的网站，我想将前端连接到无头 CMS 来管理内容。 根据我收集的信息，首先我需要将此模板移植到 SSG像 11ty/gatsby/nextjs 等，然后将其连接到无头 CMS，如 Strapi/PayloadCMS/Directus 等。对吗？ 如果是这样，任何人都可以建议适合此用途的 SSG 和无头 CMS 选项案件？或者也许还有其他解决方案？我真的迷失在这么多的选项和文档之间！ 🥲 P.S：我尝试过 WordPress，但并没有真正为我工作。我需要手写自定义 html 的灵活性。 感谢大家的宝贵时间。 🙂   由   提交 /u/White_Injun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg3lwf/managing_custom_static_htmlcssjs_website/</guid>
-      <pubDate>Sat, 16 Mar 2024 11:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我进行了 OwaspZAP 被动扫描，并收到“Access-Control-Allow-Origin: *”的中等风险警告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg35e8/i_did_a_owaspzap_passive_scan_and_get_a_medium/</link>
-      <description><![CDATA[我得到这个是为了 https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css 或对于 stripe 或对于 https://code.jquery.com/jquery-3.5.1.slim.min.js。难道是假旗？不知道该怎么处理它。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg35e8/i_did_a_owaspzap_passive_scan_and_get_a_medium/</guid>
-      <pubDate>Sat, 16 Mar 2024 10:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 JavaScript 打开另一个网页</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg2kpl/opening_another_webpage_using_javascript/</link>
-      <description><![CDATA[我尝试使用表单提交的结果打开另一个网页，但遇到问题。我尝试过使用document.location.href方法打开，但是拒绝。 是否是JavaScript文件无法获取表单提交？我的代码有什么问题？我的代码看起来很完美，但它没有重定向到外部网页 我所说的文件是 script1.js 文件。它应该根据表单提交的结果进行重定向。它从index.html 页面获取这些结果。选择框中的选项由 script.js 文件修改。  它应该根据表单的结果打开test.html或test2.html。我的代码有什么问题？这只是我正在尝试开发的网站的一部分。 代码位于此 GitHub 存储库https:// /github.com/FrankKangire/selectbox   由   提交 /u/FrancescoKay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg2kpl/opening_another_webpage_using_javascript/</guid>
-      <pubDate>Sat, 16 Mar 2024 09:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 URL 缩短器，可以根据规则重定向到任何地方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg2csc/i_made_a_url_shortener_that_redirects_anywhere/</link>
-      <description><![CDATA[大家好， 我非常高兴能在周六的展示会上与大家分享我的业余项目，Novu.Link。 基本上，它是一个简单的网络应用程序，您可以在其中创建单个 URL 二维码，但使用扭曲：单个链接可以根据您设置的规则重定向到多个目的地。 我最初为一家当地餐厅构建了 Novu.Link，该餐厅需要一个神奇的单个二维码来重定向到他们的早餐和午餐菜单一天中的某个时间，但我认为可能还有其他人也可以从中受益。这仍然是一项正在进行的工作，可能有一百万个东西我可以添加或改进，但是嘿，这不是副项目的乐趣吗？ 我很想听听你的想法和反馈在 Novu.Link 上。如果您对它的工作原理有任何疑问或对功能有任何建议，我洗耳恭听！  Novu.Link  &amp;# 32；由   提交/u/mwargan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg2csc/i_made_a_url_shortener_that_redirects_anywhere/</guid>
-      <pubDate>Sat, 16 Mar 2024 09:37:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg1sa6/help_needed/</link>
-      <description><![CDATA[我尝试从 https:/ 导入 SVG 图标/erikflowers.github.io/weather-icons/ 用于我正在从事的项目。有人提到可以使用“wi-fw”类调整宽度和高度，但我在这样做时遇到了困难。有人可以帮我解决这个问题吗？   由   提交/u/eelric837  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg1sa6/help_needed/</guid>
-      <pubDate>Sat, 16 Mar 2024 08:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Node/Bun 项目还不使用替代的 package.json 格式？喜欢带注释的 JSON 还是 JSON5？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg1okw/why_dont_nodebun_projects_use_an_alternative/</link>
-      <description><![CDATA[我一直想知道 VSCode 的 settings.json 如何支持注释。显然，它使用一种称为 JSONC（或带有注释的 JSON）的格式。我知道 JSON5 显然也有尾随逗号和注释。它确实有助于它看起来更具可读性。 但是，在 Node/Bun 项目中，我们只有常规的 package.json。暂无评论。添加这是一件小事，但我觉得它可以帮助在一些脚本变得庞大时记录它们。 添加我缺少的功能是否有一些复杂性？ &lt; !-- SC_ON --&gt;  由   提交 /u/blankeos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg1okw/why_dont_nodebun_projects_use_an_alternative/</guid>
-      <pubDate>Sat, 16 Mar 2024 08:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何建立一个像 typeframes 这样的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg13r2/how_would_one_build_a_site_like_typeframes/</link>
-      <description><![CDATA[我刚刚发现typeframes.com。顺便说一句，这不是由他们或任何东西赞助的。 ​ 它基本上是一个“视频编辑器”。它将文本（和其他剪辑）与音频同步。我猜它就像一个迷你的后期效果。我检查了 wappalyzer，找不到他们是否使用任何库等。我尝试通过 devtools 进行检查，当您按下播放时，音频在后台播放，而主编辑器视图不断更改 div 内容（不是 canvas 或 svg 或任何类似的内容） ）。不知道他们是如何“计时”的这些 div 会更改音频计时。 ​ 假设这些只是 div，并且它们只是每帧更改 div，我也不确定它们如何导出将其导入mp4（顶部有一个导出按钮）。也许他们在有头的浏览器（剧作家、木偶师、浏览器堆栈等）中播放它，然后只是屏幕录制它？但这不会提供 4k 质量等。导出视频似乎有多个与压缩级别相关的选项，所以也许他们正在使用一些 ffmpeg 库将视频渲染为 mp4。但是，如果我们对 div 的假设是正确的，那么他们如何获取一些 div 并将它们传递给 ffmpeg 实用程序以生成 mp4？ ​ P.S 如果有人想要创建一个视频，我想你可以尝试一下，而无需创建帐户。添加下面的图像以了解编辑器的外观 https://i.imgur.com/v9ddS2v.png&lt; /a&gt;   由   提交/u/shadowknight094  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg13r2/how_would_one_build_a_site_like_typeframes/</guid>
-      <pubDate>Sat, 16 Mar 2024 08:04:21 GMT</pubDate>
+      <title>有没有从事 Pornhub 相关产品的开发人员发现来自德克萨斯州的用户有所增加？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfv3ly/any_devs_working_on_pornhub_adjacent_products/</link>
+      <description><![CDATA[只是好奇这一发展的连锁反应。   由   提交 /u/SenorSplashdamage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfv3ly/any_devs_working_on_pornhub_adjacent_products/</guid>
+      <pubDate>Sat, 16 Mar 2024 02:04:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
