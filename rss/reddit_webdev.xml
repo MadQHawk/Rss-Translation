@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 09:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 12:23:01 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个后端 Api SaaS 样板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg4nyu/i_built_a_backend_api_saas_boilerplate/</link>
+      <description><![CDATA[是的，有很多这样的。在 javascript 领域...在使用 php 或 python 的非类型领域。 我认为像 .net 或 go 这样的类型化后端 http json api 应该是默认选择，你可以很多比您预期的更快。 它包含所有好东西，例如 auth、ef core、stripe 集成、测试、后台服务、计量，以便您可以将您的 api 作为独立产品货币化。 --- 如果您有兴趣，请查看该网站。查看文档并让我知道您的想法。 我对此进行了很多思考。超出了我最初的计划，而且非常有趣。 您可以在这里查看：breakneck.dev 你觉得怎么样？   由   提交 /u/Venisol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg4nyu/i_built_a_backend_api_saas_boilerplate/</guid>
+      <pubDate>Sat, 16 Mar 2024 12:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Winglang 设计生产级 CRUD REST API：用于可扩展解决方案的 TypeScript 方言</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg4640/designing_a_productiongrade_crud_rest_api_using/</link>
+      <description><![CDATA[我想分享这篇文章 Asher Sterkin，他深入研究了设计和开发 CRUD（创建、读取、更新、删除）REST API 的复杂性，这是后端开发人员的一项基本技能。 Sterkin 的帖子既是教程又是教程以及为那些希望学习或改进 API 开发方法的人提供的一组最佳实践。 以下是一些关键要点：   框架选择：Sterkin 首先比较适合 REST API 开发的各种框架，最终根据其性能、易用性和社区支持推荐一些框架。 设计原则：重点是设计直观且可扩展的 API。 Sterkin 就 RESTful 原则提出建议，例如适当使用 HTTP 动词以及以代表数据层次结构的方式构造 URL。 身份验证和安全性：该博客文章强调了保护安全的重要性REST API，提供对 OAuth 2.0 和 JWT（JSON Web 令牌）等身份验证方法的深入了解。 Sterkin 提供了如何安全地实现这些的示例。 错误处理：Sterkin 指出了错误处理中的常见陷阱，并提出了一种结构化方法来确保 API 使用者收到清晰且有用的错误 测试策略：强调了彻底测试的重要性，Sterkin 提出了单元测试、集成测试和端到端测试的工具和方法，以确保 API可靠性。  在此处阅读全文 如何您是否实现了生产级 API，确保安全性和可扩展性？   由   提交 /u/XenophobicCatfish09   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg4640/designing_a_productiongrade_crud_rest_api_using/</guid>
+      <pubDate>Sat, 16 Mar 2024 11:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有网络开发人员“前 10 名......”都是由人工智能/公关人员/代码传播者编写的还是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg42fj/are_all_web_dev_top_10_written_by_ai_pr_people/</link>
+      <description><![CDATA[在过去的几年里，Google 一直在推动一堆基本上只做“前 10 名......”的网站。类型的内容。如果你有几年的经验，你当然知道这些清单绝对意味着他妈的一切。问题仍然是，它们是实际有用的文章、博客等之上的信息噪音。 我真正的问题是：你们今天如何搜索可靠的信息（当然，ChatGPT 除外）？您只是在 Google 上进行分面搜索吗？   由   提交 /u/skwyckl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg42fj/are_all_web_dev_top_10_written_by_ai_pr_people/</guid>
+      <pubDate>Sat, 16 Mar 2024 11:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀]我创造了我的梦想项目！基于位置的社交媒体平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg3qrz/showoff_saturday_i_created_my_dream_project_a/</link>
+      <description><![CDATA[大家好， 过去一周我一直没有休息，因为我开始开发我的梦想项目。 p&gt; ​ 过去 10 年来，我一直有创建一个基于位置数据的社交媒体平台的想法。但我没有时间或知识来构建它。 基本上，我一直想与人们分享地图上的信息。它可以是交通事故、聚会、音乐会或任何可以固定在地图上以获取详细信息的事物。 ​ 我觉得它已经准备好分享作为测试版。 它有很多错误、缺少功能甚至设计缺陷，但它正在运行，我对此感到非常高兴。 这里是：https://shouterra.com/ 感谢大家的阅读！   由   提交 /u/demongibi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg3qrz/showoff_saturday_i_created_my_dream_project_a/</guid>
+      <pubDate>Sat, 16 Mar 2024 11:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理自定义静态 HTML/CSS/JS 网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg3lwf/managing_custom_static_htmlcssjs_website/</link>
+      <description><![CDATA[大家好，首先我知道这个问题之前已经讨论过，并且我已经搜索过 reddit、stackoverflow 和许多其他内容，但尽管找到了非常有用的帖子，但我无法&#39;找不到明确的答案。 所以基本上，我有一堆 html/css/js 文件，这些文件是我通过在线购买模板并将其自定义为遗忘而创建的（这是一个从右到左的语言网站）因此没有免费模板或 SSG 可以完成这项工作）。这是一个静态博客/教程/电子学习类型的网站，我想将前端连接到无头 CMS 来管理内容。 根据我收集的信息，首先我需要将此模板移植到 SSG像 11ty/gatsby/nextjs 等，然后将其连接到无头 CMS，如 Strapi/PayloadCMS/Directus 等。对吗？ 如果是这样，任何人都可以建议适合此用途的 SSG 和无头 CMS 选项案件？或者也许还有其他解决方案？我真的迷失在这么多的选项和文档之间！！ 🥲 P.S：我尝试过 WordPress，但并没有真正为我工作。我需要手写自定义 html 的灵活性。 感谢大家的宝贵时间。 🙂   由   提交 /u/White_Injun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg3lwf/managing_custom_static_htmlcssjs_website/</guid>
+      <pubDate>Sat, 16 Mar 2024 11:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我进行了 OwaspZAP 被动扫描，并收到“Access-Control-Allow-Origin: *”的中等风险警告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg35e8/i_did_a_owaspzap_passive_scan_and_get_a_medium/</link>
+      <description><![CDATA[我得到这个是为了 https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css 或对于 stripe 或对于 https://code.jquery.com/jquery-3.5.1.slim.min.js。难道是假旗？不知道该怎么处理它。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg35e8/i_did_a_owaspzap_passive_scan_and_get_a_medium/</guid>
+      <pubDate>Sat, 16 Mar 2024 10:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 JavaScript 打开另一个网页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg2kpl/opening_another_webpage_using_javascript/</link>
+      <description><![CDATA[我尝试使用表单提交的结果打开另一个网页，但遇到问题。我尝试过使用document.location.href方法打开，但是拒绝。 是否是JavaScript文件无法获取表单提交？我的代码有什么问题？我的代码看起来很完美，但它没有重定向到外部网页 我所说的文件是 script1.js 文件。它应该根据表单提交的结果进行重定向。它从index.html 页面获取这些结果。选择框中的选项由 script.js 文件修改。  它应该根据表单的结果打开test.html或test2.html。我的代码有什么问题？这只是我正在尝试开发的网站的一部分。 代码位于此 GitHub 存储库https:// /github.com/FrankKangire/selectbox   由   提交 /u/FrancescoKay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg2kpl/opening_another_webpage_using_javascript/</guid>
+      <pubDate>Sat, 16 Mar 2024 09:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 URL 缩短器，可以根据规则重定向到任何地方</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg2csc/i_made_a_url_shortener_that_redirects_anywhere/</link>
+      <description><![CDATA[大家好， 我非常高兴能在周六的展示会上与大家分享我的业余项目，Novu.Link。 基本上，它是一个简单的网络应用程序，您可以在其中创建单个 URL 二维码，但使用扭曲：单个链接可以根据您设置的规则重定向到多个目的地。 我最初为一家当地餐厅构建了 Novu.Link，该餐厅需要一个神奇的单个二维码来重定向到他们的早餐和午餐菜单一天中的某个时间，但我认为可能还有其他人也可以从中受益。这仍然是一项正在进行的工作，可能有一百万个东西我可以添加或改进，但是嘿，这不是副项目的乐趣吗？ 我很想听听你的想法和反馈在 Novu.Link 上。如果您对它的工作原理有任何疑问或对功能有任何建议，我洗耳恭听！  Novu.Link  &amp;# 32；由   提交/u/mwargan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg2csc/i_made_a_url_shortener_that_redirects_anywhere/</guid>
+      <pubDate>Sat, 16 Mar 2024 09:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>新版本的 Netscape 刚刚发布</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bg23lj/a_new_version_of_netscape_just_dropped/</link>
+      <description><![CDATA[     &lt; /td&gt; 刚刚找到“Netscape Navigator X” URL：https: //mtutech.net   由   提交/u/Puzzleheaded_Sink_31   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bg23lj/a_new_version_of_netscape_just_dropped/</guid>
+      <pubDate>Sat, 16 Mar 2024 09:18:47 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1bg1sa6/help_needed/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[   我无法解决。价格如此之低，肯定是模板工作或诈骗工作，但他们显然支付了一大笔钱来向人们做广告。 https://www.facebook.com/share/mpozw3U7TufDdwqH/?mibextid=WC7FNe   由   提交 /u/tcoysh   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bg0kk4/why_would_this_person_be_spending_only_to/</guid>
       <pubDate>Sat, 16 Mar 2024 07:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动延迟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bg0amx/boot_delay/</link>
-      <description><![CDATA[      过去三天，每次我关闭或打开计算机时，我都会收到此文本，但我似乎无法逃脱或关闭它，只需等待它结束。我双启动 kali 和 ubuntu，有人说这可能是操作系统不兼容的原因。 但是我双启动已经有一年了，而且已经过去三天了。第一次发生是在下载 ELK stackk 后的晚上。 正如你所看到的，现在已经待机了 22 分钟。可能是什么问题？   由   提交/u/maeskurl  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bg0amx/boot_delay/</guid>
-      <pubDate>Sat, 16 Mar 2024 07:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能会取代你吗？根据你的简历，了解人工智能需要多长时间才能取代你的工作。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfzv7n/will_ai_replace_you_find_out_how_long_it_will/</link>
-      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfzv7n/will_ai_replace_you_find_out_how_long_it_will/</guid>
-      <pubDate>Sat, 16 Mar 2024 06:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>React Native PanGestureHandler 测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfze8e/react_native_pangesturehandler_test/</link>
-      <description><![CDATA[       由   提交/u/NuGGGzGG   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfze8e/react_native_pangesturehandler_test/</guid>
-      <pubDate>Sat, 16 Mar 2024 06:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>app.netlify.com 已关闭吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfxjy3/is_appnetlifycom_down/</link>
-      <description><![CDATA[是否有其他人在尝试连接到 app.netlify 时遇到 5XX 错误。 com？ 到目前为止我已经看过 500、502 和 503。我能够短暂登录，但暂时返回错误。   由   提交/u/Nessus1985   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfxjy3/is_appnetlifycom_down/</guid>
-      <pubDate>Sat, 16 Mar 2024 04:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>页面速度洞察不起作用 - 网址无效</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfxczu/page_speed_insights_not_working_invalid_url/</link>
-      <description><![CDATA[嗨， 我正在将它用于我正在开发的网站，突然它返回“”无效网址”错误，检查了其他网址，同样的问题 清除缓存，尝试隐身模式，更改浏览器和网络，在其他设备上尝试，仍然没有任何结果 知道可能是什么原因造成的吗？  谢谢 3分钟后编辑：好吧，它又可以工作了，仍然想知道它是否发生在其他人身上！    由   提交/u/bitchyasshole  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfxczu/page_speed_insights_not_working_invalid_url/</guid>
-      <pubDate>Sat, 16 Mar 2024 04:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何禁用选择文本和万无一失的方法来禁用右键单击/复制/粘贴/剪切？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfw4m0/how_to_disable_selecting_text_and_foolproof_way/</link>
-      <description><![CDATA[大家好， 我想知道如何禁止某人按照 此网站。  该网站的开发人员还禁用了照片的右键单击功能，你只能固定它们，但我可以通过禁用 JavaScript 来解决这个问题。不，我并不是想窃取她的内容，最初是从 Youtube 定向到该网站寻找甜菜鹰嘴豆泥食谱（对于那些好奇的人来说，结果很棒），但后来我想在谷歌上搜索一种调味品，发现发现我不能只选择文本并右键单击进行搜索。 所以，根据问题，我如何在我的博客上实现此功能（即使在我禁用 JavaScript 后这仍然有效，是的，我重复这一点是为了额外强调）？而且，即使在禁用 JavaScript 后，我​​怎样才能阻止人们复制我的照片。 提前致谢！   由   提交/u/Full_Eye7824   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfw4m0/how_to_disable_selecting_text_and_foolproof_way/</guid>
-      <pubDate>Sat, 16 Mar 2024 02:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js 作为 wasm 模块，静态页面上的全栈。如今，Webdev 需要变得非常疯狂。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bftv0d/nodejs_as_wasm_module_fullstack_on_a_static_page/</link>
-      <description><![CDATA[https://allyoucaneat.robeert.com/    由   提交/u/pucyta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bftv0d/nodejs_as_wasm_module_fullstack_on_a_static_page/</guid>
-      <pubDate>Sat, 16 Mar 2024 01:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>你是在第一个括号之前还是之后换行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bftdsz/do_you_line_break_before_or_after_first/</link>
-      <description><![CDATA[我总是在不同的代码库中看到这两种在打开brakets*之前或之后进行中断的方式。  function helloReddit() { if (stuff) { // 我们做到了 } } function helloReddit () { if (stuff) { // 耶！ } }  第一个更受开始使用 JS 编码的开发人员欢迎，第二个则更受使用 C 编码的开发人员欢迎。这有什么好处？您使用/喜欢哪个，为什么？   由   提交 /u/CultivatorX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bftdsz/do_you_line_break_before_or_after_first/</guid>
-      <pubDate>Sat, 16 Mar 2024 00:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>条纹替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bft9h8/stripe_alternative/</link>
-      <description><![CDATA[Stripe 在我的国家/地区（埃及）不可用。付款处理的最佳替代方案是什么？   由   提交 /u/ILoveTypeScript   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bft9h8/stripe_alternative/</guid>
-      <pubDate>Sat, 16 Mar 2024 00:35:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
