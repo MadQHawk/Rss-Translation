@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 16 Mar 2024 00:51:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 03:13:51 GMT</lastBuildDate>
     <item>
-      <title>超级煎饼</title>
-      <link>https://www.opensourceagenda.com/projects/super-pancake</link>
-      <description><![CDATA[矿工]]></description>
-      <guid>https://www.opensourceagenda.com/projects/super-pancake</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:53 GMT</pubDate>
+      <title>React 节点网络爬虫</title>
+      <link>https://www.opensourceagenda.com/projects/react-node-web-scraper</link>
+      <description><![CDATA[最后一年项目，抓取电子商务商店的数据并在 ReactJS 应用程序中显示.]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-node-web-scraper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>超级骗子模因</title>
-      <link>https://www.opensourceagenda.com/projects/super-duper-meme</link>
-      <description><![CDATA[VPN]]></description>
-      <guid>https://www.opensourceagenda.com/projects/super-duper-meme</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:53 GMT</pubDate>
+      <title>Linkedin 网络爬虫</title>
+      <link>https://www.opensourceagenda.com/projects/linkedin-web-scraper</link>
+      <description><![CDATA[用于 LinkedIn 的 Python Web Scraper，用于收集和存储公司数据（例如名称、描述、行业）等）到.xls文件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/linkedin-web-scraper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>可爱的奥克托·加班佐</title>
-      <link>https://www.opensourceagenda.com/projects/cuddly-octo-garbanzo</link>
-      <description><![CDATA[语音转换器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cuddly-octo-garbanzo</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:53 GMT</pubDate>
+      <title>印度尼西亚新闻爬虫</title>
+      <link>https://www.opensourceagenda.com/projects/indonesia-news-scraper</link>
+      <description><![CDATA[用于 Nodejs 的新闻抓取工具，有助于从印度尼西亚新闻门户网站抓取新闻。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/indonesia-news-scraper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>卷曲鳄梨酱</title>
-      <link>https://www.opensourceagenda.com/projects/curly-guacamole</link>
-      <description><![CDATA[l0p-hl]]></description>
-      <guid>https://www.opensourceagenda.com/projects/curly-guacamole</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:53 GMT</pubDate>
+      <title>PHP媒体服务器</title>
+      <link>https://www.opensourceagenda.com/projects/phpmediaserver</link>
+      <description><![CDATA[在任何浏览器中管理和播放您的家庭视频]]></description>
+      <guid>https://www.opensourceagenda.com/projects/phpmediaserver</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>神奇的藤壶</title>
-      <link>https://www.opensourceagenda.com/projects/fantastic-barnacle</link>
-      <description><![CDATA[退出标签]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fantastic-barnacle</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:52 GMT</pubDate>
+      <title>超越蟒蛇</title>
+      <link>https://www.opensourceagenda.com/projects/outscraper-python</link>
+      <description><![CDATA[该库提供从用 Python 语言编写的应用程序方便地访问 Outscraper API。允许通过您的代码使用 Outscraper 的服务。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/outscraper-python</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>无虫勺子</title>
-      <link>https://www.opensourceagenda.com/projects/bug-free-spoon</link>
-      <description><![CDATA[堡垒]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bug-free-spoon</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:52 GMT</pubDate>
+      <title>FZBypassBot</title>
+      <link>https://www.opensourceagenda.com/projects/fzbypassbot</link>
+      <description><![CDATA[优雅的快速多线程旁路机器人，可实现更大的任务。立即尝试！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fzbypassbot</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>阿米尔WLf1</title>
-      <link>https://www.opensourceagenda.com/projects/amirwlf1</link>
-      <description><![CDATA[btc]]></description>
-      <guid>https://www.opensourceagenda.com/projects/amirwlf1</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:52 GMT</pubDate>
+      <title>Crawlbase 代理爬行 Python</title>
+      <link>https://www.opensourceagenda.com/projects/crawlbase-proxycrawl-python</link>
+      <description><![CDATA[用于抓取和爬行的 ProxyCrawl Python 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crawlbase-proxycrawl-python</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>无错误 Octo 嘉年华</title>
-      <link>https://www.opensourceagenda.com/projects/bug-free-octo-fiesta</link>
-      <description><![CDATA[dbd]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bug-free-octo-fiesta</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:52 GMT</pubDate>
+      <title>库纳尔纳加科 IMDB 抓取工具</title>
+      <link>https://www.opensourceagenda.com/projects/kunalnagarco-imdb-scraper</link>
+      <description><![CDATA[🎬 最完整的 IMDb API 的尝试]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kunalnagarco-imdb-scraper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>分时度假</title>
-      <link>https://www.opensourceagenda.com/projects/timeshare</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/timeshare</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:51 GMT</pubDate>
+      <title>电影和连续剧刮刀</title>
+      <link>https://www.opensourceagenda.com/projects/movies-and-series-scraper</link>
+      <description><![CDATA[一个控制台应用程序，用于抓取任何电影或连续剧的有效观看链接季数和集数，您还可以一键下载整季。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/movies-and-series-scraper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>Dotnet 面试问题</title>
-      <link>https://www.opensourceagenda.com/projects/dotnet-interview-questions</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotnet-interview-questions</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:51 GMT</pubDate>
+      <title>蜘蛛图</title>
+      <link>https://www.opensourceagenda.com/projects/spidergram</link>
+      <description><![CDATA[复杂网站的结构分析工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/spidergram</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>混合群机械体</title>
-      <link>https://www.opensourceagenda.com/projects/hybridgroup-mechanoid</link>
-      <description><![CDATA[Mechanoid 是嵌入式系统上 WebAssembly 应用程序的框架。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hybridgroup-mechanoid</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:51 GMT</pubDate>
+      <title>网络收割者</title>
+      <link>https://www.opensourceagenda.com/projects/webreaper</link>
+      <description><![CDATA[C# 中的网络爬虫、爬虫和解析器。设计为简单、声明性且可扩展的网络抓取解决方案。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/webreaper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>埃文斯·斯内夫</title>
-      <link>https://www.opensourceagenda.com/projects/evanssnave</link>
-      <description><![CDATA[我的个人存储库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/evanssnave</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:51 GMT</pubDate>
+      <title>Behitek 社交爬虫</title>
+      <link>https://www.opensourceagenda.com/projects/behitek-social-scraper</link>
+      <description><![CDATA[适用于各种网站（包括 Youtube、Facebook、4rum、news、 ...）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/behitek-social-scraper</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>这个仓库有 118 颗星</title>
-      <link>https://www.opensourceagenda.com/projects/this-repo-has-118-stars</link>
-      <description><![CDATA[是的，这是真的:broken_heart:，目前它有 118 颗星 ⭐ 和21 个叉子🍴。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/this-repo-has-118-stars</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:50 GMT</pubDate>
+      <title>Python 和网络</title>
+      <link>https://www.opensourceagenda.com/projects/python-and-the-web</link>
+      <description><![CDATA[构建机器人、抓取网站或使用 API 来解决问题。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/python-and-the-web</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>环DNA</title>
-      <link>https://www.opensourceagenda.com/projects/circdna</link>
-      <description><![CDATA[从 Circle-seq、WGS 和 ATAC-seq 中鉴定染色体外环状 DNA (ecDNA) 的流程从癌症和其他真核细胞生成的数据。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/circdna</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:50 GMT</pubDate>
+      <title>修补</title>
+      <link>https://www.opensourceagenda.com/projects/tinking</link>
+      <description><![CDATA[🧶 无需代码，只需点击即可从任何网站提取数据。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tinking</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>清晰度提升器</title>
-      <link>https://www.opensourceagenda.com/projects/clarity-upscaler</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/clarity-upscaler</guid>
-      <pubDate>Sat, 16 Mar 2024 00:51:50 GMT</pubDate>
+      <title>Crwlrsoft爬虫</title>
+      <link>https://www.opensourceagenda.com/projects/crwlrsoft-crawler</link>
+      <description><![CDATA[快速（Web）爬虫和爬虫开发库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crwlrsoft-crawler</guid>
+      <pubDate>Sat, 16 Mar 2024 03:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
