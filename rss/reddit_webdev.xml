@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 03:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 06:15:32 GMT</lastBuildDate>
+    <item>
+      <title>在什么情况下，矢量图像的性能低于光栅图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgqah5/at_what_point_are_vector_images_less_performant/</link>
+      <description><![CDATA[大家好！我正在重建我的网站。我想展示我的一些项目，但希望我的网站能够尽可能快地为尽可能多的人运行。 我计划从我的移动应用程序中将布局重新创建为矢量图形（没有渐变或过滤器），但我想知道这是否会导致计算成本过高，并且性能会比光栅屏幕截图更差。如果不是，那么您会认为在什么复杂点上会发生这种情况（如果我不使用滤镜或任何东西而只是使用形状）？ 此外，将在这些矢量图像中显示的字体（如果它们确实是性能更好的选择）将具有已经加载到页面上的字体。在这种情况下，最好（并且可能）将已加载的字体链接到矢量，对吧？或者将文本转换为轮廓会更好吗？谢谢！   由   提交/u/6marvil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgqah5/at_what_point_are_vector_images_less_performant/</guid>
+      <pubDate>Sun, 17 Mar 2024 05:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站介绍屏幕？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgprir/intro_screen_to_website/</link>
+      <description><![CDATA[我不是开发人员，我拥有一家小型服装系列，想要更新我的网站。我已经使用大型卡特尔很长一段时间了，它非常基本，但可以完成工作。 我一直在考虑升级网站的想法。我喜欢 2000 年代初期的老派氛围。如果有意义的话，我真的很喜欢网站介绍页面的想法。就像当您访问该网站时，它会以简单的小动画和歌曲开始。  我的品牌叫做白日梦，氛围是迷幻的/其他世俗的，但如果这是有道理的，那就有点黑暗和梦幻。所以入口页面的想法我只是想要某种云动画，以纯粹想象的开始部分（威利旺卡歌曲）和云部分然后你进入网站。 无论如何，只是想弄清楚要做什么甚至这样称呼，所以如果我开始寻找某人来帮助该网站，我知道该说什么。   由   提交 /u/Spinuchi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgprir/intro_screen_to_website/</guid>
+      <pubDate>Sun, 17 Mar 2024 05:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的博客看起来怎么样？有什么我可以改进的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bgpk7j/how_does_my_blog_look_anything_that_i_can_improve/</link>
+      <description><![CDATA[这是我的个人博客/作品集网站。自从我开始在博客上获得相当多的浏览量以来，我想知道我可以在哪些方面改进。 用 Next.JS 制作 https://salehmubahar.com/   由   提交 /u/xdxero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bgpk7j/how_does_my_blog_look_anything_that_i_can_improve/</guid>
+      <pubDate>Sun, 17 Mar 2024 04:55:34 GMT</pubDate>
+    </item>
     <item>
       <title>Remilia 金库被黑客入侵，损失超过 100 万美元</title>
       <link>https://www.reddit.com/r/webdev/comments/1bglvjk/remilia_treasury_got_hacked_for_over_1_million/</link>
@@ -29,14 +50,14 @@
     <item>
       <title>【周六炫耀】为中小投资者打造直观的股票分析网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgiju7/show_off_saturday_created_a_intuitive_stock/</link>
-      <description><![CDATA[      创建了一个网站来帮助中小散户投资者做出明智的投资决策。提供来自分析师的实时价格数据、新闻、期权合约、价格预测和预测基本面。此外，它还拥有一个包含 4000 多名华尔街分析师的综合数据库，每个分析师都有单独的统计数据和星级评级，以区分可靠和不可靠的来源。  https://preview.redd .it/0c0uzu4v0soc1.png?width=1057&amp;format=png&amp;auto=webp&amp;s=27fc9c1e3248af2384c9c8a8e4b3c0b19b33d403 这仍然是一个菜鸟项目，但我希望通过您的投入来改进网站很多。  链接：https://stocknear.com/  &lt;!-- SC_ON - -&gt;  由   提交 /u/realstocknear   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      创建了一个网站来帮助中小散户投资者做出明智的投资决策。提供来自分析师的实时价格数据、新闻、期权合约、价格预测和预测基本面。此外，还拥有包含 4000 多名华尔街分析师的综合数据库，每位分析师都有单独的统计数据和星级评级，以区分可靠和不可靠的来源。  https://preview.redd .it/0c0uzu4v0soc1.png?width=1057&amp;format=png&amp;auto=webp&amp;s=27fc9c1e3248af2384c9c8a8e4b3c0b19b33d403 这仍然是一个菜鸟项目，但我希望通过您的投入来改进网站很多。  链接：https://stocknear.com/  &lt;!-- SC_ON - -&gt;  由   提交 /u/realstocknear   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgiju7/show_off_saturday_created_a_intuitive_stock/</guid>
       <pubDate>Sat, 16 Mar 2024 22:57:55 GMT</pubDate>
     </item>
     <item>
-      <title>一个用于后端应用程序的简单、模块化和可观察的 Go 框架。</title>
+      <title>用于后端应用程序的简单、模块化和可观察的 Go 框架。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgh96s/a_simple_modular_and_observable_go_framework_for/</link>
-      <description><![CDATA[在 Go 中构建后端应用程序确实令人惊叹。 但是，当您想要制作易于维护的产品时，不断发展且可靠，在能够专注于应用程序逻辑（依赖关系接线、可观察性仪器、可测试性等）之前，您经常会面临一堆复杂性（和样板代码）需要落实到位 我们创建并开源 Yokai 试图对此提供帮助：一个现成的框架，可让您专注于应用程序逻辑，并且需要照顾其余的。 它建立在我们认为非常好的 Go 库（OTEL、Fx、Echo、Cobra、Viper、Zerolog 等）之上，并牢记这 3 个原则：  p&gt;  简单：它非常易于使用、配置和测试 模块化：它附带可用的模块来扩展您的应用程序，以及构建和共享您自己的应用程序的简单方法  li&gt; 可观察：内置相关日志、跟踪和指标工具  现在可以编写 HTTP API、gRPC API 和工作线程（用于异步需求），一些模块来扩展它们。 您可以在文档中找到更多详细信息。 &lt; p&gt;我们真诚地希望您会感兴趣，我们愿意接受反馈、建议和贡献！   由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
+      <description><![CDATA[在 Go 中构建后端应用程序确实令人惊叹。 但是当您想让某些东西准备好并易于维护时，不断发展且可靠，在能够专注于应用程序逻辑（依赖关系接线、可观察性仪器、可测试性等）之前，您经常会面临一堆复杂性（和样板代码）需要落实到位 我们创建并开源 Yokai 试图对此提供帮助：一个现成的框架，可让您专注于应用程序逻辑，并且需要照顾其余的。 它建立在我们认为非常好的 Go 库（OTEL、Fx、Echo、Cobra、Viper、Zerolog 等）之上，并牢记这 3 个原则：  p&gt;  简单：它非常易于使用、配置和测试 模块化：它附带可用的模块来扩展您的应用程序，以及构建和共享您自己的应用程序的简单方法  li&gt; 可观察：内置相关日志、跟踪和指标工具  现在可以编写 HTTP API、gRPC API 和工作线程（用于异步需求），一些模块来扩展它们。 您可以在文档中找到更多详细信息。 &lt; p&gt;我们真诚地希望您会感兴趣，我们愿意接受反馈、建议和贡献！   由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgh96s/a_simple_modular_and_observable_go_framework_for/</guid>
       <pubDate>Sat, 16 Mar 2024 21:57:31 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[这是为与其他三名学生一起上课而制作的。最初它打算在前面使用 React，但我在最后一刻决定构建一个普通的 html/css/us 页面，因为我不知道 React 很好，而做 React 的学生将在一周内轮流参加一个会议。我们做得有多糟糕？我主要在后端完成数据库工作，直到最后的冲刺，然后我做了很多 vamilla 前端工作。   由   提交/u/artificialedge  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgfekg/our_not_half_bad_resume_sitecritique_welcome/</guid>
       <pubDate>Sat, 16 Mar 2024 20:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为前端开发的“危险”技能水平是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgf2x9/what_would_you_consider_a_dangerous_level_of/</link>
-      <description><![CDATA[一位招聘人员最近联系我，询问一家初创公司正在寻找全栈 Web 开发人员，特别强调“危险”的开发人员。级别的前端技能。 虽然我对自己的前端能力非常有信心，但我不一定会像其他一些专注于前端的开发人员那样声称拥有忍者级别的技能。 职位描述没有提供任何进一步的细节，所以我很好奇当应用程序以这种方式提到前端开发技能时，其他开发人员或招聘人员的想法。具体来说，我想了解他们认为什么是“危险”的。水平前端技能以及如何展示或评估这种能力。   由   提交/u/macjabeth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgf2x9/what_would_you_consider_a_dangerous_level_of/</guid>
-      <pubDate>Sat, 16 Mar 2024 20:17:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 EmailBuilder.js – 一个免费的开源电子邮件模板生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgev8r/introducing_emailbuilderjs_a_free_and_opensource/</link>
-      <description><![CDATA[如果您以前曾经为电子邮件编写过 HTML/CSS，您就会知道它是从头到尾的表格。  虽然有一些组件库可以帮助解决此问题，但我们希望采用更多无代码方法来构建模板，以便非开发人员可以为模板内容做出贡献。这是我们主要产品的原因，但是，我们最近决定开源我们备受喜爱的电子邮件模板生成器的社区版本。 我们称之为 EmailBuilder.js（GitHub，游乐场）。它是一个功能强大的基于块的电子邮件构建器，它吸收了其他开源库（例如 Editor.js 和电子邮件组件库）的最佳部分，并将它们放入一个易于使用的无代码生成器。 输出是结构良好的 JSON 文件或 HTML，可以在现代电子邮件客户端和设备上良好呈现。我们终于可以开始构建更好的产品电子邮件，而无需使用 90 年代风格的 HTML 和 CSS 😵‍💫 由于构建器完全免费且开源，团队可以根据需要自行托管和扩展构建器. 请务必使用我们的一些示例模板在我们的 Playground/demo 上试用一下：  欢迎电子邮件 一次性密码 (OTP) 重置密码 电子商务订单收据 SaaS 订阅收据&lt; /li&gt; 预订提醒 发布指标报告 回复消息  我们很想听听您的意见思考，我们很高兴看到每个人都用它构建了什么。 如果您喜欢它，请考虑给它一个在 GitHub 上加星 🌟（我是共同作者之一）。 ​   由   提交 /u/fixie__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgev8r/introducing_emailbuilderjs_a_free_and_opensource/</guid>
-      <pubDate>Sat, 16 Mar 2024 20:07:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的新投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgeu8n/check_out_my_new_portfolio_site/</link>
-      <description><![CDATA[使用 Next.js 和 Talwindcss 构建。由我在 Figma 上设计。    由   提交/u/diegovs05  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgeu8n/check_out_my_new_portfolio_site/</guid>
-      <pubDate>Sat, 16 Mar 2024 20:06:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
