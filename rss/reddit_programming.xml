@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 18 Mar 2024 06:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 09:12:56 GMT</lastBuildDate>
+    <item>
+      <title>小故事：追踪企业软件工程中从单体到 IDevP 的路径</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhmbz9/the_short_story_tracing_the_path_from_monoliths/</link>
+      <description><![CDATA[ 由   提交/u/RamithJ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhmbz9/the_short_story_tracing_the_path_from_monoliths/</guid>
+      <pubDate>Mon, 18 Mar 2024 09:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zig、Rust 和其他语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhllja/zig_rust_and_other_languages/</link>
+      <description><![CDATA[ 由   提交/u/Xaneris47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhllja/zig_rust_and_other_languages/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>JetBrains 推出具有自我优化管道的新一代 CI/CD</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhlkl8/jetbrains_launches_this_new_gen_cicd_with/</link>
+      <description><![CDATA[ 由   提交/u/yegnau  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhlkl8/jetbrains_launches_this_new_gen_cicd_with/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 10 大 Web 应用 Node.js 库</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhlfdn/my_top_10_nodejs_libraries_for_web_apps/</link>
+      <description><![CDATA[当很可能有人已经为我们解决了问题时，我们经常发现自己在重新发明轮子。 在本期实现时，我想向您展示我在几乎所有项目中使用的库，并提供它们的使用示例😊 让我知道您的想法！ 💭   由   提交/u/MarcoMoauro95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhlfdn/my_top_10_nodejs_libraries_for_web_apps/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种模式叫什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhkzdw/what_is_this_pattern_called/</link>
+      <description><![CDATA[传递一个实例并调用它是什么？目的是什么？ （而不是使用普通的 OO ？    由   提交  /u/tedster   [链接]  [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhkzdw/what_is_this_pattern_called/</guid>
+      <pubDate>Mon, 18 Mar 2024 07:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>敏捷产品生命周期管理 [最佳工具和实践]</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhk3ds/agile_product_lifecycle_management_best_tools/</link>
+      <description><![CDATA[ 由   提交/u/AzilenTech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhk3ds/agile_product_lifecycle_management_best_tools/</guid>
+      <pubDate>Mon, 18 Mar 2024 06:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 编码概念</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhk0op/python_coding_concepts/</link>
+      <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhk0op/python_coding_concepts/</guid>
+      <pubDate>Mon, 18 Mar 2024 06:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Postgres.js 创建强大的数据库应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1bhjzpu/use_postgresjs_to_create_powerful_database/</link>
+      <description><![CDATA[ 由   提交 /u/ankitdce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bhjzpu/use_postgresjs_to_create_powerful_database/</guid>
+      <pubDate>Mon, 18 Mar 2024 06:16:58 GMT</pubDate>
+    </item>
     <item>
       <title>布隆过滤器</title>
       <link>https://www.reddit.com/r/programming/comments/1bhhx9t/bloom_filters/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/FluxFlu  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bh9g82/swar_and_hamming_weight/</guid>
       <pubDate>Sun, 17 Mar 2024 21:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZSA Voyager - 程序员的最佳键盘？</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh95jz/zsa_voyager_a_best_keyboard_for_programmers/</link>
-      <description><![CDATA[ 由   提交/u/inelp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh95jz/zsa_voyager_a_best_keyboard_for_programmers/</guid>
-      <pubDate>Sun, 17 Mar 2024 21:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 101：掌握基本工作流程</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh7wk8/git_101_mastering_the_basic_workflow/</link>
-      <description><![CDATA[ 由   提交/u/Special_Community179   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh7wk8/git_101_mastering_the_basic_workflow/</guid>
-      <pubDate>Sun, 17 Mar 2024 20:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>JPEG DCT 文本损失化器</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh7t2z/jpeg_dct_text_lossifizer/</link>
-      <description><![CDATA[ 由   提交 /u/CrossFloss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh7t2z/jpeg_dct_text_lossifizer/</guid>
-      <pubDate>Sun, 17 Mar 2024 20:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么亚马逊的文化让我成为更好的工程师（5 条原则）</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh6hui/why_amazons_culture_makes_me_a_better_engineer_5/</link>
-      <description><![CDATA[ 由   提交/u/erFrankie99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh6hui/why_amazons_culture_makes_me_a_better_engineer_5/</guid>
-      <pubDate>Sun, 17 Mar 2024 19:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 使 Cloud Formation 堆栈的创建速度提高了 40%</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh4630/aws_makes_cloud_formation_stack_creation_up_to_40/</link>
-      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh4630/aws_makes_cloud_formation_stack_creation_up_to_40/</guid>
-      <pubDate>Sun, 17 Mar 2024 18:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>异步等待的机制</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh33zp/the_mechanics_of_async_await/</link>
-      <description><![CDATA[ 由   提交/u/dtornow  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh33zp/the_mechanics_of_async_await/</guid>
-      <pubDate>Sun, 17 Mar 2024 17:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>隐性回报的陷阱</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh2pwu/the_pitfall_of_implicit_returns/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh2pwu/the_pitfall_of_implicit_returns/</guid>
-      <pubDate>Sun, 17 Mar 2024 17:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从最小可行系统开始</title>
-      <link>https://www.reddit.com/r/programming/comments/1bh2pu2/start_with_a_minimum_viable_system/</link>
-      <description><![CDATA[ 由   提交 /u/VertiGuo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bh2pu2/start_with_a_minimum_viable_system/</guid>
-      <pubDate>Sun, 17 Mar 2024 17:08:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

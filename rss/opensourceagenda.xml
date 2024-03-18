@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Mon, 18 Mar 2024 06:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 09:13:35 GMT</lastBuildDate>
     <item>
-      <title>亚马逊替代品</title>
-      <link>https://www.opensourceagenda.com/projects/amazon-alternativen</link>
-      <description><![CDATA[德语国家/地区的购物选择]]></description>
-      <guid>https://www.opensourceagenda.com/projects/amazon-alternativen</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:15 GMT</pubDate>
+      <title>正义.sh</title>
+      <link>https://www.opensourceagenda.com/projects/justsh</link>
+      <description><![CDATA[将 Justfiles 编译为可移植 shell 脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/justsh</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>盗贼之海 雪崩</title>
-      <link>https://www.opensourceagenda.com/projects/sea-of-thieves-avalance</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sea-of-thieves-avalance</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:15 GMT</pubDate>
+      <title>交叉着色器</title>
+      <link>https://www.opensourceagenda.com/projects/crossshader</link>
+      <description><![CDATA[⚔️ 交叉编译着色器的工具。在 GLSL、HLSL、Metal Shader Language 或旧版本的 GLSL 之间进行转换。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crossshader</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>卡巴斯基专业版</title>
-      <link>https://www.opensourceagenda.com/projects/kaspersky-pro</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kaspersky-pro</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:15 GMT</pubDate>
+      <title>巴别塔</title>
+      <link>https://www.opensourceagenda.com/projects/phabel</link>
+      <description><![CDATA[PHP 转换器 - 立即编写和部署现代 PHP 8 代码。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/phabel</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 或 Pornhub</title>
-      <link>https://www.opensourceagenda.com/projects/youtube-or-pornhub</link>
-      <description><![CDATA[加密流量的服务识别。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/youtube-or-pornhub</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:14 GMT</pubDate>
+      <title>后记</title>
+      <link>https://www.opensourceagenda.com/projects/powscript</link>
+      <description><![CDATA[用 bash 编写的转译器：无痛 shellscript、基于缩进、带有 hipster-sparkles v1 BETA 的 shell 的咖啡 🎉 🎉🎉🎉谢谢fcard！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/powscript</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>Pyshark数据包分析</title>
-      <link>https://www.opensourceagenda.com/projects/pyshark-packet-analysis</link>
-      <description><![CDATA[此存储库提供了各种使用 Python 处理、过滤和分析 .pcap 文件的 Python 方法模块 PyShark。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pyshark-packet-analysis</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:14 GMT</pubDate>
+      <title>艾普比地铁站</title>
+      <link>https://www.opensourceagenda.com/projects/aappleby-metron</link>
+      <description><![CDATA[C++ 到 Verilog 的转换工具，可保证您的代码正常运行。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aappleby-metron</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>普罗克索谈话</title>
-      <link>https://www.opensourceagenda.com/projects/proxoar-talk</link>
-      <description><![CDATA[使用语音与 ChatGPT 交谈]]></description>
-      <guid>https://www.opensourceagenda.com/projects/proxoar-talk</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:14 GMT</pubDate>
+      <title>线索郎线索</title>
+      <link>https://www.opensourceagenda.com/projects/cluelang-clue</link>
+      <description><![CDATA[类似于 C/Rust 的编程语言，可编译为 Lua 代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cluelang-clue</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>右旋1</title>
-      <link>https://www.opensourceagenda.com/projects/dextronomous1</link>
-      <description><![CDATA[1]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dextronomous1</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:14 GMT</pubDate>
+      <title>历史</title>
+      <link>https://www.opensourceagenda.com/projects/hissp</link>
+      <description><![CDATA[这是带有 Lissp 的 Python。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hissp</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>完全合法的Ja3</title>
-      <link>https://www.opensourceagenda.com/projects/fullylegit-ja3</link>
-      <description><![CDATA[用于 JA3 TLS 客户端指纹算法的wireshark/tshark 插件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fullylegit-ja3</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:13 GMT</pubDate>
+      <title>Webfx 项目</title>
+      <link>https://www.opensourceagenda.com/projects/webfx-project-webfx</link>
+      <description><![CDATA[JavaFX 应用程序转译器。使用 JavaFX 编写您的 Web 应用程序，WebFX 会将其转译为纯 JS。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/webfx-project-webfx</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>IP雷达2</title>
-      <link>https://www.opensourceagenda.com/projects/ipradar2</link>
-      <description><![CDATA[实时检测和防御恶意网络活动和策略违规（漏洞利用、端口扫描程序、广告、遥测、状态监视等）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ipradar2</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:13 GMT</pubDate>
+      <title>CXGO</title>
+      <link>https://www.opensourceagenda.com/projects/cxgo</link>
+      <description><![CDATA[将 C 转译为 Go 的工具。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cxgo</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>苔藓生物</title>
-      <link>https://www.opensourceagenda.com/projects/bryobio</link>
-      <description><![CDATA[它的开发是为了加快 SOC 分析师在分析过程中的流程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bryobio</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:13 GMT</pubDate>
+      <title>埃萨拉</title>
+      <link>https://www.opensourceagenda.com/projects/aesara</link>
+      <description><![CDATA[Aesara 是一个 Python 库，用于定义、优化和高效评估涉及多维数组的数学表达式。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aesara</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>Wireshark V2g</title>
-      <link>https://www.opensourceagenda.com/projects/wireshark-v2g</link>
-      <description><![CDATA[V2G 协议解析器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wireshark-v2g</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:13 GMT</pubDate>
+      <title>SVG 到 SwiftUI</title>
+      <link>https://www.opensourceagenda.com/projects/svg-to-swiftui</link>
+      <description><![CDATA[将 SVG 转换为 SwiftUI 的 Shape 结构的工具。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/svg-to-swiftui</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>WGPO</title>
-      <link>https://www.opensourceagenda.com/projects/wgpot</link>
-      <description><![CDATA[高斯过程的 Wasserstein 距离和最优传输图]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wgpot</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:12 GMT</pubDate>
+      <title>py2many</title>
+      <link>https://www.opensourceagenda.com/projects/py2many</link>
+      <description><![CDATA[Python 到许多其他语言的转译器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/py2many</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>多KDE.jl</title>
-      <link>https://www.opensourceagenda.com/projects/multikdejl</link>
-      <description><![CDATA[多元核密度估计]]></description>
-      <guid>https://www.opensourceagenda.com/projects/multikdejl</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:12 GMT</pubDate>
+      <title>悦脚本</title>
+      <link>https://www.opensourceagenda.com/projects/yuescript</link>
+      <description><![CDATA[Moonscript 方言编译为 Lua。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yuescript</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>热线</title>
-      <link>https://www.opensourceagenda.com/projects/hotwire</link>
-      <description><![CDATA[Hotwire 可以让您以简单的方式研究一些流行协议的网络流量]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hotwire</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:12 GMT</pubDate>
+      <title>馒头上方</title>
+      <link>https://www.opensourceagenda.com/projects/oven-sh-bun</link>
+      <description><![CDATA[速度极快的 JavaScript 运行时、捆绑器、测试运行器和包管理器 – 全部集于一身&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/oven-sh-bun</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>90N45 D3v 数据库怪物</title>
-      <link>https://www.opensourceagenda.com/projects/90n45-d3v-dbmonster</link>
-      <description><![CDATA[通过射频活动跟踪和定位附近设备的多功能工具。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/90n45-d3v-dbmonster</guid>
-      <pubDate>Mon, 18 Mar 2024 06:17:12 GMT</pubDate>
+      <title>融合语言 Fut</title>
+      <link>https://www.opensourceagenda.com/projects/fusionlanguage-fut</link>
+      <description><![CDATA[Fusion 编程语言。转换为 C、C++、C#、D、Java、JavaScript、Python、Swift、TypeScript 和 OpenCL C。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fusionlanguage-fut</guid>
+      <pubDate>Mon, 18 Mar 2024 09:13:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

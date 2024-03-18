@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 06:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 09:13:21 GMT</lastBuildDate>
+    <item>
+      <title>Mitch Altman 关于开源硬件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bhm6p4/mitch_altman_about_opensource_hardware/</link>
+      <description><![CDATA[   /u/vojmar212  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bhm6p4/mitch_altman_about_opensource_hardware/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:59:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于“哑”健身追踪器（例如使用手表电池的非 Android 设备）是否有任何自由和开源软件选项？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bhm1yr/are_there_any_foss_options_for_a_dumb_fitness/</link>
+      <description><![CDATA[终于成功破解了我值得信赖的旧 Garmin vivofit 2，尽管它不是一款精美的 Android 智能手表，但我真的非常喜欢它的电池寿命。很确定我已经 3 年多（5 年多？）年没有更换过电池，而且你不需要（甚至能够）充电。 除非我的 google&lt; /del&gt;searx-foo 今天很弱，看起来大多数主流东西都是“智能”的。手表（我认为最多需要每周充电，甚至可能每天充电）……我对这种前景不太热衷。虽然我希望能够将原始健身数据导出到 Linux 桌面，但我更愿意避免让我的数据进入任何专有云系统 - 尤其是那些难以从这些系统导出数据的系统。 有人知道是否有一些真正基本的东西是开源的，或者如果不是的话，它至少可以让你对你的数据有一定的控制权？现成的产品是首选，特别是如果它们像 vivofit 一样具有防水功能。也就是说，我仍然会考虑 DIY 项目，只要它是可爱的并且尺寸合理......我不喜欢背着笔记本电脑，我想即使是锉刀 pi 也可以与普通手表/腕带计步器相比有点大。 如果没有，我可能会发现比转换为智能手表/智能追踪器更合适的其他建议吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/snyone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bhm1yr/are_there_any_foss_options_for_a_dumb_fitness/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>tlm - 使用 Ollama 创建用于命令行界面智能的 GitHub Copilot CLI 替代方案。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bhkmw0/tlm_using_ollama_to_create_a_github_copilot_cli/</link>
+      <description><![CDATA[   嘿！ 看看这个小但方便的工具有一个完全自托管的终端伴侣。 CodeLLaMa 非常了解几乎所有流行的 cli 工具和操作系统特定的 shell 命令，并且在终端上编写命令时可能会很方便。 ​  💻 适用于 macOS， Linux 和 Windows。 👩🏻‍💻 自动 shell 检测。 🚀 一个班轮生成和命令解释。 ⏰ Apple Silicon MacBook Pro 的平均响应时间配备 NVIDIA GPU 的体面 PC 大约需要 2-4 秒。  yusufcanb/tlm：本地 CLI Copilot，由 CodeLLaMa 提供支持。 💻🦙 (github.com) ​ https ://i.redd.it/unkm3ui0nslc1.gif   由   提交/u/yusufcanbayrak  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bhkmw0/tlm_using_ollama_to_create_a_github_copilot_cli/</guid>
+      <pubDate>Mon, 18 Mar 2024 07:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>具有 100% 无服务器 RAG 的 Markdown 编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bh82w7/markdown_editor_with_100_serverless_rag/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>这是 iFrame 的 GDPR 解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1bfptzo/here_is_a_gdpr_solution_for_iframes/</link>
-      <description><![CDATA[您可以在这里找到它：https: //github.com/FOSSalyze/privacy-Friendly-iframe 嵌入针对另一个网站的  可能会产生隐私问题，并可能违反 GDPR 和类似的隐私法。我开发了这个 Web 组件作为解决方案，在  加载之前添加同意屏幕。它允许轻松定制，并且可以与其他或自定义同意来源集成。 我真的很喜欢这个小项目的结果，并决定在 MIT 许可证下发布它。它与框架无关，并且是轻量级的（压缩后大约 2KB，包括 CSS 和翻译）。 我愿意接受反馈、批评或贡献，尤其是翻译。   由   提交 /u/TimothyLGillespie   [链接] [评论]]]></description>
+      <description><![CDATA[您可以在这里找到它：https: //github.com/FOSSalyze/privacy-Friendly-iframe 嵌入针对另一个站点的  可能会产生隐私问题，并可能违反 GDPR 和类似的隐私法。我开发了这个 Web 组件作为解决方案，在  加载之前添加同意屏幕。它允许轻松定制，并且可以与其他或自定义同意来源集成。 我真的很喜欢这个小项目的结果，并决定在 MIT 许可证下发布它。它与框架无关，而且是轻量级的（压缩后大约 2KB，包括 CSS 和翻译）。 我愿意接受反馈、批评或贡献，尤其是翻译。   由   提交 /u/TimothyLGillespie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bfptzo/here_is_a_gdpr_solution_for_iframes/</guid>
       <pubDate>Fri, 15 Mar 2024 22:02:56 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bfln43/translations_are_important_too/</guid>
       <pubDate>Fri, 15 Mar 2024 19:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，😙随着我们发布新版本的 Jami，我们不仅提高了源代码的可靠性，还为您提高了可靠性！请阅读以下内容：</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bfllj4/hello_everyone_as_we_release_a_new_version_of/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/GNUJami   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bfllj4/hello_everyone_as_we_release_a_new_version_of/</guid>
-      <pubDate>Fri, 15 Mar 2024 19:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放游戏后端：适用于所有游戏和工具的开源模块化后端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bfll6d/open_game_backend_opensource_modular_backend_for/</link>
-      <description><![CDATA[       由   提交/u/_AngelOnFira_   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bfll6d/open_game_backend_opensource_modular_backend_for/</guid>
-      <pubDate>Fri, 15 Mar 2024 19:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新利用 USB-C 壁式电源，将其变成无线台式电源！ :)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bfkl92/repurposing_a_usbc_wall_wart_turning_it_into_a/</link>
-      <description><![CDATA[       由   提交/u/Loud-Consideration-2   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bfkl92/repurposing_a_usbc_wall_wart_turning_it_into_a/</guid>
-      <pubDate>Fri, 15 Mar 2024 18:17:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
