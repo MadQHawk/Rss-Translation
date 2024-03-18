@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 18:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 21:14:04 GMT</lastBuildDate>
+    <item>
+      <title>人工智能和编码的未来：合作还是竞争？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi1by7/ai_and_the_future_of_coding_collaboration_or/</link>
+      <description><![CDATA[朋友还是敌人？人工智能对技术劳动力的影响？您是否认为人工智能法学硕士（大型语言模型）最终会达到我们无法在编码方面与他们竞争的地步，就像计算机可以在国际象棋中击败人类或计算速度更快一样？人工智能最终会在设计、规划和其他领域产生同样的效果吗？还是始终需要人工干预？   由   提交 /u/Dereference_operator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi1by7/ai_and_the_future_of_coding_collaboration_or/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi19kj/roast_my_site/</link>
+      <description><![CDATA[大家好， 之前提交了其中一项。我开发了一个网站来与当地抵押贷款顾问建立联系。 我对主页非常满意（除了缺少徽标，但很快就会出现）。 可以你烤我的表格（他们还不会提交）和整个网站？ www.yourmortgageadvisor.co。 uk   由   提交/u/Bretttles1986   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi19kj/roast_my_site/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>后续：作为学生收到录取通知书</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi0fr6/followup_received_an_offer_as_a_student/</link>
+      <description><![CDATA[您好。 我在这里对我之前的帖子进行跟进：https://www.reddit.com/r/webdev/comments/1bhra9b/received_an_offer_as_a_student/ 因此，首先我们想提供更多有关我们要为其制作的公司的信息。该公司将拥有 100 多名员工，背后有多个投资者。他们希望在明年之前完成申请，因为那将是他们开门的时间。 现在我们决定（正如很多人建议的那样）专门为要求我们的公司制作它但我们仍然会告诉他们我们未来使其更具可扩展性的想法。我们还将坚持使用 MySQL 作为数据库，使用 Laravel 作为后端，然后将 Vue.js 项目用于所需的仪表板。 现在我们仍然想知道是否应该将员工的应用程序制作成一个PWA 应用程序或制作一个 flutter 应用程序。这需要日历集成，我读到这很难做到，所以我们仍在考虑应该为应用程序选择哪一个。 最后，我们还想知道应该向他们询问什么价格对于这个应用程序，因为我们知道这在专业环境中是一个昂贵的应用程序，但由于我们只有 3 名学生，所以我们有点迷失在这里。 我知道为此定价很难，所以这里是有关我们具体要做什么的更多信息。 餐厅仪表板  管理员工（灵活员工和永久员工） &lt; li&gt;上传正式员工的轮班表  员工APP  灵活员工 选择上班时间  永久员工 提供可用时间  两者 查看总计小时 总收入 一些其他统计数据   我们不必使用算法来计算轮班表，他们会自己做，然后将其上传到应用程序供其正式员工查看。 还将建立一个系统，让经验丰富的员工获得更高的薪水。 （我们不必管理付款） 他们也会在一栋大楼内拥有多个房间 P.S.：我们在同一个班级，我们的毕业主题是软件和人工智能开发，所以不是全栈，但我们已经研究 IT 4-5 年了，完成了相当多的项目。目前，我们还在 Laravel 中为一个节日制作一个网站，其中有 2 个网上商店。   由   提交 /u/iVyperion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi0fr6/followup_received_an_offer_as_a_student/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么网页设计/开发如此昂贵？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bi013u/why_is_web_designdev_so_expensive/</link>
+      <description><![CDATA[哪些因素导致网页设计/开发成本高昂？这个询问并不是为了批评，而是出于好奇。   由   提交 /u/Existing-Target-6485   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bi013u/why_is_web_designdev_so_expensive/</guid>
+      <pubDate>Mon, 18 Mar 2024 19:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>精疲力竭，想要出去</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhycuc/burnt_out_and_wanting_out/</link>
+      <description><![CDATA[成为全栈开发人员已有 6 年了。在过去的几年里，我确实经历了倦怠和冒名顶替综合症的潮起潮落。我想我现在已经准备好结束我科技职业生涯的这一章了，日复一日的苦差事和互联网的总体趋势对我来说太令人沮丧和压力了。我觉得在现实世界中工作会更快乐，用我的双手/身体工作，而不是整天活在我的脑海里坐在屏幕前。有人能实现职业生涯180度这样的转变吗？我应该去贸易学校吗？感觉每隔几个月我就会陷入同样的​​心态......不知道从这里该去哪里   由   提交/u/fuzzy_cola  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhycuc/burnt_out_and_wanting_out/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，伙计们正在寻找有关导航栏的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhy85y/hey_guys_looking_for_some_advice_on_a_nav_bar/</link>
+      <description><![CDATA[      目前正在尝试使我的导航栏像这样，但希望使中心下拉有关如何做到这一点的任何建议，请添加 YouTube、GitHub 以及与此相关的任何链接，谢谢    由   提交/u/Jawwkneee__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhy85y/hey_guys_looking_for_some_advice_on_a_nav_bar/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>提供静态页面 CMS 功能的最简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhxy8e/easiest_way_to_give_a_static_page_cms/</link>
+      <description><![CDATA[不太熟悉 CMS 网站，客户已经有一个工作页面（不是我完成的），只是想在需要时添加一些帖子。他们说他们被推荐使用 Wordpress，但他们的页面是一个非常复杂的 HTML CSS 静态页面，所以我猜不可能将类似的东西迁移到 Wordpress，他们没有后端，页面托管在 netlify 中，任何想法能做什么？   由   提交 /u/Esternocleido   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhxy8e/easiest_way_to_give_a_static_page_cms/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>在应用程序中使用 HSL 或 HEX 代码哪个更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bhxwi0/whats_better_to_use_hsl_or_hex_codes_in_your/</link>
+      <description><![CDATA[大家好，我在 next JS 和 tailwind CSS 中开始了一个新项目。当我尝试根据自己的喜好自定义主题时，我决定使用 SHADCN UI 库。我看到 SHADCN 颜色是用 HSL 表示的。但我通常使用 HEX，所以我应该将整个主题转换为 HEX 还是只使用 HSL？我希望您的意见能够了解哪个更好？业内首选！谢谢。   由   提交/u/Musashi-13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bhxwi0/whats_better_to_use_hsl_or_hex_codes_in_your/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:26:41 GMT</pubDate>
+    </item>
     <item>
       <title>当多种技术看起来都合适时，您如何选择使用哪种技术？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bhx40a/how_do_you_choose_which_technology_to_use_when/</link>
@@ -22,7 +78,7 @@
     <item>
       <title>寻找快速 Unity 和 Kinect Photobooth 项目的开发人员</title>
       <link>https://www.reddit.com/r/webdev/comments/1bhweuf/seeking_developer_for_a_quick_unity_kinect/</link>
-      <description><![CDATA[我正在寻找一位熟练的 Unity 开发人员，具有 Photobooth 项目 Kinect 集成经验。我的截止日期很紧，需要帮助才能在明天早上之前完成此任务。   由   提交/u/RoundHighlight5823  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一位熟练的 Unity 开发人员，具有 Photobooth 项目 Kinect 集成经验。我的截止日期很紧，需要帮助才能在明天早上之前完成此任务。   由   提交 /u/RoundHighlight5823   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bhweuf/seeking_developer_for_a_quick_unity_kinect/</guid>
       <pubDate>Mon, 18 Mar 2024 17:27:13 GMT</pubDate>
     </item>
@@ -36,14 +92,14 @@
     <item>
       <title>我需要医疗保健网站设计方面的帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1bhvzz1/i_need_help_for_healthcare_website_design/</link>
-      <description><![CDATA[嗨，我一直在尝试进行医疗保健网站设计，但我发现它有点复杂。我尝试使用 YouTube 和 github 来帮助我了解有关设计的更多信息，但我找到的只是预约安排、医生和患者小组、账单支付等。我想要一个网站，它有更多的选项和独特的设计，但我没找到。  如果有人能分享我这样的网站的来源来满足我的需求，那将会非常有帮助。谢谢。    由   提交/u/peaky-swift  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我一直在尝试进行医疗保健网站设计，但我发现它有点复杂。我尝试使用 YouTube 和 github 来帮助我了解有关设计的更多信息，但我发现的只是预约安排、医生和患者小组、账单支付等。我想要一个网站，它有更多的选项和独特的设计，但我没找到。  如果有人能分享我这样的网站的来源来满足我的需求，那将会非常有帮助。谢谢。    由   提交 /u/peaky-swift   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bhvzz1/i_need_help_for_healthcare_website_design/</guid>
       <pubDate>Mon, 18 Mar 2024 17:10:23 GMT</pubDate>
     </item>
     <item>
       <title>Chrome 阻止了我的 Chrome 扩展程序背景文件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bhvy7d/chrome_is_blocking_my_chrome_extension_background/</link>
-      <description><![CDATA[我制作了一个 Chrome 扩展程序，可以跟踪用户的上网时间并对其进行分类。没什么新鲜事，我看到至少有 15 个扩展具有相同的功能。 问题是，有些计算机没有跟踪用户活动并且什么也不显示。而在像我这样的一些程序中，它工作得很好。 所有跟踪逻辑都放置在后台文件中。而弹出窗口中的其余逻辑工作正常。 我看到朋友的计算机发出警告： “增强安全浏览不信任此扩展” 其他扩展也可以在他们的计算机上正常工作。我还应该在开发人员仪表板中添加或修改其他内容吗？ 在隐私数据使用中，我检查了“网络历史记录”并详细解释了该扩展的作用。全部保存在本地，并且不会收集扩展程序之外的任何信息。 我使用 svelte 和“sveltekit-adapter-chrome-extension”创建了它。适配器。 我的扩展程序链接：https://chromewebstore.google.com/detail /firu-webtime-tracker/jhadlflplfkmelbpaoopgogcomhoeblj   由   提交/u/foottaster123  [链接] [评论]]]></description>
+      <description><![CDATA[我制作了一个 Chrome 扩展程序，可以跟踪用户的网络时间并对其进行分类。没什么新鲜事，我看到至少有 15 个扩展具有相同的功能。 问题是，有些计算机没有跟踪用户活动并且什么也不显示。而在像我这样的一些程序中，它工作得很好。 所有跟踪逻辑都放置在后台文件中。而弹出窗口中的其余逻辑工作正常。 我看到朋友的计算机发出警告： “增强安全浏览不信任此扩展” 其他扩展在他们的计算机上也能正常工作。我还应该在开发人员仪表板中添加或修改其他内容吗？ 在隐私数据使用中，我检查了“网络历史记录”并详细解释了该扩展的作用。全部保存在本地，并且不会收集扩展程序之外的任何信息。 我使用 svelte 和“sveltekit-adapter-chrome-extension”创建了它。适配器。 我的扩展程序链接：https://chromewebstore.google.com/detail /firu-webtime-tracker/jhadlflplfkmelbpaoopgogcomhoeblj   由   提交/u/foottaster123  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bhvy7d/chrome_is_blocking_my_chrome_extension_background/</guid>
       <pubDate>Mon, 18 Mar 2024 17:08:26 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[当前我正在使用此代码来检索当前经过身份验证的用户： const { data: sessionData, error: sessionError } =等待supabase.auth.setSession({access_token,refresh_token:2592000});  如果我没记错的话，我使用了 const { data: { user } } =等待supabase.auth.getUser() &lt; /pre&gt; 当时，但它没有返回任何经过身份验证的用户数据。此代码是在 Edge 运行时的 Next.js API 路由内实现的。我想知道使用  setSession()   是否是一个很好的替代方案，或者考虑到我正在使用 Pages Router，也许有更好的解决方案。    由   提交/u/1chbinamin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bhvtec/retrieving_authenticated_user_in_nextjs_edge_api/</guid>
       <pubDate>Mon, 18 Mar 2024 17:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>MongoDB 很糟糕还是我很糟糕？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhvqgm/does_mongodb_suck_or_do_i/</link>
-      <description><![CDATA[我有一个 VPS 和一个 VDS，我一直在尝试安装 mongo，但即使我一步一步按照文档操作，它仍然会给出愚蠢的错误没有描述，我不知道如何修复。 我设法在本地安装了最新的 mongo 版本，并使用 mongo 开发了应用程序，但服务器由于某种原因不接受 mongo。我在购买服务器的网站上开了一张票，他们说 mongo &gt;= 5 需要 AVX（无论是什么），而他们的服务器虚拟化不支持它。但是当我通过 CWP（CentOS Web 面板）安装 mongo 4 时，它说它已安装，但当我刷新页面时，它说 MongoDB 未安装。 这是我工作的第一周，我的上级已经开始怀疑我了（说实话，我也是）   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhvqgm/does_mongodb_suck_or_do_i/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于 Windows 自动 150% 缩放，弹出窗口很大</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhuo3g/popup_huge_because_of_windows_automatic_150_zoom/</link>
-      <description><![CDATA[      嗨，我正在帮助一位朋友建立一个网站（wordpress 网站构建器），我为他创建了一个弹出窗口来收集电子邮件地址。然而，当我完成后，发现他计算机上的 Windows 可以自动缩放到 150%，因此弹出窗口在他的屏幕上看起来很大，他需要滚动。  由于他没有手动将缩放设置为 150%，我认为这种情况很常见。我读了一下这个问题，大多数人说网站在任何情况下都应该响应，所以这应该不重要。嗯，网站确实是响应式的，弹出窗口也是如此。但是，我真的希望它适合视口，但同时，我无法真正使文本变小（标题为 ca 27px，p 为 15px）。  有没有一种可行的方法来解决这个问题，而又不会破坏非缩放用户的外观或扰乱可访问性（我知道 html/css/js）？ ​  他的观点&lt; /p&gt; 我的未缩放视图&lt; /p&gt;   由   提交 /u/Philosofen   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhuo3g/popup_huge_because_of_windows_automatic_150_zoom/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>当 jr 前端开发人员不理解时，哪些特定主题或功能会让您感到沮丧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhuj5w/what_specific_topics_or_features_do_you_find/</link>
-      <description><![CDATA[我听到的初级开发人员最大的痛点之一是他们缺乏对基础知识的理解。  在前端开发领域，我相信基本语言是 html、css 和 JavaScript。大多数路线图和视频都很好地列出了每种语言所需学习的主题，但并没有真正让您清楚地期望您作为一名合格的初级前端开发人员实际上应该能够构建什么。 如果初级学生想要真正建立真正的基础技能并能够将其应用到现实世界中，您认为他们应该能够建立哪些功能？ 这些希望🙏可以包括“我希望初级人员能够以相对较低的努力回答这个问题或实现此功能”到“虽然我仍然希望您能够回答或构建这个问题，但作为初级人员，我预计会遇到一些困难。”    由   提交 /u/he11mager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhuj5w/what_specific_topics_or_features_do_you_find/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:11:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助来创建超链接...不确定这是一个正确的地方询问，但询问</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhufwn/need_help_to_create_a_hyperlink_not_sure_this_is/</link>
-      <description><![CDATA[我朋友的生日即将到来，我想创建一个超链接（作为礼物），将他们带到一个私人网站，在那里他们将被问到多个问题，例如“我们第一次见面是什么时候”一个又一个问题，在他们回答了所有问题后我最后想放一些照片或视频。这是我的想法，但我不知道如何执行（我真的很想）。有人可以帮我解决这个问题吗？我应该如何开始或者在哪里可以获得适当的帮助？   由   提交 /u/AnanthaVA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhufwn/need_help_to_create_a_hyperlink_not_sure_this_is/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我在 13 年后从 Go 转向 JavaScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhtxvm/why_im_switching_from_go_to_javascript_after_13/</link>
-      <description><![CDATA[ 由   提交/u/treedor  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhtxvm/why_im_switching_from_go_to_javascript_after_13/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:47:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目前端框架 - 0 exp</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhtruy/frontend_framework_for_project_0_exp/</link>
-      <description><![CDATA[我的经验： 我曾经使用过普通的 HTML、CSS、JS。我还使用 TS 和 fastify 创建了后端应用程序。没有任何前端框架的经验。 问题： 我需要创建一个应用程序，该应用程序将成为新车和二手车的简单市场。后端Java + Spring Boot。我有 3 个月的时间来完成这个项目。我必须选择 Angular 或 React。经过快速研究后，我发现 React 应该更容易学习，因为内置的东西更少，但可能我需要安装一些库，所以我最终发现它并不那么简单。另一方面，Angular 看起来更复杂，但我拥有开箱即用的一切，对于具有 Java + Spring 经验的人来说应该不难理解。 您可以向我推荐其中一个框架和一些框架吗？对我的项目有用的库？ 如何处理在汽车搜索中应用多个过滤器？ 如果没有 React 经验，使用 Next.js 或 shadcn/ui 这样的东西是否困难？  提前致谢。   由   提交/u/mmaattxx  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhtruy/frontend_framework_for_project_0_exp/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能逃脱Wix？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhtl1p/how_can_i_escape_wix/</link>
-      <description><![CDATA[我对这个名为 Wix 的可怕的坏工具失去了理智。 问题是我有大约 100 页我的网站，不确定移动我的网站是否可行会是一个巨大的麻烦。 我应该取消我的网站并开始一个新网站吗？或者如果我在 Wordpress 上使用我的旧 Wix 域会更好吗？ 我不想与这个名为 Wix 的恶心软件有任何关系。   由   提交/u/No-Establishment4313  /u/No-Establishment4313 reddit.com/r/webdev/comments/1bhtl1p/how_can_i_escape_wix/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhtl1p/how_can_i_escape_wix/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现垂直表单控件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bhtjqi/implementing_vertical_form_controls/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bhtjqi/implementing_vertical_form_controls/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:31:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
