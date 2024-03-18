@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 17 Mar 2024 21:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:52:34 GMT</lastBuildDate>
+    <item>
+      <title>有什么方法可以在 MS Word 邮件合并中使用“FIRST”吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1bh9s1b/any_way_to_use_first_in_ms_word_mail_merge/</link>
+      <description><![CDATA[所以我按我从中提取的 Excel 工作表中的一列进行排序。在第一次提到 Word 中的特定字段时，我希望它添加一个标题，但不在任何其他实例上。 我们将大量修改 Excel 电子表格（添加和删除整行） ）因此手动设置“[column] = 1”然后调用它就不起作用了，因为我只在这里呆很短的时间。无论谁接手，都没有能力做到这一点，而且每次订单混乱时让他们手动重置，都会违背自动化的目的。 如果是 SQL，我&#39; d 只需写“FIRST”即可[column] 但我认为 Word 没有该功能。   由   提交 /u/CrashDummySSB   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bh9s1b/any_way_to_use_first_in_ms_word_mail_merge/</guid>
+      <pubDate>Sun, 17 Mar 2024 21:51:30 GMT</pubDate>
+    </item>
     <item>
       <title>自动化（滑动）Android 模拟器</title>
       <link>https://www.reddit.com/r/automation/comments/1bfpv6y/automate_swipes_an_android_emulator/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 15 Mar 2024 15:23:42 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 act CLI 工具在本地运行 GitHub Actions</title>
+      <title>如何使用 act CLI 工具在本地运行 GitHub 操作</title>
       <link>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>为风投实现 Whatsapp Web 自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1beo8u0/automating_whatsapp_web_for_vcs/</link>
-      <description><![CDATA[VC 总是时间紧迫。这并不奇怪，对吧？ 他们的解决方案？简化一切。 但是，如果有实用的自动化，那就更容易了😉。 看看这个自动化，它每月可以为他们节省约 6 个多小时。我最近了解到全科医生的常见做法是快速记录会议...... 完整版本：https://typeously.com/ anomadbuilder/f7SuRUw   由   提交/u/AdSharp5950  [链接] [评论]]]></description>
+      <description><![CDATA[VC 总是时间紧迫。这并不奇怪，对吧？ 他们的解决方案？简化一切。 但是，如果有实用的自动化，那就更容易了😉。 看看这个自动化，它每月可以为他们节省约 6 个多小时。我最近了解到全科医生的常见做法是快速记录会议... 完整版本：https://typeously.com/ anomadbuilder/f7SuRUw   由   提交/u/AdSharp5950  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1beo8u0/automating_whatsapp_web_for_vcs/</guid>
       <pubDate>Thu, 14 Mar 2024 15:44:55 GMT</pubDate>
     </item>
@@ -97,16 +104,9 @@
       <pubDate>Mon, 11 Mar 2024 07:37:37 GMT</pubDate>
     </item>
     <item>
-      <title>我是否需要拥有该应用程序才能使用 Appium 和 Java 在 xcuitest 上的非本机应用程序上执行自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1baptml/do_i_need_tò_own_the_app_tò_perform_automation_on/</link>
-      <description><![CDATA[   /u/Visible-Employment43  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1baptml/do_i_need_tò_own_the_app_tò_perform_automation_on/</guid>
-      <pubDate>Sat, 09 Mar 2024 19:25:06 GMT</pubDate>
-    </item>
-    <item>
       <title>帮助远程控制电源</title>
       <link>https://www.reddit.com/r/automation/comments/1baorsj/help_with_controlling_power_supply_remotely/</link>
-      <description><![CDATA[       您好，我正在开发一个即将进行的项目，出现了一个问题，让我陷入了紧要关头。我有一台计算机（见图），将其放入防水瓶中并部署在水下，由电池供电。我需要某种方法根据脚本远程打开/关闭电脑。我隐约认为这可以使用 arduino 或某种微控制器来完成。有人可以给我指导或指出正确的方向吗？计算机断电非常重要。它可能只是一台已关闭的计算机。第二张图片是电池   由   提交/u/IAmFishman1989   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       您好，我正在开发一个即将进行的项目，出现了一个问题，让我陷入了紧要关头。我有一台计算机（见图），将其放入防水瓶中并部署在水下，由电池供电。我需要某种方法根据脚本远程打开/关闭电脑。我隐约认为这可以使用 arduino 或某种微控制器来完成。有人能给我指导或指出正确的方向吗？计算机断电非常重要。它可能只是一台已关闭的计算机。第二张图片是电池   由   提交/u/IAmFishman1989   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1baorsj/help_with_controlling_power_supply_remotely/</guid>
       <pubDate>Sat, 09 Mar 2024 18:40:04 GMT</pubDate>
     </item>
