@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 19 Mar 2024 18:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 21:11:23 GMT</lastBuildDate>
     <item>
-      <title>R6S H4CK V2</title>
-      <link>https://www.opensourceagenda.com/projects/r6s-h4ck-v2</link>
+      <title>HPT</title>
+      <link>https://www.opensourceagenda.com/projects/hpt</link>
+      <description><![CDATA[HPT - 来自 HyperGAI 的开放式多模式法学硕士]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hpt</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>红色围攻拼图</title>
+      <link>https://www.opensourceagenda.com/projects/redsiege-jigsaw</link>
+      <description><![CDATA[通过将字节打乱到随机数组中并在运行时重建来隐藏 shellcode]]></description>
+      <guid>https://www.opensourceagenda.com/projects/redsiege-jigsaw</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>泰卡科项目</title>
+      <link>https://www.opensourceagenda.com/projects/tycako-proja</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/r6s-h4ck-v2</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:39 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/tycako-proja</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:22 GMT</pubDate>
     </item>
     <item>
-      <title>黑色的影子</title>
-      <link>https://www.opensourceagenda.com/projects/blackshadow</link>
-      <description><![CDATA[腾讯(Tencent)Shadow的二次封装项目，开袋即食版。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/blackshadow</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:38 GMT</pubDate>
+      <title>数据指针</title>
+      <link>https://www.opensourceagenda.com/projects/dptr</link>
+      <description><![CDATA[可微分点渲染器，POINTRIX 的后端。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dptr</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:22 GMT</pubDate>
     </item>
     <item>
-      <title>RDR2 菜单 V2</title>
-      <link>https://www.opensourceagenda.com/projects/rdr2-menu-v2</link>
+      <title>MV编辑</title>
+      <link>https://www.opensourceagenda.com/projects/mvedit</link>
+      <description><![CDATA[[arXiv 2024] 使用受控多视图编辑的通用 3D 扩散适配器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mvedit</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ComfyUI APISR</title>
+      <link>https://www.opensourceagenda.com/projects/comfyui-apisr</link>
+      <description><![CDATA[ComfyUI APISR 的非官方实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/comfyui-apisr</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>净值</title>
+      <link>https://www.opensourceagenda.com/projects/jnv</link>
+      <description><![CDATA[使用 jq 的交互式 JSON 过滤器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jnv</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>跟踪猫</title>
+      <link>https://www.opensourceagenda.com/projects/tracecat</link>
+      <description><![CDATA[😼 Tines/Palo Alto XSOAR 的开源 AI 原生替代方案。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tracecat</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webconfig Springboot</title>
+      <link>https://www.opensourceagenda.com/projects/webconfig-springboot</link>
+      <description><![CDATA[Springboot项目web配置，为了规范项目，很多项目已经要求全局配置一些公用的组件，例如异常捕获、参数校验、统一返回参数等。所以webconfig就是为了解决此类问题，封装好通用的参数并提供可插拔的配置]]></description>
+      <guid>https://www.opensourceagenda.com/projects/webconfig-springboot</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新定义现实 Cobalt Strike</title>
+      <link>https://www.opensourceagenda.com/projects/redefiningreality-cobalt-strike</link>
+      <description><![CDATA[增强 Cobalt Strike 功能及其逃避防病毒/EDR 检测能力的各种资源]]></description>
+      <guid>https://www.opensourceagenda.com/projects/redefiningreality-cobalt-strike</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>壮举</title>
+      <link>https://www.opensourceagenda.com/projects/featup</link>
+      <description><![CDATA[“FeatUp：任何分辨率特征的模型无关框架”ICLR 2024 的官方代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/featup</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Img2img 涡轮增压</title>
+      <link>https://www.opensourceagenda.com/projects/img2img-turbo</link>
+      <description><![CDATA[使用 SD-Turbo 一步式图像到图像]]></description>
+      <guid>https://www.opensourceagenda.com/projects/img2img-turbo</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>网格代码</title>
+      <link>https://www.opensourceagenda.com/projects/griddycode</link>
+      <description><![CDATA[用 Godot 制作的代码编辑器。代码从未如此明亮！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/griddycode</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Movavi 完整版 V2</title>
+      <link>https://www.opensourceagenda.com/projects/movavi-full-v2</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rdr2-menu-v2</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:38 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/movavi-full-v2</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>Apex菜单V2</title>
-      <link>https://www.opensourceagenda.com/projects/apexmenu-v2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/apexmenu-v2</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>OmniNxt</title>
-      <link>https://www.opensourceagenda.com/projects/omninxt</link>
-      <description><![CDATA[ 具有全方位视觉感知的完全开源、紧凑型空中机器人]]></description>
-      <guid>https://www.opensourceagenda.com/projects/omninxt</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>耳语行为</title>
-      <link>https://www.opensourceagenda.com/projects/whisper-acft</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/whisper-acft</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>HA 3d 平面图</title>
-      <link>https://www.opensourceagenda.com/projects/ha-3d-floorplan</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ha-3d-floorplan</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频人</title>
-      <link>https://www.opensourceagenda.com/projects/vid2persona</link>
-      <description><![CDATA[该项目通过使用 AI 来描述视频角色的个性，然后像他们一样与您聊天，从而为视频角色注入生命。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vid2persona</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>衣服交换 Salvton Comfyui 工作流程</title>
-      <link>https://www.opensourceagenda.com/projects/clothes-swap-salvton-comfyui-workflow</link>
-      <description><![CDATA[ComfyUI 工作流程，为您的虚拟影响者穿上真实的衣服。由 CozyMantis 团队使用 💚 制作。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/clothes-swap-salvton-comfyui-workflow</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>IIC2613 Inteligencia 人工 2024 1 教学大纲</title>
-      <link>https://www.opensourceagenda.com/projects/iic2613-inteligencia-artificial-2024-1-syllabus</link>
-      <description><![CDATA[2024 年 1 月交付的课程的官方教学大纲。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/iic2613-inteligencia-artificial-2024-1-syllabus</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 趋势仪表板</title>
-      <link>https://www.opensourceagenda.com/projects/youtube-trend-dashboard</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/youtube-trend-dashboard</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenPhonemizer</title>
-      <link>https://www.opensourceagenda.com/projects/openphonemizer</link>
-      <description><![CDATA[由深度学习提供支持的许可、开源、本地 IPA Phonemizer (G2P)。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/openphonemizer</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>解析溅射</title>
-      <link>https://www.opensourceagenda.com/projects/analytic-splatting</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/analytic-splatting</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼西亚·兰贾纳</title>
-      <link>https://www.opensourceagenda.com/projects/nithya-ranjana</link>
-      <description><![CDATA[Nithya Ranjana 是一种基于书法 Ranjana 脚本的字体。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nithya-ranjana</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mlinux 项目最小化</title>
-      <link>https://www.opensourceagenda.com/projects/mlinux-project-minimal</link>
-      <description><![CDATA[MLinux Minimal 是一个最小化的 Linux 发行版。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mlinux-project-minimal</guid>
-      <pubDate>Tue, 19 Mar 2024 18:16:34 GMT</pubDate>
+      <title>Jameshk08 地狱潜水员 2 作弊</title>
+      <link>https://www.opensourceagenda.com/projects/jameshk08-helldivers-2-cheat</link>
+      <description><![CDATA[地狱潜水员的黑客攻击。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jameshk08-helldivers-2-cheat</guid>
+      <pubDate>Tue, 19 Mar 2024 21:11:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

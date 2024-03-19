@@ -4,13 +4,34 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 18:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 21:11:10 GMT</lastBuildDate>
     <item>
-      <title>Soul RESTful 和 SQLite 实时服务器，现在带有身份验证！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bioa7i/soul_restful_and_realtime_server_for_sqlite_now/</link>
-      <description><![CDATA[大家好，我很高兴分享有关 Soul 的更新，Soul 是我创建的一个开源项目，充当 RESTful 和实时应用程序Soul 使得向任何项目添加后端变得异常简单 - 只需给它一个 SQLite 数据库文件，它就会立即提供 CRUD 端点，而无需任何额外的配置。不久前，当我第一次启动 Soul 时，它的核心功能就是这样。 几个月前，Soul 的一位长期贡献者向我寻求添加身份验证和授权功能。我们一起设计了一个 ACL 系统，他们实现了它。我很高兴地告诉大家，Soul 现在内置了强大的用户身份验证和基于角色的访问控制。身份验证通过定义“角色”来进行。将表映射到允许的 CRUD 操作。然后可以将这些角色分配给用户。这使您可以轻松控制哪些用户拥有对特定表的创建、读取、更新或删除访问权限。为 SQLite API 设置授权再简单不过了。 我很感谢帮助 Soul 成长的贡献。请访问 https://github.com/thevahidal/soul 查看这些新功能的实际应用并开始使用您的自己的最小后端。该项目正在积极开发中，我欢迎任何关于 Soul 如何更好地为开发者服务的反馈。我希望 Soul 继续降低为项目添加安全 REST 和实时功能的障碍。 干杯，Al。   由   提交/u/deval_ut  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bioa7i/soul_restful_and_realtime_server_for_sqlite_now/</guid>
-      <pubDate>Tue, 19 Mar 2024 16:22:15 GMT</pubDate>
+      <title>使用苏格兰 STV 计票。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bitd3l/counting_votes_using_scottish_stv/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bitd3l/counting_votes_using_scottish_stv/</guid>
+      <pubDate>Tue, 19 Mar 2024 19:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[shell] 自动 Web 服务器枚举和攻击面检测工具。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bit261/shell_automated_web_server_enumeration_attack/</link>
+      <description><![CDATA[   /u/13utters  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bit261/shell_automated_web_server_enumeration_attack/</guid>
+      <pubDate>Tue, 19 Mar 2024 19:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 OSI 董事会选举结果</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bit1or/results_of_2024_elections_of_osi_board_of/</link>
+      <description><![CDATA[ 由   提交 /u/opensourceinitiative   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bit1or/results_of_2024_elections_of_osi_board_of/</guid>
+      <pubDate>Tue, 19 Mar 2024 19:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wolflith：通过一个命令简化您的技术堆栈部署</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/</link>
+      <description><![CDATA[我很自豪地宣布 Wolflith 的测试版发布 - 一个革命性的工具包，只需一个命令即可简化您的技术堆栈部署。 Wolflith 的设计既简单又复杂，非常适合任何想要简化数字环境的人，从初学者到经验丰富的技术爱好者。 🛠 介绍 Wolflith：您的技术堆栈最好的朋友  从本质上讲，Wolflith 简化了跨多台机器的 docker 容器部署，提供了无缝的单命令解决方案。它是我们花费无数时间致力于完善工具的成果，该工具既适合初学者使用，又足够强大，适合最经验丰富的技术爱好者。愿景？显着减少将多项服务委托给机器所需的时间（从整个周末缩短到仅仅几分钟），让您能够专注于真正重要的事情。 🚀 为什么 Wolflith 很重要 As作为一名狂热的技术和家庭实验室爱好者，我了解时间管理的重要性以及我们数字化工作的影响。 Wolflith 的诞生是为了简化传统上耗费大量时间的流程的需要。无论您的设置像我的一样在 Proxmox 上运行，还是正在探索 Unraid（Wolflith 将来会支持）等其他平台，这个工具都适合您。 （目前支持 Ubuntu 和 Debian Linux 机器）。 💬 加入 Wolflith 之旅 这个测试版本只是一个开始。您的反馈、见解和贡献是推动 Wolflith 发展的命脉。我邀请您加入这个旅程，来测试、批评和增强 Wolflith。我们可以一起完善这个工具，减少手动服务委托时间，增加我们的空闲时间，并传播人们对这个有可能重新定义我们的数字景观的工具的认识。 🔗 深入研究，做出贡献，并分享您的见解！您的声音对于塑造 Wolflith 的未来至关重要。请在 GitHub 上查看，让我们一起创造数字魔法。 让我们一起利用 Wolflith 的力量不仅要管理我们的数字环境，还要改造它们。让我们的技术更加智能，而不是更加困难，让我们的创新产生持久的影响。感谢您参与这次冒险。您的参与和反馈不仅将推动 Wolflith 向前发展，还将塑造技术部署的未来。 期待您的想法、反馈和贡献。   由   提交 /u/Monitor-Early   /u/Monitor-Early reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/</guid>
+      <pubDate>Tue, 19 Mar 2024 19:14:40 GMT</pubDate>
     </item>
     <item>
       <title>Latitude：用于嵌入式分析的开源 Web 框架</title>
@@ -34,13 +55,6 @@
       <pubDate>Tue, 19 Mar 2024 13:55:17 GMT</pubDate>
     </item>
     <item>
-      <title>如何为开源团队招聘人才</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bii65c/how_can_one_hire_for_open_source_teams/</link>
-      <description><![CDATA[我很想知道是否有人在招聘与您愿景一致的开源爱好者时遇到困难。如果你们中有人在这方面有经验，您能分享一些见解来帮助我有效地应对这一挑战吗？  我们尝试号召人们通过 reddit、黑客新闻、discord 渠道做出贡献。想知道我是否遗漏了什么。   由   提交/u/c10n3x_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bii65c/how_can_one_hire_for_open_source_teams/</guid>
-      <pubDate>Tue, 19 Mar 2024 11:39:45 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找看板开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1bigqws/looking_for_kanban_board_open_source/</link>
       <description><![CDATA[大家好，我正在寻找一款开源（自托管）看板软件，它具有以下功能。  基本看板 板中的任务可以在创建任务时定期添加额外信息/下拉菜单。  (在主看板视图上显示额外的信息部分（不仅仅是一个批量文本））  下拉菜单可以影响板布局 易于使用  世界上有这样的事情吗？感谢您提前提供帮助   由   提交 /u/Odd-Ambassador8874    reddit.com/r/opensource/comments/1bigqws/looking_for_kanban_board_open_source/&quot;&gt;[链接] [评论]]]></description>
@@ -50,7 +64,7 @@
     <item>
       <title>OSS 社区的 Telegram 与 Discord</title>
       <link>https://www.reddit.com/r/opensource/comments/1bibty0/telegram_vs_discord_for_oss_communities/</link>
-      <description><![CDATA[我知道默认选择 Discord 来构建 OSS 社区，但是有创始人选择 Telegram 吗？请在 DM 中告诉我，我想了解选择 Telegram 而不是 Discord 的原因。   由   提交 /u/WonderlinkDotCo   [链接] [评论]]]></description>
+      <description><![CDATA[我知道默认选择 Discord 来构建 OSS 社区，但是有创始人选择 Telegram 吗？请在 DM 中告诉我，我想了解选择 Telegram 而不是 Discord 的原因。   由   提交/u/WonderlinkDotCo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bibty0/telegram_vs_discord_for_oss_communities/</guid>
       <pubDate>Tue, 19 Mar 2024 04:29:19 GMT</pubDate>
     </item>
@@ -76,13 +90,6 @@
       <pubDate>Mon, 18 Mar 2024 08:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>tlm - 使用 Ollama 创建用于命令行界面智能的 GitHub Copilot CLI 替代方案。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bhkmw0/tlm_using_ollama_to_create_a_github_copilot_cli/</link>
-      <description><![CDATA[   嘿！ 看看这个小但方便的工具有一个完全自托管的终端伴侣。 CodeLLaMa 非常了解几乎所有流行的 cli 工具和操作系统特定的 shell 命令，并且在终端上编写命令时可能会很方便。 ​  💻 适用于 macOS， Linux 和 Windows。 👩🏻‍💻 自动 shell 检测。 🚀 一个班轮生成和命令解释。 ⏰ Apple Silicon MacBook Pro 的平均响应时间配备 NVIDIA GPU 的体面 PC 大约需要 2-4 秒。  yusufcanb/tlm：本地 CLI Copilot，由 CodeLLaMa 提供支持。 💻🦙 (github.com) ​ https ://i.redd.it/unkm3ui0nslc1.gif   由   提交/u/yusufcanbayrak  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bhkmw0/tlm_using_ollama_to_create_a_github_copilot_cli/</guid>
-      <pubDate>Mon, 18 Mar 2024 07:02:11 GMT</pubDate>
-    </item>
-    <item>
       <title>具有 100% 无服务器 RAG 的 Markdown 编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bh82w7/markdown_editor_with_100_serverless_rag/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交 /u/Fleischkluetensuppe   [链接] [评论] &lt; /表&gt;]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好！ 我正在寻找一个可用于跟踪 1 的重复任务和待办事项列表的系统-3人。我曾尝试在网上寻找一个，但我发现的大多数要么不再积极开发/支持，要么是看起来有点矫枉过正的大型项目管理系统。类似于看板，但支持重复任务，也许？它将是自托管的，并且可能*不*使用node.js进行设置，而是一个简单的LAMP环境。 编辑： 感谢您的回复。很多有用的信息值得一看。如果有人有好的建议，请随时添加更多内容。如前所述，有一个简单的轻量级 LAMP 设置，因此像 Nextcloud 这样需要大量资源和管理的东西是不可能的，因为它包含的任何其他功能都不会被使用。 编辑 2： 我惹恼了 Nextcloud 的粉丝们，哈哈。投反对票、发送聊天请求和愤怒的私信！误导*和*愤怒。谢谢孩子们的笑声！喜欢 Nextcloud，讨厌它的社区，但我再次看到它是有充分理由的    由   提交 /u/daho0n   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bgv2b1/looking_for_a_simple_todotask_management_system/</guid>
       <pubDate>Sun, 17 Mar 2024 11:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在使用用于小型游戏或动画的轻量级（4kb gzipped）HTML5 画布游戏引擎。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bghxwg/im_working_in_lightweight_4kb_gzipped_html5/</link>
-      <description><![CDATA[   /u/luizbills  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bghxwg/im_working_in_lightweight_4kb_gzipped_html5/</guid>
-      <pubDate>Sat, 16 Mar 2024 22:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
