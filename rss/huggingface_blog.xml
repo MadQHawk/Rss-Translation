@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Mon, 18 Mar 2024 09:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 00:51:22 GMT</lastBuildDate>
+    <item>
+      <title>在 NVIDIA DGX Cloud 上使用 H100 GPU 轻松训练模型</title>
+      <link>https://huggingface.co/blog/train-dgx-cloud</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/train-dgx-cloud</guid>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Quanto：pytorch 量化工具包</title>
       <link>https://huggingface.co/blog/quanto-introduction</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-upstage</guid>
       <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤗 PEFT迎来新的合并方式</title>
-      <link>https://huggingface.co/blog/peft_merging</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/peft_merging</guid>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
