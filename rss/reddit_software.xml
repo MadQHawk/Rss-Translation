@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 15:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 18:15:03 GMT</lastBuildDate>
+    <item>
+      <title>有没有一种软件可以让 Windows 认为它​​在 720p 显示器上运行在 1080p 显示器上？</title>
+      <link>https://www.reddit.com/r/software/comments/1bjk39a/is_there_a_software_that_can_make_windows_think/</link>
+      <description><![CDATA[所以我有一个朋友root了他的iPhone 7。他得到了这个软件，可以让手机“以更高分辨率运行”。显然，它实际上并没有显示更高的分辨率，但手机认为它是，所以文本和应用程序的大小看起来更小。有时它看起来真的很酷，但有时它让文字看起来很糟糕。我记得他说过“增加像素密度”之类的话。但我不确定。遗憾的是我再也联系不到他了。 有没有办法在 Windows 上获得类似的结果？   由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bjk39a/is_there_a_software_that_can_make_windows_think/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:36 GMT</pubDate>
+    </item>
     <item>
       <title>如果应用程序需要运行时包，该包是否必须安装在同一驱动器上？</title>
       <link>https://www.reddit.com/r/software/comments/1bjey45/if_an_app_requires_a_runtime_package_does_the/</link>
@@ -36,19 +43,19 @@
     <item>
       <title>寻找最佳的协同浏览解决方案</title>
       <link>https://www.reddit.com/r/software/comments/1bjcdsz/looking_for_the_best_cobrowsing_solution/</link>
-      <description><![CDATA[我似乎找不到一种可靠、快速且安全的解决方案。我的 B2B 需要它来减少我的支持时间。 Surfly 有一个，但它很笨重并且断线。  对于那些刚接触协同浏览（协作浏览）的人来说，它与屏幕共享不同。可以将协同浏览想象成与某人坐在同一辆车中，双方都可以触摸仪表板、导航并决定在网站上前往何处。对于一起在线购物或从客户支持获得实时帮助而无需他们在屏幕上看到任何其他内容之类的事情来说，这非常酷。因此，隐私在这里是一大优势，因为他们只能看到您显示的一个浏览器选项卡。 另一方面，屏幕共享就像让某人窥视您的整个房间，而不仅仅是一件事你拿着。它对于会议或展示 PowerPoint 非常方便，因为每个人都可以看到屏幕上的所有内容。但是，就像展示您的房间一样，您可能会意外地显示您不打算显示的内容，例如弹出通知或其他打开的应用程序。 因此，简而言之：共同浏览 = 共享控制但只有一个浏览器选项卡，非常适合在隐私保护下进行协作。屏幕共享 = 显示整个屏幕，非常适合演示，带有一点“小心屏幕上的其他内容”的氛围。   由   提交 /u/TheShynola   [链接] [评论]]]></description>
+      <description><![CDATA[我似乎找不到一种可靠、快速且安全的解决方案。我的 B2B 需要它来减少我的支持时间。 Surfly 有一个，但它很笨重并且断线。  对于那些刚接触协同浏览（协作浏览）的人来说，它与屏幕共享不同。可以将协同浏览想象成与某人坐在同一辆车中，双方都可以触摸仪表板、导航并决定访问网站的何处。对于一起在线购物或从客户支持获得实时帮助而无需他们在屏幕上看到任何其他内容之类的事情来说，这非常酷。因此，隐私在这里是一大优势，因为他们只能看到您显示的一个浏览器选项卡。 另一方面，屏幕共享就像让某人窥视您的整个房间，而不仅仅是一件事你拿着。它对于会议或展示 PowerPoint 非常方便，因为每个人都可以看到屏幕上的所有内容。但是，就像展示您的房间一样，您可能会意外地显示您不想要的内容，例如弹出通知或其他打开的应用程序。 因此，简而言之：共同浏览 = 共享控制但只有一个浏览器选项卡，非常适合在隐私保护下进行协作。屏幕共享 = 显示整个屏幕，非常适合演示，带有一点“小心屏幕上的其他内容”的氛围。   由   提交 /u/TheShynola   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bjcdsz/looking_for_the_best_cobrowsing_solution/</guid>
       <pubDate>Wed, 20 Mar 2024 12:35:33 GMT</pubDate>
     </item>
     <item>
       <title>我是否需要软件将所有内容从一台电脑转移到一台新电脑（上面没有操作系统）？...所使用的方法会影响这个问题的答案吗？</title>
       <link>https://www.reddit.com/r/software/comments/1bjbvo2/do_i_need_software_to_transfer_everything_from/</link>
-      <description><![CDATA[我打算使用 USB-A 转 USB-A 3.0 传输线，但我认为方法并不一定重要，但基本上我只是想要避免在这方面花费很多钱，因为 USB 电缆大约 9 美元...任何帮助将不胜感激，因为我对技术非常精通，但以前从未在没有操作系统的新计算机上这样做过根本所以我什至不确定你如何设置它来启动新的（只需启动带有数据的外部硬盘？？？）这是我不必花钱的另一种方式，因为我有外部硬盘。 .无论如何，感谢您提供任何帮助，我真的可以使用它🤓👊   由   提交/u/slemnem80   [链接] [评论]]]></description>
+      <description><![CDATA[我打算使用 USB-A 转 USB-A 3.0 传输线，但我认为方法并不一定重要，但基本上我只是想要避免在这方面花很多钱，因为 USB 电缆大约 9 美元...任何帮助将不胜感激，因为我对技术非常精通，但以前从未在没有操作系统的新计算机上这样做过根本所以我什至不确定你如何设置它来启动新的（只需启动带有数据的外部硬盘？？？）这是我不必花钱的另一种方式，因为我有外部硬盘。 .无论如何，感谢您提供任何帮助，我真的可以使用它🤓👊   由   提交/u/slemnem80  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bjbvo2/do_i_need_software_to_transfer_everything_from/</guid>
       <pubDate>Wed, 20 Mar 2024 12:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>数码卡姆 8.3</title>
+      <title>数码卡姆8.3</title>
       <link>https://www.reddit.com/r/software/comments/1bjacqr/digikam_83/</link>
       <description><![CDATA[ 由   提交 /u/jlpcsl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bjacqr/digikam_83/</guid>
@@ -85,30 +92,23 @@
     <item>
       <title>有没有真正有效且一次性使用不需要 50 美元的文件恢复软件？</title>
       <link>https://www.reddit.com/r/software/comments/1bj48h4/any_file_recovering_software_that_actually_works/</link>
-      <description><![CDATA[就像 3 小时前，我不小心删除了一个包含所有音乐文件的文件夹，并想将其恢复，尝试了磁盘钻取，它找到了我的所有音乐文件东西，但要我 50 美元左右，所以我又买了一个叫 easeus 的东西，这很令人困惑，它说它找到了我的东西，但由于某种原因，它只是我电脑上的随机文件，没有被删除，任何人都知道任何程序这确实有效并且免费？提前谢谢您    由   提交/u/imnicey_  [链接] [评论]]]></description>
+      <description><![CDATA[就像 3 小时前，我不小心删除了一个包含所有音乐文件的文件夹，并想将其恢复，尝试了磁盘钻取，它找到了我的所有音乐文件东西，但要我 50 美元左右，所以我又买了一个叫做 easeus 的东西，这很令人困惑，它说它找到了我的东西，但由于某种原因，它只是我电脑上的随机文件，没有被删除，任何人都知道任何程序这确实有效并且免费？提前谢谢您    由   提交/u/imnicey_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bj48h4/any_file_recovering_software_that_actually_works/</guid>
       <pubDate>Wed, 20 Mar 2024 03:39:19 GMT</pubDate>
     </item>
     <item>
-      <title>哪种编解码器是长期存储数小时播客的最佳编解码器？</title>
+      <title>哪种编解码器适合长期存储数小时的播客？</title>
       <link>https://www.reddit.com/r/software/comments/1bj307z/which_is_the_best_codec_to_long_term_storage_of/</link>
-      <description><![CDATA[我在存储数小时的学术播客时遇到了问题，似乎迄今为止最好的编解码器是低比特率的作品。&lt; /p&gt; 所以我有两个问题 1）opus 是最好的编解码器吗？ 2）我可以降到多低？🫥 64 比特率立体声？ 32？ 16？ PS：存储在我的国家并不便宜。因此购买另一个 Na 不是一个选择。   由   提交 /u/Optimal_Package8748   [链接] [评论]]]></description>
+      <description><![CDATA[我想存储几个小时的学术播客，但遇到了问题，似乎迄今为止最好的编解码器是低比特率的作品。&lt; /p&gt; 所以我有两个问题 1）opus 是最好的编解码器吗？ 2）我可以降到多低？🫥 64 比特率立体声？ 32？ 16？ PS：存储在我的国家并不便宜。因此购买另一个 Na 不是一个选择。   由   提交 /u/Optimal_Package8748   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bj307z/which_is_the_best_codec_to_long_term_storage_of/</guid>
       <pubDate>Wed, 20 Mar 2024 02:36:57 GMT</pubDate>
     </item>
     <item>
       <title>有没有链接检查网站？</title>
       <link>https://www.reddit.com/r/software/comments/1bj0iwh/are_there_any_link_checker_websites/</link>
-      <description><![CDATA[我只是想检查这个链接是否合法，我想知道是否有链接安全检查器之类的东西，如果有的话在哪里可以我找到了？   由   提交/u/Coolusername_5  [链接] [评论]]]></description>
+      <description><![CDATA[我只是想检查这个链接是否合法，我想知道是否有链接安全检查器之类的东西，如果有的话在哪里可以我找到一个了吗？   由   提交/u/Coolusername_5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bj0iwh/are_there_any_link_checker_websites/</guid>
       <pubDate>Wed, 20 Mar 2024 00:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSD修复软件好用吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1bj02vm/good_ssd_repair_software/</link>
-      <description><![CDATA[在 Windows 10 上，SSD 是东芝 2TB 的，我收到它作为礼物，但我不认为它是 Canvio 之一？&lt; /p&gt; 我使用它不到一年就损坏了，我修复了一次，但几天之内它又损坏了。我想这可能是因为我在将笔记本电脑置于睡眠模式时插入了电源，也许吧？无论如何，我不关心恢复任何剩余的文件，因为我拥有重要的一切，我只是想尝试修复它，因为我正在寻找一台新笔记本电脑并需要一些东西来保存我的文件！   由   提交 /u/youhypnotizemealways   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bj02vm/good_ssd_repair_software/</guid>
-      <pubDate>Wed, 20 Mar 2024 00:21:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
