@@ -4,20 +4,27 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 20 Mar 2024 09:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 12:22:27 GMT</lastBuildDate>
+    <item>
+      <title>训练“AI”编辑非正式最终用户非正式的基本配置文件？ （甚至提出问题以获得对配置文件的完全信心？）</title>
+      <link>https://www.reddit.com/r/automation/comments/1bja9w8/train_ai_to_edit_basic_config_files_from_informal/</link>
+      <description><![CDATA[ 由   提交 /u/clambchop   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bja9w8/train_ai_to_edit_basic_config_files_from_informal/</guid>
+      <pubDate>Wed, 20 Mar 2024 10:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>linkedin 上的自动评论</title>
+      <link>https://www.reddit.com/r/automation/comments/1bj9l3c/automated_comments_on_linkedin/</link>
+      <description><![CDATA[嗨，是否可以使用 make(integromate) 和 Likedin 评论 api 在 linkedin 上自动发表评论 - POST https://api.linkedin.com/rest/socialActions/{shareUrn|ugcPostUrn|commentUrn}/comments ​ 想知道是否有人尝试过并且确实有效。如果是的话，有哪些方法可以获取 URN？   由   提交 /u/PanFriedSalmon675   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bj9l3c/automated_comments_on_linkedin/</guid>
+      <pubDate>Wed, 20 Mar 2024 09:43:48 GMT</pubDate>
+    </item>
     <item>
       <title>创建训练有素的人工智能来输出内容。</title>
       <link>https://www.reddit.com/r/automation/comments/1bj4667/creating_a_trained_ai_to_output_content/</link>
       <description><![CDATA[嘿，我在 Reddit 上的时间并不多，所以如果我的帖子通常没有格式化，我很抱歉。我希望创建一个自动化系统并训练人工智能，使其能够为我输出基于文本的内容。我想专门训练它编写内容的方式、内容本身背后的思维过程，并真正微调模型来创建此内容。我想要创建的内容是社交媒体内容。我想根据我在创建内容和文案方面的专业知识以及能够在所创建的内容中使用情感和讲故事的专业知识来微调模型。就数据而言，我可以编译一些我写过的最好的推文和文章，还有完整的细分和解释，解释为什么我这样写它们，除此之外，还有一些关于文案写作的培训材料和如何思考文案写作以及通过内容讲故事。我的问题是，我几乎没有编码技能。我知道我可以使用 make.com 来创建某种类型的自动化。但我希望针对此任务实际微调模型，但我不知道如何完成此任务。即使这个模型只是利用数据并从 OpenAI 的 API 中提取数据来为我提供输出，那也完全没问题，或者我什至使用其中一个开源模型并对其进行微调来为我创建内容。但我正在寻找一种方法，让自己真正拥有模型，而不是求助于第三方来创建模型，例如，并且能够进行调整。我可以将其保留在本地或基于云，完全没问题，而且我可以编写一个快速界面。 ​ 我的目标是能够输入围绕主题的想法或概念，并输出围绕该想法的预先写好的内容，结构化并遵循我编写内容的框架。如果可能的话，但我的希望不高，我也很想将其自动化。我知道我可以使用 make.com 来做到这一点，但我仍然坚持创建模型。 ​ ; 非常感谢任何帮助或指导。   由   提交 /u/ALLSEEJAY   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bj4667/creating_a_trained_ai_to_output_content/</guid>
       <pubDate>Wed, 20 Mar 2024 03:35:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何既不惹恼别人又能得到你想要的</title>
-      <link>https://www.reddit.com/r/automation/comments/1bip5wg/how_not_to_annoy_people_but_still_get_what_you/</link>
-      <description><![CDATA[ 由   提交/u/Relative_Bill_67   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1bip5wg/how_not_to_annoy_people_but_still_get_what_you/</guid>
-      <pubDate>Tue, 19 Mar 2024 16:58:03 GMT</pubDate>
     </item>
     <item>
       <title>红帽 Ansible 自动化实践虚拟研讨会 + LightSpeed 和事件驱动的 Ansible</title>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 15 Mar 2024 15:23:42 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 act CLI 工具在本地运行 GitHub 操作</title>
+      <title>如何使用 act CLI 工具在本地运行 GitHub Actions</title>
       <link>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bf6gdk/how_to_run_github_actions_locally_using_the_act/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我刚刚加入这里。只是想深入了解您的团队在测试自动化方面的实践。 假设我们有一项新功能。为该功能准备好测试用例后，您是否还要创建测试自动化脚本？或者在自动化之前手动测试它？ 在我以前的公司中，只有在手动测试功能之后才会创建自动化，并且测试是重复的并用于回归。但我现在的公司，情况就很不一样了。我们的任务是创建自动化并使用该自动化来测试该功能，这似乎需要大量工作，因为感觉我们正在测试该功能并测试自动化脚本/流程。  你能分享一下你的想法吗？或者您团队中的流程？谢谢！   由   提交/u/ccttaallyysstt  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bf4rqt/test_automation_best_practice/</guid>
       <pubDate>Fri, 15 Mar 2024 03:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>质量保证自动化项目</title>
-      <link>https://www.reddit.com/r/automation/comments/1beufg8/qa_automation_project/</link>
-      <description><![CDATA[我的团队有一个 Excel 工作簿，用于对从客户处收到的 QA 文件进行质量检查。 Excel 中有很长的 QA 检查列表，它使用 VBA/宏。它太慢了，我讨厌它。我们的团队也需要一段时间才能完成并提取示例/发现 我可以使用哪些最好/便宜的平台来进一步实现现代化和自动化？我想我可以将仪表板或某种模板放在一起，可以立即运行所有标准检查并突出显示问题。我正在考虑 python，但不知道如何开始。我有数据分析背景，但我并不是真正的开发人员。有什么方法/建议吗？    由   提交/u/tahmed81ta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1beufg8/qa_automation_project/</guid>
-      <pubDate>Thu, 14 Mar 2024 19:59:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
