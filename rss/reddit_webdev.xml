@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 18:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 21:13:16 GMT</lastBuildDate>
     <item>
-      <title>我已经这么老了：网络版</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjj949/im_so_old_web_edition/</link>
-      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjj949/im_so_old_web_edition/</guid>
-      <pubDate>Wed, 20 Mar 2024 17:34:32 GMT</pubDate>
+      <title>Digital Ocean AppPlatform 间歇性链接错误的 SSL 证书域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/</link>
+      <description><![CDATA[这里有一个奇怪的问题，想知道其他人是否经历过： 间歇性地，我们在 DigitalOcean 的 AppPlatform 上托管的应用程序的用户会导航到我们的域时看到网站不安全警告。当我看到这个时，我看到由 Sectigo Limited（CA）颁发给与我们不同的域（*couchdrop.io）的 SSL 证书。意外。当证书有效时，它会从 Google Trust Services, LLC 正确颁发到我们的域。预期。 据我了解，DO 的 AppPlatform 管理证书创建和续订，因此这似乎是他们的问题。我已经创建了一个支持票证，希望他们能够及时解决这个问题。 也就是说，如果有人以前见过这种情况并且知道应用程序的配置如何可能导致他们的设备出现这种情况AppPlatform 我将不胜感激任何见解。理想情况下，这是我可以解决的问题，但是，如果是他们的问题而我无法修复它，我们将不得不迁移到另一个主机，这是我不愿意做的。    由   提交/u/Abstract-Abacus   /u/Abstract-Abacus reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/</guid>
+      <pubDate>Wed, 20 Mar 2024 21:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript 动画与预渲染视频/图像的清理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjiwt6/javascript_animations_vs_scrubbing_of_prerendered/</link>
-      <description><![CDATA[我正在开发一个项目，其中将包含一些滚动触发的动画（“滚动讲述”）。我注意到，虽然有些人会使用 GSAP 和 D3 等库来在浏览器中完成所有动画，但许多人还使用预渲染的视频或图像，并且简单地 擦洗它们。 这是一个开放式问题，但在您看来，在浏览器中为对象设置动画与简单地擦洗预渲染相比有什么好处图像或视频文件？当然，预渲染的动画几乎总是会给客户端带来更少的负担？   由   提交/u/vedhavet  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjiwt6/javascript_animations_vs_scrubbing_of_prerendered/</guid>
-      <pubDate>Wed, 20 Mar 2024 17:20:54 GMT</pubDate>
+      <title>使用 Array.prototype.with 更新不可变数组</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjob65/immutable_array_updates_with_arrayprototypewith/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjob65/immutable_array_updates_with_arrayprototypewith/</guid>
+      <pubDate>Wed, 20 Mar 2024 21:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>隐私政策、TOC 等（如果您没有预算）。该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjiqaq/privacy_policies_toc_etc_if_you_have_no_budget/</link>
-      <description><![CDATA[所以我一直在制作一个应用程序，在可交付之前我已经完成了 80% 的工作。但我被 TOC 之类的东西困住了。我正在定期使用，我知道另一个应用程序的功能与我的类似，我可以用它来获取灵感。但我害怕我会搞砸并被罚款什么的。然后显而易见的建议是：找律师。如果您的应用程序有数千或更多订阅者，那就太好了。但我不知道这种情况是否会发生。据我所知，我的网站没有受到关注，但我得到了 3 个付费客户。在这种情况下，我会无缘无故地在律师身上浪费大量精力。我应该怎么办？这只是悲惨的现实吗？我应该赌 1000 欧元请律师并希望得到最好的结果吗？或者赌我拥有的 TOC 足够好并希望得到最好的结果？   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjiqaq/privacy_policies_toc_etc_if_you_have_no_budget/</guid>
-      <pubDate>Wed, 20 Mar 2024 17:13:29 GMT</pubDate>
+      <title>将会话数据存储在非 http-only cookie 中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjn5kg/storing_session_data_in_a_nonhttponly_cookie/</link>
+      <description><![CDATA[我想改进我的宠物网络应用程序中身份验证的用户体验。 只是澄清一下标题：我是谈论存储会话数据，而不是会话令牌。您不能使用会话数据来验证您的请求 - 请求是使用存储在仅 http cookie 中的会话令牌进行验证的。会话数据基本上是您的用户 ID、用户名、电子邮件以及会话过期时间。现在它只是存储在客户端的内存中。 可以将这些数据存储在 JS 中可访问的 cookie 中吗？这样我就可以：1）通过在我的中间件中检查他们没有会话数据/会话数据已过期，立即将未经授权的用户重定向到登录页面。 2) 授权用户将更快地呈现页面，因为会话数据已经在 cookie 中 - 无需另一个服务器往返。 如果有人尝试设置会话，则不会出现模拟或类似情况的安全问题手动数据 cookie，那么，他们的所有 API 请求要么未经授权，要么至少使用其实际数据进行身份验证，而不是模拟数据。 因此，基本上诚实的用户将获得更快、响应更快的体验，并防止恶意行为者将无法访问他们不应该访问的任何数据。 所以我唯一担心的是 - 也许将用户的电子邮件存储在 JS 可以访问的 cookie 中是不行的，例如，这样 chrome 扩展程序就可以访问它。这不是一个巨大的安全问题，但有些人可能不喜欢他们的电子邮件被公开。 那么这可以吗？ 如果可以的话，请提供一步一步的解释使其更加清晰。 当前：  向页面发出请求 服务器发回HTML响应 客户端渲染页面，然后向服务器发出请求以获取会话数据 客户端通过会话获取响应数据，存储在内存中，使用它来呈现个人资料页面  我想做的：  提出请求对于页面 服务器发送回 HTML 响应以及带有会话数据的 cookie 客户端呈现页面，获取会话数据来自 cookie，使用它来呈现个人资料页面    由   提交 /u/HugeLetters   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjn5kg/storing_session_data_in_a_nonhttponly_cookie/</guid>
+      <pubDate>Wed, 20 Mar 2024 20:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>Nextjs - 客户端可以操作页面和公共目录之外的代码吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjil8x/nextjs_can_the_code_from_outside_the_pages_and/</link>
-      <description><![CDATA[我有一个名为constants.js 的文件，位于utils 文件夹中，该文件夹位于我的Next.js 项目的根目录中。其中一个 API 路由使用 Constants.js 中的变量。在调用API路由之前，用户是否可以更改constants.js中的内容，导致API路由从constants.js文件中接收到错误的变量值？我想确认这一点，因为我上次阅读时，只有页面和公共文件夹及其内容可以由客户端操作。如果情况并非如此，那么我想我应该将分类变量从constants.js 文件移动到环境文件中。顺便说一句，我正在使用 Pages Router。 Nextjs 版本 14。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjil8x/nextjs_can_the_code_from_outside_the_pages_and/</guid>
-      <pubDate>Wed, 20 Mar 2024 17:07:45 GMT</pubDate>
+      <title>前辈们好。我想开始这个旅程，我怎样才能学习这些技能，请指导我一步一步的过程，我知道我会被骂，但作为一个学习者，我已经准备好了，</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjmw3y/hello_seniors_i_want_to_get_started_in_this/</link>
+      <description><![CDATA[请请求   由   提交/u/WestMark2317  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjmw3y/hello_seniors_i_want_to_get_started_in_this/</guid>
+      <pubDate>Wed, 20 Mar 2024 20:04:17 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Winx、Square Space 等的思考</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjiivx/thoughts_on_winx_square_space_etc/</link>
-      <description><![CDATA[好吧，别来找我了。我刚刚创办了自己的企业，为镇上的当地企业提供一些营销咨询。我在 Winx 上创建了自己的网站，我发现它非常有趣，易于使用，我觉得我用它创建了一个非常好的网站。我正在考虑为该地区的企业提供某种网页设计。作为参考，我住在一个很小但不断发展的城镇，许多当地的老企业没有任何类型的数字营销或网站。  我的问题是：有些人曾经使用第三方网站构建器为其他人创建网站吗？我曾尝试在这里为其他人创建一个网站，所以我不知道这一切将如何运作。   由   提交/u/Exact_Leave239   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjiivx/thoughts_on_winx_square_space_etc/</guid>
-      <pubDate>Wed, 20 Mar 2024 17:04:57 GMT</pubDate>
+      <title>您是否应该使用 NextJS 来构建超过 11ty/Astro/Hugo 的简单静态博客？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjmw0g/should_you_use_nextjs_for_a_simple_static_blog/</link>
+      <description><![CDATA[您可以使用 NextJS 创建静态生成的网站，它有一个内置的包来压缩图像，使用某些包您可以在 .md 中编写帖子，它非常快，所以使用 11ty 或任何其他“标准”有什么意义？静态站点生成器？我同意 NextJS 网站有时加载速度有点慢，但之后你可以无缝地浏览网站，甚至不需要重新加载页面，相反，我见过的一些 110 个网站，你有一个背景颜色当你改变页面时切换，因为它必须完全下载新页面，这不太美观。归根结底，他们都是 SSG，但我不明白为什么有人应该使用 Next 以外的其他东西（我觉得有一些重要的东西我没有看到）   由   提交/u/lollo3001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjmw0g/should_you_use_nextjs_for_a_simple_static_blog/</guid>
+      <pubDate>Wed, 20 Mar 2024 20:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>最喜欢的 WordPress 网站托管提供商</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjib3b/favorite_hosting_providers_for_wordpress_website/</link>
-      <description><![CDATA[大家好，  我将为我所在地区的房地产经纪人创建一个 WordPress 网站。您对托管服务提供商有什么建议吗？我过去使用过 bluehost 和 hostgator，但我想从 reddit 的优秀网络开发人员那里得到一些建议。谢谢你！！    由   提交/u/scumble373  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjib3b/favorite_hosting_providers_for_wordpress_website/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:56:20 GMT</pubDate>
+      <title>音乐家想要创建一个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjmian/musician_looking_to_create_a_website/</link>
+      <description><![CDATA[大家好，请向比我更有知识的人寻求一些建议！ 我是一名音乐家，正在考虑建立一个网站用于推销自己和管理预订。我正在寻找的两个网站是 wix 和 Hostinger ，我现在不想花太多钱，而且我不想要超过 12 个月的期限。 有什么建议吗？最好有免费的域名和网站构建器。我非常精通技术，但这是一个我没有经验的领域，因此非常感谢任何建议   由   提交/u/thirdcheersfortrench  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjmian/musician_looking_to_create_a_website/</guid>
+      <pubDate>Wed, 20 Mar 2024 19:48:37 GMT</pubDate>
     </item>
     <item>
-      <title>哪种服务是处理向 Web 应用程序用户发送邮件的最佳服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjhv3u/which_is_the_best_service_to_handle_mail_sending/</link>
-      <description><![CDATA[我们以 Upwork 为例。  它有两种类型的邮件：  它有一个聊天功能，当您超过 X 分钟没有回复时，它会自动向您发送一封邮件邮件“嘿，约翰给您发送了一条新消息”。 订单也是如此，“您的 Y 收据”。  第一个邮件底部应该有一个取消订阅按钮，因为它不是必需的邮件，而是可选邮件。  我目前正在使用 Resend 发送 Type1 邮件，并使用 Node.js 服务器扫描所有聊天室并检测消息是否在 X 分钟内没有得到回复。 &gt; 我显然可以在我的 Supabase DB 上集成一个表，检查用户是否取消订阅，然后不发送邮件。 我想知道是否有更好更快的管理解决方案所有邮件服务都存在，算上我正在使用 next.js，我将来也可能会集成营销电子邮件（这也需要取消订阅按钮）。 谢谢！   由   提交/u/Ale9xs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjhv3u/which_is_the_best_service_to_handle_mail_sending/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:38:01 GMT</pubDate>
+      <title>指标</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjmhqb/metrics/</link>
+      <description><![CDATA[人们是否有关于监控用户如何使用网络应用程序的指标的良好系统的建议。理想情况下，我希望有像 docker 这样的自托管（可能是乐观的）主要是为了维护隐私。 我想到了 Prometheus 的想法，但它似乎更多的是服务器使用指标，我正在寻找更多的是一个系统，我可以在其中记录人们正在使用哪些功能，哪些功能在哪些国家/地区流行。我确实知道我可以将这些指标放入 Google Analytics（分析）中，但现在很多系统都阻止了它。   由   提交/u/No_Market6389   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjmhqb/metrics/</guid>
+      <pubDate>Wed, 20 Mar 2024 19:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>好的（免费）安全课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjh9qn/good_free_security_courses/</link>
-      <description><![CDATA[我可以构建 Web 应用程序，并且知道不要在前端保守秘密，但除此之外，我真的不知道最佳安全性实践或如何考虑安全性。我知道 OWASP 前 10 名存在，但当我开始阅读它们时，我的目光有点呆滞。   由   提交 /u/HorseProportions   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjh9qn/good_free_security_courses/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:13:17 GMT</pubDate>
+      <title>烤我的 SaaS 登陆页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjmhny/roast_my_saas_landing_page/</link>
+      <description><![CDATA[非常感谢您对我最初的 SaaS 项目的真诚反馈。请分享您的想法，谈谈您喜欢什么和不喜欢什么。这是网站：https://immersa.app   由   提交 /u/ertucetin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjmhny/roast_my_saas_landing_page/</guid>
+      <pubDate>Wed, 20 Mar 2024 19:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>奇怪的 WebKit 错误 [阅读说明]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjh9cb/weird_webkit_bug_read_captions/</link>
-      <description><![CDATA[       由   提交/u/abs0lut888  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjh9cb/weird_webkit_bug_read_captions/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:12:51 GMT</pubDate>
+      <title>Supabase：如何为 createClient() 服务角色创建单例实例？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjmh20/supabase_how_to_create_a_singleton_instance_for/</link>
+      <description><![CDATA[我有一个后端（Next.js API 路由），我在其中使用 createClient() 实例化一个新的 Supabase 实例以执行管理任务。但是，每次调用后端 API 路由函数时，都会生成一个新的 createClient() 实例。我了解到，最佳实践是在单独的 JavaScript 文件中创建单例可重用实例，如下所示： import { createClient } from &quot;@supabase/supabase-js&quot;; const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL; const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;导出 const supabase = createClient(supabaseUrl, supabaseAnonKey);  请注意，此设置适用于匿名客户端。该文件位于 /utils 文件夹内，该文件夹位于项目的根目录下。由于它可以被公众访问，因此在客户端可以访问的普通JS文件中定义它是没有问题的。然而，困难在于，当为 createClient() 服务角色创建单例实例并将代码直接放置在 utils 文件夹内的同一个 JS 文件中时，如下所示： const supabaseServiceRoleKey = process .env.SUPABASE_SERVICE_ROLE； const supabaseServiceRole = createClient(supabaseUrl, supabaseServiceRoleKey);  会带来风险，因为用户能够看到秘密环境变量。所以我想知道如何使用 createClient() 服务角色创建可重用的单例实例而不将其暴露给公众。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjmh20/supabase_how_to_create_a_singleton_instance_for/</guid>
+      <pubDate>Wed, 20 Mar 2024 19:47:11 GMT</pubDate>
     </item>
     <item>
-      <title>为没有广告的网站带来流量？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjfwra/generating_traffic_to_a_website_without_ads/</link>
-      <description><![CDATA[基本上我发现了一个很棒的网站创意，它在任何地方都很受欢迎，但在我的国家没有类似的东西，它解决了我住的地方很多人遇到的问题，但我的钱实际上是 0，因此我无法为其做广告，您有什么建议可以给我带来该网站的流量吗？我相信我可以从中赚很多钱，但前提是我能让​​足够多的人看到它。    由   提交/u/seifeldin02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjfwra/generating_traffic_to_a_website_without_ads/</guid>
-      <pubDate>Wed, 20 Mar 2024 15:16:43 GMT</pubDate>
+      <title>新闻网站是如何制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjlugh/how_are_made_news_website/</link>
+      <description><![CDATA[我正在阅读一篇文章：https://www .cnbc.com/2023/09/26/where-are-bitcoin-miners-in-2023-texas.html#:~:text=Texas%20dominates%20the%20U.S.%20bitcoin,最大%20mining%20pool %2C%20Foundry%20USA。 我偶然发现了一张交互式地图，用户可以将鼠标悬停在上面查看数据。这让我想知道，“嗯，这样的新闻网站是如何制作的？”很明显，它们不仅仅是纯文本，因为它们包含了复杂的元素。 我最初的想法是，这些网站是建立在某种内容管理系统 (CMS) 上的，作者可以在其中输入文本和图像供出版。但是，我认为这种方法不适用于集成复杂的交互元素和动画。 那么，也许这是开发和编写的结合？我很好奇创建此类新闻网站的确切过程。如果有人在这样的公司工作或知道它是如何完成的，我很乐意听到更多有关它的信息。 ​   由   提交 /u/Tyranoc4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjlugh/how_are_made_news_website/</guid>
+      <pubDate>Wed, 20 Mar 2024 19:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最好的域名注册商是哪家？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjfqse/whats_the_best_domain_registrar_in_2024/</link>
-      <description><![CDATA[过去，我总是从 Google Domains 购买域名。然而，由于它们被卖给了 Squarespace，我最近发现自己需要更换。我环顾四周，认为我应该分享我所学到的知识，以防对其他人有帮助。 最佳域名注册商 有一些注册商的出现频率比其他任何人都高。他们通常得到好评，很少甚至没有抱怨。以下大致按照推荐频率排列：  Cloudflare&lt; /li&gt; Namecheap  Porkbun 悬停  Cloudflare 的一个亮点是您被锁定使用他们的 DNS。 不光彩的提及 大多数人建议避免使用 GoDaddy，因为糟糕的客户服务和卑劣的商业行为（例如涨价）并购买人们搜索的域名。 最终想法 您可以使用 ICANN 查询以检查域名可用性。 请随时与这些注册商分享您的经验，或添加我在评论中可能错过的任何选项。&lt; /p&gt; 再见，Google Domains :( 编辑： 由于 Gandi 做出了不受欢迎的决定，例如被 Total Webhosting Solutions 收购后大幅提高价格，因此将 Gandi 从列表中删除。    由   提交/u/citrus1330  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjfqse/whats_the_best_domain_registrar_in_2024/</guid>
-      <pubDate>Wed, 20 Mar 2024 15:09:48 GMT</pubDate>
+      <title>如何自动删除未使用的导入并格式化它们</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjlsaj/how_could_i_automate_deletion_of_unused_imports/</link>
+      <description><![CDATA[在 Visual Studio Code 中，如果按 ctrl + shift + O，将自动删除导入并格式化它们。提交时是否可以自动对文件执行此操作？  我知道 husky 可以在提交之前运行脚本，但我不知道是否可以自动化此功能。   由   提交 /u/OBSCURE_CONVERSATION   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjlsaj/how_could_i_automate_deletion_of_unused_imports/</guid>
+      <pubDate>Wed, 20 Mar 2024 19:18:29 GMT</pubDate>
     </item>
     <item>
-      <title>假冒电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjfiol/counterfeit_ecommerce_site/</link>
-      <description><![CDATA[有人抓取了我的 Shopify 网站，并使用 WooCommerce 建立了一个包含我所有产品和照片的假冒网站。我进行了 WhoIs 查询，但他们当然隐藏了注册人信息。看起来他们正在使用注册商 (PublicDomainRegistry)[publicdomainregistry.com] 进行非常糟糕且“诈骗”的操作。声誉，所以我不太希望我的滥用报告会随他们一起去任何地方。 有人对如何继续以及如何删除该网站有任何建议吗？   div&gt;  由   提交/u/EdselHans  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjfiol/counterfeit_ecommerce_site/</guid>
-      <pubDate>Wed, 20 Mar 2024 15:00:28 GMT</pubDate>
+      <title>过去的 PHP 开发人员，负责 ASAP Flutter 个人项目。最有效的路径？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjl59u/pastdate_php_developer_with_an_asap_flutter/</link>
+      <description><![CDATA[TL;DR: 陷入 2000 年代末的 PHP 堆栈，想要使用个人生产力项目作为 Flutter 学习机会。我的时间很少。最快的入门方法？ 嘿，开发者， 我是一名老派后端 PHP 开发者，自 2009 年以来就不再从事专业工作，但继续使用它来娱乐和学习个人项目。我擅长 PHP、MySQL、Vanilla JS 和基本的网页设计，但当涉及到现代（或不太现代）工具（如 Composer、npm，甚至 git）时，我却停留在过去。 我有个人需求，似乎没有现有应用程序可以满足该需求。我的首选是使用我熟悉的堆栈来创建它，但我想让它成为一个学习机会。我研究并选择了 Flutter，因为我希望它是跨平台的，具有一致的 UI，而且因为我是 Google 粉丝！ 😁 项目要求： - 定时例程：创建多个例程，包含定时步骤以及带有进入下一步警报的倒计时。 - 习惯跟踪器：基本的 CRUD 功能，主要是布尔值。 - 足够模块化，可以在以后添加功能。 - 跨平台：至少可以通过网络和 Android 应用程序进行访问。 - 这只是为了我，我不打算分发它或任何东西。 我在 Udemy 上找到了非常好的课程，但问题是我有一份每周 60 小时的工作，一个小孩，一个怀孕的妻子，而且花在这上面的时间非常非常少。 考虑到这些限制，让我建造的最有效路径是什么？我不需要这个应用程序是完美的，它只适合我，随着时间的推移，我会变得更加熟练，我会迭代它，或者从头开始重做它。我患有多动症，所以这是我正在做的一件非常危险的事情，我真的需要一条专注的道路，这样我才能保持我的优先事项！ 🥲 如果可行的话，我愿意使用混合技术并根据我的学习进行转换。我们的目标是快速找到可行的解决方案，并随着时间的推移不断学习。例如：  第 1 步：“Flutter 堆栈”前端，PHP/MySQL 后端 第 2 步：将后端转换为适当的“Flutter 堆栈”&lt; /li&gt; 第 3 步：将数据库转换为适当的“Flutter 堆栈” 第 4 步：决定它是狗屎，废弃所有内容并从头开始。  我使用术语“Flutter stack”表示与 Flutter 一起使用的适当技术，因为我还不知道它们是什么（Dart、Firebase 等）。 😊 感谢大家的帮助， /canaroc   由   提交 /u/canaroc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjl59u/pastdate_php_developer_with_an_asap_flutter/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:52:49 GMT</pubDate>
     </item>
     <item>
-      <title>这是新手，快速提问。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjffzz/new_to_this_quick_question/</link>
-      <description><![CDATA[使用游戏桌面在家里托管我自己的服务器可以吗？一个相当标准的 6 核第 12 代 4.4ghz i5 cpu，gtx 1650， 16GB 内存 DDR4 2666MHz。它使用 512GB 固态硬盘运行 Windows 11，如有必要，我将添加更多存储空间。我是否需要安装 cent os 或类似的东西，或者我可以直接从 Windows 进行安装吗？我将在千兆字节互联网上使用直接以太网连接，我预计一次使用该网站的人数不会超过 20 人，主要用于电子商务。使用付费托管是否值得？我还有另一台电脑用来玩游戏，并且作为我的主电脑。谢谢！   由   提交 /u/BrickyThaKidd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjffzz/new_to_this_quick_question/</guid>
-      <pubDate>Wed, 20 Mar 2024 14:57:13 GMT</pubDate>
+      <title>如何为 React 库创建动态 Tailwind 主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjkybg/how_to_create_dynamic_tailwind_themes_for_a_react/</link>
+      <description><![CDATA[您好！我写了一篇文章，介绍我们如何为 React 组件实现动态 Tailwind 主题我们构建的库是为了在具有不同颜色主题的 Web 应用程序之间共享组件。它还展示了我们在测试 React 组件时如何使用 Storybook 切换颜色主题。 查看此处的文章：https://www.dolthub.com/blog/2024-03-20-dynamic-tailwind-themes/   由   提交 /u/tbantle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjkybg/how_to_create_dynamic_tailwind_themes_for_a_react/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>为我的作品集付钱给设计师？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjenr0/pay_a_designer_for_my_portfolio/</link>
-      <description><![CDATA[在我目前的工作中，有时我有几个小时的空闲时间，我正在考虑建立我的作品集。但我对设计部分并不乐观，所以我可以聘请/支付设计师来制作我的作品集，以便我可以构建它吗？因为成为一名全栈开发人员并不一定意味着我必须擅长设计，对吗？ HR是否也在寻找你自己的设计（而不是设计师的设计）作为开发人员的卖点？   由   提交 /u/driedKelpShake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjenr0/pay_a_designer_for_my_portfolio/</guid>
-      <pubDate>Wed, 20 Mar 2024 14:23:24 GMT</pubDate>
+      <title>在编程中查找和使用图像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjkkri/finding_and_using_images_in_programming/</link>
+      <description><![CDATA[人们从哪里获取图像并将其合并到他们的应用程序中。我通常从 pexels 和 unsplash 下载图像并在我的代码中修复它们，但它们很大，即使压缩后加载速度也很慢。大多数图像都有背景。假设有一个带有桌子背景的杯子。如何去掉桌子，只显示杯子的切口？  大多数移动应用《android、ios》往往有卡通图像来引导新用户进行注册等。开发人员从哪里获得这些清晰的卡通图像？   由   提交 /u/Simplyvenom37485   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjkkri/finding_and_using_images_in_programming/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:28:56 GMT</pubDate>
     </item>
     <item>
-      <title>数据库即服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjekbn/database_as_a_service/</link>
-      <description><![CDATA[我已经搜索了这个问题的答案，但没有找到任何好的答案。 我的问题围绕使用数据库作为服务（我将使用 DAS）。其中有很多，例如行星尺度、霓虹灯和霓虹灯。蟑螂湾他们中的大多数人似乎都在使用大型云提供商。例如，使用 amazon &amp; 的 Planetscale coachroach db 使用谷歌云（GCP）。当决定使用哪种数据库即服务时，您是否需要确保任何 DAS 与您用来托管应用程序的任何 DAS 位于同一数据中心？例如，如果您要使用 cockroach db，那么应该使用 GCP 来托管您的应用程序（最好在同一主机托管位置）？我是否想得太多了，只要你有点接近，性能就应该没问题？  我认为如果您不这样做，那么延迟可能会非常糟糕（通过公共互联网进行数据库请求）。当然，假设您没有真正的数据需求。当然，您可以根据数据进行一些优化，例如在边缘缓存数据请求。   由   提交/u/Prog47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjekbn/database_as_a_service/</guid>
-      <pubDate>Wed, 20 Mar 2024 14:19:18 GMT</pubDate>
+      <title>AdminLTE 与 Tabler.io 的 SaaS MVP（管理仪表板）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bjk92k/adminlte_vs_tablerio_for_saas_mvp_admin_dashboard/</link>
+      <description><![CDATA[您好， 我想问一下你们会使用这两者中的哪一个（或您推荐的其他）来进行SaaS 的 MVP 原型。我们不需要任何太花哨的东西，只是它看起来不错并且具有在管理仪表板中使用的常用组件。 ​ 后端将位于.NET Core，我们将使用 React 作为前端。 ​ 非常感谢！   由   提交/u/franciscogalaz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bjk92k/adminlte_vs_tablerio_for_saas_mvp_admin_dashboard/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:15:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
