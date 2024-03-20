@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 06:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 09:13:26 GMT</lastBuildDate>
+    <item>
+      <title>每个工程师都应该知道的十大代码味道，以改进他们的拉取请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bj8t7b/top_10_code_smells_every_engineer_should_know_to/</link>
+      <description><![CDATA[如何避免困难的代码审查？识别代码气味！ 根据维基百科：  In计算机编程中，代码味道是程序源代码中可能表明更深层次问题的任何特征。  在帮助开发人员审查代码几年后，我想出了 10 条代码气味以及如何在构建我的项目时修复它们 Axolo。 🧐 重构大型或复杂方法 探索跨越众多界限或变得复杂的方法可能会令人望而生畏。简化是关键！ 修复方法？使用 linter 来强制执行最大行数。将这些庞然大物解构为更小、更集中的方法，每个方法专用于一个单一的任务。 🤔 处理长参数列表 很多参数可能会混淆方法签名，使它们容易出错. 修复？将相关参数合并到单个对象中。采用“参数对象”模式来简化您的函数，增强其可读性和可维护性。 🙄 尽量减少过多的注释 注释过多通常表明代码本身并没有像应有的那样清晰地表达出来. 修复？努力通过明智的命名和结构来解释自己的代码。减少对注释的依赖，让代码的目的和功能立即显而易见。 🤦 消除重复代码 重复的代码片段不仅令人讨厌，而且还会带来麻烦。它们使更新变得复杂并可能导致不一致。 解决办法？找出重复的代码段并将其合并到通用函数中。遵守 DRY（不要重复自己）原则可以简化未来的维护和修改。 😕 协调不一致的命名约定 命名混乱会混淆理解并引入潜在的错误。 修复？致力于统一的命名约定。清晰一致的名称为更易于理解和理解的代码铺平了道路。 😬 增强错误处理 忽视全面的错误管理可能会导致不稳定的行为和难以理解的代码库。维持。 修复？拥抱彻底的错误管理。以逻辑方式记录和管理异常，以增强代码的稳定性和可靠性。 🤯 简化过度使用的 If/Else 结构 大量的 if/else 分支可能会造成代码混乱，从而增加阅读难度并调整。 解决方法？依靠数据结构或设计模式（例如多态性）来理清复杂的逻辑，从而增强代码的易读性和适应性。 👎 细化继承的使用 对继承的不适当依赖可能会使代码陷入困境进一步降低了其适应性。 修复方法？验证继承是否被明智地使用。选择组合而不是继承来实现更灵活、更易于维护的代码结构。  老实说，您通常在 PR 中看到哪一个？如果您认为我遗漏了某些内容，请在评论中告诉我！   由   提交 /u/Kanklu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bj8t7b/top_10_code_smells_every_engineer_should_know_to/</guid>
+      <pubDate>Wed, 20 Mar 2024 08:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Railway.app 如何对数据库使用定价？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bj7qgc/how_does_railwayapp_price_database_usage/</link>
+      <description><![CDATA[Railway.app 定价页面上没有有关定价的详细信息用于数据库使用。例如，如果我在 Railway 上托管一个 Mysql 数据库，定价会如何？我还没有找到详细信息。谁能指出我正确的方向吗？   由   提交/u/dreamygeek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bj7qgc/how_does_railwayapp_price_database_usage/</guid>
+      <pubDate>Wed, 20 Mar 2024 07:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈哈，pro.sony 官方网站。有人忘记删除调试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bj7cy4/lol_prosony_official_website_someone_forgot_to/</link>
+      <description><![CDATA[       由   提交 /u/YankeeLimaVictor   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bj7cy4/lol_prosony_official_website_someone_forgot_to/</guid>
+      <pubDate>Wed, 20 Mar 2024 06:56:16 GMT</pubDate>
+    </item>
     <item>
       <title>有人在找项目吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bj4ein/anyone_looking_for_a_project/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我有一个允许用户创建帐户的网站。当然，为此，必须收集密码、电子邮件和一些用户名。密码经过加盐和散列处理以及所有内容，并且存储电子邮件以供验证（如果他们在个人资料上发布的内容不合适或与网站的主题无关......这是披萨哈哈，我需要联系他们） 。最后，用户名仅用于登录和查找朋友。 当用户登录时，我使用会话变量（据我所知，常规 cookie 的一个更安全的子集）来跟踪他们的登录状态和用户名。根据 GDPR 或任何其他网络法律，我是否必须告知用户这种类型的必要 cookie？我在网站隐私政策中提到了它们的目的，但我目前不使用任何类型的小吃栏或类似的东西来在最初访问该网站时通知用户。而且我的网站上没有任何其他 cookie。我对隐私政策页面的态度还好吗，还是需要做更多的事情？   由   提交/u/zacguymarino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1biy9lk/session_variables_login_data/</guid>
       <pubDate>Tue, 19 Mar 2024 23:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名开发人员……有点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bixziu/im_a_developerkinda/</link>
-      <description><![CDATA[我一直有关于求职板的想法。但雇用每个人都太贵了。所以我从去年年中开始自学编码。这段旅程有起有落，但现在我已经对前端开发感到满意了。问题是，现在我需要学习后端，在花了我所有的夜晚和几个周末才达到现在的水平后，我非常疲惫。所以我一直在寻找不同的选择，它们是：  支付 10,000 美元让某人开始我的项目，并希望在项目结束时获得 MVP。我现在有一份更好的工作，所以大概几个月后我就可以存钱 继续学习，无论是自学还是上课。自学很酷，但我没有人可以问问题。而且上课时间太长了。  对于我来说，这两个都有点遥远。所以，今天我想到了一个新主意！我想过只雇用一名后端开发人员。我可以构建前端，这将为我节省很多钱，而有人可以做后端。唯一的问题是，我不知道如何聘请后端开发人员。我雇佣一家公司吗？我是否尝试找一名自由职业者？如果有的话从哪里来？我看过 Fivever，这个选项对我来说不起作用，因为我需要有人可以与我交谈，而且我在学习环境中不太理解口音。 Upwork 看起来很有希望，但我有疑问。  想法？有建议吗？   由   提交 /u/Codydiceman1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bixziu/im_a_developerkinda/</guid>
-      <pubDate>Tue, 19 Mar 2024 22:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户跟踪以限制负载。 （游戏开发。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bixus7/user_tracking_for_load_limiting_game_development/</link>
-      <description><![CDATA[大家好。所以我可能会想到更糟糕的情况，但我想知道我可以使用哪些工具。  想象一下这个不需要登录、用户名或密码的网页游戏（agar io 或 slimher io 就是很好的例子）我如何确保用户不会打开一堆虚假的 websockets要么运行机器人，要么从我的服务器上发送垃圾邮件？  考虑过使用 IP，但在某些情况下，如果在网络上玩游戏，则同一网络上的多个用户的 IP 将是相同的。可以使用 cookies，但我必须对使用这些 cookies 做出免责声明。  一切都有积极和消极的一面，但我想知道你们以前都做过什么。  仅供参考，我正在使用 Nodejs 并自己托管该网站。但我不认为这会改变答案。    由   提交 /u/brendenderp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bixus7/user_tracking_for_load_limiting_game_development/</guid>
-      <pubDate>Tue, 19 Mar 2024 22:46:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Pure CSS 的法国 YouTube 频道🇫🇷</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bix7ye/french_youtube_channel_about_pure_css/</link>
-      <description><![CDATA[嘿伙计们！我是 CSSami，我正在创建一个 YouTube 频道来讨论纯 CSS。现在我们正在谈论选择器，我已经制作了一个关于 Flexbox 的完整视频！  该频道是法语，但字幕效果很好，所以即使您不会说法语，也可以来看看😄 我希望您喜欢它并给我更多关于视频的想法关于您希望我解释的主题 https://youtube.com/@CSSami7 &lt; /div&gt;  由   提交 /u/NimbusTeam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bix7ye/french_youtube_channel_about_pure_css/</guid>
-      <pubDate>Tue, 19 Mar 2024 22:21:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
