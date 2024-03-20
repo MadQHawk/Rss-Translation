@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 20 Mar 2024 00:52:35 GMT</lastBuildDate>
-    <item>
-      <title>HPT</title>
-      <link>https://www.opensourceagenda.com/projects/hpt</link>
-      <description><![CDATA[HPT - 来自 HyperGAI 的开放式多模式法学硕士]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hpt</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰卡科项目</title>
-      <link>https://www.opensourceagenda.com/projects/tycako-proja</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tycako-proja</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据指针</title>
-      <link>https://www.opensourceagenda.com/projects/dptr</link>
-      <description><![CDATA[可微分点渲染器，POINTRIX 的后端。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dptr</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>MV编辑</title>
-      <link>https://www.opensourceagenda.com/projects/mvedit</link>
-      <description><![CDATA[[arXiv 2024] 使用受控多视图编辑的通用 3D 扩散适配器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mvedit</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ComfyUI APISR</title>
-      <link>https://www.opensourceagenda.com/projects/comfyui-apisr</link>
-      <description><![CDATA[ComfyUI APISR 的非官方实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/comfyui-apisr</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webconfig Springboot</title>
-      <link>https://www.opensourceagenda.com/projects/webconfig-springboot</link>
-      <description><![CDATA[Springboot项目web配置，为了规范项目，很多项目已经要求全局配置一些公用的组件，例如异常捕获、参数校验、统一返回参数等。所以webconfig就是为了解决此类问题，封装好通用的参数并提供可插拔的配置]]></description>
-      <guid>https://www.opensourceagenda.com/projects/webconfig-springboot</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新定义现实 Cobalt Strike</title>
-      <link>https://www.opensourceagenda.com/projects/redefiningreality-cobalt-strike</link>
-      <description><![CDATA[增强 Cobalt Strike 功能及其逃避防病毒/EDR 检测能力的各种资源]]></description>
-      <guid>https://www.opensourceagenda.com/projects/redefiningreality-cobalt-strike</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>壮举</title>
-      <link>https://www.opensourceagenda.com/projects/featup</link>
-      <description><![CDATA[“FeatUp：任何分辨率特征的模型无关框架”ICLR 2024 的官方代码]]></description>
-      <guid>https://www.opensourceagenda.com/projects/featup</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Movavi 完整版 V2</title>
-      <link>https://www.opensourceagenda.com/projects/movavi-full-v2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/movavi-full-v2</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jameshk08 地狱潜水员 2 作弊</title>
-      <link>https://www.opensourceagenda.com/projects/jameshk08-helldivers-2-cheat</link>
-      <description><![CDATA[地狱潜水员的黑客攻击。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jameshk08-helldivers-2-cheat</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:32 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Mar 2024 03:14:35 GMT</lastBuildDate>
     <item>
       <title>净值</title>
       <link>https://www.opensourceagenda.com/projects/jnv</link>
       <description><![CDATA[使用 jq 的交互式 JSON 过滤器]]></description>
       <guid>https://www.opensourceagenda.com/projects/jnv</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>跟踪猫</title>
-      <link>https://www.opensourceagenda.com/projects/tracecat</link>
-      <description><![CDATA[😼 Tines/Palo Alto XSOAR 的开源 AI 原生替代方案。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tracecat</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Websocket 覆盖</title>
-      <link>https://www.opensourceagenda.com/projects/websocket-overlays</link>
-      <description><![CDATA[Websocket 控制的视频叠加服务器，适用于 OBS-Studio、XSplit、CasparCG、ProPresenter 以及使用 Web 浏览器的所有内容.]]></description>
-      <guid>https://www.opensourceagenda.com/projects/websocket-overlays</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:31 GMT</pubDate>
+      <pubDate>Wed, 20 Mar 2024 03:14:35 GMT</pubDate>
     </item>
     <item>
       <title>Img2img 涡轮增压</title>
       <link>https://www.opensourceagenda.com/projects/img2img-turbo</link>
       <description><![CDATA[使用 SD-Turbo 一步式图像到图像]]></description>
       <guid>https://www.opensourceagenda.com/projects/img2img-turbo</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:31 GMT</pubDate>
+      <pubDate>Wed, 20 Mar 2024 03:14:34 GMT</pubDate>
     </item>
     <item>
       <title>网格代码</title>
       <link>https://www.opensourceagenda.com/projects/griddycode</link>
       <description><![CDATA[用 Godot 制作的代码编辑器。代码从未如此明亮！]]></description>
       <guid>https://www.opensourceagenda.com/projects/griddycode</guid>
-      <pubDate>Wed, 20 Mar 2024 00:52:31 GMT</pubDate>
+      <pubDate>Wed, 20 Mar 2024 03:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Movavi 完整版 V2</title>
+      <link>https://www.opensourceagenda.com/projects/movavi-full-v2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/movavi-full-v2</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jameshk08 地狱潜水员 2 作弊</title>
+      <link>https://www.opensourceagenda.com/projects/jameshk08-helldivers-2-cheat</link>
+      <description><![CDATA[地狱潜水员的黑客攻击。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jameshk08-helldivers-2-cheat</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solaredge Meterproxy</title>
+      <link>https://www.opensourceagenda.com/projects/solaredge-meterproxy</link>
+      <description><![CDATA[适用于 SolarEdge 逆变器和不支持的千瓦时电表的 Modbus 代理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/solaredge-meterproxy</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>桑特克斯Modbus</title>
+      <link>https://www.opensourceagenda.com/projects/sontx-modbus</link>
+      <description><![CDATA[C# 的 Modbus RTU 和 TCP 支持]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sontx-modbus</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Websocket 覆盖</title>
+      <link>https://www.opensourceagenda.com/projects/websocket-overlays</link>
+      <description><![CDATA[Websocket 控制的视频叠加服务器，适用于 OBS-Studio、XSplit、CasparCG、ProPresenter 以及使用 Web 浏览器的所有内容.]]></description>
+      <guid>https://www.opensourceagenda.com/projects/websocket-overlays</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modbus PI Pico FreeRTOS</title>
+      <link>https://www.opensourceagenda.com/projects/modbus-pi-pico-freertos</link>
+      <description><![CDATA[使用 FreeRTOS 和 C++ SDK 的 Raspberry PI Pico 的 Modbus 主站和从站 RTU 库&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/modbus-pi-pico-freertos</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>ModbusRTUS从站</title>
+      <link>https://www.opensourceagenda.com/projects/modbusrtuslave</link>
+      <description><![CDATA[这是一个 Arduino 库，用于实现 Modbus RTU 协议的从站/服务器逻辑。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/modbusrtuslave</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modbus 嗅探器</title>
+      <link>https://www.opensourceagenda.com/projects/modbus-sniffer</link>
+      <description><![CDATA[Modbus 协议的嗅探器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/modbus-sniffer</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据传输模块Modbus</title>
+      <link>https://www.opensourceagenda.com/projects/sdm-modbus</link>
+      <description><![CDATA[Eastron SDM Modbus 数据采集库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sdm-modbus</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>家庭助理 Solax Modbus</title>
+      <link>https://www.opensourceagenda.com/projects/homeassistant-solax-modbus</link>
+      <description><![CDATA[家庭助理的SolaX Power Modbus custom_component（支持部分锦浪索利斯、古瑞瓦特、首航新能源、 TIGO TSI 和 Qcells Q.Volt Hyb)]]></description>
+      <guid>https://www.opensourceagenda.com/projects/homeassistant-solax-modbus</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modbus TCP 客户端</title>
+      <link>https://www.opensourceagenda.com/projects/modbus-tcp-client</link>
+      <description><![CDATA[Modbus TCP 和 Modbus RTU over TCP 的 PHP 客户端（可用于串口）&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/modbus-tcp-client</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenModScan</title>
+      <link>https://www.opensourceagenda.com/projects/openmodscan</link>
+      <description><![CDATA[Open ModScan 是一款免费的 Modbus Master（客户端）实用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openmodscan</guid>
+      <pubDate>Wed, 20 Mar 2024 03:14:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
