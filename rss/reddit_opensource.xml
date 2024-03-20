@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 21:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:52:13 GMT</lastBuildDate>
+    <item>
+      <title>具有 AGPL“或”收入共享许可证的双重许可软件有哪些很好的例子？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bix18d/what_are_some_good_examples_of_duallicensing/</link>
+      <description><![CDATA[我记得读过一篇关于一些俄罗斯打印机软件开发人员的帖子，他们违反了他们使用的某些库的 GPL，因为他们没有向该帖子的作者透露其源代码购买“商业许可证”来自原始库的开发人员。我现在找不到这个帖子了（X 的搜索系统很糟糕，花了 10 分钟滚动我以前喜欢的内容，但没有结果），但我记得双重许可的想法。 我如何考虑发布我自己开发了一年多的服务器端软件，作为一名破产的开源粉丝，我觉得它可能是一个完美的中间地带——为那些准备好的人提供 Copyleft AGPL 之间的选择以相同的许可证和商业收入共享许可证发布他们的开发成果，供那些想要进行改进并保留其秘密的公司使用。 据我所知，我不能将任何 GPL/AGPL 许可代码包含在我的作品将在没有版权所有者明确许可的情况下以这种方式获得双重许可。这是否意味着，如果有人使用我的 AGPL 工作并进行更改，我将无法将此更改添加到我的主分支中？ 请分享一些采用此许可模式的成功软件示例。    由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1bix18d/what_are_some_good_examples_of_duallicensing/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bix18d/what_are_some_good_examples_of_duallicensing/</guid>
+      <pubDate>Tue, 19 Mar 2024 22:13:47 GMT</pubDate>
+    </item>
     <item>
       <title>使用苏格兰 STV 计票。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bitd3l/counting_votes_using_scottish_stv/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Wolflith：通过一个命令简化您的技术堆栈部署</title>
       <link>https://www.reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/</link>
-      <description><![CDATA[我很自豪地宣布 Wolflith 的测试版发布 - 一个革命性的工具包，只需一个命令即可简化您的技术堆栈部署。 Wolflith 的设计既简单又复杂，非常适合任何想要简化数字环境的人，从初学者到经验丰富的技术爱好者。 🛠 介绍 Wolflith：您的技术堆栈最好的朋友  从本质上讲，Wolflith 简化了跨多台机器的 docker 容器部署，提供了无缝的单命令解决方案。它是我们花费无数时间致力于完善工具的成果，该工具既适合初学者使用，又足够强大，适合最经验丰富的技术爱好者。愿景？显着减少将多项服务委托给机器所需的时间（从整个周末缩短到仅仅几分钟），让您能够专注于真正重要的事情。 🚀 为什么 Wolflith 很重要 As作为一名狂热的技术和家庭实验室爱好者，我了解时间管理的重要性以及我们数字化工作的影响。 Wolflith 的诞生是为了简化传统上耗费大量时间的流程的需要。无论您的设置像我的一样在 Proxmox 上运行，还是正在探索 Unraid（Wolflith 将来会支持）等其他平台，这个工具都适合您。 （目前支持 Ubuntu 和 Debian Linux 机器）。 💬 加入 Wolflith 之旅 这个测试版本只是一个开始。您的反馈、见解和贡献是推动 Wolflith 发展的命脉。我邀请您加入这个旅程，来测试、批评和增强 Wolflith。我们可以一起完善这个工具，减少手动服务委托时间，增加我们的空闲时间，并传播人们对这个有可能重新定义我们的数字景观的工具的认识。 🔗 深入研究，做出贡献，并分享您的见解！您的声音对于塑造 Wolflith 的未来至关重要。请在 GitHub 上查看，让我们一起创造数字魔法。 让我们一起利用 Wolflith 的力量不仅要管理我们的数字环境，还要改造它们。让我们的技术更加智能，而不是更加困难，让我们的创新产生持久的影响。感谢您参与这次冒险。您的参与和反馈不仅将推动 Wolflith 向前发展，还将塑造技术部署的未来。 期待您的想法、反馈和贡献。   由   提交 /u/Monitor-Early   /u/Monitor-Early reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我很自豪地宣布推出 Wolflith 测试版 - 一个旨在简化跨容器部署 Docker 容器的过程的工具包或使用单个命令高效、快速地操作多台 Linux 机器。通过利用 Ansible 进行编排，用户可以从各种 Docker 服务中进行选择或添加自己的服务，然后将它们同时部署到自己的计算机上。这种方法使得 Wolflith 对于那些寻求更直接、更有针对性的技术堆栈管理解决方案的人特别有用，尤其是在以 Docker 为中心的环境中。 Wolflith 旨在显着减少传统上与部署服务相关的时间和复杂性，为各个级别的技术爱好者提供更易于访问且更高效的解决方案。 🚀 为什么 Wolflith 很重要 As作为一名狂热的技术和家庭实验室爱好者，我了解时间管理的重要性以及我们数字化工作的影响。 Wolflith 的诞生是为了简化传统上耗费大量时间的流程的需要。无论您的设置像我的一样在 Proxmox 上运行，还是正在探索 Unraid（Wolflith 将来会支持）等其他平台，这个工具都适合您。 （目前支持 Ubuntu 和 Debian Linux 机器）。 💬 加入 Wolflith 之旅 这个测试版本只是一个开始。您的反馈、见解和贡献是推动 Wolflith 发展的命脉。我邀请您加入这个旅程，来测试、批评和增强 Wolflith。我们可以一起完善这个工具，减少手动服务委托时间，增加我们的空闲时间，并传播人们对这个有可能重新定义我们的数字景观的工具的认识。 🔗 深入研究，做出贡献，并分享您的见解！您的声音对于塑造 Wolflith 的未来至关重要。请在 GitHub 上查看，让我们一起创造数字魔法。 期待您的想法、反馈和意见贡献   由   提交 /u/Monitor-Early   /u/Monitor-Early reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/</guid>
       <pubDate>Tue, 19 Mar 2024 19:14:40 GMT</pubDate>
     </item>
@@ -39,13 +46,6 @@
       <description><![CDATA[大家好， 过去 2 年我们一直在为数据团队构建软件。经过多次迭代后，我们决定从头开始重建所有内容，并为整个社区开源。 Latitude 是一个开源框架，用于使用 SQL 和简单的前端组件，您可以将其嵌入到您自己的应用程序中。 您可以在此处查看存储库：https: //github.com/latitude-dev/latitude 我们正在积极寻找反馈和贡献者。让我知道您的想法！   由   提交 /u/EloquentPickle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bimjad/latitude_an_opensource_web_framework_for_embedded/</guid>
       <pubDate>Tue, 19 Mar 2024 15:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 n8n + Automatisch 通过 alf.io、Invoice Ninja 和 stripe 生成发票并记录费用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bimi15/using_n8n_automatisch_to_generate_invoices_log/</link>
-      <description><![CDATA[       嗨，我写了一篇关于使用 n8n + Automatisch 生成发票和发票的文章。使用 alf.io、Invoice Ninja 和 stripe 记录支出。希望你喜欢！ :)   由   提交 /u/WuTanB   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bimi15/using_n8n_automatisch_to_generate_invoices_log/</guid>
-      <pubDate>Tue, 19 Mar 2024 15:08:55 GMT</pubDate>
     </item>
     <item>
       <title>Google Summer of Code (GSOC) 错过了最后期限</title>
@@ -85,7 +85,7 @@
     <item>
       <title>对于“哑”健身追踪器（例如使用手表电池的非 Android 设备）是否有任何自由和开源软件选项？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bhm1yr/are_there_any_foss_options_for_a_dumb_fitness/</link>
-      <description><![CDATA[终于成功破解了我值得信赖的旧 Garmin vivofit 2，尽管它不是一款精美的 Android 智能手表，但我真的非常喜欢它的电池寿命。很确定我已经 3 年多（5 年多？）年没有更换过电池，而且你不需要（甚至能够）充电。 除非我的 google&lt; /del&gt;searx-foo 今天很弱，看起来大多数主流东西都是“智能”的。手表（我认为最多需要每周充电，甚至可能每天充电）……我对这种前景不太热衷。虽然我希望能够将原始健身数据导出到 Linux 桌面，但我更愿意避免让我的数据进入任何专有云系统 - 尤其是那些难以从这些系统导出数据的系统。 有人知道是否有一些真正基本的东西是开源的，或者如果不是的话，它至少可以让你对你的数据有一定的控制权？现成的产品是首选，特别是如果它们像 vivofit 一样具有防水功能。也就是说，我仍然会考虑 DIY 项目，只要它是可爱的并且尺寸合理......我不喜欢背着笔记本电脑，我想即使是锉刀 pi 也可以与普通手表/腕带计步器相比有点大。 如果没有，我可能会发现比转换为智能手表/智能追踪器更合适的其他建议吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/snyone   [链接] [评论]]]></description>
+      <description><![CDATA[终于成功破解了我值得信赖的旧 Garmin vivofit 2，尽管它不是一款精美的 Android 智能手表，但我真的很喜欢它的电池寿命。很确定我已经 3 年多（5 年多？）年没有更换过电池，而且你不需要（甚至能够）充电。 除非我的 google&lt; /del&gt;searx-foo 今天很弱，看起来大多数主流东西都是“智能”的。手表（我认为最多需要每周充电，甚至可能每天充电）……我对这种前景不太热衷。虽然我希望能够将原始健身数据导出到 Linux 桌面，但我更愿意避免让我的数据进入任何专有云系统 - 尤其是那些难以从这些系统导出数据的系统。 有人知道是否有一些真正基本的东西是开源的，或者如果不是的话，它至少可以让你对你的数据有一定的控制权？现成的产品是首选，特别是如果它们像 vivofit 一样具有防水功能。也就是说，我仍然会考虑 DIY 项目，只要它是可爱的并且尺寸合理......我不喜欢背着笔记本电脑，我想即使是锉刀 pi 也可以与普通手表/腕带计步器相比有点大。 如果没有，我可能会发现比转换为智能手表/智能追踪器更合适的其他建议吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/snyone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bhm1yr/are_there_any_foss_options_for_a_dumb_fitness/</guid>
       <pubDate>Mon, 18 Mar 2024 08:49:47 GMT</pubDate>
     </item>

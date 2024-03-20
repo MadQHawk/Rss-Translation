@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 21:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:52:08 GMT</lastBuildDate>
+    <item>
+      <title>Google 商家资料 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bj0ckt/google_business_profile_api/</link>
+      <description><![CDATA[我有一个客户正在尝试将其所有业务的评论显示在 WordPress 网站上，但使用 google API 非常痛苦。是否必须是 OATH2 ，如果是的话，这是否意味着您必须通过登录屏幕才能获取令牌？这将是一个缓存评论的 cron 作业。另外，您是否必须填写一份表格才能获得从业务简介中获取评论的许可（我在某处读到过，但它似乎是过时的信息）我尽可能使用 oath2 游乐场，但获得许可被拒绝，我可以访问他的控制台/业务配置文件和 api 已启用。任何帮助将不胜感激。   由   提交 /u/mfileny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bj0ckt/google_business_profile_api/</guid>
+      <pubDate>Wed, 20 Mar 2024 00:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得实习机会</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bizssm/getting_an_intership/</link>
+      <description><![CDATA[我正在寻找可以申请的入门级 Web 开发人员实习机会。我真的不知道从哪里开始，我申请了确实和玻璃门，但我没有听到他们的任何消息。如果有人知道其他网站请回复。    由   提交/u/Substantial_Layer_87   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bizssm/getting_an_intership/</guid>
+      <pubDate>Wed, 20 Mar 2024 00:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络托管技术是否会像其他技术一样随着时间的推移而不断改进？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bizeua/does_web_hosting_technology_improve_over_time/</link>
+      <description><![CDATA[请原谅我的胡言乱语，但我只是好奇网络托管背后的技术堆栈是否真的随着时间的推移而改进？如果是这样，发生了什么？多年来，我读过很多最佳网络托管评论，而且技术堆栈似乎主要是相同的（除非后台发生了我不知道的事情）。 我的意思是...其他技术（例如消费电子产品）似乎正在考虑改进，但网络托管技术在过去十年中似乎基本保持不变，共享托管、云托管和 VPS 没有变化。也许您可以提出这样的论点：云托管已经是托管技术的发展，并且我们仍然可以从中受益，直到其他东西出现为止。 我的观点是错的吗？这是“如果它没有坏就不要修理它”吗？事物类型？   由   提交 /u/Ngantamsu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bizeua/does_web_hosting_technology_improve_over_time/</guid>
+      <pubDate>Tue, 19 Mar 2024 23:52:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>招聘人员还联系过其他人吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biz4a6/anyone_else_contacted_by_recruiters/</link>
+      <description><![CDATA[我是一名 Web 开发人员，目前正在申请工作。一些招聘公司向我提出了类似的建议。他们提供为期 4-6 周的技术培训计划，帮助候选人做好面试准备，然后协助他们获得公司的项目。他们收取 600 美元的预付费用，成功安置后可退还。本质上，我将成为招聘公司的一名员工，然后该公司会为我分配来自不同公司的项目。作为一名新开发人员，我的首要任务是获得高薪经验，当然，我很好奇这里是否有人有过与此类公司合作的经历，无论是积极的还是消极的？ &lt;!-- SC_ON - -&gt;  由   提交 /u/LargeAsparagus2604   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biz4a6/anyone_else_contacted_by_recruiters/</guid>
+      <pubDate>Tue, 19 Mar 2024 23:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>会话变量和登录数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biy9lk/session_variables_login_data/</link>
+      <description><![CDATA[我有一个允许用户创建帐户的网站。当然，为此，必须收集密码、电子邮件和一些用户名。密码经过加盐和散列处理以及所有内容，并且存储电子邮件以供验证（如果他们在个人资料上发布的内容不合适或与网站的主题无关......这是披萨哈哈，我需要联系他们） 。最后，用户名仅用于登录和查找朋友。 当用户登录时，我使用会话变量（据我所知，常规 cookie 的一个更安全的子集）来跟踪他们的登录状态和用户名。根据 GDPR 或任何其他网络法律，我是否必须告知用户这种类型的必要 cookie？我在网站隐私政策中提到了它们的目的，但我目前不使用任何类型的小吃栏或类似的东西来在最初访问该网站时通知用户。而且我的网站上没有任何其他 cookie。我对隐私政策页面的态度还好吗，还是需要做更多的事情？   由   提交/u/zacguymarino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biy9lk/session_variables_login_data/</guid>
+      <pubDate>Tue, 19 Mar 2024 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名开发人员……有点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bixziu/im_a_developerkinda/</link>
+      <description><![CDATA[我一直有关于求职板的想法。但雇用每个人都太贵了。所以我从去年年中开始自学编码。这段旅程有起有落，但现在我已经对前端开发感到满意了。问题是，现在我需要学习后端，在花了我所有的夜晚和几个周末才达到现在的水平后，我非常疲惫。所以我一直在寻找不同的选择，它们是：  支付 10,000 美元让某人开始我的项目，并希望在项目结束时获得 MVP。我现在有一份更好的工作，所以大概几个月后我就可以存钱 继续学习，无论是自学还是上课。自学很酷，但我没有人可以问问题。而且上课时间太长了。  对于我来说，这两个都有点遥远。所以，今天我想到了一个新主意！我想过只雇用一名后端开发人员。我可以构建前端，这将为我节省很多钱，而有人可以做后端。唯一的问题是，我不知道如何聘请后端开发人员。我雇佣一家公司吗？我是否尝试找一名自由职业者？如果有的话从哪里来？我看过 Fivever，这个选项对我来说不起作用，因为我需要有人可以与我交谈，而且我在学习环境中不太理解口音。 Upwork 看起来很有希望，但我有疑问。  想法？有建议吗？   由   提交 /u/Codydiceman1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bixziu/im_a_developerkinda/</guid>
+      <pubDate>Tue, 19 Mar 2024 22:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户跟踪以限制负载。 （游戏开发。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bixus7/user_tracking_for_load_limiting_game_development/</link>
+      <description><![CDATA[大家好。所以我可能会想到更糟糕的情况，但我想知道我可以使用哪些工具。  想象一下这个不需要登录、用户名或密码的网页游戏（agar io 或 slimher io 就是很好的例子）我如何确保用户不会打开一堆虚假的 websockets要么运行机器人，要么从我的服务器上发送垃圾邮件？  考虑过使用 IP，但在某些情况下，如果在网络上玩游戏，则同一网络上的多个用户的 IP 将是相同的。可以使用 cookies，但我必须对使用这些 cookies 做出免责声明。  一切都有积极和消极的一面，但我想知道你们以前都做过什么。  仅供参考，我正在使用 Nodejs 并自己托管该网站。但我不认为这会改变答案。    由   提交 /u/brendenderp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bixus7/user_tracking_for_load_limiting_game_development/</guid>
+      <pubDate>Tue, 19 Mar 2024 22:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Pure CSS 的法国 YouTube 频道🇫🇷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bix7ye/french_youtube_channel_about_pure_css/</link>
+      <description><![CDATA[嘿伙计们！我是 CSSami，我正在创建一个 YouTube 频道来讨论纯 CSS。现在我们正在谈论选择器，我已经制作了一个关于 Flexbox 的完整视频！  该频道是法语，但字幕效果很好，所以即使您不会说法语，也可以来看看😄 我希望您喜欢它并给我更多关于视频的想法关于您希望我解释的主题 https://youtube.com/@CSSami7 &lt; /div&gt;  由   提交 /u/NimbusTeam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bix7ye/french_youtube_channel_about_pure_css/</guid>
+      <pubDate>Tue, 19 Mar 2024 22:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于向具有许多组件的 React View 提供数据的 API 设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biws4a/api_design_for_serving_data_to_a_react_view_with/</link>
+      <description><![CDATA[我有一个 React 应用程序，我正在学习 React Query。  我正在设计的应用程序视图由许多不同的部分组成，它显示了有关广播公司的许多不同信息。  我的主要问题是我不确定拥有许多 API 来服务 UI 是否比 1 或 2 个大型 API 更好。这是我的用例： 有一个标题显示频道名称、其状态（直播等）和一个肉丸菜单，用于对广播公司执行操作，例如添加到收藏夹等。  然后是有关广播公司的基本详细信息，例如他们的频道创建时间、上次直播时间、他们有多少关注者等 还有一个评论日志，显示评论列表人们已经谈到了广播公司。  上面的每个例子本质上都是它们自己单独的场景，因此我设计了单独的组件，例如 标头组件 - 使用来自基本详细信息 api 和肉丸操作 api 的数据 元数据组件 - 使用来自基本详细信息 api 的数据 评论日志组件 - 使用来自评论 api 的数据  我的想法是，每个组件将由不同的 API 提供服务，例如 返回广播公司名称及其元数据（它将向标头和元数据提供数据）当前关注者计数 返回肉丸菜单当前可用的操作 返回广播公司的评论列表 我发现采用单独的 API 路线有许多优点。  由于我使用的是 React 查询，因此我可以从其对相当静态或不太可能经常更新的数据的缓存中受益。例如广播公司的元数据。与我希望每次更新而不是从缓存中获取的关注者计数相比，这可能有更长的 staleTime 。  它还使我的组件更具可组合性，因为我可以更轻松地在不同视图中重复使用它们。如果关注者计数只是查询自己的数据，那么在很多地方这样做并不昂贵。  我看到的缺点是会有很多http请求来加载屏幕。我不完全确定如何从用户体验的角度最好地处理 4 个查询的加载状态。如果有人有一个很好的例子，我将不胜感激。  请求失败的可能性也更高，因为有 4 个请求并且未显示某个组件的数据。可以说，拥有 1 个 api 可能会被视为更糟糕，就好像根本没有 ui 一样失败。 我看到的所有这一切的替代方案是只创建一个返回屏幕所有数据的 API。但在我看来，这并不是很好，因为假设用户在肉丸菜单上执行了一个操作。如果它是单个 api，应用程序将必须再次重新获取所有数据，以获取新的操作列表以及该特定操作的许多它不关心的其他数据（元数据、关注者、评论）。  这也意味着如果我想在不同的屏幕上重用一个组件，那就更难了，因为该组件与该屏幕和 api 耦合。  所以我想最重要的问题是，在这个例子或任何例子中，有许多不同的组件，每个组件都提供数据。这些组件中的数据需要根据影响它的操作进行更新，您最好如何设计 API 来为 UI 提供服务？    ;由   提交/u/richhutch93  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biws4a/api_design_for_serving_data_to_a_react_view_with/</guid>
+      <pubDate>Tue, 19 Mar 2024 22:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站内容问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biwmf5/website_content_question/</link>
+      <description><![CDATA[客户如何管理其网站上的内容？ 例如，如果我为纹身艺术家建立一个网站，而他想要上传他制作的每个新纹身。  我或他如何管理内容？图像是否存储在数据库中，每个新内容都保存在那里并由我管理？我要为他建立一个管理面板吗？ 有点困惑。感谢您的回答 对于想要每天上传菜单的电子商务网站或餐厅网站也是如此   由   提交 /u/avadakava   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biwmf5/website_content_question/</guid>
+      <pubDate>Tue, 19 Mar 2024 21:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>你在哪个队？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biwexp/which_team_are_you_on/</link>
+      <description><![CDATA[让我们一劳永逸地解决这个问题 （假设您正在运行本地副本并且能够使用所有 3 个副本）&lt; /p&gt; 查看民意调查  &amp;# 32；由   提交 /u/AutumnTx_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biwexp/which_team_are_you_on/</guid>
+      <pubDate>Tue, 19 Mar 2024 21:49:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找便宜的域名注册商</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biw6v1/looking_for_a_cheap_domain_name_registrar/</link>
+      <description><![CDATA[       ​ 厌倦了 GoDaddy 25 美元的域名年费。对于更便宜的域名注册商有什么建议吗？我有 Netlify 的免费托管服务，也有 Zoho 免费处理的电子邮件，所以我只是在寻找一个预算友好的域名注册商。有什么建议吗？    由   提交 /u/alzeine   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biw6v1/looking_for_a_cheap_domain_name_registrar/</guid>
+      <pubDate>Tue, 19 Mar 2024 21:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>不确定是否正确，如果不正确，请删除：作为一名记者，我想向数百个组织和市政府通信部门发送电子邮件，并要求他们将我们的新新闻组织纳入其新闻邮件列表。我可以这样做而不被邮件提供商列入黑名单吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biw2ve/not_sure_if_right_sub_pls_delete_if_not_as_a/</link>
+      <description><![CDATA[据我所知，群发邮件可能会自动将我列入提供商黑名单。这个假设正确吗？有办法解决吗？在这种情况下，收件人所做的垃圾邮件标记应该接近于零，但考虑到我们的域名是全新的，也许只是邮寄到许多从未收到过我们电子邮件的地址......任何人有机会知道如何处理类似的事情这？或许可以将其分散开来，每天发送 50 封左右的电子邮件？可能仍然不是最好的主意？希望与 Google Workspace 合作，但显然对任何事情都持开放态度。 编辑：让事情变得更加复杂的是，我预计可能有 1 到 3% 的人会因为电子邮件地址过时而被退回，这些地址可能包含其中之一最小的组织。可以从可靠的市政当局和较大的组织开始，至少在冒着向小组织发送电子邮件的风险之前有一个良好的开端。 编辑 2：发现 r/emailmarketing，将交叉发布。   由   提交 /u/graudesch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biw2ve/not_sure_if_right_sub_pls_delete_if_not_as_a/</guid>
+      <pubDate>Tue, 19 Mar 2024 21:36:26 GMT</pubDate>
+    </item>
     <item>
       <title>从 Wordpress.org 网站切换到自定义网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1biv7gz/switch_from_wordpressorg_site_to_a_custom_site/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[我考虑任何价格范围内的可用选项。我将专门使用笔记本电脑进行编程（Web 开发），并且我只对生产力感兴趣。对我来说最重要的是我可以连接 3 个以上的显示器（有足够的端口、雷电...），当然还有速度。我一直在考虑转向 MacOS，但我不知道它是否值得 2000 欧元以上的价格，因此我对更有经验的开发人员的意见感兴趣   由   提交 /u/Podlaktica40cm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1biuv17/best_laptop_for_programming_web/</guid>
       <pubDate>Tue, 19 Mar 2024 20:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 REST 不是“实时”的？详情在帖子里</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biun6d/why_is_rest_not_realtime_details_in_the_post/</link>
-      <description><![CDATA[我知道这可能已被问过多次，但我仍然很困惑。 REST 在底层使用 HTTP。客户端与服务器建立 TCP 连接并在响应时关闭连接。那么，socket不也是使用TCP连接吗？是什么让 REST 不是实时的？  假设我正在制作一个通知系统。我喜欢一个帖子，用户会收到通知。为什么使用 REST 上的套接字？我的意思是我可以使用 REST 做同样的事情，对吗？ （没有客户端明确向服务器请求最新数据） 就像客户端发送请求来点赞帖子一样，服务器会增加点赞计数器，将通知添加到托盘并返回所有点赞计数器通知（以及新添加的通知）   由   提交 /u/SuccMyStrangerThings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biun6d/why_is_rest_not_realtime_details_in_the_post/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:39:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 Azure 之外还有更便宜的翻译 API 吗？目前售价为 5,000 美元。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biuhpb/is_there_a_cheaper_translation_api_other_than/</link>
-      <description><![CDATA[我们目前正在使用 Azure 翻译 API，承诺级别的成本约为每百万字符 9 美元。 Azure 是最便宜的所有其他云提供商之间的翻译。 Google 云和 AWS 的价格为 20 美元/百万字符。但每月仍需花费 5,000 至 6,000 美元。值得庆幸的是，我们有 Azure 积分，但它们将在 3-4 个月后过期，然后我们必须自掏腰包 ⊙⁠﹏⁠⊙ 我想知道是否有使用法学硕士或其他东西的更便宜的选择。 编辑 1. 翻译需要低延迟。   由   提交/u/Icy_Stage_5240   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biuhpb/is_there_a_cheaper_translation_api_other_than/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:33:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何为即将在我的学院举办的黑客马拉松做准备？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biugo6/how_should_i_prepare_for_the_upcoming_hackthon_at/</link>
-      <description><![CDATA[我是一年级学生，我的大学将在三周内组织一年一度的黑客马拉松。我刚刚完成了 tailwind CSS 并构建了一些克隆和一些登陆页面以供练习。我的团队成员和我差不多。在接下来的一周我应该做什么才能最大限度地利用黑客马拉松。    由   提交/u/Aryan2710   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biugo6/how_should_i_prepare_for_the_upcoming_hackthon_at/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助进行定时考试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biuenp/help_with_timed_exams/</link>
-      <description><![CDATA[我有一个自由职业项目，我需要帮助选择技术堆栈。  要求：  SEO（非常难） 进行定时考试并进行详细分析。 2种考试。需要逐个问题提交，并且应显示每个问题的答案。另一位应该只有在考试结束时才能提交。  付费专区。   我决定使用 nextjs，因为 seo 是必须的，但是因为它将毫无服务，我如何进行定时考试？因为您需要与服务器保持持续连接来检查和验证客户端的时间。  如果我用服务器来构建，我还能实现 ssr 吗？我更喜欢使用 SSR 来加载问题，因为它会快得多。  但是，有一个选项可以从不同的集合中选择问题，因此我觉得这样 SSR 更难实施。  提前感谢您的帮助   由   提交/u/naga-satya1  /u/naga-satya1 reddit.com/r/webdev/comments/1biuenp/help_with_timed_exams/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biuenp/help_with_timed_exams/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:29:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如今这对于 cookie 横幅来说足够了吗？没有点击“同意”按钮，它只是清楚地表明您同意使用他们的网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biu7mc/is_this_sufficient_for_a_cookie_banner_these_days/</link>
-      <description><![CDATA[   /u/recallingmemories  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biu7mc/is_this_sufficient_for_a_cookie_banner_these_days/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:21:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何进行日志记录？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biu28b/how_to_do_logging/</link>
-      <description><![CDATA[我正在再次阅读 owasp 前十名列表，但不确定如何实现日志记录。实际上我的数据库（supabase）做了一些，但不确定在安全方面是否足够。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biu28b/how_to_do_logging/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:15:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为自学成才的网络开发人员如何创建简历和求职信</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biu237/how_to_create_a_cv_and_cover_letter_as_a/</link>
-      <description><![CDATA[大家好， 在过去的两年里，我一直在学习 Web 开发，主要是在 Udemy 和 Youtube 但我参加了为期 3 个月的课程，由志愿者开发人员授课。我对 HTML、CSS 和 JS 有很好的掌握，包括 ReactJS 和 Tailwind 框架。  我用 React 和 Tailwind 创建了很多项目，但其中大多数都是你可以在每个初级作品集中找到的项目，例如天气应用程序、待办事项列表等，因此最近我一直专注于更复杂和现实生活中的项目，以更好地展示我的知识。  我想知道如何在没有任何经验的情况下创建简历和求职信并最终找到一份开发工作。 PS 我知道 2 年对于找到一份开发工作来说是很长的时间。 Web 开发职位，但我找到了一份全职工作，无法只专注于 Web 开发。 谢谢，大家和我都很感谢每一个建议！   由   提交/u/goodSamaritan00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biu237/how_to_create_a_cv_and_cover_letter_as_a/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>鼠标交互</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bitjq8/mouse_interaction/</link>
-      <description><![CDATA[      大家好，我正在尝试构建一个鼠标交互，其中鼠标悬停会跟随鼠标使文本的不同部分变形。 I链接了另一个人工作的屏幕截图作为示例。 我知道如何在 After Effects 中制作动画，但我不知道如何为网络构建它。有没有办法将AE动画转换为Web动画并使其具有交互性？  我认为 Lottie 文件在这种特殊情况下不起作用，因为你无法与它交互，对吗？构建这个的唯一方法是使用自定义 p5.js 代码吗？  如你所见，我是一个初学者，有点困惑😐提前谢谢！！   由   提交 /u/alexandrelfrechette   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bitjq8/mouse_interaction/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用authorize.net 在一个网站上提供美元和加元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bitcxu/usd_cad_on_one_website_using_only_authorizenet/</link>
-      <description><![CDATA[iimmerspa.com。  同时接受 CAD 和 USD，但 authorize.net 只允许接受美元或 CAD 的一个 API 集成。我可以通过类别将它们分开并使用多个网关，但这不是一个可行的解决方案，因为它取决于所选的货币。  我认为我的选择是： 单独的 CAD 站点 或 更改为 Stripe。  只是寻求建议或反馈。   由   提交/u/dwells7583  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bitcxu/usd_cad_on_one_website_using_only_authorizenet/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>紧迫的！！有人可以帮我处理我的 JavaScript 代码吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bit4hi/urgent_can_someone_help_me_with_my_javascript_code/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bit4hi/urgent_can_someone_help_me_with_my_javascript_code/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业者的问题：您使用哪些工具来跟踪/管理客户项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bisuu4/question_for_freelancers_what_tools_do_you_use/</link>
-      <description><![CDATA[自由职业者，在与客户合作时，您会使用哪些项目管理工具？  你使用 Jira 吗？特雷洛？蜂巢？体式？优秀？ Microsoft Project？ 还是老式的笔和纸？   由   提交 /u/infinitemicrobe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bisuu4/question_for_freelancers_what_tools_do_you_use/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何生成大规模的统计报告？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1biscnk/how_to_generate_statistical_reports_at_scale/</link>
-      <description><![CDATA[我加入了这家新的初创公司。目前包括我在内的所有开发人员都没有那么丰富的经验。该数据库包含约 3700 万条交易记录。我们必须向每个用户显示多种类型的报告：  表现最佳的资产 每小时交易图表 今天的成功和未来的表现失败的交易计数 每月交易图表等  但我们目前正在从数据库加载用户交易并对数据执行手动操作以收集所需的报告并发送一次性向客户报告。但这种方法似乎不起作用，因为生成单个用户报告大约需要 100 秒。忘记生成主管理报告所需的时间。 我尝试创建一个 SummaryReport 表，其中包含所有用户的每日摘要，并增加每个 TX 的成功和失败计数。但这似乎不适用于每小时 TX。请指导我如何处理这种情况   由   提交/u/manjit_pardeshi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1biscnk/how_to_generate_statistical_reports_at_scale/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于自托管的思考</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bisc6u/thought_on_self_host/</link>
-      <description><![CDATA[通过购买服务器和销售 SaaS 来开放我对自托管的看法。  &amp;# 32；由   提交 /u/Leo_ibbani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bisc6u/thought_on_self_host/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:06:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
