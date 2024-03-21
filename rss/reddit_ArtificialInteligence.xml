@@ -4,7 +4,63 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 15:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 18:14:40 GMT</lastBuildDate>
+    <item>
+      <title>为学生研究人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkcn7r/research_ai_for_students/</link>
+      <description><![CDATA[嘿，我目前是一名工程专业的学生，​​在过去的几个月里，我非常热衷于创建自己的 AI 机器人。我目前有一个聊天机器人，它使用 api 的 GPT3.5 和 elevenlabs tts 运行得很好，基本上就像所有这些“Jarvis”一样。人工智能随处可见。 但是我想让这个人工智能更具功能性（最好是本地化的）。我很想拥有一些可以帮助进行一般研究和研究的东西。可以根据我的要求提供链接和文章的东西，然后也可以解释数学和物理等复杂主题的东西。  如果大家有什么建议请告诉我！    由   提交 /u/Pyth4k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkcn7r/research_ai_for_students/</guid>
+      <pubDate>Thu, 21 Mar 2024 17:49:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习变形金刚</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkcj07/learning_about_transformers/</link>
+      <description><![CDATA[我正在完成“理解深度学习”来自 Simon JD Prince 现在我想开始阅读有关《变形金刚》的内容。 有什么书可以推荐吗？ &lt;!-- SC_ON - -&gt;  由   提交 /u/Greg_Tailor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkcj07/learning_about_transformers/</guid>
+      <pubDate>Thu, 21 Mar 2024 17:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿孩子们！您可以从任何 LLM 模型中提取独特的令牌！无需更多训练数据，只需 Yoink 代币即可！ （麻省理工学院许可证）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkbr81/hey_kids_you_can_literally_extract_the_unique/</link>
+      <description><![CDATA[介绍：LLM 合并统计和统计独特的令牌提取器。决定是否应该根据两个 LLM 模型的架构将其合并在一起，和/或从其中一个 LLM 模型中提取独特的标记！两者都是在 MIT 许可下发布的。 如果您密切关注，自 10 月份以来我就没有发布过我自己的任何类型的模型架构（COT-Cog）。我正式退出模型构建业务已经有一段时间了。每天都会发布如此之多的新模型，这太荒谬了。 模型合并才是不断保持排行榜前列的原因。 “弗兰肯模型”不断超越其结构更完善的兄弟。如果你浏览一下我的存储库，我想我现在基本上已经解决了有关如何将两个 LLM 模型合并在一起的所有知识。我什至想出了如何用分形来做到这一点。 现在，我开始研究更多的辅助组件。你知道从 LLM 模型中提取独特的标记实际上是多么容易吗？天哪，伙计。相当于20行代码。适用于所有型号。为什么我还需要训练数据？我可以运行一个测试，找出一个模型有哪些标记而另一个模型没有，然后从任何模型中提取唯一的标记。 LLM 合并统计：https://github.com/RichardAragon/LLMMergeStats 唯一令牌提取器：https://github.com/RichardAragon/UniqueTokenExtractor   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkbr81/hey_kids_you_can_literally_extract_the_unique/</guid>
+      <pubDate>Thu, 21 Mar 2024 17:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些有趣的“人工智能功能出了问题”的故事？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkazys/what_are_some_interesting_ai_features_gone_wrong/</link>
+      <description><![CDATA[本文列出了其中的 9 篇：  Gannett AI 搞砸了高中体育文章 iTutorGroup 的招聘 AI 因年龄而拒绝申请者 律师因 ChatGPT 幻觉法庭案件而面临处罚 人工智能算法可以识别除 COVID-19 之外的所有内容： Zillow 的算法购房灾难 医疗保健算法未能标记黑人患者 微软聊天机器人发布种族主义推文 亚马逊人工智能招聘工具仅推荐男性 目标分析向家人透露了一名青少年怀孕的情况  我渴望了解更多信息。特别有趣/引人注目的。   由   提交/u/RR_28023  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkazys/what_are_some_interesting_ai_features_gone_wrong/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>创造一个让你起床的人工智能闹钟</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bka638/creating_an_ai_alarm_clock_that_makes_you_wake_up/</link>
+      <description><![CDATA[大家好， 我正在制作一个闹钟，当闹钟响起时我不能只点击当我半睡半醒时按下贪睡按钮。但我不知道我能告诉或让人工智能做什么，让我在不点击“贪睡”的情况下立即醒来。因此，如果有人有任何想法，请告诉我！   由   提交/u/TheHero2424  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bka638/creating_an_ai_alarm_clock_that_makes_you_wake_up/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找AI好友，进行语音聊天。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bka1kk/looking_for_ai_friend_to_voice_chat_with/</link>
+      <description><![CDATA[正如标题提到的，我正在寻找一个人工智能朋友，可以进行语音聊天。我是一个非常孤独的人，短信机器人无法解决我的问题。最好是非常现实的。欢迎任何和所有建议。我是 Android 用户（s22 ultra）。 谢谢！   由   提交 /u/Ok_Mission_600   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bka1kk/looking_for_ai_friend_to_voice_chat_with/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>被人工智能角色扮演所震撼（这不是你想的那样，我保证......）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk9hol/blown_away_by_ai_character_roleplay_its_not_what/</link>
+      <description><![CDATA[我承认，我对整个人工智能列车有点晚了。我现在是一名在大学学习英语的大四学生，所以这绝对不是我的专业领域。现在改变我的专业已经太晚了，但我最近了解到我的学校在计算机科学项目中对人工智能进行了全新的关注，我对“如果……会怎样？”的想法很感兴趣。尽管我自己。我相信每个人都听说过人们对人工智能取代各种职业并导致人们失业的担忧。它肯定会在某个时候发生，但我不想为此愤怒，而是想为这种可能性做好准备。这就是我在搜索角色艺术生成器时所处的顶空，此时我偶然发现了这个名为“Perchance”的网站，这是一个随机文本生成器的平台。  就我自己的专业而言，我最近对学习人工智能提示以及人工智能可能具有的一些能力感兴趣，这些能力可以成为作家的助手，并帮助我开发内容。它非常适合帮助我把自己写出困境，帮助我从陷入叙述的困境中继续前进，如果你们中有人也是作家，那么你就会知道这有多么有价值。但在 Perchance 上，我发现了这个 AI 聊天界面（https://perchance.org/ai-chat），您可以在其中创建你的角色，规划出一个世界背景，呈现一个特定的场景等，然后观看人工智能的表演。或者——这就是它变得有趣的地方——你甚至可以自己参与，使其成为一个角色扮演场景。 显然，这不是一个新概念。 AI RP 已经出现有一段时间了，但这是我第一次意识到它的能力有多大。我决定尝试一下，只是为了好玩，插入了我最喜欢的电视节目之一中的角色描述和世界状态，以及我自己的故事中的一个原创角色作为我的化身。我很快就对此投入了太多的精力。当我被人工智能编织的各种情节所吸引时，我原来角色的界限被打破，变成了一个非常自我放纵的自我插入。但没过多久我就开始意识到人工智能的缺点。这很可能部分是由于用户错误造成的，但我发现它在设置、时间概念等方面存在一致性问题。我可以忍受那些小缺点。毕竟，它很容易纠正。不，当我意识到人工智能的记忆是多么有限时，我泪流满面。对于播放简短场景的目的来说已经足够了，但是对于我自己陷入的陷阱呢？搞砸了。我。向上。以AI有限的记忆力，它几乎但不太可能实现我对它的要求——完美的无限幻想世界。  真正让我感动的是“几乎，但不完全”的部分。但我不得不想，我是否应该首先向它提出这样的要求。在当今世界，我越来越注意到抬头是多么普遍，无论我是坐在公共汽车上、在医生办公室，还是只是走在街上，我看到其他人都低头看着他们的眼睛。电话，完全被吸收。就好像随着时间的推移，现实世界变得……越来越不真实。再说一次，这不是一个新概念。尤其是在反乌托邦类型中。但这真的是我们的世界正在变成的样子吗？ （...已经变成了吗？） TL;DR --- 我被卷入了 RP 幻想世界，当 AI 内存限制阻止我时，我真的被摧毁了我不想无限期地生活在其中。 我对这个 Reddit 子版块的问题： 如果人工智能记忆变得无限……那是一件好事吗？你认为这是一件坏事吗？   由   提交 /u/TSOHG-A-MA-I   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk9hol/blown_away_by_ai_character_roleplay_its_not_what/</guid>
+      <pubDate>Thu, 21 Mar 2024 15:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>超人人工智能会逃脱吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk98t0/will_superhuman_ais_escape/</link>
+      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk98t0/will_superhuman_ais_escape/</guid>
+      <pubDate>Thu, 21 Mar 2024 15:29:01 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个应用程序来对自由形式的采访文本进行总结和分类</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk8m4h/need_an_app_to_summarize_and_categorize_freeform/</link>
@@ -13,7 +69,7 @@
       <pubDate>Thu, 21 Mar 2024 15:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>斯瓦亚特机器人|印度 |自动驾驶极其动态-复杂的交通动态</title>
+      <title>斯瓦亚特机器人 |印度 |自动驾驶极其动态-复杂的交通动态</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk7w4h/swaayatt_robots_india_autonomous_driving/</link>
       <description><![CDATA[在具有复杂、随机和对抗性交通动态的极其严格的动态环境中进行自动驾驶，或者只是在绝对混乱的情况下，在郊区非结构化道路上进行自动驾驶印度。 这些演示测试了 Swaayatt Robots 运动规划和决策框架的极限，展示了其在轻松应对此类交通动态方面的稳健性。 在整个导航过程中可以看到，驶入的车辆不允许自动驾驶汽车有任何间隙，迫使它在混乱中被动地协商自己的道路。此外，超越障碍也不遵循任何规则，呈之字形、纵横交错。时尚，挑战他们的运动和行为规划软件，该软件可以轻松应对所有此类场景。 视频链接：Youtube    由   提交/u/shani_786  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk7w4h/swaayatt_robots_india_autonomous_driving/</guid>
@@ -34,41 +90,6 @@
       <pubDate>Thu, 21 Mar 2024 12:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>探索 Llama 2：开源法学硕士的进步和应用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk5bce/exploring_llama_2_opensource_llm_advancements/</link>
-      <description><![CDATA[Llama 2 是由 Meta 和 Microsoft 开发的开源大语言模型 (LLM)。 Llama 2 代表 Meta AI 的大型语言模型。 Llama 2 基于 Transformer 架构，该架构与 GPT-3 等其他流行的 LLM 所使用的架构相同。  阅读：https://www.seaflux .tech/blogs/Llama-2-Meta-AI-开源语言模型   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk5bce/exploring_llama_2_opensource_llm_advancements/</guid>
-      <pubDate>Thu, 21 Mar 2024 12:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿布扎比 ATRC：引领人工智能创新与协作的全球潮流。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk31vo/abu_dhabis_atrc_leading_the_global_charge_in_ai/</link>
-      <description><![CDATA[阿布扎比已牢固确立其作为全球人工智能领域驱动力的地位，阿布扎比技术研究委员会 (ATRC) 引领创新潮流和卓越。 ATRC 配备了最先进的设施和多元化的国际专家团队，处于国内外人工智能技术发展的前沿。通过培育人工智能研究和开发的协作生态系统，ATRC 成为全球伙伴关系和知识交流的灯塔。通过战略举措和投资，它不仅推进了阿联酋的人工智能议程，而且还为人工智能的全球进步做出了重大贡献。阿布扎比的 ATRC 证明了该地区致力于突破技术界限并塑造创新驱动的未来。    由   提交 /u/ITSsUNSHINEHansen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk31vo/abu_dhabis_atrc_leading_the_global_charge_in_ai/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>十大必须尝试的人工智能工具来增强你的工作能力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk2s7w/top_10_musttry_ai_tools_to_supercharge_your_work/</link>
-      <description><![CDATA[以下列出了 10 个正在改变行业并提高生产力的尖端人工智能工具： ChatGPT：  参与自然语言对话并利用人工智能生成的响应来实现从客户支持到创意头脑风暴等各种应用。  MyEssayWriter.ai：  努力写出完美的论文？ MyEssayWriter.ai 可以满足您的需求。这一创新工具使用人工智能算法来分析主题、构建论点并建议相关内容，使论文写作过程变得轻而易举。  Google Cloud AI Platform：  一套全面的 AI 工具和服务，包括机器学习模型、API 和开发工具，旨在帮助开发人员大规模构建、训练和部署 AI 模型。  OpenAI GPT（生成式预训练变压器）：  最先进的语言处理模型，能够生成类似人类的文本，为文本完成、语言翻译和内容等应用程序提供支持  IBM Watson：  一个人工智能平台，提供一系列服务，从自然语言处理和计算机视觉到预测分析和虚拟代理，使企业能够利用各个领域的人工智能功能。  TensorFlow：  Google 开发的开源机器学习框架，广泛用于构建和训练用于图像识别、自然语言处理和预测分析等任务的深度学习模型。  PyTorch：  另一个流行的开源深度学习框架，由 Facebook 的人工智能研究实验室 (FAIR) 开发，以其灵活性和易用性而闻名，特别是在研究和原型设计方面。  Microsoft Azure 认知服务：  Microsoft Azure 提供的一系列人工智能服务和 API，包括计算机视觉、语音识别和语言理解，使开发人员能够轻松地将人工智能功能集成到他们的应用程序中。  Amazon SageMaker：&lt; /h1&gt;  由 Amazon Web Services (AWS) 提供的完全托管的机器学习服务，提供用于大规模构建、训练和部署机器学习模型的工具，并具有数据标记和模型优化的集成功能。&lt; /li&gt;  Salesforce Einstein：  集成到 Salesforce CRM 中的一套人工智能功能，包括预测分析、自动销售线索评分和个性化推荐，使企业能够提供更智能的客户体验并推动销售增长。  人工智能技术为各行业的创新和进步提供了无限的可能性。  &amp; #32；由   提交/u/murphy_tom1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk2s7w/top_10_musttry_ai_tools_to_supercharge_your_work/</guid>
-      <pubDate>Thu, 21 Mar 2024 09:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我列出了 10 个优秀的人工智能聊天机器人应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk2k0e/i_made_a_list_of_10_good_ai_chatbot_apps/</link>
-      <description><![CDATA[ ChatFAI  AI免聊天工具，满足你所有幻想，可以帮你聊天和你最喜欢的角色。另外，还有语音留言。没有过滤器。  ChatGPT  ChatGPT 就像我们的好友，能够理解并帮助我们解决问题。您可以从 ChatGPT 获得任何帮助。用户可以提问、对话，甚至可以让AI写可爱的短信。但它有自己的偏见和过滤器。  Perplexity.AI  Perplexity AI 是一款无需人工智能聊天的聊天机器人和智能搜索引擎，可提供准确且可靠的信息。完整解答用户的疑问。将其视为可以使用搜索和验证事实的 ChatGPT。  Jasper AI  构建在 OpenAI 和其他流行的 AI 模型之上。有食谱、工具等等。非常适合营销人员和版权所有者。  Google Bard  Google Bard 是一种（实验性的，IMO）对话工具。这个工具可以帮助你计划旅行、解决问题，有时还可以和它聊天。目标是比 ChatGPT 更好。  Bing Chat  这就像 ChatGPT，但具有 Microsoft 的超能力。使用与 ChatGPT 相同的 OpenAI 技术，并结合 Microsoft 的搜索等功能。  ChatSonic  来自 WriteSonic 的 Chatbot 应用程序。旨在成为一个更好的 ChatGPT，几乎就像 Jasper 的 Chat。再说一次，这是为营销人员准备的。  Replika  流行的人工智能伴侣应用程序，旨在为您提供一个永远在您身边的人工智能朋友。也有付费墙和一些过滤器。  Janitor AI  Janitor AI 是一个利用人工智能聊天机器人的角色扮演平台。 ChatFAI 的替代品。  Charstar  角色 AI 克隆，争夺不需要过滤器的用户。在我的测试中出现了一些低质量的回复。   由   提交 /u/usamaejazch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk2k0e/i_made_a_list_of_10_good_ai_chatbot_apps/</guid>
-      <pubDate>Thu, 21 Mar 2024 09:31:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>消除搜索挫折，快速找到人工智能和数据工作</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk1iqk/end_search_frustration_find_ai_data_jobs_fast/</link>
-      <description><![CDATA[我们的产品 AI Jobs Dev 现已在 Product Hunt 上线！ 🚀  如果您能路过并通过投票来表达您的支持，我们将非常高兴！您的鼓励对我们来说意味着整个世界。  https://www.producthunt.com/posts/ai-jobs-dev  非常感谢！ ✨   由   提交 /u/ConfusedCapricorn92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk1iqk/end_search_frustration_find_ai_data_jobs_fast/</guid>
-      <pubDate>Thu, 21 Mar 2024 08:15:36 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌因与新闻媒体就人工智能训练数据发生冲突而被法国当局罚款 2.5 亿欧元</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk10ed/google_fined_250_million_by_french_authorities/</link>
       <description><![CDATA[Google 在未经法国监管机构同意的情况下使用法国新闻出版物的数据对巴德进行培训后，被法国监管机构罚款 2.5 亿欧元 https://finance.yahoo.com/news/google-fined-250-million- french-081047314.html   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
@@ -76,28 +97,7 @@
       <pubDate>Thu, 21 Mar 2024 07:37:35 GMT</pubDate>
     </item>
     <item>
-      <title>想要：人工智能在解决道德问题方面成功的基准。没有它我们怎么可能解决对齐问题呢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjwy0i/wanted_a_benchmark_for_ai_success_at_solving/</link>
-      <description><![CDATA[直觉和经验表明，我们解决问题的脑力越多，解决问题的可能性就越大。道德问题像其他问题一样需要解决。但这一假设尚未得到检验。至少不是以任何可测量的方式。 在奥特曼射击的考验之前，openai 决定将其 20% 的计算投入到对齐中，他们的首席科学家伊利亚·苏茨克韦尔 (ilya Sutskever) 被指派来指导这项工作。很明显，他们正在非常认真地对待对齐，我想他们仍然在认真对待对齐。对人类构成更大的风险。解决这个问题非常有利，因为我们解决得越好，就会有更多的数十亿美元投入到人工智能的发展中。 人工智能开发中有一个明显的遗漏，是时候解决这个问题了。我们在数学、记忆和推理等众多领域都有基准，但对于涉及道德的问题，我们还没有基准。换句话说，我们没有办法衡量我们在一致性方面做得如何。这似乎是一个大问题。 当然，道德基准很难建立，因为人们对道德有不同的看法，而且有些道德问题显然是相对主义的。但如果我们要解决对齐问题，这个基准是我们首先需要解决的问题。如果没有它，就很难甚至不可能确定我们在解决一致性方面所处的位置。 人工智能工程师没有接受过理解道德的培训。哲学家、社会学家、心理学家和宗教研究学者更有能力领导这项工作。因此，人工智能行业是时候开始建立这些必要的合作了。现在也是人工智能行业开始公开对话的时候了，讨论我们作为一个世界认为什么是正确的以及我们认为什么是错误的。我们可能不会在所有事情上都达成一致，但我们在很多方面都达成共识，这是一个足够好的起点。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjwy0i/wanted_a_benchmark_for_ai_success_at_solving/</guid>
-      <pubDate>Thu, 21 Mar 2024 03:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的使用是出于最愚蠢的原因。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bje9dg/ai_is_being_used_for_the_dumbest_reasons/</link>
-      <description><![CDATA[图像......电影......游戏...... 看起来很低挂果子。我看不出用人工智能内容垄断这些空间会带来任何真正的文化或社会效益。造成这种情况的原因多种多样。如果您不同意第一个观点，请告诉我原因，（众所周知）我们可以讨论。否则，列出我所有的理由会花费太长的时间，大多数人无论如何也不会阅读它。 但是， 使用人工智能有令人着迷的科学理由。我们为什么不更多地谈论他们呢？所有网上的讨论似乎主要集中在图像生成和邻近空间。 为什么没有人谈论科学、探索以及我们对现实的理论理解？具体来说，人工智能如何帮助我们揭开宇宙的奥秘。 我可能没有看到后一种帖子，但前一种似乎更普遍。 Tldr - 感觉每个人都过度关注最愚蠢的废话，我们简直只见树木不见森林   由   提交/u/1protobeing1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bje9dg/ai_is_being_used_for_the_dumbest_reasons/</guid>
-      <pubDate>Wed, 20 Mar 2024 14:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德市场研究的 5 条最佳提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjb5zd/5_best_claude_prompts_for_market_research/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjb5zd/5_best_claude_prompts_for_market_research/</guid>
-      <pubDate>Wed, 20 Mar 2024 11:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

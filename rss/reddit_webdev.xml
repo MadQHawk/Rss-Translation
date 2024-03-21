@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 15:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 18:16:06 GMT</lastBuildDate>
+    <item>
+      <title>零JS“汉堡”菜单演示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bkd5me/zero_js_hamburger_menu_demo/</link>
+      <description><![CDATA[注意：这并不意味着精心设计或任何东西。只是 HTML 和 HTML 中一些新的或鲜为人知的东西的快速演示。 CSS 的东西。  它的特点是：  通过颜色方案：亮暗实现亮/暗模式 “汉堡菜单” ;使用新的 Popover API（没有 JS，只有属性和一点 CSS） 通过 scrollbar-color 自定义滚动条 通过  平滑滚动滚动行为 使用的手风琴 使用position:sticky的粘性导航 li&gt; 通过 SVG 的图标  &amp;  最重要的是，Bacon Ipsum！   我见过很多这样的东西的 JS 实现。只是想分享一些我们免费获得的很棒的东西。  支持  Popover API 目前在 Firefox 中处于一个标志后面（很快就会稳定/发布） Safari 不支持自定义滚动条的标准 其他所有内容均受支持  https:/ /codepen.io/shgysk8zer0/full/mdgWgvJ   由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bkd5me/zero_js_hamburger_menu_demo/</guid>
+      <pubDate>Thu, 21 Mar 2024 18:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CSS 模块的 UI 库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bkcxr4/ui_libraries_using_css_modules/</link>
+      <description><![CDATA[我正在寻找一种使用 CSS 模块构建的 ShadCN UI 库，而不是 tailwind。  这会使其速度更快，而且我只需安装我真正需要的组件。 CSS 只是组件实际需要的组件，没有无限的类和utils，我必须使用 tailwind 安装才能使用 shadcn。 我还可以自己编辑 CSS 模块，因为该库将组件安装在我的文件夹中，而不是 node_modules（如 shadcn）。 存在吗？    由   提交/u/Ale9xs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bkcxr4/ui_libraries_using_css_modules/</guid>
+      <pubDate>Thu, 21 Mar 2024 18:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个API路由结构好不好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bkcusg/is_this_api_route_structure_good/</link>
+      <description><![CDATA[API 上的身份验证应如何发挥作用：当用户使用用户名和密码登录时，服务器会生成并返回访问令牌。此访问令牌将允许用户仅查询自己的数据，而不能查询其他人的数据。但是，访问令牌还允许他们查询一般资源，例如更新和更改日志信息。当用户注销时，访问令牌将被销毁。 只是想要一些建议，以便在实现它之前可以达到 100%。 https://ibb.co/CVZG2QG 这是不言自明的，但对于可能不是的部分： /accounts /{id} [GET]获取账户信息 /subscriptions/{id} [GET]获取订阅信息 谢谢！   由   提交/u/Ok_Competition_7644   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bkcusg/is_this_api_route_structure_good/</guid>
+      <pubDate>Thu, 21 Mar 2024 17:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>您每天编码多少小时，直到开始获得收益递减？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bkclhu/how_many_hours_you_code_a_day_until_you_start_to/</link>
+      <description><![CDATA[您在什么时候注意到编码效率下降，达到收益递减点？ 我正在说话关于需要主动学习和解决问题的编码，而不仅仅是重复熟悉的任务。根据我的经验，这种情况往往会在大约 5 小时后发生，并且分散在一天中，而不是在一个区块中。有时，可以在单个设置中完成。 我正在尝试找出如何扩展此阈值，但尚未找到有效的方法。   由   提交 /u/mgs__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bkclhu/how_many_hours_you_code_a_day_until_you_start_to/</guid>
+      <pubDate>Thu, 21 Mar 2024 17:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部对苹果提起反垄断诉讼（浏览器/网络应用程序）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bkb1he/us_department_of_justice_files_antitrust_lawsuit/</link>
+      <description><![CDATA[       由   提交/u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bkb1he/us_department_of_justice_files_antitrust_lawsuit/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌搜索结果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bkaqw5/google_search_result/</link>
+      <description><![CDATA[大家好， 如何更改在 Google 中搜索我的网站时显示的信息。在主搜索结果下可以找到许多来自主页的链接，并且在页面上随机找到下面的文本，并且通常不相关。    ;由   提交/u/Bretttles1986   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bkaqw5/google_search_result/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:32:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合初学者的网站设计软件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk9106/best_software_for_website_design_for_beginners/</link>
+      <description><![CDATA[您好， 以下哪一个是构建可在各种设备分辨率上运行的功能齐全的网站的最佳软件：&lt; /p&gt;  Figma Adobe Xd Adobe Dreamweaver  注意：我没有编码经验，也没有网页设计经验经验，但我寻求为我的初创公司制作一个优秀的网站。    由   提交 /u/Dayvworm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk9106/best_software_for_website_design_for_beginners/</guid>
+      <pubDate>Thu, 21 Mar 2024 15:19:40 GMT</pubDate>
+    </item>
     <item>
       <title>增删改查应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1bk7brf/crud_app/</link>
@@ -34,20 +83,6 @@
       <pubDate>Thu, 21 Mar 2024 13:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>在印度跳槽是好是坏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk67pc/is_job_hopping_in_india_good_or_bad/</link>
-      <description><![CDATA[我是一名全栈 Web 开发人员（较新）。我进入了一家体面的公司，薪资为 6.5 lpa。我想问几年后我应该开始寻找新工作。  我听说跳槽会增加你的薪水和职位。那么多少年后我应该继续换工作。还是频繁跳槽是不好的做法？ 需要你的建议。   由   提交/u/_Enigma_24   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk67pc/is_job_hopping_in_india_good_or_bad/</guid>
-      <pubDate>Thu, 21 Mar 2024 13:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>消除搜索挫折，快速找到人工智能和数据工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk5r69/end_search_frustration_find_ai_data_jobs_fast/</link>
-      <description><![CDATA[我们的产品 AI Jobs Dev 现已在 Product Hunt 上线！ 🚀  如果您能路过并通过投票来表达您的支持，我们将非常高兴！您的鼓励对我们来说意味着整个世界。  https://www.producthunt.com/posts/ai-jobs-dev  非常感谢！ ✨   由   提交 /u/ConfusedCapricorn92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk5r69/end_search_frustration_find_ai_data_jobs_fast/</guid>
-      <pubDate>Thu, 21 Mar 2024 12:49:50 GMT</pubDate>
-    </item>
-    <item>
       <title>重新评估 Next.js：它是否走错了路？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bk5djq/reevaluating_nextjs_did_it_go_the_wrong_path/</link>
       <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
@@ -74,41 +109,6 @@
       <description><![CDATA[是否有一个子项目，人们可以在这里分享他们遇到的很酷的网站。我正在寻找具有高交互性的沉浸式环境。    由   提交 /u/PinAccomplished4084   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bk4b4g/cool_website_inspiration/</guid>
       <pubDate>Thu, 21 Mar 2024 11:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在非常旧的网络浏览器和最新的 Google Chrome 上使图像大小相同？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk46y2/how_do_i_make_images_the_same_size_on_a_really/</link>
-      <description><![CDATA[好吧，我正在制作一个复古网站https:// /jsfiddle.net/fnm2w49z/1/ 并且有一个问题，我只是不知道如何以及为什么。这是一张图片 https://drive.google.com/file/d/1hXZxM28M-5jYo2_TqQ6VIfSMW0Z0uq71 /view?usp=sharing 左边是 os netscape navigator 4.5，右边是 google，由于某种原因，netscape 显示了错误的图像尺寸，而右边的 chrome 表格距离太远，没有任何边距左边。有没有什么办法解决这一问题？非常感谢（哦，是的，我的表里面有表，但如果它有效的话，它就可以了）更新：在询问在线论坛后，我似乎总是自己解决这个问题，所以问题是netscape显示了它们真实的未经编辑的大小，所以我必须这样做要做的就是将它们重新调整到两者上   由   提交/u/Eleanor_Fox_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk46y2/how_do_i_make_images_the_same_size_on_a_really/</guid>
-      <pubDate>Thu, 21 Mar 2024 11:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turbo 重建删除下一个模块时出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk3j0m/issue_with_turbo_rebuild_removing_next_module/</link>
-      <description><![CDATA[嘿伙计们， 首先：这是我的第一个带有 pnpm 和 Turbo 的 monorepo。 我&#39;我遇到了 Turbo 和 pnpm 的令人困惑的问题，但无法查明根本原因。这是我的 Turbo 配置，非常简单： { &quot;$schema&quot;: &quot;https://turbo.build/schema.json&quot;, &quot;globalDependencies&quot;: [&quot;; **/.env.*local&quot;], &quot;pipeline&quot;: { &quot;build&quot;: { &quot;dependsOn&quot;: [&quot;^build&quot;], &quot;outputs&quot;: [&quot;build/**&quot; , &quot;dist/**&quot;, &quot;.next/**&quot;, &quot;!.next/cache/**&quot;] }, &quot;lint&quot;: { &quot;dependsOn&quot;: [&quot;^ lint&quot;] }, &quot;dev&quot;: { &quot;cache&quot;: false, &quot;persistent&quot;: true } } }  我的项目结构是：  ./apps/portal：nextjs ./apps/gateway：express+tsoa  ./apps/api：express+tsoa ./package/database：prisma 包  基于新克隆在存储库中，运行 pnpm install 然后运行 ​​turbo build 效果很好。但是，如果我在不进行任何更改的情况下再次运行 Turbo Build，Next 模块将以某种方式从 node_modules\.pnpm\next@14.1.0_react-dom@18.2.0_react@18.2.0\node_modules\next，导致构建失败。 为了使其再次构建，我需要：  终止 Turbo 进程 run &lt; code&gt;pnpm install --force --prefer-offline 我在 Windows 上运行，启用了开发人员模式以允许符号链接。  &lt; ul&gt; Turbo 版本：1.12.5 pnpm 版本：8.15.4 Next.js 版本：14.1.0 Node.js 版本: 20.9.0  我很困惑为什么 Next 模块被删除以及为什么需要这些步骤才能成功重建。有没有人遇到过类似的问题或了解可能导致此行为的原因？我正在寻找任何可以帮助解决此奇怪问题的配置建议或故障排除步骤。   由   提交/u/SoftStruggle5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk3j0m/issue_with_turbo_rebuild_removing_next_module/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 上有没有可以伪造位置的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk3dmb/is_there_an_app_for_windows_that_can_fake/</link>
-      <description><![CDATA[不是谈论 VPN，而是一个允许我通过点击地图来伪造位置的应用程序，类似于 Android 假 GPS 应用程序。 &lt; p&gt;它是为了我的地图网络应用程序根据 GPS 位置创建多边形，但是太懒太麻烦了，无法出去测试 我现在使用 Android 模拟器来进行一些测试我需要在 Windows 上完成   由   提交 /u/SuchALoserYeah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk3dmb/is_there_an_app_for_windows_that_can_fake/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找免费或便宜的地方来托管我不再更新的旧网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk38r2/looking_for_a_free_or_cheap_place_to_host_an_old/</link>
-      <description><![CDATA[很抱歉，如果这不是发布此问题的正确位置。几年前，我开了一个美食博客。我做了大约一年，然后放弃了。我的主机即将续订，但我不想再付费，因为我不主动更新。但是，我也不想丢失内容。  是否有免费或廉价的托管服务可以将其移动到？这是一个 WordPress 网站。    由   提交/u/djazzie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk38r2/looking_for_a_free_or_cheap_place_to_host_an_old/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是如何运作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bk2vuv/how_does_this_work/</link>
-      <description><![CDATA[      我见过这个东西，即 React 和 Vue 都被 devtools 同时检测到同一页面，想知道这是如何工作的？为什么他们甚至需要这样做？ https://preview.redd.it/pwg5gxn9tnpc1.png?width=866&amp;format=png&amp;auto=webp&amp;s=f872bea8fc5d55cac2daeae2b349743978e1c2b1  &lt;!-- SC_ON - -&gt;  由   提交 /u/OpenedTowel   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bk2vuv/how_does_this_work/</guid>
-      <pubDate>Thu, 21 Mar 2024 09:55:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
