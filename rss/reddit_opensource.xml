@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 20 Mar 2024 21:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:54:06 GMT</lastBuildDate>
+    <item>
+      <title>🛠️Jami团队注重稳定性和可靠性。这是我们关于 Jami 开发人员进展的第五次更新。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bjqjwv/the_jami_team_focuses_on_stability_and/</link>
+      <description><![CDATA[   /u/GNUJami   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bjqjwv/the_jami_team_focuses_on_stability_and/</guid>
+      <pubDate>Wed, 20 Mar 2024 22:32:20 GMT</pubDate>
+    </item>
     <item>
       <title>电子零件库存管理软件：PartPilot</title>
       <link>https://www.reddit.com/r/opensource/comments/1bjniul/the_electronics_part_inventory_management/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我很自豪地宣布推出 Wolflith 测试版 - 一个旨在简化跨容器部署 Docker 容器的过程的工具包或使用单个命令高效、快速地操作多台 Linux 机器。通过利用 Ansible 进行编排，用户可以从各种 Docker 服务中进行选择或添加自己的服务，然后将它们同时部署到自己的计算机上。这种方法使得 Wolflith 对于那些寻求更直接、更有针对性的技术堆栈管理解决方案的人特别有用，尤其是在以 Docker 为中心的环境中。 Wolflith 旨在显着减少传统上与部署服务相关的时间和复杂性，为各个级别的技术爱好者提供更易于访问且更高效的解决方案。 🚀 为什么 Wolflith 很重要 As作为一名狂热的技术和家庭实验室爱好者，我了解时间管理的重要性以及我们数字化努力的影响。 Wolflith 的诞生是为了简化传统上耗费大量时间的流程的需要。无论您的设置像我的一样在 Proxmox 上运行，还是正在探索 Unraid（Wolflith 将来会支持）等其他平台，这个工具都适合您。 （目前支持 Ubuntu 和 Debian Linux 机器）。 💬 加入 Wolflith 之旅 这个测试版本只是一个开始。您的反馈、见解和贡献是推动 Wolflith 发展的命脉。我邀请您加入这个旅程，来测试、批评和增强 Wolflith。我们可以一起完善这个工具，减少手动服务委托时间，增加我们的空闲时间，并传播人们对这个有可能重新定义我们的数字景观的工具的认识。 🔗 深入研究，做出贡献，并分享您的见解！您的声音对于塑造 Wolflith 的未来至关重要。请在 GitHub 上查看，让我们一起创造数字魔法。 期待您的想法、反馈和意见贡献   由   提交 /u/Monitor-Early   /u/Monitor-Early reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bisjcr/wolflith_streamline_your_tech_stack_deployment/</guid>
       <pubDate>Tue, 19 Mar 2024 19:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Latitude：用于嵌入式分析的开源 Web 框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bimjad/latitude_an_opensource_web_framework_for_embedded/</link>
-      <description><![CDATA[大家好， 过去 2 年我们一直在为数据团队构建软件。经过多次迭代后，我们决定从头开始重建所有内容，并为整个社区开源。 Latitude 是一个开源框架，用于使用 SQL 和简单的前端组件，您可以将其嵌入到您自己的应用程序中。 您可以在此处查看存储库：https: //github.com/latitude-dev/latitude 我们正在积极寻找反馈和贡献者。让我知道您的想法！   由   提交 /u/EloquentPickle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bimjad/latitude_an_opensource_web_framework_for_embedded/</guid>
-      <pubDate>Tue, 19 Mar 2024 15:10:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
