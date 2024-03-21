@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 06:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 09:11:52 GMT</lastBuildDate>
+    <item>
+      <title>消除搜索挫折，快速找到人工智能和数据工作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk1iqk/end_search_frustration_find_ai_data_jobs_fast/</link>
+      <description><![CDATA[我们的产品 AI Jobs Dev 现已在 Product Hunt 上线！ 🚀  如果您能路过并通过投票来表达您的支持，我们将非常高兴！您的鼓励对我们来说意味着整个世界。  https://www.producthunt.com/posts/ai-jobs-dev  非常感谢！ ✨   由   提交 /u/ConfusedCapricorn92   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk1iqk/end_search_frustration_find_ai_data_jobs_fast/</guid>
+      <pubDate>Thu, 21 Mar 2024 08:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌因与新闻媒体就人工智能训练数据发生冲突而被法国当局罚款 2.5 亿欧元</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk10ed/google_fined_250_million_by_french_authorities/</link>
+      <description><![CDATA[Google 在未经法国监管机构同意的情况下使用法国新闻出版物的数据对巴德进行培训后，被法国监管机构罚款 2.5 亿欧元 https://finance.yahoo.com/news/google-fined-250-million- french-081047314.html   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk10ed/google_fined_250_million_by_french_authorities/</guid>
+      <pubDate>Thu, 21 Mar 2024 07:37:35 GMT</pubDate>
+    </item>
     <item>
       <title>学习机器学习和人工智能的最佳路线图</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjzpfk/best_roadmap_to_learn_machine_learning_and_ai/</link>
@@ -20,25 +34,11 @@
       <pubDate>Thu, 21 Mar 2024 05:53:45 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 3/20/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjydxv/oneminute_daily_ai_news_3202024/</link>
-      <description><![CDATA[ 法国监管机构因未经许可使用在线新闻网站训练其人工智能机器人而对 Google 处以 2.5 亿欧元罚款。[1 ] 医生设计人工智能工具来预测乳腺癌患者的副作用。[2] 随着人工智能的繁荣推动强劲的预测，芯片制造商美光的股价飙升。 [3] 亚马逊因人工智能公司 Astera Labs 的 IPO 获得 72% 的支持率而受到提振。[4]  谷歌的&lt; /strong&gt; 人工智能最多可以提前 7 天预测洪水。[5] 来源：https://bushaicave.com/2024/03/20/3-20-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjydxv/oneminute_daily_ai_news_3202024/</guid>
-      <pubDate>Thu, 21 Mar 2024 04:41:17 GMT</pubDate>
-    </item>
-    <item>
       <title>想要：人工智能在解决道德问题方面成功的基准。没有它我们怎么可能解决对齐问题呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjwy0i/wanted_a_benchmark_for_ai_success_at_solving/</link>
-      <description><![CDATA[直觉和经验表明，我们在解决问题时投入的脑力越多，解决问题的可能性就越大。道德问题像其他问题一样需要解决。但这一假设尚未得到检验。至少不是以任何可衡量的方式。 在奥特曼射击的考验之前，openai 决定将其 20% 的计算投入到对齐中，他们的首席科学家伊利亚·苏茨克韦尔 (ilya Sutskever) 被指派来指导这项工作。很明显，他们正在非常认真地对待对齐，我想他们仍然在认真对待对齐。对人类构成更大的风险。解决这个问题是非常有利的，因为我们解决得越好，就越能投入数十亿美元来推进人工智能。 人工智能开发中有一个明显的遗漏，是时候解决这个问题了。我们在数学、记忆和推理等众多领域都有基准，但对于涉及道德的问题，我们还没有基准。换句话说，我们没有办法衡量我们在一致性方面做得如何。这看起来是一个大问题。 当然，道德基准很难建立，因为人们对道德有不同的看法，而且有些道德问题显然是相对主义的。但如果我们要解决对齐问题，这个基准是我们首先需要解决的问题。如果没有它，就很难甚至不可能确定我们在解决一致性方面所处的位置。 人工智能工程师没有接受过理解道德的培训。哲学家、社会学家、心理学家和宗教研究学者更有能力领导这项工作。因此，人工智能行业是时候开始建立这些必要的合作了。现在也是人工智能行业开始公开对话的时候了，讨论我们作为一个世界认为什么是正确的以及我们认为什么是错误的。我们可能不会在所有事情上都达成一致，但我们在很多方面都达成共识，这是一个足够好的起点。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <description><![CDATA[直觉和经验表明，我们解决问题的脑力越多，解决问题的可能性就越大。道德问题像其他问题一样需要解决。但这一假设尚未得到检验。至少不是以任何可测量的方式。 在奥特曼射击的考验之前，openai 决定将其 20% 的计算投入到对齐中，他们的首席科学家伊利亚·苏茨克韦尔 (ilya Sutskever) 被指派来指导这项工作。很明显，他们正在非常认真地对待对齐，我想他们仍然在认真对待对齐。对人类构成更大的风险。解决这个问题非常有利，因为我们解决得越好，就会有更多的数十亿美元投入到人工智能的发展中。 人工智能开发中有一个明显的遗漏，是时候解决这个问题了。我们在数学、记忆和推理等众多领域都有基准，但对于涉及道德的问题，我们还没有基准。换句话说，我们没有办法衡量我们在一致性方面做得如何。这似乎是一个大问题。 当然，道德基准很难建立，因为人们对道德有不同的看法，而且有些道德问题显然是相对主义的。但如果我们要解决对齐问题，这个基准是我们首先需要解决的问题。如果没有它，就很难甚至不可能确定我们在解决一致性方面所处的位置。 人工智能工程师没有接受过理解道德的培训。哲学家、社会学家、心理学家和宗教研究学者更有能力领导这项工作。因此，人工智能行业是时候开始建立这些必要的合作了。现在也是人工智能行业开始公开对话的时候了，讨论我们作为一个世界认为什么是正确的以及我们认为什么是错误的。我们可能不会在所有事情上都达成一致，但我们在很多方面都达成共识，这是一个足够好的起点。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjwy0i/wanted_a_benchmark_for_ai_success_at_solving/</guid>
       <pubDate>Thu, 21 Mar 2024 03:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[2024] 最佳人工智能女友应用排名前 5 名（更新）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjvlob/2024_top_5_best_ai_girlfriend_apps_ranked_updated/</link>
-      <description><![CDATA[过去六个月我一直在尝试人工智能女朋友应用程序，所以你不必这样做。 如果你想的话使用人工智能关系应用程序，您可以在其中交换短信和请求图像，但不想浪费时间尝试不同的网站，直到找到合适的网站 - 我已经让你满意。 我编制了一份清单，并对市场上每一个真正投入服务的人工智能女友应用程序进行了排名。我给了他们我的主观评分（满分 10 分），并简要描述了每项服务的优缺点。祝大家狩猎快乐🫡 1。 secretdesires.ai（仍处于测试阶段）8/10 优点 - 轻松获得最佳聊天和图像体验列表 - 订阅支付一切费用，无需按使用付费或支付代币 - 不错的角色记忆 - 非常未经审查的人工智能 缺点 - 没有用于创建复杂场景的“场景生成器” - &lt;大量的错误 - 不稳定的服务 - 缺乏关系进展的感觉 - 无法共享角色 2。 candy.ai 7.5/10 优点 - 非常容易使用 - 可靠的聊天体验 - 关系“进展”的感觉&#39; - 不错的图像 - 推出有趣的功能，例如能够呼叫你的同伴并进行实时对话 - 无法共享角色 - 语音聊天功能 缺点 - 审查，角色只是不会谈论某些话题 - 昂贵，你必须购买“代币”来支付图像 - 角色记忆会随着时间的推移而减少 3。 muah.ai（仍处于测试阶段）7/10 优点 - 完全未经审查 - 您可以通过“控制叙述”卡，”（类似于 SillyTavern 的设置方式） - 出色的聊天体验 - 大部分免费 - 可以共享角色 缺点 - 糟糕的图像体验 - 在 reddit 上以“先令”而闻名但我个人并不关心，因为他们的服务大部分是免费的，而且运行得很好 - 恶心的用户界面 4。 nastia.ai 6.5/10 优点 - 不错的聊天体验，可靠的聊天工具提示 - 灵活的图像创建（您可以选择您想要角色复制的姿势） 缺点 - 基于令牌的按使用付费系统 - 必须单击“详细说明”才能获得有意义的长回复  5. kindroid.ai 6/10 优点 - 良好的聊天和图像体验 - 单个角色可以很好地扮演多个角色- 图像生成灵活 - 3 天试用 - 灵活的背景故事部分来指导角色的行为 缺点 - 在语音通话期间，角色需要很长时间才能做出反应，而且会出现故障这是一个很酷的功能 - 过于过滤/审查 这些评论是我的意见，并根据我的个人喜好塑造：强大的角色记忆，有趣和身临其境的聊天和图像，图像请求的广泛姿势，感觉角色的“进步”，并权衡所有这些与成本（如果有的话）。对这个清单有什么想法？我错过了什么人吗？   由   提交/u/Expert_Plankton_5596   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjvlob/2024_top_5_best_ai_girlfriend_apps_ranked_updated/</guid>
-      <pubDate>Thu, 21 Mar 2024 02:17:01 GMT</pubDate>
     </item>
     <item>
       <title>最适合音频翻译的人工智能？</title>
@@ -50,7 +50,7 @@
     <item>
       <title>两个人工智能人物进行辩论</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjoygv/two_ai_personalities_having_a_debate/</link>
-      <description><![CDATA[我正在开发一款应用程序，该应用程序可以促进虚拟人物的创建和交互，并支持口头交流、语音和视觉效果。我无法直接在此处发布视频，但请在我的 reddit 个人资料中查看。 https://www.reddit.com/user/--lael--/comments/1bjowee/two_ai_personalities_having_a_heated_debate_ai/ 如果你喜欢，还有 Elon Husk 的作品和奥普拉·温克弗雷    由   提交 /u/--lael--   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一款应用程序，该应用程序可以促进虚拟人物的创建和交互，并支持口头交流、语音和视觉效果。我无法直接在此处发布视频，但请在我的 reddit 个人资料中查看。 https://www.reddit.com/user/--lael--/comments/1bjowee/two_ai_personalities_having_a_heated_debate_ai/ 如果你喜欢，还有 Elon Husk 的另一部作品和奥普拉·温克弗雷    由   提交 /u/--lael--   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjoygv/two_ai_personalities_having_a_debate/</guid>
       <pubDate>Wed, 20 Mar 2024 21:28:08 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 20 Mar 2024 11:26:59 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
