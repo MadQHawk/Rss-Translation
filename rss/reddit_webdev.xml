@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 00:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:13:49 GMT</lastBuildDate>
     <item>
-      <title>谁能帮我获取 DeepL API 密钥？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjt8ig/can_anyone_help_me_get_a_deepl_api_key/</link>
-      <description><![CDATA[您好，我需要一个免费层 api 密钥，但我无法获取它，因为我住在巴西，并且由于某种原因在此处不可用。 .. 我需要任何 DeepL 可用国家/地区的有效信用卡https://www.deepl。 com/pro-api（向下滚动一点即可看到可用的国家/地区）。有人可以帮我吗？如果有必要，我愿意付费，我不知道你是否可以注册 API 密钥，然后他们会删除你的信用卡或其他东西，然后给我凭据，只要 api 密钥也可以，正如我所说，我愿意付款...或者如果有人知道我如何获得 api 密钥或以某种方式获得信用卡...我已经尝试过使用预付信用卡，但它不起作用。 如果您能帮助我，请给我发一条 DM。 谢谢！   由   提交 /u/christiangusukuma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjt8ig/can_anyone_help_me_get_a_deepl_api_key/</guid>
-      <pubDate>Thu, 21 Mar 2024 00:26:33 GMT</pubDate>
+      <title>增删改查应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk7brf/crud_app/</link>
+      <description><![CDATA[假设您入围开发人员角色，公司给您进行了一项带回家的评估，要求您创建一个 CRUD 应用程序并使用 Python 进行部署，需要多长时间创建和部署通常需要什么时间？ Flask 是一个合适的框架吗？有任何指示或资源可以帮助创建所述应用程序吗？   由   提交 /u/RandeezJohnson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk7brf/crud_app/</guid>
+      <pubDate>Thu, 21 Mar 2024 14:05:45 GMT</pubDate>
     </item>
     <item>
-      <title>即使完全加载新站点并清除浏览器缓存，CSS 也不会刷新。请帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjsm99/css_wont_refresh_even_with_complete_new_site_load/</link>
-      <description><![CDATA[一些上下文： Html/css/js/php 我使用以下命令创建了一个新网站我作为模板制作的一个旧网站。本质上，我复制了导航栏和页脚以及 scss/css 文件。我创建了一个新的主页布局，并使用该布局创建了另外 4 个页面。使用 localhost 一切看起来都很棒。  问题： 当我将网站上传到云虚拟机时，CSS 仍然是旧网站的。我刚刚注意到整个 CSS 文件都是旧文件。也许这将有助于解决这个问题。  我尝试/发现的： 浏览器缓存已清除。 Chrome 和 Firefox 看起来是一样的。在手机和另一台电脑上尝试过。尝试通过删除前导 / 来编辑 /style/style.css 中的 html 样式表路径。我不得不把它改回来。我已经验证 style.css.map 包含正确的 scss 文件。我已经验证正在加载的 CSS 与服务器上的 CSS 不同。我尝试将旧站点从 /var/www/html 移动到另一个位置。  例如。旧导航栏的字体系列和颜色与新导航栏完全不同，但旧的字体和颜色会加载。我刚刚注意到整个 CSS 也不同了，因为一切都是旧的。  希望有人能指出我正确的方向。我不是专家，但我对这个问题真的很迷茫。  编辑/更新：我刚刚调整了 vhost 文件以忽略旧站点 vhost，只查看新的 url。访问服务器上的 IP，新网站看起来很棒！只是 URL 出了问题。我已经设置了虚拟主机。接下来我将尝试不使用 vhost 文件。很高兴错误正在显现出来。可能只是虚拟主机配置错误，因为整个服务器是全新安装的，而且我一直在运行它。    由   提交 /u/RadeonPunk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjsm99/css_wont_refresh_even_with_complete_new_site_load/</guid>
-      <pubDate>Thu, 21 Mar 2024 00:00:21 GMT</pubDate>
+      <title>如果图像在我的网站上有半径，则图像在拐角处似乎会显得模糊？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk74nw/images_seem_to_appear_blurred_at_the_corner_if/</link>
+      <description><![CDATA[我从 Figma 导出它们，然后将它们转换为 webp，这是一个问题吗？   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk74nw/images_seem_to_appear_blurred_at_the_corner_if/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>我该如何制作一个这样的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjsgsb/how_do_i_make_a_website_like_this/</link>
-      <description><![CDATA[       由   提交 /u/DitiIsCool   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjsgsb/how_do_i_make_a_website_like_this/</guid>
-      <pubDate>Wed, 20 Mar 2024 23:53:42 GMT</pubDate>
+      <title>[播客]Elixir Wizards S12E01“测试 1,2,3”与 Joel Meador 和 Charles Suggs</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk6szt/podcast_elixir_wizards_s12e01_testing_1_2_3_with/</link>
+      <description><![CDATA[要收听，请在此处收听smr.tl/S12E01TEST或者您喜欢播放播客的任何地方。  我们现在在 YouTube 上！在此处观看播客 youtu.be/u_nx5AIvSdc  Elixir 巫师回来了！我们将在首播剧集“测试 1、2、3”中深入探讨软件测试，从而拉开第 12 季“办公时间”的序幕。  Sundi 和 Owen 与 SmartLogic 的 Joel Meador 和 Charles Suggs 一起分享从 TDD 到创建清晰的测试计划、管理测试维护以及利用测试来更好地记录和沟通等各个方面的见解。 &lt; /div&gt;  由   提交/u/smartlogic_io  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk6szt/podcast_elixir_wizards_s12e01_testing_1_2_3_with/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:41:49 GMT</pubDate>
     </item>
     <item>
-      <title>“冰屋”寻求合作者：爱斯基摩兄弟姐妹的社交网络</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjscbc/collaborators_wanted_on_igloo_a_social_network_of/</link>
-      <description><![CDATA[想法很简单：注册、查看您喜爱的手机联系人、与去过那里的人联系。如果任何技术人员对此感兴趣并希望合作实现这一目标，请私信或发表评论:)   由   提交 /u/h8rszn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjscbc/collaborators_wanted_on_igloo_a_social_network_of/</guid>
-      <pubDate>Wed, 20 Mar 2024 23:48:29 GMT</pubDate>
+      <title>陷入开发炼狱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk6eoe/stuck_in_dev_purgatory/</link>
+      <description><![CDATA[您好，我成为初级全栈开发人员已有大约 8 个月了。我所学到的一切都是我在过去几年的工作中和 YouTube 教程中学到的。  我想开始从事个人项目，但似乎无法找到有关 Dev-Ops 方面的好的教程。我想真正了解托管、部署以及所有这些内部工作原理。另外，在网络开发的后端做得更好。 如果您知道有任何指南或 youtuber/udemy，请分享。感谢任何帮助！   由   提交 /u/Different-Zebra3454    reddit.com/r/webdev/comments/1bk6eoe/stuck_in_dev_purgatory/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk6eoe/stuck_in_dev_purgatory/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>自由职业者——我到底是如何得出相对准确的时间表的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/</link>
-      <description><![CDATA[这部分总是让我在承担新项目时压力最大 - 当我进行新项目时，我完全不知道如何给出合理准确的时间表/完成日期接受新事物。对于简单的静态项目来说并不难，但是当涉及到像全栈 Web 应用程序这样更大的东西时，我真的不擅长给出估计（特别是如果它需要我以前没有使用过的技术）。  我通常觉得在没有开始项目的情况下我不可能给出准确的时间表。这也使得我很难为我的作品设定一个公平的价格，这意味着我经常因此而低估自己。你们在确定项目的时间表/价格时有参考的规则/指南吗（或者您建议学习的任何好的资源）？谢谢！！   由   提交/u/-storks-  /u/-storks-  reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/</guid>
-      <pubDate>Wed, 20 Mar 2024 23:18:33 GMT</pubDate>
+      <title>在印度跳槽是好是坏？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk67pc/is_job_hopping_in_india_good_or_bad/</link>
+      <description><![CDATA[我是一名全栈 Web 开发人员（较新）。我进入了一家体面的公司，薪资为 6.5 lpa。我想问几年后我应该开始寻找新工作。  我听说跳槽会增加你的薪水和职位。那么多少年后我应该继续换工作。还是频繁跳槽是不好的做法？ 需要你的建议。   由   提交/u/_Enigma_24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk67pc/is_job_hopping_in_india_good_or_bad/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>就业方面，我应该前置还是后置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjr13q/jobwise_should_i_front_or_back/</link>
-      <description><![CDATA[我正在谈论前端/后端 Web 或软件开发。 对于没有工程学位但想要追求的人作为实习生，您会建议选择学习前端还是后端？如果必须选择其中之一。 问题的出现是因为我在某处读到，作为后端实习开发人员开始就业的要求比前端开发实习生更高。 愿意向我提供您的观点吗？   由   提交/u/A340_500   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjr13q/jobwise_should_i_front_or_back/</guid>
-      <pubDate>Wed, 20 Mar 2024 22:52:25 GMT</pubDate>
+      <title>消除搜索挫折，快速找到人工智能和数据工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk5r69/end_search_frustration_find_ai_data_jobs_fast/</link>
+      <description><![CDATA[我们的产品 AI Jobs Dev 现已在 Product Hunt 上线！ 🚀  如果您能路过并通过投票来表达您的支持，我们将非常高兴！您的鼓励对我们来说意味着整个世界。  https://www.producthunt.com/posts/ai-jobs-dev  非常感谢！ ✨   由   提交 /u/ConfusedCapricorn92   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk5r69/end_search_frustration_find_ai_data_jobs_fast/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:49:50 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用两个无线电输入来设置开关切换样式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjq4jn/how_can_i_style_a_switch_toggle_by_using_two/</link>
-      <description><![CDATA[      嗨，我正在练习一个项目，它涉及在每月/之间选择一个计划按年订阅。我想通过良好的代码和可访问性实践来实现它。 我在社区上获得了使用 2 个标签和两个单选输入的帮助，因此我得到了 html，但样式部分对我来说不起作用它使两个无线电都不起作用，只有标签起作用。 这是我的 html 代码：   &lt; ;legend className=“视觉隐藏”&gt;计费  每月账单     每年计费  &lt;/label&gt; &lt; /fieldset&gt; &lt;/form&gt; 实时网址：https://interactive-pricing-component-omega-tan.vercel.app/ https://preview.redd.it/c8h30rq1dkpc1.jpg?width=750&amp;format=pjpg&amp;自动= webp&amp;s=b576d22cd4542f54d8410fef357af6d8288256fc 我尝试像这样包装我的收音机    &lt;/div&gt; 这样我就可以共享宽度和高度的背景样式。 感谢任何帮助或资源来检查是否有帮助！ 😀   由   提交/u/Environmental-Book45  /u/Environmental-Book45 reddit.com/r/webdev/comments/1bjq4jn/how_can_i_style_a_switch_toggle_by_using_two/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjq4jn/how_can_i_style_a_switch_toggle_by_using_two/</guid>
-      <pubDate>Wed, 20 Mar 2024 22:14:47 GMT</pubDate>
+      <title>重新评估 Next.js：它是否走错了路？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk5djq/reevaluating_nextjs_did_it_go_the_wrong_path/</link>
+      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk5djq/reevaluating_nextjs_did_it_go_the_wrong_path/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:28:51 GMT</pubDate>
     </item>
     <item>
-      <title>Node 中的 SOAP 客户端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjp859/soap_client_in_node/</link>
-      <description><![CDATA[我必须将我的 Nodejs 应用程序与外部服务的 SOAP API 集成。这是我第一次使用 SOAP，并试图找到来自 REST 世界的阻力最小的路径。 我遇到了 strong-soap，它看起来很有希望，但是使用我试图使用的 API，我在尝试使用他们提供的 WSDL 创建客户端时遇到错误：  TypeError: Cannot read properties of null (reading &#39;postProcess&#39;)  如果我自己编写 XML，我还想出了如何通过 axios 发送 POST 请求，但这似乎是最后的选择。 有人对可能出现的问题或他们成功使用的其他库有任何想法吗？还是我只能在这里笨拙地手动做事？ 出于法律原因，我不允许分享这是什么 API 或规范/WSDL 本身。不过，很高兴尝试在不透露专有信息的情况下回答问题！   由   提交/u/mrbmi513  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjp859/soap_client_in_node/</guid>
-      <pubDate>Wed, 20 Mar 2024 21:38:47 GMT</pubDate>
+      <title>用于多供应商网站的 Next js 或 wordpress</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk5bvc/next_js_or_wordpress_for_multivendor_website/</link>
+      <description><![CDATA[我是一名 Web 开发人员 (react/nextjs)，期待制作一个多供应商网站（更像 cars24）购买、出售或租赁所述产品。 使用 next js 可以制作一个性能更好的网站，并具有更好的 SEO。我觉得从头开始开发一个网站可能是浪费时间，因为 WordPress 上有一些主题可以促进这个过程。此外，nextjs 应用程序的部署需要 vps 并且不能与共享托管一起使用。 &lt; p&gt;我以前从未使用过 WordPress，这仍然是一个学习曲线。此外，它仍然需要针对我想到的某些功能进行自定义编码。但它提供了简单的部署。 使用它们创建一个自定义网站需要大量的时间和精力。外包会更好，但我没有预算，而是自己开发。我自己制作这个网站需要多长时间？   由   提交/u/maaz_shaikh_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk5bvc/next_js_or_wordpress_for_multivendor_website/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:26:15 GMT</pubDate>
     </item>
     <item>
-      <title>作为一名网络开发人员，我构建了一个免费的竞争对手分析工具，我很高兴与大家分享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjp5jm/as_a_web_developer_i_built_a_free_competitor/</link>
-      <description><![CDATA[       由   提交/u/sameed_a  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjp5jm/as_a_web_developer_i_built_a_free_competitor/</guid>
-      <pubDate>Wed, 20 Mar 2024 21:35:53 GMT</pubDate>
+      <title>使用 JWT + 刷新令牌的 Node JS 身份验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk4viz/node_js_auth_with_jwt_refresh_token/</link>
+      <description><![CDATA[首先介绍一些背景知识。 我是一名 Javascript 开发人员，拥有 10 多年的经验，主要从事前端工作网站和 Web 应用程序，但我希望通过学习 NodeJS 扩展到全栈领域。 为此，作为一种学习经验，我正在使用 NodeJS、React、PostgreSQL 和 Prisma 从头开始​​构建一个 Web 应用程序.我设计了我的数据库，我在 Prisma 中构建了模型，我在 insomnia 中记录了我的 API。我有一个基本的 Node 应用程序，其中包含许多 GET 路由，用于访问 Prisma 播种的数据库中的数据。到目前为止一切顺利。 我接下来要做的是身份验证，这是事情开始变得棘手。 到目前为止，我拥有的是一个在数据库中创建用户的注册表单，以及一个允许用户登录并访问系统的登录页面。 当用户登录时，将创建 JWT 并创建仅 HTTP 的 cookie，然后当用户尝试访问我的节点应用程序中的路由时，cookie 会随请求一起发送并验证 JWT。用户注销 cookie 被销毁。 接下来我要添加的是一个刷新令牌，与访问令牌一起使用，并且每当创建新的访问令牌时都会发出新的刷新令牌（因此我似乎无法弄清楚如何检查 JWT 以查看它是否已过期，显然，当您验证 JWT 时，它会告诉您它已过期，但实际能够做到这一点似乎很棘手使用该信息执行任何操作，此时会生成错误。 到目前为止，所有这些都是在没有任何第 3 方身份验证包的情况下实现的，因为我想确保我完全理解它，并且对我来说这是最好的方法这样做就是自己构建它。 任何帮助和/或指示将不胜感激。 如果需要更具体的细节，很乐意回答任何和所有问题。    由   提交/u/preacher2041   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk4viz/node_js_auth_with_jwt_refresh_token/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:00:59 GMT</pubDate>
     </item>
     <item>
-      <title>Digital Ocean AppPlatform 间歇性链接错误的 SSL 证书域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/</link>
-      <description><![CDATA[这里有一个奇怪的问题，想知道其他人是否经历过： 间歇性地，我们在 DigitalOcean 的 AppPlatform 上托管的应用程序的用户会导航到我们的域时看到网站不安全警告。当我看到这个时，我看到由 Sectigo Limited（CA）颁发给与我们不同的域（*couchdrop.io）的 SSL 证书。意外。当证书有效时，它会从 Google Trust Services, LLC 正确颁发到我们的域。预期。 据我了解，DO 的 AppPlatform 管理证书创建和续订，因此这似乎是他们的问题。我已经创建了一个支持票证，希望他们能够及时解决这个问题。 也就是说，如果有人以前见过这种情况并且知道应用程序的配置如何可能导致他们的设备出现这种情况AppPlatform 我将不胜感激任何见解。理想情况下，这是我可以解决的问题，但是，如果是他们的问题而我无法修复它，我们将不得不迁移到另一个主机，这是我不愿意做的。    由   提交/u/Abstract-Abacus   /u/Abstract-Abacus reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/</guid>
-      <pubDate>Wed, 20 Mar 2024 21:05:42 GMT</pubDate>
+      <title>很酷的网站灵感？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk4b4g/cool_website_inspiration/</link>
+      <description><![CDATA[是否有一个子项目，人们可以在这里分享他们遇到的很酷的网站。我正在寻找具有高交互性的沉浸式环境。    由   提交 /u/PinAccomplished4084   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk4b4g/cool_website_inspiration/</guid>
+      <pubDate>Thu, 21 Mar 2024 11:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Array.prototype.with 更新不可变数组</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjob65/immutable_array_updates_with_arrayprototypewith/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjob65/immutable_array_updates_with_arrayprototypewith/</guid>
-      <pubDate>Wed, 20 Mar 2024 21:02:06 GMT</pubDate>
+      <title>如何在非常旧的网络浏览器和最新的 Google Chrome 上使图像大小相同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk46y2/how_do_i_make_images_the_same_size_on_a_really/</link>
+      <description><![CDATA[好吧，我正在制作一个复古网站https:// /jsfiddle.net/fnm2w49z/1/ 并且有一个问题，我只是不知道如何以及为什么。这是一张图片 https://drive.google.com/file/d/1hXZxM28M-5jYo2_TqQ6VIfSMW0Z0uq71 /view?usp=sharing 左边是 os netscape navigator 4.5，右边是 google，由于某种原因，netscape 显示了错误的图像尺寸，而右边的 chrome 表格距离太远，没有任何边距左边。有没有什么办法解决这一问题？非常感谢（哦，是的，我的表里面有表，但如果它有效的话，它就可以了）更新：在询问在线论坛后，我似乎总是自己解决这个问题，所以问题是netscape显示了它们真实的未经编辑的大小，所以我必须这样做要做的就是将它们重新调整到两者上   由   提交/u/Eleanor_Fox_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk46y2/how_do_i_make_images_the_same_size_on_a_really/</guid>
+      <pubDate>Thu, 21 Mar 2024 11:20:24 GMT</pubDate>
     </item>
     <item>
-      <title>将会话数据存储在非 http-only cookie 中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjn5kg/storing_session_data_in_a_nonhttponly_cookie/</link>
-      <description><![CDATA[我想改进我的宠物网络应用程序中身份验证的用户体验。 只是澄清一下标题：我是谈论存储会话数据，而不是会话令牌。您不能使用会话数据来验证您的请求 - 请求是使用存储在仅 http cookie 中的会话令牌进行验证的。会话数据基本上是您的用户 ID、用户名、电子邮件以及会话过期时间。现在它只是存储在客户端的内存中。 可以将这些数据存储在 JS 中可访问的 cookie 中吗？这样我就可以：1）通过在我的中间件中检查他们没有会话数据/会话数据已过期，立即将未经授权的用户重定向到登录页面。 2) 授权用户将更快地呈现页面，因为会话数据已经在 cookie 中 - 无需另一个服务器往返。 如果有人尝试设置会话，则不会出现模拟或类似情况的安全问题手动数据 cookie，那么，他们的所有 API 请求要么未经授权，要么至少使用其实际数据进行身份验证，而不是模拟数据。 因此，基本上诚实的用户将获得更快、响应更快的体验，并防止恶意行为者将无法访问他们不应该访问的任何数据。 所以我唯一担心的是 - 也许将用户的电子邮件存储在 JS 可以访问的 cookie 中是不行的，例如，这样 chrome 扩展程序就可以访问它。这不是一个巨大的安全问题，但有些人可能不喜欢他们的电子邮件被公开。 那么这可以吗？ 如果可以的话，请提供一步一步的解释使其更加清晰。 当前：  向页面发出请求 服务器发回HTML响应 客户端渲染页面，然后向服务器发出请求以获取会话数据 客户端通过会话获取响应数据，存储在内存中，使用它来呈现个人资料页面  我想做的：  提出请求对于页面 服务器发送回 HTML 响应以及带有会话数据的 cookie 客户端呈现页面，获取会话数据来自 cookie，使用它来呈现个人资料页面    由   提交 /u/HugeLetters   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjn5kg/storing_session_data_in_a_nonhttponly_cookie/</guid>
-      <pubDate>Wed, 20 Mar 2024 20:14:50 GMT</pubDate>
+      <title>Turbo 重建删除下一个模块时出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk3j0m/issue_with_turbo_rebuild_removing_next_module/</link>
+      <description><![CDATA[嘿伙计们， 首先：这是我的第一个带有 pnpm 和 Turbo 的 monorepo。 我&#39;我遇到了 Turbo 和 pnpm 的令人困惑的问题，但无法查明根本原因。这是我的 Turbo 配置，非常简单： { &quot;$schema&quot;: &quot;https://turbo.build/schema.json&quot;, &quot;globalDependencies&quot;: [&quot;; **/.env.*local&quot;], &quot;pipeline&quot;: { &quot;build&quot;: { &quot;dependsOn&quot;: [&quot;^build&quot;], &quot;outputs&quot;: [&quot;build/**&quot; , &quot;dist/**&quot;, &quot;.next/**&quot;, &quot;!.next/cache/**&quot;] }, &quot;lint&quot;: { &quot;dependsOn&quot;: [&quot;^ lint&quot;] }, &quot;dev&quot;: { &quot;cache&quot;: false, &quot;persistent&quot;: true } } }  我的项目结构是：  ./apps/portal：nextjs ./apps/gateway：express+tsoa  ./apps/api：express+tsoa ./package/database：prisma 包  基于新克隆在存储库中，运行 pnpm install 然后运行 ​​turbo build 效果很好。但是，如果我在不进行任何更改的情况下再次运行 Turbo Build，Next 模块将以某种方式从 node_modules\.pnpm\next@14.1.0_react-dom@18.2.0_react@18.2.0\node_modules\next，导致构建失败。 为了使其再次构建，我需要：  终止 Turbo 进程 run &lt; code&gt;pnpm install --force --prefer-offline 我在 Windows 上运行，启用了开发人员模式以允许符号链接。  &lt; ul&gt; Turbo 版本：1.12.5 pnpm 版本：8.15.4 Next.js 版本：14.1.0 Node.js 版本: 20.9.0  我很困惑为什么 Next 模块被删除以及为什么需要这些步骤才能成功重建。有没有人遇到过类似的问题或了解可能导致此行为的原因？我正在寻找任何可以帮助解决此奇怪问题的配置建议或故障排除步骤。   由   提交/u/SoftStruggle5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk3j0m/issue_with_turbo_rebuild_removing_next_module/</guid>
+      <pubDate>Thu, 21 Mar 2024 10:38:36 GMT</pubDate>
     </item>
     <item>
-      <title>前辈们好。我想开始这个旅程，我怎样才能学习这些技能，请指导我一步一步的过程，我知道我会被骂，但作为一个学习者，我已经准备好了，</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjmw3y/hello_seniors_i_want_to_get_started_in_this/</link>
-      <description><![CDATA[请请求   由   提交/u/WestMark2317  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjmw3y/hello_seniors_i_want_to_get_started_in_this/</guid>
-      <pubDate>Wed, 20 Mar 2024 20:04:17 GMT</pubDate>
+      <title>Windows 上有没有可以伪造位置的应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk3dmb/is_there_an_app_for_windows_that_can_fake/</link>
+      <description><![CDATA[不是谈论 VPN，而是一个允许我通过点击地图来伪造位置的应用程序，类似于 Android 假 GPS 应用程序。 &lt; p&gt;它是为了我的地图网络应用程序根据 GPS 位置创建多边形，但是太懒太麻烦了，无法出去测试 我现在使用 Android 模拟器来进行一些测试我需要在 Windows 上完成   由   提交 /u/SuchALoserYeah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk3dmb/is_there_an_app_for_windows_that_can_fake/</guid>
+      <pubDate>Thu, 21 Mar 2024 10:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>您是否应该使用 NextJS 来构建超过 11ty/Astro/Hugo 的简单静态博客？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjmw0g/should_you_use_nextjs_for_a_simple_static_blog/</link>
-      <description><![CDATA[您可以使用 NextJS 创建静态生成的网站，它有一个内置的包来压缩图像，使用某些包您可以在 .md 中编写帖子，它非常快，所以使用 11ty 或任何其他“标准”有什么意义？静态站点生成器？我同意 NextJS 网站有时加载速度有点慢，但之后你可以无缝地浏览网站，甚至不需要重新加载页面，相反，我见过的一些 110 个网站，你有一个背景颜色当你改变页面时切换，因为它必须完全下载新页面，这不太美观。归根结底，他们都是 SSG，但我不明白为什么有人应该使用 Next 以外的其他东西（我觉得有一些重要的东西我没有看到）   由   提交/u/lollo3001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjmw0g/should_you_use_nextjs_for_a_simple_static_blog/</guid>
-      <pubDate>Wed, 20 Mar 2024 20:04:09 GMT</pubDate>
+      <title>寻找免费或便宜的地方来托管我不再更新的旧网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk38r2/looking_for_a_free_or_cheap_place_to_host_an_old/</link>
+      <description><![CDATA[很抱歉，如果这不是发布此问题的正确位置。几年前，我开了一个美食博客。我做了大约一年，然后放弃了。我的主机即将续订，但我不想再付费，因为我不主动更新。但是，我也不想丢失内容。  是否有免费或廉价的托管服务可以将其移动到？这是一个 WordPress 网站。    由   提交/u/djazzie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk38r2/looking_for_a_free_or_cheap_place_to_host_an_old/</guid>
+      <pubDate>Thu, 21 Mar 2024 10:19:48 GMT</pubDate>
     </item>
     <item>
-      <title>音乐家想要创建一个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bjmian/musician_looking_to_create_a_website/</link>
-      <description><![CDATA[大家好，请向比我更有知识的人寻求一些建议！ 我是一名音乐家，正在考虑建立一个网站用于推销自己和管理预订。我正在寻找的两个网站是 wix 和 Hostinger ，我现在不想花太多钱，而且我不想要超过 12 个月的期限。 有什么建议吗？最好有免费的域名和网站构建器。我非常精通技术，但这是一个我没有经验的领域，因此非常感谢任何建议   由   提交/u/thirdcheersfortrench  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bjmian/musician_looking_to_create_a_website/</guid>
-      <pubDate>Wed, 20 Mar 2024 19:48:37 GMT</pubDate>
+      <title>这是如何运作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bk2vuv/how_does_this_work/</link>
+      <description><![CDATA[      我见过这个东西，即 React 和 Vue 都被 devtools 同时检测到同一页面，想知道这是如何工作的？为什么他们甚至需要这样做？ https://preview.redd.it/pwg5gxn9tnpc1.png?width=866&amp;format=png&amp;auto=webp&amp;s=f872bea8fc5d55cac2daeae2b349743978e1c2b1  &lt;!-- SC_ON - -&gt;  由   提交 /u/OpenedTowel   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bk2vuv/how_does_this_work/</guid>
+      <pubDate>Thu, 21 Mar 2024 09:55:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
