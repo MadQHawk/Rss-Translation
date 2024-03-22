@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 22 Mar 2024 15:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:14:32 GMT</lastBuildDate>
+    <item>
+      <title>Twitter 帖子带有视频自动化功能？</title>
+      <link>https://www.reddit.com/r/automation/comments/1bl3rlg/twitter_post_with_video_automation/</link>
+      <description><![CDATA[我有大约 50 个有关产品的视频，我希望将这些视频自动发布到 Twitter（每天一个，并提供主题标签和说明）。 我知道有像 buffer etf 这样的工具，但我不想使用 YouTube 视频，而是想将视频上传到 Twitter 以进一步扩大覆盖范围。 知道如何做到这一点吗？ 知道如何做到这一点吗？ p&gt;   由   提交/u/FabulousAd6429   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bl3rlg/twitter_post_with_video_automation/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>CopyMonkey 评论：使用 CopyMonkey AI 让您的亚马逊销售额猛增！</title>
+      <link>https://www.reddit.com/r/automation/comments/1bl2rfi/copymonkey_review_skyrocket_your_amazon_sales/</link>
+      <description><![CDATA[   /u/Chisom1998_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bl2rfi/copymonkey_review_skyrocket_your_amazon_sales/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:01:37 GMT</pubDate>
+    </item>
     <item>
       <title>从 HTML 文件批量下载 YouTube/X</title>
       <link>https://www.reddit.com/r/automation/comments/1bk430h/bulk_youtubex_downloader_from_html_file/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bhpepi/learn_generative_ai_in_30_hours/</guid>
       <pubDate>Mon, 18 Mar 2024 12:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化服务；投资领域</title>
-      <link>https://www.reddit.com/r/automation/comments/1bhlnb1/an_automated_service_investment_area/</link>
-      <description><![CDATA[我们的社区喜欢深入研究人工智能自动化初创公司，我和我的团队也不例外。我们推出了一些很酷的东西：为每个投资者定制每日投资快照，适合他们自己的股票组合。 在这个信息丰富的世界中，关键在于挑选关键部分关于您的投资，并以您喜欢的方式将其分解。这种事情在 LMM 之前感觉就像是一个梦想，但现在，我们已经实现了。 你觉得呢？渴望听到您的看法以及您想分享的任何故事。   由   提交 /u/David_In_Game   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1bhlnb1/an_automated_service_investment_area/</guid>
-      <pubDate>Mon, 18 Mar 2024 08:18:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化（滑动）Android 模拟器</title>
-      <link>https://www.reddit.com/r/automation/comments/1bfpv6y/automate_swipes_an_android_emulator/</link>
-      <description><![CDATA[我需要将滑动发送到 Android 模拟器的多个实例。我的目标非常简单：即使实例位于后台，也能够将滑动发送到 Android 模拟器。 我尝试使用 Bluestack 和 AHK 或某些 Python 库，但 Bluestack 无法使用发布消息。我不关心我必须使用哪个模拟器或自动化工具（只要它允许我使用 GDIP 进行一些编程）。 有人对这个问题有直接经验吗？ ADB 太慢，而且对于多个实例绝对不可靠。   由   提交/u/cristalgrip  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1bfpv6y/automate_swipes_an_android_emulator/</guid>
-      <pubDate>Fri, 15 Mar 2024 22:04:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

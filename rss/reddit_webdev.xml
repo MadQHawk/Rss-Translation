@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 22 Mar 2024 15:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:15:55 GMT</lastBuildDate>
+    <item>
+      <title>白标还是合作伙伴？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl59pc/whitelabel_or_partner_up/</link>
+      <description><![CDATA[我在一家机构担任设计师和开发人员。我们的一位创始人要离开去做他自己的事情。 他找到了一位客户，并问我是否愿意履行订单。他从事销售工作，技术知识为零，所以我会做所有的工作。 我应该对构建进行白标签，以便他可以添加自己的标记，还是我们应该将其分成两部分？也许是第三个选择？ 如果是白标签，我认为我根本不应该运行发现或与客户端交互，对吗？虽然我不喜欢这方面的工作，但我也担心在电话游戏中会迷失方向，特别是考虑到这个人的领域专业知识贫乏。 总的来说，我只是希望这是公平的，并且客户要高兴。但我也不想被搞砸。   由   提交 /u/ThereforeTheGreen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl59pc/whitelabel_or_partner_up/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码嗜睡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl589k/coding_lethargy/</link>
+      <description><![CDATA[我作为全栈开发人员已经有 15 年了 - 主要使用 JavaScript 框架和 C#/NodeJS。 对于这几年我变得很无聊，我只是觉得我去过的每一个工作场所都主要是琐碎的任务和错误，以及在7年前写得不好的代码上添加功能。 我曾经喜欢过编码和解决问题，但我觉得近年来没有什么特别令人兴奋的事情发生 - 除了人们说人工智能将在 5 年内让我们变得多余。 人们如何保持他们的发展火花？人们建议我研究哪些路径或我可以在工作场所做哪些事情来使其再次令人兴奋？ 提前谢谢您 🙂   由   提交/u/Fearless_Medicine_23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl589k/coding_lethargy/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的基于 JS 的在线游戏实施身份验证的最佳/最简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl56gt/besteasiest_way_to_implement_auth_for_my_js_based/</link>
+      <description><![CDATA[尝试创建一个简单的在线游戏。我还需要添加数据库支持（MongoDB 或 Firebase），最好的方法是什么？    由   提交 /u/13aoul   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl56gt/besteasiest_way_to_implement_auth_for_my_js_based/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何删除这个更漂亮的警告？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl53di/how_to_remove_this_prettier_warning/</link>
+      <description><![CDATA[       由   提交 /u/hiccupq   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl53di/how_to_remove_this_prettier_warning/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:37:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发人员的硕士值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl46f7/masters_for_a_web_developer_worth_it/</link>
+      <description><![CDATA[嘿，大家好。我目前是一名大三学生，立志成为一名网络开发人员。我的问题是，如果我想从事网络开发作为职业，您认为值得去研究生院获得计算机科学（或其他相关领域）的硕士学位吗？我目前倾向于反对去，或者推迟到工作几年后去，因为我想避免财务承诺，但我想了解这会对我的申请过程产生多大影响，或者硕士是否会提供帮助我在工作中以任何重要的方式。    由   提交 /u/KermitAmericano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl46f7/masters_for_a_web_developer_worth_it/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 10 个最佳 WordPress 防火墙解决方案以及为什么您应该拥有一个</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl3rxg/10_best_wordpress_firewall_solutions_in_2024_and/</link>
+      <description><![CDATA[       由   提交/u/skionxb   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl3rxg/10_best_wordpress_firewall_solutions_in_2024_and/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户拒绝完成项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl3kkr/client_refuses_to_finalize_project/</link>
+      <description><![CDATA[我正在就棘手的情况寻求一些建议。我为一个我认为是朋友的人建立了一个网站。我早在 2022 年 12 月就完成了该项目，但我们未能最终确定一些文本内容并部署网站。 不幸的是，我的朋友一直没有回复消息，并不断重新安排会议。此外，尚有商定价格的 20% 余额。该人拒绝承认这一点。 这是重要的部分：我还没有提供代码，我的朋友也没有请求它 - 可能随着时间的推移，该人失去了兴趣。 我如何才能最好地与我的朋友联系以解决未结余额并完成项目？ 是否可以提及将现有 DNS MX 记录转移到他们帐户的截止日期？ 虽然我不想自毁前程，但如果情况没有得到解决，礼貌地提及我可以开源代码是不是一个坏主意？ （再次强调，代码尚未交付）   由   提交 /u/MalteseAppleFan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl3kkr/client_refuses_to_finalize_project/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:34:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChromeUX 报告达成共识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl3djk/consensus_on_chromeux_report/</link>
+      <description><![CDATA[您使用它吗？您认为它有用吗？ 此外，还有其他人看到他们的 LCP/TTFB 值受到影响吗？上个月...我试图确定这些问题是否与更广泛的互联网缓慢情况或我们这边的某些情况有关...过去我读过很多有关各种互联网中断/断电的报告这让我想知道，当发生重大中断时，每个人的 CrUX 报告都会受到影响吗？   由   提交 /u/godofleet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl3djk/consensus_on_chromeux_report/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑在另一个框架中重写我的前端（目前是 React/Vite）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bl1yg0/thinking_about_rewriting_my_front_end_in_another/</link>
+      <description><![CDATA[是否值得尝试其他东西，例如 Vue 或 Svelte？它实际上是一个单页。然而，应用程序本身非常复杂，有很多组件和跨不同组件的状态管理。这主要是出于无聊。后端正在被重写为最新稳定的.NET。所以我想为什么不利用这个机会重做前端，也许是一些全新的东西。我拥有大约两年的 React 专业经验，以及大约 8 年的 .NET 个人经验。这是一个个人项目，所以天空限制了我能用它做的事情。我更喜欢尽可能少地处理 CSS，因此无论什么框架都必须有合适的样式库。   由   提交/u/mymar101  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bl1yg0/thinking_about_rewriting_my_front_end_in_another/</guid>
+      <pubDate>Fri, 22 Mar 2024 15:27:39 GMT</pubDate>
+    </item>
     <item>
       <title>Vitepress 现在是 1.0</title>
       <link>https://www.reddit.com/r/webdev/comments/1bl10ae/vitepress_is_now_10/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[我想要一个可以自动导出为 CSV 并保存在某处的 Google 表单调查。我想我可以为此编写一个脚本，但我不知道将其保存在哪里有意义，因为我对编程和 IT 领域还很陌生。我希望它能够以某种方式自动与之前保存的所有其他回复进行比较，然后给出结果，然后将电子邮件发送给填写该结果的表格的人。我想知道在哪里保存这些结果是有意义的，脚本将运行来比较它们并在提交后发送电子邮件。它在我的个人电脑上吗？或者我需要通过 AWS 或其他方式购买服务器吗？我需要特定类型的服务器吗？ （我的免费选择有多少限制？）。谢谢   由   提交/u/TakingNamesFan69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bkyu37/how_to_save_and_compare_google_forms_exports/</guid>
       <pubDate>Fri, 22 Mar 2024 13:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的网络应用程序上的 3D 角色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkxylb/3d_character_on_my_web_app/</link>
-      <description><![CDATA[大家好，我需要为我的网络应用程序创建一个 3D 角色/吉祥物，以解释它的工作原理并引导用户浏览它。我的网络应用程序是为孩子们设计的，所以我想创建一个类似孩子的吉祥物。 我在这些方面的经验为零。我怎样才能让这个想法发挥作用？  我的项目是基于react typescript和vite 感谢您的帮助！    由   提交 /u/FineAccountant7500   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkxylb/3d_character_on_my_web_app/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML-5-Audioplayer 随机停止播放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkxvyi/html5audioplayer_stops_playing_randomly/</link>
-      <description><![CDATA[嗨，我的 Web 应用程序中有一个 HTML-5-Audioplayer。 src 属性指向 AWS S3 上托管的 mp3 文件。 这无法正常工作，因为播放每 25-35 秒停止一次。 我们在许多 iPhone 上进行了测试、运行 Safari 和 Chrome 的 Mac 和 Macbook。  为什么这么不稳定？这是因为 AWS S3 无法进行此类流式传输，还是我们需要完全不同的东西？ 我正在使用  &lt;源 src=“https://....”类型=“音频/mpeg” /&gt;&lt;/audio&gt;   由   提交/u/tf1155  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkxvyi/html5audioplayer_stops_playing_randomly/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:19:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨，大家好！一位客户想要使用 meern stack 构建一个网站构建器，他问我这是一个好主意吗？我应该说什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkxqno/hi_guys_a_client_wants_to_build_a_website_builder/</link>
-      <description><![CDATA[所以基本上他的想法是使用 meern 构建网站构建器，并且是免费的，并且其中会有拖放功能。他从开发人员的角度问我你们怎么看？    由   提交/u/_grounded_gamer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkxqno/hi_guys_a_client_wants_to_build_a_website_builder/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>决策日志</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkxpit/decision_logs/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/vitonsky   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkxpit/decision_logs/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否值得为我的用例研究 WebAssembly？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkx9qy/is_it_worth_looking_into_webassembly_for_my_use/</link>
-      <description><![CDATA[我有一个显示一些图表的 React 应用程序。这些图表是使用相对较大的数据集（1000 个数据点）创建的。这些数据点是具有字段值的对象，其中包括数组和其他对象。 我必须来回转换数据才能支持不同类型的可视化。这涉及对可能包含嵌套结构的数据点执行计算。简而言之，这在计算上非常昂贵，有时单击按钮和图表发生变化以反映变化之间存在长达 5 秒的延迟。 我看过的解决方案都不是很好。 （缓存、网络工作者）。这是使用 WASM 使用 C++ 或 Rust 等进行计算的良好用例吗？我担心的是，将数据从 JS 转换为更快的语言的开销将导致几乎没有性能提升，但我对此完全没有经验。你觉得怎么样？   由   提交 /u/dazzaondmic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkx9qy/is_it_worth_looking_into_webassembly_for_my_use/</guid>
-      <pubDate>Fri, 22 Mar 2024 11:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>ffmpeg、bento4 和 shaka 打包程序之间有什么区别？我的项目应使用哪一个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkthv0/what_is_the_difference_between_ffmpeg_bento4_and/</link>
-      <description><![CDATA[我是 ffmpeg 和多媒体方面的新手。 我正在构建一个简单的 Nodejs 视频分发平台作为我的宠物项目。用户可以上传视频，然后以不同质量观看它们。 现在我正在研究转换为不同分辨率、比特率和 DASH/HLS 格式的选项。我尝试过 ffmpeg，我可以使用它转换为不同的比特率和分辨率。但我在medium上看到一些文章同时使用bento4和ffmpeg，所以我很困惑为什么我需要同时使用两者，或者我什至需要bento。有什么优点？什么是 Shaka Packager？它与其他两个有何不同？  我应该只使用一个还是全部？现在我明白我应该只使用对我有用的包，但我也想了解其他包，并想确保我没有遗漏任何东西。 ​   由   提交 /u/Himanshu_Chauhan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkthv0/what_is_the_difference_between_ffmpeg_bento4_and/</guid>
-      <pubDate>Fri, 22 Mar 2024 07:23:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个简单的前端来获取我的无头 CMS 数据。也许没有代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bksrsx/i_need_a_simple_front_end_to_fetch_my_headless/</link>
-      <description><![CDATA[需要建立LittleCode/NoCode供应链NFC标签网站。低成本。无头CMS 嗨。通过storyblok.com（或其他无头cms或其他东西？我也在考虑使用wordpress，但我不知道）有关产品的信息（文本+图像/视频）将被存储。  我需要以某种方式将内容放入一个非常简单的网站中。网站的链接将被存储到 NFC 标签中。  有数千种方法可以做到这一点。最好/最简单的方法是什么？实际上，我认为 WordPress 网站是最好的方式。但我不太喜欢 wordpress，它真的很慢...... 您可以推荐其他 CMS 吗？或者有头脑 你知道有比故事块更便宜的替代品吗？以及一种将内容轻松发布到网站的方法？  实际上我是一个 React 开发者，但我已经有 2 年没有编码了，我需要完成这个工作 也许我使用一个 React 样板网站来获取无头 CMS 内容？  或者也许有一个 SaaS 可以解决我的“问题”？ 我将在 bunnycdn 上托管视频（最便宜的选项）或在 yt 上免费托管 &lt; !-- SC_ON --&gt;  由   提交 /u/JuriJurka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bksrsx/i_need_a_simple_front_end_to_fetch_my_headless/</guid>
-      <pubDate>Fri, 22 Mar 2024 06:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 验证仍然是一项有用的服务，还是已经过时了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkskf7/is_html_validation_still_a_useful_service_or_is/</link>
-      <description><![CDATA[自从我学习大部分 Web 开发技能以来，已经过去 20 年了，但我仍然停留在以前的方式上。我经常意识到我一直在浪费时间做一些不再需要的事情，这只是熟悉的事情。 过去验证 HTML/CSS 的要点是确保无论使用哪种浏览器访问您的网站，其工作/外观都相同。到目前为止，网络标准已经足够发展，这不再是一个问题，而是现在的焦点是各种设备/屏幕尺寸。 （如果有人不知道我在说什么：https://validator.w3.org/) 除了仔细检查语法之外，验证还有其他用途吗？手写页面时有更好的方法吗？   由   提交 /u/Honkmaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkskf7/is_html_validation_still_a_useful_service_or_is/</guid>
-      <pubDate>Fri, 22 Mar 2024 06:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过真实的 LinkedIn 参与来增强您的 Web 开发组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bkshns/boost_your_web_development_portfolio_with/</link>
-      <description><![CDATA[嘿，Web 开发社区， ​ 我最近偶然发现了一个令人着迷的工具，它是改变了我的 LinkedIn 参与策略，我认为它可能会让像您这样的其他 Web 开发人员感兴趣。现在，在您翻白眼并认为这只是另一个推销宣传之前，请听我说完。 ​ 作为 Web 开发人员，我们都太熟悉了在拥挤的领域中脱颖而出的斗争。在 LinkedIn 这样的平台上建立人际网络就像是对着虚空大喊，希望有人能听到你的声音。这就是 HyperClapper 之类的工具派上用场的地方。 ​ 现在，我不是来向您推销 HyperClapper 或任何其他产品的。相反，我想分享如何利用人工智能生成的评论帮助我激发真正的对话并提高 LinkedIn 帖子的参与度。 ​ 想象一下：您是在 LinkedIn 上分享您最新的 Web 开发项目，希望展示您的技能并吸引潜在客户。您收到的不是蟋蟀，而是来自其他开发人员、行业专业人士和潜在客户的一系列真实评论。听起来好得令人难以置信，对吧？ ​ 但事情是这样的：这与工具本身无关；这与工具本身有关。这是关于其背后的策略。 HyperClapper 只是可用于简化 LinkedIn 参与策略的众多工具之一。无论您是自由开发人员、代理机构所有者还是有抱负的企业家，找到在 LinkedIn 上脱颖而出的创意方式都可以带来巨大的改变。 ​ 所以，如果如果您希望提升您的 Web 开发组合并扩展您在 LinkedIn 上的网络，请考虑探索 HyperClapper 等人工智能驱动的参与工具。这不是关于销售；而是关于销售。这是关于建立真正的联系并展示您在数字领域的专业知识。 ​ 我很想听听您对 LinkedIn 参与策略的想法以及您如何利用HyperClapper 等平台可增强您的在线形象。分享您的经验，让我们继续对话！ ​   由   提交/u/SnooHabits754  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bkshns/boost_your_web_development_portfolio_with/</guid>
-      <pubDate>Fri, 22 Mar 2024 06:12:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
