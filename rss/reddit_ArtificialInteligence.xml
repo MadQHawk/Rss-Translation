@@ -4,41 +4,69 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 22 Mar 2024 15:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 21:11:01 GMT</lastBuildDate>
     <item>
-      <title>嘿，伙计们，这里有人知道一个免费的故事和场景人工智能作家吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl1clg/heyy_guys_anyone_here_know_about_a_free_ai_writer/</link>
-      <description><![CDATA[就像我想写你知道的故事一样。我想要一个免费的，它可能是一个网站或其他什么，但就像人工智能一样，可以很好地保存长故事。就像我想将它用于个人用途一样，你知道，就像让一些头部故事中的场景栩栩如生   由   提交/u/Intelligent_Shirt186   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl1clg/heyy_guys_anyone_here_know_about_a_free_ai_writer/</guid>
-      <pubDate>Fri, 22 Mar 2024 15:01:36 GMT</pubDate>
+      <title>克劳德·奥普斯（Claude Opus）令人难以置信。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl9zj3/claude_opus_is_incredible/</link>
+      <description><![CDATA[这是迄今为止我尝试过的最好的模型，我什至认为它优于 GPT-4...你们尝试过 Claude Opus 吗？   由   提交 /u/mindiving   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl9zj3/claude_opus_is_incredible/</guid>
+      <pubDate>Fri, 22 Mar 2024 20:59:47 GMT</pubDate>
     </item>
     <item>
-      <title>帮助作家摆脱困境</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl0492/help_a_writer_out/</link>
-      <description><![CDATA[我最近作为内容资源加入了一家从事人工智能、自动化、数据分析和云计算业务的公司。你们能否建议网站或任何其他资源，这将使我更容易掌握这些领域的信息？    由   提交/u/Basic_Run5114   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl0492/help_a_writer_out/</guid>
-      <pubDate>Fri, 22 Mar 2024 14:08:21 GMT</pubDate>
+      <title>推荐系统可以被语义搜索算法取代吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl9m9t/can_recommender_systems_be_replaced_with_semantic/</link>
+      <description><![CDATA[我正在做一个需要推荐的项目，之前我们开发了一种语义搜索算法，允许用户搜索一些细节和项目使用 openAI 嵌入显示。现在，我们正在修改语义搜索，将项目与用户个人资料信息相匹配，以便在用户访问平台时立即显示一组推荐项目。  我知道许多推荐系统非常多样化，但是新的语义搜索不会取代几乎所有推荐系统吗？ 这是一个真正令人担忧的问题。您对此有何看法？    由   提交 /u/killzedvibe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl9m9t/can_recommender_systems_be_replaced_with_semantic/</guid>
+      <pubDate>Fri, 22 Mar 2024 20:43:44 GMT</pubDate>
     </item>
     <item>
-      <title>跨网站数据复制的AI工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkzxui/ai_tool_for_crosswebsite_data_copying/</link>
-      <description><![CDATA[假设您打开了两个浏览器选项卡，一个在 Notion 中，一个在 Google Sheets 中。 有没有任何 AI 工具可以执行此操作：通过匹配 A 列和 B 列将数据从 Notion 复制到 Google Sheets&gt; 我知道我可以使用 Zapier 来实现此目的，但我很懒，而且我不喜欢自己进行设置。自然语言将是最好的用户体验。   由   提交 /u/PaulRBerg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkzxui/ai_tool_for_crosswebsite_data_copying/</guid>
-      <pubDate>Fri, 22 Mar 2024 14:00:38 GMT</pubDate>
+      <title>我观看了 Sam Altman 最近在 Lex Fridman 进行的 2 小时采访 - 以下是我们都应该知道的关键要点</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl7s2o/i_watched_sam_altmans_most_recent_2hour_interview/</link>
+      <description><![CDATA[Sam 本周在 Lex Fridman 播客上接受了采访。这是一次很长的采访，所以我想分享一下我听他讲话时记下的 10 个关键要点。你可以支持他，也可以反对他——但你不能否认他是即将到来的人工智能常态中最重要的核心人物之一！希望这对感兴趣的人来说是有洞察力的:)  1。创造有价值数据的人应该因使用这些数据而获得某种补偿💸 剩下的问题是实现它的经济模型。一个很好的类比是音乐从 CD 到 Napster 再到 Spotify 的转变。或者从电影到 YouTube 视频的转变。未来数据有类似的经济模型吗？ ⏳ 40:16 2. &lt; em&gt;比尔盖茨无法想象我们有一天会在计算机中需要千兆字节的内存💾同样，我们今天也无法想象如何或为什么法学硕士需要数十亿的上下文长度，但这仍然可能发生。 （对于上下文：具有 10 亿上下文长度的法学硕士意味着它可以处理和理解每个查询的约 200 万个文档页） ⏳ 51:13  “我想赋予 ChatGPT 保留记忆的能力” 📝  想象一个模型，它能够了解您并随着时间的推移对您变得更加有用。这很可能是上面强调的十亿上下文长度 LLM 的用例。 ⏳ 55:33  计算将成为货币未来的。 💲  Sam 相信它将成为世界上最珍贵的商品。 ⏳ 1:09:55  “能源问​​题”将通过核聚变来解决⚛  凭借大量的计算世界未来的需求，我们将需要大量的能源来为一切提供动力。 Sam 相信核聚变是解决这个问题的最佳方法。 ⏳ 1:11:29  Q-star 可能存在（但我们不会谈论这个）⭐  Lex当然问到了Q-star，但Sam并没有否认它的存在——只是说“我们还没准备好谈论这个”。 ⏳ 1:02:36  程序员不会过时👩🏻‍💻  但它可能会与现在的编程方式有所不同。不管怎样，萨姆认为没有人真正进行纯粹的编码——因为大多数程序员使用预先存在的软件包/技术/软件。利用 LLM 协助编码的方式与此类似。 ⏳ 1:29:50  超越 Google 很无聊 🔍  OpenAI 不想做一个更好的搜索引擎；以这种方式思考，低估了他们在人工智能方面的工作。 ⏳ 1:17:37  “聊天GPT！” （最好）🚩  Sam 对广告有偏见 - 这就是为什么目前 ChatGPT 的商业模式是通过付费进行的。在某种程度上，我觉得这令人放心 - 因为当你引入广告时，你的“真正的客户”现在就变成了广告商，而不是实际的用户（现在变成了产品）。 ⏳ 1:20： 15  我们不再谈论 AGI（让我们称之为别的东西吧）🧠  人们对于 AGI 是什么有不同的定义，因此 Sam 主张更多地谈论具体的功能，而不是把 AGI 作为一个通用术语。不过，根据他的定义，AGI 是一个无需人类干预即可推进科学发现的系统。 ⏳ 1:32:33 --  如果这有有点有见地，我希望你可以看看 RoboNuggets 我最初分享了这个和其他人工智能相关的实践知识！我的目标不是“AI日报”，而是“人工智能日报”。 （因为已经太多了），而是分享有用的见解/知识，让每个人都能充分利用新的人工智能常态:)干杯！  &amp;# 32；由   提交 /u/SwimIndependent6688   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl7s2o/i_watched_sam_altmans_most_recent_2hour_interview/</guid>
+      <pubDate>Fri, 22 Mar 2024 19:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepFake 工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkzrpt/tools_for_deepfake/</link>
-      <description><![CDATA[有人可以推荐一个完全免费的工具来从语音和视频创建 DeepFake 吗？例如。制作一个唐纳德·特朗普在说废话的视频。提前致谢！   由   提交/u/Montezuma0987   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkzrpt/tools_for_deepfake/</guid>
-      <pubDate>Fri, 22 Mar 2024 13:53:02 GMT</pubDate>
+      <title>以下是该领域一些有趣的新闻创意</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl5zpf/heres_some_interesting_news_ideas_in_the_field/</link>
+      <description><![CDATA[所以对我上一篇文章的反应无处不在。说实话——我本可以用更有建设性的措辞来表达这篇文章。为此，我在《科学美国人》上发表了一篇有趣的文章，介绍了如何实现通用人工智能的新想法，以及随之而来的对我们大脑的洞察。 https://www.scientificamerican.com/article/what-the -quest-to-build-a-truly-intelligent-machine-is-teaching-us/   由   提交/u/1protobeing1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl5zpf/heres_some_interesting_news_ideas_in_the_field/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>您最喜欢的人工智能视频工具是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkzgd0/what_is_your_favourite_ai_video_tool/</link>
-      <description><![CDATA[我想使用基于脚本的 AI 生成视频。  是否有服务可以让我这样做？   由   提交 /u/jamesftf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkzgd0/what_is_your_favourite_ai_video_tool/</guid>
-      <pubDate>Fri, 22 Mar 2024 13:38:27 GMT</pubDate>
+      <title>每日两分钟 AI 更新 (03/22/2024)：来自 Nvidia、QuietSTaR、Neuralink、Microsoft、Rightsify 和 OpenInterpreter 的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl58lr/twominute_daily_ai_update_03222024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   NVIDIA 通过 Latte3D 彻底改变了 3D 模型生成 - NVIDIA 的 AI 支持的 Latte3D 可在不到一秒的时间内将文本提示转换为详细的 3D 模型。该模型有两个阶段，使用摊销优化来维持快速生成。 Latte3D 的预训练阶段使模型能够快速适应新任务，并通过严格的训练机制（包括 3D 数据集和来自 ChatGPT 的提示）实现效率。 Quiet-STaR：LM 可以自我训练思考在回复之前 - 研究表明，借助 Quiet STaR 训练方法，大型语言模型可以在没有特定任务的情况下从文本中进行推理。引入元标记提高了模型预测困难标记的能力，从而导致更长的思考和语言模型训练的其他进步。 Neuralink 的第一个大脑芯片患者用他的思想下棋 - 埃隆·马斯克 (Elon Musk) 的大脑芯片初创公司 Neuralink 展示了其第一位大脑芯片患者诺兰·阿博 (Noland Arbaugh)，他仅用意念下棋。植入技术使瘫痪患者能够用意念控制外部设备，以新的独立性彻底改变他们的生活。 微软推出了新的 Copilot，以提高工作效率 - Microsoft 适用于 Windows 和 Surface 设备的全新 Copilot 是一款功能强大的生产力工具，将大型语言模型与 Microsoft Graph 和 Microsoft 365 应用集成，以提高工作效率。 Microsoft 致力于为用户提供创新工具，以便他们在不断变化的工作环境中蓬勃发展。  沙特阿拉伯将在人工智能领域投资 400 亿美元 - 沙特阿拉伯宣布计划在人工智能领域投资 400 亿美元，以成为全球领先者。中东国家利用其资产超过9000亿美元的主权财富基金来实现这一目标。这项投资旨在使该国处于快速发展的人工智能领域的前沿，推动创新并促进经济增长。 Rightsify 发布 Hydra II 以彻底改变人工智能音乐一代&lt; br /&gt; - 全球音乐授权领导者Rightsify推出最新AI生成模型Hydra II。 Hydra II 提供超过 800 种乐器、50 种语言以及用于可定制、无版权的 AI 音乐的编辑工具。该模型接受音频、文本描述、MIDI、和弦进行、乐谱和主干的训练，以创建独特的生成。  Open Interpreter 的 01 Light 个人袖珍人工智能代理 - Open Interpreter 推出了 01 Light，这是一款便携式设备，可让您使用自然语言命令控制计算机。它是开源项目的一部分，旨在使计算变得更加容易访问和灵活。它旨在让您的在线任务更易于管理，帮助您完成更多工作并简化您的生活。 微软 6.5 亿美元的拐点交易：收购 AI 人才的战略举措 - 微软最近与人工智能初创公司 Inflection 达成一项重大协议，涉及支付 6.5 亿美元现金。虽然这笔交易看起来像是一份许可协议，但它似乎是微软的一项战略举措，旨在收购人工智能人才，同时避免潜在的监管问题。  这些新闻和创新的更详细分类请参阅每日新闻。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl58lr/twominute_daily_ai_update_03222024_news_from/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能事业！！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl520j/career_in_artificial_intelligence/</link>
+      <description><![CDATA[大家好，我是机械工程专业毕业生 [2021]。 2020 年，我在哥印拜陀当地一家初创公司获得了带薪实习机会。他们为我提供了实习机会，因为我是我所在批次中表现出色的学生。 这家初创公司正在开发人工智能。该模型将帮助印度海军探测和处理敌方海军舰艇在国际水域的误报。他们提出对我们这些选定的候选人进行人工智能培训（主要是 Coursera 课程）。工资是每月13K印度卢比。 我拒绝了这份工作，因为它超出了我正在学习的范围，而且我不准备在一个全新的新兴领域接受这样的挑战，考虑到我已经承受的学业压力。 随着人工智能革命如野火般席卷而来。 我很遗憾拒绝了那份实习，因为现在我将成为一名拥有近 4 年经验的人工智能工程师。 “无论发生了什么......发生了” 我于2022年3月加入一家IT公司的服务部门，并在工作了1.4年后于2023年7月辞职。我对这份工作并不满意，也没有充分发挥自己的潜力。 现在我想转行到人工智能领域，开始自己的职业生涯。因此，请给予我指导，我将用它来打造我的人工智能职业生涯。 我可能无法获得实习提供的实践/实践知识，但我可以学习必要的技能 PS：我零编程知识。   由   提交 /u/Vaasan_not_n0t_5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl520j/career_in_artificial_intelligence/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 在涉及民权作者时似乎存在记忆漏洞。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl4bkb/chatgpt_seems_to_have_a_memory_hole_when_it_comes/</link>
+      <description><![CDATA[我的孩子正在写一篇论文，并试图与 ChatGPT 就民权时代的各个作者进行集思广益。 您可以复制如果您尝试讨论“Shaker，你为什么不唱歌？”作者：Maya Angelou 的   提示：谁写了“Shaker，你为什么不唱歌？”  ChatGPT：“Shaker，你为什么不唱歌？”是非裔美国作家托妮·莫里森创作的小说。   [新聊天会话]  提示：谁写了“Shaker，你为什么不唱歌？”  ChatGPT：“Shaker，你为什么不唱歌？”是美国作家多丽丝·贝茨创作的小说。它于 1983 年出版。    [摘自较长的聊天会话]  提示：“Shaker，你为什么不唱歌？”作者：Maya  ChatGPT： 很抱歉，但似乎有些混乱。 “Shaker，你为什么不唱歌？”不是玛雅·安杰卢的作品……但是，“Shaker，你为什么不唱歌？”是玛丽·戈登写的小说。     由   提交/u/Appropriate_Ant_4629   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl4bkb/chatgpt_seems_to_have_a_memory_hole_when_it_comes/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:05:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 等腰梯形</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl46td/isosceles_trapezoid_shape_with_ai/</link>
+      <description><![CDATA[谁能找到一种方法让AI成功生成等腰梯形形状？我已经尝试了一切，包括指定所有属性，但没有成功。 有一对平行且不等的相对边（底边）； AD II BC 有一对全等的不平行的边（腿）； AB ≅ CD 下底角相等； ∠B ≅ ∠C 上底角相等； ∠A ≅ ∠D 对角线全等； AC ≅ BD 任意下底角与任意上底角互补（加起来为 180°）； ∠A + ∠C = 180° 和 ∠B + ∠D = 180° 有一条对称线连接平行边（底边）的中点； PQ 是对称线，PQ ⊥ BC https://mathmonks.com/trapezoid/isosceles-梯形   由   提交 /u/Diginoise   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl46td/isosceles_trapezoid_shape_with_ai/</guid>
+      <pubDate>Fri, 22 Mar 2024 17:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于用户兴趣高涨，科技独角兽Moonshot AI的中国聊天机器人出现故障</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl2cmk/outage_hits_chinese_chatbot_of_tech_unicorn/</link>
+      <description><![CDATA[https://www.scmp.com/tech/tech-trends/article/3256428/outage-hits -chinese-chatbot-tech-unicorn-moonshot-ai-amid-surging-user-interest?module=top_story&amp;pgtype=homepage  &amp;# 32；由   提交 /u/Foxtrot_Juliet-Bravo   /u/Foxtrot_Juliet-Bravo reddit.com/r/ArtificialInteligence/comments/1bl2cmk/outage_hits_chinese_chatbot_of_tech_unicorn/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl2cmk/outage_hits_chinese_chatbot_of_tech_unicorn/</guid>
+      <pubDate>Fri, 22 Mar 2024 15:44:11 GMT</pubDate>
     </item>
     <item>
       <title>音乐人工智能多么先进啊！</title>
@@ -48,32 +76,11 @@
       <pubDate>Fri, 22 Mar 2024 13:06:20 GMT</pubDate>
     </item>
     <item>
-      <title>除 AI 之外的证书 - 来自 Microsoft 的 102</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkye9s/certificates_aside_from_ai_102_from_microsoft/</link>
-      <description><![CDATA[是否有 Google 或 Amazon 等与 AI 相关的认证？就像微软的 AI-102   由   提交 /u/Silent-Expression-13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkye9s/certificates_aside_from_ai_102_from_microsoft/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:46:50 GMT</pubDate>
-    </item>
-    <item>
       <title>催产素受体基因改造注射将如何增强人类道德行为。人工智能如何认真推进并快速推进研究。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkxw1o/how_an_oxytocin_receptor_genetic_modification/</link>
       <description><![CDATA[我认为我们都同意，使自己符合最高道德价值观和道德标准与使我们的 ais 一致同样重要，甚至更重要。这样。 催产素 (oxtr) 是一种激素和神经肽，对社会行为具有强大的影响。它可以增加信任感、促进联系并增强同理心。这一切都会导致道德行为全面提高。 oxtr 基因内的变异导致我们的身体产生催产素和对催产素的反应不同。某些变异甚至与自闭症有关。 同理心的增强使我们更加认真地考虑我们的行为对他人的影响，引导我们的道德选择更加向善。 使用 oxtr加强道德行为尚处于早期阶段。研究人员必须首先查明与同理心或亲社会行为的期望增加密切且可靠相关的特定 oxtr 变异。人工智能在模式识别方面的优势可以快速加速特定 oxtr 变异的识别，这些变异与增强的同理心和亲社会行为具有最强的相关性。 一旦识别出变异，病毒载体（如腺相关病毒） )可用于携带修饰后的oxtr基因，充当递送载体。目标是针对参与同理心和社交处理的特定大脑区域。病毒载体将传递修改后的基因，并将其整合到目标脑细胞的 DNA 中。 人工智能还可以帮助分析明天复杂的大脑成像数据，快速查明与社交关系最密切的特定大脑区域处理和同理心，使研究人员能够将修改后的基因准确地传递到需要的地方。 理想情况下，细胞将开始产生修改后的催产素受体，从而改变催产素信号传导并增强移情反应、社会联系、信任和道德决策。人工智能驱动的模拟可以在创纪录的时间内设计和完善病毒载体方面发挥至关重要的作用。 ais 还可以构建复杂的预测模型，模拟 oxtr 修饰对催产素信号传导的潜在影响。  一旦这项工作完成并在动物模型上进行测试，下一步将是开发安全且可逆的注射机制。需要进行广泛的测试来确定病毒载体的最佳剂量，以在不产生毒性的情况下引发所需的行为效果。  将含有修饰的OXTR基因的病毒载体配制成适合注射的液体悬浮液。注射液中可能含有有助于保持病毒稳定性并确保其活力直至达到目标的物质。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkxw1o/how_an_oxytocin_receptor_genetic_modification/</guid>
       <pubDate>Fri, 22 Mar 2024 12:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>完美的生成式人工智能软件的功能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkwmlw/features_for_the_perfect_generative_ai_software/</link>
-      <description><![CDATA[根据您的经验和观点，您认为理想的生成式 AI（主要是图像）软件中您想要的首要功能是什么？    由   提交/u/blondie2405  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkwmlw/features_for_the_perfect_generative_ai_software/</guid>
-      <pubDate>Fri, 22 Mar 2024 11:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在现有代码库上工作的最佳开源人工智能代理是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkw4rd/what_is_the_best_opensource_ai_agent_for_working/</link>
-      <description><![CDATA[能够提供现有 MVC 控制器、应用程序结构等上下文，并且 AI 能够根据需要拉取和查看当前代码，这将是一个很好的选择 我最近了解了 Devika，如果它能以某种方式提供上下文，那么它可能是一个解决方案。 目前哪种开源 AI 代理表现最好，能够访问文件系统上的代码库？ ​   由   提交/u/head_robotics  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkw4rd/what_is_the_best_opensource_ai_agent_for_working/</guid>
-      <pubDate>Fri, 22 Mar 2024 10:34:35 GMT</pubDate>
     </item>
     <item>
       <title>从事人工智能相关领域的人，如果不是程序员，可以从事哪些相关工作？</title>
@@ -90,13 +97,6 @@
       <pubDate>Fri, 22 Mar 2024 08:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>MedBright AI Investments Inc. (MBAI.c) 通过创新合作伙伴关系增强医疗保健运营</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkksog/medbright_ai_investments_inc_mbaic_enhances/</link>
-      <description><![CDATA[在医疗保健管理领域，技术进步在简化操作和改善患者护理方面发挥着关键作用。其中一项进步来自 MedBright AI Investments Inc.（CSE：MBAI，OTCQB：MBAIF），这是一家致力于投资尖端医疗保健技术解决方案的公司。  MBAI 最近宣布与加拿大著名医疗保健提供商 Rejuvenation Medical Group 达成另一项战略协议，旨在通过采用先进的人工智能技术彻底改变诊所运营。 其核心是合作伙伴关系在于 MBAI 的 MedMatrix AI 平台及其 AI Reporter 功能。该软件提供全面的数据报告和预测功能，为 Rejuvenation Medical Group 等诊所提供有关其运营的宝贵见解。  通过利用 MedMatrix AI Reporter，Rejuvenation 能够在分布于加拿大三个省的八家诊所网络中集中报告流程。 通过集成这项创新技术，Rejuvenation旨在优化资源利用、扩大诊所可及性并增加收入。  博士。 Rejuvenation Medical Group 的医疗总监兼皮肤科医生 Paul Kuzel 对 MedMatrix AI Reporter 的潜力表示了热情，并强调了它在诊所内识别改进机会的能力。 除了给 Rejuvenation Medical Group 带来的直接好处之外，此次合作证明了MBAI在医疗保健技术投资方面的专业知识。通过为 Rejuvenation 提供定制的人工智能解决方案，MBAI 展示了其为客户带来切实成果的承诺。  展望未来，MBAI 仍致力于培育战略合作伙伴关系，推动创新和改进医疗保健管理实践。  通过其协同投资组合，MBAI 继续将自己定位为寻求利用人工智能技术力量的医疗保健提供商值得信赖的合作伙伴。 完整新闻： https://financialpost.com/globe-newswire/rejuvenation-medical-group-of-canada-uses-medmatrix-ai-reporter-to-streamline-reporting-and-improve-operations 代表 MedBright AI Investments Inc. 发布   由   提交 /u/Califanoal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkksog/medbright_ai_investments_inc_mbaic_enhances/</guid>
-      <pubDate>Thu, 21 Mar 2024 23:23:50 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

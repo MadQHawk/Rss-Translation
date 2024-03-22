@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Mar 2024 18:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 21:12:13 GMT</lastBuildDate>
+    <item>
+      <title>适用于 DOS 的 Sound Blaster Emulator — PhilsComputerLab 开源 SBEMU 项目的视频概述</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bl6x82/sound_blaster_emulator_for_dos_video_overview_by/</link>
+      <description><![CDATA[       由   提交/u/r_retrohacking_mod2   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bl6x82/sound_blaster_emulator_for_dos_video_overview_by/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于本地 RAG 的 FOSS 嵌入式矢量存储 |绿洲数据库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bl6sd3/foss_embedded_vector_store_for_local_rag_oasysdb/</link>
+      <description><![CDATA[祝大家星期五快乐！ 我注意到这个子 Reddit 中的很多 Reddit 用户正在使用 RAG 管道构建应用程序。所以，我只想分享一个我一直在做的项目，OasysDB。 OasysDB 是一个易于使用的嵌入式向量存储，采用 HNSW 索引算法，致力于灵活存储向量。 为什么使用 OasysDB  完全嵌入式并且没有复杂的设置。只需使用 pip install oasysdb（适用于 Python）或 cargo add oasysdb（适用于 Rust）即可。 灵活的架构，可将数据与源文本或 URL 等向量一起存储。&lt; /li&gt; 增量索引；在集合中插入、更新或删除矢量记录，无需重建索引。 内置但可选的持久性，可将矢量集合保存到磁盘以供以后使用。  演示 这是一个 Google Colab 演示，我使用 OasysDB 和 HF Vision Transformer 创建了一个简单的图像相似性搜索系统：https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing 如果您决定尝试一下，请随时与我联系。我很乐意帮忙😁   由   提交/u/edwinkys  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bl6sd3/foss_embedded_vector_store_for_local_rag_oasysdb/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:47:38 GMT</pubDate>
+    </item>
     <item>
       <title>Burr：构建有状态人工智能应用程序的新框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1bl43sp/burr_a_new_framework_for_building_stateful_ai/</link>
-      <description><![CDATA[大家好！想分享我一直在做的事情——寻找我们可以支持的反馈/评论/贡献/新用户。  github.com/dagworks-inc/burr  如果您愿意视频概述而不是文本，我的合著者在这里浏览它：https： //www.loom.com/share/a10f163428b942fea55db1a84b1140d8?sid=1512863b-f533-4a42-a2f3-95b13deb07c9。我们还有一篇博文对此进行了很好的总结：https://blog.dagworks.io /p/burr-develop-stateful-ai-applications。  我们试图解决的问题是大多数人工智能代理/聊天机器人框架过于关注“魔法”。 -- 例如以一种创建引人注目的演示的方式将 LLM 调用连接在一起，但在生产中绝对是一团糟。  当我开发时，我真的希望完全控制代码（或委托给我选择的框架），并了解应用程序中随时发生的所有情况。经过一些尝试/错误，我们提出了状态机的基本抽象。对于软件工程来说，这并不是什么新鲜事（前端/游戏/等等……一直在使用这种模型），但我认为人们才刚刚开始更严格地思考人工智能应用程序，并将开始抛弃复杂的框架。那些启用可见性/调试的。 Burr 通过定义“操作”来工作。作为从状态读取/写入的Python函数，然后在应用程序中将它们连接在一起。它配备了遥测 UI + 大量集成/功能。它使您能够跟踪状态、调试状态更改并从任意点重新加载，以确定您的应用程序为何做出该决定。 有趣的是，我们认为该模型比人工智能应用程序更有价值。例如，机器学习训练例程和模拟都可以很好地表示为状态机。  寻找：  反馈——这个问题有意义/真实吗？关于存储库/交付我们可以改进的任何方面。 用户 - 如果您在生产中使用 LLM（或任何需要状态的东西）进行构建并发现这很有趣，我们很乐意进行自定义入门。请给我写信！ 贡献者 - 我们已经收集了一些很好的第一期，并且有很多集成功能需要构建，一直来自 python API -&gt; FE，如果您有兴趣，请联系    由   提交 /u/benizzy1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！想分享我一直在做的事情——寻找我们可以支持的反馈/评论/贡献/新用户。  github.com/dagworks-inc/burr  如果您愿意视频概述而不是文本，我的合著者在这里浏览它：https： //www.loom.com/share/a10f163428b942fea55db1a84b1140d8?sid=1512863b-f533-4a42-a2f3-95b13deb07c9。我们还有一篇博文对此进行了很好的总结：https://blog.dagworks.io /p/burr-develop-stateful-ai-applications。  我们试图解决的问题是大多数人工智能代理/聊天机器人框架过于关注“魔法”。 -- 例如以一种创建引人注目的演示的方式将 LLM 调用连接在一起，但在生产中绝对是一团糟。  当我开发时，我真的希望完全控制代码（或委托给我选择的框架），并了解应用程序中随时发生的所有情况。经过一些尝试/错误，我们提出了状态机的基本抽象。对于软件工程来说，这并不是什么新鲜事（前端/游戏/等等……一直在使用这种模型），但我认为人们才刚刚开始更严格地思考人工智能应用程序，并将开始抛弃复杂的框架。那些启用可见性/调试的。 Burr 通过定义“操作”来工作。作为从状态读取/写入的Python函数，然后在应用程序中将它们连接在一起。它配备了遥测 UI + 大量集成/功能。它使您能够跟踪状态、调试状态更改并从任意点重新加载，以确定您的应用程序为何做出该决定。 有趣的是，我们认为该模型比人工智能应用程序更有价值。例如，机器学习训练例程和模拟都可以很好地表示为状态机。  寻找：  反馈——这个问题有意义/真实吗？关于存储库/交付我们可以改进的任何方面。 用户 - 如果您在生产中使用 LLM（或任何需要状态的东西）进行构建并发现这很有趣，我们很乐意进行自定义入门。请给我写信！ 贡献者 - 我们收集了一些很好的第一期，并且有很多集成功能需要构建，所有这些都来自 Python API -&gt; FE，如果您有兴趣，请联系    由   提交 /u/benizzy1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bl43sp/burr_a_new_framework_for_building_stateful_ai/</guid>
       <pubDate>Fri, 22 Mar 2024 16:57:09 GMT</pubDate>
     </item>
@@ -43,14 +57,14 @@
     <item>
       <title>感觉我开发开源软件的进度很慢，但是很稳定。你如何保持动力？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bkh0sf/feeling_my_progress_at_developing_open_source/</link>
-      <description><![CDATA[我的工作是为一家公司开发闭源软件，但我并没有 100% 的时间都有任务，所以在办公室的业余时间我致力于我的开源项目。 我正在以非常缓慢的速度开发一个项目，也是因为要修复另一个被很多人意外使用的项目中的一些丑陋的错误。感觉要花很长时间。 如何让自己在如此缓慢的速度下保持动力？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
+      <description><![CDATA[我的工作是为一家公司开发闭源软件，但我并没有 100% 的时间都有任务，所以在办公室的业余时间我致力于我的开源项目。 我正在以非常缓慢的速度开发一个项目，也是因为要修复另一个被很多人意外使用的项目中的一些丑陋的错误。感觉要花很长时间。 在如此缓慢的速度下，你如何保持自己的动力？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bkh0sf/feeling_my_progress_at_developing_open_source/</guid>
       <pubDate>Thu, 21 Mar 2024 20:48:11 GMT</pubDate>
     </item>
     <item>
       <title>开源 PDF 编辑器 Redux？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bke33a/opensource_pdf_editor_redux/</link>
-      <description><![CDATA[做了一些研究（google-fu）并发现了这个 subreddit 和这篇文章： https://www.reddit.com/r/opensource/comments/dej32w/opensource_pdf_viewer_and_editor/ 现在，该帖子截至 /this/ 帖子已有 4 年历史，我想知道是否有人拥有他们所了解的最新工具，或者旧工具是否没有更新等等。我不想破坏旧帖子，也想根据我想要编辑的内容重新提出问题。 我从 Bitsavers 的大量扫描中发现了一份 PDF 文档- 在数据表/数据簿库中。 https://archive.org/details/bitsavers_necdatabooterCatalog_23751145 但是......所说的文件相当......荒谬。该文档的大部分内容都严重混乱。例如，它从文档第 236 页，到 239、240，然后到第 399 页，直到至少 407 页...非常混乱。 （编辑以上内容，结果是跳转到第 399 页是因为我打印了数据表的几个不同小节，/BUT/ 数据表的 /ARE/ 部分不合适，正如我在上述特定 archive.org页面，数据页237/238位于pdf页358-359） 所以我想要什么尝试做的是重新排序文档中的页面，然后尝试将文档重新提交回互联网档案馆？或者至少上传一个固定且按页面顺序排列的版本，以便人们可以打印出他们想要的数据表，而不必到处搜索相关页面？ 所以我想要使用的软件将在至少能够在略多于 400 页的文档（准确地说是 418 页）中重新排序页面 ​ 任何帮助将不胜感激。 &lt; /div&gt;  由   提交 /u/dracosilv   [链接] [评论]]]></description>
+      <description><![CDATA[做了一些研究（google-fu）并发现了这个 subreddit 和这篇文章： https://www.reddit.com/r/opensource/comments/dej32w/opensource_pdf_viewer_and_editor/ 现在，该帖子截至 /this/ 帖子已有 4 年历史，我想知道是否有人拥有他们所了解的最新工具，或者旧工具是否没有更新等等。我不想破坏旧帖子，也想根据我想要编辑的内容重新提出问题。 我从 Bitsavers 的大量扫描中发现了一份 PDF 文档。 - 在数据表/数据簿库中。 https://archive.org/details/bitsavers_necdatabooterCatalog_23751145 但是......所说的文件相当......荒谬。该文档的大部分内容都严重混乱。例如，它从文档第 236 页，到 239、240，然后到第 399 页，直到至少 407 页...非常混乱。 （编辑到上面，结果是跳转到第 399 页是因为我打印了数据表的几个不同小节，/BUT/ 数据表的 /ARE/ 部分不合适，正如我在上述特定 archive.org页面，数据页237/238位于pdf页358-359） 所以我想要什么尝试做的是重新排序文档中的页面，然后尝试将文档重新提交回互联网档案馆？或者至少上传一个固定且按页面顺序排列的版本，以便人们可以打印出他们想要的数据表，而不必到处搜索相关页面？ 所以我想要使用的软件将在至少能够在略多于 400 页的文档（准确地说是 418 页）中重新排序页面 ​ 任何帮助将不胜感激。 &lt; /div&gt;  由   提交 /u/dracosilv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bke33a/opensource_pdf_editor_redux/</guid>
       <pubDate>Thu, 21 Mar 2024 18:47:50 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我最近发布了我一直在从事的开源项目的第一个版本。它是一款电子零件库存软件 - 完全免费且开源 (https://github.com/PartPilotLab/PartPilot)。我最初是为我的兄弟做的，因为他对订购他已经拥有的零件感到烦恼，或者在组装项目时注意到他实际上没有零件。所有现有的解决方案要么昂贵，要么糟糕。所以我做了一个替代方案。它具有几乎所有最重要的功能，并直接与 LCSC 集成（但仍然缺乏一点）。 希望得到一些反馈，也许你们中的一些人愿意做出贡献:) 留下一颗星也意味着很多 ✨ Lenni   由   提交 /u/Len_Ki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bjniul/the_electronics_part_inventory_management/</guid>
       <pubDate>Wed, 20 Mar 2024 20:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>falion,一个开源的，用 Rust 编程的工具和板条箱，用于使用 CLI 或 GUI 快速、高效、异步/并行地抓取编程资源（如 stackoverflow）。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bji4cm/github_obscurelyfalion_an_open_source_programmed/</link>
-      <description><![CDATA[   /u/CrismarucAdrian  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bji4cm/github_obscurelyfalion_an_open_source_programmed/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Front Porch（Quartz 的一个分支）已在 Product Hunt 上推出！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bjhd7y/front_porch_a_fork_of_quartz_has_been_launched_on/</link>
-      <description><![CDATA[ 由   提交/u/josh_w_g   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bjhd7y/front_porch_a_fork_of_quartz_has_been_launched_on/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:17:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
