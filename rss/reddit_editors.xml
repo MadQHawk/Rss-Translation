@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 23 Mar 2024 15:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 18:14:24 GMT</lastBuildDate>
+    <item>
+      <title>寻找客户端监视器推荐</title>
+      <link>https://www.reddit.com/r/editors/comments/1blyqqt/looking_for_client_monitor_recommendation/</link>
+      <description><![CDATA[我将为一个故事片项目设置一个编辑套件，并且需要为其配备客户端监视器。我可能会使用 BlackMagic UltraStudio 设备。我想要一台 65 英寸-75 英寸的 OLED。有人有具体的建议吗？   由   提交/u/pnorden  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1blyqqt/looking_for_client_monitor_recommendation/</guid>
+      <pubDate>Sat, 23 Mar 2024 18:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>学分问题？共同编辑与附加编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1blyh1e/credits_question_coedited_vs_additional_editing/</link>
+      <description><![CDATA[您好，我是行业内的新 AE/编辑，最近兼职指导了我的第一个项目。  我设立了这个项目，并在 15 分钟的电影中剪辑了大约 13 分钟，然后才意识到，就我个人而言，我需要重新审视这个项目，因为它对我来说是如此个人化，而且我一直在挣扎完成编辑。我让一个朋友进去并在结尾处进行了通行证，然后我进去对其进行了创造性的调整，然后要求他们进去对音频等进行额外的清理，并且还给了他们在剪辑上进行通行证的自由在我再次进入并进行最后一次传递并确定画面锁定之前，先放下一些镜头以调整节奏。 当我开始制作制作人员名单时，我应该给他们什么样的标题？我们不是工会，也从未就具体头衔达成一致。我再次进行了 AE 准备、大部分剪辑工作，并将进行最后的转换、后排和交付，与他们一起对最终场景、音频和音频进行传递。时间线清理。 哪个出处会更正确？ 由“我”编辑“他们”附加编辑 或由“我”编辑&amp; ; “他们” 我觉得第一个更正确，因为我已经做了大部分工作来证明它的合理性，但我想确保这是正确的。谢谢！   由   提交/u/Desperate_W0nder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1blyh1e/credits_question_coedited_vs_additional_editing/</guid>
+      <pubDate>Sat, 23 Mar 2024 18:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>Final Cut 与 Davinci Resolve 进行简单但时尚的 Instagram 编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1blt54w/final_cut_vs_davinci_resolve_for_simple_but/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>PAR 2.0 4k 导出问题</title>
       <link>https://www.reddit.com/r/editors/comments/1bl31d8/par_20_4k_export_problems/</link>
-      <description><![CDATA[大家好，我们最新的短片遇到了一个问题。 该影片以 2.0 变形像素长宽比拍摄，并且我用 DOP 想要的框架编辑了这个。一切都很顺利，编辑完成，颜色分级和视觉效果完成，我拿起素材并再次复制所有变换，现在导出最终副本。 分辨率是 4096x1716 DCP Scope 格式，我尝试了两者Premiere 中的 PAR 1.0 方形像素导出设置以及 PAR 1.33 变形设置和 2.0 设置。导出后在经典媒体播放器上看起来不错。 那么问题出在哪里？问题是当我将视频上传到 vimeo 或 google Drive 时。当您暂停或快进或快退时，帧会发生移动，有时还会闪烁（请参见示例）。这很奇怪，因为以前未分级的镜头从来没有出现过问题。我查看了原始素材和编辑后的素材的属性，但设置是相同的（我将素材作为具有源分辨率和源设置的源分辨率的单个剪辑拾取）。 你们中有人遇到过此类问题吗？前？我正在考虑使用与我的框架相匹配的信箱导出影片。我不知道这是否是正确的方法。 系统规格： Ryzen 9 5600x、3060 RTX 12 GB、64 GB Ram 软件：  Adob​​e Premiere pro 用于编辑，Davinci Resolve 用于调色 素材规格： Apple Prores 4444、Anamorphic 2.0、4K &lt;!-- SC_ON - -&gt;  由   提交 /u/RavacholHenry   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我们最新的短片遇到了一个问题。 该影片以 2.0 变形像素长宽比拍摄，并且我用 DOP 想要的框架编辑了这个。一切都很顺利，编辑完成，颜色分级和视觉效果完成，我拿起素材并再次复制所有变换，现在导出最终副本。 分辨率是 4096x1716 DCP Scope 格式，我尝试了两者Premiere 中的 PAR 1.0 Square Pixels 导出设置以及 PAR 1.33 变形设置和 2.0 设置。导出后在经典媒体播放器上看起来不错。 那么问题出在哪里？问题是当我将视频上传到 vimeo 或 google Drive 时。当您暂停或快进或快退时，帧会发生移动，有时还会闪烁（请参见示例）。这很奇怪，因为以前未分级的镜头从来没有出现过问题。我查看了原始素材和编辑后的素材的属性，但设置是相同的（我将素材作为具有源分辨率和源设置的源分辨率的单个剪辑拾取）。 你们中有人遇到过此类问题吗？前？我正在考虑使用与我的框架相匹配的信箱导出影片。我不知道这是否是正确的方法。 系统规格： Ryzen 9 5600x、3060 RTX 12 GB、64 GB Ram 软件：  Adob​​e Premiere pro 用于编辑，Davinci Resolve 用于调色 素材规格： Apple Prores 4444、Anamorphic 2.0、4K &lt;!-- SC_ON - -&gt;  由   提交 /u/RavacholHenry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bl31d8/par_20_4k_export_problems/</guid>
       <pubDate>Fri, 22 Mar 2024 16:12:58 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>这里有 DIT 吗？第一次进入现场。需要大佬指导。</title>
       <link>https://www.reddit.com/r/editors/comments/1bkyw84/any_dits_here_first_timer_going_into_the_field/</link>
-      <description><![CDATA[所以我是一名剪辑师和调色师，在该领域拥有近十年的经验。但随着工作进度放缓，我正在考虑承担 DIT 工作，尝试将我的调色师服务与其他公司服务捆绑在一起使用。  我正在寻找一台 MacBook (😔)，以使用 Codex 软件与我们的 Mini LF 配对并使用 HDE 工作流程。问题是，我们是一家基于 Windows 的机构，所以我不知道我应该在 MacBook 中寻找什么。除了尝试熟悉操作系统之外，我从未使用过 MacBook 做其他事情，而且我讨厌它，所以我最终需要进行重大调整才能熟练使用它。所以任何帮助都会很棒。  我有一些较小的演出，客户将从我们那里租用相机，例如短片和音乐视频，低于 5TB 的镜头。在开始拍摄之前，我真的很想了解 HDE 工作流程的细节。我在 YouTube 上发现很少有视频没有详细介绍如何优化 MacBook 上的传输速度、硬盘站和软件演练。如果此工作流程有效，我们将利用 Mini LF open gateway ARRIRAW 来记录 Codex 驱动的媒体。   需要一台 MacBook，可以使用/翻新，因为我只是在试水 DIT 工作。  如何实际使用 Codex 软件。我做过研究，似乎需要一个卸载软件，我的大学教授推荐了这个软件。  我的移动工作站还需要什么？用于快速卸载的 SSD、用于快速备份的 Thunderbolt HDD、连接到 ProRes 422 LT 的 blackmagic 代理生成器、可让所有设备保持插入状态并在一天 10 小时内供电的便携式电站。   我还缺少什么吗？任何指导将不胜感激。提前致谢！    由   提交 /u/Thermal_graphics   [链接] [评论]]]></description>
+      <description><![CDATA[所以我是一名剪辑师和调色师，在该领域拥有近十年的经验。但随着工作进度放缓，我正在考虑承担 DIT 工作，尝试将我的调色师服务与其他公司服务捆绑在一起使用。  我正在寻找一台 MacBook (😔)，以使用 Codex 软件与我们的 Mini LF 配对并使用 HDE 工作流程。问题是，我们是一家基于 Windows 的机构，所以我不知道我应该在 MacBook 中寻找什么。除了尝试熟悉操作系统之外，我从未使用过 MacBook 做其他事情，而且我讨厌它，所以我最终需要进行重大调整才能熟练使用它。所以任何帮助都会很棒。  我有一些较小的演出，客户将从我们这里租用相机，例如短片和音乐视频，低于 5TB 的镜头。在开始拍摄之前，我真的很想了解 HDE 工作流程的细节。我在 YouTube 上发现很少有视频没有详细介绍如何优化 MacBook 上的传输速度、硬盘站和软件演练。如果此工作流程有效，我们将利用 Mini LF open gateway ARRIRAW 来记录 Codex 驱动的媒体。   需要一台 MacBook，可以使用/翻新，因为我只是在试水 DIT 工作。  如何实际使用 Codex 软件。我做过研究，似乎需要一个卸载软件，我的大学教授推荐了这个软件。  我的移动工作站还需要什么？用于快速卸载的 SSD、用于快速备份的 Thunderbolt HDD、连接到 ProRes 422 LT 的 blackmagic 代理生成器、可让所有设备保持插入状态并在一天 10 小时内供电的便携式电站。   我还缺少什么吗？任何指导将不胜感激。提前致谢！    由   提交 /u/Thermal_graphics   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkyw84/any_dits_here_first_timer_going_into_the_field/</guid>
       <pubDate>Fri, 22 Mar 2024 13:11:39 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以我通常通过邮件向制作人写信，这是一种冷漠的方式，这意味着我以前从未与他们接触过。他们通常对我的邮件和作品集回复得很好，但我在与他们保持联系时遇到了问题。因此，我正在考虑更多地使用我的 LinkedIn，但想知道这里的其他人是如何做到这一点的。  您是在 LinkedIn 上亲自写信给他们还是在第一次邮件联系后才与他们联系？也许在联系后立即给他们写一些东西并对他们的帖子发表评论？到目前为止，我还没有真正在 LinkedIn 上发帖，所以感觉我的联系实际上并没有为我做任何事情，因为如果我们还没有一起工作，他们仍然不会记得我。 &lt; !-- SC_ON --&gt;  由   提交 /u/Zeigerful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkyseu/how_do_you_stay_conntected_with/</guid>
       <pubDate>Fri, 22 Mar 2024 13:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 仍然是获得视频编辑客户端的选择吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bky0sl/is_facebook_still_an_option_to_get_video_editing/</link>
-      <description><![CDATA[或者我应该花更多时间在 Instagram 上？在 2024 年，获得客户的最佳选择是什么？    由   提交 /u/thetrippykid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bky0sl/is_facebook_still_an_option_to_get_video_editing/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理版权/盗版问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bkxu9g/how_do_you_deal_with_copyrightpiracy/</link>
-      <description><![CDATA[这对您来说有问题吗？你如何处理，例如非法重新上传或未经授权使用您的视频（尤其是在没有 Content ID 的 YouTube 之外）？我和两个朋友目前正在开发一个视频反向搜索引擎，我们打算很快将其打造为一家初创公司，我们希望获得一些反馈，了解人们是否对此感兴趣以及他们会用它做什么。 除了“正常”之外反向搜索引擎（您上传视频并找出该视频在网络上弹出的位置），我们打算建立一个专门用于处理盗版的平台。该过程将是这样的：您将视频上传到网络平台上，然后当我们在互联网上的某个地方找到您的视频时不断收到通知，以便您可以监控您的内容在网络上的使用情况。 你会用这样的东西吗？这不是广告，因为该平台还不存在（尽管我们已经有了一个可用的技术原型）   由   提交 /u/thegentlecat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bkxu9g/how_do_you_deal_with_copyrightpiracy/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

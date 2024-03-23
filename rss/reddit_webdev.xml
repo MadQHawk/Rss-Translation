@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 15:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 18:14:56 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个工具来直接在您的数据库上运行 LLM</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blys0r/i_built_a_tool_to_run_llms_directly_on_your/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交 /u/Tylernator   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blys0r/i_built_a_tool_to_run_llms_directly_on_your/</guid>
+      <pubDate>Sat, 23 Mar 2024 18:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SvelteKit 和 Skeleton UI 构建的作者网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blylyf/author_website_built_with_sveltekit_skeleton_ui/</link>
+      <description><![CDATA[嗨r/webdev！ 我是 Andrea Cerasoni，一位有抱负的奇幻作家，今天我要分享我用 SvelteKit 构建的网站和骨架 UI 组件： https: //andreacerasoni.com/ 该网站旨在成为一个汇集我的博客、时事通讯和书籍的平台。它使用各种技术（大部分是开源的）构建并托管在 Kubernetes 上，主要目标是 1. 高性能、2. 稳定、3. 低维护和 4. 成本效益。我很乐意回答任何对技术堆栈感兴趣的人的问题。  该项目仍处于试点模式（目前为 v0.0.9），我正在寻求反馈和建议，为大版本 v1.0.0 做准备！ 非常感谢:) ​ ​   由   提交/u/andreacerasoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blylyf/author_website_built_with_sveltekit_skeleton_ui/</guid>
+      <pubDate>Sat, 23 Mar 2024 18:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了Material UI 之外还有其他开源和免费的 React 组件库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bly8x2/aside_from_materials_ui_is_there_other_opensource/</link>
+      <description><![CDATA[我已经达到了基本 css/html/js 的限制，我想从头开始构建一个有能力的网站。不过，我并不是说构建每个组件，因为我觉得这是浪费时间，您最喜欢的组件库是什么？   由   提交/u/Round_Astronomer_89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bly8x2/aside_from_materials_ui_is_there_other_opensource/</guid>
+      <pubDate>Sat, 23 Mar 2024 17:51:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何指示一个节点有子节点并且可以扩展？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bly06m/how_should_i_indicate_that_a_node_has_children/</link>
+      <description><![CDATA[      仓库：https://github.com/Mezzichai/botanical-lineage-tracker/tree/main/frontend/src/features/lineage-tree&lt; /a&gt; 我的项目涉及一棵树，根据屏幕宽度和树中先前的节点数量，每个节点只能显示这么多子节点。如果显示的节点多于条形图，我想要某种指示器/按钮，将用户带到不同页面或其他页面上的子树。 https://preview.redd.it/lkmt0a7pe4qc1.png?width=1402&amp;format=png&amp; ;auto=webp&amp;s=ce34420cccddab206233fc3a8302f673cd022ebd 例如，如果“child 1”（第二张图片）的子级数量多于显示的数量，我希望指出这一点。 &lt; a href=&quot;https://preview.redd.it/4yv8xcppe4qc1.png?width=215&amp;format=png&amp;auto=webp&amp;s=d54657a8fa620961e1903b62c72198a807868225&quot;&gt;https://preview.redd.it/4yv8xcppe4qc1.png?width =215&amp;format=png&amp;auto=webp&amp;s=d54657a8fa620961e1903b62c72198a807868225 我不知道如何以清晰的方式表明这一点。也许有连接线的东西？ 最后一张照片是我的一个想法的早期版本，某种“文件夹”。效果，可以有一些悬停动画。事实上，在我看来，它并没有非常清楚地表明这一点。 https://preview.redd.it/pxhdczjqe4qc1.png?width=267&amp;format=png&amp;auto=webp&amp;s=f5f4ef7c40e33341323f45f185d98fdec 02d8499 如果如果您认为使用树或其他任何东西的整个方法是一个坏主意，我也愿意听到这一点。   由   提交 /u/Mezzichai   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bly06m/how_should_i_indicate_that_a_node_has_children/</guid>
+      <pubDate>Sat, 23 Mar 2024 17:41:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一些反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blxkxr/i_need_of_some_feedback/</link>
+      <description><![CDATA[我不是网络开发人员或类似的人，但我对 HTML、CSS 和 JS 有一点了解，所以我创建了这个网站同时在空闲时间进一步了解这些内容。所以我只是想知道您对此的想法，是否有任何可以改进的地方。这是链接 - driftergames.com   由   提交/u/KPCGamer2017s  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blxkxr/i_need_of_some_feedback/</guid>
+      <pubDate>Sat, 23 Mar 2024 17:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我超出表格限制，Netlify 会自动收费吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blx743/does_netlify_charge_automatically_if_i_surpass/</link>
+      <description><![CDATA[嗨！  我正在考虑在 Netfily 上托管一个网站，但我不确定如何收费。  例如，如果我在一个月内提交的表单超过 100 份，他们会自动向我收取 19 美元，还是会“冻结”我的表单？是否需要进一步提交表格，并通知我是否要支付 19 美元，以防我希望在该月继续收到更多表格提交？ 希望我说得足够清楚。 &amp; #x200b;   由   提交 /u/racemi11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blx743/does_netlify_charge_automatically_if_i_surpass/</guid>
+      <pubDate>Sat, 23 Mar 2024 17:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ambiphone - 创建您自己的环境音乐、声音和白噪音的组合。现在可以作为 PWA 安装</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blvp32/ambiphone_create_your_own_mix_of_ambient_music/</link>
+      <description><![CDATA[       由   提交/u/matteason  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blvp32/ambiphone_create_your_own_mix_of_ambient_music/</guid>
+      <pubDate>Sat, 23 Mar 2024 16:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Codium 是否像 VS Code 一样支持 Angular/React 和 Node？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blvj33/does_vs_codium_support_angularreact_and_node_out/</link>
+      <description><![CDATA[谢谢   由   提交/u/Odd-Two5688  /u/Odd-Two5688 reddit.com/r/webdev/comments/1blvj33/does_vs_codium_support_angularreact_and_node_out/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blvj33/does_vs_codium_support_angularreact_and_node_out/</guid>
+      <pubDate>Sat, 23 Mar 2024 15:56:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capitals：重制已停产的文字游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blv2oq/capitals_remake_of_discontinued_word_game/</link>
+      <description><![CDATA[       Capitals 是 NimbleBit 于 2015 年发布的一款 iOS 文字策略游戏，但现已停产。我将其重新制作为网络应用程序！您可以在本地与 AI 或人类对战，或者创建一个帐户并单击 ONLINE &gt;随机加入在线比赛   由   提交/u/freshman_dev  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blv2oq/capitals_remake_of_discontinued_word_game/</guid>
+      <pubDate>Sat, 23 Mar 2024 15:38:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要学校项目建议：电子学习平台“Unifree”🎓</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bluxbo/need_suggestions_for_school_project_elearning/</link>
+      <description><![CDATA[      你好 Reddit！ 我正在与同学合作开展一个学校项目，名为Unifree的电子学习平台。我们的目标是创建一个免费的开源教育平台，该平台不仅内容丰富，而且引人入胜且有趣。我们添加了一些很酷的功能，但正在寻找更多想法以将其提升到一个新的水平！ Unifree 提供什么：  A响应式用户界面 包含教育内容和测验的资源库 游戏化功能，使学习保持兴奋，例如级别和排名（仍在开发中） 人们的评论与教育工作者和其他学生互动  我们乐于接受建议！我们正在向这个很棒的社区寻求新鲜、有创意的想法。无论您是学生、教育工作者，还是热爱学习的人，我们都希望收到您的来信：  哪些功能会让电子学习平台在您看来脱颖而出？ 您认为对学习者或教师有帮助的任何工具或资源吗？ 让学习体验更有吸引力或更高效的想法？  每条建议都是有价值并帮助我们学习和提高。感谢您帮助我们使这个学校项目变得非常特别！ 编辑：添加屏幕截图 https://preview.redd.it/v48uweubs3qc1.png?width=1117&amp;format=png&amp;auto=webp&amp;s=4dabcbe51580f623af2694 673edea4fd41cb1c19&lt; /p&gt; https://preview.redd。 it/bb4dp7jes3qc1.png?width=1117&amp;format=png&amp;auto=webp&amp;s=6ea000c75f671762048b1da7261001f195f8154f https://preview.redd.it/s3f9e4ghs3qc1.png?width=906&amp;format=png&amp;auto=webp&amp;s=e958ad90b8072 f8286225e4ea2d8c2c116f11931 https://preview。 redd.it/70zsen2ks3qc1.png?width=758&amp;format=png&amp;auto=webp&amp;s=f29be75cf36781e8eb17b712092a14441f477c75   由   提交/u/gattadagiyi   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bluxbo/need_suggestions_for_school_project_elearning/</guid>
+      <pubDate>Sat, 23 Mar 2024 15:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSDoc 作为替代 TypeScript 语法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blumlo/jsdoc_as_an_alternative_typescript_syntax/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blumlo/jsdoc_as_an_alternative_typescript_syntax/</guid>
+      <pubDate>Sat, 23 Mar 2024 15:18:42 GMT</pubDate>
+    </item>
     <item>
       <title>您是否从购买的模板中删除未使用的文件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bluc56/do_you_remove_unused_files_from_a_bought_template/</link>
@@ -29,86 +106,9 @@
     <item>
       <title>如何找到欣赏品质的客户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1blt693/how_to_find_clients_who_can_appreciate_quality/</link>
-      <description><![CDATA[自 2008 年以来，我一直是一名全栈自由 Web 开发人员，主要为专门从事高度复杂的 Web 应用程序和高质量网站的机构工作。&lt; /p&gt; 我一直是一个完美主义者，优先考虑质量而不是数量。通过这些机构，我为银行交付了项目，要求网站通过多项安全审核，为政府项目提供全面的审核，还为具有疯狂性能和 SEO 要求的大公司交付项目。 由于这一重点，我始终如一地交付高质量的工作，即使客户没有明确要求。 但是，此时，我已准备好从为代理机构工作转向推出自己的网站并直接寻找客户。  为了研究竞争对手，我进行了谷歌搜索。在查看了前 200 个随机结果中的 40 个后，我感到震惊（我住在匈牙利，你的结果可能会有所不同）。 竞争绝对是可怕的。在这 40 个产品中，我相信大概有 2-3 个产品能够达到我十年前生产的质量。事实上，我认为我 83 岁的邻居在与 Bricks 一起学习 WP 一个周末后可以创造更好的成绩。这显然有些夸张，但也不算夸张。 那么，我该怎么办呢？我觉得我什至没有和这些人做同样的工作，但显然这就是市场想要的。 我不知道如何与他们竞争。我通常不向客户提供 CMS，因为他们无法维持我提供的质量。现在我不得不与主要使用 WP 和预制主题和插件的人竞争。  （如果您使用 WP 和预制主题，请不要生我的气，如果您知道自己在做什么，那没有什么问题。） 寻找客户如果谁能欣赏我提供的服务，我首先需要向他们介绍什么是静态网站、性能如何影响用户满意度、用户体验如何影响用户体验以及 a11y 如何扩大客户群。 但我提供的产品与竞争对手之间的差异甚至不仅仅是这些。我什至无法清楚地表达出来，但我可以举一些例子：一些竞争对手的网站有不可点击的徽标，按钮上没有悬停效果，没有任何类型验证的联系表单，当您尝试单击它们时下拉菜单会消失，等等. 当客户通常期望并且显然对几乎无法使用鼠标进行导航感到满意时，我该如何向客户介绍无鼠标导航的重要性？当他们似乎对首页上的 3.4mb png 感到满意时，我该如何说服他们相信高性能的好处，例如适当的图像尺寸和格式？ 老实说，我认为质量的某些方面甚至超过了这个专门的社区。例如，对我来说，一个普通的按钮不仅有悬停状态，还有悬停状态。它具有不同的属性，具体取决于指针媒体查询、悬停媒体查询、活动状态、焦点和焦点可见状态。但对于普通用户来说这只是一个按钮。很难解释为什么它更好，这只是一个小例子，这样的事情有数百个。 我不知道该怎么办。我觉得尝试也没有意义。我提供的产品甚至不一定更贵，但不知怎的，我仍然需要让自己与众不同，考虑到我和竞争对手之间的巨大差异，我不知道如何做到这一点。 我可能会尝试为了在更先进的国家找到客户，我认为我的书面英语至少足够好，但我怀疑我在那里也会遇到同样的问题，只是程度较轻。 道歉帖子的长度，抱歉，如果我看起来在吹牛，如果你看到我的竞争对手，你就会理解。  如果有任何建议，我将不胜感激。   由   提交 /u/Baldric   [链接] [评论]]]></description>
+      <description><![CDATA[自 2008 年以来，我一直是一名全栈自由 Web 开发人员，主要为专门从事高度复杂的 Web 应用程序和高质量网站的机构工作。&lt; /p&gt; 我一直是一个完美主义者，优先考虑质量而不是数量。通过这些机构，我为银行交付了项目，要求网站通过多项安全审核，为政府项目提供全面的审核，还为具有疯狂性能和 SEO 要求的大公司交付项目。 由于这一重点，我始终如一地交付高质量的工作，即使客户没有明确要求。 但是，此时，我已准备好从为代理机构工作转向推出自己的网站并直接寻找客户。  为了研究竞争对手，我进行了谷歌搜索。在查看了前 200 个随机结果中的 40 个后，我感到震惊（我住在匈牙利，你的结果可能会有所不同）。 竞争绝对是可怕的。在这 40 个产品中，我相信大概有 2-3 个产品能够达到我十年前生产的质量。事实上，我认为我 83 岁的邻居在与 Bricks 一起学习 WP 一个周末后可以创造更好的成绩。这显然有些夸张，但也不算夸张。 那么，我该怎么办呢？我觉得我什至没有和这些人做同样的工作，但显然这就是市场想要的。 我不知道如何与他们竞争。我通常不向客户提供 CMS，因为他们无法维持我提供的质量。现在我不得不与主要使用 WP 和预制主题和插件的人竞争。  （如果您使用 WP 和预制主题，请不要生我的气，如果您知道自己在做什么，那没有什么问题。） 寻找客户如果谁能欣赏我提供的服务，我首先需要向他们介绍什么是静态网站、性能如何影响用户满意度、用户体验如何影响用户体验以及 a11y 如何扩大客户群。 但我提供的产品与竞争对手之间的差异甚至不仅仅是这些。我什至无法清楚地表达出来，但我可以举一些例子：一些竞争对手的网站有不可点击的徽标，按钮上没有悬停效果，没有任何类型验证的联系表单，当您尝试单击它们时下拉菜单会消失，等等. 当客户通常期望并且显然对几乎无法使用鼠标进行导航感到满意时，我该如何向客户介绍无鼠标导航的重要性？当他们似乎对首页上的 3.4mb png 感到满意时，我该如何说服他们相信高性能的好处，例如适当的图像尺寸和格式？ 老实说，我认为质量的某些方面甚至超过了这个专门的社区。例如，对我来说，一个普通的按钮不仅有悬停状态，还有悬停状态。它具有不同的属性，具体取决于指针媒体查询、悬停媒体查询、活动状态、焦点和焦点可见状态。但对于普通用户来说这只是一个按钮。很难解释为什么它更好，这只是一个小例子，这样的事情有数百个。 我不知道该怎么办。我觉得尝试也没有意义。我提供的产品甚至不一定更贵，但不知怎的，我仍然需要让自己与众不同，考虑到我和竞争对手之间的巨大差异，我不知道如何做到这一点。 我可能会尝试为了在更先进的国家找到客户，我认为我的书面英语至少足够好，但我怀疑我在那里也会遇到同样的问题，只是程度较轻。 道歉帖子的长度，抱歉，如果我似乎在吹牛，如果你看到我的竞争对手，你就会理解。  如果有任何建议，我将不胜感激。   由   提交 /u/Baldric   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1blt693/how_to_find_clients_who_can_appreciate_quality/</guid>
       <pubDate>Sat, 23 Mar 2024 14:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js 项目 - (Blogify)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blt15z/project_nodejs_blogify/</link>
-      <description><![CDATA[嗨，有没有人在 Node js 中使用 EJS 模板渲染（首选）或使用 meern stack 完成项目，其功能类似于关注、取消关注用户评论，类似的草稿，如果您创建了此类类型的项目，请告诉我...   由   提交 /u/Adept_Data_6153   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blt15z/project_nodejs_blogify/</guid>
-      <pubDate>Sat, 23 Mar 2024 14:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑从设计转向有限元开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blsq0r/thinking_about_shifting_from_design_to_fe/</link>
-      <description><![CDATA[我实际上学的是 CS，并于 2021 年毕业。我喜欢编码，但不是最好的。我不是最聪明的人，但喜欢创建自己的小项目。说实话，当我在大学时，我对前端和 ui/ux 设计师的角色一无所知。我只是受到影响，相信如果我不能写代码，我就很糟糕，而且我不值得。我也有一些健康问题。  相比之下，代码通常是准确的。我至少可以在出现问题时指出并更自信地解释我的决定。还有更多的深度。我只是偶尔在figma上推像素。 我喜欢设计和开发。 出于某种原因，我认为我会成为一个比开发人员更好的设计师。我想我爱上了所有精彩的 YouTube 视频。我认为“协作”、“为用户辩护”、“在谈判桌上占有一席之地”会很有趣。事实上，我和业内其他一些资深设计师交谈过，他们似乎都失去了灵魂。对他们的工作充满热情，但似乎精疲力尽。 在获得一些设计师经验后，我想我不想要那种权力。很多设计都是一团糟。我们不知道自己在做什么。我们谈了很多，但从未做出决定。我的思绪有些散乱。我从来没有处于那种心流状态。 最重要的是我无法自己独立工作。有很多移动部件和障碍。有很多人参与其中。 这很有趣，但我觉得我有能力做更多的事情，并且可能可以完成更多的工作并获得更多的报酬。更不用说科技行业的黯淡状况和自动化的未来。 但另一方面，我不确定是否想花一整天的时间在键盘上打字。 &lt; p&gt;另一个让我震惊的认识。有一天我会成为一名经理。我认为我不能自信地领导一个团队。设计决策非常困难且充满歧义。我在与我的经理和产品经理交谈时意识到了这一点。 相比之下，代码通常是准确的。我至少可以在出现问题时指出并更自信地解释我的决定。还有更多的深度。我只是有时会在 Figma 上推送像素。 我喜欢 SaaS 行业，并且可能会在这个领域工作，但很明显，公司需要更多的开发人员而不是设计师。发展技能在未来会更有价值。 我也意识到，无论我选择哪条道路，我的工作满意度和成长很大程度上取决于公司。我不想到了 30 岁才意识到自己做了错误的决定。 有人能给我建议吗。   由   提交/u/prisonmike_11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blsq0r/thinking_about_shifting_from_design_to_fe/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以在 Eclipse EE 上开发 React/Angular 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blsord/is_it_possible_to_develop_reactangular_on_eclipse/</link>
-      <description><![CDATA[谢谢   由   提交/u/Odd-Two5688  /u/Odd-Two5688 reddit.com/r/webdev/comments/1blsord/is_it_possible_to_develop_reactangular_on_eclipse/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blsord/is_it_possible_to_develop_reactangular_on_eclipse/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:53:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>高中生完成第一个网站 (dressful.me)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blsoi8/high_school_senior_finishes_first_website/</link>
-      <description><![CDATA[大家好！ 在过去的几个月里，我一直在致力于我的项目Dressful，我使用 React 制作的。有没有想过在特定情况下需要穿什么？ Dressful 是我解决这个困境的解决方案，因为它将使用 OpenAI 的 API 和亚马逊的畅销产品为您提供适合您的情况和风格的个性化服装。 我非常感谢快速浏览我的网站，并且总是欢迎为我的下一步工作提供任何反馈。 谢谢。   由   提交/u/Datiger_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blsoi8/high_school_senior_finishes_first_website/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个“npx CLI”来下载动态中间省略号（React/Vanilla）的组件。它可以处理所有用例并且非常高效。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blsodl/i_created_a_npx_cli_to_download_components_for/</link>
-      <description><![CDATA[   /u/GadwaliBORN   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blsodl/i_created_a_npx_cli_to_download_components_for/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 开发者工具经过重新设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blsmem/chrome_devtools_was_redesigned/</link>
-      <description><![CDATA[       由   提交/u/barhatsor  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blsmem/chrome_devtools_was_redesigned/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀]我终于有了我的人工智能视频审查应用程序的测试版:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blsah3/showoff_saturday_i_finally_have_my_beta_of_my_ai/</link>
-      <description><![CDATA[在过去的一个月里，我一直在构建一个网络应用程序来自动审查您上传到其中的任何视频。最初我为自己构建它只是为了清理一些电影和电视节目，然后意识到也许其他人会发现这很有用，所以我将它完全重建为一个 Web 应用程序。 构建：&lt; /p&gt; Wasp-Lang - 一个新的固执己见的 JS 全栈框架。 Nodejs、React、Prisma、Postgres。  Tailwind - 它真的让我着迷，我现在是它的信徒。 Ffmpeg.wasm - 所有视频编辑都是在本地完成的。 语音转文本Ai 模型 - 转录视频以获得所选单词的时间戳。  看看并告诉我你的想法！ https://bleepify.me   由   提交 /u/Front-Insurance9577    reddit.com/r/webdev/comments/1blsah3/showoff_saturday_i_finally_have_my_beta_of_my_ai/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blsah3/showoff_saturday_i_finally_have_my_beta_of_my_ai/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态网站引擎和 Bootstrap 之类的东西？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bls5af/static_website_engine_and_something_like_bootstrap/</link>
-      <description><![CDATA[对了，我上次涉足任何 webdev 是在 2017 年，所以不要严厉评判。 我需要生成一个比方说，该网站将拥有 10,000 个外观相同的页面。这些页面将有一些数字、表格，也许还有一些简单的交互式图表（或者只是图像）。我将提前预先生成它，因此不需要在后端进行任何智能操作。  我越来越相信我应该将其作为一个静态网站。雨果？鹈？ （我对 Python 最满意） Jekyll？在 github 页面上托管是理想的选择。 其次，这些页面并不是真正的博客或登陆页面，因此我需要进行一些前端编码。它不需要看起来很棒，但需要可用。 以前，我只是将一些引导块放在一起，然后就可以接受固执己见的外观。我仍然使用 Bootstrap 来定义模板吗？顺风？ 谢谢   由   提交/u/Alarmed_Crazy_6620   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bls5af/static_website_engine_and_something_like_bootstrap/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用 Eclipse 来处理 HTML/CSS/JavaScript 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bls4tm/can_i_use_eclipse_for_htmlcssjavascript/</link>
-      <description><![CDATA[所以我正在尝试制作一个完整的堆栈 Java 应用程序，所以我也需要在前端工作，我有一台旧电脑，所以 IntelliJ 已经淘汰了问题因为它冻结了，所以我只剩下 Eclipse，请问可以用它吗？谢谢大家   由   提交/u/Odd-Two5688  /u/Odd-Two5688 reddit.com/r/webdev/comments/1bls4tm/can_i_use_eclipse_for_htmlcssjavascript/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bls4tm/can_i_use_eclipse_for_htmlcssjavascript/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我喜欢一边解释代码一边画草图，所以我构建了一个一体化工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bls14c/i_like_sketching_while_explaining_code_so_ive/</link>
-      <description><![CDATA[      我是 Excalidraw（手绘风格的线框图工具）的忠实粉丝并自发布以来一直在使用它。它非常简单，类似于纸上草图，这就是我在编码时经常使用它的原因。最近，我开始寻找与其集成的扩展程序或应用程序，但找不到。 作为一名编码员，我决定在不收集任何人反馈的情况下构建它。我的理由是，即使其他人觉得它没有用，它仍然会让我受益。结果是一个最小的基于 Web 的代码编辑器，支持 HTML、CSS、JS、TS，并且还包括一些很酷的功能，例如 linting。 关于 Excalidraw，它不仅仅是将其放在一边。您可以使用 Excalidraw 元素连接文件中的代码片段。只需选择一段代码，右键单击，然后选择“与元素链接”即可。选项。之后，将鼠标悬停在代码上将突出显示 Excalidraw 选项卡中的相应元素。 我目前正在努力添加其他功能，例如文件导入和对前端框架的支持。我很想听听您的反馈。您认为这对开发人员有用，还是仅供我自己使用？  链接如下：https://echox.vercel.app/ &amp; #x200b; https:// Preview.redd.it/zgal6zi643qc1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=da29e702c5436fecd8072eb2e5859537790afb4c ​   由   提交/u/everkers  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bls14c/i_like_sketching_while_explaining_code_so_ive/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护私有 Spring Boot 端点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blrs82/securing_private_spring_boot_endpoints/</link>
-      <description><![CDATA[我有一个服务器 /api 和 /private/api 我想保护/private 只能在本地访问，不能通过互联网访问。我的假设是，我可以让专用端点仅侦听特定 IP，并将我的 VPN 连接到网关 VPN，该网关 VPN 连接到网络和子网，该网络和子网将为 Spring Boot 服务器托管虚拟机，从那里我可以以某种方式使用 Postman 进行呼叫从我的计算机到服务器端点。然而，经过更多搜索，我发现人们实际上可以欺骗 IP，从而使这种安全措施变得毫无价值。我的第二个想法是将这个项目分成两个 Spring Boot 项目，其中私有项目保存在完全不同的子网中，但这会使维护变得更加麻烦。  建立 Intranet + 专用端点连接的专业最佳方法是什么？   由   提交 /u/DecagramGameDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blrs82/securing_private_spring_boot_endpoints/</guid>
-      <pubDate>Sat, 23 Mar 2024 13:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
