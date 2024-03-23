@@ -4,13 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 09:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 12:23:16 GMT</lastBuildDate>
     <item>
-      <title>洛菲流。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blns4m/lofi_flow/</link>
-      <description><![CDATA[嘿，我开发了这个名为 lofi-flow 的小型网络应用程序。这是一个低保真广播电台。对于有关附加功能的一些反馈和潜在想法，我将不胜感激。 😀  ​ 网站：https://lofi-flow.vercel。 app/ 仓库：https://github.com/nico-mayer/lofi-flow&lt; /a&gt;   由   提交/u/kabaday94  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blns4m/lofi_flow/</guid>
-      <pubDate>Sat, 23 Mar 2024 09:01:01 GMT</pubDate>
+      <title>将 React 项目转换为 Angular 时如何处理 Azure cli 身份验证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blqw4h/how_to_deal_with_azure_cli_authentication_while/</link>
+      <description><![CDATA[我接到了将 React 项目转换为 Angular 的任务。该项目使用 Azure cli 进行身份验证。如何将此身份验证添加到我的新网站 Angular 副本中？   由   提交/u/The_artist_999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blqw4h/how_to_deal_with_azure_cli_authentication_while/</guid>
+      <pubDate>Sat, 23 Mar 2024 12:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的在线短篇小说库的吸引力如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blqhe3/how_engaging_is_my_online_short_story_library/</link>
+      <description><![CDATA[   /u/ECLipse10   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blqhe3/how_engaging_is_my_online_short_story_library/</guid>
+      <pubDate>Sat, 23 Mar 2024 11:58:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个类似 Photoshop 战斗的地方，但针对的是 ai 图像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blqgn9/i_made_a_place_similar_photoshop_battles_but_for/</link>
+      <description><![CDATA[曾经有一个网站，人们可以根据帖子标题上传经过 Photoshop 处理的图像。人们创造了一些令人惊奇的东西。可悲的是，该网站是多年前购买的，他们迷失了方向。  我发现尝试根据特定类别生成图像很有趣（令人沮丧）。考虑到 Photoshop 网站，我认为这将是一个尝试带来类似内容的好机会。希望您喜欢浏览它。即使您只是想说它很丑，也欢迎所有反馈。  https://www.keywordbattle.com &lt;!-- SC_ON - -&gt;  由   提交/u/Weapon54x  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blqgn9/i_made_a_place_similar_photoshop_battles_but_for/</guid>
+      <pubDate>Sat, 23 Mar 2024 11:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于查找页面模板中的视觉差异的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blq5q7/tool_to_find_visual_differences_in_page_templates/</link>
+      <description><![CDATA[我们希望完善/简化 WooCommerce 商店的设计。当我们使用原型时，我们不得不时不时地做出一些改变，并即时实现新功能。首先，我们想比较一下现状。有谁知道有一种工具可以查看浏览器呈现的每个页面模板的示例页面并巧妙地可视化标准元素的差异？   字体样式和文本对齐 元素间距 按钮样式 动画/交互行为  显然，这样的工具无法看到所有差异，但它可以作为更简化设计的起点。    由   提交 /u/oslogrolls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blq5q7/tool_to_find_visual_differences_in_page_templates/</guid>
+      <pubDate>Sat, 23 Mar 2024 11:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] Identeapots - 用于生成酷炫 Identicons 头像的 Typescript 库 ☕</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blps88/showoff_saturday_identeapots_a_typescript_library/</link>
+      <description><![CDATA[      ​&lt; /p&gt; 生成的标识符 （请是星期六，我不擅长时区） 你好/r/webdev 社区！ 🥳 在周六展示，我想与我的一个朋友分享我最近正在做的事情。我们创建了一个名为 Identeapots 的 TypeScript 库 - 一个古怪、简单的工具，旨在为您的项目生成独特的标识头像。非常适合论坛、评论部分或任何需要个性的应用程序中的用户头像！ 该库位于 NPM，代码可在 GitHub 上找到。尝试一下！   由   提交 /u/FerroHD   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blps88/showoff_saturday_identeapots_a_typescript_library/</guid>
+      <pubDate>Sat, 23 Mar 2024 11:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛菲流</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blpkma/lofi_flow/</link>
+      <description><![CDATA[       由   提交/u/kabaday94  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blpkma/lofi_flow/</guid>
+      <pubDate>Sat, 23 Mar 2024 11:01:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具来预览任何网站，而无需离开当前选项卡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blok9w/i_created_a_tool_to_preview_any_website_without/</link>
+      <description><![CDATA[       由   提交 /u/cocosin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blok9w/i_created_a_tool_to_preview_any_website_without/</guid>
+      <pubDate>Sat, 23 Mar 2024 09:55:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找 CMS。 wordpress 有点慢…</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blo63b/looking_for_a_cms_wordpress_is_kinda_slow/</link>
+      <description><![CDATA[嗨， 那里有大量的 CMS。所以我想知道我应该使用什么 有什么建议吗？它不需要特别或美丽。简单的内容管理系统。只是速度很快，并且具有用户角色（以便工作人员可以输入数据）。如此简单&amp;快速登录，放置一些文本、图片和视频（或者我将使用 youtube/bunnycdn 进行操作并链接它......） 简单的视频上传会很好。因为工作人员在bunnycdn/yt中单独上传很麻烦。  我不想编码（尽管我实际上是一个 React 开发者......）我一直在考虑使用无头 CMS + React 模板   由   提交 /u/JuriJurka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blo63b/looking_for_a_cms_wordpress_is_kinda_slow/</guid>
+      <pubDate>Sat, 23 Mar 2024 09:28:03 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个 JS 库来管理“全选”复选框。</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[我带着我 5 岁的孩子和我一起工作的一些高中生一起建立了网站。她非常兴奋，说她想学习如何自己制作。  我应该将她安排在 Wix 或 Squarespace 之类的地方吗？ WordPress？或者开始教她基本的 HTML？  我想培养她的兴趣，但又不会让她感到无聊或让她对学习如何在未来从头开始构建一个不感兴趣。    由   提交 /u/tysmama   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bllquu/5_year_old_wants_to_make_a_website_should_i_start/</guid>
       <pubDate>Sat, 23 Mar 2024 06:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>薪资应用程序的支付周期</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blljxw/pay_cycles_for_payroll_app/</link>
-      <description><![CDATA[任何人都可以提供关于实施薪酬周期（每周、每两周等）的最佳方式的任何想法或逻辑吗？ &lt; p&gt;处理日期和时间戳对我来说是一个挑战，这是实施薪资周期的核心部分。 任何有关开发此内容的知识或文章都很棒。  在 MERN 堆栈中进行开发以供参考。    由   提交 /u/Numerous-Cause9793    reddit.com/r/webdev/comments/1blljxw/pay_cycles_for_payroll_app/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blljxw/pay_cycles_for_payroll_app/</guid>
-      <pubDate>Sat, 23 Mar 2024 06:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们在 Chrome DevTools 中的 💫 表情符号附近添加了复活节彩蛋，有什么想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bljw2v/they_added_easter_egg_somewhere_near_emoji_in/</link>
-      <description><![CDATA[   /u/nSpaceTime  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bljw2v/they_added_easter_egg_somewhere_near_emoji_in/</guid>
-      <pubDate>Sat, 23 Mar 2024 04:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用什么来管理 PSQL 数据库（类似于“工作室”）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bljtjw/what_can_i_use_to_manage_a_psql_database_similar/</link>
-      <description><![CDATA[您好，我有一个小项目，该项目使用 psql 数据库，该数据库通过 Neon 无服务器托管，我想知道人们使用什么来直观地管理他们的数据库。我知道有流行的“工作室”像 Prisma 和 Drizzle 这样的选项，但我只使用普通的 sql 查询来进行后端的所有交互，并且不想使用 ORM 来改变我与数据库交互的方式。也许我只是新手，完全错过了一些东西，但任何想法/建议将不胜感激。谢谢！   由   提交/u/Mist35  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bljtjw/what_can_i_use_to_manage_a_psql_database_similar/</guid>
-      <pubDate>Sat, 23 Mar 2024 04:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从我的网站检查用户可用的内存？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bljgvc/way_to_check_users_available_ram_from_my_website/</link>
-      <description><![CDATA[正在开发一个反应三光纤项目，其中包含一些相当大的模型，这些模型会导致某些旧手机或低功耗设备上的延迟。我可以摆脱较弱设备上的一些繁琐模型，有没有办法检测这些是哪些设备？    由   提交 /u/OiaOrca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bljgvc/way_to_check_users_available_ram_from_my_website/</guid>
-      <pubDate>Sat, 23 Mar 2024 04:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找特定的包或反应组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blitq3/looking_for_a_specific_package_or_react_component/</link>
-      <description><![CDATA[嘿，想看看是否有人可以帮我在互联网上找到一个包，或者指导我找到此类组件的某种教程（请询问我来澄清您是否需要更多信息） 在移动屏幕上（以及鼠标悬停，如果适用的话），我想要一个“预览组件”这是当用户在手机屏幕上移动手指时靠近用户拇指（假设这是他正在使用的手指）的图像区域的放大（放大的图片在手指移动时平移整个图像） ​ 注意：react，而不是react-native ​ 任何提示或指导都会令人难以置信！ p&gt;   由   提交/u/Kinto_il   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blitq3/looking_for_a_specific_package_or_react_component/</guid>
-      <pubDate>Sat, 23 Mar 2024 03:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用屏幕阅读器测试网站的可访问性？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blhwjk/how_do_you_test_your_website_for_accessibility/</link>
-      <description><![CDATA[我主要使用 Chrome 上的 Wave 和 Axe 开发工具以及有时使用 Chrome 自己的 Lighthouse 进行测试。但是，如果我也想使用屏幕阅读器测试我的网站，我实际上该怎么做以及如何发现问题？另外，您只使用系统屏幕阅读器还是其他东西？   由   提交 /u/vangenta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blhwjk/how_do_you_test_your_website_for_accessibility/</guid>
-      <pubDate>Sat, 23 Mar 2024 02:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 Python 以外的语言编写人工智能应用程序是不是一个坏主意？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blg34m/is_it_a_bad_idea_to_write_an_ai_app_in_anything/</link>
-      <description><![CDATA[我开始使用 OpenAI API 构建一个由 AI 驱动的文本转换 Web 应用程序。我不打算使用开源模型进行任何自定义模型训练，因此它确实需要 Python。 虽然我最喜欢使用 Rails 作为后端，但这似乎并不像一个很适合这里。自从我之前使用过 Express 以来，我就考虑过它。我喜欢用一种语言拥有完整的堆栈，使用共享类型和模块等。 但是，我和这个项目中的其他人仍然倾向于使用 Python 和 Django 作为后端，尽管这是一个更陡峭的（但不是禁止的）学习曲线。诚实的原因是我们希望稍后出售该产品和代码库。我们估计，虽然它在 Python 中没有任何缺点，但如果不在 Python 中，可能会有缺点。但这种推理有道理吗？对于潜在买家来说，选择非 Python 堆栈会降低人工智能应用程序的价值吗？即使我们实际上并不打算使用 Python 更好的人工智能定制和训练功能？ 我很乐意解释更多信息，但我想尽可能简短。感谢您分享您对此的想法！   由   提交 /u/ManateeIdol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blg34m/is_it_a_bad_idea_to_write_an_ai_app_in_anything/</guid>
-      <pubDate>Sat, 23 Mar 2024 01:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
