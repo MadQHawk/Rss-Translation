@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:20:20 GMT</lastBuildDate>
+    <item>
+      <title>买笔记本电脑好不好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blldur/laptop_purchase_good/</link>
+      <description><![CDATA[      刚从亚马逊购买了这台笔记本电脑。适合网络开发吗？   由   提交/u/lwsteven  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blldur/laptop_purchase_good/</guid>
+      <pubDate>Sat, 23 Mar 2024 06:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>他们在 Chrome DevTools 中的 💫 表情符号附近添加了复活节彩蛋，有什么想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bljw2v/they_added_easter_egg_somewhere_near_emoji_in/</link>
+      <description><![CDATA[   /u/nSpaceTime  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bljw2v/they_added_easter_egg_somewhere_near_emoji_in/</guid>
+      <pubDate>Sat, 23 Mar 2024 04:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以使用什么来管理 PSQL 数据库（类似于“工作室”）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bljtjw/what_can_i_use_to_manage_a_psql_database_similar/</link>
+      <description><![CDATA[您好，我有一个小项目，该项目使用 psql 数据库，该数据库通过 Neon 无服务器托管，我想知道人们使用什么来直观地管理他们的数据库。我知道有流行的“工作室”像 Prisma 和 Drizzle 这样的选项，但我只使用普通的 sql 查询来进行后端的所有交互，并且不想使用 ORM 来改变我与数据库交互的方式。也许我只是这方面的新手，完全错过了一些东西，但任何想法/建议将不胜感激。谢谢！   由   提交/u/Mist35  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bljtjw/what_can_i_use_to_manage_a_psql_database_similar/</guid>
+      <pubDate>Sat, 23 Mar 2024 04:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从我的网站检查用户可用的内存？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bljgvc/way_to_check_users_available_ram_from_my_website/</link>
+      <description><![CDATA[正在开发一个反应三光纤项目，其中包含一些相当大的模型，这些模型会导致某些旧手机或低功耗设备上的延迟。我可以摆脱较弱设备上的一些繁琐模型，有没有办法检测这些是哪些设备？    由   提交 /u/OiaOrca   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bljgvc/way_to_check_users_available_ram_from_my_website/</guid>
+      <pubDate>Sat, 23 Mar 2024 04:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找特定的包或反应组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blitq3/looking_for_a_specific_package_or_react_component/</link>
+      <description><![CDATA[嘿，想看看是否有人可以帮我在互联网上找到一个包，或者指导我找到此类组件的某种教程（请询问我来澄清您是否需要更多信息） 在移动屏幕上（以及鼠标悬停，如果适用的话），我想要一个“预览组件”这是当用户在手机屏幕上移动手指时靠近用户拇指（假设这是他正在使用的手指）的图像区域的放大（放大的图片在手指移动时平移整个图像） ​ 注意：react，而不是react-native ​ 任何提示或指导都会令人难以置信！ p&gt;   由   提交/u/Kinto_il   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blitq3/looking_for_a_specific_package_or_react_component/</guid>
+      <pubDate>Sat, 23 Mar 2024 03:43:16 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用屏幕阅读器测试网站的可访问性？</title>
       <link>https://www.reddit.com/r/webdev/comments/1blhwjk/how_do_you_test_your_website_for_accessibility/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>有人知道 3d 展厅解决方案吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1blfxxq/anyone_know_of_any_3d_showroom_solutions/</link>
-      <description><![CDATA[我们想为一家厨房设计公司做一个网站，并想在网站上做一个3D展厅，或者一个应用程序。 &lt; p&gt;我在 Redfin 上看过一栋房子的 3D 演练，我猜房地产经纪人花了一天的时间就完成了。 如果不是 3D 陈列室方面，我会说 WordPress 会是标准解决方案，但我不确定 3d 方面是否会改变事情。 我知道 Three.js，但我不相信这是适合这项工作的工具，因为它看起来非常生动。  我发现了一个名为 Shapespark 的工具，但我只是想知道是否有人对如何构建它有任何想法。    ;由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
+      <description><![CDATA[我们想为一家厨房设计公司做一个网站，并想在网站上做一个3D展厅，或者一个应用程序。 &lt; p&gt;我在 Redfin 上看过一栋房子的 3D 演练，我猜房地产经纪人花了一天的时间就完成了。 如果不是 3D 陈列室方面，我会说 WordPress 会是标准解决方案，但我不确定 3d 方面是否会改变一些事情。 我知道 Three.js，但我不相信这是适合这项工作的工具，因为看起来非常生动。  我发现了一个名为 Shapespark 的工具，但我只是想知道是否有人对如何构建它有任何想法。    ;由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1blfxxq/anyone_know_of_any_3d_showroom_solutions/</guid>
       <pubDate>Sat, 23 Mar 2024 01:18:31 GMT</pubDate>
     </item>
@@ -36,7 +71,7 @@
     <item>
       <title>我为我的自托管项目制作了一个信息和资源网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</link>
-      <description><![CDATA[您好， 我很想获得一些有关我的自托管产品 HortusFox 的官方主页的反馈。  其目的是让用户对项目有一个印象，尝试演示，查看屏幕截图或下载其工作区的主题。 我不是一个优秀的设计师，但也许您可以给出一些提示，该主页是否足够赏心悦目，以及所提供的信息是否不会让您留下到处问号。 提前谢谢您！ &lt; p&gt;主页链接：https://www.hortusfox.com/    由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我很想获得一些有关我的自托管产品 HortusFox 的官方主页的反馈。  其目的是让用户对项目有一个印象，尝试演示，查看屏幕截图或下载其工作区的主题。 我不是一个优秀的设计师，但也许您可以给出一些提示，该主页是否足够赏心悦目，以及所提供的信息是否不会让您到处留下问号。 提前谢谢您！ &lt; p&gt;主页链接：https://www.hortusfox.com/    由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</guid>
       <pubDate>Sat, 23 Mar 2024 00:30:28 GMT</pubDate>
     </item>
@@ -62,7 +97,7 @@
       <pubDate>Fri, 22 Mar 2024 23:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>你好，我有一个问题，如何对这些圆圈进行编码，以便无论屏幕大小如何，它们都保持固定在一个位置？我正在使用 Reactjs。我有一个与产品类似的图像，我想放置指示器，但当我调整它们的大小时它们会移动。谁能帮助我更好地理解这一点？</title>
+      <title>你好，我有一个问题，如何对这些圆圈进行编码，以便无论屏幕尺寸如何，它们都保持固定在一个位置？我正在使用 Reactjs。我有一个与产品类似的图像，我想放置指示器，但当我调整它们的大小时它们会移动。谁能帮助我更好地理解这一点？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</link>
       <description><![CDATA[    /u/Adnannicetomeetyou   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</guid>
@@ -71,44 +106,9 @@
     <item>
       <title>有人可以通过 Wireshark 将您的 Wi-Fi 数据包发送到 HTTPS 连接吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</link>
-      <description><![CDATA[假设您在本地 WiFi 网络上请求一个 HTTPS 页面。 同一 LAN 中的其他人正在进行 Wireshark/嗅探周围并找到您的传出（甚至传入？）HTTPS/TCP 数据包以查看您请求的网页。 虽然数据包已加密并且并非全部一次性发送（由于 TCP 握手和协议）对于请求，理论上有人可以重新发送这些确切的数据包并基本上查看您请求的页面吗？如果数据包数据包含访问令牌，甚至可以查看您登录的页面？ 如果没有，其他人是否也可以在 Wireshark 上至少查看您请求的 URL？假设您没有使用 VPN？   由   提交/u/nazuralift89  [链接] [评论]]]></description>
+      <description><![CDATA[假设您在本地 WiFi 网络上请求了一个 HTTPS 页面。 同一 LAN 中的其他人正在进行 Wireshark/嗅探周围并找到您的传出（甚至传入？）HTTPS/TCP 数据包以查看您请求的网页。 虽然数据包已加密且并非全部一次性发送（由于 TCP 握手而导致多个数据包）协议）对于请求，理论上有人可以重新发送这些确切的数据包并基本上查看您请求的页面吗？如果数据包数据包含访问令牌，甚至可以查看您登录的页面？ 如果没有，其他人是否也可以在 Wireshark 上至少查看您请求的 URL？假设您没有使用 VPN？   由   提交/u/nazuralift89  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</guid>
       <pubDate>Fri, 22 Mar 2024 23:39:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在学习 Web 开发在未来 5 年后仍然值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bldp6x/learning_web_dev_right_now_still_worth_it_5_years/</link>
-      <description><![CDATA[我最近学习了 Web 开发，刚刚开始学习 javascript，我真的很喜欢它，我听到了很多关于“AI”的内容。现在就像“devin”一样我想知道从长远来看这是否值得，你认为这个职业现在和未来五年值得追求吗？我想听听您的想法，谢谢！   由   提交/u/Mahalkita12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bldp6x/learning_web_dev_right_now_still_worth_it_5_years/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找社交媒体和消息应用程序的深层链接 URL 列表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bldeyj/looking_for_a_list_of_deep_link_urls_for_social/</link>
-      <description><![CDATA[     &lt; /td&gt; 您好， 我希望我的用户能够通过社交媒体或消息共享联系人卡片应用。我了解共享 API，我需要处理其他情况。 我找不到详尽或最新的列表，而且服务对此并不真正透明。 我找不到它们的详尽或最新列表。 p&gt; 这是我迄今为止发现的内容。希望您会发现它有用。 谢谢:) https://preview.redd.it/ppzgg0yuzypc1.png?width=1551&amp;format=png&amp;auto=webp&amp;s=95f12e641fe6df5a3f34c85abd11 82c5c37b467e &lt; /div&gt;  由   提交/u/yule-never-know   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bldeyj/looking_for_a_list_of_deep_link_urls_for_social/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js TSC 确认：无意从发行版中删除 npm</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blcz4o/nodejs_tsc_confirms_no_intention_to_remove_npm/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blcz4o/nodejs_tsc_confirms_no_intention_to_remove_npm/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:04:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>被 Javascript 的语法和逻辑淹没</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blcih9/overwhelmed_by_javascripts_syntax_and_logic/</link>
-      <description><![CDATA[我已经编码了一段时间（总是使用 Java 和一点 Python），并且我正在尝试接触 Web 开发第一次。 在查看 JS 代码时，我很难理解发生了什么。 一堆单独挂起的浮动方法（就像那些 .then( ) 只是悬而未决)？ 将函数定义为常量？ 像 =()=&gt; 这样的奇怪且令人困惑的语法？&lt; /p&gt; 有时，函数后面会出现一些奇怪的调用，这些调用只是单独挂起？ “Lifecycles”、“promises”、“closures”、...？ &lt; p&gt;然后我看到一些关于状态、效果和其他我不知道的东西的讨论。 老实说，我只是不知所措，感觉学习 Web 开发或 JS 一般只是另一个游戏共。有没有更简单的方法来接近它？一个有用的框架，用 JS 还是其他语言？   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blcih9/overwhelmed_by_javascripts_syntax_and_logic/</guid>
-      <pubDate>Fri, 22 Mar 2024 22:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>历史学学士学位不知道要进入这个行业。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blbij2/ba_in_history_not_sure_what_to_to_break_into_the/</link>
-      <description><![CDATA[您好，刚刚完成了我的历史学士学位课程，我想最终转向 Web 开发。我只是很迷失。我应该获得证书吗？只是参加训练营吗？等等我打算学习能够如此全栈。    由   提交 /u/itsmychin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blbij2/ba_in_history_not_sure_what_to_to_break_into_the/</guid>
-      <pubDate>Fri, 22 Mar 2024 22:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
