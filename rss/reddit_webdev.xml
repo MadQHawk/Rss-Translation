@@ -4,13 +4,69 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 06:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 09:13:31 GMT</lastBuildDate>
     <item>
-      <title>买笔记本电脑好不好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blldur/laptop_purchase_good/</link>
-      <description><![CDATA[      刚从亚马逊购买了这台笔记本电脑。适合网络开发吗？   由   提交/u/lwsteven  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blldur/laptop_purchase_good/</guid>
-      <pubDate>Sat, 23 Mar 2024 06:14:40 GMT</pubDate>
+      <title>洛菲流。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blns4m/lofi_flow/</link>
+      <description><![CDATA[嘿，我开发了这个名为 lofi-flow 的小型网络应用程序。这是一个低保真广播电台。对于有关附加功能的一些反馈和潜在想法，我将不胜感激。 😀  ​ 网站：https://lofi-flow.vercel。 app/ 仓库：https://github.com/nico-mayer/lofi-flow&lt; /a&gt;   由   提交/u/kabaday94  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blns4m/lofi_flow/</guid>
+      <pubDate>Sat, 23 Mar 2024 09:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个 JS 库来管理“全选”复选框。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blnosk/looking_for_a_js_library_for_managing_select_all/</link>
+      <description><![CDATA[是否有一些独立于框架的 JS 库专注于管理“全选”样式的复选框？就像 Gmail 应用程序中的应用程序一样。 它应该在“全选”时管理选中和取消选中各个复选框。已选中/未选中。并且应该正确设置“全选”当托管复选框处于混合状态时，不确定。&lt; /p&gt;   由   提交 /u/Faucelme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blnosk/looking_for_a_js_library_for_managing_select_all/</guid>
+      <pubDate>Sat, 23 Mar 2024 08:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以使用什么 CSS 使我的选项卡标题在 Elementor 中看起来像这样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blne6b/what_css_can_i_use_to_make_my_tab_titles_look/</link>
+      <description><![CDATA[      这就是我想要的： https://preview.redd.it/bpig1qjso1qc1.png?width=1106&amp;format =png&amp;auto=webp&amp;s=c4084efd97cdec3b09ba364aeaa302cdbc1dad9a 这就是我到目前为止所做的，我可以使用什么css来实现上述参考？ &lt; a href=&quot;https://preview.redd.it/7x3y8c3wo1qc1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=d34701902c2926e7cda72149b4ceca86a86b59e4&quot;&gt;https://preview.redd.it/7x3y8c3wo1qc1.png?width =2560&amp;format=png&amp;auto=webp&amp;s=d34701902c2926e7cda72149b4ceca86a86b59e4 我为此使用 Elementor。   由   提交/u/keepiticy10   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blne6b/what_css_can_i_use_to_make_my_tab_titles_look/</guid>
+      <pubDate>Sat, 23 Mar 2024 08:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为 REST API 定义架构，其中资源本质上是“分层的”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blmno6/how_do_i_define_a_schema_for_a_rest_api_where_the/</link>
+      <description><![CDATA[我想为习惯跟踪器类型的应用程序创建后端。通常，通过 POST 请求，我们创建由 REST API 架构定义的某些资源的新实例，但是使用 POST 请求本身创建新资源怎么样？假设我正在为自己构建一个类似习惯跟踪器的东西。我想要的是能够概括这一点，以便人们可以定义自己的习惯，或自定义现有的已定义习惯。 ​ 例如，假设我是考虑添加“去健身房”作为我的习惯跟踪器中要跟踪的习惯。现在，这种习惯（以及一般的任何习惯）可以被认为是由可以进行不同分类的较小行为组成。对于健身房，我可以选择将这个习惯分解为“腿部锻炼”、“上半身锻炼”、“肩部锻炼”等子活动。其中肩部锻炼本身就是上半身锻炼的一种。所以我这里基本上是一个习惯下的活动/子活动的层次结构。我不确定如何将其建模为 REST API 的数据模式。我以前从未使用过 GraphQL，但也想知道这是否更适合？    由   提交 /u/GrizzyLizz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blmno6/how_do_i_define_a_schema_for_a_rest_api_where_the/</guid>
+      <pubDate>Sat, 23 Mar 2024 07:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>对着陆页的反馈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blmkft/feedback_on_the_landing_page/</link>
+      <description><![CDATA[      ​ 我改进了该版本的登陆页面，与上次相比，给了它全新的外观。 这是链接：https://codedocs.vercel.app 提前致谢！   由   提交/u/amAProgrammer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blmkft/feedback_on_the_landing_page/</guid>
+      <pubDate>Sat, 23 Mar 2024 07:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成全栈 Web 应用程序的速度比您烘烤某人周六炫耀的项目还要快</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blmgiu/generate_fullstack_web_apps_quicker_than_you_can/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/hottown  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blmgiu/generate_fullstack_web_apps_quicker_than_you_can/</guid>
+      <pubDate>Sat, 23 Mar 2024 07:27:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡详细信息用户旅程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blm26i/card_details_user_journey/</link>
+      <description><![CDATA[大家好，我有一个网站，围绕已设置的配置文件销售基于订阅的服务。网站上明确表示 60 天免费，但目前用户在设置个人资料之前必须输入其银行卡详细信息。仅作为背景，该网站是基于 Wix 构建的。我每周大约有 4 个人加入该网站，但没有人提供他们的银行卡详细信息。  我正在寻找有关用户旅程的经验丰富的建议，您是否相信这些用户在设置个人资料后会承诺提供银行卡详细信息？ TIA   由   提交/u/deadsteve1982   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blm26i/card_details_user_journey/</guid>
+      <pubDate>Sat, 23 Mar 2024 07:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>5岁的孩子想做一个网站。我应该开始教授 html/css 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bllquu/5_year_old_wants_to_make_a_website_should_i_start/</link>
+      <description><![CDATA[我带着我 5 岁的孩子和我一起工作的一些高中生一起建立了网站。她非常兴奋，说她想学习如何自己制作。  我应该将她安排在 Wix 或 Squarespace 之类的地方吗？ WordPress？或者开始教她基本的 HTML？  我想培养她的兴趣，但又不会让她感到无聊或让她对学习如何在未来从头开始构建一个不感兴趣。    由   提交 /u/tysmama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bllquu/5_year_old_wants_to_make_a_website_should_i_start/</guid>
+      <pubDate>Sat, 23 Mar 2024 06:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>薪资应用程序的支付周期</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blljxw/pay_cycles_for_payroll_app/</link>
+      <description><![CDATA[任何人都可以提供关于实施薪酬周期（每周、每两周等）的最佳方式的任何想法或逻辑吗？ &lt; p&gt;处理日期和时间戳对我来说是一个挑战，这是实施薪资周期的核心部分。 任何有关开发此内容的知识或文章都很棒。  在 MERN 堆栈中进行开发以供参考。    由   提交 /u/Numerous-Cause9793    reddit.com/r/webdev/comments/1blljxw/pay_cycles_for_payroll_app/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blljxw/pay_cycles_for_payroll_app/</guid>
+      <pubDate>Sat, 23 Mar 2024 06:25:55 GMT</pubDate>
     </item>
     <item>
       <title>他们在 Chrome DevTools 中的 💫 表情符号附近添加了复活节彩蛋，有什么想法吗？</title>
@@ -22,7 +78,7 @@
     <item>
       <title>我可以使用什么来管理 PSQL 数据库（类似于“工作室”）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bljtjw/what_can_i_use_to_manage_a_psql_database_similar/</link>
-      <description><![CDATA[您好，我有一个小项目，该项目使用 psql 数据库，该数据库通过 Neon 无服务器托管，我想知道人们使用什么来直观地管理他们的数据库。我知道有流行的“工作室”像 Prisma 和 Drizzle 这样的选项，但我只使用普通的 sql 查询来进行后端的所有交互，并且不想使用 ORM 来改变我与数据库交互的方式。也许我只是这方面的新手，完全错过了一些东西，但任何想法/建议将不胜感激。谢谢！   由   提交/u/Mist35  [链接] [评论]]]></description>
+      <description><![CDATA[您好，我有一个小项目，该项目使用 psql 数据库，该数据库通过 Neon 无服务器托管，我想知道人们使用什么来直观地管理他们的数据库。我知道有流行的“工作室”像 Prisma 和 Drizzle 这样的选项，但我只使用普通的 sql 查询来进行后端的所有交互，并且不想使用 ORM 来改变我与数据库交互的方式。也许我只是新手，完全错过了一些东西，但任何想法/建议将不胜感激。谢谢！   由   提交/u/Mist35  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bljtjw/what_can_i_use_to_manage_a_psql_database_similar/</guid>
       <pubDate>Sat, 23 Mar 2024 04:38:00 GMT</pubDate>
     </item>
@@ -48,67 +104,11 @@
       <pubDate>Sat, 23 Mar 2024 02:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>用 Python 以外的其他语言编写人工智能应用程序是不是一个坏主意？</title>
+      <title>用 Python 以外的语言编写人工智能应用程序是不是一个坏主意？</title>
       <link>https://www.reddit.com/r/webdev/comments/1blg34m/is_it_a_bad_idea_to_write_an_ai_app_in_anything/</link>
       <description><![CDATA[我开始使用 OpenAI API 构建一个由 AI 驱动的文本转换 Web 应用程序。我不打算使用开源模型进行任何自定义模型训练，因此它确实需要 Python。 虽然我最喜欢使用 Rails 作为后端，但这似乎并不像一个很适合这里。自从我之前使用过 Express 以来，我就考虑过它。我喜欢用一种语言拥有完整的堆栈，使用共享类型和模块等。 但是，我和这个项目中的其他人仍然倾向于使用 Python 和 Django 作为后端，尽管这是一个更陡峭的（但不是禁止的）学习曲线。诚实的原因是我们希望稍后出售该产品和代码库。我们估计，虽然它在 Python 中没有任何缺点，但如果不在 Python 中，可能会有缺点。但这种推理有道理吗？对于潜在买家来说，选择非 Python 堆栈会降低人工智能应用程序的价值吗？即使我们实际上并不打算使用 Python 更好的人工智能定制和训练功能？ 我很乐意解释更多信息，但我想尽可能简短。感谢您分享您对此的想法！   由   提交 /u/ManateeIdol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1blg34m/is_it_a_bad_idea_to_write_an_ai_app_in_anything/</guid>
       <pubDate>Sat, 23 Mar 2024 01:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 3d 展厅解决方案吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blfxxq/anyone_know_of_any_3d_showroom_solutions/</link>
-      <description><![CDATA[我们想为一家厨房设计公司做一个网站，并想在网站上做一个3D展厅，或者一个应用程序。 &lt; p&gt;我在 Redfin 上看过一栋房子的 3D 演练，我猜房地产经纪人花了一天的时间就完成了。 如果不是 3D 陈列室方面，我会说 WordPress 会是标准解决方案，但我不确定 3d 方面是否会改变一些事情。 我知道 Three.js，但我不相信这是适合这项工作的工具，因为看起来非常生动。  我发现了一个名为 Shapespark 的工具，但我只是想知道是否有人对如何构建它有任何想法。    ;由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blfxxq/anyone_know_of_any_3d_showroom_solutions/</guid>
-      <pubDate>Sat, 23 Mar 2024 01:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的大型应用程序软件工程博客是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blfbr5/whats_your_favourite_big_app_software_engineering/</link>
-      <description><![CDATA[Uber（他们的开发团队的开发）、Up Bank（他们在金融科技领域引入用户测试）和 Notion（他们的数据库分片迁移）已经一些关于他们的工程问题以及他们如何解决这些问题的精彩博客文章。 您一直在关注/推荐什么？   由   提交 /u/slightlyvapid_johnny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blfbr5/whats_your_favourite_big_app_software_engineering/</guid>
-      <pubDate>Sat, 23 Mar 2024 00:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的自托管项目制作了一个信息和资源网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</link>
-      <description><![CDATA[您好， 我很想获得一些有关我的自托管产品 HortusFox 的官方主页的反馈。  其目的是让用户对项目有一个印象，尝试演示，查看屏幕截图或下载其工作区的主题。 我不是一个优秀的设计师，但也许您可以给出一些提示，该主页是否足够赏心悦目，以及所提供的信息是否不会让您到处留下问号。 提前谢谢您！ &lt; p&gt;主页链接：https://www.hortusfox.com/    由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</guid>
-      <pubDate>Sat, 23 Mar 2024 00:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>headless cms，如果我是一名开发人员，我应该使用一个还是只使用托管平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blevnq/headless_cms_if_im_a_dev_should_i_use_one_or_just/</link>
-      <description><![CDATA[我总是有一些个人项目想要测试，看看它们是否在某种程度上具有市场价值。我和自己争论的是，当我试图验证这样一个小想法时，仅仅构建还是值得购买，我会感到沮丧。有没有更好的系统可以快速制作营销创意网站？   由   提交 /u/Routine_Wasabi_4318   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blevnq/headless_cms_if_im_a_dev_should_i_use_one_or_just/</guid>
-      <pubDate>Sat, 23 Mar 2024 00:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于切换主机的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1blekoi/question_on_switching_hosts/</link>
-      <description><![CDATA[Webdevs 您好，如果这是错误的子项，我深表歉意，我只是想确保我所做的一切都是正确的。我目前是一个组织的网站管理员，该组织有一个相当旧的网站，我们正在将其转移到另一个主机（目前使用 iPower 托管，并将切换到 Bluehost）。我的问题是：当我为新主机（bluehost）购买新软件包时，切换域所需要做的就是更改域（godaddy）的 DNS 设置以指向新服务器（例如 ns1.1）。 bluehost.com）？该网站的当前主机已经过期，并且目前将我锁定在所有设置之外，因此我只想确保我们基本上可以离开它，并能够通过域和主机网站处理所有事情。如果这是错误的子项，请再次道歉，我只是想彻底。   由   提交/u/Aaroniero432   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1blekoi/question_on_switching_hosts/</guid>
-      <pubDate>Sat, 23 Mar 2024 00:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>这家伙在说什么工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ble4l0/what_kind_of_job_is_this_guy_talking_about/</link>
-      <description><![CDATA[       由   提交/u/mnsfjkllhlkdjsg   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ble4l0/what_kind_of_job_is_this_guy_talking_about/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好，我有一个问题，如何对这些圆圈进行编码，以便无论屏幕尺寸如何，它们都保持固定在一个位置？我正在使用 Reactjs。我有一个与产品类似的图像，我想放置指示器，但当我调整它们的大小时它们会移动。谁能帮助我更好地理解这一点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</link>
-      <description><![CDATA[    /u/Adnannicetomeetyou   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以通过 Wireshark 将您的 Wi-Fi 数据包发送到 HTTPS 连接吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</link>
-      <description><![CDATA[假设您在本地 WiFi 网络上请求了一个 HTTPS 页面。 同一 LAN 中的其他人正在进行 Wireshark/嗅探周围并找到您的传出（甚至传入？）HTTPS/TCP 数据包以查看您请求的网页。 虽然数据包已加密且并非全部一次性发送（由于 TCP 握手而导致多个数据包）协议）对于请求，理论上有人可以重新发送这些确切的数据包并基本上查看您请求的页面吗？如果数据包数据包含访问令牌，甚至可以查看您登录的页面？ 如果没有，其他人是否也可以在 Wireshark 上至少查看您请求的 URL？假设您没有使用 VPN？   由   提交/u/nazuralift89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:39:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
