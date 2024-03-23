@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 22 Mar 2024 21:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:51:02 GMT</lastBuildDate>
     <item>
-      <title>最喜欢的 github 上应用程序审查工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl9bin/favorite_tool_for_review_apps_on_github/</link>
-      <description><![CDATA[每当有人在 github 上发布其更改的 PR 时，您喜欢使用什么来快速启动网站？我正在查看 Netlify，似乎您只需要链接一个存储库，它就会处理其余的事情，无需编码设置。加上它是免费的。但不确定数据库有多好。你用过什么？   由   提交/u/qpal123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl9bin/favorite_tool_for_review_apps_on_github/</guid>
-      <pubDate>Fri, 22 Mar 2024 20:31:29 GMT</pubDate>
+      <title>您最喜欢的大型应用程序软件工程博客是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blfbr5/whats_your_favourite_big_app_software_engineering/</link>
+      <description><![CDATA[Uber（他们的开发团队的开发）、Up Bank（他们在金融科技领域引入用户测试）和 Notion（他们的数据库分片迁移）已经一些关于他们的工程问题以及他们如何解决这些问题的精彩博客文章。 您一直在关注/推荐什么？   由   提交 /u/slightlyvapid_johnny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blfbr5/whats_your_favourite_big_app_software_engineering/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>Digital Ocean 在其 2fa 代码中包含字母是我最大的烦恼之一。你的什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl81ps/digital_ocean_including_letters_in_their_2fa/</link>
-      <description><![CDATA[每次我必须将手从数字键盘上移开时，我都会感觉时间变慢了。   由   提交 /u/PanicStil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl81ps/digital_ocean_including_letters_in_their_2fa/</guid>
-      <pubDate>Fri, 22 Mar 2024 19:38:54 GMT</pubDate>
+      <title>我为我的自托管项目制作了一个信息和资源网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</link>
+      <description><![CDATA[您好， 我很想获得一些有关我的自托管产品 HortusFox 的官方主页的反馈。  其目的是让用户对项目有一个印象，尝试演示，查看屏幕截图或下载其工作区的主题。 我不是一个优秀的设计师，但也许您可以给出一些提示，该主页是否足够赏心悦目，以及所提供的信息是否不会让您留下到处问号。 提前谢谢您！ &lt; p&gt;主页链接：https://www.hortusfox.com/    由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blexja/i_made_an_information_and_resource_website_for_my/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:30:28 GMT</pubDate>
     </item>
     <item>
-      <title>前端和后端之间测验应用程序的国际化方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl7jp3/i18n_approach_for_quiz_app_between_frontend_and/</link>
-      <description><![CDATA[我正在为客户构建一个应用程序，该应用程序本质上可以归结为一个测验应用程序。足以理解这个问题。 我将使用 nextjs 和 next-i18n lib 作为前端，并使用 c# 后端。 我的问题是我在哪里保存测验的翻译问题和答案？ 假设我有一个端点，它返回一个问题和一个可能答案的列表。在单语言应用程序中，我会直接返回问题字符串，例如“狗是什么颜色”。 我基本上看到了两种方法。将所有翻译保留在前端并本质上返回翻译密钥。返回“q-dogColor”并分别在前端的 en.json 或 de.json 中查找。 或者我基本上在服务器上管理另一组翻译词典，只需将语言作为请求的一部分并返回“”狗是什么颜色的”再次并简单地将其显示在前端。 它要么在前端保留翻译，要么在前端和后端保留翻译。 有人有任何现实生活经历吗？   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl7jp3/i18n_approach_for_quiz_app_between_frontend_and/</guid>
-      <pubDate>Fri, 22 Mar 2024 19:18:28 GMT</pubDate>
+      <title>headless cms，如果我是一名开发人员，我应该使用一个还是只使用托管平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blevnq/headless_cms_if_im_a_dev_should_i_use_one_or_just/</link>
+      <description><![CDATA[我总是有一些个人项目想要测试，看看它们是否在某种程度上具有市场价值。我和自己争论的是，当我试图验证这样一个小想法时，仅仅构建还是值得购买，我会感到沮丧。有没有更好的系统可以快速制作营销创意网站？   由   提交 /u/Routine_Wasabi_4318   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blevnq/headless_cms_if_im_a_dev_should_i_use_one_or_just/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>研究库存列表 API 或数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl77h5/researching_stock_list_api_or_data/</link>
-      <description><![CDATA[嘿， 有人知道提供指数中股票和公司列表的 API 吗？  使用交易所 API，我似乎需要一个专业帐户，但在数据集中找不到更新的股票列表    ;由   提交/u/dlfifjdoskco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl77h5/researching_stock_list_api_or_data/</guid>
-      <pubDate>Fri, 22 Mar 2024 19:04:29 GMT</pubDate>
+      <title>关于切换主机的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blekoi/question_on_switching_hosts/</link>
+      <description><![CDATA[Webdevs 您好，如果这是错误的子项，我深表歉意，我只是想确保我所做的一切都是正确的。我目前是一个组织的网站管理员，该组织有一个相当旧的网站，我们正在将其转移到另一个主机（目前使用 iPower 托管，并将切换到 Bluehost）。我的问题是：当我为新主机（bluehost）购买新软件包时，切换域所需要做的就是更改域（godaddy）的 DNS 设置以指向新服务器（例如 ns1.1）。 bluehost.com）？该网站的当前主机已经过期，并且目前将我锁定在所有设置之外，因此我只想确保我们基本上可以离开它，并能够通过域和主机网站处理所有事情。如果这是错误的子项，请再次道歉，我只是想彻底。   由   提交/u/Aaroniero432   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blekoi/question_on_switching_hosts/</guid>
+      <pubDate>Sat, 23 Mar 2024 00:14:37 GMT</pubDate>
     </item>
     <item>
-      <title>有人为企业建立过网站并根据佣金获得报酬吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl6c4b/has_anyone_built_sites_for_businesses_where_they/</link>
-      <description><![CDATA[我不是在谈论在电子商务网站上进行销售；而是在谈论如何在电子商务网站上进行销售。我想知道这是否可以通过常规网站来完成，例如税务局、房地产经纪人、园林设计师。 我看到一个视频，内容是如果您刚开始，可以尝试预先收取零美元，但是一旦您创建的网站真正获得了流量，那么您就可以与所有者交谈并协商您将从这些潜在客户中获得多少收益。   由   提交 /u/tokrefresh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl6c4b/has_anyone_built_sites_for_businesses_where_they/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:28:59 GMT</pubDate>
+      <title>这家伙在说什么工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ble4l0/what_kind_of_job_is_this_guy_talking_about/</link>
+      <description><![CDATA[       由   提交/u/mnsfjkllhlkdjsg   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ble4l0/what_kind_of_job_is_this_guy_talking_about/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>白标还是合作伙伴？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl59pc/whitelabel_or_partner_up/</link>
-      <description><![CDATA[我在一家机构担任设计师和开发人员。我们的一位创始人要离开去做他自己的事情。 他找到了一位客户，并问我是否愿意履行订单。他从事销售工作，技术知识为零，所以我会做所有的工作。 我应该对构建进行白标签，以便他可以添加自己的标记，还是我们应该将其分成两部分？也许是第三个选择？ 如果是白标签，我认为我根本不应该运行发现或与客户端交互，对吗？虽然我不喜欢这方面的工作，但我也担心在电话游戏中会迷失方向，特别是考虑到这个人的领域专业知识贫乏。 总的来说，我只是希望这是公平的，并且客户要高兴。但我也不想被搞砸。   由   提交 /u/ThereforeTheGreen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl59pc/whitelabel_or_partner_up/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:44:47 GMT</pubDate>
+      <title>你好，我有一个问题，如何对这些圆圈进行编码，以便无论屏幕大小如何，它们都保持固定在一个位置？我正在使用 Reactjs。我有一个与产品类似的图像，我想放置指示器，但当我调整它们的大小时它们会移动。谁能帮助我更好地理解这一点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</link>
+      <description><![CDATA[    /u/Adnannicetomeetyou   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldx3q/hi_so_i_have_a_problem_how_do_i_code_these/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:45:23 GMT</pubDate>
     </item>
     <item>
-      <title>编码嗜睡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl589k/coding_lethargy/</link>
-      <description><![CDATA[我已经成为一名全栈开发人员 15 年了 - 主要使用 JavaScript 框架和 C#/NodeJS。 对于这几年我变得很无聊，我只是觉得我去过的每一个工作场所都主要是琐碎的任务和错误，以及在7年前写得不好的代码上添加功能。 我曾经喜欢过编码和解决问题，但我觉得近年来没有什么特别令人兴奋的事情发生 - 除了人们说人工智能将在 5 年内让我们变得多余。 人们如何保持他们的发展火花？人们建议我研究哪些路径或我可以在工作场所做哪些事情来使其再次令人兴奋？ 提前谢谢您 🙂   由   提交/u/Fearless_Medicine_23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl589k/coding_lethargy/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:43:00 GMT</pubDate>
+      <title>有人可以通过 Wireshark 将您的 Wi-Fi 数据包发送到 HTTPS 连接吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</link>
+      <description><![CDATA[假设您在本地 WiFi 网络上请求了一个 HTTPS 页面。 同一 LAN 中的其他人正在进行 Wireshark/嗅探周围并找到您的传出（甚至传入？）HTTPS/TCP 数据包以查看您请求的网页。 虽然数据包已加密并且并非全部一次性发送（由于 TCP 握手和协议）对于请求，理论上有人可以重新发送这些确切的数据包并基本上查看您请求的页面吗？如果数据包数据包含访问令牌，甚至可以查看您登录的页面？ 如果没有，其他人是否也可以在 Wireshark 上至少查看您请求的 URL？假设您没有使用 VPN？   由   提交/u/nazuralift89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldsfk/could_someone_wireshark_on_your_wifi_packets_sent/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:39:42 GMT</pubDate>
     </item>
     <item>
-      <title>为我的基于 JS 的在线游戏实施身份验证的最佳/最简单方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl56gt/besteasiest_way_to_implement_auth_for_my_js_based/</link>
-      <description><![CDATA[尝试创建一个简单的在线游戏。我还需要添加数据库支持（MongoDB 或 Firebase），最好的方法是什么？    由   提交 /u/13aoul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl56gt/besteasiest_way_to_implement_auth_for_my_js_based/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:40:53 GMT</pubDate>
+      <title>现在学习 Web 开发在未来 5 年后仍然值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldp6x/learning_web_dev_right_now_still_worth_it_5_years/</link>
+      <description><![CDATA[我最近学习了 Web 开发，刚刚开始学习 javascript，我真的很喜欢它，我听到了很多关于“AI”的内容。现在就像“devin”一样我想知道从长远来看这是否值得，你认为这个职业现在和未来五年值得追求吗？我想听听您的想法，谢谢！   由   提交/u/Mahalkita12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldp6x/learning_web_dev_right_now_still_worth_it_5_years/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:35:40 GMT</pubDate>
     </item>
     <item>
-      <title>如何删除这个更漂亮的警告？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl53di/how_to_remove_this_prettier_warning/</link>
-      <description><![CDATA[       由   提交 /u/hiccupq   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl53di/how_to_remove_this_prettier_warning/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:37:17 GMT</pubDate>
+      <title>查找社交媒体和消息应用程序的深层链接 URL 列表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bldeyj/looking_for_a_list_of_deep_link_urls_for_social/</link>
+      <description><![CDATA[     &lt; /td&gt; 您好， 我希望我的用户能够通过社交媒体或消息共享联系人卡片应用。我了解共享 API，我需要处理其他情况。 我找不到详尽或最新的列表，而且服务对此并不真正透明。 我找不到它们的详尽或最新列表。 p&gt; 这是我迄今为止发现的内容。希望您会发现它有用。 谢谢:) https://preview.redd.it/ppzgg0yuzypc1.png?width=1551&amp;format=png&amp;auto=webp&amp;s=95f12e641fe6df5a3f34c85abd11 82c5c37b467e &lt; /div&gt;  由   提交/u/yule-never-know   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bldeyj/looking_for_a_list_of_deep_link_urls_for_social/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:23:34 GMT</pubDate>
     </item>
     <item>
-      <title>Web 开发人员的硕士值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl46f7/masters_for_a_web_developer_worth_it/</link>
-      <description><![CDATA[嘿，大家好。我目前是一名大三学生，立志成为一名网络开发人员。我的问题是，如果我想从事网络开发作为职业，您认为值得去研究生院获得计算机科学（或其他相关领域）的硕士学位吗？我目前倾向于不去，或者推迟到工作几年后去，因为我想避免财务承诺，但我想了解这会对我的申请过程产生多大影响，或者硕士是否会提供帮助我在工作中以任何重要的方式。    由   提交 /u/KermitAmericano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl46f7/masters_for_a_web_developer_worth_it/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:00:08 GMT</pubDate>
+      <title>Node.js TSC 确认：无意从发行版中删除 npm</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blcz4o/nodejs_tsc_confirms_no_intention_to_remove_npm/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blcz4o/nodejs_tsc_confirms_no_intention_to_remove_npm/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 10 个最佳 WordPress 防火墙解决方案以及为什么您应该拥有一个</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl3rxg/10_best_wordpress_firewall_solutions_in_2024_and/</link>
-      <description><![CDATA[       由   提交/u/skionxb   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl3rxg/10_best_wordpress_firewall_solutions_in_2024_and/</guid>
-      <pubDate>Fri, 22 Mar 2024 16:43:27 GMT</pubDate>
+      <title>被 Javascript 的语法和逻辑淹没</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blcih9/overwhelmed_by_javascripts_syntax_and_logic/</link>
+      <description><![CDATA[我已经编码了一段时间（总是使用 Java 和一点 Python），并且我正在尝试接触 Web 开发第一次。 在查看 JS 代码时，我很难理解发生了什么。 一堆单独挂起的浮动方法（就像那些 .then( ) 只是悬而未决)？ 将函数定义为常量？ 像 =()=&gt; 这样的奇怪且令人困惑的语法？&lt; /p&gt; 有时，函数后面会出现一些奇怪的调用，这些调用只是单独挂起？ “Lifecycles”、“promises”、“closures”、...？ &lt; p&gt;然后我看到一些关于状态、效果和其他我不知道的东西的讨论。 老实说，我只是不知所措，感觉学习 Web 开发或 JS 一般只是另一个游戏共。有没有更简单的方法来接近它？一个有用的框架，用 JS 还是其他语言？   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blcih9/overwhelmed_by_javascripts_syntax_and_logic/</guid>
+      <pubDate>Fri, 22 Mar 2024 22:45:23 GMT</pubDate>
     </item>
     <item>
-      <title>客户拒绝完成项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl3kkr/client_refuses_to_finalize_project/</link>
-      <description><![CDATA[我正在就棘手的情况寻求一些建议。我为一个我认为是朋友的人建立了一个网站。我早在 2022 年 12 月就完成了该项目，但我们未能最终确定一些文本内容并部署网站。 不幸的是，我的朋友一直没有回复消息，并不断重新安排会议。此外，尚有商定价格的 20% 余额。该人拒绝承认这一点。 这是重要的部分：我还没有提供代码，我的朋友也没有请求它 - 可能随着时间的推移，该人失去了兴趣。 我如何才能最好地与我的朋友联系以解决未结余额并完成项目？ 是否可以提及将现有 DNS MX 记录转移到他们帐户的截止日期？ 虽然我不想自毁前程，但如果情况没有得到解决，礼貌地提及我可以开源代码是不是一个坏主意？ （再次强调，代码尚未交付）   由   提交 /u/MalteseAppleFan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl3kkr/client_refuses_to_finalize_project/</guid>
-      <pubDate>Fri, 22 Mar 2024 16:34:59 GMT</pubDate>
+      <title>历史学学士学位不知道要进入这个行业。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blbij2/ba_in_history_not_sure_what_to_to_break_into_the/</link>
+      <description><![CDATA[您好，刚刚完成了我的历史学士学位课程，我想最终转向 Web 开发。我只是很迷失。我应该获得证书吗？只是参加训练营吗？等等我打算学习能够如此全栈。    由   提交 /u/itsmychin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blbij2/ba_in_history_not_sure_what_to_to_break_into_the/</guid>
+      <pubDate>Fri, 22 Mar 2024 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>ChromeUX 报告达成共识</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl3djk/consensus_on_chromeux_report/</link>
-      <description><![CDATA[您使用它吗？您认为它有用吗？ 此外，还有其他人看到他们的 LCP/TTFB 值受到影响吗？上个月...我试图确定这些问题是否与更广泛的互联网缓慢情况或我们这边的某些情况有关...过去我读过很多有关各种互联网中断/断电的报告这让我想知道，当发生重大中断时，每个人的 CrUX 报告都会受到影响吗？   由   提交 /u/godofleet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl3djk/consensus_on_chromeux_report/</guid>
-      <pubDate>Fri, 22 Mar 2024 16:26:53 GMT</pubDate>
+      <title>Html、CSS、JS 网站到 Wordpress 的转换器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blas4l/convertor_for_html_css_js_website_to_wordpress/</link>
+      <description><![CDATA[我用上述语言制作了一个网站，但客户希望能够自己更新博客。有可靠的转换器可以做到这一点吗？谢谢   由   提交 /u/HeyDannie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blas4l/convertor_for_html_css_js_website_to_wordpress/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>考虑在另一个框架中重写我的前端（目前是 React/Vite）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl1yg0/thinking_about_rewriting_my_front_end_in_another/</link>
-      <description><![CDATA[是否值得尝试其他东西，例如 Vue 或 Svelte？它实际上是一个单页。然而，应用程序本身非常复杂，有很多组件和跨不同组件的状态管理。这主要是出于无聊。后端正在被重写为最新稳定的.NET。所以我想为什么不利用这个机会重做前端，也许是一些全新的东西。我拥有大约两年的 React 专业经验，以及大约 8 年的 .NET 个人经验。这是一个个人项目，所以天空限制了我能用它做的事情。我更喜欢尽可能少地处理 CSS，因此无论什么框架都必须有合适的样式库。   由   提交/u/mymar101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl1yg0/thinking_about_rewriting_my_front_end_in_another/</guid>
-      <pubDate>Fri, 22 Mar 2024 15:27:39 GMT</pubDate>
+      <title>如果我的应用程序是 GPT-Wrapper，那么 Google 只是一个“数据库包装器”。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blajn7/if_my_app_is_a_gptwrapper_then_google_is_just_a/</link>
+      <description><![CDATA[   /u/Starks-Technology  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blajn7/if_my_app_is_a_gptwrapper_then_google_is_just_a/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>Vitepress 现在是 1.0</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bl10ae/vitepress_is_now_10/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/rk06  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bl10ae/vitepress_is_now_10/</guid>
-      <pubDate>Fri, 22 Mar 2024 14:46:57 GMT</pubDate>
+      <title>针对没有 Mac 的网络开发人员的浏览器测试建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1blab5z/browser_testing_recommendations_for_a_webdev/</link>
+      <description><![CDATA[大家好。我知道这可能会让你们很多人感到震惊，但作为一名网络开发人员，我没有 Mac。有没有一种方法可以在不购买 Mac 的情况下测试浏览器（最新的 Safari）？可能会挖掘 Safari DOM？有没有虚拟机可以测试？   由   提交 /u/bubba_bumble   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1blab5z/browser_testing_recommendations_for_a_webdev/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:13:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
