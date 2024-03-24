@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Mar 2024 12:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 15:12:10 GMT</lastBuildDate>
+    <item>
+      <title>初级开发人员正在寻找可以做出贡献的项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmjn2q/junior_dev_looking_for_projects_to_contribute/</link>
+      <description><![CDATA[首先 关闭， 我 想要 到 道歉 如果 这 是 反对 规则 规则 或 冲突 与  意图/语气  这个&lt; /sup&gt; subreddit， 我 有&lt; /sup&gt; 给定  规则 一个 快速 一次 并且 它 似乎 到 是 很好， 但是 如果 它 不是， &lt; super&gt;那就是 在 我   我 抱歉。 无论如何，对于那些深陷其中的人来说，这个问题一定看起来很愚蠢，但我感觉有点迷失，不知道从哪里开始。我是一个相对缺乏经验的初级开发人员，目前发现自己没有工作，我正在寻找一种方法来为一些有价值的/慈善项目做出有意义的贡献/志愿者，这既是为了项目本身，也是为了提高我的技能。我想要一些关于在哪里查找的帮助。 我想我的请求分为两部分 - 首先，我将感谢任何正在寻找一对帮助编码人员的特定组织，以及另一方面，我想要一些更元层面的信息，比如就开源社区而言，一般在哪里、什么、谁以及什么时候，就像你如何指导初级学习者一样面向 StackOverflow、Reddit、VSCode/其他 IDE 等进行开发。 对于后一部分，我想我所要求的是对我来说是未知的未知数，即，我非常不熟悉开源生态系统，我什至不知道要问什么问题，并且希望依靠您的经验来为我指明正确的方向。 对于上下文，这里有一些我自己描述的相关内容具备服务能力：  Python Java Webdev：JS、CSS、HTML、Vue、React、Angular、Spring 等。  Git 流利的英语和德语  我提前感谢您提供的任何有用的建议，即使没有，也谢谢您请花点时间考虑我的请求。   由   提交 /u/Max_Insanity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmjn2q/junior_dev_looking_for_projects_to_contribute/</guid>
+      <pubDate>Sun, 24 Mar 2024 12:30:56 GMT</pubDate>
+    </item>
     <item>
       <title>是否有任何 chrome 扩展程序会在检测到或打开登录页面时禁用所有其他扩展程序（即，如果可能，则仅使用具有登录页面的浏览器选项卡，而不是其他页面），除非用户指定（即在特定登录中启用扩展程序）页）？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bmhjtw/is_there_any_chrome_extension_which_disables_all/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>请说出一些适用于 Windows 和 Linux 的开源视频播放器。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</link>
-      <description><![CDATA[玩家不需要跨平台。我正在寻找适用于两个平台的优秀视频播放器，它可能不是同一个应用程序。例如，对于Linux，有MPV，对于Windows，有MPC-HC，我对这两个有问题，所以我需要更改。此外，VLC 在我的两个操作系统上都存在问题，因此请向我建议除 VLC、MPV 和 MPC-HC 之外的其他内容。 MPV 问题： 没有 GUI 设置控制，没有上下文菜单。我经常忘记键盘快捷键。 MPC-HC 问题：视频质量看起来与浏览器中的 YouTube 中看到的不同。在 MPC 中播放的同一视频看起来对比度较低，饱和度较低，有时看起来很糟糕。 已解决：访问 此链接，下载 .zip 文件，解压 .zip 文件并双击 install.bat 进行安装。    ;由   提交​​ /u/LivingGraveGround   [链接] [评论]]]></description>
+      <description><![CDATA[玩家不需要跨平台。我正在寻找适用于两个平台的优秀视频播放器，它可能不是同一个应用程序。例如，对于Linux，有MPV，对于Windows，有MPC-HC，我对这两个有问题，所以我需要更改。此外，VLC 在我的两个操作系统上都存在问题，因此请向我建议除 VLC、MPV 和 MPC-HC 之外的其他内容。 MPV 问题： 没有 GUI 设置控制，没有上下文菜单。我经常忘记键盘快捷键。 MPC-HC 问题： 视频质量看起来与浏览器中的 YouTube 中看到的不同。在 MPC 中播放的同一视频看起来对比度较低，饱和度较低，有时看起来很糟糕。 已解决：访问 此链接，下载 .zip 文件，解压 .zip 文件并双击 install.bat 进行安装。    ;由   提交​​ /u/LivingGraveGround   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</guid>
       <pubDate>Sun, 24 Mar 2024 04:20:16 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>用于本地 RAG 的 FOSS 嵌入式矢量存储 |绿洲数据库</title>
       <link>https://www.reddit.com/r/opensource/comments/1bl6sd3/foss_embedded_vector_store_for_local_rag_oasysdb/</link>
-      <description><![CDATA[祝大家星期五快乐！ 我注意到这个子 Reddit 中的很多 Reddit 用户正在使用 RAG 管道构建应用程序。所以，我只想分享一个我一直在做的项目，OasysDB。 OasysDB 是一个易于使用的嵌入式向量存储，采用 HNSW 索引算法，致力于灵活存储向量。 为什么使用 OasysDB  完全嵌入式并且没有复杂的设置。只需使用 pip install oasysdb（适用于 Python）或 cargo add oasysdb（适用于 Rust）即可。 灵活的架构，可将数据与源文本或 URL 等向量一起存储。&lt; /li&gt; 增量索引；在集合中插入、更新或删除矢量记录，无需重建索引。 内置但可选的持久性，可将矢量集合保存到磁盘以供以后使用。  演示 这是一个 Google Colab 演示，我使用 OasysDB 和 HF Vision Transformer 创建了一个简单的图像相似性搜索系统：https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing 如果您决定尝试一下，请随时与我联系。我很乐意帮忙😁   由   提交/u/edwinkys  [链接] [评论]]]></description>
+      <description><![CDATA[祝大家星期五快乐！ 我注意到这个子 Reddit 中的很多 Reddit 用户正在使用 RAG 管道构建应用程序。所以，我只想分享一个我一直在做的项目，OasysDB。 OasysDB 是一个易于使用的嵌入式向量存储，采用 HNSW 索引算法，专用于灵活存储向量。 为什么使用 OasysDB  完全嵌入式并且没有复杂的设置。只需使用 pip install oasysdb（适用于 Python）或 cargo add oasysdb（适用于 Rust）即可。 灵活的架构，可将数据与源文本或 URL 等向量一起存储。&lt; /li&gt; 增量索引；在集合中插入、更新或删除矢量记录，无需重建索引。 内置但可选的持久性，可将矢量集合保存到磁盘以供以后使用。  演示 这是一个 Google Colab 演示，我使用 OasysDB 和 HF Vision Transformer 创建了一个简单的图像相似性搜索系统：https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing 如果您决定尝试一下，请随时与我联系。我很乐意帮忙😁   由   提交/u/edwinkys  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bl6sd3/foss_embedded_vector_store_for_local_rag_oasysdb/</guid>
       <pubDate>Fri, 22 Mar 2024 18:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Burr：构建有状态人工智能应用程序的新框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bl43sp/burr_a_new_framework_for_building_stateful_ai/</link>
-      <description><![CDATA[大家好！想分享我一直在做的事情——寻找我们可以支持的反馈/评论/贡献/新用户。  github.com/dagworks-inc/burr  如果您愿意视频概述而不是文本，我的合著者在这里浏览它： https： //www.loom.com/share/a10f163428b942fea55db1a84b1140d8?sid=1512863b-f533-4a42-a2f3-95b13deb07c9。我们还有一篇博文对此进行了很好的总结：https://blog.dagworks.io /p/burr-develop-stateful-ai-applications。  我们试图解决的问题是大多数人工智能代理/聊天机器人框架过于关注“魔法”。 -- 例如以一种创建引人注目的演示的方式将 LLM 调用连接在一起，但在生产中绝对是一团糟。  当我开发时，我真的希望完全控制代码（或委托给我选择的框架），并了解应用程序中随时发生的所有情况。经过一些尝试/错误，我们提出了状态机的基本抽象。对于软件工程来说，这并不是什么新鲜事（前端/游戏/等等......一直在使用这种模型），但我认为人们才刚刚开始更严格地思考人工智能应用程序，并将开始抛弃复杂的框架，转而使用那些启用可见性/调试的。 Burr 通过定义“操作”来工作。作为从状态读取/写入的Python函数，然后在应用程序中将它们连接在一起。它配备了遥测 UI + 大量集成/功能。它使您能够跟踪状态、调试状态更改并从任意点重新加载，以确定您的应用程序为何做出该决定。 有趣的是，我们认为该模型比人工智能应用程序更有价值。例如，机器学习训练例程和模拟都可以很好地表示为状态机。  寻找：  反馈——这个问题有意义/真实吗？关于存储库/交付我们可以改进的任何方面。 用户 - 如果您在生产中使用 LLM（或任何需要状态的东西）进行构建并发现这很有趣，我们很乐意进行自定义入门。请给我写信！ 贡献者 - 我们收集了一些很好的第一期，并且有很多集成功能需要构建，所有这些都来自 Python API -&gt; FE，如果您有兴趣，请联系    由   提交 /u/benizzy1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bl43sp/burr_a_new_framework_for_building_stateful_ai/</guid>
-      <pubDate>Fri, 22 Mar 2024 16:57:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
