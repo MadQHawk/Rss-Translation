@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Mar 2024 18:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 21:10:38 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一个名为 Flex Source 的开源“相邻”模型。请在我开展业务之前将其拆开。 Flex Source 模型是针对社区项目的一种新的融资策略，我设计它是为了平衡财务可持续性的需求与社区参与的精神。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmtnd3/i_developed_a_open_source_adjacent_model_called/</link>
+      <description><![CDATA[   /u/The_Bridge_Imperium  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmtnd3/i_developed_a_open_source_adjacent_model_called/</guid>
+      <pubDate>Sun, 24 Mar 2024 19:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源仿生腿</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmswxt/opensource_bionic_leg/</link>
+      <description><![CDATA[www.opensourceleg.org  在该领域进行更广泛的讨论表明，对这些技术的控制是阻碍其临床成功的最大障碍之后，我们被迫创建开源分支。过去，假肢硬件设计和控制的研究都是在孤岛中进行的。每个研究人员都开发自己的机器人腿系统，以测试他们的控制策略或生物力学假设。这在短期内取得了成功，因为每个研究人员都会发表出版物并进一步发展知识。然而，从长远来看，这种分散的研究方法阻碍了研究结果对残疾人产生影响，最终导致该领域全面失败，无法真正产生推动其产生的影响。如果没有标准化的硬件/软件平台，就很难比较研究这些系统控制的研究小组的结果。此外，不断地为每个小组重新创建机械腿在时间和金钱上都是昂贵的，导致这些资源无法解决因控制这些系统而产生的实际障碍。事实上，与假肢控制各个方面相关的复杂挑战需要顶尖研究人员的集体努力来进行开创性工作。因此，为了缩小这一差距，我们创建了一个开放访问平台，不仅促进假肢控制的研究，而且还提供了一个通用框架来测试和评估这些策略——开源腿。 &lt; !-- SC_ON --&gt;  由   提交 /u/__newerest__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmswxt/opensource_bionic_leg/</guid>
+      <pubDate>Sun, 24 Mar 2024 19:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个好的开源不和谐服务器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmsapr/is_there_a_good_active_discord_server_for_open/</link>
+      <description><![CDATA[是否有一个好的、活跃的、开源的不和谐服务器，它是有用的、友好的、真实的？   由   提交/u/FreeBirdy00  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmsapr/is_there_a_good_active_discord_server_for_open/</guid>
+      <pubDate>Sun, 24 Mar 2024 18:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个工作领域最需要贡献并且在开源社区中最好？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bms00w/which_area_of_work_needs_most_contribution_and_is/</link>
+      <description><![CDATA[所以我是这里的菜鸟。全新且初学者。  我想开始为 OSS 做出贡献，为自己建立良好的形象，并为长期建立良好的投资组合。我只有 17 岁，但由于我热爱计算机和科技，我认为这对我来说是正确的一步。 现在，我认为开发人员有很多子集。游戏开发、应用程序开发、Web 开发、全栈开发、前端和后端开发等等...现在我需要知道学习其中哪一个会给我最多的贡献机会？其中哪些需求量最大？ 哪些最有机会帮助我创建良好的个人资料或作品集？ 我最近听说将会有从传统编程到人工智能、机器学习/深度学习、人工神经网络、计算思维等的巨大转变。所以我不应该学习上面提到的任何东西（比如应用程序开发或网络开发之类的东西），而是学习这些东西，因为它们从长远来看可能更有帮助？ 请帮助我！   由   提交/u/FreeBirdy00  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bms00w/which_area_of_work_needs_most_contribution_and_is/</guid>
+      <pubDate>Sun, 24 Mar 2024 18:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个人应该如何接触开源贡献（17 岁）来开始建立良好的形象？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmrv8q/how_should_one_approach_open_source_contributions/</link>
+      <description><![CDATA[我今年 17 岁，对计算机和技术相关的东西感兴趣并感到兴奋。因此，既然我对此感到兴奋，为什么不做一些从长远来看实际上有用且有帮助的事情，这也可以帮助我创建工作档案。因此，开源。 现在，我最近看到 NVIDIA CEO 的一篇文章，人们不应该专注于学习编程或编码，因为它很快就没用了，而且事情会发生巨大的转变，因为到人工智能。人们应该更加关注数学、计算思维、算法和科技行业其他更深层次的东西。 我正要开始学习网络开发课程，但当我读到这篇文章时，我感到很困惑我是否应该同意这门课程？ 如果不同意，我应该在哪里继续前进，朝什么方向前进？就像如果不是网络或应用程序开发，开源中还有其他一些与计算思维相关的领域和我可以贡献的东西吗？   由   提交/u/FreeBirdy00  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmrv8q/how_should_one_approach_open_source_contributions/</guid>
+      <pubDate>Sun, 24 Mar 2024 18:38:22 GMT</pubDate>
+    </item>
     <item>
       <title>初级开发人员正在寻找可以做出贡献的项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1bmjn2q/junior_dev_looking_for_projects_to_contribute/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[所以我试图越狱我的三星电视，在收集所有组件时我找不到三星电视 D 系列的工具链 ( VDLinux-armv7a8 ）所以如果有人能告诉我在哪里可以找到这个包，它会拯救我。   由   提交/u/Impressive-Tune-7251   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1blofci/i_cant_find_c_d_and_e_series_toolchain_on_the/</guid>
       <pubDate>Sat, 23 Mar 2024 09:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用本地 API 的 GUI 有声读物/TTS 生成器（基于 XTTS）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1blg1f7/a_gui_audiobook_tts_generator_working_with_local/</link>
-      <description><![CDATA[我为自己制作了这个小工具，用于从 OCRed 书籍复制的文本生成质量不错的有声读物，但存在伪影和拼写/格式问题：https://github.com/lukaszliniewicz/Pandrator。  这是一个带有一键式安装程序的 Python 脚本，它利用 XTTS 进行文本转语音，并且可以选择使用本地 LLM 进行 TTS 文本校正/优化，以及利用 RVC 进行音频增强和更好的语音克隆。您将在存储库中找到详细信息。我不是一个经验丰富的开发人员 - 事实上，我是一个菜鸟 - 这只是一个业余爱好项目，所以代码肯定在很多方面都缺乏，但我已经能够获得不错的结果，至少对于我的目的。也许有人也会发现它很有用。如果您愿意做出贡献 - 当然，我们非常欢迎:)  ​   由   提交/u/black_cat90   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1blg1f7/a_gui_audiobook_tts_generator_working_with_local/</guid>
-      <pubDate>Sat, 23 Mar 2024 01:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>云转换克隆？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/</link>
-      <description><![CDATA[有人知道一个类似于 cloudconvert.com 的开源项目，有一个不错的自托管 UI 吗？    由   提交 /u/ctrl-brk   /u/ctrl-brk  reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/</guid>
-      <pubDate>Fri, 22 Mar 2024 21:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>RevenueCat 的 Kedi</title>
-      <link>https://www.reddit.com/r/opensource/comments/1blb2vt/kedi_for_revenuecat/</link>
-      <description><![CDATA[大家好！我很高兴与您分享我的最新项目。 隆重推出 Kedi for RevenueCat：免费开源 RevenueCat 客户端。 ↔️ 交易：显示交易历史记录。 ✨ 见解：显示见解专门为您的用户准备的。 🛒 App Store 发薪日：了解您何时会从 App Store 获得付款。 📱 小部件：概述、收入图表和 App Store 发薪日。 GitHub ： https://github.com/sereisoglu/kedi 下载应用程序：https://apps.apple.com/app/id6478032635 https:/ /kediapp.com 希望您喜欢！非常欢迎任何反馈！   由   提交/u/sereisoglu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1blb2vt/kedi_for_revenuecat/</guid>
-      <pubDate>Fri, 22 Mar 2024 21:45:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 DOS 的 Sound Blaster Emulator — PhilsComputerLab 开源 SBEMU 项目的视频概述</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bl6x82/sound_blaster_emulator_for_dos_video_overview_by/</link>
-      <description><![CDATA[       由   提交/u/r_retrohacking_mod2   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bl6x82/sound_blaster_emulator_for_dos_video_overview_by/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于本地 RAG 的 FOSS 嵌入式矢量存储 |绿洲数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bl6sd3/foss_embedded_vector_store_for_local_rag_oasysdb/</link>
-      <description><![CDATA[祝大家星期五快乐！ 我注意到这个子 Reddit 中的很多 Reddit 用户正在使用 RAG 管道构建应用程序。所以，我只想分享一个我一直在做的项目，OasysDB。 OasysDB 是一个易于使用的嵌入式向量存储，采用 HNSW 索引算法，致力于灵活存储向量。 为什么使用 OasysDB  完全嵌入式并且没有复杂的设置。只需使用 pip install oasysdb（适用于 Python）或 cargo add oasysdb（适用于 Rust）即可。 灵活的架构，可将数据与源文本或 URL 等向量一起存储。&lt; /li&gt; 增量索引；在集合中插入、更新或删除矢量记录，无需重建索引。 内置但可选的持久性，可将矢量集合保存到磁盘以供以后使用。  演示 这是一个 Google Colab 演示，我使用 OasysDB 和 HF Vision Transformer 创建了一个简单的图像相似性搜索系统：https://colab.research.google.com/drive/15_1hH7jGKzMeQ6IfnScjsc-iJRL5XyL7?usp=sharing 如果您决定尝试一下，请随时与我联系。我很乐意帮忙😁   由   提交/u/edwinkys  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bl6sd3/foss_embedded_vector_store_for_local_rag_oasysdb/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:47:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
