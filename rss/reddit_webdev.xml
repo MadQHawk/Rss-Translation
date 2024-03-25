@@ -4,11 +4,81 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 12:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:14:14 GMT</lastBuildDate>
+    <item>
+      <title>大学网络项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bng30t/uni_web_project/</link>
+      <description><![CDATA[我想为我的大学项目创建一个社交媒体管理平台（有点像 Buffer 和 Hoodsuite）。我应该使用什么堆栈、框架，我的教授希望我分析并向他展示为什么我会选择一个堆栈。你们有这方面的文档吗   由   提交/u/XuanVinh03  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bng30t/uni_web_project/</guid>
+      <pubDate>Mon, 25 Mar 2024 15:11:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Meta 工作 12 年</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bnfy17/12_years_at_meta/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bnfy17/12_years_at_meta/</guid>
+      <pubDate>Mon, 25 Mar 2024 15:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么项目管理工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bnezo7/what_project_management_tool_do_you_use/</link>
+      <description><![CDATA[大家好， 我正在寻找一款可靠的项目管理工具，适合 Web 开发项目的独特需求。以下是我正在寻找的内容的概要：   项目管理： 一个可以有效管理多个 Web 开发项目的平台，具有任务组织、协作、和里程碑跟踪。  客户沟通：有效的沟通工具，可与客户无缝互动，轻松共享更新、文件和反馈。  &lt; strong&gt;发票和合同：简化了创建专业发票和合同的流程，最好具有定制选项以适应不同的项目要求。  时间跟踪和报告：工具准确跟踪计费时间、监控项目进度并生成富有洞察力的报告来分析生产力和盈利能力。  您使用哪一种？任何反馈将不胜感激。    由   提交/u/josh252  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bnezo7/what_project_management_tool_do_you_use/</guid>
+      <pubDate>Mon, 25 Mar 2024 14:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找优秀网络开发人员的最佳地点？ （希望建立自己的网站）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bnelcl/best_place_to_find_a_good_web_developer_looking/</link>
+      <description><![CDATA[我正在尝试一些新的东西，因为我想雇人来制作我的网站。你有什么建议？    由   提交 /u/MichaelKToymaker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bnelcl/best_place_to_find_a_good_web_developer_looking/</guid>
+      <pubDate>Mon, 25 Mar 2024 14:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>wordpress php 中的 json 或 db</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bneauo/json_or_db_in_wordpress_php/</link>
+      <description><![CDATA[我目前正在用 php 编写一个 woocommerce 扩展，它接受用户输入的字符串和数字，并将它们作为 varchar 和 int 添加到数据库中。每次有人订购商品时都会运行选择和插入。关于安全性、性能等，你认为我应该将数据存储在数据库中还是使用 json？   由   提交 /u/IcyBoat3668   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bneauo/json_or_db_in_wordpress_php/</guid>
+      <pubDate>Mon, 25 Mar 2024 13:56:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从 Webflow 为客户端导出一些代码并托管在 Netlify 上，表单提交不起作用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bndv6o/i_exported_some_code_from_webflow_for_a_client/</link>
+      <description><![CDATA[我已在 HTML 表单元素中添加了 Netlify 属性值对。 我还将表单字段重命名为非常重要的名称。名称属性清晰且具有描述性， 该网站现在托管在 netlify 上，但我仍然收到错误消息。 关于如何解决此问题有什么想法吗？链接到 github。 https://github.com/Buildingcode1/sblack-w-flow   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bndv6o/i_exported_some_code_from_webflow_for_a_client/</guid>
+      <pubDate>Mon, 25 Mar 2024 13:37:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 中的交集类型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bnds0z/intersection_types_in_typescript/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Clarity_89  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bnds0z/intersection_types_in_typescript/</guid>
+      <pubDate>Mon, 25 Mar 2024 13:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从 Python 背景学习 Web 开发的方法有意义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bncs96/does_my_approach_to_learning_webdev_from_a_python/</link>
+      <description><![CDATA[大家好，寻求一些建议。我的背景是 python，虽然我使用 DASH、Flask 和 Streamlit 等工具制作了一些简单的前端，但我对这些似乎提供的较低水平的可定制性或（在 Flask 的情况下）我最终的结果不满意感觉就像我只是通过一个粗糙的包装器使用磨损的编程语言。  考虑到这一点，我正在计划用 Javascript 开发我的下一个前端。我的发展计划如下。创建 Django Rest API 以便与我的 python 后端交互。然后使用 React 创建前端。  这看起来是最好的方法吗？最初这将在本地托管，但稍后我将寻求在外部托管它。  提前感谢您的建议！   由   提交 /u/Bryan-Ferry   /u/Bryan-Ferry  reddit.com/r/webdev/comments/1bncs96/does_my_approach_to_learning_webdev_from_a_python/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bncs96/does_my_approach_to_learning_webdev_from_a_python/</guid>
+      <pubDate>Mon, 25 Mar 2024 12:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>导出来自运行程序 (Postman) 的所有 GET API 响应</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bnchos/export_all_get_api_responses_from_runner_postman/</link>
+      <description><![CDATA[大家好， 这里完全是菜鸟，经过一些修补，我能够弄清楚如何转 CSV/JSON 导入分为多个 API 调用。当在邮递员中使用跑步者时，我有时会收到 100 个响应，我遇到的问题是，我似乎没有办法同时导出所有 100 个响应。  我一直在谷歌搜索，答案似乎与它是不可能的分开，或者我看起来非常复杂，我什至不知道他们是否在谈论我同样的问题。  最简单的方法是什么？在这个社区中，似乎有很多人不喜欢邮递员。是否有其他工具允许我从 CSV 发出请求并导出所有响应？或者有没有办法在邮递员中做到这一点？  ​ 再一次，完全菜鸟并通过反复试验弄清楚了这一点。如果我可以进一步解释，请告诉我。    由   提交/u/kuifje020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bnchos/export_all_get_api_responses_from_runner_postman/</guid>
+      <pubDate>Mon, 25 Mar 2024 12:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何存储和使用位置数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bncb6x/how_to_store_and_work_with_location_data/</link>
+      <description><![CDATA[嗨！  我对位置数据的经验很少，我们突然要从汽车/卡车等收集大量位置数据，我不知道如何最好地存储它，我不知道不知道如何将其呈现给我们的用户。我们集成的 API 有一个 json 数组，其中包含每辆车每次行程的经度、纬度和时间属性。   是否有关于如何存储位置数据以及不同方法的优缺点的优秀介绍文章/视频？  如何从纬度/经度/时间数据实际显示汽车行驶的位置？因为如果我只绘制点并在它们之间放置线条，它们可能看起来很漂亮..错了吗？    由   提交 /u/VersionEquivalent717   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bncb6x/how_to_store_and_work_with_location_data/</guid>
+      <pubDate>Mon, 25 Mar 2024 12:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>全球工作/旅行的自由职业者</title>
       <link>https://www.reddit.com/r/webdev/comments/1bnc4zg/freelancers_working_globally_travelling/</link>
-      <description><![CDATA[你好！ 前言：最近我决定创办自己的公司 - 为小型企业设计、开发和管理静态网站公司/个人/初创企业。我计划扩展我的服务范围。 我还计划与公司/机构接洽，并主动提供支持工作（帮助登陆页面/html 电子邮件）。 我住在英国，但我将从下个月开始搬家，这引发了我的问题。  这里是否有自由职业者/公司在全球范围内流动/工作？我想知道当我住在印度尼西亚时，我在（例如）美国找到工作的可能性有多大。您的经历如何？您对我有什么建议吗？   由   提交 /u/Kitchen-Frosting3923    reddit.com/r/webdev/comments/1bnc4zg/freelancers_working_globally_travelling/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[你好！ 前言：最近我决定创办自己的公司 - 为小型企业设计、开发和管理静态网站公司/个人/初创企业。我计划扩展我的服务范围。 我还计划与公司/机构接洽，并主动提供支持工作（帮助登陆页面/html 电子邮件）。 我住在英国，但我将从下个月开始搬家，这引发了我的问题。  这里是否有自由职业者/公司在全球范围内流动/工作？我想知道当我住在印度尼西亚时，我有多大可能在（例如）美国找到工作。您的经历如何？您对我有什么建议吗？   由   提交 /u/Kitchen-Frosting3923    reddit.com/r/webdev/comments/1bnc4zg/freelancers_working_globally_travelling/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bnc4zg/freelancers_working_globally_travelling/</guid>
       <pubDate>Mon, 25 Mar 2024 12:14:18 GMT</pubDate>
     </item>
@@ -36,79 +106,9 @@
     <item>
       <title>SEO 也是网络开发人员的工作吗？网站的搜索性能是网络开发人员的责任吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bnbcnu/is_it_a_web_devs_job_to_do_seo_as_well_is_the/</link>
-      <description><![CDATA[假设您为一家没有营销部门的小型企业建立了一个网站。 您已经完成了自己的部分 - SEO 友好元标签、标题和文件名、高效的 CSS 和 Javascript、经过验证的代码、测试页面加载速度。可以这么说，基本上你已经完成了技术搜索引擎优化。您甚至可以向搜索引擎提交站点地图，并帮助企业创建一些高质量的反向链接。 一个月后，网站获得的展示次数或点击次数很少。商家告诉您，他们为一个没有投资回报的网站付了很多钱。 最好的回应是什么？  &amp;# 32；由   提交/u/TechnicalAd8103  [链接] [评论]]]></description>
+      <description><![CDATA[假设您为一家没有营销部门的小型企业建立了一个网站。 您已经完成了自己的部分 - SEO 友好元标签、标题和文件名、高效的 CSS 和 Javascript、经过验证的代码、测试页面加载速度。可以这么说，基本上你已经完成了技术搜索引擎优化。您甚至可以向搜索引擎提交站点地图，并帮助企业创建一些高质量的反向链接。 一个月后，网站获得的展示次数或点击次数很少。该公司告诉您，他们为一个没有投资回报的网站付了很多钱。 最好的回应是什么？ 编辑：感谢您的所有回复，非常感谢！ 👍   由   提交/u/TechnicalAd8103  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bnbcnu/is_it_a_web_devs_job_to_do_seo_as_well_is_the/</guid>
       <pubDate>Mon, 25 Mar 2024 11:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>害怕出错</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnb7rs/afraid_of_errors/</link>
-      <description><![CDATA[嘿，我作为 Web 开发人员已经工作了一段时间，但我仍然将错误视为负面因素。有时它会让我瘫痪，让我更难编写代码，因为害怕破坏某些东西。当我看到 eslint 或 typescript 中的红线时，我的身体会有点后退，即使它们在那里我不会最终陷入编程困境。 你对错误有何看法以及你如何管理以更积极的眼光看待他们？   由   提交 /u/Coolnero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnb7rs/afraid_of_errors/</guid>
-      <pubDate>Mon, 25 Mar 2024 11:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对自由职业者/机构的问题 - 您的潜在客户转化率是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bnak60/question_for_freelancersagencies_what_is_your/</link>
-      <description><![CDATA[嘿伙计们， 我有一个问题想问那些拥有网络开发机构/自由职业者的人，你们的转化率是多少大约？换句话说，有多少百分比的潜在客户成为您的付费客户？ 我一直在投放 Google 潜在客户开发广告的客户获得了 3% 左右的转化率。 考虑到这一点高额门票服务（通常为 5,000 美元以上）3% 还可以还是太低？   由   提交 /u/ipwriting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bnak60/question_for_freelancersagencies_what_is_your/</guid>
-      <pubDate>Mon, 25 Mar 2024 10:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP 请求可以在浏览器上使用 swagger 工作，但不能在 postman 上工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bna63l/http_request_works_on_browser_with_swagger_but/</link>
-      <description><![CDATA[我在一家大型组织工作，我们正在尝试设置基于 Rest API HTTP 调用的微服务。 我的一位同事已设置一个具有 Swagger UI 的 dot net 项目，用于尝试 API。该项目基于C#。我最近加入了这个项目，我是一名 Java 开发人员，之前没有 C# 经验。 当我们通过 Swagger UI 尝试 API 时，它工作得很好。我们想从其他编程编排工具调用 API，因此，我现在想通过 Postman 设置 HTTP 调用。我已经下载了该组织的 CA 证书并将其附加到证书选项卡中。我还复制了我在浏览器的调试选项卡中可以看到的所有标头（从 swagger UI 页面）。但是当我尝试来自邮递员的请求时，我得到：错误：套接字挂起 我还复制了调用的卷曲并将其导入邮递员。尽管如此，我还是遇到了同样的错误。 问题是：swagger UI 还能做哪些与 Postman 不同的事情，我怎样才能找到它？除此之外，我如何获得有关错误的附加信息，因为 Socket Hang up 似乎太通用并且不能告诉我很多信息。    由   提交 /u/Good_Question_Asker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bna63l/http_request_works_on_browser_with_swagger_but/</guid>
-      <pubDate>Mon, 25 Mar 2024 10:19:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astrojs 和 Tailwind CSS 创建动画博客卡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn9tyl/how_to_creating_animated_blog_cards_with_astrojs/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建动画博客卡[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn9tyl/how_to_creating_animated_blog_cards_with_astrojs/</guid>
-      <pubDate>Mon, 25 Mar 2024 09:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 前端的粗略成本估算</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn9sf0/rough_cost_estimate_for_web_frontend/</link>
-      <description><![CDATA[大家好，我从事医学工作，对计算机有一些基本知识（学过一些医学信息学课程）。 对于在一个重大项目中，我被分配的任务是对前端开发进行粗略的成本估算，并从医学方面监督其开发。该项目将由政府资助，因此像“FAIR”数据、开放科学和开源这样的流行词是必须的。 前端将帮助用户输入专用医疗设备以及所有附属设备的数据。这样的曝光。它需要：  一个开源 RDBMS (PostgreSQL) 用于自动化的 API 端点 多个用户输入表单和仪表板功能（10- 20个站点） 用户管理 导出功能 容器化  由于该项目需要防水法律责任 专业的网络开发公司将是我的首选。  你能给我一个粗略的估计吗？我对此完全不知道！如果有必要，我非常乐意提供更多详细信息。 谢谢大家，祝您有美好的一天！   由   提交 /u/forkheadbox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn9sf0/rough_cost_estimate_for_web_frontend/</guid>
-      <pubDate>Mon, 25 Mar 2024 09:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个 Tampermonkey 脚本，它将自动从下拉菜单中选择特定选项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn9pul/a_tampermonkey_script_that_will_select_specific/</link>
-      <description><![CDATA[对于此 nVidia 网站，我想知道是否可以在网站加载后自动从下拉菜单中选择特定选项。   由   提交/u/United-Road-7338   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn9pul/a_tampermonkey_script_that_will_select_specific/</guid>
-      <pubDate>Mon, 25 Mar 2024 09:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>与公司合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn92sh/cooperation_with_company/</link>
-      <description><![CDATA[我正在寻找一家公司来为我们处理外包。我们的总部位于东非，当您处理编码时，我可以处理获取项目和推销电话。请与我联系   由   提交 /u/Responsible_Worry792   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn92sh/cooperation_with_company/</guid>
-      <pubDate>Mon, 25 Mar 2024 09:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序身份验证解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn8ysg/web_application_auth_solutions/</link>
-      <description><![CDATA[第三方还是自己制作？ 寻找基本的 Gmail 登录或使用用户名 + 密码注册的用户帐户，登录持久性 有什么路线图可以创建我可以遵循的路线图吗？   由   提交 /u/YoshiLickedMyBum69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn8ysg/web_application_auth_solutions/</guid>
-      <pubDate>Mon, 25 Mar 2024 08:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用哪种 SDLC 模型？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn8hgo/which_sdlc_model_to_use/</link>
-      <description><![CDATA[您好！我们目前很难确定使用哪种 SDLC 模型来提供诊断的医疗 PWA。考虑到项目时间有限（不到五六个月）、模型训练以及功能有限（例如没有用户注册），我们更倾向于使用敏捷。然而，由于在医学领域提供准确性的复杂性，瀑布和迭代被添加到我们的选择中。您对此有何看法？ :&gt;   由   提交/u/SurgicalChem23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn8hgo/which_sdlc_model_to_use/</guid>
-      <pubDate>Mon, 25 Mar 2024 08:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bn8dzz/website_platform/</link>
-      <description><![CDATA[具有住宿提供商预订功能的最佳网站平台是什么  &amp; #32；由   提交/u/catherine_bell45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bn8dzz/website_platform/</guid>
-      <pubDate>Mon, 25 Mar 2024 08:14:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
