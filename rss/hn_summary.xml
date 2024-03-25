@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 14:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 21:08:10 GMT</lastBuildDate>
     <item>
-      <title>在快时尚和在线购物的世界中，人工智能正在彻底改变我们的购物方式。</title>
-      <link>https://t.me/hn_summary/81186</link>
-      <description><![CDATA[我的 400 美元人工智能购物收获：人工智能如何改变我们的购物方式
-在快时尚和在线购物的世界中，人工智能正在彻底改变我们的购物方式。虽然这使得流行服装变得更加便宜，但也导致了浪费和冲动的购物习惯。 Finesse 是一家在线时装公司，正在利用人工智能来减少生产过剩，并打造适合其受众的服装。 eBay、亚马逊和 Shopify 等零售商正在采用生成式人工智能来执行产品描述、尺码建议和图像编辑等任务。然而，争议也随之而来，比如李维斯在没有雇佣多样化模型的情况下，利用人工智能模型来增加多样性。 Verge 记者 Mia Sato 探讨了人工智能如何改变零售格局，以及购买人工智能设计的衣柜是什么感觉。]]></description>
-      <guid>https://t.me/hn_summary/81186</guid>
-      <pubDate>Mon, 25 Mar 2024 14:57:38 GMT</pubDate>
+      <title>[媒体]英国对参与网络攻击的中国个人和实体实施制裁 [...]</title>
+      <link>https://t.me/hn_summary/81254</link>
+      <description><![CDATA[英国在中国支持的网络攻击后实施制裁 
+英国对参与网络攻击的中国个人和实体实施制裁，引发了有关卡梅伦勋爵与英中投资基金关系的争议。工党呼吁对卡梅伦勋爵的角色进行调查，质疑他的选择是否为中国投资提供了可信度。这凸显了英国和中国之间持续的紧张关系，以及数字时代国际关系的复杂性。围绕卡梅伦勋爵的争议为故事增添了一层有趣的色彩，引发了有关潜在利益冲突和外国投资影响的问题。]]></description>
+      <guid>https://t.me/hn_summary/81254</guid>
+      <pubDate>Mon, 25 Mar 2024 21:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>在 Go 编程世界中，使用 Goroutines 和 ch 构建并发系统变得很容易 [...]</title>
-      <link>https://t.me/hn_summary/81185</link>
-      <description><![CDATA[Goroutine 泄漏的案例
-在 Go 编程世界中，使用 Goroutines 和通道构建并发系统的便利性既是福也是祸。虽然该语言在设计时就考虑到了并发性，但 Goroutine 中的内存泄漏是一个难以检测的常见问题。通过使用 Pyrscope 和 goleak 等工具，开发人员可以在泄漏的 Goroutines 造成重大问题之前识别并修复它们。关键要点是坚持 Go 的内置上下文模式并避免转换通道以防止泄漏。掌握 Go 并发性的过程充满了挑战，但通过正确的工具和知识，这些问题是可以克服的。]]></description>
-      <guid>https://t.me/hn_summary/81185</guid>
-      <pubDate>Mon, 25 Mar 2024 14:49:30 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，马丁·斯科塞斯 (Martin Scorsese) 作为一名痴迷的 VHS 档案管理员的秘密生活 [...]</title>
+      <link>https://t.me/hn_summary/81253</link>
+      <description><![CDATA[马丁·斯科塞斯作为一名痴迷的 VHS 档案管理员的秘密生活&lt; br /&gt;
+马丁·斯科塞斯（Martin Scorsese）作为一名痴迷的 VHS 档案保管员的秘密生活被揭露，令人惊讶。这位著名导演悄悄收集了 4,400 多盘 VHS 磁带，其中包含他从广播电视录制的电影和电视节目，经过精心编目，并在他的电影制作过程中用作参考资料。斯科塞斯的收藏现收藏于科罗拉多大学博尔德分校，其中包括可能影响了他的标志性作品的罕见且鲜为人知的录音。现在，保存这一独特的档案已成为当务之急，研究人员渴望深入研究这些磁带，以揭开塑造斯科塞斯电影愿景的隐藏瑰宝。]]></description>
+      <guid>https://t.me/hn_summary/81253</guid>
+      <pubDate>Mon, 25 Mar 2024 21:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Jampack 是一款后处理工具，旨在优化静态网站，为我们提供最好的服务 [...]</title>
-      <link>https://t.me/hn_summary/81184</link>
-      <description><![CDATA[显示 HN：Jampack – 作为后处理步骤优化静态网站
-Jampack 是一款后处理工具，旨在优化静态网站以获得最佳用户体验和 Core Web Vitals 分数。它不是捆绑器或框架，而是作为静态站点生成器输出之后的后处理步骤。 Jampack 的独特之处在于优化图像响应能力、将图像转换为多种格式、优化 CDN 图像、下载和优化外部图像、优先考虑首屏资源、延迟加载首屏资源以及内联关键 CSS 以防止 FOUC 。总体而言，Jampack 旨在通过各种优化技术来增强网站性能和用户体验。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81184</guid>
-      <pubDate>Mon, 25 Mar 2024 14:39:23 GMT</pubDate>
+      <title>[媒体] 在 [...] 上发现 19 世纪和 20 世纪的大量珍贵日本教科书档案</title>
+      <link>https://t.me/hn_summary/81252</link>
+      <description><![CDATA[大量珍稀日语教科书现已在线免费探索
+免费在线探索大量 19 世纪和 20 世纪的稀有日语教科书。这些教科书不仅是教育工具，也是艺术品，具有复杂的手绘插图和传统的木版印刷。该系列展示了书籍创作者的艺术才华，突出了日本古老的木刻印刷实践。从马和植物的详细插图到教师和学生的描述，这些历史教科书让人们一睹日本的文化和教育历史。探索这些现代教科书无法比拟的独特巨著的美丽与魅力。]]></description>
+      <guid>https://t.me/hn_summary/81252</guid>
+      <pubDate>Mon, 25 Mar 2024 21:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Flatito 是一款旨在充当 YAML 和 JSON 文件 grep 的工具，允许用户 [...]</title>
-      <link>https://t.me/hn_summary/81183</link>
-      <description><![CDATA[显示 HN：YAML 和 JSON 文件的 Flatito、grep
-Flatito 是一款旨在充当 YAML 和 JSON 文件的 grep 工具，允许用户搜索特定键并检索其相应的值和行号。该项目旨在解决通过 YAML 和 JSON 文件高效搜索特定信息的问题。 Flatito 的与众不同之处在于它能够搜索这些文件类型中的密钥并提供有关其位置的详细信息。用户可以使用捆绑器或 gem 安装 gem，并利用各种选项来搜索和过滤结果。该项目欢迎贡献并遵循行为准则以确保协作环境。]]></description>
-      <guid>https://t.me/hn_summary/81183</guid>
-      <pubDate>Mon, 25 Mar 2024 14:37:16 GMT</pubDate>
+      <title>[媒体]作为一项重大举措，FTX 将向 tw [...] 出售价值 8.84 亿美元的 Anthropic 股票</title>
+      <link>https://t.me/hn_summary/81251</link>
+      <description><![CDATA[FTX 将向两家机构投资者出售 8.84 亿美元的 Anthropic 股票&lt; /a&gt;
+作为一项重大举措，FTX 将向 20 家机构投资者出售价值 8.84 亿美元的 Anthropic 股票。最大买家 ATIC Third International Investment Company（阿布扎比主权财富基金 Mubadala 旗下的一家科技投资公司）将以 5 亿美元收购 16,664,167 股股票。这笔交易凸显了机构投资者对加密货币领域日益增长的兴趣，以及政府支持的实体越来越多地参与该行业。围绕政府参与加密投资的争议为这笔交易增添了一层有趣的色彩。]]></description>
+      <guid>https://t.me/hn_summary/81251</guid>
+      <pubDate>Mon, 25 Mar 2024 20:52:25 GMT</pubDate>
     </item>
     <item>
-      <title>这项研究深入研究了直播平台上的性文化，特别是 Twit [...]</title>
-      <link>https://t.me/hn_summary/81182</link>
-      <description><![CDATA[直播平台上的性文化：Twitch.tv 的内容分析&lt; /a&gt;
-这项研究深入探讨了直播平台上的性文化，特别是 Twitch.tv，通过内容分析方法。通过根据服装、身体部位、图像焦点和行为等可观察属性来分析性化的频率和强度，该研究旨在了解主播如何在不同类别中呈现自己。令人惊讶的是，该研究在分析中纳入了男性主播，这一建议在之前的研究中经常被忽视。详细的编码系统允许对性化水平有细致入微的理解，强调背景和行为在确定性化程度方面的重要性。严格的数据分析过程确保了研究结果的可靠性和有效性，为以前未探索的研究领域提供了线索。]]></description>
-      <guid>https://t.me/hn_summary/81182</guid>
-      <pubDate>Mon, 25 Mar 2024 14:36:12 GMT</pubDate>
+      <title>[媒体] 在本文中，作者探讨了老式 160 的组件和功能 [...]</title>
+      <link>https://t.me/hn_summary/81250</link>
+      <description><![CDATA[电子项目套件：动手实践老式 160 合 1 (2016)
+在本文中，作者探讨了老式 160 合 1 电子项目套件的组件和功能。他们讨论了用更新的替代品替换某些组件（例如 IC 和变压器）的可能性。作者还深入研究了控制旋钮、扬声器和变压器等各个部件的尺寸和规格。他们强调了继电器和天线线圈等组件在理解电路操作方面的重要性。本文还涉及套件中模拟仪表、CdS 电池和太阳能电池的使用。总的来说，作者对老式电子项目套件进行了详细而富有洞察力的分析。]]></description>
+      <guid>https://t.me/hn_summary/81250</guid>
+      <pubDate>Mon, 25 Mar 2024 20:46:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 divy.work 上的这篇文章中，作者探索了 Turbocall，一个用于 [...]</title>
-      <link>https://t.me/hn_summary/81181</link>
-      <description><![CDATA[Turbocall – Deno FFI 的即时编译器
-在 divy.work 上的这篇文章中，作者探讨了 Turbocall，一个Deno FFI 的即时编译器，可显着加速 JavaScript 中的本机函数调用。通过优化绑定和使用 V8 快速 API 调用，Turbocall 为 FFI 调用生成 ARM64 汇编代码，使它们在 Deno 中速度提高 100 倍。作者还讨论了未来的可能性，包括比较 Turbocall 与 Static Hermes 以及 just-js/lo 提前生成 V8 快速调用绑定的潜力。这篇文章包括基准测试和 DenoFest 演讲的幻灯片，深入探讨了 Turbocall 的实现和影响。]]></description>
-      <guid>https://t.me/hn_summary/81181</guid>
-      <pubDate>Mon, 25 Mar 2024 14:35:04 GMT</pubDate>
+      <title>[媒体]密西西比州麦迪逊县最近成为 270 万美元骗局的受害者，其中资金被转移到 [...]</title>
+      <link>https://t.me/hn_summary/81249</link>
+      <description><![CDATA[密西西比州麦迪逊县花费 270 万美元对审计员进行有关网络钓鱼、IT 的培训安全
+密西西比州麦迪逊县最近遭遇了价值 270 万美元的骗局，资金被转移给假冒供应商。该骗局涉及一封来自某人的电子邮件，该人自称来自一家已经倒闭数十年的建筑公司。县审计长纳森·怀特 (Na’Son White) 落入了骗局，并多次支付了总计巨额款项。当真正的建筑公司询问他们的付款情况时，欺诈行为才被发现。尽管发生了损失，但没有人被解雇，各当局的调查仍在进行中。这个故事强调了网络安全和警惕对于防止此类诈骗的重要性。]]></description>
+      <guid>https://t.me/hn_summary/81249</guid>
+      <pubDate>Mon, 25 Mar 2024 20:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“103 Early Anti Adblock”项目是一个概念验证，旨在检测 adblock [...]</title>
-      <link>https://t.me/hn_summary/81180</link>
-      <description><![CDATA[显示 HN：通过滥用 HTTP 103 响应，无需 JavaScript 即可检测广告拦截
-“103 Early Anti Adblock”项目是一个概念验证，旨在通过滥用 HTTP 103 Early Hints 响应来在不使用 JavaScript 的情况下检测广告拦截器。通过在实际响应之前发送早期提示，服务器可以根据客户端对这些提示的处理来确定是否存在广告拦截器。这种方法很有效，因为它不依赖于 JavaScript，而 JavaScript 可以被用户禁用或操纵。该项目目前在 Firefox 中运行，但在 Chrome 和 Safari 中存在限制。作者提到，这项技术虽然目前受到限制，但随着浏览器扩展对早期提示的支持，它可能成为检测广告拦截器的可靠方法。作者还指出，存在其他检测广告拦截器的技术，但可能需要更复杂的实现，并且更容易出现误报。]]></description>
-      <guid>https://t.me/hn_summary/81180</guid>
-      <pubDate>Mon, 25 Mar 2024 14:33:56 GMT</pubDate>
+      <title>[媒体]在《人文与社会科学通讯》上发表的一项研究中，研究人员发现 [...]</title>
+      <link>https://t.me/hn_summary/81248</link>
+      <description><![CDATA[研究人员发现 Twitch 上女性主播的“色情”趋势
+在《人文与社会科学通讯》上发表的一项研究中，研究人员发现 Twitch.tv。对 2000 个直播的分析显示，女性比男性更频繁、更强烈地自我性化，她们利用暴露的服装、挑逗性的姿势和性行为来吸引观众。这种性别差异引发了关于推动自我性化的社会压力、受欢迎程度和经济激励的问题。令人惊讶的是，诸如 ASMR 和“泳池、热水浴缸和海滩”等类别显示出女性主播的性化程度更高。该研究强调需要进一步研究在线性文化的影响，特别是对青少年用户的影响。]]></description>
+      <guid>https://t.me/hn_summary/81248</guid>
+      <pubDate>Mon, 25 Mar 2024 20:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在寻求有关如何开始托管和维护 Linux 服务器的技巧 [...]</title>
-      <link>https://t.me/hn_summary/81179</link>
-      <description><![CDATA[询问 HN：开始使用我自己的服务器的提示
-作者正在寻求有关如何开始托管和维护 Linux 服务器的技巧，以获得实践经验。他们欣赏云服务的便利性，但希望深入研究细节。他们计划以每月 10 美元左右的价格租用一台服务器，构建个人应用程序，并了解性能和安全性。尽管他们拥有云服务经验，但他们缺乏 Linux 命令和网络知识。他们受到 HN 最近的帖子的启发，渴望学习和提高自己的技能。他们乐于接受社区其他人的建议、资源和建议。]]></description>
-      <guid>https://t.me/hn_summary/81179</guid>
-      <pubDate>Mon, 25 Mar 2024 14:32:50 GMT</pubDate>
+      <title>[媒体] 英国</title>
+      <link>https://t.me/hn_summary/81247</link>
+      <description><![CDATA[英国指责中国泄露选民数据
+英国政府公开指责中国在 2021 年发动网络攻击，导致数百万英国选民的个人信息遭到泄露。英国副首相奥利弗·道登将此次泄露归咎于为中国政府工作的黑客，并表示英国将迅速采取行动保护其利益。国家网络安全中心认为，中国黑客出于潜在的间谍目的访问并窃取了敏感数据。中国否认了这些指控，但英国和拜登政府均指责中国黑客针对各国政府和政治实体。这场争议凸显了人们对国家支持的网络攻击和间谍活动的持续担忧。]]></description>
+      <guid>https://t.me/hn_summary/81247</guid>
+      <pubDate>Mon, 25 Mar 2024 20:28:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Eric Ghost 在 20 世纪 60 年代创新的 LSD 包装反映了反主流文化的心理 [...]</title>
-      <link>https://t.me/hn_summary/81178</link>
-      <description><![CDATA[打造绚丽色彩：包装第一张 LSD 吸墨纸&lt; br /&gt;
-Eric Ghost 在 20 世纪 60 年代创新的 LSD 包装反映了反主流文化的迷幻愿景。他与人共同创立了迷幻药店，并以电影胶片的形式分发LSD，承诺“色彩绚丽”。 Ghost 的隐形包装包括第一张机械生产的 LSD 吸墨纸，其中添加了 LSD 滴剂，每滴都含有 1,000 个巨大的麦克风。该包装包括一份科学信息表，强调了该药物起源于欧洲现代技术。 “场景和场景”在影响迷幻体验中的作用得到了认可，Ghost 的文本揭示了 20 世纪 60 年代 LSD 各种临床应用的探索。学者埃里克·戴维斯 (Erik Davis) 在他的著作《Blotter：酸性介质不为人知的故事》中探讨了这种对 LSD 分布和文化的独特见解。]]></description>
-      <guid>https://t.me/hn_summary/81178</guid>
-      <pubDate>Mon, 25 Mar 2024 14:24:43 GMT</pubDate>
+      <title>[媒体]地热能作为清洁能源中最热门的事物正在掀起波澜。</title>
+      <link>https://t.me/hn_summary/81246</link>
+      <description><![CDATA[地热是清洁能源中最热门的东西
+地热能作为清洁能源中最热门的能源正在掀起波澜。先进的地热能和超热岩石能等下一代技术正在给该行业带来革命，Eavor 和 Quiase Energy 等公司处于领先地位。然而，扩大这些系统的规模仍然存在挑战，包括获得资金和克服监管障碍。石油和天然气公司参与地热项目引发了投资者和环保人士的争议。尽管存在障碍，地热能在重塑电网和应对气候变化方面的潜在好处是巨大的。地热能的未来充满希望，突破性技术即将出现。]]></description>
+      <guid>https://t.me/hn_summary/81246</guid>
+      <pubDate>Mon, 25 Mar 2024 20:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tiny Corp 再次改变路线，这次决定提供 AMD Radeon GPU [...]</title>
-      <link>https://t.me/hn_summary/81177</link>
-      <description><![CDATA[小公司再次改变路线，计划提供 AMD Radeon GPU&lt; /a&gt;
-Tiny Corp 再次改变路线，这次决定为其计算盒提供 AMD Radeon GPU 以及 NVIDIA GeForce 选项。在发现 UMR 调试器后，他们感觉更有能力解决之前遇到的 Radeon GPU 问题。他们将提供红色（AMD）和绿色（NVIDIA）选项，红色选项更适合那些喜欢修补和故障排除的人。绿色选项被描述为更稳定和可靠，尽管价格更高。这一决定是在简要探索了英特尔 Arc Graphics 的可能性之后做出的。 UMR 调试器已经存在多年，但可能需要对开发人员进行更好的推广。]]></description>
-      <guid>https://t.me/hn_summary/81177</guid>
-      <pubDate>Mon, 25 Mar 2024 14:02:28 GMT</pubDate>
+      <title>[媒体] johnjago.com 网站重点介绍了两个开源项目 esbuild 和 Redis，用于 [...]</title>
+      <link>https://t.me/hn_summary/81245</link>
+      <description><![CDATA[两个具有出色架构文档的开源项目
+网站 johnjago.com 重点介绍了两个开源项目：esbuild 和 Redis ，因其出色的架构文档。这些项目中详细的自述文件、更改日志和代码注释使新用户和贡献者可以轻松理解设计和功能。良好的文档被强调对于节省时间、吸引贡献和防止错误至关重要。 esbuild 的架构文档包括用于解释复杂概念的视觉效果和代码片段，而 Redis 提供了对其代码结构和内部结构的详细见解。这些项目的详尽文档有助于它们在开发者社区中的流行和成功。]]></description>
+      <guid>https://t.me/hn_summary/81245</guid>
+      <pubDate>Mon, 25 Mar 2024 20:19:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
