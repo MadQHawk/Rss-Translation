@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Mon, 25 Mar 2024 00:54:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 03:16:09 GMT</lastBuildDate>
     <item>
-      <title>骨骼动力学节点</title>
-      <link>https://www.opensourceagenda.com/projects/bonedynamicsnode</link>
+      <title>蓬松西兰花</title>
+      <link>https://www.opensourceagenda.com/projects/fluffy-broccoli</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bonedynamicsnode</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:43 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/fluffy-broccoli</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>令人敬畏的 MLLM 幻觉</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-mllm-hallucination</link>
-      <description><![CDATA[专注于解决和理解 MLLM 中幻觉现象的全面资源集合。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-mllm-hallucination</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>差异肿瘤</title>
-      <link>https://www.opensourceagenda.com/projects/difftumor</link>
-      <description><![CDATA[[CVPR 2024] 可推广的肿瘤合成]]></description>
-      <guid>https://www.opensourceagenda.com/projects/difftumor</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币工具</title>
-      <link>https://www.opensourceagenda.com/projects/btc-tools</link>
-      <description><![CDATA[加密钱包暴力破解]]></description>
-      <guid>https://www.opensourceagenda.com/projects/btc-tools</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速羽毛笔</title>
-      <link>https://www.opensourceagenda.com/projects/prompt-quill</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/prompt-quill</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 激活密钥生成</title>
-      <link>https://www.opensourceagenda.com/projects/windows-activation-key-gen</link>
-      <description><![CDATA[10/11 windows windows key 这个windows key可以生成10/11 windows/微软密钥 awsome 10/11 windows 10/11 生成器 🌟 生成密钥 🌟 生成器密钥 xp/7/8 windows 您 windows 有效的生成器 10/11 密钥生成器 密钥生成器 xp/7/8 工具生成器 windows windows 10/11 生成器密钥2024 密钥 windows 许可证工作 xp/7/8awlorchpyf]]></description>
-      <guid>https://www.opensourceagenda.com/projects/windows-activation-key-gen</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>NanmiCoder爬虫教程</title>
-      <link>https://www.opensourceagenda.com/projects/nanmicoder-crawlertutorial</link>
-      <description><![CDATA[爬虫入门、爬虫进阶、高级爬虫]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nanmicoder-crawlertutorial</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲尼克斯</title>
-      <link>https://www.opensourceagenda.com/projects/phoenixd</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/phoenixd</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kayy1337 达芬奇决心</title>
-      <link>https://www.opensourceagenda.com/projects/kayy1337-davinci-resolve</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kayy1337-davinci-resolve</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ComposeOneScreens</title>
-      <link>https://www.opensourceagenda.com/projects/composeonescreens</link>
-      <description><![CDATA[此存储库的目的是使用 Jetpack Compose 设计单屏页面 UIS（更关注复杂的 ui） .]]></description>
-      <guid>https://www.opensourceagenda.com/projects/composeonescreens</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>完美的DLL代理</title>
-      <link>https://www.opensourceagenda.com/projects/perfect-dll-proxy</link>
-      <description><![CDATA[使用绝对路径转发实现完美 DLL 代理。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/perfect-dll-proxy</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 绕过 Neo ReGeorg</title>
-      <link>https://www.opensourceagenda.com/projects/php-bypass-neo-regeorg</link>
-      <description><![CDATA[本项目是基于Neo-reGeorg进行二次开发，对PHP木马添加了AES加密，修改了请求体和响应体特征]]></description>
-      <guid>https://www.opensourceagenda.com/projects/php-bypass-neo-regeorg</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:41 GMT</pubDate>
+      <title>没看到</title>
+      <link>https://www.opensourceagenda.com/projects/nedit</link>
+      <description><![CDATA[一个简单、轻量级的NBT解析库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nedit</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:08 GMT</pubDate>
     </item>
     <item>
       <title>尤杜韦兹 MEV 机器人</title>
       <link>https://www.opensourceagenda.com/projects/yduwez-mev-bot</link>
       <description><![CDATA[💸 使用加密货币 mevbot.sol 赚钱]]></description>
       <guid>https://www.opensourceagenda.com/projects/yduwez-mev-bot</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:40 GMT</pubDate>
+      <pubDate>Mon, 25 Mar 2024 03:16:08 GMT</pubDate>
     </item>
     <item>
       <title>教学冒险</title>
       <link>https://www.opensourceagenda.com/projects/didactic-adventure</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/didactic-adventure</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:40 GMT</pubDate>
+      <pubDate>Mon, 25 Mar 2024 03:16:08 GMT</pubDate>
     </item>
     <item>
-      <title>蓬松西兰花</title>
-      <link>https://www.opensourceagenda.com/projects/fluffy-broccoli</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fluffy-broccoli</guid>
-      <pubDate>Mon, 25 Mar 2024 00:54:40 GMT</pubDate>
+      <title>护身符NBT</title>
+      <link>https://www.opensourceagenda.com/projects/amulet-nbt</link>
+      <description><![CDATA[用于读写二进制 NBT 和字符串化 NBT 的 Python 和 Cython 库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/amulet-nbt</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>未受阻</title>
+      <link>https://www.opensourceagenda.com/projects/unbted</link>
+      <description><![CDATA[Una 的 NBT 编辑器 - 高级交互式命令行 NBT 编辑器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/unbted</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>奎尔兹国际象棋</title>
+      <link>https://www.opensourceagenda.com/projects/querz-chess</link>
+      <description><![CDATA[使用 JavaFX 在 Java 中下国际象棋]]></description>
+      <guid>https://www.opensourceagenda.com/projects/querz-chess</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>赫菲斯托斯</title>
+      <link>https://www.opensourceagenda.com/projects/minestom-hephaistos</link>
+      <description><![CDATA[NBT 和 Anvil 保存格式库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/minestom-hephaistos</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>越野车 123 燕尾榫</title>
+      <link>https://www.opensourceagenda.com/projects/offroaders123-dovetail</link>
+      <description><![CDATA[基于网络构建的跨平台 NBT 编辑器！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/offroaders123-dovetail</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>铌酸锂</title>
+      <link>https://www.opensourceagenda.com/projects/cpp-nbt</link>
+      <description><![CDATA[C++23 NBT 序列化器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cpp-nbt</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BitBuf NBT</title>
+      <link>https://www.opensourceagenda.com/projects/bitbuf-nbt</link>
+      <description><![CDATA[灵活直观的 Java NBT 库，重点关注自定义标签。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bitbuf-nbt</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>地鼠隧道</title>
+      <link>https://www.opensourceagenda.com/projects/gophertunnel</link>
+      <description><![CDATA[用 Go 编写的 Minecraft 基岩版软件的通用库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gophertunnel</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>深石板</title>
+      <link>https://www.opensourceagenda.com/projects/deepslate</link>
+      <description><![CDATA[用于渲染和模拟 Minecraft 部分内容的库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/deepslate</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>克恩特</title>
+      <link>https://www.opensourceagenda.com/projects/knbt</link>
+      <description><![CDATA[用于 kotlinx.serialization 的 Kotlin NBT 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/knbt</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴尼格尔采石场</title>
+      <link>https://www.opensourceagenda.com/projects/barneygale-quarry</link>
+      <description><![CDATA[实现 Minecraft 网络协议和数据类型的 Python 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/barneygale-quarry</guid>
+      <pubDate>Mon, 25 Mar 2024 03:16:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
