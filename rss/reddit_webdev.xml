@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 15:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 18:15:12 GMT</lastBuildDate>
     <item>
-      <title>寻找想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1boa9ye/looking_for_ideas/</link>
-      <description><![CDATA[大家好， 我们正在开发一个学术网络应用程序，一个为舞者提供的平台。我们的团队由 5 名成员组成，每个人都有自己指定的任务。我的职责是管理比赛和活动。我已经为活动和比赛设置了基本和高级 CRUD 功能。现在，我正在寻求实现超越 CRUD 操作的更高级方法。例如，我已经实现的一种方法允许用户根据他们在地图上的距离来查看事件。你能给我任何想法吗，我将非常感激❤️ PS：我正在使用 Spring 和 Angular。   由   提交/u/phyxgod1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1boa9ye/looking_for_ideas/</guid>
-      <pubDate>Tue, 26 Mar 2024 15:11:37 GMT</pubDate>
+      <title>制作网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1boehzb/making_a_website/</link>
+      <description><![CDATA[你好， 我计划制作一个网站，该网站本质上有一个登录页面，即登录页面。登录后，我希望它显示大约 6 个选项，可以单击进入，所有这些选项都会打开大约 3-7 个不同的页面，每个页面会打开大约 10-30 个不同的表单。 我有使用过的经验很久以前的 Dreamweaver，并且想知道尝试构建此功能的最佳软件是什么？  我看过 square space/Wordpress，他们似乎没有像我所描述的那样在页面内创建页面的选项，甚至没有会员区域，这本质上是整个网站所要做的 任何有关如何进行的帮助或指导将不胜感激。   由   提交 /u/Any-Lawativity1843    reddit.com/r/webdev/comments/1boehzb/making_a_website/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1boehzb/making_a_website/</guid>
+      <pubDate>Tue, 26 Mar 2024 18:03:58 GMT</pubDate>
     </item>
     <item>
-      <title>如何强制网页缓存过期</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo9yt4/how_to_force_a_webpage_cache_expiration/</link>
-      <description><![CDATA[我们注意到，在推出新功能或对现有页面进行更改时，网站用户会报告一些问题。 是标准答案是清除浏览器缓存并刷新网站，这通常有效 是否存在可以采用的最佳实践，以便如果给定页面已被修改，则当客户访问该页面时，它会触发自动刷新 IE 会使缓存过期，以便它们拥有页面的最新、最好的版本？ 页面通常是 HTML 并支持 JSP 来构建大量动态区域。 &lt; /div&gt;  由   提交/u/boyd4715  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo9yt4/how_to_force_a_webpage_cache_expiration/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:58:39 GMT</pubDate>
+      <title>更快地建立 MVP</title>
+      <link>https://www.reddit.com/r/webdev/comments/1boec37/build_mvps_faster/</link>
+      <description><![CDATA[更快地构建 MVP  加快上市速度 我是一名技术创始人，几年后凭借丰富的行业经验和几年的创业道路，我发现早期成功的关键之一就是速度。你必须提出你的想法并进行验证，所以我创建了一个平台来做到这一点。这使得MVP的发展变得异常艰难。我负责所有的架构基础设施，而您可以专注于与客户交谈。 另一方面，对于技术创始人，我目前将支持多种语言，它将与 JS 和 Python 一起使用。这是什么意思 ？ Web 大部分是由 JS 驱动的，所以如果你想进入 Web 开发，最理想的语言是 JS。然而，如果你是技术人员，为什么不在一天结束时使用你的强势语言，他们会做几乎同样的事情。  我很高兴向您介绍卡彭特=&gt; https://karpenter.io/?channel=reddit 。    由   提交/u/Mysterious-Hotel-824   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1boec37/build_mvps_faster/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:57:39 GMT</pubDate>
     </item>
     <item>
-      <title>灯塔性能有多重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo9w5q/how_much_does_lighthouse_performance_matter/</link>
-      <description><![CDATA[有没有人注意到灯塔/页面速度洞察指标似乎与大型网站无关。 似乎一旦您公司规模达到一定规模，您可以通过线路发送 5mb 的 JavaScript，并且性能得分为 38，但您仍然会是创建这些指标的同一搜索引擎上的第一个结果。 那就太好了如果每个人都必须遵守相同的规则，而较大的网站实际上会因臃肿/糟糕的用户体验而受到惩罚。   由   提交/u/SaltNo8237  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo9w5q/how_much_does_lighthouse_performance_matter/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:55:20 GMT</pubDate>
+      <title>广场空间副业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1boe5ex/squarespace_side_hustle/</link>
+      <description><![CDATA[我为自己和其他人建立了一些 squarespace 网站。我投入了大量的无偿时间来享受乐趣。我很好奇，当我开始开展小型媒体业务时，是否可以为这些服务做广告？没有什么超级复杂的，主要是针对小型企业。我知道存在局限性，但我不是网络开发人员，也不渴望成为你们中的一些人，但是 squarespace 拖拽和拖拽功能可以让您轻松地完成任务。下降模型类似于我作为人力资源和人力资源部的 ERP 顾问所做的事情。财务系统发生了变化，因此我发现很容易采用并开展一些简单的工作。  如果是这样，你们如何交付这些网站？  我构建并移交它，你们培训客户吗？  如果他们需要帮助，我需要收取维护费吗？  对此有何具体建议？有什么定价建议吗？    由   提交 /u/ConstipatedFrenchie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1boe5ex/squarespace_side_hustle/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:50:28 GMT</pubDate>
     </item>
     <item>
-      <title>React + PDF 编辑工作流程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo9tt5/react_pdf_editing_workflows/</link>
-      <description><![CDATA[我们有一位对文档管理感兴趣的客户。它的要点 - 他们有一些轻量级模板 PDF，其中包含可编辑字段。我们希望使他们能够：  上传静态模板（简单） 将模板副本下载到用户的计算机（简单） 在浏览器中编辑 PDF（很难或可能不可能） 然后上传完成的 PDF（简单）  请注意，我们&#39;正在使用 React。我担心的是第（3）部分。我遇到过一些不错的库，用于查看静态 PDF，但没有编辑功能（https://projects.wojtekmaj.pl/ React-pdf/）和一些用于创建 PDF，但同样没有编辑功能（https://pdf-lib.js。 org/）。  支持第 (1) 部分对于用户体验非常重要，以便客户可以使用他们已有的现有 PDF，而无需“重新创建”PDF。他们全部。此外，虽然说他们可以在桌面上使用 Acrobat 或 Preview 等标准 PDF 编辑器编辑 PDF，然后静态上传，这要简单得多，但这不是一个选择 - 大多数用户将使用手机. 但是，由于对第 (3) 部分的担忧，我担心我们可能不得不放弃第 (1) 部分，而是让用户在浏览器中构建其 PDF 模板的虚拟化模型，并且我们将文档结构作为 JSON blob 存储在某处。对于第 (2) 部分，我们只需将该 JSON 有效负载渲染为具有动态控件的动态组件，以便在第 (3) 部分中进行编辑，然后使用其中一个库将最终组件导出为第 (4) 部分的完整 PDF。 之前有人处理过这样的完全在浏览器内的 React 项目吗？我想坦白地说，这基本上是 DocuSign，但稍微简化了一点。   由   提交 /u/NewEnergy21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo9tt5/react_pdf_editing_workflows/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:52:25 GMT</pubDate>
+      <title>如何管理 Instagram Basic Display API 的长期令牌</title>
+      <link>https://www.reddit.com/r/webdev/comments/1boe0x2/how_to_manage_long_lived_tokens_for_instagram/</link>
+      <description><![CDATA[您好， 我正在尝试构建一个客户网站并从他们的 Instagram 中提取帖子。从技术上讲，我可以使用此功能，但文档说我可以将我的短期令牌（1 小时令牌）切换为长期令牌（60 天）。我该如何处理？有没有办法自动执行此操作？我无法想象我必须每 60 天手动为每个客户执行一次此操作...  https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access- tokens#get-a-long-lived-token 谢谢您的建议。    由   提交/u/la712  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1boe0x2/how_to_manage_long_lived_tokens_for_instagram/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:45:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何通过其他网站链接预订？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo9dji/how_to_link_booking_through_another_site/</link>
-      <description><![CDATA[所以我目前正在学习后端，刚刚通过 CodeCademy 完成了 Express 上的模块。  与此同时，我萌生了一个经营理念：开一家旅游公司，从火车站到意大利的花园和中世纪小镇。预订可通过此网站https://www.giardinodininfa.eu/ 完成。与意大利许多人迹罕至的景点一样，这对英国人并不友好，因此我有这个想法。整个业务将围绕着让我自己的网站以某种方式从该网站提取信息，并能够向客户提供他们可以预订旅行的实时日期以及付款后的确认号码等。  这可以做到吗？或者我是否必须与这些花园的所有者交谈，看看他们是否有一些 API 可供我用来从中提取信息？    由   提交 /u/Vecissitude   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo9dji/how_to_link_booking_through_another_site/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:33:00 GMT</pubDate>
+      <title>考虑构建组件库，但无法决定样式方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bodh7d/thinking_of_building_a_component_library_but_cant/</link>
+      <description><![CDATA[由于缺乏更好的词；我长期以来一直在考虑创建一个组件库，并且我是 TailwindCSS 的狂热用户，而且我也是无样式组件的粉丝。 我无法决定是否应该去使用样式化的库，或者使用非样式化的方法。我喜欢 PrimeVue 提供 TailwindCSS 版本的方法，该版本带有预设，但也可以完全无样式，本质上使开发人员设置或修改自己的预设。 当您正在寻找组件库时，您会做什么通常寻找？   由   提交/u/LUND89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bodh7d/thinking_of_building_a_component_library_but_cant/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>绝对初学者，D&D 网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo984z/absolute_beginner_dd_website/</link>
-      <description><![CDATA[你好！ 我什至不知道我是否适合这个，这就是我所知的少。我对计算机科学几乎一无所知。过去，我曾使用 WordPress、wix 或 squarespace 构建过几次网站，但似乎都不是我真正想要的。理想情况下（长期目标）我基本上想创建我自己的 dndbeyond.com 版本，与 Hasbro 无关，不是为了钱，只是为了我自己和我的游戏小组，在那里我可以上传自己的材料，并让我的每个玩家都能看到自己的东西。  我不知道如何建立一个这样的网站，所以如果有人可以指导我学习资源、软件资源或任何东西，那就太好了！    由   提交 /u/Expellialbus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo984z/absolute_beginner_dd_website/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:26:40 GMT</pubDate>
+      <title>未检测到 Netlify 上的表单。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1boddfr/form_on_netlify_not_being_detected/</link>
+      <description><![CDATA[我已将 netlify 属性添加到表单标记中。 不幸的是，即使他们在文档中提供的 Netlify 自己的示例表单也是如此我部署网站时没有被检测到？ 有人有解决方案吗？   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1boddfr/form_on_netlify_not_being_detected/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:19:16 GMT</pubDate>
     </item>
     <item>
-      <title>为慈善机构提供付款处理帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo96x1/payment_processing_help_for_charity/</link>
-      <description><![CDATA[你好，前面有一个糟糕的菜鸟问题。我的任务是为一个慈善基金创建一个网站，该基金旨在帮助阵亡的消防员及其家人。我之所以接受这项任务，是因为我是董事会中唯一具有一定计算机知识的人。我对网站没有太多经验，但我在这里。  撇开上下文不谈，网站现已启动并正常运行，但我现在有一项任务来设置事件的付款处理。下个月，我们将举办一场慈善锦标赛，董事会希望人们能够在线购买“门票”，这样我们就可以跟踪为比赛付费的人们的姓名和电话号码，这样就不会造成混乱当天的门。有人对此有什么建议吗？我发现许多不同的公司为您的网站提供这种即插即用服务，但由于这不是供我个人使用的，所以在没有任何指导的情况下选择一个我非常紧张。非常感谢任何建议。   由   提交 /u/REVRevonoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo96x1/payment_processing_help_for_charity/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:25:08 GMT</pubDate>
+      <title>创建了另一个任务管理应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bod5qt/created_yet_another_tasks_management_app/</link>
+      <description><![CDATA[嘿伙计们，我创建了另一个任务管理应用程序，主要是为了解决我的问题。我想要一个简单的应用程序，可以用作我办公室工作的仪表板。在此过程中，我还学习了如何使用普通 JavaScript 和 HTML（项目中没有使用任何库）。 可以在此处查看现场演示：https://reactivematter.github.io/tasks-and-events/ 仓库：https://github.com/ReactiveMatter/tasks-and-events ![image](https://raw.githubusercontent.com/ReactiveMatter/tasks-and-events/main/screenshot.png)   由   提交 /u/ReactiveMatter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bod5qt/created_yet_another_tasks_management_app/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>我可以采取什么步骤来解决这个问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo9456/what_steps_can_i_take_to_resolve_this/</link>
-      <description><![CDATA[我必须将网站构建器的帐户所有权从以前的网络开发人员转移到我的客户，很多人都试图联系该开发人员但他们没有回复。 他们使用的构建器是https://myvisualbuilder.com/，并且没有真正的构建器对他们的支持。 网络开发人员没有支付服务费用，导致网站在过去瘫痪，我可以采取什么步骤来解决这个问题？   由   提交/u/bartsimpson09   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo9456/what_steps_can_i_take_to_resolve_this/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:21:40 GMT</pubDate>
+      <title>Scrypto 收益衍生品挑战赛已上线！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bod3ba/scrypto_yield_derivatives_challenge_is_live/</link>
+      <description><![CDATA[开发者们大家好🙌 在 Radix，我们刚刚围绕该主题发起了一项编码挑战总奖金为 15,000 美元的收益衍生品。 https://www.radixdlt.com/blog/scrypto-yield-derivatives-challenge-is-live  Radix 是一种新兴的非 EVM 第 1 层，采用基于 Rust 的面向对象的智能合约编程语言，称为“Scrypto”以及称为“Radix Engine”的虚拟机专为 DeFi 应用从头开始构建。 就在今天，Radix 的 TVL 突破了 5000 万美元，跻身前 25 名非 EVM 生态系统！ 如果您有兴趣参加，请随时查看挑战并报名！ 🥲   由   提交 /u/Radix_DLT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bod3ba/scrypto_yield_derivatives_challenge_is_live/</guid>
+      <pubDate>Tue, 26 Mar 2024 17:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>负责构建一个全新的前端。后端目前位于 Laravel。最好的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo8z7m/tasked_with_building_an_entire_new_frontend_the/</link>
-      <description><![CDATA[我的任务是从头开始，在现有的基础上构建一个全新的网络应用程序Laravel 后端。这个后端发布了 0.1 版本，但我们迫切需要一次完整的返工（新规范、新设计语言、PWA、作品......）。 后端开发人员缺乏真正的前端亲和力（没有判断力，我们能够到达现在的位置要感谢他们的 0.1 版本的项目）。但是，我们希望以前端优先的态度来处理这个项目。 我如何最好地构建这个项目？一些想法在我脑海中萦绕： ​  一个完全成熟的 SPA，使用 Laravel REST API 介于两者之间，用 Astro 之类的东西构建它，我可以自由地启动 SSR，并在需要时补充水分。另外，我可以挑选我的岛屿的建筑。另外，使用 Laravel API。 采用 Laravel 方式，基本上使用 PHP 和 Blade 中的 Laravel 构建 MPA、完全 SSR。 使用 Laravel和 Splade 构建一个基于 Laravel 的 SPA，但仍然利用 Laravel。 我还可以尝试“绕过”Laravel REST API 并直接连接到数据库，从而创建我的自己的 REST API，基本上选择 mono 存储库。这将使我们的项目完全独立于已经存在的 Laravel 项目。  只是给你一些“要求” Web应用程序的：  它需要处理离线数据同步 完全响应（移动到宽屏） 采用基于Tailwind的设计语言 展示实时数据  非常感谢您对此的想法和见解！  &amp; #32；由   提交 /u/Kriem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo8z7m/tasked_with_building_an_entire_new_frontend_the/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:15:50 GMT</pubDate>
+      <title>这种设计策略有名字吗？ （加载时布局模糊）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bocrs5/does_this_design_strategy_have_a_name_blurred/</link>
+      <description><![CDATA[      分别来自 Reddit 和 American Express 应用程序的加载状态。将加载数据隐藏在模糊/空的页面布局后面。这个有名字吗？我想实现这个来减少 CLS   由   提交 /u/man-with-no-ears   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bocrs5/does_this_design_strategy_have_a_name_blurred/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>编写需要较少认知负荷的代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo8vps/writing_code_that_requires_less_cognitive_load/</link>
-      <description><![CDATA[最近我感受到了与开发相关的倦怠，除了已知的主题之外，还有太多的工作、上下文切换、工作相关的压力、截止日期等等...现在我还考虑了我们编写的实际代码作为一个因素。因此，我想分析一下，哪种不同的代码编写模式和范式影响较小，更容易被我们程序员管理，无论是那些从头开始编写代码的人，还是后来接手应用程序和开发的人。必须理解别人写的代码。  这里我统计了所有的OOP、函数式编程、描述性、命令式编程、反应式编程等等。 ​ 来自您的经验，您对此有何看法？ ​   由   提交/u/Undefined009  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo8vps/writing_code_that_requires_less_cognitive_load/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:11:49 GMT</pubDate>
+      <title>是啊，但我为什么要这么做呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bocjvv/yeah_but_why_would_i_though/</link>
+      <description><![CDATA[ 由   提交/u/Otherwise_Silver_867   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bocjvv/yeah_but_why_would_i_though/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:46:16 GMT</pubDate>
     </item>
     <item>
-      <title>是否有可能有一个稳定的 React 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo8u0c/is_it_possible_to_have_a_stable_react_app/</link>
-      <description><![CDATA[我开始了一项爱好业余项目（一个无干扰的项目）博客平台）在 2018 年。我很快开发了 React 和 Express 中的第一组功能，但从那时起，我花费了可笑的大量时间来跟上 React 生态系统的变化：  使用钩子函数式 React 进行重构 安装 Redux Toolkit，将其删除，然后使用 Context 代替 使用 styled -components，然后将其剥离并使用 tailwind 从 Create React App 迁移到 Vite  我不&#39;我不认为我正在追赶“热门新事物”；我所做的每一项技术选择似乎都被 React 社区广泛接受（当月）。 因此，我花了 30% 的时间开发功能，70% 的时间修复我的工具&lt; /强&gt;。这是荒谬的！相比之下，我有一个在 2017 年使用 JS/jQuery/HTML/SASS 构建的应用程序，但我不需要接触它。它不漂亮，但很稳定。 我喜欢 React 的模块化 UI 方法，但是否有可能构建一个稳定的应用程序？ （在建议另一个框架之前请三思而后行 - 我因重写我的应用程序而伤痕累累！）   由   提交/u/maxverse  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo8u0c/is_it_possible_to_have_a_stable_react_app/</guid>
-      <pubDate>Tue, 26 Mar 2024 14:09:47 GMT</pubDate>
+      <title>有人声称拥有我的域名前缀的所有权</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bocelp/someone_claimed_ownership_of_a_prefix_of_my_domain/</link>
+      <description><![CDATA[我刚刚收到来自 Google Search Console 的三封电子邮件，通知我我的域名前缀有新所有者。他们发给我的三个电子邮件地址我都不认识。我按照此处 并尝试删除用户，但它们未在用户/所有者下列出。 我的域是 https://nan.nyc  并且有问题的前缀位于 ftp.nan.nyc 如何解决此问题？我在设置网站时做错了什么，以至于有人能够获取此 URL？    由   提交 /u/CatonaHotSnRoof   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bocelp/someone_claimed_ownership_of_a_prefix_of_my_domain/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:40:11 GMT</pubDate>
     </item>
     <item>
-      <title>客户已同意，但尚未付款</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo8iy7/client_approved_but_havent_paid/</link>
-      <description><![CDATA[所以我做了很多冷外展，看来我有了一个客户。 问题是他们总是延迟付款（因此我还没有开始） 所以我想知道你们如何永久完成销售。  我应该开始开发并稍后设置域和其他内容，还是应该等待？   由   提交/u/danielrvt88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo8iy7/client_approved_but_havent_paid/</guid>
-      <pubDate>Tue, 26 Mar 2024 13:56:40 GMT</pubDate>
+      <title>MyFonts 上的 Webfont 使用限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bocbuv/webfont_usage_limit_on_myfonts/</link>
+      <description><![CDATA[我从 MyFonts 购买了网络字体。它每月有 10.000 次浏览。 你们中有人知道当您超过限制时会发生什么吗？因为您的网站出现在 Hacker News 上？ MyFonts 常见问题解答 (https://www.myfonts.com/页/faq）提到以下内容： &gt; 支付一次 您每月可以获得网络字体的浏览量津贴。只要不超过分配的综合浏览量，就不需要续订此许可证。例如，如果您购买涵盖每月 10,000 次综合浏览量的许可证，只要每月浏览量不超过 10,000 次，您就将保留在许可证范围内。如果网站开始获得更多流量，只需重新购买所需的额外每月综合浏览量，因为一次性购买网络字体是累积的。 当有使用时，我绝对没有兴趣购买额外的许可证长钉。你有遇到过这种情况吗？我想知道它们是否能够容忍周期性峰值。 ​ 顺便说一句。我今天会选择其他网络字体提供商（例如 Font Spring），但之前已经在 MyFonts 上购买了该字体，现在想使用它。   由   提交 /u/tspwd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bocbuv/webfont_usage_limit_on_myfonts/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:37:04 GMT</pubDate>
     </item>
     <item>
-      <title>滚动库在 Firefox 中遇到困难</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo8cpo/scroll_libraries_failing_firefox_hard/</link>
-      <description><![CDATA[有人要讨论这个吗？大约 50% 的设计师网站在 Firefox 中不可滚动。一个例子是 https://locomotivemtl.github.io/locomotive-scroll/。这正是滚动劫持引起争议的原因，但不可滚动的网站数量实在是太高了。图书馆维护者不知道这一点吗？难道 Mozilla 不知道这一点吗？   由   提交/u/kuba9624  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo8cpo/scroll_libraries_failing_firefox_hard/</guid>
-      <pubDate>Tue, 26 Mar 2024 13:48:54 GMT</pubDate>
+      <title>带有块生成器的网站，如何防止客户端添加过多文本？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bocb8z/website_with_block_builder_how_to_prevent_clients/</link>
+      <description><![CDATA[作为网络代理机构，我们有时有文案预算，有时则没有。 刚刚发生了什么，是我们推出了一个网站，设计师创建了一个漂亮的元素，左边是图片，右边是标题+1段。 你可以想象接下来会发生什么，客户添加了5段“必需的”文本到该元素。 如何防止这样的事情发生？我要求他们将其分成该元素的多个副本，但我觉得没有文案，或者输入文本的人，客户往往会破坏设计   由   提交 /u/miguste   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bocb8z/website_with_block_builder_how_to_prevent_clients/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:36:20 GMT</pubDate>
     </item>
     <item>
-      <title>对客户项目的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo87nm/feedback_on_client_project/</link>
-      <description><![CDATA[只是寻找有关东南部大型景观/硬质景观客户项目的专业反馈。 得分 95+ Lighthouse 和 PageSpeedInsights for Desktop 上的所有网页/页面得分。移动设备上的性能达到 85+。主要原因是移动和桌面上的英雄视频。 堆栈：NextJS Tailwind FramerMotion CloudflareCDN，用于图像/视频 Vercel 部署 出于各种目的，我只能分享指向通过私信网站。  如果你好奇的话，请DM我。感谢您的帮助   由   提交/u/Xocrates  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo87nm/feedback_on_client_project/</guid>
-      <pubDate>Tue, 26 Mar 2024 13:42:26 GMT</pubDate>
+      <title>需要付费更改网站字体是否正常？公司想要 75 美元更换新字体。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bobyw6/is_it_normal_to_have_to_pay_to_change_your/</link>
+      <description><![CDATA[大家好， ​ 我为非营利组织工作，我们有一个与运营自己的“定制 CMS”的公司签订协议并建立了我们的网站。需要明确的是，我对网站设计和管理完全陌生。通过这家公司，我们可以访问内容管理，因此我们可以更新网站图片、文本、添加表格和视频等。我们甚至可以轻松添加新页面。然而，我们在后端根本无法访问任何内容。如果我们想做嵌入插件之类的事情，我们需要将代码发送给这家公司，该公司将让他们的团队来做这件事，每次我们想要“添加代码”时，他们都会收取 25 美元的费用。 &amp; #x200b; 现在我们正在尝试更新我们的网站，以遵守我们的国家分会品牌指南。这包括使用特定字体。我们无法自己更改字体。我给他们发了电子邮件，他们回复我说要更改字体，需要 75 美元。现在，正如我之前所说，我对后端网站的构建和更新了解不多。这听起来正常吗？请记住，我们已经每月向该公司付款。 ​ TLDR：我们每月为我们的网站向该公司付款，而 CMS 每次需要时都需要 25 美元“添加代码”到网站并需要 75 美元来更改我们网站的字体。这是正常的吗？   由   提交 /u/Chaomayhem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bobyw6/is_it_normal_to_have_to_pay_to_change_your/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>我是否需要对具有encodeURIComponent 值的URI 进行encode？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bo82dj/do_i_need_to_encodeuri_an_uri_that_has/</link>
-      <description><![CDATA[所以我有一些 get/post Rest 调用，它们接受 Name 作为路径的一部分，例如 /products/name&lt; /p&gt; 名称可以包含任何字符，因此可以使用“/\”等特殊字符。被允许。我知道我需要encodeURIComponent 字符，因为encodeURI 不会对这些字符进行编码。但是，我发现我的帖子/获取仍然无法正常工作，除非我在encodeURIComponent之后对整个URI进行编码。 Ex: let name = &quot;test123\/+%&quot; //\/+% 是 4 个字符，在没有编码的情况下会导致事情中断  const link =restPath +encodeURIComponent(name); 获取 400 const link =encodeURI(restPath +encodeURIComponent(name)); 按预期工作  这是因为encodeURIComponent的编码结果有一些特殊字符需要再次正确编码作为整个URI路径的一部分吗？ ​ ​   由   提交/u/shaselai  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bo82dj/do_i_need_to_encodeuri_an_uri_that_has/</guid>
-      <pubDate>Tue, 26 Mar 2024 13:35:36 GMT</pubDate>
+      <title>我应该在着陆页上使用哪些技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bobom8/what_technologies_should_i_use_for_a_landing_page/</link>
+      <description><![CDATA[​ 我有一位客户想要一个与 https://creators.yahoo.com/。该网站的目的是收集用户电子邮件作为电子邮件订阅列表。您将使用什么技术来完成这项工作？我目前正计划反应顺风，但需要一些收集电子邮件的建议。解决这个问题的好方法是什么？   由   提交 /u/JubieFN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bobom8/what_technologies_should_i_use_for_a_landing_page/</guid>
+      <pubDate>Tue, 26 Mar 2024 16:10:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
