@@ -4,7 +4,23 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 26 Mar 2024 00:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 03:13:51 GMT</lastBuildDate>
+    <item>
+      <title>OTP 预付还是 IAP OTP 7 天试用？</title>
+      <link>https://feed.indiehackers.world/post/441c96e832</link>
+      <description><![CDATA[我一直在考虑如何销售我的 iOS 版基于简约文本的启动器 Dumbify。
+选项是：
+
+下载 App Store 后一次性购买 (OTP)
+免费下载，试用期为 7 天，然后提示用户进行一次性应用内购买 (IAP)。
+
+预先购买的一大好处是，用户可以清楚地知道它是 OTP，这一点很重要，因为现在有如此多基于订阅的应用程序。
+好奇你的想法
+我们计划在四月份推出并有一个候补名单
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/441c96e832</guid>
+      <pubDate>Tue, 26 Mar 2024 01:44:52 GMT</pubDate>
+    </item>
     <item>
       <title>到底如何“多次”启动呢？</title>
       <link>https://feed.indiehackers.world/post/10ac523c7a</link>
@@ -33,7 +49,7 @@ Discord 独立黑客聊天广告这里]]></description>
 前方的路
 构建 TubeOnAI 的旅程非常充实，但还远未结束。我们不断努力增强用户体验并扩展我们的能力。
 对于 IndieHackers 社区来说，当我应对 TubeOnAI 面临的挑战和机遇时，您的经验、批评和建议非常宝贵.
-无论您是开发者同行、内容创建者，还是只是热衷于利用技术让生活变得更轻松的人，请随时提供您的意见。我很想听听您的意见！
+无论您是开发者同行、内容创建者，还是只是热衷于利用技术让生活变得更轻松，请随时提供您的意见。我很想听听您的意见！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f129b109a9</guid>
       <pubDate>Wed, 20 Mar 2024 20:16:43 GMT</pubDate>
@@ -42,7 +58,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>🧑‍🚀 我将在下周三发布 - 一页股票报告 📈</title>
       <link>https://feed.indiehackers.world/post/6cfe3ee40c</link>
       <description><![CDATA[大家好🖖
-下周周三我将在 Product Hunt 上启动我的第二个项目 🙂
+下周三我将在 Product Hunt 上启动我的第二个项目 🙂
 描述：
 &lt;块引用&gt;
 StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股票研究。我们的报告概述了关键细节，有助于做出明智的投资决策。 
@@ -57,7 +73,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>🧑‍🚀 我将在下周三发布 - 一页股票报告 📈</title>
       <link>https://feed.indiehackers.world/post/13b8cc4257</link>
       <description><![CDATA[大家好🖖
-下周周三我将在 Product Hunt 上启动我的第二个项目 🙂
+下周三我将在 Product Hunt 上启动我的第二个项目 🙂
 描述：
 &lt;块引用&gt;
 StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股票研究。我们的报告概述了关键细节，有助于做出明智的投资决策。 
@@ -72,7 +88,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>🧑‍🚀 我将在下周三发布 - 一页股票报告 📈</title>
       <link>https://feed.indiehackers.world/post/f84f7fdaa3</link>
       <description><![CDATA[大家好🖖
-下周周三我将在 Product Hunt 上启动我的第二个项目 🙂
+下周三我将在 Product Hunt 上启动我的第二个项目 🙂
 描述：
 &lt;块引用&gt;
 StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股票研究。我们的报告概述了关键细节，有助于做出明智的投资决策。 
@@ -87,7 +103,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>🧑‍🚀 我将在下周三发布 - 一页股票报告 📈</title>
       <link>https://feed.indiehackers.world/post/24c917c0ee</link>
       <description><![CDATA[大家好🖖
-下周周三我将在 Product Hunt 上启动我的第二个项目 🙂
+下周三我将在 Product Hunt 上启动我的第二个项目 🙂
 描述：
 &lt;块引用&gt;
 StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股票研究。我们的报告概述了关键细节，有助于做出明智的投资决策。 
@@ -169,14 +185,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f9f38c5ffd</guid>
       <pubDate>Wed, 20 Mar 2024 14:05:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源Flutter制作模板</title>
-      <link>https://feed.indiehackers.world/post/21d7363d0a</link>
-      <description><![CDATA[✨ 我为前 10 名在结账时兑换代码 INDIEHACKERS 以获得文档/支持的人提供额外 50% 的折扣 ✨
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/21d7363d0a</guid>
-      <pubDate>Wed, 20 Mar 2024 13:39:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
