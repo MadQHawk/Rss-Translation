@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 12:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 15:12:46 GMT</lastBuildDate>
+    <item>
+      <title>我想一次裁剪很多照片</title>
+      <link>https://www.reddit.com/r/software/comments/1bo9i4j/i_want_to_crop_a_lot_of_photos_at_once/</link>
+      <description><![CDATA[我正在寻找一个可以加载图像文件夹的程序  加载图像文件夹 浏览图像并（如果需要）创建一个选择框来裁剪它们 一次全部保存  我找到了 BatchCrop，但我买不到因为我没有信用卡。许多替代方案都可以裁剪图像。但它们对所有图像应用相同的裁剪设置。   由   提交 /u/Frirwind   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bo9i4j/i_want_to_crop_a_lot_of_photos_at_once/</guid>
+      <pubDate>Tue, 26 Mar 2024 14:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要软件帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1bo8p4h/software_help_needed/</link>
+      <description><![CDATA[我使用 spacedesk 应用程序将我的手机用作我的辅助显示器，我看到了通过 USB 连接使用它的选项，我目前也使用 USB 连接，但对于我通过 USB 网络共享连接到服务器，因此 UBS 连接比 USB 网络共享选项更快，如果是，我似乎找不到名为“” 的应用程序。 spacedesk 驾驶员控制台”你甚至没有包含在安装程序包中（至少在我的情况下）顺便说一句，我使用 Windows 7 是该应用程序仅适用于 Windows 10 或更高版本  ​ 提前致谢对于任何语法错误，我们深表歉意   由   提交/u/DR--SEX5577   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bo8p4h/software_help_needed/</guid>
+      <pubDate>Tue, 26 Mar 2024 14:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>引导加载程序损坏/损坏</title>
+      <link>https://www.reddit.com/r/software/comments/1bo7kfi/corrupteddamaged_bootloader/</link>
+      <description><![CDATA[假设我想通过重新刷新软件或用新版本升级来修复设备，但我无法重新刷新引导加载程序。我假设如果引导加载程序以某种方式损坏或损坏，则将无法正确刷新软件，因此当前刷新的软件的所有可能的失败都是由此造成的。这些事情会发生吗？ ​  软件刷新后引导加载程序损坏 设备（软件）引导加载程序损坏工作正常 软件无法正常工作，因为 bootlader 已损坏，但在它之前工作得很好  如果这对这个组来说是错误的问题，或者有点混乱，请告诉我。   由   提交 /u/Equivalent-Mall6194   /u/Equivalent-Mall6194 reddit.com/r/software/comments/1bo7kfi/corrupteddamaging_bootloader/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bo7kfi/corrupteddamaged_bootloader/</guid>
+      <pubDate>Tue, 26 Mar 2024 13:12:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>找不到 Eksa Em500 鼠标软件（又名 Monster Airmars km4s）</title>
+      <link>https://www.reddit.com/r/software/comments/1bo72ic/cant_find_eksa_em500_mouse_software_aka_monster/</link>
+      <description><![CDATA[ 由   提交/u/ahmedhenry2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bo72ic/cant_find_eksa_em500_mouse_software_aka_monster/</guid>
+      <pubDate>Tue, 26 Mar 2024 12:48:22 GMT</pubDate>
+    </item>
     <item>
       <title>OCR 软件 - Windows，免费，离线，可将图片转换为文本？</title>
       <link>https://www.reddit.com/r/software/comments/1bo69wn/ocr_software_windows_free_offline_that_converts/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>使用哪种无代码/低代码解决方案来开发 CRM 平台？</title>
       <link>https://www.reddit.com/r/software/comments/1bo5jjv/which_nocodelowcode_solution_to_use_to_develop/</link>
-      <description><![CDATA[大家好 我是应用程序开发新手，目前正在浏览不同的解决方案来制作自己的 CRM 软件工具（使用重点关注客户保留组件）。我发现，在向企业销售产品时，考虑到易于实施，Microsoft PowerApps 可能是一个不错的选择，因为他们很可能是 Microsoft 用户，并且还可以实现一些 AI 功能。但我也遇到过其他解决方案，包括 OutSystems。或者有任何可以使用的 GitHub 材料吗？ 这是一个用来开发我自己的软件的好工具吗？或者还有其他更好的工具吗？我在下面列出了一些所需的功能： - 基于公司自己的数据的简单报告组件 - 该软件可以运行机器学习模型吗？例如。根据客户的选择来预测客户流失，然后显示每个客户的结果，无论是流失还是非流失？或者如果我离线运行 ML 模型，然后上传结果会更容易供我的客户查看？ - 此方法还应考虑其他一些事项，是否还有其他可能对此方法更好的解决方案？ 感谢您的宝贵时间.   由   提交 /u/ZenOILERS   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我是开发应用程序的新手，目前正在浏览不同的解决方案来制作自己的 CRM 软件工具（使用重点关注客户保留组件）。我发现，在向企业销售产品时，考虑到易于实施，Microsoft PowerApps 可能是一个不错的选择，因为他们很可能是 Microsoft 用户，并且还可以实现一些 AI 功能。但我也遇到过其他解决方案，包括 OutSystems。或者有任何可以使用的 GitHub 材料吗？ 这是一个用来开发我自己的软件的好工具吗？或者还有其他更好的工具吗？我在下面列出了一些所需的功能： - 基于公司自己的数据的简单报告组件 - 该软件可以运行机器学习模型吗？例如。根据客户的选择来预测客户流失，然后显示每个客户的结果，无论是流失还是非流失？或者如果我离线运行 ML 模型，然后上传结果会更容易供我的客户查看？ - 此方法还应考虑其他一些事项，是否还有其他可能对此方法更好的解决方案？ 感谢您的宝贵时间.   由   提交 /u/ZenOILERS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bo5jjv/which_nocodelowcode_solution_to_use_to_develop/</guid>
       <pubDate>Tue, 26 Mar 2024 11:27:44 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>寻找库存</title>
       <link>https://www.reddit.com/r/software/comments/1bo02yl/looking_for_inventory/</link>
-      <description><![CDATA[您好，我正在寻找一个免费的基于网络/应用程序的库存软件。我们只会使用它来将零件放入系统中，以便在需要零件时可以轻松参考。我们不会使用库存软件来执行任何订单履行等。这只是让我的员工知道货架上有什么   由   提交 /u/Legal_Cupcake_6579   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我正在寻找一个免费的基于网络/应用程序的库存软件。我们只会使用它来将零件放入系统中，以便在需要零件时可以轻松参考。我们不会使用库存软件来执行任何订单履行等。这只是让我的员工知道货架上有什么   由   提交/u/Legal_Cupcake_6579   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bo02yl/looking_for_inventory/</guid>
       <pubDate>Tue, 26 Mar 2024 05:26:59 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[对于 loom 用户 - 如何查看某人帐户中的所有视频？  我收到了他们的原始视频作为一系列说明的一部分，并被告知要继续观看同一用户发布的下一个视频 - 我如何访问他们帐户上的所有织机？ &gt;   由   提交 /u/CoilElectronics   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bnr4s3/loom_screen_recording_users/</guid>
       <pubDate>Mon, 25 Mar 2024 22:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态代理的最佳 VPN？</title>
-      <link>https://www.reddit.com/r/software/comments/1bnqhra/best_vpns_for_static_proxy/</link>
-      <description><![CDATA[嘿小队， 一直在浏览以了解什么是提供一系列静态选项而不是轮换的优秀 VPN 软件IP，从 SurfShack 听到了好消息，但我不确定其他人是否有可靠的推荐。  谢谢！   由   提交 /u/ParadiseJunkie84   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bnqhra/best_vpns_for_static_proxy/</guid>
-      <pubDate>Mon, 25 Mar 2024 22:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何绕过诺顿家族？(IpadOS/IOS)</title>
-      <link>https://www.reddit.com/r/software/comments/1bnk4t5/how_to_bypass_norton_familyipadosios/</link>
-      <description><![CDATA[我爸爸在我的 ipad 和电脑上安装了诺顿家族，我已经找到了在电脑上绕过它的方法，但仍需要找到绕过它的方法在我的 ipad 上，我找到了如何禁用网络保护，但我仍然需要一种方法来度过屏幕时间，有人知道吗？   由   提交 /u/Unlikely_Client8784   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bnk4t5/how_to_bypass_norton_familyipadosios/</guid>
-      <pubDate>Mon, 25 Mar 2024 17:55:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚拟助理？</title>
-      <link>https://www.reddit.com/r/software/comments/1bnjmor/virtual_assistants/</link>
-      <description><![CDATA[您好！我刚刚读到 Bonzibuddy 是一种伪装成虚拟助手的恶意软件。  我想知道当前是否有任何虚拟助手可以用来为我的桌面添加一些装饰   由   提交 /u/Alejxr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bnjmor/virtual_assistants/</guid>
-      <pubDate>Mon, 25 Mar 2024 17:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>“System-Meeter-Bar” - 自定义基准测试工具</title>
-      <link>https://www.reddit.com/r/software/comments/1bnixis/systemmeeterbar_custom_benchmark_tool/</link>
-      <description><![CDATA[社区您好！  几年前，我有一个项目，我需要检查多个系统并比较它们的计算能力。结果是这个小工具“System-Meeter-Bar”随着时间的推移获得了越来越多的功能。无论如何，随着时间的推移，我得到了多年来我根据自己的基准公式测试过的 CPU 基准列表。  列表：http://www.smb.keepfree.de/benchmark.html  所有这些结果都是通过让该工具对系统进行基准测试 1 分钟来完成的。一次是单核/线程，一次是全核/线程多核模式。 现在有一些缺失，我想知道它们将如何放置在该列表中。  我想请教一下大家，如果您有一个到目前为止尚未列出的CPU，能否请您对其进行一些测试并将结果的屏幕截图发布给我？如果我们能够获得一份更完整的列表供其他人比较他们的 CPU，如果他们正在寻找在其插槽范围内具有最佳计算能力的 CPU，那就太好了。  此测试也非常有助于确保某些系统及其驱动程序不会通过检测常见的基准测试进程来“增强”系统并知道其正在“测试”。 感谢大家对此的帮助。不管回复与否😊    由   提交 /u/Unreal_NeoX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bnixis/systemmeeterbar_custom_benchmark_tool/</guid>
-      <pubDate>Mon, 25 Mar 2024 17:08:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
