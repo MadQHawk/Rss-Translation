@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 15:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 21:11:36 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Pinnacle 是对 1986 年经典作品《The Sentinel》的现代致敬，可在 [...]</title>
-      <link>https://t.me/hn_summary/81357</link>
-      <description><![CDATA[Pinnacle – 对 1986 年经典作品《哨兵》的现代致敬
-Pinnacle 是对 1986 年经典作品《The Sentinel》的现代致敬，可在 Viperfish.com.au。 Mac Gatekeeper 最初可能会阻止该应用程序运行，但用户可以通过右键单击 .app 文件并选择打开来轻松绕过此操作。 Pinnacle 的创建者不支付加入开发者计划的费用，因此用户在尝试安装该软件时可能会遇到麻烦。这个独特的项目为《哨兵》的粉丝提供了有趣的体验，而无需支付传统的开发人员费用。]]></description>
-      <guid>https://t.me/hn_summary/81357</guid>
-      <pubDate>Tue, 26 Mar 2024 15:11:07 GMT</pubDate>
+      <title>Spinner-mouse：基于 Arduino 的 USB 旋转控制器，适用于 Arkanoid、Tempest 等。</title>
+      <link>https://t.me/hn_summary/81433</link>
+      <description><![CDATA[Spinner-mouse：基于 Arduino 的 USB 旋转控制器，适用于 Arkanoid、Tempest等等
+GitHub 上的 Spinner 鼠标游戏控制器项目为 Arkanoid 和 Tempest 等游戏提供基于 Arduino 的 USB 旋转控制器，旨在提供更真实的街机游戏体验。该项目旨在通过提供旋转控制器选项来解决使用操纵杆在模拟器上玩这些游戏的问题。该控制器具有平滑的增量旋转编码器、街机风格的微动开关按钮以及连接踏板以实现附加功能的选项。作者强调了定制选项，例如调整鼠标移动速度和按钮映射，以及通过串行端口命令切换控制器模式的能力。]]></description>
+      <guid>https://t.me/hn_summary/81433</guid>
+      <pubDate>Tue, 26 Mar 2024 21:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>嗨，HN！</title>
-      <link>https://t.me/hn_summary/81356</link>
-      <description><![CDATA[推出 HN：CommodityAI (YC W24) – 为商品交易者提供货运管理
-嗨，HN！我们是 CommodityAI 的联合创始人，该平台可以简化管理商品运输的复杂流程。全球商品贸易涉及大量流程、文件和协调，导致代价高昂的错误和低效率。我们的人工智能驱动解决方案简化了数据预处理，使用 OCR 和索引方法自动化业务流程，并使用户能够更有效地采取行动和工作流程。我们的平台已经为客户节省了时间和金钱，美国最大的农产品贸易商之一使用它处理了超过一百万份文件。观看我们的视频，看看它是如何工作的！我们欢迎熟悉商品交易行业的人士提供反馈。]]></description>
-      <guid>https://t.me/hn_summary/81356</guid>
-      <pubDate>Tue, 26 Mar 2024 15:03:29 GMT</pubDate>
+      <title>[媒体] OneText 是一家由 YC 支持的湾区初创公司，正在寻找首席设计和用户体验工程师 [...]</title>
+      <link>https://t.me/hn_summary/81432</link>
+      <description><![CDATA[OneText (YC W23) 正在招聘首席设计/用户体验工程师&lt; /a&gt;
+OneText 是一家由 YC 支持的湾区初创公司，正在寻找一位首席设计和用户体验工程师来掌控其平台的用户体验。他们正在寻找能够重新定义商家仪表板和结账流程等关键体验的人，同时也是一位精通设计工具、React 和 CSS 的优秀全能工程师。这个角色的独特之处在于强调个人愿景和所有权，而不是由委员会设计。该公司重视打造新颖独特的产品，挑战抄袭竞争对手的诱惑。首席设计和用户体验工程师还将负责提升整个工程团队的用户体验技能。]]></description>
+      <guid>https://t.me/hn_summary/81432</guid>
+      <pubDate>Tue, 26 Mar 2024 21:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>该项目是 CVE-2024-1086 的概念验证漏洞利用，这是一种通用本地权限 Esca [...]</title>
-      <link>https://t.me/hn_summary/81355</link>
-      <description><![CDATA[针对 CVE-2024-1086 的 Debian/Ubuntu 权限提升 PoC 漏洞&lt; /a&gt;
-该项目是 CVE-2024-1086 的概念验证漏洞，CVE-2024-1086 是一个通用本地权限提升漏洞，影响 v5.14 和 v6.6 之间的 Linux 内核，包括 Debian、Ubuntu 和 KernelCTF。该漏洞在 KernelCTF 图像中的成功率为 99.4%。作者在他们的博客上提供了该漏洞的详细描述。该项目包含一些警告，例如某些内核配置的兼容性问题以及网络活动频繁的系统上的网络不稳定。该漏洞可以在 Debian、Ubuntu 和 KernelCTF 系统上轻松配置、构建和运行，并提供预编译的二进制文件。作者强调，该项目仅用于教育/研究目的，不纵容任何恶意或非法使用。]]></description>
-      <guid>https://t.me/hn_summary/81355</guid>
-      <pubDate>Tue, 26 Mar 2024 15:00:53 GMT</pubDate>
+      <title>[媒体]观看这个 MarineTraffic 播放视频，显示一艘货船与 Ke [...]</title>
+      <link>https://t.me/hn_summary/81431</link>
+      <description><![CDATA[海上交通回放显示货船与基桥相撞&lt; br /&gt;
+观看这个 MarineTraffic 播放视频，显示一艘货船与基桥相撞。这段视频捕捉到了撞击的瞬间和碰撞的后果。随着当局调查事故原因，该事件引发争议。这段罕见的镜头提供了关于在繁忙水道中驾驶大型船只的危险的独特视角。请继续关注这个发展故事的更新。 #MarineTraffic #KeyBridgeCollision]]></description>
+      <guid>https://t.me/hn_summary/81431</guid>
+      <pubDate>Tue, 26 Mar 2024 20:58:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了他们关于基于波形的音乐处理和深度学习的教程 [...]</title>
-      <link>https://t.me/hn_summary/81354</link>
-      <description><![CDATA[在波形域中生成音乐（2020）&lt; br/&gt;
-作者讨论了他们在 ISMIR 2019 上提出的基于波形的音乐处理和深度学习的教程。他们深入研究了在波形域中建模音乐背后的动机，强调了挑战和好处。他们解释了波形在捕捉声音中的重要性以及相位建模的复杂性。这篇文章涵盖了生成模型，包括隐式和显式模型，以及使用条件信号来影响样本生成。讨论还涉及基于可能性的模型和密集调节信号的重要性。作者旨在引发讨论并提供对波形领域音乐生成的见解。 （根据故事文本的 22% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81354</guid>
-      <pubDate>Tue, 26 Mar 2024 14:58:16 GMT</pubDate>
+      <title>[媒体]自埃隆·马斯克 (Elon Musk) 接手并重新命名以来，美国 Twitter 的使用率骤降了 20% 以上 [...]</title>
+      <link>https://t.me/hn_summary/81430</link>
+      <description><![CDATA[自埃隆·马斯克接管以来，美国的 Twitter 使用率“下降了五分之一” 
+Sensor Tower 的数据显示，自从埃隆·马斯克 (Elon Musk) 接管并将该平台重新命名为 X 以来，Twitter 在美国的使用率已下降了 20% 以上。这种大幅下滑在主要社交网络中是史无前例的，其中 TikTok 的跌幅最接近，接近 10%。尽管 X 声称每天有 2.5 亿用户，但富达已大幅贬值该公司，自马斯克收购以来该公司股价下跌了 71.5%。马斯克对反数字仇恨中心提起的诉讼最近被加州法官驳回，该诉讼强调了该平台上的极端主义内容。围绕X的衰落和马斯克的法律纠纷的争议仍在继续展开。]]></description>
+      <guid>https://t.me/hn_summary/81430</guid>
+      <pubDate>Tue, 26 Mar 2024 20:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>BAML 是一种新的编程语言，旨在简化调用大型语言的过程 [...]</title>
-      <link>https://t.me/hn_summary/81353</link>
-      <description><![CDATA[显示 HN - BAML：一种用于获取结构化数据的新编程语言法学硕士
-BAML 是一种新的编程语言，旨在简化在代码中调用大型语言模型 (LLM) 的过程。该项目旨在解决将通常讲英语的法学硕士与使用类型的代码集成的挫败感。 BAML 采用类型优先的方法，允许用户在 BAML 文件中定义输入和输出的类型、提示模板、重试和回退。该项目的独特之处在于为 LLM 提供类型安全保证、提供出色开发人员体验的工具以及对 OpenAI 和 Azure 等各种 LLM 提供商的支持。该项目还提供工具、VSCode 扩展和入门项目以方便集成。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81353</guid>
-      <pubDate>Tue, 26 Mar 2024 14:43:37 GMT</pubDate>
+      <title>摘要：www.timokats.xyz 上的文章讨论了商业界领导的人工智能话语的兴起 [...]</title>
+      <link>https://t.me/hn_summary/81429</link>
+      <description><![CDATA[人工智能话语是无才华的商科学生试图给年轻工程师带来创伤后应激障碍
+摘要：关于 www.timokats.xyz 的文章讨论了由缺乏技术经验的商科学生主导的人工智能话语的兴起。这些人经常声称编码已死，人工智能将取代许多工作，这引起了年轻工程师的焦虑。作者认为，虽然人工智能可以自动化某些任务，但创意和艺术角色不太可能被取代。文章鼓励读者关注当下，不要过度担心未来，强调享受当下、做好本职工作的重要性。]]></description>
+      <guid>https://t.me/hn_summary/81429</guid>
+      <pubDate>Tue, 26 Mar 2024 20:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，我对 2015 年讨论 functi 的一篇热门文章做出了迟来的回应 [...]</title>
-      <link>https://t.me/hn_summary/81352</link>
-      <description><![CDATA[异步函数没有颜色
-在这篇文章中，我对 2015 年讨论异步编程中的函数着色的热门文章做出了最新回应。虽然原始文章提出了有趣的规则和概念，但我认为 async/await 的引入通过解决许多回调式问题彻底改变了环境。我深入研究了从同步函数调用异步函数的细微差别，强调了最终结果的重要性及其提供的灵活性。我还谈到了不同执行模型的重要性以及采用异步原语的好处。总的来说，我主张对函数着色和异步编程的不断发展的本质有更细致的理解。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81352</guid>
-      <pubDate>Tue, 26 Mar 2024 14:19:25 GMT</pubDate>
+      <title>[媒体] vrosasv.substack.com 上分享的有争议的观点认为，工程管理 [...]</title>
+      <link>https://t.me/hn_summary/81428</link>
+      <description><![CDATA[工程经理不应该存在
+vrosasv.substack.com 上分享的有争议的观点认为工程经理不应该存在，因为他们经常扮演各种角色，而且在任何一个角色上都没有效率。作者本身就是一名工程经理，他认为产品经理才是团队真正的领导者，而工程师才是真正完成工作的人。作者还强调了团队内部的权力动态，其中经理的影响力甚至比最高级别的工程师还要大。作者认为，最好的团队是那些没有经理密切关注、让他们能够集中注意力并提高工作效率的团队。作者还对“项目负责人+职业教练”的咨询模式表示赞赏，认为这是一种更有效的职责分工。]]></description>
+      <guid>https://t.me/hn_summary/81428</guid>
+      <pubDate>Tue, 26 Mar 2024 20:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>固定电话正在消失。</title>
-      <link>https://t.me/hn_summary/81351</link>
-      <description><![CDATA[固定电话正在消失。但对某些人来说，它们是生命线
-在华盛顿州恩努克劳等农村地区，固定电话是许多人的生命线，尤其是在停电和紧急情况下。尽管固定电话用户数量急剧下降，并且 AT&amp;T 等提供商希望逐步淘汰该服务，但数百万人仍然依赖铜线固定电话来确保安全。 AT&amp;T 试图停止加州部分地区的固定电话服务，引发了对老年人、残疾人和低收入人群安全的担忧。尽管人们正在推动蜂窝或 VoIP 服务等替代服务的发展，但传统固定电话的可靠性和安全性对于那些依赖传统固定电话的人来说仍然是无与伦比的。]]></description>
-      <guid>https://t.me/hn_summary/81351</guid>
-      <pubDate>Tue, 26 Mar 2024 14:18:21 GMT</pubDate>
+      <title>贝叶斯畏缩是一个术语，用于描述贝叶斯统计学家对你的犹豫 [...]</title>
+      <link>https://t.me/hn_summary/81427</link>
+      <description><![CDATA[贝叶斯危机 (2021)
+贝叶斯畏缩是一个术语，用于描述贝叶斯统计学家在模型中使用先验信息的犹豫。这种态度源于这样一种信念，即非贝叶斯方法是默认方法，并且只有在有充分理由的情况下才应使用贝叶斯方法。然而，人们正在转向接受信息丰富的先验作为诱导稳定性和改进模型预测的一种方式。正则化术语的使用有助于摆脱贝叶斯的畏缩，强调部分池化到先验以获得更好结果的重要性。尽管有些人仍然持有反贝叶斯观点，但趋势是利用所有可用信息进行更准确的建模。]]></description>
+      <guid>https://t.me/hn_summary/81427</guid>
+      <pubDate>Tue, 26 Mar 2024 20:24:54 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的知识图语言 (KGL) 项目提供了一种用于交互的查询语言 [...]</title>
-      <link>https://t.me/hn_summary/81350</link>
-      <description><![CDATA[显示HN：KGL，一种知识图查询语言
-GitHub 上的知识图语言 (KGL) 项目提供了一种查询语言，通过接受语义三元组并对它们进行索引以进行查询，从而与图进行交互。它可用于查找与节点关联的属性、返回连接的节点、根据条件过滤查询以及描述图中节点之间的关系。该项目通过提供过滤器查询、内省模式和描述运算符等功能而脱颖而出。它还提供了用于创建和查询知识图的Python API。该项目的自述文件作为官方语言参考，并根据 MIT 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/81350</guid>
-      <pubDate>Tue, 26 Mar 2024 14:05:35 GMT</pubDate>
+      <title>[媒体]利率大幅下降将是令人讨厌、残酷和漫长的，是对[...]的全面分析</title>
+      <link>https://t.me/hn_summary/81426</link>
+      <description><![CDATA[利率大幅下降将是令人讨厌、残酷和漫长的
+《利率大幅下降将是令人讨厌、残酷和漫长的》是对各国央行应对新冠疫情后通胀浪潮时全球经济格局的全面分析。事实证明，通胀峰值的回落是一段危险的旅程，各国央行面临着在不造成经济衰退或重新引发物价上涨的情况下撤退的棘手任务。不同国家货币反应的差异增加了所涉及的复杂性和风险。与发达市场相比，新兴市场表现出更好的经济管理，一些市场已经降息。未来的下降充满挑战，需要各国央行采取谨慎和协调的行动。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81426</guid>
+      <pubDate>Tue, 26 Mar 2024 20:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hybrid-Net 是一个人工智能驱动的多模式项目，专注于音乐，利用 Transfor [...]</title>
-      <link>https://t.me/hn_summary/81349</link>
-      <description><![CDATA[Hybrid-Net：实时音源分离，生成歌词，和弦、节拍
-Hybrid-Net 是一个专注于音乐的人工智能多模式项目，它利用基于 Transformer 的模型实时生成任何歌曲的和弦、节拍、歌词、旋律和标签。该项目包括各种 Transformer 模型，例如 U-Net、Pitch-Net、Beat-Net、Chord-Net 和 Segment-Net，它们协同工作以建立音乐不同方面之间的关联。该项目提供和弦检测、节拍跟踪、音高跟踪、音乐结构分析、歌词识别和人工智能生成的标签等功能。它还支持音源分离、速度调整和音调转换。该项目通过在实时环境中提供一整套与音乐相关的功能而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/81349</guid>
-      <pubDate>Tue, 26 Mar 2024 14:04:29 GMT</pubDate>
+      <title>[媒体]我们对Fediverse治理和管理的研究已经正式开始，我们[...]</title>
+      <link>https://t.me/hn_summary/81425</link>
+      <description><![CDATA[开始我们的 Fediverse 研究 – Fediversalist 文件&lt; br /&gt;
+我们对 Fediverse 治理和管理的研究已经正式开始，并且我们创建了一个联合博客来分享更新。我们的主要问题是关于大中型 Fediverse 服务器的有效治理模型以及确定基础设施差距。我们将与世界各地的服务器管理/模组团队进行深入对话以收集见解。此外，我们将与各个团体进行更轻松的讨论和调查。我们的研究结果将通过手册、建议和最终报告来分享。订阅我们的时事通讯或在 Mastodon 上关注我们，随时了解最新动态。我们的目标是为所有用户创造一个更安全、更好的Fediverse。]]></description>
+      <guid>https://t.me/hn_summary/81425</guid>
+      <pubDate>Tue, 26 Mar 2024 20:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。</title>
-      <link>https://t.me/hn_summary/81348</link>
-      <description><![CDATA[如果不提供 Google 私人签名密钥，VLC 无法在 Android 上更新&lt; /a&gt;
-不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。 Google 要求用户提供私人签名密钥才能更新其设备上的 VLC。谷歌这一有争议的举动引发了关注隐私和安全的用户的愤怒。如果不提供这些密钥，用户将无法接收流行媒体播放器的更新。这引发了关于谷歌等科技巨头对我们在设备上使用的应用程序的控制权的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/81348</guid>
-      <pubDate>Tue, 26 Mar 2024 14:01:55 GMT</pubDate>
+      <title>[媒体]编程语言中的维度分析是一种比较和计算的技术[...]</title>
+      <link>https://t.me/hn_summary/81424</link>
+      <description><![CDATA[编程语言中的维度分析
+编程语言中的量纲分析是一种比较和计算包含单位的数值量的技术。争议在于它应该作为语言功能还是库来实现。 John D. Cook 指出，使用类型来表示测量系统很流行，但因其增加的复杂性而存在争议。在代码中实现维度分析可以提高大型项目的可靠性、可理解性和可维护性。令人惊讶的是，只有少数主流语言（例如 F#）内置了对维度分析的支持，并且大多数实现都是通过库完成的。将单元合并到编程语言中的研究可以追溯到 20 世纪 60 年代，并且不断努力实现单元类型推断的自动化。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81424</guid>
+      <pubDate>Tue, 26 Mar 2024 19:57:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
