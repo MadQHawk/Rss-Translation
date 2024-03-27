@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Mar 2024 18:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 21:12:12 GMT</lastBuildDate>
+    <item>
+      <title>让我们来谈谈 Apache AGE：PostgreSQL 的图形扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bpd2a9/lets_talk_about_apache_age_a_graph_extension_for/</link>
+      <description><![CDATA[大家好u/opensource！我是 Apache AGE 的核心贡献者之一，这是一个开源项目，致力于向 PostgreSQL 添加图形数据库功能，我非常高兴能在这里与大家分享。 🎉 为什么我要把 Apache AGE 带到这里？嗯，很简单： 社区与协作：我们对开源充满热情，并相信社区贡献和反馈的力量。 灵活性和创新：&lt; /strong&gt; Apache AGE 代表了关系数据库的结构化世界和图形数据库的互连领域之间的一座桥梁，为您的项目提供了独特的功能组合。 共同学习和成长：是否如果您是数据库爱好者或只是对新技术感到好奇，我来这里是为了向您学习、回答问题，甚至可能一起解决一些难题。 这是关于分享我们喜欢的东西并发现类似 -有头脑的人可能会发现它有用或有趣。如果图数据库引起您的兴趣，或者您有见解、问题，或者只是想讨论数据库的未来，我洗耳恭听！ com/apache/age&quot;&gt;Apache AGE GitHub &amp; 网站    由   提交/u/Eya_AGE  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bpd2a9/lets_talk_about_apache_age_a_graph_extension_for/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，🙂 随着日新月异的快速发展，我们邀请您在这篇新文章中了解如何根据您的操作系统安装 Jami 的 Beta 版本。 🙆‍♂️ Beta 还意味着享受最新功能、定期更新，并在正式发布之前向我们发送您的反馈。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bpcvg7/hello_with_daily_and_rapid_advances_we_invite_you/</link>
+      <description><![CDATA[   /u/GNUJami   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bpcvg7/hello_with_daily_and_rapid_advances_we_invite_you/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>您能帮助我们让我们的开源库在 Product Hunt 上得到推荐吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bpc0ky/can_you_help_us_get_our_open_source_lib_to_be/</link>
+      <description><![CDATA[    /u/pjbacelar   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bpc0ky/can_you_help_us_get_our_open_source_lib_to_be/</guid>
+      <pubDate>Wed, 27 Mar 2024 20:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找指导框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bp9m8m/looking_for_mentoring_framework/</link>
+      <description><![CDATA[我正在寻找一个开源框架，我可以自行托管该框架，以在具有非常特定技能的领域开发指导计划。寻找创建导师和受训者个人资料、聊天、搜索的基本功能。   由   提交/u/mustard_samrich  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bp9m8m/looking_for_mentoring_framework/</guid>
+      <pubDate>Wed, 27 Mar 2024 18:49:18 GMT</pubDate>
+    </item>
     <item>
       <title>对开放乌塔的看法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bp6jcp/views_on_open_utau/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>Python 的 Makefile 解析器库</title>
       <link>https://www.reddit.com/r/opensource/comments/1boxcyh/makefile_parser_library_for_python/</link>
-      <description><![CDATA[大家好！  我很自豪地推出一个我认为有用的 Python Makefile 解析器！ 链接是 Thanatisia/makefile-parser-python 最近，我一直在计划一个涉及在 Python 中使用 Makefile 的副项目，并且我需要使用Makefile 解析器 ala json 或 pyyaml - 您可以将 Makefile 作为对象/字典/列表导入到 python 中。因此，我开始寻找 Makefile 解析器。  我发现的唯一解析器是 PyMake(2)，它很酷，但据我记忆，它自 2017 年以来就没有更新过，而且它更像是一个 CLI 实用程序，因此考虑到这一点，我想要实现它 我希望这对我来说是有用的，目前我正在一个业余项目中使用它，并且我能够对其进行格式化，以便它打印出典型的Makefile 结构一目了然，非常好。   由   提交 /u/Cybasura   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！  我很自豪地介绍一个我认为有用的 Python Makefile 解析器！ 链接是 Thanatisia/makefile-parser-python 最近，我一直在计划一个涉及在 Python 中使用 Makefile 的副项目，并且我需要使用Makefile 解析器 ala json 或 pyyaml - 您可以将 Makefile 作为对象/字典/列表导入到 python 中。因此，我开始寻找 Makefile 解析器。  我发现的唯一解析器是 PyMake(2)，它很酷，但据我记忆，它自 2017 年以来就没有更新过，而且它更像是一个 CLI 实用程序，因此考虑到这一点，我想要实现它 我希望这对我来说是有用的，目前我正在一个业余项目中使用它，并且我能够对其进行格式化，以便它打印出典型的Makefile 结构一目了然，非常好。   由   提交 /u/Cybasura   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boxcyh/makefile_parser_library_for_python/</guid>
       <pubDate>Wed, 27 Mar 2024 09:03:03 GMT</pubDate>
     </item>
@@ -64,14 +92,14 @@
     <item>
       <title>我们可以将我的 HVAC 机械公司的所有流程开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</link>
-      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky  [链接] [评论]]]></description>
+      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</guid>
       <pubDate>Wed, 27 Mar 2024 03:44:04 GMT</pubDate>
     </item>
     <item>
       <title>我如何分析 OSS 社区</title>
       <link>https://www.reddit.com/r/opensource/comments/1bortre/how_i_analyze_an_oss_community/</link>
-      <description><![CDATA[    &lt; / a&gt;   由   提交/u/tison1096  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    &lt; /&gt; a&gt;   由   提交/u/tison1096  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bortre/how_i_analyze_an_oss_community/</guid>
       <pubDate>Wed, 27 Mar 2024 03:14:10 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是 JSON 的快乐用户，直到我了解到他们该死的白痴许可证：  该软件应使用为了善，而不是恶。  我想保持向后兼容性，所以最明显的选择是 yaml。但我想知道，既然yaml是json的超集，它是否也是在json许可证下分发的？如果是这样，我还有什么其他选择？   由   提交/u/4colour  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bopbf6/what_is_yamls_license_looking_for_json/</guid>
       <pubDate>Wed, 27 Mar 2024 01:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>打造出色的 PDF 编辑器所需的所有工具均已存在。为什么我们不能连接它们？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bookhi/all_of_the_tools_needed_to_make_a_great_pdf/</link>
-      <description><![CDATA[我花了一周的大部分时间尝试分析一些施工文档/蓝图（一次性项目），而无需每年花费 300 美元对于蓝束。  我需要的功能：  OCR 合并 PDF 文件 拼合和光栅化 PDF &lt; li&gt;注释 PDF “签名”带有矢量化签名的 PDF  测量 PDF 的面积（比例：3/32&quot; = 1ft）  我尝试过 Sumatra、Okular、Poppler-Tools没有一种工具可以完全完成这项工作。有些人推荐 InkScape 和 LibreOffice，但这些并不是简单的 8.5x11&quot; 版本。 5页文件。它们通常长达一百页，其中一些为 24x36 英寸。其中的图画。  令人沮丧的是所有这些功能确实存在，但它们的效率太低，碎片化以致无法使用。  遗憾的是，我想我只能崩溃并得到 Bluebeam。我知道处理 PDF 并不容易，但是我们已经很接近了！    由   提交/u/Blackstar1886   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bookhi/all_of_the_tools_needed_to_make_a_great_pdf/</guid>
-      <pubDate>Wed, 27 Mar 2024 00:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>麻省理工学院执照问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</link>
-      <description><![CDATA[假设我基于一些具有 MIT 许可证的代码创建了一个新作品。新代码经过大量修改。 我认为正确的方法是（Doxygen/DocBlock 注释）  @license 专有许可证 @copyright 2024 me @license MIT @copyright 2020-2023 原始开发者    由   提交/u/burner-999b   /u/burner-999b  reddit.com/r/opensource/comments/1bojxln/mit_licence_question/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bojxln/mit_licence_question/</guid>
-      <pubDate>Tue, 26 Mar 2024 21:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 替代方案 - Radile</title>
-      <link>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</link>
-      <description><![CDATA[如果有人对微软拥有 Github 和 Open AI 并积极游说政府确保“人工智能安全”感到害怕，那么是时候探索一个真正的同行了点对点代码协作网络。  Radicle 团队今天发布了他们的产品，将 git 扩展为真正的 P2P。  这可能更符合 Linus Torvald 关于如何使用 git 的最初愿景。不是技术垄断拥有的 Github。  https://x.com/radicle/status/1772659708978991605?s =20 https://radicle.xyz/guides/user   由   提交 /u/Correct-External-778   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</guid>
-      <pubDate>Tue, 26 Mar 2024 19:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>RemoteStorage：一个简单的库，它将 localStorage API 与远程服务器相结合，以跨浏览器和设备保存数据（更新）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bof4i6/remotestorage_a_simple_library_that_combines_the/</link>
-      <description><![CDATA[ 由   提交/u/supportingthedogs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bof4i6/remotestorage_a_simple_library_that_combines_the/</guid>
-      <pubDate>Tue, 26 Mar 2024 18:28:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
