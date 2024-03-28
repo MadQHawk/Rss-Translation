@@ -4,86 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 09:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 12:21:56 GMT</lastBuildDate>
     <item>
-      <title>通过我们展示的交互式树形图，以视觉上令人惊叹的方式探索全球经济 [...]</title>
-      <link>https://t.me/hn_summary/81653</link>
-      <description><![CDATA[2020 年世界 GDP 按购买力平价 (PPP) 树状图
-通过我们的交互式树状图，以视觉震撼的方式探索全球经济，该树状图展示了 2020 年按购买力平价 (PPP) 计算的世界 GDP。该数据源自《世界概况》，提供了有关各国财富分配的独特视角。可能会出现争议，因为有些人可能会质疑购买力平价计算背后的准确性或方法，但这张树状图提供了对世界经济格局的迷人观察。深入研究并发现全球范围内存在的令人惊讶的财富差距和集中度。]]></description>
-      <guid>https://t.me/hn_summary/81653</guid>
-      <pubDate>Thu, 28 Mar 2024 09:13:34 GMT</pubDate>
+      <title>美国国家标准与技术研究院 (NIST) 发布了一份实践指南，以帮助 [...]</title>
+      <link>https://t.me/hn_summary/81673</link>
+      <description><![CDATA[利用 TLS 1.3 解决企业内部的可见性挑战&lt; br/&gt;
+美国国家标准与技术研究院 (NIST) 发布了实践指南，帮助各行业实施最新的互联网安全协议 TLS 1.3，同时对传入数据进行网络攻击所需的监控。本指南提供了技术方法，以确保组织能够保护其数据，同时满足审计和网络安全的监管要求。 TLS 1.3 给需要访问密钥以进行监控的企业带来了挑战，但该指南提供了安全的替代方案来解决这些问题。 NIST 正在就该指南草案征求公众意见，截止时间为 2024 年 4 月 1 日，以增强企业安全性和对最新加密工具的合规性。]]></description>
+      <guid>https://t.me/hn_summary/81673</guid>
+      <pubDate>Thu, 28 Mar 2024 12:21:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 人权律师杰弗里·罗伯逊 (Geoffrey Robertson) 对朱利安·阿桑奇 (Julian Assange) 的行为表示担忧 [...]</title>
-      <link>https://t.me/hn_summary/81652</link>
-      <description><![CDATA[“他身体不太好”：对朱利安·阿桑奇心理健康的担忧 [视频](https://news.ycombinator.com/item?id=39848119)
-人权律师杰弗里·罗伯逊对朱利安·阿桑奇的心理健康表示担忧，称“他身体不好”。阿桑奇曾在厄瓜多尔大使馆和戒备森严的监狱里呆了多年，目前面临被引渡到美国的风险。罗伯逊认为，如果阿桑奇早些受到处理，那就更公正了。在第一次听证会上，阿桑奇被认为如果被引渡有自杀的风险。围绕阿桑奇心理健康和治疗的争议引发了人们对他的福祉和法律程序公平性的质疑。]]></description>
-      <guid>https://t.me/hn_summary/81652</guid>
-      <pubDate>Thu, 28 Mar 2024 08:45:53 GMT</pubDate>
+      <title>[媒体] subreddit r/tragedeigh 是一个家长可以分享搞笑、可怕和不愉快的地方 [...]</title>
+      <link>https://t.me/hn_summary/81672</link>
+      <description><![CDATA[Reddit 版块嘲笑你孩子的名字太搞笑了
+在 Reddit r/tragedeigh 子版块里，父母可以分享他们遇到过的搞笑又可怕的独特名字，甚至可以就他们正在为自己的孩子考虑的名字征求意见。社区嘲笑故意拼写错误或完全虚构的名字，在独特性和社会可接受性之间建立平衡。虽然幽默是低调和批评的，但人们担心侵犯隐私，特别是在个人身份信息没有得到适当编辑的情况下。 Russell Goldman 等研究人员研究了文化趋势如何影响命名选择，但 r/tragedeigh 更关注震撼价值和颠覆传统命名惯例。最后，这个 Reddit 子版块挑战了关于名字应该是什么的先入为主的观念，让我们质疑 Emmaleigh 和 Dugsly 等名字的独特性。]]></description>
+      <guid>https://t.me/hn_summary/81672</guid>
+      <pubDate>Thu, 28 Mar 2024 12:05:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在令人惊讶的事件转变中，生成人工智能一直在产生幻觉软件包[...]</title>
-      <link>https://t.me/hn_summary/81651</link>
-      <description><![CDATA[AI 产生幻觉软件包并让开发者下载
-令人惊讶的是，生成式人工智能已经产生了幻觉软件包，这些软件包已被主要企业纳入源代码中。安全研究人员 Bar Lanyado 发现了这一现象，甚至将其中一个虚构的依赖项变成了真实的依赖项，该依赖项已被开发人员下载了数千次。潜在的危险在于这些假包可能含有恶意软件。 Lanyado 的研究表明，人工智能模型可以推荐不存在的软件包，从而为恶意行为者通过以这些名称分发恶意软件来利用这一点提供了可能性。虽然尚未在实际攻击中使用，但其影响令人担忧。]]></description>
-      <guid>https://t.me/hn_summary/81651</guid>
-      <pubDate>Thu, 28 Mar 2024 08:39:14 GMT</pubDate>
+      <title>[媒体]该项目是一个云原生人工智能网关基础设施堆栈，旨在构建p [...]</title>
+      <link>https://t.me/hn_summary/81671</link>
+      <description><![CDATA[Show HN：我构建了一个支持 gRPC 的 AI 网关
+该项目是一个云原生 AI 网关基础设施堆栈，旨在构建生产就绪的 AI 应用程序。它提供了一个通用 API，用于与来自 OpenAI、Azure 和 HuggingFace 等不同提供商的 100 多个 LLM 进行推理。主要功能包括无缝集成、可靠的 LLM 路由、负载平衡、自动重试和高可用性。它还支持详细的使用情况分析、PII 检测、缓存和可观察性。该项目的独特之处在于其企业级功能、增强的安全性、可靠性以及自定义部署支持的规模。它是开源的，欢迎贡献，并在 Apache 2.0 下获得许可。]]></description>
+      <guid>https://t.me/hn_summary/81671</guid>
+      <pubDate>Thu, 28 Mar 2024 11:27:30 GMT</pubDate>
     </item>
     <item>
-      <title>当今的年轻人在就业市场上面临着前所未有的挑战，求职 [...]</title>
-      <link>https://t.me/hn_summary/81650</link>
-      <description><![CDATA[对于年轻人来说，找工作从未如此痛苦
-如今的年轻人在就业市场上面临着前所未有的挑战，求职过程被形容为“痛苦”。新的《金融时报》数字版全面介绍了当今的就业市场，为年轻求职者提供了宝贵的见解和信息。不过，需要注意的是，此订阅不包括访问 ft.com&lt; /a&gt; 或 FT 应用程序，因此用户在考虑他们的选择时需要牢记这一点。借助《金融时报》数字版，随时了解最新情况并在竞争激烈的就业市场中保持领先地位。]]></description>
-      <guid>https://t.me/hn_summary/81650</guid>
-      <pubDate>Thu, 28 Mar 2024 06:34:07 GMT</pubDate>
+      <title>标题：澳大利亚近 100% 的可再生能源电网是可行且负担得起的</title>
+      <link>https://t.me/hn_summary/81670</link>
+      <description><![CDATA[澳大利亚近 100% 的可再生能源电网是可行且负担得起的
+标题：澳大利亚近 100% 的可再生能源电网是可行且负担得起的
+
+摘要：
+作者每周对澳大利亚的主要电网进行模拟，证明只需存储五个小时即可实现接近 100% 的可再生电力。使用实际发电和需求数据，模拟显示 96%-99% 的可再生能源电网比之前想象的更容易实现。通过重新调整风能、太阳能和水力发电数据，作者以 95 美元/MWh 的成本实现了 98.8% 的可再生能源供应。这些模拟强调了冬季供需匹配的挑战以及地理多样性在可再生能源发电中的重要性。该研究为澳大利亚近 100% 可再生能源电网的可行性和可负担性提供了宝贵的见解。 （根据 38% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81670</guid>
+      <pubDate>Thu, 28 Mar 2024 11:19:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1958 年，感知器作为一款突破性的房间大小的计算机推出，可以 [...]</title>
-      <link>https://t.me/hn_summary/81649</link>
-      <description><![CDATA[我们曾经经历过：人工智能承诺会在 1958 年创造出类人机器
-1958 年，感知器作为一款突破性的房间大小的计算机推出，有望打造出类人机器。现在，六十多年过去了，人们对当前的人工智能也提出了类似的说法。人工智能领域经历了繁荣与萧条的周期，乐观推动进步，但也导致失败。弗兰克·罗森布拉特 (Frank Rosenblatt) 发明的感知器为人工智能奠定了基础，现代人工智能系统的工作原理类似，从错误中学习以改进预测。然而，处理新信息、理解复杂语言等挑战仍然存在，提醒我们在人工智能发展中不断汲取过去的经验教训。]]></description>
-      <guid>https://t.me/hn_summary/81649</guid>
-      <pubDate>Thu, 28 Mar 2024 06:21:31 GMT</pubDate>
+      <title>英特尔吹嘘股票回购额为 152B 美元。</title>
+      <link>https://t.me/hn_summary/81669</link>
+      <description><![CDATA[英特尔吹嘘 152B 美元的股票回购。为什么需要 8B 美元补贴？
+美国最大的芯片制造商英特尔，尽管自 1990 年以来在股票回购上花费了高达 1,520 亿美元，但仍从联邦政府获得了 85 亿美元的拨款。这一有争议的举动引发了人们对该公司优先事项和纳税人资金使用的质疑。尽管政界人士将创造就业机会和国家安全作为拨款的理由，但人们担心可能会裁员，而且对资金的使用缺乏监督。作者认为，解决方案是加强工会并发起一场强大的群众运动，让企业承担责任并防止纳税人的钱进一步被剥削。]]></description>
+      <guid>https://t.me/hn_summary/81669</guid>
+      <pubDate>Thu, 28 Mar 2024 11:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]年轻人服用治疗多动症的兴奋剂药物可能会增加患多动症的风险 [...]</title>
-      <link>https://t.me/hn_summary/81648</link>
-      <description><![CDATA[多动症兴奋剂可能会增加年轻人心脏受损的风险
-根据美国心脏病学会年度科学会议上发表的一项研究，年轻人服用治疗多动症的兴奋剂药物可能会增加患心肌病（心肌衰弱）的风险。虽然风险相对较低，但服用阿得拉和利他林等药物的人随着时间的推移更有可能出现心脏损伤。研究表明，临床医生可能不需要改变他们开兴奋剂的方法，但需要进一步研究来确定潜在的危险因素和可能从筛查中受益的患者亚组。]]></description>
-      <guid>https://t.me/hn_summary/81648</guid>
-      <pubDate>Thu, 28 Mar 2024 05:41:45 GMT</pubDate>
+      <title>[媒体]在 Levels.fyi，我们使用 PostgreSQL 构建了一个可扩展的搜索功能，可以处理 ov [...]</title>
+      <link>https://t.me/hn_summary/81668</link>
+      <description><![CDATA[Levels.fyi 如何使用 PostgreSQL 构建可扩展搜索&lt; br/&gt;
+在 Levels.fyi 中，我们使用PostgreSQL 每月处理超过 1000 万次查询，性能令人印象深刻。我们支持各种搜索类型和复合搜索，使用小写索引和物化视图优化我们的查询。我们解决了通配符搜索等挑战，并实施了全文搜索以改进结果。我们独特的相关性算法会考虑流行度和相似度等因素，以提供最佳搜索结果。通过投资 PostgreSQL，我们找到了一种满足我们数据需求的经济高效的解决方案，避免了通过替代方法产生的潜在费用。加入我们，踏上从基本匹配到强大搜索解决方案的旅程！ 😂]]></description>
+      <guid>https://t.me/hn_summary/81668</guid>
+      <pubDate>Thu, 28 Mar 2024 11:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了成为数字世界中的另一个 NPC？</title>
-      <link>https://t.me/hn_summary/81647</link>
-      <description><![CDATA[ST-DOS
-厌倦了成为数字世界中的另一个 NPC？隆重推出 lEEt/OS，一款让您脱颖而出的操作系统。 lEEt/OS 由 Sami Tikkanen 开发，为希望脱颖而出的用户提供独特且创新的体验。告别无聊的界面，迎接新水平的定制和控制。加入革命并通过 lEEt/OS 发表声明。]]></description>
-      <guid>https://t.me/hn_summary/81647</guid>
-      <pubDate>Thu, 28 Mar 2024 05:04:32 GMT</pubDate>
+      <title>[媒体] 在这篇 2016 年《福布斯》文章中，作者深入探讨了使用量子 [...]</title>
+      <link>https://t.me/hn_summary/81667</link>
+      <description><![CDATA[为什么量子纠缠不允许超光速通信（ 2016）
+在这篇 2016 年《福布斯》文章中，作者深入探讨了使用量子纠缠进行超光速通信的复杂性。虽然这个想法表面上似乎合理，但作者解释了为什么不可能使用纠缠粒子发送消息。这篇文章强调了进行测量和迫使粒子进入特定状态之间的区别，强调后者打破了纠缠。作者还讨论了使用不同测量基础发送信息的挑战，以及量子随机性如何最终阻止超光速通信。文章的结论是，尽管量子纠缠具有令人着迷的性质，但它不能用于超光速消息传递。]]></description>
+      <guid>https://t.me/hn_summary/81667</guid>
+      <pubDate>Thu, 28 Mar 2024 10:57:01 GMT</pubDate>
     </item>
     <item>
-      <title>天文学家突破性地发现了一个罕见的食 Be/X 射线双星系统，k [...]</title>
-      <link>https://t.me/hn_summary/81646</link>
-      <description><![CDATA[天文学家发现了罕见的食 X 射线双星&lt; br/&gt;
-天文学家突破性地发现了一个罕见的食 Be/X 射线双星系统，称为 Swift J010902.6-723710，作为 Swift 小麦哲伦云巡天的一部分。该系统是迄今为止已知的第三个此类系统，展示了独特的特征，例如拟议的轨道周期为 60.623 天，中子星的自转周期为 182 秒。该系统的伴星是一颗光谱级为Ve的B0-0.5星，并且已证实中子星周围存在大型吸积盘。这一发现为更详细地研究 Be/X 射线双星物理参数提供了宝贵的机会。]]></description>
-      <guid>https://t.me/hn_summary/81646</guid>
-      <pubDate>Thu, 28 Mar 2024 04:53:26 GMT</pubDate>
+      <title>[媒体]强生公司已获得对科学证据提出质疑的机会 [...]</title>
+      <link>https://t.me/hn_summary/81666</link>
+      <description><![CDATA[美国法官强生可以对滑石粉与癌症相关的证据提出质疑规则
+强生公司获得了对滑石粉与卵巢癌相关的科学证据提出质疑的机会，这可能会影响针对该公司的超过 53,000 起诉讼。美国新泽西州地区法官迈克尔·希普 (Michael Shipp) 做出的裁决是在最近法律变化和新的科学证据之后做出的。强生公司诉讼副总裁对这一决定表示满意，旨在挑战之前试验中使用的所谓“垃圾科学”。原告律师辩称，将强生产品与癌症联系起来的证据比以往任何时候都更加有力，并指控该公司存在欺骗行为。此案将继续对科学证据进行新的争论。]]></description>
+      <guid>https://t.me/hn_summary/81666</guid>
+      <pubDate>Thu, 28 Mar 2024 10:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克 (Elon Musk) 预计特斯拉 Optimus 机器人的定价“不到 [...]</title>
-      <link>https://t.me/hn_summary/81645</link>
-      <description><![CDATA[埃隆·马斯克表示特斯拉 Optimus 机器人的成本应该不到汽车的一半
-埃隆·马斯克 (Elon Musk) 预计特斯拉 Optimus 机器人的售价“不到汽车价格的一半”，可能在 20,000 美元至 25,000 美元之间。这款人形机器人旨在接管重复性和危险的任务，其最新原型已显示出显着改进。马斯克认为，Optimus 最终可能占据特斯拉长期价值的大部分，需求量可能达到 10 至 200 亿辆。虽然没有明确的生产时间表，但马斯克此前表示最早可能在 2023 年开始。特斯拉一直在积极为其机器人项目招聘员工，这标志着这一雄心勃勃的目标取得了进展。]]></description>
-      <guid>https://t.me/hn_summary/81645</guid>
-      <pubDate>Thu, 28 Mar 2024 04:49:22 GMT</pubDate>
+      <title>[媒体]苹果粉丝的激动人心的消息！</title>
+      <link>https://t.me/hn_summary/81665</link>
+      <description><![CDATA[Apple M3 Ultra芯片将被重新设计为自己的独立芯片
+对于苹果粉丝来说，这是一个令人兴奋的消息！ Apple M3 Ultra 芯片将被重新设计为自己的独立芯片，有望提供更高的功率和效率。此举标志着苹果致力于突破技术和创新的界限。请继续关注这一突破性发展的最新动态。 #Apple #M3Ultra #Innovation #Technology #StayTuned]]></description>
+      <guid>https://t.me/hn_summary/81665</guid>
+      <pubDate>Thu, 28 Mar 2024 10:46:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]布鲁克莱恩的 Soofa 标志不仅仅是电子显示屏 - 它们是收集 [...]</title>
-      <link>https://t.me/hn_summary/81644</link>
-      <description><![CDATA[布鲁克莱恩的数字标牌会在您走过时从您的手机收集数据
-布鲁克莱恩的 Soofa 标志不仅仅是电子显示屏，它们还会在您走过时从您的手机收集数据。这些七英尺长的标志由剑桥初创公司 Soofa 安装，通过收集 15 英尺内手机的 MAC 地址来计算行人数量。虽然 Soofa 声称他们不收集个人数据，但美国公民自由联盟 (ACLU) 提出了对隐私的担忧。居民不能选择退出此数据收集，布鲁克莱恩镇也不会积极使用收集到的信息。 Soofa 认为，这些数据可以帮助小型企业根据行人流量调整营业时间。围绕此数据收集的争议促使马萨诸塞州美国公民自由联盟 (ACLU) 提议立法限制此类做法。]]></description>
-      <guid>https://t.me/hn_summary/81644</guid>
-      <pubDate>Thu, 28 Mar 2024 03:18:48 GMT</pubDate>
+      <title>www.zarl.dev 上网络内容的作者讨论了对 [...]</title>
+      <link>https://t.me/hn_summary/81664</link>
+      <description><![CDATA[Go 枚举仍然很糟糕
+www.zarl.dev 上网页内容的作者讨论对 Go Enums 的批评和改进。尽管存在一些强烈反对和非建设性评论，但作者发现了对其想法的良好讨论和支持。他们解决了诸如不必要的 JSON 配置和可扩展枚举之类的批评，并提供了使用行星作为枚举值的详细示例。通过使用ast包和struct格式，作者重建了他们的生成器以提高效率和功能。向枚举值添加属性的独特方法可以轻松扩展包装器，使 Go Enums 更加通用和实用。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81664</guid>
+      <pubDate>Thu, 28 Mar 2024 10:38:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
