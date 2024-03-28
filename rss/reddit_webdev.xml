@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 15:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:16:10 GMT</lastBuildDate>
     <item>
-      <title>W3C 验证：右双引号</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxuv9/w3c_validation_right_double_quotation_marks/</link>
-      <description><![CDATA[        由   提交/u/avidrunner84  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxuv9/w3c_validation_right_double_quotation_marks/</guid>
-      <pubDate>Thu, 28 Mar 2024 15:07:20 GMT</pubDate>
+      <title>Shopify 开发是如何进行的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq26s8/how_does_shopify_development_work/</link>
+      <description><![CDATA[大家好。我开始对开发 Shopify 应用程序感兴趣。但当我开始接触它时，我变得非常困惑。应用程序是使用 Shopify CLI 开发的吗？或者它们是用 Liquid 开发的？我什至见过一些使用 Ruby 构建的应用程序/应用程序模板。那么它是怎么做到的呢？   由   提交/u/lauris652  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq26s8/how_does_shopify_development_work/</guid>
+      <pubDate>Thu, 28 Mar 2024 18:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>简单网站的集合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxsei/a_collection_of_simple_websites/</link>
-      <description><![CDATA[       由   提交/u/smokebath   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxsei/a_collection_of_simple_websites/</guid>
-      <pubDate>Thu, 28 Mar 2024 15:04:24 GMT</pubDate>
+      <title>部署特定目录而不在 Vencel 上构建</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq24qc/deploying_a_specific_dir_without_build_on_vencel/</link>
+      <description><![CDATA[大家好 有没有类似netlify cli的部署-- dir= 标志？ 在 netliny 中，我可以执行“netlify deploy --dir=./dist”它将从 dist/ 文件夹中获取内容并将其直接上传到 netlify。 我一直在尝试使用 vercel cli 执行此操作，但没有成功. 它要求我先运行构建命令。 Vercel CLI 33.6.1 &gt;无法创建预构建部署，因为 \`vercel build\` 失败并出现错误： 问题是，我不能。我在构建时遇到错误，这是一个旧项目，我只是想出于投资组合的原因将其放到网上...我不想调试它，也许更新依赖项...   由   提交 /u/menides   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq24qc/deploying_a_specific_dir_without_build_on_vencel/</guid>
+      <pubDate>Thu, 28 Mar 2024 18:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>有人不觉得与客户合作有压力吗？ （回复：“致所有网站开发者”帖子）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxp2b/does_anyone_not_find_working_with_customers_to_be/</link>
-      <description><![CDATA[TLDR：关于客户交互是网络开发中最糟糕部分的抱怨有多少是由于开发人员反社会、懒惰或无能？我在客户服务（不是 Webdev）方面的经历几乎完全是积极的和有益的。  当我从事客户服务工作时，我部门的其他人不断抱怨和抱怨客户。 “他们非常需要帮助”、“他们抱怨很多”以及“有时他们会侮辱人”。是常见的言论。 我的经历恰恰相反。客户喜欢我在那里解决他们的问题并拯救他们的日子。他们表示赞赏，并表达了兴奋和感激之情。 我意识到大多数人只是“坏”而已。人——他们不适合客户关系，因为他们不想为人们服务并让他们快乐；他们只是想在不惹麻烦的情况下完成最后的工作。他们将顾客视为负担，而不是人以及他们工作的原因。 此外，我认为大多数人都是反社会的——他们缺乏同理心，从未发展出心理理论。他们从来没有想到，普通人没有过着与他们相同的生活，因此也没有发展出与他们相同的技能——这又是客户服务人员就业的首要原因。对他们来说，如果有人需要什么，那是因为他们弱智、要求过高或刻薄。 最后，我越来越意识到很多人只是无能。他们讨厌顾客，因为顾客希望他们乐于助人，但员工本身往往甚至不擅长自己的工作。 所有这些让我想知道这篇文章顶部的 TLDR。 &gt;   由   提交 /u/Virtamancer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxp2b/does_anyone_not_find_working_with_customers_to_be/</guid>
-      <pubDate>Thu, 28 Mar 2024 15:00:50 GMT</pubDate>
+      <title>在 JS（或框架）中，您多久构建一个 js 类以供实际使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq23b9/in_js_or_framework_how_often_do_you_build_a_js/</link>
+      <description><![CDATA[我从未构建过用于现实世界的 js 类。我了解它们的工作原理，并且喜欢一般用例，但只是从未使用过它们。 查看当前的工作项目，我知道它可以如何使用，但该特定实用程序似乎很少，更不用说用于遗产。最近的项目也是如此。 您多久构建一次 js 类，如果您不介意，用例是什么？ &lt;!-- SC_ON - -&gt;  由   提交/u/og-at   /u/og-at  reddit.com/r/webdev/comments/1bq23b9/in_js_or_framework_how_often_do_you_build_a_js/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq23b9/in_js_or_framework_how_often_do_you_build_a_js/</guid>
+      <pubDate>Thu, 28 Mar 2024 18:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>有什么好的库可以用来构建多人纸牌游戏吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxhsu/any_good_libraries_for_building_multiplayer_card/</link>
-      <description><![CDATA[我们家玩的是一种不符合标准规则集的拉米纸牌游戏。随着我们在地理上的距离越来越远，我一直在考虑为我们创造一种虚拟游戏方式。  我知道有通用的、自由形式的“游戏室”。我们可以洗牌并持有牌的解决方案，但我认为容纳诸如计分之类的东西会更有趣。  所以只是好奇是否有任何可以启动这项工作的首选库。我更喜欢在客户端使用 Vue.js，但对任何事物都开放。   由   提交 /u/khoker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxhsu/any_good_libraries_for_building_multiplayer_card/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:52:10 GMT</pubDate>
+      <title>这些项目网站是用什么平台构建的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq1rhh/what_platform_built_these_project_websites/</link>
+      <description><![CDATA[      我一直在研究其中一些新的加密项目，并对它们印象深刻正在创建的网站。 https://dukocoin.com/#dukonomics https://www.epepcoin.com/ https://elizabathwhoren.com/ 这些人用什么来构建这些网站？ wix？ 我尝试使用运行的内容，但我认为这些网站太新了 https://preview.redd.it/3nzcf3jf44rc1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=67462bb3ad37e39ae4 02cff6f939bb02aa81477d   由   提交 /u/stevehussel   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq1rhh/what_platform_built_these_project_websites/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:47:32 GMT</pubDate>
     </item>
     <item>
-      <title>迷你咆哮。但这种情况我该怎么办呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxgte/mini_rant_but_what_should_i_do_in_this_situation/</link>
-      <description><![CDATA[嘿伙计们，我有一点咆哮，在这种情况下我也需要一些建议。  所以我有一个客户希望我为他们建立一个网站，我给了他们一个价格和一些东西，他们全额付给我为他们做这个网站，我向他们展示了如何工作网站和一切 快进两个月，该网站的销售额为 0，所以现在他们将其归咎于我，就像这是我的错一样。现在他们希望我退款 但我已经检查过，他们有一些待处理的付款，而且我没有看到他们和客户之间关于付款完成等事宜的任何联系  p&gt; 我也一直在关注社交媒体，自从他们获得该网站以来，他们几乎没有在任何平台上为该网站做广告🙄 我什至表示我不这样做不退款，我已经给你们提供了我向你们展示如何使用它的平台。吸引客户访问您的网站不是我的责任...他们仍然希望我为他们退款... 请记住，他们销售的产品市场是气枪和安全/自卫物品   由   提交/u/Inverse-Arts  /u/Inverse-Arts  reddit.com/r/webdev/comments/1bpxgte/mini_rant_but_what_should_i_do_in_this_situation/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxgte/mini_rant_but_what_should_i_do_in_this_situation/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:50:56 GMT</pubDate>
+      <title>使用Wix可以实现这些功能吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq1qf3/is_it_possible_to_implement_these_features_using/</link>
+      <description><![CDATA[      Wix 能否创建无限循环横幅（绿色图像）和复制文本按钮（紫色） ？如果没有，哪个网站建设者可以提供这些功能？  https://preview.redd .it/apscxaj644rc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=1e4ccb50905f97c58cdb418f2e63503c79dc9067   由   提交 /u/stevehussel   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq1qf3/is_it_possible_to_implement_these_features_using/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:46:22 GMT</pubDate>
     </item>
     <item>
-      <title>游戏维基/指南网站是如何制作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxgow/how_are_game_wikiguide_websites_made/</link>
-      <description><![CDATA[抱歉，这是一个愚蠢的问题，但是像 Maxroll 或 Fextralife 这样的游戏网站有制作吗？他们是手动添加数据还是有更系统的方法向其网站添加内容？ 用于创建此类网站的流行工具或框架有哪些？我有兴趣制作自己的网站来分享一些有关游戏的信息，并想了解更多信息。他们使用 WordPress 之类的 CMS 吗？我也听说过 MediaWiki，但还没有完全探索它。我有一些制作 CRUD 应用程序的基础知识。   由   提交 /u/Begisck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxgow/how_are_game_wikiguide_websites_made/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:50:47 GMT</pubDate>
+      <title>网站重新设计建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq1dek/website_redesign_suggestions/</link>
+      <description><![CDATA[我们目前正在重新设计我们的网站，以使其更加用户友好并且总体上看起来更具吸引力。我认为这是获得有关网站设计的真实建议的最佳 Reddit 子版块。请随意批评。如有任何反馈，我们将不胜感激。 链接：https://forms.gle/1mpGzw66vjKScsWq7 &lt; /div&gt;  由   提交 /u/SrAbhay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq1dek/website_redesign_suggestions/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>内部开发人员特定项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpxgcj/internal_developer_specific_projects/</link>
-      <description><![CDATA[我们的管理层拒绝为我们的开发团队规划项目，因此我们将开始做我们自己的事情，直到他们决定赶上并赶上程序。您在内部开发了哪些东西来让您的生活更轻松？ 2024 年有哪些相关且值得探索的内容？我们正在使用 AWS 和一个非常基本的 LAMP 堆栈。    由   提交/u/fuzzy_cola  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpxgcj/internal_developer_specific_projects/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:50:22 GMT</pubDate>
+      <title>想要制作一个 React 应用程序来跟踪即将发布的书籍。哪个 API 最好使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq1c9r/want_to_make_a_react_app_that_tracks_upcoming/</link>
+      <description><![CDATA[大家好。正如标题所示，我正在尝试制作一个 React 应用程序来跟踪和显示即将发布的书籍。我开始使用 Open Library，但我觉得对于我想要制作的网站类型来说，似乎会有更好的 API。任何建议都会很棒。谢谢！    由   提交/u/_sirhC_Chris_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq1c9r/want_to_make_a_react_app_that_tracks_upcoming/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>正确的工作角色名称是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpwx6l/what_is_the_correct_job_role_name/</link>
-      <description><![CDATA[如果一个人想成为一名全栈开发者，并且选择学习2年前后端+设计，然后尝试申请对于一家公司，该人的正确角色名称是什么？ 我没有看到“初级全栈”。开发公司列表 ​ 提前致谢。   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpwx6l/what_is_the_correct_job_role_name/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:27:11 GMT</pubDate>
+      <title>在求职过程中灰心丧气比认识到自己的进步更容易</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq1a31/its_easier_to_become_discouraged_during_the_job/</link>
+      <description><![CDATA[在过去一个月左右的时间里，我已经发送了大约 100-150 份非常详细的申请。我即将以 SWE 专业毕业——糟糕透了。我只获得了两次面试机会。 但我想向自己以及其他人澄清，找工作并不容易，放弃更容易。 如果像我这样的人可以继续前进，你也一定可以 - 我喜欢提醒自己： 重要的是要记住，进步并不总是显而易见的。 即使是小小的胜利，比如完善你的简历或者在面试中获得积极的反馈，这都是重要的。 这是为了庆祝这些胜利，无论多么微小，并提醒自己前进的每一步，无论多么微小，仍然是进步。嘿，别忘了也给自己休息一下。 拒绝只是游戏的一部分，而不是你价值的体现。 继续前进，保持韧性，并记住，你比你想象的更接近你的目标。 你如何在求职过程中保持弹性？  &amp;# 32；由   提交/u/lukiepookie_9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq1a31/its_easier_to_become_discouraged_during_the_job/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:28:23 GMT</pubDate>
     </item>
     <item>
-      <title>Safari 技术预览版 191 发行说明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpwpt5/release_notes_for_safari_technology_preview_191/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpwpt5/release_notes_for_safari_technology_preview_191/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:18:04 GMT</pubDate>
+      <title>这些项目网站是用什么平台构建的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq10rk/what_platform_built_these_project_websites/</link>
+      <description><![CDATA[我一直在研究其中一些新的加密项目，并且对正在创建的网站印象深刻。  ​ https://dukocoin.com/#dukonomics &lt; a href=&quot;https://www.epepcoin.com/&quot;&gt;https://www.epepcoin.com/ https://elizabathwhoren.com/ ​ 这些人用什么来构建这些网站？ wix？ 我尝试使用运行的内容，但我认为这些网站太新了   由   提交 /u/stevehussel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq10rk/what_platform_built_these_project_websites/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>团队测试 - 我的第一个多人网页游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpwcru/team_test_my_first_multiplayer_web_game/</link>
-      <description><![CDATA[单击带有您的颜色的圆圈。 从最小的数字开始。 等待轮到您。 https://teamtest.lol/ 灵感来自 Forsvarsmakten - 瑞典武装部队测试 ​    由   提交 /u/HorrorLettuce1012   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpwcru/team_test_my_first_multiplayer_web_game/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:01:49 GMT</pubDate>
+      <title>请帮助我解决愚蠢的 Javascript 疑问。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq0nw5/please_help_me_with_dumb_javascript_doubt/</link>
+      <description><![CDATA[Index.html 有 &lt;输入类型=“数字” id＝“a”；值＝“10” &gt; &lt;p id=&quot;Presult&quot; &gt;0&lt;/p&gt; Profile.html 有 &lt;输入类型=“数字” id＝“b”；值＝“5” &gt; &lt;p id=&quot;Qresult&quot; &gt;0&lt;/p&gt; Logic.js 有  function add() { let x =  parseInt(document.getElementById(&#39;a&#39;).value); 让 y =  parseInt (document.getElementById(&#39;b&#39;).value); document.getElementById(&#39;Presult&#39;).textContent = x + y; document.getElementById(&#39;Qresult&#39;).textContent = x - y;  } document.addEventListener(&#39;DOMContentLoaded&#39;, add); // 或添加();  //我变得空了。我简化了我的疑问，我是编码新手 我尝试过chatgpt、youtube、Google。找不到答案   由   提交 /u/HamsterUnfair6313   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq0nw5/please_help_me_with_dumb_javascript_doubt/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>尝试改进我的作品集，建议一些很棒的网络项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpw0ca/trying_to_improve_my_portfolio_suggest_some_great/</link>
-      <description><![CDATA[大家好，我是一名全栈开发人员，已经很久没有参与过任何好的项目了。我需要一些帮助来找到一个可能为人们服务的好项目，如果可能的话我可以从中赚一些钱。我实际上想做一些能够解决人们现实生活问题的东西。 请给我推荐一些全栈或后端领域的好项目。   由   提交/u/str1vo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpw0ca/trying_to_improve_my_portfolio_suggest_some_great/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:46:12 GMT</pubDate>
+      <title>通过网络开发赚钱很难吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq0k5s/is_it_hard_to_make_money_off_web_dev/</link>
+      <description><![CDATA[我正在开办网络开发业务，由于工业招聘条件，我迈出了这一步。我参加了 JavaScript（Ts、react、next 和 node）和 MongoDB 课程，我没有经验，但感觉我足以迈出这一步。现在，我意识到市场竞争非常激烈，并且有很多神行者。这让我在吸引客户或从中赚钱时有点临阵退缩。我现在是一名保安，这让我能够变得更好并致力于我未来的业务。我从这份工作中赚得不多，但我想这只是一个暂时的阶段。  我必须把它拿出来！你认为我的这种心态是错误的吗？还有更多从网络开发赚钱的方法吗？   由   提交 /u/Gggklss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq0k5s/is_it_hard_to_make_money_off_web_dev/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:59:23 GMT</pubDate>
     </item>
     <item>
-      <title>3x 跨浏览器显示错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpvc2u/3x_display_error_crossbrowsers/</link>
-      <description><![CDATA[我有一个用 Webflow 开发的网站 - 我刚刚在更宽的显示器上测试了它，它在 Edge、Chrome、Firefox 上完美显示。然而，在 Safari 上 - 当拉伸到更宽的窗口时，跨越英雄部分的关键英雄元素消失了。我发现当浏览器以 3 倍显示时会发生这种情况。这些是设置为 100%w 的简单彩色 div。  我已经检查过，当显示 3x 时，似乎会跨浏览器发生此错误。  这是我的第一个网站，我想知道这意味着什么+还有什么解决方案吗？  谢谢！    由   提交 /u/Witty_Persimmon7133   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpvc2u/3x_display_error_crossbrowsers/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:14:27 GMT</pubDate>
+      <title>制作一个将手写流程图转换为数字格式的应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq09gw/making_an_app_that_transforms_flowcharts_written/</link>
+      <description><![CDATA[向各位 Reddit 用户问好 我是一名没有经验的计算机和电气工程大二学生，正在为我们的网络应用程序开发课程做一个项目，内容涉及一个允许将手绘流程图转换为其数字化版本。 有人知道我如何实现数字版本部分的转换吗？  我有一个对象检测模型，可以识别椭圆形、菱形和矩形等形状，同时使用百度 OCR 进行文本识别。然而，我的问题是如何将这些已识别的流程图形状和文本实际转换为计算机化/数字流程图。  有没有我可以使用的工具……也许是 API？  非常感谢您的反馈。谢谢。    由   提交 /u/Funny_Shoe1772   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq09gw/making_an_app_that_transforms_flowcharts_written/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:47:11 GMT</pubDate>
     </item>
     <item>
-      <title>抱歉，这怎么错了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpvarg/sorry_how_is_this_wrong/</link>
-      <description><![CDATA[      在进行一些早上的 Mimo 编码练习时，出现了这个问题，但不确定为什么会这样不正确。我非常自信这就是答案，哈哈我错了。我可以查一下，但我发现谈论这个问题比在谷歌上找到答案更能帮助我理解。谢谢你！！    由   提交/u/Mr_Art_Rager  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpvarg/sorry_how_is_this_wrong/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:12:40 GMT</pubDate>
+      <title>我真的不能再使用这些网站了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq0953/i_really_cant_anymore_with_these_websites_man/</link>
+      <description><![CDATA[      我该在哪里点击才能关闭广告   由   提交/u/semhsp  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq0953/i_really_cant_anymore_with_these_websites_man/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个房地产代理网站作为服务进行销售（寻求反馈！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpv2mi/i_built_a_real_estate_agency_website_to_sell_as_a/</link>
-      <description><![CDATA[大家好！  我和我的一个朋友建立了一个房地产代理平台，为没有自己网站的本地和小型代理机构提供服务，我们将处理从根据他们的需求定制到部署和托管的一切事宜它。  我们的构建预览已基本完成，我们设计了一个产品页面来展示我们是谁以及我们做什么。我们对整个业务和初创公司都是新手，因此我们首先决定寻找一些似乎没有网站的代理机构，并向他们发送一封冷冰冰的电子邮件/消息，介绍我们可以提供什么。到目前为止，我们得到的答复为零。  我们很乐意就我们迄今为止所构建的内容获得一些反馈和想法，欢迎任何批评以及有关如何营销/寻找此类服务的客户的任何建议。  查看页面：https://cytsoftware.com   由   提交/u/anonc3a  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpv2mi/i_built_a_real_estate_agency_website_to_sell_as_a/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:01:50 GMT</pubDate>
+      <title>让一个人在 Shopify 和旧 ERP 系统之间编写中间件是否现实？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bq01mw/is_it_realistic_to_have_one_person_program/</link>
+      <description><![CDATA[嘿！我需要你提供一些关于客户的意见。我正在开发一个具有主题的 Shopify 商店并设置所有内容（最终将添加数千种产品）。该计划是通过插件/中间件连接客户的 ERP 系统。然而，该系统太旧了，几乎没有可用的中间件选项。客户提到他们有一位熟悉Shopify界面的技术人员，他会创建一个。 现在，我应该在不集成的情况下构建商店，然后再开发界面。这对我来说似乎有点倒退，因为理想情况下，我希望事先拥有产品、属性和类别，以便明智地开发商店。特别是考虑到将来它们应该通过 ERP 系统实现自动化。 我也不完全确定客户是否能够正确评估情况。那么，我的问题是：一个人单独构建这样的中间件并实现产品同步、订单、支付、运输、自动化等所有功能有多现实？本质上，它需要是这样的： https://www.appseconnect.com/microsoft-dynamics -nav-shopify-integration/ 我只是不想承受压力，因为稍后我必须与程序员一起定义接口要求。目前，这不包含在我的报价中。 有人对此有任何意见吗？   由   提交/u/No-Mathematician1861   /u/No-Mathematician1861 reddit.com/r/webdev/comments/1bq01mw/is_it_realistic_to_have_one_person_program/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bq01mw/is_it_realistic_to_have_one_person_program/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:38:17 GMT</pubDate>
     </item>
     <item>
-      <title>如果你可以改变 Web 开发的一个方面，你会改变什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpu86c/if_you_could_change_one_aspect_of_web_development/</link>
-      <description><![CDATA[想象一下，您有能力在 Web 开发领域做出一次有影响力的改变。这种改变可以是任何事情——引入新功能、消除现有的烦恼或修改某些内容以更好地工作。范围与您的想象一样广泛。无论是调整语言的语法、改进 Webpack 等工具、协调服务器端和客户端语言，甚至改变数组的索引方式，您的愿景都可以重新定义格局。 您改变的是什么？ d 选择明天醒来？它可以像向编程语言添加新功能、消除繁琐的语法，甚至提出一种弥补现有差距的新颖方法一样简单。 分享您将做出的更改并解释您的推理。如此巨大的变革潜力触手可及，为什么要选择这种特殊的改变呢？它对 Web 开发的发展有何贡献？   由   提交 /u/systemkwiat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpu86c/if_you_could_change_one_aspect_of_web_development/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:20:49 GMT</pubDate>
+      <title>[播客] Elixir Wizards S12E02 “Discovery Discovery” 与 Alicia Brindisi 和 Bri LaVorgna</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpzw6k/podcast_elixir_wizards_s12e02_discovery/</link>
+      <description><![CDATA[在此处收听：smr.tl/S12E2DD 或任何您可以使用的地方流播客。 在此观看：youtu.be/7Yu2zZhkZLI - 我们现在在 YouTube 上！ SmartLogic 的 PM Alicia布林迪西和交付副总裁 Bri LaVorgna 加入 Elixir Wizards Sundi &amp;欧文的“发现发现”。这不仅仅是一个阶段，它是精心设计定制解决方案、完善客户团队协同作用和细致文档的艺术。 发现真的会结束吗？   由   提交/u/smartlogic_io  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpzw6k/podcast_elixir_wizards_s12e02_discovery/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:32:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
