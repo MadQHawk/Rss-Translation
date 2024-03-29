@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 29 Mar 2024 09:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 12:22:41 GMT</lastBuildDate>
     <item>
-      <title>游戏API</title>
-      <link>https://www.opensourceagenda.com/projects/game-apis</link>
-      <description><![CDATA[此存储库用于与不同的 api 集成，以便您提取玩家或游戏数据]]></description>
-      <guid>https://www.opensourceagenda.com/projects/game-apis</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:59 GMT</pubDate>
+      <title>RAR</title>
+      <link>https://www.opensourceagenda.com/projects/rar</link>
+      <description><![CDATA[RAR 的官方实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rar</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>Dota2WebApi</title>
-      <link>https://www.opensourceagenda.com/projects/dota2webapi</link>
-      <description><![CDATA[Liquipedia 的 Dota 2 Web API]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dota2webapi</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:59 GMT</pubDate>
+      <title>LOL机器人探测器</title>
+      <link>https://www.opensourceagenda.com/projects/lol-robot-detector</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lol-robot-detector</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>蒸汽观察者</title>
-      <link>https://www.opensourceagenda.com/projects/steam-watcher</link>
-      <description><![CDATA[yobot插件，Steam雷达，可自动播报玩家的Steam游戏状态和DOTA2图文战报]]></description>
-      <guid>https://www.opensourceagenda.com/projects/steam-watcher</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:59 GMT</pubDate>
+      <title>梅森盐</title>
+      <link>https://www.opensourceagenda.com/projects/umessen-salt</link>
+      <description><![CDATA[Softmax for Arbitrary Label Trees (SALT) 是一个使用条件概率建模来训练分割网络的框架数据中的层次关系。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/umessen-salt</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>雷多特</title>
-      <link>https://www.opensourceagenda.com/projects/redota</link>
-      <description><![CDATA[在浏览器中重温过去的 Dota 2 比赛]]></description>
-      <guid>https://www.opensourceagenda.com/projects/redota</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:58 GMT</pubDate>
+      <title>疯狂实验室</title>
+      <link>https://www.opensourceagenda.com/projects/mad-lab</link>
+      <description><![CDATA[改善 AI 架构设计的 MAD 实验室🧪]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mad-lab</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>Dota2 RPC 客户端</title>
-      <link>https://www.opensourceagenda.com/projects/dota2-rpc-client</link>
-      <description><![CDATA[允许您观察 DotA 2（Defense of theAncients 2）比赛的状态在 Discord 中，通过 Rich Presence 服务。 🎮]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dota2-rpc-client</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:58 GMT</pubDate>
+      <title>Luo Yihong YOSO</title>
+      <link>https://www.opensourceagenda.com/projects/luo-yihong-yoso</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/luo-yihong-yoso</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>多塔博德后端</title>
-      <link>https://www.opensourceagenda.com/projects/dotabod-backend</link>
-      <description><![CDATA[流行的 twitch Streamer 工具 dotabod 的后端服务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotabod-backend</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:58 GMT</pubDate>
+      <title>CVE 2023 48788</title>
+      <link>https://www.opensourceagenda.com/projects/cve-2023-48788</link>
+      <description><![CDATA[Fortinet FortiClient EMS SQL 注入]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cve-2023-48788</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>刀塔虚空黑客</title>
-      <link>https://www.opensourceagenda.com/projects/dota-voidhack</link>
-      <description><![CDATA[Dota 2 黑客概念验证。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dota-voidhack</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:58 GMT</pubDate>
+      <title>IRCF空间位置</title>
+      <link>https://www.opensourceagenda.com/projects/ircfspace-location</link>
+      <description><![CDATA[基于位置的免费 v2ray 配置]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ircfspace-location</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>指挥者迷你基因</title>
-      <link>https://www.opensourceagenda.com/projects/shotcaller-minigene</link>
-      <description><![CDATA[使用bracket-lib和minigene制作的可修改RTS/MOBA游戏。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shotcaller-minigene</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:57 GMT</pubDate>
+      <title>Ttxskk AiOS</title>
+      <link>https://www.opensourceagenda.com/projects/ttxskk-aios</link>
+      <description><![CDATA[“AiOS：一体式 3D 全身网格恢复”官方代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ttxskk-aios</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>Dota2作弊</title>
-      <link>https://www.opensourceagenda.com/projects/dota2cheat</link>
-      <description><![CDATA[旨在为新开发者提供教育示例的 Dota 2 作弊项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dota2cheat</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:57 GMT</pubDate>
+      <title>二维码数据同步</title>
+      <link>https://www.opensourceagenda.com/projects/qr-data-sync</link>
+      <description><![CDATA[仅限浏览器的实用程序，用于使用“动画”QR 码共享/同步数据]]></description>
+      <guid>https://www.opensourceagenda.com/projects/qr-data-sync</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>Steam 社区市场</title>
-      <link>https://www.opensourceagenda.com/projects/steam-community-market</link>
-      <description><![CDATA[使用 Python 3 从 Steam 社区市场获取商品价格和数量]]></description>
-      <guid>https://www.opensourceagenda.com/projects/steam-community-market</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:57 GMT</pubDate>
+      <title>禅锤</title>
+      <link>https://www.opensourceagenda.com/projects/zenhammer</link>
+      <description><![CDATA[适用于基于 AMD Zen 的系统的 Rowhammer 模糊器 (USENIX Security &#39;24)。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zenhammer</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>Dota2 缩小</title>
-      <link>https://www.opensourceagenda.com/projects/dota2-minify</link>
-      <description><![CDATA[Dota2 Mod 补丁和工具包，让每个人都能轻松使用 mods]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dota2-minify</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:57 GMT</pubDate>
+      <title>超合成 Eurorack</title>
+      <link>https://www.opensourceagenda.com/projects/supersynthesis-eurorack</link>
+      <description><![CDATA[Super Synthesis 生产模块示意图]]></description>
+      <guid>https://www.opensourceagenda.com/projects/supersynthesis-eurorack</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>Steam交易网站追踪器</title>
-      <link>https://www.opensourceagenda.com/projects/steamtradingsitetracker</link>
-      <description><![CDATA[Steam 挂刀行情站 —— 24小时自动更新的 BUFF &amp; IGXE &amp; C5 &amp; UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.]]></description>
-      <guid>https://www.opensourceagenda.com/projects/steamtradingsitetracker</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:56 GMT</pubDate>
+      <title>从头开始使用 QueryPipeline 的复杂 PDF RAG 代理 Llamaparse OS LLM</title>
+      <link>https://www.opensourceagenda.com/projects/complex-pdf-rag-agent-using-querypipeline-from-scratch-llamaparse-os-llm</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/complex-pdf-rag-agent-using-querypipeline-from-scratch-llamaparse-os-llm</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>Twitchclip 比赛查找器</title>
-      <link>https://www.opensourceagenda.com/projects/twitchclipmatchfinder</link>
-      <description><![CDATA[给定 twitch 剪辑时查找 Dota 比赛]]></description>
-      <guid>https://www.opensourceagenda.com/projects/twitchclipmatchfinder</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:56 GMT</pubDate>
+      <title>单一深度</title>
+      <link>https://www.opensourceagenda.com/projects/unidepth</link>
+      <description><![CDATA[通用单目度量深度估计]]></description>
+      <guid>https://www.opensourceagenda.com/projects/unidepth</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>指挥者戈多</title>
-      <link>https://www.opensourceagenda.com/projects/shotcaller-godot</link>
-      <description><![CDATA[具有自主单位的 2D 自上而下 1v1 MOBA。下面的设计文档👇]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shotcaller-godot</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:56 GMT</pubDate>
+      <title>及时好友</title>
+      <link>https://www.opensourceagenda.com/projects/promptbuddy</link>
+      <description><![CDATA[Prompt Buddy 是一款使用 Dataverse for Teams 的免费 Microsoft Teams Power 应用程序。您的团队可以在这个空间中分享他们最喜欢的人工智能提示并为其他人的提示点赞。它预装了 Copilot 类别，但可以添加其他类别。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/promptbuddy</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:37 GMT</pubDate>
     </item>
     <item>
-      <title>刀塔2GSI</title>
-      <link>https://www.opensourceagenda.com/projects/dota2gsi</link>
-      <description><![CDATA[用于与 Dota 2 中的游戏状态集成交互的 C# 库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dota2gsi</guid>
-      <pubDate>Fri, 29 Mar 2024 09:12:56 GMT</pubDate>
+      <title>ZhaoyangLyu GetMesh</title>
+      <link>https://www.opensourceagenda.com/projects/zhaoyanglyu-getmesh</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zhaoyanglyu-getmesh</guid>
+      <pubDate>Fri, 29 Mar 2024 12:22:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
