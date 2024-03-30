@@ -4,11 +4,11 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 30 Mar 2024 00:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 03:15:25 GMT</lastBuildDate>
     <item>
       <title>TikTok 机器人在评论中批量标记其他用户</title>
       <link>https://www.reddit.com/r/automation/comments/1br1e2l/tiktok_bot_that_mass_tags_other_users_in_comments/</link>
-      <description><![CDATA[有人有权访问或能够创建这种类型的机器人吗？  &amp; #32；由   提交 /u/LeapingRhino   [链接] [评论]]]></description>
+      <description><![CDATA[有人有权访问或能够创建这种类型的机器人吗？  &amp; #32；由   提交/u/LeapingRhino  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1br1e2l/tiktok_bot_that_mass_tags_other_users_in_comments/</guid>
       <pubDate>Fri, 29 Mar 2024 22:27:38 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>一个将代码转变为无代码生产力工具并与世界分享的市场</title>
       <link>https://www.reddit.com/r/automation/comments/1boclhs/a_marketplace_that_turns_code_into_nocode/</link>
-      <description><![CDATA[大家好！ 不确定此 subreddit 是否允许这样做，但我正在构建 Nix，一个可以轻松查找、共享和使用开发人员构建的生产力工具的新平台，我认为它对您很有用。 它旨在为寻找工具的用户和想要与世界分享其 Python 项目的开发人员提供一个简单的地方，因此非常适合这个 Reddit 子版块。 在某种程度上，Nix 是一个应用程序商店Python 脚本。 从脚本开始 -&gt;今天的产品是一个巨大的挑战（构建前端、身份验证、支付、分发等），我们希望解决这个问题。 感谢像 Streamlit 和 NiceGUI 这样的现代库，构建前端从未如此简单，我们进一步修改了它们，使身份验证和支付成为一个解决的问题 - 然后平台确保您的工具出现在正确的人面前。 我们的要求：我们才刚刚开始，非常想听听您的想法。我们如何让 Nix 更好地为您服务？如果您有一个可以帮助您完成工作的 Python 脚本，我们很乐意将其托管在 Nix 上 - 我们甚至会为您构建前端。 我们最早的测试人员将获得 5 美元，可以使用任何可用工具的列表。 接下来： - 关键字规划工具：使用受 Google 自己的关键字规划器启发的工具了解关键字搜索量。 - 批量文章提取：从主要新闻页面批量获取文章信息。 - 更多人工智能工具：我们计划添加更多人工智能工具来帮助完成各种任务，因为这些工具非常受欢迎。  感谢您查看 Nix。迫不及待想看看您的想法。   由   提交 /u/Bacoknight   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 不确定此 subreddit 是否允许这样做，但我正在构建 Nix，一个可以轻松查找、共享和使用开发人员构建的生产力工具的新平台，我认为它对您很有用。 它旨在为寻找工具的用户和想要与世界分享其 Python 项目的开发人员提供一个简单的地方，因此非常适合这个 Reddit 子版块。 在某种程度上，Nix 是一个应用程序商店Python 脚本。 从脚本开始 -&gt;今天的产品是一个巨大的挑战（构建前端、身份验证、支付、分发等），我们希望解决这个问题。 感谢像 Streamlit 和 NiceGUI 这样的现代库，构建前端从未如此简单，并且我们进一步修改了它们，使身份验证和支付成为一个解决的问题 - 然后平台确保您的工具出现在正确的人面前。 我们的要求：我们才刚刚开始，非常想听听您的想法。我们怎样才能让 Nix 更好地为您服务？如果您有一个可以帮助您完成工作的 Python 脚本，我们很乐意将其托管在 Nix 上 - 我们甚至会为您构建前端。 我们最早的测试人员将获得 5 美元，可以使用任何可用工具的列表。 接下来： - 关键字规划工具：使用受 Google 自己的关键字规划器启发的工具了解关键字搜索量。 - 批量文章提取：从主要新闻页面批量获取文章信息。 - 更多人工智能工具：我们计划添加更多人工智能工具来帮助完成各种任务，因为这些工具非常受欢迎。  感谢您查看 Nix。迫不及待想看看您的想法。   由   提交 /u/Bacoknight   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1boclhs/a_marketplace_that_turns_code_into_nocode/</guid>
       <pubDate>Tue, 26 Mar 2024 16:48:01 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>如何自动执行此任务？</title>
       <link>https://www.reddit.com/r/automation/comments/1bnpi05/how_to_automate_this_task/</link>
-      <description><![CDATA[所以我在酒店工作，我工作的很大一部分就是花几个小时将所有信息纸放入或插入给客人的信封内每天插入 200 个信封……有没有办法自动化并节省时间？我买小型还是中型电机？我需要什么？ 例如照片 https://ibb.co/pdZGZ87   由   提交/u/Outrageous_Sherbet91   [链接] [评论]]]></description>
+      <description><![CDATA[所以我在一家酒店工作，我工作的很大一部分就是花几个小时将所有信息纸放入或插入给客人的信封内每天插入 200 个信封……有没有办法自动化并节省时间？我买小型还是中型电机？我需要什么？ 例如照片 https://ibb.co/pdZGZ87   由   提交/u/Outrageous_Sherbet91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bnpi05/how_to_automate_this_task/</guid>
       <pubDate>Mon, 25 Mar 2024 21:24:14 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>我构建了一个问答机器人，可以回答有关 Slack 和 MS Teams 中公司法规的问题</title>
       <link>https://www.reddit.com/r/automation/comments/1bnf54s/i_built_a_qa_bot_that_answers_questions_about/</link>
-      <description><![CDATA[   /u/isac_yoo   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/isac_yoo   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bnf54s/i_built_a_qa_bot_that_answers_questions_about/</guid>
       <pubDate>Mon, 25 Mar 2024 14:32:15 GMT</pubDate>
     </item>
