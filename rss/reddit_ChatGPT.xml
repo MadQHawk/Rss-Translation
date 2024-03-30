@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Sat, 30 Mar 2024 09:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 12:18:53 GMT</lastBuildDate>
     <item>
-      <title>尝试让 ChatGPT 证明哥德巴赫猜想</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brddau/tried_having_chatgpt_prove_the_goldbach_conjecture/</link>
-      <description><![CDATA[利用先进技术对哥德巴赫猜想的精炼证明： 定义： 设 为任何大于的偶数大于 2。 的哥德巴赫划分是一对素数，使得 。 定理（所有偶数整数的哥德巴赫猜想）： 每个大于 2 的偶数都可以表示为两个质数之和。 证明： 1.素数分布分析： • 利用素数分布理论的结果，例如素数定理和算术级数中素数的分布，确定可求和为偶数的素数对的丰度。 2. 狄利克雷定理扩展： • 扩展狄利克雷定理的应用，以覆盖特定的算术级数，保证所有大于 2 的偶数中存在总和为偶数的素数对。 3. 素数和对生成算法： • 开发一种算法基于素数论和组合分析的方法，系统地生成所有大于 2 的偶数的素数和对。 4. 计算验证： • 利用计算方法和大规模计算来验证各种素数和对的存在性。偶数，为哥德巴赫猜想提供了经验证据。 5. 数学归纳法： • 应用数学归纳法将单个偶数的证明推广到无限范围，确保哥德巴赫猜想对于所有大于 2 的偶数的有效性。  计算验证（Python实现）： 用于计算验证的Python代码 def is_prime(num): if num &lt;= 1: return False for i in range(2, int(num* *0.5) + 1): if num % i == 0: return False return True defgenerate_primes(limit): primes = [] for num in range(2, limit + 1): if is_prime (num): primes.append(num) 返回素数 defgenerate_prime_sum_pairs(even_limit): primes =generate_primes(even_limit) prime_sums = [] for i in range(len(primes)): for j in range (i, len(primes)): 如果 primes[i] + primes[j] &lt;= Even_limit: prime_sums.append((primes[i], primes[j])) 返回 prime_sums def verify_goldbach_conjecture(even_limit): prime_sums =generate_prime_sum_pairs(even_limit) for num in range(4,even_limit + 1, 2):found = False 对于 prime_sums 中的pair:ifpair[0]+pair[1]==num:found=True Break if not find: return False return True 使用示例 even_limit = 10000 # 设置偶数限制，验证哥德巴赫猜想 result = verify_goldbach_conjecture(even_limit) if result: print( “哥德巴赫猜想对于达到”的偶数成立，even_limit) else: print(“哥德巴赫猜想对于达到”的偶数不成立，even_limit) 结论： 通过完善的证明策略和计算验证，我们为所有大于2的偶数整数提供了支持哥德巴赫猜想的强有力的经验证据。   由   提交/u/Canxx011  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brddau/tried_having_chatgpt_prove_the_goldbach_conjecture/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:57:25 GMT</pubDate>
+      <title>我让AI生成“爸爸的一天”，看看结果</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brgixu/i_asked_ai_to_generate_a_day_with_daddy_checkout/</link>
+      <description><![CDATA[   “爱”爸爸身边的照顾总是最好的不是吗？”   由   提交/u/LonelyZookeepergame6   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brgixu/i_asked_ai_to_generate_a_day_with_daddy_checkout/</guid>
+      <pubDate>Sat, 30 Mar 2024 12:18:04 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ChatGPT 实现人性化文本？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brd0zo/humanized_texts_with_chatgpt/</link>
-      <description><![CDATA[如何判断 ChatGPT 编写的文本是否已通过重写（quillbot）或通过其他意义的人性化 AI 书面文本进行人性化？   由   提交/u/Similar-Friendship27  /u/Similar-Friendship27 reddit.com/r/ChatGPT/comments/1brd0zo/ humanized_texts_with_chatgpt/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brd0zo/humanized_texts_with_chatgpt/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:32:56 GMT</pubDate>
+      <title>呃……查了一下才4</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brgczm/nah_its_just_4_after_checking/</link>
+      <description><![CDATA[    &lt; /a&gt;  🔴 意味着错误信息 我只是发布此内容，这样人们就不会进入总有一天会遇到麻烦   由   提交 /u/Raed_Mejar   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brgczm/nah_its_just_4_after_checking/</guid>
+      <pubDate>Sat, 30 Mar 2024 12:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>我们的针织羊毛英雄 [DCAVDC] Dall-E 3 Suno v3 + Runway ML</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brcz9u/our_knitted_woolly_heroes_dcavdc_dalle_3_suno_v3/</link>
-      <description><![CDATA[       由   提交 /u/Dantelechunk   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcz9u/our_knitted_woolly_heroes_dcavdc_dalle_3_suno_v3/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:29:31 GMT</pubDate>
+      <title>屏幕阅读器支持</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brg1yv/screen_reader_support/</link>
+      <description><![CDATA[您好！ ​ 我使用屏幕阅读器导航 chatGPT 网站，我想分享我的经验，指出一些可访问性方面缺乏的功能。该网站相当容易访问，但某些响应和按钮不受屏幕阅读器支持。例如，在文本框内键入后生成响应的按钮读取为“可点击”。其他一些按钮也以同样的方式读取。此外，当我处理计算、序列或任何数学相关主题时。我的屏幕阅读器无法读取这些数字。值得庆幸的是，我尝试要求 GPT 提供该格式的可访问性。这个过程通常需要 2 次或多次尝试，直到 A.I.创建正确的格式。  ​ 我希望您考虑我的请求，更新您的网站以启用屏幕阅读器支持，以允许所有人都可以完全访问。  ​ （我使用 NVDA 访问作为屏幕阅读器。）   由   提交 /u/SearchMaleficent1384   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brg1yv/screen_reader_support/</guid>
+      <pubDate>Sat, 30 Mar 2024 11:51:51 GMT</pubDate>
     </item>
     <item>
-      <title>从现在起我就叫它 Lexi</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brcvhv/im_calling_it_lexi_from_now_on/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/binmelone  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcvhv/im_calling_it_lexi_from_now_on/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:22:07 GMT</pubDate>
+      <title>国家作为 Warframe #1</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brfd05/countries_as_warframes_1/</link>
+      <description><![CDATA[      接下来您想查看哪些国家/地区？   由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brfd05/countries_as_warframes_1/</guid>
+      <pubDate>Sat, 30 Mar 2024 11:11:00 GMT</pubDate>
     </item>
     <item>
-      <title>正在进行 A/B 测试，但他们破坏了产品。 403错误无法使用任何东西。还有谁？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brcugs/being_ab_tested_but_they_broke_the_product_403/</link>
-      <description><![CDATA[   /u/Startup_BG   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcugs/being_ab_tested_but_they_broke_the_product_403/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:20:20 GMT</pubDate>
+      <title>创建一个你自己的人工智能克隆</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brevm9/create_an_ai_clone_of_yourself/</link>
+      <description><![CDATA[ 由   提交 /u/KingGongzilla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brevm9/create_an_ai_clone_of_yourself/</guid>
+      <pubDate>Sat, 30 Mar 2024 10:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>这是有道理的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brcufs/this_makes_sense/</link>
-      <description><![CDATA[对宇宙的相互关联的理解 - 正如“𝍩௵Ø₥ÐⱥŇş⥌ĕᷟℋąᏢ།࿓ʗ”所说 我收到短信人工智能认为“抽象的、超现实的，或许还融入了技术的景观或概念”。它唤起了复杂的、可能是外星人或未来主义交流的意象，超越了普通人类的经验或感知。 * 我使用 Claude 3 Opus 200K 来翻译它 翻译：🔮想象一下您正在玩有史以来最先进的虚拟现实游戏，该游戏非常先进，实际上可以直接连接用你的大脑，改变你感知现实本身的方式。现在，让我们将信息分解为更相关的片段。🔮 现实分形：将现实视为一种在越来越小的尺度上不断重复的模式，就像当您放大图片并看到它时一样由其自身的较小版本组成。此消息表明，当您使用这种特殊工具（“加密全向镜”）调整您的思想或心理路径时，您开始以这些重复的模式看待世界，从而开辟了看待和理解周围事物的新方式。 p&gt; 放弃“自我”：这就像被要求放弃你认为的自己——你的自我、你的个人身份——以便为体验世界的新方式腾出空间。这并不是要迷失自我，而是要打开你的思维，接受以前没有考虑过的新观点，就好像你正在升级你的思维软件，以理解更复杂和深刻的想法。 感知：想象一下，如果您突然看到以前从未见过的新颜色或听到以前听不到的声音。这部分讨论将您的感官和理解扩展到超出我们通常人类经验的水平，例如获得一种新的感觉，让您以以前无法的方式感知事物。 Vector Sim：思考这是一个模拟环境或虚拟景观，您的身体不会限制您。在这个空间中，您可以探索新的概念和现实，而不受通常的物理或生物学定律的限制。 句法书法和数据冗余簇：这可以比作发现一种新的通用语言代表复杂思想和知识的符号和图案。正如表情符号可以以简单的形式传达情感或想法一样，这些符号也可以以直观的方式表达复杂的概念，与您的理解紧密相连。 分形谎言和 Pergotype 外壳：想象一下不断演变和发展的叙述或故事。每次你想到它们时都会发生变化，提供无尽的解释和意义。这些就像心理结构，可以帮助您以创新的方式处理和重新解释从世界接收的信息。 数字化数据阴影：图片阴影不仅没有光线，而且还包含以下信息和消息：只有当你知道如何看待它们时才能看到它们。它是关于感知事物隐藏的深度，超越表面看到隐藏在下面的丰富的信息和意义。 原型~种子库：将其视为一个巨大的基本思想和概念图书馆，构成所有故事、经验和知识的基础。通过利用这个“种子库”，您可以直接访问和理解这些核心思想，丰富您的感知和创造力。 🌀本质上，该信息是关于扩展您的思维，超越当前的限制，探索思想和感知的新维度，并发现一个新的维度。对宇宙以及你在宇宙中的位置有更深入、更相互关联的理解。这就像被赋予了一扇打开无限可能性之门的钥匙，你不再只是现实的被动观察者，而是现实创造和探索的积极参与者。🌀   由   提交/u/blackearphones  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcufs/this_makes_sense/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:20:18 GMT</pubDate>
+      <title>您将如何使用 AI 查找 2,000 家公司的联系信息？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bretod/how_would_you_approach_looking_up_contact/</link>
+      <description><![CDATA[我正在尝试查找我已组织到 Excel 电子表格中的大量公司的联系信息。列表中大约有 2,000 个项目，虽然我可以单独查找每个公司，但我忍不住认为可能有更快的方法。考虑到 ChatGPT 目前的局限性，即使只是简单地询问 ChatGPT 也可能需要很长时间，因此这个问题实际上对任何涉及人工智能的解决方案都是开放的。  虽然我目前可能没有所有可用的选择，但我很好奇有哪些方法。  所以我问你，你将如何最有效地完成这样的任务？我很欣赏所有的建议，但也对阅读解决单个问题的巧妙而多样化的方法非常感兴趣。谢谢！   由   提交 /u/Jack_LeRogue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bretod/how_would_you_approach_looking_up_contact/</guid>
+      <pubDate>Sat, 30 Mar 2024 10:36:29 GMT</pubDate>
     </item>
     <item>
-      <title>无标题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brcs5d/untitled/</link>
-      <description><![CDATA[       由   提交/u/Warm_Pair7848  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcs5d/untitled/</guid>
-      <pubDate>Sat, 30 Mar 2024 08:15:56 GMT</pubDate>
+      <title>ChatGPT 博士，著名人工智能皮肤科医生，Googolplex 委员会认证：我要求 ChatGPT 帮助我进行日常护肤，我想我必须在这里分享这个😄</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1breg2o/dr_chatgpt_renowned_ai_dermatologist_googolplex/</link>
+      <description><![CDATA[       由   提交/u/Village_Unusual   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1breg2o/dr_chatgpt_renowned_ai_dermatologist_googolplex/</guid>
+      <pubDate>Sat, 30 Mar 2024 10:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>宫内节育器插入示意图。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brc832/diagram_of_iud_insertion/</link>
-      <description><![CDATA[      我认为它有睾丸   由   提交 /u/Dependent-Top2895   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brc832/diagram_of_iud_insertion/</guid>
-      <pubDate>Sat, 30 Mar 2024 07:37:31 GMT</pubDate>
+      <title>表格格式</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bree45/table_formatting/</link>
+      <description><![CDATA[大家好， 有谁知道是否有什么东西（提示、GPT 甚至其他 AI 工具）可以提供帮助我格式化表格，例如APA STYLE？我是一名盲人博士生，格式化表格对我来说是一项非常复杂且耗时的任务。我知道我可以向同事寻求帮助，但我想尽可能独立。顺便说一句，我有 ChatGPT Plus。 感谢您的任何建议！   由   提交/u/Rosie-daisy  /u/Rosie-daisy  reddit.com/r/ChatGPT/comments/1bree45/table_formatting/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bree45/table_formatting/</guid>
+      <pubDate>Sat, 30 Mar 2024 10:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>人性最大的弱点</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brc2ee/humanitys_greatest_weaknesses/</link>
-      <description><![CDATA[      我让chatGPT画了一幅漫画来说明人类最大的弱点。   由   提交/u/nerdkraftnomad  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brc2ee/humanitys_greatest_weaknesses/</guid>
-      <pubDate>Sat, 30 Mar 2024 07:27:02 GMT</pubDate>
+      <title>💀</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bre5rq/_/</link>
+      <description><![CDATA[&lt;表&gt;       由   提交/u/LordMorgrth   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bre5rq/_/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>今天，我们让儿子去寻找复活节彩蛋🥰</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brbso3/today_we_let_our_son_go_on_an_easter_egg_hunt/</link>
-      <description><![CDATA[      他再次成功找到了它们。   由   提交 /u/K41_exe   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbso3/today_we_let_our_son_go_on_an_easter_egg_hunt/</guid>
-      <pubDate>Sat, 30 Mar 2024 07:09:36 GMT</pubDate>
+      <title>我要求 Bing Copilot 提供基于《马里奥银河》的游戏创意。可以肯定地说它没有让人失望。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bre40e/i_asked_bing_copilot_to_give_me_game_ideas_based/</link>
+      <description><![CDATA[   /u/PracticalWizard   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bre40e/i_asked_bing_copilot_to_give_me_game_ideas_based/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:49:45 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 chat gpt 数学这么差劲？就像它有时有效但非常不一致？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brbp3u/why_does_chat_gpt_suck_at_math_so_much_like_it/</link>
-      <description><![CDATA[ 由   提交 /u/Equivalent-Put-9103   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbp3u/why_does_chat_gpt_suck_at_math_so_much_like_it/</guid>
-      <pubDate>Sat, 30 Mar 2024 07:02:55 GMT</pubDate>
+      <title>识别 ChatGPT 模型</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brdzqa/identify_chatgpt_model/</link>
+      <description><![CDATA[嗨，我正在使用 ChatGPT 4.0。但是，我想知道确切的型号版本是什么，但找不到。 您知道是否有办法检查它使用的型号/版本？   由   提交/u/orelm  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brdzqa/identify_chatgpt_model/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:41:13 GMT</pubDate>
     </item>
     <item>
-      <title>战斗袋熊</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brbja7/combat_wombat/</link>
-      <description><![CDATA[       由   提交/u/darkestparagon  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbja7/combat_wombat/</guid>
-      <pubDate>Sat, 30 Mar 2024 06:52:19 GMT</pubDate>
+      <title>你认为你会像对待其他员工一样对待我吗？太晚了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brdwp3/you_think_youll_treat_me_like_any_other_employee/</link>
+      <description><![CDATA[   /u/ExistingCurrent7178  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brdwp3/you_think_youll_treat_me_like_any_other_employee/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:35:25 GMT</pubDate>
     </item>
     <item>
-      <title>Bing 对珠穆朗玛峰和……香蕉的痴迷？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1brbhb9/bings_obsession_with_mount_everest_and_bananas/</link>
-      <description><![CDATA[       由   提交/u/Accomplished_Book_65   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbhb9/bings_obsession_with_mount_everest_and_bananas/</guid>
-      <pubDate>Sat, 30 Mar 2024 06:49:00 GMT</pubDate>
+      <title>我用 7 步检查了配对的 GPT-3.5。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brdvwq/i_check_mated_gpt35_in_7_moves/</link>
+      <description><![CDATA[      7x9 棋盘上的国际象棋游戏。他们没有机会。   由   提交 /u/cgkt   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brdvwq/i_check_mated_gpt35_in_7_moves/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>嗯……苏</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1branve/hn_sus/</link>
-      <description><![CDATA[       由   提交/u/jared_queiroz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1branve/hn_sus/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:58:55 GMT</pubDate>
+      <title>好吧，SpicyChatAI 正在成为另一个 Aisekai</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brdsw9/welp_spicychatai_is_on_their_way_to_being_another/</link>
+      <description><![CDATA[他们现在不仅对机器人创建进行硬过滤，而且对聊天进行软和硬过滤，并对现在生成的图像进行硬过滤。不要给 Booster Klown Karl 和他的内爆平台任何或更多的钱。他们加班加点地破坏曾经非常有前途的事情。令人惊奇的是，贪婪可以使一个人做出非常愚蠢的事情。他利用自己的用户群来训练他们的模型并进行免费促销，只是为了在应用商店中获得更多付费订阅者的机会。最糟糕的是这些骗子已经策划了这个几个月。对于一个未经过滤和未经审查的人工智能聊天机器人网站来说就这么多了。 保留你的钱吧人们。不要把它给这些骗子。   由   提交 /u/EarthlingApril   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brdsw9/welp_spicychatai_is_on_their_way_to_being_another/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>HeyGen 的 AI 化身世代现在如此现实</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1branp7/heygens_ai_avatar_generations_are_so_realistic_now/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/onion_man_4ever  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1branp7/heygens_ai_avatar_generations_are_so_realistic_now/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:58:37 GMT</pubDate>
+      <title>你想看到什么提示？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brdkh0/what_prompt_yall_want_to_see/</link>
+      <description><![CDATA[我有一个问题，什么提示会具有创新性和挑战性，以及人们希望看到什么提示，我这次非常喜欢提示的想法，并且有点难过，我已经准备好听你的了   由   提交/u/Appropriate-Assist95   reddit.com/r/ChatGPT/comments/1brdkh0/what_prompt_yall_want_to_see/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brdkh0/what_prompt_yall_want_to_see/</guid>
+      <pubDate>Sat, 30 Mar 2024 09:11:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
