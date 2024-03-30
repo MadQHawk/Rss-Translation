@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 30 Mar 2024 06:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 09:11:42 GMT</lastBuildDate>
+    <item>
+      <title>新版本 Mongo Playground (1.0.36) 的变更日志 |视觉工作室市场</title>
+      <link>https://www.reddit.com/r/programming/comments/1brczxn/changelog_for_the_new_version_of_mongo_playground/</link>
+      <description><![CDATA[ 由   提交/u/Charming-Treacle-726   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1brczxn/changelog_for_the_new_version_of_mongo_playground/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>AiLO - 使用游戏对象网络代码制作多人游戏 (Unity)</title>
+      <link>https://www.reddit.com/r/programming/comments/1brcrym/ailo_making_mutiplayer_using_netcode_for/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1brcrym/ailo_making_mutiplayer_using_netcode_for/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>击败 CAP 定理：让分布式一致性变得简单</title>
+      <link>https://www.reddit.com/r/programming/comments/1brclv7/beat_the_cap_theorem_make_distributed_consistency/</link>
+      <description><![CDATA[ 由   提交/u/andras_gerlits  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1brclv7/beat_the_cap_theorem_make_distributed_consistency/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>r6-info.js：Npm 包《彩虹六号：围攻》中所有内容的所有信息，例如：所有等级、所有地图、所有操作员、所有武器、所有皮肤、所有头饰、所有制服、所有饰品和服务器状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1brbzeg/r6infojs_npm_package_all_infos_of_all_things_in/</link>
+      <description><![CDATA[我根据《彩虹六号：围攻》中所有事物的所有信息创建了一个 npm 包，例如：所有等级、所有地图、所有操作员、所有武器、所有皮肤，所有头饰，所有制服，所有魅力，服务器状态。还有一个基于这个项目的 api，我在 github 存储库的项目和 npm 网站上编写了完整而清晰的文档。如果你想使用它并尝试一下，请随意这样做，这些都是 github 存储库和 npm/nodejs 包的链接 Github：https://github.com/matteotorna/r6-info.js Npm：https://www.npmjs.com/package/r6-info.js 目前还有一个基于api的网站正在开发中   由   提交/u/Mazeor7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1brbzeg/r6infojs_npm_package_all_infos_of_all_things_in/</guid>
+      <pubDate>Sat, 30 Mar 2024 07:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>军事语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1brbtc1/military_language/</link>
+      <description><![CDATA[所以我真的很喜欢军事工业，我想知道他们使用什么编程语言。还有ada是什么东西，没听说过   由   提交/u/ConcientAd9292   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1brbtc1/military_language/</guid>
+      <pubDate>Sat, 30 Mar 2024 07:10:48 GMT</pubDate>
+    </item>
     <item>
       <title>Java 23 计划功能</title>
       <link>https://www.reddit.com/r/programming/comments/1bras19/java_23_planned_features/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/geek_noob  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bqxynh/major_linux_distributions_impacted_by_xz/</guid>
       <pubDate>Fri, 29 Mar 2024 19:51:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Python 是人工智能开发人员的首选编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1bqxd9m/why_python_is_the_programming_language_of_choice/</link>
-      <description><![CDATA[ 由   提交/u/Franco1875  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bqxd9m/why_python_is_the_programming_language_of_choice/</guid>
-      <pubDate>Fri, 29 Mar 2024 19:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年以来的所有 Javascript 会议演讲（按观看次数排序）</title>
-      <link>https://www.reddit.com/r/programming/comments/1bqw0s3/all_javascript_conference_talks_from_2023_ordered/</link>
-      <description><![CDATA[ 由   提交/u/TechTalksWeekly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bqw0s3/all_javascript_conference_talks_from_2023_ordered/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>外籍软件工程师职业道路建议|公关审查 [05]</title>
-      <link>https://www.reddit.com/r/programming/comments/1bqvsld/expat_software_engineer_career_path_advice_pr/</link>
-      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bqvsld/expat_software_engineer_career_path_advice_pr/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 22 中 3 个最令人兴奋的特性</title>
-      <link>https://www.reddit.com/r/programming/comments/1bqvn8l/3_most_exciting_features_in_java_22/</link>
-      <description><![CDATA[ 由   提交/u/Special_Community179   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bqvn8l/3_most_exciting_features_in_java_22/</guid>
-      <pubDate>Fri, 29 Mar 2024 17:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>尸检应何时结束？事后剖析最佳实践🛰️</title>
-      <link>https://www.reddit.com/r/programming/comments/1bqvdt4/when_should_postmortems_be_concluded_postmortems/</link>
-      <description><![CDATA[ 由   提交/u/jsifalda  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bqvdt4/when_should_postmortems_be_concluded_postmortems/</guid>
-      <pubDate>Fri, 29 Mar 2024 17:45:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

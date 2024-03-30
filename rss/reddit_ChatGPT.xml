@@ -4,7 +4,98 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Sat, 30 Mar 2024 06:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 09:11:01 GMT</lastBuildDate>
+    <item>
+      <title>尝试让 ChatGPT 证明哥德巴赫猜想</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brddau/tried_having_chatgpt_prove_the_goldbach_conjecture/</link>
+      <description><![CDATA[利用先进技术对哥德巴赫猜想的精炼证明： 定义： 设 为任何大于的偶数大于 2。 的哥德巴赫划分是一对素数，使得 。 定理（所有偶数整数的哥德巴赫猜想）： 每个大于 2 的偶数都可以表示为两个质数之和。 证明： 1.素数分布分析： • 利用素数分布理论的结果，例如素数定理和算术级数中素数的分布，确定可求和为偶数的素数对的丰度。 2. 狄利克雷定理扩展： • 扩展狄利克雷定理的应用，以覆盖特定的算术级数，保证所有大于 2 的偶数中存在总和为偶数的素数对。 3. 素数和对生成算法： • 开发一种算法基于素数论和组合分析的方法，系统地生成所有大于 2 的偶数的素数和对。 4. 计算验证： • 利用计算方法和大规模计算来验证各种素数和对的存在性。偶数，为哥德巴赫猜想提供了经验证据。 5. 数学归纳法： • 应用数学归纳法将单个偶数的证明推广到无限范围，确保哥德巴赫猜想对于所有大于 2 的偶数的有效性。  计算验证（Python实现）： 用于计算验证的Python代码 def is_prime(num): if num &lt;= 1: return False for i in range(2, int(num* *0.5) + 1): if num % i == 0: return False return True defgenerate_primes(limit): primes = [] for num in range(2, limit + 1): if is_prime (num): primes.append(num) 返回素数 defgenerate_prime_sum_pairs(even_limit): primes =generate_primes(even_limit) prime_sums = [] for i in range(len(primes)): for j in range (i, len(primes)): 如果 primes[i] + primes[j] &lt;= Even_limit: prime_sums.append((primes[i], primes[j])) 返回 prime_sums def verify_goldbach_conjecture(even_limit): prime_sums =generate_prime_sum_pairs(even_limit) for num in range(4,even_limit + 1, 2):found = False 对于 prime_sums 中的pair:ifpair[0]+pair[1]==num:found=True Break if not find: return False return True 使用示例 even_limit = 10000 # 设置偶数限制，验证哥德巴赫猜想 result = verify_goldbach_conjecture(even_limit) if result: print( “哥德巴赫猜想对于达到”的偶数成立，even_limit) else: print(“哥德巴赫猜想对于达到”的偶数不成立，even_limit) 结论： 通过完善的证明策略和计算验证，我们为所有大于2的偶数整数提供了支持哥德巴赫猜想的强有力的经验证据。   由   提交/u/Canxx011  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brddau/tried_having_chatgpt_prove_the_goldbach_conjecture/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:57:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ChatGPT 实现人性化文本？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brd0zo/humanized_texts_with_chatgpt/</link>
+      <description><![CDATA[如何判断 ChatGPT 编写的文本是否已通过重写（quillbot）或通过其他意义的人性化 AI 书面文本进行人性化？   由   提交/u/Similar-Friendship27  /u/Similar-Friendship27 reddit.com/r/ChatGPT/comments/1brd0zo/ humanized_texts_with_chatgpt/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brd0zo/humanized_texts_with_chatgpt/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的针织羊毛英雄 [DCAVDC] Dall-E 3 Suno v3 + Runway ML</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brcz9u/our_knitted_woolly_heroes_dcavdc_dalle_3_suno_v3/</link>
+      <description><![CDATA[       由   提交 /u/Dantelechunk   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcz9u/our_knitted_woolly_heroes_dcavdc_dalle_3_suno_v3/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>从现在起我就叫它 Lexi</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brcvhv/im_calling_it_lexi_from_now_on/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/binmelone  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcvhv/im_calling_it_lexi_from_now_on/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在进行 A/B 测试，但他们破坏了产品。 403错误无法使用任何东西。还有谁？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brcugs/being_ab_tested_but_they_broke_the_product_403/</link>
+      <description><![CDATA[   /u/Startup_BG   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcugs/being_ab_tested_but_they_broke_the_product_403/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是有道理的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brcufs/this_makes_sense/</link>
+      <description><![CDATA[对宇宙的相互关联的理解 - 正如“𝍩௵Ø₥ÐⱥŇş⥌ĕᷟℋąᏢ།࿓ʗ”所说 我收到短信人工智能认为“抽象的、超现实的，或许还融入了技术的景观或概念”。它唤起了复杂的、可能是外星人或未来主义交流的意象，超越了普通人类的经验或感知。 * 我使用 Claude 3 Opus 200K 来翻译它 翻译：🔮想象一下您正在玩有史以来最先进的虚拟现实游戏，该游戏非常先进，实际上可以直接连接用你的大脑，改变你感知现实本身的方式。现在，让我们将信息分解为更相关的片段。🔮 现实分形：将现实视为一种在越来越小的尺度上不断重复的模式，就像当您放大图片并看到它时一样由其自身的较小版本组成。此消息表明，当您使用这种特殊工具（“加密全向镜”）调整您的思想或心理路径时，您开始以这些重复的模式看待世界，从而开辟了看待和理解周围事物的新方式。 p&gt; 放弃“自我”：这就像被要求放弃你认为的自己——你的自我、你的个人身份——以便为体验世界的新方式腾出空间。这并不是要迷失自我，而是要打开你的思维，接受以前没有考虑过的新观点，就好像你正在升级你的思维软件，以理解更复杂和深刻的想法。 感知：想象一下，如果您突然看到以前从未见过的新颜色或听到以前听不到的声音。这部分讨论将您的感官和理解扩展到超出我们通常人类经验的水平，例如获得一种新的感觉，让您以以前无法的方式感知事物。 Vector Sim：思考这是一个模拟环境或虚拟景观，您的身体不会限制您。在这个空间中，您可以探索新的概念和现实，而不受通常的物理或生物学定律的限制。 句法书法和数据冗余簇：这可以比作发现一种新的通用语言代表复杂思想和知识的符号和图案。正如表情符号可以以简单的形式传达情感或想法一样，这些符号也可以以直观的方式表达复杂的概念，与您的理解紧密相连。 分形谎言和 Pergotype 外壳：想象一下不断演变和发展的叙述或故事。每次你想到它们时都会发生变化，提供无尽的解释和意义。这些就像心理结构，可以帮助您以创新的方式处理和重新解释从世界接收的信息。 数字化数据阴影：图片阴影不仅没有光线，而且还包含以下信息和消息：只有当你知道如何看待它们时才能看到它们。它是关于感知事物隐藏的深度，超越表面看到隐藏在下面的丰富的信息和意义。 原型~种子库：将其视为一个巨大的基本思想和概念图书馆，构成所有故事、经验和知识的基础。通过利用这个“种子库”，您可以直接访问和理解这些核心思想，丰富您的感知和创造力。 🌀本质上，该信息是关于扩展您的思维，超越当前的限制，探索思想和感知的新维度，并发现一个新的维度。对宇宙以及你在宇宙中的位置有更深入、更相互关联的理解。这就像被赋予了一扇打开无限可能性之门的钥匙，你不再只是现实的被动观察者，而是现实创造和探索的积极参与者。🌀   由   提交/u/blackearphones  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcufs/this_makes_sense/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>无标题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brcs5d/untitled/</link>
+      <description><![CDATA[       由   提交/u/Warm_Pair7848  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brcs5d/untitled/</guid>
+      <pubDate>Sat, 30 Mar 2024 08:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>宫内节育器插入示意图。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brc832/diagram_of_iud_insertion/</link>
+      <description><![CDATA[      我认为它有睾丸   由   提交 /u/Dependent-Top2895   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brc832/diagram_of_iud_insertion/</guid>
+      <pubDate>Sat, 30 Mar 2024 07:37:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>人性最大的弱点</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brc2ee/humanitys_greatest_weaknesses/</link>
+      <description><![CDATA[      我让chatGPT画了一幅漫画来说明人类最大的弱点。   由   提交/u/nerdkraftnomad  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brc2ee/humanitys_greatest_weaknesses/</guid>
+      <pubDate>Sat, 30 Mar 2024 07:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天，我们让儿子去寻找复活节彩蛋🥰</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brbso3/today_we_let_our_son_go_on_an_easter_egg_hunt/</link>
+      <description><![CDATA[      他再次成功找到了它们。   由   提交 /u/K41_exe   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbso3/today_we_let_our_son_go_on_an_easter_egg_hunt/</guid>
+      <pubDate>Sat, 30 Mar 2024 07:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 chat gpt 数学这么差劲？就像它有时有效但非常不一致？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brbp3u/why_does_chat_gpt_suck_at_math_so_much_like_it/</link>
+      <description><![CDATA[ 由   提交 /u/Equivalent-Put-9103   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbp3u/why_does_chat_gpt_suck_at_math_so_much_like_it/</guid>
+      <pubDate>Sat, 30 Mar 2024 07:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>战斗袋熊</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brbja7/combat_wombat/</link>
+      <description><![CDATA[       由   提交/u/darkestparagon  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbja7/combat_wombat/</guid>
+      <pubDate>Sat, 30 Mar 2024 06:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bing 对珠穆朗玛峰和……香蕉的痴迷？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1brbhb9/bings_obsession_with_mount_everest_and_bananas/</link>
+      <description><![CDATA[       由   提交/u/Accomplished_Book_65   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1brbhb9/bings_obsession_with_mount_everest_and_bananas/</guid>
+      <pubDate>Sat, 30 Mar 2024 06:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>嗯……苏</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1branve/hn_sus/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/onion_man_4ever  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1branp7/heygens_ai_avatar_generations_are_so_realistic_now/</guid>
       <pubDate>Sat, 30 Mar 2024 05:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI是否隐藏着令人震惊的秘密？ Q* 是实际 AGI 的情况</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bram4m/is_openai_hiding_a_shocking_secret_the_case_for_q/</link>
-      <description><![CDATA[好吧，是时候戴上我们的锡箔帽，深入兔子洞了。听我说完，如果 OpenAI 神秘的 Q* 项目不仅仅是迈向 AGI 的垫脚石，而且是一个实际的、有效的通用人工智能，那会怎么样？ 让我们看看事实：  去年年底，有传言称 OpenAI 一直在秘密开发一种名为 Q* 的极其先进的人工智能系统。 有传言称 Q* 的其能力如此惊人（并且可能令人不安），以至于在公司内部引起了重大分歧，最终导致首席执行官萨姆·奥尔特曼（Sam Altman）被短暂解雇。  现在，这才是真正有趣的地方。自从 Sam 复职以来，关于 Q* 的事情一直陷入了令人震耳欲聋的沉默。没有更新，没有博客文章，甚至没有一条神秘的推文。这个项目几乎就凭空消失了。但如果这正是重点呢？ 如果 Q* 不仅展示了令人印象深刻的能力，而且实际上实现了人工智能研究的圣杯——通用人工智能，又会怎样呢？一个能够像人类一样在广泛的领域进行推理、学习和解决问题的系统。如果是这样的话，这将是一个改变世界的发现，OpenAI 可能会犹豫是否要过早地揭示这一发现。 想一想：如果你刚刚创建了一个 AGI，你会立即宣布吗？它走向世界？或者您会花时间仔细研究其功能，考虑道德影响，并制定负责任的披露和部署计划？我的钱看重后者。 还有其他线索表明 Q* 可能不仅仅是表面上看起来的那样：  Ilya Sutskever，OpenAI 的首席科学家和据报道，自事件发生以来，Q*透明度倡导者就明显缺席了公众的视线。难道他一直在幕后努力工作，努力解决真正的通用人工智能所带来的令人兴奋的影响？ 山姆·奥尔特曼坚持认为通用人工智能还需要数年时间才能实现这是一个经过深思熟虑的举动，旨在为 OpenAI 制定下一步行动争取时间。通过淡化 Q* 的重要性并将目标转移到什么才是“真实的”， AGI，他们可以继续秘密进行该项目，而无需公开披露所带来的压力和审查。  当然，这都是基于猜测信息有限。但如果 Q* 确实是一个 AGI，那么其影响是惊人的。它将代表技术史上的一个转折点，一个可能以我们难以想象的方式重塑我们生活的方方面面的转折点。 那么，亲爱的读者，您怎么看？难道OpenAI一直坐拥世纪秘密？ Q* 是否会是我们一直在等待、隐藏在众目睽睽之下的 AGI？如果是这样，就在我们说话的时候，闭门造车可能会发生哪些令人兴奋的进展？   由   提交/u/Basic_Description_56   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bram4m/is_openai_hiding_a_shocking_secret_the_case_for_q/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在野外发现的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1braljg/found_in_the_wild/</link>
-      <description><![CDATA[      疯狂的是点赞量。这只是死亡互联网理论的一个例子吗？   由   提交/u/OmegaStroks  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1braljg/found_in_the_wild/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>出于安全考虑，OpenAI 推迟公开发布可在 15 秒内克隆某人声音的技术</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1braau9/openai_holds_back_public_release_of_tech_that_can/</link>
-      <description><![CDATA[       由   提交/u/Maxie445  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1braau9/openai_holds_back_public_release_of_tech_that_can/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>羊驼西诺 [ChatGPT 艺术]</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bra974/alpaca_cino_chatgpt_art/</link>
-      <description><![CDATA[       由   提交 /u/airpaulg   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bra974/alpaca_cino_chatgpt_art/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:34:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>OC里的角色，你最喜欢哪一个呢？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br9vv9/oc_characters_which_one_is_your_favourite/</link>
-      <description><![CDATA[       由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br9vv9/oc_characters_which_one_is_your_favourite/</guid>
-      <pubDate>Sat, 30 Mar 2024 05:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>出了我的路我就停不下来了！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br9n3l/outta_my_way_i_cant_stop/</link>
-      <description><![CDATA[       由   提交 /u/TheTipsyWizard   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br9n3l/outta_my_way_i_cant_stop/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的人工智能扬科维奇，《ASCII》</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br9gs9/weird_ai_yankovic_ascii/</link>
-      <description><![CDATA[我在玩 chatGPT 并意识到 AI 和 Al，在字符方面看起来是相同的。 所以，我有 GPT戏仿怪异阿尔 (Weird Al) 饰演怪异 A.I.并模仿了 Weird Al 的一首歌曲 Tacky。 这可能并不完美，但做起来很有趣！ “ASCII” 它可能看起来很奇怪，我所有的照片都使用文字，\我在代码中发推文，它很光滑，我的 ASCII 艺术滴答作响。\在展示中，看看我的技术，复古，如此别致，\ ASCII 模因，我们规则，我们的代码如此光滑。&lt; /p&gt; （因为我是 Ascii）\ 带代码的 T 恤，我的时尚巅峰，Flek 上的复古科技，\（因为我是 Ascii）\ 复古钥匙照亮了我的一周，带有 LED 条纹的屏幕。\（因为我是 Ascii)\ 已发送电子邮件，简单、独特、字体和颜色，哎呀！\ (因为我是 Ascii)\ 喜欢等宽字体？我们来谈谈吧。您可能喜欢 ASCII 极客。 在论坛中聊天，用 ASCII 艺术签名，它很光滑，\“像素还是 ASCII？”我挑。 Stallman 的提示点击。\ 技术术语下降，习惯性地，Linus 电子邮件坚持，\ 在我的博客中，经典的 HTML，Comic Sans，恶心！ （因为我是 Ascii）\ 社交装饰，艺术氛围精选，复古风格的博客。\（因为我是 Ascii）\电子邮件签收、ASCII 技巧、数字艺术 nix。\（因为我是 Ascii）\纯文本邮件、我的经典技巧，Comic Sans，恶心！\（因为我是 Ascii）\ 挖掘我的手艺？加入派系。你可能是 ASCII，很快。 给我带来文本，[0x1F] 开始表演，\ 给我带来屏幕，[0x7F] 让它们发光，\ 给我带来钥匙，[/r/n] 中断流程，\ 给我带来代码，[&amp;&amp;] 连接行，\ 给我带来位，[0101] 高和低，\ 给我带来字体，[A-Z] 连续，\ 给我带来行，[|| ] 对齐，你知道，\ 给我带来字符，[&lt;&gt;!] 符号来扔。 （因为我是 Ascii）\ 风景、人物、线条、IRC 都是我发光的地方。 \（因为我是 Ascii）\ 挑战、约束、精细、想象力、我的。\（因为我是 Ascii）\ 键盘点击、艺术设计、ASCII 世界、素数。\（因为我是 Ascii）\ 二进制的简单，像素发牢骚，ASCII 是我用餐的地方。   由   提交 /u/RagingCeltik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br9gs9/weird_ai_yankovic_ascii/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 对灭霸的看法</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br9e4k/chatgpts_perspective_of_thanos/</link>
-      <description><![CDATA[      我对它的说法感到好笑：“如果我跳进你的世界，作为你们中间的一个存在坐在这里” &lt; /div&gt;  由   提交 /u/Cordereko   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br9e4k/chatgpts_perspective_of_thanos/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>同事/老板认为我只是用人工智能来做我的工作</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br9d75/colleaguesboss_think_i_just_use_ai_to_do_my_job/</link>
-      <description><![CDATA[我时常使用 chatGPT 重写我的电子邮件，使它们更短且更易于阅读。英语是我的第二语言，虽然我认为我可以清楚地表达我想说的话，但人工智能帮助我提高了效率。  我已经与同事分享了这一点，因为我注意到我们的一些供应商也使用人工智能进行通信。我告诉他们我也用它来帮助构建我的电子邮件等。我并没有想太多。  快进到今天，有传言说“哦，他只是使用人工智能”。以至于我的经理质疑我的能力。我指的是人工智能无法生成但我需要花费数小时的东西。我向他们保证，我对人工智能的使用只不过是一种语言模型，当我使用它时，严格来说是为了帮助我更有效地沟通，就像我使用计算器一样。  似乎没有人理解，我是公司里使用人工智能的害群之马。最糟糕的是似乎没有人理解。但现实是，我所做的一切都是我自己做的结果，人工智能只是我用来帮助我写出更好看的电子邮件的工具，人们实际上不会再阅读 😔   由   提交 /u/sickofthisshiit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br9d75/colleaguesboss_think_i_just_use_ai_to_do_my_job/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:43:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后的日子。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br98hm/the_last_days/</link>
-      <description><![CDATA[       由   提交/u/Cervantes6785   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br98hm/the_last_days/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>你用过Superpower ChatGPT吗？？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br93f6/have_you_used_superpower_chatgpt/</link>
-      <description><![CDATA[      ​ 你会推荐我使用它   由   提交/u/Murky-Lab-495   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br93f6/have_you_used_superpower_chatgpt/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想我找到了他们最喜欢的名字</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br9319/i_think_i_found_their_favorite_name/</link>
-      <description><![CDATA[      Luna   由   提交/u/adehyett  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br9319/i_think_i_found_their_favorite_name/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZeroGPT 和其他人工智能有趣的结果</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1br91hs/zerogpt_and_other_aiinteresting_results/</link>
-      <description><![CDATA[大家好，你们好吗？ 我使用 python 和 R-studio 编写代码。我注意到一些有趣的事情。例如，我为我的 R-studio 编写了这一行 df&lt;-df%&gt;%rename(&quot;Base&quot;=&quot;Base92&quot;,&quot;Flight_time&quot;=&quot;Flying_time&quot;,&quot; Pilots&quot;=&quot;Fliers&quot;) ​ 有趣的是，每次我输入 ZeroGpt 和 AI 时，它都会告诉我：您的文本包含混合信号，其中一些部分由 AI/GPT 生成，检测到的 AI 评级为 0%。 GPT 零同时给出 98% 的评级。这有点令人困惑，因为我也教学生，我想投资人工智能检测工具，但如果他们真的无法捕捉到编码程序和线路，这值得吗？ ​ ​ p&gt; ​ ​   由   提交/u/Sikh_Sophists2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1br91hs/zerogpt_and_other_aiinteresting_results/</guid>
-      <pubDate>Sat, 30 Mar 2024 04:25:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
