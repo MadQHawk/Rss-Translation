@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 30 Mar 2024 18:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 21:10:59 GMT</lastBuildDate>
     <item>
-      <title>如何使用 Socket 查明您是否受到后门 xz 软件包的影响（包括捆绑或链接到 xz 的 npm、PyPI 和 Go 软件包的完整列表）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brnvir/how_to_use_socket_to_find_out_if_you_were/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brnvir/how_to_use_socket_to_find_out_if_you_were/</guid>
-      <pubDate>Sat, 30 Mar 2024 17:54:56 GMT</pubDate>
+      <title>Ubiquiti USG 的最佳开源软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1brqmir/best_open_source_software_for_ubiquiti_usg/</link>
+      <description><![CDATA[我确实有一台旧的 Ubiquiti USG，我的客户是一家预算有限的小型非营利组织。他们对小型教堂和其他非营利组织进行会计处理，因此他们确实有不错的风险状况。我想重新改造这个东西来取代他们已经有 20 年历史的失败的 Sonicwall。他们需要 Web 过滤和基于 IPSEC 的 VPN L2TP，当然还有基本的路由器功能和可靠的 IPS。我通常使用 PFsense 或 OPNsense，但它们需要 x86 架构。我从来没有在专用机器上安装 Unify 控制器软件有过任何长期的运气，我不想购买额外的硬件，因为我将把它送给他们，所以购买云密钥不是一个选择。有什么建议吗？   由   提交/u/jbruff  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1brqmir/best_open_source_software_for_ubiquiti_usg/</guid>
+      <pubDate>Sat, 30 Mar 2024 19:52:27 GMT</pubDate>
     </item>
     <item>
       <title>开源 Ableton Live 控制器（硬件）</title>
@@ -92,7 +92,7 @@
     <item>
       <title>第一个开源项目！显示热键。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bqvcpb/first_opensource_project_display_hot_keys/</link>
-      <description><![CDATA[大家好！我很自豪地展示我的第一个开源项目。下周我大学毕业，获得计算机科学学士学位，在过去的 6 个月里，我一直在很少的空闲时间里从事这个项目。该应用程序允许 Windows 用户将热键分配给各种显示设置，例如分辨率、位深度、刷新率和显示比例。按下热键时，显示设置将立即应用。 显示热键的常见用例：  切换刷新率以快速启用黑框显示器的插入或背光选通功能。 在不同宽高比的分辨率之间快速切换。 放大或缩小通过即时更改显示缩放比例来调整屏幕上的元素。 在视频游戏中即时设置显示模式。 （如果视频游戏不支持在游戏中更改分辨率或刷新率，这非常有用。）  显示热键 GitHub 链接：https://github.com/jon-mil-92/DisplayHotKeys 我希望有人觉得这很有用！如果您喜欢这个应用程序，请考虑给该项目一个“星星”。在 GitHub 页面上！谢谢！   由   提交/u/jonRock1992   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我很自豪地展示我的第一个开源项目。下周我大学毕业，获得计算机科学学士学位，在过去的 6 个月里，我一直在利用很少的空闲时间从事这个项目。该应用程序允许 Windows 用户将热键分配给各种显示设置，例如分辨率、位深度、刷新率和显示比例。按下热键时，显示设置将立即应用。 显示热键的常见用例：  切换刷新率以快速启用黑框显示器的插入或背光选通功能。 在不同宽高比的分辨率之间快速切换。 放大或缩小通过即时更改显示缩放比例来调整屏幕上的元素。 在视频游戏中即时设置显示模式。 （如果视频游戏不支持在游戏中更改分辨率或刷新率，这非常有用。）  显示热键 GitHub 链接：https://github.com/jon-mil-92/DisplayHotKeys 我希望有人觉得这很有用！如果您喜欢这个应用程序，请考虑给该项目一个“星星”。在 GitHub 页面上！谢谢！   由   提交/u/jonRock1992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bqvcpb/first_opensource_project_display_hot_keys/</guid>
       <pubDate>Fri, 29 Mar 2024 17:44:26 GMT</pubDate>
     </item>

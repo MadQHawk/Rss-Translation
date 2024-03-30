@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 18:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 21:10:53 GMT</lastBuildDate>
+    <item>
+      <title>LLM 不应该写 SQL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brs8hg/llms_shouldnt_write_sql/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brs8hg/llms_shouldnt_write_sql/</guid>
+      <pubDate>Sat, 30 Mar 2024 21:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是无聊的好奇心，但是什么级别，初级，中级或高级，正在使用快速拖放表单构建器项目创建 React 节点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brs81f/just_idle_curiosity_but_what_level_jr_mid_or/</link>
+      <description><![CDATA[标题   由   提交 /u/Slight-Rent-883   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brs81f/just_idle_curiosity_but_what_level_jr_mid_or/</guid>
+      <pubDate>Sat, 30 Mar 2024 21:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>gov.uk Safari 密码泄露</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brrx0y/safari_password_leak_for_govuk/</link>
+      <description><![CDATA[我刚刚在 Safari URL 菜单中收到通知，我的 gov.uk 密码 已被泄露。我点击它，它转到了 gov.uk 主主页。我是被骗了还是这是合法的？我似乎无法收回警告...   由   提交/u/Beginning_One_7685   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brrx0y/safari_password_leak_for_govuk/</guid>
+      <pubDate>Sat, 30 Mar 2024 20:47:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在原始下拉列表下方添加一个下拉列表，并在单击加号图标后相应地展开容器 - 如何？ （颤振流）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brqv7a/add_a_dropdown_below_the_original_one_and_expand/</link>
+      <description><![CDATA[      ​&lt; /p&gt;  在 Flutter Flow 中，如何添加在原始下拉列表下方添加一个下拉列表，并在单击加号图标后相应地展开容器？随着每个新的下拉菜单，加号也必须降低。   由   提交 /u/Raserakta   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brqv7a/add_a_dropdown_below_the_original_one_and_expand/</guid>
+      <pubDate>Sat, 30 Mar 2024 20:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>squarespace的域名注册商服务真的那么差吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brqlga/is_squarespaces_domain_registrar_service_actually/</link>
+      <description><![CDATA[所以，我忘记了域名转移需要大约 5 个工作日才能完成，并通过 google 域名将我的域名续订了一年可能会在这段时间内到期，并且不想冒间隙期的风险。  我很好奇目前是否有人真正使用 squarespace（特别是仅用于域名注册）以及您对域名服务的看法，例如 re.可转让性、随机费用等...我想我最担心的是他们会以某种方式试图劫持我的域名注册“人质”如果我尝试转移到另一个注册商，那么我想知道这是否是一种现实的恐惧。   由   提交/u/MoistCarpenter  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brqlga/is_squarespaces_domain_registrar_service_actually/</guid>
+      <pubDate>Sat, 30 Mar 2024 19:51:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们利用 Next.js 在简单的全栈应用程序中使用所有常见模型（RBAC、ABAC 和 ReBAC）来演示细粒度授权</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brpi30/we_utilize_nextjs_to_demonstrate_finegrained/</link>
+      <description><![CDATA[       由   提交/u/Permit_io   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brpi30/we_utilize_nextjs_to_demonstrate_finegrained/</guid>
+      <pubDate>Sat, 30 Mar 2024 19:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我遇到了我制作的这个 CodePen，试图向视觉设计师解释他们的背景图像可能超出了 Photoshop 画布的宽度。您发现自己必须经常解释哪些概念（对于开发人员来说这可能看起来很基本）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brpgxs/i_ran_across_this_codepen_i_made_to_try_and/</link>
+      <description><![CDATA[    /u/sheriffderek   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brpgxs/i_ran_across_this_codepen_i_made_to_try_and/</guid>
+      <pubDate>Sat, 30 Mar 2024 19:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>防火墙问题：部分电子邮件被阻止，但并非全部</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brpe8s/firewall_issue_some_emails_blocked_but_not_all/</link>
+      <description><![CDATA[我在 CentOS 服务器上使用 CSF（ConfigServer 防火墙）和 Cloudflare。 3 月 22 日，我发现一些电子邮件我服务器上的用户被退回给发件人。有些肯定会通过，但有些则没有。我最终不得不禁用 CSF，此时开始收到数百封电子邮件。 这个问题在 3 月 21 日没有发生，所以在我没有进行任何更改后这是一个新问题。所以它必须是自动化的。 这些 IP 在我的临时块中： 64.145.93.198 50.223.38.94 72.177.80.230 这是我的 Perm 块中唯一的一个： 50.223.176.171 但明确被阻止的 IP 是（基于我禁用 CSF 后收到的 IP）：&lt; br /&gt; 170.10.151.103 170.10.150.241 198.2.144.27 149.72.208.120 168.245.59.112 167.89.89.106 您可以看到所有延迟的电子邮件的 IP 范围都与被阻止的电子邮件的 IP 范围相同。 我认为我已经使用 Cloudflare 正确配置了 CSF，但它很复杂且令人困惑，所以我不会把我的生命押在它上面。但我最近也没有对 Cloudflare 进行任何更改，禁用 CSF 似乎可以“修复”问题。问题。 关于什么可能阻止电子邮件有什么建议吗？    由   提交/u/csdude5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brpe8s/firewall_issue_some_emails_blocked_but_not_all/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个网站，显示 iOS 缺失的网络功能（caniuse 数据）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brp9jn/i_made_a_site_that_shows_the_missing_web_features/</link>
+      <description><![CDATA[       由   提交/u/shalanah  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brp9jn/i_made_a_site_that_shows_the_missing_web_features/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应树视图菜单？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brozq3/react_tree_view_menu/</link>
+      <description><![CDATA[有人知道一个流行的、健壮的、维护良好的 React + TypeScript 树视图菜单库吗？付费许可证或 MIT，并不重要。   由   提交/u/kirkbross   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brozq3/react_tree_view_menu/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈.Net 开发人员正在考虑转行，我想知道这是否值得。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brostf/full_stack_net_developer_considering_a_career/</link>
+      <description><![CDATA[目前，我是一名全职的全栈 .Net 开发人员。 我主要从事 JS、HTML、CSS 和; C# 与 ASP.Net。我喜欢技术，但我不擅长设计 UI。与其他全栈开发人员相比，这给我带来了劣势。 我不太喜欢在前端工作，这是我工作中最不喜欢的。我擅长 OOP，可以向公司的初级人员教授 dotnet。 我正在考虑开始学习 Kubernetes，专攻容器编排和 DevOps。我已经使用 docker 和 docker-compose 工作了很多年。 我相信，通过专注于与现在不同的技术，我会找到很多乐趣，但从金钱角度来说，这值得吗？ DevOps/Kubernetes 专家赚的钱和 .Net 开发人员一样多吗？ 您对此有何看法？   由   提交/u/Upset-Statistician-1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brostf/full_stack_net_developer_considering_a_career/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>在当今时代可行吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bropdo/feasible_in_this_day_and_age/</link>
+      <description><![CDATA[我知道这可能听起来有点奇怪，但我喜欢使用 html、css 或许还有一点 js 制作小册子风格的信息网站。  优点：简单，无需处理 wordpress 数据库或框架。透明的代码库，我了解其内部运作方式。在低级别工作可以实现最大程度的细粒度定制和创意控制。  “简单”这个词也许是错误的，因为 html 和 css 有很多的细节需要学习，例如针对可访问性问题的编码。此外，在这个低级别工作还需要有关浏览器和托管的知识。即使是信息网站也可能仍然有某种后端。  但是现在 DIY 网站工具是否太简单且无处不在，不足以证明我的方法是正确的？我认为，无论某件事多么容易，该服务仍然有市场，因为有些人只是没有时间或不想这样做。需要明确的是，我不是设计师，我会将实际的设计工作外包给设计师，然后对其进行编码并托管等。 您的想法/建议是什么？    由   提交/u/nesterspokebar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bropdo/feasible_in_this_day_and_age/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>将您的 Github 存储库作为文本提供给 AI 聊天</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brogx1/feed_your_github_repo_as_text_to_ai_chat/</link>
+      <description><![CDATA[      嘿伙计们， 我不久前构建了一个小工具，可以将我的 Github 存储库转换为文本文件，以便我可以将其提供给自定义 GPT 并谈论我的存储库。一些 X 朋友要求我公开，所以我想我也在这里分享：https://feedtext.ai 这非常简单 - 它将公共 GitHub 存储库合并到一个文本文档中。我发现它非常有用，希望您也会发现它有帮助！ 我如何使用它：我使用 Feedtext 生成一个文本文件，并将其上传到我正在使用的应用程序的自定义 GPT 中在。它可以帮助人工智能更清楚地掌握我的应用程序的内容。另外，您还可以将其与 Claude 3 一起使用，只要文件大小不太大即可。 https://preview.redd.it/gqj6r7qxjirc1.jpg?width=1282&amp;format=pjpg&amp;auto=webp&amp;s=ae01b523bf4d083 59b2e3ae1d86084ca7fe1f460&lt; /p&gt; 我也可以让它能够读取私有存储库，但需要身份验证数据库等...所以只有当我收到足够的请求时我才会构建它。 这也不是一个原始想法你可以找到开源替代品，这里有一个： https://github.com/wadder12/RepoRipper  大多数都会有一个音调。  祝大家复活节快乐！   由   提交/u/arnauddsj   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brogx1/feed_your_github_repo_as_text_to_ai_chat/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Ambiphone，一款免费的环境音乐和混音器，可帮助您集中注意力（网络应用程序 + PWA）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1broeyc/i_made_ambiphone_a_free_ambient_music_and_sound/</link>
+      <description><![CDATA[      我制作了这个免费的替代品来替代基于订阅或充满广告的白噪音应用程序。有近 60 种声音供您随意组合，还有一个环境音乐广播电台提供超过 11 小时的音乐   由   提交/u/matteason  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1broeyc/i_made_ambiphone_a_free_ambient_music_and_sound/</guid>
+      <pubDate>Sat, 30 Mar 2024 18:17:29 GMT</pubDate>
+    </item>
     <item>
       <title>隆重推出 NBA GraphQL API：NBA 赛季和季后赛总计、高级统计数据等等！</title>
       <link>https://www.reddit.com/r/webdev/comments/1bro6vw/introducing_nba_graphql_api_nba_season_and/</link>
       <description><![CDATA[🏀 很高兴推出 GraphQL NBA 数据库 API！ 🏀   使用新推出的 GraphQL API 深入了解广阔的 NBA 统计数据。该 API 提供了一组丰富的端点，专为深入的篮球分析而定制，无论您是想获取详细的球员总数、高级统计数据，还是按位置和表现查询球员。    🔍使用 GraphIQL 探索：使用直观的 GraphIQL IDE 立即实践查询。非常适合希望实时测试和可视化数据查询的初学者和经验丰富的开发人员。开始探索：GraphIQL IDE    📦 Postman Collection：快速启动您的 API 与 Postman 集合的集成，旨在使您的开发过程更顺畅、更高效。在此处访问该集合：邮递员集合   🚀 功能包括：  轻松查询玩家总数和高级统计数据。 根据玩家姓名、团队等各种条件对结果进行过滤和排序、和赛季。 全面的检索字段，从基本比赛统计数据到深入的球员效率评级。    📘 &lt;强&gt;开始使用：NBA GraphQL API 在构建时考虑到了灵活性，非常适合渴望探索 NBA 数据的开发人员、数据分析师和篮球爱好者。要检查代码库或查看更多使用示例和详细查询说明，请深入GitHub 存储库。   由   提交 /u/thestonedmartian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bro6vw/introducing_nba_graphql_api_nba_season_and/</guid>
       <pubDate>Sat, 30 Mar 2024 18:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CatFacts.co - 我制作了一项服务，可以让您自动匿名向您的朋友发送有关猫的有趣事实。愚人节即将到来，我很高兴提供代码，以便每个人都可以免费使用它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bro1sz/catfactsco_i_made_a_service_that_lets_you/</link>
-      <description><![CDATA[   /u/Vennom  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bro1sz/catfactsco_i_made_a_service_that_lets_you/</guid>
-      <pubDate>Sat, 30 Mar 2024 18:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Socket 查明您是否受到后门 xz 软件包的影响（包括捆绑或链接到 xz 的 npm、PyPI 和 Go 软件包的完整列表）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brnvjq/how_to_use_socket_to_find_out_if_you_were/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brnvjq/how_to_use_socket_to_find_out_if_you_were/</guid>
-      <pubDate>Sat, 30 Mar 2024 17:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了自己的 LMGTFY 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brn017/i_made_my_own_lmgtfy_site/</link>
-      <description><![CDATA[您好！ 前几天我在 Google 上浏览，发现并没有真正好的 LMGTFY （让我为你谷歌一下）网站了。 lmgtfy.app（原始域名）似乎已永久离线。 我查找了哪些域名是免费的且简短名称，并找到了一个合适的名称：lmgtfy.click。我用两天时间用普通 HTML/JS 制作了这个网站。这完全是一项正在进行中的工作，我知道该布局并不能完全代表 Google 网站，但我目前已尽力而为。 该页面完全支持移动响应，并具有深色模式。我使用 SweetAlert 来处理一些事情。后端是 PHP（恨我），尽管它什么也没做。正如已经说过的，它使用普通的 JavaScript、CSS 和 HTML。用它来制作光标动画很困难，但我对结果很满意。 站点：lmgtfy.click 如果我能在这里得到一些反馈，我很高兴。希望它会对某人有所帮助。 ！[](https://lmgtfy.click/media/screenshot。 png)   由   提交/u/Hubi522  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brn017/i_made_my_own_lmgtfy_site/</guid>
-      <pubDate>Sat, 30 Mar 2024 17:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们谈谈计算机中的膨胀和性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brmfce/lets_talk_about_bloat_and_performance_in_computer/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brmfce/lets_talk_about_bloat_and_performance_in_computer/</guid>
-      <pubDate>Sat, 30 Mar 2024 16:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Shopify 上制作图像轮播</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brmaee/how_to_make_an_image_carousel_on_shopify/</link>
-      <description><![CDATA[大家好， 我知道你们很多人都被这个问题困扰，包括我自己。因此，我制作了如何向 Shopify 添加自定义图像轮播（无需插件）的完整指南 👉 https://glidemarketing.co.uk/how-to-create-a-sliding-image-carousel-in-shopify/ 尽情享受！&lt; /p&gt;   由   提交/u/Interesting_Half_710   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brmaee/how_to_make_an_image_carousel_on_shopify/</guid>
-      <pubDate>Sat, 30 Mar 2024 16:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个用于生成自签名证书的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brm6rw/i_made_a_site_for_generating_selfsigned/</link>
-      <description><![CDATA[ 由   提交/u/Dexterous_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brm6rw/i_made_a_site_for_generating_selfsigned/</guid>
-      <pubDate>Sat, 30 Mar 2024 16:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀]宙斯盾解析器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brl1yo/showoff_saturday_aegis_parsers/</link>
-      <description><![CDATA[介绍@aegisjsproject/parsers&lt; /a&gt;  安全与安全的集合HTML、CS、SVG、MathML、XML 和 JSON 的最小解析器  简要概述  设计安全：内置-in 清理以防止 XSS 等 简单且熟悉的语法：使用标记模板文字，因此您基本上只需将所需内容写为字符串 &lt; li&gt;占用空间小：重量仅为 8Kb 左右（缩小、压缩） 可重用组件/样式/模块：创建组件、样式和/或图标，然后像其他任何东西一样导入/导出它们 使用函数组合：使用数据动态构建组件灵活性 可定制：使用您自己的配置创建您自己的 HTML/CSS 解析器 与框架无关：可在任何具有 DOM 的地方使用（理论上包括 SSR，并具有适当的 DOM 实现）  CDN 支持：如果需要，您可以npm install，也可以导入&lt; /code&gt; 来自像 unpkg 这样的 CDN   示例 ``` import { html, css, svg } from &#39;@aegisjsproject/parsers&#39;; const btnStyles = css.btn { 背景颜色：#8cb4ff;颜色：#fafafa；边框半径：6px； }; const closeIcon = svg &lt;路径填充规则=“evenodd” d=“M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z” ; &gt;&gt; ; const closeBtn = html&lt;按钮类=“btn” popovertarget=“popover”&gt;${closeIcon}; //导出内容 export { btnStyles, closeIcon, closeBtn };  // 或者使用它们 document.adoptedstyles = [btnStyles]; document.querySelector(&#39;#popover&#39;).prepend(closeBtn); ``` 与 Web 组件一起使用 ``` import { template } from &#39;./template.js&#39;; import { lightTheme, darkTheme } from &#39;./styles.js&#39;; class MyComponent extends HTMLElement { constructor() { super(); const Shadow = this. AttachShadow({ 模式: &#39;关闭&#39; }); Shadow.adoptedStyleSheets = [lightTheme, darkTheme];阴影.append(模板);  } } ``` 欢迎测试人员、贡献者和反馈。 。    由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brl1yo/showoff_saturday_aegis_parsers/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何向 Facebook api 发送 POST api 调用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brkpm7/how_to_send_a_post_api_call_to_facebook_api/</link>
-      <description><![CDATA[我不是开发人员，但我正在使用我的 Facebook 广告帐户构建新功能来自动创建广告。 如果有人认为他们可以接听电话并对我当前的设置进行故障排除，我将支付您的时间费用。 谢谢  &amp;# 32；由   提交 /u/Wild-Village9853    reddit.com/r/webdev/comments/1brkpm7/how_to_send_a_post_api_call_to_facebook_api/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brkpm7/how_to_send_a_post_api_call_to_facebook_api/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于为网络创建优化视频的终端应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brkdpq/terminal_app_to_create_optimized_videos_for_the/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/Hal_Incandenza   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brkdpq/terminal_app_to_create_optimized_videos_for_the/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个桌面应用程序来创建食谱，您可以在其中填写管理生活任务的食谱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brkbd7/i_made_a_desktop_app_to_create_cookbooks_that_you/</link>
-      <description><![CDATA[   /u/Radiant-Run4940  /u/Radiant-Run4940 reddit.com/gallery/1brkbd7&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brkbd7/i_made_a_desktop_app_to_create_cookbooks_that_you/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>仪表板设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brk779/dashboard_design/</link>
-      <description><![CDATA[一些在线仪表板如何做到只停留在同一个网址上，同时显示不同的内容 就像加载图标一样获取新内容时仍然可以显示 它叫什么？   由   提交/u/Ok_Competition_7644   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brk779/dashboard_design/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 对前端开发人员网站内容的反馈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brk1po/showoff_saturday_feedback_on_website_content_for/</link>
-      <description><![CDATA[我一直在致力于让前端开发人员的生活变得更轻松，到目前为止，我希望在我的登陆页面上提供任何输入。它是一个平台工程即服务 (PEaaS)，可简化前端开发人员的操作，使他们能够专注于产品。 如果您有时间，您可以在这里找到更多信息并提供您的见解备用：labs.stack.io 我不是来推销的——只是寻找来自于的真实想法最了解前端框架使用的社区。如果您对我们的自动化工作流程、黄金路径以及介于两者之间的一切方法有任何想法，我将不胜感激。有人认为这样的事情会有帮助吗？源于几个月前在这个 Reddit 子版块中发生的 vercel 谈话！ 我想知道我的网站上的价值主张是否明确？我认为还没有……有什么建议可以让它变得更好吗？我还可以添加更多信息吗？   由   提交/u/learningdevops  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brk1po/showoff_saturday_feedback_on_website_content_for/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着人工智能的兴起，网络开发人员是否从自由职业网站中获得了足够的收益？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brjzc9/are_web_developers_getting_enough_from/</link>
-      <description><![CDATA[大家好，我刚刚完成前端开发课程，我只是想问开发人员是否仍然从自由职业网站获得足够的钱？人工智能时代值得学习吗？    由   提交 /u/Venomous_Yad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brjzc9/are_web_developers_getting_enough_from/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不知道如何降低我的 LCP，目前显示“需要改进”。我的灯塔分数接近100%。难道我需要一个更强大的服务器来运行该网站，我是否需要为国际用户提供多可用区支持？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brjy7m/i_dont_know_how_to_get_my_lcp_lower_its_currently/</link>
-      <description><![CDATA[   /u/okawei  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brjy7m/i_dont_know_how_to_get_my_lcp_lower_its_currently/</guid>
-      <pubDate>Sat, 30 Mar 2024 15:04:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

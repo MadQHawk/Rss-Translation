@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 30 Mar 2024 18:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 21:11:16 GMT</lastBuildDate>
     <item>
-      <title>通讯JIT服务器</title>
-      <link>https://www.opensourceagenda.com/projects/sidejitserver</link>
-      <description><![CDATA[适用于 iOS 17 的 JIT 启用程序，Windows/macOS 计算机位于同一 WiFi 上！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sidejitserver</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:43 GMT</pubDate>
+      <title>加密卖家机器人</title>
+      <link>https://www.opensourceagenda.com/projects/crypto-seller-bot</link>
+      <description><![CDATA[Crypto Seller Bot 是一款创新工具，旨在在最佳时间自动执行加密货币销售流程。利用最先进的算法，它分析市场趋势并执行卖出订单，以最大限度地提高利润，同时最大限度地减少损失。加密卖家机器人非常适合新手和经验丰富的交易者，提供无缝的用户体验]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crypto-seller-bot</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>高斯立方体</title>
-      <link>https://www.opensourceagenda.com/projects/gaussiancube</link>
+      <title>CryptoC0inAnalyzer</title>
+      <link>https://www.opensourceagenda.com/projects/cryptoc0inanalyzer</link>
+      <description><![CDATA[加密货币分析器是一个复杂的数字平台，旨在提供有关各种加密货币的实时数据分析和见解。该工具专为初学者和经验丰富的投资者量身定制，提供对市场趋势、价格变动和交易量的全面见解。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cryptoc0inanalyzer</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jidiayi 加密钱包生成器</title>
+      <link>https://www.opensourceagenda.com/projects/jidiayi-crypto-wallet-generator</link>
+      <description><![CDATA[加密钱包生成器是一款允许用户安全地创建和管理其加密货币的工具钱包。通过该生成器，用户可以轻松生成比特币、以太坊、莱特币等各种加密货币的公钥和私钥对。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jidiayi-crypto-wallet-generator</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fqewfqffdfsdf2 加密货币交易机器人</title>
+      <link>https://www.opensourceagenda.com/projects/fqewfqffdfsdf2-crypto-trading-bot</link>
+      <description><![CDATA[加密交易机器人是一款复杂的软件，旨在自动化加密货币交易策略。通过利用先进的机器学习算法，它的目标是根据市场分析和交易信号执行买卖订单，优化不同市场条件下的盈利能力。适合初学者和经验丰富的交易者]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fqewfqffdfsdf2-crypto-trading-bot</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包余额分析器</title>
+      <link>https://www.opensourceagenda.com/projects/wallet-balance-analyzer</link>
+      <description><![CDATA[钱包余额分析器是一款功能强大的工具，旨在为用户提供其加密货币的全面概览钱包余额。它利用高级分析，旨在跟踪和分析多个钱包和平台上的数字资产的历史和当前状态。 Wallet B 专为初学者和高级用户量身定制]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wallet-balance-analyzer</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密钱包暴力破解</title>
+      <link>https://www.opensourceagenda.com/projects/crypto-wallet-bruteforce</link>
+      <description><![CDATA[加密钱包暴力破解是一款强大的工具，用于使用暴力攻击破解加密货币钱包的密码。它旨在系统地尝试所有可能的密码组合，直到找到正确的密码，从而允许未经授权的用户访问钱包。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crypto-wallet-bruteforce</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ixartz SaaS 样板</title>
+      <link>https://www.opensourceagenda.com/projects/ixartz-saas-boilerplate</link>
+      <description><![CDATA[🚀🎉📚 使用 Next.js + Tailwind CSS + Shadcn UI + TypeScript 构建的 SaaS Boilerplate 。 ⚡️ 全栈 React 应用程序，具有身份验证、多租户、角色和权限、i18n、登陆页面、数据库、日志记录、测试]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ixartz-saas-boilerplate</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌吉克汞</title>
+      <link>https://www.opensourceagenda.com/projects/ujkhg</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gaussiancube</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:42 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/ujkhg</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:13 GMT</pubDate>
     </item>
     <item>
-      <title>类型保护</title>
-      <link>https://www.opensourceagenda.com/projects/type-guard</link>
-      <description><![CDATA[Type Guard 是一个轻量级 PHP 库，可让您将变量的类型范围缩小到更具体的类型。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/type-guard</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:42 GMT</pubDate>
+      <title>Dolbawww22 自动交易机器人</title>
+      <link>https://www.opensourceagenda.com/projects/dolbawww22-auto-trading-bot</link>
+      <description><![CDATA[自动交易机器人是一款先进的软件工具，旨在自动化加密货币交易过程。通过利用尖端的人工智能算法，它旨在分析​​市场趋势并执行交易，以实现利润最大化和风险最小化。该机器人提供用户友好的界面，适合新手和经验丰富的交易者]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dolbawww22-auto-trading-bot</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:13 GMT</pubDate>
     </item>
     <item>
-      <title>瓦克罗</title>
-      <link>https://www.opensourceagenda.com/projects/wacro</link>
-      <description><![CDATA[使用 WebAssembly 构建 Swift 宏]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wacro</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>不和谐硝基制造商</title>
-      <link>https://www.opensourceagenda.com/projects/discord-nitro-maker</link>
-      <description><![CDATA[Discord Nitro 生成器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/discord-nitro-maker</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>微差</title>
-      <link>https://www.opensourceagenda.com/projects/minidiff</link>
-      <description><![CDATA[与差异块一起工作。 “mini.nvim”库的一部分。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/minidiff</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥克罗内特</title>
-      <link>https://www.opensourceagenda.com/projects/okcronet</link>
-      <description><![CDATA[🚀 一个类似OKHTTP的网络请求库，使用Cronet实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/okcronet</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>龙银5</title>
-      <link>https://www.opensourceagenda.com/projects/dragonsilver5</link>
+      <title>易达明</title>
+      <link>https://www.opensourceagenda.com/projects/easytamin</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dragonsilver5</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:40 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/easytamin</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:12 GMT</pubDate>
     </item>
     <item>
-      <title>幻影脚本</title>
-      <link>https://www.opensourceagenda.com/projects/phantomscripts</link>
-      <description><![CDATA[PhantomScript 是市场上最安全的《英雄联盟》脚本。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/phantomscripts</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vue 烧瓶模板</title>
-      <link>https://www.opensourceagenda.com/projects/vue-flask-template</link>
-      <description><![CDATA[📦 一个快速搭建 Web 应用的模版！前端使用渐进式框架 Vue，后端使用微框架 Flask]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vue-flask-template</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱说话的危险29</title>
-      <link>https://www.opensourceagenda.com/projects/gabbydanger29</link>
+      <title>眼科工程眼科</title>
+      <link>https://www.opensourceagenda.com/projects/ocularengineering-ocular</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gabbydanger29</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:39 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/ocularengineering-ocular</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:12 GMT</pubDate>
     </item>
     <item>
-      <title>火焰行者12drdulitl</title>
-      <link>https://www.opensourceagenda.com/projects/flamewalker12drdulitl</link>
+      <title>S0undp4d</title>
+      <link>https://www.opensourceagenda.com/projects/s0undp4d</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flamewalker12drdulitl</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:39 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/s0undp4d</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:12 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局加密图书馆</title>
-      <link>https://www.opensourceagenda.com/projects/nasa-cryptolib</link>
-      <description><![CDATA[使用 CCSDS 空间数据链路安全协议 - 扩展程序 (SDLS- EP）以确保运行核心飞行系统（cFS）的航天器与地面站之间的通信安全。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nasa-cryptolib</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:38 GMT</pubDate>
+      <title>前言</title>
+      <link>https://www.opensourceagenda.com/projects/pgprolog</link>
+      <description><![CDATA[PostgreSQL Prolog 语言处理程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pgprolog</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>SLE 提供商</title>
-      <link>https://www.opensourceagenda.com/projects/sle-provider</link>
-      <description><![CDATA[Python3 中的空间链接扩展提供程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sle-provider</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:38 GMT</pubDate>
+      <title>温度</title>
+      <link>https://www.opensourceagenda.com/projects/rtyh</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rtyh</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>杰谢哈廖夫FEC</title>
-      <link>https://www.opensourceagenda.com/projects/dshekhalev-fec</link>
-      <description><![CDATA[一些著名代码（BCH、RS、LDPC、Turbo）的 FEC 编解码器 IP 核库&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dshekhalev-fec</guid>
-      <pubDate>Sat, 30 Mar 2024 18:17:37 GMT</pubDate>
+      <title>尤菲乌</title>
+      <link>https://www.opensourceagenda.com/projects/yufiuh</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yufiuh</guid>
+      <pubDate>Sat, 30 Mar 2024 21:11:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
