@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 09:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 12:21:03 GMT</lastBuildDate>
+    <item>
+      <title>https://gamer.express/ 使用什么开源技术堆栈（如果有）？或者它是完全自定义编码的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs92d3/what_open_source_tech_stack_does/</link>
+      <description><![CDATA[我刚刚发现了一个名为 GXP / Gamer Express 的 Reddit 替代品。您知道该网站使用什么技术堆栈吗？它是一个开源框架，还是完全自定义编码的？您可以看到以下网站： https://gamer.express/ &lt; !-- SC_ON --&gt;  由   提交/u/prankster999  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs92d3/what_open_source_tech_stack_does/</guid>
+      <pubDate>Sun, 31 Mar 2024 12:16:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel：免费的 ngrok 替代方案，用于将本地 Rails 应用程序公开到互联网</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs91l0/cloudflare_tunnel_a_free_ngrok_alternative_for/</link>
+      <description><![CDATA[ 由   提交/u/kyrylo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs91l0/cloudflare_tunnel_a_free_ngrok_alternative_for/</guid>
+      <pubDate>Sun, 31 Mar 2024 12:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年微前端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs882t/microfrontend_in_2024/</link>
+      <description><![CDATA[各位 html 极客们大家好 在过去的两年里我一直脱离循环。微前端的最新动态是什么？仅通过阅读新闻和科技文章很难辨别什么是炒作，什么是经过实战检验的。  webpack 联邦有多成熟？您还会选择带总线的老式学校 iframe 吗？ 如果您今天要组建一个需要微前端的大型技术团队，那么您梦想的全新设置是什么？    由   提交/u/react_dev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs882t/microfrontend_in_2024/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 IIS 将被拒绝的 IP 地址重定向到另一个 URL/站点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs84m8/how_can_i_redirect_denied_ip_addresses_to_another/</link>
+      <description><![CDATA[使用 IIS 有没有办法将被拒绝的访问者重定向到另一个页面，而不是抛出“访问被拒绝”页面？  我希望员工在连接到我们办公室的 IP 地址时可以访问该网站，但我想通过将他们重定向到另一个页面来明确拒绝他们的访问。我如何在 IIS 上完成此操作？  谢谢！   由   提交 /u/retrovertigo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs84m8/how_can_i_redirect_denied_ip_addresses_to_another/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Svelte 还是 React？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs80ns/svelte_or_react/</link>
+      <description><![CDATA[您好，我不是开发网站，而是软件和网络安全开发人员，但我需要钱，而且我在空闲时间有工作机会我要做一个网站，我必须选择框架。  从我的角度来看，我觉得 svelte 在 js 中包含 html 更符合逻辑，但 React 更受欢迎，并且用于多种用途，甚至是移动开发。您有什么建议吗？   由   提交 /u/NoahZhyte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs80ns/svelte_or_react/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:17:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>定期面对面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs7trr/periodic_facetoface/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs7trr/periodic_facetoface/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器指纹识别和附加组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs7d5i/browser_fingerprinting_and_addons/</link>
+      <description><![CDATA[我是一名 Web 开发人员，我将开发浏览器插件作为业余爱好项目。我知道拥有附加组件可以使您的浏览器对指纹识别脚本更加独特。我有兴趣尽可能减少项目中可指纹打印的表面积。  （毫不奇怪）很难获得有关这些专有指纹识别器使用哪些指标的良好数据。所以我有一些问题想问一下有这方面经验的人。   我不知道从网站加载的脚本能够直接访问附加组件。所以他们不应该能够看到哪些插件正在运行，甚至有多少？ 网站脚本将能够检测 DOM 的突变，例如深色阅读器改变背景颜色。所以我想这完全暴露了您正在运行特定的附加组件？ 网站脚本和 Web 服务器将能够检测到浏览器阻止的请求。像 uBlock 这样的附加组件非常普遍，因此使用它们的默认阻止列表可能并不算什么，但使用不太常见的阻止列表可能会让你脱颖而出？ 是否有阻止第三个的情况派对脚本完全吗？为了使指纹识别脚本有效，它们需要跨域跟踪您，这意味着它们几乎肯定会作为第三方脚本加载。对于在线隐私而言，阻止它们似乎是理所当然的事情。没有它们就崩溃的网站可以根据需要加载到单独的环境中，以减轻流量关联的风险。   预先感谢，我感谢任何意见，即使它只是让我知道我完全错了哈哈。  旁注：这主要针对 Firefox 及其分支。 Chrome 具有大部分相同的 API，但我怀疑用户是否对在线隐私感兴趣。    由   提交/u/I_Eat_Pink_Crayons  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs7d5i/browser_fingerprinting_and_addons/</guid>
+      <pubDate>Sun, 31 Mar 2024 10:36:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何（最好是开源的）平台来创建价格比较网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs70rp/is_there_any_open_source_ideally_platform_to/</link>
+      <description><![CDATA[是否有一个平台可以用来构建价格比较网站，而无需从头开始编写所有代码？理想情况下，该平台将提供一种添加产品提要（csv 或 xml）并自动从提要中获取价格的方法。主页应该提供最佳价格和最新价格更新的概述，理想情况下它应该带有评论功能，以便人们可以对产品发表评论。  我尝试了 Content Egg Pro，但它对于我的用例来说有点太有限了。    由   提交/u/ThibaultG4U   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs70rp/is_there_any_open_source_ideally_platform_to/</guid>
+      <pubDate>Sun, 31 Mar 2024 10:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>temp-mail,TempMail 是一个简单的 Web 应用程序，允许您生成临时电子邮件地址并查看这些地址收到的电子邮件,下载temp-mail的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs6rfo/github_mehmetkahya0tempmail_tempmail_is_a_simple/</link>
+      <description><![CDATA[   /u/mehmettkahya   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs6rfo/github_mehmetkahya0tempmail_tempmail_is_a_simple/</guid>
+      <pubDate>Sun, 31 Mar 2024 09:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>PWA - URL 中的变量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs6p41/pwa_variables_in_url/</link>
+      <description><![CDATA[我正在创建一个 Web 应用程序，我希望人们能够安装该应用程序，以便他们可以离线使用它 - 它提供了一个 on -每日祈祷书的屏幕版本。它真正需要连接的唯一时间是版本更新时：其他所有事情都发生在 Javascript 中。 我不清楚一件事。如果用户当前想要查看不同日期的内容，她可以在应用程序中选择一个日期，然后 JavaScript 会重定向到同一页面，并附加一个日期参数“?d-yyyy-mm-dd”。 这可以离线使用吗？我需要对清单或 Service Worker 执行任何操作才能使其正常工作吗？或者我应该找到一种不同的方式来处理这方面？    由   提交/u/daldredv2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs6p41/pwa_variables_in_url/</guid>
+      <pubDate>Sun, 31 Mar 2024 09:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助网站演出定价（我是学生）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs6mjl/help_with_website_gig_pricing_im_a_student/</link>
+      <description><![CDATA[嗨， 背景信息我是一名计算机科学学生，将 webdev 作为一种爱好，并且我开始了客户的项目涉及创建一个具有复杂动画的网站。我必须为我的客户开发一个网站（仅编码，图形工作室提供图形），该客户要求 4 个“独特”的页面。 （参见下面为什么“）页面网站需要从头开始构建（旧的 HTML、CSS 和 JS），因为其复杂的动画、速度要求和整体质量。这是经典的营销机构网站，就像您在 Awwwards 上看到的网站一样，但稍微不那么复杂。 出于隐私原因，我无法提供图形，但我可以概述要求：  主页：它包含一个滚动动画，如此处，当侧段出现时转换为正常滚动。 GSAP 是唯一的方法。主页还包括其他动画，这里很难描述，但实现起来并不困难。 关于页面：包括文本、图像以及悬停时带有向上滑动文本动画的框。 GSAP 是唯一的方法（相信我，我看过故事板）。 项目页面：每个项目页面的顶部都有文本，下面有马赛克图像网格，具有不同的布局和样式。例如，一个页面可能有 2 列部分，后面是全屏部分，然后是 3 列部分，而另一个页面可能有不同的排列。 使用 PHP 表单联系我们页面。图形参考待定。 Ofc 它需要响应并包括基本的基本搜索引擎优化  我在欧洲（确切地说是意大利），我想询问大约 2k 。你怎么认为？是否太低/太高？如果您需要更多背景信息，我会尽力提供给您。  提前致谢， 祝你有美好的一天！   由   提交 /u/BarboBarbo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs6mjl/help_with_website_gig_pricing_im_a_student/</guid>
+      <pubDate>Sun, 31 Mar 2024 09:47:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRSF 还会从 Cookie 中窃取会话密钥吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs6l5t/do_crsf_still_steal_the_session_key_from_cookies/</link>
+      <description><![CDATA[我目前在部署网站时收到 Django 的 CSRF 未配置错误，因此我目前正在阅读有关 CSRF 的内容。据我所知，要执行 CSRF 攻击，用户当前必须经过身份验证并登录，同时制作一个表单，以便通过传入会话令牌来提交到经过身份验证的网站。  但是，通过使用开发人员工具（F12）对 Google Chrome 进行观察并检查 Cookie，我可以看到它们内部没有会话令牌。它们似乎位于“会话存储”内。数据库略高于。除此之外，它并没有全部显示它们，它似乎只在您访问该网页时才显示它们（我认为这是为了视觉清晰度？）。  所以这让我思考，这些视频是否已经过时，或者会话存储是新的，并且这个新的实现是否通过仅在网页上允许它来解决 CSRF 问题？   由   提交/u/Chance_Rhubarb_46   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs6l5t/do_crsf_still_steal_the_session_key_from_cookies/</guid>
+      <pubDate>Sun, 31 Mar 2024 09:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs6kil/help_with_project/</link>
+      <description><![CDATA[我是一名计算机科学学生，目前在加油站兼职。你们总是说最好的学习方式是做项目。我想我应该创建一个项目来将我的兼职工作的某些方面数字化。也许我什至可以把它写在我的简历上。 我的加油站出租汽车，很难跟踪哪些汽车外部/内部干净以及它们是否停在场所内加油站或更远的地方。此外，我们需要某种形式的方式来通知老板重要的事件或信息。甚至可能是一个带有待办事项列表的时间表！目前，我们通过用纸和笔写东西来完成所有这些工作。 我只是很困惑应该从哪里开始。我想这应该是一个需要身份验证的网站。所以我需要 HTML、CSS 和 JavaScript。  你们对我应该如何开始或者可能有一些我没有想到的方面有什么建议吗？ 谢谢你们🙏   由   提交 /u/Koratozarix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs6kil/help_with_project/</guid>
+      <pubDate>Sun, 31 Mar 2024 09:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何连接xampp和vite（react、typescript）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs68ml/how_to_connect_xampp_and_vite_react_typescript/</link>
+      <description><![CDATA[我是编程新手，请告诉我如何解决该问题。如果我通过 xampp localhost 运行一些 .tsx 文件，浏览器只会显示文件代码，而不是代码执行本身。 我的项目中有 php 和 .tsx 页面。 例如，我需要从login.php 文件移动到index_user.tsx。是否可以在它们之间设置自由移动？   由   提交 /u/pyaniy_synok   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs68ml/how_to_connect_xampp_and_vite_react_typescript/</guid>
+      <pubDate>Sun, 31 Mar 2024 09:18:40 GMT</pubDate>
+    </item>
     <item>
       <title>本地 Python 应用程序的浏览器内界面</title>
       <link>https://www.reddit.com/r/webdev/comments/1bs6479/inbrowser_interface_for_a_local_python_application/</link>
       <description><![CDATA[前言：  我是 Python 的初学者，没有前端 UI 经验开发 我精通 Node.js  我有一个 Python 的 CLI 应用程序。我想为其提供一个基于浏览器的交互式前端。 这是我正处于十字路口的地方，确实需要一些建议：  我应该使用一个前端框架，或者我可以使用普通的 JS 吗？我将拥有一个交互式页面，其中包含约 5 个表单/按钮，以及交互式表格数据可视化。 是否有一个涉及 React（或 Svelte 或 vanilla JS）前端、Node.js 前端的架构？ js 后端来弥合差距，而我的业务逻辑的 Python 应用程序是一个明智的方法吗？  这对我来说有点未知的领域，所以我洗耳恭听任何经验和建议，或者你们可能有的指点。 提前致谢！   由   提交/u/rafasofizadeh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bs6479/inbrowser_interface_for_a_local_python_application/</guid>
       <pubDate>Sun, 31 Mar 2024 09:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用空 Cookie 获取 401（未经授权）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs4ez2/getting_401_unauthorized_with_empty_cookie/</link>
-      <description><![CDATA[当我访问 http:// 时收到 401（未经授权） localhost:5000/api/users/ 来自react，但当我在邮递员中测试时运行良好，问题是当有人登录时应该在浏览器中添加 jwt 令牌作为 cookie，但不知何故它实际上不是，当我手动访问 cookies 部分或使用 console.log 我得到了未定义。我尝试在我的登录挂钩中添加 jwt 令牌作为来自 React 的 cookie。 ``js import { useState } from “react” import来自“react-hot-toast”的 toast 从“../context/AuthContext”导入 { useAuthContext } const useLogin = () =&gt; { const [loading, setLoading] = useState(false) const { authUser, setAuthUser } = useAuthContext() const login = async (用户名,密码）=&gt; { if (!用户名 || !密码) { return toast.error(&#39;请填写两个字段&#39;) } &lt; p&gt;setLoading(true) 尝试{ const res = wait fetch(&#39;http://localhost:5000/api/auth/login&#39;, { &lt; p&gt;方法：&#39;POST&#39;， 标头：{ &#39;Content-Type&#39;：&#39;application/json&#39; }， &lt; p&gt;body: JSON.stringify({ 用户名, 密码 }) }) const data = wait res.json() if (data.错误）{ toast.error(data.error) } setLoading(false) toast.success(&#39;已记录成功&#39;) localStorage.setItem(&#39;chat-user&#39;, JSON.stringify(data)) setAuthUser(data) const token = &#39; secureToken=&#39;+encodeURIComponent(authUser.token); // &lt;- 这里 document.cookie = token; } catch (error) { console.error(error.message) } } 返回{加载，登录} } 导出默认useLogin ``` 仍然收到 401（未经授权）意味着后端无法获取 jwt 令牌，因此抛出此错误 loginController.js ` ``js const login = async (req, res) =&gt; { 尝试{ const { 用户名, 密码 } = req.body; const user = wait User.findOne({ 用户名 }); const isPasswordCorrect = wait bcrypt.compare(密码, 用户?.密码 || &quot;&quot;); &lt; p&gt;if (!user || !isPasswordCorrect) { return res.status(400).json({ error: &quot;无效的用户名或密码&quot; }); }  const token =generateToken(user._id, res); res.status(200).json({...user, token: token}); res.status(200).json({...user, token: token}); &gt; } catch (error) { console.log(&quot;登录控制器出错&quot;, error.message); res.status(500).json( { error: “内部服务器错误” }); } } ``` generateToken.js ```js const jwt = require(&#39;jsonwebtoken&#39;); constgenerateToken = (id, res) =&gt;; { const token = jwt.sign({id}, process.env.JWT_SECRET, { expiresIn: &#39;30d&#39; }) res.cookie(“secureToken”, token,{ httpOnly: true }) 返回令牌; &lt; p&gt;} module.exports =generateToken; ``` authorize.js（用于验证检查经过身份验证的用户的中间件） ```js const jwt = require(&#39;jsonwebtoken&#39;); const User = require(&#39;../models/userModel&#39;); const 授权 = async (req, res, next) =&gt; { 尝试{ const token = req.cookies.secureToken if (!token) return res.status(401).json({ error: “未经授权，访问被拒绝” }) const demod = jwt.verify(token, process.env.JWT_SECRET) const user = wait User.findOne({ _id: &lt; a href=&quot;https://decoded.id&quot;&gt;decoded.id }).select(&#39;-password&#39;) if (!user) {  return res.status(401).json({ error: &quot;未经授权，访问被拒绝&quot; }) } req.user = user next () } catch (e) { console.error(e) res.status(500).json({ error: &quot;服务器错误” }) } } module.exports = Authorize; ``` 抱歉，如果这不是获得有关此问题的帮助的正确位置，请提供正确的 sub reddit   由   提交/u/sidharthbh8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs4ez2/getting_401_unauthorized_with_empty_cookie/</guid>
-      <pubDate>Sun, 31 Mar 2024 07:10:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 CSS 锚点：悬停过渡效果感觉如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs3rzm/how_do_you_feel_about_css_anchor_hover_transition/</link>
-      <description><![CDATA[以科学的名义。 查看民意调查   由   提交/u/icomplimentassholes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs3rzm/how_do_you_feel_about_css_anchor_hover_transition/</guid>
-      <pubDate>Sun, 31 Mar 2024 06:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 UI 库的捆绑器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs2kfi/bundler_for_my_ui_library/</link>
-      <description><![CDATA[Web 开发人员您好，我正在创建一个基于 React 的轻量级 Ui 库，但我陷入了捆绑器部分。我使用打字稿默认+情感来进行动态样式。问题出在这里： 仅供参考包是：u/meroui/react 首先尝试汇总： - 它在一个文件中创建了整个包，但我不想要这个文件，因为我将添加许多组件，并且单个文件会变得太大。使用“使用客户端”后构建时出现错误或其他钩子和 jsx pragma 一起表达情感。我希望 dist/index.js 文件导出所有组件，dist/Button/Button.js 文件包含按钮逻辑，button.d.ts 具有类型，index.js 和 index.d.ts 导出组件，就像 antd 或chakraui。 尝试过 webpack：我能够使用它将逻辑分离为组件，但它也会在单个 index.js 文件中编译代码，而不是在 index.js 文件中创建导出。但它将组件作为文件夹分开，并在经过一些调整后正确生成类型。问题是它不会创建包含将导出每个组件的 commonjs 导出语法的 index.js 文件，也不会创建导出所有组件的主 index.js 文件。  使用storybook和nextjs来检查我的组件（例如Skeleton）在直接使用时是否正常。两者都没有错误，并且只有当我使用 webpack 编译相同的代码并将它们发布为包时，我才会在 nextjs 和 vite 中收到 500 个服务器错误。 我想让服务器端支持 UI 组件，但是webpack 和 Roller 在不使用“use client”的情况下在任何地方添加了 use 上下文。在我导入和使用这些 ui 组件的任何地方，我都会遇到 self is not Defined 错误，并且在使用 use client 后，我​​在 nextjs 中收到 500 错误。 所以我的问题是如何解决这个问题？谢谢阅读。 （我知道您会认为我将问题从捆绑程序迁移到服务器错误，但所有这些都是相互关联的。）   由   提交/u/WeedLover_1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs2kfi/bundler_for_my_ui_library/</guid>
-      <pubDate>Sun, 31 Mar 2024 05:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>背景视频缩放问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs26zz/background_video_scaling_issues/</link>
-      <description><![CDATA[您好，我正在寻求有关优化网站上背景视频显示的帮助。我遇到了视频被切断或无法正确缩放的问题。具体来说，我试图有效地展示动态图形，但我受到 Webflow 上 GIF 4MB 大小限制的限制。任何指导或帮助将不胜感激。谢谢你！  https://portfolio-6bbb83.webflow.io/    由   提交/u/Constant_Advance9037   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs26zz/background_video_scaling_issues/</guid>
-      <pubDate>Sun, 31 Mar 2024 04:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我喜欢 CSS……很受欢迎吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs0hi6/i_love_css_hot_take/</link>
-      <description><![CDATA[能够使用 CSS 施展魔法真是太有趣了！将丑陋的标记变成看起来容易的东西对我来说非常令人满意。大家对于写CSS感觉如何？   由   提交 /u/OiaOrca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs0hi6/i_love_css_hot_take/</guid>
-      <pubDate>Sun, 31 Mar 2024 03:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用 WordPress 创建一个具有以下功能并且零编程技能的网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brxd2d/can_i_create_a_website_that_does_the_following/</link>
-      <description><![CDATA[ 登录功能 每个人都可以创建博客文章 每个人都可以对彼此的帖子进行投票（这会推高它），并且可以评论彼此的帖子  我怀疑任何非编程系统都可以做到这一点，但是： 4）算法系统这会将您喜欢的内容推送给您 我可以使用 wordpress 或任何其他可以以零编程技能创建此类网站的系统吗？ 谢谢   由   提交/u/DBKing555  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brxd2d/can_i_create_a_website_that_does_the_following/</guid>
-      <pubDate>Sun, 31 Mar 2024 00:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动网络主机/网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brw0xy/moving_web_hosts_websites/</link>
-      <description><![CDATA[大家好，我有一家在线商店，我正从 Shopify 迁移到 Squarespace，您认为我会遇到 Google 广告方面的问题吗？我愿意？它将指向相同的网址，我将在后端与我的托管公司进行更改。 抱歉，如果这是一个菜鸟问题，以前从未这样做过，而且我是一家小企业。也欢迎任何提示！   由   提交 /u/Skinny_que   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brw0xy/moving_web_hosts_websites/</guid>
-      <pubDate>Sat, 30 Mar 2024 23:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者如何做表单？ （民意调查）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brv9cm/how_do_developers_do_forms_survey/</link>
-      <description><![CDATA[嘿，开发人员朋友们！我有一个关于如何制作表格的问题（如果您很着急，请跳到底部）。 我妈妈是一家公寓协会的主席，她让我做为她所在大楼的人们创建一个网站，列出他们出租或出售的单位（我们每年都有人出租，我们不想支付 Airbnb 费用），所以我创建了该网站 https://sea-air-towers.herokuapp.com/ 。其代码位于 https://github.com/JohnReedLOL/Sea-Air-Towers-App-2&lt; /a&gt; .我从 https://github.com/microsoft/TypeScript-Node-Starter 处的代码开始，并基于 列出您的出租单元的表格屏幕截图位于 https://imgur.com/ a/XdCWwsX 。代码中此表单的视图（模板）位于  https://github.com/JohnReedLOL/Sea-Air-Towers-App-2/blob/main/views/apartment/create.pug 。它使用 pug 模板引擎，该引擎转换为以下 HTML： https://gist.github.com/JohnReedLOL/d180a56c606f10e697216c2656298dad . 后端整体架构为模型-视图-控制器 和 .pug 模板文件是视图。 create.pug对应的Controller是 postCreateApartment在apartments.ts的第580行。当用户单击“创建列表”时在表格底部，您可以在 https://imgur.com/a/XdCWwsX 看到，公寓中的控制器代码.ts 被调用。首先，控制器验证输入（这就是 postCreateApartment 函数顶部所有这些“await”行的用途），然后将其保存到数据库 MongoDB（发生在 第 663 行，apartment.save，保存公寓）。控制器将视图（.pug 模板）与模型（对应于放入数据库 MongoDB 的内容）链接起来。公寓的模型位于此文件 Apartment.ts 中： https://github.com/JohnReedLOL/Sea-Air-Towers-App-2/blob/main/src/models/Apartment.ts 。这准确地显示了放入数据库的内容。您可以查看所有字段（例如，apartmentNumber、landlordEmail、numBedrooms、numBathrooms 等）及其类型（Number、String、Number、Number 等）。在该模型文件中，您可能会注意到“mongoose”，例如 import mongoose from “mongoose”; 和 mongoose.Schema。 Mongoose 是对象关系映射器的名称。 &lt;强&gt;问题：这是用 JavaScript/TypeScript 编写的，并使用 NoSQL 数据库，我知道人们使用不同的编程语言和数据库，但除此之外，每个人都做几乎相同的事情吗？我的意思是显然有些人使用 Ruby on Rails 或其他东西来代替 Node.js/Express，有些人使用 MySQL 或其他数据库来代替 MongoDB，但除了这样的微小差异之外，我们都做基本上相同的事情吗？如果你做了一些不同的事情，你能解释一下你所做的事情有何不同吗？   由   提交/u/John-The-Bomb-2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brv9cm/how_do_developers_do_forms_survey/</guid>
-      <pubDate>Sat, 30 Mar 2024 23:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 FOSS 调色板生成器，速度极快，并且可以离线工作！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brv01a/i_made_a_foss_color_palette_generator_thats/</link>
-      <description><![CDATA[ 由   提交/u/afusta  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brv01a/i_made_a_foss_color_palette_generator_thats/</guid>
-      <pubDate>Sat, 30 Mar 2024 22:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要雇用谁？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bruqix/who_do_i_need_to_hire/</link>
-      <description><![CDATA[（我不是来雇用此子人员的，但对谁有疑问 谁&lt; /em&gt; 我需要招聘。） 我正在寻找帮助，为大中型网站的大量网站进行设计和开发工作公司。我需要这些网站的专家结果（设计和构建新页面、部分、功能以及对这些网站进行故障排除）。 这些网站位于 WordPress、Webflow、Wix 和 Squarespace 上。 &lt; p&gt;我不清楚我需要雇用谁：  我需要雇用一名网页设计师和网页开发人员作为单独的角色吗？ 我需要为每个平台聘请单独的专家？  高质量的工作在这里极其重要，所以我不知道将所有这些角色分开是否有意义，或者是否有可能聘请能够在设计和设计方面取得出色成果的人。跨多个平台的开发。 非常感谢。我感到迷失了！   由   提交 /u/GetaSubaru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bruqix/who_do_i_need_to_hire/</guid>
-      <pubDate>Sat, 30 Mar 2024 22:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要制作一款点击式电影冒险游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brtwx8/looking_to_make_a_point_and_click_movie_adventure/</link>
-      <description><![CDATA[嗨，我希望在 9 周内制作一款浏览器内点击式电影冒险游戏（如 Henry Stickmin Flash 游戏） 。我想知道这是否可能首先，并且正在寻找一些资源以使整个过程尽可能易于访问，因为我没有编码经验。我假设从研究 html5 开始是可行的方法，因为我很确定这就是 Stickmin 游戏现在在浏览器上运行时使用的内容，但我也愿意接受任何其他建议。    由   提交 /u/AnAttackGiraffe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brtwx8/looking_to_make_a_point_and_click_movie_adventure/</guid>
-      <pubDate>Sat, 30 Mar 2024 22:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理您的请求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brtl9w/how_do_you_handle_your_requests/</link>
-      <description><![CDATA[      我目前正在编写另一个 API（是的）。我总是对别人如何处理事情感到好奇。 这是一种非常标准的方法，经过尝试和测试。但是您还有其他喜欢的独特（或只是其他）方式来处理请求吗？您喜欢将东西保留在控制器内吗？你甚至做它们吗？您如何传递响应/错误？总是喜欢听取别人的意见！  https://preview.redd.it/hgv0j9eqmjrc1.png?width=811&amp;format=png&amp;auto=webp&amp;s=385af1b96684a2783677594ffbdef56432ad0197  &amp; #32；由   提交/u/NuGGGzGG   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brtl9w/how_do_you_handle_your_requests/</guid>
-      <pubDate>Sat, 30 Mar 2024 21:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤/帮第一专业自助广告网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brt5lw/roasthelp_first_professional_selfadvertising/</link>
-      <description><![CDATA[大家好， 我为自己推出了第一个网站，以公开宣传我的编程业务。我希望尽可能保持简约，以传达重要内容，并节省人们阅读一堆废话的时间。 也是第一次使用 WordPress，并创建了一个功能最少的小型网站。我的项目都使用框架或仅使用原始语言。感觉它满足了我的要求，但也感觉太无特色了🙃 最后，我对服务不确定，我通常不认为企业对前期成本透明，我想改变这一点。该页面似乎还可以使用更多内容来帮助传达我能够做的事情，但我不确定什么.. 🤔  想法？烤？ https://abyssaldev.com/ 更新 1：收到一些反馈一位朋友负责实施已完成的项目概述并与客户联系以获得推荐。这是我接下来要在网站中实现的内容。   由   提交/u/Snowdevil042   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brt5lw/roasthelp_first_professional_selfadvertising/</guid>
-      <pubDate>Sat, 30 Mar 2024 21:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>将静态站点链接到节点项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1brsyht/link_static_site_to_node_project/</link>
-      <description><![CDATA[我有一个静态站点，作为家庭服务器在 Raspberry Pi 上运行，该站点是使用 vanilla HTML CSS 和 JS 构建的。我将其用于我尝试过的小项目，作为长期技能培养的一部分。每个页面都有自己的目录，其中包含该项目的所有相关文件。其中之一使用 PHP，我想在下一个中尝试使用 Node.JS。有没有办法使用带有 href 的普通 a 标签从 HTML 索引页面打开节点页面？ TIA    ;由   提交 /u/PedroHicko   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1brsyht/link_static_site_to_node_project/</guid>
-      <pubDate>Sat, 30 Mar 2024 21:31:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
