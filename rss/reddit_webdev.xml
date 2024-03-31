@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 12:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 15:12:37 GMT</lastBuildDate>
     <item>
-      <title>https://gamer.express/ 使用什么开源技术堆栈（如果有）？或者它是完全自定义编码的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs92d3/what_open_source_tech_stack_does/</link>
-      <description><![CDATA[我刚刚发现了一个名为 GXP / Gamer Express 的 Reddit 替代品。您知道该网站使用什么技术堆栈吗？它是一个开源框架，还是完全自定义编码的？您可以看到以下网站： https://gamer.express/ &lt; !-- SC_ON --&gt;  由   提交/u/prankster999  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs92d3/what_open_source_tech_stack_does/</guid>
-      <pubDate>Sun, 31 Mar 2024 12:16:34 GMT</pubDate>
+      <title>打开模态框时背景移至页面末尾</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bscdz5/backdrop_shifts_to_the_end_of_the_page_when/</link>
+      <description><![CDATA[我正在使用无头 UI 中的对话框（模态）。当模态窗口打开时，背景会完全移至页面末尾。当它关闭时，位置将恢复到原始位置（至少这是好的）。如何防止背景移动到末尾？ 模式打开时出现错误：  layout-router.js：由于跳过自动滚动行为到元素上的“position:sticky”或“position:fixed”  我面临的问题可能与此有关，但我不知道如何解决它。我尝试谷歌搜索，但无法找到解决方案。 ​  &lt;Dialog as=“div” className=&quot;相对 z-10&quot; onClose={handleClose}&gt; &lt;Transition.Child as={Fragment} Enter=“ease-outuration-300” EnterFrom =“不透明度-0” EnterTo=“不透明度-100” left＝“缓入持续时间-200” leaveFrom=“不透明度-100” leftTo=“不透明度-0” &gt; &lt;div className=“固定 inset-0 bg-gray-500/80 过渡不透明度” &gt;&gt; &lt;/Transition.Child&gt;   &lt;Transition.Child as={Fragment} Enter=“ease-outuration-300” EnterFrom=“opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95” EnterTo=“opacity-100 翻译-y-0 sm:scale-100” left＝“缓入持续时间-200” leaveFrom=“opacity-100 翻译-y-0 sm:scale-100” leaveTo=“opacity-0 翻译-y-4 sm:translate-y-0 sm:scale-95” &gt;  {children} &lt;/Dialog.Panel&gt; &lt;/Transition.Child&gt;   &lt;/对话框&gt;  ​   由   提交 /u/Sceppi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bscdz5/backdrop_shifts_to_the_end_of_the_page_when/</guid>
+      <pubDate>Sun, 31 Mar 2024 15:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare Tunnel：免费的 ngrok 替代方案，用于将本地 Rails 应用程序公开到互联网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs91l0/cloudflare_tunnel_a_free_ngrok_alternative_for/</link>
-      <description><![CDATA[ 由   提交/u/kyrylo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs91l0/cloudflare_tunnel_a_free_ngrok_alternative_for/</guid>
-      <pubDate>Sun, 31 Mar 2024 12:15:22 GMT</pubDate>
+      <title>将数据从 Excel Sheet 移动到 SQL 是后端工程师的一部分吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsc3zk/is_moving_data_from_excel_sheet_to_sql_part_of/</link>
+      <description><![CDATA[后端工程师有责任这样做吗？因为这确实是一项乏味的任务   由   提交/u/acatwhoateitstail   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsc3zk/is_moving_data_from_excel_sheet_to_sql_part_of/</guid>
+      <pubDate>Sun, 31 Mar 2024 14:47:35 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年微前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs882t/microfrontend_in_2024/</link>
-      <description><![CDATA[各位 html 极客们大家好 在过去的两年里我一直脱离循环。微前端的最新动态是什么？仅通过阅读新闻和科技文章很难辨别什么是炒作，什么是经过实战检验的。  webpack 联邦有多成熟？您还会选择带总线的老式学校 iframe 吗？ 如果您今天要组建一个需要微前端的大型技术团队，那么您梦想的全新设置是什么？    由   提交/u/react_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs882t/microfrontend_in_2024/</guid>
-      <pubDate>Sun, 31 Mar 2024 11:29:43 GMT</pubDate>
+      <title>我制作了终极聊天机器人基本提示来教我 webdev 并成为我的编码副驾驶。帮我改进一下？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsc2vs/i_made_the_ultimate_chatbot_base_prompt_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsc2vs/i_made_the_ultimate_chatbot_base_prompt_for/</guid>
+      <pubDate>Sun, 31 Mar 2024 14:46:11 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 IIS 将被拒绝的 IP 地址重定向到另一个 URL/站点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs84m8/how_can_i_redirect_denied_ip_addresses_to_another/</link>
-      <description><![CDATA[使用 IIS 有没有办法将被拒绝的访问者重定向到另一个页面，而不是抛出“访问被拒绝”页面？  我希望员工在连接到我们办公室的 IP 地址时可以访问该网站，但我想通过将他们重定向到另一个页面来明确拒绝他们的访问。我如何在 IIS 上完成此操作？  谢谢！   由   提交 /u/retrovertigo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs84m8/how_can_i_redirect_denied_ip_addresses_to_another/</guid>
-      <pubDate>Sun, 31 Mar 2024 11:24:00 GMT</pubDate>
+      <title>用户：身份用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsbnjz/user_identityuser/</link>
+      <description><![CDATA[向各位专家提出的问题 我正在为电子商务书店构建一个 React 前端和 dotnet 后端。与大多数网站一样，我希望用户能够注册、获取确认电子邮件、登录、获取 JWT 令牌以及所有这些爵士乐。如果我错了，请纠正我，但如果我添加邮件服务和 jwt 令牌并使用传统身份用户，我不能（或不应该）在与自定义实体的关系中真正重用该身份用户（例如评论或顺序），对吗？也许让自定义实体用户继承身份用户会更好。这是常见做法吗？我只是觉得奇怪的是，我必须有一个来自身份框架的实体来代表用户（用于登录、电子邮件、jwt 目的），然后有一个不同的客户/用户实体来与我的其余自定义实体相关。谁能告诉我我是否走在正确的轨道上？目前我的用户类设置如下： public class User : IdentityUser { public string FirstName { get;放; } 公共字符串姓氏{ get;放; } 公共字符串地址{ get;放; } } 但我目前只是希望这意味着 User 类在所有情况下基本上都会接管 IdentityUser。 :( 抱歉，我在这里有点迷失了。答案是简单地废弃 User 角色并将其替换为简单的 IdentityUser 并使用它来与其余自定义实体相关吗？我真的需要一些关于这个的指导。    提交者    /u/reddithoggscripts   [链接]   ; [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsbnjz/user_identityuser/</guid>
+      <pubDate>Sun, 31 Mar 2024 14:27:04 GMT</pubDate>
     </item>
     <item>
-      <title>Svelte 还是 React？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs80ns/svelte_or_react/</link>
-      <description><![CDATA[您好，我不是开发网站，而是软件和网络安全开发人员，但我需要钱，而且我在空闲时间有工作机会我要做一个网站，我必须选择框架。  从我的角度来看，我觉得 svelte 在 js 中包含 html 更符合逻辑，但 React 更受欢迎，并且用于多种用途，甚至是移动开发。您有什么建议吗？   由   提交 /u/NoahZhyte   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs80ns/svelte_or_react/</guid>
-      <pubDate>Sun, 31 Mar 2024 11:17:44 GMT</pubDate>
+      <title>这样做可以接受吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsbc87/is_it_acceptable_to_do_this/</link>
+      <description><![CDATA[在 React 中，例如对于每个页面，不要用 const [x1, setX1] = useState() 填充它 当我开始一个新页面时，我做的第一件事是创建一个名为 XPageViewState 的类 在其中添加该页面中需要的所有状态，然后在该类下添加一个包含所有状态的常量默认状态。  回到反应，我使用这个：const [state, setState] = useState(defaultValues) 现在在另一个我调用 XPageViewModel 中创建一个类，我做的第一件事就是做其中有一个 init 函数，我在其中添加状态和 setState 。  const state = null const setState = null init(state, setState) { this.state = state this.setState = setState }  Abd 然后使用依赖注入我将视图模型添加到反应页面并调用 init 函数。这样我就可以使用所有组件的视图模型访问整个状态，而无需将其作为 prop 传递。    由   提交 /u/Razills   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsbc87/is_it_acceptable_to_do_this/</guid>
+      <pubDate>Sun, 31 Mar 2024 14:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>定期面对面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs7trr/periodic_facetoface/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs7trr/periodic_facetoface/</guid>
-      <pubDate>Sun, 31 Mar 2024 11:06:22 GMT</pubDate>
+      <title>刷新前端技术知识的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsb7bt/whats_the_best_way_to_refresh_knowledge_on/</link>
+      <description><![CDATA[2022 年，我完成了全栈开发人员训练营，在那里我学到了很多东西并做了很多项目。从那时起我一直在寻找开发人员的工作（尽管由于许多个人原因一直断断续续），但现在我有一份我不喜欢的工作。 我想回去进入编码，这样我终于可以开始我作为网络开发人员的职业生涯了。我记得很多事情，但我觉得我已经不在以前的水平了，我想知道我该如何回到原来的状态？培训班？项目？对我来说刷新基本概念的最佳选择是什么？我现在更像是一名前端开发人员，我通常使用 React 和 Next.js   由   提交/u/David_24_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsb7bt/whats_the_best_way_to_refresh_knowledge_on/</guid>
+      <pubDate>Sun, 31 Mar 2024 14:06:18 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器指纹识别和附加组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs7d5i/browser_fingerprinting_and_addons/</link>
-      <description><![CDATA[我是一名 Web 开发人员，我将开发浏览器插件作为业余爱好项目。我知道拥有附加组件可以使您的浏览器对指纹识别脚本更加独特。我有兴趣尽可能减少项目中可指纹打印的表面积。  （毫不奇怪）很难获得有关这些专有指纹识别器使用哪些指标的良好数据。所以我有一些问题想问一下有这方面经验的人。   我不知道从网站加载的脚本能够直接访问附加组件。所以他们不应该能够看到哪些插件正在运行，甚至有多少？ 网站脚本将能够检测 DOM 的突变，例如深色阅读器改变背景颜色。所以我想这完全暴露了您正在运行特定的附加组件？ 网站脚本和 Web 服务器将能够检测到浏览器阻止的请求。像 uBlock 这样的附加组件非常普遍，因此使用它们的默认阻止列表可能并不算什么，但使用不太常见的阻止列表可能会让你脱颖而出？ 是否有阻止第三个的情况派对脚本完全吗？为了使指纹识别脚本有效，它们需要跨域跟踪您，这意味着它们几乎肯定会作为第三方脚本加载。对于在线隐私而言，阻止它们似乎是理所当然的事情。没有它们就崩溃的网站可以根据需要加载到单独的环境中，以减轻流量关联的风险。   预先感谢，我感谢任何意见，即使它只是让我知道我完全错了哈哈。  旁注：这主要针对 Firefox 及其分支。 Chrome 具有大部分相同的 API，但我怀疑用户是否对在线隐私感兴趣。    由   提交/u/I_Eat_Pink_Crayons  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs7d5i/browser_fingerprinting_and_addons/</guid>
-      <pubDate>Sun, 31 Mar 2024 10:36:15 GMT</pubDate>
+      <title>帮助！我是一名非技术新手，需要 SAAS 托管建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsamwx/help_im_a_non_technical_newbie_that_needs_saas/</link>
+      <description><![CDATA[大家好！我是一名非技术企业主，正在让开发人员为我构建微型 SaaS。开发人员位于英国，建议我使用 https://us.ovhcloud.com/ 进行托管 - 他们只有数据中心在英国。我位于美国，相信我的大多数客户也来自美国。根据我所做的研究...您会希望在与您的客户相同的国家/地区进行托管。我浏览了相当多的 reddit 帖子，很多人都推荐 Supabase。这能满足我的需要吗？如果没有的话，有人可以推荐一家不太贵的好托管公司吗？预先感谢您！   由   提交 /u/seanprentice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsamwx/help_im_a_non_technical_newbie_that_needs_saas/</guid>
+      <pubDate>Sun, 31 Mar 2024 13:39:04 GMT</pubDate>
     </item>
     <item>
-      <title>是否有任何（最好是开源的）平台来创建价格比较网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs70rp/is_there_any_open_source_ideally_platform_to/</link>
-      <description><![CDATA[是否有一个平台可以用来构建价格比较网站，而无需从头开始编写所有代码？理想情况下，该平台将提供一种添加产品提要（csv 或 xml）并自动从提要中获取价格的方法。主页应该提供最佳价格和最新价格更新的概述，理想情况下它应该带有评论功能，以便人们可以对产品发表评论。  我尝试了 Content Egg Pro，但它对于我的用例来说有点太有限了。    由   提交/u/ThibaultG4U   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs70rp/is_there_any_open_source_ideally_platform_to/</guid>
-      <pubDate>Sun, 31 Mar 2024 10:12:43 GMT</pubDate>
+      <title>从什么时候起这个子变成了只有图像了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsamcq/since_when_did_this_sub_become_image_only/</link>
+      <description><![CDATA[对于那些不知情的人，此子不再接受视频提交。  但我认为视频对于某些事情来说是正确的选择，例如展示产品、教程等。 GIF 演示由于图像质量较低而不太用户友好，并且不能快进和快退。我真的很怀念周六演示和炫耀视频提交的日子。  禁止视频提交的理由是什么？你认为它应该被带回来吗？   由   提交 /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsamcq/since_when_did_this_sub_become_image_only/</guid>
+      <pubDate>Sun, 31 Mar 2024 13:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>temp-mail,TempMail 是一个简单的 Web 应用程序，允许您生成临时电子邮件地址并查看这些地址收到的电子邮件,下载temp-mail的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs6rfo/github_mehmetkahya0tempmail_tempmail_is_a_simple/</link>
-      <description><![CDATA[   /u/mehmettkahya   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs6rfo/github_mehmetkahya0tempmail_tempmail_is_a_simple/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:56:13 GMT</pubDate>
+      <title>需要有关空物体的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bsa25t/need_help_with_empty_object/</link>
+      <description><![CDATA[      您好，我正在尝试制作我的个人项目，但遇到了问题。MainPanel 是一个 React 组件。它向服务器发送请求。问题出在第二张图片中，当我记录 req.body 时，它是空对象（ {} ）。我不知道我能解决这个问题吗请帮助我。谢谢。 https:// Preview.redd.it/2bikxze25orc1.png?width=618&amp;format=png&amp;auto=webp&amp;s=0130b96146279f6978815156e76f064137f64bcd https://preview.redd.it/mgzjpkky4orc1.png?width=560&amp;format=png&amp;auto=webp&amp;s= 2512fa4d7ca651803e2078eaa7d42abd8827d93a   由   提交 /u/ConfidenceSecret8072   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bsa25t/need_help_with_empty_object/</guid>
+      <pubDate>Sun, 31 Mar 2024 13:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>PWA - URL 中的变量</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs6p41/pwa_variables_in_url/</link>
-      <description><![CDATA[我正在创建一个 Web 应用程序，我希望人们能够安装该应用程序，以便他们可以离线使用它 - 它提供了一个 on -每日祈祷书的屏幕版本。它真正需要连接的唯一时间是版本更新时：其他所有事情都发生在 Javascript 中。 我不清楚一件事。如果用户当前想要查看不同日期的内容，她可以在应用程序中选择一个日期，然后 JavaScript 会重定向到同一页面，并附加一个日期参数“?d-yyyy-mm-dd”。 这可以离线使用吗？我需要对清单或 Service Worker 执行任何操作才能使其正常工作吗？或者我应该找到一种不同的方式来处理这方面？    由   提交/u/daldredv2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs6p41/pwa_variables_in_url/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:51:51 GMT</pubDate>
+      <title>如何全面了解开发工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs9b9n/how_to_know_everything_about_dev_tools/</link>
+      <description><![CDATA[在测试网站时检查并试图找出问题所在时，我想知道如何练习 &lt; !-- SC_ON --&gt;  由   提交 /u/No-Neighborhood6655    reddit.com/r/webdev/comments/1bs9b9n/how_to_know_everything_about_dev_tools/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs9b9n/how_to_know_everything_about_dev_tools/</guid>
+      <pubDate>Sun, 31 Mar 2024 12:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>帮助网站演出定价（我是学生）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs6mjl/help_with_website_gig_pricing_im_a_student/</link>
-      <description><![CDATA[嗨， 背景信息我是一名计算机科学学生，将 webdev 作为一种爱好，并且我开始了客户的项目涉及创建一个具有复杂动画的网站。我必须为我的客户开发一个网站（仅编码，图形工作室提供图形），该客户要求 4 个“独特”的页面。 （参见下面为什么“）页面网站需要从头开始构建（旧的 HTML、CSS 和 JS），因为其复杂的动画、速度要求和整体质量。这是经典的营销机构网站，就像您在 Awwwards 上看到的网站一样，但稍微不那么复杂。 出于隐私原因，我无法提供图形，但我可以概述要求：  主页：它包含一个滚动动画，如此处，当侧段出现时转换为正常滚动。 GSAP 是唯一的方法。主页还包括其他动画，这里很难描述，但实现起来并不困难。 关于页面：包括文本、图像以及悬停时带有向上滑动文本动画的框。 GSAP 是唯一的方法（相信我，我看过故事板）。 项目页面：每个项目页面的顶部都有文本，下面有马赛克图像网格，具有不同的布局和样式。例如，一个页面可能有 2 列部分，后面是全屏部分，然后是 3 列部分，而另一个页面可能有不同的排列。 使用 PHP 表单联系我们页面。图形参考待定。 Ofc 它需要响应并包括基本的基本搜索引擎优化  我在欧洲（确切地说是意大利），我想询问大约 2k 。你怎么认为？是否太低/太高？如果您需要更多背景信息，我会尽力提供给您。  提前致谢， 祝你有美好的一天！   由   提交 /u/BarboBarbo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs6mjl/help_with_website_gig_pricing_im_a_student/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:47:05 GMT</pubDate>
+      <title>使用自定义后端替换 Firebase</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs80bp/replacing_firebase_with_custom_built_backend/</link>
+      <description><![CDATA[我的大部分项目都使用 Firebase，我想下一步构建自己的项目。我想将其构建为可部署的。我对一些事情感到困惑：  数据库是它自己的服务器。但是，我只注册了 1 个域，我可以将数据库和应用程序部署在同一服务器的不同端口上吗？如何实现这一目标？ Firebase 通过数据库规则和 AppCheck 实现安全性。如何保护我的后端免受此类漏洞的影响？    由   提交 /u/cybercoderNAJ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs80bp/replacing_firebase_with_custom_built_backend/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>CRSF 还会从 Cookie 中窃取会话密钥吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs6l5t/do_crsf_still_steal_the_session_key_from_cookies/</link>
-      <description><![CDATA[我目前在部署网站时收到 Django 的 CSRF 未配置错误，因此我目前正在阅读有关 CSRF 的内容。据我所知，要执行 CSRF 攻击，用户当前必须经过身份验证并登录，同时制作一个表单，以便通过传入会话令牌来提交到经过身份验证的网站。  但是，通过使用开发人员工具（F12）对 Google Chrome 进行观察并检查 Cookie，我可以看到它们内部没有会话令牌。它们似乎位于“会话存储”内。数据库略高于。除此之外，它并没有全部显示它们，它似乎只在您访问该网页时才显示它们（我认为这是为了视觉清晰度？）。  所以这让我思考，这些视频是否已经过时，或者会话存储是新的，并且这个新的实现是否通过仅在网页上允许它来解决 CSRF 问题？   由   提交/u/Chance_Rhubarb_46   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs6l5t/do_crsf_still_steal_the_session_key_from_cookies/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:44:23 GMT</pubDate>
+      <title>我创建了一个网站来可视化您的动漫列表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bs7wqp/i_created_a_website_that_visualizes_your/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/stone_surgeon  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bs7wqp/i_created_a_website_that_visualizes_your/</guid>
+      <pubDate>Sun, 31 Mar 2024 11:11:22 GMT</pubDate>
     </item>
     <item>
-      <title>帮助项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs6kil/help_with_project/</link>
-      <description><![CDATA[我是一名计算机科学学生，目前在加油站兼职。你们总是说最好的学习方式是做项目。我想我应该创建一个项目来将我的兼职工作的某些方面数字化。也许我什至可以把它写在我的简历上。 我的加油站出租汽车，很难跟踪哪些汽车外部/内部干净以及它们是否停在场所内加油站或更远的地方。此外，我们需要某种形式的方式来通知老板重要的事件或信息。甚至可能是一个带有待办事项列表的时间表！目前，我们通过用纸和笔写东西来完成所有这些工作。 我只是很困惑应该从哪里开始。我想这应该是一个需要身份验证的网站。所以我需要 HTML、CSS 和 JavaScript。  你们对我应该如何开始或者可能有一些我没有想到的方面有什么建议吗？ 谢谢你们🙏   由   提交 /u/Koratozarix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs6kil/help_with_project/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:43:01 GMT</pubDate>
+      <title>如何消除黄色和绿色以及上下移动？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brxoz6/how_do_i_eliminate_the_yellow_and_the_green_and/</link>
+      <description><![CDATA[https://codepen.io/samknows/pen /oNOGOOp   由   提交/u/Logical_Cherry_7588   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brxoz6/how_do_i_eliminate_the_yellow_and_the_green_and/</guid>
+      <pubDate>Sun, 31 Mar 2024 01:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>如何连接xampp和vite（react、typescript）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs68ml/how_to_connect_xampp_and_vite_react_typescript/</link>
-      <description><![CDATA[我是编程新手，请告诉我如何解决该问题。如果我通过 xampp localhost 运行一些 .tsx 文件，浏览器只会显示文件代码，而不是代码执行本身。 我的项目中有 php 和 .tsx 页面。 例如，我需要从login.php 文件移动到index_user.tsx。是否可以在它们之间设置自由移动？   由   提交 /u/pyaniy_synok   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs68ml/how_to_connect_xampp_and_vite_react_typescript/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:18:40 GMT</pubDate>
+      <title>呈现图像和文本的两种方法有什么区别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brt3fw/what_is_the_difference_between_the_two_methods_of/</link>
+      <description><![CDATA[&lt;a href=&quot;#&quot;&gt;  标题 &lt;/a&gt; VERSUS &lt;图&gt;   &lt;/i&gt;  figcaption     由   提交/u/Logical_Cherry_7588   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brt3fw/what_is_the_difference_between_the_two_methods_of/</guid>
+      <pubDate>Sat, 30 Mar 2024 21:37:30 GMT</pubDate>
     </item>
     <item>
-      <title>本地 Python 应用程序的浏览器内界面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bs6479/inbrowser_interface_for_a_local_python_application/</link>
-      <description><![CDATA[前言：  我是 Python 的初学者，没有前端 UI 经验开发 我精通 Node.js  我有一个 Python 的 CLI 应用程序。我想为其提供一个基于浏览器的交互式前端。 这是我正处于十字路口的地方，确实需要一些建议：  我应该使用一个前端框架，或者我可以使用普通的 JS 吗？我将拥有一个交互式页面，其中包含约 5 个表单/按钮，以及交互式表格数据可视化。 是否有一个涉及 React（或 Svelte 或 vanilla JS）前端、Node.js 前端的架构？ js 后端来弥合差距，而我的业务逻辑的 Python 应用程序是一个明智的方法吗？  这对我来说有点未知的领域，所以我洗耳恭听任何经验和建议，或者你们可能有的指点。 提前致谢！   由   提交/u/rafasofizadeh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bs6479/inbrowser_interface_for_a_local_python_application/</guid>
-      <pubDate>Sun, 31 Mar 2024 09:09:39 GMT</pubDate>
+      <title>当内容在标题下滚动时，您会调用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1brre54/what_do_you_call_when_content_scrolls_under_a/</link>
+      <description><![CDATA[标题   由   提交/u/Logical_Cherry_7588   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1brre54/what_do_you_call_when_content_scrolls_under_a/</guid>
+      <pubDate>Sat, 30 Mar 2024 20:25:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
