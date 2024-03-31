@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 31 Mar 2024 15:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 18:14:53 GMT</lastBuildDate>
     <item>
-      <title>编写了一个 GUI 应用程序来完全或选择性地下载频道和播放列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bs9d98/wrote_a_gui_app_to_entirely_or_selectively/</link>
-      <description><![CDATA[YT Channel Downloader 0.3.1 是一款直观的桌面应用程序，旨在简化 YouTube 内容的下载过程。利用 yt-dlp、pytube 和 scrapetube 的稳健性，并通过现代 PyQt 6 GUI 进行丰富，这个跨平台工具提供了无缝体验，可以高效、简单地下载您喜爱的内容。您还可以下载视频的音频版本，选择首选质量、格式等。 https:// /github.com/hyperfield/yt-channel-downloader 我希望得到一些意见：如果您发现此应用程序有用，您希望看到哪些功能和改进，等等。&lt; /p&gt;   由   提交 /u/ph0tone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bs9d98/wrote_a_gui_app_to_entirely_or_selectively/</guid>
-      <pubDate>Sun, 31 Mar 2024 12:33:15 GMT</pubDate>
+      <title>企业 IT 中的开源支持方法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</link>
+      <description><![CDATA[嗨， 尝试了解企业如何维持对不提供此功能的开源工具/产品的支持。 曾经在一家企业中，他们只是雇用开源项目的开发人员来完成特定任务，有时当需要专业知识/故障排除时，顺便说一句，他们不知道如何找到免费的开发人员？！这是对开源社区的贡献吗？ 您的方法是什么，特别是在预算紧张的情况下？ 谢谢  &amp;# 32；由   提交 /u/gnumaro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</guid>
+      <pubDate>Sun, 31 Mar 2024 15:16:30 GMT</pubDate>
     </item>
     <item>
       <title>[Dev] 开源储蓄跟踪应用程序，具有干净漂亮的 UI 🌟</title>
@@ -62,13 +62,6 @@
       <pubDate>Sat, 30 Mar 2024 13:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>Hiyas r/开源。昨天我邀请 r/uxdesign 加入我们的开源不和谐，现在我们需要更多项目哈哈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brhrdv/hiyas_ropensource_yesterday_i_invited_ruxdesign/</link>
-      <description><![CDATA[昨天我做了这篇文章询问用户体验开发人员如何让他们更多地参与开源，反应热烈。  现在我们没有足够的项目来满足所有的兴趣。因此，如果您想将您的项目提交给我们，我们现在拥有大量的开发人员和设计师。请在下面发表评论（我会发布不和谐的链接，但 Reddit 对于链接到类似的东西很奇怪）。    由   提交 /u/CurvatureTensor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brhrdv/hiyas_ropensource_yesterday_i_invited_ruxdesign/</guid>
-      <pubDate>Sat, 30 Mar 2024 13:21:59 GMT</pubDate>
-    </item>
-    <item>
       <title>许可证，如果用于商业用途，则强制更新源</title>
       <link>https://www.reddit.com/r/opensource/comments/1brf3yp/license_which_enforces_to_update_the_source_if/</link>
       <description><![CDATA[主题。我会让我的项目（硬件+固件）公开供每个人复制，并且不会限制任何类型的使用。我遇到的唯一问题是，当有人使用开源版本、进一步开发它、出售它并为他/她自己保留修复和改进而不让社区知道它时。我知道，例如 CC SA，但它没有规定用户在商业使用时有义务做出改进。是否有这样一个通用的许可选项可以涵盖这种情况？   由   提交 /u/iAnyKeyi   [链接] [评论]]]></description>
@@ -78,7 +71,7 @@
     <item>
       <title>从操作系统项目中学习</title>
       <link>https://www.reddit.com/r/opensource/comments/1brcixn/learning_from_os_projects/</link>
-      <description><![CDATA[大家早上好。在我的整个学术生涯中，我开发了考试项目，但现在，在我开始新工作的同时，我想做一些额外的工作并开始接触操作系统项目。我想问最好的学习方法是复制操作系统项目还是为其做出贡献。   由   提交/u/Appressive-Farm190  [链接] [评论]]]></description>
+      <description><![CDATA[大家早上好。在我的整个学术生涯中，我开发了考试项目，但现在，在我开始新工作的同时，我想做一些额外的工作并开始接触操作系统项目。我想问最好的学习方法是复制操作系统项目还是为其做出贡献。   由   提交/u/Appressive-Farm190   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1brcixn/learning_from_os_projects/</guid>
       <pubDate>Sat, 30 Mar 2024 07:58:15 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[用于验证所有配置文件语法的跨平台工具。 此版本中的许多更改：  支持 11 种配置文件格式 按文件类型、通过/失败或目录对输出进行分组 将结果输出到 json 或 junit，以便更好地与 CI 工具集成  每个功能更改都是由开源贡献者做出的。感谢所有贡献者！ https://github.com /Boeing/config-file-validator/releases/tag/v1.6.0   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1br0e2k/configfilevalidator_v160_released/</guid>
       <pubDate>Fri, 29 Mar 2024 21:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>社区知道哪些项目最初是封闭的或秘密开发的，但后来开源了？结果是成功了还是失败了？ （请参阅正文以了解后续问题）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</link>
+      <description><![CDATA[ 他们的开源策略是什么？他们是一次性完成还是分批完成？ 他们如何与开发人员沟通？他们使用论坛、IRC，还是只是在 PR 和问题跟踪器中讨论问题？    由   提交 /u/carrotcypher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</guid>
+      <pubDate>Fri, 29 Mar 2024 20:23:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

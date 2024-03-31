@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 31 Mar 2024 15:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 18:15:16 GMT</lastBuildDate>
     <item>
-      <title>拉贡医疗集团</title>
-      <link>https://www.opensourceagenda.com/projects/ragonmedicalkg</link>
-      <description><![CDATA[RAGOnMedicalKG，将大模型RAG与KG结合，完成demo级问答，旨在给出基础的思路。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ragonmedicalkg</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:10 GMT</pubDate>
+      <title>OpenOrCad解析器</title>
+      <link>https://www.opensourceagenda.com/projects/openorcadparser</link>
+      <description><![CDATA[OpenOrCadParser - 用于 Cadence OrCAD 设计的 FOSS 解析器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openorcadparser</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>CVE 2024 3094 检查器</title>
-      <link>https://www.opensourceagenda.com/projects/cve-2024-3094-checker</link>
-      <description><![CDATA[快速而肮脏的 PoC，用于检查是否安装了存在漏洞的 xz-utils 版本(CVE-2024-3094)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cve-2024-3094-checker</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:09 GMT</pubDate>
+      <title>硬件工程师面试问题</title>
+      <link>https://www.opensourceagenda.com/projects/hardware-engineer-interview-questions</link>
+      <description><![CDATA[献给有抱负的硬件工程师。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hardware-engineer-interview-questions</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>Xz后门文档</title>
-      <link>https://www.opensourceagenda.com/projects/xz-backdoor-documentation</link>
-      <description><![CDATA[有关 #xz-backdoor-reversing 创建的 xz 后门的文档]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xz-backdoor-documentation</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:09 GMT</pubDate>
+      <title>HELMpy</title>
+      <link>https://www.opensourceagenda.com/projects/helmpy</link>
+      <description><![CDATA[HELMpy，开源潮流求解器包，包括全态嵌入潮流法 (HELM)，已开发在 Python 3 上]]></description>
+      <guid>https://www.opensourceagenda.com/projects/helmpy</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>开放式恢复</title>
-      <link>https://www.opensourceagenda.com/projects/openbackrestore</link>
-      <description><![CDATA[该项目可以轻松备份iStoreOS已安装的软件和配置,当系统恢复出厂设置或重置后，可以一键恢复原来的软件和配置]]></description>
-      <guid>https://www.opensourceagenda.com/projects/openbackrestore</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:09 GMT</pubDate>
+      <title>XFEMM</title>
+      <link>https://www.opensourceagenda.com/projects/xfemm</link>
+      <description><![CDATA[直接连接 FEMM 中流行的有限元代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xfemm</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>凯尔夫123Figma</title>
-      <link>https://www.opensourceagenda.com/projects/kelve123-figma</link>
-      <description><![CDATA[123]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kelve123-figma</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:08 GMT</pubDate>
+      <title>GE电气</title>
+      <link>https://www.opensourceagenda.com/projects/gelectrical</link>
+      <description><![CDATA[GElectrical 是一款用于 LV/MV 配电网络的免费开源电气系统分析软件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gelectrical</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>真主党火箭</title>
-      <link>https://www.opensourceagenda.com/projects/hizbullahs-rocket</link>
-      <description><![CDATA[123]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hizbullahs-rocket</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:08 GMT</pubDate>
+      <title>电气时代2</title>
+      <link>https://www.opensourceagenda.com/projects/electricalage2</link>
+      <description><![CDATA[Eln2 代码库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/electricalage2</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>哈哈</title>
-      <link>https://www.opensourceagenda.com/projects/lolz</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lolz</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:08 GMT</pubDate>
+      <title>Gnn 功率流</title>
+      <link>https://www.opensourceagenda.com/projects/gnn-powerflow</link>
+      <description><![CDATA[图神经网络在预测交流潮流计算中的应用。使用 Pytorch Geometric 框架开发。我在埃因霍温理工大学的硕士论文]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gnn-powerflow</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>美都昆海</title>
-      <link>https://www.opensourceagenda.com/projects/mido-kun-sea</link>
-      <description><![CDATA[123213]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mido-kun-sea</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:07 GMT</pubDate>
+      <title>电力电子控制应用的 MCU 编程简介</title>
+      <link>https://www.opensourceagenda.com/projects/introduction-to-mcu-programming-for-power-electronics-control-applications</link>
+      <description><![CDATA[此存储库包含 MATLAB/ Simulink 源代码重现书中介绍的实验：“电力电子控制应用的微控制器编程简介”]]></description>
+      <guid>https://www.opensourceagenda.com/projects/introduction-to-mcu-programming-for-power-electronics-control-applications</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>MLXTinyGPT</title>
-      <link>https://www.opensourceagenda.com/projects/mlxtinygpt</link>
-      <description><![CDATA[Andrej Karpathy 的 Let&#39;s build GPT 视频的 MLX Swift 实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mlxtinygpt</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:07 GMT</pubDate>
+      <title>工程论文.xyz</title>
+      <link>https://www.opensourceagenda.com/projects/engineeringpaperxyz</link>
+      <description><![CDATA[EngineeringPaper.xyz 是一款 Web 应用程序，可让您轻松创建、保存和共享工程计算。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/engineeringpaperxyz</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>打扰牛</title>
-      <link>https://www.opensourceagenda.com/projects/interrupting-cow</link>
-      <description><![CDATA[🐮📢 第一个打断*你*的人工智能语音助手]]></description>
-      <guid>https://www.opensourceagenda.com/projects/interrupting-cow</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:07 GMT</pubDate>
+      <title>阿尔奇亚伊莱克特拉</title>
+      <link>https://www.opensourceagenda.com/projects/alkia-electra</link>
+      <description><![CDATA[这是 Electra 区块链的去中心化微电网电力交换解决方案的存储库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/alkia-electra</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>各种微调</title>
-      <link>https://www.opensourceagenda.com/projects/various-finetuning</link>
-      <description><![CDATA[用于微调 LLM 的脚本集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/various-finetuning</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:06 GMT</pubDate>
+      <title>香港大学论文模板</title>
+      <link>https://www.opensourceagenda.com/projects/hku-thesis-template</link>
+      <description><![CDATA[香港大学论文模板]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hku-thesis-template</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>洛丽塔·格拉斯女士</title>
-      <link>https://www.opensourceagenda.com/projects/mslolita-grass</link>
-      <description><![CDATA[草矿开采]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mslolita-grass</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:05 GMT</pubDate>
+      <title>计算机体系结构简介教育套件</title>
+      <link>https://www.opensourceagenda.com/projects/introduction-to-computer-architecture-education-kit</link>
+      <description><![CDATA[了解计算机体系结构的基本主题和概念包括这些与现代 Arm 处理器的应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/introduction-to-computer-architecture-education-kit</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>VMRNN PyTorch</title>
-      <link>https://www.opensourceagenda.com/projects/vmrnn-pytorch</link>
-      <description><![CDATA[VMRNN 官方存储库：集成 Vision Mamba 和 LSTM 以实现高效、准确的时空预测。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vmrnn-pytorch</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:05 GMT</pubDate>
+      <title>VLSI 基础教育套件</title>
+      <link>https://www.opensourceagenda.com/projects/vlsi-fundamentals-education-kit</link>
+      <description><![CDATA[了解超大规模集成 (VLSI) 的基础知识，包括如何将理论和概念应用于简单逻辑电路的设计和简化微处理器的物理实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vlsi-fundamentals-education-kit</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>柴先生</title>
-      <link>https://www.opensourceagenda.com/projects/chaildr</link>
-      <description><![CDATA[当你啜饮 Chai 时绕过 AV！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/chaildr</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:05 GMT</pubDate>
+      <title>西安交通大学电气工程及其自动化</title>
+      <link>https://www.opensourceagenda.com/projects/xjtu-electrical-engineering-and-automation</link>
+      <description><![CDATA[本项目为西安交通大学电气工程及其自动化专业课程资料。我是西安交通大学电气工程及其自动化专业18级学生，专业方向电气工程（发电），本项目包含我从大一到大四的所搜集整理的课程资料以及实验资料，包括但不限于往年题，实验代码以及实验报告，复习提纲，课后习题答案等。希望该项目在学业上对学弟学妹有所帮助，记得留下star。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xjtu-electrical-engineering-and-automation</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>Mlx 碎布 Gguf</title>
-      <link>https://www.opensourceagenda.com/projects/mlx-rag-gguf</link>
-      <description><![CDATA[使用 gguf 模型权重通过 mlx 实现 RAG 的最小、干净的代码实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mlx-rag-gguf</guid>
-      <pubDate>Sun, 31 Mar 2024 15:13:04 GMT</pubDate>
+      <title>流体模拟和基于物理的动画</title>
+      <link>https://www.opensourceagenda.com/projects/fluid-simulation-and-physics-based-animation</link>
+      <description><![CDATA[基于物理（Physically）的动画的项目和资源]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fluid-simulation-and-physics-based-animation</guid>
+      <pubDate>Sun, 31 Mar 2024 18:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
