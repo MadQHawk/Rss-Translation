@@ -4,18 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 31 Mar 2024 03:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 06:15:33 GMT</lastBuildDate>
+    <item>
+      <title>[Dev] 开源储蓄跟踪应用程序，具有干净漂亮的 UI 🌟</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bs2gww/dev_opensource_savings_tracker_app_with_clean_and/</link>
+      <description><![CDATA[您好！我在这里分享我的 FOSS 储蓄跟踪应用程序的最新版本，名为 GreenStash！这是一款简单的 Android 应用程序，旨在帮助您轻松规划和管理您的储蓄目标，养成存钱的习惯。此版本包括许多 UI/UX 增强功能以​​及一些新功能，请单击下面的任何链接查看它们:) 该应用程序完全免费使用，也可以在 F- 上使用Droid（尽管最新更新可能需要一些时间才能出现）。但是，如果您喜欢我的工作并且发现该应用程序很有用，您可以通过仅花费一美元从 Play 商店购买它并留下好评来支持我&lt;3 源代码 (GitHub) | Google Play | 演练视频 反馈和反馈欢迎提出建议（如果有）！   由   提交 /u/FamousPotatoFarmer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bs2gww/dev_opensource_savings_tracker_app_with_clean_and/</guid>
+      <pubDate>Sun, 31 Mar 2024 05:07:43 GMT</pubDate>
+    </item>
     <item>
       <title>带 Route53 的“自托管”DDNS</title>
       <link>https://www.reddit.com/r/opensource/comments/1bs07wf/selfhosted_ddns_w_route53/</link>
-      <description><![CDATA[您好！我喜欢使用自己的域名来路由到我的家庭 VPN。我以前在 Google Domains 上，但不幸的是它被 Squarespace 收购了（不支持 DDNS）。  这个项目部署了 lambda 并部署到 AWS，然后您可以使用兼容的动态 dns 客户端。如有任何反馈，我们将不胜感激！如果对您有用，请告诉我:)  https://github.com/sciku1/r53-dyndns2     由   提交/u/sciku1  [链接] [评论]]]></description>
+      <description><![CDATA[您好！我喜欢使用自己的域名路由到我的家庭 VPN。我以前在 Google Domains 上，但不幸的是它被 Squarespace 收购了（不支持 DDNS）。  这个项目部署了 lambda 并部署到 AWS，然后您可以使用兼容的动态 dns 客户端。如有任何反馈，我们将不胜感激！如果对您有用，请告诉我:)  https://github.com/sciku1/r53-dyndns2     由   提交/u/sciku1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bs07wf/selfhosted_ddns_w_route53/</guid>
       <pubDate>Sun, 31 Mar 2024 03:05:02 GMT</pubDate>
     </item>
     <item>
       <title>拥有 Discord 或类似的聊天应用程序是否有利于 oss 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1brzus2/does_having_a_discord_or_similar_chat_app_benefit/</link>
-      <description><![CDATA[我想从维护者和贡献者的角度想知道，为项目提供聊天应用程序而不是仅仅使用 GitHub 讨论和问题是否有好处。我被要求为我的 OSS 项目设置一个，但对开源世界中的该工作流程没有任何经验。   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
+      <description><![CDATA[我想知道从维护者和贡献者的角度来看，为项目提供一个聊天应用程序而不是仅仅使用 GitHub 讨论和问题是否有好处。我被要求为我的 OSS 项目设置一个，但对开源世界中的该工作流程没有任何经验。   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1brzus2/does_having_a_discord_or_similar_chat_app_benefit/</guid>
       <pubDate>Sun, 31 Mar 2024 02:46:38 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 29 Mar 2024 21:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>社区知道哪些项目最初是封闭的或秘密开发的，但后来开源了？结果是成功了还是失败了？ （请参阅正文以了解后续问题）</title>
+      <title>社区知道哪些项目是封闭开始或秘密开发但后来开源的？结果是成功了还是失败了？ （请参阅正文以了解后续问题）</title>
       <link>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</link>
       <description><![CDATA[ 他们的开源策略是什么？他们是一次性完成还是分批完成？ 他们如何与开发人员沟通？他们使用论坛、IRC，还是只是在 PR 和问题跟踪器中讨论问题？    由   提交 /u/carrotcypher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</guid>
       <pubDate>Fri, 29 Mar 2024 20:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>上游 xz/liblzma 中的后门导致 ssh 服务器受损</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bqxzhk/backdoor_in_upstream_xzliblzma_leading_to_ssh/</link>
-      <description><![CDATA[ 由   提交 /u/LHLaurini   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bqxzhk/backdoor_in_upstream_xzliblzma_leading_to_ssh/</guid>
-      <pubDate>Fri, 29 Mar 2024 19:52:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
