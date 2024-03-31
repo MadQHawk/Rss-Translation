@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 30 Mar 2024 21:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 00:56:43 GMT</lastBuildDate>
+    <item>
+      <title>体育行业的成功案例？</title>
+      <link>https://www.reddit.com/r/automation/comments/1brv0h6/success_case_in_the_sports_industry/</link>
+      <description><![CDATA[您好，我有兴趣了解您在体育行业自动化业务流程方面的经验。如果您有经验，我很想听听您为该组织所做的事情。   由   提交 /u/Enough-Set2437    reddit.com/r/automation/comments/1brv0h6/success_case_in_the_sports_industry/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1brv0h6/success_case_in_the_sports_industry/</guid>
+      <pubDate>Sat, 30 Mar 2024 22:59:53 GMT</pubDate>
+    </item>
     <item>
       <title>寻找有才华的自动化/脚本工程师</title>
       <link>https://www.reddit.com/r/automation/comments/1brd4lc/looking_for_talented_automationscripting_engineers/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[所以我在酒店工作，我工作的很大一部分就是花几个小时将所有信息纸放入或插入给客人的信封内每天插入 200 个信封……有没有办法自动化并节省时间？我买小型还是中型电机？我需要什么？ 例如照片 https://ibb.co/pdZGZ87   由   提交/u/Outrageous_Sherbet91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bnpi05/how_to_automate_this_task/</guid>
       <pubDate>Mon, 25 Mar 2024 21:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于分配配置文件的 ISO 软件和自动化建议</title>
-      <link>https://www.reddit.com/r/automation/comments/1bnmk2y/iso_software_and_automation_recommendations_for/</link>
-      <description><![CDATA[我们目前有一个手动流程，用于向我们平台的临时用户分配个人资料： 用户提交包含其信息的表单，并他们需要的类别。 电子表格将每个类别作为不同的选项卡，并开放插槽，其中包含每个新用户的用户名。 一旦表格被清除，密码就会重置一个月。 一旦用户（手动）分配到某个位置，就会（手动）向他们发送一封电子邮件，其中包含用户名和密码以及其他相关信息。 我会做什么想要做的就是让表单运行一个工作流程，该工作流程将自动将用户分配到可用槽之一，并发送包含该槽的正确信息的电子邮件。 ​  有什么想法吗？ ​   由   提交 /u/reassuring-wink    reddit.com/r/automation/comments/1bnmk2y/iso_software_and_automation_recommendations_for/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1bnmk2y/iso_software_and_automation_recommendations_for/</guid>
-      <pubDate>Mon, 25 Mar 2024 19:31:03 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个问答机器人，可以回答有关 Slack 和 MS Teams 中公司法规的问题</title>
