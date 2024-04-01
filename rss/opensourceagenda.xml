@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Mon, 01 Apr 2024 00:58:22 GMT</lastBuildDate>
-    <item>
-      <title>TwT一代</title>
-      <link>https://www.opensourceagenda.com/projects/twt-gen</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/twt-gen</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>关键潜水</title>
-      <link>https://www.opensourceagenda.com/projects/keydive</link>
-      <description><![CDATA[轻松从 Android 设备中提取 Widevine L3 密钥，跨越多个 Android 版本，用于 DRM 研究和教育。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/keydive</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>配音天才</title>
-      <link>https://www.opensourceagenda.com/projects/dub-genius</link>
-      <description><![CDATA[基于GPT-SoVITS的视频剪辑快捷配音工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dub-genius</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>国家GAI实验室HoT</title>
-      <link>https://www.opensourceagenda.com/projects/nationalgailab-hot</link>
-      <description><![CDATA[[CVPR 2024 🔥] 论文“⏳ Hourglass Tokenizer for Efficient Transformer-Based 3D”的正式实现人体姿态估计&quot;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nationalgailab-hot</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件打开解析</title>
-      <link>https://www.opensourceagenda.com/projects/filimoa-open-parse</link>
-      <description><![CDATA[简化法学硕士准备文档的过程。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/filimoa-open-parse</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:21 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Apr 2024 03:14:12 GMT</lastBuildDate>
     <item>
       <title>末日米斯特拉尔</title>
       <link>https://www.opensourceagenda.com/projects/doom-mistral</link>
       <description><![CDATA[Mistral7B 玩 DOOM]]></description>
       <guid>https://www.opensourceagenda.com/projects/doom-mistral</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:21 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 03:14:12 GMT</pubDate>
     </item>
     <item>
       <title>雪人的树</title>
       <link>https://www.opensourceagenda.com/projects/snowman-s-trees</link>
       <description><![CDATA[以“易于理解”的方式编写的编程语言]]></description>
       <guid>https://www.opensourceagenda.com/projects/snowman-s-trees</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:21 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 03:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>终极 WLED 场景系列 预先配置的绚丽色彩，呈现生动的灯光场景世界</title>
-      <link>https://www.opensourceagenda.com/projects/ultimate-wled-scenes-collection-pre-configured-brilliance-to-a-world-of-vivid-light-scenes</link>
-      <description><![CDATA[WLED 场景的多样化集合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ultimate-wled-scenes-collection-pre-configured-brilliance-to-a-world-of-vivid-light-scenes</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xz 易受攻击的蜜罐</title>
-      <link>https://www.opensourceagenda.com/projects/xz-vulnerable-honeypot</link>
-      <description><![CDATA[带有 XZ 后门的 ssh 蜜罐。 CVE-2024-3094]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xz-vulnerable-honeypot</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:20 GMT</pubDate>
+      <title>TwT一代</title>
+      <link>https://www.opensourceagenda.com/projects/twt-gen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/twt-gen</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:12 GMT</pubDate>
     </item>
     <item>
       <title>小莫拉伊欧恐怖</title>
       <link>https://www.opensourceagenda.com/projects/komora-io-terrors</link>
       <description><![CDATA[基于类型级集合算术构建的符合人体工程学且精确的错误处理]]></description>
       <guid>https://www.opensourceagenda.com/projects/komora-io-terrors</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:20 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 03:14:11 GMT</pubDate>
     </item>
     <item>
       <title>狂欢视频</title>
       <link>https://www.opensourceagenda.com/projects/bash-video</link>
       <description><![CDATA[bash cli 视频编辑“套件”...仅包装 ffmpeg]]></description>
       <guid>https://www.opensourceagenda.com/projects/bash-video</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:20 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 03:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>数据采集​​器</title>
-      <link>https://www.opensourceagenda.com/projects/pydatascraper</link>
-      <description><![CDATA[pydatascraper 是一个 Python 应用程序，提供网络抓取功能，包括获取 Google 和 Yelp 评论。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pydatascraper</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:19 GMT</pubDate>
+      <title>国家GAI实验室HoT</title>
+      <link>https://www.opensourceagenda.com/projects/nationalgailab-hot</link>
+      <description><![CDATA[[CVPR 2024 🔥] 论文“⏳ Hourglass Tokenizer for Efficient Transformer-Based 3D”的正式实现人体姿态估计&quot;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nationalgailab-hot</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>ROCKNIX 分布</title>
-      <link>https://www.opensourceagenda.com/projects/rocknix-distribution</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rocknix-distribution</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:19 GMT</pubDate>
+      <title>文件打开解析</title>
+      <link>https://www.opensourceagenda.com/projects/filimoa-open-parse</link>
+      <description><![CDATA[简化法学硕士准备文档的过程。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/filimoa-open-parse</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:11 GMT</pubDate>
     </item>
     <item>
       <title>Thegatesbrowser Godot 多人游戏</title>
       <link>https://www.opensourceagenda.com/projects/thegatesbrowser-godot-multiplayer</link>
       <description><![CDATA[Godot 4 多人游戏模板，带 voip]]></description>
       <guid>https://www.opensourceagenda.com/projects/thegatesbrowser-godot-multiplayer</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:19 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 03:14:10 GMT</pubDate>
     </item>
     <item>
       <title>Toodle69 MevBot.sol</title>
       <link>https://www.opensourceagenda.com/projects/toodle69-mevbotsol</link>
       <description><![CDATA[📈 分步指南：配置您的 MEV BoT。以太坊 (ETH) 和币安智能链 (BSC) 网络上的被动收入💰🚀]]></description>
       <guid>https://www.opensourceagenda.com/projects/toodle69-mevbotsol</guid>
-      <pubDate>Mon, 01 Apr 2024 00:58:19 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 03:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>终极 WLED 场景系列 预先配置的绚丽色彩，呈现生动的灯光场景世界</title>
+      <link>https://www.opensourceagenda.com/projects/ultimate-wled-scenes-collection-pre-configured-brilliance-to-a-world-of-vivid-light-scenes</link>
+      <description><![CDATA[WLED 场景的多样化集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ultimate-wled-scenes-collection-pre-configured-brilliance-to-a-world-of-vivid-light-scenes</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xz 易受攻击的蜜罐</title>
+      <link>https://www.opensourceagenda.com/projects/xz-vulnerable-honeypot</link>
+      <description><![CDATA[带有 XZ 后门的 ssh 蜜罐。 CVE-2024-3094]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xz-vulnerable-honeypot</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>R3nt0n雨刮器</title>
+      <link>https://www.opensourceagenda.com/projects/r3nt0n-wiper</link>
+      <description><![CDATA[安全销毁敏感虚拟数据、临时文件和交换分区]]></description>
+      <guid>https://www.opensourceagenda.com/projects/r3nt0n-wiper</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows上下文菜单工具</title>
+      <link>https://www.opensourceagenda.com/projects/windowscontextmenutools</link>
+      <description><![CDATA[Windows 上下文菜单工具🧰 仅使用 Windows 10-11🪟 内置功能🎛️]]></description>
+      <guid>https://www.opensourceagenda.com/projects/windowscontextmenutools</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据采集​​器</title>
+      <link>https://www.opensourceagenda.com/projects/pydatascraper</link>
+      <description><![CDATA[pydatascraper 是一个 Python 应用程序，提供网络抓取功能，包括获取 Google 和 Yelp 评论。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pydatascraper</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKNIX 分布</title>
+      <link>https://www.opensourceagenda.com/projects/rocknix-distribution</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rocknix-distribution</guid>
+      <pubDate>Mon, 01 Apr 2024 03:14:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
