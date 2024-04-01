@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 01 Apr 2024 09:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 12:23:16 GMT</lastBuildDate>
+    <item>
+      <title>开源 UI 设计</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bt1sco/open_source_ui_designs/</link>
+      <description><![CDATA[您好！想知道是否有人对开源设计有任何建议，供一些编码人员参考和构建组件/屏幕/ui。  类似于 https://www.uidesigndaily.com/ 的东西将是完美的。或者也许是一个由设计师组成的中心，他们有一些 Figma 设计，他们希望自愿成为程序员练习的参考？  提前感谢您的任何建议   由   提交 /u/EDICOdesigns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bt1sco/open_source_ui_designs/</guid>
+      <pubDate>Mon, 01 Apr 2024 11:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于开源项目的成功来说，哪些因素很重要？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/</link>
+      <description><![CDATA[我怀疑我的应用程序除非开源否则无法获得用户，但目前它还处于实验阶段。我只会因其质量而感到尴尬。我可以忍受尴尬，但我宁愿避免它。我正在做一个项目，我想把我的精力集中在开源时更容易理解。 这个项目是一个副项目，所以我选择削减我能想到的每一个角落它到它所在的地方。这意味着有糟糕的文档，代码效率低下等等。我可以做得更好，但我并不总是有时间从事该项目。 我并不期望人们从我的那一刻起就做出贡献在 github 上开源。我想知道您在开源方面的经验。获取反馈有何不同。 （缺少许多功能和错误修复）。我的期望是，如果我现在开源我的工作，它将被视为糟糕的低努力代码（可以理解），人们不会喜欢它，因为它会附带一个学习曲线来理解它是如何工作的（并且文档是坏/不存在）。   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/</guid>
+      <pubDate>Mon, 01 Apr 2024 09:34:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>付费开源开发人员为项目做出贡献有多常见？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bsz21y/how_common_is_paying_opensource_devs_to/</link>
+      <description><![CDATA[你好， 我是开源开发新手。我昨天刚刚开源了我的 NextJS 项目。我已经为此工作了一年多。 付费开源贡献者为小型项目创建模块有多常见？  我想我应该每月留出几百美元用于有意义的项目贡献。  谢谢。    由   提交/u/tcoil_443   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bsz21y/how_common_is_paying_opensource_devs_to/</guid>
+      <pubDate>Mon, 01 Apr 2024 09:23:35 GMT</pubDate>
+    </item>
     <item>
       <title>寻找“邮件列表用户指南”</title>
       <link>https://www.reddit.com/r/opensource/comments/1bsxiow/looking_for_a_mailing_list_user_guide/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我确实有一台旧的 Ubiquiti USG，我的客户是一家预算有限的小型非营利组织。他们对小型教堂和其他非营利组织进行会计处理，因此他们确实有不错的风险状况。我想重新改造这个东西来取代他们已经有 20 年历史的失败的 Sonicwall。他们需要 Web 过滤和基于 IPSEC 的 VPN L2TP，当然还有基本的路由器功能和可靠的 IPS。我通常使用 PFsense 或 OPNsense，但它们需要 x86 架构。我从来没有在专用机器上安装 Unify 控制器软件有过任何长期的运气，我不想购买额外的硬件，因为我将把它送给他们，所以购买云密钥不是一个选择。有什么建议吗？   由   提交/u/jbruff  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1brqmir/best_open_source_software_for_ubiquiti_usg/</guid>
       <pubDate>Sat, 30 Mar 2024 19:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Ableton Live 控制器（硬件）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brloyk/an_open_source_ableton_live_controller_hardware/</link>
-      <description><![CDATA[https:/ /github.com/beatrmatrix/beatrmatrix-mk2-arduino-based-ableton-controller   由   提交/u/balintnagy_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brloyk/an_open_source_ableton_live_controller_hardware/</guid>
-      <pubDate>Sat, 30 Mar 2024 16:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 开源有可能吗？这对所有相关方都有好处吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bri8l8/is_it_possible_to_make_tiktok_open_source_would/</link>
-      <description><![CDATA[鉴于 TikTok 目前正在发生的一切，让 TikTok 开源难道不是符合每个人的最佳利益吗？   由   提交 /u/ZonePapi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bri8l8/is_it_possible_to_make_tiktok_open_source_would/</guid>
-      <pubDate>Sat, 30 Mar 2024 13:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>许可证，如果用于商业用途，则强制更新源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brf3yp/license_which_enforces_to_update_the_source_if/</link>
-      <description><![CDATA[主题。我会让我的项目（硬件+固件）公开供每个人复制，并且不会限制任何类型的使用。我遇到的唯一问题是，当有人使用开源版本、进一步开发它、出售它并为他/她自己保留修复和改进而不让社区知道它时。我知道，例如 CC SA，但它没有规定用户在商业使用时有义务做出改进。是否有这样一个通用的许可选项可以涵盖这种情况？   由   提交 /u/iAnyKeyi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brf3yp/license_which_enforces_to_update_the_source_if/</guid>
-      <pubDate>Sat, 30 Mar 2024 10:55:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
