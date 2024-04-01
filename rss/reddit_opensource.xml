@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:15:27 GMT</lastBuildDate>
+    <item>
+      <title>专有语音文件格式</title>
+      <link>https://www.reddit.com/r/opensource/comments/1btacts/proprietary_voice_file_formats/</link>
+      <description><![CDATA[据我了解，macOS系统以及siri和alexa都使用专有格式来存储语音。我在谷歌上搜索了好几个小时，但我找不到任何关于任何人正在研究对这些文件格式进行逆向工程或尝试添加自定义语音或调整现有语音的信息。然而，我发现成百上千的请求将这些声音切换为自定义声音。  为什么没人调查呢？其他一切都被拆除和越狱，但声音似乎是一个禁忌。   由   提交 /u/andreasbeer1981   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1btacts/proprietary_voice_file_formats/</guid>
+      <pubDate>Mon, 01 Apr 2024 17:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 Github 机器人可帮助编写自己的代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bta92i/open_source_github_bot_that_helps_write_its_own/</link>
+      <description><![CDATA[嗨，我是开源新手，这是我的第一个项目：Github 的 AI 协作机器人。 您可以自行托管它，也可以仅在  com/marketplace/pr-pilot-ai&quot;&gt;Github 市场。 它的边缘仍然很粗糙，但我已经为明显的下一步行动项目创建了里程碑和问题。  你觉得这有用吗？如果没有，它对您有何用处？ 要成为一个成功的开源项目，它还需要什么？    由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bta92i/open_source_github_bot_that_helps_write_its_own/</guid>
+      <pubDate>Mon, 01 Apr 2024 17:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚将我的盈利在线表单生成器开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bt9v6f/i_just_made_my_profitable_online_form_builder/</link>
+      <description><![CDATA[       由   提交 /u/luobaishun   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bt9v6f/i_just_made_my_profitable_online_form_builder/</guid>
+      <pubDate>Mon, 01 Apr 2024 17:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是适用于 Windows 的优秀开源照片查看器/编辑器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bt82jw/whats_a_good_open_source_photo_viewereditor_for/</link>
+      <description><![CDATA[GIMP 无法满足我的需求，作为一名会计师，客户经常向我发送 .heic 格式，但 Paint 无法打开它们。有没有类似的东西可以用于基本编辑（主要是裁剪）。   由   提交/u/rpgedgar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bt82jw/whats_a_good_open_source_photo_viewereditor_for/</guid>
+      <pubDate>Mon, 01 Apr 2024 16:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>保持专注的自由选择？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bt34w2/foss_alternatives_for_stay_focused/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨， 尝试了解企业如何维持对不提供此功能的开源工具/产品的支持。 曾经在一家企业中，他们只是雇用开源项目的开发人员来完成特定任务，有时当需要专业知识/故障排除时，顺便说一句，他们不知道如何找到免费的开发人员？！这是对开源社区的贡献吗？ 您的方法是什么，特别是在预算紧张的情况下？ 谢谢  &amp;# 32；由   提交 /u/gnumaro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</guid>
       <pubDate>Sun, 31 Mar 2024 15:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Dev] 开源储蓄跟踪应用程序，具有干净漂亮的 UI 🌟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bs2gww/dev_opensource_savings_tracker_app_with_clean_and/</link>
-      <description><![CDATA[您好！我在这里分享我的 FOSS 储蓄跟踪应用程序的最新版本，名为 GreenStash！这是一款简单的 Android 应用程序，旨在帮助您轻松规划和管理您的储蓄目标，养成存钱的习惯。此版本包括许多 UI/UX 增强功能以​​及一些新功能，请通过单击下面的任何链接来查看它们:) 该应用程序完全免费使用，也可以在 F- 上使用Droid（尽管最新更新可能需要一些时间才能出现）。但是，如果您喜欢我的工作并且发现该应用程序很有用，您可以通过仅花费一美元从 Play 商店购买它并留下好评来支持我&lt;3 源代码 (GitHub) | Google Play | 演练视频 反馈和反馈欢迎提出建议（如果有）！   由   提交 /u/FamousPotatoFarmer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bs2gww/dev_opensource_savings_tracker_app_with_clean_and/</guid>
-      <pubDate>Sun, 31 Mar 2024 05:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>带 Route53 的“自托管”DDNS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bs07wf/selfhosted_ddns_w_route53/</link>
-      <description><![CDATA[您好！我喜欢使用自己的域名来路由到我的家庭 VPN。我以前在 Google Domains 上，但不幸的是它被 Squarespace 收购了（不支持 DDNS）。  这个项目部署了 lambda 并部署到 AWS，然后您可以使用兼容的动态 dns 客户端。如有任何反馈，我们将不胜感激！如果对您有用，请告诉我:)  https://github.com/sciku1/r53-dyndns2     由   提交/u/sciku1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bs07wf/selfhosted_ddns_w_route53/</guid>
-      <pubDate>Sun, 31 Mar 2024 03:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有 Discord 或类似的聊天应用程序是否有利于 oss 项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brzus2/does_having_a_discord_or_similar_chat_app_benefit/</link>
-      <description><![CDATA[我想知道从维护者和贡献者的角度来看，为项目提供一个聊天应用程序而不是仅仅使用 GitHub 讨论和问题是否有好处。我被要求为我的 OSS 项目设置一个，但对开源世界中的该工作流程没有任何经验。   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brzus2/does_having_a_discord_or_similar_chat_app_benefit/</guid>
-      <pubDate>Sun, 31 Mar 2024 02:46:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>“统一标准问题”的解决方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brw25d/the_solution_to_the_unifying_standards_problem/</link>
-      <description><![CDATA[我们都知道https://xkcd.com/927/  漫画讲述了如何创建一个统一标准只会创建另一个竞争标准，但这并不是使最常用的标准在所有可能的级别上相互互操作的解决方案，这并不重要任何级别的尽可能多的人，无论最终用户、开发人员、管理员还是任何介于两者之间的人正在使用什么标准？   由   提交/u/Julian_1_2_3_4_5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brw25d/the_solution_to_the_unifying_standards_problem/</guid>
-      <pubDate>Sat, 30 Mar 2024 23:45:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
