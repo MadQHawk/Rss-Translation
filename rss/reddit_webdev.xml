@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 03:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 06:16:39 GMT</lastBuildDate>
+    <item>
+      <title>关于 Grok 的一切（及更多）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btr4vy/everything_and_more_about_grok/</link>
+      <description><![CDATA[       由   提交/u/priyash1995   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btr4vy/everything_and_more_about_grok/</guid>
+      <pubDate>Tue, 02 Apr 2024 05:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用跨子域Set-cookies处理CORS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btqvtl/how_to_handle_cors_with_cross_subdomain_setcookies/</link>
+      <description><![CDATA[所以我有两个前端和一个后端。 所以应用程序前端 - https://app.abc.co 管理前端 - https://admin.abc.co API - https://api.abc.co 两者都使用相同的身份验证和带有访问令牌的 set-cookies ;刷新令牌。 编辑：我不希望发生这种情况。管理与应用程序 cookie 不应共享，即使它们都来自同一来源，app.abc.co 应该仅使用它自己的 Cookie。我尝试将 cookie 域设置为“.abc.co”但这对于所有 api、应用程序和应用程序都是如此。管理，以便共享 cookie 我使用 cookie 中的刷新令牌来执行刷新逻辑。因此，如果前端使用 withCredential:true （如果 axios ）并调用刷新 API，那么它将发送更新的令牌。应用程序在同一浏览器上，令牌被共享并且事情会崩溃。有没有办法处理这个问题。 Cookie 是 httpOnly 和 httpOnly安全的。所以没有直接的操作。   由   提交/u/akza07  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btqvtl/how_to_handle_cors_with_cross_subdomain_setcookies/</guid>
+      <pubDate>Tue, 02 Apr 2024 05:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>担任远程 Web 开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btqv29/work_as_a_remote_web_developer/</link>
+      <description><![CDATA[作为初级Web开发人员，是否可以远程工作，薪资可以在什么范围？   由   提交/u/aishany  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btqv29/work_as_a_remote_web_developer/</guid>
+      <pubDate>Tue, 02 Apr 2024 05:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 的浏览器扩展，具有大量功能（文件夹、搜索、自定义提示、自定义指令配置文件、图片库以及更多功能）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btpjir/a_browser_extension_for_chatgpt_with_tons_of/</link>
+      <description><![CDATA[       由   提交/u/Difalt  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btpjir/a_browser_extension_for_chatgpt_with_tons_of/</guid>
+      <pubDate>Tue, 02 Apr 2024 04:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一次尝试构建下一个应用程序，本机工作正常，但在部署时遇到这些错误，不知道该怎么办了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btpi6y/tried_building_a_next_app_for_first_time_works/</link>
+      <description><![CDATA[    /u/mommyloveslasagna   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btpi6y/tried_building_a_next_app_for_first_time_works/</guid>
+      <pubDate>Tue, 02 Apr 2024 04:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个渐变/图像组合可以只用CSS吗？我知道我可以将图像堆叠在带有渐变的椭圆形顶部，我想我什至可以将图像剪切到圆形，但只是注意到剪切仅发生在图像的下半部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btozxf/is_this_gradientimage_combo_possible_with_just/</link>
+      <description><![CDATA[   /u/i_write_bugz   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btozxf/is_this_gradientimage_combo_possible_with_just/</guid>
+      <pubDate>Tue, 02 Apr 2024 03:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 代码片段</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btoxjd/html_code_snippets/</link>
+      <description><![CDATA[嘿伙计们👋，对于这里所有从事自由职业并为客户构建网站的网络开发人员。 你们有一些 html 模板吗？您在工作中反复使用的代码片段还是从头开始编写所有代码？   由   提交/u/OddAd1212   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btoxjd/html_code_snippets/</guid>
+      <pubDate>Tue, 02 Apr 2024 03:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证我的 SaaS 开发者想法！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btogqv/validating_my_saas_for_developers_idea/</link>
+      <description><![CDATA[由于我的第一个 SaaS 正处于 Beta 测试阶段，我想将我从之前的 Beta 发布中学到的所有知识应用到第二个 SaaS 中。这是我的简单想法：为开发人员创建一个 AI 聊天机器人，集成到您最喜欢的 IDE 中，以帮助您完成与第三方依赖项或库相关的任务。但是如何实现呢？ 通过提供文档链接或 GitHub 链接，聊天机器人将帮助您了解该库或建议代码来帮助您完成任务。 但是我为什么这么认为想法好不好？因为许多开发人员和软件工程师不愿意阅读冗长的文档，尤其是当它难以理解时。我不仅仅是在谈论 Google 文档......此外，我不会就此停止；甚至文档所有者也可以将此聊天机器人集成到他们的网站中，以帮助读者理解他们的文档。 对于 MVP，我将从一个页面开始，您可以在其中输入文档链接，聊天机器人将参与其中如前所述，与您交谈以帮助您完成任务或理解文档。 我很乐意听到您的反馈！它能解决实际问题吗？您看到的优点/缺点是什么？我是否缺少任何重要功能？ 谢谢您，祝您编码愉快！   由   提交/u/MousseOne330  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btogqv/validating_my_saas_for_developers_idea/</guid>
+      <pubDate>Tue, 02 Apr 2024 03:17:53 GMT</pubDate>
+    </item>
     <item>
       <title>聊天 GPT 包装器是长期游戏吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1btny7w/are_chat_gpt_wrappers_a_longterm_play/</link>
@@ -22,14 +78,14 @@
     <item>
       <title>视频在 Safari 和触摸设备上自动播放。</title>
       <link>https://www.reddit.com/r/webdev/comments/1btmros/video_autoplay_on_safari_and_touch_devices/</link>
-      <description><![CDATA[所以我已经尝试了一段时间来寻找解决此问题的方法。我知道视频应该被静音，并且我已经尝试过所有这些：  autoplayloop mutedplaysinline  我什至尝试用 javascript 触发播放，但这也不起作用。  有人可以帮我吗？   由   提交/u/Environmental_Gap_65   [链接] [评论]]]></description>
+      <description><![CDATA[所以我已经尝试了一段时间来寻找解决此问题的方法。我知道视频应该静音，并且我尝试过所有这些： autoplayloop mutedplaysinline 我什至尝试用 JavaScript 触发播放，但这也不起作用。 有人可以帮我吗？ 更新： &lt;添加到此。似乎用户交互会触发视频，就像首先单击某个随机手风琴一样，如果视频属于该手风琴，则视频会自动播放，但如果它单独存在，则不会自动播放。 &lt; !-- SC_ON --&gt;  由   提交/u/Environmental_Gap_65   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1btmros/video_autoplay_on_safari_and_touch_devices/</guid>
       <pubDate>Tue, 02 Apr 2024 01:57:28 GMT</pubDate>
     </item>
     <item>
       <title>如何获得安全的开发环境？</title>
       <link>https://www.reddit.com/r/webdev/comments/1btm5w2/how_do_you_get_a_safe_dev_environment/</link>
-      <description><![CDATA[我很早就知道我的系统中的 npm-ing 很糟糕，并且考虑到最近的 xz-package 惨败，偏执增加了，所以您的堆栈使用哪些技术来保证系统安全？   由   提交 /u/MobilePenor   [链接] [评论]]]></description>
+      <description><![CDATA[我很早就知道我的系统中的 npm-ing 很糟糕，并且鉴于最近的 xz-package 惨败，偏执增加了，所以您的堆栈使用哪些技术来保证系统安全？   由   提交 /u/MobilePenor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1btm5w2/how_do_you_get_a_safe_dev_environment/</guid>
       <pubDate>Tue, 02 Apr 2024 01:29:25 GMT</pubDate>
     </item>
@@ -50,65 +106,9 @@
     <item>
       <title>为什么我的网站在手机上看起来很奇怪？</title>
       <link>https://www.reddit.com/r/webdev/comments/1btkizq/why_does_my_website_look_weird_on_phone/</link>
-      <description><![CDATA[我正在让一名网络开发人员为我构建一个物业管理网站。 他向我展示了他迄今为止所拥有的内容以及在大多数情况下，它看起来不错。 不过文字很奇怪！有些单词的最后三个字母位于下一行...... 右上角的电话号码仅显示几个数字。然后，您必须将整个屏幕向左移动才能看到其余部分，这会导致其下方的所有内容都消失。 您不必移动屏幕才能看到更右侧的文本。 .它应该正好适合屏幕。 我的网络开发人员正在使用 WordPress，他看起来知识渊博。他建立了很多网站，而且看起来都不错。 我让他知道了这些问题。你们中有人知道这些问题是如何纠正的吗？ 谢谢您的任何建议您的见解！   由   提交 /u/AmazingExperiance   [链接] [评论]]]></description>
+      <description><![CDATA[我正在让一名网络开发人员为我构建一个物业管理网站。 他向我展示了他迄今为止所拥有的内容以及在大多数情况下，它看起来不错。 不过文字很奇怪！有些单词的最后三个字母位于下一行...... 右上角的电话号码仅显示几个数字。然后，您必须将整个屏幕向左移动才能看到其余部分，这会导致其下方的所有内容都消失。 您不必移动屏幕才能看到更右侧的文本。 .它应该正好适合屏幕。 我的网络开发人员正在使用 WordPress，他看起来知识渊博。他建立了很多网站，而且看起来都不错。 我让他知道了这些问题。你们有人知道这些问题是如何纠正的吗？ 谢谢您的任何建议您的见解！   由   提交 /u/AmazingExperiance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1btkizq/why_does_my_website_look_weird_on_phone/</guid>
       <pubDate>Tue, 02 Apr 2024 00:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>给尝试构建大型 Web 应用程序的初级 Web 开发人员（2 年经验）的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btk1pu/advice_for_a_junior_web_dev_2_years_of_experience/</link>
-      <description><![CDATA[大家好，我是一名 Web 开发人员，已经从事专业工作大约 2 年了。我对这个领域的广阔有一些经验，也知道我可能有多少技术债务。 我最近开始了一个新项目，我的目标是构建一个可能容纳 5000 多个用户的 Web 应用程序。我正在使用我最熟悉的堆栈进行构建（react + chakra ui + .net 后端） 在尝试构建大规模可扩展时，我应该考虑或密切注意哪些事情由于缺乏经验，我很可能会错过哪些应用程序？我可能会犯哪些常见/明显的错误？ 例如，我最近了解了 ssr 与客户端渲染以及 css-in-js 的问题（一个我以前从未理解的概念），并且我已经开始考虑废弃 Chakra ui 组件并选择顺风+无头组件。  我一直对自己是否在使用正确的堆栈、是否正确构建项目、是否遵循最佳实践等问题感到偏执和偏执。请分享您认为可能有用的任何见解！   由   提交/u/wraleigh70   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btk1pu/advice_for_a_junior_web_dev_2_years_of_experience/</guid>
-      <pubDate>Mon, 01 Apr 2024 23:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建多租户 SaaS 项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btj0vl/structuring_a_mutlitenancy_saas_project/</link>
-      <description><![CDATA[你好， 我将从事一个多租户 SaaS 电子商务项目（Laravel + VueJS），其中客户创建一个帐户，为其产品创建一个商店并通过管理面板对其进行管理。 我想知道此类项目的主要考虑因素是什么，以便我可以进行更多研究。  &gt; 例如，我研究了微服务，发现这个项目（和团队规模）不太适合微服务，而且我还被告知我应该同时实现 MySQL 和 NoSQL，MySQL 用于客户帐户等所有内容，例如，用于购物车的 NoSQL。 我还需要实现一个 CDN 来托管客户产品图像和自定义 CSS/JS 存储脚本。 我想要一些想法和技巧，以便我可以与我的团队讨论它们并学习/研究它们。 任何意见都会非常感激！   由   提交 /u/Ankhyx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btj0vl/structuring_a_mutlitenancy_saas_project/</guid>
-      <pubDate>Mon, 01 Apr 2024 23:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您应该使用的现代 Git 命令和功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btiuc3/modern_git_commands_and_features_you_should_be/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btiuc3/modern_git_commands_and_features_you_should_be/</guid>
-      <pubDate>Mon, 01 Apr 2024 23:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了使用 SMTP 服务器之外，还有另一种处理忘记密码的方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btistf/another_way_to_deal_with_forgotten_passwords_than/</link>
-      <description><![CDATA[我想知道您见过哪些有效的方法来处理忘记的密码？ 可能有简单的方法也没有其他办法了，这样就可以了。只是好奇您是否见过或使用过替代方案。   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btistf/another_way_to_deal_with_forgotten_passwords_than/</guid>
-      <pubDate>Mon, 01 Apr 2024 23:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>单页应用程序中的元标记</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bthntk/meta_tags_in_single_page_apps/</link>
-      <description><![CDATA[大家好，我正在制作一个单页应用程序，试图遵循 jamstack 模型。我让人们进行测验，然后他们可以分享测验的链接。它相当简单并且运行良好。 但是，当他们共享链接时，像 Whatsapp 这样使用元标记来显示链接卡片的应用程序正在使用我的单个 HTML 页面中的默认元标记来填充它出来了，所以我得到了一个通用标题而不是“页面”具体一。我用 JS 设置元标记，但大多数应用程序都不会接收它。 （说实话，这并不太令人惊讶）。  关于如何使动态元标记显示在社交媒体的链接中，是否有任何最佳实践？我唯一能想到的就是在服务器上预先构建页面，但这违背了 jamstack SPA 的全部目的。  （应用程序本身是 Qaiz.app 只是为了不让它变得如此抽象） &amp; #x200b; ​   由   提交/u/perpetual_stew  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bthntk/meta_tags_in_single_page_apps/</guid>
-      <pubDate>Mon, 01 Apr 2024 22:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>彻底重新设计网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bth7if/completely_redesigning_a_website/</link>
-      <description><![CDATA[大家好，我有一个旧项目，我有点完成了，我喜欢这个概念，但 UI 有点过时，我可以做现在好多了。我想知道是否有人对如何解决这个问题有任何建议？我根本不打算改变堆栈，只是重新设计前端并重构后端，我该如何做才能与 git 很好地配合？我知道我天真地尝试删除 .git 文件夹之外的整个文件夹并重新开始一次，但这不是一个好主意，哈哈。   由   提交 /u/Centricc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bth7if/completely_redesigning_a_website/</guid>
-      <pubDate>Mon, 01 Apr 2024 22:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试在网络上学习新的东西</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bth2sy/trying_to_learn_something_new_in_web/</link>
-      <description><![CDATA[嗯，我正在尝试学习网络领域的新东西，这可能是一个挑战，如果有人有任何想法或建议，也可以在未来的项目中使用。我真的很感激:)   由   提交/u/pankaj_singh__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bth2sy/trying_to_learn_something_new_in_web/</guid>
-      <pubDate>Mon, 01 Apr 2024 21:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>打破刻板印象：南亚开发商和优质工艺</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btgenh/breaking_stereotypes_south_asian_developers_and/</link>
-      <description><![CDATA[作为一名南亚开发人员，我经常面临这样的假设：我的英语技能与我的工作质量直接相关。然而，我认为是时候挑战这种误解了。虽然英语可能不是我的母语，但我对提供一流软件/网络开发的奉献精神仍然坚定不移。我很想听听您的想法：在评估来自不同背景的开发人员时，语言能力是否应该掩盖技术实力？让我们一起深入讨论一下。   由   提交/u/diopter2155  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btgenh/breaking_stereotypes_south_asian_developers_and/</guid>
-      <pubDate>Mon, 01 Apr 2024 21:31:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
