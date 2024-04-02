@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 02 Apr 2024 18:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 21:12:02 GMT</lastBuildDate>
+    <item>
+      <title>UForm v2 与多模式俄罗斯套娃、多模式 DPO 和 ONNX 🎉</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu9wrf/uform_v2_with_multimodal_matryoshka_multimodal/</link>
+      <description><![CDATA[ 由   提交/u/ashvar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu9wrf/uform_v2_with_multimodal_matryoshka_multimodal/</guid>
+      <pubDate>Tue, 02 Apr 2024 21:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>功能标记工具定价比较</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu9p1v/feature_flag_tool_pricing_compared/</link>
+      <description><![CDATA[ 由   提交/u/jeffdwyer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu9p1v/feature_flag_tool_pricing_compared/</guid>
+      <pubDate>Tue, 02 Apr 2024 20:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Terraform 自动化私有 AWS Aurora RDS 的用户管理</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu8mt0/automate_user_management_for_private_aws_aurora/</link>
+      <description><![CDATA[ 由   提交/u/neifn  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu8mt0/automate_user_management_for_private_aws_aurora/</guid>
+      <pubDate>Tue, 02 Apr 2024 20:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我完成并重写了 PHP 课程 - 您对此有何看法？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu8dtc/my_finished_and_rewrote_php_course_what_do_you/</link>
+      <description><![CDATA[ 由   提交 /u/wizarddos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu8dtc/my_finished_and_rewrote_php_course_what_do_you/</guid>
+      <pubDate>Tue, 02 Apr 2024 19:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>.xz 漏洞是有史以来最大的代码盗窃吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu75w4/is_xz_exploit_the_biggest_code_heist_ever/</link>
+      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu75w4/is_xz_exploit_the_biggest_code_heist_ever/</guid>
+      <pubDate>Tue, 02 Apr 2024 19:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>减少程序员抑郁的 15 个策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu6ril/15_strategies_for_reducing_depression_among/</link>
+      <description><![CDATA[ 由   提交/u/pinkpen_net  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu6ril/15_strategies_for_reducing_depression_among/</guid>
+      <pubDate>Tue, 02 Apr 2024 18:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能机器人产生软件包幻觉，开发人员下载它们</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu6p11/ai_bots_hallucinate_software_packages_and_devs/</link>
+      <description><![CDATA[ 由   提交 /u/EpiscopalPerch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu6p11/ai_bots_hallucinate_software_packages_and_devs/</guid>
+      <pubDate>Tue, 02 Apr 2024 18:50:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，这里有很多编程大师，我是这个世界的新手，我需要建议，有人知道一个好的 python 训练营，或者什么是商业工作或 IA 开发的最佳语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1bu5wxy/hello_everybody_there_is_a_lot_of_masters/</link>
+      <description><![CDATA[ 由   提交/u/BigNarwhal5862   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bu5wxy/hello_everybody_there_is_a_lot_of_masters/</guid>
+      <pubDate>Tue, 02 Apr 2024 18:21:06 GMT</pubDate>
+    </item>
     <item>
       <title>SQL Everywhere - Web 应用程序的新数据架构</title>
       <link>https://www.reddit.com/r/programming/comments/1bu4kvd/sql_everywhere_a_new_data_architecture_for_web/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交 /u/smarvin2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bu0xx9/visualizing_conways_game_of_life_through_time/</guid>
       <pubDate>Tue, 02 Apr 2024 15:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 AI 进行代码文档 - DocuWriter 教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1bu0g8j/how_to_use_ai_for_code_documentation_a_docuwriter/</link>
-      <description><![CDATA[ 由   提交/u/magarrent-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bu0g8j/how_to_use_ai_for_code_documentation_a_docuwriter/</guid>
-      <pubDate>Tue, 02 Apr 2024 14:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Img2Vec 和 UMAP 可视化高维数据</title>
-      <link>https://www.reddit.com/r/programming/comments/1btz6ag/visualize_high_dimensional_data_with_img2vec_and/</link>
-      <description><![CDATA[ 由   提交/u/research_pie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btz6ag/visualize_high_dimensional_data_with_img2vec_and/</guid>
-      <pubDate>Tue, 02 Apr 2024 13:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>但什么是 GPT？</title>
-      <link>https://www.reddit.com/r/programming/comments/1btynkq/but_what_is_a_gpt/</link>
-      <description><![CDATA[ 由   提交/u/Dramatic_Mulberry142   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btynkq/but_what_is_a_gpt/</guid>
-      <pubDate>Tue, 02 Apr 2024 13:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的后端和前端同事整理了这篇精彩的文章，分享我们工作室成功软件开发的方法、技术选择和代码结构。希望对你有帮助！</title>
-      <link>https://www.reddit.com/r/programming/comments/1btxy59/my_backend_and_frontend_fellows_have_put_together/</link>
-      <description><![CDATA[ 由   提交/u/ClarisaGuerra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btxy59/my_backend_and_frontend_fellows_have_put_together/</guid>
-      <pubDate>Tue, 02 Apr 2024 12:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Disney+ 如何在发布之日就扩大到 1100 万用户</title>
-      <link>https://www.reddit.com/r/programming/comments/1btxsv1/how_disney_scaled_to_11_million_users_on_launch/</link>
-      <description><![CDATA[ 由   提交/u/sdxyz42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btxsv1/how_disney_scaled_to_11_million_users_on_launch/</guid>
-      <pubDate>Tue, 02 Apr 2024 12:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rig：零魔法、零依赖构建系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1btxb2y/rig_the_zero_magic_zero_dependency_build_system/</link>
-      <description><![CDATA[ 由   提交 /u/gavinhoward    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btxb2y/rig_the_zero_magic_zero_dependency_build_system/</guid>
-      <pubDate>Tue, 02 Apr 2024 12:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 3D 网格中显示和隐藏三角形的技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1btx6ok/techniques_for_showing_and_hiding_triangles_in_3d/</link>
-      <description><![CDATA[ 由   提交/u/innochenti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btx6ok/techniques_for_showing_and_hiding_triangles_in_3d/</guid>
-      <pubDate>Tue, 02 Apr 2024 12:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>这种 TypeScript 类型困扰着我的梦想</title>
-      <link>https://www.reddit.com/r/programming/comments/1btvjp5/this_typescript_type_haunted_my_dreams/</link>
-      <description><![CDATA[ 由   提交/u/towtoo893  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1btvjp5/this_typescript_type_haunted_my_dreams/</guid>
-      <pubDate>Tue, 02 Apr 2024 10:42:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
