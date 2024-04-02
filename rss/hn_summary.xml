@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:04:30 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Redis 分叉之战？</title>
-      <link>https://t.me/hn_summary/82349</link>
-      <description><![CDATA[Redis 分叉之战？
-Redis 最近做出了有争议的决定，转向更具限制性的双许可证，在贡献者社区中造成了混乱。这一举措导致了多个新分叉的创建，其中一个由 AWS 的 Madelyn Olson 领导，另一个由软件开发人员 Drew DeVault 领导。 Olson 的分叉旨在继续许可证变更之前的社区路线图，而 DeVault 的独立分叉 Redict 则专注于建立一个独立于专有基础设施的真正开源社区。在 AWS 和阿里云等主要参与者的潜在支持下，Redis 的重大分叉可能即将到来。请继续关注进一步的进展。]]></description>
-      <guid>https://t.me/hn_summary/82349</guid>
-      <pubDate>Mon, 01 Apr 2024 15:12:17 GMT</pubDate>
+      <title>CERN 正在庆祝其成立 70 周年，并以一个令人惊讶的变化 - 更名为 Network of [...]</title>
+      <link>https://t.me/hn_summary/82438</link>
+      <description><![CDATA[CERN 为庆祝成立 70 周年更名
+CERN 正在庆祝其成立 70 周年，并以一个令人惊讶的变化 - 更名为社会研究与发展实验网络 (NERDS)。新名称反映了该实验室从欧洲核研究理事会向全球科学技术中心的演变。做出品牌重塑的决定是为了更好地代表欧洲核子研究中心进行的多样化研究并促进包容性。尽管有一些有争议的名字建议，如“GOD”，但“NERDS”因其易于记忆和积极的含义而被选中。这一变化将于 2024 年生效，标志着 CERN 作为 NERDS 的历史翻开了新的篇章。]]></description>
+      <guid>https://t.me/hn_summary/82438</guid>
+      <pubDate>Tue, 02 Apr 2024 00:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Postgres vs.</title>
-      <link>https://t.me/hn_summary/82348</link>
-      <description><![CDATA[Postgres 与文件系统：性能比较（2022 年）
-在 2022 年 Postgres 与各种文件系统的性能比较中，结果显示，虽然 ZFS 在只读测试中落后，但在读写测试中表现良好，行为一致。 EXT4 和 XFS 在总吞吐量方面成为明显的赢家，但 ZFS 因其最小的抖动和灵活性而脱颖而出。另一方面，BTRFS 在吞吐量和抖动方面表现不佳，使其不太适合数据库。该研究强调了在评估性能指标时考虑系统稳定性和随时间演变的重要性。最终，文件系统的选择取决于数据库系统的具体工作负载和要求。]]></description>
-      <guid>https://t.me/hn_summary/82348</guid>
-      <pubDate>Mon, 01 Apr 2024 15:09:12 GMT</pubDate>
+      <title>[媒体]网络内容讨论了 Vespers Inc. 的争议话题。</title>
+      <link>https://t.me/hn_summary/82437</link>
+      <description><![CDATA[OpenAI创业基金：GP幻觉
+该网络内容讨论了 Vespers Inc. 的争议话题，这家公司可能是在人工智能的帮助下创建的，作为涉及 OpenAI 初创基金的未公开交易的幌子公司。作者质疑 Vespers Inc. 参与的合法性，并强调了各种披露，表明该公司使用假名个人和潜在的虚假人物角色来隐藏其真实目的。作者深入研究了 Vespers Inc. 的成立时间、其业务类型以及其作为 OpenAI Startup Fund GP I, LLC 经理的短暂任期，以证明其是一家幌子公司。该内容引起了人们对潜在不当行为的担忧，并呼吁进一步审查。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82437</guid>
+      <pubDate>Tue, 02 Apr 2024 00:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在他们对哈瓦那综合症为期五年的调查的最新一期中，60 Mi [...]</title>
-      <link>https://t.me/hn_summary/82347</link>
-      <description><![CDATA[哈瓦那综合症调查发现新证据
-在哈瓦那综合症五年调查的最新一期中，《60 分钟》发现了新的证据，将格鲁吉亚第比利斯的袭击与俄罗斯绝密情报单位 29155 单位联系起来。调查记者克里斯托·格罗泽夫 (Christo Grozev) 发现了一份将该单位与声能联系起来的文件武器测试。该部队指挥官阿尔伯特·阿韦扬诺夫的儿子因第比利斯发生的事件正在接受调查。尽管有这些发现，但关于这些攻击的幕后黑手仍然存在疑问。中央情报局和国家情报总监对外国对手蓄意袭击的理论表示怀疑，导致哈瓦那综合症之谜仍未解开。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82347</guid>
-      <pubDate>Mon, 01 Apr 2024 15:08:08 GMT</pubDate>
+      <title>[媒体]在本文中，作者探讨了常见数据库在虚构的 [...]</title>
+      <link>https://t.me/hn_summary/82436</link>
+      <description><![CDATA[一些查询优化器的嗅探测试
+在本文中，作者在涉及查询优化的虚构基准测试中探讨了常见数据库的性能。作者强调，该测试并不代表优化器的整体质量，并提供了一个用于测试数据库的转换列表。令人惊讶的是，DuckDB、CockroachDB 和 Postgres 通过了将 EXISTS 查询转换为半连接解相关的测试，而 SQLite 却没有。作者还测试了基于主键的 DISTINCT 消除，并为每个数据库提供了结论。本文提供了有关查询优化的独特且内容丰富的视角。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82436</guid>
+      <pubDate>Mon, 01 Apr 2024 23:41:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者分享了他们使用 Raspberry Pi 5 作为台式电脑的经验，重点 [...]</title>
-      <link>https://t.me/hn_summary/82346</link>
-      <description><![CDATA[有人用亚马逊迷你台式机更换 Pi 5 时学到了什么
-作者分享了他们使用 Raspberry Pi 5 作为台式电脑的经验，强调了性能限制和软件生态系统挑战。他们探索了亚马逊和全球速卖通上销售的 200 美元以下迷你台式电脑的选择，并指出其价格规格令人惊讶。本文深入探讨了英特尔低端处理器的改进，特别是 E 核，它为浏览和办公提供了不错的性能。作者将这些处理器与较旧的奔腾和赛扬芯片进行了比较，展示了它们的效率和速度。总体而言，本文提供了有关 Raspberry Pi 之外的经济型台式电脑选项的宝贵见解。]]></description>
-      <guid>https://t.me/hn_summary/82346</guid>
-      <pubDate>Mon, 01 Apr 2024 15:03:02 GMT</pubDate>
+      <title>[媒体] OpenSSH 和 XZ/liblzma：民族国家攻击被挫败，我们学到了什么？</title>
+      <link>https://t.me/hn_summary/82435</link>
+      <description><![CDATA[OpenSSH 和 XZ/liblzma：民族国家攻击被挫败，我们学到了什么？
+该文章讨论了一次涉及 OpenSSH 和 XZ/liblzma 的挫败的民族国家攻击，强调了两年多来为渗透开源维护人员而进行的复杂操作。该攻击是由 Postgres 维护人员发现的，强调了软件使用中超意识和可观察性的重要性。作者强调了面对潜在攻击时软件生态系统的多样性、弹性和可恢复性规划的必要性。本文鼓励 Docker 社区内部进行对话，以加强开源供应链并为未来的安全挑战做好准备。]]></description>
+      <guid>https://t.me/hn_summary/82435</guid>
+      <pubDate>Mon, 01 Apr 2024 23:40:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]自1989年以来，每年愚人节，互联网RFC编辑都会发布幽默的Requ [...]</title>
-      <link>https://t.me/hn_summary/82345</link>
-      <description><![CDATA[愚人节征求意见
-自 1989 年以来的每个愚人节，互联网 RFC 编辑都会发布幽默的征求意见 (RFC) 文件，其灵感来自对 Lewis Carroll 的“Jabberwocky”的戏仿。这些 RFC 包括通过信鸽传输 IP 数据包、在 IPv4 中实现邪恶位以及使用 Unicode 表示 IPv6 地址等建议。一些 RFC（例如涉及到达圣诞老人的复杂地址的 RFC）采用数学方法，而其他 RFC 则侧重于实际解决方案，例如通过空中路由数据包实现绿色 IT。 RFC 编辑欢迎公众提交愚人节 RFC。]]></description>
-      <guid>https://t.me/hn_summary/82345</guid>
-      <pubDate>Mon, 01 Apr 2024 15:01:57 GMT</pubDate>
+      <title>[媒体] 在 20 世纪 70 年代，苏联人试图创建自己的互联网版本，称为 [...]</title>
+      <link>https://t.me/hn_summary/82434</link>
+      <description><![CDATA[苏联人如何发明互联网以及为什么它不起作用
+20 世纪 70 年代，苏联试图创建自己的互联网版本，即全国家自动化系统，以彻底改变经济计划。该项目由计算机科学家 Viktor Glushkov 领导，旨在利用计算机建模和电子货币简化计划经济。然而，内部权力斗争和缺乏包括财政部长瓦西里·加尔布佐夫在内的主要官员的支持导致了该项目的失败。尽管电子社会主义有着雄心勃勃的愿景，但苏联互联网从未实现，凸显了官僚体系内创新的挑战。这个故事揭示了苏联技术、政治和野心的交叉点。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82434</guid>
+      <pubDate>Mon, 01 Apr 2024 23:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CamSimulate 是一个 Python 应用程序，可将视频从本地文件或 URL 流式传输到 vi [...]</title>
-      <link>https://t.me/hn_summary/82344</link>
-      <description><![CDATA[CamSimulate：Python 应用程序，用于将视频从文件流式传输到计算机上的视频设备
-CamSimulate 是一个 Python 应用程序，可将视频从本地文件或 URL 流式传输到计算机上的视频设备。如果没有可用的物理设备，它使用 v4l2loopback 创建虚拟视频设备，并使用 ffmpeg 流式传输所选视频。该项目是专门为类 UNIX 操作系统设计的。作者提到了即将推出的功能，例如 TUI 菜单、来自 URL 的视频输入、选择视频分辨率和 Windows 支持。 CamSimulate 允许用户在任何他们想要的网站上使用相机，但要注意视频 URL 应该是直接的，而不是来自网页。]]></description>
-      <guid>https://t.me/hn_summary/82344</guid>
-      <pubDate>Mon, 01 Apr 2024 14:48:51 GMT</pubDate>
+      <title>问 HN：您为什么会在新项目中使用 C++ 而不是 Rust？</title>
+      <link>https://t.me/hn_summary/82433</link>
+      <description><![CDATA[问 HN：为什么你会在新项目中使用 C++生锈？
+在新项目中使用 C++ 还是 Rust 的争论正在升温，Rust 爱好者声称 Rust 的工具和支持已经变得如此先进，选择 C++ 将是一个错误。但这真的是真的吗？面对 Rust 日益流行，C++ 还能保持自己的地位吗？加入讨论为什么有人会在新项目中选择 C++ 而不是 Rust，以及这样做是否有任何正当理由。让我们深入探讨这个有争议的话题，看看是否有什么惊喜。]]></description>
+      <guid>https://t.me/hn_summary/82433</guid>
+      <pubDate>Mon, 01 Apr 2024 23:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>等等，美国的蜜蜂数量突然创新高了吗？</title>
-      <link>https://t.me/hn_summary/82343</link>
-      <description><![CDATA[等等，美国的蜜蜂数量突然创纪录了吗？
-美国蜜蜂数量惊人激增，达到 380 万个蜂群，创历史新高。然而，这种增加可能并不像看起来那么简单，不同来源的数据相互矛盾，而且人们担心对本地授粉媒介的影响。由于鼓励养蜂的新法律，德克萨斯州在蜜蜂繁荣中发挥了重要作用。另一方面，由于对杏仁授粉的需求，加利福尼亚州在蜜蜂数量上占主导地位。虽然蜜蜂数量的增长令人鼓舞，但这并不一定意味着蜂群崩溃的结束或传粉媒介的整体下降。通过栖息地保护来支持所有传粉媒介对于它们的生存至关重要。]]></description>
-      <guid>https://t.me/hn_summary/82343</guid>
-      <pubDate>Mon, 01 Apr 2024 14:39:42 GMT</pubDate>
+      <title>询问 HN：鉴于市场趋势，您如何决定做什么？</title>
+      <link>https://t.me/hn_summary/82432</link>
+      <description><![CDATA[询问 HN：鉴于市场趋势，您如何决定做什么？ 
+作者是瑞典的一名前 Android 开发人员，希望转型为合同工，但很难找到适合其特定技能的机会。他们在寻求更流行的技术堆栈认证和等待市场需求增加之间左右为难。他们也在考虑创造产品，但认为合同工作是财务稳定的最佳选择。作者正在向处于类似情况的其他人寻求建议，以了解如何驾驭当前的市场趋势并为未来的职业道路做出最佳决定。]]></description>
+      <guid>https://t.me/hn_summary/82432</guid>
+      <pubDate>Mon, 01 Apr 2024 23:33:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Peter Selinger 关于 lambda 演算的讲义全面概述了 [...]</title>
-      <link>https://t.me/hn_summary/82342</link>
-      <description><![CDATA[Peter Selinger 关于 lambda 演算的讲座笔记 [pdf](https: //news.ycombinator.com/item?id=39890232)
-Peter Selinger 关于 lambda 演算的讲义全面概述了计算机科学和数学中的这一基本概念。 Selinger 涵盖了无类型和简单类型 lambda 演算、Curry-Howard 同构和指称语义等主题，深入探讨了 lambda 演算的理论和应用。这些注释还探讨了功能概念的历史演变，将现代外延观点与旧的内涵观点进行对比。有争议的是，这些注释挑战了函数作为图形的传统概念，为如何理解和定义函数提供了新的视角。塞林格独特的方法使这些讲义成为学生和研究人员的宝贵资源。 （根据故事文本的 4% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82342</guid>
-      <pubDate>Mon, 01 Apr 2024 14:24:27 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，发表在《美国医学会杂志内科学》上的一项研究揭示了 [...]</title>
+      <link>https://t.me/hn_summary/82431</link>
+      <description><![CDATA[GPT-4 获得了比医生更高的临床推理分数 
+令人惊讶的是，发表在《JAMA Internal Medicine》上的一项研究表明，在评估模拟临床病例时，Open AI 的 GPT-4 聊天机器人在临床推理方面的表现优于医生。该聊天机器人在 R-IDEA 评估中的得分高于主治医生和内科住院医师。虽然像 GPT-4 这样的人工智能可以提供公正的第二意见，但与居民相比，它也显示出更多不正确的临床推理实例。该研究强调在将人工智能集成到临床工作流程之前需要进一步评估。尽管 GPT-4 在临床推理评分方面取得了成功，但在诊断准确性方面与医生的结果相似。]]></description>
+      <guid>https://t.me/hn_summary/82431</guid>
+      <pubDate>Mon, 01 Apr 2024 23:20:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 renegadeotter.com 的这篇网页内容中，作者分享了 2 [...]</title>
-      <link>https://t.me/hn_summary/82341</link>
-      <description><![CDATA[您的数据库技能并不“好” 
-在来自 renegadeotter.com 的网页内容中，作者分享了一个 MySQL 2006 年的战争故事，当时他们为《纽约杂志》的时装周门户网站开展一个具有挑战性的项目。该项目涉及通过近乎实时的时装秀图像和详细分类来创建搜索体验。尽管面临技术挑战和有限的资源，团队还是成功地使用 MySQL 4 构建了搜索产品。作者强调掌握数据库技能并避免 ORM 滥用和不必要的缓存等常见陷阱的重要性。它们强调了 Postgres 等关系数据库的强大功能，揭穿了外来数据库始终是解决方案的神话。作者还讨论了性能在现代系统中的重要性以及数据库反模式的影响。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82341</guid>
-      <pubDate>Mon, 01 Apr 2024 14:21:10 GMT</pubDate>
+      <title>加州以其进步的政策和创新而闻名，但目前正面临着经济挑战 [...]</title>
+      <link>https://t.me/hn_summary/82430</link>
+      <description><![CDATA[加州深受经济问题困扰，没有简单的解决办法
+加州以其先进的政策和创新而闻名，但也面临着失业率上升、财政紧张和人口外流等经济挑战。尽管美国经济整体强劲，但加州失业率却飙升至5.3%，为全美最高。该州财政状况严峻，预计赤字达 730 亿美元。高收入居民的外流加剧了这一问题，限制了国家解决预算问题的灵活性。加州的房地产市场是全国最难以负担的，也是一个主要问题。尽管国家在创新方面拥有优势，但它必须解决经济难题，以确保稳定的未来。]]></description>
+      <guid>https://t.me/hn_summary/82430</guid>
+      <pubDate>Mon, 01 Apr 2024 23:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google Keep 用户请注意：Google 已宣布他们将关闭 [...]</title>
-      <link>https://t.me/hn_summary/82340</link>
-      <description><![CDATA[Google 正在关闭 Google Keep
-Google Keep 用户请注意：Google 已宣布他们将关闭这款流行的笔记应用程序。这一消息在依赖该应用程序来组织思想和任务的忠实用户中引发了争议。许多人都在争先恐后地在关闭日期之前寻找替代解决方案。请继续关注这一令人惊讶的发展的更多更新。 #GoogleKeep #ShutdownControversy]]></description>
-      <guid>https://t.me/hn_summary/82340</guid>
-      <pubDate>Mon, 01 Apr 2024 14:09:04 GMT</pubDate>
+      <title>[媒体]Bonk 是 X11 窗口管理的命令行工具，允许用户修改wind [...]</title>
+      <link>https://t.me/hn_summary/82429</link>
+      <description><![CDATA[显示 HN：Bonk，X11 窗口管理的命令行工具
+Bonk 是 X11 窗口管理的命令行工具，允许用户修改窗口、调整窗口属性、更改窗口装饰等。它是专门为 X11 设计的，需要 C 编译器、CMake 和 libxcb 来构建。 Bonk 的独特之处在于提供了用于交互式窗口管理的子命令，例如通过左键单击选择窗口、通过 ID 指定窗口、根据窗口类和标题等条件搜索窗口以及将搜索限制为任务栏中的窗口。它还提供各种窗口操作和属性调整。该项目包括一个测试套件和支持命令的完整列表。]]></description>
+      <guid>https://t.me/hn_summary/82429</guid>
+      <pubDate>Mon, 01 Apr 2024 22:53:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
