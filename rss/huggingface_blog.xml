@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 02 Apr 2024 15:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 15:11:49 GMT</lastBuildDate>
+    <item>
+      <title>在 Xeon 上使用 🤗 最佳 Intel 实现超快 SetFit 推理</title>
+      <link>https://huggingface.co/blog/setfit-optimum-intel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/setfit-optimum-intel</guid>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为 Hugging Face 用户带来无服务器 GPU 推理</title>
       <link>https://huggingface.co/blog/cloudflare-workers-ai</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/community-datasets</guid>
       <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔® Gaudi® 2 人工智能加速器上的文本生成管道</title>
-      <link>https://huggingface.co/blog/textgen-pipe-gaudi</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/textgen-pipe-gaudi</guid>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
