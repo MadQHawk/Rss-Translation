@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 03 Apr 2024 15:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:16:27 GMT</lastBuildDate>
     <item>
-      <title>Mengzi3</title>
-      <link>https://www.opensourceagenda.com/projects/mengzi3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mengzi3</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:26 GMT</pubDate>
+      <title>节拍绑定</title>
+      <link>https://www.opensourceagenda.com/projects/beatbind</link>
+      <description><![CDATA[用于 Spotify 上全局热键的后台 Python Windows 应用程序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/beatbind</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>快速交换</title>
-      <link>https://www.opensourceagenda.com/projects/fastexchange</link>
-      <description><![CDATA[一个类型声明库，用于处理加密货币和货币交换 目前支持的货币和加密货币很少，但是您可以通过贡献来帮助解决这个问题。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fastexchange</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:25 GMT</pubDate>
+      <title>乐浦热键</title>
+      <link>https://www.opensourceagenda.com/projects/leptos-hotkeys</link>
+      <description><![CDATA[在 leptos 应用程序中使用键盘快捷键 + 回调的声明方式]]></description>
+      <guid>https://www.opensourceagenda.com/projects/leptos-hotkeys</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>失望</title>
-      <link>https://www.opensourceagenda.com/projects/dioma</link>
-      <description><![CDATA[适用于普通 JavaScript 和 TypeScript 的优雅依赖注入容器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dioma</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:25 GMT</pubDate>
+      <title>超级启用</title>
+      <link>https://www.opensourceagenda.com/projects/hyperenable</link>
+      <description><![CDATA[重新绑定 ctrl+shift+alt+win（也称为 Office 或超级键）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hyperenable</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>V 块</title>
-      <link>https://www.opensourceagenda.com/projects/v-chonk</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/v-chonk</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:25 GMT</pubDate>
+      <title>反应键盘快捷键</title>
+      <link>https://www.opensourceagenda.com/projects/react-keyboard-shortcuts</link>
+      <description><![CDATA[一个声明性库，用于根据 React 应用程序中的显式优先级处理热键]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-keyboard-shortcuts</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>神经兰吉洛 DFD</title>
-      <link>https://www.opensourceagenda.com/projects/neuralangelo-dfd</link>
-      <description><![CDATA[利用方向有限差分 (DFD) 加速类 NeuS 多视图重建中的 SDF 梯度计算基于补丁的采样。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/neuralangelo-dfd</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:25 GMT</pubDate>
+      <title>热键监听器</title>
+      <link>https://www.opensourceagenda.com/projects/hotkeylistener</link>
+      <description><![CDATA[用于注册系统范围热键的库，可用于触发 .NET 应用程序中的功能。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hotkeylistener</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>拱形BSPWM</title>
-      <link>https://www.opensourceagenda.com/projects/arch-bspwm</link>
-      <description><![CDATA[此存储库保存了 Arch Linux 上 BSPWM 环境的自定义配置。供参考或根据个人喜好改编。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arch-bspwm</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:24 GMT</pubDate>
+      <title>OBS 聊天垃圾邮件</title>
+      <link>https://www.opensourceagenda.com/projects/obs-chatspam</link>
+      <description><![CDATA[在 Twitch 聊天中发布消息的 OBS Studio 的 Python 脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/obs-chatspam</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>Arc Arch Linux 安装指南</title>
-      <link>https://www.opensourceagenda.com/projects/arc-arch-linux-installation-guide</link>
-      <description><![CDATA[Arch linux 安装指南 (Wayland)：btrfs、pipewire、sway、 ly、wofi、waybar、dunst、脚]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arc-arch-linux-installation-guide</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:24 GMT</pubDate>
+      <title>通用 3D 快捷方式</title>
+      <link>https://www.opensourceagenda.com/projects/universal-3d-shortcuts</link>
+      <description><![CDATA[统一多个 3D 应用程序体验的键盘快捷键和命令参考]]></description>
+      <guid>https://www.opensourceagenda.com/projects/universal-3d-shortcuts</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 工作区</title>
-      <link>https://www.opensourceagenda.com/projects/linux-workspace</link>
-      <description><![CDATA[这是有史以来最伟大的管理]]></description>
-      <guid>https://www.opensourceagenda.com/projects/linux-workspace</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:24 GMT</pubDate>
+      <title>布赖内斯科特·克罗珀</title>
+      <link>https://www.opensourceagenda.com/projects/brhinescot-cropper</link>
+      <description><![CDATA[指向并拍摄屏幕截图]]></description>
+      <guid>https://www.opensourceagenda.com/projects/brhinescot-cropper</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
-      <title>GoudAI</title>
-      <link>https://www.opensourceagenda.com/projects/goudai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/goudai</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:24 GMT</pubDate>
+      <title>工具带.Blazor.HotKeys2</title>
+      <link>https://www.opensourceagenda.com/projects/toolbeltblazorhotkeys2</link>
+      <description><![CDATA[这是一个类库，为您的 Blazor 应用提供以配置为中心的键盘快捷键。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/toolbeltblazorhotkeys2</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
-      <title>7KIR7 点</title>
-      <link>https://www.opensourceagenda.com/projects/7kir7-dots</link>
-      <description><![CDATA[我的点文件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/7kir7-dots</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:23 GMT</pubDate>
+      <title>Radj307 音量控制</title>
+      <link>https://www.opensourceagenda.com/projects/radj307-volume-control</link>
+      <description><![CDATA[Windows 特定应用程序音量控制热键。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/radj307-volume-control</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
-      <title>工作流程点文件</title>
-      <link>https://www.opensourceagenda.com/projects/workflow-dotfiles</link>
-      <description><![CDATA[💫 NixOS 配置文件 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/workflow-dotfiles</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:23 GMT</pubDate>
+      <title>雷凯斯</title>
+      <link>https://www.opensourceagenda.com/projects/reakeys</link>
+      <description><![CDATA[⌨️ React 热键挂钩。由@goodcodeus 维护。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/reakeys</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
-      <title>云配置</title>
-      <link>https://www.opensourceagenda.com/projects/awan-cfg</link>
-      <description><![CDATA[我的类 Unix 操作系统的点文件...]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awan-cfg</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:23 GMT</pubDate>
+      <title>Q热键</title>
+      <link>https://www.opensourceagenda.com/projects/qhotkey</link>
+      <description><![CDATA[桌面 Qt 应用程序的全局快捷方式/热键]]></description>
+      <guid>https://www.opensourceagenda.com/projects/qhotkey</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>新牛仔裤</title>
-      <link>https://www.opensourceagenda.com/projects/newjeans</link>
-      <description><![CDATA[2022 年 12 月的 Dotfile | I3WM |玫瑰松配色方案]]></description>
-      <guid>https://www.opensourceagenda.com/projects/newjeans</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:23 GMT</pubDate>
+      <title>VD.ahk</title>
+      <link>https://www.opensourceagenda.com/projects/vdahk</link>
+      <description><![CDATA[Windows 虚拟桌面、AutoHotkey、Windows 11 支持、Windows Server 2022、切换桌面、移动窗口(wintitle)到当前桌面； createDesktop、PinWindow、getCount、getDesktopNumOfWindow -&gt; 将虚拟桌面中的所有窗口静音]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vdahk</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>Sameemul Haque 点文件</title>
-      <link>https://www.opensourceagenda.com/projects/sameemul-haque-dotfiles</link>
-      <description><![CDATA[✨ Hyprland + Waybar 与 Catppuccin 主题 • Arch Linux]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sameemul-haque-dotfiles</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:22 GMT</pubDate>
+      <title>自由自动化</title>
+      <link>https://www.opensourceagenda.com/projects/libreautomate</link>
+      <description><![CDATA[适用于 Windows 的 C# 脚本编辑器和自动化库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/libreautomate</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>战斗鱿鱼点文件</title>
-      <link>https://www.opensourceagenda.com/projects/battlesquid-dotfiles</link>
-      <description><![CDATA[我的个人点文件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/battlesquid-dotfiles</guid>
-      <pubDate>Wed, 03 Apr 2024 15:13:22 GMT</pubDate>
+      <title>Kencx 键盘</title>
+      <link>https://www.opensourceagenda.com/projects/kencx-keyb</link>
+      <description><![CDATA[在终端中创建和查看自定义热键备忘单]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kencx-keyb</guid>
+      <pubDate>Wed, 03 Apr 2024 18:16:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
