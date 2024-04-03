@@ -4,34 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 18:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 21:11:18 GMT</lastBuildDate>
+    <item>
+      <title>人工智能的哪些领域涉及视频游戏人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bv3va3/what_fields_of_ai_deal_with_video_game_ai/</link>
+      <description><![CDATA[人工智能新手，完全没有经验，但希望今年夏天讲故事课程并找出我感兴趣的内容。到目前为止，计算机视觉已经达到了我的兴趣顶峰。我也对人工智能和视频游戏感到好奇，这叫什么领域，我要学什么课程？谢谢   由   提交 /u/MusicCityRebel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bv3va3/what_fields_of_ai_deal_with_video_game_ai/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能从法律文件中提取文本并进行总结</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bv3noj/ai_for_extracting_text_from_legal_documents_and/</link>
+      <description><![CDATA[我一直在用 Google 的 Gemini 进行一些实验，向其提供图像文件，并让它提取文本、总结文本并将其吐出JSON 格式。我不能 100% 确定这是否是最好的选择。是否有更复杂的模型专注于土地授予、契约、保证、宣誓书等？ 我特别需要它能够识别日期、签名、授予者/受让人姓名，并提供可重现的输出准确率高达 95% 以上。有什么想法我应该从哪里开始寻找吗？我精通Python编写，所以我的计划是使用Gemini API，但如果它是一个可以安装在本地硬件上并且一次性消耗硬件成本的解决方案就更好了？    由   提交/u/valdier  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bv3noj/ai_for_extracting_text_from_legal_documents_and/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果探索家庭机器人作为汽车失败后潜在的“下一件大事”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bv2zw2/apple_explores_home_robotics_as_potential_next/</link>
+      <description><![CDATA[https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning -car-efforts?srnd=homepage-middle-east   由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bv2zw2/apple_explores_home_robotics_as_potential_next/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在什么情况下会终结人类？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bv27p0/in_what_scenarios_could_ai_end_humanity/</link>
+      <description><![CDATA[我越来越多地听到人工智能有很大机会终结人类，在什么情况下会发生这种情况？我只是不明白这是怎么发生的。如果有人可以，请列出一些可能的场景   由   提交 /u/Available_Crew_9079   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bv27p0/in_what_scenarios_could_ai_end_humanity/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为音频转录项目寻求最佳人工智能工具的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bv21vp/seeking_recommendations_on_best_ai_tool_for_an/</link>
+      <description><![CDATA[我正在开发一个个人项目，并正在寻找资源来帮助完成一些任务。对于这个项目，我有两个人之间的对话录音需要转录。转录后，我希望能够让 AI 提供对话摘要并提取关键数据，例如日期、地点和提到的人物。 我一直在使用 Parrot AI（仅限免费版）到目前为止的版本）用于转录，它在摘要方面做得很好，但似乎无法提取数据。 我愿意支付订阅费，因为它的录音数量相当大。  如果您能提供有关最佳资源的建议或建议，我将不胜感激！   由   提交 /u/sadwell   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bv21vp/seeking_recommendations_on_best_ai_tool_for_an/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:39:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成我自己的训练数据</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bv0kp2/generating_my_own_data_for_training/</link>
+      <description><![CDATA[我想训练一个神经网络来代替我对 HTML 画布上的随机简单圆形和矩形进行评分。 我自己完成了大约 1300 次评级。它产生了一些有趣的结果，但我认为我需要更多的数据。 然后我想，如果我有更多的数据，它只会对其进行评级，这样它只会符合我的口味。  &gt; 这可能会阻止 NN 对有趣/令人惊讶的作品给予良好的评级，因为这些作品的功能尚未向我展示，因此没有对这些作品的评级。  所以我想尝试为未经训练的网络提供一些随机的简单艺术（圆形和矩形是格式）。并让它自己得分，因为它已经有一种趋势（只是可能不适合我们的得分衡量标准）。  然后我想给出 1000 个未经训练的模型数据集，并从中获取它们的评分，并汇总数据集的分数，以训练另一个主神经网络，以尝试选择高分的作品/艺术品对 1000 个模型进行评分。  但后来我想，如果一个模型对一个模型给予很高的评价，那么它可能会被另一个模型抵消。所以我认为我需要离开来区分“好”的差异/方向;和“坏”非常广泛。由于偏好是基于多个维度的，因此我必须简化并从“坏”的角度进行思考。和“好”品尝。假设您喜欢一部电影，而您的朋友不喜欢，那么就不能保证，但如果播放另一部电影而您的朋友不喜欢它，那么在没有任何其他因素的情况下，我认为您有更高的可能性会喜欢它喜欢它。所以只是基于 1 个方向的东西。 然后我想为我的所有模型提供 2 个已知的评级，我选择的显然一个更高，因为它看起来比另一个更令人愉悦。 然后我可以看看未经训练的模型的预测，看看评级是否具有相同的方向，例如前 2 个评级的较高和较低评级，如果是，则保留这些评级。如果不只是翻转标志，那么该模型的好就意味着在我看来不好，反之亦然。我正在测试这个理论。感谢您的阅读。我喜欢听到对此的评论。根据 ChatGPT，这是未知领域，因此它可能无效。但如果是这样，那么当我们可以创建真实数据时，这将节省大量资源来尝试收集它们。   由   提交/u/tran_stupid_head   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bv0kp2/generating_my_own_data_for_training/</guid>
+      <pubDate>Wed, 03 Apr 2024 18:44:37 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能创新每日纪事 2024 年 4 月 3 日 🔍Google 的 Gecko：LLM 驱动的文本嵌入突破 🔓 Anthropic 的“多次越狱”削弱了人工智能伦理 🌌CosmicMan 实现了逼真的人类图像生成 🎮 微软计划在其中添加一个人工智能聊天机器人Xbox</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buzrfb/a_daily_chronicle_of_ai_innovations_april_03rd/</link>
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buzrfb/a_daily_chronicle_of_ai_innovations_april_03rd/</guid>
       <pubDate>Wed, 03 Apr 2024 18:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在根据提示创建 STERIO 音乐：新推出的稳定音乐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buz3ao/now_create_sterio_music_from_prompt_newly/</link>
-      <description><![CDATA[我一直在 SaaS 开发和发布的世界中工作，每周有关此类 SaaS 的新闻都让我感到惊讶。今晚，Stability Audio 宣布了其最新版本，该版本可通过提示符生成可用于商业用途的立体声音频。 主页上的示例提示符为：Soulful Boom Bap Hip Hop 乐器、庄严效果钢琴、SP-1200、低音-关键摇摆鼓，正弦波低音，有个性，平和，有趣，编曲良好，90 BPM ​ 我无法停止自己的想象接下来会发生什么。 ​ 所以现在您可以动态创建高质量视觉特效 (SORA)，生成高质量图像（稳定扩散），现在生成高质量音频和背景乐谱具有稳定的音频。  ​ 我相信电影和娱乐行业将在未来一年（或几个月）遭受重创。您认为还会影响哪些地方？  如果您尝试并在评论中发布提示，我会很高兴。 ​ URL：https://stableaudio.com/ ​ ​    由   提交/u/aureliatech  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buz3ao/now_create_sterio_music_from_prompt_newly/</guid>
-      <pubDate>Wed, 03 Apr 2024 17:48:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解如何免费使用 ChatGPT Next Web (NextChat)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buyxx1/learn_how_to_use_chatgpt_next_web_nextchat_for/</link>
-      <description><![CDATA[ChatGPT Next Web（现称为 NextChat）是一款聊天机器人应用程序，使用户能够访问来自 OpenAI 和 Google AI 的高级 AI 模型。该应用程序是轻量级的，并且包含增强用户体验的功能。 在本教程中，我们将学习如何免费获取 Google AI API 并使用 ChatGPT Next Web 生成响应。此外，我们将学习如何在 Windows 11 上本地使用它。最后，我们将在一分钟内在 Vercel 上部署我们自己的 Web 应用程序。 ​ 链接：https://www.kdnuggets.com/learn-如何免费使用chatgpt-next-web-nextchat   由   提交 /u/kingabzpro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buyxx1/learn_how_to_use_chatgpt_next_web_nextchat_for/</guid>
-      <pubDate>Wed, 03 Apr 2024 17:42:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>MobileEyes 技术是赢家吗？该股票值得买入吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buxpcw/is_mobileeyes_tech_a_winner_is_the_stock_a_buy/</link>
-      <description><![CDATA[mobileye 是一项不错的投资吗？ 我认为 Waymo 是这一切的赢家，但我想知道是否还有空间MobileEyes 技术也非常有价值。 有人认为这是一笔不错的投资吗？   由   提交 /u/SeperentOfRa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buxpcw/is_mobileeyes_tech_a_winner_is_the_stock_a_buy/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:55:32 GMT</pubDate>
     </item>
     <item>
       <title>每日两分钟 AI 更新（日期：2024 年 4 月 3 日）：来自 DeepMind、Anthropic、Microsoft、Cloudflare 等的新闻</title>
@@ -43,7 +64,7 @@
     <item>
       <title>我的校长将他的种族主义者音频泄露归咎于人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buw6dp/my_principal_blamed_a_racist_leaked_audio_of_him/</link>
-      <description><![CDATA[我以前的高中校长被录音对学生和家长说了种族主义的话，并且音频被泄露给新闻。在此之前我对他并没有什么看法，但我在现实生活中认识的很多人以及当地 Reddit 版块和 Twitter 上的人们都表示他们一点也不感到惊讶。我知道音频听起来与他的用词选择和说话方式一模一样。 他将音频归咎于人工智能，新闻也随之而来，所以看起来他会侥幸逃脱惩罚。这很烦人，因为所有的家长都立即接受了这一点，并开始谈论这种情况可能发生在任何人身上是多么可怕，并比较像巴拉克奥巴马人工智能歌曲这样的案例，不明白他只是一个随机的校长而不是公众人物。直到其他人开始猜测他才说这是人工智能，这对我来说也很可疑。  所以我想知道，对于一个人来说，从零开始创建一个只有几个在线视频的随机人的语音模块有多困难，是否有人愿意听一下&lt; a href=&quot;https://www.youtube.com/watch?v=WT-2p832IMk&quot;&gt;音频并说出您的想法。谢谢。    由   提交 /u/flockl   [链接] [评论]]]></description>
+      <description><![CDATA[我以前的高中校长被录音对学生和家长说了种族主义的话，并且音频被泄露给新闻。在此之前我对他并没有什么看法，但我在现实生活中认识的很多人都表示，他们一点也不感到惊讶，当地 Reddit 版块和 Twitter 上的人也是如此。我知道音频听起来与他的用词选择和说话方式一模一样。 他将音频归咎于人工智能，新闻也随之而来，所以看起来他会侥幸逃脱惩罚。这很烦人，因为所有的家长都立即接受了这一点，并开始谈论这种情况可能发生在任何人身上是多么可怕，并比较像巴拉克奥巴马人工智能歌曲这样的案例，不明白他只是一个随机的校长而不是公众人物。直到其他人开始猜测他才说这是人工智能，这对我来说也很可疑。  所以我想知道，对于一个人来说，从零开始创建一个只有几个在线视频的随机人的语音模块有多困难，是否有人愿意听一下&lt; a href=&quot;https://www.youtube.com/watch?v=WT-2p832IMk&quot;&gt;音频并说出您的想法。谢谢。    由   提交 /u/flockl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buw6dp/my_principal_blamed_a_racist_leaked_audio_of_him/</guid>
       <pubDate>Wed, 03 Apr 2024 15:56:22 GMT</pubDate>
     </item>
@@ -55,16 +76,9 @@
       <pubDate>Wed, 03 Apr 2024 14:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>文本转换：从输入文件生成输出文件</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buth5s/text_transformation_generating_output_files_from/</link>
-      <description><![CDATA[文本转换：训练模型从输入文件生成输出文件 您好，我目前正在开发一个项目，该项目包括“翻译”文件从一种格式转换为另一种格式，我使用了带有映射的编程方法，该映射将输入文件中的每个模式与输出中的方便模式链接起来，编写映射和执行转换的类非常困难，此外，我每次我想要一种新的格式或调整时，都应该写一个新的，所以我决定用一个可以用数千个输入文件及其各自的输出进行尝试的模型来替换整个东西，这里有一个小例子可以给你一个想法：来自输入文件的块：DIM+1.800:0.400:500:CT+12，在输出中转换为 XML 标记：1.800&lt;\height&gt; &lt;长度&gt;0.400&lt;\长度&gt; &lt;宽度&gt;500&lt;\宽度&gt;所以基本上，第一行就是我们所说的“段”它以 3 个字母的首字母缩略词开头，正如您所看到的，它代表尺寸，并转换高度、长度和宽度，如图所示，输入文件是一系列片段，例如尺寸、日期、地址等，输出可能是 XML 或其他东西，但我猜模型的逻辑不会有很大不同，我可以将其调整为其他格式，这怎么能做到呢？？？谢谢   由   提交 /u/rickwheelersr4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buth5s/text_transformation_generating_output_files_from/</guid>
-      <pubDate>Wed, 03 Apr 2024 14:06:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Sam Altman 放弃了 OpenAI 创业基金的控制权，解决了不寻常的企业风险结构</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bupwn5/sam_altman_gives_up_control_of_openai_startup/</link>
-      <description><![CDATA[OpenAI 向 TechCrunch 证实，OpenAI 首席执行官 Sam Altman 已将同名公司指定企业风险基金的正式控制权转让给 Ian Hathaway   OpenAI 创业基金于 2021 年推出，最初由 Altman 作为指定控制人设立。如果他在 11 月份短暂被罢免后没有重新担任 OpenAI 首席执行官，那么这一安排可能会给公司带来重大问题。  有趣的是，看起来 Altman 确实正在“清理”OpenAI 的企业/业务方面。他们最近完成了一项估值为 800 亿美元的融资交易，并希望为一家“芯片企业”筹集数万亿美元。这是通往 IPO 的漫长道路的开始吗？  https://techcrunch.com/2024/04/01/sam-altman-gives-up-control-of-openai-startup-fund-resolving-unusual-corporate-venture-struct/    由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <description><![CDATA[OpenAI 向 TechCrunch 证实，OpenAI 首席执行官 Sam Altman 已将同名公司指定企业风险基金的正式控制权转让给 Ian Hathaway   OpenAI 创业基金于 2021 年推出，最初由 Altman 作为指定控制人设立。如果他在 11 月份短暂被罢免后没有重新担任 OpenAI 首席执行官，那么这一安排可能会给公司带来重大问题。  有趣的是，看起来 Altman 确实正在“清理”OpenAI 的企业/业务方面。他们最近完成了一项估值为 800 亿美元的融资交易，并希望为一家“芯片企业”筹集数万亿美元。这是通往IPO的漫长道路的开始吗？  https://techcrunch.com/2024/04/01/sam-altman-gives-up-control-of-openai-startup-fund-resolving-unusual-corporate-venture-struct/    由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bupwn5/sam_altman_gives_up_control_of_openai_startup/</guid>
       <pubDate>Wed, 03 Apr 2024 11:11:15 GMT</pubDate>
     </item>
@@ -76,13 +90,6 @@
       <pubDate>Wed, 03 Apr 2024 10:20:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Copilot Studio 和 Copilot pro 的采用在网上如此安静？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buidvm/why_is_the_adoption_of_copilot_studio_and_copilot/</link>
-      <description><![CDATA[Reddit 子版块非常小，几乎没有帖子，facebook、X 都一样。有人使用这些工具吗？我感受到了 openAI 的吸引力，但许多企业无法或不愿意将其引入内部。但如果他们是微软的 Azure 商店，他们很可能会采用 Copilot。预先感谢您的意见。    由   提交 /u/Titos-Airstream-2003   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buidvm/why_is_the_adoption_of_copilot_studio_and_copilot/</guid>
-      <pubDate>Wed, 03 Apr 2024 03:18:42 GMT</pubDate>
-    </item>
-    <item>
       <title>乔恩·斯图尔特提出了我们许多人多年来一直在问的问题。 AI的最终结局是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bucos6/jon_stewart_is_asking_the_question_that_many_of/</link>
       <description><![CDATA[https://youtu.be/20TAkcy3aBY ?si=u6HRNul-OnVjSCnf 是的，我是婴儿潮一代。但我也完全了解世界上正在发生的事情，因此将我的糟糕态度归咎于我的年龄在这里并没有多大帮助，而且我感觉这将是这里许多人的下意识反应。这远不准确。  请告诉我，随着人工智能越来越融入（或完全融入）我们的生活，您如何看待世界的变化。请说明一下。    由   提交 /u/WhatsYour20GB   [链接] [评论]]]></description>
@@ -90,14 +97,7 @@
       <pubDate>Tue, 02 Apr 2024 22:57:53 GMT</pubDate>
     </item>
     <item>
-      <title>我的同事让 14 名法学硕士在 314 场《街头霸王 III》比赛中相互对战。克劳德 3俳句是现任领导者。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1btzusp/my_coworker_made_14_llms_fight_each_other_in_314/</link>
-      <description><![CDATA[我的同事决定让基准测试变得更加令人兴奋，他使用 Amazon Bedrock 让一群法学硕士参加了 300 多场街头霸王 III 比赛。然后他创建了一个受国际象棋启发的 Elo 评级系统来对他们的表现进行排名。查看：https://community。 aws/content/2dbNlQiqKvUtTBV15mHBqivckmo/14-llms-fought-314-street-fighter-matches-here-s-who-won    ;由   提交/u/thedaveperry1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1btzusp/my_coworker_made_14_llms_fight_each_other_in_314/</guid>
-      <pubDate>Tue, 02 Apr 2024 14:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

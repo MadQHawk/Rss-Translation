@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 18:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 21:12:17 GMT</lastBuildDate>
     <item>
-      <title>我有一些人不明白我的网站所传达的内容。是不是少了什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buzrv5/i_have_a_got_a_few_people_who_dont_understand/</link>
-      <description><![CDATA[好吧，首先，之前的网站非常简单，只有英雄、解决方案（以前的标题为 OneMix）、定价（用于预订）仅）和常见问题解答。 我改进了它并添加了问题解决方案部分，关于我，视频演示，并改进了常见问题解答。 我仍然收到一些人说看完视频后我不知道你们的产品有什么作用。 我需要一些观点。这里可能缺少什么并且可以改进？ https://saask.ing    由   提交 /u/AdityaSaroj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buzrv5/i_have_a_got_a_few_people_who_dont_understand/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:14:26 GMT</pubDate>
+      <title>婴儿潮一代友好的 UI 规则？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv3s6s/boomerfriendly_ui_rules/</link>
+      <description><![CDATA[长话短说， 我完成了一个网站，正在设计它的样式。 我需要应用哪些一般的婴儿潮一代友好的 UI 规则？ 例如在我的标题中， 我有一个深色模式按钮，我想知道是否我需要一些像“黑暗模式”这样的文字来指示按钮的功能。 网站的徽标是可点击的，它会返回主页。我想知道我是否应该有一个单独的“家”对于那些不直观地知道徽标是可点击的人来说，按钮。 字体/文本又如何？我猜测较粗和较大的字体对婴儿潮一代更友好。 我应该了解这样的内容？   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv3s6s/boomerfriendly_ui_rules/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>脚本崩溃帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buzqgg/script_crashing_help/</link>
-      <description><![CDATA[我正在为静态网站制作一个有趣的小嵌入式工具，我希望它能够从父窗口（iframe 的父窗口）继承样式表规则）但这比我想象的要难。经过彻底的研究，我想出了这个脚本， JavaScript if(window.parent){ var head = document.getElementsByTagName(&quot;head&quot;)[0]; var arrStyleSheets = window.parent.document.getElementsByTagName(&quot;style&quot;); // 获取所有样式标签 for(var i = 0; i &lt; arrStyleSheets.length; i++){ head.appendChild(arrStyleSheets[i].cloneNode(true)); console.log(1) } arrLinks = window.parent.document.getElementsByTagName(“link”); // 获取任何链接标签，用于自定义字体或嵌入/源 CSS 文件 if(arrLinks &amp;&amp; arrLinks.length &gt; 0){ for(var i = 0; i &lt; arrLinks.length; i++){ head. appendChild(arrLinks[i].cloneNode(true)); } } } else { // 该网站没有嵌入框架中 }  但是当我运行这个时，它会冻结我在 Chrome 上的选项卡。我无法打开开发工具，网站陷入无限加载状态。有人能发现我的错误吗？或者向我解释一下为什么会崩溃？当我删除此脚本时，代码恢复正常。   由   提交/u/xerrabyte  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buzqgg/script_crashing_help/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:12:54 GMT</pubDate>
+      <title>你们会做什么来保持自己的技能敏锐？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv3jp6/what_do_you_guys_do_to_keep_your_skills_sharp/</link>
+      <description><![CDATA[正如标题所提到的，你们如何保持技能敏锐？我是自学的，没有网络开发工作，所以除了做项目之外我没有办法提高。问题是，在开发了我的第一个全栈项目后，我不知道下一步该做什么。你们如何获得下一个项目的提示，或者如何指示下一步该做什么？   由   提交/u/_Koke_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv3jp6/what_do_you_guys_do_to_keep_your_skills_sharp/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:37:26 GMT</pubDate>
     </item>
     <item>
-      <title>什么样的浏览器内视频播放器有这个控制栏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buzhty/what_kind_of_inbrowser_video_player_has_this/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/zuex6z5i0bsc1.jpg?width=1276&amp;format=pjpg&amp; ;auto=webp&amp;s=99ca9b9c1618bf2b7d6776c680fac5fa0df29d07 此外，有谁知道我如何可能通过检查工具链接下载此播放器运行的视频？  我希望能够将其上传到其他视频播放器平台，以便我可以生成字幕并以不同的速度播放视频。  &amp; #32；由   提交/u/phaeris_r_kuul  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buzhty/what_kind_of_inbrowser_video_player_has_this/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:03:40 GMT</pubDate>
+      <title>为身份验证微服务实施洋葱架构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv33bc/implementing_onion_architecture_for_an/</link>
+      <description><![CDATA[大家好， 我正在开发一个项目，需要编写一个负责身份验证的微服务，其中包括验证通过电子邮件和电话向用户发送信息、创建 OTP 质询、验证和创建 JWT 令牌等任务。该项目并不涉及太多复杂的“业务”。逻辑，老实说。但是，我不确定逻辑的哪些部分应该驻留在域或应用程序层中。例如，使用电子邮件的登录过程涉及检查用户是否存在（也验证电子邮件），然后返回要执行的下一步以及确认令牌。到目前为止，我已经在域层下实现了用户验证，其中还存在其他策略，例如电话和电子邮件验证。应用层本质上是将基础设施请求定向到相应的域策略。确认令牌的创建是在应用程序层处理的，因为它似乎不是核心业务逻辑的一部分。不过，我感觉有些不太对劲。我希望得到经验丰富的退伍军人的第二意见。 提前致谢！   由   提交 /u/rhancav   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv33bc/implementing_onion_architecture_for_an/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>建立了一个以MySql为商店的电子商务网站后，应该使用什么工具将销售数据制作成业务报表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buymwt/after_building_an_ecommerce_website_with_mysql_as/</link>
-      <description><![CDATA[如果我构建了一个正常运行的电子商务网站，现在需要专注于使用销售数据创建报告，我应该使用什么工具？ 我是否应该将 MySql 中的销售数据导出为另一种格式，以供另一个报表生成系统（例如 Crystal Reports）使用？ 我应该直接从数据库查询数据并直接创建条形图吗？ 我应该直接从数据库查询数据并直接创建条形图吗？ p&gt; 您使用什么商业智能工具来连接 MySql？   由   提交/u/phatangus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buymwt/after_building_an_ecommerce_website_with_mysql_as/</guid>
-      <pubDate>Wed, 03 Apr 2024 17:30:26 GMT</pubDate>
+      <title>请反应帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv2woh/react_help_please/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv2woh/react_help_please/</guid>
+      <pubDate>Wed, 03 Apr 2024 20:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>有什么好的地方可以获取反馈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buyak5/any_good_places_to_go_to_receive_feedback/</link>
-      <description><![CDATA[我不想用这个空间来“评价我的工作”。我对此很陌生，希望获得有关优秀 Web 开发人员所做工作的重要反馈。我想了解好的/最佳实践并学习避免坏习惯。  我目前正在建立自己的网站，以实现个人成长和学习。目前在 Mac 上使用 VS Code，仅使用 HTML 和 CSS。  我非常乐意分享迄今为止完成的代码。如果可以的话我会发帖。 谢谢！    由   提交 /u/Pretend_Acadia8390   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buyak5/any_good_places_to_go_to_receive_feedback/</guid>
-      <pubDate>Wed, 03 Apr 2024 17:17:22 GMT</pubDate>
+      <title>为什么基于开源 js 的 CMS 和电子商务系统只能执行其中之一？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv2j8p/why_do_open_source_js_based_cmss_and_ecommerce/</link>
+      <description><![CDATA[我正在查看各种服务，我很快注意到从来没有任何 CMS 或电子商务系统集成到其中。比如Strapi，只做内容管理，不做电子商务，然后medusajs，只做电子商务。然后还有大量的服务，就像前面提到的两个一样，但它们只执行其中之一。   由   提交/u/Jordz2203  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv2j8p/why_do_open_source_js_based_cmss_and_ecommerce/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:58:12 GMT</pubDate>
     </item>
     <item>
-      <title>用于交换表单部分的路由与纯 CSS 过渡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buy8xw/routing_vs_pure_css_transition_for_swapping_form/</link>
-      <description><![CDATA[请原谅我的设计愚蠢，我不是 UI/UX 工程师。 我有一个 Web 表单。您将到达英雄部分。我希望在单击“开始”按钮后，英雄部分将过渡，第一个表单部分将过渡。 更好的做法是： - 让英雄与表单的每个部分（总共两个部分）作为单独的组件，我在它们之间链接/路由； - 将所有内容放在一起或延迟导入或其他什么，并使用 CSS 在部分之间进行转换； - 其他一些东西 我正在使用 React &amp; Daisy UI/Tailwind CSS。 如果有更合理或更全面的方法来提出这个问题，我很乐意澄清或更新这篇文章。 谢谢！   由   提交 /u/roynoise   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buy8xw/routing_vs_pure_css_transition_for_swapping_form/</guid>
-      <pubDate>Wed, 03 Apr 2024 17:15:37 GMT</pubDate>
+      <title>托管我的全栈 nextJS 应用程序的最佳位置在哪里，它可以让我拥有 mySQL 数据库和 CDN 存储区域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv2ib8/where_is_the_best_place_to_host_my_full_stack/</link>
+      <description><![CDATA[我有一个 nextJS 应用程序，而且对托管总体来说还很陌生。我想我想将 mySQL 数据库放在同一台服务器上，这是正确的吗？如果是这样，最好、最实惠的托管提供商是什么？ 这就是我需要的： - 托管我的 NextJS 应用程序的区域（app.js 或 npm run start） - 存储用户上传文件的区域 - mySQL 数据库/或任何类型的 SQL 数据库* // 我更喜欢 mySQL 我真的希望它 100% 免费，但我知道生活并不容易，所以有人可以告诉我具有成本效益的产品还是 12 个月试用的产品吗？ 我知道 AWS 是一个不错的产品，但我找不到 12 个月之后的定价信息。个月（我知道 Amplify、RDS 和 S3 是我所需要的（仅 12 个月免费套餐的一部分）） 提前致谢！   由   提交/u/Specialist-Pool1044   reddit.com/r/webdev/comments/1bv2ib8/where_is_the_best_place_to_host_my_full_stack/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv2ib8/where_is_the_best_place_to_host_my_full_stack/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:57:11 GMT</pubDate>
     </item>
     <item>
-      <title>在错误消息中使用动态正则表达式模式处理错误的好方法是什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buxr4y/what_would_be_a_good_way_of_handling_an_error/</link>
-      <description><![CDATA[我正在编写一些角度代码，并且我有一个具有更改正则表达式模式验证的输入，并且我正在尝试考虑一个方式向用户提供基于正则表达式模式的输入中应预期的模式的提示或示例。有谁知道有什么好方法吗？   由   提交/u/OogieBoogie1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buxr4y/what_would_be_a_good_way_of_handling_an_error/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:57:28 GMT</pubDate>
+      <title>我的主页上有一个小视频 - 将其放在 CDN 后面最便宜的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv2cni/ive_got_a_small_video_on_my_homepage_what_is_the/</link>
+      <description><![CDATA[我的主页上有一个视频（大约 1 MB） - 它稍微降低了我的 LCP 指标。 有免费的 CDN 我可以把它放在后面吗？我目前正在使用 Cloudflare 作为 CDN，但由于该视频是从 GCS 提供的，因此不会在此处缓存   由   提交 /u/sondawg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv2cni/ive_got_a_small_video_on_my_homepage_what_is_the/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:51:09 GMT</pubDate>
     </item>
     <item>
-      <title>安全研究员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buxglu/security_researcher/</link>
-      <description><![CDATA[从开发人员的角度来看，安全研究人员的总体看法是什么？现在这是一种可以接受且有用的做法，还是他们仍然被视为“黑客”？    由   提交/u/latte_yen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buxglu/security_researcher/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:46:02 GMT</pubDate>
+      <title>我如何复制这个设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv2a3h/how_do_i_replicate_this_design/</link>
+      <description><![CDATA[   我在 reactflow.dev 我只是想知道如何在我自己的项目中轻松复制它。具体来说，连接展示功能的 2 个图像的点 https://preview.redd.it/i1f0l6dcjbsc1.png?width=836&amp;format=png&amp;auto=webp&amp;s=60debe6aff14794c060dbdb7376feb628752c21e   由   提交 /u/SadEntertainer2541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv2a3h/how_do_i_replicate_this_design/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>Jpegli 简介：新的 JPEG 编码库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bux93a/introducing_jpegli_a_new_jpeg_coding_library/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/McSnoo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bux93a/introducing_jpegli_a_new_jpeg_coding_library/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:38:11 GMT</pubDate>
+      <title>建造这个有多难？ + 工作机会</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv28ap/how_hard_would_it_be_to_build_this_job_opportunity/</link>
+      <description><![CDATA[https://www.copilot .com/solutions/consulting-client-portal 我正在尝试构建一个基于网络的应用程序，该应用程序基本上可以完成链接中软件的功能。  我想创建一个客户门户。他们登录类似于 Discord 的仪表板项目在左侧，主要项目在右侧 数据位于任何项目管理服务（例如 asana、monday、ClickUp）中，我们可以单击，但我不介意为此进行更改。我们能够显示数据和特定于他们的某些 KPI。他们还可以添加门票/截止日期等。 可以嵌入其他功能，例如预订会议、观看活动。  我目前正在使用 squarespace，如果可以在此基础上构建它，那就太棒了。但我认为这是不可能的，从长远来看，我们希望摆脱方形空间。  3个开发商需要多长时间才能建造，费用是多少？这需要什么技术？ 如果有人认为他们可以做到这一点或领导团队以可扩展的方式正确地做到这一点，请给我留言并告诉我。工作机会是可能的。  我们是一家提供简化技术解决方案的非营利组织。    由   提交 /u/MentalDres   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv28ap/how_hard_would_it_be_to_build_this_job_opportunity/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>使用 XSLT 将 XML 元数据交换 (XMI 2.0) 转换为 HTML</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bux8cz/xml_metadata_interchange_xmi_20_to_html/</link>
-      <description><![CDATA[您好！我需要采用 XMI 2.0 结构的 XML 文件并将其内容转换为 HTML，以便以编程方式记录 ETL 开发。 我的第一种方法是使用 XSL 将基于 XMI 2.0 的 XML 文件转换为 HTML文件，但是，我遇到了 XMI 2.0 独特的树结构的问题。即如何编写 XSL 语句以正确引用 XMI 中的对象？它的工作方式似乎与标准 XML 不同，我不确定我所采用的方法是否可行。 我开始使用这种方法，这样我就可以避免为此目的编写完全自定义的解析器。任何对此主题有经验的人都可以提供一些建议或为我指出正确的方向吗？ 关于此主题的任何研究都表明了如何为标准 XML 文件编写 XSL 文件和两篇文章下面链接自 ~2000，但是，它使用 XMI 1.0，并且似乎与我使用 XMI 2.0 的结构不一致。 https://www.objectsbydesign.com/projects/xmi_to_html.html   由   提交 /u/Soggy-Gear1406    reddit.com/r/webdev/comments/1bux8cz/xml_metadata_interchange_xmi_20_to_html/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bux8cz/xml_metadata_interchange_xmi_20_to_html/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:37:22 GMT</pubDate>
+      <title>关于托管的菜鸟问题 - 需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv27va/noob_questions_about_hosting_need_help/</link>
+      <description><![CDATA[大家好， 希望我来对地方，如果不是，请不要杀我。 再见我正在制作 React 应用程序。  小背景： 该 Web 应用程序将包含大量图片，大小可能约为 10GB。  因此，过去我曾在其他一些项目中使用过亚马逊 S3 存储桶。所以这次我尝试了一下，我发现他们有大约 5GB 的可用空间，我想好吧，我会额外支付几美元。为了加快我的工作速度，我做了一些脚本（不是要深入了解它，我有一堆 json 文件，该 json 中的每个对象都包含一堆 url 图像，以便该脚本从 url 下载图像，然后将其上传到亚马逊存储桶，然后用新 url 替换旧 url。仅提及这一点，因为我需要这项新服务也具有这种能力），但后来我发现亚马逊对您发送的获取和放置请求以及最终将访问网络应用程序的用户也有一些限制。  我现在不知道该怎么办，在一篇文章中发现建议使用亚马逊、Wasabi 之类的服务，但最重要的是放置像 cloudflare 这样的 CDN（对此没有什么奇怪的想法，这篇文章的要点是这样便宜了几百万倍）。  ​  我想我的预算大概是 20 美元。  位于欧洲的用户。  我想托管 React 应用程序，但这个问题更像是我应该在哪里托管该 React 应用程序的文件，但也可以，我也想知道在哪里托管我的文件反应应用程序。 :)  每月流量？如果我知道答案就杀了我吧，我的意思是我想一开始我每天会有 20-30 个用户？它可能会增长 没有任何管理 Linux 服务器和基础设施的经验。  是的，我检查了主机列出的服务列表，但对主题一无所知...   谢谢所有愿意帮助我的人。    由   提交 /u/mile1986dasd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv27va/noob_questions_about_hosting_need_help/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:46:04 GMT</pubDate>
     </item>
     <item>
-      <title>您使用 SQL/MySQL 过程或触发器吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bux3r1/do_you_use_sqlmysql_procedure_or_triggers/</link>
-      <description><![CDATA[我自 1999 年以来一直是一名自学成才的 webdev 人员，但 2005 年的大部分时间都在从事 PHP 开发，通常是自定义编码的应用程序。我最近回到学校，在数据库课上我们正在学习过程和触发器，我知道这些，但从未使用过，也没有参与过使用它们的现有项目（我参与过 800 多个项目）我的岁月）。 我很好奇，你使用这些吗？ 就我个人而言，我更喜欢在 PHP 代码中实现它们提供的功能，所以我不确定除非有必要，否则我是否会选择继续使用它们。   由   提交/u/exitof99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bux3r1/do_you_use_sqlmysql_procedure_or_triggers/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:32:22 GMT</pubDate>
+      <title>无明显原因的随机访问量激增 - 95% 访问未知错误 404 页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv1nu6/random_spikes_of_visitors_for_no_apparent_reason/</link>
+      <description><![CDATA[       由   提交/u/CamAnderson56  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv1nu6/random_spikes_of_visitors_for_no_apparent_reason/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:24:54 GMT</pubDate>
     </item>
     <item>
-      <title>Vite/Rollup 支持对您来说有多重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buwlvy/how_important_is_viterollup_support_for_you/</link>
-      <description><![CDATA[我的团队正在优化我们正在构建的新 SDK 的开发人员体验和采用率。我们的SDK目前不支持Vite/Rollup。我们知道工具兼容性可以显着影响开发资源的选择和使用。 考虑到这一背景，我们想问： 缺席的可能性有多大的 Vite 支持让您不愿在新项目中使用特定库？ 查看民意调查   由   提交 /u/dooblr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buwlvy/how_important_is_viterollup_support_for_you/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:13:03 GMT</pubDate>
+      <title>向大家提问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv1c7g/question_for_everyone/</link>
+      <description><![CDATA[哪种 js farmework 最适合 Web 开发...??   由   提交 /u/Angkon01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv1c7g/question_for_everyone/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>PSA：测试您的网页是否符合 BFCache 资格！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buvmss/psa_test_your_webpage_for_bfcache_eligibility/</link>
-      <description><![CDATA[您可能会问 BFCache 是什么？ BFCache 代表向后向前缓存，它是现代浏览器用来在内存中保存完整呈现页面的快照的机制。  这样，当用户向后或向前导航时，页面几乎立即显示，几乎没有任何加载时间。 这有点“自动”工作 - 但有些事情可以阻止您的页面进入 BFCache，例如：  卸载事件侦听器（切勿使用此！） WebUSB HTTP 标头缓存控制: no-store ...  当用户离开时，正在进行的 JS 代码执行会暂停，当用户返回时会恢复执行，就像什么也没发生一样发生了（承诺也是如此！）。 为了方便起见，Chrome 开发工具内置了 BFCache 测试器（应用程序 &gt; 后退/前进缓存） 我创建了一个深入的了解如果您有兴趣了解更多信息：https://youtu.be/ov1mHfOPnG8   由   提交 /u/SabatinoMasala   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buvmss/psa_test_your_webpage_for_bfcache_eligibility/</guid>
-      <pubDate>Wed, 03 Apr 2024 15:34:37 GMT</pubDate>
+      <title>如何使用 Rest API 从 Azure Devops Repo 上传和下载文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv1a4b/how_to_upload_and_download_file_from_azure_devops/</link>
+      <description><![CDATA[我正在尝试将文件上传到 Azure Devops Repo，对其进行处理，然后下载。  使用我当前的api，我可以毫无错误地上传文件，但文件不可见。 下载时，清除浏览器数据后，我可以下载文件。它在 DevOps 中仍然不可见。 实现上传和下载功能的正确原因是什么。 （我只有7个小时来做​​这件事，我以为我会很轻松地工作）   由   提交/u/The_artist_999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv1a4b/how_to_upload_and_download_file_from_azure_devops/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:10:30 GMT</pubDate>
     </item>
     <item>
-      <title>对 Astro 的看法。容易学还是难学？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buv4zf/opinions_on_astro_easy_or_hard_to_learn/</link>
-      <description><![CDATA[我一直在 Astro 上看到视频，宣称它是多么容易学习，也许这只是我个人的看法，但从教程视频来看，事实并非如此看起来很容易学习..或者我正在观看的视频正在做出一些假设。    由   提交/u/beginningofdayz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buv4zf/opinions_on_astro_easy_or_hard_to_learn/</guid>
-      <pubDate>Wed, 03 Apr 2024 15:14:59 GMT</pubDate>
+      <title>二十年不算什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv15jc/twenty_years_is_nothing/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv15jc/twenty_years_is_nothing/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:05:58 GMT</pubDate>
     </item>
     <item>
-      <title>探索 Trie 数据结构</title>
-      <link>https://www.reddit.com/r/webdev/comments/1buuwyw/exploring_the_trie_data_structure/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1buuwyw/exploring_the_trie_data_structure/</guid>
-      <pubDate>Wed, 03 Apr 2024 15:05:59 GMT</pubDate>
+      <title>Gimli Bootstrap：面向 Bootstrap 开发人员的智能 DevTools 扩展</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bv11oo/gimli_bootstrap_the_smart_devtools_extension_for/</link>
+      <description><![CDATA[您好！ 👋 我为 为 Bootstrap 开发者制作了一个 Chrome 扩展，希望您能喜欢发现有用。 这是一个简短的介绍视频。 该扩展程序是 Gimli Tailwind 的分支。但它针对 Bootstrap 开发进行了修改。 自从我上次在项目中使用 Bootstrap 以来已经有一段时间了，我非常感谢任何使用 Bootstrap 的人提供的反馈。 😊   由   提交 /u/JHjertvik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bv11oo/gimli_bootstrap_the_smart_devtools_extension_for/</guid>
+      <pubDate>Wed, 03 Apr 2024 19:02:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
