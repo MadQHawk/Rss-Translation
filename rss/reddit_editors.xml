@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 04 Apr 2024 03:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 06:16:01 GMT</lastBuildDate>
+    <item>
+      <title>帮助解决音频问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1bvdw7d/help_with_audio_issue/</link>
+      <description><![CDATA[我最近为朋友编辑了这篇文章： https://youtu.be/gxSqO3ktCjI?si=aDweXokuksXzNMRD 并且一直收到一些用户在 YouTube 上观看时音频丢失的投诉。我收到的原始文件的音轨中有嗡嗡声，我尝试用人工智能来修复。通过我的耳机、手机和电脑，一切听起来都很好，但显然对其他人来说听起来很奇怪。  我认为这个问题一定是因为我使用的人工智能（声音去除/隔离工具）造成的，但还没有真正弄清楚。  任何帮助都将不胜感激，即使它是建议一个更好的工具来消除麦克风音频中的嗡嗡声。这是在 Premiere Pro 中编辑的 2018 Macbook Pro，32GB RAM。 Premiere Pro 版本 24.1.0。视频文件为 4k MP4，通过 Google Drive 发送   由   提交 /u/streetdiscord   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bvdw7d/help_with_audio_issue/</guid>
+      <pubDate>Thu, 04 Apr 2024 04:07:30 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Final Cut Pro 进行工作。有什么建议或建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1bvccx7/using_final_cut_pro_for_work_any_tips_or_advice/</link>
@@ -27,9 +34,9 @@
       <pubDate>Wed, 03 Apr 2024 22:24:22 GMT</pubDate>
     </item>
     <item>
-      <title>[来自 PREMIERE 的 AVID] 制作样片+代理时，什么是明智的处理方法，以便摄像机文件不会用 8 个空白音频文件填充时间线</title>
+      <title>[来自 PREMIERE 的 AVID] 制作样片+代理时，什么是明智的处理方式，以便摄像机文件不会用 8 个空白音频文件填充时间线</title>
       <link>https://www.reddit.com/r/editors/comments/1bv4b09/avid_coming_from_premiere_when_making/</link>
-      <description><![CDATA[我来自 Premiere Productions 的大型教育项目，使用修改音频非常简单，但不确定 Avid 希望如何完成。谢谢....我本来希望我不必不断地重新学习，但由于首映而离开了一年，这是一个无限循环的重新学习。 🙏🏽   由   提交 /u/ltnv   [链接] [评论]]]></description>
+      <description><![CDATA[我来自 Premiere Productions 的大型教育项目，使用修改音频非常简单，但不确定 Avid 希望如何完成。谢谢....我本来希望我不必不断地重新学习，但由于首映而远离它一年后，这是一个无休止的重新学习循环。 🙏🏽   由   提交 /u/ltnv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bv4b09/avid_coming_from_premiere_when_making/</guid>
       <pubDate>Wed, 03 Apr 2024 21:06:43 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>填充/调整层</title>
       <link>https://www.reddit.com/r/editors/comments/1buyrd2/fill_adjustment_layers/</link>
-      <description><![CDATA[出于某种原因，我的编辑器从不将效果添加到原始剪辑中 - 他更喜欢在 V2、V3、V4 等上使用上面的效果堆叠调整图层/填充图层. 当需要符合准备时，将所有效果应用到实际剪辑是一个巨大的痛苦。 我想知道，XML/AAF 能否从 Premiere 中的调整图层捕获信息？同样，AAF 可以从 Avid 捕获信息填充层吗？ 任何关于如何简化我的工作流程以符合准备的想法都值得赞赏！  &amp;# 32；由   提交/u/axp955  [链接] [评论]]]></description>
+      <description><![CDATA[出于某种原因，我的编辑器从不将效果添加到原始剪辑中 - 他更喜欢在 V2、V3、V4 等上使用效果堆叠调整图层/填充图层. 当需要符合准备时，将所有效果应用到实际剪辑是一个巨大的痛苦。 我想知道，XML/AAF 能否从 Premiere 中的调整图层捕获信息？同样，AAF 可以从 Avid 捕获信息填充层吗？ 任何关于如何简化我的工作流程以符合准备的想法都值得赞赏！  &amp;# 32；由   提交/u/axp955  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1buyrd2/fill_adjustment_layers/</guid>
       <pubDate>Wed, 03 Apr 2024 17:35:15 GMT</pubDate>
     </item>
     <item>
       <title>您在哪个查看器伽玛中进行编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1buyhhg/which_viewer_gamma_do_you_edit_in/</link>
-      <description><![CDATA[我终于能够弄清楚为什么我的视频颜色在 Quicktime 和在线 (Chrome/Safari) 中与在 Premiere Pro 中看起来不同。简单的答案是，没有普遍接受的显示标准，默认情况下，Premiere 已将色彩空间设置为 2.4 广播标准 Gamma。另一方面，Quicktime 和其他互联网浏览器使用 1.96 Gamma。在 Quicktime、Chrome 或 Safari 中查看导出的视频（在 Mac 上）时，颜色显得饱和度较低，并且黑色电平被冲淡。 话虽如此，随着 Premiere Pro 2024 的发布，您可以可以通过单击“设置”将观众伽玛设置为 2.4 Broadcast、2.2 Web 或 1.96 Quicktime在 Lumetri 面板中。我想问其他在 Premiere Pro 中进行色彩分级的编辑人员（我想是超出范围的），您使用什么查看器伽玛进行编辑？ 我这些天制作的大部分内容只能在 YouTube 上看到或社交媒体（笔记本电脑和智能手机）。对我来说，将查看器伽马设置为 1.96 Quicktime 并导出到 H.264 更有意义，而无需像我过去那样添加任何额外的 Quicktime 补偿 LUT。如果我最终不得不制作电视广告，我会将观众伽马设置为 2.4 Broadcast。或者也许将我的观众伽玛设置为 2.2 Web 会更明智，因为这是最好的中间立场？如果只有一个普遍接受的观看标准，那就太好了，这样我们只需编辑并剔除单一颜色的导出，但这充其量只是一个白日梦。 很想知道其他人的想法. 我认为这篇文章以简洁明了的方式很好地解释了伽玛问题： https:// digitalfilms.wordpress.com/2023/10/12/premiere-pro-tackles-the-gamma-bug/#:\~:text=3%20viewer%20gamma%20levels%20are,%2C%20with%202.2%20in% 2D之间.   由   提交 /u/TheWampaSlayer   [链接] [评论]]]></description>
+      <description><![CDATA[我终于能够弄清楚为什么我的视频颜色在 Quicktime 和在线 (Chrome/Safari) 中与在 Premiere Pro 中看起来不同。简单的答案是，没有普遍接受的显示标准，默认情况下，Premiere 已将色彩空间设置为 2.4 广播标准 Gamma。另一方面，Quicktime 和其他互联网浏览器使用 1.96 Gamma。在 Quicktime、Chrome 或 Safari 中查看导出的视频（在 Mac 上）时，颜色显得饱和度较低，并且黑色电平被冲淡。 话虽如此，随着 Premiere Pro 2024 的发布，您可以可以通过单击“设置”将观众伽玛设置为 2.4 Broadcast、2.2 Web 或 1.96 Quicktime在 Lumetri 面板中。我想问其他在 Premiere Pro 中进行色彩分级的编辑人员（我想是超出范围的），您使用什么查看器伽玛进行编辑？ 我这些天制作的大部分内容只能在 YouTube 上看到或社交媒体（笔记本电脑和智能手机）。对我来说，将查看器伽马设置为 1.96 Quicktime 并导出到 H.264 更有意义，而无需像我过去那样添加任何额外的 Quicktime 补偿 LUT。如果我最终不得不制作电视广告，我会将观众伽玛设置为 2.4 Broadcast。或者也许将我的观众伽玛设置为 2.2 Web 会更明智，因为这是最好的中间立场？如果只有一个普遍接受的观看标准，那就太好了，这样我们只需编辑并剔除单一颜色的导出，但这充其量只是一个白日梦。 很想知道其他人的想法. 我认为这篇文章以简洁明了的方式很好地解释了伽玛问题： https:// digitalfilms.wordpress.com/2023/10/12/premiere-pro-tackles-the-gamma-bug/#:\~:text=3%20viewer%20gamma%20levels%20are,%2C%20with%202.2%20in% 2D之间.   由   提交 /u/TheWampaSlayer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1buyhhg/which_viewer_gamma_do_you_edit_in/</guid>
       <pubDate>Wed, 03 Apr 2024 17:24:35 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>初级编辑角色每周工作一天，但需要你有自己的热情</title>
       <link>https://www.reddit.com/r/editors/comments/1bue8hj/junior_editor_role_for_one_day_a_week_but_need/</link>
-      <description><![CDATA[编辑们您好！正如标题所说，最近偶然遇到了一位初级编辑，每周只工作一天，但他们希望我对这份工作充满热情。  我是一名 AE，我从事的作品通常都提供 avid 的访问权限，所以我从不付费，因为它非常昂贵。  你觉得怎么样？这值得么？  ​   由   提交 /u/lilyherburn   [链接] [评论]]]></description>
+      <description><![CDATA[编辑们您好！正如标题所说，最近偶然遇到了一位初级编辑，每周只工作一天，但他们希望我对这份工作充满热情。  我是一名 AE，我从事的作品通常提供 avid 的访问权限，所以我从不付费，因为它非常昂贵。  你觉得怎么样？这值得么？  ​   由   提交 /u/lilyherburn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bue8hj/junior_editor_role_for_one_day_a_week_but_need/</guid>
       <pubDate>Wed, 03 Apr 2024 00:02:46 GMT</pubDate>
     </item>
     <item>
       <title>如何设计长下三分之一的样式？</title>
       <link>https://www.reddit.com/r/editors/comments/1buaha0/how_to_style_long_lower_thirds/</link>
-      <description><![CDATA[我正在为一个职位为 20 个单词的人设计一个 L3，我只能将文本缩小到看起来很糟糕的程度。有人有处理长得可笑的标题的示例或建议吗？   由   提交 /u/Clukk   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为一个职位为 20 个单词的人设计一个 L3，我只能将文本缩小到看起来很糟糕的程度。有人有处理长得可笑的标题的示例或建议吗？   由   提交/u/Clukk  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1buaha0/how_to_style_long_lower_thirds/</guid>
       <pubDate>Tue, 02 Apr 2024 21:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid - 子剪辑的子剪辑不起作用？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bu82pf/avid_subclip_of_a_subclip_not_working/</link>
-      <description><![CDATA[我正在同步一些rush。我制作了图片的子剪辑以及混音器中的 4 首曲目，非常棒。母版与所有音轨同步剪辑。很好。 然后我制作该子剪辑的子剪辑，仅使用 A1 上的混合轨道，这样编辑器就有了一个可以剪切的 1 轨道子剪辑。太棒了。 当您在 1 轨子剪辑上匹配回来时，它应该转到 4 轨子剪辑。 但事实并非如此。它直接返回到摄像机或声音剪辑，忽略中间子剪辑。 我做错了什么？我发誓这曾经有效。   由   提交 /u/transcodefailed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bu82pf/avid_subclip_of_a_subclip_not_working/</guid>
-      <pubDate>Tue, 02 Apr 2024 19:44:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
