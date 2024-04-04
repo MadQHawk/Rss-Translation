@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 06:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 09:13:24 GMT</lastBuildDate>
+    <item>
+      <title>寻找可可视化*频道*音量/活动的音频程序</title>
+      <link>https://www.reddit.com/r/software/comments/1bvi0af/looking_for_audio_program_that_visualizes_channel/</link>
+      <description><![CDATA[我对音频软件非常菜鸟，我希望找到一些可以显示每个潜在通道的总音频音量的东西当其他文件播放时我的扬声器。有两件事可以帮助我描述我在这里寻找的内容：  当您通过使用的任何播放器（我使用 MPC-HC 或 VLC）播放视频文件时，您可以选择是否或者您不会听到单声道声音、扬声器声音或 5.1 环绕声或以上声音。我希望看到从每个“通道”中发出的声音是分开的 就像您可以在 Windows 中查看正常音量条并看到它上下移动一样你的总音量增加，这就是我正在寻找的，但是对于每个扬声器通道。  有人知道任何东西，最好是免费的，可以做到这一点吗？理想的视觉效果，以便我可以立即看到所有内容都发出声音？   由   提交 /u/VashPast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bvi0af/looking_for_audio_program_that_visualizes_channel/</guid>
+      <pubDate>Thu, 04 Apr 2024 08:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>检查WiFi是否安全的软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1bvha8c/software_to_check_if_wifi_is_secure/</link>
+      <description><![CDATA[我正在寻找一个（最好是开源的）Windows 软件来检查连接的 WiFi 是否安全。到现在为止谢谢你的帮助。 🙂   由   提交/u/bokholdoi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bvha8c/software_to_check_if_wifi_is_secure/</guid>
+      <pubDate>Thu, 04 Apr 2024 07:37:19 GMT</pubDate>
+    </item>
     <item>
       <title>从 Wallhaven 和/或 pixiv 获取的壁纸更换器</title>
       <link>https://www.reddit.com/r/software/comments/1bvfos0/wallpaper_changer_which_fetches_from_wallhaven/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/n_script   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bupu99/we_wrote_instructions_on_how_to_use_swiftdial_as/</guid>
       <pubDate>Wed, 03 Apr 2024 11:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找通用的仪表板软件</title>
-      <link>https://www.reddit.com/r/software/comments/1bunpk3/searching_for_a_generic_dashboard_software/</link>
-      <description><![CDATA[我正在探索多功能仪表板软件解决方案的选项。理想情况下，它应该能够无缝地可视化来自各种平台的数据和指标，包括 Jira（突出显示重要的票证）、Bitbucket（显示正在运行的管道和状态）、Jenkins、Sonarcloud（展示覆盖范围、错误、代码异味和拦截器），以及我的工作流程中不可或缺的其他 API。此外，如果该软件允许创建用户帐户并定制针对特定用户或用户组的仪表板定制，这将是有利的。  虽然我目前正在试验 Grafana，但我不确定它能否有效地可视化正在运行的管道及其当前状态。 是否有任何我可能不熟悉的仪表板软件解决方案是否知道可以满足这些特定要求，或者是否需要开发自定义解决方案？   由   提交 /u/thisBenz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bunpk3/searching_for_a_generic_dashboard_software/</guid>
-      <pubDate>Wed, 03 Apr 2024 08:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为每个人的 PC 上都应该安装哪些软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1bumq7z/what_are_the_softwares_you_think_everyone_should/</link>
-      <description><![CDATA[只是寻找新的建议来尝试！让我知道您认为每个人都应该尝试哪些软件。   由   提交 /u/Ok-Catch4142    reddit.com/r/software/comments/1bumq7z/what_are_the_softwares_you_think_everyone_should/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bumq7z/what_are_the_softwares_you_think_everyone_should/</guid>
-      <pubDate>Wed, 03 Apr 2024 07:39:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
