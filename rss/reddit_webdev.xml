@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 18:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 21:11:29 GMT</lastBuildDate>
+    <item>
+      <title>如何在 HTML 中使插画图像的不同部分可点击</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvyx5f/how_to_make_different_sections_of_an_illustrator/</link>
+      <description><![CDATA[大家好，我正在创作一篇以大彩色玻璃窗为中心的电子文学作品。我希望一旦点击每一块玻璃，就能进入故事的不同页面/部分。彩色玻璃艺术品是在插画中制作的，我想知道如何在我的代码中准确地执行它。每块玻璃都需要是单独的图像吗？   由   提交 /u/sailorscoutnel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvyx5f/how_to_make_different_sections_of_an_illustrator/</guid>
+      <pubDate>Thu, 04 Apr 2024 21:07:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel 正在更新他们的定价，您有什么想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvyals/vercel_is_updating_their_pricing_thoughts/</link>
+      <description><![CDATA[有关上下文，https://vercel。 com/blog/improved-infrastruct-pricing   由   提交 /u/Nicolello_iiiii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvyals/vercel_is_updating_their_pricing_thoughts/</guid>
+      <pubDate>Thu, 04 Apr 2024 20:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一个 React Spring 组件，它在渲染时有动画效果，但在卸载时没有动画效果，我不明白为什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvxw0u/i_have_a_react_spring_component_that_animates_on/</link>
+      <description><![CDATA[有人对 React Spring 动画有经验吗？我有一个正在渲染的动画，但当它从 DOM 中删除时却不起作用，我无法弄清楚它。 这是我所描述内容的视频，您必须单击该视频来玩它。 https://imgur.com/a/QB5K5VT 我不经常使用这个库，并且似乎无法找到修复它的解决方案。根据文档，我做得正确，但它没有正常工作。我希望这里有比我更有经验的人。  以下是该组件的代码：https://codeshare.io/8X7r3E 感谢任何帮助。谢谢！   由   提交 /u/__B4Nd1t__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvxw0u/i_have_a_react_spring_component_that_animates_on/</guid>
+      <pubDate>Thu, 04 Apr 2024 20:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 SVG 图像仍然无法得到正确支持吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvxi47/are_svg_images_still_not_supported_properly_in/</link>
+      <description><![CDATA[大家好！ 我正在构建我的最新项目，layout.ch，我意识到 Bentogrid 中的 SVG 图像在滚动浏览网站时会导致一些严重的滞后/小冻结，特别是在加载图像时。它只对 SVG 图像执行此操作，对 JPG 或 PNG 图像不执行此操作。 我致力于使用 SVG，因为它只会以 JPG 和 PNG 无法比拟的方式使设计流行。 &gt; 以前有人处理过这个问题吗？我正在寻找一些关于如何保持 SVG 没有滚动滞后的建议。每一条建议或解决方法都绝对是救星。 🙏🏼  提前感谢您的帮助， Shiroy   由   提交/u/Affectionate_Power99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvxi47/are_svg_images_still_not_supported_properly_in/</guid>
+      <pubDate>Thu, 04 Apr 2024 20:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>你在页脚里放了什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvwq2g/what_do_you_put_in_your_footer/</link>
+      <description><![CDATA[我使用的模板基本上是这样的： © 2024 您的公司名称。版权所有。服务条款 |隐私政策  问题是......这只是我提供的一个免费开源网站。我计划联系公司让他们使用它（但它是完全免费和开源的）。 我对“服务条款”一无所知。 、“隐私政策”、商标和所有这些诉讼内容。 我将来需要这个来保护自己吗？确实是开放式问题，我不知道该怎么办。   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvwq2g/what_do_you_put_in_your_footer/</guid>
+      <pubDate>Thu, 04 Apr 2024 19:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 2D 游戏的开发者组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvv6f3/create_a_developer_portfolio_as_a_2d_game/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvv6f3/create_a_developer_portfolio_as_a_2d_game/</guid>
+      <pubDate>Thu, 04 Apr 2024 18:46:57 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找一个具有类似 jQuery 的流畅界面，但在幕后使用现代方法的库。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bvt1nv/looking_for_a_library_that_has_jquery_like_fluent/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/dimden  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bvqd9e/optimizing_rendering_of_100000_html_nodes/</guid>
       <pubDate>Thu, 04 Apr 2024 15:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>只招受雇的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvpmcg/only_hiring_employed/</link>
-      <description><![CDATA[与招聘人员交谈，他基本上告诉我他们只想雇用（挖走）已经就业的人。搞什么鬼？  他们提出将我交给他们的合同/雇用合同（无工作保障/福利）部门和/或入门级招聘团队...我在这个行业有十年的经验...&lt; /p&gt;   由   提交/u/notabadger9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvpmcg/only_hiring_employed/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮递员不显示任何结果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvp3cm/postman_does_not_show_any_result/</link>
-      <description><![CDATA[       由   提交/u/travisscott987  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvp3cm/postman_does_not_show_any_result/</guid>
-      <pubDate>Thu, 04 Apr 2024 14:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>MERN 之后呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvok7o/what_after_mern/</link>
-      <description><![CDATA[多年来，我一直在努力增强对 Web 开发的信心，直到最后我完全自己制作了一个 MERN 堆栈社交媒体应用程序，而无需教程。 现在我对 MERN 堆栈充满信心，我知道我可以自己构建任何东西。 现在我想学习高级堆栈，就像在这个 视频  我应该在视频中进行堆栈还是应该执行类似T3堆栈的操作？  我想选择一个高级堆栈并制作一个财务跟踪网络应用程序，该应用程序具有所有出色的功能，例如收入跟踪、股票、加密投资跟踪、费用跟踪、跟踪所有财产和所有负债以及净资产跟踪。 如何在学习新堆栈的同时实现这一目标？感谢任何帮助。   由   提交/u/SongsForWomen88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvok7o/what_after_mern/</guid>
-      <pubDate>Thu, 04 Apr 2024 14:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvoim6/what_do_i_do/</link>
-      <description><![CDATA[大家好，这里是关心（即将完成）的大学生。我花了很多时间来完善和致力于网络开发。这是我喜欢的事情。我对前端（React）非常满意，但我更喜欢后端（Node.js、Express 等）。 我确信您每周（如果不是每隔几天）都会收到这个问题。我正处在十字路口，我对自己的未来感到恐惧。刚从大型就业市场/招聘会回来，所有的讨论几乎都只是 web3 或 AI/ML。我问了一些此类性质的问题，得到的答复几乎是“尽快赶上 web3/ai 的火车”。我会继续使用网络开发吗？我真的很喜欢这里，我在这里找到了自己。但我在这里还有未来吗？我能以所有所谓的初级饱和度踏入这里吗？是否有可能进入这个领域并好好维持自己的生活？你们有什么感想？对像我这样的人有什么建议吗？谢谢   由   提交/u/COCC_annihilator_CR7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvoim6/what_do_i_do/</guid>
-      <pubDate>Thu, 04 Apr 2024 14:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>第N个孩子的公式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvodut/nthchild_formula/</link>
-      <description><![CDATA[      大家好！数学奇才可以帮助这个凡人吗？我有一个显示为 6 列网格的无序列表，我需要选择每个奇数行上的偶数位置和每个偶数行上的奇数位置。  &amp; #32；由   提交/u/Kidley  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvodut/nthchild_formula/</guid>
-      <pubDate>Thu, 04 Apr 2024 14:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将 CI 构建时间从 24 分钟缩短至 8 分钟，并将成本降低 50%</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvntav/how_i_improved_our_ci_build_time_from_24mins_to/</link>
-      <description><![CDATA[       由   提交/u/owaiswiz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvntav/how_i_improved_our_ci_build_time_from_24mins_to/</guid>
-      <pubDate>Thu, 04 Apr 2024 13:58:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

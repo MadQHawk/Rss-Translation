@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 18:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 21:10:30 GMT</lastBuildDate>
+    <item>
+      <title>想要创建自定义聊天机器人以提供用户支持</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvyy3c/want_to_create_custom_chatbot_for_user_support/</link>
+      <description><![CDATA[我有一个非常利基的领域和大量非常可靠的数据，可以非常干净地对其进行建模 - 我觉得有机会构建一个可以执行操作的聊天机器人作为领域专家来支持我解决从用户群中得到的所有简单重复的技术问题。 我是一名经验丰富的专业软件工程师，但我主要是在机器学习方面自学，基于根据当前工作的需要，所以我可能拥有非常危险的知识量。我只是想知道从哪里开始阅读/研究/设计像我这样的项目；任何提示将不胜感激。   由   提交 /u/gloom_spewer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvyy3c/want_to_create_custom_chatbot_for_user_support/</guid>
+      <pubDate>Thu, 04 Apr 2024 21:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>下周将构建一个 LLM 支持的 RAG 支持的语音助手。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvy2ea/live_building_an_llm_powered_rag_enabled_voice/</link>
+      <description><![CDATA[大家好， 我将在 Linkedin 上构建一个人工智能语音助手（如果我能想到的话，还有其他一些平台）知道如何做）4 月 11 日。  我还有一个详细的博客，您可以阅读此处。 我认为这个子可能会喜欢它。如果您有疑问或反馈，请告诉我，我希望在那里见到你们中的一些人！我也会在活动期间回答问题和反馈。  活动结束后，如果您想将 GH 存储库用作语音助手的基础，我将发布包含所有代码的 GH 存储库。  如果您有兴趣，可以在这里注册：https://www.linkedin.com/ events/7180676005789937666/comments/   由   提交/u/fokke2508  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvy2ea/live_building_an_llm_powered_rag_enabled_voice/</guid>
+      <pubDate>Thu, 04 Apr 2024 20:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>ai 视频增强功能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvwrhx/ai_video_enhancement_capabilities/</link>
+      <description><![CDATA[我只是好奇可以从这段视频的黑暗中提取出什么（如果有的话）： https://www.youtube.com/watch?v=7vRE0o3usEE&amp;t=4s &lt; p&gt;我知道，我知道，“这是一个傀儡”但我很好奇我们当前的工具是否可以清楚地表明这一点，或者该视频是否被压缩了太多次而无法擦除隐藏在该视频黑暗中的任何内容。  如果有更高质量的版本，或者如果有原始副本（有人有那盘磁带），那么看到完整的场景会非常有趣，特别是放大脸部寻找无法用木偶来解释的抽搐和运动，反之亦然。 我个人不相信这种现象，但是（我讨厌有一个但是）我发现给出的证词作者：“维克多”当你观看整个视频时很难忽视。  我想通过确定这段剪辑的真实性来让我的科学大脑休息一下，看来我们正处于一个独特的时刻来做到这一点。 任何人都觉得喜欢炫耀他们能做什么？有人可以使用更高质量的剪辑吗？   由   提交 /u/PervyNonsense   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvwrhx/ai_video_enhancement_capabilities/</guid>
+      <pubDate>Thu, 04 Apr 2024 19:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关 LLM 后端内容的培训/课程/阅读？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvvg0x/training_courses_reading_on_llm_backend_stuff/</link>
+      <description><![CDATA[人工智能最近的爆炸性发展令人难以置信，对我来说非常有趣。我花了很多空闲时间研究法学硕士（即时工程，尝试训练模型，等等），虽然我可能认为自己在这方面非常有能力，但有大量的信息和讨论真正了解的人让我完全一无所知，我正在寻求解决这个问题。 任何人都知道拥有学士学位的人参加的任何课程或培训CS 可以从中获得什么？ 自定进度是理想的选择，但我会接受我能得到的。我个人认为我们正在经历类似于互联网繁荣的时期，我正在寻找未来需要调整的工具。 TIA   由   提交 /u/RivianRaichu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvvg0x/training_courses_reading_on_llm_backend_stuff/</guid>
+      <pubDate>Thu, 04 Apr 2024 18:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有音乐理解开源AI吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvv998/is_there_a_music_understanding_opensource_ai/</link>
+      <description><![CDATA[假设我输入了某首歌的 30 秒音频，并且在 AI 回复中： 播放了这首原声歌曲在吉他和钢琴上以切分音节奏演奏。歌手是个日本人，声音高亢。这首歌大约是一首80 bpm的传统乡村歌曲，带有非常悲伤的情绪基调（歌手在低语）。 有这样的模式存在吗？   由   提交 /u/yukiarimo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvv998/is_there_a_music_understanding_opensource_ai/</guid>
+      <pubDate>Thu, 04 Apr 2024 18:49:50 GMT</pubDate>
+    </item>
     <item>
       <title>新兴三位一体简介</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvtgap/introducing_the_emergent_trinity/</link>
@@ -27,13 +62,6 @@
       <pubDate>Thu, 04 Apr 2024 17:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>通用人工智能与科学</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvsepx/agi_with_science/</link>
-      <description><![CDATA[您好，您相信随着人工智能（AGI）的发展以及随着深度学习和机器学习在研发上的发展，复兴疗法、抗衰老、细胞治疗和分析、衰老标志将在未来几年得到治疗？ 让我提醒您数百家生物技术公司，例如 calico、retro bioscience、juvenescuence、insilico、nanotics    由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvsepx/agi_with_science/</guid>
-      <pubDate>Thu, 04 Apr 2024 17:00:16 GMT</pubDate>
-    </item>
-    <item>
       <title>每日两分钟 AI 更新（日期：2024 年 4 月 4 日）：来自 Stability AI、Microsoft、Opera、AWS、Status 等的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvs6nv/twominute_daily_ai_update_date_04042024_news_from/</link>
       <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Stable Audio 2.0 的新增功能： - Stability AI 发布了 Stable Audio 2.0，这是一种生成高质量、全长音频的 AI 模型曲目长达 3 分钟，音乐结构连贯。该模型引入了音频到音频生成功能，允许用户使用自然语言提示转换上传的样本，并增强了音效生成和风格转换能力。 SWE-agent 是一款 AI 编码器，可解决以下问题： GitHub 在 93 秒内发布： - 普林斯顿大学的研究人员创建了 SWE-agent，这是一个将语言模型转变为自主软件工程代理的 AI 系统。 SWE-agent 可以在 93 秒内识别并修复现实 GitHub 存储库中的错误！在 SWE-Bench 基准测试中，SWE-agent 的表现几乎与流行的商业 AI 程序员 Devin 相媲美。 移动优先 Higgsfield 旨在通过 AI 颠覆视频营销：  - Snap AI 前首席执行官 Alex Mashrabov 创立了 Higgsfield AI，这是一家为创作者和营销人员提供 AI 视频创作的初创公司。他们的第一个应用程序 Diffuse 允许用户从文本生成视频剪辑或编辑现有视频以插入自己的视频。 Higgsfield 筹集了 800 万美元，旨在开发用于社交媒体营销的用户友好的人工智能视频工具。 Codiumate 为企业提供安全、合规的人工智能辅助编码： -以色列初创公司 Codium AI 推出了半自主 AI 代理 Codiumate，帮助企业软件开发人员进行编码、文档编制和测试。它可以帮助根据现有代码创建开发计划、编写代码、查找重复代码以及建议测试。 Codiumate 旨在使开发更快、更安全，具有零数据保留以及在私人服务器或气隙计算机上运行的能力等功能。 Opera One 浏览器成为第一个提供本地 AI 的浏览器集成： - Opera 现在在其 Opera One 浏览器中支持 150 个 LLM 变体，使其成为第一个提供本地 AI 模型访问的主要浏览器。此功能允许用户在本地处理他们的输入，而无需将数据发送到服务器。 Opera One 开发人员用户可以选择并下载他们喜欢的本地 LLM，每个变体通常需要 2-10 GB 的存储空间，而不是使用 Opera 的本机浏览器 AI Aria。 AWS 扩展了 Amazon Bedrock使用 Mistral Large 模型： - AWS 已将 Mistral Large 纳入其用于生成 AI 和应用程序开发的 Amazon Bedrock 托管服务中。 Mistral Large 精通英语、法语、西班牙语、德语和意大利语，可以处理文本理解、转换和代码生成等复杂的多语言任务。 AWS 还提到，Mistral AI 将在未来的模型中使用其 Tranium 和 Inferentia 硅芯片，而 Amazon Bedrock 现已在法国上市。 Copilot 获得 GPT-4 Turbo 升级和增强的图像生成：&lt; /strong&gt; - 微软正在向其 AI 支持的 Copilot 助手的企业订阅者提供 GPT-4 Turbo 访问权限，且每日聊天会话不受限制。该公司还为 Copilot 订阅者改进了 Microsoft Designer 中的图像生成功能，使用 OpenAI 的 DALL-E 3 模型将限制提高到每天 100 张图像。这些升级是 Copilot for Microsoft 365 每位用户每月 30 美元定价的一部分。 Status 投资 Matrix 以创建去中心化消息传递平台： - Status移动以太坊客户端已向 New Vector 投资 500 万美元，New Vector 是开源、去中心化通信平台 Matrix.org 背后的公司。他们计划为用户创建一个安全的消息传递解决方案，以控制他们的数据并跨应用程序和网络进行通信。  这些新闻和创新的更多详细信息，请参见 每日新闻。  &amp; #32；由   提交 /u/RohitAkki   [链接] [评论]]]></description>
@@ -41,39 +69,11 @@
       <pubDate>Thu, 04 Apr 2024 16:51:15 GMT</pubDate>
     </item>
     <item>
-      <title>创建 AI 模型以使用布尔逻辑测试系统需求所需的实际工作量 + 时间</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvqajy/realistic_effort_time_needed_to_create_an_ai/</link>
-      <description><![CDATA[大家好， 将其标记为资源，因为如果不是“动手操作机器”，我真的不知道从哪里开始学习”和“人工智能是一种现代方法”，我还没有研究过该免责声明，但我可以访问这两者。 简而言之，我想创建一个可以读取以下要求列表的人工智能：一个系统（这些都是用文字写的，主要是用基本的“如果 A 那么 B”或“当 A 那么 B”风格编写的），并读取变量名称和描述的列表，以类似布尔逻辑编写测试（一些细微的差异），并且还可能分析当前系统以找出不满足要求的原因。这些并不总是那么简单，通常变量是嵌套的，需要多次测试来证明一项要求。免责声明：已经有一个工具可以针对当前的逻辑系统运行这些测试，所以我并不是真的试图重写它，而是让人工智能代替我编写测试（希望甚至可以）比我更好）。 这个系统经常更新，因此测试需要更新，需要运行回归，测试的优化也至关重要。 我明白这不是这是一件容易的事，但对于一个拥有数学学位、清楚地了解这个人工智能需要做什么、但只有基本编程技能的人来说，这需要付出多少努力？这是可行的吗？除了提到的两本书之外，我应该从哪里开始学习？   由   提交/u/Madeche  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvqajy/realistic_effort_time_needed_to_create_an_ai/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能创新每日纪事 2024 年 4 月 4 日 🎵Stability AI 的稳定音频 2.0 有哪些新功能？ 🖥️Opera One 浏览器成为第一个提供本地 AI 集成的浏览器🚀Copilot 获得 GPT-4 Turbo 升级🤖SWE-agent：在 93 秒内解决 GitHub 问题的 AI 编码员📲移动优先 Higgsfield ❗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpu0o/a_daily_chronicle_of_ai_innovations_april_04th/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpu0o/a_daily_chronicle_of_ai_innovations_april_04th/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>小学生学习人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpnax/primary_students_learning_about_ai/</link>
-      <description><![CDATA[在某些情况下，我是一所国际学校的老师。 我花了很多时间与不同的人工智能工具并阅读了很多相关内容，因此我被提升为一个非常非正式的角色：每个人都在工作场所询问有关人工智能的问题。 最近，五年级团队老师们联系我，询问我是否有任何资源可以分享给一些正在做人工智能项目的学生。  有没有人遇到过任何适合与 10 岁和 11 岁学生分享的资源，以帮助他们更多地了解人工智能及其功能？   由   提交/u/flyeaglesfly617   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpnax/primary_students_learning_about_ai/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:11:37 GMT</pubDate>
-    </item>
-    <item>
       <title>对紧急备用电源和人工智能数据中心支持的需求不断增长</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpay6/rising_demand_for_emergency_backup_power_and/</link>
       <description><![CDATA[我附近的一家当地公司正在招聘 250 名员工，以满足紧急备用电力系统的需求。 “指数需求”的增加使得与AI用电需求的不断增长直接相关。能量从哪里来？  https://www. mystateline.com/news/rise-of-ai-provides-boom-for-machesney-park-business/ “对数据中心的需求已经呈指数级增长，”戈尔纳说。 “现在，人工智能刚刚创建了一个曲棍球棒场景。你需要大量的人工智能数据，以至于你无法足够快地建立这些中心。结果，现在需求激增得更多。”    由   提交 /u/indiscernable1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpay6/rising_demand_for_emergency_backup_power_and/</guid>
       <pubDate>Thu, 04 Apr 2024 14:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>OctoAI 推出 OctoStack：重新定义人工智能应用程序的效率和隐私</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvnzsk/octoai_introduces_octostack_redefining_efficiency/</link>
-      <description><![CDATA[OctoAI 推出了 OctoStack，这是一个软件平台，允许企业在内部托管人工智能模型，从而增强数据隐私和安全性。 OctoStack 提供与各种硬件和 AI 加速器的兼容性，优化 AI 模型部署。使用OctoStack的企业可以实现更高的GPU利用率并降低运营成本。该平台还支持流行的开源语言模型，使企业能够跟上人工智能的进步。  来源：https://app.daily.dev/posts/xurd1rAZy   由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvnzsk/octoai_introduces_octostack_redefining_efficiency/</guid>
-      <pubDate>Thu, 04 Apr 2024 14:05:18 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能用于开发针对抗生素耐药细菌的潜在新药</title>
