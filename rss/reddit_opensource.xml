@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 04 Apr 2024 12:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:13:29 GMT</lastBuildDate>
+    <item>
+      <title>OSI 参加关于开放性和人工智能的哥伦比亚会议；第一个可用读数</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bvnky4/osi_participates_in_columbia_convening_on/</link>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bvnky4/osi_participates_in_columbia_convening_on/</guid>
+      <pubDate>Thu, 04 Apr 2024 13:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀🔥下一代开源免费办公套件（Sheet、Doc、Slide）-Univer 来了🎨✨</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bvn0k8/next_generation_opensource_and_free_office/</link>
+      <description><![CDATA[🌟 Univer 是一套企业文档和数据协作解决方案，集成了电子表格、文档和幻灯片。 更多信息请参见 GitHub ：https://github.com/dream-num/univer！ 亮点： - Univer 旨在支持电子表格和**文档**。将来也将支持幻灯片。 - ⚙️ Univer 可以轻松**嵌入**，允许无缝集成到您的应用程序中。 - 🎇 Univer **功能强大**，提供广泛的功能功能包括**公式**、**条件格式**、**数据验证**、**过滤**、**协作编辑**、**打印**、导入和导出导出和更多即将推出的功能。 - 🔌 Univer **高度可扩展**，这要归功于它的插件架构和 Facade API，这使得开发人员可以在 Univer 之上实现他们的独特需求. - 💄 Univer **高度可定制**，允许您使用*主题*个性化其外观。它还提供对国际化（i18n）的支持。 - ⚡ Univer **性能**。 - ✏️ Univer 拥有基于画布的高效渲染引擎，能够完美渲染各种文档类型。渲染引擎支持高级排版功能，例如*标点符号压缩*、文本和图像布局以及*滚动缓冲*。 - 🧮 Univer 包含一个快如闪电的公式引擎，可以在 Web Workers 甚至服务器端运行. - 🌌 Univer 是一个高度集成的系统。文档、电子表格和幻灯片可以相互操作，甚至可以在同一画布上呈现，从而允许信息和数据在 Univer 内流动。   由   提交 /u/ransixi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bvn0k8/next_generation_opensource_and_free_office/</guid>
+      <pubDate>Thu, 04 Apr 2024 13:22:52 GMT</pubDate>
+    </item>
     <item>
       <title>Open CoDE 是公共管理部门用于开源软件交流的联合平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</link>
-      <description><![CDATA[ 由   提交/u/Doener23  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Doener23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</guid>
       <pubDate>Thu, 04 Apr 2024 11:01:46 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>Tiktok风格的自动字幕</title>
       <link>https://www.reddit.com/r/opensource/comments/1buoa1o/tiktok_style_auto_captions/</link>
-      <description><![CDATA[有人知道有一个可以让您创建 tiktok/youtube Shorts 风格自动字幕的存储库吗？ （彩色，大笔划，在屏幕上弹出和弹出）。谢谢   由   提交 /u/Absolutelyphenomenal   [链接] [评论]]]></description>
+      <description><![CDATA[有谁知道有一个可以让您创建 tiktok/youtube Shorts 风格自动字幕的存储库吗？ （彩色，大笔画，在屏幕上弹出和弹出）。谢谢   由   提交 /u/Absolutelyphenomenal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1buoa1o/tiktok_style_auto_captions/</guid>
       <pubDate>Wed, 03 Apr 2024 09:28:05 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[这可能是一个艰巨的任务，但我想要一个可以在 iPadOS 上运行的笔记应用程序，用于手写笔记并能够跨计算机（Windows、Linux）同步）用ipad查看我写下的东西。 我明白这是在黑暗中拍摄的，我可能找不到我需要的确切东西，所以只需向我推荐你认为合适的东西   由   提交 /u/Huinker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bu2smd/note_taking_app_that_supports_ipad_pen/</guid>
       <pubDate>Tue, 02 Apr 2024 16:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPC 完成后重新启动播放列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bu2mcm/mpc_restart_playlist_after_completion/</link>
-      <description><![CDATA[在 R-Pi 3 上使用 Moode Audio 制作了一个流媒体互联网广播播放器。除了一件事我似乎无法弄清楚之外，一切都按照我想要的方式工作出去。我最终将添加几个物理按钮来移动到播放列表中的下一个/上一个电台。这些按钮将发出“mpc next”消息。或“mpc prev”命令。然而，当通过手动发出命令来模拟这一点时，一旦我到达播放列表的末尾并给它“下一个”命令 mpc 只是停止播放。我希望它在到达播放列表末尾后循环回到播放列表的开头。如果我使用“上一个”播放列表，我还希望它循环到播放列表的末尾。命令向另一个方向移动。 这可能吗？如果是这样，那么实现这一目标的适当步骤是什么？   由   提交/u/Zack-LTTNP  /u/Zack-LTTNP  reddit.com/r/opensource/comments/1bu2mcm/mpc_restart_playlist_after_completion/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bu2mcm/mpc_restart_playlist_after_completion/</guid>
-      <pubDate>Tue, 02 Apr 2024 16:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe Acrobat FOSS 替代方案结束所有替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bu1gdi/adobe_acrobat_foss_alternative_to_end_all/</link>
-      <description><![CDATA[我的灵魂一片混乱。 为什么我们作为一个世界范围的人类集体不能创造一个真正优秀的 Adob​​e Acrobat 免费开源替代品？ 我尝试过一些非常好的免费封闭源替代品，例如 PDF24 和 PDFgear，甚至付费替代品，例如 nitroPDF 和 ABBY。它们都不错，但不是免费的，也不是开源的。 到目前为止我最喜欢的是 PDFgear。开发人员很棒，有一个很棒的网站，在 Reddit 上很活跃，等等，但没有办法支持它的开发。然而，如果它是开源的，人们能够支持它的开发并且人们参与其中，我相信它会变成一个 Acrobat 杀手级应用程序。已经快到了。如果它是自由开源软件，那么它将永远是一个杀手级应用程序。目前，它是免费的，但闭源意味着它很可能在未来被货币化。 为什么有这么多其他伟大的开源项目适用于各种软件类型，但还没有创建任何东西与 Acrobat 竞争？ Acrobat 的许可成本巨大且毫无意义。我宁愿花钱支持一个开源项目，这样我们就可以摆脱 Adob​​e，无论需要多长时间。  目前是否有 Acrobat 值得竞争对手的开源软件（免费或付费）？    由   提交 /u/HeihachiHibachi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bu1gdi/adobe_acrobat_foss_alternative_to_end_all/</guid>
-      <pubDate>Tue, 02 Apr 2024 15:23:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

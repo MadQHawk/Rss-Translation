@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 04 Apr 2024 12:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:13:03 GMT</lastBuildDate>
+    <item>
+      <title>论开源作为公共利益、许可失误和社区建设</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvp8r0/on_opensource_as_a_public_good_licensing_missteps/</link>
+      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvp8r0/on_opensource_as_a_public_good_licensing_missteps/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 LLM 怪异：测验游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvp0dh/exploring_llm_weirdness_a_quiz_game/</link>
+      <description><![CDATA[ 由   提交/u/jgbbrd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvp0dh/exploring_llm_weirdness_a_quiz_game/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Terraform 自动管理私有 AWS RDS MySQL 的用户</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvoo1p/automate_user_management_for_private_aws_rds/</link>
+      <description><![CDATA[ 由   提交/u/neifn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvoo1p/automate_user_management_for_private_aws_rds/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>同一站点严格 Cookie 和 OAuth 的问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvonqg/gotchas_with_same_site_strict_cookie_and_oauth/</link>
+      <description><![CDATA[ 由   提交/u/devhrishi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvonqg/gotchas_with_same_site_strict_cookie_and_oauth/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:32:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>SoundCloud 如何从整体架构转变为微服务架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvod07/how_soundcloud_transitioned_from_a_monolith_to_a/</link>
+      <description><![CDATA[ 由   提交 /u/DryAccordion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvod07/how_soundcloud_transitioned_from_a_monolith_to_a/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:20:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有 Giacomo Law 的键盘记录器的编译版本吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvny35/does_anyone_have_the_compiled_version_of_giacomo/</link>
+      <description><![CDATA[ 由   提交/u/AbdulXDG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvny35/does_anyone_have_the_compiled_version_of_giacomo/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能聊天机器人</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvnxup/ai_chatbot/</link>
+      <description><![CDATA[大家好！ 我在人工智能领域完全是个业余爱好者。我想创建一个基于人工智能的聊天机器人，用户可以通过网站就法律问题进行互动。我应该从哪里开始？您能推荐一个开源或付费的人工智能系统吗？谢谢   由   提交 /u/Jolly-Map-6636   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvnxup/ai_chatbot/</guid>
+      <pubDate>Thu, 04 Apr 2024 14:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 身份验证和授权变得简单</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvnrx3/saas_authentication_and_authorization_made_easy/</link>
+      <description><![CDATA[ 由   提交 /u/SeveralSeat2176   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvnrx3/saas_authentication_and_authorization_made_easy/</guid>
+      <pubDate>Thu, 04 Apr 2024 13:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动刷新页面，不会受到机器人检测的影响</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvndhs/refresh_page_automatically_without_being_hit_with/</link>
+      <description><![CDATA[我想买一些足球比赛的门票，他们有门票交换选项，偶尔门票会被转售并变得可用，而不是盲目地购买只是在工作时按 f5 几个小时，我想知道是否有一种方法可以在不启动机器人检测的情况下自动执行此操作 我正在研究 selenium 和 Web 抓取，但票务交换仅在登录时才可见，甚至如果我通过 Chrome 驱动程序手动登录，它不喜欢我的会话  读完之后，听起来这完全合法，因为我不想出售任何数据，只是更多地拯救我时间 另一种想法可能是每 10 秒刷新一次屏幕的宏，然后看看某种形式的屏幕阅读器在看到有可用门票时是否可以 ping 通，然后我可以接管并填写 ik我的详细信息等，如果我可以在我的篮子里拿到票 有人在推荐之前尝试过类似的东西吗？或者甚至建议我是否只是在浪费时间并手动忍受它 😅   由   提交 /u/Due_Routine_8088   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvndhs/refresh_page_automatically_without_being_hit_with/</guid>
+      <pubDate>Thu, 04 Apr 2024 13:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meilisearch 如何在一分钟内更新包含数百万个向量嵌入的数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvn1a2/how_meilisearch_updates_a_database_with_millions/</link>
+      <description><![CDATA[ 由   提交 /u/True_Hedgehog6990   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvn1a2/how_meilisearch_updates_a_database_with_millions/</guid>
+      <pubDate>Thu, 04 Apr 2024 13:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年开发者可以贡献的 12 个开源项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvmfbj/12_opensource_projects_for_developers_to/</link>
+      <description><![CDATA[ 由   提交/u/tedbarney12  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvmfbj/12_opensource_projects_for_developers_to/</guid>
+      <pubDate>Thu, 04 Apr 2024 12:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bandcamp认证协议逆向工程</title>
+      <link>https://www.reddit.com/r/programming/comments/1bvlt7v/reverse_engineering_bandcamp_authentication/</link>
+      <description><![CDATA[ 由   提交 /u/Metalnem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bvlt7v/reverse_engineering_bandcamp_authentication/</guid>
+      <pubDate>Thu, 04 Apr 2024 12:25:14 GMT</pubDate>
+    </item>
     <item>
       <title>安卓身份证识别</title>
       <link>https://www.reddit.com/r/programming/comments/1bvll8j/android_id_card_recognition/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交/u/Plus_Ad7909   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bvlb6s/tutorial_using_groq_to_build_a_realtime_language/</guid>
       <pubDate>Thu, 04 Apr 2024 11:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您好，我是一名心理学专业的学生，​​我邀请IT员工完成我硕士论文所需的调查。调查时间最多 10 分钟。非常感谢您的宝贵时间！</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvl9dd/hello_i_am_a_student_of_psychology_i_invite_it/</link>
-      <description><![CDATA[ 由   提交/u/Business-Ad-3299   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvl9dd/hello_i_am_a_student_of_psychology_i_invite_it/</guid>
-      <pubDate>Thu, 04 Apr 2024 11:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>CamSimulate - 现在添加了整个文件系统支持以及新的增强菜单。</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvkpvo/camsimulate_now_added_whole_filesystem_support/</link>
-      <description><![CDATA[ 由   提交/u/MK-1407   com/MK-1407/CamSimulate.git&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvkpvo/camsimulate_now_added_whole_filesystem_support/</guid>
-      <pubDate>Thu, 04 Apr 2024 11:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>C# 语言设计团队在受歧视联合方面取得了更多进展！</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvjudu/more_progress_on_discriminated_unions_from_the_c/</link>
-      <description><![CDATA[ 由   提交/u/Atulin  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvjudu/more_progress_on_discriminated_unions_from_the_c/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 L̶i̶n̶k̶e̶d̶ 跳跃列表？</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvjo6y/what_is_a_linked_skip_list/</link>
-      <description><![CDATA[ 由   提交/u/jarvuyirttehc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvjo6y/what_is_a_linked_skip_list/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js 日志库</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvjjqc/nodejs_logging_libraries/</link>
-      <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvjjqc/nodejs_logging_libraries/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免 bash 中的“set -o pipelinefail”</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvinup/avoid_set_o_pipefail_in_bash/</link>
-      <description><![CDATA[ 由   提交/u/rom1v  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvinup/avoid_set_o_pipefail_in_bash/</guid>
-      <pubDate>Thu, 04 Apr 2024 09:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试解释 xz 后门</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvih6t/my_attempt_to_explain_the_xz_backdoor/</link>
-      <description><![CDATA[ 由   提交/u/skwee357  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvih6t/my_attempt_to_explain_the_xz_backdoor/</guid>
-      <pubDate>Thu, 04 Apr 2024 09:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我永远不会在生产中应用的 9 个 Python 反模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvib7z/9_python_anti_patterns_that_i_will_never_apply_in/</link>
-      <description><![CDATA[ 由   提交/u/wyhjsbyb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvib7z/9_python_anti_patterns_that_i_will_never_apply_in/</guid>
-      <pubDate>Thu, 04 Apr 2024 08:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 天 .NET 挑战赛的第 16 天：内存中缓存</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvi3w2/day_16_of_30day_net_challenge_inmemory_caching/</link>
-      <description><![CDATA[ 由   提交 /u/ssukhpinder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvi3w2/day_16_of_30day_net_challenge_inmemory_caching/</guid>
-      <pubDate>Thu, 04 Apr 2024 08:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>这有点作弊，但我为 Möbius Front '83 Solitaire 制作了一个自动解算器</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvhb0c/thats_kinda_cheating_but_i_made_an_autosolver_for/</link>
-      <description><![CDATA[ 由   提交/u/dtutubalin  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvhb0c/thats_kinda_cheating_but_i_made_an_autosolver_for/</guid>
-      <pubDate>Thu, 04 Apr 2024 07:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>tailwindbattle.com</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvh9l3/tailwindbattlecom/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvh9l3/tailwindbattlecom/</guid>
-      <pubDate>Thu, 04 Apr 2024 07:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>卑鄙的C大赛</title>
-      <link>https://www.reddit.com/r/programming/comments/1bvg284/the_underhanded_c_contest/</link>
-      <description><![CDATA[ 由   提交 /u/Alexander_Selkirk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bvg284/the_underhanded_c_contest/</guid>
-      <pubDate>Thu, 04 Apr 2024 06:15:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
