@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 06:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 09:12:53 GMT</lastBuildDate>
+    <item>
+      <title>不相信 Tailwind 就是这一切</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwd5sz/unconvinced_that_tailwind_is_all_that/</link>
+      <description><![CDATA[       由   提交/u/dogweather  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwd5sz/unconvinced_that_tailwind_is_all_that/</guid>
+      <pubDate>Fri, 05 Apr 2024 08:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时 Websocket：自托管或托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwclpj/websocket_for_realtime_self_hosted_or_managed/</link>
+      <description><![CDATA[我有一个具有实时功能的单页应用程序。  我正在考虑使用托管解决方案，例如用于 Websockets 的 Ably 或 Pusher。或者自己实现。 我的目标是尽快推出新功能，同时保持成本效益，并且不要过多依赖外部应用程序。  想法？   由   提交/u/Ok_Competition_7644   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwclpj/websocket_for_realtime_self_hosted_or_managed/</guid>
+      <pubDate>Fri, 05 Apr 2024 08:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>改变我的想法：HTML 应该放在最后</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwcbpu/change_my_mind_html_should_come_last/</link>
+      <description><![CDATA[我学web开发的时候，首先要背一堆HTML标签，然后还要背一堆css。直到那时我们才转向 javascript 和行为。 所有不同的 html 标签对我来说没有任何意义。  您应该使用 h1 来表示第一个标题，h2 为第二个标题。 您应该使用 p 来表示文本段落。  当然可以感觉，段落标签中有段落，但是为什么会有段落标签呢？它对我有什么作用？如果我将段落放在非 p 标记中会发生什么。所有这些问题都没有得到解答，我只需要记住它。 我看到的替代方法是告诉新手在所有内容中使用 div，并设置它们的样式以使页面看起来像我们想要的方式。&lt; /p&gt; 让他们实现链接本身等行为（例如 onclick window.location = bla）。 向他们介绍 SEO 的概念，然后再教他们 HTML。 在这种情况下，您可以说，  看看我们实现的链接，有一个 HTML 标记可以为您执行此操作，而且它可以执行此操作和该操作 是否因必须重复增加标题的字体大小而感到烦恼？这里使用 h1，而且它有助于 SEO 等。  有更多的解释为什么，而不是手动“这就是你必须这样做”  Wdyt？  编辑：经过思考一段时间，我认为这给出了 HTML 的错误模型。  HTML 标签不存在，因此您必须编写更少的 javascript 或 css 才能获得相同的外观和行为，而 javascript 和 css 的存在是为了增强 HTML 的交互性和视觉效果。 &lt; /div&gt;  由   提交 /u/SyefufS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwcbpu/change_my_mind_html_should_come_last/</guid>
+      <pubDate>Fri, 05 Apr 2024 07:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人转向 SwiftUI 开发吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwbnis/has_anyone_transitioned_to_swiftui_development/</link>
+      <description><![CDATA[我不断听到人们称赞 Swift / SwiftUI，并考虑自己开始移动开发。与 React Native 和 Flutter 相比，我更喜欢 SwiftUI，并且目前对 Kotlin 不感兴趣。 对 SwiftUI 有什么意见吗？您能想象从 Web 开发完全切换到本机移动开发吗？   由   提交 /u/tspwd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwbnis/has_anyone_transitioned_to_swiftui_development/</guid>
+      <pubDate>Fri, 05 Apr 2024 07:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在网页中使用什么动画和关键帧？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwbmrq/what_do_you_use_for_animations_and_keyframes_in/</link>
+      <description><![CDATA[我已经在 Webdev 工作了好几年了，但我从来没有真正在动画上做过那么多工作。我只是坚持在链接和按钮上使用一些简单的悬停动画，然后就到此为止了。学习它感觉有点不知所措，我不太确定学习它的最佳起点是什么。 例如，有“简单”和“简单”。像 animatejs 这样的库。还有其他动画库，例如 Framer Motion，它们可以与 React 和 Vue 等框架很好地配合。我曾在一些断断续续的场合使用过它。还有像gsap之类的东西，我不太明白。然后还有带有三个 js 的 3D 动画，但这太难以承受了，所以不会很快发生。 无论如何，我开发的大多数网页都是我们正在尝试的某种产品/服务出售。因此，我想体验一下使用一些简单的动画，例如滚动上的淡入/淡出内容、文本动画等 但我不太确定从哪里开始。对于那些使用大量动画和关键帧的人来说，您通常如何处理它？    由   提交 /u/Spiritual_Salamander   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwbmrq/what_do_you_use_for_animations_and_keyframes_in/</guid>
+      <pubDate>Fri, 05 Apr 2024 07:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 推出 Grok-1.5</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwbemh/elon_musk_unveils_grok15/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/Temporary_Balance158   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwbemh/elon_musk_unveils_grok15/</guid>
+      <pubDate>Fri, 05 Apr 2024 06:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我编辑/设计我的 webflow 网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwaz5f/can_someone_help_me_with_editingdesigning_my/</link>
+      <description><![CDATA[我只是第一次尝试，已经好几天了，但我已经完成了一些工作。    由   提交 /u/Delhisehubhaisahab1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwaz5f/can_someone_help_me_with_editingdesigning_my/</guid>
+      <pubDate>Fri, 05 Apr 2024 06:16:27 GMT</pubDate>
+    </item>
     <item>
       <title>无法下载文件！！</title>
       <link>https://www.reddit.com/r/webdev/comments/1bw9v37/not_able_to_download_the_file/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[.aClass .childClass { } 或 @media (prefers-color-scheme: dark) { }  我不明白如何在 go templ css 组件中执行这些操作，因为选择器是函数名称，而这些不是有效的函数名称。 我是 Web 开发新手，了解不多所以 ELI5 请   由   提交/u/no_brains101  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bw7eik/how_do_i_do_compound_selectors_and_media_queries/</guid>
       <pubDate>Fri, 05 Apr 2024 03:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在不做大量工作的情况下更改大型画廊网站上的后端文件夹结构吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw66ei/can_i_change_the_backend_folder_structure_on_a/</link>
-      <description><![CDATA[不确定我发布的位置是否正确，如果不正确，请指出我正确的方向。  我有一个网站，其中包含 500 多页的图片库，这些图片库来自数十年的徒步旅行和旅行。我刚刚让 Fiverr 的人将网站从 Joomla 迁移到 Wordpress。该网站看起来很棒，但后端的文件夹结构没有保留。 以前它是按日期或地区组织的，每个画廊一个文件夹，文件夹名称为日期/地点，每个文件夹有 5- 40 张图片。现在它们已被合并到随机编号的文件夹中，每个文件夹有 100-400 张图片。 这真让我烦恼。另一个缺点是画廊的链接毫无意义。以前的链接类似于 mywebsite/oregon_sept2023，现在更像 mywebsite/67-24-70-20。 旧文件夹和图片仍然在后端。有什么办法可以解决这个问题而不需要大量的工作吗？   由   提交/u/Ben_Unlocked  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw66ei/can_i_change_the_backend_folder_structure_on_a/</guid>
-      <pubDate>Fri, 05 Apr 2024 02:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>期待（也许）有一天不再需要响应式图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw64ro/looking_forward_to_maybe_not_needing_responsive/</link>
-      <description><![CDATA[   /u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw64ro/looking_forward_to_maybe_not_needing_responsive/</guid>
-      <pubDate>Fri, 05 Apr 2024 02:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望存在哪种 REST API 或 SASS 平台或者更便宜？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw62x6/what_rest_api_or_sass_platform_you_wish_existed/</link>
-      <description><![CDATA[现实且有益于他人的东西（即对于您的特定项目来说不是非常具体）   由   提交 /u/HalfAnonymous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw62x6/what_rest_api_or_sass_platform_you_wish_existed/</guid>
-      <pubDate>Fri, 05 Apr 2024 02:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我开始讨厌我的工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw5ptl/why_am_i_starting_to_hate_my_job/</link>
-      <description><![CDATA[我一开始是一名自学成才的开发人员，后来从大学退学，找到了一份年薪 3 万的工作。这是一份不错的工作，但并不比成为一名光荣的实习生好多少。  新冠疫情来袭，我找到了一份新工作。我借此机会提高了自己的水平，我想说我现在是一名称职的中级工程师。 问题是，尽管我每年赚 10 万，但我讨厌我现在所做的事情。我曾经是一名前端开发人员，后来涉足后端。现在我的主要职责是后端。 我知道事情就是这样，你按照老板告诉你的去做，但我怀念 UI。我想念更少的写作，我想念可访问性。  但我不能离开去做另一份工作。我通过目前的工作获得医疗和退休金，而市场很糟糕。 我该怎么办？在我彻底精疲力尽并开始讨厌所有的 Web 开发之前，我能做些什么吗？   由   提交/u/Affectionate_Debt_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw5ptl/why_am_i_starting_to_hate_my_job/</guid>
-      <pubDate>Fri, 05 Apr 2024 01:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户登录/注册和使用谷歌登录的烧瓶后端模板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw4ffn/flask_backend_template_on_user_loginsignup_and/</link>
-      <description><![CDATA[我在网上找不到完整的资源/教程。有很多具有完全构建的用户身份验证的模板，但它们通常是用 JS 编写的。 我正在尝试使用 python Flask 来执行以下操作：  用户登录 用户注册 记住我 忘记密码？ 验证电子邮件 使用 Google 登录&lt; /li&gt;  我发现许多 github 模板都缺少一些重要功能，例如处理忘记密码的情况。   由   提交 /u/MysteriousShadow__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw4ffn/flask_backend_template_on_user_loginsignup_and/</guid>
-      <pubDate>Fri, 05 Apr 2024 00:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在我的网站上创建这种反向滤镜效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw27lb/how_do_i_create_this_inverse_filter_effect_on_my/</link>
-      <description><![CDATA[      抱歉，菜鸟问题。只是一个戴着很多帽子的时尚实习生😭 https://www.rolandmouret.com/en-us    由   提交 /u/pineapplefreepizza   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw27lb/how_do_i_create_this_inverse_filter_effect_on_my/</guid>
-      <pubDate>Thu, 04 Apr 2024 23:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们收取网站维护费吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw1dxt/do_you_guys_charge_website_maintenance_fees/</link>
-      <description><![CDATA[您好！  我过去为我的老企业和我重要的其他服务业务制作了一些 squarespace 网站，我只是为了好玩而闲逛，没有真正的编码。  我最近帮助一些朋友建立了他们的商业网站，最初是一个基本的网站，现在已经变得越来越分层和详细，有很多我不确定 Squarespace 能否满足或我会满足的要求。必须在工作中学习，到目前为止我还没有获得愉快的经历。  他们向我提供了一定比例的业务或一些付款，我决定向他们收取构建的折扣费率，因为我讨论了我是多么缺乏经验，并认为这只是一个快速的恩惠，但是这些人无法运行他们的网站。我曾提议对某人进行基本变革培训，但遭到了抵制。我不介意获得报酬来进行更新，因为大部分更新都是基于事件的，如果我提前掌握详细信息，我可以将内容删除。  关于如何正确导航的任何提示？您如何构建这些费率？  是否有为小型企业构建 squarespace 的市场，我可以在其中兼职做这件事？    由   提交 /u/ConstipatedFrenchie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw1dxt/do_you_guys_charge_website_maintenance_fees/</guid>
-      <pubDate>Thu, 04 Apr 2024 22:41:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 06:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 09:12:29 GMT</lastBuildDate>
+    <item>
+      <title>有人知道这是关于什么的吗？ （我对软件一无所知，所以请跟我裸露😅）</title>
+      <link>https://www.reddit.com/r/software/comments/1bwc48t/anyone_knows_what_this_is_about_i_know_nothing/</link>
+      <description><![CDATA[ 由   提交 /u/IIISkyarzIII   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwc48t/anyone_knows_what_this_is_about_i_know_nothing/</guid>
+      <pubDate>Fri, 05 Apr 2024 07:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议：财富和基金管理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1bwbl5k/advice_software_for_wealth_and_fund_management/</link>
+      <description><![CDATA[嗨，朋友们， 我们有一位从事财富和基金管理业务的客户。他们拥有一些私人基金，从客户那里收集资金并将其投资到这些基金中，并在每个月末宣布利润百分比，然后进行相应的分配。 除了 Office 365 之外，他们还运行供内部使用的小型会计系统 他们目前手动运行 MS Excel 的所有内容，没有自动化。他们在 Excel 上有客户列表，每个客户都有自己的 Excel 报表，他们注册的每个基金。每个月底，他们都会手动将交易添加到每个 Excel 表格（大约几百个）中，然后转换为 PDF 并发送报表。  我想检查是否有任何交易对可以支持的软件的建议？ 现成的会计系统是否适合他们的用例  他们目前的主要痛点是解决他们的手动流程。即获得利润分配，每月发送报表 顺便说一句，客户也没有门户等来查看报表。他们通过电子邮件手动接收或必须请求。   由   提交 /u/monakhous   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwbl5k/advice_software_for_wealth_and_fund_management/</guid>
+      <pubDate>Fri, 05 Apr 2024 06:57:50 GMT</pubDate>
+    </item>
     <item>
       <title>免费或非常便宜的身份证/证卡打印软件？</title>
       <link>https://www.reddit.com/r/software/comments/1bwab4z/free_or_very_cheap_id_badgecard_printing_software/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[顺便说一句，这是在 Mac 上。 所以我需要将在 Apple 书店购买的 ePub 图书转换为pdf。 我尝试过 Calibre，但不起作用。我添加了这本书，然后它给了我一个警告，说它“没有电子书文件”。 我尝试了在线转换器（ePub.to），如果我按“选择文件”，那么我的 epub 书就会变灰出来了，我无法选择它。我的桌面上有另一本 epub 书，我可以选择它，但不是我真正想要转换的那本。 这无缘无故令人沮丧，我只想将文件制作为 pdf，它应该别这么难！如果有人可以建议我如何完成这项工作，我将非常感激！   由   提交/u/SuspiciousPrune4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bvrjm2/converting_epub_to_pdf_is_driving_me_absolutely/</guid>
       <pubDate>Thu, 04 Apr 2024 16:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>大页PDF扫描合并</title>
-      <link>https://www.reddit.com/r/software/comments/1bvkz2o/large_page_pdf_scan_merger/</link>
-      <description><![CDATA[我有一个大幅面建筑计划。页面大小约为 10xA4。我扫描了每一页，我正在寻找一种软件，可以将其转换回一个大的 PDF 文件，而不会将计划分成几页。首选 OSS。    由   提交 /u/tszaboo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bvkz2o/large_page_pdf_scan_merger/</guid>
-      <pubDate>Thu, 04 Apr 2024 11:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不知道如何使用cookies登录</title>
-      <link>https://www.reddit.com/r/software/comments/1bvj78e/i_dont_know_how_to_login_with_cookies/</link>
-      <description><![CDATA[嘿，你能帮忙吗？我从一个网站购买了批量 Facebook 帐户，他们向我发送了号码、密码和 cookie，说我应该使用 cookie 登录，但我不知道如何登录，我没有任何线索  &lt; !-- SC_ON --&gt;  由   提交 /u/Bileeandro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bvj78e/i_dont_know_how_to_login_with_cookies/</guid>
-      <pubDate>Thu, 04 Apr 2024 09:51:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
