@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:20:51 GMT</lastBuildDate>
+    <item>
+      <title>Android 中的一些音乐和目录</title>
+      <link>https://www.reddit.com/r/software/comments/1bwg5h5/someting_to_music_and_directorys_in_android/</link>
+      <description><![CDATA[不久前，由于一些烦人的原因，品牌想在音乐和目录管理员等应用程序中放置广告，这对我来说非常烦人，所以如果你知道有些应用程序/apk 可以使用此类程序，我将非常感激 （顺便说一句，对不起我的英语）   由   提交/u/sumaramdom  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwg5h5/someting_to_music_and_directorys_in_android/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何为应用程序实现动态二维码生成？</title>
+      <link>https://www.reddit.com/r/software/comments/1bwfv6h/how_do_we_implement_dynamic_qr_code_generation/</link>
+      <description><![CDATA[我们正在开发一款移动应用程序，我们在其中使用 QR 码来表示活动门票或促销活动等可能随时间变化的信息。我一直在使用一个简单的二维码生成器，但现在我需要制作可以实时更新的二维码。我不知道如何做到这一点，我正在寻求一些建议。 但我认为此功能对于那些开发信息不断变化的应用程序的人来说通常很重要。例如，如果有人购买了活动门票，则可以使用座位号或其他详细信息更新二维码。或者，为了促销，二维码可能会更改以显示最新优惠。对于诸如交付之类的事情，它也可以很好地工作......还没有具体想过如何，但我确信你们中的一些人已经使用过这样的功能并且了解更多。  那么，有人有这方面的经验吗？如何在移动应用程序中设置二维码自动更新？  无论如何，我想确保 QR 码易于扫描并且对我的应用程序的用户来说效果良好，因此任何有关如何执行此操作的建议将不胜感激。预先感谢您的帮助！   由   提交 /u/Xanf3rr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwfv6h/how_do_we_implement_dynamic_qr_code_generation/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的防病毒免费计划是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1bwftao/what_is_the_best_antivirus_freeplan/</link>
+      <description><![CDATA[我从未尝试过使用 Windows Defender 以外的任何应用程序，但最近我一直在阅读有关它的内容，它现在真的变坏了吗？如果是的话，我想知道是否有任何好的免费防病毒应用程序。   由   提交 /u/lazall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwftao/what_is_the_best_antivirus_freeplan/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:37:44 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道这是关于什么的吗？ （我对软件一无所知，所以请跟我裸露😅）</title>
       <link>https://www.reddit.com/r/software/comments/1bwc48t/anyone_knows_what_this_is_about_i_know_nothing/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嘿社区，我需要你们的群体智能。我正在寻找 IT 库存的开源解决方案。您对可以检测网络中所有设备并扫描其服务/端口的安装软件有什么建议。应该可以存储数据和信息。最后但并非最不重要的一点是，如果所有内容都可以以网络地图的形式显示出来，那就太好了。  我知道有很多愿望，但不幸的是我还没有找到任何东西。 提前致谢！   由   提交 /u/ralf_randale   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bvvzpa/it_inventory_software/</guid>
       <pubDate>Thu, 04 Apr 2024 19:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频和视频软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1bvv6ve/audio_and_visual_software/</link>
-      <description><![CDATA[嗨，第一次来。我很快就要召集人们，我们的想法是举办一个音乐和音乐视频之夜。我的问题是，我已将所有歌曲保存为将要播放的 WAV 文件，但我想通过 HDMI 连接器在其间显示一两个音乐视频。如何在不显示视频播放器或桌面的任何 UI 的情况下无缝显示视频，然后切换回仅黑屏播放歌曲？我应该查看特定的程序吗？谢谢。   由   提交 /u/CellaPella   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bvv6ve/audio_and_visual_software/</guid>
-      <pubDate>Thu, 04 Apr 2024 18:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以从受 FairPlay DRM 保护的 ePub 图书中提取文本吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1bvt2ad/is_there_any_way_to_extract_the_text_from_a/</link>
-      <description><![CDATA[所以我最近从 Apple Books 买了一本书，它是一本带有看似牢不可破的 FairPlay DRM 的 epub，所以无法将其导出为 pdf。&lt; /p&gt; 所以我唯一能做的就是浏览所有 200 页并将文本复制/粘贴到文档中，然后将其另存为 pdf。但这真的很烦人 - 有没有任何软件可以自动化该过程并可以提取所有文本并将其放入文档中？   由   提交/u/SuspiciousPrune4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bvt2ad/is_there_any_way_to_extract_the_text_from_a/</guid>
-      <pubDate>Thu, 04 Apr 2024 17:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 epub 转换为 pdf 简直让我发疯</title>
-      <link>https://www.reddit.com/r/software/comments/1bvrjm2/converting_epub_to_pdf_is_driving_me_absolutely/</link>
-      <description><![CDATA[顺便说一句，这是在 Mac 上。 所以我需要将在 Apple 书店购买的 ePub 图书转换为pdf。 我尝试过 Calibre，但不起作用。我添加了这本书，然后它给了我一个警告，说它“没有电子书文件”。 我尝试了在线转换器（ePub.to），如果我按“选择文件”，那么我的 epub 书就会变灰出来了，我无法选择它。我的桌面上有另一本 epub 书，我可以选择它，但不是我真正想要转换的那本。 这无缘无故令人沮丧，我只想将文件制作为 pdf，它应该别这么难！如果有人可以建议我如何完成这项工作，我将非常感激！   由   提交/u/SuspiciousPrune4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bvrjm2/converting_epub_to_pdf_is_driving_me_absolutely/</guid>
-      <pubDate>Thu, 04 Apr 2024 16:26:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

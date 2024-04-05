@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:21:16 GMT</lastBuildDate>
+    <item>
+      <title>桌面上真的没有可靠的日历解决方案吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bwf0mz/is_there_actually_no_solid_calendar_solution_for/</link>
+      <description><![CDATA[在我的手机上，我使用 davx5 和默认日历应用程序，一切正常。它同步谷歌日历以及自托管的 Radile 或 nextcloud 日历 - 所有这些都会出现在日历应用程序中，太棒了！ 现在在 Linux 桌面上，我看到自己被迫使用 Morgen（非免费）因为这似乎是与 caldav 源交互的最简单的方式（尽管任何添加都需要昂贵的高级订阅）。 重点是，我希望错过一些你们可以推荐的适合的 foss 应用程序我的工作流程与 Android 上的工作流程相匹配。我读过很多 Reddit 帖子，但未能找到解决方案，但我仍然希望有一个解决方案，因为拥有一个轻量级（看看你，Thunderbird）但能够同步 caldav 源的应用程序是必不可少的。   由   提交 /u/AimPizza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bwf0mz/is_there_actually_no_solid_calendar_solution_for/</guid>
+      <pubDate>Fri, 05 Apr 2024 10:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github/lab/etc 礼仪 - 项目被放弃后如何继续</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bweept/githublabetc_etiquette_how_to_proceed_after_a/</link>
+      <description><![CDATA[嘿。我遇到过几次这样的情况，涉及 Github 上的小项目被作者放弃，我想听听你是如何处理的。 我使用了一个 Plasma 小部件，它只能工作在 Plasma 5 上。当 Plasma 6 发布时，有人创建了一个请求端口的问题，但作者似乎已经放弃了它并且没有回复。还有一些几年前的拉取请求尚未得到答复。作者多年来没有任何 Github 历史记录。 该小部件可能拥有不错的用户群，因为出现了一些将其移植到 Plasma 6 的分支。理论上，这很棒。只是现在有三个不同的分叉分别处理同一件事。还有更多的分支向小部件添加了有用的功能，这些功能都彼此分开。 人们愿意为此做出贡献，这很酷，但它造成了一种情况，因为从那时起，就浪费了很多精力。作者显然已经放弃了该项目。 如果我的目标至少是协调这项工作，我该如何处理这个问题？我可以创建自己的分支并将所有有用的东西合并在一起以创建一个集中所有这些工作的版本吗？或者我可能只是制造更多混乱？ 我想听听你的想法。干杯！   由   提交/u/NoAdsOnlyTables   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bweept/githublabetc_etiquette_how_to_proceed_after_a/</guid>
+      <pubDate>Fri, 05 Apr 2024 10:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Code 的 Ice 主题 🧊</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bwe6b1/ice_theme_for_vs_code/</link>
+      <description><![CDATA[嘿，我创建了一个 VS Code 主题，我想你们会喜欢它。 你可以获得它从这里开始👇 https://marketplace.visualstudio.com/items?itemName=ayushmaansingh.blazetheme 如果您真的喜欢这个主题，如果您能在市场上留下您的评论，我将不胜感激。 ssr=false#review-details&quot;&gt;https://marketplace.visualstudio.com/items?itemName=AyushmaanSingh.blazetheme&amp;ssr=false#review-details   由   提交/u/ayushmaansingh304  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bwe6b1/ice_theme_for_vs_code/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:57:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源公司为开源付费</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bwdscv/opensource_companies_paying_for_opensource/</link>
+      <description><![CDATA[如果私营公司可以向你支付相当于自由职业者的工资，你会为开源做出更多贡献吗？ 我觉得私营公司使用这些 oss lobrairies 来开发 oss 的潜力尚未开发。   由   提交 /u/MonsieurVIVI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bwdscv/opensource_companies_paying_for_opensource/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>在较大项目的协处理器上使用 GPL3 许可代码 - 整个项目是否需要采用 GPL3</title>
       <link>https://www.reddit.com/r/opensource/comments/1bwcpl7/using_gpl3_licensed_code_on_a_coprocessor_in_a/</link>
@@ -62,7 +90,7 @@
       <pubDate>Thu, 04 Apr 2024 13:22:52 GMT</pubDate>
     </item>
     <item>
-      <title>Open CoDE 是公共管理部门用于开源软件交流的联合平台</title>
+      <title>Open CoDE 是公共管理部门用于开源软件交换的联合平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</link>
       <description><![CDATA[ 由   提交 /u/Doener23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由   提交/u/vmbrasseur  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bvencw/introducing_selfhstapps_a_directory_of_selfhosted/</guid>
       <pubDate>Thu, 04 Apr 2024 04:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>XR 调试器 |在虚拟现实中调试 ExpressJS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bv8nza/xrdebugger_debug_your_expressjs_in_virtual_reality/</link>
-      <description><![CDATA[   /u/dht  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bv8nza/xrdebugger_debug_your_expressjs_in_virtual_reality/</guid>
-      <pubDate>Thu, 04 Apr 2024 00:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jpegli 简介：新的 JPEG 编码库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1buxak2/introducing_jpegli_a_new_jpeg_coding_library/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/McSnoo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1buxak2/introducing_jpegli_a_new_jpeg_coding_library/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>最小的 X 应用程序，在按键时隐藏光标并在鼠标移动时取消隐藏。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1buw1pj/minimal_xapplication_which_hides_the_cursor_on/</link>
-      <description><![CDATA[描述 xhidecursor是一个最小的 X 应用程序，它在按键时隐藏光标，在鼠标移动时取消隐藏光标。与其他流行的替代方案（例如 xbanish）相比，其两个主要优点是：  简单性： xhidecursor ~40 SLOC 与 xbanish ~488 SLOC。这是因为 xhidecursor 仅使用 XFIXES-Extension 来隐藏光标，而 xbanish 实现了许多 性能：如果通过在 htop 周围不规则地移动鼠标对 i5-8350U CPU 进行压力测试，则显示 CPU 利用率为 &lt; xhidecursor 的代码&gt;0%，xbanish 的代码&gt;1.3%。这是因为 xhidecursor 仅侦听第一个鼠标移动以取消隐藏光标，并忽略所有后续鼠标移动。另一方面，xbanish 会处理每个鼠标移动，即使鼠标已经可见。按键也是如此。  依赖项  libxi libxifixes  安装 sh make install    由   提交/u/aleksandrsstier  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1buw1pj/minimal_xapplication_which_hides_the_cursor_on/</guid>
-      <pubDate>Wed, 03 Apr 2024 15:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源社区如何利用生成式人工智能？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1buvtlw/how_does_the_open_source_community_make_use_of/</link>
-      <description><![CDATA[我是开源新手，想知道社区（特别是 Github）如何利用 GenAI？您觉得有什么有用的 github 机器人吗？您希望 github 拥有任何 GenAI 功能吗？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1buvtlw/how_does_the_open_source_community_make_use_of/</guid>
-      <pubDate>Wed, 03 Apr 2024 15:42:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

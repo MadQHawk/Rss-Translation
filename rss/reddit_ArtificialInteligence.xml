@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:20:13 GMT</lastBuildDate>
+    <item>
+      <title>可以用书来训练我自己的人工智能吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwfmjs/is_it_possible_to_train_my_own_ai_using_a_book/</link>
+      <description><![CDATA[我可以给一个人工智能模型一本书，它会根据它学到的关于这本书的信息在道德上正确与否做出偏见吗？ （如果是这样，我想知道如何做到这一点以及我需要什么）    由   提交 /u/Sebleboy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwfmjs/is_it_possible_to_train_my_own_ai_using_a_book/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我妈妈对人工智能并不感到惊讶</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwfivl/my_mum_isnt_surprised_by_ai/</link>
+      <description><![CDATA[我刚刚告诉我妈妈关于 Sora 的事，她开始说这根本不令人印象深刻。我告诉她，人工智能学会了做出那些真实的动作（并非在所有情况下），但她说，是人类在做这些动作，而不是人工智能，只是因为有人教它这样做。她说这很容易做到，并告诉我，我不明白人工智能不会学习任何东西，只是人类在做。  你对此有何看法？   由   提交/u/drixy007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwfivl/my_mum_isnt_surprised_by_ai/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>NLTK 与 spaCy：选择正确的 NLP 工具包</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwf7kd/nltk_vs_spacy_choosing_the_right_nlp_toolkit/</link>
+      <description><![CDATA[自然语言处理 (NLP) 对于计算机理解人类语言至关重要。用于 NLP 任务的两个流行工具包是 NLTK 和 spaCy。 NLTK 为标记化和词性标记等任务提供了广泛的算法，因其灵活性而受到研究人员的青睐。然而，它可能具有更陡峭的学习曲线和更慢的大型数据集性能。 SpaCy 优先考虑速度和易用性，为常见 NLP 任务提供预训练模型。它非常适合寻求快速实施的开发人员，尽管它可能缺乏与 NLTK 相同级别的定制。 总结：  NLTK 适合需要细粒度控制的研究人员. spaCy 非常适合优先考虑速度和易用性的开发人员。  有关详细比较，请查看博客 - https://www.seaflux.tech/blogs/nltk-vs-spacy-nlp-libraries-comparison   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwf7kd/nltk_vs_spacy_choosing_the_right_nlp_toolkit/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zoom IQ 真的对销售人员有帮助吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwe2hm/is_zoom_iq_really_helping_salespeople/</link>
+      <description><![CDATA[Zoom IQ，这个 Zooms Ai 对销售人员特别有帮助。现在，这些说法是由 Zoom 提出的，它利用人工智能来检测情绪。  Zoom IQ 跟踪指标包括：  说听比 说话速度 填充词 &lt; li&gt;最长的长篇大论（独白） 耐心 引人入胜的问题 下一步设置 情绪/参与度分析  但我们发现，由于基于情感的人工智能的实施，这种功能受到了很多人的批评。有人用过Zoom的这个功能吗？我们本来计划尝试一下，但我们对此表示怀疑，因为这会导致 Zoom 进行广泛的深入数据访问。尽管我们非常清楚此类平台会在幕后跟踪您的数据。    由   提交 /u/hownest   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwe2hm/is_zoom_iq_really_helping_salespeople/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:50:37 GMT</pubDate>
+    </item>
     <item>
       <title>创建超现实的 AI 同伴并与之交谈</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwdbjm/create_and_talk_to_hyperrealistic_ai_companions/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[我正在寻找一个 AI 模型，我可以在其中输入手机等对象的名称，它可以为我提供类似对象的列表，例如。钱包，对讲机。有人知道是否有一个模型可以做到这一点？   由   提交/u/AJS_123  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwd104/model_to_find_objects_similar_to_an_input/</guid>
       <pubDate>Fri, 05 Apr 2024 08:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种用于人工智能开发的编程语言？再想一想</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwcsdt/one_programming_language_for_ai_development_think/</link>
-      <description><![CDATA[人工智能 (AI) 正在给许多领域带来革命性的变化，用于构建这些智能系统的语言也同样多种多样。虽然 Python 通常因其可读性和丰富的库而成为首选，但最佳选择取决于您的具体项目。 要冒险进入人工智能开发领域，请考虑以下因素：  可读性：学习和编写代码有多容易？ 性能：语言能否有效处理复杂的计算？ 库和框架：是否有成熟的工具来支持使用这种语言进行 AI 开发？Java、C++ 和 Julia 在性能方面具有优势，而 R 在统计分析方面具有强大优势。  探索不同的选项，找到最适合您的 AI 项目的选项。&lt; /p&gt; 有关详细研究，请参阅博客 - https://www. seaflux.tech/blogs/essential-programming-languages-ai-development   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwcsdt/one_programming_language_for_ai_development_think/</guid>
-      <pubDate>Fri, 05 Apr 2024 08:23:11 GMT</pubDate>
     </item>
     <item>
       <title>欧洲主要能源交易所探讨人工智能交易转型</title>
@@ -48,32 +69,11 @@
       <pubDate>Fri, 05 Apr 2024 07:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>避免现有项目抄袭的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwbi54/ideas_to_avoid_plagiarism_on_a_existing_project/</link>
-      <description><![CDATA[https://in.mathworks.com/help/audio/ug/train-gan-for-sound-synthesis.html GAN  这个是我的迷你项目代码，我的指南要求我修改一些东西以使其更高效，但当我尝试做一些事情时，它不断弹出错误，最后最终将激活乐趣从 relu 更改为 gelu :)但是，他们这么说必须有大约 60% 的你自己的工作，我的指南让我检查一下我是否可以在 simulink 中实现这些块，你们可以帮助我吗 ps：提前感谢🫶   由   提交/u/inca_16  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwbi54/ideas_to_avoid_plagiarism_on_a_existing_project/</guid>
-      <pubDate>Fri, 05 Apr 2024 06:52:09 GMT</pubDate>
-    </item>
-    <item>
       <title>面向软件开发人员的 AI 工具包</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwbbgg/ai_toolkit_for_a_software_developer/</link>
       <description><![CDATA[TLDR：除了 Copilot 之外，您用于开发的 AI 工具包是什么？  我想尝试将人工智能更多地集成到我的软件开发循环中，但老实说我有点迷失。 我使用 GitHub Copilot 并且非常喜欢它，但我很难在我的开发周期中集成更多工具。 我一直想象人工智能能够为我做一些事情：  自动检查我的代码库并提出建议关于效率/代码质量 让我随时了解相关领域的重要论文/新闻/技术 为我的项目生成文档 跟踪我的沟通在 Jira/messengers/etc 中，并充当我的个人助理来导航/提醒我一些事情  我有时会尝试搜索这些工具，但我只能找到以下文章： “看看 2024 年 10 款最棒的人工智能工具”列出了名称中带有人工智能的各种初创技术。 那么，reddit，您经常使用哪些人工智能工具进行软件开发？   由   提交 /u/SegmentationFall   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwbbgg/ai_toolkit_for_a_software_developer/</guid>
       <pubDate>Fri, 05 Apr 2024 06:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于简历的免费人工智能工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwazqf/free_ai_tool_for_resume/</link>
-      <description><![CDATA[是否有免费的人工智能工具可以从我现有的简历中复制数据并将其制作/粘贴到新的简历中？我在市场上找到了一些，都是付费的，而且价格相当昂贵。    由   提交/u/Professional-Cap385   reddit.com/r/ArtificialInteligence/comments/1bwazqf/free_ai_tool_for_resume/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwazqf/free_ai_tool_for_resume/</guid>
-      <pubDate>Fri, 05 Apr 2024 06:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 4/4/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bw9gno/oneminute_daily_ai_news_442024/</link>
-      <description><![CDATA[ 微软、谷歌、IBM、思科和其他公司将制作一份关于人工智能如何改变科技工作的报告[1] OpenAI 正在扩展一项名为“自定义模型”的计划，以帮助企业客户使用其针对特定用例、领域和应用程序的技术开发定制的生成式 AI 模型。[2 ] 纽约市创建的一款人工智能驱动的聊天机器人，旨在帮助小企业主，但因提供奇怪的建议而受到批评，这些建议歪曲了当地政策并建议公司违反法律。 [3] Meta 的人工智能图像生成器确实很难理解异族情侣的概念。[4] 来源包括：https://bushaicave.com/2024/04/04/4-4-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bw9gno/oneminute_daily_ai_news_442024/</guid>
-      <pubDate>Fri, 05 Apr 2024 04:48:04 GMT</pubDate>
     </item>
     <item>
       <title>伽利略到人工智能：挑战教条，重新定义意识。</title>
