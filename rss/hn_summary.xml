@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 18:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:46:07 GMT</lastBuildDate>
     <item>
-      <title>posit-dev.github.io 上的内容深入探讨了表的设计理念，特别是 f [...]</title>
-      <link>https://t.me/hn_summary/82959</link>
-      <description><![CDATA[优秀表格的设计哲学（Python）&lt; br /&gt;
-posit-dev.github.io 上的内容深入研究桌子的设计理念，特别关注桌子在过去 5000 年的演变。 20 世纪 20 年代中期是表格设计的巅峰时期，先进的印刷技术可以实现表格的精确排版。计算的普及使表格回到了简单的时代，给数据工作者带来了困境。该网站推出了“Great Tables”作为解决这一困境的方法，提供了有关如何使表格有效以及如何构建信息以提高易读性的见解。探索表格的历史，从古代粘土板到现代电子表格，为理解表格设计的重要性提供背景。 （根据 50% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82959</guid>
-      <pubDate>Thu, 04 Apr 2024 18:15:56 GMT</pubDate>
+      <title>[媒体]在一个人工智能公司在未经许可的情况下贪婪地消耗数据的世界中，这是[...]</title>
+      <link>https://t.me/hn_summary/83005</link>
+      <description><![CDATA[访问数据并不意味着授权利用它
+在当今的世界里，人工智能公司在未经许可的情况下贪婪地消耗数据，是时候反击了。人工智能炒作周期正在达到泡沫状态，公司认为他们有权利用公共数据谋取私利。 Ed Zitron 警告说，人工智能模型正在耗尽基于文本的高质量数据，导致对更多数据、能源和计算能力的无限需求。音乐家、作家、艺术家和创作者应该受到人工智能公司的保护，这些公司试图在未经许可的情况下从他们的作品中获利。是时候阻止爬虫，忽视聊天机器人，抵制数字化的土地掠夺，这只会有利于公司，而不利于创作者。]]></description>
+      <guid>https://t.me/hn_summary/83005</guid>
+      <pubDate>Fri, 05 Apr 2024 00:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Freegptjs 是一个 Node.js 库，可免费访问 OpenAI ChatGPT 3.5 API [...]</title>
-      <link>https://t.me/hn_summary/82958</link>
-      <description><![CDATA[显示 HN：Freegptjs、Node.js 免费 GPT 3.5 API 库&lt; /a&gt;
-Freegptjs 是一个 Node.js 库，可通过 JavaScript 免费访问 OpenAI ChatGPT 3.5 API，无需 API 密钥。它允许用户与 GPT 模型交互以完成聊天并支持流式响应。该项目的独特之处在于提供了一个简单易用的界面来访问 GPT 3.5 API，使其成为希望将人工智能支持的聊天功能集成到其应用程序中的开发人员的便捷工具。特别感谢启发 Freegptjs 的类似项目的贡献者。]]></description>
-      <guid>https://t.me/hn_summary/82958</guid>
-      <pubDate>Thu, 04 Apr 2024 18:04:49 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/83004</link>
+      <description><![CDATA[美国政府正在失去对微软的信任
+由于有关中国黑客闯入微软管理的政府电子邮件帐户的安全漏洞的严厉报告，美国政府正在失去对微软的信任。该报告批评微软迟迟未能纠正有关该事件的不准确陈述，导致人们对其安全实践失去信任。这场争议凸显了安全漏洞透明度对于企业技术买家的重要性。其他消息方面，Cohere 正在针对企业客户推出一种在业务任务方面优于 GPT-4 Turbo 的新模型，并且 F5 和 Verisk 等公司也任命了新的高管。]]></description>
+      <guid>https://t.me/hn_summary/83004</guid>
+      <pubDate>Fri, 05 Apr 2024 00:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>Incus 团队很高兴地宣布发布 Incus 6.0 LTS，这是一种现代系统容器 [...]</title>
-      <link>https://t.me/hn_summary/82957</link>
-      <description><![CDATA[Incus 6.0 LTS已发布
-Incus 团队很高兴地宣布发布 Incus 6.0 LTS，这是一个具有类似云功能的现代系统容器和虚拟机管理器。此版本标志着第一个 LTS 版本，其支持时间延长至 2029 年 6 月。显着变化包括容器的交换限制、新的 shell 完成机制、外部桥接接口的创建、带有附加磁盘的虚拟机的实时迁移、incus info 中的系统信息以及USB 设备信息。该版本还重点介绍了自 LXD 5.0 LTS 以来新增的功能，包括 API 改进和新实例功能。此版本是 Incus 的一个重要里程碑，为用户提供了一系列新功能。 （根据 36% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82957</guid>
-      <pubDate>Thu, 04 Apr 2024 18:02:45 GMT</pubDate>
+      <title>[媒体]尽管有警告标志和闪烁的灯光，佛蒙特州林登历史悠久的廊桥 [...]</title>
+      <link>https://t.me/hn_summary/83003</link>
+      <description><![CDATA[美国的桥梁受到依赖 GPS 的卡车司机的威胁汽车
+尽管有警告标志和闪烁的灯光，佛蒙特州林登市历史悠久的廊桥仍不断被依赖汽车 GPS 的货车司机损坏。该镇面临罚款和维修费用，一些司机在撞桥后驾车逃跑。警察局长杰克·哈里斯估计 Miller’s Run 桥已经被撞了两打，一些司机声称他们不知道自己撞到了桥。该镇正在考虑安装钢梁来阻止卡车，而一家箱式卡车租赁公司现在警告司机注意该地区的廊桥。争议在于古桥是保护还是更换。]]></description>
+      <guid>https://t.me/hn_summary/83003</guid>
+      <pubDate>Fri, 05 Apr 2024 00:29:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]各位开发者注意了！</title>
-      <link>https://t.me/hn_summary/82956</link>
-      <description><![CDATA[IDE 中的编码代理：生成任务计划并了解计划代码完成
-所有开发商请注意！在 IDE 中引入编码代理，这是一种革命性的工具，可以生成任务计划并提供计划感知的代码完成功能。告别手动规划，迎接高效编码。只需启用 JavaScript 即可体验这一改变游戏规则的功能的强大功能。利用这一创新工具提高您的工作效率并简化您的工作流程。不要错过这个将您的编码技能提升到新水平的机会。今天就尝试一下，亲自看看有何不同。 #编码#IDE #创新。]]></description>
-      <guid>https://t.me/hn_summary/82956</guid>
-      <pubDate>Thu, 04 Apr 2024 17:51:38 GMT</pubDate>
+      <title>[媒体]我该如何应对没有“真正的工作”？</title>
+      <link>https://t.me/hn_summary/83002</link>
+      <description><![CDATA[我如何应对没有“真正的工作”？&lt; /a&gt;
+作者反思了他们没有“真正的工作”的经历以及它对他们的社交生活和人际关系的影响。最初，他们在独立中茁壮成长，但很快意识到孤独和缺乏结构造成了损失。他们努力平衡工作和个人生活，对女朋友变得粘人、挑剔。尽管梦想着充满爱好和被动收入的生活，他们发现自己沉迷于工作。最终，他们在联合办公空间中找到了安慰，意识到被志同道合的人包围的价值。作者强调了 WeWork 联合办公空间的优势，为那些有远大梦想的人提供社区意识和支持。]]></description>
+      <guid>https://t.me/hn_summary/83002</guid>
+      <pubDate>Fri, 05 Apr 2024 00:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>在 OpenAI，我们很高兴地宣布改进我们的微调 API 并扩展 [...]</title>
-      <link>https://t.me/hn_summary/82955</link>
-      <description><![CDATA[OpenAI：改进微调 API 并扩展我们的客户&lt; /a&gt;
-在 OpenAI，我们很高兴地宣布改进我们的微调 API 并扩展我们的自定义模型程序。我们的辅助微调产品允许与我们的技术团队协作，以最大限度地提高模型性能，超越微调 API。这对于希望针对特定用例或任务优化模型性能的组织特别有益。例如，SK Telecom 通过 OpenAI 对 GPT-4 进行微调后，电信客户服务任务得到了显着改善。此外，拥有大量专有数据的组织可以从完全定制训练的模型中受益，例如 Harvey 的 AI 原生法律工具，该工具将事实答复提高了 83%。与我们一起突破人工智能定制和性能优化的界限。]]></description>
-      <guid>https://t.me/hn_summary/82955</guid>
-      <pubDate>Thu, 04 Apr 2024 17:44:32 GMT</pubDate>
+      <title>[媒体] Facebook 阻止 Kansas Reflector 在他们发布 [...]</title>
+      <link>https://t.me/hn_summary/83001</link>
+      <description><![CDATA[Facebook 屏蔽了当地新闻网站，因为他们发布了批评他们的社论
+在 Kansas Reflector 发布批评该平台的社论后，Facebook 阻止了 Kansas Reflector 分享其网站的链接。尽管 Meta 声称这是一个与批评无关的错误，但该专栏在 Facebook 上仍然被屏蔽。此举不仅影响了堪萨斯反射者的页面，还影响了所有分享他们故事的人。该网站向读者保证他们的网站是安全的，不会构成网络安全威胁。他们正在努力解决 Meta 的问题，但与此同时，鼓励读者订阅他们的时事通讯并在其他社交媒体平台上关注他们。]]></description>
+      <guid>https://t.me/hn_summary/83001</guid>
+      <pubDate>Thu, 04 Apr 2024 23:52:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DataStax 刚刚收购了我们的初创公司 Langflow！</title>
-      <link>https://t.me/hn_summary/82954</link>
-      <description><![CDATA[DataStax 刚刚收购了我们的初创公司 Langflow！
-Langflow 很高兴地宣布 DataStax 收购了我们的初创公司！我们的旅程始于对深度学习的热情和超越黑匣子的人工智能愿景。我们的开源解决方案 Langflow 很快就拥有了超过 10,000 名开发人员的社区，为探索 LLM 应用程序提供了一个可视化框架。加入 DataStax 使我们能够专注于发展 Langflow 并与更广泛的受众分享我们的创新实验。我们的目标是使 Langflow 成为组装复杂工作流程的行业标准，为 AI 爱好者和 ML 黑客提供支持。我们对未来感到兴奋，并感谢社区的支持。我们开工吧！ 🚀]]></description>
-      <guid>https://t.me/hn_summary/82954</guid>
-      <pubDate>Thu, 04 Apr 2024 17:34:25 GMT</pubDate>
+      <title>[媒体] 科学家使用暗能量光谱仪 (DESI) 创造了大型 [...]</title>
+      <link>https://t.me/hn_summary/83000</link>
+      <description><![CDATA[暗能量毕竟可能不是恒定的
+科学家们使用暗能量光谱仪 (DESI) 创建了迄今为止最大的宇宙 3D 地图，揭示了暗能量可能并不像以前认为的那样随着时间的推移而保持恒定的诱人暗示。虽然结果尚未得出结论，但它们可能有助于更好地理解宇宙加速和宇宙演化。这一发现挑战了当前盛行的暗能量模型，并为解释宇宙加速膨胀率开辟了新的可能性。来自 DESI 正在进行的测量的进一步数据对于确定这些初步研究结果的有效性至关重要。]]></description>
+      <guid>https://t.me/hn_summary/83000</guid>
+      <pubDate>Thu, 04 Apr 2024 23:40:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近针对开源基础设施的针对性攻击凸显了 [...]</title>
-      <link>https://t.me/hn_summary/82953</link>
-      <description><![CDATA[开源基础设施必须是公共资助的服务&lt; br /&gt;
-最近针对开源基础设施的针对性攻击凸显了维护人员不堪重负所面临的风险。 Matrix 是政府和组织使用的关键基础设施，正在努力寻找可持续的资金。公共资助开源维护的想法越来越受欢迎，但在教育政府和采购部门方面仍然存在挑战。长期解决方案可能在于政府为核心维护提供资金，而不将其与特定功能挂钩。虽然一些组织正在努力解决这个问题，但像 Matrix 这样的大型项目需要更多的财务支持。呼吁各国政府在为时已晚之前支持开源项目。与此同时，通过会员资格进行的个人捐款正在帮助弥补资金缺口。]]></description>
-      <guid>https://t.me/hn_summary/82953</guid>
-      <pubDate>Thu, 04 Apr 2024 17:03:13 GMT</pubDate>
+      <title>[媒体]本周，Row Zero d 的 Breck Fresen 和 Billy Littlefield 在 Browsertech 播客上 [...]</title>
+      <link>https://t.me/hn_summary/82999</link>
+      <description><![CDATA[零行和视口数据流
+本周，Row Zero 的 Breck Fresen 和 Billy Littlefield 在 Browsertech 播客中讨论了他们基于浏览器的电子表格，该电子表格在云中运行以实现最佳性能。与在客户端使用 JavaScript 运行的 Google Sheets 不同，Row Zero 使用自己的 EC2 实例来处理计算。通过将压缩的视口数据发送到客户端，一次只需要少量数据，从而使其响应迅速且高效。在后端使用 Rust 可确保性能和正确性，使其成为数据密集型应用程序的出色选择。完整的对话以播客形式提供，您无需注册即可尝试“零行”。]]></description>
+      <guid>https://t.me/hn_summary/82999</guid>
+      <pubDate>Thu, 04 Apr 2024 23:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Markprompt 是一家提供客户支持的 Stripe，正在寻找一位创始工程师加入 [...]</title>
-      <link>https://t.me/hn_summary/82952</link>
-      <description><![CDATA[Markprompt (YC W24) – Stripe 提供客户支持 – 正在招聘SF工程师
-Markprompt 是一家提供客户支持的 Stripe，正在寻找一位创始工程师加入他们在旧金山的团队。在 Y Combinator 和行业领导者的支持下，我们优先考虑安全性、可靠性和性能，同时响应客户反馈。我们的堆栈包括 TypeScript、Supabase、Next.js、Vercel 和 Effect，重点关注并发系统、模块化服务基础设施等。这是与客户密切合作并为构建面向未来的解决方案做出贡献的独特机会。如果您在这些领域经验丰富并且对客户成功充满热情，请立即申请成为我们充满活力的团队的一员。]]></description>
-      <guid>https://t.me/hn_summary/82952</guid>
-      <pubDate>Thu, 04 Apr 2024 17:01:09 GMT</pubDate>
+      <title>[媒体]联邦网络安全审查委员会发布了一份报告，指责微软“a c [...]</title>
+      <link>https://t.me/hn_summary/82998</link>
+      <description><![CDATA[微软在 Exchange 违规报告中指责“一系列安全故障” 
+联邦网络安全审查委员会发布了一份报告，指责微软造成“一系列安全故障”，导致中国黑客泄露了数十万封电子邮件。该报告强调了微软安全文化的不足以及对云提供商定位新方法的需求。微软的回应包括计划采用新的工程安全文化，并审查该报告以获取更多建议。该报告还批评微软不准确的公开声明以及围绕此次泄露事件的未解之谜。这一争议揭示了 Microsoft 安全措施中的漏洞以及提高透明度的必要性。]]></description>
+      <guid>https://t.me/hn_summary/82998</guid>
+      <pubDate>Thu, 04 Apr 2024 22:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我们很高兴地宣布根据您的反馈改进 Vercel 的基础设施定价。</title>
-      <link>https://t.me/hn_summary/82951</link>
-      <description><![CDATA[Vercel：改进基础设施定价
-我们很高兴宣布根据您的反馈改进 Vercel 的基础设施定价。我们正在降低带宽和功能等基本要素的定价，引入新的原语以更轻松地进行优化，并允许您按粒度增量准确支付所使用的费用。大多数客户会发现他们的每月账单保持不变或减少。我们的爱好等级仍然免费。这些更改将于 2024 年 6 月 25 日至 7 月 24 日期间生效。我们更新的定价更符合行业标准，并反映了我们为您所做的工作。请查看我们更新的定价页面以了解更多详细信息。]]></description>
-      <guid>https://t.me/hn_summary/82951</guid>
-      <pubDate>Thu, 04 Apr 2024 16:57:05 GMT</pubDate>
+      <title>[媒体]一项重要的天体物理学研究表明，暗能量可能正在减弱，数据来自[...]</title>
+      <link>https://t.me/hn_summary/82997</link>
+      <description><![CDATA[主要天体物理学研究发现暗能量可能正在减弱 
+一项重要的天体物理学研究表明，暗能量可能正在减弱，来自三个超新星目录的数据表明其能量正在减弱。虽然研究人员警告不要得出明确的结论，但这些发现暗示我们对宇宙的理解可能会发生转变。如果暗能量确实在变化，它将挑战宇宙常数的概念，并为新的物理理论开辟可能性。其影响可能是深远的，有可能导致宇宙学范式的转变。需要进一步的观察来证实这些结果，但暗能量景观变化的前景引起了科学家们的兴奋和期待。]]></description>
+      <guid>https://t.me/hn_summary/82997</guid>
+      <pubDate>Thu, 04 Apr 2024 22:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Netgate 宣布 pfSense 项目的战略转变，从 FreeBSD 迁移到 [...]</title>
-      <link>https://t.me/hn_summary/82950</link>
-      <description><![CDATA[PfSense 软件拥抱变革：向 Linux 内核的战略迁移
-Netgate 宣布 pfSense 项目的战略转变，从 FreeBSD 迁移到具有 FreeBSD 用户区的 Linux 内核。这一决定基于不断发展的网络安全需求，带来了增强的软件包可用性、性能优化、云原生集成、扩展的硬件支持和改进的无线功能等优势。沿着 TrueNAS 的道路，这一举措与 iXsystems 向 Linux 的迁移保持一致，为这两个项目的创新奠定了基础。 Netgate 在 TNSR 软件方面拥有超过八年的 Linux 经验，可确保稳定性和安全性。与 Linux 社区的合作可确保平稳过渡，强调敏捷性和适应性，为 pfSense 创造更光明的未来。]]></description>
-      <guid>https://t.me/hn_summary/82950</guid>
-      <pubDate>Thu, 04 Apr 2024 16:53:00 GMT</pubDate>
+      <title>Xr0 是 C 的验证器，可消除未定义的行为，例如释放后使用和空点 [...]</title>
+      <link>https://t.me/hn_summary/82996</link>
+      <description><![CDATA[C但安全
+Xr0 是 C 的验证器，可消除未定义的行为，例如释放后使用和空指针取消引用。它使用类似 C 的注释来确保代码安全，使得细微的错误不可能通过函数调用层渗透进来。 Xr0 就像一根魔杖，检查你的工作，但真正的魔力来自程序员。虽然这项工作仍在进行中，但 Xr0 的目标是让 C 语言编程不存在未定义的行为。它是开源的，目前正在验证 C89 的一个子集。查看教程、参与论文并加入 Xr0 Zulip 上的对话以了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/82996</guid>
+      <pubDate>Thu, 04 Apr 2024 22:38:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

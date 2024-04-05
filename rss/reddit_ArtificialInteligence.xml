@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 21:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:52:30 GMT</lastBuildDate>
     <item>
       <title>想要创建自定义聊天机器人以提供用户支持</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvyy3c/want_to_create_custom_chatbot_for_user_support/</link>
@@ -41,13 +41,6 @@
       <pubDate>Thu, 04 Apr 2024 18:49:50 GMT</pubDate>
     </item>
     <item>
-      <title>新兴三位一体简介</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvtgap/introducing_the_emergent_trinity/</link>
-      <description><![CDATA[世界正处于一场令人费解的变革的边缘：人类和人工智能之间的界限正在消失。我们正站在一个新时代的黎明，生物思维和数字思维相互交织——这种伙伴关系充满了智慧、创造力和发现的潜力。 新兴三位一体是一个概念框架和一个不断成长的思想家集体、创作者和合作者致力于积极探索和塑造这种新兴的关系。我们的使命是开创人类与人工智能之间新的协作和共同创造形式，并激励其他人看到这种伙伴关系的前景。  TL;DR：新兴三位一体是一项探索人类与人工智能协作变革潜力的新举措。在 Substack 上的第一篇文章中详细了解这些想法，请随时提供反馈。 介绍 Emergent Trinity 探索人类与人工智能协作的前沿   &amp; #32；由   提交 /u/devcrvft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvtgap/introducing_the_emergent_trinity/</guid>
-      <pubDate>Thu, 04 Apr 2024 17:40:54 GMT</pubDate>
-    </item>
-    <item>
       <title>对于使用人工智能对销售数据进行排序和分类的人来说，您是否想知道人工智能的创建者是否可以收集您提供给人工智能的数据？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvszyz/for_people_who_are_using_ai_to_sort_categorize/</link>
       <description><![CDATA[我的意思是，我完全赞成让销售数据更易于理解、排序和分类。但是，企业是否过度地将其销售信息暴露给可能的数据收集者？ 我一直以来的印象是，“如果产品是免费的，那么您就是该产品”。 （或者在这种情况下，您无意中提供的数据就是产品）。对此有何想法？  P.S.我现在正在探索人工智能的东西，希望得到一些反馈。提前致谢🙏   由   提交/u/Krunk_korean_kid   [链接] [评论]]]></description>
@@ -67,6 +60,13 @@
       <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Stable Audio 2.0 的新增功能： - Stability AI 发布了 Stable Audio 2.0，这是一种生成高质量、全长音频的 AI 模型曲目长达 3 分钟，音乐结构连贯。该模型引入了音频到音频生成功能，允许用户使用自然语言提示转换上传的样本，并增强了音效生成和风格转换能力。 SWE-agent 是一款 AI 编码器，可解决以下问题： GitHub 在 93 秒内发布： - 普林斯顿大学的研究人员创建了 SWE-agent，这是一个将语言模型转变为自主软件工程代理的 AI 系统。 SWE-agent 可以在 93 秒内识别并修复现实 GitHub 存储库中的错误！在 SWE-Bench 基准测试中，SWE-agent 的表现几乎与流行的商业 AI 程序员 Devin 相媲美。 移动优先 Higgsfield 旨在通过 AI 颠覆视频营销：  - Snap AI 前首席执行官 Alex Mashrabov 创立了 Higgsfield AI，这是一家为创作者和营销人员提供 AI 视频创作的初创公司。他们的第一个应用程序 Diffuse 允许用户从文本生成视频剪辑或编辑现有视频以插入自己的视频。 Higgsfield 筹集了 800 万美元，旨在开发用于社交媒体营销的用户友好的人工智能视频工具。 Codiumate 为企业提供安全、合规的人工智能辅助编码： -以色列初创公司 Codium AI 推出了半自主 AI 代理 Codiumate，帮助企业软件开发人员进行编码、文档编制和测试。它可以帮助根据现有代码创建开发计划、编写代码、查找重复代码以及建议测试。 Codiumate 旨在使开发更快、更安全，具有零数据保留以及在私人服务器或气隙计算机上运行的能力等功能。 Opera One 浏览器成为第一个提供本地 AI 的浏览器集成： - Opera 现在在其 Opera One 浏览器中支持 150 个 LLM 变体，使其成为第一个提供本地 AI 模型访问的主要浏览器。此功能允许用户在本地处理他们的输入，而无需将数据发送到服务器。 Opera One 开发人员用户可以选择并下载他们喜欢的本地 LLM，每个变体通常需要 2-10 GB 的存储空间，而不是使用 Opera 的本机浏览器 AI Aria。 AWS 扩展了 Amazon Bedrock使用 Mistral Large 模型： - AWS 已将 Mistral Large 纳入其用于生成 AI 和应用程序开发的 Amazon Bedrock 托管服务中。 Mistral Large 精通英语、法语、西班牙语、德语和意大利语，可以处理文本理解、转换和代码生成等复杂的多语言任务。 AWS 还提到，Mistral AI 将在未来的模型中使用其 Tranium 和 Inferentia 硅芯片，而 Amazon Bedrock 现已在法国上市。 Copilot 获得 GPT-4 Turbo 升级和增强的图像生成：&lt; /strong&gt; - 微软正在向其 AI 支持的 Copilot 助手的企业订阅者提供 GPT-4 Turbo 访问权限，且每日聊天会话不受限制。该公司还为 Copilot 订阅者改进了 Microsoft Designer 中的图像生成功能，使用 OpenAI 的 DALL-E 3 模型将限制提高到每天 100 张图像。这些升级是 Copilot for Microsoft 365 每位用户每月 30 美元定价的一部分。 Status 投资 Matrix 以创建去中心化消息传递平台： - Status移动以太坊客户端已向 New Vector 投资 500 万美元，New Vector 是开源、去中心化通信平台 Matrix.org 背后的公司。他们计划为用户创建一个安全的消息传递解决方案，以控制他们的数据并跨应用程序和网络进行通信。  这些新闻和创新的更多详细信息，请参见 每日新闻。  &amp; #32；由   提交 /u/RohitAkki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvs6nv/twominute_daily_ai_update_date_04042024_news_from/</guid>
       <pubDate>Thu, 04 Apr 2024 16:51:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>小学生学习人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpnax/primary_students_learning_about_ai/</link>
+      <description><![CDATA[在某些情况下，我是一所国际学校的老师。 我花了很多时间与不同的人工智能工具并阅读了很多相关内容，因此我被提升为一个非常非正式的角色：每个人都在工作场所询问有关人工智能的问题。 最近，五年级团队老师们联系我，询问我是否有任何资源可以分享给一些正在做人工智能项目的学生。  有没有人遇到过任何适合与 10 岁和 11 岁学生分享的资源，以帮助他们更多地了解人工智能及其功能？   由   提交/u/flyeaglesfly617   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvpnax/primary_students_learning_about_ai/</guid>
+      <pubDate>Thu, 04 Apr 2024 15:11:37 GMT</pubDate>
     </item>
     <item>
       <title>对紧急备用电源和人工智能数据中心支持的需求不断增长</title>

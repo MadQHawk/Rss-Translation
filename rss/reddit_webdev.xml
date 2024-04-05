@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 21:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:53:32 GMT</lastBuildDate>
+    <item>
+      <title>用户登录/注册和使用谷歌登录的烧瓶后端模板？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw4ffn/flask_backend_template_on_user_loginsignup_and/</link>
+      <description><![CDATA[我在网上找不到完整的资源/教程。有很多具有完全构建的用户身份验证的模板，但它们通常是用 JS 编写的。 我正在尝试使用 python Flask 来执行以下操作：  用户登录 用户注册 记住我 忘记密码？ 验证电子邮件 使用 Google 登录&lt; /li&gt;  我发现许多 github 模板都缺少一些重要功能，例如处理忘记密码的情况。   由   提交 /u/MysteriousShadow__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw4ffn/flask_backend_template_on_user_loginsignup_and/</guid>
+      <pubDate>Fri, 05 Apr 2024 00:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在我的网站上创建这种反向滤镜效果？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw27lb/how_do_i_create_this_inverse_filter_effect_on_my/</link>
+      <description><![CDATA[      抱歉，菜鸟问题。只是一个戴着很多帽子的时尚实习生😭 https://www.rolandmouret.com/en-us    由   提交 /u/pineapplefreepizza   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw27lb/how_do_i_create_this_inverse_filter_effect_on_my/</guid>
+      <pubDate>Thu, 04 Apr 2024 23:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们收取网站维护费吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw1dxt/do_you_guys_charge_website_maintenance_fees/</link>
+      <description><![CDATA[您好！  我过去为我的老企业和我重要的其他服务业务制作了一些 squarespace 网站，我只是为了好玩而闲逛，没有真正的编码。  我最近帮助一些朋友建立了他们的商业网站，最初是一个基本的网站，现在已经变得越来越分层和详细，有很多我不确定 Squarespace 能否满足或我会满足的要求。必须在工作中学习，到目前为止我还没有获得愉快的经历。  他们向我提供了一定比例的业务或一些付款，我决定向他们收取构建的折扣费率，因为我讨论了我是多么缺乏经验，并认为这只是一个快速的恩惠，但是这些人无法运行他们的网站。我曾提议对某人进行基本变革培训，但遭到了抵制。我不介意获得报酬来进行更新，因为大部分更新都是基于事件的，如果我提前掌握详细信息，我可以将内容删除。  关于如何正确导航的任何提示？您如何构建这些费率？  是否有为小型企业构建 squarespace 的市场，我可以在其中兼职做这件事？    由   提交 /u/ConstipatedFrenchie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw1dxt/do_you_guys_charge_website_maintenance_fees/</guid>
+      <pubDate>Thu, 04 Apr 2024 22:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>对所有项目使用 PUT 进行删除、添加和重新定位 - 这是一个好主意、中立还是坏主意？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw19f9/using_put_with_all_items_for_deletion_addition/</link>
+      <description><![CDATA[我是一名后端开发人员，与一名前端开发人员一起工作。我的工作是创建 API 并从数据库存储/检索数据，以及其他一些后端内容。 前端开发人员正在提出一个 API，其中 PUT 用于删除、添加和重新定位。换句话说，如果用户添加新对象、删除对象或将对象移动到列表中的新位置，则会重新发送所有对象的所有详细信息。后端会遍历它们并重新保存它们（或者检查哪些是不同的，然后只重新保存那些），添加任何新的，并删除任何丢失的。 这对于我担心，导致没有对象的 PUT 请求的错误会擦除所有对象。 我反应过度了吗？您认为这种方法是好、中立还是坏？ 谢谢！   由   提交/u/lindymad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw19f9/using_put_with_all_items_for_deletion_addition/</guid>
+      <pubDate>Thu, 04 Apr 2024 22:36:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>3D 可视化工具 - 如何使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw0mce/3d_visualization_tools_how/</link>
+      <description><![CDATA[我正在尝试实现 Blue Nile 为其钻石提供的相同 3D 可视化工具 ( 1.00 克拉 I-SI1 优质切工圆形钻石 (bluenile.com))。但我的问题是； ___ 是如何工作的？？？我得到了使用某种 3D 相机平台进行实际扫描的部分。 但是如何将这种东西实际嵌入到网站中呢？它甚至有可能集成到 Webflow 之类的东西中吗？   由   提交 /u/KimAndersenCock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw0mce/3d_visualization_tools_how/</guid>
+      <pubDate>Thu, 04 Apr 2024 22:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify Flask 应用请求不发送带有回调函数的 HMAC 参数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw0k10/shopify_flask_app_request_not_sending_hmac/</link>
+      <description><![CDATA[使用与 Facebook 交互的 Flask 构建此 Shopify 应用程序，但是当 Facebook 通过回调重定向我时，我没有获得用于验证的 HMAC 参数。&lt; /p&gt; 这是验证函数： def is_valid_request(params, hmac_signature): parsed_pa​​rams = dict(parse_qsl(params, keep_blank_values=True)) # 去掉hmac参数 parsed_pa​​rams. pop(&#39;hmac&#39;, None) # 重建不带 hmac 参数的查询字符串 msg = urlencode(sorted(parsed_pa​​rams.items())) # 创建一个新的 HMAC 并根据提供的值验证它 hmac_calculated = hmac.new(SHOPIFY_API_SECRET.编码（&#39;utf-8&#39;），msg.encode（&#39;utf-8&#39;），hashlib.sha256）.hexdigest（）如果hmac_signature为None：print（“hmac_signature为None。”）返回False返回hmac.compare_digest (str(hmac_calculated), str(hmac_signature))  这是 Shopify 回调中处理 HMAC 验证的部分： @app.route (&#39;/shopify/callback&#39;,methods=[&#39;GET&#39;]) defcallback(): shop = request.args.get(&#39;shop&#39;) code = request.args.get(&#39;code&#39;) hmac_signature = request.args .get(&#39;hmac&#39;) # 验证 HMAC 签名 params = request.query_string.decode(&quot;utf-8&quot;) # 确保请求来自 Shopify if not is_valid_request(params, hmac_signature): print(is_valid_request(params, hmac_signature) )) return str(“无效签名”), 403  连接 Facebook 后，重定向到 Shopify 回调路由并显示“无效签名”页面。我尝试记录签名以查看它看起来是否等于“无”。打印出 params 变量显示一长串文本，我认为它应该具有 HMAC 参数，但唯一可读的英文是“code=”和“状态＝”后面跟着一堆随机数字和字母。 我做错了什么吗？ Shopify 应该有不同的反应吗？ Shopify 开发文档中没有关于使用 Flask 构建应用程序的文档，因此找到解决方案有点困难。 完整的回调 URL 非常清楚地有两个我可以看到的参数：code  参数和 state 参数。没有 HMAC 参数，就像应该有的那样。 这是我从回调函数获得的 URL 重定向：https://appurl.com/shopify/callback?code=AQBKkiaVmjmD7HYsZ7CUz8cOvn8V_GSR3VzGsdLyOO419dG4p3qAajSzFrqO5sHAiMCcd1jfA-QbMBfSg_ --oAFRNvNBQXhYOUJQoLcQRmT_SNxLnLvS5TyULMG6fNip6xdhB44Md3mASORuDYOmFJ39jZvigUi9zfvTPsmMNXFmj8Df0JKtLJmm7lON7mvMqNMMGNC3fMHM8OY2dMHSR2U0HYN9NUci19zNGAJ3L0 IMOUhD4UXCTocRdUJLMxjkJYy7kO-bB1FG2fVVt13J8XLNy2BTZpHzvV-GPK-f8kXVQlUtUUmBfQfnynbtZss2VFxtpDjt0OMJs5Q4XNJix1UToUQ5OjzCHb1zMCfrpPsZ1phDmjo_BvAAMzs Ob8HXp4O&amp;状态=b%27Xa%5Cx8d%5Cx91%5Cx88%5Cxf7%5Cx00%5Cxc4%5Cxa4V%5Cx00%5Cxf0%5Cx18%5Cxb6%5Cx8f%5Cxab%5Cxb1Z%60%5Cxdb4%5Cx01X% 5CxO9%27#_=_ 可以看到，这里可以看到code参数和state参数，但是有没有 hmac 参数。 官方 Shopify 开发文档中没有关于使用 Flask 的文档，但我已经在 Flask 中构建了比这更多的内容，而且我最熟悉与Python，所以我想坚持这一点。   由   提交/u/Natural-Arm2224  /u/Natural-Arm2224 reddit.com/r/webdev/comments/1bw0k10/shopify_flask_app_request_not_sending_hmac/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw0k10/shopify_flask_app_request_not_sending_hmac/</guid>
+      <pubDate>Thu, 04 Apr 2024 22:08:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望存在哪些待办事项列表功能，但大多数常见应用程序似乎都缺少该功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw0hsd/which_todo_list_feature_do_you_wish_existed_but/</link>
+      <description><![CDATA[您希望在最常见的待办事项列表应用程序中缺少哪些独特功能？ 可能是真正的功能对于您来说，我正在尝试了解不同的需求   由   提交/u/victormachadogp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw0hsd/which_todo_list_feature_do_you_wish_existed_but/</guid>
+      <pubDate>Thu, 04 Apr 2024 22:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找开源项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bvzjqc/looking_for_opensource_project/</link>
+      <description><![CDATA[大家好，我已经使用 TypeScript（前端和后端）进行开发大约 4 年了，我正在寻找一个相对年轻的人通过开发功能或解决错误来贡献的开源项目。 您有任何项目可以推荐吗？   由   提交/u/sourheart12  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bvzjqc/looking_for_opensource_project/</guid>
+      <pubDate>Thu, 04 Apr 2024 21:30:50 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 HTML 中使插画图像的不同部分可点击</title>
       <link>https://www.reddit.com/r/webdev/comments/1bvyx5f/how_to_make_different_sections_of_an_illustrator/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[正如标题所示，我喜欢 jQuery 的一点是，您只需编写 $ 而不是 document.querySelector。我不喜欢的是不使用本机方法的开销。有没有办法同时获得两者？   由   提交/u/pencilUserWho  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bvt1nv/looking_for_a_library_that_has_jquery_like_fluent/</guid>
       <pubDate>Thu, 04 Apr 2024 17:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为我的网页提供的内容质量好吗？ （菜鸟学习）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvsobr/do_you_think_my_web_page_provides_good_quality/</link>
-      <description><![CDATA[大家好，  我目前正在更新我的网站，希望内容质量良好。  我的网站是针对我当地的电子维修店的。  我希望有人能抽出一两分钟时间快速浏览一下，让我知道它看起来是否不错？ 假设您正在为 PS5 寻找深度清洁服务。您发现我的网站提供该服务，并且您有兴趣了解有关该服务的更多信息，因此您可以查看我的新“控制台深度清洁服务”页面 - https://shefftech.co.uk/console-deep-clean-service/&lt; /p&gt; 我的页面主要针对移动设备，因为 80% 的流量来自移动设备。该特定页面的主要目的是向人们展示我们的控制台深度清洁服务的过程。当然，也是为了帮助我在该服务的 Google 上获得更好的排名。 到目前为止，我只更新了控制台修复页面 - https://shefftech.co.uk/console-ps4-xbox-switch-repairs/ 以及深度清洁服务页面 - &lt; a href=&quot;https://shefftech.co.uk/console-deep-clean-service/&quot;&gt;https://shefftech.co.uk/console-deep-clean-service/ 我仍然是新手/不断学习。任何反馈，无论好坏，都受到欢迎。    由   提交 /u/SheffTech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvsobr/do_you_think_my_web_page_provides_good_quality/</guid>
-      <pubDate>Thu, 04 Apr 2024 17:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名初级员工，努力寻找处理全栈项目的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvsk68/struggling_to_find_best_practices_to_deal_with_a/</link>
-      <description><![CDATA[作业 第 1 步：创建一个只有一个按钮的前端网站，其中您要求用户上传模型，然后他们上传模型（模型将采用 glb/gltf 格式） 第 2 步：将此模型存储在文件资源管理器中并保存数据库中具有唯一 ID 的链接，使用 API 将模型从前端（反应页面）传送到后端数据库 第 3 步：模型创建后成功存储使我的应用程序可以调用另一个 api。我将向您发送一个 id，然后根据该 id，您将向我发送回带有该 id 的数据库中的 url 我正在尝试使用 MERN 堆栈来解决此问题。我在概念层面上理解了一些，并不要求分步指南，但我真的很感激关于如何解决此类问题的最佳实践方法。除了 Brad Traversy 的教程之外，我在网上还没有找到任何相关教程，该教程已经有 6 年了。   由   提交 /u/FuckinMELVIN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvsk68/struggling_to_find_best_practices_to_deal_with_a/</guid>
-      <pubDate>Thu, 04 Apr 2024 17:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>何时使用 GraphQL、Federation、tRPC、REST、gRPC、AsyncAPI、WebHooks - 2024 年比较</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvs6d7/when_to_use_graphql_vs_federation_vs_trpc_vs_rest/</link>
-      <description><![CDATA[   /u/jns111  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvs6d7/when_to_use_graphql_vs_federation_vs_trpc_vs_rest/</guid>
-      <pubDate>Thu, 04 Apr 2024 16:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 代码 2024 年 3 月</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvs247/visual_studio_code_march_2024/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvs247/visual_studio_code_march_2024/</guid>
-      <pubDate>Thu, 04 Apr 2024 16:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何遵守电子邮件提供商的速率限制？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvre4m/ways_to_comply_with_email_providers_rate_limits/</link>
-      <description><![CDATA[大家好。由于我们的电子邮件提供商达到每小时限制，我们遇到了一些无法发送电子邮件的问题。限制的制定方式类似于“最多 25 封电子邮件/5 分钟，但不超过 250 封电子邮件/小时”。我们公司提供了很多单独的 saas 网站来发送电子邮件，因此我们需要一些可以累积电子邮件的集中队列以及根据限制从中获取电子邮件并发送的东西。 现在在你指点我之前对于 sendgrid 或其他东西，我们也在使用 Amazon SES 并且它工作正常，但人们想要一个保留当前提供商的选项。 我很欣赏一些如何实现上述要求的想法，也许有现成的解决方案和东西。顺便说一句，我们的技术堆栈是 dotnet。   由   提交 /u/Timofeuz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvre4m/ways_to_comply_with_email_providers_rate_limits/</guid>
-      <pubDate>Thu, 04 Apr 2024 16:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像处理服务器基准测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvqnh7/image_processing_servers_benchmark/</link>
-      <description><![CDATA[       由   提交 /u/progapandist   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvqnh7/image_processing_servers_benchmark/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个项目有多复杂？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvqlni/how_complex_is_this_project/</link>
-      <description><![CDATA[嗨！希望这个问题不是太基本，我是一名正在尝试制作网站的大学生，我需要一些帮助；我想雇用一个人，但我不确定这个项目完成起来有多困难。  我正在与社区的食品储藏室合作开展一个项目，以尝试扩大营养教育和获取机会；该项目的一部分是创建一个网站，可用于根据用户输入的成分查找营养食谱，即类似于 supercook.com 但更多营养集中。我们计划主要从其他网站上获取这些食谱，这些网站将在我们的网站上有超链接。此外，我们还想为该网站制作一个移动版本，以便人们可以在手机上使用它。  要求某人制作这样的网站的合理预算/时间表是多少？我应该问我的一位大学同学吗（这是他们可以合理完成的事情）吗？  谢谢！   由   提交/u/jalapao3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvqlni/how_complex_is_this_project/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化 100,000 多个 HTML 节点的渲染</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvqd9e/optimizing_rendering_of_100000_html_nodes/</link>
-      <description><![CDATA[ 由   提交/u/dimden  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvqd9e/optimizing_rendering_of_100000_html_nodes/</guid>
-      <pubDate>Thu, 04 Apr 2024 15:39:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
