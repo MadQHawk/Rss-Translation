@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 18:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 21:12:07 GMT</lastBuildDate>
+    <item>
+      <title>仅提高耳机一侧的音量（在特定频率下）？</title>
+      <link>https://www.reddit.com/r/software/comments/1bwryxp/increase_volume_in_specific_frequenzies_on_only/</link>
+      <description><![CDATA[嘿伙计们，我正在寻找一个可以做到这一点的软件......任何人都可以帮助我吗？我的左耳有听力损失...   由   提交/u/crookz432   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwryxp/increase_volume_in_specific_frequenzies_on_only/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧货店“CD MASTER 2”</title>
+      <link>https://www.reddit.com/r/software/comments/1bwrq5n/thrift_shop_cd_master_2/</link>
+      <description><![CDATA[在我的 XBOX360 上看到的文件夹。 晚上好，早上好，无论如何， 感谢您的点击，希望您能够帮助我我的情况。作为上下文，我购买了一张名为“CD MASTER 2”的 CD-R。在旧货店。我现在还不能把它放到电脑上，因为我的机器没有任何 CD 播放器。我能够在我垂死的 Xbox360 上阅读它。无法读取图像、视频和音乐。相反，我只有 12 个文件夹（也许它们是空的，也许不是，xbox 无法知道）。 明天我就可以在旧电脑上访问它了。  p&gt; 我的问题如下：这些文件是如何创建的？我的理论是它是旧计算机的存档，但我对所涉及的过程非常感兴趣。而且，在打开这些文件扩展名之前是否有任何建议需要了解。 我在网上读到，.02 扩展名与 Apple II 相关，而 .xx 扩展名我不清楚。 CD 本身（TDK CD-R80 700MB）显然在 2003 年左右仍在商业化。   由   提交/u/Airbus-747MAX8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwrq5n/thrift_shop_cd_master_2/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以设计房子的网站/应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1bwr5b7/is_there_a_websiteapp_to_design_house/</link>
+      <description><![CDATA[我希望它易于使用（我妈妈也想使用它） 而且我希望它能够还设计花园   由   提交/u/Exotic_Insurance_969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwr5b7/is_there_a_websiteapp_to_design_house/</guid>
+      <pubDate>Fri, 05 Apr 2024 19:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何删除福昕阅读器中的“手”（全屏时）？</title>
+      <link>https://www.reddit.com/r/software/comments/1bwp9l8/how_to_remove_the_hand_in_foxit_reader_when_in/</link>
+      <description><![CDATA[我的意思是我想要一个干净的视图。没有手，没有箭头... 我正在谈论这个&lt; /p&gt; 有人可以确认一下这可能吗？   由   提交 /u/Accomplished-Scar513    reddit.com/r/software/comments/1bwp9l8/how_to_remove_the_hand_in_foxit_reader_when_in/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bwp9l8/how_to_remove_the_hand_in_foxit_reader_when_in/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>各位，有什么可以下载汽车系统软件的好网站吗？他们对我来说都像是一个骗局</title>
       <link>https://www.reddit.com/r/software/comments/1bwn1tc/guys_what_is_a_good_website_when_i_can_download/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我们正在开发一款移动应用程序，我们使用 QR 码来表示活动门票或促销活动等可能随时间变化的内容。我一直在使用一个简单的二维码生成器，但现在我需要制作可以实时更新的二维码。我不知道如何做到这一点，我正在寻求一些建议。 但我认为此功能对于那些开发信息不断变化的应用程序的人来说通常很重要。例如，如果有人购买了活动门票，则可以使用座位号或其他详细信息更新二维码。或者，为了促销，二维码可能会更改以显示最新优惠。对于诸如交付之类的事情，它也可以很好地工作......还没有具体想过如何，但我确信你们中的一些人已经使用过这样的功能并且了解更多。  那么，有人有这方面的经验吗？如何在移动应用程序中设置二维码自动更新？是否有对此有用的特定工具或库？另外，如果您知道以这种方式使用简单的 QR 代码生成器 的任何建议，那也会很有帮助，尽管我们一直使用的非常便宜，但我们希望找到价格相似的东西。  无论如何，我想确保二维码易于扫描并且对我的应用程序的用户来说效果良好，因此任何有关如何执行此操作的建议将不胜感激。预先感谢您的帮助！   由   提交 /u/Xanf3rr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bwfv6h/how_do_we_implement_dynamic_qr_code_generation/</guid>
       <pubDate>Fri, 05 Apr 2024 11:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的防病毒免费计划是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1bwftao/what_is_the_best_antivirus_freeplan/</link>
-      <description><![CDATA[我从未尝试过使用 Windows Defender 以外的任何应用程序，但最近我一直在阅读有关它的内容，它现在真的变坏了吗？如果是的话，我想知道是否有任何好的免费防病毒应用程序。   由   提交 /u/lazall   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bwftao/what_is_the_best_antivirus_freeplan/</guid>
-      <pubDate>Fri, 05 Apr 2024 11:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道这是关于什么的吗？ （我对软件一无所知，所以请跟我说吧😅）</title>
-      <link>https://www.reddit.com/r/software/comments/1bwc48t/anyone_knows_what_this_is_about_i_know_nothing/</link>
-      <description><![CDATA[ 由   提交 /u/IIISkyarzIII   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bwc48t/anyone_knows_what_this_is_about_i_know_nothing/</guid>
-      <pubDate>Fri, 05 Apr 2024 07:34:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议：财富和基金管理软件</title>
-      <link>https://www.reddit.com/r/software/comments/1bwbl5k/advice_software_for_wealth_and_fund_management/</link>
-      <description><![CDATA[嗨朋友们， 我们有一位从事财富和基金管理业务的客户。他们拥有一些私人基金，从客户那里收集资金并将其投资到这些基金中，并在每个月末宣布利润百分比，然后进行相应的分配。 除了 Office 365 之外，他们还运行供内部使用的小型会计系统 他们目前手动运行 MS Excel 的所有内容，没有自动化。他们在 Excel 上有客户列表，每个客户都有自己注册的每个基金的 Excel 报表。每个月底，他们都会手动将交易添加到每个 Excel 表格（大约几百张）中，然后转换为 PDF 并发送报表。  我想检查是否有任何交易对可以支持的软件的建议？ 现成的会计系统是否适合他们的用例  他们目前的主要痛点是解决他们的手动流程。即获得利润分配，每月发送报表 顺便说一句，客户也没有门户等来查看报表。他们通过电子邮件手动接收或必须请求。   由   提交 /u/monakhous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bwbl5k/advice_software_for_wealth_and_fund_management/</guid>
-      <pubDate>Fri, 05 Apr 2024 06:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费或非常便宜的身份证/证卡打印软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1bwab4z/free_or_very_cheap_id_badgecard_printing_software/</link>
-      <description><![CDATA[您好，正在寻找一些便宜或理想免费的软件，可以自动导入照片，可能与 A.D 同步并管理 ID 徽章/卡。 &lt; p&gt;打印机是 Zebra，但我认为这并不重要，因为它会接受发送给它的任何特定尺寸的东西。 我正在尝试自动化 IT 流程，由于某种原因， IT 团队的任务是为员工制作徽章。 谢谢   由   提交/u/jamwatn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bwab4z/free_or_very_cheap_id_badgecard_printing_software/</guid>
-      <pubDate>Fri, 05 Apr 2024 05:35:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

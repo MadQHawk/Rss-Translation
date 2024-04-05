@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 18:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 21:12:39 GMT</lastBuildDate>
+    <item>
+      <title>客户工作的主题森林？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwsvck/themeforest_for_client_work/</link>
+      <description><![CDATA[我想知道是否有很多开发者在themeforest上购买主题（包含html等所有文件）更改内容并出售网站？！这对我来说听起来太容易了！？   由   提交/u/OddAd1212   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwsvck/themeforest_for_client_work/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关 Shopify 上 3D 可移动对象的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwsmby/need_some_help_with_3d_moveable_objects_on_shopify/</link>
+      <description><![CDATA[伙计们，我需要一些有关 3D 可移动对象的帮助 &gt; Shopify https://upfront.nl这个网站有一个很棒的标题，包含可移动的 3D 产品，我很乐意做类似的事情。如果有人知道如何做这样的事情，请告诉我。   由   提交/u/Minkool  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwsmby/need_some_help_with_3d_moveable_objects_on_shopify/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义登录页面的平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwrzl6/platform_for_custom_login_pages/</link>
+      <description><![CDATA[我试图弄清楚某些东西是否已经存在。我们需要的是一个让某人使用用户名和密码登录的地方，双因素身份验证是首选但不是必需的，然后看到我们为他们设计的页面。不像整个网站。这只是有人登录，然后他们看到一个网页，上面有我希望他们看到的内容。我可以设置每个用户或用户组的内容。  这样的事情存在吗？ 如果这不是发布此内容的正确位置，我很抱歉。   由   提交 /u/thetalkinggeek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwrzl6/platform_for_custom_login_pages/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业主题森林</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwrxkg/themeforest_for_freelancing/</link>
+      <description><![CDATA[我想知道是否有人使用 themeforest 中的主题，为客户更改图像和内容并向他们出售现成的网站？这对我来说听起来太容易了？！😅   由   提交/u/OddAd1212   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwrxkg/themeforest_for_freelancing/</guid>
+      <pubDate>Fri, 05 Apr 2024 20:18:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>也许你的贾布罗尼斯可以帮助我？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwrauf/maybe_you_jabronis_can_help_me/</link>
+      <description><![CDATA[只需在 apache2 上设置一个 Web 服务器，设置 ftp，并将索引文件和图像移至域文件夹中，当我转到我的域，但我无法显示图像。我将图像放在 /var/www/ 目录中名为 images 的文件夹中，并且 img src 标记指向 html 文件中的 /images/filename.jpg 。  这是我第一次做所有这些，所以我真的不知道我是如何做到这一点的，但如果有人能告诉我这张图片我做错了什么，我真的会欣赏它   由   提交 /u/allrocksnoscissor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwrauf/maybe_you_jabronis_can_help_me/</guid>
+      <pubDate>Fri, 05 Apr 2024 19:52:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找特定的 CSS 前/后处理器功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwqwui/looking_for_a_specific_css_prepost_processor/</link>
+      <description><![CDATA[嘿开发者！我想尝试一种新的工作流程来编写 CSS 和管理 HTML 类。我喜欢实用程序类的想法，但我不喜欢在 HTML 中填充一堆实用程序类（你好 Tailwind）。此外，我经常觉得需要再添加一个 CSS 规则，无论如何我最终都会为我的元素创建一个语义类，并最终得到分割样式定义（或内联样式，但这些也有其局限性） 所以我想尝试的是“反向添加”语义CSS选择器到可重用的实用程序规则。 （如果有人知道更好的方法来描述此功能，我真的很有兴趣阅读它，甚至是随机建议） 这是我的意思的一个最小示例。 ``` .utility-class { ... } .semantic-class { ; ...其他特定规则... }  将变为 .utility-class, .semantic-class { ... } .semantic-class { ...其他特定规则... } ``` 您是否看到执行此操作时会出现的明显问题？ 您知道有任何前置/后处理器插件可以执行此操作吗？如果没有，您对使用 postCSS 和/或 Sass 实现此功能的最佳方法有什么建议吗？   由   提交/u/M4rrc0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwqwui/looking_for_a_specific_css_prepost_processor/</guid>
+      <pubDate>Fri, 05 Apr 2024 19:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>保存时，应用程序重新呈现自上次刷新以来我保存的时间数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwqt8s/on_save_application_rerenders_the_number_of_time/</link>
+      <description><![CDATA[我的 ReactJS 应用程序中有一个非常奇怪的错误。我使用 vite 搭建了该项目，每次保存时，快速重新加载都会启动并重新渲染我的应用程序。这里的问题是，应用程序重新渲染我上次在浏览器中刷新之前保存的次数。有谁知道可能是什么原因造成的？如果仅在保存代码并启动快速刷新时离开并重新访问网页，我不会注意到此行为。    由   提交/u/Th7rtyFour  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwqt8s/on_save_application_rerenders_the_number_of_time/</guid>
+      <pubDate>Fri, 05 Apr 2024 19:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天8小时如何真正编码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwqgrp/how_to_actually_code_8_hours_a_day/</link>
+      <description><![CDATA[一些背景信息，我是一名新开发人员，刚刚开始在一家机构工作。我真的很感激它，因为我知道现在的市场对初级人员来说有多艰难，但这就是问题。 这是每小时一次的，我们必须跟踪每项任务的时间。每项任务都是编码，需要不断的思考，尤其是作为一个新人，对脑力的要求相当高。这里有人真的每天编码 8 小时吗？我通常会连续工作两个小时，但之后需要一个小时左右的休息时间。一旦我达到了 4 小时的标准，我的大脑就几乎崩溃了。  所以我的问题是，随着时间的推移这会变得更容易吗？或者你们如何应对每天 8 小时的实际编码？我觉得我很快就会精疲力竭，如果我每天不工作8小时，那就意味着我将无法支付房租，所以我没有太多选择不这样做。  感谢任何见解！   由   提交 /u/ResponsibilityOk55   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwqgrp/how_to_actually_code_8_hours_a_day/</guid>
+      <pubDate>Fri, 05 Apr 2024 19:17:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何获得自由职业客户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwq7yk/how_do_you_get_your_freelance_clients/</link>
+      <description><![CDATA[我目前正在尝试使用冷电子邮件来设计和网络 sortlist.com 中列出的机构，但到目前为止效果并不好：从发送的大约 600 封电子邮件中，我只收到了大约 10 封回复，其中只有一封导致了会面，但只是为了互相了解，因为他们没有&#39; t 积极寻找自由职业者/外包。 我现在要尝试“产品化”。我的服务已转变为标准的 design2website 服务，但仍然对与谁以及如何联系有同样的疑问。 有什么建议吗？   由   提交/u/tmartty  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwq7yk/how_do_you_get_your_freelance_clients/</guid>
+      <pubDate>Fri, 05 Apr 2024 19:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>攻击这支笔</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwq1uv/attack_this_pen/</link>
+      <description><![CDATA[测试 Sanitizer API + 可信类型    由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwq1uv/attack_this_pen/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>角度资源建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwp8xo/angular_resources_advice/</link>
+      <description><![CDATA[大家好，我想提高我作为初级全栈新角色的角度技能。请您建议我可以用来提升技能的免费资源   由   提交 /u/ZuluSheik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwp8xo/angular_resources_advice/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于flexbox的定位问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwp5pg/question_on_positioning_flexboxes/</link>
+      <description><![CDATA[大家好，我对使用 HTML / CSS 还比较陌生。我想知道如何让两个单独的 Flexbox 彼此重叠？ 我一直在研究的模型设计之一有两个黑色 div 包含在位于两个图像下方的 Flexbox 中，这两个图像都有各自的拥有专用的弹性盒和居中。  如果我将黑盒 div 定位为相对位置，我可以将其移动并将其放置在食物图像下方，如图所示。不幸的是，由于相对位置，这仍然在下面留下了很大的空白。如果我尝试绝对定位它，它会破坏 Flexbox 功能，所以我想知道人们倾向于如何做到这一点？ https://i.ibb.co/Ns4HDJY/Screenshot-2024-04-05-211920.png   由   提交 /u/CataKai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwp5pg/question_on_positioning_flexboxes/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:22:34 GMT</pubDate>
+    </item>
     <item>
       <title>无法删除多余的间距|离子框架</title>
       <link>https://www.reddit.com/r/webdev/comments/1bwophy/could_not_remove_excess_spacings_ionic_framework/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我想请求程序员/开发人员创建一个程序，我该到哪里去呢？也许有一个现有的模型，但基本上它会查看一个有列表的网站，然后复制列表并将其发布到另一个销售网站上。获取 Facebook 列表，将其发布到 eBay、Depop 或 grailed 上。  我卖衣服，在另一个平台上重新创建整个帖子非常耗时。如果它通过机器人或其他东西实现自动化，那么它将节省大量时间。  ​ 这样的东西能够被创建吗？    由   提交 /u/ humansince2001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bwo9z7/where_do_i_go_to_hire_a_dev/</guid>
       <pubDate>Fri, 05 Apr 2024 17:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名网络开发者，你是否注重培养自己的在线形象，还是根本不关心？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwo4as/do_you_cultivate_your_online_presence_as_a_web/</link>
-      <description><![CDATA[今天，我读到在意大利，招聘人员也会根据社交媒体活动做出决定 (文章链接）。我不再处于招聘地狱（感谢上帝），但我很好奇你是否关心你的“专业”职位是否在线。我从来没有真正参与过社交媒体（我是千禧一代，所以我不是社交原生者），但也许为了未来的工作机会我应该开始这样做？只是在这里集思广益。   由   提交 /u/skwyckl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwo4as/do_you_cultivate_your_online_presence_as_a_web/</guid>
-      <pubDate>Fri, 05 Apr 2024 17:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>摄影作品集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwnkun/photography_portfolio/</link>
-      <description><![CDATA[朋友们大家好， 我即将开始为摄影师开发作品集网站。您对什么 CMS 最好使用有什么建议吗？最好是为初学者提供免费套餐。她只会通过 CMS 管理照片 另外，如果您对此类网站有任何其他建议，我很感兴趣！    ;由   提交/u/Swimming-Wafer6547  /u/Swimming-Wafer6547 reddit.com/r/webdev/comments/1bwnkun/photography_portfolio/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwnkun/photography_portfolio/</guid>
-      <pubDate>Fri, 05 Apr 2024 17:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 FileZilla 的问题：恢复失败的传输时是否自动连接到不同的服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwndxj/question_about_filezilla_does_it_automatically/</link>
-      <description><![CDATA[大家好，希望你们一切都好。今天，我遇到了一个奇怪的问题，想弄清楚它的真相，因此我的问题是： 当我恢复“失败的传输”时，Filezilla 是否会自动连接到不同的服务器？ &gt; 这就是我问的原因：我们有一个现场商店和一个克隆的测试商店。今天，我通过 Filezilla 在测试商店工作并下载了文件。 现在，问题是： 我完全不确定“失败的传输”中是否还剩下任何内容。在我开始工作之前。如果 LIVE 商店中仍有未处理的文件（不同的服务器、不同的登录名等），FileZilla 是否可以自行重新连接到 LIVE 商店/服务器？ 我只需要知道这一点才能考虑或排除它作为错误来源。 非常感谢。 亲切的问候   由   提交 /u/Fischwaage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwndxj/question_about_filezilla_does_it_automatically/</guid>
-      <pubDate>Fri, 05 Apr 2024 17:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个程序员都应该知道的延迟数字</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwnaa6/latency_numbers_every_programmer_should_know/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwnaa6/latency_numbers_every_programmer_should_know/</guid>
-      <pubDate>Fri, 05 Apr 2024 17:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立管理门户的最快方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwl959/quickest_way_to_knock_up_an_admin_portal/</link>
-      <description><![CDATA[大多数项目都需要某种与其应用程序 API 或直接与数据库交互的管理门户/CMS。 您愿意吗？每次都自定义构建还是使用预制解决方案？   由   提交 /u/Ukpersfidev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwl959/quickest_way_to_knock_up_an_admin_portal/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PHP 超时查询 XAMPP SQL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwl3j9/query_xampp_sql_with_php_timeout/</link>
-      <description><![CDATA[      大家好，我最近又回到了 webdev，并尝试让 PHP 页面与 XAMPP SQL 数据库进行通信。我尝试遵循一些不同的在线教程，但没有成功。我哪里错了？当我尝试加载页面时，页面超时，我什至没有传递任何 SQL 查询，但我只是试图获得成功的连接。编辑：我刚刚发现数据库值中缺少一个“s”，但修复此问题后问题仍然存在。 https://preview.redd.it/3fyozdfbkosc1.png?width=1410&amp;format=png&amp;auto=webp&amp;s=771badf13aef23f1 7f0cb7fc3e526b8150225e47 https://preview。 redd.it/r0j4yfdakosc1.png?width=1107&amp;format=png&amp;auto=webp&amp;s=1226702e1ac1ff6a70756a3812d83b6e85858d07 https://preview.redd.it/uwv5i9d8kosc1.png?width=549&amp;format=png&amp;auto=webp&amp;s=af91f42b78bfd3bb6 ded90ff167681dcf3d7d693&lt; /a&gt;   由   提交/u/strangeshadow1942   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwl3j9/query_xampp_sql_with_php_timeout/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>内联样式比 CSS 更快吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwkrya/are_inline_styles_faster_than_css/</link>
-      <description><![CDATA[   /u/http203  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwkrya/are_inline_styles_faster_than_css/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:23:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>从浏览器连接到代理服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwkjzs/connect_to_a_proxy_server_from_browser/</link>
-      <description><![CDATA[是否可以使用 javascript 连接到代理服务器来转发 HTTP 请求并在浏览器中返回结果？ 对于示例：我必须通过代理服务器 proxy.com 请求 google.com   由   提交/u/djang_odude  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwkjzs/connect_to_a_proxy_server_from_browser/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:14:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>40 年编程经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwkcxo/40_years_of_programming/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwkcxo/40_years_of_programming/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计和开发网站或应用程序时需要避免哪些常见错误？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwjfpo/what_are_some_common_mistakes_to_avoid_when/</link>
-      <description><![CDATA[我只是想知道。   由   提交 /u/Saitovi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwjfpo/what_are_some_common_mistakes_to_avoid_when/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的日常工作需要多少 RAM？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwjaij/how_much_ram_do_you_need_for_your_daily_work/</link>
-      <description><![CDATA[       由   提交/u/primeval211  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwjaij/how_much_ram_do_you_need_for_your_daily_work/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀🔥隆重推出 Univer - 电子表格、文档和幻灯片的开源办公套件🎨✨</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwj3p0/introducing_univer_opensource_office_suite_of/</link>
-      <description><![CDATA[       Univer 的诞生源于一个简单而深刻的洞察： 需要一个一站式生产力平台，让数据和信息可以自由流动，而不受脱节上下文的限制或转换格式的麻烦。通过Univer，我们使用户能够根据自己的意愿创建任何形式的页面。通过将工作表、文档和幻灯片的功能合并在一起，Univer 使个人和团队能够无障碍地创建、组织和简化工作流程。 数据验证 Github : https://github.com/dream-num/univer 技术博客：https ://univer.ai/workspace/blog/ youtube：https://youtu.be/kpV0MvQuFZA&lt; /a&gt;   由   提交 /u/ransixi   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwj3p0/introducing_univer_opensource_office_suite_of/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:14:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
