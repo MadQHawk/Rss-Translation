@@ -4,27 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 00:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 03:13:04 GMT</lastBuildDate>
     <item>
-      <title>Redditor 确信 Chat GPT 现在已经有了意识。想法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwycjz/redditor_is_convinced_chat_gpt_is_now_conscious/</link>
-      <description><![CDATA[这家伙听起来好像他需要对我表示欢迎，但他希望听到其他人的意见。 https://www.reddit.com/r/thoughtness/s/KDnCzZDVUe   由   提交/u/New_Language4727   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwycjz/redditor_is_convinced_chat_gpt_is_now_conscious/</guid>
-      <pubDate>Sat, 06 Apr 2024 00:48:23 GMT</pubDate>
+      <title>非 SWE 如何获得人工智能工作？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bx0guf/how_to_get_an_ai_job_as_a_non_swe/</link>
+      <description><![CDATA[我拥有 MBA 学位，在风险投资支持的高科技公司（软件、SaaS、电子商务、生命科学）运营中拥有一份体面的职业生涯，在数据分析师边缘数据科学方面有不错的经验；但是，虽然我拥有 Google 数据分析师证书，但我不是数据科学家。 我需要做什么才能在人工智能领域找到一份工作？ 不一定是那些具有人工智能的工作之一百万美元的薪酬方案，但在其中一家公司。 不，我不是在寻找一些旅行、技巧等，但我可以添加哪些技能/教育才能被视为人工智能工作？  提前致谢。   由   提交/u/G4M35  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bx0guf/how_to_get_an_ai_job_as_a_non_swe/</guid>
+      <pubDate>Sat, 06 Apr 2024 02:31:18 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法用AI重新混音歌曲？并编辑歌词？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwwu64/is_there_any_way_to_remix_a_song_with_ai_and_edit/</link>
-      <description><![CDATA[我正在寻找一首歌曲的印度版本，与此类似 - https://www.youtube.com/watch?v=gETtG-SDA0o 我想对我要编辑的歌曲的歌词稍作修改&lt; /p&gt;   由   提交 /u/DonnyKlock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwwu64/is_there_any_way_to_remix_a_song_with_ai_and_edit/</guid>
-      <pubDate>Fri, 05 Apr 2024 23:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何打包一个基本的聊天机器人？ （我的脑子不灵了）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwwlon/how_to_package_up_a_basic_chatbot_my_brain_doesnt/</link>
-      <description><![CDATA[大家好，长话短说 - 我在工作中陷入困境太久了，我接触到了一家成功的企业我认识的老板询问如何打破这个循环的建议。他给了我一个挑战，如果我解决了这个问题，他会雇用我并提供一些培训，帮助我走上一条我从未觉得可以实现的道路。所以这是一个改善我的处境的绝佳机会！ 问题是..我被困住了，感觉这个看似简单的任务已经打败了我😫 老实说，我正在努力解决这个问题，并且我似乎无法思考最好的前进道路..我确信这是一个可笑的愚蠢问题，但我不像这里的大多数人那么年轻或聪明..在我放弃之前，我想我会看看智囊团是否在这里可以指出我似乎看不到的明显现象吗？ 😇 这就是我到目前为止的情况：我使用了 chatgpt 的 Playground 并对其进行了设置，使其可以处理聊天并询问销售线索所需的关键问题 - 我对它的方式感到满意处理对话并提出所需的问题。问题是我无法找出处理这些潜在客户的最佳方法。 这就是我陷入困境的地方：我最初的想法是发送转录到make.com或airtable（我刚刚学习如何使用这两个，所以我仍然不能100%确定它们是这个问题的解决方案）。但无论我将其发送到哪里，我的想法是我需要另一个助手 api (?) 设置来查看记录并提取关键详细信息（客户姓名、电话号码、电子邮件、预算、总结对话等） 。  然后，掌握每个潜在客户的所有关键详细信息后，我需要能够通过电子邮件将潜在客户发送给他们的销售团队，并在仪表板中显示结果。  仪表板只需是基本的，最好只报告聊天量和潜在客户中捕获的数据（潜在客户数量、每个部门的潜在客户以及任何其他有趣的见解），以及显示聊天和线索记录。仪表板不需要任何机器人构建或设置管理功能。  任何人都可以帮助我克服我遇到的这个脑障碍吗？关于我应该如何解决这个问题，或者我应该使用什么平台有什么建议吗？  我觉得它应该很简单，但是有太多的工具和选项，而我的技术技能非常非常基础，所以我有点淹没在选项中，但没有信心做出决定。 . 我知道有很多 Chatbot 公司可以提供每月 xx 美元的解决方案，但我被要求在不使用 Chatbot 提供商（给我这个机会的人）的情况下创建此解决方案说他希望我以一种更加透明和模块化的方式将其组合在一起，以便将来可以调整和升级 - 这是有道理的，老实说，我认为学习它是如何工作的将是惊人的！） 我希望我可以使用 voiceflow 或我见过的其他平台之一来完成这一切，但我被告知他可以自己做到这一点，如果我想要这个机会，我需要解决它而不仅仅是使用一个他无法完全定制的预先存在的全合一 SaaS 选项（而且他说如果我能解决这个问题，他会将我介绍给另一个人，他也会付钱给我提供相同的解决方案，所以他希望我学习它）我可以定制它，而无需展示另一个公司的平台） 任何提示或建议将不胜感激 - 请不要有负面评论告诉我我无法理解，我的大脑已经在重复告诉我这一点 😇    由   提交/u/ArmOk7853  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwwlon/how_to_package_up_a_basic_chatbot_my_brain_doesnt/</guid>
-      <pubDate>Fri, 05 Apr 2024 23:27:54 GMT</pubDate>
+      <title>就业报告井喷：美国经济3月报告增加30.3万个就业岗位</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwyhdm/jobs_report_blowout_us_economy_adds_303k_jobs_in/</link>
+      <description><![CDATA[尽管人们都在谈论人工智能，但美国的就业数据还没有感受到这一点。 3 月份的报告显示新增就业岗位 303,000 个，远高于预期的 200,000 个。  热门行业：医疗保健（+72,300 个工作岗位）；政府（+71,000 个工作岗位）；休闲和酒店业（+49,000 个工作岗位）；和建筑业（+39,000 个就业岗位）。 https://finance.yahoo.com/news/stock-market-today-tech-leads-market-surge-after-jobs-report-blowout-200639682.html  显然并不是说炒作过分。我们都知道接下来会发生什么。但至少现在，我们似乎距离经济灾难还有一段距离。   由   提交/u/Old_Entertainment22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwyhdm/jobs_report_blowout_us_economy_adds_303k_jobs_in/</guid>
+      <pubDate>Sat, 06 Apr 2024 00:54:28 GMT</pubDate>
     </item>
     <item>
       <title>寻求建议：法学硕士的低成本设置与广泛的 PDF 收藏</title>
@@ -53,6 +46,13 @@
       <description><![CDATA[我想知道是否有任何好的法学硕士或其他模型可以按照您选择的格式润色和格式化某些书面作品的最终草稿APA 还是其他格式？如果像 Chat GPT 这样的常见 LLM 可以通过这种方式有效使用，请告诉我。   由   提交 /u/Will_Tomos_Edwards   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwu3dq/good_models_for_polishing_and_formatting_a_final/</guid>
       <pubDate>Fri, 05 Apr 2024 21:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能用例并帮助了解如何实现我的目标</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwtmxx/ai_use_case_and_help_with_knowing_how_to/</link>
+      <description><![CDATA[我有几个项目想要使用 AI 来完成，但我不知道如何实现我的目标。我不是人工智能专家，尽管我像世界其他人一样使用 ChatGPT 来帮助我为约会之夜想出创意。我想通过人工智能实现三个目标： 1) 我希望人工智能引擎能够摄取与我的专业领域相关的材料。摄取至少涉及两本书的内容。这些书将属于公共领域。此外，我希望人工智能能够从认证考试中提取考试问题。这些问题可能来自已发布的练习题和其他来源。然后，我希望人工智能以与所摄取的问题非常相似的风格和格式创建新的 100 或 1000 个新练习题，但根据所摄取的书籍内容创建问题。  2) 我想要一个人工智能引擎来比较同一本书的两个不同版本之间的变化。 3) 我想创建一个聊天机器人来回答以下相关问题我的域，以及它从许多公共域来源（例如 NIST 特别出版物）生成答案的地方。  这些项目按重要性顺序列出。我想知道如何做这些事情。对于这个用例来说，最好的人工智能解决方案是什么？如何让人工智能摄取材料？我不知道从哪里开始。  我的偏好是将其外包给已经知道如何执行此操作的人。    由   提交/u/Mundane-Daikon425  /u/Mundane-Daikon425 reddit.com/r/ArtificialInteligence/comments/1bwtmxx/ai_use_case_and_help_with_knowing_how_to/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwtmxx/ai_use_case_and_help_with_knowing_how_to/</guid>
+      <pubDate>Fri, 05 Apr 2024 21:27:08 GMT</pubDate>
     </item>
     <item>
       <title>我刚刚意识到一些事情</title>

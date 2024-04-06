@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 00:51:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 03:14:01 GMT</lastBuildDate>
+    <item>
+      <title>请帮忙，学校项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bx125m/please_help_school_project/</link>
+      <description><![CDATA[      我做错了什么吗？我正在做与 YouTube 上的人相同的事情，但我的图片没有出现在网站上。现在已经1个小时了，还是找不到问题所在。 同样的文件目录。   由   提交/u/Gluttony_io   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bx125m/please_help_school_project/</guid>
+      <pubDate>Sat, 06 Apr 2024 03:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel 刚刚改变了定价——比较如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bx0pnc/vercel_just_changed_its_pricing_how_does_it/</link>
+      <description><![CDATA[   /u/PatrioTech  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bx0pnc/vercel_just_changed_its_pricing_how_does_it/</guid>
+      <pubDate>Sat, 06 Apr 2024 02:43:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于与生产应用程序位于同一服务器中的 postgres 来说，如果没有 ssl，它是否安全？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bx0j2t/is_it_secure_for_postgres_living_in_the_same/</link>
+      <description><![CDATA[我很难理解 postgres 中的 SSL，但经过几个小时的阅读后，似乎只有当你将 postgres 托管在从外部访问的 VPS（例如从我的电脑远程访问）。 在我的例子中，生产数据库只能由位于同一 VPS 中的生产 Web 应用程序访问。我是否必须为我的 postgres 数据库创建证书，然后在池创建期间启用它（从“pg”模块）？让rejectUnauthorized为假是否安全？ 我的网络应用程序已经有自己的SSL。 提前致谢。 &lt;!-- SC_ON - -&gt;  由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bx0j2t/is_it_secure_for_postgres_living_in_the_same/</guid>
+      <pubDate>Sat, 06 Apr 2024 02:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页网站的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwzmze/recommendations_for_a_singlepage_website/</link>
+      <description><![CDATA[我有一段时间没有编码了，我正在更新我工作地点的旧 php 网站。邮件程序无法在当前站点上运行，而且我不知道足够的 php 来修复它。我想我只是想把它全部撕掉并用一个干净的单页网站替换它。这还流行吗？如果有的话，有模板推荐吗？  主要目标是摆脱 php 并尽快恢复正常工作。谢谢您的帮助。    由   提交 /u/liyickywashere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwzmze/recommendations_for_a_singlepage_website/</guid>
+      <pubDate>Sat, 06 Apr 2024 01:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我制作了一个免费工具，可以将 Steam 小部件（游戏、创意工坊项目、群组、玩家和游戏服务器）嵌入到您自己的网站或博客中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwz2gq/showoff_saturday_i_made_a_free_tool_to_embed/</link>
+      <description><![CDATA[      嘿r/ webdev 社区， 不久前，我开始制作一项免费服务，允许您将 Steam 小部件嵌入到您自己的网站/博客中。由于一些问题，我将其脱机，但现在我在不同的域下重新启动它（因为旧域被抢占）。  该工具允许您通过简单的 HTML 嵌入 Steam 游戏/应用程序、创意工坊项目、社区小组、玩家个人资料和游戏服务器的小部件，或者，如果您想对它们进行更多控制，则可以通过 JavaScript 嵌入它们。  我开始这个项目是因为我对默认的商店小部件不满意。尽管很详细，但它不响应，您无法通过提供的 API 直接控制它，并且没有其他可用的小部件。这就是为什么我想为此目的创建一项服务。我发现它对于独立游戏开发者、游戏社区或游戏服务器托管商可能很有用。 让我给你举个例子：   本质上，这足以呈现一个小部件，如下所示： ​ 应用程序小部件示例 您可以通过属性指定更多选项。您还可以通过 JavaScript 实例化和控制小部件。 我想获得有关以下内容的一些反馈：  您这边的小部件是否能够充分响应？   li&gt; 您认为登陆页面是否足够吸引人并引起好奇？ 您认为这对独立游戏开发者或游戏社区普遍有用吗？  网站链接：https://www.steamwidgets.net/  亲切的问候 &lt; /div&gt;  由   提交 /u/Fit_Fee9549   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwz2gq/showoff_saturday_i_made_a_free_tool_to_embed/</guid>
+      <pubDate>Sat, 06 Apr 2024 01:22:20 GMT</pubDate>
+    </item>
     <item>
       <title>验证潜在客户时出现问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1bwxqam/problems_with_validating_leads/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我想知道是否有很多开发者在themeforest上购买主题（包含html等所有文件）更改内容并出售网站？！这对我来说听起来太容易了！？   由   提交/u/OddAd1212   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bwsvck/themeforest_for_client_work/</guid>
       <pubDate>Fri, 05 Apr 2024 20:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关 Shopify 上 3D 可移动对象的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwsmby/need_some_help_with_3d_moveable_objects_on_shopify/</link>
-      <description><![CDATA[伙计们，我需要一些有关 3D 可移动对象的帮助 &gt; Shopify https://upfront.nl这个网站有一个很棒的标题，其中包含可移动的 3D 产品，我很乐意做类似的事情。如果有人知道如何做这样的事情，请告诉我。   由   提交/u/Minkool  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwsmby/need_some_help_with_3d_moveable_objects_on_shopify/</guid>
-      <pubDate>Fri, 05 Apr 2024 20:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义登录页面的平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwrzl6/platform_for_custom_login_pages/</link>
-      <description><![CDATA[我试图弄清楚某些东西是否已经存在。我们需要的是一个让某人使用用户名和密码登录的地方，双因素身份验证是首选但不是必需的，然后看到我们为他们设计的页面。不像整个网站。这只是有人登录，然后他们看到一个网页，上面有我希望他们看到的内容。我可以设置每个用户或用户组的内容。  这样的事情存在吗？ 如果这不是发布此内容的正确位置，我很抱歉。   由   提交 /u/thetalkinggeek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwrzl6/platform_for_custom_login_pages/</guid>
-      <pubDate>Fri, 05 Apr 2024 20:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业主题森林</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwrxkg/themeforest_for_freelancing/</link>
-      <description><![CDATA[我想知道是否有人使用 themeforest 中的主题，为客户更改图像和内容并向他们出售现成的网站？这对我来说听起来太容易了？！😅   由   提交/u/OddAd1212   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwrxkg/themeforest_for_freelancing/</guid>
-      <pubDate>Fri, 05 Apr 2024 20:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>也许你的贾布罗尼斯可以帮助我？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwrauf/maybe_you_jabronis_can_help_me/</link>
-      <description><![CDATA[只需在 apache2 上设置一个 Web 服务器，设置 ftp，并将索引文件和图像移至域文件夹中，当我转到我的域，但我无法显示图像。我将图像放在 /var/www/ 目录中名为 images 的文件夹中，并且 img src 标记指向 html 文件中的 /images/filename.jpg 。  这是我第一次做所有这些，所以我真的不知道我是如何做到这一点的，但如果有人能告诉我我在这张图片上做错了什么，我真的会欣赏它   由   提交 /u/allrocksnoscissor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwrauf/maybe_you_jabronis_can_help_me/</guid>
-      <pubDate>Fri, 05 Apr 2024 19:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找特定的 CSS 前/后处理器功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwqwui/looking_for_a_specific_css_prepost_processor/</link>
-      <description><![CDATA[嘿开发者！我想尝试一种新的工作流程来编写 CSS 和管理 HTML 类。我喜欢实用程序类的想法，但我不喜欢在 HTML 中填充一堆实用程序类（你好 Tailwind）。此外，我经常觉得需要再添加一个 CSS 规则，无论如何我最终都会为我的元素创建一个语义类，并最终得到分割样式定义（或内联样式，但这些也有其局限性） 所以我想尝试的是“反向添加”语义CSS选择器到可重用的实用程序规则。 （如果有人知道更好的方法来描述此功能，我真的很有兴趣阅读它，甚至是随机建议） 这是我的意思的一个最小示例。 ``` .utility-class { ... } .semantic-class { ; ...其他特定规则... }  将变为 .utility-class, .semantic-class { ... } .semantic-class { ...其他特定规则... } ``` 您是否看到执行此操作时会出现的明显问题？ 您知道有任何前置/后处理器插件可以执行此操作吗？如果没有，您对使用 postCSS 和/或 Sass 实现此功能的最佳方法有什么建议吗？   由   提交/u/M4rrc0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwqwui/looking_for_a_specific_css_prepost_processor/</guid>
-      <pubDate>Fri, 05 Apr 2024 19:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
