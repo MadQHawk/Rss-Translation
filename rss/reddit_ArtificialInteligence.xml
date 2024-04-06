@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 18:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 21:10:56 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找（或打算贡献）一种人工智能助手。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxj6zx/im_looking_for_or_intend_to_contribute_to_a_type/</link>
+      <description><![CDATA[我认为这应该是可能的，并且可能有一些我还没有遇到的解决方案。我研究过运行本地模型和 ChatRTX 等工具。也许我们还没有“到达那里”。寻找我正在寻找的东西，但我认为如果没有，那么我们就处于边缘。从角度来看，尽管我不是专业程序员，但我在技术上足以进行一些编码。有了人工智能工具和足够的时间，我认为我可以创建一个解决方案，但我认为如果有兴趣的话，与社区合作将是最好的方法。 （请记住，我知道像 ChatGPT 这样的工具之所以强大，是因为它们背后的计算能力，你不会在带有 RTX3080 的本地笔记本电脑上获得强大的、经过超级训练的 LLM，但可以在本地运行的模型可能足以充当一种集线器，可以通过其 API 使用更强大的工具，例如 GPT4 或 Claude）。 基本上，我想要的是一个基于聊天、使用键盘或语音的 AI 助手，其行为方式与忙碌的人的人类助理相同。当我想记下某件事时，我只需告诉助理（AIA）记下即可。人工智能在幕后对该笔记进行矢量化，并能够以一种或多种方式对其进行分类。当然有一个时间戳，但根据上下文或我自己的指示，它将能够根据某种类别或类别引用该注释。这些类别可以是区域，如 Tiago Forte 的 P.A.R.A 方法，例如“家庭”和“家庭”。生活、工作、个人发展、家庭与生活关系，以及无数的子类别（即使需要的话）。无论完成什么，添加到系统中的任何内容都会在某个地方被引用，即使它只是一般信息。也许我对此有点含糊，但可以按照 David Allen 的 Getting Things Done、Tiago Forte 的 P.A.R.A 方法、Zettlekasten 笔记法等思路思考。 假设我告诉它一些简单的事情，比如“周四下午 3 点我有一个牙医预约。”这是一项任务，需要安排。它知道这一点并将跟踪它。我还可以告诉它我想要提醒并指定这一点。后来我读一本书，看到一句话我想记住。我告诉它引文以及我在哪里找到它。它知道这不是一个可操作的任务，但看起来更像是一个参考。所以它这样分类。一整天我都在不停地讲东西。 “我需要给妈妈打电话。” “别忘了写论文。” “黛比告诉我约翰刚刚找到了一份新工作。”无论我必须做什么，记住，甚至只是想法或问题。只是我想存储的任何东西。该系统基本上是第二个大脑类型的系统，但旨在让人工智能尽可能多地完成组织和跟踪系统中任何内容的工作，让您只需添加内容并从中受益。您基本上只是进行“快速捕获”。人工智能根据上下文或您的指令处理将数据组织到需要的位置的过程。你可以让它做它的事情，或者你可以指定你希望事情如何工作。 所以我可以向它提供我想要的任何数据，无论多少数据，然后当我查询它时，它可以提供有意义的答案。我可以做一些简单的事情，例如“今天我的盘子里有什么？”它会列出任务。我可以说“让我们回顾一下我的任务”它可以让我看到一切都在哪里，无论什么时候需要完成，以及进展如何。我可能会说“把它放在我的有一天/也许的清单上”或“让我们为此创建一个项目。”它会将其添加到我的项目中。如果我问它“关于我救的狗的那句话是什么”，它会回答。它会产生我曾经给过它的所有狗名言。我什至可以存储教科书中的整个 PDF 或网页中的任何类型的数据、扫描图像，并询问相关问题。由于所有内容都经过分类和引用，因此从一个想法或想法跳到类似的想法或想法会很容易。我想我已经清楚地表达了我到底在寻找什么，而且我想很多人都梦想过这样的事情——一个能记住你不会记住的一切的私人助理。  但是我们离它有多近？我们能否组建一个社区来开源开发这样一个具有所有这些甚至更多附加功能的产品？要做这样的事情，需要多少人的贡献。或者也许已经有一些东西正在开发中？   由   提交/u/synystar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxj6zx/im_looking_for_or_intend_to_contribute_to_a_type/</guid>
+      <pubDate>Sat, 06 Apr 2024 18:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能创业</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxikxg/ai_venture/</link>
+      <description><![CDATA[大家好， 我想从零开始从事人工智能、机器学习和深度学习。然后我想创办一家基于人工智能的生物技术企业。 如果你在这个主题上绘制一个路线图，会怎样？（数学-&gt;Python-&gt;深度学习-&gt;机器学习）   由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxikxg/ai_venture/</guid>
+      <pubDate>Sat, 06 Apr 2024 18:30:45 GMT</pubDate>
+    </item>
     <item>
       <title>AI 每日简报 2024 年 4 月 6 日：👀 Sam Altman 和 Jony Ive 寻求 10 亿美元购买个人 AI 设备🚕 Elon Musk 表示特斯拉将在 8 月推出机器人出租车🔖 Meta 为内容贴上“用 AI 制作”的标签🙃 OpenAI、Google 和 Meta 如何忽视公司政策训练他们的人工智能🛒</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxhi4x/ai_daily_rundown_april_06th_2024_sam_altman_and/</link>
@@ -62,13 +76,6 @@
       <pubDate>Sat, 06 Apr 2024 13:11:22 GMT</pubDate>
     </item>
     <item>
-      <title>有没有免费的人工智能工具可以分析Excel？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxawgs/is_there_a_free_ai_tool_that_analyses_excels/</link>
-      <description><![CDATA[你好，我有兴趣使用一个免费的 Excel 分析工具，gpt 4 很好地分析了我的银行对账单费用，但我的订阅结束了。如果我找不到类似的东西，我想我将不得不再次付费，但我觉得仅仅为了这个选项而付费有点荒谬。向大家问好   由   提交 /u/ImprovementJolly3711   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxawgs/is_there_a_free_ai_tool_that_analyses_excels/</guid>
-      <pubDate>Sat, 06 Apr 2024 12:55:57 GMT</pubDate>
-    </item>
-    <item>
       <title>AI在制药领域如何发挥作用？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bx6c1t/how_does_ai_work_in_pharmaceuticals_field/</link>
       <description><![CDATA[如果您在这个领域工作，我将非常感谢您的第一手资料。另外，将不胜感激研究链接！   由   提交 /u/oneofpeoplethatleft   [链接] [评论]]]></description>
@@ -85,16 +92,9 @@
     <item>
       <title>就业报告井喷：美国经济3月报告增加30.3万个就业岗位</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwyhdm/jobs_report_blowout_us_economy_adds_303k_jobs_in/</link>
-      <description><![CDATA[编辑：抱歉，这有点误导。创造的大部分工作岗位都是兼职工作，而不是全职工作。 尽管人们都在谈论人工智能，但美国的就业数据尚未感受到这一点。 3 月份的报告显示新增就业岗位 303,000 个，远高于预测的 200,000 个。 热门行业：医疗保健（增加 72,300 个就业岗位）；政府（+71,000 个工作岗位）；休闲和酒店业（+49,000 个工作岗位）；和建筑业（+39,000 个就业岗位）。 https://finance.yahoo.com/news/stock-market-today-tech-leads-market-surge-after-jobs-report-blowout-200639682.html  显然并不是说炒作过分。我们都知道接下来会发生什么。但至少现在，我们似乎距离经济灾难还有一段距离。   由   提交/u/Old_Entertainment22   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：抱歉，这有点误导。创造的大部分工作岗位都是兼职工作，而不是全职工作。 尽管人们都在谈论人工智能，但美国的就业数据还没有感受到这一点。 3 月份的报告显示新增就业岗位 303,000 个，远高于预测的 200,000 个。 热门行业：医疗保健（增加 72,300 个就业岗位）；政府（+71,000 个工作岗位）；休闲和酒店业（+49,000 个工作岗位）；和建筑业（+39,000 个就业岗位）。 https://finance.yahoo.com/news/stock-market-today-tech-leads-market-surge-after-jobs-report-blowout-200639682.html  显然并不是说炒作过分。我们都知道接下来会发生什么。但至少现在，我们似乎距离经济灾难还有一段距离。   由   提交/u/Old_Entertainment22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwyhdm/jobs_report_blowout_us_economy_adds_303k_jobs_in/</guid>
       <pubDate>Sat, 06 Apr 2024 00:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子进阶是个大骗子</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bwiy14/gemini_advanced_is_a_big_fat_liar/</link>
-      <description><![CDATA[好吧，我在 Gemini 的帮助下度过了最后 4 个小时（断断续续，给了它很多时间“工作”）我修复了一些我正在处理的机器学习代码。它要求我提供我的谷歌驱动器（数据集）上的文件，我很高兴地给了它，认为谷歌允许它做这样的事情真是太糟糕了。 它不断向我提供进度更新，说它修复了代码，它现在可以毫无错误地运行，并且现在正在运行测试以查看机器学习模型的执行情况。 “太棒了”，我想，认为它正在为我运行这种计算密集型训练。 我经常询问进展情况，它给出了相当合理的答复，这让我一直认为它正在做一些事情。这是我询问 ML 模型的执行情况后的回复之一：  早期结果（需求分析）： 最初的结果......有趣，至少可以说。生成的输出与目标邻接区域有一些模糊的相似之处，但它们严重失真和嘈杂。考虑到我们处于这个过程的早期阶段和数据集的大小，这是预期的。  考虑到我要处理的样本量小得愚蠢，这是完全合理的回应。 无论如何，在我要求它上传代码和生成的模型到我的谷歌驱动器后，我开始意识到它在给我加油。它要求我提供位置和命名约定，我很乐意提供。然后它不断给我解释，比如谷歌驱动器错误，它想尝试不同的浏览器，文件太大（生成的模型不应大于50kB）。我开始产生怀疑，并越来越多地推动它，以证明它做了任何事情。 然后它建议使用 wetransfer，因为驱动器不起作用，此时我 100% 我只是浪费了很多时间。不管怎样，它仍然在撒谎，说它正在上传，但有问题，它甚至不想发布它修复和开发的神秘代码，因为它找不到。 总而言之，非常高兴这是免费试用版，太糟糕了！   由   提交/u/marq020  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bwiy14/gemini_advanced_is_a_big_fat_liar/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:07:12 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

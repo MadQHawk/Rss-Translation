@@ -4,11 +4,74 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 18:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 21:12:31 GMT</lastBuildDate>
+    <item>
+      <title>我制作了可以轻松使用布尔表达式的页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxmbzy/i_made_page_to_easily_work_with_boolean/</link>
+      <description><![CDATA[       由   提交 /u/Sandlaa   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxmbzy/i_made_page_to_easily_work_with_boolean/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:09:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习设计模式和软件架构对编写意大利面条式代码有帮助吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxma1f/would_learning_about_design_patterns_and_software/</link>
+      <description><![CDATA[嗨！ 因此，出于学习目的，我最近开始构建比典型待办事项列表稍大的项目（我是还是个新手）。 现在我在重读我的代码时发现它非常混乱，难以理解，而且每一段代码都会影响另一段代码。一切正常，但如果我触及一行代码，一切都会中断，错误会到处出现。 所以我的问题是：软件工程中是否有一个特定的主题可以帮助我解决这个问题？或者是否有经验和提前计划？经过一番谷歌搜索后，我发现了设计模式、软件架构和设计原则。了解这些会有帮助吗？我看到评论说使用设计模式并不总是一个好主意，所以我有点困惑。  如有任何建议，我们将不胜感激。   由   提交 /u/Itchy_Firefighter876   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxma1f/would_learning_about_design_patterns_and_software/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建了 Rick&Morty 医疗保健应用程序来演示现代数据所有权和审批流程用例</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxlthn/we_built_a_rickmorty_healthcare_application_to/</link>
+      <description><![CDATA[       由   提交/u/Permit_io   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxlthn/we_built_a_rickmorty_healthcare_application_to/</guid>
+      <pubDate>Sat, 06 Apr 2024 20:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>当后端发送“用户名已被占用”时，前端如何将其显示为错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxljt0/when_the_backend_sends_a_username_already_taken/</link>
+      <description><![CDATA[好吧，让我们说，在后端，我们检查数据库中是否有该用户名，它已被占用，所以我们只需返回一个“用户名已被占用”，其中包含http 状态代码 400。前端如何将其转发给用户，是否只是复制消息？或者它是否检查其 httpstatus 代码是否为 x 以及他们收到的是否为 X，然后发布此评论？只是好奇它是如何工作的   由   提交/u/South_Dig_9172   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxljt0/when_the_backend_sends_a_username_already_taken/</guid>
+      <pubDate>Sat, 06 Apr 2024 20:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSRFToken 的 PHP Cookie</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxlh9e/php_cookies_for_csrftoken/</link>
+      <description><![CDATA[我的理解是，通过使用 cookie，我可以使我的密码更新表单更加安全。 在应用程序登录页面上，我正在设置 cookie。 像这样：  &#39;/&#39;, &#39;secure&#39; =&gt; true , // 确保 cookie 仅通过 HTTPS 发送 &#39;httponly&#39; =&gt; true, // 防止客户端 JavaScript 访问 cookie &#39;samesite&#39; =&gt; &#39;Strict&#39; // 将 SameSite 属性设置为 &#39;Strict&#39; ]) ; ？&gt;  在同一页面上，用户登录，然后重定向到其个人资料页面，其中存在更改密码表单。 该表单会触发通过 fecth() 进行 AJAX 调用 以下是该页面中用于 fetch 调用的片段：  const csrfToken = &#39;&#39;; // 准备提交数据 const formData = { oldPassword: oldPassword, newPassword: newPassword, _token: csrfToken // 在请求正文中包含 CSRF 令牌 }; // 使用 fetch 发送密码更改请求 fetch(&#39;updatePassword.php&#39;, { method: &#39;POST&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39; }, body: JSON.stringify(formData) }) &lt; /code&gt; 在浏览器 DevTools 中，我没有看到 CSRFToken 作为 cookie。因此，当我访问 updatePassword.php 脚本时，$_COOKIE 变量不包含我在登录页面上使用 setcookie 设置的 CSRFToken。 任何指导都可以帮助我找出 cookie 的原因没有像我预期的那样工作。   由   提交 /u/davidbarman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxlh9e/php_cookies_for_csrftoken/</guid>
+      <pubDate>Sat, 06 Apr 2024 20:33:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的投资组合网站上寻找批评。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxl2ar/looking_for_critique_on_my_portfolio_website/</link>
+      <description><![CDATA[可以在此处找到有问题的网站： https://eracodes.net/portfolio/ 使用 React/RTK/Typescript/SCSS/Node/Express/Heroku 创建。 旨在完全响应式。   由   提交 /u/eracodes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxl2ar/looking_for_critique_on_my_portfolio_website/</guid>
+      <pubDate>Sat, 06 Apr 2024 20:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用可视化功能和 GPT4 加速您的 API 规划流程 - 免费！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxjj6p/accelerate_your_api_planning_process_using/</link>
+      <description><![CDATA[       由   提交/u/iskandarchacra   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxjj6p/accelerate_your_api_planning_process_using/</guid>
+      <pubDate>Sat, 06 Apr 2024 19:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 TypeScript 开发人员提供的纯 JavaScript 设置</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxj4n7/plain_javascript_setup_for_typescript_developers/</link>
+      <description><![CDATA[      我仅使用纯 JS 和 JSDoc 注释编写了 Pong Wars 克隆。我想尝试构建一个没有任何构建工具或依赖项的小项目，并且不会牺牲 Typescript 的大部分舒适性。 📌 玩 演示。 📖 阅读README 了解有关此设置的更多详细信息和提示。 tldr; // @ts-check 和 JSDoc 有时就是您所需要的。 请随意与您的黑客朋友和同事分享🎉 https://preview.redd.it/ x4j5jdtiaxsc1.png?width=2338&amp;format=png&amp;auto=webp&amp;s=dd3004f116b309ca6df1b26774b1360ad4164a97   由   提交/u/tsopeh  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxj4n7/plain_javascript_setup_for_typescript_developers/</guid>
+      <pubDate>Sat, 06 Apr 2024 18:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该改进什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bxiata/what_should_i_improve/</link>
+      <description><![CDATA[大家好！ 我主要是后端开发人员，但是对于这个网站，我想在设计上做更多的工作。  就背景而言，这是我的业余项目，是自我修养者的社交媒体。我完全没有设计经验，所以我很感激任何反馈！ https://youtu.be/1jpoTqKjMos?si=xGxR7bfsQj8QUV9U &lt; !-- SC_ON --&gt;  由   提交/u/Independent-Back3441  /u/Independent-Back3441 reddit.com/r/webdev/comments/1bxiata/what_should_i_improve/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bxiata/what_should_i_improve/</guid>
+      <pubDate>Sat, 06 Apr 2024 18:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>👩‍🏫🍎 在我的教育支持网站上寻求反馈：使用 HTML、FastAPI、Azure 和 GoDaddy 构建！ 🚀</title>
       <link>https://www.reddit.com/r/webdev/comments/1bxi4s1/seeking_feedback_on_my_educational_support/</link>
-      <description><![CDATA[r/webdev 社区您好！ 👋 我一直在开发一个教育支持平台，以帮助教师获得课堂所需的用品。该网站是使用 HTML 作为前端、Python FastAPI 作为后端构建的，并由 GoDaddy 作为域名提供商托管在 Azure 上。 我想向大家展示教师在课堂上付出的令人难以置信的努力，经常花自己的钱购买用品。这证明了他们的奉献精神，并强调了社区驱动支持的必要性。平均而言，他们会自付费用 600 美元来教授下一个课程。 🔗 网站概述：  前端：HTML 后端：Python FastAPI 数据库：Azure SQL 托管：Azure WebApp 域：GoDaddy  我邀请大家查看该网站并提供反馈。另外，如果您认识任何老师，也请与他们分享。我正在寻找用户注册，以便我可以删除代表性的测试数据。我有 2 个真实用户，还有一个正在等待验证。 🔗 Homeroom Heroes 谢谢花时间检查一下！非常感谢您的反馈。让我们支持塑造未来的无名英雄，一次一名学生。 🍎❤️   由   提交/u/EngineerSmallz   [链接] [评论]]]></description>
+      <description><![CDATA[r/webdev 社区您好！ 👋 我一直在开发一个教育支持平台，以帮助教师获得课堂所需的用品。该网站的前端使用 HTML，后端使用 Python FastAPI，托管在 Azure 上，GoDaddy 作为域名提供商。 我想向大家展示教师在课堂上付出的令人难以置信的努力，经常花自己的钱购买用品。这证明了他们的奉献精神，并强调了社区驱动支持的必要性。平均而言，他们自付费用 600 美元来教育下一代。 🔗 网站概述：  前端&lt; /strong&gt;：HTML 后端：Python FastAPI 数据库：Azure SQL 托管：Azure WebApp 域名：GoDaddy  我邀请大家查看该网站并提供反馈。另外，如果您认识任何老师，也请与他们分享。我正在寻找用户注册，以便我可以删除代表性的测试数据。我有 2 个真实用户，还有一个正在等待验证。 🔗 Homeroom Heroes 谢谢花点时间去看看吧！非常感谢您的反馈。让我们支持塑造未来的无名英雄，一次一名学生。 🍎❤️   由   提交 /u/EngineerSmallz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bxi4s1/seeking_feedback_on_my_educational_support/</guid>
       <pubDate>Sat, 06 Apr 2024 18:11:51 GMT</pubDate>
     </item>
@@ -39,69 +102,6 @@
       <description><![CDATA[https://frame.io &lt; p&gt;整个网站非常完美，特别是你进入摄像头然后那个人看起来在工作的部分......哇！   由   提交/u/ril3ydx  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bxh2cn/how_hard_it_is_to_recreate_a_page_like_frameio/</guid>
       <pubDate>Sat, 06 Apr 2024 17:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图找到最有效的网站建设方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxgzja/trying_to_find_the_most_efficient_way_to_build/</link>
-      <description><![CDATA[我构建网站已经有一段时间了，我通常使用 svelte 作为前端，使用 vercel 进行托管，这很有效，但我花了很长的时间摆弄风格。我最近开始使用 webflow，我真的很喜欢可视化生成器，但我并不真正需要它的所有其他部分，例如托管和 CMS。那么这里有没有中间立场，就像在类似于 webflow 的可视化构建器中一样，但我可以自己托管和自定义它？   由   提交/u/wooody25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxgzja/trying_to_find_the_most_efficient_way_to_build/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>简历扫描仪功能可扫描简历并获得适当的建议和技巧来改进它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxguyo/resume_scanner_function_to_scan_resume_and_get/</link>
-      <description><![CDATA[   /u/NetworkEducational81   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxguyo/resume_scanner_function_to_scan_resume_and_get/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个人工智能，可以检测网站中的设计问题，例如拼写错误、错位和无响应的内容。联系我以获得测试版邀请！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxguk2/i_built_an_ai_that_detects_design_issues_in/</link>
-      <description><![CDATA[      应用程序位于 工作流设计  https://preview.redd.it/r076ws5d7wsc1.png?width=2942&amp;format=png&amp;auto=webp&amp;s=74ce78c54b066c794db0428e664ced4376333067  &amp; #32；由   提交 /u/pomariii   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxguk2/i_built_an_ai_that_detects_design_issues_in/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[自由职业者] 你是如何管理你的生意的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxgq94/freelancers_how_do_you_manage_your_business/</link>
-      <description><![CDATA[大家好， 作为一名自由职业者，您如何管理您的业务？  特别是：  客户（您使用 CRM 吗？） 发票 项目管理 时间跟踪 KPI    由   提交 /u/alessiomavica   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxgq94/freelancers_how_do_you_manage_your_business/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Android/iOS 网页查看的 PDF 查看器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxgo0k/pdf_viewer_for_androidios_web_view/</link>
-      <description><![CDATA[我需要有关如何解决此问题的建议/建议。目前，我正在构建一个 Web 应用程序，用户可以在其中上传 PDF 文件，并且只有具有特定角色的用户才能查看它们。该应用程序也可以通过移动应用程序使用，但是我的团队决定我们将使用 Web 视图在移动应用程序中列出/显示 pdf 文件。 Android 版的 Web 应用程序使用 Kotlin 构建，iOS 版使用 Swift 构建。此外，为了检索文件，“具有特定角色的用户”可以被检索。在系统检索文件之前，必须提供他的 JWT 令牌进行身份验证。 我们计划显示 PDF 文件的方式是，PDF 文件嵌入到 WebView 页面中。到目前为止，我们已经尝试了多种方法：  iframe（使用存储中的直接路径） iframe（使用 Google 文档查看器） PDF.js （JS 库）  对于第一种方法，Android 无法加载 PDF，但 iOS 可以加载它。对于第二种方法，Android 和 iOS 都设法显示它，但是我必须冒险将 JWT 放入 URL 中，因为没有其他方法可以传递 JWT 令牌进行身份验证。对于第三种方法，Android 和 iOS 都根本无法加载 PDF。 我感觉自己已经走进了死胡同，而且这个功能似乎无法在 WebView 中实现。对于 Web 开发人员来说，您是否创建过类似的东西？你们用什么方法检索 PDF 文件，以便可以在 iOS 和 Android 的 WebView 页面中读取它。    由   提交 /u/ElysianitezZuhair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxgo0k/pdf_viewer_for_androidios_web_view/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用画布制作了一个简化的电子电路构建器。你怎么认为 ？ （全加器和4位加法）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxgkz5/i_made_a_simplified_electronic_circuit_builder/</link>
-      <description><![CDATA[       由   提交/u/La_chipsBeatbox   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxgkz5/i_made_a_simplified_electronic_circuit_builder/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>协程和 Web 组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxgkdr/coroutines_and_web_components/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxgkdr/coroutines_and_web_components/</guid>
-      <pubDate>Sat, 06 Apr 2024 17:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个基于 Material-UI 的高级 UI 组件存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxg8gn/created_an_advanced_ui_components_repo_built_on/</link>
-      <description><![CDATA[      嘿伙计们，我已经创建了 Material-ui-advanced 组件存储库，它是构建在材质-UI。在 GitHub 上查看：https://github.com/sai6855/material-ui-advanced  查看演示：https://material-ui-advanced.vercel.app/  目前包含的组件： NestedMenu DebouncedInput OTP 输入 文件上传 可滑动标签 如果您觉得有用，请考虑给它一个星⭐。    ;由   提交 /u/Turbulent-Line3591    reddit.com/gallery/1bxg8gn&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxg8gn/created_an_advanced_ui_components_repo_built_on/</guid>
-      <pubDate>Sat, 06 Apr 2024 16:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>懒得更新博客，就让AI来接管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bxfjyl/im_too_lazy_to_update_my_blog_so_i_let_ai_take/</link>
-      <description><![CDATA[最后，我的第一个项目达到 MVP 状态！ www.aiwrotethis.blog 我什至不确定谁可以成为这个 SaaS 的目标，但制作它很有趣，它基本上是一个超级基本的博客平台，可以在其中发布帖子按计划自动生成，这样您就不必担心任何事情。 当然，如果需要的话，手动发帖仍然是一件事，但是当机器人可以为我们工作时，谁愿意这样做呢？  现在还处于非常早期的阶段，基础知识已经有了，它可以写帖子并为每个帖子找到特色图片（Dall-E 一代目前正在进行中），只有 3 个主题可供选择，几乎没有定制尚未完成，但至少我终于看到我的一个项目进入了公共舞台！ 以下是我作为测试制作的两个博客示例：foodandtour.aiwrotethis.blog 和 justjapanthings.aiwrotethis.blog  非常感谢评论和建议，如果有人想要一整月的促销代码而不仅仅是试用周，请告诉我   由   提交 /u/The_Mdk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bxfjyl/im_too_lazy_to_update_my_blog_so_i_let_ai_take/</guid>
-      <pubDate>Sat, 06 Apr 2024 16:23:41 GMT</pubDate>
     </item>
     <item>
       <title>三个最近的项目 + 寻找 Ruby 朋友！</title>
