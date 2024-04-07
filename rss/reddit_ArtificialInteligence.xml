@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 21:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 00:57:02 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 4/6/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxqp48/oneminute_daily_ai_news_462024/</link>
+      <description><![CDATA[ Nvidia 提出 FoundationPose，这是一个用于 6D 物体姿态估计的统一基础模型跟踪，支持基于模型和无模型设置。[1] Google DeepMind 提出深度混合：优化 Transformer 模型以实现动态资源分配和增强计算可持续性[2] Google 图书据报道将人工智能撰写的不良作品编入索引。[3] 教师正在使用人工智能对论文进行评分。但一些专家提出了道德问题。[4] 来源包括：https ://bushaicave.com/2024/04/06/4-6-2024/     ;由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxqp48/oneminute_daily_ai_news_462024/</guid>
+      <pubDate>Sun, 07 Apr 2024 00:21:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>认识 RAGFlow：基于深度学习的开源 RAG（检索增强生成）引擎</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxnaeb/meet_ragflow_an_opensource_rag_retrievalaugmented/</link>
+      <description><![CDATA[RAGFlow 是一个开源人工智能项目，它使用检索增强生成技术从非结构化数据中提取见解。它将大型语言模型与深入的文档理解相结合，并优先考虑有依据的引用，以确保输出的真实和准确。组织可以通过提取有价值的见解、自动回答问题、与现有系统集成以及访问多功能开源解决方案来从 RAGFlow 中受益。  来源：https://app.daily.dev/posts/meet-ragflow-an-open-source-rag-retrieval-augmented- Generation-engine-based-on-deep-document-unde -frjwu3naz    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxnaeb/meet_ragflow_an_opensource_rag_retrievalaugmented/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁不知道，我们可以免费使用所有表现最好的LLM模型：ChatGPT 4、Claude 3、Gemini Advanced？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxn3k8/anyone_doesnt_know_that_for_free_we_can_use_all/</link>
+      <description><![CDATA[所有公司都将其最新模型放在 LLM 舞台上供用户排名。 对我们来说，这是免费的:) 警告：没有视频 详细信息您可以查看yumL 说明。玩得开心！    由   提交/u/flycat88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxn3k8/anyone_doesnt_know_that_for_free_we_can_use_all/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>对人工智能的积极看法——营销、宣传和人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxmwzw/a_positive_view_of_ai_marketing_propaganda_and_ai/</link>
+      <description><![CDATA[https:/ /wisdomimprovement.wixsite.com/wisdom/post/marketing-propaganda-and-ai ​ 这是一个简单的一到两分钟的阅读内容对人工智能如何真正将我们所有人从我们一直处于的恶性循环中拯救出来的潜在的白色丸子的积极看法。   由   提交/u/waxheartzZz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxmwzw/a_positive_view_of_ai_marketing_propaganda_and_ai/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:34:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经A*</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxme8b/neural_a/</link>
+      <description><![CDATA[你好，我正在为我的论文研究神经网络和神经 A* 算法，并阅读论文 https://arxiv.org/pdf/2009.07476 我有一个问题：要在节点选择步骤中查找节点的索引，它表示相同的方程将是用作反向传播中的恒等函数。这是什么意思？   由   提交/u/JuriPH  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxme8b/neural_a/</guid>
+      <pubDate>Sat, 06 Apr 2024 21:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找（或打算贡献）一种人工智能助手。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxj6zx/im_looking_for_or_intend_to_contribute_to_a_type/</link>
@@ -48,46 +83,11 @@
       <pubDate>Sat, 06 Apr 2024 15:51:43 GMT</pubDate>
     </item>
     <item>
-      <title>两台计算机上的相同学习模型提供相同的训练数据 - 两者都是“相同的”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxeakj/same_learning_model_on_two_computers_give_same/</link>
-      <description><![CDATA[不是人工智能专家，因此请原谅任何错误使用的术语，但是， 如果将“学习算法”应用于两台不同的计算机并给予相同的训练数据，后来的输出会相同吗？ 一个简单的例子可能是我很久以前听说过的狗或猫的事情。如果两台计算机以相同的顺序对相同的图片进行训练，那么两台计算机稍后会犯同样的错误吗？ ​ 我知道法学硕士有一个它生成的下一个单词是什么的概率问题。但是，在学习阶段是否会存在某种“概率”或随机性，这意味着在训练两个不同的系统时将“关注”不同的标准？   由   提交 /u/Throwing_Daze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxeakj/same_learning_model_on_two_computers_give_same/</guid>
-      <pubDate>Sat, 06 Apr 2024 15:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前哪种免费聊天机器人最适合学习？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxdoao/which_free_chat_bot_currently_is_best_for_studying/</link>
-      <description><![CDATA[我一直忽略了整个 AI 字符的事情，对此一无所知，想最终尝试一下（因为我正在学习新的硬技能，有点厌倦了谷歌搜索）。  什么完全免费的聊天最适合这个？显然，我在发布此内容之前检查过，有很多，这个问题的很多答案都是 6-12 个月前的，也许有些东西已经改变了。有人说 Bing 的副驾驶是最好的，有人说即使是旧的 GPT3.5 也比 Bing 更好，有人说 ChatGPT 现在的表现比发布时更差，有人称赞 Claude。那么，如果我没有经验并希望它取代谷歌，我应该使用哪一个（免费）呢？ Windows 和/或 iPhone。  哦，我还看到了大量的电报机器人，声称是基于 ChatGPT 的免费人工智能，它使用起来是否安全，或者是一些恶意软件陷阱？    由   提交/u/odonis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxdoao/which_free_chat_bot_currently_is_best_for_studying/</guid>
-      <pubDate>Sat, 06 Apr 2024 15:02:44 GMT</pubDate>
-    </item>
-    <item>
       <title>我使用 ChatGPT 100% 编写了一个（简单的）Android 游戏，并在本周早些时候获得了 Play 商店的批准/添加！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxcn47/i_used_chatgpt_to_100_code_a_simple_android_game/</link>
       <description><![CDATA[我花了一年的时间，但完成了！这既有趣，但最终也变得痛苦/令人沮丧，因为我只是想看看我是否可以发布一些东西。这一切都是在与一些朋友讨论 ChatGPT 实际功能后开始的。当时对其能力仍存在很多怀疑。因此，我从一个基本想法开始，看看是否可以用它来编码一个小圆圈围绕一个大圆圈移动，朝向一个目标。这样做没问题，我只是从那里转到这个完整的（是的，很简单）应用程序。我没有编码经验，但一直想学习编码。我确实了解到有更好的方法来提示系统以获得好的代码。给它尽可能小的工作块似乎是最好的。但是，当您的代码开始增长并且文件相互连接时，这可能会具有挑战性。幸运的是，ChatGPT 的上下文窗口在这一年中不断增长，否则这是不可能的！ 有关该应用程序的一些信息。  登录 - 是的，不幸的是，有一个登录系统，ChatGPT 带我走这条路，以保存用户的分数等，当我意识到没有登录可能会更好时，它会强制我重做了整个应用程序，我已经筋疲力尽了🤣。好消息是它只是一封电子邮件，您甚至不需要真正的电子邮件，只需电子邮件格式的内容，因为它从未经过验证！ 货币化 - 是的，我在这里放了宝石和广告，因为嘿也许有人会想时不时地点击广告。但你不必这样做！最酷的部分是，这一切都是因为 ChatGPT 而成为可能！它为我设置了这一切，我只是告诉它我想要什么。 简单 - 该应用程序非常基本，但这与我缺乏想象力有关，而不是 ChatGPT 的功能！当我开始这个时，我对它可以使移动的圆圈产生动画这一事实印象深刻。我不断地推动它，最后我意识到 ChatGPT 真的可以做到这一切 编码语言 - 我使用 flutter/dart 作为应用程序代码（ChatGPT 说如果我想做 Android 和 iOs，这很好）和数据库的 firebase。 ChatGPT 引导我完成了所有内容 很高兴回答任何问题！ 这是应用程序 - Circle Clicker   由   提交/u/PublicParkBench  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxcn47/i_used_chatgpt_to_100_code_a_simple_android_game/</guid>
       <pubDate>Sat, 06 Apr 2024 14:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想制作一张风格化的家庭照片作为礼物。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxb7xr/i_want_to_create_a_family_photo_in_stylized_form/</link>
-      <description><![CDATA[我希望这是这个问题的正确 subreddit。 我想向一个家庭赠送一张漫画风格的家庭照片成员参加了一个特殊的场合，并认为人工智能可以实现这一点。是否有一些免费资源可以完成该任务？我想上传图像并从中获取新的风格化图像。至少看起来应该像照片上的人。  也许你们中的某个人对此有一些经验。谢谢！   由   提交/u/xnachtmahrx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxb7xr/i_want_to_create_a_family_photo_in_stylized_form/</guid>
-      <pubDate>Sat, 06 Apr 2024 13:11:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI在制药领域如何发挥作用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bx6c1t/how_does_ai_work_in_pharmaceuticals_field/</link>
-      <description><![CDATA[如果您在这个领域工作，我将非常感谢您的第一手资料。另外，将不胜感激研究链接！   由   提交 /u/oneofpeoplethatleft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bx6c1t/how_does_ai_work_in_pharmaceuticals_field/</guid>
-      <pubDate>Sat, 06 Apr 2024 08:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 计划耗资 2 亿美元建设人工智能中心</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bx4oak/nvidia_is_planning_a_200_million_ai_center/</link>
-      <description><![CDATA[ 由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bx4oak/nvidia_is_planning_a_200_million_ai_center/</guid>
-      <pubDate>Sat, 06 Apr 2024 06:24:44 GMT</pubDate>
     </item>
     <item>
       <title>就业报告井喷：美国经济3月报告增加30.3万个就业岗位</title>

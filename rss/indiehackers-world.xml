@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 06 Apr 2024 21:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 00:59:06 GMT</lastBuildDate>
+    <item>
+      <title>向导师开放——如果有人感兴趣的话？</title>
+      <link>https://feed.indiehackers.world/post/1f35f37edf</link>
+      <description><![CDATA[我的简历中有简要详细信息，但我在用户体验方面建立了职业生涯 - 与我来自 BBC 的朋友一起经营我自己的位于伦敦的代理机构天和兄弟。我们设计并构建了员工用来移动媒体的用户界面。
+现在，我正在建立一家初创公司解决架构和技术方面的反馈问题。施工 – 3D 协作带来很多乐趣。我们去年完成了天使轮融资。
+我对软件设计感兴趣，并且是 DDD 的大力倡导者。我用 Svelte 和 React 构建应用程序。
+如果这些主题中的任何一个引起您的共鸣，请打个招呼👋。我是新来的，你们看起来都很友好。
+最后说明：包括民意调查，为您提供评论之外的替代方案 - 尝试获得尽可能多的反馈
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1f35f37edf</guid>
+      <pubDate>Sun, 07 Apr 2024 00:13:00 GMT</pubDate>
+    </item>
     <item>
       <title>没有任何东西可以对付蛇，但没有使用任何东西</title>
       <link>https://feed.indiehackers.world/post/8dfecd9e8b</link>
@@ -171,18 +183,6 @@ StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/24c917c0ee</guid>
       <pubDate>Wed, 20 Mar 2024 18:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>提升您的 SaaS 增长：释放客户评价的力量</title>
-      <link>https://feed.indiehackers.world/post/3a437fe9e8</link>
-      <description><![CDATA[客户评价：Testimonial.to 通过可自定义的模板和 SaaS 网站的简单集成选项，简化了收集和显示客户评价的过程。
-VideoAsk：VideoAsk.com 使 SaaS 公司能够捕获客户的视频评价，为他们的评价收集策略添加个性化风格。
-Boast：Boast.io 通过可自定义表单、自动请求和强大的分析等功能简化了评价收集，以衡量评价对 SaaS 增长的影响。
-结论
-在动态的 SaaS 世界中，客户评价成为推动增长和培养客户信任的宝贵资产。通过利用现有的最佳推荐工具，SaaS 企业可以利用真实客户反馈的力量来提高声誉、增加转化率并在市场中脱颖而出。准备好通过客户评价来加速您的 SaaS 增长了吗？今天就开始探索这些顶级推荐工具！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3a437fe9e8</guid>
-      <pubDate>Wed, 20 Mar 2024 17:59:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
