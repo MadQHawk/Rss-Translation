@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 18:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 21:13:19 GMT</lastBuildDate>
+    <item>
+      <title>新业务-域名搜索</title>
+      <link>https://www.reddit.com/r/webdev/comments/1byfcwk/new_business_domain_name_search/</link>
+      <description><![CDATA[我搜索该域名的所有网站都向我提供了以不同的价格和条款购买该域名的服务。这怎么可能？他们是根据要求从别人那里购买的吗？我知道他们都不能拥有相同的名字，所以我很好奇，有没有我可以去的地方，那就是“来源”。有什么办法可以找到业主并直接从他们那里购买，也许价格更便宜？我不想第一年支付 0.99 美元，然后在这种交易之后每年支付 50 美元，你知道我的意思吗？ ​ 谢谢大家高级！   由   提交/u/Ok-Grab-1815   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1byfcwk/new_business_domain_name_search/</guid>
+      <pubDate>Sun, 07 Apr 2024 21:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个页面是如何创建的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1byf0nk/how_was_this_page_created/</link>
+      <description><![CDATA[      我是在晚上拍的照片，但我相信您会看到这张照片。我看到很多公司网站都有这个，但是它是怎么开发的呢？   由   提交 /u/Perplexed_Filosofah   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1byf0nk/how_was_this_page_created/</guid>
+      <pubDate>Sun, 07 Apr 2024 20:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何为客户处理域名和 DNS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</link>
+      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新站点，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得自己执行更新的权限。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun    由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</guid>
+      <pubDate>Sun, 07 Apr 2024 20:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Python 从头开始​​构建了一个静态站点生成器 (SSG)，玩得很开心，并且了解了很多关于流行的 SSG 的工作原理！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bydmft/i_built_a_static_site_generator_ssg_from_scratch/</link>
+      <description><![CDATA[   /u/croc122  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bydmft/i_built_a_static_site_generator_ssg_from_scratch/</guid>
+      <pubDate>Sun, 07 Apr 2024 19:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bento Grid 突破：需要帮助来驯服狂野的最后一个元素🍱🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bydaea/bento_grid_breakout_help_needed_to_tame_the_wild/</link>
+      <description><![CDATA[     &lt; /td&gt; 嘿，网络开发人员朋友们， 想象一下您正在野餐，摆着美味的便当盒子网格——所有东西都包装整齐，可供享用。但是等等，这是什么？最后一个寿司卷决定逃跑，逃离容器的限制！ 好吧，这几乎就是我的登陆页面面临的情况。我有这个时髦的便当网格布局，展示了所有很酷的功能，但可惜的是，最后一个元素决定它太酷了，无法容纳。 ​ 犯罪现场 现在，我&#39;我不会袖手旁观，任由这种因素破坏聚会。我尝试过把它哄回来，但它和我一样顽固。 如果你准备好接受挑战并自认为是 CSS 管理员，请向我提供你的专业知识 [此处问题链接]。让我们一起把这个元素带回到它所属的便当盒中。 让我们抓住那个叛逆的寿司卷并恢复野餐的秩序！ 🍣👩‍💻🍱   由   提交/u/kriptonian_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bydaea/bento_grid_breakout_help_needed_to_tame_the_wild/</guid>
+      <pubDate>Sun, 07 Apr 2024 19:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mkdocs 和 Google Cloud Storage Bucket - 建议的解决方案（方法）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1byd02r/mkdocs_and_google_cloud_storage_bucket_suggested/</link>
+      <description><![CDATA[我是 (Terraform) 和 GCP 的新手，正在寻找一个简单的第一个项目。 在 Google 存储桶中部署 mkdocs这就是我决定尝试的。  我可以使用 Docker 映像来运行 mkdocs 的本地开发实例并提供 mkdocs-material 插件服务。 我还设置了一个 nix (shell) 环境来轻松实现无需担心本地依赖项即可创建捆绑包的方法。 在我的 nix shell 中，我可以轻松创建和提供构建的 mkdocs。 （可以与简单的节点 Web 服务器（local-wqeb-server）或 python http.server 配合使用 它也可以在我为了好玩而设置的 Docker 容器中工作（而不是在开发模式下安装卷）热重载） 所以现在只是为了在进入 terraform 之前进行验证，我想手动设置一个存储桶并放入构建的 mkdocs dist 中。 我在线获取存储桶可以配置 iam 并将其公开可用或位于身份识别代理后面。 问题是“index.html”，或者更确切地说，mkdocs 的构建目录表现得很奇怪 - 我得到一个无法导航的索引文件也不解析它的 css。 存储桶的行为是否像常规文件系统 - 我如何让它充当 http 服务器？ 我尚未设置负载均衡器。根据那里的说明，这是我缺少的步骤吗？ https://cloud.google.com/storage/docs/hosting-static-website?hl=de&quot;&gt;https:// /cloud.google.com/storage/docs/hosting-static-website?hl=de 我很生气，我现在想知道“所有”我可以通过“工作”方式（在 GCP 上）在线获取该资源 我现在正在考虑使用 Docker 映像进行 Cloud Run（Artifact Registry？） 有没有好的资源开始使用 GCP？最终目标是下一个应用程序，它必须与通过 terraform 和一些 ci 管道管理的自定义 Nest 后端进行通信。 抱歉，这篇文章很长，我想我只是需要发泄一下。 &gt;   由   提交 /u/MaundeRZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1byd02r/mkdocs_and_google_cloud_storage_bucket_suggested/</guid>
+      <pubDate>Sun, 07 Apr 2024 19:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为哪些因素导致 WordPress 比 Drupal 和 Joomla 等其他开源 CMS 平台更受欢迎？相比之下，为什么 WordPress 最终获得了更多的支持？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bybby2/what_factors_do_you_think_were_and_are/</link>
+      <description><![CDATA[如上所述... 此外，如果您想构建一个功能强大的网站，您会使用什么技术堆栈/平台整合了内容和电子商务，但资金短缺？ 哪种技术堆栈/平台能让您获得最大的经济效益？ &lt;!-- SC_ON - -&gt;  由   提交/u/prankster999  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bybby2/what_factors_do_you_think_were_and_are/</guid>
+      <pubDate>Sun, 07 Apr 2024 18:24:29 GMT</pubDate>
+    </item>
     <item>
       <title>如何处理浏览器测试网站的缓存？</title>
       <link>https://www.reddit.com/r/webdev/comments/1byaw94/how_to_deal_with_cache_with_web_browser_testing/</link>
@@ -25,13 +74,6 @@
       <description><![CDATA[你好。计划构建一个供个人使用的 Web 应用程序（目前为 Monolith）。 您能给我推荐一个   数据库服务 托管服务  数据库服务 托管服务 li&gt; 服务部署  工具：  Django RDB、SQL（如果可能）    由   提交 /u/Jajajajambo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bya8pu/recommend_me_free_very_cheap_database_service/</guid>
       <pubDate>Sun, 07 Apr 2024 17:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以创建比较网站的构建器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by9urj/is_there_any_builder_to_create_a_comparison/</link>
-      <description><![CDATA[我正在寻找一种快速复制类似于 Vers.com 的方法，是否有任何网站构建器或模板或类似的东西可以制作快速原型？ 我需要根据产品的功能比较产品，获取所有产品详细信息，并通过联属链接重定向用户购买它。 干杯   由   提交/u/Obliviux  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by9urj/is_there_any_builder_to_create_a_comparison/</guid>
-      <pubDate>Sun, 07 Apr 2024 17:22:48 GMT</pubDate>
     </item>
     <item>
       <title>像 Facebook 和 Google 这样的大网站，他们要求你提供 COOKIES，并且有数百万用户，他们使用像云这样的微服务，那么为什么他们不使用 JWT，因为它是服务器端，很容易针对微服务架构进行扩展</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[在过去的 100 年里（或多或少），我一直在手工编写和更新代码。完成后，我通过 sFTP 将文件（HTML、PHP、CSS、JavaScript 等）推送到服务器。人们访问该网站并实时查看我所做的更改。简单。 我在一家单人（有时是两人）商店工作，网站非常简单，因此版本冲突并不是真正的问题。客户是拥有基本站点的小型企业。把事情搞砸了？实时修复它。苏的头发和Nails 并不关心其标题上的内边距在 20 秒内偏移了 6 像素。 最近，我被告知我不确认现代工作流程。我应该进行编辑，通过一些奇特的命令推送到 Git，然后从 Git 推送到服务器以利用所有附加功能。两秒的过程现在需要我生命中的 15-20 秒 - 每次更新！ 请帮助我理解（ELI5），请离开我该死的草坪！ &lt; !-- SC_ON --&gt;  由   提交 /u/WangLung1931   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1by7bim/modern_workflow/</guid>
       <pubDate>Sun, 07 Apr 2024 15:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>带 CSS 的开发板 ESP32</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by60l8/devboard_esp32_with_css/</link>
-      <description><![CDATA[       由   提交/u/Emezeta  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by60l8/devboard_esp32_with_css/</guid>
-      <pubDate>Sun, 07 Apr 2024 14:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何打造AI SaaS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by5foz/how_to_build_an_ai_saas/</link>
-      <description><![CDATA[我有时会检查 Producthunt 以查看新内容。至少总会有一个基于人工智能的项目。人们如何构建像他们这样的 AI SaaS？他们训练模型还是只使用准备好的 chatgpt 提示？有没有教程可以帮助我构建自己的工具？例如，我想建立一个项目来解决数学问题。我应该从哪里开始？   由   提交 /u/nothingen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by5foz/how_to_build_an_ai_saas/</guid>
-      <pubDate>Sun, 07 Apr 2024 14:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合网络开发的优秀笔记本电脑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by526p/good_laptops_for_web_dev/</link>
-      <description><![CDATA[我需要有关用于 Windows 编程和 Web 开发的优质笔记本电脑的建议。 我当前的电脑即将打包，我需要购买笔记本电脑相对较快地继续我的在家办公，朝九晚五。 感谢您的建议。   由   提交 /u/StrengthOfMind1989   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by526p/good_laptops_for_web_dev/</guid>
-      <pubDate>Sun, 07 Apr 2024 13:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于初级网络开发作品集的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by4wlr/advice_on_a_junior_webdev_portfolio/</link>
-      <description><![CDATA[大家好！我是一名刚毕业的网络开发人员，显然我还有很多东西需要学习。没关系，这就是工作的乐趣所在！ :) 我已经构建了我的作品集的第一个版本，并开始申请工作机会，但到目前为止还没有成功，所以我假设我的作品集需要改进。 （我的技能也是如此，所以我开始兼职学习 TypeScript，以便稍后将其添加到我的简历中）。 我对要添加到我的投资组合中的部分有一些想法和计划（例如关于我的培训和过去的专业经验），但我很乐意收到更有经验的开发人员的意见/建议/批评/指示。 我的作品集可以在这里找到：https://nathaliearnoux.github.io/portfolio/ 我希望能得到一些指点，无论如何，祝大家美好的一天！ Ps）如果我的帖子违反了任何规则，请告诉我，以便我可以修复它！我读过它们，我认为没关系，但以防万一..！   由   提交 /u/Lyn_dalis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by4wlr/advice_on_a_junior_webdev_portfolio/</guid>
-      <pubDate>Sun, 07 Apr 2024 13:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以使用 .xlsx 文件执行恶意代码吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by4sog/can_someone_execute_malicious_code_using_a_xlsx/</link>
-      <description><![CDATA[我有一个带有文件输入字段和一些其他文本/选择/复选框输入字段的基本表单。 我只是检查如果上传的文件是我的节点服务器中的excel文件。有没有什么方法可以通过 Excel 执行恶意代码，或者可以在恶意代码到达节点服务器之前上传并执行恶意代码？ 此外，我不会检查文本字段是否包含任何内容恶意代码。我是否需要这样做，或者 HTML 会阻止运行它并只是将其作为字符串传递吗？   由   提交 /u/arpitduel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by4sog/can_someone_execute_malicious_code_using_a_xlsx/</guid>
-      <pubDate>Sun, 07 Apr 2024 13:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在本地主机上运行的 Web 应用程序可以被拦截吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1by4ivb/can_web_app_being_run_on_localhost_be_intercepted/</link>
-      <description><![CDATA[我有一个在本地主机上运行的 Web 应用程序，它接收一些敏感数据（例如密码）并将其 POST 到另一个本地托管的 Flask 服务器。 我担心这是否会被网络上的其他设备拦截？   由   提交 /u/arpitduel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1by4ivb/can_web_app_being_run_on_localhost_be_intercepted/</guid>
-      <pubDate>Sun, 07 Apr 2024 13:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

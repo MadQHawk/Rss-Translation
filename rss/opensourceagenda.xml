@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 07 Apr 2024 18:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 21:13:47 GMT</lastBuildDate>
     <item>
-      <title>长ICL长凳</title>
-      <link>https://www.opensourceagenda.com/projects/longiclbench</link>
-      <description><![CDATA[“长上下文法学硕士与长时间上下文学习的斗争”的代码和数据]]></description>
-      <guid>https://www.opensourceagenda.com/projects/longiclbench</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Letsvisionos24 文件</title>
-      <link>https://www.opensourceagenda.com/projects/letsvisionos24-files</link>
+      <title>Docker 生产中</title>
+      <link>https://www.opensourceagenda.com/projects/dockerinproduction</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/letsvisionos24-files</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:18 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/dockerinproduction</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>SSR编码器</title>
-      <link>https://www.opensourceagenda.com/projects/ssr-encoder</link>
-      <description><![CDATA[《SSR-Encoder：编码选择性主题表示以实现主题驱动生成》(CVPR) 的 Pytorch 实现2024）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ssr-encoder</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:17 GMT</pubDate>
+      <title>病毒载体</title>
+      <link>https://www.opensourceagenda.com/projects/emvb</link>
+      <description><![CDATA[“使用位向量进行高效多向量密集检索”的实现，ECIR 2024]]></description>
+      <guid>https://www.opensourceagenda.com/projects/emvb</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>达维德城堡飞行员</title>
-      <link>https://www.opensourceagenda.com/projects/dahvidschloss-pilot</link>
-      <description><![CDATA[基于 Ping 的信息查找和出站传输]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dahvidschloss-pilot</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:17 GMT</pubDate>
+      <title>Rdmo12 海王星</title>
+      <link>https://www.opensourceagenda.com/projects/rdmo12-neptune</link>
+      <description><![CDATA[利用弱 API 的 Neptune 多功能工具。 （之前的 GitHub 帐户已被终止`Rdmo1`）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rdmo12-neptune</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>Bradtraversy 微服务示例</title>
-      <link>https://www.opensourceagenda.com/projects/bradtraversy-microservices-example</link>
-      <description><![CDATA[使用 Moleculer JS 的微服务的简单示例]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bradtraversy-microservices-example</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:17 GMT</pubDate>
+      <title>Eytete 仲裁 MEV 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/eytete-arbitrage-mev-bot</link>
+      <description><![CDATA[📈 分步指南：配置您的特殊加密机器人 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eytete-arbitrage-mev-bot</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>汽车变道检测</title>
-      <link>https://www.opensourceagenda.com/projects/car-change-lane-detection</link>
+      <title>Klefimvithe1982 电影莫拉</title>
+      <link>https://www.opensourceagenda.com/projects/klefimvithe1982-filmora</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/car-change-lane-detection</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:17 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/klefimvithe1982-filmora</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>OpenNLPLab LASP</title>
-      <link>https://www.opensourceagenda.com/projects/opennlplab-lasp</link>
-      <description><![CDATA[线性注意序列并行性 (LASP)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/opennlplab-lasp</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:16 GMT</pubDate>
+      <title>投资组合优化</title>
+      <link>https://www.opensourceagenda.com/projects/portfolio-optimize</link>
+      <description><![CDATA[一个简单的 Python 包，用于使用雅虎财经的历史回报数据来优化投资组合。用户可以根据均值-方差优化方法或其他算法轻松确定给定一组代码中的最佳投资组合分配。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/portfolio-optimize</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>回顾者</title>
-      <link>https://www.opensourceagenda.com/projects/rekapager</link>
-      <description><![CDATA[PHP 分页库，支持基于偏移量和基于键集的分页。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rekapager</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>金刚医学博士</title>
-      <link>https://www.opensourceagenda.com/projects/vajira-md</link>
-      <description><![CDATA[🇱🇰King vajira md v3 更新发布🇱🇰]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vajira-md</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>米拉数据</title>
-      <link>https://www.opensourceagenda.com/projects/miradata</link>
+      <title>简易面板</title>
+      <link>https://www.opensourceagenda.com/projects/easy-panel</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/miradata</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:16 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/easy-panel</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>从Python开始</title>
-      <link>https://www.opensourceagenda.com/projects/startingoutwithpython</link>
-      <description><![CDATA[Tony Gaddis 所著的《Starting Out With Python》（第三版）一书的代码。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/startingoutwithpython</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗古奇 OpenStack</title>
-      <link>https://www.opensourceagenda.com/projects/roghuchi-openstack</link>
-      <description><![CDATA[OpenStack 脚本]]></description>
-      <guid>https://www.opensourceagenda.com/projects/roghuchi-openstack</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>CFDIP</title>
-      <link>https://www.opensourceagenda.com/projects/cf-fdip</link>
+      <title>地狱潜行者2</title>
+      <link>https://www.opensourceagenda.com/projects/helldivers-2</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cf-fdip</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:15 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/helldivers-2</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>基岩访问网关</title>
-      <link>https://www.opensourceagenda.com/projects/bedrock-access-gateway</link>
-      <description><![CDATA[适用于 Amazon Bedrock 的 OpenAI 兼容 RESTful API]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bedrock-access-gateway</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:15 GMT</pubDate>
+      <title>Queclavifgi1982 Adob​​e Photoshop</title>
+      <link>https://www.opensourceagenda.com/projects/queclavifgi1982-adobe-photoshop</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/queclavifgi1982-adobe-photoshop</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>面向对象编程 OOP Python</title>
-      <link>https://www.opensourceagenda.com/projects/object-oriented-programming-oops-python</link>
-      <description><![CDATA[面向对象编程 (OOP) 是一种构建程序的方法通过将相关属性和行为捆绑到单独的对象中。在本教程中，您将了解 Python 中的面向对象编程。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/object-oriented-programming-oops-python</guid>
-      <pubDate>Sun, 07 Apr 2024 18:15:14 GMT</pubDate>
+      <title>卡彭科工具</title>
+      <link>https://www.opensourceagenda.com/projects/karpenko-tool</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/karpenko-tool</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>野蛮黑客新闻</title>
+      <link>https://www.opensourceagenda.com/projects/brutalist-hacker-news</link>
+      <description><![CDATA[适用于所有设备的野蛮黑客新闻 PWA]]></description>
+      <guid>https://www.opensourceagenda.com/projects/brutalist-hacker-news</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Metisubsyou1974 Adob​​e Illustrator</title>
+      <link>https://www.opensourceagenda.com/projects/metisubsyou1974-adobe-illustrator</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/metisubsyou1974-adobe-illustrator</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>托利克工具</title>
+      <link>https://www.opensourceagenda.com/projects/tolik-tool</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tolik-tool</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼基塔工具</title>
+      <link>https://www.opensourceagenda.com/projects/nikita-tool</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nikita-tool</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rag Stream 中间事件教程</title>
+      <link>https://www.opensourceagenda.com/projects/rag-stream-intermediate-events-tutorial</link>
+      <description><![CDATA[有关如何通过以下方式正确发送中间 LlamaIndex 事件到 vercel ai sdk 的教程RAG 期间服务器发送的事件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rag-stream-intermediate-events-tutorial</guid>
+      <pubDate>Sun, 07 Apr 2024 21:13:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
