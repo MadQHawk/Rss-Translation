@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 00:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 03:13:01 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 或 Gemini 能够理解源文本和书面回复之间的区别吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxtc2p/is_chatgpt_or_gemini_able_to_understand_the/</link>
+      <description><![CDATA[我是一名老师，我正在尝试制作一个提示来评估学生对他们所阅读的源文本进行释义的情况。问题是 ChatGPT 似乎无法理解源文本和学生文本之间的区别。  这可能吗？   由   提交 /u/KGeedora   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxtc2p/is_chatgpt_or_gemini_able_to_understand_the/</guid>
+      <pubDate>Sun, 07 Apr 2024 02:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让AI生成的图像无法被检测到？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxtak9/how_to_make_ai_generated_images_undetectable/</link>
+      <description><![CDATA[如何使人工智能生成的图像无法被检测到？ 我正在寻找一种方法，一个可以绕过检测到的网站的网站ai生成的图像   由   提交/u/Kindly_Artist4839   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxtak9/how_to_make_ai_generated_images_undetectable/</guid>
+      <pubDate>Sun, 07 Apr 2024 02:29:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>引领 DePIN AI 叙事</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxsgjf/leading_depin_ai_narrative/</link>
+      <description><![CDATA[领先的 DePIN 协议是 GRASS，他们的社区每天都在增长数千个。他们刚刚宣布，他们将成为 Solana 上的第一个第 2 层数据汇总 - 又名空投即将到来 🏃💨 Grass、Wynd Network 背后的这些人筹集了 450 万美元，并且种植 $GRASS 是免费的，并且设置需要 2 分钟。他们的discord 数量为 210K，每天都会增长几千 市场似乎正在回升，所以刚刚对任何看起来有前途的东西进行了一些研究 差不多$GRASS 就是这个东西您只需定期使用计算机即可累积积分。而且积分稍后会值钱 您可以使用此链接通过您的电子邮件注册并开始耕种👇 https://app.getgrass.io/register/?referralCode=dloxORzAyIhmFIn  并且可以在 getgrass.io  它的作用： • 每天通过出售 0.03% 的未使用互联网带宽（基本上是只是在定期浏览网页时在 bg 中运行）。  如何做到这一点： • 安装草地扩展 • 积分自动累积 团队在 Twitter 和 Discord 上反应灵敏，感觉良好欢迎在此提出任何问题   由   提交 /u/guapmuffin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxsgjf/leading_depin_ai_narrative/</guid>
+      <pubDate>Sun, 07 Apr 2024 01:47:26 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 4/6/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxqp48/oneminute_daily_ai_news_462024/</link>
       <description><![CDATA[ Nvidia 提出 FoundationPose，这是一个用于 6D 物体姿态估计的统一基础模型跟踪，支持基于模型和无模型设置。[1] Google DeepMind 提出深度混合：优化 Transformer 模型以实现动态资源分配和增强计算可持续性[2] Google 图书据报道将人工智能撰写的不良作品编入索引。[3] 教师正在使用人工智能对论文进行评分。但一些专家提出了道德问题。[4] 来源包括：https ://bushaicave.com/2024/04/06/4-6-2024/     ;由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxqp48/oneminute_daily_ai_news_462024/</guid>
       <pubDate>Sun, 07 Apr 2024 00:21:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 RAGFlow：基于深度学习的开源 RAG（检索增强生成）引擎</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxnaeb/meet_ragflow_an_opensource_rag_retrievalaugmented/</link>
-      <description><![CDATA[RAGFlow 是一个开源人工智能项目，它使用检索增强生成技术从非结构化数据中提取见解。它将大型语言模型与深入的文档理解相结合，并优先考虑有依据的引用，以确保输出的真实和准确。组织可以通过提取有价值的见解、自动回答问题、与现有系统集成以及访问多功能开源解决方案来从 RAGFlow 中受益。  来源：https://app.daily.dev/posts/meet-ragflow-an-open-source-rag-retrieval-augmented- Generation-engine-based-on-deep-document-unde -frjwu3naz    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxnaeb/meet_ragflow_an_opensource_rag_retrievalaugmented/</guid>
-      <pubDate>Sat, 06 Apr 2024 21:50:49 GMT</pubDate>
     </item>
     <item>
       <title>谁不知道，我们可以免费使用所有表现最好的LLM模型：ChatGPT 4、Claude 3、Gemini Advanced？</title>
@@ -36,7 +50,7 @@
     <item>
       <title>神经A*</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxme8b/neural_a/</link>
-      <description><![CDATA[你好，我正在为我的论文研究神经网络和神经 A* 算法，并阅读论文 https://arxiv.org/pdf/2009.07476 我有一个问题：要在节点选择步骤中查找节点的索引，它表示相同的方程将是用作反向传播中的恒等函数。这是什么意思？   由   提交/u/JuriPH  [链接] [评论]]]></description>
+      <description><![CDATA[你好，我正在研究神经网络和神经 A* 算法，并阅读论文 https://arxiv.org/pdf/2009.07476 我有一个问题：要在节点选择步骤中查找节点的索引，它表示相同的方程将是用作反向传播中的恒等函数。这是什么意思？   由   提交/u/JuriPH  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxme8b/neural_a/</guid>
       <pubDate>Sat, 06 Apr 2024 21:12:03 GMT</pubDate>
     </item>
@@ -62,25 +76,11 @@
       <pubDate>Sat, 06 Apr 2024 17:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>在教科书上训练迷你模型的道德（和法律）是什么</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxfah5/what_are_the_ethics_and_laws_of_training_a_mini/</link>
-      <description><![CDATA[我想训练一些基本数学概念的教育模型。为了使模型保持一致，您必须为其提供大量数据。我不会自己编写数千兆字节的文本，因此显而易见的步骤是利用数字教科书、视频成绩单等。  现在我自己还没有创建任何内容，所以我想知道这是否违反培训模式的一些道德规范，或者甚至是非法的。  我还是一个初学者，所以我可能错过了一些微妙之处，但如果有人可以帮助我，我将不胜感激  &amp;# 32；由   提交/u/WinterComment7120   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxfah5/what_are_the_ethics_and_laws_of_training_a_mini/</guid>
-      <pubDate>Sat, 06 Apr 2024 16:12:26 GMT</pubDate>
-    </item>
-    <item>
       <title>劳拉训练照片</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxev37/photos_for_lora_training/</link>
       <description><![CDATA[我想创建一个真实的 Lora 本人，什么是最好上传的照片。它基本上应该像护照照片一样吗？或者我应该躺下、站着？任何提示将不胜感激。    由   提交 /u/Sensitive_Degree3602   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxev37/photos_for_lora_training/</guid>
       <pubDate>Sat, 06 Apr 2024 15:54:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 YouTube 上分享了一个多小时的数据科学</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bxesvv/i_shared_a_1_hour_data_science_on_youtube/</link>
-      <description><![CDATA[您好，我刚刚在 YouTube 上分享了一个超过 1 小时的数据科学项目。我在视频中介绍了数据分析、特征工程、机器学习和 Web 应用程序创建。我还在描述中添加了数据集链接。我将留下下面的链接，祝你有美好的一天！  https://www.youtube.com /watch?v=SJ_3_RlgAlU&amp;list=PLTsu3dft3CWg69zbIVUQtFSRx_UV80OOg&amp;index=3&amp;t=2s   由   提交/u/onurbaltaci   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bxesvv/i_shared_a_1_hour_data_science_on_youtube/</guid>
-      <pubDate>Sat, 06 Apr 2024 15:51:43 GMT</pubDate>
     </item>
     <item>
       <title>我使用 ChatGPT 100% 编写了一个（简单的）Android 游戏，并在本周早些时候获得了 Play 商店的批准/添加！</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
