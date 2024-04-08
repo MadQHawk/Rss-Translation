@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 00:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 03:14:53 GMT</lastBuildDate>
     <item>
       <title>开源存储库的人工智能维护者？！</title>
       <link>https://www.reddit.com/r/opensource/comments/1bykg2s/an_ai_maintainer_for_opensource_repositories/</link>
@@ -34,7 +34,7 @@
       <pubDate>Sun, 07 Apr 2024 19:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>像安德烈斯·弗罗因德（Andres Freund）发现的那样的漏洞为什么不会经常发生呢？</title>
+      <title>像安德烈斯·弗罗因德（Andres Freund）发现的漏洞这样的漏洞为什么不会经常发生呢？</title>
       <link>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</link>
       <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任并贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>浏览器残酷者</title>
       <link>https://www.reddit.com/r/opensource/comments/1by25an/the_browser_bruter/</link>
-      <description><![CDATA[🚀 令人兴奋的消息！ 🚀 等待结束了！ BrowserBruter现已公开并可供下载，全球首款基于浏览器的高级自动化Web应用渗透测试工具！ 经过一年多的开发，现已正式发布！ 👉 概念证明 - https://net-square.com/browserbruter/WhyWeNeedBrowserBruter/ 👉 现场演示 - &lt; a href=&quot;https://youtube.com/playlist?list=PL1qH_bg_l1aMNDpCYSMXg83o-56vLdPS7&amp;si=LtQxvbLDKWhiCsEC&quot;&gt;https://youtube.com/playlist?list=PL1qH_bg_l1aMNDpCYSMXg83o-56vLdPS7&amp;si=LtQxvbLDKWhiCsEC 📖 探索文档：https://net-square.com/browserbruter/ 📥 立即下载：https://github.com/netsquare/BrowserBruter/releases/tag/v2024.4-BrowserBruter &lt; p&gt;📈 BrowserBruter 通过受控浏览器攻击 Web 应用程序，将恶意负载注入输入字段，彻底改变了 Web 应用程序安全测试。它自动执行将有效负载发送到浏览器中的 Web 应用程序输入字段并将其发送到服务器的过程。 亮点功能： - 🔐 绕过加密的 HTTP 流量：即使 HTTP 正文已加密，也可以模糊 Web 应用程序表单，因为它会在加密之前模糊 Web 应用程序。 - 🤖 绕过验证码：允许渗透测试人员手动执行人工交互以绕过验证码并继续插入有效负载。 - 🖥️ 无 HTTP 流量的模糊前端：即使没有 HTTP 流量也可以模糊前端元素。 - 🔗 简化的会话管理：消除使用 HTTP 代理工具时会话管理、CSRF 处理和其他微管理任务的负担，因为这些任务是由浏览器本身管理的，而浏览器本身是由 Browser Bruter 控制的。  📗 模糊测试后，BrowserBruter 会生成一份综合报告，其中包括渗透测试的所有数据和结果以及 HTTP 流量。可以使用与 BrowserBruter 捆绑在一起的报告浏览器工具查看此报告。 在印度手工制作🇮🇳 幕后花絮：BrowserBruter 的背景故事 🥷 作为一名从事 Web 应用程序安全 VAPT 项目的渗透测试人员，我面临着一个共同的挑战：HTTP 流量的加密阻碍了我使用传统工具模糊输入字段的能力。 ⚙️ 可用的工具，如 BurpSuite、 SQLMap等通过修改HTTP请求和响应来进行操作。但是，当实施加密时（不是 ssl，当 http 请求主体的数据被加密时），HTTP 流量对于这些工具来说变得不透明，从而无法将有效负载注入到 Web 应用程序的输入字段中。 💡这种限制引发了一个创新的想法：如果我们可以绕过加密并在浏览器层而不是 HTTP 层对 Web 应用程序进行模糊测试，会怎样？这种方法允许我们像用户一样与 Web 应用程序进行交互，从而无需破解 HTTP 流量的加密。 结果如何？ BrowserBruter，世界上第一个先进的基于浏览器的自动化Web应用程序渗透测试工具！通过控制浏览器并将有效负载注入输入字段，BrowserBruter 绕过加密并自动将有效负载发送到浏览器中的 Web 应用程序输入字段的过程。 该项目已根据 GNU 通用公共许可证 v3.0 获得许可&lt; /p&gt;   由   提交 /u/ZinjaC0der   [链接] [评论]]]></description>
+      <description><![CDATA[🚀 令人兴奋的消息！ 🚀 等待结束了！ BrowserBruter现已公开并可供下载，全球首款基于浏览器的高级自动化Web应用渗透测试工具！ 经过一年多的开发，现已正式发布！ 👉 概念证明 - https://net-square.com/browserbruter/WhyWeNeedBrowserBruter/ 👉 现场演示 - &lt; a href=&quot;https://youtube.com/playlist?list=PL1qH_bg_l1aMNDpCYSMXg83o-56vLdPS7&amp;si=LtQxvbLDKWhiCsEC&quot;&gt;https://youtube.com/playlist?list=PL1qH_bg_l1aMNDpCYSMXg83o-56vLdPS7&amp;si=LtQxvbLDKWhiCsEC 📖 探索文档：https://net-square.com/browserbruter/ 📥 立即下载：https://github.com/netsquare/BrowserBruter/releases/tag/v2024.4-BrowserBruter &lt; p&gt;📈 BrowserBruter 通过受控浏览器攻击 Web 应用程序，将恶意负载注入输入字段，彻底改变了 Web 应用程序安全测试。它自动执行将有效负载发送到浏览器中的 Web 应用程序输入字段并将其发送到服务器的过程。 突出功能： - 🔐 绕过加密的 HTTP 流量：即使 HTTP 正文已加密，也可以模糊 Web 应用程序表单，因为它会在加密之前模糊 Web 应用程序。 - 🤖 绕过验证码：允许渗透测试人员手动执行人工交互以绕过验证码并继续插入有效负载。 - 🖥️ 没有 HTTP 流量的模糊前端：即使没有 HTTP 流量也可以模糊前端元素。 - 🔗 简化的会话管理：消除使用 HTTP 代理工具时会话管理、CSRF 处理和其他微管理任务的负担，因为这些任务是由浏览器本身管理的，而浏览器又受 Browser Bruter 控制。  📗 模糊测试后，BrowserBruter 会生成一份综合报告，其中包括渗透测试的所有数据和结果以及 HTTP 流量。可以使用与 BrowserBruter 捆绑在一起的报告浏览器工具查看此报告。 在印度手工制作🇮🇳 幕后花絮：BrowserBruter 的背景故事 🥷 作为一名从事 Web 应用程序安全 VAPT 项目的渗透测试人员，我面临着一个共同的挑战：HTTP 流量的加密阻碍了我使用传统工具模糊输入字段的能力。 ⚙️ 可用的工具，如 BurpSuite、 SQLMap等通过修改HTTP请求和响应来进行操作。但是，当实施加密时（不是 ssl，当 http 请求主体的数据被加密时），HTTP 流量对于这些工具来说变得不透明，从而无法将有效负载注入到 Web 应用程序的输入字段中。 💡这种限制引发了一个创新的想法：如果我们可以绕过加密并在浏览器层而不是 HTTP 层对 Web 应用程序进行模糊测试，会怎样？这种方法允许我们像用户一样与 Web 应用程序进行交互，从而无需破解 HTTP 流量的加密。 结果如何？ BrowserBruter，世界上第一个先进的基于浏览器的自动化Web应用程序渗透测试工具！通过控制浏览器并将有效负载注入输入字段，BrowserBruter 绕过加密并自动将有效负载发送到浏览器中的 Web 应用程序输入字段的过程。 该项目已根据 GNU 通用公共许可证 v3.0 获得许可&lt; /p&gt;   由   提交/u/ZinjaC0der  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1by25an/the_browser_bruter/</guid>
       <pubDate>Sun, 07 Apr 2024 11:22:01 GMT</pubDate>
     </item>
@@ -92,12 +92,12 @@
     <item>
       <title>物理 Github 计数器显示</title>
       <link>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</link>
-      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目的房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
+      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</guid>
       <pubDate>Sat, 06 Apr 2024 08:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>Xr0：C 编程语言的验证器（C 但安全）</title>
+      <title>Xr0：C 编程语言验证器（C 但安全）</title>
       <link>https://www.reddit.com/r/opensource/comments/1bx6feo/xr0_verifier_for_the_c_programming_language_c_but/</link>
       <description><![CDATA[       由   提交/u/waozen  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bx6feo/xr0_verifier_for_the_c_programming_language_c_but/</guid>
