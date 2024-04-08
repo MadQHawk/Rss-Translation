@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 07:29:13 GMT</lastBuildDate>
+    <item>
+      <title>如何修复 Google 上的页面描述？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1byrmxn/how_do_i_fix_my_pages_description_on_google/</link>
+      <description><![CDATA[      https://preview.redd.it/5gwlwi16h7tc1.png?width=673&amp;format=png&amp;auto=webp&amp;s=7491c54434b228d4fed3c7865a351f9865ef934 c 它显示导航，这不会如果它没有字面意思是“Dropdown”，那也没有那么糟糕。 。我有一个元描述，上面写着“content=”Wij zijn gespecialiseerd in verkoop、onderhoud、winterstalling、boottrailers、Re-Powering motoren en Boot accessoires。 ” （抱歉，这是荷兰语哈哈）。描述还不够好吗？    由   提交/u/Artistic_Trip_69   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1byrmxn/how_do_i_fix_my_pages_description_on_google/</guid>
+      <pubDate>Mon, 08 Apr 2024 07:14:15 GMT</pubDate>
+    </item>
     <item>
       <title>有人用过 Plasmic 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1byqrqj/has_anyone_used_plasmic_before/</link>
@@ -15,28 +22,21 @@
     <item>
       <title>AI优势：利用情感分析改善用户体验</title>
       <link>https://www.reddit.com/r/webdev/comments/1byqo6q/ai_advantage_use_sentiment_analysis_to_improve_ux/</link>
-      <description><![CDATA[      在当今人工智能驱动的环境中，您可能正在寻找利用适用于您的软件的最新技术。情绪分析可以是一个强大的工具。本文深入探讨它是什么、它如何工作以及如何使用可用的 API 来增强用户体验。   由   提交 /u/RevillWeb   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      在当今人工智能驱动的环境中，您可能正在寻找利用适用于您的软件的最新技术。情绪分析可以是一个强大的工具。本文深入探讨它是什么、如何工作以及如何使用可用的 API 来增强用户体验。   由   提交 /u/RevillWeb   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1byqo6q/ai_advantage_use_sentiment_analysis_to_improve_ux/</guid>
       <pubDate>Mon, 08 Apr 2024 06:10:28 GMT</pubDate>
     </item>
     <item>
-      <title>我让人们批评我的网站，他们讨厌粉红色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1byp4hd/i_asked_people_to_roast_my_website_and_they_hated/</link>
-      <description><![CDATA[大家好， 几天前，我要求人们烤我的网站。大多数人讨厌我在网站上使用的粉红色。我实施了一些更改并改进了登陆页面。粉色还没变。想听听您的意见： https://larafast.com   由   提交 /u/karakhanyan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1byp4hd/i_asked_people_to_roast_my_website_and_they_hated/</guid>
-      <pubDate>Mon, 08 Apr 2024 04:37:43 GMT</pubDate>
-    </item>
-    <item>
       <title>将 Skybox AI 放入 Squarespace 网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1byox8e/putting_skybox_ai_in_squarespace_website/</link>
-      <description><![CDATA[     &lt; /td&gt; 嗨！我使用 Skybox AI 创建了一个 3D 世界，我想将我创建的世界放在我的 squarespace 网站上。 Squarespace 允许添加代码。 我在其上看到了 YouTube 视频，但我不确定这如何与 squarespace 网站一起使用， https://www.youtube.com/watch?v=v2eLLBUxQiQ 将 3D 世界带入最简单的编码是什么我的网站？我可以导出以这些附加格式制作的文件，请告诉我！ https://preview.redd.it/g92i6d82n6tc1.png?width=998&amp;format=png&amp;auto=webp&amp;s=05f34013e92200149860133445 d19ab34d693d2b    由   提交 /u/SnooStrawberry4148   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; /td&gt; 嗨！我使用 Skybox AI 创建了一个 3D 世界，我想将我创建的世界放在我的 squarespace 网站上。 Squarespace 允许添加代码。 我在其上看到了一个 YouTube 视频，但我不确定这如何与 Squarespace 网站一起使用， https://www.youtube.com/watch?v=v2eLLBUxQiQ 将 3D 世界带入最简单的编码是什么我的网站？我可以导出以这些附加格式制作的文件，请告诉我！ https://preview.redd.it/g92i6d82n6tc1.png?width=998&amp;format=png&amp;auto=webp&amp;s=05f34013e92200149860133445 d19ab34d693d2b    由   提交 /u/SnooStrawberry4148   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1byox8e/putting_skybox_ai_in_squarespace_website/</guid>
       <pubDate>Mon, 08 Apr 2024 04:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 zoho 中破解面试</title>
+      <title>如何在 zoho 中完成面试</title>
       <link>https://www.reddit.com/r/webdev/comments/1byoln0/how_to_crack_a_interview_in_zoho/</link>
-      <description><![CDATA[我最近申请了 Zoho 中的 Web 开发人员角色。我知道要准备什么以及在哪里准备。我应该做个人项目还是其他什么？如果是这样……什么项目？  会有多少轮面试以及几轮面试 我作为实习生在 webdev 拥有 6 个月的经验   由   提交/u/Born_Forever_2944   [链接] [评论]]]></description>
+      <description><![CDATA[我最近申请了 Zoho 中的 Web 开发人员角色。我知道要准备什么以及在哪里准备。我该做个人项目还是什么？如果是这样……什么项目？  会有多少轮面试以及几轮面试 我作为实习生在 webdev 拥有 6 个月的经验   由   提交/u/Born_Forever_2944   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1byoln0/how_to_crack_a_interview_in_zoho/</guid>
       <pubDate>Mon, 08 Apr 2024 04:08:59 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>未来几年人工智能的急剧发展和就业保障</title>
       <link>https://www.reddit.com/r/webdev/comments/1bykw14/the_steep_incline_of_ai_in_the_upcoming_years_and/</link>
-      <description><![CDATA[大家好，我只是想听听你们对人工智能和我们所做的事情的一些看法！我读过具有相互冲突的想法和观点的文章（就像大多数事情一样），并且读过从 AI 完全渲染 Web 开发和设计过时到 Web 开发永远不会陷入危险的所有内容。我开始相信，它在未来 10、15 或 20 年内都不会过时，但人类要发挥作用的学习曲线将急剧强&gt;增加。我背后的逻辑是，随着数据集变得越来越大，人工智能变得越来越好，并且能够更准确地理解我们的要求以及如何解决它的解决方案。作为一个刚刚开始职业生涯的人，我不得不说 - 我非常担心。我希望获得一些见解或看到其他人的不同观点。 ​   由   提交 /u/JubieFN   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我只是想听听你们对人工智能和我们所做的事情的一些看法！我读过具有相互冲突的想法和观点的文章（就像大多数事情一样），并且读过从 AI 完全渲染 Web 开发和设计过时到 Web 开发永远不会陷入危险的所有内容。我开始相信，它在未来 10、15 或 20 年内都不会过时，但人类要发挥作用的学习曲线将陡峭强&gt;增加。我背后的逻辑是，随着数据集变得越来越大，人工智能变得越来越好，并且更能够准确地理解我们所要求的内容以及如何解决它的解决方案。作为一个刚刚开始职业生涯的人，我不得不说 - 我非常担心。我希望获得一些见解或看到其他人的不同观点。 ​   由   提交 /u/JubieFN   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bykw14/the_steep_incline_of_ai_in_the_upcoming_years_and/</guid>
       <pubDate>Mon, 08 Apr 2024 01:04:26 GMT</pubDate>
     </item>
@@ -97,18 +97,18 @@
       <pubDate>Sun, 07 Apr 2024 21:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>这个页面是如何创建的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1byf0nk/how_was_this_page_created/</link>
-      <description><![CDATA[      我是在晚上拍的照片，但我相信您会看到这张照片。我看到很多公司网站都有这个，但是它是怎么开发的呢？   由   提交 /u/Perplexed_Filosofah   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1byf0nk/how_was_this_page_created/</guid>
-      <pubDate>Sun, 07 Apr 2024 20:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们如何为客户处理域名和 DNS？</title>
+      <title>您如何为客户处理域名和 DNS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</link>
-      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新站点，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得自己执行更新的权限。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun    由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
+      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新网站，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得访问权限来自己执行此操作。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun    由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</guid>
       <pubDate>Sun, 07 Apr 2024 20:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Python 从头开始​​构建了一个静态站点生成器 (SSG)，玩得很开心，并且了解了很多关于流行的 SSG 的工作原理！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bydmft/i_built_a_static_site_generator_ssg_from_scratch/</link>
+      <description><![CDATA[   /u/croc122  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bydmft/i_built_a_static_site_generator_ssg_from_scratch/</guid>
+      <pubDate>Sun, 07 Apr 2024 19:55:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

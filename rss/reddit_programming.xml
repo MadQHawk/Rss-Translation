@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 07:28:49 GMT</lastBuildDate>
+    <item>
+      <title>AiLO（多人跑酷）- Unity 中的最终环境设置</title>
+      <link>https://www.reddit.com/r/programming/comments/1byrpsh/ailo_multiplayer_parkour_final_environment_setup/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1byrpsh/ailo_multiplayer_parkour_final_environment_setup/</guid>
+      <pubDate>Mon, 08 Apr 2024 07:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建一组选项卡</title>
+      <link>https://www.reddit.com/r/programming/comments/1byrpgo/how_to_create_a_set_of_tabs_with_tailwind_css_and/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建一个选项卡组件[评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1byrpgo/how_to_create_a_set_of_tabs_with_tailwind_css_and/</guid>
+      <pubDate>Mon, 08 Apr 2024 07:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘 Shadow DOM 并学习 Web 开发人员的新秘密武器</title>
+      <link>https://www.reddit.com/r/programming/comments/1byr82t/demystifying_the_shadow_dom_and_learning_a_new/</link>
+      <description><![CDATA[ 由   提交/u/pepincho  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1byr82t/demystifying_the_shadow_dom_and_learning_a_new/</guid>
+      <pubDate>Mon, 08 Apr 2024 06:46:57 GMT</pubDate>
+    </item>
     <item>
       <title>Elixir + Phoenix：如何在 REST API 中引发自定义 HTTP 错误响应</title>
       <link>https://www.reddit.com/r/programming/comments/1byptxu/elixir_phoenix_how_to_raise_custom_http_error/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1by9ccy/great_teams_build_great_software/</guid>
       <pubDate>Sun, 07 Apr 2024 17:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Apache APISIX 上实现 Idempotency-Key 规范</title>
-      <link>https://www.reddit.com/r/programming/comments/1by8ka0/implementing_the_idempotencykey_specification_on/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1by8ka0/implementing_the_idempotencykey_specification_on/</guid>
-      <pubDate>Sun, 07 Apr 2024 16:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hello World：深入探讨现代 Hello World 程序背后的抽象世界。</title>
-      <link>https://www.reddit.com/r/programming/comments/1by7n3c/hello_world_a_deep_dive_into_the_world_of/</link>
-      <description><![CDATA[ 由   提交/u/iwotastic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1by7n3c/hello_world_a_deep_dive_into_the_world_of/</guid>
-      <pubDate>Sun, 07 Apr 2024 15:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何改进具有超过 20M 行的 MySQL 表的加载时间</title>
-      <link>https://www.reddit.com/r/programming/comments/1by6qvs/how_i_improved_the_loading_time_of_a_mysql_table/</link>
-      <description><![CDATA[ 由   提交/u/victoor89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1by6qvs/how_i_improved_the_loading_time_of_a_mysql_table/</guid>
-      <pubDate>Sun, 07 Apr 2024 15:10:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
