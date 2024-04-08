@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 07:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 09:13:08 GMT</lastBuildDate>
+    <item>
+      <title>7 年人工智能、资源和学习经验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bysx58/7_years_in_ai_resources_and_learnings/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bysx58/7_years_in_ai_resources_and_learnings/</guid>
+      <pubDate>Mon, 08 Apr 2024 08:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 SQL 数据库的 AI Web 应用程序生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bysshy/ai_web_app_generator_for_sql_databases/</link>
+      <description><![CDATA[您好 Reddit， LLM 在各个领域释放了多种新的可能性，因此我们的工程团队决定对其进行试验并构建一个工具我们希望能够在一些受众中变得方便。 UI Bakery 是一个低代码平台。与无代码相比，低代码的主要好处之一是它释放了更多可能性，因为当您缺乏 UI 来配置某些内容时，您可以编写代码。然而，主要的缺点是，这只有在用户具有一定水平的技术知识时才可能实现。为了消除这个问题，我们决定尝试一种新的文本到应用程序界面，该界面可能会帮助非技术人员根据需要构建和微调应用程序。我们相信这在技术上是可以实现的，因为在低代码环境中，与代码生成相比，用户使用高阶组件进行操作，因此 LLM 需要的上下文更少。 目前，我们的 AI 应用程序生成器处于公开测试阶段，并且正在开发中。优化以创建内部工具、CRUD 应用程序、管理面板，但我们肯定会扩展其功能。我们的目标不是取代程序员，而是让他们从业务用户收到的日常任务中解放出来。我们非常想听听您的反馈以及您对人工智能应用程序生成主题的总体看法。是否在不久的将来可能实现，或者现在说还为时过早。如果您想尝试我们的工具，请点击以下链接：https://uibakery.io/ai-app-generator   由   提交/u/lugovsky  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bysshy/ai_web_app_generator_for_sql_databases/</guid>
+      <pubDate>Mon, 08 Apr 2024 08:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 4 vs Gemini Advanced vs Claude 3 vs Mistral Medium v​​s Microsoft Copilot</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bys8gl/gpt_4_vs_gemini_advanced_vs_claude_3_vs_mistral/</link>
+      <description><![CDATA[出于好奇，也为了获得一点乐趣，决定测试一些我经常使用的模型。我问了几个相当复杂的问题，包括谜题、数学、常识和非常小众的知识。虽然没有编码，所以对此持保留态度。我确信有人会看到这个列表并且不同意，这就是为什么我不相信我看到的排名。似乎每个人都会得出自己的结论。 有一些惊喜。克劳德3应该是令人惊叹的。它不是。也许它是为了编码，但不是为了其他。 Microsoft Copilot 在精确模式下的表现出奇的好。我以为 Gemini Advanced 很垃圾，但今天看来它非常好。问题是用英语提出的，但如果我需要葡萄牙语（这是我的母语）文本，GPT 4 会将所有其他模型排除在外。距离接近还差得远。 GPT 4 Turbo 0125 83.33% Gemini Advanced 80% Microsoft Copilot 73.33% Claude 3 Opus 66.67% Claude 3 Sonnet 56.67% Mistral Medium 46.67% Claude 3 Haiku 36.67% 现在，即使我使用 GPT 4 Turbo 0125 进行了此测试，我也运行了一些问题通过 1106 模型和常规 GPT 4，我可以有把握地说它们都优于 0125。 Gemini 非常擅长推理和数学。克劳德 3，说实话，我不明白这种炒作。相当令人失望。也许它在编码方面很出色，但对于这个特定的测试来说，它相当平庸。公平地说，俳句很可悲。我看到人们谈论这个模型就好像它是耶稣基督的第二次降临，所以也许还有其他一些我不知道的俳句模型，因为这个是 GPT 3.5 级别，在某些情况下甚至更糟。   由   提交/u/shin-chan3  /u/shin-chan3 reddit.com/r/ArtificialInteligence/comments/1bys8gl/gpt_4_vs_gemini_advanced_vs_claude_3_vs_mistral/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bys8gl/gpt_4_vs_gemini_advanced_vs_claude_3_vs_mistral/</guid>
+      <pubDate>Mon, 08 Apr 2024 07:56:39 GMT</pubDate>
+    </item>
     <item>
       <title>还有人注意到广告吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1byrpy8/anyone_else_notice_the_ads/</link>
@@ -41,13 +62,6 @@
       <pubDate>Mon, 08 Apr 2024 04:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 AWS Bedrock 中保存对话式 AI 聊天机器人的聊天历史记录</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1byndmv/how_to_save_chat_history_for_a_conversational/</link>
-      <description><![CDATA[大家好，如果我想使用 AWS Bedrock 开发对话式 AI 聊天机器人，如何在此设置中保存聊天历史记录？我需要设置 S3 存储桶才能执行此操作吗？你们知道我可以参考哪些示例脚本吗？这些脚本遵循使用 AWS Bedrock + AWS 知识库 + RetrieveAndGenerate API + AWS Lambda 的设置？ 非常感谢。非常感谢对此的任何帮助。   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/1byndmv/how_to_save_chat_history_for_a_conversational/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1byndmv/how_to_save_chat_history_for_a_conversational/</guid>
-      <pubDate>Mon, 08 Apr 2024 03:05:10 GMT</pubDate>
-    </item>
-    <item>
       <title>吉他音色AI？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bymp8q/guitar_tone_ai/</link>
       <description><![CDATA[想知道是否有人工智能可以通过告诉你需要什么类型的装备或不同的装备来帮助复制特定歌曲中的吉他音调实现类似声音的替代方案。   由   提交/u/JaredGNU   [链接] [评论]]]></description>
@@ -67,20 +81,6 @@
       <description><![CDATA[想看 AI 生成的音乐视频吗？看看“萨宾娜”由 YouTube 上的 Mt Zion 制作！！我在客厅制作了节拍/敲击/拍摄了视频😁 https://youtu.be/Oo7-kYRGIxk?si=PDflf3KAoJycD5T4&quot;&gt;https://youtu.be be/Oo7-kYRGIxk?si=PDflf3KAoJycD5T4   由   提交 /u/Zeachy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bylddu/shot_a_music_video_in_my_living_room/</guid>
       <pubDate>Mon, 08 Apr 2024 01:27:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以帮助制作listicle视频的AI视频服务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1byjzec/looking_for_ai_video_service_that_can_help_make/</link>
-      <description><![CDATA[您好， 我正在寻找可以帮助制作 listicle 视频的 AI 视频服务。像“在美国要避免的 10 种食物”甚至“2024 年 5 款值得期待的游戏”之类的东西 我不在乎我是否必须自己编写脚本，甚至在图像中出现视频然后对其进行编辑。只是寻找任何类型的人工智能视频服务，可以帮助使此类视频变得更容易。该工具可能还不存在，但 Reddit 通常有助于在领口中找到钻石。  谢谢。    由   提交/u/noconnostalgia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1byjzec/looking_for_ai_video_service_that_can_help_make/</guid>
-      <pubDate>Mon, 08 Apr 2024 00:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以识别和编辑书籍情节的人工智能。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1byfugs/ai_that_can_recognize_and_edit_book_plots/</link>
-      <description><![CDATA[自从我开始在 Kindle 上阅读以来，我经常做的一件事就是替换我不喜欢的名字，如果它们太烦我的话，这可以通过查找和替换来完成。 这让我想到，如果你可以要求人工智能编辑一本书的特定部分，那将是非常棒的。显而易见的应用是触发器，如果​​有人希望从系列中删除公开的暴力或成人内容，这对他们能够阅读以前过于血腥的书籍等非常有用。大多数触发器都可以涵盖。对于大多数人来说，尝试摆脱正在阅读的烦人的事情是件好事，但如果这些事情让他们太烦恼，他们仍然应该以某种方式享受这些故事。 我个人的想法是，能够做到这一点会很酷替换性别，这将是一个复杂的过程，需要识别他们的名字以及所有要更改的代词和身体描述，这在通过头衔或昵称引用的场景中尤其复杂。 一些我能想到的原因是，如果某人更容易与同性的主持人联系，或者如果有人不喜欢/不能忍受成人内容，例如，如果书中有明确的成人内容，我不喜欢，因此我不得不放弃《玻璃王座》，因为大约在该系列进行到一半时，它开始包含大量成人内容。 有谁知道有一家公司或人工智能有能力或正在努力开发这种根据给定参数编辑故事的功能？ 谢谢，如果这是错误的子组，抱歉   由   提交/u/mdavis7856  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1byfugs/ai_that_can_recognize_and_edit_book_plots/</guid>
-      <pubDate>Sun, 07 Apr 2024 21:23:25 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 转录了超过一百万小时的 YouTube 视频来训练 GPT-4</title>

@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Mon, 08 Apr 2024 07:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 09:14:28 GMT</lastBuildDate>
     <item>
-      <title>Fortinet Azure 解决方案</title>
-      <link>https://www.opensourceagenda.com/projects/fortinet-azure-solutions</link>
-      <description><![CDATA[一组 Azure 模板，可帮助您在 Azure 中开始使用 Fortinet 解决方案。此存储库是测试版发布的地方，并可处理要在 github.com/fortinet 上发布的最新模板或自定义模板。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fortinet-azure-solutions</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:46 GMT</pubDate>
+      <title>平台平台</title>
+      <link>https://www.opensourceagenda.com/projects/platformplatform</link>
+      <description><![CDATA[🚀 预 Alpha 状态。一个专为使用 Azure、.NET、React、TypeScript、基础设施即代码等构建企业级多租户产品而设计的平台。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/platformplatform</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:28 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 容器应用程序上的 DotNET 前端到后端</title>
-      <link>https://www.opensourceagenda.com/projects/dotnet-frontend-to-backend-on-azure-container-apps</link>
-      <description><![CDATA[此存储库演示了典型的前端使用 ASP.NET 和互补的后端 API 构建的 UI。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotnet-frontend-to-backend-on-azure-container-apps</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:45 GMT</pubDate>
+      <title>通往 Kubernetes 的桥梁</title>
+      <link>https://www.opensourceagenda.com/projects/bridge-to-kubernetes</link>
+      <description><![CDATA[Bridge To Kubernetes (B2K) 是用于调试微服务、将流量重定向到的 pod 的开发工具您的本地开发机器，反之亦然。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bridge-to-kubernetes</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>园丁阁楼 Gardenctl</title>
-      <link>https://www.opensourceagenda.com/projects/gardener-attic-gardenctl</link>
-      <description><![CDATA[Gardener 的命令行客户端。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gardener-attic-gardenctl</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:45 GMT</pubDate>
+      <title>硝基演示</title>
+      <link>https://www.opensourceagenda.com/projects/nitro-demo</link>
+      <description><![CDATA[nuxt 硝基预览]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nitro-demo</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>Terraform Azurerm 区域</title>
-      <link>https://www.opensourceagenda.com/projects/terraform-azurerm-regions</link>
-      <description><![CDATA[用于处理 Azure 区域的 Terraform 模块]]></description>
-      <guid>https://www.opensourceagenda.com/projects/terraform-azurerm-regions</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:45 GMT</pubDate>
+      <title>塞巴斯蒂安UA Terraform</title>
+      <link>https://www.opensourceagenda.com/projects/sebastianua-terraform</link>
+      <description><![CDATA[存储许多提供商的 Terraform 模块的位置]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sebastianua-terraform</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>部署环境</title>
-      <link>https://www.opensourceagenda.com/projects/deployment-environments</link>
-      <description><![CDATA[用于开始使用 Azure 部署环境服务的示例基础结构即代码模板。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/deployment-environments</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:44 GMT</pubDate>
+      <title>蔚蓝R</title>
+      <link>https://www.opensourceagenda.com/projects/azurer</link>
+      <description><![CDATA[用于从 R 与 Azure 交互的软件包系列]]></description>
+      <guid>https://www.opensourceagenda.com/projects/azurer</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 容器应用程序示例</title>
-      <link>https://www.opensourceagenda.com/projects/azure-container-apps-samples</link>
-      <description><![CDATA[Azure 容器应用示例集合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/azure-container-apps-samples</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:44 GMT</pubDate>
+      <title>VC店面</title>
+      <link>https://www.opensourceagenda.com/projects/vc-storefront</link>
+      <description><![CDATA[Virto Commerce Storefront - ASP.NET Core 6.0]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vc-storefront</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>硬化图像</title>
-      <link>https://www.opensourceagenda.com/projects/hardened-images</link>
-      <description><![CDATA[用于创建强化 Ubuntu 服务器映像的 Packer 模板。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hardened-images</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:43 GMT</pubDate>
+      <title>应用服务登陆区加速器</title>
+      <link>https://www.opensourceagenda.com/projects/appservice-landing-zone-accelerator</link>
+      <description><![CDATA[Azure 应用服务登陆区加速器是架构指南的开源集合以及参考实现，以加速 Azure 应用服务的大规模部署。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/appservice-landing-zone-accelerator</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>数据补给</title>
-      <link>https://www.opensourceagenda.com/projects/datatonic</link>
-      <description><![CDATA[🌟DataTonic：一个具有数据能力的 AGI 风格代理构建器，它可以创建群体、运行命令和安全地处理和创建数据集、数据库、可视化和分析。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/datatonic</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:43 GMT</pubDate>
+      <title>Finops 工具包</title>
+      <link>https://www.opensourceagenda.com/projects/finops-toolkit</link>
+      <description><![CDATA[入门套件、脚本和高级解决方案，可加速您在 Microsoft 云中的 FinOps 之旅。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/finops-toolkit</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>啤酒花</title>
-      <link>https://www.opensourceagenda.com/projects/az-hop</link>
-      <description><![CDATA[Azure HPC 按需平台提供 HPC 集群就绪解决方案]]></description>
-      <guid>https://www.opensourceagenda.com/projects/az-hop</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:43 GMT</pubDate>
+      <title>流利存储</title>
+      <link>https://www.opensourceagenda.com/projects/fluentstorage</link>
+      <description><![CDATA[polycloud .NET 云存储抽象层。提供 Blob 存储（AWS S3、GCP、FTP、SFTP、Azure Blob/文件/事件中心/数据湖）和消息传递（AWS SQS、Azure Queue/ServiceBus）。支持 .NET 5+ 和 .NET 标准 2.0+。纯 C#。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fluentstorage</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>Terraform Azurerm 虚拟机</title>
-      <link>https://www.opensourceagenda.com/projects/terraform-azurerm-virtual-machine</link>
-      <description><![CDATA[Terraform 模块，用于部署具有可选功能的单个或多个 Linux 或 Windows 虚拟机.]]></description>
-      <guid>https://www.opensourceagenda.com/projects/terraform-azurerm-virtual-machine</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:42 GMT</pubDate>
+      <title>Blazor 入门版</title>
+      <link>https://www.opensourceagenda.com/projects/blazor-starter</link>
+      <description><![CDATA[适用于 Azure 静态 Web 应用的 C# API 和 Blazor 入门模板]]></description>
+      <guid>https://www.opensourceagenda.com/projects/blazor-starter</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:25 GMT</pubDate>
     </item>
     <item>
-      <title>Blazor.BFF.AzureB2C.模板</title>
-      <link>https://www.opensourceagenda.com/projects/blazorbffazureb2ctemplate</link>
-      <description><![CDATA[Blazor.BFF.AzureB2C.Template，使用 Azure B2C BFF（服务器）在 ASP.NET Core 中托管的 Blazor WASM身份验证）和 Microsoft Graph]]></description>
-      <guid>https://www.opensourceagenda.com/projects/blazorbffazureb2ctemplate</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:42 GMT</pubDate>
+      <title>基础设施行动</title>
+      <link>https://www.opensourceagenda.com/projects/infracost-actions</link>
+      <description><![CDATA[Infracost 的 GitHub 操作。请参阅拉取请求中 Terraform 的云成本估算。 💰📉 喜欢你的云账单！ ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/infracost-actions</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:25 GMT</pubDate>
     </item>
     <item>
-      <title>Dp 300 数据库管理员</title>
-      <link>https://www.opensourceagenda.com/projects/dp-300-database-administrator</link>
-      <description><![CDATA[Microsoft DP-300 学习内容的实验室练习和说明存储库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dp-300-database-administrator</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:42 GMT</pubDate>
+      <title>OpenEducationAnalytics OpenEduAnalytics</title>
+      <link>https://www.opensourceagenda.com/projects/openeducationanalytics-openeduanalytics</link>
+      <description><![CDATA[此项目提供基于 Azure 构建的开源教育分析解决方案。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openeducationanalytics-openeduanalytics</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:25 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 主动弹性库</title>
-      <link>https://www.opensourceagenda.com/projects/azure-proactive-resiliency-library</link>
-      <description><![CDATA[此存储库包含许多 Azure 资源图查询，可帮助根据以下条件评估工作负载：架构完善的框架可靠性支柱。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/azure-proactive-resiliency-library</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:41 GMT</pubDate>
+      <title>图标集合</title>
+      <link>https://www.opensourceagenda.com/projects/icon-collection</link>
+      <description><![CDATA[Azure 和 Microsoft SVG 图标集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/icon-collection</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>Azure DevOps 应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/azure-devops-app</link>
-      <description><![CDATA[Azure DevOps 移动应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/azure-devops-app</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:41 GMT</pubDate>
+      <title>Microsoft Teams 应用请求团队</title>
+      <link>https://www.opensourceagenda.com/projects/microsoft-teams-apps-requestateam</link>
+      <description><![CDATA[基于 Power Platform 的解决方案，允许用户请求团队并自动创建团队。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/microsoft-teams-apps-requestateam</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>对话式 Azure OpenAI 加速器</title>
-      <link>https://www.opensourceagenda.com/projects/conversational-azure-openai-accelerator</link>
-      <description><![CDATA[对话式 Azure OpenAI (ChatGPT) 加速器，来自 Microsoft 合作伙伴 Zammo.ai，使用 OpenAI 通过自动化对话和摘要来改善客户体验。这利用了 Azure AI 服务，部署到语音和文本通道，并节省客户创建 UI、对话流和 API 集成的时间。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/conversational-azure-openai-accelerator</guid>
-      <pubDate>Mon, 08 Apr 2024 07:36:41 GMT</pubDate>
+      <title>Kafka 的 Azure 事件中心</title>
+      <link>https://www.opensourceagenda.com/projects/azure-event-hubs-for-kafka</link>
+      <description><![CDATA[适用于 Apache Kafka 生态系统的 Azure 事件中心]]></description>
+      <guid>https://www.opensourceagenda.com/projects/azure-event-hubs-for-kafka</guid>
+      <pubDate>Mon, 08 Apr 2024 09:14:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
