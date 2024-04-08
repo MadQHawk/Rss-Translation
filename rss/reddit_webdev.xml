@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 07:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 07:36:29 GMT</lastBuildDate>
     <item>
       <title>如何修复 Google 上的页面描述？</title>
       <link>https://www.reddit.com/r/webdev/comments/1byrmxn/how_do_i_fix_my_pages_description_on_google/</link>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 08 Apr 2024 04:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 zoho 中完成面试</title>
+      <title>如何在 zoho 中破解面试</title>
       <link>https://www.reddit.com/r/webdev/comments/1byoln0/how_to_crack_a_interview_in_zoho/</link>
       <description><![CDATA[我最近申请了 Zoho 中的 Web 开发人员角色。我知道要准备什么以及在哪里准备。我该做个人项目还是什么？如果是这样……什么项目？  会有多少轮面试以及几轮面试 我作为实习生在 webdev 拥有 6 个月的经验   由   提交/u/Born_Forever_2944   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1byoln0/how_to_crack_a_interview_in_zoho/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>开发人员技能的可转移性如何？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bykle9/how_transferable_are_developer_skills/</link>
-      <description><![CDATA[只是想知道如果有人花一些时间学习软件/网络开发（编程、数据库、算法、任何框架等）然后不得不改变职业会怎样。这些技能还可以用于哪些其他领域或以某种方式提供帮助？显然，解决问题的技能将在任何地方使用，但我更多地从技术角度谈论   由   提交/u/pega223  [链接] [评论]]]></description>
+      <description><![CDATA[只是想知道如果有人花一些时间学习软件/网络开发（编程、数据库、算法、任何框架等）然后不得不改变职业会怎么样。这些技能还可以用于哪些其他领域或以某种方式提供帮助？显然，解决问题的技能将在任何地方使用，但我更多地从技术角度谈论   由   提交/u/pega223  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bykle9/how_transferable_are_developer_skills/</guid>
       <pubDate>Mon, 08 Apr 2024 00:50:25 GMT</pubDate>
     </item>
@@ -97,9 +97,9 @@
       <pubDate>Sun, 07 Apr 2024 21:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>您如何为客户处理域名和 DNS？</title>
+      <title>你们如何为客户处理域名和 DNS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</link>
-      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新网站，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得访问权限来自己执行此操作。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun    由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
+      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新网站，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得访问权限来自己执行此操作。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun都可以。   由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</guid>
       <pubDate>Sun, 07 Apr 2024 20:18:39 GMT</pubDate>
     </item>

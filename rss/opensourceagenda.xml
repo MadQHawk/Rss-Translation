@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Mon, 08 Apr 2024 07:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 07:36:46 GMT</lastBuildDate>
     <item>
-      <title>Terraform Azure CLI</title>
-      <link>https://www.opensourceagenda.com/projects/terraform-azure-cli</link>
-      <description><![CDATA[最小且轻量级的 Docker 映像，包括 Azure 和 Terraform CLI]]></description>
-      <guid>https://www.opensourceagenda.com/projects/terraform-azure-cli</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:41 GMT</pubDate>
+      <title>Fortinet Azure 解决方案</title>
+      <link>https://www.opensourceagenda.com/projects/fortinet-azure-solutions</link>
+      <description><![CDATA[一组 Azure 模板，可帮助您在 Azure 中开始使用 Fortinet 解决方案。此存储库是测试版发布的地方，并可处理要在 github.com/fortinet 上发布的最新模板或自定义模板。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fortinet-azure-solutions</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:46 GMT</pubDate>
     </item>
     <item>
-      <title>脆脆协作</title>
-      <link>https://www.opensourceagenda.com/projects/crispycollab</link>
-      <description><![CDATA[使用 ASP.NET Core、Blazor 和 EF Core 构建的整体 SaaS 解决方案。 CrispyCollab 为团队提供短信协作工具 (SignalR)。可以通过 Stripe 购买订阅。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/crispycollab</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:40 GMT</pubDate>
+      <title>Azure 容器应用程序上的 DotNET 前端到后端</title>
+      <link>https://www.opensourceagenda.com/projects/dotnet-frontend-to-backend-on-azure-container-apps</link>
+      <description><![CDATA[此存储库演示了典型的前端使用 ASP.NET 和互补的后端 API 构建的 UI。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dotnet-frontend-to-backend-on-azure-container-apps</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:45 GMT</pubDate>
     </item>
     <item>
-      <title>Opencv金福</title>
-      <link>https://www.opensourceagenda.com/projects/opencv-kinfu</link>
-      <description><![CDATA[MS Azure Kinect kinfu 示例，其中包含为 Windows x64 编译的 dll（为我们省去所有麻烦）为 35MB 的应用程序处理 25GB 的依赖项）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/opencv-kinfu</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:40 GMT</pubDate>
+      <title>园丁阁楼 Gardenctl</title>
+      <link>https://www.opensourceagenda.com/projects/gardener-attic-gardenctl</link>
+      <description><![CDATA[Gardener 的命令行客户端。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gardener-attic-gardenctl</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:45 GMT</pubDate>
     </item>
     <item>
-      <title>弗朗西斯科·索达诺·伯迪</title>
-      <link>https://www.opensourceagenda.com/projects/francesco-sodano-birdy</link>
-      <description><![CDATA[Birdy 是一款设计精美的野生鸟类喂食器，可以拍照、识别鸟类并对其进行分类。 - 基于 Raspberry Pi、Azure IoT 和 Azure 认知服务。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/francesco-sodano-birdy</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:39 GMT</pubDate>
+      <title>Terraform Azurerm 区域</title>
+      <link>https://www.opensourceagenda.com/projects/terraform-azurerm-regions</link>
+      <description><![CDATA[用于处理 Azure 区域的 Terraform 模块]]></description>
+      <guid>https://www.opensourceagenda.com/projects/terraform-azurerm-regions</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:45 GMT</pubDate>
     </item>
     <item>
-      <title>Jmeter Dotnet Dsl</title>
-      <link>https://www.opensourceagenda.com/projects/jmeter-dotnet-dsl</link>
-      <description><![CDATA[简单的 JMeter 性能测试 .Net API]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jmeter-dotnet-dsl</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:39 GMT</pubDate>
+      <title>部署环境</title>
+      <link>https://www.opensourceagenda.com/projects/deployment-environments</link>
+      <description><![CDATA[用于开始使用 Azure 部署环境服务的示例基础结构即代码模板。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/deployment-environments</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>云秘密解析器</title>
-      <link>https://www.opensourceagenda.com/projects/cloud-secret-resolvers</link>
-      <description><![CDATA[云秘密解析器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cloud-secret-resolvers</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:38 GMT</pubDate>
+      <title>Azure 容器应用程序示例</title>
+      <link>https://www.opensourceagenda.com/projects/azure-container-apps-samples</link>
+      <description><![CDATA[Azure 容器应用示例集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/azure-container-apps-samples</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>微软身份验证 CLI</title>
-      <link>https://www.opensourceagenda.com/projects/microsoft-authentication-cli</link>
-      <description><![CDATA[用于 Azure 身份验证的命令行实用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/microsoft-authentication-cli</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:38 GMT</pubDate>
+      <title>硬化图像</title>
+      <link>https://www.opensourceagenda.com/projects/hardened-images</link>
+      <description><![CDATA[用于创建强化 Ubuntu 服务器映像的 Packer 模板。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hardened-images</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>Fastapi Azure 函数应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/fastapi-azure-function-apim</link>
-      <description><![CDATA[FastAPI 应用，设计用于使用 API 管理策略部署到 Azure Functions .]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fastapi-azure-function-apim</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:38 GMT</pubDate>
+      <title>数据补给</title>
+      <link>https://www.opensourceagenda.com/projects/datatonic</link>
+      <description><![CDATA[🌟DataTonic：一个具有数据能力的 AGI 风格代理构建器，它可以创建群体、运行命令和安全地处理和创建数据集、数据库、可视化和分析。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/datatonic</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>真棒中的真棒</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-of-awesomes</link>
-      <description><![CDATA[技术世界中最好的一切和最佳实践的集合 - aws、azure、googlecloud 、机器学习、网络、移动、后端、书籍/博客/可重用存储库、招聘/书籍、工程/devops/ops、架构、最佳实践、个人品牌、领导力、技术愿景、编码实践]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-of-awesomes</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:37 GMT</pubDate>
+      <title>啤酒花</title>
+      <link>https://www.opensourceagenda.com/projects/az-hop</link>
+      <description><![CDATA[Azure HPC 按需平台提供 HPC 集群就绪解决方案]]></description>
+      <guid>https://www.opensourceagenda.com/projects/az-hop</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>大数据医疗保险欺诈检测</title>
-      <link>https://www.opensourceagenda.com/projects/big-data-medicare-fraud-detection</link>
-      <description><![CDATA[连接 4 个不同的大数据集以获得用于最终数据分析的单个表。欺诈检测通过考虑不同的关键特征并应用不同的机器学习算法来查看哪一个表现更好。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/big-data-medicare-fraud-detection</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:37 GMT</pubDate>
+      <title>Terraform Azurerm 虚拟机</title>
+      <link>https://www.opensourceagenda.com/projects/terraform-azurerm-virtual-machine</link>
+      <description><![CDATA[Terraform 模块，用于部署具有可选功能的单个或多个 Linux 或 Windows 虚拟机.]]></description>
+      <guid>https://www.opensourceagenda.com/projects/terraform-azurerm-virtual-machine</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:42 GMT</pubDate>
     </item>
     <item>
-      <title>派克萨夫尼亚</title>
-      <link>https://www.opensourceagenda.com/projects/pexavc-nea</link>
-      <description><![CDATA[100% SwiftUI macOS GPT/LLM 客户端，具有提示工程支持。包含 Microsoft 的 Azure OpenAI 功能。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pexavc-nea</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:36 GMT</pubDate>
+      <title>Blazor.BFF.AzureB2C.模板</title>
+      <link>https://www.opensourceagenda.com/projects/blazorbffazureb2ctemplate</link>
+      <description><![CDATA[Blazor.BFF.AzureB2C.Template，使用 Azure B2C BFF（服务器）在 ASP.NET Core 中托管的 Blazor WASM身份验证）和 Microsoft Graph]]></description>
+      <guid>https://www.opensourceagenda.com/projects/blazorbffazureb2ctemplate</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:42 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 上的 Thethingsstack</title>
-      <link>https://www.opensourceagenda.com/projects/thethingsstack-on-azure</link>
-      <description><![CDATA[使用 Things 在 Azure 云上设置 LoRaWAN 网络服务器的说明和部署脚本堆栈。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/thethingsstack-on-azure</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:35 GMT</pubDate>
+      <title>Dp 300 数据库管理员</title>
+      <link>https://www.opensourceagenda.com/projects/dp-300-database-administrator</link>
+      <description><![CDATA[Microsoft DP-300 学习内容的实验室练习和说明存储库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dp-300-database-administrator</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:42 GMT</pubDate>
     </item>
     <item>
-      <title>阿兹特夫移动</title>
-      <link>https://www.opensourceagenda.com/projects/aztfmove</link>
-      <description><![CDATA[根据 Terraform 状态移动 Azure 资源的简单工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aztfmove</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:35 GMT</pubDate>
+      <title>Azure 主动弹性库</title>
+      <link>https://www.opensourceagenda.com/projects/azure-proactive-resiliency-library</link>
+      <description><![CDATA[此存储库包含许多 Azure 资源图查询，可帮助根据以下条件评估工作负载：架构完善的框架可靠性支柱。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/azure-proactive-resiliency-library</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 虚拟桌面</title>
-      <link>https://www.opensourceagenda.com/projects/azure-virtual-desktop</link>
-      <description><![CDATA[有关 Azure 虚拟桌面的一切！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/azure-virtual-desktop</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:34 GMT</pubDate>
+      <title>Azure DevOps 应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/azure-devops-app</link>
+      <description><![CDATA[Azure DevOps 移动应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/azure-devops-app</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>达普拉咖啡馆</title>
-      <link>https://www.opensourceagenda.com/projects/coffeeshop-on-dapr</link>
-      <description><![CDATA[coffeeshop 事件驱动应用程序是用 C# 开发的，并在 Dapr (AKS) 上运行&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coffeeshop-on-dapr</guid>
-      <pubDate>Mon, 08 Apr 2024 07:29:34 GMT</pubDate>
+      <title>对话式 Azure OpenAI 加速器</title>
+      <link>https://www.opensourceagenda.com/projects/conversational-azure-openai-accelerator</link>
+      <description><![CDATA[对话式 Azure OpenAI (ChatGPT) 加速器，来自 Microsoft 合作伙伴 Zammo.ai，使用 OpenAI 通过自动化对话和摘要来改善客户体验。这利用了 Azure AI 服务，部署到语音和文本通道，并节省客户创建 UI、对话流和 API 集成的时间。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/conversational-azure-openai-accelerator</guid>
+      <pubDate>Mon, 08 Apr 2024 07:36:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

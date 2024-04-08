@@ -38,7 +38,7 @@
  - source025 [https://feed.indiehackers.world/posts.rss?group=Automation](https://feed.indiehackers.world/posts.rss?group=Automation) -> [indiehackers-Automation](rss/indiehackers-Automation.xml)
  - source026 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
  - source027 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
- - source028 [http://feeds.bbci.co.uk/news/world](http://feeds.bbci.co.uk/news/world) -> [BBC-news](rss/BBC-news.xml)
+ - source028 [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) -> [BBC-news](rss/BBC-news.xml)
  - source029 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuters-news](rss/reuters-news.xml)
  - source030 [https://rsshub.app/reuters/world/asia-pacific](https://rsshub.app/reuters/world/asia-pacific) -> [reuters-news](rss/reuters-news.xml)
  - source031 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP-news](rss/AP-news.xml)
