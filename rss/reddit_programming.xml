@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 08 Apr 2024 15:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 18:17:51 GMT</lastBuildDate>
     <item>
-      <title>我的第一个网站</title>
-      <link>https://www.reddit.com/r/programming/comments/1bz06ss/my_first_website/</link>
-      <description><![CDATA[ 由   提交 /u/Ph0enixRuss3ll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bz06ss/my_first_website/</guid>
-      <pubDate>Mon, 08 Apr 2024 15:05:30 GMT</pubDate>
+      <title>关于测试的思考：彻底性和应用 TDD</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4vbr/thoughts_on_testing_thoroughness_and_applying_tdd/</link>
+      <description><![CDATA[ 由   提交/u/userundefine  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4vbr/thoughts_on_testing_thoroughness_and_applying_tdd/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>不要解决非问题（像 PM 一样思考会让你成为更好的开发人员）</title>
-      <link>https://www.reddit.com/r/programming/comments/1byzz63/dont_solve_nonproblems_thinking_like_a_pm_will/</link>
-      <description><![CDATA[ 由   提交/u/johnrudolphdrexler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byzz63/dont_solve_nonproblems_thinking_like_a_pm_will/</guid>
-      <pubDate>Mon, 08 Apr 2024 14:57:17 GMT</pubDate>
+      <title>eC编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4tcr/ec_programming_language/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4tcr/ec_programming_language/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:06:34 GMT</pubDate>
     </item>
     <item>
-      <title>我的学士问卷调查</title>
-      <link>https://www.reddit.com/r/programming/comments/1byzxh9/questionnaire_form_my_bachelors/</link>
-      <description><![CDATA[ 由   提交/u/Typical_Camera_8495   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byzxh9/questionnaire_form_my_bachelors/</guid>
-      <pubDate>Mon, 08 Apr 2024 14:55:23 GMT</pubDate>
+      <title>后量子 TLS 的设计选择</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4tbv/design_choices_for_postquantum_tls/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4tbv/design_choices_for_postquantum_tls/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:06:33 GMT</pubDate>
     </item>
     <item>
-      <title>全栈测试心态</title>
-      <link>https://www.reddit.com/r/programming/comments/1byzlty/the_fullstack_testing_mindset/</link>
-      <description><![CDATA[ 由   提交/u/ma_za_octo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byzlty/the_fullstack_testing_mindset/</guid>
-      <pubDate>Mon, 08 Apr 2024 14:42:00 GMT</pubDate>
+      <title>源控制系统的历史：SCCS 和 RCS</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4tau/a_history_of_source_control_systems_sccs_and_rcs/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4tau/a_history_of_source_control_systems_sccs_and_rcs/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:06:30 GMT</pubDate>
     </item>
     <item>
-      <title>开斋捐金额</title>
-      <link>https://www.reddit.com/r/programming/comments/1byzhcn/مقادير_زكاة_الفطر/</link>
-      <description><![CDATA[开斋节金额   由   提交/u/PassengerOrganic8473  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byzhcn/مقادير_زكاة_الفطر/</guid>
-      <pubDate>Mon, 08 Apr 2024 14:37:01 GMT</pubDate>
+      <title>Chapel 2.0：面向所有人的可扩展且高效的计算</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4t9s/chapel_20_scalable_and_productive_computing_for/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4t9s/chapel_20_scalable_and_productive_computing_for/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:06:28 GMT</pubDate>
     </item>
     <item>
-      <title>使用 useFreshRef 和 useFreshTick 自定义 Hook 提升 React/NextJs 性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1byyk0g/boosting_reactnextjs_performance_with_usefreshref/</link>
-      <description><![CDATA[ 由   提交 /u/Ok_Slip_5843   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byyk0g/boosting_reactnextjs_performance_with_usefreshref/</guid>
-      <pubDate>Mon, 08 Apr 2024 13:58:21 GMT</pubDate>
+      <title>反转神秘函数</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4t8j/reversing_a_mystery_function/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4t8j/reversing_a_mystery_function/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>主要数据中心电源故障（再次）：Cloudflare Code Orange 已测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1byyavg/major_data_center_power_failure_again_cloudflare/</link>
-      <description><![CDATA[ 由   提交/u/wrymaras  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byyavg/major_data_center_power_failure_again_cloudflare/</guid>
-      <pubDate>Mon, 08 Apr 2024 13:47:11 GMT</pubDate>
+      <title>弦乐的祝福</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4t6n/the_blessing_of_the_strings/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4t6n/the_blessing_of_the_strings/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:06:24 GMT</pubDate>
     </item>
     <item>
-      <title>如何忽视顾客</title>
-      <link>https://www.reddit.com/r/programming/comments/1byxyi8/how_to_ignore_customers/</link>
-      <description><![CDATA[ 由   提交/u/mixteenth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byxyi8/how_to_ignore_customers/</guid>
-      <pubDate>Mon, 08 Apr 2024 13:31:54 GMT</pubDate>
+      <title>CloudABI：云计算满足细粒度能力</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4rjp/cloudabi_cloud_computing_meets_finegrained/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4rjp/cloudabi_cloud_computing_meets_finegrained/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:04:35 GMT</pubDate>
     </item>
     <item>
-      <title>超越外键</title>
-      <link>https://www.reddit.com/r/programming/comments/1byxhxg/beyond_foreign_keys/</link>
-      <description><![CDATA[ 由   提交/u/aijan1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byxhxg/beyond_foreign_keys/</guid>
-      <pubDate>Mon, 08 Apr 2024 13:11:16 GMT</pubDate>
+      <title>compile-time-init-build：用于在编译时构建模块化固件的 C 库</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4rix/compiletimeinitbuild_c_library_for_composing/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4rix/compiletimeinitbuild_c_library_for_composing/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>编码挑战 - 日食研究气球</title>
-      <link>https://www.reddit.com/r/programming/comments/1bywvw5/coding_challenge_solar_eclipse_research_balloon/</link>
-      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bywvw5/coding_challenge_solar_eclipse_research_balloon/</guid>
-      <pubDate>Mon, 08 Apr 2024 12:42:03 GMT</pubDate>
+      <title>OR 类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4ri3/ortypes/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4ri3/ortypes/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:04:32 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Cloudflare Hyperdrive、Drizzle ORM 和 Postgres 部署全局 Nuxt SSR 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1byvwp0/deploy_a_global_nuxt_ssr_app_with_cloudflare/</link>
-      <description><![CDATA[ 由   提交/u/siegerts  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byvwp0/deploy_a_global_nuxt_ssr_app_with_cloudflare/</guid>
-      <pubDate>Mon, 08 Apr 2024 11:51:44 GMT</pubDate>
+      <title>使用 bpftrace 读取局部变量</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4qvh/reading_local_variables_with_bpftrace/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4qvh/reading_local_variables_with_bpftrace/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:03:47 GMT</pubDate>
     </item>
     <item>
-      <title>与 Ollama 和 Cody 进行本地聊天</title>
-      <link>https://www.reddit.com/r/programming/comments/1byu5tm/local_chat_with_ollama_and_cody/</link>
-      <description><![CDATA[ 由   提交 /u/creativefisher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byu5tm/local_chat_with_ollama_and_cody/</guid>
-      <pubDate>Mon, 08 Apr 2024 10:07:16 GMT</pubDate>
+      <title>防止Go/Golang中敏感数据泄露</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4quv/prevent_sensitive_data_from_leaking_in_gogolang/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4quv/prevent_sensitive_data_from_leaking_in_gogolang/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Node.js 和 JSON Web Token (JWT) 实现 Magic Link 身份验证</title>
-      <link>https://www.reddit.com/r/programming/comments/1bys7cu/how_to_implement_a_magic_link_authentication/</link>
-      <description><![CDATA[密码并不安全，我们会忘记它们，将它们写在纸上，然后在不同的网站上使用它们，如果有人发现，这可能会很危险。  在本期《实现》中，我想通过展示一个潜在的实现向您展示基于魔术链接的身份验证系统是如何工作的。在文章的最后，将会有一个用户界面，您可以在其中亲自验证其功能😊 让我知道您的想法！ 💭   由   提交/u/MarcoMoauro95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bys7cu/how_to_implement_a_magic_link_authentication/</guid>
-      <pubDate>Mon, 08 Apr 2024 07:54:24 GMT</pubDate>
+      <title>Linux 2.0 的 Dtrace</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4qto/dtrace_for_linux_20/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4qto/dtrace_for_linux_20/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>AiLO（多人跑酷）- Unity 中的最终环境设置</title>
-      <link>https://www.reddit.com/r/programming/comments/1byrpsh/ailo_multiplayer_parkour_final_environment_setup/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byrpsh/ailo_multiplayer_parkour_final_environment_setup/</guid>
-      <pubDate>Mon, 08 Apr 2024 07:19:43 GMT</pubDate>
+      <title>ClangQL：在 C/C 代码上运行类似 SQL 查询的工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4q1g/clangql_a_tool_to_run_sqllike_query_on_cc_code/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4q1g/clangql_a_tool_to_run_sqllike_query_on_cc_code/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建一组选项卡</title>
-      <link>https://www.reddit.com/r/programming/comments/1byrpgo/how_to_create_a_set_of_tabs_with_tailwind_css_and/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建一个选项卡组件[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1byrpgo/how_to_create_a_set_of_tabs_with_tailwind_css_and/</guid>
-      <pubDate>Mon, 08 Apr 2024 07:19:05 GMT</pubDate>
+      <title>让我们使用 Kerberos</title>
+      <link>https://www.reddit.com/r/programming/comments/1bz4pzv/lets_kerberos/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bz4pzv/lets_kerberos/</guid>
+      <pubDate>Mon, 08 Apr 2024 18:02:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
