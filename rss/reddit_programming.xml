@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 09 Apr 2024 12:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 15:13:12 GMT</lastBuildDate>
+    <item>
+      <title>玩康威的生命穿越时间游戏 - Rust、Bevy 和 Wasm</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzuj7p/play_conways_game_of_life_through_time_rust_bevy/</link>
+      <description><![CDATA[ 由   提交 /u/smarvin2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzuj7p/play_conways_game_of_life_through_time_rust_bevy/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎨 表单输入波形动画 | CSS 和 JavaScript🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzu53r/form_input_wave_animation_css_javascript/</link>
+      <description><![CDATA[ 由   提交/u/robson_muniz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzu53r/form_input_wave_animation_css_javascript/</guid>
+      <pubDate>Tue, 09 Apr 2024 14:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>QCon 伦敦：Meta 使用整体架构仅在五个月内交付线程</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzttg5/qcon_london_meta_used_monolithic_architecture_to/</link>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzttg5/qcon_london_meta_used_monolithic_architecture_to/</guid>
+      <pubDate>Tue, 09 Apr 2024 14:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Page Mosaic 简介：专为静态网站设计的开源 CMS。您可以将其与任何静态网站模板集成。</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzsh7r/introducing_page_mosaic_an_opensource_cms/</link>
+      <description><![CDATA[ 由   提交/u/aksuta  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzsh7r/introducing_page_mosaic_an_opensource_cms/</guid>
+      <pubDate>Tue, 09 Apr 2024 13:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>ResNet 深度神经网络解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzrzef/resnet_deep_neural_network_explained/</link>
+      <description><![CDATA[ 由   提交/u/research_pie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzrzef/resnet_deep_neural_network_explained/</guid>
+      <pubDate>Tue, 09 Apr 2024 13:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kuma，它是如何工作的，我们可以用它监控什么以及它为什么不同</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzrtix/kuma_how_it_works_what_we_can_monitor_with_it_and/</link>
+      <description><![CDATA[ 由   提交 /u/congolomera   [链接]&lt; /跨度&gt;   [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzrtix/kuma_how_it_works_what_we_can_monitor_with_it_and/</guid>
+      <pubDate>Tue, 09 Apr 2024 13:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一位技术联合创始人来开发 Ai 音乐应用程序以推翻 Spotify。人工智能音乐已经取得了长足的进步，现在你无法区分人工智能音乐和真正的音乐。我正在通过 Youtube 构建分发，并正在开发我的应用程序。如果有人有兴趣请告诉我。</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzrruj/i_need_a_technical_cofounder_to_work_on_a_ai/</link>
+      <description><![CDATA[ 由   提交/u/vnghejjs28-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzrruj/i_need_a_technical_cofounder_to_work_on_a_ai/</guid>
+      <pubDate>Tue, 09 Apr 2024 13:09:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个程序员都应该知道的延迟数字</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzrpig/latency_numbers_every_programmer_should_know/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzrpig/latency_numbers_every_programmer_should_know/</guid>
+      <pubDate>Tue, 09 Apr 2024 13:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>教程介绍了如何使用 C++ 创建简单的蓝牙低功耗应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzr7eu/a_tutorial_explains_how_to_create_simple/</link>
+      <description><![CDATA[ 由   提交/u/bleuio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzr7eu/a_tutorial_explains_how_to_create_simple/</guid>
+      <pubDate>Tue, 09 Apr 2024 12:42:16 GMT</pubDate>
+    </item>
     <item>
       <title>有效的 Haskell • Rebecca Skinner 和 Emily Pillmore [播客]</title>
       <link>https://www.reddit.com/r/programming/comments/1bzqn0m/effective_haskell_rebecca_skinner_emily_pillmore/</link>
@@ -18,13 +81,6 @@
       <description><![CDATA[ 由   提交 /u/LinseYose   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bzq0a3/musthave_ai_coding_tools_in_2024/</guid>
       <pubDate>Tue, 09 Apr 2024 11:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telekom 是一家值得纳入课程的好公司吗</title>
-      <link>https://www.reddit.com/r/programming/comments/1bzoycg/is_telekom_a_good_company_to_have_in_the/</link>
-      <description><![CDATA[因为它是一家大产品公司，所以可能是这样。 如果你在一个产品中看到它，你会怎么想？课程？   由   提交/u/JealousBlackberry556   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bzoycg/is_telekom_a_good_company_to_have_in_the/</guid>
-      <pubDate>Tue, 09 Apr 2024 10:41:14 GMT</pubDate>
     </item>
     <item>
       <title>成为区块链开发者</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/ElyeProj  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bzoe2t/checklist_before_adding_a_library_to_your_app/</guid>
       <pubDate>Tue, 09 Apr 2024 10:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>诠释学测试参考卡 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1bznq0f/hermeneutical_testing_reference_card_pdf/</link>
-      <description><![CDATA[ 由   提交/u/Ok_Improvement_7221   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bznq0f/hermeneutical_testing_reference_card_pdf/</guid>
-      <pubDate>Tue, 09 Apr 2024 09:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAD Studio 12.1 Athens 的新增功能 - 完整视频演示</title>
-      <link>https://www.reddit.com/r/programming/comments/1bzni3q/whats_new_in_rad_studio_121_athens_full_video/</link>
-      <description><![CDATA[ 由   提交/u/yimmasabi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bzni3q/whats_new_in_rad_studio_121_athens_full_video/</guid>
-      <pubDate>Tue, 09 Apr 2024 09:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Active Group 的功能技术教程日（仅 10 欧元）</title>
-      <link>https://www.reddit.com/r/programming/comments/1bznf9l/tutorialtag_mit_funktionalen_technologien_bei_der/</link>
-      <description><![CDATA[ 由   提交/u/lotbert  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bznf9l/tutorialtag_mit_funktionalen_technologien_bei_der/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国陆军正在推动敏捷技术的采用（2024 年）</title>
-      <link>https://www.reddit.com/r/programming/comments/1bznb8s/the_us_army_is_pushing_adoption_of_agile_2024/</link>
-      <description><![CDATA[ 由   提交/u/flyinmryan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bznb8s/the_us_army_is_pushing_adoption_of_agile_2024/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建暗模式切换</title>
-      <link>https://www.reddit.com/r/programming/comments/1bzn0qx/how_to_create_a_dark_mode_toggle_with_tailwind/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建主题切换[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bzn0qx/how_to_create_a_dark_mode_toggle_with_tailwind/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>贵公司是否还外包在印度维护的遗留/非核心代码，这对您来说效果如何？</title>
-      <link>https://www.reddit.com/r/programming/comments/1bzmxee/does_your_company_also_outsource_legacy_noncore/</link>
-      <description><![CDATA[ 由   提交 /u/Temporary-Doctor6768   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bzmxee/does_your_company_also_outsource_legacy_noncore/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何解决 Apache Kafka 中的磁盘读取副作用</title>
-      <link>https://www.reddit.com/r/programming/comments/1bzm9n6/how_we_addresses_the_disk_read_side_effects_in/</link>
-      <description><![CDATA[ 由   提交/u/wanshao  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bzm9n6/how_we_addresses_the_disk_read_side_effects_in/</guid>
-      <pubDate>Tue, 09 Apr 2024 07:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>统一函数调用语法</title>
-      <link>https://www.reddit.com/r/programming/comments/1bzlrn7/uniform_function_call_syntax/</link>
-      <description><![CDATA[ 由   提交/u/bouffy_hairdo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bzlrn7/uniform_function_call_syntax/</guid>
-      <pubDate>Tue, 09 Apr 2024 06:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
