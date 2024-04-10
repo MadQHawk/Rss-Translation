@@ -4,7 +4,49 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:16:59 GMT</lastBuildDate>
+    <item>
+      <title>在几个采访中按类别搜索</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0sc2e/searching_by_category_in_several_interviews/</link>
+      <description><![CDATA[嗨！ 我正在尝试构建一个系统，可以在其中标记几个不同人的采访片段根据时间码按类别。我希望能够搜索一个类别，并为其适用的每个弹出视频提供特定的时间码，以便我可以浏览它。 我有所有这些采访的转录以及每个类别的时间码因为他们已经长大了。我实际上只是在寻找可以执行此操作的软件或网站。 例如，我想搜索“family”并且让每次采访中家庭成为一个话题（而不仅仅是口头），并在其标记的确切时间码上弹出。 有人知道我可以在哪里做这样的事情吗？   div&gt;  由   提交 /u/wishrem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0sc2e/searching_by_category_in_several_interviews/</guid>
+      <pubDate>Wed, 10 Apr 2024 18:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>源监视器中的默认开始时间？</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0s2hd/default_start_time_in_source_monitor/</link>
+      <description><![CDATA[大家好！目前正在试听数百个片段，这些片段需要我完整地看完。每当我在源监视器中放入某些内容时，默认情况下，即使在我尚未浏览的剪辑上，播放头也位于中间附近。有什么办法可以“设置”每个试听剪辑的第一帧的默认播放头位置？ ​ -- Premiere Pro 2024 M1 MAX Mac，64GB RAM   由   提交/u/UnivitedSam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0s2hd/default_start_time_in_source_monitor/</guid>
+      <pubDate>Wed, 10 Apr 2024 18:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关在 Premiere 中使用 Izotope 的建议（我想我搞砸了，想修复它）</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0qw5b/seeking_advice_on_using_izotope_within_premiere_i/</link>
+      <description><![CDATA[多年来，我几乎在所有项目中都使用 Izotope RX9。为了简单起见，我选择在 Premiere 中完成所有音频工作。我有 200 多个独立的项目文件，我可以返回这些文件进行更改、借用东西等。由于我使用的许多音频都低于标准，Izotope（主要是语音降噪）一直是我的救星。 但我最近刚刚购买了一台新的编辑计算机，并且正在重新考虑这一切如何面向未来。显然我可以将许可证转移到新计算机上。但我希望能够同时工作。我是否只需要购买另一个许可证或接受每次切换时都必须记住取消授权并重新验证的事实？我想知道的另一个问题是升级到 RX10（或任何当前版本）。在较旧的项目上使用 RX9 会让人感到困惑吗？这些项目最终会崩溃吗？ 所有这些都是为了说明，我正在寻求一些关于其他人如何做事的意见。我考虑过回去对所有具有 Izotope 插件的主干进行混音，但我不喜欢这样做，因为它基本上会锁定编辑，而在这一点上，这些编辑仍然完全可延展。 系统规格：2.4 GHz 8 核 Intel Core i9 软件：Adobe Premiere Pro 2024（最新）   由   提交/u/chad_LiNK  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0qw5b/seeking_advice_on_using_izotope_within_premiere_i/</guid>
+      <pubDate>Wed, 10 Apr 2024 17:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有显示时间功能的视频批量水印程序</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0qnbm/looking_for_a_video_batch_watermarking_program/</link>
+      <description><![CDATA[大家好， 我目前正在开展一个项目，涉及对一批视频添加水印，我正在需要一个可以有效处理此任务的程序。具体来说，我正在寻找一种软件，该软件不仅允许批量添加水印，还包括在整个视频的特定时间内显示水印的功能。 我已经做了一些研究，但还没有&#39;还没有找到任何完全符合要求的东西。因此，我向这个社区寻求建议和建议。如果您知道任何符合这些标准的程序或工具，或者有执行类似任务的经验，我将非常感谢您的见解。 预先感谢您的帮助！    由   提交 /u/Few_Basil_4112   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0qnbm/looking_for_a_video_batch_watermarking_program/</guid>
+      <pubDate>Wed, 10 Apr 2024 17:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>拍摄采访音频：对话，还是 SOT？</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0q5xq/filmed_interview_audio_dialogue_or_sot/</link>
+      <description><![CDATA[大家好。为美国公共广播节目准备分轨音频，其中包括：  使用 lav 音频拍摄坐下采访 某些开场/幕后镜头的摄像机音频&lt; /li&gt; 戏剧作品的表演捕捉  交付规范指定了每个对话、SOT、SFX 和音乐的两个通道。 会采访算作对话，还是磁带上的声音？摄像机音频显然是SOT（对吗？），我认为剧院表演捕捉也是如此，尽管如果这是不正确的，请告诉我。 p&gt; 背景：我是一个小团队的一员，该团队已经从事电视工作几年了，来自全数字化的团队——很大程度上是自学成才的团队，所以我们一直依靠学习行业规范的内容一点一点地与我们参与的项目相关。不管出于什么原因，我们合作了一年多的主要广播公司只是让我们发送混音，所以我的混音基本上只是得到正确的响度和峰值，哈哈) — — 系统规格：M2 Max MBP // 软件规格：Adobe Audition // &gt; 素材规格：我将生成 .wav 文件供编辑器加载到 Premiere 中并生成 MXF。我在这里很懒，但我认为这些内容与我的问题没有密切关系，请告诉我这是否不正确   由   提交 /u/stuffsmithstuff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0q5xq/filmed_interview_audio_dialogue_or_sot/</guid>
+      <pubDate>Wed, 10 Apr 2024 16:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>NAS 值得吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0pprz/is_a_nas_even_worth_it/</link>
+      <description><![CDATA[具体而言，在一个小型办公室中，主要在 Davinci Resolve 上编辑 4k MOV 和 MP4 素材强&gt;。  当我告诉人们我正在构建 NAS 时，我得到了各种各样的回应。大约一半的人说它会顺利工作，另一半人说这是一个糟糕的主意，永远不会成功，因为 NAS 不是为视频编辑而构建的。 首先，我们只需要一台计算机来实际工作驱动器，所有其他计算机只需要访问它。办公室目前配备了2.5GbE LAN，但编辑计算机配备了10 GbE。 随着我们的扩展，目标是维护和构建此 NAS 和 LAN，以便办公室中的多人可以快速轻松地在驱动器上进行编辑。目标是避免上传/下载到基于云的存储所需的时间，并让每个人都能即时访问他们需要的文件。此外，云存储价格昂贵。  但重申一下，目前（下个月或两个月）它将基本上是一个美化的 DAS。实际上只需要一台计算机对其进行编辑，与少数其他人访问项目媒体和最终渲染。  替代解决方案显然就是等待。为办公室购买一套便携式 SSD，以便在人员之间移动文件，并为主要编辑计算机配备一个不错的编辑驱动器。  这种替代解决方案不仅不面向未来，而且意味着任何时候有人想要一个文件，我们要么必须通过以下方式上传和下载它：基于云的解决方案，或者我们必须将其放在驱动器上并遍历它。 将可能需要 10 分钟的事情变成一个小时的事件。  但也许我只是误解了这种驱动器的速度。如果在构建像这样的 NAS 时出现问题，导致整个过程变慢，那么它就失去了意义。 TLDR：对于小型办公室来说 NAS 值得编辑吗？ ，目标是在未来扩展我们的能力？   由   提交/u/MaxKCoolio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0pprz/is_a_nas_even_worth_it/</guid>
+      <pubDate>Wed, 10 Apr 2024 16:26:25 GMT</pubDate>
+    </item>
     <item>
       <title>帮助！ Premiere Project 无法链接不同计算机上的一半素材。</title>
       <link>https://www.reddit.com/r/editors/comments/1c0nhgt/help_premiere_project_unable_to_link_half_of/</link>
@@ -18,6 +60,13 @@
       <description><![CDATA[我目前的作品集非常小，约有 300 个剪辑，其中大部分都不到 10 秒。 但是，我&#39;我使用全部 50 个可用关键字，其中大多数是单字关键字。在 3 个月内，这 300 个剪辑仅产生了 2 项页面浏览量。 大多数视频在视频持续时间内具有相同的构图，因此屏幕截图选项几乎相同。 &lt; p&gt;显然，最终的目标是最终实现销售，但现在我会满足于知道我的作品是可见的，并且 3 个月内的 2 次浏览告诉我，我可能做错了关键词。   由   提交 /u/DanicaHamlin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c0n05o/any_tips_for_keywording_on_pond5/</guid>
       <pubDate>Wed, 10 Apr 2024 14:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有关视频编辑器的新声音设计工具的一些反馈</title>
+      <link>https://www.reddit.com/r/editors/comments/1c0mx9y/looking_for_some_feedback_on_a_new_sound_design/</link>
+      <description><![CDATA[// 通过模组清除 //  大家好， 我是本杰明，与两位工程师朋友，我们开发了一种新的声音设计工具，旨在简化视频编辑的流程。我们热衷于通过为视频编辑者提供实践方法，将自己定位为增强创造力的工具，而不是替代品。因此，我们的工具为您的视频提供基于上下文的音效和氛围建议，并具有即时音频生成功能。  我们仍处于积极的开发阶段，并意识到存在一些缺陷（最多 3 分钟的视频限制、音频质量等），因此我们将非常感谢您的反馈。为了感谢您试用并通过应用程序提供反馈，一旦该级别部署到前 100 名贡献者，我们将在今年剩余时间内提供免费的专业会员资格。只需在应用反馈中使用代码“r/editors”即可。 感谢您的输入。我希望您会喜欢它！ P.S.：如果您认为需要良好的烘焙，请随时烘焙我们🍗 访问应用程序：https://app.adorno.ai/ 访问演示：https: //youtu.be/_xgZeJlL3RY 网站：https://adorno.ai/   由   提交 /u/Ben_Soundesign   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c0mx9y/looking_for_some_feedback_on_a_new_sound_design/</guid>
+      <pubDate>Wed, 10 Apr 2024 14:27:47 GMT</pubDate>
     </item>
     <item>
       <title>RGU 过渡在达芬奇中没有完全播放？</title>
@@ -34,20 +83,6 @@
       <pubDate>Wed, 10 Apr 2024 14:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>我应该收取多少费用来编辑一篇后期预算为 80,000 美元的专题（作为编辑）？通常给予编辑的预算是否有一个标准百分比？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c0m0af/how_much_should_i_charge_to_edit_a_feature_with/</link>
-      <description><![CDATA[我主要从事广告工作，但也从事一些叙事工作，希望有机会编辑此功能 - 我今天与他们会面，想要了解一下他们能负担得起并且合理的价格。    由   提交 /u/Kaitsrunninglate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c0m0af/how_much_should_i_charge_to_edit_a_feature_with/</guid>
-      <pubDate>Wed, 10 Apr 2024 13:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何停止反射视频</title>
-      <link>https://www.reddit.com/r/editors/comments/1c0kmqg/how_to_stop_reflecting_video/</link>
-      <description><![CDATA[当我渲染视频时，它会用我拥有的视频和文本的反射填充黑色边框   由   提交/u/Extension_Actuary_49   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c0kmqg/how_to_stop_reflecting_video/</guid>
-      <pubDate>Wed, 10 Apr 2024 12:41:38 GMT</pubDate>
-    </item>
-    <item>
       <title>关于屏幕：OLED vs WQXGA</title>
       <link>https://www.reddit.com/r/editors/comments/1c0ic3e/regarding_screen_oled_vs_wqxga/</link>
       <description><![CDATA[大家好，有人可以告诉我这些屏幕之间的优缺点吗？ PS：我不会玩游戏或编辑，但其余所有功能几乎相同，除了电池，第二种情况为 84 瓦时，第一种情况为 76 瓦时。 40.64cms (16) 2K (2048 x 1280) ，OLED，眩光，HDR 500，100%DCI-P3，400 尼特 vs 40.64cms (16) WQXGA (2560 x 1600)，IPS，防眩光，100 %sRGB，350 尼特，窄边框   由   提交/u/001ja   [链接] [评论]]]></description>
@@ -57,7 +92,7 @@
     <item>
       <title>噩梦般的客户和项目 - 请帮忙</title>
       <link>https://www.reddit.com/r/editors/comments/1c0g3fe/nightmare_client_and_project_please_help/</link>
-      <description><![CDATA[以 6,000 美元的价格接受了一份编辑在线课程的客户工作，在经历了严重的经济困难后，考虑到之前的一些类似的情况，我预计它会快速而直接我所做的工作，但由于缺乏客户的指导和管理不善，它变成了一场噩梦。最初预计周转时间为 5-6 周，并要求每周费率非常低，但同意了 6k 的固定预算。 - 如果当时花了我 2 个月的时间，其实也没关系，我只需要做一些工作来支付账单。 工作涉及编辑 45 集混合镜头 - 在工作室中使用 2 个摄像机拍摄，并在 iPhone 上拍摄外景镜头，加上素材库 - （我知道，噩梦） ​ 客户缺乏剧本或指导，仅编辑一集就花了两周时间，这么多音频编辑，以及花费数小时的时间来拉取资产以使其变得体面。该项目拖延了 7 个月，原因是客户除了开始时提供的少量镜头外，还没有提供任何镜头。尽管投入了 8 周的工作，客户却说我基本上什么也没做，甚至几乎没有开始，完全忽略了我告诉他们我已经投入了多少小时的事实 - 而且，驱动器上的文件都有时间戳。  ​ 我被告知，如果我找到比他们更好的机会，他们现在准备接受全额退款或我立即工作和奉献与日期和最后期限。我已经转移到其他项目，不能再给他们时间了，但说如果他们愿意，我可以给他们粗略的削减，但这将是我的时间，并且不能给他们日期，因为我很忙。 我无法退款，我为此付出了很多努力。另外，我对这笔收入纳税，那我该怎么办？ 他们恐吓我，告诉我，如果我需要 4 小时或 200 小时才能完成，对他们来说没关系，我同意他们的付款，现在我必须给他们一个开始该项目的日期 - 我已经在 7 个多月前开始了该项目，我花了几周的时间全职致力于该项目。 我给了他们解决方案，其中包括提供工作迄今为止已完成或根据我自己的时间表和方便继续进行粗剪。我面临着巨大的压力并正在应对 C-PTSD。我只是需要帮助和指导。几个月前我们在电话中更改了原来的协议，但现在他们用原来的文本来对付我，并忽略了新协议，因为它是通过电话进行的。 事实似乎与这样的人不符。  这是我接过的最后一个客户作品。我一直都在做保留人，这次是一个例外。请大家帮忙看看如何处理这个问题。我的健康状况不佳，我再也无法忍受了。   由   提交 /u/tsfbbbrsssghyfc   [链接] [评论]]]></description>
+      <description><![CDATA[以 6,000 美元的价格接受了一份编辑在线课程的客户工作，在经历了严重的经济困难后，考虑到之前的一些类似的情况，我希望它能够快速而直接我所做的工作，但由于缺乏客户的指导和管理不善，它变成了一场噩梦。最初预计周转时间为 5-6 周，并要求每周费率非常低，但同意了 6k 的固定预算。 - 如果当时花了我 2 个月的时间，其实也没关系，我只需要做一些工作来支付账单。 工作涉及编辑 45 集混合镜头 - 在工作室中使用 2 个摄像机拍摄，并在 iPhone 上拍摄外景镜头，加上素材库 - （我知道，噩梦） ​ 客户缺乏剧本或指导，仅编辑一集就花了两周时间，这么多音频编辑，以及花费数小时的时间来拉取资产以使其变得体面。该项目拖延了 7 个月，原因是客户除了开始时提供的很少的一些镜头外，还没有提供任何镜头。尽管投入了 8 周的工作，客户却说我基本上什么也没做，甚至几乎没有开始，完全忽略了我告诉他们我已经投入了多少小时的事实 - 而且，驱动器上的文件都有时间戳。  ​ 我被告知，如果我找到比他们更好的机会，他们现在准备接受全额退款或我立即工作和奉献与日期和最后期限。我已经转移到其他项目，不能再给他们时间了，但说如果他们愿意，我可以给他们粗略的削减，但这将是我的时间，并且不能给他们日期，因为我很忙。 我无法退款，我为此付出了很多努力。另外，我对这笔收入纳税，那我该怎么办？ 他们恐吓我，告诉我，如果我需要 4 小时或 200 小时才能完成，对他们来说没关系，我同意他们的付款，现在我必须给他们一个开始该项目的日期 - 我已经在 7 个多月前开始了该项目，我花了几周的时间全职致力于该项目。 我给了他们解决方案，其中包括提供工作迄今为止已完成或根据我自己的时间表和方便继续进行粗剪。我面临着巨大的压力并正在应对 C-PTSD。我只是需要帮助和指导。几个月前我们在电话中更改了原来的协议，但现在他们用原来的文本来对付我，并忽略了新协议，因为它是通过电话进行的。 事实似乎与这样的人不符。  这是我接过的最后一个客户作品。我一直都在做保留人，这次是一个例外。请大家帮忙看看如何处理这个问题。我的健康状况不佳，我再也无法忍受了。   由   提交 /u/tsfbbbrsssghyfc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c0g3fe/nightmare_client_and_project_please_help/</guid>
       <pubDate>Wed, 10 Apr 2024 07:49:34 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[https://youtu.be/4SCjXcBeW1E?si =c15q44QNfwtZjI8_ 当然，白痴也可以使用它 - 但谷歌幻灯片/文档看起来就像地狱 - 未来不会是“谁能做出最多的事情”。但谁的东西看起来……嗯，很专业。  但是，是的，我希望这里的评论会很粗糙。   由   提交 /u/greenysmac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c0b80u/google_vids_guess_nab_is_next_week/</guid>
       <pubDate>Wed, 10 Apr 2024 02:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们会模仿镜头里人物的面部表情吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c0ajje/do_you_guys_replicate_the_facial_expressions_from/</link>
-      <description><![CDATA[有时我觉得自己像个精神病患者，因为当我编辑微笑的人或做一些有趣的事情时，如果我编辑戏剧性或可怕的东西，我总是微笑我还在脸上表现出惊讶😯或害怕😟的表情哈哈 我认为这是我感受我正在编辑的内容的一部分。    由   提交 /u/rasculin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c0ajje/do_you_guys_replicate_the_facial_expressions_from/</guid>
-      <pubDate>Wed, 10 Apr 2024 02:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的工具箱里有什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c09rn7/whats_in_your_toolbox/</link>
-      <description><![CDATA[我遇到过一些有助于编辑的工具，并且想知道其他人使用什么。我是一家单人店。我为几位房地产经纪人拍摄和编辑内容，希望提高我的效率。通常是头部谈话视频，偶尔是多摄像头视频播客，还有一些在摄像机上的房产参观列表。 Autopod 和 Submachine for PP 是两个为我节省了大量时间的工具。您最喜欢的插件、应用程序或秘密武器有哪些可以帮助您提高工作效率？有什么可以自动完成基础操作并生成平庸的视频吗？   由   提交/u/jstockton76  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c09rn7/whats_in_your_toolbox/</guid>
-      <pubDate>Wed, 10 Apr 2024 01:48:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有 600 个 B Roll 片段需要分析。有人工智能吗？进行视觉搜索以节省我大量时间的工具？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c0999a/i_have_600_clips_of_b_roll_to_analyze_is_there_an/</link>
-      <description><![CDATA[我听说过 muse.ai，我希望寻找更便宜的东西。  我知道达芬奇也进行面部分组。  有什么相似的吗？希望能够将元数据添加到每个剪辑中正在发生或讨论的内容中。   由   提交 /u/orodltro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c0999a/i_have_600_clips_of_b_roll_to_analyze_is_there_an/</guid>
-      <pubDate>Wed, 10 Apr 2024 01:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>后期工作流程提示</title>
-      <link>https://www.reddit.com/r/editors/comments/1c08hre/post_workflow_tips/</link>
-      <description><![CDATA[嘿，👋  几个月前，我开始在一家大型非营利组织全职工作，担任 -房子去寻找所有与视频相关的东西。基本上是一个摄像师的角色，但我在流程方面有很大的自由度，而且他们真的很愿意实施更好的解决方案。 这是一种很棒的文化，但旧系统有点集群，我&#39;我做了很多工作来让事情变得更好、更精简、更高效。一个例子是，我得到了 IT 部门的帮助，在实时项目上实现了用于冗余存储的 NAS、使用 Parsec 进行编辑的远程服务器，并且我的经理正在与我合作，以更好地管理内部客户的期望。  我很想听听这里的人们的一些经验，特别是关于后期工作流程的经验，这些经验可以让您的生活变得更美好。  对于某些事情有什么很棒的应用程序吗？关于我可以研究的文章或资源有什么建议吗？还有什么我想不到的吗？  谢谢！    由   提交 /u/michaelmccarronlee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c08hre/post_workflow_tips/</guid>
-      <pubDate>Wed, 10 Apr 2024 00:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：在 Adob​​e Premiere 中消除主题的光泽</title>
-      <link>https://www.reddit.com/r/editors/comments/1c04ruz/help_needed_removing_shine_from_subject_in_adobe/</link>
-      <description><![CDATA[大家好， 我在 Adob​​e Premiere 中遇到问题。在我们的播客视频中，拍摄对象（始终保持静止）的额头和脸颊显得闪亮。我尝试了几种方法来去除光泽，但我正在努力寻找一种不会影响视频质量和颜色的解决方案。 有人有任何去除光泽的提示或技术吗？在不牺牲视频质量的情况下从 Adob​​e Premiere 中的主题中获得光芒？如果您能提供任何建议或指导，我将不胜感激！ 提前致谢！   由   提交/u/zasafras12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c04ruz/help_needed_removing_shine_from_subject_in_adobe/</guid>
-      <pubDate>Tue, 09 Apr 2024 22:07:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

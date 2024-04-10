@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:17:04 GMT</lastBuildDate>
+    <item>
+      <title>有什么类似于murgee自动打字机的东西吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1c0rsl3/anything_similar_to_murgee_auto_typer/</link>
+      <description><![CDATA[过去一段时间我一直在使用 murgee 自动打字机，但现在它要求我付款，而我真的没有钱，所以我想知道是否有类似的东西可以使用？ 我可以输入文本并在设定的时间段内慢慢输入的东西   由   提交 /u/DaEarth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c0rsl3/anything_similar_to_murgee_auto_typer/</guid>
+      <pubDate>Wed, 10 Apr 2024 17:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 音频无法正常工作并且出现多个更新错误</title>
+      <link>https://www.reddit.com/r/software/comments/1c0r2bq/windows_audio_not_working_and_multiple_update/</link>
+      <description><![CDATA[我醒来时电脑的音频中断了。检测到音频输入，但没有声音发出。音频疑难解答人员表示音频服务没有响应。  我还意识到我有许多 Windows 更新无法安装。其中大多数是驱动程序，其中一些与音频相关，错误代码为 0x800703f1。其中一项更新与 Windows 更多相关。这个实际上安装了，但说“无法安装撤消更改”当我点击重新启动时。 （这是更新 KB5036892）。更新疑难解答人员表示他们进行了更改，但没有执行任何操作。  DISM 和任何其他腐败测试都没有给出结果。我只想恢复我的音频，以便我可以使用我的电脑。有人知道解决方案吗？   由   提交 /u/boboliger   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c0r2bq/windows_audio_not_working_and_multiple_update/</guid>
+      <pubDate>Wed, 10 Apr 2024 17:21:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何 Windows 应用程序可以在字段中输入内容以避免超时？</title>
+      <link>https://www.reddit.com/r/software/comments/1c0p9id/any_windows_app_which_inputs_into_fields_to_avoid/</link>
+      <description><![CDATA[大家好。 我们都熟悉在线公式自动超时的祸害。仅仅 5 分钟不活动，然后就糟糕了！一切都消失了。 我知道有 MoveMouse，但在这种特殊情况下，这还不够，因为如果没有在字段中输入任何内容，就会发生超时。 所以我正在寻找一个自动的应用程序将在字段中输入给定的字母，例如每 4 分钟输入一个字母（或者通常可配置），以防止超时。鼠标光标将已经在该字段中...闪烁并等待。 我正在努力解决的这个在线公式真的很长而且很长。复杂，但信息不是超级敏感，因此没有太大的隐私问题。 有什么建议吗？   由   提交 /u/slowlyun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c0p9id/any_windows_app_which_inputs_into_fields_to_avoid/</guid>
+      <pubDate>Wed, 10 Apr 2024 16:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbird 无法查看特定来源的附件</title>
+      <link>https://www.reddit.com/r/software/comments/1c0oldy/thunderbird_cant_see_attachments_from_a_specific/</link>
+      <description><![CDATA[这很奇怪，当我打开电子邮件时，我只能看到 1 个附件 winmail.dat，我尝试在几个文本编辑器中打开它，将其重命名转换为 pdf 并在 pdf 查看器中打开，但它不起作用。 在 Chrome、mail.google.com 中，我可以看到 2 个附件，noname，没有扩展名，其内容与 winmail.dat 文件相同Thunderbird，第二个附件是正确的 pdf 文件，我可以打开它。 为什么 pdf 附件在 Thunderbird 中不可见，这是一个错误吗？ .dat 文件的内容开始对于奇怪的字符，我只能读取“IPM.Microsoft Mail.Note 1”。 在 Thunderbird 中看起来像这样： https://i.postimg.cc/8P2QZ74T/Thunderbird-PDFissue-1.png 在 Chrome 中：https://i.postimg.cc/pLKN4Pcz/Thunderbird-PDFissue-2.png 我收到来自同一来源的几封电子邮件，也带有另一个附件 - jpg 文件，但它在 Thunderbird 中也不可见，可以在 Chrome 中打开并下载它，所以问题在于来自该特定来源的任何文件作为附件，我有使用Chrome查看附件。 我尝试将电子邮件从Chrome转发到另一封电子邮件，效果很好，因此Thunderbird可以看到pdf格式的附件，问题可能是另一台特定程序的问题 Thunderbird 115.9.0（32 位）、Windows 10 22H2 64 位、Defender。   由   提交 /u/DreamerEight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c0oldy/thunderbird_cant_see_attachments_from_a_specific/</guid>
+      <pubDate>Wed, 10 Apr 2024 15:39:19 GMT</pubDate>
+    </item>
     <item>
       <title>寻找剪贴板管理器来替代 Dotto</title>
       <link>https://www.reddit.com/r/software/comments/1c0nqfp/looking_for_a_clipboard_manager_to_replace_dotto/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[你好。我正在寻找一家冷外展机构，使用人工智能和我稍后开发的其他系统来帮助企业有效地联系潜在客户，并提供其他福利来帮助他们获得客户。有关如何建立这样的系统的任何提示，或者任何软件公司所有者想要分享的有关外展的痛点，以帮助我使其变得有用。任何提示都会很棒。   由   提交/u/Comfortable_Ad_3493   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c034of/software_outreach_advice/</guid>
       <pubDate>Tue, 09 Apr 2024 21:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好！这里非编码员。我可以使用人工智能制作一个机器人，每次产品在某个网站上发售时都会更新我的信息吗？谢谢🙏🏻</title>
-      <link>https://www.reddit.com/r/software/comments/1c010iv/hi_noncoder_here_can_i_use_ai_to_make_a_bot_which/</link>
-      <description><![CDATA[ 由   提交 /u/jackbauerj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c010iv/hi_noncoder_here_can_i_use_ai_to_make_a_bot_which/</guid>
-      <pubDate>Tue, 09 Apr 2024 19:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>合并 100 个音频文件的简单方法</title>
-      <link>https://www.reddit.com/r/software/comments/1bzzobp/an_easy_way_to_merge_a_100_audio_files/</link>
-      <description><![CDATA[我正在尝试存档一个播客的 300 集，每集长度约为一个小时或更长时间，在 YouTube 上归档为三个 100 集长篇汇编。我通常依赖的所有软件（vegas、audacity）都无法理解交给它的任务。 将 100 个很长的音频文件组合成一个音频的最简单方法是什么轨道，然后分配一个 1080x1080x 图片作为其视频轨道，并尽可能少地进行渲染？ 我的直觉告诉我，机器理解它不应该那么困难，我希望有几件事是伴随着图像连续播放，但实际上如何实现这一点？ 提前谢谢，我爱你。  &amp;# 32；由   提交/u/funded_by_soros  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bzzobp/an_easy_way_to_merge_a_100_audio_files/</guid>
-      <pubDate>Tue, 09 Apr 2024 18:40:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种简单的方法可以合并 100 个累积长度为几天的音频文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1bzznpj/an_easy_way_to_merge_100_audio_files_with_a/</link>
-      <description><![CDATA[我正在尝试存档一个播客的 300 集，每集长度约为一个小时或更长时间，在 YouTube 上归档为三个 100 集长篇汇编。我通常依赖的所有软件（vegas、audacity）都无法理解交给它的任务。 将 100 个很长的音频文件组合成一个音频的最简单方法是什么轨道，然后分配一个 1080x1080x 图片作为其视频轨道，并尽可能少地进行渲染？ 我的直觉告诉我，机器理解它不应该那么困难，我希望有几件事是伴随着图像连续播放，但实际上如何实现这一点？ 提前谢谢，我爱你。  &amp;# 32；由   提交/u/funded_by_soros  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bzznpj/an_easy_way_to_merge_100_audio_files_with_a/</guid>
-      <pubDate>Tue, 09 Apr 2024 18:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好。我创建了一个网站，可以将 YouTube 讲座进行转换，并将它们混合起来，根据讲座的节奏创建 Lofi 节拍，因此节拍听起来很明亮。这是 kanye 和 elon 的例子，后面有 lofi 节拍。喜欢一些反馈:)</title>
-      <link>https://www.reddit.com/r/software/comments/1bzx541/hey_guys_i_made_a_site_that_turns_youtube/</link>
-      <description><![CDATA[ 由   提交 /u/Hewlbern   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bzx541/hey_guys_i_made_a_site_that_turns_youtube/</guid>
-      <pubDate>Tue, 09 Apr 2024 16:57:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

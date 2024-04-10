@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:17:34 GMT</lastBuildDate>
+    <item>
+      <title>ESLint 插件，用于从 tsconfig 替换别名的相关路径</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c0qzxb/eslint_plugin_for_replace_related_paths_to/</link>
+      <description><![CDATA[   /u/vitonsky   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c0qzxb/eslint_plugin_for_replace_related_paths_to/</guid>
+      <pubDate>Wed, 10 Apr 2024 17:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>隐私先驱 Proton 与开源笔记标准笔记联手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c0q3j6/privacy_pioneer_proton_joins_forces_with/</link>
+      <description><![CDATA[   /u/IrinaOzzy  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c0q3j6/privacy_pioneer_proton_joins_forces_with/</guid>
+      <pubDate>Wed, 10 Apr 2024 16:41:50 GMT</pubDate>
+    </item>
     <item>
       <title>宣布推出 Medusa 2.0 - 一个具有内置定制框架的开源商务平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1c0nofw/announcing_medusa_20_an_opensource_commerce/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/louis11  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c00xf1/large_increase_in_npm_spam_driven_by/</guid>
       <pubDate>Tue, 09 Apr 2024 19:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>prs - 通过命令行在 Github PR 上保持更新的 TUI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bzzjz5/prs_a_tui_to_stay_updated_on_github_prs_from_the/</link>
-      <description><![CDATA[       由   提交/u/hingle0mcringleberry  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bzzjz5/prs_a_tui_to_stay_updated_on_github_prs_from_the/</guid>
-      <pubDate>Tue, 09 Apr 2024 18:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很高兴向大家介绍 Gestalt 一个 Java 配置项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bzz1sf/i_am_excited_to_introduce_gestalt_a_java/</link>
-      <description><![CDATA[🚀 我很高兴介绍格式塔 https:// github.com/gestalt-config/gestalt，一个新的开源 Kotlin/Java 配置库！ Gestalt 通过支持来自不同来源的多种配置类型，简化了软件项目的配置管理。无论您使用的是 Java bean、列表、集合还是原始数据类型，Gestalt 基于数据类型的自动解码都可以使该过程无缝进行。借助 Gestalt，您可以轻松合并来自不同来源的配置、导航配置中的特定小节，并享受灵活性和可配置性。 Gestalt 的设计考虑到了简单性、可靠性和可扩展性，对于任何 Java 开发人员的工具箱来说都是一个有价值的补充。立即探索格式塔并简化您的配置管理工作流程！ 我已经在这个项目上工作了几年，并在生产中的几个项目中使用它。尽管有很多很棒的配置工具，但我创建这个工具既是为了一项有趣的挑战，也是为了满足我的项目需求。随着时间的推移，我添加了很多功能来充实该项目。该项目的目标是提供模块化厨房水槽方法。其中核心项目有 0 个依赖项，但可以通过包含 15 个模块之一轻松扩展，这些模块可以在  找到https://central.sonatype.com/namespace/com.github.gestalt-config。 我即将发布 1.0 版本，因此我希望在最终承诺之前获得反馈1.0。谢谢！   由   提交/u/cred1652  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bzz1sf/i_am_excited_to_introduce_gestalt_a_java/</guid>
-      <pubDate>Tue, 09 Apr 2024 18:15:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
