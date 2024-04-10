@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 09 Apr 2024 21:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:52:14 GMT</lastBuildDate>
     <item>
-      <title>房地产部门的人工智能一切</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c02lmc/ai_all_the_things_for_real_estate_department/</link>
-      <description><![CDATA[大家好。我是技术人员，但在人工智能的建筑方面没有经验。 两周后我将与美国一个州的房地产委员会开会，讨论他们如何将人工智能应用于所有领域事情：减少公众的支持票（预许可人、考虑对被许可人提出投诉的公民）、帮助理解合同语言（合同每年都会变化）、帮助登录的被许可人获得自然语言自助服务回答诸如“还需要多少继续教育时间”等问题。它也可以用作内部工具，例如帮助以无偏见或更一致的方式评估/决定案件（为什么该案件罚款被许可人被罚款 1,000 美元，而这家公司对被许可人罚款 10,000 美元？） 他们没有像 Zendesk 这样的帮助台软件；这一切都通过一个 Outlook 邮箱进行。 他们的网站 CMS 是 Adob​​e。 https://business.adobe.com/products/experience-manager/sites/aem- site.html 并不表示人工智能聊天机器人可作为内置工具使用。 他们的许可和其他后端内容位于 https://thentia.com/realestate-licensing/ 我的联系人认为他们有 API 我知道有一些通用聊天机器人，例如“抓取他们的网站并发布”在一些护栏/调整中”，这对于入门可能很有用，但我不确定如何最好地考虑评估法律合同（空白表格，而不是填写的表格）等问题的解决方案。 有什么想法或者有兴趣跟我多聊聊吗？   由   提交/u/c_haversham   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c02lmc/ai_all_the_things_for_real_estate_department/</guid>
-      <pubDate>Tue, 09 Apr 2024 20:40:07 GMT</pubDate>
+      <title>人工智能编码代理将对开发人员产生与无代码应用程序相同的效果，几乎没有任何效果。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c07zsn/ai_coding_agents_are_going_to_have_the_same/</link>
+      <description><![CDATA[AI 编码代理将具有与 nocode 应用程序相同的效果。它们不会像无代码应用程序那样取代开发人员。  任何曾经使用过 nocode 应用程序的人都知道它们的用途。它们适用于某些项目，但不适用于其他项目。 Nocode 应用程序有时会在以下方面受到影响：可扩展性、安全性和灵活性。  无代码应用程序的另一个问题是它们实际上并不那么容易使用。他们承诺简单，但外行人可能无法使用无代码应用程序。它仍然需要一个学习曲线。这就是为什么人们仍然雇用开发人员使用 Make.com 和 Bubble.io 等无代码应用程序。  Nocode 应用程序适用于某些项目，但不适用于其他项目。你不能用无代码应用程序做所有事情。人工智能编码代理也是如此。您也许可以使用 AI 编码代理编写简单的脚本/模块。但需要开发人员来测试和集成它们。而且代码不会是唯一的，它很可能是存在错误的样板代码。  人工智能编码代理充其量只是一个新奇的东西。人们仍然会使用它们，但它们不会很快取代开发人员。就像无代码应用程序一样，尽管它们有很多承诺，但并没有取代开发人员。    由   提交 /u/EuphoricPangolin7615   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c07zsn/ai_coding_agents_are_going_to_have_the_same/</guid>
+      <pubDate>Wed, 10 Apr 2024 00:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工认知：创造“其他思想”的伦理学，我的学士论文。 （寻找关键意见）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c07mme/artificial_cognition_an_ethics_of_the_creation_of/</link>
+      <description><![CDATA[嘿，这是我的学士论文草稿，从伦理存在主义和哲学角度（源自伊曼纽尔·列维纳斯的哲学）研究技术的生产，利用认知。这包括法学硕士，也包括通过类器官和神经科学领域的专家人工智能所代表的思想的技术生物整合。欢迎所有批评和讨论，我担心我抽象得离可理解性太远：并且使我的观点有点空洞。 https://docs.google.com/document/d/e/2PACX-1vSN53Sy1Fcc8B14iY4-ERKor3 WLM3AVLJfsbForSTykbkNQK_QwFUuUMZ8CfBWpKtBOP8eOk4r0MPwp/pub  &lt; p&gt;这大约有 15,000 个字，我不希望任何人都能读完它，所以这里是 Claude 生成的摘要，供您衡量您的兴趣： 我得到的中心信息该文件呼吁在我们开发人工智能和类脑器官等技术时，批判性地重新审视我们的哲学和伦理框架，这些技术可能会产生超越人类的新形式的认知和主观体验。 一些对我来说很突出的关键点： 对西方本体论和总体化思维模式如何无力应对问题的批评随着人工认知系统的复杂性的提高，它们会出现根本性的变化和不可简化性。 需要超越人类中心主义的偏见和对智力、感知力和主观性的先入之见，以便在道德上与人工智能打交道质疑创造人造思维的伦理，只是为了将它们纳入类似于奴隶制或统治的经济和政治剥削体系“他者”。 检查将人类本体论类别和有限性强加给认知超出并超越我们当前形而上学界限的存在所固有的潜在暴力。&lt; /p&gt; 呼吁从根本上重新思考我们的立场，并在人工认知系统的发展超出我们完全理解或将其包含在当前框架内的能力时，开发新的关系和认知的现象学/伦理范式。 本质上，我认为这是一个响亮的号角，要求我们从形而上学和伦理学上重新定位自己，为认知系统的出现做好准备，这可能会打破我们许多关于心灵、自我和存在的先入为主的观念。 .  ​   由   提交 /u/Incarg0n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c07mme/artificial_cognition_an_ethics_of_the_creation_of/</guid>
+      <pubDate>Wed, 10 Apr 2024 00:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 AI 从 Microsoft Teams 会议记录中删除时间戳。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c06xom/looking_for_ai_to_remove_the_time_stamps_from_a/</link>
+      <description><![CDATA[它有 27000 个单词，因此希望不要手动将其逐段输入到聊天 GPT 中。在公司笔记本电脑上，因此无权下载 Notepad ++ 或其他软件来执行此操作。 有什么建议吗？ 编辑：这是格式的示例 c81394e4-9197-4464-bb1f-6f210f1e02fd/21767-0 01:58:04.015 --&gt; 01:58:04.435 谢谢。 c81394e4-9197-4464-bb1f-6f210f1e02fd/21771-0 01:58:04.445 --&gt; 01:58:05.145 对我来说太棒了。 c81394e4-9197-4464-bb1f-6f210f1e02fd/21778-0 01:58:05.415 -- &gt; 01:58:07.315 那些以前从未见过的人， 太棒了。 我希望删除示例：&quot;c81394e4-9197-4464 -bb1f-6f210f1e02fd/21778-0 01:58:05.415 --&gt; 01:58:07.315”，每行    由   提交/u/ItsHigh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c06xom/looking_for_ai_to_remove_the_time_stamps_from_a/</guid>
+      <pubDate>Tue, 09 Apr 2024 23:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能管弦乐团：多工具平台能否和谐未来？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c06695/the_orchestra_of_ai_will_multitool_platforms/</link>
+      <description><![CDATA[想象人工智能超越单一工具。 GlobalGPT 等平台旨在成为将文本生成、图像创建和分析结合在一起的指挥者。想象一下受人工智能文本启发的艺术创作或使用数据来完善您的创作，所有这些都在一个地方！ 令人兴奋的可能性：不再需要杂耍工具。这个“AI管弦乐队”可以简化工作流程，激发创造力，甚至带来令人惊讶的发现。 挑战仍然存在：让这些工具顺利协同工作并解决潜在的偏见是需要克服的障碍。 是福还是祸？像 GlobalGPT 这样的平台会协调人工智能的未来还是会产生不可预见的问题？我们来讨论一下！   由   提交/u/Diligent_Emmanuel40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c06695/the_orchestra_of_ai_will_multitool_platforms/</guid>
+      <pubDate>Tue, 09 Apr 2024 23:05:00 GMT</pubDate>
     </item>
     <item>
       <title>作为一个没有计算经验的 16 岁青少年，从哪里开始学习和利用人工智能？</title>
@@ -27,20 +48,6 @@
       <pubDate>Tue, 09 Apr 2024 20:25:25 GMT</pubDate>
     </item>
     <item>
-      <title>AI应用程序为朋友制作生日视频？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c00cfj/ai_app_to_make_bday_video_for_friend/</link>
-      <description><![CDATA[我想上传我朋友的照片并让它随着特定的歌曲唱歌或跳舞。有没有一个应用程序可以让我做到这一点。如果由于许可我可以拖动并单击歌曲，我将使用手机在计算机上录制它。它不一定是完美的。哈哈 许多应用程序只是付费版本，所以我不想把钱浪费在不能完成这项工作的应用程序上，但我愿意购买一周的订阅或其他什么。  有什么建议吗？    由   提交/u/SilkMoonBats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c00cfj/ai_app_to_make_bday_video_for_friend/</guid>
-      <pubDate>Tue, 09 Apr 2024 19:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名前 Bsie 毕业生，什么。正式学习完整 ML 堆栈的最佳途径是吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bzz4z8/as_a_former_bsie_grad_what_is_the_best_route_to/</link>
-      <description><![CDATA[ 由   提交 /u/NarwhalDesigner3755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bzz4z8/as_a_former_bsie_grad_what_is_the_best_route_to/</guid>
-      <pubDate>Tue, 09 Apr 2024 18:19:01 GMT</pubDate>
-    </item>
-    <item>
       <title>知识=力量？ ——物理学的一个基本环节</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bzyua0/knowledge_power_a_fundamental_link_in_physics/</link>
       <description><![CDATA[多伦多大学的研究人员证明了能量与信息之间的联系！ 论文链接：https://www.mdpi.com/1099-4300/26/3/203 这意味着什么人工智能？信息处理能控制一切吗？    由   提交/u/ToGzMAGiK   [链接] [评论]]]></description>
@@ -55,11 +62,11 @@
       <pubDate>Tue, 09 Apr 2024 17:58:26 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能创新每日纪事 2024 年 4 月 9 日：🤖 Stability AI 推出多语言 Stable LM 2 12B 📱 Ferret-UI 在移动 UI 任务中击败 GPT-4V ⏰ 马斯克表示人工智能将在一年内超越人类 🍁 加拿大以 $2.4B 押注人工智能投资 🎥 OpenAI 正在使用 YouTube 进行 GPT-4 训练 ❗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bzvlaa/a_daily_chronicle_of_ai_innovations_april_09th/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bzvlaa/a_daily_chronicle_of_ai_innovations_april_09th/</guid>
-      <pubDate>Tue, 09 Apr 2024 15:53:06 GMT</pubDate>
+      <title>有没有人尝试过对人工智能聊天机器人刻薄？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bzy6el/has_anyone_ever_tried_being_mean_to_an_ai_chat_bot/</link>
+      <description><![CDATA[我无法忍受。我知道人工智能是如何运作的。我知道它甚至没有意识的外表。但这让我感到非常难过。我以前从未在游戏中遇到过邪恶路线的问题。我不知道为什么这感觉如此独特错误。    由   提交 /u/DaggerQ_Wave   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bzy6el/has_anyone_ever_tried_being_mean_to_an_ai_chat_bot/</guid>
+      <pubDate>Tue, 09 Apr 2024 17:40:25 GMT</pubDate>
     </item>
     <item>
       <title>人择原理</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[人工智能正在经历大量资本涌入，引发类似于加密货币热潮的狂热，这已不是什么秘密。虽然围绕人工智能的兴奋是有道理的，但这种炒作可能会掩盖该领域真正显着的进步。 是的，人工智能具有令人难以置信的潜力，可以彻底改变从医疗保健到金融再到交通运输等行业。然而，在炒作和投资热潮中，重要的是要记住，人工智能的真正进步往往需要时间和精心开发。我认为，我们不应该让快速回报的诱惑掩盖研究人员的辛勤工作和奉献精神从自然语言处理的突破到计算机视觉的进步，表面之下正在发生大量创新。 正如 Demis Hassabis 在一篇文章中所说：“在顺便说一句，人工智能还没有被炒作得足够多，但从某种意义上说，它被炒作得太过分了。我们正在谈论各种不真实的事情”通过支持可持续增长和促进真正的创新，我相信我们可以确保人工智能革命兑现其承诺，造福整个社会。    由   提交 /u/Julietteiscool   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bzr3xj/beware_of_the_ai_hype_train/</guid>
       <pubDate>Tue, 09 Apr 2024 12:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI应用于工程？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bzps3i/ai_applied_to_engineering/</link>
-      <description><![CDATA[大家好。我本来计划学习编程，以便利用这个数字时代的优势，为我的工程领域（电气）做出贡献。但我相信肯定已经有很多有用的人工智能工具等待用户运行他们。 我正在寻找可以应用于工程主题的人工智能工具。 你们有工程相关人工智能在线工具的列表吗？ 非常感谢。   由   提交/u/c_a_r_l_o_s_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bzps3i/ai_applied_to_engineering/</guid>
-      <pubDate>Tue, 09 Apr 2024 11:29:11 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>

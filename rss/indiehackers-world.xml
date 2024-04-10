@@ -4,7 +4,15 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 09 Apr 2024 21:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:53:43 GMT</lastBuildDate>
+    <item>
+      <title>生活仪表盘</title>
+      <link>https://feed.indiehackers.world/post/32ff6acfea</link>
+      <description><![CDATA[TLDR：模块化仪表板，可让您实施/跟踪对您来说重要的事情。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/32ff6acfea</guid>
+      <pubDate>Tue, 09 Apr 2024 21:19:36 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年推出产品搜寻？</title>
       <link>https://feed.indiehackers.world/post/dfe72f0fb3</link>
@@ -163,21 +171,6 @@ StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/13b8cc4257</guid>
       <pubDate>Wed, 20 Mar 2024 18:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧑‍🚀 我将在下周三发布 - 一页股票报告 📈</title>
-      <link>https://feed.indiehackers.world/post/f84f7fdaa3</link>
-      <description><![CDATA[大家好🖖
-下周三我将在 Product Hunt 上启动我的第二个项目 🙂
-描述：
-&lt;块引用&gt;
-StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股票研究。我们的报告概述了关键细节，有助于做出明智的投资决策。 
-
-即将推出页面 👉 https://www.producthunt.com/products/stockone -page-one-pager-for-stocks 
-请按“通知我”如果您对该项目感兴趣🙏
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f84f7fdaa3</guid>
-      <pubDate>Wed, 20 Mar 2024 18:15:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
