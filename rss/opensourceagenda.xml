@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 11 Apr 2024 15:14:01 GMT</lastBuildDate>
-    <item>
-      <title>最佳人工智能代理</title>
-      <link>https://www.opensourceagenda.com/projects/best-ai-agents</link>
-      <description><![CDATA[顶级 AI 代理列表]]></description>
-      <guid>https://www.opensourceagenda.com/projects/best-ai-agents</guid>
-      <pubDate>Thu, 11 Apr 2024 15:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typecho 熊画廊</title>
-      <link>https://www.opensourceagenda.com/projects/typecho-beargallery</link>
-      <description><![CDATA[一款简洁优雅的Typecho摄影类相册主题]]></description>
-      <guid>https://www.opensourceagenda.com/projects/typecho-beargallery</guid>
-      <pubDate>Thu, 11 Apr 2024 15:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>托利修斯·杰玛</title>
-      <link>https://www.opensourceagenda.com/projects/tolitius-jemma</link>
-      <description><![CDATA[jemma 和她构建软件的人工智能代理]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tolitius-jemma</guid>
-      <pubDate>Thu, 11 Apr 2024 15:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天GLM 数学</title>
-      <link>https://www.opensourceagenda.com/projects/chatglm-math</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/chatglm-math</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Burakorkmez Whatsapp 克隆</title>
-      <link>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</link>
-      <description><![CDATA[由 AI 驱动的 WhatsApp]]></description>
-      <guid>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:59 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Apr 2024 18:16:28 GMT</lastBuildDate>
     <item>
       <title>边缘薄型</title>
       <link>https://www.opensourceagenda.com/projects/edge-slm</link>
       <description><![CDATA[此项目是在 Android 设备上测试的小语言模型 RAG 管道的本机实现。主要目标是将整个 RAG 管道安装到资源受限的设备中 - 即。手机。根据设计，提供的 RAG 库应该可以部署在各种平台上。]]></description>
       <guid>https://www.opensourceagenda.com/projects/edge-slm</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:59 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
     </item>
     <item>
       <title>Git Python 重写</title>
       <link>https://www.opensourceagenda.com/projects/git-python-rewrite</link>
       <description><![CDATA[Git，但用 python 重写]]></description>
       <guid>https://www.opensourceagenda.com/projects/git-python-rewrite</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:59 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>训斥</title>
-      <link>https://www.opensourceagenda.com/projects/ubrtne</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ubrtne</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:58 GMT</pubDate>
+      <title>最佳人工智能代理</title>
+      <link>https://www.opensourceagenda.com/projects/best-ai-agents</link>
+      <description><![CDATA[顶级 AI 代理列表]]></description>
+      <guid>https://www.opensourceagenda.com/projects/best-ai-agents</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typecho 熊画廊</title>
+      <link>https://www.opensourceagenda.com/projects/typecho-beargallery</link>
+      <description><![CDATA[一款简洁优雅的Typecho摄影类相册主题]]></description>
+      <guid>https://www.opensourceagenda.com/projects/typecho-beargallery</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
     </item>
     <item>
       <title>搜索流</title>
       <link>https://www.opensourceagenda.com/projects/stream-of-search</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/stream-of-search</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:58 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
       <title>如何不异步 Rs</title>
       <link>https://www.opensourceagenda.com/projects/how-not-to-async-rs</link>
       <description><![CDATA[出于教育目的，在 Rust 中开发类似异步运行时的东西。]]></description>
       <guid>https://www.opensourceagenda.com/projects/how-not-to-async-rs</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:58 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>矿石矿工</title>
-      <link>https://www.opensourceagenda.com/projects/ore-miner</link>
-      <description><![CDATA[通过 CLI 进行 solana 矿币挖矿]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ore-miner</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:57 GMT</pubDate>
+      <title>聊天GLM 数学</title>
+      <link>https://www.opensourceagenda.com/projects/chatglm-math</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/chatglm-math</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>喵英雄 BOT</title>
-      <link>https://www.opensourceagenda.com/projects/nyanheroes-bot</link>
-      <description><![CDATA[Nyan Heroes 机器人可完成任务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nyanheroes-bot</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:57 GMT</pubDate>
+      <title>Burakorkmez Whatsapp 克隆</title>
+      <link>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</link>
+      <description><![CDATA[由 AI 驱动的 WhatsApp]]></description>
+      <guid>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
     </item>
     <item>
       <title>Drantunes Flutter 路线图</title>
       <link>https://www.opensourceagenda.com/projects/drantunes-flutter-roadmap</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/drantunes-flutter-roadmap</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:57 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:25 GMT</pubDate>
     </item>
     <item>
       <title>桑伯热</title>
       <link>https://www.opensourceagenda.com/projects/samber-hot</link>
       <description><![CDATA[🌶️ Go 内存缓存库]]></description>
       <guid>https://www.opensourceagenda.com/projects/samber-hot</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:57 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>训斥</title>
+      <link>https://www.opensourceagenda.com/projects/ubrtne</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ubrtne</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>完整的产品组合网站</title>
+      <link>https://www.opensourceagenda.com/projects/complete-portfolio-website</link>
+      <description><![CDATA[完整的作品集网站 &lt; HTML &gt; { CSS } ( JavaScript )]]></description>
+      <guid>https://www.opensourceagenda.com/projects/complete-portfolio-website</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
       <title>超滚动条</title>
       <link>https://www.opensourceagenda.com/projects/hyprscroller</link>
       <description><![CDATA[Hyprland 布局插件提供像 PaperWM 一样的滚动布局]]></description>
       <guid>https://www.opensourceagenda.com/projects/hyprscroller</guid>
-      <pubDate>Thu, 11 Apr 2024 15:13:56 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>矿石矿工</title>
+      <link>https://www.opensourceagenda.com/projects/ore-miner</link>
+      <description><![CDATA[通过 CLI 进行 solana 矿币挖矿]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ore-miner</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>喵英雄 BOT</title>
+      <link>https://www.opensourceagenda.com/projects/nyanheroes-bot</link>
+      <description><![CDATA[Nyan Heroes 机器人可完成任务]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nyanheroes-bot</guid>
+      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

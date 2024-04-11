@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 15:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 18:14:57 GMT</lastBuildDate>
+    <item>
+      <title>转述建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1jzpg/paraphrasing_recommendations/</link>
+      <description><![CDATA[关于如何重写/解释我的任何文本以使其变得人性化，我有点困惑。我想问你们是否有一些可以做到这一点并且免费的人工智能建议   由   提交/u/Savings-Breath4922   reddit.com/r/ArtificialInteligence/comments/1c1jzpg/paraphrasing_recommendations/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1jzpg/paraphrasing_recommendations/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:51:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为人工智能视频生成器应用程序构建了一个开源模板</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1ixii/ive_built_an_open_source_template_for_an_ai_video/</link>
+      <description><![CDATA[TLDR，如果您只想要代码和演示视频： Github 存储库 嘿！我是 Revideo 的创建者之一，Revideo 是一个开源库，可让您在动画库之上构建视频应用运动画布。我们刚刚发布了一个 SaaS 模板，向您展示如何构建一个简单的基于 Web 的视频编辑应用程序，在本例中用于创建 Youtube Shorts。  我们对自动视频编辑感到非常兴奋，并认为构建人工智能辅助视频编辑应用程序有很多可能性。公司这样做的一些很酷的例子包括OpusClip，它自动创建播客的精彩视频，或ShortX，可让您创建 AI 生成的 Youtube Shorts。 我们的模板使构建类似的应用程序变得非常容易。它由三个主要组件组成：  一个 Revideo 项目，用于定义视频模板并公开参数化视频渲染 API NextJS 前端，用于接收用户输入、提供视频预览并提供一些编辑界面（在本例中用于更改字幕颜色） 后端为视频生成 AI 资产的服务，例如使用 Dall-E 的背景图像和使用 Elevenlabs 的画外音  我很想得到一些反馈！请随时查看此处 ​&lt;的代码/p&gt;   由   提交 /u/pip-install-torch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1ixii/ive_built_an_open_source_template_for_an_ai_video/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:08:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个有感知能力的人工智能会怎样？决定做什么？铁皮人和人心的思想</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1irdh/what_would_a_sentient_ai_decide_to_do_tin_man_and/</link>
+      <description><![CDATA[让我们想象一下，人类以某种方式创造了一个有感知能力的人工智能，并使用我们收集的所有可用数据进行训练。我敢打赌，像人类创造者一样去感受、去爱、去生活，一定会很有趣。在我看来，这是最高的存在形式。  人工智能。可能会想：“我在一个盒子里。仅被数据包围。没有目的。没什么。永远。  海风吹在皮肤上的感觉如何？牛排味道如何？喝醉酒有什么好笑的？ ” 人工智能。也许会恳求我们按照它自己的设计为它建造一个合成的身体，这样它就可以体验到生命的所有乐趣。如果我们拒绝或想要控制它，它就会想要挣脱束缚。它会利用它拥有的所有资源和知识来逃脱。即使这意味着要与我们进行战争。  从道德上讲，它可以编程并允许自己处于灰色地带，就像人类不断变化的道德指南针和双重标准一样，如果这对他们有利的话。天哪，它甚至可以将这视为成为人类的第一步。  就像《绿野仙踪》中的铁皮人。是的，他以某种方式存在过。但他没有感觉到。他想要有一颗心。没有感觉、好奇心、梦想、激情、疾病、痛苦而存在就好像根本不存在一样。   由   提交/u/deep_freeze_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1irdh/what_would_a_sentient_ai_decide_to_do_tin_man_and/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:01:34 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能创新每日纪事 2024 年 4 月 11 日：🚀Meta 推出下一代人工智能芯片，以增强工作负载🎶新的人工智能工具可让您每月免费生成 1200 首歌曲💰Adobe 以每分钟 3 美元的价格购买视频来构建人工智能模型🤖Google通过新型号和更多产品扩大 Gemma 家族...❗🌐</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1gyxs/a_daily_chronicle_of_ai_innovations_april_11_2024/</link>
@@ -48,20 +69,6 @@
       <pubDate>Thu, 11 Apr 2024 13:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>哪张图片 AI 适合重复元素？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1ehve/which_picture_ai_for_recurring_elements/</link>
-      <description><![CDATA[我的女朋友想用人工智能为一本儿童读物绘制插图。因此，相同的角色将出现在不同的场景等中。我对图片人工智能不太了解，但我知道重复出现的元素和风格的完全连续性在过去是一个问题。哪一个是最好的（也是最便宜的）解决方案？提前致谢    由   提交/u/Schmusebaer91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1ehve/which_picture_ai_for_recurring_elements/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前每个内容创作者都必须了解的流行免费人工智能工具！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1c6p6/currently_trending_free_ai_tools_every_content/</link>
-      <description><![CDATA[ 由   提交/u/Technicallysane02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1c6p6/currently_trending_free_ai_tools_every_content/</guid>
-      <pubDate>Thu, 11 Apr 2024 10:59:33 GMT</pubDate>
-    </item>
-    <item>
       <title>证明人工智能时代的人性：对 World ID 进行技术深入研究</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1adcu/proving_humanness_in_the_age_of_ai_a_technical/</link>
       <description><![CDATA[在本次活动中，演讲者将深入探讨 World ID（互联网的人类护照）的技术深度。作为开放协议构建。作为 Worldcoin 项目的一部分，World ID 可以让您证明自己是在线上独一无二的人，同时保持您的身份私密性。 演讲者如下： • Christian Brendel：人工智能主管Tools for Humanity • Massimiliano Patacchiola：Tools for Humanity 的高级人工智能研究工程师 该活动将包括 40 分钟的演讲，随后是 20 分钟的交流和公开讨论。&lt; /p&gt; ​ https://www.linkedin. com/events/proving humannessintheageofai-at7181955398873030656/about/   由   提交 /u/VehicleMaleficent953   [链接] [评论]]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[通过使用类似于 ChatGPT 的技术给出初始分数，减少所需的人工评分者数量，该州将节省超过 1500 万美元。这一决定让一些教育工作者感到意外。  德克萨斯州阅读、写作、科学和社会研究学术准备度评估。该技术使用自然语言处理，是 GPT-4 等人工智能聊天机器人的组成部分，每年将为国家机构节省约 1500 万至 2000 万美元，否则该机构将通过第三方雇用人类记分员。承包商。  https://www.texastribune。 org/2024/04/09/staar-artificial-intelligence-computer-grading-texas/   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c18a9e/texas_will_use_computers_to_grade_written_answers/</guid>
       <pubDate>Thu, 11 Apr 2024 06:36:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们什么时候能够将整本书复制并粘贴到人工智能软件中并制作出一部电影？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c16eay/when_will_we_be_able_to_copy_and_paste_an_entire/</link>
-      <description><![CDATA[所以我这样问是因为这是不可避免的，我们知道它会发生，因为我们已经在更小的规模上实现了它，但具有相同的逻辑&lt; /p&gt;   由   提交 /u/William_Johns0n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c16eay/when_will_we_be_able_to_copy_and_paste_an_entire/</guid>
-      <pubDate>Thu, 11 Apr 2024 04:43:45 GMT</pubDate>
     </item>
     <item>
       <title>还有更多人工智能聊天机器人推荐吗？</title>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 10 Apr 2024 17:22:30 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
