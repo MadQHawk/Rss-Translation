@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 11 Apr 2024 18:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 21:13:12 GMT</lastBuildDate>
     <item>
-      <title>边缘薄型</title>
-      <link>https://www.opensourceagenda.com/projects/edge-slm</link>
-      <description><![CDATA[此项目是在 Android 设备上测试的小语言模型 RAG 管道的本机实现。主要目标是将整个 RAG 管道安装到资源受限的设备中 - 即。手机。根据设计，提供的 RAG 库应该可以部署在各种平台上。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/edge-slm</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
+      <title>Kubernetes 数据平台</title>
+      <link>https://www.opensourceagenda.com/projects/kubernetes-data-platform</link>
+      <description><![CDATA[KDP（Kubernetes 数据平台）提供基于在 Kubernetes 上。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kubernetes-data-platform</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>Git Python 重写</title>
-      <link>https://www.opensourceagenda.com/projects/git-python-rewrite</link>
-      <description><![CDATA[Git，但用 python 重写]]></description>
-      <guid>https://www.opensourceagenda.com/projects/git-python-rewrite</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
+      <title>脸书自动报告</title>
+      <link>https://www.opensourceagenda.com/projects/facebook-auto-report</link>
+      <description><![CDATA[电报：👉 https://t.me/FaceBookReportbott]]></description>
+      <guid>https://www.opensourceagenda.com/projects/facebook-auto-report</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>最佳人工智能代理</title>
-      <link>https://www.opensourceagenda.com/projects/best-ai-agents</link>
-      <description><![CDATA[顶级 AI 代理列表]]></description>
-      <guid>https://www.opensourceagenda.com/projects/best-ai-agents</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
+      <title>Opea 项目 GenAI 示例</title>
+      <link>https://www.opensourceagenda.com/projects/opea-project-genaiexamples</link>
+      <description><![CDATA[Generative AI Examples 是 GenAI 示例的集合，例如 ChatQnA、Copilot​，其中大量重复使用基于生态系统的组件以及英特尔优化​。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opea-project-genaiexamples</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>Typecho 熊画廊</title>
-      <link>https://www.opensourceagenda.com/projects/typecho-beargallery</link>
-      <description><![CDATA[一款简洁优雅的Typecho摄影类相册主题]]></description>
-      <guid>https://www.opensourceagenda.com/projects/typecho-beargallery</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:27 GMT</pubDate>
+      <title>Dspy 红队</title>
+      <link>https://www.opensourceagenda.com/projects/dspy-redteam</link>
+      <description><![CDATA[使用 DSPy 的红队语言模型]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dspy-redteam</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>搜索流</title>
-      <link>https://www.opensourceagenda.com/projects/stream-of-search</link>
+      <title>区块链安全库</title>
+      <link>https://www.opensourceagenda.com/projects/blockchain-security-library</link>
+      <description><![CDATA[区块链中各个类别的区块链安全资源库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/blockchain-security-library</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wovkop 如何创建蜜罐令牌</title>
+      <link>https://www.opensourceagenda.com/projects/wovkop-how-to-create-honeypot-token</link>
+      <description><![CDATA[在以太坊上创建自己的蜜罐令牌的说明和技巧，理学学士、基础学士等。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wovkop-how-to-create-honeypot-token</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>格罗克2API</title>
+      <link>https://www.opensourceagenda.com/projects/groq2api</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/stream-of-search</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/groq2api</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>如何不异步 Rs</title>
-      <link>https://www.opensourceagenda.com/projects/how-not-to-async-rs</link>
-      <description><![CDATA[出于教育目的，在 Rust 中开发类似异步运行时的东西。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/how-not-to-async-rs</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
+      <title>Telegram 迷你应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/telegram-mini-app</link>
+      <description><![CDATA[Telegram Mini 应用演示（Wallet Connect、Solana Connect 和 TON Connect）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/telegram-mini-app</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>聊天GLM 数学</title>
-      <link>https://www.opensourceagenda.com/projects/chatglm-math</link>
+      <title>BurpSuite 破解版 2024</title>
+      <link>https://www.opensourceagenda.com/projects/burpsuite-crack-2024</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/chatglm-math</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/burpsuite-crack-2024</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>Burakorkmez Whatsapp 克隆</title>
-      <link>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</link>
-      <description><![CDATA[由 AI 驱动的 WhatsApp]]></description>
-      <guid>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drantunes Flutter 路线图</title>
-      <link>https://www.opensourceagenda.com/projects/drantunes-flutter-roadmap</link>
+      <title>Acunetix V24.3 破解</title>
+      <link>https://www.opensourceagenda.com/projects/acunetix-v243-crack</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/drantunes-flutter-roadmap</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:25 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/acunetix-v243-crack</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>桑伯热</title>
-      <link>https://www.opensourceagenda.com/projects/samber-hot</link>
-      <description><![CDATA[🌶️ Go 内存缓存库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/samber-hot</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:25 GMT</pubDate>
+      <title>隐马尔可夫模型数字信号处理</title>
+      <link>https://www.opensourceagenda.com/projects/hidden-markov-model-digital-signal-processing</link>
+      <description><![CDATA[C++ 中的离散隐马尔可夫模型 (HMM) 实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hidden-markov-model-digital-signal-processing</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:09 GMT</pubDate>
     </item>
     <item>
-      <title>训斥</title>
-      <link>https://www.opensourceagenda.com/projects/ubrtne</link>
+      <title>萨克斯</title>
+      <link>https://www.opensourceagenda.com/projects/saxas</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ubrtne</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:25 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/saxas</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:09 GMT</pubDate>
     </item>
     <item>
-      <title>完整的产品组合网站</title>
-      <link>https://www.opensourceagenda.com/projects/complete-portfolio-website</link>
-      <description><![CDATA[完整的作品集网站 &lt; HTML &gt; { CSS } ( JavaScript )]]></description>
-      <guid>https://www.opensourceagenda.com/projects/complete-portfolio-website</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
+      <title>尼克斯检查</title>
+      <link>https://www.opensourceagenda.com/projects/nix-inspect</link>
+      <description><![CDATA[用于检查 nix 配置的交互式 tui]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nix-inspect</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:09 GMT</pubDate>
     </item>
     <item>
-      <title>超滚动条</title>
-      <link>https://www.opensourceagenda.com/projects/hyprscroller</link>
-      <description><![CDATA[Hyprland 布局插件提供像 PaperWM 一样的滚动布局]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hyprscroller</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
+      <title>矿币助手</title>
+      <link>https://www.opensourceagenda.com/projects/minecoinhelper</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/minecoinhelper</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:09 GMT</pubDate>
     </item>
     <item>
-      <title>矿石矿工</title>
-      <link>https://www.opensourceagenda.com/projects/ore-miner</link>
-      <description><![CDATA[通过 CLI 进行 solana 矿币挖矿]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ore-miner</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>喵英雄 BOT</title>
-      <link>https://www.opensourceagenda.com/projects/nyanheroes-bot</link>
-      <description><![CDATA[Nyan Heroes 机器人可完成任务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nyanheroes-bot</guid>
-      <pubDate>Thu, 11 Apr 2024 18:16:24 GMT</pubDate>
+      <title>阿拉伯语塔什基拉模型</title>
+      <link>https://www.opensourceagenda.com/projects/arabic-tashkeela-model</link>
+      <description><![CDATA[这是阿拉伯语的变音模型。该模型是使用 Tashkeela 构建/训练的：Kaggle 上的阿拉伯语变音语料库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/arabic-tashkeela-model</guid>
+      <pubDate>Thu, 11 Apr 2024 21:13:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
