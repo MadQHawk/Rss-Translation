@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 11 Apr 2024 09:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:23:24 GMT</lastBuildDate>
     <item>
-      <title>隐式内部视频修复</title>
-      <link>https://www.opensourceagenda.com/projects/implicit-internal-video-inpainting</link>
-      <description><![CDATA[[ICCV 2021]：IIVI：通过隐式远程传播进行内部视频修复]]></description>
-      <guid>https://www.opensourceagenda.com/projects/implicit-internal-video-inpainting</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:18 GMT</pubDate>
+      <title>托利修斯·杰玛</title>
+      <link>https://www.opensourceagenda.com/projects/tolitius-jemma</link>
+      <description><![CDATA[jemma 和她构建软件的人工智能代理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tolitius-jemma</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>凝视动画V2</title>
-      <link>https://www.opensourceagenda.com/projects/gazeanimationv2</link>
-      <description><![CDATA[无监督高分辨率人像注视校正和动画 (TIP 2022)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gazeanimationv2</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:18 GMT</pubDate>
+      <title>最佳人工智能代理</title>
+      <link>https://www.opensourceagenda.com/projects/best-ai-agents</link>
+      <description><![CDATA[顶级 AI 代理列表]]></description>
+      <guid>https://www.opensourceagenda.com/projects/best-ai-agents</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:22 GMT</pubDate>
     </item>
     <item>
-      <title>很棒的 ICCV2023 低水平视觉</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-iccv2023-low-level-vision</link>
-      <description><![CDATA[ICCV2023/2021有关低水平视觉的论文和代码集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-iccv2023-low-level-vision</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:18 GMT</pubDate>
+      <title>Typecho 熊画廊</title>
+      <link>https://www.opensourceagenda.com/projects/typecho-beargallery</link>
+      <description><![CDATA[一款简洁优雅的Typecho摄影类相册主题]]></description>
+      <guid>https://www.opensourceagenda.com/projects/typecho-beargallery</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:22 GMT</pubDate>
     </item>
     <item>
-      <title>FcF 修补</title>
-      <link>https://www.opensourceagenda.com/projects/fcf-inpainting</link>
-      <description><![CDATA[[WACV 2023] 更好的图像修复的关键：结构和纹理齐头并进]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fcf-inpainting</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:18 GMT</pubDate>
+      <title>边缘薄型</title>
+      <link>https://www.opensourceagenda.com/projects/edge-slm</link>
+      <description><![CDATA[此项目是在 Android 设备上测试的小语言模型 RAG 管道的本机实现。主要目标是将整个 RAG 管道安装到资源受限的设备中 - 即。手机。根据设计，提供的 RAG 库应该可以部署在各种平台上。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/edge-slm</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:21 GMT</pubDate>
     </item>
     <item>
-      <title>蒂卡雷</title>
-      <link>https://www.opensourceagenda.com/projects/ticuare</link>
-      <description><![CDATA[基于 Uare 的 TIC-80 的简单且可定制的 UI 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ticuare</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:17 GMT</pubDate>
+      <title>Git Python 重写</title>
+      <link>https://www.opensourceagenda.com/projects/git-python-rewrite</link>
+      <description><![CDATA[Git，但用 python 重写]]></description>
+      <guid>https://www.opensourceagenda.com/projects/git-python-rewrite</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:21 GMT</pubDate>
     </item>
     <item>
-      <title>埃尔戈弗·皮</title>
-      <link>https://www.opensourceagenda.com/projects/elgopher-pi</link>
-      <description><![CDATA[Go 的复古游戏开发引擎，受 Pico-8 启发并由 Ebitengine 提供支持。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/elgopher-pi</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:17 GMT</pubDate>
+      <title>如何不异步 Rs</title>
+      <link>https://www.opensourceagenda.com/projects/how-not-to-async-rs</link>
+      <description><![CDATA[出于教育目的，在 Rust 中开发类似异步运行时的东西。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/how-not-to-async-rs</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>共模甘</title>
-      <link>https://www.opensourceagenda.com/projects/co-mod-gan</link>
-      <description><![CDATA[[ICLR 2021，聚光灯]通过协同调制生成对抗网络完成大规模图像&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/co-mod-gan</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:17 GMT</pubDate>
+      <title>聊天GLM 数学</title>
+      <link>https://www.opensourceagenda.com/projects/chatglm-math</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/chatglm-math</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>米干</title>
-      <link>https://www.opensourceagenda.com/projects/mi-gan</link>
-      <description><![CDATA[[ICCV 2023] MI-GAN：移动设备上图像绘制的简单基准]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mi-gan</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:17 GMT</pubDate>
+      <title>Burakorkmez Whatsapp 克隆</title>
+      <link>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</link>
+      <description><![CDATA[由 AI 驱动的 WhatsApp]]></description>
+      <guid>https://www.opensourceagenda.com/projects/burakorkmez-whatsapp-clone</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>策划Gpt</title>
-      <link>https://www.opensourceagenda.com/projects/curate-gpt</link>
-      <description><![CDATA[LLM 驱动的管理辅助工具（pre-alpha）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/curate-gpt</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:16 GMT</pubDate>
+      <title>训斥</title>
+      <link>https://www.opensourceagenda.com/projects/ubrtne</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ubrtne</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>开放式架构</title>
-      <link>https://www.opensourceagenda.com/projects/openschemas-schemaorg</link>
-      <description><![CDATA[用于 schema.org 应用的 python 函数]]></description>
-      <guid>https://www.opensourceagenda.com/projects/openschemas-schemaorg</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:16 GMT</pubDate>
+      <title>搜索流</title>
+      <link>https://www.opensourceagenda.com/projects/stream-of-search</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/stream-of-search</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>我的策展</title>
-      <link>https://www.opensourceagenda.com/projects/mycuration</link>
-      <description><![CDATA[适用于 Android 的 RSS 阅读器，具有文章过滤和管理功能]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mycuration</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:16 GMT</pubDate>
+      <title>喵英雄 BOT</title>
+      <link>https://www.opensourceagenda.com/projects/nyanheroes-bot</link>
+      <description><![CDATA[Nyan Heroes 机器人可完成任务]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nyanheroes-bot</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>SPARC 苏打水</title>
-      <link>https://www.opensourceagenda.com/projects/soda-for-sparc</link>
-      <description><![CDATA[简化 NIH SPARC 计划资助的研究人员的数据管理]]></description>
-      <guid>https://www.opensourceagenda.com/projects/soda-for-sparc</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:16 GMT</pubDate>
+      <title>Drantunes Flutter 路线图</title>
+      <link>https://www.opensourceagenda.com/projects/drantunes-flutter-roadmap</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/drantunes-flutter-roadmap</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>公平的分享</title>
-      <link>https://www.opensourceagenda.com/projects/fairshare</link>
-      <description><![CDATA[根据适用的 FAIR 指南简化生物医学研究数据和软件的管理和共享]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fairshare</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:15 GMT</pubDate>
+      <title>桑伯热</title>
+      <link>https://www.opensourceagenda.com/projects/samber-hot</link>
+      <description><![CDATA[🌶️ Go 内存缓存库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/samber-hot</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>三二</title>
-      <link>https://www.opensourceagenda.com/projects/threetwo</link>
-      <description><![CDATA[一款不错的漫画书管理应用。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/threetwo</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:15 GMT</pubDate>
+      <title>超级滚轴</title>
+      <link>https://www.opensourceagenda.com/projects/hyprscroller</link>
+      <description><![CDATA[Hyprland 布局插件提供像 PaperWM 一样的滚动布局]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hyprscroller</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>南航</title>
-      <link>https://www.opensourceagenda.com/projects/csn</link>
-      <description><![CDATA[多维数据集的交互式可视化界面]]></description>
-      <guid>https://www.opensourceagenda.com/projects/csn</guid>
-      <pubDate>Thu, 11 Apr 2024 09:14:15 GMT</pubDate>
+      <title>矿石矿工</title>
+      <link>https://www.opensourceagenda.com/projects/ore-miner</link>
+      <description><![CDATA[通过 CLI 进行 solana 矿币挖矿]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ore-miner</guid>
+      <pubDate>Thu, 11 Apr 2024 12:23:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
