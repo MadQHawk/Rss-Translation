@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 12 Apr 2024 06:17:26 GMT</lastBuildDate>
-    <item>
-      <title>身份选择器 Mx</title>
-      <link>https://www.opensourceagenda.com/projects/identitychooser-mx</link>
-      <description><![CDATA[雷鸟邮件扩展，用于在打开电子邮件编辑器之前显式选择正确的发件人身份。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/identitychooser-mx</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tb Web Ext 实验</title>
-      <link>https://www.opensourceagenda.com/projects/tb-web-ext-experiments</link>
-      <description><![CDATA[Thunderbird 的 WebExtension 实验]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tb-web-ext-experiments</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox User.js 工具</title>
-      <link>https://www.opensourceagenda.com/projects/firefox-userjs-tool</link>
-      <description><![CDATA[Firefox user.js 的交互式查看、比较等（例如 arkenfox/user.js） js) + about:配置函数]]></description>
-      <guid>https://www.opensourceagenda.com/projects/firefox-userjs-tool</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:25 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Apr 2024 09:15:07 GMT</lastBuildDate>
     <item>
       <title>雷鸟乔普林出口</title>
       <link>https://www.opensourceagenda.com/projects/thunderbird-joplin-export</link>
       <description><![CDATA[轻松将 Thunderbird 电子邮件导出到 Joplin。]]></description>
       <guid>https://www.opensourceagenda.com/projects/thunderbird-joplin-export</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:25 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:07 GMT</pubDate>
     </item>
     <item>
       <title>雷鸟主题 Papirus</title>
       <link>https://www.opensourceagenda.com/projects/thunderbird-theme-papirus</link>
       <description><![CDATA[Thunderbird 的 Papirus 图标]]></description>
       <guid>https://www.opensourceagenda.com/projects/thunderbird-theme-papirus</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里 服务菜单</title>
-      <link>https://www.opensourceagenda.com/projects/kde-servicemenus</link>
-      <description><![CDATA[我的个人 KDE 服务菜单集合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kde-servicemenus</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xul Ext Eds 日历</title>
-      <link>https://www.opensourceagenda.com/projects/xul-ext-eds-calendar</link>
-      <description><![CDATA[EDS 日历集成]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xul-ext-eds-calendar</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:24 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:07 GMT</pubDate>
     </item>
     <item>
       <title>文件链接</title>
       <link>https://www.opensourceagenda.com/projects/filelink</link>
       <description><![CDATA[Thunderbird 文件链接插件]]></description>
       <guid>https://www.opensourceagenda.com/projects/filelink</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:24 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:06 GMT</pubDate>
     </item>
     <item>
       <title>词典锰</title>
       <link>https://www.opensourceagenda.com/projects/dict-mn</link>
       <description><![CDATA[蒙古语拼写检查词典]]></description>
       <guid>https://www.opensourceagenda.com/projects/dict-mn</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:24 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>卡布奇辛雷鸟</title>
-      <link>https://www.opensourceagenda.com/projects/catppuccin-thunderbird</link>
-      <description><![CDATA[🕊️ Thunderbird 舒缓柔和的主题]]></description>
-      <guid>https://www.opensourceagenda.com/projects/catppuccin-thunderbird</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动配置</title>
-      <link>https://www.opensourceagenda.com/projects/autoconfig</link>
-      <description><![CDATA[ISPDB，Thunderbird 的邮件配置文件数据库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/autoconfig</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:23 GMT</pubDate>
+      <title>Firefox User.js 工具</title>
+      <link>https://www.opensourceagenda.com/projects/firefox-userjs-tool</link>
+      <description><![CDATA[Firefox user.js 的交互式查看、比较等（例如 arkenfox/user.js） js) + about:配置函数]]></description>
+      <guid>https://www.opensourceagenda.com/projects/firefox-userjs-tool</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:06 GMT</pubDate>
     </item>
     <item>
       <title>垃圾邮件分数</title>
       <link>https://www.opensourceagenda.com/projects/spam-scores</link>
       <description><![CDATA[Thunderbird 插件可根据邮件标头显示垃圾邮件分数。支持 Rspamd 和 SpamAssassin 的垃圾邮件/火腿得分标头。该插件向邮件列表视图添加了一列包含总体垃圾邮件分数的列，并显示任何匹配的垃圾邮件/非垃圾邮件规则的详细信息。]]></description>
       <guid>https://www.opensourceagenda.com/projects/spam-scores</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:23 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里 服务菜单</title>
+      <link>https://www.opensourceagenda.com/projects/kde-servicemenus</link>
+      <description><![CDATA[我的个人 KDE 服务菜单集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kde-servicemenus</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xul Ext Eds 日历</title>
+      <link>https://www.opensourceagenda.com/projects/xul-ext-eds-calendar</link>
+      <description><![CDATA[EDS 日历集成]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xul-ext-eds-calendar</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡布奇辛雷鸟</title>
+      <link>https://www.opensourceagenda.com/projects/catppuccin-thunderbird</link>
+      <description><![CDATA[🕊️ Thunderbird 舒缓柔和的主题]]></description>
+      <guid>https://www.opensourceagenda.com/projects/catppuccin-thunderbird</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动配置</title>
+      <link>https://www.opensourceagenda.com/projects/autoconfig</link>
+      <description><![CDATA[ISPDB，Thunderbird 的邮件配置文件数据库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/autoconfig</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:04 GMT</pubDate>
     </item>
     <item>
       <title>Octu0 模糊</title>
       <link>https://www.opensourceagenda.com/projects/octu0-blurry</link>
       <description><![CDATA[用于 golang 的快速、高性能图像处理库]]></description>
       <guid>https://www.opensourceagenda.com/projects/octu0-blurry</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:22 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:03 GMT</pubDate>
     </item>
     <item>
       <title>Dkim 验证器</title>
       <link>https://www.opensourceagenda.com/projects/dkim-verifier</link>
       <description><![CDATA[适用于 Mozilla Thunderbird 的 DKIM 验证器扩展]]></description>
       <guid>https://www.opensourceagenda.com/projects/dkim-verifier</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:22 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:03 GMT</pubDate>
     </item>
     <item>
       <title>第三个统计数据</title>
       <link>https://www.opensourceagenda.com/projects/third-stats</link>
       <description><![CDATA[Thunderbird 插件将您的电子邮件转变为精美的可视化电子邮件帐户统计信息]]></description>
       <guid>https://www.opensourceagenda.com/projects/third-stats</guid>
-      <pubDate>Fri, 12 Apr 2024 06:17:22 GMT</pubDate>
+      <pubDate>Fri, 12 Apr 2024 09:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单股票预测器 Xgboost Knn</title>
+      <link>https://www.opensourceagenda.com/projects/simple-stock-predictor-xgboost-knn</link>
+      <description><![CDATA[在 R 中使用 xgboost 和 knn 分类进行股票预测]]></description>
+      <guid>https://www.opensourceagenda.com/projects/simple-stock-predictor-xgboost-knn</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nft 销售代理</title>
+      <link>https://www.opensourceagenda.com/projects/nft-sale-proxy</link>
+      <description><![CDATA[在销售期间隐藏 NFT 元数据并防止人们窃取特定 NFT 的代理。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nft-sale-proxy</guid>
+      <pubDate>Fri, 12 Apr 2024 09:15:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
