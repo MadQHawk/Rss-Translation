@@ -4,11 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 03:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 06:12:17 GMT</lastBuildDate>
+    <item>
+      <title>探索 Google Cloud Next '24 上展示的顶级现实世界人工智能用例</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2u1m7/discover_the_top_realworld_ai_use_cases_showcased/</link>
+      <description><![CDATA[文章内容： Google Cloud 快照 接下来介绍不同行业如何将人工智能投入生产，创造变革性的现实 -世界用例。 Google 公告中涵盖的类别包括：  客户代理 员工代理 创意代理 数据代理 代码代理 安全代理  文章摘录： Google 认为最大的机会在于企业级应用程序，并且它使用了其 Cloud Next &#39;24 活动旨在重点介绍公司、政府、研究人员和初创公司如何使用 Google Cloud AI 解决方案来增强他们的工作。 进一步阅读下文： 发现现实世界中人工智能的顶级应用Google Cloud Next &#39;24 展示的案例   由   提交 /u/Anirban_Hazra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2u1m7/discover_the_top_realworld_ai_use_cases_showcased/</guid>
+      <pubDate>Sat, 13 Apr 2024 05:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 AI 视频生成应用程序的 10 名早期测试人员</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2sdc3/looking_for_10_early_testers_for_ai_video/</link>
+      <description><![CDATA[您好！我刚刚推出了一个网络应用程序，可以将您的视频变成 15 秒的 AI 动画。我们邀请您免费试用——只需 10 分钟。您的反馈对我们来说非常有价值。有兴趣，请填写下面的表格，我们会尽快与您联系？ https://forms.gle/hSRBrPLXNs24C1io9    由   提交/u/rg_cyborg77  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2sdc3/looking_for_10_early_testers_for_ai_video/</guid>
+      <pubDate>Sat, 13 Apr 2024 03:29:22 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 4/12/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2s0z7/oneminute_daily_ai_news_4122024/</link>
-      <description><![CDATA[ 博士。 Andrew Ng 被任命为亚马逊董事会成员。[1] Meta 正在将其 AI 聊天机器人塞入您的 Instagram DM。[2 ] OpenAI 邀请数百名企业高管演示 ChatGPT Enterprise。[3] Cathie Wood 借助新的 OpenAI 股份，推动 ChatGPT 蓬勃发展。[4] 来源包含在：https://bushaicave.com/2024/04/12/4-12-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <description><![CDATA[ 博士。 Andrew Ng 被任命为亚马逊董事会成员。[1] Meta 正在将其人工智能聊天机器人塞入您的 Instagram DM。[2 ] OpenAI 邀请数百名企业高管演示 ChatGPT Enterprise。[3] Cathie Wood 借助新的 OpenAI 股份，推动 ChatGPT 蓬勃发展。[4] 来源包含在：https://bushaicave.com/2024/04/12/4-12-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2s0z7/oneminute_daily_ai_news_4122024/</guid>
       <pubDate>Sat, 13 Apr 2024 03:10:29 GMT</pubDate>
     </item>
@@ -34,14 +48,7 @@
       <pubDate>Sat, 13 Apr 2024 00:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>LLM推荐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2o34p/llm_reccomendations/</link>
-      <description><![CDATA[嘿大家， 前言，我不是开发人员，所以有些事情可能听起来有点愚蠢，抱歉： ） 我正在设计/开发一个小型应用程序，我希望有一个友好的对话聊天机器人，可以与用户交互，无需图像或其他类型的生成。  我想使用一个模型，我们可以将 JSON 数据从后端输入到聊天机器人（用作数据源），并在某个点将 JSON 数据输出到后端，以便在应用程序进程中进一步使用. 模型最初需要很小（低计算成本和每个代币的低运营成本等） 到目前为止我一直在研究的模型是 Mistral 7B 或 LLama2- 7b-chat，希望在 Replicate 上托管（由于即用即用的低成本且无闲置费用），但这是我仍在研究的内容。  我的主要问题是关于可以在低成本端处理 JSON 输入并执行 JSON 输出的模型建议。我认为这是可行的，但也许我们需要使用几个模型等来实现这一目标？ &#39;如果能得到一些建议那就太好了:)   由   提交/u/dassmi987  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2o34p/llm_reccomendations/</guid>
-      <pubDate>Fri, 12 Apr 2024 23:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能创新每日纪事 2024 年 4 月 12 日：💥OpenAI 因涉嫌泄密而解雇两名研究人员🍎苹果计划将新的专注于人工智能的 M4 芯片引入全系列 Mac 🤷‍♀️亚马逊 CEO：别等我们推出ChatGPT 竞争对手 💬ChatGPT GPT-4 刚刚获得了巨大升级 🧠 ❗</title>
+      <title>人工智能创新每日纪事 2024 年 4 月 12 日：💥OpenAI 因涉嫌泄密而解雇了两名研究人员🍎苹果计划将新的专注于人工智能的 M4 芯片引入全系列 Mac 🤷‍♀️亚马逊 CEO：别等我们推出ChatGPT 竞争对手 💬ChatGPT GPT-4 刚刚获得了巨大升级 🧠 ❗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2np99/a_daily_chronicle_of_ai_innovations_april_12_2024/</link>
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2np99/a_daily_chronicle_of_ai_innovations_april_12_2024/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>如果人工智能正在接管，那么上大学（学习数学）还值得吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2kf33/if_ai_is_taking_over_then_is_even_going_to/</link>
-      <description><![CDATA[大家好。 如果人工智能要统治世界，还值得学习数学吗？我喜欢数学，想在大学学习数学，但到处都有人说人工智能将接管所有白领工作，然后是蓝领工作。人们说一切都将实现自动化，我们只会生活在一个人类没有恶意的人工智能世界，或者我们将生活在一个每个人都拥有丰富一切的丰富世界。 I我很困惑我应该学习数学/计算机还是学习舞蹈。学习舞蹈后，我可以开始我的舞蹈课（我对舞蹈不像对数学/计算机科学那样感兴趣）。我每天都很害怕，如果我选择数学/计算机科学，4年后我会因为人工智能而处于什么位置？ 请给我建议，如果我的帖子对某人来说很愚蠢，我很抱歉，我还很年轻几乎没有生活经验。 给我建议。   由   提交/u/WizardCROCY   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 如果人工智能要统治世界，还值得学习数学吗？我喜欢数学，想在大学学习数学，但到处都有人说人工智能将接管所有白领工作，然后是蓝领工作。人们说一切都将实现自动化，我们只会生活在一个人类没有恶意的人工智能世界，或者我们将生活在一个每个人都拥有丰富一切的丰富世界。 I我很困惑我应该学习数学/计算机还是学习舞蹈。学习舞蹈后，我可以开始我的舞蹈课（我对舞蹈不像对数学/计算机科学那样感兴趣）。我每天都很害怕，如果我选择数学/计算机科学，4年后我会因为人工智能而处于什么位置？几乎没有生活经验。 给我建议。   由   提交/u/WizardCROCY   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2kf33/if_ai_is_taking_over_then_is_even_going_to/</guid>
       <pubDate>Fri, 12 Apr 2024 21:11:11 GMT</pubDate>
     </item>
@@ -69,16 +76,16 @@
       <pubDate>Fri, 12 Apr 2024 18:22:51 GMT</pubDate>
     </item>
     <item>
-      <title>最佳人工智能代理 - 开源列表</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2aj1i/best_ai_agents_an_opensource_list/</link>
-      <description><![CDATA[已创建此开源列表，以捕获当前可供使用的所有流行 AI 代理 https://github.com/SamurAIGPT/Best-AI-Agents 如果我错过了任何代理，请加注将其作为 Github 中的一个问题来添加它   由   提交/u/ANil1729  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2aj1i/best_ai_agents_an_opensource_list/</guid>
-      <pubDate>Fri, 12 Apr 2024 14:26:52 GMT</pubDate>
+      <title>人工智能安全</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2equu/ai_security/</link>
+      <description><![CDATA[我想知道每个人对于能够使用 ChatGTP、Gemini 或 Claude 等 NLP 提供商构建真正安全的应用程序有何感想？我的用例将处理大量超敏感数据，我正在尝试找出一种方法来保证其绝对安全。    ;由   提交/u/Final_Awareness1855  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2equu/ai_security/</guid>
+      <pubDate>Fri, 12 Apr 2024 17:17:27 GMT</pubDate>
     </item>
     <item>
       <title>即时工程是炒作吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c29wxj/is_prompt_engineering_a_hype/</link>
-      <description><![CDATA[看过一些关于即时工程的 LinkedIn 帖子 - 如果您决定接受它，那么它是一个短暂的职业。但它确实激发了创新，我想知道学习如何以巧妙的方式使用法学硕士会带来什么……   由   提交/u/circa20twenty  [链接] [评论]]]></description>
+      <description><![CDATA[看过一些关于即时工程的 LinkedIn 帖子 - 如果您决定接受它，那么它是一个短暂的职业。但它确实激发了创新，我想知道学习如何巧妙地使用法学硕士会带来什么……   由   提交/u/circa20twenty  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c29wxj/is_prompt_engineering_a_hype/</guid>
       <pubDate>Fri, 12 Apr 2024 14:01:10 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能工具提高效率和节省时间应该是一种荣誉徽章，而不是一种耻辱</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c21qmf/the_use_of_ai_tools_for_efficiency_and_time/</link>
-      <description><![CDATA[我最近随机发现一条推文，其作者在抱怨一封由法学硕士制作的冷冰冰的电子邮件，含蓄地批评其缺乏人性化和废话。我很生气，因为我对事物的看法不同。为什么有人要花五个小时来完成人工智能可以在几分钟内简化的任务？如果人工智能可以提供相同甚至更好的结果，那么这就是一种更智能的工作方式。如果您喜欢计算尺，请享受它。我更喜欢我的科学计算器。  人工智能的使用不应该受到侮辱。相反，应该庆祝。我相信那些使用人工智能工具的人并不是在偷工减料，而是在使用人工智能工具。他们对自己的资源具有战略性和谨慎性，这正是我对聪明人的期望。他们应该因其创新的生产力方法而获得积分和认可，而不是批评。   由   提交 /u/RevolutionStill4284   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c21qmf/the_use_of_ai_tools_for_efficiency_and_time/</guid>
-      <pubDate>Fri, 12 Apr 2024 06:01:36 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
