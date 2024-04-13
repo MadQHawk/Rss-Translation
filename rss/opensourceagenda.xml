@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 21:11:28 GMT</lastBuildDate>
     <item>
-      <title>方舟执行者</title>
-      <link>https://www.opensourceagenda.com/projects/arkexecutor</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arkexecutor</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:26 GMT</pubDate>
+      <title>学习 Kotlin 协程</title>
+      <link>https://www.opensourceagenda.com/projects/learn-kotlin-coroutines</link>
+      <description><![CDATA[通过 Android 实例学习 Kotlin 协程]]></description>
+      <guid>https://www.opensourceagenda.com/projects/learn-kotlin-coroutines</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>Tonyke Bot 矿石矿工</title>
-      <link>https://www.opensourceagenda.com/projects/tonyke-bot-ore-miner</link>
-      <description><![CDATA[ORE Miner 构建在 Jito 捆绑包之上，支持 CPU 和 GPU。&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tonyke-bot-ore-miner</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:26 GMT</pubDate>
+      <title>留声机Plus</title>
+      <link>https://www.opensourceagenda.com/projects/phonograph-plus</link>
+      <description><![CDATA[维护和开发中的 kabouzeid/Phonograph 分支]]></description>
+      <guid>https://www.opensourceagenda.com/projects/phonograph-plus</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>胡加</title>
-      <link>https://www.opensourceagenda.com/projects/cshuga</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cshuga</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:26 GMT</pubDate>
+      <title>Android 的干净架构</title>
+      <link>https://www.opensourceagenda.com/projects/cleanarchitectureforandroid</link>
+      <description><![CDATA[Android 的清洁架构 - 示例项目]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cleanarchitectureforandroid</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>吉记分卡</title>
-      <link>https://www.opensourceagenda.com/projects/jee-scorecard</link>
-      <description><![CDATA[JEE 记分卡生成器，只需一步：复制和粘贴。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jee-scorecard</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:26 GMT</pubDate>
+      <title>Kotlin MVVM 架构</title>
+      <link>https://www.opensourceagenda.com/projects/kotlin-mvvm-architecture</link>
+      <description><![CDATA[使用 Kotlin、MVVM、Hilt、LiveData、Room、MediatorLiveData、NetworkBoundResources 的 Android 架构设计模式、Retrofit、AndroidX、ViewModels、使用 Dagger2 的依赖注入、存储库模式。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kotlin-mvvm-architecture</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>热裤shiny96</title>
-      <link>https://www.opensourceagenda.com/projects/hotpantsshiny96</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hotpantsshiny96</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:26 GMT</pubDate>
+      <title>Android 开发者参考</title>
+      <link>https://www.opensourceagenda.com/projects/android-developer-reference</link>
+      <description><![CDATA[🔥 按主题排序的精彩 Android 文章精选列表。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/android-developer-reference</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>HelloSimpleAI SimpleAI</title>
-      <link>https://www.opensourceagenda.com/projects/hellosimpleai-simpleai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hellosimpleai-simpleai</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:25 GMT</pubDate>
+      <title>Camerax 演示</title>
+      <link>https://www.opensourceagenda.com/projects/camerax-demo</link>
+      <description><![CDATA[使用 Android Jetpack 中的 CameraX API 的示例相机应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/camerax-demo</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>硝基测试实用程序</title>
-      <link>https://www.opensourceagenda.com/projects/nitro-test-utils</link>
-      <description><![CDATA[🧪 下一代服务器工具包 Nitro 的测试实用程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nitro-test-utils</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:25 GMT</pubDate>
+      <title>MateriiApps 忧郁</title>
+      <link>https://www.opensourceagenda.com/projects/materiiapps-gloom</link>
+      <description><![CDATA[使用 Material You 重新构想 GitHub]]></description>
+      <guid>https://www.opensourceagenda.com/projects/materiiapps-gloom</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>Discord 硝基增强剂</title>
-      <link>https://www.opensourceagenda.com/projects/discord-nitro-boost</link>
-      <description><![CDATA[Discord 服务器增强]]></description>
-      <guid>https://www.opensourceagenda.com/projects/discord-nitro-boost</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:25 GMT</pubDate>
+      <title>Android复活节彩蛋</title>
+      <link>https://www.opensourceagenda.com/projects/androideastereggs</link>
+      <description><![CDATA[Android 复活节彩蛋集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/androideastereggs</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>沃VR</title>
-      <link>https://www.opensourceagenda.com/projects/wovr</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wovr</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:25 GMT</pubDate>
+      <title>咖啡豆</title>
+      <link>https://www.opensourceagenda.com/projects/coffeegram</link>
+      <description><![CDATA[使用 Jetpack 和 Multiplatform Compose 的 Android、桌面、iOS 应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/coffeegram</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>ItemPrinterDeGacha</title>
-      <link>https://www.opensourceagenda.com/projects/itemprinterdegacha</link>
-      <description><![CDATA[Scarlet/Violet 项目打印机的计算工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/itemprinterdegacha</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:24 GMT</pubDate>
+      <title>诺兹应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/notzz-app</link>
+      <description><![CDATA[📝 一个简单的笔记应用程序，旨在演示现代 Android 开发工具的使用 - (Kotlin 、协程、状态流、Hilt 依赖注入、Jetpack DataStore、架构组件、MVVM、Room、Material Design 组件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/notzz-app</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>凯基马克 Iterm2</title>
-      <link>https://www.opensourceagenda.com/projects/kekimac-iterm2</link>
-      <description><![CDATA[MacOS 终端模拟器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kekimac-iterm2</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:24 GMT</pubDate>
+      <title>他有一台棕褐色留声机</title>
+      <link>https://www.opensourceagenda.com/projects/akanetan-gramophone</link>
+      <description><![CDATA[一款使用 media3 和 Material Design 库构建的健全音乐播放器，严格遵循 Android 标准。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/akanetan-gramophone</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>云2024</title>
-      <link>https://www.opensourceagenda.com/projects/cloud2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cloud2024</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:24 GMT</pubDate>
+      <title>穆罕默德·雷杰布 图鉴</title>
+      <link>https://www.opensourceagenda.com/projects/mohamedrejeb-pokedex</link>
+      <description><![CDATA[Pokedex - 一款 Kotlin 多平台应用程序，使用 Compose 多平台、协程、Flow、Koin、Ktor 构建，基于MVI架构的SqlDelight、Decompose、MVIKotlin、Material 3]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mohamedrejeb-pokedex</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>Kmp层次结构</title>
-      <link>https://www.opensourceagenda.com/projects/kmp-hierarchy</link>
-      <description><![CDATA[用于调查 KMP 项目层次结构的 Gradle 插件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kmp-hierarchy</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:24 GMT</pubDate>
+      <title>文间漫画</title>
+      <link>https://www.opensourceagenda.com/projects/fumiama-copymanga</link>
+      <description><![CDATA[拷贝漫画的第三方APP，优化阅读/下载体验]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fumiama-copymanga</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>GOMVS</title>
-      <link>https://www.opensourceagenda.com/projects/gomvs</link>
-      <description><![CDATA[[CVPR&#39;24]🦿GoMVS：多视图立体的几何一致成本聚合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gomvs</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:24 GMT</pubDate>
+      <title>比利米苗2</title>
+      <link>https://www.opensourceagenda.com/projects/bilimiao2</link>
+      <description><![CDATA[bilimiao 2.0]]></description>
+      <guid>https://www.opensourceagenda.com/projects/bilimiao2</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>很棒的基础 DNS</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-foundation-dns</link>
-      <description><![CDATA[用于管理 DNS 区域的统包配置即代码解决方案]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-foundation-dns</guid>
-      <pubDate>Sat, 13 Apr 2024 18:13:23 GMT</pubDate>
+      <title>埃因克布罗</title>
+      <link>https://www.opensourceagenda.com/projects/einkbro</link>
+      <description><![CDATA[基于 Android WebView 的小型、快速的 Web 浏览器。它专为电子墨水设备量身定制，但在普通 Android 设备上也能很好地工作。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/einkbro</guid>
+      <pubDate>Sat, 13 Apr 2024 21:11:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
