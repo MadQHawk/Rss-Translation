@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 06:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 09:12:02 GMT</lastBuildDate>
     <item>
-      <title>加载 Google Analytics（影响核心网络生命体）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2tif2/loading_of_google_analytics_affects_on_core_web/</link>
-      <description><![CDATA[让我先明确一下... Lighthouse 分数甚至 CrUX 都不是最重要的事情。但是，考虑到我的努力，如果能在那里取得更好的成绩那就太好了。我在这里提供静态 HTML，HTML、CSS 和 JS 总共大约 100Kb...使用 HTTP 预加载来处理所有重要的事情、延迟加载图像和非关键的事情，甚至可以有效地体验即时的实际加载时间在低端设备上...我几乎无法优化任何更好的东西！ 我构建了一些相对复杂的网络应用程序，并非常努力地从它们中获得最佳的实际性能。我的利基市场是农村社区，多年来，在 3G 低端设备上加载一直是我的首要任务。我主要提供静态 HTML，也许 40Kb JS 用于非必要的、渐进式参与类型的东西...至少在可能的情况下（显然带有地图的页面需要加载更多 JS）。 所以，无论如何，在典型页面上，我意识到加载 Google Analytics 并不是必需的，因此我在页面加载和空闲时动态加载 GA（在 defer 脚本中有效使用 requestIdleCallback） 。这确保它不会完成对带宽或进程来说实际上很重要的事情。所有真正重要的东西都会先出现，然后才加载分析。  随着最近对 Core Web Vitals/Lighthouse 的更改，这实际上对性能分数产生了非常不利的影响，而实际上不应该如此。在移动设备上按原样进行测试会产生低至 64 的性能分数...但只需禁用 GA 的加载（其他一切仍然相同，包括用于加载 GA 的捆绑模块...它只是永远不会加载脚本，因为它是给定的即使在部署预览中，常量 GA = null  而不是字符串基础）也会导致 96（这实际上稍微慢一些，并且添加了一些与其创建的 PR 相关的额外 JS）。  所以，我的主要观点是 Core Web Vitals 甚至 CrUX 并不一定真正代表真实性能（虽然总体上仍然不错......但仍然是综合基准，不应该直接设置你的性能目标）。但是，如果有人碰巧知道一种更好的延迟加载 GA 策略，并且不会对 CWV 结果产生负面影响，我很高兴听到你的策略。  哦，FTW，相关网站的实际加载时间约为 400 毫秒或在该范围内。我在农村地区的典型/次优网络条件下对实际低端设备进行了测试，并且这些站点大多仍然有效即时。我们谈论的是几 Kb 的静态 HTML、约 30 Kb 的 CSS（总共，所有内容都单独捆绑）以及约 40 Kb 的大部分非必要 JS...使用 HTTP 预加载标头，服务工作人员可以使用严重过时的策略总体上在在线时提供新鲜的 HTML），由于它是静态站点，所以服务器端处理时间为零...基本上在各个方面都进行了优化...包括所有脚本 defer 和图像  &gt;loading=“lazy”...经过极其优化，总页面加载约为 100Kb（带预加载）。基本上，这是尽可能优化的，至少就实际交互和页面加载的时间而言是这样。  看起来，非必要的 Google Analytics 脚本的延迟加载确实是罪魁祸首，而仅仅不加载它（其他条件相同）就会使性能产生 20-30 的差异分数。我的技术实际上通过在空闲时延迟加载分析来获得更好的性能，实际上大大降低了我的性能分数。我再说一遍……我在空闲时间延迟加载了一个不重要的东西，这大大降低了性能分数。    由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2tif2/loading_of_google_analytics_affects_on_core_web/</guid>
-      <pubDate>Sat, 13 Apr 2024 04:34:24 GMT</pubDate>
+      <title>您如何处理网站上的语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2xjjz/how_do_you_handle_languages_on_websites/</link>
+      <description><![CDATA[我构建了一个小型“CMS”在过去的一年里。它会自动检测您的浏览器语言设置和显示该语言的网站（如果有）。如果没有，您会看到英文版本。 到目前为止，这对我有用，但是有没有比为每种语言使用不同的网站版本更好的翻译方法？    由   提交/u/Maxpyne711   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2xjjz/how_do_you_handle_languages_on_websites/</guid>
+      <pubDate>Sat, 13 Apr 2024 08:58:40 GMT</pubDate>
     </item>
     <item>
-      <title>客户/使用情况分析很重要......呃！您使用什么平台？有什么优点/缺点吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2skl4/customerusage_analytics_are_importantduh_what/</link>
-      <description><![CDATA[用户交互、功能使用和转化漏斗分析是每个 saas 跟踪的三件事（如果你不是，我希望它是有计划的，哈哈）。  这是除了通过 Sentry、Datadog 和 Axiom 等工具进行日志记录之外的。 但是回到跟踪，我体验过的唯一工具是 MixPanel 和 Posthog - 是吗？您还有其他推荐的吗？ 我目前正在使用 Sentry + PostHog 组合来 Pluq.io ，尽管我正在运行遇到使用 PostHog 在我的前端和 Express 服务器之间设置转换漏斗跟踪的问题（服务器端事件根本没有触发 -_-）。 他们有一个节点包，但我似乎可以让它为我的生活工作（可能只是用户错误；（  话虽如此，是否有人有任何其他分析平台建议，或者您是否已使用 PostHog 或一个成功设置客户端+服务器端跟踪这些服务？ 干杯！    提交reddit.com/user/seanhward&quot;&gt; /u/seanhward   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2skl4/customerusage_analytics_are_importantduh_what/</guid>
-      <pubDate>Sat, 13 Apr 2024 03:40:29 GMT</pubDate>
+      <title>棘手的 JavaScript 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2xhv5/tricky_javascript_problem/</link>
+      <description><![CDATA[我有一个 html 段落，它包含一些 &lt;em&gt; &lt;强&gt;到处都有标签。 我想获取该段落的前 5 个单词，并用 javascript 将它们包装在一个跨度中。 传统的方法是使用 textContent 属性，从文本内容中切出前五个单词并将它们包装在 span 中，然后将该 span 放回段落中。但使用 textContent 会删除其  的段落。 &lt;强&gt;标签。有没有一种方法可以实现我想要的而不剥离其他标签。 例如，该段落可能看起来像这样 &lt;p&gt; Lorem ipsum 疼痛坐在 amet，consectetur adipiscing 精英，sed do eiusmod tempor inciditunt ut 劳动和疼痛 magna aliqua。至少有一些人不需要实习，甚至需要一点点的努力和舒适的结果。 &lt;em&gt;两个&lt;/em&gt;在&lt;strong&gt;voluptate velit&lt;/strong&gt;中应受谴责的急性刺激性疼痛esse cillum dolore eu fugiat 零 pariatur。例外的是，如果没有任何责任，就必须承担过失，因为他们必须承担责任。 &lt;/p&gt;  这就是我想要的 &lt;p&gt; &lt;span&gt;没有什么比你脸上的微笑更好的了，&lt;/span&gt; consectetur adipiscing 精英，sed do eiusmod tempor incididunt ut 劳动和痛苦 magna aliqua。至少有一些人不需要实习，甚至需要一点点的努力和舒适的结果。 &lt;em&gt;两个&lt;/em&gt;在&lt;strong&gt;voluptate velit&lt;/strong&gt;中应受谴责的急性刺激性疼痛esse cillum dolore eu fugiat 零 pariatur。例外的是，如果没有任何责任，就必须承担过失，因为他们必须承担责任。 &lt;/p&gt;    由   提交/u/spcbfr  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2xhv5/tricky_javascript_problem/</guid>
+      <pubDate>Sat, 13 Apr 2024 08:54:58 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Javascript 生态系统如此（过度）令人讨厌？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2r6dr/why_is_the_javascript_ecosystem_so_over_hated/</link>
-      <description><![CDATA[只是想发帖给我无用的 2 美分，但在我看来 JavaScript 生态系统太热了。 人们抱怨说有太多的库/框架，我一直认为：只需选择一个框架或其他东西并坚持使用它，您不需要学习现有的所有内容。 尽管我同意您是更有可能经历“闪亮物体综合症”在这个生态系统中，但这也会带来新的学习，在某些情况下甚至可能带来创新。 ，因为它非常简单，我可以做我想做的一切） 不知道，有人对此有什么意见吗？   由   提交 /u/AndryDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2r6dr/why_is_the_javascript_ecosystem_so_over_hated/</guid>
-      <pubDate>Sat, 13 Apr 2024 02:25:33 GMT</pubDate>
+      <title>对你的产品有一个清晰的愿景只有在你传达它的时候才有用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2xc0k/having_a_clear_vision_for_your_product_is_only/</link>
+      <description><![CDATA[上下文：我为我的大学制作了一个网站，学生可以在其中找到他们日常所需的所有内容。完全由我构建，想法是我自己的，域名，seo 一切都是我的。我希望它对用户免费并且开源，这样大学里的任何人都可以使用人们愿意的功能提出拉取请求想要使用。由于我将在一个月内毕业，并且我希望人们使用它，因此我联系学生会来维护网站数据的某些部分，例如实验室名称、教授房间号码、联系方式和办公时间，因为肯定会有担任每个学年的学生会。我向他们宣传它作为他们正在使用的链接树的替代品。 问题：现在他们希望我将网站和代码完全移交给他们，只有学生会有权修改任何内容在网站中。此外，他们希望我将他们的名字包含在网站上的“与&lt;我的名字&gt;合作制作”中。和&lt;他们的名字&gt;”这让我很生气。我希望他们使用我的网站来分享他们与 linktree 共享的所有内容，但有一个更好且易于访问的界面，现在他们想要完全控制它。 经过长时间的讨论，我不得不同意他们的一些建议我不喜欢的一件主要事情是他们不希望它开源，这意味着他们不希望学生团体中的其他人能够开发新功能，这违背了平台，但我不得不妥协，这仅适用于他们当前的任期。  我希望到下一届学生会选举时，网站上会有源源不断的用户，让网站成为校园一切信息来源的代名词。 &lt; p&gt;这是我第一次处理这样的事情，这绝对是一次经历。我还能做些什么不同的事情来让这项工作变得更好，因为我认为这就是初创公司在幕后工作的方式，他们改变最初的愿景以获得风险投资的支持。   由   提交 /u/ZyanCarl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2xc0k/having_a_clear_vision_for_your_product_is_only/</guid>
+      <pubDate>Sat, 13 Apr 2024 08:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>实施 SSO 的开发人员，如果用户帐户被提供商禁止，会发生什么情况？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2q088/devs_who_implement_sso_what_would_happen_if_a/</link>
-      <description><![CDATA[假设您实现了一个不和谐的oauth。如果用户不和谐帐户被禁止，他们是否能够登录？   由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2q088/devs_who_implement_sso_what_would_happen_if_a/</guid>
-      <pubDate>Sat, 13 Apr 2024 01:23:42 GMT</pubDate>
+      <title>[Showoff Saturday] 介绍 PPResume：基于 LaTeX 的简历生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2x7gk/showoff_saturday_introduce_ppresume_a_latex_based/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2x7gk/showoff_saturday_introduce_ppresume_a_latex_based/</guid>
+      <pubDate>Sat, 13 Apr 2024 08:32:59 GMT</pubDate>
     </item>
     <item>
-      <title>一些选择器不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2pnug/some_selectors_not_working/</link>
-      <description><![CDATA[      大家好， 我是 Lambdatest 的新手，但到目前为止我非常喜欢它。我发现了一个小问题，可能是我这边的问题，也可能是其他方面的问题。我正在使用本地主机。选择移动设备或平板电脑设备以及任何浏览器时，某些选择器可以正常工作，而有些则不能（桌面环境工作正常）。当我在本地浏览器上测试时，选择器正常工作。我相信“：has”是正确的。选择器是共同的主题。我附上了一些带有 :has 选择器和 id 选择器的屏幕截图，以及 Lambdatest 和本地浏览器的屏幕截图。 你知道为什么选择器会有这样的差异吗？我 99% 确定这不是特异性问题，也不是其他地方的压倒性规则。 谢谢！ ​ ​ ​ 谢谢！ p&gt; :has 选择器仅适用于本地环境，不适用于 Lambdatest： ​ ​ HTML ​&lt; /p&gt; ：有选择器&lt; /p&gt; ​ ​ 移动响应模式下的本地 (Mac) Firefox 浏览器 ​ ​  ​ Lambdatest 虚拟移动设备（三星 S23 Ultra、Google Chrome） ​ ID 选择器适用于本地和 Lambdatest 环境： ​ ID 选择器 ​ ​ ​ 再次使用本地浏览器 &amp;# x200b; ​ ​ 使用 id 选择器进行 Lambdatest 工作 ​ ​ 干杯！   由   提交/u/peppertom32  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2pnug/some_selectors_not_working/</guid>
-      <pubDate>Sat, 13 Apr 2024 01:05:44 GMT</pubDate>
+      <title>评价我的投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2x6zs/rate_my_portfolio/</link>
+      <description><![CDATA[       链接：https://sairohit.in 嘿伙计们，正如标题所说，我希望你们能够看看我的作品集并给我一些反馈。我尽可能地对其进行了测试，但无法覆盖所有设备。如果您能让我知道它在您的设备上是否正常工作或者是否有任何改进的空间，我真的很高兴。谢谢！  ​ 着陆页 ss   由   提交 /u/SaiRohitS   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2x6zs/rate_my_portfolio/</guid>
+      <pubDate>Sat, 13 Apr 2024 08:32:03 GMT</pubDate>
     </item>
     <item>
-      <title>你可以在移动网站上使用小字体吗？这真的会损害搜索引擎优化吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2pgay/can_you_use_small_fonts_for_website_on_mobile_or/</link>
-      <description><![CDATA[我在网上看到很多东西说智能手机上的字体不要使用小于 1em (16px) 的字体，因为这会损害你的 SEO，但后来我明白了几乎每个主要网站都使用小得多的字体。比如 12 甚至 10 像素。 在手机上查看 ESPN 网站。或者脸书。全部都使用非常小的字体。 如果字体很小，真的会影响您的搜索引擎优化吗？如果是这样，这些大公司难道就不在乎，因为它们已经这么大、这么知名了？   由   提交/u/gabbysal  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2pgay/can_you_use_small_fonts_for_website_on_mobile_or/</guid>
-      <pubDate>Sat, 13 Apr 2024 00:55:27 GMT</pubDate>
+      <title>从前端到 Spring Boot 后端的高级数据库查询</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2x1mt/advanced_database_queries_from_frontend_to_spring/</link>
+      <description><![CDATA[我正在开发一个带有 Vue.js 前端和 Java Spring Boot 3 后端的内部工具。我想要包含的关键功能之一是高级数据库搜索，它允许用户根据复杂条件检索数据库对象，而无需直接使用 SQL。我的目标是实现从前端表单到数据库的无缝路径，同时最大限度地减少后端干扰。 目前，我面临着基于具有各种关系的子实体（尤其是 OneToMany）查询实体的挑战。例如，我需要搜索一个图书馆实体，其中包含一本名为“foo”的书还有另一本名为“Bar”的书。 我尝试使用 RSQL 并找到了 rsql-jpa-specifications 项目，该项目很有前途，但不支持我的要求的多个子对象的条件设想。我还探索了 GraphQL，但似乎我需要大量的自定义编码来满足我的需求。 虽然理论上可以使用与各种 JPA 规范链接的解析器来处理 RSQL，但这种方法似乎过度由于我的数据模型的复杂性和所需的广泛映射，这很麻烦。我相信我的需求不是那么独特，所以我希望可能有更简单的现有解决方案。 所以我想要的是一种从我的前端进行查询的方法，类似于 RSQL 生态系统中存在的方法。但具有像我的图书馆/书籍示例这样的高级条件的能力。从技术上讲，这将转换为多个 JOIN 或 EXISTS 条件。 有谁知道任何基于 Java/Spring Boot 的解决方案，或者其他语言的解决方案，可以促进这种高级查询功能？或者，如果您已经实现了类似的功能，您能分享一下您是如何实现的吗？ 感谢您的帮助！    ;由   提交 /u/ThenChoice2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2x1mt/advanced_database_queries_from_frontend_to_spring/</guid>
+      <pubDate>Sat, 13 Apr 2024 08:21:18 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助了解有关域的一些信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2ncne/need_help_understanding_something_about_domains/</link>
-      <description><![CDATA[你好！ 所以我用谷歌搜索了我的问题，但找不到足够接近我的情况的答案，所以我在这里发帖。&lt; /p&gt; 一年前，我在 Google Domain 上购买了一个域名，一个多月前我删除了它，希望能够从其他地方重新购买它。因此，要么支付 70 美元才能取回，要么（至少我认为）在兑换期后通过 Porkbun/GoDaddy 购买，当时我什至不知道转让是一回事。  现在兑换期已经结束，我在 GoDaddy/Porkbun 上搜索它，它说它是一千五百美元？？？我一年前以 12 美元的价格购买了它，在那段时间里大约有 20 次访问，所以我不明白这是怎么发生的，有人知道吗？ 我知道我搞砸了，但这没有帮助，请分享有关其发生原因的任何信息！    由   提交 /u/StillNotAPerson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2ncne/need_help_understanding_something_about_domains/</guid>
-      <pubDate>Fri, 12 Apr 2024 23:17:30 GMT</pubDate>
+      <title>我的妻子赠送了我一门课程，但 URL 不起作用，而且所有者也没有寻求支持。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2wjtu/my_wife_gifted_me_a_course_the_url_doesnt_work/</link>
+      <description><![CDATA[您好！ 我来这里是为了寻求一点帮助。我自己是一名系统管理员，但对网络后端不太了解。 基本上就是标题中描述的内容。该课程来自我国家的一位大 YouTuber，我认为他没有团队提供支持。他是合法的，没有恶意，但我可能会被搞砸，因为他可能永远不会检查支持电子邮件。 问题描述：  我收到了一封电子邮件，其中包含兑换按钮和一个应该包含 URL 的字段，但该字段为空。 单击该按钮时，它会加载一个 URL。 该 URL 随后会更改为“”或 %22%22，具体取决于浏览器。 出现错误 DNS_PROBE_FINISHED_NXDOMAIN。 我尝试了多种浏览器、设备和接入点。 令牌URL 中嵌入的是：eJwUylFOBCEMANDTwN8kaIHCfnAW0xZQsswQGY3XNv_amHtyGhvgQSYfKYA9qsQ2emQnsSVsjrkHmPuXjT42FnEjkIEFCFCyNLaR0qCGiODUm-DuUdtrfB9z_R2kkp-Uaq1HS8JFj5PHtLMY Rn5-m1TeW--dV3rh_dYJrjPN3zoOv7DAAD_7fbMr4 服务提供商为 Thinkific。  任何关于为什么会发生这种情况的想法？它可能与令牌格式有关。我不知道。 感谢您的帮助！   由   提交 /u/UnHumano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2wjtu/my_wife_gifted_me_a_course_the_url_doesnt_work/</guid>
+      <pubDate>Sat, 13 Apr 2024 07:47:02 GMT</pubDate>
     </item>
     <item>
-      <title>有人还记得 Coachella 的定制直播页面有多好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2n17r/anyone_remember_how_much_better_coachellas_custom/</link>
-      <description><![CDATA[找不到完整的屏幕截图，但想了解一下： https://web.archive.org/web/20160420183529/http://live.coachella.com/ vs https://www.youtube.com/@Coachella ​ 这是否会向客户证明定制开发比将东西硬塞到每个人都使用的可用平台中更好？或者，创造独特的网络体验不再是一个好的价值主张？已经走下坡路了，正如人们以多种方式分享的那样。） 编辑：显然，有一项流媒体版权交易对他们来说很有意义，但必须想象，如果他们愿意，他们仍然可以将其纳入更好的界面：https://www.reddit.com/r/Coachella/comments/12oo85u/ Why_does_coachella_do_a_youtube_stream/?rdt=40754   由   提交/u/zombie_79_94   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2n17r/anyone_remember_how_much_better_coachellas_custom/</guid>
-      <pubDate>Fri, 12 Apr 2024 23:03:09 GMT</pubDate>
+      <title>曾使用 Python 和 Javascript 进行后端工作的人，您更喜欢哪一种？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2wi32/anyone_who_has_worked_with_both_python_and/</link>
+      <description><![CDATA[我已经在使用 Javascript 进行全栈开发工作。我只是想知道 python 生态系统是否更好。   由   提交 /u/Nervous_Swordfish289   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2wi32/anyone_who_has_worked_with_both_python_and/</guid>
+      <pubDate>Sat, 13 Apr 2024 07:43:48 GMT</pubDate>
     </item>
     <item>
-      <title>我是网络开发领域的新手。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2mpi6/im_new_to_the_world_of_web_development/</link>
-      <description><![CDATA[大家好，我决定以自学成为一名 Web 开发人员为目标。我知道这将是一个漫长而艰苦的领域，需要大量的学习、耐心和理解，有没有人对我应该在线上什么类型的课程有任何建议，最好是免费的，我不介意支付一门课程的费用也不是太贵，我只需要在方向上有一点启动动力，我做兼职工作，但当我做出决定和目标时，我是一个非常雄心勃勃的人。我认为首先要在在线课程或面对面课程中学习 JavaScript 或 Python 等编程语言，然后制定目标并继续努力学习我能学到的一切。我感谢任何人能给我的任何反馈，祝你有美好的一天！   由   提交/u/Tezzera1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2mpi6/im_new_to_the_world_of_web_development/</guid>
-      <pubDate>Fri, 12 Apr 2024 22:48:55 GMT</pubDate>
+      <title>ELI5 编程中的大 O 表示法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2wg85/eli5_big_o_notation_in_programming/</link>
+      <description><![CDATA[作为一名自学成才的程序员，我了解最基本的编程概念。我一直困扰的一个问题是理解解释复杂性的大 O 符号。我研究了有关 O(f(n)) 及其属性的数学概念。我很难将这个概念应用到编程中，以便在分析或采访期间进行解释。 有人可以使用一个简单的示例（例如在集合中查找元素）来解释大 O 表示法。  如果问题太宽泛或晦涩，我们深表歉意。感谢这方面的任何帮助。    由   提交/u/devash96  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2wg85/eli5_big_o_notation_in_programming/</guid>
+      <pubDate>Sat, 13 Apr 2024 07:40:21 GMT</pubDate>
     </item>
     <item>
-      <title>投资组合推荐请求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2mp7x/portfolio_recommendation_request/</link>
-      <description><![CDATA[世界你好。我正在建立我的新投资组合网站。虽然它仍然新鲜而清晰，但我将感谢您对进一步实施的见解。  请随时挑战我添加功能。    由   提交/u/Toyenberg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2mp7x/portfolio_recommendation_request/</guid>
-      <pubDate>Fri, 12 Apr 2024 22:48:34 GMT</pubDate>
+      <title>我用 React Three Fiber 制作的 3D 海洋主题作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2wf5f/my_3d_ocean_themed_portfolio_made_with_react/</link>
+      <description><![CDATA[我的作品集我本周完成了。我希望它能脱颖而出并具有独特性和创造性。我自己没有创建 3D 模型，它们是在 sketchfab 上免费找到的，我用 Blender 对它们做了一些更改。使用 3D Web 开发库非常有趣。    由   提交/u/OiaOrca  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2wf5f/my_3d_ocean_themed_portfolio_made_with_react/</guid>
+      <pubDate>Sat, 13 Apr 2024 07:38:19 GMT</pubDate>
     </item>
     <item>
-      <title>有哪些方法可以验证、测试数据库设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2lpjw/what_are_some_methods_to_verify_test_a_db_design/</link>
-      <description><![CDATA[有什么方法可以在编码之前测试数据库设计吗？  也许甚至在我们在数据库中创建表之前？ 总是对前端更有信心，因为结果几乎是所见即所得。  但是数据库设计比较晦涩，通常只有在编码后才会出现问题。  我现在能想到的最好的方法是创建表并手动插入数据来手动验证设计。  想知道人们是如何做的并验证他们的设计。    由   提交 /u/juzatropictroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2lpjw/what_are_some_methods_to_verify_test_a_db_design/</guid>
-      <pubDate>Fri, 12 Apr 2024 22:05:21 GMT</pubDate>
+      <title>[寻求帮助] 我可以从该网站提取隐藏数据来查看我的旧评论吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2w0n3/help_wanted_can_i_extract_hidden_data_from_this/</link>
+      <description><![CDATA[RUNDOWN：有一个名为 Disqus 的论坛/评论平台，它在许多网站上都有小部件作为托管方式对此发表评论。这些网站包括侵犯版权的动漫流媒体网站。很久以前，我经常使用我的 Disqus 帐户在这些动漫网站上发表评论。在 Disqus 网站上，您可以查看您的所有帐户信息，例如您使用该帐户在各个网站上发表的所有评论。  问题：由于这些网站对版权不友好，Disqus 决定禁止查看您过去的评论（如果这些评论位于任何侵犯版权的网站上） ，但它显示了准确的评论数量——你只是无法真正看到它们。 参考图片以更好地理解；显示我已经发表了 532 条评论，但只显示了一条。但是，如果您手动访问评论所在的网站，我相信您仍然可以看到它们，因此评论本身不会被删除，除非网站已经。大多数网站仍在运行。 （遗憾的是，有些评论已擦除或更改了域，因此也不再显示在网站上） 问题：这些过去评论的数据是否仍然隐藏在 Disqus 代码中的某个地方，有没有办法让我创建/获取一个应用程序/扩展来获取该信息，以便我可以再次查看我的旧评论？或者是否可以制作一个应用程序来跟踪该帐户的所有评论的具体位置，以便我可以轻松找到它们，而不是手动尝试记住我留下评论的每个动漫剧集以及在哪个网站可以找到它们？或者可能是针对动漫网站本身的？ 其他人也在谈论这个： https://disqus.com/home/discussion/channel-discussdisqus/bug_reports_feedback_notification_and_comments_disappeared/ ​   由   提交/u/Sonya-kun  /u/Sonya-kun  reddit.com/r/webdev/comments/1c2w0n3/help_wanted_can_i_extract_hidden_​​data_from_this/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2w0n3/help_wanted_can_i_extract_hidden_data_from_this/</guid>
+      <pubDate>Sat, 13 Apr 2024 07:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>斐波那契技术测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2lhho/fibonacci_technical_test/</link>
-      <description><![CDATA[我参加了一个前端角色的面试，并被要求开发斐波那契测试。 指示是通过你想要的斐波那契数组的位置号并返回它。 我在共享屏幕时按时完成了它，但非常失望，她告诉我效率不高。 我用谷歌搜索它并发现它甚至可以用一行代码完成。 我的问题是，我做得有多糟糕？我应该结束对这个位置的希望吗？ 代码： function fib(n) { let fibonacci = [0, 1]; for (让索引 = 0; 索引 &lt; n; 索引++) { 让 p = fibonacci.length;让 num1 = 斐波那契[p - 1]；让 num2 = 斐波那契[p - 2]；让总计 = num1 + num2；斐波那契.push(总计); } return fibonacci[n] }  后来我在网上找到的一行：  function fib(n) { return n &lt;; = 1 ? n : fib2(n - 1) + fib2(n - 2); }    由   提交/u/foottaster123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2lhho/fibonacci_technical_test/</guid>
-      <pubDate>Fri, 12 Apr 2024 21:55:51 GMT</pubDate>
+      <title>新型显示和 rgb() 颜色代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2vxgj/new_type_of_display_and_rgb_color_codes/</link>
+      <description><![CDATA[ https://scitechdaily.com/light-matter-article-breakthrough-could-change-displays-forever/ 如果这是可能的，谁能告诉我它将减少多少指令所需执行显示单个像素。   由   提交/u/mohitesachin217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2vxgj/new_type_of_display_and_rgb_color_codes/</guid>
+      <pubDate>Sat, 13 Apr 2024 07:05:01 GMT</pubDate>
     </item>
     <item>
-      <title>寻找在不实现后端的情况下创建静态投资组合的选项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2kyzj/looking_for_options_to_create_a_static_portfolio/</link>
-      <description><![CDATA[寻找在没有后端的情况下创建静态作品集网站的选项 我正在为图形设计师创建一个作品集，其中的项目显示为文本和图像。一切都是静态的，但她需要能够选择添加、编辑或删除项目。必须有一个简单的免费选项来做到这一点，而无需实现从数据库检索数据的后端。 我这样做的一种方法是使用像 contentful 这样的无头 CMS。我让她根据我设计的模型上传图像和描述，然后我从那里获取数据。 到目前为止，根据网站当前的使用情况，它在免费层中表现良好. 但是有没有更合适的方式或者我的选择有什么矫枉过正的地方？   由   提交/u/Quirky-Suit1748   reddit.com/r/webdev/comments/1c2kyzj/looking_for_options_to_create_a_static_portfolio/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2kyzj/looking_for_options_to_create_a_static_portfolio/</guid>
-      <pubDate>Fri, 12 Apr 2024 21:34:36 GMT</pubDate>
+      <title>学习 Figma 的最佳教程是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2vtt5/what_is_the_best_tutorial_to_learn_figma/</link>
+      <description><![CDATA[我从事 Web 开发已有几年了，希望提高自己在 UI/UX 或前端开发游戏中的技能。  到目前为止，我用来创建网页布局，要么在纸上粗略地绘制，要么借助在线软件。但它们都没有像 Figma 那样提供灵活性和选项。  因此，如果有人通过 YouTube 视频或 Udemy 课程学习了Figma，并认为它们是最好的学习资源，那么我很想了解它。  谢谢！ 🙂    由   提交 /u/juzershakir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2vtt5/what_is_the_best_tutorial_to_learn_figma/</guid>
+      <pubDate>Sat, 13 Apr 2024 06:58:35 GMT</pubDate>
     </item>
     <item>
-      <title>在 Astro 网站上使用 Netlify 安全上传文档？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2kw61/secure_document_upload_with_netlify_on_an_astro/</link>
-      <description><![CDATA[我的一个朋友是一名财富管理人员，他想雇用我建立一个网站。他需要用户能够安全地上传经纪报表。 如果可能的话，我计划与 Astro 一起构建该网站。我正在考虑使用 Netlify 和 Very Good Security 插件来处理文档上传。 这有多困难？我了解 JavaScript 基础知识。有人有使用这些工具的经验吗？  任何帮助表示赞赏。我想在开始这个项目之前弄清楚我是否可以做到这一点。   由   提交 /u/seldstein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2kw61/secure_document_upload_with_netlify_on_an_astro/</guid>
-      <pubDate>Fri, 12 Apr 2024 21:31:16 GMT</pubDate>
+      <title>[周六炫耀]我讨厌编码形式，所以我为此制作了人工智能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2vor3/showoff_saturday_i_hated_coding_forms_so_i_made/</link>
+      <description><![CDATA[我一直讨厌编码形式。首先，我创建了一个库来加快这个过程。然后我制作了一个拖放生成器来保存编码。然后我制作了一个人工智能来拯救建筑。 观看有关它的视频：https://www. youtube.com/watch?v=o02dmKWRtYg 尝试一下：https://vueform。 click/ai-form-b​​uilder   由   提交/u/adamberecz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2vor3/showoff_saturday_i_hated_coding_forms_so_i_made/</guid>
+      <pubDate>Sat, 13 Apr 2024 06:49:23 GMT</pubDate>
     </item>
     <item>
-      <title>所见即所得 HTML 工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2kpn2/wysiwyg_html_tool/</link>
-      <description><![CDATA[大家好 我需要在 HTML 网站上工作。我需要复制一些页面并更改一些文本和图像。我想知道是否有一个工具（Web 或桌面、Windows 或 Linux）可以让我以所见即所得的方式执行此操作？  提前致谢   由   提交/u/oix29  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2kpn2/wysiwyg_html_tool/</guid>
-      <pubDate>Fri, 12 Apr 2024 21:23:42 GMT</pubDate>
+      <title>三名经理对应一名开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2vj1q/three_managers_to_one_developer/</link>
+      <description><![CDATA[前段时间，我面试了一家硅谷的初创公司。他们已经在市场上有了一名 MVP。他们整个团队由四个人组成：  创始人 COO 项目经理 软件开发人员，很有才华的人，看起来  他们正在寻找某人，因为唯一的软件开发人员将转为兼职。 但令我震惊的是，事实上，他们实际上为一个开发人员配备了三名经理。创始人不懂技术，而且善于实践管理。 以前有人在这样的环境中工作过吗？是什么样的？ 比如，他们为什么会看到需要很多经理。这让我感到困惑。   由   提交/u/randomdude1650  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2vj1q/three_managers_to_one_developer/</guid>
+      <pubDate>Sat, 13 Apr 2024 06:39:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
