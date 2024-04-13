@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 21:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:44:13 GMT</lastBuildDate>
+    <item>
+      <title>开源对数字制造的贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c2n3w2/open_source_contribution_to_digital_manufacturing/</link>
+      <description><![CDATA[大家好，我正在寻找开源的机会，并且我可以作为具有软件和机器学习技能的人做出贡献。  有成员知道 GitHub 上有哪些开源且与制造相关的存储库可供我贡献吗？ 谢谢！    由   提交/u/karanbond007  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c2n3w2/open_source_contribution_to_digital_manufacturing/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:06:20 GMT</pubDate>
+    </item>
     <item>
       <title>寻求对我的信使服务的反馈。</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2ilse/seeking_feedback_on_my_messenger_service/</link>
@@ -57,21 +64,21 @@
     <item>
       <title>开源NAS？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</link>
-      <description><![CDATA[我想要一个开源 NAS，但是 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
+      <description><![CDATA[我想要一个开源 NAS，但 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</guid>
       <pubDate>Fri, 12 Apr 2024 11:06:56 GMT</pubDate>
     </item>
     <item>
       <title>Openkoda - 用于更快的业务应用程序和 SaaS 开发的开源平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1c24gkf/openkoda_opensource_platform_for_faster_business/</link>
-      <description><![CDATA[开源社区您好！ 💙 就在最近，我们发布了 Openkoda 的第一个版本，这是一个快速开发的开源平台SaaS和企业应用程序开发！ 🚀 Openkoda 旨在通过提供即用型构建块和预构建模板来加快软件开发过程。它通过提供简化功能定制和扩展的工具，使开发人员能够比传统方法更快地创建和部署应用程序。 Openkoda 功能： 📌 应用程序管理面板，&lt; br /&gt; 📌 动态实体， 📌 用户管理功能， 📌 事件侦听器， 📌 作业请求， 📌 支持多种多租户模型。 &lt; p&gt;类似的解决方案通常会导致可怕的“供应商锁定”。问题，这就是为什么开源核心如此重要。使用 Openkoda 构建应用程序的组织和开发人员保留对其代码的完全所有权，并可以用它做任何他们想做的事情。 这是我们的 GitHub 页面的链接。请随时查看并分享您的想法！ 🔗 Opekoda GitHub 页面 🔗 🔗 展示视频 🔗   由   提交/u/TheRobak333  [链接] [评论]]]></description>
+      <description><![CDATA[开源社区您好！ 💙 就在最近，我们发布了 Openkoda 的第一个版本，这是一个快速开发的开源平台SaaS和企业应用程序开发！ 🚀 Openkoda 旨在通过提供即用型构建块和预构建模板来加快软件开发过程。它通过提供简化功能定制和扩展的工具，使开发人员能够比传统方法更快地创建和部署应用程序​。 Openkoda 功能： 📌 应用程序管理面板，&lt; br /&gt; 📌 动态实体， 📌 用户管理功能， 📌 事件侦听器， 📌 作业请求， 📌 支持多种多租户模型。 &lt; p&gt;类似的解决方案通常会导致可怕的“供应商锁定”。问题，这就是为什么开源核心如此重要。使用 Openkoda 构建应用程序的组织和开发人员保留对其代码的完全所有权，并可以用它做任何他们想做的事情。 这是我们的 GitHub 页面的链接。请随时查看并分享您的想法！ 🔗 Opekoda GitHub 页面 🔗 🔗 展示视频 🔗   由   提交/u/TheRobak333  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c24gkf/openkoda_opensource_platform_for_faster_business/</guid>
       <pubDate>Fri, 12 Apr 2024 09:02:46 GMT</pubDate>
     </item>
     <item>
       <title>寻找开源我的网络应用程序的方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1c23nna/looking_for_ways_to_open_source_my_web_app/</link>
-      <description><![CDATA[过去 2 年我一直在开发一个名为 Just Remind 的网络应用程序 这基本上是 Readwise 的免费版本（具有小型且便宜的高级版本）。 现在，我厌倦了这个项目，我想转向其他项目，但我不这样做想让我的用户蒙在鼓里。但由于我不会再开发它，也不想再承担运行它的成本，所以我考虑将其开源。 我没有开源经验除了使用它（主要是我的网络开发工作的包）。 Just Remind 现在的工作方式很简单：  用户创建一个帐户  下载必要的 Google Chrome 扩展程序 通过 Chrome 扩展程序从 Amazon Kindle 网站导入所有图书 每天收到一封电子邮件，其中包含一些图书的亮点 &lt; /ul&gt; 涉及一些依赖项：  Web 应用程序的 vercel 托管 数据库 cron 作业服务&lt; /li&gt; 电子邮件发送服务 电子邮件域 网站域  我可以保留 vercel 托管（免费） ）和网站域名（便宜）。但我想省掉其他费用。 我会用桌面和移动通知取代每日发送电子邮件。我们在这里谈论的是一个渐进式网络应用程序，用户可以从登陆页面下载并安装该应用程序。 用户安装 PWA 后，可以通过每日通知免费享受该服务。这将满足对电子邮件域和电子邮件发送服务的需求（不确定 cron 作业）。 我考虑 PWA 的原因是因为应该从桌面和桌面上享受该服务。一部手机。但也许这根本不可能？那么数据库呢？用户可以将数据存储在自己的设备上吗？那么它是如何在桌面和移动设备之间同步的呢？或者我可以使用免费的数据库托管吗？ 我有点迷失，不知道在保持应用程序完整的同时是否可行，甚至不知道如何开始以及要考虑什么。任何想法或帮助将不胜感激！   由   提交/u/loicb5  [链接] [评论]]]></description>
+      <description><![CDATA[过去 2 年我一直在开发一个名为 Just Remind 的网络应用程序 这基本上是 Readwise 的免费版本（具有小而便宜的高级版本）。 现在，我厌倦了这个项目，我想转向其他东西，但我不这样做想让我的用户蒙在鼓里。但由于我不会再开发它了，也不想再承担运行它的成本，所以我考虑将其开源。 我没有开源经验除了使用它（主要是我的网络开发工作的软件包）。 Just Remind 现在的工作方式很简单：  用户创建一个帐户  下载必要的 Google Chrome 扩展程序 通过 Chrome 扩展程序从 Amazon Kindle 网站导入所有图书 每天收到一封电子邮件，其中包含一些图书的亮点 &lt; /ul&gt; 涉及一些依赖项：  Web 应用程序的 vercel 托管 数据库 cron 作业服务&lt; /li&gt; 电子邮件发送服务 电子邮件域 网站域  我可以保留 vercel 托管（免费） ）和网站域名（便宜）。但我想省掉其他费用。 我会用桌面和移动通知取代每日发送电子邮件。我们在这里谈论的是一个渐进式网络应用程序，用户可以从登陆页面下载并安装该应用程序。 用户安装 PWA 后，可以通过每日通知免费享受该服务。这将满足对电子邮件域和电子邮件发送服务的需求（不确定 cron 作业）。 我考虑 PWA 的原因是因为应该从桌面和桌面上享受该服务。一部手机。但也许这是不可能的？那么数据库呢？用户可以将数据存储在自己的设备上吗？那么它是如何在桌面和移动设备之间同步的呢？或者我可以使用免费的数据库托管吗？ 我有点不知道在保持应用程序完整的同时是否可行，甚至不知道如何开始以及要考虑什么。任何想法或帮助将不胜感激！   由   提交/u/loicb5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c23nna/looking_for_ways_to_open_source_my_web_app/</guid>
       <pubDate>Fri, 12 Apr 2024 08:06:57 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>OpenTofu：我们对 Hashicorp 停止和终止信函的回应</title>
       <link>https://www.reddit.com/r/opensource/comments/1c1jvoi/opentofu_our_response_to_hashicorps_cease_and/</link>
-      <description><![CDATA[   /u/SirPuzzleheaded5284  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/SirPuzzleheaded5284   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c1jvoi/opentofu_our_response_to_hashicorps_cease_and/</guid>
       <pubDate>Thu, 11 Apr 2024 16:47:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好。我正在构建一个 google Drive / docsend 替代方案。虽然 GitHub 上有类似的项目，但其中许多已经过时并且不再维护。因此，我使用新技术堆栈来构建它，包括附加功能，例如通过电子邮件共享以及高级链接控制和密码保护。这意味着您可以随时轻松删除对文件的访问权限。此外，整个项目是开源的，允许您自行托管并根据您的需求进行自定义。我也非常感谢您为我提供的任何反馈！ 我正在使用 AWS S3 和 Cloudflare R2 进行存储，此外我知道有些人更喜欢在自己的 VPS 或 NAS 上使用 docker 和主机，所以我正在准备，希望能在接下来的几个月内完成设置。  您可以在 github 上查看更多详细信息：https://github.com/suzushi-tw/ celestialdoc 或尝试部署的版本：https://celestialdoc.com/ &lt; /div&gt;  由   提交 /u/SuzushiDE   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c1hxqp/sharing_an_open_source_google_drive_docsend/</guid>
       <pubDate>Thu, 11 Apr 2024 15:28:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steve Pike 谈自动化开源包升级</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c1hnh5/steve_pike_on_automating_open_source_package/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/rubiesordiamonds  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c1hnh5/steve_pike_on_automating_open_source_package/</guid>
-      <pubDate>Thu, 11 Apr 2024 15:16:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

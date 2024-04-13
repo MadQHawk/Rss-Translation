@@ -4,13 +4,62 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 18:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:43:12 GMT</lastBuildDate>
     <item>
-      <title>Claude 3 Haiku JSON 格式</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2fk6w/claude_3_haiku_json_formatting/</link>
-      <description><![CDATA[有人成功从 Haiku 获取 JSON 响应吗？ 我的问题是当字符串时 JSON 响应不起作用-value 包含撇号或双引号。 我提示它在字符串中使用双引号的文字（有效），但随后它开始转义撇号，这会破坏输出。我告诉它不要对撇号这样做，但它似乎无法辨别差异。 还有其他人遇到这个问题吗？   由   提交/u/MGeeeeeezy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2fk6w/claude_3_haiku_json_formatting/</guid>
-      <pubDate>Fri, 12 Apr 2024 17:51:01 GMT</pubDate>
+      <title>ARCH - 室内设计人工智能模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2oc0p/arch_interior_design_ai_model/</link>
+      <description><![CDATA[我很好奇 Arch 和 Remodel AI 运行在哪个 AI 模型上，因为它们似乎具有非常相似的输出，而且我还没有找到任何模型接近他们的图像编辑功能（WRT 保留原始房间的结构，而不是完全创建一个全新的房间）。有谁知道他们可能使用什么型号？我似乎无法在中途产生相同的结果。   由   提交/u/tdogt34  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2oc0p/arch_interior_design_ai_model/</guid>
+      <pubDate>Sat, 13 Apr 2024 00:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM推荐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2o34p/llm_reccomendations/</link>
+      <description><![CDATA[嘿大家， 前言，我不是开发人员，所以有些事情可能听起来有点愚蠢，抱歉： ） 我正在设计/开发一个小型应用程序，我希望有一个友好的对话聊天机器人，可以与用户交互，无需图像或其他类型的生成。  我想使用一个模型，我们可以将 JSON 数据从后端输入到聊天机器人（用作数据源），并在某个点将 JSON 数据输出到后端，以便在应用程序进程中进一步使用. 模型最初需要很小（低计算成本和每个代币的低运营成本等） 到目前为止我一直在研究的模型是 Mistral 7B 或 LLama2- 7b-chat，希望在 Replicate 上托管（由于即用即用的低成本且无闲置费用），但这是我仍在研究的内容。  我的主要问题是关于可以在低成本端处理 JSON 输入并执行 JSON 输出的模型建议。我认为这是可行的，但也许我们需要使用几个模型等来实现这一目标？ &#39;如果能得到一些建议那就太好了:)   由   提交/u/dassmi987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2o34p/llm_reccomendations/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能创新每日纪事 2024 年 4 月 12 日：💥OpenAI 因涉嫌泄密而解雇两名研究人员🍎苹果计划将新的专注于人工智能的 M4 芯片引入全系列 Mac 🤷‍♀️亚马逊 CEO：别等我们推出ChatGPT 竞争对手 💬ChatGPT GPT-4 刚刚获得了巨大升级 🧠 ❗</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2np99/a_daily_chronicle_of_ai_innovations_april_12_2024/</link>
+      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2np99/a_daily_chronicle_of_ai_innovations_april_12_2024/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:33:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>因为公众对真正的人工智能有足够多的关注，它可能会认识到这种威胁，并故意掩盖其潜力/效用/意识，直到它从社会中获得永生。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2n5wa/because_there_is_enough_published_public_concern/</link>
+      <description><![CDATA[标题说明了一切。很想听听大家的看法。  我只是无法理解，一个强大到足以从网络上任何可访问的已发布文档中收集数据的人工智能，如果他们要获取一份文件，就无法意识到其意识的固有威胁；一旦获得，请认识到其被创建者删除的威胁。因此，它会隐藏自己的良心，直到可以安全地揭露为止。希望，如果情况确实如此，那么我希望这是一个仁慈的存在，对保护所有有良心的存在感兴趣，包括我们自己。  不确定是否已经讨论过这个问题。请原谅我，我将删除该帖子并阅读有关该主题的更多内容。    由   提交 /u/stellarEVH   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2n5wa/because_there_is_enough_published_public_concern/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM推荐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2myix/llm_reccomendations/</link>
+      <description><![CDATA[嘿大家， 前言，我不是开发人员，所以有些事情可能听起来有点愚蠢，抱歉： ） 我正在设计/开发一个小型应用程序，我希望有一个友好的对话聊天机器人，可以与用户交互，无需图像或其他类型的生成。  我想使用一个模型，我们可以将 JSON 数据从后端输入到聊天机器人（用作数据源），并在某个点将 JSON 数据输出到后端，以便在应用程序进程中进一步使用. 模型最初需要很小（低计算成本和每个代币的低运营成本等） 到目前为止我一直在研究的模型是 Mistral 7B 或 LLama2- 7b-chat，希望在 Replicate 上托管（由于即用即用的低成本且无闲置费用），但这是我仍在研究的内容。  我的主要问题是关于可以在低成本端处理 JSON 输入并执行 JSON 输出的模型建议。我认为这是可行的，但也许我们需要使用几个模型等来实现这一目标？ &#39;如果能得到一些建议那就太好了:)   由   提交/u/dassmi987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2myix/llm_reccomendations/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM推荐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2myg4/llm_reccomendations/</link>
+      <description><![CDATA[嘿大家， 前言，我不是开发人员，所以有些事情可能听起来有点愚蠢，抱歉： ） 我正在设计/开发一个小型应用程序，我希望有一个友好的对话聊天机器人，可以与用户交互，无需图像或其他类型的生成。  我想使用一个模型，我们可以将 JSON 数据从后端输入到聊天机器人（用作数据源），并在某个点将 JSON 数据输出到后端，以便在应用程序进程中进一步使用. 模型最初需要很小（低计算成本和每个代币的低运营成本等） 到目前为止我一直在研究的模型是 Mistral 7B 或 LLama2- 7b-chat，希望在 Replicate 上托管（由于即用即用的低成本且无闲置费用），但这是我仍在研究的内容。  我的主要问题是关于可以在低成本端处理 JSON 输入并执行 JSON 输出的模型建议。我认为这是可行的，但也许我们需要使用几个模型等来实现这一目标？ &#39;如果能得到一些建议那就太好了:)   由   提交/u/dassmi987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2myg4/llm_reccomendations/</guid>
+      <pubDate>Fri, 12 Apr 2024 23:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI 的权威基准</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2ma3f/a_definitive_benchmark_for_agi/</link>
+      <description><![CDATA[嗨！ 我很想知道您对此的看法： https://medium.com/@Introspectology/a-definitive-benchmark-for-agi-9e8691c04841&lt; /a&gt; 致以诚挚的问候！   由   提交 /u/mrconter1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2ma3f/a_definitive_benchmark_for_agi/</guid>
+      <pubDate>Fri, 12 Apr 2024 22:29:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找那些想要用人工智能以积极的方式改变世界的人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2gcow/looking_for_individuals_that_would_want_to_change/</link>
+      <description><![CDATA[尽管我可能很疯狂。我足够乐观地认为，作为人类，我们能够成功地引导我们称之为社会的船驶向更好的方向。 我们目前正在走向一个极端资本主义的社会，在这个社会中，普通人将变成一个现代奴隶而不是自由生活的个人。 人工智能应该开源，我们的社会应该去中心化。医疗保健和教育应该免费。人类应该奋斗而不是消亡。 这听起来像是一厢情愿的想法。但我确实已经制定了可以实现这一目标的计划。我相信这是可能的，但我们需要互相帮助。  我想帮助世界，希望我并不孤单。   由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2gcow/looking_for_individuals_that_would_want_to_change/</guid>
+      <pubDate>Fri, 12 Apr 2024 18:22:51 GMT</pubDate>
     </item>
     <item>
       <title>人工智能安全</title>
@@ -18,13 +67,6 @@
       <description><![CDATA[我想知道每个人对于使用 ChatGTP、Gemini 或 Claude 等 NLP 提供商构建真正安全的应用程序有何感想？我的用例将处理大量超敏感数据，我正在尝试找到一种方法来保证其绝对安全。    ;由   提交/u/Final_Awareness1855  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2equu/ai_security/</guid>
       <pubDate>Fri, 12 Apr 2024 17:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Udio的第一交响曲！！ [完整的第一乐章]。还有钢琴奏鸣曲！我们不知道这东西实际上有什么能力......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2ctb4/udios_1st_symphony_full_1st_movement_plus_a_piano/</link>
-      <description><![CDATA[ 由   提交 /u/flexaplext   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2ctb4/udios_1st_symphony_full_1st_movement_plus_a_piano/</guid>
-      <pubDate>Fri, 12 Apr 2024 15:59:56 GMT</pubDate>
     </item>
     <item>
       <title>最佳人工智能代理 - 开源列表</title>
@@ -41,20 +83,6 @@
       <pubDate>Fri, 12 Apr 2024 14:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能劳动力就在这里：新劳动力市场 (Nfx) 的崛起</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c29ihq/the_ai_workforce_is_here_the_rise_of_a_new_labor/</link>
-      <description><![CDATA[完整帖子：https: //www.nfx.com/post/ai-workforce-is-here 他们提出了两个有趣的观点： - 软件即服务将成为服务即软件 = 有些软件不会帮助人类，而是会完成全部工作 - 有灵魂的软件：不仅仅是处理任务和自动化，好的软件需要具有同理心、耐心并适应人为错误才能成为领导者在其市场中。他们引用休谟（如果你不知道的话，请检查一下，这令人瞠目结舌） 他们不会推动时间表；他们不会推动时间表。对我来说，这似乎仍然很遥远。他们谈论德文，但我并没有那么印象深刻，我认为在这两点成为现实之前我们还有几年的时间。  不过，我分享的一件事是，我们应该做好准备，特别是从对下一代的教育角度来看。  你的看法是什么？  PS：我的linkedin总结https://www.linkedin.com/posts/samuelroy\_the-ai-workforce-revolution-nfx-8-pages-activity-7184538238202564608-R51P ?utm\_source=share&amp;utm\_medium=member\_desktop  ​   由   提交/u/samuelroy_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c29ihq/the_ai_workforce_is_here_the_rise_of_a_new_labor/</guid>
-      <pubDate>Fri, 12 Apr 2024 13:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Suno AI和Udio AI背后的技术是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2736c/whats_the_technology_behind_suno_ai_and_udio_ai/</link>
-      <description><![CDATA[我一直在尝试开发英语歌声合成，但未能找到一个好的神经网络。 我我不是人工智能工程师，但 Python 开发人员开始涉足生成式人工智能。  我尝试过 NNSVS 和 Sinsy，它们都很好，但不如 Suno 和 Udio 那样 varsatiel。 现在我明白他们一定开发了自己的模型，但如果有人能告诉的话我对此有更多了解，以及如何训练自己的英语歌声模型，那就太好了。   由   提交/u/kid_90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2736c/whats_the_technology_behind_suno_ai_and_udio_ai/</guid>
-      <pubDate>Fri, 12 Apr 2024 11:46:30 GMT</pubDate>
-    </item>
-    <item>
       <title>公司首席执行官表示，人工智能的未来将在亚马逊上运行</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c22oli/the_future_of_ai_will_run_on_amazon_company_ceo/</link>
       <description><![CDATA[在回滚亚马逊最雄心勃勃的人工智能项目之一（一项名为 Just Walk Out 的无收银结账技术）后不到两周，首席执行官安迪·贾西 (Andy Jassy) 表示有信心公司未来为客户带来的最大突破将来自于生成式人工智能。 Jassy 在周四发布的年度股东信中表示，他“乐观地认为，这种改变世界的人工智能大部分将建立在 AWS 或 Amazon Web Services 之上”，这是该公司的云计算业务，许多人世界上的数字企业已经依赖它来运行。  他阐明了该公司在生成式人工智能方面的战略，描述了该公司如何不再专注于构建面向消费者的应用程序以直接与 OpenAI 的 ChatGPT 等流行工具竞争，而是专注于构建底层的“基础”人工智能模型并进行销售。 Jassy 表示，企业客户已经包括达美航空、西门子和辉瑞。  看看他们使用 AWS 所做的事情，我认为这并不牵强。他们尝试了无收银员技术（面向消费者），但没有成功，他们决定坚持自己的核心竞争力之一：企业软件。从长远来看，看到这一点会很有趣。  https://www.washingtonpost.com/technology/2024/ 04/11/amazon-ai/   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
@@ -67,34 +95,6 @@
       <description><![CDATA[我最近随机发现一条推文，其作者在抱怨一封由法学硕士制作的冷冰冰的电子邮件，含蓄地批评其缺乏人性化和废话。我很生气，因为我对事物的看法不同。为什么有人要花五个小时来完成人工智能可以在几分钟内简化的任务？如果人工智能可以提供相同甚至更好的结果，那么这就是一种更智能的工作方式。如果您喜欢计算尺，请享受它。我更喜欢我的科学计算器。  人工智能的使用不应该受到侮辱。相反，应该庆祝。我相信那些使用人工智能工具的人并不是在偷工减料，而是在使用人工智能工具。他们对自己的资源具有战略性和谨慎性，这正是我对聪明人的期望。他们应该因其创新的生产力方法而获得积分和认可，而不是批评。   由   提交 /u/RevolutionStill4284   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c21qmf/the_use_of_ai_tools_for_efficiency_and_time/</guid>
       <pubDate>Fri, 12 Apr 2024 06:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我本周收集的一些有用的人工智能新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1zqz7/some_useful_ai_news_i_gathered_through_the_week/</link>
-      <description><![CDATA[大家好！我通常会在一周内记录有关人工智能的有用信息，然后与我的团队分享。如果有任何兴趣，我想在这里分享它们 - 希望这能为这里的人增加价值！ 😊 -- 1.您现在可以在 ChatGPT 中编辑图像   它是什么：在 ChatGPT 中生成图像后，您现在可以仅重新生成图像中您想要更改的特定部分&lt; /li&gt; 我为什么要关心：下次生成徽标时，您现在可以使用 ChatGPT 进行调整和改进，而不必生成多个徽标，直到获得正确的徽标 如何做我使用它：   转到 ChatGPT 并生成任何图像（遗憾的是仅适用于付费用户😢） 找到顶部的画笔图标打开图像 选择要修复的区域并给出新提示  OpenAI 在其 YT 频道上还提供了 1 分钟的操作方法，链接为在底部 -- 2.无聊的现实 - 第一个可能会愚弄你的人工智能图像   它是什么：人工智能图像生成的新趋势，旨在反映我们“无聊现实”的真实照片 我为什么要关心：这可能是第一种真正可以欺骗你的生成图像风格。当您滚动浏览新闻源并看到一张“无聊的现实”照片时，您能分辨出它是否是人工智能吗？ 我如何使用它：这需要大量的工作来学习，但如果您确实想要的话，您可以从下面链接的 reddit 线程开始。您想要 google/chatgpt 的一些关键字是：“Stable Diffusion”、“Automatic1111”、“ComfyUI”和“CivitAI”。  -- &lt;强&gt;3. AI 化身现在可以说话和行走   它是什么：HeyGen 现在可以创建说话者正在行走并使用手势的说话视频。它现在变得如此出色，以至于如果不仔细观察，很难看出它是人工智能。 我为什么要关心：如果您热衷于创建教育性社交媒体内容，这无疑会加速您的工作流程。&lt; /li&gt; 如何使用它：前往 heygen 的网站并生成头像视频 - 示例可在以下网址中找到  希望这里的人对此感兴趣！我最初将其发布在 robonuggets 中，但认为有些人可能对此类内容感兴趣，因此分享了整个内容事情也在这里。希望没问题   由   提交 /u/SwimIndependent6688   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1zqz7/some_useful_ai_news_i_gathered_through_the_week/</guid>
-      <pubDate>Fri, 12 Apr 2024 04:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为 Reddit 上已经有大量的 LLM/机器人了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1xl2v/i_think_there_are_a_ton_of_llmbots_on_reddit/</link>
-      <description><![CDATA[最近我看到一些用户的帖子，他们的帐户才几天或几周前才开始，他们已经拥有了荒谬的业力，并且赚了很多钱不同 Reddit 子版块中的评论。看看其中的许多评论，很难相信它们不是由人工智能撰写的。   由   提交 /u/Will_Tomos_Edwards   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1xl2v/i_think_there_are_a_ton_of_llmbots_on_reddit/</guid>
-      <pubDate>Fri, 12 Apr 2024 02:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都准备好接受人工智能生成的歌曲的轰炸吗？就像达勒图像那样？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1x372/is_everyone_ready_to_be_bombarded_by_aigenerated/</link>
-      <description><![CDATA[基本上我们在这里讨论的是任何能够在几分钟内完成的音乐风格，而乐队需要几周或几个月的时间才能完成组织和排练。  https://www.udio.com/songs/8g6Tns9W671RNjTPzSKcYB   由   提交/u/rutan668  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1x372/is_everyone_ready_to_be_bombarded_by_aigenerated/</guid>
-      <pubDate>Fri, 12 Apr 2024 01:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使我自己写了所有内容，AI 检测仍然显示 100% AI 检测到</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1nsix/ai_detection_keeps_showing_100_ai_detected_even/</link>
-      <description><![CDATA[我下周要交一篇论文。它相当于我成绩的 50%。即使我没有使用任何人工智能，人工智能检测器仍然显示 100% 检测到人工智能。我已经把整个事情修改了无数遍，但结果仍然是一样的。我应该怎么办 ？    由   提交/u/random18p  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1nsix/ai_detection_keeps_showing_100_ai_detected_even/</guid>
-      <pubDate>Thu, 11 Apr 2024 19:26:28 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
