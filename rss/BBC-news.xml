@@ -4,27 +4,41 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻 - 世界</description>
-    <lastBuildDate>Sat, 13 Apr 2024 15:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 18:13:52 GMT</lastBuildDate>
+    <item>
+      <title>伊朗特种部队扣押与以色列有联系的船只</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68806508</link>
+      <description><![CDATA[MSC Aries 船主表示，周六早些时候，MSC Aries 号被从直升机上降落的部队扣押。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68806508</guid>
+      <pubDate>Sat, 13 Apr 2024 18:09:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界紧张地关注伊朗下一步做什么</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68799234</link>
+      <description><![CDATA[世界各国首都都在屏息以待，看看伊朗下一步会做什么。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68799234</guid>
+      <pubDate>Sat, 13 Apr 2024 15:51:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰陆军参谋长称俄罗斯在东部取得进展</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68806207</link>
+      <description><![CDATA[亚历山大·西尔斯基将军表示，俄罗斯正在取得战术成果，并受益于天气变暖。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68806207</guid>
+      <pubDate>Sat, 13 Apr 2024 15:26:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>“她是英雄”：澳大利亚总理赞扬射杀袭击者的警察</title>
+      <link>https://www.bbc.co.uk/news/world-australia-68806806</link>
+      <description><![CDATA[在悉尼一名男子刺死六人后，这名女警官单枪匹马追击并杀死了他。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-australia-68806806</guid>
+      <pubDate>Sat, 13 Apr 2024 15:20:52 GMT</pubDate>
+    </item>
     <item>
       <title>持刀男子在悉尼购物中心横冲直撞，购物者纷纷逃命</title>
       <link>https://www.bbc.co.uk/news/world-australia-68806332</link>
       <description><![CDATA[在一家受欢迎的购物中心度过的一天以悲剧告终，一名持刀男子杀死了六人。]]></description>
       <guid>https://www.bbc.co.uk/news/world-australia-68806332</guid>
       <pubDate>Sat, 13 Apr 2024 14:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗军队被指控扣押与以色列有关的船只</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68806508</link>
-      <description><![CDATA[MSC Aries 船主表示，周六早些时候，MSC Aries 号被从直升机上降落的部队扣押。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68806508</guid>
-      <pubDate>Sat, 13 Apr 2024 14:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我看到他拿着刀跑”：目击者讲述悉尼刺伤恐怖事件</title>
-      <link>https://www.bbc.co.uk/news/world-australia-68805401</link>
-      <description><![CDATA[购物者描述了韦斯特菲尔德购物中心发生致命持刀横行事件时的恐慌场面。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-australia-68805401</guid>
-      <pubDate>Sat, 13 Apr 2024 14:10:30 GMT</pubDate>
     </item>
     <item>
       <title>约旦河西岸发现 14 岁以色列牧羊人尸体</title>
@@ -46,20 +60,6 @@
       <description><![CDATA[数百万人逃离苏丹长达一年的内战，饥饿导致许多儿童死亡。]]></description>
       <guid>https://www.bbc.co.uk/news/world-africa-68788650</guid>
       <pubDate>Sat, 13 Apr 2024 01:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰可能会在 2024 年面临失败。情况可能是这样的</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68778338</link>
-      <description><![CDATA[由于弹药严重不足且西方援助陷入停滞，俄罗斯今年可能在乌克兰尝试什么？]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68778338</guid>
-      <pubDate>Sat, 13 Apr 2024 00:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡玛拉·哈里斯指责特朗普制定亚利桑那州堕胎法</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68803640</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 与 1864 年重新生效的一项禁止大多数堕胎的法律保持了距离。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68803640</guid>
-      <pubDate>Fri, 12 Apr 2024 22:56:23 GMT</pubDate>
     </item>
     <item>
       <title>BBC俄罗斯记者被称为“外国特工”</title>
