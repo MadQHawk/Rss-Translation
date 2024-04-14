@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 14 Apr 2024 07:55:37 GMT</lastBuildDate>
-    <item>
-      <title>埃因克布罗</title>
-      <link>https://www.opensourceagenda.com/projects/einkbro</link>
-      <description><![CDATA[基于 Android WebView 的小型、快速的 Web 浏览器。它专为电子墨水设备量身定制，但在普通 Android 设备上也能很好地工作。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/einkbro</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺兹应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/notzz-app</link>
-      <description><![CDATA[📝 一个简单的笔记应用程序，旨在演示现代 Android 开发工具的使用 - (Kotlin 、协程、状态流、Hilt 依赖注入、Jetpack DataStore、架构组件、MVVM、Room、Material Design 组件。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/notzz-app</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>他有一台棕褐色留声机</title>
-      <link>https://www.opensourceagenda.com/projects/akanetan-gramophone</link>
-      <description><![CDATA[一款使用 media3 和 Material Design 库构建的健全音乐播放器，严格遵循 Android 标准。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/akanetan-gramophone</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>和廷Go</title>
-      <link>https://www.opensourceagenda.com/projects/hotingo</link>
-      <description><![CDATA[一个 🐬 MySQL + 🐍 Python 的基于 Tkinter 的 🏖 酒店管理系统，具有 😍 漂亮的用户界面。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hotingo</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>文间漫画</title>
-      <link>https://www.opensourceagenda.com/projects/fumiama-copymanga</link>
-      <description><![CDATA[拷贝漫画的第三方APP，优化阅读/下载体验]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fumiama-copymanga</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>比利米苗2</title>
-      <link>https://www.opensourceagenda.com/projects/bilimiao2</link>
-      <description><![CDATA[bilimiao 2.0]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bilimiao2</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:35 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Apr 2024 11:20:02 GMT</lastBuildDate>
     <item>
       <title>Pbo 流媒体</title>
       <link>https://www.opensourceagenda.com/projects/pbo-streaming</link>
       <description><![CDATA[opengl 双缓冲 pbo 视频流的基本示例]]></description>
       <guid>https://www.opensourceagenda.com/projects/pbo-streaming</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:34 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 11:20:02 GMT</pubDate>
     </item>
     <item>
       <title>西普巫术</title>
       <link>https://www.opensourceagenda.com/projects/sipsorcery</link>
       <description><![CDATA[适用于 C# 和 .NET 的 WebRTC、SIP 和 VoIP 库。专为实时通信应用程序而设计。]]></description>
       <guid>https://www.opensourceagenda.com/projects/sipsorcery</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:34 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 11:20:02 GMT</pubDate>
     </item>
     <item>
       <title>韦里夫特·韦伯茨</title>
       <link>https://www.opensourceagenda.com/projects/werift-webrtc</link>
       <description><![CDATA[TypeScript (Node.js) 的 WebRTC 实现，包括 ICE/DTLS/SCTP/RTP/SRTP /WEBM/MP4]]></description>
       <guid>https://www.opensourceagenda.com/projects/werift-webrtc</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webrtc 数据通道演示</title>
-      <link>https://www.opensourceagenda.com/projects/webrtc-data-channel-demo</link>
-      <description><![CDATA[WebRTC 数据通道演示]]></description>
-      <guid>https://www.opensourceagenda.com/projects/webrtc-data-channel-demo</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ryzen 5800x3d Linux 欠压</title>
-      <link>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</link>
-      <description><![CDATA[使用 Ryzen SMU 进行 5800x3d CPU 的 Linux PBO 调整的 Python 脚本。主要用于 Ryzen 5800x3d 欠压。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的</title>
-      <link>https://www.opensourceagenda.com/projects/japm</link>
-      <description><![CDATA[另一个 PBO 管理器：Arma3 PBO 管理器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/japm</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Salesforce ISV 主控室</title>
-      <link>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</link>
-      <description><![CDATA[Salesforce LMA 扩展可简化应用程序支持 - 接收、解析和构建从托管发送的错误邮件套餐]]></description>
-      <guid>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniAI人脸识别服务器SDK</title>
-      <link>https://www.opensourceagenda.com/projects/miniai-face-recognition-serversdk</link>
-      <description><![CDATA[NIST FRVT 排名最高的人脸识别 SDK]]></description>
-      <guid>https://www.opensourceagenda.com/projects/miniai-face-recognition-serversdk</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:32 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 11:20:02 GMT</pubDate>
     </item>
     <item>
       <title>Pboman3</title>
       <link>https://www.opensourceagenda.com/projects/pboman3</link>
       <description><![CDATA[用于处理 ArmA PBO 文件的 GUI 工具。]]></description>
       <guid>https://www.opensourceagenda.com/projects/pboman3</guid>
-      <pubDate>Sun, 14 Apr 2024 07:55:32 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ryzen 5800x3d Linux 欠压</title>
+      <link>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</link>
+      <description><![CDATA[使用 Ryzen SMU 进行 5800x3d CPU 的 Linux PBO 调整的 Python 脚本。主要用于 Ryzen 5800x3d 欠压。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是的</title>
+      <link>https://www.opensourceagenda.com/projects/japm</link>
+      <description><![CDATA[另一个 PBO 管理器：Arma3 PBO 管理器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/japm</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Salesforce ISV 驾驶舱</title>
+      <link>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</link>
+      <description><![CDATA[Salesforce LMA 扩展可简化应用程序支持 - 接收、解析和构建从托管发送的错误邮件套餐]]></description>
+      <guid>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛德赛眼</title>
+      <link>https://www.opensourceagenda.com/projects/thelordseye</link>
+      <description><![CDATA[thelordseye 搜索并返回有关直接连接到互联网 [IoT] 的设备（智能电视、冰箱、网络摄像头、交通灯等）。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/thelordseye</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nullfuzz Pentest Shodan Dorks</title>
+      <link>https://www.opensourceagenda.com/projects/nullfuzz-pentest-shodan-dorks</link>
+      <description><![CDATA[Shodan Dorks]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nullfuzz-pentest-shodan-dorks</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exo Shodan Dorks 先生</title>
+      <link>https://www.opensourceagenda.com/projects/mr-exo-shodan-dorks</link>
+      <description><![CDATA[这里是最有趣的 Shodan dorks（据我所知）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mr-exo-shodan-dorks</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>肖丹·多克斯</title>
+      <link>https://www.opensourceagenda.com/projects/shodan-dorks</link>
+      <description><![CDATA[自动更新 shodan dork 列表，其中包含有关他们返回结果数量的信息！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/shodan-dorks</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniAI人脸识别服务器SDK</title>
+      <link>https://www.opensourceagenda.com/projects/miniai-face-recognition-serversdk</link>
+      <description><![CDATA[NIST FRVT 排名最高的人脸识别 SDK]]></description>
+      <guid>https://www.opensourceagenda.com/projects/miniai-face-recognition-serversdk</guid>
+      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谦虚的肖丹·多克斯</title>
+      <link>https://www.opensourceagenda.com/projects/humblelad-shodan-dorks</link>
+      <description><![CDATA[shodan.io 的 Dorks。从公开数据中收集的一些基本的 shodan dorks。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/humblelad-shodan-dorks</guid>
+      <pubDate>Sun, 14 Apr 2024 11:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌多克</title>
+      <link>https://www.opensourceagenda.com/projects/google-dorker</link>
+      <description><![CDATA[在进行错误赏金或其他活动时自动执行 dorking。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/google-dorker</guid>
+      <pubDate>Sun, 14 Apr 2024 11:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>很棒的呆子</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-dorks</link>
+      <description><![CDATA[Dorks 进行 Bug 赏金狩猎]]></description>
+      <guid>https://www.opensourceagenda.com/projects/awesome-dorks</guid>
+      <pubDate>Sun, 14 Apr 2024 11:19:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
