@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 14 Apr 2024 01:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 03:53:34 GMT</lastBuildDate>
     <item>
-      <title>咖啡豆</title>
-      <link>https://www.opensourceagenda.com/projects/coffeegram</link>
-      <description><![CDATA[使用 Jetpack 和 Multiplatform Compose 的 Android、桌面、iOS 应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coffeegram</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 的干净架构</title>
-      <link>https://www.opensourceagenda.com/projects/cleanarchitectureforandroid</link>
-      <description><![CDATA[Android 的清洁架构 - 示例项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cleanarchitectureforandroid</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kotlin MVVM 架构</title>
-      <link>https://www.opensourceagenda.com/projects/kotlin-mvvm-architecture</link>
-      <description><![CDATA[使用 Kotlin、MVVM、Hilt、LiveData、Room、MediatorLiveData、NetworkBoundResources 的 Android 架构设计模式、Retrofit、AndroidX、ViewModels、使用 Dagger2 的依赖注入、存储库模式。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kotlin-mvvm-architecture</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:14 GMT</pubDate>
+      <title>诺兹应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/notzz-app</link>
+      <description><![CDATA[📝 一个简单的笔记应用程序，旨在演示现代 Android 开发工具的使用 - (Kotlin 、协程、状态流、Hilt 依赖注入、Jetpack DataStore、架构组件、MVVM、Room、Material Design 组件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/notzz-app</guid>
+      <pubDate>Sun, 14 Apr 2024 03:53:33 GMT</pubDate>
     </item>
     <item>
       <title>他有一台棕褐色留声机</title>
       <link>https://www.opensourceagenda.com/projects/akanetan-gramophone</link>
-      <description><![CDATA[一款使用 media3 和 Material Design 库构建的健全音乐播放器，严格遵循 Android 标准。]]></description>
+      <description><![CDATA[一款使用 media3 和材料设计库构建的健全音乐播放器，严格遵循 Android 标准。]]></description>
       <guid>https://www.opensourceagenda.com/projects/akanetan-gramophone</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:13 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:33 GMT</pubDate>
     </item>
     <item>
       <title>穆罕默德·雷杰布 图鉴</title>
       <link>https://www.opensourceagenda.com/projects/mohamedrejeb-pokedex</link>
       <description><![CDATA[Pokedex - 一款 Kotlin 多平台应用程序，使用 Compose 多平台、协程、Flow、Koin、Ktor 构建，基于MVI架构的SqlDelight、Decompose、MVIKotlin、Material 3]]></description>
       <guid>https://www.opensourceagenda.com/projects/mohamedrejeb-pokedex</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>MateriiApps 忧郁</title>
-      <link>https://www.opensourceagenda.com/projects/materiiapps-gloom</link>
-      <description><![CDATA[使用 Material You 重新构想 GitHub]]></description>
-      <guid>https://www.opensourceagenda.com/projects/materiiapps-gloom</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android复活节彩蛋</title>
-      <link>https://www.opensourceagenda.com/projects/androideastereggs</link>
-      <description><![CDATA[Android 复活节彩蛋集合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/androideastereggs</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:13 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:33 GMT</pubDate>
     </item>
     <item>
       <title>文间漫画</title>
       <link>https://www.opensourceagenda.com/projects/fumiama-copymanga</link>
       <description><![CDATA[拷贝漫画的第三方APP，优化阅读/下载体验]]></description>
       <guid>https://www.opensourceagenda.com/projects/fumiama-copymanga</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:12 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:32 GMT</pubDate>
     </item>
     <item>
       <title>比利米苗2</title>
       <link>https://www.opensourceagenda.com/projects/bilimiao2</link>
       <description><![CDATA[bilimiao 2.0]]></description>
       <guid>https://www.opensourceagenda.com/projects/bilimiao2</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:12 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:32 GMT</pubDate>
     </item>
     <item>
       <title>埃因克布罗</title>
       <link>https://www.opensourceagenda.com/projects/einkbro</link>
       <description><![CDATA[基于 Android WebView 的小型、快速的 Web 浏览器。它专为电子墨水设备量身定制，但在普通 Android 设备上也能很好地工作。]]></description>
       <guid>https://www.opensourceagenda.com/projects/einkbro</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺兹应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/notzz-app</link>
-      <description><![CDATA[📝 一个简单的笔记应用程序，旨在演示现代 Android 开发工具的使用 - (Kotlin 、协程、状态流、Hilt 依赖注入、Jetpack DataStore、架构组件、MVVM、Room、Material Design 组件。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/notzz-app</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:12 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:32 GMT</pubDate>
     </item>
     <item>
       <title>韦里夫特·韦伯茨</title>
       <link>https://www.opensourceagenda.com/projects/werift-webrtc</link>
       <description><![CDATA[TypeScript (Node.js) 的 WebRTC 实现，包括 ICE/DTLS/SCTP/RTP/SRTP /WEBM/MP4]]></description>
       <guid>https://www.opensourceagenda.com/projects/werift-webrtc</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:11 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:31 GMT</pubDate>
     </item>
     <item>
       <title>Webrtc 数据通道演示</title>
       <link>https://www.opensourceagenda.com/projects/webrtc-data-channel-demo</link>
       <description><![CDATA[WebRTC 数据通道演示]]></description>
       <guid>https://www.opensourceagenda.com/projects/webrtc-data-channel-demo</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:11 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:31 GMT</pubDate>
     </item>
     <item>
       <title>和廷Go</title>
       <link>https://www.opensourceagenda.com/projects/hotingo</link>
       <description><![CDATA[一个 🐬 MySQL + 🐍 Python 的基于 Tkinter 的 🏖 酒店管理系统，具有 😍 漂亮的用户界面。]]></description>
       <guid>https://www.opensourceagenda.com/projects/hotingo</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:11 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Salesforce ISV 驾驶舱</title>
+      <link>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</link>
+      <description><![CDATA[Salesforce LMA 扩展可简化应用程序支持 - 接收、解析和构建从托管发送的错误邮件套餐]]></description>
+      <guid>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</guid>
+      <pubDate>Sun, 14 Apr 2024 03:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pbo 流媒体</title>
+      <link>https://www.opensourceagenda.com/projects/pbo-streaming</link>
+      <description><![CDATA[opengl 双缓冲 pbo 视频流的基本示例]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pbo-streaming</guid>
+      <pubDate>Sun, 14 Apr 2024 03:53:30 GMT</pubDate>
     </item>
     <item>
       <title>西普巫术</title>
       <link>https://www.opensourceagenda.com/projects/sipsorcery</link>
       <description><![CDATA[适用于 C# 和 .NET 的 WebRTC、SIP 和 VoIP 库。专为实时通信应用程序而设计。]]></description>
       <guid>https://www.opensourceagenda.com/projects/sipsorcery</guid>
-      <pubDate>Sun, 14 Apr 2024 01:09:10 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pboman3</title>
+      <link>https://www.opensourceagenda.com/projects/pboman3</link>
+      <description><![CDATA[用于处理 ArmA PBO 文件的 GUI 工具。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pboman3</guid>
+      <pubDate>Sun, 14 Apr 2024 03:53:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ryzen 5800x3d Linux 欠压</title>
+      <link>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</link>
+      <description><![CDATA[使用 Ryzen SMU 进行 5800x3d CPU 的 Linux PBO 调整的 Python 脚本。主要用于 Ryzen 5800x3d 欠压。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</guid>
+      <pubDate>Sun, 14 Apr 2024 03:53:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>是的</title>
+      <link>https://www.opensourceagenda.com/projects/japm</link>
+      <description><![CDATA[另一个 PBO 管理器：Arma3 PBO 管理器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/japm</guid>
+      <pubDate>Sun, 14 Apr 2024 03:53:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
