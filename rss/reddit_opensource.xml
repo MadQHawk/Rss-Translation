@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 21:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 01:08:57 GMT</lastBuildDate>
+    <item>
+      <title>开源而非机器人垃圾邮件替代 Reddit</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c3fid8/open_source_not_bot_spammed_alternative_to_reddit/</link>
+      <description><![CDATA[嗨，我厌倦了所有的机器人垃圾邮件和 Reddit 上的普遍氛围，还有其他选择吗？   由   提交 /u/YolkyBoii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c3fid8/open_source_not_bot_spammed_alternative_to_reddit/</guid>
+      <pubDate>Sat, 13 Apr 2024 23:35:50 GMT</pubDate>
+    </item>
     <item>
       <title>idrinth/api-bench - Nodejs 上 TypeScript 中的 API 测试解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1c39qpg/idrinthapibench_an_api_testing_solution_in/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>PDF 阅读器可以跨应用程序目录添加书签吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</link>
-      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在其他应用程序（例如 Windows Acrobat 的目录）中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，而且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
+      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在 Windows Acrobat 目录等其他应用程序中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，并且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</guid>
       <pubDate>Fri, 12 Apr 2024 19:20:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想要一个开源 NAS，但是 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</guid>
       <pubDate>Fri, 12 Apr 2024 11:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openkoda - 用于更快的业务应用程序和 SaaS 开发的开源平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c24gkf/openkoda_opensource_platform_for_faster_business/</link>
-      <description><![CDATA[开源社区您好！ 💙 就在最近，我们发布了 Openkoda 的第一个版本，这是一个快速开发的开源平台SaaS和企业应用程序开发！ 🚀 Openkoda 旨在通过提供即用型构建块和预构建模板来加快软件开发过程。它通过提供简化功能定制和扩展的工具，使开发人员能够比传统方法更快地创建和部署应用程序​。 Openkoda 功能： 📌 应用程序管理面板，&lt; br /&gt; 📌 动态实体， 📌 用户管理功能， 📌 事件侦听器， 📌 作业请求， 📌 支持多种多租户模型。 &lt; p&gt;类似的解决方案通常会导致可怕的“供应商锁定”。问题，这就是为什么开源核心如此重要。使用 Openkoda 构建应用程序的组织和开发人员保留对其代码的完全所有权，并可以用它做任何他们想做的事情。 这是我们的 GitHub 页面的链接。请随时查看并分享您的想法！ 🔗 Opekoda GitHub 页面 🔗 🔗 展示视频 🔗   由   提交/u/TheRobak333  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c24gkf/openkoda_opensource_platform_for_faster_business/</guid>
-      <pubDate>Fri, 12 Apr 2024 09:02:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
