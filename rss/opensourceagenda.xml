@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 14 Apr 2024 11:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 14:42:33 GMT</lastBuildDate>
     <item>
-      <title>Pbo 流媒体</title>
-      <link>https://www.opensourceagenda.com/projects/pbo-streaming</link>
-      <description><![CDATA[opengl 双缓冲 pbo 视频流的基本示例]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pbo-streaming</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:02 GMT</pubDate>
+      <title>康菲克</title>
+      <link>https://www.opensourceagenda.com/projects/confiq</link>
+      <description><![CDATA[用于配置 Go 结构解码器库的结构化数据格式]]></description>
+      <guid>https://www.opensourceagenda.com/projects/confiq</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>西普巫术</title>
-      <link>https://www.opensourceagenda.com/projects/sipsorcery</link>
-      <description><![CDATA[适用于 C# 和 .NET 的 WebRTC、SIP 和 VoIP 库。专为实时通信应用程序而设计。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sipsorcery</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:02 GMT</pubDate>
+      <title>Wudijun Catcher</title>
+      <link>https://www.opensourceagenda.com/projects/wudijun-catcher</link>
+      <description><![CDATA[Catcher(捕手) 重点系统指纹漏洞验证工具，适用于外网打点，资产梳理漏洞检查。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wudijun-catcher</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>韦里夫特·韦伯茨</title>
-      <link>https://www.opensourceagenda.com/projects/werift-webrtc</link>
-      <description><![CDATA[TypeScript (Node.js) 的 WebRTC 实现，包括 ICE/DTLS/SCTP/RTP/SRTP /WEBM/MP4]]></description>
-      <guid>https://www.opensourceagenda.com/projects/werift-webrtc</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:02 GMT</pubDate>
+      <title>纽欣顿光盘</title>
+      <link>https://www.opensourceagenda.com/projects/newhinton-disky</link>
+      <description><![CDATA[一个 Android 文件系统分析器，可以向您显示存储的使用情况！ ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/newhinton-disky</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>Pboman3</title>
-      <link>https://www.opensourceagenda.com/projects/pboman3</link>
-      <description><![CDATA[用于处理 ArmA PBO 文件的 GUI 工具。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pboman3</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+      <title>识字双周</title>
+      <link>https://www.opensourceagenda.com/projects/literate-fortnight</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/literate-fortnight</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>Ryzen 5800x3d Linux 欠压</title>
-      <link>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</link>
-      <description><![CDATA[使用 Ryzen SMU 进行 5800x3d CPU 的 Linux PBO 调整的 Python 脚本。主要用于 Ryzen 5800x3d 欠压。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ryzen-5800x3d-linux-undervolting</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+      <title>加密闪光器V4</title>
+      <link>https://www.opensourceagenda.com/projects/crypto-flasherv4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/crypto-flasherv4</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>是的</title>
-      <link>https://www.opensourceagenda.com/projects/japm</link>
-      <description><![CDATA[另一个 PBO 管理器：Arma3 PBO 管理器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/japm</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+      <title>Astramind Ai 深度混合物</title>
+      <link>https://www.opensourceagenda.com/projects/astramind-ai-mixture-of-depths</link>
+      <description><![CDATA[论文“Mixture-of-Depths：动态分配”的非官方实现在基于 Transformer 的语言模型中进行计算”]]></description>
+      <guid>https://www.opensourceagenda.com/projects/astramind-ai-mixture-of-depths</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Salesforce ISV 驾驶舱</title>
-      <link>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</link>
-      <description><![CDATA[Salesforce LMA 扩展可简化应用程序支持 - 接收、解析和构建从托管发送的错误邮件套餐]]></description>
-      <guid>https://www.opensourceagenda.com/projects/salesforce-isv-cockpit</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:01 GMT</pubDate>
+      <title>固体冒险</title>
+      <link>https://www.opensourceagenda.com/projects/solid-adventure</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/solid-adventure</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>洛德赛眼</title>
-      <link>https://www.opensourceagenda.com/projects/thelordseye</link>
-      <description><![CDATA[thelordseye 搜索并返回有关直接连接到互联网 [IoT] 的设备（智能电视、冰箱、网络摄像头、交通灯等）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/thelordseye</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+      <title>识字系统</title>
+      <link>https://www.opensourceagenda.com/projects/literate-system</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/literate-system</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Nullfuzz Pentest Shodan Dorks</title>
-      <link>https://www.opensourceagenda.com/projects/nullfuzz-pentest-shodan-dorks</link>
-      <description><![CDATA[Shodan Dorks]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nullfuzz-pentest-shodan-dorks</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+      <title>Destroylife603 重新设计的冒险</title>
+      <link>https://www.opensourceagenda.com/projects/destroylife603-redesigned-adventure</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/destroylife603-redesigned-adventure</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Exo Shodan Dorks 先生</title>
-      <link>https://www.opensourceagenda.com/projects/mr-exo-shodan-dorks</link>
-      <description><![CDATA[这里是最有趣的 Shodan dorks（据我所知）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mr-exo-shodan-dorks</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+      <title>多塞瑟</title>
+      <link>https://www.opensourceagenda.com/projects/doceaser</link>
+      <description><![CDATA[使用 Markdown 和 HTMX 进行交互式文档变得更容易]]></description>
+      <guid>https://www.opensourceagenda.com/projects/doceaser</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>肖丹·多克斯</title>
-      <link>https://www.opensourceagenda.com/projects/shodan-dorks</link>
-      <description><![CDATA[自动更新 shodan dork 列表，其中包含有关他们返回结果数量的信息！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shodan-dorks</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+      <title>疯子</title>
+      <link>https://www.opensourceagenda.com/projects/lloco</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lloco</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>MiniAI人脸识别服务器SDK</title>
-      <link>https://www.opensourceagenda.com/projects/miniai-face-recognition-serversdk</link>
-      <description><![CDATA[NIST FRVT 排名最高的人脸识别 SDK]]></description>
-      <guid>https://www.opensourceagenda.com/projects/miniai-face-recognition-serversdk</guid>
-      <pubDate>Sun, 14 Apr 2024 11:20:00 GMT</pubDate>
+      <title>像厨师一样</title>
+      <link>https://www.opensourceagenda.com/projects/cooklikehoc</link>
+      <description><![CDATA[🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cooklikehoc</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>谦虚的肖丹·多克斯</title>
-      <link>https://www.opensourceagenda.com/projects/humblelad-shodan-dorks</link>
-      <description><![CDATA[shodan.io 的 Dorks。从公开数据中收集的一些基本的 shodan dorks。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/humblelad-shodan-dorks</guid>
-      <pubDate>Sun, 14 Apr 2024 11:19:59 GMT</pubDate>
+      <title>管理员一 Laravel 仪表板</title>
+      <link>https://www.opensourceagenda.com/projects/admin-one-laravel-dashboard</link>
+      <description><![CDATA[免费 Laravel 9.x Jetstream Inertia Bulma Buefy Vue.js 2.x 仪表板]]></description>
+      <guid>https://www.opensourceagenda.com/projects/admin-one-laravel-dashboard</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌多克</title>
-      <link>https://www.opensourceagenda.com/projects/google-dorker</link>
-      <description><![CDATA[在进行错误赏金或其他活动时自动执行 dorking。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/google-dorker</guid>
-      <pubDate>Sun, 14 Apr 2024 11:19:59 GMT</pubDate>
+      <title>模糊伞</title>
+      <link>https://www.opensourceagenda.com/projects/fuzzy-umbrella</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fuzzy-umbrella</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>很棒的呆子</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-dorks</link>
-      <description><![CDATA[Dorks 进行 Bug 赏金狩猎]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-dorks</guid>
-      <pubDate>Sun, 14 Apr 2024 11:19:59 GMT</pubDate>
+      <title>Desazworthy10 教学机器人</title>
+      <link>https://www.opensourceagenda.com/projects/desazworthy10-didactic-robot</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/desazworthy10-didactic-robot</guid>
+      <pubDate>Sun, 14 Apr 2024 14:42:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
