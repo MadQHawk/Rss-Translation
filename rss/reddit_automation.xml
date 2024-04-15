@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 15 Apr 2024 18:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 21:12:36 GMT</lastBuildDate>
     <item>
       <title>如何自动化工作平台</title>
       <link>https://www.reddit.com/r/automation/comments/1c4ihhn/how_to_automate_job_platforms/</link>
@@ -29,14 +29,14 @@
     <item>
       <title>剧作家JS自动化文件组织？</title>
       <link>https://www.reddit.com/r/automation/comments/1c3l6ae/playwright_js_automation_file_organization/</link>
-      <description><![CDATA[大家好！ 我正在尝试编写剧作家自动化代码，但我不确定“最好”的是什么？组织我的代码的途径是。 本质上，我日常工作的一部分是填写一个 3 页的 Web 表单，我通常会将一堆数据复制并粘贴到每个页面上的各种字段中，我正在尝试找出如何实现自动化。我目前已将其全部设置在一个文件中，如下所示： test(&#39;name&#39;, async ({ page })=&gt; { await page.goto(&#39;form url&#39;) page-one(){ 输入数据、点击按钮等 } page-two() { 输入数据、点击按钮等 } page-one() page-two() } 每个“页面”函数都在该单个文件中定义，然后在底部执行。代码按预期工作，但我的问题是如何更好地组织它？主要要求是我需要页面函数一个接一个地运行并且在同一个浏览器实例中（如果没有运行第 1 页等，我就无法运行第 2 页。） 我有一个想法在它自己的文件中定义每个函数，然后将它们导入到主文件中，但是我不确定如何继续使用相同的浏览器实例。 我知道剧作家测试通常应该是隔离的，所以我想知道是否有一个完全更好的工具/方法来做到这一点，所以欢迎任何和所有的想法！   由   提交/u/mushy_orange  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在尝试编写剧作家自动化代码，但我不确定“最好”的是什么？组织我的代码的途径是。 本质上，我日常工作的一部分是填写一个 3 页的 Web 表单，我通常会将一堆数据复制并粘贴到每个页面上的各种字段中，我正在尝试找出如何实现自动化。我目前已将其全部设置在一个文件中，如下所示： test(&#39;name&#39;, async ({ page })=&gt; { await page.goto(&#39;form url&#39;) page-one(){ 输入数据、点击按钮等 } page-two() { 输入数据、点击按钮等 } page-one() page-two() } 每个“页面”函数都在该单个文件中定义，然后在底部执行。代码按预期工作，但我的问题是如何更好地组织它？主要要求是我需要页面函数一个接一个地运行并且在同一个浏览器实例中（如果没有运行第 1 页等，我就无法运行第 2 页。） 我有一个想法在它自己的文件中定义每个函数，然后将它们导入主文件，但是我不确定如何继续使用相同的浏览器实例。 我知道剧作家测试通常应该是隔离的，所以我想知道是否有一个完全更好的工具/方法来做到这一点，所以欢迎任何和所有的想法！   由   提交/u/mushy_orange  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c3l6ae/playwright_js_automation_file_organization/</guid>
       <pubDate>Sun, 14 Apr 2024 04:41:51 GMT</pubDate>
     </item>
     <item>
       <title>如何自动化您的业务工作流程</title>
       <link>https://www.reddit.com/r/automation/comments/1c347j8/how_to_automate_your_business_workflow/</link>
-      <description><![CDATA[   🚀 利用 Auto Web Digital 的工作流程自动化解决方案改变您的业务！ 在 Auto Web Digital，我们知道时间是您最宝贵的资产。这就是为什么我们致力于简化您的业务运营，让您能够专注于增长和创新。我们定制的工作流程自动化服务旨在无缝集成到您的现有系统中，从而提高效率和生产力。 ​ https://preview.redd.it/7anurww9j9uc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp ＆amp; ;s=cc26f4096b40a2b27ca435ba2e094562c7b886e5 以下是我们如何帮助您实现业务流程自动化：  📧 个性化电子邮件营销活动：  自动向您的客户发送量身定制的电子邮件，确保及时且相关的沟通。 🔍 潜在客户丰富： 通过自动丰富潜在客户数据来增强您的销售策略，为您的销售团队提供帮助他们取得成功所需的信息。 🔄 CRM 更新：通过自动 CRM 更新保持牢固的客户关系，确保所有客户交互都被记录并可访问。 🗣️ 人工智能驱动的销售拜访：利用人工智能处理初始销售拜访，并配备您的知识库以提供一致、准确的信息。 📊 员工绩效评估：  通过自动收集和分析员工绩效数据来简化绩效管理。 🛠️ 招聘自动化：自动化从职位发布到候选人筛选的招聘流程，确保您找到合适的人选高效合适。 📈 社交媒体管理：自动跨平台安排和发布内容，保持您的社交形象活跃且有吸引力。   准备好实现自动化并取得卓越成就了吗？请访问 www.autowebdigital.com 预约电话并探索我们如何可以改变您的业务工作流程，实现最佳效率和增长。 让我们共同使您的业务运营尽可能高效。 #BusinessAutomation #WorkflowAutomation #Efficiency #BusinessGrowth #TechSolutions #AutoWebDigital ​   由   提交/u/Swimming_Shop6492   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; /td&gt; 🚀 利用 Auto Web Digital 的工作流程自动化解决方案改变您的业务！ 在 Auto Web Digital，我们知道时间是您最宝贵的资产。这就是为什么我们致力于简化您的业务运营，让您能够专注于增长和创新。我们定制的工作流程自动化服务旨在无缝集成到您的现有系统中，从而提高效率和生产力。 ​ https://preview.redd.it/7anurww9j9uc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp ＆amp; ;s=cc26f4096b40a2b27ca435ba2e094562c7b886e5 以下是我们如何帮助您实现业务流程自动化：  📧 个性化电子邮件营销活动：  自动向您的客户发送量身定制的电子邮件，确保及时且相关的沟通。 🔍 潜在客户丰富： 通过自动丰富潜在客户数据来增强您的销售策略，为您的销售团队提供帮助他们取得成功所需的信息。 🔄 CRM 更新：通过自动 CRM 更新保持牢固的客户关系，确保所有客户交互都被记录并可访问。 🗣️ 人工智能驱动的销售拜访：利用人工智能处理初始销售拜访，并配备您的知识库以提供一致、准确的信息。 📊 员工绩效评估：  通过自动收集和分析员工绩效数据来简化绩效管理。 🛠️ 招聘自动化：自动化从职位发布到候选人筛选的招聘流程，确保您找到合适的人选高效合适。 📈 社交媒体管理：自动跨平台安排和发布内容，保持您的社交形象活跃且有吸引力。   准备好实现自动化并取得卓越成就了吗？请访问 www.autowebdigital.com 预约电话并探索我们如何可以改变您的业务工作流程，实现最佳效率和增长。 让我们共同使您的业务运营尽可能高效。 #BusinessAutomation #WorkflowAutomation #Efficiency #BusinessGrowth #TechSolutions #AutoWebDigital ​   由   提交/u/Swimming_Shop6492   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c347j8/how_to_automate_your_business_workflow/</guid>
       <pubDate>Sat, 13 Apr 2024 15:12:01 GMT</pubDate>
     </item>

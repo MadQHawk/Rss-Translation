@@ -4,13 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 18:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 21:13:59 GMT</lastBuildDate>
     <item>
-      <title>拥有一个旧域名好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4slxv/is_it_good_to_have_an_old_domain_name/</link>
-      <description><![CDATA[我发现了一个 1998 年 1 月首次注册的旧域名  &amp;# 32；由   提交 /u/Permatheus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4slxv/is_it_good_to_have_an_old_domain_name/</guid>
-      <pubDate>Mon, 15 Apr 2024 17:51:50 GMT</pubDate>
+      <title>自学学习每种网络编程语言是错误的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4uy7c/is_it_wrong_to_learn_every_web_programming/</link>
+      <description><![CDATA[我有时会查看作品集，看到人们使用了如此多的编程语言和框架，这是否会适得其反？  我总是听到高级开发人员的意见，最好专注于 1/2 编程语言并开发您感兴趣的项目   由   提交 /u/Mammoth-Asparagus498   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4uy7c/is_it_wrong_to_learn_every_web_programming/</guid>
+      <pubDate>Mon, 15 Apr 2024 19:22:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在我的页面上添加“话题”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4upvl/how_to_add_threads_on_my_page/</link>
+      <description><![CDATA[嘿伙计们，我是一名新手 React 开发人员。我正在开发我的投资组合，看起来像一个证据板。很明显我有那些线和别针。我怎样才能将这些添加到我的网站上🥲🥲。我想避免使用绝对位置属性，因为它会使网站的响应能力变得困难。所以还有其他方法可以添加这些“线程”。它们只是带有阴影效果和轻微曲线的粗线，与页面上的所有元素重叠。   由   提交/u/krypton_009   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4upvl/how_to_add_threads_on_my_page/</guid>
+      <pubDate>Mon, 15 Apr 2024 19:13:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要学习哪些主题才能建立这样的网站？甚至达到这个水平？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4unpx/what_topics_do_i_need_to_learn_to_do_websites/</link>
+      <description><![CDATA[    /u/TheFapGoesCloud    [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4unpx/what_topics_do_i_need_to_learn_to_do_websites/</guid>
+      <pubDate>Mon, 15 Apr 2024 19:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 是如何做到的？ （更多评论中）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4u7n4/how_does_spotify_do_it_more_in_comments/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/rayjaywolf   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4u7n4/how_does_spotify_do_it_more_in_comments/</guid>
+      <pubDate>Mon, 15 Apr 2024 18:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关创建题库网站的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4tn7m/need_advice_on_creating_a_question_bank_website/</link>
+      <description><![CDATA[嘿伙计们！我计划创建一个问题库网站！ 我计划为该网站提供一些功能： - 自我评分方案 - 能够记录每个学生的尝试 - 学生能够创建自己的问题测验和访问预制测验 - 订阅计划 - 每个问题的类别 - 能够完成单独的问题  我知道其中一些功能对于像我这样的应届毕业生来说可能看起来像是艰巨的任务，但我&#39;我不希望很快完成所有这些。 唯一的问题是我无法找出实现它的最佳解决方案。 现在我正在尝试 LMS像Moodle这样的框架。  但是，我无法评估上述功能是否可以作为一个人在 LMS 框架中实现。我在想学习如何创建一个全栈网站是否会更好，或者是否有另一个 LMS 最适合我的定制需求。 如果有帮助，我有一些 html 和 css 经验并帮助编写代码作为另一个小组项目的一部分，为全栈开发人员使用 React js。 那么我应该做什么？坚持使用 LMS 框架还是深入研究全栈开发？   由   提交/u/captainpeanutlemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4tn7m/need_advice_on_creating_a_question_bank_website/</guid>
+      <pubDate>Mon, 15 Apr 2024 18:31:44 GMT</pubDate>
     </item>
     <item>
       <title>如何用 React 应用程序替换 angularjs 应用程序？</title>
@@ -34,9 +62,9 @@
       <pubDate>Mon, 15 Apr 2024 16:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>Firefox 中的范围滑块拇指无法移动</title>
+      <title>范围滑块拇指在 Firefox 中无法移动</title>
       <link>https://www.reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/</link>
-      <description><![CDATA[我想以编程方式在 pointerup 事件上将 Ranger 滑块值重置为零。只需将 value 属性设置为零，即可将值设置为零，并将滑块滑块移回 Chromium 浏览器中的中间位置。但在 Firefox 中，该值被重置，但滑块拇指仍固定在释放拇指的位置。在 Firefox 上如何让拇指移回中间位置？我还没有看到任何解决此问题的 Google 结果。   由   提交 /u/Science-Compliance   /u/Science-Compliance  reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我想以编程方式在 pointerup 事件上将 Ranger 滑块值重置为零。只需将 value 属性设置为零即可将值设置为零，并将滑块滑块移回 Chromium 浏览器中的中间位置。但在 Firefox 中，该值被重置，但滑块拇指仍固定在释放拇指的位置。在 Firefox 上如何让拇指移回中间位置？我还没有看到任何解决此问题的 Google 结果。   由   提交 /u/Science-Compliance   /u/Science-Compliance  reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4pxlv/range_slider_thumb_doesnt_move_in_firefox/</guid>
       <pubDate>Mon, 15 Apr 2024 16:04:08 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>关于 WordPress 日志记录的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1c4o2x6/question_about_wordpress_logging/</link>
-      <description><![CDATA[我们开始使用 SiteGround 上托管的 WordPress 作为静态网站的无头 CMS 组件，主要是因为后端界面对于很多编辑者来说都很熟悉/作者。在构建步骤中，我们在不同的项目上使用 REST API 和 GraphQL 插件。 我的背景是全栈，主要使用 Rails 和 Django。我对 WordPress 不太熟悉。我不明白的一件事是日志记录。在我的正常项目中，设置日志记录非常关键 - 我们希望有日志文件来帮助对生产系统进行故障排除。但是 WordPress 在打开 WP_DEBUG* PHP 常量方面是这样说的：  不建议在实时站点上使用 WP_DEBUG 或其他调试工具  假设WP_DEBUG_DISPLAY设置为false，为什么WordPress本身建议不要在生产中记录警告和错误？这纯粹是性能问题吗？我们不会从 WordPress 实例提供页面（它仅在重建期间用于管理和 API 调用，每天几次）。 此外，有人知道为什么 SiteGround 不提供服务吗？没有设置环境变量的选项吗？   由   提交 /u/webstackbuilder   [链接] [评论]]]></description>
+      <description><![CDATA[我们开始使用 SiteGround 上托管的 WordPress 作为静态网站的无头 CMS 组件，主要是因为后端界面对于很多编辑者来说都很熟悉/作者。在构建步骤中，我们在不同的项目上使用 REST API 和 GraphQL 插件。 我的背景是全栈，主要使用 Rails 和 Django。我对 WordPress 不太熟悉。我不明白的一件事是日志记录。在我的正常项目中，设置日志记录非常关键 - 我们希望有日志文件来帮助对生产系统进行故障排除。但是 WordPress 在打开 WP_DEBUG* PHP 常量方面是这样说的：  不建议在实时站点上使用 WP_DEBUG 或其他调试工具  假设 WP_DEBUG_DISPLAY 设置为 false，为什么 WordPress 本身建议不要在生产中记录警告和错误？这纯粹是性能问题吗？我们不会从 WordPress 实例提供页面（它仅在重建期间用于管理和 API 调用，每天几次）。 此外，有人知道为什么 SiteGround 不提供服务吗？没有设置环境变量的选项吗？   由   提交 /u/webstackbuilder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4o2x6/question_about_wordpress_logging/</guid>
       <pubDate>Mon, 15 Apr 2024 14:48:18 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[您好！希望每个人都做得很好，当浏览社区和互联网试图学习和构建东西时，我经常读到很多缩略词，如 SSR、ORM 等。谷歌搜索当然给了我含义，但我想要一些文字所有这些文件仅供参考，如果您愿意在评论中与您记得的人一起发表意见，我将不胜感激，谢谢您，希望您有美好的一天。 （我做了一些谷歌搜索，但没有找到我预期的那么多）   由   提交 /u/GANJHERO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4nojr/glosaryacronyms_for_web_dev/</guid>
       <pubDate>Mon, 15 Apr 2024 14:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4n0ww/responsive_design/</link>
-      <description><![CDATA[所以我刚刚在 Laravel 中制作了一个网站，但我忘记让它响应。唯一需要做的就是让它响应。使网站响应的最佳方法是什么？我的 css 有大约 3500 行代码，要使其具有响应性需要做很多工作吗？   由   提交/u/stuckstepmom69  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4n0ww/responsive_design/</guid>
-      <pubDate>Mon, 15 Apr 2024 14:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以请求端点 URL 来模拟 HTTPS 状态、错误响应、黑洞、超时等？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4mz7r/endpoint_url_i_can_request_to_simulate_https/</link>
-      <description><![CDATA[几年前，我使用了一项为调试目的提供 API 端点的服务，类似于 API 开发沙箱。 IIRC，它模拟了每个传入请求的错误响应。可以针对不同的 HTTP 状态、缓慢或永无止境的请求等测试客户端行为。没有 CORS 问题，非常方便。 它对任何人来说都敲响了警钟吗？我依稀记得有一个含有“黑洞”的域名    或其他什么。由   提交/u/ncuillery  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4mz7r/endpoint_url_i_can_request_to_simulate_https/</guid>
-      <pubDate>Mon, 15 Apr 2024 14:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用google登录创建用户时，在mongodb文档中输入密码的内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4mt4k/what_to_put_in_the_password_in_the_mongodb/</link>
-      <description><![CDATA[      当我通常让用户注册我的网站时，会有一个密码字段这是必需的，稍后用于对用户进行身份验证，但是当我使用谷歌注册时，我使用他们的姓名和电子邮件来创建用户，但我应该在密码字段中输入什么？我不能将其留空，因为它是猫鼬模式中的必需属性。  https://preview.redd .it/bg94omw9fnuc1.png?width=625&amp;format=png&amp;auto=webp&amp;s=4bebd368ef241a25169836fb25b655875cda453f /u/Issam_Seghir   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4mt4k/what_to_put_in_the_password_in_the_mongodb/</guid>
-      <pubDate>Mon, 15 Apr 2024 13:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端比较php和c#</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4mqet/comparing_php_and_c_in_backend/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4mqet/comparing_php_and_c_in_backend/</guid>
-      <pubDate>Mon, 15 Apr 2024 13:51:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
