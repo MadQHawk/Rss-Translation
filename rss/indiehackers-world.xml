@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 15 Apr 2024 15:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 18:16:59 GMT</lastBuildDate>
+    <item>
+      <title>使用身份验证即服务，还是自己构建？</title>
+      <link>https://feed.indiehackers.world/post/ca51cd5d30</link>
+      <description><![CDATA[然而，对于我想要实现的目标来说，它们似乎都太过强大，只是使用电子邮件和密码进行简单的用户身份验证。我不需要授权、用户角色、多重身份验证、单点登录等。我也不期望有大量的注册用户。
+💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这项特定服务？否则，您为什么决定自己编写代码？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ca51cd5d30</guid>
+      <pubDate>Mon, 15 Apr 2024 17:29:31 GMT</pubDate>
+    </item>
     <item>
       <title>医疗快递工作的工作委员会？</title>
       <link>https://feed.indiehackers.world/post/9a0dbdcdbd</link>
@@ -26,9 +35,9 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Fri, 12 Apr 2024 05:47:23 GMT</pubDate>
     </item>
     <item>
-      <title>生活仪表盘</title>
+      <title>生活仪表板</title>
       <link>https://feed.indiehackers.world/post/32ff6acfea</link>
-      <description><![CDATA[TLDR：模块化仪表板，可让您实施/跟踪对您来说重要的事情。
+      <description><![CDATA[TLDR：模块化仪表板，可让您实施/跟踪对您重要的事情。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/32ff6acfea</guid>
       <pubDate>Tue, 09 Apr 2024 21:19:36 GMT</pubDate>
@@ -114,7 +123,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Wed, 27 Mar 2024 14:53:14 GMT</pubDate>
     </item>
     <item>
-      <title>OTP 预付还是 7 天 IAP OTP 试用？</title>
+      <title>OTP 预付还是 IAP OTP 7 天试用？</title>
       <link>https://feed.indiehackers.world/post/441c96e832</link>
       <description><![CDATA[我一直在考虑如何销售我的 iOS 版基于简约文本的启动器 Dumbify。
 选项是：
@@ -149,18 +158,6 @@ https://birdsend.page/forms/9255/Mw7NC0sReJ
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dd59ef4d2c</guid>
       <pubDate>Wed, 20 Mar 2024 20:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建高级人工智能内容摘要器：我的对抗信息过载之旅</title>
-      <link>https://feed.indiehackers.world/post/f129b109a9</link>
-      <description><![CDATA[我们最近发布了音频播放的多语言支持，以便您可以用自己的语言收听所有摘要。
-前方的路
-构建 TubeOnAI 的旅程非常充实，但还远未结束。我们不断努力增强用户体验并扩展我们的能力。
-对于 IndieHackers 社区来说，当我应对 TubeOnAI 面临的挑战和机遇时，您的经验、批评和建议非常宝贵.
-无论您是开发者同行、内容创建者，还是只是热衷于利用技术让生活变得更轻松，请随时提供您的意见。我很想听听您的意见！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f129b109a9</guid>
-      <pubDate>Wed, 20 Mar 2024 20:16:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
