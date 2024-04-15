@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 22:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 03:16:38 GMT</lastBuildDate>
+    <item>
+      <title>像 WhatChanged 1.07 这样的程序除了更好之外？</title>
+      <link>https://www.reddit.com/r/software/comments/1c4bvvo/a_program_like_whatchanged_107_except_better/</link>
+      <description><![CDATA[我喜欢 WhatChanged，但不幸的是它并不完全是我所需要的.. Whatchanged 旨在快速进行动态分析，因为它不存储关闭后的目录数据！我知道大多数人倾向于活动或实时文件夹跟踪，但我不是 atm，所以不要试图说服我。我基本上想要一个程序（从其中）可以复制/快照我的目录名称，然后存储管理它们，所以它可以与未来的其他快照进行比较..当然，以一种有效的方式确定并指示我发生了什么变化（因为我不想处理分散的文本文件......）实际上我想做的是给出它是一个要扫描的目录，然后将其存储在数据库中，直到下次我想要比较..非常感谢您的帮助！ ❤️❤️👍🏼   由   提交/u/dokha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4bvvo/a_program_like_whatchanged_107_except_better/</guid>
+      <pubDate>Mon, 15 Apr 2024 03:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何打开 .vep 文件？</title>
+      <link>https://www.reddit.com/r/software/comments/1c4aw4b/how_do_i_open_vep_files/</link>
+      <description><![CDATA[我无法使用 avs 编辑器打开它们   由   提交 /u/OhMyKys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4aw4b/how_do_i_open_vep_files/</guid>
+      <pubDate>Mon, 15 Apr 2024 02:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网下载管理器 (IDM) 替代方案</title>
+      <link>https://www.reddit.com/r/software/comments/1c46fh0/internet_download_manager_idm_alternative/</link>
+      <description><![CDATA[大家好！我已经使用 IDM 一段时间了，不太喜欢这个界面，但我找不到具有相同功能集的替代品。浏览器集成使下载变得无缝，而且我可以非常轻松地从网站下载视频，这一事实是无价的。在视频的右上角旁边，您会看到 IDM 按钮，其中显示可用视频的丢失（不同质量），您可以快速选择要下载的视频的质量。 有吗还有其他具有该功能的下载管理器吗？我尝试过 Jdownloader2 和免费下载管理器。无法使用它们实现相同的功能或用户体验。   由   提交 /u/allmasksoneface   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c46fh0/internet_download_manager_idm_alternative/</guid>
+      <pubDate>Sun, 14 Apr 2024 22:39:32 GMT</pubDate>
+    </item>
     <item>
       <title>用于将文件放入文件夹并将文件夹重命名为文件名的 Windows 应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1c3zpsw/windows_app_for_putting_files_in_folders_and/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在使用 Parsec 在连接到另一个房间中运行 DAW (Abelton) 的主机的笔记本电脑客户端上录制音频。我正在使用使用 ASIO（audio id14）的音频接口。不幸的是，从 Parsec 的支持中询问，Parsec 似乎无法拾取任何 ASIO 音频，所以我听不到笔记本电脑上的任何音频，我必须从另一个房间运行耳机才能听到音频。他们是这么说的： “Parsec 只会拾取通过 Windows 播放的音频，而不拾取 ASIO 或类似的音频（因为 Windows 的 API 无法看到该音频来捕获它）”  我对这些东西不是很熟悉，但我认为这可能指的是 Realtek 音频驱动程序（这是我在音频混音器和界面中看到的）。  所以基本上听起来，如果我想从我的笔记本电脑听到音频，我需要某种方法将该音频从 ASIO 路由回 realtek /“windows 音频”。有谁知道我该怎么做？   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c39exz/software_for_routing_asio_audio_back_into_windows/</guid>
       <pubDate>Sat, 13 Apr 2024 19:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有向公众开放的政府软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</link>
-      <description><![CDATA[嘿r/software！我儿子对军事/国防/警察后勤感兴趣，我想下载一些软件（最好是免费的 Mac 版），看起来会用于跟踪导弹等军事战略。他喜欢感觉自己是国防部或其他部门中非常重要的人物。谢谢！   由   提交/u/Aggravating-Ad7467    reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于鼠标手势的最佳 Windows 软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1c35ztk/whats_the_best_windows_software_for_mouse_gestures/</link>
-      <description><![CDATA[各位晚上好，我正在寻找可以使用鼠标手势模拟键盘快捷键的软件推荐。例如。按住右键+光标向下= ctrl + w。 我寻找这个的原因主要是为了用不受浏览器限制的东西替换我的鼠标手势 Firefox 扩展（Gesturefy） . 谢谢   由   提交 /u/IMockNoveltyAccounts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c35ztk/whats_the_best_windows_software_for_mouse_gestures/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自动创建并行 Windows 文件夹之间的快捷方式</title>
-      <link>https://www.reddit.com/r/software/comments/1c35olk/how_to_automate_creation_of_shortcuts_between/</link>
-      <description><![CDATA[我想要自动执行一项涉及 Windows 文件夹和快捷方式的任务。 我希望您能指出我(1) 已经存在的软件可以自动执行此任务，或者 (2) 可以通过编程来自动执行此任务的软件（在这种情况下，我会在 Upwork 上找到某人来帮助编程）。 背景如下： 我们公司有两个父文件夹：FIELD 和 OFFICE 在这两个父文件夹中，我们有相同名称的项目子文件夹： 例如： Project1、Project2、Project3 - 这些项目子文件夹同时存在于 FIELD 和 OFFICE 中 这是任务： 目前，每次我们添加新项目（例如：Project4）时，我都会手动添加在 FIELD 中创建一个 Project4 子文件夹，我在 OFFICE 中手动创建一个 Project4 子文件夹，然后在 OFFICE\Project4 中，创建一个快捷方式，将我带到 FIELD\Project4 这是我要查找的内容：&lt; /h1&gt; 该软件可让我简单地浏览并选择两个父文件夹（FIELD 和 OFFICE），按一个按钮来检查并行子文件夹之间是否存在 OFFICE-to-FIELD 快捷方式，如果不存在则创建一个快捷方式. *在有人问“为什么不直接合并 OFFICE 和 FIELD 父文件夹？”之前？ - 数据安全和我们使用的一些其他应用程序使得这两个父文件夹必须保持独立而不是合并。 感谢大家的帮助！   由   提交/u/ClinoTool  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c35olk/how_to_automate_creation_of_shortcuts_between/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:19:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
