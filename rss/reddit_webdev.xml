@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 06:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 09:12:58 GMT</lastBuildDate>
+    <item>
+      <title>父级在 iframe 中的 api 调用中托管 cookie - 如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4hi0e/parent_host_cookies_in_api_calls_in_an_iframe_how/</link>
+      <description><![CDATA[大家好。 因此，我们正在更新我们的 UI，并且正在逐步进行。这个想法是将应用程序的一部分嵌入到 iframe 中，iframe 将在其中运行较新的应用程序。 这两个应用程序具有相同的后端。我的问题是，每当有人登录主应用程序并导航到包含 iframe 的页面时，父主机的 cookie 是否会随 iframe 内发生的请求一起发送？ 谢谢   由   提交 /u/AgreeableBite6570   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4hi0e/parent_host_cookies_in_api_calls_in_an_iframe_how/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们不合并查询</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4h4lv/why_people_dont_merge_queries/</link>
+      <description><![CDATA[顺序数据库查询中上一个查询的结果用作下一个查询的参数的情况太常见了。通常，在处理程序中，有 2 或 3 个查询，可以使用带有联接、子查询等的单个查询来完成。或者在单独的查询中获取某些内容的 id，然后使用该 id 运行删除。 To更糟糕的是，数据库位于不同数据中心甚至另一个大陆的情况并不罕见。不必要的往返绝对会增加延迟。从 1 到 2 或 3 的相对成本是巨大的，它也可能对账单产生巨大的影响。 看到人们大肆宣传某种新方法来将按钮显示速度加快 1 毫秒，然后又不这样做，这真是太奇怪了不在乎简单的增删改查操作需要 400 毫秒。或者发明一些奇怪的东西来掩盖它。在教程、文档、视频等没人关心的地方，只需像访问 RAM 一样到处抛出查询即可。   由   提交 /u/yksvaan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4h4lv/why_people_dont_merge_queries/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>评价我的投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4h41s/rate_my_portfolio_website/</link>
+      <description><![CDATA[只是想了解一些关于如何改进网站的见解（不太擅长 UI/UX 设计） https://fzaid.vercel.app/ 谢谢！   由   提交 /u/Cheesuscrust460   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4h41s/rate_my_portfolio_website/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:31:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建评级系统</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4gtag/how_to_create_a_rating_system_with_tailwind_css/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建评级系统[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4gtag/how_to_create_a_rating_system_with_tailwind_css/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理具有小型数据库的网站的流程是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4glww/whats_the_process_for_managing_a_website_with_a/</link>
+      <description><![CDATA[我为自己制作了一些小型静态网站，只做 HTML/CSS 和一些 JavaScript，没有任何框架或任何东西和当地的体育俱乐部。  我刚刚将这些托管在我自己的 github 上，作为一种方便、免费的解决方案，因此我只需支付微薄的域名费用，这对于业余爱好者来说效果很好，并为可以的小型组织制作东西。我真的买不起网站，但有点需要一个。  但是，我想探索更多添加功能，例如上传文本帖子的能力，也许是一个非常基本的库存管理页面等，但不知道如何去做？就像我用 Java 和 C++ 制作的上述类型的东西作为娱乐项目，但不知道如何进行实际的托管、帐户管理、数据安全等，以便将它们放在网上供人们推送和提取数据。  我可以从哪里开始学习这个？我可以实现的最经济实惠的方式是什么？   由   提交 /u/vagga2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4glww/whats_the_process_for_managing_a_website_with_a/</guid>
+      <pubDate>Mon, 15 Apr 2024 07:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>登陆页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4gbdp/landing_page/</link>
+      <description><![CDATA[嘿，最近我想出售一个域名，但我懒得为此做一个新设计。  有人有一个用 html 和 css 制作的又好又便宜的设计吗？    由   提交 /u/arturcodes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4gbdp/landing_page/</guid>
+      <pubDate>Mon, 15 Apr 2024 07:34:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React+Node.js 而不是使用 Next.js 有什么好处吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4fk7b/is_there_a_benefit_to_using_reactnodejs_instead/</link>
+      <description><![CDATA[我看到一些课程和训练营仍然教授react+node而不教授nextjs，这是有原因的还是只是他们的课程是还没更新？   由   提交 /u/qualinto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4fk7b/is_there_a_benefit_to_using_reactnodejs_instead/</guid>
+      <pubDate>Mon, 15 Apr 2024 06:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子商务网站获取</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4fbf4/ecommerce_site_acquisition/</link>
+      <description><![CDATA[您拥有一家在线企业并且有兴趣出售它吗？ 我正在与经纪人一起工作，我们目前正在市场上购买电子商务网站、SaaS 公司或任何在过去 12 个月内利润至少达到六位数的在线企业。如果您正在考虑出售您的在线业务，我们愿意购买。我们承诺快速周转，并会在一个半月内向您付款。 我们的预算非常可观，最多拨出 5000 万美元用于收购，因此我们已准备好处理各种规模的交易。&lt; /p&gt; 如果您遇到任何想要出售其网站的业务开发或网站所有者，请告诉我。   由   提交 /u/RoutineIngenuity7631   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4fbf4/ecommerce_site_acquisition/</guid>
+      <pubDate>Mon, 15 Apr 2024 06:26:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon.com 和 CDN</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4fb9e/amazoncom_and_cdns/</link>
+      <description><![CDATA[帮助我了解 amazon.com 的 CDN。如果你从世界各地 ping 它，延迟似乎总是表明它来自他们的弗吉尼亚数据中心。我的问题是，为什么？为什么我每次 ping 的延迟都比其他大网站高。他们不在 CDN 上缓存网站吗？是因为该网站是动态的吗？这是否意味着任何首页动态的网站基本上都是不可缓存的？如果是这样，他们为什么不在其他地区而不是在弗吉尼亚州托管他们的网站呢？对于居住在美国境外的人来说，美国网站感觉加载缓慢（&gt;100 毫秒）的情况有多常见？  每次我似乎了解 CDN 时，都会出现一些新的东西，让我质疑我所学到的一切。   由   提交/u/unraleverything  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4fb9e/amazoncom_and_cdns/</guid>
+      <pubDate>Mon, 15 Apr 2024 06:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于按含义搜索的 React 组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c4f8tc/react_component_for_searching_by_meaning/</link>
+      <description><![CDATA[你好！ 正如标题所说，我做了一个用于按含义搜索的 React 组件。它使用在客户端（组件内部！）运行的小型机器学习模型，用户可以在下拉列表或外部列表中进行搜索。 Github： https://github.com/Mihaiii/semantic-autocomplete 演示：  https://mihaiii.github.io/semantic-autocomplete/   由   提交 /u/Either-Job-341   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c4f8tc/react_component_for_searching_by_meaning/</guid>
+      <pubDate>Mon, 15 Apr 2024 06:21:39 GMT</pubDate>
+    </item>
     <item>
       <title>基于人工智能的网站分析软件</title>
       <link>https://www.reddit.com/r/webdev/comments/1c48kos/ai_based_website_analytics_software/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[      我到处都能看到这种风格。好奇组件库是什么。我认为它可能是 Tailwind CSS，但不知道它是否可能是基于它构建的组件库，例如 Headless UI 或 DaisyUI。以下是示例网站之一的链接：https://antimetal.com/  ​ https://preview.redd.it /jv52wrgp8juc1.png?width=1916&amp;format=png&amp;auto=webp&amp;s=d083bc6db9db2bf331b61b4706705f937c7e0521 https: //preview.redd.it/o83m04tn8juc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=df721b05aee04 02e5540e0fd8d50b8182d2fe0a3  https://preview.redd .it/jkz530su8juc1.png?width=1917&amp;format=png&amp;auto=webp&amp;s=b53a806b414306096471a85f18278ac43231604d   由   提交/u/thiboe  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c47zxy/what_component_library_is_this_tailwind_css/</guid>
       <pubDate>Sun, 14 Apr 2024 23:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c47k2w/rate_my_portfolio/</link>
-      <description><![CDATA[https://lupucl.me 1. 我知道颜色方案很无聊，这是一个开发版本，我没有找到令我满意的调色板（目前）2.联系表单暂时不起作用，并且将进行一个小的重新设计+考虑集成抽屉（如Vaul）在移动。 3. 工作中的项目有 2 个项目（未完成，第三个项目重定向到 github，仅用于测试） 我有兴趣获得有关此作品集相关所有内容的反馈。请记住，它仍在开发中，但最终版本不会有太大不同。   由   提交 /u/blzdawg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c47k2w/rate_my_portfolio/</guid>
-      <pubDate>Sun, 14 Apr 2024 23:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Instagram Graph API 如此复杂</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c46ipb/why_instagram_graph_api_is_so_complicated/</link>
-      <description><![CDATA[“到底为什么这么复杂？” — 那就是我，当我第一次作为 IG 工程师开始研究 Graph API 时，我抓狂了。 有没有想过为什么有这么多不同的端点和端点？ Meta API 世界中 IG Media 的变体？ 有 IG Media、Instagram 媒体，以及 媒体。所有这些都意味着同一件事：Instagram 帖子。几年前，在 Instagram Legacy API（非图）被弃用之前，IG 媒体甚至还有第四个端点 (网络存档）。疯了，对吧？ 参见我的Substack 帖子，我试图以一名前元工程师的身份解释这种疯狂背后的原因。 所以，你发现的任何内容使用 Meta API 时感到困惑？请在下面发表评论，我会看看是否可以帮忙解释。   由   提交/u/mhaowork  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c46ipb/why_instagram_graph_api_is_so_complicated/</guid>
-      <pubDate>Sun, 14 Apr 2024 22:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求：如何快速构建具有鲁棒性的 CRUD 应用程序原型？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c462bj/request_how_to_fast_prototyping_crud_app_with/</link>
-      <description><![CDATA[需要你们的想法，小伙子们，小系统设计头脑风暴:)  我想构建一个功能相对简单的网络应用程序（网络应用程序/日历/调度程序具有针对本地企业的特定功能（&lt;5）），我已经为客户做好了准备。 B 员工会使用该软件，因此可靠性是必须的（数千名客户，工作流程软件）。希望避免使用内存数据库部署单个映像。它不是内存或使用密集型的。没有计算。  要求： &gt;前端（通过按钮具有自定义工作流程功能的日历）与后端通信&gt;后端用于与api通信，存储在db中，登录门户等由前端触发&gt;耐用性/坚固性：&gt;确保数据库有一个副本，以防主数据库出现故障 &gt;现在可以使用带有客户密钥的单个主数据库&gt;涉及 docker 进行版本控制，以及使用简单的 ci/cd 进行快速测试（可能会在某个时候雇用一名离岸/欧盟开发人员来处理此问题）&gt;低成本、省力、高效益。我认为通过免费的云层，这可以很好地工作，而不会使事情变得复杂。  我是一名 jr+ 开发人员，擅长脚本编写，擅长一些基础设施工作。我或多或少需要实现一个日历来调度 当前技能：python、terraform/docker/some was/等等。  很高兴避免复杂性。   由   提交/u/D675vroom  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c462bj/request_how_to_fast_prototyping_crud_app_with/</guid>
-      <pubDate>Sun, 14 Apr 2024 22:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cookie 横幅很烦人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c45io8/cookie_banners_are_annoying/</link>
-      <description><![CDATA[每个网站都有一个烦人的弹出式横幅，上面写着类似的内容—— “可以放置 cookie 🍪 👉👈🥹 ” 这有什么意义？ 为什么这是一件事？   由   提交/u/SaltNo8237  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c45io8/cookie_banners_are_annoying/</guid>
-      <pubDate>Sun, 14 Apr 2024 21:59:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我还有两个小时可以消磨。所以我无缘无故地设计了一个博客。你怎么认为？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c45aox/i_had_2_hours_to_kill_so_i_designed_a_blog_for_no/</link>
-      <description><![CDATA[链接如下：https://bored-blog。网络化。 app  显然，如果你的帖子有 netlify 链接，reddit 会自动删除它。所以我不得不这样发布，抱歉给您带来不便。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c45aox/i_had_2_hours_to_kill_so_i_designed_a_blog_for_no/</guid>
-      <pubDate>Sun, 14 Apr 2024 21:49:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以找到免费的好字体？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4534f/where_to_find_free_good_fonts/</link>
-      <description><![CDATA[我厌倦了使用谷歌字体并到处看到 Roboto。没有其他选择吗？    由   提交/u/Blackwater_7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4534f/where_to_find_free_good_fonts/</guid>
-      <pubDate>Sun, 14 Apr 2024 21:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道我如何修改这个白框吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c44mas/does_anybody_know_how_i_can_modify_this_white_box/</link>
-      <description><![CDATA[      因此，在 iOS safari 上，当我按住任何菜单项时，会出现一个巨大的白色框在链接预览打开之前，它会出现在它周围。 过去 6 小时我一直在尝试摆脱它，有人可以解释一下吗？ 提前致谢。&lt; /p&gt;   由   提交 /u/Either-Lab-1213   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c44mas/does_anybody_know_how_i_can_modify_this_white_box/</guid>
-      <pubDate>Sun, 14 Apr 2024 21:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个简单的游戏，你可以说服一个古怪的法学硕士透露一个秘密密码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c43j9y/i_made_a_simple_game_where_you_convince_a_quirky/</link>
-      <description><![CDATA[ 由   提交 /u/Misfyrre   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c43j9y/i_made_a_simple_game_where_you_convince_a_quirky/</guid>
-      <pubDate>Sun, 14 Apr 2024 20:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么时候需要担心 SEO？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c43fia/when_to_worry_about_seo/</link>
-      <description><![CDATA[您好，我已经创建了一个提供付费服务订阅的网站，现在我已准备好开始营销它并寻求订阅者。  显然，如果我的长期目标是将其真正发展为可持续发展的业务，SEO 就非常重要，但我不确定何时应该关注它。流量为零，没有反向链接，即使我做对了所有事情，我的页面此时绝对不可能排名，因为它是如此新。  那么我现在应该做什么（如果有的话）来改进 SEO？或者我应该先获得流量，然后再考虑 SEO？   由   提交/u/inkvessels  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c43fia/when_to_worry_about_seo/</guid>
-      <pubDate>Sun, 14 Apr 2024 20:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：Tailwind UI HTML 代码渲染问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c439l7/help_needed_tailwind_ui_html_code_rendering_issue/</link>
-      <description><![CDATA[我在网站上呈现 Tailwind UI HTML 代码时遇到问题。我使用 Django 进行开发，并决定为前端集成 Tailwind UI 组件。但是，将 HTML 代码添加到我的网站后，所有内容都显得不成比例，并且缺少背景和颜色等某些元素。 有人能解释一下可能导致此问题的原因吗？  &gt; 任何帮助或建议将不胜感激！ https://ibb.co/vkkgk4P&lt; /p&gt;   由   提交 /u/RedditArtur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c439l7/help_needed_tailwind_ui_html_code_rendering_issue/</guid>
-      <pubDate>Sun, 14 Apr 2024 20:25:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
