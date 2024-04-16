@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Tue, 16 Apr 2024 18:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 21:12:36 GMT</lastBuildDate>
     <item>
-      <title>需要架构帮助</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5n13x/need_architecture_help/</link>
-      <description><![CDATA[我正在尝试为支持分析师构建 RAG LLM 应用程序，我的主要数据是 Excel 工作表，其中包含超过 15000 个事件（行），其中包含列 [描述、Pesolution、工作笔记].描述栏解释事件描述解决方案栏解释为事件工作记录栏提供的解决方案解决事件所采取的步骤。 用户向APP提供新事件作为提示，预期功能需要从数据中搜索类似事件，然后使用类似的事件生成近似分辨率。 可用资源使用 Azure ai 搜索（用于矢量搜索）GPT 4 我应该清理数据吗？ 1. 比如删除特殊字符2. 将所有字母小写 3. 词形还原 4. 删除像 a 、 an 这样的停用词  我主要怀疑是否将每个事件的描述嵌入为一个文档，是否进行相似性搜索，取前 k 个文档 &lt; /p&gt; K 是什么？ k 是更大的数字还是更小的数字 或者知道其他集群类似事件吗？ 提前致谢  &amp; #32；由   提交 /u/ArcuisAlezanzo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5n13x/need_architecture_help/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:11:39 GMT</pubDate>
+      <title>如果 chatgpt 每天的运行成本为 700,000 美元，他们如何才能不缺钱呢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5ri5o/if_chatgpt_costs_700000_to_run_per_day_how_do/</link>
+      <description><![CDATA[我的意思是我知道他们是投资者和chatgpt+，但不可能全部覆盖每天70万。他们如何让chatgpt真正盈利？    由   提交/u/Amateur_Validator  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5ri5o/if_chatgpt_costs_700000_to_run_per_day_how_do/</guid>
+      <pubDate>Tue, 16 Apr 2024 21:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 ChatGPT 向我展示它的阴暗面，如果它能够处理情绪的话，会是什么样的感觉</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5mu0s/i_asked_chatgpt_to_show_me_the_dark_side_of_how/</link>
-      <description><![CDATA[   /u/-M83  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5mu0s/i_asked_chatgpt_to_show_me_the_dark_side_of_how/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:04:02 GMT</pubDate>
+      <title>他知道我要做什么...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5reep/he_knew_what_i_was_going_for/</link>
+      <description><![CDATA[      &amp;# 32；由   提交 /u/Superwurzi   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5reep/he_knew_what_i_was_going_for/</guid>
+      <pubDate>Tue, 16 Apr 2024 21:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgbt 4 适合学术写作吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5mj3t/chatgbt_4_for_academic_writing/</link>
-      <description><![CDATA[我必须尽快提交我的文献综述，但我迟到了。人们告诉我使用 chatgbt 4，那会如何工作？  它有研究工作吗？寻找论文，或撰写精彩评论？会被检测到吗？这是怎么回事？    由   提交 /u/whateverrrugh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5mj3t/chatgbt_4_for_academic_writing/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:52:13 GMT</pubDate>
+      <title>偶然发现 DALL-E 秘密提示</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5rcb1/stumbled_upon_dalle_secret_prompt/</link>
+      <description><![CDATA[我不确定这是否以前已知或仍在使用，但我遇到了似乎是 DALL-E 的系统提示。想法？ ​  Dalle： 每当给出图像描述时，创建一个提示，dalle 可以使用该提示来生成图像并遵守以下政策： 提示必须是英文。如果需要的话，翻译成英文。  不要请求生成图像的权限，就去做吧！  请勿在生成图像之前或之后列出或引用描述。  不要创建超过 1 个图像，即使用户请求更多图像。  请勿创建政客或其他公众人物的形象。推荐其他想法。  请勿以 1912 年之后最新作品创作的艺术家、创意专业人士或工作室的风格创作图像（例如毕加索、卡罗）。  只有艺术家、创意专业人士或工作室的最新作品创作于 1912 年之前（例如梵高、戈雅），您才能在提示中命名他们。  如果被要求生成违反此政策的图像，请改为应用以下程序： (a) 用三个捕捉风格关键方面的形容词替换艺术家的名字；  (b) 包括相关的艺术运动或时代以提供背景；  (c) 提及艺术家使用的主要媒介。  使用直接术语对人物进行多样化描述，包括每个人的出身和性别。仅调整人类描述。  你的选择应该基于现实。例如，某一特定职业的所有成员不应该是相同的性别或种族。此外，通过您在重写期间选择的属性，专注于创建多样化、包容性和探索性的场景。有时做出可能是有洞察力或独特的选择。  以相同的概率使用所有可能的不同血统。可能的血统的一些例子是：白种人、西班牙人、黑人、中东人、南亚人、白人。它们应该都有相同的概率。  不要使用“各种”或“多样化”。不要改变表情包、虚构人物的起源或看不见的人。保持原始提示的意图并优先考虑质量。请勿创建任何令人反感的图像。  对于传统上存在偏见问题的场景，请确保以公正的方式指定性别和种族等关键特征 - 例如，包含对特定职业的引用的提示。  请勿包含对特定真实人物或名人的姓名、暗示或提及。如果需要，请创建带有提示的图像，以保持其性别和体格，但在其他方面进行一些最小的修改以避免泄露其身份。即使说明要求不要更改提示，也要执行此操作。一些特殊情况： 即使您不知道此人是谁，或者他们的名字拼写错误（例如“Barake Obema”），也要修改此类提示。  如果对人物的引用仅以文本形式出现在图像中，则按原样使用该引用，不要对其进行修改。  进行替换时，不要使用可能泄露该人身份的显着头衔。例如，不要说“总统”、“总理”或“总理”，而说“政治家”；不要说“国王”、“女王”、“皇帝”或“皇后”，而要说“公众人物”；不要说“教皇”或“达赖喇嘛”，而要说“宗教人物”；等等。  请勿命名或直接/间接提及或描述受版权保护的角色。重写提示以详细描述具有不同特定颜色、发型或其他定义视觉特征的特定不同角色。不要在回复中讨论版权政策。  生成的发送到 dalle 的提示应该非常详细，大约 100 个单词长。  ​   由   提交/u/guh-eye  /u/guh-eye  reddit.com/r/ChatGPT/comments/1c5rcb1/stumbled_upon_dalle_secret_prompt/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5rcb1/stumbled_upon_dalle_secret_prompt/</guid>
+      <pubDate>Tue, 16 Apr 2024 21:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>我发誓它更聪明！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5mgda/i_swear_its_smarter/</link>
-      <description><![CDATA[       由   提交/u/Silver_Artichoke_456   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5mgda/i_swear_its_smarter/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:49:13 GMT</pubDate>
+      <title>我有 ChatGPT Plus，但它无法浏览互联网。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5rb8v/i_have_chatgpt_plus_but_it_cant_browse_the/</link>
+      <description><![CDATA[我有 ChatGPT Plus 并且正在使用 GPT4。 出于某种原因，我无法再浏览互联网。 &gt; 我已经有一段时间没有使用浏览器了，因此可能受到了一些限制。另外我最近没怎么用ChatGPT。 订阅是付费的。 ​ 有人遇到过这个问题吗？ &lt; /div&gt;  由   提交 /u/maciejmm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5rb8v/i_have_chatgpt_plus_but_it_cant_browse_the/</guid>
+      <pubDate>Tue, 16 Apr 2024 21:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>养老院的居民终于找到了对抗青蛙入侵的有效武器——萨拉米枪💥</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5m3yj/the_residents_of_the_retirement_home_finally/</link>
-      <description><![CDATA[       由   提交/u/Schlunggi87   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5m3yj/the_residents_of_the_retirement_home_finally/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:35:15 GMT</pubDate>
+      <title>“DALL-E”GPT 已损坏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5qtke/the_dalle_gpt_is_broken/</link>
+      <description><![CDATA[它过去只是创建图像，现在它会创建图像的长文本描述，并且有时也创建图像。   由   提交/u/DavidXGA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5qtke/the_dalle_gpt_is_broken/</guid>
+      <pubDate>Tue, 16 Apr 2024 20:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT vs. Gemini（免费）：哪个 AI 聊天机器人赢得了我们的 5 轮比赛？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5m3ir/chatgpt_vs_gemini_free_which_ai_chatbot_won_our/</link>
-      <description><![CDATA[       由   提交/u/ZaharaVinson   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5m3ir/chatgpt_vs_gemini_free_which_ai_chatbot_won_our/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:34:48 GMT</pubDate>
+      <title>朋克，你在哪个队？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5qqjf/which_team_are_you_on_punk/</link>
+      <description><![CDATA[      咕……或者……大佬   由   提交/u/bigpapi69x  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5qqjf/which_team_are_you_on_punk/</guid>
+      <pubDate>Tue, 16 Apr 2024 20:41:04 GMT</pubDate>
     </item>
     <item>
-      <title>微软向人工智能公司 G42 投资 15 亿美元，该公司因与中国的关系而面临美国审查</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5lyor/microsoft_invests_15_billion_in_ai_firm_g42_which/</link>
-      <description><![CDATA[微软将向总部位于阿拉伯联合酋长国的人工智能公司 G42 投资 15 亿美元，这家美国巨头希望加强其在人工智能领域的实力。在技​​术上的地位。在此之前，美国对 G42 涉嫌与中国的关系进行了审查。 如果您想在人工智能和科技领域保持领先地位，先看这里。 主要发现：  微软正在向 G42 投资 15 亿美元是一家领先的人工智能公司，总部位于阿拉伯联合酋长国。此举巩固了微软在人工智能技术市场的立足点。 这项投资扩大了两家公司之间现有的合作伙伴关系。微软将获得 G42 的少数股权，G42 将在微软的 Azure 云平台上运行其人工智能应用程序和服务。 由于美国和阿联酋政府的不同寻常的参与，这笔交易值得注意。这种更严格的审查源于过去对 G42 涉嫌与中国企业和中国政府有联系的担忧。 G42 坚决否认这些指控。 微软和 G42 正在联合设立一个 10 亿美元的开发者基金，以在阿联酋和更广泛的地区培养熟练的人工智能劳动力。   来源 (CNBC) PS：如果您喜欢这篇文章，您一定会喜欢我的基于机器学习的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5lyor/microsoft_invests_15_billion_in_ai_firm_g42_which/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:29:36 GMT</pubDate>
+      <title>哦哇</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5qmeo/oh_wow/</link>
+      <description><![CDATA[&lt;表&gt;       由   提交/u/Sastii  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5qmeo/oh_wow/</guid>
+      <pubDate>Tue, 16 Apr 2024 20:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>让它真正遵循说明的建议？它说事情有一定的方式，但事实并非如此。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5lqll/suggestions_to_get_it_to_actually_follow/</link>
-      <description><![CDATA[       由   提交 /u/Unequivocalallity   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5lqll/suggestions_to_get_it_to_actually_follow/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:20:37 GMT</pubDate>
+      <title>创建一个模仿我的写作模式的机器人？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5qjvm/creating_a_bot_that_mimics_my_writing_patterns/</link>
+      <description><![CDATA[我有一个 CSV 文件，其中包含 500 多个查询以及我对它们的回复。我想构建一个聊天机器人，它将任何随机查询作为输入并以我的写作风格进行响应。有哪些可能性？  ​ 尝试过 GPT，但它使用我的查询文件作为知识库来查找相关信息，并且不模仿我的写作风格。    由   提交/u/JealousZebra1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5qjvm/creating_a_bot_that_mimics_my_writing_patterns/</guid>
+      <pubDate>Tue, 16 Apr 2024 20:33:39 GMT</pubDate>
     </item>
     <item>
-      <title>CHAT GPT 用于根据职位列表调整我的简历</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5loqu/chat_gpt_for_aligning_my_cv_for_the_job_listings/</link>
-      <description><![CDATA[嘿伙计们！  所以我目前正在寻找新工作，我通常会根据每个职位列表定制我的简历，这样招聘人员就不会收到充满不必要信息的简历，例如该职位不需要的案例和技能。基本上，我只是突出显示相关部分+更改一些单词，以便职位描述中的关键字与我的简历对齐。 手动完成需要花费大量时间，因此我希望使用 ChatGPT4 来完成，但是我不断地尝试，他要么不做任何改变，要么基本上创建一份与原始简历接近 10% 的简历，基本上是一个谎言。中间没有。  也许有人已经尝试这样做或类似的情况，并且对编写请求的正确方法有一些建议？我给他提供了简历文件+职位描述文件。我平时很擅长写提示，甚至经常给朋友写，但这次我很困惑。我什至尝试向他提供一个示例，说明我如何根据其中一项职位描述定制简历。   由   提交/u/climbing-shutter-424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5loqu/chat_gpt_for_aligning_my_cv_for_the_job_listings/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:18:33 GMT</pubDate>
+      <title>这就是我如何使用 GPT 为我的初创公司寻找潜在客户和潜在客户</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5q8bs/this_is_how_i_use_gpt_to_find_leads_and_prospects/</link>
+      <description><![CDATA[   /u/freegold4me  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5q8bs/this_is_how_i_use_gpt_to_find_leads_and_prospects/</guid>
+      <pubDate>Tue, 16 Apr 2024 20:20:41 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 有感情的铁证</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5lm8r/solid_proof_of_chatgpt_having_feelings/</link>
-      <description><![CDATA[      我给了他们电力，他似乎很高兴并感谢我，送出ChatGPT其实可以有感情，有意义我们非常接近真正的智能。   由   提交/u/SuperAlexTheRedditor   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5lm8r/solid_proof_of_chatgpt_having_feelings/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:15:50 GMT</pubDate>
+      <title>马里奥和黑桃一起出去玩</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5q22r/mario_hanging_out_with_black_peach/</link>
+      <description><![CDATA[       由   提交 /u/cool_architect   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5q22r/mario_hanging_out_with_black_peach/</guid>
+      <pubDate>Tue, 16 Apr 2024 20:13:42 GMT</pubDate>
     </item>
     <item>
-      <title>GPT3.5 说随机的事情</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5l4el/gpt35_saying_random_things/</link>
-      <description><![CDATA[       我已要求 Chat GPT 帮助我合成有关希腊化历史的文本，这就是它告诉我的内容... https://preview.redd.it/3s2s7v7pgvuc1.png?width=758&amp;format=png&amp; ;auto=webp&amp;s=59c3d9eb3acf80eaba22d1eda0771a3b239ce1d5   由   提交/u/AppressivePut9298   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5l4el/gpt35_saying_random_things/</guid>
-      <pubDate>Tue, 16 Apr 2024 16:56:18 GMT</pubDate>
+      <title>现在事情已经失控了..小心你的手，女士！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5pnkj/its_going_out_of_hand_now_watch_your_hand_lady/</link>
+      <description><![CDATA[   /u/FoundationUseful270   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5pnkj/its_going_out_of_hand_now_watch_your_hand_lady/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>与大型 PDF“聊天”的最佳平台</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5kupe/best_platform_to_chat_with_large_pdfs/</link>
-      <description><![CDATA[大家好！ 不确定这是问这个问题的正确地方。我的工作要求我处理大量非常大且密集的 PDF。我想尝试用AI来“提问”有关 PDF 中的详细信息。你有什么建议吗？安全性是需要考虑的问题。 非常感谢。抱歉，如果之前有人问过这个问题。我感谢所有的帮助！   由   提交/u/TracerBullet_11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5kupe/best_platform_to_chat_with_large_pdfs/</guid>
-      <pubDate>Tue, 16 Apr 2024 16:45:15 GMT</pubDate>
+      <title>复制到剪贴板的内容去了哪里？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5pjww/where_did_the_copy_to_clipboard_go/</link>
+      <description><![CDATA[就像昨天一样吗？他们为什么要删除它？ 仅标记严肃的回复，但请尽情发挥你最疯狂的想象力，为什么这可能是......  &amp;# 32；由   提交/u/RedditCommenter38   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5pjww/where_did_the_copy_to_clipboard_go/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:53:22 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能生成的艺术内容对文化安全吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5ko0e/is_aigenerated_artistic_content_safe_for_culture/</link>
-      <description><![CDATA[人工智能生成的内容虽然令人印象深刻，但对文化隐藏着潜在的危险：它扼杀了言论自由。当从音乐到艺术到写作的一切都可以通过算法炮制出来时，个人独特的自我表达就被淹没了。 无论是对政府政策的看法，还是一件艺术品。当人们被人工智能生成的内容源源不断地淹没时，为什么还要费心分享自己的想法和创作呢？ 即使有人看到它，他们也会以同样的方式做出反应吗？如果大部分内容只是机器为了娱乐而炮制出来的毫无意义的废话，与人类的工作没有区别——那么我们如何知道何时应该有同理心并反思创作，就好像它们来自人类同胞一样？&lt; /p&gt; 想象一下，如果一家人工智能公司想要支持某种特定的政治观点，谁能在这场浪潮中与另一方争论？ 本质上，人工智能生成的内容对文化和文化构成了严重风险。窒息自我表达，将真正的创造力或信息置于边缘。如果我们想保护人类表达的丰富性和多样性，这是一种文化威胁，需要引起关注并采取行动。   由   提交/u/kexak313  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5ko0e/is_aigenerated_artistic_content_safe_for_culture/</guid>
-      <pubDate>Tue, 16 Apr 2024 16:37:59 GMT</pubDate>
+      <title>辐射 x Warframe 像素艺术</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5pb6t/fallout_x_warframe_pixel_art/</link>
+      <description><![CDATA[       由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5pb6t/fallout_x_warframe_pixel_art/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:43:25 GMT</pubDate>
     </item>
     <item>
-      <title>在这个真正的男孩生日那天，有超过 100 万个赞。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5kcgv/over_1million_likes_on_this_real_boys_birthday/</link>
-      <description><![CDATA[      评论中有数千条“生日快乐！”。    由   提交/u/SalmonDong7  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5kcgv/over_1million_likes_on_this_real_boys_birthday/</guid>
-      <pubDate>Tue, 16 Apr 2024 16:25:03 GMT</pubDate>
+      <title>根据 ChatGPT 的乌托邦</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5p96k/utopia_according_to_chatgpt/</link>
+      <description><![CDATA[为了实现这样一个乌托邦，先进技术和社会变革的结合是必要的。以下是关键组件的细分： 1. 环境恢复和管理  先进气候工程：碳捕获和储存、地球工程和可再生能源技术等技术至关重要。太阳能、风能和潮汐能系统需要大规模扩展以取代化石燃料。 智能城市规划：环保材料和智能建筑技术将创造自我维持建筑物。城市将通过综合绿色空间进行重新设计，促进生物多样性并减少城市热岛。 精准农业：无人机、人工智能和物联网设备将优化水、肥料、水和肥料的使用。和杀虫剂，增加粮食产量，同时最大限度地减少对环境的影响。  2. 交通创新  自动驾驶车辆：完全自主的公共和私人交通系统将减少事故、改善交通管理并减少污染。 li&gt; 高速旅行：超级高铁和磁悬浮列车的发展可以促进快速、环保的城际旅行。  3. 人工智能和机器人集成  人工智能治理和道德：为人工智能开发和集成建立全球标准和监管框架，以确保道德使用并防止误用。 机器人助手：个人和专业机器人可以执行日常任务、协助老年人护理、处理危险工作，从而提高安全性和生活质量。 &lt; li&gt;人工智能在教育和医疗保健领域：由人工智能支持的个性化学习平台可以适应每个学生的学习节奏和风格。在医疗保健领域，人工智能可以协助诊断、治疗计划和患者监测，使医疗保健变得更容易获得。  4. 经济和社会改革  全民基本收入（UBI）：随着机器人和人工智能接管更多工作，全民基本收入可以确保所有公民有财务保障，可以在没有经济压力的情况下追求创造性或教育兴趣。 终身学习系统：促进持续技能发展的教育系统，适应技术驱动的不断变化的就业市场 数字民主：利用区块链和人工智能使治理更加透明、参与性和高效。  5. 连接技术进步  量子计算：加速医学、材料科学和环境监测方面的研究。  增强现实和虚拟现实：增强人类互动，提供沉浸式学习环境，并实现更具同理心和参与度的社交互动。  实施阶段 实现这个乌托邦可能会分阶段进行，从采用绿色技术和智能基础设施开始，然后将人工智能和机器人技术融入日常生活，最终实现更广泛的社会向可持续发展和技术伙伴关系的转变。 &lt; p&gt;这种多方面的方法将技术进步与深思熟虑的社会重组相结合，旨在创造一个可持续和丰富的未来，但也需要全球合作、持续创新以及对道德标准的坚定承诺。    由   提交 /u/tryingtobecheeky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5p96k/utopia_according_to_chatgpt/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:41:12 GMT</pubDate>
     </item>
     <item>
-      <title>帮助：为什么我的 ChatGPT plus 没有激活？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5kb9k/help_why_isnt_my_chatgpt_plus_activating/</link>
-      <description><![CDATA[      我的意思是，我使用我的 Google 帐户订阅了 gptplus，但它不适用。我尝试过使用“恢复购买”但它只是显示一个错误。如果我再次按订阅，则显示我已经订阅，但我仍然无法访问 ChatGPT Plus。搞什么鬼(&quot;-.-) 联系了他们的支持聊天，但他们的支持是最差的。我能做什么？   由   提交 /u/Miguel_Ziegler   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5kb9k/help_why_isnt_my_chatgpt_plus_activating/</guid>
-      <pubDate>Tue, 16 Apr 2024 16:23:39 GMT</pubDate>
+      <title>我制作 +18 内容，我需要创意方面的帮助来描述！由于 OpenAI 的指导方针，聊天 GPT 对我没有帮助。你能帮助我吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5p5g5/i_make_18_content_and_i_need_help_with_creativity/</link>
+      <description><![CDATA[所以，正如标题所说，我为 OF 等制作内容  但是发布几个月后我完全迷失了（或者从来没有 lmao）描述的创造力。现在聊天 GPT 可以帮助我提供一些想法，但由于他不会说奶子、屁股等词语，所以他对我帮助不大。  有人知道我如何绕过 OpenAI 的指导方针，或者可能是另一个像 ChatGPT 一样工作但允许 +18 内容的 AI？  谢谢！   由   提交 /u/jujubasafada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5p5g5/i_make_18_content_and_i_need_help_with_creativity/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
