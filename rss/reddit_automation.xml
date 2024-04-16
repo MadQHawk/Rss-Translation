@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 16 Apr 2024 15:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:14:27 GMT</lastBuildDate>
+    <item>
+      <title>Devin AI 的制造者是否对他们的能力撒谎了？</title>
+      <link>https://www.reddit.com/r/automation/comments/1c5n0jh/did_the_makers_of_devin_ai_lie_about_their/</link>
+      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c5n0jh/did_the_makers_of_devin_ai_lie_about_their/</guid>
+      <pubDate>Tue, 16 Apr 2024 18:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI 与狭义人工智能的区别在于，狭义人工智能在特定任务上表现出色，它具有理解、学习和应用跨学科知识的能力，类似于人类的智力。</title>
+      <link>https://www.reddit.com/r/automation/comments/1c5mykl/agi_is_distinguished_from_narrow_ai_which_excels/</link>
+      <description><![CDATA[   /u/quantum-warrior  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c5mykl/agi_is_distinguished_from_narrow_ai_which_excels/</guid>
+      <pubDate>Tue, 16 Apr 2024 18:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议问题：我的研究可以自动化吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</link>
+      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行 - 我需要寻找/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</guid>
+      <pubDate>Tue, 16 Apr 2024 15:26:22 GMT</pubDate>
+    </item>
     <item>
       <title>共享工具、Perfect.Studio、Onimator、Jolie。您曾经使用过这些自动化工具吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好， 我在工作中有一个小用例。我们有几个客户，每个客户都有一个用户列表（电子邮件），我们向客户提供服务，因此无论如何都可以映射客户的电子邮件并让他们选择该电子邮件并发送批量邮件？有什么办法可以避免邮件变成垃圾邮件吗？例如，客户只需访问我们的门户，选择电子邮件列表，然后单击发送，电子邮件就会从 client1@abc.com 发出，当另一个客户来时，同样的事情发生了，但现在电子邮件从 client2@xyz.com 感谢任何帮助。提前致谢！    由   提交/u/Sayv_mait   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c1sef8/email_automation/</guid>
       <pubDate>Thu, 11 Apr 2024 22:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>你知道如何使用 go-ios 对 iOS 应用程序进行逆向工程吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c1hxft/do_you_know_how_tò_reverse_engigneer_ios_app_with/</link>
-      <description><![CDATA[ 由   提交 /u/Visible-Employment43    reddit.com/r/automation/comments/1c1hxft/do_you_know_how_tò_reverse_engigneer_ios_app_with/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c1hxft/do_you_know_how_tò_reverse_engigneer_ios_app_with/</guid>
-      <pubDate>Thu, 11 Apr 2024 15:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的项目有何想法？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c1gnhh/thoughts_on_my_project/</link>
-      <description><![CDATA[像 Zapier 这样的主流平台可以让我们一睹自动化的潜力，但它们可能无法满足每个企业独特、复杂的需求。与此同时，软件咨询公司提供定制解决方案，但价格高昂。 ​ 在实现家庭自动化时，您目前如何应对将不同软件系统集成到家庭中的挑战如果客户有自定义需求，自动化流不是主流？ ​ https ://forms.gle/wBLGoo2uggXehJyMA - 如果您有更多时间查看两名学生的礼品卡解决方案:) 查看投票   由   提交 /u/Downtown-Swordfish22    reddit.com/r/automation/comments/1c1gnhh/thoughts_on_my_project/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c1gnhh/thoughts_on_my_project/</guid>
-      <pubDate>Thu, 11 Apr 2024 14:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meet AnythingLLM：一款适用于本地 LLM + RAG 的开源、一体化 AI 桌面应用程序</title>
-      <link>https://www.reddit.com/r/automation/comments/1c1fnpl/meet_anythingllm_an_opensource_allinone_ai/</link>
-      <description><![CDATA[ 由   提交/u/High_Sleep3694   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c1fnpl/meet_anythingllm_an_opensource_allinone_ai/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:54:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

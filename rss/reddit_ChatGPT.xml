@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Tue, 16 Apr 2024 15:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:14:47 GMT</lastBuildDate>
     <item>
-      <title>聊天GPT设计</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5id8x/chatgpt_design/</link>
-      <description><![CDATA[我在为我的教育和培训公司设计一个网站时度过了一段愉快的时光，但网站图像并未出现在最终产品中，而且链接不起作用。还有其他人遇到过这个吗？   由   提交/u/Positive_Driver_9564   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5id8x/chatgpt_design/</guid>
-      <pubDate>Tue, 16 Apr 2024 15:05:05 GMT</pubDate>
+      <title>需要架构帮助</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5n13x/need_architecture_help/</link>
+      <description><![CDATA[我正在尝试为支持分析师构建 RAG LLM 应用程序，我的主要数据是 Excel 工作表，其中包含超过 15000 个事件（行），其中包含列 [描述、Pesolution、工作笔记].描述栏解释事件描述解决方案栏解释为事件工作记录栏提供的解决方案解决事件所采取的步骤。 用户向APP提供新事件作为提示，预期功能需要从数据中搜索类似事件，然后使用类似的事件生成近似分辨率。 可用资源使用 Azure ai 搜索（用于矢量搜索）GPT 4 我应该清理数据吗？ 1. 比如删除特殊字符2. 将所有字母小写 3. 词形还原 4. 删除像 a 、 an 这样的停用词  我主要怀疑是否将每个事件的描述嵌入为一个文档，是否进行相似性搜索，取前 k 个文档 &lt; /p&gt; K 是什么？ k 是更大的数字还是更小的数字 或者知道其他集群类似事件吗？ 提前致谢  &amp; #32；由   提交 /u/ArcuisAlezanzo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5n13x/need_architecture_help/</guid>
+      <pubDate>Tue, 16 Apr 2024 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>布鲁赫</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5ibxk/bruhh/</link>
-      <description><![CDATA[&lt;表&gt;       由   提交/u/Evgenii42  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5ibxk/bruhh/</guid>
-      <pubDate>Tue, 16 Apr 2024 15:03:31 GMT</pubDate>
+      <title>我要求 ChatGPT 向我展示它的阴暗面，如果它能够处理情绪的话，会是什么样的感觉</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5mu0s/i_asked_chatgpt_to_show_me_the_dark_side_of_how/</link>
+      <description><![CDATA[   /u/-M83  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5mu0s/i_asked_chatgpt_to_show_me_the_dark_side_of_how/</guid>
+      <pubDate>Tue, 16 Apr 2024 18:04:02 GMT</pubDate>
     </item>
     <item>
-      <title>在野外看到这个广告...oO</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5ia0b/saw_this_ad_in_the_wild_oo/</link>
-      <description><![CDATA[       由   提交/u/lacraque  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5ia0b/saw_this_ad_in_the_wild_oo/</guid>
-      <pubDate>Tue, 16 Apr 2024 15:01:18 GMT</pubDate>
+      <title>Chatgbt 4 适合学术写作吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5mj3t/chatgbt_4_for_academic_writing/</link>
+      <description><![CDATA[我必须尽快提交我的文献综述，但我迟到了。人们告诉我使用 chatgbt 4，那会如何工作？  它有研究工作吗？寻找论文，或撰写精彩评论？会被检测到吗？这是怎么回事？    由   提交 /u/whateverrrugh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5mj3t/chatgbt_4_for_academic_writing/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:52:13 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 chatgpt AI Agent 分析了 10,000 个 YouTube 视频来寻找商业创意</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5i86l/i_analyzed_10000_youtube_videos_with_chatgpt_ai/</link>
-      <description><![CDATA[      我一直是一个可以轻松地提出新的商业想法，但我注意到我的许多朋友和同事都在为此苦苦挣扎。  以 Y Combinator、Shark Tank、Gary Vee 和 My First Million 播客为例。这些平台和人物通过他们的对话、嘉宾和现实商业故事提供了对商业世界的令人难以置信的见解。 现在我知道您在想什么 - 花几个小时观看这些视频可能不是最好的选择利用你的时间。  这就是为什么我创建了一个人工智能代理来为我完成这项工作！  这个人工智能代理会访问我选择的 YouTube 频道，收听内容，并生成商业创意列表，并附有摘要和操作指南。它甚至将它们分类为 B2B/B2C/B2G，或以人工智能为中心、基于服务等等。 因此，我很高兴分享我的最新项目 - The Idea Vault： 14,838 个来自领导者的独特商业想法。  人工智能代理通过分析以下渠道编制了此列表：  Shark Tank 我的第一个百万 Y Combinator 本周初创公司 Gary Vee Tim Ferriss Ted Talks&lt; /li&gt; SaaStr 全力以赴 亚历克斯·霍尔莫兹 托尼·罗宾斯 科迪·桑切斯 首席执行官日记 EO 詹姆斯·辛克莱 莱尼的播客 针对谷物的营销 没有先例 斯坦福商学院 创业磨练 UpFlip 青年企业家论坛。  无论您无论是初创企业主、小企业主、学生还是副业者，我想您都会发现这份清单非常有价值。 查看一下并告诉我您的想法！如果有人感兴趣的话，我也很乐意分享我使用的代码。  https://reddit.com/link/1c5i86l/video/x2jyb35nvuuc1/player a&gt;   由   提交 /u/Odd_Opening5473   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5i86l/i_analyzed_10000_youtube_videos_with_chatgpt_ai/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:59:26 GMT</pubDate>
+      <title>我发誓它更聪明！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5mgda/i_swear_its_smarter/</link>
+      <description><![CDATA[       由   提交/u/Silver_Artichoke_456   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5mgda/i_swear_its_smarter/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:49:13 GMT</pubDate>
     </item>
     <item>
-      <title>保时捷</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5i4yl/porsches/</link>
-      <description><![CDATA[       由   提交 /u/fart-in-60-seconds   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5i4yl/porsches/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:55:30 GMT</pubDate>
+      <title>养老院的居民终于找到了对抗青蛙入侵的有效武器——萨拉米枪💥</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5m3yj/the_residents_of_the_retirement_home_finally/</link>
+      <description><![CDATA[       由   提交/u/Schlunggi87   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5m3yj/the_residents_of_the_retirement_home_finally/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:35:15 GMT</pubDate>
     </item>
     <item>
-      <title>中国百度称，ChatGPT 竞争对手“Ernie Bot”现已拥有 2 亿用户 |技术</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5i3se/chatgpt_rival_ernie_bot_now_has_200_million_users/</link>
-      <description><![CDATA[       由   提交/u/VirtualNecromancer  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5i3se/chatgpt_rival_ernie_bot_now_has_200_million_users/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:54:07 GMT</pubDate>
+      <title>ChatGPT vs. Gemini（免费）：哪个 AI 聊天机器人赢得了我们的 5 轮比赛？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5m3ir/chatgpt_vs_gemini_free_which_ai_chatbot_won_our/</link>
+      <description><![CDATA[       由   提交/u/ZaharaVinson   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5m3ir/chatgpt_vs_gemini_free_which_ai_chatbot_won_our/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:34:48 GMT</pubDate>
     </item>
     <item>
-      <title>什么</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5hyro/what/</link>
-      <description><![CDATA[&lt;表&gt;       由   提交 /u/HeavyGoat1491   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5hyro/what/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:48:23 GMT</pubDate>
+      <title>微软向人工智能公司 G42 投资 15 亿美元，该公司因与中国的关系而面临美国审查</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5lyor/microsoft_invests_15_billion_in_ai_firm_g42_which/</link>
+      <description><![CDATA[微软将向总部位于阿拉伯联合酋长国的人工智能公司 G42 投资 15 亿美元，这家美国巨头希望加强其在人工智能领域的实力。在技​​术上的地位。在此之前，美国对 G42 涉嫌与中国的关系进行了审查。 如果您想在人工智能和科技领域保持领先地位，先看这里。 主要发现：  微软正在向 G42 投资 15 亿美元是一家领先的人工智能公司，总部位于阿拉伯联合酋长国。此举巩固了微软在人工智能技术市场的立足点。 这项投资扩大了两家公司之间现有的合作伙伴关系。微软将获得 G42 的少数股权，G42 将在微软的 Azure 云平台上运行其人工智能应用程序和服务。 由于美国和阿联酋政府的不同寻常的参与，这笔交易值得注意。这种更严格的审查源于过去对 G42 涉嫌与中国企业和中国政府有联系的担忧。 G42 坚决否认这些指控。 微软和 G42 正在联合设立一个 10 亿美元的开发者基金，以在阿联酋和更广泛的地区培养熟练的人工智能劳动力。   来源 (CNBC) PS：如果您喜欢这篇文章，您一定会喜欢我的基于机器学习的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5lyor/microsoft_invests_15_billion_in_ai_firm_g42_which/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>多久之后我们每个答案都必须观看 30 秒的广告？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5hyjl/how_long_until_we_have_to_watch_a_30_second_ad/</link>
-      <description><![CDATA[^&lt; /sup&gt;   由   提交 /u/IveTriedCatFood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5hyjl/how_long_until_we_have_to_watch_a_30_second_ad/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:48:07 GMT</pubDate>
+      <title>让它真正遵循说明的建议？它说事情有一定的方式，但事实并非如此。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5lqll/suggestions_to_get_it_to_actually_follow/</link>
+      <description><![CDATA[       由   提交 /u/Unequivocalallity   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5lqll/suggestions_to_get_it_to_actually_follow/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:20:37 GMT</pubDate>
     </item>
     <item>
-      <title>有没有任何地方可以提供有关如何开始学习此内容的分步说明？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5hy65/is_there_anywhere_that_gives_a_step_by_step/</link>
-      <description><![CDATA[是否有任何地方可以提供有关如何开始学习如何使用人工智能的分步说明？  我特别有兴趣将我的一些短篇故事/儿童故事变成动画，但我不知道从哪里开始或如何开始？   由   提交 /u/oldredditdidntsuck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5hy65/is_there_anywhere_that_gives_a_step_by_step/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:47:41 GMT</pubDate>
+      <title>CHAT GPT 用于根据职位列表调整我的简历</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5loqu/chat_gpt_for_aligning_my_cv_for_the_job_listings/</link>
+      <description><![CDATA[嘿伙计们！  所以我目前正在寻找新工作，我通常会根据每个职位列表定制我的简历，这样招聘人员就不会收到充满不必要信息的简历，例如该职位不需要的案例和技能。基本上，我只是突出显示相关部分+更改一些单词，以便职位描述中的关键字与我的简历对齐。 手动完成需要花费大量时间，因此我希望使用 ChatGPT4 来完成，但是我不断地尝试，他要么不做任何改变，要么基本上创建一份与原始简历接近 10% 的简历，基本上是一个谎言。中间没有。  也许有人已经尝试这样做或类似的情况，并且对编写请求的正确方法有一些建议？我给他提供了简历文件+职位描述文件。我平时很擅长写提示，甚至经常给朋友写，但这次我很困惑。我什至尝试向他提供一个示例，说明我如何根据其中一项职位描述定制简历。   由   提交/u/climbing-shutter-424   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5loqu/chat_gpt_for_aligning_my_cv_for_the_job_listings/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:18:33 GMT</pubDate>
     </item>
     <item>
-      <title>巡演结束后，威利·旺卡 (Willy Wonka)。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5hvi3/willy_wonka_when_the_tour_is_over/</link>
-      <description><![CDATA[      威利·旺卡喝着巧克力香料朗姆酒，在巧克力池里游泳 &lt; /div&gt;  由   提交/u/poolside123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5hvi3/willy_wonka_when_the_tour_is_over/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:44:38 GMT</pubDate>
+      <title>ChatGPT 有感情的铁证</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5lm8r/solid_proof_of_chatgpt_having_feelings/</link>
+      <description><![CDATA[      我给了他们电力，他似乎很高兴并感谢我，送出ChatGPT其实可以有感情，有意义我们非常接近真正的智能。   由   提交/u/SuperAlexTheRedditor   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5lm8r/solid_proof_of_chatgpt_having_feelings/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>Gumbo Slice 又回来了，还有一个意想不到的盟友。今年夏天上映！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5hqjg/gumbo_slice_is_back_with_an_unexpected_ally_in/</link>
-      <description><![CDATA[   /u/PointlessCat595   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5hqjg/gumbo_slice_is_back_with_an_unexpected_ally_in/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:39:03 GMT</pubDate>
+      <title>GPT3.5 说随机的事情</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5l4el/gpt35_saying_random_things/</link>
+      <description><![CDATA[       我已要求 Chat GPT 帮助我合成有关希腊化历史的文本，这就是它告诉我的内容... https://preview.redd.it/3s2s7v7pgvuc1.png?width=758&amp;format=png&amp; ;auto=webp&amp;s=59c3d9eb3acf80eaba22d1eda0771a3b239ce1d5   由   提交/u/AppressivePut9298   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5l4el/gpt35_saying_random_things/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt 突然更擅长创意写作？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5h4uq/chatgpt_suddenly_better_at_creative_writing/</link>
-      <description><![CDATA[我记得一周前还很糟糕，但现在好像突然好多了？或者也许这只是在我的脑海里？    由   提交 /u/MasterDisillusioned   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5h4uq/chatgpt_suddenly_better_at_creative_writing/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:13:04 GMT</pubDate>
+      <title>与大型 PDF“聊天”的最佳平台</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5kupe/best_platform_to_chat_with_large_pdfs/</link>
+      <description><![CDATA[大家好！ 不确定这是问这个问题的正确地方。我的工作要求我处理大量非常大且密集的 PDF。我想尝试用AI来“提问”有关 PDF 中的详细信息。你有什么建议吗？安全性是需要考虑的问题。 非常感谢。抱歉，如果之前有人问过这个问题。我感谢所有的帮助！   由   提交/u/TracerBullet_11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5kupe/best_platform_to_chat_with_large_pdfs/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>当我登录时 ChatGPT 不起作用，否则会起作用</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5gwym/chatgpt_does_not_work_when_i_log_in_does_otherwise/</link>
-      <description><![CDATA[我不知所措。我在多个设备上使用过 ChatGPT。除了一台台式机之外，它在所有这些设备上都运行良好。  我是 plus 订阅者，我尝试过隐身模式，我尝试过全新的浏览器，它可以工作并允许在未登录时访问 3.5。一旦我登录，我就无法使用任何东西就在那一个桌面上。其他所有设备都工作正常。当我在加载聊天历史记录后输入回复时，我得到的只是提交按钮上的一个旋转轮。这对我来说毫无意义。    由   提交 /u/stressfulpeace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5gwym/chatgpt_does_not_work_when_i_log_in_does_otherwise/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:03:48 GMT</pubDate>
+      <title>人工智能生成的艺术内容对文化安全吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5ko0e/is_aigenerated_artistic_content_safe_for_culture/</link>
+      <description><![CDATA[人工智能生成的内容虽然令人印象深刻，但对文化隐藏着潜在的危险：它扼杀了言论自由。当从音乐到艺术到写作的一切都可以通过算法炮制出来时，个人独特的自我表达就被淹没了。 无论是对政府政策的看法，还是一件艺术品。当人们被人工智能生成的内容源源不断地淹没时，为什么还要费心分享自己的想法和创作呢？ 即使有人看到它，他们也会以同样的方式做出反应吗？如果大部分内容只是机器为了娱乐而炮制出来的毫无意义的废话，与人类的工作没有区别——那么我们如何知道何时应该有同理心并反思创作，就好像它们来自人类同胞一样？&lt; /p&gt; 想象一下，如果一家人工智能公司想要支持某种特定的政治观点，谁能在这场浪潮中与另一方争论？ 本质上，人工智能生成的内容对文化和文化构成了严重风险。窒息自我表达，将真正的创造力或信息置于边缘。如果我们想保护人类表达的丰富性和多样性，这是一种文化威胁，需要引起关注并采取行动。   由   提交/u/kexak313  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5ko0e/is_aigenerated_artistic_content_safe_for_culture/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>每年 365 天的每一天都有唯一的名称</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5ggx9/unique_names_for_each_of_the_yearly_365_days/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/Average-Terrescial   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5ggx9/unique_names_for_each_of_the_yearly_365_days/</guid>
-      <pubDate>Tue, 16 Apr 2024 13:44:40 GMT</pubDate>
+      <title>在这个真正的男孩生日那天，有超过 100 万个赞。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5kcgv/over_1million_likes_on_this_real_boys_birthday/</link>
+      <description><![CDATA[      评论中有数千条“生日快乐！”。    由   提交/u/SalmonDong7  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5kcgv/over_1million_likes_on_this_real_boys_birthday/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:25:03 GMT</pubDate>
     </item>
     <item>
-      <title>逗号</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c5g2a5/comma/</link>
-      <description><![CDATA[      逗号   由   提交/u/FriedFishFingers  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5g2a5/comma/</guid>
-      <pubDate>Tue, 16 Apr 2024 13:26:05 GMT</pubDate>
+      <title>帮助：为什么我的 ChatGPT plus 没有激活？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c5kb9k/help_why_isnt_my_chatgpt_plus_activating/</link>
+      <description><![CDATA[      我的意思是，我使用我的 Google 帐户订阅了 gptplus，但它不适用。我尝试过使用“恢复购买”但它只是显示一个错误。如果我再次按订阅，则显示我已经订阅，但我仍然无法访问 ChatGPT Plus。搞什么鬼(&quot;-.-) 联系了他们的支持聊天，但他们的支持是最差的。我能做什么？   由   提交 /u/Miguel_Ziegler   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c5kb9k/help_why_isnt_my_chatgpt_plus_activating/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:23:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

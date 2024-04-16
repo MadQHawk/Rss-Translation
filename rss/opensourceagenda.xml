@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 16 Apr 2024 15:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:16:17 GMT</lastBuildDate>
+    <item>
+      <title>Tradinggview 交易查看高级版</title>
+      <link>https://www.opensourceagenda.com/projects/tradinggview-trading-view-premium</link>
+      <description><![CDATA[交易视图溢价]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tradinggview-trading-view-premium</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:16 GMT</pubDate>
+    </item>
     <item>
       <title>集成系统</title>
       <link>https://www.opensourceagenda.com/projects/integrationos</link>
       <description><![CDATA[开源统一 API]]></description>
       <guid>https://www.opensourceagenda.com/projects/integrationos</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:57 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:16 GMT</pubDate>
     </item>
     <item>
       <title>法学命令 R</title>
       <link>https://www.opensourceagenda.com/projects/llm-command-r</link>
       <description><![CDATA[访问 Cohere Command R 系列模型]]></description>
       <guid>https://www.opensourceagenda.com/projects/llm-command-r</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:57 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:16 GMT</pubDate>
     </item>
     <item>
       <title>曼巴AD</title>
       <link>https://www.opensourceagenda.com/projects/mambaad</link>
       <description><![CDATA[MambaAD 的正式实现：探索多类无监督异常检测的状态空间模型。]]></description>
       <guid>https://www.opensourceagenda.com/projects/mambaad</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的当地抹布</title>
-      <link>https://www.opensourceagenda.com/projects/easy-local-rag</link>
-      <description><![CDATA[SuperEasy 100% 本地 RAG 与 Ollama]]></description>
-      <guid>https://www.opensourceagenda.com/projects/easy-local-rag</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>从零到英雄使用 Terraform 部署全栈 AWS 架构</title>
-      <link>https://www.opensourceagenda.com/projects/zero-to-hero-deploying-a-full-stack-aws-architecture-using-terraform</link>
-      <description><![CDATA[确保高AWS 中的可用性：多可用区部署 Terraform 指南]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zero-to-hero-deploying-a-full-stack-aws-architecture-using-terraform</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tradinggview 交易查看高级版</title>
-      <link>https://www.opensourceagenda.com/projects/tradinggview-trading-view-premium</link>
-      <description><![CDATA[交易视图溢价]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tradinggview-trading-view-premium</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>DKWDRV</title>
-      <link>https://www.opensourceagenda.com/projects/dkwdrv</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dkwdrv</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>XWorm RAT V5.6</title>
-      <link>https://www.opensourceagenda.com/projects/xworm-rat-v56</link>
-      <description><![CDATA[这是名为 Xworm 的最新版本的私有 RAT。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xworm-rat-v56</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:55 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:16 GMT</pubDate>
     </item>
     <item>
       <title>控制适配器</title>
       <link>https://www.opensourceagenda.com/projects/ctrl-adapter</link>
       <description><![CDATA[CTRL-Adapter 的官方实现：一个高效且多功能的框架，用于使多样化控件适应任何扩散模型]]></description>
       <guid>https://www.opensourceagenda.com/projects/ctrl-adapter</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:55 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:15 GMT</pubDate>
     </item>
     <item>
-      <title>WARP2sub</title>
-      <link>https://www.opensourceagenda.com/projects/warp2sub</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/warp2sub</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:54 GMT</pubDate>
+      <title>简单的当地抹布</title>
+      <link>https://www.opensourceagenda.com/projects/easy-local-rag</link>
+      <description><![CDATA[SuperEasy 100% 本地 RAG 与 Ollama]]></description>
+      <guid>https://www.opensourceagenda.com/projects/easy-local-rag</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:15 GMT</pubDate>
     </item>
     <item>
-      <title>新型 MEV BOT 三明治</title>
-      <link>https://www.opensourceagenda.com/projects/new-mev-bot-sandwich</link>
-      <description><![CDATA[💸 智能合约 (mevbot/.) 赚取加密货币]]></description>
-      <guid>https://www.opensourceagenda.com/projects/new-mev-bot-sandwich</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:54 GMT</pubDate>
+      <title>从零到英雄使用 Terraform 部署全栈 AWS 架构</title>
+      <link>https://www.opensourceagenda.com/projects/zero-to-hero-deploying-a-full-stack-aws-architecture-using-terraform</link>
+      <description><![CDATA[确保高AWS 中的可用性：多可用区部署 Terraform 指南]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zero-to-hero-deploying-a-full-stack-aws-architecture-using-terraform</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:15 GMT</pubDate>
     </item>
     <item>
       <title>女廖</title>
       <link>https://www.opensourceagenda.com/projects/nv-lio</link>
       <description><![CDATA[基于法向量的多层激光雷达惯性里程计]]></description>
       <guid>https://www.opensourceagenda.com/projects/nv-lio</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:54 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:14 GMT</pubDate>
     </item>
     <item>
       <title>永恒节点</title>
       <link>https://www.opensourceagenda.com/projects/eternal-nodes</link>
       <description><![CDATA[👇 手机往下滑 📱 一个能每天自动生成高速机场的小站]]></description>
       <guid>https://www.opensourceagenda.com/projects/eternal-nodes</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:54 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>链接预览</title>
-      <link>https://www.opensourceagenda.com/projects/link-peek</link>
-      <description><![CDATA[将常规链接展开为丰富预览的 Web 组件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/link-peek</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:53 GMT</pubDate>
+      <title>DKWDRV</title>
+      <link>https://www.opensourceagenda.com/projects/dkwdrv</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dkwdrv</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>XWorm RAT V5.6</title>
+      <link>https://www.opensourceagenda.com/projects/xworm-rat-v56</link>
+      <description><![CDATA[这是名为 Xworm 的最新版本的私有 RAT。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xworm-rat-v56</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:14 GMT</pubDate>
     </item>
     <item>
       <title>MSFT 驱动程序块列表</title>
       <link>https://www.opensourceagenda.com/projects/msft-driverblocklist</link>
       <description><![CDATA[基于操作系统版本的 Microsoft 驱动程序阻止列表存储库]]></description>
       <guid>https://www.opensourceagenda.com/projects/msft-driverblocklist</guid>
-      <pubDate>Tue, 16 Apr 2024 15:13:53 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>WARP2sub</title>
+      <link>https://www.opensourceagenda.com/projects/warp2sub</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/warp2sub</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>新型 MEV BOT 三明治</title>
+      <link>https://www.opensourceagenda.com/projects/new-mev-bot-sandwich</link>
+      <description><![CDATA[💸 智能合约 (mevbot/.) 赚取加密货币]]></description>
+      <guid>https://www.opensourceagenda.com/projects/new-mev-bot-sandwich</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>链接预览</title>
+      <link>https://www.opensourceagenda.com/projects/link-peek</link>
+      <description><![CDATA[将常规链接展开为丰富预览的 Web 组件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/link-peek</guid>
+      <pubDate>Tue, 16 Apr 2024 18:16:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
