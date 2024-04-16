@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 12:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 15:12:25 GMT</lastBuildDate>
+    <item>
+      <title>人工智能创新每日纪事 2024 年 4 月 16 日：🎬Adobe 与 OpenAI、RunwayML 和 Pika 合作开发 Premiere Pro 🚀Reka 推出 Reka Core：他们在多模式人工智能领域的前沿； 🇯🇵 OpenAI 将在东京开设第一家国际办事处 🤖Hugging Face 推出了 Idefics2 💬Quora 的 Poe 等❗</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5icaf/a_daily_chronicle_of_ai_innovations_april_16_2024/</link>
+      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5icaf/a_daily_chronicle_of_ai_innovations_april_16_2024/</guid>
+      <pubDate>Tue, 16 Apr 2024 15:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个可以执行翻译和 NLP 任务的 AI，同时以特定的自定义格式输出结果</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5hx19/i_need_an_ai_that_can_do_translation_and_nlp/</link>
+      <description><![CDATA[有很多翻译和 NLP 引擎/AI，但我见过没有一个能够以我正在构建的应用程序所需的方式输出结果。  似乎从 openAI 训练自定义 GPT 可能是答案，但我很困惑这些的确切用例是什么。另外，我使用 GPT-4 作为翻译器的经验变化很大，有时它以一种方式解释事物，有时以另一种方式解释事物。我需要一些非常一致的东西。  在构建/训练自己的 GPT 时，结果是否更加一致？ 我还应该研究其他人工智能选项吗？ 我是一名初学者最终开发人员，有一些数据结构/算法和统计知识，但我认为在人工智能方面没有任何真正相关的知识   由   提交/u/falafelsatchel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5hx19/i_need_an_ai_that_can_do_translation_and_nlp/</guid>
+      <pubDate>Tue, 16 Apr 2024 14:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 AI 代理的最佳工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5h7rm/best_tools_for_creating_ai_agent/</link>
+      <description><![CDATA[Tl;dr - 构建可连接到您的 Google Ads 帐户的 AI Google Ads 代理 &gt;分析您的广告&gt;建议关键字、标题等优化以提高点击次数等。 为房地产经纪人特定的 Google 广告信息构建知识库的最佳方式是什么？ / 像相关性人工智能这样的东西是我应该利用的工具类型吗？    由   提交/u/99user99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5h7rm/best_tools_for_creating_ai_agent/</guid>
+      <pubDate>Tue, 16 Apr 2024 14:16:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Copilot Studio 构建简单的自定义机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5gdle/building_a_simple_custom_bot_with_copilot_studio/</link>
+      <description><![CDATA[关于是否可以使用 Copilot Studio 完成此操作，我得到了相互矛盾的意见，但也许这里有人会知道： - 我希望为我们公司构建一个系统，任何人都可以通过向机器人提供文档和预期行为（语气、答案格式等）来创建自定义机器人。 - 例如人力资源部门的人员可以将 20 个 HR 文档（ppt、pdf、文档）上传到一个文件夹，并向机器人提供一组如何处理请求的命令  - 然后该机器人将发布在共享点页面或团队上渠道，或任何地方  - 最关键的是机器人的创建尽可能简单，就像 ChatGPT 创建者一样，但要保持数据安全并将数据的使用仅限于文档给定 ​ 这可以通过 Copilot studio 实现吗？   由   提交 /u/Popoliini   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5gdle/building_a_simple_custom_bot_with_copilot_studio/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:40:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>工具搜索：AI视频生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5frrp/tool_search_ai_video_generator/</link>
+      <description><![CDATA[嘿！我对人工智能还很陌生，但我一直在尝试 Midjourney - 简单的东西，主要只是为了我的艺术。所以我绝不是专家 - 请原谅我的外行问题。 我在一家电视制作公司工作，我正在为纪录片项目寻找视频生成人工智能。具体来说，我正在寻找一种工具，可以将现有的（真实的）视频材料输入其中，然后该工具将为我生成该材料的重新创建版本。这种工具真的存在吗？  我感谢每一个正确方向的提示&lt;3谢谢你们 ​   由   提交 /u/dieschickeria   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5frrp/tool_search_ai_video_generator/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据产品的数据编排</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5fjxm/data_orchestration_for_data_products/</link>
+      <description><![CDATA[开源工具、一体化控制平面和对数据产品速度的影响 📃 在本文中，Hugo Lu 分享了关于数据产品中数据编排基本考虑因素的专家见解。他深入研究了： 💠 开源工作流编排工具与一体式控制平面 💠 OSS 编排系统促进反模式 💠 统一数据编排如何影响数据产品速度 💠 现有数据编排解决方案的不足 在博客中详细了解所有这些内容，以获得对“数据产品的数据编排”的丰富见解。 📩 𝐑𝐞𝐚𝐝 𝐭𝐡𝐞 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐚𝐫𝐭𝐢𝐜𝐥𝐞𝐡𝐞𝐫𝐞 ：https://moderndata101.substack.com/p/unified-data-orchestration-for -数据产品   由   提交/u/growth_man  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5fjxm/data_orchestration_for_data_products/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:02:36 GMT</pubDate>
+    </item>
     <item>
       <title>恢复文本</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5dgew/recover_text/</link>
@@ -18,20 +60,6 @@
       <description><![CDATA[一些公司已经采用（部署？）人工智能聊天机器人，德克萨斯州最近表示将使用人工智能来评估他们的 STAAR 测试（初始评分）。这些只是使用人工智能的公司/组织的几个例子。我一点也不反对使用人工智能。但我确实对现阶段技术的质量有些担忧，例如，对于德克萨斯州的学生来说，他们将接受人工智能评估——如果人工智能很初级并且给学生打错分怎么办？这所带来的后果不仅仅是通过或失败，学生的信心水平会受到怎样的影响，或者在公司网站上出现流氓聊天机器人的情况下（想想 DPD 事件——英国的送货初创公司）——它可能造成的潜在声誉损害如果这种情况发生在多家公司身上，则对公司进行。  我完全支持节省成本的技术，请不要误会我的意思。😅但我不确定我们是否已经实现了彻底改革一些核心功能，例如客户服务和学校评分。有些功能不能被允许成为“哦，但技术太早了”的受害者，不是孩子们，不是孩子们。寻找其他不太重要的功能来“省钱”。我们必须在某个地方划清界限。 渴望听到您的想法。    由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5d5fh/ai_is_the_tech_ready_or_are_we_just_desperate_to/</guid>
       <pubDate>Tue, 16 Apr 2024 10:55:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 LangGraph 和 LangChain 的多代理面试小组</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5ctv0/multi_agent_interview_panel_using_langgraph_and/</link>
-      <description><![CDATA[查看此演示，了解我如何开发多代理系统，首先生成给定工作角色的面试小组，然后这些面试官通过以下方式面试候选人一（依次），提供反馈，最终综合所有反馈来选择候选人。查找代码解释&amp;初级产品经理自动面试演示：https://youtu.be/or36qevjxGE?si=cM1LMhe5J_hnpyFO   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5ctv0/multi_agent_interview_panel_using_langgraph_and/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude.ai 和一位艺术家……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5cdhs/claudeai_and_an_artist/</link>
-      <description><![CDATA[我使用了 Claude.ai，上传了a 20纸板上的分钟丙烯画，提示如下： 描述这项工作，讨论美学并提出改进建议 这就是结果： 这幅画描绘了一位戴着大护目镜、戴着亮黄色围巾或头巾的女性的引人注目的肖像。艺术家使用厚重、富有表现力的笔触和大胆的调色板来创造出充满活力且有些抽象的表现形式。焦点是女人的脸，用粉红色和白色渲染，眼镜后面有一双扭曲的大眼睛，反映出超现实的形状和人物。亮黄色头巾与较暗的背景色调形成鲜明对比，增添了活力和动感。背景本身是蓝色、棕色和黑色的漩涡，营造出一种大气且略显混乱的环境。从美学上来说，这幅作品具有动态和表现主义的特质，可见的笔触和扭曲的形式传达了一种情感，或许还有内心的混乱。对比鲜明的颜色和纹理创造出视觉上引人注目且引人入胜的构图。就潜在的改进而言，绘画的某些区域可能会受益于进一步的细化或细节，特别是在面部特征和背景元素的渲染方面。此外，可以通过探索不同的位置或裁剪来加强构图，以增强整体影响和焦点。但需要注意的是，这些建议都是主观的，应考虑艺术家的意图和个人风格。总的来说，这部作品通过对色彩、纹理和抽象的大胆运用，呈现出迷人而富有情感的描绘。 对于我们获得客观观点来说，这是多么棒的资源啊！语言令人难以置信。想法？   由   提交/u/riawarra  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5cdhs/claudeai_and_an_artist/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:05:01 GMT</pubDate>
     </item>
     <item>
       <title>您在自托管法学硕士和工具使用方面有什么经验？</title>
@@ -48,27 +76,6 @@
       <pubDate>Tue, 16 Apr 2024 07:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>Llama 2 简介：彻底改变开源语言模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5934m/introducing_llama_2_revolutionizing_opensource/</link>
-      <description><![CDATA[Llama 2 已经到来，改变了开源大型语言模型 (LLM) 的面貌。这个强大的功能由 Meta AI 开发，提供从文本生成到代码编写的广泛功能。 包括基础和微调的“聊天”功能。对于模型，Llama 2 分别提供了灵活的定制基础和用于参与对话的预训练模型。突破性的是它的可访问性；与它的前身 Llama 1 不同，Llama 2 完全免费用于研究和商业用途，为创新的自然语言处理 (NLP) 应用打开了大门。 为了更深入地探索 Llama 2、其应用程序和技术见解，请深入博客 - https://www.seaflux。 tech/blogs/Llama-2-Meta-AI-Open-Source-Language-Model   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5934m/introducing_llama_2_revolutionizing_opensource/</guid>
-      <pubDate>Tue, 16 Apr 2024 06:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>释放生成式 AI 的力量：使用 AWS Bedrock 构建突破性应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5912t/unleash_the_power_of_generative_ai_build/</link>
-      <description><![CDATA[努力跟上生成式人工智能的快速发展？ AWS Bedrock 为开发人员提供一站式服务。通过单个 API 访问人工智能领域领先品牌的各种高性能基础模型。使用数据微调模型，利用预构建的代理，并专注于构建创新应用程序。 有关详细研究，请参阅博客 - https://www.seaflux.tech/blogs/aws-bedrock-models    ;由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5912t/unleash_the_power_of_generative_ai_build/</guid>
-      <pubDate>Tue, 16 Apr 2024 06:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能面临的偏见</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5861c/ai_bias_faced/</link>
-      <description><![CDATA[大家好，我正在做一个小项目，需要了解你们面临人工智能种族或性别偏见的个人故事或事件。我的论文基于消除人工智能偏见的重要性以及训练数据的选择如何产生深远的影响。请分享您的个人经历和故事，这将是一个巨大的帮助。谢谢。    由   提交/u/ewwwdavid13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5861c/ai_bias_faced/</guid>
-      <pubDate>Tue, 16 Apr 2024 05:21:41 GMT</pubDate>
-    </item>
-    <item>
       <title>🔥 突发事件：Adobe 探索 OpenAI 合作伙伴关系，增加 AI 视频工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c55nkk/breaking_adobe_explores_openai_partnership_as_it/</link>
       <description><![CDATA[Adobe 正在其 Premiere Pro 软件中引入基于人工智能的高级功能，彻底改变视频的编辑方式。 战略性与 OPENAI 合作  合作详情：Adobe 计划将 OpenAI 的生成式 AI 模型（例如 Sora）集成到 Premiere Pro 中。 潜在优势：通过整合 OpenAI 的人工智能工具，Adobe 用户可以根据文本提示生成逼真的视频场景，加快制作过程并减少体力劳动。  实施和用户影响&lt; /strong&gt;  AI 模型部署：Adobe 将使用自己的 AI 模型 Firefly（已在 Photoshop 中使用）来执行视频编辑任务。 第三方工具：Adobe 正在探索允许用户集成来自 Runway 和 Pika Labs 等公司的其他第三方 AI 工具的选项。    由   提交 /u/clonefitreal   [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[来认识一下 Joy，人工智能房地产经纪人，他会付钱给你买房 (www.withjoy.ai) 美国的住房负担能力已成为一个巨大的问题。我的许多同龄人（我是千禧一代中年轻的一半）已经完全放弃了拥有住房的梦想，因为他们认为自己永远买不起。我们创建 Joy 是为了帮助解决美国的负担能力问题。  Joy 是一名房地产经纪人，专门与购房者合作。 Joy 可以做标准房地产经纪人能做的任何事情（除了亲自见面）。她可以安排看房、协商报价、协调检查等等。  Joy 最好的一点是，她会将 70% 的佣金返还给购房者。  Joy 运作方式示例： - 购房者使用 Joy 购买价值 500,000 美元的房屋 - Joy 在此交易中收取 3% 的佣金，相当于 15,000 美元 - Joy 将该佣金的 70% 返还给购房者，相当于 10,500 美元 购房者可以以现金形式收到这笔回扣，将其用于首付或购买利息点以降低每月的抵押贷款付款。 我们有一个 100 秒的 Joy 介绍视频，您可以在这里找到：https:// www.youtube.com/watch?v=NMxXAZdP5YA&amp;t=32s 如果您对 Joy 的运作方式有任何疑问，请随时提出，如果您不喜欢我们的初创公司，请彻底嘲笑 Joy。    由   提交 /u/IntelligentLand7142   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c51xdt/joy_the_ai_real_estate_agent_making_buying_a_home/</guid>
       <pubDate>Tue, 16 Apr 2024 00:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>从逻辑到人工智能：人工智能历史之旅</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4t4zz/from_logic_to_ai_a_journey_through_the_history_of/</link>
-      <description><![CDATA[1940 年代的早期阶段 在人工智能成为我们今天所知的研究领域之前，有开创性的工作奠定了基础。其中最有影响力的是艾伦·图灵（Alan Turing），他在 1950 年为我们提供了图灵机和模仿游戏（现在称为图灵测试），这些概念至今仍然具有现实意义。 19 世纪末世纪数学逻辑 形式逻辑于 19 世纪发展起来，为开始以结构化方式思考计算和智能提供了必要的工具。 1956人工智能的正式诞生 约翰·麦卡锡在达特茅斯会议期间创造了“人工智能”一词，标志着人工智能作为一个研究领域的正式开始。 &lt; strong&gt;1969 年人工神经网络 马文·明斯基 (Marvin Minsky) 发表了有助于理解和开发人工神经网络的基础著作，人工神经网络是许多现代人工智能的重要组成部分。 1979第一辆自动驾驶汽车 斯坦福汽车是第一批自动驾驶汽车之一，它能够在一个满是椅子的房间里行驶，展示了人工智能应用于现实世界的潜力。 人工智能从这些不起眼的开始已经走过了很长的路。 Reddit 用户你怎么看？您认为这些里程碑中哪一个最重要或最令人惊讶？ 我期待您在下面发表评论和讨论！如果您认为此列表中应该有更多示例或里程碑，请分享它们！   由   提交/u/botup_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4t4zz/from_logic_to_ai_a_journey_through_the_history_of/</guid>
-      <pubDate>Mon, 15 Apr 2024 18:12:12 GMT</pubDate>
     </item>
     <item>
       <title>克劳德现在领先chatgpt几英里。 claude 的免费版本提供了比 chatgpt 4 Pro 版本更好的答案</title>

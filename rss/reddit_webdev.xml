@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 12:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 15:13:36 GMT</lastBuildDate>
+    <item>
+      <title>我意识到这很模糊，但从客户的角度来看，对网络开发机构的期望是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5idtb/i_realize_this_is_vague_but_what_is_the/</link>
+      <description><![CDATA[我在 12 年前开始构建系统，并于 2015 年开始构建 Web 应用程序。我的日常工作一直是使用 winforms 等更多遗留系统对于大型企业应用程序，所以我真的很喜欢网络世界以及所有东西如何轻松地组合在一起。  在过去的几年里，我更多地与寻求发展并接管其整个技术方面的初创公司和组织合作。在过去的几个月里，我一直在考虑将这份工作作为我的全职工作，因为我真的很喜欢它。例如，我一直与商业专家一起工作，他们在技术方面做得不多。理想情况下，我很想建立某种加速器来帮助创始人聚集在一起并开发他们的技术。  他们中的一些人有更复杂的需求，我帮助他们构建系统，构建一切，讨论业务目标以及它与技术的关系等。我按小时收费 80 美元，我认为我可以提供一个反应灵敏且深入的服务，但我想知道一些事情：  单个开发人员帮助其客户处理从业务策略到架构到编码到 UI 的所有事务是否正常/用户体验？ 典型网站的成本是多少？最近，我构建了一个 .Net 应用程序，MVC 模式，大约有 180 个屏幕，40 个左右的表格，各种 API 绑定，内置电子邮件营销，用户定义的字段和大多数前端视图都可以由最终客户端编辑等等，到目前为止已收费约 12k。 如何找到稳定的客户流？理想情况下，我会一次与 3-4 家公司合作，也许还会聘请其他一些开发人员来满足移动等更利基的需求。  无论如何，感谢您抽出时间，祝您玩得愉快。一个。   由   提交 /u/Nextcept   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5idtb/i_realize_this_is_vague_but_what_is_the/</guid>
+      <pubDate>Tue, 16 Apr 2024 15:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>应对不耐烦的老板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5i7ld/dealing_with_impatient_bosses/</link>
+      <description><![CDATA[我在一个多月前开始了这项（远程）工作，目前我正在开发一个可以让我的任务变得更轻松的程序。对于某些上下文：我的工作是做 X，这需要一整天的时间来手动完成。我正在编写一个 Python 脚本，它会在不到一分钟的时间内完成同样的事情。 我已经向我的主管详细解释了这一点，并说“而不是花 20 天来制作20 个 X，我可以花 20 天的时间来开发这个程序，该程序可以在不到一分钟的时间内完成 X””他们同意了。 这个程序有点复杂，我需要大约 20 天的时间来编写它。涵盖所有边缘情况、运行测试等。但我的主管每天都不断问我，“老板们越来越不耐烦了，我们什么时候才能提出一些有形的东西？”而且“你不能暂时让它在一项任务上发挥作用，让他们看到它正在发挥作用吗？” 我的意思是，我理解这个人，他受到上级的压力，他正在转移这项任务对我施加压力。但在程序完成之前我无法展示任何内容，并且“使其能够完成一项任务”会占用我处理实际程序的时间，只是为了让老板满意。他似乎就是不明白这一点，最重要的是，整个公司没有人理解代码和构建如此复杂系统的过程。这使得让他们理解我在做什么变得更加困难。 在你说之前，我知道，我的工作是让我的老板满意，而不是做我认为正确的事情，但我已经向他们展示了“有形的东西”现在已经两次了，但是这个死亡循环似乎还没有结束，他们没有给我时间去真正做我应该做的事情。 主要是因为这个原因，我正在计划完成该程序后立即退出。难道我做错了什么？在这种情况下你会做什么/说什么？   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5i7ld/dealing_with_impatient_bosses/</guid>
+      <pubDate>Tue, 16 Apr 2024 14:58:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Pages 是我的项目的正确选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5hhj4/is_cloudflare_pages_the_right_choice_for_my/</link>
+      <description><![CDATA[我使用 Astro 制作了一个摄影师网站。主要关心的是拥有数百张照片。我决定使用 Cloudflare Pages，因为免费套餐具有无限的带宽。例如，Vercel 和 Netflify 的带宽限制为 100GB。 我的问题是，由于 Cloudflare 没有带宽限制，我是否可以直接从 Cloudflare 提供图像，而不必担心使用 Cloudinary 或类似的外部服务？&lt; /p&gt;   由   提交 /u/Spaghettinoz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5hhj4/is_cloudflare_pages_the_right_choice_for_my/</guid>
+      <pubDate>Tue, 16 Apr 2024 14:28:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>那么，您认为您知道 React 19、服务器组件和服务器操作是如何工作的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5hfno/so_do_you_think_you_know_how_react_19_server/</link>
+      <description><![CDATA[   但是幕后发生了什么？反应有什么作用？你选择的框架有什么作用？所有这些是如何结合在一起的？ 几个月前，我坐下来试图弄清楚这一点......天哪，这是一段多么美妙的旅程！我刚刚审阅并发布了我的新博文，这段旅程的背景故事，以及这一切是如何发生的。 有很多惊喜和挣扎，总的来说，我认为这是一个扎实的项目，教会我的关于 React 的知识比我想象的要多（而且应该）。从深入研究代码库到在 DM 中进行交流，再到观看几个月前只有 3 次观看的 YouTube 视频，所有这一切都构成了一次美好的旅程，所有这些都为任何感兴趣的人封装了:))   由   提交/u/Rakochas  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5hfno/so_do_you_think_you_know_how_react_19_server/</guid>
+      <pubDate>Tue, 16 Apr 2024 14:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>高效查询大型数据集...您会如何做到这一点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5h7t8/querying_large_datasets_efficiently_how_would_you/</link>
+      <description><![CDATA[我们有一个“customers”表，其中包含超过一百万个条目 我们有一个“subscriptions”表，其中有超过一百万个条目其中超过一百万个条目。 在构建客户服务门户时，产品团队希望“仪表板”能够列出页面加载的 25 个最近客户，并在左侧与其订阅名称相连，其中显示了他们的订阅名称。最近的订阅已激活（基本上不显示不活跃的人） 并且他们希望对其进行分页 这最终会类似于 从客户中选择*离开加入订阅其中（从订阅中选择 MAX yadda yadda，其中订阅状态 = 已激活 yadda yadda）按 userId DESC 排序 这为我们提供了客户信息，但为了分页，我需要一个计数 选择计数（同一查询） 我并行运行这些查询，“获取客户”查询大约需要 3 秒，但计数查询尤其慢...... 6 秒以上。确认我们在所有搜索字段、所有连接字段上使用索引... 它只需计算大量记录，并且每个记录都附加有这些左连接和子查询，并且我想不出任何方法可以用 SQL 来完成这个任务，而且速度不会很慢，这只是 SQL 需要统计的一大堆数据。 从这里开始情况变得更糟 - 他们想要搜索数百万个数据名字类似于 %Brian% 的记录 ... 电子邮件类似于 %Brian@% .... 在 SQL 中对数百万条记录执行此操作效率不高。 关于如何执行此操作的任何想法你接近吗？ 我在前面提出了一个短暂的缓存层，因此每X秒至少只有一个人需要消耗加载时间，但他们不希望数据“过时”即使只有几秒钟，那就完了。 干杯   由   提交 /u/RGBrewskies   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5h7t8/querying_large_datasets_efficiently_how_would_you/</guid>
+      <pubDate>Tue, 16 Apr 2024 14:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个无代码平台最适合 SaaS 引导主题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5gmjq/which_nocode_platform_best_for_saas_bootstrap/</link>
+      <description><![CDATA[大家好， 我对 Web/应用程序开发相对较新，并计划构建基于订阅的 SaaS/web 应用程序用户登录并浏览不同公司的资料，如公司战略、部门、产品等。该应用程序基本上是公司年度报告内容的浓缩形式，但以用户友好的方式呈现在网络应用程序中。我计划使用这样的 Bootstrap 模板： https://themes.getbootstrap.com/产品/phoenix-admin-dashboard-webapp-template/ 我的问题：我最好使用什么无代码工具来尽可能轻松地“上传” bootstrap 主题并将其与正确的 web 应用程序功能配对？ 非常感谢任何帮助！    由   提交 /u/ItsJakeNL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5gmjq/which_nocode_platform_best_for_saas_bootstrap/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人工智能接管时，前端开发人员可以学习哪些人工智能技术来保持领先地位？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5g65z/what_ai_tech_can_front_end_dev_learn_to_stay/</link>
+      <description><![CDATA[嗨， 我是一名全栈开发人员，拥有前端开发方面的专业知识。  我擅长前端的 React、Nextjs 和 Angular，在后端，我曾使用过 Nodejs 和 C#。 随着当前 AI 的激增，我希望拓宽业务范围我的专业领域。  作为前端开发人员，机器学习/深度学习的良好起点是什么？我不太擅长矩阵和数学。  哪些框架在人工智能领域的学习曲线相对容易？  谢谢。    由   提交 /u/Thecuriousbloke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5g65z/what_ai_tech_can_front_end_dev_learn_to_stay/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>加快设计过程的程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5g58k/program_to_speed_up_design_process/</link>
+      <description><![CDATA[我目前正在开展一个学校项目，正在寻找一个网站/应用程序，让我只需拖放按钮和文本即可设计我的想法在真正开始之前。我不想让别人为我编写代码。谢谢！   由   提交/u/OddLack3954   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5g58k/program_to_speed_up_design_process/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>地方政府网站？有人有经验吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5fx1v/local_government_sites_anyone_have_experience/</link>
+      <description><![CDATA[我们当地的县政府网站在 CivicPlus 上运行。 这是他们建立的地方之一，并且想知道还有什么以及这是否真的对他们有用。 有人对 CivicPlus 或 OpenGov 等地方政府网站服务有任何经验吗？   由   提交 /u/Scuczu2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5fx1v/local_government_sites_anyone_have_experience/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>CS 人员与现代 Web 开发脱节？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5fsuf/cs_guy_out_of_touch_with_modern_web_development/</link>
+      <description><![CDATA[我是一名计算机科学博士生，我的实验室的性质要求我们为自己制作一个登陆网页。自从我接触 Web 开发以来，我已经 5 年了，我什至不知道从哪里开始，因为有这么多不同的框架库 我正在考虑创建一个博客，在那里我可以发布我的内容关于书籍和电影的想法在某种程度上反映了这种想法。我查看了 MERN Stack，它看起来很有前途，但我不确定 next.js 是什么。在我的课程期间，我只是做了 vanilla js HTML 和 CSS 来制作网页 我不知道应该使用什么堆栈，因为我也打算在很长一段时间后学习现代 Web 开发，我打算使用javascript 也是如此，所以我认为 django、flask 不适用。 我查看了资源，老实说我很困惑，OTP 看起来不错，但我不确定它是否涵盖了现代 Web 开发，而且它看起来确实如此相当干燥。帮助我，作为一个精通 CS 概念和一般编程但严重脱离 Web 开发的人 编辑我可以使用静态模板或免费托管网站，但我想我想学习现代网络堆栈也是如此   由   提交/u/alwaysanxious1995   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5fsuf/cs_guy_out_of_touch_with_modern_web_development/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:14:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何跟踪 PDF 浏览次数？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5fbpo/how_to_track_pdf_views/</link>
+      <description><![CDATA[Google Analytics 跟踪 PDF 下载。常规视图怎么样？不仅仅是链接点击，还有所有视图，就像普通网页一样 寻找一些轻松简单的东西，因为我只有一些想要监控的 PDF   由   提交 /u/CreatorVilla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5fbpo/how_to_track_pdf_views/</guid>
+      <pubDate>Tue, 16 Apr 2024 12:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP 长辈的缓存秘密，第 1 部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5f78l/caching_secrets_of_the_http_elders_part_1/</link>
+      <description><![CDATA[   /u/calp  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5f78l/caching_secrets_of_the_http_elders_part_1/</guid>
+      <pubDate>Tue, 16 Apr 2024 12:45:20 GMT</pubDate>
+    </item>
     <item>
       <title>从第三方服务器获取数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1c5e7st/fetching_data_from_thirdparty_server/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[嗨， 我在与 Web 开发（Atlassian 产品）无关的 IT 领域工作了大约 10 年，获得了一些丰富的经验，包括为 Atlassian 本身工作。但从去年开始，我就很难找到好工作了。于是我就尝试着主动去寻找。  我开发了一个像样的网站，里面有项目、推荐和参考资料，什么也没有。在所有这些门户网站上创建了个人资料，例如 Yunojuno、Malt、P​​eopleperhour、Upwork、Contra，什么都没有。  如果该地区的许多 Atlassian 合作伙伴需要具有我个人资料的人来提供帮助，请联系他们。我想说我的成功率大约是2%。  与我过去共事过的人联系过，如果他们认识我可以帮助的人，什么也没有。参加了当地的聚会，没有结果。  我尝试申请各种 Upwork 工作，但那里的人抱有相当疯狂的期望，比如高级项目经理的时薪为 5-10 美元（不是我的领域，但仍然如此）。以我的经验水平，感觉我无法与住在巴基斯坦的人竞争，他们可以接受每小时 5 美元的工资。  此时，我只是想知道我还没有做什么。我缺少哪一块拼图。我正在考虑聘请业务开发专家或销售自由职业者来帮助我接触新客户，或者购买使用 Atlassian 工具的潜在客户列表，并在此时亲自与他们进行冷联系。  这是让我烦恼的事情。我在我的领域拥有 10 年的经验，包括一些很好的参考资料和作品集，可以被视为具有宝贵技能的资深人士。现在，当我想找到更多工作时，我有点迷失了下一步该做什么。感觉就像我错过了一些重要的信息，这些信息可以帮助我更轻松甚至更简单地获得新客户。  感谢您阅读我的整篇文章。你有过类似的情况吗？什么对你有用？  P.S.我希望我不会因为发表一篇不完全专注于 Web 开发的帖子而感到困惑，但重叠是存在的，所以我想我可以在这里问。 &lt;!-- SC_ON - -&gt;  由   提交 /u/MC_Kejml   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c5dygf/it_freelancer_client_drought_trying_to/</guid>
       <pubDate>Tue, 16 Apr 2024 11:41:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅插入数据库模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5dh9x/an_insert_only_database_pattern/</link>
-      <description><![CDATA[在此向数据库爱好者呼吁。 我一直在研究一种新的数据库设计模式，该模式与满足与客户端架构期望的交叉兼容性的开发环境。我打算通过限制创建和读取的 SQL 查询，并将更新语句限制为软删除来实现此目的。 我要解决的问题是 git 环境中的数据库，我们在其中频繁地交换分支。我厌倦了必须在一个分支上降级，然后在另一个分支上切换然后升级，否则它会失败，因为用户表有一个我的模型没有的附加列。这还将在修补程序临时回滚期间保留数据，并提供可靠的审核历史记录。 一个核心概念是模型表和关系表的区别。关系表很简单，这些是多对多的链接表。模型表是模型加上主键的表表示形式。想想图论，模型是节点，关系是边。 这是规则。 1. 没有删除语句，这些语句被软删除语句替代。 2. 模型表中没有外键，将每个关系视为可能是多对多，并创建关系表。您可以使用唯一索引来限制关系计数。 （当涉及到一对一关系时，这总是让我很恼火，即哪个表拥有该关系） 3. 更新是软删除+插入，以及更新关系表。这里的更新异常很重要，否则你必须级联软删除并对任何关系进行深度克隆，并且如果存在任何循环关系更新将变得不可能。 我想将此规则扩展到表本身，也就是说你不能删除表，只能软删除它，但我不确定。 请让我知道你的想法   由   提交 /u/coded_artist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5dh9x/an_insert_only_database_pattern/</guid>
-      <pubDate>Tue, 16 Apr 2024 11:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 失败后重新启动</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5ccsk/relaunching_after_saas_failure/</link>
-      <description><![CDATA[我是 Miguel Ángel，几个月前，我推出了 ConversaLink 与一位朋友合作，旨在利用人工智能来覆盖爱彼迎房东/联合房东的客户服务。 这是一个错误，因为在这个利基市场中一切都非常有限，我们没有意识到直到很晚。 我们做了什么？转向新产品。 我们已将产品转向新的极限，现在，它允许以简单的方式为任何企业创建聊天机器人，从而扩大我们的潜在销售线索。这个想法主要是出于个人需要通过更多的模型和工具（如 TTS）来改进 ChatGPT plus 的 GPT，但后来它被合并到产品中。 我想给大家的教训是，有有时，当您必须在转变或坚持之间做出决定时，了解您的服务的局限性很困难，但很重要。 如果您知道您的产品具有巨大潜力，则永远不要放弃。 &gt;   由   提交 /u/Miguel07Alm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5ccsk/relaunching_after_saas_failure/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器、硬件和自签名证书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5bx7m/browsers_hardware_and_selfsigned_certificates/</link>
-      <description><![CDATA[ 注意：我已将其发布到  /r/servers、/r/sysadmin、/r/azure 以及  您好！希望有“大脑子”的人可以为我指明正确的方向。  场景 我集成了一个护照扫描仪，该扫描仪托管自己的 HTTPS 服务器，该服务器具有自签名证书。它通过 REST Api 公开 API 端点。  问题 我们在 React Native 应用程序托管的浏览器中运行应用程序。由于应用程序（托管在 Azure 上）本质上是从浏览器运行的，因此浏览器会阻止对护照扫描仪 API 的请求，因为它不接受自签名证书。 我尝试过的内容 制造商的建议是生成我们自己的证书并将其上传到设备。我确实做到了。我创建了一个 CA 根证书，并创建了 .key 和 .crt。我已将自签名证书及其密钥上传到设备。这当然可以在我的本地机器上运行。但是，我不确定如何/在哪里放置自行创建的 CA 根，以便来自浏览器（在我们的设备上）的请求不再被阻止。  我需要什么 我没有太多的证书经验，所以我感觉我在黑暗中刺伤，并没有真正击中任何东西。我需要获得一些材料来为我指明正确的方向。 我想我需要将生成的 CA 上传到 Azure 的某个地方？但微软文档并没有明确说明这一点。  我已阅读/观看以下内容： - YouTube - SSL 证书 - Microsoft - 自签名证书 - Microsoft - 创建自签名证书&lt; /p&gt;   由   提交/u/_mr_betamax_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5bx7m/browsers_hardware_and_selfsigned_certificates/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 API 的非常菜鸟的安全问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5bv15/very_noob_security_question_about_an_api/</link>
-      <description><![CDATA[嗨！我对应用程序有非常具体的需求，我不需要可以进行身份​​验证的用户或任何东西，我只需要两个后端一起通信。基本上，我在服务器上有一个 API 和一个 NextJS 应用程序，我只希望 NextJS 应用程序能够向 API 发出请求。 目前，API 在每个请求之前检查不记名令牌是否为等于 .env 文件中指定的硬编码令牌，如果不是，则拒绝该请求。我的 NextJS 应用程序在每个请求的 .env.local 中硬编码了相同的令牌，并且提取请求是在服务器组件中发出的。所以该令牌不应该暴露给客户端，对吧？因为它是两个后端通信。 我知道我会被否决，因为任何硬编码都是不安全或可扩展的，但对于我的具体情况，一个不面向公众的应用程序，是否可以通过这种方式保护 API ？显然这是一个复杂的令牌，不应该太容易被暴力破解。 提前谢谢你:)   由   提交/u/lexng_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5bv15/very_noob_security_question_about_an_api/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:29:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的 json 到 html 布局库吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5bstm/any_good_json_to_html_layout_library/</link>
-      <description><![CDATA[我正在寻找一个将 json 编译为 html 的 UI 库，有什么建议吗？   由   提交 /u/akmalkun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5bstm/any_good_json_to_html_layout_library/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:25:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，我做了一个名为 XReposter 的扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5bji9/guys_i_made_an_extension_named_xreposter/</link>
-      <description><![CDATA[伙计们！我制作了一个 Chrome 扩展程序，可以使用您自己的标题重新发布您帐户中的任何 Twitter 媒体，而无需下载。 扩展程序的名称是“XReposter”。 Chrome 网上商店提供。 这可以手动完成，实际上很简单，但我作为菜鸟开发人员尝试过，效果很好。 这是教程链接 https://youtu.be/yccnpw3zDlg?feature=shared 以及扩展程序链接 https://chromewebstore.google.com/detail/xreposter/kejdjbikbookldbemljcpomdgafkknbl 如果您愿意，请尝试一下，并在可能的情况下对其进行评分 🫡   由   提交 /u/Gopi_Webdev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5bji9/guys_i_made_an_extension_named_xreposter/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>多人如何同时处理同一个文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5bi6i/how_do_multiple_people_work_on_the_same_files_at/</link>
-      <description><![CDATA[就上下文而言，我是一名高中老师，我希望我的学生协作创建网站，即多人在同一文件中工作立刻。我想知道我将如何去做这件事？这可能是一个非常明显的问题，如果是这样，我深表歉意，但希望能提供任何帮助。   由   提交 /u/The-Nerdiest-Teacher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5bi6i/how_do_multiple_people_work_on_the_same_files_at/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:04:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>天文网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5b8lg/astro_website/</link>
-      <description><![CDATA[我最近不太熟悉 Astro，我想问一下它是否仍然是制作简单网站的最佳方式？目前市场上有更好的吗？   由   提交/u/salamazmlekom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5b8lg/astro_website/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建手风琴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5b4hr/how_to_create_an_accordion_with_tailwind_css_and/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建手风琴[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5b4hr/how_to_create_an_accordion_with_tailwind_css_and/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Windows 上检查 iOS Safari</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5au3x/inspect_ios_safari_on_windows/</link>
-      <description><![CDATA[您好，有什么方法可以检查在 Windows PC 上在 iPhone 上打开的网站吗？我知道您可以将 iPhone 连接到 Mac。但是你能在 Windows PC 上做同样的事情吗？ 我遇到了仅在 iPhone 上的问题，开发工具可以帮助我。我只找到了inspect.dev，但看起来很粗略。    由   提交/u/Deadfool13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5au3x/inspect_ios_safari_on_windows/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:17:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不知道我是否做错了什么？我只是想念我的麦克......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5an2o/i_dont_know_if_im_doing_something_wrong_i_just/</link>
-      <description><![CDATA[嗨，我不知道在这里谈论这个是否合适，但我一直是 Mac 用户。我是一名网络开发人员，钱对我来说并不是真正的问题。然而，当我看到 Mac Studio 的价格并意识到你无法升级 RAM 时，我无法证明它的合理性。这在道德上似乎不正确。因此，我用 RTX 4070TI、32GB DDR5 RAM 等构建了我梦想的 PC，这样我就可以工作和娱乐——这是我从小就有的梦想。 但老实说，这种新设置上的 Web 开发工作流程非常糟糕。 WSL2 是一场噩梦。我可能只是不明白它或理解其背后的逻辑，但我无法忍受 WSL2 以及随之而来的问题。在我的 Mac 上，它完全基于 Unix，一切都按预期运行。另外，我怀念我在 Mac 上使用的软件，比如 Panic 的 Transmit；我从来没有在 Windows 上发现过这么好的东西。现在我一直在使用 Filezilla... 我真的很喜欢这台电脑。我和朋友们玩游戏玩得很开心，在最大设置的精神模式下运行赛博朋克，并进入了《龙之教条 2》等 RPG，这是自《Elden Ring》和《FF7 重制版》以来我真正喜欢的第一款 RPG。 老实说，我正处于十字路口。作为一名自由职业者，时间就是金钱，我一直在与 WSL2 作斗争。 如果有任何意见或建议，我将不胜感激。是我遗漏了什么，还是只是 Windows 环境造成了问题？ 尽管如此，我还是忍不住因为无法复制 Mac 的无缝应用程序开发工作流程而感到沮丧在 Windows 上。就好像在 Mac 上对我来说是第二天性的每一个工具和流程现在在 Windows 上都是一个障碍。这种脱节不仅减慢了我的速度，还削弱了我对理想设置的热情。我很想知道是否有其他人遇到过类似的问题以及可能存在哪些解决方案。 我只是想说，我对 Windows 11 感到惊讶，它的使用效果有多好，甚至还他妈的苹果因为不让添加 ram 到 mac studio。 我是法国人，所以请不要讨厌语法:( 编辑：就像我记得我最大的问题是使用 Radicle 工具进行 Wordpress 开发一样，我从来没有成功地让它发挥作用，我想说我对每一个批评都持开放态度，我没有自我，我的作风是学习和谦虚，所以真的不如果需要，请犹豫推动我    提交&quot;&gt; /u/Leoowwww   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5an2o/i_dont_know_if_im_doing_something_wrong_i_just/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Chrome 扩展程序的后台选项卡中强制 DOM 刷新？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5ajpo/how_to_force_a_dom_refresh_in_a_background_tab/</link>
-      <description><![CDATA[我正在开发一个 Chrome 扩展程序，需要从后台选项卡解析 DOM 数据。但是，我注意到 DOM 数据并不总是最新的，除非用户主动切换到该选项卡。我相信这种行为是 Chrome 节省内存和提高性能优化的一部分。是否有任何方法或解决方法可以让我在后台选项卡中强制刷新 DOM，而不需要用户切换到它？任何见解或建议将不胜感激。   由   提交 /u/jerrygoyal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5ajpo/how_to_force_a_dom_refresh_in_a_background_tab/</guid>
-      <pubDate>Tue, 16 Apr 2024 07:57:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
