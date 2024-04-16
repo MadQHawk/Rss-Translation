@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 03:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:17:12 GMT</lastBuildDate>
+    <item>
+      <title>关于托管需要数据库和 cron/调度的简单 Node 应用程序的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c58jky/advice_on_hosting_a_simple_node_app_that_requires/</link>
+      <description><![CDATA[我正在创建一个简单的 Node 应用程序，它实际上只是一个较大项目的一小部分。它要做的就是定期将数据从一个平台同步到另一个平台。我们谈论的是一次几百条记录。我考虑过使用“node-cron”之类的东西来实现这一点。我只需在另一个文件中编写函数，将它们导入到我的“main.js”中，然后安排它们中的每一个。  我还想使用 MySQL 等数据库来保存 OAuth 流程所需的一些数据，例如访问令牌。然后我可能会存储一些与我正在同步的记录相关的附加数据，这也不是很多。  整个项目最终将移交给最终客户端，因此我希望至少使这部分在维护方面尽可能轻松。我相信分配给这个同步应用程序的预算约为每月 50 美元。  我研究了 DigitalOcean 的应用程序平台，看起来很有希望。但似乎使用“node-cron”不起作用。但我不太清楚是否是这样或为什么。有谁确切知道吗？ 除了 DO App Platform，你们还有什么推荐的？我感觉在不同的部署策略上有点落后。在工作中，我主要配置了服务器并手动管理服务器和部署。所以我有很多事情要做。 提前致谢！   由   提交/u/kenshinx9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c58jky/advice_on_hosting_a_simple_node_app_that_requires/</guid>
+      <pubDate>Tue, 16 Apr 2024 05:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>论坛网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c583qd/forum_site/</link>
+      <description><![CDATA[有人对在 WordPress 中使用基于论坛的网站的平台有任何建议吗？   由   提交/u/Ithius27  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c583qd/forum_site/</guid>
+      <pubDate>Tue, 16 Apr 2024 05:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为前端 Web 开发听起来很有趣，但我数学很差。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c56wtr/i_think_front_end_web_development_sounds/</link>
+      <description><![CDATA[标题。我有计算障碍，如果我不给予足够的重视，即使是简单的数学问题也会让我感到困惑。我正在考虑的大学有一个网络开发专业，他们要求在第一学期学习离散数学。老实说，这是唯一阻止我追求它的事情。  老实告诉我，值得去追求它吗？我当然愿意学习，但我的数学基础知识几乎不存在。由于我的计算障碍，我远离了数学。特别是因为在我知道自己拥有它之前我就觉得自己很愚蠢。   由   提交 /u/Grayson-June    reddit.com/r/webdev/comments/1c56wtr/i_think_front_end_web_development_sounds/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c56wtr/i_think_front_end_web_development_sounds/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:08:23 GMT</pubDate>
+    </item>
     <item>
       <title>收入分成承包</title>
       <link>https://www.reddit.com/r/webdev/comments/1c54lif/revenue_share_contracting/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[上下文：Ludum Dare 是一场为期 48 小时的游戏盛宴，每年举办几次。您将获得一个主题（社区之前通过淘汰投票决定），并且必须在规定的时间内从头开始创建游戏。游戏由社区进行玩和评分，通过对其他玩家的游戏进行评分，您的游戏可以提升到列表顶部，作为曝光的激励。 我知道有网络开发竞赛，但是通过快速搜索，我看不到任何与 Ludum Dave 直接类似的 Web 开发内容。 当然，我不希望人们在周末内创建一个功能强大的网站。我确信有一些方法可以使此类比赛变得更加有趣和具有教育意义。除此之外，我还看到迎合不同堆栈的开发人员（后、前、全）的挑战。  结束我的抱怨 - 我向你们提出的问题是：  你们对这样的东西感兴趣吗？ 什么样的主题创意您能想象这一点吗？ 对于克服上述迎合所有堆栈的挑战，您有何想法？    由   提交/u/EthanCPP   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4xwdi/ludum_dare_for_web_developers/</guid>
       <pubDate>Mon, 15 Apr 2024 21:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不同选项卡之间共享 websocket 连接？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4xu2o/how_do_i_share_a_websocket_connectoin_between/</link>
-      <description><![CDATA[嗨，首先：我使用 SAP 和 UI5 前端，它使用 JavaScript 的异步模块定义。所以也许这已经是问题了... 我有一个要求： 我想在我的所有浏览器选项卡/窗口中只有一个相同的 websocket 连接。在拥有 websocket 服务的后端站点上，我可以确定客户端是否已经具有活动连接。但我无法退货。所以我的想法是传递我在第一次调用时实例化的 websocket 对象。通过浏览器存储、cookie、BroadcastChannel 或 SharedWorker。  存储和 Cookie 不起作用，因为我无法序列化 websocket 对象。 BroadcastChannel 也有同样的问题。我无法传递 websocket 对象。 SharedWorker 对我不起作用，因为工作脚本根本没有被执行。 我知道，它可能有点具体，因为UI5框架，但我无法想象这是不可能的。 请帮忙！ 使用SharedWorker的代码示例： 共享。 onconnect = (e) =&gt; onconnect.js onconnect = (e) =&gt; { const port = e.ports[0]; port.addEventListener(“消息”, (e ) =&gt; { const workResult = \结果：${e}`;` port.postMessage( workerResult); }); port.start(); }; main.js: var resourceUrl = sap.ui.require.toUrl(&quot;myModule/controller/shared. js&quot;); const worker = new SharedWorker(resourceUrl); worker.port.onmessage = function (e ) { console.log(e); };  //稍后 worker.port.postMessage(&quot;test&quot;);  &amp; #32；由   提交 /u/EmPiFree   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4xu2o/how_do_i_share_a_websocket_connectoin_between/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>自学学习每种网络编程语言是错误的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4uy7c/is_it_wrong_to_learn_every_web_programming/</link>
-      <description><![CDATA[我有时会查看作品集，看到人们使用了如此多的编程语言和框架，这是否会适得其反？  我总是听到高级开发人员的意见，最好专注于 1/2 编程语言并开发您感兴趣的项目   由   提交 /u/Mammoth-Asparagus498   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4uy7c/is_it_wrong_to_learn_every_web_programming/</guid>
-      <pubDate>Mon, 15 Apr 2024 19:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在我的页面上添加“话题”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4upvl/how_to_add_threads_on_my_page/</link>
-      <description><![CDATA[嘿伙计们，我是一名新手 React 开发人员。我正在开发我的投资组合，看起来像一个证据板。很明显我有那些线和别针。我怎样才能将这些添加到我的网站上🥲🥲。我想避免使用绝对位置属性，因为它会使网站的响应能力变得困难。所以还有其他方法可以添加这些“线程”。它们只是带有阴影效果和轻微曲线的粗线，与页面上的所有元素重叠。   由   提交/u/krypton_009   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4upvl/how_to_add_threads_on_my_page/</guid>
-      <pubDate>Mon, 15 Apr 2024 19:13:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
