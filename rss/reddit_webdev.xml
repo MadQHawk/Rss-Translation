@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 00:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 03:15:14 GMT</lastBuildDate>
+    <item>
+      <title>收入分成承包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c54lif/revenue_share_contracting/</link>
+      <description><![CDATA[有人成功完成此操作吗？在游戏开发中，你经常会看到这种情况，但这通常意味着“我的想法很模糊，执行能力很差，LFG”。  但是，我最近做了很多小型网络应用程序，收益分享对我来说似乎是一个梦幻般的设置。合同、发票和谈判可能是我最大的痛点，我可以看出，客户总是对我是否完全投入他们的项目感到紧张。对于许多客户来说，如果有保证的收入分成，我一开始就会为几分钱工作，因为他们在营销产品方面付出了艰苦的工作。 相反，似乎有两个世界 - 承包商/自由职业者一端是投资者/创业团队，另一端是投资者/创业团队。大型初创公司的股权并没有什么问题，但我真的很喜欢与较小的想法合作，这些想法旨在从第一天起就盈利，而不是试图将自己卖给下一个投资者的零工。 我可以认为有几个原因导致您仍然不经常看到收益分享。第一，创始人对于让某人“加入团队”存在信任问题。有道理，我也想这样。还有两个 - 你实际上是如何做到的。 Stripe、多供应商等中有一些解决方案，但它们非常乏味，这在尝试启动项目时并不是一个好的第一步。因此，我认为这里也存在技术空白，因为只有完全相信没有人可以操纵系统，它才能发挥作用。 但对我来说，好处似乎是巨大的。即使您不喜欢其他团队成员所做的事情，您也知道他们所做的基本上是为了给您赚钱。如果你认为你比其他人工作更努力，那么，去开始另一个项目，等等。  我还可以想象一个模型，创始人可能拥有 80% 的股份，但给出 1% 的股份至 20 人。现在他们有 20 个人，至少对提供良好的反馈、营销、测试等感兴趣。 所以，请有人建立这个平台，谢谢。   由   提交/u/elendee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c54lif/revenue_share_contracting/</guid>
+      <pubDate>Tue, 16 Apr 2024 02:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>初创公司的 Web 开发建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/</link>
+      <description><![CDATA[Hey devs 👋 我的初创公司正在寻找有关 Web 开发的建议，特别是 UI 组件/设计系统的前端方面。  有人可以快速聊天吗？  此致，Symbols 的 Josh CBO   由   提交/u/kingj-2830  /u/kingj-2830  reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/</guid>
+      <pubDate>Tue, 16 Apr 2024 01:11:01 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道便宜的图片托管网站吗？希望开发一个网络应用程序并检索带有标题/文本的图像</title>
       <link>https://www.reddit.com/r/webdev/comments/1c52muc/anyone_know_of_image_hosting_websites_for_cheap/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿伙计们，我是一名新手 React 开发人员。我正在开发我的投资组合，看起来像一个证据板。很明显我有那些线和别针。我怎样才能将这些添加到我的网站上🥲🥲。我想避免使用绝对位置属性，因为它会使网站的响应能力变得困难。所以还有其他方法可以添加这些“线程”。它们只是带有阴影效果和轻微曲线的粗线，与页面上的所有元素重叠。   由   提交/u/krypton_009   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c4upvl/how_to_add_threads_on_my_page/</guid>
       <pubDate>Mon, 15 Apr 2024 19:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要学习哪些主题才能建立这样的网站？甚至达到这个水平？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4unpx/what_topics_do_i_need_to_learn_to_do_websites/</link>
-      <description><![CDATA[    /u/TheFapGoesCloud    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4unpx/what_topics_do_i_need_to_learn_to_do_websites/</guid>
-      <pubDate>Mon, 15 Apr 2024 19:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 是如何做到的？ （更多评论中）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4u7n4/how_does_spotify_do_it_more_in_comments/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/rayjaywolf   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4u7n4/how_does_spotify_do_it_more_in_comments/</guid>
-      <pubDate>Mon, 15 Apr 2024 18:54:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
