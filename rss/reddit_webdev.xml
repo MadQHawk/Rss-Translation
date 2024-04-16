@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 06:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 09:13:26 GMT</lastBuildDate>
+    <item>
+      <title>伙计们，我做了一个名为 XReposter 的扩展</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5bji9/guys_i_made_an_extension_named_xreposter/</link>
+      <description><![CDATA[伙计们！我制作了一个 Chrome 扩展程序，可以使用您自己的标题重新发布您帐户中的任何 Twitter 媒体，而无需下载。 扩展程序的名称是“XReposter”。 Chrome 网上商店提供。 这可以手动完成，实际上很简单，但我作为菜鸟开发人员尝试过，效果很好。 这是教程链接 https://youtu.be/yccnpw3zDlg?feature=shared 以及扩展程序链接 https://chromewebstore.google.com/detail/xreposter/kejdjbikbookldbemljcpomdgafkknbl 如果您愿意，请尝试一下，并在可能的情况下对其进行评分 🫡   由   提交 /u/Gopi_Webdev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5bji9/guys_i_made_an_extension_named_xreposter/</guid>
+      <pubDate>Tue, 16 Apr 2024 09:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>多人如何同时处理同一个文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5bi6i/how_do_multiple_people_work_on_the_same_files_at/</link>
+      <description><![CDATA[就上下文而言，我是一名高中老师，我希望我的学生协作创建网站，即多人在同一文件中工作立刻。我想知道我将如何去做这件事？这可能是一个非常明显的问题，如果是这样，我深表歉意，但希望能提供任何帮助。   由   提交 /u/The-Nerdiest-Teacher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5bi6i/how_do_multiple_people_work_on_the_same_files_at/</guid>
+      <pubDate>Tue, 16 Apr 2024 09:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>天文网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5b8lg/astro_website/</link>
+      <description><![CDATA[我最近不太熟悉 Astro，我想问一下它是否仍然是制作简单网站的最佳方式？目前市场上有更好的吗？   由   提交/u/salamazmlekom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5b8lg/astro_website/</guid>
+      <pubDate>Tue, 16 Apr 2024 08:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建手风琴</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5b4hr/how_to_create_an_accordion_with_tailwind_css_and/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建手风琴[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5b4hr/how_to_create_an_accordion_with_tailwind_css_and/</guid>
+      <pubDate>Tue, 16 Apr 2024 08:38:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Windows 上检查 iOS Safari</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5au3x/inspect_ios_safari_on_windows/</link>
+      <description><![CDATA[您好，有什么方法可以检查在 Windows PC 上在 iPhone 上打开的网站吗？我知道您可以将 iPhone 连接到 Mac。但是你能在 Windows PC 上做同样的事情吗？ 我遇到了仅在 iPhone 上的问题，开发工具可以帮助我。我只找到了inspect.dev，但看起来很粗略。    由   提交/u/Deadfool13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5au3x/inspect_ios_safari_on_windows/</guid>
+      <pubDate>Tue, 16 Apr 2024 08:17:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道我是否做错了什么？我只是想念我的麦克......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5an2o/i_dont_know_if_im_doing_something_wrong_i_just/</link>
+      <description><![CDATA[嗨，我不知道在这里谈论这个是否合适，但我一直是 Mac 用户。我是一名网络开发人员，钱对我来说并不是真正的问题。然而，当我看到 Mac Studio 的价格并意识到你无法升级 RAM 时，我无法证明它的合理性。这在道德上似乎不正确。因此，我用 RTX 4070TI、32GB DDR5 RAM 等构建了我梦想的 PC，这样我就可以工作和娱乐——这是我从小就有的梦想。 但老实说，这种新设置上的 Web 开发工作流程非常糟糕。 WSL2 是一场噩梦。我可能只是不明白它或理解其背后的逻辑，但我无法忍受 WSL2 以及随之而来的问题。在我的 Mac 上，它完全基于 Unix，一切都按预期运行。另外，我怀念我在 Mac 上使用的软件，比如 Panic 的 Transmit；我从来没有在 Windows 上发现过这么好的东西。现在我一直在使用 Filezilla... 我真的很喜欢这台电脑。我和朋友们玩游戏玩得很开心，在最大设置的精神模式下运行赛博朋克，并进入了《龙之教条 2》等 RPG，这是自《Elden Ring》和《FF7 重制版》以来我真正喜欢的第一款 RPG。 老实说，我正处于十字路口。作为一名自由职业者，时间就是金钱，我一直在与 WSL2 作斗争。 如果有任何意见或建议，我将不胜感激。是我遗漏了什么，还是只是 Windows 环境造成了问题？ 尽管如此，我还是忍不住因为无法复制 Mac 的无缝应用程序开发工作流程而感到沮丧在 Windows 上。就好像在 Mac 上对我来说是第二天性的每一个工具和流程现在在 Windows 上都是一个障碍。这种脱节不仅减慢了我的速度，还削弱了我对理想设置的热情。我很想知道是否有其他人遇到过类似的问题以及可能存在哪些解决方案。 我只是想说，我对 Windows 11 感到惊讶，它的使用效果有多好，甚至还他妈的苹果因为不让添加 ram 到 mac studio。 我是法国人，所以请不要讨厌语法:( 编辑：就像我记得我最大的问题是使用 Radicle 工具进行 Wordpress 开发一样，我从来没有成功地让它发挥作用，我想说我对每一个批评都持开放态度，我没有自我，我的作风是学习和谦虚，所以真的不如果需要，请犹豫推动我    提交&quot;&gt; /u/Leoowwww   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5an2o/i_dont_know_if_im_doing_something_wrong_i_just/</guid>
+      <pubDate>Tue, 16 Apr 2024 08:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Chrome 扩展程序的后台选项卡中强制 DOM 刷新？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5ajpo/how_to_force_a_dom_refresh_in_a_background_tab/</link>
+      <description><![CDATA[我正在开发一个 Chrome 扩展程序，需要从后台选项卡解析 DOM 数据。但是，我注意到 DOM 数据并不总是最新的，除非用户主动切换到该选项卡。我相信这种行为是 Chrome 节省内存和提高性能优化的一部分。是否有任何方法或解决方法可以让我在后台选项卡中强制刷新 DOM，而不需要用户切换到它？任何见解或建议将不胜感激。   由   提交 /u/jerrygoyal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5ajpo/how_to_force_a_dom_refresh_in_a_background_tab/</guid>
+      <pubDate>Tue, 16 Apr 2024 07:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Express res.cookie 在生产中不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c5ag0c/express_rescookie_doesnt_work_in_production/</link>
+      <description><![CDATA[我已经遇到这个问题很长时间了，并且一直在浏览每个有关 cookie 的 Stackoverflow 页面，但我就是找不到任何内容...&lt; /p&gt; 这是我的服务器代码： global.devMode = process.env?.NODE_ENV==&#39;生产&#39;?false:true &lt; code&gt;if (global.devMode){ global.apiURL = &#39;http://localhost:3000&#39; global.homeURL = &#39;http //localhost:19006&#39; } else { global.apiURL = &#39;https://serverapi.com&#39;&lt; br /&gt; global.homeURL = &#39;https://client.vercel.app&#39; } const port = 3000;&lt; /code&gt; const cookieParser = require(&#39;cookie-parser&#39;); const app = express(); app.use(cookieParser()); app.use(function(req: Request, res: Response, next,) {  res.setHeader(&#39;Access-Control-Allow-Origin&#39;, global.homeURL); res.setHeader(&#39;Access-Control-Allow-Methods&#39;, &#39;GET, POST, PUT , DELETE&#39;); res.setHeader(&#39;Access-Control-Allow-Headers&#39;, &#39;Content-Type, session&#39;);  res.setHeader(&#39;Access-Control-Allow-Credentials&#39;, &#39;true&#39;); next(); }); next(); }); next(); });代码&gt; ​ app.use(cors({ origin: global.homeURL, 凭证：true， optionsSuccessStatus：200， })); 这是客户端代码（NextJS），在执行 http 请求时： export const http = { post: async function(topic 、内容、会话）{ 尝试{ const response = wait fetch(\https://serverapi.com/${topic}\`，{ 凭据：&#39;include&#39;， 缓存：&#39;no-store&#39;， 方法：&#39;POST&#39;， 标题：{ &#39;Content-Type&#39;：&#39; application/json&#39;, &#39;ngrok-skip-browser-warning&#39;: 1, ...(会话？ { &#39;session&#39;: 会话 } : {}) }, body: JSON.stringify(content) }) if (global.devMode){ console.log(&#39;HTTPresponse: &#39;, response) } if (response.status == 401) { } 返回响应 } catch（错误）{ console.error(&#39;HTTP_POST_Error&#39;, error) return } }, get: 异步函数(topic, session){ try {&lt;代码&gt; const响应=等待获取（`https://serverapi.com/${topic}\ `, { 凭据：&#39;include&#39;， 缓存：&#39;no-store&#39;， 方法：&#39;GET&#39;，  headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, &#39;ngrok-skip-browser-warning&#39;: 1, &lt; /code&gt;...(session ? { &#39;session&#39;: session } : {}) }, }) if (global.devMode ){ console.log(&#39;HTTPresponse: &#39;, response) } if (response.status == 401){ } 返回响应 } catch (error){ console.error(&#39;HTTP_GET_Error&#39;, error) return -1 } } }` 我不确定为什么它在本地开发环境中有效，但是在生产设置，它不起作用。  ​ 我们将不胜感激。   由   提交/u/ITvi-software07  /u/ITvi-software07 reddit.com/r/webdev/comments/1c5ag0c/express_rescookie_doesnt_work_in_Production/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c5ag0c/express_rescookie_doesnt_work_in_production/</guid>
+      <pubDate>Tue, 16 Apr 2024 07:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>TinyMCE 替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c59j92/tinymce_alternative/</link>
+      <description><![CDATA[什么是好的且免费的 TinyMCE 替代方案？必须支持markdown   由   提交/u/Walter1981   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c59j92/tinymce_alternative/</guid>
+      <pubDate>Tue, 16 Apr 2024 06:48:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的基于 WordPress 和古腾堡的小字体大小钳位生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c597kw/my_small_font_size_clamp_generator_based_on/</link>
+      <description><![CDATA[ 由   提交/u/iamahouscat  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c597kw/my_small_font_size_clamp_generator_based_on/</guid>
+      <pubDate>Tue, 16 Apr 2024 06:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>心理健康资源网站的最佳平台和格式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c596op/best_platform_and_format_for_mental_health/</link>
+      <description><![CDATA[我正在建立一个网站来支持人们的心理健康，它将包含有关心理健康状况的各种文章和指南/信息以及可用的帮助、可用资源的链接、心理健康专业人士的访谈/视频等。  我不是网络专业人士，但多年来我为了我们的非营利性目的使用了相当多的 Wordpress，而且我很喜欢使用 HTML /CSS 进行调整/更改。我正在寻找托管该网站的最佳平台，即 Wordpress、Wix、Squarespace 或其他？  我也在尝试找出最适合它的布局/模板样式，即杂志格式似乎很适合？  任何关于我应该关注的方向的提示都会很棒，谢谢！   由   提交/u/pipedreams2008   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c596op/best_platform_and_format_for_mental_health/</guid>
+      <pubDate>Tue, 16 Apr 2024 06:26:20 GMT</pubDate>
+    </item>
     <item>
       <title>关于托管需要数据库和 cron/调度的简单 Node 应用程序的建议。</title>
       <link>https://www.reddit.com/r/webdev/comments/1c58jky/advice_on_hosting_a_simple_node_app_that_requires/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[有人成功完成此操作吗？在游戏开发中，你经常会看到这种情况，但这通常意味着“我的想法很模糊，执行能力很差，LFG”。  但是，我最近做了很多小型网络应用程序，收益分享对我来说似乎是一个梦幻般的设置。合同、发票和谈判可能是我最大的痛点，我可以看出，客户总是对我是否完全投入他们的项目感到紧张。对于许多客户来说，如果有保证的收入分成，我一开始就会为几分钱工作，因为他们在营销产品方面付出了艰苦的工作。 相反，似乎有两个世界 - 承包商/自由职业者一端是投资者/创业团队，另一端是投资者/创业团队。大型初创公司的股权并没有什么问题，但我真的很喜欢与较小的想法合作，这些想法旨在从第一天起就盈利，而不是试图将自己卖给下一个投资者的零工。 我可以认为有几个原因导致您仍然不经常看到收益分享。第一，创始人对于让某人“加入团队”存在信任问题。有道理，我也想这样。还有两个 - 你实际上是如何做到的。 Stripe、多供应商等中有一些解决方案，但它们非常乏味，这在尝试启动项目时并不是一个好的第一步。因此，我认为这里也存在技术空白，因为只有完全相信没有人可以操纵系统，它才能发挥作用。 但对我来说，好处似乎是巨大的。即使您不喜欢其他团队成员所做的事情，您也知道他们所做的基本上是为了给您赚钱。如果你认为你比其他人工作更努力，那么，去开始另一个项目，等等。  我还可以想象一个模型，创始人可能拥有 80% 的股份，但给出 1% 的股份至 20 人。现在他们有 20 个人，至少对提供良好的反馈、营销、测试等感兴趣。 所以，请有人建立这个平台，谢谢。   由   提交/u/elendee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c54lif/revenue_share_contracting/</guid>
       <pubDate>Tue, 16 Apr 2024 02:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>初创公司的 Web 开发建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/</link>
-      <description><![CDATA[Hey devs 👋 我的初创公司正在寻找有关 Web 开发的建议，特别是 UI 组件/设计系统的前端方面。  有人可以快速聊天吗？  此致，Symbols 的 Josh CBO   由   提交/u/kingj-2830  /u/kingj-2830  reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c53ckp/web_development_advice_for_startup/</guid>
-      <pubDate>Tue, 16 Apr 2024 01:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道便宜的图片托管网站吗？希望开发一个网络应用程序并检索带有标题/文本的图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c52muc/anyone_know_of_image_hosting_websites_for_cheap/</link>
-      <description><![CDATA[嗨，我希望开发一个网络应用程序，该应用程序主要托管包含一些标题/文本的图像。您有什么推荐的图片托管服务吗？价格？谢谢。   由   提交 /u/UnbanMe69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c52muc/anyone_know_of_image_hosting_websites_for_cheap/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要鼠标推荐吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c52bow/need_a_mouse_recommendation/</link>
-      <description><![CDATA[我目前使用的是 mx master 3s。它工作得很好，我喜欢它的功能，除了它的重量。经过一段时间的大量使用后，我感到手腕和手部有些疼痛。我正在寻找一只新鼠标。我是一名本科生，到目前为止，我有两个选择： 1 - Logitech mx Vertical 或 2 - Logitech g pro x superlight any建议？我更倾向于 g pro x superlight，因为它更轻，也可以用于游戏，而且目前在 bestbuy 上售价 99 美元。虽然我平时玩游戏比较随意。各位CS小伙伴，你们用的是什么鼠标，为什么？   由   提交 /u/colinksh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c52bow/need_a_mouse_recommendation/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:23:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>与客户束手无策</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c50oul/at_wits_end_with_a_client/</link>
-      <description><![CDATA[大家好，  我已经将我的个人自由职业发展成为一个小型代理机构。我一直在做网络开发和开发在 WordPress 中设计了大约 10 年。在过去的 3 年里，我不得不雇佣更多的人 (3) 来帮助我分担工作量。  我现在主要担任业务开发和产品经理的角色。我负责营销、大多数客户沟通等工作。我有一个非常棒的客户，但现在已经不再那么棒了。他们是一家非常小的“初创公司”——由 4 人组成的团队，我和他们的总监一起工作。经过 6 年的前期开发，我于 2021 年继承了他的代码库。  他对我进行微观管理。他跟踪我的一举一动。我将一些东西推送到生产环境，他问我为什么要推送，推送的目的是什么，以及他需要再次测试什么。如果我登录他就会给我发消息。如果 Sucuri 由于 XYZ 原因阻止了文件路径（这是 Sucuri，他们不会告诉你他们的确切规则） - 他希望全面调查发生这种情况的原因、是否存在安全缺陷以及如何预防。  如果用户通过电子邮件发送支持请求以重置其密码，并且防火墙阻止了他，他会认为整个平台已损坏，并向我发送多条请求帮助的消息，然后惊慌失措。最近的情况发生在周六，他要我周六下午5点见面。我没有回应。有时，我会在凌晨 3 点醒来，收到 10 多条来自客户的消息，内容涉及他想要解决的事情或问题。大多数时候它们是用户错误。  我一直在向他介绍让我的另一位开发人员协助我（即接管）开发的想法。客户将开发人员添加到位桶中，并在本地设置了环境。谈论新开发人员有多么出色。我的开发人员更新了自述文件，提供了更好的说明，以便为下一个开发人员在本地进行设置（这是最佳实践，以防万一我倒闭，他解雇我们，我们退出等）。  他吓坏了。想看合同。希望我的开发人员签署保密协议（我拒绝了，因为他和我有保密协议，而且我从未听说过有客户要求团队中的每个人都签署保密协议）。  因此，我们正在走向一个要么会发生争吵，要么我们与客户关系非常紧张的地方。  我从这里寻求的是让客户确信客户对我们过度容忍和微观管理。你们都会忍受这个吗？谢谢！！    由   提交/u/Device_Outside  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c50oul/at_wits_end_with_a_client/</guid>
-      <pubDate>Mon, 15 Apr 2024 23:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 s3 批量获取图像 URL 的最佳实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c50dxz/best_practice_for_bulk_fetching_image_urls_from_s3/</link>
-      <description><![CDATA[所以我使用 s3 中的预签名 URL 在我的 React 应用程序上显示图像。我一次显示 30 张卡片，我有一个 Python api 用于获取元数据。获取这些预签名 URL 的最佳方式是什么？我可以使用我的 api 生成预签名 URL，以便获得带有元数据的 url，或者创建一个 api 只是为了生成预签名 url 并调用它 30 次（需要等待我的第一个 api 完成获取才能获取图片的 ID）。欢迎任何意见！   由   提交 /u/OOFBOSS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c50dxz/best_practice_for_bulk_fetching_image_urls_from_s3/</guid>
-      <pubDate>Mon, 15 Apr 2024 23:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何正确测试 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4zrvu/how_do_i_test_apis_correctly/</link>
-      <description><![CDATA[我编写网站和网络应用程序已经有一段时间了。在尝试了许多不同的 Web 语言和框架之后，我决定使用 Spring 作为后端，React 作为前端，以及 Tailwind 作为样式。我在 Spring 中编写了一个简单的 CRUD REST API，并且使用 Postman 发送请求。 我想知道如何为 API 编写测试，最好是在 Postman 中。我还想知道 API 测试在更一般的层面上实际上是如何工作的。我在邮递员中创建了一个简单的测试，用于检查内容类型状态代码并验证返回的 JSON。这是正确的方法吗？我之所以这么问，是因为我需要模拟每种可能的情况并进行测试。这是真的吗？ ​ 谢谢。   由   提交 /u/GlitteringCalendar94   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4zrvu/how_do_i_test_apis_correctly/</guid>
-      <pubDate>Mon, 15 Apr 2024 22:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化 Azure 上托管的缓慢全栈应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4z9dv/optimising_slow_fullstack_app_hosted_on_azure/</link>
-      <description><![CDATA[我是全栈 Web 开发新手，但我使用 Java Spring 作为后端、JavaScript 作为前端制作了一个 Web 应用程序。这是康威生命游戏的小型模拟。问题是我对后端使用了很多 HTTP 调用（更准确地说，我使用后端创建一个随机/空网格，然后将该网格返回到前端。然后我在前端有一个 for 循环，并在每个循环我都会向后端发送一次HTTP POST请求来修改当前网格，然后返回修改后的网格，前端将使用p5.js库绘制它。这涉及更多的for循环。）  可以。其中很多都是在 JavaScript 前端完成的？是的，但我想学习如何合并后端，因为这更多的是一个实践/学习项目，并且还学习了一些 Spring。说到这里，我想优化一下。模拟器在 localhost 中运行平稳且快速，但是当我将其托管在 Azure（免费层）上时，速度变得相当慢。部分原因是由于 Azure 层，因为当我更改为 Premium 后速度有所提高，但我也认为这是因为我为该项目选择的堆栈。 有没有办法稍微优化一下同时仍然保留项目的全栈结构？这是一个还算不错的独立项目，我确实打算添加到我的简历中（我是大学二年级学生），但我担心招聘人员在测试运行它时可能会负面看待缓慢的速度。   由   提交 /u/Dropbototoro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4z9dv/optimising_slow_fullstack_app_hosted_on_azure/</guid>
-      <pubDate>Mon, 15 Apr 2024 22:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何部署一个发出网站请求的站点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4yb9a/how_to_deploy_a_site_that_makes_website_requests/</link>
-      <description><![CDATA[我正在尝试创建一个网站，根据用户输入的信息，从网站解析 HTML 数据（使用 Python 完成），然后显示基于该数据的信息。部署此类内容的最佳免费方式是什么？我也是一名学生，所以我也许可以获得学生福利之类的。谢谢！ 编辑：我基本上使用 BeautifulSoup 来抓取网络数据，以从与某人输入网站的用户名相关的页面获取信息。   由   提交 /u/Xenonaut1001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4yb9a/how_to_deploy_a_site_that_makes_website_requests/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:34:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不知道如何将 Excel 文件发送到 Remix 服务器路由</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4yb56/i_cannot_figure_out_how_to_send_a_excel_file_to_a/</link>
-      <description><![CDATA[我有一个名为 FileUpload 的放置区组件，它在其父组件中设置了一个名为 file 的状态。按下一个按钮，调用handlesSubmit，该按钮获取文件并在我的保存文件路径上执行提取。 在 /save-file 的操作中，我尝试将 Excel 文件写入到名为 excel_storage 的文件夹，但无论我做什么它都不起作用。当我打印文件时，它只显示一些元数据，包括名称、大小、类型，但它不会发送文件数据本身。  我尝试过使用 FileReader 并单独发送它，多次更改内容类型，将文件数据更改为 blob 并以这种方式发送，然后将文件对象本身附加到 FormData。只是没有发送任何文件数据。我已经尝试解决这个问题大约12个小时了，但我最终放弃了。  这是包含前端组件和后端组件以及输出的代码 https:// codeshare.io/yNJV9q 我不知道我遇到的麻烦是因为这是我第一次使用 Remix 还是我的知识有一些空白。我非常感谢您的帮助。    由   提交 /u/__B4Nd1t__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4yb56/i_cannot_figure_out_how_to_send_a_excel_file_to_a/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>eslint-插件-frontmatter2</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4yaiw/eslintpluginfrontmatter2/</link>
-      <description><![CDATA[我一直致力于在我维护的所有网站上更新 Eslint（我认为是上周发布的新主要版本）。长话短说，我在很多 Jekyll 和 eslint-plugin-frontmatter 中使用了 eslint-plugin-frontmatter 。 110 个站点，但它已经被废弃了大约 5 年，并且与新的 Eslint 不兼容。  所以我刚刚构建并发布了 eslint-plugin-frontmatter2&lt; /a&gt;.认为它可能对任何需要它的人有用。  它让你可以使用“frontmatter”在你的 JS 中，在将其传递给 linted 之前将其剥离出来。    由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4yaiw/eslintpluginfrontmatter2/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为网络开发者提供游戏捐赠？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c4xwdi/ludum_dare_for_web_developers/</link>
-      <description><![CDATA[上下文：Ludum Dare 是一场为期 48 小时的游戏盛宴，每年举办几次。您将获得一个主题（社区之前通过淘汰投票决定），并且必须在规定的时间内从头开始创建游戏。游戏由社区进行玩和评分，通过对其他玩家的游戏进行评分，您的游戏可以提升到列表顶部，作为曝光的激励。 我知道有网络开发竞赛，但是通过快速搜索，我看不到任何与 Ludum Dave 直接类似的 Web 开发内容。 当然，我不希望人们在周末内创建一个功能强大的网站。我确信有一些方法可以使此类比赛变得更加有趣和具有教育意义。除此之外，我还看到迎合不同堆栈的开发人员（后、前、全）的挑战。  结束我的抱怨 - 我向你们提出的问题是：  你们对这样的东西感兴趣吗？ 什么样的主题创意您能想象这一点吗？ 对于克服上述迎合所有堆栈的挑战，您有何想法？    由   提交/u/EthanCPP   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c4xwdi/ludum_dare_for_web_developers/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:18:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

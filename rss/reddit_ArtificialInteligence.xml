@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 06:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 09:12:26 GMT</lastBuildDate>
+    <item>
+      <title>您在自托管法学硕士和工具使用方面有什么经验？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5avpa/what_are_your_experiences_with_self_hosted_llms/</link>
+      <description><![CDATA[亲爱的社区， 正如标题所说，我想知道您对本地托管的法学硕士的体验与工具使用。 我正在尝试使用 LM-Studio 和船员 ai / autogen。到目前为止，我真正能够完成工具使用的唯一一次是使用 GPT-4 Turbo，本地 LLM 迟早都会导致错误消息。 这很可悲，因为对于纯粹的聊天来说，mixtral dolphin 和其他东西实际上非常有趣，并且通常足以满足我的需求。 请随时分享您的经验！  &amp;# 32；由   提交 /u/Prinzmegaherz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5avpa/what_are_your_experiences_with_self_hosted_llms/</guid>
+      <pubDate>Tue, 16 Apr 2024 08:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术堆栈建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c59wia/tech_stack_advice/</link>
+      <description><![CDATA[大家好， 我是使用 AI 进行构建的新手。我想创建一个人工智能图像生成器，特别是可以生成人体模型的良好图像。对此，什么是好的技术堆栈？感谢您对新手的帮助！ 😊   由   提交 /u/Unchicken   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c59wia/tech_stack_advice/</guid>
+      <pubDate>Tue, 16 Apr 2024 07:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llama 2 简介：彻底改变开源语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5934m/introducing_llama_2_revolutionizing_opensource/</link>
+      <description><![CDATA[Llama 2 已经到来，改变了开源大型语言模型 (LLM) 的面貌。这个强大的功能由 Meta AI 开发，提供从文本生成到代码编写的广泛功能。 包括基础和微调的“聊天”功能。对于模型，Llama 2 分别提供了灵活的定制基础和用于参与对话的预训练模型。突破性的是它的可访问性；与它的前身 Llama 1 不同，Llama 2 完全免费用于研究和商业用途，为创新的自然语言处理 (NLP) 应用打开了大门。 为了更深入地探索 Llama 2、其应用程序和技术见解，请深入博客 - https://www.seaflux。 tech/blogs/Llama-2-Meta-AI-Open-Source-Language-Model   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5934m/introducing_llama_2_revolutionizing_opensource/</guid>
+      <pubDate>Tue, 16 Apr 2024 06:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>释放生成式 AI 的力量：使用 AWS Bedrock 构建突破性应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5912t/unleash_the_power_of_generative_ai_build/</link>
+      <description><![CDATA[努力跟上生成式人工智能的快速发展？ AWS Bedrock 为开发人员提供一站式服务。通过单个 API 访问人工智能领域领先品牌的各种高性能基础模型。使用数据微调模型，利用预构建的代理，并专注于构建创新应用程序。 有关详细研究，请参阅博客 - https://www.seaflux.tech/blogs/aws-bedrock-models    ;由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5912t/unleash_the_power_of_generative_ai_build/</guid>
+      <pubDate>Tue, 16 Apr 2024 06:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能面临的偏见</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5861c/ai_bias_faced/</link>
@@ -34,20 +62,6 @@
       <pubDate>Tue, 16 Apr 2024 03:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>小模型促进工程设计？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c55c21/small_models_prompt_engineering/</link>
-      <description><![CDATA[提示工程大型模型（如 Claude Chagpt Gemini 和 70b 开放模型）的策略不适用于 7b 及以下模型 所以你如何提示工程师一个小模型（7b及以下）执行某个任务？ 考虑到不要用代币轰炸它，如果你投入大量代币，答案将需要很长时间并且低硬件用户可能需要几分钟.. 我尝试了不同的策略，但正如我所说，适用于大型模型的已知策略不适用于小型模型，是否有“小型模型提示”工程》指南还是策略？ 为什么还没有人想到探索法学硕士的这一面？使用提示而不是微调来提高小型法学硕士的答案有巨大的好处。   由   提交/u/CharacterCheck389  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c55c21/small_models_prompt_engineering/</guid>
-      <pubDate>Tue, 16 Apr 2024 02:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deceptio.ai - AI 语句欺骗检测工具。 💥当心💥</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c52zb6/deceptioai_ai_statement_deception_detection_tool/</link>
-      <description><![CDATA[我不知道该在哪里发布此内容，但我觉得有必要分享我与 Deceptio.ai 的经验，尤其是在刚刚听到关于它的讨论之后法庭电视台！我最初在一次我怀疑的采访中尝试了这种欺骗检测工具。我想确保我不会根据那次采访得出错误的结论，并需要一个专业的工具来分析它。我分析了这次采访，结果发现它是真实的，这让我怀疑它的整体准确性。为了证实我的怀疑，我创建了一份充满不一致和误导性细节的声明： “上周四晚上，我认为那是晚上 7 点或 8 点左右，不完全确定，我几乎在家整个晚上。我想我第二天就听说了马克丢失古董手表的消息。这很奇怪，因为，你知道，很多人进出他的地方。据我所知，这只手表非常昂贵而且很旧，是传家宝之类的。马克曾给我看过一次，但老实说，我并没有太注意它。手表其实不是我的菜，我不明白为什么有人会认为我拿了它。我的意思是，是的，我们有分歧，但是拿他的手表吗？那不是我会做的事。另外，那天晚上我很忙，正在为客户做一个项目，所以我几乎没有时间考虑出去。这真的很不幸。马克应该更加小心他的东西。上次我听说，他对此感到非常沮丧，但事情总是会丢失，对吗？不管怎样，我希望他们能找到它，但我不知道我能提供什么帮助。” Deceptio.ai 错误地将这个声明识别为真实的，这非常令人担忧。虽然该工具正在法律背景下进行讨论，并且据称已被警方使用，但其可靠性非常值得怀疑。我希望没有人根据其调查结果受到错误指控或无罪。 如果您正在查找评论或考虑使用 Deceptio.ai 处理严重问题，请将此帐户作为一个警示故事。该工具检测欺骗的有效性和准确性值得高度怀疑，在任何关键应用之前都应该对其进行彻底审查。   由   提交/u/zaddy_tuck69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c52zb6/deceptioai_ai_statement_deception_detection_tool/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:53:42 GMT</pubDate>
-    </item>
-    <item>
       <title>将 AI 保存在硬盘上</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c52oy6/keeping_an_ai_on_a_hardrive/</link>
       <description><![CDATA[您好，我有一个备用硬盘，是为我的一门大学课程准备的，但我不再需要了（它有 5tb 的空间）我想知道如何处理它，我很好奇是否有可能在上面存储某种聊天机器人的数据，这是一种创建个人人工智能伙伴的方法（我非常孤独）无论如何，我想知道这是否是真的逻辑上可能吗？我能够在驱动器上存储多少数据？如果我要获得更大的驱动器，是否可以存储用于运行它的整个程序？ &lt;!-- SC_ON - -&gt;  由   提交/u/ZamboniTrex  [链接] [评论]]]></description>
@@ -55,32 +69,18 @@
       <pubDate>Tue, 16 Apr 2024 00:40:36 GMT</pubDate>
     </item>
     <item>
-      <title>Joy 人工智能房地产经纪人 |让买房变得负担得起</title>
+      <title>Joy 人工智能房地产经纪人 |让买房变得经济实惠</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c51xdt/joy_the_ai_real_estate_agent_making_buying_a_home/</link>
       <description><![CDATA[来认识一下 Joy，人工智能房地产经纪人，他会付钱给你买房 (www.withjoy.ai) 美国的住房负担能力已成为一个巨大的问题。我的许多同龄人（我是千禧一代中年轻的一半）已经完全放弃了拥有住房的梦想，因为他们认为自己永远买不起。我们创建 Joy 是为了帮助解决美国的负担能力问题。  Joy 是一名房地产经纪人，专门与购房者合作。 Joy 可以做标准房地产经纪人能做的任何事情（除了亲自见面）。她可以安排看房、协商报价、协调检查等等。  Joy 最好的一点是，她会将 70% 的佣金返还给购房者。  Joy 运作方式示例： - 购房者使用 Joy 购买价值 500,000 美元的房屋 - Joy 在此交易中收取 3% 的佣金，相当于 15,000 美元 - Joy 将该佣金的 70% 返还给购房者，相当于 10,500 美元 购房者可以以现金形式收到这笔回扣，将其用于首付或购买利息点以降低每月的抵押贷款付款。 我们有一个 100 秒的 Joy 介绍视频，您可以在这里找到：https:// www.youtube.com/watch?v=NMxXAZdP5YA&amp;t=32s 如果您对 Joy 的运作方式有任何疑问，请随时提出，如果您不喜欢我们的初创公司，请彻底嘲笑 Joy。    由   提交 /u/IntelligentLand7142   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c51xdt/joy_the_ai_real_estate_agent_making_buying_a_home/</guid>
       <pubDate>Tue, 16 Apr 2024 00:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>我的任务是确定将智能/NLP 搜索纳入 SaaS 数据管理平台的方法。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c51kdk/ive_been_tasked_with_identifying_ways_to/</link>
-      <description><![CDATA[不确定这是否是最好的地方，但是...... 我们的想法是，不要使用标签来搜索和过滤平台中的产品列表，例如，用户可以输入“获取墨西哥湾的所有产品”。  我不是软件工程师，但我知道我们的平台同时使用 AWS 和 Azure，而且我已经看到两者都有智能搜索产品。  平台的元数据存储在 Azure Cosmos DB 中。我假设人工智能模型将使用该元数据进行训练。 只是好奇是否有人对如何完成此任务有任何指示或建议，因为我对人工智能还很陌生。 当我收集有关该平台的更多信息时，我将添加更多详细信息。  感谢您的阅读。    由   提交/u/c47v3770   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c51kdk/ive_been_tasked_with_identifying_ways_to/</guid>
-      <pubDate>Mon, 15 Apr 2024 23:51:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想为人工智能的可持续发展做出贡献吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4vbwh/would_you_like_to_contribute_to_a_sustainable/</link>
-      <description><![CDATA[几天前，我发表了一篇文章，我非常想通过从事人工智能项目来为更美好的社会做出贡献。我收到了很多善意的信息和表现出兴趣的人！  首先。非常感谢你们有共同的目标。我真的希望我们能一起做一些美好的事情。 因此，我们专门为愿意为这个项目做出贡献的个人创建了一个 Reddit 子版块。  这个 Reddit 子版块目前的目标是： 建立一个由志同道合的从事人工智能工作的人组成的社区。旁边是可以为讨论做出贡献的人，例如专业人士和专家、教授和学生、商人和投资者。 我们希望就这些主题进行清晰和开放的沟通，以便我们能够提供必要的信息人工智能的未来。意图在未来做出更好的决策。 接下来的几个月，我们将努力与特定领域的个人建立牢固的联系，以便我们最终能够以积极且有意义的方式为人工智能的发展做出贡献。  我们的一些目标： 使人工智能个性化；通过这种方式，个人可以探索自己的好奇心。 使其易于理解且容易实现；每个人都应该能够利用人工智能来改善他们的生活。 发展；我们希望帮助那些需要大量帮助的部门，例如：科学研究、教育和医疗保健。 如果您想加入这个 Reddit 子版块，我将其链接在下面；） 让我知道你的想法！ https://www.reddit.com/r/PROJECT_AI/s/ggh49uvZQi &lt; /div&gt;  由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4vbwh/would_you_like_to_contribute_to_a_sustainable/</guid>
-      <pubDate>Mon, 15 Apr 2024 19:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我从付费 Chatgpt 版本切换到免费的 Llama 2，我使用它来帮助我的课程计划和其他体育相关活动会得到相同的结果吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4v42j/if_i_switch_from_the_paid_chatgpt_version_to/</link>
-      <description><![CDATA[我一直在使用 Chatgpt 作为体育老师，它对我帮助很大。然后 youtube 向我推荐了一个关于 Llama 2 的视频，以及它是如何开源的，即免费的。如果我学习使用 Llama 2（我以前从未使用过），它会给我与使用 Chatgpt 付费版本相同的结果吗？如果我以前从未使用过 Llama 2，那么学习 Llama 2 是多么困难。谢谢   由   提交/u/exercisesports321   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4v42j/if_i_switch_from_the_paid_chatgpt_version_to/</guid>
-      <pubDate>Mon, 15 Apr 2024 19:29:26 GMT</pubDate>
+      <title>他们如何做到这一点？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c50vxq/how_do_they_do_this/</link>
+      <description><![CDATA[在过去的几天里，我在音乐会上看到了同一个说唱歌手的视频，而我并没有真正意识到这个视频被不同的人所取代当他们向人群跳舞时，他们会从当前和过去的历史中汲取灵感。我不知道说唱歌手是谁；但我对替换视频中物体的潜力很着迷。我想尝试几个有趣的测试用例。 我看过 YouTube 上的随机主播、各种历史人物，甚至是首席执行官。英伟达的。但没有人解释如何做到这一点。 他们是如何做到这一点以及他们使用了什么工具？最重要的是，我该怎么做？   由   提交 /u/honestduane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c50vxq/how_do_they_do_this/</guid>
+      <pubDate>Mon, 15 Apr 2024 23:22:07 GMT</pubDate>
     </item>
     <item>
       <title>从逻辑到人工智能：人工智能历史之旅</title>
@@ -90,14 +90,14 @@
       <pubDate>Mon, 15 Apr 2024 18:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德现在领先chatgpt几英里。 claude 的免费版本提供了比 chatgpt 4 Pro 版本更好的答案</title>
+      <title>克劳德现在领先chatgpt几英里。 claude 的免费版本比 chatgpt 4 Pro 版本给出了更好的答案</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4lzqk/claude_is_now_miles_ahead_of_chatgpt_the_free/</link>
       <description><![CDATA[从一开始就将其告知为 chatgpt pro 订阅者。终于取消了。 Chatgpt 图像质量也落后于中途数年   由   提交/u/Southern_Opposite747   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4lzqk/claude_is_now_miles_ahead_of_chatgpt_the_free/</guid>
       <pubDate>Mon, 15 Apr 2024 13:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
