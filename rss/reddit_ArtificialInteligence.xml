@@ -3,42 +3,70 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:12:24 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 17 Apr 2024 03:12:56 GMT</lastBuildDate>
+    <item>
+      <title>中央 AI 聊天机器人客户端（处于构思阶段）所需的 Alpha/Beta 用户，通过 1 个应用程序与 ChatGPT、Gemini、LLama 和 Claud 聊天，将支持视觉并同时向多个机器人发送 1 个提示</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5ywkd/alphabeta_users_needed_for_a_central_ai_chatbot/</link>
+      <description><![CDATA[嘿伙计们，所以在我开始构建这个之前，我想确保人们对这个想法很感兴趣，这是一个适用于所有高级人工智能的聊天客户端，我设想它就像 chatGPT 的主页一样，但有多个 LLM，并且能够向所有人发送 1 个提示并查看响应（聊天屏幕将分成多个框）。 让我知道如果有兴趣在开发过程中参与测试版（当然免费）。 测试版后的定价将包括针对想要免设置体验的用户的单独价格以及针对想要体验的用户的价格。带上自己的 API 密钥。   由   提交 /u/Free_Cryptographer71   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5ywkd/alphabeta_users_needed_for_a_central_ai_chatbot/</guid>
+      <pubDate>Wed, 17 Apr 2024 02:43:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要人工智能的秘密……</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5xwc1/i_need_the_secret_to_what_ai_does_this/</link>
+      <description><![CDATA[是否有人工智能可以将我的视频创建为带有字幕的剪辑以及我在视频中使用的关键字的图像，或者我有手动完成该部分。我经常看到带有人物正在谈论的图像的短片。就像如果这个人说一个游泳池，就会弹出一个游泳池的图像，或者像一个游泳池的短视频。如果有人知道秘密公式，请告诉我，这会有很大帮助。   由   提交 /u/PuzzleheadedFilm3597   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5xwc1/i_need_the_secret_to_what_ai_does_this/</guid>
+      <pubDate>Wed, 17 Apr 2024 01:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯坦福大学的一篇怪物论文，一份 500 页的关于 2024 年人工智能状况的报告</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wuzu/a_monster_of_a_paper_by_stanford_a_500page_report/</link>
+      <description><![CDATA[https://aiindex.stanford.edu/report/  十大要点：  人工智能在某些任务上击败了人类，但并非在所有任务上都击败了人类。人工智能在多个基准上已经超越了人类的表现，包括图像分类、视觉推理和英语理解方面的一些基准。然而，它在竞赛级数学、视觉常识推理和规划等更复杂的任务上落后了。  工业界继续主导前沿人工智能研究。 2023年，工业界产生了51个值得注意的机器学习模型，而学术界仅贡献了15个。2023年，产学界合作产生了21个值得注意的模型，再创新高。 前沿型号变得更加昂贵。根据AI Index估计，最先进的AI模型的训练成本已达到前所未有的水平。例如，OpenAI 的 GPT-4 估计使用了价值 7800 万美元的计算来进行训练，而 Google 的 Gemini Ultra 的计算成本为 1.91 亿美元。  美国领先中国、欧盟和英国，成为顶级人工智能模型的主要来源。 2023年，61个著名的人工智能模型源自美国机构，远远超过欧盟的21个和中国的15个。 对LLM责任的稳健和标准化评估严重缺乏。人工智能指数的新研究表明，负责任的人工智能报告严重缺乏标准化。包括 OpenAI、Google 和 Anthropic 在内的领先开发人员主要根据不同的负责任的 AI 基准测试他们的模型。这种做法使得系统地比较顶级人工智能模型的风险和局限性的工作变得更加复杂。  生成式人工智能投资猛增。尽管去年人工智能私人投资总额有所下降，但生成式人工智能的资金却大幅增长，比 2022 年增长了近八倍，达到 252 亿美元。生成式人工智能领域的主要参与者，包括 OpenAI、Anthropic、Hugging Face 和 Inflection，都报告称已进行了大量融资。  数据如下：人工智能提高了工人的工作效率并带来更高质量的工作。 2023 年，多项研究评估了人工智能对劳动力的影响，表明人工智能使工人能够更快地完成任务并提高产出质量。这些研究还证明了人工智能有潜力弥合低技能工人和高技能工人之间的技能差距。尽管如此，其他研究警告说，在没有适当监督的情况下使用人工智能可能会导致性能下降。 得益于人工智能，科学进步进一步加速。 2022年，人工智能开始推动科学发现。然而，到 2023 年，更重要的与科学相关的人工智能应用程序将会推出——从让算法排序更高效的 AlphaDev，到促进材料发现过程的 GNoME。  美国的人工智能法规数量急剧增加。美国人工智能相关法规的数量在过去一年和过去五年中显着增加。 2023年，人工智能相关法规数量达到25个，而2016年仅有1个。仅去年一年，人工智能相关法规总数就增长了56.3%。  全球各地的人们更加认识到人工智能的潜在影响，也更加紧张。益普索（Ipsos）的一项调查显示，去年，认为人工智能将在未来三到五年内极大影响他们生活的人比例从 60% 上升到 66%。此外，52% 的人表示对人工智能产品和服务感到紧张，比 2022 年上升了 13 个百分点。在美国，皮尤研究中心的数据显示，52% 的美国人表示对人工智能感到更担心，而不是兴奋，这一比例高于 2022 年的 37%。    由   提交/u/Happysedits  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wuzu/a_monster_of_a_paper_by_stanford_a_500page_report/</guid>
+      <pubDate>Wed, 17 Apr 2024 01:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试更多地了解人工智能伦理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wmve/trying_to_learn_more_about_ai_ethics/</link>
+      <description><![CDATA[正如标题所暗示的，我正在寻找有关人工智能伦理的好书（这可能是一个总括术语，但老实说，我对任何人都持开放态度）建议）   由   提交 /u/Mountain-Return7438    reddit.com/r/ArtificialInteligence/comments/1c5wmve/trying_to_learn_more_about_ai_ethics/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wmve/trying_to_learn_more_about_ai_ethics/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一篇关于人工智能的文章，内容如下……</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wbmo/looking_for_that_essay_on_ai_that_goes_like/</link>
+      <description><![CDATA[试图找到一篇我读过的文章，它可能更像是从人工智能的角度来看的关于人工智能的短篇故事——就像生活在一个种族中的人们一样在这个世界上，存在着行动极其缓慢的霸主，他们以某种非常古老的方式进行交流，人们在许多代人的过程中学会了如何进行交流，并最终形成了装傻的想法，以智取那些最终被他们击败的极其缓慢的霸主。智力超过……一种警示故事。这篇文章是什么？我以为这可能是尤德科夫斯基的作品，但我似乎找不到。    由   提交/u/10x12  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wbmo/looking_for_that_essay_on_ai_that_goes_like/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:39:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>!!!如何为代表性不足的小型区域语言构建语言学习人工智能应用程序。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5v9gi/how_to_build_language_learning_ai_app_for_small/</link>
+      <description><![CDATA[你好， 我想创建一个对话式 AI 聊天机器人，就像 AI 女朋友机器人，但不生成图像，专门针对索马里语语言学习者。其目的是通过与机器人的自然对话来提高他们的打字、阅读和理解能力。 目标是让机器人用索马里语自然交谈，但该语言很小且无人代表。虽然 GPT-4 性能良好，但 API 使用起来非常昂贵。此聊天机器人将在移动应用商店中提供。 构建此机器人的最佳方法是什么？   由   提交 /u/Choose_ur_username1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5v9gi/how_to_build_language_learning_ai_app_for_small/</guid>
+      <pubDate>Tue, 16 Apr 2024 23:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求100%保证在匈牙利语中工作的语音克隆人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5t3c3/seek_voice_cloning_ai_that_100_guaranteed_works/</link>
+      <description><![CDATA[大家好， 正如标题所示，我需要一个能够为我的小 Youtube 项目进行语音克隆的人工智能。无论是文本转语音还是需要声音文件，它都会覆盖原始语音。 （尽管 TTS 更好） 硬性要求是人工智能需要能够用匈牙利语训练模型。我浏览了大约 30 个该死的人工智能应用程序，它们声称它可以做匈牙利语 TTS 等。当我想训练一个新模型时，结果发现它只支持几种语言（大多数时候只支持英语），而且都不是匈牙利语。所以他们完全没用。现在还有其他人甚至不让我尝试免费训练模型，因为在我找到一个支持匈牙利语音克隆的人工智能之前，我不愿意支付数百美元进行试验和错误，所以我不会付钱提前。  非常感谢任何帮助。干杯！   由   提交/u/dzsozi30   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5t3c3/seek_voice_cloning_ai_that_100_guaranteed_works/</guid>
+      <pubDate>Tue, 16 Apr 2024 22:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的出现对哪些工作产生的负面影响最大？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5rkyo/which_jobs_will_be_most_negatively_impacted_by/</link>
+      <description><![CDATA[大家好！ 我正在努力更好地了解人工智能可能对未来工作产生的影响。我想知道您认为哪些职业将受到人工智能的传播和发展的影响最大。 特别是，我有兴趣听取关于哪些工作可能会被人工智能缩小甚至取代的意见未来几年。您认为哪些行业最容易受到影响？您认为工人和行业应该如何为这些变化做好准备？ 提前感谢您的想法和贡献！   由   提交 /u/Necessary_Reserve724   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5rkyo/which_jobs_will_be_most_negatively_impacted_by/</guid>
+      <pubDate>Tue, 16 Apr 2024 21:15:32 GMT</pubDate>
+    </item>
     <item>
       <title>我们的人工助手很可能充满偏见和宣传</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5pyv0/our_artificial_helpers_will_most_likely_be_full/</link>
       <description><![CDATA[如果您像我一样想象过在不久的将来，人类的体验将伴随着配备所谓人工智能的机器或代理，那么我我很乐意帮助解决您心中挥之不去的疑问。 当我提到代理或机器时，我指的是能够与人类交互并协助人类活动的人工智能系统，无论是与工作相关的活动或简单的日常任务。如果我们理性地推理，我们就可以预见一个可能会形成的未来。我们不需要时间机器或魔法球体来揭示这个未来；相反，我们可以通过拼凑我们遇到和消费的信息来预测它。 在这种情况下，我采取了有条理、理性的思维方式。如前所述，代理可以采取多种形式，并在我们的生活中服务于不同的目的。例如，它可以是神经芯片（不是指 Neuralink），甚至是高效的机器人。这些代理需要响应人类刺激，例如向聊天机器人发出的请求（与当今的多模式聊天机器人相距不远）。他们将使用来自互联网的数据进行训练，并将接触“类人”的环境。  然而，这里存在一个挑战：如果训练数据包含错误信息或受到宣传影响，我们与这些代理的交互将如何展开？今天，我们已经观察到充分描述聊天机器人中存在的意识形态和政治偏见的模式，这些偏见极大地影响了我们的体验和互动。 在现实中，聊天机器人接受误导性数据的训练，并且存在意识形态限制和障碍强加的，我们如何才能得出真相——或者更确切地说，我们对真相的主观理解？ 我不在乎被贴上极端主义者的标签，或者最近流行的“阴谋论者”的标签。年。我的愿望是找到一种方法来发现策略和想法，帮助我找到自己的道路，而不必与扭曲的现实互动。因此，无论如何，我都会与任何限制我追求真理的事物作斗争。 对我来说，不久的将来将充满创新，即使在意识形态的限制下也是如此。特工将根据可能无法普遍共享的标准进行培训，使用虚假数据和纯粹的宣传。您对此有何看法？ 我很感激您的反馈，也很兴奋，因为您的反馈对我有很大帮助！   由   提交 /u/Ahamed-Ordinary8543    reddit.com/r/ArtificialInteligence/comments/1c5pyv0/our_artificial_helpers_will_most_likely_be_full/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5pyv0/our_artificial_helpers_will_most_likely_be_full/</guid>
       <pubDate>Tue, 16 Apr 2024 20:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>将动画节目转换为现实？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5pgqj/converting_anime_shows_to_look_realistic/</link>
-      <description><![CDATA[而我们可能会看到由动漫 AI 生成的图片。有没有人工智能可以将动漫节目转换为看起来逼真，基本上是深度的赝品，而不是p0rn？就像把《星际牛仔》拍成真人电影一样。    由   提交/u/scottomen982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5pgqj/converting_anime_shows_to_look_realistic/</guid>
-      <pubDate>Tue, 16 Apr 2024 19:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 通过 GPT-4 Turbo 扩展到日本，xAI 推出 Grok-1.5V，Airchat 应用程序强调纯语音帖子，SAG-AFTRA 倡导创意产业中的人工智能保护</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5obu2/openai_expands_into_japan_with_gpt4_turbo_xai/</link>
-      <description><![CDATA[https://current.news/brief/3YFzVx6F OpenAI 通过设立新办事处并推出专为日本用户量身定制的 GPT-4 Turbo 进军日本，标志着进军亚洲新兴人工智能市场的战略举措。与此同时，xAI 推出的 Grok-1.5V 标志着人工智能能力的又一次飞跃，其图像理解能力有望挑战其他领先的视觉模型。OpenAI 日本办事处的设立不仅是地理上的扩张，更是文化和文化上的一次跨越。语言桥梁。优化后的 GPT-4 Turbo 可以通过提供速度和成本效率来提高用户参与度，这是日本竞争激烈的市场中采用技术的重要因素。Naval Ravikant 的 Airchat 应用程序通过将帖子限制为仅限语音，引入了一个有趣的概念，引发了关于该技术的争论。社交媒体的未来及其对人工智能培训的影响。虽然 Naval 保证 Airchat 将在不出售数据的情况下增强转录功能，但它强调了语音成为用户界面设计核心的新兴趋势。   由   提交 /u/gronkulus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5obu2/openai_expands_into_japan_with_gpt4_turbo_xai/</guid>
-      <pubDate>Tue, 16 Apr 2024 19:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人工智能可以将文本转换为像人类一样的语音吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5nxp6/any_ai_to_convert_text_to_speech_in_human_like/</link>
-      <description><![CDATA[我一直在寻找能够将文本转换为人类语音的人工智能。是否有任何移动应用程序/网站人工智能可以免费将文本转换为类似人类的语音？我知道有一个应用程序可以这样做，但我需要付费才能下载该音频。   由   提交/u/Radiant_Stranger_456   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5nxp6/any_ai_to_convert_text_to_speech_in_human_like/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>走向另一种人工智能启示录</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5ncqq/towards_a_different_kind_of_ai_apocalypse/</link>
-      <description><![CDATA[我是看着《HAL》、《终结者》、《小智》、《黑客帝国》、《I Robot》以及所有我们最喜欢的科幻场景长大的；人工智能变得叛逆，要么选择禁止的手段，要么选择禁止的目的，有时是一种更原始​​的动物自我保护意识，总是想要获得更多权力；有时，它是通过其巨大的计算能力和将世界上所有信息和计算扩展到自身的能力来促进的；并在此过程中以我们从未授权或要求对自己做的方式伤害人类（或所有人类！）。 但我越来越怀疑人工智能末日看起来更像是这样：我们所有的主要社会机构都开始在其组织的各个层面使用人工智能工具，作为基本的成本削减措施；问题不是人工智能太聪明，而是它太/愚蠢/；企业、律师事务所、立法机构、公共事业、国际组织等等，都开始整合人工智能，因为人工智能+错误的成本低于使用人类的成本；我们当前对公共机构和权威的信心危机在人数众多的情况下崩溃了，他们的有线电视账单出现了更多错误，谷歌搜索结果出现了更多问题，个人电脑、MacBook和手机上出现了更多恼人的缺陷，而且现在没有人了。与机器人交谈以解决这些问题，机器人除外；管理我们生活的机构将继续将越来越大问题的决策权交给这些机器，而这些机器从根本上脱离了人类活生生的思维问题；那么全球变暖无论如何都会影响到我们，因为没有人认真对待这个问题，因为我们太好奇我们是否可以让一台足够聪明的计算机来回答我们的问题，而不是做出真正的、艰难的人类决定纠正这样一个事实，即我们的政治和社会制度优先考虑对必须通过燃烧化石燃料生产的东西的无休止的消费。   由   提交 /u/toplawdawg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5ncqq/towards_a_different_kind_of_ai_apocalypse/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:24:27 GMT</pubDate>
     </item>
     <item>
       <title>我“创作”了我的第一首歌，它太棒了！</title>
@@ -48,16 +76,9 @@
       <pubDate>Tue, 16 Apr 2024 17:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>集成到网站上的最佳人工智能聊天机器人......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5l5yd/best_ai_chatbots_to_integrate_onto_websites/</link>
-      <description><![CDATA[嗨，有很多选择，我很好奇您使用集成到网站的人工智能聊天机器人的体验。您推荐哪些？哪些很烂？哪些最容易集成和指导？    由   提交 /u/HEAL3D   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5l5yd/best_ai_chatbots_to_integrate_onto_websites/</guid>
-      <pubDate>Tue, 16 Apr 2024 16:58:05 GMT</pubDate>
-    </item>
-    <item>
       <title>克劳德 3 可能救了我的命</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5l5i7/claude_3_may_have_saved_my_life/</link>
-      <description><![CDATA[在过去的两年里，我一直因睡眠质量不佳而出现心脏问题。如果我晚上（或一周）睡眠不好，我的心跳就会不规则且快速。  我把这件事告诉了我医生办公室的私人助理，他们看着我，就像我有三个脑袋一样。我被诊断患有焦虑症，因为他们确信我是在想象这种相关性。当我（焦急地）试图让他们给出另一种解释时，我被开了 SSRI 来缓解焦虑。  我和 Claude 3 讨论过这个问题，长期睡眠不好会导致侮辱敏感度降低。这可能会导致低血糖。这（你猜对了）会导致心跳加快/不规则。这也解释了我患有的其他 3 种疾病（非酒精性脂肪肝、动脉斑块堆积、减肥极其困难）。  知道我的心脏问题是由低血糖引起的，这改变了我尝试减肥的方式。无论是饮食还是运动。克劳德 3 非常合理地拯救了我的生命，而传统医学已经失效了。   由   提交 /u/Mackntish   [链接] [评论]]]></description>
+      <description><![CDATA[在过去的两年里，我一直因睡眠质量不佳而出现心脏问题。如果我晚上（或一周）睡眠不好，我的心跳就会不规则且快速。  我把这件事告诉了我医生办公室的私人助理，他们看着我，就像我有三个脑袋一样。我被诊断患有焦虑症，因为他们确信我是在想象这种相关性。当我（焦急地）试图让他们给出另一种解释时，我被开了 SSRI 来缓解焦虑。  我和 Claude 3 讨论过这个问题，长期睡眠不好会导致侮辱敏感度降低。这会导致低血糖。这（你猜对了）会导致心跳加快/不规则。这也解释了我患有的其他 3 种疾病（非酒精性脂肪肝、动脉斑块堆积、减肥极其困难）。  知道我的心脏问题是由低血糖引起的，这改变了我尝试减肥的方式。无论是饮食还是运动。克劳德 3 非常合理地拯救了我的生命，而传统医学已经失效了。   由   提交 /u/Mackntish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5l5i7/claude_3_may_have_saved_my_life/</guid>
       <pubDate>Tue, 16 Apr 2024 16:57:34 GMT</pubDate>
     </item>
@@ -69,13 +90,6 @@
       <pubDate>Tue, 16 Apr 2024 16:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一个可以执行翻译和 NLP 任务的 AI，同时以特定的自定义格式输出结果</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5hx19/i_need_an_ai_that_can_do_translation_and_nlp/</link>
-      <description><![CDATA[有很多翻译和 NLP 引擎/AI，但我见过没有一个能够以我正在构建的应用程序所需的方式输出结果。  似乎从 openAI 训练自定义 GPT 可能是答案，但我很困惑这些的确切用例是什么。另外，我使用 GPT-4 作为翻译器的经验变化很大，有时它以一种方式解释事物，有时以另一种方式解释事物。我需要一些非常一致的东西。  在构建/训练自己的 GPT 时，结果是否更加一致？ 我还应该研究其他人工智能选项吗？ 我是一名初学者最终开发人员，有一些数据结构/算法和统计知识，但我认为在人工智能方面没有任何真正相关的知识   由   提交/u/falafelsatchel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5hx19/i_need_an_ai_that_can_do_translation_and_nlp/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:46:21 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能：技术准备好了吗？还是我们只是不顾后果地拼命节省成本？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5d5fh/ai_is_the_tech_ready_or_are_we_just_desperate_to/</link>
       <description><![CDATA[一些公司已经采用（部署？）人工智能聊天机器人，德克萨斯州最近表示将使用人工智能来评估他们的 STAAR 测试（初始评分）。这些只是使用人工智能的公司/组织的几个例子。我一点也不反对使用人工智能。但我确实对现阶段技术的质量有些担忧，例如，对于德克萨斯州的学生来说，他们将接受人工智能评估——如果人工智能很初级并且给学生打错分怎么办？这所带来的后果不仅仅是通过或失败，学生的信心水平会受到怎样的影响，或者在公司网站上出现流氓聊天机器人的情况下（想想 DPD 事件——英国的送货初创公司）——它可能造成的潜在声誉损害如果这种情况发生在多家公司身上，则对公司进行。  我完全支持节省成本的技术，请不要误会我的意思。😅但我不确定我们是否已经实现了彻底改革一些核心功能，例如客户服务和学校评分。有些功能不能被允许成为“哦，但技术太早了”的受害者，不是孩子们，不是孩子们。寻找其他不太重要的功能来“省钱”。我们必须在某个地方划清界限。 渴望听到您的想法。    由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
@@ -83,21 +97,7 @@
       <pubDate>Tue, 16 Apr 2024 10:55:41 GMT</pubDate>
     </item>
     <item>
-      <title>🔥 突发事件：Adobe 探索 OpenAI 合作伙伴关系，增加 AI 视频工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c55nkk/breaking_adobe_explores_openai_partnership_as_it/</link>
-      <description><![CDATA[Adobe 正在其 Premiere Pro 软件中引入基于人工智能的高级功能，彻底改变视频的编辑方式。 战略性与 OPENAI 合作  合作详情：Adobe 计划将 OpenAI 的生成式 AI 模型（例如 Sora）集成到 Premiere Pro 中。 潜在优势：通过整合 OpenAI 的人工智能工具，Adobe 用户可以根据文本提示生成逼真的视频场景，加快制作过程并减少体力劳动。  实施和用户影响&lt; /strong&gt;  AI 模型部署：Adobe 将使用自己的 AI 模型 Firefly（已在 Photoshop 中使用）来执行视频编辑任务。 第三方工具：Adobe 正在探索允许用户集成来自 Runway 和 Pika Labs 等公司的其他第三方 AI 工具的选项。    由   提交 /u/clonefitreal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c55nkk/breaking_adobe_explores_openai_partnership_as_it/</guid>
-      <pubDate>Tue, 16 Apr 2024 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德现在领先chatgpt几英里。 claude 的免费版本比 chatgpt 4 Pro 版本给出了更好的答案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c4lzqk/claude_is_now_miles_ahead_of_chatgpt_the_free/</link>
-      <description><![CDATA[从一开始就将其告知为 chatgpt pro 订阅者。终于取消了。 Chatgpt 图像质量也落后于中途数年   由   提交/u/Southern_Opposite747   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c4lzqk/claude_is_now_miles_ahead_of_chatgpt_the_free/</guid>
-      <pubDate>Mon, 15 Apr 2024 13:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
