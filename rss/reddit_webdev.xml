@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 18:16:20 GMT</lastBuildDate>
+    <item>
+      <title>还有其他人认为职位头衔本质上毫无意义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6gzm5/does_anyone_else_find_that_job_titles_are/</link>
+      <description><![CDATA[我正在 LinkedIn 上查找职位，但很难找到与我相关的职位。有太多不同的职位名称，我一半时间都不知道该搜索什么。仅搜索前端角色就有：软件工程师、前端开发人员、UX 开发人员、UI 开发人员、前端工程师、设计工程师、Web 开发人员等等…… 令人沮丧的是每个职位名称似乎都是如此要求如此不同。有时，“UI 开发人员”角色专注于 CSS、HTML、动画、设计系统等。然后另一个“UI 开发人员”角色将只是您通常的 React 开发角色，重点关注复杂的 javascript 逻辑。有时，“前端开发人员”角色需要 Python 和 AWS 知识，而其他人则需要 PHP 来支持 WordPress。当工作列出如此多不同的以后端为重点的要求，然后要求 CSS、UI 和 UX 方面的专业知识，就好像这不是一个需要单独雇用人员的专业领域一样，这也是令人沮丧的。   由   提交/u/fe_dev_rants  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6gzm5/does_anyone_else_find_that_job_titles_are/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题：域名正在重新路由到带有 www 的子域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6gndt/question_domain_is_rerouting_to_a_subdomain_with/</link>
+      <description><![CDATA[大家好， 我正在尝试创建一个“go”通过 Cloudflare 上客户端的 CNAME 记录的子域。这是成功的，但是当我输入网站时，它会重新路由到 www.go.\[domain\ ].tld  在这种情况下有什么帮助吗？   由   提交 /u/tomato_pancake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6gndt/question_domain_is_rerouting_to_a_subdomain_with/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助制定网站创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6ew7e/help_with_website_idea/</link>
+      <description><![CDATA[我一直在寻求构建一些有意义的东西，将我的软件工程技能与为他人的生活做出积极贡献的愿望结合起来。凭借开发用户友好且可扩展的网络解决方案的经验，我想到创建一个辅导平台。以下是我的想法的简要说明： 📚在线辅导平台：该平台旨在将需要学术帮助的学生与准备好并有资格进行辅导的同龄人联系起来。它将支持志愿者和付费辅导服务，使每个人都可以使用它。 🔍问题：我很难看出这与机构提供的一些现有服务有何显着不同。手动配对学生进行指导。我希望这在更广泛的范围内更具创新性和有益性。 👨‍💻 我的背景： 我是一名软件工程专业的学生，​​拥有 FS 开发和设计交互功能的经验用于网络应用程序。我参与过已经部署并正在使用的项目。 💡寻求建议：  我该如何制作这个平台从传统的辅导服务中脱颖而出？ 可以集成哪些功能来为用户增加不可否认的价值？ 这是一个好主意吗？我是否应该追求不同的想法。  很想听听您的想法或任何反馈！  &amp;# 32；由   提交/u/Fit-Poetry6900   reddit.com/r/webdev/comments/1c6ew7e/help_with_website_idea/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6ew7e/help_with_website_idea/</guid>
+      <pubDate>Wed, 17 Apr 2024 16:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页开发采购技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6e6tw/web_development_sourcing_tips/</link>
+      <description><![CDATA[我正在尝试开展电子商务业务（可能通过 Shopify），但没有网络开发经验。 我正在尝试理解：  Web 开发在这一点上是否足够简单，我可以自己相对轻松地弄清楚它？ 如果我决定引入外部帮助，什么是与寻找合适资源相关的最佳实践（例如，如何获取资源、要问什么类型的问题等）？ 需要多长时间和时间？如果我寻求帮助，大约需要花多少钱才能完成这样的设置？    由   提交 /u/Jakeqs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6e6tw/web_development_sourcing_tips/</guid>
+      <pubDate>Wed, 17 Apr 2024 16:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>删除 Google 标签以改进 LCP</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6d7va/removing_google_tags_to_improve_lcp/</link>
+      <description><![CDATA[大家好。我是一名相对较新的数字营销人员，希望改进我的页面上的 LCP 以实现 SEO 目的。我虽然遇到了障碍，但我不想过多地纠缠我的朋友，他可能可以解决这个问题，但无论如何。情况是这样的。 由于我在页面上加载了 4 个 Google 标签，LCP 受到了严重攻击。现在据我了解，我需要其中两个。一个用于我的广告，另一个用于分析。  我不清楚如何解决这个问题。在 Google 跟踪代码管理器中删除它们是否会将其从网站的脚本中删除？我有点怀疑这一点。如果没有那么我该如何删除它？我在 FTP 中搜索头文件，但没有找到标记代码。   由   提交 /u/AcanthisittaSea6459   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6d7va/removing_google_tags_to_improve_lcp/</guid>
+      <pubDate>Wed, 17 Apr 2024 15:46:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有用于开发信用卡评论网站的 WordPress 主题或独立框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6cu3p/is_there_any_wordpress_theme_or_standalone/</link>
+      <description><![CDATA[嗨， 我要制作一个信用卡审核网站，需要一个引人入胜、设计出色的网站。  请帮助哪些主题或网络软件已经可用于制作评论网站。    由   提交/u/pkji89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6cu3p/is_there_any_wordpress_theme_or_standalone/</guid>
+      <pubDate>Wed, 17 Apr 2024 15:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习外部组织网站/工具设置的最佳地点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6ch3z/best_place_to_learn_websitetool_setup_for_an/</link>
+      <description><![CDATA[这些年来我一直在学习不同的网络工具、开发技能、堆栈（我猜？）等，主要是作为一种爱好。  在 Udemy 上学习了一些网络课程，准备了大量教程，并完成了一些有趣的小型项目。  我在几个非营利组织中担任志愿者，并开始为他们提供一般 IT 帮助，因为他们很难做一些简单的事情，例如主持 Zoom 会议、更新网页等。 我很好奇一个人如何（本质上是作为一名自由开发人员但免费）设置诸如新网站之类的东西，或者可能专门是一个网络应用程序/工具，以一种在我完成后与我无关的方式。我（从课程中）“知道”如何通过免费或低成本工具建立自己的网页（尽管我的理解是其中许多工具，例如heroku，不再可行）。但我不确定如何向组织提供该工具，就像向客户提供工具一样。最大的障碍是这些组织没有太多能力提前建立这些流程，就像企业主可能（或至少应该）那样。  我已经开始摆弄谷歌云/虚拟机，但对它们的实际工作原理还不够了解，更不用说如何假冒它了。有没有像简单的 Wordpress 服务器这样可以轻松设置的东西？ 我知道在开始讨论之前我应该​​了解更多内容。但我试图通过实践来学习，即使是先制作我自己的假版本。谢谢！   由   提交/u/Endertech74  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6ch3z/best_place_to_learn_websitetool_setup_for_an/</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:25 GMT</pubDate>
+    </item>
     <item>
       <title>如何建立人物层面的认同？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6ceg4/how_to_build_personlevel_identification/</link>
@@ -15,12 +64,12 @@
     <item>
       <title>开源 Nextjs SaaS 启动器</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6bun7/open_source_nextjs_saas_starter/</link>
-      <description><![CDATA[我正在寻找 Nextjs SaaS 入门版，即操作系统，我看到很多付费版本太贵了。 理想的堆栈是： 1. Nextjs 2. TailwindCSS 3. Shadcn Ui 4. Stripe 5. Email 6. Auth 我想要一个简单的 UI，比如 ChatGPT，您可以在其中登录、订阅并使用网络应用程序。我看到了一些，但看起来很重， 这是我找到的最接近的： https://github.com/mickasmt/next-saas-stripe-starter 它也缺少文档。   由   提交 /u/sammopus   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找作为操作系统的 Nextjs SaaS 入门程序，我发现很多付费版本都太贵了。 理想的堆栈是：1. Nextjs 2. TailwindCSS 3. Shadcn Ui 4. Stripe 5. Email 6. Auth 我想要一个像 ChatGPT 这样的简单 UI，您可以在其中登录、订阅并使用 Web 应用程序。我看到了一些，但似乎很重， 这是我找到的最接近的： https://github.com/mickasmt/next-saas-stripe-starter 它也缺少文档。    提交人    /u/sammopus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6bun7/open_source_nextjs_saas_starter/</guid>
       <pubDate>Wed, 17 Apr 2024 14:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>关于创建浏览器游戏的提示/帮助</title>
+      <title>创建浏览器游戏的提示/帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6bq9g/tipshelp_on_creating_a_browser_game/</link>
       <description><![CDATA[所以我目前正在创建一个浏览器内回合制策略游戏（松散地基于国际象棋），并且需要一些帮助来组织/设置该项目。我将使用 Node、React、Express、Phaser 等。我以前用过react和express，但从来没有用过phaser。 这是我目前关于如何组织游戏的计划（让我知道是否有更好的方法来组织游戏或者如果我的计划有效等）：  App.js（用于控制客户端的标准反应文件） Game.jsx（游戏构建位置） Units.jsx（包含单元共有的所有功能等的文件） 每种单元类型的文件（赋予单元独特的属性等） Board .jsx（用图块精灵（如草、山、森林等）创建一个六边形网格 Map.json（？）（可以帮助我使用字符轻松创建地图的东西， board 文件会读取这个文件并创建一个地图，我不知道这是否是一个好的解决方案）。  我想要的功能：  稍后我会添加多人游戏功能，因此如果在创建游戏时我需要记住什么，请告诉我（这样我就不必稍后重新创建所有内容）。多人游戏的工作方式应该与在线国际象棋游戏的玩法非常相似：玩家。应该总是看到自己在地图的底部，并且总是看到对手在地图的顶部，所以需要对对手进行镜像。 //我唯一真正的服务器/数据库体验是创建一个简单的服务器和数据库，用户可以在其中登录并预订露营地（这是学校作业）。 我希望用户能够购买并拥有不同的皮肤和颜色等。有什么好方法可以轻松地为每种皮肤创建颜色等。我以前从未这样做过。 玩家应该能够创建自己的单位编队。我已经创建了单位应在内部生成的区域，我希望每个玩家都能够创建自己的阵型，但我不知道应该如何保存这些数据等。我应该使用 json 文件还是类似的文件？ 半随机棋盘生成。棋盘将始终是相同的（取决于您选择的形状），但图块等的放置将是半随机的。我将选择不同的瓷砖和建筑物可以生成的区域等，它们将在该区域随机生成。  我遇到的问题：  它很难跟踪单位的移动。每个单位都有多个移动点：如果一个单位有 2 个移动点，则每回合可以移动 2 个方块，如果该单位攻击另一个单位，这也会花费一个移动点，并且总是结束单位回合（删除本轮的所有移动点）。我遇到的问题是很难为此创建一个好的系统。现在，例如，当我单击一个单位或将其拖动到非法图块（例如向前 3 个图块）时，该单位将恢复到其原始起始位置（这是正确的），但这也会花费一个 movePoint。因此，我需要想出一个解决方案，可以跟踪一个单位是否移动到新的六边形等。  我希望获得有关如何组织或计划游戏的任何提示，并且在创建它时我应该记住的事情。   由   提交 /u/tobimika   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6bq9g/tipshelp_on_creating_a_browser_game/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[我希望浏览器向我显示真正的源代码，也就是我的源代码组件，但它显示的是带有 chunk.js 内容的精简版本。 到目前为止我尝试过的： 1。  // webpack.config.js module.exports = { devtool: &#39;inline-source-map&#39; }  2.  // tsconfig.json { ... sourceMaps: true ... }  注意：我正在使用反应脚本来提供服务 任何帮助将不胜感激。谢谢！   由   提交 /u/SignificanceCheap970   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6b4lb/reactjs_why_does_my_source_maps_even_when_loaded/</guid>
       <pubDate>Wed, 17 Apr 2024 14:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>块布局的align-content属性现在是Baseline的一部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6anfx/the_aligncontent_property_for_block_layouts_is/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6anfx/the_aligncontent_property_for_block_layouts_is/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助集成后端和前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6a2or/need_help_integrating_backend_and_frontend/</link>
-      <description><![CDATA[大家好，我有一个前端网站（React），我是按照教程开发的。他们使用了静态文件中的数据和文件夹中的图像。我已经为给定的前端应用程序开发了支持的 api。（Fastapi）现在我的目标是将它们集成。 1. 我应该在前端哪里调用后端API。我有 2 个 API，可以获取首次显示网站所需的所有数据。目前，我在上下文提供程序中调用它们，并调用上下文提供程序来获取显示它们的每个组件所需的值。这些 API 还会发送图像链接，我应该将图像存储在哪里？是否有免费托管，我可以在其中放置图像并将这些链接作为 api 的一部分发送？我应该将它们存储在后端的文件夹中吗？在这种情况下我应该发送什么图片 URL？ 2. 欢迎任何有关前端和后端集成的其他建议/博客/视频。 谢谢   由   提交/u/Miserable-Ad-4598   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6a2or/need_help_integrating_backend_and_frontend/</guid>
-      <pubDate>Wed, 17 Apr 2024 13:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在 WordPress 上访问 CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6a03y/cant_access_css_on_wordpress/</link>
-      <description><![CDATA[所以我看到有人说你可以通过“外观”然后“主题编辑器”来编辑 WordPress 网站的 CSS。我的 WordPress 没有给我“主题编辑器”选项。没有编辑 CSS 的选项。我的网站已经上线，一切都应该很好。为什么会发生这种情况？   由   提交/u/Ok_Salt_9211   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6a03y/cant_access_css_on_wordpress/</guid>
-      <pubDate>Wed, 17 Apr 2024 13:33:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>电话和电子邮件登录/身份验证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c69lwi/phone_and_email_loginauthentication/</link>
-      <description><![CDATA[我将在这篇文章开始时说，我非常有信心这是一个已解决的问题。因此，令我惊讶的是，我尝试通过 Google 搜索答案却没有成功。 我想构建一个使用电话号码和电子邮件地址进行身份验证的应用程序。我的意思是：  您输入您的电话号码，后端向您发送一条包含生成代码的文本，您将该代码复制粘贴到应用程序中以验证该代码电话号码是您的 您输入您的电子邮件地址，后端向您发送一封包含生成代码的电子邮件，您将该代码复制粘贴到应用程序中以验证该电子邮件是你的  有哪些API/框架/等等可以实现这个目标？或者如果我必须自己构建它，有什么好的教程吗？我没有身份验证方面的经验，如果可能的话，希望确保我第一次就做对了。 谢谢大家  &amp;# 32；由   提交 /u/javascript   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c69lwi/phone_and_email_loginauthentication/</guid>
-      <pubDate>Wed, 17 Apr 2024 13:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能推荐我有自己IP的Mailsever（防止列入黑名单）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c69lj1/can_you_recommend_me_mailsever_with_own_ip/</link>
-      <description><![CDATA[嗨，对于我的新项目，我需要一个用于客户电子邮件和订单电子邮件的邮件服务器。 据我们所知，许多提供商放置了多个邮件服务器用户输入一个 IP 地址，如果其中一个出了问题，我们都会被列入黑名单。  那么，您能为我推荐一个可以让我获得自己的 IP 地址的提供商吗？或者至少在出现此类问题时反应迅速？    由   提交 /u/JuriJurka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c69lj1/can_you_recommend_me_mailsever_with_own_ip/</guid>
-      <pubDate>Wed, 17 Apr 2024 13:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>定制 Web 开发 - 平台和机构推荐（社区论坛类型网站）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c69f63/custom_web_development_platform_and_agency/</link>
-      <description><![CDATA[嗨， 我正在寻找一个功能类似于社区论坛网站的网站，但有一些额外的自定义功能顶部的功能（例如，能够将附件发布到一般线程，而不是仅发布到您自己的帖子）。有人可以推荐以下内容吗？  您建议使用哪些平台作为网站的基础？ （例如 Wordpress、Discourse 等）以及为什么？同样，这个想法需要添加一些完全定制的解决方案。当然，对此有多种答案，因此只需寻找有关最佳方法的反馈/经验/意见即可。  是否有任何特定的网络开发机构以其创建基于自定义社区论坛的网站的能力而闻名，您会推荐（同样，许多公司可以以一定的价格设计任何东西，因此我再次寻找具体的反馈/经验/意见）。   欢迎就开发主要反映社区论坛的自定义网站提出任何其他意见。  谢谢！    由   提交/u/reddituser1902yes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c69f63/custom_web_development_platform_and_agency/</guid>
-      <pubDate>Wed, 17 Apr 2024 13:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该从 Craft CMS 切换到 Next.js 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c68n1y/should_i_switch_from_craft_cms_to_nextjs/</link>
-      <description><![CDATA[我认为 Craft CMS 很好，但对我来说还缺少一些东西。  我尝试过 Next.js，这些是吸引我的东西：  CSS 模块：不再有奇怪的 BEM-例如类名或担心您可能会破坏另一个模块中的某些内容。  没有 twig/blade 模板语言或 PHP： 逻辑和输出都采用相同的语言 (JavaScript)。尝试将 Twig 与 Html 和 JavaScript 结合起来并不奇怪。  Next.js 路由和内置html 缓存。  它被广泛采用和记录。   我觉得这些论点会给我更大的灵活性来创建我喜欢的动态/交互式网站类型（CSS 设计奖和 Awwwards）。其中之一是页面转换（没有像 Barba.js 这样的东西）。  最后，Craft CMS 相当昂贵。如果我可以将 Next.js 与我选择的 CMS 结合起来，这将使我能够为较小的客户提供副业。  有没有人拥有 Next.js 和 Craft CMS 的经验来帮助我决定是否值得付出努力？    由   提交 /u/Raspieman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c68n1y/should_i_switch_from_craft_cms_to_nextjs/</guid>
-      <pubDate>Wed, 17 Apr 2024 12:32:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
