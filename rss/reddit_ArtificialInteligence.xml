@@ -3,8 +3,29 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 09:12:47 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 17 Apr 2024 12:21:19 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 是我实现此目标所需的工具吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c683b8/is_chatgpt_the_tool_i_need_to_achieve_this/</link>
+      <description><![CDATA[嗨👋 我正在寻求围绕正义/法律构建人工智能。 用户将与人工智能讨论他们的案例。例如“我借给朋友 10k，但他没有还款”。然后，IA 将不得不研究许多法律（我有所需的数据集）。并返回与案例匹配的 3 到 5 个定律。 哪种 AI 更适合我的用例？  感谢您的帮助！   由   提交/u/FL0uz_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c683b8/is_chatgpt_the_tool_i_need_to_achieve_this/</guid>
+      <pubDate>Wed, 17 Apr 2024 12:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以帮助你协调旋律吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c67wnd/ai_that_helps_you_harmonize_a_melody/</link>
+      <description><![CDATA[你好，我今天只是在想，我的歌曲创作方式是在我的吉他上添加一个钩子、旋律或即兴重复段，然后围绕它进行构建。有谁知道有一种人工智能工具可以让我将旋律写成 MIDI 或上传录音并围绕它生成可能的和声（即不同的和弦进行）。  那会非常酷且有用，但我不知道它是否存在。  感谢您的帮助！   由   提交 /u/DistressedHorseman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c67wnd/ai_that_helps_you_harmonize_a_melody/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几分钟内找到并修复 LLM 越狱问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c66ua0/find_and_fix_an_llm_jailbreak_in_minutes/</link>
+      <description><![CDATA[了解如何识别、缓解和保护您的 AI 应用程序免受越狱攻击。 [更多评论] 什么是越狱？  越狱是一种提示注入漏洞，恶意行为者可以滥用 LLM 来遵循与其预期用途相反的指令。  LLM 处理的输入包含应用程序设计者的常规指令和不受信任的用户输入，从而可以在以下情况下进行攻击：不受信任的用户输入会覆盖常规指令。这与 SQL 注入漏洞如何利用不受信任的用户输入来更改数据库查询有相似之处。   由   提交 /u/WishMakingFairy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c66ua0/find_and_fix_an_llm_jailbreak_in_minutes/</guid>
+      <pubDate>Wed, 17 Apr 2024 10:55:36 GMT</pubDate>
+    </item>
     <item>
       <title>科技高管预测“人工智能女友”将创造 10 亿美元的业务：“最终的舒适感”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c64m8c/tech_exec_predicts_ai_girlfriends_will_create_1b/</link>
@@ -34,20 +55,6 @@
       <pubDate>Wed, 17 Apr 2024 07:46:28 GMT</pubDate>
     </item>
     <item>
-      <title>奇点配音（音频）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c640us/the_singularity_dub_udio/</link>
-      <description><![CDATA[嘿 Reddit，我只是想分享一下我对人工智能生成音频的惊人进步的兴奋！作为一个一直对技术和创造力的交叉着迷的人，我不禁被人工智能带来的难以置信的可能性所震惊。  向人工智能和奇点致敬 https://www.udio.com/歌曲/iepUsdMCHaSz7FLyKTXv2R   由   提交/u/crazyflashpie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c640us/the_singularity_dub_udio/</guid>
-      <pubDate>Wed, 17 Apr 2024 07:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理工作流程是法学硕士的未来吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c63upr/is_agentic_workflow_the_future_of_llms/</link>
-      <description><![CDATA[人工智能代理是人工智能的下一个重大飞跃，还是只是新方法的一个奇特名称？本文深入探讨人工智能代理的世界，探讨它们的功能、局限性以及对人工智能未来发展的潜在影响。 什么是人工智能代理？ 想象一下人工智能Agent作为智能助手，可以感知环境、做出决策并采取行动来实现特定目标。在本文中，我们重点关注基于 LLM 的 AI 代理，由 GPT-3 等大型语言模型 (LLM) 提供支持。这些代理可以自主操作，从交互中学习，并使用工具来完成任务。 完整文章：https://medium.com/aiguys/next-for-llms-and-rag-ai-agentic-workflows-1869ba0a6796 &lt; strong&gt;AI 代理是 AGI（通用人工智能）的关键吗？ 目前尚无定论。虽然人工智能代理展现出前景，但也存在局限性。仔细看看： 提示工程：创建有效的指令（提示）对于人工智能代理的良好表现至关重要。然而，人类可能会无意中引导智能体找到特定的答案。 自我反思：当前的法学硕士很难进行自我反思，这使得他们很难真正理解和评估自己的回答。 规划：而人工智能智能体则可以分解任务，他们的“计划”能力有限。他们经常依靠外部工具和人工干预来验证他们的计划。 代理工作流程的兴起 代理工作流程通过将人工智能代理与其他技术相结合来利用人工智能代理的力量。以下是一些关键功能： 反思：使用两名法学硕士（一名作为批评者，一名作为编码员）可以提高性能，尤其是对于代码生成等任务。 工具使用：智能体可以利用外部工具（计算器、网络搜索）来增强其能力。 规划（正在进行中）：人工智能智能体仍在发展其规划技能，但改进的潜力是巨大的。 多代理协作：想象一下专门从事不同任务的人工智能代理，无缝地协同工作。这就是 Devin AI 的闪光点，代理扮演开发人员和测试人员等角色。 AI 代理的未来 虽然 AI 代理和代理工作流程不是 AGI 的灵丹妙药，提供令人瞩目的未来： 法学硕士自动化：将其视为具有自动化功能的法学硕士的增压器。这个“明显的”是智能是自动化的结果，不一定是 LLM 理解的根本飞跃。 专注于特定任务：未来在于专注于特定领域（例如编码或项目管理）的人工智能代理。&lt; /p&gt; ​   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c63upr/is_agentic_workflow_the_future_of_llms/</guid>
-      <pubDate>Wed, 17 Apr 2024 07:32:21 GMT</pubDate>
-    </item>
-    <item>
       <title>50 款最佳人工智能工具终极榜单！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c63hgf/the_ultimate_list_of_the_50_best_ai_tools/</link>
       <description><![CDATA[ ChatGPT - 对话式 AI MyPerfectPaper - AI 论文作者 TensorFlow - 机器学习框架 H2O.ai - 数据科学平台 OpenCV - 计算机视觉 IBM Watson - 认知计算 Dialogflow - 自然语言理解&lt; /li&gt; Databricks - 大数据分析 RapidMiner - 预测分析 PyTorch - 深度学习库 Azure 认知服务 - AI API &gt; DataRobot - 自动化机器学习 Amazon SageMaker - 机器学习平台 KNIME - 分析平台 IBM SPSS - 统计分析软件 &lt; li&gt;Google Cloud AI - 人工智能服务 SAS - 分析工具 Scikit-learn - 机器学习库 Einstein Analytics - 商业智能 &lt; li&gt;Wit.ai - 自然语言处理 Caffe - 深度学习框架 Clarifai - 视觉识别 MATLAB - 数值计算  TensorFlow Serving - 模型部署 Orange - 数据挖掘 BigML - 机器学习平台 Keras - 深度学习框架 AllenNLP - NLP框架 Meya - 聊天机器人平台 Ludwig - AI 工具箱 Unity ML-Agents - 强化学习 Ayasdi - 洞察发现 Ayasdi - 洞察发现 li&gt; Seldon Core - 模型服务 Theano - 深度学习库 Microsoft Azure ML - 机器学习服务 Apache MXNet - 深度学习框架  li&gt; IBM Cognos - 商业智能 Aylien - 文本分析 Turi Create - 机器学习工具包 Mahout - 可扩展的机器学习 &lt; li&gt;Wit.ai - NLP 开发 Uipath - 机器人流程自动化 OpenNLP - NLP 库 DeepAI - AI API Polly - 文本转语音 Recast.ai - 对话式人工智能 Wit.ai - 机器人开发 Rekognition - 图像分析  Wit.ai - 语言理解 Forecast Forge - 预测建模    由   提交/u/murphy_tom1   [链接] [评论]]]></description>
@@ -62,11 +69,11 @@
       <pubDate>Wed, 17 Apr 2024 06:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 4/16/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c61c1y/oneminute_daily_ai_news_4162024/</link>
-      <description><![CDATA[ 技术高管预测“人工智能女友”将创造 10 亿美元的业务：“一天结束时的舒适感”。[1] 英特尔使用内部人工智能工具来优化 SoC 布局，从 6 周缩短到“几分钟”。[2] 人工智能程序为初级学生创建个人聊天机器人[3] 微软向人工智能公司 G42 投资 15 亿美元，该公司由阿联酋国家安全顾问监管。[4] 来源包含在：https://bushaicave.com/2024/04/16/4-16-2024/     由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c61c1y/oneminute_daily_ai_news_4162024/</guid>
-      <pubDate>Wed, 17 Apr 2024 04:54:11 GMT</pubDate>
+      <title>NLTK的优势</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c62rl3/strengths_of_nltk/</link>
+      <description><![CDATA[ 定制：NLTK 为各种 NLP 任务提供细粒度的控制，为特定用例提供定制方法，例如财经新闻中的情绪分析，从而获得更准确的结果。 研究和教育：NLTK 的多样化算法和对理解 NLP 流程的关注对于研究和教育非常有价值，使研究人员、学生和教育工作者受益。 社区和资源：NLTK 拥有活跃的社区和广泛的文档、教程和论坛，可增强 NLP 知识和技能。  https://www.seaflux.tech/blogs/nltk-vs-spacy-nlp-libraries-comparison &lt; !-- SC_ON --&gt;  由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c62rl3/strengths_of_nltk/</guid>
+      <pubDate>Wed, 17 Apr 2024 06:20:46 GMT</pubDate>
     </item>
     <item>
       <title>斯坦福大学的一篇怪物论文，一份 500 页的关于 2024 年人工智能状况的报告</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[大家好！ 我正在努力更好地了解人工智能可能对未来工作产生的影响。我想知道您认为哪些职业将受到人工智能的传播和发展的影响最大。 特别是，我有兴趣听取关于哪些工作可能会被人工智能缩小甚至取代的意见未来几年。您认为哪些行业最容易受到影响？您认为工人和行业应该如何为这些变化做好准备？ 提前感谢您的想法和贡献！   由   提交 /u/Necessary_Reserve724   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5rkyo/which_jobs_will_be_most_negatively_impacted_by/</guid>
       <pubDate>Tue, 16 Apr 2024 21:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我“创作”了我的第一首歌，它太棒了！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5mcz7/i_created_my_first_song_and_its_a_banger/</link>
-      <description><![CDATA[三天前我发现了 Suno，现在我迷上了！我一直想创作音乐，但我很不擅长！比数学更糟糕，但这意义重大！我刚刚输入了我想到的第一件事：“用合成器播放关于一只想要吃奶酪的老鼠的黑暗嘻哈节拍” 我被震撼了！我是一个金属迷，但创作的歌曲非常棒！ 我必须补充一点，它只有 1 分 30 秒长，我花了当天所有的免费积分来延长它，但现在我认为这首歌可以在广播中播放。 :D 我现在听这首歌大约 15 次，不包括我“工作”时听的 30 次。就它了，因为我太喜欢它了！ https://suno.com /song/31e58bf2-be80-4d26-b569-a3fd38c61aaa 有什么提示和技巧吗？ Suno 是创作歌曲的最佳应用程序，还是我错过了什么？ 你们中有人订阅了他们的高级变体吗？我不确定这是否值得。   由   提交/u/Interesting_Bother_1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5mcz7/i_created_my_first_song_and_its_a_banger/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:45:18 GMT</pubDate>
     </item>
     <item>
       <title>克劳德 3 可能救了我的命</title>
