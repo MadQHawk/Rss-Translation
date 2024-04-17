@@ -4,27 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 12:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:14:38 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 是我实现此目标所需的工具吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c683b8/is_chatgpt_the_tool_i_need_to_achieve_this/</link>
-      <description><![CDATA[嗨👋 我正在寻求围绕正义/法律构建人工智能。 用户将与人工智能讨论他们的案例。例如“我借给朋友 10k，但他没有还款”。然后，IA 将不得不研究许多法律（我有所需的数据集）。并返回与案例匹配的 3 到 5 个定律。 哪种 AI 更适合我的用例？  感谢您的帮助！   由   提交/u/FL0uz_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c683b8/is_chatgpt_the_tool_i_need_to_achieve_this/</guid>
-      <pubDate>Wed, 17 Apr 2024 12:04:17 GMT</pubDate>
+      <title>我指导 5 名法学硕士与 Pokemon 战斗，利用提示将他们对抗机器人的胜率从 5% 提高到 50%。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c6bgc5/i_coached_5_llms_to_battle_pokemon_using_prompts/</link>
+      <description><![CDATA[必须提示他们！为 Claude、Mistral 和 GPT 创建不同的提示，会为法学硕士如何“一步一步”思考提供不同的结果。关于口袋妖怪战斗中的动作。  我的博客文章有更多详细信息： https://community.aws/content/2eVAc9JN5iKjxntxq1EiwN3wQW1/ Five-llms-battled-pokemon-claude-opus-was-super-effect   由   提交 /u/banjtheman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c6bgc5/i_coached_5_llms_to_battle_pokemon_using_prompts/</guid>
+      <pubDate>Wed, 17 Apr 2024 14:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以帮助你协调旋律吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c67wnd/ai_that_helps_you_harmonize_a_melody/</link>
-      <description><![CDATA[你好，我今天只是在想，我的歌曲创作方式是在我的吉他上添加一个钩子、旋律或即兴重复段，然后围绕它进行构建。有谁知道有一种人工智能工具可以让我将旋律写成 MIDI 或上传录音并围绕它生成可能的和声（即不同的和弦进行）。  那会非常酷且有用，但我不知道它是否存在。  感谢您的帮助！   由   提交 /u/DistressedHorseman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c67wnd/ai_that_helps_you_harmonize_a_melody/</guid>
-      <pubDate>Wed, 17 Apr 2024 11:55:03 GMT</pubDate>
+      <title>人工智能正在超越人类，我们需要新的基准</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c6aq7p/ai_is_advancing_beyond_humans_we_need_new/</link>
+      <description><![CDATA[斯坦福大学人工智能指数报告深入了解人工智能的趋势和现状 报告称人工智能系统现在通常超过人类性能，从而需要新的基准。由于缺乏衡量风险和限制的标准化基准，因此很难比较模型。 来源：https://dailyai.com/2024/04/report-ai-is-advancing-beyond- humans-we-need-new-benchmarks/    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c6aq7p/ai_is_advancing_beyond_humans_we_need_new/</guid>
+      <pubDate>Wed, 17 Apr 2024 14:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>在几分钟内找到并修复 LLM 越狱问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c66ua0/find_and_fix_an_llm_jailbreak_in_minutes/</link>
-      <description><![CDATA[了解如何识别、缓解和保护您的 AI 应用程序免受越狱攻击。 [更多评论] 什么是越狱？  越狱是一种提示注入漏洞，恶意行为者可以滥用 LLM 来遵循与其预期用途相反的指令。  LLM 处理的输入包含应用程序设计者的常规指令和不受信任的用户输入，从而可以在以下情况下进行攻击：不受信任的用户输入会覆盖常规指令。这与 SQL 注入漏洞如何利用不受信任的用户输入来更改数据库查询有相似之处。   由   提交 /u/WishMakingFairy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c66ua0/find_and_fix_an_llm_jailbreak_in_minutes/</guid>
-      <pubDate>Wed, 17 Apr 2024 10:55:36 GMT</pubDate>
+      <title>从WiFi 6升级到WiFi 7时需要重新训练模型吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c6a70m/necessary_to_retrain_model_when_upgrading_from/</link>
+      <description><![CDATA[ 由   提交 /u/GoodOhm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c6a70m/necessary_to_retrain_model_when_upgrading_from/</guid>
+      <pubDate>Wed, 17 Apr 2024 13:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>是人工智能不擅长非正式还是我不擅长人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c69qak/is_ai_bad_at_informal_or_am_i_bad_at_ai/</link>
+      <description><![CDATA[一篇大篇幅吸引人、打开率高的电子邮件的目的是使它们个性化、简洁，而且听起来不太通用。在我看来，这些都是人工智能不擅长的事情。  正如我所提示的，我会告诉 Claude 3 或 GPT 4 让事情变得个性化或非正式，并且它会以最专业的方式做到这一点。当然，如果我对此太过唠叨，就会变得很奇怪，而且听起来根本不像人类会说的话。  这有道理吗？我只是不擅长提示吗？ （有什么建议吗？）或者我现在应该避免向人工智能询问此类事情吗？   由   提交/u/jonburd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c69qak/is_ai_bad_at_informal_or_am_i_bad_at_ai/</guid>
+      <pubDate>Wed, 17 Apr 2024 13:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的约会应用程序可以将现实生活中的用户与人工智能女友相匹配</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c69oyi/new_dating_app_could_match_real_life_users_with/</link>
+      <description><![CDATA[一位技术主管认为，将真人与人工智能生成的女朋友联系起来的约会应用程序可能即将问世。他指出，这一革命性概念有可能成为一个价值十亿美元的产业。 阅读全文：https://www.ibtimes.co.uk/new-dating-app-could-match-real-life-users-ai-girlfriends-1724336    由   提交 /u/vinaylovestotravel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c69oyi/new_dating_app_could_match_real_life_users_with/</guid>
+      <pubDate>Wed, 17 Apr 2024 13:20:34 GMT</pubDate>
     </item>
     <item>
       <title>科技高管预测“人工智能女友”将创造 10 亿美元的业务：“最终的舒适感”</title>
@@ -48,13 +62,6 @@
       <pubDate>Wed, 17 Apr 2024 07:58:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何找到一家能够将人工智能助理理念从概念转化为生产的公司？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c641t0/how_to_find_a_company_that_could_take_an_ai/</link>
-      <description><![CDATA[嘿伙计们， 整个行业让我有点不知所措，每周我都会看到一些新东西，但基础我两年前的想法今天仍然有效。然而，我经常被各种供应商欺骗。我有一种感觉，每个人都想把我作为一个学习平台——这在某种程度上可以理解，因为这个行业还很新。然而，我没有无限的预算，而且我无法与那些对自己的技能没有把握的人一起工作。  我自己的背景是销售，所以我需要信任一位支持信誉良好的开发公司的强大项目经理。  有没有一个平台可以列出所有面向人工智能的开发公司并进行评级？  ​ ​   由   提交 /u/Larvea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c641t0/how_to_find_a_company_that_could_take_an_ai/</guid>
-      <pubDate>Wed, 17 Apr 2024 07:46:28 GMT</pubDate>
-    </item>
-    <item>
       <title>50 款最佳人工智能工具终极榜单！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c63hgf/the_ultimate_list_of_the_50_best_ai_tools/</link>
       <description><![CDATA[ ChatGPT - 对话式 AI MyPerfectPaper - AI 论文作者 TensorFlow - 机器学习框架 H2O.ai - 数据科学平台 OpenCV - 计算机视觉 IBM Watson - 认知计算 Dialogflow - 自然语言理解&lt; /li&gt; Databricks - 大数据分析 RapidMiner - 预测分析 PyTorch - 深度学习库 Azure 认知服务 - AI API &gt; DataRobot - 自动化机器学习 Amazon SageMaker - 机器学习平台 KNIME - 分析平台 IBM SPSS - 统计分析软件 &lt; li&gt;Google Cloud AI - 人工智能服务 SAS - 分析工具 Scikit-learn - 机器学习库 Einstein Analytics - 商业智能 &lt; li&gt;Wit.ai - 自然语言处理 Caffe - 深度学习框架 Clarifai - 视觉识别 MATLAB - 数值计算  TensorFlow Serving - 模型部署 Orange - 数据挖掘 BigML - 机器学习平台 Keras - 深度学习框架 AllenNLP - NLP框架 Meya - 聊天机器人平台 Ludwig - AI 工具箱 Unity ML-Agents - 强化学习 Ayasdi - 洞察发现 Ayasdi - 洞察发现 li&gt; Seldon Core - 模型服务 Theano - 深度学习库 Microsoft Azure ML - 机器学习服务 Apache MXNet - 深度学习框架  li&gt; IBM Cognos - 商业智能 Aylien - 文本分析 Turi Create - 机器学习工具包 Mahout - 可扩展的机器学习 &lt; li&gt;Wit.ai - NLP 开发 Uipath - 机器人流程自动化 OpenNLP - NLP 库 DeepAI - AI API Polly - 文本转语音 Recast.ai - 对话式人工智能 Wit.ai - 机器人开发 Rekognition - 图像分析  Wit.ai - 语言理解 Forecast Forge - 预测建模    由   提交/u/murphy_tom1   [链接] [评论]]]></description>
@@ -69,13 +76,6 @@
       <pubDate>Wed, 17 Apr 2024 06:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>NLTK的优势</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c62rl3/strengths_of_nltk/</link>
-      <description><![CDATA[ 定制：NLTK 为各种 NLP 任务提供细粒度的控制，为特定用例提供定制方法，例如财经新闻中的情绪分析，从而获得更准确的结果。 研究和教育：NLTK 的多样化算法和对理解 NLP 流程的关注对于研究和教育非常有价值，使研究人员、学生和教育工作者受益。 社区和资源：NLTK 拥有活跃的社区和广泛的文档、教程和论坛，可增强 NLP 知识和技能。  https://www.seaflux.tech/blogs/nltk-vs-spacy-nlp-libraries-comparison &lt; !-- SC_ON --&gt;  由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c62rl3/strengths_of_nltk/</guid>
-      <pubDate>Wed, 17 Apr 2024 06:20:46 GMT</pubDate>
-    </item>
-    <item>
       <title>斯坦福大学的一篇怪物论文，一份 500 页的关于 2024 年人工智能状况的报告</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5wuzu/a_monster_of_a_paper_by_stanford_a_500page_report/</link>
       <description><![CDATA[https://aiindex.stanford.edu/report/  十大要点：  人工智能在某些任务上击败了人类，但并非在所有任务上都击败了人类。人工智能在多个基准上已经超越了人类的表现，包括图像分类、视觉推理和英语理解方面的一些基准。然而，它在竞赛级数学、视觉常识推理和规划等更复杂的任务上落后了。  工业界继续主导前沿人工智能研究。 2023年，工业界产生了51个值得注意的机器学习模型，而学术界仅贡献了15个。2023年，产学界合作产生了21个值得注意的模型，再创新高。 前沿型号变得更加昂贵。根据AI Index估计，最先进的AI模型的训练成本已达到前所未有的水平。例如，OpenAI 的 GPT-4 估计使用了价值 7800 万美元的计算来进行训练，而 Google 的 Gemini Ultra 的计算成本为 1.91 亿美元。  美国领先中国、欧盟和英国，成为顶级人工智能模型的主要来源。 2023年，61个著名的人工智能模型源自美国机构，远远超过欧盟的21个和中国的15个。 对LLM责任的稳健和标准化评估严重缺乏。人工智能指数的新研究表明，负责任的人工智能报告严重缺乏标准化。包括 OpenAI、Google 和 Anthropic 在内的领先开发人员主要根据不同的负责任的 AI 基准测试他们的模型。这种做法使得系统地比较顶级人工智能模型的风险和局限性的工作变得更加复杂。  生成式人工智能投资猛增。尽管去年人工智能私人投资总额有所下降，但生成式人工智能的资金却大幅增长，比 2022 年增长了近八倍，达到 252 亿美元。生成式人工智能领域的主要参与者，包括 OpenAI、Anthropic、Hugging Face 和 Inflection，都报告称已进行了大量融资。  数据如下：人工智能提高了工人的工作效率并带来更高质量的工作。 2023 年，多项研究评估了人工智能对劳动力的影响，表明人工智能使工人能够更快地完成任务并提高产出质量。这些研究还证明了人工智能有潜力弥合低技能工人和高技能工人之间的技能差距。尽管如此，其他研究警告说，在没有适当监督的情况下使用人工智能可能会导致性能下降。 得益于人工智能，科学进步进一步加速。 2022年，人工智能开始推动科学发现。然而，到 2023 年，更重要的与科学相关的人工智能应用程序将会推出——从让算法排序更高效的 AlphaDev，到促进材料发现过程的 GNoME。  美国的人工智能法规数量急剧增加。美国人工智能相关法规的数量在过去一年和过去五年中显着增加。 2023年，人工智能相关法规数量达到25个，而2016年仅有1个。仅去年一年，人工智能相关法规总数就增长了56.3%。  全球各地的人们更加认识到人工智能的潜在影响，也更加紧张。益普索（Ipsos）的一项调查显示，去年，认为人工智能将在未来三到五年内极大影响他们生活的人比例从 60% 上升到 66%。此外，52% 的人表示对人工智能产品和服务感到紧张，比 2022 年上升了 13 个百分点。在美国，皮尤研究中心的数据显示，52% 的美国人表示对人工智能感到更担心，而不是兴奋，这一比例高于 2022 年的 37%。    由   提交/u/Happysedits  [链接] [评论]]]></description>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 17 Apr 2024 01:04:35 GMT</pubDate>
     </item>
     <item>
-      <title>哪些工作将受到人工智能的出现带来最大的负面影响？</title>
+      <title>人工智能的出现对哪些工作产生的负面影响最大？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5rkyo/which_jobs_will_be_most_negatively_impacted_by/</link>
       <description><![CDATA[大家好！ 我正在努力更好地了解人工智能可能对未来工作产生的影响。我想知道您认为哪些职业将受到人工智能的传播和发展的影响最大。 特别是，我有兴趣听取关于哪些工作可能会被人工智能缩小甚至取代的意见未来几年。您认为哪些行业最容易受到影响？您认为工人和行业应该如何为这些变化做好准备？ 提前感谢您的想法和贡献！   由   提交 /u/Necessary_Reserve724   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5rkyo/which_jobs_will_be_most_negatively_impacted_by/</guid>
@@ -92,12 +92,12 @@
     <item>
       <title>克劳德 3 可能救了我的命</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c5l5i7/claude_3_may_have_saved_my_life/</link>
-      <description><![CDATA[在过去的两年里，我一直因睡眠质量不佳而出现心脏问题。如果我晚上（或一周）睡眠不好，我的心跳就会不规则且快速。  我把这件事告诉了我医生办公室的私人助理，他们看着我，就像我有三个脑袋一样。我被诊断患有焦虑症，因为他们确信我是在想象这种相关性。当我（焦急地）试图让他们给出另一种解释时，我被开了 SSRI 来缓解焦虑。  我正在和 Claude 3 讨论过这个问题，长期睡眠不好会导致侮辱敏感度降低。这可能会导致低血糖。这（你猜对了）会导致心跳加快/不规则。这也解释了我患有的其他 3 种疾病（非酒精性脂肪肝、动脉斑块堆积、减肥极其困难）。  知道我的心脏问题是由低血糖引起的，这改变了我尝试减肥的方式。无论是饮食还是运动。克劳德 3 非常合理地拯救了我的生命，而传统医学已经失效了。   由   提交 /u/Mackntish   [链接] [评论]]]></description>
+      <description><![CDATA[在过去的两年里，我一直因睡眠质量不佳而出现心脏问题。如果我晚上（或一周）睡眠不好，我的心跳就会不规则且快速。  我把这件事告诉了我医生办公室的私人助理，他们看着我，就像我有三个脑袋一样。我被诊断患有焦虑症，因为他们确信我是在想象这种相关性。当我（焦急地）试图让他们给出另一种解释时，我被开了 SSRI 来缓解焦虑。  我和 Claude 3 讨论过这个问题，长期睡眠不好会导致侮辱敏感度降低。这会导致低血糖。这（你猜对了）会导致心跳加快/不规则。这也解释了我患有的其他 3 种疾病（非酒精性脂肪肝、动脉斑块堆积、减肥极其困难）。  知道我的心脏问题是由低血糖引起的，这改变了我尝试减肥的方式。无论是饮食还是运动。克劳德 3 非常合理地拯救了我的生命，而传统医学已经失效了。   由   提交 /u/Mackntish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c5l5i7/claude_3_may_have_saved_my_life/</guid>
       <pubDate>Tue, 16 Apr 2024 16:57:34 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
