@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 18:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 21:13:45 GMT</lastBuildDate>
     <item>
-      <title>还有其他人认为职位头衔本质上毫无意义吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6gzm5/does_anyone_else_find_that_job_titles_are/</link>
-      <description><![CDATA[我正在 LinkedIn 上查找职位，但很难找到与我相关的职位。有太多不同的职位名称，我一半时间都不知道该搜索什么。仅搜索前端角色就有：软件工程师、前端开发人员、UX 开发人员、UI 开发人员、前端工程师、设计工程师、Web 开发人员等等…… 令人沮丧的是每个职位名称似乎都是如此要求如此不同。有时，“UI 开发人员”角色专注于 CSS、HTML、动画、设计系统等。然后另一个“UI 开发人员”角色将只是您通常的 React 开发角色，重点关注复杂的 javascript 逻辑。有时，“前端开发人员”角色需要 Python 和 AWS 知识，而其他人则需要 PHP 来支持 WordPress。当工作列出如此多不同的以后端为重点的要求，然后要求 CSS、UI 和 UX 方面的专业知识，就好像这不是一个需要单独雇用人员的专业领域一样，这也是令人沮丧的。   由   提交/u/fe_dev_rants  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6gzm5/does_anyone_else_find_that_job_titles_are/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:16:04 GMT</pubDate>
+      <title>关于为饥饿服务托管多个子域的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6kwy7/advice_on_hosting_many_subdomains_for_hungry/</link>
+      <description><![CDATA[大家好，我已经托管了大约 65 个网站，包括数十个小型企业动态和登陆页面网站、多聊天室服务、本地个人简历资料、播客托管、评论、在线社区项目、本地谈话广播等等。一切都在当地议会和教育团体的协助下。 我想使用子域名在一个标题下重新命名所有服务。 由于所有网站目前都托管在 iBrave 上托管无限计划，到目前为止还没有出现任何停机时间或流量速度问题，但随着这些服务越来越受欢迎，这种情况将会改变，我确信 iBrave 会对我摇摇手指。 许多网站的广告涵盖了所有费用，因此合理的费用不应该成为问题。 许多网站都使用 Wordpress，少数使用 Joomla，但所有网站我希望在该品牌下的所有服务都将使用 Wordpress。使用子域可以轻松完成此操作吗？ 你们是否建议我构建一台服务器来管理流量和硬件需求（例如 PowerEdge R630），或者在线租用服务器？ 感谢您的帮助，我可以保证还会有更多问题。   由   提交 /u/Proper-Turnover-5537   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6kwy7/advice_on_hosting_many_subdomains_for_hungry/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:53:42 GMT</pubDate>
     </item>
     <item>
-      <title>问题：域名正在重新路由到带有 www 的子域</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6gndt/question_domain_is_rerouting_to_a_subdomain_with/</link>
-      <description><![CDATA[大家好， 我正在尝试创建一个“go”通过 Cloudflare 上客户端的 CNAME 记录的子域。这是成功的，但是当我输入网站时，它会重新路由到 www.go.\[domain\ ].tld  在这种情况下有什么帮助吗？   由   提交 /u/tomato_pancake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6gndt/question_domain_is_rerouting_to_a_subdomain_with/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:02:35 GMT</pubDate>
+      <title>为程序员和非编码人员搜索网站托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6kmyg/searching_for_website_hosting_for_both/</link>
+      <description><![CDATA[我尝试四处搜索，但找不到任何真正符合我想要查找的内容，我试图看看是否存在类似github/amazon 托管的组合，您实际上可以使用真正的 html、css 和 js 文件，但也类似于 webflow，因此不懂代码的人也可以在网站上工作，而无需依赖那些懂代码的人更改。   由   提交/u/mjlol73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6kmyg/searching_for_website_hosting_for_both/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>帮助制定网站创意</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6ew7e/help_with_website_idea/</link>
-      <description><![CDATA[我一直在寻求构建一些有意义的东西，将我的软件工程技能与为他人的生活做出积极贡献的愿望结合起来。凭借开发用户友好且可扩展的网络解决方案的经验，我想到创建一个辅导平台。以下是我的想法的简要说明： 📚在线辅导平台：该平台旨在将需要学术帮助的学生与准备好并有资格进行辅导的同龄人联系起来。它将支持志愿者和付费辅导服务，使每个人都可以使用它。 🔍问题：我很难看出这与机构提供的一些现有服务有何显着不同。手动配对学生进行指导。我希望这在更广泛的范围内更具创新性和有益性。 👨‍💻 我的背景： 我是一名软件工程专业的学生，​​拥有 FS 开发和设计交互功能的经验用于网络应用程序。我参与过已经部署并正在使用的项目。 💡寻求建议：  我该如何制作这个平台从传统的辅导服务中脱颖而出？ 可以集成哪些功能来为用户增加不可否认的价值？ 这是一个好主意吗？我是否应该追求不同的想法。  很想听听您的想法或任何反馈！  &amp;# 32；由   提交/u/Fit-Poetry6900   reddit.com/r/webdev/comments/1c6ew7e/help_with_website_idea/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6ew7e/help_with_website_idea/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:52:33 GMT</pubDate>
+      <title>肉包网站问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6kh5n/porkbun_site_issues/</link>
+      <description><![CDATA[有人对猪肉包有疑问吗？比如登录后必须再次登录，有时还要再次登录，或者网站在付款处理过程中永远挂起？我在加拿大，没有使用 VPN，如果这有什么区别的话。除了这些问题之外，这很好。谢谢。    由   提交 /u/TheFarSea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6kh5n/porkbun_site_issues/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:35:50 GMT</pubDate>
     </item>
     <item>
-      <title>网页开发采购技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6e6tw/web_development_sourcing_tips/</link>
-      <description><![CDATA[我正在尝试开展电子商务业务（可能通过 Shopify），但没有网络开发经验。 我正在尝试理解：  Web 开发在这一点上是否足够简单，我可以自己相对轻松地弄清楚它？ 如果我决定引入外部帮助，什么是与寻找合适资源相关的最佳实践（例如，如何获取资源、要问什么类型的问题等）？ 需要多长时间和时间？如果我寻求帮助，大约需要花多少钱才能完成这样的设置？    由   提交 /u/Jakeqs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6e6tw/web_development_sourcing_tips/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:24:18 GMT</pubDate>
+      <title>你们有自己的网站模板吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6ke8g/do_you_guys_have_website_templates_for_yourselves/</link>
+      <description><![CDATA[我只是问自己为什么每次都从头开始重新做所有事情。 我正在考虑拥有一个非常结构良好且模块化的模板，从现在起我将一直使用它，但我只是想知道这是否是标准做法，还是我目光短浅并最终导致问题。 By &quot; “模板”，我的意思是有一个字面上的网站骨架。如果我只是替换与其交互的 API 链接并更改文本，所有组件都已创建并设置为工作。 因此，每当我有网站想法时，我只需启动该模板并禁用我不想使用组件（或者根据需要添加新组件），但 80% 的工作已经完成。   由   提交 /u/MkleverSeriensoho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6ke8g/do_you_guys_have_website_templates_for_yourselves/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:32:42 GMT</pubDate>
     </item>
     <item>
-      <title>删除 Google 标签以改进 LCP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6d7va/removing_google_tags_to_improve_lcp/</link>
-      <description><![CDATA[大家好。我是一名相对较新的数字营销人员，希望改进我的页面上的 LCP 以实现 SEO 目的。我虽然遇到了障碍，但我不想过多地纠缠我的朋友，他可能可以解决这个问题，但无论如何。情况是这样的。 由于我在页面上加载了 4 个 Google 标签，LCP 受到了严重攻击。现在据我了解，我需要其中两个。一个用于我的广告，另一个用于分析。  我不清楚如何解决这个问题。在 Google 跟踪代码管理器中删除它们是否会将其从网站的脚本中删除？我有点怀疑这一点。如果没有那么我该如何删除它？我在 FTP 中搜索头文件，但没有找到标记代码。   由   提交 /u/AcanthisittaSea6459   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6d7va/removing_google_tags_to_improve_lcp/</guid>
-      <pubDate>Wed, 17 Apr 2024 15:46:28 GMT</pubDate>
+      <title>在我的网站“OctInk.space”上与我合作 – 多框架 UI 组件生成器/沙箱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6k6tg/collaborate_with_me_on_my_website_octinkspace_a/</link>
+      <description><![CDATA[嘿 r/[WebDev]！ 我正在积极为我的项目寻找感兴趣的合作者：OctInk.space UI Sandbox – a不断增长的设计创新重塑了您快速创建和测试 UI 组件的方式。我们的愿景包括支持 Vue 和 React 等多种框架，在您的帮助下，它注定会成为市场上唯一的工具，可以跨各种技术沙箱所有 UI 组件生成和快速预览需求，并提供面向社区的服务免费和付费组件甚至完整网页模板的市场，有点像 Codepen，但可以扩展且更友好地使用人工智能以及我们必须构建的大量框架。 我们的旅程：开始：从 html/css/TailwindCSS 开始，Ace 编辑器具有粘贴到编辑器按钮功能，还有一些用于快速 UI 组件粘贴和预览的功能，这一切都由 Vue 和 Vuetify 提供支持。我每天都在致力于它，我真的很喜欢这个想法，并决心在这一点上将其很好地实现。 · 广泛的框架支持：在 Vue 中生成和预览 UI 组件；反应？还有别的事吗？让我们添加它！ · 需要 MongoDB 集成：与我们一起安全地维护您的私人用户保存的资产，并在成熟的社区驱动的资产库下运行。 · ChatGPT API 和amp ;功能：人工智能在组件设计和预览自动化方面的力量。需要开发和微调 openai API 的功能，以便响应只是代码并输出到 ace 编辑器中。 为什么加入： · 享受 Vue、Vuetify 的技术堆栈、Florid 和 Mongo。 · 为开源项目做出贡献，为开发世界带来改变。 。给予学分，学生制作的项目，寻找任何感兴趣的人 需要你： · 前端爱好者：精通 Vue.js、React，或渴望了解更多。 需要你： · 前端爱好者：精通 Vue.js、React，或渴望了解更多。 p&gt; · 使用 Python Flask 和 MongoDB 的后端开发人员； · AI 探索者和内容创建者，用于扩展 AI 功能并制作很酷的教程； · 测试人员和构建反馈也是如此有用！ 连接： 访问 [http://www.octink.space ] 并成为重新定义 UI 组件创建的一部分。 DM 我以获得 Discord 和 GitHub 访问权限！   由   提交 /u/Interesting-Grab9120    reddit.com/r/webdev/comments/1c6k6tg/collaborate_with_me_on_my_website_octinkspace_a/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6k6tg/collaborate_with_me_on_my_website_octinkspace_a/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>是否有用于开发信用卡评论网站的 WordPress 主题或独立框架？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6cu3p/is_there_any_wordpress_theme_or_standalone/</link>
-      <description><![CDATA[嗨， 我要制作一个信用卡审核网站，需要一个引人入胜、设计出色的网站。  请帮助哪些主题或网络软件已经可用于制作评论网站。    由   提交/u/pkji89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6cu3p/is_there_any_wordpress_theme_or_standalone/</guid>
-      <pubDate>Wed, 17 Apr 2024 15:30:59 GMT</pubDate>
+      <title>可以看什么书来学习“一键部署”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6jd1v/what_book_can_i_read_to_learn_to_deploy_with_a/</link>
+      <description><![CDATA[什么书？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6jd1v/what_book_can_i_read_to_learn_to_deploy_with_a/</guid>
+      <pubDate>Wed, 17 Apr 2024 19:52:09 GMT</pubDate>
     </item>
     <item>
-      <title>学习外部组织网站/工具设置的最佳地点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6ch3z/best_place_to_learn_websitetool_setup_for_an/</link>
-      <description><![CDATA[这些年来我一直在学习不同的网络工具、开发技能、堆栈（我猜？）等，主要是作为一种爱好。  在 Udemy 上学习了一些网络课程，准备了大量教程，并完成了一些有趣的小型项目。  我在几个非营利组织中担任志愿者，并开始为他们提供一般 IT 帮助，因为他们很难做一些简单的事情，例如主持 Zoom 会议、更新网页等。 我很好奇一个人如何（本质上是作为一名自由开发人员但免费）设置诸如新网站之类的东西，或者可能专门是一个网络应用程序/工具，以一种在我完成后与我无关的方式。我（从课程中）“知道”如何通过免费或低成本工具建立自己的网页（尽管我的理解是其中许多工具，例如heroku，不再可行）。但我不确定如何向组织提供该工具，就像向客户提供工具一样。最大的障碍是这些组织没有太多能力提前建立这些流程，就像企业主可能（或至少应该）那样。  我已经开始摆弄谷歌云/虚拟机，但对它们的实际工作原理还不够了解，更不用说如何假冒它了。有没有像简单的 Wordpress 服务器这样可以轻松设置的东西？ 我知道在开始讨论之前我应该​​了解更多内容。但我试图通过实践来学习，即使是先制作我自己的假版本。谢谢！   由   提交/u/Endertech74  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6ch3z/best_place_to_learn_websitetool_setup_for_an/</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:25 GMT</pubDate>
+      <title>部署带有 DRF 后端的 NextJS 前端的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6j9mw/whats_the_best_way_to_deploy_a_nextjs_frontend/</link>
+      <description><![CDATA[我想部署我的应用程序的 MVP，而无需设置 VPS 的障碍。我想知道部署此类应用程序的简单方法是什么，是否值得对每个部分进行 Docker 化并将其设置在 VPS 上？  我的堆栈：前端：NextJS（应用程序路由器） 后端：DJango Rest Framework 数据库：PostgreSQL    由   提交/u/anonc3a  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6j9mw/whats_the_best_way_to_deploy_a_nextjs_frontend/</guid>
+      <pubDate>Wed, 17 Apr 2024 19:48:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何建立人物层面的认同？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6ceg4/how_to_build_personlevel_identification/</link>
-      <description><![CDATA[很好奇是否有人知道像 Warmly.ai 和 rb2b.com 这样的网站如何能够检测到访问您网站的单个 LinkedIn 用户。    由   提交 /u/ANakedRooster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6ceg4/how_to_build_personlevel_identification/</guid>
-      <pubDate>Wed, 17 Apr 2024 15:13:22 GMT</pubDate>
+      <title>帮助？尝试在购买时运行命令</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6ikr3/help_trying_to_run_a_command_upon_a_purchase/</link>
+      <description><![CDATA[嗨！当有人从我这里购买订阅时，我需要通过转到 https://WEBSITE 自动激活他们的帐户/api.php?action=new&amp;sub=1yr&amp;api_key=SUPERLONGAPIKEY 并返回“用户名”和“密码”字段给新客户。 我正在运行 WordPress 和 Woocommerce。 我被告知“这很简单。只需检查 YouTube”，但我可能没有使用正确的搜索词。 谢谢您， Jay    ;由   提交/u/Jayvel22  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6ikr3/help_trying_to_run_a_command_upon_a_purchase/</guid>
+      <pubDate>Wed, 17 Apr 2024 19:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>开源 Nextjs SaaS 启动器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6bun7/open_source_nextjs_saas_starter/</link>
-      <description><![CDATA[我正在寻找作为操作系统的 Nextjs SaaS 入门程序，我发现很多付费版本都太贵了。 理想的堆栈是：1. Nextjs 2. TailwindCSS 3. Shadcn Ui 4. Stripe 5. Email 6. Auth 我想要一个像 ChatGPT 这样的简单 UI，您可以在其中登录、订阅并使用 Web 应用程序。我看到了一些，但似乎很重， 这是我找到的最接近的： https://github.com/mickasmt/next-saas-stripe-starter 它也缺少文档。    提交人    /u/sammopus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6bun7/open_source_nextjs_saas_starter/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:51:01 GMT</pubDate>
+      <title>您的“推送生产”是什么样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/</link>
+      <description><![CDATA[我在现在的地方工作了大约 9 个月，最近已经到了他们信任我开始进行偶尔部署的阶段. 这个过程对我来说似乎很冗长。我不想详细介绍所有细节，但大约需要 24 个步骤来合并所有内容并更新存储库、构建 docker 镜像、更新 slack、更新发行说明等，而这只会让事情进入暂存阶段！  然后还有大约 15 个左右的步骤来更新 helms，将正确的 docker 镜像拉到服务器上并运行实际投入生产所需的脚本。我们为不同的客户端提供了大约 6 个不同的环境，因此最后 15 个步骤中的几个必须在每个环境上单独运行。  这疯了吗？我以前只做过更简单的项目，通常只是“选择您想要的服务器并点击绿色大按钮来部署它”   由   提交 /u/Jazzlike-Compote4463    reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/</guid>
+      <pubDate>Wed, 17 Apr 2024 19:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>创建浏览器游戏的提示/帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6bq9g/tipshelp_on_creating_a_browser_game/</link>
-      <description><![CDATA[所以我目前正在创建一个浏览器内回合制策略游戏（松散地基于国际象棋），并且需要一些帮助来组织/设置该项目。我将使用 Node、React、Express、Phaser 等。我以前用过react和express，但从来没有用过phaser。 这是我目前关于如何组织游戏的计划（让我知道是否有更好的方法来组织游戏或者如果我的计划有效等）：  App.js（用于控制客户端的标准反应文件） Game.jsx（游戏构建位置） Units.jsx（包含单元共有的所有功能等的文件） 每种单元类型的文件（赋予单元独特的属性等） Board .jsx（用图块精灵（如草、山、森林等）创建一个六边形网格 Map.json（？）（可以帮助我使用字符轻松创建地图的东西， board 文件会读取这个文件并创建一个地图，我不知道这是否是一个好的解决方案）。  我想要的功能：  稍后我会添加多人游戏功能，因此如果在创建游戏时我需要记住什么，请告诉我（这样我就不必稍后重新创建所有内容）。多人游戏的工作方式应该与在线国际象棋游戏的玩法非常相似：玩家。应该总是看到自己在地图的底部，并且总是看到对手在地图的顶部，所以需要对对手进行镜像。 //我唯一真正的服务器/数据库体验是创建一个简单的服务器和数据库，用户可以在其中登录并预订露营地（这是学校作业）。 我希望用户能够购买并拥有不同的皮肤和颜色等。有什么好方法可以轻松地为每种皮肤创建颜色等。我以前从未这样做过。 玩家应该能够创建自己的单位编队。我已经创建了单位应在内部生成的区域，我希望每个玩家都能够创建自己的阵型，但我不知道应该如何保存这些数据等。我应该使用 json 文件还是类似的文件？ 半随机棋盘生成。棋盘将始终是相同的（取决于您选择的形状），但图块等的放置将是半随机的。我将选择不同的瓷砖和建筑物可以生成的区域等，它们将在该区域随机生成。  我遇到的问题：  它很难跟踪单位的移动。每个单位都有多个移动点：如果一个单位有 2 个移动点，则每回合可以移动 2 个方块，如果该单位攻击另一个单位，这也会花费一个移动点，并且总是结束单位回合（删除本轮的所有移动点）。我遇到的问题是很难为此创建一个好的系统。现在，例如，当我单击一个单位或将其拖动到非法图块（例如向前 3 个图块）时，该单位将恢复到其原始起始位置（这是正确的），但这也会花费一个 movePoint。因此，我需要想出一个解决方案，可以跟踪一个单位是否移动到新的六边形等。  我希望获得有关如何组织或计划游戏的任何提示，并且在创建它时我应该记住的事情。   由   提交 /u/tobimika   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6bq9g/tipshelp_on_creating_a_browser_game/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:45:49 GMT</pubDate>
+      <title>你们使用什么 CMS 解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6iafm/what_solutions_do_you_guys_use_for_cms/</link>
+      <description><![CDATA[标题   由   提交 /u/mordechaihadad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6iafm/what_solutions_do_you_guys_use_for_cms/</guid>
+      <pubDate>Wed, 17 Apr 2024 19:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>请嘲笑我，我的 MVP，一切</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6b8e4/kindly_roast_me_my_mvp_everything/</link>
-      <description><![CDATA[大家好，我正在构建一项名为：https://hunchbank.com 的服务它允许Stripe用户使用简单的英语查询他们的交易和收入数据。无需了解 SQL 或使用 Stripe Sigma。现在，您可以询问数据问题，例如：“本月有多少客户尚未支付发票” Hunchbank 将为您提供答案。请烤它并告诉我这是一个愚蠢的想法，这样我就可以停止在上面浪费我的生命。谢谢   由   提交/u/pystar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6b8e4/kindly_roast_me_my_mvp_everything/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:25:01 GMT</pubDate>
+      <title>WordPress 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6hqep/wordpress_question/</link>
+      <description><![CDATA[因此，对于我的 WordPress 网站，我采用每月 4 美元的计划，并且在“外观”下没有编辑 css 选项，而且我没有看到编辑 css 选项这里的任何地方。我正在使用免费的默认 WordPress 主题。我看到哪里写着我可以每月 2 美元购买“额外的 css 编辑”。这能让我编辑 CSS 吗？它会出现在哪里？外观之下？   由   提交/u/Ok_Salt_9211   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6hqep/wordpress_question/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>领导每小时检查我的进度正常吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6b8bv/is_it_normal_for_lead_to_check_on_my_progress/</link>
-      <description><![CDATA[我处于一个奇怪的启动情况，它很小。然而，当我开始一项任务时，领导会每隔一两个小时检查一次，询问任务进展如何、我已经完成了多少、我想要解决什么问题。我会向他通报最新情况，一小时后他会回来问我是否弄清楚了我正在做的最后一件事。老实说，它让我无法集中注意力，感觉自己没有空间。这是正常的吗？我没有太多专业经验。    由   提交 /u/Trop_the_king   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6b8bv/is_it_normal_for_lead_to_check_on_my_progress/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:24:56 GMT</pubDate>
+      <title>单一平台中的存储+协作+聊天+人工智能。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6hljq/storage_collaboration_chat_ai_in_a_single_platform/</link>
+      <description><![CDATA[嗨。我正在构建 https://thedrive.ai，这是一个 AI 优先的协作知识库，您可以在其中存储、读取、写入并与 AI 协作，团队。除了更好的搜索和人工智能帮助之外，我们还为每个文件夹和文件提供了独特的聊天历史记录。可以在旁边做笔记的同时突出显示 PDF。我们还很早，但很想听到反馈。 干杯 🥂   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6hljq/storage_collaboration_chat_ai_in_a_single_platform/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:40:49 GMT</pubDate>
     </item>
     <item>
-      <title>我的面试很棒，他们只是担心我技术太熟练，迟早会离开，在他们面试其他人时，下面的后续电子邮件可以吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6b7vp/i_had_a_great_interview_they_are_just_concerned/</link>
-      <description><![CDATA[再次感谢您接受采访。  在我们讨论时，我想到了您对职位级别的担忧。我确实相信在可预见的未来我将达到适当的水平。这对我来说是一个很好的机会，也为我提供了宝贵的稳定性。    由   提交 /u/BeginningPen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6b7vp/i_had_a_great_interview_they_are_just_concerned/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:24:26 GMT</pubDate>
+      <title>Django request.session 给响应添加了大量延迟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6hk8a/django_requestsession_adding_large_amounts_of/</link>
+      <description><![CDATA[我有一个 Web 应用程序，它使用 Django 作为后端，使用 React 作为前端。我的后端将包含数据帧的对象存储到 Django 的会话功能中。数据帧可能非常大，并且由于在发送 HttpResponse 之前不会发生会话变量分配，因此我看到了大量的延迟。 这是一个相当广泛的问题，但是，是否有任何可行的方法解决方案？   由   提交/u/peoples888  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6hk8a/django_requestsession_adding_large_amounts_of/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>网页包问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6b6au/webpack_issue/</link>
-      <description><![CDATA[我正在观看此视频 https://www.youtube.com/watch?v=WVEvhwv3cBs&amp;ab_channel=DevTuts 在他运行npm install --save-dev之后html-webpack-plugin  他的仓库有 webpack.config.js ，一个带有 index.html 的 src 和 dist 目录 我的是空的 仅模块= package.json  这是我的存储库：https://github.com/LaurentiuMihaiNicuta/webpack -testing3 为什么？我必须手动创建 config.js 并编写所有代码吗？   由   提交 /u/kemidelusional   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6b6au/webpack_issue/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:22:38 GMT</pubDate>
+      <title>通过 5 秒健康网络检查保护您的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6h8um/secure_your_site_with_the_5_second_healthy_web/</link>
+      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6h8um/secure_your_site_with_the_5_second_healthy_web/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:26:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Reactjs] 为什么即使加载了我的源映射，浏览器也会显示块？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6b4lb/reactjs_why_does_my_source_maps_even_when_loaded/</link>
-      <description><![CDATA[我希望浏览器向我显示真正的源代码，也就是我的源代码组件，但它显示的是带有 chunk.js 内容的精简版本。 到目前为止我尝试过的： 1。  // webpack.config.js module.exports = { devtool: &#39;inline-source-map&#39; }  2.  // tsconfig.json { ... sourceMaps: true ... }  注意：我正在使用反应脚本来提供服务 任何帮助将不胜感激。谢谢！   由   提交 /u/SignificanceCheap970   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6b4lb/reactjs_why_does_my_source_maps_even_when_loaded/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:20:43 GMT</pubDate>
+      <title>按地址（或按地址通过 API 获取坐标）在地图上放置一系列可点击图钉的最佳选择？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6h15d/best_option_for_putting_an_array_of_clickable/</link>
+      <description><![CDATA[抱歉标题太长。我做了一些搜索并看到了一些选项，但它们的用例要么比我的复杂，要么比我的复杂。 基本上，我希望用户能够向应用程序添加事件......并且我想要这些事件当它们加载地图视图时显示为图钉，当然还具有放大/缩小功能，并且理想情况下，当它们根据视图中的内容放大和缩小时，侧面的列表会更新。 什么我对此有何选择？我是一名经验丰富的开发人员，但对此并没有太多经验。我使用过谷歌地图，但我没有付费，所以我真的不知道费用是多少，除了我听说它相当高。 有像 Mapbox 和 leaflet 这样的替代品吗？组合？）一个很好的选择，他们会处理上面的用例吗？有问题吗？ 谢谢！   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6h15d/best_option_for_putting_an_array_of_clickable/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:17:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

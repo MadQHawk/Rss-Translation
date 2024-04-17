@@ -4,27 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 17 Apr 2024 18:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 21:13:25 GMT</lastBuildDate>
     <item>
-      <title>脸部直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6gp29/faceonlive/</link>
-      <description><![CDATA[ 由   提交/u/johnrobert55922   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6gp29/faceonlive/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:04:29 GMT</pubDate>
+      <title>基本的东西是：当项目很小时无关紧要，当项目很大时生产力倍增，并且更难引入</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6kzj1/basic_things_which_are_irrelevant_while_the/</link>
+      <description><![CDATA[ 由   提交/u/alexeyr  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6kzj1/basic_things_which_are_irrelevant_while_the/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:56:42 GMT</pubDate>
     </item>
     <item>
-      <title>YAMLScript Spring 更新</title>
+      <title>Zig 延迟模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6knwr/zig_defer_patterns/</link>
+      <description><![CDATA[ 由   提交/u/alexeyr  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6knwr/zig_defer_patterns/</guid>
+      <pubDate>Wed, 17 Apr 2024 20:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过性能配置测试优化应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6jhov/optimize_applications_with_performance/</link>
+      <description><![CDATA[ 由   提交/u/brunoborges  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6jhov/optimize_applications_with_performance/</guid>
+      <pubDate>Wed, 17 Apr 2024 19:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>YAMLScript 春季更新</title>
       <link>https://www.reddit.com/r/programming/comments/1c6gma0/yamlscript_spring_update/</link>
       <description><![CDATA[ 由   提交/u/oalders  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c6gma0/yamlscript_spring_update/</guid>
       <pubDate>Wed, 17 Apr 2024 18:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家要注意</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6gk1b/everyone_be_aware/</link>
-      <description><![CDATA[希腊问号看起来和分号一模一样，只是不要让你的朋友接触你的电脑   由   提交 /u/DismalComposer8040   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6gk1b/everyone_be_aware/</guid>
-      <pubDate>Wed, 17 Apr 2024 17:59:14 GMT</pubDate>
     </item>
     <item>
       <title>为什么 SQLite 性能调优使 Bencher 速度提高 1200 倍</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我知道 perplexity.ai 使用 Claude，但他们到底是如何提及其来源的？ LLM 95% 的时间只会产生死链接，他们不会这样做。所以这显然是克劳德+其他逻辑。我对这背后的编程非常感兴趣。 他们还提供视频、图像和资源。所有这一切对我来说都很奇怪。  怎么样？在哪里？我怀疑这是 Bing API。 我只是好奇并且想知道它是如何工作的 🤷‍♂️   由   提交/u/MattH1966   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c6c26d/reverse_engineering_perplexity_for_fun/</guid>
       <pubDate>Wed, 17 Apr 2024 14:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>总有一些事情：作为软件开发人员与干扰作斗争</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6buh2/there_is_always_something_fighting_distractions/</link>
-      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6buh2/there_is_always_something_fighting_distractions/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:50:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
