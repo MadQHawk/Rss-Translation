@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:52:50 GMT</lastBuildDate>
     <item>
-      <title>基本的东西是：当项目很小时无关紧要，当项目很大时生产力倍增，并且更难引入</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6kzj1/basic_things_which_are_irrelevant_while_the/</link>
-      <description><![CDATA[ 由   提交/u/alexeyr  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6kzj1/basic_things_which_are_irrelevant_while_the/</guid>
-      <pubDate>Wed, 17 Apr 2024 20:56:42 GMT</pubDate>
+      <title>Horus - 用 Python 构建的 OSINT/数字取证工具（以前称为“Sentinel”）</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6qcpo/horus_an_osint_digital_forensics_tool_built_in/</link>
+      <description><![CDATA[ 由   提交/u/TheMaestro810   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6qcpo/horus_an_osint_digital_forensics_tool_built_in/</guid>
+      <pubDate>Thu, 18 Apr 2024 00:49:58 GMT</pubDate>
     </item>
     <item>
-      <title>Zig 延迟模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6knwr/zig_defer_patterns/</link>
-      <description><![CDATA[ 由   提交/u/alexeyr  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6knwr/zig_defer_patterns/</guid>
-      <pubDate>Wed, 17 Apr 2024 20:43:33 GMT</pubDate>
+      <title>掌握工作中的第二层关系</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6o82l/mastering_second_level_relationships_at_work/</link>
+      <description><![CDATA[您有没有想过，比您的经理或同事更远的人如何影响您的工作？ &lt;!-- SC_ON - -&gt;  由   提交/u/alvarolorentedev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6o82l/mastering_second_level_relationships_at_work/</guid>
+      <pubDate>Wed, 17 Apr 2024 23:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>通过性能配置测试优化应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6jhov/optimize_applications_with_performance/</link>
-      <description><![CDATA[ 由   提交/u/brunoborges  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6jhov/optimize_applications_with_performance/</guid>
-      <pubDate>Wed, 17 Apr 2024 19:57:11 GMT</pubDate>
+      <title>使用 SQLite 重新实现 Redis</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6meyu/redis_reimplemented_with_sqlite/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6meyu/redis_reimplemented_with_sqlite/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>YAMLScript 春季更新</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6gma0/yamlscript_spring_update/</link>
-      <description><![CDATA[ 由   提交/u/oalders  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6gma0/yamlscript_spring_update/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:01:26 GMT</pubDate>
+      <title>从 C 调用 OCaml</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6meik/calling_ocaml_from_c/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6meik/calling_ocaml_from_c/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 SQLite 性能调优使 Bencher 速度提高 1200 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6ghzk/why_sqlite_performance_tuning_made_bencher_1200x/</link>
-      <description><![CDATA[ 由   提交/u/bencherdev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6ghzk/why_sqlite_performance_tuning_made_bencher_1200x/</guid>
-      <pubDate>Wed, 17 Apr 2024 17:56:57 GMT</pubDate>
+      <title>基于获取和添加的队列的可爱技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6meha/cute_trick_for_fetchandaddbased_queues/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6meha/cute_trick_for_fetchandaddbased_queues/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:57 GMT</pubDate>
     </item>
     <item>
-      <title>使用 GeoParquet 和 Apache Sedona 提高 Overture 地图数据的效率</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6g7f5/making_overture_maps_data_more_efficient_with/</link>
-      <description><![CDATA[ 由   提交 /u/lyonwj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6g7f5/making_overture_maps_data_more_efficient_with/</guid>
-      <pubDate>Wed, 17 Apr 2024 17:45:08 GMT</pubDate>
+      <title>PostgreSQL 17 中使用最小锁定合并和拆分分区的用例</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6megb/use_cases_for_merging_and_splitting_partitions/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6megb/use_cases_for_merging_and_splitting_partitions/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>我为什么（以及如何）进行个人事后剖析</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6fnx2/why_and_how_i_conduct_personal_postmortems/</link>
-      <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6fnx2/why_and_how_i_conduct_personal_postmortems/</guid>
-      <pubDate>Wed, 17 Apr 2024 17:23:23 GMT</pubDate>
+      <title>HTML 弹出窗口属性</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6mefg/html_popover_attribute/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6mefg/html_popover_attribute/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:54 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript 的 Makeover Madness Bun，开发者的瑞士军刀</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6emua/javascripts_makeover_madness_bun_the_swiss_army/</link>
-      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6emua/javascripts_makeover_madness_bun_the_swiss_army/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:41:52 GMT</pubDate>
+      <title>深入研究 Rspack 和 Webpack Tree Shaking</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6mees/deep_dive_into_rspack_webpack_tree_shaking/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6mees/deep_dive_into_rspack_webpack_tree_shaking/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>具有广泛事件的可观察系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6e6xd/observable_systems_with_wide_events/</link>
-      <description><![CDATA[ 由   提交/u/rabidpraxis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6e6xd/observable_systems_with_wide_events/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:24:24 GMT</pubDate>
+      <title>BLISS 编程语言：历史</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6medl/the_bliss_programming_language_a_history/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6medl/the_bliss_programming_language_a_history/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:50 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年软件工程师必读的 7 本技术通讯</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6e4fg/7_mustread_tech_newsletters_for_software/</link>
-      <description><![CDATA[ 由   提交 /u/BigTechDigest   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6e4fg/7_mustread_tech_newsletters_for_software/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:21:43 GMT</pubDate>
+      <title>Vale 的高级内存管理</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6mecc/advanced_memory_management_in_vale/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6mecc/advanced_memory_management_in_vale/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>每周技术讲座#10：所有最近上传的技术会议演讲都集中在一处</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6e2j3/tech_talks_weekly_10_all_the_recently_uploaded/</link>
-      <description><![CDATA[ 由   提交/u/TechTalksWeekly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6e2j3/tech_talks_weekly_10_all_the_recently_uploaded/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:19:44 GMT</pubDate>
+      <title>2024 年的 Prism - Ruby 解析器的历史</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6mebb/prism_in_2024_a_history_of_ruby_parsers/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6mebb/prism_in_2024_a_history_of_ruby_parsers/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>在 Wing 中寻找中间件：第一部分作者：Asher Sterkin</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6dydn/in_search_for_middleware_within_wing_part_one_by/</link>
-      <description><![CDATA[ 由   提交 /u/SamIAmDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6dydn/in_search_for_middleware_within_wing_part_one_by/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:15:13 GMT</pubDate>
+      <title>PyPI：扩展可信发布者支持</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6meaa/pypi_expanding_trusted_publisher_support/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6meaa/pypi_expanding_trusted_publisher_support/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:44 GMT</pubDate>
     </item>
     <item>
-      <title>Greenmask 发布 v0.1.10。数据库匿名化工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6dv3n/greenmask_release_v0110_database_anonymization/</link>
-      <description><![CDATA[ 由   提交/u/anyweny  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6dv3n/greenmask_release_v0110_database_anonymization/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:11:37 GMT</pubDate>
+      <title>Rust GUI 框架性能比较</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6me8v/rust_gui_framework_performance_comparison/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6me8v/rust_gui_framework_performance_comparison/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>建立强大的复式记账会计系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6c84u/building_a_powerful_double_entry_accounting_system/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6c84u/building_a_powerful_double_entry_accounting_system/</guid>
-      <pubDate>Wed, 17 Apr 2024 15:06:11 GMT</pubDate>
+      <title>血统3源代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6mb4z/descent_3_source_code/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6mb4z/descent_3_source_code/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:50:59 GMT</pubDate>
     </item>
     <item>
-      <title>逆向工程 困惑的乐趣</title>
-      <link>https://www.reddit.com/r/programming/comments/1c6c26d/reverse_engineering_perplexity_for_fun/</link>
-      <description><![CDATA[我知道 perplexity.ai 使用 Claude，但他们到底是如何提及其来源的？ LLM 95% 的时间只会产生死链接，他们不会这样做。所以这显然是克劳德+其他逻辑。我对这背后的编程非常感兴趣。 他们还提供视频、图像和资源。所有这一切对我来说都很奇怪。  怎么样？在哪里？我怀疑这是 Bing API。 我只是好奇并且想知道它是如何工作的 🤷‍♂️   由   提交/u/MattH1966   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c6c26d/reverse_engineering_perplexity_for_fun/</guid>
-      <pubDate>Wed, 17 Apr 2024 14:59:58 GMT</pubDate>
+      <title>Blaze：高性能 C++ 数学库</title>
+      <link>https://www.reddit.com/r/programming/comments/1c6maik/blaze_a_high_performance_c_math_library/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c6maik/blaze_a_high_performance_c_math_library/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:50:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

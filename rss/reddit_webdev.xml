@@ -4,11 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:53:13 GMT</lastBuildDate>
+    <item>
+      <title>为每个应用程序配置单独的服务器与多租户。一般想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6oijb/provisioning_separate_servers_for_each_app_vs/</link>
+      <description><![CDATA[我正在考虑建立一个数据访问门户作为一种激情项目（即，这不是我的工作，我要支付账单并且没有得到任何经济回报......因此，我试图避免通过“愚蠢”的事情浪费金钱。 作为一名非开发人员，我更熟悉共享托管环境，但是...到目前为止，VPS 托管已经相当易于管理。 在 Digital Ocean 上进行设置的过程中，我不得不开始使用 Docker/容器。我不得不说......我真的很喜欢这个想法，但我认为学习曲线可能被低估！ 到目前为止我遇到的主要问题都与网络相关：端口冲突、Cloudflare隧道不喜欢 SSL 配置..之类的事情。小问题占用了我的时间。 我正在从事的项目涉及配置两个应用程序，这两个应用程序（不方便！）似乎只能与 PostgreSQL 配合良好：一个是数据可视化平台，另一个是数据可视化平台。另一个是 Drupal（我想在其中发布一个博客，分享一些嵌入式数据可视化 - 不幸的是该工具没有专用的前端）。 经过多次令人沮丧的尝试来获取一大堆容器之后通过在一个实例上的合作，我得出的结论是，唯一明智的选择是在自己的 Droplet 上配置系统的每个组件（对于那些不熟悉 DO 的人来说，Droplet 基本上只是 VPS）。没有数据库服务器共享，没有端口冲突，没有复杂的反向代理设置。每个组件都在自己的服务器上运行。 我的一半大脑告诉我这是“浪费”的。 （从某种意义上说，只要付出一点努力，我觉得我就可以让所有的事情在一个 VPS 上协同工作）。但同样，我刚刚完成了对日志的深入研究并调试了单个容器突然停止运行的原因。我觉得我想要实现的目标不应该这么难。 但是，作为一名业余爱好者/非专业人士，我很想知道这方面的最佳实践是什么为什么我在这里发帖。如果在自己的实例上运行特定的应用程序是常态，我想我会感到更放心，因为我正在采取正确的方向。是否有决定性的“最佳实践”？无论哪种方式？当一个“项目”完成时，在商业生产环境中会做什么？涉及几个不同的组件，这些组件可能都利用相同的数据库引擎（等等）？ TIA！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6oijb/provisioning_separate_servers_for_each_app_vs/</guid>
+      <pubDate>Wed, 17 Apr 2024 23:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>内部站点搜索引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6o85c/internal_site_search_engine/</link>
+      <description><![CDATA[你好！有人知道我可以使用一个位于防火墙后面的 html 网站的搜索引擎吗？我将 Google 自定义搜索用于面向公众的网站，但需要一个用于需要登录的私人网站。这是一个静态 html 网站。感谢任何建议。    由   提交 /u/mitoboru   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6o85c/internal_site_search_engine/</guid>
+      <pubDate>Wed, 17 Apr 2024 23:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel on (Open)LiteSpeed 与 NGINX</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6npq5/laravel_on_openlitespeed_vs_nginx/</link>
+      <description><![CDATA[我很好奇有多少人在 OpenLiteSpeed 上运行 Laravel 应用程序，以及它与在 NGINX 上运行的性能相比如何。我的猜测是，由于 (Open)LiteSpeed 使用 LSPHP (LSAPI + PHP)，因此它的性能可能更高。但似乎（OpenLiteSpeed）不像NGINX那么流行，并且这方面的信息不多。我很好奇您对在 (Open)LiteSpeed 上运行 Laravel 有何看法。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6npq5/laravel_on_openlitespeed_vs_nginx/</guid>
+      <pubDate>Wed, 17 Apr 2024 22:49:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对 Kotlin 有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6nj3n/what_is_your_opinion_on_kotlin/</link>
+      <description><![CDATA[你好！ 我是一名全栈开发人员，我想兼职启动一个独立项目。我习惯用 Java 和 C# 作为后端。您如何看待 Kotlin 作为构建 RESTful API 的后端语言？  看起来 Kotlin 主要用于 Android 开发，但我对其他用例很好奇。 你们中有人每天使用它并愿意分享吗？谈谈你的经历？  是什么让你喜欢/讨厌它？  谢谢！   由   提交 /u/SardineChocolat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6nj3n/what_is_your_opinion_on_kotlin/</guid>
+      <pubDate>Wed, 17 Apr 2024 22:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>以网络开发者换取营养服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6n2po/bartering_web_dev_for_nutrition_services/</link>
+      <description><![CDATA[您好！我是一名注册营养师，拥有 5 年肾脏营养专业经验。我正在推出一家基于保险的私人诊所，以解决我国服务不足的社区的肾脏健康问题。我目前缺乏网络开发技能和支付服务费用的资金。寻找有兴趣用自己的技能换取营养咨询课程的网络开发人员。如果有兴趣请给我留言或评论。谢谢！   由   提交 /u/Howlsmovingcastles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6n2po/bartering_web_dev_for_nutrition_services/</guid>
+      <pubDate>Wed, 17 Apr 2024 22:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>框架领域指南 - Angular、React、Vue</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6mnyh/the_framework_field_guide_angular_react_vue/</link>
+      <description><![CDATA[   /u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6mnyh/the_framework_field_guide_angular_react_vue/</guid>
+      <pubDate>Wed, 17 Apr 2024 22:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>致力于克罗萨夫克！ 🌐 为您的网站带来流量的工具。 #BuildInPublic</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6lss4/working_on_crosaffic_a_tool_to_bring_traffic_to/</link>
+      <description><![CDATA[      轻松增加网站流量。您的网站将在其他网站上获得交叉流量推荐！请分享您的想法、问题和反馈？协作者 u/Extension-Towel-3289 &lt;!-- SC_ON - -&gt;  由   提交 /u/Code-eat-sleep   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6lss4/working_on_crosaffic_a_tool_to_bring_traffic_to/</guid>
+      <pubDate>Wed, 17 Apr 2024 21:29:55 GMT</pubDate>
+    </item>
     <item>
       <title>关于为饥饿服务托管多个子域的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6kwy7/advice_on_hosting_many_subdomains_for_hungry/</link>
-      <description><![CDATA[大家好，我已经托管了大约 65 个网站，包括数十个小型企业动态和登陆页面网站、多聊天室服务、本地个人简历资料、播客托管、评论、在线社区项目、本地谈话广播等等。一切都在当地议会和教育团体的协助下。 我想使用子域名在一个标题下重新命名所有服务。 由于所有网站目前都托管在 iBrave 上托管无限计划，到目前为止还没有出现任何停机时间或流量速度问题，但随着这些服务越来越受欢迎，这种情况将会改变，我确信 iBrave 会对我摇摇手指。 许多网站的广告涵盖了所有费用，因此合理的费用不应该成为问题。 许多网站都使用 Wordpress，少数使用 Joomla，但所有网站我希望在该品牌下的所有服务都将使用 Wordpress。使用子域可以轻松完成此操作吗？ 你们是否建议我构建一台服务器来管理流量和硬件需求（例如 PowerEdge R630），或者在线租用服务器？ 感谢您的帮助，我可以保证还会有更多问题。   由   提交 /u/Proper-Turnover-5537   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我已经托管了大约 65 个网站，包括数十个小型企业动态和登陆页面网站、多聊天室服务、本地个人简历资料、播客托管、评论、在线社区项目、本地谈话广播等等。一切都在当地议会和教育团体的协助下。 我想使用子域名在一个标题下重新命名所有服务。 由于所有网站目前都托管在 iBrave 上托管无限计划，到目前为止还没有出现任何停机时间或流量速度问题，但随着这些服务越来越受欢迎，这种情况将会改变，我确信 iBrave 会对我摇摇手指。 许多网站的广告涵盖了所有费用，因此合理的费用不应该成为问题。 许多网站都使用 Wordpress，少数使用 Joomla，但所有网站我希望在该品牌下提供的服务都将使用 Wordpress。使用子域可以轻松完成此操作吗？ 你们是否建议我构建一台服务器来管理流量和硬件需求（例如 PowerEdge R630），或者在线租用服务器？ 感谢您的帮助，我可以保证还会有更多问题。   由   提交 /u/Proper-Turnover-5537   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6kwy7/advice_on_hosting_many_subdomains_for_hungry/</guid>
       <pubDate>Wed, 17 Apr 2024 20:53:42 GMT</pubDate>
     </item>
@@ -41,13 +90,6 @@
       <pubDate>Wed, 17 Apr 2024 20:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>可以看什么书来学习“一键部署”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6jd1v/what_book_can_i_read_to_learn_to_deploy_with_a/</link>
-      <description><![CDATA[什么书？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6jd1v/what_book_can_i_read_to_learn_to_deploy_with_a/</guid>
-      <pubDate>Wed, 17 Apr 2024 19:52:09 GMT</pubDate>
-    </item>
-    <item>
       <title>部署带有 DRF 后端的 NextJS 前端的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6j9mw/whats_the_best_way_to_deploy_a_nextjs_frontend/</link>
       <description><![CDATA[我想部署我的应用程序的 MVP，而无需设置 VPS 的障碍。我想知道部署此类应用程序的简单方法是什么，是否值得对每个部分进行 Docker 化并将其设置在 VPS 上？  我的堆栈：前端：NextJS（应用程序路由器） 后端：DJango Rest Framework 数据库：PostgreSQL    由   提交/u/anonc3a  [链接] [评论]]]></description>
@@ -62,53 +104,11 @@
       <pubDate>Wed, 17 Apr 2024 19:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>您的“推送生产”是什么样的？</title>
+      <title>你的“push to prod”是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/</link>
-      <description><![CDATA[我在现在的地方工作了大约 9 个月，最近已经到了他们信任我开始进行偶尔部署的阶段. 这个过程对我来说似乎很冗长。我不想详细介绍所有细节，但大约需要 24 个步骤来合并所有内容并更新存储库、构建 docker 镜像、更新 slack、更新发行说明等，而这只会让事情进入暂存阶段！  然后还有大约 15 个左右的步骤来更新 helms，将正确的 docker 镜像拉到服务器上并运行实际投入生产所需的脚本。我们为不同的客户端提供了大约 6 个不同的环境，因此最后 15 个步骤中的几个必须在每个环境上单独运行。  这疯了吗？我以前只做过更简单的项目，通常只是“选择您想要的服务器并点击绿色大按钮来部署它”   由   提交 /u/Jazzlike-Compote4463    reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我在现在的地方工作了大约 9 个月，最近已经到了他们信任我开始进行偶尔部署的阶段. 这个过程对我来说似乎很冗长。我不想详细介绍所有细节，但大约需要 24 个步骤来合并所有内容并更新存储库、构建 docker 镜像、更新 slack、更新发行说明等，而这只会让事情进入暂存阶段！  然后还有大约 15 个步骤来更新 helms，将正确的 docker 镜像拉到服务器上并运行实际投入生产所需的脚本。我们为不同的客户端提供了大约 6 个不同的环境，因此最后 15 个步骤中的几个必须在每个环境上单独运行。  这疯了吗？我以前只做过更简单的项目，通常只是“选择您想要的服务器并点击绿色大按钮来部署它”   由   提交 /u/Jazzlike-Compote4463    reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6ifyk/what_does_your_push_to_prod_look_like/</guid>
       <pubDate>Wed, 17 Apr 2024 19:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们使用什么 CMS 解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6iafm/what_solutions_do_you_guys_use_for_cms/</link>
-      <description><![CDATA[标题   由   提交 /u/mordechaihadad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6iafm/what_solutions_do_you_guys_use_for_cms/</guid>
-      <pubDate>Wed, 17 Apr 2024 19:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6hqep/wordpress_question/</link>
-      <description><![CDATA[因此，对于我的 WordPress 网站，我采用每月 4 美元的计划，并且在“外观”下没有编辑 css 选项，而且我没有看到编辑 css 选项这里的任何地方。我正在使用免费的默认 WordPress 主题。我看到哪里写着我可以每月 2 美元购买“额外的 css 编辑”。这能让我编辑 CSS 吗？它会出现在哪里？外观之下？   由   提交/u/Ok_Salt_9211   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6hqep/wordpress_question/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>单一平台中的存储+协作+聊天+人工智能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6hljq/storage_collaboration_chat_ai_in_a_single_platform/</link>
-      <description><![CDATA[嗨。我正在构建 https://thedrive.ai，这是一个 AI 优先的协作知识库，您可以在其中存储、读取、写入并与 AI 协作，团队。除了更好的搜索和人工智能帮助之外，我们还为每个文件夹和文件提供了独特的聊天历史记录。可以在旁边做笔记的同时突出显示 PDF。我们还很早，但很想听到反馈。 干杯 🥂   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6hljq/storage_collaboration_chat_ai_in_a_single_platform/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django request.session 给响应添加了大量延迟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6hk8a/django_requestsession_adding_large_amounts_of/</link>
-      <description><![CDATA[我有一个 Web 应用程序，它使用 Django 作为后端，使用 React 作为前端。我的后端将包含数据帧的对象存储到 Django 的会话功能中。数据帧可能非常大，并且由于在发送 HttpResponse 之前不会发生会话变量分配，因此我看到了大量的延迟。 这是一个相当广泛的问题，但是，是否有任何可行的方法解决方案？   由   提交/u/peoples888  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6hk8a/django_requestsession_adding_large_amounts_of/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:39:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 5 秒健康网络检查保护您的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6h8um/secure_your_site_with_the_5_second_healthy_web/</link>
-      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6h8um/secure_your_site_with_the_5_second_healthy_web/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>按地址（或按地址通过 API 获取坐标）在地图上放置一系列可点击图钉的最佳选择？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6h15d/best_option_for_putting_an_array_of_clickable/</link>
-      <description><![CDATA[抱歉标题太长。我做了一些搜索并看到了一些选项，但它们的用例要么比我的复杂，要么比我的复杂。 基本上，我希望用户能够向应用程序添加事件......并且我想要这些事件当它们加载地图视图时显示为图钉，当然还具有放大/缩小功能，并且理想情况下，当它们根据视图中的内容放大和缩小时，侧面的列表会更新。 什么我对此有何选择？我是一名经验丰富的开发人员，但对此并没有太多经验。我使用过谷歌地图，但我没有付费，所以我真的不知道费用是多少，除了我听说它相当高。 有像 Mapbox 和 leaflet 这样的替代品吗？组合？）一个很好的选择，他们会处理上面的用例吗？有问题吗？ 谢谢！   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6h15d/best_option_for_putting_an_array_of_clickable/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:17:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
