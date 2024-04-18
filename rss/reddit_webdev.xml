@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 06:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:14:24 GMT</lastBuildDate>
+    <item>
+      <title>这次对 Akamai 首席技术官关于“边缘计算”的采访让我有点困惑，如果可以的话我需要 ELI5。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6yodq/this_interview_with_akamai_cto_about_edge/</link>
+      <description><![CDATA[抱歉，我只是一个不起眼的播客编辑。虽然我确实必须听几次这个采访才能编辑它，但我一直在想，这听起来像云计算，但服务器只是……更近？我错过了什么，这里有人可以帮助我理解其中的区别吗？这纯粹是一个品牌问题还是有有意义的区别？谢谢。 链接 - https://youtu.be/kvoyRnDZQxw &amp;# x200b;   由   提交/u/gthomascraig   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6yodq/this_interview_with_akamai_cto_about_edge/</guid>
+      <pubDate>Thu, 18 Apr 2024 09:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试寻找开发工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6yazb/trying_to_find_dev_work/</link>
+      <description><![CDATA[一位朋友刚刚开始从事网络开发和营销业务，并试图帮助他们找到工作。任何人都可以提供任何提示或线索吗？这是他们的商业页面。 https://tychoseo.com/   由   提交/u/FopDiddelyDingDangDo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6yazb/trying_to_find_dev_work/</guid>
+      <pubDate>Thu, 18 Apr 2024 08:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助我和其他人选择一些新的东西来深入研究一个月</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6y6sy/help_me_and_others_pick_something_new_to_deep/</link>
+      <description><![CDATA[这两周/一个月我可以玩什么有趣的东西来获得对行业的新视角？ 任何事情都可以，只要为了好玩，而不是为了简历填充。 但作为一个起点，我已经在使用：  NextJS / React / Svelte Typescript / Javascript / Python SQL / Snowflake / PostgreSQL Bash / Docker Git / GitHub Mac / Linux / Windows（主要是 MacOS）&lt; /li&gt; VSCode  我没有做过太多 CI/CD、云、CLI 的东西，没有移动的东西，并且已经构建了一些浏览器扩展，从未尝试过 Vim或者Emacs，或者NeoVim并且打字很糟糕 如果你想看到结果评论： 提醒我！ 3 周“人员深入研究项目并取得了一定的成果” 查看民意调查    由   提交/u/Concient_Dog_4835   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6y6sy/help_me_and_others_pick_something_new_to_deep/</guid>
+      <pubDate>Thu, 18 Apr 2024 08:24:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有些人将自己描述为全栈工程师，这对您来说意味着什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6xzdv/what_connotation_does_some_describing_themselves/</link>
+      <description><![CDATA[我对它给人们的头脑带来了什么感兴趣。 我知道它给我的头脑带来了什么，但我不想影响任何东西。   由   提交 /u/Venisol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6xzdv/what_connotation_does_some_describing_themselves/</guid>
+      <pubDate>Thu, 18 Apr 2024 08:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6xx88/help/</link>
+      <description><![CDATA[嗨，我是一名计算机科学专业的学生，​​正在完成学习项目，我的项目的一部分是一个 Web 仪表板应用程序，我选择了 vuejs前端和后端的 laravel 我做了一些 vue 的东西，我来这里是想问我应该完全学习 laravel 还是改成更容易、更快的开发方式，在此之前我知道一些 html css js php python c sql 等，我很遗憾没有之前培养技能，我浪费了很多时间（这是一个为期 4 个月的项目，但现在还剩下 2 个月的时间用于网络、移动和桌面应用程序项目），那么你们有什么建议呢？学习laravel并直接使用或expressjs（nodejs）或更简单的   由   提交/u/yokusokujanai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6xx88/help/</guid>
+      <pubDate>Thu, 18 Apr 2024 08:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助举行技术面试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6xvur/help_with_holding_a_technical_interview/</link>
+      <description><![CDATA[您好， 下周我被要求帮助参加初级候选人的技术面试。这将是我第一次从事此类工作，我会更多地帮助我的同事进行采访，而不是自己进行采访。  该职位将是一个具有后端 C# 知识的全栈职位。 我向您提出的问题是，您会问什么问题来了解他们的想法，以及他们在技术层面上是什么样的。   由   提交 /u/zerthz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6xvur/help_with_holding_a_technical_interview/</guid>
+      <pubDate>Thu, 18 Apr 2024 08:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建滚动到顶部按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6xftj/how_to_create_a_scroll_to_top_button_with/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建滚动到顶部按钮[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6xftj/how_to_create_a_scroll_to_top_button_with/</guid>
+      <pubDate>Thu, 18 Apr 2024 07:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站上的视频动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6xbuy/video_animations_on_website/</link>
+      <description><![CDATA[大家好！  我们正在 WP Elementor 中设置我们的网站，并且我们有一些很棒的动画图形，我们热衷于将它们设置为创建一些更具活力和吸引力的部分。  https://www.revolut.com/ 循环视频很好地解释了他们的服务是什么，这与我们希望实现的目标类似。  主要区别在于 Revolut 可能是在 React + SSR 中构建的，因此它可以完美加载并且不会影响页面速度。这是我们对未来（也许一年左右）的愿望，但在那之前我们需要使用 WP Elementor。  你们有什么解决方案来实现这一点并保持合理的加载速度吗？ 自我托管或将其存储在其他地方更好吗？ 非常感谢！ ​   由   提交 /u/DefinitelyNiko   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6xbuy/video_animations_on_website/</guid>
+      <pubDate>Thu, 18 Apr 2024 07:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年趋势：Web 应用程序开发的未来</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6x11b/2024_trends_the_future_of_web_application/</link>
+      <description><![CDATA[       由   提交/u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6x11b/2024_trends_the_future_of_web_application/</guid>
+      <pubDate>Thu, 18 Apr 2024 07:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有社区/网站可供我寻求模式/风格架构建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6x0s4/is_there_a_communitywebsite_where_i_can_seek/</link>
+      <description><![CDATA[我需要设计一个网站的架构，用于为学生注册学分课程。每学期学生最多可注册30个学分（约9-10门课程）；如果超过此限制，则无法注册。课程可以是必修课，也可以是选修课，并且可以有一门或多门必修课程（如果未完成必修课程，学生不能注册后续课程）。 在注册开放日，学生将登录系统并查看他们可以注册的课程列表。他们将选择课程并进行注册。如果课程已满，学生将被列入等待名单，以便大学考虑开设额外的课程。如果没有开设额外课程，学生对该课程的注册将被取消。 成功注册后，将向学生发送一封确认电子邮件，包括注册详细信息和学费支付决定。&lt; /p&gt; 此外，系统将允许学生查看他们的学术信息（例如获得的学分、所修课程、课程成绩、累计 GPA）、每周时间表和其他实用程序。 一旦学生修满各专业规定的学分，有权申请毕业。如果满足所有标准，学生将获得学位并被列入大学校友名单。学位信息将在大学网站上公开提供。校友信息将被保留，用于跟踪职业发展（在学生同意的情况下）、进行调查和其他活动。 是否有一个社区可以让我寻求架构建议？ 我需要服务器-客户端连接方法的示意性设计以及选择特定样式/模式的原因，以及如何存储数据库。 例如，一个系统可能有多个服务器，其中每个服务器处理 4-12 个 API 来执行特定任务，以在有许多用户访问系统时减少拥塞。或者，某些服务器可能只允许从视图中读取数据，而更新数据则需要从另一台能够直接访问表的服务器进行访问。 信用登记系统的一个主要问题是，在登记开放日，用户大量涌入，导致系统错误或速度变慢，而平日访问系统的用户较少。我该如何解决这个问题？ 是否有一个网站可以寻求建议或查找类似系统的原理图设计和类图？我明白设计能力需要长期的训练，但这次我急需帮助。感谢您的帮助。   由   提交 /u/FreedomIsTheBestt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6x0s4/is_there_a_communitywebsite_where_i_can_seek/</guid>
+      <pubDate>Thu, 18 Apr 2024 07:02:42 GMT</pubDate>
+    </item>
     <item>
       <title>患有闪亮物体综合症的企业家请注意，我找到你了😃（人工智能生成的商业计划）</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6w8d6/attention_entrepreneurs_with_shiny_object/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[我只是好奇   由   提交 /u/Permatheus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6renc/what_domain_names_do_you_own/</guid>
       <pubDate>Thu, 18 Apr 2024 01:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>绝对是初学者的问题，但为什么我们需要一个 Web 服务器来在本地托管我们的前端应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6qsib/absolute_beginner_question_but_why_do_we_need_a/</link>
-      <description><![CDATA[当我们运行一个使用库（比如react）开发的前端应用程序时，为什么我们需要一个服务器来托管它，就像vite提供的那样一个服务器。 我在某处读到，服务器需要将库代码转换为纯 JS，但根据我的说法，这是在服务器托管之前完成的？ Vite在内部将代码转译为纯 js，为什么我们需要服务器呢？   由   提交/u/shivamkimothi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6qsib/absolute_beginner_question_but_why_do_we_need_a/</guid>
-      <pubDate>Thu, 18 Apr 2024 01:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要成功案例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6qop8/success_stories_wanted/</link>
-      <description><![CDATA[大家好。我真的很想把这当成一份事业。我的经验很少，我做了很少的 html 和 css 在线课程。  我现在正在学校攻读计算机科学学位，有时感觉自己没有取得进步，而且我的未来目标还很遥远。  请与我分享您的成功故事和成就以获取鼓励，这样我就知道我也能做到。谢谢。    由   提交/u/ChiLove816  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6qop8/success_stories_wanted/</guid>
-      <pubDate>Thu, 18 Apr 2024 01:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我没有被骗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6qkap/i_didnt_get_scamed/</link>
-      <description><![CDATA[所以我几乎聘请了一名开发人员来为我创建这个网站。他发送了商业网站的链接，我们通过电话交谈。目前看来是合法的。我告诉他我想先与银行谈谈并征求他们的意见。 银行对此表示怀疑，因为我收到的链接没有显示在她的手机上。她的建议是致电商业改善局，然后检查他们的数据库。好吧，我做到了，那“生意”就完成了。没有出现。 那家伙今天联系了我，我质问他为什么没有在 BBB 注册，他找了一些借口，一直试图让我同意付款。太糟糕了 🚫 如何找到 Web 开发人员？   由   提交/u/25island  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6qkap/i_didnt_get_scamed/</guid>
-      <pubDate>Thu, 18 Apr 2024 01:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户界面构建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6qff2/ui_build/</link>
-      <description><![CDATA[大家好， 对于那些利用自己的时间进行开发且主要是后端开发人员的人来说，如何开发 UI ？我需要一个超级基本的 3 列 UI 来用于我正在开发的笔记应用程序。主要要求是它必须在平板电脑上完全可见，而不是在台式机或手机上。我想最终将其变成一个自托管工具。谢谢   由   提交/u/TechyRyan33  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6qff2/ui_build/</guid>
-      <pubDate>Thu, 18 Apr 2024 00:53:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>为每个应用程序配置单独的服务器与多租户。一般想法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6oijb/provisioning_separate_servers_for_each_app_vs/</link>
-      <description><![CDATA[我正在考虑建立一个数据访问门户作为一种激情项目（即，这不是我的工作，我要支付账单并且没有得到任何经济回报......因此，我试图避免通过“愚蠢”的事情浪费金钱。 作为一名非开发人员，我更熟悉共享托管环境，但是...到目前为止，VPS 托管已经相当易于管理。 在 Digital Ocean 上进行设置的过程中，我不得不开始使用 Docker/容器。我不得不说......我真的很喜欢这个想法，但我认为学习曲线可能被低估！ 到目前为止我遇到的主要问题都与网络相关：端口冲突、Cloudflare隧道不喜欢 SSL 配置..之类的事情。小问题占用了我的时间。 我正在从事的项目涉及配置两个应用程序，这两个应用程序（不方便！）似乎只能与 PostgreSQL 配合良好：一个是数据可视化平台，另一个是数据可视化平台。另一个是 Drupal（我想在其中发布一个博客，分享一些嵌入式数据可视化 - 不幸的是该工具没有专用的前端）。 经过多次令人沮丧的尝试来获取一大堆容器之后通过在一个实例上的合作，我得出的结论是，唯一明智的选择是在自己的 Droplet 上配置系统的每个组件（对于那些不熟悉 DO 的人来说，Droplet 基本上只是 VPS）。没有数据库服务器共享，没有端口冲突，没有复杂的反向代理设置。每个组件都在自己的服务器上运行。 我的一半大脑告诉我这是“浪费”的。 （从某种意义上说，只要付出一点努力，我觉得我就可以让所有的事情在一个 VPS 上协同工作）。但同样，我刚刚完成了对日志的深入研究并调试了单个容器突然停止运行的原因。我觉得我想要实现的目标不应该这么难。 但是，作为一名业余爱好者/非专业人士，我很想知道这方面的最佳实践是什么为什么我在这里发帖。如果在自己的实例上运行特定的应用程序是常态，我想我会感到更放心，因为我正在采取正确的方向。是否有决定性的“最佳实践”？无论哪种方式？当一个“项目”完成时，在商业生产环境中会做什么？涉及几个不同的组件，这些组件可能都利用相同的数据库引擎（等等）？ TIA！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6oijb/provisioning_separate_servers_for_each_app_vs/</guid>
-      <pubDate>Wed, 17 Apr 2024 23:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部站点搜索引擎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6o85c/internal_site_search_engine/</link>
-      <description><![CDATA[你好！有人知道我可以使用一个位于防火墙后面的 html 网站的搜索引擎吗？我将 Google 自定义搜索用于面向公众的网站，但需要一个用于需要登录的私人网站。这是一个静态 html 网站。感谢任何建议。    由   提交 /u/mitoboru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6o85c/internal_site_search_engine/</guid>
-      <pubDate>Wed, 17 Apr 2024 23:11:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel on (Open)LiteSpeed 与 NGINX</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6npq5/laravel_on_openlitespeed_vs_nginx/</link>
-      <description><![CDATA[我很好奇有多少人在 OpenLiteSpeed 上运行 Laravel 应用程序，以及它与在 NGINX 上运行的性能相比如何。我的猜测是，由于 (Open)LiteSpeed 使用 LSPHP (LSAPI + PHP)，因此它的性能可能更高。但似乎（OpenLiteSpeed）不像NGINX那么流行，并且这方面的信息不多。我很好奇您对在 (Open)LiteSpeed 上运行 Laravel 有何看法。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6npq5/laravel_on_openlitespeed_vs_nginx/</guid>
-      <pubDate>Wed, 17 Apr 2024 22:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 Kotlin 有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6nj3n/what_is_your_opinion_on_kotlin/</link>
-      <description><![CDATA[你好！ 我是一名全栈开发人员，我想兼职启动一个独立项目。我习惯用 Java 和 C# 作为后端。您如何看待 Kotlin 作为构建 RESTful API 的后端语言？  看起来 Kotlin 主要用于 Android 开发，但我对其他用例很好奇。 你们中有人每天使用它并愿意分享吗？谈谈你的经历？  是什么让你喜欢/讨厌它？  谢谢！   由   提交 /u/SardineChocolat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6nj3n/what_is_your_opinion_on_kotlin/</guid>
-      <pubDate>Wed, 17 Apr 2024 22:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>以网络开发者换取营养服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6n2po/bartering_web_dev_for_nutrition_services/</link>
-      <description><![CDATA[您好！我是一名注册营养师，拥有 5 年肾脏营养专业经验。我正在推出一家基于保险的私人诊所，以解决我国服务不足的社区的肾脏健康问题。我目前缺乏网络开发技能和支付服务费用的资金。寻找有兴趣用自己的技能换取营养咨询课程的网络开发人员。如果有兴趣请给我留言或评论。谢谢！   由   提交 /u/Howlsmovingcastles   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6n2po/bartering_web_dev_for_nutrition_services/</guid>
-      <pubDate>Wed, 17 Apr 2024 22:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>框架领域指南 - Angular、React、Vue</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6mnyh/the_framework_field_guide_angular_react_vue/</link>
-      <description><![CDATA[   /u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6mnyh/the_framework_field_guide_angular_react_vue/</guid>
-      <pubDate>Wed, 17 Apr 2024 22:05:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
