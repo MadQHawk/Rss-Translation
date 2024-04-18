@@ -4,11 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 18:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 21:12:07 GMT</lastBuildDate>
+    <item>
+      <title>有人知道为什么嵌入 iFrame 会添加额外的元视口吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7ea23/anyone_know_why_embedding_an_iframe_adds_extra/</link>
+      <description><![CDATA[这是原始帖子，因为它使用带有 Divi 主题的 Wordpress：https://www.reddit.com/r/divi/comments/1c753vs/embedding_iframe_creates_extra_meta_viewport_on/ 我只是不知道为什么嵌入 iframe 脚本会添加元视口，并且仅在检查元素时显示，而不是在查看源代码时显示....太奇怪了...   由   提交/u/jand1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7ea23/anyone_know_why_embedding_an_iframe_adds_extra/</guid>
+      <pubDate>Thu, 18 Apr 2024 20:52:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们会/如何做加载屏幕。最正确的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7dmnp/how_would_how_do_you_guys_do_loading_screen_and/</link>
+      <description><![CDATA[    /u/Pomelowy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7dmnp/how_would_how_do_you_guys_do_loading_screen_and/</guid>
+      <pubDate>Thu, 18 Apr 2024 20:26:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议：提高我的新业务的移动 PageSpeed 分数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7crok/need_advice_improving_mobile_pagespeed_scores_for/</link>
+      <description><![CDATA[大家好， 我即将推出我的电子商务宠物 CBD 业务，这是一个充满激情的项目，吸引了过去几年里无数个小时！在这段旅程中，我解决了从在 Illustrator 中创建图标到掌握（或至少尝试掌握）电子邮件营销以及介于两者之间的所有问题。我使用 Elementor Pro 来构建我的网站，这给了我巨大的帮助。不幸的是，当谈到技术方面时，感觉就像我在倒立时试图看书！对于某些人来说这可能是可行的，但这对我来说无疑是一个挑战！ 尽管如此，我还是在移动页面加载时间方面遇到了一些障碍：  我的桌面 PageSpeed分数约为 60-66，加载时间约为 1.3 秒，但在移动设备上，分数降至 32 左右，加载时间约为 5 秒。 奇怪的是，在不同移动设备上进行测试时，网站几乎立即加载，这与较低的移动得分不符。 我在 SiteGround 上托管，并且在故障排除期间积极主动进行缓存管理。  为了让您更好地了解，我设置了一个暂存站点，该站点当前处于维护模式，但可以在此处访问：https://staging19 .simplicbd.ca/ 我正在寻求有关如何进一步优化移动性能和整个网站的建议。 任何见解或建议都会非常感谢。 非常感谢， Brian   由   提交 /u/CaPpedDoG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7crok/need_advice_improving_mobile_pagespeed_scores_for/</guid>
+      <pubDate>Thu, 18 Apr 2024 19:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发人员 - 在线零售</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7c9x5/web_developer_online_retail/</link>
+      <description><![CDATA[我在自动化领域工作。 我不断购买自动化产品，并发现了一些建立在线零售店的绝佳机会。问题是我不做网络开发。但我已经与设备提供商建立了一些良好的关系，并且了解市场的需求。 我正在寻找可以开发在线商店的合作伙伴，同时我专注于其余的业务业务。 哪里是找到上述人员的最佳地点？这将是一笔血汗股权交易...   由   提交/u/Nicosee3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7c9x5/web_developer_online_retail/</guid>
+      <pubDate>Thu, 18 Apr 2024 19:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计一个独立的网络小部件以出售给各个网站的最佳方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7bxys/best_way_to_design_a_standalone_web_widget_to_be/</link>
+      <description><![CDATA[一位朋友向我提出了一个想法，让我构建一个独立的 Web 小部件，他可以将其用于自己的商业网站，但也希望能够出售将其提供给其他企业并允许他们将其插入到他们的网站中。它可能是一个复杂的前端小部件，没有需要后端的功能。我想过使用 iframe，但我没有发现它们有问题，但我以前从未做过此类事情，所以我很想知道还有哪些其他选项或者最常见的方法是什么。&lt; /p&gt;   由   提交 /u/Hawexp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7bxys/best_way_to_design_a_standalone_web_widget_to_be/</guid>
+      <pubDate>Thu, 18 Apr 2024 19:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>附加网络数据管理工具的最快方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7be1f/fastest_way_to_attach_a_web_data_admin_tool/</link>
+      <description><![CDATA[我什至不确定它到底叫什么。内容管理系统？我想要像 Django 的管理站点这样的东西来允许为我的单人站点添加/编辑/删除数据功能。这意味着当我可以开发用户功能时，我不想花费大量时间来开发管理功能。 我已经提到过 Django，但我既没有使用 Django，也没有使用 python。与语言无关且独立的东西将是理想的。这不是我第一次遇到这个问题。我很明智，这次没有尝试写它。   由   提交 /u/livingdeadghost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7be1f/fastest_way_to_attach_a_web_data_admin_tool/</guid>
+      <pubDate>Thu, 18 Apr 2024 18:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许用户填写几个表单字段的最佳方法，而不是提交显示一个单击后的按钮，它会在模式中显示表单的其余部分，并在上一步中预先填充前几个字段？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7b40m/best_way_to_allow_user_to_fill_out_a_few_form/</link>
+      <description><![CDATA[基本上我想在英雄部分放置一个表单，但我不希望英雄部分太大，~30rem，但是表单是可变的并且可以很长。我的想法是也许允许表单显示前几个字段，例如 4-6，并且没有提交按钮，而是有一个“继续”按钮。按钮，而不是单击时打开一个显示完整表单的模式。   由   提交/u/papichulo916   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7b40m/best_way_to_allow_user_to_fill_out_a_few_form/</guid>
+      <pubDate>Thu, 18 Apr 2024 18:46:42 GMT</pubDate>
+    </item>
     <item>
       <title>我工作中的某人希望网站在 ColdFusion 和 .Net 中运行且看起来 100% 几乎相同。这是一个现实的期望吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7ab7c/someone_at_my_work_wants_a_website_to_function/</link>
-      <description><![CDATA[总而言之，工作中有一个使用 ColdFusion 制作网站的任务，还有一个在 .Net 版本中创建相同网站的任务。&lt; /p&gt; 基本上，使用该网站的主要人员不想使用 .Net 版本，因为她不喜欢改变，并且她说她希望 .Net 版本与 ColdFusiom 100% 相同版本。 所以，自从提出请求以来已经过去了大约 3 年，人们基本上忽略了这项任务。因为，人们似乎只会接受 100% 相同的网站。 是否有可能使 .Net 网站与 ColdFusion 网站 100% 相同？该网站也有点大。另外，这应该很容易还是听起来很耗时？   由   提交/u/Ben5544477  [链接] [评论]]]></description>
+      <description><![CDATA[总之，工作中有一项任务是大约 20 年前使用 ColdFusion 制作一个网站，并且有一项任务是在 .  基本上，使用该网站的主要人员不想使用.Net版本，因为她不喜欢改变，她说她希望.Net版本是100%在各方面都与 ColdFusion 版本相同。 因此，自提出请求以来已经过去了大约 3 年，人们基本上忽略了这项任务。因为，人们似乎只会接受 100% 相同的网站。 是否有可能使 .Net 网站与 ColdFusion 网站 100% 相同？该网站也有点大。另外，这应该很容易还是听起来很耗时？ 我很确定当该人退休时将会使用新的 .Net 版本。因为，它具有所有相同的功能。 我在 Web 开发方面没有足够的经验，无法知道这是否是一个现实的要求/期望。 您的建议是什么这个问题？创建一个几乎 95% 相同的网站并等待该人在大约一年后退休？或者做点别的什么？   由   提交/u/Ben5544477  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7ab7c/someone_at_my_work_wants_a_website_to_function/</guid>
       <pubDate>Thu, 18 Apr 2024 18:14:48 GMT</pubDate>
     </item>
@@ -22,7 +71,7 @@
     <item>
       <title>你在 webdev 中做过的最天才的黑客是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/</link>
-      <description><![CDATA[这是我的，发生在 2003/04 左右的某个时候。 在我学习了 PHP、MySQL 和 HTML 之后回来之后，我非常想写自己的聊天记录。当时IE在浏览器中占主导地位。 当时我还不知道socket，因为我刚刚学了PHP，知道如何获取和发布数据。所以我的“聊天”是由每秒刷新一次以提取新数据的框架和一个带有输入字段以发布消息的框架构建的。 但是，当时 IE 有两种刷新页面的方法，即 HTML 元数据-tag 或frame-reload 通过 JS，都有各自的问题。刷新框架时meta-tag会发出点击声，JS框架重新加载会使页面闪烁。当时还没有 AJAX。 所以在某个时候，我有了一个天才的想法，我可以刷新一个小的 1x1 px 框架（没有声音），然后将其内容附加到另一个框架哪里需要数据，它就完美地工作。 tldr;是的，我基本上在不知情的情况下发明了 AJAX。   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
+      <description><![CDATA[这是我的，发生在 2003/04 左右的某个时候。 在我学习了 PHP、MySQL 和 HTML 之后回来之后，我非常想写自己的聊天记录。当时IE在浏览器中占主导地位。 当时我还不知道socket，因为我刚学PHP，知道如何获取和发送数据。所以我的“聊天”是由每秒刷新一次以提取新数据的框架和一个带有输入字段以发布消息的框架构建的。 但是，当时 IE 有两种刷新页面的方法，一种是 HTML 元数据-tag 或frame-reload 通过 JS，都有各自的问题。刷新框架时，元标签会发出点击声，JS框架重新加载会闪烁页面。当时还没有 AJAX。 所以在某个时候，我有了一个天才的想法，我可以刷新一个小的 1x1 px 框架（没有声音），然后将其内容附加到另一个框架哪里需要数据，它就完美地工作。 tldr;是的，我基本上在不知情的情况下发明了 AJAX。   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/</guid>
       <pubDate>Thu, 18 Apr 2024 17:38:07 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c75vyc/the_intlsegmenter_object_is_now_part_of_baseline/</guid>
       <pubDate>Thu, 18 Apr 2024 15:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>投注API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75n4p/betting_api/</link>
-      <description><![CDATA[我国的博彩问题日益严重。我想做一个副项目，可能会帮助那些有投注问题的人，但为此我需要一个好的 API 来进行（在线）投注。你知道任何？我对免费选项最感兴趣，但如果它们不存在，也会考虑付费选项。   由   提交/u/hiiamn7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75n4p/betting_api/</guid>
-      <pubDate>Thu, 18 Apr 2024 15:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁是行业内的顶尖玩家？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75lev/who_are_the_top_players_in_the_industry/</link>
-      <description><![CDATA[大家好 我目前在读大学三年级，想从事自由职业 - 具体来说是 Web 开发。&lt; /p&gt; 我想知道谁是顶级咨询公司&amp;程序员是？以及我如何找到他们来获得灵感 请原谅这是一个愚蠢的问题 - 我只是想在我所做的事情上表现出色  &amp; #32；由   提交/u/leanlucci  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75lev/who_are_the_top_players_in_the_industry/</guid>
-      <pubDate>Thu, 18 Apr 2024 15:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>接收来自中国的付款</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75hpz/receiving_payments_from_china/</link>
-      <description><![CDATA[我有一个供居住在中国的中国客户使用的网站。我尝试使用 Stripe 建立支付系统（使用支付宝或微信），但他们在中国甚至我居住的国家/地区不提供服务。是否有任何 Stripe 的替代方案，我可以使用与 Stripe 类似的易用性/质量?   由   提交 /u/Uranusistormy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75hpz/receiving_payments_from_china/</guid>
-      <pubDate>Thu, 18 Apr 2024 15:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用什么引擎来创建我的游戏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75dfl/what_engine_should_i_use_to_create_my_game/</link>
-      <description><![CDATA[我正在创建一个简单的 2d 多人回合制策略游戏，我想知道我应该使用什么引擎/框架。该游戏将首先为浏览器制作，但稍后可能会制作成应用商店/Playstore 的应用程序和 Steam 上的游戏。游戏将有多人游戏模式，以及与 AI 对抗的模式。 我应该用 js 和 css 等创建所有内容吗？例如通过使用react和phaser（也许还有像bordgameio或rune这样的另一个框架）？然后使用express和mongodb等作为后端？ 或者我应该使用像godot/unity这样的游戏引擎来制作游戏吗？ 我对godot和unity都有经验，并且可以也用js编写代码（但从未使用js制作过完整的游戏）。 使用真正的游戏引擎（如godot和unity）创建主游戏可能会更容易，至少对于客户端而言边。但是游戏在网络上运行得像使用 Phaser 一样好吗？ 另外，我以前从未使用游戏引擎创建过网页游戏，设置和测试容易吗？ 什么你认为这个游戏的最佳方法是什么？   由   提交 /u/tobimika   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75dfl/what_engine_should_i_use_to_create_my_game/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图达到一个效果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75cm6/trying_to_achieve_an_effect/</link>
-      <description><![CDATA[大家好，只是想知道是否有人可以帮助我了解术语。 https://www.youtube.com/watch?v=V6DJYGn2SFk&amp;t=2720s 在此视频中 39 :00 和 40:00 一位女士在演示网站中输入搜索条件，当她点击搜索时，该框似乎延伸到网站顶部并成为聊天机器人窗口。 提前感谢您，如果您可以观看视频片段来理解我的意思。 我不确定它是否是通过 CSS、HTML 或 Javascript 实现的，但希望能提供一些有关如何实现的意见。  非常感谢   由   提交/u/Babayaga1664  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75cm6/trying_to_achieve_an_effect/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为 PWA 的功能与本机应用程序或网站一样吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75byi/do_you_find_pwas_to_be_as_functional_as_native/</link>
-      <description><![CDATA[大家好，上次我这样做，只是距离 200 人的目标还差 110 人。如果您有空闲时间，我很乐意看到您的答案！ 帮助大学生毕业 :) 调查这里 查看民意调查   由   提交 /u/sebastiancastroj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75byi/do_you_find_pwas_to_be_as_functional_as_native/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:54:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Bluehost 进行 CI/CD 可行还是我在树上狂吠？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c752l4/cicd_through_bluehost_feasible_or_am_i_barking_up/</link>
-      <description><![CDATA[大家好。我已经完成了静态站点部署（基本的 WP 网站和 bluehost 上托管的一些 html/css/js/php），但我通常是这个美丽新世界的新手，是时候升级了，我需要一些建议。 我的情况是这样的： -我正在 NextJS 从头开始​​重建我的网站 -已经启动了域名从 bluehost 转移到 cloudflare - 我已经在 2027 年初之前支付了 bluehost 上的托管费用（..我知道。当时很划算 😆） 现在问题来了 是否可以通过我的 github 存储库的主分支实现基本的 CI/CD 管道，并且通过某种奇迹可能会发现它通往我的 bluehost cpanel...？或者我是否需要寻找其他地方。 Cloudflare 页面以某种方式厚颜无耻地重定向？或者选择 Vercel？还是硬着头皮让 GCP 吞掉我？  哪些选项是显而易见但我不知道的？考虑到这些情况，您今天会如何部署和托管您的网站？  不利用 bluehost 本质上免费的托管感觉很浪费，所以如果有一种顺利的方法来结束“npm run deploy”将一只乌鸦送到 bluehost 的家门口那真是太棒了。  感谢您的任何意见！ 🫶 ​   由   提交 /u/theymayneverknow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c752l4/cicd_through_bluehost_feasible_or_am_i_barking_up/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
