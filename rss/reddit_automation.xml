@@ -4,9 +4,23 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 18 Apr 2024 09:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:20:51 GMT</lastBuildDate>
     <item>
-      <title>嘿，有人能帮我吗</title>
+      <title>我怎样才能自动化这个？</title>
+      <link>https://www.reddit.com/r/automation/comments/1c6zell/how_can_i_automate_this/</link>
+      <description><![CDATA[我有大约 3000 个 Excel 文件。它们保存在一个主文件夹的不同文件夹中。每个文件都有多个选项卡。我想编写一个程序来打开每个 Excel 文件中的这个选项卡，将文件复制并粘贴到另一个选项卡中。实现自动化的正确方法是什么？是VBA吗？    由   提交 /u/Proper6ioq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c6zell/how_can_i_automate_this/</guid>
+      <pubDate>Thu, 18 Apr 2024 09:52:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>您为客户执行的最后一次自动化操作是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1c6zddo/what_is_the_last_automation_you_did_for_your/</link>
+      <description><![CDATA[ 由   提交/u/Usama4745   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c6zddo/what_is_the_last_automation_you_did_for_your/</guid>
+      <pubDate>Thu, 18 Apr 2024 09:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，有人可以帮我吗</title>
       <link>https://www.reddit.com/r/automation/comments/1c6yfzo/hey_can_someone_help_me_in_this/</link>
       <description><![CDATA[      CYPRESS 验证码求解器 python     ;由   提交/u/ObsRoom  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c6yfzo/hey_can_someone_help_me_in_this/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>Devin AI 的制造者是否对他们的能力撒谎了？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5n0jh/did_the_makers_of_devin_ai_lie_about_their/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5n0jh/did_the_makers_of_devin_ai_lie_about_their/</guid>
       <pubDate>Tue, 16 Apr 2024 18:11:04 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>建议问题：我的研究可以自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</link>
-      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行 - 我需要寻找/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅在存在与他们参与的任何电影（表演、制作、导演等）相关的结果时才返回结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行——我需要注意/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</guid>
       <pubDate>Tue, 16 Apr 2024 15:26:22 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c4fpg5/how_to_build_a_v0dev_clone_nextjs_gpt4_copilotkit/</guid>
       <pubDate>Mon, 15 Apr 2024 06:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 填写电子表格的方法有多种。 Make.com 作为一个工具相比如何？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c49w3e/there_are_many_ways_to_fill_out_spreadsheets_with/</link>
-      <description><![CDATA[    /u/GenioCavallo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c49w3e/there_are_many_ways_to_fill_out_spreadsheets_with/</guid>
-      <pubDate>Mon, 15 Apr 2024 01:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>剧作家JS自动化文件组织？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c3l6ae/playwright_js_automation_file_organization/</link>
-      <description><![CDATA[大家好！ 我正在尝试编写剧作家自动化代码，但我不确定“最好”的是什么？组织我的代码的途径是。 本质上，我日常工作的一部分是填写一个 3 页的 Web 表单，我通常会将一堆数据复制并粘贴到每个页面上的各种字段中，我正在尝试找出如何实现自动化。我目前已将其全部设置在一个文件中，如下所示： test(&#39;name&#39;, async ({ page })=&gt; { await page.goto(&#39;form url&#39;) page-one(){ 输入数据、点击按钮等 } page-two() { 输入数据、点击按钮等 } page-one() page-two() } 每个“页面”函数都在该单个文件中定义，然后在底部执行。代码按预期工作，但我的问题是如何更好地组织它？主要要求是我需要页面函数一个接一个地运行并且在同一个浏览器实例中（如果没有运行第 1 页等，我就无法运行第 2 页。） 我有一个想法在它自己的文件中定义每个函数，然后将它们导入主文件，但是我不确定如何继续使用相同的浏览器实例。 我知道剧作家测试通常应该是隔离的，所以我想知道是否有一个完全更好的工具/方法来做到这一点，所以欢迎任何和所有的想法！   由   提交/u/mushy_orange  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c3l6ae/playwright_js_automation_file_organization/</guid>
-      <pubDate>Sun, 14 Apr 2024 04:41:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

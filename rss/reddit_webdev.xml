@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 09:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:22:36 GMT</lastBuildDate>
+    <item>
+      <title>在约 100,000 人的中型社区中，成为一家微型公司的唯一前端开发人员需要多少钱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c70t6e/how_much_to_ask_for_being_the_sole_frontdeveloper/</link>
+      <description><![CDATA[我的一个朋友今天去面试，他希望得到公平的报酬，但也明白市场越小，购买力就越小。在他的州，入门级前端开发人员的平均水平（如果入门级确实是入门级）约为 85k。这家公司有两个共同所有者，然后就是我的朋友了。由于他将承担所有的开发工作，那么公平的薪资要求是多少？   由   提交 /u/JubieFN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c70t6e/how_much_to_ask_for_being_the_sole_frontdeveloper/</guid>
+      <pubDate>Thu, 18 Apr 2024 11:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>那些正在开发的电子邮件 - 解决 Outlook 渲染问题的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c70d6k/those_developing_emails_best_ways_to_troubleshoot/</link>
+      <description><![CDATA[我的任务是开发电子邮件。支持的平台包括 Outlook。我在 Windows 10 上的 Outlook 365 中遇到渲染问题，这让我感到困惑。更糟糕的是，我们必须在 AEM 中编写这些电子邮件 有人找到在这种情况下调试电子邮件的有效方法吗？ 理想情况下，我想可以访问某种开发工具，例如 Chrome 中的特定于上述 Outlook 客户端的工具。我能找到的最接近的是 Litmus，它很有帮助，但是代码生成器视图刷新速度很慢，并且没有类似于 devtools 的“计算”选项卡，我可以在其中查看客户端的实际情况处理代码。   由   提交 /u/OkBookkeeper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c70d6k/those_developing_emails_best_ways_to_troubleshoot/</guid>
+      <pubDate>Thu, 18 Apr 2024 10:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>从某处开始——边做边学</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c709wf/starting_from_somewhere_learning_by_doing/</link>
+      <description><![CDATA[嘿r/webdev！我需要你的指导。过去 10 年里，我一直在电子商务行业工作，为自己和他人工作。 我对电子商务网络应用程序有一些想法，希望在将来的某个时候开始实施。 &lt;我是那种通过实践来学习的人。因此，我有很多实践经验，并通过实践和教程自学了很多东西。我不会说我是一名开发人员或编码员，但我只是那种会努力让事情正常运转的人。 我想创建一个我所在地区的网球运动员目录。最初这仅适用于该地区 - 大约有 3000 人，但可以扩展到全国，即 6 万人。 该目录将位于登录后面。基本上是玩家/级别/位置/联系方式的过滤列表。它将在子域上并作为应用程序提供。现在我有一个包含所有玩家及其详细信息的 csv 文件。 这对我来说是一个学习从头开始创建 Web 应用程序的机会。我考虑过在低代码构建器中进行此操作，但我想知道如果有一天它增长到包含 6 万名玩家，是否会存在限制。 那么您会从哪里开始呢？另请记住，这是一个个人项目，不会被货币化。它需要用户友好、运行成本低且用途广泛。 谢谢！   由   提交 /u/lxmw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c709wf/starting_from_somewhere_learning_by_doing/</guid>
+      <pubDate>Thu, 18 Apr 2024 10:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要深入了解构建 Web 应用程序项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6zqqh/need_insight_on_building_a_web_app_project/</link>
+      <description><![CDATA[大家好， 我目前正在参加为期 13 个月的全栈计划sprint，我现在已经是第9个月了。到目前为止，我们已经涵盖了广泛的主题，包括C、Python、Flask、Nginx、RESTful API、MySQL、HTML、CSS、JavaScript、数据结构和算法。在整个计划中，我们一直致力于与每个主题相关的各种任务，有时最终会完成诸如创建“printf”、“CMD 解释器”或“Airbnb 克隆”等项目。 然而，我发现将这些项目之间的点联系起来具有挑战性，因为它们是在不同时间进行的。 我目前的困难在于弄清楚如何将所有内容包装在一起以创建一个完整的项目从头开始的功能性网络应用程序。我不确定从哪里开始以及是从前端还是后端开始。此外，我不确定如何将前端与后端和数据库连接起来。 我正在寻找指导，看看是否有一个项目我可以遵循，采取小步骤，以便一切我了解到可以相互联系并且有意义。我知道这可能听起来很愚蠢或微不足道，但我感谢您的耐心以及您可以提供的任何帮助。 提前感谢您的回复！ :)   由   提交 /u/BKFTrader   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6zqqh/need_insight_on_building_a_web_app_project/</guid>
+      <pubDate>Thu, 18 Apr 2024 10:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何数字出版商使用 InMobi 的 CMP - 它还在为您使用 AMP 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6zpwi/any_digital_publishers_using_inmobis_cmp_is_it/</link>
+      <description><![CDATA[自从 InMobi 的“同意模式 v2”推出以来三月初的支持 我在使用 InMobi 的 CMP 时遇到了几个严重问题，特别是在 AMP 页面上：  他们的 UI 在 Windows 上的 Firefox 中根本不显示 在 iOS 和 Android 上，“接受”在 iOS 和 Android 上，按钮对点击“更多选项”没有反应 按钮的行为类似于“接受”按钮。按钮  我还没有发现任何其他人通过 Google 搜索谈论此问题，因此希望一些在 AMP 上运行 InMobi 作为 CMP 的网络开发人员能够让我知道他们的进展如何？ P.S.无法分享我的实时网站，因为作为临时措施，我不得不将我的网站迁移到 Google Funding Choices，但是不仅仅是我遇到这个问题：英国小报《镜报》仍然使用 InMobi 也遇到完全相同的问题，例如在 https://www.mirror.co.uk /sport/football/news/mancity-fans-bernardo-silva-penalty-32613282.amp   由   提交/u/eyebrows360  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6zpwi/any_digital_publishers_using_inmobis_cmp_is_it/</guid>
+      <pubDate>Thu, 18 Apr 2024 10:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于基于滚动的动画 2.0 的 Supersonic 插件：2kb，无延迟地动画 1000 个元素，使用 CSS 动画，可自定义</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6zd5r/supersonic_plugin_for_scroll_based_animation_20/</link>
+      <description><![CDATA[   /u/theillarionov  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6zd5r/supersonic_plugin_for_scroll_based_animation_20/</guid>
+      <pubDate>Thu, 18 Apr 2024 09:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名个体户/自由职业网络开发人员，您能分享一下您如何管理项目吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c6zcxp/as_a_self_employedfreelance_web_dev_can_you_share/</link>
+      <description><![CDATA[如何开始？您是否重复使用其他项目的资源？您使用模板来加快速度吗？真的，只是整个事情。如果我要为当地一家小型企业建立一个网站，我不知道如何正确管理它。还要保持正轨，不要把时间浪费在低优先级但我喜欢的事情上（视觉设计）。    由   提交/u/Apostle_1882  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c6zcxp/as_a_self_employedfreelance_web_dev_can_you_share/</guid>
+      <pubDate>Thu, 18 Apr 2024 09:49:34 GMT</pubDate>
+    </item>
     <item>
       <title>这次对 Akamai 首席技术官关于“边缘计算”的采访让我有点困惑，如果可以的话我需要 ELI5。</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6yodq/this_interview_with_akamai_cto_about_edge/</link>
@@ -36,14 +85,14 @@
     <item>
       <title>帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6xx88/help/</link>
-      <description><![CDATA[嗨，我是一名计算机科学专业的学生，​​正在完成学习项目，我的项目的一部分是一个 Web 仪表板应用程序，我选择了 vuejs前端和后端的 laravel 我做了一些 vue 的东西，我来这里是想问我应该完全学习 laravel 还是改成更容易、更快的开发方式，在此之前我知道一些 html css js php python c sql 等，我很遗憾没有之前培养技能，我浪费了很多时间（这是一个为期 4 个月的项目，但现在还剩下 2 个月的时间用于网络、移动和桌面应用程序项目），那么你们有什么建议呢？学习laravel并直接使用或expressjs（nodejs）或更简单的   由   提交/u/yokusokujanai   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是一名计算机科学专业的学生，​​正在完成一个学习项目，我的项目的一部分是一个 Web 仪表板应用程序，我选择了 vuejs前端和后端的 laravel 我做了一些 vue 的东西，我来这里是想问我应该完全学习 laravel 还是改成更容易、更快的开发方式，在此之前我知道一些 html css js php python c sql 等，我很遗憾没有之前培养技能，我浪费了很多时间（这是一个为期 4 个月的项目，但现在还剩下 2 个月的时间用于网络、移动和桌面应用程序项目），那么你们有什么建议呢？学习laravel并直接使用或expressjs（nodejs）或更简单的   由   提交/u/yokusokujanai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6xx88/help/</guid>
       <pubDate>Thu, 18 Apr 2024 08:04:33 GMT</pubDate>
     </item>
     <item>
       <title>帮助举行技术面试</title>
       <link>https://www.reddit.com/r/webdev/comments/1c6xvur/help_with_holding_a_technical_interview/</link>
-      <description><![CDATA[您好， 下周我被要求帮助参加初级候选人的技术面试。这将是我第一次从事此类工作，我会更多地帮助我的同事进行采访，而不是自己进行采访。  该职位将是一个具有后端 C# 知识的全栈职位。 我向您提出的问题是，您会问什么问题来了解他们的想法，以及他们在技术层面上是什么样的。   由   提交 /u/zerthz   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 下周我被要求帮助参加初级候选人的技术面试。这将是我第一次从事此类工作，我会更多地帮助我的同事进行采访，而不是自己进行采访。  该职位将是具有后端 C# 知识的全栈职位。 我向您提出的问题是，您会问什么问题来了解他们的想法，以及他们在技术层面上是什么样的。   由   提交 /u/zerthz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6xvur/help_with_holding_a_technical_interview/</guid>
       <pubDate>Thu, 18 Apr 2024 08:01:51 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好！  我们正在 WP Elementor 中设置我们的网站，并且我们有一些很棒的动画图形，我们热衷于将它们设置为创建一些更具活力和吸引力的部分。  https://www.revolut.com/ 循环视频很好地解释了他们的服务是什么，这与我们希望实现的目标类似。  主要区别在于 Revolut 可能是在 React + SSR 中构建的，因此它可以完美加载并且不会影响页面速度。这是我们对未来（也许一年左右）的愿望，但在那之前我们需要使用 WP Elementor。  你们有什么解决方案来实现这一点并保持合理的加载速度吗？ 自我托管或将其存储在其他地方更好吗？ 非常感谢！ ​   由   提交 /u/DefinitelyNiko   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c6xbuy/video_animations_on_website/</guid>
       <pubDate>Thu, 18 Apr 2024 07:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年趋势：Web 应用程序开发的未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6x11b/2024_trends_the_future_of_web_application/</link>
-      <description><![CDATA[       由   提交/u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6x11b/2024_trends_the_future_of_web_application/</guid>
-      <pubDate>Thu, 18 Apr 2024 07:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有社区/网站可供我寻求模式/风格架构建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6x0s4/is_there_a_communitywebsite_where_i_can_seek/</link>
-      <description><![CDATA[我需要设计一个网站的架构，用于为学生注册学分课程。每学期学生最多可注册30个学分（约9-10门课程）；如果超过此限制，则无法注册。课程可以是必修课，也可以是选修课，并且可以有一门或多门必修课程（如果未完成必修课程，学生不能注册后续课程）。 在注册开放日，学生将登录系统并查看他们可以注册的课程列表。他们将选择课程并进行注册。如果课程已满，学生将被列入等待名单，以便大学考虑开设额外的课程。如果没有开设额外课程，学生对该课程的注册将被取消。 成功注册后，将向学生发送一封确认电子邮件，包括注册详细信息和学费支付决定。&lt; /p&gt; 此外，系统将允许学生查看他们的学术信息（例如获得的学分、所修课程、课程成绩、累计 GPA）、每周时间表和其他实用程序。 一旦学生修满各专业规定的学分，有权申请毕业。如果满足所有标准，学生将获得学位并被列入大学校友名单。学位信息将在大学网站上公开提供。校友信息将被保留，用于跟踪职业发展（在学生同意的情况下）、进行调查和其他活动。 是否有一个社区可以让我寻求架构建议？ 我需要服务器-客户端连接方法的示意性设计以及选择特定样式/模式的原因，以及如何存储数据库。 例如，一个系统可能有多个服务器，其中每个服务器处理 4-12 个 API 来执行特定任务，以在有许多用户访问系统时减少拥塞。或者，某些服务器可能只允许从视图中读取数据，而更新数据则需要从另一台能够直接访问表的服务器进行访问。 信用登记系统的一个主要问题是，在登记开放日，用户大量涌入，导致系统错误或速度变慢，而平日访问系统的用户较少。我该如何解决这个问题？ 是否有一个网站可以寻求建议或查找类似系统的原理图设计和类图？我明白设计能力需要长期的训练，但这次我急需帮助。感谢您的帮助。   由   提交 /u/FreedomIsTheBestt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6x0s4/is_there_a_communitywebsite_where_i_can_seek/</guid>
-      <pubDate>Thu, 18 Apr 2024 07:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>患有闪亮物体综合症的企业家请注意，我找到你了😃（人工智能生成的商业计划）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6w8d6/attention_entrepreneurs_with_shiny_object/</link>
-      <description><![CDATA[如果你需要一点点来开始，我已经帮你了 我昨天有了这个想法，我需要一些验证，刚刚完成了基本版本的构建……这是一个深入的人工智能商业计划生成器，可以为您的下一个企业绘制蓝图。对于患有闪亮物体综合症的企业家来说，这是完美的工具。 （享受） 我更好的项目之一，绝对满意。请分享反馈。很快，您就可以获得下一个商业项目的完整报告/商业计划。包括概述/品牌/市场分析/成本/等等。 尝试一下：https: //finddevs.com.au/ai-business-plan-generator/ 目前没有任何费用或任何货币化，但如果您认为您会支付此类费用，请告诉我！  （该项目属于我更大的企业 FindDevs，它帮助人们为他们的企业找到 Web/软件开发人员，这不是一个只是试图提供背景的促销）   由   提交/u/Fruitaz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6w8d6/attention_entrepreneurs_with_shiny_object/</guid>
-      <pubDate>Thu, 18 Apr 2024 06:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理包含大量项目的投资组合网站 – ortfo</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6vzkb/manage_a_portfolio_website_with_lots_of_projects/</link>
-      <description><![CDATA[嗨！ 我很高兴能分享我一直在研究的东西：ortfo，一个制作工具的集合更轻松地管理包含大量项目的投资组合网站 目前仅存在 ortfo/db，它是“数据库”。部分。这个想法是在降价文件中描述您的项目，您可以将其与项目本身一起存储，例如my-project/.ortfo/description.md 然后，CLI 收集所有这些 Markdown 文件以及您在其中引用的任何媒体文件，并使用其中的每个项目创建一个易于理解的 JSON 文件。&lt; /p&gt; 该工具支持缩略图生成、指定标签、技术（例如，您在项目中使用 Svelte、在音乐专辑中使用 FL Studio 或在绘画中使用油画）、复杂布局（放置内容）例如并排的图片）、出色的颜色提取等等。 还有一个“导出器”插件系统可以轻松地将生成的 json 文件上传到任何地方，或与静态站点生成器集成 我将它与 go-templ 一起使用来生成我自己的投资组合网站，https://ewen.works（源代码位于 github.com/ewen-lbh/portfolio）   由   提交 /u/Chroneis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6vzkb/manage_a_portfolio_website_with_lots_of_projects/</guid>
-      <pubDate>Thu, 18 Apr 2024 05:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你可以在 Wix 中轻松完成，人们为什么还要付钱给网络开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6ukre/why_would_people_pay_a_web_developer_if_you_can/</link>
-      <description><![CDATA[菜鸟问题我知道，但是对于只需要一个网站的普通小型企业来说，Wix 还不够吗？   由   提交/u/xante46  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6ukre/why_would_people_pay_a_web_developer_if_you_can/</guid>
-      <pubDate>Thu, 18 Apr 2024 04:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我一项应该立即实施的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6sl8p/please_give_me_one_suggestion_that_should_be/</link>
-      <description><![CDATA[Webdev 社区您好， 我正在构建我的第一个插件 calcykit 它可以帮助新手博主只需在页面中复制短代码即可将他们的普通 WordPress 网站转换为基于工具的网站。它更像是一个代码片段插件，但带有预构建的片段。  我需要一个应该立即完成的建议。    由   提交/u/dipak28  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6sl8p/please_give_me_one_suggestion_that_should_be/</guid>
-      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您拥有哪些域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6renc/what_domain_names_do_you_own/</link>
-      <description><![CDATA[我只是好奇   由   提交 /u/Permatheus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6renc/what_domain_names_do_you_own/</guid>
-      <pubDate>Thu, 18 Apr 2024 01:41:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
