@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 18 Apr 2024 15:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:15:05 GMT</lastBuildDate>
     <item>
       <title>我怎样才能自动化这个？</title>
       <link>https://www.reddit.com/r/automation/comments/1c6zell/how_can_i_automate_this/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>Devin AI 的制造者是否对他们的能力撒谎了？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5n0jh/did_the_makers_of_devin_ai_lie_about_their/</link>
-      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5n0jh/did_the_makers_of_devin_ai_lie_about_their/</guid>
       <pubDate>Tue, 16 Apr 2024 18:11:04 GMT</pubDate>
     </item>
@@ -71,14 +71,14 @@
     <item>
       <title>建议问题：我的研究可以自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</link>
-      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行——我需要注意/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行 - 我需要寻找/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅在存在与他们参与的任何电影（表演、制作、导演等）相关的结果时才返回结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</guid>
       <pubDate>Tue, 16 Apr 2024 15:26:22 GMT</pubDate>
     </item>
     <item>
       <title>共享工具、Perfect.Studio、Onimator、Jolie。您曾经使用过这些自动化工具吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/</link>
-      <description><![CDATA[寻求评论     由   提交  /u/Visible-Employment43   [链接] [评论]]]></description>
+      <description><![CDATA[寻求审核   由   提交 /u/Visible-Employment43    reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/</guid>
       <pubDate>Tue, 16 Apr 2024 14:19:03 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 16 Apr 2024 13:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>PDF转Excel自动化</title>
+      <title>PDF 到 Excel 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1c5apul/pdf_to_excel_automation/</link>
       <description><![CDATA[是否可以连接make.com将pdf转成excel。但该文件因公司而异。我需要一种方法来设置无需编码即可读取 pdf 的哪些部分的参数。   由   提交/u/DrawerOk6747   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5apul/pdf_to_excel_automation/</guid>
