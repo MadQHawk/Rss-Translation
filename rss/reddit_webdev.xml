@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 21:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 00:53:42 GMT</lastBuildDate>
+    <item>
+      <title>电子商务/博客/预约网站的 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7iixa/cms_for_a_ecommerce_blog_appointment_website/</link>
+      <description><![CDATA[大家好， 我是一名平面设计师，在过去的两年里转型为前端开发人员。我认为自己还很初级，但可以很好地适应当前的框架。但对于实际的客户工作，我担心安全方面的问题，因为我对这个领域还很陌生，并且不想匆忙地完成这个过程，也不想用完全定制的网络应用程序让客户烧死我。我的客户想要创建一些平台，最终可以托管电子商务、博客和潜在的预约系统。  显而易见且简单的选择是 WordPress，它可以通过服务器 + cloudflare、备份和带有 mxroute + 安全插件的自定义邮件快速设置（已经构建了 3-4 个网站，包括一个滑雪胜地）全部使用 elementor），而且他们还想自己编辑内容，所以 elementor 似乎是正确的。但 elementor 有时感觉缓慢/有问题，所以我正在为客户寻找替代 CMS，它也可以轻松编辑他们的内容。 我应该只使用 glutenberg 吗？对客户来说也很容易吗？或者其他 cms 是否有一些即将出现的趋势，我应该研究哪些会更快/更好优化？就像纯代码和具有安全性并支持客户端编辑的 CMS 之间的中间地带一样，这会更加优化吗？  不确定我是否清楚。希望如此！谢谢！    由   提交/u/TonyBikini  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7iixa/cms_for_a_ecommerce_blog_appointment_website/</guid>
+      <pubDate>Thu, 18 Apr 2024 23:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何人工智能服务可以加载整个项目并理解其上下文？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7ihuh/is_there_any_ai_service_that_can_load_the_whole/</link>
+      <description><![CDATA[诸如聊天 gpt 之类的 Ai 非常适合帮助处理小的孤立代码片段，但是您提供的信息越多，它就会开始产生幻觉并使其变得越多说废话。据我了解，它不具备“心理能力”。加载更多代码并在该上下文中工作。 是否有一些人工智能服务可以让我做到这一点？    ;由   提交 /u/Typical_Bear_264   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7ihuh/is_there_any_ai_service_that_can_load_the_whole/</guid>
+      <pubDate>Thu, 18 Apr 2024 23:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将推荐系统集成到应用程序中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7ih92/how_to_integrate_a_recommendation_system_to_an/</link>
+      <description><![CDATA[一般来说，我知道您可以使用简单的 API（例如 ChatGPT）利用任何 ML 模型，但对于诸如自定义推荐引擎之类的东西，则需要访问平台/应用程序上的每个帖子以及所有帖子的相关数据，实现此目的的正确系统设计是什么？ 通过简单的前端和后端设置，人们可以在其中发布、点赞和发布内容评论事物，数据流将如何工作以及将使用哪些技术/设计？澄清一下，我不是在问如何创建一个模型来准确预测某人会喜欢的帖子，而是在问如何将这样的模型集成到发帖平台中。   由   提交/u/AdQuirky3186   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7ih92/how_to_integrate_a_recommendation_system_to_an/</guid>
+      <pubDate>Thu, 18 Apr 2024 23:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求网站大修</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7igoy/looking_for_a_website_overhaul/</link>
+      <description><![CDATA[我拥有一家挡风玻璃维修公司，我们正在考虑从头开始构建一个新网站。去年我们使用了在 bark.com 上找到的人来做我们的网站，但他们没有兑现他们的承诺。想知道是否有某个地方或网站可以让我们找到更值得信赖的人。听说过一些关于人们使用树皮的坏故事。 （我可能在错误的子目录中 - 如果是这样，我很乐意指出正确的方向）   由   提交/u/jjvolk16  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7igoy/looking_for_a_website_overhaul/</guid>
+      <pubDate>Thu, 18 Apr 2024 23:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用什么技术来创建诸如“www.sweetpunk.com”之类的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7hvfg/what_technologies_are_used_to_create_a_website/</link>
+      <description><![CDATA[我想知道，这样我就可以知道要学什么  &amp; #32；由   提交/u/jiajunsun998   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7hvfg/what_technologies_are_used_to_create_a_website/</guid>
+      <pubDate>Thu, 18 Apr 2024 23:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用智能过滤器创建了一个人工智能驱动的工作板来帮助您找到梦想的工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7gru7/i_created_an_aipowered_job_board_using_smart/</link>
+      <description><![CDATA[大家好，我很高兴能分享一个我已经工作了大约一年的项目。我开发了一个工作委员会，旨在帮助求职者找到他们梦想的工作，并帮助招聘人员找到完美的候选人。它使用人工智能驱动的智能匹配和过滤来改进搜索过程。请花点时间查看一下，我很想听听您的反馈！ https://skillexchange.xyz/   由   提交/u/lolaks181203  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7gru7/i_created_an_aipowered_job_board_using_smart/</guid>
+      <pubDate>Thu, 18 Apr 2024 22:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>菜鸟需要帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7fr7p/noob_needing_help/</link>
+      <description><![CDATA[大家好！我正在创建一个 wepapp (c#)，它与另一个应用程序的 api 交互以修改和显示数据库。  当我想要更新字段时，我使用 api 中名为 SavePartial 的方法。当我尝试更新常规属性时一切正常，但我有我们所说的“用户字段”这是一个类本身包含用户名、号码和公司 ID。帮助我的人说我只传递用户名（这确实是我想要更新的唯一内容），然后 SavePartial 方法读取其他两个属性但什么也没得到，所以我收到一条错误消息，这令人困惑我需要提供至少一项（？？？） 他解释了我应该做什么，但老实说我没有完全明白，我不想再问他有关的事情，因为我已经做过很多次了。我想自己做事，但说实话，有时这真的很难。  无论如何，你们可能不明白这个，因为我解释得像狗屎，哈哈，但是，是的，如果有人知道任何关于这个东西的视频或类似的东西，我需要帮助来做什么。  &gt;   由   提交/u/rollingcircus123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7fr7p/noob_needing_help/</guid>
+      <pubDate>Thu, 18 Apr 2024 21:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮忙用简单的骨头制作大的符号网格吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7fjg3/help_with_making_large_grid_of_symbols_from_bare/</link>
+      <description><![CDATA[最近我一直在研究制作 ASCII 艺术和其他与字符网格相关的界面以获取乐趣。我烦人地使用纯 html css 和 js，并一直在尝试找到一种合适的方法来创建约 1000x1000 方形字符的网格以立即显示，并使每个字符可由 JS 动态编辑。 到目前为止，我的想法是：  将 1M 个元素加载到 dom，这已经杀死了我的浏览器窗口， 拥有高分辨率画布，并且不让人们缩放得太近看看像素，我还没有测试过这个，但它似乎可能很有成效？  我确信有一种好方法，我没有通过谷歌搜索找到让字符符合一个设置的网格，我们可以在其中更改坐标或根据需要使用它。 感谢您的帮助，是的，我知道我应该学习一个框架......我只是一个顽固的爱好者！ p&gt;   由   提交 /u/BionicSatan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7fjg3/help_with_making_large_grid_of_symbols_from_bare/</guid>
+      <pubDate>Thu, 18 Apr 2024 21:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>3D Spinner 的实现</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7f1ra/implementation_of_3d_spinner/</link>
+      <description><![CDATA[      你好👋 我最近一直在开发一个 3D 旋转器来选择列表中的随机视频游戏。然而，当旋转器变得非常快时，它会有点“收缩”。高度，如下面的 gif 所示。使用 Firefox 时情况会变得更糟... 注意：任何可见的“性能”都会受到影响。问题仅在录音中可见，而在网站本身中不可见。 Chromium &lt; p&gt;Firefox 我目前正在使用 JS (react) 结合 3d CSS 创建它动画。我不知道如何解决这个问题，正在考虑重写它。 你将如何实现这样一个旋转器，是否有比 JS + 3d CSS 动画更好的方法，或者我只是使用错误？  ​ 关于我当前的实现： 代码可以在 这里，但我不太确定是否值得研究。 每个段的位置都是受控制的通过使用状态在外部：  // 第一次渲染   // 下一个渲染 &gt; // 下一次渲染... 每个段的位置由以下 CSS 属性定义： position:absolute;顶部：50%； /* JS 根据速度改变持续时间 */ Transition: 10ms 线性; /* Y、Z 和旋转由 JS 根据“当前”位置进行更改指数。 * 例如，这是正面的。 **/  变换：透视（1000px）translateY（-2.25em）translateZ（0em）rotateX（0deg）; ​   由   提交 /u/SpinatMixxer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7f1ra/implementation_of_3d_spinner/</guid>
+      <pubDate>Thu, 18 Apr 2024 21:22:46 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道为什么嵌入 iFrame 会添加额外的元视口吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7ea23/anyone_know_why_embedding_an_iframe_adds_extra/</link>
@@ -27,7 +90,7 @@
       <pubDate>Thu, 18 Apr 2024 19:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>网络开发人员 - 在线零售</title>
+      <title>Web 开发人员 - 网上零售</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7c9x5/web_developer_online_retail/</link>
       <description><![CDATA[我在自动化领域工作。 我不断购买自动化产品，并发现了一些建立在线零售店的绝佳机会。问题是我不做网络开发。但我已经与设备提供商建立了一些良好的关系，并且了解市场的需求。 我正在寻找可以开发在线商店的合作伙伴，同时我专注于其余的业务业务。 哪里是找到上述人员的最佳地点？这将是一笔血汗股权交易...   由   提交/u/Nicosee3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7c9x5/web_developer_online_retail/</guid>
@@ -46,69 +109,6 @@
       <description><![CDATA[我什至不确定它到底叫什么。内容管理系统？我想要像 Django 的管理站点这样的东西来允许为我的单人站点添加/编辑/删除数据功能。这意味着当我可以开发用户功能时，我不想花费大量时间来开发管理功能。 我已经提到过 Django，但我既没有使用 Django，也没有使用 python。与语言无关且独立的东西将是理想的。这不是我第一次遇到这个问题。我很明智，这次没有尝试写它。   由   提交 /u/livingdeadghost   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7be1f/fastest_way_to_attach_a_web_data_admin_tool/</guid>
       <pubDate>Thu, 18 Apr 2024 18:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许用户填写几个表单字段的最佳方法，而不是提交显示一个单击后的按钮，它会在模式中显示表单的其余部分，并在上一步中预先填充前几个字段？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7b40m/best_way_to_allow_user_to_fill_out_a_few_form/</link>
-      <description><![CDATA[基本上我想在英雄部分放置一个表单，但我不希望英雄部分太大，~30rem，但是表单是可变的并且可以很长。我的想法是也许允许表单显示前几个字段，例如 4-6，并且没有提交按钮，而是有一个“继续”按钮。按钮，而不是单击时打开一个显示完整表单的模式。   由   提交/u/papichulo916   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7b40m/best_way_to_allow_user_to_fill_out_a_few_form/</guid>
-      <pubDate>Thu, 18 Apr 2024 18:46:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我工作中的某人希望网站在 ColdFusion 和 .Net 中运行且看起来 100% 几乎相同。这是一个现实的期望吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7ab7c/someone_at_my_work_wants_a_website_to_function/</link>
-      <description><![CDATA[总之，工作中有一项任务是大约 20 年前使用 ColdFusion 制作一个网站，并且有一项任务是在 .  基本上，使用该网站的主要人员不想使用.Net版本，因为她不喜欢改变，她说她希望.Net版本是100%在各方面都与 ColdFusion 版本相同。 因此，自提出请求以来已经过去了大约 3 年，人们基本上忽略了这项任务。因为，人们似乎只会接受 100% 相同的网站。 是否有可能使 .Net 网站与 ColdFusion 网站 100% 相同？该网站也有点大。另外，这应该很容易还是听起来很耗时？ 我很确定当该人退休时将会使用新的 .Net 版本。因为，它具有所有相同的功能。 我在 Web 开发方面没有足够的经验，无法知道这是否是一个现实的要求/期望。 您的建议是什么这个问题？创建一个几乎 95% 相同的网站并等待该人在大约一年后退休？或者做点别的什么？   由   提交/u/Ben5544477  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7ab7c/someone_at_my_work_wants_a_website_to_function/</guid>
-      <pubDate>Thu, 18 Apr 2024 18:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试开发一个与 Idealista.com 类似的网站（类似于 zillow），但功能较少。我应该寻找哪种类型的开发商？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c79q7n/i_am_trying_to_develop_a_similar_site_to/</link>
-      <description><![CDATA[任何见解表示赞赏   由   提交/u/Hohoho7878   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c79q7n/i_am_trying_to_develop_a_similar_site_to/</guid>
-      <pubDate>Thu, 18 Apr 2024 17:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在 webdev 中做过的最天才的黑客是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/</link>
-      <description><![CDATA[这是我的，发生在 2003/04 左右的某个时候。 在我学习了 PHP、MySQL 和 HTML 之后回来之后，我非常想写自己的聊天记录。当时IE在浏览器中占主导地位。 当时我还不知道socket，因为我刚学PHP，知道如何获取和发送数据。所以我的“聊天”是由每秒刷新一次以提取新数据的框架和一个带有输入字段以发布消息的框架构建的。 但是，当时 IE 有两种刷新页面的方法，一种是 HTML 元数据-tag 或frame-reload 通过 JS，都有各自的问题。刷新框架时，元标签会发出点击声，JS框架重新加载会闪烁页面。当时还没有 AJAX。 所以在某个时候，我有了一个天才的想法，我可以刷新一个小的 1x1 px 框架（没有声音），然后将其内容附加到另一个框架哪里需要数据，它就完美地工作。 tldr;是的，我基本上在不知情的情况下发明了 AJAX。   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/</guid>
-      <pubDate>Thu, 18 Apr 2024 17:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的应用程序制作网站（展示我的应用程序）的最经济有效的方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c78f1y/the_most_costeffective_way_to_make_a_website_for/</link>
-      <description><![CDATA[大家好， 我想创建一个类似的网站(对于这个）我制作的应用程序。想知道最好的方法是什么。 -我希望将成本保持在最低限度，如果可能的话为 0。 感谢您的帮助！ &lt; /div&gt;  由   提交/u/-i3arty-  /u/-i3arty-  reddit.com/r/webdev/comments/1c78f1y/the_most_cost effective_way_to_make_a_website_for/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c78f1y/the_most_costeffective_way_to_make_a_website_for/</guid>
-      <pubDate>Thu, 18 Apr 2024 16:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在哪里可以为我的网站聘请最好的 UI 设计师？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c78bnj/where_can_i_hire_best_ui_designers_for_my_website/</link>
-      <description><![CDATA[哪些自由职业网站最适合招聘 UI 设计师？    由   提交/u/pkji89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c78bnj/where_can_i_hire_best_ui_designers_for_my_website/</guid>
-      <pubDate>Thu, 18 Apr 2024 16:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 中可能破坏宽高比的因素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c76w2v/things_that_can_break_aspectratio_in_css/</link>
-      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c76w2v/things_that_can_break_aspectratio_in_css/</guid>
-      <pubDate>Thu, 18 Apr 2024 15:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>克服电子邮件服务注册障碍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c768kt/overcoming_email_service_signup_barriers/</link>
-      <description><![CDATA[我在尝试生成一组独特的电子邮件时遇到了注册限制。我的业务模型建立在代表每个客户为我为他们承担的每项任务创建一个新的唯一电子邮件地址的基础上，以维护完整性和安全性。最初，我没有预见到任何障碍，例如 Gmail 似乎并不禁止代表他人创建多个帐户。但实际上，他们似乎试图通过在创建新电子邮件时要求提供唯一的电话号码来限制您。 我考虑过 Google Workspaces 等付费替代方案，但大多数付费服务都遇到过账单问题每个电子邮件帐户，这对于我的业务案例来说是不切实际的。 任何具有电子邮件系统管理或设置知识的人都可以阐明这个问题吗？我们将非常感谢您的建议！   由   提交/u/Naotogg2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c768kt/overcoming_email_service_signup_barriers/</guid>
-      <pubDate>Thu, 18 Apr 2024 15:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intl.Segmenter 对象现在是 Baseline 的一部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c75vyc/the_intlsegmenter_object_is_now_part_of_baseline/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c75vyc/the_intlsegmenter_object_is_now_part_of_baseline/</guid>
-      <pubDate>Thu, 18 Apr 2024 15:16:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
