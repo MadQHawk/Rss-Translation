@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 19 Apr 2024 18:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:11:05 GMT</lastBuildDate>
+    <item>
+      <title>你自动化什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1c85fcg/what_do_you_automate/</link>
+      <description><![CDATA[刚来，非常好奇人们会自动化什么？是否有任何您自动化或希望自动化的特定工作流程或用例？   由   提交 /u/ljhskyso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c85fcg/what_do_you_automate/</guid>
+      <pubDate>Fri, 19 Apr 2024 19:21:39 GMT</pubDate>
+    </item>
     <item>
       <title>自动化桥梁分析软件（土木工程）</title>
       <link>https://www.reddit.com/r/automation/comments/1c82w3f/automating_bridge_analysis_software_civil/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>建议问题：我的研究可以自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</link>
-      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行 - 我需要寻找/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行——我需要注意/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</guid>
       <pubDate>Tue, 16 Apr 2024 15:26:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨， 我想分享一些关于如何在使用 Kubernetes 入门时处理复杂性和规模的想法和示例实现GitOps 和 GPTOps 查看https://youtu.be/7yR_AEE0TUM    由   提交 /u/Puzzleheaded-Gas692    reddit.com/r/automation/comments/1c5frq9/aienabled_environment_as_code_gitops_gptops/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5frq9/aienabled_environment_as_code_gitops_gptops/</guid>
       <pubDate>Tue, 16 Apr 2024 13:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 到 Excel 自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1c5apul/pdf_to_excel_automation/</link>
-      <description><![CDATA[是否可以连接make.com将pdf转成excel。但该文件因公司而异。我需要一种方法来设置无需编码即可读取 pdf 的哪些部分的参数。   由   提交/u/DrawerOk6747   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c5apul/pdf_to_excel_automation/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:09:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

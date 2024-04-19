@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 19 Apr 2024 18:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:11:59 GMT</lastBuildDate>
+    <item>
+      <title>🎯 设置用 Typescript 编写的 Nodejs 应用程序的更简单方法是什么？需要 5 个步骤</title>
+      <link>https://www.reddit.com/r/programming/comments/1c86y20/what_is_the_easier_way_to_setup_nodejs_app/</link>
+      <description><![CDATA[ 由   提交/u/jsifalda  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c86y20/what_is_the_easier_way_to_setup_nodejs_app/</guid>
+      <pubDate>Fri, 19 Apr 2024 20:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 发布人工智能免费课程</title>
+      <link>https://www.reddit.com/r/programming/comments/1c843y2/nvidia_releases_free_courses_on_ai/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c843y2/nvidia_releases_free_courses_on_ai/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:27:44 GMT</pubDate>
+    </item>
     <item>
       <title>利用人工智能生成微调数据</title>
       <link>https://www.reddit.com/r/programming/comments/1c82r3l/generating_finetuned_data_with_ai/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/piotr_minkowski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c7sts5/useful_unknown_java_features_piotrs_techblog/</guid>
       <pubDate>Fri, 19 Apr 2024 09:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Picoceph – 基于 Ceph 的单容器 S3 服务器</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7sc3b/picoceph_single_container_ceph_based_s3_server/</link>
-      <description><![CDATA[ 由   提交/u/dpeckett  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7sc3b/picoceph_single_container_ceph_based_s3_server/</guid>
-      <pubDate>Fri, 19 Apr 2024 09:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAD Studio 12.1 Athens 补丁 1 可用</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7sahq/rad_studio_121_athens_patch_1_available/</link>
-      <description><![CDATA[ 由   提交/u/yimmasabi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7sahq/rad_studio_121_athens_patch_1_available/</guid>
-      <pubDate>Fri, 19 Apr 2024 09:07:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
