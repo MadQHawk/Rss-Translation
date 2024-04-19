@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 19 Apr 2024 09:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:23:20 GMT</lastBuildDate>
     <item>
-      <title>基础扩展</title>
-      <link>https://www.opensourceagenda.com/projects/foundationextension</link>
-      <description><![CDATA[Foundation/Cocoa/UIKit 扩展套件。参考文档：]]></description>
-      <guid>https://www.opensourceagenda.com/projects/foundationextension</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:32 GMT</pubDate>
+      <title>福格普特</title>
+      <link>https://www.opensourceagenda.com/projects/fgpt</link>
+      <description><![CDATA[适用于 OpenAI GPT-3.5-turbo 的免费反向代理和 CLI 工具。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fgpt</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>击键</title>
-      <link>https://www.opensourceagenda.com/projects/keystrokes</link>
-      <description><![CDATA[按键作为一个易于使用的库，用于将功能绑定到按键和组合键。它可以与任何 TypeScript 或 JavaScript 项目一起使用，甚至在非浏览器环境中也是如此。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/keystrokes</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:32 GMT</pubDate>
+      <title>苏诺API</title>
+      <link>https://www.opensourceagenda.com/projects/sunoapi</link>
+      <description><![CDATA[Suno API 非官方Suno AI客户端，目前支持生成音乐、获取音乐信息等功能。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sunoapi</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>React Native 操作快捷键</title>
-      <link>https://www.opensourceagenda.com/projects/react-native-actions-shortcuts</link>
-      <description><![CDATA[适用于react-native的iOS主屏幕快速操作和Android应用程序快捷方式]]></description>
-      <guid>https://www.opensourceagenda.com/projects/react-native-actions-shortcuts</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:32 GMT</pubDate>
+      <title>阿维纳什201199 项目</title>
+      <link>https://www.opensourceagenda.com/projects/avinash201199-projects</link>
+      <description><![CDATA[带有源代码链接的项目集合。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/avinash201199-projects</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>健康码网址方案</title>
-      <link>https://www.opensourceagenda.com/projects/health-code-url-scheme</link>
-      <description><![CDATA[微信/支付宝健康码小程序 url scheme收集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/health-code-url-scheme</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:31 GMT</pubDate>
+      <title>Cloudflare D1 Prisma Honox 入门版</title>
+      <link>https://www.opensourceagenda.com/projects/cloudflare-d1-prisma-honox-starter</link>
+      <description><![CDATA[cloudflare-d1-prisma-honox-starter]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cloudflare-d1-prisma-honox-starter</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>总和</title>
-      <link>https://www.opensourceagenda.com/projects/sum4all</link>
-      <description><![CDATA[网页、视频、图片大模型总结]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sum4all</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:31 GMT</pubDate>
+      <title>图拉</title>
+      <link>https://www.opensourceagenda.com/projects/tula</link>
+      <description><![CDATA[图灵语言]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tula</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>热键管理器</title>
-      <link>https://www.opensourceagenda.com/projects/hotkey-manager</link>
-      <description><![CDATA[此插件允许 Flutter 桌面应用程序定义系统/应用内热键（即快捷方式）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hotkey-manager</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:31 GMT</pubDate>
+      <title>无浮点高斯飞溅</title>
+      <link>https://www.opensourceagenda.com/projects/floater-free-gaussian-splatting</link>
+      <description><![CDATA[absGS 的非官方实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/floater-free-gaussian-splatting</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>Latex Gboard 词典</title>
-      <link>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</link>
-      <description><![CDATA[⌨ 使用受启发的键盘快捷键在 Android 手机上更轻松地输入数学符号的可导入字典通过乳胶]]></description>
-      <guid>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:30 GMT</pubDate>
+      <title>Cohere2openai</title>
+      <link>https://www.opensourceagenda.com/projects/cohere2openai</link>
+      <description><![CDATA[将 Cohere API 转换为 OpenAI 兼容 API。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cohere2openai</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:17 GMT</pubDate>
     </item>
     <item>
-      <title>取消制表符</title>
-      <link>https://www.opensourceagenda.com/projects/untab</link>
-      <description><![CDATA[🔍 提高浏览器工作流程的生产力工具！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/untab</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:30 GMT</pubDate>
+      <title>Gcloud精简版</title>
+      <link>https://www.opensourceagenda.com/projects/gcloud-lite</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gcloud-lite</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:16 GMT</pubDate>
     </item>
     <item>
-      <title>派珀兰</title>
-      <link>https://www.opensourceagenda.com/projects/pyprland</link>
-      <description><![CDATA[Hyprland 扩展变得简单 [maintainer=@fdev31]]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pyprland</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:30 GMT</pubDate>
+      <title>Wangdoc Linux 教程</title>
+      <link>https://www.opensourceagenda.com/projects/wangdoc-linux-tutorial</link>
+      <description><![CDATA[教程正在进行中]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wangdoc-linux-tutorial</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>蒂斯丰 Easydict</title>
-      <link>https://www.opensourceagenda.com/projects/tisfeng-easydict</link>
-      <description><![CDATA[一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tisfeng-easydict</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:29 GMT</pubDate>
+      <title>甲基丙烯酸甲酯</title>
+      <link>https://www.opensourceagenda.com/projects/mmina</link>
+      <description><![CDATA[论文“MMInA：Benchmarking Multihop Multimodal Internet Agents”的正式实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mmina</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>Leecobaby 快捷键</title>
-      <link>https://www.opensourceagenda.com/projects/leecobaby-shortcuts</link>
-      <description><![CDATA[📱 自动养猫|自动淘金币|炸年兽|芭芭农场|东东农场|抢购助手|快捷指令]]></description>
-      <guid>https://www.opensourceagenda.com/projects/leecobaby-shortcuts</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:29 GMT</pubDate>
+      <title>SR资产</title>
+      <link>https://www.opensourceagenda.com/projects/sr-assets</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sr-assets</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>Vim 按键绑定无处不在 终极列表</title>
-      <link>https://www.opensourceagenda.com/projects/vim-keybindings-everywhere-the-ultimate-list</link>
-      <description><![CDATA[原生支持类似 Vim 的键绑定的程序的最终列表，或者如何添加扩展。一个合作项目。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vim-keybindings-everywhere-the-ultimate-list</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:29 GMT</pubDate>
+      <title>人工智能博客</title>
+      <link>https://www.opensourceagenda.com/projects/aipoweredblog</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aipoweredblog</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>CRD 目录</title>
-      <link>https://www.opensourceagenda.com/projects/crds-catalog</link>
-      <description><![CDATA[JSON 架构格式的流行 Kubernetes CRD（自定义资源定义）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/crds-catalog</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:28 GMT</pubDate>
+      <title>佩普莱西卡</title>
+      <link>https://www.opensourceagenda.com/projects/perplexica</link>
+      <description><![CDATA[Perplexica 是一个人工智能驱动的搜索引擎。它是 Perplexity AI 的开源替代品]]></description>
+      <guid>https://www.opensourceagenda.com/projects/perplexica</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>Gen Crd Api 参考文档</title>
-      <link>https://www.opensourceagenda.com/projects/gen-crd-api-reference-docs</link>
-      <description><![CDATA[Kubernetes CRD 的 API 参考文档生成器（由 Knative、Kubeflow 和其他）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gen-crd-api-reference-docs</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:28 GMT</pubDate>
+      <title>马雷波</title>
+      <link>https://www.opensourceagenda.com/projects/marepo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/marepo</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:13 GMT</pubDate>
     </item>
     <item>
-      <title>案件</title>
-      <link>https://www.opensourceagenda.com/projects/caz</link>
-      <description><![CDATA[一个简单而强大的基于模板的脚手架工具。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/caz</guid>
-      <pubDate>Fri, 19 Apr 2024 09:15:27 GMT</pubDate>
+      <title>彻温脚本</title>
+      <link>https://www.opensourceagenda.com/projects/cherwin-scripts</link>
+      <description><![CDATA[永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cherwin-scripts</guid>
+      <pubDate>Fri, 19 Apr 2024 12:23:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

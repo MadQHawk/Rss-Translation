@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 19 Apr 2024 09:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:22:20 GMT</lastBuildDate>
+    <item>
+      <title>我在代码审查过程中忽略的 3 件重要事情</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7v8h4/3_important_things_i_overlooked_during_code/</link>
+      <description><![CDATA[ 由   提交/u/piglei  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7v8h4/3_important_things_i_overlooked_during_code/</guid>
+      <pubDate>Fri, 19 Apr 2024 12:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSO 得到升级：用于跨域身份管理的 OpenID Connect 和 SCIM</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7v6cg/sso_got_an_upgrade_openid_connect_scim_for/</link>
+      <description><![CDATA[ 由   提交/u/jns111  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7v6cg/sso_got_an_upgrade_openid_connect_scim_for/</guid>
+      <pubDate>Fri, 19 Apr 2024 12:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用开源工具将 LLM 部署到 AWS</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7uxfq/deploying_an_llm_to_aws_using_open_source_tools/</link>
+      <description><![CDATA[ 由   提交/u/utpalnadiger  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7uxfq/deploying_an_llm_to_aws_using_open_source_tools/</guid>
+      <pubDate>Fri, 19 Apr 2024 11:51:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您从事 IT 工作而不玩电脑游戏，我需要您帮助我解决问题。我以前在这里发过帖子，你帮了我很多（超过 130 条回复），但我仍在寻找不玩游戏的人来进行我的研究。我真的需要你的帮助。非常感谢您抽出时间！</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7udz3/if_you_work_in_it_and_not_playing_computer_games/</link>
+      <description><![CDATA[ 由   提交/u/Business-Ad-3299   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7udz3/if_you_work_in_it_and_not_playing_computer_games/</guid>
+      <pubDate>Fri, 19 Apr 2024 11:21:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSV/公式注入 — Web 应用程序开发人员的安全</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7u3yx/csvformula_injection_security_for_web_application/</link>
+      <description><![CDATA[ 由   提交 /u/congolomera   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7u3yx/csvformula_injection_security_for_web_application/</guid>
+      <pubDate>Fri, 19 Apr 2024 11:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jailer 16.1 数据库工具已发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7tpdy/jailer_161_database_tool_has_been_released/</link>
+      <description><![CDATA[ 由   提交 /u/Plane-Discussion    com/Wisser/Jailer&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7tpdy/jailer_161_database_tool_has_been_released/</guid>
+      <pubDate>Fri, 19 Apr 2024 10:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>铁路路线——未使用</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7t9by/rails_routes_unused/</link>
+      <description><![CDATA[ 由   提交/u/mehdifarsi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7t9by/rails_routes_unused/</guid>
+      <pubDate>Fri, 19 Apr 2024 10:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有用和未知的 Java 功能 - Piotr 的技术博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7sts5/useful_unknown_java_features_piotrs_techblog/</link>
+      <description><![CDATA[ 由   提交/u/piotr_minkowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7sts5/useful_unknown_java_features_piotrs_techblog/</guid>
+      <pubDate>Fri, 19 Apr 2024 09:44:49 GMT</pubDate>
+    </item>
     <item>
       <title>Picoceph – 基于 Ceph 的单容器 S3 服务器</title>
       <link>https://www.reddit.com/r/programming/comments/1c7sc3b/picoceph_single_container_ceph_based_s3_server/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c7ram8/my_25year_engineering_career_retrospective/</guid>
       <pubDate>Fri, 19 Apr 2024 07:57:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅在浏览器“代码播放”功能中制作了 Html5。 [来自 IndieHackers 的 CrossLink]</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7r1di/made_a_html5_only_in_browser_code_play_feature/</link>
-      <description><![CDATA[ 由   提交 /u/love2Bbreath3Dlife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7r1di/made_a_html5_only_in_browser_code_play_feature/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:39:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么阻止人们直接在 PaaS 平台上开发 AI 应用程序？</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7qrmp/what_stops_people_from_making_ai_apps_on_paas/</link>
-      <description><![CDATA[如果您熟悉 PaaS 平台的战场，无论是 AWS、Azure 还是 Google 云。我们知道人工智能应用程序是下一个重大事件。我们知道，很多数据和模型可以轻松托管在云平台上，并与多容器功能和 API 网关连接轻松链接，因为现在我们拥有多服务架构。为什么我们没有看到人工智能应用程序构建在准备部署的 PaaS 云平台上。一定有一个激增，但由于某种原因我们错过了。我想知道为什么不接盘？有什么想法吗？    由   提交/u/bambicute_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7qrmp/what_stops_people_from_making_ai_apps_on_paas/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建 TODO</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7qod6/how_to_create_a_todo_with_tailwind_css_and/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建a-todo-with-alpine-js-and-tailwind-css/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7qod6/how_to_create_a_todo_with_tailwind_css_and/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughtworks 的四月技术雷达</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7qe3p/april_technology_radar_by_thoughtworks/</link>
-      <description><![CDATA[过度热情的 LLM 使用最终被搁置，但他们却将很多 LLM 相关的东西投入试用并评估哪些有趣    由   提交 /u/impact_dryer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7qe3p/april_technology_radar_by_thoughtworks/</guid>
-      <pubDate>Fri, 19 Apr 2024 06:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费且无限制的使用 selenium 的 11labs（由我制作）。稍后谢谢我</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7pmnb/free_and_unlimited_elevenlabs_using_selenium_made/</link>
-      <description><![CDATA[ 由   提交/u/AbhishekMeena_BS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7pmnb/free_and_unlimited_elevenlabs_using_selenium_made/</guid>
-      <pubDate>Fri, 19 Apr 2024 06:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自🇲🇽的你好</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7p6zn/hola_desde/</link>
-      <description><![CDATA[我需要你把最常用的程序员短语，我想把它们以极简风格放在T恤上，作为一种创业方式。我接受有关此业务的建议，我计划在我的大学出售它们   由   提交/u/No-Weakness-7265   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7p6zn/hola_desde/</guid>
-      <pubDate>Fri, 19 Apr 2024 05:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习 Git：实践和视觉指南 • Anna Skoulikari 和 Helen Scott • GOTO 2024</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7ot0w/learning_git_a_handson_visual_guide_anna/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7ot0w/learning_git_a_handson_visual_guide_anna/</guid>
-      <pubDate>Fri, 19 Apr 2024 05:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 到 Azure 迁移：简化云迁移（挑战、解决方案、清单、成本优化）</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7ojgv/aws_to_azure_migration_simplifying_your_cloud/</link>
-      <description><![CDATA[ 由   提交/u/AzilenTech  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7ojgv/aws_to_azure_migration_simplifying_your_cloud/</guid>
-      <pubDate>Fri, 19 Apr 2024 04:58:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
