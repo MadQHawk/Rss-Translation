@@ -4,20 +4,34 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻 - 世界</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:14:56 GMT</lastBuildDate>
+    <item>
+      <title>美国官员称以色列导弹袭击了伊朗</title>
+      <link>https://www.bbc.co.uk/news/live/world-middle-east-68830092</link>
+      <description><![CDATA[据报道伊斯法罕附近发生爆炸，两名美国官员向 BBC 美国合作伙伴哥伦比亚广播公司新闻证实了袭击事件。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/world-middle-east-68830092</guid>
+      <pubDate>Fri, 19 Apr 2024 02:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码打击后 Netflix 利润飙升</title>
+      <link>https://www.bbc.co.uk/news/business-68850766</link>
+      <description><![CDATA[这家流媒体巨头表示，今年前三个月新增了 930 万订阅用户。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68850766</guid>
+      <pubDate>Fri, 19 Apr 2024 01:53:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界上最大规模的选举随着印度投票拉开帷幕</title>
+      <link>https://www.bbc.co.uk/news/live/world-asia-india-68823907</link>
+      <description><![CDATA[数百万印度人正在排队参加七阶段选举的第一阶段投票。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/world-asia-india-68823907</guid>
+      <pubDate>Fri, 19 Apr 2024 01:18:02 GMT</pubDate>
+    </item>
     <item>
       <title>美国再次警告以色列不要发起拉法攻势</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68851986</link>
       <description><![CDATA[白宫表示，本杰明·内塔尼亚胡的代表已同意“考虑”美国的担忧。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68851986</guid>
       <pubDate>Fri, 19 Apr 2024 00:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国利率制定者表示“不急于”降息</title>
-      <link>https://www.bbc.co.uk/news/business-68849498</link>
-      <description><![CDATA[美国央行重要成员拉斐尔·博斯蒂克 (Raphael Bostic) 告诉 BBC，利率可能只会在“2024 年底”放松。]]></description>
-      <guid>https://www.bbc.co.uk/news/business-68849498</guid>
-      <pubDate>Fri, 19 Apr 2024 00:35:31 GMT</pubDate>
     </item>
     <item>
       <title>强大的格陵兰女性项目荣获摄影奖</title>
@@ -27,7 +41,7 @@
       <pubDate>Thu, 18 Apr 2024 22:52:34 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普刑事案件由 12 名陪审团组成</title>
+      <title>特朗普刑事案件由 12 人组成的陪审团组成</title>
       <link>https://www.bbc.co.uk/news/world-us-canada-68851832</link>
       <description><![CDATA[这是有史以来第一次以美国前总统为被告的审判，可能会在周一进行开庭辩论。]]></description>
       <guid>https://www.bbc.co.uk/news/world-us-canada-68851832</guid>
@@ -48,13 +62,6 @@
       <pubDate>Thu, 18 Apr 2024 20:51:35 GMT</pubDate>
     </item>
     <item>
-      <title>因涉嫌俄罗斯密谋刺杀泽伦斯基而被捕</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68848317</link>
-      <description><![CDATA[检察官称，该男子的任务是获取乌克兰领导人使用的机场的信息。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68848317</guid>
-      <pubDate>Thu, 18 Apr 2024 20:29:58 GMT</pubDate>
-    </item>
-    <item>
       <title>肯尼亚军事首长在直升机失事中丧生</title>
       <link>https://www.bbc.co.uk/news/world-africa-68846778</link>
       <description><![CDATA[一架载有高级军官的军用直升机坠毁并起火，造成十人死亡。]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[为不断增长的城市人口抽取地下水导致中国一半的大城市下沉。]]></description>
       <guid>https://www.bbc.co.uk/news/science-environment-68844731</guid>
       <pubDate>Thu, 18 Apr 2024 18:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿联酋风暴过后迪拜机场持续延误</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68843049</link>
-      <description><![CDATA[飞往世界第二繁忙机场的一些入境航班已恢复，但许多乘客仍滞留。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68843049</guid>
-      <pubDate>Thu, 18 Apr 2024 17:57:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

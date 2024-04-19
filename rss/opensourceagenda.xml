@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:54:01 GMT</lastBuildDate>
-    <item>
-      <title>拉比克基地</title>
-      <link>https://www.opensourceagenda.com/projects/rubick-base</link>
-      <description><![CDATA[desktop automation, screen capture, input listen/simulation, asar compress, color picker for nodejs and electron based on rust. 基于 Rust / WASM 提供截图、取色、键鼠事件监听模拟、压缩解压、图像处理、获取已安装应用等跨平台功能的现代异步 Nodejs 模块，占用空间小, 安装便捷, 使用简单, 高性能, 资源占用极小, 可取代 iohook 和 robotjs]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rubick-base</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>很棒的自定义搜索引擎</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-custom-search-engines</link>
-      <description><![CDATA[🏃💨 自定义搜索引擎和快捷方式列表，可改善您的日常工作流程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-custom-search-engines</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Apr 2024 03:14:27 GMT</lastBuildDate>
     <item>
       <title>Arifszn OneClick</title>
       <link>https://www.opensourceagenda.com/projects/arifszn-oneclick</link>
       <description><![CDATA[只需单击一下即可在您喜欢的网站上导航到您最喜欢的操作。]]></description>
       <guid>https://www.opensourceagenda.com/projects/arifszn-oneclick</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>热键管理器</title>
-      <link>https://www.opensourceagenda.com/projects/hotkey-manager</link>
-      <description><![CDATA[此插件允许 Flutter 桌面应用程序定义系统/应用内热键（即快捷方式）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hotkey-manager</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基础扩展</title>
-      <link>https://www.opensourceagenda.com/projects/foundationextension</link>
-      <description><![CDATA[Foundation/Cocoa/UIKit 扩展套件。参考文档：]]></description>
-      <guid>https://www.opensourceagenda.com/projects/foundationextension</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:00 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:27 GMT</pubDate>
     </item>
     <item>
       <title>击键</title>
       <link>https://www.opensourceagenda.com/projects/keystrokes</link>
       <description><![CDATA[按键作为一个易于使用的库，用于将功能绑定到按键和组合键。它可以与任何 TypeScript 或 JavaScript 项目一起使用，甚至在非浏览器环境中也是如此。]]></description>
       <guid>https://www.opensourceagenda.com/projects/keystrokes</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:00 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:26 GMT</pubDate>
     </item>
     <item>
       <title>React Native 操作快捷键</title>
       <link>https://www.opensourceagenda.com/projects/react-native-actions-shortcuts</link>
       <description><![CDATA[适用于react-native的iOS主屏幕快速操作和Android应用程序快捷方式]]></description>
       <guid>https://www.opensourceagenda.com/projects/react-native-actions-shortcuts</guid>
-      <pubDate>Fri, 19 Apr 2024 00:54:00 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>Latex Gboard 词典</title>
-      <link>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</link>
-      <description><![CDATA[⌨ 使用受启发的键盘快捷键在 Android 手机上更轻松地输入数学符号的可导入字典通过乳胶]]></description>
-      <guid>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:59 GMT</pubDate>
+      <title>拉比克基地</title>
+      <link>https://www.opensourceagenda.com/projects/rubick-base</link>
+      <description><![CDATA[desktop automation, screen capture, input listen/simulation, asar compress, color picker for nodejs and electron based on rust. 基于 Rust / WASM 提供截图、取色、键鼠事件监听模拟、压缩解压、图像处理、获取已安装应用等跨平台功能的现代异步 Nodejs 模块，占用空间小, 安装便捷, 使用简单, 高性能, 资源占用极小, 可取代 iohook 和 robotjs]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rubick-base</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>取消制表符</title>
-      <link>https://www.opensourceagenda.com/projects/untab</link>
-      <description><![CDATA[🔍 提高浏览器工作流程的生产力工具！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/untab</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>派珀兰</title>
-      <link>https://www.opensourceagenda.com/projects/pyprland</link>
-      <description><![CDATA[Hyprland 扩展变得简单 [maintainer=@fdev31]]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pyprland</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:59 GMT</pubDate>
+      <title>很棒的自定义搜索引擎</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-custom-search-engines</link>
+      <description><![CDATA[🏃💨 用于改进日常工作流程的自定义搜索引擎和快捷方式列表]]></description>
+      <guid>https://www.opensourceagenda.com/projects/awesome-custom-search-engines</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:26 GMT</pubDate>
     </item>
     <item>
       <title>健康码网址方案</title>
       <link>https://www.opensourceagenda.com/projects/health-code-url-scheme</link>
       <description><![CDATA[微信/支付宝健康码小程序 url scheme收集]]></description>
       <guid>https://www.opensourceagenda.com/projects/health-code-url-scheme</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:59 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:25 GMT</pubDate>
     </item>
     <item>
       <title>总和</title>
       <link>https://www.opensourceagenda.com/projects/sum4all</link>
       <description><![CDATA[网页、视频、图片大模型总结]]></description>
       <guid>https://www.opensourceagenda.com/projects/sum4all</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:59 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>热键管理器</title>
+      <link>https://www.opensourceagenda.com/projects/hotkey-manager</link>
+      <description><![CDATA[此插件允许 Flutter 桌面应用程序定义系统/应用内热键（即快捷方式）。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hotkey-manager</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>基础扩展</title>
+      <link>https://www.opensourceagenda.com/projects/foundationextension</link>
+      <description><![CDATA[Foundation/Cocoa/UIKit 扩展套件。参考文档：]]></description>
+      <guid>https://www.opensourceagenda.com/projects/foundationextension</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Latex Gboard 词典</title>
+      <link>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</link>
+      <description><![CDATA[⌨ 使用受启发的键盘快捷键在 Android 手机上更轻松地输入数学符号的可导入字典通过乳胶]]></description>
+      <guid>https://www.opensourceagenda.com/projects/latex-gboard-dictionary</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>取消制表符</title>
+      <link>https://www.opensourceagenda.com/projects/untab</link>
+      <description><![CDATA[🔍 提高浏览器工作流程的生产力工具！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/untab</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>派珀兰</title>
+      <link>https://www.opensourceagenda.com/projects/pyprland</link>
+      <description><![CDATA[Hyprland 扩展变得简单 [maintainer=@fdev31]]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pyprland</guid>
+      <pubDate>Fri, 19 Apr 2024 03:14:24 GMT</pubDate>
     </item>
     <item>
       <title>蒂斯丰 Easydict</title>
       <link>https://www.opensourceagenda.com/projects/tisfeng-easydict</link>
       <description><![CDATA[一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ]]></description>
       <guid>https://www.opensourceagenda.com/projects/tisfeng-easydict</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:58 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:23 GMT</pubDate>
     </item>
     <item>
       <title>Leecobaby 快捷键</title>
       <link>https://www.opensourceagenda.com/projects/leecobaby-shortcuts</link>
       <description><![CDATA[📱 自动养猫|自动淘金币|炸年兽|芭芭农场|东东农场|抢购助手|快捷指令]]></description>
       <guid>https://www.opensourceagenda.com/projects/leecobaby-shortcuts</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:58 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:23 GMT</pubDate>
     </item>
     <item>
       <title>Vim 按键绑定无处不在 终极列表</title>
       <link>https://www.opensourceagenda.com/projects/vim-keybindings-everywhere-the-ultimate-list</link>
       <description><![CDATA[原生支持类似 Vim 的键绑定的程序的最终列表，或者如何添加扩展。一个合作项目。]]></description>
       <guid>https://www.opensourceagenda.com/projects/vim-keybindings-everywhere-the-ultimate-list</guid>
-      <pubDate>Fri, 19 Apr 2024 00:53:58 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 03:14:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

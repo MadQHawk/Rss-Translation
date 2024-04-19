@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:14:06 GMT</lastBuildDate>
+    <item>
+      <title>Vue 3 + Vite 和 WebRTC 在设置方面遇到困难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7mjkb/vue_3_vite_and_webrtc_struggling_on_setting/</link>
+      <description><![CDATA[我正在使用 Vite + Vue 3 并决定制作一个视频流应用程序，我按照教程，甚至官方文档安装了包 &lt; strong&gt;vue-webrtc，但是当我导入它时，它记录了一个错误“global is not Define”，所以我在 vite.config.js 中将其定义为  define: { global: {}, }, 现在，错误更改为 &#39;Buffer is未定义&#39;，我在网络上做了一个研究，看看是否有人遇到和我一样的麻烦，在 stackoverflow 上找到了一个答案，说这个包是在 webpack 上构建的，对 vue 3 不友好。有人遇到同样的问题吗？您找到解决方案了吗？  当我安装该软件包时，它显示 core-js@2.6.12: core-js @&lt;3.23.3 和 cuid@2.1.8 已弃用，所以我尝试安装最新版本，但它没有工作。 它还显示了一个 TS 警告“无法找到模块‘vue-webrtc’的声明文件”。 &#39;/home/ayakase/Documents/vuewebrtc/node_modules/vue-webrtc/dist/vue-webrtc.ssr.js&#39; 隐式具有“any”类型。&#39; 但我使用的是 JS，所以我假设我可以跳过这个警告。   由   提交/u/Zafugus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7mjkb/vue_3_vite_and_webrtc_struggling_on_setting/</guid>
+      <pubDate>Fri, 19 Apr 2024 03:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站开发人员希望通过 Wordpress 在 Wix 上为我建立一个新的电子商务网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7mie6/website_dev_wants_to_build_me_a_new_ecommerce/</link>
+      <description><![CDATA[我现在专门销售数字产品，但希望能够选择能够代发货我品牌的服装和贴纸等，但没什么疯狂的。  我建立了自己的 WordPress 网站，它可以工作，它可以完成它需要做的事情。我一直在与某人合作，以简化销售渠道、入职、清理所有内容、更好的品牌推广、通过 sketchfab 合并一些交互式 3D 模型等。他们希望在 WIX 上构建新网站。现在，也许这是一个误解，但我认为 wix 是一个“初学者”平台，是一个好的 WordPress 页面的降级版。  在考虑他们的提案时我应该注意什么，有什么建议吗？ 我绝对不需要超级花哨的动画或任何东西。简单、干净的商店和信息布局。详细的联系表格、嵌入式 sketchfab 元素、自动数字产品交付。提前致谢。    由   提交 /u/johnnybagels   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7mie6/website_dev_wants_to_build_me_a_new_ecommerce/</guid>
+      <pubDate>Fri, 19 Apr 2024 03:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>wordpress 还是 webflow 更适合开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7mbkn/would_wordpress_or_webflow_be_better_for/</link>
+      <description><![CDATA[我正在寻找货运代理网站的开发人员，该网站具有一些 API 连接和客户预订功能（可跟踪发货）。我只熟悉 wordpress，但许多开发人员都说使用 webflow 或 go 自定义堆栈。有人使用过或开发过两者并提供反馈吗？我认为 WordPress 最适合我的行业（货运/运输），但这就是我曾经使用过的所有内容，所以它是我所熟悉的，因为它在更新内容时对用户很友好。    由   提交/u/Ancient-Weakness-291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7mbkn/would_wordpress_or_webflow_be_better_for/</guid>
+      <pubDate>Fri, 19 Apr 2024 02:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们对 2024 年的 Cognito 有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/</link>
+      <description><![CDATA[在我的启动时实现 SSO，并在 Cognito 和 Auth0 之间做出选择。 到目前为止，我已经开始使用 Auth0，而经验很好，我想确保在尝试之前考虑替代方案。 我们的大部分基础设施都是 AWS，我们使用 CDK 部署资源。另外，Cognito 的定价更好，据我了解，Auth0 最近的价格增加了两倍。 但我也听到了很多人对 Cognito 的不满，比如缺乏文档、功能不丰富等等。你们有什么感想？我特别好奇您使用 Cognito 和 MFA 的体验如何。   由   提交/u/Necessary-Ad8108   reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/</guid>
+      <pubDate>Fri, 19 Apr 2024 02:51:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在哪里找到设计师？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7kw2l/where_dodid_you_find_a_designer/</link>
+      <description><![CDATA[大家好，我从事 Web 开发（以及其他事情，例如移动/桌面应用程序等）已经一年多了，但是我更适合后端而不是前端。我可以在一天结束时做出一些可用的东西，但它并没有什么太漂亮的。我听说在 Fiverr 和其他自由职业网站上招聘设计师并不是很理想，最好只是通过网络寻找合作伙伴。有人可以建议我从哪里开始寻找可以合作的设计师吗？   由   提交 /u/Centricc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7kw2l/where_dodid_you_find_a_designer/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>vite + React：将资产存储为变量以在 Service Worker 中缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7kvca/vite_react_store_assets_as_variable_for_caching/</link>
+      <description><![CDATA[嗨！我正在使用 vite 开发一个 React 应用程序。我需要将资产的路径/文件名作为服务工作线程中的 const 进行缓存。 到目前为止，资产只是 index-[hash].js &amp; 。 index-[hash].css 我检查了 vite/rollup 文档，但似乎没有任何帮助。  另外，如果有更好的方法来处理这个问题，我将不胜感激   由   提交/u/undefined-person  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7kvca/vite_react_store_assets_as_variable_for_caching/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于域访问的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7kaa9/suggestions_on_domain_access/</link>
+      <description><![CDATA[      大家好， 我本打算尝试将其发布到与域相关的子目录之一中，但它们对我来说看起来不活跃. 我帮助一家非营利组织，他们在 10 年前购买了一个域名，早在我出现之前。快进到几个月前，当付款到期时，他们找不到访问权限或列出的人员，最终域被锁定。 他们无法向 Domain 提供足够的证据。 com 关于他们的身份（长话短说），所以他们最终将所有内容移动到不同的域并继续前进。 我一直在检查，然后希望它变得可用，因为他们有一些商品和东西旧的。 今天我意识到它在注册人信息下列出了一些 BuyDomains 信息。 我对此类情况没有太多经验，但我想知道是否可以联系他们并询问是否出售它，或者是否属于不同的流程。 任何提示都表示赞赏！   由   提交/u/paulo_cv   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7kaa9/suggestions_on_domain_access/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您首选的云/文件同步解决方案是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7k9e7/whats_your_preferred_cloud_file_sync_solution/</link>
+      <description><![CDATA[我正在创办一家小型企业（我是唯一的员工）并决定使用云存储解决方案。本质上，我想要的只是 - 一个具有相当深（至少 1TB）存储空间的云驱动器 - 让该驱动器在我使用的任何计算机上的文件资源管理器中显示为驱动器文件夹 我在其他工作中使用过 Dropbox 是过去的;它似乎完全完成了这两件事。 DropBox 似乎也相当受欢迎和受人尊敬（？）。 OneDrive 本质上是等价物吗？对 OneDrive 感兴趣，因为我通过 MS365 订阅获得了 2TB 免费存储空间。或者你们还有其他更喜欢的解决方案吗？   由   提交/u/Pspecial-Pepper-64   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7k9e7/whats_your_preferred_cloud_file_sync_solution/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁到底了解 SVG 过滤器？您是通过什么魔法了解它们的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7k6jx/who_the_hell_understands_svg_filters_and_by_what/</link>
+      <description><![CDATA[我一直在阅读甚至使用一些 SVG 过滤器，但谁头脑清醒才能“思考”这些过滤器？对于类似的事情，就像“是的，我确切地知道我要做什么，我知道结果会是什么！”真的喜欢 WTF？   由   提交 /u/cmdr_drygin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7k6jx/who_the_hell_understands_svg_filters_and_by_what/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:09:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 axios 时验证响应模式的行业最佳实践是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7k6i0/what_is_the_industry_best_practice_to_validate/</link>
+      <description><![CDATA[基本上是标题。我正在使用 axios 与后端进行通信，并且由于后端是由单独的团队开发的，因此如果我可以验证响应的模式，我会更有信心。我正在考虑使用 Zod，但我想知道其他人是如何做到的。    由   提交 /u/shriram-k    reddit.com/r/webdev/comments/1c7k6i0/what_is_the_industry_best_practice_to_validate/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7k6i0/what_is_the_industry_best_practice_to_validate/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:09:08 GMT</pubDate>
+    </item>
     <item>
       <title>电子商务/博客/预约网站的 CMS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7iixa/cms_for_a_ecommerce_blog_appointment_website/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[我想知道，这样我就可以知道要学什么  &amp; #32；由   提交/u/jiajunsun998   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7hvfg/what_technologies_are_used_to_create_a_website/</guid>
       <pubDate>Thu, 18 Apr 2024 23:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用智能过滤器创建了一个人工智能驱动的工作板来帮助您找到梦想的工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7gru7/i_created_an_aipowered_job_board_using_smart/</link>
-      <description><![CDATA[大家好，我很高兴能分享一个我已经工作了大约一年的项目。我开发了一个工作委员会，旨在帮助求职者找到他们梦想的工作，并帮助招聘人员找到完美的候选人。它使用人工智能驱动的智能匹配和过滤来改进搜索过程。请花点时间查看一下，我很想听听您的反馈！ https://skillexchange.xyz/   由   提交/u/lolaks181203  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7gru7/i_created_an_aipowered_job_board_using_smart/</guid>
-      <pubDate>Thu, 18 Apr 2024 22:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>菜鸟需要帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7fr7p/noob_needing_help/</link>
-      <description><![CDATA[大家好！我正在创建一个 wepapp (c#)，它与另一个应用程序的 api 交互以修改和显示数据库。  当我想要更新字段时，我使用 api 中名为 SavePartial 的方法。当我尝试更新常规属性时一切正常，但我有我们所说的“用户字段”这是一个类本身包含用户名、号码和公司 ID。帮助我的人说我只传递用户名（这确实是我想要更新的唯一内容），然后 SavePartial 方法读取其他两个属性但什么也没得到，所以我收到一条错误消息，这令人困惑我需要提供至少一项（？？？） 他解释了我应该做什么，但老实说我没有完全明白，我不想再问他有关的事情，因为我已经做过很多次了。我想自己做事，但说实话，有时这真的很难。  无论如何，你们可能不明白这个，因为我解释得像狗屎，哈哈，但是，是的，如果有人知道任何关于这个东西的视频或类似的东西，我需要帮助来做什么。  &gt;   由   提交/u/rollingcircus123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7fr7p/noob_needing_help/</guid>
-      <pubDate>Thu, 18 Apr 2024 21:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮忙用简单的骨头制作大的符号网格吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7fjg3/help_with_making_large_grid_of_symbols_from_bare/</link>
-      <description><![CDATA[最近我一直在研究制作 ASCII 艺术和其他与字符网格相关的界面以获取乐趣。我烦人地使用纯 html css 和 js，并一直在尝试找到一种合适的方法来创建约 1000x1000 方形字符的网格以立即显示，并使每个字符可由 JS 动态编辑。 到目前为止，我的想法是：  将 1M 个元素加载到 dom，这已经杀死了我的浏览器窗口， 拥有高分辨率画布，并且不让人们缩放得太近看看像素，我还没有测试过这个，但它似乎可能很有成效？  我确信有一种好方法，我没有通过谷歌搜索找到让字符符合一个设置的网格，我们可以在其中更改坐标或根据需要使用它。 感谢您的帮助，是的，我知道我应该学习一个框架......我只是一个顽固的爱好者！ p&gt;   由   提交 /u/BionicSatan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7fjg3/help_with_making_large_grid_of_symbols_from_bare/</guid>
-      <pubDate>Thu, 18 Apr 2024 21:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D Spinner 的实现</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7f1ra/implementation_of_3d_spinner/</link>
-      <description><![CDATA[      你好👋 我最近一直在开发一个 3D 旋转器来选择列表中的随机视频游戏。然而，当旋转器变得非常快时，它会有点“收缩”。高度，如下面的 gif 所示。使用 Firefox 时情况会变得更糟... 注意：任何可见的“性能”都会受到影响。问题仅在录音中可见，而在网站本身中不可见。 Chromium &lt; p&gt;Firefox 我目前正在使用 JS (react) 结合 3d CSS 创建它动画。我不知道如何解决这个问题，正在考虑重写它。 你将如何实现这样一个旋转器，是否有比 JS + 3d CSS 动画更好的方法，或者我只是使用错误？  ​ 关于我当前的实现： 代码可以在 这里，但我不太确定是否值得研究。 每个段的位置都是受控制的通过使用状态在外部：  // 第一次渲染   // 下一个渲染 &gt; // 下一次渲染... 每个段的位置由以下 CSS 属性定义： position:absolute;顶部：50%； /* JS 根据速度改变持续时间 */ Transition: 10ms 线性; /* Y、Z 和旋转由 JS 根据“当前”位置进行更改指数。 * 例如，这是正面的。 **/  变换：透视（1000px）translateY（-2.25em）translateZ（0em）rotateX（0deg）; ​   由   提交 /u/SpinatMixxer   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7f1ra/implementation_of_3d_spinner/</guid>
-      <pubDate>Thu, 18 Apr 2024 21:22:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道为什么嵌入 iFrame 会添加额外的元视口吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7ea23/anyone_know_why_embedding_an_iframe_adds_extra/</link>
-      <description><![CDATA[这是原始帖子，因为它使用带有 Divi 主题的 Wordpress：https://www.reddit.com/r/divi/comments/1c753vs/embedding_iframe_creates_extra_meta_viewport_on/ 我只是不知道为什么嵌入 iframe 脚本会添加元视口，并且仅在检查元素时显示，而不是在查看源代码时显示....太奇怪了...   由   提交/u/jand1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7ea23/anyone_know_why_embedding_an_iframe_adds_extra/</guid>
-      <pubDate>Thu, 18 Apr 2024 20:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们会/如何做加载屏幕。最正确的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7dmnp/how_would_how_do_you_guys_do_loading_screen_and/</link>
-      <description><![CDATA[    /u/Pomelowy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7dmnp/how_would_how_do_you_guys_do_loading_screen_and/</guid>
-      <pubDate>Thu, 18 Apr 2024 20:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：提高我的新业务的移动 PageSpeed 分数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7crok/need_advice_improving_mobile_pagespeed_scores_for/</link>
-      <description><![CDATA[大家好， 我即将推出我的电子商务宠物 CBD 业务，这是一个充满激情的项目，吸引了过去几年里无数个小时！在这段旅程中，我解决了从在 Illustrator 中创建图标到掌握（或至少尝试掌握）电子邮件营销以及介于两者之间的所有问题。我使用 Elementor Pro 来构建我的网站，这给了我巨大的帮助。不幸的是，当谈到技术方面时，感觉就像我在倒立时试图看书！对于某些人来说这可能是可行的，但这对我来说无疑是一个挑战！ 尽管如此，我还是在移动页面加载时间方面遇到了一些障碍：  我的桌面 PageSpeed分数约为 60-66，加载时间约为 1.3 秒，但在移动设备上，分数降至 32 左右，加载时间约为 5 秒。 奇怪的是，在不同移动设备上进行测试时，网站几乎立即加载，这与较低的移动得分不符。 我在 SiteGround 上托管，并且在故障排除期间积极主动进行缓存管理。  为了让您更好地了解，我设置了一个暂存站点，该站点当前处于维护模式，但可以在此处访问：https://staging19 .simplicbd.ca/ 我正在寻求有关如何进一步优化移动性能和整个网站的建议。 任何见解或建议都会非常感谢。 非常感谢， Brian   由   提交 /u/CaPpedDoG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7crok/need_advice_improving_mobile_pagespeed_scores_for/</guid>
-      <pubDate>Thu, 18 Apr 2024 19:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发人员 - 网上零售</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7c9x5/web_developer_online_retail/</link>
-      <description><![CDATA[我在自动化领域工作。 我不断购买自动化产品，并发现了一些建立在线零售店的绝佳机会。问题是我不做网络开发。但我已经与设备提供商建立了一些良好的关系，并且了解市场的需求。 我正在寻找可以开发在线商店的合作伙伴，同时我专注于其余的业务业务。 哪里是找到上述人员的最佳地点？这将是一笔血汗股权交易...   由   提交/u/Nicosee3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7c9x5/web_developer_online_retail/</guid>
-      <pubDate>Thu, 18 Apr 2024 19:33:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计一个独立的网络小部件以出售给各个网站的最佳方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7bxys/best_way_to_design_a_standalone_web_widget_to_be/</link>
-      <description><![CDATA[一位朋友向我提出了一个想法，让我构建一个独立的 Web 小部件，他可以将其用于自己的商业网站，但也希望能够出售将其提供给其他企业并允许他们将其插入到他们的网站中。它可能是一个复杂的前端小部件，没有需要后端的功能。我想过使用 iframe，但我没有发现它们有问题，但我以前从未做过此类事情，所以我很想知道还有哪些其他选项或者最常见的方法是什么。&lt; /p&gt;   由   提交 /u/Hawexp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7bxys/best_way_to_design_a_standalone_web_widget_to_be/</guid>
-      <pubDate>Thu, 18 Apr 2024 19:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>附加网络数据管理工具的最快方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7be1f/fastest_way_to_attach_a_web_data_admin_tool/</link>
-      <description><![CDATA[我什至不确定它到底叫什么。内容管理系统？我想要像 Django 的管理站点这样的东西来允许为我的单人站点添加/编辑/删除数据功能。这意味着当我可以开发用户功能时，我不想花费大量时间来开发管理功能。 我已经提到过 Django，但我既没有使用 Django，也没有使用 python。与语言无关且独立的东西将是理想的。这不是我第一次遇到这个问题。我很明智，这次没有尝试写它。   由   提交 /u/livingdeadghost   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7be1f/fastest_way_to_attach_a_web_data_admin_tool/</guid>
-      <pubDate>Thu, 18 Apr 2024 18:57:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
