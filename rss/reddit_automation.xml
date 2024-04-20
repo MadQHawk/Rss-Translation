@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 20 Apr 2024 12:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 15:11:52 GMT</lastBuildDate>
+    <item>
+      <title>AI 视频字幕生成器的准确度如何？</title>
+      <link>https://www.reddit.com/r/automation/comments/1c8p78i/how_accurate_are_ai_subtitle_generators_for_videos/</link>
+      <description><![CDATA[ 由   提交 /u/Capable-Start-5497   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c8p78i/how_accurate_are_ai_subtitle_generators_for_videos/</guid>
+      <pubDate>Sat, 20 Apr 2024 12:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 便携版中的 Imacros 10 - 它的书签在哪里？！</title>
+      <link>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</link>
+      <description><![CDATA[您好！我使用了多个 Firefox 便携版。现在他们必须更新到版本116。相应地，我将他们的Imacros更新到版本10.0...并将js重写为iim。但问题是每个 Firefox 副本在 iMacros 中都有自己的书签！ iMacros 脚本不再以文件的形式存在，而是以难以理解的形式存在。  我可以通过 iims 将便携式浏览器的不同实例指向同一位置吗？  如果有人能回答，请表示尊重和感激。    由   提交/u/sergeyosipov2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</guid>
+      <pubDate>Sat, 20 Apr 2024 12:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>你自动化什么？</title>
       <link>https://www.reddit.com/r/automation/comments/1c85fcg/what_do_you_automate/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>Jemma：一个将你的想法转化为代码的新人工智能项目</title>
       <link>https://www.reddit.com/r/automation/comments/1c6aelg/jemma_a_new_ai_project_that_convert_your_thoughts/</link>
-      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c6aelg/jemma_a_new_ai_project_that_convert_your_thoughts/</guid>
       <pubDate>Wed, 17 Apr 2024 13:50:50 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>建议问题：我的研究可以自动化吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</link>
-      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行 - 我需要寻找/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我希望获得一些关于我想要提升的项目范围的指导，以及它是否可行——我需要注意/可能的阻碍因素，以及一般来说最好的语言。我熟悉Python并创建过Web自动化类型的程序，但这对我来说是另一个层次。  对于该项目，我想要一个包含名人姓名、地理位置和年龄的 csv 列表 - 程序获取该列表并在循环中运行它，在互联网上搜索与他们相关的文章- 但是 - 具体来说 - 它仅返回与他们参与的任何电影（表演、制作、导演等）相关的结果。理想情况下，我希望程序返回一个 url 列表 - 按名人的名字组织 - 与他们参与的电影相关。理想情况下，我想在计时器上每周运行一次该列表看看是否有新的结果出现。  然后 - 如果有结果填充到该电子表格上 - 则会向我发送一封电子邮件，其中包含特定消息 + 网址 + 名人的姓名。  我认为这个项目有多个部分 - 也连接 API - 想知道使用 LLM API 是否也有帮助。 这可能吗？我需要注意什么？   由   提交 /u/ForeignDentist9413   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c5ivyv/advice_question_is_it_possible_to_automate_my/</guid>
       <pubDate>Tue, 16 Apr 2024 15:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>共享工具、Perfect.Studio、Onimator、Jolie。您曾经使用过这些自动化工具吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/</link>
-      <description><![CDATA[寻求审核   由   提交 /u/Visible-Employment43    reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c5h9pg/sharingtoolsperfectstudio_onimatorjolie_did_you/</guid>
-      <pubDate>Tue, 16 Apr 2024 14:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能支持的环境即代码。 GitOps 和 GptOps - 在 Kubernetes 和 OpenShift 上驱动可扩展且一致的环境</title>
-      <link>https://www.reddit.com/r/automation/comments/1c5frq9/aienabled_environment_as_code_gitops_gptops/</link>
-      <description><![CDATA[嗨， 我想分享一些关于如何在使用 Kubernetes 入门时处理复杂性和规模的想法和示例实现GitOps 和 GPTOps 查看https://youtu.be/7yR_AEE0TUM    由   提交 /u/Puzzleheaded-Gas692    reddit.com/r/automation/comments/1c5frq9/aienabled_environment_as_code_gitops_gptops/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c5frq9/aienabled_environment_as_code_gitops_gptops/</guid>
-      <pubDate>Tue, 16 Apr 2024 13:12:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

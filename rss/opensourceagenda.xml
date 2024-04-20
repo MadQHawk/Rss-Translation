@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 20 Apr 2024 12:21:26 GMT</lastBuildDate>
-    <item>
-      <title>奥埃德</title>
-      <link>https://www.opensourceagenda.com/projects/ouned</link>
-      <description><![CDATA[OUned 项目通过 gPLink 中毒自动利用 Active Directory 组织单位 ACL 漏洞]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ouned</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>戈蒂普斯</title>
-      <link>https://www.opensourceagenda.com/projects/gotips</link>
-      <description><![CDATA[Go tips from Phuong Le. Go语言编程技巧]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gotips</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Apr 2024 15:13:50 GMT</lastBuildDate>
     <item>
       <title>事实核查验证</title>
       <link>https://www.opensourceagenda.com/projects/fact-checking-verification</link>
       <description><![CDATA[查找有用的工具和资源来帮助您事实检查和分析假新闻和人工智能生成图像。]]></description>
       <guid>https://www.opensourceagenda.com/projects/fact-checking-verification</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:49 GMT</pubDate>
     </item>
     <item>
       <title>HomeKit.Net</title>
       <link>https://www.opensourceagenda.com/projects/homekitnet</link>
       <description><![CDATA[HomeKit的C#原生SDK，可以模拟HomeKit的智能家居设备]]></description>
       <guid>https://www.opensourceagenda.com/projects/homekitnet</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>日志带</title>
-      <link>https://www.opensourceagenda.com/projects/logtape</link>
-      <description><![CDATA[对 Deno/Node.js/Bun/browsers 具有零依赖性的简单日志记录库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/logtape</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>C16a 微克</title>
-      <link>https://www.opensourceagenda.com/projects/c16a-microq</link>
-      <description><![CDATA[一个小型事件代理]]></description>
-      <guid>https://www.opensourceagenda.com/projects/c16a-microq</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥拉马长发球</title>
-      <link>https://www.opensourceagenda.com/projects/langserve-ollama</link>
-      <description><![CDATA[免费接收韩语🇰🇷微调模型并在本地托管 LLM。 LangServe、Ollama、streamlit + RAG]]></description>
-      <guid>https://www.opensourceagenda.com/projects/langserve-ollama</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩散可视化</title>
-      <link>https://www.opensourceagenda.com/projects/diffusion-visualizations</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/diffusion-visualizations</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:49 GMT</pubDate>
     </item>
     <item>
       <title>深入了解法学硕士</title>
       <link>https://www.opensourceagenda.com/projects/dive-into-llms</link>
       <description><![CDATA[《动手学大模型Dive into LLMs》系列编程实践教程]]></description>
       <guid>https://www.opensourceagenda.com/projects/dive-into-llms</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:48 GMT</pubDate>
     </item>
     <item>
       <title>福尔摩斯www特工套件</title>
       <link>https://www.opensourceagenda.com/projects/holmeswww-agentkit</link>
       <description><![CDATA[针对多功能代理的直观 LLM 提示框架，通过从简单的内容显式构建复杂的“思维过程”自然语言提示。]]></description>
       <guid>https://www.opensourceagenda.com/projects/holmeswww-agentkit</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>谢杰克森统治者</title>
-      <link>https://www.opensourceagenda.com/projects/hsiehjackson-ruler</link>
-      <description><![CDATA[此存储库包含 RULER 的源代码：长上下文语言的真实上下文大小是多少型号？]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hsiehjackson-ruler</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
+      <title>奥埃德</title>
+      <link>https://www.opensourceagenda.com/projects/ouned</link>
+      <description><![CDATA[OUned 项目通过 gPLink 中毒自动化 Active Directory 组织单位 ACL 漏洞利用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ouned</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>戈蒂普斯</title>
+      <link>https://www.opensourceagenda.com/projects/gotips</link>
+      <description><![CDATA[Go tips from Phuong Le. Go语言编程技巧]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gotips</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>C16a 微克</title>
+      <link>https://www.opensourceagenda.com/projects/c16a-microq</link>
+      <description><![CDATA[一个小型事件代理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/c16a-microq</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥拉马长发球</title>
+      <link>https://www.opensourceagenda.com/projects/langserve-ollama</link>
+      <description><![CDATA[免费接收韩语🇰🇷微调模型并在本地托管 LLM。 LangServe、Ollama、streamlit + RAG]]></description>
+      <guid>https://www.opensourceagenda.com/projects/langserve-ollama</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩散可视化</title>
+      <link>https://www.opensourceagenda.com/projects/diffusion-visualizations</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/diffusion-visualizations</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:47 GMT</pubDate>
     </item>
     <item>
       <title>诺克斯瑟</title>
       <link>https://www.opensourceagenda.com/projects/knoxsser</link>
       <description><![CDATA[利用 Brute Logic 的 KN0X55 API 进行大规模 XSS 扫描的简洁有效的 bash 脚本]]></description>
       <guid>https://www.opensourceagenda.com/projects/knoxsser</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:46 GMT</pubDate>
     </item>
     <item>
       <title>缩放捏</title>
       <link>https://www.opensourceagenda.com/projects/zoompinch</link>
-      <description><![CDATA[应用原生的捏合缩放体验，反应式地传达变换并让您投影任何图层在变换后的画布上。]]></description>
+      <description><![CDATA[应用原生的捏合缩放体验，反应式地传达变换并让您投影任何图层在变换后的画布之上。]]></description>
       <guid>https://www.opensourceagenda.com/projects/zoompinch</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:46 GMT</pubDate>
     </item>
     <item>
       <title>Q币手势戈多</title>
       <link>https://www.opensourceagenda.com/projects/q-dollar-gesture-godot</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/q-dollar-gesture-godot</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>ISO639</title>
+      <link>https://www.opensourceagenda.com/projects/iso639</link>
+      <description><![CDATA[一个快速且易于使用的 ISO 639 语言表示标准库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/iso639</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:45 GMT</pubDate>
     </item>
     <item>
       <title>兹格反射者</title>
       <link>https://www.opensourceagenda.com/projects/zygisk-reflutter</link>
       <description><![CDATA[基于 Zygisk 的 reFlutter ]]></description>
       <guid>https://www.opensourceagenda.com/projects/zygisk-reflutter</guid>
-      <pubDate>Sat, 20 Apr 2024 12:21:22 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:13:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>谢杰克森统治者</title>
+      <link>https://www.opensourceagenda.com/projects/hsiehjackson-ruler</link>
+      <description><![CDATA[此存储库包含 RULER 的源代码：长上下文语言的真实上下文大小是多少型号？]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hsiehjackson-ruler</guid>
+      <pubDate>Sat, 20 Apr 2024 15:13:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
