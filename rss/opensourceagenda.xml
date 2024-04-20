@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 20 Apr 2024 09:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 12:21:26 GMT</lastBuildDate>
     <item>
-      <title>忍者</title>
-      <link>https://www.opensourceagenda.com/projects/zmninja</link>
-      <description><![CDATA[使用 ZoneMinder 进行家庭/商业安全监控的高性能、跨平台离子应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zmninja</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:18 GMT</pubDate>
+      <title>奥埃德</title>
+      <link>https://www.opensourceagenda.com/projects/ouned</link>
+      <description><![CDATA[OUned 项目通过 gPLink 中毒自动利用 Active Directory 组织单位 ACL 漏洞]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ouned</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
     </item>
     <item>
-      <title>ZoneMinder Zmeventnotification</title>
-      <link>https://www.opensourceagenda.com/projects/zoneminder-zmeventnotification</link>
-      <description><![CDATA[基于机器学习的安全 Websocket 和 MQTT 的 ZoneMinder 事件通知服务器 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zoneminder-zmeventnotification</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:18 GMT</pubDate>
+      <title>戈蒂普斯</title>
+      <link>https://www.opensourceagenda.com/projects/gotips</link>
+      <description><![CDATA[Go tips from Phuong Le. Go语言编程技巧]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gotips</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
     </item>
     <item>
-      <title>三力测试</title>
-      <link>https://www.opensourceagenda.com/projects/sanic-testing</link>
-      <description><![CDATA[测试 Sanic 客户端]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sanic-testing</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
+      <title>事实核查验证</title>
+      <link>https://www.opensourceagenda.com/projects/fact-checking-verification</link>
+      <description><![CDATA[查找有用的工具和资源来帮助您事实检查和分析假新闻和人工智能生成图像。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fact-checking-verification</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
     </item>
     <item>
-      <title>Sanic Mongodb 扩展</title>
-      <link>https://www.opensourceagenda.com/projects/sanic-mongodb-extension</link>
-      <description><![CDATA[MongoDB 带有 µMongo 支持 Sanic 框架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sanic-mongodb-extension</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
+      <title>HomeKit.Net</title>
+      <link>https://www.opensourceagenda.com/projects/homekitnet</link>
+      <description><![CDATA[HomeKit的C#原生SDK，可以模拟HomeKit的智能家居设备]]></description>
+      <guid>https://www.opensourceagenda.com/projects/homekitnet</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
     </item>
     <item>
-      <title>蜜蜂日志机器人</title>
-      <link>https://www.opensourceagenda.com/projects/apiad-logbot</link>
-      <description><![CDATA[一个 Telegram 机器人，您可以从 Python 登录并管理长时间运行的进程。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/apiad-logbot</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
+      <title>日志带</title>
+      <link>https://www.opensourceagenda.com/projects/logtape</link>
+      <description><![CDATA[对 Deno/Node.js/Bun/browsers 具有零依赖性的简单日志记录库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/logtape</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:25 GMT</pubDate>
     </item>
     <item>
-      <title>简单图像分类器</title>
-      <link>https://www.opensourceagenda.com/projects/simple-image-classifier</link>
-      <description><![CDATA[使用tensorflow和sanic的简单图像分类器微服务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/simple-image-classifier</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
+      <title>C16a 微克</title>
+      <link>https://www.opensourceagenda.com/projects/c16a-microq</link>
+      <description><![CDATA[一个小型事件代理]]></description>
+      <guid>https://www.opensourceagenda.com/projects/c16a-microq</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>改进的 API</title>
-      <link>https://www.opensourceagenda.com/projects/revanced-api</link>
-      <description><![CDATA[🚀 ReVanced 的 JSON API]]></description>
-      <guid>https://www.opensourceagenda.com/projects/revanced-api</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
+      <title>奥拉马长发球</title>
+      <link>https://www.opensourceagenda.com/projects/langserve-ollama</link>
+      <description><![CDATA[免费接收韩语🇰🇷微调模型并在本地托管 LLM。 LangServe、Ollama、streamlit + RAG]]></description>
+      <guid>https://www.opensourceagenda.com/projects/langserve-ollama</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>苦的</title>
-      <link>https://www.opensourceagenda.com/projects/pait</link>
-      <description><![CDATA[Pait(π tool) - Python 现代 API 工具，更容易使用 Web 框架/编写 API 路由]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pait</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
+      <title>扩散可视化</title>
+      <link>https://www.opensourceagenda.com/projects/diffusion-visualizations</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/diffusion-visualizations</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>三力分机</title>
-      <link>https://www.opensourceagenda.com/projects/sanic-ext</link>
-      <description><![CDATA[扩展 Sanic 功能]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sanic-ext</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
+      <title>深入了解法学硕士</title>
+      <link>https://www.opensourceagenda.com/projects/dive-into-llms</link>
+      <description><![CDATA[《动手学大模型Dive into LLMs》系列编程实践教程]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dive-into-llms</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>萨姆·费奇</title>
-      <link>https://www.opensourceagenda.com/projects/samfetch</link>
-      <description><![CDATA[一个 Web API，可轻松下载三星固件，无需标头、授权或任何您不想要的内容。&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/samfetch</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
+      <title>福尔摩斯www特工套件</title>
+      <link>https://www.opensourceagenda.com/projects/holmeswww-agentkit</link>
+      <description><![CDATA[针对多功能代理的直观 LLM 提示框架，通过从简单的内容显式构建复杂的“思维过程”自然语言提示。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/holmeswww-agentkit</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>实用工具Py</title>
-      <link>https://www.opensourceagenda.com/projects/utilmeta-py</link>
-      <description><![CDATA[UtilMeta - 用于 Python 中 API 开发的渐进式元框架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/utilmeta-py</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:15 GMT</pubDate>
+      <title>谢杰克森统治者</title>
+      <link>https://www.opensourceagenda.com/projects/hsiehjackson-ruler</link>
+      <description><![CDATA[此存储库包含 RULER 的源代码：长上下文语言的真实上下文大小是多少型号？]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hsiehjackson-ruler</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>Sanic Jinja2</title>
-      <link>https://www.opensourceagenda.com/projects/sanic-jinja2</link>
-      <description><![CDATA[Jinja2 对 sanic 的支持]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sanic-jinja2</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:15 GMT</pubDate>
+      <title>诺克斯瑟</title>
+      <link>https://www.opensourceagenda.com/projects/knoxsser</link>
+      <description><![CDATA[利用 Brute Logic 的 KN0X55 API 进行大规模 XSS 扫描的简洁有效的 bash 脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/knoxsser</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>否定</title>
-      <link>https://www.opensourceagenda.com/projects/deny</link>
-      <description><![CDATA[Python 授权库 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/deny</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:15 GMT</pubDate>
+      <title>缩放捏</title>
+      <link>https://www.opensourceagenda.com/projects/zoompinch</link>
+      <description><![CDATA[应用原生的捏合缩放体验，反应式地传达变换并让您投影任何图层在变换后的画布上。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zoompinch</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 认证</title>
-      <link>https://www.opensourceagenda.com/projects/instagramauth</link>
-      <description><![CDATA[一个 Android 库，可让您轻松使用 Instagram 对应用用户进行身份验证。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/instagramauth</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:14 GMT</pubDate>
+      <title>Q币手势戈多</title>
+      <link>https://www.opensourceagenda.com/projects/q-dollar-gesture-godot</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/q-dollar-gesture-godot</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>高级炼金术</title>
-      <link>https://www.opensourceagenda.com/projects/advanced-alchemy</link>
-      <description><![CDATA[精心制作、经过彻底测试、优化的 SQLAlchemy 配套库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/advanced-alchemy</guid>
-      <pubDate>Sat, 20 Apr 2024 09:12:14 GMT</pubDate>
+      <title>兹格反射者</title>
+      <link>https://www.opensourceagenda.com/projects/zygisk-reflutter</link>
+      <description><![CDATA[基于 Zygisk 的 reFlutter ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zygisk-reflutter</guid>
+      <pubDate>Sat, 20 Apr 2024 12:21:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
