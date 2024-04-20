@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:11:38 GMT</lastBuildDate>
+    <item>
+      <title>我整理了 5 个平台免费试用 Meta AI 的 LLama 3 模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8l5w2/i_compiled_5_platforms_to_try_meta_ais_llama_3/</link>
+      <description><![CDATA[ 由   提交/u/jcgm93  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8l5w2/i_compiled_5_platforms_to_try_meta_ais_llama_3/</guid>
+      <pubDate>Sat, 20 Apr 2024 08:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合 UI 集成的解决方案是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8l3u8/whats_the_most_suitable_solution_for_ui/</link>
+      <description><![CDATA[ 由   提交/u/TurbulentAd8020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8l3u8/whats_the_most_suitable_solution_for_ui/</guid>
+      <pubDate>Sat, 20 Apr 2024 08:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[教程] WGSL中的前缀和算法概述</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8k5e8/tutorial_overview_on_prefixsum_algorithms_in_wgsl/</link>
+      <description><![CDATA[ 由   提交/u/magik_engineer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8k5e8/tutorial_overview_on_prefixsum_algorithms_in_wgsl/</guid>
+      <pubDate>Sat, 20 Apr 2024 07:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>想出售我的代码，在哪里可以出售？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8je1p/want_to_sell_my_code_where_can_i_sell_it/</link>
+      <description><![CDATA[大家好，我有一个网站。它确实有可观的收入。但我想，由于我没有分销和营销技能，我没有接触到足够的大众，因此无法获得足够的收入。  这就是我开始了解白标的时候。所以我决定以 499 美元的价格出售白标许可证和整个代码。有人做过这样的事情吗？请与我分享您的经验。  我是一名机械工程师，在新冠疫情期间学习了网络开发，并制作了一个网站，可以将无聊的屏幕截图变成令人兴奋的图形。  既然我已经找到了一份工作，我将无法全职工作，所以我正在考虑出售代码（而不是品牌）。有谁知道我在哪里可以找到代码的买家。我不想卖品牌，只想卖代码。  这是我过去一年一直在开发的网站https://www.picyard.in  如果您有任何建议，请告诉我。    由   提交/u/metabhai  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8je1p/want_to_sell_my_code_where_can_i_sell_it/</guid>
+      <pubDate>Sat, 20 Apr 2024 06:43:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 协作的人工智能？也许没那么多——Visual Studio 杂志</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8j98g/ai_for_github_collaboration_maybe_not_so_much/</link>
+      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8j98g/ai_for_github_collaboration_maybe_not_so_much/</guid>
+      <pubDate>Sat, 20 Apr 2024 06:34:57 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Figma 要用 Postgres 重新发明轮子？</title>
       <link>https://www.reddit.com/r/programming/comments/1c8ip01/why_has_figma_reinvented_the_wheel_with_postgres/</link>
@@ -20,7 +55,7 @@
       <pubDate>Sat, 20 Apr 2024 04:52:38 GMT</pubDate>
     </item>
     <item>
-      <title>前微软开发人员表示，即使使用超级 PC，Windows 11 的性能也“糟糕得可笑”</title>
+      <title>前微软开发人员表示，即使在性能强劲的 PC 上，Windows 11 的性能也“糟糕得可笑”</title>
       <link>https://www.reddit.com/r/programming/comments/1c8hl8k/former_microsoft_developer_says_windows_11s/</link>
       <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c8hl8k/former_microsoft_developer_says_windows_11s/</guid>
@@ -62,7 +97,7 @@
       <pubDate>Fri, 19 Apr 2024 21:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>OpenKYC</title>
+      <title>开放式KYC</title>
       <link>https://www.reddit.com/r/programming/comments/1c890pn/openkyc/</link>
       <description><![CDATA[ 由   提交/u/Professional_Car6796   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c890pn/openkyc/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/llathreddzg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c890id/build_an_aipowered_blogging_platform_nextjs/</guid>
       <pubDate>Fri, 19 Apr 2024 21:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>摇滚明星开发者是存在的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1c88p68/rockstar_developers_exist/</link>
-      <description><![CDATA[ 由   提交/u/crazeeflapjack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c88p68/rockstar_developers_exist/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎯 设置用 Typescript 编写的 Nodejs 应用程序的更简单方法是什么？需要 5 个步骤</title>
-      <link>https://www.reddit.com/r/programming/comments/1c86y20/what_is_the_easier_way_to_setup_nodejs_app/</link>
-      <description><![CDATA[ 由   提交/u/jsifalda  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c86y20/what_is_the_easier_way_to_setup_nodejs_app/</guid>
-      <pubDate>Fri, 19 Apr 2024 20:25:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 发布人工智能免费课程</title>
-      <link>https://www.reddit.com/r/programming/comments/1c843y2/nvidia_releases_free_courses_on_ai/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c843y2/nvidia_releases_free_courses_on_ai/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用人工智能生成微调数据</title>
-      <link>https://www.reddit.com/r/programming/comments/1c82r3l/generating_finetuned_data_with_ai/</link>
-      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c82r3l/generating_finetuned_data_with_ai/</guid>
-      <pubDate>Fri, 19 Apr 2024 17:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 集成测试：确保稳健性和可靠性</title>
-      <link>https://www.reddit.com/r/programming/comments/1c80jyn/api_integration_testing_ensuring_robustness_and/</link>
-      <description><![CDATA[ 由   提交/u/itsrorymurphy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c80jyn/api_integration_testing_ensuring_robustness_and/</guid>
-      <pubDate>Fri, 19 Apr 2024 16:03:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

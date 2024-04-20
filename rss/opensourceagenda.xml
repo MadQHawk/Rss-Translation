@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:12:18 GMT</lastBuildDate>
     <item>
-      <title>2024 年数据科学家路线图</title>
-      <link>https://www.opensourceagenda.com/projects/data-scientist-roadmap2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/data-scientist-roadmap2024</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:59 GMT</pubDate>
+      <title>忍者</title>
+      <link>https://www.opensourceagenda.com/projects/zmninja</link>
+      <description><![CDATA[使用 ZoneMinder 进行家庭/商业安全监控的高性能、跨平台离子应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zmninja</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>MLX剪辑</title>
-      <link>https://www.opensourceagenda.com/projects/mlx-clip</link>
-      <description><![CDATA[使用 Apple 的 MLX 库在 Apple Silicon 上使用 CLIP 的简单包]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mlx-clip</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:59 GMT</pubDate>
+      <title>ZoneMinder Zmeventnotification</title>
+      <link>https://www.opensourceagenda.com/projects/zoneminder-zmeventnotification</link>
+      <description><![CDATA[基于机器学习的安全 Websocket 和 MQTT 的 ZoneMinder 事件通知服务器 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zoneminder-zmeventnotification</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>索利比</title>
-      <link>https://www.opensourceagenda.com/projects/solibee</link>
-      <description><![CDATA[可定制的solid.js组件集合]]></description>
-      <guid>https://www.opensourceagenda.com/projects/solibee</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:59 GMT</pubDate>
+      <title>三力测试</title>
+      <link>https://www.opensourceagenda.com/projects/sanic-testing</link>
+      <description><![CDATA[测试 Sanic 客户端]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sanic-testing</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>BurpAPI查找器</title>
-      <link>https://www.opensourceagenda.com/projects/burpapifinder</link>
-      <description><![CDATA[攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/burpapifinder</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:58 GMT</pubDate>
+      <title>Sanic Mongodb 扩展</title>
+      <link>https://www.opensourceagenda.com/projects/sanic-mongodb-extension</link>
+      <description><![CDATA[MongoDB 带有 µMongo 支持 Sanic 框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sanic-mongodb-extension</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>咨询网站</title>
-      <link>https://www.opensourceagenda.com/projects/consult-web</link>
-      <description><![CDATA[Emacs 内强大的 Web 和 Omni 搜索]]></description>
-      <guid>https://www.opensourceagenda.com/projects/consult-web</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:58 GMT</pubDate>
+      <title>蜜蜂日志机器人</title>
+      <link>https://www.opensourceagenda.com/projects/apiad-logbot</link>
+      <description><![CDATA[一个 Telegram 机器人，您可以从 Python 登录并管理长时间运行的进程。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/apiad-logbot</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>EmNudge 日志管</title>
-      <link>https://www.opensourceagenda.com/projects/emnudge-logpipe</link>
-      <description><![CDATA[检查您的日志]]></description>
-      <guid>https://www.opensourceagenda.com/projects/emnudge-logpipe</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:58 GMT</pubDate>
+      <title>简单图像分类器</title>
+      <link>https://www.opensourceagenda.com/projects/simple-image-classifier</link>
+      <description><![CDATA[使用tensorflow和sanic的简单图像分类器微服务]]></description>
+      <guid>https://www.opensourceagenda.com/projects/simple-image-classifier</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>Damianricobelli Shadcn 电话输入</title>
-      <link>https://www.opensourceagenda.com/projects/damianricobelli-shadcn-phone-input</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/damianricobelli-shadcn-phone-input</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:57 GMT</pubDate>
+      <title>改进的 API</title>
+      <link>https://www.opensourceagenda.com/projects/revanced-api</link>
+      <description><![CDATA[🚀 ReVanced 的 JSON API]]></description>
+      <guid>https://www.opensourceagenda.com/projects/revanced-api</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>腾讯QQGYLab ComfyUI ELLA</title>
-      <link>https://www.opensourceagenda.com/projects/tencentqqgylab-comfyui-ella</link>
-      <description><![CDATA[ComfyUI 的 ELLA 节点]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tencentqqgylab-comfyui-ella</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:57 GMT</pubDate>
+      <title>苦的</title>
+      <link>https://www.opensourceagenda.com/projects/pait</link>
+      <description><![CDATA[Pait(π tool) - Python 现代 API 工具，更容易使用 Web 框架/编写 API 路由]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pait</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>执行DD</title>
-      <link>https://www.opensourceagenda.com/projects/kexecdd</link>
-      <description><![CDATA[使用 KSecDD 驱动程序管理内核代码执行]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kexecdd</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:57 GMT</pubDate>
+      <title>三力分机</title>
+      <link>https://www.opensourceagenda.com/projects/sanic-ext</link>
+      <description><![CDATA[扩展 Sanic 功能]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sanic-ext</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>二进制贪婪网格演示</title>
-      <link>https://www.opensourceagenda.com/projects/binary-greedy-mesher-demo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/binary-greedy-mesher-demo</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:57 GMT</pubDate>
+      <title>萨姆·费奇</title>
+      <link>https://www.opensourceagenda.com/projects/samfetch</link>
+      <description><![CDATA[一个 Web API，可轻松下载三星固件，无需标头、授权或任何您不想要的内容。&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/samfetch</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>多利巴尔基金会</title>
-      <link>https://www.opensourceagenda.com/projects/dolibarr-foundation</link>
-      <description><![CDATA[Dolibarr 基金会资源（由 Dolibarr 基金会董事会团队管理的存储库）。该存储库包含 Dolibarr 基金会为 Dolibarr 社区提供的所有资源（图像、徽标、模板、幻灯片等）。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dolibarr-foundation</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:56 GMT</pubDate>
+      <title>实用工具Py</title>
+      <link>https://www.opensourceagenda.com/projects/utilmeta-py</link>
+      <description><![CDATA[UtilMeta - 用于 Python 中 API 开发的渐进式元框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/utilmeta-py</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>意图运算符</title>
-      <link>https://www.opensourceagenda.com/projects/intents-operator</link>
-      <description><![CDATA[管理网络策略、AWS、GCP 和 Azure IAM 策略、Istio 授权策略和 Kafka ACL轻松构建 Kubernetes 集群。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/intents-operator</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:56 GMT</pubDate>
+      <title>Sanic Jinja2</title>
+      <link>https://www.opensourceagenda.com/projects/sanic-jinja2</link>
+      <description><![CDATA[Jinja2 对 sanic 的支持]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sanic-jinja2</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>GTA 5 菜单</title>
-      <link>https://www.opensourceagenda.com/projects/gta-5-menu</link>
-      <description><![CDATA[GTA5 online、GTA V、GTA 5、Grand The Auto Five Mod 菜单、Hack、作弊 UFI 驱动程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gta-5-menu</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:56 GMT</pubDate>
+      <title>否定</title>
+      <link>https://www.opensourceagenda.com/projects/deny</link>
+      <description><![CDATA[Python 授权库 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/deny</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>多力机器人</title>
-      <link>https://www.opensourceagenda.com/projects/dolidroid</link>
-      <description><![CDATA[DoliDroid 是 Dolibarr ERP CRM 的免费 Android 客户端。它不是一个独立的程序。它是使用在线托管 Dolibarr ERP CRM 的前端 https://www.dolibarr.org]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dolidroid</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:55 GMT</pubDate>
+      <title>Instagram 认证</title>
+      <link>https://www.opensourceagenda.com/projects/instagramauth</link>
+      <description><![CDATA[一个 Android 库，可让您轻松使用 Instagram 对应用用户进行身份验证。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/instagramauth</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>多利模组</title>
-      <link>https://www.opensourceagenda.com/projects/dolimods</link>
-      <description><![CDATA[由 DoliCloud.com 团队开发的 Dolibarr ERP CRM 模块存储库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dolimods</guid>
-      <pubDate>Sat, 20 Apr 2024 06:15:55 GMT</pubDate>
+      <title>高级炼金术</title>
+      <link>https://www.opensourceagenda.com/projects/advanced-alchemy</link>
+      <description><![CDATA[精心制作、经过彻底测试、优化的 SQLAlchemy 配套库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/advanced-alchemy</guid>
+      <pubDate>Sat, 20 Apr 2024 09:12:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
