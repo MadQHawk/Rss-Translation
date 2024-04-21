@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 18:17:04 GMT</lastBuildDate>
     <item>
-      <title>我的以太坊交易机器人</title>
-      <link>https://www.opensourceagenda.com/projects/my-eth-tradingbot</link>
-      <description><![CDATA[我的以太坊 bnb 交易机器人备份]]></description>
-      <guid>https://www.opensourceagenda.com/projects/my-eth-tradingbot</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:56 GMT</pubDate>
+      <title>Stefanwille 吃豆人反应</title>
+      <link>https://www.opensourceagenda.com/projects/stefanwille-pacman-react</link>
+      <description><![CDATA[一款 Pac Man 游戏，使用 React、TypeScript、MobX、styled-components 和X状态]]></description>
+      <guid>https://www.opensourceagenda.com/projects/stefanwille-pacman-react</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>摩尔管道</title>
-      <link>https://www.opensourceagenda.com/projects/molpipeline</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/molpipeline</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:55 GMT</pubDate>
+      <title>超级棒的前端样板</title>
+      <link>https://www.opensourceagenda.com/projects/the-superawesome-frontend-boilerplate</link>
+      <description><![CDATA[我的 Vue 前端启动器，包含测试、CI/CD、后端 - 一切都已 Docker 化，本地甚至不需要nodejs！还提供大型前端项目的样式指南]]></description>
+      <guid>https://www.opensourceagenda.com/projects/the-superawesome-frontend-boilerplate</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>大阪卡</title>
-      <link>https://www.opensourceagenda.com/projects/osaka-card</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/osaka-card</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:55 GMT</pubDate>
+      <title>Xstate 奇才</title>
+      <link>https://www.opensourceagenda.com/projects/xstate-wizards</link>
+      <description><![CDATA[使用状态机和派生的 Actor 简化海量数据收集 UI。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xstate-wizards</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>内在的一切</title>
-      <link>https://www.opensourceagenda.com/projects/intrinsicanything</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/intrinsicanything</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:55 GMT</pubDate>
+      <title>长者形态</title>
+      <link>https://www.opensourceagenda.com/projects/elderform</link>
+      <description><![CDATA[💪🏽 表单创建变得简单，由状态机支持]]></description>
+      <guid>https://www.opensourceagenda.com/projects/elderform</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>有趣的标志</title>
-      <link>https://www.opensourceagenda.com/projects/fun-logos</link>
-      <description><![CDATA[徽标...？]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fun-logos</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:54 GMT</pubDate>
+      <title>X状态忍者</title>
+      <link>https://www.opensourceagenda.com/projects/xstate-ninja</link>
+      <description><![CDATA[XState 状态机的 Devtool]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xstate-ninja</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>二醇</title>
-      <link>https://www.opensourceagenda.com/projects/diol</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/diol</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:54 GMT</pubDate>
+      <title>皮尼娅·克斯斯塔特</title>
+      <link>https://www.opensourceagenda.com/projects/pinia-xstate</link>
+      <description><![CDATA[将您的 xstate 状态机放入全局 pinia 存储中。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pinia-xstate</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>闪脸</title>
-      <link>https://www.opensourceagenda.com/projects/flashface</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flashface</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:54 GMT</pubDate>
+      <title>X系统</title>
+      <link>https://www.opensourceagenda.com/projects/xsystem</link>
+      <description><![CDATA[基于 XState 的 Actor 系统的构建块。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xsystem</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>米克斯Vlm</title>
-      <link>https://www.opensourceagenda.com/projects/mlx-vlm</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mlx-vlm</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:54 GMT</pubDate>
+      <title>Eslint 插件 Xstate</title>
+      <link>https://www.opensourceagenda.com/projects/eslint-plugin-xstate</link>
+      <description><![CDATA[ESLint 插件，用于在使用 XState 时检查常见错误并实施良好实践。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eslint-plugin-xstate</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>绳索nvim</title>
-      <link>https://www.opensourceagenda.com/projects/cordnvim</link>
-      <description><![CDATA[🚀 用 Rust 编写的 Neovim 的 Discord Rich Presence 插件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cordnvim</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:53 GMT</pubDate>
+      <title>Xstate代码生成器</title>
+      <link>https://www.opensourceagenda.com/projects/xstate-codegen</link>
+      <description><![CDATA[在 XState 中实现 100% TS 类型安全的代码生成工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xstate-codegen</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>PixelGunCheat内部</title>
-      <link>https://www.opensourceagenda.com/projects/pixelguncheatinternal</link>
-      <description><![CDATA[C++ 中的 Pixel Gun 3D 内部作弊]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pixelguncheatinternal</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:53 GMT</pubDate>
+      <title>芝头</title>
+      <link>https://www.opensourceagenda.com/projects/zhithead</link>
+      <description><![CDATA[Zhithead 是为浏览器制作的原始纸牌游戏的克隆]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zhithead</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>温菲德尔传感器</title>
-      <link>https://www.opensourceagenda.com/projects/winfidel-sensor</link>
-      <description><![CDATA[无线内嵌细丝直径估算器低成本传感器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/winfidel-sensor</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:53 GMT</pubDate>
+      <title>阿努比亚斯博士</title>
+      <link>https://www.opensourceagenda.com/projects/anubias-doc</link>
+      <description><![CDATA[Anubias 文档]]></description>
+      <guid>https://www.opensourceagenda.com/projects/anubias-doc</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>差异SHEG</title>
-      <link>https://www.opensourceagenda.com/projects/diffsheg</link>
-      <description><![CDATA[[CVPR&#39;24] DiffSHEG：基于扩散的实时语音驱动整体 3D 表达方法和手势生成]]></description>
-      <guid>https://www.opensourceagenda.com/projects/diffsheg</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:53 GMT</pubDate>
+      <title>X状态树</title>
+      <link>https://www.opensourceagenda.com/projects/xstate-tree</link>
+      <description><![CDATA[使用 xstate 和 React 通过 Actor 构建 UI]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xstate-tree</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>苗条食谱</title>
-      <link>https://www.opensourceagenda.com/projects/svelte-cookbook</link>
-      <description><![CDATA[社区构建的资源，用于高效的 Svelte 开发]]></description>
-      <guid>https://www.opensourceagenda.com/projects/svelte-cookbook</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:53 GMT</pubDate>
+      <title>脉轮 Ui Zag</title>
+      <link>https://www.opensourceagenda.com/projects/chakra-ui-zag</link>
+      <description><![CDATA[用于构建可访问的设计系统和 UI 组件的有限状态机。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/chakra-ui-zag</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>Facefusion Onnxrun</title>
-      <link>https://www.opensourceagenda.com/projects/facefusion-onnxrun</link>
-      <description><![CDATA[使用onnxruntime部署facefusion换脸，包含C++和Python两个版本的程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/facefusion-onnxrun</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:52 GMT</pubDate>
+      <title>利布西</title>
+      <link>https://www.opensourceagenda.com/projects/liblucy</link>
+      <description><![CDATA[核心 Lucy 编译器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/liblucy</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>Zruncho3d 轻推</title>
-      <link>https://www.opensourceagenda.com/projects/zruncho3d-nudge</link>
-      <description><![CDATA[自动喷嘴对齐，变得简单]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zruncho3d-nudge</guid>
-      <pubDate>Sun, 21 Apr 2024 15:12:52 GMT</pubDate>
+      <title>Statelyai Xstate Viz</title>
+      <link>https://www.opensourceagenda.com/projects/statelyai-xstate-viz</link>
+      <description><![CDATA[XState 机器的可视化工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/statelyai-xstate-viz</guid>
+      <pubDate>Sun, 21 Apr 2024 18:17:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 18:12:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 升级雷达对于希望获得最优惠价格的 Android 用户来说是一个游戏规则改变者 [...]</title>
-      <link>https://t.me/hn_summary/85648</link>
-      <description><![CDATA[Show HN：我做了一个工具来寻找最佳购买时机你的新手机
-对于希望在下一部手机上获得最优惠价格的 Android 用户来说，升级雷达是一个游戏规则改变者。我们精心策划的见解揭示了最佳购买时间，无论是在黑色星期五促销期间、节后降价期间，还是在新车型发布之前。借助升级雷达，告别多付钱，开启智能购物。]]></description>
-      <guid>https://t.me/hn_summary/85648</guid>
-      <pubDate>Sun, 21 Apr 2024 15:11:49 GMT</pubDate>
+      <title>《科学》杂志上发表的新研究挑战了年龄会减慢新陈代谢的观点，揭示了 [...]</title>
+      <link>https://t.me/hn_summary/85685</link>
+      <description><![CDATA[新研究表明，减缓新陈代谢的不是年龄
+发表在《科学》杂志上的新研究挑战了年龄会减慢新陈代谢的观点，揭示了 20 岁至 60 岁之间的静息代谢率保持稳定。生活方式因素，而不是年龄，在新陈代谢中发挥着关键作用。久坐行为会显着降低脂肪代谢，但每天走 8,500 步等简单活动会有帮助。高强度间歇训练和力量训练可以有效促进新陈代谢。富含蛋白质的饮食和适当的水分也发挥了作用。充足的睡眠对于新陈代谢和整体健康至关重要。通过改变生活方式，您可以控制新陈代谢并改善您的健康。]]></description>
+      <guid>https://t.me/hn_summary/85685</guid>
+      <pubDate>Sun, 21 Apr 2024 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>你应该做什么？</title>
-      <link>https://t.me/hn_summary/85647</link>
-      <description><![CDATA[你应该做什么？ （假设您想以此谋生。）
-在这篇博文中，我们探讨了能力、兴趣和市场的基本因素，以缩写 AIM 表示。中心思想是找到你所擅长的事情、你喜欢做的事情以及人们为了高效、快乐和谋生而购买的东西的交集。作者强调了在技能、热情和市场需求之间找到平衡以维持艺术或任何其他领域职业的重要性。这个概念类似于日本的“ikigai”理念，其中包括寻找生活目标的更广泛视角。随着兴趣和技能的发展，定期重新评估自己的最佳位置至关重要。]]></description>
-      <guid>https://t.me/hn_summary/85647</guid>
-      <pubDate>Sun, 21 Apr 2024 15:07:45 GMT</pubDate>
+      <title>在 unstructured.io，我们深入研究了 LLM 摄取和预处理的复杂性，解锁 [...]</title>
+      <link>https://t.me/hn_summary/85684</link>
+      <description><![CDATA[了解 LLM 摄取和预处理的重要性
+在 unstructured.io，我们深入研究了 LLM 摄取的复杂性和预处理，为现代组织释放非结构化数据的潜力。我们的重点是通过将非结构化和半结构化数据转换为 RAG 就绪格式，使数据可供法学硕士使用。我们强调清理、分块、总结和生成嵌入以优化 LLM 应用程序数据的重要性。我们独特的优势在于支持广泛的文件类型，提供低延迟管道，检测多种元素类型，并确保准确的读取顺序和层次结构。通过我们全面的数据预处理方法，我们的目标是彻底改变组织利用非结构化数据的方式。 （根据 70% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85684</guid>
+      <pubDate>Sun, 21 Apr 2024 18:11:21 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了 VSCode 中的错误和缓慢的性能，我决定创建自己的文本编辑器。</title>
-      <link>https://t.me/hn_summary/85646</link>
-      <description><![CDATA[博客：我无法忍受使用 VSCode，所以我自己编写了
-厌倦了 VSCode 中的错误和缓慢的性能，我决定创建自己的文本编辑器。凭借 GDB 支持、快如闪电的变量显示以及即使处理大量文件也能流畅编辑，我的编辑器旨在解决常见的问题。通过实现 LSP 和 DAP 支持，我努力使编码和调试变得无缝。受撤消调试器的启发，我添加了一项功能来轻松跟踪变量修改。虽然仍处于早期开发阶段，但我的编辑器为那些寻求更快、更高效编码体验的人提供了独特的选择。看看吧，让我知道你的想法！]]></description>
-      <guid>https://t.me/hn_summary/85646</guid>
-      <pubDate>Sun, 21 Apr 2024 14:59:39 GMT</pubDate>
+      <title>如何认识专家？</title>
+      <link>https://t.me/hn_summary/85683</link>
+      <description><![CDATA[如何识别专家？
+Daniel Lemire 在他的博客文章中讨论了根据经验认识真正专业知识的重要性。他强调，专家是反复解决特定问题并有成功记录的人。勒米尔警告不要将专业知识与地位象征混淆，并强调真正的专业知识是有价值且有弹性的。他鼓励个人解决实际问题以获得真正的专业知识，而不是依赖讲座或视频。勒米尔的见解挑战了社会规范，并为实践技能和解决问题能力的价值提供了令人耳目一新的视角。]]></description>
+      <guid>https://t.me/hn_summary/85683</guid>
+      <pubDate>Sun, 21 Apr 2024 18:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>肯塔基州立大学战胜爱荷华州立大学，在 Big 12 联盟中排名第一，排名上升至第 10 [...]</title>
-      <link>https://t.me/hn_summary/85645</link>
-      <description><![CDATA[FineWeb：网络提供的最优质数据的 15T 代币&lt; /a&gt;
-标题：K-State 进入 Big 12 排名第一，KU 排名下降
-网站：1350kman.com
-肯塔基州立大学战胜爱荷华州立大学，在 Big 12 大学中排名第一，在美联社民意调查中上升至第 10 位。与此同时，KU 在亏损后跌至第 14 位。俄克拉荷马州立大学以五连胜攀升至第 17 位。即将到来的 K-State 和 KU 之间的向日葵对决备受期待。通过发送短信 EMAW 至 88474 与 KSU 保持联系。有关 K-State 足球和篮球的深入报道，请访问 PowerCatGameday.com。 （根据故事文本的 5% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85645</guid>
-      <pubDate>Sun, 21 Apr 2024 14:57:05 GMT</pubDate>
+      <title>[媒体] 在“我应该热爱生物学”中，詹姆斯·萨默斯反思了他错失的机会 [...]</title>
+      <link>https://t.me/hn_summary/85682</link>
+      <description><![CDATA[我应该喜欢生物学
+在《我应该热爱生物学》一书中，詹姆斯·萨默斯反思了由于教科书中枯燥的事实陈述而错失的欣赏生物学奇迹的机会。他强调了应该向学生灌输的兴奋和惊奇，将生物学比作一艘华丽的宇宙飞船降落在你的后院。萨默斯深入研究了生物学的复杂性，将其比作具有自下而上物理性质的计算。他强调提出问题和参与实践项目以真正理解和欣赏该主题的重要性。萨默斯对高中生物教育中错失的机会感到遗憾，并鼓励采用更具吸引力和好奇心驱动的方法来学习生物学。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85682</guid>
+      <pubDate>Sun, 21 Apr 2024 18:07:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 著名社会心理学家乔纳森·海特 (Jonathan Haidt) 对 [...]</title>
-      <link>https://t.me/hn_summary/85644</link>
-      <description><![CDATA[乔纳森·海特希望你拿走孩子的手机 
-著名社会心理学家乔纳森·海特对智能手机和社交媒体对当今年轻人心理健康的影响敲响了警钟。他的书《焦虑的一代》引起了家长们的共鸣，他们看到自己的孩子沉迷于 TikTok 和 Instagram 等应用程序。海特认为，科技公司通过创造令人上瘾的内容来分散孩子们对现实世界互动的注意力，从而“重塑了童年”。他呼吁限制智能手机的使用，主张高中之前不要使用智能手机，十六岁之前不要使用社交媒体。 Haidt 的研究显示，从 2012 年开始，青少年心理健康状况急剧下降，恰逢智能手机和社交媒体的兴起。]]></description>
-      <guid>https://t.me/hn_summary/85644</guid>
-      <pubDate>Sun, 21 Apr 2024 14:40:56 GMT</pubDate>
+      <title>[媒体] 在这篇有关 HTML 中 void 元素的文章中，我们探讨了为什么某些元素没有 clos [...]</title>
+      <link>https://t.me/hn_summary/85681</link>
+      <description><![CDATA[少即是多：了解 HTML 中的 void 元素 
+在这篇关于 HTML 中的 void 元素的文章中，我们探讨了为什么某些元素没有结束标记并被称为 void 元素。讨论深入探讨了是否在 void 元素中添加尾部斜杠，网上关于是否有必要存在一些争议。该文章解释说，斜杠是可选的，但如果使用不当可能会导致问题。还涉及 XHTML 和 HTML5 的历史背景。最终，作者建议使用适合您的选项，无论是否包含斜杠。文章以一个关于  标签的有趣事实作为结尾，并鼓励读者订阅新闻通讯以获取更多内容。]]></description>
+      <guid>https://t.me/hn_summary/85681</guid>
+      <pubDate>Sun, 21 Apr 2024 18:05:09 GMT</pubDate>
     </item>
     <item>
-      <title>拜伦勋爵，最初的浪漫主义万人迷，不仅是一位重要的诗人，也是 [...]</title>
-      <link>https://t.me/hn_summary/85643</link>
-      <description><![CDATA[重新审视原始浪漫主义万人迷拜伦勋爵
-拜伦勋爵，最初的浪漫主义万人迷，不仅是一位重要的诗人，也是最好的英语书信作家之一。两本新书，安德鲁·斯托弗（Andrew Stauffer）的《拜伦：十封信的一生》和菲奥娜·斯塔福德（Fiona Stafford）的《拜伦游记：诗歌、信件和日记》，为这位神秘诗人提供了新的视角。拜伦的丑闻，包括与他同父异母的妹妹的丑闻，以及他对社会规范的挑衅态度，使他成为社会的弃儿。他的遗产在拜伦式英雄原型中得以延续，影响着从大仲马到现代浪漫小说的文学人物。尽管他的个人生活颇受争议，但拜伦的诗歌仍然具有影响力和讽刺性，展示了他巧妙的韵律和对社会的诙谐评论。]]></description>
-      <guid>https://t.me/hn_summary/85643</guid>
-      <pubDate>Sun, 21 Apr 2024 14:37:51 GMT</pubDate>
+      <title>[媒体] 纽约改善互联网接入的倡导者正在庆祝预算修正案 [...]</title>
+      <link>https://t.me/hn_summary/85680</link>
+      <description><![CDATA[反市政宽带预算修正案在纽约被否决
+纽约改善互联网接入的倡导者正在庆祝一项可能阻碍市政宽带项目的预算修正案从州议会的预算法案中删除。由代表 Charter Spectrum 的游说者推动的拟议修正案旨在限制对“仅无服务和服务不足的地区”的项目的拨款，从而降低市政宽带的财务可行性。修正案的失败被视为社区选择和宽带市场竞争的胜利。然而，针对大型垄断提供商的斗争仍在继续，并不断努力维护每个社区控制其宽带未来的自由。]]></description>
+      <guid>https://t.me/hn_summary/85680</guid>
+      <pubDate>Sun, 21 Apr 2024 18:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>客户服务怎么变得这么糟糕？</title>
-      <link>https://t.me/hn_summary/85642</link>
-      <description><![CDATA[客户服务怎么变得这么糟糕？
-在 FT.com 上的这篇文章中，作者深入探讨了这种下降客户服务并探讨其背后的原因。从漫长的等待时间到自动响应，客户对他们收到的服务水平感到越来越沮丧。作者强调了围绕将客户服务外包给其他国家的争议，以及当今客户服务互动中令人惊讶地缺乏同理心和个人接触的情况。本文通过专家分析和行业见解，阐明了客户服务如何达到这一点，以及公司可以采取哪些措施来改进这一点。]]></description>
-      <guid>https://t.me/hn_summary/85642</guid>
-      <pubDate>Sun, 21 Apr 2024 14:36:36 GMT</pubDate>
+      <title>[媒体]在最近的一篇文章中，我讨论了“恶意信息”的概念，它指的是真实的[...]</title>
+      <link>https://t.me/hn_summary/85679</link>
+      <description><![CDATA[针对“恶意信息”的讨伐明确针对难以忽视的真相 
+在最近的一篇文章中，我讨论了“虚假信息”的概念，它指的是挑战公共卫生官员和专家叙述的真实但不方便的信息。此类信息现在成为社交媒体平台、政府资助的组织和联邦官员联盟的目标，他们正在共同努力压制他们认为对公共健康或民主构成威胁的内容。这种合作引发了人们对言论自由和政府审查制度的担忧，因为政府官员正在向社交媒体公司施压，要求其删除某些内容或用户。已经提起联邦诉讼，质疑这种审查制度，并且可以采取措施防止政府干预在线言论。]]></description>
+      <guid>https://t.me/hn_summary/85679</guid>
+      <pubDate>Sun, 21 Apr 2024 18:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 旧像素移位的负载。</title>
-      <link>https://t.me/hn_summary/85641</link>
-      <description><![CDATA[旧像素移位的负载。为什么我不喜欢高分辨率模式
-www.dpreview.com 上内容的作者表示强烈反对相机中的高分辨率多重拍摄模式。他们认为这些模式通常不切实际、速度缓慢且提供的好处有限，尤其是在现实世界的拍摄场景中。作者批评了不同相机制造商的不同实现方式，并强调了使用这些模式的挑战和最小的收益。他们还讨论了手持式连拍模式与三脚架模式相比的局限性。尽管作者个人不喜欢这些功能，但作者承认一些用户可能会发现它们有用并尊重他们的偏好。最后，作者在选择相机功能时强调个人喜好和实用性。]]></description>
-      <guid>https://t.me/hn_summary/85641</guid>
-      <pubDate>Sun, 21 Apr 2024 14:26:30 GMT</pubDate>
+      <title>将我的网站降级为 GitHub 页面；</title>
+      <link>https://t.me/hn_summary/85678</link>
+      <description><![CDATA[将我的网站降级为 GitHub 页面；高兴极了
+Bill Wear，也被称为“stormrider”，已经将他的网站降级为 GitHub 页面，他高兴极了。 Bill 是 UNIX、Linux、emacs 和 org-mode 的粉丝，喜欢简单的生活方式，避免社交媒体和电视。他的个人网站提供了有关他的极客准则、信条以及在南方腹地一栋拥有 67 年历史的房子里的生活的见解。比尔专注于深度工作并培养对自己兴趣的更深入的投入。和他一起踏上简单之旅，关注 billwear.github.io&lt; /a&gt;.]]></description>
+      <guid>https://t.me/hn_summary/85678</guid>
+      <pubDate>Sun, 21 Apr 2024 17:48:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在奥森·威尔斯的《世界大战》播出 75 周年之际，PBS 的一部新纪录片 [...]</title>
-      <link>https://t.me/hn_summary/85640</link>
-      <description><![CDATA[世界大战恐慌神话（2013）
-在奥森·威尔斯的《世界大战》播出 75 周年之际，PBS 的一部新纪录片和 NPR 的 Radiolab 延续了该剧引起的大规模恐慌的神话。然而，研究表明，报纸试图抹黑广播，夸大了恐慌情绪。只有一小部分听众被广播愚弄了，大多数听众都收听了其他节目。这部纪录片没有承认最近的学术质疑恐慌的规模，而是强调了神话的吸引力。尽管有耸人听闻的报道，但并没有发生广泛的恐慌，哥伦比亚广播公司和威尔斯也没有受到制裁。这一神话的持续存在反映了社会对大众媒体和恐惧的态度。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85640</guid>
-      <pubDate>Sun, 21 Apr 2024 13:48:15 GMT</pubDate>
+      <title>隆重推出 Kuberian，一款革命性的 Kubernetes 源代码搜索引擎！</title>
+      <link>https://t.me/hn_summary/85677</link>
+      <description><![CDATA[显示 HN：Kuberian，Kubernetes 源代码的搜索引擎&lt; /a&gt;
+隆重推出 Kuberian，一款革命性的 Kubernetes 源代码搜索引擎！ DevOps 工程师和 SRE 现在可以使用自然语言查询轻松找到 Kubernetes 中的特定功能。 Kuberian 由 Llama 2 7B 和全 MiniLM-L6-v2 提供支持，可提供闪电般快速的搜索结果。告别无休止的滚动，迎接高效的代码探索。今天就尝试一下 Kuberian，体验 Kubernetes 代码搜索的未来。 🚀🚀🤞🍀🌊🔎⎈]]></description>
+      <guid>https://t.me/hn_summary/85677</guid>
+      <pubDate>Sun, 21 Apr 2024 17:36:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该内容的作者表达了他们对编程行业的失望，h [...]</title>
-      <link>https://t.me/hn_summary/85639</link>
-      <description><![CDATA[我喜欢编程，但我讨厌编程行业&lt; br/&gt;
-该内容的作者表达了他们对编程行业的失望，强调了缺乏有意义的工作以及在不质疑其目的的情况下大量生产代码的压力。他们批评初创公司和老牌科技公司将利润置于创新和社会影响之上。作者渴望由真正的社会需求驱动的工程工作，并重视批判性思维而不是无意识的编码。尽管他们的信仰感到孤立，但他们希望找到志同道合的人来为有意义和有目的的工程工作创造一个空间。这些内容挑战了行业规范，并呼吁转向更具道德和影响力的做法。]]></description>
-      <guid>https://t.me/hn_summary/85639</guid>
-      <pubDate>Sun, 21 Apr 2024 12:35:52 GMT</pubDate>
+      <title>[媒体] 旧金山的租户正在通过器官利用他们的权力，这是一项开创性的举措 [...]</title>
+      <link>https://t.me/hn_summary/85676</link>
+      <description><![CDATA[租户迫使湾区房东谈判 
+旧金山的租户通过与房东集体组织和谈判来利用自己的权力，取得了诸如租金退款和维护改善等重大胜利，这是一项开创性的举措。 《家庭工会条例》是同类立法中的首创，保障租户的组织权利，并规定房东有义务与租户协会进行谈判。这项立法有可能改变住房部门的权力动态，正如伯克利所提议的类似投票措施一样。工会参与支持这些举措反映出租金上涨和住房问题日益成为有组织劳工的核心问题。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85676</guid>
+      <pubDate>Sun, 21 Apr 2024 17:33:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
