@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:22:49 GMT</lastBuildDate>
-    <item>
-      <title>根据以下信息制作决策树</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9gkhk/make_a_decision_tree_based_on_the_belowmentioned/</link>
-      <description><![CDATA[[~用例 2：Adobe Systems Incorporated 的营销分析平台~]()   [~公司背景：~]()   Adobe Systems Incorporated  是一家跨国软件公司，以其数字营销和媒体解决方案而闻名，包括 Adob​​e Analytics、Adobe Experience Cloud 和 Adob​​e Marketing Cloud。 [~项目概述:~]()   Adobe Marketing Cloud 是一套营销分析和自动化工具，使企业能够分析客户数据、个性化营销活动并跨多个渠道优化客户体验。  [~DMP 的应用：~]()   数据收集： 方法：从各种来源收集数据，包括使用 Adob​​e Analytics 标签和数据连接器的网站、移动应用程序、社交媒体平台和离线渠道。 质量保证：通过实时数据验证检查和异常检测算法来识别和纠正数据，确保数据质量差异。 数据存储和组织： 存储基础设施：Adobe 利用基于云的数据存储基础设施，可水平扩展以适应数据量和速度。客户生成的营销数据。 组织策略：使用 Adob​​e Experience Platform 将数据组织成结构化数据集，并根据特定业务用例和报告要求定制数据架构和分类。  数据文档和元数据： 全面的文档：每个数据集附带详细文档，包括数据定义、变量映射和数据转换过程。 元数据质量：元数据富含业务背景和数据沿袭信息，以促进营销分析师和数据科学家发现、探索和解释数据。 数据访问和共享： &lt; p&gt;访问控制：基于角色的访问控制和数据治理策略限制对敏感客户数据的访问，并确保遵守数据隐私法规（例如 GDPR、CCPA）。 数据共享机制：安全数据共享机制使营销团队和外部合作伙伴能够访问和分析聚合的匿名数据集，以进行营销活动优化和受众细分。 数据分析和处理： 可扩展处理基础设施：Adobe 利用分布式计算技术和内存处理来支持实时分析和机器学习算法，以进行营销归因和预测建模。 分析再现性：分析工作流程使用 Adob​​e Analytics 进行版本控制和记录工作区，使营销人员能够在不同的营销活动和渠道中重现和验证结果。 道德和法律注意事项： 道德合规性：Adobe 遵守道德准则和负责任的数据使用和营销实践的最佳实践，确保数据收集和分析的透明度和公平性。 法律合规性：数据管理实践符合 GDPR 和 CCPA 等全球隐私法规，并制定了数据处理协议与客户和数据处理者一起管理数据处理和处理活动。 数据保存和归档： 保存策略：Adobe 采用数据归档和备份程序来防止数据丢失并确保历史分析和合规性审计的数据完整性和可用性。 存档协议：存档协议包括数据加密、访问控制和保留策略，以保护存档数据并保持符合法规要求和行业标准。 此用例说明了 Adob​​e Systems Incorporated 如何应用 DMP 框架中概述的原则来开发和维护营销分析平台，该平台可有效管理和分析大量客户数据，以推动个性化营销活动和优化跨数字渠道的客户体验。   由   提交/u/No-Count-3041   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9gkhk/make_a_decision_tree_based_on_the_belowmentioned/</guid>
-      <pubDate>Sun, 21 Apr 2024 12:21:45 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Apr 2024 15:12:41 GMT</lastBuildDate>
     <item>
       <title>完全转向开源有什么好处</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9g36u/what_are_the_benefits_of_switching_fully_to/</link>
@@ -29,21 +22,21 @@
     <item>
       <title>Android 的开源 Google 地图替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9da1x/open_source_google_maps_alternatives_for_android/</link>
-      <description><![CDATA[    /u/10MinsForUsername   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/10MinsForUsername   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9da1x/open_source_google_maps_alternatives_for_android/</guid>
       <pubDate>Sun, 21 Apr 2024 08:52:00 GMT</pubDate>
     </item>
     <item>
       <title>维护开源 JavaScript 项目？帮助家属保留通知</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9d67d/maintaining_an_open_source_javascript_project/</link>
-      <description><![CDATA[       由   提交/u/xuhdev  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/xuhdev  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9d67d/maintaining_an_open_source_javascript_project/</guid>
       <pubDate>Sun, 21 Apr 2024 08:44:32 GMT</pubDate>
     </item>
     <item>
       <title>需要帮助的 C++ 开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1c99h0w/c_open_source_projects_that_need_help/</link>
-      <description><![CDATA[我已经有一段时间没有编写任何 C++ 代码了，我想再次提高我的技能。我认为一个好方法是为一些开源项目做出贡献。 那么有哪些 C++ 项目需要一些爱呢？   由   提交/u/vpai924  [链接] [评论]]]></description>
+      <description><![CDATA[我已经有一段时间没有编写任何 C++ 代码了，我想再次提高我的技能。我认为一个好方法是为一些开源项目做出贡献。 那么有哪些 C++ 项目需要一些爱呢？ 编辑：有人知道吗？用于测量、跟踪体育和物理视频中的物体或人物的视频分析工具？   由   提交/u/vpai924  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c99h0w/c_open_source_projects_that_need_help/</guid>
       <pubDate>Sun, 21 Apr 2024 04:42:47 GMT</pubDate>
     </item>
@@ -64,7 +57,7 @@
     <item>
       <title>我构建了一个开源 API 网关来保护前端应用程序中的第三方 API 密钥</title>
       <link>https://www.reddit.com/r/opensource/comments/1c8nmk7/i_built_an_opensource_api_gateway_to_secure/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在从事的项目：开源 API 网关这简化了前端应用程序与第三方 API 的集成，特别是对于那些需要机密处理 API 密钥的 API，而无需开发自己的后端。 网关利用 Express 服务器，可以通过 YAML 文件进行配置。它允许您建立代理端点来管理对外部 API 的请求，将密钥合并到这些请求中以防止它们在前端暴露，并支持各种策略，包括 CORS、JWT 身份验证、API 身份验证和速率限制。 对于那些有兴趣快速查看此项目运行情况的人，您可以开始使用 Node CLI 或Docker 镜像。这两种方法旨在帮助用户以最少的设置将 api 网关集成到他们的项目中。 我渴望收到社区关于此项目的反馈和观点！ GitHub 存储库：https://github.com/gateweaver/gateweaver 示例：https://github.com/gateweaver/gateweaver/tree/main/examples 文档：https://gateweaver.io/docs/getting-started   由   提交/u/eleven- Five   /u/eleven- Five reddit.com/r/opensource/comments/1c8nmk7/i_built_an_opensource_api_gateway_to_secure/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我想分享一个我一直在从事的项目：开源 API 网关这简化了前端应用程序与第三方 API 的集成，特别是对于那些需要对 API 密钥进行保密处理的 API，而无需开发自己的后端。 网关使用 Express 服务器，它可以通过 YAML 文件进行配置。它允许您建立代理端点来管理对外部 API 的请求，将密钥合并到这些请求中以防止它们在前端暴露，并支持各种策略，包括 CORS、JWT 身份验证、API 身份验证和速率限制。 对于那些有兴趣快速查看此项目运行情况的人，您可以开始使用 Node CLI 或Docker 镜像。这两种方法旨在帮助用户以最少的设置将 api 网关集成到他们的项目中。 我渴望收到社区关于此项目的反馈和观点！ GitHub 存储库：https://github.com/gateweaver/gateweaver 示例：https://github.com/gateweaver/gateweaver/tree/main/examples 文档：https://gateweaver.io/docs/getting-started   由   提交/u/eleven- Five   /u/eleven- Five reddit.com/r/opensource/comments/1c8nmk7/i_built_an_opensource_api_gateway_to_secure/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c8nmk7/i_built_an_opensource_api_gateway_to_secure/</guid>
       <pubDate>Sat, 20 Apr 2024 11:23:21 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[非常简单的问题：有 Synthesia.io 的开源替代品吗？一个现成的工具固然很棒，但具有开放权重的模型就足够了。   由   提交/u/TonyGTO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c8gmo9/alternative_to_synthesiaio/</guid>
       <pubDate>Sat, 20 Apr 2024 03:59:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有代理工作流程的 Github 项目模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</link>
+      <description><![CDATA[我制作了一个名为 智能项目附带人工智能工作流程：  自动格式化和标记新问题 检查新 PR 的常见问题、代码质量、格式等 生成代码的工作流程 运行任意任务的工作流程 询问有关代码库的问题的工作流程  &lt; p&gt;您还可以在问题/PR 评论中使用“/pilot”与 AI 代理交谈。 让我知道您的想法！   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</guid>
+      <pubDate>Sat, 20 Apr 2024 02:29:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
