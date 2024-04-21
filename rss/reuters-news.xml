@@ -1,72 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>世界新闻 |最新头条新闻 |路透社</title>
-    <link>https://www.reuters.com/world/</link>
-    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 21 Apr 2024 18:17:38 GMT</lastBuildDate>
+    <title>亚洲新闻 |最新头条新闻 |路透社</title>
+    <link>https://www.reuters.com/world/asia-pacific/</link>
+    <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 21 Apr 2024 21:12:41 GMT</lastBuildDate>
     <item>
-      <title>加沙婴儿从在以色列袭击中丧生的母亲子宫中获救</title>
-      <link>https://www.reuters.com/world/middle-east/baby-gaza-saved-womb-mother-killed-israeli-strike-2024-04-21/</link>
-      <description><![CDATA[巴勒斯坦卫生官员称，以色列在加沙城市拉法发动的袭击中，一名女婴从一名巴勒斯坦人的子宫中产下，她的丈夫和女儿也被杀害。一夜之间，拉法的密集袭击导致 19 人死亡。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/baby-gaza-saved-womb-mother-killed-israeli-strike-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 15:01:45 GMT</pubDate>
+      <title>中国驻加拿大大使离任</title>
+      <link>https://www.reuters.com/world/americas/chinas-ambassador-canada-leaves-his-post-2024-04-21/</link>
+      <description><![CDATA[一位知情人士周日表示，自 2019 年起任职的中国驻加拿大大使丛培武已离任并返回中国，这一消息是在加拿大一名高级外交官访问这个亚洲国家期间传出的。]]></description>
+      <guid>https://www.reuters.com/world/americas/chinas-ambassador-canada-leaves-his-post-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 18:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>以色列总理内塔尼亚胡表示，他将反对对陆军营的任何制裁</title>
-      <link>https://www.reuters.com/world/middle-east/israeli-pm-netanyahu-says-he-will-fight-any-sanctions-army-battalions-2024-04-21/</link>
-      <description><![CDATA[以色列总理本杰明·内塔尼亚胡周日表示，在媒体报道华盛顿计划对一个涉嫌侵犯人权的营采取此类措施后，他将反对对任何以色列军事单位实施制裁。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/israeli-pm-netanyahu-says-he-will-fight-any-sanctions-army-battalions-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 14:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>科索沃北部塞族抵制关于罢免阿尔巴尼亚裔市长的公投</title>
-      <link>https://www.reuters.com/world/europe/north-kosovo-serbs-boycott-referendum-removing-ethnic-albanian-mayors-2024-04-21/</link>
-      <description><![CDATA[该国选举委员会表示，动荡的科索沃北部地区的大多数塞族人抵制了周日举行的当地公投，公投涉及是否罢免四个城市的阿尔巴尼亚族市长，这些市长的任命去年导致了暴力事件。]]></description>
-      <guid>https://www.reuters.com/world/europe/north-kosovo-serbs-boycott-referendum-removing-ethnic-albanian-mayors-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 14:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>泽连斯基敦促美国参议院迅速通过乌克兰援助和武器转让</title>
-      <link>https://www.reuters.com/world/europe/zelenskiy-urges-speedy-passage-ukraine-aid-us-senate-transfer-weapons-2024-04-21/</link>
-      <description><![CDATA[乌克兰总统泽连斯基周日对美国众议院通过600亿美元援助乌克兰的决定表示欢迎，但敦促华盛顿迅速将该法案转化为法律，并着手实际转让武器，称远程武器和防空系统是首要任务。]]></description>
-      <guid>https://www.reuters.com/world/europe/zelenskiy-urges-speedy-passage-ukraine-aid-us-senate-transfer-weapons-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 14:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列以煽动恐怖主义罪起诉哈马斯领导人哈尼亚的妹妹</title>
-      <link>https://www.reuters.com/world/middle-east/israel-indicts-sister-hamas-leader-haniyeh-terrorism-incitement-2024-04-21/</link>
-      <description><![CDATA[以色列国家检察官周日对哈马斯领导人伊斯梅尔·哈尼亚的妹妹提出起诉，罪名是煽动和声援恐怖组织，据称哈马斯 10 月 7 日的袭击引发了加沙长达六个月的战争。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/israel-indicts-sister-hamas-leader-haniyeh-terrorism-incitement-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 12:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>数百人聚集在悉尼邦迪海滩哀悼韦斯特菲尔德袭击事件的受害者</title>
+      <title>数百人聚集在悉尼邦迪海滩哀悼韦斯特菲尔德袭击受害者</title>
       <link>https://www.reuters.com/world/asia-pacific/hundreds-gather-sydneys-bondi-beach-mourn-westfield-attack-victims-2024-04-21/</link>
       <description><![CDATA[周日晚上，数百人聚集在悉尼邦迪海滩，在日落时点燃蜡烛，哀悼一周前在该地区韦斯特菲尔德购物中心发生的持刀袭击事件中丧生的六人。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/hundreds-gather-sydneys-bondi-beach-mourn-westfield-attack-victims-2024-04-21/</guid>
       <pubDate>Sun, 21 Apr 2024 11:53:14 GMT</pubDate>
     </item>
     <item>
-      <title>最高领袖哈梅内伊称伊朗展示了对抗以色列的力量</title>
-      <link>https://www.reuters.com/world/middle-east/irans-khamenei-thanks-armed-forces-attack-israel-2024-04-21/</link>
-      <description><![CDATA[伊朗官方通讯社周日报道称，伊朗最高领袖哈梅内伊感谢该国武装部队本月对以色列发动的袭击，并表示，无论袭击了多少目标，伊朗都展示了自己的力量。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/irans-khamenei-thanks-armed-forces-attack-israel-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 11:17:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>厄瓜多尔总统诺博亚在周日投票中寻求批准安全措施</title>
-      <link>https://www.reuters.com/world/americas/ecuadorean-president-noboa-seeking-approval-security-measures-sunday-vote-2024-04-21/</link>
-      <description><![CDATA[厄瓜多尔总统丹尼尔·诺博亚周日在全国公投中寻求选民对一系列安全措施的支持，同时他正在努力应对已成为国际头条新闻的暴力事件。]]></description>
-      <guid>https://www.reuters.com/world/americas/ecuadorean-president-noboa-seeking-approval-security-measures-sunday-vote-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 11:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>土耳其因涉嫌与伊斯兰国有联系而拘留了数十人</title>
-      <link>https://www.reuters.com/world/middle-east/turkey-detains-36-people-over-alleged-islamic-state-ties-minister-says-2024-04-21/</link>
-      <description><![CDATA[土耳其内政部长阿里·耶利卡亚 (Ali Yerlikaya) 周日表示，土耳其当局在四个省份开展行动，拘留了 36 名涉嫌与伊斯兰国有联系的人。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/turkey-detains-36-people-over-alleged-islamic-state-ties-minister-says-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 10:39:22 GMT</pubDate>
+      <title>中国驻美国特使呼吁合作，指出面临“严峻”挑战</title>
+      <link>https://www.reuters.com/world/chinas-us-envoy-urges-cooperation-cites-severe-challenges-2024-04-21/</link>
+      <description><![CDATA[中国驻美国大使敦促这两个超级大国在改善关系方面进行合作，尽管两国在一系列问题上“面临严峻挑战”。]]></description>
+      <guid>https://www.reuters.com/world/chinas-us-envoy-urges-cooperation-cites-severe-challenges-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 10:42:49 GMT</pubDate>
     </item>
     <item>
       <title>俄罗斯称美国在乌克兰面临像在越南一样的羞辱</title>
@@ -74,6 +32,48 @@
       <description><![CDATA[俄罗斯周日表示，美国议员支持向乌克兰追加 608.4 亿美元的援助，这表明华盛顿正在深入地陷入针对莫斯科的混合战争，这场战争最终将导致与越南或阿富汗冲突一样的耻辱。]]></description>
       <guid>https://www.reuters.com/world/europe/russia-says-deeper-us-hybrid-war-using-ukraine-will-end-vietnam-style-2024-04-21/</guid>
       <pubDate>Sun, 21 Apr 2024 09:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴基斯坦西部的枪手在两次袭击中杀死了 7 名海关官员</title>
+      <link>https://www.reuters.com/world/asia-pacific/gunmen-kill-7-customs-officials-western-pakistan-two-attacks-2024-04-21/</link>
+      <description><![CDATA[官员周日表示，身份不明的枪手在巴基斯坦西部杀害了两名海关官员，此前几天该地区还有另外五名海关官员被杀。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/gunmen-kill-7-customs-officials-western-pakistan-two-attacks-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 07:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>马尔代夫亲华执政党有望赢得选举</title>
+      <link>https://www.reuters.com/world/asia-pacific/maldives-votes-election-key-its-india-china-relations-2024-04-21/</link>
+      <description><![CDATA[当地媒体称，马尔代夫执政党将在周日的议会选举中赢得三分之二多数，这一结果可能会推动这个印度洋岛国进一步亲近中国，远离其长期盟友印度。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/maldives-votes-election-key-its-india-china-relations-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 07:21:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国广东预计将发生大规模河流洪水，威胁数百万人</title>
+      <link>https://www.reuters.com/world/china/massive-river-flooding-expected-chinas-guangdong-threatening-millions-2024-04-21/</link>
+      <description><![CDATA[中国广东省的主要河流、水道和水库面临引发危险洪水的威胁，迫使政府于周日制定应急响应计划，以保护超过 1.27 亿人。]]></description>
+      <guid>https://www.reuters.com/world/china/massive-river-flooding-expected-chinas-guangdong-threatening-millions-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 06:46:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国抗议日本领导人参拜靖国神社</title>
+      <link>https://www.reuters.com/world/asia-pacific/south-korea-protests-japanese-leaders-offerings-yasukuni-shrine-2024-04-21/</link>
+      <description><![CDATA[韩国周日对日本首相岸田文雄向东京靖国神社供奉表示“深感失望”，并敦促日本领导人对该国的战时历史表示悔改。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/south-korea-protests-japanese-leaders-offerings-yasukuni-shrine-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 04:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国在南海紧张局势中接待外国海军官员</title>
+      <link>https://www.reuters.com/world/china/china-hosts-foreign-naval-officials-amid-south-china-sea-tensions-2024-04-21/</link>
+      <description><![CDATA[中国海军周日在港口城市青岛拉开了两年一次的外国海军高级官员会议的序幕，这是一场军事外交秀，人们将密切关注中美之间更多接触的迹象。]]></description>
+      <guid>https://www.reuters.com/world/china/china-hosts-foreign-naval-officials-amid-south-china-sea-tensions-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 02:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本两架直升机坠毁 已找到一具尸体 七人失踪</title>
+      <link>https://www.reuters.com/world/asia-pacific/two-japan-sdf-helicopters-crash-one-body-found-7-missing-media-2024-04-21/</link>
+      <description><![CDATA[日本防卫大臣周日表示，两架日本海军直升机在训练期间坠入大海，机上八名机组人员中至少一名丧生。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/two-japan-sdf-helicopters-crash-one-body-found-7-missing-media-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 01:50:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

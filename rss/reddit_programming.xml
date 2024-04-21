@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 21 Apr 2024 18:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 21:11:39 GMT</lastBuildDate>
+    <item>
+      <title>我有 3 个月的时间自学 Python。我应该如何去做才能获得最大的知识。</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9rid9/i_have_3_months_to_teach_myself_python_how_should/</link>
+      <description><![CDATA[我有三个月的时间自学 Python，同时从事朝九晚五的工作，其中涉及 NET 和 SQL。作为上下文，我将于今年 9 月开始攻读计算机科学硕士学位，并计划在此之前自学 Python |去吧，因为每个人都告诉我大多数项目都是用Python编写的，一旦开始我就没有太多时间自学，因为我将通过兼职工作来维持自己的生活。我很害怕，因为在一个相当有毒的工作环境中做所有事情的压力，这需要我做很多无薪加班。我怎样才能最好地做到这一点，我应该做什么，我应该做什么项目？我应该关注哪些概念？   由   提交/u/shaham123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9rid9/i_have_3_months_to_teach_myself_python_how_should/</guid>
+      <pubDate>Sun, 21 Apr 2024 20:15:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>纯 HTML 无序流 (PHOOOS) 技术，无需 JavaScript，仅纯 HTML 和 CSS</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9r9le/pure_html_outoforder_streaming_phooos_technique/</link>
+      <description><![CDATA[ 由   提交/u/niutech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9r9le/pure_html_outoforder_streaming_phooos_technique/</guid>
+      <pubDate>Sun, 21 Apr 2024 20:05:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道参加ACM ICPC并获胜所需的概念吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9r2g1/does_any_one_know_the_concepts_required_to/</link>
+      <description><![CDATA[ 由   提交 /u/redrealwixi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9r2g1/does_any_one_know_the_concepts_required_to/</guid>
+      <pubDate>Sun, 21 Apr 2024 19:57:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个软件估算工具，你觉得怎么样？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9quml/a_software_estimation_tool_what_do_you_think/</link>
+      <description><![CDATA[ 由   提交 /u/Sprixl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9quml/a_software_estimation_tool_what_do_you_think/</guid>
+      <pubDate>Sun, 21 Apr 2024 19:48:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 中的 try 块</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9pz5q/the_try_block_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9pz5q/the_try_block_in_rust/</guid>
+      <pubDate>Sun, 21 Apr 2024 19:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于编码的平板电脑工作区设置</title>
+      <link>https://www.reddit.com/r/programming/comments/1c9ptlh/tablet_workspace_setup_for_coding/</link>
+      <description><![CDATA[嗨！我是一个在不同城市的学生，经常从一个城市到另一个城市旅行，我使用带有英特尔 I7 的游戏笔记本电脑 Asus Strix 来编码，现在我必须工作更多的时间，因为我也被录用了并且必须工作我的学士论文，但使用我目前的笔记本电脑，在编码或学习时无需插入电源，电池续航时间最多可达一个半到两个小时，这限制了我处理项目的能力。我的笔记本电脑也是 17 英寸我需要一个大背包来携带它。 为了提高我的工作效率，我想购买某种平板电脑并在上面安装一个小键盘，但我不确定是否可以就像我在笔记本电脑上编写 Web 应用程序、桌面应用程序以及一小部分 Linux 的 C 项目一样，我通常使用 WSL 和 VSCode 作为编辑器。 我能以某种方式使用平板电脑复制这个工作区吗？如果是的话哪个操作系统？ Android 还是 IOS？ 我也曾想过购买一台小型 Macbook Air，但除了在火车上或其他地方编程之外，我不会使用它。   由   提交 /u/MuduXD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c9ptlh/tablet_workspace_setup_for_coding/</guid>
+      <pubDate>Sun, 21 Apr 2024 19:05:33 GMT</pubDate>
+    </item>
     <item>
       <title>变更日志驱动的版本</title>
       <link>https://www.reddit.com/r/programming/comments/1c9nasj/changelogdriven_releases/</link>
@@ -48,13 +90,6 @@
       <pubDate>Sun, 21 Apr 2024 16:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>⚠️ 用于执行图像超分辨率的新 Python 🐍 库 ⚠️</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9lkdh/new_python_library_for_doing_image_super/</link>
-      <description><![CDATA[ 由   提交/u/lovindata  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9lkdh/new_python_library_for_doing_image_super/</guid>
-      <pubDate>Sun, 21 Apr 2024 16:06:21 GMT</pubDate>
-    </item>
-    <item>
       <title>基于带有顺风信号的祖先状态的简化样式</title>
       <link>https://www.reddit.com/r/programming/comments/1c9l38m/simplifying_styling_based_on_ancestor_states_with/</link>
       <description><![CDATA[ 由   提交/u/victoor89  [link] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1c9l38m/simplifying_styling_based_on_ancestor_states_with/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
@@ -69,46 +104,11 @@
       <pubDate>Sun, 21 Apr 2024 15:35:41 GMT</pubDate>
     </item>
     <item>
-      <title>再也不用费力地提供反馈（甚至是给你的经理）</title>
+      <title>再也不用费力地提供反馈（即使是对你的经理）</title>
       <link>https://www.reddit.com/r/programming/comments/1c9kp85/never_struggle_to_give_feedback_again_even_to/</link>
       <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c9kp85/never_struggle_to_give_feedback_again_even_to/</guid>
       <pubDate>Sun, 21 Apr 2024 15:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>过度工程和过度设计的陷阱</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9js1k/the_trap_of_overengineering_and_overdesign/</link>
-      <description><![CDATA[ 由   提交 /u/topcodemangler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9js1k/the_trap_of_overengineering_and_overdesign/</guid>
-      <pubDate>Sun, 21 Apr 2024 14:52:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索 OEIS 表</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9jbpc/searching_oeis_tables/</link>
-      <description><![CDATA[ 由   提交/u/Paddy3118  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9jbpc/searching_oeis_tables/</guid>
-      <pubDate>Sun, 21 Apr 2024 14:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过“尝试修复”来破坏 CORS</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9inc9/breaking_cors_by_trying_to_fix_it/</link>
-      <description><![CDATA[ 由   提交/u/Fcmam5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9inc9/breaking_cors_by_trying_to_fix_it/</guid>
-      <pubDate>Sun, 21 Apr 2024 14:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有一天从冒名顶替者到第二天感觉自己像个超人</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9igti/going_from_impostor_one_day_to_feeling_like_a/</link>
-      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9igti/going_from_impostor_one_day_to_feeling_like_a/</guid>
-      <pubDate>Sun, 21 Apr 2024 13:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么选择 ACPI？ (2023)</title>
-      <link>https://www.reddit.com/r/programming/comments/1c9i3du/why_acpi_2023/</link>
-      <description><![CDATA[ 由   提交/u/pdp10  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c9i3du/why_acpi_2023/</guid>
-      <pubDate>Sun, 21 Apr 2024 13:37:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
