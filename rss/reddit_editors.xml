@@ -4,20 +4,48 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:22:48 GMT</lastBuildDate>
+    <item>
+      <title>将 Nexis 同步到单个驱动器</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb300b/sync_nexis_to_single_drive/</link>
+      <description><![CDATA[在 MacOS 上工作。 好奇是否有人找到了一种简单的方法来将一组 Nexis 分区重复同步到一个单驱动。当然，我知道我可以在第一次创建本地驱动器时复制所有 mxfs，但是之后如何同步它？ 是否有任何方法可以确定 Nexis 上的哪些 mxfs 文件不是在本地驱动器上，反之亦然。路径名会有所不同，因为本地驱动器只有一个 Avid MediaFiles 文件夹 - 所以我想我正在寻找一种“仅按文件名同步”的方法。或者其他的东西。  好奇是否有人不得不这样做？   由   提交/u/ovideos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb300b/sync_nexis_to_single_drive/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何将时间线从 Premiere 发送到 Da Vinci with Everything</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb2qwc/how_can_i_send_timeline_from_premiere_to_da_vinci/</link>
+      <description><![CDATA[我已经思考这个问题很长时间了，但是该死的，从来没有一个令人满意的答案。我想知道这是否真的不可能或者是否是某种绝密。我不习惯使用 Davinci，所以我的所有效果都是在 Premiere 中完成的，但我想在 Davinci 中进行最终的颜色分级。 当我尝试使用 XML、EDL、AAF 格式执行此操作时，视频文件已转移，但仅此而已。看在上帝的份上，请给我一个解决方案，以便我可以返回 Premiere Pro，并使用分层时间线、所有效果以及带有颜色分级素材的过渡。 （是的，可以选择在编辑之前对原始文件进行颜色分级，然后以 ProRes 形式再次渲染它们，但我更喜欢根据编辑进度进行详细的颜色分级。）   由   提交 /u/Ornery-Relative-8052   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb2qwc/how_can_i_send_timeline_from_premiere_to_da_vinci/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Mac 上的 Premiere 上编辑 Pores Raw 时，是否需要下载 Prores Raw Decoder？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb1yjn/do_i_need_to_download_prores_raw_decoder_when/</link>
+      <description><![CDATA[我以前从未剪辑过 Prores Raw，我只是想检查一下在 Mac 上的 Premiere 中进行编辑时是否不需要 Prores RAW 编码器。我已经看到了适用于 Windows 的下载文件，但没有适用于 mac 的选项？   由   提交/u/Fantastic_Flounder96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb1yjn/do_i_need_to_download_prores_raw_decoder_when/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在编辑音乐视频时陷入困境。</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb19gj/im_stuck_while_editing_a_music_video/</link>
+      <description><![CDATA[我必须编辑小提琴乐器音乐视频，并且有多个剪辑。我已经同步了所有有音频的剪辑。但是还有一些无人机拍摄的剪辑我必须添加。无人机拍摄的剪辑没有音频。请告诉我如何同步没有音频的剪辑。 系统规格：Macbook Air M1 芯片 -8 GB RAM / 256 GB   由   提交 /u/vinithemonkie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb19gj/im_stuck_while_editing_a_music_video/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPad 和显示器应用程序</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb08pg/ipad_ndi_monitor_apps/</link>
+      <description><![CDATA[有人在 iPad 上使用可靠的 NDI 监视器应用程序吗？我正在考虑尝试一些来自 Premiere 的便携式和远程监控解决方案。   由   提交/u/what_a_pickle  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb08pg/ipad_ndi_monitor_apps/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:26:54 GMT</pubDate>
+    </item>
     <item>
       <title>如何治疗术后焦点呼吸？</title>
       <link>https://www.reddit.com/r/editors/comments/1cazm4w/how_to_cure_focus_breathing_in_post/</link>
       <description><![CDATA[是的，所以我有点搞砸了一次采访，好吧……我从中吸取了教训。我的 XT4 上肯定不会再使用面部检测进行自动对焦。不过，如果我无法重做整个拍摄，我会尽力至少看看我有什么选择。 任何有用的建议都会受到赞赏。  谢谢。   由   提交/u/balazshorvath   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cazm4w/how_to_cure_focus_breathing_in_post/</guid>
       <pubDate>Tue, 23 Apr 2024 08:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助获得编辑经验😅</title>
-      <link>https://www.reddit.com/r/editors/comments/1cazgd0/help_to_gain_editing_experience/</link>
-      <description><![CDATA[大家好！ 也许这个问题对于这个 subreddit 来说有点奇怪或不寻常，但我不这么认为知道该做什么，真的😅 我喜欢视频编辑（主要是 Adob​​e Premiere Pro 和 Adob​​e After Effects），从 12 岁起就喜欢它。接受过两次涉及视频的教育编辑，开始在一个对我来说压力很大的地方工作，五个月后我就离开了...我知道...这不是最聪明的主意...在过去的一年里，我在一家公司担任视频编辑不太关注视频。他们用视频来宣传他们的作品，但我为此制作的视频并不是真正的“挑战性”。不过很有趣！但一年后，我认为是时候寻找其他工作了，但看了所有的工作机会，我的主要反应是：“哇，我只是经验不够......”俗话说：“如果你不使用它，你就会失去它”。对我打击很大。 观看教程总是对我有很大帮助！但我想知道是否有人知道其他方法可以帮助我增长视频编辑经验？ 提前非常感谢！ :)   由   提交 /u/LucasAntonides   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cazgd0/help_to_gain_editing_experience/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:31:34 GMT</pubDate>
     </item>
     <item>
       <title>从手机（android）访问框架io？</title>
@@ -27,25 +55,11 @@
       <pubDate>Tue, 23 Apr 2024 08:13:53 GMT</pubDate>
     </item>
     <item>
-      <title>怎样才能像这样编辑呢？</title>
-      <link>https://www.reddit.com/r/editors/comments/1caz7ia/how_to_edit_like_that/</link>
-      <description><![CDATA[大家好，我想知道如何进行像该视频中那样的编辑：为什么阿迪达斯失去了德国（youtube.com） 比如我需要学习什么？他们添加插件、模板吗？我是编辑新手，我需要建议，谢谢   由   提交/u/Appressive_Win7952   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1caz7ia/how_to_edit_like_that/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:13:39 GMT</pubDate>
-    </item>
-    <item>
       <title>覆盖 AVID 中的文件</title>
       <link>https://www.reddit.com/r/editors/comments/1cayjeh/overwriting_files_in_avid/</link>
       <description><![CDATA[大家好！ 我想知道，有没有办法覆盖 AVID 使用的文件，就像在首映专业版？我必须重新转换一些素材，我的计划是覆盖媒体文件夹中的文件。当我重新打开 AVID 时会发生什么？  感谢您的帮助！ű 最好， Tomi    ;由   提交/u/tomolade_HUN   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cayjeh/overwriting_files_in_avid/</guid>
       <pubDate>Tue, 23 Apr 2024 07:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>达芬奇播放速度更快/滞后已解决并感谢</title>
-      <link>https://www.reddit.com/r/editors/comments/1caw36j/davinci_playback_fasterlagging_solved_and_thanks/</link>
-      <description><![CDATA[我很高兴这里是达芬奇完整用户，没有时间学习 Primer pro，因为我必须在 3 天内交付 30 条短裤 &lt; p&gt;我以为我不是那个可以自己解决问题的人，但因为我很久以前就想到了一件事，每次我认为这不会发生时，我就睡觉，第二天早上我就以某种方式解决了问题。 但是这次有所不同，因为这是我这次唯一的工作，而且我要还清费用。 问题是：Davinci Resolve 播放问题播放速度太快/滞后，并且音频太慢像旧收音机一样坏了 解决方案：将您的代理放在最快的驱动器上，我将代理放在我的SATA驱动器上，将它们移回第4代SSD，其中也安装了Davinci。这是我在SATA 上有代理的唯一项目，这就是我发现这个问题的方法。老实说，这不是问题，只是速度问题。您可以将原始文件保存在任何您想要的地方，我将我的文件保存在SATA SSD中，您可以将它们放在硬盘中，但您必须在系统上有代理，尽可能最快的驱动器，确保将它们保存在所在的位置DaVinci Resolve 已安装。感谢回复我帖子的编辑同事   由   提交/u/Familiar-Owl-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1caw36j/davinci_playback_fasterlagging_solved_and_thanks/</guid>
-      <pubDate>Tue, 23 Apr 2024 04:49:39 GMT</pubDate>
     </item>
     <item>
       <title>用于录制和组合脚本对话的最佳软件/工作流程？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[https ://www.bhphotovideo.com/c/product/1706724-REG/synology_96tb_diskstation_ds1821_8_bay.html/overview 我很乐意购买一次可以长期陪伴我的东西，所以我不介意 DS1821 的成本。跳过 4 个盘位并直接进入 8 个盘位是否正确？ 我喜欢基于代理的工作流程，目前主要处理 4k 素材，尽管我同时处理一些客户感觉需要更好的媒体管理，有时我确实会看到更大的文件。 我技术含量很高，设置了 NUC 并构建了我自己的电脑等，所以我不介意这一点。  我看到了一些关于缓存是否好/坏等的相互冲突的信息。如果它们有所作为，我不介意选择一些 NVME。 我想这也意味着更新路由器；我还缺少什么吗？   由   提交 /u/CyJackX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1camcno/time_to_get_a_nas_looking_at_ds1821_i_know_ill/</guid>
       <pubDate>Mon, 22 Apr 2024 21:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶的长期电视纪录片和现实编辑 - 希望搬到亚特兰大</title>
-      <link>https://www.reddit.com/r/editors/comments/1cakxjf/longtime_tv_documentary_reality_editor_in_los/</link>
-      <description><![CDATA[由于去年电视行业的经济低迷，我打算卖掉我在洛杉矶的房子并搬家。去年我只参加过一场演出。我的大多数朋友都没有工作过。现在亚特兰大的就业市场怎么样？我相信住在亚特兰大更便宜。我对从电视真实犯罪到工业和企业的任何视频编辑都感兴趣。最近有人做过同样的事吗？亚特兰大的就业市场怎么样？   由   提交 /u/DrawerZestyclose2242   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cakxjf/longtime_tv_documentary_reality_editor_in_los/</guid>
-      <pubDate>Mon, 22 Apr 2024 20:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于所有库存音乐作曲家...</title>
-      <link>https://www.reddit.com/r/editors/comments/1cadqs5/to_all_stockmusic_composers_out_there/</link>
-      <description><![CDATA[...请不要在曲目中添加钢琴。相信我 - 90% 的歌曲中，它都会让它变得不那么俗气。谢谢。   由   提交 /u/Sigerr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cadqs5/to_all_stockmusic_composers_out_there/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:29:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
