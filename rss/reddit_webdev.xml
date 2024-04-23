@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 18:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 21:12:01 GMT</lastBuildDate>
+    <item>
+      <title>Web 开发新手，在桌面上 PageSpeed 无法识别 LCP 图像预加载时苦苦挣扎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbfs0g/new_to_web_dev_struggling_with_lcp_image_preload/</link>
+      <description><![CDATA[大家好， 我对 Web 开发非常陌生，在优化 LCP 图像时遇到了障碍我正在开发的 WordPress 网站。尽管预加载链接位于  中，但 Pagespeed 无法识别桌面版本上已预加载的图像。 这是我网站 &lt; 的预加载链接。 strong&gt;head&gt;:  以下是我检查过的内容：  缓存已被清除（服务器端和浏览器）。 预加载标签是  中的前几个元素之一。 我已经查找了多个 LCP 候选者，并确认只有一个。  li&gt;  我的网站尚未上线，但我在 https://staging29.simplicbd.ca/ 有一个暂存环境 任何人都可以阐明可能导致此问题的原因或我可以采取哪些不同的措施吗？任何帮助或指导，特别是考虑到我的新手身份，我们将不胜感激。 非常感谢！   由   提交 /u/CaPpedDoG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbfs0g/new_to_web_dev_struggling_with_lcp_image_preload/</guid>
+      <pubDate>Tue, 23 Apr 2024 20:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro + Sanity.io 用于一个简单的非营利网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbfrs6/astro_sanityio_for_a_simple_nonprofit_website/</link>
+      <description><![CDATA[网站：大约 5 页，适合小型人道主义非营利组织，希望使用该网站作为收集捐款和发布其工作的平台/里程碑。他们仍在讨论功能以及希望拥有何种程度的控制权，但现在想要捐赠功能、博客发布功能和联系表单。他们已经购买了该域名。  他们的旧网站使用 WordPress，但他们说我可以更改为其他内容（只要他们使用起来不太复杂），因为我是一名学生志愿者，他们理解我想要使用新堆栈。这就是为什么我想涉足 Astro，也许将它与 Vue.js 组件（只是为了学习 Vue 作为我的第一个 JS 框架）和 TailwindCSS 一起使用。作为一个无头 CMS，Sanity 对我来说看起来很棒，因为我可以提供模板供他们使用。 这个计划看起来不错吗？或者我应该坚持使用我没有太多经验的Wordpress？我是他们唯一的 IT 人员，不得不自己做决定真是让人难以承受，哈哈   由   提交 /u/Dropbototoro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbfrs6/astro_sanityio_for_a_simple_nonprofit_website/</guid>
+      <pubDate>Tue, 23 Apr 2024 20:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助解决 eslint 安装和依赖问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbflo9/help_with_eslint_install_and_dependency_problem/</link>
+      <description><![CDATA[     &lt; /td&gt; **英语不是我的母语。抱歉，如果我犯了任何错误或没有清楚地解释问题。 我已经尝试安装 eslint 好几天了，但每次都会遇到依赖项错误。我已经尝试了我能想到的并在互联网上找到的所有方法来修复它......我不知道为什么会发生这种情况，因为它以前在其他项目中运行良好。我什至尝试卸载 Prettier，但我什至无法做到这一点。  我认为问题可能出在我的笔记本电脑上，所以我用了我妈妈的笔记本电脑。我下载了从 git 和 vscode 到 Node 的所有内容，但又出现了同样的问题......（旁注：奇怪的是，它不再询问我项目将使用什么格式 - 在这种情况下，它将是 JSON -在回答 npx eslint --init 问题时）。 我将描述我遵循的每一个步骤，以便您可以告诉我问题是否在这里：  终端： npx create-react-app projectName --template typescript   vscode：创建.editorconfig文件 vscode终端：npm i --save-dev @typescript-eslint/ eslint-plugin@latest eslint-plugin-react@latest @typescript-eslint/parser@latest eslint@latest --legacy-peer-deps npx eslint --init 之后： - 检查 sintax 并找到问题 - 导入/导出 - 反应 - 是 - 浏览器 - JSON （但它不再询问这个，所以它创建 eslint.config.mjs 而不是 .eslintrc.json） - 是 - npm  并且它显示这个依赖错误......有人可以帮助我吗？我简直要疯了    由   提交/u/chocolatecomorango   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbflo9/help_with_eslint_install_and_dependency_problem/</guid>
+      <pubDate>Tue, 23 Apr 2024 20:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是正常的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbf6ju/is_this_normal/</link>
+      <description><![CDATA[团队由我自己、两名经理、一名 Scrum Master 和一名测试人员组成。 总的来说，应用程序运行良好，但有时错误会进入生产环境。这些错误都不会破坏应用程序，但在部署修补程序之前，应用程序的某些方面在一小段时间内没有按预期运行。 团队有专门的测试人员，但他们只测试我专门测试的内容放置在测试说明中。他们不运行自动化测试，并且对应用程序的工作原理了解非常模糊。 这些错误让经理们非常愤怒。而我就是他们关注的焦点。  我对开发经验不是很丰富，大概有 3 年左右的时间。这确实是我在该领域的第二份工作。 从很多方面来说，这是一份不错的工作，但我今天开始发送申请，因为我对自己目前的处境感到非常沮丧。我只是想从在这个行业工作时间较长的人那里得到一些观点。这是正常设置吗？这是团队通常的工作方式吗？谢谢。   由   提交 /u/mygorgerises   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbf6ju/is_this_normal/</guid>
+      <pubDate>Tue, 23 Apr 2024 20:35:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>限制javascript的使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbf0jb/limit_use_of_javascript/</link>
+      <description><![CDATA[大家好。我是学生，我对网络开发非常感兴趣。我在 youtube 上观看了一个关于编程的视频，我有一个疑问。 我应该限制在 Web 开发中使用 javascript 以使网站更加优化吗？我知道 javascript 是网络开发人员的主要语言，但它的使用真的受到重视吗？   由   提交 /u/byequentin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbf0jb/limit_use_of_javascript/</guid>
+      <pubDate>Tue, 23 Apr 2024 20:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态 HTML 网站的 CMS ？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbe01f/cms_for_static_html_website/</link>
+      <description><![CDATA[这对某些人来说可能听起来很愚蠢，但我真的没有办法尝试......  以下情况：&lt; /p&gt; 我已经按照自己的喜好构建了一个完整的网站，一切都按预期运行，但是现在我意识到我需要一个管理面板之类的东西，而不是重新上传 html 文件，以防我想对网站进行更改。我还希望能够使用 Rest API，因为我的用例需要它。  我浏览过网络并尝试过 Wordpress、Strapi、Django 和其他一些 CMS 和 Headless CMS 解决方案，但要么我很愚蠢，要么他们没有我需要的东西。  我真的想将我的静态 html 页面与我的主题以及其中的所有内容迁移到 cms 中，但是我一直在努力做到这一点。  有没有人有一个好的程序或指南我可以阅读，也许有解决方案？  感谢您的帮助   由   提交/u/cleronfx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbe01f/cms_for_static_html_website/</guid>
+      <pubDate>Tue, 23 Apr 2024 19:48:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>将跨平台 GUI 应用程序移植到 Rust</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbd63b/porting_a_crossplatform_gui_application_to_rust/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbd63b/porting_a_crossplatform_gui_application_to_rust/</guid>
+      <pubDate>Tue, 23 Apr 2024 19:15:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>一位家庭朋友想按小时付费让我为他的企业开发一个网站，他向我询问了具体的时间范围</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbd24g/a_family_friend_wants_to_pay_me_per_hour_to_to/</link>
+      <description><![CDATA[该网站基本上是为了他的咨询业务，它应该看起来不错且流畅，有一个“关于我”的选项卡其中介绍了他并有他的照片、合作伙伴选项卡、项目选项卡以及其他选项卡中的更多内容。没什么花哨或复杂的。 我的两个问题是：1-对于此类项目，后端和前端最好的工具是什么？  2-既然他问了一个时间范围，并且他按小时支付我工资，我不确定需要多少钱，所以什么是现实的时间范围，我应该回答他什么？    由   提交 /u/alialibarrett   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbd24g/a_family_friend_wants_to_pay_me_per_hour_to_to/</guid>
+      <pubDate>Tue, 23 Apr 2024 19:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>动态修改对象的嵌套属性的方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbcylz/method_to_modify_an_objects_nested_property/</link>
+      <description><![CDATA[我正在尝试编写一个方法，该方法获取一个对象，该对象的某些属性与其他对象的结构相同，并且我希望它也覆盖第二个对象的属性值与第一个对象的属性值。 主要问题是其中一些属性的深度可能会有所不同。我该如何解决这个问题？   由   提交 /u/Pitiful-Jellyfish-38   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbcylz/method_to_modify_an_objects_nested_property/</guid>
+      <pubDate>Tue, 23 Apr 2024 19:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>请有人向我推销 React。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbcqq6/someone_sell_me_on_react_please/</link>
+      <description><![CDATA[我距离完成 2 年 Web 开发学位还有一周（经过 8 周的工作经验），我有两个正在进行的项目；  一个是用 React 制作的简单网站、几个页面、React Router 和 Mongo 数据库。 另一个是用 HTML 构建一个在单个页面上运行的测验游戏，虽然它可以使用数据库，但它是为了特定目的而由非开发人员离线运行的，并且只使用 LocalStorage 和普通 javascript。 我发现 React 的好处我已经有人告诉我，特别是重新加载 DOM 的各个部分，或者从后端获取数据，我在 vanilla 中非常容易完成。 我不必担心 props、hooks 或组件（尽管我用 vanilla 制作了自己的组件，并且工作得很好），而且主要处理别人关于良好语法的想法，而不是对我有用的想法，这是一个令人头痛的事情。 现在我知道 React 的使用非常普遍，并且在团队中工作很重要，因此所有人都知道相同的框架是非常有益的；但我似乎无法克服我对 React 的厌恶程度。 我是新人，我固执己见，但我想被雇用。请有人向我推荐 React。 我非常喜欢 PHP 和 Vanilla Javascript。   由   提交/u/OnlyLogic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbcqq6/someone_sell_me_on_react_please/</guid>
+      <pubDate>Tue, 23 Apr 2024 18:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助的爱好者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cbciic/hobbyist_in_need_of_help/</link>
+      <description><![CDATA[大家好， 我一直在为一个项目修改 html、css 和 JavaScript（作为一种爱好）。我对如何完成我正在寻找的事情有一些疑问，并且我正在寻找可以解决我的问题的人。  本质上，我试图弄清楚如何获取用户输入的书籍表格并在特定 png 之上生成最终列表，使其看起来像一个完整的组件。甚至不确定我是否解释得很好，哈哈。但希望有人有一些空闲时间，让我听取他们的意见。 🤞🏻   由   提交 /u/pineapplechapel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cbciic/hobbyist_in_need_of_help/</guid>
+      <pubDate>Tue, 23 Apr 2024 18:49:22 GMT</pubDate>
+    </item>
     <item>
       <title>Spring MVC值得学习吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cbb2yi/is_it_worth_it_to_learn_spring_mvc/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我知道网站并不总是出现在 Google 中，也不总是在 Facebook 页面等上列出 &lt; !-- SC_ON --&gt;  由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cba5e3/is_there_anyway_of_being_able_to_tell_if_a/</guid>
       <pubDate>Tue, 23 Apr 2024 17:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于 webkit 对第一方 cookie 的 7 天限制真的很困惑......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cba2f3/really_confused_about_webkits_7_day_limit_on/</link>
-      <description><![CDATA[希望有人能为我澄清。如果我有一个网站，并且我想存储不重要的状态，例如带有“不再显示此消息”的各种弹出窗口，或者用户拥有的最新“最近更新”弹出窗口，我现在可以不使用 cookie 来执行此操作吗？听起来 webkit 在一周后就杀死了第一方 cookie。  目前，我存储在我们的数据库中，但考虑到可能有很多此类内容，我真的不想在我们的数据库中为所有这些创建列。 &gt;   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cba2f3/really_confused_about_webkits_7_day_limit_on/</guid>
-      <pubDate>Tue, 23 Apr 2024 17:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>从经典的 Vite React 应用迁移到 SSR</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb8l27/migrating_to_ssr_from_a_classic_vite_react_app/</link>
-      <description><![CDATA[我领导一个电子商务网站的开发，该网站目前是一个使用 Vite 构建的经典 React 应用程序，由 Cloudflare Pages 提供服务。后端是 Firebase。 为了提高性能和 SEO，我们正在考虑迁移到 SSR。我对它有一个相当不错的心智模型，但并不令人惊奇——我对 Vite SSR 做了一些研究，但我发现与之相关的多个项目似乎被放弃了。 我很喜欢 Vite，也喜欢极简主义 SSR 方法的想法 — Next 似乎非常强大，但也相当固执己见和“神奇”，而且我听过很多关于 Vercel 的褒贬不一的事情，这似乎是它的黄金之路。另外，似乎现在很多核心功能都被引入了主线 React，比如服务器端组件？ 我认为我理想的设置是使用 Cloudflare Workers，我确实通过其中之一阅读了一些相关内容Vite SSR 项目，但我在这里肯定是错的。 我在这里的现实选择是什么？我目前有一个 lerna monorepo，并且不确定完全迁移到 Next 的 LOE 有多高。有没有一个合理的方法可以用 Vite 做到这一点，或者我应该硬着头皮成为 Nextian？ 提前致谢！  &amp; #32；由   提交/u/nathan-codes  /u/nathan-codes  reddit.com/r/webdev/comments/1cb8l27/migration_to_ssr_from_a_classic_vite_react_app/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb8l27/migrating_to_ssr_from_a_classic_vite_react_app/</guid>
-      <pubDate>Tue, 23 Apr 2024 16:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>python 中哪些类型的任务（与 web 开发相关）值得通过基于 cpp 的库来解决？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb7wev/what_kinds_of_task_in_python_webdev_related_worth/</link>
-      <description><![CDATA[大家好！在大多数情况下，我使用 python 作为后端（特别是 FastAPI 和 Django 项目）。我知道 pandas 和 numpy 有 C/C++ 主干，但是还有哪些其他任务值得外包给 Web 开发中的类 C 库？    由   提交 /u/CriticalComfortable   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb7wev/what_kinds_of_task_in_python_webdev_related_worth/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的学位有误吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb79tw/have_i_made_a_mistake_with_my_degree/</link>
-      <description><![CDATA[所以基本上，我在英国，我正在学习的学位是 Bsc 网页设计与开发（苏格兰大学）。我已经进入最后一年了 公平地说，我真的很喜欢它，我觉得我获得了广泛的知识，我有一个很好的投资组合，并且我遇到了一些业内专业人士通过大学与其他人建立联系。不过，我担心的是，我是否应该选择传统的计算机科学学位。 我不确定雇主是否会以与传统计算机科学学位相同的方式看待我的学位，甚至虽然我的学位是针对我想从事的领域的（该学位广泛涵盖了前端和后端的技能，但我更喜欢前端） 你们认为这样可以吗？我在这里走了一步坏棋？   由   提交/u/avidbug2000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb79tw/have_i_made_a_mistake_with_my_degree/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们中有多少人还在不相关的领域做兼职工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb6yls/how_many_of_you_also_have_a_parttime_job_in_an/</link>
-      <description><![CDATA[想知道网络开发人员在下班后为 Uber 开车、在麦当劳工作等有多常见吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/jonmacabre   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb6yls/how_many_of_you_also_have_a_parttime_job_in_an/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>职业互换问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb6jsg/career_swap_questions/</link>
-      <description><![CDATA[大家好， 我目前在英国铁路信号方面工作，但有一份工作邀请免费学习全栈软件开发 5 级文凭。  这是课程https://codeinstitute.net/full-stack-software-development -diploma/ 在非技术技能方面，我在领导团队、按时完成工作方面有经验，有一些项目管理经验、监督经验、良好的沟通能力。  从技术上讲，我早在 2000 年代初就曾使用过 HTML 和 CSS，并且我对 JavaScript 很熟悉，或者至少学习它。我也涉足过Python。我希望我当时能从事网络开发，但我迫于压力不得不找到一份“真正的工作”。  我知道该课程中的一些技术已经过时（JQuery！），但我的工作有点停滞不前。我知道目前这个空间已经饱和，我正在重新考虑这个职业的可行性，特别是考虑到我必须先减薪才能踏入这个行业。所以我有几个问题： 1）你的晋升速度有多快？  2) 远程工作有多普遍？与美国的工资相比，英国的工资少得可怜。  3) Web 开发的未来如何？ 4) 你的故事是什么？你是如何开始的以及你已经达到了什么程度？提前致谢。    由   提交 /u/toe-knee-was-taken   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb6jsg/career_swap_questions/</guid>
-      <pubDate>Tue, 23 Apr 2024 14:49:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify 应用程序可通过服务器端渲染进行翻译？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb65dv/shopify_app_for_translations_with_server_side/</link>
-      <description><![CDATA[寻找一种适合 SEO 的方式来翻译我的网站   由   提交 /u/bareov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb65dv/shopify_app_for_translations_with_server_side/</guid>
-      <pubDate>Tue, 23 Apr 2024 14:32:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>dotnet 和 Go 哪个技能更有用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb5si7/what_would_be_a_more_useful_skill_dotnet_or_go/</link>
-      <description><![CDATA[我的主要专业领域是 Typescript，还有一些 Django 和 Django 知识。点网。我想知道我是否应该更多地了解 dotnet，或者转向 Go 之类的东西以及它的 Web 框架。   由   提交/u/thebreadmanrises  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb5si7/what_would_be_a_more_useful_skill_dotnet_or_go/</guid>
-      <pubDate>Tue, 23 Apr 2024 14:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 调色板导入器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb5o6p/css_color_palette_importer/</link>
-      <description><![CDATA[最近我为我的个人网站实现了 4 个颜色主题，我必须手动导入每种颜色的所有十六进制代码，天哪它很乏味（我不太喜欢顺风之类的东西）。我做了很多研究来寻找一种可以处理此问题的工具，但我找不到。所以我的问题是：是否有一种工具允许人们根据类似于调色板的 npm 的主题导入预定义的调色板。如果没有什么功能，您认为这样的工具有用？ 编辑：需要明确的是，我已经了解 CSS 变量，但这不是问题。该问题是为多个颜色主题手动导入 20 个颜色代码。   由   提交/u/criosage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb5o6p/css_color_palette_importer/</guid>
-      <pubDate>Tue, 23 Apr 2024 14:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最讨厌的事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb5etp/my_biggest_pet_peeve/</link>
-      <description><![CDATA[      只需使整个按钮可点击即可。这并不难。请停止做这种垃圾事。    由   提交 /u/artbyiain   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb5etp/my_biggest_pet_peeve/</guid>
-      <pubDate>Tue, 23 Apr 2024 14:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的 jquery 自定义光标动画在 Firefox 上滞后，但在其他浏览器中却没有？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb58gi/why_is_my_jquery_custom_cursor_animation_lagging/</link>
-      <description><![CDATA[我创建了一个自定义光标并使用 jquery 使其工作，它在 vscode、chrome、safari 上看起来不错，但由于某种原因在 firefox 上落后。 .. 这是 jquery 代码： const Cursor = $(&quot;.customCursor&quot;); $(document).mousemove(function (e) { $(cursor).css({ top: e.pageY - 35 + &quot;px&quot;, left: e.pageX - 35 + &quot;px&quot; }); }) ;  和 CSS： .customCursor { 位置：绝对；顶部：-20%；边界半径：50%；背景颜色：白色；框阴影：2px -3px 41px -1px rgba(250, 250, 250, 0.64);宽度：70 像素；高度：70 像素；比例：0.6；混合混合模式：差异； z 索引：1000；指针事件：无；过渡：0.06s；字体大小：0px；文本对齐：居中；行高：70px；字体系列：&#39;JetBrains Mono&#39;，sans-serif； }  我想也许它只是在我的本地环境中，所以尝试将其托管在 vercel 上，仍然是相同的结果：/ 这里是预览：https://new.advik.dev TLDR; 自定义光标在除 Firefox 之外的所有浏览器中都能正常工作由于某种原因   由   提交/u/advik_143  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb58gi/why_is_my_jquery_custom_cursor_animation_lagging/</guid>
-      <pubDate>Tue, 23 Apr 2024 13:53:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
