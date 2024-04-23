@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:14:02 GMT</lastBuildDate>
+    <item>
+      <title>你们中有多少人还在不相关的领域做兼职工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb6yls/how_many_of_you_also_have_a_parttime_job_in_an/</link>
+      <description><![CDATA[想知道网络开发人员在下班后为 Uber 开车、在麦当劳工作等有多常见吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/jonmacabre   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb6yls/how_many_of_you_also_have_a_parttime_job_in_an/</guid>
+      <pubDate>Tue, 23 Apr 2024 15:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>职业互换问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb6jsg/career_swap_questions/</link>
+      <description><![CDATA[大家好， 我目前在英国铁路信号方面工作，但有一份工作邀请免费学习全栈软件开发 5 级文凭。  这是课程https://codeinstitute.net/full-stack-software-development -diploma/ 在非技术技能方面，我在领导团队、按时完成工作方面有经验，有一些项目管理经验、监督经验、良好的沟通能力。  从技术上讲，我早在 2000 年代初就开始使用 HTML 和 CSS，而且我对 JavaScript 很熟悉，或者至少学习它。我也涉足过Python。我希望我当时就从事网络开发，但我迫于压力必须找到一份“真正的工作”。  我知道该课程中的一些技术已经过时（JQuery！），但我的工作有点停滞不前。我知道目前这个空间已经饱和，我正在重新考虑这个职业的可行性，特别是考虑到我必须先减薪才能踏入这个行业。所以我有几个问题： 1）你的晋升速度有多快？  2) 远程工作有多普遍？与美国的工资相比，英国的工资少得可怜。  3) Web 开发的未来如何？ 4) 你的故事是什么？你是如何开始的以及你已经达到了什么程度？提前致谢。    由   提交 /u/toe-knee-was-taken   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb6jsg/career_swap_questions/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:49:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify 应用程序可通过服务器端渲染进行翻译？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb65dv/shopify_app_for_translations_with_server_side/</link>
+      <description><![CDATA[寻找一种适合 SEO 的方式来翻译我的网站   由   提交 /u/bareov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb65dv/shopify_app_for_translations_with_server_side/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>dotnet 和 Go 哪个技能更有用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb5si7/what_would_be_a_more_useful_skill_dotnet_or_go/</link>
+      <description><![CDATA[我的主要专业领域是 Typescript，还有一些 Django 和 Django 知识。点网。我想知道我是否应该更多地了解 dotnet，或者转向 Go 之类的东西以及它的 Web 框架。   由   提交/u/thebreadmanrises  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb5si7/what_would_be_a_more_useful_skill_dotnet_or_go/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 调色板导入器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb5o6p/css_color_palette_importer/</link>
+      <description><![CDATA[最近我为我的个人网站实现了 4 个颜色主题，我必须手动导入每种颜色的所有十六进制代码，天哪它很乏味（我不太喜欢顺风之类的东西）。我做了很多研究来寻找一种可以处理此问题的工具，但我找不到。所以我的问题是：是否有一种工具允许人们根据类似于调色板的 npm 的主题导入预定义的调色板。如果没有什么功能，您认为这样的工具有用？ 编辑：需要明确的是，我已经了解 CSS 变量，但这不是问题。该问题是为多个颜色主题手动导入 20 个颜色代码。   由   提交/u/criosage  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb5o6p/css_color_palette_importer/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最讨厌的事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb5etp/my_biggest_pet_peeve/</link>
+      <description><![CDATA[      只需使整个按钮可点击即可。这并不难。请停止做这种垃圾事。    由   提交 /u/artbyiain   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb5etp/my_biggest_pet_peeve/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的 jquery 自定义光标动画在 Firefox 上滞后，但在其他浏览器中却没有？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb58gi/why_is_my_jquery_custom_cursor_animation_lagging/</link>
+      <description><![CDATA[我创建了一个自定义光标并使用 jquery 使其工作，它在 vscode、chrome、safari 上看起来不错，但由于某种原因在 firefox 上落后。 .. 这是 jquery 代码： const Cursor = $(&quot;.customCursor&quot;); $(document).mousemove(function (e) { $(cursor).css({ top: e.pageY - 35 + &quot;px&quot;, left: e.pageX - 35 + &quot;px&quot; }); }) ;  和 CSS： .customCursor { 位置：绝对；顶部：-20%；边界半径：50%；背景颜色：白色；框阴影：2px -3px 41px -1px rgba(250, 250, 250, 0.64);宽度：70 像素；高度：70 像素；比例：0.6；混合混合模式：差异； z 索引：1000；指针事件：无；过渡：0.06s；字体大小：0px；文本对齐：居中；行高：70px；字体系列：&#39;JetBrains Mono&#39;，sans-serif； }  我想也许它只是在我的本地环境中，所以尝试将其托管在 vercel 上，仍然是相同的结果：/ 这里是预览：https://new.advik.dev TLDR; 自定义光标在除 Firefox 之外的所有浏览器中都能正常工作由于某种原因   由   提交/u/advik_143  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb58gi/why_is_my_jquery_custom_cursor_animation_lagging/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp API - 有人用过/定价吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb4o8o/whatsapp_api_anyone_used_it_pricing/</link>
+      <description><![CDATA[嗨 我们想从我们的服务器警报系统向 WhatsApp 群组发送一条消息，例如“网站 x 瘫痪了”。 我认为 WhatsApp 业务的定价和注册流程会非常清楚，但似乎不太明显，这要花多少钱以及如何注册。  任何人都有类似的开发需求，并且可以共享获取 API 令牌的直接途径（一旦我们有办法实际开始使用它，就可以轻松地完成所有开发工作！） &lt; /div&gt;  由   提交/u/latro666  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb4o8o/whatsapp_api_anyone_used_it_pricing/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 要点：通过品牌区分类型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb3cgl/typescript_essentials_distinguishing_types_with/</link>
+      <description><![CDATA[ 由   提交/u/Resident_Inflation_2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb3cgl/typescript_essentials_distinguishing_types_with/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>发表意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cb3a7i/opinions_on_publii/</link>
+      <description><![CDATA[我最近在为一个非常简单的客户网站寻找 CMS 时偶然发现了 Publii，并想得到其他尝试过它的开发人员的一些意见在投入时间了解它的来龙去脉之前。 简而言之，客户端有一个非常简单的静态网站（来自另一个开发人员，纯 HTML + CSS + JS，没有静态网站生成器），我目前通过不时进行小的更改来维护。但客户希望能够自己对内容进行少量更改。我通常会考虑使用 wordpress，但这绝对是多余的。在寻找解决方案时，我找到了（以及其他）Publii，并进行了一些修改，因此发表了这篇文章。  据我所知，这是一个可靠且经过深思熟虑的项目，但事实并非如此。它似乎被广泛采用，这引起了对长期支持和社区资源方面的担忧 看起来非常面向博客，而在这种情况下，我不处理博客文章，而只是处理页面。这有什么缺点吗，比如必须重新设计大量默认值和设置？ 从开发人员的角度来看，主题开发体验如何？    由   提交/u/Serpico99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cb3a7i/opinions_on_publii/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>站长？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cb2umi/webmaster/</link>
@@ -20,7 +90,7 @@
       <pubDate>Tue, 23 Apr 2024 11:55:03 GMT</pubDate>
     </item>
     <item>
-      <title>有人用过capacitorjs制作过应用程序吗？</title>
+      <title>有人用capacitorjs做过app吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cb2bj2/has_anyone_used_capacitorjs_to_make_an_app/</link>
       <description><![CDATA[我目前坚持使用 Fluter 进行应用程序开发，但我读到了有关 Capacitorjs 的内容，想知道它有多好？据我了解，它是 Cordova 的继承者。  有人用过吗？想法？   由   提交/u/No-Echo-8927   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cb2bj2/has_anyone_used_capacitorjs_to_make_an_app/</guid>
@@ -39,76 +109,6 @@
       <description><![CDATA[我有一个客户（编辑：客户的 WordPress 网站），他的嵌入内容（youtube 和播客）在 Safari 中抛出 CORS 错误，但在其它浏览器。但这是新的，截至昨天。还有其他人遇到过这种情况吗？   由   提交/u/Graineon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cb1atb/did_safari_just_go_all_weird_with_cors/</guid>
       <pubDate>Tue, 23 Apr 2024 10:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个自由职业者为我建立一个投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb0tim/need_a_freelancer_to_build_me_a_portfolio_website/</link>
-      <description><![CDATA[我是一名平面设计师、视频编辑器和动态图形艺术家。我已经在一家代理机构工作了近一年，我相信我有足够的工作来建立良好的投资组合，以便我可以开始直接接触客户。一段时间以来我一直想创建一个作品集网站，但由于工作和大学的事情，我没有时间创建一个。  ​ 对网站的主要要求是它不能看起来像一个通用的网站，它必须有品味，我愿意尽可能地帮助设计过程尽我所能，因为我希望它非常个性化。  ​ 如果有人对此感兴趣，我想知道你们的价格，并想看看你们以前的一些作品   由   提交/u/denieolmax13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb0tim/need_a_freelancer_to_build_me_a_portfolio_website/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP基础知识：了解Undici及其工作机制</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb0awx/http_fundamentals_understanding_undici_and_its/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb0awx/http_fundamentals_understanding_undici_and_its/</guid>
-      <pubDate>Tue, 23 Apr 2024 09:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>当安装要求仅安装为 devDependency 时，Tailwind 在生产中如何工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cb00hb/how_does_tailwind_work_in_production_when/</link>
-      <description><![CDATA[https://tailwindcss.com/docs/guides /nextjs 我以前从未真正考虑过这一点，直到现在。 Tailwind 的安装说明说将其安装为 devDependency。 如果是这样，在生产依赖项中不存在模块的情况下，它如何生成 CSS 文件？ 如果我使用 --production 标志安装新的应用程序，它甚至不会下载 devDependency 列表中列出的依赖项.   由   提交/u/phatangus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cb00hb/how_does_tailwind_work_in_production_when/</guid>
-      <pubDate>Tue, 23 Apr 2024 09:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建倒计时</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cazhk3/how_to_create_a_countdown_with_tailwind_css_and/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建倒计时[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cazhk3/how_to_create_a_countdown_with_tailwind_css_and/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我感动的网页设计😤</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cazhdu/web_design_that_makes_me/</link>
-      <description><![CDATA[我是唯一一个在访问开发人员明显伪造所有推荐并包含一堆不必要的部分和 UI 元素的网站时立即被推迟的人吗. 关于这些部分，我觉得英雄部分应该非常清楚您的网络应用程序的用途及其解决的问题。除非你有一个复杂的网络应用程序，否则添加它的工作原理/功能/用例部分是多余的，而且只会分散注意力。此外，用例部分一定是最烦人的，如果我不能从英雄部分收集我将要使用它的用途，我可能不会使用它。   由   提交/u/d41_fpflabs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cazhdu/web_design_that_makes_me/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>把 graphql 淋在 hasura 上？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cazc28/drizzle_graphql_over_hasura/</link>
-      <description><![CDATA[Drizzle 发布了 graphql 包。我认为这个想法是不必学习他们的 ORM 方言，我刚刚读到的水平相当低。如果我不关心实时性，那么我不妨使用它而不是 Hasura？我在 CloudFlare 工作人员中工作，他们刚刚发布了测试版的全局 sqlite。我没有 SPA，并且想要一个 graphql 端点，以免学习 SQL 和连接。   由   提交/u/janat087  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cazc28/drizzle_graphql_over_hasura/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发网站而不是 Web 开发 - 最佳实践帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cazaz1/developing_a_website_but_not_a_web_dev_best/</link>
-      <description><![CDATA[我正在为我正在进行的一个小项目寻求一些帮助和指导。我是一名 IT 专业人士（但不是 Web 开发人员）。我是一名经验丰富的 VMware/虚拟化/Windows 基础架构工程师，我还帮助管理一家小型非营利组织的 IT。我自己也改造了他们的网站。 我使用在我的计算机上本地运行的 Wordpress (LocalWP) 开发了新提议网站的本地实例。一旦时机成熟，我将其迁移到实时实例 - 我应该遵循哪些最佳实践来确保网站不仅优化速度，而且锁定和安全？我很感激，如果我是一名 Web 开发人员，那么我会熟悉这些细微差别和技巧，但是由于预算紧张，而且我正在为慈善机构运行此项目，因此我请求 Reddit 的人们在这种情况下帮助我:)  我还应该考虑什么吗？    由   提交/u/bapesta786  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cazaz1/developing_a_website_but_not_a_web_dev_best/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:20:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在链接之间放置线条，就像导航 div 中的图片一样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1caz4qo/how_do_i_put_the_lines_between_links_like_it_is/</link>
-      <description><![CDATA[   /u/Raxs_p   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1caz4qo/how_do_i_put_the_lines_between_links_like_it_is/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我关于我的调色板生成工具的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1caz3p4/please_give_me_feedback_on_my_palette_generator/</link>
-      <description><![CDATA[大家好，我一直在开发调色板生成器，以便能够为我的项目创建漂亮的颜色渐变（我是一名前端设计师） ）。 在 GPT 的帮助下和大量的泪水，我构建了这个工具： https ://unoriginal02.github.io/palettes/ 编辑：请注意，我不是 Web 开发人员，除了基本的 HTML 和 CSS 之外没有任何技能。这段代码是通过对 gpt 进行数百次提示并多次失败而创建的。因此，预计事情不会像您习惯的那样完善或优化。 我希望您看一下它并告诉我是否有任何重要的缺失功能或我应该注意的事情. 以下是其功能的简要说明： 启动后，您将看到一个已经创建的基本斜坡。 来自在左上角，我们看到：  基色：用于构造渐变的颜色 明亮的步骤：您想要的较浅色样的数量 明亮目标：您希望最后一个样本的亮度 色调偏移：这是一个很好的小技巧，可以稍微改变目标颜色的色调。尝试一下， 饱和度偏移：或多或少相同。 深色样本的控制器相同。  颜色斜坡：  在这里我们看到创建的样本。 基础样本在顶部用一个小三角形表示 每个样本都会得到一些信息，例如光度、hsl 值和用于命名的近似标签。  该标签是根据颜色的整体亮度计算的。它有助于查看两种颜色的权重差异是否过大或是否平滑。  如果您单击样本，则会复制其十六进制值。 &gt; 在下面，您可以从创建的颜色中获得渐变。这有助于查看颜色的进展是否平滑，并且还可以作为创建漂亮渐变的工具。 (IMO)  全局调整  全局色调：更改所有样本的色调。 全局饱和度：不言自明 全局光：不言自明 还有... EASING！：我对此感到非常自豪！它将样本的进度从线性进度更改为或多或少缓和的进度。  下载/上传  有一个蹩脚但功能齐全的系统可以下载调色板并稍后重新上传。我用它来保存 Figma 上的调色板。如果我需要稍微调整一下，就可以再次退休它。 :)  请提供任何反馈。 请原谅我糟糕的英语，感谢您的阅读。 &lt; !-- SC_ON --&gt;  由   提交/u/OxydBCN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1caz3p4/please_give_me_feedback_on_my_palette_generator/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于具有中等网络开发技能的个人网站博客，可以使用哪种工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cayq8b/which_tool_to_use_for_a_personal_website_blog/</link>
-      <description><![CDATA[您好， 我想创建一个以当地社区的数据故事为特色的网站。这是一个个人业余项目，我有数据科学背景，也做过一些网络开发和数据库管理，但我不是高级程序员。我希望能够构建与内容相关的所有内容（例如构建数据库、创建烧瓶后端将数据推送到数据库并从数据库中检索数据以及使用 React 等构建前端）。然而，我不是一个纯粹的开发人员，不想从头开始构建一个带有所有安全障碍的网站。例如，我希望人们能够向我发送电子邮件以获取主题建议，而我不想处理垃圾邮件过滤、设置电子邮件服务器等。另外，我可能希望我附近的人能够贡献数据并在网站上注册。对于这些事情我想要插件之类的。  我之前使用过 WordPress，但并不是 100% 满意（加上我的网站被黑了……）。我觉得它对于我的用例来说太臃肿了（但如果它是最佳候选者，我仍然会接受它）。您会为我的用例推荐什么？    由   提交/u/rick854  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cayq8b/which_tool_to_use_for_a_personal_website_blog/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:40:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
