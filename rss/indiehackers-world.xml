@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 24 Apr 2024 06:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 09:14:37 GMT</lastBuildDate>
     <item>
       <title>您使用在线工具来计算百分比吗？</title>
       <link>https://feed.indiehackers.world/post/918cb035a1</link>
@@ -51,7 +51,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>使用身份验证即服务，还是自己构建？</title>
       <link>https://feed.indiehackers.world/post/ca51cd5d30</link>
       <description><![CDATA[然而，对于我想要实现的目标来说，它们似乎都太过强大，只是使用电子邮件和密码进行简单的用户身份验证。我不需要授权、用户角色、多重身份验证、单点登录等。我也不期望有大量的注册用户。
-💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这种特殊服务？否则，您为什么决定自己编写代码？
+💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这项特定服务？否则，您为什么决定自己编写代码？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ca51cd5d30</guid>
       <pubDate>Mon, 15 Apr 2024 17:29:31 GMT</pubDate>
@@ -79,7 +79,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>生活仪表盘</title>
       <link>https://feed.indiehackers.world/post/32ff6acfea</link>
-      <description><![CDATA[TLDR：模块化仪表板，可让您实施/跟踪对您重要的事情。
+      <description><![CDATA[TLDR：模块化仪表板，可让您实施/跟踪对您来说重要的事情。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/32ff6acfea</guid>
       <pubDate>Tue, 09 Apr 2024 21:19:36 GMT</pubDate>
@@ -97,7 +97,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>向导师开放——如果有人感兴趣的话？</title>
       <link>https://feed.indiehackers.world/post/1f35f37edf</link>
-      <description><![CDATA[我的简历中有简短的细节，但我在用户体验方面建立了职业生涯 - 与我来自 BBC 的朋友一起经营我自己的位于伦敦的代理机构天和兄弟。我们设计并构建了员工用来移动媒体的用户界面。
+      <description><![CDATA[我的简历中有简要详细信息，但我在用户体验领域建立了职业生涯 - 与我来自 BBC 的朋友一起经营我自己的伦敦代理机构天和兄弟。我们设计并构建了员工用来移动媒体的用户界面。
 现在，我正在建立一家初创公司解决架构和技术方面的反馈问题。施工 – 3D 协作带来很多乐趣。我们去年完成了天使轮融资。
 我对软件设计感兴趣，并且是 DDD 的大力倡导者。我用 Svelte 和 React 构建应用程序。
 如果这些主题中的任何一个引起您的共鸣，请打个招呼👋。我是新来的，你们看起来都很友好。
