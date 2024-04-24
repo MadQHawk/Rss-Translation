@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 24 Apr 2024 09:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 12:25:33 GMT</lastBuildDate>
+    <item>
+      <title>自动化基础设施方法</title>
+      <link>https://www.reddit.com/r/automation/comments/1cbwokc/automation_infrastructures_methodologies/</link>
+      <description><![CDATA[我即将参加工作面试，我被要求熟悉编写自动化基础设施的方法。这些是什么？我应该在哪里阅读有关它们的信息？感谢您的帮助！   由   提交 /u/Cakes_Straightener   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cbwokc/automation_infrastructures_methodologies/</guid>
+      <pubDate>Wed, 24 Apr 2024 12:17:27 GMT</pubDate>
+    </item>
     <item>
       <title>欣赏</title>
       <link>https://www.reddit.com/r/automation/comments/1cbfbyt/appreciation/</link>
@@ -78,23 +85,16 @@
     <item>
       <title>包含我申请的职位列表的 Google 表格</title>
       <link>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</link>
-      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码方法可以自动执行此操作：我正在申请工作的网站/招聘网站有 4 个，我想对其进行跟踪。我想通过制作包含职位发布中的职位和信息（例如职位、公司、详细信息、薪水和职位链接）的 Google 表格来实现自动化。我知道使用 LinkedIn 和 Zapier 很容易做到这一点，但问题是其他招聘网站都是本地的，不可能将它们也集成到 Zapier 中。我应该在这里使用什么工具？   由   提交 /u/rzulery   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码方法可以自动执行此操作：我正在申请工作的网站/招聘网站有 4 个，我想对其进行跟踪。我想通过制作包含职位发布中的职位和信息（例如职位、公司、详细信息、薪水和职位链接）的 Google 表格来自动化此操作。我知道使用 LinkedIn 和 Zapier 很容易做到这一点，但问题是其他招聘网站都是本地的，不可能将它们也集成到 Zapier 中。我应该在这里使用什么工具？   由   提交 /u/rzulery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</guid>
       <pubDate>Thu, 18 Apr 2024 21:21:21 GMT</pubDate>
     </item>
     <item>
       <title>自动拨号器自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1c7cefx/auto_dialler_automation/</link>
-      <description><![CDATA[如果不是正确的 subreddit，我深表歉意，但我正在努力在网上找到相关信息。我希望定期检查几家竞争对手企业的等待时间。我的任务是每周按规定的时间给 4 家企业打电话并记下他们的等待时间。我想知道是否有可用的产品或解决方案可以在设定的时间自动拨打这些号码，对其进行预编程以根据每个呼叫中​​心 IVR 导航 IVR，在连接到座席后断开连接，最后提供等待时间的输出找一个代理。我不想给这些企业带来滋扰，所以我一定会限制频率。即使有人可以指出我在网上查找时使用的术语的正确方向。大多数结果是针对销售团队的呼叫中心解决方案实时 IVR 和自动外拨拨号器。   由   提交/u/butters3655  [链接] [评论]]]></description>
+      <description><![CDATA[如果不是正确的 subreddit，我深表歉意，但我很难在网上找到相关信息。我希望定期检查几家竞争对手企业的等待时间。我的任务是每周按规定的时间给 4 家企业打电话并记下他们的等待时间。我想知道是否有可用的产品或解决方案可以在设定的时间自动拨打这些号码，对其进行预编程以根据每个呼叫中​​心 IVR 导航 IVR，在连接到座席后断开连接，最后提供等待时间的输出找一个代理。我不想给这些企业带来滋扰，所以我一定会限制频率。即使有人可以指出我在网上查找时使用的术语的正确方向。大多数结果是针对销售团队的呼叫中心解决方案实时 IVR 和自动外拨拨号器。   由   提交/u/butters3655  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c7cefx/auto_dialler_automation/</guid>
       <pubDate>Thu, 18 Apr 2024 19:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能自动化这个？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c6zell/how_can_i_automate_this/</link>
-      <description><![CDATA[我有大约 3000 个 Excel 文件。它们保存在一个主文件夹的不同文件夹中。每个文件都有多个选项卡。我想编写一个程序来打开每个 Excel 文件中的这个选项卡，将文件复制并粘贴到另一个选项卡中。实现自动化的正确方法是什么？是VBA吗？    由   提交 /u/Proper6ioq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c6zell/how_can_i_automate_this/</guid>
-      <pubDate>Thu, 18 Apr 2024 09:52:53 GMT</pubDate>
     </item>
     <item>
       <title>您为客户执行的最后一次自动化操作是什么？</title>
