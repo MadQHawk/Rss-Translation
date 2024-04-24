@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 24 Apr 2024 12:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:14:06 GMT</lastBuildDate>
+    <item>
+      <title>ML开发中最烦人的法律问题是什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1cc0cb6/what_is_the_most_annoying_legal_thing_in_your_ml/</link>
+      <description><![CDATA[我是一名AI算法开发者，最近我发现很烦人，法制公寓的一些人告诉我数据集的公平性和偏见和一切，它确实让我的工作更加努力……   由   提交/u/Fromm1984  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cc0cb6/what_is_the_most_annoying_legal_thing_in_your_ml/</guid>
+      <pubDate>Wed, 24 Apr 2024 14:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌云机器学习考试准备崩溃</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbzkq9/google_cloud_machine_learning_exam_preparation/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1cbzkq9/google_cloud_machine_learning_exam_preparation/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbzkq9/google_cloud_machine_learning_exam_preparation/</guid>
+      <pubDate>Wed, 24 Apr 2024 14:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件测试中的差距分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbz8ch/gap_analysis_in_software_testing/</link>
+      <description><![CDATA[ 由   提交/u/thumbsdrivesmecrazy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbz8ch/gap_analysis_in_software_testing/</guid>
+      <pubDate>Wed, 24 Apr 2024 14:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我们在评估软件项目方面表现不佳</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbytm9/why_we_suck_at_estimating_software_projects/</link>
+      <description><![CDATA[ 由   提交/u/Franco1875  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbytm9/why_we_suck_at_estimating_software_projects/</guid>
+      <pubDate>Wed, 24 Apr 2024 13:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像滑块| HTML 和 CSS 🎞️</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbync6/image_slider_html_css/</link>
+      <description><![CDATA[ 由   提交/u/robson_muniz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbync6/image_slider_html_css/</guid>
+      <pubDate>Wed, 24 Apr 2024 13:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>面部活力编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbxs6j/programming_for_face_liveness/</link>
+      <description><![CDATA[ 由   提交/u/MiniAiLive  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbxs6j/programming_for_face_liveness/</guid>
+      <pubDate>Wed, 24 Apr 2024 13:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>无名英雄 - 文档</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbxqhd/the_unsung_hero_documentation/</link>
+      <description><![CDATA[ 由   提交 /u/topcodemangler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbxqhd/the_unsung_hero_documentation/</guid>
+      <pubDate>Wed, 24 Apr 2024 13:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者的 PR 合并平均需要 14 小时</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbxnyo/the_median_developers_prs_take_14_hours_to_merge/</link>
+      <description><![CDATA[ 由   提交 /u/fosterfriendship   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbxnyo/the_median_developers_prs_take_14_hours_to_merge/</guid>
+      <pubDate>Wed, 24 Apr 2024 13:04:25 GMT</pubDate>
+    </item>
     <item>
       <title>Java 作用域值：更好的 ThreadLocals</title>
       <link>https://www.reddit.com/r/programming/comments/1cbwev9/java_scoped_values_better_threadlocals/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/Embarrassed_Coach692   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cbu1ec/medicine_dispensing_machine_error/</guid>
       <pubDate>Wed, 24 Apr 2024 09:38:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在用 C# 构建一个简单的项目，我需要帮助了解我的代码到目前为止是否具有基于面向对象标准的良好架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbtycq/i_am_building_a_simple_project_in_c_i_need_help/</link>
-      <description><![CDATA[ 由   提交/u/brown_moon_stars   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbtycq/i_am_building_a_simple_project_in_c_i_need_help/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:32:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>你一直用这个词 • Sam Newman</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbts3u/you_keep_using_that_word_sam_newman/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbts3u/you_keep_using_that_word_sam_newman/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用 C++ 创建简单的生成式 AI 代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbtrbr/how_to_create_simple_generative_ai_code_in_c/</link>
-      <description><![CDATA[ 由   提交 /u/yimmasabi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbtrbr/how_to_create_simple_generative_ai_code_in_c/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者可信度——如何建立可信度以及为什么它很重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbthas/developer_credibility_how_do_you_build_up/</link>
-      <description><![CDATA[今天欧洲中部时间 16:00，参加我们关于开发者可信度的精彩会议。如何建立信誉？为什么它对您的职业道路很重要？阿德里安·斯坦内克 (Adrian Stanek) 担任主持人，我将作为演讲嘉宾加入——我希望您能参加。 #CareerDevelopment #Engineering #Success   由   提交/u/__zaphod  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbthas/developer_credibility_how_do_you_build_up/</guid>
-      <pubDate>Wed, 24 Apr 2024 08:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>物联网设备远程任务及其现实生活示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbtct3/iot_device_remote_task_and_its_real_life_examples/</link>
-      <description><![CDATA[ 由   提交/u/Yukti_Solutions  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbtct3/iot_device_remote_task_and_its_real_life_examples/</guid>
-      <pubDate>Wed, 24 Apr 2024 08:50:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新思考模拟：PHP 和 Typescript 示例中的 DIY 方法与框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbtapf/rethinking_mocking_diy_approach_vs_frameworks_on/</link>
-      <description><![CDATA[ 由   提交/u/sarvendev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbtapf/rethinking_mocking_diy_approach_vs_frameworks_on/</guid>
-      <pubDate>Wed, 24 Apr 2024 08:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 Micro HTMX SSR 框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbrxh3/building_a_micro_htmx_ssr_framework/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbrxh3/building_a_micro_htmx_ssr_framework/</guid>
-      <pubDate>Wed, 24 Apr 2024 07:05:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>可组合性：设计可视化编程语言 — John Austin</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbrmah/composability_designing_a_visual_programming/</link>
-      <description><![CDATA[ 由   提交 /u/Kleptine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbrmah/composability_designing_a_visual_programming/</guid>
-      <pubDate>Wed, 24 Apr 2024 06:44:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
