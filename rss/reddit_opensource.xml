@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 00:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:14:21 GMT</lastBuildDate>
     <item>
       <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
       <link>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
-      <description><![CDATA[        提交人    /u/SoftwareCitadel   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
       <pubDate>Wed, 24 Apr 2024 21:58:29 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>loreVault 需要测试人员，这是一个从配方创建文件夹的简单工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</link>
-      <description><![CDATA[大家好， 这几个星期我一直在致力于 lorevault。它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可以是用于可重现的测试/构建环境或简单的项目模板。 一些重要功能是：  确保文件未更改的哈希值。 一个文件有多个源以实现冗余。 文件可以从本地或远程 git-repos 的存档或提交中获取。 标签可用于有条件包含文件。&lt; /li&gt; 可以包含其他配置文件。 如果该文件夹已经存在，则可以避免很多工作。  我为什么要告诉你这个？我希望找到愿意测试该程序的人。当然，我已经实现了一些测试，但这只是意味着我在我的机器上想出了一些测试用例。可能存在许多明显的错误。 我期待您的 GitHub 问题！   由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 几个星期以来，我一直在研究 lorevault。 它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可用于可重现的测试/构建环境或简单的项目模板。 一些重要功能包括：  哈希以确保文件未更改。 一个文件的多个来源以实现冗余。 文件可以从档案中获取，也可以从本地或远程 git-repos 的提交中获取。 标签可用于有条件地包含文件。 可以包括其他配置文件。 如果文件夹已经存在，则可以避免大量工作。  我为什么要告诉你这个？ 我希望找到愿意测试这个程序的人。当然，我已经实现了一些测试，但这只意味着我提出的一些测试用例可以在我的机器上运行。可能有很多明显的错误。 我期待您的 GitHub 问题！    提交人    /u/Bowtiestyle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</guid>
       <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 23 Apr 2024 21:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>java 初学者开源项目</title>
+      <title>Java 初学者开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbfnbw/beginner_opensource_project_in_java/</link>
       <description><![CDATA[大家好，我是开源的初学者，我想为 Java 或 java + spring boot 的开源做出贡献，你们中的任何人都可以给我推荐一些好的东西吗？此存储库    由   提交 /u/Cautious-Sherbert659    reddit.com/r/opensource/comments/1cbfnbw/beginner_opensource_project_in_java/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbfnbw/beginner_opensource_project_in_java/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>将选项卡分组到左侧 chrome 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
-      <description><![CDATA[大家好！我很高兴能首次涉足开源社区。 我制作了一个 Chrome 扩展程序 ，通过管理标签杂乱来提高浏览效率。只需单击一下，它就会将所有标签分组到当前标签的左侧，让我可以专注于任务而不会丢失打开的页面。它会最小化组并排除任何固定的标签。 我已将最近的更新推送到  GitHub 存储库。虽然此版本尚未登陆 Chrome 商店，但它包含一项新功能：忽略现有组的功能。对于想要对群组进行分组的人来说，这可能是更好的选择。    提交人    /u/CuntBuster2077   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然此版本尚未上架 Chrome 应用商店，但它包含一项新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
       <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
     </item>

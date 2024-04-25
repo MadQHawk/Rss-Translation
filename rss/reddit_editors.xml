@@ -4,11 +4,25 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 25 Apr 2024 00:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:13:54 GMT</lastBuildDate>
+    <item>
+      <title>除了我之外，有人可以重新创建一个标题吗？请dm获取信息</title>
+      <link>https://www.reddit.com/r/editors/comments/1cchm84/can_someone_recreate_a_title_but_for_me_please_dm/</link>
+      <description><![CDATA[ 由   提交/u/Airsoft_EZ14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cchm84/can_someone_recreate_a_title_but_for_me_please_dm/</guid>
+      <pubDate>Thu, 25 Apr 2024 03:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>多伦多哪里可以展示您的编辑以获得建议？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cchhuj/place_to_show_your_edit_it_toronto_for_advice/</link>
+      <description><![CDATA[大家好！我正在寻找一个实体场所，当我遇到困难时可以走进并向某人展示我的作品并获得一些建议？有点像你走进苹果商店并随时提问（只要不拥挤？）或者相机商店如何回答我的相机问题。我发现自己在使用 Premiere 时经常陷入困境，不知道该怎么办。我想要一个 Premiere Pro 商店，哈哈！预先感谢您:)    由   提交/u/Lazy-Bit-1898   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cchhuj/place_to_show_your_edit_it_toronto_for_advice/</guid>
+      <pubDate>Thu, 25 Apr 2024 03:04:56 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Shutter Encoder 帮助将 srt 文件硬编码到 mp4 电影文件时出错？</title>
       <link>https://www.reddit.com/r/editors/comments/1ccaa21/error_hardcoding_srt_file_onto_mp4_movie_file/</link>
-      <description><![CDATA[大家好，我正在尝试使用快门编码器将字幕硬编码到 mp4 电影文件上，我之前已经多次这样做了，没有出现问题。使用 vlc 播放器，srt 文件与 mp4 电影文件同步并完美播放，但是当我尝试使用快门编码器以 mpeg2 或 h264 作为输出编解码器对字幕进行硬编码时，出现以下错误消息： &quot; [AVFilterGraph @ 0000025e06627800] 处理过滤器图时出错：处理输入时发现无效数据 [in#1 @ 0000025e04fbecc0] 打开输入时出错：处理输入时发现无效数据 打开输入文件时出错：处理输入时发现无效数据&quot;  我已经设法使用快门编码器将其他 srt 文件硬编码到同一个 mp4 电影文件中，但不幸的是字幕与电影略微不同步，所以显然我更愿意对完美同步的 srt 进行硬编码。如果有人能在这里帮助我，我将不胜感激？谢谢    提交人    /u/blackholesun85   [link] [评论]]]></description>
+      <description><![CDATA[嘿，我正在尝试使用快门编码器将字幕硬编码到 mp4 电影文件上，我之前已经做过很多次了，没有出现问题。 srt 文件使用 vlc 播放器与 mp4 电影文件同步并完美播放，但是当我尝试使用快门编码器以 mpeg2 或 h264 作为输出编解码器对 subs 进行硬编码时，我收到以下错误消息：   ” [AVFilterGraph @ 0000025e06627800] 处理filtergraph时出错：处理输入时发现无效数据 [in#1 @ 0000025e04fbecc0] 打开输入时出错：处理输入时发现无效数据 打开输入文件时出错：处理时发现无效数据输入”  我已经设法使用快门编码器将其他 srt 文件硬编码到同一个 mp4 电影文件中，但不幸的是字幕与电影稍微不同步，所以显然我更喜欢对完美同步的 srt 进行硬编码。如果有人可以帮助我，我真的很感激？谢谢   由   提交/u/blackholesun85  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ccaa21/error_hardcoding_srt_file_onto_mp4_movie_file/</guid>
       <pubDate>Wed, 24 Apr 2024 21:32:31 GMT</pubDate>
     </item>
@@ -20,14 +34,14 @@
       <pubDate>Wed, 24 Apr 2024 19:39:03 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法下载并运行 avid 的最初版本之一？</title>
+      <title>有没有办法下载并运行 avid 的第一个版本？</title>
       <link>https://www.reddit.com/r/editors/comments/1cc3o2w/is_there_a_way_to_download_and_run_one_of_the/</link>
       <description><![CDATA[我很好奇，我在我母亲的硬盘中发现了一个 2004 年的旧项目，我尝试打开它，但它是空的。我很想下载并运行 Avid 的第一个版本，以透过我 2004 年母亲的眼睛来看看！ :) 有什么想法吗？感谢您的帮助！ Mac os Sonoma 2.6 GHz Intel Core i7 6 coeurs 16 Go 2667 MHz DDR4 AMD Radeon Pro 5300M 4 Go Intel UHD Graphics 630 1536 Mo &lt; !-- SC_ON --&gt;  由   提交/u/lil_bedigas  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc3o2w/is_there_a_way_to_download_and_run_one_of_the/</guid>
       <pubDate>Wed, 24 Apr 2024 17:09:51 GMT</pubDate>
     </item>
     <item>
-      <title>屏幕捕获素材的质量比下载素材的质量更高。为什么？</title>
+      <title>屏幕捕获的素材质量比下载的素材高。为什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1cc0wpd/screen_capturing_footage_is_higher_quality_than/</link>
       <description><![CDATA[我经常获取新闻片段进行编辑。内部工作流程是使用 OBS 或 Screenflow，播放素材并录制。我认为这需要太长时间，并且受您的互联网速度和缓冲的影响，因此我通常会下载素材（Clipgrab、VideoDownloadHelper、fdown.net、yt-dlp 等）。 这很有效几年前都还好，直到最近。现在，我下载的一些素材分辨率较低或具有缓冲像素化，但在我的浏览器中播放看起来很棒。想知道为什么会这样。 （我认为下载视频可以消除这些问题） 编辑：机器人的系统规格！ MacBook Pro 内存：96 GB 显卡：Apple M2 Max   由   提交/u/batteries4holden  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cc0wpd/screen_capturing_footage_is_higher_quality_than/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Tue, 23 Apr 2024 16:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe Premiere Pro 2020 - 无音频:(</title>
+      <title>Adobe Premiere Pro 2020 - 没有音频 :(</title>
       <link>https://www.reddit.com/r/editors/comments/1cb90y8/adobe_premiere_pro_2020_no_audio/</link>
-      <description><![CDATA[我什么都试过了。请帮忙。我可以在其他东西上听到音频。     提交人    /u/publicganjaarts   [link] [comments]]]></description>
+      <description><![CDATA[我已经尝试了一切。请帮忙。我可以听到其他内容的音频。    由   提交 /u/publicganjaarts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cb90y8/adobe_premiere_pro_2020_no_audio/</guid>
       <pubDate>Tue, 23 Apr 2024 16:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作室希望我遵循的安全指南/审核/规则？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cb8vjf/security_guidelinesauditrules_a_studio_wants_me/</link>
-      <description><![CDATA[所以我即将开始出售我自己的整理帖子“房子”。我想瞄准更高端的东西，这是我通常在“真实”领域做的事情。后期公司。 向工作室发送校准报告和为视觉特效供应商管理视觉特效拉动等技术性工作都在我的掌控之中，但阻止我认真销售服务的是安全性和数据管理方面。 当工作室人员对邮局进行审核时，我去过那里，我想知道是否有人对他们在安全方面寻求的东西有任何文件、指南或建议和数据管理？是否有需要遵守的行业协议？ 我正在寻找人员来管理数据和安全基础设施，但我不知道如何向他们说明我的需求。   由   提交 /u/broomosh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cb8vjf/security_guidelinesauditrules_a_studio_wants_me/</guid>
-      <pubDate>Tue, 23 Apr 2024 16:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Topaz video AI 在编辑软件之前还是之后？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cb78qh/topaz_video_ai_before_editing_software_or_after/</link>
-      <description><![CDATA[我对使用不同摄像机录制的视频有多个角度。 我应该在之前还是之后使用 Topaz video AI 处理视频将视频放入我的编辑软件中？ （达芬奇决心）   由   提交/u/pantyjob3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cb78qh/topaz_video_ai_before_editing_software_or_after/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:18:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
