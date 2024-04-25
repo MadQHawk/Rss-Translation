@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>亚洲新闻 |最新头条新闻 |路透社</title>
+    <title>亚洲新闻 | 最新头条新闻 | 路透社</title>
     <link>https://www.reuters.com/world/asia-pacific/</link>
     <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:18:59 GMT</lastBuildDate>
+    <item>
+      <title>独家：消息人士称，如果法律选择失败，字节跳动更愿意在美国关闭 TikTok</title>
+      <link>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</link>
+      <description><![CDATA[四位消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么该中国公司宁愿关闭其亏损的应用程序，也不愿出售该应用程序。]]></description>
+      <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着金融股和工业股上涨，斯里兰卡股市收高</title>
+      <link>https://www.reuters.com/markets/asia/sri-lankan-shares-end-higher-financials-industrials-gain-2024-04-25/</link>
+      <description><![CDATA[受金融和工业股上涨的推动，斯里兰卡股市周四收高。]]></description>
+      <guid>https://www.reuters.com/markets/asia/sri-lankan-shares-end-higher-financials-industrials-gain-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:03:50 GMT</pubDate>
+    </item>
     <item>
       <title>全球矿业领域的顶级交易</title>
       <link>https://www.reuters.com/markets/deals/top-deals-global-mining-sector-2024-04-25/</link>
@@ -57,23 +71,9 @@
     <item>
       <title>贝莱德支持的 Decarbonization Partners 为第一支基金筹集了 14 亿美元</title>
       <link>https://www.reuters.com/business/blackrock-backed-decarbonization-partners-raises-14-bln-first-fund-2024-04-25/</link>
-      <description><![CDATA[专注于气候变化的投资者 Decarbonization Partners（贝莱德和新加坡国有投资公司淡马锡的合作伙伴）周四表示，其第一只基金已筹集到高于目标的 14 亿美元资金。]]></description>
+      <description><![CDATA[专注于气候投资的 Decarbonization Partners 是贝莱德和新加坡国有投资公司淡马锡合资成立的，该公司周四表示，其首只基金已筹集到高于目标的 14 亿美元。]]></description>
       <guid>https://www.reuters.com/business/blackrock-backed-decarbonization-partners-raises-14-bln-first-fund-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>丰田在泰国主要市场试点电动皮卡车</title>
-      <link>https://www.reuters.com/business/autos-transportation/toyota-pilots-ev-pickup-trucks-key-thai-market-2024-04-25/</link>
-      <description><![CDATA[周四，丰田在泰国推出了九辆全电动 Hilux Revo 皮卡的公共交通试点项目，泰国是东南亚电动汽车的一个重要战场，中国企业正在泰国挑战日本汽车制造商的主导地位。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/toyota-pilots-ev-pickup-trucks-key-thai-market-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 09:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>马来西亚前总理马哈蒂尔因涉及其儿子的案件面临反腐败调查</title>
-      <link>https://www.reuters.com/world/asia-pacific/malaysia-ex-pm-mahathir-facing-anti-graft-probe-case-involving-his-sons-2024-04-25/</link>
-      <description><![CDATA[马来西亚反腐败委员会（MACC）主席周四表示，马来西亚前总理马哈蒂尔·穆罕默德是因涉及其儿子的腐败调查而接受调查的人之一。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/malaysia-ex-pm-mahathir-facing-anti-graft-probe-case-involving-his-sons-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 08:44:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

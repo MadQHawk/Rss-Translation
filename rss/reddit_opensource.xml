@@ -4,18 +4,32 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:17:46 GMT</lastBuildDate>
     <item>
-      <title>有人刚刚复制了我的整个代码库。我可以做什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccob3h/somebody_just_copied_my_entire_code_base_what_i/</link>
-      <description><![CDATA[我创建了一个网站来解决我自己的问题。我将其开源，因为如果有人想引用它，就让他们来吧。 它没有任何广告。我创建它并不是为了从中赚钱。  几个月前，有人联系我。他想收购我的网站。在我看来他更像是骗子。他想让我把域名转让给他。我叫他滚蛋。 我对这个家伙做了一些研究。结果他提供了与我的网站相同的功能。这家伙不知道如何编码。他从一些 Github 存储库复制了之前的代码。他只是想让我免费解决他的问题。  这家伙照原样复制了整个代码。刚刚删除了关于页面。 Github 链接是他自己的网站。 人们引用我的代码没有任何问题。但完全出于商业目的进行复制是不可接受的。我的 Github 存储库没有任何许可证。 这是我的存储库 https://github.com/indahud/ getupilink 这家伙来自印度。  你们认为我应该做什么？   由   提交 /u/lonew0lfy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccob3h/somebody_just_copied_my_entire_code_base_what_i/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:13:45 GMT</pubDate>
+      <title>使用 Burr 构建电子邮件助手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
+      <description><![CDATA[    /u/benizzy1   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
+      <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>试用 Minarca Data Backup v6 Beta</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccwr3l/test_drive_minarca_data_backup_v6_beta/</link>
+      <description><![CDATA[大家好！ 我很高兴地宣布 Minarca Data Backup v6 Beta 的发布，我需要您的帮助来制作这是迄今为止最好的版本！ 🎉 这就是您应该参与的原因：  新功能：Minarca v6 包含令人兴奋的更新，包括最新版本的 rdiff-备份，现在兼容 Linux、Windows 和 MacOS。 增强的用户体验：向时尚的新图形用户界面问好，以及命令行界面以增加灵活性。  成为先锋：通过加入 Beta 测试，您将站在塑造 Minarca 未来的最前沿。您的反馈将直接影响最终产品。  准备好投入使用了吗？您可以通过以下方式参与：  下载并测试：前往 https:// minarca.org/beta 并获取 Minarca v6 Beta 副本。 分享您的反馈：发现错误？有改进建议吗？我们想听听这一切！通过在 Gitlab 或 Github。 传播信息：与您的朋友分享此帖子，帮助我们接触更多测试人员，同事和爱好者们。  让我们共同努力，让 Minarca v6 成为最好的！感谢您参与这次旅程。 🚀 测试愉快！   由   提交/u/ikus060  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccwr3l/test_drive_minarca_data_backup_v6_beta/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora 40 和 Ubuntu 24.04 - 如何安装和使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</link>
+      <description><![CDATA[       由   提交 /u/nmariusp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:19:35 GMT</pubDate>
     </item>
     <item>
       <title>🚀 发布：自动化文档</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</link>
-      <description><![CDATA[嗨，Reddit， 我很高兴向您介绍自动文档。此工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 — 所有这些都组织到 Markdown 文件中以便于查看。 主要特点：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown 以简化和清晰  非常适合任何希望自动化文档的人。由于我计划使用 Ollama 增强其功能以提供更详细的解释，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。     由    /u/tilltmk 提交   [链接] [评论]]]></description>
+      <description><![CDATA[您好 Reddit， 我很高兴向您介绍自动化文档。该工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 - 所有这些都组织成 Markdown 文件以便于查看。 主要功能：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown，以实现简单明了  非常适合任何希望自动化文档编写的人。我计划通过 Ollama 增强其功能以获取更详细的说明，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。    由   提交 /u/tilltmk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</guid>
       <pubDate>Thu, 25 Apr 2024 08:36:52 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
+      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
       <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 24 Apr 2024 11:28:15 GMT</pubDate>
     </item>
     <item>
-      <title>[指导初学者] 非常感谢您的建议！</title>
+      <title>[新手指导] 感谢您的建议！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</link>
       <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时，我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</guid>
       <pubDate>Wed, 24 Apr 2024 08:22:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>分散式虚拟机管理程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbnjh1/decentralized_hypervisor/</link>
-      <description><![CDATA[假设创建一个去中心化的虚拟机管理程序需要什么。我想象的是一个几乎类似于 proxmox 或 wmware 的平台，您可以在其中创建完整的虚拟机或 lxc 容器，并且它们（多个实例）将部署在某种共享网络上。几乎就像 DeStor 这样的共享网络上的 proxmox，人们可以将资源奉献给网络并从中获得报酬。    由   提交/u/Dw-Kunta  /u/Dw-Kunta  reddit.com/r/opensource/comments/1cbnjh1/decentralized_hypervisor/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbnjh1/decentralized_hypervisor/</guid>
-      <pubDate>Wed, 24 Apr 2024 02:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>go Between：“Сloud 时代的现代简约负载均衡器”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</link>
-      <description><![CDATA[       由   提交/u/unquietwiki  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</guid>
-      <pubDate>Tue, 23 Apr 2024 21:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

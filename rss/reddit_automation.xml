@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:15:44 GMT</lastBuildDate>
     <item>
       <title>关于“Festo”设备的问题</title>
       <link>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</link>
@@ -57,14 +57,14 @@
     <item>
       <title>从图像中读取文本并将其放入电子邮件中？</title>
       <link>https://www.reddit.com/r/automation/comments/1cafjd6/read_text_from_an_image_and_put_it_into_an_email/</link>
-      <description><![CDATA[是否有任何免费程序或系统可以让我自动执行从图像中读取参考编号、将其转换为可编辑文本，然后插入电子邮件的过程？ 我过去曾使用自动热键，取得了巨大的成功，但那时我不记得它能够读取图像并转换为文本。想知道我是否需要完全不同的东西，或者什么。有什么建议吗？    提交人    /u/Structure_Spoon   [链接] [评论]]]></description>
+      <description><![CDATA[有没有我可以使用的免费程序或系统，可以让我自动执行从图像中读取参考号并将其转换为的过程可编辑的文本，然后插入到电子邮件中？ 我过去使用自动热键取得了巨大成功，但当时我不记得它能够读取图像并转换为文本。想知道我是否需要完全不同的东西，或者什么。有什么建议吗？   由   提交/u/Structure_Spoon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cafjd6/read_text_from_an_image_and_put_it_into_an_email/</guid>
       <pubDate>Mon, 22 Apr 2024 16:42:02 GMT</pubDate>
     </item>
     <item>
       <title>新贝需要帮助。在 pike13 上提前预订活动的自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1c91t3y/newbe_needs_help_automation_for_booking_events_in/</link>
-      <description><![CDATA[嗨， 我需要一些帮助来实现我想要构建的机器人的第一个想法，但我不知道在哪里开始并希望你能帮我找到合适的工具和代码。 所以计划是：我想创建机器人，在特殊的日期和时间自动在 pike13 体育页面上预订赛事。所以例如每周六 10:30，机器人应该登录我的帐户，打开下周即将举行的活动，并为我预订一个位置。 我已经查看了 Selenium，但无法让它工作因为 pike13 似乎是用 Angular 构建的，我无法获取应该单击的元素的 ID 或类。 那么你们知道如何完成此操作吗？ &lt; /div&gt;  由   提交 /u/Hupp1   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我需要一些帮助来实现我想要构建的机器人的第一个想法，但我不知道从哪里开始，希望您能帮助我找到合适的工具和代码。 所以计划是：我想创建一个机器人，在特定的日期和时间自动在 pike13 体育页面上预订活动。因此，例如，每个星期六 10:30，机器人应该登录到我的帐户，打开下周即将举行的活动并为我预订一个位置。 我已经查看了 Selenium，但我无法使其工作，因为 pike13 似乎是用 angular 构建的，我无法获取应该单击的元素的 id 或类。 所以你们有什么想法我该怎么做吗？    提交人    /u/Hupp1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c91t3y/newbe_needs_help_automation_for_booking_events_in/</guid>
       <pubDate>Sat, 20 Apr 2024 22:02:57 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>包含我申请的职位列表的 Google 表格</title>
       <link>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</link>
-      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码方法可以自动执行此操作：我正在申请工作的网站/招聘网站有 4 个，我想对其进行跟踪。我想通过制作包含职位发布中的职位和信息（例如职位、公司、详细信息、薪水和职位链接）的 Google 表格来自动化此操作。我知道使用 LinkedIn 和 Zapier 很容易做到这一点，但问题是其他招聘网站都是本地的，不可能将它们也集成到 Zapier 中。我应该在这里使用什么工具？   由   提交 /u/rzulery   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码的方式可以自动化此过程：我正在申请 4 个网站/求职板，我想跟踪它。我想通过制作 Google 表格来自动化此过程，其中包含职位和职位发布信息，例如头衔、公司、详细信息、薪水和发布链接。我知道使用 LinkedIn 和 Zapier 很容易做到，但问题是其他求职板是本地的，无法将它们集成到 Zapier 中。我应该在这里使用什么工具？    提交人    /u/rzulery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</guid>
       <pubDate>Thu, 18 Apr 2024 21:21:21 GMT</pubDate>
     </item>
     <item>
       <title>自动拨号器自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1c7cefx/auto_dialler_automation/</link>
-      <description><![CDATA[如果不是正确的 subreddit，我深表歉意，但我很难在网上找到相关信息。我希望定期检查几家竞争对手企业的等待时间。我的任务是每周按规定的时间给 4 家企业打电话并记下他们的等待时间。我想知道是否有可用的产品或解决方案可以在设定的时间自动拨打这些号码，对其进行预编程以根据每个呼叫中​​心 IVR 导航 IVR，在连接到座席后断开连接，最后提供等待时间的输出找一个代理。我不想给这些企业带来滋扰，所以我一定会限制频率。即使有人可以指出我在网上查找时使用的术语的正确方向。大多数结果是针对销售团队的呼叫中心解决方案实时 IVR 和自动外拨拨号器。   由   提交/u/butters3655  [链接] [评论]]]></description>
+      <description><![CDATA[如果不是正确的 subreddit，我深表歉意，但我正在努力在网上找到相关信息。我希望定期检查几家竞争对手企业的等待时间。我的任务是每周按规定的时间给 4 家企业打电话并记下他们的等待时间。我想知道是否有可用的产品或解决方案可以在设定的时间自动拨打这些号码，对其进行预编程以根据每个呼叫中​​心 IVR 导航 IVR，在连接到座席后断开连接，最后提供等待时间的输出找一个代理。我不想给这些企业带来滋扰，所以我一定会限制频率。即使有人可以指出我在网上查找时使用的术语的正确方向。大多数结果是针对销售团队的呼叫中心解决方案实时 IVR 和自动外拨拨号器。   由   提交/u/butters3655  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c7cefx/auto_dialler_automation/</guid>
       <pubDate>Thu, 18 Apr 2024 19:38:31 GMT</pubDate>
     </item>

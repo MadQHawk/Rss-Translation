@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:18:16 GMT</lastBuildDate>
+    <item>
+      <title>开源对您意味着什么？</title>
+      <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
+      <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。也就是说，对我来说，开源允许更多的协作、定制和自由。 
+我很想知道开源对您意味着什么，以及为什么您愿意或不愿意使用开源平台。 
+请告诉我！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f72bf8d4db</guid>
+      <pubDate>Thu, 25 Apr 2024 15:52:53 GMT</pubDate>
+    </item>
     <item>
       <title>您使用在线工具来计算百分比吗？</title>
       <link>https://feed.indiehackers.world/post/918cb035a1</link>
@@ -51,7 +61,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>使用身份验证即服务，还是自己构建？</title>
       <link>https://feed.indiehackers.world/post/ca51cd5d30</link>
       <description><![CDATA[然而，对于我想要实现的目标来说，它们似乎都太过强大，只是使用电子邮件和密码进行简单的用户身份验证。我不需要授权、用户角色、多重身份验证、单点登录等。我也不期望有大量的注册用户。
-💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这项特定服务？否则，您为什么决定自己编写代码？
+💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这种特殊服务？否则，您为什么决定自己编写代码？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ca51cd5d30</guid>
       <pubDate>Mon, 15 Apr 2024 17:29:31 GMT</pubDate>
@@ -107,7 +117,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Sun, 07 Apr 2024 00:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>没有什么可以对抗蛇，但没有使用任何</title>
+      <title>没有任何东西可以对付蛇，但没有使用任何东西</title>
       <link>https://feed.indiehackers.world/post/8dfecd9e8b</link>
       <description><![CDATA[结论和事后诸葛亮
 我自然地省略了使用 SSR Next.JS 和 .NET Core 作为后端的一些细节和一些可能有趣的痛点，因为它不是特定于 AI 的（此外，也许下次它会是另外完整的两页）。事后看来，仍然不确定使用 SSR Next.js 是否是最好的主意，但我还不是这方面的专家。当谈到使用 .NET Core 和构建自定义解决方案来管理提示和调用 LLM 时，即使在技术上和 Scopebrite 可能采取的方向上还有很长的路要走，但我们还是很高兴。最后一点，构建一个能够帮助构建产品的产品真的很有趣，而且非常元。您应该尝试一下，如果您想抢先体验并免费试用 Scopebrite，请告诉我。对于独立黑客来说，现在并且永远都会有特殊条件。
@@ -131,14 +141,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a55d31d4b8</guid>
       <pubDate>Wed, 03 Apr 2024 00:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 BrickDropCo</title>
-      <link>https://feed.indiehackers.world/post/1b756aecbd</link>
-      <description><![CDATA[我的妻子将于 4 月 1 日推出一家新的初创公司 BrickDrop.co。她想到了租用乐高积木套装，让家庭更负担得起。经过研究，她了解了市场的规模，现在为儿童和成人提供支持。看到人们的反应，无论好坏，真是太疯狂了。因此，她寻求一些意见来帮助她成长。下面是我的快速问题 -
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1b756aecbd</guid>
-      <pubDate>Sat, 30 Mar 2024 12:03:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
