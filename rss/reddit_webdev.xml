@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 09:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:19:22 GMT</lastBuildDate>
+    <item>
+      <title>从头开始构建的 WebGL 3D 引擎，带有酷炫的战斗机演示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccpzsf/webgl_3d_engine_built_from_scratch_with_cool/</link>
+      <description><![CDATA[       由   提交/u/bfelbo  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccpzsf/webgl_3d_engine_built_from_scratch_with_cool/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:53:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>“建立一个做X的网站有多难”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccpyj9/how_difficult_is_it_to_build_a_website_that_does_x/</link>
+      <description><![CDATA[我在这个子主题上看到很多帖子询问“建立一个执行 X 功能的网站有多困难/需要多少钱”。 。在互联网上向知识渊博的人询问一些真实的问题并没有什么错。但这些帖子通常的撰写方式，对于提问者和回复者来说都只是浪费时间。所以我写了这一段作为对其中一篇帖子的回应；我交叉发布，以便大家参考。 问“建立一个电子商务商店/一个博彩网站/一个在线约会平台有多难”？就像问“拍摄一部关于骑车人的电影要花多少钱”。老哥，什么类型的电影？这个问题太宽泛了。你有剧本吗？有故事板吗？你想要这部电影多长？你希望它有多好？如果是学校作业，可能要花费 10 美元和一加仑汽油。如果你想要《侠盗一号》中那样的 CGI，并让约翰尼·德普担任主要演员，可能需要数亿美元。 同样的 100% 适用于网站和网络应用程序。如果你对一个带有几个手工插件的相当蹩脚的 Wordpress 页面感到满意，那么一个八年级学生只需一个周末，花一罐苏打水和一大袋 Haribos 就可以完成它。如果您想要一个支持多个平台并能够承受高负载的完全定制的应用程序，则可能需要由高素质、昂贵的专家组成的多元化团队花费数月的时间进行集中工作。 一个好的开始是拿几张纸和一支铅笔，坐下来画一些您想要的应用程序/网站的线框图。绘制屏幕、按钮等，以及显示用户如何以及何时在屏幕之间转换的箭头。这是真正的对话可以开始的地方，人们将能够告诉您它可能花费多少以及是否有捷径可以使其更容易/更便宜。它还会向人们表明您至少对您的项目有一点认真，并且您愿意为此做出一些努力。否则，它看起来就像是你炒作了几个小时的某个计划或随机想法，明天就会被遗忘。如果别人明天早上都不需要它，我为什么要花一分钟宝贵的专家时间来考虑别人的目标。    ;由   提交 /u/Own_Possibility_8875   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccpyj9/how_difficult_is_it_to_build_a_website_that_does_x/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>主观代码审查意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccpw28/subjective_code_review_comments/</link>
+      <description><![CDATA[在没有给出任何推理的情况下，您对仅主观评论的代码审查有何反应？ 例如。项目中有两个测试断言库。不同的同事使用不同的图书馆。每个人都很好。然后您会收到更改的代码审查请求。每个注释都希望您使用一个方法，执行完全相同的操作，但来自不同的测试断言库，如下所示：“请使用 methodNameHere()”。 &lt;!-- SC_ON - -&gt;  由   提交 /u/CoccoDrill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccpw28/subjective_code_review_comments/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:47:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>回到 Web 应用程序的基础知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccpqzv/back_to_basics_in_web_apps/</link>
+      <description><![CDATA[   /u/aijan1  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccpqzv/back_to_basics_in_web_apps/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发过涉及金钱的后端/应用程序的人，您会如何进行数据库备份？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccpnaa/people_who_have_developed_backendapps_involving/</link>
+      <description><![CDATA[您是否设置用户每次交易后自动备份？或者，间隔备份（比方说，每 30 分钟一次，保留 3 个月）？ 我目前正在构建一个。它是基于订阅和使用的定价。我无法想象在某些用户已为我的服务付费的情况下丢失数据，并且无法知道哪个用户在 30 分钟窗口内实际付费了。  但与此同时，在每笔交易后进行备份似乎很昂贵，不是吗？这里最好的解决方案是什么？   由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccpnaa/people_who_have_developed_backendapps_involving/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮我设置亚马逊主机上的图像背景</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccpirs/help_me_with_image_background_on_amazon_host/</link>
+      <description><![CDATA[      我在 Amazon EC2 上有一个简单的项目网站，问题是尽管图像具有 777 权限，但无法获取 css 图像。该映像在我的 Linux 计算机上运行良好，但在 EC2 中运行不正常。其余的 css 代码工作正常。这里有什么问题？  https://preview.redd .it/su8xw7wq1mwc1.png?width=1472&amp;format=png&amp;auto=webp&amp;s=d2679213f1808f8d480ec9ce14f3f5d225195ca5   由   提交 /u/Gxeq   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccpirs/help_me_with_image_background_on_amazon_host/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugo 模板在静态网站创建中仍然很流行吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccp1d2/is_hugo_templates_still_popular_for_static/</link>
+      <description><![CDATA[世界上最快的网站构建框架 | Hugo (gohugo.io) 对我来说最大的吸引力是 Azure 上的静态网站托管是免费的。   由   提交/u/Top_Mobile_2194   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccp1d2/is_hugo_templates_still_popular_for_static/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redux thunk 中未定义的 currentUser 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cco6wx/undefined_currentuser_error_in_redux_thunk/</link>
+      <description><![CDATA[这是我正在使用的克隆存储库： https://github.com/mkrul/web-template （是的，我知道这使用了一些非常过时的约定。我计划重构它，但现在我只是想让事情按照预期） 我已经成功创建了一个 redux thunk 来更新 currentUser 的 paymentAddress，但是，此更改仅在页面硬刷新后才会填充状态。 这是有问题的代码（无法获取代码格式化在这里工作，抱歉 😅) 在 redux 开发工具中，我看到 SET_DELIVERY_ADDRESS_REQUEST 的操作，后面跟着 SET_DELIVERY_ADDRESS_ERROR。错误响应显示 state.currentUser 未定义。我注意到从这个代码库中的其他地方返回 sdk.currentUser 的模式，所以我不确定为什么 currentUser 不会在这里初始化。 有趣的是，当我硬刷新页面时，我会这样做查看状态中填充的deliveryAddress 的更改。所以它正在发挥作用，但只是没有像预期的那样立即发挥作用。 🤔    由   提交/u/NaiveEye1128  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cco6wx/undefined_currentuser_error_in_redux_thunk/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立一个博彩网站有多困难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cco6q3/how_difficult_would_it_be_to_build_a_betting_site/</link>
+      <description><![CDATA[大家好， 我意识到“难度”是主观的。有了所有的构建器、ChatGPT 和插件，某人构建一个博彩网站的难度（价格、长度等）有多大。仅仅问技术（而不是法律、道德等），对于会做基本电子商务网站的人来说，这是一个全新的难度还是只需要一些基础知识就可以完成？最好使用 Wordpress。 谢谢！   由   提交/u/JYanezez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cco6q3/how_difficult_would_it_be_to_build_a_betting_site/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:06:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人用Uppy吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cco6ja/anyone_using_uppy/</link>
+      <description><![CDATA[我刚刚发现 Uppy 并正在考虑使用它。但它没有 S3 作为源，只有上传目的地。创建者在几个地方提到这不是优先事项，人们应该自己制作自定义插件。  有人制作过使用 S3 作为源的插件吗？基本上我希望允许用户从 S3 兼容存储中选择文件。   由   提交 /u/Fuzzy_Morning2343   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cco6ja/anyone_using_uppy/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字架构导航：技术演进路线图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cco438/navigating_digital_architectures_a_roadmap_for/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cco438/navigating_digital_architectures_a_roadmap_for/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试更长的高级 api 流的工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cco3vv/tools_to_test_longer_advanced_api_flows/</link>
+      <description><![CDATA[嘿！ 我面临的情况是，我经常需要测试相当长的 api 调用流程和用户交互这并不是真正直接链接到可以在正常的 e2e 测试中捕获和测试的特定事件或类似的事件。 API 调用是针对我们的服务，然后根据不同的情况连接到不同的外部 api输入，然后还要求用户输入一个视图，通过 QR 码或其他取决于外部 api 的方式对该外部 api 进行授权。 这在大多数情况下并不太复杂。在 postman 中测试 api，但二维码有点烦人，而且我也不太喜欢使用 postman，因为它感觉很混乱，不太符合我想要的工作方式。 我不喜欢我不介意自己制作一个更简单的版本，至少只是测试一下 api 流程，但是二维码的步骤有点烦人，因为这意味着流程必须等待它完成。我目前必须针对实际的外部 api 进行测试，因为它是目前有问题的主要部分，而不是代码本身。   由   提交 /u/licorices   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cco3vv/tools_to_test_longer_advanced_api_flows/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于为程序员练习 AI 提示的应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccnxbn/app_for_practicing_ai_prompting_for_coders/</link>
+      <description><![CDATA[嘿大家！我正在构建一个应用程序来帮助程序员学习提示。它名为 Prompt Forge，可在App Store。 该应用程序的主要思想是帮助程序员改善与 ChatGPT 的沟通并做出精确的编码决策。 它的工作原理：  您选择语言 - Python（免费）、Kotlin 或 Go， 您编写有关您想要解决的编码挑战的提示。 AI 将您的提示转换为代码和测试 您会收到有关提示的反馈，并在每次尝试中学习改进。  您对这个想法有何看法？您认为学习人工智能提示有价值吗？   由   提交/u/yanandera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccnxbn/app_for_practicing_ai_prompting_for_coders/</guid>
+      <pubDate>Thu, 25 Apr 2024 09:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找全栈 Web 开发研究合作伙伴</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccngeq/seeking_study_partner_for_full_stack_web/</link>
+      <description><![CDATA[大家好， 我正在寻找一位学习伙伴来深入研究全栈 Web 开发的世界与我一起。关于我自己的一些介绍：我住在沙特阿拉伯达曼。我不是一个完全的初学者；我对前端有了一点了解。不过，我渴望提高自己的技能，特别是在 Tailwind CSS、JavaScript、Next JS 和 MERN 堆栈方面，重点是 MongoDB。 如果您对 Web 开发同样充满热情，并且正在寻找一个互相激励、有责任感的学习伙伴，让我们组队吧！我们可以见面，共享资源，一起处理项目，并在学习过程中互相支持。 如果您有兴趣，请随时给我留言或评论。期待与大家联系！   由   提交/u/amancarlos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccngeq/seeking_study_partner_for_full_stack_web/</guid>
+      <pubDate>Thu, 25 Apr 2024 09:16:31 GMT</pubDate>
+    </item>
     <item>
       <title>如何将网站从 GoDaddy 转移到另一个托管？有什么建议。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ccn5bh/how_to_transport_a_website_from_godaddy_to/</link>
       <description><![CDATA[很抱歉我是这里的初学者。 GoDaddy 要求我支付 200 美元来托管 WordPress 网站。我确实以 40 美元的价格从他们那里购买了域名，为期 2 年。但现在他们要求的托管费用不合理。请注意，一开始我为整个事情支付了大约 30 美元。我应该怎么办 ？我不可能支付这笔金额。   由   提交/u/nasu-la    reddit.com/r/webdev/comments/1ccn5bh/how_to_transport_a_website_from_godaddy_to/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ccn5bh/how_to_transport_a_website_from_godaddy_to/</guid>
       <pubDate>Thu, 25 Apr 2024 08:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 刚刚发布了我用 Next.js、TailwindCSS 和 Three.js 构建的交互式作品集！为所有人开源。 🌐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccn2ga/just_published_my_interactive_portfolio_built/</link>
-      <description><![CDATA[   /u/leota90  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccn2ga/just_published_my_interactive_portfolio_built/</guid>
-      <pubDate>Thu, 25 Apr 2024 08:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的设计网站有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccleeh/what_are_some_of_your_favorite_designed_websites/</link>
-      <description><![CDATA[我最近浏览了一个新的霸主动画电影的网站，我认为它看起来非常不错。一些手绘元素和背景余烬动画确实让我很喜欢。我对如何实现其他元素有一些想法，但我对如何制作余烬动画一无所知。分享一些您所知道的出色的网站设计或独特的炫酷效果实现。 链接到所述网站：https: //overlord-anime.com/#Movie   由   提交/u/domwc14  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccleeh/what_are_some_of_your_favorite_designed_websites/</guid>
-      <pubDate>Thu, 25 Apr 2024 06:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typesense 搜索未按预期工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccl8jh/typesense_search_not_working_as_expected/</link>
-      <description><![CDATA[我是 Typesense 的新手，正在制作全文搜索功能，我希望当关键字为“global”时，它将包括结果如golbal、globla...但它只返回精确匹配 let search = { &#39;q&#39;: &#39;global&#39;,  &#39;query_by&#39;: [&#39;title&#39;, &#39;description&#39;], } 客户端。 collections(&#39;boxes&#39;) .documents() .search(search) .then (function (searchResults) { console.log(searchResults) }) 我可能错过了一些东西，有人可以帮我指出吗，ty   由   提交/u/Zafugus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccl8jh/typesense_search_not_working_as_expected/</guid>
-      <pubDate>Thu, 25 Apr 2024 06:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>要求项目挑战。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccl1uy/requesting_project_challenges/</link>
-      <description><![CDATA[在过去的几天里，我一直在努力寻找一个好的项目来构建，但没有得到这个想法。因此，如果你们中的任何人可以给我一项任务（更像是一项作业），我很乐意完成它，而不管技术堆栈如何。这将对我有很大帮助。   由   提交/u/clandestineeeeeee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccl1uy/requesting_project_challenges/</guid>
-      <pubDate>Thu, 25 Apr 2024 06:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>路由器阻止我的网站？广告？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cck8k5/routers_blocking_my_website_ads/</link>
-      <description><![CDATA[这是一件非常难以弄清楚的事情。当我使用家庭网络时，我的网站未加载任何展示广告。当我切换到单元格数据热点时，我的展示广告就会加载。  这里有几个因素：brid.tv 的视频广告：始终在两个网络上加载。  来自 pubpower.io 的显示广告无法在我的 wifi 上加载 我有 eero 路由器*，我见过它会完全阻止看起来危险的网站。但该网站不加载广告。我看到 eero 有一些阻止广告的设置和另一个高级安全设置。我已经关闭了高级安全性，但这没有帮助。广告拦截已经关闭。 另一个有趣的事实是，去年 5 月，我们的整个服务器都受到了恶意软件的攻击。它已被清理干净，现在受到恶意保护。所以我们认为这可能是一个因素？ 最后一个随机变量，一些网站用户说他们甚至无法加载我们的网站，我很难将其击落到他们的路由器上，就好像他们一样打开单元格数据，网站加载。  谈论一段有趣的时光。  这里有人对尝试什么有什么建议吗？现在事情已经失控了。   由   提交 /u/backsidefloater   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cck8k5/routers_blocking_my_website_ads/</guid>
-      <pubDate>Thu, 25 Apr 2024 05:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 扩展已发布新版本 - 1.9.2！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cck02p/html_extension_got_new_release_192/</link>
-      <description><![CDATA[可在 https://www.htmecks.org/。免费开源库，扩展了旧的无聊 HTML 的功能。   由   提交/u/khazakar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cck02p/html_extension_got_new_release_192/</guid>
-      <pubDate>Thu, 25 Apr 2024 05:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>NodeJS 22：Require() 支持和 WebSocket</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccj5c6/nodejs_22_require_support_websockets/</link>
-      <description><![CDATA[       由   提交/u/Puzzleheaded_Ad4030   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccj5c6/nodejs_22_require_support_websockets/</guid>
-      <pubDate>Thu, 25 Apr 2024 04:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在当前职位上，如何为我的项目找到 Web 开发“教练”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccibqs/how_can_i_find_a_web_development_coach_for_my/</link>
-      <description><![CDATA[为了提供一些信息，我目前从事网页设计/开发人员/UX-UI/SEO 工作已有 3 年了。我们目前使用 Wordpress 并为我们的项目做了很多定制工作。我最初被聘为设计师，主要负责预设计和前端工作。然而，现在情况发生了变化，我是唯一一个做 Web 前端到后端等所有工作的人。 我很年轻，25 岁​​，刚从 2 年制学位毕业，已经完成了几个项目在线训练营和代码证书。这足以让我找到一份可以养活自己的好工作。  我承担过使用插件来解决问题的任务。这严重导致我成为一个懒惰的开发人员，我觉得我需要在这里大声疾呼。我无法跟上我们项目的请求。经理的期望。 我不确定我是否在怀疑自己，但我感觉自己在开发世界中被抛在了后面。我想恢复体力，并在我从事的项目上获得一些专业帮助，但现在必须自己管理。我不得不说我喜欢这份工作和公司，我很适合社交，而且我不认为自己会被解雇（经理告诉我，在团队中的一些人被裁掉之前，他们确实需要我）。我想表现出适当的水平。但为了跟上世界和行业的步伐，我想确保他们拥有真正可靠的产品。我现在所做的一切有效，他们对结果感到满意。 但他们不知道什么才是真正好的。我知道。我知道如何变得伟大。我只需要一些指导。我的意思是，我仅用 html、css、php 和 js 将类门户粘贴在一起，但我认为我做不到。但我知道这可以很容易地以更合适的方式完成。一旦我知道需要做什么才能实现这一目标，我就会去学习如何去做。 TLDR：作为一名专业人士，我需要专业的网络开发帮助，并且诚实地会为此付费。    由   提交/u/Jroo158  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccibqs/how_can_i_find_a_web_development_coach_for_my/</guid>
-      <pubDate>Thu, 25 Apr 2024 03:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>__dirname 通过 ES 模块回到 Node.js 中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cchhv2/dirname_is_back_in_nodejs_with_es_modules/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cchhv2/dirname_is_back_in_nodejs_with_es_modules/</guid>
-      <pubDate>Thu, 25 Apr 2024 03:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>散列从头开始为菜鸟（比如我）解释，而不是为乍得开发者#dvsj</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cch13e/hashing_explained_from_scratch_for_noobs_like_me/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cch13e/hashing_explained_from_scratch_for_noobs_like_me/</guid>
-      <pubDate>Thu, 25 Apr 2024 02:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助从网站获取信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccg5cy/help_getting_info_from_website/</link>
-      <description><![CDATA[嗨，抱歉，我希望这是正确的 /r 对于这个不确定的问题。 我有编程经验，但不确定有哪些用于网络自动化的工具。 我想做一些相当简单的事情。我访问一个网站，登录该网站，在框中输入名称，然后单击搜索，然后我必须单击另一个框“日志”。然后它以表格格式转储一堆数据。 我正在寻找一个本地脚本或页面，我可以在桌面上单击，例如，在框中输入名称，它就会转储这个信息，而无需我经过 2 个环节。 理想情况下，我可以填写 10 个名称框，它只会将转储中的所有内容返回到我的浏览器，或者更好，但可能会为每个名称打开一个选项卡. 有关于从哪里开始、要查看的工具的指导吗？ 谢谢。   由   提交 /u/Hot_Yogurtcloset7621   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccg5cy/help_getting_info_from_website/</guid>
-      <pubDate>Thu, 25 Apr 2024 01:58:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Flask 这么痛苦？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccfqxy/why_is_flask_such_a_pain/</link>
-      <description><![CDATA[编写后端最多需要我一天的时间，但仅仅路由文件和渲染模板是令人难以置信的烦人。 有没有更好的，更简单的选择？    由   提交 /u/RevengeOfNell   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccfqxy/why_is_flask_such_a_pain/</guid>
-      <pubDate>Thu, 25 Apr 2024 01:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github 自述文件 Steam 卡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccew2d/github_readme_steam_card/</link>
-      <description><![CDATA[大家好！作为一名 Steam 游戏玩家，我一直是 Steam 配置文件自定义的忠实粉丝，这成为我两年前创建一个小项目的灵感。  我想与社区分享这个小应用程序，以便用户在支持链接图像渲染的平台上以卡片的形式显示他们的 Steam 状态。 该项目是开源的，并且也欢迎大家踊跃投稿。让我知道您对该应用程序的看法:) Github 页面&lt; /strong&gt;   由   提交/u/Jeffhubert113  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccew2d/github_readme_steam_card/</guid>
-      <pubDate>Thu, 25 Apr 2024 00:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Webflow 相比，WordPress 是一个可怕的软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccebho/wordpress_is_a_horrible_software_compared_to/</link>
-      <description><![CDATA[当您在构建静态网站和基本博客的背景下考虑 WordPress 时，与 Webflow 相比，WordPress 是一个可怕的软件。  WordPress 是一团有故障、令人讨厌的意大利面条式代码。  在 Webflow 上学习构建基本的美观且移动响应的小册子网站比在 Webflow 上更有趣、更容易 10 倍。 与在 Webflow 上相比，我确实可以以快 10 倍的速度构建一个外观更好的网站到 WordPress。我可以设置网站并在两年内忘记它。 不想支付托管费用？好吧，导出 webflow 代码并将其免费托管在 netlify 上。 如果我想整天搞乱代码，我会使用 Astro，并放弃所有可笑的插件、故障、安全漏洞、垃圾邮件攻击，以及WordPress 附带的无休止的更新。 对于更大、更复杂的项目来说，WordPress 在某些情况下可能会领先。  但对于中小型企业或博客的静态网站来说，Webflow 就像一辆兰博基尼，而 WordPress 就像一辆生锈的 20 世纪 60 年代大众汽车。  它受欢迎的唯一原因是它在 2003 年是一款不错的软件，并且占领了市场。老实说，我认为如果 WordPress 在 2024 年发布，它会在很大程度上被忽视。 什么您使用 Webflow 和 WordPress 的经验如何？   由   提交 /u/Gandalf-and-Frodo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccebho/wordpress_is_a_horrible_software_compared_to/</guid>
-      <pubDate>Thu, 25 Apr 2024 00:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
