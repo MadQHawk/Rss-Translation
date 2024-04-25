@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:14:28 GMT</lastBuildDate>
+    <item>
+      <title>想要创建一个星空地图追踪网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccud87/want_to_create_a_starsky_map_tracker_website/</link>
+      <description><![CDATA[我想创建一个星空/天空地图网站，作为 webdev 的新手，我在 youtube 上没有找到任何教程，也找不到任何在线文档。所以我想在这里问一下，从哪里开始；比如我应该使用哪个 API 以及如何使用；我找到了一些类似 Stellarium web 和天空地图文档，但找不到任何文档将它们集成到网站中。    提交人    /u/astrophilesoham2293   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccud87/want_to_create_a_starsky_map_tracker_website/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>nginx 中的安全标头配置</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccubjw/security_headers_config_in_nginx/</link>
+      <description><![CDATA[可以在 nginx 级别配置安全标头，而不是在express、django 等级别配置吗？ 如果没有，如何为静态添加这些标头哪些站点直接由 nginx 提供服务？   由   提交/u/devrav  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccubjw/security_headers_config_in_nginx/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:07:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Brainf*ck 编写服务器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cctanc/writing_a_server_in_brainfck/</link>
+      <description><![CDATA[       由   提交/u/can_pacis  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cctanc/writing_a_server_in_brainfck/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>以前从未托管过网站，但需要为课程项目托管。我到底该怎么做？ （Python、Flask、JavaScript、.xml 文件）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccstfa/never_hosted_a_website_before_but_need_to_for_a/</link>
+      <description><![CDATA[我有一个使用 Python、JS 和 .xml 文件（用于导入数据）在 Flask 中构建的网站。因此，它有一个前端和一个后端。 我究竟该怎么做？我只需将文件上传到网站托管网站吗？是否有已编译的分步过程？ 我看到了很多关于实际制作网站的内容，但找不到任何关于之后如何真正将其上线的可靠信息。 编辑：我也不介意付费，前提是我可以在一两个月后取消。    提交人    /u/Waltgrace83   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccstfa/never_hosted_a_website_before_but_need_to_for_a/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤要求。为什么我找不到工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccsqwj/roast_request_why_cant_i_land_a_job/</link>
+      <description><![CDATA[嗨，我在这个 Reddit 子版块中看到了很多批评请求，我想也许有人可以告诉我为什么他们不雇用我。 https://a.nvlkv.xyz/resume/   由   提交/u/knk_ooi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccsqwj/roast_request_why_cant_i_land_a_job/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>加速 ESLint——即使在 CI 上</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccslz9/speeding_up_eslinteven_on_ci/</link>
+      <description><![CDATA[       由   提交/u/Wake08  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccslz9/speeding_up_eslinteven_on_ci/</guid>
+      <pubDate>Thu, 25 Apr 2024 13:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>TTRPG 的高级数据库问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccroou/highlevel_database_question_for_ttrpg/</link>
+      <description><![CDATA[我正在 Django 中构建一个 Web 应用程序，但我不认为这是 Django 特定的问题。我正在为桌面 RPG 制作系统构建一个参考应用程序。 在没有试图深入了解太多细节的情况下，我查看了一些视频游戏数据库以获取灵感，但还没有完全掌握这是否是我的东西可以转换为在 MySQL 上运行的 Django 模型。我觉得简化的系统对于不同的项目来说非常容易，只需描述构建该项目所需的内容，但我希望用户能够添加现有的特定项目，然后食谱需要 2-5 个部分才能完成。有什么资源或指导可以让我找到类似的东西来借用，即使它与游戏无关但能达到类似的结果？谢谢！   由   提交/u/the_ogorminator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccroou/highlevel_database_question_for_ttrpg/</guid>
+      <pubDate>Thu, 25 Apr 2024 13:16:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人还记得 ExtJS/Sencha 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ccrfjx/anyone_remember_extjs_sencha/</link>
+      <description><![CDATA[大概是在 2008 年左右，我被 ExtJS 内置的仪表板震撼了。那时我只是一个谦虚的 PHP 开发人员，并不知道 JavaScript 可以构建如此美丽的东西。这么多年过去了，仍然没有任何框架、工具等能够与华丽的 ExtJS 网格相媲美。  想象一下，尝试构建像 MS Outlook、GMail 等具有可变宽度或可折叠部分的东西，但我不知道任何接近的东西。我立即投入其中并非常擅长，甚至参加了他们的几次会议以更多地参与社区。向杰·加西亚和其他人大声喊叫！我为当地的小公司构建了一堆仪表板，这些公司可能至今仍在运行！ 他们获得了一轮巨额融资，搬到了旧金山，更名为 Sencha，并推出了移动应用程序构建器比 React Native 早了很多年，React Native 彻底击败了其他一切。全部开源且免费！  当他们改变许可时，他们的消亡似乎就开始了，我相信他们被收购并完全转向昂贵的企业许可，这扼杀了个人开发者市场。  令我惊讶的是，15 年前我们拥有比今天更好的 webdev 工具！有一个小型的 Sencha subreddit，过去几年没有任何帖子。令人遗憾的是，如此强大的产品在 Webdev 世界中几乎无人知晓。    由   提交 /u/Specialist-Coast9787    reddit.com/r/webdev/comments/1ccrfjx/anyone_remember_extjs_sencha/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ccrfjx/anyone_remember_extjs_sencha/</guid>
+      <pubDate>Thu, 25 Apr 2024 13:04:41 GMT</pubDate>
+    </item>
     <item>
       <title>从头开始构建的 WebGL 3D 引擎，带有酷炫的战斗机演示</title>
       <link>https://www.reddit.com/r/webdev/comments/1ccpzsf/webgl_3d_engine_built_from_scratch_with_cool/</link>
@@ -36,79 +92,23 @@
     <item>
       <title>开发过涉及金钱的后端/应用程序的人，您会如何进行数据库备份？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ccpnaa/people_who_have_developed_backendapps_involving/</link>
-      <description><![CDATA[您是否设置用户每次交易后自动备份？或者，间隔备份（比方说，每 30 分钟一次，保留 3 个月）？ 我目前正在构建一个。它是基于订阅和使用的定价。我无法想象在某些用户已为我的服务付费的情况下丢失数据，并且无法知道哪个用户在 30 分钟窗口内实际付费了。  但与此同时，在每笔交易后进行备份似乎很昂贵，不是吗？这里最好的解决方案是什么？   由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
+      <description><![CDATA[您是否在用户每次交易后立即设置自动备份？或者，按间隔备份（比如说，每 30 分钟，保留 3 个月）？ 我目前正在构建一个。它是基于订阅和使用情况的定价。我无法想象在某些用户支付了我的服务费用的情况下丢失数据，并且无法知道在 30 分钟的时间范围内哪个用户实际支付了费用。  但与此同时，每次交易后备份似乎很昂贵，不是吗？这里最好的解决方案是什么？    提交人    /u/OrganicSearchTraffic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ccpnaa/people_who_have_developed_backendapps_involving/</guid>
       <pubDate>Thu, 25 Apr 2024 11:34:02 GMT</pubDate>
     </item>
     <item>
-      <title>帮我设置亚马逊主机上的图像背景</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccpirs/help_me_with_image_background_on_amazon_host/</link>
-      <description><![CDATA[      我在 Amazon EC2 上有一个简单的项目网站，问题是尽管图像具有 777 权限，但无法获取 css 图像。该映像在我的 Linux 计算机上运行良好，但在 EC2 中运行不正常。其余的 css 代码工作正常。这里有什么问题？  https://preview.redd .it/su8xw7wq1mwc1.png?width=1472&amp;format=png&amp;auto=webp&amp;s=d2679213f1808f8d480ec9ce14f3f5d225195ca5   由   提交 /u/Gxeq   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccpirs/help_me_with_image_background_on_amazon_host/</guid>
-      <pubDate>Thu, 25 Apr 2024 11:27:07 GMT</pubDate>
+      <title>在以前构建的 WordPress 网站上外包工作的最安全方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc6t46/safest_way_to_outsource_work_on_a_previously/</link>
+      <description><![CDATA[客户已经有一个 WordPress 网站，我需要一些帮助来向该 WordPress 网站添加一些功能。这超出了我的技能范围。 我应该让自由职业者知道我正在雇用远程访问我的电脑并监视他的一举一动吗？ （我知道我可能会因为问这个问题而被骂到地狱） 或者只是屏幕共享并接受自由职业者的指示，一步一步地指导如何做到这一点。 是有没有办法安全地外包这项工作？   由   提交 /u/Gandalf-and-Frodo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc6t46/safest_way_to_outsource_work_on_a_previously/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>Hugo 模板在静态网站创建中仍然很流行吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccp1d2/is_hugo_templates_still_popular_for_static/</link>
-      <description><![CDATA[世界上最快的网站构建框架 | Hugo (gohugo.io) 对我来说最大的吸引力是 Azure 上的静态网站托管是免费的。   由   提交/u/Top_Mobile_2194   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccp1d2/is_hugo_templates_still_popular_for_static/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redux thunk 中未定义的 currentUser 错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cco6wx/undefined_currentuser_error_in_redux_thunk/</link>
-      <description><![CDATA[这是我正在使用的克隆存储库： https://github.com/mkrul/web-template （是的，我知道这使用了一些非常过时的约定。我计划重构它，但现在我只是想让事情按照预期） 我已经成功创建了一个 redux thunk 来更新 currentUser 的 paymentAddress，但是，此更改仅在页面硬刷新后才会填充状态。 这是有问题的代码（无法获取代码格式化在这里工作，抱歉 😅) 在 redux 开发工具中，我看到 SET_DELIVERY_ADDRESS_REQUEST 的操作，后面跟着 SET_DELIVERY_ADDRESS_ERROR。错误响应显示 state.currentUser 未定义。我注意到从这个代码库中的其他地方返回 sdk.currentUser 的模式，所以我不确定为什么 currentUser 不会在这里初始化。 有趣的是，当我硬刷新页面时，我会这样做查看状态中填充的deliveryAddress 的更改。所以它正在发挥作用，但只是没有像预期的那样立即发挥作用。 🤔    由   提交/u/NaiveEye1128  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cco6wx/undefined_currentuser_error_in_redux_thunk/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立一个博彩网站有多困难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cco6q3/how_difficult_would_it_be_to_build_a_betting_site/</link>
-      <description><![CDATA[大家好， 我意识到“难度”是主观的。有了所有的构建器、ChatGPT 和插件，某人构建一个博彩网站的难度（价格、长度等）有多大。仅仅问技术（而不是法律、道德等），对于会做基本电子商务网站的人来说，这是一个全新的难度还是只需要一些基础知识就可以完成？最好使用 Wordpress。 谢谢！   由   提交/u/JYanezez   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cco6q3/how_difficult_would_it_be_to_build_a_betting_site/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人用Uppy吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cco6ja/anyone_using_uppy/</link>
-      <description><![CDATA[我刚刚发现 Uppy 并正在考虑使用它。但它没有 S3 作为源，只有上传目的地。创建者在几个地方提到这不是优先事项，人们应该自己制作自定义插件。  有人制作过使用 S3 作为源的插件吗？基本上我希望允许用户从 S3 兼容存储中选择文件。   由   提交 /u/Fuzzy_Morning2343   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cco6ja/anyone_using_uppy/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字架构导航：技术演进路线图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cco438/navigating_digital_architectures_a_roadmap_for/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cco438/navigating_digital_architectures_a_roadmap_for/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试更长的高级 api 流的工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cco3vv/tools_to_test_longer_advanced_api_flows/</link>
-      <description><![CDATA[嘿！ 我面临的情况是，我经常需要测试相当长的 api 调用流程和用户交互这并不是真正直接链接到可以在正常的 e2e 测试中捕获和测试的特定事件或类似的事件。 API 调用是针对我们的服务，然后根据不同的情况连接到不同的外部 api输入，然后还要求用户输入一个视图，通过 QR 码或其他取决于外部 api 的方式对该外部 api 进行授权。 这在大多数情况下并不太复杂。在 postman 中测试 api，但二维码有点烦人，而且我也不太喜欢使用 postman，因为它感觉很混乱，不太符合我想要的工作方式。 我不喜欢我不介意自己制作一个更简单的版本，至少只是测试一下 api 流程，但是二维码的步骤有点烦人，因为这意味着流程必须等待它完成。我目前必须针对实际的外部 api 进行测试，因为它是目前有问题的主要部分，而不是代码本身。   由   提交 /u/licorices   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cco3vv/tools_to_test_longer_advanced_api_flows/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于为程序员练习 AI 提示的应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccnxbn/app_for_practicing_ai_prompting_for_coders/</link>
-      <description><![CDATA[嘿大家！我正在构建一个应用程序来帮助程序员学习提示。它名为 Prompt Forge，可在App Store。 该应用程序的主要思想是帮助程序员改善与 ChatGPT 的沟通并做出精确的编码决策。 它的工作原理：  您选择语言 - Python（免费）、Kotlin 或 Go， 您编写有关您想要解决的编码挑战的提示。 AI 将您的提示转换为代码和测试 您会收到有关提示的反馈，并在每次尝试中学习改进。  您对这个想法有何看法？您认为学习人工智能提示有价值吗？   由   提交/u/yanandera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccnxbn/app_for_practicing_ai_prompting_for_coders/</guid>
-      <pubDate>Thu, 25 Apr 2024 09:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找全栈 Web 开发研究合作伙伴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccngeq/seeking_study_partner_for_full_stack_web/</link>
-      <description><![CDATA[大家好， 我正在寻找一位学习伙伴来深入研究全栈 Web 开发的世界与我一起。关于我自己的一些介绍：我住在沙特阿拉伯达曼。我不是一个完全的初学者；我对前端有了一点了解。不过，我渴望提高自己的技能，特别是在 Tailwind CSS、JavaScript、Next JS 和 MERN 堆栈方面，重点是 MongoDB。 如果您对 Web 开发同样充满热情，并且正在寻找一个互相激励、有责任感的学习伙伴，让我们组队吧！我们可以见面，共享资源，一起处理项目，并在学习过程中互相支持。 如果您有兴趣，请随时给我留言或评论。期待与大家联系！   由   提交/u/amancarlos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccngeq/seeking_study_partner_for_full_stack_web/</guid>
-      <pubDate>Thu, 25 Apr 2024 09:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将网站从 GoDaddy 转移到另一个托管？有什么建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ccn5bh/how_to_transport_a_website_from_godaddy_to/</link>
-      <description><![CDATA[很抱歉我是这里的初学者。 GoDaddy 要求我支付 200 美元来托管 WordPress 网站。我确实以 40 美元的价格从他们那里购买了域名，为期 2 年。但现在他们要求的托管费用不合理。请注意，一开始我为整个事情支付了大约 30 美元。我应该怎么办 ？我不可能支付这笔金额。   由   提交/u/nasu-la    reddit.com/r/webdev/comments/1ccn5bh/how_to_transport_a_website_from_godaddy_to/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ccn5bh/how_to_transport_a_website_from_godaddy_to/</guid>
-      <pubDate>Thu, 25 Apr 2024 08:55:08 GMT</pubDate>
+      <title>关于托管提供商的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc15e9/advice_on_hosting_providers/</link>
+      <description><![CDATA[我的组织有一个 WordPress 和 WooCommerce 多站点。我们目前拥有 30 个小型“网上商店”。这些是网络上的子站点，但我们计划将来扩展到 100 个甚至更多。目前我们使用 WPEngine 作为托管提供商，我被要求做一些研究，看看其他提供商是否能够给我们提供更好的价格。 我在估算方面没有太多经验如此规模的资源需求，所以我想我应该向更有经验的开发人员寻求一些意见。任何人都可以给出我们每年预计为托管这个多站点支付的最低价格的粗略估计吗？您可以提供的任何可以帮助我学习如何估计资源需求的资源也会有所帮助。这里有一个简短的要求列表，可以让您更好地了解我们的需求。  每个子网站平均有 10-20 种产品 每个网站平均有 100 名访问者，每天 没有数字产品（例如大型视频文件或文档） 少量媒体使用（每个网站使用一些图像，也许到处都是短视频） 将来必须能够扩展到数百个站点  实际上，我不认为 WordPress 多站点是这些网上商店产品的绝佳解决方案，但这是一个单独的帖子我打算做。我们只是试图在短期内优化成本，同时考虑长期解决方案的选择。大致了解我可以预期的最低成本将有助于研究各种提供商。 如果您需要我列出更多要求以帮助估算，请告诉我。 感谢您的宝贵时间以及您提供的任何意见！   由   提交/u/megalogue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc15e9/advice_on_hosting_providers/</guid>
+      <pubDate>Wed, 24 Apr 2024 15:30:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

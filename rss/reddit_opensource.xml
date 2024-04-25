@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:14:33 GMT</lastBuildDate>
     <item>
       <title>有人刚刚复制了我的整个代码库。我可以做什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccob3h/somebody_just_copied_my_entire_code_base_what_i/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>🚀 发布：自动化文档</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</link>
-      <description><![CDATA[您好 Reddit， 我很高兴向您介绍自动化文档。该工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 - 所有这些都组织成 Markdown 文件以便于查看。 主要功能：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown，以实现简单明了  非常适合任何希望自动化文档编写的人。我计划通过 Ollama 增强其功能以获取更详细的说明，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。    由   提交 /u/tilltmk   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，Reddit， 我很高兴向您介绍自动文档。此工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 — 所有这些都组织到 Markdown 文件中以便于查看。 主要特点：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown 以简化和清晰  非常适合任何希望自动化文档的人。由于我计划使用 Ollama 增强其功能以提供更详细的解释，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。     由    /u/tilltmk 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</guid>
       <pubDate>Thu, 25 Apr 2024 08:36:52 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 24 Apr 2024 11:28:15 GMT</pubDate>
     </item>
     <item>
-      <title>[新手指导] 感谢您的建议！</title>
+      <title>[指导初学者] 非常感谢您的建议！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</link>
       <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时，我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</guid>

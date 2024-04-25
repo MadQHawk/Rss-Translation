@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:13:09 GMT</lastBuildDate>
+    <item>
+      <title>关于“Festo”设备的问题</title>
+      <link>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</link>
+      <description><![CDATA[   所以我从未真正深入研究过整篇文章的相互作用，我只是想获得更多信息以及整个事情是如何运作的，如果有人可以解释或发送链接（图片会很棒），那将会非常有帮助。我不确定这是一个大模块还是一堆较小模块的组合。我知道基础知识，空气通过它，它有过滤器，它向您显示 psi，它有传感器指示它是否处于适合机器使用的适当压力等。我只是不太确定整个事情的相互作用，就像学习并获得更多信息！   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:52:38 GMT</pubDate>
+    </item>
     <item>
       <title>Excel、Windows 资源管理器、Word、PDF</title>
       <link>https://www.reddit.com/r/automation/comments/1cci17v/excel_windows_explorer_word_pdfs/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>从图像中读取文本并将其放入电子邮件中？</title>
       <link>https://www.reddit.com/r/automation/comments/1cafjd6/read_text_from_an_image_and_put_it_into_an_email/</link>
-      <description><![CDATA[有没有我可以使用的免费程序或系统，可以让我自动执行从图像中读取参考号并将其转换为的过程可编辑的文本，然后插入到电子邮件中？ 我过去使用自动热键取得了巨大成功，但当时我不记得它能够读取图像并转换为文本。想知道我是否需要完全不同的东西，或者什么。有什么建议吗？   由   提交/u/Structure_Spoon  [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何免费程序或系统可以让我自动执行从图像中读取参考编号、将其转换为可编辑文本，然后插入电子邮件的过程？ 我过去曾使用自动热键，取得了巨大的成功，但那时我不记得它能够读取图像并转换为文本。想知道我是否需要完全不同的东西，或者什么。有什么建议吗？    提交人    /u/Structure_Spoon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cafjd6/read_text_from_an_image_and_put_it_into_an_email/</guid>
       <pubDate>Mon, 22 Apr 2024 16:42:02 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>包含我申请的职位列表的 Google 表格</title>
       <link>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</link>
-      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码的方式可以自动化此过程：我正在申请 4 个网站/求职板，我想跟踪它。我想通过制作 Google 表格来自动化此过程，其中包含职位和职位发布信息，例如头衔、公司、详细信息、薪水和发布链接。我知道使用 LinkedIn 和 Zapier 很容易做到，但问题是那些其他求职板是本地的，无法将它们集成到 Zapier 中。我应该在这里使用什么工具？    提交人    /u/rzulery   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码方法可以自动执行此操作：我正在申请工作的网站/招聘网站有 4 个，我想对其进行跟踪。我想通过制作包含职位发布中的职位和信息（例如职位、公司、详细信息、薪水和职位链接）的 Google 表格来自动化此操作。我知道使用 LinkedIn 和 Zapier 很容易做到这一点，但问题是其他招聘网站都是本地的，不可能将它们也集成到 Zapier 中。我应该在这里使用什么工具？   由   提交 /u/rzulery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</guid>
       <pubDate>Thu, 18 Apr 2024 21:21:21 GMT</pubDate>
     </item>
     <item>
       <title>自动拨号器自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1c7cefx/auto_dialler_automation/</link>
-      <description><![CDATA[抱歉，如果不是正确的 subreddit，但我很难在网上找到相关信息。我希望定期检查几家竞争对手企业的等待时间。我的任务是每周按固定时间表给 4 家企业打电话，并记录他们的等待时间。我想知道是否有可用的产品或解决方案可以在设定的时间自动拨打这些号码，预先编程以根据每个呼叫中​​心的 IVR 导航 IVR，连接到代理后断开连接，最后提供等待时间的输出以获得代理。我不想给这些企业带来麻烦，所以我一定要限制频率。即使有人可以指出我在网上查找时使用的正确术语。大多数结果都是针对呼叫中心解决方案实时 IVR 和销售团队的自动外拨拨号器。    提交人    /u/butters3655   [链接] [评论]]]></description>
+      <description><![CDATA[如果不是正确的 subreddit，我深表歉意，但我很难在网上找到相关信息。我希望定期检查几家竞争对手企业的等待时间。我的任务是每周按规定的时间给 4 家企业打电话并记下他们的等待时间。我想知道是否有可用的产品或解决方案可以在设定的时间自动拨打这些号码，对其进行预编程以根据每个呼叫中​​心 IVR 导航 IVR，在连接到座席后断开连接，最后提供等待时间的输出找一个代理。我不想给这些企业带来滋扰，所以我一定会限制频率。即使有人可以指出我在网上查找时使用的术语的正确方向。大多数结果是针对销售团队的呼叫中心解决方案实时 IVR 和自动外拨拨号器。   由   提交/u/butters3655  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c7cefx/auto_dialler_automation/</guid>
       <pubDate>Thu, 18 Apr 2024 19:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您为客户执行的最后一次自动化操作是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1c6zddo/what_is_the_last_automation_you_did_for_your/</link>
-      <description><![CDATA[ 由   提交/u/Usama4745   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c6zddo/what_is_the_last_automation_you_did_for_your/</guid>
-      <pubDate>Thu, 18 Apr 2024 09:50:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
