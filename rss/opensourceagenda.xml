@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:23:34 GMT</lastBuildDate>
-    <item>
-      <title>SQLite 向量</title>
-      <link>https://www.opensourceagenda.com/projects/sqlite-vec</link>
-      <description><![CDATA[正在进行中的矢量搜索 SQLite 扩展，可在任何地方运行。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sqlite-vec</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:34 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Apr 2024 15:15:08 GMT</lastBuildDate>
     <item>
       <title>VSC草稿</title>
       <link>https://www.opensourceagenda.com/projects/vsc-drafts</link>
       <description><![CDATA[VSCode插件-草稿本，方便管理代码草稿和临时文件，再也不用多打开一个窗口了]]></description>
       <guid>https://www.opensourceagenda.com/projects/vsc-drafts</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:33 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:15:08 GMT</pubDate>
     </item>
     <item>
       <title>新毕业生实习</title>
       <link>https://www.opensourceagenda.com/projects/new-grad-internships</link>
       <description><![CDATA[👋 新毕业生和实习生大家好🎉！我们整理了一系列 SWE、定量和数据科学职位的职位！ 🚀]]></description>
       <guid>https://www.opensourceagenda.com/projects/new-grad-internships</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:33 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:15:08 GMT</pubDate>
     </item>
     <item>
       <title>Redis 生锈</title>
       <link>https://www.opensourceagenda.com/projects/redis-for-rust</link>
       <description><![CDATA[Redis for rust 是一个高性能内存数据库]]></description>
       <guid>https://www.opensourceagenda.com/projects/redis-for-rust</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>法典</title>
-      <link>https://www.opensourceagenda.com/projects/coderex</link>
-      <description><![CDATA[自动生成 x86 和 x86-64 指令集正则表达式的工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coderex</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>库达检查站</title>
-      <link>https://www.opensourceagenda.com/projects/cuda-checkpoint</link>
-      <description><![CDATA[CUDA 检查点和恢复实用程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cuda-checkpoint</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>宙斯偷窃者</title>
-      <link>https://www.opensourceagenda.com/projects/zeus-stealer</link>
-      <description><![CDATA[[大更新] Discord 令牌抓取器、加密钱包窃取器、cookie 窃取器、密码窃取器、文件用Python编写的stealer等应用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zeus-stealer</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士代理记忆调查</title>
-      <link>https://www.opensourceagenda.com/projects/llm-agent-memory-survey</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/llm-agent-memory-survey</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>微型雷莫</title>
-      <link>https://www.opensourceagenda.com/projects/tinyremo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tinyremo</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>VASA 1 黑客</title>
-      <link>https://www.opensourceagenda.com/projects/vasa-1-hack</link>
-      <description><![CDATA[使用 Claude Opus 对 VASA 白皮书中的代码进行逆向工程 - WIP -（这是为了拉拉扎🎷）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vasa-1-hack</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:31 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:15:08 GMT</pubDate>
     </item>
     <item>
       <title>一致ID</title>
       <link>https://www.opensourceagenda.com/projects/consistentid</link>
       <description><![CDATA[自定义 ID 与人类保持一致]]></description>
       <guid>https://www.opensourceagenda.com/projects/consistentid</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:31 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>自我探索</title>
-      <link>https://www.opensourceagenda.com/projects/self-explore</link>
-      <description><![CDATA[自我探索以避免️p️️它！通过细粒度奖励提高语言模型的推理能力]]></description>
-      <guid>https://www.opensourceagenda.com/projects/self-explore</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:30 GMT</pubDate>
+      <title>法典</title>
+      <link>https://www.opensourceagenda.com/projects/coderex</link>
+      <description><![CDATA[自动生成 x86 和 x86-64 指令集正则表达式的工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/coderex</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>雷卡火炬</title>
-      <link>https://www.opensourceagenda.com/projects/reka-torch</link>
-      <description><![CDATA[模型的实现：“Reka Core、Flash 和 Edge：一系列强大的多模态语言PyTorch 中的模型]]></description>
-      <guid>https://www.opensourceagenda.com/projects/reka-torch</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:30 GMT</pubDate>
+      <title>库达检查站</title>
+      <link>https://www.opensourceagenda.com/projects/cuda-checkpoint</link>
+      <description><![CDATA[CUDA 检查点和恢复实用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cuda-checkpoint</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>和谐遗产</title>
-      <link>https://www.opensourceagenda.com/projects/legado-harmony</link>
-      <description><![CDATA[开源阅读鸿蒙版仓库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/legado-harmony</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:30 GMT</pubDate>
+      <title>宙斯偷窃者</title>
+      <link>https://www.opensourceagenda.com/projects/zeus-stealer</link>
+      <description><![CDATA[[大更新] Discord 令牌抓取器、加密钱包窃取器、cookie 窃取器、密码窃取器、文件用Python编写的stealer等应用程序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zeus-stealer</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM代理记忆调查</title>
+      <link>https://www.opensourceagenda.com/projects/llm-agent-memory-survey</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/llm-agent-memory-survey</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒂尼雷莫</title>
+      <link>https://www.opensourceagenda.com/projects/tinyremo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tinyremo</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>VASA 1 黑客</title>
+      <link>https://www.opensourceagenda.com/projects/vasa-1-hack</link>
+      <description><![CDATA[使用 Claude Opus 对 VASA 白皮书中的代码进行逆向工程 - WIP -（这是为了拉拉扎🎷）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vasa-1-hack</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:06 GMT</pubDate>
     </item>
     <item>
       <title>Nkz Soft 微服务模板</title>
       <link>https://www.opensourceagenda.com/projects/nkz-soft-microservice-template</link>
       <description><![CDATA[基于 DDD 和 .NET 清洁架构的微服务模板]]></description>
       <guid>https://www.opensourceagenda.com/projects/nkz-soft-microservice-template</guid>
-      <pubDate>Fri, 26 Apr 2024 12:23:29 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>自我探索</title>
+      <link>https://www.opensourceagenda.com/projects/self-explore</link>
+      <description><![CDATA[自我探索以避免️p️️它！通过细粒度奖励提高语言模型的推理能力]]></description>
+      <guid>https://www.opensourceagenda.com/projects/self-explore</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>雷卡火炬</title>
+      <link>https://www.opensourceagenda.com/projects/reka-torch</link>
+      <description><![CDATA[模型的实现：“Reka Core、Flash 和 Edge：一系列强大的多模态语言PyTorch 中的模型]]></description>
+      <guid>https://www.opensourceagenda.com/projects/reka-torch</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>和谐遗产</title>
+      <link>https://www.opensourceagenda.com/projects/legado-harmony</link>
+      <description><![CDATA[开源阅读鸿蒙版仓库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/legado-harmony</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>酷思特</title>
+      <link>https://www.opensourceagenda.com/projects/coesot</link>
+      <description><![CDATA[基于颜色事件的视觉跟踪的大规模基准数据集]]></description>
+      <guid>https://www.opensourceagenda.com/projects/coesot</guid>
+      <pubDate>Fri, 26 Apr 2024 15:15:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
