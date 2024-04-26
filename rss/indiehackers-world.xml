@@ -4,14 +4,38 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:17:01 GMT</lastBuildDate>
+    <item>
+      <title>传统软件公司要么发展成为无代码机构，要么被抛在后面。 💀</title>
+      <link>https://feed.indiehackers.world/post/ae63fca79d</link>
+      <description><![CDATA[您对此有何看法？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ae63fca79d</guid>
+      <pubDate>Fri, 26 Apr 2024 17:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>传统软件公司要么发展成为无代码机构，要么被抛在后面。 💀</title>
+      <link>https://feed.indiehackers.world/post/95bda99e03</link>
+      <description><![CDATA[您对此有何看法？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/95bda99e03</guid>
+      <pubDate>Fri, 26 Apr 2024 17:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>传统软件公司要么发展成为无代码机构，要么被抛在后面。 💀</title>
+      <link>https://feed.indiehackers.world/post/2bc8cbe251</link>
+      <description><![CDATA[您对此有何看法？
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2bc8cbe251</guid>
+      <pubDate>Fri, 26 Apr 2024 17:57:55 GMT</pubDate>
+    </item>
     <item>
       <title>如何实现应用内消息传递？</title>
       <link>https://feed.indiehackers.world/post/01107b2c9d</link>
-      <description><![CDATA[在用户和群组之间建立应用内消息传递的最佳方式是什么？
-是否有任何 SAAS 产品提供这些功能，还是我必须从头开始构建。
+      <description><![CDATA[在用户和群组之间构建应用内消息传递的最佳方法是什么？
+是否有任何 SAAS 产品可以提供这些功能，或者我是否必须从头开始构建它。
 我确实找到了一些，但它们似乎价格过高。让我知道你的想法
-Discord Indiehackers Chat广告这里]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/01107b2c9d</guid>
       <pubDate>Thu, 25 Apr 2024 18:47:47 GMT</pubDate>
     </item>
@@ -113,35 +137,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dfe72f0fb3</guid>
       <pubDate>Sun, 07 Apr 2024 23:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>向导师开放——如果有人感兴趣的话？</title>
-      <link>https://feed.indiehackers.world/post/1f35f37edf</link>
-      <description><![CDATA[我的简历中有简要详细信息，但我在用户体验方面建立了职业生涯 - 与我来自 BBC 的朋友一起经营我自己的伦敦代理机构天和兄弟。我们设计并构建了员工用来移动媒体的用户界面。
-现在，我正在建立一家初创公司解决架构和技术方面的反馈问题。施工 – 3D 协作带来很多乐趣。我们去年完成了天使轮融资。
-我对软件设计感兴趣，并且大力倡导DDD 。我用 Svelte 和 React 构建应用程序。
-如果这些主题中的任何一个引起您的共鸣，请打个招呼👋。我是新来的，你们看起来都很友好。
-最后说明：包括民意调查，为您提供评论之外的替代方案 - 尝试获得尽可能多的反馈
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1f35f37edf</guid>
-      <pubDate>Sun, 07 Apr 2024 00:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有任何东西可以对付蛇，但没有使用任何东西</title>
-      <link>https://feed.indiehackers.world/post/8dfecd9e8b</link>
-      <description><![CDATA[结论和事后诸葛亮
-我自然地省略了使用 SSR Next.JS 和 .NET Core 作为后端的一些细节和一些可能有趣的痛点，因为它不是特定于 AI 的（此外，也许下次它会是另外完整的两页）。事后看来，仍然不确定使用 SSR Next.js 是否是最好的主意，但我还不是这方面的专家。当谈到使用 .NET Core 和构建自定义解决方案来管理提示和调用 LLM 时，即使从技术上讲还是在 Scopebrite 可能采取的方向上还有很长的路要走，但我们还是很高兴。最后一点，构建一个能够帮助构建产品的产品真的很有趣，而且非常元。您应该尝试一下，如果您想抢先体验并免费试用 Scopebrite，请告诉我。对于独立黑客来说，现在并且永远都会有特殊条件。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8dfecd9e8b</guid>
-      <pubDate>Sat, 06 Apr 2024 14:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我只花了一周每月就节省了 60 美元？</title>
-      <link>https://feed.indiehackers.world/post/caeb2aaa7b</link>
-      <description><![CDATA[你觉得怎么样？您会让您的白手起家的业务在 SaaS 账单上堆积如山吗？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/caeb2aaa7b</guid>
-      <pubDate>Sat, 06 Apr 2024 09:13:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
