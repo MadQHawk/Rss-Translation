@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 26 Apr 2024 09:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:21:38 GMT</lastBuildDate>
+    <item>
+      <title>测量传送带上产品之间时间间隔的工具？</title>
+      <link>https://www.reddit.com/r/automation/comments/1cdjjmk/tool_to_measure_time_gap_between_products_on_a/</link>
+      <description><![CDATA[我在谷歌上没有得到任何结果，所以我会在这里询问。我正在寻找一种本质上只是带有屏幕的光电眼/tof 传感器的工具。我喜欢做的是能够测量传送带上产品的前缘到前缘。理想情况下它也是可配置的，所以我可以导致坠落，或坠落坠落等。它看起来很简单，很有用，我不得不相信它存在，但我只是不知道它叫什么。有什么帮助吗？或者我只是疯了？   由   提交/u/hatsofftoeverything   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cdjjmk/tool_to_measure_time_gap_between_products_on_a/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>关于气动原理图的问题。</title>
       <link>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>关于“Festo”设备的问题</title>
       <link>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</link>
-      <description><![CDATA[      所以我从来没有真正深入研究过这整个作品的相互作用，我只是想得到更多的信息和整个事情是如何运作的，如果有人可以解释或发送链接（图片很棒）会很有帮助。我不确定这是一个大模块还是一堆小模块的组合。我知道基础知识，空气通过它，它有过滤器，它显示 psi，它有传感器指示它是否处于适合机器使用的压力等。我只是不太确定这整个事情的内部运作，只是想学习和了解更多信息！    提交人    /u/xTreated   [link] [评论] ]]></description>
+      <description><![CDATA[   所以我从未真正深入研究过整篇文章的相互作用，我只是想获得更多信息以及整个事情是如何运作的，如果有人可以解释或发送链接（图片会很棒），那将会非常有帮助。我不确定这是一个大模块还是一堆较小模块的组合。我知道基础知识，空气通过它，它有过滤器，它向您显示 psi，它有传感器指示它是否处于适合机器使用的适当压力等。我只是不太确定整个事情的相互作用，就像学习并获得更多信息！   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</guid>
       <pubDate>Thu, 25 Apr 2024 14:52:38 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>欣赏</title>
       <link>https://www.reddit.com/r/automation/comments/1cbfbyt/appreciation/</link>
-      <description><![CDATA[感谢 r/automation 的帮助用我的代码，你是最好的🙏🏾💪🏾🔥   由   提交/u/Gen-Zed-7547   [链接] [评论]]]></description>
+      <description><![CDATA[感谢 r/automation 帮助我编写代码，你是最棒的🙏🏾💪🏾🔥    提交人    /u/Gen-Zed-7547   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cbfbyt/appreciation/</guid>
       <pubDate>Tue, 23 Apr 2024 20:41:18 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 22 Apr 2024 16:42:02 GMT</pubDate>
     </item>
     <item>
-      <title>Newbe 需要帮助。在 pike13 上提前预订活动的自动化</title>
+      <title>新贝需要帮助。在 pike13 上提前预订活动的自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1c91t3y/newbe_needs_help_automation_for_booking_events_in/</link>
       <description><![CDATA[嗨， 我需要一些帮助来实现我想要构建的机器人的第一个想法，但我不知道在哪里开始并希望你能帮我找到合适的工具和代码。 所以计划是：我想创建机器人，在特殊的日期和时间自动在 pike13 体育页面上预订赛事。所以例如每周六 10:30，机器人应该登录我的帐户，打开下周即将举行的活动，并为我预订一个位置。 我已经查看了 Selenium，但无法让它工作因为 pike13 似乎是用 Angular 构建的，我无法获取应该单击的元素的 ID 或类。 那么你们知道如何完成此操作吗？ &lt; /div&gt;  由   提交 /u/Hupp1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c91t3y/newbe_needs_help_automation_for_booking_events_in/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Firefox 便携版中的 Imacros 10 - 它的书签在哪里？！</title>
       <link>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</link>
-      <description><![CDATA[您好！我使用了多个 Firefox 便携版。现在他们必须更新到版本116。相应地，我将他们的Imacros更新到版本10.0...并将js重写为iim。但问题是每个 Firefox 副本在 iMacros 中都有自己的书签！ iMacros 脚本不再以文件的形式存在，而是以难以理解的形式存在。  我可以通过 iims 将便携式浏览器的不同实例指向同一位置吗？  如果有人能回答，请表示尊重和感激。    由   提交/u/sergeyosipov2   [链接] [评论]]]></description>
+      <description><![CDATA[您好！ 我使用了多个 Firefox 便携版。现在他们必须更新到版本116。相应地，我将他们的Imacros更新到版本10.0...并将js重写为iim。但问题是每个 Firefox 副本在 iMacros 中都有自己的书签！ iMacros 脚本不再以文件的形式存在，而是以难以理解的形式存在。  我可以通过 iims 将便携式浏览器的不同实例指向同一位置吗？  如果有人能回答，请表示尊重和感激。    由   提交/u/sergeyosipov2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</guid>
       <pubDate>Sat, 20 Apr 2024 12:22:16 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>自动化桥梁分析软件（土木工程）</title>
       <link>https://www.reddit.com/r/automation/comments/1c82w3f/automating_bridge_analysis_software_civil/</link>
-      <description><![CDATA[您好，我在我县的县工程办公室工作。作为我职责的一部分，我对 400 多座桥梁进行桥梁分析。每一项至少需要 2-3 小时才能完成，并且只需将已存在的数据输入到软件中的正确位置即可。如果有的话，我们会参考桥梁的施工计划，如果没有，我们会参考交通部标准确定每个部分的具体尺寸。这项任务实际上并不涉及任何批判性思维，只是将分散在几张不同论文中的数字放入正确的窗口中。我觉得这个过程可以很容易地通过现有的计算机技术实现自动化。也许人工智能可以扫描计划并将数字输入到软件中，或者我们可以将所有数字放入 Excel 工作表中以供程序参考并将其放入桥梁软件中。我不是一个真正的计算机科学人士，所以我不知道我是否完全误解了这一切，但我想问一些比我聪明的人。 谢谢！ &lt; /div&gt;  由   提交 /u/CBreezeMG   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我在我县的县工程办公室工作。作为我职责的一部分，我对 400 多座桥梁进行桥梁分析。每一项至少需要 2-3 小时才能完成，并且只需将已存在的数据输入到软件中的正确位置即可。如果有的话，我们会参考桥梁的施工计划，如果没有，我们会参考交通部标准确定每个部分的具体尺寸。这项任务实际上并不涉及任何批判性思维，只是将分散在几张不同论文中的数字放入正确的窗口中。我觉得这个过程可以很容易地通过现有的计算机技术实现自动化。也许人工智能可以扫描计划并将数字输入到软件中，或者我们可以将所有数字放入 Excel 工作表中以供程序参考并将其放入桥梁软件中。我不是一个真正的计算机科学人员，所以我不知道我是否完全误解了这一切，但我想问一些比我聪明的人。 谢谢！ &lt; /div&gt;  由   提交 /u/CBreezeMG   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c82w3f/automating_bridge_analysis_software_civil/</guid>
       <pubDate>Fri, 19 Apr 2024 17:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>包含我申请的职位列表的 Google 表格</title>
-      <link>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</link>
-      <description><![CDATA[嘿，我目前正在申请工作，想知道是否有任何无代码/低代码方法可以自动执行此操作：我正在申请工作的网站/招聘网站有 4 个，我想对其进行跟踪。我想通过制作包含职位发布中的职位和信息（例如职位、公司、详细信息、薪水和职位链接）的 Google 表格来自动化此操作。我知道使用 LinkedIn 和 Zapier 很容易做到这一点，但问题是其他招聘网站都是本地的，不可能将它们也集成到 Zapier 中。我应该在这里使用什么工具？   由   提交 /u/rzulery   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c7f0hs/google_sheet_with_list_of_jobs_ive_applied_to/</guid>
-      <pubDate>Thu, 18 Apr 2024 21:21:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
