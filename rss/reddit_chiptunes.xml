@@ -4,9 +4,23 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:54:29 GMT</lastBuildDate>
     <item>
-      <title>又一首分享的歌曲，希望大家听后会喜欢:)</title>
+      <title>尝试用我想出的很酷的波形制作 Gameboy 波表声音字体。这些是我到目前为止所拥有的。有人知道其他很酷的波形吗？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cd59t4/trying_to_make_a_gameboy_wavetable_soundfont_with/</link>
+      <description><![CDATA[   /u/Channel_el  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cd59t4/trying_to_make_a_gameboy_wavetable_soundfont_with/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>熔炉追踪器中存在严重错误？ （直流偏置）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</link>
+      <description><![CDATA[嗨！ 我想我在 Furnace 中发现了一个重大错误，可能会损坏您的扬声器/设备。 警告：如果您想尝试重现此错误，请先断开所有扬声器和耳机并将所有音量调至零。直流偏移对您的设备非常不利，并且可能会损坏您的扬声器！尝试此操作需要您自担风险！ 错误描述：当使用 NES 声芯片 (2A03) 时，Furnace 似乎会产生大量 DC 偏移（例如，当使用三角通道或 DPCM 通道时）。通常你不会真正注意到这一点，因为默认情况下启用了 DC 滤波器（设置 -&gt; 音频 -&gt; 混音 -&gt; DC 偏移校正），但如果禁用 DC 偏移校正，则会产生巨大的量直流偏置。例如，如果您在三角通道中播放声音，当声音停止时，Furnace 将继续输出上次播放值的 DC。您可以在音量表和示波器上清楚地看到这一点。这可能会损坏您的扬声器！即使启用了 DC 偏移校正，也会导致 DPCM 通道中的音量不均匀，随着时间的推移略有上下波动。 ​ 我没有Discord 或 GitHub 帐户，但如果你们中的一些人在 Furnace Discord 或 GitHub 上活跃，那么也许您可以向开发人员报告此问题？ 谢谢！ ​&lt; /p&gt; ​   由   提交/u/bleepin_tunes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</guid>
+      <pubDate>Thu, 25 Apr 2024 18:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>又一首分享的歌曲，希望每个听的人都喜欢它:)</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ccnjko/another_track_to_share_hope_anyone_who_listens/</link>
       <description><![CDATA[       由   提交 /u/Ryanondreams   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ccnjko/another_track_to_share_hope_anyone_who_listens/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>为我正在进行的一个项目写了几首歌。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cc4pfp/wrote_a_few_songs_for_a_project_im_working_on/</link>
-      <description><![CDATA[      使用 YM2612、Konami SCC、SNES、AY-3-8910 和 FL STUDIO    由    /u/napxers 提交   [link] [评论] ]]></description>
+      <description><![CDATA[   使用 YM2612、Konami SCC、SNES、AY-3-8910 和 FL STUDIO   由   提交/u/napxers  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cc4pfp/wrote_a_few_songs_for_a_project_im_working_on/</guid>
       <pubDate>Wed, 24 Apr 2024 17:49:43 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 24 Apr 2024 16:41:28 GMT</pubDate>
     </item>
     <item>
-      <title>GINKO ULTRA 的 Kokoro（人声混音）</title>
+      <title>GINKO ULTRA 的 Kokoro（混音）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cc0as3/kokoro_vocal_mix_by_ginko_ultra/</link>
       <description><![CDATA[      由 GINKO ULTRA 作曲/演奏/录制    由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cc0as3/kokoro_vocal_mix_by_ginko_ultra/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>2024 年 4 月 16 日至 4 月 22 日当周的 /r/Chiptunes 每周综述</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cb6w7q/your_weekly_rchiptunes_roundup_for_the_week_of/</link>
-      <description><![CDATA[2024 年 4 月 16 日星期二至 4 月 22 日星期一 热门音乐   分数 评论 标题和名称链接    34 4 条评论 [MUSIC] DNB 时间[DMG-01]   7 3 条评论 [MUSIC] 我代表朋友来到这里   7 3 条评论 [MUSIC] gameboy游戏启动果酱(以下四通道限制)   6  2 条评论 [MUSIC] 我的最新歌曲(请说反馈)   6 6 条评论 [MUSIC]  HDSQ - Tau // Fakebit // 与原始 MIDI 一致   4 2 条评论 [MUSIC] 🏴‍☠️龙栖岛(ALTTP版)评论中的 YT 链接   4 1 条评论 [MUSIC] 我不知道是否允许我在这里发布翻唱或混音，但我做了一首 Gwyn Lord 《黑暗之魂》中的 Cinder   3 1 条评论 [MUSIC]《Sonic 3 remix》中的 Ice cap   3 1 条评论 [音乐] STR8 位标题“重制版”； - Shonie Boy 的音乐   3 1 条评论 [MUSIC] 恶魔城 SotN - 血缘关系 (8 位、Gameboy、hUGETracker)     &lt; h3&gt;剩余热门帖子   分数 评论 标题和标题链接    7 9 条评论 [QUESTION] 寻找艺术家推荐   7&lt; /td&gt; 2 条评论 [讨论] 还有时间提交我的chiptune 比赛！   6 2 条评论 [SHOW] 我使 YM2414 向后兼容 Genesis “Cover”   6  4 条评论 你们想在新作品中看到什么8 位/芯片调谐插件？   6 1 条评论 GINKO ULTRA 的《Killfrost Ritual》“现场表演” ;        由   提交/u/subredditsummarybot   [链接] [评论]]]></description>
+      <description><![CDATA[2024 年 4 月 16 日星期二至 2024 年 4 月 22 日星期一 热门音乐   分数 评论 标题和名称链接    34 4 条评论 [MUSIC] DNB 时间[DMG-01]   7 3 条评论 [MUSIC] 我代表朋友来到这里   7 3 条评论 [MUSIC] gameboy游戏启动果酱(以下四通道限制)   6  2 条评论 [MUSIC] 我的最新歌曲(请说反馈)   6 6 条评论 [MUSIC]  HDSQ - Tau // Fakebit // 与原始 MIDI 一致   4 2 条评论 [MUSIC] 🏴‍☠️龙栖岛(ALTTP版)评论中的 YT 链接   4 1 条评论 [MUSIC] 我不知道是否允许我在这里发布翻唱或混音，但我做了一首 Gwyn Lord 《黑暗之魂》中的 Cinder   3 1 条评论 [MUSIC]《Sonic 3 remix》中的 Ice cap   3 1 条评论 [音乐] STR8 位标题“重制版”； - Shonie Boy 的音乐   3 1 条评论 [MUSIC] 《恶魔城 SotN - 血缘》(8 位、Gameboy、hUGETracker)     &lt; h3&gt;剩余热门帖子   分数 评论 标题和标题链接    7 9 条评论 [QUESTION] 寻找艺术家推荐   7&lt; /td&gt; 2 条评论 [讨论] 还有时间提交我的chiptune 比赛！   6 2 条评论 [SHOW] 我使 YM2414 向后兼容 Genesis “Cover”   6  4 条评论 你们想在新作品中看到什么8 位/芯片调谐插件？   6 1 条评论 GINKO ULTRA 的《Killfrost Ritual》“现场表演” ;        由   提交/u/subredditsummarybot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cb6w7q/your_weekly_rchiptunes_roundup_for_the_week_of/</guid>
       <pubDate>Tue, 23 Apr 2024 15:03:55 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/tubesockor  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cb4leg/chiptune_jam_on_analog_rytm_space_duregungle/</guid>
       <pubDate>Tue, 23 Apr 2024 13:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的芯片音乐专辑？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cb0xcg/your_favourite_chiptune_albums/</link>
-      <description><![CDATA[我的列表： Chipzel - Spectra Bit Shifter - 信息案例 Dubmood - 2001-2003 年最佳作品   由   提交 /u/AcanthocephalaKey347   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cb0xcg/your_favourite_chiptune_albums/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一首很酷的歌曲（请再次反馈）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cakkd2/another_cool_song_again_feedback_please/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/thelordcheeseus   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cakkd2/another_cool_song_again_feedback_please/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:58:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
