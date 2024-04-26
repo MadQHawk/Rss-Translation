@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 00:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 03:14:03 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Copilot 比 ChatGPT 4 本身产生的幻觉要少得多，并且遵循指令的精确度要高得多？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cd9t4i/why_does_copilot_hallucinate_so_much_less_and/</link>
+      <description><![CDATA[我创建了一个自定义 GPT，为其提供了包含 267 个术语的 PDF。我花了几个小时创建自定义指令，只是为了让它在不产生幻觉的情况下向我询问有关术语的多项选择问题。尽管如此，它仍然不会读取 PDF，而是自信地向我提供虚假信息并编造一些内容。 使用 copilot 5 分钟后，它会直接访问我提供的 PDF，为我提供了超级准确的信息，并结合了上下文它与更多的外部信息，按照我告诉它的合理方式增加其难度，并且只是一个非常精确的法学硕士。 我真的很好奇为什么会这样？    由   提交 /u/NJGabagool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cd9t4i/why_does_copilot_hallucinate_so_much_less_and/</guid>
+      <pubDate>Fri, 26 Apr 2024 02:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 GPT4 进行决策和战略分析 👾✨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cd94rg/decisionmaking_and_strategic_analysis_with_gpt4/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cd940e&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cd94rg/decisionmaking_and_strategic_analysis_with_gpt4/</guid>
+      <pubDate>Fri, 26 Apr 2024 01:42:55 GMT</pubDate>
+    </item>
     <item>
       <title>皮艾</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cd6aea/piai/</link>
@@ -20,23 +34,9 @@
       <pubDate>Thu, 25 Apr 2024 22:46:15 GMT</pubDate>
     </item>
     <item>
-      <title>要求GPT-4-Turbo改变角色服装的颜色，结果很棒！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cd2hhu/asked_gpt4turbo_to_change_the_color_of_the/</link>
-      <description><![CDATA[我要求使用Python插件将女主角的服装颜色从绿色更改为蓝色。第一次尝试效果不好，但第二次尝试，在我解释了不足之后，结果就完美了！ 初始图片： https://static.wikia.nocookie.net/vsbattles/images/5/53/Pc3adcara.png&lt; /p&gt; 第一次尝试：  https://sf-flow-tos.oceanengine.io/obj/flow-code-interpreter-sg/7361905535794397190_modified_image.png 第二次尝试： https://sf-flow-tos.oceanengine.io/obj/flow- code-interpreter-sg/7361905535794397190_modified_image_with_shades_of_blue.png 我认为，仅此一项就是非常有用的人工智能应用！  &amp;# 32；由   提交 /u/Anuclano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cd2hhu/asked_gpt4turbo_to_change_the_color_of_the/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用Suno AI：用AI创作你的热门歌曲</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cczgca/how_to_use_suno_ai_create_your_hit_song_with_ai/</link>
-      <description><![CDATA[有没有想过如何用人工智能创作音乐？和我一起学习这个激动人心的教程，我将深入了解 Suno AI 的平台来创建自定义歌曲！  https://youtube.com/shorts/L8koTaOc\_Nk   由   提交/u/Chisom1998_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cczgca/how_to_use_suno_ai_create_your_hit_song_with_ai/</guid>
-      <pubDate>Thu, 25 Apr 2024 19:00:15 GMT</pubDate>
-    </item>
-    <item>
       <title>实施人工智能进行个性化营养指导</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ccz36g/implementing_ai_for_personalized_nutritional/</link>
-      <description><![CDATA[我在做午餐时在想……如果我们有一个人工智能应用程序可以帮助我们吃得更好，那不是很棒吗？想象一下您口袋里有一个类似个人营养顾问的东西。这是我偶然想到的一个想法： 提案： 如果我们创造一个几乎像你妈妈一样了解你的人工智能会怎么样？它会知道你的喜好、厌恶，甚至是你时不时偷偷做的那些小作弊。但它不会责骂你，而是会帮助你找到饮食的完美平衡。 它是如何运作的：  个性化个人资料：您可以根据自己的数据、目标和偏好设置个人资料。没有什么复杂的，只是快速和简单。 智能建议：人工智能会根据您的目标给出膳食选择，无论是减肥、锻炼肌肉还是只是吃得更健康。&lt; /li&gt; 轻松跟踪：您可以跟踪您的膳食，应用程序将为您提供建设性的反馈，而不仅仅是简单的卡路里计数。 适应性：&lt; /strong&gt; 该应用程序会从您的选择中学习并调整建议，以始终符合您的品味和目标。  尽管完全坦率地确定它存在，但它仍然是一个有趣的练习，Python或 R 用于数据分析和统计建模，TensorFlow 或 PyTorch 用于构建和训练机器学习模型。   由   提交/u/botup_ai   [链接] [评论]]]></description>
+      <description><![CDATA[我在做午餐时在想……如果我们有一个人工智能应用程序可以帮助我们吃得更好，那不是很棒吗？想象一下您口袋里有一个类似个人营养顾问的东西。这是我偶然想到的一个想法： 提案： 如果我们创造一个几乎像你妈妈一样了解你的人工智能会怎样？它会知道你的喜好、厌恶，甚至是你时不时偷偷溜进去的那些小作弊。但它不会责骂你，而是会帮助你找到饮食的完美平衡。 它是如何运作的：  个性化个人资料：您可以根据自己的数据、目标和偏好设置个人资料。没有什么复杂的，只是快速和简单。 智能建议：人工智能会根据您的目标给出膳食选择，无论是减肥、锻炼肌肉还是只是吃得更健康。&lt; /li&gt; 轻松跟踪：您可以跟踪您的膳食，应用程序将为您提供建设性的反馈，而不仅仅是简单的卡路里计数。 适应性：&lt; /strong&gt; 该应用程序会从您的选择中学习并调整建议，以始终符合您的品味和目标。  尽管完全坦率地确定它存在，但它仍然是一个有趣的练习，Python或 R 用于数据分析和统计建模，TensorFlow 或 PyTorch 用于构建和训练机器学习模型。   由   提交/u/botup_ai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ccz36g/implementing_ai_for_personalized_nutritional/</guid>
       <pubDate>Thu, 25 Apr 2024 18:46:21 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 25 Apr 2024 15:46:38 GMT</pubDate>
     </item>
     <item>
-      <title>警方称马里兰州一名教育工作者利用人工智能生成的声音诬陷校长发表种族主义言论 - CBS 新闻</title>
+      <title>警方称，马里兰州教育家利用人工智能生成的声音陷害校长进行种族主义咆哮 - 哥伦比亚广播公司新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cctaui/maryland_educator_framed_principal_for_racist/</link>
       <description><![CDATA[看到这个 文章，内容涉及某人因可能使用人工智能生成的语音陷害校长而被捕。    由   提交/u/alterndog  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cctaui/maryland_educator_framed_principal_for_racist/</guid>
@@ -71,14 +71,14 @@
     <item>
       <title>六大快速论文写作工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ccolna/top_6_fast_essay_writing_tools/</link>
-      <description><![CDATA[大家好！我是一名学生，也在做兼职。我最近尝试了很多人工智能写作工具，找到了我最喜欢的 6 个。如果您像我一样，那么也许您有时会遇到写作困难，或者只是在兼顾工作和学习时需要额外的帮助，那么这些选择可以节省您的时间。那么让我们开始吧。 Blainy： Blainy 是人工智能写作您可以使用它来撰写论文、作业、研究论文和笔记，利用其令人惊叹的功能，如建议、人工智能自动化、引文、释义、内置抄袭检查器和 AskBlainy。你可以每天免费使用它的所有功能，因为他们每天都会发放积分，但如果你想购买他们的付费计划，每月费用为 20 美元，每年费用为 144 美元。我对 blainy 的评分为 4.9/5。 CopyAI： Copyai 是一款强大的学术写作工具，非常适合论文、作业和研究论文。凭借其智能技术，它可以改进您的写作风格并有效纠正错误。您可以免费试用，也可以从每月 36 美元起的付费计划中进行选择。 CopyAI的用户友好界面使写作变得更容易、更有效。然而，一个缺点是它的一些最佳功能只能通过付费计划获得。总的来说，我对 CopyAI 的有效性评分为 4.7/5，但请记住免费版本的局限性。 MyStylus： MyStylus 是一个很好的学术写作工具，您可以用于撰写论文、作业和研究论文。它使用智能技术来改善您的写作风格并修复错误。您可以免费试用，也可以从每月 19.95 美元起的付费计划中进行选择。它易于使用，有助于提高您的写作水平。但请记住，一些最好的功能是付费套餐附带的。我对 MyStylus 的评分为 4.6/5。 LumenWriter：LumenWriter 是一款用于学术写作的 AI 工具。它有助于内容生成、研究和论文组织。虽然定价尚未确定，但其人工智能功能简化了写作并支持各种学术任务。其主要优势是将内容生成和研究工具结合起来，这对于旨在提高写作效率和质量的学生和研究人员来说很有价值。我对 LumenWriter 的评分是 4.5/5。 ChatGPT：我们都熟悉 ChatGPT。它是一种灵活且经济实惠的语言生成工具，非常适合创意写作任务。虽然它不具备用户友好性和响应能力，因此它可能缺乏学术写作的精确性。总的来说，它是满足各种语言生成需求的有价值的工具。我主要用它来纠正语法、一些新想法等等。我对 ChatGpt 的评分是 4.4/5。 Closerscopy：它是一款人工智能驱动的文案软件，旨在简化创建高质量内容的过程。您可以在上面写论文、作业、研究论文、文章、博客等。这是一个很好的工具，但它非常昂贵，所以这就是为什么我不太喜欢它，但总的来说它是一个很好的工具。每月价格为 49.99 美元。我对此的评分是 4.4/5。如果您认为有比这些更好的工具，请告诉我，以便我也可以尝试一下。   由   提交/u/silverecho0   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我是一名学生，也在做兼职。我最近尝试了很多人工智能写作工具，找到了我最喜欢的 6 个。如果您像我一样，那么也许您有时会遇到写作困难，或者只是在兼顾工作和学习时需要额外的帮助，那么这些选择可以节省您的时间。那么让我们开始吧。 Blainy： Blainy 是人工智能写作您可以使用它来撰写论文、作业、研究论文和笔记，利用其令人惊叹的功能，如建议、人工智能自动化、引文、释义、内置抄袭检查器和 AskBlainy。你可以每天免费使用它的所有功能，因为他们每天都会提供积分，但如果你想购买他们的付费计划，每月 20 美元，每年 144 美元。我对 blainy 的评分为 4.9/5。 CopyAI： Copyai 是一款强大的学术写作工具，非常适合论文、作业和研究论文。凭借其智能技术，它可以改进您的写作风格并有效纠正错误。您可以免费试用，也可以从每月 36 美元起的付费计划中进行选择。 CopyAI的用户友好界面使写作变得更容易、更有效。然而，一个缺点是它的一些最佳功能只能通过付费计划获得。总的来说，我对 CopyAI 的有效性评分为 4.7/5，但请记住免费版本的局限性。 MyStylus： MyStylus 是一个很好的学术写作工具，您可以用于撰写论文、作业和研究论文。它使用智能技术来改善您的写作风格并修复错误。您可以免费试用，也可以从每月 19.95 美元起的付费计划中进行选择。它易于使用，有助于提高您的写作水平。但请记住，一些最好的功能是付费套餐附带的。我对 MyStylus 的评分为 4.6/5。 LumenWriter：LumenWriter 是一款用于学术写作的 AI 工具。它有助于内容生成、研究和论文组织。虽然定价尚未确定，但其人工智能功能简化了写作并支持各种学术任务。其主要优势是将内容生成和研究工具结合起来，这对于旨在提高写作效率和质量的学生和研究人员来说很有价值。我对 LumenWriter 的评分是 4.5/5。 ChatGPT：我们都熟悉 ChatGPT。它是一种灵活且经济实惠的语言生成工具，非常适合创意写作任务。虽然它不具备用户友好性和响应能力，因此它可能缺乏学术写作的精确性。总的来说，它是满足各种语言生成需求的有价值的工具。我主要用它来纠正语法、一些新想法等等。我对 ChatGpt 的评分是 4.4/5。 Closerscopy：它是一款人工智能驱动的文案软件，旨在简化创建高质量内容的过程。您可以在上面写论文、作业、研究论文、文章、博客等。这是一个很好的工具，但它非常昂贵，所以这就是为什么我不太喜欢它，但总的来说它是一个很好的工具。每月价格为 49.99 美元。我对此的评分是 4.4/5。如果您认为有比这些更好的工具，请告诉我，以便我也可以尝试一下。   由   提交/u/silverecho0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ccolna/top_6_fast_essay_writing_tools/</guid>
       <pubDate>Thu, 25 Apr 2024 10:32:00 GMT</pubDate>
     </item>
     <item>
       <title>Apple 发布 OpenELM：专为在设备上运行而设计的小型开源 AI 模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ccn7ig/apple_releases_openelm_small_open_source_ai/</link>
-      <description><![CDATA[正如 Google、三星和 Microsoft 继续在 PC 和移动设备上推动生成式 AI 的努力一样，Apple 也正在通过 OpenELM 加入这一行列，一个新的开源大语言模型 (LLM) 系列，可以完全在单个设备上运行，而不必连接到云服务器。  OpenELM 模型一共有八个，其中四个是预训练的，四个是指令调整的，涵盖了 2.7 亿到 30 亿个参数之间的不同参数大小（指的是法学硕士中人工神经元之间的连接，等等）参数通常表示更高的性能和更多的功能，但并不总是如此）。  Apple 在其所谓的“示例代码许可证”下提供其 OpenELM 模型的权重，以及训练中的不同检查点、模型性能的统计数据以及预训练、评估的说明、指令调整和参数高效微调。   https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-Designed-to-run-on-device/   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <description><![CDATA[正如 Google、三星和 Microsoft 继续在 PC 和移动设备上推动生成式 AI 的努力一样，Apple 也正在通过 OpenELM 加入这一行列，一个新的开源大语言模型 (LLM) 系列，可以完全在单个设备上运行，而不必连接到云服务器。  总共有八个 OpenELM 模型——四个是预训练的，四个是指令调整的——涵盖了 2.7 亿到 30 亿个参数之间的不同参数大小（指的是法学硕士中人工神经元之间的连接，等等）参数通常表示更高的性能和更多的功能，但并不总是如此）。  Apple 在其所谓的“示例代码许可证”下提供其 OpenELM 模型的权重，以及训练中的不同检查点、模型性能的统计数据以及预训练、评估的说明、指令调整和参数高效微调。   https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-Designed-to-run-on-device/   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ccn7ig/apple_releases_openelm_small_open_source_ai/</guid>
       <pubDate>Thu, 25 Apr 2024 08:59:35 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 25 Apr 2024 08:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>免费及时工程指南</title>
+      <title>免费即时工程指南</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ccmeiv/free_prompt_engineering_guide/</link>
       <description><![CDATA[嘿伙计们！ 我创建了一个免费提示工程指南。适合初学者。点击此处获取它。 &gt; 25 个关键提示工程原理 &gt;必备AI工具选择 &gt;即时工程迷你课程 &gt;其他资源 只需提交您的电子邮件，几分钟后即可免费收到。 许多人已经发现它很有用。我希望你也这么做。 享受吧:)   由   提交 /u/Illustrious-King8421    reddit.com/r/ArtificialInteligence/comments/1ccmeiv/free_prompt_engineering_guide/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ccmeiv/free_prompt_engineering_guide/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
