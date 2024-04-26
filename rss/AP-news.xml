@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻</title>
+    <title>头条新闻：今日美国和国际头条新闻 | 美联社新闻</title>
     <link>https://apnews.com/hub/apf-topnews</link>
     <description>头条新闻：今日美国和国际头条新闻 |美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:14:11 GMT</lastBuildDate>
+    <item>
+      <title>新领导人应对海地的混乱局面，因为那些生活在恐惧之中的人要求迅速解决帮派暴力问题</title>
+      <link>https://apnews.com/article/haiti-new-council-gangs-security-9291c0702f55b4dac67b6c4448a992f8</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/haiti-new-council-gangs-security-9291c0702f55b4dac67b6c4448a992f8</guid>
+      <pubDate>Fri, 26 Apr 2024 16:43:43 GMT</pubDate>
+    </item>
     <item>
       <title>杰里·宋飞 (Jerry Seinfeld) 对比特的承诺</title>
       <link>https://apnews.com/article/jerry-seinfeld-unfrosted-netflix-1317fc2ade5450a286ec8771e6188aaa</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/jerry-seinfeld-unfrosted-netflix-1317fc2ade5450a286ec8771e6188aaa</guid>
       <pubDate>Fri, 26 Apr 2024 13:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储青睐的通胀指标显示上个月价格压力依然高企</title>
-      <link>https://apnews.com/article/inflation-prices-election-federal-reserve-rates-economy-f54d6af95e3eef434bddb72d25e3decf</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/inflation-prices-election-federal-reserve-rates-economy-f54d6af95e3eef434bddb72d25e3decf</guid>
-      <pubDate>Fri, 26 Apr 2024 12:38:50 GMT</pubDate>
     </item>
     <item>
       <title>数十人死亡揭示了向被警察约束的人注射镇静剂的风险</title>
@@ -39,6 +39,13 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/tiktok-bytedance-ban-china-india-376f32d78861e14e65ec4bc78e808a0d</guid>
       <pubDate>Fri, 26 Apr 2024 09:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国农业部告诉生产商减少某些冷冻鸡肉产品中的沙门氏菌</title>
+      <link>https://apnews.com/article/salmonella-chicken-breaded-food-poisoning-38c318363a674a372427a852857ce41b</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/salmonella-chicken-breaded-food-poisoning-38c318363a674a372427a852857ce41b</guid>
+      <pubDate>Fri, 26 Apr 2024 09:00:37 GMT</pubDate>
     </item>
     <item>
       <title>最新 |真主党伏击以色列车队，造成平民死亡</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/israel-palestine-war-campus-protests-e8a2e657e2614f94373beae602e9ba9d</guid>
       <pubDate>Fri, 26 Apr 2024 04:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>封口费审判证词第一周结束后，特朗普的律师将盘问前小报出版商</title>
-      <link>https://apnews.com/article/trump-trial-hush-money-david-pecker-868e6b9d30a039d5009ec6a9d7e96ff7</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/trump-trial-hush-money-david-pecker-868e6b9d30a039d5009ec6a9d7e96ff7</guid>
-      <pubDate>Fri, 26 Apr 2024 04:01:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

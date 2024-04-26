@@ -3,112 +3,112 @@
   <channel>
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
-    <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:16:56 GMT</lastBuildDate>
+    <description>最近添加的开源项目源</description>
+    <lastBuildDate>Fri, 26 Apr 2024 21:13:14 GMT</lastBuildDate>
     <item>
-      <title>宙斯偷窃者</title>
-      <link>https://www.opensourceagenda.com/projects/zeus-stealer</link>
-      <description><![CDATA[[大更新] Discord 令牌抓取器、加密钱包窃取器、cookie 窃取器、密码窃取器、文件用Python编写的stealer等应用程序。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zeus-stealer</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:55 GMT</pubDate>
+      <title>Emo 视觉数据</title>
+      <link>https://www.opensourceagenda.com/projects/emo-visual-data</link>
+      <description><![CDATA[😜 表情包视觉数据集，使用glm-4v、step-1v的图像解析能力标注。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/emo-visual-data</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>VSC草稿</title>
-      <link>https://www.opensourceagenda.com/projects/vsc-drafts</link>
-      <description><![CDATA[VSCode插件-草稿本，方便管理代码草稿和临时文件，再也不用多打开一个窗口了]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vsc-drafts</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:55 GMT</pubDate>
+      <title>索姆拉瓦</title>
+      <link>https://www.opensourceagenda.com/projects/som-llava</link>
+      <description><![CDATA[通过标记集提示和改进的视觉推理能力增强多模式法学硕士的能力。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/som-llava</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>新毕业生实习</title>
-      <link>https://www.opensourceagenda.com/projects/new-grad-internships</link>
-      <description><![CDATA[👋 新毕业生和实习生大家好🎉！我们整理了一系列 SWE、定量和数据科学职位的职位！ 🚀]]></description>
-      <guid>https://www.opensourceagenda.com/projects/new-grad-internships</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:55 GMT</pubDate>
+      <title>FGSM法</title>
+      <link>https://www.opensourceagenda.com/projects/fgsm-law</link>
+      <description><![CDATA[重新审视和探索通过 LAW 进行高效快速对抗训练：Lipschitz 正则化和自动权重平均]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fgsm-law</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>VASA 1 黑客</title>
-      <link>https://www.opensourceagenda.com/projects/vasa-1-hack</link>
-      <description><![CDATA[使用 Claude Opus 对 VASA 白皮书中的代码进行逆向工程 - WIP -（这是为了拉拉扎🎷）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vasa-1-hack</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:54 GMT</pubDate>
+      <title>齿轮式转移</title>
+      <link>https://www.opensourceagenda.com/projects/cog-style-transfer</link>
+      <description><![CDATA[将样式从一张图像复制到另一张图像]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cog-style-transfer</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>一致ID</title>
-      <link>https://www.opensourceagenda.com/projects/consistentid</link>
-      <description><![CDATA[自定义 ID 与人类保持一致]]></description>
-      <guid>https://www.opensourceagenda.com/projects/consistentid</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:54 GMT</pubDate>
+      <title>Boscaceoil 蓝</title>
+      <link>https://www.opensourceagenda.com/projects/boscaceoil-blue</link>
+      <description><![CDATA[一款适合初学者的音乐制作应用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/boscaceoil-blue</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>法典</title>
-      <link>https://www.opensourceagenda.com/projects/coderex</link>
-      <description><![CDATA[自动生成 x86 和 x86-64 指令集正则表达式的工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coderex</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:54 GMT</pubDate>
+      <title>坦斯哈巴狗</title>
+      <link>https://www.opensourceagenda.com/projects/tans-pug</link>
+      <description><![CDATA[PUG微信机器人 -  简单有趣的机器人，主要功能包括微信群发言统计，邀请统计，群收藏夹等，还有小游戏等有趣的群运营功能。 产品设计以监听辅助为主，安全可靠耐造。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tans-pug</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>库达检查站</title>
-      <link>https://www.opensourceagenda.com/projects/cuda-checkpoint</link>
-      <description><![CDATA[CUDA 检查点和恢复实用程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cuda-checkpoint</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>雷卡火炬</title>
-      <link>https://www.opensourceagenda.com/projects/reka-torch</link>
-      <description><![CDATA[模型的实现：“Reka Core、Flash 和 Edge：一系列强大的多模态语言PyTorch 中的模型]]></description>
-      <guid>https://www.opensourceagenda.com/projects/reka-torch</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>和谐遗产</title>
-      <link>https://www.opensourceagenda.com/projects/legado-harmony</link>
-      <description><![CDATA[开源阅读鸿蒙版仓库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/legado-harmony</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM代理记忆调查</title>
-      <link>https://www.opensourceagenda.com/projects/llm-agent-memory-survey</link>
+      <title>生成式 UI 手册</title>
+      <link>https://www.opensourceagenda.com/projects/generative-ui-playbook</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/llm-agent-memory-survey</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:53 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/generative-ui-playbook</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>蒂尼雷莫</title>
-      <link>https://www.opensourceagenda.com/projects/tinyremo</link>
+      <title>人工智能术语表</title>
+      <link>https://www.opensourceagenda.com/projects/glossary-for-ai</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tinyremo</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:53 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/glossary-for-ai</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>随走随飞</title>
-      <link>https://www.opensourceagenda.com/projects/fly-with-go</link>
-      <description><![CDATA[🐹go 是我接下来想要🛶征服的编程语言🌍。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fly-with-go</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:52 GMT</pubDate>
+      <title>Tapswap 机器人</title>
+      <link>https://www.opensourceagenda.com/projects/tapswap-bot</link>
+      <description><![CDATA[汽车农场 Tapswap 脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tapswap-bot</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>酷思特</title>
-      <link>https://www.opensourceagenda.com/projects/coesot</link>
-      <description><![CDATA[基于颜色事件的视觉跟踪的大规模基准数据集]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coesot</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:52 GMT</pubDate>
+      <title>近钱包机器人</title>
+      <link>https://www.opensourceagenda.com/projects/near-wallet-bot</link>
+      <description><![CDATA[钱包附近自动领取的脚本]]></description>
+      <guid>https://www.opensourceagenda.com/projects/near-wallet-bot</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>Nkz Soft 微服务模板</title>
-      <link>https://www.opensourceagenda.com/projects/nkz-soft-microservice-template</link>
-      <description><![CDATA[基于 DDD 和 .NET 清洁架构的微服务模板]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nkz-soft-microservice-template</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:52 GMT</pubDate>
+      <title>我希望</title>
+      <link>https://www.opensourceagenda.com/projects/vleam</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vleam</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>自我探索</title>
-      <link>https://www.opensourceagenda.com/projects/self-explore</link>
-      <description><![CDATA[自我探索以避免️p️️它！通过细粒度奖励提高语言模型的推理能力]]></description>
-      <guid>https://www.opensourceagenda.com/projects/self-explore</guid>
-      <pubDate>Fri, 26 Apr 2024 18:16:52 GMT</pubDate>
+      <title>兰索拉蛋糕</title>
+      <link>https://www.opensourceagenda.com/projects/lanthora-cake</link>
+      <description><![CDATA[Qt 实现的 Candy GUI 桌面应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lanthora-cake</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLaVA Pp</title>
+      <link>https://www.opensourceagenda.com/projects/llava-pp</link>
+      <description><![CDATA[🔥🔥 LLaVA++：使用 Phi-3 和 LLaMA-3 扩展 LLaVA (LLaVA LLaMA-3, LLaVA Phi-3)]]></description>
+      <guid>https://www.opensourceagenda.com/projects/llava-pp</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>勇敢SH</title>
+      <link>https://www.opensourceagenda.com/projects/valorantsh</link>
+      <description><![CDATA[valorant-rage valorant valorant-cheat valorant-cheats valorant-aim valorant-aimbot valorant-hack valorant-hacks valorant-esp valorant-wallhack valorant-wh valorant-softaim cheat-valorant cheats-valorant hack-valorant hacks-valorant valorant-free-hack valorant-hack-aim valorant-legit]]></description>
+      <guid>https://www.opensourceagenda.com/projects/valorantsh</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>水利联合会</title>
+      <link>https://www.opensourceagenda.com/projects/cwf</link>
+      <description><![CDATA[论文代码：CWF：Consolidating Weak Features in High-quality Mesh Simplification、ACM Transactions on Graphics、SIGGRAPH 2024年]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cwf</guid>
+      <pubDate>Fri, 26 Apr 2024 21:13:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
