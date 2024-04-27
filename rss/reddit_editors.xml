@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:12:12 GMT</lastBuildDate>
     <item>
       <title>5/9 为自由电影制片人提供免费现场（洛杉矶）和虚拟金融教育课程</title>
       <link>https://www.reddit.com/r/editors/comments/1ce6l84/free_inperson_la_virtual_financial_education/</link>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 27 Apr 2024 04:05:13 GMT</pubDate>
     </item>
     <item>
-      <title>24fps 胶片扫描（SR3 w 水晶同步） - 24fps 音频 24bit/48Khz - 但仍然有音频漂移</title>
+      <title>24fps 胶片扫描（SR3 w 晶体同步）- 24fps 音频 24bit/48Khz - 但仍然有音频漂移</title>
       <link>https://www.reddit.com/r/editors/comments/1cdyhis/24fps_film_scan_sr3_w_crystal_sync_24fps_audio/</link>
       <description><![CDATA[您好， 我正在制作一部以 Super 16mm @ 24fps 拍摄的电影（一台 Arri SR3，配有水晶同步）  此文件被扫描为 2k ProRes（实验室错误地标记为 25fps，但在编辑软件中符合 24fps） 双系统声音 Poly WAV 文件 - 24fps、24 位/ 48Khz 问题：我的音频（到目前为止在 Premiere 和 Resolve 中进行了测试）的运行速度比我的视频快。 每秒大约有 10 帧不同步（比视频快）。通常这可能是音频样本 r4te 问题或类似问题，所以我不确定是什么原因造成的，除非水晶同步以某种方式关闭？） 作为粗略测试（在 24fps Premiere 时间线中）我使用了上面的信息&amp;将音频速度减慢至 99.45%，从而在 4 分钟长镜头的持续时间内保持同步。但我不想对编辑软件中的所有文件执行此操作，并冒着弄乱混音的风险。 ..（我还没有决定使用哪个软件，但可能是 Premiere Resolve 或 Avid） 有人知道可能出了什么问题吗？如何修复它？或者如果没有（这是在制作过程中发生的事情），是否有一个好方法可以降低我的 Poly WAV 源文件的速度，同时保持音调和音频质量？ （理想情况下是批量 - 可能通过手动更改示例 r4te 来波代理？） 谢谢！ 编辑机器人： 系统规格：Mac Studio M1+ 64Gb RAM // 软件规格：尚未确定。 // 素材规格：在帖子中   由   提交 /u/inthecanvas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cdyhis/24fps_film_scan_sr3_w_crystal_sync_24fps_audio/</guid>

@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:12:45 GMT</lastBuildDate>
+    <item>
+      <title>您觉得我的“聊天组合”怎么样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cea19v/what_do_you_think_of_my_chat_portfolio/</link>
+      <description><![CDATA[    /u/SpectatorL   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cea19v/what_do_you_think_of_my_chat_portfolio/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 URL 缩短器，可以根据规则重定向到任何地方</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce9pvr/i_made_a_url_shortener_that_redirects_anywhere/</link>
+      <description><![CDATA[大家好， 我非常高兴在本周六的 Showoff 活动中与大家分享我的业余项目 Novu.Link。 基本上，它是一个简单的 Web 应用程序，您可以在其中创建单个 URL QR 码，但有一个不同之处：该单个链接可以根据您设置的规则重定向到多个目的地。 我最初为一家当地餐馆建立了 Novu.Link，该餐馆需要一个神奇的单个 QR 码，根据一天中的时间重定向到他们的早餐和午餐菜单，但我想其他人也可能从中受益。它仍在进行中，可能有上百万个我可以添加或改进的东西，但是嘿，这不是业余项目的乐趣吗？ 我很想听听您对 Novu.Link 的想法和反馈。如果您对其工作原理有任何疑问或对功能有任何建议，我很乐意听取您的意见！ Novu.Link    提交人    /u/mwargan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce9pvr/i_made_a_url_shortener_that_redirects_anywhere/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>是时候学习 Next.js 了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce9jmo/is_it_time_to_to_learn_nextjs/</link>
+      <description><![CDATA[大家好！在过去的几个月里，我一直在学习一些前端技术，比如 React JS 和 Tailwind。现在，我已经习惯用这两个技术编写代码，并且我现在正在考虑学习下一个 JS，以便深入研究前端领域。或者我应该专注于 ui/ux 设计作为 + ？或者我应该开始更多地了解后端的事情？我真的很困惑，所以任何建议都将非常感激   由   提交/u/electrical_charge03  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce9jmo/is_it_time_to_to_learn_nextjs/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要了解如何删除 Stiletto 主题上的菜单悬停效果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce9i88/wanted_to_understand_how_to_remove_menu_hover/</link>
+      <description><![CDATA[在使用 Stiletto 主题的 Shopify 商店中，当我将鼠标悬停在菜单栏上时，菜单栏颜色会发生变化。我想禁用此悬停效果。我怎样才能实现这个目标？   由   提交/u/PEA_14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce9i88/wanted_to_understand_how_to_remove_menu_hover/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好。我构建这个是为了正确显示我的多动症症状。我正在设计一种方法来衡量它们与我的药物和饮食之间的关系。希望得到一些反馈:)这都是本地的、自托管的，其想法是您可以分析自己，而不会将数据丢失给云提供商！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce9hfj/hey_guys_i_built_this_to_properly_show_how_my/</link>
+      <description><![CDATA[ 由   提交/u/Hewlbern   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce9hfj/hey_guys_i_built_this_to_properly_show_how_my/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 bcrypt.js 哈希是异步的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce9fa7/why_is_bcryptjs_hash_async/</link>
+      <description><![CDATA[为一个业余项目开发自己的身份验证，并看到 bcrypt 提供异步哈希。但是 hash 并没有进行任何 API 调用，那么为什么它不能在单线程的 JS 上同步运行   由   提交 /u/OpenRole   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce9fa7/why_is_bcryptjs_hash_async/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年开发人员的最佳图标库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce92ta/best_icon_libraries_for_a_dev_in_2024/</link>
+      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce92ta/best_icon_libraries_for_a_dev_in_2024/</guid>
+      <pubDate>Sat, 27 Apr 2024 07:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个一致的AI插图生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce921o/i_made_a_consistent_ai_illustration_generator/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Rutter_Boy  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce921o/i_made_a_consistent_ai_illustration_generator/</guid>
+      <pubDate>Sat, 27 Apr 2024 07:52:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>2004年的你好 - 村庄网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce8na9/hello_from_2004_village_website/</link>
+      <description><![CDATA[我曾经使用 Dreamweaver、HTML、php 制作网站，并尝试使用 WordPress 网站。那是大约 15-20 年前的事了。 我被要求为我居住的村庄整理一个小网站，其中包含几页信息和指向预订系统的链接。  p&gt; 人们现在在简单的网站上使用什么出色的软件包或产品吗？现在最常见的是什么？   由   提交/u/Bruxellensis_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce8na9/hello_from_2004_village_website/</guid>
+      <pubDate>Sat, 27 Apr 2024 07:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 系统上的每个浏览器基本上都只是 WebKit 的包装器的情况很快就会改变吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce8ilk/will_the_situation_when_every_browser_on_ios/</link>
+      <description><![CDATA[因为对于我作为前端 Web 开发人员来说，它非常方便，因为在 iOS 设备上我只需要关心 Safari 上的网站渲染，而且更容易调试从 Mac 到 Safari 开发者工具，在 iOS 上的任何浏览器中访问网站，因为它们都是相同的   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce8ilk/will_the_situation_when_every_browser_on_ios/</guid>
+      <pubDate>Sat, 27 Apr 2024 07:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>致力于免费开源 UI 库 - “SyntaxUI”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce8fwg/working_on_a_free_and_opensource_ui_library/</link>
+      <description><![CDATA[大家好 我正在开发一个名为 SyntaxUI 的免费开源 UI 库 https://syntaxui.com/，它具有使用 Tailwind CSS &amp; 构建的预制组件、动画和效果。成帧器运动。人们只需要探索组件并在代码库中复制/粘贴他们喜欢的组件即可。 我正在寻找有关如何改进它的建议。 谢谢 &lt; p&gt;网站：https://syntaxui.com/ Github：https://github.com/ansub/syntaxUI   由   提交 /u/ansubkhann   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce8fwg/working_on_a_free_and_opensource_ui_library/</guid>
+      <pubDate>Sat, 27 Apr 2024 07:11:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feather.ttf 导致 Wordpress 网站永久加载？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce89tg/featherttf_causing_wordpress_website_to_load/</link>
+      <description><![CDATA[       由   提交​​/u/osound  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce89tg/featherttf_causing_wordpress_website_to_load/</guid>
+      <pubDate>Sat, 27 Apr 2024 07:00:40 GMT</pubDate>
+    </item>
     <item>
       <title>中止 Web 应用程序中的请求</title>
       <link>https://www.reddit.com/r/webdev/comments/1ce7euo/aborting_requests_in_a_web_app/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[       由   提交/u/boolalpha  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ce5fq1/yet_another_roast_my_saas_landing_page/</guid>
       <pubDate>Sat, 27 Apr 2024 04:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证的未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ce4wo8/the_future_of_verification/</link>
-      <description><![CDATA[现在的网络似乎充满了如此多的必要验证，来回电子邮件和密码，同意 cookie，这么多小问题在访问内容之前。 在验证方面，互联网的下一阶段会是什么样子？您认为在不久的将来互联网的使用会比现在更加顺利吗？还是我只是使用了错误的互联网 ??   由   提交/u/Draeva  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ce4wo8/the_future_of_verification/</guid>
-      <pubDate>Sat, 27 Apr 2024 03:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 5.5 测试版发布</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ce4doo/typescript_55_beta_release/</link>
-      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ce4doo/typescript_55_beta_release/</guid>
-      <pubDate>Sat, 27 Apr 2024 03:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从网站转到应用程序，最好是免费的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ce36lr/how_to_go_from_website_to_app_preferably_for_free/</link>
-      <description><![CDATA[所以，有一些网络到应用程序转换器，大多数是预先收费的，其他人让你制作应用程序，然后向你提供帐单，而我是能够免费找到一个（Webintoapp），但它只是打开网站，每当我向上移动页面尝试向上滚动时，它只是......重新加载页面。 所以是的，质量值得怀疑，所以...如何将我的网站变成一个功能齐全的apk？无需付费，无需寻找一键式解决方案，任何所需的软件或技术方法都可以实现这一目标，只要它们不意味着从头开始重新设计所有内容，我们都会感激不已。 &lt;!-- SC_ON - -&gt;  由   提交/u/idhaff  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ce36lr/how_to_go_from_website_to_app_preferably_for_free/</guid>
-      <pubDate>Sat, 27 Apr 2024 02:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人搞砸了这个职位发布，并将此必填字段设置为仅数字，所以我输入了二进制文件“是”。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ce2xew/someone_screwed_up_with_this_job_posting_and_made/</link>
-      <description><![CDATA[   /u/DangerActiveRobots   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ce2xew/someone_screwed_up_with_this_job_posting_and_made/</guid>
-      <pubDate>Sat, 27 Apr 2024 01:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部组件库的“构建与购买”困境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ce2kif/the_build_vs_buy_dilemma_with_internal_component/</link>
-      <description><![CDATA[嘿 r/webdev ！ 我目前正在努力应对我公司（一家财富 500 强公司）面临的挑战，并希望从这个社区经验丰富的成员那里获得一些见解或建议。 我们公司长期以来一直秉持“内部构建”的心态，这常常导致开发大量内部项目，但不幸的是这些项目得不到长期支持。一个典型的例子是我们尝试为 React、Angular 等框架创建一个通用的 Web 组件库。尽管投入了大量资源，但该项目仍受到错误、支持不佳、设计缺陷、可访问性问题和性能问题的困扰。在数百个团队强制采用该方案后，该公司在四年后停止了资金投入，并开始开发两个新的特定于框架的库。 这些新库已经显示出过于武断和漏洞百出的迹象，没有提供从遗留系统迁移的路径。这使我们的组织陷入困境，决定是否采用新的内部库。 考虑到历史背景，我们正在考虑使用开源库并将我们产品团队的设计令牌应用于它们。这可能会以较低的维护工作量满足我们的品牌要求。但是，我们不确定主题是否“足够好”以符合我们的品牌标准。 有人遇到过类似的困境吗？您如何在使用内部解决方案和开源解决方案之间进行权衡？任何关于使用开源工具实现高质量主题的参考或提示也将不胜感激。 提前感谢您的帮助！   由    /u/Godlyric  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ce2kif/the_build_vs_buy_dilemma_with_internal_component/</guid>
-      <pubDate>Sat, 27 Apr 2024 01:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的脚本和自动化 shell 制作了一个信息主页</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ce1k22/i_made_an_informational_homepage_for_my_scripting/</link>
-      <description><![CDATA[嗨r/webdev 我从这个子网站得到了非常好的反馈，所以我想我可以再次询问您有关另一个网络实体的反馈。 这次我想获得有关信息的反馈AquaShell（适用于 Windows 的脚本和自动化 shell）的网站：www.aquashell-scripting.com  背景：大约 20 年前，我对 Windows 上的脚本和自动化非常着迷。我偶然发现了 AutoIt。尽管我从未使用过它，但我发现该产品本身很有趣。几年后，我开始为 Windows 构建自己的脚本环境。 由于历史背景，我试图在项目主页中加入一些怀旧情绪。所以，我基本上希望它带来一些怀旧的氛围，同时符合现代网络标准，例如响应能力等。我使用了“waterish”颜色适合产品名称。 我不太擅长设计，所以我希望你能给我反馈。 :) 免责声明：该网站尚未完成，但我认为我可以要求反馈了。 Chrome 浏览器上也可能存在滚动错误，我正在解决它。 :) 周末愉快！ 亲切的问候   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ce1k22/i_made_an_informational_homepage_for_my_scripting/</guid>
-      <pubDate>Sat, 27 Apr 2024 00:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>对多个客户端 / 网站 / 联系表单使用相同的 Gmail API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdzwzv/using_the_same_gmail_api_for_multiple_clients/</link>
-      <description><![CDATA[在 Google Cloud Console 中，无需为每个客户端使用新凭据创建新项目，是否可以为多个客户端使用相同的 Gmail API 凭据客户？  基本上我想做的就是使用通用的“机构名称 WP SMTP”使用我的代理电子邮件并在多个客户端中使用相同的客户端 ID、机密，并且不可避免地使用 OAuth 2.0 客户端 ID。  我对设置 WP Mail SMTP 还比较陌生，因为我主要只是为我工作的机构做前端，如果这是一个愚蠢的问题，我很抱歉。  我们与大多数小型企业合作，因此如果“SMTP 超载”，数百封电子邮件并不是问题。是一个需要考虑的事情。 提前致谢 🙂    由   提交/u/iEatGary  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdzwzv/using_the_same_gmail_api_for_multiple_clients/</guid>
-      <pubDate>Fri, 26 Apr 2024 23:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>面试时使用副驾驶的礼仪是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdyskh/whats_the_etiquette_on_using_copilot_in_interviews/</link>
-      <description><![CDATA[几天后我将与一家梦想公司进行最后一轮面试。我或多或少知道面试的内容。我将花费 25 分钟在分配给我的带回家作业的基础上构建一个附加功能。  奇怪的是，人们会介意你在这些情况下使用副驾驶吗？也许正确的做法是问？对于算法来说，显然你不应该使用它，但当你亲自构建一个应用程序时，它似乎是合理的。  在这些情况下你做了什么？   由   提交/u/No_Radish_7692   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdyskh/whats_the_etiquette_on_using_copilot_in_interviews/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>XML 天气源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdynj1/xml_weather_feeds/</link>
-      <description><![CDATA[我使用 weather.gov XML feed 来获取当前条件并嵌入他们在几个网站上。  当它工作时，它工作得很好。但这些气象站的信息经常会停止更新。持续几分钟，有时几个小时，有时几天。  例如： http://w1.weather.gov/ xml/current_obs/KBOS.xml 目前是 4 月 26 日下午 6:30，但该 Feed 自 4 月 26 日凌晨 5:54 起就没有更新过。  这种情况经常发生，所以我想知道是否有人知道 XML 天气信息的更可靠来源？最坏的情况是，我想我可能必须开始检查日期，并在进料温度“过时”时在我的网页上发出警告。    由   提交/u/l008com  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdynj1/xml_weather_feeds/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了一个用于对书籍进行评级和建立您的阅读组合的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdy5h0/weve_created_a_website_for_rating_books_and/</link>
-      <description><![CDATA[大家好！ 我很高兴能分享我和我的朋友在闲暇时间开发的一些东西去年。 隆重推出 Readfol.io，这是一个您可以撰写书评、管理图书馆、追踪过去的平台，当前和未来的阅读、在挑战中设定您的阅读目标等等。主要功能是您的阅读组合，您可以在其中展示您最喜欢的书籍、您已阅读的内容、您未阅读的内容以及您的心愿单上是否有任何书籍。它还包括一个强大的评级系统，您可以在可用的预设之间进行选择，也可以使用自定义字段自定义您自己的预设。 目前，我们正处于核心功能到位的 alpha 阶段，但我们已经我们对未来的更新和附加功能制定了宏伟的计划，我们很高兴推出这些功能。 任何反馈对我们来说都意义重大，如果您感兴趣，我们欢迎任何支持或建议来帮助我们成长！ https://www.readfol.io/ 上的所有功能都是完全免费的，因此您可以检查一切。如果您有任何问题，我会尽力解答。  ​ ​   由   提交 /u/GexideL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdy5h0/weve_created_a_website_for_rating_books_and/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>假设您正在创建一个多供应商市场，类似于 Etsy 或 eBay，其中同时存在多个买家和卖家 - Square 是在所有交易中使用的支付处理器，而您被锁定在其中。您会选择什么堆栈/技术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdxqn0/say_you_were_making_a_multivendor_marketplace/</link>
-      <description><![CDATA[我们拥有使用 Next.js 或 React/Node.js 执行自定义全栈解决方案的资源和经验（通过 API 集成 Square） ，但也许将 Hydrogen/Shopify 与 Zapier、SkuIQ 或 Webinology 的 Checkout Republic 应用程序集成 Square 将是一个更明智的开发，因为： 安全性、可扩展性和相当简化的开发是我们的首要任务。 &gt; 我们希望卖家能够在平台（类似于 Etsy）内创建并对其自己的店面进行轻度定制。 很好奇是否有人对此决定有任何经验或见解。&lt; /p&gt;   由   提交 /u/frothymonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdxqn0/say_you_were_making_a_multivendor_marketplace/</guid>
-      <pubDate>Fri, 26 Apr 2024 21:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>哇…😳</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdxor4/woah/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/Low_Acanthisitta_241   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdxor4/woah/</guid>
-      <pubDate>Fri, 26 Apr 2024 21:50:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
