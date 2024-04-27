@@ -4,11 +4,18 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 27 Apr 2024 03:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:00 GMT</lastBuildDate>
+    <item>
+      <title>需要流程图建模方面的帮助</title>
+      <link>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</link>
+      <description><![CDATA[我正在寻找可以根据研讨会期间的讨论自动创建流程图的工具。由于目前还没有与 Microsoft Visio 相当的 CoPilot，因此我需要一个可以简化项目复杂流程映射的解决方案。您能推荐一些可能对此有所帮助的工具吗？    由   提交/u/leodatavinci   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</guid>
+      <pubDate>Sat, 27 Apr 2024 05:36:31 GMT</pubDate>
+    </item>
     <item>
       <title>每天在 12 小时内自动处理 70,000 份手写患者记录</title>
       <link>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</link>
-      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产率提高了 70%，客户满意度达到 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产力提高了 70%，客户满意度为 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</guid>
       <pubDate>Fri, 26 Apr 2024 15:10:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Capable-Start-5497   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c8p78i/how_accurate_are_ai_subtitle_generators_for_videos/</guid>
       <pubDate>Sat, 20 Apr 2024 12:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 便携版中的 Imacros 10 - 它的书签在哪里？！</title>
-      <link>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</link>
-      <description><![CDATA[您好！我使用了多个 Firefox 便携版。现在他们必须更新到版本116。相应地，我将他们的Imacros更新到版本10.0...并将js重写为iim。但问题是每个 Firefox 副本在 iMacros 中都有自己的书签！ iMacros 脚本不再以文件的形式存在，而是以难以理解的形式存在。  我可以通过 iims 将便携式浏览器的不同实例指向同一位置吗？  如果有人能回答，请表示尊重和感激。    由   提交/u/sergeyosipov2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</guid>
-      <pubDate>Sat, 20 Apr 2024 12:22:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
