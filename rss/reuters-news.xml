@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>亚洲新闻 |最新头条新闻 |路透社</title>
-    <link>https://www.reuters.com/world/asia-pacific/</link>
-    <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:14:06 GMT</lastBuildDate>
+    <title>世界新闻 |最新头条新闻 |路透社</title>
+    <link>https://www.reuters.com/world/</link>
+    <description>Reuters.com 是您获取最新世界新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 27 Apr 2024 00:55:56 GMT</lastBuildDate>
+    <item>
+      <title>塔斯社报道，俄罗斯国防部副部长的律师对其审前拘留提出上诉</title>
+      <link>https://www.reuters.com/world/europe/lawyers-russias-deputy-defence-minister-appeal-his-pre-trial-detention-tass-2024-04-26/</link>
+      <description><![CDATA[据俄罗斯国有通讯社塔斯社周五报道，俄罗斯国防部副部长蒂穆尔·伊万诺夫的律师已对法院将其审前拘留的决定提起上诉。]]></description>
+      <guid>https://www.reuters.com/world/europe/lawyers-russias-deputy-defence-minister-appeal-his-pre-trial-detention-tass-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aerosmith 乐队主唱 Steven Tyler 因性侵犯诉讼获准永久撤销诉讼</title>
+      <link>https://www.reuters.com/world/us/aerosmith-frontman-steven-tyler-wins-dismissal-good-sexual-assault-lawsuit-2024-04-26/</link>
+      <description><![CDATA[曼哈顿的一名联邦法官永久驳回了一项指控 Aerosmith 主唱 Steven Tyler 在 20 世纪 70 年代中期一天内两次性侵一名前青少年模特的诉讼。]]></description>
+      <guid>https://www.reuters.com/world/us/aerosmith-frontman-steven-tyler-wins-dismissal-good-sexual-assault-lawsuit-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:38:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大不列颠哥伦比亚省废除允许在公共场所吸毒的计划</title>
+      <link>https://www.reuters.com/world/americas/canadas-british-columbia-scraps-program-allow-drug-use-public-spaces-2024-04-26/</link>
+      <description><![CDATA[加拿大不列颠哥伦比亚省周五取消了一项备受批评的试点计划，该计划允许公开使用一些非法药物，理由是需要维护公共安全。]]></description>
+      <guid>https://www.reuters.com/world/americas/canadas-british-columbia-scraps-program-allow-drug-use-public-spaces-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>荷兰将考虑恢复对巴勒斯坦近东救济工程处机构的支持</title>
+      <link>https://www.reuters.com/world/netherlands-will-consider-resuming-support-palestinian-unrwa-agency-2024-04-26/</link>
+      <description><![CDATA[荷兰政府周五表示，如果联合国驻加沙巴勒斯坦人机构实施加强中立性的建议，荷兰政府将考虑恢复对该机构的资助。]]></description>
+      <guid>https://www.reuters.com/world/netherlands-will-consider-resuming-support-palestinian-unrwa-agency-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 19:46:27 GMT</pubDate>
+    </item>
     <item>
       <title>美国谈判代表称，美国和韩国概述了分摊部队费用的愿景</title>
       <link>https://www.reuters.com/world/us-south-korea-outline-visions-cost-sharing-troops-us-negotiator-says-2024-04-26/</link>
@@ -20,60 +48,32 @@
       <pubDate>Fri, 26 Apr 2024 18:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>布林肯与中国领导人会谈讨论的关键问题</title>
-      <link>https://www.reuters.com/world/key-issues-discussed-by-blinken-talks-with-chinese-leaders-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五在北京会见了中国外长王毅和中国国家主席习近平，这是超级大国之间旨在控制紧张关系的最新高层接触。]]></description>
-      <guid>https://www.reuters.com/world/key-issues-discussed-by-blinken-talks-with-chinese-leaders-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 16:17:51 GMT</pubDate>
+      <title>中国将主办哈马斯和法塔赫举行巴勒斯坦团结会谈</title>
+      <link>https://www.reuters.com/world/china-host-hamas-fatah-palestinian-unity-talks-2024-04-26/</link>
+      <description><![CDATA[周五，伊斯兰激进组织哈马斯及其竞争对手法塔赫和一名驻北京外交官表示，中国将主持巴勒斯坦团结谈判，这是中国在加沙地带战争期间对巴勒斯坦外交的一次引人注目的尝试。]]></description>
+      <guid>https://www.reuters.com/world/china-host-hamas-fatah-palestinian-unity-talks-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>美国与台湾周一开始在台北恢复贸易谈判</title>
-      <link>https://www.reuters.com/world/us-taiwan-hold-trade-talks-taipei-starting-monday-2024-04-26/</link>
-      <description><![CDATA[美国贸易代表办公室周五表示，美国和台湾将于周一开始在台北举行新一轮“21世纪”贸易协定谈判。]]></description>
-      <guid>https://www.reuters.com/world/us-taiwan-hold-trade-talks-taipei-starting-monday-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:44:25 GMT</pubDate>
+      <title>哥伦比亚大学领导层因警察镇压抗议者而受到教师小组的谴责</title>
+      <link>https://www.reuters.com/world/us/columbia-university-president-faces-vote-confidence-protests-spread-2024-04-26/</link>
+      <description><![CDATA[周五，陷入困境的哥伦比亚大学校长再次面临压力，因为大学监督小组严厉批评她的政府镇压亲巴勒斯坦抗议活动，称这一决定“违反了常春藤盟校的规范和传统”。]]></description>
+      <guid>https://www.reuters.com/world/us/columbia-university-president-faces-vote-confidence-protests-spread-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:31:26 GMT</pubDate>
     </item>
     <item>
-      <title>越南国会主席因政治动荡加剧而辞职</title>
-      <link>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</link>
-      <description><![CDATA[执政的共产党周五表示，越南国会主席王廷惠因未具体说明的“违规行为和缺点”而辞职，这是该国国家主席被解职几周后政治动荡的新迹象。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:31:15 GMT</pubDate>
+      <title>以色列空袭杀死贝卡地区黎巴嫩武装分子</title>
+      <link>https://www.reuters.com/world/middle-east/israeli-strike-kills-lebanese-militant-beqaa-area-2024-04-26/</link>
+      <description><![CDATA[黎巴嫩武装组织周五表示，以色列对黎巴嫩贝卡地区的袭击造成两名成员死亡，该组织跨越南部边境向以色列发射火箭弹。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/israeli-strike-kills-lebanese-militant-beqaa-area-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:27:02 GMT</pubDate>
     </item>
     <item>
-      <title>泰国敦促东盟在解决缅甸冲突中发挥更大作用</title>
-      <link>https://www.reuters.com/world/asia-pacific/thailand-urges-bigger-asean-role-resolving-myanmar-conflict-2024-04-26/</link>
-      <description><![CDATA[泰国周五呼吁区域集团东盟在解决军事统治的缅甸危机方面发挥更积极的作用，此前在边境附近发生了数周的战斗，导致贸易中断并导致难民短暂涌入。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/thailand-urges-bigger-asean-role-resolving-myanmar-conflict-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，阿联酋计划建造第二座核电站</title>
-      <link>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</link>
-      <description><![CDATA[三位知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
-      <guid>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>绍伊古表示俄罗斯及其盟国应加强在亚洲的军事演习</title>
-      <link>https://www.reuters.com/world/europe/shoigu-says-russia-allies-should-step-up-military-exercises-asia-2024-04-26/</link>
-      <description><![CDATA[俄罗斯国防部长谢尔盖·绍伊古周五表示，俄罗斯及其亚洲盟友应该扩大联合军事演习，因为它们面临着美国试图扩大其在该地区安全影响力的直接威胁。]]></description>
-      <guid>https://www.reuters.com/world/europe/shoigu-says-russia-allies-should-step-up-military-exercises-asia-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 09:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>“很幸运有他”：澳大利亚哀悼在邦迪袭击中丧生的难民警卫</title>
-      <link>https://www.reuters.com/world/asia-pacific/lucky-have-him-australia-mourns-refugee-guard-killed-bondi-attack-2024-04-26/</link>
-      <description><![CDATA[周五，澳大利亚总理安东尼·阿尔巴内塞在数百人参加的葬礼上发表讲话，称赞巴基斯坦保安法拉兹·塔希尔在悉尼试图制止大规模持刀袭击事件时被杀。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/lucky-have-him-australia-mourns-refugee-guard-killed-bondi-attack-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯里兰卡将把中国建造的机场管理权交给印度和俄罗斯公司</title>
-      <link>https://www.reuters.com/world/sri-lanka-hand-management-china-built-airport-india-russia-companies-2024-04-26/</link>
-      <description><![CDATA[周五一份内阁声明称，斯里兰卡将把中国耗资 2.09 亿美元建造的机场的管理权移交给两家印度和俄罗斯公司，该岛国试图减少国有企业的损失。]]></description>
-      <guid>https://www.reuters.com/world/sri-lanka-hand-management-china-built-airport-india-russia-companies-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:36:44 GMT</pubDate>
+      <title>查尔斯国王在癌症诊断后恢复公职</title>
+      <link>https://www.reuters.com/world/uk/king-charles-resume-public-duties-after-cancer-diagnosis-2024-04-26/</link>
+      <description><![CDATA[白金汉宫周五表示，英国国王查尔斯将于下周自被诊断出患有癌症以来首次重返公职，经过治疗和一段时间的休养，他的病情进展良好。]]></description>
+      <guid>https://www.reuters.com/world/uk/king-charles-resume-public-duties-after-cancer-diagnosis-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 17:01:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

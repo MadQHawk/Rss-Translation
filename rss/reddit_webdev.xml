@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 00:54:33 GMT</lastBuildDate>
+    <item>
+      <title>我为我的脚本和自动化 shell 制作了一个信息主页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce1k22/i_made_an_informational_homepage_for_my_scripting/</link>
+      <description><![CDATA[嗨r/webdev 我从这个子网站得到了非常好的反馈，所以我想我可以再次询问您有关另一个网络实体的反馈。 这次我想获得有关信息的反馈AquaShell（适用于 Windows 的脚本和自动化 shell）的网站：www.aquashell-scripting.com  背景：大约 20 年前，我对 Windows 上的脚本和自动化非常着迷。我偶然发现了 AutoIt。尽管我从未使用过它，但我发现该产品本身很有趣。几年后，我开始为 Windows 构建自己的脚本环境。 由于历史背景，我试图在项目主页中加入一些怀旧情绪。所以，我基本上希望它带来一些怀旧的氛围，同时符合现代网络标准，例如响应能力等。我使用了“waterish”颜色适合产品名称。 我不太擅长设计，所以我希望您能给我反馈。 :) 免责声明：该网站尚未完成，但我认为我可以要求反馈了。 Chrome 浏览器上也可能存在滚动错误，我正在解决它。 :) 周末愉快！ 亲切的问候   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce1k22/i_made_an_informational_homepage_for_my_scripting/</guid>
+      <pubDate>Sat, 27 Apr 2024 00:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>对多个客户/网站/联系表单使用相同的 Gmail API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdzwzv/using_the_same_gmail_api_for_multiple_clients/</link>
+      <description><![CDATA[在 Google Cloud Console 中，无需为每个客户端使用新凭据创建新项目，是否可以为多个客户端使用相同的 Gmail API 凭据客户？  基本上我想做的就是使用通用的“机构名称 WP SMTP”使用我的代理电子邮件并在多个客户端中使用相同的客户端 ID、密码，并且不可避免地使用 OAuth 2.0 客户端 ID。  我对设置 WP Mail SMTP 还比较陌生，因为我主要只是为我工作的机构做前端，如果这是一个愚蠢的问题，我很抱歉。  我们与大多数小型企业合作，因此如果“SMTP 超载”，数百封电子邮件并不是问题。是一个需要考虑的事情。 提前致谢 🙂    由   提交/u/iEatGary  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdzwzv/using_the_same_gmail_api_for_multiple_clients/</guid>
+      <pubDate>Fri, 26 Apr 2024 23:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>面试时使用副驾驶的礼仪是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdyskh/whats_the_etiquette_on_using_copilot_in_interviews/</link>
+      <description><![CDATA[几天后我将与一家梦想公司进行最后一轮面试。我或多或少知道面试的内容。我将花费 25 分钟在分配给我的带回家作业的基础上构建一个附加功能。  奇怪的是，人们会介意你在这些情况下使用副驾驶吗？也许正确的做法是问？对于算法来说，显然你不应该使用它，但当你亲自构建一个应用程序时，它似乎是合理的。  在这些情况下你做了什么？   由   提交/u/No_Radish_7692   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdyskh/whats_the_etiquette_on_using_copilot_in_interviews/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>XML 天气源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdynj1/xml_weather_feeds/</link>
+      <description><![CDATA[我使用 weather.gov XML feed 来获取当前条件并嵌入他们在几个网站上。  当它工作时，它工作得很好。但这些气象站的信息经常会停止更新。持续几分钟，有时几个小时，有时几天。  例如： http://w1.weather.gov/ xml/current_obs/KBOS.xml 目前是 4 月 26 日下午 6:30，但该 Feed 自 4 月 26 日凌晨 5:54 起就没有更新过。  这种情况经常发生，所以我想知道是否有人知道 XML 天气信息的更可靠来源？最坏的情况是，我想我可能必须开始检查日期，并在进料温度“过时”时在我的网页上发出警告。    由   提交/u/l008com  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdynj1/xml_weather_feeds/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个用于对书籍进行评级和建立您的阅读组合的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdy5h0/weve_created_a_website_for_rating_books_and/</link>
+      <description><![CDATA[大家好！ 我很高兴能分享我和我的朋友在闲暇时间开发的一些东西去年。 隆重推出 Readfol.io，这是一个您可以撰写书评、管理图书馆、追踪过去的平台，当前和未来的阅读、在挑战中设定您的阅读目标等等。主要功能是您的阅读组合，您可以在其中展示您最喜欢的书籍、您已阅读的内容、您未阅读的内容以及您的心愿单上是否有任何书籍。它还包括一个强大的评级系统，您可以在可用的预设之间进行选择，也可以使用自定义字段自定义您自己的预设。 目前，我们正处于核心功能到位的 alpha 阶段，但我们已经我们对未来的更新和附加功能制定了宏伟的计划，我们很高兴推出这些功能。 任何反馈对我们来说都意义重大，如果您感兴趣，我们欢迎任何支持或建议来帮助我们成长！ https://www.readfol.io/ 上的所有功能都是完全免费的，因此您可以检查一切。如果您有任何问题，我会尽力解答。  ​ ​   由   提交 /u/GexideL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdy5h0/weve_created_a_website_for_rating_books_and/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>假设您正在创建一个多供应商市场，类似于 Etsy 或 eBay，其中同时存在多个买家和卖家 - Square 是在所有交易中使用的支付处理器，而您被锁定在其中。您会选择什么堆栈/技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdxqn0/say_you_were_making_a_multivendor_marketplace/</link>
+      <description><![CDATA[我们拥有使用 Next.js 或 React/Node.js 执行自定义全栈解决方案的资源和经验（通过 API 集成 Square） ，但也许将 Hydrogen/Shopify 与 Zapier、SkuIQ 或 Webinology 的 Checkout Republic 应用程序集成 Square 将是一个更明智的开发，因为： 安全性、可扩展性和相当简化的开发是我们的首要任务。 &gt; 我们希望卖家能够在平台（类似于 Etsy）内创建并对其自己的店面进行轻度定制。 很好奇是否有人对此决定有任何经验或见解。&lt; /p&gt;   由   提交 /u/frothymonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdxqn0/say_you_were_making_a_multivendor_marketplace/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>哇…😳</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdxor4/woah/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/Low_Acanthisitta_241   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdxor4/woah/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助解决移动设备上的精美产品设计器工具提示问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdxj3v/help_with_fancy_product_designer_tooltip_issue_on/</link>
+      <description><![CDATA[有人使用过最新版本的 Fancy Product Designer 吗？我遇到了一个问题，调色板上的自定义颜色名称的工具提示不会显示在手机和平​​板电脑等触摸设备上。开发人员提到，他们没有计划实施它，尽管 v6 之前的所有版本在移动设备上选择时都会将颜色名称显示为工具提示。 对于客户来说，查看颜色名称至关重要，尤其是因为有多种相同颜色的纹理。就我个人而言，我不喜欢工具提示，因此我正在考虑另一种方法。我正在考虑找到选定的颜色数据数组并将 aria-label 插入到  中。  工具提示的代码创建一个 在 aria-label 属性中使用自定义颜色名称，但这仅在悬停时更新。我也想在桌面上使用它。但是，我担心如果用户将鼠标悬停在调色板上，所选颜色将无法在桌面上显示正确的颜色。 我很难找到数据如何存储并传递到画布区域，这样我就可以简单地显示所选的颜色。任何见解或建议将不胜感激   由   提交 /u/Kennwood   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdxj3v/help_with_fancy_product_designer_tooltip_issue_on/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>向下滚动时增加其宽度和高度的动画/组件类型的名称是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdvtgm/whats_the_name_of_the_animationcomponent_type/</link>
@@ -27,7 +83,7 @@
       <pubDate>Fri, 26 Apr 2024 20:23:37 GMT</pubDate>
     </item>
     <item>
-      <title>shovel - 一款深入挖掘的生产力应用程序</title>
+      <title>shovel - 一款深入挖掘生产力的应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdtpgm/shovel_a_productivity_app_for_going_deep/</link>
       <description><![CDATA[我刚刚部署了一个新的小型生产力应用程序，我希望其他人能发现它有用！我的创作灵感来自于读了一本名为《深度工作》的书。它是一个带有节点后端的 next.js 应用程序，在数字海洋水滴上运行。查看屏幕截图 https://github.com/JamesAC42/shovel ​ 我称它为铲子，因为它可以帮助你深入。它包括一个每日连续跟踪器，可帮助您每天完成某件事、一本日记、一种记录每天工作时间的方法，以及一个用于管理目标和任务的待办事项部分。而且它是协作式的，因此您可以让朋友与您一起工作并互相了解情况。最重要的是，我创建了 30 多个主题，因此每个人都能找到适合自己的主题！免费查看，无需电子邮件即可注册 https://ovel.sh ​&lt; /p&gt; ​ 让我知道任何反馈、建议、问题、疑问以及其他任何内容！ ​   由   提交/u/jamesfy49  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdtpgm/shovel_a_productivity_app_for_going_deep/</guid>
@@ -36,7 +92,7 @@
     <item>
       <title>如何使用 Javascript 画布实现这种类型的螺旋文本动画？画布上还有另一件事我想作为背景。链接在评论里！</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdsy52/how_can_i_achieve_this_type_of_spiral_text/</link>
-      <description><![CDATA[        提交人    /u/sailorscoutnel   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/sailorscoutnel  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdsy52/how_can_i_achieve_this_type_of_spiral_text/</guid>
       <pubDate>Fri, 26 Apr 2024 18:36:50 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[所以我申请了入门级后端 Web 开发职位，我收到了一封电子邮件，说我通过了初始阶段招聘流程，他们将在周五向我发送一份测试，要求我在打开链接时在 90 分钟内完成。  周五到了，我收到一封包含测试链接的电子邮件。他们还表示，他们将时间从 90 分钟延长到了 2 小时。我知道我被骗了。  所以我打开了测试，这里是  使用 Python、Java 或 C# 中的布林带开发简单的交易策略  背景：&lt; /p&gt; 布林线是交易中常用的技术分析工具。它们由一组三条线组成：中带是简单移动平均线 (SMA)，上带和下带是远离 SMA 的标准差。该指标通常用于识别市场中的超买或超卖状况。  挑战： 您的任务是使用布林线制定简单的交易策略。该策略应根据价格相对于区间的位置生成买入和卖出信号。  要求：  研究和理解：  快速学习布林线的基础知识及其使用方法在交易策略中。   实现：  编写一个脚本，计算给定价格数据集的布林带。  • 实施交易策略，其中：  • 当价格从上方穿越下限 频段时，会生成“买入”信号。  • 您的脚本应输出信号及其出现的价格点。   数据处理：使用任何开源金融 API 来获取真实数据来测试您的策略，您可以选择更真实的股票价格或货币。  提示：查看 yahoo Financial api 和 TA-ib。   注释：清楚地注释您的代码以解释您的逻辑和决策。  奖励（可选）：通过添加额外的条件或过滤器来增强您的策略，以提高其有效性。使用图表库可视化价格数据以及布林线和信号。   评估标准： 准确性：布林线和交易信号的正确实施。  策略有效性：交易策略的逻辑和有效性。  代码质量：干净、可读且注释良好的代码。  • 解决问题的能力：能够处理实施过程中遇到的挑战或错误。 。  • 学习和研究：展示快速学习和理解布林带及其在交易中的应用。  ​ I认为这太多了。  这是针对入门级职位的测试吗？？？ 而且只需 2 小时即可完成？？？  对于那些想知道我是否完成了测试的人。我不确定我是否做对了......我所知道的是我已经提交了一份有效的申请。  技术和编码的东西并不难，说实话它们相当简单。但我的问题是域以及与 api 的集成。你怎么指望我能在短短 2 小时内理解我一无所知的东西并与我一无所知的 api 集成？？？  那么你们觉得呢？    由   提交/u/Transcender49  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdsrat/just_did_a_test_for_an_entry_level_backend_dev/</guid>
       <pubDate>Fri, 26 Apr 2024 18:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从机械到科技的旅程。学习、提升技能、建设。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdsh7e/my_journey_from_mech_to_tech_learning_upskilling/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdsh7e/my_journey_from_mech_to_tech_learning_upskilling/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助 - 为个人项目/作品集选择域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cds5yv/help_choosing_domain_for_personal/</link>
-      <description><![CDATA[我想为技术和开发相关项目建立一个投资组合。 FirstnameLastname.___ 在我看来太长了大小写和名字很常见。 Lastname.com &amp; Lastname.net 被采用 选项： 姓氏。 ca - 但是我会申请美国的工作，我不知道这是否会吓跑拥有加拿大域名的潜在雇主（签证原因、搬迁等...） ModifiedLastname。 com - 我可以删除我姓氏中的一个字母，它会读起来类似，我通常在我的电子邮件中这样做，因为它只会使它更短一点，看起来更好。但担心由于其关闭而可能出现拼写错误 Lastname .io / Lastname .dev / Lastname。 org - 全部可用 接受任何建议。我是不是想太多了，应该选择任何人？   由   提交 /u/LifeOfSneaker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cds5yv/help_choosing_domain_for_personal/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare SSL 如何防止 MITM？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdrziu/how_does_cloudflare_ssl_prevent_mitm/</link>
-      <description><![CDATA[我正在尝试了解 Cloudflare SSL 的工作原理。 当我启用 Cloudflare SSL 时，它不会询问网络服务器端的任何配置。如果我错了，请纠正我，但是：浏览器到 cloudflare 之间的连接是 HTTPS，而 cloudflare 和我的网络服务器之间的连接是 HTTP？ 在这种情况下，MITM 攻击仍然可能吗？ ?   由   提交/u/Foreign_Astronaut_32   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdrziu/how_does_cloudflare_ssl_prevent_mitm/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>阵列路由问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdrngv/array_routing_issue/</link>
-      <description><![CDATA[我遇到了一个严重的问题，试图弄清楚为什么我的一个阵列正在工作，而其余阵列则完美工作，即使它们是构建的相同。 这是我完整的路由逻辑，其中包含一些真实链接和测试链接，以及有效和无效链接的注释。 &lt; ?php $request = trim($_SERVER[&#39;REQUEST_URI&#39;], &#39;/&#39;); $parts =explode(&#39;/&#39; , $request); $routes = [ //https://mywebsite.com/games/RPG/game （完美运行）  &#39;游戏&#39; =&gt; [ &#39;RPG&#39; =&gt; [ &#39;游戏&#39; =&gt; &#39;games/rpg/coe.php&#39;, &#39;mmo&#39; =&gt;; [ &#39;mmo&#39; =&gt; &#39;games/rpg/mmo/mmo.php&#39;, ] ], ],   &#39;同人小说&#39; =&gt; [ &#39;故事&#39; =&gt; &#39;fanfiction/story.php&#39;, ], // https://mywebsite.com/users/login （完美运行）&lt; /code&gt; &#39;users&#39; =&gt;; [ &#39;login&#39; =&gt; &#39;home/login.php&#39;, &#39;注册&#39; =&gt; &#39;home/registration.php&#39; ],  // https://mywebsite.com/discord/bots/gamingbuzz (根本不起作用） &#39;discord&#39; =&gt; [ &#39;bots&#39; =&gt; [ &#39;gamingbuzz&#39; =&gt; &#39;discord/bots/gamingbuzz/dashboard.php&#39;, ], ], ] ; function resolveRoute($parts, $routes) { $currentPath = &quot;&quot;;  &lt; code&gt;foreach ($parts as $part) { if (isset($routes[$part])) { $currentPath .= “/” 。 $part; if (is_array($routes[$part])) { $routes = $routes[$part]; code&gt; } else { return $routes[$part]; } } else { 返回 null; } }&lt; br /&gt; if (!is_array($routes)) { return $routes; } return null; }  if (empty($request)) { require &#39;home/main.php&#39;; } else { $filePath = resolveRoute($parts, $routes);&lt; /code&gt; if ($filePath &amp;&amp; file_exists($filePath)) { require $filePath; } else { header(“HTTP/1.1 404 Not Found”); require &#39;home/errors/404.php&#39;;  } }很明显，根据注释，我对这部分有疑问：&lt; /p&gt; // https://mywebsite.com/discord/bots/gamingbuzz （根本不起作用） &#39;discord&#39; =&gt;; [ &#39;bots&#39; =&gt; [ &#39;gamingbuzz&#39; =&gt; &#39;discord/bots/gamingbuzz/dashboard.php&#39;, ], ], 奇怪的是，如果我向其中添加另一个数组，例如这个，那么当我转到 URL /discord/bots/gamingbuzz/dashboard 时它可以正常工作：  &#39;discord&#39; =&gt; ; [ &#39;bots&#39; =&gt; [ &#39;gamingbuzz&#39; =&gt; [ &#39;仪表板&#39; =&gt; &#39;discord/bots/gamingbuzz/dashboard.php&#39;, ], ], ] ,  但无论我做什么，我似乎都无法让它变成 /discord/bots/gamingbuzz。即使我正确设置了所有权限，它仍然会给出错误 403。 有什么想法吗？   由   提交 /u/XplosivOctopus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdrngv/array_routing_issue/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管 Flask API 的好方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdrkam/whats_a_good_way_to_selfhost_a_flask_api/</link>
-      <description><![CDATA[我有一个 Flask REST API，它可以处理 POST 请求并在运行大型生成模型后以图像 html 模板进行响应。如果只是为了一些简单的事情（例如向一些朋友或潜在雇主展示它）而部署它，那么更入门的方法是什么？没什么花哨的，没有多余的装饰，只是根据要求提供 html。我应该提到，我正在运行 Windows 10 企业版，我不认为我可以将整个系统移植到 Linux，设置所有依赖项花了几天时间，这非常令人头痛，但我最近一直在尝试使用 WSL ，尽管不成功...   由   提交/u/cantbebothered67836   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdrkam/whats_a_good_way_to_selfhost_a_flask_api/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Remix/Next 应用程序之后构建 React Native 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdrg0h/how_to_build_react_native_app_after_remixnext_app/</link>
-      <description><![CDATA[所以，我想从我是一名 MERN + RN 开发人员开始。以下是我通常创建内容的方式  Express JS 提供一些静态页面（SSG 在 2016 年使用 Jade 宝贝！） 一个页面是“网络应用程序”。因此它会加载一个 JS 包（即应用） 我有一个专用的 JSON API 路由部分，用于填充“应用” 我使用 JWT 进行身份验证，因为会话很难 构建用于身份验证、角色检查的中间件 将 zustand 集成到 Web 应用程序 利润 $$&lt; /li&gt;  然后我开始我的 React Native 部分，我使用 Express API 路由，并使用 JWT 进行身份验证，使用 zustand 进行状态管理，因为我已经有了该逻辑。 我失业了，由于不知道 Next/Remix，在几次编码挑战失败后，我开始深入学习 Remix。 我不讨厌 Remix，但我不知道如何获取我的加载器/操作并将它们转换为可以在我的 React Native 应用程序上使用的内容。  如何从会话身份验证切换到 JWT 身份验证 如何在 Remix 中为我的 React Native 应用程序创建十几个 API 路由以与 API 进行通信  我正在阅读有关 BFF 的内容 - 但这似乎需要更多工作，有什么意义？   ol&gt; Remix 提到“资源路线”作为未由“”或其他 UI 调用的路由，但我不知道创建这些文件（我收到 405）  总的来说，我只是困惑 Remix/Next 应该如何加速 React 开发   由   提交 /u/meow_pew_pew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdrg0h/how_to_build_react_native_app_after_remixnext_app/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tab 键导航到第一个可见元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdr8wr/tabnavigate_to_first_visible_element/</link>
-      <description><![CDATA[这是一种奇怪的行为，但我会尽力描述我所看到/打算做的事情。 我有一个网页，其中包含带有 id 的部分，假设这些部分中有一些锚标记。 显然，当我导航到 mysite.com#some-id 时，浏览器会设置滚动到 id=&quot;some-id&quot; 的元素。然后，当我按 Tab 键时，浏览器不会关注页面上的第一个链接，而是知道关注 some-id 部分中的第一个链接。 问题 1 如何当我按 Tab 时浏览器知道要关注哪个链接吗？ （当然，所有内容都有 tabindex=0） 现在，我在页面顶部添加了一个粘性导航栏，其中包含这些片段 url 的列表。因此，当我位于页面上的任何位置时，我可以单击导航栏，它会将 #some-id 滚动到视图中。但是现在当我按 Tab 时，我必须按 Tab 几次才能退出导航栏，然后它会跳转到页面顶部导航栏之后的第一个链接，而不是第一个链接 这是有道理的...但是浏览器如何知道像第一个场景一样跳转到页面中间的另一个链接？ 问题 2假设复制问题 1 中的行为并非易事，我确信我可以做一些聪明的事情，例如查找 W3 规范定义的所有可选项元素（？），查找当前部分中的第一个元素，并且，在选项卡上，停止键盘传播并专注于该链接...但是有更简单的方法吗？ 感谢任何帮助！我已经为此烦恼了好几天了，哈哈。   由   提交 /u/member_of_the_order   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdr8wr/tabnavigate_to_first_visible_element/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试为我的烧瓶项目收集一些反馈和批评，并且非常感谢对我的简短调查的一些回应。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdqo89/i_am_trying_to_gather_some_feedback_and_criticism/</link>
-      <description><![CDATA[       由   提交/u/Slithery_0  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdqo89/i_am_trying_to_gather_some_feedback_and_criticism/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:03:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
