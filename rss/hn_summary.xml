@@ -3,87 +3,87 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 17:58:28 GMT</lastBuildDate>
+    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
+    <lastBuildDate>Sun, 28 Apr 2024 00:47:26 GMT</lastBuildDate>
     <item>
-      <title>[媒体]国家公路交通安全管理局报告了“严重的安全差距 [...]</title>
-      <link>https://t.me/hn_summary/86753</link>
-      <description><![CDATA[监管机构报告特斯拉自动驾驶仪中与撞车事故有关的“严重安全漏洞”&lt; /a&gt;
-美国国家公路交通安全管理局报告称，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致 467 起碰撞事故、13 人死亡和多人重伤。该系统的设计因无法确保驾驶员注意力和适当使用而受到批评，驾驶员参与系统较弱，即使驾驶员没有专注于道路，自动驾驶仪也能保持活跃状态​​。尽管软件更新旨在解决这些问题，但与自动驾驶仪相关的更多事故仍在发生。参议员们呼吁限制自动驾驶仪的使用，而特斯拉和首席执行官埃隆·马斯克则加倍押注自动驾驶作为公司的未来。]]></description>
-      <guid>https://t.me/hn_summary/86753</guid>
-      <pubDate>Sat, 27 Apr 2024 17:58:28 GMT</pubDate>
+      <title>2023 年，谷歌的算法变化迫使我通过优先顺序毁掉了我完美的网站 [...]</title>
+      <link>https://t.me/hn_summary/86795</link>
+      <description><![CDATA[Google 让我毁了一个完美的网站 (2023)
+2023 年，Google 的算法更改迫使我将 Javascript 优先于传统 HTML，从而毁掉了我完美的网站。这一有争议的决定导致用户体验下降和自然流量损失。尽管我最初很抗拒，但我不得不适应谷歌的新要求，以保持搜索结果的可见性。这一转变的惊人影响凸显了谷歌等科技巨头在数字领域的力量和影响力。如果您遇到类似的挑战，请考虑切换到 RSS 源以获得更简单的浏览体验。]]></description>
+      <guid>https://t.me/hn_summary/86795</guid>
+      <pubDate>Sun, 28 Apr 2024 00:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cognita 是一个专为模块化应用程序设计的开源 RAG 框架，提供了 [...]</title>
-      <link>https://t.me/hn_summary/86752</link>
-      <description><![CDATA[显示 HN：Cognita – 用于模块化应用程序的开源 RAG 框架&lt; /a&gt;
-Cognita 是一个专为模块化应用程序设计的开源 RAG 框架，提供从实验到生产过渡的解决方案。它在底层利用 Langchain/Llamaindex，以模块化、可扩展和可扩展的方式组织代码库组件。 Cognita 提供了一个生产就绪环境，具有无代码 UI 支持和增量索引功能。它通过抽象分块、嵌入、查询服务和矢量数据库部署来简化 RAG 系统的部署。该项目包括一个用于定制和实验的 UI，支持多个文档检索器、SOTA 嵌入和法学硕士。 Cognita 可以在本地使用，也可以与 Truefoundry 组件一起使用以实现可扩展性，从而使非技术用户可以轻松地与系统交互。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86752</guid>
-      <pubDate>Sat, 27 Apr 2024 17:49:21 GMT</pubDate>
+      <title>在一项突破性的发现中，古生物学家在科伦坡出土了巨型乌龟化石 [...]</title>
+      <link>https://t.me/hn_summary/86794</link>
+      <description><![CDATA[哥伦比亚安第斯山脉发现远古巨龟化石
+古生物学家在哥伦比亚发现了距今 5700 万年前的巨龟化石，这是一项突破性的发现。这种已灭绝的爬行动物被称为 Puentemys mushaisaensis，长约 1.5 米，是在索查山区发现的。这一发现意义重大，因为它提供了对南美洲北部古新世和始新世时期史前景观的深入了解。这一发现距离加勒比海附近先前的发掘地点数百公里，为了解古代安第斯地区的低海拔地区及其相互连通的湖泊提供了线索。这一前所未有的发现为了解该地区的地质历史提供了独特的视角。]]></description>
+      <guid>https://t.me/hn_summary/86794</guid>
+      <pubDate>Sun, 28 Apr 2024 00:37:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在张量数学的神秘领域，掌握艾恩之石如一颗宝石般闪耀……</title>
-      <link>https://t.me/hn_summary/86751</link>
-      <description><![CDATA[40 行 Python 中的 Einsum
-在张量数学的神秘领域，艾恩精通之石就像一座无与伦比的力量的灯塔，在魔法和多维计算的世界之间架起桥梁。 Einsum 是机器学习中经常用于张量操作的工具，它提供了一种独特的方法来处理矩阵乘法等运算。虽然乍一看似乎很冗长，但 Einsum 提供了诸如记录张量维度和隐式维度重新排序等优点。 Einsum 的迭代方法涉及嵌套循环，但为了获得更快的性能，建议使用 torch 操作的矢量化实现。潜入 Einsum 的神秘舞蹈，掌握张量操纵的艺术。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86751</guid>
-      <pubDate>Sat, 27 Apr 2024 17:31:12 GMT</pubDate>
+      <title>[媒体]Coinbase 正在发起一项价值 1500 万美元的电视广告活动，以展示加密货币的优势 [...]</title>
+      <link>https://t.me/hn_summary/86793</link>
+      <description><![CDATA[Coinbase 将于今天上午推出 1500 万美元的新广告
+Coinbase 正在发起一项耗资 1500 万美元的电视广告活动，以展示加密货币相对于传统支付方式的优势。该广告定于 NBA 季后赛期间播出，用幽默的披萨比喻来说明信用卡交易的复杂性和隐性费用。这些广告旨在教育观众了解加密货币如何提供更快、更简单且更具成本效益的支付解决方案。这一营销举措正值国会考虑对稳定币进行立法，Coinbase 主张进行监管，为消费者和商家带来好处。独特而巧妙的广告方式凸显了 Coinbase 对彻底改变货币未来的承诺。]]></description>
+      <guid>https://t.me/hn_summary/86793</guid>
+      <pubDate>Sun, 28 Apr 2024 00:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 摘要：andrewwegner.com 上的文章讨论了使用 [...] 时常见的 Python“陷阱”</title>
-      <link>https://t.me/hn_summary/86750</link>
-      <description><![CDATA[Python 问题：strip、lstrip、rstrip 可以删除超出预期的内容&lt; /a&gt;
-摘要：andrewwegner.com 上的文章讨论了一个常见的 Python“陷阱” &quot; 使用 strip、lstrip 和 rstrip 函数从字符串中删除前导或尾随字符时。作者解释说，如果提供字符列表而不是字符串，这些函数可以删除比预期更多的内容。本文提供了一个示例，并通过介绍Python 3.9中引入的.removesuffix()和.removeprefix()函数来提供解决方案。作者强调了理解这些函数的行为以及它们可能给新开发人员带来的困惑的重要性。]]></description>
-      <guid>https://t.me/hn_summary/86750</guid>
-      <pubDate>Sat, 27 Apr 2024 17:29:08 GMT</pubDate>
+      <title>[媒体]EyeEm，破产后被 Freepik 收购的照片共享社区，[...]</title>
+      <link>https://t.me/hn_summary/86792</link>
+      <description><![CDATA[如果用户不这样做，EyeEm 将授权他们使用照片来训练 AI删除它们
+EyeEm 是 Freepik 破产后收购的照片共享社区，目前正在授权用户使用照片来训练人工智能模型。用户有 30 天的时间可以通过删除其内容来选择退出，否则，他们就同意这种使用。删除过程复杂且耗时，长达 180 天。删除帐户的用户将放弃其工作的任何报酬。这一有争议的举动让许多用户感到不安，他们认为自己没有得到足够的通知或选项来轻松选择退出。这导致一些用户考虑转向开放社交网络平台 Pixelfed，该平台承诺不使用图像来训练 AI 模型。]]></description>
+      <guid>https://t.me/hn_summary/86792</guid>
+      <pubDate>Sun, 28 Apr 2024 00:06:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Astroscale 的 ADRAS-J 卫星通过捕捉废弃的特写照片创造了历史 [...]</title>
-      <link>https://t.me/hn_summary/86749</link>
-      <description><![CDATA[私人太空垃圾探测器拍摄了轨道上废弃火箭的历史照片&lt; /a&gt;
-Astroscale 的 ADRAS-J 卫星通过拍摄轨道上废弃火箭主体的特写照片创造了历史，标志着空间碎片清除技术的一个重要里程碑。探测器成功地在火箭数百米范围内机动，展示了其交会和研究太空垃圾的能力。这一成就对于未来的航天器维修和碎片清除工作至关重要。这张照片是同类照片中的第一张，强调了解决日益严重的空间碎片问题以防止地球轨道发生灾难性碰撞的重要性。请继续关注这一开创性任务的更多更新和图像。]]></description>
-      <guid>https://t.me/hn_summary/86749</guid>
-      <pubDate>Sat, 27 Apr 2024 17:27:03 GMT</pubDate>
+      <title>[媒体] jQuery UI 1.13.3 已发布，修复了常见的投诉问题 [...]</title>
+      <link>https://t.me/hn_summary/86791</link>
+      <description><![CDATA[jQuery UI 1.13.3 发布
+jQuery UI 1.13.3 已发布，修复了对可调整大小小部件的常见投诉，并支持 selectmenu 选项中的隐藏属性。新的测试运行程序允许在没有 Karma 的情况下进行本地和 BrowserStack 测试运行。该库处于维护状态，重点关注与新 jQuery 版本的兼容性和安全修复。该版本包括下载选项和变更日志。感谢贡献者的帮助。向 jQuery UI Bug Tracker 报告错误并在 Stack Overflow 上发布支持问题。请继续关注未来的更新。立即下载最新版本！]]></description>
+      <guid>https://t.me/hn_summary/86791</guid>
+      <pubDate>Sat, 27 Apr 2024 23:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个开源项目提供了一个脚本来帮助您的网站在搜索中建立索引[...]</title>
-      <link>https://t.me/hn_summary/86748</link>
-      <description><![CDATA[显示 HN：开源脚本以使您的网站在 Bing 上建立索引、Yandex 等
-这个开源项目提供了一个脚本来帮助您的网站在 Bing、Yandex 等搜索引擎上建立索引。它专为 Google 可能不会为您的网站编制索引的情况而设计。该脚本快速将站点地图中的 URL 提交到各种搜索引擎以进行索引。作者强调了该脚本的易用性和低配置要求，以及为每个域生成 API 密钥的能力。该项目通过提供对多个搜索引擎的支持和简单的设置过程而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/86748</guid>
-      <pubDate>Sat, 27 Apr 2024 17:21:58 GMT</pubDate>
+      <title>在一场大型竞赛中，纯素奶酪击败了乳制品。</title>
+      <link>https://t.me/hn_summary/86790</link>
+      <description><![CDATA[纯素奶酪在一场激烈的竞争中击败了乳制品。然后剧情就凝固了
+令人惊讶的是，加利福尼亚州伯克利市 Climax Foods 生产的一种名为 Climax Blue 的植物性纯素奶酪击败了传统乳制奶酪，赢得了久负盛名的“Good Food”奖。然而，当该奶酪因成分没有获得 GRAS 认证而被取消资格时，争议爆发了。这一事件引发了关于纯素奶酪未来的争论，传统奶酪制造商质疑植物性产品的真实性。这种情况还引发了有关标签和语义的问题，因为乳制品行业反对在非乳制品中使用“奶酪”等术语。该事件凸显了食品行业不断变化的格局以及围绕消费者偏好和定义的持续斗争。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86790</guid>
+      <pubDate>Sat, 27 Apr 2024 23:57:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 嘿嘿！</title>
-      <link>https://t.me/hn_summary/86747</link>
-      <description><![CDATA[显示 HN：我为已弃用的 Google QR 构建了一个直接替代品代码API
-嘿！我很高兴与您分享我的最新项目 - 现已弃用的 Google QR 代码 API 的直接替代品。使用 qr-api.com，您可以轻松生成二维码使用我们的简单端点进行代码。我们的与众不同之处在于我们的实时预览功能，让您可以在下载之前实时查看您的二维码。告别寻找新的二维码生成器的麻烦 - qr-api .com 已满足您的需求。请访问 simple.qr 查看我们的替换端点和实时预览-api.com/google。让我们让二维码保持活力！]]></description>
-      <guid>https://t.me/hn_summary/86747</guid>
-      <pubDate>Sat, 27 Apr 2024 17:16:23 GMT</pubDate>
+      <title>[媒体]Data Bonsai 是一个 Python 包，旨在使用大型语言清理和管理数据 [...]</title>
+      <link>https://t.me/hn_summary/86789</link>
+      <description><![CDATA[显示 HN：Data Bonsai：用于清理数据的 Python 包法学硕士
+Data Bonsai 是一个 Python 包，旨在使用大型语言模型 (LLM) 清理和管理数据。它提供了用于数据处理、分类、转换和提取的工具，具有 LLM 输出验证和批量处理以节省令牌等功能。该项目的独特之处在于提供了用于处理速率限制和瞬态错误的重试逻辑，以及用于优化 LLM API 调用的自适应批处理。用户可以对数据进行分类，使用 AutoBatch 处理更大的数据集，并查看令牌使用情况以进行成本估算。该项目支持 OpenAI 和 Anthropic 等各种 LLM 提供商，未来计划提供更多功能和提供商。]]></description>
+      <guid>https://t.me/hn_summary/86789</guid>
+      <pubDate>Sat, 27 Apr 2024 23:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 硅谷的科技工作者已经不再将自己视为未来的亿万富翁 [...]</title>
-      <link>https://t.me/hn_summary/86746</link>
-      <description><![CDATA[硅谷的阶级斗争
-硅谷的科技工作者已经不再将自己视为未来的亿万富翁，而是认识到工作条件不断恶化，并引发了前所未有的激进主义浪潮。该行业的衰落归因于“enshitification”，科技公司现在生产劣质产品并虐待员工。随着竞争、监管和自助不再约束该行业，劳工激进主义已成为对其权力的最后一个潜在制约。科技工作者现在正在与其他蓝领科技工作者组织起来并协调他们的斗争，这标志着科技行业观念的重大转变和员工积极性的上升。]]></description>
-      <guid>https://t.me/hn_summary/86746</guid>
-      <pubDate>Sat, 27 Apr 2024 16:59:15 GMT</pubDate>
+      <title>[媒体] 在 gagor.pro 上的文章“我如何不再担心并爱上 Makefiles”中，作者 [...]</title>
+      <link>https://t.me/hn_summary/86788</link>
+      <description><![CDATA[我如何不再担心并爱上 Makefile
+在 gagor.pro，作者分享了他们在编程中拥抱Makefile的历程。他们讨论了 Makefile 如何通过基于依赖关系编排任务来简化软件编译和项目管理。作者还强调了 Makefiles 在刷新 Postfix 的映射文件和管理 Python 项目依赖项方面的巧妙使用。此外，他们还展示了 Terraform 项目中 Makefile 的实用程序，用于处理不同的环境和获取模块版本。作者对 Makefile 的独特视角让我们深入了解它们在各种编程场景中的多功能性和效率。 （根据故事文本的 55% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86788</guid>
+      <pubDate>Sat, 27 Apr 2024 23:41:36 GMT</pubDate>
     </item>
     <item>
-      <title>在一项有趣的研究中，科学家们深入研究了猫坐在[...]上的神秘行为。</title>
-      <link>https://t.me/hn_summary/86745</link>
-      <description><![CDATA[科学家研究了猫坐在正方形上的神秘行为（2021 年）
-在一项引人入胜的研究中，科学家们深入研究了猫坐在正方形上的神秘行为。这种奇怪的现象多年来一直困扰着猫主人，但研究人员终于揭示了为什么我们的猫科动物朋友如此被这些几何形状所吸引。通过仔细的观察和分析，他们发现了一些关于猫的思想和它们古怪习惯的惊人见解。这项研究引发了人们对了解我们心爱的宠物行为的新一轮兴趣，并让许多猫主人对他们毛茸茸的伙伴产生了新的欣赏。]]></description>
-      <guid>https://t.me/hn_summary/86745</guid>
-      <pubDate>Sat, 27 Apr 2024 16:57:40 GMT</pubDate>
+      <title>[媒体] sigma-star.at 上的文章探讨了将 Go 程序嵌入到 Linux 内核中，这是一种 [...]</title>
+      <link>https://t.me/hn_summary/86787</link>
+      <description><![CDATA[让我们将 Go 程序嵌入到 Linux 内核中&lt; br /&gt;
+关于 sigma-star.at 的文章探讨了嵌入 Go将程序写入 Linux 内核，这是一个鲜为人知的功能。通过将用户空间程序直接嵌入到内核映像中，可以不依赖文件系统来执行它。这种方法对于内核需要运行帮助程序的场景特别有用，特别是在具有网络存储的设置中。本文详细介绍了嵌入程序、使用用户模式帮助程序 API 以及利用 GNU 汇编器将程序包含在内核映像中的过程。演示展示了内核中嵌入式程序的成功执行。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86787</guid>
+      <pubDate>Sat, 27 Apr 2024 23:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>在法学硕士的世界里，及时的工程至关重要，但常常被忽视。</title>
-      <link>https://t.me/hn_summary/86744</link>
-      <description><![CDATA[对 LLM 少数样本的实证测试表明，样本选择至关重要
-在法学硕士的世界里，及时的工程至关重要，但常常被忽视。在 Libretto，我们正在分享我们的经验，以帮助其他人应对这个复杂的过程。在最近的一项实验中，我们测试了少数样本选择对 LLM 准确性的影响。令人惊讶的是，示例的选择产生了显着的效果，性能相差 19.2 个百分点。一种变体的表现甚至比基线提示还要差。经过仔细检查，我们发现使用单字示例会导致法学硕士的回答出现错误。这凸显了仔细选择示例以获得最佳结果的重要性。 Libretto 旨在简化即时优化，使即时工程对所有人来说都更易于管理。]]></description>
-      <guid>https://t.me/hn_summary/86744</guid>
-      <pubDate>Sat, 27 Apr 2024 16:39:32 GMT</pubDate>
+      <title>日本的月球勘测智能着陆器 (SLIM) 克服困难，在三个月球上幸存下来 [...]</title>
+      <link>https://t.me/hn_summary/86786</link>
+      <description><![CDATA[日本月球着陆器又度过了另一个月球之夜&lt; br /&gt;
+日本的月球勘测智能着陆器（SLIM）克服重重困难，在月球表面度过了三个月夜。尽管温度传感器和电池出现故障，即使没有加热器来对抗极冷，SLIM 仍能继续运行。 SLIM 最初只为一个农历日设计，但它超出了预期并继续运行。着陆器出乎意料的耐用性给许多人留下了深刻的印象，人们希望未来能看到更多的月球日出。 SLIM 的电子设备状态以及在第四个农历夜晚幸存的可能性仍然不确定，但任务的意外成功证明了其韧性。]]></description>
+      <guid>https://t.me/hn_summary/86786</guid>
+      <pubDate>Sat, 27 Apr 2024 23:35:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

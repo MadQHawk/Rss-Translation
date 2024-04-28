@@ -4,11 +4,102 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:59:18 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个应用程序，可以从 TrollandToad 和 Amazon 上抓取价格，以显示可用卡的综合列表</title>
+      <title>有没有创建样式表的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cest25/is_there_a_tool_for_creating_styles_tables/</link>
+      <description><![CDATA[是否有一个简单的工具可以使用 html/css 创建样式表？  &amp; #32；由   提交/u/Aberu_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cest25/is_there_a_tool_for_creating_styles_tables/</guid>
+      <pubDate>Sat, 27 Apr 2024 23:59:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计师如何帮助网页开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceso4t/how_can_the_designer_help_the_web_developer/</link>
+      <description><![CDATA[我是一名传统的印刷设计师，有人要求我帮助我的 Web 开发人员进行 WordPress 设计，因为他对自己的设计能力没有信心。我在 Illustrator 中绘制了模型，他尝试重新创建它们，但通常他无法“完美”地重新创建它们，我发现缺乏对细节的关注是设计开始崩溃的地方。  我希望能够为他提供更多帮助，但他就是无法“看到”这些细节或使它们正确适应他正在使用的模板。我对 WordPress/ HTML 和 CSS 了解一点，但了解不多。我一直对这个过程感到沮丧，因为他会告诉我我提供的设计无法完成（超出预算，也许太难了？）我真的很想找出问题的根源。  在 Illustrator 中设计的网站在 WordPress 中重新创建是不现实的吗？其他人如何获得漂亮的设计？ （也许我需要调整我的期望）有人对我可以学习如何在 WordPress 中创建漂亮/定制网站的课程有任何建议吗？设计师和网页开发人员之间的工作流程通常是怎样的？我怎样才能知道 WordPress 设计方面的可能性？我很乐意帮助他获得一个时尚的网站，并摆脱这个网站结果不太理想的令人沮丧的循环，因为开发人员说这超出了预算，他无法做到。  感谢您的见解/想法！   由   提交 /u/RikkiRainbow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceso4t/how_can_the_designer_help_the_web_developer/</guid>
+      <pubDate>Sat, 27 Apr 2024 23:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将 Wonkypedia 设为一个网站，用于从另一个时间线创建维基百科文章</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ces1zl/i_made_wonkypedia_a_site_to_create_wikipedia/</link>
+      <description><![CDATA[       由   提交 /u/kirbyhood   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ces1zl/i_made_wonkypedia_a_site_to_create_wikipedia/</guid>
+      <pubDate>Sat, 27 Apr 2024 23:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人有Shopify开发经验？我正在尝试对系列中的产品进行排序，并且最近几天一直在苦苦思索</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceryeu/is_anyone_experienced_in_shopify_development_i_am/</link>
+      <description><![CDATA[我正在工作的客户希望产品按最先出现的最新商品和最后出现的特价商品以及中间的其他商品排序。我已经尝试了几天直接用液体来做到这一点，但它们并没有真正为您提供很多功能来做到这一点。他们有一些 sort_by_options 但除此之外，你似乎运气不好。  这让我想到了另一个解决方案，那就是创建一个应用程序，使用 API 重组集合中的产品。我可以使用 Webhook 来监视添加的产品并自动运行脚本对它们进行排序。唯一的问题是我不知道这是否会与集合的排序方式选项冲突，或者它们是否需要全部设置为手动？ 我知道有一种方法可以在手动管理仪表板，但有成千上万的产品，需要几天的时间才能对它们进行正确排序，并且每次添加新批次的产品时都需要完成此操作。  如果你遇到这个问题你会怎么做？  我真的希望有人在 Shopify 中遇到过比我更有经验的人。我还在 Shopify 的支持论坛上发布了一个问题，以防万一。欣赏它！    由   提交 /u/__B4Nd1t__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceryeu/is_anyone_experienced_in_shopify_development_i_am/</guid>
+      <pubDate>Sat, 27 Apr 2024 23:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>星期六炫耀。刚刚为纽约的一家健身房客户推出了这个网站。这是一个比我通常处理所有页面的项目更大的项目。该设计是我最喜欢的设计之一，也是我制作的为数不多的黑暗主题网站之一。页面速度得分为 100/100，仅使用 html、css 和 11ty 制作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cerghk/showoff_saturday_just_launched_this_site_for_a/</link>
+      <description><![CDATA[这是网站 https://apexperformancegym.com  这是一件有趣的事情。以前从未制作过健身网站，所以我期待做一些新的事情。组织内容需要花费大量时间。我们写了一页又一页关于他们和他们的健身房的内容，我们必须将这些内容压缩并组织成具有清晰的信息和号召性用语的连贯内容。  这是一项白标工作。这是另一位外部营销人员向我提供的，他向我发送了他们的网站客户，然后我制作了它们。因此，很高兴能够通过它们，而不必同时担任项目经理。对这个结果非常满意。    由   提交 /u/Citrous_Oyster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cerghk/showoff_saturday_just_launched_this_site_for_a/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助代码：有时它可以正确加载到完整高度。有时它不会将图像加载到完整高度。帮我调试一下。 https://naren200.github.io/</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cer9d4/help_with_the_code_sometimes_it_loads_properly_to/</link>
+      <description><![CDATA[    /u/ExplanationEqual2539   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cer9d4/help_with_the_code_sometimes_it_loads_properly_to/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经构建了发票和简历生成器来测试反应</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cer3oy/i_have_built_and_invoice_and_resume_builder_to/</link>
+      <description><![CDATA[ 由   提交/u/tootac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cer3oy/i_have_built_and_invoice_and_resume_builder_to/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板❤️</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceqw1z/i_made_an_opensource_developer_portfolio_website/</link>
+      <description><![CDATA[       由   提交/u/p00phed27  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceqw1z/i_made_an_opensource_developer_portfolio_website/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于托管无头 WordPress 前端的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceqs93/advice_for_hosting_headless_wordpress_frontend/</link>
+      <description><![CDATA[我正在通过无头技术帮助客户为其 WordPress 网站创建更好的前端。我过去曾将 Vercel 用于个人工作，并且有兴趣在这里使用它，但我担心它是否可能超出免费计划的限制，因为它本质上会提取所有数据始终来自 WordPress 后端。我没有为这个项目获得报酬（我自愿为非营利组织做这个项目），所以我不能向客户收取月费来支付基础设施成本，这取决于他们。我想避免让客户签下一些会向他们收取很多费用的东西；你们认为这可能属于 Vercel Pro 计划吗？如果是这样，是否有更好的替代方案来托管无头 Wordpress 项目的前端？   由   提交/u/freew1ll_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceqs93/advice_for_hosting_headless_wordpress_frontend/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 Instagram 食谱搜索引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceqmwj/i_created_a_search_engine_for_instagram_recipes/</link>
+      <description><![CDATA[ 由   提交 /u/Chucki_e   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceqmwj/i_created_a_search_engine_for_instagram_recipes/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让用户的输入反映在 OBS 浏览器源上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceqdam/how_can_i_get_a_users_input_to_reflect_on_an_obs/</link>
+      <description><![CDATA[基本上，我正在尝试创建一个网站，用户可以在其中控制叠加层上的详细信息。它将用于小型电子竞技比赛。只是一个显示团队名称、徽标等的叠加层。我希望用户能够访问网站，输入数据，然后让该数据显示在他们的 OBS 浏览器源上。 我已经考虑过 localStorage 的想法，但是该数据不是跨浏览器的。我尝试过 Websocket 服务器的想法，但我不知道连接用户和该用户在服务器中的 obs 的真正方法。但最重要的是，我希望它对用户来说很容易。所以我不希望他们在 obs 方面做更多的工作，而不仅仅是添加浏览器源。有什么想法吗？ 编辑：我目前的解决方案想法是让用户创建一个帐户，他们生成一个密钥，然后我将其与他们更改的数据一起存储在数据库中。然后在 OBS 中，他们将密钥作为参数传入，密钥用于获取该数据并显示它。然后每隔 x 秒检查更新的数据。还有更好的想法吗？   由   提交/u/Gmay17  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceqdam/how_can_i_get_a_users_input_to_reflect_on_an_obs/</guid>
+      <pubDate>Sat, 27 Apr 2024 22:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Postgres 坚如磐石且免费时，为什么还有人愿意为任何 RDBMS 付费呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceq67c/why_would_literally_anyone_pay_for_any_rdbms_when/</link>
+      <description><![CDATA[我知道您仍然可以支付 Postgres HOSTING 费用。但我说的是 RDBMS 软件本身。这是免费的。与其他解决方案不同（看看你的 Microsoft SQL Server） 请帮助我理解。当 Postgres 几乎是最好的、最容易使用、快速且“奇怪的怪癖”较少的时候，为什么任何具有良好 IT 知识的组织还要为任何关系数据库软件付费呢？他们所有人中？  这只是“CEO锁定供应商心态”吗？事物？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceq67c/why_would_literally_anyone_pay_for_any_rdbms_when/</guid>
+      <pubDate>Sat, 27 Apr 2024 21:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我希望我的应用程序支持企业 SSO，但我不知道从哪里开始</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ceparb/i_want_my_app_to_support_sso_for_businesses_but_i/</link>
+      <description><![CDATA[从 Web 开发人员的角度来看，我不完全确定 SSO 是如何工作的。目前我的应用程序支持使用基本电子邮件和密码登录并生成 jwt 令牌。如果我的客户想要为 100 多名员工使用 Okta 或 OneLogin 等 SSO 提供商，我该怎么做？ 如果有人有资源可以分享或可以简单地解释一下（什么也没有），我将不胜感激技术只是想了解我需要做什么才能开始）   由   提交 /u/Hefty-Highlight5379    reddit.com/r/webdev/comments/1ceparb/i_want_my_app_to_support_sso_for_businesses_but_i/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ceparb/i_want_my_app_to_support_sso_for_businesses_but_i/</guid>
+      <pubDate>Sat, 27 Apr 2024 21:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用，从 TrollandToad 和亚马逊抓取价格，以显示可用卡的综合列表</title>
       <link>https://www.reddit.com/r/webdev/comments/1cenhxu/i_built_an_app_that_scrapes_prices_from/</link>
-      <description><![CDATA[标题几乎说明了一切。这些应用程序可能是垃圾，别太苛责我哈哈。  https://cardharbor.vercel.app/    由   提交  /u/SixAndTheRest   [link] [评论]]]></description>
+      <description><![CDATA[标题几乎说明了一切。这些应用程序可能很垃圾，别太难受了哈哈。  https://cardharbor.vercel.app/   由   提交/u/SixAndTheRest  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cenhxu/i_built_an_app_that_scrapes_prices_from/</guid>
       <pubDate>Sat, 27 Apr 2024 20:01:32 GMT</pubDate>
     </item>
@@ -18,97 +109,6 @@
       <description><![CDATA[这是链接 https://explore.comptia.org/individual-videos/ryan-postell 他们穿越美国采访了拥有独特计算机科学之路的开发人员和 IT 人员和软件职业。当时他们正在西雅图拍摄，当他们听到我的故事时，他们邀请我谈论它以及我如何利用科技基本上改变了我的整个生活。我不是世界上最好的开发人员，我只知道 html 和 css，我不是天才或数学奇才，我知道我的专业知识是有限的。但这并没有阻止我利用我所需要的一点点东西来创造一些东西。因此，尽管我在许多其他领域存在不足，但希望其他新开发人员能够看到什么是可能的。    由   提交 /u/Citrous_Oyster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cemuo3/something_different_to_showoff_for_showoff/</guid>
       <pubDate>Sat, 27 Apr 2024 19:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个可打印的食谱卡生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cem21q/i_created_a_printable_recipe_card_builder/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/Chucki_e   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cem21q/i_created_a_printable_recipe_card_builder/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>完全通过人工智能构建网站和定制 CRM</title>
-      <link>https://www.reddit.com/r/webdev/comments/1celtp5/building_website_and_custom_crm_entirely_via_ai/</link>
-      <description><![CDATA[我目前正在完全使用 AI（opus 和 gpt）构建一个网站和完全自定义的 CRM。这是给我的雇主的，网站每周点击量约为 10 万次。 仅供参考，我从事政治工作，而不是 IT 行业。但作为团队中的千禧一代，我是事实上的 IT 总监。  我对网络开发有一点了解，但还不足以在没有人工智能的情况下完成这个项目。  几乎可以部署了，我对这个产品感到非常自豪。 CRM 特别有用，它可以适应团队成员的确切工作流程，并准确地满足团队的需求，不多也不少。  我只是想分享一下——这是一个有趣的项目，也是进入 webdev 的好时机。    由   提交 /u/Itstoodamncoldtoday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1celtp5/building_website_and_custom_crm_entirely_via_ai/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>批评我的自由职业网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1celpau/critique_my_freelancing_website/</link>
-      <description><![CDATA[它非常基本，但它拥有我认为所需的一切。主要是我在寻找外观建议，因为我对后端的东西更满意......我擅长实现前端想法，这只是我仍在努力的创造力。  主横幅在移动和标准之间变化（这些词在移动中消失，除非您将手机横向旋转）。另外看看黑暗模式，我认为它有点简洁。   由   提交/u/zacguymarino  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1celpau/critique_my_freelancing_website/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:43:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发全栈应用程序，但不知道使用什么技术栈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1celem0/developing_a_full_stack_application_but_do_not/</link>
-      <description><![CDATA[就上下文而言，我计划构建一个将投入生产的习惯跟踪器，但我不确定是否使用 MERN 堆栈（Mongo、 Express、React、Node）或使用 Next.js（应用程序路由器）来完成，我对两者都进行了研究并且有经验，但我不知道该选择什么，什么会给我这样的项目带来最大的优势？我想知道你的理由。   由   提交 /u/Swimming_Tangelo8423   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1celem0/developing_a_full_stack_application_but_do_not/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:31:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的网站？ AI图库挑战</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ceknav/roast_my_site_ai_image_gallery_challenge/</link>
-      <description><![CDATA[      喜欢 Photoshop Battles subreddit，我想为 AI 图像创建类似的东西。挑战被发布，用户上传他们的人工智能图像。我需要造型方面的帮助，因为我有一些参与，但有一段时间没有注册了。我认为我的网站没有吸引力。狠狠地骂我，让我知道有什么可以帮忙的。 https://preview.redd.it/xinp13j5a2xc1.png?width=1456&amp;format=png&amp;auto=webp&amp;s=3a1fc8cc9bac5c68e0504033e8d12fc812 6740aa https://www.keywordbattle.com/    由   提交/u/Weapon54x  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ceknav/roast_my_site_ai_image_gallery_challenge/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个轨道动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cejkr2/i_made_an_orbit_animation/</link>
-      <description><![CDATA[构建用于演示我正在开发的引擎，以更快地开发此类应用程序。在底层使用 PixiJS 和 MatterJS。   由   提交/u/vilos5099  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cejkr2/i_made_an_orbit_animation/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 DIVZ - 一个 React UI 组件，可让您在 3D z 轴上滑动、滑动和缩放 HTML 元素。演示和源代码在评论中🙏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cejjni/introducing_divz_a_react_ui_component_that_lets/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/lewhunt  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cejjni/introducing_divz_a_react_ui_component_that_lets/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:12:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的伴侣做了一个小电影测验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ceik2v/made_a_small_movie_quiz_for_my_partner/</link>
-      <description><![CDATA[       由   提交 /u/nchntrz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ceik2v/made_a_small_movie_quiz_for_my_partner/</guid>
-      <pubDate>Sat, 27 Apr 2024 16:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 FullStack 项目给我带来了一份工作！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cehwub/my_fullstack_project_that_led_to_a_job/</link>
-      <description><![CDATA[   存储库：https://github.com/JakaAmbrus/PlayLink  https://preview.redd.it/5pnaon4pn1xc1.png?width=1912&amp;format=png&amp;auto=webp&amp;s=15e7b341e16fd00a25421166 926a31ee55e5f3e4 我被一家出色的公司聘为 .Net 后端开发人员。这个项目帮助我获得了面试机会，但它并没有让我当场得到工作，但作为一个没有经验的人，它确实有帮助。最重要的不是项目，而是通过项目获得的知识。  我希望它能帮助更多想要从事网络开发的人。它是用 .NET 和 Angular 制作的。 如果您发现该项目有趣或有帮助，请考虑为存储库加注星标，甚至在实时站点上创建一个帐户以进一步探索其功能（也可以使用访客登录） ）。这对我来说意味着整个世界。  P.S.我从访客中删除了现场站点上的主持人角色，以防止误用，您可以克隆并运行撰写文件或观看视频以查看正在运行的功能    由   提交 /u/EngineeringArrancar   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cehwub/my_fullstack_project_that_led_to_a_job/</guid>
-      <pubDate>Sat, 27 Apr 2024 16:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否曾给出/收到过有关 AI 的问题（针对非 ML 角色）的良好答案 - 它们是什么？讨论 AI 的技巧是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ceht0f/have_you_given_received_good_answers_to_ai/</link>
-      <description><![CDATA[我正在面试一家人工智能公司的全栈产品工程师职位，该公司致力于自动化管理工作（基本上是一个用于复杂和高监管负担表格的表格自动化工具）。  招聘人员告诉我即将出现人工智能问题。他会询问法学硕士如何工作的概述，我认为用户体验标准如何发展以帮助人们使用模型，诸如此类的事情。 好的答案往往是什么样子？您将如何回答此类问题并如何将法学硕士研究达到足够的水平？   由   提交/u/No_Radish_7692   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ceht0f/have_you_given_received_good_answers_to_ai/</guid>
-      <pubDate>Sat, 27 Apr 2024 15:57:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动视口在页面交互之前无法正确缩放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ceh6ab/mobile_viewport_not_scaling_properly_until_page/</link>
-      <description><![CDATA[有人知道这里发生了什么吗？在移动设备上，一旦页面第一次加载，所有内容似乎都会放大并且无法正确缩放......直到您滚动一点点，然后一切都会按预期工作。我的堆栈是 python、html、css、vanilla js（不过，它主要是一个静态站点）。该网站位于 https://www.webvia.net 编辑：有趣，在我发布此内容后，我单击该链接以确保它有效。它使用我的 Android 默认浏览器，在这种情况下，问题不存在。然而，当我自己浏览时，我通常会在移动设备上使用 Chrome，这就是问题仍然存在的地方。那么也许这是 Chrome 的事情？   由   提交/u/zacguymarino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ceh6ab/mobile_viewport_not_scaling_properly_until_page/</guid>
-      <pubDate>Sat, 27 Apr 2024 15:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个简单的单页工具来帮助人们找到并避开雀巢旗下的公司。我现在正在开发这个工具的改进版本，对于改进它有什么想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ceh5ax/i_made_a_simple_onepage_tool_to_help_people_find/</link>
-      <description><![CDATA[ 由   提交/u/Telescopeinthefuture  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ceh5ax/i_made_a_simple_onepage_tool_to_help_people_find/</guid>
-      <pubDate>Sat, 27 Apr 2024 15:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>版权年限的 Web 组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cegmvi/web_component_for_copyright_years/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cegmvi/web_component_for_copyright_years/</guid>
-      <pubDate>Sat, 27 Apr 2024 15:05:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
