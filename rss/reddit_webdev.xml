@@ -4,20 +4,90 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 15:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 18:15:27 GMT</lastBuildDate>
     <item>
-      <title>需要帮助：初学者，负责为亲戚开发慈善网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf8lsn/need_help_beginner_tasked_with_developing_a/</link>
-      <description><![CDATA[您好！  我对 html 和 css 有非常基本的掌握。我的一位亲戚要求我为她创建一个网站，她将用该网站发布有关她的慈善活动的内容，并且还将充当包含有关她的信息、她工作的照片和文章以及一些视频的作品集。该网站将每月更新一次。  她希望它看起来很专业并且加载速度很快。她已经购买了域名。你们能给我推荐一个可以用来完成此任务的网络构建器吗？还请建议托管服务。我住在印度。我愿意在学习的过程中学习更多的 html/css，但我认为我不能完整地编写它。对于这种不会吸引太多人群或承载太多数据的网站来说，拖放功能是否可以？  请帮帮我，我欠你们一个很大的情。需要在5月15日之前完成   由   提交 /u/ayuuxxh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf8lsn/need_help_beginner_tasked_with_developing_a/</guid>
-      <pubDate>Sun, 28 Apr 2024 15:09:44 GMT</pubDate>
+      <title>具有成本效益的托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfc2l6/cost_effective_hosting/</link>
+      <description><![CDATA[多年来，我一直将网站开发作为一种爱好，但我从未真正采取步骤来部署任何东西。最近，我决定在自己的机器上首次尝试部署，主要是为了测试和学习目的。 既然我已经涉足部署，我正在考虑托管一个网站。目前，我感到相当满意的唯一选择是 VPS 托管。虽然我相信我可以快速设置好一切，但我逐渐意识到这条路线的成本可能相当高，并且可能超出我在可预见的未来所需要的。 鉴于我对 SSH 访问的偏好，什么是我应该探索其他托管替代方案吗？我的项目基于 Django，如果这会影响可用选项。   由   提交/u/thethoughtofprivacy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfc2l6/cost_effective_hosting/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:38:39 GMT</pubDate>
     </item>
     <item>
-      <title>作为前端开发人员的额外收入</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf7zbl/extra_income_as_a_front_end_dev/</link>
-      <description><![CDATA[作为前端开发人员赚取额外收入的最佳方式是什么？  我已经在一家公司担任全职职位，但由于任务并不那么忙，我发现自己很多时候都有空闲时间做其他事情。  我知道我可以做 Upwork 或其他相关网站，但由于没有自由职业经验，因此很难从中找到项目。  我还可以在 BE 中执行一些基本操作，例如端点、身份验证和一些数据库简单任务。  有些人说寻找当地商店，但大多数人可能只是联系代理机构并获取网站。   由   提交 /u/___gelato   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf7zbl/extra_income_as_a_front_end_dev/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:41:54 GMT</pubDate>
+      <title>对于个人项目，我可以继续为我的博客文章创建 html 吗？它有多实用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfbsvm/for_personal_projects_can_i_just_keep_creating/</link>
+      <description><![CDATA[我正在做业余项目，不知道如何为该项目做博客部分？有很多CMS，但我现在或将来都不想在上面花任何钱；并学习如何整合它。如果我只存储 html 文档数组来存储我的博客文章，可以吗？我看不出任何缺点...   由   提交 /u/realforreal1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfbsvm/for_personal_projects_can_i_just_keep_creating/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行社交广告的网络开发的平均每次转化费用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfbsv1/average_cpa_for_web_development_running_social_ads/</link>
+      <description><![CDATA[您好！ 我很高兴这个问题/答案是根据目标受众和目标受众的情况而定的。你们对网站收取多少费用，但有人统计过基于社交广告的网站项目的平均每次获取成本吗？  我的一个朋友为商人建立网站，每个网站收费 1250 英镑，他在 Facebook 上的 CPA 为 600 英镑，解决了 15-20% 的询问。显然有安静的月份和忙碌的月份。 其他人呢？    由   提交 /u/Yulkfara   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfbsv1/average_cpa_for_web_development_running_social_ads/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>亲爱的高级开发人员，您会向初级或入门级开发人员推荐哪些书籍？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfbja0/dear_senior_devs_what_books_would_you_recommend/</link>
+      <description><![CDATA[如标题所示   由   提交/u/spaced-outboi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfbja0/dear_senior_devs_what_books_would_you_recommend/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:15:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业应用程序的渲染托管？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfb6an/render_hosting_for_enterprise_applications/</link>
+      <description><![CDATA[您好，我正在检查 render.com 是否托管应用程序，并且总是直接访问 AWS/GCP。但我喜欢它的简单和轻松。有人有通过 Render 托管专业企业应用程序的定价和可扩展性的经验吗？   由   提交/u/qpal123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfb6an/render_hosting_for_enterprise_applications/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>渲染很长字符串时如何提高浏览器性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfatzn/how_to_improve_browser_performance_when_rendering/</link>
+      <description><![CDATA[嗨！ 这个codesandbox说明了我遇到的问题。我正在构建一个有大型数据网格的应用程序，随着单元格文本内容长度的增加，渲染性能会下降。大多数文本内容是不可见的（单元格上的overflow:hidden），因此浏览器只需要花精力处理少数可见的字符。 我可以使用哪些技术用于提高此性能？我的理解是，渲染性能主要受到元素 DOM 大小的影响，而不是文本大小的影响。 我已经虚拟化了这个网格，这有所帮助，但应用程序仍然很慢由于任何给定点屏幕上的单元格数量都很大，因此无法进行渲染。任何额外的帮助将不胜感激！   由   提交 /u/WillFry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfatzn/how_to_improve_browser_performance_when_rendering/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:45:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>归因或不归因</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfapkw/to_attribute_or_not_to_attribute/</link>
+      <description><![CDATA[假设有一个网站，有大量的网站设计灵感，它有免费的设计模板，我可以用于个人或商业用途，而且不需要归因。如果我在我的网站上使用这些模板之一，我是否应该归因于它们？   由   提交 /u/decim_watermelon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfapkw/to_attribute_or_not_to_attribute/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:40:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是 DNS 以及我需要它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfa6p3/whats_a_dns_do_i_need_it/</link>
+      <description><![CDATA[你好！我是一名艺术家，正在为我的网站/作品集和作品获取域名。在查找最佳域名注册商时，我看到很多人提到他们使用 cloudflare 作为“dns”。我做了一些谷歌搜索，但仍然不明白，哈哈，所以这是我需要的东西来托管我的愚蠢的小艺术页面吗？我打算只在我的网站上使用 wix一旦我拥有它，就链接我的域名。 ty!!   由   提交/u/frannypie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfa6p3/whats_a_dns_do_i_need_it/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于滚动的动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cf9rl9/animation_based_on_scroll/</link>
+      <description><![CDATA[有一些好的库推荐可以根据滚动位置制作动画吗？我正在使用 Vue/Nuxt 3   由   提交 /u/Complete_Maybe_9344   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cf9rl9/animation_based_on_scroll/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管使用最常见的方法，如何进一步缩短加载时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cf9h7b/how_to_further_improve_loading_times_despite/</link>
+      <description><![CDATA[大家好，我正在做一个业余项目。这是我多年来在 Spotify 上最常播放的歌曲的库。这是一个 5 页的网站，除了一个页面外，所有页面加载速度都非常快。 它是图片/视频/音频文件数量最多的网站。该一页上总共有 32 个图像/音频文件/视频。 我已经压缩了音频文件，因此一个重量约为 2mb / 图像 &lt;&lt; 1mb 和视频 &lt; 4MB。  我已将所有视频和音频文件上传到谷歌云，编写了 JavaScript，使其仅在用户交互时播放，并且我添加了预加载“无”观看带有“推迟”字样的视频到 JS 文件。  我还能做些什么来提高速度？我的灯塔得分为 60-80，主要是因为加载速度。  感谢您的反馈   由   提交/u/RayGunny178  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cf9h7b/how_to_further_improve_loading_times_despite/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:48:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器隔离 - Web 漏洞是否可以从不同浏览器窃取数据，或者内容是否被沙箱化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cf9b4d/browser_isolation_can_web_exploits_steal_data/</link>
+      <description><![CDATA[假设我使用 Chrome 来访问我的所有 Google 服务（Gmail 等） 然后我使用 Firefox（或 Edge）或 Brave）前往有问题的网站（Torrent 等），然后我点击某个内容。  理论上，此操作可以使恶意网站*跨*浏览器窃取我的密码/cookie吗？   由   提交 /u/fluiddynamicx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cf9b4d/browser_isolation_can_web_exploits_steal_data/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个在线视频聊天应用程序（类似于 Omegle）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cf90wz/i_built_an_online_video_chat_app_similar_to_omegle/</link>
+      <description><![CDATA[你好， 正如标题所说，我构建了一个视频聊天应用程序（类似于 Omegle），您可以在其中与随机用户。 我还为其创建了一个 YouTube 教程 👉 https://youtu.be/FamZMfLIYag Github 仓库 👉 https://github.com/benlhachemi/randomcall 享受： )   由   提交/u/Personal_Cost4756   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cf90wz/i_built_an_online_video_chat_app_similar_to_omegle/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:28:23 GMT</pubDate>
     </item>
     <item>
       <title>最令人沮丧的 JavaScript 怪癖？</title>
@@ -34,81 +104,11 @@
       <pubDate>Sun, 28 Apr 2024 13:48:11 GMT</pubDate>
     </item>
     <item>
-      <title>哪里可以得到这样的png？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf6et1/where_to_get_png_like_this/</link>
-      <description><![CDATA[       由   提交/u/Scared_Fix_9096   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf6et1/where_to_get_png_like_this/</guid>
-      <pubDate>Sun, 28 Apr 2024 13:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在自学的时候整理了一个web开发工具表。我错过了什么？开放征求建议和更正</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf4m3r/i_have_compiled_web_dev_tools_table_while_i_am/</link>
-      <description><![CDATA[       由   提交/u/CommercialBuilder99  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf4m3r/i_have_compiled_web_dev_tools_table_while_i_am/</guid>
-      <pubDate>Sun, 28 Apr 2024 11:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家可以告诉我如何编辑 Chrome GPU 变量吗？对于一个项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf2m7y/can_an_expert_tell_me_how_to_edit_chrome_gpu/</link>
-      <description><![CDATA[   大家好，正如标题所说，我希望能够编辑以下内容来禁用解决方法，以便我可以自己决定是否确实存在启用它可能导致的问题？参见相关图片。如果有一个GL文件，我可以在记事本中打开并将disable_更改为enable_或其他什么？ https://preview.redd.it/t0f61rl9y6xc1.png?width=967&amp;format=png&amp;auto=webp&amp;s= 61a67ee6307497931ce0c34044add8b0c15dcd7c    由   提交 /u/Rakstrooper   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf2m7y/can_an_expert_tell_me_how_to_edit_chrome_gpu/</guid>
-      <pubDate>Sun, 28 Apr 2024 09:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻松在线发布AI应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf14be/publishing_ai_application_online_with_ease/</link>
-      <description><![CDATA[   /u/moonbunR  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf14be/publishing_ai_application_online_with_ease/</guid>
-      <pubDate>Sun, 28 Apr 2024 08:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找大型Spring Boot项目来学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf12w8/searching_for_large_spring_boot_projects_to_learn/</link>
-      <description><![CDATA[嘿，标题已经说明了这一点。你们知道有任何使用 Spring Boot 的更大/专业的存储库吗？在我看来，从源代码中学习不仅仅是一些使用最佳实践的待办事项应用程序，这是学习和变得更好的最佳方式（除了实际编程）   由   提交/u/k4nmuru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf12w8/searching_for_large_spring_boot_projects_to_learn/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>不缩放是什么样子的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf0vdd/how_does_not_scaling_look_like/</link>
-      <description><![CDATA[“它无法缩放”或“构建可扩展的应用程序”这是一个很常见的评论。 但是你真的见过它发生吗？非缩放应用程序是什么样子的？这对业务到底有多糟糕？ 每当您提到可能没有执行规定的“最佳实践”时，智慧，人们只会说“一旦你开始扩展，你就会意识到你的错误，哈哈”。 你真的见过它吗？作为开发人员，我们喜欢认为我们正在开发的应用程序很重要。我们上面的人也这么认为，或者让我们这么想。这很自然。 我见过最糟糕的 10-20 岁代码库。它们每天都被用来组织部分业务。用户知道所有的错误，知道哪里不应该点击，并且有疯狂的解决方法。 我最近与一家公司交谈，考虑重写他们的内部 erp 组织一切。它已经有 20 年历史了，用 VBNET 编写，并且仍在开发中。这些应用程序的代码质量非常低，您无法相信它们可以工作，但人们却认为“它无法扩展”。一直以来，对于那些比这些代码库更具可扩展性的东西。 此外，这个应用程序是如何“无法扩展”的？公司员工人数从 20 人增加到 200 人。它正在不断地被研究。产品被出售，员工得到报酬。现在，他们遇到了瓶颈或突破点，并获得了足够的预算，可以与外部、更昂贵的开发人员进行重写。 到底是什么在这里没有扩展？ 我认为基本上是唯一正确的“不缩放”的定义字面意思是“使用它的公司破产了，软件质量是全部原因”。我认为这不会发生。 “不缩放”是一个非常短暂的概念。就像“如果代码更好，我相信你的业务会更好”。怎样比较好？嗯...你会更快，我想？”。 我认为这是一个非常糟糕的短语，并且阻止了所有批判性思维的发展。它类似于“最佳实践”。你只要说出这些话，然后停止思考。你什么也没解释。对方只需要接受它，因为事实就是如此。   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf0vdd/how_does_not_scaling_look_like/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置 Paypal 高级结帐字段的样式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf0s5t/styling_paypal_advanced_checkout_fields/</link>
-      <description><![CDATA[      您好，我正在尝试集成 PayPal 的高级结账功能。但我还没有找到真正定制他们的卡片字段的方法。我正在使用他们的 JS SDK，输入字段是通过 iframe 呈现的。我可以根据他们的文档更改卡输入字段内的填充，但无法更改与边框相关的任何内容，因为没有提及它。我更愿意更改边框大小和边框颜色以匹配我的网站设计。了解是否有人找到了解决方案以及有关如何实施的任何意见将会很有帮助。  https://preview.redd .it/smzg23bdb6xc1.png?width=1544&amp;format=png&amp;auto=webp&amp;s=b260343014d89033a910ece91fd3f5a5541ac741 参考：https://developer.paypal.com/docs/checkout/advanced/ ​ 谢谢！    由   提交 /u/addtej   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf0s5t/styling_paypal_advanced_checkout_fields/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:38:40 GMT</pubDate>
-    </item>
-    <item>
       <title>React StrictMode 导致 userData 两次发布到本地存储中。无需删除 StrictMode 可能会出现什么问题和解决方案？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cejqkx/react_strictmode_is_causing_the_userdata_to_be/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cejqkx/react_strictmode_is_causing_the_userdata_to_be/</guid>
       <pubDate>Sat, 27 Apr 2024 17:21:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个教授基本 SQL 命令的游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cejje3/a_game_that_teaches_basic_sql_commands/</link>
-      <description><![CDATA[     &lt; /td&gt; 我今天（暂时）完成了这个网站！我使用 Blazor Web Assembly，所以主要使用 C# 和少量 JS 来处理一些 DOM 内容。    由   提交 /u/OiaOrca   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cejje3/a_game_that_teaches_basic_sql_commands/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>React StrictMode 导致 userData 两次发布到本地存储中。问题和解决方案可能是什么？请不要建议删除 React StrictMode。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cejetp/react_strictmode_is_causing_the_userdata_to_be/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cejetp/react_strictmode_is_causing_the_userdata_to_be/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决数学表达式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cef9z6/to_solve_math_expressions/</link>
-      <description><![CDATA[我执行了以下操作： https: //pedroizecksohn.pythonanywhere.com/ 它不使用 eval。它应该理解 pow 的 ^ 字符吗？   由   提交/u/Pedro41RJ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cef9z6/to_solve_math_expressions/</guid>
-      <pubDate>Sat, 27 Apr 2024 14:04:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
