@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 15:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:16:31 GMT</lastBuildDate>
+    <item>
+      <title>自由开发者：哪些行业和客户为每个网站支付的费用最高？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg5qsy/freelance_devs_what_industries_and_clients_pay/</link>
+      <description><![CDATA[研究为客户构建网站。肯定想缩小规模。宁愿专注于为客户提供数量较少、报酬较高、质量较高的网站，而不是快速而廉价地推出这些网站。  哪些行业和企业愿意为一个网站支付 5-10K+ 的费用？  是像shopify这样的电子商务吗？我很想听听这方面的经验！ ​ 在网上我看到有人专注于某个领域，比如水管工。然后，他们将拥有一两个管道工网站模板，可以快速为客户定制。他们可能会收取不到 1K 的网站费用，以及一定数额的经常性维护或托管费用。通过这种策略，他们似乎更加关注销售量和推销电话。 ​ 你们中的任何人是否有过尝试专注于更少的方法的经验？客户，但提供更高质量、更多定制和更昂贵的服务？如果是，这些是什么类型的行业或企业？ ​ 如有任何反馈，我们将不胜感激！   由   提交/u/kekbruh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg5qsy/freelance_devs_what_industries_and_clients_pay/</guid>
+      <pubDate>Mon, 29 Apr 2024 18:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何处理异步回调中延迟的 XHR 响应？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg5csm/how_do_you_deal_with_late_xhr_responses_in_your/</link>
+      <description><![CDATA[每当用户网络连接较差时，我的 js 应用程序往往会产生错误。它是这样的：  用户访问页面 A。 页面 A 发出 XHR 请求，但速度很慢。 用户导航到页面 B。  XHR 最终返回并触发回调，该回调本来是在页面 A 而不是页面 B 上运行的。混乱随之而来。  显然我可以在案例中处理这个问题根据具体情况（“如果仍然是页面A，则不要做其他事情”），但我很好奇任何人处理这个必须是一个相当普遍的问题的经验。您是如何在应用程序中解决这个问题的？有什么一般理论或原则吗？ FWIW 我的应用程序是 Vue 和 Axios，但同样，我更有兴趣听到一般方法。谢谢！   由   提交/u/secretprocess  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg5csm/how_do_you_deal_with_late_xhr_responses_in_your/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot 工作区：欢迎来到 Copilot 原生开发者环境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg542k/github_copilot_workspace_welcome_to_the/</link>
+      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg542k/github_copilot_workspace_welcome_to_the/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以构建网站模板而不将我的网站托管在他们的服务器上吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg53ov/can_i_build_a_website_template_not_host_my_site/</link>
+      <description><![CDATA[我只想构建一个网站模板，但不想永远向“托管”支付 Canva/WordPress/Squarespace 费用或在我的网站上使用他们的服务。该网站已经存在。我只是没有足够的创造力来自己设计它。我只想使用模板&amp;将其加载到我自己的网站中。   由   提交/u/dr_sholmes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg53ov/can_i_build_a_website_template_not_host_my_site/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一次做网店。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg535n/first_time_making_a_webshop/</link>
+      <description><![CDATA[您好！我和一个朋友计划开设一家销售宝石和类似产品的网上商店。你有这方面的经验吗？我们只是想听一些故事。你用的什么框架，什么数据库，什么后端？需要注意什么或注意什么？很高兴能进行一些有趣的讨论！😊   由   提交 /u/chemistryGull   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg535n/first_time_making_a_webshop/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在产品出现在 Revenue Cat 中之前，我是否必须存档 iOS 应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg4gh7/do_i_have_to_archive_ios_app_before_products_show/</link>
+      <description><![CDATA[Purchases.getCustomerInfo 或 Purchases.getProducts 均不显示产品。 我先在 App Store Connect 上获取了权利和产品，然后将其导入所以我知道名字是正确的。我现在唯一的假设是，我需要将存档版本上传到 App Store Connect，然后才能正常工作。  async subscriptionStatus() { try { const customerInfo = wait Purchases.getCustomerInfo(); console.log(&#39;customerInfo &#39;, customerInfo); } catch (error) { console.log(&#39;customerInfo error &#39;, error); } try { const ProductIds = [&#39;enterprise_sub_v2&#39;, &#39; professional_sub_v2&#39;, &#39;starter_sub_v2&#39;]; const products = wait Purchases.getProducts({ ProductIdentifiers: ProductIds, type: PRODUCT_CATEGORY.SUBSCRIPTION, }); console.log(&#39;产品&#39;, 产品); } catch (错误) { console.log(&#39;产品错误&#39;, 错误); } }  异步restorePurchases() { 尝试{ const customerInfo =等待Purchases.restorePurchases(); console.log(&#39;restorePurchases customerInfo &#39;, customerInfo); } catch (error) { console.log(&#39;restorePurchases error &#39;, error); } }    ;由   提交 /u/CEOTRAMMELL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg4gh7/do_i_have_to_archive_ios_app_before_products_show/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名和网站托管建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg4aol/domain_and_website_hosting_suggestions/</link>
+      <description><![CDATA[上下文 嘿！我目前正在开发一个网站，该网站本质上是 https://fate-srd.com/fate-core ( RPG 规则手册）和 https://web.archive.org/web/ 20231220215817/https://app.mobalytics.gg/lor/cards（TCG卡牌和牌组制作、编辑和管理）。我使用 Next.js 和 TypeScript 作为前端，使用 Spring Book 作为后端，使用 PostgreSQL 和 MongoDB 作为数据库。它还包含我自己的CMS。 需要 考虑到这一点，您建议托管什么域名和网站（包括前台、后台和数据库）？&lt; /p&gt; 不幸的是，我在另一个项目上使用了 AWS 免费试用版，仅使用 RDS 就变得非常昂贵（也许，我做错了什么）。另外，我在 GoDaddy 上购买了域名，但发现它很糟糕，所以我想尽快更改。 感谢您的宝贵时间:)   由   提交 /u/Makilles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg4aol/domain_and_website_hosting_suggestions/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>拿了拐杖还是拐杖？在有人工智能帮助和没有人工智能帮助的情况下，你的资历水平是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg42fl/took_or_crutch_whats_your_seniority_level_with/</link>
+      <description><![CDATA[我是一名扎实的前端开发人员，但是，由于具有图形设计背景，我一直在自学所有 CS 内容。对于CSS、可访问性、性能、SEO，我是上帝；服务器、数据库、算法、API 管道和非 JS 的语言，我更接近 Jr。 去年我一直是自由职业者，我已经能够成功了，谢谢对于 gpt 来说，有几件事会花费我 5 倍的时间。  其中包括： - 在 php 中的 wpBakery 中实现可重用组件。 - 在 Next Js 中设置 api，读取文件系统并生成包含其内容的图库。 - 在 Shopify 的 Liquid 中编写自定义组件。 - 学习了如何实现滑动窗口和回溯算法。 - 多次编写、重写和定制我的简历。 这有点可怕，因为我所做的一些事情我并不完全理解，但在这个结果驱动的经济中，期望保留是不现实的无需使用所有可用工具即可完成。   由   提交 /u/sateliteconstelation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg42fl/took_or_crutch_whats_your_seniority_level_with/</guid>
+      <pubDate>Mon, 29 Apr 2024 16:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建基于浏览器的模拟角色扮演游戏 *交叉发布*</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg3cxo/creating_browser_based_simulation_rpg_crossposted/</link>
+      <description><![CDATA[您好！ 在编码方面我是一个相当大的菜鸟，我一直在通过代码学院学习。 &lt; p&gt;我想创建一个像 Neopets x pokemon 这样的模拟角色扮演游戏的网站 我一直在使用代码学院...和 ​​..chatgpt lol...来提供帮助。 问题是我对安全性感到非常紧张。 我希望它能像 Flightrising / lioden / wolvden / xanje 一样完全设置好 用户可以在其中注册和登录 我一直在慢慢进步，非常喜欢我目前所拥有的。我想要第一个“测试版”。注册和登录，探索和收集货币以及驯服生物的能力。 我所做的一切都非常简单，使用随机生成等。 我应该吗？去设立一个 kickstarter 或资助我，这样我就可以找一个有实际知识和技能的人来检查所有事情？ 我也有点担心相信某人会完成所有事情，哈哈. 我一直通过聊天 gpt 运行所有内容，希望加强安全性，但它是一个疯狂的机器人，它知道它所说的有多少是真实的！哈哈。   由   提交 /u/RoutineSingle9577   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg3cxo/creating_browser_based_simulation_rpg_crossposted/</guid>
+      <pubDate>Mon, 29 Apr 2024 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器学习如何改进 Windows、Mac 和 Mac 上的 Chrome 地址栏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg36g4/how_machine_learning_improved_the_chrome_address/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg36g4/how_machine_learning_improved_the_chrome_address/</guid>
+      <pubDate>Mon, 29 Apr 2024 16:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越 HTTP API：WebAssembly 和系统集成的未来</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg30fm/beyond_the_http_api_webassembly_and_the_future_of/</link>
+      <description><![CDATA[    /u/nilslice   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg30fm/beyond_the_http_api_webassembly_and_the_future_of/</guid>
+      <pubDate>Mon, 29 Apr 2024 16:10:29 GMT</pubDate>
+    </item>
     <item>
       <title>您从高级开发人员/经理等那里得到的最糟糕的建议是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cg1fr7/whats_some_of_the_worst_advice_youve_gotten_from/</link>
@@ -25,83 +102,6 @@
       <description><![CDATA[如果我不得不猜测，根据我所看到的，对于任何商业上可行的产品，最小的团队规模约为 3-5 人。  更多可能更有可能。 但谁知道呢，也许这还取决于用例和整体产品。 你呢？ &gt;   由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cg0h3j/whats_the_smallest_size_team_youve_ever_seen_for/</guid>
       <pubDate>Mon, 29 Apr 2024 14:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>相同的域具有相同的用例？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfztby/same_domain_with_same_use_case/</link>
-      <description><![CDATA[我只是想知道是否可以使用与其他人相同的域名，但使用我所在国家/地区自己的结尾。 所以我已经集思广益了名字。我找到了“网站名称”听起来不错，然后用谷歌搜索了一下。这是一个提供招聘帮助的网站，他们是 webname.uk 我还能使用 webname.se 吗？这里的问题是，我也会提供招聘方面的帮助，虽然方法不同，但市场仍然相同。我只在瑞典工作，但是我的网站将以 .se 结尾 他们似乎只在英国境内运营。 如果我使用域名“”，我会遇到麻烦吗;webdev.se”？   由   提交 /u/Sanktas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfztby/same_domain_with_same_use_case/</guid>
-      <pubDate>Mon, 29 Apr 2024 14:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>维护和服务合同定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfzmu3/pricing_up_maintenance_service_contracts/</link>
-      <description><![CDATA[大家好 - 我正在为一家比我通常工作的公司大得多的公司撰写新网站建设合同。正在进行的工作可能包括回答任何支持问题、监控（包括邮件服务器监控网络查询）任何错误修复、安全更新以及真正将这些事情记在心里。我单独收取托管费用，但我也通过 cloudways 服务器托管该网站，并且会不时地关注。我只是想设置每月的天数，任何超出范围/超过的时间都需要额外付费。 有人对此有任何建议吗？ 谢谢！&lt; /p&gt;   由   提交/u/nomadickid942  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfzmu3/pricing_up_maintenance_service_contracts/</guid>
-      <pubDate>Mon, 29 Apr 2024 13:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌让我毁掉了一个完美的网站（The Luddite 的博客文章）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfwemh/google_made_me_ruin_a_perfectly_good_website_blog/</link>
-      <description><![CDATA[  由    /u/bfelbo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfwemh/google_made_me_ruin_a_perfectly_good_website_blog/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助更新猜词游戏中的图块状态和键盘颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfvutw/need_help_updating_tile_statuses_and_keyboard/</link>
-      <description><![CDATA[     &lt; td&gt; 你好， 我目前正在开发一款类似于流行的 Wordle 游戏的猜词游戏，并且我&#39;我在更新图块状态和键盘按键颜色时遇到问题。 问题如下：当用户第一次玩游戏时，一切都会按预期运行。磁贴的状态（代表正确、存在或缺失字母）已正确更新，键盘上按键的颜色反映了它们的正确性。但是，当玩家刷新游戏并尝试从中断处继续时，键盘上按键的颜色不会相应更新。 我一直在调试代码并试图找出答案是什么导致了这个问题，但到目前为止我还没有运气。我怀疑游戏状态如何从本地存储保存和恢复可能存在问题，但我不完全确定。 如果有人有类似问题的经验或可以提供一些有关如何解决的见解为了正确更新图块的状态和键盘上按键的颜色，我将非常感谢您的帮助！ 提前感谢您提供的任何帮助或建议。   由   提交/u/iamchagga  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfvutw/need_help_updating_tile_statuses_and_keyboard/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:36:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我现在不知道该怎么做，感谢帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfva50/i_have_no_idea_how_to_do_this_at_the_moment_help/</link>
-      <description><![CDATA[      我是初学者。现在我已经从这个网页制作了所有内容，但不知道如何添加“需要有效电子邮件”消息而不造成混乱。我并不是要求直接的解决方案，但至少需要一些相关的资源或建议。我在整个设计中使用了 Flexbox，除了错误消息部分之外，其他方面都非常简单。 https://preview.redd.it/ir4v5hq66exc1.jpg?width=1440&amp;format=pjpg&amp;auto=webp&amp;s=7a6cf6edd21b417a4c690 d334dcb52441f3f66a5   由   提交 /u/ViSuo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfva50/i_have_no_idea_how_to_do_this_at_the_moment_help/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可能获得域名 100% 的所有权？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfv5eu/is_it_possible_to_gain_100_ownership_of_a_domain/</link>
-      <description><![CDATA[如果我想购买域名，我会访问 GoDaddy 等网站.com 或类似网站，免费+按月付费才能“拥有”并使用该域。是否有可能获得域名 100% 的所有权？  例如。 Apple.com - 他们是否还向域名注册商支付每月订阅费？    由   提交/u/3L1T31337  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfv5eu/is_it_possible_to_gain_100_ownership_of_a_domain/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法过滤这个论坛，只关注实际的网络开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfuyxr/is_there_a_way_to_filter_this_forum_to_focus_on/</link>
-      <description><![CDATA[您好， 有没有一种方法可以过滤掉所有与工作市场相关的内容，而只看到实际的 Web 开发人员讨论？  有很多关于如何找到工作的帖子，我不想看到。  非常感谢   由   提交/u/Extremely_Engged  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfuyxr/is_there_a_way_to_filter_this_forum_to_focus_on/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果登录无处不在而不是重定向怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfu9kz/what_if_login_is_everywhere_instead_of_a_redirect/</link>
-      <description><![CDATA[对于具有登录组件的应用程序，我不是将未经身份验证的用户重定向到登录 URL，而是在后端有中间件，它仅显示登录页面在任何 URL 上，一旦他们登录到那里，他们就会就地重新加载他们最初尝试访问的内容。 你会这样做吗？   由   提交 /u/7Geordi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfu9kz/what_if_login_is_everywhere_instead_of_a_redirect/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的 Web 表单邮件服务器设置是什么？交易型 vs 客户自己的 Outlook 服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfu99t/what_is_your_mail_server_setup_for_web_forms/</link>
-      <description><![CDATA[大家好 - 我想知道您的网站表单的邮件服务器设置是什么；近年来，我选择了事务性邮件服务器（我使用 brevo，以前是 sendinblue），因为它给了我控制权，这是一项可转售的服务，但最重要的是能够快速检查某些内容；我发现客户不可避免地会问“有人抱怨他们的电子邮件无法通过”或“电子邮件已经安静了一段时间”之类的问题，而能够访问服务器意味着我可以进去，找到邮件并给他们一个答复送货报告。在此之前，我会使用公司的邮件服务器，通常来自他们的 Outlook 365 设置。  我有一个新客户，那是一家大公司，我想知道最终负责他们提交重要 Web 表单所依赖的邮件服务器是否明智，或者这种情况只需要求他们使用自己的邮件服务器凭据。 对想法非常感兴趣，无论是从业务、客户管理还是技术角度。 谢谢！   由   提交/u/nomadickid942  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfu99t/what_is_your_mail_server_setup_for_web_forms/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站和电子表格之间的交叉</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfu4at/cross_between_website_and_spreadsheets/</link>
-      <description><![CDATA[我想知道是否存在某种工具，允许使用 html/css/js 构建的网站轻松分发为某种包或文件，只需允许某人在本地托管网站，并且还包括持久数据存储作为该包/文件的一部分。 我想象它是电子表格常用方式的更高级版本。想象一下，一家企业创建了一个包含大量公式、格式并已填充数据的电子表格。这个单个文件可以在工作人员之间传递，也可以仅存储在网络上并可供任何人访问和编辑。但电子表格的功能非常有限。 如果您可以创建类似的东西，但使用网络开发技术，同时仍然保持传递单个文件的能力，该文件维护其中的数据，并且只是运行时在本地托管，不需要持久服务器，这设置起来很麻烦并且会产生额外成本。 我能想到的另一个例子是那些预算或财务仪表板电子表格。其中一些使用一些相当古怪的电子表格魔法来工作，如果能够使用 html/cs/js 可能会变得更好。但您仍然希望能够将其作为一个简单的文件分发，而不必要求某人托管持久服务器才能使用它，以及填写数据，然后将其发送到另一台设备并打开它在那里并看到相同的数据。   由   提交 /u/Hamburgerfatso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfu4at/cross_between_website_and_spreadsheets/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 ReactJS 中使用 Tailwind CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cftvpm/use_of_tailwind_css_in_reactjs/</link>
-      <description><![CDATA[我是 Web 开发的初学者，已完成 HTML CSS JS 达到相当水平 现在开始学习 Tailwind CSS 和 CSS想要建立一个加密货币跟踪网站  正在寻找一些基本了解的教程  不知道为什么人们在这个网站上使用 7-8 个框架 前端用Tailwind + JS还不够吗？他们展示了 React + Tailwind + ViteJS 有人可以推荐哪些框架足以构建一个漂亮的加密跟踪网站吗？ 提前致谢 &lt; !-- SC_ON --&gt;  由   提交 /u/AgreeableVanilla7193   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cftvpm/use_of_tailwind_css_in_reactjs/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:22:44 GMT</pubDate>
     </item>
     <item>
       <title>根据您的经验，当 HTML5 Geolocation API 处于活动状态时，人们是否接受移动浏览的权限？</title>

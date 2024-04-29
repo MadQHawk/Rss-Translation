@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 29 Apr 2024 15:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:15:21 GMT</lastBuildDate>
+    <item>
+      <title>预约今年剩余时间的全科医生。</title>
+      <link>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</link>
+      <description><![CDATA[你好， 我住在欧盟。  所以，长话短说 - 当我需要我的全科医生时，她永远不会出现（30 天内）。她有 10,000 名患者，这很荒谬，因为我每个月都要支付相当一部分的医疗费用。 上周，我的背部出现了严重的问题，好几天都不想消失。但在我去看全科医生之前，我不能（免费）去看任何专科医生。我不能去急诊室，那里的人快要死了，并告诉他们我的背痛。  所以我想出了一个计划，在今年剩下的时间里每天都预约，每天早上不需要的时候取消。我希望有人注意到，因为这将是我对这个破碎系统的小小的抗议。  无论如何，我无法取消它，因为他们的预订系统不可用，而且我无法录制鼠标宏，因为月份和日期不同，我必须点击不同的区域每次。所以我正在寻找如何实现这一目标的想法。  P.S.我在自动化方面的经验几乎为0。   由   提交/u/Dragonoidl337   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</guid>
+      <pubDate>Mon, 29 Apr 2024 17:14:53 GMT</pubDate>
+    </item>
     <item>
       <title>Paperlib：开源人工智能研究论文管理工具</title>
       <link>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
-      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （30 个问题，量表评级为 1-10） 将每个结果添加到现有 Excel 工作表中预定义的列单元格中，以便现有图表使用表单编号进行更新。 使用 pdf .co 等工具生成 Excel 图表的 pdf 通过电子邮件将其发送给填写 JotForm 表单的用户。     提交人    /u/Effective-Divide-291   [链接] [评论]]]></description>
+      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 11:10:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我应该如何开始实现工作自动化？  这是非常重复的，但我总是必须手动完成： * 我必须在 Windows 资源管理器上创建一些文件夹 * 在 Word 中准备 4 或 5 个文档，将它们保存为 PDF * 制作 Excel 工作表 * 组织所有内容在文件夹中 有没有一种方法可以将所有内容混合在一个自动化中？我看过一些有关 VBA 的内容，但它似乎已经过时了。有什么建议吗？   由   提交/u/TransportationDue38   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cci17v/excel_windows_explorer_word_pdfs/</guid>
       <pubDate>Thu, 25 Apr 2024 03:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化基础设施方法</title>
-      <link>https://www.reddit.com/r/automation/comments/1cbwokc/automation_infrastructures_methodologies/</link>
-      <description><![CDATA[我即将参加工作面试，我被要求熟悉编写自动化基础设施的方法。这些是什么？我应该在哪里阅读有关它们的信息？感谢您的帮助！   由   提交 /u/Cakes_Straightener   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cbwokc/automation_infrastructures_methodologies/</guid>
-      <pubDate>Wed, 24 Apr 2024 12:17:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
