@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体]加拿大正在考虑一项追溯性仇恨犯罪法案，称为“在线危害法案 C-63”。</title>
-      <link>https://t.me/hn_summary/86981</link>
-      <description><![CDATA[加拿大追溯性仇恨犯罪法案 [Online Harms Bill C-63](https://news.ycombinator.com/item?id=40196687)
-
-加拿大正在考虑一项追溯性仇恨犯罪法案，即 Online Harms Bill C-63。该法案旨在追究个人对在线发布的仇恨内容的责任，即使这些内容是在法案颁布之前发布的。这引发了言论自由倡导者的争议，他们认为这侵犯了言论自由。该法案的支持者认为有必要打击网络仇恨言论并保护边缘化社区。请继续关注这项正在制定的立法的最新消息。#OnlineHarmsBillC63 #HateCrime #Canada #FreeSpeech]]></description>
-      <guid>https://t.me/hn_summary/86981</guid>
-      <pubDate>Mon, 29 Apr 2024 12:04:18 GMT</pubDate>
+      <title>[媒体]在最近的一封公开信中，Nix 社区成员呼吁创始人 Eelco Dolstra [...]</title>
+      <link>https://t.me/hn_summary/87006</link>
+      <description><![CDATA[Nix 社区的领导力危机
+在最近的一封公开信中，Nix 社区成员呼吁创始人 Eelco Dolstra 辞职，理由是担心他的领导风格和所谓的利益冲突。这封信详细介绍了 Dolstra 否决社区决定并推动有争议的赞助的实例。审核团队表达了在保留和缺乏授权方面的挣扎。尽管 Dolstra 的回应否认权力过大，但社区成员仍在表达他们的不满。这封信最后呼吁多尔斯特拉辞职，并暗示该项目可能出现分叉。这种情况已经导致社区出现重大背离，凸显出日益严重的领导危机。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87006</guid>
+      <pubDate>Mon, 29 Apr 2024 15:13:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Memary 是一个用于自主代理的开源长期记忆系统，它利用 k [...]</title>
-      <link>https://t.me/hn_summary/86980</link>
-      <description><![CDATA[Memary 是一种基于知识图谱
-Memary 是一个用于自主代理的开源长期记忆系统，利用知识图来存储和检索信息。它允许代理存储大量信息、推断用户知识并检索相关信息以进行响应，从而克服了有限上下文窗口的限制。该项目包括用于查询执行的路由代理、使用 Neo4j 的知识图创建和检索，以及用于实体跟踪和知识排名的内存模块。 Memary 通过集成查询分解等组件、使用 ColBERT 等模型重新排名以及未来的多处理集成计划来提高响应相关性和准确性，从而脱颖而出。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86980</guid>
-      <pubDate>Mon, 29 Apr 2024 12:03:14 GMT</pubDate>
+      <title>问 HN：您对哪些领域或技术感到兴奋？</title>
+      <link>https://t.me/hn_summary/87005</link>
+      <description><![CDATA[问 HN：您对哪些领域或技术感到兴奋？
+news.ycombinator.com 上这篇文章的作者是思考软件行业的未来以及潜在的增长机会可能在哪里。他们认为 SaaS 的快速增长可能无法复制，但对微软、苹果或亚马逊等另一个主要参与者出现的可能性持开放态度。他们正在寻求社区的意见，了解他们对哪些领域或技术感到兴奋，以及他们认为哪些领域有显着增长的潜力。这篇文章引发了对技术和创新未来的讨论，凸显了作者的好奇心和前瞻性思维。]]></description>
+      <guid>https://t.me/hn_summary/87005</guid>
+      <pubDate>Mon, 29 Apr 2024 14:53:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Unify (YC W23) 正在通过简化和优化 [...]</title>
-      <link>https://t.me/hn_summary/86979</link>
-      <description><![CDATA[Unify (YC W23) 正在招聘贡献者来统一机器学习
-Unify (YC W23) 通过简化和优化 LLM 技术的使用，正在彻底改变 LLM 格局。我们的全球团队正在寻找热情的法学硕士工程师加入我们，展示我们神经路由器的强大功能。在从事激动人心的人工智能项目的同时，获得指导、获得证书并参与赏金计划。与志趣相投的社区合作，让您的工作在我们的平台上得到认可和放大。如果您对法学硕士充满热情并希望有所作为，请立即申请加入我们的专业团队！ 🔥🤖🏆]]></description>
-      <guid>https://t.me/hn_summary/86979</guid>
-      <pubDate>Mon, 29 Apr 2024 12:01:10 GMT</pubDate>
+      <title>[媒体]克劳德·埃米尔·让-巴蒂斯特·利特 (Claude Émile Jean-Baptiste Liter) 是由肯尼思·伍尔纳 (Kenneth Woolner) 创作的虚构人物 [...]</title>
+      <link>https://t.me/hn_summary/87004</link>
+      <description><![CDATA[克洛德·埃米尔·让-巴蒂斯特·利特
+克洛德·埃米尔·让-巴蒂斯特·利特 (Claude Émile Jean-Baptiste Liter) 是肯尼思·伍尔纳 (Kenneth Woolner) 为证明使用大写 L 表示升而创建的虚构人物。这个巧妙的骗局旨在解决小写字母 l 和大写 I 或数字 1 之间的混淆。美国、加拿大和澳大利亚现在建议使用大写 L 来表示升。伍尔纳 1978 年的愚人节恶作剧愚弄了许多人，其中包括 IUPAC 期刊《化学国际》，该杂志后来撤回了错误信息。这个独特的故事展示了科学单位世界的创造力和幽默感。]]></description>
+      <guid>https://t.me/hn_summary/87004</guid>
+      <pubDate>Mon, 29 Apr 2024 14:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧盟已将 iPadOS 确定为新 [...]</title>
-      <link>https://t.me/hn_summary/86978</link>
-      <description><![CDATA[根据欧盟新技术规则，iPadOS 被认定为数字“看门人”
-欧盟已将 iPadOS 确定为新技术法规下的重要数字看门人，加入苹果的 iOS、Safari 和 App Store 行列。调查发现，苹果iPadOS同时锁定了终端用户和企业用户，导致缺乏竞争。委员会给了苹果六个月的时间来遵守《数字市场法案》，该法案可能会给 iPadOS 带来替代应用市场和浏览器等变化。不遵守规定可能会导致巨额罚款。该决定旨在促进数字市场的公平竞争和消费者选择。]]></description>
-      <guid>https://t.me/hn_summary/86978</guid>
-      <pubDate>Mon, 29 Apr 2024 11:40:59 GMT</pubDate>
+      <title>[媒体] 大多数投资都是糟糕的。</title>
+      <link>https://t.me/hn_summary/87003</link>
+      <description><![CDATA[大多数投资都是糟糕的。原因如下
+大多数投资，包括债券、股票和房地产，历史上表现都不及黄金。每个资产类别中最突出的异常值产生了大部分回报，使得大多数投资都成为了失败的投资。然而，这并不意味着这些投资不应该发生。对于业主经营者和工人来说，这些投资很有意义，因为它们可以提供工资、产品和服务。外部被动投资者应该关注表现最好的公司，通常是科技、电信、能源和医疗保健领域的公司，或者考虑利用他们的投资将平庸的回报转化为财富。杠杆投资伴随着风险，但从历史上看一直是提高回报的一种方式。 （根据故事文本的 43% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87003</guid>
+      <pubDate>Mon, 29 Apr 2024 14:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>在 dubroy.com 上的文章“处理用户输入的三种方法（2022）”中，作者探讨了 [...]</title>
-      <link>https://t.me/hn_summary/86977</link>
-      <description><![CDATA[处理用户输入的三种方法（2022）&lt; br /&gt;
-在 dubroy.com 上的文章“处理用户输入的三种方法 (2022)”中，作者探索了 Web 开发中处理用户输入的不同方法。尽管图形输出取得了进步，但用户输入方法基本保持不变。主流方法仍然依赖于事件和回调，导致代码复杂且难以修改。作者提出了三种方法：事件侦听器、轮询和受 Squeak 启发的面向过程的模型。每种方法都有其优点和缺点，突出表明在 Web 开发中需要一种更高效、更用户友好的方式来处理用户输入。本文提供了交互式演示和代码示例来说明每种方法。 （根据 62% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86977</guid>
-      <pubDate>Mon, 29 Apr 2024 11:34:54 GMT</pubDate>
+      <title>[媒体]Answer.AI 首席执行官 Jeremy Howard 提出了对 SB-1047 的担忧，强调了 [...]</title>
+      <link>https://t.me/hn_summary/87002</link>
+      <description><![CDATA[SB-1047 将扼杀开源人工智能并降低安全性
+Answer.AI 首席执行官 Jeremy Howard 提出了对 SB- 的担忧1047，强调对开源人工智能开发、透明度、多样性和创新的潜在负面影响。该法案的广泛定义、限制性要求和潜在的法律责任可能会阻碍小型企业和研究人员，从而抑制人工智能领域的进步。霍华德提出了替代方法，重点关注监管人工智能的使用、提高透明度以及投资人工智能专业知识，以平衡安全和创新。他敦促加州通过支持开源协作并避免可能阻碍进步的法规，引领负责任的人工智能开发。有争议的是，SB-1047 如果不进行修订，可能会阻碍国家在人工智能领域的领导地位。]]></description>
+      <guid>https://t.me/hn_summary/87002</guid>
+      <pubDate>Mon, 29 Apr 2024 14:48:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/86976</link>
-      <description><![CDATA[美国又一款精确制导武器成为俄罗斯电子战的牺牲品
-由于俄罗斯的电子战，美国在乌克兰提供的精确制导弹药一直未能发挥作用，最新的伤亡是地面发射的空对地武器。这种武器很可能是地面发射的小直径炸弹，依靠 GPS 进行导航，因此很容易受到俄罗斯 GPS 欺骗者的攻击。俄罗斯一直在利用电子战来干扰 GPS 制导武器，包括 GMLRS 导弹和 JDAM。美国可以提供鱼叉导弹等替代弹药或从 F-16 战斗机发射武器来对抗俄罗斯的电子战。乌克兰还在研究针对俄罗斯导航系统的电子战系统。]]></description>
-      <guid>https://t.me/hn_summary/86976</guid>
-      <pubDate>Mon, 29 Apr 2024 11:10:43 GMT</pubDate>
+      <title>[媒体] 介绍 Stock AI，这是 yesilfinance.com 上基于人工智能的股票预测工具。</title>
+      <link>https://t.me/hn_summary/87001</link>
+      <description><![CDATA[显示 HN：股票 AI – AI 支持的股票预测 
+隆重推出 Stock AI，这是 yesilfinance.com。选择您最喜欢的股票并立即访问关键新闻和分析。发现最有前途的股票列表，查看短期每周预测，并查看长期每月预测。探索过去 6 个月的所有预测并回顾历史模型表现。可视化损益情景，以获得对您的投资策略的信心。一个有争议的方面可能是对人工智能进行股票预测的依赖，而一个令人惊讶的功能是比较短期和长期预测的能力。借助 Stock AI，将您的投资游戏提升到新的水平。]]></description>
+      <guid>https://t.me/hn_summary/87001</guid>
+      <pubDate>Mon, 29 Apr 2024 14:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>Richard Feldman 在他的网络文章中探讨了命令式服装中的功能语义学概念 [...]</title>
-      <link>https://t.me/hn_summary/86975</link>
-      <description><![CDATA[命令式服装中的功能语义 (Richard Feldman)&lt; br /&gt;
-Richard Feldman 在他的网站 rtfeldman.com&lt; 上探讨了命令式服装中功能语义的概念/a&gt;.他讨论了 I/O 密集型 shell 脚本从 Bash 到 Roc 的过渡，强调了使 Roc 中的纯函数式 I/O 更令人愉快的语法糖。添加 ! 后缀运算符将命令式代码转换为静态类型检查的纯函数，提供了一种视觉上相似但功能上不同的方法。 Feldman 解释了 ! 后缀如何将去糖添加到对 Task.await 和匿名函数的调用中，使代码更加简洁和可读。这种创新方法将函数语义与命令式语法相结合，创造了独特的编程体验。 （根据 34% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86975</guid>
-      <pubDate>Mon, 29 Apr 2024 11:02:37 GMT</pubDate>
+      <title>9FRONT 发布了“请勿安装”版本，其中包含显着更改，包括替换 [...]</title>
+      <link>https://t.me/hn_summary/87000</link>
+      <description><![CDATA[9FRONT（计划9）“请勿安装”发布
+9FRONT 发布了“请勿安装”版本，其中包含显着更改，包括用 Ext4srv 替换 Ext2srv、改进的 USB 音频处理、基于 TLS 的 DNS 支持以及对 Raspberry Pi 的 WiFi 支持。警告突出显示 IP 堆栈行为的变化。多种安装介质可用于 PC、Raspberry Pi、MNT Reform 和 QEMU。该版本包括各种内核和驱动程序更新、编译器和链接器修复以及库改进。该版本还具有新的图形差异查看器以及 cinap 和 sl 的歌曲。该更新提供了一系列增强功能和修复供用户探索。 （根据 55% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87000</guid>
+      <pubDate>Mon, 29 Apr 2024 14:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Offthreadr，这是一款革命性的 AI 应用程序，可将课程以时事通讯的形式提供给 [...]</title>
-      <link>https://t.me/hn_summary/86974</link>
-      <description><![CDATA[Show HN：我制作了 AI 应用程序以新闻通讯的形式提供课程
-隆重推出 Offthreadr，这是一款革命性的人工智能应用程序，它以时事通讯的形式向学生提供课程。借助 Offthreadr，您只需创建一次课程，然后将其交付给不同群体的学习者，通过离线学习覆盖多个地方的受众。这个创新平台使学生的学习变得更加容易和方便，提供了一种独特而有效的方式来参与课程材料。与 Offthreadr 告别传统教学方法，拥抱教育的未来。请访问 www.offthreadr.com 了解更多信息。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/86974</guid>
-      <pubDate>Mon, 29 Apr 2024 10:52:30 GMT</pubDate>
+      <title>[媒体]Phreaking 是对模拟电话网络的黑客攻击，涉及对 c [...]</title>
+      <link>https://t.me/hn_summary/86999</link>
+      <description><![CDATA[网络钓鱼
+Phreaking 是对模拟电话网络的黑客攻击，涉及对呼叫路由系统的操纵。该术语起源于 20 世纪 60 年代，当时人们发现了如何复制电话信号系统中使用的音调，从而可以免费拨打长途电话。网络钓鱼者使用蓝盒子等设备来利用该系统，其中包括史蒂夫·乔布斯和史蒂夫·沃兹尼亚克等知名人物。随着多频控制的引入和电话系统信令信息的发布，这种做法不断发展。 Phreaking 通过 Esquire 和 YIPL 等出版物而流行起来，导致颠覆性技术信息的传播。有争议的网络钓鱼行为仍然与计算机黑客行为联系在一起。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86999</guid>
+      <pubDate>Mon, 29 Apr 2024 14:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Dokploy 是 Heroku、Vercel 和 Netlify 等平台的开源替代品，o [...]</title>
-      <link>https://t.me/hn_summary/86973</link>
-      <description><![CDATA[Heroku、Vercel 和 Netlify 的开源替代方案
-Dokploy 是 Heroku、Vercel 和 Netlify 等平台的开源替代品，提供免费的自托管平台即服务 (PaaS)，用于使用 Docker 和 Traefik 部署和管理应用程序和数据库。它旨在简化部署并提高效率和安全性，允许用户在任何 VPS 上部署应用程序。 Dokploy 支持各种类型的应用程序和数据库，提供 Docker 管理、用于路由和负载平衡的 Traefik 集成、实时监控和数据库备份。它可以轻松安装在 Ubuntu 20.04 和 Debian 11 系统上。该项目强调灵活性、易用性和自托管功能。]]></description>
-      <guid>https://t.me/hn_summary/86973</guid>
-      <pubDate>Mon, 29 Apr 2024 10:36:22 GMT</pubDate>
+      <title>[媒体]欧盟委员会将调查 Meta 的 Facebook 和 Instagram 未采取的行动 [...]</title>
+      <link>https://t.me/hn_summary/86998</link>
+      <description><![CDATA[元因没有采取足够措施阻止俄罗斯虚假信息而面临欧盟调查&lt; /a&gt;
+欧盟委员会将调查 Meta 的 Facebook 和 Instagram，因为其在打击其平台上的俄罗斯虚假信息方面做得不够。监管机构担心 Meta 的节制努力不足以阻止可能破坏选举进程的政治广告的传播。欧盟担心俄罗斯对即将举行的欧洲选举的影响，并担心 Meta 的内容审核机制不符合《数字服务法》。如果发现违规，Meta 可能面临高达其全球年营业额 6% 的罚款。这项调查是欧盟监管大型科技公司和打击网络虚假信息努力的一部分。]]></description>
+      <guid>https://t.me/hn_summary/86998</guid>
+      <pubDate>Mon, 29 Apr 2024 14:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>我花了几个月的时间使用 Moonlander 键盘开发自定义键盘布局，强调 ea [...]</title>
-      <link>https://t.me/hn_summary/86972</link>
-      <description><![CDATA[键盘布局原则
-我花了几个月的时间使用 Moonlander 键盘开发自定义键盘布局，强调易用性和人体工程学。该布局优先考虑拇指簇键和主行放置，并策略性地映射特殊字符和修饰符以提高效率。通过从概念上对按键进行分组并优先考虑常用按键，我创建了一种布局，可以最大限度地减少手部移动并最大限度地提高打字速度。该过程需要仔细考虑按键的位置和功能，从而形成个性化的布局，从而提高打字舒适度和效率。通过实验和迭代，我精心设计了一个反映我的打字习惯和偏好的键盘布局，提供了独特且优化的打字体验。 （根据 74% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86972</guid>
-      <pubDate>Mon, 29 Apr 2024 10:32:18 GMT</pubDate>
+      <title>[媒体]阿片类药物危机占据了头条新闻，但大麻素过量服用正在增加，pa [...]</title>
+      <link>https://t.me/hn_summary/86997</link>
+      <description><![CDATA[CB1 受体负变构调节剂逆转大麻素毒性&lt; br/&gt;
+阿片类药物危机占据了头条新闻，但大麻素过量服用正在增加，特别是由于强效合成大麻素导致严重的健康问题。由于尚无 FDA 批准的 CB1 受体解毒剂，因此正在探索一种使用 CB1 负变构调节剂 (NAM) 的新方法。这些 NAM 可以迅速逆转合成大麻素的影响，为紧急治疗带来希望。初步测试显示出有希望的结果，一种化合物 PSNCBAM1 可以有效逆转大麻素效应而不诱导戒断。面临的挑战在于开发一种速效、多功能的大麻素毒性解毒剂，特别是随着合成大麻素不断发展的情况。 （根据故事文本的 57% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86997</guid>
+      <pubDate>Mon, 29 Apr 2024 14:26:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:47 GMT</lastBuildDate>
+    <item>
+      <title>Linux如何启动一个进程</title>
+      <link>https://www.reddit.com/r/programming/comments/1cg1klq/how_does_linux_start_a_process/</link>
+      <description><![CDATA[ 由   提交/u/AppressiveBaker426   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cg1klq/how_does_linux_start_a_process/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Python 在 Raspberry Pi 和 NVIDIA Jetson Nano 上使用我们的 Linux 条形码扫描仪 SDK</title>
+      <link>https://www.reddit.com/r/programming/comments/1cg1jm5/how_to_use_our_linux_barcode_scanner_sdk_on/</link>
+      <description><![CDATA[ 由   提交/u/Slight-Astronaut-737   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cg1jm5/how_to_use_our_linux_barcode_scanner_sdk_on/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seed7 编程语言版本 2024-04-29 发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1cg0kah/version_20240429_of_the_seed7_programming/</link>
+      <description><![CDATA[ 由   提交 /u/ThomasMertes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cg0kah/version_20240429_of_the_seed7_programming/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的代码覆盖率在撒谎 - dkarlovi.github.io</title>
+      <link>https://www.reddit.com/r/programming/comments/1cg0fbz/your_code_coverage_is_lying_dkarlovigithubio/</link>
+      <description><![CDATA[ 由   提交/u/dkarlovi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cg0fbz/your_code_coverage_is_lying_dkarlovigithubio/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flow-IPC 简介：C++ 低延迟进程间通信的开源工具包</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfzv8a/introduction_to_flowipc_open_source_toolkit_for/</link>
+      <description><![CDATA[ 由   提交 /u/Yuri-Goldfeld   /u/Yuri-Goldfeld  linode.com/blog/open-source/flow-ipc-introduction-low-latency-cpp-toolkit/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfzv8a/introduction_to_flowipc_open_source_toolkit_for/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 管道</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfzh75/pipelines_for_net/</link>
+      <description><![CDATA[ 由   提交/u/macrohard_certified  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfzh75/pipelines_for_net/</guid>
+      <pubDate>Mon, 29 Apr 2024 13:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kotlin 和 JVM 第一想法（第 2 天） - 在 30 天内创建 SaaS 初创公司</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfzglq/kotlin_jvm_first_thoughts_day_2_creating_a_saas/</link>
+      <description><![CDATA[ 由   提交 /u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfzglq/kotlin_jvm_first_thoughts_day_2_creating_a_saas/</guid>
+      <pubDate>Mon, 29 Apr 2024 13:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOM 操作入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfyqoq/getting_started_with_dom_manipulation/</link>
+      <description><![CDATA[ 由   提交/u/guleriashubham63  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfyqoq/getting_started_with_dom_manipulation/</guid>
+      <pubDate>Mon, 29 Apr 2024 13:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作产出、幸福感和团队合作能否成为良好开发者体验的关键？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfybdq/can_work_output_wellbeing_and_teamwork_be_the/</link>
+      <description><![CDATA[ 由   提交/u/Background_Prompt921   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfybdq/can_work_output_wellbeing_and_teamwork_be_the/</guid>
+      <pubDate>Mon, 29 Apr 2024 12:49:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tanstack表中的分组、过滤和聚合</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfyac9/grouping_filtering_and_aggregation_in_tanstack/</link>
+      <description><![CDATA[ 由   提交/u/pdycnbl  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfyac9/grouping_filtering_and_aggregation_in_tanstack/</guid>
+      <pubDate>Mon, 29 Apr 2024 12:48:26 GMT</pubDate>
+    </item>
     <item>
       <title>文件验证技术：分步指南</title>
       <link>https://www.reddit.com/r/programming/comments/1cfxkw1/document_verification_technology_a_step_by_step/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[ 由   提交/u/dry596  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfvxit/open_sourcing_msdos_40_microsoft_open_source_blog/</guid>
       <pubDate>Mon, 29 Apr 2024 10:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么接口很重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfvkfw/on_why_interfaces_matter/</link>
-      <description><![CDATA[ 由   提交/u/radekmie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfvkfw/on_why_interfaces_matter/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>常见的数据库架构更改错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfv9dc/common_db_schema_change_mistakes/</link>
-      <description><![CDATA[ 由   提交 /u/nutsetdim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfv9dc/common_db_schema_change_mistakes/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust Bytes 时事通讯第 20 期</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfv3us/rust_bytes_newsletter_issue_20/</link>
-      <description><![CDATA[ 由   提交/u/web3writer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfv3us/rust_bytes_newsletter_issue_20/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动应用后端开发快速指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfv0ha/a_quick_guide_to_mobile_app_backend_development/</link>
-      <description><![CDATA[ 由   提交/u/anujtomar_17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfv0ha/a_quick_guide_to_mobile_app_backend_development/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令式服装中的功能语义（理查德·费尔德曼）</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfuf0g/functional_semantics_in_imperative_clothing/</link>
-      <description><![CDATA[ 由   提交/u/bosyluke  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfuf0g/functional_semantics_in_imperative_clothing/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devin AI 的要点</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfu4j7/takeaway_from_devin_ai/</link>
-      <description><![CDATA[关于 Devin 是否确实像听起来那样令人印象深刻，或者大部分内容都是糖衣，以及 Devin 只是一个稍微复杂的群体，存在很多争论的代理。我从演示中得到的主要收获是 - 他们为法学硕士提供了代码编辑器的访问权限。虽然全世界都在研究代码生成，但制定通过法学硕士运行的编辑问题却令人印象深刻。关于如何以稳健的方式做到这一点有什么想法吗？  PS - 我已要求法学硕士生成差异。生成差异并不容易。大多数 diff 格式要求您事先指定新代码的行跨度，这对于自回归模型来说是一项艰巨的任务。我尝试引入自己的 diff 格式，该格式似乎工作正常，但突破了我们当今最好的法学硕士的局限性。有任何意见/想法吗？   由   提交/u/FrozenChikoo9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfu4j7/takeaway_from_devin_ai/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Redis 通过速率限制保护您的 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfsspr/secure_your_api_with_rate_limiting_using_redis/</link>
-      <description><![CDATA[API 很容易受到各种网络攻击，例如暴力破解、拒绝服务 (DoS)、抓取等，因此采用缓解策略至关重要 在这一集的实现中，我将向您展示如何使用 Redis 和 Node.js 实现固定窗口速率限制😊  &amp; #32；由   提交/u/MarcoMoauro95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfsspr/secure_your_api_with_rate_limiting_using_redis/</guid>
-      <pubDate>Mon, 29 Apr 2024 07:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在做出任何技术决策之前，我将分享一个 4 步方法来指导您</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfsg7v/im_sharing_a_4step_approach_to_guide_you_before/</link>
-      <description><![CDATA[ 由   提交/u/pepincho  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfsg7v/im_sharing_a_4step_approach_to_guide_you_before/</guid>
-      <pubDate>Mon, 29 Apr 2024 06:43:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索数据库清理之谜</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfsajx/exploring_the_enigma_of_database_vacuuming/</link>
-      <description><![CDATA[ 由   提交/u/dine-ssh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfsajx/exploring_the_enigma_of_database_vacuuming/</guid>
-      <pubDate>Mon, 29 Apr 2024 06:33:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写（SRS）软件需求规范的 6 个最佳实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfrmc8/6_best_practices_for_writing_srs_software/</link>
-      <description><![CDATA[ 由   提交/u/Yukti_Solutions  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfrmc8/6_best_practices_for_writing_srs_software/</guid>
-      <pubDate>Mon, 29 Apr 2024 05:50:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
