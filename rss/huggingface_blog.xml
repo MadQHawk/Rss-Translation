@@ -3,8 +3,15 @@
   <channel>
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
-    <description>拥抱的脸博客</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:13:11 GMT</lastBuildDate>
+    <description>拥抱脸博客</description>
+    <lastBuildDate>Mon, 29 Apr 2024 21:11:28 GMT</lastBuildDate>
+    <item>
+      <title>StarCoder2-Instruct：完全透明且允许的代码生成自对准</title>
+      <link>https://huggingface.co/blog/sc2-instruct</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/sc2-instruct</guid>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开放思想排行榜链简介</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>万事通，多才多艺，多用途变压器代理</title>
+      <title>万事通，精通某项技能，多功能变压器代理</title>
       <link>https://huggingface.co/blog/jat</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/jat</guid>
@@ -34,28 +41,28 @@
       <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gradio 的重新加载模式让你快速开发 AI 应用</title>
+      <title>利用 Gradio 的重新加载模式快速实现 AI 应用程序</title>
       <link>https://huggingface.co/blog/gradio-reload</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-reload</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面且无污染的评估</title>
+      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在拥抱脸部端点上运行隐私保护推理</title>
+      <title>在拥抱人脸端点上运行隐私保护推理</title>
       <link>https://huggingface.co/blog/fhe-endpoints</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fhe-endpoints</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ryght 在 Hugging Face 的专家支持下开启医疗保健和生命科学之路</title>
+      <title>Ryght 在 Hugging Face 专家支持下助力医疗保健和生命科学发展</title>
       <link>https://huggingface.co/blog/ryght-case-study</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ryght-case-study</guid>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CodeGemma - 代码法学硕士的 Google 官方版本</title>
+      <title>CodeGemma - Google 官方发布的代码 LLM</title>
       <link>https://huggingface.co/blog/codegemma</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/codegemma</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/duckdb-nsql-7b</guid>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Xeon 上使用 🤗 最佳 Intel 实现超快 SetFit 推理</title>
-      <link>https://huggingface.co/blog/setfit-optimum-intel</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/setfit-optimum-intel</guid>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
