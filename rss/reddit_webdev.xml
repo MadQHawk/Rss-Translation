@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:12:08 GMT</lastBuildDate>
+    <item>
+      <title>IP轮换和系统攻击者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgv08k/ip_rotation_and_system_attacker/</link>
+      <description><![CDATA[希望阻止/遏制对 Web 应用程序的已知攻击： - 攻击者正在轮换 IP - 攻击者可以在每次尝试时刷新会话/cookie 数据 因此在本地跟踪 IP 并基于此进行阻止可能不起作用。 设置会话/cookie 进行识别可能不起作用。  我说有可能，因为网络应用程序仍然会这样做，但它可能没有实际意义。 关于如何跟踪此类被察觉的流氓有什么想法吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/ottawawebguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgv08k/ip_rotation_and_system_attacker/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 样板框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cguv4b/html_boilerplate_framework/</link>
+      <description><![CDATA[我已经几年没有使用静态 HTML 网站了。一直在寻找 HTML 框架，我发现很多我使用过并喜欢的工具都不再受支持。 要求如下： - Webpack（或等效工具，用于处理构建和插件） - Sass（不是 Post-CSS 的忠实粉丝，但如果只有它一个选项，我会使用它） - ES6 - Live Reload（我更喜欢 Browsersync） - CSS 优化插件功能（如 UnCSS、Autoprefixer 等） - Handlebars（或某种模板等效工具） 对样板有什么建议吗？我宁愿使用现有的东西，而不是从头开始创建自己的。    提交人    /u/domestic-jones   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cguv4b/html_boilerplate_framework/</guid>
+      <pubDate>Tue, 30 Apr 2024 14:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何嵌入 Spotify 播放列表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgtbs9/how_to_embed_spotify_playlist/</link>
+      <description><![CDATA[有没有办法在 Html 页面中嵌入 Spotify 播放列表？我用谷歌搜索，发现的只是单个播客剧集和“官方”节目。播放列表 iframe 嵌入仅播放 20 秒预览。所有 YouTube 视频都已经有 4 年历史了，所以也许他们将其关闭了？ （我是一名学生，不是网络开发人员）   由   提交/u/Zestyclose_Toe_4695   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgtbs9/how_to_embed_spotify_playlist/</guid>
+      <pubDate>Tue, 30 Apr 2024 13:50:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI情感分析网页客户端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgt21k/ai_sentiment_analysis_web_client/</link>
+      <description><![CDATA[      预览  大家好。上周，我为我和朋友一起开发的情感分析模型构建了一个小型网络客户端。我想听听您的意见，并了解除了在更大的数据集上训练模型之外，我们还可以在哪些方面进行改进。 😅 谢谢！ 这里是：AI 情感分析器 |源代码（UI）：GitHub   由   提交/u/CODE-NINJA-0015   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgt21k/ai_sentiment_analysis_web_client/</guid>
+      <pubDate>Tue, 30 Apr 2024 13:37:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>区块链99%是被夸大的骗局吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgszay/is_blockchain_99_overhyped_scam/</link>
+      <description><![CDATA[我是一名网络开发人员，最近加入了一家加密货币公司担任前端开发人员。这引起了我对加密货币的兴趣，我对加密货币了解得越多并与社区互动，我就越觉得大约 95% 是创建庞氏骗局的过于复杂的方式...... 我很漂亮确保“一切都将在区块链上运行”的叙述根本不是真的，因为智能合约就是狗屎。他们只能真正与区块链数据交互，而不能与现实世界的东西和 API 交互，因为这样的话，去信任应用程序的整个概念就会崩溃 --&gt;因此，在我看来，在资源有限的 EVM 上额外实现业务逻辑是没有意义的。 无论如何，这并没有阻止我。现在我正尝试亲自动手构建一些东西，看看在区块链上开发的感觉如何。我选择了在 Solana（区块链）上运行的超级井字棋，人们实际上告诉我：“只需拉地毯即可；”那更简单”，基本上告诉我我应该欺骗别人。这也向我表明，这个社区纯粹是有毒的。 有一些有趣的项目，如 Nosana、Render 等，它们试图在区块链上运行 GPU 网络，以使训练 AI 模型更便宜，但那不可能是这样。说真的，一定有一些东西我没有看到，因为我对技术不够了解，对吗？我不想投入太多的精力来学习这项技术，但一年后回来时却发现这只是一个复杂的骗局。  您对区块链发展有何看法？   由   提交 /u/haasilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgszay/is_blockchain_99_overhyped_scam/</guid>
+      <pubDate>Tue, 30 Apr 2024 13:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮递员显示“发送请求”但不执行任何操作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgsgzh/postman_showing_sending_request_but_does_not_do/</link>
+      <description><![CDATA[我的邮递员发布请求卡在发送请求中，基本上我有两个具有相同代码库的文件，当运行其中一个时我得到了 json 响应一秒钟，但是当我运行第二个时，它陷入了发布请求，我的服务器位于 mongodb    由   提交/u/Ex_bhakt69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgsgzh/postman_showing_sending_request_but_does_not_do/</guid>
+      <pubDate>Tue, 30 Apr 2024 13:10:11 GMT</pubDate>
+    </item>
     <item>
       <title>绝对定位的元素超出屏幕</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgqm5n/absolutely_positioned_element_goes_out_of_screen/</link>
@@ -20,37 +62,30 @@
       <pubDate>Tue, 30 Apr 2024 11:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>网络应用程序小型图像托管的最佳地点？</title>
+      <title>对于网络应用程序来说，小规模图像托管的最佳地点是哪里？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgqd92/best_place_for_small_scale_image_hosting_for_a/</link>
       <description><![CDATA[寻找一种方式来托管图像，从几百到一千个图像的网站便宜，或者可能是免费的。  这是一个 Astro 网站，希望托管在 netlify 免费套餐上。 我在想，如果我单独托管图像，那么我不应该超过 netlify 免费套餐限制吗？  或者也许我错了！   由   提交/u/Space_Ganondorf  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgqd92/best_place_for_small_scale_image_hosting_for_a/</guid>
       <pubDate>Tue, 30 Apr 2024 11:20:39 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建多步骤表单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgpn6b/how_to_create_a_multistep_form_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建多步表单[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgpn6b/how_to_create_a_multistep_form_with_tailwind_css/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tanstack 表中的分组、过滤和聚合</title>
+      <title>Tanstack表中的分组、过滤和聚合</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgoihh/grouping_filtering_and_aggregation_in_tanstack/</link>
-      <description><![CDATA[        提交人    /u/pdycnbl   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgoihh/grouping_filtering_and_aggregation_in_tanstack/</guid>
       <pubDate>Tue, 30 Apr 2024 09:20:14 GMT</pubDate>
     </item>
     <item>
       <title>您认为为嵌入式小部件编写 CSS 的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgo4l6/what_do_you_think_would_be_the_best_way_to_write/</link>
-      <description><![CDATA[您好，我最近一直在思考我在工作中遇到的一个问题，我想获得一些外部意见来帮助理解这个问题 TL;DR：嵌入式 Web 小部件有时会为其 CSS 或 JS 代码使用真正通用的类，最终会与我们的网站不兼容，这是谁的“错”？ ？你会如何处理呢？您认为谁应该编写 100% 独立的代码？ 因此，就一点背景而言，我在一家公司工作，该公司在一个域中构建网站，其中大量客户希望在其网站上安装外部小部件。站点（大多数情况下，我们添加一些加载 div 的 JS 代码片段，这是非常基本的东西）。通常，这些小部件附带捆绑的 CSS，它们要么覆盖我们的一些样式，要么只是让它们的样式被我们的 CSS 覆盖。发生这种情况是因为小部件和我们的网站都包含诸如“title”之类的类。或“容器”，你知道，这些“通用”类型。易于重用的类名...  而且我总是对这些小部件所有者感到沮丧，因为在我看来，他们是制作一段应该在任何网站上工作的代码的人，他们不应该吗？使用真正特定的类和 ID 来使它们的小部件完全独立？至少，每当我确实需要编写一些将嵌入到其他地方的代码时，这就是我解决问题的方式。但与此同时，这种情况已经发生了很多！比如，我们必须为客户安装的 3 或 4 个小部件中，可能有 1 个需要调试，因为脚本附加到了错误的 div 或某些 CSS 损坏了……那么，也许我错了？也许我的网站应该使用复杂的类名来与地球上的每个小部件兼容，以防万一？ 我真的不知道如何解决这个问题？因为小部件所有者经常告诉他们的客户，我们有错，因为我们网站的代码覆盖了他们小部件的代码，而客户并不真正精通技术，几乎总是向我们发送有关此事的邮件，而我们最终向每个人扔石头其他类似的，这是完全愚蠢和低效的。那么...大家觉得怎么样？处理这个问题的最佳方法是什么？您曾经遇到过类似的问题吗？我真的很期待这次讨论，而不是期待一个精确的技术解决方案（如果存在的话），这是我很好奇的事情...... &lt;！-- SC_ON -- &gt;  由   提交 /u/Twistaga   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我最近一直在思考我在工作中遇到的一个问题，我想获得一些外部意见来帮助理解这个问题 TL;DR：嵌入式 Web 小部件有时会为其 CSS 或 JS 代码使用真正通用的类，最终会与我们的网站不兼容，这是谁的“错”？ ？你会如何处理呢？您认为谁应该编写 100% 独立的代码？ 因此，就一点背景而言，我在一家公司工作，该公司在一个域中构建网站，其中大量客户希望在其网站上安装外部小部件。站点（大多数时候，我们添加一些加载 div 的 JS 代码片段，这是非常基本的东西）。通常，这些小部件附带捆绑的 CSS，它们要么覆盖我们的一些样式，要么只是让它们的样式被我们的 CSS 覆盖。发生这种情况是因为小部件和我们的网站都包含诸如“title”之类的类。或“容器”，你知道，这些“通用”类型。易于重用的类名...  而且我总是对这些小部件所有者感到沮丧，因为在我看来，他们是制作一段应该在任何网站上运行的代码的人，他们不应该吗？使用真正特定的类和 ID 来使它们的小部件完全独立？至少，每当我确实需要编写一些将嵌入到其他地方的代码时，这就是我解决问题的方式。但与此同时，这种情况已经发生了很多！比如，我们必须为客户安装的 3 或 4 个小部件中，可能有 1 个需要调试，因为脚本附加到了错误的 div 或某些 CSS 损坏了……那么，也许我错了？也许我的网站应该使用复杂的类名来与地球上的每个小部件兼容，以防万一？ 我真的不知道如何解决这个问题？因为小部件所有者经常告诉他们的客户，我们有错，因为我们网站的代码覆盖了他们小部件的代码，而客户并不真正精通技术，几乎总是向我们发送有关此事的邮件，而我们最终向每个人扔石头其他类似的，这是完全愚蠢和低效的。那么...大家觉得怎么样？处理这个问题的最佳方法是什么？您曾经遇到过类似的问题吗？我真的很期待这次讨论，而不是期待一个精确的技术解决方案（如果存在的话），这是我很好奇的事情...... &lt;！-- SC_ON -- &gt;  由   提交 /u/Twistaga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgo4l6/what_do_you_think_would_be_the_best_way_to_write/</guid>
       <pubDate>Tue, 30 Apr 2024 08:53:37 GMT</pubDate>
     </item>
     <item>
       <title>理发预约系统</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgo1tc/barber_booking_system/</link>
-      <description><![CDATA[我决定创建一个理发师预订应用程序，其中可以选择理发师、付款和奖金系统的时间段。 （React Native、Mongo、Express） 我位于希腊，我将获得的纯金钱收益约为 4000。这比我个人赚到的任何东西都多。但我开始认为这个项目会比我想象的更复杂。  大多数答案可能是说服他们购买已经成熟的产品。但这样我不会失去构建自己的东西并利用最终产品的经验为我带来好处的改变吗？  您有什么技巧可以使这个工作之外的项目变得更加顺利吗？ 有任何来源可以获取有关创建可靠模式的灵感或避免陷阱的技巧吗？    由   提交 /u/Rigidyragidywrecked   [链接] [评论]]]></description>
+      <description><![CDATA[我决定创建一个理发师预订应用程序，其中可以选择理发师、付款和奖金系统的时间段。 （React Native、Mongo、Express） 我位于希腊，我将获得的纯金钱收益约为 4000。这比我个人赚到的任何东西都多。但我开始认为该项目将比我想象的更复杂。 大多数答案可能是说服他们购买已经建立的产品。但这样我不会失去构建自己的东西并利用最终产品的经验为我带来好处的改变吗？ 你有什么建议可以让这成为工作项目之外的事情吗？变得更顺利？有什么来源可以获得有关创建可靠模式的灵感或避免陷阱的技巧吗？ 编辑：这是特定理发店的预订应用程序我将实现这样的功能 https://www.nicol.salon/ 这不是一个我现在正在考虑如何构建合适的数据库模式。 这是主要流程： - 用户将选择理发师 - 用户将选择可能具有不同时间范围的约会类型，例如“理发 30 分钟”、理发和胡须修剪 45 分钟 - 用户将看到包含可用和保留时间段的日期列表。 - 他们只会选择约会的开始时间，如果合适，他们将等待管理员的确认   由   提交 /u/Rigidyragidywrecked   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgo1tc/barber_booking_system/</guid>
       <pubDate>Tue, 30 Apr 2024 08:47:53 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好， 我想了解更多关于如何构建这样的网站的信息； hotuk优惠。 com 因为我想为我所在的地区创建一个类似的网站。我擅长前端，但缺乏一些后端技能。但我只是好奇这样的网站是如何构建的。如果您有更好的设置方法，请随时发表评论！ 谢谢！   由   提交 /u/belikerich   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgmphm/how_is_a_website_like_this_built/</guid>
       <pubDate>Tue, 30 Apr 2024 07:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Photoshop 如何解决处理超出内存容量的文件的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgkqr5/how_photoshop_solved_working_with_files_larger/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgkqr5/how_photoshop_solved_working_with_files_larger/</guid>
-      <pubDate>Tue, 30 Apr 2024 05:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻求一些简短的技术指导，了解可以使用哪些工具将 LLM 与非营利 WordPress 网站上的 Web 表单集成。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cgjiml/im_seeking_some_brief_technical_guidance_on_what/</link>
-      <description><![CDATA[TL;DR：寻求有关将 LLM 与 Web 表单集成以生成纯文本响应以在我构建的网站上演示的技术建议。 项目概述： 我是一名文案撰稿人，使用 Elementor 和 Wordpress 构建一个非营利网站，以帮助我父母所在社区的老年人。这个易于阅读、易于使用的网站具有一个表格（使用 Formidable Forms 构建），老年人可以匿名填写，无需交换或请求私人信息。我想将表单数据（仅限文本响应）直接提交给法学硕士，让法学硕士生成文本响应，然后将响应发送回我的网站以在我构建的窗口中显示。 需要的技术建议： 如何在按下“提交”按钮后将收集到的表格数据发送给法学硕士。按钮，以及如何从 LLM 接收文本回复并插入我为回复构建的窗口，用户可以在其中阅读回复，并下载或打印它。 我只是寻找用于此集成的推荐工具或 WordPress 插件的名称（例如 Webhooks？），以及相关教程或资源的名称/标题，以便像我这样的非技术人员学习如何做到这一点。 上下文：我已经构建了完整的网站和表单，但我不熟悉后端开发或 API 集成。我研究过聊天机器人，但这个项目不涉及与法学硕士的直接用户交互。 任何建议或指导将不胜感激。即使是简单的一句话“使用工具A来做这件事，插件B做这件事，然后用工具C完成”也可以。会帮助我前进，我会从那里弄清楚。 我已经做了一百万次“弄清楚”。之前的项目，我只是在这个项目上有点困难，因为现在有大量关于人工智能的废话。 非常感谢您提供的任何建议！&lt; /p&gt; （编辑：可能会使用 Claude 或 Meta。我觉得两者通常都比 ChatGPT 提供更好的人类对话响应）   由   提交 /u/hawkweasel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cgjiml/im_seeking_some_brief_technical_guidance_on_what/</guid>
-      <pubDate>Tue, 30 Apr 2024 03:58:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>暗网站是如何制作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</link>
-      <description><![CDATA[我真的很好奇暗网网站是如何创建的。它是否遵循与表面网络类似的过程？洋葱网站使用哪些编码语言，以及使用哪些软件进行设计和开发？我渴望了解设计和构建这些网站的复杂性以及所涉及的挑战。如果有人对此主题有见解，请分享 - 我真诚地有兴趣了解更多相关信息。   由   提交/u/12A5H3FE  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</guid>
-      <pubDate>Tue, 30 Apr 2024 02:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>身份验证流程的最佳实践是什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cghqho/whats_the_best_practice_for_the_auth_flow/</link>
-      <description><![CDATA[在我当前的移动应用程序中，我已经实现了用于电子邮件/密码身份验证的身份验证流程：  客户端使用 EmailPassword DTO 对端点（身份验证/登录和身份验证/注册）进行 API 调用。 验证凭据后，服务器返回有效期为 5 分钟的 accessToken 和有效期为 30 天的刷新令牌。&lt; /li&gt; 客户端将这些令牌安全地存储在加密的本地存储中，并使用 accessToken 来进行后续的服务器请求。 如果 accessToken 过期，服务器将返回 401 Unauthorized 状态码，提示客户端向后端发送一个发布请求以刷新访问令牌。  现在，我正在探索使用 Firebase 身份验证集成社交登录，尽管我仍在决定提供商，例如苏帕巴斯。以下是我正在考虑的流程：  登录社交提供商后，Firebase 会向客户端返回一个 ID 令牌。 客户端将此 ID 令牌发送给后端进行验证。 如果 ID 令牌有效，后端会发出访问令牌和刷新令牌，与现有流程类似。  执行这些建议的流程你觉得正确吗？任何意见，将不胜感激。另外，有效期为 30 天的刷新令牌有意义吗？我发现有些应用程序在第一次登录时不会提示用户再次登录，所以这些刷新令牌似乎永远不会过期？   由   提交/u/lonely_programmer01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cghqho/whats_the_best_practice_for_the_auth_flow/</guid>
-      <pubDate>Tue, 30 Apr 2024 02:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>重建我的组织的网上商店服务的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg921d/advice_for_rebuilding_my_organizations_webstore/</link>
-      <description><![CDATA[我将自己描述为一名初级全栈 Web 开发人员。这可能听起来很奇怪，但这是因为我是我的组织雇用的第一个开发人员，而这里唯一的其他开发人员的经验比我少。因此，我负责我们需要的任何后端编程，以及一些更高级的前端内容。我熟悉 HTML、CSS、JS、TS、Node.js、React、Prisma 和简单的关系数据库。 我们做什么？ &lt; p&gt;除其他事项外，我的组织还销售网上商店。这些基本上是我们为客户建立的小型在线商店，然后客户使用这些商店向自己的客户销售产品。 当我 6 个月前被雇用时，所使用的流程相当混乱。现在仍然如此。所有网上商店都是在 WordPress 多站点环境中的 WooCommerce 中构建的。一切都托管在同一服务器上。新的网上商店是通过复制模板创建的。每当我们想要在网上商店中包含一些自定义功能时，我们基本上都是通过安装大量插件并添加我们在 Google 上找到的 PHP 片段来将其组合在一起。随着插件和网上商店数量的增加，性能逐渐恶化。 我们要去哪里？ 我们希望继续扩展我们的网上商店产品到 50、100 以及更多。我们知道我们当前的方法是不可持续的，作为这里最有经验的开发人员，我很乐意带头彻底改革我们的网络商店方法。我总是喜欢挑战，这会在我的简历上看起来很棒。 但我也只有 1.5 年的 Web 开发经验，并且没有现场高级工程师可以学习。由于我相对缺乏经验，我不想在这次重建中带领我的组织走上错误的道路。 我的本​​能是利用无头电子商务和无头 CMS，并构建某种带有仪表板的轻量级全栈应用程序，管理员可以在其中以非常简化的方式定义新网上商店的数据（无需复制整个网站，就像我们现在所做的那样）。然后，当用户输入网上商店的 URL 时，将显示一个不同的商店，但实际上它只是一个 React 前端，可以根据后端网上商店的数据动态更改样式并启用/禁用功能。&lt; /p&gt; 我在要求什么？ 我并不是在寻找任何人给我所有的答案，或者为我解决一切问题。我只是在寻找比我更有经验的开发人员的一些意见和总体方向。 如果您有时间，请查看我们下面的要求，并提出您的任何建议。通过阅读这些内容，您可能会发现我的知识中存在一些空白，因此也请随时指出这些空白。 ​  安全、高性能的托管 电子商务功能（包括运输、退货、税务计算等） 我们需要一个预构建的解决方案，因为自己构建这个解决方案根本不现实。  能够为不同的商店提供自定义域名（例如 www .clothingstore.com 和 www.computerstore.com 都将由我的应用程序提供服务） 灵活地为某些 URL 提供静态页面 (HTML/CSS/JS)，为其他 URL 提供 React 应用 一个轻量级 CMS 来管理这些静态页面以及存储媒体  我们需要预构建的解决方案，因为我自己构建这个解决方案根本不现实。  配置每个网上商店并定义其数据的简化流程 可扩展性是必须  感谢您从头到尾阅读，以及您选择提供的任何意见！    ;由   提交/u/megalogue  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg921d/advice_for_rebuilding_my_organizations_webstore/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:11:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
