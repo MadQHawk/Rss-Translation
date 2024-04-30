@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:54:49 GMT</lastBuildDate>
-    <item>
-      <title>Matlab Simulink 中的 6 DOF DLR 机器人仿真</title>
-      <link>https://www.opensourceagenda.com/projects/6-dof-dlr-robot-simulation-in-matlab-simulink</link>
-      <description><![CDATA[这是前向的完整分析、逆运动学、轨迹规划、路径规划以及末端执行器控制。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/6-dof-dlr-robot-simulation-in-matlab-simulink</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动搬运车示例</title>
-      <link>https://www.opensourceagenda.com/projects/agv-examples</link>
-      <description><![CDATA[Python 中的介绍性自主地面车辆（即轮式移动机器人）模拟示例存储库。&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/agv-examples</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mujoco Simulink 模块集</title>
-      <link>https://www.opensourceagenda.com/projects/mujoco-simulink-blockset</link>
-      <description><![CDATA[用于在 Simulink 中访问 MuJoCo 物理引擎的块]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mujoco-simulink-blockset</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Se3四元组</title>
-      <link>https://www.opensourceagenda.com/projects/se3quad</link>
-      <description><![CDATA[SE 上四旋翼飞行器的几何控制器(3)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/se3quad</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>索罗托基法典</title>
-      <link>https://www.opensourceagenda.com/projects/sorotokicode</link>
-      <description><![CDATA[SOROTOKI 是一个开源 MATLAB 软件包，包含一系列用于设计、建模和控制的工具软机器人系统🐙🤖]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sorotokicode</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>模型预测控制.jl</title>
-      <link>https://www.opensourceagenda.com/projects/modelpredictivecontroljl</link>
-      <description><![CDATA[Julia 的开源模型预测控制包。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/modelpredictivecontroljl</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>符号控制系统.jl</title>
-      <link>https://www.opensourceagenda.com/projects/symboliccontrolsystemsjl</link>
-      <description><![CDATA[C 代码生成以及 ControlSystems.jl 和 SymPy.jl 之间的接口]]></description>
-      <guid>https://www.opensourceagenda.com/projects/symboliccontrolsystemsjl</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qlibs</title>
-      <link>https://www.opensourceagenda.com/projects/qlibs</link>
-      <description><![CDATA[适用于嵌入式系统的有用库的集合：信号平滑、PID 控制、模糊逻辑、定点数学还有更多...]]></description>
-      <guid>https://www.opensourceagenda.com/projects/qlibs</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mpkuse 倒立摆</title>
-      <link>https://www.opensourceagenda.com/projects/mpkuse-inverted-pendulum</link>
-      <description><![CDATA[倒立摆模拟]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mpkuse-inverted-pendulum</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>自主赛车文献</title>
-      <link>https://www.opensourceagenda.com/projects/autonomousracing-literature</link>
-      <description><![CDATA[自治文献概述]]></description>
-      <guid>https://www.opensourceagenda.com/projects/autonomousracing-literature</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>共形时间序列</title>
-      <link>https://www.opensourceagenda.com/projects/conformal-time-series</link>
-      <description><![CDATA[时间序列应用的保形预测。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/conformal-time-series</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:46 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Apr 2024 03:14:59 GMT</lastBuildDate>
     <item>
       <title>Keras2c</title>
       <link>https://www.opensourceagenda.com/projects/keras2c</link>
       <description><![CDATA[一个简单的库，用于在纯 C 语言中部署 Keras 神经网络以实现实时应用]]></description>
       <guid>https://www.opensourceagenda.com/projects/keras2c</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>神经漫游者</title>
-      <link>https://www.opensourceagenda.com/projects/neuromancer</link>
-      <description><![CDATA[基于 Pytorch 的框架，用于解决参数约束优化问题、基于物理的系统识别和参数模型预测控制。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/neuromancer</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kairos研究实验室 Kairos</title>
-      <link>https://www.opensourceagenda.com/projects/kairosresearchlab-kairos</link>
-      <description><![CDATA[vvvv 可视化编程环境中数据控制和组合的完整框架。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kairosresearchlab-kairos</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:45 GMT</pubDate>
+      <pubDate>Tue, 30 Apr 2024 03:14:59 GMT</pubDate>
     </item>
     <item>
       <title>Libmpc</title>
       <link>https://www.opensourceagenda.com/projects/libmpc</link>
       <description><![CDATA[libmpc++ 是一个 C++ 头文件库，用于解决线性和非线性 MPC]]></description>
       <guid>https://www.opensourceagenda.com/projects/libmpc</guid>
-      <pubDate>Tue, 30 Apr 2024 00:54:45 GMT</pubDate>
+      <pubDate>Tue, 30 Apr 2024 03:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>自主赛车文献</title>
+      <link>https://www.opensourceagenda.com/projects/autonomousracing-literature</link>
+      <description><![CDATA[自治文献概述]]></description>
+      <guid>https://www.opensourceagenda.com/projects/autonomousracing-literature</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>共形时间序列</title>
+      <link>https://www.opensourceagenda.com/projects/conformal-time-series</link>
+      <description><![CDATA[时间序列应用的保形预测。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/conformal-time-series</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于惯性传感和人工智能的智能车辆感知</title>
+      <link>https://www.opensourceagenda.com/projects/intelligent-vehicle-perception-based-on-inertial-sensing-and-artificial-intelligence</link>
+      <description><![CDATA[基于智能车辆感知惯性传感与人工智能]]></description>
+      <guid>https://www.opensourceagenda.com/projects/intelligent-vehicle-perception-based-on-inertial-sensing-and-artificial-intelligence</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经漫游者</title>
+      <link>https://www.opensourceagenda.com/projects/neuromancer</link>
+      <description><![CDATA[基于 Pytorch 的框架，用于解决参数约束优化问题、基于物理的系统识别和参数模型预测控制。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/neuromancer</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kairos研究实验室 Kairos</title>
+      <link>https://www.opensourceagenda.com/projects/kairosresearchlab-kairos</link>
+      <description><![CDATA[vvvv 可视化编程环境中数据控制和组合的完整框架。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kairosresearchlab-kairos</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gmr458 尼维姆</title>
+      <link>https://www.opensourceagenda.com/projects/gmr458-nvim</link>
+      <description><![CDATA[我的 Neovim 配置]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gmr458-nvim</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>忍者笔</title>
+      <link>https://www.opensourceagenda.com/projects/ninjapen</link>
+      <description><![CDATA[👾 使用 React 和 TypeScript 构建的 CodePen 克隆。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ninjapen</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>人体惯性姿势</title>
+      <link>https://www.opensourceagenda.com/projects/humaninertialpose</link>
+      <description><![CDATA[使用 MARG 多传感器数据进行人体全身姿态估计]]></description>
+      <guid>https://www.opensourceagenda.com/projects/humaninertialpose</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>光环文本</title>
+      <link>https://www.opensourceagenda.com/projects/aura-text</link>
+      <description><![CDATA[Aura Text 是一款功能强大的文本编辑器，由 QScintilla 提供支持，为开发人员提供所有必要的工具。它使用 PyQt6 和 Python 构建。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aura-text</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥米加德</title>
+      <link>https://www.opensourceagenda.com/projects/omegaide</link>
+      <description><![CDATA[来自未来的即时 IDE，支持任何编程语言。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/omegaide</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>宇宙IDE</title>
+      <link>https://www.opensourceagenda.com/projects/cosmic-ide</link>
+      <description><![CDATA[用于 Android 上 JVM 开发的下一代 Ide]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cosmic-ide</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>XmacsLabs 莫干山</title>
+      <link>https://www.opensourceagenda.com/projects/xmacslabs-mogan</link>
+      <description><![CDATA[Mogan（基于 GNU TeXmacs）：让我们享受探索科学技术的乐趣吧！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/xmacslabs-mogan</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>索拉编辑</title>
+      <link>https://www.opensourceagenda.com/projects/sora-editor</link>
+      <description><![CDATA[多功能 Android 代码编辑器库。 （又名代码编辑器）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sora-editor</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
