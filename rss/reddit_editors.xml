@@ -4,7 +4,56 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 00:53:58 GMT</lastBuildDate>
+    <item>
+      <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方法</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</link>
+      <description><![CDATA[所以我昨晚购买了一台 M2 Max Macbook Pro，并意识到它具有三个 Thunderbolt 3 端口，以便优化 Premiere Pro 中的编辑，我是在这样的情况下吗？我想我应该购买三个 Sabrent M.2 Thunderbolt NVMe Enclosure SSD 扩展坞，然后使用一个 256GB M.2 SSD 作为媒体缓存文件和数据库，另一个 256GB M.2 SSD 用于暂存盘，然后是第三个也是最后一个 4TB M.2 用于项目文件和我正在处理的项目的源素材/rushes，因此离开了我的 Mac OS 和 Premiere Pro我的 Macbook 内置 SSD 上的软件。 这是设置所有内容的最佳方式吗？或者项目文件是否需要位于 Mac 的内部 SSD 上，以便与 Premiere Pro 软件本身位于同一驱动器上？就瓶颈/读写速度而言，我应该全面购买三星 EVO 980 Pro，还是可以选择像金士顿这样便宜的东西？我不确定 Thunderbolt 3 的实际带宽是多少，以及获得最快、最好的 NVME m.2 驱动器是否过度杀伤力。最后，有没有任何集线器或不那么混乱/加密狗的方式可以做到这一点哈哈 系统规格：Macbook M2 Max 12 核 - 30 核 GPU    由   提交 /u/Impyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</guid>
+      <pubDate>Tue, 30 Apr 2024 00:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>无色素材的命名约定最佳实践？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</link>
+      <description><![CDATA[我将把 Premiere Pro XML 发送到另一个工作室进行着色和美化。它只包括未链接的 RAW 素材 + GFX 参考 + 音频干。命名该文件以使调色师知道他们收到的内容的最佳方式是什么？    由   提交 /u/limeadegelatin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgehnh/naming_convention_best_practices_for_uncolored/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>小型项目的 Premiere Pro Productions - 值得吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cge2zb/premiere_pro_productions_for_a_small_project_is/</link>
+      <description><![CDATA[制作一部较长的短片（40 分钟左右，有脚本），有人建议我使用首映制作，而不是首映项目。不确定是否有必要，或者是否会带来比它更大的麻烦。 我之前在其他几个项目（2 个系列和一部故事片）中使用过制作。所有项目都有多个编辑和多个 AE 同时工作，故事和档案制作人使用它进行记录等。但对于这个项目，我可能一次只会有 1 个编辑，一个 AE 进行设置（可能与编辑一起工作），我和另一个制作人查看一些选择和剪辑。 在这里使用制作有多大用处？我担心的是，设置清晰链接或任何其他选项的成本将远远高于仅保留正常的首映项目。我们可能会添加一些补拍和一些视觉特效，但我认为我们不会在编辑过程中不断更新项目的媒体。  对于这种规模的项目，制作值得吗？使用它有什么缺点吗？此外，在拍摄日同步和组织好基本首映项目后，尝试将其迁移到制作中是否会造成巨大混乱？     提交人    /u/LastBuffalo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cge2zb/premiere_pro_productions_for_a_small_project_is/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:35:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere Pro，音频混合剪辑，但单个轨道看起来不错</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</link>
+      <description><![CDATA[您好！我正在准备交付序列并遇到问题。根据音轨混音器，主混音正在剪辑。然而，轨道本身没有被剪辑。事实上，我只播放一个音轨，并且没有子混音、轨道效果或剪辑效果。所有音轨和混音的音量设置为统一。有人见过这个吗？ Premiere Pro 24.3、Macbook Pro M3 [编辑：问题通过系统重新启动修复。提醒您在发帖前尝试基本的故障排除]   由   提交 /u/Powerful-Bread5543    reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</guid>
+      <pubDate>Mon, 29 Apr 2024 22:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>冻结！</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgbpjp/freeze/</link>
+      <description><![CDATA[冻结帧的终极指南如何正确执行 https://www.youtube.com/watch?v=BEIhBY9S6pw 🥶 &lt;!-- SC_ON - -&gt;  由   提交/u/cut-it  /u/cut-it reddit.com/r/editors/comments/1cgbpjp/freeze/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgbpjp/freeze/</guid>
+      <pubDate>Mon, 29 Apr 2024 21:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid 链接/转码 - 值得在项目后期进行吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgaiwt/avid_linktranscode_worth_doing_it_later_in_the/</link>
+      <description><![CDATA[我是 Avid 新手，已获得一个 doco 项目。哎呀。我正在开发一个项目，刚刚了解了链接/转码。无论如何，所有镜头都已链接，而不是导入。但我想知道现在是否值得我将其转码为一种向前推进的类型，或者只是保留它？ 顺便说一句：我将从一开始就进行转码。 Crikey。 大部分镜头实际上是在磁带上拍摄的/不是超高分辨率（如果有帮助的话）。播放没问题。也许只转码高分辨率素材就值得？？？此编辑也将由在线编辑进行，我不知道应该如何准备以使其更容易。 欢迎任何提示！谢谢你！    由   提交 /u/chybizzle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgaiwt/avid_linktranscode_worth_doing_it_later_in_the/</guid>
+      <pubDate>Mon, 29 Apr 2024 21:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人用过 Krotos studio 吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cg7t57/anyone_using_krotos_studio/</link>
+      <description><![CDATA[有人使用 krotos 进行声音设计吗？  很想听听一些评论，看看是否值得。    由   提交 /u/Subylovin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cg7t57/anyone_using_krotos_studio/</guid>
+      <pubDate>Mon, 29 Apr 2024 19:21:42 GMT</pubDate>
+    </item>
     <item>
       <title>清晰链接已关闭</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
@@ -15,19 +64,12 @@
     <item>
       <title>您使用什么蓝牙耳机？</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</link>
-      <description><![CDATA[我目前使用拜亚动力 DT990 Pro，但我希望将来在家庭办公室编辑时切换到蓝牙。质量与DT990相当的蓝牙耳机有哪些？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
+      <description><![CDATA[我目前使用的是 Beyerdynamics DT990 Pro，但我希望将来在编辑时在家中办公室切换到蓝牙。 哪款蓝牙耳机在质量方面与 DT990 处于相似水平？    提交人    /u/Zeigerful   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</guid>
       <pubDate>Mon, 29 Apr 2024 17:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>用于对记录中的所有内容进行分类的人工智能工具？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg5ovf/ai_tools_for_categorizing_everything_in_a/</link>
-      <description><![CDATA[我有 100 多个小时的历史盒式磁带音频转录。涵盖广泛的主题。理想情况下，我正在寻找一种工具，可以提取所有声音片段并按主题将它们组织在带有时间码的文本文档中。这样的东西存在吗？ 我已经使用过相当多的 Descript，但不认为它有这些功能。  &amp; #32；由   提交 /u/tipsystatistic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg5ovf/ai_tools_for_categorizing_everything_in_a/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>要不要诚实</title>
+      <title>是或不是……诚实</title>
       <link>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</link>
       <description><![CDATA[当与导演/制片人或任何一般客户会面时，他们询问您对（镜头/剧本/电影等）的诚实意见，您如何处理这个问题？我确实认为诚实是最好的方法，但很多时候，当被问到这个问题时，你并没有建立关系，而且你不知道他们对内容的感受。有时他们会睁大眼睛看到它的缺陷，有时他们会认为它是一件杰作，但实际上它与杰作相去甚远。想法？    由   提交 /u/neederman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</guid>
@@ -36,12 +78,12 @@
     <item>
       <title>Avid MC 中的音频电平差异</title>
       <link>https://www.reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/</link>
-      <description><![CDATA[嘿编辑们，我有一个问题让我有点困惑。  设置：Mac 电脑线路输出/耳机输出到 Big Knob 混音器的通道 1  Avid MC 2023 Black Magic 4k Mini 输出到 Big 上的通道 2用于音频的旋钮混音器和用于图像的广播监视器 通道 1 和 2 在大旋钮混音器上设置为完全相同的级别/设置 大旋钮混音器到扬声器 &gt; 问题：音频输出是 Black Magic，与 Mac 的线路输出有很大不同。大概至少20dB。 Mac 的音频调到最大。  因此，如果我在 avid 中启用 HW/SW 按钮，那么它就会摆脱黑​​魔法，音频就会变得很热。但我关闭了 HW/SW 按钮，因此音频从 Mac 线路输出中出来，音频很低 任何输入都是有价值的。  谢谢！！   由   提交/u/okay-then08   /u/okay-then08  reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨，编辑们，我有一个问题让我有点困惑。  设置：Mac 电脑线路输出/耳机输出进入通道 1 进入 Big Knob 混音器  Avid MC 2023 Black Magic 4k Mini 输出进入 Big Knob 混音器上的通道 2 用于音频和广播监视器用于图片  Big Knob 混音器上的通道 1 和 2 都设置为完全相同的级别/设置 Big Knob 混音器到扬声器  问题：音频输出是 Black Magic，来自 Mac 的线路输出差别很大。 可能至少 20dB。 Mac 的音频被调到最大。  因此，如果我在 avid 中启用 HW/SW 按钮，那么它会从 black magic 中出来，音频会很热。但是我关闭了 HW/SW 按钮，因此音频从 Mac 线路输出，音频很低 任何输入都是有价值的。  谢谢！！    提交人    /u/okay-then08   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/</guid>
       <pubDate>Mon, 29 Apr 2024 16:02:41 GMT</pubDate>
     </item>
     <item>
-      <title>Lucidlink 中断？</title>
+      <title>Lucidlink 中断了吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</link>
       <description><![CDATA[今天早上还有其他人在访问 Lucidlink 时遇到问题吗？我的整个团队都无法访问。    由   提交 /u/Steeviesteve   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</guid>
@@ -64,51 +106,9 @@
     <item>
       <title>远程投球时显示参考</title>
       <link>https://www.reddit.com/r/editors/comments/1cftzvo/showing_reference_whilst_remote_pitching/</link>
-      <description><![CDATA[大家好！ 对于那些为工作创建套牌/治疗并以虚拟方式进行推销的人，您如何提供参考？您是否将其嵌入幻灯片中并要求客户在静音时播放它？或者你通过屏幕共享来播放它？您是否向他们发送单独的链接列表？或者有其他巧妙的方法。    由   提交/u/Horror_Box4385   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 对于那些为工作创建演示文稿/处理方案并在虚拟环境中进行推销的人，您如何呈现参考资料？您是否将其嵌入幻灯片中并要求客户在静音时在其一侧播放？还是通过屏幕共享播放？您是否向他们发送了单独的链接列表？或者任何其他巧妙的方法。     提交人    /u/Horror_Box4385   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cftzvo/showing_reference_whilst_remote_pitching/</guid>
       <pubDate>Mon, 29 Apr 2024 08:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>长宽比问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfse35/aspect_ratio_problems/</link>
-      <description><![CDATA[所以我最近下载了一些使用 ARRI、APPLE PRORES 4444XQ 以 24fps 拍摄的新素材。原始材质的分辨率为 4480 x 3096，因此它是一个“正方形”。长宽比。 我们希望在 AVID 中的 2:1 时间轴上使用这些文件。我们如何将其转换以消除这种挤压效应？ 谢谢！   由   提交/u/tomolade_HUN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfse35/aspect_ratio_problems/</guid>
-      <pubDate>Mon, 29 Apr 2024 06:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Media Composer 和信用卡到期</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfpy8x/media_composer_and_credit_card_expiration/</link>
-      <description><![CDATA[早在 2021/2022 年，我就设法获得了 MC 的永久许可证，我知道 Avid 从那以后就不再将 MC 作为除订阅。我的卡即将到期，我想知道如果我不在 Avid 帐户上更换它，是否会失去我的永久许可证？他们向我发送了一封电子邮件作为警告，但我不想给我一张新卡，因为我不打算购买其他任何东西或意外地因他们的新订阅模式而被收取费用。由于永久许可证不存在，不确定下一步应该做什么。谢谢！   由   提交 /u/SnakeuChan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfpy8x/media_composer_and_credit_card_expiration/</guid>
-      <pubDate>Mon, 29 Apr 2024 04:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blackmagic braw 在 Premiere Pro 中不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfkhxu/blackmagic_braw_not_working_in_premiere_pro/</link>
-      <description><![CDATA[我已经多次尝试直接从他们的网站卸载并重新安装 blackmagic raw 插件，但仍然无法将我的素材放入 Premiere Pro我也无法继续我正在进行的其他编辑。有我需要的特定版本吗？有什么提示/建议可以快速修复它吗？    由   提交 /u/Horror-Table-5753   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfkhxu/blackmagic_braw_not_working_in_premiere_pro/</guid>
-      <pubDate>Sun, 28 Apr 2024 23:32:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好书（非指南）可以让您成为更好的编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfia8o/what_are_some_great_books_not_guides_that_can/</link>
-      <description><![CDATA[我已经这样做很多年了，但我从来没有读过一本真正的书可以让我成为一个更好的编辑，所以我想知道就是这样。   由   提交/u/ghilliedUpStan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfia8o/what_are_some_great_books_not_guides_that_can/</guid>
-      <pubDate>Sun, 28 Apr 2024 21:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何真正匿名/伪装声音？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfesk3/how_to_actually_anonymizedisguise_a_voice/</link>
-      <description><![CDATA[我目前正在编辑一个需要多人完全匿名的大型项目。  互联网上绝对充满了垃圾，从“如何制作抖音语音”到到“你只需调高音调即可”。 某人不可能将声音逆向工程回原来的样子。  查看此示例。非常干净，但无法逆转。这正是我所需要的。 我需要使用 VST 吗？插件？ 这里一定有一些我忽略的东西。不可能这么难。  ​ 谢谢大家。  ​   由   提交 /u/Railionn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfesk3/how_to_actually_anonymizedisguise_a_voice/</guid>
-      <pubDate>Sun, 28 Apr 2024 19:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>首映音频通道噩梦与多机位序列 - 有帮助吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfdyy3/premiere_audio_channel_nightmares_with_multicam/</link>
-      <description><![CDATA[您好！我正在编辑一部学生电影，因为我是一个受虐狂，而且因为这是一部学生电影，他们不小心将每个镜头记录在 4 个单独的单声道剪辑中，我已将其合并到 4 轨多通道剪辑中；有时有 lavs，有时没有，有时吊杆位于轨道 1，有时位于 3 或 4。有时其他轨道正在记录静电或无线电干扰，有时它们是空的。 我有我一直在尝试找出序列和音频映射设置，以使其编辑工作量最少，并且还使我能够将所有同步剪辑转储到样片卷中以作为笔记。对任何意见持开放态度。理想的场景是：一个嵌套剪辑被拼接到时间线中，波形可见，并且如果我想将其发送到 protools 或只是使用 lav 或繁荣，则音频匹配或通道重新映射很容易且可能。通常，在故事片或更专业的叙事电影中，我将立体声混音视为多通道文件的前两个轨道，我使用“摄像机 1”作为多通道文件的前两个轨道。将所有其他轨道静音，并嵌套为 1 个立体声剪辑以进行全立体声编辑，这样我就不必担心单声道/立体声设置，并且编辑序列中的所有轨道都是相同的。不确定这是否是最好的方法。我有点犹豫是否要将所有音频导出为立体声文件，然后将它们与我习惯的 4 通道剪辑合并，因为我会将通道与静态或干扰混合在一起。 我在 Premiere 中了解到有关音频通道映射和多机位序列的一件令人恼火的事情：如果您制作一个用于同步的序列预设，其中选中所有框以将所有通道发送到子混合，那么当您使用该预设制作多机位序列时即使您使用“所有相机”，首映也会取消选中除第一个框之外的所有框。而不是“相机 1”在多机位创建窗口中。 我测试了各种序列和音频通道预设。一般来说，有时波形在拼接到时间线时会出现，有时不会，有时只是顶部未静音的轨道；有时我可以在剪辑拼接为 4 个轨道或 1 个嵌套剪辑之间切换，有时则不能；如果嵌套剪辑或非嵌套组中存在摄像机暂存音频，则拼合剪辑会删除外部音频剪辑；有时，我可以听到远处传来 Adob​​e 项目经理疯狂的笑声。 自动主持人编辑：每个音频片段均以 48000 Hz 的 24 位单声道录制，文件夹中包含四个单独的轨道扩展名.pjt。该项目采用最新版本的 Premiere (24.3)，音频为 32 位浮点数。它以 6k 红色原始格式拍摄，带有一个用于相机刮擦音频的单声道轨道。我正在 Windows 11 上进行编辑，在带有集成 AMD 显卡的华硕 zenbook 和带有 4070ti 和 i5 的台式机之间，在 NTFS 格式的 2tb sandisk Extreme Pro SSD 上进行编辑，（希望）可以在具有相同驱动器号的机器之间工作。   由   提交 /u/gptg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfdyy3/premiere_audio_channel_nightmares_with_multicam/</guid>
-      <pubDate>Sun, 28 Apr 2024 18:57:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
