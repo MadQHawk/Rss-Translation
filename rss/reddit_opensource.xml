@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 06:17:44 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 09:15:09 GMT</lastBuildDate>
     <item>
       <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
@@ -34,21 +34,21 @@
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>寻找免费的应用程序来转录音频文件</title>
+      <title>寻找免费应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一款可以免费转录音频文件的可靠应用程序。我尝试了几种方案，但它们要么对可以免费处理的音频长度有限制，要么准确性不尽如人意。我希望找到一款可以轻松处理较长音频文件的应用程序。 有人能推荐一些免费的转录软件或服务吗？这些软件或服务特别擅长处理各种口音和清晰的录音？如果它易于使用且不需要太多技术知识，那就更好了！ 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
       <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
     </item>
     <item>
       <title>最好的 Gboard 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</link>
-      <description><![CDATA[是否有支持滑动打字的开源键盘？ Florisboard 是我所知道的唯一一个，而且已经有一段时间没有更新了。   由   提交 /u/Steroid_Cyborg   [链接] [评论]]]></description>
+      <description><![CDATA[是否有支持滑动输入的开源键盘？Florisboard 是我所知道的唯一一款，而且已经有一段时间没有更新了。    提交人    /u/Steroid_Cyborg   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</guid>
       <pubDate>Mon, 29 Apr 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>对开源的威胁来自企业操纵</title>
+      <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
       <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
-      <description><![CDATA[您好，我最近加入了一个 discord 服务器，其目标是开发一个开源格斗游戏引擎。我想知道什么方法可以有效地熟悉该项目，以便成为一名高效的贡献者？    提交人    /u/AzureHierophant   [link] [评论]]]></description>
+      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
       <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
