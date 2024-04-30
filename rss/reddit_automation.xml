@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:17:29 GMT</lastBuildDate>
+    <item>
+      <title>付费，需要帮助向负载较重的服务器发送请求</title>
+      <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
+      <description><![CDATA[嘿，我需要有以高速率向服务器发送请求的经验的人，我有一个端点由于负载而变慢，我会希望有人帮助我优化流程，以便我可以在加载期间以最快的速度发送请求并获得响应。   由   提交 /u/FlumeTennisCourt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:11:57 GMT</pubDate>
+    </item>
     <item>
       <title>自动化将主题自动固定到 Pinterest？</title>
       <link>https://www.reddit.com/r/automation/comments/1cghata/automation_to_autopin_threads_to_pinterest/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>您实施的令您引以为傲的想法/改进是什么</title>
       <link>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</link>
-      <description><![CDATA[与主题基本相同，您实施了哪些让您感到自豪的自动化理念/流程，并且带来了一些积极的变化/改进     提交人    /u/Suspicious_Ad8214   [link] [comments]]]></description>
+      <description><![CDATA[与主题几乎相同，您实现的自动化想法/流程是您真正引以为豪的，并且带来了一些积极的变化/改进   由   提交 /u/Suspicious_Ad8214   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</guid>
       <pubDate>Mon, 29 Apr 2024 05:03:03 GMT</pubDate>
     </item>
@@ -48,14 +55,14 @@
       <pubDate>Sun, 28 Apr 2024 13:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
+      <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
       <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 11:10:04 GMT</pubDate>
     </item>
     <item>
-      <title>是时候淘汰“用户”这个词了</title>
+      <title>是时候废除“用户”这个词了</title>
       <link>https://www.reddit.com/r/automation/comments/1cf0y53/its_time_to_retire_the_term_user/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf0y53/its_time_to_retire_the_term_user/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>每天在 12 小时内自动处理 70,000 份手写患者记录</title>
       <link>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</link>
-      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产力提高了 70%，客户满意度为 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产率提高了 70%，客户满意度达到 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</guid>
       <pubDate>Fri, 26 Apr 2024 15:10:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我在谷歌上没有得到任何结果，所以我会在这里询问。我正在寻找一种本质上只是带有屏幕的光电眼/tof 传感器的工具。我喜欢做的是能够测量传送带上产品的前缘到前缘。理想情况下它也是可配置的，所以我可以导致坠落，或坠落坠落等。它看起来很简单，很有用，我不得不相信它存在，但我只是不知道它叫什么。有什么帮助吗？或者我只是疯了？   由   提交/u/hatsofftoeverything   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cdjjmk/tool_to_measure_time_gap_between_products_on_a/</guid>
       <pubDate>Fri, 26 Apr 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于气动原理图的问题。</title>
-      <link>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</link>
-      <description><![CDATA[     &lt; td&gt; 今天我对这些 Fesco 空气阀进行了相当多的学习，并且学到了很多东西。还有一些具体的事情我找不到太多信息，如果有人能帮助我那就太棒了。我不确定这个“12”是什么意思左上角的意思是。我知道它是一个 2 路制动装置，但是这 12 路是什么意思？我也不确定“我”是什么。位于制动装置上方。 （不知道它是 L,i 还是只是一条线。我假设它只是一条线。）   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</guid>
-      <pubDate>Fri, 26 Apr 2024 00:42:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
