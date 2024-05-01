@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 01 May 2024 15:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:17:00 GMT</lastBuildDate>
     <item>
       <title>很棒的法学硕士应用程序</title>
       <link>https://www.opensourceagenda.com/projects/awesome-llm-apps</link>
       <description><![CDATA[使用 OpenAI、Anthropic、Gemini 和开源模型的 RAG 的精彩 LLM 应用程序集合。&lt; /p&gt;]]></description>
       <guid>https://www.opensourceagenda.com/projects/awesome-llm-apps</guid>
-      <pubDate>Wed, 01 May 2024 15:13:55 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:17:00 GMT</pubDate>
     </item>
     <item>
       <title>咖啡服务员</title>
       <link>https://www.opensourceagenda.com/projects/fika-server</link>
       <description><![CDATA[服务器端更改以使多人游戏正常运行]]></description>
       <guid>https://www.opensourceagenda.com/projects/fika-server</guid>
-      <pubDate>Wed, 01 May 2024 15:13:54 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:59 GMT</pubDate>
     </item>
     <item>
-      <title>触控笔 扩散触控笔</title>
+      <title>触针 扩散触针</title>
       <link>https://www.opensourceagenda.com/projects/stylus-diffusion-stylus</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/stylus-diffusion-stylus</guid>
-      <pubDate>Wed, 01 May 2024 15:13:54 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:59 GMT</pubDate>
     </item>
     <item>
       <title>扩散试用训练器</title>
       <link>https://www.opensourceagenda.com/projects/diffusion-tryon-trainer</link>
       <description><![CDATA[Diffusion-Tryon-Trainer]]></description>
       <guid>https://www.opensourceagenda.com/projects/diffusion-tryon-trainer</guid>
-      <pubDate>Wed, 01 May 2024 15:13:54 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:59 GMT</pubDate>
     </item>
     <item>
-      <title>播云器</title>
+      <title>云播种者</title>
       <link>https://www.opensourceagenda.com/projects/cloudseeder</link>
       <description><![CDATA[一键安装按您的方式运行的互联网设备。将您的家庭计算机转变为主权且安全的云。]]></description>
       <guid>https://www.opensourceagenda.com/projects/cloudseeder</guid>
-      <pubDate>Wed, 01 May 2024 15:13:53 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:58 GMT</pubDate>
     </item>
     <item>
-      <title>使用 IBM Cognos 分析前 100 名韩剧数据</title>
+      <title>使用 IBM Cognos 进行 100 部热门韩剧数据分析</title>
       <link>https://www.opensourceagenda.com/projects/top-100-kdrama-data-analysis-using-ibm-cognos</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/top-100-kdrama-data-analysis-using-ibm-cognos</guid>
-      <pubDate>Wed, 01 May 2024 15:13:53 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:58 GMT</pubDate>
     </item>
     <item>
       <title>防锈底漆</title>
       <link>https://www.opensourceagenda.com/projects/rust-tracing-primer</link>
-      <description><![CDATA[Tracing 箱（Tokio 的 Rust 日志箱）的指南和说明。]]></description>
+      <description><![CDATA[Tokio 的 Rust 日志记录箱 Tracing 箱的指南和说明。]]></description>
       <guid>https://www.opensourceagenda.com/projects/rust-tracing-primer</guid>
-      <pubDate>Wed, 01 May 2024 15:13:53 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:58 GMT</pubDate>
     </item>
     <item>
       <title>巴斯多纳克斯艾拉格</title>
       <link>https://www.opensourceagenda.com/projects/basdonax-ai-rag</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/basdonax-ai-rag</guid>
-      <pubDate>Wed, 01 May 2024 15:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Styx11是什么</title>
-      <link>https://www.opensourceagenda.com/projects/styx11-whats</link>
-      <description><![CDATA[🌐终端翻译工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/styx11-whats</guid>
-      <pubDate>Wed, 01 May 2024 15:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动增值服务</title>
-      <link>https://www.opensourceagenda.com/projects/autovas</link>
-      <description><![CDATA[AutoVAS 是一种采用深度学习方法的自动化漏洞分析系统。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/autovas</guid>
-      <pubDate>Wed, 01 May 2024 15:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Checkmarx Github 操作</title>
-      <link>https://www.opensourceagenda.com/projects/checkmarx-github-action</link>
-      <description><![CDATA[Checkmarx 扫描 Github 操作]]></description>
-      <guid>https://www.opensourceagenda.com/projects/checkmarx-github-action</guid>
-      <pubDate>Wed, 01 May 2024 15:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>剑鱼</title>
-      <link>https://www.opensourceagenda.com/projects/rmraya-swordfish</link>
-      <description><![CDATA[基于开放标准的CAT（计算机辅助翻译）工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rmraya-swordfish</guid>
-      <pubDate>Wed, 01 May 2024 15:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Projz Renpy 翻译</title>
-      <link>https://www.opensourceagenda.com/projects/projz-renpy-translation</link>
-      <description><![CDATA[RenPy翻译 rpy翻译 RenPy机翻工具 - A translator for RenPy, renpy translation, rpy translation, renpy translator]]></description>
-      <guid>https://www.opensourceagenda.com/projects/projz-renpy-translation</guid>
-      <pubDate>Wed, 01 May 2024 15:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作猫</title>
-      <link>https://www.opensourceagenda.com/projects/opus-cat</link>
-      <description><![CDATA[OPUS-CAT 是一个软件集合，使 OPUS-MT 神经机器翻译模型成为可能在专业翻译中。 OPUS-CAT包括本地离线MT引擎和CAT工具插件集合。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/opus-cat</guid>
-      <pubDate>Wed, 01 May 2024 15:13:51 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:58 GMT</pubDate>
     </item>
     <item>
       <title>翻译5</title>
       <link>https://www.opensourceagenda.com/projects/translate5</link>
       <description><![CDATA[Translate5：开源翻译系统（于 2020 年 8 月 10 日在 github 上首次发布）]]></description>
       <guid>https://www.opensourceagenda.com/projects/translate5</guid>
-      <pubDate>Wed, 01 May 2024 15:13:51 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 18:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Styx11是什么</title>
+      <link>https://www.opensourceagenda.com/projects/styx11-whats</link>
+      <description><![CDATA[🌐终端翻译工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/styx11-whats</guid>
+      <pubDate>Wed, 01 May 2024 18:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动增值服务</title>
+      <link>https://www.opensourceagenda.com/projects/autovas</link>
+      <description><![CDATA[AutoVAS 是一种采用深度学习方法的自动化漏洞分析系统。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/autovas</guid>
+      <pubDate>Wed, 01 May 2024 18:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Checkmarx Github 操作</title>
+      <link>https://www.opensourceagenda.com/projects/checkmarx-github-action</link>
+      <description><![CDATA[Checkmarx 扫描 Github 操作]]></description>
+      <guid>https://www.opensourceagenda.com/projects/checkmarx-github-action</guid>
+      <pubDate>Wed, 01 May 2024 18:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>剑鱼</title>
+      <link>https://www.opensourceagenda.com/projects/rmraya-swordfish</link>
+      <description><![CDATA[基于开放标准的CAT（计算机辅助翻译）工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/rmraya-swordfish</guid>
+      <pubDate>Wed, 01 May 2024 18:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Projz Renpy 翻译</title>
+      <link>https://www.opensourceagenda.com/projects/projz-renpy-translation</link>
+      <description><![CDATA[RenPy翻译 rpy翻译 RenPy机翻工具 - A translator for RenPy, renpy translation, rpy translation, renpy translator]]></description>
+      <guid>https://www.opensourceagenda.com/projects/projz-renpy-translation</guid>
+      <pubDate>Wed, 01 May 2024 18:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作猫</title>
+      <link>https://www.opensourceagenda.com/projects/opus-cat</link>
+      <description><![CDATA[OPUS-CAT 是一个软件集合，使 OPUS-MT 神经机器翻译模型成为可能在专业翻译中。 OPUS-CAT包括本地离线MT引擎和CAT工具插件集合。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opus-cat</guid>
+      <pubDate>Wed, 01 May 2024 18:16:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

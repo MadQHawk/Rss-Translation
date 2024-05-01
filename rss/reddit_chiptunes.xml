@@ -3,10 +3,38 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Wed, 01 May 2024 15:13:18 GMT</lastBuildDate>
+    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Wed, 01 May 2024 18:16:25 GMT</lastBuildDate>
     <item>
-      <title>[Atari 8 位] 围绕 St. Germain 的“So Fute”创作的芯片音乐</title>
+      <title>在 Furnace Tracker 中混合和匹配声音芯片？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</link>
+      <description><![CDATA[我正在开发一个项目，向《星之卡比》音乐尤其是《梦境》系列致敬。我希望能够将 Gameboy 脉冲和波表通道与一些 snes 示例通道结合使用。通过浏览文档和基本的谷歌搜索，我还没有找到答案，但在我浏览手册的每一页或联系支持人员之前，我想问问你们是否知道如何做到这一点。我的猜测是，由于 Furnace 如此致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于卡比snes游戏总是保留3个声道用于音效，我只会使用5个声道，并且为了更干净的界面，希望消除未使用的声道。有办法做到这一点吗？   由   提交/u/knotalie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</guid>
+      <pubDate>Wed, 01 May 2024 17:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Contriver XTD 理解（24 分钟）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1chqjsf/contriver_xtd_understanding_24_mins/</link>
+      <description><![CDATA[        提交人    /u/bobthefrog003   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1chqjsf/contriver_xtd_understanding_24_mins/</guid>
+      <pubDate>Wed, 01 May 2024 16:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我根据旧的蓝精灵 GBA 游戏写的原创歌曲”（感谢反馈）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1chpa6f/original_song_i_wrote_based_off_that_old_smurfs/</link>
+      <description><![CDATA[       由   提交/u/Wasabitunes  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1chpa6f/original_song_i_wrote_based_off_that_old_smurfs/</guid>
+      <pubDate>Wed, 01 May 2024 15:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GINKO ULTRA 的 Wavehalo 仪式</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</link>
+      <description><![CDATA[      作曲/演奏/录制：GINKO ULTRA    由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</guid>
+      <pubDate>Wed, 01 May 2024 15:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Atari 8 位] 以 St. Germain 的《So Flute》为主题创作的芯片音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</link>
       <description><![CDATA[       由   提交/u/makarybrauner  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</guid>
@@ -22,7 +50,7 @@
     <item>
       <title>我开始从事受 Chiptune 启发的项目，名为 BitBeast。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chgmy7/chiptuneinspired_project_i_started_working_on/</link>
-      <description><![CDATA[       由   提交 /u/Sleepsession   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/Sleepsession   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chgmy7/chiptuneinspired_project_i_started_working_on/</guid>
       <pubDate>Wed, 01 May 2024 08:03:03 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由   提交/u/InnerMotionMusic  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cg1mya/mentos_commercial_song_in_famitracker_wip/</guid>
       <pubDate>Mon, 29 Apr 2024 15:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的声音 — Overheat (2024)、Nanoloop 2.8 + LSDJ</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cfytbr/feonao_overheat_2024_nanoloop_28_lsdj/</link>
-      <description><![CDATA[       由   提交/u/feonao   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cfytbr/feonao_overheat_2024_nanoloop_28_lsdj/</guid>
-      <pubDate>Mon, 29 Apr 2024 13:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使我的笔记本电脑扬声器上的三角波踢声听起来更响亮？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cfuh4y/how_do_i_make_my_triangle_wave_kicks_sound_louder/</link>
-      <description><![CDATA[所以，我刚刚使用 Magical 8bit 插件在 REAPER 中制作了一首 Chiptune Techno 歌曲，并使用了三角波作为底鼓。 它在我的耳机上听起来很棒，但是当我在笔记本电脑扬声器上播放它时，底鼓听起来根本听不到，即使是它自己。 那么，如何让三角波底鼓听起来更响亮？或者我应该切换到噪音来代替踢腿？   由   提交 /u/Walter_Powerbright   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cfuh4y/how_do_i_make_my_triangle_wave_kicks_sound_louder/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>诽谤</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cfj8hs/vilification/</link>
-      <description><![CDATA[     &lt; td&gt; 使用运行 Super Midi Pak 的超级任天堂和 SP-404 制作这首歌曲。   由   提交/u/33Feedbacks  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cfj8hs/vilification/</guid>
-      <pubDate>Sun, 28 Apr 2024 22:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于想要制作受 snes/mega 驱动器启发的芯片曲调的初学者有什么建议？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cfhpfs/recommendations_for_a_beginner_looking_to_make/</link>
-      <description><![CDATA[大家好，我从小就玩 snes 和 mega drive 游戏。我仍然会定期听 EWJ、战斧、大金刚等游戏的 OST。我是音乐新手，但我一直在开发自己的游戏，我想尝试制作一些符合我提到的 OST 精神的简单曲调。我最喜欢时髦、合成、旋律优美的芯片曲调。  您对创建符合此标准的曲调有什么建议吗？我说的是软件、snes/md 声音包，或者只是关于找到特定声音的技巧。  任何建议都将不胜感激，谢谢！😊    提交人    /u/Lambonaut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cfhpfs/recommendations_for_a_beginner_looking_to_make/</guid>
-      <pubDate>Sun, 28 Apr 2024 21:29:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
