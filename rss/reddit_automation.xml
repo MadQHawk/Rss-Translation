@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 01 May 2024 03:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:17:27 GMT</lastBuildDate>
     <item>
       <title>有人可以推荐一些自动化办公任务的具体教程吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>已付费，需要帮助向负载较重的服务器发送请求</title>
       <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
-      <description><![CDATA[嘿，我需要有以高速率向服务器发送请求的经验的人，我有一个端点由于负载而变慢，我会希望有人帮助我优化流程，以便我可以在加载期间以最快的速度发送请求并获得响应。   由   提交 /u/FlumeTennisCourt   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我需要一个有向服务器高速发送请求经验的人，我有一个端点由于负载而变慢，我希望有人帮助我优化流程，以便我可以在加载时间内以最快的时间发送请求并获得响应。    提交人    /u/FlumeTennisCourt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
       <pubDate>Tue, 30 Apr 2024 15:11:57 GMT</pubDate>
     </item>
     <item>
       <title>自动化将主题自动固定到 Pinterest？</title>
       <link>https://www.reddit.com/r/automation/comments/1cghata/automation_to_autopin_threads_to_pinterest/</link>
-      <description><![CDATA[您对如何设置自动化以自动固定我在 Pinterest 上发布的新帖子有什么想法吗？ Pinterest 有这是一个对 Instagram 图片执行此操作的原生功能，它确实帮助我的流量增长（每月超过 10 万次观看次数！）我很乐意对线程执行同样的操作。这会更复杂，因为 Instagram 有图像，而线程只有文本。我什至不确定这是否可能，但我很高兴你的天才想法让我大吃一惊！   由   提交 /u/Different_Sand3459   [链接] [评论]]]></description>
+      <description><![CDATA[您对如何设置自动化以自动将我发布的新帖子固定到 Pinterest 有什么想法吗？ Pinterest 有一个原生功能可以对 Instagram 图片执行此操作，它确实帮助我的流量增长（每月 10 万次以上浏览量！）我很想对帖子做同样的事情。这会更复杂，因为 Instagram 有图片，而帖子只有文本。我甚至不确定这是否可行，但我很想被你的天才想法所震撼！    提交人    /u/Different_Sand3459   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cghata/automation_to_autopin_threads_to_pinterest/</guid>
       <pubDate>Tue, 30 Apr 2024 02:05:08 GMT</pubDate>
     </item>
@@ -43,12 +43,12 @@
     <item>
       <title>预约今年剩余时间的全科医生。</title>
       <link>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</link>
-      <description><![CDATA[你好， 我住在欧盟。  所以，长话短说 - 当我需要我的全科医生时，她永远不会出现（30 天内）。她有 10,000 名患者，这很荒谬，因为我每个月都要支付相当一部分的医疗费用。 上周，我的背部出现了严重的问题，好几天都不想消失。但在我去看全科医生之前，我不能（免费）去看任何专科医生。我不能去急诊室，那里的人快要死了，并告诉他们我的背痛。  所以我想出了一个计划，在今年剩下的时间里每天都预约，每天早上不需要的时候取消。我希望有人注意到，因为这将是我对这个破碎系统的小小的抗议。  无论如何，我无法取消它，因为他们的预订系统不可用，而且我无法录制鼠标宏，因为月份和日期不同，我必须点击不同的区域每次。所以我正在寻找如何实现这一目标的想法。  P.S.我在自动化方面的经验几乎为0。   由   提交/u/Dragonoidl337   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我住在欧盟。 长话短说 - 当我需要我的全科医生时，她从来都无法提供服务（30 天内）。她有 10,000 名患者，这太荒谬了，因为我每月要为医疗保健支付相当一部分费用。 上周，我的背部出现了严重的问题，几天都不想好转。但在去看全科医生之前，我不能免费拜访任何专家。我也不能去急诊室，那里的人几乎都快死了，我告诉他们我的背疼。 所以我想出了一个计划，在今年余下的时间里每天都预约一次，然后在我不需要的时候每天早上取消预约。我希望有人注意到这一点，因为这将是我对这个有缺陷的系统的小小抗议。  无论如何，我无法将其删除，因为他们的预订系统不可用，我无法录制鼠标宏，因为月份和日期不同，每次我都必须单击不同的区域。所以我正在寻找有关如何实现此目标的想法。  附言：我在自动化方面几乎没有经验。    提交人    /u/Dragonoidl337   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</guid>
       <pubDate>Mon, 29 Apr 2024 17:14:53 GMT</pubDate>
     </item>
     <item>
-      <title>Paperlib：一款开源 AI 研究论文管理工具</title>
+      <title>Paperlib：开源人工智能研究论文管理工具</title>
       <link>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</link>
       <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</guid>
@@ -62,21 +62,21 @@
       <pubDate>Mon, 29 Apr 2024 05:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
+      <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</link>
       <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  或者是否有更简单的方法或许可以用更少的步骤来实现自动化？   由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 13:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
+      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
-      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
+      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （30 个问题，量表评级为 1-10） 将每个结果添加到现有 Excel 工作表中预定义的列单元格中，以便现有图表使用表单编号进行更新。 使用 pdf .co 等工具生成 Excel 图表的 pdf 通过电子邮件将其发送给填写 JotForm 表单的用户。     提交人    /u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 11:10:04 GMT</pubDate>
     </item>
     <item>
-      <title>是时候废除“用户”这个词了</title>
+      <title>是时候淘汰“用户”这个词了</title>
       <link>https://www.reddit.com/r/automation/comments/1cf0y53/its_time_to_retire_the_term_user/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf0y53/its_time_to_retire_the_term_user/</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>CRM太令人沮丧了！帮助程序</title>
       <link>https://www.reddit.com/r/automation/comments/1ceaom6/crm_is_so_frustrating_helppp/</link>
-      <description><![CDATA[我作为销售代表加入了一家新公司，这是我第一次使用 CRM，该软件非常耗时且令人沮丧！ ！大家是怎么处理的？！ 如何快速学习平台？我已经浏览了视频和其他内容，但仍然无法掌握它。 （我们使用 Salesforce）   由   提交/u/anony705  [链接] [评论]]]></description>
+      <description><![CDATA[我加入了一家新公司担任销售代表，这是我第一次使用 CRM，该软件非常耗时且令人沮丧！！你们是怎么处理的？！ 我如何快速学习该平台？我看过视频和其他东西，但还是无法掌握它😭😭😭 有什么解决办法吗？（我们使用 Salesforce）    提交人    /u/anony705   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ceaom6/crm_is_so_frustrating_helppp/</guid>
       <pubDate>Sat, 27 Apr 2024 09:42:32 GMT</pubDate>
     </item>
     <item>
       <title>需要流程图建模方面的帮助</title>
       <link>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</link>
-      <description><![CDATA[我正在寻找可以根据研讨会期间的讨论自动创建流程图的工具。由于目前还没有与 Microsoft Visio 相当的 CoPilot，因此我需要一个可以简化项目复杂流程映射的解决方案。您能推荐一些可能对此有所帮助的工具吗？    由   提交/u/leodatavinci   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找能够自动根据研讨会期间的讨论创建流程图的工具。由于目前还没有与 Microsoft Visio 等效的 CoPilot，我需要一种能够简化项目复杂流程映射的解决方案。您能推荐一些可能对此有帮助的工具吗？     提交人    /u/leodatavinci   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</guid>
       <pubDate>Sat, 27 Apr 2024 05:36:31 GMT</pubDate>
     </item>

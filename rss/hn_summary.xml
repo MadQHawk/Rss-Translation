@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 01 May 2024 03:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:13:44 GMT</lastBuildDate>
     <item>
-      <title>[媒体] IPv6rs 的 Cloud Seeder 是一个一键式服务器设备向导，旨在使自助 [...]</title>
-      <link>https://t.me/hn_summary/87314</link>
-      <description><![CDATA[显示 HN：Cloud Seeder - 在您的家用电脑上单击即可自行托管 - Golang
-IPv6rs 的 Cloud Seeder 是一个一键式服务器设备向导，旨在让每个人都能使用自托管。它通过将胖容器部署为独立的服务器设备来简化设置过程，从而脱颖而出。该项目解决了那些认为自托管太难或缺乏 IP 地址的人所面临的挑战。Cloud Seeder 支持各种服务器设备和架构，提供简单的图形用户界面以方便设置。它使用 GoLang 和 Fyne 构建，提供跨平台兼容性并依赖于 Podman。该项​​目强调透明度、安全性以及容器技术相对于传统虚拟机的优势。]]></description>
-      <guid>https://t.me/hn_summary/87314</guid>
-      <pubDate>Wed, 01 May 2024 03:15:05 GMT</pubDate>
+      <title>[媒体]大家好！</title>
+      <link>https://t.me/hn_summary/87341</link>
+      <description><![CDATA[微软卡斯卡迪亚代码2404.23
+嘿大家！我们很高兴地宣布最新版本的卡斯卡迪亚代码 2404.23，具有令人兴奋的新功能，如象限、六分仪、八分仪、大字体、更多传统计算符号和书呆子字体。八分体在终端中提供高分辨率图形，而大字体则允许创建大文本。 Nerd Fonts 的添加为使用 Oh My Posh 自定义提示打开了一个可能性的世界。非常感谢 Philippe Majerus、Aaron Bell 和 Fini 的贡献。请继续关注更多更新，并随时参与 Cascadia Code 存储库上的开源项目。快乐编码！ 😊]]></description>
+      <guid>https://t.me/hn_summary/87341</guid>
+      <pubDate>Wed, 01 May 2024 06:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Google Charts 中的桑基图是一种强大的可视化工具，可用于显示流程 [...]</title>
-      <link>https://t.me/hn_summary/87313</link>
-      <description><![CDATA[Google 图表中的桑基图
-Google 图表中的桑基图是一个强大的可视化工具，用于显示不同值之间的流动。这些图表以创建蒸汽机效率图的桑基船长的名字命名，使用节点和链接来表示连接。 Google Charts 允许用户轻松创建这些图表，并能够自定义节点和链接的颜色。该网站提供了用于创建简单和多级桑基图的示例和代码片段。然而，存在争议，因为该图表可能会在未来版本中进行修订，并且它们在旧版本的 Internet Explorer 中不可用。 （根据故事文本的 42% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87313</guid>
-      <pubDate>Wed, 01 May 2024 03:14:01 GMT</pubDate>
+      <title>[媒体] 网页内容警告用户 OpenStreetMap 中的 Pokémon Go 中添加了假海滩。</title>
+      <link>https://t.me/hn_summary/87340</link>
+      <description><![CDATA[谨防假海滩（Pokémon Go）
+该网页内容警告用户 OpenStreetMap 中的 Pokémon Go 中添加了假海滩。 Niantic 引入了一种仅在海滩中生成的新神奇宝贝，从而导致潜在的虚假添加。建议用户使用 OSMcha 或 Overpass 查询等过滤器检查当地是否有假海滩。经验丰富的地图绘制者还添加了假海滩，这促使需要进行彻底审查并可能恢复更改。社区讨论处理虚假添加的策略，包括恢复明显错误的编辑以及向 DWG 报告屡犯者。一些用户怀疑新帐户是由同一个人创建的，并添加了虚假功能。 （根据 86% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87340</guid>
+      <pubDate>Wed, 01 May 2024 06:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 电网面临着需求波动的挑战，通常通过燃烧 [...]</title>
-      <link>https://t.me/hn_summary/87312</link>
-      <description><![CDATA[虚拟电厂和软件
-电网面临着需求波动的挑战，通常通过在调峰发电厂燃烧化石燃料来应对。虚拟发电厂 (VPP) 聚合太阳能电池板和电池等分布式能源 (DER)，以减少高峰负荷期间对肮脏燃料的依赖。 VPP 使用软件来控制和管理 DER，为电网和客户提供服务。 Tesla 和 Lunar Gridshare 使用复杂的软件堆栈为其 VPP 提供支持。然而，该行业缺乏通信协议和预测工具的标准化。通过解决这些问题并启用虚拟升级的市场竞价，虚拟发电厂可以在未来的能源格局中发挥至关重要的作用。]]></description>
-      <guid>https://t.me/hn_summary/87312</guid>
-      <pubDate>Wed, 01 May 2024 03:12:57 GMT</pubDate>
+      <title>[媒体]Roger Ver，一位被称为“比特币耶稣”的早期比特币投资者，被指控犯有多项罪行 [...]</title>
+      <link>https://t.me/hn_summary/87339</link>
+      <description><![CDATA[早期比特币投资者 Roger Ver 被指控税务欺诈&lt; br /&gt;
+被称为“比特币耶稣”的早期比特币投资者罗杰·维尔 (Roger Ver) 被指控邮件欺诈、逃税和提交虚假纳税申报表。据称，Ver 为自己和他的公司购买了比特币，但在放弃美国公民身份后未能向美国国税局准确报告这些比特币。他被指控给国税局造成至少 4800 万美元的损失。尽管Ver已移居国外，但法律要求他对某些分配进行报告和纳税，据称他隐瞒了这些分配。此案正在由美国国税局刑事调查网络犯罪部门调查，Ver 面临被引渡到美国接受审判。]]></description>
+      <guid>https://t.me/hn_summary/87339</guid>
+      <pubDate>Wed, 01 May 2024 05:41:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯州一家奶牛场超过一半的猫在饮用来自禽类的生奶后死亡[...]</title>
-      <link>https://t.me/hn_summary/87311</link>
-      <description><![CDATA[超过一半的猫因饮用禽流感生奶而死亡-受感染的奶牛
-德克萨斯州一家奶牛场的一半以上的猫在饮用感染禽流感的奶牛的生奶后死亡，凸显了该病毒对养牛业的影响。疾病预防控制中心报告称，猫体内的病毒水平很高，出现严重的全身感染。虽然牛大多已康复，但猫很容易感染 H5N1。 FDA 在五分之一的牛奶样本中发现了 H5N1，但确信巴氏灭菌可以杀死该病毒。 CDC 为兽医提供的新指南此前曾将猫与 H5N1 病毒联系起来。奶牛场爆发疫情后，当局正在对碎牛肉进行 H5N1 病毒检测，结果尚未确定。正在密切监测该病毒对奶牛群的影响。]]></description>
-      <guid>https://t.me/hn_summary/87311</guid>
-      <pubDate>Wed, 01 May 2024 03:11:53 GMT</pubDate>
+      <title>[媒体]Dream-HTML 是一个允许生成 HTML、SVG 和 MathML 标记的库 [...]</title>
+      <link>https://t.me/hn_summary/87338</link>
+      <description><![CDATA[Dream-HTML – 渲染 HTML、SVG、MathML、Htmx 标记OCaml
+Dream-HTML 是一个库，允许使用 Dream 从 OCaml 后端服务器生成 HTML、SVG 和 MathML 标记。它旨在提供 TyXML 和 Dream 的 eml 的更用户友好的替代方案，为创建 HTML 模板提供更简单的语法。该项目包含几乎所有标准 HTML 元素和属性，同时省略非标准或已弃用的元素和属性。它还支持开箱即用的 htmx 属性。 Dream-HTML 通过提供更直观的方式来生成 HTML 标记以及提供与 Dream 的 CSRF 令牌生成的集成而与众不同。它还通过转义属性和文本值来确保安全性。]]></description>
+      <guid>https://t.me/hn_summary/87338</guid>
+      <pubDate>Wed, 01 May 2024 05:38:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项研究中，我们讨论了为火车构建大型日语网络语料库的过程[...]</title>
-      <link>https://t.me/hn_summary/87310</link>
-      <description><![CDATA[为大型语言模型构建大型日语网络语料库 
-在本研究中，我们讨论了构建大型日语网络语料库以训练大型语言模型的过程。我们从各个网站和社交媒体平台收集数据，以创建多样化且全面的数据集。我们的语料库包含广泛的主题和写作风格，以确保语言模型在各种应用中的有效性。我们的语料库的规模和质量使其成为从事日语自然语言处理任务的研究人员和开发人员的宝贵资源。该项目强调了数据收集和预处理在构建强大的语言模型中的重要性。]]></description>
-      <guid>https://t.me/hn_summary/87310</guid>
-      <pubDate>Wed, 01 May 2024 03:10:49 GMT</pubDate>
+      <title>[媒体]在这项开创性的研究中，研究人员探索了负质量激子的概念[...]</title>
+      <link>https://t.me/hn_summary/87337</link>
+      <description><![CDATA[光-物质耦合半导体诱发的负质量激子极化子
+在这项开创性的研究中，研究人员探索了半导体中光与物质耦合引起的负质量激子极化激元的概念。通过引入一种非厄米哈密顿量来解释腔光子和激子之间的相干和耗散耦合，该团队发现了异常色散行为，该行为导致激子极化子色散中的能级吸引和负质量区域。这种意想不到的现象，即质量在反演峰值附近变成负值，挑战了传统的理解，并为操纵光与物质相互作用开辟了新的可能性。该研究揭示了激子极化子的复杂动力学，并为光子学和量子技术的创新应用铺平了道路。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87337</guid>
+      <pubDate>Wed, 01 May 2024 05:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>看看这个在技术社区掀起波澜的新开源图像抠图应用程序。</title>
-      <link>https://t.me/hn_summary/87309</link>
-      <description><![CDATA[显示 HN：开源图像抠图应用&lt; br /&gt;
-看看这个在技术社区掀起波澜的新开源图像抠图应用程序。凭借跨平台兼容性和完全本地运行的能力，该工具非常适合那些希望在不依赖云服务的情况下轻松编辑图像的人。该应用程序的独特之处在于它支持多种人工智能模型，为用户提供了一系列选项来实现完美的图像抠图结果。请访问该网站亲自尝试一下，看看这个创新工具的强大功能。]]></description>
-      <guid>https://t.me/hn_summary/87309</guid>
-      <pubDate>Wed, 01 May 2024 03:09:45 GMT</pubDate>
+      <title>[媒体] 标题：150 倍 PGVector 加速</title>
+      <link>https://t.me/hn_summary/87336</link>
+      <description><![CDATA[150 倍 PGVector 加速
+标题： 150 倍 PGVector 加速
+
+在 jkatz05.com 上的这篇“年度回顾”帖子中，我深入研究了 pgvector 令人印象深刻的性能改进，特别感谢 Andrew Kane。突出显示 0.5.0 和 0.7.0 版本之间的索引构建时间显着加快了 150 倍，这是通过“二进制量化”方法实现的。虽然已经发布了一些竞争基准，但公平地定位技术并承认需要改进的领域至关重要。透明的测试方法以及与之前的 pgvector 版本的比较展示了该项目的增长和潜力。从召回率到延迟和吞吐量，pgvector 不断发展并在向量相似性搜索领域给人留下了深刻的印象。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87336</guid>
+      <pubDate>Wed, 01 May 2024 05:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>LANANA 是 Linux 命名空间分配的权威机构，确保更好的互操作性 [...]</title>
-      <link>https://t.me/hn_summary/87308</link>
-      <description><![CDATA[Linux 名称和号码分配机构
-LANANA 是 Linux 命名空间分配的权威机构，可确保驱动程序和应用程序更好的互操作性和可用性。 LANANA 由 Jeff Licquia 维护，旨在通过用户友好的注册服务防止命名空间冲突。虽然已发布的作业可在网站上找到，但可能还有其他作业尚未公开。这项独特的服务对于 Linux 社区的蓬勃发展至关重要。]]></description>
-      <guid>https://t.me/hn_summary/87308</guid>
-      <pubDate>Wed, 01 May 2024 02:41:34 GMT</pubDate>
+      <title>[媒体]“粪便流程图”是一张技术图，显示排泄物如何通过 [...]</title>
+      <link>https://t.me/hn_summary/87335</link>
+      <description><![CDATA[狗屎流程图
+“粪便流程图”是一张技术图，显示排泄物如何通过一个位置，重点关注废物处理和处置。该工具最初由世界银行的水和卫生项目开发，用于发展中国家应对卫生挑战。已发布 240 多份报告，重点关注南亚和非洲。该图简化了有关排泄物管理的对话，从而实现有效的资源分配。这种独特的方法提供了污水流量的可视化表示，强调了不断发展的城市地区改进卫生策略的必要性。]]></description>
+      <guid>https://t.me/hn_summary/87335</guid>
+      <pubDate>Wed, 01 May 2024 04:56:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果将推出 Safari 18 以及新操作系统，其中包含人工智能工具 [...]</title>
-      <link>https://t.me/hn_summary/87307</link>
-      <description><![CDATA[Apple 将与新操作系统一起推出支持人工智能的 Safari
-苹果将​​与新操作系统一起推出 Safari 18，其中包括智能搜索和网页橡皮擦等人工智能工具。新的 Safari 菜单将整合控件以方便访问，统一 iPadOS 和 macOS UI 范例。此外，Apple 正在为 2025 年开发强大的视觉搜索功能。这些增强功能使 Safari 能够在人工智能领域与竞争对手抗衡。虽然这些功能正在测试中，但并非所有功能都能发布。苹果对人工智能的关注显而易见，更多功能预计将在 6 月 10 日的 WWDC 上随 iOS 18 和 macOS 15 一起亮相。]]></description>
-      <guid>https://t.me/hn_summary/87307</guid>
-      <pubDate>Wed, 01 May 2024 02:38:30 GMT</pubDate>
+      <title>[媒体]像麦当劳这样的大品牌警告说，低收入消费者开始崩溃[...]</title>
+      <link>https://t.me/hn_summary/87334</link>
+      <description><![CDATA[麦当劳和其他大品牌警告说，低收入消费者开始破解
+麦当劳等大品牌警告说，低收入消费者在通货膨胀的压力下开始崩溃。尽管价格增长略有放缓，但消费者仍感到手头紧缩，钱包紧缩。这导致消费者信心下降和消费习惯发生转变。 3M 和 Newell Brands 等公司正感受到通货膨胀的影响，而高露洁棕榄和可口可乐等公司则有所缓解。持续的通货膨胀斗争正在影响企业和消费者，创造一个充满挑战的经济环境。]]></description>
+      <guid>https://t.me/hn_summary/87334</guid>
+      <pubDate>Wed, 01 May 2024 04:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个项目是一个简单的留言板和显示系统，使用 Bash 脚本创建 [...]</title>
-      <link>https://t.me/hn_summary/87306</link>
-      <description><![CDATA[显示 HN：让人想起早期互联网的留言板（我认为） 
-该项目是一个使用 Bash 脚本和 Docker 容器创建的简单消息板和显示系统。它包括消息服务器脚本、Web 服务器脚本和备份脚本。用户可以向服务器发送消息并通过 Web 界面查看它们。该项目允许自定义端口、文件路径、页眉和页脚文本。还执行消息的每日备份。该项目旨在重现早期互联网留言板的感觉，并通过使用 Bash 脚本和 Docker 容器来轻松设置和管理，从而使自己与众不同。]]></description>
-      <guid>https://t.me/hn_summary/87306</guid>
-      <pubDate>Wed, 01 May 2024 02:27:23 GMT</pubDate>
+      <title>[媒体]工程师 Adam Majmudar 在短短两周内从头开始成功构建了 GPU，sh [...]</title>
+      <link>https://t.me/hn_summary/87333</link>
+      <description><![CDATA[工程师在两周内“从零开始构建 GPU”
+工程师 Adam Majmudar 仅用两周时间就成功从零开始构建了 GPU，并在 Twitter 上展示了他的历程。尽管在 GPU 设计过程中面临挑战，但 Majmudar 专注于通用并行计算功能，并编写了矩阵数学内核来展示 GPU 在图形和机器学习任务中的功能。在 George Hotz 的指导下，Majmudar 克服了障碍，并通过 OpenLane EDA 软件成功验证了他的 GPU 设计。虽然无法与顶级显卡相提并论，但 Majmudar 的自制 GPU 是一项了不起的成就，并将很快通过 Tiny Tapeout 7 成为实体芯片。]]></description>
+      <guid>https://t.me/hn_summary/87333</guid>
+      <pubDate>Wed, 01 May 2024 04:53:48 GMT</pubDate>
     </item>
     <item>
-      <title>澳航乘客对该航空公司应用程序的数据泄露感到震惊，该泄露允许他们访问 [...]</title>
-      <link>https://t.me/hn_summary/87305</link>
-      <description><![CDATA[澳洲航空应用程序数据泄露允许客户访问陌生人的预订详细信息
-澳洲航空的客户对该航空公司应用程序中的数据泄露感到震惊，该应用程序允许他们访问陌生人的预订详细信息。用户报告说看到了不正确的帐户信息，包括未知人员的登机牌和积分。该漏洞甚至允许用户以其他人的名义更换座位、取消航班或预订新航班。一些客户对其个人信息的安全表示担忧。澳洲航空正在调查该问题，并建议客户注销并重新登录其帐户。该航空公司对由此造成的任何不便表示歉意，并警告乘客在此期间警惕社交媒体诈骗。]]></description>
-      <guid>https://t.me/hn_summary/87305</guid>
-      <pubDate>Wed, 01 May 2024 02:23:18 GMT</pubDate>
+      <title>在我即将迎来 73 岁生日之际，我向大家分享 101 条我希望早点知道的新建议。</title>
+      <link>https://t.me/hn_summary/87332</link>
+      <description><![CDATA[凯文·凯利：101 条额外建议
+在我即将迎来 73 岁生日之际，我向大家分享 101 条我希望早点知道的新建议。这些技巧涵盖了广泛的主题，从拥抱你喜欢的事情到投资自己。一个建议是通过移除而不是添加东西来让房间变得奢华。另一种建议是在你的父母还活着的时候采访他们，以了解一些令人惊奇的事情。我还建议尝试用你喜欢的东西来定义自己，而不是你讨厌的东西。这些建议旨在激励和指导您的人生旅程。 （根据 73% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87332</guid>
+      <pubDate>Wed, 01 May 2024 04:52:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
