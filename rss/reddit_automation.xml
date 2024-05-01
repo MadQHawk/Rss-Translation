@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:57:18 GMT</lastBuildDate>
+    <item>
+      <title>有人可以推荐一些自动化办公任务的具体教程吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</link>
+      <description><![CDATA[我迫切需要一些教程来帮助我开始自动化办公任务   由   提交/u/DepthInternational78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</guid>
+      <pubDate>Tue, 30 Apr 2024 22:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allen Bradley PLC 软件</title>
+      <link>https://www.reddit.com/r/automation/comments/1ch4f5x/allen_bradley_plc_software/</link>
+      <description><![CDATA[我和一位同事最近各购买了一台 Allen Bradley PLC。我们都想尝试自己动手学习编程，但没有 1000 美元花在软件上。有任何兼容的免费替代品吗？   由   提交 /u/Fearless-Zebra-2543   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ch4f5x/allen_bradley_plc_software/</guid>
+      <pubDate>Tue, 30 Apr 2024 21:30:27 GMT</pubDate>
+    </item>
     <item>
       <title>已付费，需要帮助向负载较重的服务器发送请求</title>
       <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
@@ -13,16 +27,16 @@
       <pubDate>Tue, 30 Apr 2024 15:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>自动化将主题自动固定到 Pinterest 吗？</title>
+      <title>自动化将主题自动固定到 Pinterest？</title>
       <link>https://www.reddit.com/r/automation/comments/1cghata/automation_to_autopin_threads_to_pinterest/</link>
-      <description><![CDATA[您对如何设置自动化以自动固定我在 Pinterest 上发布的新帖子有什么想法吗？ Pinterest 有这是一个对 Instagram 图片执行此操作的原生功能，它确实帮助我的流量增长（每月超过 10 万次观看次数！）我很乐意对线程执行同样的操作。这会更复杂，因为 Instagram 有图像，而线程只有文本。我什至不确定这是否可能，但我很高兴你的天才想法让我大吃一惊！   由   提交 /u/Different_Sand3459   [链接] [评论]]]></description>
+      <description><![CDATA[您对如何设置自动化以自动将我发布的新帖子固定到 Pinterest 有什么想法吗？ Pinterest 有一个原生功能可以对 Instagram 图片执行此操作，它确实帮助我的流量增长（每月 10 万次以上浏览量！）我很想对帖子做同样的事情。这会更复杂，因为 Instagram 有图片，而帖子只有文本。我甚至不确定这是否可行，但我很想被你的天才想法所震撼！    提交人    /u/Different_Sand3459   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cghata/automation_to_autopin_threads_to_pinterest/</guid>
       <pubDate>Tue, 30 Apr 2024 02:05:08 GMT</pubDate>
     </item>
     <item>
       <title>自主烹饪机器人</title>
       <link>https://www.reddit.com/r/automation/comments/1cg78lp/autonomous_cooking_robot/</link>
-      <description><![CDATA[      与您分享我一直在从事的一个项目 - 一个完全自主的食品烹饪机器人，它可以从头到尾处理几乎任何一锅（未来有可能有更多选择）食谱。这款机器人有潜力成为家庭厨师和有抱负的厨师的游戏规则改变者。 以下是它可以处理的主要功能：  自动切碎、研磨、并准备好所有原料（蓝色附件） 清洗、蒸、煮、煎、慢煮食物（带有绿色支架的紫色装置） 精确测量原料并按照食谱进行烹饪a T 恤 完成后清洁所有锅碗瓢盆和器皿（红色 - 迷你洗碗机附件） 为干湿食材提供充足的存储空间，并可冷藏 &lt; /ul&gt; 需要零人际互动 - 只需计划一周的膳食，加载原料，然后让机器人做它的事情。它可以 24/7 烹制早餐、午餐和晚餐。 该机器人使用 XY 龙门系统和 3 轴机械臂（黄色）以及各种附件（白色盒子连接到左）处理烹饪过程的每一步。它几乎可以处理任何一锅饭，从汤和炖菜到咖喱和砂锅菜。 主锅也可以更换为其他附件，如煎锅、空气炸锅、烤箱或炒锅，从而允许实现更多烹饪多功能性。或者，可能会有包含多个附件的更大版本。 所以，这是一个大问题 - 您会对这样的自主烹饪机器人感兴趣吗？想象一下，带有所示附件的一锅版本的起价为 5,000-8000 美元，带有多种烹饪选项的较大型号的起价为 12,000-15,000 美元。 我真的很想听听您的想法和反馈。您认为这个机器人会改变厨房的游戏规则吗？您希望添加或改进哪些功能？请在评论中告诉我！  https://preview.redd.it/zou32c3c6hxc1.png?width=1237&amp;format=png&amp;auto=webp&amp;s=5e0fa03fd263f5d155c7ee35ca28bba63f17783f https://preview.redd.it/jsepwb3c6hxc1.png?width=1269&amp;format=png&amp;放大器;自动= webp&amp;s=2a6c92f17fdc13d0a092b020815c63d2d2e9b657 https://preview.redd.it/2g5ddc3c6hxc1.png?width=1282&amp;format=png&amp;auto=webp&amp;s=577c99e7717024afbf0b2c0838d65f05bdd80ccc   由   提交 /u/AutoFoodBot   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      与您分享我一直在做的一个项目 - 一个完全自主的食物烹饪机器人，它可以从头到尾处理几乎任何一锅菜谱（未来可能会有更多选择）。这款机器人有可能改变家庭厨师和有抱负的厨师的职业规则。 以下是它可以处理的主要功能：  自动切碎、研磨和准备所有食材（蓝色附件） 清洗、蒸、煮、煎炸和慢煮食物（带绿色支架的紫色装置） 精确测量食材并严格遵循食谱 完成后清洗所有锅、盘和餐具（红色 - 迷你洗碗机附件） 提供充足的干湿食材储存空间，并具有冷藏功能  无需任何人为干预 - 只需计划一周的饭菜，装入食材，然后让机器人完成它的工作。它可以全天候烹饪早餐、午餐和晚餐。 该机器人结合使用 XY 龙门系统和 3 轴机械臂（黄色）以及各种附件（左侧白色框）来处理烹饪过程的每个步骤。它几乎可以处理任何一锅饭，从汤和炖菜到咖喱和砂锅菜。 主锅也可以换成其他附件，如扒炉、空气炸锅、烤箱或炒锅，从而实现更多的烹饪多功能性。或者，也可以有一个包含多个附件的更大版本。 所以，这是一个大问题 - 您对这样的自动烹饪机器人感兴趣吗？想象一下，带有所示附件的一锅版本起价为 5,000-8000 美元，而具有多种烹饪选项的较大型号起价为 12,000-15,000 美元。 我真的很想听听您的想法和反馈。您认为这款机器人会改变厨房格局吗？您希望添加或改进哪些功能？请在评论中告诉我！ https://preview.redd.it/zou32c3c6hxc1.png?width=1237&amp;format=png&amp;auto=webp&amp;s=5e0fa03fd263f5d155c7ee35ca28bba63f17783f https://preview.redd.it/jsepwb3c6hxc1.png?width=1269&amp;format=png&amp;auto=webp&amp;s=2a6c92f17fdc13d0a092b020815c63d2d2e9b657 https://preview.redd.it/2g5ddc3c6hxc1.png?width=1282&amp;format=png&amp;auto=webp&amp;s=577c99e7717024afbf0b2c0838d65f05bdd80ccc    提交人    /u/AutoFoodBot   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cg78lp/autonomous_cooking_robot/</guid>
       <pubDate>Mon, 29 Apr 2024 18:59:21 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>您实施的令您引以为傲的想法/改进是什么</title>
       <link>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</link>
-      <description><![CDATA[与主题几乎相同，您实现的自动化想法/流程是您真正引以为豪的，并且带来了一些积极的变化/改进   由   提交 /u/Suspicious_Ad8214   [链接] [评论]]]></description>
+      <description><![CDATA[与主题基本相同，您实施了哪些让您感到自豪的自动化理念/流程，并且带来了一些积极的变化/改进     提交人    /u/Suspicious_Ad8214   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</guid>
       <pubDate>Mon, 29 Apr 2024 05:03:03 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
-      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （30 个问题，量表评级为 1-10） 将每个结果添加到现有 Excel 工作表中预定义的列单元格中，以便现有图表使用表单编号进行更新。 使用 pdf .co 等工具生成 Excel 图表的 pdf 通过电子邮件将其发送给填写 JotForm 表单的用户。     提交人    /u/Effective-Divide-291   [链接] [评论]]]></description>
+      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 11:10:04 GMT</pubDate>
     </item>
@@ -85,30 +99,16 @@
     <item>
       <title>需要流程图建模方面的帮助</title>
       <link>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</link>
-      <description><![CDATA[我正在寻找可以根据研讨会期间的讨论自动创建流程图的工具。由于目前还没有与 Microsoft Visio 相当的 CoPilot，因此我需要一个可以简化项目复杂流程映射的解决方案。您能推荐一些可能对此有所帮助的工具吗？    由   提交/u/leodatavinci   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找能够自动根据研讨会期间的讨论创建流程图的工具。由于目前还没有与 Microsoft Visio 等效的 CoPilot，我需要一种能够简化项目复杂流程映射的解决方案。您能推荐一些可能对此有帮助的工具吗？     提交人    /u/leodatavinci   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</guid>
       <pubDate>Sat, 27 Apr 2024 05:36:31 GMT</pubDate>
     </item>
     <item>
       <title>每天在 12 小时内自动处理 70,000 份手写患者记录</title>
       <link>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</link>
-      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产率提高了 70%，客户满意度达到 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨 r/automation，我叫 Nandan，来自 Bot Nirvana，我在这里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，内容是关于他如何使用 RPA、IDP 和集成技术解决每日患者记录的处理问题。 他的任务是在严格的 12 小时内每天处理 70,000 份手写患者记录，Jaison Varghese 需要一个创新的解决方案。每条包含关键健康信息的记录都必须提取、针对十个不同的应用程序进行验证，并上传到各种平台 - 所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了尖端自动化和集成技术的组合。他选择了 UiPath 文档理解模型，因为它们具有处理各种手写风格的高级功能。 集成是关键，因为需要跨多个系统交叉引用数据。 Jaison 实施了 MuleSoft 工作流，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺畅。 为了高效管理大量数据，Jaison 为他的系统配备了 12 个 GPU 副本，从而能够快速提取数据。他增加了 300 多个专用 RPA 机器人，全天候工作以保持工作流连续性。认识到需要巨大的计算能力，他还从 UiPath 获得了 2500 万个 AI 单元，以根据需要扩展基础设施。 结果 结果令人震惊：节省了 60 个 FTE，节省后生产率提高了 70%，客户满意率达到 100%。该项目不仅展示了医疗保健领域数字化转型的潜力，还为高效处理和集成大量复杂数据树立了新标准。 使用的工具 – UiPath 文档理解：用于准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。 – Rest API：实现不同软件系统之间的通信。 ---- 关于Bot Nirvana    提交人    /u/new-mark   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</guid>
       <pubDate>Fri, 26 Apr 2024 15:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的……里面有一个坏的</title>
-      <link>https://www.reddit.com/r/automation/comments/1cdlp6j/yeptheres_a_bad_one_in_there/</link>
-      <description><![CDATA[      周五干得不错。Wire BC 527 没有收到信号。快去找它。它是黄色的。     由    /u/timdtechy612   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cdlp6j/yeptheres_a_bad_one_in_there/</guid>
-      <pubDate>Fri, 26 Apr 2024 13:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>测量传送带上产品之间时间间隔的工具？</title>
-      <link>https://www.reddit.com/r/automation/comments/1cdjjmk/tool_to_measure_time_gap_between_products_on_a/</link>
-      <description><![CDATA[我在谷歌上没有得到任何结果，所以我会在这里询问。我正在寻找一种本质上只是带有屏幕的光电眼/tof 传感器的工具。我喜欢做的是能够测量传送带上产品的前缘到前缘。理想情况下它也是可配置的，所以我可以导致坠落，或坠落坠落等。它看起来很简单，很有用，我不得不相信它存在，但我只是不知道它叫什么。有什么帮助吗？或者我只是疯了？   由   提交/u/hatsofftoeverything   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cdjjmk/tool_to_measure_time_gap_between_products_on_a/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
