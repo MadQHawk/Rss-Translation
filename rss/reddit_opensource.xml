@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 06:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:15:50 GMT</lastBuildDate>
+    <item>
+      <title>iOS 待办事项应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</link>
+      <description><![CDATA[有人对可以离线工作并在 iPhone 上工作的开源 ToDo 应用程序有任何建议吗？我尝试过 Joplin 和 Logseq，但我很挣扎，因为它不直观，尤其是对于 Markdown 等新手来说。我很少使用笔记本电脑，因此核心功能需要在我的 iPhone 上运行。谢谢！   由   提交/u/raynethedark  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</guid>
+      <pubDate>Wed, 01 May 2024 08:14:05 GMT</pubDate>
+    </item>
     <item>
       <title>Android Mi Calc开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</link>
-      <description><![CDATA[https://imgur.com/a/Z1ig0Xz 我一直在寻找 Mi Calc 的开源替代品，我正在寻找的是在输入计算时换行的能力。 并且请不要建议搜索应用程序在 f-droid 或类似商店中，我已经记不清我在 f-droid 和其他存储库上检查过多少个 calc 应用程序，而且到目前为止，我还没有找到能够复制该行为的应用程序。 提前致谢。   由   提交 /u/ZarTham   [链接] [评论]]]></description>
+      <description><![CDATA[https://imgur.com/a/Z1ig0Xz 我一直在寻找 Mi Calc 的开源替代品，我所寻找的是能够在输入计算时换行的能力。 并且请不要建议在 f-droid 或类似商店中搜索应用程序，我已经记不清在 f-droid 和其他存储库中检查过多少个 calc 应用程序，到目前为止我还没有找到一个能够复制该行为的。 提前致谢。    提交人    /u/ZarTham   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</guid>
       <pubDate>Wed, 01 May 2024 05:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>BlueSeer 软件 6.8 版发布，具有新的车间作业扫描功能。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</link>
-      <description><![CDATA[BlueSeer 6.8 版本最近已发布。它包括许多错误修复以及操作员作业扫描服务订单形式的新功能。这一新功能可以更好地了解车间运营活动，并更真实、更准确地捕获实时劳动力成本。此处提供了演示新功能的视频教程。 https://www.youtube.com/watch?v=oWwQOPz5vCw &lt; !-- SC_ON --&gt;  由   提交/u/freetechtools  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:30:12 GMT</pubDate>
     </item>
     <item>
       <title>Refact.ai——开源代码助手——引入项目意识！</title>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>OpenSeneca - 协调世界各地所有 LLM 的开源库（并节省资金）。</title>
+      <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
       <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca，我们正在寻找合作者来继续这一使命。我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM并通过一个简单的界面访问它们。它始于一个非常简单的前提。让我们想象一下，我们正在开发基于人工智能的软件，例如聊天机器人。如果用户输入“hello”，即使使用更小、更小的 llama3-8B 也能得到良好的响应，为什么还要使用 gpt-4？当然是更便宜的模型？现在让我们尝试用数学、哲学、心理学等的即时意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以节省相当多的费用API 调用中的资金。 这是 github 存储库：https://github.com/OpenSenecaAI/openseneca&lt; br /&gt; 我们愿意接受反馈、未来的想法和问题:)   由   提交 /u/ottaviofogliata   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>如何从现有的开源项目中构建一个单独的新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
-      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，并且我为它做出了一些贡献，但我开始意识到我想创建一个与原始项目类似但略有不同的项目。这就是为什么我考虑使用它作为我全新项目的基础，它将与原始项目有所不同。那么我该怎么做呢？我的意思是，我是否应该分叉它并开始进行自己的修改，而不要向原始项目发送 PR（因为我的项目会有所不同）或者这样做的良好做法/方法是什么？我也可能会将其扩展到更大的规模。请在这里指导我！    提交人    /u/deadclown_09   [链接] [评论]]]></description>
+      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我正在考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
       <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
     </item>
