@@ -3,8 +3,50 @@
   <channel>
     <title>亚洲新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/asia-pacific/</link>
-    <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 21:14:15 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新亚洲新闻报道和时事的在线来源，确保我们的读者了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 00:55:30 GMT</lastBuildDate>
+    <item>
+      <title>韩国 4 月份消费者通胀率降至 2.9%</title>
+      <link>https://www.reuters.com/markets/asia/south-korea-april-inflation-29-yy-lower-than-expected-2024-05-01/</link>
+      <description><![CDATA[周四官方数据显示，韩国四月份消费者通胀三个月来首次放缓，低于经济学家的预期，支撑了市场对下半年货币宽松的预期。]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-korea-april-inflation-29-yy-lower-than-expected-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 23:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woolworths 提醒顾客在销售放缓和生活成本下降的情况下保持谨慎</title>
+      <link>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-third-quarter-sales-rise-28-2024-05-01/</link>
+      <description><![CDATA[澳大利亚 Woolworths 周四警告说，尽管通胀有所缓和，但消费者仍然保持谨慎态度，生活成本面临压力，因为这家超市运营商面临着其最大的业务——澳大利亚食品的销售放缓。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-third-quarter-sales-rise-28-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 22:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一季度业绩好于预期 星展银行预计今年净利润将上升</title>
+      <link>https://www.reuters.com/business/finance/singapore-bank-dbs-first-quarter-net-profit-rises-15-year-record-high-2024-05-01/</link>
+      <description><![CDATA[新加坡最大银行星展集团周四表示，在总收入强劲增长的推动下，第一季度净利润增长 15%，超出预期，预计今年净利润将从 2023 年开始增长。]]></description>
+      <guid>https://www.reuters.com/business/finance/singapore-bank-dbs-first-quarter-net-profit-rises-15-year-record-high-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 22:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>赌场运营商米高梅第一季度澳门业务强劲超出预期</title>
+      <link>https://www.reuters.com/business/casino-operator-mgm-beats-first-quarter-estimates-strength-macau-business-2024-05-01/</link>
+      <description><![CDATA[米高梅国际酒店集团 (MGM Resorts International) 周三第一季度业绩超出了华尔街预期，这得益于其中国业务的强劲发展，赌场运营商继续受益于疫情后入境限制的放松。]]></description>
+      <guid>https://www.reuters.com/business/casino-operator-mgm-beats-first-quarter-estimates-strength-macau-business-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 22:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳洲银行NAB现金利润下降13% 回购9.79亿美元股票</title>
+      <link>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</link>
+      <description><![CDATA[澳大利亚国民银行周四公布，由于面临高昂的运营成本和激烈的竞争，其上半年现金收益下降了约 13%，但将正在进行的股票回购计划增加了 15 亿澳元（9.79 亿美元）。]]></description>
+      <guid>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 22:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：鲍威尔引发股市波动，日元飙升</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 21:46:51 GMT</pubDate>
+    </item>
     <item>
       <title>土耳其部长表示，土耳其将在世界法院加入南非针对以色列的种族灭绝案件</title>
       <link>https://www.reuters.com/world/turkey-join-south-africas-genocide-case-against-israel-world-court-minister-says-2024-05-01/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>印度部分地区创四月最热纪录 热浪导致九人死亡</title>
       <link>https://www.reuters.com/world/india/india-likely-see-above-normal-maximum-temperatures-may-weather-office-says-2024-05-01/</link>
-      <description><![CDATA[印度东部经历了有记录以来最热的四月，在大选期间热浪烧焦了该国部分地区，造成至少九人死亡，气象局周三预测五月份的气温也将高于正常水平。]]></description>
+      <description><![CDATA[印度东部经历了有记录以来最热的四月，大选期间一股热浪席卷了部分地区，造成至少 9 人死亡。气象局周三预测，五月份的气温也将高于正常水平。]]></description>
       <guid>https://www.reuters.com/world/india/india-likely-see-above-normal-maximum-temperatures-may-weather-office-says-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:50:43 GMT</pubDate>
     </item>
@@ -32,48 +74,6 @@
       <description><![CDATA[国家搜救机构的视频显示，周三，印度尼西亚塔古兰当岛的数百名居民正在该岛的港口等待撤离，而鲁昂火山继续喷发灰烟。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/evacuation-continues-following-indonesias-ruang-volcano-eruption-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 07:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度首都地区数十所学校因电子邮件炸弹威胁骗局而疏散</title>
-      <link>https://www.reuters.com/world/india/dozens-schools-indias-capital-region-evacuated-after-email-bomb-threat-hoax-2024-05-01/</link>
-      <description><![CDATA[警方表示，印度国家首都地区的数十所学校在收到电子邮件炸弹威胁后进行了疏散，并补充说在对学校的搜查中“没有发现任何令人反感的东西”。]]></description>
-      <guid>https://www.reuters.com/world/india/dozens-schools-indias-capital-region-evacuated-after-email-bomb-threat-hoax-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 07:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>部长表示新西兰尚未做出加入 AUKUS 协议的决定</title>
-      <link>https://www.reuters.com/world/asia-pacific/new-zealand-not-close-decision-joining-aukus-pact-minister-says-2024-05-01/</link>
-      <description><![CDATA[新西兰外交部长周三表示，新西兰政府正在继续就未来与 AUKUS 安全协议的合作进行“信息收集讨论”，但距离做出决定“还有很长的路要走”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/new-zealand-not-close-decision-joining-aukus-pact-minister-says-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 06:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于物价上涨，马来西亚计划从12月起公务员加薪13%</title>
-      <link>https://www.reuters.com/world/asia-pacific/malaysia-plans-13-salary-hike-civil-servants-dec-amid-rising-prices-2024-05-01/</link>
-      <description><![CDATA[马来西亚总理安瓦尔·易卜拉欣周三表示，鉴于物价上涨、林吉特货币疲软以及计划改革补贴，马来西亚将从12月起将公务员工资提高13%以上。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/malaysia-plans-13-salary-hike-civil-servants-dec-amid-rising-prices-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 05:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>越南国会议员召开特别会议讨论人事问题</title>
-      <link>https://www.reuters.com/world/asia-pacific/vietnam-lawmakers-hold-extraordinary-meeting-personnel-issues-2024-05-01/</link>
-      <description><![CDATA[越南立法机构办公室周三表示，越南议会将于周四下午开会讨论人事问题，五天前，越南议会主席王廷惠因个人原因辞职。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/vietnam-lawmakers-hold-extraordinary-meeting-personnel-issues-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 04:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将在泰国开设首个区域数据中心</title>
-      <link>https://www.reuters.com/technology/microsoft-open-first-regional-data-centre-thailand-2024-05-01/</link>
-      <description><![CDATA[这家科技巨头周三表示，微软将在泰国开设第一个区域数据中心，以提高云服务的可用性。]]></description>
-      <guid>https://www.reuters.com/technology/microsoft-open-first-regional-data-centre-thailand-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 04:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国与美国、英国和澳大利亚讨论加入 AUKUS 协议的一部分</title>
-      <link>https://www.reuters.com/world/south-korea-confirms-talks-aukus-pact-with-us-uk-australia-2024-05-01/</link>
-      <description><![CDATA[韩国国防部长申元植周三表示，韩国已就加入美国、英国和澳大利亚之间的 AUKUS 防务协议的一部分进行了谈判，就在该协议表示将考虑将日本纳入其中几周后。]]></description>
-      <guid>https://www.reuters.com/world/south-korea-confirms-talks-aukus-pact-with-us-uk-australia-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 03:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
