@@ -3,8 +3,85 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 02 May 2024 15:14:23 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 02 May 2024 18:18:55 GMT</lastBuildDate>
+    <item>
+      <title>如何在 WSL 机器上部署 Flask 服务器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cilv7e/how_do_i_deploy_a_flask_server_on_a_wsl_machine/</link>
+      <description><![CDATA[我有一个 Flask REST api，可以处理 POST 请求并使用图像 html 模板进行响应。如果只是为了简单的事情而部署它，比如向一些朋友或潜在的雇主展示我的投资组合，那么更入门的方法是什么？没什么花哨的，没有多余的装饰，只是根据要求提供 html。我应该提到，我正在运行 Windows 10 企业版，我不认为我可以将整个系统移植到 Linux，设置所有依赖项花了几天时间，这非常令人头痛，但我最近一直在尝试使用 WSL ，尽管不成功...... 编辑：我应该提到我有很多依赖项，包括很多非常规安装的依赖项和大型模型，如果潜在的解决方案涉及这些，那么将很难完成所有事情；一切都已设置并安装在固定存储库中...   由   提交/u/cantbebothered67836   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cilv7e/how_do_i_deploy_a_flask_server_on_a_wsl_machine/</guid>
+      <pubDate>Thu, 02 May 2024 17:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌有类似“电影放映时间模式”的东西吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cilug2/is_there_something_like_a_movie_showtimes_schema/</link>
+      <description><![CDATA[我正在尝试弄清楚当有人搜索放映时间时如何让当地电影院的电影显示在 Google 上。事件模式似乎不是答案。有些公司可以付费参加，所以我想知道这是否是一些专有的 API？如果有人以前这样做过，我会很高兴知道如何做！   由   提交 /u/aporciuncula   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cilug2/is_there_something_like_a_movie_showtimes_schema/</guid>
+      <pubDate>Thu, 02 May 2024 17:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 2024 年 4 月</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cilk49/visual_studio_code_april_2024/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cilk49/visual_studio_code_april_2024/</guid>
+      <pubDate>Thu, 02 May 2024 17:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何区分“发展危机”和“生产危机”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cil87g/how_would_you_differentiate_a_development_crisis/</link>
+      <description><![CDATA[我正在申请的一份工作的筛选问题之一分别包含其中两个问题。  描述一次您遇到开发危机的情况以及您是如何解决的？ 描述一次您遇到生产危机的情况以及您是如何解决的？   有人可以详细说明如何处理这两个问题吗？我知道什么是开发环境和生产环境，但在问题的背景下，您如何区分这两种危机？我是不是误解了他们的要求？   由   提交 /u/cheesy-chocolate   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cil87g/how_would_you_differentiate_a_development_crisis/</guid>
+      <pubDate>Thu, 02 May 2024 17:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名被盗 - 取回费用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cik3jc/domain_stolen_cost_to_get_it_back/</link>
+      <description><![CDATA[您好，我朋友的密码被盗，他的 .co.uk 域通过 IPS-Tag 转出，所有者详细信息也被更改。 我告诉他他可以联系 Nominet 并要求他们恢复域名。  有谁知道Nominet 是否收费？如果是的话，每个域名的费用是多少，还是固定费用？我认为他总共占用了大约 6 个域名。 谢谢   由   提交 /u/TimeNail   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cik3jc/domain_stolen_cost_to_get_it_back/</guid>
+      <pubDate>Thu, 02 May 2024 16:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以聘请顾问来规划网络平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/</link>
+      <description><![CDATA[我正在从 Upwork 招聘自由开发人员，虽然我之前曾与 Upwork 的优秀开发人员合作过，但并没有在这种规模的项目。我也不是开发人员，无法真正审查候选人或确定他们是否对项目有合适的方法。 我真的希望避免以后必须重新做项目. 我有两个主要问题：  在聘请设计师和开发人员之前，是否值得聘请顾问来规划项目并提供我们所需的详细信息然后可以遵循顾问的方法吗？ 我在哪里可以找到具有所需技能的顾问？再说一次，我无法审查他们的任何技术内容。我愿意接受任何建议。  简单介绍一下背景：我希望创建一个基于图形的在线平台，有点像类似于 Obsidian 和 Roam Research 的数字知识花园除非没有用户创建的内容。 对于实现，我推荐使用 Mongo DB，使用 Atlas、AWS、NextJS 与 Serverless 作为后端，并使用 React + Tailwind CSS 作为前端。但话又说回来，我不知道这是否正确。还有规划方面，因为我可能没有以最佳方式规划开发。 我想在这里问这个问题，因为我正在努力寻找从事过与此类似项目的顾问.   由   提交/u/Dwights-beets   /u/Dwights-beets  reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/</guid>
+      <pubDate>Thu, 02 May 2024 16:21:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Code 的 CodePilot</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cijrq9/codepilot_for_vs_code/</link>
+      <description><![CDATA[我制作了这个 VS Code 扩展，它允许您直接在 VS Code 中访问文档、框架和库。  如果您发现它有用，您可以从这里获取它：Code Pilot - VS Code Extension。 如果您对添加网站有任何建议，请随时在评论中提及。或者，欢迎您自己为扩展做出贡献。    提交人    /u/ayushmaansingh304   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cijrq9/codepilot_for_vs_code/</guid>
+      <pubDate>Thu, 02 May 2024 16:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以找到可以作为全栈开发人员构建的项目设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cijgw9/where_can_i_find_project_designs_that_i_can_build/</link>
+      <description><![CDATA[我有 3 年前端开发经验，并且构建了 frontendmentor.io 的几乎所有项目 我想扩展我的技能并参加了大量的课程来适应构建全栈应用程序，但我没有想法    由   提交/u/Intelligent_Will_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cijgw9/where_can_i_find_project_designs_that_i_can_build/</guid>
+      <pubDate>Thu, 02 May 2024 16:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSL证书</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciio7i/ssl_certificate/</link>
+      <description><![CDATA[我对 Web 开发的经验很少，并且正在开发我的第一个“大规模”Web 项目。网站。我一直在阅读有关 SSL 证书的内容，并希望使用 HTTPS 设置我的网站。我在 PythonAnywhere 上托管。在阅读他们的支持页面并按照他们的步骤进行操作时，我似乎已经完成了转换，但涉及的工作很少，这让我觉得我错过了一些东西。当我单击地址旁边的图标时，它确实表示连接现在是安全的，这让我觉得我已经完成了。我想我有两个问题。  对于在 PythonAnywhere 上托管的其他人来说，这真的像单击按钮一样简单而无需购买证书吗？根据他们的帮助部分，他们免费管理证书。 到第三方购买证书比使用 PythonAnywhere 的证书有好处吗？&lt; /p&gt; 人们是否会推荐任何其他安全类型步骤来防止我的网站被阻止？   我实际上并不担心安全性 - 我根本不收集个人信息或信用卡信息。这严格来说是一个信息类型的网站，但我有一些抱怨说人们被屏蔽了，有人建议这可以解决这个问题。我现在在一个孤岛里工作，所以非常感谢任何建议。    由   提交/u/staceym0204   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciio7i/ssl_certificate/</guid>
+      <pubDate>Thu, 02 May 2024 15:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合非技术人员的自托管 Markdown 发布解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciin8u/selfhosted_markdown_publish_solution_for/</link>
+      <description><![CDATA[你知道是否已经存在这样的项目？我的意思是像 Github Gists 但对于非技术人员来说，使用 wsiwg 编辑器，最少的语法，你会得到 www .domain.com/username/my-markdown-file.md 呈现。并且应该可以轻松地使用 Docker 容器进行托管。他们还可以制作小型网站，只有很少的页面相互链接。 我所说的并不是针对技术人员的 SSG 网站解决方案，例如 Docusaurus、Jekyll、Astro 等。应该使用它只能由普通人通过 wsywg 编辑器。当然，技术人员会配置一次并安装 Docker 容器。 我了解 neocities org，但这似乎太过分了，我需要像 Github 这样的、具有最小 Markdown 语法的最小解决方案。 你知道这样的开源项目吗？   由   提交 /u/voja-kostunica    reddit.com/r/webdev/comments/1ciin8u/selfhosted_markdown_publish_solution_for/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciin8u/selfhosted_markdown_publish_solution_for/</guid>
+      <pubDate>Thu, 02 May 2024 15:33:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>他们怎么知道你偷了他们的代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cii9ia/how_can_they_know_you_stole_their_code/</link>
+      <description><![CDATA[以下场景仅仅是假设： 我在 Github 上发现了一些很酷的项目。该许可证不允许商业用途。无论如何，我克隆它并在我的项目中使用它。我 git Push 推送我自己的存储库，添加我的功能，将其投入生产并开始用成品赚钱。  从理论上讲，这是不合法的。我确实违反了许可证。  但是，他们怎么知道呢？我的代码在 Github 上是私有的。没有人能看到它。只有我。 他们将如何起诉我？如果他们看不到我的代码库怎么办？  再说一次，这只是出于好奇，而不是真实场景... 编辑：我不是指前端代码，我的意思是字面上的任何东西：前端、后端、a微服务、用于执行某些操作的自定义库、模板等等。    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cii9ia/how_can_they_know_you_stole_their_code/</guid>
+      <pubDate>Thu, 02 May 2024 15:17:45 GMT</pubDate>
+    </item>
     <item>
       <title>Safari 糟糕透了SSSSSSSSSSSS</title>
       <link>https://www.reddit.com/r/webdev/comments/1cihyyi/safari_suckssssssssssss/</link>
@@ -20,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 14:44:32 GMT</pubDate>
     </item>
     <item>
-      <title>修改 JavaScript 在服务器端环境中的作用</title>
+      <title>修改 JavaScript 在服务器端环境中的角色</title>
       <link>https://www.reddit.com/r/webdev/comments/1cihckj/revising_javascripts_role_in_serverside/</link>
       <description><![CDATA[ 由   提交/u/rossrobino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cihckj/revising_javascripts_role_in_serverside/</guid>
@@ -32,83 +109,6 @@
       <description><![CDATA[大家好。我又被屏蔽了这次是我从未实施或集成的订阅管理解决方案。我检查过 Patreon、Stripe、Recurly、killbill、chargebee 等。我想得太多了，所以这个问题的背景并不是真正的技术性，尽管它可能有一点。在完美的世界中，我可以获取一些 html 代码，使用 Mustache 创建一个模板，也许使用一些胶水，然后部署一个静态站点，减去嵌入式订阅的客户端。虽然绝望，但我不想落入陷阱。以下问题是我脑海中旋转的问题，我想获得有关这些问题的建议（即我是否提出了正确的问题）您使用什么进行订阅管理？它是一个组件吗？或者我是否必须先设置 Drupal，然后再设置 Recurly 模块？可以使用订阅模块对订阅者进行身份验证吗？最后，我希望进行设置以便能够接收订阅。目前唯一的订阅是免费套餐，这样我就可以发送新发布内容的更新和通知。   由   提交 /u/tackfulChaos   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cigr9i/subscription_management_help/</guid>
       <pubDate>Thu, 02 May 2024 14:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>足球伤病历史 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cigjk6/soccer_injury_history_api/</link>
-      <description><![CDATA[我正在寻找一个包含详细球员统计数据和伤病历史的 API。有谁知道有一个 API 可以以实惠的价格（每月 50 英镑/美元）提供此服务？    由   提交/u/lfc6times2019   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cigjk6/soccer_injury_history_api/</guid>
-      <pubDate>Thu, 02 May 2024 14:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能集成——第一步</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cigd92/ai_integration_first_steps/</link>
-      <description><![CDATA[嗨， 我在一家预算紧张的非营利组织工作，我正在研究我们可以考虑的人工智能集成我们的学习、评估和规划产品。这将是我们的第一次人工智能集成。 最近的 Gartner 报告建议将生产力和智能世界作为新兴人工智能来考虑，前者最适用于我们的组织。  GenAI 内容生成和人工智能助手为构思解决方案提供了良好的起点，以适应我们已知的机会 - 自动生成计划、报告、摘要、活动建议等。 我对首次人工智能集成的经过尝试和测试的低成本方法的建议感兴趣 - 如果存在这样的事情！  我想为未来与我们的开发团队的讨论做好准备。 谢谢！   由   提交 /u/bpbpbpooooobpbpbp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cigd92/ai_integration_first_steps/</guid>
-      <pubDate>Thu, 02 May 2024 13:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有在 Hono 中设置 zValidator 以与 AWS API Gateway 结合使用的经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cig234/any_experience_setting_up_zvalidator_in_hono_for/</link>
-      <description><![CDATA[我正在尝试使用 Hono 设置一个项目来在 AWS API Gateway 上定义 REST API，但是我在编写测试时遇到了问题，特别是使用文档中建议的 zValidator 中间件时出现问题。 我的问题是，在尝试验证 env 而不是标准请求正文时，不清楚我的 zod 架构应该是什么样子。有什么想法吗？ 这是路由设置； constsites = new Hono&lt;{ Bindings: LambdaBindings }&gt;() const BodySchema = z.object({ teamId: z.string()，名称：z.string()，域：z.string().可选() }) const CreateSitePostSchema = z.object({ env: z.object({ context: z.unknown(), // 保留为未知事件: z.object({ body: z.string().transform(bodyString =&gt; JSON.parse(bodyString) as BodySchemaType), // 将 body 解析为 JSON 并输入 }), }) , }) type BodySchemaType = z.infer; site.post( &quot;/&quot;, zValidator(&#39;json&#39;, CreateSitePostSchema), async (c) =&gt; { ... }) 导出默认站点  这是一个响应示例; 请求; const res = wait app.request(“/sites”, { method: “POST”, headers: { “content-type” ;: &quot;application/json&quot; }, body: JSON.stringify({}) }, { event: { body: JSON.stringify({ name: siteName, teamId }), requestContext: { 授权者: { Claims: { sub : authUser.id } } } } })  {“成功”:false,“错误”:{“问题”:[{“代码”: “invalid_type”、“预期”：“对象”、“已接收”：“未定义”、“路径”：[“env”]、“消息”：“必需”}]、” ;name&quot;:&quot;ZodError&quot;}} 感谢我能得到的任何帮助！ 如果我注释掉验证器，我的测试就会通过，所以它只是验证器架构我需要修复。   由   提交 /u/Mr-Silly-Bear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cig234/any_experience_setting_up_zvalidator_in_hono_for/</guid>
-      <pubDate>Thu, 02 May 2024 13:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚨 使用 Figma 制作免费网页设计模型</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciftw1/free_web_design_mockup_using_figma/</link>
-      <description><![CDATA[嗨！我是一名图形和 UI/UX 设计师新手，希望从头开始构建我的作品集。 我有认证，所以我了解图形设计和 UI/UX 的基础知识。  我的困境是，我对从哪里开始我的投资组合有点不知所措，因此，我向一位幸运者提供免费服务，帮助我开始工作。 关于您： - 需要一个网页设计模型（最多 5 页） - 您必须提供我需要遵循的所有细节和设计指南 ‼️‼️‼️只需要 1 个客户。此后收费将低于 50 美元。   由   提交 /u/Grouchy-Coffee-5015   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciftw1/free_web_design_mockup_using_figma/</guid>
-      <pubDate>Thu, 02 May 2024 13:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们怎么知道？ 🤔</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cif3lg/how_do_they_know/</link>
-      <description><![CDATA[       由   提交/u/cortvi  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cif3lg/how_do_they_know/</guid>
-      <pubDate>Thu, 02 May 2024 13:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>你还需要 Sass 吗？[2024 年]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cieahc/do_you_still_need_sass_in_2024/</link>
-      <description><![CDATA[       由   提交/u/quantumized  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cieahc/do_you_still_need_sass_in_2024/</guid>
-      <pubDate>Thu, 02 May 2024 12:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡丁车赛道网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cie3hz/website_for_a_carting_track/</link>
-      <description><![CDATA[首先我要说的是我从未设计过网站。 所以我爸爸拥有一条卡丁车赛道和他们的网站让我说，非常糟糕。他们有一个网站，但它太丑了，而且很多页面都是空的。 所以我在想如何为他的生日设计一个页面。  现在我的问题是，为此使用的最佳程序是什么？我只知道 WordPress、Wix 和 Typo3，也许还有 Shopify，但我认为这不是一个很好的程序。 我该如何制作这个而不让他听到风声呢？我可以在不在线的情况下创建网站吗？就像只能通过我的电脑存储和访问一样？    由   提交 /u/kac00n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cie3hz/website_for_a_carting_track/</guid>
-      <pubDate>Thu, 02 May 2024 12:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助我验证我的 SaaS 想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cie0o8/please_help_me_validate_my_saas_idea/</link>
-      <description><![CDATA[我正在基于无代码和法学硕士构建用于数据库探索和可视化的 SaaS。它有两种模式。图表，您可以在其中直观地探索数据库模式。还有聊天，您可以在其中聊天以检索数据并获得问题的答案，例如：“上个月有多少未成年客户进行了订阅？”无需编写任何 sql 查询。 我记得以前工作的财务人员曾经花费数小时编写 sql 查询来获取报告数据等。 想知道这是否有效只是一个非常独特的案例，或者这个工具实际上可能对某个利基市场有用？ 不一定是一件大事 - 我这样做是为了了解有关 Svelte 和 LLM 的更多信息。你怎么认为？无用？或者在某些情况下有用？每月值几块钱吗？   由   提交 /u/smaIIdlck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cie0o8/please_help_me_validate_my_saas_idea/</guid>
-      <pubDate>Thu, 02 May 2024 12:07:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>GraphQL 的 linting 性能提高了 21,565 倍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cidlne/a_21565x_performance_improvement_in_linting/</link>
-      <description><![CDATA[   /u/yoav-lavi   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cidlne/a_21565x_performance_improvement_in_linting/</guid>
-      <pubDate>Thu, 02 May 2024 11:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个小的自定义元素（Web 组件），用于很好地呈现 JSON</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cidgkz/a_little_custom_element_web_component_for/</link>
-      <description><![CDATA[     &lt; td&gt; 嗨 Reddit， 我只是想分享我为渲染 JSON 构建的这个小 HTML 自定义元素（）以一种漂亮的 HTML 方式。自定义元素 API 并未广泛使用，但对于类似的事情（例如 Github 的相对时间元素）来说它非常棒。它独立于框架，不会将任何样式泄漏到您的应用程序中。 https://preview.redd.it/lepp8n8h20yc1.png?width=1160&amp;format=png&amp;auto=webp&amp;s=075a6cd53c89e8f03eda6f2c799d66e0 fe47da2f 我是很好奇您是否觉得这有用并且有任何反馈。如果这种自定义元素很受欢迎，我计划构建更多类似的东西。 在这里查看 https://github.com/mohsen1/pretty-json 这当然都是开源且免费的。分享爱！   由   提交/u/mehyay76  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cidgkz/a_little_custom_element_web_component_for/</guid>
-      <pubDate>Thu, 02 May 2024 11:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于远程医疗、在线处方服务、补充剂销售的最佳网络托管平台是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cida1n/what_is_some_of_the_best_web_hosting_platforms/</link>
-      <description><![CDATA[我问这个是因为我经历了惨痛的教训，令我震惊的是，Stripe，一家在线支付处理公司，不支持这些服务，并且会阻止您销售和资金恕不另行通知！请注意，网络托管公司 Squarespace 对于这个利基市场和整个电子商务来说都很糟糕。    由   提交 /u/Buzzertes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cida1n/what_is_some_of_the_best_web_hosting_platforms/</guid>
-      <pubDate>Thu, 02 May 2024 11:28:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
