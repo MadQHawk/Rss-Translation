@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 02 May 2024 18:18:55 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 02 May 2024 21:15:50 GMT</lastBuildDate>
+    <item>
+      <title>我是否需要花很长时间才能完成我的自由职业任务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciqzpn/am_i_talking_to_long_to_finish_my_freelancing/</link>
+      <description><![CDATA[我最近开始从事自由职业，我觉得我说得太长了，无法完成分配给我的任务。我在一个著名的自由职业网站工作，薪水很低，但对于我住的地方来说，这已经是一笔不错的钱了。  给定一个组件，我需要花多少小时来编码？我知道这取决于它的复杂程度，但假设您正在制作一个具有砖石布局的画廊。  我停止了时间跟踪器并研究了如何制作砖石布局，这花了我大约一个小时，然后我回去并实施了在跟踪器打开时学到的东西。我最终在该任务上花费了大约 1 小时的跟踪时间。 这太长还是太短？ 我应该跟踪研究非标准问题所花费的时间吗？  有时我觉得自己花了太多时间制作组件，于是我停止跟踪器并继续工作一个小时左右。   由   提交/u/bumbo90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciqzpn/am_i_talking_to_long_to_finish_my_freelancing/</guid>
+      <pubDate>Thu, 02 May 2024 21:12:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>散光作为开发人员。我需要一个新的、更大的外接显示器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciqz33/astigmatism_as_a_dev_i_need_a_new_larger_external/</link>
+      <description><![CDATA[我需要一个新的外部显示器，但散光似乎总是在变化，我不知道到底该买什么，或者某些尺寸、类型、功能或品牌比其他更好。对于我应该在外接显示器中获得什么尺寸和什么样的显示器功能，我们将不胜感激。我希望我能保持在 200 美元以下（或最高 300 美元以下），但目前这不太重要。我有一个备用 40 英寸高清电视，但我认为清晰、真实的显示器将是理想的选择。到目前为止，我正在考虑 32-35 英寸。 QHD。 目前，我正在开发 27&quot; 的产品。我的工作给我带来的优派（VA2756系列）。我有一个更好的 32 英寸我三年前买了一台曲面游戏显示器，但我不喜欢它的曲面部分。我尝试放大分辨率，以便所有内容都更易于阅读和查看，但这似乎在其他方面使事情变得更糟，因为现在我的屏幕不够大，无法看到更多网页。在分辨率和 CPU 设置方面，比较棘手的是，我在 Macbook Pro 上工作，但我必须使用 VMWare 连接到 Windows 虚拟机才能进行开发工作。 额外信息：我只近一两年我一直戴眼镜，30岁之前甚至没有散光。更烦人的是，模糊的东西似乎每天甚至每小时都在变化，有时我发现自己在我的最后一副眼镜和我刚刚购买的新的第二副眼镜之间来回切换，上个月在我的眼科医生办公室得到的。   由   提交 /u/cwillner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciqz33/astigmatism_as_a_dev_i_need_a_new_larger_external/</guid>
+      <pubDate>Thu, 02 May 2024 21:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用docker（Vite、Django）时的CORS问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cinyll/cors_problem_when_using_docker_vite_django/</link>
+      <description><![CDATA[因此这是 docker-compose.yaml 文件 版本：“3.8” 服务： db： container_name：db 映像： postgres：15 restart：always 卷：- journal_data：/var/lib/postgresql/data 环境： POSTGRES_PASSWORD：${POSTGRES_PASSWORD} POSTGRES_USER：${POSTGRES_USER} POSTGRES_DB：${POSTGRES_DB} POSTGRES_HOST：${POSTGRES_HOST} POSTGRES_PORT：${POSTGRES_PORT} api： container_name：api 映像：aikido-api：0.1 构建：./backend 命令： bash -c“python src/manage.py migration &amp;&amp; python src/manage.py runserver 0.0.0.0:8000”重启：总是 端口：-8000：8000 env_file：-./.env 取决于：-db web：container_name：web 映像：aikido-web：0.1 构建：./frontend 命令：npm run dev 重启：总是 端口：-5173：5173 取决于：-api 卷：journal_data： 这是 vite.config 从&#39;vite&#39;导入{defineConfig} 从&#39;@vitejs/plugin-react&#39;导入react // https://vitejs.dev/config/ 导出默认defineConfig（{plugins：[react（）]，base：“。/”，server：{host：true，port：5173}}） 问题是当我向后端发出请求时我的axios fetch不起作用，浏览器说我违反了CORS axios.get(&#39;http://api:8000/api/v1/parents&#39;) .then(response =&gt; console.log(response.data));  我的运行开发服务器是 &#39;http://localhost:5173&#39; 我应该怎么做才能解决这个问题？Django 中的所有标头都包含在内（所有主机、所有来源、corsMiddleware）     提交人    /u/Vzaje   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cinyll/cors_problem_when_using_docker_vite_django/</guid>
+      <pubDate>Thu, 02 May 2024 19:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何监控 API 健康状态？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cinkbs/how_do_you_monitor_api_health_status/</link>
+      <description><![CDATA[我正在尝试找出一种方法来从前端监控我们的一个 API 的状态。前端是一个 React 应用程序。 API 是 .NET Framework 4+。  最初，我只是要创建一个运行状况检查端点，然后在我的 React 应用程序的入口点级别只有一个 API 调用，如果我们从例如，API 根本就不是“ok”。但这引起了人们的担忧，即潜在的自我诱导 DDOS 攻击。我们有数百名客户。如果我将此 API 调用设置为 30 秒的间隔，这意味着每 30 秒我们可能会看到对同一端点的数千次调用。 因此，我进一步研究了它。服务器端事件。如果 API 发生问题，我可以设置一个端点，该端点将发出前端将侦听的警报。如果它听到“ok”以外的任何声音，它会将用户路由到错误页面。 还研究了 WebSockets，但这对于健康检查来说似乎需要大量工作。此外，连接始终是开放的并且是双向的，因此安全问题可能是这里的一个问题。不确定，没有深入研究过 WebSockets。 但后来我在脑海中想，如果服务器宕机并且这些端点无法进行这些调用，会发生什么情况。  然后我认为制作一个 ping API 的微服务可能是值得的，如果我们没有从 ping 中得到响应，我们会向前端发送警报。但这是另一项必须管理的服务。 那么我这里有什么选择呢？这是一个多租户应用程序。因此，我们所有的用户本质上都将使用相同的客户端。我需要避免任何潜在的 DDOS。 我们是一个由 2 名开发人员组成的小团队。我们还有另一位更高级的开发人员，但他不是 Web 开发人员。基本上我们边走边学。我们让一切顺利进行。所以我的任务是弄清楚这一部分。   由   提交/u/mister_peachmango  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cinkbs/how_do_you_monitor_api_health_status/</guid>
+      <pubDate>Thu, 02 May 2024 18:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Google Sheets 与 Resend 和 Next.js 14+ 免费处理您的候补名单注册</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cinh21/use_google_sheets_with_resend_and_nextjs_14_to/</link>
+      <description><![CDATA[我最近研究了各种等候名单捕获表格，并找到了处理此问题的最佳免费解决方案，即使用最新的重新发送（发送电子邮件）的谷歌表格使用服务器操作的 Next.js 版本。 只是想分享一些关于如何自己完成的教程存储库： https://github.com/lorenzejay/nextjs-gsheets-resend    由   提交/u/techsparrowlionpie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cinh21/use_google_sheets_with_resend_and_nextjs_14_to/</guid>
+      <pubDate>Thu, 02 May 2024 18:49:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端和后端验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cindcv/frontend_and_backend_validation/</link>
+      <description><![CDATA[大家能列出一下在 javascript 中验证输入的方法吗？假设您的网站中有多个表单，并且您想要对每个表单进行实时验证当用户提交表单时，他们提交的所有内容都已经验证，但填写电子邮件等字段也会触发对数据库的后端调用，以检查该电子邮件是否已经存在，你该怎么做？我是菜鸟，愿意学习实现此验证的明智方法：D ofc 最后，当数据库中不存在电子邮件时，也许我们使用验证类来验证沿表单提交的每个输入字段   由   提交 /u/Legitimate-Guest7269    reddit.com/r/webdev/comments/1cindcv/frontend_and_backend_validation/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cindcv/frontend_and_backend_validation/</guid>
+      <pubDate>Thu, 02 May 2024 18:45:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找楼层地图库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cin3pm/looking_for_a_floormap_library/</link>
+      <description><![CDATA[大家好 我有一个即将进行的项目，需要允许用户与 2D 地图进行交互。该地图是贸易展平面图，因此用户必须能够缩放和平移整个地图，并且还能够单击某些区域（单个展台）。单击后，我将在顶部加载另一个界面，但这很简单。 因此，我正在寻找的库应该提供以下内容：  加载 svg/png 并允许在顶部“绘制”区域（并命名/标识它们）并保存这些区域以供将来加载。我们称之为编辑模式。我可以在矢量图像编辑器上“绘制”这些区域，但我希望可以选择允许在应用程序上快速编辑。 将地图与顶部的区域一起加载，并允许缩放和平移地图，然后允许单击各个区域（我不需要选择多个区域或类似的东西）。  它们可能是 2 个不同的库，也可能是高级库，这不是问题。 如果没有想到，您将如何处理这个项目？ 提前感谢您的建议。    提交人    /u/DarthCoderMx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cin3pm/looking_for_a_floormap_library/</guid>
+      <pubDate>Thu, 02 May 2024 18:34:15 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 WSL 机器上部署 Flask 服务器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cilv7e/how_do_i_deploy_a_flask_server_on_a_wsl_machine/</link>
@@ -43,72 +92,23 @@
     <item>
       <title>哪里可以聘请顾问来规划网络平台？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/</link>
-      <description><![CDATA[我正在从 Upwork 招聘自由开发人员，虽然我之前曾与 Upwork 的优秀开发人员合作过，但并没有在这种规模的项目。我也不是开发人员，无法真正审查候选人或确定他们是否对项目有合适的方法。 我真的希望避免以后必须重新做项目. 我有两个主要问题：  在聘请设计师和开发人员之前，是否值得聘请顾问来规划项目并提供我们所需的详细信息然后可以遵循顾问的方法吗？ 我在哪里可以找到具有所需技能的顾问？再说一次，我无法审查他们的任何技术内容。我愿意接受任何建议。  简单介绍一下背景：我希望创建一个基于图形的在线平台，有点像类似于 Obsidian 和 Roam Research 的数字知识花园除非没有用户创建的内容。 对于实现，我推荐使用 Mongo DB，使用 Atlas、AWS、NextJS 与 Serverless 作为后端，并使用 React + Tailwind CSS 作为前端。但话又说回来，我不知道这是否正确。还有规划方面，因为我可能没有以最佳方式规划开发。 我想在这里问这个问题，因为我正在努力寻找从事过与此类似项目的顾问.   由   提交/u/Dwights-beets   /u/Dwights-beets  reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我正在从 Upwork 招聘自由开发人员，虽然我之前曾与 Upwork 的优秀开发人员合作过，但并没有在这种规模的项目。我也不是开发人员，无法真正审查候选人或确定他们是否对项目有合适的方法。 我真的希望避免以后必须重新做项目. 我有两个主要问题：  在聘请设计师和开发人员之前，是否值得聘请顾问来规划项目并提供我们所需的详细信息然后可以遵循顾问的方法吗？ 我在哪里可以找到具有所需技能的顾问？再说一遍，我无法审查他们的任何技术内容。我愿意接受任何建议。  简单介绍一下背景：我希望创建一个基于图形的在线平台，有点像类似于 Obsidian 和 Roam Research 的数字知识花园除非没有用户创建的内容。 对于实现，我推荐使用 Mongo DB，使用 Atlas、AWS、NextJS 与 Serverless 作为后端，并使用 React + Tailwind CSS 作为前端。但话又说回来，我不知道这是否正确。还有规划方面，因为我可能没有以最佳方式规划开发。 我想在这里问这个问题，因为我正在努力寻找从事过与此类似项目的顾问.   由   提交/u/Dwights-beets   /u/Dwights-beets  reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cijv19/where_to_hire_a_consultant_for_planning_a_web/</guid>
       <pubDate>Thu, 02 May 2024 16:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>VS Code 的 CodePilot</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cijrq9/codepilot_for_vs_code/</link>
-      <description><![CDATA[我制作了这个 VS Code 扩展，它允许您直接在 VS Code 中访问文档、框架和库。  如果您发现它有用，您可以从这里获取它：Code Pilot - VS Code Extension。 如果您对添加网站有任何建议，请随时在评论中提及。或者，欢迎您自己为扩展做出贡献。    提交人    /u/ayushmaansingh304   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cijrq9/codepilot_for_vs_code/</guid>
-      <pubDate>Thu, 02 May 2024 16:18:01 GMT</pubDate>
+      <title>如果 JavaScript 被更强大/更高效的语言取代（请阅读帖子正文以获取解释），那么 Web 开发会有多大的改进？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cifwxt/how_much_of_an_improvement_would_there_be_to_web/</link>
+      <description><![CDATA[Web 开发（至少在客户端）由 3 个主要支柱组成：HTML、CSS 和 JavaScript。我的好奇心在于，如果我们用一种新语言取代 JavaScript，这种新语言考虑到了当今开发的现代性，将会带来什么样的好处（或缺乏好处）（考虑到所有因素，让我们先把事情放在一边）例如向后兼容性等），就像 Go 与 C 的相似之处（当然，并不完美，但希望你明白我的意思），但它擅长创建 API，并拥有强大的 stdlib。 无论如何，我都不是语言设计方面的专家，但即使是像我这样的人也知道，有很多语言不仅比 JavaScript 更快，而且更有用（取决于你在做什么） ）。例如，就 API 而言，Go 在几乎所有指标上都击败了 JavaScript，而且最重要的是，Go 有 Goroutines。 我并不是说 JavaScript/TypeScript（本质上是同样的事情，我知道）必须被移除，或者应该被烧死在火刑柱上。我只是好奇如果 JavaScript 被一种全新的、更强大的语言取代，或者如果有第四种语言（在HTML、CSS 和 JS）几乎可以完成 JS 所做的所有事情，但速度更快，能够并行 + 并发等。   由   提交/u/YonghaeCho  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cifwxt/how_much_of_an_improvement_would_there_be_to_web/</guid>
+      <pubDate>Thu, 02 May 2024 13:38:55 GMT</pubDate>
     </item>
     <item>
-      <title>在哪里可以找到可以作为全栈开发人员构建的项目设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cijgw9/where_can_i_find_project_designs_that_i_can_build/</link>
-      <description><![CDATA[我有 3 年前端开发经验，并且构建了 frontendmentor.io 的几乎所有项目 我想扩展我的技能并参加了大量的课程来适应构建全栈应用程序，但我没有想法    由   提交/u/Intelligent_Will_948   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cijgw9/where_can_i_find_project_designs_that_i_can_build/</guid>
-      <pubDate>Thu, 02 May 2024 16:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSL证书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciio7i/ssl_certificate/</link>
-      <description><![CDATA[我对 Web 开发的经验很少，并且正在开发我的第一个“大规模”Web 项目。网站。我一直在阅读有关 SSL 证书的内容，并希望使用 HTTPS 设置我的网站。我在 PythonAnywhere 上托管。在阅读他们的支持页面并按照他们的步骤进行操作时，我似乎已经完成了转换，但涉及的工作很少，这让我觉得我错过了一些东西。当我单击地址旁边的图标时，它确实表示连接现在是安全的，这让我觉得我已经完成了。我想我有两个问题。  对于在 PythonAnywhere 上托管的其他人来说，这真的像单击按钮一样简单而无需购买证书吗？根据他们的帮助部分，他们免费管理证书。 到第三方购买证书比使用 PythonAnywhere 的证书有好处吗？&lt; /p&gt; 人们是否会推荐任何其他安全类型步骤来防止我的网站被阻止？   我实际上并不担心安全性 - 我根本不收集个人信息或信用卡信息。这严格来说是一个信息类型的网站，但我有一些抱怨说人们被屏蔽了，有人建议这可以解决这个问题。我现在在一个孤岛里工作，所以非常感谢任何建议。    由   提交/u/staceym0204   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciio7i/ssl_certificate/</guid>
-      <pubDate>Thu, 02 May 2024 15:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合非技术人员的自托管 Markdown 发布解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciin8u/selfhosted_markdown_publish_solution_for/</link>
-      <description><![CDATA[你知道是否已经存在这样的项目？我的意思是像 Github Gists 但对于非技术人员来说，使用 wsiwg 编辑器，最少的语法，你会得到 www .domain.com/username/my-markdown-file.md 呈现。并且应该可以轻松地使用 Docker 容器进行托管。他们还可以制作小型网站，只有很少的页面相互链接。 我所说的并不是针对技术人员的 SSG 网站解决方案，例如 Docusaurus、Jekyll、Astro 等。应该使用它只能由普通人通过 wsywg 编辑器。当然，技术人员会配置一次并安装 Docker 容器。 我了解 neocities org，但这似乎太过分了，我需要像 Github 这样的、具有最小 Markdown 语法的最小解决方案。 你知道这样的开源项目吗？   由   提交 /u/voja-kostunica    reddit.com/r/webdev/comments/1ciin8u/selfhosted_markdown_publish_solution_for/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciin8u/selfhosted_markdown_publish_solution_for/</guid>
-      <pubDate>Thu, 02 May 2024 15:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们怎么知道你偷了他们的代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cii9ia/how_can_they_know_you_stole_their_code/</link>
-      <description><![CDATA[以下场景仅仅是假设： 我在 Github 上发现了一些很酷的项目。该许可证不允许商业用途。无论如何，我克隆它并在我的项目中使用它。我 git Push 推送我自己的存储库，添加我的功能，将其投入生产并开始用成品赚钱。  从理论上讲，这是不合法的。我确实违反了许可证。  但是，他们怎么知道呢？我的代码在 Github 上是私有的。没有人能看到它。只有我。 他们将如何起诉我？如果他们看不到我的代码库怎么办？  再说一次，这只是出于好奇，而不是真实场景... 编辑：我不是指前端代码，我的意思是字面上的任何东西：前端、后端、a微服务、用于执行某些操作的自定义库、模板等等。    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cii9ia/how_can_they_know_you_stole_their_code/</guid>
-      <pubDate>Thu, 02 May 2024 15:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 糟糕透了SSSSSSSSSSSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cihyyi/safari_suckssssssssssss/</link>
-      <description><![CDATA[ UI/UX 开发人员。我以为大家都说 Safari 越来越好了？我每天都写 css，Safari 总是给我带来问题😞😡 我已经写代码 4 年了，Safari 总是很糟糕。总是。每次 Safari 更新时，我都会看到一丝希望，但我总是感到失望   / 咆哮结束。我现在感觉好多了   由   提交/u/Dev918  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cihyyi/safari_suckssssssssssss/</guid>
-      <pubDate>Thu, 02 May 2024 15:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助初学者处理从前端到另一个后端服务的 API 请求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cihgiy/please_help_beginner_with_api_requests_from/</link>
-      <description><![CDATA[      我用 Svelte 开发了我的第一个 FE。拓扑如下： FE拓扑 其中 frontvect 是 FE 应用程序，我通过 SSH 隧道连接到远程计算机上的端口 8888。 FE 有一个用于填充下拉列表的组件通过 axios REST API 调用在端口 8086 上的 llm_fast 容器中运行的服务。 在开发过程中，我在端口 8086 上有第二个通往远程计算机的 SSH 隧道，并且一切正常，但是如果第二个隧道关闭后，FE 应用程序不会按其应有的方式获取下拉列表的数据。所以我在完全无知的情况下想象执行 axios.get 的 JS 代码是从我的本地计算机在我的浏览器中运行的，对吗？ 这一定是一个常见的模式，配置这个的正确方法是什么? &lt;脚本&gt;;从 &#39;axios&#39; 导入 axios；从 &#39;svelte&#39; 导入 { onMount }；导出让selectedModel = null; // 初始化为 null export let isagogKey;导出让llmHost；让模型= []；异步函数 fetchModels() { try { const response = wait axios.get(`http://${llmHost}:8086/availablemodels`, { headers: {&#39;X-Isagog-API-Token&#39;: isagogKey} });模型 = Object.keys(response.data); } catch (error) { console.error(&#39;获取模型时出错：&#39;, error); } } onMount(() =&gt; { fetchModels(); }); &lt;/脚本&gt; &lt;div class=&quot;相对内联块w-64&quot;&gt; &gt; &lt;选项禁用选定值={null}&gt;--选择型号-- {#each models as model} &lt;选项值={model}&gt;{model}; {/每个} &lt;/选择&gt;   我认为您不需要它，但这里是构建下拉列表的 FE Svelte 组件。 llmHost 可以是“localhost”或“localhost”。当在具有附加 8086 SSH 隧道或“llm_fast”的本地计算机上工作时这是 docker compose 服务名称，用于让这两个容器在 Docker 网络上进行通信。 提前致谢。    由   提交 /u/olddoglearnsnewtrick   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cihgiy/please_help_beginner_with_api_requests_from/</guid>
-      <pubDate>Thu, 02 May 2024 14:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>修改 JavaScript 在服务器端环境中的角色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cihckj/revising_javascripts_role_in_serverside/</link>
-      <description><![CDATA[ 由   提交/u/rossrobino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cihckj/revising_javascripts_role_in_serverside/</guid>
-      <pubDate>Thu, 02 May 2024 14:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>订阅管理帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cigr9i/subscription_management_help/</link>
-      <description><![CDATA[大家好。我又被屏蔽了这次是我从未实施或集成的订阅管理解决方案。我检查过 Patreon、Stripe、Recurly、killbill、chargebee 等。我想得太多了，所以这个问题的背景并不是真正的技术性，尽管它可能有一点。在完美的世界中，我可以获取一些 html 代码，使用 Mustache 创建一个模板，也许使用一些胶水，然后部署一个静态站点，减去嵌入式订阅的客户端。虽然绝望，但我不想落入陷阱。以下问题是我脑海中旋转的问题，我想获得有关这些问题的建议（即我是否提出了正确的问题）您使用什么进行订阅管理？它是一个组件吗？或者我是否必须先设置 Drupal，然后再设置 Recurly 模块？可以使用订阅模块对订阅者进行身份验证吗？最后，我希望进行设置以便能够接收订阅。目前唯一的订阅是免费套餐，这样我就可以发送新发布内容的更新和通知。   由   提交 /u/tackfulChaos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cigr9i/subscription_management_help/</guid>
-      <pubDate>Thu, 02 May 2024 14:14:37 GMT</pubDate>
+      <title>当专业人士进行更改网站时，如何进行更改？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chu7s8/how_does_changing_site_work_when_a_professional/</link>
+      <description><![CDATA[大家好， 我制作了一些网站，其中大部分是为我的一家企业制作的不复杂的网站。我可以随意更新插件、更改字体等。我对一些电子商务网站也做了同样的事情。  我想建立一个新网站，可能需要专业人士来编写一些代码，因为它有点高级。 它的日常管理如何去？如果我想更改字体，或添加内容，当页面是由某人的代码创建的（尽管在 WordPress 中）时该怎么做？  它的技术细节是什么？我应该为每次更改向开发商付费吗？即使它完全是代码生成的，做一些美观的事情会容易一些吗？ （我只有基本构建器的经验）。 任何提示或经验都值得赞赏 干杯    ;由   提交/u/JYanezez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chu7s8/how_does_changing_site_work_when_a_professional/</guid>
+      <pubDate>Wed, 01 May 2024 19:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
