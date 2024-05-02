@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 02 May 2024 12:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:13:13 GMT</lastBuildDate>
+    <item>
+      <title>美国国家科学基金会资助由东北大学领导的突破性研究项目，以“民主化”人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cii32b/nsf_funds_groundbreaking_research_project_led_by/</link>
+      <description><![CDATA[国家深度推理结构将解锁人工智能领域大型语言模型的内部运作。 该项目将创建计算基础设施将为科学界配备深度推理工具，以便开发跨领域的创新解决方案。  完整文章：https://news.northeastern .edu/2024/05/02/how-do-ai-chatbots-work/   由   提交 /u/NGNResearch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cii32b/nsf_funds_groundbreaking_research_project_led_by/</guid>
+      <pubDate>Thu, 02 May 2024 15:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Groq Llama-3-70b 和 OpenAI TTS/STT 在 R 中进行语音转语音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cihlj5/speech_to_speech_in_r_with_groq_llama370b_and/</link>
+      <description><![CDATA[存储库链接 &lt;我之前曾参与过一个完全端到端的本地 Docker 化构建，该构建结合了 KoboldCPP + WhisperCPP + CoquiTTS，但这个副项目有点不同，而且要轻得多。它基本上只是一个在 R 中运行的非常简单的 Web 应用程序，允许用户（当前录制功能使用 MacOS 本机命令）与 openAI 或 Groq 文本 API 进行交互，还可以将其与 openAI TTS 和 STT 结合起来 I上传了一段简短的 YouTube 视频，记录了我与 Groq 的 Llama3-70B 的对话（仅用于演示目的）。我构建这个框架来使用付费 AI 的原因之一是我没有使用 GPU，而且端到端本地设置非常慢 这对我来说很有效，因为我无论如何都可以用完（非常慢，哈哈）我用 openAI 获得的一些付费代币。我希望继续构建更好的用户界面，并添加一些额外的功能以获得更好的体验。  我想分享，虽然我知道这个社区中没有大量的 R 用户，并且已经有很多应用程序可以做到这一点，但更多的是保持业余项目和你的灵感自己的定制构建。每次弄清楚如何进行更好的设计并与 API 框架交互时，您都会学到新东西 我还将 Llama3-70b 与 Continue.dev VSCode 扩展结合使用（阅读整个代码库哈哈）创建自述文件几乎完全自动化 简短对话的 YouTube 视频  道歉该视频的分辨率非常低，哈哈。但无论如何也没什么可看的:)这是关于语音到语音的   由   提交/u/Straight_Flamingo_89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cihlj5/speech_to_speech_in_r_with_groq_llama370b_and/</guid>
+      <pubDate>Thu, 02 May 2024 14:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>创造力火花和生产力提升：内容生成 GPT4 提示👾✨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cigk4n/creativity_spark_productivity_boost_content/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cigjsr&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cigk4n/creativity_spark_productivity_boost_content/</guid>
+      <pubDate>Thu, 02 May 2024 14:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想制作一个人工智能版本的自己。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cifkbc/i_want_to_make_an_ai_version_of_myself/</link>
+      <description><![CDATA[我希望它通过我的电子邮件，标记废话已读并将其存档，连接到我的 CRM，创建任务，也许做一些他们，通常都能完成任务。  是否有一个人工智能可以让我像我一样完成我的工作？   由   提交 /u/Stateswitness1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cifkbc/i_want_to_make_an_ai_version_of_myself/</guid>
+      <pubDate>Thu, 02 May 2024 13:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>你知道如何编码吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciejo0/do_you_know_how_to_code/</link>
+      <description><![CDATA[只是好奇你们是否会编码。 查看民意调查   由   提交 /u/BTheScrivener   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciejo0/do_you_know_how_to_code/</guid>
+      <pubDate>Thu, 02 May 2024 12:34:31 GMT</pubDate>
+    </item>
     <item>
       <title>由 A.I. 编写的开源多模式多工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cidjhw/opensource_multimodal_multitool_written_by_ai/</link>
@@ -13,32 +48,11 @@
       <pubDate>Thu, 02 May 2024 11:42:43 GMT</pubDate>
     </item>
     <item>
-      <title>专家 GPT 集合👾✨</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cid6i2/expert_gpts_collection/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cid64r&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cid6i2/expert_gpts_collection/</guid>
-      <pubDate>Thu, 02 May 2024 11:23:23 GMT</pubDate>
-    </item>
-    <item>
       <title>还有什么是人工智能做不到的吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/</link>
       <description><![CDATA[有什么事情你认为它永远做不到吗？你认为它能够有效地完成我们所做的一切吗？如果真的到了那个地步，你认为社会会发生什么？你认为人类会为自己创造一堆毫无意义的工作吗？或者你认为它看起来更接近一个我们不工作的乌托邦？    由   提交/u/Impressive-Oil9200   /u/Impressive-Oil9200 reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/</guid>
       <pubDate>Thu, 02 May 2024 10:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索与人工智能的关系</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cibk30/exploring_relationships_with_ai/</link>
-      <description><![CDATA[嗨！我正在写一篇关于人类与人工智能关系的论文，很想听听你的经历。如果您有兴趣合作，请给我发一条私信   由   提交 /u/GreenPterodactylus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cibk30/exploring_relationships_with_ai/</guid>
-      <pubDate>Thu, 02 May 2024 09:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>你学过什么好的人工智能课程吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cianci/any_good_ai_courses_youve_taken/</link>
-      <description><![CDATA[我正在寻求提升技能并了解有关即时工程的更多信息，并想知道是否有人学习过有关此主题或其他人工智能主题的任何优秀在线课程？&lt; /p&gt; 我参加了加拿大营销协会的研讨会，还有 BrainStation 的证书，价格相当昂贵。   由   提交/u/lwhc92  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cianci/any_good_ai_courses_youve_taken/</guid>
-      <pubDate>Thu, 02 May 2024 08:39:23 GMT</pubDate>
     </item>
     <item>
       <title>AI 生成的歌曲在 Spotify 上获得了数千次收听</title>
@@ -62,23 +76,9 @@
       <pubDate>Thu, 02 May 2024 06:48:41 GMT</pubDate>
     </item>
     <item>
-      <title>免费的 Google Gemini API 密钥</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ci6vod/google_gemini_api_key_for_free/</link>
-      <description><![CDATA[查看这个简短教程，了解如何免费生成 Google Gemini 模型 API 密钥以及在任何语言中使用它的代码：https://youtu.be/J8ksL3oqqUE?si=cEFBUzfE4ZPmUtE-   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ci6vod/google_gemini_api_key_for_free/</guid>
-      <pubDate>Thu, 02 May 2024 04:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 5/1/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ci6vjg/oneminute_daily_ai_news_512024/</link>
-      <description><![CDATA[ 乌克兰公布人工智能发言人在战争中“提供及时更新”。[1] 对Humane AI Pin 和 Teenage Engineering 的 Rabbit R1 的评价都不是积极的。[2] Anthropic推出配备 AI 聊天机器人 Claude 的 iOS 应用程序。[3] 让山姆会员店顾客更快出门的 AI 技术很快就会在所有门店普及。 [4]  来源：https://bushaicave .com/2024/05/01/5-1-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ci6vjg/oneminute_daily_ai_news_512024/</guid>
-      <pubDate>Thu, 02 May 2024 04:35:38 GMT</pubDate>
-    </item>
-    <item>
       <title>了解人工智能新闻的最佳单一来源是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chy900/what_is_the_single_best_source_to_keep_up_with_ai/</link>
-      <description><![CDATA[有如此多的新闻通讯和渠道发布或提及新工具和产品，但我遇到的大多数最酷的东西都是朋友发给我的。 我希望保持更新而不感到不知所措，我最感兴趣的是刚刚向公众发布的新产品（无论领域或类型，可能是文本，图像/视频，音乐，艺术......无论什么）。 有时我觉得自己一直生活在岩石下，尽管事实上我恰恰相反。 什么是最好和最全面的地方来跟上现实世界的应用程序（以及即将应用的科学进步）？ 我在想也许 Hacker News（我偶尔会浏览）就是它，但是让我看看这里的其他人怎么想。    提交人    /u/BlackJackT   [链接] [评论]]]></description>
+      <description><![CDATA[有很多新闻通讯和渠道发布或提及新工具和产品，但我遇到的大多数最酷的事情都是发送给我的 我希望保持最新动态，但又不想被淹没，而且我最感兴趣的是刚刚向公众发布的新产品（无论领域或类型，可以是文本、图像/视频、音乐） ，艺术......无论如何）。 有时我觉得我一直生活在岩石下，尽管事实上我恰恰相反。 什么是最好的以及最全面的地方来了解最新的现实世界应用程序（但也有接近应用的科学进步）？ 我想也许黑客新闻（我已经偶尔浏览过）是它，但让我看看这里其他人的想法。   由   提交 /u/BlackJackT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chy900/what_is_the_single_best_source_to_keep_up_with_ai/</guid>
       <pubDate>Wed, 01 May 2024 21:46:17 GMT</pubDate>
     </item>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

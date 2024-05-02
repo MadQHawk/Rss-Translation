@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 02 May 2024 12:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:13:08 GMT</lastBuildDate>
+    <item>
+      <title>营销机构自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1ciesnn/automations_for_marketing_agency/</link>
+      <description><![CDATA[大家好！我是一家精品营销机构的老板。目前只有我和一名实习生，但我有很多客户和很多产品。我的利基市场是小型企业，他们无力承担大量专业机构的费用，但他们希望以一小部分成本将一切做好。  我无法从 SEO 策略中获得数千个新销售线索，但我可以每天将网站流量增加 200+（但这就是客户所需要的）。希望这能让我了解与我一起工作的人。  无论如何。就像我说的，我做了很多不同的事情（网页设计、社交媒体管理、内容创建、搜索引擎优化、电子邮件营销、谷歌广告等）。我知道我可以以某种方式自动化这些过程，但我不知道如何！ 有人拥有可以节省大量时间的系统吗？ （例如，发送自动电子邮件、为帖子创建内容日历、撰写和发布博客等）。与 Zapier 相比，我更喜欢 Make.com，所以如果我可以利用它，那就太好了！ 第二个问题，如果没有人有的话第一个问题的答案 - 我如何/在哪里可以找到一个人，他不仅会告诉我我可以自动化什么，而且还会为我做这件事？    由   提交 /u/alexxxcazam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ciesnn/automations_for_marketing_agency/</guid>
+      <pubDate>Thu, 02 May 2024 12:47:22 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年人工智能开发者路线图</title>
       <link>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</link>
@@ -34,9 +41,9 @@
       <pubDate>Wed, 01 May 2024 07:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以推荐一些关于自动化办公任务的具体教程吗？</title>
+      <title>有人可以推荐一些自动化办公任务的具体教程吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</link>
-      <description><![CDATA[我急需一些可以帮助我开始自动化办公任务的教程    提交人    /u/DepthInternational78   [链接] [评论]]]></description>
+      <description><![CDATA[我迫切需要一些教程来帮助我开始自动化办公任务   由   提交/u/DepthInternational78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</guid>
       <pubDate>Tue, 30 Apr 2024 22:35:57 GMT</pubDate>
     </item>
@@ -78,12 +85,12 @@
     <item>
       <title>Paperlib：开源人工智能研究论文管理工具</title>
       <link>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</link>
-      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/High_Sleep3694   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</guid>
       <pubDate>Mon, 29 Apr 2024 11:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>您实施的令您引以为傲的想法/改进是什么</title>
+      <title>你实施的让你感到自豪的想法或改进是什么</title>
       <link>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</link>
       <description><![CDATA[与主题几乎相同，您实现的自动化想法/流程是您真正引以为豪的，并且带来了一些积极的变化/改进   由   提交 /u/Suspicious_Ad8214   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
-      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （30 个问题，量表评级为 1-10） 将每个结果添加到现有 Excel 工作表中预定义的列单元格中，以便现有图表使用表单编号进行更新。 使用 pdf .co 等工具生成 Excel 图表的 pdf 通过电子邮件将其发送给填写 JotForm 表单的用户。     提交人    /u/Effective-Divide-291   [链接] [评论]]]></description>
+      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 11:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候废除“用户”这个词了</title>
-      <link>https://www.reddit.com/r/automation/comments/1cf0y53/its_time_to_retire_the_term_user/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cf0y53/its_time_to_retire_the_term_user/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:50:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
