@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 02 May 2024 03:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:17:50 GMT</lastBuildDate>
     <item>
-      <title>对齐层</title>
-      <link>https://www.opensourceagenda.com/projects/aligned-layer</link>
-      <description><![CDATA[Aligned Layer 是使用 Eigen Layer 进行零知识证明的验证层。我们的使命是加速以太坊上零知识和有效性证明的采用。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aligned-layer</guid>
-      <pubDate>Thu, 02 May 2024 03:14:54 GMT</pubDate>
+      <title>姆哈比特</title>
+      <link>https://www.opensourceagenda.com/projects/mhabit</link>
+      <description><![CDATA[我们的应用程序通过易于使用的📈图表和工具帮助您形成和跟踪微习惯，使其成为建立坚持的健康习惯很简单。从今天开始您的个人成长之旅🚀！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mhabit</guid>
+      <pubDate>Thu, 02 May 2024 06:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>安德鲁代码开发流利</title>
-      <link>https://www.opensourceagenda.com/projects/andrewcodedev-fluent</link>
-      <description><![CDATA[原生标量类型的流畅接口实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/andrewcodedev-fluent</guid>
-      <pubDate>Thu, 02 May 2024 03:14:54 GMT</pubDate>
+      <title>Messenger 应用程序 Ui 概念</title>
+      <link>https://www.opensourceagenda.com/projects/messenger-app-ui-concept</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/messenger-app-ui-concept</guid>
+      <pubDate>Thu, 02 May 2024 06:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>SaaS 登陆页面</title>
-      <link>https://www.opensourceagenda.com/projects/saas-landingpage</link>
-      <description><![CDATA[https://map.sistilli.dev/public/coding/SaaS+Boilerplate]]></description>
-      <guid>https://www.opensourceagenda.com/projects/saas-landingpage</guid>
-      <pubDate>Thu, 02 May 2024 03:14:54 GMT</pubDate>
+      <title>随时播客播放器</title>
+      <link>https://www.opensourceagenda.com/projects/anytime-podcast-player</link>
+      <description><![CDATA[用 Flutter 和 Dart 编写的简单易用的播客播放器应用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/anytime-podcast-player</guid>
+      <pubDate>Thu, 02 May 2024 06:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>副驾驶一号</title>
-      <link>https://www.opensourceagenda.com/projects/copilotone</link>
-      <description><![CDATA[在您的应用程序中添加 Siri，例如本机 AI 代理。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/copilotone</guid>
-      <pubDate>Thu, 02 May 2024 03:14:53 GMT</pubDate>
+      <title>Mmas 资金追踪器</title>
+      <link>https://www.opensourceagenda.com/projects/mmas-money-tracker</link>
+      <description><![CDATA[💸🔥 用于日常支出跟踪和个人财务管理的优化应用程序。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mmas-money-tracker</guid>
+      <pubDate>Thu, 02 May 2024 06:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>偏移分配器</title>
-      <link>https://www.opensourceagenda.com/projects/offset-allocator</link>
-      <description><![CDATA[Sebastian Aaltonen 的 `OffsetAllocator` 到 Rust 的端口]]></description>
-      <guid>https://www.opensourceagenda.com/projects/offset-allocator</guid>
-      <pubDate>Thu, 02 May 2024 03:14:53 GMT</pubDate>
+      <title>公共Makeaplan</title>
+      <link>https://www.opensourceagenda.com/projects/makeaplan-public</link>
+      <description><![CDATA[【制定一个计划】是一个目标规划应用，通过最直接，最清晰的方式帮助你记录和追踪自己的计划，辅助你达成自己的目标。使用 Golang+gRPC+Flutter 开发。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/makeaplan-public</guid>
+      <pubDate>Thu, 02 May 2024 06:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>奥姆普莱斯</title>
-      <link>https://www.opensourceagenda.com/projects/omniplex</link>
-      <description><![CDATA[开源困惑]]></description>
-      <guid>https://www.opensourceagenda.com/projects/omniplex</guid>
-      <pubDate>Thu, 02 May 2024 03:14:53 GMT</pubDate>
+      <title>模拟</title>
+      <link>https://www.opensourceagenda.com/projects/simulate</link>
+      <description><![CDATA[在您的操作系统上使用框架设备（android、ios、desktop）在跨平台上模拟您的项目颤振，无需繁重的操作虚拟机]]></description>
+      <guid>https://www.opensourceagenda.com/projects/simulate</guid>
+      <pubDate>Thu, 02 May 2024 06:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>不和谐 J2me</title>
-      <link>https://www.opensourceagenda.com/projects/discord-j2me</link>
-      <description><![CDATA[适用于 Java ME（MIDP 2.0）设备的 Discord 客户端]]></description>
-      <guid>https://www.opensourceagenda.com/projects/discord-j2me</guid>
-      <pubDate>Thu, 02 May 2024 03:14:53 GMT</pubDate>
+      <title>情绪示例</title>
+      <link>https://www.opensourceagenda.com/projects/mood-example</link>
+      <description><![CDATA[🐦 Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mood-example</guid>
+      <pubDate>Thu, 02 May 2024 06:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>运动液晶模组</title>
-      <link>https://www.opensourceagenda.com/projects/motionlcm</link>
-      <description><![CDATA[MotionLCM：此存储库是“MotionLCM：通过潜在一致性模型实时可控运动生成”的官方实现”]]></description>
-      <guid>https://www.opensourceagenda.com/projects/motionlcm</guid>
-      <pubDate>Thu, 02 May 2024 03:14:52 GMT</pubDate>
+      <title>电影实验室</title>
+      <link>https://www.opensourceagenda.com/projects/movielab</link>
+      <description><![CDATA[开源电影跟踪器和电影查找器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/movielab</guid>
+      <pubDate>Thu, 02 May 2024 06:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>免费 Wow 会议生成器</title>
-      <link>https://www.opensourceagenda.com/projects/free-wow-conf-generator</link>
-      <description><![CDATA[一个免费工具，用于在扭曲配置文件上生成扭曲，以便用于Hiddify 下一个应用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/free-wow-conf-generator</guid>
-      <pubDate>Thu, 02 May 2024 03:14:52 GMT</pubDate>
+      <title>颤振约会模板</title>
+      <link>https://www.opensourceagenda.com/projects/flutter-dating-template</link>
+      <description><![CDATA[flutter 版本的交友 app 模板，总计页面35个，测试数据基于 mockjs 创建（A dating app template for The Flutter version, with a total of 35 pages, was created based on MockJS.）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/flutter-dating-template</guid>
+      <pubDate>Thu, 02 May 2024 06:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>赫里希克什哈希</title>
-      <link>https://www.opensourceagenda.com/projects/hrishiksh-hash</link>
-      <description><![CDATA[适合所有人的基于终端的密码管理器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hrishiksh-hash</guid>
-      <pubDate>Thu, 02 May 2024 03:14:52 GMT</pubDate>
+      <title>开放阅读</title>
+      <link>https://www.opensourceagenda.com/projects/openreads</link>
+      <description><![CDATA[用 Flutter 编写的移动图书跟踪器，尊重您的隐私。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openreads</guid>
+      <pubDate>Thu, 02 May 2024 06:17:46 GMT</pubDate>
     </item>
     <item>
-      <title>WICG 翻译 API</title>
-      <link>https://www.opensourceagenda.com/projects/wicg-translation-api</link>
-      <description><![CDATA[网络翻译 API 提案]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wicg-translation-api</guid>
-      <pubDate>Thu, 02 May 2024 03:14:52 GMT</pubDate>
+      <title>CMS移动</title>
+      <link>https://www.opensourceagenda.com/projects/cms-mobile</link>
+      <description><![CDATA[amfoss cms 的 flutter 项目]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cms-mobile</guid>
+      <pubDate>Thu, 02 May 2024 06:17:46 GMT</pubDate>
     </item>
     <item>
-      <title>戈卡尔坎</title>
-      <link>https://www.opensourceagenda.com/projects/gokalkan</link>
-      <description><![CDATA[用于处理哈萨克斯坦共和国数字签名的库 🔑 🇰🇿]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gokalkan</guid>
-      <pubDate>Thu, 02 May 2024 03:14:51 GMT</pubDate>
+      <title>和声音乐</title>
+      <link>https://www.opensourceagenda.com/projects/harmony-music</link>
+      <description><![CDATA[用于流媒体音乐的跨平台应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/harmony-music</guid>
+      <pubDate>Thu, 02 May 2024 06:17:46 GMT</pubDate>
     </item>
     <item>
-      <title>Mahmoodlab CLAM</title>
-      <link>https://www.opensourceagenda.com/projects/mahmoodlab-clam</link>
-      <description><![CDATA[整个幻灯片图像上的数据高效且弱监督的计算病理学 - 自然生物医学工程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mahmoodlab-clam</guid>
-      <pubDate>Thu, 02 May 2024 03:14:51 GMT</pubDate>
+      <title>爱神FE</title>
+      <link>https://www.opensourceagenda.com/projects/eros-fe</link>
+      <description><![CDATA[基于 Flutter 制作的 e-hentai/exhentai 应用]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eros-fe</guid>
+      <pubDate>Thu, 02 May 2024 06:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>ACMIL</title>
-      <link>https://www.opensourceagenda.com/projects/acmil</link>
-      <description><![CDATA[WSI 分类]]></description>
-      <guid>https://www.opensourceagenda.com/projects/acmil</guid>
-      <pubDate>Thu, 02 May 2024 03:14:51 GMT</pubDate>
+      <title>五霸博览会</title>
+      <link>https://www.opensourceagenda.com/projects/wuba-fair</link>
+      <description><![CDATA[A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wuba-fair</guid>
+      <pubDate>Thu, 02 May 2024 06:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript 57705</title>
-      <link>https://www.opensourceagenda.com/projects/javascript-57705</link>
-      <description><![CDATA[CoderHouse 委员会 #57705 学生专用的存储库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/javascript-57705</guid>
-      <pubDate>Thu, 02 May 2024 03:14:51 GMT</pubDate>
+      <title>纳米达</title>
+      <link>https://www.opensourceagenda.com/projects/namida</link>
+      <description><![CDATA[内置 Flutter 的美观且功能丰富的音乐和视频播放器，支持 Youtube]]></description>
+      <guid>https://www.opensourceagenda.com/projects/namida</guid>
+      <pubDate>Thu, 02 May 2024 06:17:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
