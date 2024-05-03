@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 03 May 2024 00:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 03:14:26 GMT</lastBuildDate>
+    <item>
+      <title>Premire 陷入“创建代理工作”的困境</title>
+      <link>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</link>
+      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它就会卡在“”上“创建代理作业”。媒体编码器端似乎也没有发生任何操作 CPU：Intel Core i5 10300H   由   提交/u/GreenToad56  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</guid>
+      <pubDate>Fri, 03 May 2024 02:24:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>纪录片的网站娱乐</title>
+      <link>https://www.reddit.com/r/editors/comments/1ciwvhz/website_recreations_for_documentaries/</link>
+      <description><![CDATA[大家好，我在很多调查纪录片中看到他们重新创建了一个网站以便为文本等添加动画效果，我想知道什么是执行此操作的最佳方法是为了轻松在 After Effects 或任何其他软件中制作动画，但仍然可以轻松创建新页面。我知道我的问题可能会很愚蠢，但我对这种类型的电影制作还是新手。 提前谢谢大家。  &amp;# 32；由   提交/u/alexroumi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ciwvhz/website_recreations_for_documentaries/</guid>
+      <pubDate>Fri, 03 May 2024 01:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>电视演播室制作中现场抠像的交付规范</title>
       <link>https://www.reddit.com/r/editors/comments/1cio5qs/deliveryspecs_for_live_keying_in_a_tv/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 02 May 2024 19:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
+      <title>我们专业人士的定期 Mod 请求：请签到并为在“询问任何事情”和“职业”主题上发帖的人提供建议。</title>
       <link>https://www.reddit.com/r/editors/comments/1cikt67/regular_mod_request_of_our_professionals_please/</link>
       <description><![CDATA[我们有大量专业人士访问此 Reddit 子版块 - 还有许多人试图成为该领域的专业人士。 p&gt; 我们要求我们的专业人员每周一次检查我们的“询问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 子版块的菜单区域或通过官方客户端找到。 需要明确的是 - 我们正在谈论子顶部的每周链接。 https://i.imgur.com/I19zmc2.png  这个想法是你进入那里并为以下方面提供有用的建议：  “问任何问题”人群 寻求职业建议的人。  谢谢（不在这里，请那些帖子！） ​ 询问任何话题 职业主题&lt; /p&gt;   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cikt67/regular_mod_request_of_our_professionals_please/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>创建干净的弗兰肯咬伤的技巧？</title>
       <link>https://www.reddit.com/r/editors/comments/1cihmj5/tips_for_creating_clean_frankenbites/</link>
-      <description><![CDATA[大家好！我一直在为各种项目将音频剪辑编辑成 Frankenbites，并且经常面临拼接之间速度、音调和语调不匹配的挑战。我一直在剪辑之间使用两帧交叉淡入淡出，这有点帮助，但我正在寻找其他可以提高声音无缝度的技术或工具。任何建议或意见，将不胜感激！谢谢！   由   提交 /u/indymoguler   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我一直在为各种项目将音频剪辑编辑成 frankenbites，并且经常面临拼接之间速度、音高和语调不匹配的挑战。我一直在剪辑之间使用两帧交叉淡入淡出，这有点帮助，但我正在寻找可以改善声音无缝性的其他技术或工具。任何建议或意见都将不胜感激！谢谢！    提交人    /u/indymoguler   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cihmj5/tips_for_creating_clean_frankenbites/</guid>
       <pubDate>Thu, 02 May 2024 14:51:38 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>Premiere Pro 数据隐私问题：我正在向客户提供源文件</title>
       <link>https://www.reddit.com/r/editors/comments/1ci8f8p/premiere_pro_data_privacy_question_im_giving_a/</link>
-      <description><![CDATA[您好，我在 PC 上的 Premiere Pro 上处理多个项目（和大家一样）。项目保存在不同硬盘驱动器上的文件中（内容和 adobe Premiere 文件项目）。这是一个有点棘手的问题。  客户 1：他们想要源文件和所有媒体。这很好，他们支付了额外的传输费用。 客户端 2：项目包含敏感数据/内容。该项目与所有相关数据保存在完全不同的硬盘驱动器上。 我担心：如果我将整个客户端 1 文件夹（所有数据）传输到云端以供客户端 1 访问，客户端 1 是否能够以某种方式查看/有权访问任何客户端 2 信息？元数据或文件名？ 我紧张的原因是因为其他自动保存的文件夹/缓存等（全部保存到我的 C 驱动器）。另外，当我从直接图标打开 Premiere 时，Premiere 会显示我所从事的项目的历史记录。我总是确保每次打开其他 Premiere 项目之前关闭 Premiere。 总的来说，我只是想确保客户端 1 根本无法访问客户端 2 的数据。 感谢您的聆听。   由   提交 /u/netherlanddwarf   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我和大家一样，在 PC 上使用 Premiere Pro 处理多个项目。项目保存在不同硬盘上的文件中（内容和 Adob​​e Premiere 文件项目）。这是一个有点棘手的问题。 客户 1：他们想要源文件和所有媒体。这没问题，他们为传输支付了额外费用。 客户 2：项目包含敏感数据/内容。项目与所有相关数据一起保存在完全不同的硬盘上。 我的担心：如果我将整个客户 1 文件夹（所有数据）传输到云端仅供客户 1 访问，客户 1 是否能够以某种方式查看/访问任何客户 2 信息？元数据或文件名？ 我之所以紧张，是因为其他自动保存的文件夹/缓存等（全部保存到我的 C 盘）。此外，当我从直接图标打开 Premiere 时，Premiere 会显示我处理过的项目的历史记录。每次打开其他 Premiere 项目之前，我都会确保关闭 Premiere。 总的来说，我只想确保客户端 1 根本无法访问客户端 2 的数据。 感谢您的聆听。    提交人    /u/netherlanddwarf   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci8f8p/premiere_pro_data_privacy_question_im_giving_a/</guid>
       <pubDate>Thu, 02 May 2024 06:08:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我刚刚开始了一份新的工作，担任编辑，还有一位我以前从未合作过的助理编辑。我注意到所有的“多镜头”他说他制作的并不是真正的多镜头，但似乎所有角度都在时间轴上同步。因此，我无法在多机位视图中观看它，这使得编辑此类节目非常困难。 我不确定它们是如何像这样同步的，以及是否存在快速纠正它的方法，或者他是否必须一起制作新的多机位？    由   提交/u/One-Patient-3417   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</guid>
       <pubDate>Wed, 01 May 2024 22:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该终止与客户的合同吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1chy2xx/should_i_end_my_contract_with_my_client/</link>
-      <description><![CDATA[[我不知道为什么 Reddit 发布了三次这篇文章，我已经删除了额外的克隆帖子，所以如果您对以下任何内容发表评论这些，我邀请您在这里分享您的评论] 上个月，我开始与一位客户合作，他需要根据最近的人类历史和事件制作视频。 视频的风格非常基础，但使用了大量的表情包和巧妙的幽默，与千禧一代和后来几代观众产生了很好的共鸣。对于我正在制作的此类视频，我能给出的最接近的参考是一个名为 Sciencephile the AI 的 YouTube 频道。这不是我工作的频道，但我们的风格非常相似。 我从他们的配音艺术家那里收到了文本脚本和音频旁白，但仅此而已。该脚本很简单 - 只是音频的文本版本，没有其他说明或指示。 这一切都取决于我。上个月我制作了几个视频，我的客户对此非常满意。 我必须多次阅读脚本并听旁白并弄清楚如何翻译某些内容无趣的东西有趣但不分散注意力，信息丰富但不无聊。 我必须找出所有模因（或创建一些我自己的），所有各种图像/视频等，并找到一种方法让一切变得连贯且有趣。 但问题是，这一切都需要很多时间。最初我以为我只需要从互联网上获取一堆表情包并提交视频即可。 但最近的视频长达 1 个小时以上，要始终如一地完成所有这些工作非常棘手。  p&gt; 客户希望每周制作一个视频，但自从我和他一起制作第一个视频以来，我已经错过了每个截止日期几天甚至几周。 我一直认为我正在被懒惰，但有时在我开始在时间线上编辑所有任务之前查看我需要完成的所有不同任务是非常令人沮丧的。 我知道让人们发笑是一项极其艰巨的任务，我很幸运能够成为视频编辑和单口喜剧演员的结合体。客户也看到了我的这些品质，并认为我是完成这项工作的合适人选，但对我来说最大的障碍和失败是所需的时间和我造成的延误。 有时我会感到害怕，不知道还能告诉他什么。我已经错过了我们约定的所有最后期限，他很好地适应了，但这种工作方式不能长期持续，最终他会放弃我。他承认很难找到像我这样的人，但我不能长期利用这种优势。 我已经准确地告诉了他问题所在，我觉得我可能会不得不退出这个项目，只是因为我知道我永远不会在每周 1 个视频的截止日期之前完成，而且我将不断失去制作未来视频的动力。 我有什么选择？我很乐意继续制作这些视频，但我需要找出最有效的处理方式。我觉得这些视频有可能火爆，当它们爆发时我也想参与其中。但我真的需要帮助来了解如何做得更好。 有人可以帮助我提供一些提示/先前的经验或其他东西吗？ 抱歉，文字很长，我需要把它说出来并寻求帮助。   由   提交/u/x3noborg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1chy2xx/should_i_end_my_contract_with_my_client/</guid>
-      <pubDate>Wed, 01 May 2024 21:39:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地 700 成员作为 AE 想要成为一名调色师？</title>
-      <link>https://www.reddit.com/r/editors/comments/1chxve6/local_700_member_as_an_ae_seeking_to_be_a_colorist/</link>
-      <description><![CDATA[大家好， 我的目标是成为一名调色师，目前我有足够的助理编辑时间来加入当地 700 名名单（我在洛杉矶）。我已完成加入名册的所有文书工作，只是尚未提交，因为我正在寻找几个答案：  我目前从事无薪/低薪工作自由着色和编辑演出，如果我要加入花名册，然后最终加入工会，我是否必须*要求*调色师或 AE 率，或者我仍然可以承担基本上是 Craigslist 的演出吗？ 如果我在加入花名册/工会后找到了一家邮局来收留我，那是如何运作的？我要向工会请假吗？如果是这样，列入名单是否需要办理 LoA 的正式文书？ 有点归结为：如果有人为我提供低薪工作，我是否会被迫步行因加入名册/工会而离开？ 成员一旦加入名册/工会，是否必须遵守规则？ li&gt; 我知道加入花名册是一个绝佳的机会，但我也想确保这是成为调色师的下一个正确步骤。有什么我应该注意的缺点吗？    由   提交/u/blueberrybones  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1chxve6/local_700_member_as_an_ae_seeking_to_be_a_colorist/</guid>
-      <pubDate>Wed, 01 May 2024 21:31:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

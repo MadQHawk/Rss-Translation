@@ -4,11 +4,39 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 03 May 2024 00:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 03:14:35 GMT</lastBuildDate>
+    <item>
+      <title>CSS 选择器 - 第 1 部分：基本 CSS 选择器系列🧑‍💻#css #csstutorial #css3 #cssselector #coding</title>
+      <link>https://www.reddit.com/r/programming/comments/1ciygtv/css_selectors_part_1_basic_css_selector_series/</link>
+      <description><![CDATA[ 由   提交/u/Mech_beast001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ciygtv/css_selectors_part_1_basic_css_selector_series/</guid>
+      <pubDate>Fri, 03 May 2024 03:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人向我解释一下Figma.com 主页上的动画是如何工作的</title>
+      <link>https://www.reddit.com/r/programming/comments/1ciyfas/someone_explain_to_me_how_animations_are_working/</link>
+      <description><![CDATA[我正在尝试弄清楚动画在Figma.com 上是如何工作的。他们是如何制作这些动画的？看起来不像是 gif  只是想提高我的动画前端技能   由   提交/u/jakeparkinson6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ciyfas/someone_explain_to_me_how_animations_are_working/</guid>
+      <pubDate>Fri, 03 May 2024 03:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个包含 120 多种类型和装饰器的库，以实现更安全的 TS</title>
+      <link>https://www.reddit.com/r/programming/comments/1cix9bo/i_made_a_library_with_120_types_and_decorators/</link>
+      <description><![CDATA[ 由   提交/u/AshR75  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cix9bo/i_made_a_library_with_120_types_and_decorators/</guid>
+      <pubDate>Fri, 03 May 2024 02:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作可点击的图像来播放视频而无需重定向？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cix1ff/how_do_i_make_a_clickable_image_that_plays_a/</link>
+      <description><![CDATA[ 由   提交 /u/TheKingofStupidness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cix1ff/how_do_i_make_a_clickable_image_that_plays_a/</guid>
+      <pubDate>Fri, 03 May 2024 01:53:28 GMT</pubDate>
+    </item>
     <item>
       <title>优化什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1civqlh/optimize_what/</link>
-      <description><![CDATA[ 由   提交/u/bbb23sucks  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/bbb23sucks  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1civqlh/optimize_what/</guid>
       <pubDate>Fri, 03 May 2024 00:48:09 GMT</pubDate>
     </item>
@@ -20,9 +48,9 @@
       <pubDate>Fri, 03 May 2024 00:31:55 GMT</pubDate>
     </item>
     <item>
-      <title>Node.js 22 开始原生支持 CJS/ESM 互操作性</title>
+      <title>Node.js 22 开始对 CJS/ESM 互操作性的本机支持</title>
       <link>https://www.reddit.com/r/programming/comments/1citoly/native_support_for_cjsesm_interoperability_begins/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/hizacharylee  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1citoly/native_support_for_cjsesm_interoperability_begins/</guid>
       <pubDate>Thu, 02 May 2024 23:09:00 GMT</pubDate>
     </item>
@@ -43,21 +71,21 @@
     <item>
       <title>Open ID connect (OIDC) 如何在 GitHub Actions 中工作（图解）</title>
       <link>https://www.reddit.com/r/programming/comments/1cis2vt/how_open_id_connect_oidc_works_in_github_actions/</link>
-      <description><![CDATA[ 由   提交/u/utpalnadiger  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/utpalnadiger  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cis2vt/how_open_id_connect_oidc_works_in_github_actions/</guid>
       <pubDate>Thu, 02 May 2024 21:58:21 GMT</pubDate>
     </item>
     <item>
       <title>Git：您可能会使用的一些提高生产力的技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1cir8rg/git_some_productivity_tips_you_might_use/</link>
-      <description><![CDATA[  由    /u/hizacharylee  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cir8rg/git_some_productivity_tips_you_might_use/</guid>
       <pubDate>Thu, 02 May 2024 21:22:38 GMT</pubDate>
     </item>
     <item>
       <title>GitHub 是否已经无法满足您的需求？</title>
       <link>https://www.reddit.com/r/programming/comments/1ciqzar/do_you_ever_outgrow_github/</link>
-      <description><![CDATA[  由    /u/kendumez  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/kendumez  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ciqzar/do_you_ever_outgrow_github/</guid>
       <pubDate>Thu, 02 May 2024 21:11:33 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/v4nn4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ciootg/llm_technical_reports_in_a_single_dashboard/</guid>
       <pubDate>Thu, 02 May 2024 19:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust：Box 是一种独特的类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1ciobqo/rust_box_is_a_unique_type/</link>
-      <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ciobqo/rust_box_is_a_unique_type/</guid>
-      <pubDate>Thu, 02 May 2024 19:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>一周内用 C 语言制作 3D 建模器</title>
-      <link>https://www.reddit.com/r/programming/comments/1cinjby/making_a_3d_modeler_in_c_in_a_week/</link>
-      <description><![CDATA[ 由   提交/u/FoxInTheRedBox  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cinjby/making_a_3d_modeler_in_c_in_a_week/</guid>
-      <pubDate>Thu, 02 May 2024 18:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPA、Cedar、OpenFGA：为什么策略语言现在很流行？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cimpf3/opa_cedar_openfga_why_are_policy_languages/</link>
-      <description><![CDATA[ 由   提交/u/odd_sherlock  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cimpf3/opa_cedar_openfga_why_are_policy_languages/</guid>
-      <pubDate>Thu, 02 May 2024 18:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sopwith 40 周年，经典 DOS 游戏 - 查看原始源代码、现代移植、固定多人游戏、历史等</title>
-      <link>https://www.reddit.com/r/programming/comments/1cim3uf/40_years_of_sopwith_classic_dos_game_see_original/</link>
-      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cim3uf/40_years_of_sopwith_classic_dos_game_see_original/</guid>
-      <pubDate>Thu, 02 May 2024 17:54:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
