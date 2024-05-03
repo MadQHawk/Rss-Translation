@@ -4,20 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 03 May 2024 03:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:16:21 GMT</lastBuildDate>
+    <item>
+      <title>轻量级Python框架，让AI App发布变得简单</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cj1h7g/lightweight_python_framework_that_makes_ai_app/</link>
+      <description><![CDATA[ Cycls 是一个新的 Python 框架，它简化了启动 AI 应用程序（尤其是聊天机器人）的过程。该工具使开发人员能够通过简单的用户界面快速在线访问他们的应用程序。 它的设计是用户友好的，允许将其与众所周知的 Python 库和 API 无缝集成。这使得它成为那些刚开始开发人工智能驱动的聊天界面的人的绝佳选择。该框架特别适合管理软件开发中常见的频繁更新和测试，从而降低通常涉及的复杂性。 如果您有兴趣减少部署人工智能聊天机器人的技术挑战，请注册等待名单：https://cycls.typeform.com/waitlist    由   提交 /u/moonbunR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cj1h7g/lightweight_python_framework_that_makes_ai_app/</guid>
+      <pubDate>Fri, 03 May 2024 06:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们如何将说唱歌曲的歌词变成老派歌曲？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cj1ep2/how_do_people_turn_rap_song_lyrics_into_old/</link>
+      <description><![CDATA[我看过 Youtube 上发布的带有 AI 歌曲的视频，这些歌曲使用歌词重新创建了现有的说唱歌曲，并创建了它们的旧派音乐版本。这是如何完成的？ 以下是示例： Juvenile - Back That A** Up https://www.youtube.com/watch?v=LSueNHEbhd4 Drake - 富有的宝贝爸爸https://www.youtube.com/watch?v=FcS9MnJLglw   由   提交 /u/OMrealestate   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cj1ep2/how_do_people_turn_rap_song_lyrics_into_old/</guid>
+      <pubDate>Fri, 03 May 2024 05:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有推荐一些免费的在线 AI 服务吗？除了 ChatGPT、Copilot 等。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cj103c/suggestions_to_free_ai_services_online_other_than/</link>
+      <description><![CDATA[人工智能在线使用的世界正在不断变化且迅速扩展。我想知道是否有人愿意推荐任何免费且具有任何或有限访问或使用的在线人工智能服务。如果您可以提供链接以及他们提供的工具（即：聊天、图形设计等），那就太好了！提前谢谢您。   由   提交 /u/everydayasl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cj103c/suggestions_to_free_ai_services_online_other_than/</guid>
+      <pubDate>Fri, 03 May 2024 05:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个人工智能项目！基督徒聊天机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cj0sxb/my_first_ai_project_chatbots_for_christians/</link>
+      <description><![CDATA[大家好！周末我为基督徒编写了一个轻量级应用程序，其中包含几个聊天机器人选项。我对结果非常满意。请尝试一下，如果您有任何反馈，请告诉我！ 链接：https://faith-chats。 streamlit.app/ 堆栈是 Llama 3、Replicate、LangSmith 和 Streamlit。   由   提交 /u/Eastern-Hand6960    reddit.com/r/ArtificialInteligence/comments/1cj0sxb/my_first_ai_project_chatbots_for_christians/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cj0sxb/my_first_ai_project_chatbots_for_christians/</guid>
+      <pubDate>Fri, 03 May 2024 05:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 5/2/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cj04jf/oneminute_daily_ai_news_522024/</link>
+      <description><![CDATA[ 苹果首席执行官蒂姆·库克在盈利超出预期后夸耀未来的人工智能计划。[ 1] 日本首相岸田文雄于周四公布了监管和使用生成式人工智能的国际框架。[2] 微软&lt; /strong&gt; 禁止美国警察部门使用企业人工智能工具进行面部识别。[3] Dropbox、Figma 首席执行官支持 Lamini&lt; /strong&gt;，一家为企业构建生成式人工智能平台的初创公司。[4]  来源：https://bushaicave.com/2024/05/02/5-2-2024/  &amp; #32；由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cj04jf/oneminute_daily_ai_news_522024/</guid>
+      <pubDate>Fri, 03 May 2024 04:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[讨论]关于人工智能自身变得更聪明的可能方式......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cizqtu/discussion_on_the_possible_ways_ai_gets_smarter/</link>
+      <description><![CDATA[随着人工智能领域的许多领导者表示或暗示 AGI 可能很快就会到来，我很好奇什么“智能”这个词实际上是指给定的人工智能。 我的意思是，人工智能是否有可能获得足够的智能来“推断”或“猜测”什么智能的其他方面存在，然后能够将这些方面整合到自身中，开始滚雪球效应，以闪电般的速度提高其整体智能。 据我所知，机器学习由人工智能组成使用统计算法从数据中学习，然后推广到未见过的数据，从而使人工智能能够在没有明确指令的情况下执行新任务。 然而，这取决于从一个人向人工智能提供的数据来源或其他。我所说的是人工智能“思考”的可能性，一切都靠它自己，本质上是对自己说：“好吧，如果我拥有 X、Y 和 Z 类型的智能，那一定意味着存在红色、蓝色和绿色智能。” 如果这是可能的，怎么可能，它会导致危险的、不受控制的通用人工智能爆炸吗？    由   提交/u/Funny-Education2496   reddit.com/r/ArtificialInteligence/comments/1cizqtu/discussion_on_the_possible_ways_ai_gets_smarter/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cizqtu/discussion_on_the_possible_ways_ai_gets_smarter/</guid>
+      <pubDate>Fri, 03 May 2024 04:16:23 GMT</pubDate>
+    </item>
     <item>
       <title>哪些人工智能岗位需要填补？我想从事人工智能工作，但它太大了，我不确定需要什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciy8r0/what_ai_jobs_need_filling_i_want_to_work_in_ai/</link>
       <description><![CDATA[基本上我拥有信息技术硕士学位和数十年的管理工作经验。我想从事人工智能工作。是否有特定领域需要员工无需额外学习十年？  我应该如何准备进入人工智能领域。我希望得到丰厚的报酬，受到需求，并有所作为。我不是编码员。我是一名拥有丰富 IT 经验的商务人士。关于我应该看的课程、主题、项目有什么建议吗？许多大学校都有为期 6 周的概述课程。需要什么？   由   提交/u/Last_Cartographer340   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciy8r0/what_ai_jobs_need_filling_i_want_to_work_in_ai/</guid>
       <pubDate>Fri, 03 May 2024 02:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能对技术答案的搜索是否变得更糟，公司是否故意修改产品以使竞争人工智能失败？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciwqup/are_ai_searches_for_technical_answers_getting/</link>
-      <description><![CDATA[我读过一些文章，了解人工智能对于某些主题的答案如何随着时间的推移变得越来越糟糕。我个人发现人工智能在回答有关产品支持的问题（例如如何在 Windows 和 iPhone 之间共享联系人）方面变得越来越差。我认为其中一部分与人工智能更新学习的频率有关。公司是否有目的地改变他们的软件和数据，以便让竞争对手的人工智能更频繁地失败？我可能高估了可以合理地采用这种策略的时间或精力。仍然有很多技术问题返回的答案对于当前版本的软件不再相关或不准确。随着时间的推移，您是否同意人工智能在动态变化的环境中给出更糟糕的答案？  作为后续，我想知道人工智能知识更新的动态程度如何。像 Copilot 或 ChatGPT 这样的东西是否有能力抓取互联网并每天更新部分知识？我知道搜索引擎经常对页面进行评分并更新动态页面，而静态页面的更新频率则要低得多。  人工智能的工作方式是否像上面的搜索引擎一样，或者它是否足够聪明，可以使用当前的搜索引擎结果来创建答案？我知道在 iPad 上，如果我进行 ChatGPT 搜索，我可以选择旧版本或版本 4。新版本是否由于 AI 程序的变化和/或更新的网络爬行而“更智能”，或者只是一个改进的核心人工智能程序使用搜索引擎来合成答案？我怀疑两者都有。第二段略有重复。我应该用AI来重写这个。    由   提交/u/Last_Cartographer340   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciwqup/are_ai_searches_for_technical_answers_getting/</guid>
-      <pubDate>Fri, 03 May 2024 01:38:23 GMT</pubDate>
     </item>
     <item>
       <title>改进虚拟试穿的扩散模型 - 最先进的传输任何内容 - 查看示例</title>
@@ -34,39 +69,11 @@
       <pubDate>Thu, 02 May 2024 23:48:21 GMT</pubDate>
     </item>
     <item>
-      <title>个人设备上的个人数据湖和人工智能助手 - 存在吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cisit5/personal_ondevice_personal_data_lake_and_ai/</link>
-      <description><![CDATA[TLDR - 我想找到一个像 2013 年电影“她”中的操作系统。 将我所有的文书工作、收据、文档、图片、税务信息等都交给它。使用它作为搜索功能、数据分析功能、组织媒体、清除我 30 年来一直在处理的垃圾数据，然后让它告诉我如何解决我生活中的混乱 🤪 见鬼，如果我爱上了它，那会很奇怪，但我可以习惯它    提交人    /u/erinxcv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cisit5/personal_ondevice_personal_data_lake_and_ai/</guid>
-      <pubDate>Thu, 02 May 2024 22:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI喜剧。剧本：Claude Opus，音频：Udio</title>
+      <title>人工智能喜剧。剧本由 Claude Opus 撰写，音频由 Udio 制作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqcmf/ai_comedy_script_by_claude_opus_audio_by_udio/</link>
       <description><![CDATA[事实证明，您可以生成喜剧，而不仅仅是歌曲。 https://www.udio.com/songs/xkU1tuDjEoBUxxB93WcN1m   由   提交/u/rutan668  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqcmf/ai_comedy_script_by_claude_opus_audio_by_udio/</guid>
       <pubDate>Thu, 02 May 2024 20:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能创新每日纪事 2024 年 5 月 2 日：👀Sam Altman：“GPT-4 是你用过的最愚蠢的人工智能”🎵TikTok 和 UMG 达成新的许可协议，包括人工智能保护📲 Anthropic 的 ChatGPT 竞争对手 Claude 现已在iOS 🤖Atlassian 推出了新的 AI 队友 Rovo。人工智能工作❗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciq0bz/a_daily_chronicle_of_ai_innovations_may_02_2024/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciq0bz/a_daily_chronicle_of_ai_innovations_may_02_2024/</guid>
-      <pubDate>Thu, 02 May 2024 20:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术定义 Gen AI 与 X AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cipqnn/technical_definition_gen_ai_vs_x_ai/</link>
-      <description><![CDATA[Gen AI和Explainable AI之间有明确的技术定义吗？在 YC 最新的 RFS 中，他们提到了可解释的人工智能，但我发现这个解释有点宽泛/模糊。它说“我们如何确定模型不会产生幻觉答案？......但我们相信，在信任至关重要的情况下，人工智能模型必须具有可解释性。它的反应需要是可解释的。” 这是否意味着我们的人工智能不会产生幻觉并且能够解释输出的推理=可解释的人工智能？  注意：这里是非技术性的，并尝试尽可能多地学习技术，这样我们就不会推销不真实的东西  &amp;# 32；由   提交/u/louiekins99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cipqnn/technical_definition_gen_ai_vs_x_ai/</guid>
-      <pubDate>Thu, 02 May 2024 20:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建股市人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cinc8g/how_to_build_an_ai_for_stock_market/</link>
-      <description><![CDATA[我希望教一个人工智能有关股票市场的所有知识并对其进行分析，以便它可以帮助我投资股票市场，这只是一个想法现在但我希望这是否可能，如果可以的话，有人可以指出我正确的方向。谢谢。   由   提交/u/AlphaGoogler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cinc8g/how_to_build_an_ai_for_stock_market/</guid>
-      <pubDate>Thu, 02 May 2024 18:44:08 GMT</pubDate>
     </item>
     <item>
       <title>我对人工智能取代人类的一个想法</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[对于人工智能在几乎所有任务上都超越人类的那一天，我思考了很多。我知道很多人都在期待那一天的到来，但我不是其中之一。我喜欢能够为其他人想要和需要的东西做出实质性贡献。 我知道我并不孤单，所以我在思考如果我还活着，当 OpenAI 实现其目标时我会做什么“一个高度自治的系统，在最具经济价值的工作中胜过人类”我想我会转向人类增强来尝试以某种方式创造公平的竞争环境。那时我认为人工智能要么可以帮助我们做到这一点——这将使我们再次在经济上发挥作用——要么它不能，而且人类仍然需要解决一些工作。 想法？&lt; /p&gt;   由   提交 /u/Relevant-Positive-48   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cil056/a_thought_i_had_on_people_being_replaced_by_ai/</guid>
       <pubDate>Thu, 02 May 2024 17:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有什么是人工智能做不到的吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/</link>
-      <description><![CDATA[有什么事情你认为它永远做不到吗？你认为它能够有效地完成我们所做的一切吗？如果真的到了那个地步，你认为社会会发生什么？你认为人类会为自己创造一堆毫无意义的工作吗？或者你认为它看起来更接近一个我们不工作的乌托邦？    由   提交/u/Impressive-Oil9200   /u/Impressive-Oil9200 reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/</guid>
-      <pubDate>Thu, 02 May 2024 10:32:02 GMT</pubDate>
     </item>
     <item>
       <title>AI 生成的歌曲在 Spotify 上获得了数千次收听</title>

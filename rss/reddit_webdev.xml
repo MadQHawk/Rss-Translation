@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 03 May 2024 03:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:17:28 GMT</lastBuildDate>
+    <item>
+      <title>将音频文件从浏览器拖动到音频编辑工具（FL Studio）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cj1l97/dragging_audio_file_from_browser_to_audio_editing/</link>
+      <description><![CDATA[我目前有一个网站，我正在其中显示来自我的服务器的所有音频文件，我希望能够直接拖放文件而不是下载将它们添加到我的音频编辑工具中。正如我们可以对文本和图像执行此操作一样，有没有办法对音频文件执行此操作？   由   提交/u/KawaiiGamer420  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cj1l97/dragging_audio_file_from_browser_to_audio_editing/</guid>
+      <pubDate>Fri, 03 May 2024 06:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>高度动态的应用程序的缓存策略</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cj1kx4/caching_strategies_for_very_dynamic_applications/</link>
+      <description><![CDATA[我想知道如何在高度分布式的应用程序中进行缓存 - 这使用户能够过滤可能非常动态的数据集。 想象一下以下场景： 您有一个包含新闻文章的数据库表。这些新闻文章具有与其相关的“类别”、“语言”和“标签”等属性。可能还有一些属性。 这个数据库表的性质是，新闻文章在创建后可能会被编辑，一些会被删除 - 每天肯定会添加更多（没有固定的时间表，每小时可能多次）。 然后，用户可以访问前端，根据上述属性过滤这些新闻文章并阅读它们。 由于我们感兴趣的是不一定每次用户应用或删除过滤器时都进行数据库往返 - 我们希望在该系统中具有某种类似的缓存，仍然允许我们的用户在合理的时间范围内查看新添加的文章。&lt; /p&gt; 你会如何解决这个问题？ 我的直接想法是，尝试将像 Redis 这样的 KV 存储变成这样的东西将是一场缓存失效的噩梦？更不用说，有很多潜在的查询需要缓存和失效。 我想我会基于一些短计时器来实现一些具有自动失效功能的客户端内存缓存（想想 Tanstack 查询） ）。 我确信这是一个与网络一样古老的问题，所以我很想听听您的想法。  &amp; #32；由   提交 /u/DepressionFiesta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cj1kx4/caching_strategies_for_very_dynamic_applications/</guid>
+      <pubDate>Fri, 03 May 2024 06:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>渲染一张 1000 行的表格需要多长时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cj14ec/how_long_does_it_take_to_render_a_1000_row_table/</link>
+      <description><![CDATA[说真的，这要花多长时间？ 我正尝试使用 React 渲染一个大约有 1000 行的原始 &lt;table&gt;，该行已下载并缓存在客户端上，在我的相当强大的台式机上渲染大约需要 750 毫秒。 我不知道是 React 慢，还是 DOM 慢，或者我只是搞砸了什么。但我没想到会那么糟糕？    提交人    /u/VlK06eMBkNRo6iqf27pq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cj14ec/how_long_does_it_take_to_render_a_1000_row_table/</guid>
+      <pubDate>Fri, 03 May 2024 05:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人对易于集成的 CRM 有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cj06md/anyone_have_any_recommendations_for_crm_that_is/</link>
+      <description><![CDATA[我对 Hubspot 集成的体验一直不佳，尽管它是一个很棒的平台，但使用它带来的性能影响并不值得。我正在寻找一种 CRM，从性能角度来看，集成非常轻，并且后端功能良好或更好。您有什么建议吗？ 我想要它的两个主要功能是管理潜在客户捕获和电子邮件营销。   由   提交 /u/TheSlothJesus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cj06md/anyone_have_any_recommendations_for_crm_that_is/</guid>
+      <pubDate>Fri, 03 May 2024 04:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享自由职业材料</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciyxe9/sharing_freelance_materials/</link>
+      <description><![CDATA[   共享 Web 开发自由合同 大家好， 共享我用于我的 Web 的合同开发和计算机维修自由职业。 请随意获取、编辑、分享、忽略 GitHub 存储库中的任何内容： https://github.com/blubberbo/web-dev-freelancing-resources 也欢迎任何和所有反馈！&lt; /p&gt; 享受   由   提交/u/blubberbo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciyxe9/sharing_freelance_materials/</guid>
+      <pubDate>Fri, 03 May 2024 03:31:53 GMT</pubDate>
+    </item>
     <item>
       <title>使用 github 和 VS Code？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciyc6j/using_github_and_vs_code/</link>
@@ -20,7 +55,7 @@
       <pubDate>Fri, 03 May 2024 02:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>防止绝对定位元素溢出</title>
+      <title>使用绝对定位元素防止溢出</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciwixx/preventing_overflow_with_absolutepositioned/</link>
       <description><![CDATA[所以，呃，这里：https://codepen .io/milesseventh/pen/WNWqRxg 我想要实现的是可滚动侧边栏，悬停在其中的按钮旁边会出现提示。 问题是，仅使用 overflow-y: auto 就会导致字幕被剪辑，尽管它们属于不同的堆叠上下文，并且将 overflow-x 设置为任何值都没有帮助。 解释了结合可见和隐藏溢出的问题那里，有还有一些技巧我发现了，但我没能成功。 如果有一些关于处理这个问题的想法，我将不胜感激 &lt; !-- SC_ON --&gt;  由   提交 /u/MilesEighth   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciwixx/preventing_overflow_with_absolutepositioned/</guid>
@@ -36,7 +71,7 @@
     <item>
       <title>甚至没有机会 - Amazon SDE OA</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciwb01/didnt_even_get_a_chance_amazon_sde_oa/</link>
-      <description><![CDATA[几周前，我收到亚马逊招聘人员发来的一封电子邮件，要求我发送我的空闲时间来讨论亚马逊的软件开发职位。我很高兴能面试亚马逊，所以那天我回复了我的空闲时间。经过几天的等待，没有得到回应，我联系了同一个招聘人员，但仍然没有回应。  几天前，我决定直接申请，因为亚马逊在我所在地区附近发布了很多工作机会。我上周四申请了亚马逊，周五收到了在线评估。我得到了一周的时间，今天（星期四 - 6 天后）我登录参加在线评估，却发现该链接不再可用。 我没有点击评估或尚未接受，所以我不确定为什么链接已过期。在就业门户网站上，我的申请不再被考虑。  其他人也遇到过这种情况吗？想知道我是否花了太长时间参加评估，确切地说是 6 天，或者在我参加评估之前工作是否已被填补？ 这就是电子邮件的内容： &lt; blockquote&gt; “我们很高兴能够推动您在申请过程中取得进展。下一步，我们邀请您在一周内完成此在线评估。”  具体日期：  评估电子邮件 - 24 年 4 月 26 日星期五， 今天 - 2024 年 5 月 2 日星期四  编辑：在我申请时，该职位似乎刚刚关闭再次担任不同的角色、相同的地点并获得另一个 OA。这次不会等到截止日期结束。   由   提交/u/Hour-Rent-2453  [链接] [评论]]]></description>
+      <description><![CDATA[几周前，我收到亚马逊招聘人员的一封电子邮件，要求我发送我的空闲时间以讨论亚马逊的软件开发职位。我很高兴能参加亚马逊的面试，所以当天就回复了我的空闲时间。经过几天的等待和没有回复后，我再次联系了同一位招聘人员，仍然没有回复。 几天前，我决定直接申请，因为亚马逊在我所在地区附近发布了很多工作。我上周四申请了亚马逊，周五收到了在线评估。他们给了我一周的时间，今天（周四 - 6 天后）我登录参加在线评估，却发现链接不再可用。 我还没有点击评估或参加评估，所以我不确定链接为什么过期了。在工作门户上，我的申请不再被考虑。 其他人也遇到过这种情况吗？想知道我是否花了太长时间参加评估，准确地说是 6 天，或者在参加评估之前这个职位是否已经被填满？ 电子邮件中是这样说的：  &quot;我们很高兴推动您推进申请流程。作为下一步，我们想邀请您在不迟于一周内完成此在线评估。&quot;  具体日期：  评估电子邮件 - 周五 4/26/24， 今天 - 周四 5/2/24  编辑：似乎职位刚刚关闭，因为我再次申请了不同的职位，相同的位置并获得了另一个 OA。这次不会等到截止日期结束了。    提交人    /u/Hour-Rent-2453   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciwb01/didnt_even_get_a_chance_amazon_sde_oa/</guid>
       <pubDate>Fri, 03 May 2024 01:16:15 GMT</pubDate>
     </item>
@@ -50,7 +85,7 @@
     <item>
       <title>如何在 UI 设计中发挥更多创意</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciw10d/how_to_get_more_creative_with_ui_design/</link>
-      <description><![CDATA[我是一名 Web 开发人员，我需要帮助改进我的设计领域。我想在CSS方面做得更好，但更重要的是，我想学习更多的设计原则和想法。我看到了我可以制作的这个非常酷的网站设计，但如果我从未见过它，我就不会想到类似的事情。我想不出很酷的设计理念等。   由   提交 /u/RRTropical   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名 Web 开发人员，我需要帮助来改进我的设计领域。我想提高 CSS 水平，但更重要的是，我想学习更多的设计原则和想法。我看到了这个非常酷的网站设计，我可以制作它，但如果我从未见过它，我永远不会想到这样的事情。我想不出很酷的设计理念等。    提交人    /u/RRTropical   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciw10d/how_to_get_more_creative_with_ui_design/</guid>
       <pubDate>Fri, 03 May 2024 01:02:21 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我不确定选择哪一个来准备面试。我需要知道哪个选项是最好的。我知道，它包含很多变数。所以我需要建议，因为我不知道哪一家公司使用最多（用于全栈 javascript 工作）   由   提交 /u/RobinsonAndres   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1citjv0/hackerrank_interview_preparation_kit_or_leetcode/</guid>
       <pubDate>Thu, 02 May 2024 23:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将容器化 Laravel 应用程序部署到专用服务器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1citj7y/how_do_you_deploy_your_containerized_laravel_apps/</link>
-      <description><![CDATA[我正在考虑在生产专用服务器上为我的 Laravel 应用程序使用容器，以便能够轻松限制每个服务使用的资源（PHP 应用程序、 MariaDB 数据库等）。但是，我不确定如何以正确且安全的方式执行此操作。我目前对 Docker 的了解有限，很好奇你如何处理这个问题，因为我在网上找不到任何关于 CD 部分的好的教程。我正在考虑使用像 Deployer 这样的解决方案来实现零停机原子部署，但不确定这如何与 Docker 容器一起使用。我也听说过 Laravel Sail 用于容器化开发环境，但我不知道它是否可以用于生产。我正在使用 GitHub，并且使用 GitHub Actions 会很棒。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1citj7y/how_do_you_deploy_your_containerized_laravel_apps/</guid>
-      <pubDate>Thu, 02 May 2024 23:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何优化谷歌地图路线？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cit9b7/how_do_i_optimizw_google_maps_routes/</link>
-      <description><![CDATA[我需要在谷歌地图上显示 11 条路线，它们永远不会改变。我该如何优化这个？ （apache、php、vanilla js） 到目前为止我的方法：我将 lat/lng 保存在 js 数组中（大约 400&#39;000 行），然后将其与页面一起发送。 &lt; p&gt;我在文档准备好后将它们加载到地图中，与在每个页面加载时向谷歌地图 API 发送请求相比，这已经加快了进程。 现在这个文件很大（11MB），所以我开始研究压缩，到目前为止最好的选择是 HTTP 压缩，但我不明白这是否已经从一开始就实现了，听起来默认情况下已经在使用了    由   提交 /u/zwibele   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cit9b7/how_do_i_optimizw_google_maps_routes/</guid>
-      <pubDate>Thu, 02 May 2024 22:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>二分键工具帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciso9r/dichotomous_key_tool_help/</link>
-      <description><![CDATA[大家好！我也是网络开发和编程的初学者，需要经验丰富的人的建议。我有一个项目，我想在其中创建用于植物识别的交互式二分键。最好的格式（应用程序？网页？）和最简单的格式（格式/语言）是什么。 目标是提供带有 A 或 B 选项的页面，用您所选择的图像（可选）描述植物形态。可以选择，这将带您进入下一个 A/B 选项，直到您进行身份验证。感觉对于初学者来说制作起来很简单，但我基本上不知道这个项目的最佳格式。我愿意在 html 上学习 python 以外的语言基础知识。  我愿意接受您的想法和建议！提前致谢:)   由   提交/u/Rainom15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciso9r/dichotomous_key_tool_help/</guid>
-      <pubDate>Thu, 02 May 2024 22:23:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>访问量突然激增，然后就没有了……我做错了什么吗？ 🥲</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cirvkd/sudden_surge_of_visits_and_then_nothing_am_i/</link>
-      <description><![CDATA[我和我的高中朋友已经开发了一款 Chrome 扩展应用程序，以简化协作，因为您可以在任何网页上插入便签。  这非常适合小型团队，例如初创公司、设计或网络机构（在线寻找 inspo），甚至是房地产机构！  如果您想与您的团队一起尝试：https://trytagu.com 来自在我之前的帖子中，我们被告知：  将其与第三方项目管理软件集成，例如 trello 或 notion（目前正在开发） 将其与沟通平台，例如 Slack。我很想知道其他人是否同意这个建议！   PS：我们提供非常便宜的限时终身优惠，绝对可以激励我和我的朋友们更加努力并继续不间断地工作！    由   提交 /u/FanaticRoute   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cirvkd/sudden_surge_of_visits_and_then_nothing_am_i/</guid>
-      <pubDate>Thu, 02 May 2024 21:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用helcim 进行付款处理吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1circbm/has_anyone_used_helcim_for_payment_processing/</link>
-      <description><![CDATA[我正在寻找廉价但强大的支付处理服务。我看到helcim 的价格非常便宜。有人用过吗？    由   提交/u/Even-Advertising-332   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1circbm/has_anyone_used_helcim_for_payment_processing/</guid>
-      <pubDate>Thu, 02 May 2024 21:26:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

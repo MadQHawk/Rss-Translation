@@ -4,13 +4,13 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 03 May 2024 03:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:18:00 GMT</lastBuildDate>
     <item>
       <title>如何使用 Gmail 提供客户支持</title>
       <link>https://feed.indiehackers.world/post/9ce3b746c2</link>
-      <description><![CDATA[
-如需详细了解各个扩展，请查看我的完整博客文章如何将 Gmail 变成终极客户支持工具。
-Discord Indiehackers Chat广告此处]]></description>
+      <description><![CDATA[&lt;小时/&gt;
+要更详细地了解各个扩展，请查看我的完整博客文章 如何将 Gmail 变成终极客户支持工具。
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9ce3b746c2</guid>
       <pubDate>Thu, 02 May 2024 10:52:53 GMT</pubDate>
     </item>
@@ -43,9 +43,9 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>如果您无法准确估计时间成本，请避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/18d7b7f364</link>
-      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而不会受到严格截止日期的额外压力。
-总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
-Discord Indiehackers Chat广告此处]]></description>
+      <description><![CDATA[通过采用此方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务所固有的不确定性和变化。它使您能够不断完善自己的方法，进行必要的调整，并保持在正轨上，而不会受到严格截止日期的额外压力。
+总而言之，仅仅依靠任务管理的最后期限并不是一种有效的方法，特别是对于小团队和个体企业家来说。相反，重点是建立审查点来评估进展并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/18d7b7f364</guid>
       <pubDate>Tue, 19 Mar 2024 15:02:51 GMT</pubDate>
     </item>
@@ -66,23 +66,23 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/79759f89d5</link>
       <description><![CDATA[大家好！
 上周，我发布了 AiFormat，反响非常好！
-如果您还没有使用过它，它是一个简单的 CLI 工具，可以进行复制和轻而易举地将文件粘贴到 Claude 中。
-将它与 Claude Opus 一起使用大大提高了我的工作效率。
+如果您还没有使用过它，它是一个简单的 CLI 工具，可以使复制和复制变得简单。将文件粘贴到 Claude 中轻而易举。
+与 Claude Opus 一起使用显着提高了我的工作效率。
 我刚刚发布了一个新版本，希望您会喜欢：
 
-添加了在深层嵌套文件中的搜索功能。
+添加了深度嵌套文件内的搜索。
 
 添加了使用 Tab 键展开/折叠文件夹的功能。
 
-添加了表情符号以区分文件夹（🗂️）和文件（📄）。
+添加了表情符号来区分文件夹 (🗂️) 和文件 (📄)。
 
-完全代码重写，包括基于 ID 的导航。
+完全重写代码，包括基于 ID 的导航。
 
 
-该项目在 MIT 许可下完全开源，欢迎贡献者！
-这是 Github repo 的链接，其中包含有关如何开始的说明（非常简单）：
+该项目在 MIT 许可下完全开源，非常欢迎贡献者！
+这是 Github 存储库的链接，其中包含有关如何开始的说明（非常简单）：
 https://github.com/farouqaldori/aiformat/
-Discord Indiehackers Chat广告这里]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/79759f89d5</guid>
       <pubDate>Mon, 18 Mar 2024 11:56:26 GMT</pubDate>
     </item>
@@ -103,12 +103,12 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/76282456fc</link>
       <description><![CDATA[您每周锻炼几次？
 #sports #productivity #mentalhealth #physicalhealth
-Discord Indiehackers Chat广告这里]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/76282456fc</guid>
       <pubDate>Fri, 15 Mar 2024 09:14:44 GMT</pubDate>
     </item>
     <item>
-      <title>我们花了 6 个月的时间和 1,000 名用户在区块链上构建了一个开发人员生产力工具。</title>
+      <title>我们花了 6 个月的时间与 1,000 名用户一起在区块链上构建开发人员生产力工具。</title>
       <link>https://feed.indiehackers.world/post/f0b2be5839</link>
       <description><![CDATA[今天，Perspect 在 Product Hunt 上推出
 第 0 个月启动区块链
@@ -183,7 +183,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Thu, 14 Mar 2024 18:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>Show IH：撰写客户电子邮件的速度提高 10 倍</title>
+      <title>展示 IH：以 10 倍速度撰写客户电子邮件</title>
       <link>https://feed.indiehackers.world/post/954c07e316</link>
       <description><![CDATA[想象一下，通过 ReplyInbox 简化您的电子邮件工作流程，您将节省时间并避免麻烦。无论您是管理客户咨询的个体企业家还是处理投资者沟通的初创公司创始人，ReplyInbox 都是您的终极电子邮件生产力伴侣。
 现在，你该进来了。我全身心投入到 ReplyInbox 的开发中，但我知道总有改进的空间。这就是为什么我向令人惊叹的 IndieHackers 社区寻求反馈。
