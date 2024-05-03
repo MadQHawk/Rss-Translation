@@ -3,24 +3,45 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、人工智能在商业中的应用、人工智能如何影响我们的生活、未来会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 02 May 2024 21:14:27 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 03 May 2024 00:56:24 GMT</lastBuildDate>
+    <item>
+      <title>改进虚拟试穿的扩散模型 - 最先进的传输任何内容 - 查看示例</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciuvqe/improving_diffusion_models_for_virtual_tryon/</link>
+      <description><![CDATA[论文：https://arxiv.org/abs/2403.05139  本文考虑基于图像的虚拟试穿，在给定一对分别描绘人和衣服的图像的情况下，渲染穿着精选服装的人的图像。与其他方法（例如基于 GAN）相比，之前的作品采用了现有的基于样本的修复扩散模型进行虚拟试穿，以提高生成的视觉效果的自然度，但它们无法保留服装的身份。为了克服这一限制，我们提出了一种新颖的扩散模型，可以提高服装保真度并生成真实的虚拟试穿图像。我们的方法被称为 IDM-VTON，使用两个不同的模块来编码服装图像的语义；给定扩散模型的基础 UNet，1）将从视觉编码器提取的高级语义融合到交叉注意力层，然后 2）将从并行 UNet 提取的低级特征融合到自注意力层层。此外，我们还为服装和人物图像提供详细的文字提示，以增强生成视觉效果的真实性。最后，我们提出了一种使用一对人物服装图像的定制方法，该方法显着提高了保真度和真实性。我们的实验结果表明，我们的方法在保留服装细节和生成真实的虚拟试穿图像方面（无论是定性还是定量）都优于以前的方法（基于扩散和基于 GAN）。此外，所提出的定制方法证明了其在现实场景中的有效性。我们的项目页面提供了更多可视化效果：此 https URL ​ 示例：https://www.reddit.com/r/StableDiffusion/comments/1ciu2xw/idmvton\_virtual\_try\_on \_is\_simply\_mind\_blowing\_can/ ​   由   提交 /u/CeFurkan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciuvqe/improving_diffusion_models_for_virtual_tryon/</guid>
+      <pubDate>Fri, 03 May 2024 00:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>向人工智能过渡</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciucio/transition_to_ai/</link>
+      <description><![CDATA[我是一名 30 多岁的职业人士，始终紧跟最新技术。第一个拥有 iPhone 的人在 AT&amp;T 外面排队等了好几天。我很难接受向人工智能过渡的想法。以一种受虐狂的方式，我只是不想让事情变得那么容易。    由   提交 /u/CheesecakeFabulous40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciucio/transition_to_ai/</guid>
+      <pubDate>Thu, 02 May 2024 23:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人设备上的个人数据湖和人工智能助手 - 存在吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cisit5/personal_ondevice_personal_data_lake_and_ai/</link>
+      <description><![CDATA[TLDR - 我想找到一个像 2013 年电影《她》中那样的操作系统。 把我所有的文件、收据都拿出来、文件、图片、税务信息，应有尽有。使用它作为搜索功能、数据分析功能、组织媒体、清除我已经拖了 30 年的垃圾数据，然后让它告诉我如何摆脱生活中的混乱🤪 天啊，如果我爱上它，那会很奇怪，但我可以习惯它   由   提交 /u/erinxcv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cisit5/personal_ondevice_personal_data_lake_and_ai/</guid>
+      <pubDate>Thu, 02 May 2024 22:17:05 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我要构建人工智能健康应用程序。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqtpb/why_im_building_a_ai_health_app/</link>
-      <description><![CDATA[我决定写这篇文章，因为在撰写本文时，我病得很重，正在与自己的健康作斗争。我认为现在可能是告诉社区我正在建设什么的好时机。 我一生中很长一段时间都在与疾病作斗争。小时候我有很多过敏反应，免疫系统也很差。从我记事起，每年冬天我大部分时间都会感到不舒服或感冒。 我目前患有慢性鼻窦感染，说实话，我感觉很糟糕。不过我会没事的。但是疾病……伙计，这真的一点也不好玩。  多年来我看过很多医生，今天我上下班了一个小时，只是为了听到医生对我说““不幸的是，我们目前对此无能为力” 我一生都听说过，而且没有医生能够帮助我解决我的问题，让我决定自己去做。&lt; /p&gt; 这个想法是7年前产生的。并给了我学习健康科学的方向。 我最近开始学习人工智能，目前正在构建自己的人工智能医疗保健应用程序。我没有任何编码经验，但我的愿景非常清晰。我要做这件事。 为什么？我只是不想让别人受苦。我知道不被听到或不被理解的感觉。我想帮助人们。  我已经做了足够的研究来了解人工智能在医疗和保健领域的潜力。  老实说，我真的不想告诉其他任何事情。  我只是想表达我的想法。 如果有人以任何方式或形式与健康作斗争。只要知道我正在努力，我真的真的真的很想结束那里的人们的痛苦。 我会尽我所能。 对于那些感兴趣的人（你们中的一些人）已经关注了）但我在 Reddit 上为对我们项目感兴趣的人创建了一个社区。我们将致力于医疗保健、教育和商业的人工智能模型。这是链接： https://www.reddit.com/r/PROJECT_AI/ s/qWYs0065hG 祝你有美好的一天，如果有什么我能为你做的，请告诉我。   由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
+      <description><![CDATA[我决定写这篇文章，因为在撰写本文时，我病得很重，正在与自己的健康作斗争。我认为现在可能是告诉社区我正在建设什么的好时机。 我一生中很长一段时间都在与疾病作斗争。小时候我有很多过敏反应，免疫系统也很差。从我记事起，每年冬天我大部分时间都会感到不舒服或感冒。 我目前患有慢性鼻窦感染，说实话，我感觉很糟糕。不过我会没事的。但是疾病……伙计，这真的一点也不好玩。  多年来我看过很多医生，今天我上下班了一个小时，只是为了听到医生对我说“”不幸的是，我们目前对此无能为力” 我一生都听说过，而且没有医生能够帮助我解决我的问题，让我决定自己去做。&lt; /p&gt; 这个想法是7年前产生的。并给了我学习健康科学的方向。 我最近开始学习人工智能，目前正在构建自己的人工智能医疗保健应用程序。我没有任何编码经验，但我的愿景非常清晰。我要做这件事。 为什么？我只是不想让别人受苦。我知道不被听到或不被理解的感觉。我想帮助人们。  我已经做了足够的研究来了解人工智能在医疗和保健领域的潜力。  老实说，我真的不想告诉其他任何事情。  我只是想表达我的想法。 如果有人以任何方式或形式与健康作斗争。只要知道我正在努力，我真的真的真的很想结束那里的人们的痛苦。 我会尽我所能。 对于那些感兴趣的人（你们中的一些人）已经关注了）但我在 Reddit 上为对我们项目感兴趣的人创建了一个社区。我们将致力于医疗保健、教育和商业的人工智能模型。这是链接： https://www.reddit.com/r/PROJECT_AI/ s/qWYs0065hG 祝你有美好的一天，如果有什么我能为你做的，请告诉我。   由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqtpb/why_im_building_a_ai_health_app/</guid>
       <pubDate>Thu, 02 May 2024 21:05:03 GMT</pubDate>
     </item>
     <item>
-      <title>AI喜剧。剧本：Claude Opus，音频：Udio</title>
+      <title>人工智能喜剧。剧本由 Claude Opus 撰写，音频由 Udio 制作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqcmf/ai_comedy_script_by_claude_opus_audio_by_udio/</link>
       <description><![CDATA[事实证明，您可以生成喜剧，而不仅仅是歌曲。 https://www.udio.com/songs/xkU1tuDjEoBUxxB93WcN1m   由   提交/u/rutan668  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciqcmf/ai_comedy_script_by_claude_opus_audio_by_udio/</guid>
       <pubDate>Thu, 02 May 2024 20:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能创新每日纪事 2024 年 5 月 2 日：👀Sam Altman：“GPT-4 是你必须使用的最愚蠢的人工智能”🎵TikTok 和 UMG 达成新的许可协议，包括人工智能保护📲 Anthropic 的 ChatGPT 竞争对手 Claude 现已在iOS 🤖Atlassian 推出了新的 AI 队友 Rovo。人工智能工作❗</title>
+      <title>人工智能创新每日纪事 2024 年 5 月 2 日：👀Sam Altman：“GPT-4 是你用过的最愚蠢的人工智能”🎵TikTok 和 UMG 达成新的许可协议，包括人工智能保护📲 Anthropic 的 ChatGPT 竞争对手 Claude 现已在iOS 🤖Atlassian 推出了新的 AI 队友 Rovo。人工智能工作❗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciq0bz/a_daily_chronicle_of_ai_innovations_may_02_2024/</link>
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciq0bz/a_daily_chronicle_of_ai_innovations_may_02_2024/</guid>
@@ -48,42 +69,21 @@
       <pubDate>Thu, 02 May 2024 17:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>转录聊天消息</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciihwd/transcribe_chat_messages/</link>
-      <description><![CDATA[不确定使用哪种风格。  我有几张线程短信的屏幕截图。哪种人工智能工具最适合将图像转录成保留线索的格式化文档。我希望能够辨别哪个聊天气泡来自哪个聊天。   由   提交/u/psyntist  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciihwd/transcribe_chat_messages/</guid>
-      <pubDate>Thu, 02 May 2024 15:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 工作调度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciidlf/ai_scheduling_for_work/</link>
-      <description><![CDATA[我最近接手了一份新工作，并为一家公司开设了新地点，我们既有大型合同客户，也有小型核心客户。  我正在努力拓展这个领域并发展与现有客户的关系。  我想知道是否有任何类型的人工智能可以提供电子表格并具有重要的“排名”，可以定义访问频率、分配的时间以及位置，并让它帮助创建每月的时间表。如果我可以将其链接到可以帮助自动执行后续通知的注释，那就太好了。  这可能是更定制的东西，并且需要更多的跑腿工作或付费订阅，所有这些我都可以接受。我希望优化我的时间并减轻我的精神负担。  感谢任何帮助。    由   提交/u/ewoodside25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciidlf/ai_scheduling_for_work/</guid>
-      <pubDate>Thu, 02 May 2024 15:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国家科学基金会资助东北大学牵头的开创性研究项目，旨在“民主化”人工智能</title>
+      <title>美国国家科学基金会资助由东北大学领导的突破性研究项目，以“民主化”人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cii32b/nsf_funds_groundbreaking_research_project_led_by/</link>
       <description><![CDATA[国家深度推理结构将解锁人工智能领域大型语言模型的内部运作。 该项目将创建计算基础设施将为科学界配备深度推理工具，以便开发跨领域的创新解决方案。  完整文章：https://news.northeastern .edu/2024/05/02/how-do-ai-chatbots-work/   由   提交 /u/NGNResearch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cii32b/nsf_funds_groundbreaking_research_project_led_by/</guid>
       <pubDate>Thu, 02 May 2024 15:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>我想制作一个人工智能版本的自己。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cifkbc/i_want_to_make_an_ai_version_of_myself/</link>
-      <description><![CDATA[我希望它通过我的电子邮件，标记废话已读并将其存档，连接到我的 CRM，创建任务，也许做一些他们，通常都能完成任务。  是否有一个人工智能可以让我像我一样完成我的工作？   由   提交 /u/Stateswitness1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cifkbc/i_want_to_make_an_ai_version_of_myself/</guid>
-      <pubDate>Thu, 02 May 2024 13:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有什么是人工智能做不到的吗？</title>
+      <title>还有什么是 AI 做不到的吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/</link>
       <description><![CDATA[有什么事情你认为它永远做不到吗？你认为它能够有效地完成我们所做的一切吗？如果真的到了那个地步，你认为社会会发生什么？你认为人类会为自己创造一堆毫无意义的工作吗？或者你认为它看起来更接近一个我们不工作的乌托邦？    由   提交/u/Impressive-Oil9200   /u/Impressive-Oil9200 reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cicahi/is_there_anything_ai_cant_do/</guid>
       <pubDate>Thu, 02 May 2024 10:32:02 GMT</pubDate>
     </item>
     <item>
-      <title>AI 生成的歌曲在 Spotify 上获得了数千次收听</title>
+      <title>人工智能生成的歌曲在 Spotify 上获得了数千次收听</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ciaf12/aigenerated_songs_rack_up_thousands_of_listens_on/</link>
       <description><![CDATA[像 Suno 和 Udio 这样的文本到音频生成器已经变得更加复杂。人们正在使用 AI 创建整个专辑并将其上传到 Spotify。这意味着人工智能生成的音乐正在与真实的作品直接竞争。 来源：https://dailyai.com/2024/05/ai- generated-songs-rack-up-thousands-of-listens-on-spotify/    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ciaf12/aigenerated_songs_rack_up_thousands_of_listens_on/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>人工智能不会抢走你的工作，懂得如何使用人工智能的人会抢走你的工作！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1chw1nw/ai_wont_take_your_job_people_who_know_how_to_use/</link>
-      <description><![CDATA[大家好， 最近，我看到很多人对人工智能接管我们的工作感到焦虑。但说实话，人工智能不是敌人 - 它是一种工具，就像任何工具一样，它的好坏取决于使用它的人。 想一想：知道如何使用人工智能的内容作者强大的研究工具和语言生成器可以比以往更快、更高效地生成高质量内容。  能够利用机器学习力量的 Web 开发人员可以构建更加直观和用户友好的网站。能够与人工智能合作识别模式和趋势的数据分析师可以做出以前不可能的预测和决策。 重点是，人工智能并不是来取代我们的，而是来增强我们的。它的目的是让我们更快、更聪明、更有效率。因此，我们不要害怕机器人，而是学习如何与它们一起工作。让我们不断提高技能，重新掌握技能，成为我们自己由人工智能驱动的命运的主人。 记住，取代你工作的不是人工智能，而是那些知道如何使用人工智能来完成你工作的人更好、更快、更便宜。   由   提交 /u/skrt_pls   [链接] [评论]]]></description>
+      <description><![CDATA[嘿大家， 最近我看到了很多关于人工智能接管我们工作的焦虑。但说实话，人工智能不是敌人 - 它是一种工具，就像任何工具一样，它的好坏取决于使用它的人。 想一想：知道如何使用人工智能的内容作者强大的研究工具和语言生成器可以比以往更快、更高效地生成高质量的内容。  能够利用机器学习力量的 Web 开发人员可以构建更加直观和用户友好的网站。能够与人工智能合作识别模式和趋势的数据分析师可以做出以前不可能的预测和决策。 重点是，人工智能并不是来取代我们的，而是来增强我们的。它的存在是为了让我们更快、更聪明、更高效。因此，我们不要害怕机器人，而是学习如何与它们一起工作。让我们不断提高技能，重新掌握技能，成为我们自己由人工智能驱动的命运的主人。 记住，取代你工作的不是人工智能，而是那些知道如何使用人工智能来完成你工作的人更好、更快、更便宜。   由   提交 /u/skrt_pls   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1chw1nw/ai_wont_take_your_job_people_who_know_how_to_use/</guid>
       <pubDate>Wed, 01 May 2024 20:15:53 GMT</pubDate>
     </item>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
