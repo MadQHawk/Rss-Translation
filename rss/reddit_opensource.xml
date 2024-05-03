@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 May 2024 06:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:14:21 GMT</lastBuildDate>
+    <item>
+      <title>🤖 Admyral - FOSS 网络安全自动化和调查助理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cj3eza/admyral_foss_cybersecurity_automation/</link>
+      <description><![CDATA[    /u/RequirementFamous729   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cj3eza/admyral_foss_cybersecurity_automation/</guid>
+      <pubDate>Fri, 03 May 2024 08:16:23 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 开发人员博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
       <pubDate>Thu, 02 May 2024 12:20:01 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员害怕使用 GPL 许可证，因为其宽松性较低</title>
+      <title>开发人员害怕使用 GPL 许可证，因为它的强制性较低</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</link>
       <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不太“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 01 May 2024 18:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>Websurfx - 用 rust 编写的元搜索引擎（v1.15.0 版本）</title>
+      <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
       <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好， 我希望安装 onprem 开源 CRM，它提供以下功能并用作流行 CRM 的替代品： 联系人管理 互动跟踪 潜在客户管理 团队管理 销售渠道管理 任务和活动管理 报告和分析 集成功能 定制和可扩展性 🙏  &lt; /div&gt;  由   提交 /u/Saiyyidi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</guid>
       <pubDate>Wed, 01 May 2024 18:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS Speed reader 版本 2 现已推出：主要 UI 改进、新导入方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</link>
-      <description><![CDATA[嗨！不久前我发布了我在这里开发的速读器，收到了很多积极和建设性的反馈。之后，我和一位朋友开始研究改进版本。现在它已经问世，我们尽可能多地采纳了反馈。 对于任何还不了解我们的阅读器的人，以下是网站上的描述：  高度可定制的速读器，可直接替代付费应用程序。此阅读器内置了分块、节奏和突出显示等速读概念。使用焦点模式。通过上传文件或从剪贴板从 URL 导入文本。所有数据仅存储在您的设备上。随着时间的推移，提高阅读速度并更改设置以满足您的需求。  演示：https://axym.davidewiest.com/ 使用 docker 托管 - docker pull davidewiest/reader:latest  docker run -p 5001:8080 davidewiest/reader:latest（将 5001 切换到您想要访问应用程序的任何端口）  这是我们所做的所有改进的综合列表  更简单的用户界面 EPUB 导入支持 从 URL 导入支持 从 GET 导入文件/网页提取请求/html/状态请求的主体 存储有关文本的源数据 内部托管文件限制从约 100kB 增加到 100MB（但是，请注意，大多数浏览器将本地存储限制为约 5MB，但这可以更改） 新闻功能（主要用于宣布新的更新和重要功能） 修复了一些错误。加载状态时发生的情况 将名称更改为 Axym-Reader 以避免歧义  GitHub 存储库：https://github.com/Axym-Labs/Axym-Reader Docker 存储库：https://hub.docker.com/r/davidewiest/reader 反馈 要提交反馈，请在功能请求板上快速发帖。 祝您阅读愉快！ PS：我们正在寻找可以构建超级简单浏览器的人插件可以将用户重定向到阅读器，并在请求正文中附加数据。如果您认识某人，请给我发消息！    提交人    /u/Pristine-Adeptness-1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</guid>
-      <pubDate>Wed, 01 May 2024 18:06:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
