@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 04 May 2024 09:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:12:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体]未来看起来很严峻，因为气候变化可能导致有毒物种的迁移[...]</title>
-      <link>https://t.me/hn_summary/87846</link>
-      <description><![CDATA[气候变化：到 2050 年，有毒物种可能会从四面八方逼近&lt; /a&gt;
-未来看起来很严峻，因为到 2050 年，气候变化可能导致蛇、火蚁和狮子鱼等有毒物种迁移到新的领土。尼日尔、纳米比亚、中国、尼泊尔和缅甸等国家可能成为致命蛇的栖息地，而欧洲北非的火蚁数量可能会增加。地中海地区可能成为狮子鱼的热点地区，对本地物种构成威胁。入侵物种可能造成数十亿美元的损失，并使数百万人面临风险。然而，及早发现和采取行动可能有助于控制它们的数量并减轻它们造成的危险。]]></description>
-      <guid>https://t.me/hn_summary/87846</guid>
-      <pubDate>Sat, 04 May 2024 09:02:55 GMT</pubDate>
+      <title>[媒体] Tview 是一个 Golang 终端 UI 库，为创建提供丰富的交互式小部件 [...]</title>
+      <link>https://t.me/hn_summary/87873</link>
+      <description><![CDATA[Tview – 具有丰富的交互式小部件的 Golang 终端 UI 库
+Tview 是一个 Golang 终端 UI 库，它提供丰富的交互式小部件，用于创建基于终端的用户界面。它包括输入表单、文本视图、表格、树视图等组件，具有自定义选项和易于扩展性。该项目通过提供广泛的小部件和示例以及越来越多的使用 tview 的项目列表而脱颖而出。作者强调保持向后兼容性并鼓励用户反馈。该包依赖于 tcell 和 uniseg 依赖项。用户可以参考 pkg.go.dev 上的文档和 Wiki 了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/87873</guid>
+      <pubDate>Sat, 04 May 2024 15:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇题为“折叠和一次直切就足够了”的论文中，作者 Erik D.</title>
-      <link>https://t.me/hn_summary/87845</link>
-      <description><![CDATA[折叠和一次直切就足够了 [pdf](https://news.ycombinator.com/item?id=40244653)
-在这篇题为“折叠和一次直切就足够了”的论文中，作者 Erik D. Demainet、Martin L. Demainet 和 Anna Lubiwt 探讨了将一张纸折叠成折纸并进行一次直切以创建各种形状的概念。本文深入研究了精确计算折痕和平折纸线以实现所需结果的算法。作者还讨论了这种折叠和剪切想法的历史，包括它在制作五角星中的用途以及它在魔术中的应用。本文介绍了该算法产生的折痕图案，并讨论了折叠和切割过程的局限性和可能性。（基于 88% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87845</guid>
-      <pubDate>Sat, 04 May 2024 08:09:07 GMT</pubDate>
+      <title>[媒体]特斯拉发生了什么？</title>
+      <link>https://t.me/hn_summary/87872</link>
+      <description><![CDATA[特斯拉发生了什么？专家是这样认为的
+埃隆·马斯克创立的电动汽车公司特斯拉最近因种种错误的原因而成为头条新闻。销售额下降，利润微薄，马斯克正在公司内部大幅裁员。尽管过去取得了成功，但特斯拉在电动汽车市场面临着激烈的竞争，导致价格下降和利润率下降。围绕马斯克的领导风格存在争议，最近的裁员和重组引起了员工和行业专家的担忧。该公司放弃车辆关键传感器的决定也引发了安全担忧，召回和死亡事故与特斯拉的驾驶员辅助功能有关。]]></description>
+      <guid>https://t.me/hn_summary/87872</guid>
+      <pubDate>Sat, 04 May 2024 15:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]太阳轨道飞行器捕捉到了太阳表面的令人惊叹的镜头，揭示了 [...]</title>
-      <link>https://t.me/hn_summary/87844</link>
-      <description><![CDATA[太阳表面视频显示太阳雨、火山喷发和日冕苔藓
-太阳轨道飞行器捕捉到了太阳表面的惊人镜头，揭示了日冕苔藓、太阳雨和大规模火山喷发。视频显示了羽毛状的等离子体结构、6,000 英里高的气体尖塔，以及落回地表的较冷物质的阵雨。科学家希望这些观测结果将有助于解开为什么太阳大气层比其表面更热的谜团。这段由极紫外成像仪记录的镜头还显示，太阳表面的篝火不断向大气中注入能量。这项耗资 13 亿美元于 2020 年启动的任务很快将探索太阳未知的两极，提供更多开创性的见解。]]></description>
-      <guid>https://t.me/hn_summary/87844</guid>
-      <pubDate>Sat, 04 May 2024 07:37:53 GMT</pubDate>
+      <title>癌症疫苗正在经历一场复兴，个性化疫苗如来自 Mode [...]</title>
+      <link>https://t.me/hn_summary/87871</link>
+      <description><![CDATA[癌症疫苗正在复兴
+随着 Moderna 和 BioNTech 等个性化疫苗的出现，癌症疫苗正在经历复兴。这些疫苗通过识别肿瘤突变并使用人工智能算法选择可以引发免疫反应的新抗原，针对每位患者的特定癌症进行定制。虽然所需的新抗原的神奇数量仍然未知，但这些疫苗在直接针对癌症的免疫反应方面显示出了希望。研究人员正在探索新抗原的各种递送方法，虽然不能保证成功，但个性化疫苗为治疗不同的肿瘤类型带来了希望。人们对癌症疫苗重新产生的兴趣令人鼓舞，它有可能在其他疗法失败的情况下取得成功。]]></description>
+      <guid>https://t.me/hn_summary/87871</guid>
+      <pubDate>Sat, 04 May 2024 14:45:35 GMT</pubDate>
     </item>
     <item>
-      <title>正在为您的团队寻找安全且用户友好的图表工具？</title>
-      <link>https://t.me/hn_summary/87843</link>
-      <description><![CDATA[开源 Lucidchart 替代方案
-正在为您的团队寻找安全且用户友好的图表工具？ Draw.io 就是您的最佳选择！我们的开源平台允许您将存储带到我们的在线工具或使用我们的桌面应用程序保存在本地。最好的部分？无需登录或注册，让协作变得轻而易举。告别复杂而昂贵的图表软件，迎接简单高效的解决方案  Draw.io。]]></description>
-      <guid>https://t.me/hn_summary/87843</guid>
-      <pubDate>Sat, 04 May 2024 07:20:15 GMT</pubDate>
+      <title>由于印度秃鹰数量的减少，传统的琐罗亚斯德教埋葬仪式受到威胁 [...]</title>
+      <link>https://t.me/hn_summary/87870</link>
+      <description><![CDATA[“我们的文化正在消亡”：秃鹫短缺威胁琐罗亚斯德教的葬礼&lt; /a&gt;
+由于印度、伊朗和巴基斯坦秃鹫数量的减少，传统的琐罗亚斯德教丧葬仪式正受到威胁。帕西族社区历来使用被称为“沉默之塔”的建筑来处理死者，让秃鹫吃掉尸体。然而，由于双氯芬酸药物无意中中毒，秃鹫数量急剧下降。因此，帕西人正在探索圈养秃鹫繁殖和太阳能聚光器等替代方法来延续他们的埋葬习俗。秃鹫的减少导致人们重新评估传统做法，一些社区成员主张保护和恢复秃鹫种群。]]></description>
+      <guid>https://t.me/hn_summary/87870</guid>
+      <pubDate>Sat, 04 May 2024 14:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]互联网经常被比作一座城市，早期的比喻是“信息 [...]</title>
-      <link>https://t.me/hn_summary/87842</link>
-      <description><![CDATA[互联网就像一座城市（但与您的方式不同） d 思考）
-互联网经常被比作一座城市，“信息高速公路”和“虚拟社区”等早期隐喻塑造了我们对这个新数字空间的理解。然而，随着互联网的发展和发展，它已经脱离了这些城市的类比。建筑师克里斯托弗·亚历山大（Christopher Alexander）的文章《城市不是一棵树》认为，城市应该像半格子一样组织起来，具有复杂和重叠的关系，而不是一棵有单独分支的树。这个概念对我们如何理解和设计互联网产生了影响，大型平台和政府越来越多地以更加集中和受控的方式重组互联网。搜索和索引的衰落、围墙花园的兴起以及网上缺乏有意义的重叠都导致了互联网的停滞和质量下降。当我们解决这些问题时，可能值得重新审视亚历山大的想法，以创建一个更加动态和有机的数字空间。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87842</guid>
-      <pubDate>Sat, 04 May 2024 07:19:12 GMT</pubDate>
+      <title>[媒体] 1986 年，劳伦斯利弗莫尔国家实验室的镜面融合测试设施-B (MFTF-B) [...]</title>
+      <link>https://t.me/hn_summary/87869</link>
+      <description><![CDATA[镜子融合测试设施（2023）
+1986年，劳伦斯利弗莫尔国家实验室的镜面聚变测试设施-B（MFTF-B）大张旗鼓地竣工，但由于预算压力而在同一天关闭，从未启用。该项目耗资近 10 亿美元，采用了一个巨大的“阴阳”磁体，能够产生地球磁场 15 万倍的磁场，以容纳用于聚变的等离子体。投资 MFTF-B 而非其他聚变研究方法的决定引起了争议，并最终导致了它的失败。国家点火装置近期取得的突破重新点燃了聚变研究的希望，实现了首次净能量增益聚变反应。]]></description>
+      <guid>https://t.me/hn_summary/87869</guid>
+      <pubDate>Sat, 04 May 2024 14:24:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇发人深省的文章中，作者深入探讨了直觉在[...]中的重要性。</title>
-      <link>https://t.me/hn_summary/87841</link>
-      <description><![CDATA[在你到达之前，你可能不知道你要去哪里有(2014)
-在这篇发人深省的文章中，作者深入探讨了直觉在创作过程中的重要性，并将阿基米德测量体积的发现与品牌战略的过程进行了类比。作者对“直觉在科学和商业环境中不受欢迎”这一观点提出了质疑，强调了直觉在产生原创和成功想法方面所发挥的作用。通过强调创造性努力中发现和论证的必要性，作者鼓励对创造性过程采取更加诚实和开放的方法。本文最终主张拥抱直觉和后理性化，以推动营销和品牌的创新和成功。]]></description>
-      <guid>https://t.me/hn_summary/87841</guid>
-      <pubDate>Sat, 04 May 2024 07:18:06 GMT</pubDate>
+      <title>[媒体]文章探讨了经济租金的概念，区分了“上涨的潮汐 [...]</title>
+      <link>https://t.me/hn_summary/87868</link>
+      <description><![CDATA[涨潮租金和强盗男爵租金
+文章探讨了经济租金的概念，区分了惠及社会的“涨潮租金”和不成比例地惠及当权者的“强盗大亨租金”。它讨论了谷歌、亚马逊和 Meta 等科技巨头如何从提供有价值的服务转变为通过广告吸引用户的注意力和收入。从以用户为中心的算法向付费游戏平台的转变导致搜索结果较差，消费者的价格更高。文章警告说，这种榨取行为可能会导致类似于过去科技行业垄断的垮台。对注意力作为大型科技公司控制的有限资源的关注被强调为其市场力量的关键因素。 （根据故事文本的 56% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87868</guid>
+      <pubDate>Sat, 04 May 2024 14:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]效率和一致性是用户体验设计的关键，内容标准起着至关重要的作用[...]</title>
-      <link>https://t.me/hn_summary/87840</link>
-      <description><![CDATA[设计系统中的内容标准
-效率和一致性是用户体验设计的关键，内容标准在确保高质量、有凝聚力的内容方面发挥着至关重要的作用。这篇来自 www.nngroup.com 的文章强调了将内容标准整合到设计系统中，以保持一致的声音和风格。 Intuit、Adobe 和 Atlassian 等公司的示例展示了内容标准如何弥合视觉和内容设计之间的差距，从而实现高效协作。本文提供了设置和整合内容标准的实用步骤，强调了简化决策的好处，揭开了内容策略的神秘面纱，并为设计相关任务提供了单一的事实来源。最终，设计系统中的内容标准可以增强用户体验并推动组织的成功。]]></description>
-      <guid>https://t.me/hn_summary/87840</guid>
-      <pubDate>Sat, 04 May 2024 07:15:00 GMT</pubDate>
+      <title>StarCoder2-Instruct 是一个开源管道，引入了 StarCoder2-15B-Instruct-v0.1，一个 [...]</title>
+      <link>https://t.me/hn_summary/87867</link>
+      <description><![CDATA[StarCoder2-Instruct：代码生成的透明自对齐
+StarCoder2-Instruct 是一个开源管道，引入了 StarCoder2-15B-Instruct-v0.1，这是一种使用完全宽松且透明的管道进行训练的自对齐代码大型语言模型 (LLM)。它生成指令-响应对来微调 StarCoder-15B，无需人工注释或来自其他法学硕士的数据。该项目提供了使用 Transformer 库的快速入门指南以及有关数据生成、训练、评估和执行过滤的详细信息。该项目主要专注于 Python 代码生成任务，但可能对其他编程语言和编码任务有限制。它的目的是通过允许通过响应前缀或一次性示例进行响应引导来解决偏见。]]></description>
+      <guid>https://t.me/hn_summary/87867</guid>
+      <pubDate>Sat, 04 May 2024 14:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇发人深省的文章中，瓦利德·阿里 (Waleed Aly) 挑战了人们认为 [...]</title>
-      <link>https://t.me/hn_summary/87839</link>
-      <description><![CDATA[让所有男性对少数暴力行为负责并不能保证女性的安全
-在这篇发人深省的文章中，瓦利德·阿里挑战了一种传统观念，即所有男人都应对少数人的暴力行为负责。阿里认为，与让所有穆斯林对恐怖主义负责的无效方法相提并论，将整个群体与犯罪联系起来只会导致防御和疏远。相反，他建议关注特定的风险因素，例如酒精、赌博和虐待性的童年环境，以解决暴力的根本原因。通过将国家战略从广泛的方法转变为更有针对性的方法，阿里为打击暴力提供了更有效的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/87839</guid>
-      <pubDate>Sat, 04 May 2024 06:50:49 GMT</pubDate>
+      <title>[媒体] 网站上的联系表格经常被破坏，让用户感到沮丧，并增加了风险 [...]</title>
+      <link>https://t.me/hn_summary/87866</link>
+      <description><![CDATA[我不想填写您的联系表
+网站上的联系表单经常被破坏，这让用户感到沮丧，并增加了数据被盗或用于发送垃圾邮件的风险。许多大型组织，例如百安居和沃达丰，其联系表格根本不起作用。这些表单的复杂性和缺乏可访问性使得用户很难提供反馈或提出问题。尽管存在常见的误解，但在网站上列出电子邮件地址实际上比使用联系表单更安全且更易于访问。是时候放弃联系表单并选择更简单、更用户友好的方法了。]]></description>
+      <guid>https://t.me/hn_summary/87866</guid>
+      <pubDate>Sat, 04 May 2024 13:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 出人意料的是，Nvidia 因这种善意而免于破产 [...]</title>
-      <link>https://t.me/hn_summary/87838</link>
-      <description><![CDATA[世嘉的善意如何拯救了 Nvidia
-出乎意料的是，世嘉首席执行官入尻翔一郎的善意拯救了 Nvidia，使其免于破产。当时，Nvidia 正在为世嘉 Dreamcast 开发 GPU，但微软推出了 DirectX，打乱了他们的计划。面对艰难的决定，Nvidia 与世嘉接洽，要求解除合同，但仍需全额付款。世嘉同意了，并为 Nvidia 提供继续开发的资金。这一善举让 Nvidia 开发出了 GeForce 256 等成功产品，从而在科技行业取得了如今的成功。如果没有世嘉的帮助，Nvidia 的未来将充满不确定性。]]></description>
-      <guid>https://t.me/hn_summary/87838</guid>
-      <pubDate>Sat, 04 May 2024 06:33:42 GMT</pubDate>
+      <title>ReCAPTCHA 是一种用于验证网站上人类用户的流行工具，目前正在经历 [...]</title>
+      <link>https://t.me/hn_summary/87865</link>
+      <description><![CDATA[ReCAPTCHA 对于[部分|大多数|所有 Windows 用户]来说已损坏( https://news.ycombinator.com/item?id=40255307)
+ReCAPTCHA 是一种用于验证网站上人类用户的流行工具，目前 Windows 用户遇到了问题。许多人报告系统出现问题，导致他们感到沮丧并阻碍他们访问某些网站。该错误已被识别并正在解决，但对于某些用户来说该问题仍未解决。这一争议引发了在线社区的争论，一些人质疑 ReCAPTCHA 在 Windows 平台上的有效性。请继续关注此持续问题的更新。]]></description>
+      <guid>https://t.me/hn_summary/87865</guid>
+      <pubDate>Sat, 04 May 2024 13:19:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软正在推出一种名为 ZTDNS 的新框架，以增强 Windo 内的安全性 [...]</title>
-      <link>https://t.me/hn_summary/87837</link>
-      <description><![CDATA[微软计划以前所未有的方式锁定 Windows DNS 
-Microsoft 正在推出一种名为 ZTDNS 的新框架，通过加密和验证最终用户客户端与 DNS 服务器之间的连接来增强 Windows 网络内的安全性。此举旨在解决与 DNS 相关的长期安全风险，其中查找通常未加密且容易受到恶意活动的影响。 ZTDNS 将 Windows DNS 引擎与 Windows 防火墙集成在一起，使组织能够严格限制服务器将解析的域。这种创新方法旨在提供对 DNS 流量的更好控制和可见性，最终为 Windows 用户创建更安全的环境。]]></description>
-      <guid>https://t.me/hn_summary/87837</guid>
-      <pubDate>Sat, 04 May 2024 06:29:37 GMT</pubDate>
+      <title>John Spurlock 讨论了创建开放播客前缀项目 (OP3) 以响应 [...]</title>
+      <link>https://t.me/hn_summary/87864</link>
+      <description><![CDATA[与 John Spurlock 一起了解开放播客前缀项目 (OP3)
+John Spurlock 讨论了开放播客前缀项目 (OP3) 的创建，以满足对更透明、更可靠的播客分析基础设施的需求。 OP3 遵循 IABv2 标准，但采用独特的数据收集和分类方法。该项目是开源的，允许行业内的透明度和信任。收集的数据很少，并在处理时考虑到 GDPR 合规性。目标是提供开放数据以刺激创新并支持播客社区。 OP3 的资金来自捐款和赞助，并计划在未来扩展和改进集成。]]></description>
+      <guid>https://t.me/hn_summary/87864</guid>
+      <pubDate>Sat, 04 May 2024 12:17:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

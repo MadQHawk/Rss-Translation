@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>亚洲新闻 | 最新头条新闻 | 路透社</title>
+    <title>亚洲新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/asia-pacific/</link>
     <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 12:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:14:35 GMT</lastBuildDate>
+    <item>
+      <title>越南警方逮捕前政府办公室主任</title>
+      <link>https://www.reuters.com/world/asia-pacific/vietnam-police-arrest-former-head-government-office-amid-anti-graft-crackdown-2024-05-04/</link>
+      <description><![CDATA[越南公安部周六表示，在东南亚国家不断扩大反腐打击力度之际，越南警方以涉嫌滥用职权的罪名逮捕了前政府办公室主任梅进勇。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/vietnam-police-arrest-former-head-government-office-amid-anti-graft-crackdown-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 11:59:01 GMT</pubDate>
+    </item>
     <item>
       <title>前任命者表示，如果特朗普获胜，台湾将得到特朗普的支持</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 04 May 2024 09:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>印度尼西亚南苏拉威西省洪水造成14人死亡</title>
+      <title>印尼南苏拉威西省洪水造成 14 人死亡</title>
       <link>https://www.reuters.com/business/environment/floods-indonesias-south-sulawesi-kill-14-2024-05-04/</link>
       <description><![CDATA[南苏拉威西省灾害管理机构周六表示，暴雨引发的洪水和山体滑坡已造成南苏拉威西省 14 人死亡，115 人被疏散。]]></description>
       <guid>https://www.reuters.com/business/environment/floods-indonesias-south-sulawesi-kill-14-2024-05-04/</guid>
@@ -27,21 +34,21 @@
       <pubDate>Sat, 04 May 2024 02:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚和美国游客失踪墨西哥发现尸体</title>
+      <title>澳大利亚和美国游客失踪后在墨西哥发现尸体</title>
       <link>https://www.reuters.com/world/americas/three-bodies-found-area-where-australian-us-tourists-went-missing-sources-2024-05-03/</link>
       <description><![CDATA[当地检察官办公室周五晚间在一份声明中表示，墨西哥当局在下加利福尼亚州找到了三具尸体，据报一名美国游客和两名澳大利亚游客失踪。]]></description>
       <guid>https://www.reuters.com/world/americas/three-bodies-found-area-where-australian-us-tourists-went-missing-sources-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 17:47:43 GMT</pubDate>
     </item>
     <item>
-      <title>世卫组织总干事敦促各国在最后期限前敲定大流行协议</title>
+      <title>世卫组织总干事敦促各国在最后期限前敲定流行病协议</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</link>
-      <description><![CDATA[随着谈判截止日期本月临近，世界卫生组织总干事周五敦促各国达成一项协议，以帮助抗击未来的流行病。]]></description>
+      <description><![CDATA[随着本月谈判截止日期的临近，世界卫生组织总干事周五敦促各国同意达成一项协议，以帮助抗击未来的流行病。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:38:21 GMT</pubDate>
     </item>
     <item>
-      <title>泰国重量级人物他信的女儿称银行独立是“障碍”</title>
+      <title>泰国重量级人物他信之女称中央银行独立性是“障碍”</title>
       <link>https://www.reuters.com/world/asia-pacific/daughter-thai-heavyweight-thaksin-calls-cbank-independence-an-obstacle-2024-05-03/</link>
       <description><![CDATA[泰国颇具影响力的前总理他信·西那瓦(Thaksin Shinawatra)的政治家女儿周五表示，央行的独立性是解决经济问题的“障碍”，这是围绕利率的持续争论的最新一击。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/daughter-thai-heavyweight-thaksin-calls-cbank-independence-an-obstacle-2024-05-03/</guid>
@@ -62,18 +69,11 @@
       <pubDate>Fri, 03 May 2024 10:43:24 GMT</pubDate>
     </item>
     <item>
-      <title>美国财政部高级官员将前往新加坡、马来西亚讨论制裁问题</title>
+      <title>美国财政部高级官员将前往新加坡和马来西亚讨论制裁问题</title>
       <link>https://www.reuters.com/world/us/top-us-treasury-official-travel-singapore-malaysia-discuss-sanctions-2024-05-03/</link>
       <description><![CDATA[一位知情人士告诉路透社，美国财政部最高制裁官员将于下周前往新加坡和马来西亚，华盛顿寻求打击为伊朗及其代理人组织提供资金以及逃避对俄罗斯制裁的行为。]]></description>
       <guid>https://www.reuters.com/world/us/top-us-treasury-official-travel-singapore-malaysia-discuss-sanctions-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国公司发射蜡烛动力火箭进行太空试飞</title>
-      <link>https://www.reuters.com/science/german-company-launches-candle-wax-powered-rocket-test-flight-into-space-2024-05-03/</link>
-      <description><![CDATA[德国公司 HyImpulse 于周五成功发射了一枚蜡烛动力火箭，该火箭首次能够携带商业卫星进行亚轨道飞行测试进入太空。]]></description>
-      <guid>https://www.reuters.com/science/german-company-launches-candle-wax-powered-rocket-test-flight-into-space-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 09:51:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
