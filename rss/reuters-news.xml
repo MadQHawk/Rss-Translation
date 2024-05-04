@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>亚洲新闻 |最新头条新闻 |路透社</title>
+    <title>亚洲新闻 | 最新头条新闻 | 路透社</title>
     <link>https://www.reuters.com/world/asia-pacific/</link>
     <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 18:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:13:30 GMT</lastBuildDate>
+    <item>
+      <title>墨西哥尸体可能失踪美国和澳大利亚冲浪者</title>
+      <link>https://www.reuters.com/world/dead-bodies-mexico-likely-are-missing-us-australian-surfers-2024-05-04/</link>
+      <description><![CDATA[墨西哥下加利福尼亚州一名高级官员周六表示，在墨西哥下加利福尼亚州发现的三具尸体很可能是上周失踪的美国游客和两名澳大利亚游客。]]></description>
+      <guid>https://www.reuters.com/world/dead-bodies-mexico-likely-are-missing-us-australian-surfers-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 19:23:42 GMT</pubDate>
+    </item>
     <item>
       <title>越南警方逮捕前政府办公室主任</title>
       <link>https://www.reuters.com/world/asia-pacific/vietnam-police-arrest-former-head-government-office-amid-anti-graft-crackdown-2024-05-04/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 03 May 2024 17:47:43 GMT</pubDate>
     </item>
     <item>
-      <title>世卫组织总干事敦促各国在最后期限前敲定大流行协议</title>
+      <title>世卫组织总干事敦促各国在最后期限前敲定流行病协议</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</link>
       <description><![CDATA[随着本月谈判截止日期的临近，世界卫生组织总干事周五敦促各国同意达成一项协议，以帮助抗击未来的流行病。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</guid>
@@ -57,23 +64,16 @@
     <item>
       <title>莫迪政党让有争议的议员儿子参加民意调查，印度摔跤运动员感到不安</title>
       <link>https://www.reuters.com/world/india/indian-wrestlers-upset-modis-party-fields-controversial-lawmakers-son-polls-2024-05-03/</link>
-      <description><![CDATA[印度顶级奥运摔跤运动员批评总理纳伦德拉·莫迪领导的政党派其前联合会主席的儿子参加全国选举，尽管他的父亲被指控性骚扰女摔跤运动员。]]></description>
+      <description><![CDATA[印度顶级奥林匹克摔跤手批评总理纳伦德拉·莫迪的政党派前联合会主席的儿子参加全国选举，尽管他的父亲被指控性骚扰女摔跤手。]]></description>
       <guid>https://www.reuters.com/world/india/indian-wrestlers-upset-modis-party-fields-controversial-lawmakers-son-polls-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:19:09 GMT</pubDate>
     </item>
     <item>
       <title>Ruang火山喷发后印尼将永久重新安置10,000人</title>
       <link>https://www.reuters.com/world/asia-pacific/indonesia-permanently-relocate-10000-people-after-ruang-volcano-eruptions-2024-05-03/</link>
-      <description><![CDATA[一位部长周五表示，由于鲁昂火山的一系列爆炸性喷发引发了人们对未来居住在岛上的危险的担忧，印度尼西亚政府将永久重新安置近 10,000 名居民。]]></description>
+      <description><![CDATA[印尼一位部长周五表示，鲁昂火山连续爆发引发人们对未来居住在该岛的危险性的担忧，印尼政府将永久安置近 10,000 名居民。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/indonesia-permanently-relocate-10000-people-after-ruang-volcano-eruptions-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国财政部高级官员将前往新加坡和马来西亚讨论制裁问题</title>
-      <link>https://www.reuters.com/world/us/top-us-treasury-official-travel-singapore-malaysia-discuss-sanctions-2024-05-03/</link>
-      <description><![CDATA[一位知情人士告诉路透社，美国财政部最高制裁官员将于下周前往新加坡和马来西亚，华盛顿寻求打击为伊朗及其代理人组织提供资金以及逃避对俄罗斯制裁的行为。]]></description>
-      <guid>https://www.reuters.com/world/us/top-us-treasury-official-travel-singapore-malaysia-discuss-sanctions-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 10:06:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
