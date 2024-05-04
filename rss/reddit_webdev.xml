@@ -4,9 +4,100 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 04 May 2024 06:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:14:19 GMT</lastBuildDate>
     <item>
-      <title>我如何在通过脚本捆绑和引用的 React 应用程序中确定 tailwindcss 的范围。</title>
+      <title>我用 Astro 和 Tailwind CSS 制作了一堆免费开源模板供任何人使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjvomv/i_made_a_bunch_of_free_and_open_source_templates/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjvomv/i_made_a_bunch_of_free_and_open_source_templates/</guid>
+      <pubDate>Sat, 04 May 2024 08:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 的云备份和插件回滚</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjvlf9/cloud_backups_plugin_rollbacks_for_wordpress/</link>
+      <description><![CDATA[嗨， 我最近构建了一个 SaaS，用于管理 WordPress 云备份、即时插件回滚和一键恢复。  与其他解决方案不同，这个解决方案不使用插件，全部通过 SSH/SFTP 完成。  让我知道你的想法：https://superwp.io/ 谢谢！    提交人    /u/Morolord   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjvlf9/cloud_backups_plugin_rollbacks_for_wordpress/</guid>
+      <pubDate>Sat, 04 May 2024 08:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dockerfile 使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjvkrn/dockerfile_usage/</link>
+      <description><![CDATA[如果您正在编写要在 CI/CD 管道中执行的 Dockerfile（设置 -&gt; 构建 -&gt; 分析 -&gt; 构建容器-&gt; 部署），您更喜欢单独安装依赖项并构建应用程序，还是重用先前构建作业中的工件？对我来说，后者似乎是显而易见的，但到目前为止我只见过前一种方法。   由   提交 /u/untakenusrnm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjvkrn/dockerfile_usage/</guid>
+      <pubDate>Sat, 04 May 2024 08:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 NextJS 登陆页面启动模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjvjmm/i_made_a_nextjs_landing_page_starter_template/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/DerThan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjvjmm/i_made_a_nextjs_landing_page_starter_template/</guid>
+      <pubDate>Sat, 04 May 2024 08:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用人工智能制作了一个幻想名字生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjve27/i_made_a_fantasy_name_generator_using_ai/</link>
+      <description><![CDATA[大家好！我最近构建了一个使用 Claude AI 的 Fantasy 名称生成器： https://andreacerasoni.com/tool/generator/fantasy-name&lt; /a&gt; 该工具免费提供，我希望其他作家、D&amp;D 玩家、世界构建者和白日梦想家可能会发现它很有用！ 现在可用的选项分别是精灵、龙、人类、矮人和妖精，但我计划在未来添加更多。如果您正在努力命名一个不太知名的幻想种族中的角色，请告诉我，我会考虑将其添加到该工具中。 对于那些对技术方面感兴趣的人，您可以查看在我最近的博客文章中，我讨论了如何大规模推广 Claude AI、如何在网站上提供该工具等等：https://andreacerasoni.com/blog/ai-fantasy-name-generator   由   提交/u/andreacerasoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjve27/i_made_a_fantasy_name_generator_using_ai/</guid>
+      <pubDate>Sat, 04 May 2024 08:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 出现 DNS 问题，希望更换注册商</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjvde4/dns_issues_with_cloudflare_looking_to_possibly/</link>
+      <description><![CDATA[我正在考虑离开 cloudflare，因为他们的 DNS 给我带来了一些问题或降低了自托管大型文件传输的速度，而其他一些托管服务与他们的 DNS 配合得并不好。在我的办公室，我正在运行类似的自托管产品，并将域名和 DNS 从 Cloudflare 切换到 namecheap，这确实很棒，但我想确保在我花钱之前我选择了最好的选择。我认为我唯一会想念 cloudflare 的东西是低域名价格和免费的机器人阻止。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjvde4/dns_issues_with_cloudflare_looking_to_possibly/</guid>
+      <pubDate>Sat, 04 May 2024 08:15:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>告诉一位老手我将如何建立一个网站，允许我输入和查看 D&D​​ 衍生作品的“怪物数据”。应该也可以在手机上使用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjvbs1/tell_an_oldtimer_how_im_going_to_build_a_site/</link>
+      <description><![CDATA[所以我已经老了 (52)，当网络刚开始的时候我就进入了网络，1994 年我运行了我的第一个网站。我主要研究 PHP、CSS/JavaScript、LAMP 堆栈等。 jQuery 也是如此，但我没有学到任何其他东西——React、Laravel、其他东西，不知道关于它们的任何东西。 SO！我有一些空闲时间来创建一个小型网站。此网站将从此 Google 电子表格获取我的数据，并以表格格式显示良好的结果。 （该数据是您可以通过“召唤怪物”咒语获得的怪物列表。）有人可能会询问他们是否知道“SM3”。 （召唤怪物 3）并想看看他们可以用该咒语获得的所有怪物。或者他们可能想看看这些怪物可以施展什么其他法术。所以我们谈论的是简单的查询和简单的结果。但现在对我来说重要的标准是：我想使用你们告诉我的任何现代的东西来构建它，并且我希望它能够在手机上快速运行，所以简单的界面和漂亮干净的易于操作- 阅读文字。我应该能够选择一个咒语并立即查看我得到的生物，这样我就可以在游戏中使用它，而无需其他玩家坐在旁边等待。 你们有什么建议？那里有什么新鲜事，您对这个简单的电子表格转变为数据库的项目有何设想？我只会遵循任何看起来我的大脑可以处理的好建议。预先感谢您提供任何提示！   由   提交 /u/jack_skellington   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjvbs1/tell_an_oldtimer_how_im_going_to_build_a_site/</guid>
+      <pubDate>Sat, 04 May 2024 08:12:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得优质客户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjv31c/how_do_you_land_quality_clients/</link>
+      <description><![CDATA[您寻找优质客户的策略是什么？ 您如何说服他们向您购买产品？ &lt; /div&gt;  由   提交 /u/xxxpandoraxxx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjv31c/how_do_you_land_quality_clients/</guid>
+      <pubDate>Sat, 04 May 2024 07:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>采用网络组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjuyqb/webcomponents_adoption/</link>
+      <description><![CDATA[昨天，我们在 WCCG​​ 中讨论了采用 Web 组件的主要障碍。拥有我自己的基于 Web 组件的框架 (AventusJs)，我想知道您缺少什么以及是什么阻碍您使用 Web 组件。 我可以比正常情况更快地将其集成到 AventusJs 中。这将提供一个如何解决主要阻塞元素的示例。   由   提交/u/max529  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjuyqb/webcomponents_adoption/</guid>
+      <pubDate>Sat, 04 May 2024 07:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个英雄页面如何运作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjuu9p/how_does_this_hero_page_work/</link>
+      <description><![CDATA[   https ://www.adhamdannaway.com/ 我正在尝试为我的网站创建一个与此类似的东西。当您加载时，这里有两张图像实际上是全尺寸的，但只显示了一半。然后，当您将鼠标移动到图像的一侧时，图像将水平扩展，填满相反的图像。感谢任何可以帮助解释它的人。   由   提交 /u/AdAffectionate3898   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjuu9p/how_does_this_hero_page_work/</guid>
+      <pubDate>Sat, 04 May 2024 07:37:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使使用 Python、SQLite 和 Flask 创建的 Web 应用程序与自定义域一起运行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjuhwz/making_a_web_application_created_with_python/</link>
+      <description><![CDATA[我在完成 CS50x 的财务项目时创建了一个 Web 应用程序 (https://cs50.harvard.edu/x/2024/psets/9/finance/），使用 Python、SQLite 和 Flask。我打算添加更多功能并使其与自定义域一起使用。鉴于我有 AWS 信用，AWS 服务建议牢记这一目标以及易用性和成本。   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjuhwz/making_a_web_application_created_with_python/</guid>
+      <pubDate>Sat, 04 May 2024 07:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 和 Tailwind CSS 的开源组件库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cju8zi/open_source_components_library_for_react_tailwind/</link>
+      <description><![CDATA[大家好！ 我是 Tailframes 的联合创始人 - 用于 React 和 React 的开源组件库。 Tailwind CSS 的目标是加快您的工作流程。包括复制粘贴界面、CodePen 上的代码片段、UI 组件、登陆页面部分以及更多内容。希望你会喜欢它！ 仓库：https://github.com/Tailframes/react-components 网站：https://www.tailframes.com 免费 Figma：https://www.figma.com/community/file/1368254181288101112/ tailframes-open-source-design-system-react-tailwind 享受吧！   由   提交/u/BlueberryBig9348   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cju8zi/open_source_components_library_for_react_tailwind/</guid>
+      <pubDate>Sat, 04 May 2024 06:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 vanillaJS 库，它允许灵活的表单验证而无需编写额外的代码（大多数情况下，除非需要自定义约束）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cju64g/i_made_vanillajs_lib_that_allows_flexible_form/</link>
+      <description><![CDATA[       由   提交 /u/morphles   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cju64g/i_made_vanillajs_lib_that_allows_flexible_form/</guid>
+      <pubDate>Sat, 04 May 2024 06:50:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何在通过脚本捆绑和引用的反应应用程序中确定 tailwindcss 的范围。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjtcjq/how_can_i_scope_tailwindcss_in_a_react_app_that/</link>
       <description><![CDATA[我想开发一个任何人都可以通过 ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjtcjq/how_can_i_scope_tailwindcss_in_a_react_app_that/</guid>
@@ -18,97 +109,6 @@
       <description><![CDATA[      在 AWS Lightsail 上创建了一个新容器。需要了解是否有两种通过菜单选项部署容器的方法：部署或镜像？ Docker 和 ECR 是竞争产品吗？ Docker 优于 ECR 吗？原因是，如果选择了映像选项，AWS LIghtsail 本身显然强制要求使用 Docker。 此外，当单击“部署”菜单时： “从公共注册表输入映像引用” ，例如 DockerHub。” 所以他们提到的是 DockerHub，而不是他们自己的 ECR！ https://preview.redd.it/qo3mzykh6cyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=09eaf907a8615 0465dd1ed075bd6486ea8adb7b4 https://preview。 redd.it/tmd09tkh6cyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=5e0db1a842ab1b538c20f2a5a7921798030ec009 https://preview.redd.it/72j2qtkh6cyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=ea8651567 992be6fe710269e4173ef09f52ec877&lt; /a&gt;   由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjrtii/difference_between_docker_and_amazon_elastic/</guid>
       <pubDate>Sat, 04 May 2024 04:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>这种架构有意义吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjrdr8/does_this_architecture_make_sense/</link>
-      <description><![CDATA[      https://preview.redd.it/ag6c7ybn1cyc1.png?width=1240&amp;format=png&amp;auto=webp&amp;s=5ad9b269e099d3f c527fabda8f7a06db96c39cb9 我想知道上面的架构图对于基本 SaaS 服务是否有意义？到目前为止我的推理是：  使用 Express.js 作为后端。 使用 Next.js 作为前端以获得 SSR 的优势。  &gt;Next.js 仅充当“前端的后端” ; - 它不做任何“真正的”事情后端直接工作。 使用单独的 Express 后端而不是 Next.js 的 /api 路由器的原因： 它更容易上手，因为我了解 Express，但以前从未使用过 Next.js。 确保后端是“通用”的并且与前端没有紧密耦合（支持不同的客户端/前端）。 两者可以独立扩展（这里的一切都在 Docker 中）。 不确定这有多常见/正常模式是。从 BFF 向实际服务后端发出第二个 HTTP 请求是否会产生开销？  后端不处理身份验证 - 这是由 Traefik 反向代理和 Authentik SSO，在传递之前将可信标头注入到请求中它打开（标头包含用户 ID、电子邮件等）。  这比任何自建身份验证（包括 TOTP、“使用...登录”等）更安全、功能更齐全。 它保留了我的身份验证功能。代码简单，并且允许稍后根据需要交换身份验证层。 如果具有所需的标头，则任何到达服务的请求都被假定为经过身份验证，但某些需要的白名单路由除外。   Traefik 还确保将正确的请求发送到正确的位置（BFF 与 API）。  我已经制作了原型这一部分（除了前端之外的所有内容）似乎工作正常，但我想知道我是否遗漏了任何明显的问题，尤其是前端（以前从未使用过 Next.js 或 BFF 模式）。上次我进行全栈开发时（两年多前），我做出了一些愚蠢的决定，例如滚动自己的身份验证、忽略可扩展性/可维护性、使用 NoSQL 和 ORM 等。所以这里可能存在一些我没有看到或没有的问题值得了解的经验。任何反馈/想法将不胜感激 - 谢谢！   由   提交/u/ImranR98  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjrdr8/does_this_architecture_make_sense/</guid>
-      <pubDate>Sat, 04 May 2024 03:57:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能推荐一个使用基于块的编辑和输出为 html 的所见即所得编辑器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjpj89/can_anyone_recommend_a_wysiwyg_editor_that_uses/</link>
-      <description><![CDATA[是否存在基本上类似于 Notion 或 Anytype 的所见即所得页面/文本编辑器的东西，您可以在其中制作非常简单且简约的文本页面，移动文本块如果需要的话，并且能够将其全部输出为简单的html？不寻找任何像数据库/属性/标签管理之类的东西，只是超级简单的富文本+块样式编辑器，只有 html 输出。概念有点做我正在寻找的东西，但寻找可以离线运行的东西。 Anytype 很接近，但不导出为 html。    由   提交/u/nox-electrica  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjpj89/can_anyone_recommend_a_wysiwyg_editor_that_uses/</guid>
-      <pubDate>Sat, 04 May 2024 02:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合后端开发的笔记本电脑吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjpfla/good_laptop_for_backend_development/</link>
-      <description><![CDATA[大家好👋，我正在考虑配备 Intel ARC A370M（新插座/翻新）和 Dell inspiron 16 的 Lenovo Slim 7 16IAH i7 12700H 32gb/1tb加上 7630（i7 13700H、32GB/1TB、igpu）。我的预算约为 600-800 美元，我不玩游戏 我的工作使用这些技术：  spring boot、java、hibernate docker、k8s 微服务、kafka postgresql  那么你觉得怎么样？我应该选择它吗（听说联想笔记本电脑很坚固？但我不知道触摸屏耐用不耐用）。如果没有的话，你们能推荐一些好的笔记本电脑吗？ 谢谢。祝你有美好的一天❤️🍀🙏   由   提交 /u/TorryDo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjpfla/good_laptop_for_backend_development/</guid>
-      <pubDate>Sat, 04 May 2024 02:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国的虚拟主机</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjou5k/web_hosting_in_the_usa/</link>
-      <description><![CDATA[您可以推荐哪家提供商？  我想托管普通到中型网站（使用最新的PHP 版本） Worldpress 应该可以作为应用程序安装，只需单击一下 我在其他地方拥有的域应该易于使用，包括电子邮件。  在我的研究过程中，我不知何故感到非常沮丧，因为我发现很多关于所有提供商的负面意见。   由   提交 /u/ThyringerBratwurst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjou5k/web_hosting_in_the_usa/</guid>
-      <pubDate>Sat, 04 May 2024 01:36:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对主持很困惑。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjoimb/im_so_confused_by_hosting/</link>
-      <description><![CDATA[我已经在 Web 开发上摆弄了一段时间了，为不同的项目制作了一些静态页面，然后通过 c 面板将它们放到 bluehost 上。我以前从未想过做任何网络应用程序或任何东西，所以我从来不需要数据库或服务器或任何东西。但我想向我的网站添加一个 cms，现在我需要一台服务器来运行 cms 并连接到数据库，我认为了解有关整个服务器/数据库的更多信息会很好。让我困惑的是，人们似乎只谈论像 vercel 这样的东西，感觉它有可能为了一点便利而花费很多钱。但是在 bluehost 上我可以将 Wordpress 添加到我的网站，Wordpress 不需要服务器来处理身份验证等吗？我什至不知道我的问题是什么，但这一切似乎都很难弄清楚从哪里开始。   由   提交/u/cmv99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjoimb/im_so_confused_by_hosting/</guid>
-      <pubDate>Sat, 04 May 2024 01:19:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>不久前为客户建立了一个 django 网站，几年后被要求更新它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjobrb/built_a_django_site_for_a_client_a_while_back_and/</link>
-      <description><![CDATA[我想我大约 5 年前构建了它。用鹡鸰，很简单。我昨晚尝试让它与最新版本一起工作。真的没有时间一次发布一个版本 - 等等。 无论如何，它现在已经很糟糕了。我从来不想维护它，但我现在想维护它，因为我已经脱离了全栈游戏，并且希望保持我的技能新鲜。  有什么建议或建议可以让这个过程不那么痛苦吗？如何让下次我必须做的事情变得更愉快？   由   提交/u/satoshibitchcoin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjobrb/built_a_django_site_for_a_client_a_while_back_and/</guid>
-      <pubDate>Sat, 04 May 2024 01:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF里面的游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjndvo/game_inside_pdf/</link>
-      <description><![CDATA[        提交人    /u/tootac   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjndvo/game_inside_pdf/</guid>
-      <pubDate>Sat, 04 May 2024 00:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为植物/园艺爱好者提供的植物管理和跟踪应用程序的巨大更新</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjm35n/huge_update_of_my_plant_management_and_tracking/</link>
-      <description><![CDATA[嘿 r/webdev 我的植物应用程序在过去几个月取得了一些重大进展，所以我想与您分享它并希望获得一些反馈。由于它是一个自托管应用程序，您需要自己托管它，但有一个可用的演示工作区，因此您可以轻松试用它。 功能随着时间的推移而增长。让我给你一些主要功能：  管理位置上的植物 指定有关植物的各种详细信息，用关键字标记它们，上传照片等。 管理您的任务和库存 日历管理即将到来的日期和约会 天气预报，对于更关注户外植物或园艺的用户很有用 协作聊天 历史记录功能（“耻辱堂”） 搜索功能 电子邮件提醒 可用作渐进式 Web 应用程序 主题系统：让您的用户自定义应用程序的外观 QR 码打印以便标记您的花盆 可通过 Docker 使用 还有更多！  现场演示链接：https://www.hortusfox.com/demo 您可能希望先查看的应用程序屏幕截图：https://www.hortusfox.com/screenshots  什么是 HortusFox？ 该应用程序是一个自托管和协作的植物管理应用程序，您可以单独使用，也可以与您的伴侣、朋友、家人等一起使用。它可以帮助您跟踪您的绿叶朋友和所有相关任务，并创建一个漂亮的植物育儿日志。 快乐的植物育儿！    提交人    /u/Fit_Fee9549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjm35n/huge_update_of_my_plant_management_and_tracking/</guid>
-      <pubDate>Fri, 03 May 2024 23:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助实现沿着波浪形 SVG 路径的循环、无缝文本动画。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjlv9x/need_help_with_a_looping_seamless_text_animation/</link>
-      <description><![CDATA[类似于这篇文章。我不需要它是动态的。但是她提供的代码对我没有帮助... 这是我想重新创建的网站波浪形的无限大帐篷。我尝试过 GSAP，但也没有任何运气。 这是我的代码，但是我遇到的问题是我无法让它无缝和循环。我觉得我已经很接近了，但我已经碰壁了，请寻求帮助！最终目标是让它自己动画，然后在用户滚动时加速，然后在用户滚动时加速停止滚动，它将再次拾取并自动制作动画。 沿着 codepen 路径滚动文本动画 我做了一些类似于旋转圆的事情，但似乎无法弄清楚如何沿着文本路径传输相同的文本逻辑...... 这是我的 GSAP 代码旋转圆 console.clear(); constrotatingElement = document.querySelector(“#floatingCta”);常量自动旋转速度因子 = 5; // 调整此因子以增加自动旋转速度 letscrollRotationSpeedFactor = 0.1; // 调整此因子以实现基于滚动的旋转速度 let autoRotationInterval;让lastTimestamp = Performance.now();让lastScrollY = window.scrollY;让总旋转=0；让滚动方向=0； // 初始滚动方向（不滚动） const updateRotation = () =&gt; { const now = Performance.now(); const deltaTime = 现在 - 最后时间戳； // 根据时间自动旋转 const autoRotationAmount = (autoRotationSpeedFactor * deltaTime) / 1000;总旋转 += 自动旋转量 * 滚动方向； // 根据滚动方向调整 // 基于滚动的旋转 const deltaY = window.scrollY - lastScrollY; const 滚动速度 = Math.abs(deltaY) / deltaTime; // 计算滚动速度scrollRotationSpeedFactor = 0.1 +scrollSpeed * 0.002; // 动态调整旋转速度 constscrollRotationAmount = deltaY *scrollRotationSpeedFactor;总旋转量+=滚动旋转量； rotatingElement.style.transform = `旋转(${totalRotation}deg)`;最后时间戳=现在；最后的ScrollY = window.scrollY; }; const startAutoRotation = () =&gt;; { autoRotationInterval = setInterval(updateRotation, 16); // 每约 16 毫秒更新一次以获得流畅的动画 (60fps) }; const stopAutoRotation = () =&gt;; { 清除间隔（自动旋转间隔）； };开始自动旋转（）； // 页面加载后立即开始自动旋转 window.addEventListener(&quot;scroll&quot;, () =&gt; { if (!auto​​RotationInterval) { startAutoRotation(); // 如果停止则重新启动自动旋转 } // 更新滚动方向滚动位置scrollDirection = window.scrollY &gt; 1 : window.scrollY &lt; -1 : 0 }); window.addEventListener(“wheel”, (event) =&gt; { constscrollSpeed = Math.abs(event.deltaY) / 100; // 调整 100 以获得所需的灵敏度 constscrollDirection = event.deltaY &gt; 0 ? 1 : event .deltaY &lt; 0 ? -1 : 0; 滚动速度 * 旋转元素.transform = `rotate(${totalRotation}deg)`; // 在页面加载时模拟 1px 滚动 window.scrollBy(0, 1);  这里就是这两种效果都将存在的网站！&lt; /p&gt;   由   提交/u/valvel0city  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjlv9x/need_help_with_a_looping_seamless_text_animation/</guid>
-      <pubDate>Fri, 03 May 2024 23:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量数据搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjlidh/bulk_data_search/</link>
-      <description><![CDATA[我正在寻找一种方法来跨一堆子域（它们都是我的）进行批量数据搜索。例如，假设我有 1000 个电子邮件地址和 1000 个子域（但它们并非全部托管在同一系统上）。我需要一种方法来爬行所有网站并找到特定电子邮件地址出现的任何时间。  有没有任何工具可以做这样的事情？    由   提交 /u/ImAStubbornDonkey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjlidh/bulk_data_search/</guid>
-      <pubDate>Fri, 03 May 2024 22:49:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开登录与机密登录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjkwml/public_vs_confidential_for_login/</link>
-      <description><![CDATA[我正在尝试理解公共和机密客户端以及 BFF 设计模式的概念。  如果我想制作一个带有 go 后端的 Angular 应用程序前端，当用户登录时，它会将其重定向到 go 后端，该后端将有一个端点，然后重定向到 msal 登录页面，我会假设这将使其成为公共客户。  然后我想对这个结果做一些事情，并将自定义的 jwt 返回到前端进行会话。在验证或会话有效后，这可以用于 api。  这是登录网络应用程序的可行解决方案吗？    由   提交 /u/Empyrz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjkwml/public_vs_confidential_for_login/</guid>
-      <pubDate>Fri, 03 May 2024 22:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Next Js 和 Mongoose 之间的这种连接不起作用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjk1s0/why_does_this_connection_between_next_js_and/</link>
-      <description><![CDATA[dbConnection.ts: 从“mongoose”导入 mongoose, { Connection }让defaultConnection：连接|空=空； const uri: string = process.env.MONGODB_URI || &#39;&#39;;导出默认异步函数 dbConnection(dbName?: string | null, closeConnectionAfterUse: boolean = false): Promise; { 尝试 { if (defaultConnection) { return defaultConnection; const db = 等待 mongoose.connect(uri);默认连接 = db.connection; console.log(`MongoDB 连接：${db.connection.host}`); if (dbName) { const selectedDb = db.connection.useDb(dbName); console.log(`切换到数据库${dbName}`);返回选定的Db；返回 db.connection; } catch (error:any) { console.error(`错误：${error.message}`);抛出错误； } 最后 { if (closeConnectionAfterUse &amp;&amp; defaultConnection) { 等待 defaultConnection.close();默认连接 = null; console.log(&#39;MongoDB 连接已关闭&#39;); } } }  ConnectionTest.tsx: import { useState } from &#39;react&#39; import dbConnection from &#39;../database/dbConnection&#39; const ConnectionTest = ()=&gt; { const [消息，setMessage] = useState(&#39;&#39;); const handleOpenConnection = async () =&gt;; { 尝试 { 等待 dbConnection(); setMessage(&#39;数据库连接已打开。&#39;); } catch (error:any) { setMessage(`错误：${error.message}`); } }; const handleCloseConnection = async () =&gt;; { 尝试 { 等待 dbConnection(null, true); setMessage(&#39;数据库连接已关闭。&#39;); } catch (error:any) { setMessage(`错误：${error.message}`); } }; return (  {message} 打开连接 关闭连接;  ); };导出默认的ConnectionTest；  mongoose__WEBPACK_IMPORTED_MODULE_0___default().connect 不是一个函数 我已经多次检查了代码，但无法识别任何内容，ChatGPT 没有帮助。&lt; /p&gt;   由   提交 /u/my-name-is-Tracy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjk1s0/why_does_this_connection_between_next_js_and/</guid>
-      <pubDate>Fri, 03 May 2024 21:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>python 库如何简化 LLM 聊天机器人的部署？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjjzgr/how_a_python_library_streamlines_llm_chat_bots/</link>
-      <description><![CDATA[该库名为 Cycls - 一个可以将其导入 LLM 聊天机器人应用程序，它将为您处理部署。下面是它的工作原理。  定义您的应用程序对象  创建一个新的 Python 文件，例如main.py 在您的项目目录中，然后为应用程序的 URL 选择一个处理程序： main.py from cycls import App app = App(secret=“sk-secret”, handler=“@handler-name”, # 应用程序 url: handler-name.cycls.app )    定义应用程序的入口点  创建应用程序对象后，您需要定义应用程序入口点，该入口点用 @app 修饰 &lt; code&gt;@app def entry_point(context):  上下文对象包含重要信息，例如； -id：会话 ID，可以将其视为对话ID -message：包含用户消息的对象 -send.text：用文本回复消息而不进行流式传输的操作 -stream .text：通过文本流回复消息的操作 ​ 完整的代码如下所示 from cycls import App app = App(secret=“sk-secret”, handler=“@handler-name”) @app def entry_point(context): # 捕获接收到的消息 receive_message = context.message.content .text # 回复一条简单的消息 context.send.text(f&quot;收到的消息: {received_message}&quot;) #此时您可以使用各种LLM模型或API来处理从#user接收到的文本并发送使用上下文对象 app.publish() 返回回复  当您运行 main.py 文件时，该应用程序会自动部署一个公共 URL 和与上下文对象交互的聊天界面。这个例子显然被简化了，但结果是一个类似 ChatGPT 的 UI，当你输入文本时，它会回显给你，但你可以使用不同的 LLM 模型实现各种逻辑。  阅读文档以获取有关使用的更多信息，此外，还可以注册等候名单，我们将在其中注册很高兴在这里听到您关于如何改进这一点的反馈：https://cycls.typeform.com/waitlist    由   提交 /u/moonbunR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjjzgr/how_a_python_library_streamlines_llm_chat_bots/</guid>
-      <pubDate>Fri, 03 May 2024 21:42:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
