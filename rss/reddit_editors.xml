@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 04 May 2024 00:53:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 03:14:43 GMT</lastBuildDate>
+    <item>
+      <title>有什么办法可以将嵌入的字幕从 Quicktime 文件中分离出来吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cjpks2/any_way_to_separate_embedded_subtitles_from_a/</link>
+      <description><![CDATA[标题本质上 - 我有一个客户提供带有嵌入字幕的素材（可以在 Quicktime 中打开和关闭），但他们不明白有烧录字幕和嵌入字幕之间存在差异，我需要访问项目的字幕。 有没有一种简单的方法可以让我从文件中获取嵌入字幕，而无需自己重新输入所有内容？我尝试向客户解释差异，但他们只是不明白问题所在。 规格：我使用的是 MacBook Pro，并且安装了 FCPX、Compressor 和 VLC Player，但有如果需要，可以访问一些其他应用程序。   由   提交 /u/NeedAssistance_123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cjpks2/any_way_to_separate_embedded_subtitles_from_a/</guid>
+      <pubDate>Sat, 04 May 2024 02:16:43 GMT</pubDate>
+    </item>
     <item>
       <title>安装 avid 时出现问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cjlfx4/problem_installing_avid/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>在 Premiere 中导出时音频被淘汰</title>
       <link>https://www.reddit.com/r/editors/comments/1cjku13/audio_phased_out_when_exporting_in_premiere/</link>
-      <description><![CDATA[大家星期五快乐，我一直遇到这个问题，导出的音频听起来像是有相位效果。时间线上听起来还不错。我没有添加任何效果。  音频为 WAV。导出 AAC、48 kHz、立体声、320 kbps。 Mac 上的 Premiere Pro 24.3。  交付是针对社交媒体的，因此并不是非常重要，但仍然让我感到困扰。    由   提交/u/emilio8x  [链接] [评论]]]></description>
+      <description><![CDATA[大家星期五快乐，我遇到了这个问题，导出的音频听起来像是有相位效果。在时间线上听起来还好。我没有添加任何特效。 音频是 WAV。导出 AAC，48 kHz，立体声，320 kbps。Mac 上的 Premiere pro 24.3。 交付用于社交媒体，因此不是非常重要，但仍然让我烦恼。    提交者    /u/emilio8x   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cjku13/audio_phased_out_when_exporting_in_premiere/</guid>
       <pubDate>Fri, 03 May 2024 22:18:53 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Premire 陷入“创建代理工作”的困境</title>
       <link>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</link>
-      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它就会卡在“”上“创建代理作业”。媒体编码器端似乎也没有发生任何操作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0 ( Build 59)// 素材：来自 HDD 的 BRAW   由   提交/u/GreenToad56  [链接] [评论]]]></description>
+      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它都会卡在“创建代理作业”上。媒体编码器端似乎也没有发生任何动作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0（内部版本 59）// 素材：来自 HDD 的 BRAW    提交人    /u/GreenToad56   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</guid>
       <pubDate>Fri, 03 May 2024 02:24:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我真的很困惑为什么以及如何发生这种情况。其中许多电子邮件都非常详细。在当前的就业市场上这也是超级残酷的。卧槽😫😫😫   由   提交 /u/CocoPuffs1111   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cia0c6/what_in_the_world_is_with_these_spam_editing_job/</guid>
       <pubDate>Thu, 02 May 2024 07:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere 2024 播放灰色溶解覆盖错误？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</link>
-      <description><![CDATA[大家好， 我是 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，直到几周前一切都很顺利。在所有类型的叠化过程中，一些编辑器的全屏播放中会出现灰色叠加层（请参阅随附的两个视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让剪辑师不使用全屏播放，但这在我的工作室中不是一个选项。 文件名为 PremierePro_FadeExample_Export 是几个带有溶解功能的剪辑的简单导出；灰色覆盖层溶解明显不存在。  另一个视频 PremierePro_FadeExample_Recording 是全屏播放期间的录制，灰色覆盖层溶解问题。 到目前为止，我们已经尝试了以下解决方法：  放置黑色遮罩可以解决该问题，但要求编辑人员对每个问题都这样做序列是不可能的。 渲染整个序列似乎可以工作，但不一致。  破坏 Premiere 版本似乎也有效，但问题最终会出现，甚至降到 24.0。  AE 使用的系统是 Mac Mini （规格如下），但编辑们已经充分增强了 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 li&gt; GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们&#39;我已经检查了首映设置，但到目前为止一无所获。如果您有任何帮助，我们将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！   由   提交 /u/NakedRobots   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</guid>
-      <pubDate>Thu, 02 May 2024 06:56:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

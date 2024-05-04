@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 04 May 2024 00:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 03:15:13 GMT</lastBuildDate>
+    <item>
+      <title>谁能推荐一个使用基于块的编辑和输出为 html 的所见即所得编辑器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjpj89/can_anyone_recommend_a_wysiwyg_editor_that_uses/</link>
+      <description><![CDATA[是否存在类似于 Notion 或 Anytype 的所见即所得页面/文本编辑器的东西，您可以在其中制作一个非常简单和简约的文本页面，根据需要移动文本块，并能够将其全部输出为简单的 html？不是在寻找任何像数据库/属性/标签管理这样的东西，只是超级基本的富文本 + 块样式编辑器，只有 html 输出。Notion 有点像我在寻找的东西，但我在寻找可以离线运行的东西。Anytype 很接近但不会导出到 html。    提交人    /u/nox-electrica   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjpj89/can_anyone_recommend_a_wysiwyg_editor_that_uses/</guid>
+      <pubDate>Sat, 04 May 2024 02:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合后端开发的笔记本电脑好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjpfla/good_laptop_for_backend_development/</link>
+      <description><![CDATA[大家好👋，我正在考虑配备 Intel ARC A370M（新插座/翻新）和 Dell inspiron 16 的 Lenovo Slim 7 16IAH i7 12700H 32gb/1tb加上 7630（i7 13700H、32GB/1TB、igpu）。我的预算约为 600-800 美元，我不玩游戏 我的工作使用这些技术：  spring boot、java、hibernate docker、k8s 微服务、kafka postgresql  那么你觉得怎么样？我应该选择它吗（听说联想笔记本电脑很坚固？但我不知道触摸屏耐用不耐用）。如果没有的话，你们能推荐一些好的笔记本电脑吗？ 谢谢。祝你有美好的一天❤️🍀🙏   由   提交 /u/TorryDo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjpfla/good_laptop_for_backend_development/</guid>
+      <pubDate>Sat, 04 May 2024 02:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国的虚拟主机</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjou5k/web_hosting_in_the_usa/</link>
+      <description><![CDATA[您可以推荐哪家提供商？  我想托管普通到中型网站（使用最新的PHP 版本） Worldpress 应该可以作为应用程序安装，只需单击一下 我在其他地方拥有的域应该易于使用，包括电子邮件。  在我的研究过程中，我不知何故感到非常沮丧，因为我发现很多关于所有提供商的负面意见。   由   提交 /u/ThyringerBratwurst   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjou5k/web_hosting_in_the_usa/</guid>
+      <pubDate>Sat, 04 May 2024 01:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对主持很困惑。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjoimb/im_so_confused_by_hosting/</link>
+      <description><![CDATA[我已经在 Web 开发上摆弄了一段时间了，为不同的项目制作了一些静态页面，然后通过 c 面板将它们放到 bluehost 上。我以前从未想过做任何网络应用程序或任何东西，所以我从来不需要数据库或服务器或任何东西。但我想向我的网站添加一个 cms，现在我需要一台服务器来运行 cms 并连接到数据库，我认为了解有关整个服务器/数据库的更多信息会很好。让我困惑的是，人们似乎只谈论像 vercel 这样的东西，感觉它有可能为了一点便利而花费很多钱。但是在 bluehost 上我可以将 Wordpress 添加到我的网站，Wordpress 不需要服务器来处理身份验证等吗？我什至不知道我的问题是什么，但这一切似乎都很难弄清楚从哪里开始。   由   提交/u/cmv99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjoimb/im_so_confused_by_hosting/</guid>
+      <pubDate>Sat, 04 May 2024 01:19:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>不久前为客户建立了一个 django 网站，几年后被要求更新它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjobrb/built_a_django_site_for_a_client_a_while_back_and/</link>
+      <description><![CDATA[我想我大约 5 年前构建了它。用鹡鸰，很简单。我昨晚尝试让它与最新版本一起工作。真的没有时间一次发布一个版本 - 等等。 无论如何，它现在已经很糟糕了。我从来不想维护它，但我现在想维护它，因为我已经脱离了全栈游戏，并且希望保持我的技能新鲜。  有什么建议或建议可以让这个过程不那么痛苦吗？如何让下次我必须做的事情变得更愉快？   由   提交/u/satoshibitchcoin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjobrb/built_a_django_site_for_a_client_a_while_back_and/</guid>
+      <pubDate>Sat, 04 May 2024 01:09:05 GMT</pubDate>
+    </item>
     <item>
       <title>游戏内PDF</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjndvo/game_inside_pdf/</link>
@@ -15,14 +50,14 @@
     <item>
       <title>为植物/园艺爱好者提供的植物管理和跟踪应用程序的巨大更新</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjm35n/huge_update_of_my_plant_management_and_tracking/</link>
-      <description><![CDATA[嘿r/webdev 我的植物应用程序在过去几个月中取得了一些重大进展，因此我想与您分享并希望得到一些反馈。由于它是一个自托管应用程序，因此您需要自己托管它，但有一个可用的演示工作区，因此您可以轻松试用。 功能会随着时间的推移而增长。让我向您介绍一些主要功能：  管理位置上的植物 指定有关植物的各种详细信息、用关键字标记它们、上传照片等。 管理您的任务和库存 用于管理即将到来的日期和约会的日历 天气预报，对于更关注户外植物或园艺的用户非常有用 协作聊天 历史记录功能（“耻辱堂”） 搜索功能 电子邮件提醒 可渐进式使用Web 应用程序 主题系统：让您的用户自定义应用程序的外观 二维码打印，以便为您的花盆贴上标签 可通过 Docker 实现  li&gt; 还有更多！  现场演示链接：https://www.hortusfox .com/demo 您之前可能想查看的应用程序的屏幕截图：https://www.hortusfox.com/demo hortusfox.com/screenshots  HortusFox 是什么？  该应用程序是一款自托管和协作式植物管理应用程序，您可以单独使用，也可以与您的伴侣、朋友、家人等一起使用。它可以帮助您跟踪绿叶朋友和所有相关任务，并创建一个漂亮的植物管理应用程序。你所有植物育儿的日记。  祝植物育儿快乐！   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 r/webdev 我的植物应用程序在过去几个月取得了一些重大进展，所以我想与您分享它并希望获得一些反馈。由于它是一个自托管应用程序，您需要自己托管它，但有一个可用的演示工作区，因此您可以轻松试用它。 功能随着时间的推移而增长。让我给你一些主要功能：  管理位置上的植物 指定有关植物的各种详细信息，用关键字标记它们，上传照片等。 管理您的任务和库存 日历管理即将到来的日期和约会 天气预报，对于更关注户外植物或园艺的用户很有用 协作聊天 历史记录功能（“耻辱堂”） 搜索功能 电子邮件提醒 可用作渐进式 Web 应用程序 主题系统：让您的用户自定义应用程序的外观 QR 码打印以便标记您的花盆 可通过 Docker 使用 还有更多！  现场演示链接：https://www.hortusfox.com/demo 您可能希望先查看的应用程序屏幕截图：https://www.hortusfox.com/screenshots  什么是 HortusFox？ 该应用程序是一个自托管和协作的植物管理应用程序，您可以单独使用，也可以与您的伴侣、朋友、家人等一起使用。它可以帮助您跟踪您的绿叶朋友和所有相关任务，并创建一个漂亮的植物育儿日志。 快乐的植物育儿！    提交人    /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjm35n/huge_update_of_my_plant_management_and_tracking/</guid>
       <pubDate>Fri, 03 May 2024 23:16:50 GMT</pubDate>
     </item>
     <item>
       <title>需要有关沿波浪 SVG 路径循环、无缝文本动画的帮助。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjlv9x/need_help_with_a_looping_seamless_text_animation/</link>
-      <description><![CDATA[类似于这篇文章。我不需要它是动态的。但是她提供的代码对我没有帮助... 这是我想重新创建的网站波浪形的无限大帐篷。我尝试过 GSAP，但也没有任何运气。 这是我的代码，但是我遇到的问题是我无法让它无缝和循环。我觉得我已经很接近了，但我已经碰壁了，请寻求帮助！最终目标是让它自己动画，然后在用户滚动时加速，然后在用户滚动时加速停止滚动，它将再次拾取并自动制作动画。 沿着 codepen 路径滚动文本动画 我做了一些类似于旋转圆的事情，但似乎无法弄清楚如何沿着文本路径传输相同的文本逻辑...... 这是我的 GSAP 代码旋转圆 console.clear(); constrotatingElement = document.querySelector(“#floatingCta”);常量自动旋转速度因子 = 5; // 调整此因子以增加自动旋转速度 letscrollRotationSpeedFactor = 0.1; // 调整此因子以实现基于滚动的旋转速度 let autoRotationInterval;让lastTimestamp = Performance.now();让lastScrollY = window.scrollY;让总旋转=0；让滚动方向=0； // 初始滚动方向（不滚动） const updateRotation = () =&gt; { const now = Performance.now(); const deltaTime = 现在 - 最后时间戳； // 根据时间自动旋转 const autoRotationAmount = (autoRotationSpeedFactor * deltaTime) / 1000;总旋转 += 自动旋转量 * 滚动方向； // 根据滚动方向调整 // 基于滚动的旋转 const deltaY = window.scrollY - lastScrollY; const 滚动速度 = Math.abs(deltaY) / deltaTime; // 计算滚动速度scrollRotationSpeedFactor = 0.1 +scrollSpeed * 0.002; // 动态调整旋转速度 constscrollRotationAmount = deltaY *scrollRotationSpeedFactor;总旋转量+=滚动旋转量； rotatingElement.style.transform = `旋转(${totalRotation}deg)`;最后时间戳=现在；最后的ScrollY = window.scrollY; }; const startAutoRotation = () =&gt;; { autoRotationInterval = setInterval(updateRotation, 16); // 每约 16 毫秒更新一次以获得流畅的动画 (60fps) }; const stopAutoRotation = () =&gt;; { 清除间隔（自动旋转间隔）； };开始自动旋转（）； // 页面加载后立即开始自动旋转 window.addEventListener(&quot;scroll&quot;, () =&gt; { if (!auto​​RotationInterval) { startAutoRotation(); // 如果停止则重新启动自动旋转 } // 更新滚动方向滚动位置scrollDirection = window.scrollY &gt; 1 : window.scrollY &lt; -1 : 0 }); window.addEventListener(“wheel”, (event) =&gt; { constscrollSpeed = Math.abs(event.deltaY) / 100; // 调整 100 以获得所需的灵敏度 constscrollDirection = event.deltaY &gt; 0 ? 1 : event .deltaY &lt; 0 ? -1 : 0; 滚动速度 * 旋转元素.transform = `rotate(${totalRotation}deg)`; // 在页面加载时模拟 1px 滚动 window.scrollBy(0, 1);  这里就是这两种效果都将存在的网站！&lt; /p&gt;   由   提交/u/valvel0city  [链接] [评论]]]></description>
+      <description><![CDATA[类似于这篇文章。我不需要它是动态的。但是她提供的代码对我没有帮助…… 这个是我想重新创建波浪形无限字幕的网站。我试过 GSAP，但也没有成功。 这是我的代码，但我遇到的问题是我无法让它无缝循环。我觉得我已经很接近了，但是我遇到了瓶颈，请帮忙！ 最终目标是让它自己动手，然后在用户滚动时加速，然后当用户停止滚动时，它会重新拾起并再次自动动画。 沿路径滚动文本动画 codepen 我做了类似旋转圆圈的事情，但似乎无法弄清楚如何将相同的逻辑转移到沿文本路径的文本上...... 这是我的旋转圆的 GSAP 代码 console.clear(); const spinningElement = document.querySelector(&quot;#floatingCta&quot;); const autoRotationSpeedFactor = 5; // 调整此因子以增加自动旋转速度 let scrollRotationSpeedFactor = 0.1; // 调整此因子以实现基于滚动的旋转速度 let autoRotationInterval; let lastTimestamp = performance.now(); let lastScrollY = window.scrollY; let totalRotation = 0; let scrollDirection = 0; // 初始滚动方向（无滚动） const updateRotation = () =&gt; { const now = performance.now(); const deltaTime = now - lastTimestamp; // 根据时间自动旋转 const autoRotationAmount = (autoRotationSpeedFactor * deltaTime) / 1000; totalRotation += autoRotationAmount * scrollDirection; // 根据滚动方向进行调整 // 基于滚动的旋转 const deltaY = window.scrollY - lastScrollY; const scrollSpeed = Math.abs(deltaY) / deltaTime; // 计算滚动速度 scrollRotationSpeedFactor = 0.1 + scrollSpeed * 0.002; // 动态调整旋转速度 const scrollRotationAmount = deltaY * scrollRotationSpeedFactor; totalRotation += scrollRotationAmount; spinningElement.style.transform = `rotate(${totalRotation}deg)`; lastTimestamp = now; lastScrollY = window.scrollY; }; const startAutoRotation = () =&gt; { autoRotationInterval = setInterval(updateRotation, 16); // 每 ~16ms 更新一次，以实现流畅的动画（60fps） }; const stopAutoRotation = () =&gt; { clearInterval(autoRotationInterval); }; startAutoRotation(); // 页面加载时立即开始自动旋转 window.addEventListener(&quot;scroll&quot;, () =&gt; { if (!auto​​RotationInterval) { startAutoRotation(); // 如果停止，则重新启动自动旋转 } // 根据滚动位置更新滚动方向 scrollDirection = window.scrollY &gt; lastScrollY ? 1 : window.scrollY &lt; lastScrollY ? -1 : 0; }); window.addEventListener(&quot;wheel&quot;, (event) =&gt; { const scrollSpeed = Math.abs(event.deltaY) / 100; // 调整 100 以获得所需灵敏度 const scrollDirection = event.deltaY &gt; 0 ? 1 : event.deltaY &lt; 0 ? -1 : 0; totalRotation += scrollSpeed * scrollDirection; spinningElement.style.transform = `rotate(${totalRotation}deg)`; }); // 在页面加载时模拟 1px 滚动 window.scrollBy(0, 1);  并且这里是这两个效果都将在网站上实现的网站！    提交人    /u/valvel0city   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjlv9x/need_help_with_a_looping_seamless_text_animation/</guid>
       <pubDate>Fri, 03 May 2024 23:06:23 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[有超过 15 种设计模式，您能给我其中 5 个最常用的设计模式，以便我可以先关注它们吗？  到目前为止我使用 ​ ​  &amp; #32；由   提交 /u/ballbeamboy2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjii4b/there_are_over_15_design_patterns_can_you_give_me/</guid>
       <pubDate>Fri, 03 May 2024 20:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么有些网站使处理暗/亮模式切换的方式变得复杂？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjhzfv/why_some_websites_complicate_the_way_they_handle/</link>
-      <description><![CDATA[我正在编写一个脚本来切换 Twitter 的（现在是 X）深色/浅色主题，因为现在的样子很烦人，实际上需要点击 6 次，在某些网站上，这很容易，更改一个属性/类就可以完成工作，但在 Twitter 上，它是更改样式属性、类以及文档深处的其他一些更改，所以我的问题是为什么不采用下面的方法？ 编辑：我的示例更具体一些，我的观点是为什么不在每个主题的 CSS 文件中使用特定样式并使用类/属性切换来应用它们，而不是执行如下操作： &lt; ;body style=&quot;background-color: rgb(21, 32, 43);滚动条颜色: rgb(92, 110, 126) rgb(30, 39, 50);” &gt;...&lt;/body&gt; :root { --clr-primary-300: &lt;浅色&gt;; --clr-primary-200: &lt;浅色&gt;; --clr-primary-100: &lt;浅色&gt;; /* 其余颜色 */ }; @media（首选颜色方案：深色）{ :root { --clr-primary-300: &lt;深色&gt;; --clr-primary-200: &lt;深色&gt;; --clr-primary-100: &lt;深色&gt;; /* 其余颜色 */ }; };    由   提交 /u/LooslyTyped   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjhzfv/why_some_websites_complicate_the_way_they_handle/</guid>
-      <pubDate>Fri, 03 May 2024 20:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求符合 HIPAA 的电子商务网站的专业知识</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjgz8i/seeking_expertise_for_a_hipaacompliant_ecommerce/</link>
-      <description><![CDATA[你好r/webdev， 我正处于规划一个符合 HIPAA 要求的用于销售医疗设备和服装的网站的初始阶段，这需要安全地处理敏感数据。 我正在寻找有关几个方面的技术指导方面：  用户帐户：网站需要支持两种类型的用户：客户和企业。为这些角色实施安全用户身份验证和数据管理的最佳实践是什么？ 内容管理系统 (CMS)：哪种 CMS 最能促进适合此类业务的安全、可扩展平台？ 内容管理系统 (CMS)：哪种 CMS 最能促进适合此类业务的安全、可扩展平台？ li&gt; 技术堆栈：鉴于需要强大的安全性和合规性，理想的技术堆栈是什么？ 插件和工具：是否有特定的插件或工具对于确保 HIPAA 合规性至关重要，尤其是对于安全交易和运输信息管理等功能？ 处理交易和运输：我应该如何安全处理卡付款并根据 HIPAA 管理运输详细信息？ 招聘潜力：虽然我正在收集见解以更好地了解项目需求，我可能希望聘请经验丰富的开发人员。在开始招聘流程之前我应该​​了解什么？  如果这不是发布此类帖子的正确位置，我对此表示歉意。有人可以指导我到一个更合适的 Reddit 子版块或平台来获取此类建议吗？您可以分享的任何指导或资源都会非常有帮助。谢谢！   由   提交/u/RubeStar7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjgz8i/seeking_expertise_for_a_hipaacompliant_ecommerce/</guid>
-      <pubDate>Fri, 03 May 2024 19:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firebase auth：引入另一个开发人员时如何保护用户隐私</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjgweo/firebase_auth_how_to_protect_user_privacy_when/</link>
-      <description><![CDATA[我可能会引入一名开发人员来帮助我处理我们的后端，该后端在当前状态下使用 Firebase 管理 SDK 来验证是否使用了 API 调用由经过身份验证的用户。我们经过身份验证的端点使用下面的此函数来获取用户信息（如果未经身份验证，则返回错误）。 def get_current_user(token: str = Depends(oauth2_scheme)): try:decoded_token = auth.verify_id_token(token) 返回已解码的令牌，FirebaseError 除外为 e：logging.error(f&quot;get_current_user - Firebase 错误 {e}，返回 401！&quot;) raise HTTPException( status_code=status.HTTP_401_UNAUTHORIZED,detail=&quot;无效的身份验证凭据&quot; , headers={&quot;WWW-Authenticate&quot;: &quot;Bearer&quot;}, ) except Exception as e:logging.error(f&quot;get_current_user - Exception {e}&quot;) raise HTTPException( status_code=status.HTTP_401_UNAUTHORIZED,detail=&quot; ;无效的身份验证凭据”, headers={“WWW-Authenticate”: “Bearer”}, )  如果我使用具有完全访问权限的普通管理服务帐户，甚至只是只读访问权限，开发承包商可以查看用户数据，不是吗？我可以采取哪些措施来保护用户？显然，我可以创建一个完整的其他 Firebase 应用程序只是为了测试，因此它没有私有数据，但这确实增加了一层复杂性。   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjgweo/firebase_auth_how_to_protect_user_privacy_when/</guid>
-      <pubDate>Fri, 03 May 2024 19:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>MVN 测试问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjgtgl/mvn_test_issues/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjgtgl/mvn_test_issues/</guid>
-      <pubDate>Fri, 03 May 2024 19:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>被分配分析师任务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjaebe/being_assigned_analyst_tasks/</link>
-      <description><![CDATA[我作为软件开发人员在不同的公司工作了 7 年，从小型 500 强公司不等。我通常非常坚持完成分配给我的工作，并且可以在整个堆栈中相对舒适地工作。当分配给我一个编程任务时，我能够完成它。我大约一年前开始在这家公司工作，这个地方不一样。  在其他工作中，我的团队通常拥有一个大型项目和较小的支持部分（工作、管理仪表板）。这项工作需要团队在整个生态系统中工作，有很多部分需要跟踪。它也主要是由两个人构建的，他们的脑子里基本上已经有了整个系统。大多数任务都需要通过它们来运行 有几次我被分配的任务看起来几乎不像开发工作。这些票证只是填满了数字和电子表格，并且要求通常是找出为什么数字不相加（该指标的表格报告与雪花不一致），而不是构建功能或修复此错误。老实说，我不知道如何完成这些任务，并且在其他工作中也没有做过类似的事情。这让我担心，因为这些看起来根本不像开发票，而更像分析师的工作，或者甚至理解这个问题需要架构师级别的知识。这很令人沮丧，因为我觉得我被点燃了，相信我应该能够在这个组织中完成这些任务，当这些任务更可行地分配给架构师或数据分析师时，我是否在考虑这个错了？   由   提交/u/alee463  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjaebe/being_assigned_analyst_tasks/</guid>
-      <pubDate>Fri, 03 May 2024 14:42:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
