@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>亚洲新闻 |最新头条新闻 |路透社</title>
+    <title>亚洲新闻 | 最新头条新闻 | 路透社</title>
     <link>https://www.reuters.com/world/asia-pacific/</link>
     <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 09:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 12:22:44 GMT</lastBuildDate>
+    <item>
+      <title>前任命者表示，如果特朗普获胜，台湾将得到特朗普的支持</title>
+      <link>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</link>
+      <description><![CDATA[唐纳德·特朗普任命的一位前美国大使周六表示，他相信这位前总统如果重新入主白宫，将再次支持台湾。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 09:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度尼西亚南苏拉威西省洪水造成14人死亡</title>
+      <link>https://www.reuters.com/business/environment/floods-indonesias-south-sulawesi-kill-14-2024-05-04/</link>
+      <description><![CDATA[南苏拉威西省灾害管理机构周六表示，暴雨引发的洪水和山体滑坡已造成南苏拉威西省 14 人死亡，115 人被疏散。]]></description>
+      <guid>https://www.reuters.com/business/environment/floods-indonesias-south-sulawesi-kill-14-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 03:50:23 GMT</pubDate>
+    </item>
     <item>
       <title>新西兰与德国南极洲合作研究所签署谅解备忘录</title>
       <link>https://www.reuters.com/business/environment/new-zealand-signs-mou-with-german-institute-antarctica-cooperation-2024-05-04/</link>
@@ -20,9 +34,9 @@
       <pubDate>Fri, 03 May 2024 17:47:43 GMT</pubDate>
     </item>
     <item>
-      <title>世卫组织总干事敦促各国在最后期限前敲定流行病协议</title>
+      <title>世卫组织总干事敦促各国在最后期限前敲定大流行协议</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</link>
-      <description><![CDATA[随着本月谈判截止日期的临近，世界卫生组织总干事周五敦促各国同意达成一项协议，以帮助抗击未来的流行病。]]></description>
+      <description><![CDATA[随着谈判截止日期本月临近，世界卫生组织总干事周五敦促各国达成一项协议，以帮助抗击未来的流行病。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:38:21 GMT</pubDate>
     </item>
@@ -43,12 +57,12 @@
     <item>
       <title>Ruang火山喷发后印尼将永久重新安置10,000人</title>
       <link>https://www.reuters.com/world/asia-pacific/indonesia-permanently-relocate-10000-people-after-ruang-volcano-eruptions-2024-05-03/</link>
-      <description><![CDATA[印尼一位部长周五表示，鲁昂火山连续爆发引发人们对未来居住在该岛的危险性的担忧，印尼政府将永久安置近 10,000 名居民。]]></description>
+      <description><![CDATA[一位部长周五表示，由于鲁昂火山的一系列爆炸性喷发引发了人们对未来居住在岛上的危险的担忧，印度尼西亚政府将永久重新安置近 10,000 名居民。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/indonesia-permanently-relocate-10000-people-after-ruang-volcano-eruptions-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:43:24 GMT</pubDate>
     </item>
     <item>
-      <title>美国财政部高级官员将前往新加坡和马来西亚讨论制裁问题</title>
+      <title>美国财政部高级官员将前往新加坡、马来西亚讨论制裁问题</title>
       <link>https://www.reuters.com/world/us/top-us-treasury-official-travel-singapore-malaysia-discuss-sanctions-2024-05-03/</link>
       <description><![CDATA[一位知情人士告诉路透社，美国财政部最高制裁官员将于下周前往新加坡和马来西亚，华盛顿寻求打击为伊朗及其代理人组织提供资金以及逃避对俄罗斯制裁的行为。]]></description>
       <guid>https://www.reuters.com/world/us/top-us-treasury-official-travel-singapore-malaysia-discuss-sanctions-2024-05-03/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[德国公司 HyImpulse 于周五成功发射了一枚蜡烛动力火箭，该火箭首次能够携带商业卫星进行亚轨道飞行测试进入太空。]]></description>
       <guid>https://www.reuters.com/science/german-company-launches-candle-wax-powered-rocket-test-flight-into-space-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港3月零售额下跌7%，结束15个月的增长</title>
-      <link>https://www.reuters.com/markets/asia/hong-kong-march-retail-sales-down-7-snapping-15-months-growth-2024-05-03/</link>
-      <description><![CDATA[政府周五公布的数据显示，香港 3 月份零售额同比下降 7%，部分原因是游客支出和复活节假期的比较基数较高。]]></description>
-      <guid>https://www.reuters.com/markets/asia/hong-kong-march-retail-sales-down-7-snapping-15-months-growth-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 09:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国启动历史性月球背面采样任务</title>
-      <link>https://www.reuters.com/science/china-launches-historic-mission-retrieve-samples-far-side-moon-2024-05-03/</link>
-      <description><![CDATA[中国周五发射了一艘无人驾驶飞船，执行了近两个月的任务，从月球背面取回岩石和土壤，这是第一个进行如此雄心勃勃的尝试的国家。]]></description>
-      <guid>https://www.reuters.com/science/china-launches-historic-mission-retrieve-samples-far-side-moon-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 09:40:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
