@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>帖子 IndieHackers</title>
+    <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 04 May 2024 21:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 00:59:07 GMT</lastBuildDate>
     <item>
       <title>如何使用 Gmail 提供客户支持</title>
       <link>https://feed.indiehackers.world/post/9ce3b746c2</link>
@@ -41,7 +41,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Wed, 20 Mar 2024 08:45:13 GMT</pubDate>
     </item>
     <item>
-      <title>如果不能准确估计时间成本，请避免设定截止日期</title>
+      <title>如果您无法准确估计时间成本，请避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/18d7b7f364</link>
       <description><![CDATA[通过采用此方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务所固有的不确定性和变化。它使您能够不断完善自己的方法，进行必要的调整，并保持在正轨上，而不会受到严格截止日期的额外压力。
 总而言之，仅仅依靠任务管理的最后期限并不是一种有效的方法，特别是对于小团队和个体企业家来说。相反，重点是建立审查点来评估进展并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
@@ -124,7 +124,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Fri, 15 Mar 2024 08:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>名称建议：SimpleURL 与 LeanURL、复数与单数</title>
+      <title>名称建议：SimpleURL 与 LeanURL，Plural 与 Singular</title>
       <link>https://feed.indiehackers.world/post/f61dac4642</link>
       <description><![CDATA[在我发帖后：
 https ://www.indiehackers.com/post/looking-for-new-name-suggestions-due-to-conflicting-app-name-with-existing-product-79e6005a14
@@ -163,27 +163,27 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>寻找新的名称建议！由于应用程序名称与现有产品冲突</title>
       <link>https://feed.indiehackers.world/post/79e6005a14</link>
-      <description><![CDATA[正在为我的应用程序寻找新名称
-所以我正在考虑一个新名字，你有什么建议吗？
-我已经尝试过 Chat GPT，它给出了以下建议，但正在寻找一些关于什么名称可以传达以下内容的反馈。
+      <description><![CDATA[为我的应用寻找新名称
+所以我在想一个新名字，你有什么建议吗？
+我已经尝试了 Chat GPT，它给出了以下建议，但正在寻找一些反馈，了解什么名称可以传达以下内容。
 价值主张：
 
-在 Slack 中轻松创建和管理短 URL
-与浏览器扩展程序无缝集成，实现快速访问
-通过简单的网址书签提高工作效率
-在任何浏览器选项卡中简化网址搜索功能
-针对频繁 URL 访问任务的省时解决方案
+在 Slack 中轻松创建和管理短网址
+与浏览器扩展无缝集成以实现快速访问
+通过轻松的 URL 书签提高工作效率
+从任何浏览器选项卡简化 URL 搜索功能
+节省频繁 URL 访问任务的时间解决方案
 
-如果我喜欢您的建议并允许我使用它，我很乐意为我的应用程序提供 3 个月的免费订阅。
-请帮忙提供一下名字🙏 
-ChatGPT 建议：
+如果我喜欢您的名称建议并允许我使用它，我很乐意为我的应用提供 3 个月的免费订阅。
+请帮助提出您的名称建议🙏 
+ChatGPT建议：
 我喜欢的东西：URLGenie、MagicURLs、URLify
-Discord 独立黑客聊天广告这里]]></description>
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/79e6005a14</guid>
       <pubDate>Thu, 14 Mar 2024 18:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>Show IH：撰写客户电子邮件的速度提高 10 倍</title>
+      <title>展示 IH：以 10 倍速度撰写客户电子邮件</title>
       <link>https://feed.indiehackers.world/post/954c07e316</link>
       <description><![CDATA[想象一下，通过 ReplyInbox 简化您的电子邮件工作流程，您将节省时间并避免麻烦。无论您是管理客户咨询的个体企业家还是处理投资者沟通的初创公司创始人，ReplyInbox 都是您的终极电子邮件生产力伴侣。
 现在，你该进来了。我全身心投入到 ReplyInbox 的开发中，但我知道总有改进的空间。这就是为什么我向令人惊叹的 IndieHackers 社区寻求反馈。

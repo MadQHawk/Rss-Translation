@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 04 May 2024 21:12:27 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 05 May 2024 00:58:38 GMT</lastBuildDate>
+    <item>
+      <title>如何停止通知重复？ [laravel、jquery] 代码审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckf5ku/how_to_stop_notification_duplication_laravel/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckf5ku/how_to_stop_notification_duplication_laravel/</guid>
+      <pubDate>Sun, 05 May 2024 00:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>独立开发者，您的顶级客户每月向您支付多少费用以及这些费用涵盖哪些内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckeq0w/independent_devs_how_much_do_your_top_clients_pay/</link>
+      <description><![CDATA[我终于为自己工作找到了一点动力，我希望能够从客户那里产生一些经常性收入，而不仅仅是一个网站的一次性付款。  最容易实现的目标是托管，但考虑到托管非常便宜，我觉得我不能为此收取太多费用，尤其是对于静态网站。  有网站管理，以防客户想要更新他们的网站，但更愿意有人为他们进行这些更新，但我不太确定如何定价。它还取决于客户是否对其网站进行了大量或很少的更改。 我正在考虑设置和跟踪分析并提供更易于客户理解的月度报告。也在寻找改进 SEO 的机会，但我在 SEO 方面的技能有点有限，我觉得无论如何，如果我进入 SEO，我需要小心。原因是我可能无法在同一类型的业务中接待多个客户，因为这可能会产生冲突，从而实际上限制我的收入潜力。 您是否也获得付费聘用人员来自您的一些客户？你如何谈判这些？  只是想找到让我的收入更加稳定和可预测的方法。   由   提交 /u/vangenta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckeq0w/independent_devs_how_much_do_your_top_clients_pay/</guid>
+      <pubDate>Sun, 05 May 2024 00:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 和 pwa。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckekmj/ios_and_pwa/</link>
+      <description><![CDATA[在我的公司，我们正在考虑制作一个 pwa，而不是 Android + iOS 应用程序。这样我们只需要维护一个客户端，就可以更快地推送更新。 在 iOS 上，您无法请求用户安装 PWA 应用程序，而是我们需要提供有关如何执行此操作的说明。  现在这可能不是最好的用户体验，但我们的客户不是随机访问者，因此他们可能更愿意忽略这一点。 我们的主要目标是拥有适用于 iOS 和 Android 的应用程序，同时共享尽可能多的代码并向我们的客户发送推送通知。离线功能不是必需的 现在我想知道 pwa 是否真的是正确的选择，是否有人愿意分享他们最近在 iOS 上使用 pwa 的经验。   由   提交 /u/Stable_Orange_Genius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckekmj/ios_and_pwa/</guid>
+      <pubDate>Sun, 05 May 2024 00:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Django 和 Headless CMS 之间进行网站开发的选择：寻求建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cke2nh/choosing_between_django_and_headless_cms_for/</link>
+      <description><![CDATA[嘿r/webdev， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cke2nh/choosing_between_django_and_headless_cms_for/</guid>
+      <pubDate>Sat, 04 May 2024 23:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday]我做了一个升级npm依赖的AI代理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckduzo/showoff_saturday_i_made_an_ai_agent_that_upgrades/</link>
+      <description><![CDATA[    /u/Fluffy-Bar-8923   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckduzo/showoff_saturday_i_made_an_ai_agent_that_upgrades/</guid>
+      <pubDate>Sat, 04 May 2024 23:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于构建约会调度程序的良好资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckdefv/good_resources_on_building_an_appointments/</link>
+      <description><![CDATA[大家好 我想将约会安排构建到我正在开发的应用程序中（带有水疗前端的 API 后端） ，但这不是我以前做过的事情。 有人知道如何从头开始构建类似的东西吗？只要能够很好地描述和解​​释解决方案，任何语言都可以。 我正在寻找涵盖前端的东西（如下所示：https://dribbble.com/shots/23987731-Calendar-UI）以及必要的后端。 例如，我很难找到解决方案关于如何在日历日列中的正确位置绘制约会框！ 任何资源或指针将不胜感激。   由   提交/u/Ciwan1859  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckdefv/good_resources_on_building_an_appointments/</guid>
+      <pubDate>Sat, 04 May 2024 23:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要网络开发指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckcl54/need_guide_for_web_development/</link>
+      <description><![CDATA[我想建立一个网站，我还想在数据库上上传大量图像和相同数量的元组。  如果这些类型的数据不会经常插入到服务器，建立网站的最佳方法是什么或哪种托管服务是最佳选择？ 我知道如何设置为网站建立数据库，但以前从未处理过设置新的文件系统。  我之前的工作使用了 AWS 的 s3，但他们设置它时我不在场。 你们能指导我在哪里查看吗？我想要的是设置带有数据库和文件存储的集成网络服务器，但我什至不知道从哪里开始。  感谢您花时间阅读我的问题！   由   提交/u/jucicool_7829   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckcl54/need_guide_for_web_development/</guid>
+      <pubDate>Sat, 04 May 2024 22:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以将第二个 github 存储库设置为我的主 Github 页面站点中的子页面？即 MainSite.github.io/repoB，其中 repoB 的内容反映在主站点上</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckccb1/is_it_possible_to_set_a_second_github_repo_as_a/</link>
+      <description><![CDATA[正如标题所说，我想在我的主站点上托管第二个存储库，主要是为了模块化，因为子页面 B 的内容相当大现在，我想要一个单独的 gh 存储库，而不需要取消它与页面站点的链接。   由   提交 /u/GutiV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckccb1/is_it_possible_to_set_a_second_github_repo_as_a/</guid>
+      <pubDate>Sat, 04 May 2024 22:30:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 如何从这笔交易中赚取 10 亿美元</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckb32m/how_figma_made_1_billion_from_this_deal/</link>
+      <description><![CDATA[你好，伊德里斯在这里！本周我想分享我们可以从 Figma 学到的产品课程的总结版本 [您可以在此处找到完整的案例研究](https://open.substack.com/pub/indieniche/p/ 200 亿-figma-acqusition-fallout?r=3q3p07&amp;utm\_campaign=post&amp;utm\_medium=web) Figma 由 Dylan 构思，作为协作云脱颖而出 -基于 Web 应用程序，专为设计用户界面而定制。当它于 2022 年 9 月宣布以 200 亿美元与 Adob​​e 合并时，引起了轰动。然而，这种联盟是短暂的，仅持续了 15 个月，因为欧盟和英国的监管问题促使其放弃。  以下是一些可以增强您的产品开发之旅的关键要点... 软件正在吞噬世界 您没听错：软件正在真正改变我们的世界。我第一次从 YC 的 Gary Tan 那里了解到这个概念，它仍然让我感到惊讶。见证一家小型初创公司及其工具在 5-6 年前从头开始创建，超越了 InVision 和 Sketch 等老牌领导者，甚至挑战了 Adob​​e 等行业巨头，这是了不起的。 收入非常重要。  在文章中，Dylan 透露 Figma 已经积累了惊人的 6 亿美元收入，此外还因与 Adob​​e 的冲突而额外获得了 10 亿美元的意外之财——这确实是一个惊人的数字！ 😮。 Figma的计费策略最近变得相当激烈；即使是免费计划的用户也会发现自己被迫升级。最初，他们采取了提供低价的策略，以吸引大量用户并收集反馈。 从小定价开始是可以的 从一开始，定价就是关键Figma 的独特之处，使其与竞争工具区分开来，并建立了信任的基础。他们的负担能力从一开始就与社区建立了牢固的联系，并巩固了他们的声誉。通过提供平易近人的价格，Figma 有效降低了有抱负的设计师和新手设计师的进入门槛。 创新并征服 Figma 与众不同的一个突出功能是可直接访问的云协作功能从浏览器。这意味着您可以从世界任何地方访问Figma，而无需依赖您的个人笔记本电脑，这对我来说是一个游戏规则改变者。与 Adob​​e、Sketch 和 InVision 不同的是，他们在相当长的一段时间内都在努力实现这一目标。这种能力是一个关键的差异化因素，强调了在构建产品时识别和利用独特优势的重要性。 一路并购交易 凭借大量的资金储备， Figma 一直在战略性地收购产品以增强其工作流程和流程，旨在完成从获得支持到运输和测量的软件开发价值链。他们在收购了由 Jordan Singer 创立的一家小公司 Diagram 后开始将人工智能应用到他们的产品中，该公司利用 GPT-3 以最少的输入生成设计理念。 沟通始终是关键 您需要始终与您的团队沟通，让他们始终了解正在发生的事情，Dylan Field 优先考虑与 Figma 员工、利益相关者和设计社区保持透明度。通过保持开放和诚实的沟通渠道，Figma 培养了信任和团结，巩固了其在市场中的地位。 从挫折中学习 Field 将失败的余波销售视为宝贵的财富。学习经验。他强调了面对逆境时保持韧性的重要性，以及将失败视为增长催化剂的必要性。通过分析挫折背后的原因并从他们的错误中吸取教训，他将其描述为在任何时间点始终保持脚踏实地。 产品课程的深入版本已[发布在此处]( https://open.substack.com/pub/indieniche/p/20-billion-figma-acqusition-fallout?r=3q3p07&amp;utm\_campaign=post&amp;utm\_medium=web) 我还尝试介绍独立技巧和令人兴奋的[产品内容](https://indieniche.substack.com/)&lt; /p&gt; 期待您的回复   由   提交 /u/sky-builder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckb32m/how_figma_made_1_billion_from_this_deal/</guid>
+      <pubDate>Sat, 04 May 2024 21:32:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站或客户网站是否曾被恶意软件攻击过？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckapgd/ever_had_a_website_or_clients_website_hacked_with/</link>
+      <description><![CDATA[我打赌你可能和我们很多人一样。但是，我今天学到了一些新东西，仅仅因为您删除了恶意软件，从谷歌中清除了它，并且该网站已经运行良好很长时间并且没有重复的黑客攻击，但这并不意味着问题已经消失。有相当多的公司会将网站 URL 永久记录到其恶意软件数据库中，您需要提交正式请求，以从每个公司的数据库中取出 URL。找到提交这些请求的地点和方式并不容易。  幸运的是，我发现了这个链接来提供帮助（它不是 100% 准确，但足够接近）：https://tickets.onehoursitefix.com/kb/faq.php?id=163 认为这会帮助那些可能正在处理误报并想知道在哪里的人它们来自何处，以及当网站长时间完美运行时如何摆脱它们。    由   提交/u/Hot-Tip-364  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckapgd/ever_had_a_website_or_clients_website_hacked_with/</guid>
+      <pubDate>Sat, 04 May 2024 21:14:27 GMT</pubDate>
+    </item>
     <item>
       <title>烘烤我的第一个网络项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckaavv/roast_my_first_web_project/</link>
@@ -15,7 +85,7 @@
     <item>
       <title>周六炫耀 - 上周刚刚为一位受欢迎的皮肤科医生推出了这款产品。另一个非常独特的设计仅使用 html 和 css 以及 11ty 静态 Kaye 生成器构建。页面速度得分为 100。玩得很开心！</title>
       <link>https://www.reddit.com/r/webdev/comments/1ck9ce7/showoff_saturday_just_launched_this_one_this_past/</link>
-      <description><![CDATA[这是网站 https://balancedskin.com  这是为 Instagram 和 TikTok 上受欢迎的皮肤科医生 Tia Paul 医生设计的。他们寻求一种新的设计，因为他们当前的设计速度很慢，甚至没有为他们的名字排名，而且他们想要的设计并不是他们得到的设计。在这个问题上有很多事情需要解决和解决，经过一些来回的编辑和会议，我们终于让他们到达了他们想要的位置。我对这个设计和所做的工作非常满意，所以我想分享！    由   提交 /u/Citrous_Oyster   [链接] [评论]]]></description>
+      <description><![CDATA[这是网站  https://balancedskin.com 这是 Instagram 和 TikTok 上很受欢迎的皮肤科医生 Tia Paul 博士的作品。他们寻求一种新的设计，因为他们当前的设计很慢，甚至没有根据他们的名字进行排名，而且他们想要的设计也不是他们得到的设计。在这一点上有很多需要修复和处理的地方，经过反复的编辑和会议，我们终于让他们达到了他们想要的效果。我真的很喜欢这个设计和投入其中的工作，所以我想分享一下！    提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ck9ce7/showoff_saturday_just_launched_this_one_this_past/</guid>
       <pubDate>Sat, 04 May 2024 20:12:58 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[我知道这有点模糊，所以我希望可以在这里问这个问题。我的主要收入是网络开发人员，同时也从事网络开发工作。我于 2021 年毕业，获得了计算机科学学士学位，从那时起我就一直在工作，但我仍然觉得我的信心取决于我的上一个项目。如果我低估了某件事的长度，或者高估了我对某项特定技术的理解，或者我只是一般地在某件事上挣扎，我就会患上严重的冒名顶替综合症并僵住，这会让事情变得更糟。当我做得很好时，我感觉很棒！充满信心，充满动力，渴望继续前进！它很容易突破高点并陷入低点。就像我需要再次证明自己，我知道自己在做什么。一般来说，我倾向于沉迷于做“正确”的事情，怀疑自己是否听到文件架构要求/最佳实践之类的事情，或者担心忽略一些重要的事情，因为我对这一切仍然感觉很新。如果有人为此苦苦挣扎并提出一些建议，我将非常感激。    由   提交 /u/mellow_cellow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ck8a3c/how_do_you_combat_selfdoubt_when_things_arent/</guid>
       <pubDate>Sat, 04 May 2024 19:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js、Supabase 缓存助手和 SWR：Mutate 会重新验证所有分页页面数据，而不是当前页面数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck89y2/nextjs_supabase_cache_helpers_swr_mutate/</link>
-      <description><![CDATA[大家好 我正在将 Supabase 缓存助手与 Next.js 和 Supabase 一起使用。这是使用分页处理缓存数据的代码： const { currentPage, setPage, mutate, pageIndex, isValidating, error } = useInfiniteOffsetPaginationQuery(businessesQuery, { pageSize: ITEMS_PER_PAGE, }) ;  我总共有 7 个分页页面。问题是，当我点击某个分页页面上的某个按钮时，比如说第5页，它不是获取该页面上的数据并将其保存在缓存中，而是获取第1页到第5页的数据。第 1 至 5 页中的数据被缓存，因此每次我在第 1 至 5 页之间导航时，数据都来自缓存。但是，我只想让系统获取当前所选分页页面的数据。我想知道这是否可能以及如何实现？ 这是设置分页页面的代码： const handlePaginationChange = (page) =&gt;; { const noStatus = selectedOption === `no_status`; const 索引 = 页 - 1；无状态 ？ setCurrentNoWebsitePage(index) : setCurrentAllPage(index); setPage(index) window.scrollTo(0, 0); }    由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck89y2/nextjs_supabase_cache_helpers_swr_mutate/</guid>
-      <pubDate>Sat, 04 May 2024 19:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音合成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck6yrb/speech_synthesis/</link>
-      <description><![CDATA[你好。我创建了一个关于如何使用 Javascript 语音合成的迷你教程。让我知道您的想法：https://youtu.be/RFpEhGmJZSI 它非常简单，但与语音识别相结合https://youtu.be/PW_9xBSrqFI 它可用于构建一个可以接受语音输入并回复的聊天机器人答案：https://youtu.be/12v9mtnIFGU让我知道你的想法。 &lt; p&gt;​   由   提交/u/cagdas_ucar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck6yrb/speech_synthesis/</guid>
-      <pubDate>Sat, 04 May 2024 18:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024年做没有框架的网站是浪费时间吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck6ifh/is_making_websites_without_a_framework_in_2024_a/</link>
-      <description><![CDATA[我大约 2 年前进入 webdev，一开始只学习了 HTML 和 Javascript。当我第一次需要数据库和后端时，我的父亲（自学成才的业余程序员）为我提供了 PHP 和 MySQL。从那时起，我制作的每个网站都是用纯 Javascript、HTML、CSS 和 PHP 构建的，没有任何框架。 在这里阅读了很多有关框架的内容后，我现在想知道，我是否在浪费时间编程效率很低？您认为没有框架的编码仍然有效吗？如果我需要一个框架，我应该从哪里开始？ 提前致谢。   由   提交 /u/redditjannis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck6ifh/is_making_websites_without_a_framework_in_2024_a/</guid>
-      <pubDate>Sat, 04 May 2024 18:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>你会如何处理这个案子</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck6gf4/how_would_you_handle_this_case/</link>
-      <description><![CDATA[      正在为一所医学大学开发一个网络应用程序，为学生方和管理人员管理整个论文过程。有时，学生需要“预约”一个日期来答辩他的论文。所以我制作了一个日历，当选择日期时，模态会显示。 模态包含：参见图像。 所以我在这里做的是选择时间时（ heure de sooutenance ）和进行论文的房间（ Amphi ）。当这些下拉菜单被正确选择时。出现陪审团部分。当用户输入时，将显示教授列表，然后用户为每个角色选择每个陪审团。最重要的要求是“”显示“教授不得发表另一篇论文（同一天和同一时间）。所以这是后台发生的事情，当用户开始在输入中输入教授姓名（%john%）时，将触发一个 jQuery 事件并返回教授以及所有具有姓名（john）且可在选定的日期和时间。我很快就注意到这有多糟糕，因为每次按键都会向数据库调用太多请求。我的想法如下，我想听听您的想法/改进/或者更好的建议。日期和时间的那一刻选择时间后，在后台发送查询以获取所有不在任何论文中的教授将其返回到前端，然后按键在返回的列表中进行搜索。这样就只执行一个请求。也迫不及待地想听听您的想法，我希望我的案例得到很好的解释。 使用的技术堆栈是：mysql &amp;拉拉维尔。并使用 jquery 完成 ajax 调用。   由   提交/u/reda1109  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck6gf4/how_would_you_handle_this_case/</guid>
-      <pubDate>Sat, 04 May 2024 18:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>烘烤我的 saas 想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck6a79/roast_my_saas_idea/</link>
-      <description><![CDATA[我的想法是让独立黑客更容易获取和组织有关其应用程序的反馈。这将是一个小脚本标签，人们可以将其放在他们的网站上，显示反馈按钮。单击它会打开一个反馈模式。 应用程序创建者可以在我的网站上看到反馈、用户上传的图像、用户提供反馈表的设备等。客户还可以收到电子邮件通知和其他集成，例如 notion、slack 等。 我知道以前已经这样做过，但所有解决方案的每月订阅费用都非常昂贵。我的想法是一次性支付约 10 美元即可终身使用该小部件。  这值得建设吗？  我知道这会让我自己的项目变得更容易一些。还有其他独立黑客对此感兴趣吗？  我还可以添加哪些其他功能来使其与其他类似产品区分开来？   由   提交 /u/DrSteelfist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck6a79/roast_my_saas_idea/</guid>
-      <pubDate>Sat, 04 May 2024 17:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络开发人员、自由职业者和代理机构失败的比例是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck648r/what_percentage_of_web_dev_freelancers_and/</link>
-      <description><![CDATA[对于 2023 年开始代理或自由职业的网络开发者，您认为失败率是多少（前 3 年）？  我觉得这个比率一定是天文数字。大约90%。很想听听你们的观点和故事。   由   提交 /u/Gandalf-and-Frodo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck648r/what_percentage_of_web_dev_freelancers_and/</guid>
-      <pubDate>Sat, 04 May 2024 17:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于我更新的投资组合的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck4zjr/thoughts_on_my_updated_portfolio/</link>
-      <description><![CDATA[大家好，我最近更新了我的作品集，希望得到一些关于内容、设计和功能的意见。  https://www.ralabbe.com/ 它是使用 Next.js 构建的，完全由我设计.   由   提交/u/Ralabbe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck4zjr/thoughts_on_my_updated_portfolio/</guid>
-      <pubDate>Sat, 04 May 2024 17:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CSS 网格打印音乐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck3uz3/printing_music_with_css_grid/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck3uz3/printing_music_with_css_grid/</guid>
-      <pubDate>Sat, 04 May 2024 16:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能用英语解释一下这项服务是什么吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck3ttf/can_someone_explain_what_this_service_is_in/</link>
-      <description><![CDATA[      https://preview.redd.it/ba5h6bvbofyc1.png?width=505&amp;format=png&amp;auto=webp&amp;s=125bccad2678be90314 7032b837cba48b6c78f97 您好！我已经成为我企业的唯一所有者，我们每个月发出的账单之一就是上面的内容，而我根本不知道它到底是什么。 我有一个 @ mydomain.com 已经通过 Google 设置了 Google 地址，但我不知道这是否是我所需要的。有人能解释一下它是什么吗？   由   提交 /u/don3dm   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck3ttf/can_someone_explain_what_this_service_is_in/</guid>
-      <pubDate>Sat, 04 May 2024 16:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助创建一个 JS 脚本，使文档灰度化（图像除外）。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck3ode/help_needed_to_create_a_js_script_that_makes/</link>
-      <description><![CDATA[我正在构建一个 Chrome 扩展程序，它允许您将任何网站设为灰度，但希望保留图像的颜色。 这并不像将所有非图像元素设为灰度那么简单，因为如果 嵌套在一个元素上它将获得灰度。我考虑过直接修改颜色的样式，但认为这可能会变得很混乱。  如果有人有建议我想在这里！这应该适用于像 reddit、fb、instagram 等只有很少 html 的简单网站。    由   提交 /u/Fapplet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck3ode/help_needed_to_create_a_js_script_that_makes/</guid>
-      <pubDate>Sat, 04 May 2024 16:02:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

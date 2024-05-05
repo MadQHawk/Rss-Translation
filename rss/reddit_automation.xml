@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 04 May 2024 21:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 00:57:33 GMT</lastBuildDate>
+    <item>
+      <title>阿尔泰克斯</title>
+      <link>https://www.reddit.com/r/automation/comments/1ckcm91/alteryx/</link>
+      <description><![CDATA[从哪里学习alteryx和UI。    由   提交 /u/Few-Translator-1376   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ckcm91/alteryx/</guid>
+      <pubDate>Sat, 04 May 2024 22:42:58 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 10Gbps 工业以太网应用的 M12 X 编码 8 针公头和母头连接器</title>
       <link>https://www.reddit.com/r/automation/comments/1ck2863/m12_xcoded_8_pin_male_and_female_connectors_for/</link>
@@ -41,9 +48,9 @@
       <pubDate>Thu, 02 May 2024 09:48:08 GMT</pubDate>
     </item>
     <item>
-      <title>伦敦交通局的这项 AI 实验揭示了如何在不建造任何新设施的情况下增加地铁站的容量</title>
+      <title>这个伦敦交通局人工智能实验揭示了如何在不建造任何新东西的情况下增加地铁站的容量</title>
       <link>https://www.reddit.com/r/automation/comments/1chy8lv/this_tfl_ai_experiment_reveals_how_tube_station/</link>
-      <description><![CDATA[   /u/Psythor  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由    /u/Psythor  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1chy8lv/this_tfl_ai_experiment_reveals_how_tube_station/</guid>
       <pubDate>Wed, 01 May 2024 21:45:51 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 14:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>基于Google Sheet输入的自动化填表</title>
+      <title>基于 Google Sheet 输入的自动填写表格</title>
       <link>https://www.reddit.com/r/automation/comments/1chgdft/automation_filling_form_based_on_google_sheet/</link>
       <description><![CDATA[我想知道是否可以： 1. 基于 Google Sheet 自动填写表单。例如，表格 1 需要填写 Google 表格 A 至 C 列中的姓名、年龄、地址等基本详细信息。然后我需要它自动移动到表格 2，以填写 Google 表格 D 至 F 列中的详细信息。  从表单中向下滚动选择一个选项  我可以知道如何实现这一点吗？ 谢谢 &lt; /div&gt;  由   提交 /u/PertinentOverthinker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1chgdft/automation_filling_form_based_on_google_sheet/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>已付费，需要帮助向负载较重的服务器发送请求</title>
       <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
-      <description><![CDATA[嘿，我需要有以高速率向服务器发送请求的经验的人，我有一个端点由于负载而变慢，我会希望有人帮助我优化流程，以便我可以在加载期间以最快的速度发送请求并获得响应。   由   提交 /u/FlumeTennisCourt   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我需要一个有向服务器高速发送请求经验的人，我有一个端点由于负载而变慢，我希望有人帮助我优化流程，以便我可以在加载时间内以最快的时间发送请求并获得响应。    提交人    /u/FlumeTennisCourt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
       <pubDate>Tue, 30 Apr 2024 15:11:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好， 我住在欧盟。  所以，长话短说 - 当我需要我的全科医生时，她永远不会出现（30 天内）。她有 10,000 名患者，这很荒谬，因为我每个月都要支付相当一部分的医疗费用。 上周，我的背部出现了严重的问题，好几天都不想消失。但在我去看全科医生之前，我不能（免费）去看任何专科医生。我不能去急诊室，那里的人快要死了，并告诉他们我的背痛。  所以我想出了一个计划，在今年剩下的时间里每天都预约，每天早上不需要的时候取消。我希望有人注意到，因为这将是我对这个破碎系统的小小的抗议。  无论如何，我无法取消它，因为他们的预订系统不可用，而且我无法录制鼠标宏，因为月份和日期不同，我必须点击不同的区域每次。所以我正在寻找如何实现这一目标的想法。  P.S.我在自动化方面的经验几乎为0。   由   提交/u/Dragonoidl337   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</guid>
       <pubDate>Mon, 29 Apr 2024 17:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paperlib：开源人工智能研究论文管理工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</link>
-      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:14:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
