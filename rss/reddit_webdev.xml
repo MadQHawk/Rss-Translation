@@ -4,18 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 May 2024 03:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:17:32 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 隧道是 Ngrok 更便宜的替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckkosb/cloudflare_tunnels_as_a_much_cheaper_alternative/</link>
+      <description><![CDATA[最近我偶然发现了一个问题，即在移动浏览器上进行本地开发时必须通过 https 来路由 localhost http 路由。  使用免费版本的 ngrok 可以轻松实现这一点，但是 ngrok 会通过随机 URL 路由您的请求，如果您希望应用程序运行，这将迫使您手动编辑配置字符串正确。 您可以通过更新订阅以创建固定域来解决此问题，但最低层只允许您拥有一个没有子域的域，因此您只能通过该隧道路由一个地址。如果您需要更多，则必须更新到更昂贵的级别。对于我的用例，我的套餐最终费用为每月 48 美元，这对于这样一个小众服务来说是荒谬的。 经过一番谷歌搜索后，我了解到 Cloudflare 以低得多的价格提供类似的服务。事实上，它是免费的！ 您唯一需要支付的是自定义域，这将花费几美元的年费。 您可以在《零信任》网络”仪表板部分并使用任意数量的子域。如果您需要与某人协作，您甚至可以创建多个隧道，这样就不会使用同一个隧道。所有这些都包含在免费套餐中。 只是将这个分享给任何正在寻找 Ngrok 更便宜替代品的人。   由   提交 /u/inglandation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckkosb/cloudflare_tunnels_as_a_much_cheaper_alternative/</guid>
+      <pubDate>Sun, 05 May 2024 06:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>无头内容管理系统</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckjua7/headless_cms/</link>
+      <description><![CDATA[过去几天我一直在使用 Astro。我很喜欢它。 我打算开一个博客。我原本想使用 Astro + Headless CMS。我发现了 contentful cms。他们负责 CMS 的托管。我发现当博客发展壮大时，它变得非常昂贵。 然后我想使用自托管 CMS。我发现了 Directus 和 Decap CMS。它们看起来很有前途。这些 CMS 可以托管在 Vercel 和 Cloudflare Pages 的免费托管计划上吗？我知道我可以使用 Digital Ocean Droplets，但由于我目前的失业状态，我不想每年支付 60 美元。 我的计划 - Astro 用于前端 Decap CMS（免费？？？） Cloudflare Pages（免费）用于托管 有没有办法免费托管图像和评论？   由    /u/dbhalla4  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckjua7/headless_cms/</guid>
+      <pubDate>Sun, 05 May 2024 05:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的个人网站上有哪些很酷的小复活节彩蛋/秘密/花招？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckjdz1/what_cool_little_easter_eggs_secrets_gimmicks_do/</link>
+      <description><![CDATA[标题！！我很好奇其他人的网站上有什么很酷的噱头和复活节彩蛋。我先开始：我有一艘小型的企业号航空母舰跟随我的光标！   由   提交 /u/Acornless   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckjdz1/what_cool_little_easter_eggs_secrets_gimmicks_do/</guid>
+      <pubDate>Sun, 05 May 2024 04:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些网站中使用的静态网页生成器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckib3n/static_web_page_generator_used_in_these_website/</link>
+      <description><![CDATA[亲爱的 webdev，我正在尝试构建类似这样的东西： https://gtfobins.github.io/ https://filesec.io/ https://lolbas-project.github.io/ 我之前使用 jekyll+github 页面为随机项目构建了静态网页，但我对 webdev 的经验非常有限。所以我试图找到用于生成这些网页的东西。 我记得类似的网站在页脚上放了他们使用的静态网页生成器的链接，但现在似乎找不到它了。我一直在尝试寻找类似的网站并使用 wapalyzer 检查他们的页脚（我怀疑它是否适用于 github 页面）。 有人知道这些网站是用什么构建的吗？ 谢谢。    提交人    /u/amberleafsucks   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckib3n/static_web_page_generator_used_in_these_website/</guid>
+      <pubDate>Sun, 05 May 2024 03:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的投资组合网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cki0el/roast_my_portfolio_website/</link>
+      <description><![CDATA[https://josephsalazar.dev/ 所以几天前，我分享了我的作品集的链接，并收到了很多有用的反馈，我已尽力将您的每条建议（我认为对我有意义的建议）落实到此重新设计中. 以下是我收到并实际实施的一些建议：  使各个部分之间以及每个部分内的项目之间的间距保持一致 有旧网站的某些部分存在大量负空间 删除了未执行任何操作的元素的所有交互 将深色模式更改为浅色模式 为其中的每个作品集添加了一些内容 删除了每个项目缩略图上的模糊效果 修复了损坏的链接  这是在 AOS、GSAP、Swiper.js、jQuery 和 getform 等库的帮助下，用纯 HTML、CSS 和 JS 制作。 请再次听到您的反馈。 &gt; 感谢那些喜欢旧设计的人以及给我所有这些建议的人。   由   提交 /u/Kelerya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cki0el/roast_my_portfolio_website/</guid>
+      <pubDate>Sun, 05 May 2024 03:24:26 GMT</pubDate>
+    </item>
     <item>
       <title>这里是新手 - 尝试制作一个 chrome 扩展。 GPT 说它应该有效，但事实并非如此。有人可以帮我审核/排除代码问题吗？帮帮兄弟吧！</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckgvm0/total_newb_here_trying_to_make_a_chrome_extension/</link>
-      <description><![CDATA[此扩展的目标是监视特定网站/chrome 选项卡的像素变化，然后触发声音警报。例如，如果 Chrome 选项卡的标题后有任何修改，它会给我一个提示。我已经为此工作了大约 10 个小时，但没有成功。我的图标固定在扩展工具栏上，并显示正在主动监控，但它只是没有执行任何操作。  如果您能提供帮助，我们将不胜感激。我们如何将代码交给您进行审查？  谢谢！   由   提交/u/turtleheadpokingout  [链接] [评论]]]></description>
+      <description><![CDATA[此扩展的目标是监视特定网站/chrome 选项卡的像素变化，然后触发声音警报。例如，如果 Chrome 选项卡的标题后有任何修改，它会给我一个提示。我已经为此工作了大约 10 个小时，但没有成功。我的图标固定在扩展工具栏上，并显示正在主动监控，但它只是没有执行任何操作。  如果您能提供帮助，我们将不胜感激。我们如何将代码交给您进行审查？  谢谢！   由   提交 /u/turtleheadpokingout   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckgvm0/total_newb_here_trying_to_make_a_chrome_extension/</guid>
       <pubDate>Sun, 05 May 2024 02:19:15 GMT</pubDate>
     </item>
     <item>
       <title>最适合用户数据库？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckggme/best_for_user_db/</link>
-      <description><![CDATA[我想构建一个以 python 代码作为后端的 Web 应用程序。通常我所做的就是拥有一个带有 IP 的 aws 实例，并使用它来实现完全的灵活性（并且我在其中使用 nginx 来实现后端和前端代码），并将域连接到 cloudflare 以实现一定的安全性。但是，现在我有一个特殊的功能，我需要一个用户数据库（身份验证、验证码、用户数据库逻辑）。我听说最好的是 supabase 或 firebase - 他们已经内置了用户逻辑的东西，但根据我的理解，这是后端即服务，我将无法同时使用它和我的 python 后端。还是我错了？ 我还没有构建这个网络应用程序，我过去确实构建了一个网站，但那个网站更容易，因为我不需要用户数据库（所以我做了 html/css /js 作为前端，加上 python 作为后端，在 aws Ubuntu 实例上使用 nginx 并添加了 cloudflare 链接）。  谢谢大家   由   提交 /u/Arqqady   [链接] [评论]]]></description>
+      <description><![CDATA[我想构建一个以 python 代码作为后端的 Web 应用程序。通常我所做的就是拥有一个带有 IP 的 aws 实例，并使用它来实现完全的灵活性（并且我在其中使用 nginx 来实现后端和前端代码），并将域连接到 cloudflare 以实现一定的安全性。但是，现在我有一个特殊的功能，我需要一个用户数据库（身份验证、验证码、用户数据库逻辑）。我听说最好的是 supabase 或 firebase - 他们已经内置了用户逻辑的东西，但根据我的理解，这是后端即服务，我将无法同时使用它和我的 python 后端。还是我错了？ 我还没有构建这个网络应用程序，我过去确实构建了一个网站，但那个网站更容易，因为我不需要用户数据库（所以我做了 html/css /js 作为前端，加上 python 作为后端，在 aws Ubuntu 实例上使用 nginx，并添加了 cloudflare 链接）。  谢谢大家   由   提交 /u/Arqqady   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckggme/best_for_user_db/</guid>
       <pubDate>Sun, 05 May 2024 01:56:30 GMT</pubDate>
     </item>
@@ -27,7 +62,7 @@
       <pubDate>Sun, 05 May 2024 01:16:29 GMT</pubDate>
     </item>
     <item>
-      <title>如何停止通知重复？ [laravel、jquery] 代码审查</title>
+      <title>如何停止通知重复？[laravel，jquery] 代码审查</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckf5ku/how_to_stop_notification_duplication_laravel/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckf5ku/how_to_stop_notification_duplication_laravel/</guid>
@@ -50,7 +85,7 @@
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cke2nh/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/webdev， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，r/webdev， 我正在为一家酒店老板做网站项目，研究其决策过程。他们希望拥有一个强大的管理界面来管理网站的各个方面，包括画廊、博客、活动、电子邮件和付款。虽然我已经做了大量的研究，但我仍在犹豫是使用 Django 的强大管理功能，还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和与 Next.js 前端集成的可能性。 尽管我付出了努力，但我还是陷入了困境。以下是我可以使用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与 Next.js 前端集成之间的开发复杂性如何？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面的用户友好性和可定制性如何？ 性能和可扩展性：在为该项目在 Django 和无头 CMS 之间进行选择时，我是否应该牢记任何性能或可扩展性注意事项？ 成本和部署：哪些开源无头 CMS 选项允许自托管而无需额外的部署成本？与部署 Django 应用程序相比，这些 CMS 的部署流程如何？ 客户满意度：根据您的经验，就易用性和功能性而言，客户对 Django Admin 提供的管理界面与开源无头 CMS 平台提供的管理界面的满意度如何？  尽管我做了研究，但我仍然在权衡利弊。您根据经验提出的见解、建议或最佳实践将对我做出决定非常有帮助。 提前感谢您的帮助！    提交人    /u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cke2nh/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:53:47 GMT</pubDate>
     </item>
@@ -71,44 +106,9 @@
     <item>
       <title>需要网络开发指南</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckcl54/need_guide_for_web_development/</link>
-      <description><![CDATA[我想建立一个网站，我还想在数据库上上传大量图像和相同数量的元组。  如果这些类型的数据不会经常插入到服务器，建立网站的最佳方法是什么或哪种托管服务是最佳选择？ 我知道如何设置为网站建立数据库，但以前从未处理过设置新的文件系统。  我之前的工作使用了 AWS 的 s3，但他们设置它时我不在场。 你们能指导我在哪里查看吗？我想要的是设置带有数据库和文件存储的集成网络服务器，但我什至不知道从哪里开始。  感谢您花时间阅读我的问题！   由   提交/u/jucicool_7829   [链接] [评论]]]></description>
+      <description><![CDATA[我想建立一个网站，我还想在数据库上上传大量图像和相同数量的元组。  如果这些类型的数据不会经常插入到服务器，建立网站的最佳方法是什么或哪种托管服务是最佳选择？ 我知道如何设置为网站建立一个数据库，但以前从未处理过设置新的文件系统。  我之前的工作使用了 AWS 的 s3，但他们设置它时我不在场。 你们能指导我在哪里查看吗？我想要的是设置带有数据库和文件存储的集成网络服务器，但我什至不知道从哪里开始。  感谢您花时间阅读我的问题！   由   提交/u/jucicool_7829   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckcl54/need_guide_for_web_development/</guid>
       <pubDate>Sat, 04 May 2024 22:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以将第二个 github 存储库设置为我的主 Github 页面站点中的子页面？即 MainSite.github.io/repoB，其中 repoB 的内容反映在主站点上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckccb1/is_it_possible_to_set_a_second_github_repo_as_a/</link>
-      <description><![CDATA[正如标题所说，我想在我的主站点上托管第二个存储库，主要是为了模块化，因为子页面 B 的内容相当大现在，我想要一个单独的 gh 存储库，而不需要取消它与页面站点的链接。   由   提交 /u/GutiV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckccb1/is_it_possible_to_set_a_second_github_repo_as_a/</guid>
-      <pubDate>Sat, 04 May 2024 22:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 如何从这笔交易中赚取 10 亿美元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckb32m/how_figma_made_1_billion_from_this_deal/</link>
-      <description><![CDATA[你好，伊德里斯在这里！本周我想分享我们可以从 Figma 学到的产品课程的总结版本 [您可以在此处找到完整的案例研究](https://open.substack.com/pub/indieniche/p/ 200 亿-figma-acqusition-fallout?r=3q3p07&amp;utm\_campaign=post&amp;utm\_medium=web) Figma 由 Dylan 构思，作为协作云脱颖而出 -基于 Web 应用程序，专为设计用户界面而定制。当它于 2022 年 9 月宣布以 200 亿美元与 Adob​​e 合并时，引起了轰动。然而，这种联盟是短暂的，仅持续了 15 个月，因为欧盟和英国的监管问题促使其放弃。  以下是一些可以增强您的产品开发之旅的关键要点... 软件正在吞噬世界 您没听错：软件正在真正改变我们的世界。我第一次从 YC 的 Gary Tan 那里了解到这个概念，它仍然让我感到惊讶。见证一家小型初创公司及其工具在 5-6 年前从头开始创建，超越了 InVision 和 Sketch 等老牌领导者，甚至挑战了 Adob​​e 等行业巨头，这是了不起的。 收入非常重要。  在文章中，Dylan 透露 Figma 已经积累了惊人的 6 亿美元收入，此外还因与 Adob​​e 的冲突而额外获得了 10 亿美元的意外之财——这确实是一个惊人的数字！ 😮。 Figma的计费策略最近变得相当激烈；即使是免费计划的用户也会发现自己被迫升级。最初，他们采取了提供低价的策略，以吸引大量用户并收集反馈。 从小定价开始是可以的 从一开始，定价就是关键Figma 的独特之处，使其与竞争工具区分开来，并建立了信任的基础。他们的负担能力从一开始就与社区建立了牢固的联系，并巩固了他们的声誉。通过提供平易近人的价格，Figma 有效降低了有抱负的设计师和新手设计师的进入门槛。 创新并征服 Figma 与众不同的一个突出功能是可直接访问的云协作功能从浏览器。这意味着您可以从世界任何地方访问Figma，而无需依赖您的个人笔记本电脑，这对我来说是一个游戏规则改变者。与 Adob​​e、Sketch 和 InVision 不同的是，他们在相当长的一段时间内都在努力实现这一目标。这种能力是一个关键的差异化因素，强调了在构建产品时识别和利用独特优势的重要性。 一路并购交易 凭借大量的资金储备， Figma 一直在战略性地收购产品以增强其工作流程和流程，旨在完成从获得支持到运输和测量的软件开发价值链。他们在收购了由 Jordan Singer 创立的一家小公司 Diagram 后开始将人工智能应用到他们的产品中，该公司利用 GPT-3 以最少的输入生成设计理念。 沟通始终是关键 您需要始终与您的团队沟通，让他们始终了解正在发生的事情，Dylan Field 优先考虑与 Figma 员工、利益相关者和设计社区保持透明度。通过保持开放和诚实的沟通渠道，Figma 培养了信任和团结，巩固了其在市场中的地位。 从挫折中学习 Field 将失败的余波销售视为宝贵的财富。学习经验。他强调了面对逆境时保持韧性的重要性，以及将失败视为增长催化剂的必要性。通过分析挫折背后的原因并从他们的错误中吸取教训，他将其描述为在任何时间点始终保持脚踏实地。 产品课程的深入版本已[发布在此处]( https://open.substack.com/pub/indieniche/p/20-billion-figma-acqusition-fallout?r=3q3p07&amp;utm\_campaign=post&amp;utm\_medium=web) 我还尝试介绍独立技巧和令人兴奋的[产品内容](https://indieniche.substack.com/)&lt; /p&gt; 期待您的回复   由   提交 /u/sky-builder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckb32m/how_figma_made_1_billion_from_this_deal/</guid>
-      <pubDate>Sat, 04 May 2024 21:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站或客户网站是否曾被恶意软件攻击过？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckapgd/ever_had_a_website_or_clients_website_hacked_with/</link>
-      <description><![CDATA[我打赌你可能和我们很多人一样。但是，我今天学到了一些新东西，仅仅因为您删除了恶意软件，从谷歌中清除了它，并且该网站已经运行良好很长时间并且没有重复的黑客攻击，但这并不意味着问题已经消失。有相当多的公司会将网站 URL 永久记录到其恶意软件数据库中，您需要提交正式请求，以从每个公司的数据库中取出 URL。找到提交这些请求的地点和方式并不容易。  幸运的是，我发现了这个链接来提供帮助（它不是 100% 准确，但足够接近）：https://tickets.onehoursitefix.com/kb/faq.php?id=163 认为这会帮助那些可能正在处理误报并想知道在哪里的人它们来自何处，以及当网站长时间完美运行时如何摆脱它们。    由   提交/u/Hot-Tip-364  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckapgd/ever_had_a_website_or_clients_website_hacked_with/</guid>
-      <pubDate>Sat, 04 May 2024 21:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>烘烤我的第一个网络项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckaavv/roast_my_first_web_project/</link>
-      <description><![CDATA[大家好👋， 在过去的一个半月里，我一直在使用 Sveltekit 和 Tailwind 构建一个人工智能生成网站. 我是一名初级人工智能工程师，所以网络对我来说是一个相当新的东西，但我真的很享受学习网络的旅程。对于那些询问技术堆栈的人来说，有：Supabase、Svelte、Sveltekit、Tailwind、Modal serverless。 -&gt; https://stablelab.ai/ 我不会详细介绍该网站，因为这不是重点这里 ！我主要希望获得一些反馈并受到批评，尤其是在设计和最佳实践方面，所以请随意向我发泄 😅 玩得开心！   由   提交/u/Impact31  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckaavv/roast_my_first_web_project/</guid>
-      <pubDate>Sat, 04 May 2024 20:55:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>周六炫耀 - 上周刚刚为一位受欢迎的皮肤科医生推出了这款产品。另一个非常独特的设计仅使用 html 和 css 以及 11ty 静态 Kaye 生成器构建。页面速度得分为 100。玩得很开心！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck9ce7/showoff_saturday_just_launched_this_one_this_past/</link>
-      <description><![CDATA[这是网站 https://balancedskin.com  这是为 Instagram 和 TikTok 上受欢迎的皮肤科医生 Tia Paul 医生设计的。他们寻求一种新的设计，因为他们当前的设计速度很慢，甚至没有为他们的名字排名，而且他们想要的设计并不是他们得到的设计。在这个问题上有很多事情需要解决和解决，经过一些来回的编辑和会议，我们终于让他们到达了他们想要的位置。我对这个设计和所做的工作非常满意，所以我想分享！    由   提交 /u/Citrous_Oyster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck9ce7/showoff_saturday_just_launched_this_one_this_past/</guid>
-      <pubDate>Sat, 04 May 2024 20:12:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
