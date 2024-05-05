@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 May 2024 00:58:38 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 05 May 2024 03:13:41 GMT</lastBuildDate>
+    <item>
+      <title>这里是新手 - 尝试制作一个 chrome 扩展。 GPT 说它应该有效，但事实并非如此。有人可以帮我审核/排除代码问题吗？帮帮兄弟吧！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckgvm0/total_newb_here_trying_to_make_a_chrome_extension/</link>
+      <description><![CDATA[此扩展的目标是监视特定网站/chrome 选项卡的像素变化，然后触发声音警报。例如，如果 Chrome 选项卡的标题后有任何修改，它会给我一个提示。我已经为此工作了大约 10 个小时，但没有成功。我的图标固定在扩展工具栏上，并显示正在主动监控，但它只是没有执行任何操作。  如果您能提供帮助，我们将不胜感激。我们如何将代码交给您进行审查？  谢谢！   由   提交/u/turtleheadpokingout  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckgvm0/total_newb_here_trying_to_make_a_chrome_extension/</guid>
+      <pubDate>Sun, 05 May 2024 02:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合用户数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckggme/best_for_user_db/</link>
+      <description><![CDATA[我想构建一个以 python 代码作为后端的 Web 应用程序。通常我所做的就是拥有一个带有 IP 的 aws 实例，并使用它来实现完全的灵活性（并且我在其中使用 nginx 来实现后端和前端代码），并将域连接到 cloudflare 以实现一定的安全性。但是，现在我有一个特殊的功能，我需要一个用户数据库（身份验证、验证码、用户数据库逻辑）。我听说最好的是 supabase 或 firebase - 他们已经内置了用户逻辑的东西，但根据我的理解，这是后端即服务，我将无法同时使用它和我的 python 后端。还是我错了？ 我还没有构建这个网络应用程序，我过去确实构建了一个网站，但那个网站更容易，因为我不需要用户数据库（所以我做了 html/css /js 作为前端，加上 python 作为后端，在 aws Ubuntu 实例上使用 nginx 并添加了 cloudflare 链接）。  谢谢大家   由   提交 /u/Arqqady   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckggme/best_for_user_db/</guid>
+      <pubDate>Sun, 05 May 2024 01:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要网站流畅</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckfpu3/need_smoothness_on_website/</link>
+      <description><![CDATA[如何获得本网站底部页脚的效果？我到处找，但找不到它，任何帮助将不胜感激。  链接：https://www.ofpj.org/   由   提交 /u/Atraukos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckfpu3/need_smoothness_on_website/</guid>
+      <pubDate>Sun, 05 May 2024 01:16:29 GMT</pubDate>
+    </item>
     <item>
       <title>如何停止通知重复？ [laravel、jquery] 代码审查</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckf5ku/how_to_stop_notification_duplication_laravel/</link>
@@ -27,7 +48,7 @@
       <pubDate>Sun, 05 May 2024 00:17:58 GMT</pubDate>
     </item>
     <item>
-      <title>在 Django 和 Headless CMS 之间进行网站开发的选择：寻求建议</title>
+      <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cke2nh/choosing_between_django_and_headless_cms_for/</link>
       <description><![CDATA[嘿r/webdev， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cke2nh/choosing_between_django_and_headless_cms_for/</guid>
@@ -85,30 +106,9 @@
     <item>
       <title>周六炫耀 - 上周刚刚为一位受欢迎的皮肤科医生推出了这款产品。另一个非常独特的设计仅使用 html 和 css 以及 11ty 静态 Kaye 生成器构建。页面速度得分为 100。玩得很开心！</title>
       <link>https://www.reddit.com/r/webdev/comments/1ck9ce7/showoff_saturday_just_launched_this_one_this_past/</link>
-      <description><![CDATA[这是网站  https://balancedskin.com 这是 Instagram 和 TikTok 上很受欢迎的皮肤科医生 Tia Paul 博士的作品。他们寻求一种新的设计，因为他们当前的设计很慢，甚至没有根据他们的名字进行排名，而且他们想要的设计也不是他们得到的设计。在这一点上有很多需要修复和处理的地方，经过反复的编辑和会议，我们终于让他们达到了他们想要的效果。我真的很喜欢这个设计和投入其中的工作，所以我想分享一下！    提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
+      <description><![CDATA[这是网站 https://balancedskin.com  这是为 Instagram 和 TikTok 上受欢迎的皮肤科医生 Tia Paul 医生设计的。他们寻求一种新的设计，因为他们当前的设计速度很慢，甚至没有为他们的名字排名，而且他们想要的设计并不是他们得到的设计。在这个问题上有很多事情需要解决和解决，经过一些来回的编辑和会议，我们终于让他们到达了他们想要的位置。我对这个设计和所做的工作非常满意，所以我想分享！    由   提交 /u/Citrous_Oyster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ck9ce7/showoff_saturday_just_launched_this_one_this_past/</guid>
       <pubDate>Sat, 04 May 2024 20:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么带有增量构建的 SSG 没有更受欢迎？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck8yhr/why_arent_ssgs_with_incremental_builds_more/</link>
-      <description><![CDATA[奇怪的是，增量构建技术（几乎所有创建的软件构建系统都通用）从未与 SSG 一起流行起来。相反，我们被 ISR 困住了，因为 ISR 看起来很相似。 它只是归结为您想要使用的模板系统。要么它是图灵完备的，要么它对文件系统的访问可以由构建系统本身控制。 为什么没有更多的人使用 Django？没有这个真的值得吗？好奇社区的想法。   由   提交 /u/joesuf4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck8yhr/why_arent_ssgs_with_incremental_builds_more/</guid>
-      <pubDate>Sat, 04 May 2024 19:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具来轻松共享您的私人 GitHub 存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck8qcm/i_built_a_tool_to_easily_share_your_private/</link>
-      <description><![CDATA[当我申请实习时，我找不到一种简单的方法来共享我的私人存储库/只是一般共享一个我不想要的存储库设置公开或添加协作者。 因此我构建了 GitShare (https://gitshare.me)，这是最简单的方法共享您的私有 GitHub 存储库。它利用 GitHub API 和 GitHub 应用程序进行安全身份验证。 以下是我正在考虑在未来实现的一些想法： 用于展示公共或私人存储库的个人组合功能以及他们的代码，并获得您分享的每个存储库的视图数和其他指标等见解。 让我知道您的想法！我非常感谢任何反馈和想法   由   提交/u/anonc3a  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck8qcm/i_built_a_tool_to_easily_share_your_private/</guid>
-      <pubDate>Sat, 04 May 2024 19:45:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你的工作进展不顺利时，你如何克服自我怀疑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ck8a3c/how_do_you_combat_selfdoubt_when_things_arent/</link>
-      <description><![CDATA[我知道这有点模糊，所以我希望可以在这里问这个问题。我的主要收入是网络开发人员，同时也从事网络开发工作。我于 2021 年毕业，获得了计算机科学学士学位，从那时起我就一直在工作，但我仍然觉得我的信心取决于我的上一个项目。如果我低估了某件事的长度，或者高估了我对某项特定技术的理解，或者我只是一般地在某件事上挣扎，我就会患上严重的冒名顶替综合症并僵住，这会让事情变得更糟。当我做得很好时，我感觉很棒！充满信心，充满动力，渴望继续前进！它很容易突破高点并陷入低点。就像我需要再次证明自己，我知道自己在做什么。一般来说，我倾向于沉迷于做“正确”的事情，怀疑自己是否听到文件架构要求/最佳实践之类的事情，或者担心忽略一些重要的事情，因为我对这一切仍然感觉很新。如果有人为此苦苦挣扎并提出一些建议，我将非常感激。    由   提交 /u/mellow_cellow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ck8a3c/how_do_you_combat_selfdoubt_when_things_arent/</guid>
-      <pubDate>Sat, 04 May 2024 19:25:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
