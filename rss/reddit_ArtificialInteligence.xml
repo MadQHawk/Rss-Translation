@@ -4,20 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 05 May 2024 06:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 09:13:20 GMT</lastBuildDate>
+    <item>
+      <title>多语言数据上的 RAG</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckmxg1/rag_on_multi_lingual_data/</link>
+      <description><![CDATA[嗨，我正在尝试为我们的组织构建一个抹布管道。知识库主要是 WordPress 博客、书籍和 YouTube 视频。 YouTube 视频恰好是英语和印地语（印度的语言）。我应该如何进行数据摄取？我应该将印地语视频脚本翻译成英语然后嵌入它们，还是应该使用 cohere 等多语言模型嵌入所有语言的脚本（无论语言如何）？  &amp; #32；由   提交/u/ichig0_kurosaki  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckmxg1/rag_on_multi_lingual_data/</guid>
+      <pubDate>Sun, 05 May 2024 08:52:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何克隆我妻子的商业社交照片？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckl8fj/how_can_i_clone_my_wife_for_photos_for_her/</link>
+      <description><![CDATA[我的妻子是一名瑜伽教练，她的 Instagram 是她的主要业务来源，我们必须不断拍摄新照片。这包括开车到一个新的地方、更换和设置、拍摄照片、编辑——这是一个漫长的过程。如果我能够上传她的照片，以便人工智能可以复制她 - 然后生成带有我选择的背景和帖子的新图片 - 这将节省很多麻烦。 这可能吗？    由   提交/u/zascar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckl8fj/how_can_i_clone_my_wife_for_photos_for_her/</guid>
+      <pubDate>Sun, 05 May 2024 06:51:58 GMT</pubDate>
+    </item>
     <item>
       <title>他们教人工智能使用 CRISPR 编辑基因。它消除了 4 个皮肤癌基因。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckk2t8/they_taught_ai_to_edit_genes_with_crispr_it/</link>
       <description><![CDATA[ 由   提交 /u/SurveySea7570   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckk2t8/they_taught_ai_to_edit_genes_with_crispr_it/</guid>
       <pubDate>Sun, 05 May 2024 05:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么你需要学习 Javascript 才能通过 AI 赚钱</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckj5a5/why_you_need_to_learn_javascript_to_make_real/</link>
-      <description><![CDATA[想要进入人工智能和机器学习领域，但不知道如何编码？没关系，只要学一点 Python 就行。跳进水里，没那么深！这就是你诱使某人成为人工智能开发人员的方法。他们实际上并没有意识到水有多深，直到他们学了一点 Python，到那时他们就上瘾了。 也许你想把你的项目变成钱？也许是经济原因让你进入了人工智能领域，从而一开始就进入了编码领域。如果这是你，那么不幸的消息是，水比你最初被告知的要深一些。 你能用纯 Python 开发前端界面吗？从技术上讲，是的。从技术上讲，你可以在地下室建造 ChatGPT4。如果你深入研究这些东西，你很快就会发现你有两个问题。第一，Python 不能直接扩展到这些目的。其次，Python 并不安全，因此它不适合用来赚钱。 幸运的是，有些 Transformers 框架已经开始直接用 Javascript 编写。其中一个框架恰如其名，就是 transformers.js。您通常希望使用某种框架来构建它。这样它就具有可扩展性和安全性。如果您知道自己在用它做什么，这是一个快速、简单且基本上免费的过程。 那么，如何从巧妙的 Python 脚本跨越到真正的可部署产品呢？诀窍在于您不要永远呆在 Python 领域。这是一个很棒的起点，但不是最终目标。 事情变得令人兴奋的地方就在这里。人工智能的世界正在快速发展，借助 transformers.js 等库，您可以在 Web 浏览器中直接利用机器学习的强大功能。这意味着构建流畅的界面，让任何人都可以访问您的项目，并安全地处理敏感数据 - 这是获得巨大收益的途径！ 现在，不要误会我的意思，还有一个学习曲线。但请记住，您已经迈出了最大的一步。一点 JavaScript 知识，一些明智的框架选择，瞧！您正在将您的 AI 创意转变为现实世界的解决方案。 想看看这个魔法是如何展开的吗？我制作了一个 YouTube 视频，在其中分解了这些概念，向您展示了 transformers.js 的实际应用，并指导您从 Python 修补匠到 AI 企业家的旅程。在这里查看：https://youtu.be/mLUTv9yvY-4     提交人    /u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckj5a5/why_you_need_to_learn_javascript_to_make_real/</guid>
-      <pubDate>Sun, 05 May 2024 04:33:11 GMT</pubDate>
     </item>
     <item>
       <title>我怎样才能进入人工智能劳动力市场？</title>
@@ -34,18 +41,11 @@
       <pubDate>Sun, 05 May 2024 02:52:49 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能创新每日纪事 2024 年 5 月 4 日：🎥世界上第一个人工智能生成的音乐视频刚刚发布✈️空军发射了人工智能控制的 F-16 战斗机微软在多次失败和违规后将高管薪酬与安全挂钩🤖X 正在使用 Grok发布人工智能生成的新闻🚀</title>
+      <title>人工智能创新每日纪事 2024 年 5 月 4 日：🎥世界上第一个人工智能生成的音乐视频刚刚发布 ✈️空军发射了人工智能控制的 F-16 战斗机 微软在多次失败和违规后将高管薪酬与安全挂钩 🤖X 正在使用 Grok发布人工智能生成的新闻🚀</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckgfji/a_daily_chronicle_of_ai_innovations_may_04th_2024/</link>
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckgfji/a_daily_chronicle_of_ai_innovations_may_04th_2024/</guid>
       <pubDate>Sun, 05 May 2024 01:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影《HER》中的 OS 1</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckfjul/os_1_from_the_movie_her/</link>
-      <description><![CDATA[我们离拥有类似的东西还有多远，或者它是否已经存在而我还不知道？   由   提交 /u/NastyBizness   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckfjul/os_1_from_the_movie_her/</guid>
-      <pubDate>Sun, 05 May 2024 01:07:26 GMT</pubDate>
     </item>
     <item>
       <title>您认为人工智能的繁荣会加速机器人技术的进步吗？</title>
@@ -78,14 +78,14 @@
     <item>
       <title>软件工程师是最愿意颠覆自己的职业群体吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck982v/are_software_engineers_the_professional_group/</link>
-      <description><![CDATA[人工智能编码助手的流行和自主编码的发展，无疑意味着编写大量代码将不再是十年后开发人员的主要活动。这肯定会让开发人员对工作保障感到担忧。然而，人工智能编码方面的大多数进步都是在开发者社区中庆祝的。他们已经在尝试弄清楚如何将时间花在人工智能无法完成且独特需要人类创造力的事情上。    由   提交 /u/creativefisher   [链接] [评论]]]></description>
+      <description><![CDATA[AI 编码助手的普及和向自主编码的迈进，无疑意味着十年后编写大量代码将不再是开发人员的主要活动。这肯定会让开发人员对工作保障感到担忧。然而，大多数 AI 编码方面的进步都得到了开发人员社区的赞扬。他们已经在试图弄清楚如何将时间花在 AI 无法做到的事情上，而这些事情需要人类的创造力。     提交人    /u/creativefisher   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ck982v/are_software_engineers_the_professional_group/</guid>
       <pubDate>Sat, 04 May 2024 20:07:23 GMT</pubDate>
     </item>
     <item>
       <title>我可以给 chat-GPT 数字书籍并告诉他仅根据这些书籍写一些东西吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck90ut/can_i_give_chatgpt_numerus_books_and_tell_him_to/</link>
-      <description><![CDATA[大家好，我在工作中需要进行大量的法律分析，我想知道是否可以使用人工智能来帮助我。谢谢！   由   提交 /u/PochoStark22   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我在工作中需要进行大量的法律分析，我想知道是否可以使用人工智能来帮助我。谢谢！   由   提交/u/PochoStark22  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ck90ut/can_i_give_chatgpt_numerus_books_and_tell_him_to/</guid>
       <pubDate>Sat, 04 May 2024 19:58:45 GMT</pubDate>
     </item>
