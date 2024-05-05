@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 05 May 2024 09:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 12:20:35 GMT</lastBuildDate>
+    <item>
+      <title>人工智能将如何改变全球经济模式和就业市场？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckpy5h/how_ai_will_change_global_economy_model_and_job/</link>
+      <description><![CDATA[- 人工智能真的会接管工程工作吗？ - 没有固定收入的经济如何运转？  ​   由   提交 /u/sentillious   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckpy5h/how_ai_will_change_global_economy_model_and_job/</guid>
+      <pubDate>Sun, 05 May 2024 12:16:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一些帮助，为机器学习大学项目提供此数据中的新功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cko7kn/i_need_some_help_coming_up_with_new_features_in/</link>
+      <description><![CDATA[基本上这是一个大学项目，他们为我们提供了鸡尾酒/饮料质量的数据集，我们应该训练一个模型以使用他们当时给我们的数据集清理数据并查看准确性是否有所提高，如果是的话，我们应该继续下一步，即进行特征工程以获得更好的准确性，我目前正在努力设计影响准确性的特征以使其更好。 我能想到的是，营养密度，加权密度，酸度到甜度平衡，总酸度。 这些似乎对质量影响不大，只是很小的改进，我认为这个数据集是基于葡萄酒质量的数据集在这里，但教授确实更改了名称和一些数据（他们是这么说的），这是它 https ://www.kaggle.com/datasets/yasserh/wine-quality-dataset（不确定是否基于它，但他们确实说他们将获得一个数据集并更改名称和一些数据正如我之前所说，这是我能找到的最接近的数据）。 这是他们给我们的数据，我们应该使用：https://drive.google.com/file/d/1aLqPn-I8tbC_14GSgHX-rTekuPa-7960/view?usp=sharing  如果您无法在手机上打开数据示例图片，您可以使用它来提供有关新功能的一些想法：https://imgur.com/a/FDeQcQi 我的代码准确率为 87%： import numpy as np import pandas作为pd从sklearn.preprocessing导入MinMaxScaler，StandardScaler从sklearn.svm导入SVC从sklearn.metrics导入accuracy_score从sklearn.ensemble导入RandomForestClassifier从sklearn.metrics导入classification_report，accuracy_score从sklearn.model_selection导入train_test_split df = pd.read_csv(&#39;Cocktail Juice Quality_Training Dataset.csv&#39;) print(df)mean_citric_acid = df[&quot;柠檬酸&quot;].mean() new_df = df[&#39;柠檬酸&#39;].replace(0,mean_citric_acid, inplace=True) df[&#39;水果品质&#39;] = df[&#39;水果质量&#39;].apply(np.round).astype(&#39;int32&#39;) df[&#39;水果质量&#39;] = df[&#39;水果质量&#39;].apply(lambda x: 10 if x &gt; 10 else x) print(df) df[&#39;total_acidity&#39;] = df[&#39;固定酸度&#39;] + df[&#39;柠檬酸&#39;] df[&#39;acidity_to_sweetness_balance&#39;] = df[&#39;total_acidity&#39;] / df[&#39;甜味剂百分比&#39;] df[&#39;加权密度&#39;] = (df[&#39;密度&#39;]*df[&#39;固定酸度&#39;])+df[&#39;密度&#39;]*df[&#39;柠檬酸&#39;] df[&#39;营养密度&#39;] = df [&#39;密度&#39;] / df[&#39;卡路里&#39;] print(df) def map_quality(value): if value &lt;= 4: 返回 &#39;bad&#39; elif 5 &lt;= value &lt;= 6: 返回 &#39;normal&#39; else: return &#39;excellent&#39; df[&#39;quality&#39;] = df[&#39;quality&#39;].apply(map_quality) print(&quot;\n编码后的DataFrame:&quot;) print(df) defencode_quality(value): mapping = {&#39;bad&#39; : 0, &#39;正常&#39;: 1, &#39;优秀&#39;: 2} 返回映射[值] df[&#39;quality&#39;] = df[&#39;quality&#39;].apply(encode_quality) print(df) X = df.iloc[:, [0,1,2,3,4,6,7,8,12,13]] print(X) Y = df.iloc[:, 9] print(Y) X_train, X_test, y_train, y_test = train_test_split( X，Y，test_size = 0.25，random_state = 44）svm_model = SVC（kernel =&#39;rbf&#39;，decision_function_shape =&#39;ovr&#39;）svm_model.fit（X_train，y_train）rf_model = RandomForestClassifier（n_estimators = 100，random_state = 42）rf_model。 fit(X_train, y_train) y_pred = rf_model.predict(X_test) print(&quot;准确度：&quot;, precision_score(y_test, y_pred)) 预测 = rf_model.predict(X_test) print(&quot;准确度：&quot;, precision_score(y_test) ，预测））  ​   由   提交/u/Epic_Programmer_419   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cko7kn/i_need_some_help_coming_up_with_new_features_in/</guid>
+      <pubDate>Sun, 05 May 2024 10:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是值得信赖的人工智能检测工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cko6gw/what_is_a_trustworthy_aidetection_tool/</link>
+      <description><![CDATA[我目前正在撰写学士论文，今天早些时候发现我的一位同事已经使用生成式人工智能系统来生成大段文本。我通过使用可用的在线人工智能检测工具发现了这一点。有问题的大学说一切都将被重写，但我想确定一下。我们大学对此提出了严格的规定，以这种方式使用人工智能将被视为抄袭。因此，我的问题是：什么工具可以最好地检测人工智能生成的文本？这些免费的在线工具是否值得信赖，或者是否存在一定程度的错误？    由   提交/u/Wood3x8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cko6gw/what_is_a_trustworthy_aidetection_tool/</guid>
+      <pubDate>Sun, 05 May 2024 10:23:59 GMT</pubDate>
+    </item>
     <item>
       <title>多语言数据上的 RAG</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckmxg1/rag_on_multi_lingual_data/</link>
@@ -34,14 +55,7 @@
       <pubDate>Sun, 05 May 2024 03:36:31 GMT</pubDate>
     </item>
     <item>
-      <title>考虑通用人工智能。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckhh44/contemplating_agi/</link>
-      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckhh44/contemplating_agi/</guid>
-      <pubDate>Sun, 05 May 2024 02:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能创新每日纪事 2024 年 5 月 4 日：🎥世界上第一个人工智能生成的音乐视频刚刚发布 ✈️空军发射了人工智能控制的 F-16 战斗机 微软在多次失败和违规后将高管薪酬与安全挂钩 🤖X 正在使用 Grok发布人工智能生成的新闻🚀</title>
+      <title>人工智能创新每日纪事 2024 年 5 月 4 日：🎥世界上第一个人工智能生成的音乐视频刚刚发布✈️空军发射了人工智能控制的 F-16 战斗机微软在多次失败和违规后将高管薪酬与安全挂钩🤖X 正在使用 Grok发布人工智能生成的新闻🚀</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckgfji/a_daily_chronicle_of_ai_innovations_may_04th_2024/</link>
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckgfji/a_daily_chronicle_of_ai_innovations_may_04th_2024/</guid>
@@ -55,21 +69,7 @@
       <pubDate>Sat, 04 May 2024 22:45:29 GMT</pubDate>
     </item>
     <item>
-      <title>AI在哪里运行？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckbmtd/where_does_ai_run/</link>
-      <description><![CDATA[您好，有一个简单的问题：人工智能在哪里进行物理训练/操作？是在超级计算机上吗？在 GPU 农场上？或者只是在数据中心？我猜大多数人工智能正在计算所有数据来训练和生成响应，这可能是在更多类似计算的设施中完成的。任何信息都有帮助。    由   提交​​ /u/oneunfound   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckbmtd/where_does_ai_run/</guid>
-      <pubDate>Sat, 04 May 2024 21:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 GPT2 聊天机器人的一些想法！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckb4wh/some_thoughts_on_that_gpt2chatbot/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckb4wh/some_thoughts_on_that_gpt2chatbot/</guid>
-      <pubDate>Sat, 04 May 2024 21:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>转向AI产业</title>
+      <title>转向人工智能行业</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck99za/pivoting_to_ai_industry/</link>
       <description><![CDATA[我 (22M) 即将以经济学背景毕业，直到最近才意识到我有多么不喜欢我正在做的事情。我听从了父母的建议，他们认为我很适合金融界。 我将从加州大学学校毕业，平均绩点约为 3.4，但没有相关工作经验。我的简历包括担任法律助理和销售代表。我一直没能获得面向经济学毕业生的职位的面试机会。  我对找工作不抱太大希望，甚至认为我在我所申请的工作中看不到自己的影子。我一直在到处寻找商业分析师、数据分析师、顾问、财务专业人士和财富管理职位等规则的申请。 我对人工智能很着迷，并且会说这是我真正感兴趣的少数行业之一并且感兴趣。我想它的潜力非常吸引人，能够创造出可以帮助每个人的东西的能力确实引起了我的共鸣。我相信每个人都觉得人工智能很着迷，但这是我唯一可以学习并忘记时间的事情之一。 现在，我如何利用这种着迷进入人工智能和机器学习行业？获得与人工智能相关的入门级职位的最快途径是什么？我应该开始学习如何编码并考虑获得硕士学位吗？ 我很遗憾没有在大学投入更多的精力，因为它让我的选择有限。我想为我的职业生涯制定一个路线图，我可以强迫自己遵循它。 TL;DR：即将成为经济学大学毕业生，试图找出如何在没有技术背景的情况下进入人工智能领域。 TL;DR：即将成为经济大学毕业生，试图找出如何在没有技术背景的情况下进入人工智能领域。 p&gt;   由   提交 /u/thefoxthefox   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ck99za/pivoting_to_ai_industry/</guid>
@@ -78,14 +78,14 @@
     <item>
       <title>软件工程师是最愿意颠覆自己的职业群体吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck982v/are_software_engineers_the_professional_group/</link>
-      <description><![CDATA[AI 编码助手的普及和向自主编码的迈进，无疑意味着十年后编写大量代码将不再是开发人员的主要活动。这肯定会让开发人员对工作保障感到担忧。然而，大多数 AI 编码方面的进步都得到了开发人员社区的赞扬。他们已经在试图弄清楚如何将时间花在 AI 无法做到的事情上，而这些事情需要人类的创造力。     提交人    /u/creativefisher   [link] [评论]]]></description>
+      <description><![CDATA[人工智能编码助手的流行和自主编码的发展，无疑意味着编写大量代码将不再是十年后开发人员的主要活动。这肯定会让开发人员对工作保障感到担忧。然而，人工智能编码方面的大多数进步都是在开发者社区中庆祝的。他们已经在尝试弄清楚如何将时间花在人工智能无法完成且独特需要人类创造力的事情上。    由   提交 /u/creativefisher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ck982v/are_software_engineers_the_professional_group/</guid>
       <pubDate>Sat, 04 May 2024 20:07:23 GMT</pubDate>
     </item>
     <item>
       <title>我可以给 chat-GPT 数字书籍并告诉他仅根据这些书籍写一些东西吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck90ut/can_i_give_chatgpt_numerus_books_and_tell_him_to/</link>
-      <description><![CDATA[大家好，我在工作中需要进行大量的法律分析，我想知道是否可以使用人工智能来帮助我。谢谢！   由   提交/u/PochoStark22  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我在工作中需要进行大量的法律分析，我想知道是否可以使用人工智能来帮助我。谢谢！   由   提交 /u/PochoStark22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ck90ut/can_i_give_chatgpt_numerus_books_and_tell_him_to/</guid>
       <pubDate>Sat, 04 May 2024 19:58:45 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>

@@ -3,8 +3,16 @@
   <channel>
     <title>亚洲新闻 |最新头条新闻 |路透社</title>
     <link>https://www.reuters.com/world/asia-pacific/</link>
-    <description>Reuters.com 是您获取最新亚洲新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 05 May 2024 09:15:28 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新亚洲新闻报道和时事的在线来源，确保我们的读者了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sun, 05 May 2024 12:23:20 GMT</lastBuildDate>
+    <item>
+      <title>富士康重申第二季度收入增长，四月销售额创历史新高</title>
+      <link>https://www.reuters.com/technology/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-2024-05-05/</link>
+      <description><![CDATA[台湾富士康是全球最大的电子产品代工制造商，也是苹果 iPhone 的最大组装商，该公司周日重申，预计第二季度收入将增长，并报告 4 月份销售额创历史新高。
+富士康在声明中表示，今年第二季度“仍为传统淡季，主要产品进入新旧过渡期”。]]></description>
+      <guid>https://www.reuters.com/technology/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-2024-05-05/</guid>
+      <pubDate>Sun, 05 May 2024 08:09:39 GMT</pubDate>
+    </item>
     <item>
       <title>澳大利亚警方在刺伤带有恐怖主义“特征”的男孩后开枪打死</title>
       <link>https://www.reuters.com/world/asia-pacific/australian-police-shoot-dead-boy-after-stabbing-with-hallmarks-terrorism-2024-05-05/</link>
@@ -67,13 +75,6 @@
       <description><![CDATA[随着谈判截止日期本月临近，世界卫生组织总干事周五敦促各国达成一项协议，以帮助抗击未来的流行病。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-urges-countries-finalise-pandemic-accord-by-deadline-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:38:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰国重量级人物他信的女儿称银行独立是“障碍”</title>
-      <link>https://www.reuters.com/world/asia-pacific/daughter-thai-heavyweight-thaksin-calls-cbank-independence-an-obstacle-2024-05-03/</link>
-      <description><![CDATA[泰国颇具影响力的前总理他信·西那瓦(Thaksin Shinawatra)的政治家女儿周五表示，央行的独立性是解决经济问题的“障碍”，这是围绕利率的持续争论的最新一击。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/daughter-thai-heavyweight-thaksin-calls-cbank-independence-an-obstacle-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 12:38:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

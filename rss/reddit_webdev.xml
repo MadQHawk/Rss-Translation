@@ -3,12 +3,89 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 May 2024 09:14:30 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 05 May 2024 12:22:04 GMT</lastBuildDate>
+    <item>
+      <title>现在 jQuery 还很酷吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckpegc/is_jquery_still_cool_these_days/</link>
+      <description><![CDATA[在多年来主要专注于设计之后，我有点回到 webdev 了。 我曾经在几乎每个前端开发项目都很难想象没有它的生活。 人们还在使用它还是有更好的替代品？我主要只在 WordPress 网站上工作...而不是应用程序或任何东西，所以不想学习普通 JavaScript，因为这感觉完全是多余的。    ;由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckpegc/is_jquery_still_cool_these_days/</guid>
+      <pubDate>Sun, 05 May 2024 11:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人像 CitrousOyster 一样杀死它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckpadp/anyone_else_killing_it_like_citrousoyster/</link>
+      <description><![CDATA[那些制作静态网站并靠他提供的一次性付款和订阅赚钱的人。在过去的几年里，还有其他人遵循他的定价计划吗？发现类似的成功吗？我正在考虑走这条路并想要一些社会证明。   由   提交/u/BowserBrows  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckpadp/anyone_else_killing_it_like_citrousoyster/</guid>
+      <pubDate>Sun, 05 May 2024 11:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zod + React Hoom 条件表单问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/</link>
+      <description><![CDATA[假设您有一个表单，可以有额外的必填字段，也可以没有。 例如，如果用户是登录后，我们知道他们的名字、姓氏和电子邮件，因此我们不必向用户询问这些字段。我们不需要它们，而且我们根本不显示这些字段。 如果用户未登录，那么这些都是必需的。  ​ 需要明确的是，这些并不是唯一的字段。这些是额外的字段。  那么，问题是：使用 zod 和 React hook 表单的正确方法是什么？你如何告诉 zod 这些额外的字段有时是必需的，有时不是？ ​ ​ ​&lt; /p&gt; ​ ​   由   提交/u/blind-octopus  /u/blind-octopus reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/</guid>
+      <pubDate>Sun, 05 May 2024 11:24:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买注册域名的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckp1e8/best_approach_to_purchasing_a_registered_domain/</link>
+      <description><![CDATA[我的一个客户正在开始一项新业务，他们决定的名称已经注册了 .com 域名。 Whois 显示当前所有者已拥有该设备至少一年，并且该页面仍显示“正在建设中” ，没有 MX 记录，并且在任何典型服务上都没有拍卖/立即购买。  我希望能帮助他购买域名。它是通过 Network Solutions 注册的...我对他们没有任何经验，但快速搜索表明他们的声誉非常糟糕。 对于那些有这方面经验的人...我应该： &gt; 1) 通过电子邮件发送注册（隐私）电子邮件地址，希望所有者能够看到并回复 + 进行协商 2) 使用 Network Solutions 的延期交货/出价服务 3) 使用第三方服务来协商销售？ TIA   由   提交/u/JFlash7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckp1e8/best_approach_to_purchasing_a_registered_domain/</guid>
+      <pubDate>Sun, 05 May 2024 11:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[博客] WebAssembly：您需要了解的一切</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckoyub/blog_webassembly_everything_you_need_to_know/</link>
+      <description><![CDATA[WASM 生态系统乍一看似乎势不可挡，因为有大量工具和库执行与 WASM 运行时和模块相关的不同任务。在这篇博客中，我提供了 WASM、运行时、WASI 和一些流行工具的顺序且易于理解的描述。如果您对 WASM 感兴趣并且不知道从哪里开始，该博客将为您提供资源和指导您学习的路径。请阅读它，并分享您的想法/建议。 博客： https://levelup.gitconnected.com/web assembly-everything-you-need-to-know-d1eb0a162f20   由   提交/u/shubham0204_dev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckoyub/blog_webassembly_everything_you_need_to_know/</guid>
+      <pubDate>Sun, 05 May 2024 11:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>专业用途的最佳 React 认证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckou9g/best_react_certification_for_professional_use/</link>
+      <description><![CDATA[我是一名后端 Java 开发人员，愿意承担更全栈的角色。我的公司愿意我参加前端付费课程/认证。您建议哪种认证可以提供最大的专业价值，尤其是在 React 方面？   由   提交 /u/Aromatic-Teach-4122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckou9g/best_react_certification_for_professional_use/</guid>
+      <pubDate>Sun, 05 May 2024 11:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于使用基于字符串的访问而不是常规的 .dot 表示法的 API，您有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckomc1/what_are_your_thoughts_about_api_that_use/</link>
+      <description><![CDATA[Django 在其 API 中大量使用字符串访问。例如，以下是如何配置 Django 数据库的管理视图 class AuthorAdmin(admin.ModelAdmin): list_display = [&quot;name&quot;, &quot;title&quot;, &quot;view_birth_date&quot; ] @admin.display(empty_value=&quot;???&quot;) def view_birth_date(self, obj): return obj.birth_date  这是 Vue 插件 Vue I18n 的另一个示例 &lt;p&gt;{{ $t(&#39;message.hello&#39;, [&#39;hello&#39;]) }} 你做什么考虑一下这种风格而不是像 $t.message.hello 这样的风格？使用字符串访问时我总是很挣扎。 LSP Copilot 和 IDE 功能（例如重构）不能很好地处理字符串访问，并且字符串的任意性质使得很难直接体验 API。 您觉得怎么样？为什么开发人员选择使用字符串访问？我是否误判了这里的设计？   由   提交/u/BigBootyBear  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckomc1/what_are_your_thoughts_about_api_that_use/</guid>
+      <pubDate>Sun, 05 May 2024 10:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具，可以使用免费的 AI API 来比较任何产品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckolzc/i_created_a_tool_that_compares_any_products_using/</link>
+      <description><![CDATA[上周，当每个人都在为兔子 r1 与人类 ai pin 争论时，我创建了一个小工具，它浏览了所有 YouTube 视频，并给了我一个评论两者都是。 结果非常好，所以我决定将其制作成一个网站，免费提供这个有点具有挑战性，但我找到了正确的 API！ &lt; p&gt;我正在使用 Next.js (14)、Supabae（用于数据库和身份验证）、Turso（主要作为长文本存储）、Groq（AI API）和 Gemini（来自 google） 很高兴回答任何技术问题。请随时向我提供有关用户体验或想法的反馈🙏， 链接：https://promnai.com&lt; /p&gt;   由   提交/u/Ofily0x0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckolzc/i_created_a_tool_that_compares_any_products_using/</guid>
+      <pubDate>Sun, 05 May 2024 10:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发领域的新手，有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckol45/new_to_the_world_of_web_development_any_advice/</link>
+      <description><![CDATA[大家好，我是 Web 开发新手，最近刚刚开始练习 Html 和 CSS 基础知识，有什么建议吗？   由   提交 /u/Short-Celebration-33   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckol45/new_to_the_world_of_web_development_any_advice/</guid>
+      <pubDate>Sun, 05 May 2024 10:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Html 网站与 WordPress</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckofvr/html_website_vs_wordpress/</link>
+      <description><![CDATA[请问做网站的人，如果客户需要一个信息丰富的网站，你更喜欢什么？ 我注意到WordPress 上的网站最多有 10 个页面，并且其中的信息不会更新。 我知道谁自己做，这可能更容易、更快，现在我正在谈论 Web 开发人员，为什么要制作一个WordPress 上的网站？如果你可以使用html，它会更快。 更新！ 我认为人们不明白我在问什么，有些网站只有5页，我想了解为什么Web开发人员在wordpress上制作它们： 原因： 懒惰 不懂html、php？ &lt; p&gt;更多？   由   提交 /u/LeTravelMag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckofvr/html_website_vs_wordpress/</guid>
+      <pubDate>Sun, 05 May 2024 10:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目合作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckna2z/collab_on_project/</link>
+      <description><![CDATA[嘿，Web 开发人员！ 我是一名后端软件工程师，正在从事一个业余项目。我的项目是完全构建的 FE 和 BE，但是我想添加新功能，并且需要 FE 工程师来处理此问题。目前，该网站每月约有 2,500 名访问者，我希望努力获得 30k - 50k 的访问量。 我可以在后端完成所有操作，但我对前端/反应不太了解。我正在寻找懂 React 和前端开发的人来参与这个项目。 该网站是半成人相关的（与 Onlyfans 相关），但是，上面没有任何 NSFW 内容。该网站是 https://fanclan.io 如果有人有兴趣与我一起从事此工作，并且有反应/前端经验，请评论或私信！   由   提交 /u/ZaAlphaMale   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckna2z/collab_on_project/</guid>
+      <pubDate>Sun, 05 May 2024 09:17:33 GMT</pubDate>
+    </item>
     <item>
       <title>后端开发！<3 CSS</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckmrr7/backend_dev_3_css/</link>
-      <description><![CDATA[作为后端开发人员，您遇到的最令人沮丧或最复杂的 CSS 问题是什么？在 CSS 中，有哪些设计模式似乎不可能创建？您是否发现某些特定的东西（过于）复杂？比如定位、动画等。    提交人    /u/Alarmed_Judgment_138   [link] [评论]]]></description>
+      <description><![CDATA[作为后端开发人员，您遇到的最令人沮丧或最复杂的 CSS 问题是什么？有哪些设计模式对您来说似乎无法在 CSS 中创建？您是否发现一些特定的事情（过于）复杂？诸如定位、动画等。   由   提交/u/Alarmed_Judgment_138   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckmrr7/backend_dev_3_css/</guid>
       <pubDate>Sun, 05 May 2024 08:40:30 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[      https://taboo-ai.com/ 大家好！我创建了这个项目https://taboo-ai.com/，它使用人工智能来帮助英语学习者练习英语词汇。目前有来自不同方面和主题的 129 个主题，我每周都会进行每周主题投放以添加新主题。我为 Taboo AI 用户提供了一个门户，以便他们也能够贡献新主题。我希望通过 Taboo AI，英语学习者可以使用这个平台作为一个有趣的小游戏来帮助他们的英语词汇练习。 您可以尝试一下，它是完全免费的，如果您登录，您可以保存您的结果并查看有关您的游戏玩法的一些统计数据。还有一个“AI生成的主题”如果您在主题列表中没有找到您想要的内容，并且您又懒得向 Taboo AI 提交新主题，您可以使用 AI 生成自定义主题。  所以让我知道你对这款游戏的看法，也欢迎任何反馈！以下是公共 github 存储库的链接：https://github.com/xmliszt/taboo-ai（如果您是）有兴趣查看源代码并可能进行协作🙌🏻 对于那些想知道背后使用的技术堆栈的人： NextJS(fullstack)、Supabase(database &amp; auth)、TailwindCSS(样式）、Sendgrid（电子邮件）、Gemini Pro API(AI)    由   提交/u/bubbling-fish  /u/bubbling-fish  reddit.com/r/webdev/comments/1cklez1/open_source_edtech_project_looking_for/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cklez1/open_source_edtech_project_looking_for/</guid>
       <pubDate>Sun, 05 May 2024 07:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找体育 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cklew0/looking_for_a_sports_api/</link>
-      <description><![CDATA[大家好！我正在寻找一个体育 api，最好是免费的，它可以提供比赛的标题和比赛发生的时间，适用于足球、篮球、赛车运动等各种学科。任何网络抓取 api 也都足够了。    由   提交 /u/LIS4PIN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cklew0/looking_for_a_sports_api/</guid>
-      <pubDate>Sun, 05 May 2024 07:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Lightsail 容器从 DockerHub 提取映像：添加端口后为何重新部署失败</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckl9up/aws_lightsail_container_pulling_image_from/</link>
-      <description><![CDATA[      已经有一个已部署的镜像处于活动状态。 https:// Preview.redd.it/v01fpzng2kyc1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=d9a1d102013668ad472322148a1a8a30ed449047 此部署没有公共端点。 所以我添加 5000 端口并选择一个端点： https://preview.redd.it/aws-lightsail-continer-pulling-image -from-dockerhub-why-v0-w0r9vzi02kyc1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=0179833af98271c2992327f874496c71dfc81f50 在保存和部署时，此操作失败。 可能端口选择错误。感谢任何帮助。   由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckl9up/aws_lightsail_container_pulling_image_from/</guid>
-      <pubDate>Sun, 05 May 2024 06:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端测试是什么样的？特别是在反应方面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckl33t/how_frontend_testing_looks_like_paricularly_in/</link>
-      <description><![CDATA[我在前端和后端都没有太多经验，我希望有人向我解释一下这件事： 当我测试后端逻辑时我知道我正在测试什么：我有一个我期望得到的结果和我的逻辑的原始结果并将它们进行比较。当我测试前端时我应该测试什么？因为前端通常只是接口，没有太多处理数据的逻辑和算法，所以我可以测试什么？按钮、表单、数据获取？    由   提交 /u/Vzaje   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckl33t/how_frontend_testing_looks_like_paricularly_in/</guid>
-      <pubDate>Sun, 05 May 2024 06:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>NEXT JS 应用程序的托管选项有哪些</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckktq6/what_are_the_hosting_options_for_next_js/</link>
-      <description><![CDATA[嗨，我正在为一家公司开发网站，这是我的第一次。该网站主要是静态的，它展示了公司的工作方式，关于我们，团队，还有一个博客页面。 将有一个客户仪表板，以便他们可以上传博客并更新他们的团队部分。 托管这个 NEXTJS 网站的最佳选择是什么 我有在 Hostinger 上托管 Laravel 应用程序的经验，但我听说 Next js 可能会在 Hostinger 中导致问题     提交人    /u/Hassan_Afridi08   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckktq6/what_are_the_hosting_options_for_next_js/</guid>
-      <pubDate>Sun, 05 May 2024 06:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 隧道是比 Ngrok 更便宜的替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckkosb/cloudflare_tunnels_as_a_much_cheaper_alternative/</link>
-      <description><![CDATA[最近我偶然发现了一个问题，即在移动浏览器上进行本地开发时必须通过 https 来路由 localhost http 路由。  使用免费版本的 ngrok 可以轻松实现这一点，但是 ngrok 会通过随机 URL 路由您的请求，如果您希望应用程序运行，这将迫使您手动编辑配置字符串正确。 您可以通过更新订阅以创建固定域来解决此问题，但最低层只允许您拥有一个没有子域的域，因此您只能通过该隧道路由一个地址。如果您需要更多，则必须更新到更昂贵的级别。对于我的用例，我的套餐最终费用为每月 48 美元，这对于这样一个小众服务来说是荒谬的。 经过一番谷歌搜索后，我了解到 Cloudflare 以低得多的价格提供类似的服务。事实上，它是免费的！ 您唯一需要支付的是自定义域，这将花费几美元的年费。 您可以在《零信任》网络”仪表板部分并使用任意数量的子域。如果您需要与某人协作，您甚至可以创建多个隧道，这样就不会使用同一个隧道。所有这些都包含在免费套餐中。 只是将这个分享给任何正在寻找 Ngrok 更便宜替代品的人。   由   提交 /u/inglandation   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckkosb/cloudflare_tunnels_as_a_much_cheaper_alternative/</guid>
-      <pubDate>Sun, 05 May 2024 06:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckjua7/headless_cms/</link>
-      <description><![CDATA[过去几天我一直在使用 Astro。我喜欢它。  我打算开一个博客。我正在考虑使用 Astro + Headless CMS。我找到了内容丰富的cms。他们负责 CMS 的托管。我发现，随着博客的发展，它变得非常昂贵。  然后我想到使用自托管CMS。我找到了 Directus 和 Decap CMS。他们看起来很有前途。这些 CMS 可以托管在 Vercel 和 Cloudflare Pages 的免费托管计划上吗？我知道我可以使用 Digital Ocean Droplets，但由于我目前的失业状态，我不想每年支付 60 美元。   由   提交/u/dbhalla4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckjua7/headless_cms/</guid>
-      <pubDate>Sun, 05 May 2024 05:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的个人网站上有哪些很酷的小复活节彩蛋/秘密/花招？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckjdz1/what_cool_little_easter_eggs_secrets_gimmicks_do/</link>
-      <description><![CDATA[标题！！我很好奇其他人的网站上有什么很酷的噱头和复活节彩蛋。我先开始：我有一艘小型的企业号航空母舰跟随我的光标！   由   提交 /u/Acornless   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckjdz1/what_cool_little_easter_eggs_secrets_gimmicks_do/</guid>
-      <pubDate>Sun, 05 May 2024 04:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些网站中使用的静态网页生成器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckib3n/static_web_page_generator_used_in_these_website/</link>
-      <description><![CDATA[亲爱的 webdev，我正在尝试构建这样的东西： https://gtfobins.github.io/ https://filesec.io/&lt; /a&gt; https://lolbas-project.github.io/ &lt; p&gt;我之前使用 jekyll+github 页面为随机项目构建了静态 Web，但我对 webdev 的经验非常有限。所以我试图找到用来生成这些网页的内容。 我记得看起来类似的网站将他们使用的静态网页生成器的链接放在页脚上，但现在似乎找不到它。我一直在尝试找到类似的网站，并使用 wapalyzer 检查他们的页脚（我怀疑它是否可以在 github 页面上运行）。 有人知道这些网站是用什么构建的吗？  谢谢。   由   提交/u/amberleafsucks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckib3n/static_web_page_generator_used_in_these_website/</guid>
-      <pubDate>Sun, 05 May 2024 03:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的投资组合网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cki0el/roast_my_portfolio_website/</link>
-      <description><![CDATA[https://josephsalazar.dev/ 所以几天前，我分享了我的作品集的链接，并收到了很多有用的反馈，我已尽力将您的每条建议（我认为对我有意义的建议）落实到此重新设计中. 以下是我收到并实际实施的一些建议：  使各个部分之间以及每个部分内的项目之间的间距保持一致 有旧网站的某些部分存在大量负空间 删除了未执行任何操作的元素的所有交互 将深色模式更改为浅色模式 为其中的每个作品集添加了一些内容 删除了每个项目缩略图上的模糊效果 修复了损坏的链接  这是在 AOS、GSAP、Swiper.js、jQuery 和 getform 等库的帮助下，用纯 HTML、CSS 和 JS 制作。 请再次听到您的反馈。 &gt; 感谢那些喜欢旧设计的人以及给我所有这些建议的人。   由   提交 /u/Kelerya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cki0el/roast_my_portfolio_website/</guid>
-      <pubDate>Sun, 05 May 2024 03:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里是新手 - 尝试制作一个 chrome 扩展。 GPT 说它应该有效，但事实并非如此。有人可以帮我审核/排除代码问题吗？帮帮兄弟吧！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckgvm0/total_newb_here_trying_to_make_a_chrome_extension/</link>
-      <description><![CDATA[此扩展的目标是监视特定网站/chrome 选项卡的像素变化，然后触发声音警报。例如，如果 Chrome 选项卡的标题后有任何修改，它会给我一个提示。我已经为此工作了大约 10 个小时，但没有成功。我的图标固定在扩展工具栏上，并显示正在主动监控，但它只是没有执行任何操作。  如果您能提供帮助，我们将不胜感激。我们如何将代码交给您进行审查？  谢谢！   由   提交/u/turtleheadpokingout  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckgvm0/total_newb_here_trying_to_make_a_chrome_extension/</guid>
-      <pubDate>Sun, 05 May 2024 02:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合用户数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckggme/best_for_user_db/</link>
-      <description><![CDATA[我想构建一个以 python 代码作为后端的 Web 应用程序。通常我所做的就是拥有一个带有 IP 的 aws 实例，并使用它来实现完全的灵活性（并且我在其中使用 nginx 来实现后端和前端代码），并将域连接到 cloudflare 以实现一定的安全性。但是，现在我有一个特殊的功能，我需要一个用户数据库（身份验证、验证码、用户数据库逻辑）。我听说最好的是 supabase 或 firebase - 他们已经内置了用户逻辑的东西，但根据我的理解，这是后端即服务，我将无法同时使用它和我的 python 后端。还是我错了？ 我还没有构建这个网络应用程序，我过去确实构建了一个网站，但那个网站更容易，因为我不需要用户数据库（所以我做了 html/css /js 作为前端，加上 python 作为后端，在 aws Ubuntu 实例上使用 nginx 并添加了 cloudflare 链接）。  谢谢大家   由   提交 /u/Arqqady   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckggme/best_for_user_db/</guid>
-      <pubDate>Sun, 05 May 2024 01:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
