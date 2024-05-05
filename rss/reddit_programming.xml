@@ -4,34 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 05 May 2024 15:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 18:15:29 GMT</lastBuildDate>
     <item>
-      <title>Google 日历重复事件和通知到底是如何工作的？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cktb9b/how_exactly_google_calendar_recurring_events_and/</link>
-      <description><![CDATA[有人可以帮助我了解 GCal 如何使用 RRULE 处理重复事件吗？事件的应用内/网络应用通知也会在客户端触发吗？ 我的目标是了解 GCal 如何在数据库中存储重复事件以及它如何发送即将发生的事件的提醒？   由   提交 /u/AcanthaceaeFun1502   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cktb9b/how_exactly_google_calendar_recurring_events_and/</guid>
-      <pubDate>Sun, 05 May 2024 15:05:54 GMT</pubDate>
+      <title>负载平衡：微批处理的力量</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckvytu/load_balancing_the_power_of_microbatching/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckvytu/load_balancing_the_power_of_microbatching/</guid>
+      <pubDate>Sun, 05 May 2024 17:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>阻碍敏捷软件开发的瓶颈</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckv0ce/bottlenecks_that_paralyse_agile_software/</link>
+      <description><![CDATA[ 由   提交/u/lazy_loader88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckv0ce/bottlenecks_that_paralyse_agile_software/</guid>
+      <pubDate>Sun, 05 May 2024 16:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在工程行业建立信誉</title>
+      <link>https://www.reddit.com/r/programming/comments/1cku9ei/how_to_build_credibility_in_the_engineering/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cku9ei/how_to_build_credibility_in_the_engineering/</guid>
+      <pubDate>Sun, 05 May 2024 15:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 工程：摘要 #18</title>
+      <link>https://www.reddit.com/r/programming/comments/1cktut1/engineering_with_java_digest_18/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cktut1/engineering_with_java_digest_18/</guid>
+      <pubDate>Sun, 05 May 2024 15:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的学员如何在两年内从初级工程师变成高级工程师</title>
+      <link>https://www.reddit.com/r/programming/comments/1cktud5/how_my_mentee_went_from_junior_senior_engineer_in/</link>
+      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cktud5/how_my_mentee_went_from_junior_senior_engineer_in/</guid>
+      <pubDate>Sun, 05 May 2024 15:30:06 GMT</pubDate>
     </item>
     <item>
       <title>如何应对架构的演变？示例存储库的演化架构</title>
       <link>https://www.reddit.com/r/programming/comments/1ckt200/how_to_approach_the_evolution_of_your/</link>
-      <description><![CDATA[ 由   提交/u/meaboutsoftware  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/meaboutsoftware  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckt200/how_to_approach_the_evolution_of_your/</guid>
       <pubDate>Sun, 05 May 2024 14:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助处理大学里的 ERD（笔记应用程序）</title>
-      <link>https://www.reddit.com/r/programming/comments/1cksko6/need_help_with_my_erd_in_college_note_taking_app/</link>
-      <description><![CDATA[ 由   提交/u/Interesting_Pen6050   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cksko6/need_help_with_my_erd_in_college_note_taking_app/</guid>
-      <pubDate>Sun, 05 May 2024 14:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>TyphoonCon 2024 即将来临！ 🔖 使用代码“TyphoonCon10”即可享受会议门票 10% 的折扣。 🌪️ 不要错过亚洲最好的全进攻性安全会议。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckr1kj/typhooncon_2024_is_just_around_the_corner_use/</link>
-      <description><![CDATA[ 由   提交 /u/Marsy_star    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckr1kj/typhooncon_2024_is_just_around_the_corner_use/</guid>
-      <pubDate>Sun, 05 May 2024 13:16:01 GMT</pubDate>
     </item>
     <item>
       <title>使用 cookie 在 PHP 中创建安全的“记住我”脚本</title>
@@ -41,32 +55,11 @@
       <pubDate>Sun, 05 May 2024 12:03:21 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助 - AMD RADEON(TM) 显卡</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckpn8c/need_help_amd_radeontm_graphics/</link>
-      <description><![CDATA[我一直在无休止地搜索我的显卡的规格，我继续“我的电脑可以运行这个”，但它似乎不喜欢下面的显卡比名字。任何帮助将非常感激。谢谢你！ （我下载的每个工具中显示的显卡名称仅表示 AMD RADEON(TM) GRAPHICS    提交者    /u/Fresh-Night4118   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckpn8c/need_help_amd_radeontm_graphics/</guid>
-      <pubDate>Sun, 05 May 2024 11:59:23 GMT</pubDate>
-    </item>
-    <item>
       <title>我如何晋升为软件工程师 · Ramana Venkata</title>
       <link>https://www.reddit.com/r/programming/comments/1ckpezd/how_i_got_promoted_as_a_staff_software_engineer/</link>
       <description><![CDATA[ 由   提交/u/fieryrag  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckpezd/how_i_got_promoted_as_a_staff_software_engineer/</guid>
       <pubDate>Sun, 05 May 2024 11:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>高评价和顶级 Udemy 讲师列表</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckp71a/a_list_of_highly_rated_and_top_udemy_instructors/</link>
-      <description><![CDATA[ 由   提交 /u/ampankajsharma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckp71a/a_list_of_highly_rated_and_top_udemy_instructors/</guid>
-      <pubDate>Sun, 05 May 2024 11:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckp5im/i_need_help/</link>
-      <description><![CDATA[嗨，我是编程新手（几乎没有知识），我想编写一个 fc24 自动购买器。谁能帮助我或给我提示   由   提交/u/Murky-Philosophy2968   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckp5im/i_need_help/</guid>
-      <pubDate>Sun, 05 May 2024 11:28:41 GMT</pubDate>
     </item>
     <item>
       <title>HTTPS 是如何工作的</title>
@@ -90,13 +83,6 @@
       <pubDate>Sun, 05 May 2024 10:47:39 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建随特征变化的动画/图像类型？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckog9l/how_to_create_the_type_of_animation_image_which/</link>
-      <description><![CDATA[如何创建随功能变化的动画/图像类型？ 我说的是像 GTA 或其他游戏那样也许是游戏，当我们去车库时，当我们改变颜色和零件时，我们面前的汽车就会显示出来。  如果我有一个电脑构建网站，并且我想在用户选择某些内容时执行此操作，它会更改 gta 或类似内容的方式。 我们如何通过代码获得此内容？教程，哪种语言或任何帮助都可以.. 谢谢   由   提交/u/Key-Opinion1608   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckog9l/how_to_create_the_type_of_animation_image_which/</guid>
-      <pubDate>Sun, 05 May 2024 10:43:10 GMT</pubDate>
-    </item>
-    <item>
       <title>HTML 标签：详细指南和用法 - Makemychance</title>
       <link>https://www.reddit.com/r/programming/comments/1cknpft/html_tags_detailed_guide_usage_makemychance/</link>
       <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
@@ -109,6 +95,20 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cklfdi/exactly_what_to_say_in_code_reviews/</guid>
       <pubDate>Sun, 05 May 2024 07:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么选择 ULID 而不是传统的 UUID 或 ID 来进行数据库标识？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</link>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</guid>
+      <pubDate>Sun, 05 May 2024 06:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>闯入科技就业市场：如何脱颖而出并获得关注</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</link>
+      <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</guid>
+      <pubDate>Sun, 05 May 2024 01:05:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
