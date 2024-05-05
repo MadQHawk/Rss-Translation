@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 05 May 2024 12:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:14:49 GMT</lastBuildDate>
+    <item>
+      <title>Google 日历重复事件和通知到底是如何工作的？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cktb9b/how_exactly_google_calendar_recurring_events_and/</link>
+      <description><![CDATA[有人可以帮助我了解 GCal 如何使用 RRULE 处理重复事件吗？事件的应用内/网络应用通知也会在客户端触发吗？ 我的目标是了解 GCal 如何在数据库中存储重复事件以及它如何发送即将发生的事件的提醒？   由   提交 /u/AcanthaceaeFun1502   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cktb9b/how_exactly_google_calendar_recurring_events_and/</guid>
+      <pubDate>Sun, 05 May 2024 15:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何应对架构的演变？示例存储库的演化架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckt200/how_to_approach_the_evolution_of_your/</link>
+      <description><![CDATA[ 由   提交/u/meaboutsoftware  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckt200/how_to_approach_the_evolution_of_your/</guid>
+      <pubDate>Sun, 05 May 2024 14:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助处理大学里的 ERD（笔记应用程序）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cksko6/need_help_with_my_erd_in_college_note_taking_app/</link>
+      <description><![CDATA[ 由   提交/u/Interesting_Pen6050   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cksko6/need_help_with_my_erd_in_college_note_taking_app/</guid>
+      <pubDate>Sun, 05 May 2024 14:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>TyphoonCon 2024 即将来临！ 🔖 使用代码“TyphoonCon10”即可享受会议门票 10% 的折扣。 🌪️ 不要错过亚洲最好的全进攻性安全会议。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckr1kj/typhooncon_2024_is_just_around_the_corner_use/</link>
+      <description><![CDATA[ 由   提交 /u/Marsy_star    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckr1kj/typhooncon_2024_is_just_around_the_corner_use/</guid>
+      <pubDate>Sun, 05 May 2024 13:16:01 GMT</pubDate>
+    </item>
     <item>
       <title>使用 cookie 在 PHP 中创建安全的“记住我”脚本</title>
       <link>https://www.reddit.com/r/programming/comments/1ckpq0n/creating_a_secure_remember_me_script_in_php_with/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>我需要帮助</title>
       <link>https://www.reddit.com/r/programming/comments/1ckp5im/i_need_help/</link>
-      <description><![CDATA[嗨，我是编程新手（几乎没有知识），我想编写一个 fc24 自动购买器。有人能帮我或给我一些提示吗    提交人    /u/Murky-Philosophy2968   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是编程新手（几乎没有知识），我想编写一个 fc24 自动购买器。谁能帮助我或给我提示   由   提交/u/Murky-Philosophy2968   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckp5im/i_need_help/</guid>
       <pubDate>Sun, 05 May 2024 11:28:41 GMT</pubDate>
     </item>
@@ -48,7 +76,7 @@
       <pubDate>Sun, 05 May 2024 11:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>.NET Aspire Preview 6：增强的安全性和测试、新功能等</title>
+      <title>.NET Aspire Preview 6：增强的安全性和测试、新功能等等</title>
       <link>https://www.reddit.com/r/programming/comments/1ckox7t/net_aspire_preview_6_enhanced_security_and/</link>
       <description><![CDATA[ 由   提交/u/almirvuk  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckox7t/net_aspire_preview_6_enhanced_security_and/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cklfdi/exactly_what_to_say_in_code_reviews/</guid>
       <pubDate>Sun, 05 May 2024 07:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么选择 ULID 而不是传统的 UUID 或 ID 来进行数据库标识？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</link>
-      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</guid>
-      <pubDate>Sun, 05 May 2024 06:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>闯入科技就业市场：如何脱颖而出并获得关注</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</link>
-      <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</guid>
-      <pubDate>Sun, 05 May 2024 01:05:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>android-luks：“一款允许使用 USB 配件模式安全 LUKS 解锁而无需输入 LUKS 密码的应用程序。当前状态是：稳定的概念证明。” “应用程序已测试”的智能手机：“Xiaomi A3 (Android 11)”、“Google Pixel 3 (Android 12)”和“Samsung A54 (Android 13)”。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</guid>
-      <pubDate>Sun, 05 May 2024 00:54:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>变形金刚仪表板🤖📈</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckea92/transformers_dashboard/</link>
-      <description><![CDATA[ 由   提交/u/v4nn4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckea92/transformers_dashboard/</guid>
-      <pubDate>Sun, 05 May 2024 00:03:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

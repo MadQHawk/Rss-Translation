@@ -4,9 +4,51 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 May 2024 12:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:15:12 GMT</lastBuildDate>
     <item>
-      <title>现在 jQuery 还很酷吗？</title>
+      <title>我怎样才能创建这个输入设计？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckt7hr/how_can_i_create_this_input_design/</link>
+      <description><![CDATA[      我希望将左侧的输入样式设置为与右侧的输入类似但我在使用顺风时遇到困难。我怎样才能构建它，使其外部颜色不同，中间为白色？ https://preview.redd.it/7kr2ytvehmyc1.png?width=414&amp;format=png&amp;auto=webp&amp;s=7e63c20ab9f8b8a4026324 bf3834708f1820aa2b 我正在使用顺风造型。我需要隐藏当前输入并使用 div 创建自定义输入吗？ `` &lt;div className=&quot;py-1 pr-2&quot;&gt; &lt; ;输入 aria-label={\\\\\\\\\\\\\\\\`${item.title}-radio-button\\\\\\\\\\\\\\\`} className=“size-4accent-sky-700 active:ring-sky-700 focus:rounded-full focus:accent-sky-700 focus:ring-2 focus:ring-sky-700” id={\\\\\\\[item.id\\\\\\\](http://item.id/)} type=“无线电”名称={名称} 值={item.value} defaultChecked={item.defaultValue === true || i === 0} /&gt; &lt;/div&gt; ``   由   提交/u/pistolpeter1111   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckt7hr/how_can_i_create_this_input_design/</guid>
+      <pubDate>Sun, 05 May 2024 15:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将 godaddy 域名连接到我的 Google 网站？说记录名称 www 与另一条记录冲突。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckshbj/how_do_i_connect_a_godaddy_domain_to_my_google/</link>
+      <description><![CDATA[要链接它，我必须使用 ghs.googlehosted.com&lt; /a&gt; 在 DNS 设置上，但它已经有一个“www”连接到[我的网站名称]并说我无法编辑它。我该如何更改它，因为它说我无法编辑该记录？   由   提交 /u/galassasa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckshbj/how_do_i_connect_a_godaddy_domain_to_my_google/</guid>
+      <pubDate>Sun, 05 May 2024 14:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络信函 - 您有兴趣吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckrqkt/the_web_letter_would_you_be_interested/</link>
+      <description><![CDATA[当我正在经历学习网页设计和开发的旅程时，我想到开始发布一份（可能是每周）时事通讯，分享有关以下方面的所有事情的概述网络。意味着有用的工具、设计技巧、新闻和类似的东西。但在开始之前我想检查一下：您想要这样的新闻通讯   由   提交 /u/Dezaku   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckrqkt/the_web_letter_would_you_be_interested/</guid>
+      <pubDate>Sun, 05 May 2024 13:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 信号标准提案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckqruz/javascript_signals_standard_proposal/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckqruz/javascript_signals_standard_proposal/</guid>
+      <pubDate>Sun, 05 May 2024 13:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试学习前端 Web 开发，并且正在尝试运行在 github 上找到的网站，但我不断收到此错误，有谁知道我如何开始解决此问题或问题的根源是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckqmd7/i_am_trying_to_learn_frontend_web_development_and/</link>
+      <description><![CDATA[    /u/traps-are-notgay   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckqmd7/i_am_trying_to_learn_frontend_web_development_and/</guid>
+      <pubDate>Sun, 05 May 2024 12:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助决定正确的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ckqgbf/help_on_deciding_on_the_right_tool/</link>
+      <description><![CDATA[您好，我的任务是为一家小公司制作一个网站。我了解 HTML/CSS，并且很久以前就做过一些 Javascript 教程，但除此之外我对 webdev 真的一无所知。  我被要求制作的网站由几个静态页面、一个包含链接到外部文章的文章存根列表的新闻页面和一个联系页面组成。我不完全确定新闻页面是否需要真正动态。他们给了我该公司的另一种语言/国家的页面，并以新闻列表作为参考，我看到这是一个 WordPress 页面，但我猜它是硬编码的，因为没有任何比 2022 年更新的文章。 所以，我正在尝试在使用 Hugo 还是使用 Wordpress 之间做出决定，然后只查看所有内容。然而，当我之前通过 cpanel 使用 Wordpress 时，用户界面感觉非常笨重和缓慢，每当我在 google 上搜索如何使用它时，我都会得到很多类似内容的结果，告诉我为每个应用程序安装这个或那个插件。小东西。当我查看所有这些内容时，我很难分辨什么是好的做法，什么不是，而且我会看到很多不同的文章，用不同的方式做同样的事情。  我知道 Hugo 是一个静态站点生成器，但是我可以用它来做一些事情，比如联系表单、生成文章存根以及可能的电子商务吗？我不介意编写一些 Javascript 并使用第三方库进行支付处理或其他任何内容，只要它不需要一些奇怪的东西即可与 Hugo 一起使用。   由   提交/u/blastmodedev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ckqgbf/help_on_deciding_on_the_right_tool/</guid>
+      <pubDate>Sun, 05 May 2024 12:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>jQuery 现在还很流行吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckpegc/is_jquery_still_cool_these_days/</link>
       <description><![CDATA[在多年来主要专注于设计之后，我有点回到 webdev 了。 我曾经在几乎每个前端开发项目都很难想象没有它的生活。 人们还在使用它还是有更好的替代品？我主要只在 WordPress 网站上工作...而不是应用程序或任何东西，所以不想学习普通 JavaScript，因为这感觉完全是多余的。    ;由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckpegc/is_jquery_still_cool_these_days/</guid>
@@ -15,12 +57,12 @@
     <item>
       <title>还有人像 CitrousOyster 一样杀死它吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckpadp/anyone_else_killing_it_like_citrousoyster/</link>
-      <description><![CDATA[那些制作静态网站并靠他提供的一次性付款和订阅赚钱的人。在过去的几年里，还有其他人遵循他的定价计划吗？发现类似的成功吗？我正在考虑走这条路并想要一些社会证明。   由   提交/u/BowserBrows  [链接] [评论]]]></description>
+      <description><![CDATA[伙计们制作静态网站并利用他提供的一次性付款和订阅赚钱。过去几年还有其他人遵循他的定价计划并取得类似的成功吗？我正在考虑走这条路，想要一些社会证明。    提交人    /u/BowserBrows   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckpadp/anyone_else_killing_it_like_citrousoyster/</guid>
       <pubDate>Sun, 05 May 2024 11:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>Zod + React Hoom 条件表单问题</title>
+      <title>Zod + React Hoom 表格条件问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/</link>
       <description><![CDATA[假设您有一个表单，可以有额外的必填字段，也可以没有。 例如，如果用户是登录后，我们知道他们的名字、姓氏和电子邮件，因此我们不必向用户询问这些字段。我们不需要它们，而且我们根本不显示这些字段。 如果用户未登录，那么这些都是必需的。  ​ 需要明确的是，这些并不是唯一的字段。这些是额外的字段。  那么，问题是：使用 zod 和 React hook 表单的正确方法是什么？你如何告诉 zod 这些额外的字段有时是必需的，有时不是？ ​ ​ ​&lt; /p&gt; ​ ​   由   提交/u/blind-octopus  /u/blind-octopus reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckp35e/zod_react_hoom_form_question_on_conditional/</guid>
@@ -55,13 +97,6 @@
       <pubDate>Sun, 05 May 2024 10:54:26 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具，可以使用免费的 AI API 来比较任何产品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckolzc/i_created_a_tool_that_compares_any_products_using/</link>
-      <description><![CDATA[上周，当每个人都在为兔子 r1 与人类 ai pin 争论时，我创建了一个小工具，它浏览了所有 YouTube 视频，并给了我一个评论两者都是。 结果非常好，所以我决定将其制作成一个网站，免费提供这个有点具有挑战性，但我找到了正确的 API！ &lt; p&gt;我正在使用 Next.js (14)、Supabae（用于数据库和身份验证）、Turso（主要作为长文本存储）、Groq（AI API）和 Gemini（来自 google） 很高兴回答任何技术问题。请随时向我提供有关用户体验或想法的反馈🙏， 链接：https://promnai.com&lt; /p&gt;   由   提交/u/Ofily0x0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckolzc/i_created_a_tool_that_compares_any_products_using/</guid>
-      <pubDate>Sun, 05 May 2024 10:53:45 GMT</pubDate>
-    </item>
-    <item>
       <title>网络开发领域的新手，有什么建议吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckol45/new_to_the_world_of_web_development_any_advice/</link>
       <description><![CDATA[大家好，我是 Web 开发新手，最近刚刚开始练习 Html 和 CSS 基础知识，有什么建议吗？   由   提交 /u/Short-Celebration-33   [链接] [评论]]]></description>
@@ -74,41 +109,6 @@
       <description><![CDATA[请问做网站的人，如果客户需要一个信息丰富的网站，你更喜欢什么？ 我注意到WordPress 上的网站最多有 10 个页面，并且其中的信息不会更新。 我知道谁自己做，这可能更容易、更快，现在我正在谈论 Web 开发人员，为什么要制作一个WordPress 上的网站？如果你可以使用html，它会更快。 更新！ 我认为人们不明白我在问什么，有些网站只有5页，我想了解为什么Web开发人员在wordpress上制作它们： 原因： 懒惰 不懂html、php？ &lt; p&gt;更多？   由   提交 /u/LeTravelMag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckofvr/html_website_vs_wordpress/</guid>
       <pubDate>Sun, 05 May 2024 10:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckna2z/collab_on_project/</link>
-      <description><![CDATA[嘿，Web 开发人员！ 我是一名后端软件工程师，正在从事一个业余项目。我的项目是完全构建的 FE 和 BE，但是我想添加新功能，并且需要 FE 工程师来处理此问题。目前，该网站每月约有 2,500 名访问者，我希望努力获得 30k - 50k 的访问量。 我可以在后端完成所有操作，但我对前端/反应不太了解。我正在寻找懂 React 和前端开发的人来参与这个项目。 该网站是半成人相关的（与 Onlyfans 相关），但是，上面没有任何 NSFW 内容。该网站是 https://fanclan.io 如果有人有兴趣与我一起从事此工作，并且有反应/前端经验，请评论或私信！   由   提交 /u/ZaAlphaMale   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckna2z/collab_on_project/</guid>
-      <pubDate>Sun, 05 May 2024 09:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端开发！<3 CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckmrr7/backend_dev_3_css/</link>
-      <description><![CDATA[作为后端开发人员，您遇到的最令人沮丧或最复杂的 CSS 问题是什么？有哪些设计模式对您来说似乎无法在 CSS 中创建？您是否发现一些特定的事情（过于）复杂？诸如定位、动画等。   由   提交/u/Alarmed_Judgment_138   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckmrr7/backend_dev_3_css/</guid>
-      <pubDate>Sun, 05 May 2024 08:40:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有房地产网站都使用 Google 地图 API 集成（Zillow.com、idealista.com）而不是其他服务是否有原因？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckmnta/is_there_a_reason_why_all_real_state_websites_use/</link>
-      <description><![CDATA[我想开发一个与这些类似的网站作为一个项目，但如果我设法获得数千个用户，API 成本似乎会贵得离谱。这是真的还是我错过了什么？    由   提交/u/Hohoho7878   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckmnta/is_there_a_reason_why_all_real_state_websites_use/</guid>
-      <pubDate>Sun, 05 May 2024 08:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strapi + Astro 在 Hetzner 上使用 Webhooks</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cklomh/strapi_astro_using_webhooks_on_hetzner/</link>
-      <description><![CDATA[大家好，我有一个客户希望我构建一个简单的静态主页，其中包含一些新闻/博客元素。我想使用strapi作为cms，以便客户可以轻松地发布新闻和博客更新。然后 Strapi 应该触发 Webhooks 以便 Astro 进行更新。我想在 Hetzner VPS 上执行此操作。首先，这有道理吗？我以前从未像这样使用过 Strapi，但是在 Strapi 更新上重新部署和生成静态站点元素是这里的方法，不是吗？  另一个问题是，由于客户还需要企业电子邮件（并且我不想设置电子邮件服务器），因此我需要将域连接到电子邮件提供商（最好是免费的），而其中一个可以你们推荐吗？我听说过 Google Workspace，但从未实际使用过它，它好不好还是有更好的替代方案？   由   提交/u/frankakn7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cklomh/strapi_astro_using_webhooks_on_hetzner/</guid>
-      <pubDate>Sun, 05 May 2024 07:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源教育科技项目寻求参与与合作🙌🏻</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cklez1/open_source_edtech_project_looking_for/</link>
-      <description><![CDATA[      https://taboo-ai.com/ 大家好！我创建了这个项目https://taboo-ai.com/，它使用人工智能来帮助英语学习者练习英语词汇。目前有来自不同方面和主题的 129 个主题，我每周都会进行每周主题投放以添加新主题。我为 Taboo AI 用户提供了一个门户，以便他们也能够贡献新主题。我希望通过 Taboo AI，英语学习者可以使用这个平台作为一个有趣的小游戏来帮助他们的英语词汇练习。 您可以尝试一下，它是完全免费的，如果您登录，您可以保存您的结果并查看有关您的游戏玩法的一些统计数据。还有一个“AI生成的主题”如果您在主题列表中没有找到您想要的内容，并且您又懒得向 Taboo AI 提交新主题，您可以使用 AI 生成自定义主题。  所以让我知道你对这款游戏的看法，也欢迎任何反馈！以下是公共 github 存储库的链接：https://github.com/xmliszt/taboo-ai（如果您是）有兴趣查看源代码并可能进行协作🙌🏻 对于那些想知道背后使用的技术堆栈的人： NextJS(fullstack)、Supabase(database &amp; auth)、TailwindCSS(样式）、Sendgrid（电子邮件）、Gemini Pro API(AI)    由   提交/u/bubbling-fish  /u/bubbling-fish  reddit.com/r/webdev/comments/1cklez1/open_source_edtech_project_looking_for/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cklez1/open_source_edtech_project_looking_for/</guid>
-      <pubDate>Sun, 05 May 2024 07:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
