@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Mon, 06 May 2024 15:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 18:19:26 GMT</lastBuildDate>
     <item>
       <title>恶意软件手册</title>
       <link>https://www.opensourceagenda.com/projects/malwarehandbook</link>
       <description><![CDATA[一本涵盖所有恶意软件的书]]></description>
       <guid>https://www.opensourceagenda.com/projects/malwarehandbook</guid>
-      <pubDate>Mon, 06 May 2024 15:15:43 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:26 GMT</pubDate>
     </item>
     <item>
       <title>PPPwn用户界面</title>
       <link>https://www.opensourceagenda.com/projects/pppwnui</link>
-      <description><![CDATA[PPPwnUI 是一个向 TheFlow 创建的 PPPwn 漏洞添加 UI 的程序。]]></description>
+      <description><![CDATA[PPPwnUI 是一个为 TheFlow 创建的漏洞 PPPwn 添加 UI 的程序。]]></description>
       <guid>https://www.opensourceagenda.com/projects/pppwnui</guid>
-      <pubDate>Mon, 06 May 2024 15:15:43 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:26 GMT</pubDate>
     </item>
     <item>
-      <title>刘易斯江行动</title>
-      <link>https://www.opensourceagenda.com/projects/lewisjiang-ops</link>
-      <description><![CDATA[[ICRA&#39;24]“可扩展长期 SLAM 后端的两步非线性因子稀疏化”]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lewisjiang-ops</guid>
-      <pubDate>Mon, 06 May 2024 15:15:43 GMT</pubDate>
+      <title>PVZHybrid 编辑器</title>
+      <link>https://www.opensourceagenda.com/projects/pvzhybrid-editor</link>
+      <description><![CDATA[植物大战僵尸混合版修改器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/pvzhybrid-editor</guid>
+      <pubDate>Mon, 06 May 2024 18:19:25 GMT</pubDate>
     </item>
     <item>
       <title>何凯着装规范</title>
       <link>https://www.opensourceagenda.com/projects/ihe-kaii-dresscode</link>
       <description><![CDATA[DressCode：根据文本指导自动缝纫和生成服装。]]></description>
       <guid>https://www.opensourceagenda.com/projects/ihe-kaii-dresscode</guid>
-      <pubDate>Mon, 06 May 2024 15:15:42 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:25 GMT</pubDate>
     </item>
     <item>
       <title>米洛伊拉·Wxhook</title>
       <link>https://www.opensourceagenda.com/projects/miloira-wxhook</link>
       <description><![CDATA[一个简单，好用，接口多的python微信机器人框架]]></description>
       <guid>https://www.opensourceagenda.com/projects/miloira-wxhook</guid>
-      <pubDate>Mon, 06 May 2024 15:15:42 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:25 GMT</pubDate>
     </item>
     <item>
       <title>海洛免费API</title>
       <link>https://www.opensourceagenda.com/projects/hailuo-free-api</link>
       <description><![CDATA[🚀 海螺AI大模型逆向API白嫖测试【特长：超自然语音】，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。]]></description>
       <guid>https://www.opensourceagenda.com/projects/hailuo-free-api</guid>
-      <pubDate>Mon, 06 May 2024 15:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>旺产X</title>
-      <link>https://www.opensourceagenda.com/projects/wangchanx</link>
-      <description><![CDATA[WangchanX 微调流程]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wangchanx</guid>
-      <pubDate>Mon, 06 May 2024 15:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>柠檬直播</title>
-      <link>https://www.opensourceagenda.com/projects/lemon-live</link>
-      <description><![CDATA[一个简单的web端聚合直播平台 支持 虎牙直播 斗鱼直播 哔哩直播 CC直播 直播源 直播信息 弹幕直播]]></description>
-      <guid>https://www.opensourceagenda.com/projects/lemon-live</guid>
-      <pubDate>Mon, 06 May 2024 15:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVZHybrid 编辑器</title>
-      <link>https://www.opensourceagenda.com/projects/pvzhybrid-editor</link>
-      <description><![CDATA[植物大战僵尸混合版的修改器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pvzhybrid-editor</guid>
-      <pubDate>Mon, 06 May 2024 15:15:41 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:25 GMT</pubDate>
     </item>
     <item>
       <title>辛德雷索胡斯 Base62</title>
       <link>https://www.opensourceagenda.com/projects/sindresorhus-base62</link>
       <description><![CDATA[将字符串、字节和整数编码和解码为 Base62]]></description>
       <guid>https://www.opensourceagenda.com/projects/sindresorhus-base62</guid>
-      <pubDate>Mon, 06 May 2024 15:15:40 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:24 GMT</pubDate>
     </item>
     <item>
       <title>币汇工作坊</title>
       <link>https://www.opensourceagenda.com/projects/coinjoin-workshop</link>
       <description><![CDATA[关于在没有协调器的情况下构建 coinjoin 交易的研讨会]]></description>
       <guid>https://www.opensourceagenda.com/projects/coinjoin-workshop</guid>
-      <pubDate>Mon, 06 May 2024 15:15:40 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>旺产X</title>
+      <link>https://www.opensourceagenda.com/projects/wangchanx</link>
+      <description><![CDATA[WangchanX 微调流程]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wangchanx</guid>
+      <pubDate>Mon, 06 May 2024 18:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>柠檬直播</title>
+      <link>https://www.opensourceagenda.com/projects/lemon-live</link>
+      <description><![CDATA[一个简单的web端聚合直播平台 支持 虎牙直播 斗鱼直播 哔哩直播 CC直播 直播源 直播信息 弹幕直播]]></description>
+      <guid>https://www.opensourceagenda.com/projects/lemon-live</guid>
+      <pubDate>Mon, 06 May 2024 18:19:24 GMT</pubDate>
     </item>
     <item>
       <title>Rclone.js</title>
       <link>https://www.opensourceagenda.com/projects/rclonejs</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/rclonejs</guid>
-      <pubDate>Mon, 06 May 2024 15:15:39 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:23 GMT</pubDate>
     </item>
     <item>
       <title>提示注入</title>
       <link>https://www.opensourceagenda.com/projects/promptinject</link>
-      <description><![CDATA[PromptInject 是一个以模块化方式组装提示的框架，可对 LLM 的稳健性进行定量分析对抗性的即时攻击。 🏆 2022 年 NeurIPS ML 安全研讨会最佳论文奖]]></description>
+      <description><![CDATA[PromptInject 是一个以模块化方式组装提示的框架，用于定量分析 LLM 对对抗性提示攻击的鲁棒性。🏆 最佳论文奖 @ NeurIPS ML Safety Workshop 2022]]></description>
       <guid>https://www.opensourceagenda.com/projects/promptinject</guid>
-      <pubDate>Mon, 06 May 2024 15:15:39 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:23 GMT</pubDate>
     </item>
     <item>
       <title>哪2024年</title>
       <link>https://www.opensourceagenda.com/projects/quals-2024</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/quals-2024</guid>
-      <pubDate>Mon, 06 May 2024 15:15:39 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>自我外科手术</title>
+      <link>https://www.opensourceagenda.com/projects/selfsupsurg</link>
+      <description><![CDATA[“剖析外科计算机视觉的自我监督学习方法”的官方存储库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/selfsupsurg</guid>
+      <pubDate>Mon, 06 May 2024 18:19:22 GMT</pubDate>
     </item>
     <item>
       <title>我进行网络聊天</title>
       <link>https://www.opensourceagenda.com/projects/teneo-web-chat</link>
       <description><![CDATA[基于 Web 的 Teneo 聊天机器人聊天 UI，可嵌入网站中。]]></description>
       <guid>https://www.opensourceagenda.com/projects/teneo-web-chat</guid>
-      <pubDate>Mon, 06 May 2024 15:15:38 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 18:19:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

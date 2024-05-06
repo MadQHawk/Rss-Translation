@@ -4,11 +4,95 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 06 May 2024 15:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 18:18:38 GMT</lastBuildDate>
+    <item>
+      <title>简单的本机 Postgres 更改数据捕获</title>
+      <link>https://www.reddit.com/r/programming/comments/1clonyh/simple_native_postgres_change_data_capture/</link>
+      <description><![CDATA[ 由   提交/u/saipeerdb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clonyh/simple_native_postgres_change_data_capture/</guid>
+      <pubDate>Mon, 06 May 2024 17:22:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程壮举</title>
+      <link>https://www.reddit.com/r/programming/comments/1clo8tc/a_feat_of_engineering/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clo8tc/a_feat_of_engineering/</guid>
+      <pubDate>Mon, 06 May 2024 17:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个程序员在职业生涯中都应该应对的 7 个最具挑战性的项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1clo317/top_7_challenging_projects_every_programmer/</link>
+      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clo317/top_7_challenging_projects_every_programmer/</guid>
+      <pubDate>Mon, 06 May 2024 16:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么开发者拥有跨行业的最佳社区</title>
+      <link>https://www.reddit.com/r/programming/comments/1clns0y/why_developers_have_the_best_community_across/</link>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clns0y/why_developers_have_the_best_community_across/</guid>
+      <pubDate>Mon, 06 May 2024 16:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apache APISIX 游乐场</title>
+      <link>https://www.reddit.com/r/programming/comments/1clnbgv/apache_apisix_playground/</link>
+      <description><![CDATA[ 由   提交/u/lungi_bass  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clnbgv/apache_apisix_playground/</guid>
+      <pubDate>Mon, 06 May 2024 16:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建内存密集型软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1clnb1f/building_memoryintensive_software/</link>
+      <description><![CDATA[ 由   提交/u/dkgs19982   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clnb1f/building_memoryintensive_software/</guid>
+      <pubDate>Mon, 06 May 2024 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 7 小时内构建了什么？ （7天超级应用程序）</title>
+      <link>https://www.reddit.com/r/programming/comments/1clnaa8/i_built_what_in_7_hours_7_days_super_app/</link>
+      <description><![CDATA[ 由   提交/u/navnt5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clnaa8/i_built_what_in_7_hours_7_days_super_app/</guid>
+      <pubDate>Mon, 06 May 2024 16:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 ABI Café 配对您的编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1clmyqb/pair_your_compilers_at_the_abi_café/</link>
+      <description><![CDATA[ 由   提交/u/sanxiyn  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clmyqb/pair_your_compilers_at_the_abi_café/</guid>
+      <pubDate>Mon, 06 May 2024 16:13:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解《变形金刚》中的注意力机制：5 分钟视觉指南。 🧠</title>
+      <link>https://www.reddit.com/r/programming/comments/1clmue2/understanding_the_attention_mechanism_in/</link>
+      <description><![CDATA[ 由   提交/u/ml_a_day  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clmue2/understanding_the_attention_mechanism_in/</guid>
+      <pubDate>Mon, 06 May 2024 16:08:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最喜欢的 10 种增强团队注意力（并恢复理智）的快速方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1clmoot/my_top_10_favorite_fast_ways_to_amplify_team/</link>
+      <description><![CDATA[ 由   提交 /u/ToddLankford   [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1clmoot/my_top_10_favorite_fast_ways_to_amplify_team/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clmoot/my_top_10_favorite_fast_ways_to_amplify_team/</guid>
+      <pubDate>Mon, 06 May 2024 16:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Overflow 与 OpenAI 合作强化全球最受欢迎的大型语言模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1clm94f/stack_overflow_and_openai_partner_to_strengthen/</link>
+      <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clm94f/stack_overflow_and_openai_partner_to_strengthen/</guid>
+      <pubDate>Mon, 06 May 2024 15:44:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>“不是这里发明的”是不可避免的吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cllsk2/is_not_invented_here_inevitable/</link>
+      <description><![CDATA[ 由   提交 /u/31415926535897932379   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cllsk2/is_not_invented_here_inevitable/</guid>
+      <pubDate>Mon, 06 May 2024 15:25:48 GMT</pubDate>
+    </item>
     <item>
       <title>TypeScript 的 Encore</title>
       <link>https://www.reddit.com/r/programming/comments/1clkx9r/encore_for_typescript/</link>
-      <description><![CDATA[  由    /u/TheSwedeheart  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/TheSwedeheart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clkx9r/encore_for_typescript/</guid>
       <pubDate>Mon, 06 May 2024 14:49:57 GMT</pubDate>
     </item>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clkce1/dev_tunnels_an_alternative_to_ngrok_for_net_users/</guid>
       <pubDate>Mon, 06 May 2024 14:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在倡议推出期间亲自作战室的好处</title>
-      <link>https://www.reddit.com/r/programming/comments/1clk9fx/the_benefit_of_inperson_war_rooms_during/</link>
-      <description><![CDATA[  由    /u/chip_1992  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clk9fx/the_benefit_of_inperson_war_rooms_during/</guid>
-      <pubDate>Mon, 06 May 2024 14:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jackson 注释示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1cljtsk/jackson_annotations_with_examples/</link>
-      <description><![CDATA[ 由   提交/u/ram-foss  /u/ram-foss  blackslate.io/articles/jackson-annotations-with-examples&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cljtsk/jackson_annotations_with_examples/</guid>
-      <pubDate>Mon, 06 May 2024 14:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>StackOverflow 与 OpenAI 合作</title>
-      <link>https://www.reddit.com/r/programming/comments/1cljmza/stackoverflow_partners_with_openai/</link>
-      <description><![CDATA[ OpenAI 还将把来自 Stack Overflow 的经过验证的技术知识直接呈现到 ChatGPT 中，让用户轻松访问可信、归因、准确且高度技术性的知识15 年来为 Stack Overflow 平台做出贡献的数百万开发人员支持的知识和代码。  悲伤。    由   提交/u/lppedd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cljmza/stackoverflow_partners_with_openai/</guid>
-      <pubDate>Mon, 06 May 2024 13:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>论用人工智能进行建筑</title>
-      <link>https://www.reddit.com/r/programming/comments/1cljl85/on_building_with_ai/</link>
-      <description><![CDATA[ 由   提交/u/yoel-reddits  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cljl85/on_building_with_ai/</guid>
-      <pubDate>Mon, 06 May 2024 13:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clanga - 视频更新 01</title>
-      <link>https://www.reddit.com/r/programming/comments/1cljadc/clanga_video_update_01/</link>
-      <description><![CDATA[这是 Clanga 的第一周更新 - 我正在构建的个人理财 Web 应用程序，用于取代 Mint    由   提交/u/Specialist_Radish988  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cljadc/clanga_video_update_01/</guid>
-      <pubDate>Mon, 06 May 2024 13:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我分析了代码审查最佳实践一年。这是我学到的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1clj7gi/i_analyzed_code_review_best_practices_for_a_year/</link>
-      <description><![CDATA[ 由   提交/u/mpl1018  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clj7gi/i_analyzed_code_review_best_practices_for_a_year/</guid>
-      <pubDate>Mon, 06 May 2024 13:34:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从未有过 kubectl 指南。</title>
-      <link>https://www.reddit.com/r/programming/comments/1clhzl5/the_guide_to_kubectl_i_never_had/</link>
-      <description><![CDATA[ 由   提交/u/jakepage91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clhzl5/the_guide_to_kubectl_i_never_had/</guid>
-      <pubDate>Mon, 06 May 2024 12:37:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源不是营销</title>
-      <link>https://www.reddit.com/r/programming/comments/1clhoiz/opensource_is_not_marketing/</link>
-      <description><![CDATA[ 由   提交/u/sleepysiding22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clhoiz/opensource_is_not_marketing/</guid>
-      <pubDate>Mon, 06 May 2024 12:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>30,000 小时</title>
-      <link>https://www.reddit.com/r/programming/comments/1clhbxp/30000_hours/</link>
-      <description><![CDATA[ 由   提交/u/breck  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clhbxp/30000_hours/</guid>
-      <pubDate>Mon, 06 May 2024 12:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您没有全面解决基础设施成本（公共云和 K8s）</title>
-      <link>https://www.reddit.com/r/programming/comments/1clgfsn/you_are_not_tackling_your_infra_costs_public/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接]   ; [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clgfsn/you_are_not_tackling_your_infra_costs_public/</guid>
-      <pubDate>Mon, 06 May 2024 11:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gitty - 下载 GitHub 文件和目录</title>
-      <link>https://www.reddit.com/r/programming/comments/1clgbl1/gitty_download_github_file_directory/</link>
-      <description><![CDATA[ 由   提交 /u/worlpaker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clgbl1/gitty_download_github_file_directory/</guid>
-      <pubDate>Mon, 06 May 2024 11:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>流媒体游戏规则改变者：直接写入 S3 的融合货运集群</title>
-      <link>https://www.reddit.com/r/programming/comments/1clgbh3/streaming_game_changer_confluent_freight_clusters/</link>
-      <description><![CDATA[  由    /u/wanshao  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clgbh3/streaming_game_changer_confluent_freight_clusters/</guid>
-      <pubDate>Mon, 06 May 2024 11:06:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
