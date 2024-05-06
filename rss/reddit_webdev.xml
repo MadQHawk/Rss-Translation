@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 06 May 2024 09:15:11 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Mon, 06 May 2024 12:24:28 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找非无头 CMS 来尝试（不是 Wordpress 或 Ghost）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clh0ng/looking_for_a_nonheadless_cms_to_try_out_that/</link>
+      <description><![CDATA[对 Wordpress 或 Ghost 没有任何反对意见（我在个人博客中使用自我化的 Ghost），但我有心情尝试一些不同的东西. 期望的结果是数据可视化项目的前端。它需要能够嵌入 iframes/HTML 对象，尽管我猜现在几乎每个 CMS 都是如此。但除此之外，它不需要做太多事情。只需使用这些嵌入创建一系列页面和/或帖子即可。 我一直想尝试无头 CMS，但是......对于这个项目，我想保持简单。  Craft CMS 在这里出现过几次。还有其他强调简单性和易用性的好选择吗？ 部署到 Linux VPS 上。   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clh0ng/looking_for_a_nonheadless_cms_to_try_out_that/</guid>
+      <pubDate>Mon, 06 May 2024 11:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 EC2 Connect 将镜像从 DockerHub 推送到 EC2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clghle/pushing_image_from_dockerhub_to_ec2_through_ec2/</link>
+      <description><![CDATA[      https://preview.redd.it/ziv1oxn6isyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=0e317dd62d4a9175a467e66d22e7901e535d0400 https://preview.redd.it/nqwehzq6isyc1.jpg?width=1920&amp;format=pjpg&amp; ;汽车=webp&amp;s=f60c7a4bfec5cb12e97ffb65d57d5ab79eb62750 https://preview.redd.it/xyqjn0o6isyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=9d2af415bad4e95d28135851f5455928238fd 29天 https://preview.redd.it/wi5wxxn6isyc1.jpg?width=1920&amp;format=pjpg&amp; ;auto=webp&amp;s=7dd68a8ad3d078cc91c7658a84beb2e901cd6757 https://preview.redd.it/kfubhzn6isyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=e9f629455a4b0d0588596e63709bcb 1865eebd01 https://preview.redd.it/ejcdq2o6isyc1.jpg?width=1920&amp;format =pjpg&amp;auto=webp&amp;s=c1df2b2f696e9e067f2fff5e2faa686530cabacc 不确定我是否朝着正确的方向前进，现在需要在 EC2 Connect 上提供一些命令，以便将映像从 DockerHub 推送到EC2 实例。如果确实如此，请任何人指导用于此目的的命令。   由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clghle/pushing_image_from_dockerhub_to_ec2_through_ec2/</guid>
+      <pubDate>Mon, 06 May 2024 11:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS问题：我的设计师要求自定义“font-size：小”，“中”，“大”等，但我说这不可能，我错了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clg8s1/css_question_my_designers_ask_to_self_define/</link>
+      <description><![CDATA[大家好， 这些类型的原始 CSS 定义（尺寸的书面文字并没有真正说明结果将如何） be) 可能并没有真正被使用，所以我认为我们应该像过去 20 年一样跳过它们。 现在我的设计师要求我定义它们......但我应该如何定义它们？我从事前端开发（几十年来基于网络，90%以上都是原生 HTML 和 CSS），从来没有人问过这个问题。 我深入研究了它，并不清楚是谁，但是有真正的定义“xx-小”、“x-小”等。 ……有人这样说。请给我一些要跳过的论据来尝试改变这些事情。我相信它 - 如果有的话 - 可能是基于浏览器的设置或其他任何东西。 我大部分时间都使用 rem，首先将初始大小设置为固定的 px 数（99%时间 16px)。 谢谢。 更新： 谢谢大家。您所说的都是正常的工作方式，但这些人真的很喜欢定义“字体大小：小”到以 px 或 rem 为单位的固定数字，这是行不通的。 除此之外：这些确切的设置实际上是如何定义的？浏览器引擎本身是否会说“哦，看，字体大小小 - 我将执行默认字体大小设置的 80%”。或者它在现实生活中是如何运作的？   由   提交/u/force73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clg8s1/css_question_my_designers_ask_to_self_define/</guid>
+      <pubDate>Mon, 06 May 2024 11:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户投资组合网站的源代码控制和托管标准是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clfzpg/what_are_the_standards_for_source_control_and/</link>
+      <description><![CDATA[嘿，我被签约为我的一个朋友（他们是一名 UI 设计师）创建一个作品集网站。这是我第一次从事合同工作/自由职业，所以我不确定这种工作的“规则”或适当的期望。即使他们是我的朋友，并且他们对我创建网站的方式很灵活，但我仍然希望至少保持半专业性，就像外部客户希望他们的网站如何托管一样，因为他们为我的工作付费，而我希望在未来进一步深入自由职业。 我有一些问题，想就这种情况征求一些专业意见。  我可以将代码放在我的个人存储库中吗？还是应该为我的客户创建一个并将代码推送到那里？（我可能想展示我在自己的作品集中构建的内容） 拥有公共或私人存储库更好吗？唯一“敏感”的我猜这些信息可能就是他们的简历。 关于托管选项以及如何托管他们的网站，您有什么建议或推荐吗？我使用 Netlify（免费）托管了我的个人投资组合，并从 Porkbun 购买了一个域名。这是一个足够好的过程吗？我们还希望以尽可能便宜的价格托管它，但如果需要，也可以花钱。  任何答案都会有很大帮助。如果需要，我可以进一步说明。干杯。    提交人    /u/jonderp1209   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clfzpg/what_are_the_standards_for_source_control_and/</guid>
+      <pubDate>Mon, 06 May 2024 10:46:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 扩展程序可以显示网络字体吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clfn3y/chrome_extension_to_show_web_fonts/</link>
+      <description><![CDATA[我目前使用一个名为“CSS Peeper”的 Chrome 插件，但它似乎几乎不起作用...有人知道任何替代方案吗？ 我也使用 Chrome 检查器，但我更希望能够判断实际加载了哪种字体，而不仅仅是字体堆栈中的第一个字体   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clfn3y/chrome_extension_to_show_web_fonts/</guid>
+      <pubDate>Mon, 06 May 2024 10:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>向团队添加另一名开发人员的效率</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clfgyk/efficiency_with_adding_another_dev_to_the_team/</link>
+      <description><![CDATA[你好， 我是一名为初创公司单独工作的新开发人员，从那时起我就从头开始构建他们的应用程序11月左右。我的老板希望通过向团队添加另一名开发人员（但不是全职）来加速这一过程，就像自由职业者一样，但来自可以“借用”开发人员的开发机构。他们的一些开发人员负责小任务。 我听到很多人这样说“拥有一个开发人员 = 需要 1 天才能完成一项功能，拥有两个开发人员 = 需要 2 天才能完成相同的功能”特征”就像添加开发会增加开发时间一样。  这有多真实？是因为代码审查还是在 github 上设置了规则什么的？ 谢谢   由   提交 /u/armlesskid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clfgyk/efficiency_with_adding_another_dev_to_the_team/</guid>
+      <pubDate>Mon, 06 May 2024 10:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议：将 Next.js 网站的域名从 Wix 转移到 Vercel</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clf85w/need_advice_transferring_domain_from_wix_to/</link>
+      <description><![CDATA[嘿， 我正在寻求有关我最近正在进行的项目的一些指导。我的客户通过 Wix 购买了 .com 域名，但我使用 Next.js 开发了他们的网站，并且不喜欢使用 Wix 进行托管。是否可以将域名从 Wix 转移到 Vercel 或其他主机以利用我的 Next.js 网站？ 如果你们对域名转移和托管提供商有任何见解或经验，我将不胜感激。如果有人成功地进行了类似的转换或对该过程有建议，我很想听听他们的意见！在此先感谢您的帮助。    由   提交 /u/Sad_Diet3698   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clf85w/need_advice_transferring_domain_from_wix_to/</guid>
+      <pubDate>Mon, 06 May 2024 09:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 是否破坏了“lennyface unicode”（桌面）的搜索结果布局？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clf2s7/has_google_broken_the_search_results_layout_for/</link>
+      <description><![CDATA[       由   提交/u/cryptix-  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clf2s7/has_google_broken_the_search_results_layout_for/</guid>
+      <pubDate>Mon, 06 May 2024 09:44:27 GMT</pubDate>
+    </item>
     <item>
       <title>caniemail.com（类似于 caniuse，但用于电子邮件内容）</title>
       <link>https://www.reddit.com/r/webdev/comments/1clek9i/caniemailcom_like_caniuse_but_for_email_content/</link>
@@ -36,7 +92,7 @@
     <item>
       <title>有人会使用 Apache Kafka 作为后端吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cld6ad/would_anybody_use_apache_kafka_as_backend/</link>
-      <description><![CDATA[您好，我只是想知道，如果与电子商务网站或 kafka 通常用于的任何用途有关，自由职业者是否会使用 kafka 作为后端？    提交人    /u/Visual-Earth   [link] [评论]]]></description>
+      <description><![CDATA[您好，我只是想知道自由职业者是否会使用 kafka 作为后端，如果它与电子商务网站或 kafka 通常获得的任何内容有关用于？ 编辑：在第一个评论之后，我意识到我应该用 Java 后端来澄清   由   提交/u/Visual-Earth  /u/Visual-Earth  reddit.com/r/webdev/comments/1cld6ad/would_anybody_use_apache_kafka_as_backend/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cld6ad/would_anybody_use_apache_kafka_as_backend/</guid>
       <pubDate>Mon, 06 May 2024 07:29:27 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[更具体地说，这些代理是如何工作的？如果我有一家商店，想要一个只包含我的地址、电话号码和一些图片以及一些联系表格的网站。显然图片/电话号码应该由客户端管理（我认为这是cms？）那么在这种情况下他们使用Wordpress吗？我的第二个问题是，我看到很多 WordPress 托管提供商，但他们没有提到 cms 部分，这是否总是包含在 Wordpress 中？如果我对 React Web dev 或一些 jquery mvc 缺乏了解，我可以调整这些 WordPress 模板吗？   由   提交 /u/Unhappy-Albatross-67   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clc45w/what_is_the_bestcheapest_way_to_create_basic_shop/</guid>
       <pubDate>Mon, 06 May 2024 06:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>语言学习网络应用程序的技术堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clbvkj/tech_stack_for_language_learning_web_app/</link>
-      <description><![CDATA[我想制作一个全栈网络应用程序，帮助人们学习越南语声调并允许以下功能：  帐户创建，根据进度升级级别 在后端存储词汇和例句，并连接到 Google 翻译等 API，以捕获每个阅读和阅读能力的音频样本 分析文本并录制用户麦克风以检查他们的答案 根据人工智能工具分析向他们提供反馈 用户可以将问题/词汇卡/例句保存到自己的列表中稍后参考  我是一名初级前端开发人员，对后端没有做过太多工作，我想学习。 Firebase 是否是管理我需要创建用于测试用户的数千个词汇项的有效方法？我想保持后端轻量级和简单，因为我没有太多经验，说实话，它主要是文本字段 任何用于检查书面文本或音频的语言模型工具的建议文件与 Google 翻译中的文本或其中的音频足够相似吗？ 前端 - 计划使用 NextJS 或 Vite 谢谢   由   提交 /u/sillymanbilly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clbvkj/tech_stack_for_language_learning_web_app/</guid>
-      <pubDate>Mon, 06 May 2024 05:58:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过登录程序后，应用程序在 2 个视图上分离</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clbqrh/app_separation_on_2_views_after_passing_the_login/</link>
-      <description><![CDATA[      那么根据用户角色分离我的应用程序和渲染内部应用程序的逻辑是否正确？也许有更好的做法？  ​ https://preview.redd.it/g2j1658tvqyc1.png?width=741&amp;format=png&amp;auto=webp&amp;s=211ea799c0e3d1592313f4df2fe728f13d5 cd5ce   由   提交 /u/Vzaje   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clbqrh/app_separation_on_2_views_after_passing_the_login/</guid>
-      <pubDate>Mon, 06 May 2024 05:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>React Router 中的 BrowserRouter 和 HashRouter 有什么区别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clbjx6/what_is_the_difference_between_browserrouter_and/</link>
-      <description><![CDATA[所以我已经在 gh 页面上部署了我的构建，并且在我从 BrowserRouter 切换到 HashRouter 之前无法正确导航我的应用程序，这很糟糕吗？当我将其部署到另一个主机上时，是否必须将其切换回 BrowserRouter？   由   提交 /u/Vzaje   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clbjx6/what_is_the_difference_between_browserrouter_and/</guid>
-      <pubDate>Mon, 06 May 2024 05:37:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们如何使这些图像滚动起来？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1claz6i/how_are_they_animating_these_images_on_scroll/</link>
-      <description><![CDATA[   这是JS和CSS还是一个包？预先感谢您提供任何见解。   由   提交/u/Source0fAllThings  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1claz6i/how_are_they_animating_these_images_on_scroll/</guid>
-      <pubDate>Mon, 06 May 2024 05:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的理发师制作一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clakbm/making_a_site_for_my_barber/</link>
-      <description><![CDATA[正如标题所述，我正在为我的理发师建立一个网站。我的知识范围包括对 html/css/javascript 的相当扎实的理解以及对 react 的基本了解。我的问题是我如何以类似于此网站的方式处理预约：https://cryptobarbershops.com/cp_app_hour_booking-id10/ 。是否有任何第三方应用程序可以集成用于预订？    提交人    /u/MindlessLiving7949   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clakbm/making_a_site_for_my_barber/</guid>
-      <pubDate>Mon, 06 May 2024 04:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人因为担心一觉醒来就会看到云服务提供商的巨额账单而感到不知所措吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clabq9/does_anyone_else_feel_paralyzed_by_the_fear_of/</link>
-      <description><![CDATA[制作一个作品集，我有很多图像，将它们全部放入代码库中，因为资产看起来很慢、臃肿且糟糕。  解决方案是使用 AWS S3 或 Cloudflare 的 R2 或 Google Cloud Storage，使用我公司的卡没问题😂 但是将我自己的 CC 信息放在这些地方会让人感到恐惧有时让我彻夜难眠的我......（我只是一个巨大的胆小鬼） 还有其他人有这样的感觉吗？ 编辑：  使用 Cloudflare R2，希望将来我不必在 HN/Twitter 上发布任何内容。   由   提交 /u/Unhappy_Meaning607   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clabq9/does_anyone_else_feel_paralyzed_by_the_fear_of/</guid>
-      <pubDate>Mon, 06 May 2024 04:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digitalocean 封锁了我的帐户。这是令人担忧的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl9zw0/digitalocean_blocked_my_account_this_is_concerning/</link>
-      <description><![CDATA[      嘿，👋 我正在查看 AWS 和 DO一个业余项目。最初，继续使用 AWS，但由于其简单性而决定改用 DO。但我永远无法访问我的 DO 帐户。当我联系他们的支持团队时，我收到了他们发来的以下电子邮件。据我所知，我只是在 DO 上开设了一个帐户，将我的卡与该帐户连接起来，从未部署过任何东西。  关于这个，我想知道： 1.这里有人遇到同样的问题吗？2.我已经为客户在DO上部署了多个应用程序/网站。这种情况也会随机发生在合法的生产服务器上吗？ 3. 还有其他简单的 DO 替代方案吗？我需要 VPS 服务。（请从您的建议中排除 AWS、Azure 和 GC） 谢谢，等待您的意见。  https://preview.redd .it/cnwat157bqyc1.png?width=765&amp;format=png&amp;auto=webp&amp;s=42fa21114b75efa4f36ea27c48b2c2f8da15d782   由   提交 /u/SurelyFML   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl9zw0/digitalocean_blocked_my_account_this_is_concerning/</guid>
-      <pubDate>Mon, 06 May 2024 04:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您首选的后端框架是什么？为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl9x1a/what_is_your_preferred_backend_framework_why/</link>
-      <description><![CDATA[我将启动一个新项目（以金融服务为重点的 CRM）并尝试决定使用哪个后端。我对 Django、.NET 和 .NET 有一些经验。 Node/Express 然而我的后端技能相当有限。我很好奇人们最喜欢的后端是什么以及为什么   由   提交/u/thebreadmanrises  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl9x1a/what_is_your_preferred_backend_framework_why/</guid>
-      <pubDate>Mon, 06 May 2024 03:59:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
