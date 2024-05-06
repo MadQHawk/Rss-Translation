@@ -3,8 +3,15 @@
   <channel>
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
-    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 06 May 2024 12:23:10 GMT</lastBuildDate>
+    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
+    <lastBuildDate>Mon, 06 May 2024 15:13:00 GMT</lastBuildDate>
+    <item>
+      <title>Make.com / Notion 自动化挑战</title>
+      <link>https://www.reddit.com/r/automation/comments/1clk9sb/makecom_notion_automation_challenge/</link>
+      <description><![CDATA[我有 2 个概念数据库，第一个是时间表，第二个是关于休假请求（休假）的。 在时间表数据库中，我有：  - 开始日、结束日，  - 链接到叶子的关系字段。  我的目标是将所有已批准的请求（状态已批准）链接到时间表，其中休假请求开始日期位于时间表的开始日期和结束日期之间。  ​ 如何使用 make.com 进行链接字段。   由   提交/u/Clean_Style_3410   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1clk9sb/makecom_notion_automation_challenge/</guid>
+      <pubDate>Mon, 06 May 2024 14:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>联系表和免费 PDF 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sun, 05 May 2024 16:18:37 GMT</pubDate>
     </item>
     <item>
-      <title>Alteryx</title>
+      <title>阿尔泰克斯</title>
       <link>https://www.reddit.com/r/automation/comments/1ckcm91/alteryx/</link>
       <description><![CDATA[从哪里学习alteryx和UI。    由   提交 /u/Few-Translator-1376   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ckcm91/alteryx/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>2024 年人工智能开发者路线图</title>
       <link>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</link>
-      <description><![CDATA[        提交人    /u/High_Sleep3694   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</guid>
       <pubDate>Thu, 02 May 2024 09:48:08 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您对如何设置自动化以自动固定我在 Pinterest 上发布的新帖子有什么想法吗？ Pinterest 有这是一个对 Instagram 图片执行此操作的原生功能，它确实帮助我的流量增长（每月超过 10 万次浏览！）我很乐意对线程执行同样的操作。这会更复杂，因为 Instagram 有图像，而线程只有文本。我什至不确定这是否可能，但我很乐意被你的天才想法所震撼！   由   提交 /u/Different_Sand3459   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cghata/automation_to_autopin_threads_to_pinterest/</guid>
       <pubDate>Tue, 30 Apr 2024 02:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>自主烹饪机器人</title>
-      <link>https://www.reddit.com/r/automation/comments/1cg78lp/autonomous_cooking_robot/</link>
-      <description><![CDATA[      与您分享我一直在从事的一个项目 - 一个完全自主的食品烹饪机器人，它可以从头到尾处理几乎任何一锅（未来有可能有更多选择）食谱。这款机器人有潜力成为家庭厨师和有抱负的厨师的游戏规则改变者。 以下是它可以处理的主要功能：  自动切碎、研磨、并准备所有原料（蓝色附件） 清洗、蒸、煮、煎、慢煮食物（带有绿色支架的紫色装置） 精确测量原料并按照食谱进行烹饪a T 恤 完成后清洁所有锅碗瓢盆和器皿（红色 - 迷你洗碗机附件） 为干湿食材提供充足的存储空间，并可冷藏 &lt; /ul&gt; 需要零人际互动 - 只需计划一周的膳食，加载原料，然后让机器人做它的事情。它可以 24/7 烹制早餐、午餐和晚餐。 该机器人使用 XY 龙门系统和 3 轴机械臂（黄色）以及各种附件（白色盒子连接到左）处理烹饪过程的每一步。它几乎可以处理任何一锅饭，从汤和炖菜到咖喱和砂锅菜。 主锅也可以更换为其他附件，如煎锅、空气炸锅、烤箱或炒锅，从而允许实现更多烹饪多功能性。或者，可能会有包含多个附件的更大版本。 所以，这是一个大问题 - 您会对这样的自主烹饪机器人感兴趣吗？想象一下，带有所示附件的一锅版本的起价为 5,000-8000 美元，带有多种烹饪选项的较大型号的起价为 12,000-15,000 美元。 我真的很想听听您的想法和反馈。您认为这个机器人会改变厨房的游戏规则吗？您希望添加或改进哪些功能？请在评论中告诉我！  https://preview.redd.it/zou32c3c6hxc1.png?width=1237&amp;format=png&amp;auto=webp&amp;s=5e0fa03fd263f5d155c7ee35ca28bba63f17783f https://preview.redd.it/jsepwb3c6hxc1.png?width=1269&amp;format=png&amp;放大器;自动= webp&amp;s=2a6c92f17fdc13d0a092b020815c63d2d2e9b657 https://preview.redd.it/2g5ddc3c6hxc1.png?width=1282&amp;format=png&amp;auto=webp&amp;s=577c99e7717024afbf0b2c0838d65f05bdd80ccc   由   提交 /u/AutoFoodBot   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cg78lp/autonomous_cooking_robot/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:59:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

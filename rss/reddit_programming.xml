@@ -4,11 +4,81 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 06 May 2024 12:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:14:50 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript 的 Encore</title>
+      <link>https://www.reddit.com/r/programming/comments/1clkx9r/encore_for_typescript/</link>
+      <description><![CDATA[  由    /u/TheSwedeheart  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clkx9r/encore_for_typescript/</guid>
+      <pubDate>Mon, 06 May 2024 14:49:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个程序员都应该知道的类型系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1clkcos/type_systems_every_programmer_should_know/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clkcos/type_systems_every_programmer_should_know/</guid>
+      <pubDate>Mon, 06 May 2024 14:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dev Tunnels - .NET 用户的 Ngrok 替代品</title>
+      <link>https://www.reddit.com/r/programming/comments/1clkce1/dev_tunnels_an_alternative_to_ngrok_for_net_users/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clkce1/dev_tunnels_an_alternative_to_ngrok_for_net_users/</guid>
+      <pubDate>Mon, 06 May 2024 14:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>在倡议推出期间亲自作战室的好处</title>
+      <link>https://www.reddit.com/r/programming/comments/1clk9fx/the_benefit_of_inperson_war_rooms_during/</link>
+      <description><![CDATA[  由    /u/chip_1992  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clk9fx/the_benefit_of_inperson_war_rooms_during/</guid>
+      <pubDate>Mon, 06 May 2024 14:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jackson 注释示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1cljtsk/jackson_annotations_with_examples/</link>
+      <description><![CDATA[ 由   提交/u/ram-foss  /u/ram-foss  blackslate.io/articles/jackson-annotations-with-examples&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cljtsk/jackson_annotations_with_examples/</guid>
+      <pubDate>Mon, 06 May 2024 14:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>StackOverflow 与 OpenAI 合作</title>
+      <link>https://www.reddit.com/r/programming/comments/1cljmza/stackoverflow_partners_with_openai/</link>
+      <description><![CDATA[ OpenAI 还将把来自 Stack Overflow 的经过验证的技术知识直接呈现到 ChatGPT 中，让用户轻松访问可信、归因、准确且高度技术性的知识15 年来为 Stack Overflow 平台做出贡献的数百万开发人员支持的知识和代码。  悲伤。    由   提交/u/lppedd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cljmza/stackoverflow_partners_with_openai/</guid>
+      <pubDate>Mon, 06 May 2024 13:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>论用人工智能进行建筑</title>
+      <link>https://www.reddit.com/r/programming/comments/1cljl85/on_building_with_ai/</link>
+      <description><![CDATA[ 由   提交/u/yoel-reddits  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cljl85/on_building_with_ai/</guid>
+      <pubDate>Mon, 06 May 2024 13:52:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clanga - 视频更新 01</title>
+      <link>https://www.reddit.com/r/programming/comments/1cljadc/clanga_video_update_01/</link>
+      <description><![CDATA[这是 Clanga 的第一周更新 - 我正在构建的个人理财 Web 应用程序，用于取代 Mint    由   提交/u/Specialist_Radish988  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cljadc/clanga_video_update_01/</guid>
+      <pubDate>Mon, 06 May 2024 13:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我分析了代码审查最佳实践一年。这是我学到的。</title>
+      <link>https://www.reddit.com/r/programming/comments/1clj7gi/i_analyzed_code_review_best_practices_for_a_year/</link>
+      <description><![CDATA[ 由   提交/u/mpl1018  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clj7gi/i_analyzed_code_review_best_practices_for_a_year/</guid>
+      <pubDate>Mon, 06 May 2024 13:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从未有过 kubectl 指南。</title>
+      <link>https://www.reddit.com/r/programming/comments/1clhzl5/the_guide_to_kubectl_i_never_had/</link>
+      <description><![CDATA[ 由   提交/u/jakepage91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1clhzl5/the_guide_to_kubectl_i_never_had/</guid>
+      <pubDate>Mon, 06 May 2024 12:37:32 GMT</pubDate>
+    </item>
     <item>
       <title>开源不是营销</title>
       <link>https://www.reddit.com/r/programming/comments/1clhoiz/opensource_is_not_marketing/</link>
-      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/sleepysiding22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clhoiz/opensource_is_not_marketing/</guid>
       <pubDate>Mon, 06 May 2024 12:21:50 GMT</pubDate>
     </item>
@@ -18,13 +88,6 @@
       <description><![CDATA[ 由   提交/u/breck  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clhbxp/30000_hours/</guid>
       <pubDate>Mon, 06 May 2024 12:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>兑现小额付款 在合法公司筹集现金的提示！ （谨防非法公司）</title>
-      <link>https://www.reddit.com/r/programming/comments/1clh0az/소액결제현금화_합법적인_업체에서_현금_마련하는_꿀팁_불법업체주의/</link>
-      <description><![CDATA[ 由   提交/u/j030118  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clh0az/소액결제현금화_합법적인_업체에서_현금_마련하는_꿀팁_불법업체주의/</guid>
-      <pubDate>Mon, 06 May 2024 11:46:06 GMT</pubDate>
     </item>
     <item>
       <title>您没有全面解决基础设施成本（公共云和 K8s）</title>
@@ -43,72 +106,9 @@
     <item>
       <title>流媒体游戏规则改变者：直接写入 S3 的融合货运集群</title>
       <link>https://www.reddit.com/r/programming/comments/1clgbh3/streaming_game_changer_confluent_freight_clusters/</link>
-      <description><![CDATA[ 由   提交 /u/wanshao   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/wanshao  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clgbh3/streaming_game_changer_confluent_freight_clusters/</guid>
       <pubDate>Mon, 06 May 2024 11:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程挑战 - 一级方程式赛车 - 自主赛车联盟</title>
-      <link>https://www.reddit.com/r/programming/comments/1clg53d/coding_challenge_formula_1_autonomous_racing/</link>
-      <description><![CDATA[  由    /u/curious_drive  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clg53d/coding_challenge_formula_1_autonomous_racing/</guid>
-      <pubDate>Mon, 06 May 2024 10:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何成功重写 C++ 代码库</title>
-      <link>https://www.reddit.com/r/programming/comments/1clfhzm/how_to_rewrite_a_c_codebase_successfully/</link>
-      <description><![CDATA[ 由   提交/u/broken_broken_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clfhzm/how_to_rewrite_a_c_codebase_successfully/</guid>
-      <pubDate>Mon, 06 May 2024 10:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在 YouTube 上制作开发日志视频，有时我想与屏幕上显示的内容进行对话，这样当我不显示节目片段时，您就不会只听到声音并看到黑屏</title>
-      <link>https://www.reddit.com/r/programming/comments/1clfd3i/im_making_devlog_videos_on_youtube_and_sometimes/</link>
-      <description><![CDATA[ 由   提交 /u/MAS9Nine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clfd3i/im_making_devlog_videos_on_youtube_and_sometimes/</guid>
-      <pubDate>Mon, 06 May 2024 10:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建搜索输入</title>
-      <link>https://www.reddit.com/r/programming/comments/1clehzk/how_to_create_a_search_input_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建搜索输入[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clehzk/how_to_create_a_search_input_with_tailwind_css/</guid>
-      <pubDate>Mon, 06 May 2024 09:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是开发人员测试 GitHub Copilot Workspace 后的发现（早期见解）</title>
-      <link>https://www.reddit.com/r/programming/comments/1clec9r/heres_what_developers_found_after_testing_github/</link>
-      <description><![CDATA[ 由   提交/u/ImpressiveContest283  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clec9r/heres_what_developers_found_after_testing_github/</guid>
-      <pubDate>Mon, 06 May 2024 08:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTPS 是如何工作的</title>
-      <link>https://www.reddit.com/r/programming/comments/1cle9ac/how_does_https_work/</link>
-      <description><![CDATA[  由    /u/hizacharylee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cle9ac/how_does_https_work/</guid>
-      <pubDate>Mon, 06 May 2024 08:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索函数式编程范式</title>
-      <link>https://www.reddit.com/r/programming/comments/1cldxc8/exploring_the_functional_programming_paradigm/</link>
-      <description><![CDATA[在编程领域，有不同的范式试图提供解决问题的方案，提高软件开发的效率。其中一种范式，函数式编程，因其对简单性的关注以及处理复杂应用程序的有效性而受到关注。 在本文中，我们将探讨函数式编程范式，分解其基本原理、基本特征、优势及其在各个领域的实际应用。   由   提交/u/Creative_Corgi_4862   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cldxc8/exploring_the_functional_programming_paradigm/</guid>
-      <pubDate>Mon, 06 May 2024 08:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[视频] Wix 如何为其 4000 个微服务放弃 EventSourcing 以实现简单的 CRUD</title>
-      <link>https://www.reddit.com/r/programming/comments/1cldl8x/video_how_wix_dropped_eventsourcing_for_simple/</link>
-      <description><![CDATA[ 由   提交/u/natan-sil  /u/natan-sil  youtube.com/watch?v=6CyhrFpJAj8&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cldl8x/video_how_wix_dropped_eventsourcing_for_simple/</guid>
-      <pubDate>Mon, 06 May 2024 07:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>你真的需要外键吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1clcwzm/do_you_really_need_foreign_keys/</link>
-      <description><![CDATA[数据完整性是数据库的基础，没有它，分析或分析的执行就会变得更加复杂。 在本集中实现上，我介绍了MySQL等关系型数据库中外键的概念，并展示了使用它们的优缺点😊   由   提交/u/MarcoMoauro95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clcwzm/do_you_really_need_foreign_keys/</guid>
-      <pubDate>Mon, 06 May 2024 07:10:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

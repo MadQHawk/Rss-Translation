@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 12:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:15:23 GMT</lastBuildDate>
+    <item>
+      <title>开源学校作业</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
+      <description><![CDATA[亲爱的 Reddit 朋友们， 我将通过一项作业来结束我的 IT 学习第一年，以便为以下项目做出贡献一个开源项目。 它可以是你能想到的任何东西，但请记住我只使用过以下语言：  html php css Java kotlin &gt;  有人有建议或想法吗？它需要在一周内完成，我倾向于承担对我来说很大的项目:) 很高兴听到你的想法   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</guid>
+      <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
+    </item>
     <item>
       <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
@@ -36,12 +43,12 @@
     <item>
       <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
-      <description><![CDATA[iOS 应用程序：https://apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用程序：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather     提交人    /u/Spirited-Pause   [链接] [评论]]]></description>
+      <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
       <pubDate>Sun, 05 May 2024 12:49:10 GMT</pubDate>
     </item>
     <item>
-      <title>CurlerRoo - 管理 cURL 请求的简单编辑器</title>
+      <title>CurlerRoo - 用于管理 cURL 请求的简单编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</link>
       <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 /&gt; - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，以便于使用您最喜欢的备份和版本控制工具。   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>微软开发者博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/elliotkillick   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
       <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 hookmarked 的开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</link>
-      <description><![CDATA[管理文件链接   由   提交/u/fbrichs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</guid>
-      <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
