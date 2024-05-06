@@ -4,51 +4,86 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 May 2024 21:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 00:56:12 GMT</lastBuildDate>
     <item>
-      <title>现在最好学什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl1geg/best_thing_to_learn_right_now/</link>
-      <description><![CDATA[大家好！ 我有大约一个月的空闲时间。我真的很想学一些有用的东西。你有什么建议吗？也许是一门课程或者一些每个人都应该知道的有用技术？ - 也许是特定行业？ 谢谢！   由   提交 /u/Calm_Cauliflower8068   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl1geg/best_thing_to_learn_right_now/</guid>
-      <pubDate>Sun, 05 May 2024 21:04:49 GMT</pubDate>
+      <title>对所需的采访资源进行编码的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</link>
+      <description><![CDATA[是否有类似 neetcode 但更多 JavaScript 的网站？    由   提交 /u/candyloverx101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</guid>
+      <pubDate>Sun, 05 May 2024 23:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>业余项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</link>
+      <description><![CDATA[大家好，我正在考虑在今年夏天课外时创建一个业余项目。我想创建一个网站，您可以在其中找到您想要阅读的完美书籍并将其添加到阅读列表中。 我不想让您厌倦这些细节，让我直接讲它。我想为名人制作一个过滤器，例如这个过滤器会找到“the rock”推荐的书籍例如。我怎样才能实现这个？有没有一个 api 可以做到这一点？如果没有 api 来制作流行名人和他们推荐的书籍的表格，我是否可以使用 ai 来实现此目的？    由   提交 /u/JackedMushroom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</guid>
+      <pubDate>Sun, 05 May 2024 23:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个更好的存储/知识库平台。想想 Google Drive + Slack。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</link>
+      <description><![CDATA[嗨，我正在构建 The Drive AI，一个 AI-第一个协作知识库和笔记应用程序。 The Drive AI 正在解决什么问题？  难以利用过去的工作：当前的存储/笔记应用程序限制了存储信息的价值。他们不会使用现有文档作为新文档的基础。 可信信息检索：随着笔记和文件的增加，查找可信信息变得前所未有的困难和复杂化决策过程并阻碍进展。 沟通差距：当前的沟通渠道（例如 Slack 和 Discord）缺乏背景。通常，团队正在讨论一个项目，并且在 Slack/Discord 之类的渠道中很难回顾特定的上下文对话。此外，通过它们共享的文件缺乏隐私，从而损害了机密性。频繁的文件丢失也会影响工作效率。  我们如何解决这个问题？  高级检索：我们有高级检索系统可以快速搜索您的文档以找到相关答案并使用这些存储的文件来创建新文件。例如，如果您存储简历并链接到职位描述，您可以告诉人工智能助手根据这些存储的文档为您写一封求职信。如果我们无法在您的知识库中找到答案，我们只会说“我们不知道”。 内置聊天频道：每个文件/文件夹都有独特的团队聊天。如果您正在与教授讨论研究论文，您可以使用该文件的团队聊天，并随时参考该特定聊天。私人 DM 即将推出。您可以在聊天中共享文件，而文件无需离开平台。  其他功能：  您可以突出显示 PDF 、边写笔记、与朋友聊天。 我们支持大多数编辑工具，并且正在添加更多工具。 您可以个性化您的 AI 助手。 每当您共享/发布您的文件时，您也共享了您的 AI 助手。 无需 AI 培训，并且具有高安全/隐私措施。我们正在申请合规证书。 您可以拥有自己的面向公众的个人资料，任何页面都可以成为您的公共页面。例如，https://thedrive.ai/bigyan 可以是您的简历、DOCX 文件或 YouTube 视频。只要有你想要的，AI 助手都能帮到你。我们的目标是在未来拥有您的人工智能角色。  感谢您阅读本文，希望您至少能够尝试一下。干杯。   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</guid>
+      <pubDate>Sun, 05 May 2024 23:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 HTML / CSS 隐藏 Chrome 中损坏的链接图标？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl36u7/way_to_hide_the_broken_link_icon_in_chrome_with/</link>
+      <description><![CDATA[      我尝试这样设计： &lt; ;img src=&quot;#&quot;; alt=&quot;占位符&quot;高度＝“100”宽度＝“300” &gt;&gt; img[src=“#”] { 背景：#e1e1e1; }  但是我在 Chrome 中得到了损坏的图像图标...有没有办法在没有 Js 的情况下防止这种情况？ https://preview.redd.it/neuv5bmmnoyc1.png?width=127&amp;format=png&amp;auto =webp&amp;s=1a1e79cf3541c27c166006b32c82c61d1762d349   由   提交 /u/Weekly_Frosting_5868   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl36u7/way_to_hide_the_broken_link_icon_in_chrome_with/</guid>
+      <pubDate>Sun, 05 May 2024 22:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业者，你们如何设计网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl31pl/freelancers_how_do_you_design_websites/</link>
+      <description><![CDATA[我正在获得第一份自由职业，并且我非常了解网站在开发方面需要做什么。但现在面临着我在从事个人项目设计时通常遇到的同样问题。我一直在网上寻找模板并从中混合搭配，但最终对我的结果并不是 100% 满意。你们自由职业者如何为您正在从事的项目做到这一点？   由   提交 /u/OmarAdharn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl31pl/freelancers_how_do_you_design_websites/</guid>
+      <pubDate>Sun, 05 May 2024 22:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用 SQL 连接表是否被认为不合适？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl301y/are_generalized_sql_junction_tables_considered/</link>
+      <description><![CDATA[编写通用联结表是不好的做法吗？ 我主要是一名前端开发人员，现在更多地研究后端开发以及 SQL 和 SQL 等数据库工具/语言。 MySQL。 我的问题是，创建一个通用联结表，例如用户想要保存多个项目/表（帖子、评论、项目、说明、消息、评级、投票等）是一个很好的选择还是不好的做法？ 我想象编写一个通用的“保存”表，例如： - PK - message_id - item_id - thread_id - group_id - instructions_id 然后我将创建连接到这个通用联结表的各个表. 或者与为每个单独的表编写单独的联结表相比，是否可能会产生问题？   由   提交/u/KKS-Qeefin   /u/KKS-Qeefin  reddit.com/r/webdev/comments/1cl301y/are_generalized_sql_junction_tables_considered/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl301y/are_generalized_sql_junction_tables_considered/</guid>
+      <pubDate>Sun, 05 May 2024 22:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一生都无法加载我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cl2jil/i_cant_get_my_site_to_load_for_the_life_of_me/</link>
+      <description><![CDATA[当我输入我的 URL 时，我的网站会完美加载，当您搜索我的公司时，我的网页也会完美加载，但是当我从我的网站中选择我的网站时，我的网站会完美加载。 GMB 配置文件我总是收到错误。该错误通常显示“正在建设中”。我尝试修改我的 DNS 设置，但得到的只是其他错误，例如“找不到 IP”或“此页面可能试图窃取您的信息”。这种情况已经持续了好几个星期了，我很迷失。感谢大家提供所有帮助，谢谢 编辑：我的域名是通过 Squarespace，我的网站是在 Google 协作平台上。我尝试了网上的很多建议来进行故障排除，但没有任何效果。我尝试添加重定向，然后收到一条错误消息，提示我的网站“重定向您太​​多次”   由   提交/u/Pspecial-Swimmer70   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cl2jil/i_cant_get_my_site_to_load_for_the_life_of_me/</guid>
+      <pubDate>Sun, 05 May 2024 21:52:39 GMT</pubDate>
     </item>
     <item>
       <title>这是部署电子商务风格网站最便宜的计划吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl0jjp/is_this_the_cheapest_plan_to_deploy_an_ecommerce/</link>
-      <description><![CDATA[到目前为止，我发现的最实惠的计划是 Railway 的 5 美元计划。这似乎是一个相对容易部署的平台。 但问题是：  谁能告诉我这个计划是否能在电子商务中良好运行/交付风格的网站？您可以在此计划中单独使用后端（如 Node Express）和前端（如 Next Js）吗？ 是否很容易超出使用限制并收取额外费用？或者这对于当地的小企业来说会不会很困难？  关于数据库和图片上传的问题，我不知道铁路是否有这方面的规定，但是是吗？使用 500 MB 的数据库进行小型本地电子商务的产品和客户注册是否安全？我认为任何数据库或图像托管服务，如果您必须付费，最终都会非常昂贵。   由   提交 /u/Mr-Brigth-Side   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，我发现的最实惠的计划是 Railway 的 5 美元计划。这似乎是一个相对容易部署的平台。 但问题是：  谁能告诉我这个计划是否能在电子商务中良好运行/交付风格的网站？您可以在此计划中单独使用后端（如 Node Express）和前端（如 Next Js）吗？ 是否很容易超出使用限制并收取额外费用？或者这对于当地的小企业来说会不会很困难？  关于数据库和图片上传的问题，我不知道铁路是否有这方面的规定，但是是吗？使用 500MB 的数据库进行小型本地电子商务产品和客户注册是否安全？我认为任何数据库或图像托管服务，如果您必须付费，最终都会非常昂贵。   由   提交 /u/Mr-Brigth-Side   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl0jjp/is_this_the_cheapest_plan_to_deploy_an_ecommerce/</guid>
       <pubDate>Sun, 05 May 2024 20:24:59 GMT</pubDate>
     </item>
     <item>
-      <title>嘿👋，我是一名大学生，正在做一个关于购买二手车的项目。您能帮忙填写一份快速调查吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl0imv/hey_im_a_college_student_working_on_a_project/</link>
-      <description><![CDATA[    /u/ClassroomSimulator   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl0imv/hey_im_a_college_student_working_on_a_project/</guid>
-      <pubDate>Sun, 05 May 2024 20:23:55 GMT</pubDate>
-    </item>
-    <item>
       <title>NodeJS 提供商，免费套餐</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl0b6b/nodejs_provider_free_tier/</link>
-      <description><![CDATA[是否可以通过免费套餐获得 NodeJS 提供程序？我只能找到免费试用版，例如，Railway 的价格为 5 美元。 我看到 JAMstack 与 Cloudflare Pages、Netlify、Vercel 的免费套餐托管 我什至看到免费套餐的 Sqlite 托管Turso 和 Postgres 使用 Neon 免费托管 所以只是想知道 NodeJS （是的，我知道，我们被宠坏了，我真的不能抱怨。Web 开发提供商（imo）对他们的免费套餐非常慷慨。只是对 NodeJs 感到好奇） 更新：render.com 会提供这？他们过去无意中向我收取了今年早些时候未使用的帐户的费用，但已得到纠正。还有其他 Nodejs 免费层提供商可以检查吗？   由   提交/u/avidrunner84  [链接] [评论]]]></description>
+      <description><![CDATA[是否可以通过免费套餐获得 NodeJS 提供商？我只能找到免费试用版，例如 Railway 的 5 美元。 我看到了带有 Cloudflare Pages、Netlify、Vercel 的 JAMstack 免费套餐托管 我甚至看到了带有 Turso 的免费套餐 Sqlite 托管，以及带有 Neon 的免费 Postgres 托管 所以只是想知道 NodeJS （是的，我知道，我们被宠坏了，我真的没什么可抱怨的。Web 开发提供商（在我看来）对他们的免费套餐非常慷慨。只是对 NodeJs 感到好奇） 更新：render.com 会提供这个吗？他们过去曾意外地向我收取了我今年早些时候未使用的帐户的费用，但已经纠正了。是否还有其他 Nodejs 免费套餐提供商可供检查？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl0b6b/nodejs_provider_free_tier/</guid>
       <pubDate>Sun, 05 May 2024 20:15:06 GMT</pubDate>
     </item>
     <item>
       <title>去哪儿？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl0ahr/where_to_go/</link>
-      <description><![CDATA[你去哪里谈论编码哲学？    提交人    /u/Sotomexw   [link] [comments]]]></description>
+      <description><![CDATA[你去哪里谈论编码哲学？    ;由   提交 /u/Sotomexw   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl0ahr/where_to_go/</guid>
       <pubDate>Sun, 05 May 2024 20:14:17 GMT</pubDate>
     </item>
     <item>
       <title>教程地狱之外的第一个项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl05tj/first_project_outside_tutorial_hell/</link>
-      <description><![CDATA[嘿大家👋 我刚刚完成了我的第一个项目，没有密切关注任何教程。 它不是很独特，但作为初学者我对此很满意。技术堆栈是 Firebase 和 vanilla JS。 https://sunshare.web.app &lt; p&gt;这是一个供人们分享世界各地日落图片的网站。我没有添加身份验证或任何内容，因此没有注册。 我主要希望获得有关设计和最佳实践的反馈。随意烤我😂   由   提交 /u/HistoricalAccess9501   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 👋 我刚刚完成了我的第一个项目，没有密切关注任何教程。 它不是很独特，但作为初学者，我对它很满意。技术栈是 Firebase 和 vanilla JS。 https://sunshare.web.app 这是一个供人们分享世界各地日落照片的网站。我没有添加身份验证或任何东西，所以没有注册。 我主要希望获得有关设计和最佳实践的反馈。随时吐槽我😂    提交人    /u/HistoricalAccess9501   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl05tj/first_project_outside_tutorial_hell/</guid>
       <pubDate>Sun, 05 May 2024 20:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>Firebase 服务器端数据过滤？</title>
+      <title>Firebase 服务器端数据过滤 ?</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl04dc/firebase_serverside_data_filtering/</link>
       <description><![CDATA[比方说，我正在与用户制作一个聊天应用程序，由于 Firebase 本身没有排除字段功能，因此所有数据都将检索到客户端，听起来不太安全，你有什么解决方案吗？我应该使用云功能去思考所有检索到的文档并删除敏感字段吗？   由   提交/u/Zafugus  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl04dc/firebase_serverside_data_filtering/</guid>
@@ -64,51 +99,16 @@
     <item>
       <title>有什么好的“对象存储即服务”工具吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cl00tw/any_good_object_storage_as_a_service_tool_out/</link>
-      <description><![CDATA[另一个问题是关于我正在尝试为开源数据门户网站构建的后端组件。 我有自己的托管数据库，后端难题中唯一缺少的部分是文件存储，用于上传文件、图像等。 我对市场上各种后端即服务和低代码工具印象深刻，但我想知道是否有一种工具的唯一目标是配置对象存储。 显然，S3 B2 等是实现这一点的经典方法。但我想知道低代码运动是否在创建一种更友好的工具方面取得了任何进展。 提供良好用户界面的东西，也许可以为那些在网站上工作的人提供某种方式来将对象存储安装为卷以方便使用（等）。    提交人    /u/danielrosehill   [链接] [评论]]]></description>
+      <description><![CDATA[关于我试图为开源数据门户网站构建的后端组件的另一个问题。 我有自己的后端组件托管数据库，后端难题中唯一缺少的部分是用于上传文件、图像等的文件存储。  各种后端即服务和低代码工具给我留下了深刻的印象市场，但我想知道是否有一个唯一的目标是提供对象存储。 显然 S3 B2 等是实现这一目标的经典方法。但我想知道低代码运动是否在创建一个更友好的工具方面取得了进展。  提供了一个漂亮的用户界面，并且也许可以为网站上的工作人员提供某种方式将对象存储安装为易于使用的卷（等等）。   由   提交/u/danielrosehill  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl00tw/any_good_object_storage_as_a_service_tool_out/</guid>
       <pubDate>Sun, 05 May 2024 20:02:43 GMT</pubDate>
     </item>
     <item>
       <title>Mac 到 PC？帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1ckzsqf/mac_to_pc_help/</link>
-      <description><![CDATA[大家好！当谈到 webdev 时，我是一个菜鸟，所以请耐心等待。我在 Mac 上创建了一个网站，但我希望也能在 PC 上使用它。它无论如何都是一个正常运行的网站（在 Mac 上），但在 PC 上它完全损坏了。我什至无法在 PC 上的 Dreamweaver 中打开索引文件。  我所做的就是在 Mac 上压缩该文件夹，将其上传到我的 Google 云端硬盘，然后将其下载到我的 PC 上。我意识到这可能与操作系统的差异有关，但是您知道我可以通过其他方式将其传输到我的电脑上以便我可以实际使用它吗？如果您需要我提供任何其他信息，请询问，我会尽力回答。   由   提交 /u/BiohazardousDogFreak   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！当谈到 webdev 时，我是一个菜鸟，所以请耐心等待。我在 Mac 上创建了一个网站，但我希望也能在我的 PC 上使用它。它无论如何都是一个正常运行的网站（在 Mac 上），但在 PC 上它完全损坏了。我什至无法在 PC 上的 Dreamweaver 中打开索引文件。  我所做的就是在 Mac 上压缩该文件夹，将其上传到我的 Google 云端硬盘，然后将其下载到我的 PC 上。我意识到这可能与操作系统的差异有关，但是您知道我可以通过其他方式将其传输到我的电脑上以便我可以实际使用它吗？如果您需要我提供任何其他信息，请询问，我会尽力回答。   由   提交 /u/BiohazardousDogFreak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ckzsqf/mac_to_pc_help/</guid>
       <pubDate>Sun, 05 May 2024 19:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 重制版：我的第一个全栈副项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckzj6n/a_reddit_remake_my_first_fullstack_sideproject/</link>
-      <description><![CDATA[https://tidder-by-steve .web.app/home 嗨，我是一名四年级大学生，我真的很想进入网络开发行业，我从 yt 学到了一些基础知识（学校并不真的教授真正的网络开发知识）并提出了这个副项目。我该如何改进它？欢迎大家提出建议！ 除了找到工作，我还应该做什么？ （其他项目？志愿者？）我现在在学校俱乐部担任 Web 开发人员（志愿者），没有真正的开发工作经验。 技术堆栈：Angular、FastAPI、MySQL&lt; /p&gt;   由   提交 /u/Beginning-Roof4889    reddit.com/r/webdev/comments/1ckzj6n/a_reddit_remake_my_first_fullstack_sideproject/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckzj6n/a_reddit_remake_my_first_fullstack_sideproject/</guid>
-      <pubDate>Sun, 05 May 2024 19:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strapi + Astro 在 Hetzner 上使用 webhooks</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckz40r/strapi_astro_using_webhooks_on_hetzner/</link>
-      <description><![CDATA[大家好，我有一个客户希望我构建一个简单的静态主页，其中包含一些新闻/博客元素。我想使用strapi作为cms，以便客户可以轻松地发布新闻和博客更新。然后 Strapi 应该触发 Webhooks 以便 Astro 进行更新。我想要一台 Hetzner VPS。首先，这有道理吗？我以前从未像这样使用过 Strapi，但是在 Strapi 更新上重新部署和生成静态站点元素是这里的方法，不是吗？ 另一个问题是，因为客户还需要企业电子邮件（并且我不想设置电子邮件服务器）我需要将域连接到电子邮件提供商（最好是免费的），你们推荐哪一个？我听说过 Google Workspace，但从未实际使用过它，它好不好还是有更好的替代方案？   由   提交/u/frankakn7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckz40r/strapi_astro_using_webhooks_on_hetzner/</guid>
-      <pubDate>Sun, 05 May 2024 19:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否需要在捆绑程序中实时重新加载（观看）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckywbu/do_we_need_live_reload_watch_in_bundlers/</link>
-      <description><![CDATA[我们需要在边界中进行实时重新加载功能吗？难道我们不能只将此扩展用于 Visual Studio Code 或其他 IDE 中的类似功能和扩展吗？当您在 IDE 中保存具有特定文件扩展名的文件时，它们将执行您选择的自定义命令？  https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave &lt; p&gt;此扩展允许您自定义在全局 VSCode 设置和 VSCode 工作区设置 .vscode/settings.json 中保存文件时要执行的命令，允许其他人在组中使用相同的配置 Lightning CSS 没有实时重新加载功能，并且 Rollup 中的实时重新加载功能无法处理观看多个文件，但是在 VSCode 中使用此扩展，不会观看文件，而是运行 npm run保存 css 或 js 文件时使用 dev:css 或 npm run dev:js 命令，而不监视文件更改。&lt; /p&gt; 我看到的一个缺点是，当与使用不支持此功能的不同 IDE 的其他人一起开发项目时。除此之外，这种方法有什么缺点吗？   由   提交/u/trymeouteh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckywbu/do_we_need_live_reload_watch_in_bundlers/</guid>
-      <pubDate>Sun, 05 May 2024 19:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手问题：前端 React 应用程序存在潜在的安全风险吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckyv6t/newbie_question_potential_security_risks_for/</link>
-      <description><![CDATA[晚上好！ 我是 webdev 中的菜鸟，但最近我创建并托管了一个小型 React 应用程序，没有任何后端，让一个小型利基社区获得一些乐趣和欢笑。然而，我变得非常偏执，并对潜在的安全风险感到压力，因为我还没有真正引入任何安全措施。而且我一直在阅读它们的重要性...... 虽然赌注是就我个人而言，我的“投资”非常低。 （因为它是如此微不足道，只是为了笑）我不希望人们因为我的疏忽而承担风险。 该应用程序有一个简单的功能，它解析来自附件的一些信息（意思是，它已经在构建中）文本文件 -&gt;使用该文件中的一些数据生成的输入创建表单 -&gt;接受用户输入 -&gt;使用表单数据 API -&gt;根据输入和一些小的应用程序逻辑修改文本文件并让用户下载它。 没有服务器，没有付款，没有敏感数据，只有反应，html，css。 那么，我是否应该担心我的应用程序的用户可能会收到一些插入的恶意脚本或在下载的文件中收到不良内容？ P.S.我对这个问题做了一些阅读，但大多数文章似乎只与服务器有关，或将清理后的数据发送到服务器，或在服务器之前进行验证等。他们描述的方法似乎与我的小应用程序不匹配 - 但我只是不明白，因为我是菜鸟：D P.P.S.我知道，有人瞄准它的可能性非常低，因为它是一个超级利基的东西，并且“谁关心一些随机的人”，但如果有什么我应该做的，以保证其他人的安全 - 我宁愿现在就做。   由   提交 /u/HekiLan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckyv6t/newbie_question_potential_security_risks_for/</guid>
-      <pubDate>Sun, 05 May 2024 19:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使网站速度更快</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ckymyw/how_to_make_websites_fast/</link>
-      <description><![CDATA[我不想听到没有 wix 或 wordpress，但是当你从头开始构建网站时，你如何最大限度地提高工作效率或者你使用什么快捷方式更快地完成它。    由   提交 /u/Kulgejm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ckymyw/how_to_make_websites_fast/</guid>
-      <pubDate>Sun, 05 May 2024 19:02:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
