@@ -4,20 +4,20 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 07 May 2024 15:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 18:18:05 GMT</lastBuildDate>
     <item>
       <title>如何使用 Gmail 提供客户支持</title>
       <link>https://feed.indiehackers.world/post/9ce3b746c2</link>
-      <description><![CDATA[&lt;小时/&gt;
-要更详细地了解各个扩展，请查看我的完整博客文章 如何将 Gmail 变成终极客户支持工具。
-Discord 独立黑客聊天广告这里]]></description>
+      <description><![CDATA[
+如需详细了解各个扩展，请查看我的完整博客文章如何将 Gmail 变成终极客户支持工具。
+Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/9ce3b746c2</guid>
       <pubDate>Thu, 02 May 2024 10:52:53 GMT</pubDate>
     </item>
     <item>
-      <title>构建高级人工智能内容摘要器：我的对抗信息过载之旅</title>
+      <title>构建先进的 AI 内容摘要器：我对抗信息过载的历程</title>
       <link>https://feed.indiehackers.world/post/f129b109a9</link>
-      <description><![CDATA[如果您是一位忙碌的专业人士，日程安排满了会议和截止日期，您就会知道跟上您最喜爱的在线创作者的最新内容是多么具有挑战性。
+      <description><![CDATA[如果您是一位忙碌的专业人士，日程安排满了会议和截止日期，您就会知道跟上您最喜欢的在线创作者的最新内容是多么具有挑战性。
 而且我们每天接触的数据量不会很快减少。专家预测，到 2025 年，全球数据将膨胀至 175 ZB。 （就上下文而言，1 ZB 相当于大约 10 亿 TB！是的，您没听错。）
 数据的激增使我们进入了一种称为“信息过载”的状态，即可用信息过多，我们无法全部处理。
 这对我们意味着什么？
@@ -29,14 +29,14 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>我的 Google Workspace 看板任务扩展程序与其他第三方扩展程序相比有何独特之处？</title>
       <link>https://feed.indiehackers.world/post/c8401e87bd</link>
-      <description><![CDATA[我认为这是一个需要澄清的合理疑问。由于我将于下周推出适用于 Google Workspace 的 Kanban Tasks Extension，因此我很高兴强调这款产品的独特之处，它让 Google Tasks 高级用户的工作效率得以轻松提升。
-就在这里。..
-在第三方扩展程序的世界中，我的产品脱颖而出，在 Google Workspace 中提供近乎原生的体验。与 Trello 或 Asana 等外部工具不同，Kanban Tasks 扩展程序可无缝集成到您的工作区中，提供熟悉的界面、始终可访问的侧边栏和针对高效任务管理的自以为是的设计。 
+      <description><![CDATA[我认为这是一个需要澄清的合理怀疑。下周我将推出适用于 Google Workspace 的看板任务扩展程序，我很高兴强调该产品的独特性，它可以让 Google Tasks 高级用户轻松提高工作效率。
+给你。 ..
+在第三方扩展程序的世界中，我的产品在 Google Workspace 中以近乎原生的体验脱颖而出。与 Trello 或 Asana 等外部工具不同，看板任务扩展可以无缝集成到您的工作空间中，提供熟悉的界面、始终可访问的侧边栏以及用于高效任务管理的固执己见的设计。 
 
-原生集成到 Google Workspace，因此切换起来非常容易，不会丢失任何上下文
-外观和感觉与您的电子邮件和聊天相同，或具有用户友好的入门体验。
+原生集成到 Google Workspace 中，因此切换起来超级简单，不会丢失任何上下文
+与您的电子邮件和聊天具有相同的外观和风格，或者提供用户友好的入门体验。
 
-Discord Indiehackers Chat广告这里]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c8401e87bd</guid>
       <pubDate>Wed, 20 Mar 2024 08:45:13 GMT</pubDate>
     </item>
@@ -66,11 +66,11 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/79759f89d5</link>
       <description><![CDATA[大家好！
 上周，我发布了 AiFormat，反响非常好！
-如果您还没有使用过它，它是一个简单的 CLI 工具，可以使复制和复制变得简单。将文件粘贴到 Claude 中轻而易举。
+如果您还没有使用过它，这是一个简单的 CLI 工具，可以轻松进行复制和复制。将文件粘贴到 Claude 中轻而易举。
 与 Claude Opus 一起使用显着提高了我的工作效率。
 我刚刚发布了一个新版本，希望您会喜欢：
 
-添加了深度嵌套文件内的搜索。
+添加了在深层嵌套文件中的搜索。
 
 添加了使用 Tab 键展开/折叠文件夹的功能。
 
@@ -108,7 +108,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Fri, 15 Mar 2024 09:14:44 GMT</pubDate>
     </item>
     <item>
-      <title>我们花了 6 个月的时间与 1,000 名用户一起在区块链上构建开发人员生产力工具。</title>
+      <title>我们花了 6 个月的时间和 1,000 名用户在区块链上构建了一个开发人员生产力工具。</title>
       <link>https://feed.indiehackers.world/post/f0b2be5839</link>
       <description><![CDATA[今天，Perspect 在 Product Hunt 上推出
 第 0 个月启动区块链
@@ -128,7 +128,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/f61dac4642</link>
       <description><![CDATA[在我发帖后：
 https ://www.indiehackers.com/post/looking-for-new-name-suggestions-due-to-conflicting-app-name-with-existing-product-79e6005a14
-我正在为我的产品敲定几个名称。您认为哪个名称最能代表我的应用程序？
+我正在为我的产品敲定一些名称。您认为哪个名称最能代表我的应用程序？
 
 SimpleURL 或 SimpleURLs =&gt;在这里我倾向于 Singular SimpleURL
 LeanURL 或 LeanURLs =&gt;在这里我倾向于复数LeanURLs
@@ -160,7 +160,7 @@ Discord 独立黑客聊天广告这里]]></description>
 在任何浏览器选项卡中简化网址搜索功能
 针对频繁 URL 访问任务的省时解决方案
 
-如果我喜欢您的建议名称并允许我使用它，我很乐意为我的应用程序提供 3 个月的免费订阅。
+如果我喜欢您的建议并允许我使用它，我很乐意为我的应用程序提供 3 个月的免费订阅。
 请帮忙提供一下名字🙏 
 ChatGPT 建议：
 我喜欢的东西：URLGenie、MagicURLs、URLify
@@ -172,7 +172,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>Show IH：撰写客户电子邮件的速度提高 10 倍</title>
       <link>https://feed.indiehackers.world/post/954c07e316</link>
       <description><![CDATA[想象一下，通过 ReplyInbox 简化您的电子邮件工作流程，您将节省时间并避免麻烦。无论您是管理客户咨询的个体企业家还是处理投资者沟通的初创公司创始人，ReplyInbox 都是您的终极电子邮件生产力伴侣。
-现在，你该进来了。我全身心投入到 ReplyInbox 的开发中，但我知道总有改进的空间。这就是为什么我向令人惊叹的 IndieHackers 社区寻求反馈。
+现在，你该进来了。我倾注了全部心血来开发 ReplyInbox，但我知道总有改进的空间。这就是为什么我向令人惊叹的 IndieHackers 社区寻求反馈。
 🔍您尝试过ReplyInbox吗？您最初的想法是什么？
 🚀 如何让 ReplyInbox 更加强大且用户友好？
 💡 您希望在未来的更新中看到任何建议或功能吗？
@@ -195,11 +195,11 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>Angular 正是您所需要的！</title>
       <link>https://feed.indiehackers.world/post/d3abbc4a29</link>
-      <description><![CDATA[
-https://www.aimprosoft.com/blog/react-vs-angular/
+      <description><![CDATA[&lt;块引用&gt;
+https://www.aimprosoft.com/blog/react-vs-angular/ 
 
-总之，Angular 不仅仅是另一个框架；它是一个强大的平台，使您能够高效地构建高质量的 Web 应用程序。它结合了基于组件的架构、提高生产力的功能和支持生态系统，使 Angular 成为任何希望提升自己水平的开发人员的明智选择。那么，为什么不在您的下一个项目中尝试一下 Angular，亲自看看它的不同之处呢？
-Discord Indiehackers Chat广告这里]]></description>
+总之，Angular 不仅仅是另一个框架；它还是一个框架。它是一个强大的平台，使您能够高效地构建高质量的 Web 应用程序。 Angular 结合了基于组件的架构、提高生产力的功能和支持性生态系统，这使得 Angular 成为任何想要提升游戏水平的开发人员的明智选择。那么，为什么不在您的下一个项目中尝试一下 Angular，亲自看看有何不同呢？
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d3abbc4a29</guid>
       <pubDate>Wed, 13 Mar 2024 09:22:47 GMT</pubDate>
     </item>
