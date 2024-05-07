@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 06:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:16:05 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 的 FOSS Gallery 来组织照片和视频？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，它允许我选择特定文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，以便能够按日期和图像名称进行搜索。 此外，如果它内置了地图，则会显示地图上每个图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我所需要的只是一个 Windows 软件，一个可以安装并完成工作的 .exe 文件。 我找到了一个名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像图库应用程序那样工作，而且它不能处理视频，只能处理照片。它有太多选项，很混乱，而且看起来真的很难看，而且已经过时了。 任何建议或建议将不胜感激！提前致谢。   由   提交 /u/Cyber​​Sweeper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
+      <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
-      <description><![CDATA[有人知道有什么好的、精简的 Android 操作系统吗？我有一个较旧的 Android（2016），只是想要一个在较旧的硬件上运行更轻的操作系统，如果有帮助的话，我将把它用作哑电话。   由   提交 /u/die4tek   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道有什么好的、精简版的 Android 操作系统吗？我有一台较旧的 Android（2016 年），只想要一个可以在较旧的硬件上运行更轻量的操作系统，如果有帮助的话，我会把它用作功能手机。    提交人    /u/die4tek   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</guid>
       <pubDate>Tue, 07 May 2024 02:55:37 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>锻炼和减肥应用程序和手表？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clrwty/workout_and_weightloss_app_and_watch/</link>
-      <description><![CDATA[大家好，我正在寻找一款开源健身和食物追踪器，类似于 MyFitnessPal，但希望它是开源的，不会监视我。我有一块 Amazfit 手表（现在称为 Zepp），正在使用他们的应用程序，但我更喜欢更开放的应用程序，而且我希望能够下载我的统计数据并将其放入电子表格或其他工具中。 有人可以推荐一款好的应用程序和手表组合吗？ 谢谢大家    提交人    /u/SquarePeg79   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻找一个开源健身和食物追踪器，类似于 MyFitnessPal，但希望它是开源的而不是间谍的包在我身上。我有一块 Amazfit 手表（现在称为 Zepp）并使用他们的应用程序，但更喜欢一个更开放的应用程序，我也希望能够下载我的统计数据并将其放入电子表格或其他工具中。 有人可以推荐一个好的应用程序和观看组合吗？ 谢谢大家   由   提交/u/SquarePeg79  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clrwty/workout_and_weightloss_app_and_watch/</guid>
       <pubDate>Mon, 06 May 2024 19:35:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共文档 OSS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
-      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 07 May 2024 06:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:16:26 GMT</lastBuildDate>
     <item>
-      <title>宾特</title>
-      <link>https://www.opensourceagenda.com/projects/bint</link>
-      <description><![CDATA[国际 Facebook 帐户破解程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/bint</guid>
-      <pubDate>Tue, 07 May 2024 06:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉伯新闻CMS它</title>
-      <link>https://www.opensourceagenda.com/projects/arabnewscms-it</link>
-      <description><![CDATA[释放您的想象力并发挥创造力]]></description>
-      <guid>https://www.opensourceagenda.com/projects/arabnewscms-it</guid>
-      <pubDate>Tue, 07 May 2024 06:18:40 GMT</pubDate>
+      <title>Facebash Termux</title>
+      <link>https://www.opensourceagenda.com/projects/facebash-termux</link>
+      <description><![CDATA[适用于 Termux 的 Facebook BruteForce [ By Tor ] 工具。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/facebash-termux</guid>
+      <pubDate>Tue, 07 May 2024 09:16:25 GMT</pubDate>
     </item>
     <item>
       <title>M1k1o 博客</title>
       <link>https://www.opensourceagenda.com/projects/m1k1o-blog</link>
-      <description><![CDATA[轻量级自托管 facebook 风格的 PHP 博客。]]></description>
+      <description><![CDATA[轻量级自托管 facebook 风格 PHP 博客。]]></description>
       <guid>https://www.opensourceagenda.com/projects/m1k1o-blog</guid>
-      <pubDate>Tue, 07 May 2024 06:18:39 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:25 GMT</pubDate>
     </item>
     <item>
       <title>奇诺机器人</title>
       <link>https://www.opensourceagenda.com/projects/kinobot</link>
       <description><![CDATA[世界上最清晰的电影迷帧生成器]]></description>
       <guid>https://www.opensourceagenda.com/projects/kinobot</guid>
-      <pubDate>Tue, 07 May 2024 06:18:39 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:25 GMT</pubDate>
     </item>
     <item>
       <title>颤振反应按钮</title>
       <link>https://www.opensourceagenda.com/projects/flutter-reaction-button</link>
       <description><![CDATA[Flutter Reaction Button 是一个可自定义的 Flutter 包，可让您轻松创建具有反应的交互式按钮表情符号，类似于 Facebook 标志性的反应按钮。]]></description>
       <guid>https://www.opensourceagenda.com/projects/flutter-reaction-button</guid>
-      <pubDate>Tue, 07 May 2024 06:18:39 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:25 GMT</pubDate>
     </item>
     <item>
-      <title>Vikas5914 Facebook 视频下载器</title>
-      <link>https://www.opensourceagenda.com/projects/vikas5914-facebook-video-downloader</link>
-      <description><![CDATA[PHP 中的 Facebook 视频下载器 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vikas5914-facebook-video-downloader</guid>
-      <pubDate>Tue, 07 May 2024 06:18:39 GMT</pubDate>
+      <title>AbirHasan2005 ShellPhish</title>
+      <link>https://www.opensourceagenda.com/projects/abirhasan2005-shellphish</link>
+      <description><![CDATA[shellphish 的修改版本。 Mod 功能包括彩色文本、动画、Termux 的内置设置、额外功能、更多改进、错误清除、修复 URL 不显示。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/abirhasan2005-shellphish</guid>
+      <pubDate>Tue, 07 May 2024 09:16:24 GMT</pubDate>
     </item>
     <item>
-      <title>错误赏金文章</title>
+      <title>漏洞赏金报告</title>
       <link>https://www.opensourceagenda.com/projects/bug-bounty-writeups</link>
-      <description><![CDATA[BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔]]></description>
+      <description><![CDATA[错误赏金文章 - OWASP 前 10 名 🔴🔴🔴🔴✔]]></description>
       <guid>https://www.opensourceagenda.com/projects/bug-bounty-writeups</guid>
-      <pubDate>Tue, 07 May 2024 06:18:38 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:24 GMT</pubDate>
     </item>
     <item>
       <title>移动人工智能女佣</title>
       <link>https://www.opensourceagenda.com/projects/mobile-artificial-intelligence-maid</link>
-      <description><![CDATA[Maid 是一款跨平台 Flutter 应用，用于在本地与 GGUF / llama.cpp 模型交互，并在远程与 Ollama 和 OpenAI 模型交互。 ]]></description>
+      <description><![CDATA[Maid 是一个跨平台 Flutter 应用程序，用于与 GGUF / llama.cpp 交互本地模型，以及远程 Ollama 和 OpenAI 模型。 ]]></description>
       <guid>https://www.opensourceagenda.com/projects/mobile-artificial-intelligence-maid</guid>
-      <pubDate>Tue, 07 May 2024 06:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebash Termux</title>
-      <link>https://www.opensourceagenda.com/projects/facebash-termux</link>
-      <description><![CDATA[适用于 Termux 的 Facebook BruteForce [ By Tor ] 工具。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/facebash-termux</guid>
-      <pubDate>Tue, 07 May 2024 06:18:38 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:24 GMT</pubDate>
     </item>
     <item>
       <title>无眼</title>
       <link>https://www.opensourceagenda.com/projects/oculess</link>
       <description><![CDATA[从 Oculus Quest 设备中删除帐户要求和遥测]]></description>
       <guid>https://www.opensourceagenda.com/projects/oculess</guid>
-      <pubDate>Tue, 07 May 2024 06:18:37 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:23 GMT</pubDate>
     </item>
     <item>
       <title>社交媒体黑客工具包</title>
       <link>https://www.opensourceagenda.com/projects/socialmediahackingtoolkit</link>
       <description><![CDATA[🔒 社交媒体黑客套件]]></description>
       <guid>https://www.opensourceagenda.com/projects/socialmediahackingtoolkit</guid>
-      <pubDate>Tue, 07 May 2024 06:18:37 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:23 GMT</pubDate>
     </item>
     <item>
       <title>大公司面试问题</title>
       <link>https://www.opensourceagenda.com/projects/big-companies-interview-questions</link>
       <description><![CDATA[之前在大公司和初创公司提出的面试问题的精选列表 🤲 🏆&lt; /p&gt;]]></description>
       <guid>https://www.opensourceagenda.com/projects/big-companies-interview-questions</guid>
-      <pubDate>Tue, 07 May 2024 06:18:37 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>AbirHasan2005 ShellPhish</title>
-      <link>https://www.opensourceagenda.com/projects/abirhasan2005-shellphish</link>
-      <description><![CDATA[shellphish 的修改版本。 Mod 功能包括彩色文本、动画、Termux 的内置设置、额外功能、更多改进、错误已清除、固定 URL 不显示。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/abirhasan2005-shellphish</guid>
-      <pubDate>Tue, 07 May 2024 06:18:37 GMT</pubDate>
+      <title>柚木 RulerPro</title>
+      <link>https://www.opensourceagenda.com/projects/yuzukirulerpro</link>
+      <description><![CDATA[基于全志D1-H RISC-V处理器的YuzukiRulerPro]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yuzukirulerpro</guid>
+      <pubDate>Tue, 07 May 2024 09:16:22 GMT</pubDate>
     </item>
     <item>
-      <title>记忆实验室</title>
+      <title>梅姆拉</title>
       <link>https://www.opensourceagenda.com/projects/memlab</link>
       <description><![CDATA[用于查找 JavaScript 内存泄漏和分析堆快照的框架]]></description>
       <guid>https://www.opensourceagenda.com/projects/memlab</guid>
-      <pubDate>Tue, 07 May 2024 06:18:36 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:22 GMT</pubDate>
     </item>
     <item>
-      <title>Codersguild系统设计</title>
+      <title>Codersguid 系统设计</title>
       <link>https://www.opensourceagenda.com/projects/codersguild-system-design</link>
-      <description><![CDATA[这真是令人着迷。现代软件是如何设计的？🤔 一些设计级别的考虑因素，包括可扩展性、可维护性、最终一致性、可用性和可靠性。👨‍💻 面试准备。👨‍💻]]></description>
+      <description><![CDATA[这真是令人着迷。现代软件是如何设计的？ 🤔 可扩展性、可维护性、最终一致性、可用性和可靠性的一些设计层面的考虑。 👨‍💻 面试准备。 👨‍💻]]></description>
       <guid>https://www.opensourceagenda.com/projects/codersguild-system-design</guid>
-      <pubDate>Tue, 07 May 2024 06:18:36 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:16:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buildroot YuzukiSBC</title>
+      <link>https://www.opensourceagenda.com/projects/buildroot-yuzukisbc</link>
+      <description><![CDATA[Buildroot 包主要用于 YuzukiHD 设备。支持全志F1C100s/200s V3s V3x D1-H D1s T113 H616 BSP和Mainline]]></description>
+      <guid>https://www.opensourceagenda.com/projects/buildroot-yuzukisbc</guid>
+      <pubDate>Tue, 07 May 2024 09:16:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openix卡</title>
+      <link>https://www.opensourceagenda.com/projects/openixcard</link>
+      <description><![CDATA[全志 PhoenixCard 开源版本，用于在 Linux 上转储、解压、Flash Allwinner IMG 文件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openixcard</guid>
+      <pubDate>Tue, 07 May 2024 09:16:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
