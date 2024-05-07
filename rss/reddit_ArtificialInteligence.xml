@@ -3,21 +3,42 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 07 May 2024 12:21:40 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 07 May 2024 15:11:40 GMT</lastBuildDate>
     <item>
-      <title>学术不端行为：大学作业中充满错误的反馈；是人工智能生成的吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmaddk/academic_misconduct_errorriddled_feedback_on_a/</link>
-      <description><![CDATA[大家好， 我最近收到了关于我提交的作业的反馈，并收到了一些错误的批评。我非常怀疑一个人会犯这些错误，并且有时结合机器人的写作风格，我想知道教师是否正在使用人工智能来提供反馈。教师从未提醒学生在评分中可能使用人工智能。当我向课程召集人发送关于反馈中的错误（不是我对人工智能的怀疑）的消息时，他们的回应似乎也有点怀疑人工智能的使用。 例如：  他们引用我的部分作品，并且未包含声明的内容，例如“考虑&#39;x&#39;”或“‘y’的后续行动”。同时，前面的句子/段落中显然提供了此类内容。 他们阅读得如此仔细，以至于他们似乎将单词之间不一致的间距标记为格式错误。同时，此类文本被设置为“合理”，这是一种常规格式设置，旨在增强正文文本的外观。 据说整个文本都存在拼写和语法问题，但经过我和教职员工的审查，无法识别任何内容。 有关视觉元素的明显错误。例如，当图表标题明显位于图表下方时，批评图表标题放置在图表上方。或者，当只有一个图形（复数）时，讨论图形标题的位置。阅读作业的人怎么可能在视觉元素上犯这样的错误？ 提供高级摘要，但缺少作业的基本细节，并使用模糊和机械的语言/单词选择（例如，多方面/结果）。有时，他们最终还会重复评分标准来说明评分等级之间的差异，然后声称客观的东西是主观的，因此不可争议。  当我向课程召集人提出错误时，她似乎在大多数问题上都加倍努力，并且根据我们的电子邮件，她似乎自己使用了人工智能。课程召集人可以是原始评分者。此外，由于隐含的学术诚信问题，我害怕向教师提出我的担忧，因为存在遭到报复的风险——课程召集人很有影响力，他们很可能会在我未来的工作上打折扣，并在我毕业后给我带来专业上的困难。毕业。鉴于我们漫长的电子邮件交流，即使我匿名举报，课程召集人仍然可能知道是我干的。我曾短暂考虑过请求正式评论，但这很可能会直接返回给课程召集人，而且我可能会受到惩罚（大学政策没有规定不同的标记）。 现在，这是我需要您的帮助：  您认为我有充分的理由怀疑人工智能的使用吗？请参阅民意调查。为什么/为什么不？ 人工智能使用有哪些危险信号？您有什么好的资源可以链接吗？我尝试过一些人工智能检测器，但这似乎太先进了。 您是否知道有学术人员/教师秘密使用人工智能进行评分？他们使用什么类型的程序/软件？是否允许上传评分细则以及作业和提示？ 您建议我如何解决该问题？我担心如果被教员发现会遭到报复。然而，我希望这些问题得到解决，特别是在监督不足的情况下继续使用人工智能有可能继续损害我的分数。我正在考虑非正式地向我的共同主管寻求建议。我们有良好的工作关系，我信任他们。我是学生代表团体的一员，但我不知道其他学生有类似的情况，如果我作为代表正式提出，我的身份就太明显了。  请分享您的想法， 谢谢！ 查看投票&lt; /p&gt;   由   提交 /u/Realistic_Repair5195   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmaddk/academic_misconduct_errorriddled_feedback_on_a/</guid>
-      <pubDate>Tue, 07 May 2024 12:10:20 GMT</pubDate>
+      <title>幻灯片的谈话轨迹生成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmcjyn/talk_track_generation_for_slide_decks/</link>
+      <description><![CDATA[工作中最烦人的事情之一就是收到一份没有演讲轨道的演示文稿。是否有任何工具可以分析演示文稿本身的内容，并提供一些背景信息来帮助编写演讲轨道？    提交人    /u/Abductedagain   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmcjyn/talk_track_generation_for_slide_decks/</guid>
+      <pubDate>Tue, 07 May 2024 13:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>第一篇“艺术家”评论👾✨（GPT4 和 Dalle 3）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm9v4f/first_artist_review_gpt4_dalle_3/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cm9ijk&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm9v4f/first_artist_review_gpt4_dalle_3/</guid>
-      <pubDate>Tue, 07 May 2024 11:42:57 GMT</pubDate>
+      <title>LLM 质量是否仅取决于训练数据质量、大小和参数？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmbpxt/does_llm_quality_only_depend_on_training_data/</link>
+      <description><![CDATA[所有公司都使用相同的 LLM 架构实现并使用不同的数据集对其进行训练吗？或者他们使用完全不同的架构？   由   提交/u/gizia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmbpxt/does_llm_quality_only_depend_on_training_data/</guid>
+      <pubDate>Tue, 07 May 2024 13:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在台北举办的为期一周的全球黑客马拉松和离线人工智能研讨会活动</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmb533/our_week_long_global_hackathon_offline_ai/</link>
+      <description><![CDATA[ 由   提交 /u/NumbersProtocol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmb533/our_week_long_global_hackathon_offline_ai/</guid>
+      <pubDate>Tue, 07 May 2024 12:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>语义层运动：兴起与现状</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmaxcn/the_semantic_layer_movement_the_rise_current_state/</link>
+      <description><![CDATA[语义不信任、可靠的语义堆栈、数据 API 和产品  在本文中，作者深入探讨了当代数据领域中语义层运动的出现和现状。本文探讨了一系列相关方面，探讨了普遍存在的挑战、创新解决方案等。  在此处阅读完整文章：https://moderndata101.substack.com/p/the-semantic-movement-the-story-of     提交人    /u/growth_man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmaxcn/the_semantic_layer_movement_the_rise_current_state/</guid>
+      <pubDate>Tue, 07 May 2024 12:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>学术不端行为：大学作业的错误反馈；是AI生成的吗？？？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmaddk/academic_misconduct_errorriddled_feedback_on_a/</link>
+      <description><![CDATA[大家好， 我最近收到了关于我提交的作业的反馈，并收到了一些错误的批评。我非常怀疑一个人会犯这些错误，并且有时结合机器人的写作风格，我想知道教师是否正在使用人工智能来提供反馈。教师从未提醒学生在评分中可能使用人工智能。当我向课程召集人发送关于反馈中的错误（不是我对人工智能的怀疑）的消息时，他们的回应似乎也有点怀疑人工智能的使用。 例如：  他们引用我的部分作品，并且不包含声明的内容，例如“考虑&#39;x&#39;”或“‘y’的后续行动”。同时，前面的句子/段落中显然提供了此类内容。 他们阅读得如此仔细，以至于他们似乎将单词之间不一致的间距标记为格式错误。同时，此类文本被设置为“合理”，这是一种常规格式设置，旨在增强正文文本的外观。 据说整个文本都存在拼写和语法问题，但经过我和教职员工的审查，无法识别任何内容。 有关视觉元素的明显错误。例如，当图表标题明显位于图表下方时，批评图表标题放置在图表上方。或者，当只有一个图形（复数）时，讨论图形标题的位置。阅读作业的人怎么可能在视觉元素上犯这样的错误？ 提供高级摘要，但缺少作业的基本细节，并使用模糊和机械的语言/单词选择（例如，多方面/结果）。有时，他们最终还会重复评分标准来说明评分等级之间的差异，然后声称客观的东西是主观的，因此不可争议。  当我向课程召集人提出错误时，她似乎在大多数问题上都加倍努力，并且根据我们的电子邮件，她似乎自己使用了人工智能。课程召集人可以是原始评分者。此外，由于隐含的学术诚信问题，我害怕向教师提出我的担忧，因为存在遭到报复的风险——课程召集人很有影响力，他们很可能会在我未来的工作上打折扣，并在我毕业后给我带来专业上的困难。毕业。鉴于我们漫长的电子邮件交流，即使我匿名举报，课程召集人仍然可能知道是我干的。我曾短暂考虑过请求正式评论，但这很可能会直接返回给课程召集人，而且我可能会受到惩罚（大学政策没有规定不同的标记）。 现在，这是我需要您的帮助：  您认为我有充分的理由怀疑人工智能的使用吗？请参阅民意调查。为什么/为什么不？ 人工智能使用有哪些危险信号？您有什么好的资源可以链接吗？我尝试过一些人工智能检测器，但这似乎太先进了。 您是否知道有学术人员/教师秘密使用人工智能进行评分？他们使用什么类型的程序/软件？是否允许上传评分细则以及作业和提示？ 您建议我如何解决该问题？我担心如果被教员发现会遭到报复。然而，我希望这些问题得到解决，特别是在监督不足的情况下继续使用人工智能有可能继续损害我的分数。我正在考虑非正式地向我的共同主管寻求建议。我们有良好的工作关系，我信任他们。我是学生代表团体的一员，但我不知道其他学生有类似的情况，如果我作为代表正式提出，我的身份就太明显了。  请分享您的想法， 谢谢！ 编辑：如果您投票，请评论您的理由，以便我理解 查看投票   由   提交 /u/Realistic_Repair5195   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmaddk/academic_misconduct_errorriddled_feedback_on_a/</guid>
+      <pubDate>Tue, 07 May 2024 12:10:20 GMT</pubDate>
     </item>
     <item>
       <title>人工智能对人类构成生存威胁吗？</title>
@@ -25,13 +46,6 @@
       <description><![CDATA[https://www.verity .news/controversy/ai-existential-threat   由   提交 /u/DeepDreamerX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm8itd/does_ai_pose_an_existential_threat_to_humanity/</guid>
       <pubDate>Tue, 07 May 2024 10:21:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>“人肉”LLM 的词是什么（指出他不是人类）？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm887d/what_is_the_word_for_doxing_an_llm_calling_out/</link>
-      <description><![CDATA[  由    /u/Connect_Corner_5266  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm887d/what_is_the_word_for_doxing_an_llm_calling_out/</guid>
-      <pubDate>Tue, 07 May 2024 10:01:40 GMT</pubDate>
     </item>
     <item>
       <title>Opera的AI助手现在总结一下Android设备上的网页</title>
@@ -48,37 +62,23 @@
       <pubDate>Tue, 07 May 2024 08:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>重大新闻！ OpenAI 准备推出自己的人工智能搜索引擎</title>
+      <title>重磅新闻！OpenAI 准备推出自己的人工智能搜索引擎</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm6pju/big_news_openai_is_ready_to_launch_its_own_search/</link>
       <description><![CDATA[ 由   提交/u/Technicallysane02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm6pju/big_news_openai_is_ready_to_launch_its_own_search/</guid>
       <pubDate>Tue, 07 May 2024 08:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法使用 LIama 用于工作？</title>
+      <title>有没有办法在工作中使用 LIama？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm6af2/is_there_a_way_to_use_liama_for_work/</link>
       <description><![CDATA[嗨，我从昨天开始在计算机上使用 LIama 仅用于文本。但我想知道它是否还有其他可能性，例如阅读和分析文档。  我想使用ChatGPT助手来分析一些文档，它已经运行得很好了。问题是，我在一家非常大的公司工作，我必须分析的文档包含太多敏感信息。  由于我的计算机上现在有一个神经网络，我想知道是否可以使用它来分析我的文档。  这些文件太大，无法手动完成（大约 2000 页），而且太混乱，无法使用 python 脚本提取数据。但我很确定 IA 可以很容易地阅读它。    由   提交 /u/Jokarbott   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm6af2/is_there_a_way_to_use_liama_for_work/</guid>
       <pubDate>Tue, 07 May 2024 07:41:57 GMT</pubDate>
     </item>
     <item>
-      <title>保护人工智能隐私：高级策略和解决方案 | PVML</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm4qge/preserving_privacy_in_ai_advanced_strategies_and/</link>
-      <description><![CDATA[在开发新的人工智能产品时，保护个人隐私至关重要，隐私问题可能会严重影响收集用户数据的产品在市场上的成功。以下指南探讨了如何使用高级隐私保护技术来实现这一点：在人工智能  差分隐私 联邦学习 同态加密    由   提交/u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm4qge/preserving_privacy_in_ai_advanced_strategies_and/</guid>
-      <pubDate>Tue, 07 May 2024 05:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发现了一个理查德·西蒙斯频道，我几乎可以肯定它完全是人工智能生成的，但它欺骗了主要媒体。我可以接受健康检查吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm48fk/i_discovered_a_richard_simmons_channel_that_im/</link>
-      <description><![CDATA[背景故事：我不太关注名人新闻，但以下是我对近年来理查德·西蒙斯报道的记忆：基本上，理查德·西蒙斯是近 50 年来，他一直是世界上最大的健身影响者，但近年来他已成为隐士。起初，有传言称他被他的经理或家人囚禁。最后，他发布了视频消息说他很好。这就像 2021 年什么的，所以视频显然是真实的。他基本上只是说他不想再成为名人了。最近，保利·肖尔决定在一部传记片中扮演西蒙斯。西蒙斯显然说不。这家伙不想再做名人的事情了，所以肖尔如此公开地提出要求是不尊重的，恕我直言。无论如何……从那时起，这个频道就出现在 YouTube 上，自称是理查德·西蒙斯 (Richard Simmons) 的 YouTube 频道，但对我来说它看起来像 AI。 该频道名为 @theWeightSaint 和他们声称自己是理查德·西蒙斯 YouTube 官方频道。他们所有的视频似乎都使用人工智能生成的理查德·西蒙斯的声音，并且评论看起来都是人工智能生成的。看来他们正在利用西蒙斯的处境。 作为看起来明显的人工智能生成内容的示例：请查看 此视频，他们刚刚在 10 小时前发布。看起来这显然是人工智能生成的。看看评论。对我来说，它们看起来就像机器人评论。 显然是人工智能，对吧？除了... 有关理查德·西蒙斯语音留言的文章由 人物杂志，《每日邮报》，以及名为 流行文化。 所以这可能只是一些白痴“记者”不关心真相，只是发布内容以获取点击，对吗？或者这些商店可能属于同一家公司？如果是这样的话，也许他们正在撰写有关视频的文章来生成 SEO 链接？我查了一下，《每日邮报》归《每日邮报》和《每日邮报》所有。 General Trust，由 DMG Media 出版。 People is Dotdash Meridith。所以它们看起来像是独立的实体......除非有人过度就业。您知道，全职为多家公司远程工作。像这样的人可能会创建一个这样的频道并从他们工作的所有地方生成反向链接？这可能是锡箔帽子的领域。我只是很震惊这个火腿交给人工智能的东西欺骗了任何人，所以我试图理解人们表现得像真的一样的角度。除非我错了。也许我是个愤世嫉俗的混蛋？ 你们认为我错了吗？我的意思是，这显然是人工智能，对吧？ TL;DR - 这个视频是人工智能，对吧？    由   提交 /u/bubblesort   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm48fk/i_discovered_a_richard_simmons_channel_that_im/</guid>
-      <pubDate>Tue, 07 May 2024 05:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个人工智能来观察我的手机屏幕并记住它所看到的内容</title>
+      <title>我需要一个人工智能来观看我的手机屏幕并记住它所看到的内容</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cm3i6f/i_need_an_ai_that_watches_my_phone_screen_and/</link>
-      <description><![CDATA[这肯定还不存在，但在我的工作中，我处理很多不同的手机应用程序，其中包含大量客户信息。这些应用程序未连接，因此我经常在它们之间切换以将数据从一个应用程序输入到另一个应用程序。  如果我有一个内置的人工智能工具，我的工作会容易得多，我可以直接说“用我们刚刚看到的其他应用程序中的客户信息填写此付款表格”。它会记住看过它并自动填写表格。  可能是一个非常小众的用例，可能很难构建，但这是我今天想到的   由   提交 /u/Chr-whenever   /u/Chr-whenever  reddit.com/r/ArtificialInteligence/comments/1cm3i6f/i_need_an_ai_that_watches_my_phone_screen_and/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[这肯定还不存在，但我的工作需要处理很多不同的手机应用程序，其中包含大量客户信息。这些应用程序没有连接，所以我经常在它们之间切换，将数据从一个应用程序输入到另一个应用程序。  如果我有一个内置的人工智能工具，我的工作会轻松得多，我只需说“用我们刚刚看到的另一个应用程序中的客户信息填写这个付款表格”，它就会记得看过它并自动填写表格。  可能是一个非常小众的用例，可能很难构建，但这是我今天想到的     提交人    /u/Chr-whenever   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cm3i6f/i_need_an_ai_that_watches_my_phone_screen_and/</guid>
       <pubDate>Tue, 07 May 2024 04:36:21 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
