@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>英国广播公司的新闻</title>
+    <title>英国广播公司新闻</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻 - 世界</description>
-    <lastBuildDate>Mon, 06 May 2024 21:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 00:56:28 GMT</lastBuildDate>
     <item>
-      <title>波音公司因 787 检查疑点面临新调查</title>
+      <title>普京再次宣誓就职 克里姆林宫不太可能发生改变</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68964677</link>
+      <description><![CDATA[大多数俄罗斯人似乎对他们的总统感到满意，尽管他在乌克兰发动战争并遏制民主。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68964677</guid>
+      <pubDate>Tue, 07 May 2024 00:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音公司因 787 检查疑点面临新质询</title>
       <link>https://www.bbc.co.uk/news/business-68966894</link>
       <description><![CDATA[波音公司告诉美国监管机构，它可能没有正确检查其 787 梦想客机。]]></description>
       <guid>https://www.bbc.co.uk/news/business-68966894</guid>
-      <pubDate>Mon, 06 May 2024 20:47:37 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 00:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>赞达亚 (Zendaya) 和金·卡戴珊 (Kim Kardashian) 在 Met Gala 红毯上惊艳亮相</title>
+      <link>https://www.bbc.co.uk/news/live/world-us-canada-68955283</link>
+      <description><![CDATA[名人们现身纽约市的时尚之夜。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/world-us-canada-68955283</guid>
+      <pubDate>Mon, 06 May 2024 20:15:41 GMT</pubDate>
     </item>
     <item>
       <title>美军士兵因盗窃罪在俄被捕</title>
       <link>https://www.bbc.co.uk/news/world-us-canada-68966860</link>
-      <description><![CDATA[据 BBC 合作伙伴 CBS 报道，这名警官于 5 月 2 日被拘留，他被指控偷窃一名妇女的财物。]]></description>
+      <description><![CDATA[据 BBC 合作伙伴哥伦比亚广播公司报道，这名警官于 5 月 2 日被拘留，他被指控偷窃一名妇女的物品。]]></description>
       <guid>https://www.bbc.co.uk/news/world-us-canada-68966860</guid>
       <pubDate>Mon, 06 May 2024 19:56:59 GMT</pubDate>
     </item>
@@ -27,23 +41,9 @@
       <pubDate>Mon, 06 May 2024 17:45:27 GMT</pubDate>
     </item>
     <item>
-      <title>越南数百人因吃面包而生病</title>
-      <link>https://www.bbc.com/news/articles/c51n0731nklo</link>
-      <description><![CDATA[超过560名越南人因食用三明治疑似食物中毒被送往医院。]]></description>
-      <guid>https://www.bbc.com/news/articles/c51n0731nklo</guid>
-      <pubDate>Mon, 06 May 2024 17:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 2024 年 Met Gala 您需要了解的一切</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68966016</link>
-      <description><![CDATA[英国作家 JG Ballard 的短篇小说成为这一年度时尚盛会的最新主题。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68966016</guid>
-      <pubDate>Mon, 06 May 2024 17:38:20 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯将在西方“威胁”后举行核演习</title>
       <link>https://www.bbc.com/news/articles/cq5npwdv3wzo</link>
-      <description><![CDATA[克里姆林宫称，俄罗斯将举行战术核武器演习，以回应法国和英国最近的言论。]]></description>
+      <description><![CDATA[克里姆林宫表示，俄罗斯将举行战术核武器演习，以回应法国和英国最近的言论。]]></description>
       <guid>https://www.bbc.com/news/articles/cq5npwdv3wzo</guid>
       <pubDate>Mon, 06 May 2024 16:38:54 GMT</pubDate>
     </item>
@@ -55,11 +55,11 @@
       <pubDate>Mon, 06 May 2024 16:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>法官警告特朗普，他因违反禁言令而面临牢狱之灾</title>
-      <link>https://www.bbc.co.uk/news/live/world-us-canada-68955286</link>
-      <description><![CDATA[禁言令裁决后，检察官在审判中使用了两名证人提供关键证据。]]></description>
-      <guid>https://www.bbc.co.uk/news/live/world-us-canada-68955286</guid>
-      <pubDate>Mon, 06 May 2024 12:29:37 GMT</pubDate>
+      <title>如果特朗普继续违反禁言令，法官威胁入狱</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68945269</link>
+      <description><![CDATA[法官发出了迄今为止最严重的警告，称这些违法行为是“对法治的直接攻击”。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68945269</guid>
+      <pubDate>Mon, 06 May 2024 14:58:54 GMT</pubDate>
     </item>
     <item>
       <title>墨西哥称冲浪者可能死于劫车</title>
@@ -69,9 +69,9 @@
       <pubDate>Mon, 06 May 2024 12:29:23 GMT</pubDate>
     </item>
     <item>
-      <title>内塔尼亚胡表示哈马斯接受的协议“远未满足以色列的要求”</title>
+      <title>由于加沙停火协议的命运悬而未决，以色列袭击了拉法</title>
       <link>https://www.bbc.co.uk/news/live/world-middle-east-68963839</link>
-      <description><![CDATA[哈马斯在一份声明中表示，它已经批准了埃及和卡塔尔调解人提出的一项协议。]]></description>
+      <description><![CDATA[哈马斯早些时候表示已批准停火提议，但以色列内塔尼亚胡表示“远未满足”要求。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-middle-east-68963839</guid>
       <pubDate>Mon, 06 May 2024 05:50:01 GMT</pubDate>
     </item>
