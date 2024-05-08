@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
-    <description>用于讨论 ChatGPT 和 AI 的 Subreddit。与 OpenAI 无关。</description>
-    <lastBuildDate>Wed, 08 May 2024 18:16:25 GMT</lastBuildDate>
+    <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
+    <lastBuildDate>Wed, 08 May 2024 21:13:41 GMT</lastBuildDate>
     <item>
-      <title>帮助 GPT 4 在尝试将图像转换为 Excel 表时陷入无限循环。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnb9ti/help_with_gpt_4_getting_stuck_infinite_loop/</link>
-      <description><![CDATA[我正在尝试让 GPT4 使用视觉从  提取数据这个照片复制页面。 似乎已经很远了，但随后它不断出现这个 错误。它表示将尝试修复它，但它不断出现类似的错误。  关于修复此问题的提示有什么建议吗？我做了几次尝试，但错误仍然存​​在。   由   提交 /u/LayneWilson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnb9ti/help_with_gpt_4_getting_stuck_infinite_loop/</guid>
-      <pubDate>Wed, 08 May 2024 18:11:06 GMT</pubDate>
+      <title>谷歌宣布推出 AlphaFold 3 人工智能模型，用于预测所有生命分子的结构和相互作用</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnfciw/google_announces_alphafold_3_ai_model_for/</link>
+      <description><![CDATA[      https://reddit.com/link/1cnfciw/video/0qvypd62o9zc1/player AlphaFold 3 可以生成蛋白质、DNA、RNA 和较小分子的 3D 结构，同时揭示它们如何组合在一起。  它还可以模拟控制细胞健康功能的化学变化 - 当受到破坏时，可能会导致疾病。 该模型可以帮助解锁生物学、药物方面的新进展发展，并推进我们基因的研究。 https://thesummary.ai /p/alphafold-3-enhances-drug-research   由   提交 /u/Altruistic_Gibbon907   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnfciw/google_announces_alphafold_3_ai_model_for/</guid>
+      <pubDate>Wed, 08 May 2024 21:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>型号规格介绍</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnb4ue/introducing_the_model_spec/</link>
-      <description><![CDATA[ 由   提交/u/shogun2909  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnb4ue/introducing_the_model_spec/</guid>
-      <pubDate>Wed, 08 May 2024 18:05:22 GMT</pubDate>
+      <title>得到他们</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnfbzm/got_em/</link>
+      <description><![CDATA[       由   提交/u/gheneji  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnfbzm/got_em/</guid>
+      <pubDate>Wed, 08 May 2024 21:03:34 GMT</pubDate>
     </item>
     <item>
-      <title>今天还有其他人因此严重滞后吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnb4rw/anyone_else_getting_serious_lag_from_it_today/</link>
-      <description><![CDATA[当我问它问题或给它提示时，它只是坐在那里什么都不做 只有当我重新加载时，它才会自行解决窗口    由   提交/u/remixedmoon5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnb4rw/anyone_else_getting_serious_lag_from_it_today/</guid>
-      <pubDate>Wed, 08 May 2024 18:05:17 GMT</pubDate>
+      <title>要求 ChatGPT 预测一个未经证实的新理论。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnf1oz/asking_chatgpt_to_predict_an_unproven_new_theory/</link>
+      <description><![CDATA[       由   提交/u/PlanetRenox  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnf1oz/asking_chatgpt_to_predict_an_unproven_new_theory/</guid>
+      <pubDate>Wed, 08 May 2024 20:51:16 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 无法使用内存 + 自定义指令来遵循简单的指令</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnay1h/chatgpt_cant_follow_a_simple_instruction_using/</link>
-      <description><![CDATA[      大家好！我是一名作家，我喜欢使用 ChatGPT 来完成我的段落以获取任何想法或完成我遇到困难的事情。然而，我最讨厌的还是它一直使用对立面。我一遍又一遍地要求它停止使用对立面。这是在它的记忆中： https://preview.redd.it/dvdpwb4hr8zc1.png?width=1203&amp;format=png&amp;auto=webp&amp;s=de108ada5f85e0e8048122df6f319dcde0cc9f6a 然后...我明白了。 https://preview.redd.it/5g75buxhr8zc1.png?width=1121&amp;format=png&amp;auto=webp&amp;s=8109281633b0d3d306cf353a7188a1ffd176e4df 它不会遵循简单的指令。它确实不会。没有在其内存中使用对立面以及自定义指令。我能做些什么让它停止吗？     提交人    /u/Fantastic_Cup_6833   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnay1h/chatgpt_cant_follow_a_simple_instruction_using/</guid>
-      <pubDate>Wed, 08 May 2024 17:57:37 GMT</pubDate>
+      <title>萨姆·奥尔特曼在被问及财务问题时侮辱面试官</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnf0le/sam_altman_insults_interviewers_when_asked/</link>
+      <description><![CDATA[ 由   提交/u/dimknaf  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnf0le/sam_altman_insults_interviewers_when_asked/</guid>
+      <pubDate>Wed, 08 May 2024 20:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 ChatGPT 这么慢？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnag94/why_is_chatgpt_so_slow/</link>
-      <description><![CDATA[ChatGPT 最近很慢。假设由于广泛使用。有哪些免费资源？   由   提交/u/Dry-Double-6845   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnag94/why_is_chatgpt_so_slow/</guid>
-      <pubDate>Wed, 08 May 2024 17:36:35 GMT</pubDate>
+      <title>花生酱果冻时间到了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnetrr/its_peanut_butter_jelly_time/</link>
+      <description><![CDATA[        由   提交/u/NuclearGlory03   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnetrr/its_peanut_butter_jelly_time/</guid>
+      <pubDate>Wed, 08 May 2024 20:41:28 GMT</pubDate>
     </item>
     <item>
-      <title>大学作业的错误反馈；可以是AI生成的吗？？？请帮忙！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cna5bh/errorriddled_feedback_on_a_university_assignment/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cna5bh/errorriddled_feedback_on_a_university_assignment/</guid>
-      <pubDate>Wed, 08 May 2024 17:23:46 GMT</pubDate>
+      <title>chatgpt 可以玩哪些有趣的游戏？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnekrx/what_are_some_fun_games_you_can_play_with_chatgpt/</link>
+      <description><![CDATA[ 由   提交 /u/Messier81-Native   /u/Messier81-Native reddit.com/r/ChatGPT/comments/1cnekrx/what_are_some_fun_games_you_can_play_with_chatgpt/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnekrx/what_are_some_fun_games_you_can_play_with_chatgpt/</guid>
+      <pubDate>Wed, 08 May 2024 20:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>您是否愿意向每条消息收取 1 美分，而不是每月 20 美元的固定费率？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn9oad/would_you_rather_be_charged_1c_per_message_than_a/</link>
-      <description><![CDATA[ 由   提交/u/5027622106  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn9oad/would_you_rather_be_charged_1c_per_message_than_a/</guid>
-      <pubDate>Wed, 08 May 2024 17:03:33 GMT</pubDate>
+      <title>使用 GPT 解释数据并得出结论</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnejxj/using_gpt_for_interpreting_and_drawing/</link>
+      <description><![CDATA[我最近一直在尝试试验 ChatGPT 在解释数据和从数据中得出结论方面的有效性。我并不是指进行实际的分析（SQL/Python 等），只是弄清楚“那又怎么样”。一旦分析完成。  具体来说，我一直在尝试使用 GPT4 的三种方法：  给它一个表格作为图像，并要求它解释它显示的趋势和趋势关键要点 以实际文本或 json 字典的形式提供数据表，并要求其识别和解释关键趋势  给它一些重要图表的图片，并要求它解释趋势和关键要点  到目前为止，我还无法最终确定其中哪些是最好的方法。它们似乎都适合某些类型的情况。还有其他人经历过这种类型的锻炼吗？如果是这样，您对最佳方法的结论是否有所不同？   由   提交 /u/Otherwise-Youth2025    reddit.com/r/ChatGPT/comments/1cnejxj/using_gpt_for_interpreting_and_drawing/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnejxj/using_gpt_for_interpreting_and_drawing/</guid>
+      <pubDate>Wed, 08 May 2024 20:29:22 GMT</pubDate>
     </item>
     <item>
-      <title>想要一个好的答案，却得到了这个</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn9ha6/wanted_a_good_answer_got_this_instead/</link>
-      <description><![CDATA[       由   提交 /u/thottweiler   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn9ha6/wanted_a_good_answer_got_this_instead/</guid>
-      <pubDate>Wed, 08 May 2024 16:55:21 GMT</pubDate>
+      <title>有没有带有预训练模型的好页面，可以免费使用 AI 生成图像？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnej58/any_good_pages_with_pretrained_models_for/</link>
+      <description><![CDATA[我正在寻找这个来开始制作图像   由   提交/u/raul_aguas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnej58/any_good_pages_with_pretrained_models_for/</guid>
+      <pubDate>Wed, 08 May 2024 20:28:23 GMT</pubDate>
     </item>
     <item>
-      <title>亲爱的上帝...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn8z1j/dear_god/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/Hawinzi  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn8z1j/dear_god/</guid>
-      <pubDate>Wed, 08 May 2024 16:34:11 GMT</pubDate>
+      <title>文字还是语音？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnega5/text_or_voice/</link>
+      <description><![CDATA[只是想知道，您更喜欢输入提示还是使用语音功能？为什么？ 查看民意调查 &lt;!-- SC_ON - -&gt;  由   提交/u/Human-Raspberry5973  /u/Human-Raspberry5973 reddit.com/r/ChatGPT/comments/1cnega5/text_or_voice/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnega5/text_or_voice/</guid>
+      <pubDate>Wed, 08 May 2024 20:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>使用 HTML 和 JavaScript 进行物理模拟</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn8v9r/made_a_physics_simulation_using_html_and/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/moontoadzzz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn8v9r/made_a_physics_simulation_using_html_and/</guid>
-      <pubDate>Wed, 08 May 2024 16:29:51 GMT</pubDate>
+      <title>Quizopia（更新）- 在评论中添加了点击继续（GooglePlay / AppStore）链接</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cne8s5/quizopia_update_added_tap_to_continue_googleplay/</link>
+      <description><![CDATA[       由   提交 /u/negleft   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cne8s5/quizopia_update_added_tap_to_continue_googleplay/</guid>
+      <pubDate>Wed, 08 May 2024 20:15:55 GMT</pubDate>
     </item>
     <item>
-      <title>我如何在 ELI5 中向客户解释随着数据量的增加您会得到不同的结果？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn8pmj/how_do_i_explain_in_eli5_to_a_client_that_youll/</link>
-      <description><![CDATA[客户端采用一些示例，编写提示并获得正确答案。由于我们正在运行超过数百万个数据点，因此在某些情况下输出是错误的。 想要向客户解释为什么会发生这种情况，以便跳过该流程以获得富有成效的结果。  &gt;我们在处理过程中确实得到了 8/10 个正确的示例。   由   提交/u/bettercallpaul7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn8pmj/how_do_i_explain_in_eli5_to_a_client_that_youll/</guid>
-      <pubDate>Wed, 08 May 2024 16:23:16 GMT</pubDate>
+      <title>工作有点无聊，试图让 ChatGPT 和 Copilot 解决今天的“信箱”难题。 ChatGPT就是这样，Copilot也没有成功。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cne52q/got_a_little_bored_at_work_and_tried_to_get/</link>
+      <description><![CDATA[        由    /u/Icarus131  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cne52q/got_a_little_bored_at_work_and_tried_to_get/</guid>
+      <pubDate>Wed, 08 May 2024 20:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 语音聊天在语音输入到达聊天框之前自动翻译它吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn8l4d/gpt_voice_chat_autotranslating_voice_input_before/</link>
-      <description><![CDATA[我会说几种语言，有些甚至达到母语水平。我注意到 GPT 的音频处理发生了一些奇怪的情况。 发生了什么：例如，当我与 ChatGPT 进行语音聊天并用法语与其交谈时，有时，它会突然用英语回复我。 惊喜：发生几次这种情况后，我决定检查文本记录，看看是什么触发了这种情况。令我惊讶的是，有一个很长的“段落”。我用法语口述的回复实际上在聊天记录中只用英语记录（准确翻译）。于是，GPT用英语回复了我。  即   我触发 ChatGPT 语音聊天。 我开始用法语说话。 它用法语响应。 来回。 &lt; li&gt;突然它用英语回复。 我停止对话并检查文本对话。 倒数第二条消息（即我最后的声音输入）只是它的英文翻译 - 没有我的法语输入的痕迹。  就好像，它以某种方式在某个地方将法语预先翻译成在到达聊天框之前是英语。   条件：在其自定义指令中，GPT 知道这些语言我说话还有水平。 GPT-4 和 GPT-3.5 中都会发生这种情况。 GPT-4 中的实例较少（我想部分原因是考虑到上限，使用 GPT-4 时我的语音聊天要短得多）。  问题：   其他人也遇到过这种情况吗？  GPT 如何、在何处以及为什么将我的语音翻译成另一种语言，而我的原始语音输入没有记录在聊天历史记录中，也没有任何提示我这样做？ &lt; /ul&gt; 就好像我的录音不只是通过语音识别，而是在“GPT 黑匣子”内进行翻译。甚至在将其作为对话输入之前。  ​   由   提交 /u/spadaa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn8l4d/gpt_voice_chat_autotranslating_voice_input_before/</guid>
-      <pubDate>Wed, 08 May 2024 16:18:06 GMT</pubDate>
+      <title>我通过在 Discord 上玩 Wordle 来破坏 ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cne4r1/i_broke_chatgpt_on_discord_by_playing_wordle_with/</link>
+      <description><![CDATA[      &amp;# 32；由   提交 /u/IconXR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cne4r1/i_broke_chatgpt_on_discord_by_playing_wordle_with/</guid>
+      <pubDate>Wed, 08 May 2024 20:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>论文帮助中的人工智能检测</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn8ks0/ai_detection_in_essay_help/</link>
-      <description><![CDATA[我正在为我的历史课 DE（基本上是拼贴课）写一篇非常重要的论文。我是一个好学生，我不想因为使用 chat gpt 而惹上麻烦，而且我也不打算用它来写论文。如果我要求 chat gpt 为我写一篇论文，然后我用它来表达想法/完全改变它并解释它，我的论文会被标记为人工智能内容吗？我基本上是自己写的，但想法和结构将来自 chat gpt。我会因此而遇到麻烦吗？    由   提交/u/mozarts_piano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn8ks0/ai_detection_in_essay_help/</guid>
-      <pubDate>Wed, 08 May 2024 16:17:43 GMT</pubDate>
+      <title>我完成了..它被削弱得难以置信..从字面上看，我什至无法给我读pdf，它只是在第1页之后开始编造东西。多次尝试，它结束了，取消了🤷</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cndwng/im_done_its_been_nerfed_beyond_belief_literally/</link>
+      <description><![CDATA[怎么会变得这么糟糕？....    由    /u/_Dilligent  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cndwng/im_done_its_been_nerfed_beyond_belief_literally/</guid>
+      <pubDate>Wed, 08 May 2024 20:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>我知道免费的 ChatGPT 有所欠缺，但是在超级基本信息上犯了错误？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn8jrx/i_understand_that_free_chatgpt_is_lacking_but/</link>
-      <description><![CDATA[   /u/Aptms21  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn8jrx/i_understand_that_free_chatgpt_is_lacking_but/</guid>
-      <pubDate>Wed, 08 May 2024 16:16:34 GMT</pubDate>
+      <title>有chatgpt 4，但是无论我的提示是什么，我总是收到此错误消息。我该如何解决此问题或联系支持人员？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cndrix/have_chatgpt_4_however_no_matter_what_my_promt_is/</link>
+      <description><![CDATA[    /u/NAMEIZZ   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cndrix/have_chatgpt_4_however_no_matter_what_my_promt_is/</guid>
+      <pubDate>Wed, 08 May 2024 19:56:16 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以劝我不要取消 GPT4 订阅吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cn87kr/can_somebody_please_talk_me_out_of_cancelling_my/</link>
-      <description><![CDATA[今天早上我升级到订阅，不到一个小时就达到了 40 次提示的上限。为此我花了很多钱，我感到非常恼火。必须有人劝我不要立即取消此订阅。我很确定每次我撞到这堵墙时，这都会让我烦恼。感觉就像我因为付钱给这些人而受到惩罚。  我对这里的讽刺感到非常困惑。为什么有人继续为此付费？自定义 GPT 有那么有价值吗？到目前为止，我没有注意到回应有任何改善。只是速度比较慢而已。我想评论它记住上下文的能力，但我什至没有足够的时间开始第二次对话。  不过，我愿意接受别人反对我的观点。显然，成千上万的人发现这些扩展的服务很有用。请告诉我你坚持这样做的理由。还是你也放弃了？   由   提交/u/thudly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cn87kr/can_somebody_please_talk_me_out_of_cancelling_my/</guid>
-      <pubDate>Wed, 08 May 2024 16:02:31 GMT</pubDate>
+      <title>Nomi.ai 是如何训练的以及它如何从 GPT4 获得 NSFW 回复（文本和图像）？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cndgo4/how_was_nomiai_trained_and_how_did_it_manage_to/</link>
+      <description><![CDATA[  由    /u/waazus  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cndgo4/how_was_nomiai_trained_and_how_did_it_manage_to/</guid>
+      <pubDate>Wed, 08 May 2024 19:43:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

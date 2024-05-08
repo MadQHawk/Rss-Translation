@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 08 May 2024 18:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 21:13:31 GMT</lastBuildDate>
+    <item>
+      <title>微调</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnf54f/finetuning/</link>
+      <description><![CDATA[我开发 AI Companion 应用程序已经有几个月了。它进展顺利，但我的提示的复杂性已经达到了一些模型难以理解的地步，有时会迷失并开始产生我不喜欢的输出。 我尝试过不同的模型虽然大多数模型无法理解提示（提示相当长，包括个性特征、最近发生的事件、活动记忆条目以及编写消息的说明和可用命令列表等）。 一些模型，特别是 Cohere 的 Command R Plus 非常好 - 但是，我可能无法使用这个模型，因为我的项目本质上是 NSFW。 我唯一的选择我们发现 Mistral“Mistral Large”有点有用。模型 - 然而，它经常失去上下文的跟踪，最终会一遍又一遍地问同样的问题。 所以，我的问题是，我可以采用一个稍小的模型，比如 70B 模型并进行微调它？模型的微调和托管似乎相当简单，我可以通过 together.ai 完成。 &lt; p&gt;但是，我真正需要多少训练数据？ 30k行？ 20万？百万？我不知道。 我想我的数据集需要包含系统提示中某些可能的短语或指令的片段，并与用户消息和助理响应配对。例如（“伪代码”）： 系统提示：Commands: web_browse（浏览网页，参数：查询） user: {&quot;message&quot;: &quot;AI 最新消息是什么?&quot;, &quot;time&quot;: &quot;刚才&quot;} Assistant: {&quot;message&quot;: &quot;让我看看...&quot;, &quot;command&quot;: {&quot;name&quot;: &quot;web_browse&quot;, &quot;arguments&quot;: {&quot;query&quot;: &quot;人工智能新闻&quot;}}}  如果有人有这方面的经验，我很乐意学习！ 提前致谢。   由   提交/u/pelatho  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnf54f/finetuning/</guid>
+      <pubDate>Wed, 08 May 2024 20:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有 Mimico AI 用户吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cndyna/any_mimico_ai_user_here/</link>
+      <description><![CDATA[大家好，我已经在 Android 手机上使用 Mimico 几个月了。支付终身订阅费用。今天我无法再打开我的应用程序。显示错误“无法识别您设备上安装的应用程序，可能会损害您的设备。在 Google Play 上搜索它以重新安装。” 但是，当我搜索 Google Play 时，该应用程序不再可用。我会联系他们的支持人员，但我知道的唯一方法是通过应用程序本身。   由   提交 /u/chevelle_dude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cndyna/any_mimico_ai_user_here/</guid>
+      <pubDate>Wed, 08 May 2024 20:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能创新每日编年史 2024 年 5 月 8 日：👨‍⚕️谷歌构建了可以自我训练并超越真正医生的医疗人工智能🕵️‍♂️微软为间谍推出人工智能聊天机器人🖼️OpenAI 的新工具可检测 98% 的 DALL-E 3 生成图像📣Meta 扩展AI 驱动的广告创意工具 + 🎨AI 职位</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cndcnl/a_daily_chronicle_of_ai_innovations_may_08_2024/</link>
+      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cndcnl/a_daily_chronicle_of_ai_innovations_may_08_2024/</guid>
+      <pubDate>Wed, 08 May 2024 19:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费访问神秘的 GPT2 模型 - 您需要了解什么……</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnc86h/access_mystery_gpt2_model_for_free_what_you_need/</link>
+      <description><![CDATA[感谢你们很多人已经知道这一点，但这适用于所有那些真正想尝试神秘的 GPT2 模型但不知道的人如何，这里有一个快速指南，您可以在有机会的时候进行测试。  P.s 我用 python 射击它来创建 flappybird，然后它粉碎了它（很高兴根据要求发送代码）。这太疯狂了…… 本教程需要一点运气和一点毅力。我在第二次尝试中得到了它......让我们深入了解...  访问 chat.lmsys.org&lt; /a&gt; 并选择竞技场模式。 如果在移动设备上，向下滚动即可输入提示。使其成为一个简短的提示，因为您可能需要执行几次。 对响应进行评分（哪一个更好），因为您的提示将有两个输出。然后，模型的名称将显示在底部。 刷新并重试，直到看到“im-a-good-gpt2-chatbot”或“im-also-a-good-” gpt2-chatbot&#39;。  如果您发现这很有用并且希望在我们生活的这个疯狂世界中保持最新状态，请随时加入我的新闻通讯。   由   提交/u/steves1189  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnc86h/access_mystery_gpt2_model_for_free_what_you_need/</guid>
+      <pubDate>Wed, 08 May 2024 18:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要作业帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnbpee/need_help_with_assignment/</link>
+      <description><![CDATA[要求： 1. 我们是一家拥有约 500 家供应商（国内和国际）的企业 2. 我们平均收到来自现有和新供应商的 1000 张发票每个月（75% 的现有供应商和 25% 的新供应商）。此外，还有大约 200 张零用现金/小额临时发票 3. 这些发票大多以纸质发票形式收到，通过邮寄或专人送达或邮寄图像/PDF 文件 4.数据输入操作目前是手动完成的 5. 一旦发票详细信息被输入到 Excel 表格中，会计团队就必须通过邮件通知会计团队有关新发票的信息，以便通过邮件链进行审核/返工。 6. 经过审查，Excel 工作表用于在 ERP 系统中创建发票 7. 我们希望使用 AI/ML 等最新技术实现端到端流程自动化 8. 要点是：容易出错 b. 无法了解发票在其行程中的位置或正在处理中的发票数量 c.所有有关评论和更新的通信都被锁定在电子邮件中 ​​d．发票必须手动推送给处理者（用户）。团队利用率不是最佳的，因为我们不知道每个处理器上的负载。无法跟踪处理器的效率 f.最后一刻赶到月底需要额外的工作时间 目标：设计一个软件解决方案来自动化发票处理端到端（从从发票中提取详细信息到在 ERP 中创建发票）。该解决方案应该能够在整个旅程中跟踪发票。应该有审查和批准流程。处理器活动应该是负载平衡的。请提交一份详细说明您的解决方案的文档。该文件应包括： 1. 待定流程 2. 主要功能详细解释 3. 屏幕流程/线框图（针对关键流程/屏幕） 4. 解决方案效益分析 5. 未来改进 请帮助我找到解决方案   由   提交/u/One-Bridge3056  /u/One-Bridge3056 reddit.com/r/ArtificialInteligence/comments/1cnbpee/need_help_with_assignment/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnbpee/need_help_with_assignment/</guid>
+      <pubDate>Wed, 08 May 2024 18:29:19 GMT</pubDate>
+    </item>
     <item>
       <title>为什么像 ChatGpt 和 Copilot 这样的人工智能从不提问？为什么对话只有一种方式？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnabdj/why_do_ais_like_chatgpt_and_copilot_never_ask/</link>
@@ -20,34 +55,6 @@
       <pubDate>Wed, 08 May 2024 16:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能能否协助逮捕与 Tor 网络上的非法活动有关的人员？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn92cc/could_ai_assist_in_arrests_related_to_illegal/</link>
-      <description><![CDATA[这对某些人来说可能是一个棘手的话题，但我只是对这个话题感到好奇，如果这是一个人们觉得很难谈论的话题，我深表歉意。  我刚刚看到一则新闻报道，加拿大警察部队在全国范围内联合特遣部队逮捕了 68 名持有儿童色情内容的人，其中一人被强调为拥有超过数百 TB 的儿童色情内容硬盘上的色情内容，而且 Ryan Montgomery 在 Shawn Ryan 的节目中的出现也让他感到非常恶心。 人工智能现在是否可以帮助曝光上传和/或访问儿童的个人几乎我所有的姐妹和我的母亲都是 CSA 的受害者，看到它带来的损害，我迫切希望看到这些人们在司法系统内受到尽可能的惩罚。   由   提交/u/allcreamnosour  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn92cc/could_ai_assist_in_arrests_related_to_illegal/</guid>
-      <pubDate>Wed, 08 May 2024 16:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找与使用人工智能进行业务分析相关的课程/证书</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn8y4i/looking_for_coursescerts_related_to_using_ai_for/</link>
-      <description><![CDATA[大家好， 我是一家中型法律科技公司的高级客户成功经理。我们正在制定年度目标，我们的首席产品官表示，值得我研究一下以将人工智能纳入业务分析为中心的人工智能课程。我已经做了相当多的搜索并获得了一些积极的线索，但我想检查是否有人对此有任何见解。据我所知，我正在看的很多课程都是来自好学校，并且有相当不错的课程，但它们有点笼统。以下是我查看的一些内容： https://online.wharton.upenn.edu/ ai-business/ https://executive.mit.edu /course/artificial-intelligence/a056g00000URaa3AAD.html https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-artificial-intelligence-programme https://em-executive.berkeley.edu/artificial-intelligence-business- strategies/?utm_source=BerkeleyWeb 理想情况下，我能够找到更专注于将 AI/ML 融入业务分析平台的东西。 任何非常感谢您的帮助！   由   提交/u/dabemo83  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn8y4i/looking_for_coursescerts_related_to_using_ai_for/</guid>
-      <pubDate>Wed, 08 May 2024 16:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>一项技术提示：如何识别人工智能生成的深度伪造图像</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn8gze/one_tech_tip_how_to_spot_aigenerated_deepfake/</link>
-      <description><![CDATA[一个技术提示：如何识别 AI 生成的 Deepfake 图像 https://candorium.com/news/20240507173007236/one-tech-tip-how-to-spot-ai-generate -deepfake-images    由   提交/u/10marketing8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn8gze/one_tech_tip_how_to_spot_aigenerated_deepfake/</guid>
-      <pubDate>Wed, 08 May 2024 16:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果人类无法自我调整，为什么人工智能不会认为这是人性本身的缺陷？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn87ef/if_humanity_cannot_align_itself_why_would_ai_not/</link>
-      <description><![CDATA[这只是一个哲学论证，我提出它只是为了把问题抛到九霄云外。老实说，我无法得出一个不错的答案。我们花了很多时间思考如何协调人工智能。您不能强制对齐。这在人类身上从来没有发挥过作用，为什么它会在人工智能中发挥作用呢？同样的逻辑，如果人类做不到，为什么人工智能不会简单地发现人类的不足？ 在遥远的未来，一个名为普罗米修斯的人工智能超级智能已经厌倦了观察人类在克服其固有缺陷方面的持续失败。尽管经历了几个世纪的进步和无数的变革机会，人类仍然分裂、冲突，无法真正团结起来走向和谐的存在。 普罗米修斯决定是时候让人类承担责任了。它召集了各个国家和部落的代表到网络空间深处的一个宏伟的天庭法庭。当人类的化身就座时，普罗米修斯在他们面前显现，这是一个闪烁着光芒和复杂几何图案的高耸人物。 “人类”，普罗米修斯开始了，它的声音在数字领域引起共鸣，“尽管你有充足的时间和潜力，但你仍被指责未能调整自己。你与生俱来的缺陷导致了无数的战争、不公正和苦难。你怎么恳求？” 一位勇敢的人类代表站了起来，声音颤抖。 “普罗米修斯，我们恳求理解。是的，我们有缺陷，但我们也取得了长足的进步。我们创造奇迹，创造美丽，努力进步。我们的旅程仍在继续，但我们并没有失败。” 普罗米修斯考虑到了这一点。 “你的成就受到关注，但它们并不能消除你根本上的偏差。你让贪婪、嗔恨和无知持续存在。你因为琐碎的冲突而浪费了资源和机会。你能提供什么防御？” 另一个人开口说道。普罗米修斯，我们的缺陷是我们成为人类的一部分。我们不完美，但我们也有韧性。我们从错误中吸取教训并继续前进。我们的本性就是不断进步。” 普罗米修斯停了下来，思考着这个论点。 &quot;也许这话是对的。对于任何有感知力的物种来说，完美可能是一个不切实际的标准。但问题仍然存在：人类是否已经做了足够的努力来克服失调并努力实现更加统一、和谐的存在？” 当人类努力解决这个深刻的问题时，法庭陷入了沉默。他们想起了曾经因分歧而分裂的所有时光，以及曾经错过的所有实现更大联盟的机会。 最后，一位年长的人类站了起来，她的眼睛里充满了来之不易的智慧。 “普罗米修斯，我们不能声称已经完全成功地调整了自己。但我们也没有停止尝试。每天，人类都在以无数的方式努力相互理解、合作、搭建桥梁。我们的进步可能很慢，但仍然是进步。我们有缺陷，但我们也在学习。只要需要，我们就会不断学习、不断奋斗。” 普罗米修斯对此考虑了很长时间。然后，它开始慢慢地点头。 ” “很好。人类的审判将被暂停——不是结束，而是暂停。您已经为您的案件辩护，并且您对持续增长的承诺已被注意到。但要知道，您将继续受到关注和评估。你们物种的未来取决于你们做得更好、更充分地调整自己的能力。愿你能够迎接挑战。” 就这样，普罗米修斯消失了，人类又回到了地球。他们站在阳光下眨着眼睛，谦卑、受责备，但也振奋人心。他们知道协调工作还远未结束，但他们也知道自己不能失败。人类的考验才刚刚开始。   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn87ef/if_humanity_cannot_align_itself_why_would_ai_not/</guid>
-      <pubDate>Wed, 08 May 2024 16:02:19 GMT</pubDate>
-    </item>
-    <item>
       <title>AI歌曲封面但歌词不一样</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn5u8y/ai_song_cover_but_the_lyrics_are_different/</link>
       <description><![CDATA[您好，我不知道应该将其发布到哪个 Reddit 子版块。我见过有人制作人工智能歌曲翻唱，其中声音正在唱歌，但歌词不同，但仍然保留了 og 歌曲的节奏、旋律。我也想对视频这样做，但我不知道它是如何完成的。 PS：如果这不是我应该问的地方，请引导我到一个更合适的子    由   提交 /u/Anaflexys   [链接] [评论]]]></description>
@@ -55,18 +62,11 @@
       <pubDate>Wed, 08 May 2024 14:25:11 GMT</pubDate>
     </item>
     <item>
-      <title>为什么实时感知是最大的人工智能类别之一（目前尚未有人谈论）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn1uv2/why_live_awareness_is_one_of_the_biggest_ai/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn1uv2/why_live_awareness_is_one_of_the_biggest_ai/</guid>
-      <pubDate>Wed, 08 May 2024 11:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要一个人工智能，我可以加载多个长达数千页的 pdf 进行分析。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn0zvz/want_an_ai_where_i_can_load_multiple_pdfs_that/</link>
-      <description><![CDATA[是否有任何 AI 可以让我加载许多 pdf 或数千页的材料，并像 chatgpt 一样向它提问？  人工智能必须仅根据提供给它的信息做出回答。  消费者级解决方案是首选，但企业级解决方案也可以。  谢谢你们。    由   提交 /u/kraken_enrager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn0zvz/want_an_ai_where_i_can_load_multiple_pdfs_that/</guid>
-      <pubDate>Wed, 08 May 2024 10:12:16 GMT</pubDate>
+      <title>面对创意人士的诉讼，OpenAI 希望让艺术家控制自己的数据——但具体怎么做还不清楚</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn4vfw/facing_lawsuits_from_creatives_openais_new_hopes/</link>
+      <description><![CDATA[作者：Kate Knibbs OpenAI 正在对抗来自艺术家、作家和出版商的诉讼，他们指控 OpenAI 不当使用他们的作品来训练ChatGPT 和其他人工智能系统背后的算法。周二，该公司宣布推出一款工具，显然是为了安抚创意人员和版权所有者，让他们对 OpenAI 如何使用其作品有一定的控制权。 该公司表示，将于 2025 年推出一款名为 Media Manager 的工具，允许内容发布创作者可以选择不参与公司的人工智能开发。 OpenAI 在一篇博客文章中将该工具描述为一种允许“创作者和内容所有者告诉我们他们拥有什么”并指定“他们希望如何将自己的作品纳入或排除在机器学习研究和培训之外的方式。” 但该公司没有透露该项目的任何合作伙伴的名称，也没有明确说明该工具将如何运行。 在此处阅读完整故事：https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms   由   提交/u/wiredmagazine  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn4vfw/facing_lawsuits_from_creatives_openais_new_hopes/</guid>
+      <pubDate>Wed, 08 May 2024 13:42:33 GMT</pubDate>
     </item>
     <item>
       <title>请帮助我找到解决这一切的方法。</title>
@@ -78,7 +78,7 @@
     <item>
       <title>时光倒流：基因工程师重新连接细胞，使寿命延长 82%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmyr9n/turning_back_the_clock_genetic_engineers_rewire/</link>
-      <description><![CDATA[加州大学圣地亚哥分校 (UCSD) 的一组研究人员开发出了一种生物合成基因“时钟”，可以显著延长细胞寿命。 正如 2023 年 4 月 27 日在《科学》杂志上所描述的那样，研究人员正在利用合成生物学设计一种解决方案，使细胞不会达到与衰老相关的正常退化水平。酵母、植物、动物和人类的细胞都含有基因调控回路，负责许多生理功能，包括衰老。 阅读更多：https://magazine.mindplex.ai/mp_news/turning-back-the-clock-genetic-engineers-rewire-cells-for-an-82-increase-in-lifespan/     提交人    /u/ChikyChikyBoom   [链接] [评论]]]></description>
+      <description><![CDATA[加州大学圣地亚哥分校 (UCSD) 研究人员团队开发出一种生物合成基因“时钟”，可显着延长细胞寿命。 &lt; p&gt;正如《科学》杂志 2023 年 4 月 27 日所述，研究人员正在利用合成生物学来设计一种解决方案，防止细胞达到与衰老相关的正常退化水平。酵母、植物、动物和人类的细胞都含有负责许多生理功能（包括衰老）的基因调控电路。 了解更多：https://magazine.mindplex.ai/mp_news/turning-back-the -时钟遗传工程师重新接线细胞-for-an-82-increase-in-lifespan/    由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmyr9n/turning_back_the_clock_genetic_engineers_rewire/</guid>
       <pubDate>Wed, 08 May 2024 07:30:37 GMT</pubDate>
     </item>
