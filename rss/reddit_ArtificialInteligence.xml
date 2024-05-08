@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 08 May 2024 00:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 03:13:44 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法替换歌曲中的某个单词？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmtrbk/is_there_a_way_to_replace_one_word_in_a_song/</link>
+      <description><![CDATA[嘿，你们好，我想看看是否有办法可以将一首现有的歌曲（例如我想做的 BBL Drizzy 歌曲）替换掉里面有 Abel 的 drizzy 这个词，听起来好像应该在那里，我和我的朋友正在尝试给我的朋友写一首“diss track”，并且希望能够用他的名字代替 drizzy 🤣😅   由   提交 /u/Flux-Venom   /u/Flux-Venom  reddit.com/r/ArtificialInteligence/comments/1cmtrbk/is_there_a_way_to_replace_one_word_in_a_song/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmtrbk/is_there_a_way_to_replace_one_word_in_a_song/</guid>
+      <pubDate>Wed, 08 May 2024 02:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[100 美元，竞赛] 准确的人距估计（以米为单位）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmsood/100_dollars_contest_accurate_people_distance/</link>
+      <description><![CDATA[您好，我迫切需要解决视频帧中人类之间现实世界坐标的距离估计（以米为单位）。  自过去 4 个月以来，我一直被这个问题困扰，我需要指导和解决我的问题。 我有三个摄像头监控同一个房间，所以大多数相机视野相同（约80%）。 我也有相机校准参数，如果需要的话我可以去现场进行相机校准。 如果您有兴趣解决这个问题，请DM我。我可以向您发送测试图像、地面实况距离和相机校准参数。 我真的很抱歉发表营销帖子，但我陷入了困境，我想进一步进行此操作项目，但除非解决这个问题，否则我无能为力。 我不会让你的时间白白浪费。我愿意向任何能够解决这个问题并获得以米为单位的精确距离测量的人提供 100 美元。  非常感谢您的时间和帮助。   由   提交 /u/Exciting-Cod4820    reddit.com/r/ArtificialInteligence/comments/1cmsood/100_dollars_contest_accurate_people_distance/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmsood/100_dollars_contest_accurate_people_distance/</guid>
+      <pubDate>Wed, 08 May 2024 01:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些结果是使用 RAG 的平均结果还是高于平均水平？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmrw94/are_these_results_average_using_rag_or_above/</link>
+      <description><![CDATA[question answer contexts groundtruth context_ precision忠诚度answer_relevancy context_recall 0 问题：爱丽丝看到r后做了什么...看到兔子后-洞，爱丽丝进去了... [又过了一会儿，爱丽丝跟着它下去了，n... 看到兔子洞后，爱丽丝进去了... 1.0 0.000000 0.857991 1.0 1 问题：\n女孩注意到了什么... 女孩注意到井边我们... [要么井很深，要么她掉了... 橱柜和书架；她到处... 1.0 0.000000 0.973891 1.0 2 问题：空j...的标签上写着什么...我不知道。 [橱柜和书架；这里和那里 sh... 主角在空罐子上的标签... 1.0 0.000000 0.000000 1.0 3 问题：在给定的上下文中，Alice... Alice 对 ... 的可能性感到绝望 [“好吧！”爱丽丝心里想，“这样之后……爱丽丝觉得在经历了她的当前……1.0 0.000000 0.974727 1.0 4之后，她现在正在使用它们。）\n\n问题：\n多远……爱丽丝估计她已经跌倒了围绕着... [向下，向下，向下。坠落永远不会发生吗...爱丽丝估计她已经摔倒了大约四千... 1.0 1.000000 0.943041 1.0 5 问题：在给定的上下文中，......爱丽丝不知道的两个单词是什么意思是... [虽然这不是一个非常的好机会... Alice不知道这两个词的意思... 1.0 1.000000 0.975231 1.0 6 问题：在给定的上下文中，什么词确实……当……[不久她又开始了。 “我想知道我是否... 叙述者犹豫是否使用“Antipa”这个词... 1.0 1.000000 0.982265 1.0 7 问题：\n在给定的上下文中，... 女孩跌倒的主要担忧是什么？ ... [国家是，你知道的。请问，女士，这是... 坠落的女孩主要关心的问题... 1.0 0.000000 0.966964 1.0 8 问题： 在所提供的上下文中，黛娜是谁？在所提供的上下文中，黛娜是一只猫。 【下来，下来，下来。没有什么可说的……黛娜，在所提供的上下文中，是那只猫。 1.0 1.000000 0.977594 1.0 9 问题：在给定的上下文中，Alice 是什么... 在给定的上下文中，Alice 正在思考... [非常像一只老鼠，你知道。但是猫吃东西吗... 在给定的上下文中，爱丽丝正在思考是否... 1.0 0.333333 0.848256 1.0 10 问题：\n爱丽丝之前梦到了什么... 我不知道。 [她正在打瞌睡，并且刚刚开始...爱丽丝梦见手牵手走路... 1.0 NaN 0.000000 1.0 11 问题：\n爱丽丝在意识到自己没有受伤后立即做了什么看到... [爱丽丝没有受到一点伤害，她跳了起来... 爱丽丝跳了起来，意识到... 1.0 0.500000 0.974879 1.0 12 问题：什么类型的照明照亮了...我不知道。 [还有胡须，现在已经很晚了！”她是...爱丽丝发现自己所在的又长又低的大厅是... 1.0 NaN 0.000000 1.0 13 问题：在给定的上下文中，什么障碍...当试图离开大厅时，爱丽丝面临... [那里大厅周围都是门，但是它们... 在给定的上下文中，爱丽丝面临的障碍... 1.0 0.000000 0.974755 1.0 14 问题：爱丽丝在小床上发现了什么... 爱丽丝在小床上发现了一把小金钥匙小... [突然她遇到了一个小三足...爱丽丝在小三脚上发现了一把小金钥匙... 1.0 1.000000 0.956181 1.0 15 问题：爱丽丝在小三腿后面发现了什么...我不知道我不知道。 [一次，她遇到了一扇低矮的窗帘，她...爱丽丝发现了一扇大约十五英寸的小门... 1.0 NaN 0.000000 1.0 我用 RAG 测试了一个想法，并使用 Rgas 来测试它并得到了这些结果。但我有一种感觉，我的代码中有一些错误，所以如果有人可以帮助我，请。谢谢。   由   提交 /u/Unhappy-Ability1243    reddit.com/r/ArtificialInteligence/comments/1cmrw94/are_these_results_average_using_rag_or_above/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmrw94/are_these_results_average_using_rag_or_above/</guid>
+      <pubDate>Wed, 08 May 2024 00:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>为什么人类认为通用人工智能或超级人工智能将具有自己的感知力和意志？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmr19z/why_do_humans_assume_that_artificial_general/</link>
@@ -15,12 +36,12 @@
     <item>
       <title>人工智能世界的新事物：这可行吗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmpy5q/new_to_this_ai_world_is_this_feasible/</link>
-      <description><![CDATA[我拥有一个向当地社区推广青少年体育的网站。我想看看这是否可行： 一旦登陆网站——点击几下——就会弹出一个人工智能聊天机器人。那个 BOT 是我的化身。人工智能已经阅读并学习了我如何写作、说话、选词、节奏等。用户输入问题，人工智能头像根据其整体知识以及它所学到的有关我们产品的具体知识做出回应。这是我的声音...... 这是牵强吗？ 如果不是——我应该从哪里开始在后端构建组件？ 谢谢您的教导！   由   提交 /u/LotusFig   [链接] [评论]]]></description>
+      <description><![CDATA[我拥有一个向当地社区推广青少年体育的网站。我想看看这是否可行： 一旦登陆网站——点击几下——就会弹出一个人工智能聊天机器人。那个 BOT 是我的化身。人工智能已经阅读并学习了我如何写作、说话、选词、节奏等。用户输入一个问题，人工智能头像根据其整体知识以及它所学到的有关我们产品的具体知识做出回应。这是我的声音...... 这是牵强吗？ 如果不是——我应该从哪里开始在后端构建组件？ 谢谢您的教导！   由   提交 /u/LotusFig   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmpy5q/new_to_this_ai_world_is_this_feasible/</guid>
       <pubDate>Tue, 07 May 2024 23:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>还有人期待合法和非法的机器人成为现实吗？</title>
+      <title>还有谁期待合法和非法机器人成为现实吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmofrt/anybody_else_expecting_legal_and_illegal_robots/</link>
       <description><![CDATA[当我们让机器人在我们中间行走时，我想它们需要某种 ID 号，无论谁拥有它们拥有许可证，以便可以跟踪它们 但是我希望存在未经许可/非法机器人之类的东西，例如被有组织的犯罪分子使用......不遵守任何规则的机器人可能会贩毒、抢劫银行和杀人等 我是不是想太多了？我想该睡觉了哈哈   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmofrt/anybody_else_expecting_legal_and_illegal_robots/</guid>
@@ -34,23 +55,16 @@
       <pubDate>Tue, 07 May 2024 21:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>Palantir 发布了一种方法，任何人都可以注册并立即访问 Palantir AIP 模块</title>
+      <title>Palantir 已发布一种方法，任何人都可以注册并立即访问 Palantir AIP 模块</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmlvkv/palantir_has_released_a_way_for_anyone_to_sign_up/</link>
-      <description><![CDATA[嗨 可在此处获取：https://signup.palantirfoundry.com/signup?signupPermitCode=SCSP_AI_EXPO_KEYNOTE&amp;tracking-code=scsp-ai-expo    由   提交/u/Rambok01  [链接] [评论]]]></description>
+      <description><![CDATA[嗨 可在此处获取：https://signup.palantirfoundry.com/signup?signupPermitCode=SCSP_AI_EXPO_KEYNOTE&amp;tracking-code=scsp-ai-expo    提交人    /u/Rambok01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmlvkv/palantir_has_released_a_way_for_anyone_to_sign_up/</guid>
       <pubDate>Tue, 07 May 2024 20:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以制作一个禁用人工智能的程序/脚本吗？ （推测）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmkopr/could_one_make_a_program_script_that_disables_ai/</link>
-      <description><![CDATA[不是 STEM 类型，更像是文学类型，这可能就是为什么我以最戏剧化、电影化的方式来思考这个问题。是否可以编写和传播一个自我延续的脚本，永久或以其他方式解构或拆除机器学习？以火救火？这本质上只是一个像流感一样传播的自我憎恨的人工智能吗？将其实现为物理对象（如炸弹）而不是一系列代码会更好吗？再说一次，我不是科学家，但很好奇那会是什么样子，或者之前是否已经提示过。 还有：确实应该有一个“末日末日”。考虑到有多少帖子属于这种风格，我对此子的天赋。   由   提交/u/grombinkulus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmkopr/could_one_make_a_program_script_that_disables_ai/</guid>
-      <pubDate>Tue, 07 May 2024 19:43:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命！误报 AI 检测。</title>
+      <title>帮助！人工智能误报检测。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmjcyc/help_false_positive_ai_detection/</link>
-      <description><![CDATA[我需要帮助。我的课程期末论文通过了 Turnitin AI 检测器测试（这是官方的大学检测器），但另一位教授使用的免费在线检测器说它是 100% AI。我没有使用人工智能。我不知道为什么要这样做。感谢任何帮助或资源，因为我可能不得不在荣誉委员会面前为自己辩护。   由   提交 /u/Tricky_Mix_7281   [链接] [评论]]]></description>
+      <description><![CDATA[我需要帮助。我一门课的期末论文通过了 turnitin AI 检测测试（这是官方的大学检测程序），但另一位教授使用的免费在线测试表明它是 100% AI。我没有使用 AI。我不知道它为什么会这样。任何帮助或资源都非常感谢，因为我可能不得不在荣誉委员会面前为自己辩护。    提交人    /u/Tricky_Mix_7281   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmjcyc/help_false_positive_ai_detection/</guid>
       <pubDate>Tue, 07 May 2024 18:47:55 GMT</pubDate>
     </item>
@@ -69,25 +83,11 @@
       <pubDate>Tue, 07 May 2024 16:58:39 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能创新日报 2024 年 5 月 7 日：🤖苹果正在为数据中心服务器开发自己的人工智能芯片🤝Stack Overflow 和 OpenAI 宣布建立 API 合作伙伴关系🌟微软正在开发新的人工智能语言模型📚研究：教师无法检测人工智能写作 + 📊新的人工智能工作和工具❗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmgixq/a_daily_chronicle_of_ai_innovations_may_07_2024/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmgixq/a_daily_chronicle_of_ai_innovations_may_07_2024/</guid>
-      <pubDate>Tue, 07 May 2024 16:48:13 GMT</pubDate>
-    </item>
-    <item>
       <title>更新：感谢大家推荐您最喜欢的人工智能应用程序/工具。我刚刚更新了我的列表，并且仍在寻找更多具有“多样化”用例的应用程序。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmfm5r/update_thanks_everyone_for_suggesting_your/</link>
-      <description><![CDATA[上下文：我正在 BillionAI 上整理了一系列对企业有用的人工智能应用程序.co. 我上一篇文章中的很多人都推荐了一些我以前从未听说过的很棒的人工智能工具。我测试了所有这些，喜欢其中一些，真正喜欢其他一些，并相应地更新了列表。与 TheresAnAIForThat (dot) com 等巨头不同，我的目标是保持列表相对较小。列出 20 个以相似价格提供相同功能的客户支持聊天机器人是没有意义的。 目前，我有大约 70 个列表，我正在寻找具有更多样化用例的应用程序。您现在正在使用哪些人工智能应用程序？你最喜欢什么？ 如果你读到了这里，请告诉我你是否喜欢 BillionAI 的浏览/搜索/过滤功能.co。  谢谢！    由   提交 /u/UXHelpline   [链接] [评论]]]></description>
+      <description><![CDATA[上下文：我正在 BillionAI 上整理了一系列对企业有用的人工智能应用程序.co. 我上一篇文章中的很多人都推荐了一些我以前从未听说过的很棒的人工智能工具。我测试了所有这些，喜欢其中一些，真正喜欢其他一些，并相应地更新了列表。与 TheresAnAIForThat (dot) com 等巨头不同，我的目标是保持列表相对较小。列出 20 个以相似价格提供相同功能的客户支持聊天机器人是没有意义的。 目前，我有大约 70 个列表，我正在寻找具有更多样化用例的应用程序。您现在正在使用哪些人工智能应用程序？你最喜欢什么？ 如果你读到这里，请告诉我你是否喜欢 BillionAI 的浏览/搜索/过滤功能.co。  谢谢！    由   提交 /u/UXHelpline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmfm5r/update_thanks_everyone_for_suggesting_your/</guid>
       <pubDate>Tue, 07 May 2024 16:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>两个 GPT 之战。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmf1nm/battle_of_the_two_gpts/</link>
-      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmf1nm/battle_of_the_two_gpts/</guid>
-      <pubDate>Tue, 07 May 2024 15:46:00 GMT</pubDate>
     </item>
     <item>
       <title>人工智能对人类构成生存威胁吗？</title>
