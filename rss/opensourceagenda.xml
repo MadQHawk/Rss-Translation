@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 09 May 2024 09:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:23:49 GMT</lastBuildDate>
     <item>
-      <title>很棒的坎</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-kan</link>
-      <description><![CDATA[KAN(Kolmogorov-Arnold Network)相关资源的全面集合，包括库、教程、为 Kolmogorov-Arnold 网络领域的研究人员和开发人员提供的论文等。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-kan</guid>
-      <pubDate>Thu, 09 May 2024 09:14:40 GMT</pubDate>
+      <title>KAN</title>
+      <link>https://www.opensourceagenda.com/projects/kans</link>
+      <description><![CDATA[Kolmogorov-Arnold 网络的玩具示例（快速入门）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kans</guid>
+      <pubDate>Thu, 09 May 2024 12:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>Alphafold3 Pytorch</title>
-      <link>https://www.opensourceagenda.com/projects/alphafold3-pytorch</link>
-      <description><![CDATA[Alphafold3 在 Pytorch 中的实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/alphafold3-pytorch</guid>
-      <pubDate>Thu, 09 May 2024 09:14:40 GMT</pubDate>
+      <title>错误洞察</title>
+      <link>https://www.opensourceagenda.com/projects/buginsight</link>
+      <description><![CDATA[C、C++ 内存泄漏和死锁查找器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/buginsight</guid>
+      <pubDate>Thu, 09 May 2024 12:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>耳机莫尔斯电码发射器</title>
-      <link>https://www.opensourceagenda.com/projects/headphone-morse-transmitter</link>
-      <description><![CDATA[通过 ⏸️ ⏯️ ⏮️ 发送摩尔斯电码]]></description>
-      <guid>https://www.opensourceagenda.com/projects/headphone-morse-transmitter</guid>
-      <pubDate>Thu, 09 May 2024 09:14:40 GMT</pubDate>
+      <title>锐图视图</title>
+      <link>https://www.opensourceagenda.com/projects/sharpgraphview</link>
+      <description><![CDATA[Microsoft Graph API 后利用工具包]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sharpgraphview</guid>
+      <pubDate>Thu, 09 May 2024 12:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>舒适的Cli</title>
-      <link>https://www.opensourceagenda.com/projects/comfy-cli</link>
-      <description><![CDATA[用于管理 ComfyUI 的命令行界面]]></description>
-      <guid>https://www.opensourceagenda.com/projects/comfy-cli</guid>
-      <pubDate>Thu, 09 May 2024 09:14:39 GMT</pubDate>
+      <title>磁盘自动缩放器</title>
+      <link>https://www.opensourceagenda.com/projects/disk-autoscaler</link>
+      <description><![CDATA[根据 Kubecost PV 建议调整 Kubernetes PersistentVolume 的大小。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/disk-autoscaler</guid>
+      <pubDate>Thu, 09 May 2024 12:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>我的登山扣元素</title>
-      <link>https://www.opensourceagenda.com/projects/my-karabiner-elements</link>
-      <description><![CDATA[Karabiner-Elements键盘映射文件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/my-karabiner-elements</guid>
-      <pubDate>Thu, 09 May 2024 09:14:39 GMT</pubDate>
+      <title>自我缺陷程序</title>
+      <link>https://www.opensourceagenda.com/projects/self-defective-program</link>
+      <description><![CDATA[无Windows API的新型恶意程序：自缺陷程序利用堆栈溢出的隐匿稳定攻击技术研究]]></description>
+      <guid>https://www.opensourceagenda.com/projects/self-defective-program</guid>
+      <pubDate>Thu, 09 May 2024 12:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>哭泣的人 1</title>
-      <link>https://www.opensourceagenda.com/projects/cry1ngman-1</link>
-      <description><![CDATA[手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cry1ngman-1</guid>
-      <pubDate>Thu, 09 May 2024 09:14:39 GMT</pubDate>
+      <title>瓦斯MD V2</title>
+      <link>https://www.opensourceagenda.com/projects/wasi-md-v2</link>
+      <description><![CDATA[WASI-MD-V2 是 WASI TECH 开发的一款超酷多设备 WhatsApp 机器人。这个机器人只是为了以有趣的方式使用 Whatsapp 而开发的。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/wasi-md-v2</guid>
+      <pubDate>Thu, 09 May 2024 12:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>兹特姆</title>
-      <link>https://www.opensourceagenda.com/projects/ztm</link>
-      <description><![CDATA[ZTM（零信任网格）是一款基于 HTTP/2 的开源去中心化网络软件。无限连接。网格化世界！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ztm</guid>
-      <pubDate>Thu, 09 May 2024 09:14:38 GMT</pubDate>
+      <title>配置.nvim</title>
+      <link>https://www.opensourceagenda.com/projects/confignvim</link>
+      <description><![CDATA[我的 nvim 配置]]></description>
+      <guid>https://www.opensourceagenda.com/projects/confignvim</guid>
+      <pubDate>Thu, 09 May 2024 12:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能设备</title>
-      <link>https://www.opensourceagenda.com/projects/ai-devices</link>
-      <description><![CDATA[具有 Whisper、TTS、Groq、Llama3、OpenAI 等功能的 AI 设备模板]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ai-devices</guid>
-      <pubDate>Thu, 09 May 2024 09:14:38 GMT</pubDate>
+      <title>Sql Agi DB GPT</title>
+      <link>https://www.opensourceagenda.com/projects/sql-agi-db-gpt</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sql-agi-db-gpt</guid>
+      <pubDate>Thu, 09 May 2024 12:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>PuLID ComfyUI</title>
-      <link>https://www.opensourceagenda.com/projects/pulid-comfyui</link>
-      <description><![CDATA[ComfyUI 的 PuLID 本机实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pulid-comfyui</guid>
-      <pubDate>Thu, 09 May 2024 09:14:38 GMT</pubDate>
+      <title>Zhong Zhi Yuan</title>
+      <link>https://www.opensourceagenda.com/projects/zhong-zhi-yuan</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zhong-zhi-yuan</guid>
+      <pubDate>Thu, 09 May 2024 12:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>MEV 套利机器人</title>
-      <link>https://www.opensourceagenda.com/projects/mev-arbitrage-bots</link>
-      <description><![CDATA[...mevbot 的被动收入...]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mev-arbitrage-bots</guid>
-      <pubDate>Thu, 09 May 2024 09:14:38 GMT</pubDate>
+      <title>Livelybot Rl 控制</title>
+      <link>https://www.opensourceagenda.com/projects/livelybot-rl-control</link>
+      <description><![CDATA[基于 Isaac Gym 环境的 HighTorque 腿式机器人的强化学习环境。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/livelybot-rl-control</guid>
+      <pubDate>Thu, 09 May 2024 12:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>打哈欠的巨人</title>
-      <link>https://www.opensourceagenda.com/projects/yawning-titan</link>
-      <description><![CDATA[YAWNING TITAN 是一个抽象的、基于图形的网络安全模拟环境，支持智能代理的训练用于自主网络操作。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/yawning-titan</guid>
-      <pubDate>Thu, 09 May 2024 09:14:37 GMT</pubDate>
+      <title>上下文引用</title>
+      <link>https://www.opensourceagenda.com/projects/context-cite</link>
+      <description><![CDATA[LLM 生成的属性（或引用）语句返回上下文信息。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/context-cite</guid>
+      <pubDate>Thu, 09 May 2024 12:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>Xbox360 控制器管理器</title>
-      <link>https://www.opensourceagenda.com/projects/xbox360-controller-manager</link>
-      <description><![CDATA[关闭电脑上的无线 Xbox 360 控制器并查看所连接控制器的电池状态.]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xbox360-controller-manager</guid>
-      <pubDate>Thu, 09 May 2024 09:14:37 GMT</pubDate>
+      <title>文蒂·麦克斯皮奇</title>
+      <link>https://www.opensourceagenda.com/projects/textymcspeechy</link>
+      <description><![CDATA[轻松为 rhasspy/piper 创建任何语音的文本转语音模型。使用您自己的录音制作文本转语音模型，或使用数千个 RVC 语音。在 Raspberry pi 上离线工作。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/textymcspeechy</guid>
+      <pubDate>Thu, 09 May 2024 12:23:45 GMT</pubDate>
     </item>
     <item>
-      <title>百老汇卡夫卡</title>
-      <link>https://www.opensourceagenda.com/projects/broadway-kafka</link>
-      <description><![CDATA[Kafka 的 Broadway 连接器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/broadway-kafka</guid>
-      <pubDate>Thu, 09 May 2024 09:14:37 GMT</pubDate>
+      <title>丝印桌精简版</title>
+      <link>https://www.opensourceagenda.com/projects/silkscreentablelite</link>
+      <description><![CDATA[小钢网丝印台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/silkscreentablelite</guid>
+      <pubDate>Thu, 09 May 2024 12:23:45 GMT</pubDate>
     </item>
     <item>
-      <title>百老汇 Rabbitmq</title>
-      <link>https://www.opensourceagenda.com/projects/broadway-rabbitmq</link>
-      <description><![CDATA[RabbitMQ 的百老汇制作人]]></description>
-      <guid>https://www.opensourceagenda.com/projects/broadway-rabbitmq</guid>
-      <pubDate>Thu, 09 May 2024 09:14:37 GMT</pubDate>
+      <title>简单的角色控制器</title>
+      <link>https://www.opensourceagenda.com/projects/simple-character-controller</link>
+      <description><![CDATA[一个简单的 Unity 角色控制器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/simple-character-controller</guid>
+      <pubDate>Thu, 09 May 2024 12:23:45 GMT</pubDate>
     </item>
     <item>
-      <title>普林斯顿 NLP 网上商店</title>
-      <link>https://www.opensourceagenda.com/projects/princeton-nlp-webshop</link>
-      <description><![CDATA[[NeurIPS 2022] 🛒WebShop：与扎根语言代理实现可扩展的现实世界 Web 交互]]></description>
-      <guid>https://www.opensourceagenda.com/projects/princeton-nlp-webshop</guid>
-      <pubDate>Thu, 09 May 2024 09:14:36 GMT</pubDate>
+      <title>Vite 插件图标 Spritesheet</title>
+      <link>https://www.opensourceagenda.com/projects/vite-plugin-icons-spritesheet</link>
+      <description><![CDATA[Vite 插件，用于监听图标文件夹并输出带有可选类型的 spritesheet指定地点]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vite-plugin-icons-spritesheet</guid>
+      <pubDate>Thu, 09 May 2024 12:23:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

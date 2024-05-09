@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 09 May 2024 09:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:23:24 GMT</lastBuildDate>
+    <item>
+      <title>一些网络框架和编程语言隐藏了可爱的 UwU 徽标</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnvwyb/some_web_frameworks_and_programming_langs_has/</link>
+      <description><![CDATA[       由   提交 /u/landlord01263   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnvwyb/some_web_frameworks_and_programming_langs_has/</guid>
+      <pubDate>Thu, 09 May 2024 12:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>PropelAuth 与 KeyCloak</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnv6xg/propelauth_vs_keycloak/</link>
+      <description><![CDATA[今天我向我的应用程序添加了社交登录。以前，在我的 nextjs + fastapi + postgres 设置中使用 PropelAuth 时，身份验证的便捷性给我留下了深刻的印象。现在我正在考虑托管我自己的钥匙斗篷。有人有任何经验吗？或者有人总结一下我应该知道的优点和缺点？将不胜感激。  有问题的应用程序被添加为链接，供那些有兴趣查看 propelauth 实际操作的人使用。注册和登录页面由 PropelAuth 托管。   由   提交 /u/Current-Status-3764   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnv6xg/propelauth_vs_keycloak/</guid>
+      <pubDate>Thu, 09 May 2024 11:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 Wix Studio 的高级 CSS 技术释放创意潜力</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnut07/unlocking_creative_potential_with_advanced_css/</link>
+      <description><![CDATA[       由   提交 /u/Sad-Fish-3999   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnut07/unlocking_creative_potential_with_advanced_css/</guid>
+      <pubDate>Thu, 09 May 2024 11:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>录制网络产品演示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnupcu/recording_web_product_demo/</link>
+      <description><![CDATA[大家好， 对于很多独立开发者来说，Web开发完成后，需要录制一些产品演示和视频。您对用于录制或创建 AI 生成视频的软件或 Chrome 扩展程序有什么建议吗？我知道它与 Web 开发没有直接关系，但对于我们许多人来说，开发 Web 应用程序还涉及通过视频或幻灯片演示来呈现它们。  非常感谢！   由   提交 /u/Vinserello   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnupcu/recording_web_product_demo/</guid>
+      <pubDate>Thu, 09 May 2024 11:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>狗头人字母</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnukd6/kobold_letters/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnukd6/kobold_letters/</guid>
+      <pubDate>Thu, 09 May 2024 11:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天我发布了 EverShop 1.1.0 - 它可以帮助您使用 ReactJS 和 Node 构建专业的电子商务项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnuflo/today_i_release_evershop_110_it_helps_you_build_a/</link>
+      <description><![CDATA[       由   提交 /u/Thenguyenvn   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnuflo/today_i_release_evershop_110_it_helps_you_build_a/</guid>
+      <pubDate>Thu, 09 May 2024 10:58:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 CSS 动画在移动设备上仍然如此糟糕</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnu81c/how_are_css_animations_still_so_bad_on_mobile/</link>
+      <description><![CDATA[我正在使用变换向我的 Angular 网站添加一些动画。在桌面上它们看起来很棒，但在移动设备上的某些浏览器（主要是 chrome）上它们几乎不起作用或只是很不稳定。  我尝试了很多方法来优化，比如在 Angular 中使用推送策略、内置的 Angular 动画 - 它们看起来都很糟糕！  即使使用使用动画的 Angular Material 组件（例如模态框），动画也很糟糕。  我记得它们几年前就很糟糕，很遗憾它们现在仍然很糟糕😢    提交人    /u/SuchTown32   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnu81c/how_are_css_animations_still_so_bad_on_mobile/</guid>
+      <pubDate>Thu, 09 May 2024 10:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要进行健全性检查以确保我不会向我的网站引入任何安全漏洞</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cntetw/need_a_sanity_check_to_make_sure_im_not/</link>
+      <description><![CDATA[我正在为客户构建一个网站，他们希望用户能够登录该网站并查看他们之前的订单。我想确保我实现用户登录的方式没有问题，并且不会引入任何安全问题。 因此，该网站是一个 Django 网站，允许用户购买当地活动/戏剧/音乐会/等的门票。当我开始工作时，我创建了一个 User 模型，但用户模型根本没有用到，它只是在那里，以防他们想要跟踪他们的客户（现在他们确实这样做了）。他们现在想要做的是每当客户在网站上购物时自动为其创建一个用户帐户，以便用户能够重新登录并查看他们进行的所有购买。 他们不想强迫用户通过选择用户名和密码来创建帐户，因为这会对用户体验产生负面影响。同时，他们还为自己和其他客户创建了一些用户帐户（使用传统的用户名和密码方法），以便他们能够登录 Django 管理员并管理网站上的内容。因此，我必须支持通过密码和 OTP 登录用户，以防帐户自动创建。 我计划制作一个 API 端点，该端点将接收用户名或电子邮件，并检查是否存在与传递的用户名/电子邮件相对应的用户帐户。如果帐户存在，端点将返回用于该帐户的身份验证方法，如果帐户是通过 Django 管理员创建的并且具有有效密码，则通过密码进行身份验证；如果帐户是为客户自动创建的并且没有有效密码，则通过 OTP 进行身份验证。 我创建了一个 OTP 模型，如下所示 - class OTP(models.Model): value = models.CharField(max_length=6, default=utils.generate_random_otp) user = models.ForeignKey(User, on_delete=models.CASCADE, related_name=&#39;otps&#39;) valid_till = models.DateTimeField(default=utils.get_otp_expiration_time)  我计划采用的登录工作流程如下 -  要求用户输入他们的用户名或电子邮件 检查给定的帐户是否用户名/电子邮件存在 如果存在，则返回要使用的身份验证方法 如果身份验证方法是密码，只需将用户的用户名和密码 POST 到 Django 的 LoginView，Django 将处理其余部分 如果身份验证方法是 OTP，则创建 OTP 并将其发送到用户输入的电子邮件。 向用户询问 OTP。如果输入的 OTP 正确且有效，则让用户登录并将其重定向到他们正在寻找的任何页面。  我主要担心的是我已经实现了 OTP 模型本身，而 OTP 只是一个随机的 6 位数字（由 random.random 生成）。我 99% 确定这个工作流程不会引入任何安全问题，但我只是想在实现它之前确定一下。通过 OTP 实现登录时，我应该记住什么吗？还是这种方法可以？    提交人    /u/gohanshouldgetUI   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cntetw/need_a_sanity_check_to_make_sure_im_not/</guid>
+      <pubDate>Thu, 09 May 2024 09:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用超级代币，这足以保证没有用户修改其他用户的数据吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnt1o6/using_supertokens_is_this_enough_to_guarantee_no/</link>
+      <description><![CDATA[大家好！ 我开始使用超级令牌来开发一个网站，用于所有身份验证内容，想知道这是否是足以防止其他人窃取他人的令牌？ 该应用程序全部隐藏在登录后面，并且您与其他用户没有联系，就像没有“个人资料”这样的东西一样。本身就像在社交网络中一样。但是，考虑到 API 调用，我怀疑有人可以看到这些并尝试随机令牌或以某种方式操作参数？ 我想要解决这个问题的方法是完全依赖令牌来检索用户 ID并采取行动（编辑个人资料图像、属性等）。除非您从其他用户那里窃取令牌，否则您不应该做任何正确的事情？或者我错过了一些额外的东西？   由   提交/u/edgraq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnt1o6/using_supertokens_is_this_enough_to_guarantee_no/</guid>
+      <pubDate>Thu, 09 May 2024 09:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我的团队规模扩大 4 倍是一件痛苦的事情。我们可以做得更好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnswbe/growing_my_team_4x_has_been_a_pain_can_we_do/</link>
+      <description><![CDATA[       由   提交/u/vklepov  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnswbe/growing_my_team_4x_has_been_a_pain_can_we_do/</guid>
+      <pubDate>Thu, 09 May 2024 09:17:01 GMT</pubDate>
+    </item>
     <item>
       <title>帮助！！</title>
       <link>https://www.reddit.com/r/webdev/comments/1cnsub4/help/</link>
@@ -27,9 +97,9 @@
       <pubDate>Thu, 09 May 2024 08:59:59 GMT</pubDate>
     </item>
     <item>
-      <title>为什么大公司不公开自己的标识？</title>
+      <title>为什么大公司不公开自己的标志？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cnsfjx/why_dont_big_companies_expose_their_logos/</link>
-      <description><![CDATA[我们最近将网站页脚中的 Twitter 徽标更改为 X 徽标。目前的方式是从X的网站下载SVG。我们有近 20 个不同社交网络的徽标，这让我想知道为什么这些大公司不通过端点公开他们的徽标，以便当他们更改徽标时，互联网上的所有内容都会随之改变？当然，他们可以始终保持可下载文件的可用状态。   由   提交 /u/Careless-Hat4931    reddit.com/r/webdev/comments/1cnsfjx/why_dont_big_companies_expose_their_logos/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我们最近在网站的共享弹出窗口中将 Twitter 徽标更改为 X 徽标。目前的方式是从X的网站下载SVG。我们有近 20 个不同社交网络的徽标，这让我想知道为什么这些大公司不通过端点公开他们的徽标，以便当他们更改徽标时，互联网上的所有内容都会随之改变？当然，他们可以始终保持可下载文件的可用状态。   由   提交 /u/Careless-Hat4931    reddit.com/r/webdev/comments/1cnsfjx/why_dont_big_companies_expose_their_logos/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cnsfjx/why_dont_big_companies_expose_their_logos/</guid>
       <pubDate>Thu, 09 May 2024 08:43:51 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[有很多关于水合、修补东西以避免不匹配等的讨论。为什么不简单地允许开发人员选择要使用的版本，以防万一不匹配？  如果有例如本地化日期，很明显它可能会有所不同。因此，开发人员应该定义该客户端版本来实现这一点。向元素添加一个属性，水合算法可以根据该属性决定要做什么。当然也应该有全局默认值。 并且由于可能的不匹配元素已经已知，因此很容易向服务器生成的 html 添加一点 js 片段，以将其格式化为已经存在的客户端特定格式首次加载。 有人可以解释一下为什么这会成为一个问题吗？   由   提交 /u/yksvaan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cnsee9/solving_hydration_mismatch/</guid>
       <pubDate>Thu, 09 May 2024 08:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何分析 Node.js 垃圾收集痕迹？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnre3d/how_to_analyze_nodejs_garbage_collection_traces/</link>
-      <description><![CDATA[        提交人    /u/mike_jack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnre3d/how_to_analyze_nodejs_garbage_collection_traces/</guid>
-      <pubDate>Thu, 09 May 2024 07:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法让本地主机只能通过互联网连接访问？我想在不设置实时暂存站点的情况下测试网络故障</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnr1o8/is_there_a_way_to_make_localhost_only_accessible/</link>
-      <description><![CDATA[所以，我想在我的网络应用程序上测试网络故障。当用户失去互联网连接时，我的网络应用程序必须正确处理其错误。但是，当使用本地主机时，测试类似的东西是很困难的（或者可能是不可能的），因为在我的电脑上无论有没有互联网连接都可以访问本地主机。 有没有一种方法可以让我只使用以下方式访问本地主机：互联网连接，并且不允许在没有互联网连接的情况下访问它？ 除了设置实时登台站点之外，我没有其他选择吗？ 我在 Node.js/Next 中.js 了解更多上下文。   由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnr1o8/is_there_a_way_to_make_localhost_only_accessible/</guid>
-      <pubDate>Thu, 09 May 2024 07:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何安全地向粗略的客户展示网站项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnqmd9/how_to_safely_present_a_website_project_to_a/</link>
-      <description><![CDATA[亲爱的朋友们， 我需要向这个粗略的客户展示我开发的网站，他可能会通过询问来欺骗我在最后 50% 付款之前获取网站的源代码（HTML、CSS、JS），声称他的开发团队需要审查代码才能批准付款。 所以我正在尝试找到解决方法。也许是一个 TeamViewer 风格的选项，客户/他的团队可以通过我的计算机或在线测试网站（PC/移动）并查看源代码，而无需我发送源文件？ 什么会是最好的免费/付费选项，以及关于我应该说些什么的任何提示，以防他试图操纵我或说“你为什么不直接发送源代码？”之类的话。 很多爱你们 ☕🤎   由   提交 /u/1stmastermind   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnqmd9/how_to_safely_present_a_website_project_to_a/</guid>
-      <pubDate>Thu, 09 May 2024 06:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个具有多个深色/浅色主题的简单主题切换器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnpuxn/created_a_simple_theme_toggler_with_multiple/</link>
-      <description><![CDATA[我刚刚使用 next-themes 为 Web 项目创建了这个简单的即插即用、主题切换组件，该组件具有多个明暗主题。 其实时网址：https://modsetter.github.io/next-toggle/ 其代码：https://github.com/MODSetter/next-toggle/ 不知道它是否对您的项目有帮助。它在玻璃形态类型的网站上看起来非常华丽。而且不要太嘲笑我 XD 我只是在为我的项目尝试一些主题，并认为这个概念对其他人也可能有用。    提交人    /u/Uiqueblhats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnpuxn/created_a_simple_theme_toggler_with_multiple/</guid>
-      <pubDate>Thu, 09 May 2024 05:43:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>ECS 和 AWS Fargate：创建集群和任务后如何继续</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnobxt/ecs_and_aws_fargate_how_to_proceed_after_creating/</link>
-      <description><![CDATA[https://www.canva.com/design/DAGEszY85uw/k7jAIMwJvlokW-xq3lh51Q/edit?utm_content=DAGEszY85uw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton  创建集群和任务定义（使用要推送的 DockerHub 镜像的 url）后，了解使镜像/Web 应用程序在 5000 端口上运行的进一步步骤将有所帮助。目前，该 Web 应用程序已在 EC2 上运行 (http://13.235.242.68:5000)。   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnobxt/ecs_and_aws_fargate_how_to_proceed_after_creating/</guid>
-      <pubDate>Thu, 09 May 2024 04:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 NodeKS 中 WorkerThreads 的简单实现</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cno5nf/simple_implemention_to_understand_workerthreads/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Puzzleheaded_Ad4030   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cno5nf/simple_implemention_to_understand_workerthreads/</guid>
-      <pubDate>Thu, 09 May 2024 03:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>webdev 太糟糕了，哟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnnou8/webdev_sucks_yo/</link>
-      <description><![CDATA[你有没有觉得Web开发就像在流沙上搭建纸牌屋一样，而且这些纸牌都是由蜘蛛网组成的？六年前，我为广告创意建立了一个简单的作品集网站。我用过反应。每隔几年，他就会联系我并要求我在他的投资组合中添加一些新项目。每隔几年就能赚到几块钱，这真是一笔不错的钱。除了这一次。周日我做了一些更新。周一，如果没有我的干预，不到 24 小时之前运行的内容将无法编译。各种 node-sass 错误，到处都是不正常的依赖关系。我知道，这些都是旧的、过时的 npm 包。但它在周日奏效了！我运行了一个构建并将其上传到网站以及所有内容。这太令人恼火了，因为它是一个三页的网站。实际上，它有两页和一个 pdf 链接。它不应该让我如此悲伤。 叹息。抱歉，我的咆哮；我知道这有一半是我自己的无知。更新这个东西的正确方法是什么，这样我就可以将这三个新的创意添加到网站上并向这个人收费并完成它？  &amp;# 32；由   提交/u/flysi3000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnnou8/webdev_sucks_yo/</guid>
-      <pubDate>Thu, 09 May 2024 03:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些作为自学学生学习技能的人。您发现什么最有帮助？你是怎么做到的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnni23/to_those_of_you_who_learned_your_skills_as_a_self/</link>
-      <description><![CDATA[我目前正在学习，并试图走上自学之路。我只是想向那些已经做到并取得成功的人寻求建议。 在此期间，哪些资源对您来说是无价的？真的可以免费学习所有这些吗？还是值得为任何在线学习资源付费？ 我对此充满热情，6 个月前我辞去了工作，全身心投入其中，我一点也不后悔。我只是发现自己在浏览 1000 种不同的免费在线资源，却不知道从哪里开始。 任何建议都很棒！！！！：D    提交人    /u/Embarrassed-Salt387   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnni23/to_those_of_you_who_learned_your_skills_as_a_self/</guid>
-      <pubDate>Thu, 09 May 2024 03:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简单的样板如何让这个人成为百万富翁？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnnbvz/how_a_simple_boilerplate_made_this_guy_a/</link>
-      <description><![CDATA[来认识一下 Marc Lou，他是一位充满热情的独立黑客，喜欢构建解决人们痛苦问题的副项目。他从 17 多个失败的产品开始了他的旅程，这些教训让他今天取得了成功。在此处阅读完整的故事：完整文章&lt; /p&gt;   由   提交/u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnnbvz/how_a_simple_boilerplate_made_this_guy_a/</guid>
-      <pubDate>Thu, 09 May 2024 03:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站开发人员。您见过的外观/性能最好的网站是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnlk0u/website_developers_whats_the_best/</link>
-      <description><![CDATA[标题    由   提交 /u/SillyDogsAreFunny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnlk0u/website_developers_whats_the_best/</guid>
-      <pubDate>Thu, 09 May 2024 01:43:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
