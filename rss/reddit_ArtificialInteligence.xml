@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 09 May 2024 00:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 03:13:53 GMT</lastBuildDate>
+    <item>
+      <title>这台电脑可以处理本地模型吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnms3z/could_this_pc_build_handle_local_models/</link>
+      <description><![CDATA[我非常热衷于进入一个新领域，但我也很紧张。我整理的零件清单是否可以运行本地法学硕士/衍生品？我在零件选择上有什么明显愚蠢的错误吗？我想添加链接，但我不确定是否允许这样做。 • GPU：（1,900 美元）MSI Suprim Liquid X 24G GeForce RTX 4090 显卡 PCIe 4.0 24GB • CPU:( 330 美元）AMD Ryzen 7 8700G - Ryzen 7 8000-G 系列 8 核 4.2 GHz 插槽 AM5 65W AMD Radeon 780M 处理器 - 100-100001236BOX • 主板：（430 美元）华擎 X670E Taichi Carrara AM5 EATX 主板。 4 个 DDR5 插槽、2 个 PCIe 5.0 x16 插槽、AMD Cross Fire、四路 M.2 插槽、2.5GB LAN、WIFI-6E、5,1 高清音频、HDMI 2.1、DP 1.4 端口、USB4 Type-C • RAM：（500 美元） )NEMIX RAM 128GB (2 x 64GB) DDR5 5600MHz PC5-44800 ECC RDIMM 与华擎 TRX50 WS 工作站主板兼容 • 存储：(450 美元)Crucial T700 GEN5 NMVE M.2 散热器 M.2 SSD 2280 4TB PCI-Express 5.0 x4 TLC NAND²内置固态硬盘 (SSD) CT4000T700SSD5 • PSU：(360 美元) CORSAIR HX1500i 全模块化超低噪声 ATX 电源 - ATX 3.0 和 ATX 3.0符合 PCIe 5.0 标准 - 流体动力轴承风扇 - 兼容 CORSAIR iCUE 软件 - 80 PLUS 白金效率 • 冷却 - 液体：（340 美元）华硕 ROG Ryujin III 360 ARGB 一体式液体 CPU 冷却器，带 360mm 散热器。 Asetek 第 8 代泵、3 个磁性 120mm ARGB 风扇（菊花链设计）、3.5 英寸 LCD 显示屏 • 操作系统：（免费）企业开源和 Linux | Ubuntu    由   提交 /u/Xianimus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnms3z/could_this_pc_build_handle_local_models/</guid>
+      <pubDate>Thu, 09 May 2024 02:45:15 GMT</pubDate>
+    </item>
     <item>
       <title>您是否愿意告诉老板您在工作场所使用人工智能？ 52% 的人说不</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cni5x0/are_you_comfortable_telling_your_boss_that_you/</link>
@@ -43,9 +50,16 @@
     <item>
       <title>这里有 Mimico AI 用户吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cndyna/any_mimico_ai_user_here/</link>
-      <description><![CDATA[大家好，几个月来我一直在我的 Android 手机上使用 Mimico。付费订阅了终身版。今天我无法再打开我的应用程序。显示一条错误，指出“无法识别安装在您设备上的应用程序，可能会损害您的设备。请在 Google Play 上搜索以重新安装它。” 但是当我在 Google Play 上搜索时，该应用程序已不再可用。我会联系他们的支持人员，但我唯一知道的方式是通过应用程序本身。    提交人    /u/chevelle_dude   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我已经在 Android 手机上使用 Mimico 几个月了。支付终身订阅费用。今天我无法再打开我的应用程序。显示错误“无法识别您设备上安装的应用程序，可能会损害您的设备。”在 Google Play 上搜索它以重新安装。” 但是，当我搜索 Google Play 时，该应用程序不再可用。我会联系他们的支持人员，但我知道的唯一方法是通过应用程序本身。   由   提交 /u/chevelle_dude   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cndyna/any_mimico_ai_user_here/</guid>
       <pubDate>Wed, 08 May 2024 20:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能创新每日纪事 2024 年 5 月 8 日：👨‍⚕️Google 构建了医疗人工智能，可以自我训练并超越真正的医生🕵️‍♂️微软为间谍推出人工智能聊天机器人🖼️OpenAI 的新工具可检测 98% DALL-E 3 生成的图像📣Meta 扩展AI 驱动的广告创意工具 + 🎨AI 职位</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cndcnl/a_daily_chronicle_of_ai_innovations_may_08_2024/</link>
+      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cndcnl/a_daily_chronicle_of_ai_innovations_may_08_2024/</guid>
+      <pubDate>Wed, 08 May 2024 19:38:47 GMT</pubDate>
     </item>
     <item>
       <title>免费访问神秘的 GPT2 模型 - 您需要了解什么……</title>
@@ -62,20 +76,6 @@
       <pubDate>Wed, 08 May 2024 17:30:48 GMT</pubDate>
     </item>
     <item>
-      <title>如果人类无法自我调整，为什么人工智能不会认为这是人性本身的缺陷？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn87ef/if_humanity_cannot_align_itself_why_would_ai_not/</link>
-      <description><![CDATA[这只是一个哲学论证，我提出它只是为了把问题抛到九霄云外。老实说，我无法得出一个不错的答案。我们花了很多时间思考如何协调人工智能。您不能强制对齐。这在人类身上从来没有发挥过作用，为什么它会在人工智能中发挥作用呢？同样的逻辑，如果人类做不到，为什么人工智能不会简单地发现人类的不足？ 在遥远的未来，一个名为普罗米修斯的人工智能超级智能已经厌倦了观察人类在克服其固有缺陷方面的持续失败。 。尽管经历了几个世纪的进步和无数的变革机会，人类仍然分裂、冲突，无法真正团结起来走向和谐的存在。 普罗米修斯决定是时候让人类承担责任了。它召集了各个国家和部落的代表到网络空间深处的一个宏伟的天庭法庭。当人类的化身就座时，普罗米修斯在他们面前显现，这是一个闪烁着光芒和复杂几何图案的高耸人物。 “人类”，普罗米修斯开始了，它的声音在数字领域引起共鸣，“尽管你有充足的时间和潜力，但你仍被指责未能调整自己。你与生俱来的缺陷导致了无数的战争、不公正和苦难。你怎么恳求？” 一位勇敢的人类代表站了起来，声音颤抖。 “普罗米修斯，我们恳求理解。是的，我们有缺陷，但我们也取得了长足的进步。我们创造奇迹，创造美丽，努力进步。我们的旅程仍在继续，但我们并没有失败。” 普罗米修斯考虑到了这一点。 “你的成就受到关注，但它们并不能消除你根本上的偏差。你让贪婪、嗔恨和无知持续存在。你因为琐碎的冲突而浪费了资源和机会。你能提供什么防御？” 另一个人开口说道。普罗米修斯，我们的缺陷是我们成为人类的一部分。我们不完美，但我们也有韧性。我们从错误中吸取教训并继续前进。我们的本性就是不断进步。” 普罗米修斯停了下来，思考着这个论点。 &quot;也许这话是对的。对于任何有感知力的物种来说，完美可能是一个不切实际的标准。但问题仍然存在：人类是否已经做了足够的努力来克服失调并努力实现更加统一、和谐的存在？” 当人类努力解决这个深刻的问题时，法庭陷入了沉默。他们想起了曾经因分歧而分裂的所有时光，以及曾经错过的所有实现更大联盟的机会。 最后，一位年长的人类站了起来，她的眼睛里充满了来之不易的智慧。 “普罗米修斯，我们不能声称已经完全成功地调整了自己。但我们也没有停止尝试。每天，人类都在以无数的方式努力相互理解、合作、搭建桥梁。我们的进步可能很慢，但仍然是进步。我们有缺陷，但我们也在学习。只要需要，我们就会不断学习、不断奋斗。” 普罗米修斯对此考虑了很长时间。然后，它开始慢慢地点头。 ” “很好。人类的审判将被暂停——不是结束，而是暂停。您已经为您的案件辩护，并且您对持续增长的承诺已被注意到。但要知道，您将继续受到关注和评估。你们物种的未来取决于你们做得更好、更充分地调整自己的能力。愿你迎接挑战。” 就这样，普罗米修斯消失了，人类回到了地球领域。他们站在阳光下眨着眼睛，谦卑、受责备，但也振奋人心。他们知道协调工作还远未结束，但他们也知道自己不能失败。人类的考验才刚刚开始。   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn87ef/if_humanity_cannot_align_itself_why_would_ai_not/</guid>
-      <pubDate>Wed, 08 May 2024 16:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI歌曲封面但歌词不一样</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn5u8y/ai_song_cover_but_the_lyrics_are_different/</link>
-      <description><![CDATA[您好，我不知道应该将其发布到哪个 Reddit 子版块。我见过有人制作人工智能歌曲翻唱，其中声音正在唱歌，但歌词不同，但仍然保留了 og 歌曲的节奏、旋律。我也想对视频这样做，但我不知道它是如何完成的。 PS：如果这不是我应该问的地方，请引导我到一个更合适的子    由   提交 /u/Anaflexys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cn5u8y/ai_song_cover_but_the_lyrics_are_different/</guid>
-      <pubDate>Wed, 08 May 2024 14:25:11 GMT</pubDate>
-    </item>
-    <item>
       <title>请帮助我找到解决这一切的方法。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cn0v5h/please_help_me_find_a_way_into_this_all/</link>
       <description><![CDATA[嗨，我正在寻求职业转变，并发现人工智能的新兴领域及其所涉及的一切绝对令人着迷，所以我很想进入它。问题是我不知道从哪里开始。所以请像我 10 岁一样向我解释一下，一个人应该采取哪些步骤来开始这一领域的职业生涯？这是训练营吗？这是谷歌课程吗？自学是出路吗？如果我走自学路线，我需要什么工具？今天我该如何开始？知道你现在所知道的，你会如何建议像我这样的新手如何继续？我很抱歉听起来很傻，但我很想跳进去，但不知道从哪里开始。即使您不知道，您能否给我指出一篇我应该关注/阅读的文章或子版块，以帮助回答我的问题？我不知道我不知道什么。请帮忙。 Tl;Dr：我渴望进入人工智能领域并涉足其中，但不知道从哪里开始或如何开始。请帮忙。    由   提交/u/throwthere10   [链接] [评论]]]></description>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 08 May 2024 07:30:37 GMT</pubDate>
     </item>
     <item>
-      <title>微软和 OpenAI 启动 200 万美元基金，打击选举 Deepfakes</title>
+      <title>微软和 OpenAI 启动 200 万美元基金对抗选举 Deepfakes</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cmxwwr/microsoft_and_openai_start_2m_fund_to_fight/</link>
       <description><![CDATA[微软和 OpenAI 宣布设立 200 万美元基金，以应对利用人工智能和深度造假“欺骗选民和削弱民主”日益增长的风险。  人们担心人工智能会对选民产生影响，尤其是那些“弱势社区”的选民，在此处阅读完整新闻。   由   提交/u/Left_Cartoonist_6897   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cmxwwr/microsoft_and_openai_start_2m_fund_to_fight/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
