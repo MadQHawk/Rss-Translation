@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 May 2024 06:17:47 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Thu, 09 May 2024 09:14:23 GMT</lastBuildDate>
+    <item>
+      <title>GitHub - 由 LLM 支持的代码维护，可提供可靠的结果。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cnsk4p/github_llmpowered_code_maintenance_that_delivers/</link>
+      <description><![CDATA[       由   提交/u/Financial_Muffin396   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cnsk4p/github_llmpowered_code_maintenance_that_delivers/</guid>
+      <pubDate>Thu, 09 May 2024 08:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 比 Windows 更适合开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cnr08m/linux_is_better_for_opensource_than_windows/</link>
+      <description><![CDATA[大家好，我对此完全陌生，您能告诉我开源 ai 工具最适合 Linux 还是 Windows 吗？    提交人    /u/Terrible-Avocado-169   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cnr08m/linux_is_better_for_opensource_than_windows/</guid>
+      <pubDate>Thu, 09 May 2024 07:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能开源，Windows 与 Linux 的最佳选择</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cnqvj4/open_source_for_ai_best_option_windows_vs_linux/</link>
+      <description><![CDATA[Windows 还是 Linux？ 大家好，你觉得怎么样🤔 有一些应用程序是开源的吗哪些不能在Linux上使用？像稳定扩散、crewai、LLM（如 ollama 等）...   由   提交 /u/Terrible-Avocado-169   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cnqvj4/open_source_for_ai_best_option_windows_vs_linux/</guid>
+      <pubDate>Thu, 09 May 2024 06:52:13 GMT</pubDate>
+    </item>
     <item>
       <title>Discogs 有什么好的替代脚本吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cnqczu/any_good_alternative_script_to_discogs/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>开源网络安全是一颗定时炸弹</title>
       <link>https://www.reddit.com/r/opensource/comments/1cn8ceu/opensource_cybersecurity_is_a_ticking_time_bomb/</link>
-      <description><![CDATA[        提交人    /u/Blackstar1886   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/Blackstar1886  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cn8ceu/opensource_cybersecurity_is_a_ticking_time_bomb/</guid>
       <pubDate>Wed, 08 May 2024 16:08:02 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>WordPress 活动</title>
       <link>https://www.reddit.com/r/opensource/comments/1cn5e44/wordpress_events/</link>
-      <description><![CDATA[有人熟悉可以让我在 WordPress 网站上销售活动的优秀（免费）开源插件吗？ &lt; !-- SC_ON --&gt;  由   提交/u/DutchTee86  [链接] [评论]]]></description>
+      <description><![CDATA[有谁知道哪个好的（免费）开源插件可以让我在 WordPress 网站上销售活动？    提交人    /u/DutchTee86   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cn5e44/wordpress_events/</guid>
       <pubDate>Wed, 08 May 2024 14:05:33 GMT</pubDate>
     </item>
@@ -69,9 +90,9 @@
       <pubDate>Wed, 08 May 2024 09:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>由 Google 或 FOSS Android 文件管理器创建的文件？</title>
+      <title>Google 或 FOSS Android 文件管理器的文件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmy4v1/files_by_google_or_foss_android_file_manager/</link>
-      <description><![CDATA[嗨，我正在尝试设置一部新手机，但我又想保留一些隐私。既然我的所有文件都可以通过 Files by Google 查看，这是否意味着该应用正在跟踪我手机上的所有内容？抱歉，如果这是一个愚蠢的问题，我只是想确保我的个人信息被发送回谷歌服务器。我认为我们在文件管理器中受到保护，不会受到不合理的搜索和扣押。我没有卸载 Files by Google 的选项，但如果我禁用该应用，它会停止它吗？另外，为什么文件管理器中显示我的谷歌帐户已登录？我不认为我在备份任何东西。    提交人    /u/ArugulaGazebo   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在尝试设置一部新手机，但我正在努力牢记一些隐私。由于我的所有文件均由 Google 文件查看，这是否意味着该应用程序正在跟踪我手机上的所有内容？抱歉，如果这是一个愚蠢的问题，我只是想确保我的个人信息被发送回谷歌服务器。我认为我们在文件管理器中受到保护，不会受到不合理的搜索和扣押。我没有卸载 Google 文件的选项，但如果我禁用该应用程序，它会停止吗？另外，为什么文件管理器中显示我的谷歌帐户已登录？我不认为我支持任何内容。   由   提交/u/ArugulaGazebo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cmy4v1/files_by_google_or_foss_android_file_manager/</guid>
       <pubDate>Wed, 08 May 2024 06:47:25 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[这是一个半开玩笑，但我从未见过认真讨论过这个问题。  &amp; #32；由   提交 /u/farteMonster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cms9g4/whats_the_point_of_posting_a_liscense_if_i_dont/</guid>
       <pubDate>Wed, 08 May 2024 01:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>员工监控工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cmrhjk/employee_monitoring_tool/</link>
-      <description><![CDATA[这个主题听起来可能有些什么。  但我真正想要的是一个开源/自托管工具，员工可以登录并标记他们的休息时间。  其他登录的员工会收到某人已休息的通知。此外，还有一个实时门户页面，显示登录员工的详细信息。  不需要其他监控。  如有任何建议，我们将不胜感激👏    由   提交 /u/dagonpero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cmrhjk/employee_monitoring_tool/</guid>
-      <pubDate>Wed, 08 May 2024 00:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>从事开源软件实习/资助工作。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cmqays/working_with_internshipgrants_in_open_source/</link>
-      <description><![CDATA[今天我看到，Processing 基金会设立了拨款，为人们在 4 个月内为其项目编写一些功能提供补贴。  我知道还有 Google 的代码之夏（今年已结束），还有尼克斯之夏。  您知道还有其他实习项目可以为开源做出贡献并从中赚取生活工资吗？    由   提交/u/RagingBass2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cmqays/working_with_internshipgrants_in_open_source/</guid>
-      <pubDate>Tue, 07 May 2024 23:39:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该将我的咖啡机闹钟文件和构建指南开源吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cmoh5v/should_i_make_my_coffee_maker_alarm_clock_files/</link>
-      <description><![CDATA[主要问题： 有人对我将此项目开源感兴趣吗？ “Coffee Waker”项目描述： 一款价格低于 70 美元的咖啡机闹钟，类似于 Barisieur。建造者必须：3D 打印大部分内容；订购和组装 PCB；刷新嵌入式程序；卡入一些硼硅酸盐管。 它的工作原理是使用包裹在食品安全热缩管中的浸入式加热器将锥形瓶中的水煮沸，以产生压力，迫使沸水从管子中流出并进入咖啡床。 它使用托管网页进行界面/配置；称重传感器用于收集冲泡组件的状态（水量最少、不存在等）以及接口（水龙头控制某些功能）。 咖啡机闹钟图片 背景： 任何喜欢咖啡和咖啡 YouTube 的人可能都看过 Barisieur 咖啡机闹钟。我记得关注过他们的 Kickstarter 并喜欢这个概念和美学。当它们推出时，我真的很想要一个，但它们的价格超过 300 美元（现在仍然如此）。 那时我的一些爱好是 3D 打印、难以忍受的基本 CAD 设计、基本嵌入式编程和电气工程。所以很自然地，我总是想知道如何自己构建一个。从那时起，我通过攻读电气工程学士学位来磨练硬件部分。几个月前，我决定通过最终设计我自己的版本来测试我的学位和业余爱好技能。 我曾在几家公司实习过，因此我试图尽可能认真地对待这件事，因此我的限制和要求列表如下：  限制和要求： BOM &lt; 最低熊 70 美元 BOM &lt; 100 美元，带唤醒灯和语音 AI 它应该可以工作 尽我所能使其尽可能安全（食品安全、电气安全、功能安全）但不是傻瓜式的      提交人    /u/Enough-Tomatillo-135   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cmoh5v/should_i_make_my_coffee_maker_alarm_clock_files/</guid>
-      <pubDate>Tue, 07 May 2024 22:19:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
