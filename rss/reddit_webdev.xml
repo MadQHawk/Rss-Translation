@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 09 May 2024 15:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 18:15:47 GMT</lastBuildDate>
+    <item>
+      <title>自由职业者的定价网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co3ov8/pricing_websites_for_freelance/</link>
+      <description><![CDATA[人们通常如何为自由项目的网站定价？ 在这方面是否存在巨头或黄金法则？非常感谢任何有关参考材料的建议。 就上下文而言，我认识的人要求我创建一个具有预约功能的静态代理网站。他们有一些品牌材料，我只需要实现绿地项目所需的 UI 和功能。   由   提交 /u/ZeFeXi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co3ov8/pricing_websites_for_freelance/</guid>
+      <pubDate>Thu, 09 May 2024 18:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要建立一个人才中介网站，请问使用什么网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co3fii/i_need_to_build_a_staffing_agency_website_advice/</link>
+      <description><![CDATA[我想使用 webflow 或 Framer 或你们建议的其他方式构建一个网站。我希望它看起来现代又漂亮，所以没有 WordPress 我从来没有见过一个漂亮的 WordPress 网站。对于人才中介网站来说，webflow 和 Framer 哪个更好！   由   提交/u/Miserable_Marsupial4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co3fii/i_need_to_build_a_staffing_agency_website_advice/</guid>
+      <pubDate>Thu, 09 May 2024 17:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得 GitHub 贡献者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co2ez3/how_to_get_github_contributors/</link>
+      <description><![CDATA[我在 1 周内完成了多个步骤，将我的贡献者从 0 增加到 10。  创建问题和良好的结果第一期 创建文档供人们轻松遵循和安装 DEV 文章 为开源做出贡献如何帮助您找到工作 &lt; /ul&gt; 通过给现有贡献者一个舞台来保留他们  在此处观看完整视频： https://www.youtube.com/watch?v=1NaRYnEI9Ss   由   提交 /u/sleepysiding22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co2ez3/how_to_get_github_contributors/</guid>
+      <pubDate>Thu, 09 May 2024 17:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我列出了所有最好的 React + tailwindcss UI 组件库。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co1ora/i_made_a_list_of_all_the_best_ui_component/</link>
+      <description><![CDATA[    /u/DevHev   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co1ora/i_made_a_list_of_all_the_best_ui_component/</guid>
+      <pubDate>Thu, 09 May 2024 16:40:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>将相同数据的两个不同结构发送到前端是一个坏主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co19pe/is_sending_two_different_structures_of_the_same/</link>
+      <description><![CDATA[我有类似树的可视化，它是使用节点的嵌套数据结构递归构建的。我还有一个相同节点的简单列表视图，可以从平面数据结构访问节点。  我可以用几种不同的方式来处理这个问题，并希望得到一些可能更好的输入：  我可以从后端发送两种不同的数据结构，在那里建造它们。 （这是我目前最喜欢的选项） 我可以在前端构建数据结构 我可以创建单独的路由来获取数据结构。 重构以某种方式在列表和树视图之间使用一个数据结构。我怀疑这是否可能。    由   提交 /u/Mezzichai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co19pe/is_sending_two_different_structures_of_the_same/</guid>
+      <pubDate>Thu, 09 May 2024 16:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求任何简历批评。谢谢！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co17y0/looking_for_any_resume_critique_thanks/</link>
+      <description><![CDATA[       由   提交 /u/Flashingsword21   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co17y0/looking_for_any_resume_critique_thanks/</guid>
+      <pubDate>Thu, 09 May 2024 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的商店的搜索引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1co004l/search_engine_for_my_stores/</link>
+      <description><![CDATA[您好，我经营 4 家家具店，每家都有网上商店。有没有一种方法可以让我创建一个最初供我自己使用的搜索引擎，当输入一件家具的名称时，它会搜索这 4 家商店，并立即给出所有这些商店的结果？ 我想象一下：我输入“160x90 红木桌”例如，一次从所有商店获取 50 个结果。 创建这样一个搜索引擎有多困难，我需要什么，有人可以指导我吗？目前，除了 HTML 和基本 CSS 之外，我对创建网站一无所知。 我可以使用任何材料来获取有关此类特定主题的知识吗？ 我尝试寻找有关互联网，但有点太笼统了。   由   提交 /u/Pimpeck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1co004l/search_engine_for_my_stores/</guid>
+      <pubDate>Thu, 09 May 2024 15:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源项目如何赚钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnzqhl/how_does_open_source_projects_make_money/</link>
+      <description><![CDATA[我对 Web 开发领域相当陌生。有很多好的开源库和资源。在线插件。我想知道 VScode、React.js、Apache、Node、Angular 等开源项目如何维持自身。我理解不同的开发人员贡献代码的概念。但继续运行这些项目应该花费大量资金。他们是如何获得资金的？   由   提交 /u/masudalimran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnzqhl/how_does_open_source_projects_make_money/</guid>
+      <pubDate>Thu, 09 May 2024 15:16:50 GMT</pubDate>
+    </item>
     <item>
       <title>适合 CS 新手的 iPad</title>
       <link>https://www.reddit.com/r/webdev/comments/1cnzorv/ipad_for_a_newbie_cs/</link>
@@ -20,7 +76,7 @@
       <pubDate>Thu, 09 May 2024 13:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>您的快速单页原型/mvp 网站的工作流程/方法是什么？</title>
+      <title>您快速制作单页原型/mvp网站的工作流程/方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cnwq5o/whats_your_workflowapproach_for_a_quick_onepage/</link>
       <description><![CDATA[各位开发人员大家好！ 这里是后端软件工程师（10 岁，精通 Java、C# 和 Python），有几年的工作经验为了满足团队的需要，我还从事前端工作（涉及 React）。不用说，在前端方面我更像是一个初级学生，但仍然可以设法读/写理解一些高级代码。 基本上，我正在围绕网络抓取、工程构建一个小项目博客、LLM 和知识库 (RAG) 以及我的前端会有点简单 =&gt;主要是一页（除了登录），包含 3/4 个组件（每个组件位于另一个组件的顶部/底部）。 问题：当我正在构建这个供其他人使用的副项目时（可能是免费的捐赠和/或一些高级功能的费用/子），我真的想实现一个令人愉快的/响应式的 UI/UX，看起来很好。 你们推荐什么低代码工具（无代码不适合，因为我明显控制代码）来简化前端编码/设计？ 请感受一下免费推荐任何框架/库/工具（即使是付费的，如果不是太贵的话）。 谢谢！   由   提交/u/maher_bk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cnwq5o/whats_your_workflowapproach_for_a_quick_onepage/</guid>
@@ -41,74 +97,18 @@
       <pubDate>Thu, 09 May 2024 11:42:10 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Wix Studio 的高级 CSS 技术释放创意潜力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnut07/unlocking_creative_potential_with_advanced_css/</link>
-      <description><![CDATA[       由   提交 /u/Sad-Fish-3999   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnut07/unlocking_creative_potential_with_advanced_css/</guid>
-      <pubDate>Thu, 09 May 2024 11:20:17 GMT</pubDate>
+      <title>可以在自己的笔记本电脑上编写代码然后将其移至公司笔记本电脑吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cntq3r/is_it_ok_to_write_the_code_on_your_own_laptop_and/</link>
+      <description><![CDATA[事情是这样的： 虽然我从我工作的公司那里得到了一台笔记本电脑（作为承包商，而不是承包商）实际员工），我的个人笔记本电脑在各方面都更好，而且我更习惯它（更大的屏幕，更舒适的键盘，鼠标等），所以如果这取决于我（我不知道是否是的），我宁愿使用自己的笔记本电脑，编写代码，将其推送到个人 Github 帐户，然后从我公司的笔记本电脑中提取代码。 这样做会有什么问题吗？或者我是否应该始终使用公司提供的笔记本电脑？ 合同中对此没有任何说明，只是规定不要将代码提供给第三方。 澄清一下，我说的是我自己从头开始编写的代码，而不是将公司代码引入我的个人计算机。 非常感谢您的意见。 &lt; !-- SC_ON --&gt;  由   提交/u/Ok-Book-1494   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cntq3r/is_it_ok_to_write_the_code_on_your_own_laptop_and/</guid>
+      <pubDate>Thu, 09 May 2024 10:13:57 GMT</pubDate>
     </item>
     <item>
-      <title>录制网页产品演示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnupcu/recording_web_product_demo/</link>
-      <description><![CDATA[大家好， 对于很多独立开发者来说，Web开发完成后，需要录制一些产品演示和视频。您对用于录制或创建 AI 生成视频的软件或 Chrome 扩展程序有什么建议吗？我知道它与 Web 开发没有直接关系，但对于我们许多人来说，开发 Web 应用程序还涉及通过视频或幻灯片演示来呈现它们。  非常感谢！   由   提交 /u/Vinserello   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnupcu/recording_web_product_demo/</guid>
-      <pubDate>Thu, 09 May 2024 11:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>狗头人字母</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnukd6/kobold_letters/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnukd6/kobold_letters/</guid>
-      <pubDate>Thu, 09 May 2024 11:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天我发布了 EverShop 1.1.0 - 它可以帮助您使用 ReactJS 和 Node 构建专业的电子商务项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnuflo/today_i_release_evershop_110_it_helps_you_build_a/</link>
-      <description><![CDATA[       由   提交 /u/Thenguyenvn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnuflo/today_i_release_evershop_110_it_helps_you_build_a/</guid>
-      <pubDate>Thu, 09 May 2024 10:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 CSS 动画在移动设备上仍然如此糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnu81c/how_are_css_animations_still_so_bad_on_mobile/</link>
-      <description><![CDATA[我正在通过转换向我的 Angular 网站添加一些动画。在桌面上，它们看起来很棒，在移动设备上的某些浏览器（主要是 Chrome）上，它们几乎无法工作，或者只是很糟糕。  我尝试了很多东西来优化，比如在角度中使用推送策略，内置的角度动画 - 它们看起来都很糟糕！  即使使用使用动画的 Angular Material 组件，例如模态，动画也很糟糕。  我记得他们几年前就很糟糕，并且很遗憾他们仍然如此 😢   由   提交/u/SuchTown32  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnu81c/how_are_css_animations_still_so_bad_on_mobile/</guid>
-      <pubDate>Thu, 09 May 2024 10:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要进行健全性检查以确保我不会向我的网站引入任何安全漏洞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cntetw/need_a_sanity_check_to_make_sure_im_not/</link>
-      <description><![CDATA[我正在为客户构建一个网站，他们希望用户能够登录该网站并查看他们以前的订单。我想确保我实现用户登录的方式没问题，不会引入任何安全问题。 所以该网站是一个 Django 网站，允许用户购买本地活动/演出/音乐会的门票/ETC。当我开始研究它时，我创建了一个 User 模型，但是用户模型根本没有被使用，它只是在那里他们想要跟踪他们的客户（现在他们做）。他们现在想要做的是，每当客户在网站上购物时，自动为他们创建一个用户帐户，以便用户能够重新登录并查看他们所做的所有购买。 他们不想强迫用户通过选择用户名和密码来创建帐户，因为这会对用户体验产生负面影响。同时，他们为自己和其他客户创建了一些用户帐户（使用传统的用户名和密码方法），以便他们能够登录 Django 管理员并管理网站上的内容。因此，我必须支持通过密码和 OTP 登录用户，以防自动创建帐户。 我计划创建一个 API 端点，它将接受用户名或电子邮件，并检查是否存在与传递的用户名/电子邮件对应的用户帐户。如果帐户存在，端点将返回用于该帐户的身份验证方法，如果该帐户是通过 Django 管理员创建的并且具有有效密码，则将通过密码进行身份验证；如果帐户是自动创建的，则将通过 OTP 进行身份验证对于客户，并且没有有效的密码。 我创建了一个 OTP 模型，如下所示 - class OTP(models .Model): value = models.CharField(max_length=6, default=utils.generate_random_otp) user = models.ForeignKey(User, on_delete=models.CASCADE, related_name=&#39;otps&#39;) valid_till = models.DateTimeField(default=utils. get_otp_expiration_time)  我计划在登录工作流程中采用的方法是这样的 -  要求用户输入他们的用户名或电子邮件 检查给定用户名/电子邮件的帐户是否存在 如果存在，则返回要使用的身份验证方法 如果身份验证方法是密码，只需将用户的用户名和密码 POST 到 Django 的 LoginView，Django 将处理其余的事情 如果身份验证方法是 OTP，则创建 OTP 并将其发送到用户输入的电子邮件。  向用户询问 OTP。如果输入的 OTP 正确且有效，请登录用户并将他们重定向到他们要查找的页面。  我主要关心的是我已经实现了 OTP 模型本身，并且OTP 只是一个随机的 6 位数字（由 random.random 生成）。我 99% 确定此工作流程不会引入任何安全问题，但我只是想在实施之前确定一下。通过 OTP 实现登录时有什么需要注意的吗？或者这种方法可以吗？   由   提交/u/gohanshouldgetUI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cntetw/need_a_sanity_check_to_make_sure_im_not/</guid>
-      <pubDate>Thu, 09 May 2024 09:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用超级令牌是否足以保证没有用户修改其他用户的数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnt1o6/using_supertokens_is_this_enough_to_guarantee_no/</link>
-      <description><![CDATA[大家好！ 我开始使用超级代币开发一个网站 (https://github.com/supertokens）用于所有身份验证内容，并且想知道这是否足以防止其他人窃取其他人的令牌？ 应用程序全部隐藏在登录后面，您与其他用户没有联系，就像没有“个人资料”这样的东西一样。本身就像在社交网络中一样。但是，考虑到 API 调用，我怀疑有人可以看到这些并尝试随机令牌或以某种方式操作参数？ 我想要解决这个问题的方法是完全依赖令牌来检索用户 ID并采取行动（编辑个人资料图像、属性等）。除非您从其他用户那里窃取令牌，否则您不应该做任何正确的事情？或者我错过了一些额外的东西？   由   提交/u/edgraq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnt1o6/using_supertokens_is_this_enough_to_guarantee_no/</guid>
-      <pubDate>Thu, 09 May 2024 09:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的团队规模扩大 4 倍是一件痛苦的事情。我们可以做得更好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnswbe/growing_my_team_4x_has_been_a_pain_can_we_do/</link>
-      <description><![CDATA[       由    /u/vklepov  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnswbe/growing_my_team_4x_has_been_a_pain_can_we_do/</guid>
-      <pubDate>Thu, 09 May 2024 09:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnsub4/help/</link>
-      <description><![CDATA[为电子商务网站设置用户帐户和用户店面时遇到问题 如上所述，我遇到了自定义用户配置文件表单的问题。我正在使用 Ultimate Member 的免费版本，但无法编辑个人资料页面（我的所有更改根本不显示）。 请告诉我这是否有意义（当它出现时，我真是个土豆人）来到这里）。 我应该购买专业版还是我的大脑只是处于土豆模式？ 感谢您提供任何有用的信息！   由   提交 /u/TrippyMerc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnsub4/help/</guid>
-      <pubDate>Thu, 09 May 2024 09:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以将 MS Access SQL 数据库用于前端 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cnssl3/is_it_possible_to_use_ms_access_sql_database_for/</link>
-      <description><![CDATA[我有一个客户，它有一个使用 MS Access 在内部构建的自定义产品管理系统。他们的目标是拥有一个前端网络应用程序，以便客户能够管理和订购批发产品。我没有任何处理 MS Access 的经验，我很想知道这是否理想或什至可能。如果不是，理想/现代的解决方案是什么？提前致谢。    由   提交/u/Seoulites  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cnssl3/is_it_possible_to_use_ms_access_sql_database_for/</guid>
-      <pubDate>Thu, 09 May 2024 09:09:53 GMT</pubDate>
+      <title>这是什么类型的职位描述？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cnl1t8/what_type_of_job_description_is_this/</link>
+      <description><![CDATA[      具有 3.js 经验的全栈开发人员。专业使用 Three.js 的开发人员可能只有 1%。其中90%是前端开发人员。在我看来，要求全栈开发人员拥有 Three.js 体验听起来很愚蠢。你觉得怎么样？ https： //preview.redd.it/bxj52psmxazc1.png?width=714&amp;format=png&amp;auto=webp&amp;s=2743b530be16a1cfe27118651348b776f312368e    ;由   提交/u/Professional_Hair550   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cnl1t8/what_type_of_job_description_is_this/</guid>
+      <pubDate>Thu, 09 May 2024 01:17:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
