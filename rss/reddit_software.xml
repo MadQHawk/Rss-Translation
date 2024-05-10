@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 09 May 2024 21:13:49 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Fri, 10 May 2024 00:54:57 GMT</lastBuildDate>
+    <item>
+      <title>有没有完全远程嵌入式工作的网站？</title>
+      <link>https://www.reddit.com/r/software/comments/1co8ehu/are_there_any_websites_for_fully_remote_embedded/</link>
+      <description><![CDATA[如果没有，出于税务原因，我可能会接受 182 天或更短的国内停留时间。但是，最好是完全远程   由   提交 /u/jamawg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1co8ehu/are_there_any_websites_for_fully_remote_embedded/</guid>
+      <pubDate>Thu, 09 May 2024 21:22:15 GMT</pubDate>
+    </item>
     <item>
       <title>我对收到的工作机会感到非常困惑和焦虑。请帮忙🙏</title>
       <link>https://www.reddit.com/r/software/comments/1co786p/im_so_confused_and_anxious_about_the_job_offer_i/</link>
-      <description><![CDATA[（各位，请帮我提点建议。我没人可以咨询，我所有的亲戚朋友都在做生意。） 我来自一所三级 B.Tech 学院，是 2024 届的学生。我最近收到一家公司的一份工作邀请，担任“助理 ERP 顾问”，年薪 5 LPA，合同期 42 个月。必须偿还自加入以来收到的所有薪水，才能解除合同。我们的大学招聘已经停止，这是我手上唯一的工作邀请。我更感兴趣的是 Web 开发和 DSA，这与目前的工作邀请完全不匹配。 我的问题是：1. 我以后可以从 ERP 领域转到 Web 开发吗？（请帮我解决这个问题）2. 有没有公司为 ERP 顾问支付高薪？ 3. 加入这家初创公司并期待未来发展可以吗？ 我请求所有人和我一起加入🙏🏻🙇🏻‍♂️。任何人，请提供宝贵的建议。我将不胜感激您的每条建议。 我也愿意接受任何机会和推荐。我在 DSA 方面技能很好，可以解决多维 DP 问题。我可以发送我的简历以获取所有建议和机会。&quot;    提交人    /u/mikey_invinsible   [link] [评论]]]></description>
+      <description><![CDATA[（大家请帮我提建议。我没有人可以问；我所有的亲戚和朋友都在做生意。） 我来自三级理工学院，2024届学生。我最近收到了一家公司的“助理 ERP 顾问”职位邀请。拥有 5 LPA 工资和 42 个月的债券。一个人必须偿还加入以来收到的所有工资，才能解除这种束缚。我们的大学招生已经停止了，这是我手里唯一的offer。我更喜欢Web开发和DSA，这与当前的报价完全不匹配。 我的问题是： 1.我将来可以从ERP领域转向Web开发吗？ （请帮我解答这个问题） 2. 有没有公司为 ERP 顾问支付高薪？ 3. 可以加入这家初创公司，期待未来的发展吗？ 我请求大家双手合十🙏🏻🙇🏻‍♂️。大家好，请帮忙提出宝贵的建议。我将不胜感激每一个建议。 我也愿意接受任何机会和推荐。我有很好的DSA技能，可以解决多维DP问题。我可以发送我的简历来获取所有建议和机会。”   由   提交 /u/mikey_invinsible   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co786p/im_so_confused_and_anxious_about_the_job_offer_i/</guid>
       <pubDate>Thu, 09 May 2024 20:33:03 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>新应用程序可帮助结识并了解您周围的人</title>
       <link>https://www.reddit.com/r/software/comments/1co5qpz/new_app_to_help_meet_and_get_to_know_people/</link>
-      <description><![CDATA[大家好， 我的名字是 Aaron，我是一名软件工程师，我过去住在洛杉矶3年。我最近推出了一款名为 Geochat 的应用程序。 Geochat 这款应用程序可让您为距您一英里以内的人创建和加入基于位置的聊天室。该应用程序的目标是帮助您结识附近的新朋友，或者只是了解您每天周围看到的人。 在成长过程中，我很幸运能够成为这些紧密联系的人中的一员。每个人都互相认识的社区——孩子、父母、每个人。我们被窃听了。你实际上可以向邻居借点糖，甚至不需要解释。这就是氛围。 搬到洛杉矶后，我注意到，很容易感到与周围的人孤立和脱节。作为一个比较内向的人，我可以诚实地说，这并不是最糟糕的事情，哈哈，但这绝对不理想。很高兴认识周围的人并拥有真正的社区意识，这就是该应用程序的灵感来源。 整个概念是使用此应用程序将陌生人变回真正的邻居，并建立一个真正的-我们居住的地方的生活社会结构。它旨在将偶然的路人变成真正的联系。 如果您想尝试 Geochat，它现在可以在 Apple 的应用商店和 Google Play 商店中找到。如果您喜欢或讨厌下面的想法，请告诉我！ iPhone：https://apps.apple.com/us/app/geochat-c​​hat-with-neighbors/id6477336756 android：https://play.google.com/store/apps/details?id=com.geochat.app&amp;pcampaignid=web_share   由   提交/u/Educational-Oil-1834   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我的名字是 Aaron，我是一名软件工程师，我过去住在洛杉矶3年。我最近推出了一款名为 Geochat 的应用程序。 Geochat 这款应用程序可让您为距您一英里以内的人创建和加入基于位置的聊天室。该应用程序的目标是帮助您结识附近的新朋友，或者只是了解您每天周围看到的人。 在成长过程中，我很幸运能够成为这些紧密联系的人中的一员。每个人都互相认识的社区——孩子、父母、每个人。我们被窃听了。你可以直接向邻居借点糖，甚至不需要解释。这就是氛围。 搬到洛杉矶后，我注意到，很容易感到与周围的人孤立和脱节。作为一个比较内向的人，我可以诚实地说，这并不是最糟糕的事情，哈哈，但这绝对不理想。很高兴认识周围的人并拥有真正的社区意识，这就是该应用程序的灵感来源。 整个概念是使用此应用程序将陌生人变回真正的邻居，并建立一个真正的-我们居住的地方的生活社会结构。它旨在将偶然的路人变成真正的联系。 如果您想尝试 Geochat，它现在可以在 Apple 的应用商店和 Google Play 商店中找到。如果您喜欢或讨厌下面的想法，请告诉我！ iPhone：https://apps.apple.com/us/app/geochat-c​​hat-with-neighbors/id6477336756 android：https://play.google.com/store/apps/details?id=com.geochat.app&amp;pcampaignid=web_share   由   提交/u/Educational-Oil-1834   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co5qpz/new_app_to_help_meet_and_get_to_know_people/</guid>
       <pubDate>Thu, 09 May 2024 19:31:21 GMT</pubDate>
     </item>
@@ -57,26 +64,26 @@
     <item>
       <title>鳄鱼慢速</title>
       <link>https://www.reddit.com/r/software/comments/1co3egu/croc_slow_speeds/</link>
-      <description><![CDATA[嘿伙计们，我只是想知道为什么我的 Croc 传输速度这么低？我什至没有获得 1MB 的下载速度，并且我尝试打开和关闭防火墙和端口转发。 https://github.com/schollz/croc 任何人都知道我为什么或如何改进传输速度？任何有关这些问题的信息将不胜感激，谢谢。   由   提交/u/Humbaba3344   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我只是想知道为什么我的 Croc 传输速度这么低？我什至没有获得 1MB 的下载速度，并且我尝试打开和关闭防火墙和端口转发。 https://github.com/schollz/croc 任何人都知道我为什么或如何改进传输速度？任何有关这些问题的信息将不胜感激，谢谢。   由   提交/u/Humbaba3344  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co3egu/croc_slow_speeds/</guid>
       <pubDate>Thu, 09 May 2024 17:54:29 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道这个模糊的快捷方式属于哪个程序？</title>
+      <title>有人知道这个 blury 快捷方式属于哪个程序吗？</title>
       <link>https://www.reddit.com/r/software/comments/1co2x84/does_anyone_know_to_which_program_this_blury/</link>
-      <description><![CDATA[我刚刚进行了年度 PC 清理并重置了整个桌面。因为这次我时间很短，所以我只是快速拍了一些程序的所有快捷方式的照片，这样我就可以浏览一下我已经准备好了的东西，并且有一些时间看看我还想重新安装什么。 有一个问题，我没有注意图片质量，所以它一团模糊。我可以弄清楚一切，但不知道下面的快捷方式也属于哪个程序。 https://preview.redd.it/u7pzb43asfzc1.png?width=150&amp;format=png&amp;auto=webp&amp;s=7bed63fdc8f7053992137cc8347476 13b6213ca3 如果有人有线索，我们将不胜感激   由   提交 /u/Rattailgamer   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚完成了每年一次的 PC 清理，并重置了整个桌面。由于这次时间紧迫，我快速拍了一些程序快捷方式的照片，这样我就可以浏览一下所有设置好的程序，并有时间看看我还想重新安装什么。 有一个问题，我没有注意图片质量，所以它很模糊。我可以弄清楚所有事情，但不知道以下快捷方式属于哪个程序。 https://preview.redd.it/u7pzb43asfzc1.png?width=150&amp;format=png&amp;auto=webp&amp;s=7bed63fdc8f7053992137cc834747613b6213ca3 如果有人有线索，将不胜感激     提交人    /u/Rattailgamer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co2x84/does_anyone_know_to_which_program_this_blury/</guid>
       <pubDate>Thu, 09 May 2024 17:33:54 GMT</pubDate>
     </item>
     <item>
       <title>您的机器上安装了多少个软件？</title>
       <link>https://www.reddit.com/r/software/comments/1co2k04/how_many_software_do_you_have_installed_on_your/</link>
-      <description><![CDATA[我很好奇，想知道你的机器上有多少个桌面应用程序。我个人有大约 50 个桌面应用程序，我不知道这是很多还是只是平均值。 这个问题可能听起来很傻或很冒犯，但它只是为了了解其他人的使用情况。    提交人    /u/french_rabbit91   [link] [评论]]]></description>
+      <description><![CDATA[我很想知道您的计算机上有多少个桌面应用程序。我个人有大约 50 个桌面应用程序，我不知道这是很多还是只是平均水平。 这个问题可能听起来很愚蠢或侵入性，但这只是为了了解其他人使用的情况。  &gt;   由   提交 /u/french_rabbit91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co2k04/how_many_software_do_you_have_installed_on_your/</guid>
       <pubDate>Thu, 09 May 2024 17:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>对图像搜索/注释/索引工具有什么建议吗？</title>
+      <title>对于图像搜索/注释/索引工具有什么建议吗？</title>
       <link>https://www.reddit.com/r/software/comments/1co0jme/any_suggestions_for_image_search_annotation/</link>
       <description><![CDATA[我需要一个工具来帮助检索图像。我们在过去 22 年里拍摄了超过 5TB 的数码照片，在寻找特定的或与特定主题相关的东西时遇到了困难。我正在寻找一种工具，可以解析所有图像并具有某种索引，我可以在其中搜索“学生站在公共汽车前”等术语，并且它会显示具有该主题的图像。任何建议都非常感谢。   由   提交 /u/AbbreviationsNo3907   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co0jme/any_suggestions_for_image_search_annotation/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>“usbredir 是用于通过网络连接发送 USB 设备流量的网络协议的名称。它也是提供解析库、usbredirhost 库和实现该协议的几个实用程序的软件包的名称。”该协议“完全独立于香料”。</title>
       <link>https://www.reddit.com/r/software/comments/1cnw2b5/usbredir_is_the_name_of_a_network_protocol_for/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cnw2b5/usbredir_is_the_name_of_a_network_protocol_for/</guid>
       <pubDate>Thu, 09 May 2024 12:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找易于安装的免费远程桌面软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cnums9/in_search_of_an_easytoinstall_free_remote_desktop/</link>
-      <description><![CDATA[我需要一个无忧的远程桌面解决方案来帮助我的同学在他们的电脑上进行技术设置。以前，我依赖 Chrome 远程桌面，但它的 bug 越来越多，而且容易死机。 有谁知道有一款可靠、免费的远程桌面软件，可以快速安装、运行流畅并提供支持Mac 和 Windows 都可以吗？重要的是，该软件用户友好且易于设置，即使对于初学者也是如此。 提前致谢！   由   提交/u/Jdogg4089   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cnums9/in_search_of_an_easytoinstall_free_remote_desktop/</guid>
-      <pubDate>Thu, 09 May 2024 11:10:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
