@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 10 May 2024 06:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 09:13:31 GMT</lastBuildDate>
     <item>
       <title>StudyPal：您的人工智能个性化学习伴侣</title>
       <link>https://www.reddit.com/r/automation/comments/1co16eu/studypal_your_aipowered_personalized_learning/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>请尽快有人帮忙</title>
       <link>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</link>
-      <description><![CDATA[文件 &quot;C:\Users\hp\OneDrive\Desktop\TEST FOLDER\irctc-cypress-automation-main\irctc-captcha-solver\app.py&quot;, 第 6 行, 位于 &lt;module&gt; 中 导入 easyocr 文件 &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr_init.py&quot;, 第 1 行, 位于 &lt;module&gt; 中 从 .easyocr 导入 Reader 文件 &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\easyocr.py&quot;, 第 3 行, 位于 &lt;module&gt; 中从 .recognition 导入 get_recognizer、get_text 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\recognition.py”，第 2 行，位于 &lt;module&gt; 中 导入 torch 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\init_.py”，第 142 行，位于 &lt;module&gt; 中 引发 err OSError：[WinError 126] 找不到指定的模块。加载“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\lib\fbgemm.dll”或其依赖项之一时出错。   由    /u/ObsRoom  提交  [链接] [评论]]]></description>
+      <description><![CDATA[文件 &quot;C:\Users\hp\OneDrive\Desktop\TEST FOLDER\irctc-cypress-automation-main\irctc-captcha-solver\ app.py”，第 6 行，在  中导入 easyocr 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr_init.py”，第 1 行，模块&gt; from .easyocr import Reader File &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\easyocr.py&quot;，第 3 行，在  中from .recognition import get_recognizer, get_text 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\recognition.py”，第 2 行，在  中导入 torch 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\init_.py”，第 142 行，在&lt;模块&gt;中raise err OSError: [WinError 126] 找不到指定的模块。加载“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\lib\fbgemm.dll”时出错或其依赖项之一。   由   提交 /u/ObsRoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</guid>
       <pubDate>Thu, 09 May 2024 05:23:29 GMT</pubDate>
     </item>
@@ -48,14 +48,14 @@
       <pubDate>Wed, 08 May 2024 22:08:30 GMT</pubDate>
     </item>
     <item>
-      <title>Mac 应用程序和 Chrome 扩展自动化</title>
+      <title>Mac App 和 Chrome 扩展程序自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1cnblmy/mac_app_chrome_extension_automation/</link>
-      <description><![CDATA[我使用的两个生产力工具是： Break Timer - Mac 应用程序，让我每 30 分钟休息 60 秒 &lt; /p&gt; unhook - 阻止 YouTube 推荐源的 chrome 扩展  我发现自己禁用了这些“阻止程序”晚上忘记重新启用它们。 有没有办法可靠地每天午夜重新启用它们？我还没有尝试使用录制的宏来完成此操作，但担心扩展或菜单栏中的任何位置更改都会破坏自动化。  谢谢！   由   提交 /u/armadaskis1   [链接] [评论]]]></description>
+      <description><![CDATA[我使用的两个生产力工具是： Break Timer - Mac 应用程序，让我每 30 分钟休息 60 秒 &lt; /p&gt; unhook - 阻止 YouTube 推荐源的 Chrome 扩展  我发现自己禁用了这些“阻止程序”晚上忘记重新启用它们。 有没有办法可靠地每天午夜重新启用它们？我还没有尝试使用录制的宏来完成此操作，但担心扩展或菜单栏中的任何位置更改都会破坏自动化。  谢谢！   由   提交 /u/armadaskis1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cnblmy/mac_app_chrome_extension_automation/</guid>
       <pubDate>Wed, 08 May 2024 18:24:52 GMT</pubDate>
     </item>
     <item>
-      <title>如何让 AI 融入您的用户（Next.js、OpenAI、CopilotKit）</title>
+      <title>如何让 AI 融入你的用户（Next.js、OpenAI、CopilotKit）</title>
       <link>https://www.reddit.com/r/automation/comments/1cn72dp/how_to_have_ai_onboard_your_users_nextjs_openai/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cn72dp/how_to_have_ai_onboard_your_users_nextjs_openai/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>联系表和免费 PDF 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</link>
-      <description><![CDATA[首先我想说的是，我希望尽可能少地使用平台。理想情况下，我不需要 Squarespace、HubSpot CRM、MailChimp 等。从我发现的情况来看，我需要多个不同的平台来自动化我想在 Zapier 上做的事情。我希望有一种更简单（更便宜）的方法！ 我正在为我的营销机构寻找两样东西：  自动化我最初的销售渠道。有人通过我的 Squarespace 网站上的联系表单联系我 &gt; 安排通话 &gt; 我为他们的社交/网站提取改进领域（如果这可以以某种方式自动化，那太好了，但我可以手动执行）&gt; 如果没有回复，发送跟进电子邮件询问他们是否仍然感兴趣 &gt; 如果他们想一起工作，会自动发送发票 “在我的 IG 帖子上评论单词 ___ 即可获得免费指南”自动化。我很乐意制作免费的 PDF 或视频或其他内容，仅在他们输入电子邮件并选择加入我的指南后才发送。  谢谢大家！    提交人    /u/alexxxcazam   [link] [comments]]]></description>
+      <description><![CDATA[我首先会说我希望使用尽可能少的平台。理想情况下，我不需要 Squarespace、HubSpot CRM、MailChimp 等。根据我的发现，我需要许多不同的平台来自动化我想要在 Zapier 上执行的操作。我希望有一种更简单（而且更便宜）的方法！ 我正在为我的营销机构寻找两件事：  自动化我的初始销售渠道。有人通过我的 Squarespace 网站上的联系表联系我们 &gt;已安排通话 &gt;我为他们的社交/网站提出了改进的领域（如果这可以以某种方式自动化，那就太棒了，但我可以手动执行此操作）&gt;如果没有回复，请发送后续电子邮件询问他们是否仍然感兴趣&gt;如果他们想合作，则会自动发送发票 “在我的 IG 帖子上评论单词 ___ 以获得免费指南”自动化。我很乐意制作一个免费的 pdf 或视频或仅在他们输入电子邮件并选择加入我的指南后发送的内容。  谢谢大家！&lt; /p&gt;   由   提交 /u/alexxxcazam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</guid>
       <pubDate>Sun, 05 May 2024 20:29:11 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>使用 Instagram 人工智能免费创建 25 个 Instagram 帖子！</title>
       <link>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</link>
-      <description><![CDATA[  由    /u/Naive_Spread_3576  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Naive_Spread_3576   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</guid>
       <pubDate>Thu, 02 May 2024 22:49:48 GMT</pubDate>
     </item>
     <item>
       <title>营销机构自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1ciesnn/automations_for_marketing_agency/</link>
-      <description><![CDATA[大家好！我是一家精品营销机构的老板。目前只有我和一名实习生，但我有很多客户和很多产品。我的目标客户是那些负担不起许多专业机构的小型企业，但他们希望以极低的成本做好每件事。 我无法通过 SEO 策略获得数千个新线索，但我可以每天将网站流量增加 200 多个（但这就是客户所需要的）。希望这能让我了解与我合作的人。 无论如何。就像我说的，我做了很多不同的事情（网页设计、社交媒体管理、内容创建、SEO、电子邮件营销、谷歌广告等）。我知道我可以以某种方式自动化这些流程，但我不知道怎么做！ 有人有节省大量时间的系统吗？ （例如发送自动电子邮件、创建帖子内容日历、撰写和发布博客等）。我更喜欢 Make.com 而不是 Zapier，所以如果我可以利用它，那就太好了！ 如果没有人能回答第一个问题，那么第二个问题就是 - 我如何/在哪里可以找到一个不仅能告诉我可以自动化什么而且还能为我完成的人？    提交人    /u/alexxxcazam   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我是一家精品营销机构的老板。目前只有我和一名实习生，但我有很多客户和很多产品。我的利基市场是小型企业，他们无力承担大量专业机构的费用，但他们希望以一小部分成本将一切做好。  我无法从 SEO 策略中获得数千个新线索，但我可以每天将网站流量增加 200+（但这就是客户所需要的）。希望这能让我了解与我一起工作的人。  无论如何。就像我说的，我做了很多不同的事情（网页设计、社交媒体管理、内容创建、搜索引擎优化、电子邮件营销、谷歌广告等）。我知道我可以以某种方式自动化这些过程，但我不知道如何！ 有人拥有可以节省大量时间的系统吗？ （例如，发送自动电子邮件、为帖子创建内容日历、撰写和发布博客等）。与 Zapier 相比，我更喜欢 Make.com，所以如果我可以利用它，那就太好了！ 第二个问题，如果没有人有的话第一个问题的答案 - 我如何/在哪里可以找到一个人，他不仅会告诉我我可以自动化什么，而且还会为我做这件事？    由   提交 /u/alexxxcazam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciesnn/automations_for_marketing_agency/</guid>
       <pubDate>Thu, 02 May 2024 12:47:22 GMT</pubDate>
     </item>
