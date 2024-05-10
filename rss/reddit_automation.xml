@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 10 May 2024 00:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:13:23 GMT</lastBuildDate>
     <item>
       <title>StudyPal：您的人工智能个性化学习伴侣</title>
       <link>https://www.reddit.com/r/automation/comments/1co16eu/studypal_your_aipowered_personalized_learning/</link>
@@ -20,9 +20,9 @@
       <pubDate>Thu, 09 May 2024 13:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>请尽快有人帮忙</title>
+      <title>请尽快帮忙</title>
       <link>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</link>
-      <description><![CDATA[文件 &quot;C:\Users\hp\OneDrive\Desktop\TEST FOLDER\irctc-cypress-automation-main\irctc-captcha-solver\ app.py”，第 6 行，在  中导入 easyocr 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr_init.py”，第 1 行，模块&gt; from .easyocr import Reader File &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\easyocr.py&quot;，第 3 行，在  中from .recognition import get_recognizer, get_text 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\recognition.py”，第 2 行，在  中导入 torch 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\init_.py”，第 142 行，在&lt;模块&gt;中raise err OSError: [WinError 126] 找不到指定的模块。加载“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\lib\fbgemm.dll”时出错或其依赖项之一。   由   提交 /u/ObsRoom   [链接] [评论]]]></description>
+      <description><![CDATA[文件 &quot;C:\Users\hp\OneDrive\Desktop\TEST FOLDER\irctc-cypress-automation-main\irctc-captcha-solver\app.py&quot;, 第 6 行, 位于 &lt;module&gt; 中 导入 easyocr 文件 &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr_init.py&quot;, 第 1 行, 位于 &lt;module&gt; 中 从 .easyocr 导入 Reader 文件 &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\easyocr.py&quot;, 第 3 行, 位于 &lt;module&gt; 中从 .recognition 导入 get_recognizer、get_text 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\recognition.py”，第 2 行，位于 &lt;module&gt; 中 导入 torch 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\init_.py”，第 142 行，位于 &lt;module&gt; 中 引发 err OSError：[WinError 126] 找不到指定的模块。加载“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\lib\fbgemm.dll”或其依赖项之一时出错。   由    /u/ObsRoom  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</guid>
       <pubDate>Thu, 09 May 2024 05:23:29 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 07 May 2024 14:33:06 GMT</pubDate>
     </item>
     <item>
-      <title>了解人工智能和自动化的 Discords / 社区（无代码）</title>
+      <title>了解人工智能和自动化的 Discord/社区（无代码）</title>
       <link>https://www.reddit.com/r/automation/comments/1cm5dms/discords_communities_to_learn_about_ai_and/</link>
       <description><![CDATA[您有什么建议吗？   由   提交 /u/Purple-Asparagus-887   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cm5dms/discords_communities_to_learn_about_ai_and/</guid>
@@ -97,7 +97,7 @@
       <pubDate>Sat, 04 May 2024 22:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Instagram 的 AI 免费创建 25 个 Instagram 帖子！</title>
+      <title>使用 Instagram 人工智能免费创建 25 个 Instagram 帖子！</title>
       <link>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</link>
       <description><![CDATA[ 由   提交/u/Naive_Spread_3576   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cit994/create_25_instagram_posts_for_free_with_ai_for/</guid>
