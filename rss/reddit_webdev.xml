@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 May 2024 15:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 18:16:55 GMT</lastBuildDate>
+    <item>
+      <title>为什么我的视频不允许搜索？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cow3io/why_wont_my_videos_allow_seeking/</link>
+      <description><![CDATA[我正在使用 laravel sail 制作一个播客应用程序。当我加载视频时，它可以播放，但是当我尝试跳到视频的其他部分时，没有任何反应。 有人知道这可能是什么吗？非常感谢任何帮助👌   由   提交 /u/RyanArmstrong777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cow3io/why_wont_my_videos_allow_seeking/</guid>
+      <pubDate>Fri, 10 May 2024 18:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>财务顾问网站设计：您对此有何看法？谢谢。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1covflk/website_design_for_financial_advisor_what_do_you/</link>
+      <description><![CDATA[      https://preview.redd.it/43gcvrxpymzc1.jpg?width=4320&amp;format=pjpg&amp;auto=webp&amp;s=9002cd387ee ce5cb71be75f16d1b49c908530c0f 展示我的设计作品，但我也开发网站。   由   提交/u/Sweet_Ad6090   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1covflk/website_design_for_financial_advisor_what_do_you/</guid>
+      <pubDate>Fri, 10 May 2024 17:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试从 GitHub 存储库获取文件时发生 CORS 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1couz0x/cors_error_when_trying_to_get_a_file_from_a/</link>
+      <description><![CDATA[（我希望这尊重帮助问题的规则，我不太确定在哪里发布） 所以我&#39;我正在开发一个从 GitHub 存储库加载文件的 Web 应用程序。它首先获取存储库上文件夹的内容，然后对于该文件夹中的每个文件，获取该文件的内容。 我已经能够通过以下请求获取该文件夹的内容：  GET “https://api.gitub.com/repos/USER/REPO/contents/PATH”接受：application/vdn.github.v3+json 授权：Bearer GITHUB_PAT X-GitHub-Api-Version：2022-11-28  这给了我预期的结果：一个 json 数组目录中每个文件的对象，类似于： { &quot;name&quot;: &quot;&quot;, &quot;path&quot;: &quot;&quot;&quot;, &quot;sha&quot;: &quot; xxx”，“大小”：1234，“url”：“https://api.github.com/repos/USER/REPO/contents/PATH”，“html_url”：“https://github .com/USER/REPO/blob/content/PATH”，“git_url”：“https://api.github.com/repos/USER/REPO/git/blobs/xxx”，“download_url”：“ ;https://raw.githubusercontent.comUSER/REPO/content/PATH?token=xxx”, “类型”: “文件”, “_links”: { “self”: “https://api .github.com/repos/USER/REPO/contents/PATH”，“git”：“https://api.github.com/repos/USER/REPO/git/blobs/xxx”，“html” ：“https://github.com/USER/REPO/blob/content/PATH” } }  现在，我尝试使用下载网址来获取文件内容。使用curl，我可以做到这一点，只需使用与上面相同的标头获取下载网址即可。但是，当我在应用程序中执行此操作时，出现以下 CORS 错误： Access to fetch at &#39;https://raw.githubusercontent.com/USER/REPO/content/PATH?来自源“http://localhost:8080”的 token=xxx&#39; 已被 CORS 策略阻止：对预检请求的响应未通过访问控制检查：它没有 HTTP 正常状态。  我尝试在网上查找，一些网站建议添加标头 Access-Control-Allow-Origin: * ，但这不起作用，而其他网站似乎也就是说，应答服务器应该具有该标头，但我在 GitHub API 文档中没有找到有关允许来源的任何内容。他们确实提到了一些有关 CORS 的内容（https://docs.github.com/en/rest/using-the-rest-api/using-cors-and-jsonp-to-make-cross-origin- requests?apiVersion=2022-11-28），但它也不起作用。 我应该如何解决这个问题？谢谢！   由   提交 /u/SpacewaIker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1couz0x/cors_error_when_trying_to_get_a_file_from_a/</guid>
+      <pubDate>Fri, 10 May 2024 17:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>某些网站如何能够检测到您单击了 F12 或检查了页面上的元素，然后触发针对它（或针对您）的某种类型的防御？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coupxr/how_some_websites_are_able_to_detect_that_you/</link>
+      <description><![CDATA[有像 aniwave 这样的网站（不会给你一个确切的链接，因为许多 Reddit 子版块都有针对任何与盗版相关的规则，尽管很容易找到）[如果我不应该给出该名称，那么只需告诉我，而不是删除该帖子，我会很快将其编辑掉]，当您点击F12打开浏览器开发者工具或者直接点击鼠标右键→检查，网站突然开始保持快速刷新（或做其他事情），然后在一定次数的刷新后（除非你及时停止或关闭它）被封锁 24 小时左右。 它到底是如何工作的？在很短的时间间隔内进行大量刷新后触发临时禁令可能是理所当然的，但是在您检查元素或在浏览器中单击 F12 后，网站如何能够触发此类事件？  是否可以在某处找到有关其工作原理的解释？什么以及如何触发它？ 如何解决这样的事情？ 和平！    ;由   提交 /u/Scarlet_Evans   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coupxr/how_some_websites_are_able_to_detect_that_you/</guid>
+      <pubDate>Fri, 10 May 2024 17:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 引擎中的对象结构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coujow/object_structure_in_javascript_engines/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coujow/object_structure_in_javascript_engines/</guid>
+      <pubDate>Fri, 10 May 2024 17:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>短信验证 API 便宜吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cotvt1/cheap_sms_verification_api/</link>
+      <description><![CDATA[Twilio 对我来说太贵了，塞浦路斯每条消息 0.08 美元。所以用户注册了，那就是+1，他可能每天注销并重新登录 3 到 4 次，他可能需要更改他的电话或密码。一个用户每月最多需要花费 1 美元。顺便说一句，我正在使用 Supabase Auth，它支持 4 个提供商，其中 MessageBird 是最便宜的，但仍然太贵。我正在考虑使用 AWS 或更便宜的产品并自己完成。任何建议或提示将不胜感激。   由   提交 /u/NotLegal69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cotvt1/cheap_sms_verification_api/</guid>
+      <pubDate>Fri, 10 May 2024 16:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为您的 AI 应用实现多模式数据导入（PDF、URL、文档、图像、csv 等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cotd54/how_to_implement_multimodal_data_imports_for_your/</link>
+      <description><![CDATA[ 由   提交 /u/ToeIntelligent4472    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cotd54/how_to_implement_multimodal_data_imports_for_your/</guid>
+      <pubDate>Fri, 10 May 2024 16:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建复杂的架构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coswtz/building_a_complex_architecture/</link>
+      <description><![CDATA[大家好，我已经自学了近 2 年，还没有任何专业经验，只能自己构建小型应用程序。所以我想知道，您作为开发团队的一员感觉如何？规划、构建和维护复杂软件架构的流程是什么样的？   由   提交 /u/Cheesuscrust460   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coswtz/building_a_complex_architecture/</guid>
+      <pubDate>Fri, 10 May 2024 15:55:39 GMT</pubDate>
+    </item>
     <item>
       <title>有哪个软件机构愿意给我们反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1corv2n/any_software_agency_willing_to_give_us_a_feedback/</link>
@@ -46,62 +102,6 @@
       <description><![CDATA[我目前是一名网络管理员学生。我最近开始担任远程 Web 开发实习生。随着我职业生涯的发展，这会帮助我过渡到基于系统管理的角色吗？我只是很好奇，因为这就是我将来想做的事情。   由   提交 /u/h9xq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1coq3sk/question_about_future_career/</guid>
       <pubDate>Fri, 10 May 2024 13:53:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以跳过个人项目的测试吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cop6n9/can_i_skip_testing_for_my_personal_project/</link>
-      <description><![CDATA[我是一名新研究生。我正在构建一个网络应用程序，因此当在面试中被问及项目时，我有一些不错的东西可以展示。 事实是，这对我来说似乎是一个大项目 - 我想构建一个迷你 Twitter（只执行社交媒体应用程序最基本的功能）。而且我想尽快完成它，我需要能够尽快使用它，同时我需要申请工作，练习leetcode等。 到目前为止我已经花了一周的时间，并且我对于是否在它变得太大之前添加测试感到矛盾。我的意思是大多数面试官只关心屏幕前显示的内容，对吗？只要我有一个漂亮的 UI 并且一切运行顺利就可以了，对吧？   由   提交 /u/Cant-Survive-a-Sesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cop6n9/can_i_skip_testing_for_my_personal_project/</guid>
-      <pubDate>Fri, 10 May 2024 13:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试 API 时，您遇到的最常见挑战是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cop1gn/when_testing_apis_what_are_some_of_the_most/</link>
-      <description><![CDATA[很想知道其他人在测试 API 时都感到沮丧的事情，哈哈。共同苦难中团结😂   由   提交 /u/qyrusai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cop1gn/when_testing_apis_what_are_some_of_the_most/</guid>
-      <pubDate>Fri, 10 May 2024 13:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以找到公平付费的一次性项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cooq1l/where_to_find_a_fair_paid_one_time_projects/</link>
-      <description><![CDATA[不谈工作或长期合同，优秀的网络开发人员从哪里可以获得副业项目？我尝试了 Fiverr 应用程序的 upwork，这些价格太荒谬了（比如大型网站 100 美元）。是否有专门用于此目的的在线空间，或者你们正在寻找副业和一次性项目，只需进行网络工作并在您的圈子中四处询问/传播消息？   由   提交/u/librewolf  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cooq1l/where_to_find_a_fair_paid_one_time_projects/</guid>
-      <pubDate>Fri, 10 May 2024 12:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>在全栈 Web 应用程序中处理身份验证的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coonw4/best_way_to_handle_authentication_in_a_full_stack/</link>
-      <description><![CDATA[过去 3 年我一直在使用 Laravel 和 React，使用 Inertia.js，它允许您直接从发送 React/Vue/Svelte 页面后端。 我目前正在寻找另一份工作，虽然 Inertia 很棒，但它并没有那么广泛，大多数全栈 Web 应用程序仍然是使用 API 构建的。 我知道在后端，身份验证是通过 JWT 完成的，JWT 存储在用户的浏览器中并随每个请求一起发送。令牌作为 cookie 存储在前端，但是为 Web 应用程序存储令牌的最佳方式是什么？我猜您会在 Redux、Pinia 或 Svelte 存储中实现 AuthenticationStore，或者如果您选择不使用 Redux，则在 React 中使用 AuthenticationContext。 &lt; p&gt;您将如何处理前端路由的身份验证？这是我不确定的地方。我猜如果用户未经身份验证，您会从后端发送 401，删除浏览器上的所有令牌并将用户重定向到登录页面。 您通常会在后端处理所有身份验证吗？或者两者的混合，或者什么？授权怎么样？如果用户尝试访问他们无法访问的页面（例如管理页面），您是否只是返回 403，还是也需要在前端处理？ 当谷歌搜索时主题，我遇到的大多数教程都使用 Firebase 或 Supabase，我对使用它们不感兴趣，因为它们不会在我正在寻找的工作中的实际全栈应用程序中使用。   由   提交 /u/KiwiNFLFan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coonw4/best_way_to_handle_authentication_in_a_full_stack/</guid>
-      <pubDate>Fri, 10 May 2024 12:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMS（wordpress）与从头开始</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cooe69/cms_wordpress_vs_from_scratch/</link>
-      <description><![CDATA[大家好，我想听听你们对为低端客户构建网站的看法。多年来我一直使用 WordPress 来做这件事，并为有特定需求的客户保留我的编码技能。你们能告诉我你们是否曾经为需要信息网站的客户从头开始编写 php 或 nodejs 网站吗？  编辑：我问这个问题的原因是我是小型企业网站 WordPress 的忠实粉丝，这些网站的流量较低且编辑频繁。我只是想获得不同的视角。    由   提交/u/Boobpocket  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cooe69/cms_wordpress_vs_from_scratch/</guid>
-      <pubDate>Fri, 10 May 2024 12:29:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何在团队中管理 2FA/MFA？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coodrk/how_do_you_manage_2famfa_in_a_team/</link>
-      <description><![CDATA[我想我快疯了。 我们是一个小团队，与一群不同的人一起工作客户。网站有很多移动部件，例如服务器、DNS 和第三方系统。 现在，这一切都很好，但我目前花更多时间设置会议或通话来登录不同的系统。服务比实际编码更重要。 我们最近推出了一个网站，但花了很长时间，因为：  客户的 IT 人员拥有 DNS 访问权限，他的电话号码位于 2FA 上，但他休假了几天。他们在这个帐户上还有其他敏感信息，无法共享访问权限。 他们想要设置新闻通讯，所以我想与通常的嫌疑人联系。花了两天时间登录，因为客户整天都在开会，每次尝试登录时发送 2FA 代码都太晚了。  对于时事通讯，从技术上讲，我可以让他们共享可以使用我的帐户进行访问，但在这种情况下客户的 IT 技能（即找到一种共享访问权限而不仅仅是共享密码的方法）低于标准。 所以我想我的问题是，您如何管理 MFA而不被个人如此束缚？在您自己的组织内部和外部。如果有人正在度假、生病了几天，或者联系他们很麻烦怎么办？如果我离开几周，但财务部门正在通过 MFA 从某个系统查找收据或发票怎么办？   由   提交/u/LISCoxH1Gj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coodrk/how_do_you_manage_2famfa_in_a_team/</guid>
-      <pubDate>Fri, 10 May 2024 12:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们现在最喜欢哪种 linter？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cooaed/what_linter_do_you_guys_prefer_these_days/</link>
-      <description><![CDATA[我意识到我得到的项目现在没有 linter，我想我应该添加一个，现在人们喜欢哪一个？还是 ESLint 吗？   由   提交 /u/zerthz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cooaed/what_linter_do_you_guys_prefer_these_days/</guid>
-      <pubDate>Fri, 10 May 2024 12:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们现在都在哪里找工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1conxhr/where_are_you_guys_looking_for_jobs_now_a_days/</link>
-      <description><![CDATA[已经离开市场一段时间了，但可能需要很快再次开始寻找。所以我有点脱节了，在 php/javascript 领域或者一般的 Web 开发领域，现在好工作发布已经是天经地义的事了。    由   提交 /u/IAmRules   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1conxhr/where_are_you_guys_looking_for_jobs_now_a_days/</guid>
-      <pubDate>Fri, 10 May 2024 12:05:02 GMT</pubDate>
     </item>
     <item>
       <title>鼠标位置上的剪辑路径（？）</title>
