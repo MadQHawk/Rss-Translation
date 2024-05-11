@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 11 May 2024 00:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 03:14:39 GMT</lastBuildDate>
+    <item>
+      <title>PDF 中非 JavaScript 的浏览器安全漏洞</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp5vkm/browser_security_bugs_that_arent_javascript_in_pdf/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp5vkm/browser_security_bugs_that_arent_javascript_in_pdf/</guid>
+      <pubDate>Sat, 11 May 2024 01:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用 sql 还是 mongodb</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp5lhb/should_i_use_sql_or_mongodb/</link>
+      <description><![CDATA[所以我正在制作一个游戏，你必须随机猜测一种动物。您可以猜测它来自哪个大陆，属于什么顺序，栖息地等。您可以通过使用下拉菜单来猜测这些内容，例如一个名为“大陆”的下拉菜单，包含 7 个大陆 在我的当前演示我有一些动物存储在 json 文件中，并且每个下拉列表都有一个 json 文件。然后，当您进行猜测时，它会检查下拉 json 文件中的数据是否与动物文件中的数据匹配。但现在是时候实现数据库而不是使用 json 了。  我真的不喜欢使用sql，但它可能会好得多。然后我可以做一些事情，比如拥有一个大陆模式，从动物模式等获取数据，而且我不必更新多个模式。我还有诸如链接在一起的动物分类学之类的东西，例如：食肉目在哺乳动物内部，犬科在食肉目内部等等。 如果我要使用 mongodb，我会以与以下相同的方式设置系统我现在已经完成了 json 文件。为每个下拉列表建立一个集合，然后检查它是否与动物等匹配，并执行诸如将集合映射在一起之类的操作。  所以我的问题是：用 mongodb 创建这个真的很愚蠢吗？我对数据库没有太多经验，但是当我使用 mongodb 时，感觉非常直观和简单，而 sql 确实给我带来了压力。我可以使用 mongodb 来实现这一点，而不会让它变得非常乏味吗？或者我应该使用sql？   由   提交 /u/tojzl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp5lhb/should_i_use_sql_or_mongodb/</guid>
+      <pubDate>Sat, 11 May 2024 01:15:29 GMT</pubDate>
+    </item>
     <item>
       <title>如何创建像mapgenie.io这样的地图图块</title>
       <link>https://www.reddit.com/r/webdev/comments/1cp51qr/how_to_create_a_map_tile_like_mapgenieio/</link>
@@ -41,25 +55,11 @@
       <pubDate>Fri, 10 May 2024 22:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>Api 忍者窃取数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cp1hfj/api_ninjas_stealing_data/</link>
-      <description><![CDATA[不要为 api ninjas 服务付费。我们正在考虑为他们的“animals api”付费，但注意到所有数据都直接来自 A-Z 动物网站。从字面上看，他们只是从网站上删除了数据。 A-Z 动物也有相当严格的使用条款和条件，因此这可能对我们不利。 据我所知，API 忍者可以合法地访问这些数据，但我对此表示怀疑。&lt; /p&gt;   由   提交 /u/tojzl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cp1hfj/api_ninjas_stealing_data/</guid>
-      <pubDate>Fri, 10 May 2024 22:01:03 GMT</pubDate>
-    </item>
-    <item>
       <title>你们能帮我做这个调查吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cp1d4k/can_you_guys_help_me_out_with_this_survey/</link>
       <description><![CDATA[我正在学习如何成为一名用户体验设计师，现在，我正在尝试为我当前的案例研究获取一些调查数据。我不知道发布这些东西的合适位置在哪里，所以请保持温柔。这是一个关于您使用操作系统的体验的简短调查。乐趣！ https://forms.gle/itnUGiKYcqBUgYa96   由   提交 /u/ilexcent   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cp1d4k/can_you_guys_help_me_out_with_this_survey/</guid>
       <pubDate>Fri, 10 May 2024 21:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>朋友被解雇了。萌生了这个念头。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cp15yn/friend_got_laid_off_give_birth_to_this_idea/</link>
-      <description><![CDATA[我一直在致力于这个名为：ApplyGoat：您的个人的想法职位申请助理。 为什么？人力资源部门100%使用ATS/AI/自动化方法筛选候选人简历和申请。 解决方案： ApplyGoat 将自动根据职位描述帮助定制您的简历，并代表您一键申请该职位，无需填写冗长的表格和求职信。 ApplyGoat 是反 ATS 的 ATS [ 申请人 申请跟踪系统 ]，可确保您在竞争中脱颖而出人群。 请讨论这个想法，设计，一切。 我需要知道我没有在“Tarpit 想法”上度过五月。 &lt; p&gt;提前致谢。   由   提交/u/pystar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cp15yn/friend_got_laid_off_give_birth_to_this_idea/</guid>
-      <pubDate>Fri, 10 May 2024 21:47:24 GMT</pubDate>
     </item>
     <item>
       <title>为什么我们需要模板引擎？</title>
