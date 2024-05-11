@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 11 May 2024 12:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 15:12:27 GMT</lastBuildDate>
     <item>
-      <title>[周六炫耀] 作为一个初学者，这是我制作的一个网页。开始感受到Web开发的乐趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpfvx0/showoff_saturday_as_a_beginner_heres_a_webpage_i/</link>
-      <description><![CDATA[      我尝试制作这个https://dunesaga.wegic.app/home  我知道它仍然很基础并且有很多缺陷，但它仍然给我带来了很多快乐。哈哈 https://preview。 redd.it/zfau980ceszc1.png?width=2872&amp;format=png&amp;auto=webp&amp;s=d6c6f1fd18bcba30fec0e1f95c4ef7067a723556   由   提交 /u/ArtichokeSavings6045   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpfvx0/showoff_saturday_as_a_beginner_heres_a_webpage_i/</guid>
-      <pubDate>Sat, 11 May 2024 11:59:24 GMT</pubDate>
+      <title>为什么 http 服务器下载量会如此激增……只是好奇？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpjixq/why_did_httpserver_downloads_surge_like_thisjust/</link>
+      <description><![CDATA[   /u/blipojones  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpjixq/why_did_httpserver_downloads_surge_like_thisjust/</guid>
+      <pubDate>Sat, 11 May 2024 15:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>处理使用敏感信息/文档的应用程序的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpfljr/whats_the_best_practice_for_handling_applications/</link>
-      <description><![CDATA[我有一个 Web 应用程序的想法，该应用程序需要拥有（不存储）包含敏感信息（例如图像或护照、出生证明、银行信息）的文件收入报表）。处理此类文档的最佳实践是什么？ 文件加密：除了 https（显然）之外，是否需要对传输中的文件进行加密？是否有某种加密方法是最佳实践？ 权限：如果在传输中/内存中发生数据泄漏，是否有必要让用户确认放弃（这是否可能）-保护我自己？ （我不会存储任何文档） 安全：我需要扫描传入的文档吗？我有哪些选择来执行此操作 - 免费还是付费？ 希望听到任何具有处理此问题的生产级应用程序经验的人的意见。    由   提交 /u/RingofOnionling   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpfljr/whats_the_best_practice_for_handling_applications/</guid>
-      <pubDate>Sat, 11 May 2024 11:42:16 GMT</pubDate>
+      <title>如何确定你的代码是好的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpjb8d/how_be_sure_that_your_code_is_good_one/</link>
+      <description><![CDATA[您好！我的问题是，如果我找到解决方案并编写代码，我如何才能确定它是“好代码”，就像如果有来自顶级公司的 Web 开发人员，他的解决方案会类似？   由   提交 /u/romanosadchyi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpjb8d/how_be_sure_that_your_code_is_good_one/</guid>
+      <pubDate>Sat, 11 May 2024 14:56:20 GMT</pubDate>
     </item>
     <item>
-      <title>我整理了一份关于构建组件库时需要做出的决策的简短指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpfkkx/i_put_together_a_short_guide_about_the_decisions/</link>
-      <description><![CDATA[       由   提交/u/Andrico1234   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpfkkx/i_put_together_a_short_guide_about_the_decisions/</guid>
-      <pubDate>Sat, 11 May 2024 11:40:45 GMT</pubDate>
+      <title>[周六炫耀]我正在制作一个网站，您可以在其中绘画和重播您的艺术作品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpj8ga/showoff_saturday_im_making_a_website_where_you/</link>
+      <description><![CDATA[       由   提交 /u/Stixv   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpj8ga/showoff_saturday_im_making_a_website_where_you/</guid>
+      <pubDate>Sat, 11 May 2024 14:52:40 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个可输出 PDF 的 Youtube Summarizer AI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpfcnl/i_built_a_youtube_summarizer_ai_that_outputs_pdf/</link>
+      <title>我构建了一个报告自动化工具。无服务器后端，React 前端。 1人。 2年。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpj5m5/i_built_a_report_automation_tool_serverless_back/</link>
+      <description><![CDATA[      我构建了一个报告自动化工具。无服务器后端，React 前端。 1人。 2 年。 bidbear.io 这是我一直在做的一个单人项目现在已经工作了几年了。它是一个报告自动化工具，可以自动将报告下载到数据库，对它们进行索引，以便可以使用 SQL 进行查询，然后根据需要将数据拉到客户端，在客户端将数据合并并与自定义表格和图表一起显示。然后可以将数据导出为 PDF 或表格。 这里是技术堆栈的简要概述。 营销网站是使用 Next 制作的。文档网站是用 Docusaurus 制作的。应用程序客户端是用Vite（以前的CRA）制作的。后端全部是无服务器AWS。使用 Cognito、API 网关进行身份验证以路由流量。 Lambda 处理向 Glue 数据库发出 SQL 请求。实际的报告文件存储在 S3 中，但它们被虚拟化到 Glue 表中，当文件使用操作到达 S3 时，这些表会根据需要进行索引。还有几个 DynamoDB 表来处理较小的用户数据项。 实际的报告自动化本身是使用 EventBridge for chron 触发的，然后触发状态机，使用 Javascript 和 Python Lambda 处理报告下载和 ETL。  客户端中的自定义图表是使用 D3 构建的。 还有很多其他细节，但这些是主要的。干杯。 https://preview .redd.it/ebyvsqnp9tzc1.png?width=1423&amp;format=png&amp;auto=webp&amp;s=c948b6a303b41aed51a78418eafc9d4b7d2d631e https://preview.redd.it/dkvjhfgt9tzc1.png?width=1200&amp;format=png&amp;auto=webp&amp; s=93e3e4f88f61ddef96df66e86a1bb872660e3971  https:// /preview.redd.it/6mv29dju9tzc1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=656001b39d45bd12b2d0f1add89459b9f817c8de https://preview.redd.it/cez6uzgx9tzc1.png?width=1300&amp;format=png&amp;auto=webp&amp;s =7527cedc00f0f8246b19640eee5701914d6a755b   由   提交 /u/NC_Developer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpj5m5/i_built_a_report_automation_tool_serverless_back/</guid>
+      <pubDate>Sat, 11 May 2024 14:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个搜索引擎（Meilisearch），用于搜索《卫报》上超过 200 万条与图书相关的评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpj20c/i_made_a_search_engine_meilisearch_for_over_2/</link>
+      <description><![CDATA[      我经常浏览《卫报》 提供书籍推荐和评论。用户评论通常与文章本身一样有趣，但我遇到了一些问题：  并非所有文章都开放评论。有时我想看看其他人对某本书的评价。 除了搜索文章之外，没有简单的方法来搜索用户评论的内容。  所以我做了一个网站，提供所有的全文搜索&gt;与图书相关的《卫报》文章有 200 万条用户评论。我使用了以下内容：  Python 获取数据 PostgreSQL 和Meilisearch Nextjs 前端 Cheap Hetzner VPS  搜索速度相当快，但检索大型评论线程需要一段时间，因为我已将它们作为邻接列表存储在 Postgres 中。 ​  https://preview.redd .it/p6sgjv118tzc1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=1a7c15fd82bbf7bd258e4b0696ad1d31e8f4d5cb   由   提交 /u/takenschmaken   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpj20c/i_made_a_search_engine_meilisearch_for_over_2/</guid>
+      <pubDate>Sat, 11 May 2024 14:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀]作品集反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpiwsp/showoff_saturday_portfolio_feedback/</link>
+      <description><![CDATA[嘿！这没什么花哨的，但希望得到任何反馈🫡 使用 nextjs 构建   由   提交/u/zuar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpiwsp/showoff_saturday_portfolio_feedback/</guid>
+      <pubDate>Sat, 11 May 2024 14:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索栏无法正常工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpiu14/search_bar_not_working_properly/</link>
+      <description><![CDATA[      我一直在开发一个项目，目前卡在搜索栏上，我遇到问题，当您在搜索栏中搜索时，您搜索的文本应该出现在其下方，接下来是按钮，您可以单击它并重定向到另一个选项卡，但发生的情况是该按钮消失，我无法再单击它，但如果我不搜索任何内容，该按钮就可以正常工作。我使用了 html、css 和 javascript 当我不搜索任何内容时，按钮工作 当我搜索时，按钮消失了，现在无法点击   由   提交/u/JaGiX_6_17_03   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpiu14/search_bar_not_working_properly/</guid>
+      <pubDate>Sat, 11 May 2024 14:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六展示]我向我的调查创建器添加了逻辑路径</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpiq05/showoff_saturday_i_added_logic_paths_to_my_survey/</link>
+      <description><![CDATA[       由   提交/u/Magiqon  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpiq05/showoff_saturday_i_added_logic_paths_to_my_survey/</guid>
+      <pubDate>Sat, 11 May 2024 14:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀] $15,000 Typescript 挑战赛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpihyj/showoff_saturday_15000_typescript_challenge/</link>
+      <description><![CDATA[   /u/mgcrimhead  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpihyj/showoff_saturday_15000_typescript_challenge/</guid>
+      <pubDate>Sat, 11 May 2024 14:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[炫耀周六]我的编程计算器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpi67u/showoff_saturday_my_programming_calculator/</link>
+      <description><![CDATA[       https://erikhaag.github.io/More-Math-rpn/  使用浮点有理数来满足您所有线性代数需求的计算器，（或者不，您可以计算平方根，我不会阻止您  更多数学计算 Pi    提交者 /u/calculus_is_fun   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpi67u/showoff_saturday_my_programming_calculator/</guid>
+      <pubDate>Sat, 11 May 2024 14:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否使用 Shadowrootmode="open" 构建一个多页面、仅可访问 css 的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cpi5ig/is_using_shadowrootmodeopen_to_build_a_multipage/</link>
+      <description><![CDATA[ 由   提交 /u/Telumire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cpi5ig/is_using_shadowrootmodeopen_to_build_a_multipage/</guid>
+      <pubDate>Sat, 11 May 2024 14:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我构建了一个 Youtube 视频转 PDF 摘要工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cphsln/showoff_saturday_i_built_a_youtube_video_to_pdf/</link>
       <description><![CDATA[       由   提交/u/sim04ful  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpfcnl/i_built_a_youtube_summarizer_ai_that_outputs_pdf/</guid>
-      <pubDate>Sat, 11 May 2024 11:27:32 GMT</pubDate>
+      <guid>https://www.reddit.com/r/webdev/comments/1cphsln/showoff_saturday_i_built_a_youtube_video_to_pdf/</guid>
+      <pubDate>Sat, 11 May 2024 13:42:52 GMT</pubDate>
     </item>
     <item>
-      <title>也许这里需要更严格的表单验证？ Booking.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpfa11/maybe_need_a_little_bit_stricter_form_validation/</link>
-      <description><![CDATA[      https://preview.redd.it/tqr2ypp87szc1.png?width=1017&amp;format=png&amp;auto=webp&amp;s=024f324d990b4c838ed5e53b 5df057e24238597a    由   提交 /u/wiseduckling   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpfa11/maybe_need_a_little_bit_stricter_form_validation/</guid>
-      <pubDate>Sat, 11 May 2024 11:23:04 GMT</pubDate>
+      <title>开始 - 我应该使用什么堆栈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cphhsc/beginning_what_stack_should_i_use/</link>
+      <description><![CDATA[我正在尝试构建我的第一个网络应用程序，但我不确定从哪里开始。我一直在寻找“无代码”选项，但它很难导航。  我的目标是创建一个网站，用户可以在其中上传项目图像并链接到所使用的产品列表（亚马逊附属链接）。图像数据库可以通过过滤器进行搜索，以缩小所使用的结果副产品的范围。  最接近的网站风格是 3D 打印机项目共享网站。有这样的网站的术语吗？内容目录？ 我一直在考虑 Flutterflow、Framer 和 Webflow。这些是好的选择吗？现在，我正在研究线框图，因此我希望尽快深入研究其中一个选项。 提前感谢您的任何建议！   由   提交 /u/Serious-Potato8774    reddit.com/r/webdev/comments/1cphhsc/beginning_what_stack_should_i_use/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cphhsc/beginning_what_stack_should_i_use/</guid>
+      <pubDate>Sat, 11 May 2024 13:27:02 GMT</pubDate>
     </item>
     <item>
-      <title>在代码中写注释 - 建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpeldm/writing_comments_in_code_suggestions/</link>
-      <description><![CDATA[哪个注释更好？ （或其他）？  // 单击背景时模态关闭 // 单击背景时关闭模态  &lt;!-- SC_ON - -&gt;  由   提交 /u/Tbh_idk______   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpeldm/writing_comments_in_code_suggestions/</guid>
-      <pubDate>Sat, 11 May 2024 10:39:28 GMT</pubDate>
+      <title>需要帮助动态集成 boostrap 和 js</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cphevr/needed_help_to_integrate_boostrap_and_js/</link>
+      <description><![CDATA[所以我正在处理一个使用 html 和 bootstrap 的项目，我有大约 3 张卡，所以我想使用 js 动态生成 html。但是，当我将 html 复制并粘贴到 js 中时，它只是显示 html 代码，而不是执行它。 这是代码的一个小示例： 所以如何我可以将 bootstrap 集成到 js 中，以使其工作吗？  我在 chatGPT 上搜索了这个，它说需要创建一个元素并将属性添加到每个类。我觉得这很耗时，而且还有其他方法可以做到这一点。 因此，我们将不胜感激。 let storeHTML = &quot; ”; prodname.forEach(function(product){ storeHTML += `     篮子  这是一个篮子  class=“单价”&gt;${product.price} $  let storeHTML = &quot;&quot;.forEach(function(product){ storeHTML += ` ; class=“card-body”&gt;   &gt;篮子 这是一个篮子 ${product.price} $&lt;/h4&gt;     提交.reddit.com/user/crazygamer2ey&quot;&gt; /u/crazygamer2ey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cphevr/needed_help_to_integrate_boostrap_and_js/</guid>
+      <pubDate>Sat, 11 May 2024 13:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>[炫耀星期六] 作品集反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpdzat/showoff_saturday_portfolio_feedback/</link>
-      <description><![CDATA[初学者您好。  任何对我的作品集和其中的项目的反馈都会很棒。  谢谢。 https://rlw92.github.io/Portfolio/   由   提交/u/theburnerofbridges  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpdzat/showoff_saturday_portfolio_feedback/</guid>
-      <pubDate>Sat, 11 May 2024 09:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 我在无代码编辑器中添加了实时代码预览</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpdvgv/showoff_saturday_i_added_a_live_code_preview_to/</link>
-      <description><![CDATA[       由   提交/u/Herobrine20XX   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpdvgv/showoff_saturday_i_added_a_live_code_preview_to/</guid>
-      <pubDate>Sat, 11 May 2024 09:49:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于“高级打字稿”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpd5r0/about_advanced_typescript/</link>
-      <description><![CDATA[   有人可以解释一下整个操作系统是如何只用结构体编写的，但我们需要这些东西来从 API 获取 Pokémon 统计数据。  https://preview.redd.it/lhnhdyaahrzc1.png?width=1094&amp;format=png&amp;auto=webp&amp;s=f7e398b2de2de6b2a165426d6ce7d28f30b74fe8  &amp; #32；由   提交 /u/yksvaan   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpd5r0/about_advanced_typescript/</guid>
-      <pubDate>Sat, 11 May 2024 08:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ftp.mywebsite 新所有者和链接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpcp91/ftpmywebsite_new_owner_and_links/</link>
-      <description><![CDATA[嗨 我有一个非常基本的网站，是根据我在TAFE学到的基本网站设计知识创建的。这是在 Notepad++ 中输入的实际文件，然后上传到 aws。 今天我收到一封来自 Google 控制台的电子邮件，说已为 ftp.mywebsiteaddress 添加了新所有者。我在那里根本找不到那个。我可以看到，对于一开始没有 ftp 的域，它表示我是唯一的所有者。  我自己去了 ftp.mywebsiteaddress，那里还有另一个页面，一些看起来很诈骗的赌场动漫女孩的东西。  他们在那里放置一个页面是否意味着他们也一定已经进入了我的 aws 帐户？或者这更多的是域名问题，意味着他们进入了我的 godaddy 帐户？或者是其他东西？我无法找到他们的访问权限并阻止它。  感谢您的帮助。    由   提交/u/Birchmark_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpcp91/ftpmywebsite_new_owner_and_links/</guid>
-      <pubDate>Sat, 11 May 2024 08:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[ShowOff Saturday] 我为朋友制作的快速促销单寻呼机</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpcive/showoff_saturday_a_quick_promotional_one_pager_i/</link>
-      <description><![CDATA[       由   提交 /u/react_server   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpcive/showoff_saturday_a_quick_promotional_one_pager_i/</guid>
-      <pubDate>Sat, 11 May 2024 08:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 使用 Next.js 和 TailwindCSS 重建小型企业网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpcepd/showoff_saturday_small_biz_website_rebuilt_with/</link>
-      <description><![CDATA[       由   提交/u/tamalweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpcepd/showoff_saturday_small_biz_website_rebuilt_with/</guid>
-      <pubDate>Sat, 11 May 2024 08:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>烘烤我的“即将推出”页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpbzgf/roast_my_coming_soon_page/</link>
-      <description><![CDATA[您好，我正在构建 SaaS 样板。我知道……还有一个。您可能会问有什么不同？我关注的是 SaaS 所有者，希望通过深入了解他们的销售、订阅和用户数据来帮助他们实现更多目标。此外，我将使创建、列出和销售产品变得非常容易。我将提供许多预构建的可自定义组件，以便您可以构建一个美观的应用程序。包括深色模式。还有更多。现在，我很想听到您对“即将推出”页面和整体想法的最严厉的反馈。谢谢并祝大家好运。签出 symswift.app    由   提交 /u/Ok_Remove3123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpbzgf/roast_my_coming_soon_page/</guid>
-      <pubDate>Sat, 11 May 2024 07:34:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该坚持使用 Laravel 还是切换到 Next.js？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpby6l/should_i_stick_with_laravel_or_switch_to_nextjs/</link>
-      <description><![CDATA[我制作视频并每周进行直播，展示我的编程学习过程。 我现在正在构建一个工具，允许你可以将日历与 google 日历的 API 同步（练习项目）。 我开始使用 Laravel，但我的聊天一直告诉我在 NextJS 中会更容易。我什至邀请了一位观众，他在 15 分钟内创建了一个我在 2 小时内无法完成的功能。 （他比我有更多年的经验）。 所以现在我的直播和社区中有两个阵营（有些人问我为什么要切换到 Nextjs），我决定尝试一下 NextJS，但我我还在犹豫是否要彻底切换。我不想忙于挑选框架，而是想构建很棒的东西。 你对此有何看法？   由   提交 /u/padmedds   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpby6l/should_i_stick_with_laravel_or_switch_to_nextjs/</guid>
-      <pubDate>Sat, 11 May 2024 07:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望对我的理解进行一些澄清。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpb41c/would_like_some_clarification_on_my_understanding/</link>
-      <description><![CDATA[我目前正在学习node.js、express.js 和 postgres。我已经了解 MySQL、Python、Django、DRF 和 Djoser（尽管我发现我更喜欢使用 Node）。据我了解，我可能可以申请后端开发人员/工程师、node.js 开发人员或 API 开发人员。我知道每个角色都有自己的职责，并且只是想确保我正确理解我可以根据我现有的知识以及我目前正在学习的知识申请的可能职位/角色。任何建议或帮助将非常感激。   由   提交/u/half_dead_pancreas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpb41c/would_like_some_clarification_on_my_understanding/</guid>
-      <pubDate>Sat, 11 May 2024 06:37:59 GMT</pubDate>
+      <title>[周六炫耀] 15,000 美元直播赏金 | TSperf.algora.io</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cph4hg/showoff_saturday_15000_livestream_bounty/</link>
+      <description><![CDATA[   /u/mgcrimhead  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cph4hg/showoff_saturday_15000_livestream_bounty/</guid>
+      <pubDate>Sat, 11 May 2024 13:07:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
