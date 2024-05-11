@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 May 2024 21:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 00:54:57 GMT</lastBuildDate>
+    <item>
+      <title>如何创建像mapgenie.io这样的地图图块</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp51qr/how_to_create_a_map_tile_like_mapgenieio/</link>
+      <description><![CDATA[我需要创建一个具有几个兴趣点（标记）的位置的超级本地化和有界地图。就像商场地图一样。 在底层 mapgenie 正在使用 Mapbox GL JS 创建地图。我之前创建过许多 Mapbox 地图，但没有使用虚构的世界图块。 我从哪里开始创建图块？ 谢谢 &lt;!-- SC_ON - -&gt;  由   提交/u/skully78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp51qr/how_to_create_a_map_tile_like_mapgenieio/</guid>
+      <pubDate>Sat, 11 May 2024 00:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么fail2ban会出现这种意想不到的行为？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp3ttb/why_this_unexpected_behaviour_from_fail2ban/</link>
+      <description><![CDATA[我会保持简短。 UFW 的 Fail2ban 的表现并不像我预期的那样。我有一个规则集，如果 IP 地址访问记录到 nginx 日志中的蜜罐 URL，则禁止 IP 地址。一旦 IP 被禁止（并显示在 UFW 拒绝列表中），在被禁止的同一 url 上刷新浏览器的请求仍会记录在 nginx 日志中，并且用户仍然能够查看被禁止的页面。如果他们关闭浏览器，重新打开并重试，禁令就会生效，并且“无法连接到服务器”将被取消。显示消息。  也许这是我的误解，但是防火墙规则不应该在 NGINX 应用程序之前在网络级别运行吗？ NGINX 如何记录来自不允许与服务器建立连接的 IP 的请求？浏览器现在是否会与服务器建立某种持久连接，该连接在浏览器关闭之前不会关闭？我以为 HTTP 连接是瞬时的、按需的？我认为它只是在浏览器中缓存，但缓存不会记录在服务器上的 NGINX 中。  你认为我在这里缺少什么？    由   提交 /u/99thLuftballon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp3ttb/why_this_unexpected_behaviour_from_fail2ban/</guid>
+      <pubDate>Fri, 10 May 2024 23:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将 WebGi 与 Next Js 结合使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp25gx/how_to_use_webgi_with_next_js/</link>
+      <description><![CDATA[有没有办法将 WebGi 与 Next Js 一起使用？ 此基本模板显示了如何配置的示例： index.ts 从“react”导入{ useEffect }；从“webgi”导入{ ViewerApp、addBasePlugins、TweakpaneUiPlugin、AssetManagerBasicPopupPlugin、FileTransferPlugin、IViewerPlugin、CanvasSnipperPlugin }； async function setupViewer(){ constviewer = new ViewerApp({ canvas: document.getElementById(&#39;webgi-canvas&#39;) as HTMLCanvasElement, }) 等待 addBasePlugins(viewer) 等待viewer.addPlugin(AssetManagerBasicPopupPlugin) 等待viewer.addPlugin(FileTransferPlugin) 等待查看器.addPlugin(CanvasSnipperPlugin) 等待查看器.load(&quot;./assets/classic-watch.glb&quot;) 等待查看器.setEnvironmentMap(&quot;./assets/environment.hdr&quot;); const uiPlugin =等待viewer.addPlugin(TweakpaneUiPlugin) uiPlugin.setupPlugins(TonemapPlugin, CanvasSnipperPlugin) } setupViewer()  index.html &lt; ;!DOCTYPE html&gt;  &lt;头&gt; WebGi 入门 &lt;元字符集=“UTF-8” &gt;&gt; &lt;元名称=“视口”内容＝“宽度＝设备宽度，用户可缩放＝否，最小比例＝1.0，最大比例＝1.0”&gt; &lt;/头&gt; &lt;正文&gt; &lt;div id=&quot;webgi-canvas-container&quot;&gt; &lt;canvas id=“webgi-canvas”&gt;&lt;/canvas&gt;  &lt;脚本 src=“src/index.ts” type=&quot;模块&quot;&gt;&lt;/script&gt; &lt;/正文&gt; &lt;/html&gt;  我尝试适应index.tsx： import { useEffect } from “react”;从“webgi”导入{ ViewerApp、addBasePlugins、TweakpaneUiPlugin、AssetManagerBasicPopupPlugin、FileTransferPlugin、IViewerPlugin、CanvasSnipperPlugin }；导出默认函数 Home() { useEffect(() =&gt; { async function setupViewer() { constviewer = new ViewerApp({ canvas: document.getElementById(&#39;webgi-canvas&#39;) as HTMLCanvasElement, }); wait addBasePlugins(viewer ); 等待viewer.addPlugin(AssetManagerBasicPopupPlugin); 等待viewer.addPlugin(CanvasSnipperPlugin); 等待viewer.load(&quot;./assets/classic-watch.glb&quot;); .addPlugin(TweakpaneUiPlugin); uiPlugin.setupPlugins(CanvasSnipperPlugin); } setupViewer(); return (      ) ; }  “ViewerApp”类型的参数不可分配给“IViewerApp”类型的参数。 然后依赖于此查看器的所有其他查看器也会出现类型错误 （我在 package.json 中添加了依赖项） “devDependencies”：{“@types/节点”：“^20”、“@types/react”：“^18”、“@types/react-dom”：“^18”、“postcss”：“^8”、 “tailwindcss”：“^3.4.1”、“eslint”：“^8”、“eslint-config-next”：“14.2.3”、“typescript”：“^5.1”。 3”、“@types/webgi”：“https://storage.googleapis.com/dist.pixotronics.com/webgi/runtime/bundle-types-0.9.0.tgz”、“webgi”：“ ;https://storage.googleapis.com/dist.pixotronics.com/webgi/runtime/bundle-0.9.0.tgz” }  ​   由   提交 /u/my-name-is-Tracy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp25gx/how_to_use_webgi_with_next_js/</guid>
+      <pubDate>Fri, 10 May 2024 22:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><Div> ids 距离不一致</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp1j4c/div_ids_not_a_consistent_distances/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp1j4c/div_ids_not_a_consistent_distances/</guid>
+      <pubDate>Fri, 10 May 2024 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何按宽度正确排序徽章？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp1ig8/how_to_correctly_sort_badges_by_width/</link>
+      <description><![CDATA[      您好，我喜欢使用徽章来表示类别、标签或主题，有时我遇到这个问题（请参阅健康徽章），其中有一个空白区域。 我不知道正确的方法是否是创建一个函数来检索每个徽章的宽度，然后执行某种操作基于容器宽度的优化。 我应该优化剩余宽度吗？例如，如果容器为 400 像素，我是否应该每行至少设置 300 像素？ https://preview.redd.it/hw7840ud5ozc1.png?width=222&amp;format=png&amp;auto=webp&amp;s=e15f2c6013f5a743de60fc9a 90c76cff31d19ceb &lt; /div&gt;  由   提交/u/Human372  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp1ig8/how_to_correctly_sort_badges_by_width/</guid>
+      <pubDate>Fri, 10 May 2024 22:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Api 忍者窃取数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp1hfj/api_ninjas_stealing_data/</link>
+      <description><![CDATA[不要为 api ninjas 服务付费。我们正在考虑为他们的“animals api”付费，但注意到所有数据都直接来自 A-Z 动物网站。从字面上看，他们只是从网站上删除了数据。 A-Z 动物也有相当严格的使用条款和条件，因此这可能对我们不利。 据我所知，API 忍者可以合法地访问这些数据，但我对此表示怀疑。&lt; /p&gt;   由   提交 /u/tojzl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp1hfj/api_ninjas_stealing_data/</guid>
+      <pubDate>Fri, 10 May 2024 22:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们能帮我做这个调查吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp1d4k/can_you_guys_help_me_out_with_this_survey/</link>
+      <description><![CDATA[我正在学习如何成为一名用户体验设计师，现在，我正在尝试为我当前的案例研究获取一些调查数据。我不知道发布这些东西的合适位置在哪里，所以请保持温柔。这是一个关于您使用操作系统的体验的简短调查。乐趣！ https://forms.gle/itnUGiKYcqBUgYa96   由   提交 /u/ilexcent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp1d4k/can_you_guys_help_me_out_with_this_survey/</guid>
+      <pubDate>Fri, 10 May 2024 21:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>朋友被解雇了。萌生了这个念头。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp15yn/friend_got_laid_off_give_birth_to_this_idea/</link>
+      <description><![CDATA[我一直在致力于这个名为：ApplyGoat：您的个人的想法职位申请助理。 为什么？人力资源部门100%使用ATS/AI/自动化方法筛选候选人简历和申请。 解决方案： ApplyGoat 将自动根据职位描述帮助定制您的简历，并代表您一键申请该职位，无需填写冗长的表格和求职信。 ApplyGoat 是反 ATS 的 ATS [ 申请人 申请跟踪系统 ]，可确保您在竞争中脱颖而出人群。 请讨论这个想法，设计，一切。 我需要知道我没有在“Tarpit 想法”上度过五月。 &lt; p&gt;提前致谢。   由   提交/u/pystar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp15yn/friend_got_laid_off_give_birth_to_this_idea/</guid>
+      <pubDate>Fri, 10 May 2024 21:47:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我们需要模板引擎？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cp0hm3/why_do_we_need_template_engine_exactly/</link>
+      <description><![CDATA[最近了解了Thymeleaf、Templ、Pug、JTE、Mustache、Pebble等模板引擎，它们可以在前端和后端使用. 如果网站可以在编写 html 元素和 css 的编辑器中进行编码，为什么我们需要称为模板引擎的东西？  它到底是做什么的？为什么我们需要它的正面和背面？我刚刚看到一个教程，其中代码被插入到模板引擎中，例如 templatehello.pug，并且由于 html 和 css 代码正在各自的文件中更新。为什么我们需要这样做？为什么不直接在html和css文件中编写代码呢？   由   提交 /u/kukuroza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cp0hm3/why_do_we_need_template_engine_exactly/</guid>
+      <pubDate>Fri, 10 May 2024 21:18:53 GMT</pubDate>
+    </item>
     <item>
       <title>学习 HTTP 的好资源</title>
       <link>https://www.reddit.com/r/webdev/comments/1cozucm/good_resources_for_learning_http/</link>
@@ -15,7 +78,7 @@
     <item>
       <title>我很想知道您对我制作的游戏平台的想法</title>
       <link>https://www.reddit.com/r/webdev/comments/1cozitt/i_would_love_to_know_your_thoughts_on_a_gaming/</link>
-      <description><![CDATA[      大家好！几个月前我开始编程，慢慢地建立了一个小项目，直到现在。 这是链接：https://playpocketpuzzles.com 我目前正在使用电容器转换为应用程序。前端由 React 制作，后端使用 supabase。我原本打算学习节点，但 supabase 运行良好，所以我决定专注于其他事情。 很想听听你的想法！    提交人    /u/RLeeSWriter   [link] [评论] ]]></description>
+      <description><![CDATA[      大家好！几个月前我开始编程，慢慢地建立了一个小项目到现在的样子。 这是链接：https://playpocketpuzzles .com 我目前正在努力转换为使用电容器的应用程序。前端使用 React 制作，后端使用 supabase。我本来计划学习 Node，但 SUPABASE 运行得很好，所以我决定专注于其他事情。  很想听听您的想法！   由   提交 /u/RLeeSWriter   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cozitt/i_would_love_to_know_your_thoughts_on_a_gaming/</guid>
       <pubDate>Fri, 10 May 2024 20:38:07 GMT</pubDate>
     </item>
@@ -27,7 +90,7 @@
       <pubDate>Fri, 10 May 2024 20:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>关于域名托管服务的建议</title>
+      <title>域名托管服务建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1coyzwj/recommendations_on_domain_hosting_services/</link>
       <description><![CDATA[有人可以推荐一个非 Google/ Squarespace 的域名托管服务供我们迁移吗？  我们需要直接的 HTML 和 CSS 代码注入，以及未来 Java 和 Python 集成的能力。  我们对 Google 向 Squarespace 所有权的转变感到非常沮丧，这阻碍了直接使用 HTML 和 CSS 进行开发的能力，并被迫采用它们的模板格式。  对此问题的任何和所有答案将不胜感激。   由   提交/u/Ok_Education_6577   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1coyzwj/recommendations_on_domain_hosting_services/</guid>
@@ -36,79 +99,16 @@
     <item>
       <title>您在构建 API 集成方面有什么经验？</title>
       <link>https://www.reddit.com/r/webdev/comments/1coyvdr/what_is_your_experience_with_building_api/</link>
-      <description><![CDATA[我正在为开发人员构建一个工具，让他们可以轻松地将后端与 API 集成，而无需深入研究 API 文档。如果您能填写此表格，让我更多地了解您的 API 开发流程，这对我来说意义非凡。 http://forms.gle/8BwXTbAa2ZQavrRPA 感谢您抽出时间！   由   提交/u/wonderfuledeneden   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为开发人员构建一个工具，让他们可以轻松地将后端与 API 集成，而无需深入研究 API 文档。如果您能填写此表格，让我更多地了解您的 API 开发流程，这对我来说意义重大。 http://forms.gle/8BwXTbAa2ZQavrRPA 感谢您抽出时间！   由   提交/u/wonderfuledeneden   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1coyvdr/what_is_your_experience_with_building_api/</guid>
       <pubDate>Fri, 10 May 2024 20:10:07 GMT</pubDate>
     </item>
     <item>
-      <title>我如何检查验证码是否已被解决？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coyrj0/how_can_i_check_whether_captcha_was_solved_or_not/</link>
-      <description><![CDATA[我曾经通过检查 grecaptcha.enterprise.getResponse().length 的值来做到这一点；当未解决时它等于 0，否则当解决时它等于 0。现在它是一个常量 0。你们是怎么做到的？   由   提交/u/_iamhamza_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coyrj0/how_can_i_check_whether_captcha_was_solved_or_not/</guid>
-      <pubDate>Fri, 10 May 2024 20:05:28 GMT</pubDate>
-    </item>
-    <item>
       <title>您将如何构建 CRM 以实现规模化？</title>
       <link>https://www.reddit.com/r/webdev/comments/1coym77/how_would_you_structure_a_crm_for_scale/</link>
-      <description><![CDATA[我很好奇您将如何构建电子邮件营销/CRM 服务的架构以实现规模化。假设您有 5,000 名客户。有些客户的联系人数量为 5,000 或更少，有些客户的联系人数量超过 100,000，有些客户的联系人数量达到数百万。 您是否将他们的所有数据存储在一个大型数据库中？多个数据库？如果有多个数据库，是否有特定的方式在这些数据库之间分割数据？  如果有多个数据库，您如何确保应用程序中的搜索能够极快地返回客户在客户记录中查找的任何数据点？ 当涉及到电子邮件发送时，如何你在处理吗？假设您有 100 位客户同时发送包含 10MM 电子邮件的群发电子邮件。您使用什么队列服务？跟踪所有数据的分析怎么样？您是否将这些数据存储在单独的盒子上？ 复制怎么样？在所有盒子上进行设置？ 很想知道人们如何处理这样的设置，这种设置将保持极快的速度，所有数据都可以从 UI 中快速搜索，应用程序始终稳定并且不会在以下情况下变慢繁重的写入操作，如果出现停机，则可能整个应用程序并未离线，而是仅包含一些客户数据的几个数据库。 我实际上只是扩展了 1 个非常庞大的数据库，（ 3TB+），并且很好奇这是否是最好/最简单的方法，或者是否出于某种原因我应该使用 10 个较小的数据库。    由   提交/u/usedigest  [链接] [评论]]]></description>
+      <description><![CDATA[我很好奇您将如何构建电子邮件营销/CRM 服务的架构以实现规模化。假设您有 5,000 名客户。有些客户的联系人数量为 5,000 或更少，有些客户的联系人数量超过 100,000，有些客户的联系人数量达到数百万。 您是否将他们的所有数据存储在一个大型数据库中？多个数据库？如果有多个数据库，是否有特定的方式在这些数据库之间分割数据？  如果有多个数据库，您如何确保应用程序中的搜索能够极快地返回客户在客户记录中查找的任何数据点？ 在发送电子邮件时，如何你在处理吗？假设您有 100 位客户同时发送包含 10MM 电子邮件的群发电子邮件。您使用什么队列服务？跟踪所有数据的分析怎么样？您是否将这些数据存储在单独的盒子上？ 复制怎么样？在所有盒子上进行设置？ 很想知道人们如何处理这样的设置，这种设置将保持极快的速度，所有数据都可以从 UI 中快速搜索，应用程序始终稳定并且不会在以下情况下减慢速度繁重的写入操作，如果出现停机，则可能整个应用程序并未离线，而只是几个仅包含一些客户数据的数据库。 我实际上只是扩展了 1 个非常庞大的数据库，（ 3TB+），并且很好奇这是否是最好/最简单的方法，或者是否出于某种原因我应该使用 10 个较小的数据库。    由   提交/u/usedigest  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1coym77/how_would_you_structure_a_crm_for_scale/</guid>
       <pubDate>Fri, 10 May 2024 19:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试在满足条件时将我的网站背景更改为 .mp4。我该怎么做？ （下面的代码链接在pastebin中，希望不违反规则）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coyie5/trying_to_make_the_background_of_my_website/</link>
-      <description><![CDATA[       由   提交/u/enderbrah12   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coyie5/trying_to_make_the_background_of_my_website/</guid>
-      <pubDate>Fri, 10 May 2024 19:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>一次性购买和订阅可通过 ONE 结账方式进行，并提供快速付款选项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coya7o/onetime_purchase_subscription_in_one_checkout/</link>
-      <description><![CDATA[我的团队目前正在重做商店和结账环境。一项要求是允许客户以同一订单结账一次性购买商品和订阅商品，并允许客户为每一桶商品指定单独的送货地址、付款方式和送货速度（一次性商品和订阅商品分开）。 还要求允许订单使用快速支付选项（Apple Pay、Google Pay、Amazon Pay、PayPal、Venmo、微信支付） 、ScalaPay）...开发人员遇到的问题是订阅项目和某些付款方式不允许进行定期订阅。 我们能否实现一个解决方案来允许单页结帐体验并用户是否要同时支付这两项费用？或者他们需要先支付一次性项目的费用，然后再单独支付订阅项目的费用？这可能是我们唯一的解决方案，但我们认为连续两次结帐对于用户来说非常笨拙。 我试图在网上找到一些示例，但运气不佳。   由   提交 /u/PIX3LY   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coya7o/onetime_purchase_subscription_in_one_checkout/</guid>
-      <pubDate>Fri, 10 May 2024 19:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅 2024 年就有 8 万名工人被解雇，美国劳工部正在提议修改规则，允许公司雇用签证工人，而无需证明他们首先尝试雇用美国工人。周一是评论截止日期</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coxi5t/with_80000_worker_laid_off_in_2024_alone_the_us/</link>
-      <description><![CDATA[DOL 希望添加“STEM”职业符合附表 A，这将允许公司完全规避 PERM 求职要求。 此文章有很好的分析。 劳工部的rfi 有更多详细信息。 可以在此处提出公众意见。 他们特别希望评论与此相关，但让他们知道你的感受。顺便说一句，分析是废话。我没有时间揭穿它，但无论如何... 重新发布并分享给您能想到的任何 Reddit 子版块或工人倡导场所（大学科技俱乐部、工会、国会代表...）&lt; /p&gt;   由   提交/u/mand0dia0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coxi5t/with_80000_worker_laid_off_in_2024_alone_the_us/</guid>
-      <pubDate>Fri, 10 May 2024 19:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 对 1：人对用户技术解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cox16c/1_to_1_human_to_user_tech_solution/</link>
-      <description><![CDATA[我一直认为区块链技术是经过身份验证的 1 对 1 人与用户参与/互动的解决方案。例如，一个人只能参与平台上的给定交互一次。换句话说，一个人不能创建多个用户配置文件来与平台互动。 这在某种程度上是机器人困境，但也可以防止真实但重复的用户配置文件给一个人。 现在，我听说区块链并不是解决这个问题的真正方法。有人知道这是真的吗？或者有人在这方面有任何有用的资源吗？    提交人    /u/Fuzzy-3mu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cox16c/1_to_1_human_to_user_tech_solution/</guid>
-      <pubDate>Fri, 10 May 2024 18:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>B2B 的后端如何设置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cowzee/how_is_the_backend_for_b2b_setup/</link>
-      <description><![CDATA[我对此还很陌生，所以如果我下面所做的假设不正确，我深表歉意。 据我了解，您典型的 B2C SaaS 的设置方式是将所有内容都路由到托管所有客户信息的服务器。  但是，对于 B2B，您不能这样做，因为理想情况下，每个客户都应该拥有自己的数据库和服务器，以确保安全和隐私。这是否意味着为每个客户托管一个单独的实例或服务器？我认为假设我们拥有相同数量的用户，这将比 B2C 成本更高？   由   提交/u/Designer_Balance_914   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cowzee/how_is_the_backend_for_b2b_setup/</guid>
-      <pubDate>Fri, 10 May 2024 18:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的视频不允许搜索？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cow3io/why_wont_my_videos_allow_seeking/</link>
-      <description><![CDATA[我正在使用 laravel sail 制作一个播客应用程序。当我加载视频时，它可以播放，但是当我尝试跳到视频的另一部分时，没有任何反应。 有人知道这可能是什么吗？非常感谢任何帮助👌   由   提交 /u/RyanArmstrong777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cow3io/why_wont_my_videos_allow_seeking/</guid>
-      <pubDate>Fri, 10 May 2024 18:12:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>财务顾问网站设计：您对此有何看法？谢谢。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1covflk/website_design_for_financial_advisor_what_do_you/</link>
-      <description><![CDATA[      https://preview.redd.it/43gcvrxpymzc1.jpg?width=4320&amp;format=pjpg&amp;auto=webp&amp;s=9002cd387ee ce5cb71be75f16d1b49c908530c0f 展示我的设计作品，但我也开发网站。   由   提交/u/Sweet_Ad6090   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1covflk/website_design_for_financial_advisor_what_do_you/</guid>
-      <pubDate>Fri, 10 May 2024 17:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试从 GitHub 存储库获取文件时发生 CORS 错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1couz0x/cors_error_when_trying_to_get_a_file_from_a/</link>
-      <description><![CDATA[（我希望这尊重帮助问题的规则，我不太确定在哪里发布） 所以我&#39;我正在开发一个从 GitHub 存储库加载文件的 Web 应用程序。它首先获取存储库上文件夹的内容，然后对于该文件夹中的每个文件，获取该文件的内容。 我已经能够通过以下请求获取该文件夹的内容：  GET “https://api.gitub.com/repos/USER/REPO/contents/PATH”接受：application/vdn.github.v3+json 授权：Bearer GITHUB_PAT X-GitHub-Api-Version：2022-11-28  这给了我预期的结果：一个 json 数组目录中每个文件的对象，类似于： { &quot;name&quot;: &quot;&quot;, &quot;path&quot;: &quot;&quot;&quot;, &quot;sha&quot;: &quot; xxx”，“大小”：1234，“url”：“https://api.github.com/repos/USER/REPO/contents/PATH”，“html_url”：“https://github .com/USER/REPO/blob/content/PATH”，“git_url”：“https://api.github.com/repos/USER/REPO/git/blobs/xxx”，“download_url”：“ ;https://raw.githubusercontent.comUSER/REPO/content/PATH?token=xxx”, “类型”: “文件”, “_links”: { “self”: “https://api .github.com/repos/USER/REPO/contents/PATH”，“git”：“https://api.github.com/repos/USER/REPO/git/blobs/xxx”，“html” ：“https://github.com/USER/REPO/blob/content/PATH” } }  现在，我尝试使用下载网址来获取文件内容。使用curl，我可以做到这一点，只需使用与上面相同的标头获取下载网址即可。但是，当我在应用程序中执行此操作时，出现以下 CORS 错误： Access to fetch at &#39;https://raw.githubusercontent.com/USER/REPO/content/PATH?来自源“http://localhost:8080”的 token=xxx&#39; 已被 CORS 策略阻止：对预检请求的响应未通过访问控制检查：它没有 HTTP 正常状态。  我尝试在网上查找，一些网站建议添加标头 Access-Control-Allow-Origin: * ，但这不起作用，而其他网站似乎也就是说，应答服务器应该具有该标头，但我在 GitHub API 文档中没有找到有关允许来源的任何内容。他们确实提到了一些有关 CORS 的内容（https://docs.github.com/en/rest/using-the-rest-api/using-cors-and-jsonp-to-make-cross-origin- requests?apiVersion=2022-11-28），但它也不起作用。 我应该如何解决这个问题？谢谢！   由   提交 /u/SpacewaIker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1couz0x/cors_error_when_trying_to_get_a_file_from_a/</guid>
-      <pubDate>Fri, 10 May 2024 17:23:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

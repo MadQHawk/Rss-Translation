@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ChatGPT | 帖子 IndieHackers</title>
+    <title>聊天GPT |帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 10 May 2024 21:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 00:55:48 GMT</lastBuildDate>
     <item>
       <title>5 个必须使用 OpenAI API 密钥尝试的 ChatGPT 应用程序</title>
       <link>https://feed.indiehackers.world/post/bc1edc26ba</link>
@@ -32,9 +32,9 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/31cbbc92ae</link>
       <description><![CDATA[优化结果的提示和最佳实践。
 💡本教程适合谁？
-本教程面向渴望将 AI 交互提升到新水平的开发人员、数据科学家和 AI 爱好者。建议具备人工智能概念和编程的基础知识。
+本教程适合渴望将 AI 交互提升到新水平的开发人员、数据科学家和 AI 爱好者。建议具备人工智能概念和编程的基础知识。
 🌟 为什么选择浪链的OpenAI API？
-LangChain 提供无缝集成，让您可以使用自己的数据增强 ChatGPT 的功能，从而开启了定制的可能性世界。
+LangChain 提供无缝集成，允许您使用自己的数据增强 ChatGPT 的功能，从而开启定制的可能性世界。
 https://youtu.be/ROsb_73EpzE
 #ChatGPT #AI #LangChain #OpenAIAPI #Tutorial #Customization #Innovation #AIEnthusiasts
 Discord 独立黑客聊天广告这里]]></description>
@@ -42,7 +42,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Tue, 24 Oct 2023 15:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>5000 Chatgpt 免费提示</title>
+      <title>5000 个 Chatgpt 免费提示</title>
       <link>https://feed.indiehackers.world/post/df7976a9b4</link>
       <description><![CDATA[大家好，我已经为 chatgpt 创建了 5000 个提示 https://localy.ai/prompts/
 请查看我的工具并免费支持注册以创建图像和内容https://localy.ai/
@@ -107,47 +107,47 @@ Discord 独立黑客聊天广告这里]]></description>
 您如何迭代提示？
 如何验证一种提示是否优于另一种提示？
 您知道提示符在各种输入上的表现如何吗？
-您使用微调吗？您如何管理训练数据？
+你使用微调吗？您如何管理训练数据？
 您如何评价您的模型在客户中的表现？
 
-您的见解对于我和社区中的其他人来说非常宝贵🙏
+您的见解对我和社区中的其他人来说非常宝贵🙏
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a561eb159e</guid>
       <pubDate>Tue, 22 Aug 2023 07:40:12 GMT</pubDate>
     </item>
     <item>
-      <title>用于数据分析的 OpenAI</title>
+      <title>OpenAI 数据分析</title>
       <link>https://feed.indiehackers.world/post/ccce370406</link>
-      <description><![CDATA[免责声明 - 我不是开发人员 :-)
-我的情况是，我正在研究如何在 Bubble.io 支持的 MVP 中使用 AI 来：
+      <description><![CDATA[免责声明 - 我不是开发人员:-)
+我遇到的情况是，我正在研究如何在 Bubble.io 支持的 MVP 中使用 AI 来：
 
 从我的数据库创建自定义模型
-使用此模型提供建议，即这些帐户面临流失风险，这是帐户追加销售等的空白
+使用此模型提供建议，即这些帐户有流失的风险，这是帐户追加销售的空白等
 
-在进一步讨论之前，我希望验证这是否可行，如果可行，则这是一个合理的解决方案。如果是这样，您对经过尝试和测试的方法有什么建议吗（我能够在 OpenAI 中使用微调等）。
-Discord Indiehackers Chat广告这里]]></description>
+在进一步讨论之前，我希望验证这是否可行，如果可行的话，这是一个明智的解决方案。如果是这样，您对经过尝试和测试的方法有什么建议吗（我可以在 OpenAI 中使用微调等）。
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ccce370406</guid>
       <pubDate>Sun, 06 Aug 2023 19:43:06 GMT</pubDate>
     </item>
     <item>
       <title>十大 ChatGPT 替代品</title>
       <link>https://feed.indiehackers.world/post/aadbd06e52</link>
-      <description><![CDATA[各种 ChatGPT 替代方案都具有独特的功能，包括类似人类的响应、准确且最新的答案、自定义、搜索引擎集成、内容生成等。
-根据具体用例，个人或企业可能会优先考虑符合其目标的某些功能。ChatGPT 的替代方案可能因成本、功能、准确性、隐私和可用性而异。查看提供高级功能并克服所有限制的十大替代方案。
+      <description><![CDATA[各种 ChatGPT 替代方案都具有独特的功能，包括类人响应、准确且最新的答案、定制、搜索引擎集成、内容生成等等。
+根据特定的用例，个人或企业可能会优先考虑与其目标相符的某些功能。 ChatGPT 的替代方案可能会有所不同，具体取决于成本、功能、准确性、隐私和可用性。查看提供高级功能并克服所有限制的十大替代方案。
 
-Bard
-Perplexity.AI
-Bing Chat
-Jasper Chat
-Claude
+吟游诗人
+困惑.AI
+必应聊天
+贾斯珀聊天
+克劳德
 Chatsonic
 Neeva.AI
 YouChat
-Character.AI
-Elicit
+角色.AI
+引出
 
 在此处查看更多列表：ChatGPT 替代方案
-Discord Indiehackers Chat广告 这里]]></description>
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/aadbd06e52</guid>
       <pubDate>Wed, 02 Aug 2023 13:26:38 GMT</pubDate>
     </item>
@@ -161,10 +161,10 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Sun, 16 Jul 2023 19:28:59 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用文本转视频工具吗？</title>
+      <title>有人用过文字转视频工具吗？</title>
       <link>https://feed.indiehackers.world/post/46e7884fc6</link>
-      <description><![CDATA[目前有一些文本转视频工具。我经常看到的一种叫做 d-id。有人在使用它们吗？我正在构建一些类似的工具，并希望了解人们对当前解决方案的不满之处，以便我可以对其进行改进。
-Discord Indiehackers Chat广告此处]]></description>
+      <description><![CDATA[现在有一些文本到视频的工具。我经常看到的一种称为 d-id。有人使用它们吗？我正在构建类似的东西，并希望了解人们不喜欢当前解决方案的哪些方面，以便我可以对其进行改进。
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/46e7884fc6</guid>
       <pubDate>Sun, 09 Jul 2023 20:11:38 GMT</pubDate>
     </item>
