@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 11 May 2024 18:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 21:12:46 GMT</lastBuildDate>
+    <item>
+      <title>寻找具有嵌套文件夹或标签的Mac联系人应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1cppuhl/looking_for_a_mac_contacts_app_that_has_nested/</link>
+      <description><![CDATA[这个存在吗？如果没有，我需要发明它。 我的问题是我已经是 Mac 用户很长时间了（实际上我在 1984 年就拥有了第一台 Apple 电脑！）并且一直将我的联系人放在一个应用程序中自 90 年代末以来一直存在某种形式。因此，我在人生的许多阶段、生活过的许多地方都有过接触，我不想扔掉它们，但我想以某种方式将它们存档。嵌套文件夹似乎是阻止这个怪物的一种方法。我一直在搜索，但找不到任何可以满足我的需求的程序。有任何线索吗？   由   提交/u/PurrPurrrrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cppuhl/looking_for_a_mac_contacts_app_that_has_nested/</guid>
+      <pubDate>Sat, 11 May 2024 20:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>编辑图像时处理文本的最佳工具是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1cppbs5/what_is_the_best_tool_to_manipulate_text_when/</link>
+      <description><![CDATA[据说 Photoshop 在图像编辑方面领先于其他软件。但是这个特殊的任务：创建漂亮的清晰文本，并对其进行多次转换（如拱形）并概述它......等等。 Photoshop 仍然盛行吗？我只尝试过 GIMP，但我认为一定有更好的自由软件替代品，或者至少有一个在线特定工具，可以胜任此特定任务：向图像添加自定义文本。   由   提交/u/zaknenou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cppbs5/what_is_the_best_tool_to_manipulate_text_when/</guid>
+      <pubDate>Sat, 11 May 2024 19:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个程序来覆盖我自己屏幕的一部分</title>
+      <link>https://www.reddit.com/r/software/comments/1cpo5ek/looking_for_a_program_to_overlay_a_part_of_my_own/</link>
+      <description><![CDATA[这听起来像是技能问题，但我需要它在屏幕中间覆盖游戏中的小地图并设置不透明度，这样我就不会丢失集中战斗或其他东西   由   提交 /u/Gfurr2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cpo5ek/looking_for_a_program_to_overlay_a_part_of_my_own/</guid>
+      <pubDate>Sat, 11 May 2024 18:41:56 GMT</pubDate>
+    </item>
     <item>
       <title>视频加密器？</title>
       <link>https://www.reddit.com/r/software/comments/1cplr6q/a_video_encryptor/</link>
@@ -29,14 +50,14 @@
     <item>
       <title>Winmerge 导出全部而不是差异</title>
       <link>https://www.reddit.com/r/software/comments/1cpevz9/winmerge_exports_all_instead_of_differences/</link>
-      <description><![CDATA[嗨，我的电脑上有一个游戏的 modpack 文件夹，因此我可以直接将包含所有修改文件的文件夹复制到主游戏文件夹中，用我修改过的文件替换原版文件。事情是，在游戏的最新更新中，当我去修改游戏时，我剪切了文件夹而不是复制它，这意味着我丢失了所有内容。 说到重点，我发现我可以使用 winmerge 通过将游戏文件夹的修改版本与普通版本进行比较来查找所有修改的文件，因此我尝试导出差异。所以我这样做了，它说我将导出 138 个文件。所以我点击导出。然后它会导出所有 18,000 个文件，而不是我拥有的 138 个修改后的文件。  我该如何解决这个问题，我真的很依赖这个模组，因为它是一堆我离不开的生活质量东西。这是一个自定义模组，所以我没有将它上传到任何地方，我太愚蠢了，没有对其进行备份。   由   提交/u/Livid-Ad-2787   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我的电脑上有一个游戏的 modpack 文件夹，因此我可以直接将包含所有修改文件的文件夹复制到主游戏文件夹中，用我修改过的文件替换原版文件。事情是，在游戏的最新更新中，当我去修改游戏时，我剪切了文件夹而不是复制它，这意味着我丢失了所有内容。 说到重点，我发现我可以使用 winmerge 通过将游戏文件夹的修改版本与普通版本进行比较来查找所有修改的文件，因此我尝试导出差异。所以我这样做了，它说我将导出 138 个文件。所以我点击导出。然后它会导出所有 18,000 个文件，而不是我拥有的 138 个修改过的文件。  我该如何解决这个问题，我真的很依赖这个模组，因为它是一堆我离不开的生活质量东西。这是一个自定义模组，所以我没有将它上传到任何地方，我太愚蠢了，没有对其进行备份。   由   提交/u/Livid-Ad-2787   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cpevz9/winmerge_exports_all_instead_of_differences/</guid>
       <pubDate>Sat, 11 May 2024 10:59:01 GMT</pubDate>
     </item>
     <item>
       <title>如何从多张图像中裁剪文本（页面）？</title>
       <link>https://www.reddit.com/r/software/comments/1cpel35/how_to_crop_text_page_from_multiple_images/</link>
-      <description><![CDATA[我有很多图像（未扫描，用手机摄像头拍摄）。我想要的是有一个程序可以裁剪文档（页面）以及正确的文本曲率。 （通过纸张折叠和从角度拍摄图像创建）。 我的手机上有一个选项，可以从图像中裁剪文档，并纠正角度，使其看起来像是扫描过的。但我有几本书的图像，大部分都变成了 PDF，所以手动逐页进行操作是不可能的。 有这样的软件可以自动执行此操作吗？我希望我解释了 iv 遇到的问题。   由   提交 /u/breadedcondom2   [链接] [评论]]]></description>
+      <description><![CDATA[我有很多图像（未扫描，用手机摄像头拍摄）。我想要的是有一个程序可以裁剪文档（页面）以及正确的文本曲率。 （通过纸张折叠和从角度拍摄图像创建）。 我的手机上有一个选项，可以从图像中裁剪文档，并纠正角度，使其看起来像是扫描过的。但我有几本书的图像，大部分都变成了 PDF，所以手动逐页进行操作是不可能的。 是否有这样的软件可以自动执行此操作？我希望我解释了 iv 遇到的问题。   由   提交 /u/breadedcondom2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cpel35/how_to_crop_text_page_from_multiple_images/</guid>
       <pubDate>Sat, 11 May 2024 10:38:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨 :) 我正在寻找一款可以帮助我将图案调整为相同比例的软件。你看，我在 etsy 上买了一本带有图案的旧杂志，但事实证明它们是扫描件，所以所有东西都有自己的比例。我希望我能在布料上描出图案。所以我需要的是能够将这些扫描缩放到一个比例的软件（如果可能的话免费）。由于是缝纫，所以每一厘米都很重要。我会感谢任何建议:)    由   提交/u/mardarcy  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cp2s00/looking_for_software_to_scale_sewing_patters_to/</guid>
       <pubDate>Fri, 10 May 2024 22:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找自动删除cookie的浏览器扩展或脚本</title>
-      <link>https://www.reddit.com/r/software/comments/1cp1axf/looking_for_browser_extension_or_script_that_auto/</link>
-      <description><![CDATA[某些网站设有付费专区，并会在刷新一定数量的页面后阻止您。删除 cookie 会移除阻止。所以，我正在寻找每次刷新页面时自动删除 cookie 的东西。如果我可以将脚本或扩展程序键入特定网站，那就更好了。我使用 chrome 和 Firefox    由   提交 /u/Aniconomics   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cp1axf/looking_for_browser_extension_or_script_that_auto/</guid>
-      <pubDate>Fri, 10 May 2024 21:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pet Peeve：企业像使用 PDF 一样使用 DOCX 文档。</title>
-      <link>https://www.reddit.com/r/software/comments/1cp156m/pet_peeve_businesses_using_docx_documents_like/</link>
-      <description><![CDATA[我今天收到了一家大型国际法律支持公司需要签署的表格。他们将其作为 Word 文档发送。我笑了，心想如果是 PDF 格式可能会更好。我打开它，发现 DOCX 中包含的表格是一张图像。所以我什至无法单击字段​​来输入我的信息。 😆 所以我使用Word将其另存为PDF，然后在我的PDF查看器中添加文本框来填写表格，并粘贴我保存的签名。这家公司整天都要交换这样的文件，我很惊讶他们竟然没有问我的传真号码。   由   提交 /u/TableGamer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cp156m/pet_peeve_businesses_using_docx_documents_like/</guid>
-      <pubDate>Fri, 10 May 2024 21:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一个可以随时随地远程连接到桌面的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cp0dm7/looking_for_a_software_where_i_can_remote_connect/</link>
-      <description><![CDATA[正在寻找一个可以随时随地远程连接到桌面的软件。 我希望能够连接到我可以从任何地方从我的笔记本电脑上访问我的桌面，而无需任何人在我的桌面上等待执行建立连接的操作。 这可能吗？寻找免费的解决方案。 rustdesk 是否允许我在没有另一端任何人每次验证的情况下进行连接？   由   提交/u/Flame_100  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cp0dm7/looking_for_a_software_where_i_can_remote_connect/</guid>
-      <pubDate>Fri, 10 May 2024 21:14:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
