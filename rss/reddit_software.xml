@@ -4,11 +4,32 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 12 May 2024 18:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 21:12:50 GMT</lastBuildDate>
+    <item>
+      <title>MIDI 到乐谱，Android</title>
+      <link>https://www.reddit.com/r/software/comments/1cqg5or/midi_to_sheet_music_android/</link>
+      <description><![CDATA[我不知道是否有更具体的子项... 我是一名歌曲作者。我唯一的计算设备是我的 Android 10 手机。我在 BandLab 应用程序上编写 MIDI 音乐。我正在寻找一个可以从我的 MIDI 文件创建乐谱的应用程序。  我尝试了一些选择，但它们都不够。我会很乐意尝试您建议的每个应用程序，直到找到最好的应用程序。  谢谢！   由   提交 /u/razor6string   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cqg5or/midi_to_sheet_music_android/</guid>
+      <pubDate>Sun, 12 May 2024 19:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>将相册从 iPhone 传输到 Windows 笔记本电脑的最简单方法是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1cqesvn/whats_the_easiest_way_to_transfer_an_album_from/</link>
+      <description><![CDATA[出于某种原因，我的计算机在尝试执行此操作时让我非常痛苦。我已尝试过 Windows Link 应用程序，但似乎无法连接。 我已尝试将图片发送到我的 Google 云端硬盘，但它太大了。 我是吗？遗漏了什么？我还有一台 chromebook，这样会更容易吗？   由   提交/u/2stoned4_history   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cqesvn/whats_the_easiest_way_to_transfer_an_album_from/</guid>
+      <pubDate>Sun, 12 May 2024 18:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮忙验证码！！</title>
+      <link>https://www.reddit.com/r/software/comments/1cqei5t/help_with_captcha/</link>
+      <description><![CDATA[您好，有人知道如何解决中文验证码吗？我想在中文论坛注册，但我得到了中文验证码，我认为这是一个数学练习，如果您能帮助我，我将不胜感激🙏 https://preview.redd.it/735vw538h10d1.png?width=497&amp;format= PNG&amp;自动= webp&amp;s=6d0854f1a72366e03d68b54983afd33e3956905c   由   提交 /u/MateoWillbert   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cqei5t/help_with_captcha/</guid>
+      <pubDate>Sun, 12 May 2024 18:31:23 GMT</pubDate>
+    </item>
     <item>
       <title>发布 Chromium 程序文件的通道标记？</title>
       <link>https://www.reddit.com/r/software/comments/1cqdhqc/release_channel_marker_for_chromium_program_files/</link>
-      <description><![CDATA[任何 Chromium 程序文件中是否有直接标记指示 Stable/Beta/Dev 发布通道？ 通过“直接标记”，我的意思是直接表明它是稳定、测试版、开发等频道的标记。可以是字符串，也可以是数字/代码。 版本号是一个间接标记，这不是我想要的。  &amp;# 32；由   提交/u/jcunews1  [链接] [评论]]]></description>
+      <description><![CDATA[任何 Chromium 程序文件中是否有直接标记指示 Stable/Beta/Dev 发布渠道？ 通过“直接标记”，我的意思是直接表明它是稳定、测试版、开发等频道的标记。可以是字符串，也可以是数字/代码。 版本号是一个间接标记，这不是我想要的。  &amp;# 32；由   提交/u/jcunews1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cqdhqc/release_channel_marker_for_chromium_program_files/</guid>
       <pubDate>Sun, 12 May 2024 17:47:24 GMT</pubDate>
     </item>
@@ -22,7 +43,7 @@
     <item>
       <title>谷歌是否隐藏了许多真正使他们成功的项目？</title>
       <link>https://www.reddit.com/r/software/comments/1cqcur4/is_google_hiding_a_lot_of_their_projects_that/</link>
-      <description><![CDATA[Google 创建了一些令人惊叹的开源项目。他们通常会让 90% 的人因谷歌缺乏维持公共项目的承诺而死去。他们还全力支持一些项目，并从中产生了很多令人惊奇的东西，比如 Kubernetes。  看起来他们的运作方式与国防部相同，他们有很多项目的资金都用于（与里面的朋友交谈），这只是一个代号，除了一个人之外没有人。很少有人知道该项目的内容以及谁在实际使用什么数据来处理该项目。  所以我的问题是，谷歌是否坐拥如此多强大的产品，使他们在某种程度上成为搜索引擎、广告商、电子邮件、Android 和其他一些领域的主导者。当你深入研究时，Gmail 来自深夜醉酒的开发人员，他们当前的大部分工具都是由他们购买的公司（Android）提供的。甚至 Waymo 基本上也是来自 Uber，但有很多奇怪的变化。他们还购买了 DeepMind，这将成为他们新的人工智能冒险的基础知识。  总而言之，谷歌是建立在如此令人惊叹的科技公司基础上的，该公司拥有如此多先进的内部技术软件用于其基础设施，还是因为他们在从其他人那里获取技术方面做得很好，这些技术使他们不断成长（ YouTube、Android、DoubleClick、Waze、Fitbit、Looker、Admonb 等等）……他们只是 IBM/SAP/Oracle 的消费者版本，只是通过购买方式获得相关性，还是实际上推动他们的工程师在新想法和优化方面做出了惊人的工作？    由   提交/u/No-Fig-8614   [链接] [评论]]]></description>
+      <description><![CDATA[Google 创建了一些令人惊叹的开源项目。他们通常会让 90% 的人因谷歌缺乏维持公共项目的承诺而死去。他们还全力支持一些项目，并从中产生了很多令人惊奇的东西，比如 Kubernetes。  看起来他们的运作方式与国防部相同，他们有很多项目的资金都用于（与里面的朋友交谈），这只是一个代号，除了一个人之外没有人。很少有人知道该项目的内容以及谁在实际使用什么数据来处理该项目。  所以我的问题是，谷歌是否坐拥如此多强大的产品，使他们在某种程度上成为搜索引擎、广告商、电子邮件、Android 和其他一些领域的主导者。当你深入研究时，Gmail 来自深夜醉酒的开发人员，他们当前的大部分工具都是由他们购买的公司（Android）提供的。甚至 Waymo 基本上也是来自 Uber，但有很多奇怪的变化。他们还购买了 DeepMind，这将成为他们新的人工智能冒险的基础知识。  总而言之，谷歌是建立在如此令人惊叹的科技公司基础上的，该公司拥有如此多先进的内部技术软件用于其基础设施，还是因为他们在从其他人那里获取技术方面做得很好，这些技术使他们不断成长（ YouTube、Android、DoubleClick、Waze、Fitbit、Looker、Admonb 等）.....他们只是 IBM/SAP/Oracle 的消费者版本，只是通过购买方式来获得相关性，还是实际上推动他们的工程师在新想法和优化方面做出了惊人的工作？    由   提交/u/No-Fig-8614   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cqcur4/is_google_hiding_a_lot_of_their_projects_that/</guid>
       <pubDate>Sun, 12 May 2024 17:18:43 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Sun, 12 May 2024 03:17:22 GMT</pubDate>
     </item>
     <item>
-      <title>创建/编辑单元格中包含长文本的表格的最佳工具是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1cpw05s/what_is_the_best_tool_for_creating_editing_tables/</link>
-      <description><![CDATA[大家好，我正在寻找一个最好在 Ubuntu 上的应用程序，它可以执行以下所有操作。 - 创建/编辑/可视化任意数量的行/列的表格 - 显示包含大量文本的单元格 - 无缝编辑中心的长文本（特别是通过单独按 Enter 键而不使用功能键来添加新行） - 不会减慢速度大量文本 - 不限于任何标准页面大小 - 允许我合理控制文件和保存位置 我尝试过的程序： - 一个笔记包含除最后一个之外的所有内容 - 这是我首先发现我可以做到这一点。它有无限大小的画布，但专有文件格式的问题以及使用其云基础设施保存文件的要求 - OpenOffice Calc 不允许我轻松地重新绑定 ctrl+enter （添加新行）以仅输入（我意识到这一点）可能是一件好事） - Excel 不能很好地处理长文本，它的功能更集中于数字、图表、数字而不是注释 - SQL 数据库编辑器（如 rowy 和 baserow）不允许我轻松地可视化长文本一次多个单元格 几年前我在 r/medschool 中发布了这个问题徒劳无功。我意识到这是一个相当小众的问题，但是在表格中包含大量文本来比较概念的单一注释风格对我非常有帮助。谁能帮我解决这个多年的搜索问题？   由   提交 /u/QueezyRatio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cpw05s/what_is_the_best_tool_for_creating_editing_tables/</guid>
-      <pubDate>Sun, 12 May 2024 01:01:14 GMT</pubDate>
-    </item>
-    <item>
       <title>书籍数字化</title>
       <link>https://www.reddit.com/r/software/comments/1cpv9bs/digitalising_books/</link>
       <description><![CDATA[我有一堆 PDF 以及书籍的原始图像（文本、页面）。 因为它们都没有被扫描，我需要能够从图像中裁剪出实际书页、调整其大小、校正角度等的软件。 我需要的另一个软件是校正从纸张创建的文本的曲率折叠式的。  基本上，从拍摄书页的照片，然后将其转换为正确的扫描（数字化）文档。 主要问题，再一次是照片已经拍摄了，并组装成PDF或其他格式。   由   提交 /u/breadedcondom2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cpv9bs/digitalising_books/</guid>
       <pubDate>Sun, 12 May 2024 00:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Balabolka：使用 Microsoft Natural Voices 进行文本转语音的令人惊叹的电子书阅读器</title>
-      <link>https://www.reddit.com/r/software/comments/1cpuftb/balabolka_amazing_ebook_reader_using_microsoft/</link>
-      <description><![CDATA[大家好， 如果您曾经想使用 Microsoft 令人惊叹的自然语音向您朗读电子书，截至2024 年 5 月 10 日星期五，有一个出色的免费解决方案。 开发人员发布了一个实用程序，可将 Microsoft 的自然语音（本地安装和在线）公开给使用 Microsoft 语音 API (SAPI 5) 的第三方应用程序唯一使用 SAPI 5 的电子书应用程序是免费的 Balabolka。它几乎可以打开任何格式，例如 epub 和 PDF。 以下是如何让它工作。首先，在此处安装 Balabolka： https://www.cross-plus-a.com /balabolka.htm 接下来，按照此处的说明安装 NaturalVoiceSAPIAdapter：  https://github.com/gexgd0419/NaturalVoiceSAPIAdapter （向下滚动到“安装”部分。） 然后，启动 Balabolka，并打开一个epub 电子书。从下拉菜单中选择自然语音，例如： Microsoft Guy [英语（美国）] 或 Microsoft Ryan [英语(英国）] 然后，将光标定位在您希望 Balabolka 开始阅读的位置之前，然后按工具栏中的播放图标。  为了防止自己失明，请通过选择“视图”-&gt;“皮肤...”-&gt;DarkMetro 来更改 Balabolka 的皮肤，然后按“确定”。然后，转到“查看”-&gt;“字体和颜色...”，并将文本颜色更改为浅蓝色（例如），将背景颜色更改为黑色。根据需要调整其他颜色。我使用红色作为选择颜色，并使用相同的浅蓝色作为突出显示颜色。  如果您想要漂亮的字体，可以安装Merriweather：  https://www.1001fonts.com/merriweather-font.html 我在 Surface Pro X 上使用 14 点字体。 尽情享受！   由   提交/u/4rt3m0rl0v   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cpuftb/balabolka_amazing_ebook_reader_using_microsoft/</guid>
-      <pubDate>Sat, 11 May 2024 23:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有嵌套文件夹或标签的Mac联系人应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1cppuhl/looking_for_a_mac_contacts_app_that_has_nested/</link>
-      <description><![CDATA[这个存在吗？如果没有，我需要发明它。 我的问题是我已经是 Mac 用户很长时间了（实际上我在 1984 年就拥有了第一台 Apple 电脑！）并且一直将我的联系人放在一个应用程序中自 90 年代末以来一直存在某种形式。因此，我在人生的许多阶段、生活过的许多地方都有过接触，我不想扔掉它们，但我想以某种方式将它们存档。嵌套文件夹似乎是阻止这个怪物的一种方法。我一直在搜索，但找不到任何可以满足我的需求的程序。有任何线索吗？   由   提交 /u/PurrPurrrrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cppuhl/looking_for_a_mac_contacts_app_that_has_nested/</guid>
-      <pubDate>Sat, 11 May 2024 20:01:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
