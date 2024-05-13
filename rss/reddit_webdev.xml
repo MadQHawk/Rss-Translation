@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 13 May 2024 00:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 03:14:56 GMT</lastBuildDate>
+    <item>
+      <title>作为有向图的复式记账</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqpaio/double_entry_bookkeeping_as_a_directed_graph/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqpaio/double_entry_bookkeeping_as_a_directed_graph/</guid>
+      <pubDate>Mon, 13 May 2024 03:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用程序是否适合该项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqoxdy/is_a_web_app_viable_for_this_project/</link>
+      <description><![CDATA[大家好。我想知道使用 React 的 Web 应用程序是否是我想要创建的这个项目的不错选择。 我发现了两个使用 mongodb 和 neo4j 数据库的 springboot api。  我想获得一些创建网络应用程序的经验。我查看了 api，发现开发人员为 lms（学习管理系统）创建了这些 api。 api 的文档很少甚至没有。  当我编写前端计划时，我决定希望为用户提供两个功能：语音合成和语音识别。我还认为在线和离线可用性将是核心非功能性需求。我知道本机 Web Speech Api 在互联网连接下运行良好。  我决定使用 React 来创建 Web 应用程序。 问题： 鉴于我希望将应用程序提供给用户无论有没有互联网连接，都具有语音合成和语音识别的功能，创建一个网络应用程序是正确的选择还是创建一个移动应用程序。 PS：我最终想集成一个自适应学习系统基于用户语音模式。   由   提交 /u/PandaBebeDisco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqoxdy/is_a_web_app_viable_for_this_project/</guid>
+      <pubDate>Mon, 13 May 2024 02:45:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员做出架构决策吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</link>
+      <description><![CDATA[受一位前同事的恩惠，我开始了一份自由职业。这是一个6人团队。业务方面有 2 个人，工程方面是 CTO、UI/UX 设计师、前端开发人员和我（BE） 在与 CTO 会面时，我被告知主站点有已经由我之前的开发人员构建了。他希望我使用 django 为网站的其余功能构建微服务。我总是觉得 django 用来构建微服务很奇怪，因为它是更重量级的框架之一（相对于 Flask），但这并不是唯一奇怪的部分。 所以他让我计划一下我将如何构建微服务。我反问他有什么规格吗？我应该使用sql、nosql作为数据库吗？网络套接字？长轮询？短轮询？网络钩子？我应该使用memcache作为缓存吗？他说他让我来决定。  BE 开发人员应该做出这些决定吗？如果我们是的话，那么 CTO 的意义何在？   由   提交 /u/FrostNovaIceLance   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</guid>
+      <pubDate>Mon, 13 May 2024 02:19:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Google 地图导出邻里多边形</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqodks/export_neighbourhood_polygons_from_google_maps/</link>
+      <description><![CDATA[嗨，我正在尝试找到一种从 google 地图导出邻域多边形的方法，以便我可以在 geojson 或 KML 文件中使用它们网站插件。例如，https://www.google.com/maps/place/Northeast+卡尔加里,+卡尔加里,+ AB/ @51.0984583,-114.0699105,12.75z/data=!4m6!3m5!1s0x537164eaafa73cfd:0x6e35026743f66ce8!8m2!3d51.0842138!4d-113.9811237!16s%2Fg%2F1 pzvhf4hh?entry=ttu 我想导出或复制构成红色虚线边框的点的地理坐标。有什么想法可以解决这个问题吗？  我已经用其他地图程序陷入了一堆兔子洞，但还没有运气。   由   提交 /u/My_Departures   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqodks/export_neighbourhood_polygons_from_google_maps/</guid>
+      <pubDate>Mon, 13 May 2024 02:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑在 CV 和 LinkedIn 上添加教程项目吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqoclj/thoughts_on_adding_tutorial_projects_on_cv_and/</link>
+      <description><![CDATA[我还没有真正抽出时间来构建我感兴趣的项目，但同时我希望我的作品集和 LinkedIn 能够展示其中一些项目我已经做过了，即使其中一些是来自 Youtube 的项目。可以吗？    由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqoclj/thoughts_on_adding_tutorial_projects_on_cv_and/</guid>
+      <pubDate>Mon, 13 May 2024 02:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Javascript 有时让我发疯，伙计</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/</link>
-      <description><![CDATA[我需要一个带有行和列的坐标对象。世界上最简单的对象。 interface Coords { row: number column: number }  但这不允许我轻松比较两个坐标为了平等。因此，我使用 equals 函数创建一个类： class Coordinates { row: number;列：数字；构造函数（行：数字，列：数字）{ this.row = row; this.column = 列； } equals(other: 坐标): boolean { return this.row === other.row &amp;&amp; this.column === other.column; } }  快进一点。我创建了一个Map，它允许我将坐标映射到值。 Map.get 和 Map.has 函数根本不起作用。经过一分钟的思考，我意识到这是因为 Coords 对象的相等性依赖于我的 .equals 函数，而 Map 使用 === 。所以我不能为此使用 Map 。 我确信有人会说“你只是不习惯 JS”，好吧，当然，但是其他的语言对此有一个解决方案。 Python 有 __eq__。 Java 有 .equals。 C++ 和 C# 有 operator==。 我可以继续说下去。这个语言人。 。 。    由   提交 /u/Negative-Net7551    reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我需要一个带有行和列的坐标对象。世界上最简单的对象。 interface Coords { row: number column: number }  但这不允许我轻松比较两个坐标为了平等。因此，我使用 equals 函数创建一个类： class Coords { row: number;列：数字；构造函数（行：数字，列：数字）{ this.row = row; this.column = 列； } equals(other: 坐标): boolean { return this.row === other.row &amp;&amp; this.column === other.column; } }  快进一点。我创建了一个Map，它允许我将坐标映射到值。 Map.get 和 Map.has 函数根本不起作用。经过一分钟的思考，我意识到这是因为 Coords 对象的相等性依赖于我的 .equals 函数，而 Map 使用 === 。所以我不能为此使用 Map。 我确信有人会说“你只是不习惯 JS”，好吧，当然，但是其他的语言对此有一个解决方案。 Python 有 __eq__。 Java 有 .equals。 C++ 和 C# 有 operator==。 我可以继续说下去。这个语言人。 。 。    由   提交 /u/Negative-Net7551    reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/</guid>
       <pubDate>Mon, 13 May 2024 00:45:44 GMT</pubDate>
     </item>
@@ -57,58 +92,23 @@
     <item>
       <title>我 24 岁的网站。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqhv0w/my_24_years_old_website/</link>
-      <description><![CDATA[https://celmeli.com/web /virgonline/index.html 今天，我决定将我 24 年前高中时期创建的网站重新上线。    由   提交 /u/xkdhc   [链接] [评论]]]></description>
+      <description><![CDATA[https://celmeli.com/web /virgonline/index.html 今天，我决定让我 24 年前在高中时期创建的网站重新上线。    由   提交 /u/xkdhc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqhv0w/my_24_years_old_website/</guid>
       <pubDate>Sun, 12 May 2024 20:58:33 GMT</pubDate>
     </item>
     <item>
       <title>处理视频块</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqg0xf/handling_video_chunks/</link>
-      <description><![CDATA[我正在开发一个宠物项目，我将实时视频录制的临时上传文件对象分块发送到后端，但是当我存储时本地存储中的块作为 mp4 文件，它的持续时间比块的持续时间长，我也尝试了 webm 和二进制文件，但没有任何效果。之后我还需要将所有块连接到视频中。我需要帮助寻找资源或来自某人的建议也会非常有帮助。   由   提交/u/pr7nce00  [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个宠物项目，其中我将实时视频录制的临时上传文件对象分块发送到后端，但是当我存储时本地存储中的块作为 mp4 文件，它的持续时间比块的持续时间长，我也尝试了 webm 和二进制文件，但没有任何效果。之后我还需要将所有块连接到视频中。我需要帮助寻找资源或来自某人的建议也会非常有帮助。   由   提交/u/pr7nce00  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqg0xf/handling_video_chunks/</guid>
       <pubDate>Sun, 12 May 2024 19:37:51 GMT</pubDate>
     </item>
     <item>
       <title>需要帮助：使用 ChatGPT 治疗机器人构建我的第一个网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqfb49/help_needed_building_my_first_website_with_a/</link>
-      <description><![CDATA[您好！ 我是 Web 开发新手，十多年前只有创建静态网页的基本经验。我现在正在寻找一个新项目来进一步发展我的技能。我有兴趣使用 ChatGPT API 创建一个包含聊天机器人的简单网页，它的作用就像心理治疗师一样。鉴于可用的平台过多，我发现自己不知所措，不知道从哪里开始，无论是开发还是托管。 您能否建议一下：1. 哪些平台最适合初学者开发集成的网站聊天机器人？ 2. 托管此类网站最简单的选择是什么？ 3. 您能否分享一下我应该遵循的任何提示或一般步骤，以在这种情况下有效地使用 ChatGPT API？ 谢谢😁！   由   提交/u/pulsarttt  [链接] [评论]]]></description>
+      <description><![CDATA[您好！ 我是 Web 开发新手，十多年前只有创建静态网页的基本经验。我现在正在寻找一个新项目来进一步发展我的技能。我有兴趣使用 ChatGPT API 创建一个包含聊天机器人的简单网页，它的作用就像心理治疗师一样。鉴于可用的平台过多，我发现自己不知所措，不知道从哪里开始，无论是开发还是托管。 您能否建议一下：1. 哪些平台最适合初学者开发集成网站聊天机器人？ 2. 托管此类网站最简单的选择是什么？ 3. 您能否分享一下我应该遵循的任何提示或一般步骤，以在这种情况下有效地使用 ChatGPT API？ 谢谢😁！   由   提交/u/pulsarttt  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqfb49/help_needed_building_my_first_website_with_a/</guid>
       <pubDate>Sun, 12 May 2024 19:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel 底层 - 策略模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqettl/laravel_under_the_hood_the_strategy_pattern/</link>
-      <description><![CDATA[你有没有想过 Laravel 如何在不同驱动程序的实现之间切换？好吧，稍等一下，我们会学习如何做的！ TL;DR：我们将讨论 Laravel 中的策略模式，它在幕后是如何工作的，我们还将讨论另外两种模式：构建器模式和待定对象模式。 欢迎任何反馈或问题。我知道 Reddit 可能有点让人筋疲力尽，所以我不会回复有毒评论。 https://blog.oussama-mater.tech/laravel-the-strategy-pattern/    ;由   提交/u/According_Ant_5944   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqettl/laravel_under_the_hood_the_strategy_pattern/</guid>
-      <pubDate>Sun, 12 May 2024 18:45:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适合中小型企业的、完全托管的 API 管理软件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqdk9n/any_good_fully_managed_api_management_software/</link>
-      <description><![CDATA[我正在寻找一个简单且集中的 API 管理软件，可以执行文档、分析、监控、速率限制等操作。我看到了解决方案像 Tyk、Kong 和 Apigee，但它们要么太贵，要么太复杂，我不得不担心我自己的部署。我只是希望它简单但仍然灵活，我可以快速添加新端点，还可以添加转换和 Webhook 等内容。 团队规模：~20 还有其他人遇到过这个问题吗？你们都用什么？   由   提交/u/man12930  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqdk9n/any_good_fully_managed_api_management_software/</guid>
-      <pubDate>Sun, 12 May 2024 17:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>JS for WebDev 为您的下一次面试准备来自开发主管的挑战（免费资源）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqdhws/js_for_webdev_conding_challenges_from_a_dev_lead/</link>
-      <description><![CDATA[你好， 链接： https://codeclimbjs.com  正如标题所说，我以 LeetCode 风格创建了一个编码挑战网站，重点关注其他面试官或其他面试官提出的问题我。这对我来说是一个宠物项目，但我发现有很多算法网站，而人们愿意理解真实前端/webdev javascript 面试中给出的代码练习的机会却很少。它仍处于初始阶段，已经有很多练习可以训练，它完全是免费资源，但我想得到一些意见/帮助，因为很难理解不同的人如何使用它并调整基于反馈的测试用例。 下一步是：  - 创建反应/视觉反馈测试用例，我仍在努力这是因为我正在创建一个 golang 机器，它需要使用一个提交队列，该队列将触发 docker 机器的部署/销毁，并在其中进行反应以使测试用例正常工作。   有关创建此网络应用程序的视频教程我不知道是否有人感兴趣，但我发现我可以赠送的最佳资源是关于如何创建这个网络应用程序，在面试中你会真正脱颖而出，因为你需要了解应用程序的创建过程以及你在其中插入的挑战。  I很想听听您的反馈，谢谢，F。   由   提交 /u/frivolta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqdhws/js_for_webdev_conding_challenges_from_a_dev_lead/</guid>
-      <pubDate>Sun, 12 May 2024 17:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有人使用 Million.js 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqdhrf/is_anyone_here_using_millionjs/</link>
-      <description><![CDATA[Million.js 似乎到处都在谈论，从 Medium 文章到不久前的 YouTube 视频。但我真的不再听说了。也许是因为它不是这个超级复杂的工具可以做一百万件事，而是一个简单的工具只做一件事：让 React 更高效，所以需要讨论的内容都已经被完全涵盖了。换句话说，这个时候没有必要提出来。它在 GitHub 上拥有超过 15,000 颗星，并拥有令人惊叹的基准。我还听说，简单地加入一个项目，无论大小，都没有坏处，因为它只会使 React 更加高效，而不是不高效（因此，即使性能提升是 0.1%，这仍然是0.1% 比 0% 多——也就是说，进入一个项目，无论大小，都没有什么坏处），但我的消息来源可能是错误的。我不知道。不管怎样，尽管 Million.js 有着令人惊叹的宣称和它似乎在做的事情，但 Million.js 或类似的技术既没有原生集成到 React 本身，也没有集成到 Next.js 或 Remix 等大型框架中。我也不知道我的个人圈子里有谁在生产应用程序中使用过它。关于这一点，我很好奇您是否已将其包含在过去的项目中或当前在生产中使用它。   由   提交 /u/U51dJegT6RPyyziJxqvG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqdhrf/is_anyone_here_using_millionjs/</guid>
-      <pubDate>Sun, 12 May 2024 17:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我想编写代码如何使用 WordPress</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqc1uj/how_to_use_wordpress_if_i_want_to_write_code/</link>
-      <description><![CDATA[大家好， 我已经从事 Web 开发几年了，希望通过 WordPress 获得良好的工作流程，因为一些客户要求我使用它。 我真的很喜欢编写代码，并且理想情况下会喜欢一个可以混合使用可视化块样式编辑器和代码的解决方案。对此有哪些好的解决方案？我认为使用内置的块编辑器会起作用，但是是否有插件可以让我更轻松地添加 css、javascript 甚至 php 来操作块编辑器？  感谢您的帮助！   由   提交/u/scumble373  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqc1uj/how_to_use_wordpress_if_i_want_to_write_code/</guid>
-      <pubDate>Sun, 12 May 2024 16:42:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
