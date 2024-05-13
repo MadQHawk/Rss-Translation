@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 13 May 2024 09:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 12:24:22 GMT</lastBuildDate>
+    <item>
+      <title>[入门]多部分前端的高效数据获取</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqxxbk/beginner_efficient_data_fetching_for_a/</link>
+      <description><![CDATA[我正在构建一个页面，其中包含多个部分，显示特色作者、书籍和交易等数据。我需要决定为前端获取这些数据的最佳后端方法。有两个主要选项：  组合响应：后端返回包含整个页面的所有数据（特色作者、书籍、交易）的单个响应。&lt; /li&gt; 单独获取：前端进行单独的 API 调用，从专用后端端点获取每个部分的数据（特色作者、特色书籍、最新交易）。  最好的方法是什么？另外，有什么我可以遵循的指南吗？   由   提交 /u/NisemonoNaWa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqxxbk/beginner_efficient_data_fetching_for_a/</guid>
+      <pubDate>Mon, 13 May 2024 12:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 PageSpeed Insights / Lighthouse 分数的思考</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqxek4/thoughts_on_pagespeed_insights_lighthouse_scores/</link>
+      <description><![CDATA[抛开这两个工具之间的差异，我想问一下你们对此的立场： “性能”指标：对于现实世界中的大多数动态网站或网络应用程序来说，获得满分（尤其是在移动设备上）并不是最佳选择。对于单页静态站点，请务必使用它。  “可访问性”、“最佳实践”指标：始终争取满分或足够接近的分数，除非出现技术要求过高的特殊情况。  “SEO”指标：一定要努力争取“可访问性”和“最佳实践”等满分，但还有一点余地，因为某些用例只是从 SEO 中获得微不足道的好处-友好的。  想法？   由   提交/u/nightmare-bwtb    reddit.com/r/webdev/comments/1cqxek4/thoughts_on_pagespeed_insights_lighthouse_scores/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqxek4/thoughts_on_pagespeed_insights_lighthouse_scores/</guid>
+      <pubDate>Mon, 13 May 2024 11:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>初级/中级软件工程师职位简历审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqx1u7/cv_review_for_juniormid_sofware_engineer_position/</link>
+      <description><![CDATA[嗨， 我最近大学毕业，获得了计算机科学学位（仍在等待结果），但我一直担任软件工程师现在已经工作了 2 年（实习生职位）。 我从实习年开始（大学第三年），一年后获得了一份永久合同，这使我能够在同一家公司完成大学的最后一年。&lt; br /&gt; 今天我发现我不会晋升为Junior，因为所有新的招聘和晋升都被暂停，直到天知道什么时候，这很有趣，因为公司在过去三年里每年经历10-15%的增长。&lt; br /&gt; 无论如何，我需要对我的简历提出一些意见。我的计划是申请初级和中级职位，也许我会足够幸运。 https://imgur.com/a /GjyH95l   由   提交 /u/edomielka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqx1u7/cv_review_for_juniormid_sofware_engineer_position/</guid>
+      <pubDate>Mon, 13 May 2024 11:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>单独的桌面来运行 Docker？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqwjzn/separate_desktop_to_run_docker/</link>
+      <description><![CDATA[由于 XCode，我目前在 MacBook Pro 上在家工作，但 HD 空间有限。我很难让 Docker 运行起来。其他人做什么？有一个单独的台式机（例如 Mac Mini）来运行 Docker，还是只是购买一台具有更多 RAM/HD 的更强大的笔记本电脑？ 我的笔记本电脑上目前有 256GB HD 和 16GB RAM，我喜欢能够随身携带我的代码（因此无需仅移动到桌面）。 提前致谢。   由   提交 /u/bob_ross_happy_tree   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqwjzn/separate_desktop_to_run_docker/</guid>
+      <pubDate>Mon, 13 May 2024 11:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 DockerHub 拉取的镜像中检索文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqwdjp/retrieving_files_from_an_image_pulled_from/</link>
+      <description><![CDATA[        由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqwdjp/retrieving_files_from_an_image_pulled_from/</guid>
+      <pubDate>Mon, 13 May 2024 10:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>媒体查询的最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqwayz/best_practice_for_media_queries/</link>
+      <description><![CDATA[我正在走自学路线，我想知道进行媒体查询的最有效方法，我应该： &lt; ol&gt; 为每种尺寸制作单独的样式表 将所有内容塞入每个媒体查询中：  @media（最大宽度：600px）{  .Header {} .Body {} .Footer {}  } @media（最大宽度：800px）{  .Header {} .Body {} .Footer {}  }  各个部分的媒体查询。   @media（最大宽度：600px）{  .Header {}  } @media（最大宽度：800px）{  .Header {}  } @media（最大宽度: 600px) {  .Body {}  } @media（最大宽度：800px）{  .Body {}  }   由   提交/u/sandbaggingblue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqwayz/best_practice_for_media_queries/</guid>
+      <pubDate>Mon, 13 May 2024 10:49:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让我的网站看起来不那么过时？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqvtoz/how_do_i_make_my_websites_look_less_dated/</link>
+      <description><![CDATA[我为一个学校项目制作了一个网站，发现我制作的大多数网站看起来都很旧。有谁知道我怎样才能让它们看起来更好？ 这是上下文网站：https ://cspe-project.static.domains/CSPE2/index.html   由   提交/u/irelephant_T_T   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqvtoz/how_do_i_make_my_websites_look_less_dated/</guid>
+      <pubDate>Mon, 13 May 2024 10:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应状态和不必要的重新渲染</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqvqun/react_state_and_unnecessary_rerendering/</link>
+      <description><![CDATA[我在很长一段时间后才开始反应，并且遇到了一个反复出现的问题，即状态应该进入组件内部还是外部。想象一下，我有一个模态组件的 [isOpen, setIsOpen] 状态，理想情况下我希望它位于模态组件内，因为我不希望父级每次打开/关闭时都重新渲染。但现在我使用 children 属性将某些内容放入模态中，并且该某些内容具有“关闭模态”按钮。因此，我需要访问 setIsOpen 函数。 进入模态的 jsx 是在模态组件外部定义的，因此无法直接访问模态状态，但是如果我将状态移出到共享父组件，则整个父组件每次切换时都会重新渲染。 我已经将 React.Children 与  结合使用&gt;React.cloneElement 将状态传递到孩子的道具中，它有点有效，但看起来很老套，反应文档基本上告诉你不要这样做。 也反应上下文看起来它可以在这里使用，但所有示例似乎都将它用于应用程序范围的状态，而不是单个组件。 我缺少什么吗？或者我们只是不关心重新渲染父级？ 编辑：当我想到这一点时，每个输入都有一个在按键时更新的状态的表单，这意味着整个表单都是重新渲染的-每次按键时都会呈现。如果每个输入都是一个具有自己状态的单独组件，这似乎是一个可以解决的问题，但是当您想要提交表单时，如何提取所有内容呢？    由   提交/u/I_Eat_Pink_Crayons  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqvqun/react_state_and_unnecessary_rerendering/</guid>
+      <pubDate>Mon, 13 May 2024 10:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>请评价我的网站/博客</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqveb3/please_rate_my_websiteblog/</link>
+      <description><![CDATA[我是一名 Angular 开发人员，我有一个 Angular 博客，在其中发布了很多有关企业 Angular 的内容。我也是一名自由职业者，曾经有过这个博客网站：https://ng-journal.com并且总是对此感到有点尴尬，因为我个人根本不喜欢这个设计。作为一名前端开发人员，我觉得这可能会给出一个糟糕的介绍，尽管博客本身的内容。 现在，我终于花了一些时间重做网站/博客，并尽我最大的努力让设计变得更好。我尝试使用单色并使用尽可能少的颜色（因为我对颜色理论很烂），并且具有很多悬停效果和良好的对齐效果。我觉得该网站在移动设备上看起来更糟，但无论如何，它是：https://stefanhaas.dev If如果您看到了我的开发人员大脑没有看到的任何缺陷，请随时分享您的批评意见 - 我将不胜感激。 仅供参考：我想使用该网站向潜在的自由职业客户介绍自己，并且也作为开发社区的博客。希望这些目标与设计保持一致。   由   提交 /u/haasilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqveb3/please_rate_my_websiteblog/</guid>
+      <pubDate>Mon, 13 May 2024 09:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>为用户获得报酬而支付的款项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqvceh/payments_for_users_to_get_paid/</link>
+      <description><![CDATA[嗨， 我正在开发一个网站，用户可以通过竞争任务/共享交易来积累积分，并且在获得积分后超过 5 欧元，- 他们可以获得付款。我对网络应用程序中的支付不太熟悉，但我认为 Stripe 是正确的选择？如果我错了，请纠正我。是否可以仅将 Stripe 设置为使用您网站上的“付款”部分？在 YouTube 上的几乎所有教程中，他们都将其设置为付款方式，但我希望相反，将其用作付款方式。而且我自己可以将现金存入 Stripe，以确保有足够的价值来支付用户。   由   提交 /u/belikerich   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqvceh/payments_for_users_to_get_paid/</guid>
+      <pubDate>Mon, 13 May 2024 09:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>符合人体工程学的做法，适合长时间坐着</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqv9af/ergonomic_practices_for_long_sitting_hours/</link>
+      <description><![CDATA[   直到你的背部开始疼痛，你才在乎！ 🧐👨‍💻分享一些好的做法： 正确的坐姿：🫵 - 保持背部挺直，肩膀向后。 - 打字时手臂应呈 90 度角，手腕伸直。 - 腿也应弯曲成 90 度角，脚平放在地板上。 休息和运动：🚶‍♂️🚶‍♀️ - 每 30 分钟短暂休息一下，站立、伸展或运动四处走动。 人体工程学设置：👀 - 椅子：调整椅子高度，使双脚平放在地面上。 - 桌子：确保显示器顶部位于或略低于视线水平。 - 键盘和鼠标：将它们放在触手可及的地方，以便您的手臂处于放松的位置。   由   提交 /u/Faithlessforever   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqv9af/ergonomic_practices_for_long_sitting_hours/</guid>
+      <pubDate>Mon, 13 May 2024 09:39:52 GMT</pubDate>
+    </item>
     <item>
       <title>您使用什么库（或正则表达式）来审查/阻止用户名/文本中不需要的（诽谤）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cquj8w/what_library_or_regex_do_you_use_to_censorblock/</link>
@@ -27,88 +104,11 @@
       <pubDate>Mon, 13 May 2024 07:47:29 GMT</pubDate>
     </item>
     <item>
-      <title>我应该改进什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqsd4u/what_should_i_improve/</link>
-      <description><![CDATA[      https://preview.redd.it/4dufustgw40d1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=7adebb5c64b2651462d 7dc7c31ac4aba6f69fb7f web:-PHANTOMX9 项目 (phantomcodex9.github.io) （在 PC 中打开）我是很困惑是否应该让背景静态，感觉我做得太过了。或者可能是因为我访问得太频繁。  在下一次更新中，我将使其看起来像这样 https://preview.redd.it/u5l7hb7hx40d1.png?width=1912&amp;format=png&amp;auto=webp&amp;s=6c8a4c5e74cd51e520a3 158035e3c53d2c659fbc &lt; p&gt;我现在对编码不太了解，但我仍然在 chatGPT 和学习的帮助下创建了这个网站。我使用了一些互联网上提供的预编程工具来进行计时器、反馈和投票。到目前为止我还没有花一分钱，请告诉我我应该改进什么。如果你能介绍一下我，这也会有很大的帮助使用一些新工具或网页布局。 忽略那个绝密按钮，它给我的迷恋留下了深刻的印象😅。但我现在放弃了计划。   由   提交/u/batman6113  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqsd4u/what_should_i_improve/</guid>
-      <pubDate>Mon, 13 May 2024 06:11:15 GMT</pubDate>
-    </item>
-    <item>
       <title>得到一份工作</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</link>
       <description><![CDATA[大家好，我听到并看到过一些人的帖子，说只需了解 HTML、CSS 和 JS 就可以获得入门级角色。我想知道这是否是事实，或者这是否是彻头彻尾的谎言。我对进入网络开发非常感兴趣，因为这是我能想到的最快的事情，可能没有那么多的社交互动，而且我可以远程做一些事情。现在我根本没有编码经验，但如果是这样的话，我肯定会追求。我可能会自学，而且我知道在远程工作之前我必须先为一家公司工作。非常感谢大家的任何建议，谢谢！   由   提交/u/VIBES95  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</guid>
       <pubDate>Mon, 13 May 2024 05:06:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机科学中最难的问题：居中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqrciw/hardest_problem_in_computer_science_centering/</link>
-      <description><![CDATA[       由   提交 /u/stefanjudis   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqrciw/hardest_problem_in_computer_science_centering/</guid>
-      <pubDate>Mon, 13 May 2024 05:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>故意阻塞渲染</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqrc8v/renderblocking_on_purpose/</link>
-      <description><![CDATA[       由   提交 /u/stefanjudis   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqrc8v/renderblocking_on_purpose/</guid>
-      <pubDate>Mon, 13 May 2024 05:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索结果中的域名提供商？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqqj01/domain_name_provider_in_search_result/</link>
-      <description><![CDATA[      在 中搜索我的网站时，我注意到我的域名提供商已列出一些原因？我没有在任何代码中指定提供程序。 然后我尝试通过添加更多元标记来更改它，但这不起作用。另外，由于某种原因，我的网站图标没有显示？ 我尝试用谷歌搜索我的问题，但要么以前没有人问过，要么我没有得到任何结果，因为我不知道它的解剖结构google 搜索结果。 有人可以帮助我吗？   由   提交/u/Beenright  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqqj01/domain_name_provider_in_search_result/</guid>
-      <pubDate>Mon, 13 May 2024 04:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为有向图的复式记账</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqpaio/double_entry_bookkeeping_as_a_directed_graph/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqpaio/double_entry_bookkeeping_as_a_directed_graph/</guid>
-      <pubDate>Mon, 13 May 2024 03:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序是否适合该项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqoxdy/is_a_web_app_viable_for_this_project/</link>
-      <description><![CDATA[大家好。我想知道使用 React 的 Web 应用程序是否是我想要创建的这个项目的不错选择。 我发现了两个使用 mongodb 和 neo4j 数据库的 springboot api。  我想获得一些创建网络应用程序的经验。我查看了 api，发现开发人员为 lms（学习管理系统）创建了这些 api。 api 的文档很少甚至没有。  当我编写前端计划时，我决定希望为用户提供两个功能：语音合成和语音识别。我还认为在线和离线可用性将是核心非功能性需求。我知道本机 Web Speech Api 在互联网连接下运行良好。  我决定使用 React 来创建 Web 应用程序。 问题： 鉴于我希望将应用程序提供给用户无论有没有互联网连接，都具有语音合成和语音识别的功能，创建一个网络应用程序是正确的选择还是创建一个移动应用程序。 PS：我最终想集成一个自适应学习系统基于用户语音模式。   由   提交 /u/PandaBebeDisco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqoxdy/is_a_web_app_viable_for_this_project/</guid>
-      <pubDate>Mon, 13 May 2024 02:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员做出架构决策吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</link>
-      <description><![CDATA[受一位前同事的恩惠，我开始了一份自由职业。这是一个6人团队。业务方面有 2 个人，工程方面是 CTO、UI/UX 设计师、前端开发人员和我（BE） 在与 CTO 会面时，我被告知主站点有已经由我之前的开发人员构建了。他希望我使用 django 为网站的其余功能构建微服务。我总是觉得 django 用来构建微服务很奇怪，因为它是更重量级的框架之一（相对于 Flask），但这并不是唯一奇怪的部分。 所以他让我计划一下我将如何构建微服务。我反问他有什么规格吗？我应该使用sql、nosql作为数据库吗？网络套接字？长轮询？短轮询？网络钩子？我应该使用memcache作为缓存吗？他说他让我来决定。 所以整件事似乎...违反直觉，微服务的好处是我可以选择自己的堆栈，我不能选择那个，但是更重要的事情，例如 sql ，没有 sql，我可以自由选择。 BE 开发人员应该做出这些决定吗？如果我们是的话，那么 CTO 的意义何在？   由   提交 /u/FrostNovaIceLance   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</guid>
-      <pubDate>Mon, 13 May 2024 02:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Google 地图导出邻里多边形</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqodks/export_neighbourhood_polygons_from_google_maps/</link>
-      <description><![CDATA[嗨，我正在尝试找到一种从 google 地图导出邻域多边形的方法，以便我可以在 geojson 或 KML 文件中使用它们网站插件。例如，https://www.google.com/maps/place/Northeast+卡尔加里,+卡尔加里,+ AB/ @51.0984583,-114.0699105,12.75z/data=!4m6!3m5!1s0x537164eaafa73cfd:0x6e35026743f66ce8!8m2!3d51.0842138!4d-113.9811237!16s%2Fg%2F1 pzvhf4hh?entry=ttu 我想导出或复制构成红色虚线边框的点的地理坐标。有什么想法可以解决这个问题吗？  我已经用其他地图程序陷入了一堆兔子洞，但还没有运气。   由   提交 /u/My_Departures   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqodks/export_neighbourhood_polygons_from_google_maps/</guid>
-      <pubDate>Mon, 13 May 2024 02:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑在 CV 和 LinkedIn 上添加教程项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqoclj/thoughts_on_adding_tutorial_projects_on_cv_and/</link>
-      <description><![CDATA[我还没有真正抽出时间来构建我感兴趣的项目，但同时我希望我的作品集和 LinkedIn 能够展示其中一些项目我已经做过了，即使其中一些是来自 Youtube 的项目。可以吗？    由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqoclj/thoughts_on_adding_tutorial_projects_on_cv_and/</guid>
-      <pubDate>Mon, 13 May 2024 02:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Javascript 有时让我发疯，伙计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/</link>
-      <description><![CDATA[我需要一个带有行和列的坐标对象。世界上最简单的对象。 interface Coords { row: number column: number }  但这不允许我轻松比较两个坐标为了平等。因此，我使用 equals 函数创建一个类： class Coordinates { row: number;列：数字；构造函数（行：数字，列：数字）{ this.row = row; this.column = 列； } equals(other: 坐标): boolean { return this.row === other.row &amp;&amp; this.column === other.column; } }  快进一点。我创建了一个Map，它允许我将坐标映射到值。 Map.get 和 Map.has 函数根本不起作用。经过一分钟的思考，我意识到这是因为 Coords 对象的相等性依赖于我的 .equals 函数，而 Map 使用 === 。所以我不能为此使用 Map 。 我确信有人会说“你只是不习惯 JS”，好吧，当然，但是其他的语言对此有一个解决方案。 Python 有 __eq__。 Java 有 .equals。 C++ 和 C# 有 operator==。 我可以继续说下去。这个语言人。 。 。    由   提交 /u/Negative-Net7551    reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/</guid>
-      <pubDate>Mon, 13 May 2024 00:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理被黑客入侵并创建了 80 万个垃圾反向链接的 WordPress 网站？我为它们创建了一个远离 WordPress 的新网站，但所有这些链接仍然存在。有没有办法批量删除？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqmaca/how_do_you_deal_with_a_hacked_wordpress_site_that/</link>
-      <description><![CDATA[   太多，无法手动完成。有没有办法自动删除这些垃圾邮件页面？或者这个域名本质上已经死了？    由   提交/u/Citrous_Oyster  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqmaca/how_do_you_deal_with_a_hacked_wordpress_site_that/</guid>
-      <pubDate>Mon, 13 May 2024 00:27:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
