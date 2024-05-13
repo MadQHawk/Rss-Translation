@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 13 May 2024 15:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:15:14 GMT</lastBuildDate>
+    <item>
+      <title>有符合描述的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1cr5ibx/is_there_a_software_that_suits_the_description/</link>
+      <description><![CDATA[我想模拟国际象棋游戏！，规则如下：当 x&#39; 发生时，X 移动 2 次。 我知道那里都是国际象棋模拟软件，但我不知道哪个最好用。 用户友好，开源，价格，时间，所有问题都可以问。 &lt; !-- SC_ON --&gt;  由   提交/u/Chilis_Mooth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cr5ibx/is_there_a_software_that_suits_the_description/</guid>
+      <pubDate>Mon, 13 May 2024 17:47:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>带模拟 vu 计的旧媒体播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1cr475f/old_media_player_with_analog_vumeters/</link>
+      <description><![CDATA[我多年来一直在寻找一个程序，我在 2010 年使用它来听音乐。风格是 foobar2000、winamp 和 AIMP 的混合体。 图形界面不在矩形窗口内，而是具有较宽的上部，其中有这些典型的模拟 vu 仪表和控件，而较窄的上部下部包含歌曲列表。 如果我没记错的话，你可以同时加载两首不同的歌曲，但我不确定。 还有其他人有吗用过这个软件吗？   由   提交 /u/initial_chris   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cr475f/old_media_player_with_analog_vumeters/</guid>
+      <pubDate>Mon, 13 May 2024 16:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有最小声音延迟和无语音/声音抑制功能的视频会议软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cr3odp/video_conferencing_software_w_minimal_sound_delay/</link>
+      <description><![CDATA[目前，我们正在使用 Zoom 和/或 Google Meet。 在会议中，我们需要使用节拍器 (我使用节拍器应用程序）。问题是，如果我的手机在对方说话时播放节拍器，节拍器的声音就会被抑制。 而且，有时会出现声音延迟。如果节拍器滴答作响，另一侧的用户在听到节拍器时会有约 1 秒的延迟。 我们需要的软件能够 (a) 不抑制声音，并且 (b) 最小化音频延迟。    由   提交/u/poorprae  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cr3odp/video_conferencing_software_w_minimal_sound_delay/</guid>
+      <pubDate>Mon, 13 May 2024 16:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，我正在寻找 Stardock Fences 的免费替代品，它应该有一个功能，默认情况下该组是折叠的，当你将鼠标悬停在它上面时会打开，提前致谢。</title>
+      <link>https://www.reddit.com/r/software/comments/1cr2q48/hi_im_looking_for_a_free_alternative_to_stardock/</link>
+      <description><![CDATA[ 由   提交/u/makakakiller555  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cr2q48/hi_im_looking_for_a_free_alternative_to_stardock/</guid>
+      <pubDate>Mon, 13 May 2024 15:53:57 GMT</pubDate>
+    </item>
     <item>
       <title>启动时运行的 PC 远程桌面</title>
       <link>https://www.reddit.com/r/software/comments/1cr1q79/remote_desktop_for_pc_that_runs_at_boot/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[当一个程序被宣传为视频升级器时，我认为它会将视频的大小从 1280x720 大小增加到 3840x2160 大小，同时保持现有的清晰度/质量/颗粒度不变。它不一定会平滑已经有颗粒感的视频并使其变得平滑，是吗？ 我正在寻找可以通过添加/创建那些缺失的“细节”来增强旧的颗粒状（像素）视频的程序;.我不想将视频的大小从 720 增加到 4K 等等。您对此类计划有何建议？有免费的还是都是付费的？初学者在这里。谢谢。   由   提交/u/boball  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cqkfqu/looking_for_programs_that_enhance_the_clarity_of/</guid>
       <pubDate>Sun, 12 May 2024 22:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>MIDI 到乐谱，Android</title>
-      <link>https://www.reddit.com/r/software/comments/1cqg5or/midi_to_sheet_music_android/</link>
-      <description><![CDATA[我不知道是否有更具体的子项... 我是一名歌曲作者。我唯一的计算设备是我的 Android 10 手机。我在 BandLab 应用程序上编写 MIDI 音乐。我正在寻找一个可以从我的 MIDI 文件创建乐谱的应用程序。  我尝试了一些选择，但它们都不够。我会很乐意尝试您建议的每个应用程序，直到找到最好的应用程序。  谢谢！   由   提交 /u/razor6string   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cqg5or/midi_to_sheet_music_android/</guid>
-      <pubDate>Sun, 12 May 2024 19:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>将相册从 iPhone 传输到 Windows 笔记本电脑的最简单方法是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1cqesvn/whats_the_easiest_way_to_transfer_an_album_from/</link>
-      <description><![CDATA[出于某种原因，我的计算机在尝试执行此操作时让我非常痛苦。我已尝试过 Windows Link 应用程序，但似乎无法连接。 我已尝试将图片发送到我的 Google 云端硬盘，但它太大了。 我是吗？遗漏了什么？我还有一台 chromebook，这样会更容易吗？   由   提交/u/2stoned4_history   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cqesvn/whats_the_easiest_way_to_transfer_an_album_from/</guid>
-      <pubDate>Sun, 12 May 2024 18:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮忙验证码！！</title>
-      <link>https://www.reddit.com/r/software/comments/1cqei5t/help_with_captcha/</link>
-      <description><![CDATA[您好，有人知道如何解决中文验证码吗？我想在中文论坛注册，但我得到了中文验证码，我认为这是一个数学练习，如果您能帮助我，我将不胜感激🙏 https://preview.redd.it/735vw538h10d1.png?width=497&amp;format= PNG&amp;自动= webp&amp;s=6d0854f1a72366e03d68b54983afd33e3956905c   由   提交 /u/MateoWillbert   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cqei5t/help_with_captcha/</guid>
-      <pubDate>Sun, 12 May 2024 18:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布 Chromium 程序文件的通道标记？</title>
-      <link>https://www.reddit.com/r/software/comments/1cqdhqc/release_channel_marker_for_chromium_program_files/</link>
-      <description><![CDATA[任何 Chromium 程序文件中是否有直接标记指示 Stable/Beta/Dev 发布通道？ 通过“直接标记”，我的意思是直接表明它是稳定、测试版、开发等频道的标记。可以是字符串，也可以是数字/代码。 版本号是一个间接标记，这不是我想要的。  &amp;# 32；由   提交/u/jcunews1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cqdhqc/release_channel_marker_for_chromium_program_files/</guid>
-      <pubDate>Sun, 12 May 2024 17:47:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
