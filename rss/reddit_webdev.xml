@@ -4,18 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 13 May 2024 06:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 09:14:25 GMT</lastBuildDate>
+    <item>
+      <title>您使用什么库（或正则表达式）来审查/阻止用户名/文本中不需要的（诽谤）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cquj8w/what_library_or_regex_do_you_use_to_censorblock/</link>
+      <description><![CDATA[有什么建议吗？   由   提交 /u/iwaitinlines   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cquj8w/what_library_or_regex_do_you_use_to_censorblock/</guid>
+      <pubDate>Mon, 13 May 2024 08:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么样的项目能让我成为大师？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqu1zl/what_kind_of_project_will_make_me_a_master/</link>
+      <description><![CDATA[嘿伙计们，我已经学习 JS 一个月了，但我仍然感觉陷入困境，因为这个社区有非常优秀的开发人员。你们能给我推荐一些 javascript 项目来帮助我成为大师吗？请建议一些困难的项目我已经完成了一些初学者项目，但仍然感觉我被困住了。谢谢   由   提交/u/Motor-Silver484  /u/Motor-Silver484 reddit.com/r/webdev/comments/1cqu1zl/what_kind_of_project_will_make_me_a_master/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqu1zl/what_kind_of_project_will_make_me_a_master/</guid>
+      <pubDate>Mon, 13 May 2024 08:10:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥有应用程序开发方面的计算机和信息科学学士学位的人可以成为一名软件开发人员/工程师吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqtqfb/can_one_become_a_software_developer_engineer_with/</link>
+      <description><![CDATA[拥有这个学位可以申请软件开发人员的工作吗？    ;由   提交 /u/No_Television3883   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqtqfb/can_one_become_a_software_developer_engineer_with/</guid>
+      <pubDate>Mon, 13 May 2024 07:47:29 GMT</pubDate>
+    </item>
     <item>
       <title>我应该改进什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqsd4u/what_should_i_improve/</link>
-      <description><![CDATA[      https://preview.redd.it/4dufustgw40d1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=7adebb5c64b2651462d 7dc7c31ac4aba6f69fb7f web:-PHANTOMX9 项目 (phantomcodex9.github.io) （在 PC 中打开）我是很困惑是否应该让背景静态，感觉我做得太过了。或者可能是因为我访问得太频繁。  在下一次更新中，我将使其看起来像这样 https://preview.redd.it/u5l7hb7hx40d1.png?width=1912&amp;format=png&amp;auto=webp&amp;s=6c8a4c5e74cd51e520a3 158035e3c53d2c659fbc &lt; p&gt;我现在对编码不太了解，但我仍然在 chatGPT 和学习的帮助下创建了这个网站。我使用了一些互联网上提供的预编程工具来进行定时器、反馈和投票。到目前为止我还没有花一分钱，请告诉我我应该改进什么。如果你能介绍一下我，这也会有很大的帮助使用一些新工具或网页布局。 忽略那个绝密按钮，它给我的迷恋留下了深刻的印象😅。但我现在放弃了计划。   由   提交/u/batman6113  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      https://preview.redd.it/4dufustgw40d1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=7adebb5c64b2651462d 7dc7c31ac4aba6f69fb7f web:-PHANTOMX9 项目 (phantomcodex9.github.io) （在 PC 中打开）我是很困惑是否应该让背景静态，感觉我做得太过了。或者可能是因为我访问得太频繁。  在下一次更新中，我将使其看起来像这样 https://preview.redd.it/u5l7hb7hx40d1.png?width=1912&amp;format=png&amp;auto=webp&amp;s=6c8a4c5e74cd51e520a3 158035e3c53d2c659fbc &lt; p&gt;我现在对编码不太了解，但我仍然在 chatGPT 和学习的帮助下创建了这个网站。我使用了一些互联网上提供的预编程工具来进行计时器、反馈和投票。到目前为止我还没有花一分钱，请告诉我我应该改进什么。如果你能介绍一下我，这也会有很大的帮助使用一些新工具或网页布局。 忽略那个绝密按钮，它给我的迷恋留下了深刻的印象😅。但我现在放弃了计划。   由   提交/u/batman6113  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqsd4u/what_should_i_improve/</guid>
       <pubDate>Mon, 13 May 2024 06:11:15 GMT</pubDate>
     </item>
     <item>
       <title>得到一份工作</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</link>
-      <description><![CDATA[大家好，我听到并看到过一些人的帖子，说只需了解 HTML、CSS 和 JS 就可以获得入门级角色。我想知道这是否是事实，或者这是否是彻头彻尾的谎言。我对进入网络开发非常感兴趣，因为这是我能想到的最快的事情，可能没有那么多的社交互动，而且我可以远程做一些事情。现在我根本没有编码经验，但如果是这样的话，我肯定会追求。我可能会自学，而且我知道在远程工作之前我必须先为一家公司工作。非常感谢任何建议，谢谢！   由   提交/u/VIBES95  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我听到并看到过一些人的帖子，说只需了解 HTML、CSS 和 JS 就可以获得入门级角色。我想知道这是否是事实，或者这是否是彻头彻尾的谎言。我对进入网络开发非常感兴趣，因为这是我能想到的最快的事情，可能没有那么多的社交互动，而且我可以远程做一些事情。现在我根本没有编码经验，但如果是这样的话，我肯定会追求。我可能会自学，而且我知道在远程工作之前我必须先为一家公司工作。非常感谢大家的任何建议，谢谢！   由   提交/u/VIBES95  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</guid>
       <pubDate>Mon, 13 May 2024 05:06:26 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>开发人员做出架构决策吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</link>
-      <description><![CDATA[受一位前同事的恩惠，我开始了一份自由职业。这是一个6人团队。业务方面有 2 个人，工程方面是 CTO、UI/UX 设计师、前端开发人员和我（BE） 在与 CTO 会面时，我被告知主站点有已经由我之前的开发人员构建了。他希望我使用 django 为网站的其余功能构建微服务。我总是觉得 django 用来构建微服务很奇怪，因为它是更重量级的框架之一（相对于 Flask），但这并不是唯一奇怪的部分。 所以他让我计划一下我将如何构建微服务。我反问他有什么规格吗？我应该使用sql、nosql作为数据库吗？网络套接字？长轮询？短轮询？网络钩子？我应该使用memcache作为缓存吗？他说他让我来决定。 所以整件事似乎...违反直觉，微服务的好处是我可以选择自己的堆栈，我不能选择那个，但是更重要的事情，例如sql，没有sql，我可以自由选择。 BE dev 应该做出这些决定吗？如果我们是的话，那么 CTO 的意义何在？   由   提交 /u/FrostNovaIceLance   [链接] [评论]]]></description>
+      <description><![CDATA[受一位前同事的恩惠，我开始了一份自由职业。这是一个6人团队。业务方面有 2 个人，工程方面是 CTO、UI/UX 设计师、前端开发人员和我（BE） 在与 CTO 会面时，我被告知主站点有已经由我之前的开发人员构建了。他希望我使用 django 为网站的其余功能构建微服务。我总是觉得 django 用来构建微服务很奇怪，因为它是更重量级的框架之一（相对于 Flask），但这并不是唯一奇怪的部分。 所以他让我计划一下我将如何构建微服务。我反问他有什么规格吗？我应该使用sql、nosql作为数据库吗？网络套接字？长轮询？短轮询？网络钩子？我应该使用memcache作为缓存吗？他说他让我来决定。 所以整件事似乎...违反直觉，微服务的好处是我可以选择自己的堆栈，我不能选择那个，但是更重要的事情，例如 sql ，没有 sql，我可以自由选择。 BE 开发人员应该做出这些决定吗？如果我们是的话，那么 CTO 的意义何在？   由   提交 /u/FrostNovaIceLance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</guid>
       <pubDate>Mon, 13 May 2024 02:19:28 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[   太多，无法手动完成。有没有办法自动删除这些垃圾邮件页面？或者这个域名本质上已经死了？    由   提交/u/Citrous_Oyster  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqmaca/how_do_you_deal_with_a_hacked_wordpress_site_that/</guid>
       <pubDate>Mon, 13 May 2024 00:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近有什么关于 HTML 和 CSS 的好书（印刷版）吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqm8ri/any_good_recent_books_printed_on_html_css/</link>
-      <description><![CDATA[寻找一些教授语义 HTML 和 HTML 的内容。 CSS 中的变量和伪元素之类的东西。   由   提交 /u/seamew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqm8ri/any_good_recent_books_printed_on_html_css/</guid>
-      <pubDate>Mon, 13 May 2024 00:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>短期合同：还有吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqm7o3/shortterm_contracts_still_a_thing/</link>
-      <description><![CDATA[大家好。 我以为我终于找到了 25 年后退休的工作，但有几个因素让我想去别处看看。主要是钱。我的工资绝对过低，而且附加福利（稳定、远程工作、悠闲）已经不值得了。 所以我需要找工作。离婚且没有孩子意味着我可以去任何地方，这很有吸引力。大约在2010年，当时经济不景气，我在亚特兰大的一家公司做了1099。唯一的缺点是必须存钱来缴税。但我不知道这是否仍然是一个问题。公司现在只是直接招聘，还是还有 6 个月合同的市场？ 谢谢！   由   提交 /u/DesertWanderlust   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqm7o3/shortterm_contracts_still_a_thing/</guid>
-      <pubDate>Mon, 13 May 2024 00:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关移动按钮的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqj3zg/need_help_with_moving_buttons/</link>
-      <description><![CDATA[嗨，我遇到了此页面响应能力的问题，我似乎无法弄清楚为什么一切都移动得这么厉害。任何帮助将非常感激。    由   提交/u/gggggpedws  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqj3zg/need_help_with_moving_buttons/</guid>
-      <pubDate>Sun, 12 May 2024 21:54:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
