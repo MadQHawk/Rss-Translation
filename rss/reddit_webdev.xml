@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 13 May 2024 12:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 15:14:27 GMT</lastBuildDate>
     <item>
-      <title>[入门]多部分前端的高效数据获取</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqxxbk/beginner_efficient_data_fetching_for_a/</link>
-      <description><![CDATA[我正在构建一个页面，其中包含多个部分，显示特色作者、书籍和交易等数据。我需要决定为前端获取这些数据的最佳后端方法。有两个主要选项：  组合响应：后端返回包含整个页面的所有数据（特色作者、书籍、交易）的单个响应。&lt; /li&gt; 单独获取：前端进行单独的 API 调用，从专用后端端点获取每个部分的数据（特色作者、特色书籍、最新交易）。  最好的方法是什么？另外，有什么我可以遵循的指南吗？   由   提交 /u/NisemonoNaWa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqxxbk/beginner_efficient_data_fetching_for_a/</guid>
-      <pubDate>Mon, 13 May 2024 12:20:31 GMT</pubDate>
+      <title>有人尝试过 deepkit 框架吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr1pjh/anyone_tried_deepkit_framework/</link>
+      <description><![CDATA[看起来很有前途，有人尝试过吗？ 它与 Nestjs 和 adonisjs 或其他 Web 框架相比如何 https://deepkit.io/   由   提交/u/abuassar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr1pjh/anyone_tried_deepkit_framework/</guid>
+      <pubDate>Mon, 13 May 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>关于 PageSpeed Insights / Lighthouse 分数的思考</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqxek4/thoughts_on_pagespeed_insights_lighthouse_scores/</link>
-      <description><![CDATA[抛开这两个工具之间的差异，我想问一下你们对此的立场： “性能”指标：对于现实世界中的大多数动态网站或网络应用程序来说，获得满分（尤其是在移动设备上）并不是最佳选择。对于单页静态站点，请务必使用它。  “可访问性”、“最佳实践”指标：始终争取满分或足够接近的分数，除非出现技术要求过高的特殊情况。  “SEO”指标：一定要努力争取“可访问性”和“最佳实践”等满分，但还有一点余地，因为某些用例只是从 SEO 中获得微不足道的好处-友好的。  想法？   由   提交/u/nightmare-bwtb    reddit.com/r/webdev/comments/1cqxek4/thoughts_on_pagespeed_insights_lighthouse_scores/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqxek4/thoughts_on_pagespeed_insights_lighthouse_scores/</guid>
-      <pubDate>Mon, 13 May 2024 11:52:52 GMT</pubDate>
+      <title>2024 年的姜戈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr1byn/django_in_2024/</link>
+      <description><![CDATA[我想为自己建立一个网站，并为家庭成员的企业建立另一个网站。我最终想创建一个小的投资组合并在当地找到一些工作。  我的收入来源是 9-5 岁的 Python 和 C++ 编程（研究组织 - 在企业软件开发方面没有经验）。到目前为止，我唯一的 Web 开发经验是在 Django 2.0 相对较新的时候使用 Django 与 Firebase 和 Postgres 的小型电子商务网站。从那以后我就开始涉足 html/css/js 了。我非常喜欢使用所有这些技术，但它们是否具有长久的生命力并且对于小型企业之类的 Web 开发有意义吗？ 如今，该领域的各种堆栈、工具和学习资源的数量这是令人难以置信的压倒性的，我只能每晚留出几个小时来进行这项冒险。学习多个新技术平台是不可行的。   由   提交/u/bbarr93  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr1byn/django_in_2024/</guid>
+      <pubDate>Mon, 13 May 2024 14:55:54 GMT</pubDate>
     </item>
     <item>
-      <title>初级/中级软件工程师职位简历审查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqx1u7/cv_review_for_juniormid_sofware_engineer_position/</link>
-      <description><![CDATA[嗨， 我最近大学毕业，获得了计算机科学学位（仍在等待结果），但我一直担任软件工程师现在已经工作了 2 年（实习生职位）。 我从实习年开始（大学第三年），一年后获得了一份永久合同，这使我能够在同一家公司完成大学的最后一年。&lt; br /&gt; 今天我发现我不会晋升为Junior，因为所有新的招聘和晋升都被暂停，直到天知道什么时候，这很有趣，因为公司在过去三年里每年经历10-15%的增长。&lt; br /&gt; 无论如何，我需要对我的简历提出一些意见。我的计划是申请初级和中级职位，也许我会足够幸运。 https://imgur.com/a /GjyH95l   由   提交 /u/edomielka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqx1u7/cv_review_for_juniormid_sofware_engineer_position/</guid>
-      <pubDate>Mon, 13 May 2024 11:33:13 GMT</pubDate>
+      <title>为什么形式不继承风格？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr16y5/why_do_forms_not_inherit_style/</link>
+      <description><![CDATA[CSS菜鸟，在我发现我的一个按钮后才发现这种行为（页面中只有一个是实际的  相反） ) 正在使用后备字体进行渲染。经过长时间的谷歌搜索后，我明白您需要明确告诉表单元素继承字体。但现在我想知道：为什么这是默认行为？这背后有什么原因吗？也许是历史原因？这很令人困惑，我认为不应该这样，但肯定有比我更有经验的人可以解释它。   由   提交/u/filo_922   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr16y5/why_do_forms_not_inherit_style/</guid>
+      <pubDate>Mon, 13 May 2024 14:49:53 GMT</pubDate>
     </item>
     <item>
-      <title>单独的桌面来运行 Docker？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqwjzn/separate_desktop_to_run_docker/</link>
-      <description><![CDATA[由于 XCode，我目前在 MacBook Pro 上在家工作，但 HD 空间有限。我很难让 Docker 运行起来。其他人做什么？有一个单独的台式机（例如 Mac Mini）来运行 Docker，还是只是购买一台具有更多 RAM/HD 的更强大的笔记本电脑？ 我的笔记本电脑上目前有 256GB HD 和 16GB RAM，我喜欢能够随身携带我的代码（因此无需仅移动到桌面）。 提前致谢。   由   提交 /u/bob_ross_happy_tree   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqwjzn/separate_desktop_to_run_docker/</guid>
-      <pubDate>Mon, 13 May 2024 11:03:43 GMT</pubDate>
+      <title>需要一些建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr0hzo/need_some_advice/</link>
+      <description><![CDATA[我正在从事一个与举办政治讨论有关的项目，该讨论对于主流内容来说可能过于激烈。我想有一天托管类似于 4chan 的东西，但我不知道如何在不被 Google 之类的东西禁止的情况下实现这一点（如果它甚至有 ToS 的话）。我需要做什么才能避免违反互联网上的 ToS 规则，才能拥有像 4chan 克隆这样的 skmething？   由   提交/u/Penuel_9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr0hzo/need_some_advice/</guid>
+      <pubDate>Mon, 13 May 2024 14:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>从 DockerHub 拉取的镜像中检索文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqwdjp/retrieving_files_from_an_image_pulled_from/</link>
-      <description><![CDATA[        由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqwdjp/retrieving_files_from_an_image_pulled_from/</guid>
-      <pubDate>Mon, 13 May 2024 10:53:32 GMT</pubDate>
+      <title>需要一些建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr0hwc/need_some_advice/</link>
+      <description><![CDATA[我正在从事一个与举办政治讨论有关的项目，该讨论对于主流内容来说可能过于激烈。我想有一天托管类似于 4chan 的东西，但我不知道如何在不被 Google 之类的东西禁止的情况下实现这一点（如果它甚至有 ToS 的话）。我需要做什么才能避免违反互联网上的 ToS 规则，才能拥有像 4chan 克隆这样的 skmething？   由   提交/u/Penuel_9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr0hwc/need_some_advice/</guid>
+      <pubDate>Mon, 13 May 2024 14:19:51 GMT</pubDate>
     </item>
     <item>
-      <title>媒体查询的最佳实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqwayz/best_practice_for_media_queries/</link>
-      <description><![CDATA[我正在走自学路线，我想知道进行媒体查询的最有效方法，我应该： &lt; ol&gt; 为每种尺寸制作单独的样式表 将所有内容塞入每个媒体查询中：  @media（最大宽度：600px）{  .Header {} .Body {} .Footer {}  } @media（最大宽度：800px）{  .Header {} .Body {} .Footer {}  }  各个部分的媒体查询。   @media（最大宽度：600px）{  .Header {}  } @media（最大宽度：800px）{  .Header {}  } @media（最大宽度: 600px) {  .Body {}  } @media（最大宽度：800px）{  .Body {}  }   由   提交/u/sandbaggingblue  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqwayz/best_practice_for_media_queries/</guid>
-      <pubDate>Mon, 13 May 2024 10:49:16 GMT</pubDate>
+      <title>API测试平台反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr0cvh/feedback_for_api_testing_platform/</link>
+      <description><![CDATA[大家好！成为这个对 webdev 充满热情的社区的一员真是太棒了！我们创建了这个 API 测试平台，它是一个 GenAI 支持的 API 测试云，非常感谢您提供有关其外观、感觉和测试的反馈！我们为这个平台感到自豪，但也知道适当的反馈确实有助于使新事物变得更好！它称为 QAPi，您可以在此处访问它。    由   提交 /u/qyrusai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr0cvh/feedback_for_api_testing_platform/</guid>
+      <pubDate>Mon, 13 May 2024 14:13:43 GMT</pubDate>
     </item>
     <item>
-      <title>如何让我的网站看起来不那么过时？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqvtoz/how_do_i_make_my_websites_look_less_dated/</link>
-      <description><![CDATA[我为一个学校项目制作了一个网站，发现我制作的大多数网站看起来都很旧。有谁知道我怎样才能让它们看起来更好？ 这是上下文网站：https ://cspe-project.static.domains/CSPE2/index.html   由   提交/u/irelephant_T_T   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqvtoz/how_do_i_make_my_websites_look_less_dated/</guid>
-      <pubDate>Mon, 13 May 2024 10:18:53 GMT</pubDate>
+      <title>有什么办法可以从谷歌地图中获取信息吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cr03bo/any_way_to_pull_info_from_google_maps/</link>
+      <description><![CDATA[我正在尝试建立一个网站，在该网站中我需要来自某个国家/地区的学校、药店和超市的所有信息？只有姓名和位置信息。 这些数据可以从 Google 地图中提取吗？任何见解都值得赞赏。   由   提交/u/Hohoho7878   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cr03bo/any_way_to_pull_info_from_google_maps/</guid>
+      <pubDate>Mon, 13 May 2024 14:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>反应状态和不必要的重新渲染</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqvqun/react_state_and_unnecessary_rerendering/</link>
-      <description><![CDATA[我在很长一段时间后才开始反应，并且遇到了一个反复出现的问题，即状态应该进入组件内部还是外部。想象一下，我有一个模态组件的 [isOpen, setIsOpen] 状态，理想情况下我希望它位于模态组件内，因为我不希望父级每次打开/关闭时都重新渲染。但现在我使用 children 属性将某些内容放入模态中，并且该某些内容具有“关闭模态”按钮。因此，我需要访问 setIsOpen 函数。 进入模态的 jsx 是在模态组件外部定义的，因此无法直接访问模态状态，但是如果我将状态移出到共享父组件，则整个父组件每次切换时都会重新渲染。 我已经将 React.Children 与  结合使用&gt;React.cloneElement 将状态传递到孩子的道具中，它有点有效，但看起来很老套，反应文档基本上告诉你不要这样做。 也反应上下文看起来它可以在这里使用，但所有示例似乎都将它用于应用程序范围的状态，而不是单个组件。 我缺少什么吗？或者我们只是不关心重新渲染父级？ 编辑：当我想到这一点时，每个输入都有一个在按键时更新的状态的表单，这意味着整个表单都是重新渲染的-每次按键时都会呈现。如果每个输入都是一个具有自己状态的单独组件，这似乎是一个可以解决的问题，但是当您想要提交表单时，如何提取所有内容呢？    由   提交/u/I_Eat_Pink_Crayons  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqvqun/react_state_and_unnecessary_rerendering/</guid>
-      <pubDate>Mon, 13 May 2024 10:13:22 GMT</pubDate>
+      <title>还价让我重新考虑......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqzqsp/counter_offer_got_me_rethinking/</link>
+      <description><![CDATA[我即将与支付公司签署合同。他们刚刚获得了新一轮融资。看起来是一个非常好的增长机会。  组织严密、看似良好、有文化的公司，对经营者的印象非常好。我还将使用我想要的技术堆栈。 问题：（并不是真正的问题） 我收到了公司的还价。他们的报价+200欧元，这对于我赚的钱来说是一笔不小的数目，并且承诺搬到最近收购的公司。 （没有被收购，因为他们只拥有公司的股份）我喜欢 techstack 和新收购公司的项目。但目前转入该公司只是一个承诺，而不是非常切实的东西。而且我真的不知道当一个他们不选择的陌生人进入他们的公司时他们会作何反应。 我不喜欢我现在的工作条件，项目缺乏高层和同事来了解更多。所以改变是必要的 对此有什么见解/想法吗？  编辑：如果我基本上接受还盘，我将成为另一家公司的一部分。更适合我所做的事情以及做同样事情的同事。  新优惠是更多未知领域   由   提交 /u/Rigidyragidywrecked   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqzqsp/counter_offer_got_me_rethinking/</guid>
+      <pubDate>Mon, 13 May 2024 13:47:58 GMT</pubDate>
     </item>
     <item>
-      <title>请评价我的网站/博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqveb3/please_rate_my_websiteblog/</link>
-      <description><![CDATA[我是一名 Angular 开发人员，我有一个 Angular 博客，在其中发布了很多有关企业 Angular 的内容。我也是一名自由职业者，曾经有过这个博客网站：https://ng-journal.com并且总是对此感到有点尴尬，因为我个人根本不喜欢这个设计。作为一名前端开发人员，我觉得这可能会给出一个糟糕的介绍，尽管博客本身的内容。 现在，我终于花了一些时间重做网站/博客，并尽我最大的努力让设计变得更好。我尝试使用单色并使用尽可能少的颜色（因为我对颜色理论很烂），并且具有很多悬停效果和良好的对齐效果。我觉得该网站在移动设备上看起来更糟，但无论如何，它是：https://stefanhaas.dev If如果您看到了我的开发人员大脑没有看到的任何缺陷，请随时分享您的批评意见 - 我将不胜感激。 仅供参考：我想使用该网站向潜在的自由职业客户介绍自己，并且也作为开发社区的博客。希望这些目标与设计保持一致。   由   提交 /u/haasilein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqveb3/please_rate_my_websiteblog/</guid>
-      <pubDate>Mon, 13 May 2024 09:49:47 GMT</pubDate>
+      <title>周末网站速度极快，但周一上午 9 点就变慢</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqzfzg/website_extremely_fast_on_weekend_but_slow_as/</link>
+      <description><![CDATA[您好， 第一个电子商务网站。我们设置了cloudflare DNS 和quickcloud CDN，并且该网站在过去两周内速度非常快。 我们的网站在工作日期间速度变慢有什么原因吗？我联系了托管提供商，他们说他们不会缩减资源。 谢谢   由   提交 /u/Initial-Tradition714    reddit.com/r/webdev/comments/1cqzfzg/website_extremely_fast_on_weekend_but_slow_as/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqzfzg/website_extremely_fast_on_weekend_but_slow_as/</guid>
+      <pubDate>Mon, 13 May 2024 13:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>为用户获得报酬而支付的款项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqvceh/payments_for_users_to_get_paid/</link>
-      <description><![CDATA[嗨， 我正在开发一个网站，用户可以通过竞争任务/共享交易来积累积分，并且在获得积分后超过 5 欧元，- 他们可以获得付款。我对网络应用程序中的支付不太熟悉，但我认为 Stripe 是正确的选择？如果我错了，请纠正我。是否可以仅将 Stripe 设置为使用您网站上的“付款”部分？在 YouTube 上的几乎所有教程中，他们都将其设置为付款方式，但我希望相反，将其用作付款方式。而且我自己可以将现金存入 Stripe，以确保有足够的价值来支付用户。   由   提交 /u/belikerich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqvceh/payments_for_users_to_get_paid/</guid>
-      <pubDate>Mon, 13 May 2024 09:45:58 GMT</pubDate>
+      <title>10 个最佳 Web 开发 Ruby 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqzcp7/10_best_ruby_frameworks_for_web_development/</link>
+      <description><![CDATA[       由   提交/u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqzcp7/10_best_ruby_frameworks_for_web_development/</guid>
+      <pubDate>Mon, 13 May 2024 13:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>符合人体工程学的做法，适合长时间坐着</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqv9af/ergonomic_practices_for_long_sitting_hours/</link>
-      <description><![CDATA[   直到你的背部开始疼痛，你才在乎！ 🧐👨‍💻分享一些好的做法： 正确的坐姿：🫵 - 保持背部挺直，肩膀向后。 - 打字时手臂应呈 90 度角，手腕伸直。 - 腿也应弯曲成 90 度角，脚平放在地板上。 休息和运动：🚶‍♂️🚶‍♀️ - 每 30 分钟短暂休息一下，站立、伸展或运动四处走动。 人体工程学设置：👀 - 椅子：调整椅子高度，使双脚平放在地面上。 - 桌子：确保显示器顶部位于或略低于视线水平。 - 键盘和鼠标：将它们放在触手可及的地方，以便您的手臂处于放松的位置。   由   提交 /u/Faithlessforever   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqv9af/ergonomic_practices_for_long_sitting_hours/</guid>
-      <pubDate>Mon, 13 May 2024 09:39:52 GMT</pubDate>
+      <title>初学者问题：列间隙太大。改变间隙没有任何作用。网格模板列：重复（4,1fr）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqz9rd/beginner_question_colum_gap_is_way_too_big/</link>
+      <description><![CDATA[   /u/aunghtetnaing  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqz9rd/beginner_question_colum_gap_is_way_too_big/</guid>
+      <pubDate>Mon, 13 May 2024 13:26:29 GMT</pubDate>
     </item>
     <item>
-      <title>您使用什么库（或正则表达式）来审查/阻止用户名/文本中不需要的（诽谤）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cquj8w/what_library_or_regex_do_you_use_to_censorblock/</link>
-      <description><![CDATA[有什么建议吗？   由   提交 /u/iwaitinlines   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cquj8w/what_library_or_regex_do_you_use_to_censorblock/</guid>
-      <pubDate>Mon, 13 May 2024 08:47:06 GMT</pubDate>
+      <title>寻求建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqz095/looking_for_advice/</link>
+      <description><![CDATA[所以我对 CSS 非常了解，对于初学者 id 来说。我已经学习 CSS 大约一年了。  但是我真的很不擅长制作很酷的网站，几乎每个网站看起来都很垃圾，就像一些 90 年代风格的复古奇怪的颜色网页。  我编写后端代码，老实说它很糟糕。 我如何擅长设计漂亮的网页？任何建议表示赞赏🙏    由   提交 /u/lucidity123466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqz095/looking_for_advice/</guid>
+      <pubDate>Mon, 13 May 2024 13:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>什么样的项目能让我成为大师？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqu1zl/what_kind_of_project_will_make_me_a_master/</link>
-      <description><![CDATA[嘿伙计们，我已经学习 JS 一个月了，但我仍然感觉陷入困境，因为这个社区有非常优秀的开发人员。你们能给我推荐一些 javascript 项目来帮助我成为大师吗？请建议一些困难的项目我已经完成了一些初学者项目，但仍然感觉我被困住了。谢谢   由   提交/u/Motor-Silver484  /u/Motor-Silver484 reddit.com/r/webdev/comments/1cqu1zl/what_kind_of_project_will_make_me_a_master/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqu1zl/what_kind_of_project_will_make_me_a_master/</guid>
-      <pubDate>Mon, 13 May 2024 08:10:41 GMT</pubDate>
+      <title>本机安装与 Docker？ 2024年哪个更实用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqyyqd/native_installations_vs_docker_which_is_more/</link>
+      <description><![CDATA[标题说明了一切。我的机器上安装了 Python 和 Node，但希望从 XAMPP 升级该特定堆栈，因为此时我的机器上的应用程序基本上都是错误。我有时将 MySQL 用于 Python 和 Node 项目，因此手动安装有一个好处，但需要 Apache 来处理 PHP 的任何内容。我还知道 Docker 在过去几年中越来越成为一种标准，并且可能成为工作场所中一种有市场的技能。只是寻找关于当前开发市场中什么被认为是更有用的技能的意见（不希望成为完整的 DevOps）。   由   提交 /u/Fats-Falafel   /u/Fats-Falafel  reddit.com/r/webdev/comments/1cqyyqd/native_installations_vs_docker_which_is_more/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqyyqd/native_installations_vs_docker_which_is_more/</guid>
+      <pubDate>Mon, 13 May 2024 13:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>拥有应用程序开发方面的计算机和信息科学学士学位的人可以成为一名软件开发人员/工程师吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqtqfb/can_one_become_a_software_developer_engineer_with/</link>
-      <description><![CDATA[拥有这个学位可以申请软件开发人员的工作吗？    ;由   提交 /u/No_Television3883   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqtqfb/can_one_become_a_software_developer_engineer_with/</guid>
-      <pubDate>Mon, 13 May 2024 07:47:29 GMT</pubDate>
+      <title>Django 或静态站点生成器来创建产品评论网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqyvqz/django_or_static_site_generator_to_create_a/</link>
+      <description><![CDATA[我想创建一个产品评论网站。这些评论都是管理员发布的（没有用户评论或用户输入）。 我将 Django 用于涉及后端的项目，但为此我想我也许可以只使用静态站点生成器。 我认为我永远不会想要搜索或过滤器，而且廉价托管和不必摆弄数据库的吸引力对于这种想法来说听起来非常理想。 SSG 的维护工作（可能？）更少听起来也不错。但我有如此多的 Django 代码，我可能可以非常快速地构建这样一个网站，而不必学习 SSG（以前从未使用过）。 我真正拥有的只是不同的类别和图像. 这听起来可行吗？ 例如这样的网站： https://www.techradar.com/televisions 似乎您可以使用静态站点生成器来完成此操作。但你会建议反对吗？我有什么遗漏的吗？ 对 SSG 有什么建议吗（如果你建议我走这条路）？我想到了 Hugo，但与 Django 相比，模板语言似乎相当混乱。  谢谢！   由   提交 /u/ExLexNihilo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqyvqz/django_or_static_site_generator_to_create_a/</guid>
+      <pubDate>Mon, 13 May 2024 13:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>得到一份工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</link>
-      <description><![CDATA[大家好，我听到并看到过一些人的帖子，说只需了解 HTML、CSS 和 JS 就可以获得入门级角色。我想知道这是否是事实，或者这是否是彻头彻尾的谎言。我对进入网络开发非常感兴趣，因为这是我能想到的最快的事情，可能没有那么多的社交互动，而且我可以远程做一些事情。现在我根本没有编码经验，但如果是这样的话，我肯定会追求。我可能会自学，而且我知道在远程工作之前我必须先为一家公司工作。非常感谢大家的任何建议，谢谢！   由   提交/u/VIBES95  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</guid>
-      <pubDate>Mon, 13 May 2024 05:06:26 GMT</pubDate>
+      <title>您应该为 CI/CD 客户创建一个 Github 帐户吗？ （专门针对TinaCMS）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqyvqg/should_you_create_a_github_account_for_your/</link>
+      <description><![CDATA[我正在考虑使用 Astro 和 TinaCMS 作为我的 CMS 来从事自由职业。问题是，Tina 需要一个 Github 帐户，因为它将更改推送到您的存储库而不是数据库，然后触发您的网站在您选择的托管提供商中重建（我目前使用的是 Cloudflare Pages）。 我的问题是，我应该为客户创建一个 Github 帐户，还是应该使用我自己的帐户？ 如果我让他们成为一个 Github 帐户，后勤工作将如何进行？我应该首先在自己的存储库上处理该项目，然后在完成后将其复制到他们的存储库中吗？ 还有其他人在客户端网站上使用过 TinaCMS 吗？如果是这样，您的方法是什么？   由   提交/u/muffinman557  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqyvqg/should_you_create_a_github_account_for_your/</guid>
+      <pubDate>Mon, 13 May 2024 13:07:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
