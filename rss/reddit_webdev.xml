@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 13 May 2024 03:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:18:00 GMT</lastBuildDate>
+    <item>
+      <title>我应该改进什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqsd4u/what_should_i_improve/</link>
+      <description><![CDATA[      https://preview.redd.it/4dufustgw40d1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=7adebb5c64b2651462d 7dc7c31ac4aba6f69fb7f web:-PHANTOMX9 项目 (phantomcodex9.github.io) （在 PC 中打开）我是很困惑是否应该让背景静态，感觉我做得太过了。或者可能是因为我访问得太频繁。  在下一次更新中，我将使其看起来像这样 https://preview.redd.it/u5l7hb7hx40d1.png?width=1912&amp;format=png&amp;auto=webp&amp;s=6c8a4c5e74cd51e520a3 158035e3c53d2c659fbc &lt; p&gt;我现在对编码不太了解，但我仍然在 chatGPT 和学习的帮助下创建了这个网站。我使用了一些互联网上提供的预编程工具来进行定时器、反馈和投票。到目前为止我还没有花一分钱，请告诉我我应该改进什么。如果你能介绍一下我，这也会有很大的帮助使用一些新工具或网页布局。 忽略那个绝密按钮，它给我的迷恋留下了深刻的印象😅。但我现在放弃了计划。   由   提交/u/batman6113  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqsd4u/what_should_i_improve/</guid>
+      <pubDate>Mon, 13 May 2024 06:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>得到一份工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</link>
+      <description><![CDATA[大家好，我听到并看到过一些人的帖子，说只需了解 HTML、CSS 和 JS 就可以获得入门级角色。我想知道这是否是事实，或者这是否是彻头彻尾的谎言。我对进入网络开发非常感兴趣，因为这是我能想到的最快的事情，可能没有那么多的社交互动，而且我可以远程做一些事情。现在我根本没有编码经验，但如果是这样的话，我肯定会追求。我可能会自学，而且我知道在远程工作之前我必须先为一家公司工作。非常感谢任何建议，谢谢！   由   提交/u/VIBES95  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqrd7t/getting_a_job/</guid>
+      <pubDate>Mon, 13 May 2024 05:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机科学中最难的问题：居中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqrciw/hardest_problem_in_computer_science_centering/</link>
+      <description><![CDATA[       由   提交 /u/stefanjudis   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqrciw/hardest_problem_in_computer_science_centering/</guid>
+      <pubDate>Mon, 13 May 2024 05:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>故意阻塞渲染</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqrc8v/renderblocking_on_purpose/</link>
+      <description><![CDATA[       由   提交 /u/stefanjudis   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqrc8v/renderblocking_on_purpose/</guid>
+      <pubDate>Mon, 13 May 2024 05:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索结果中的域名提供商？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cqqj01/domain_name_provider_in_search_result/</link>
+      <description><![CDATA[      在 中搜索我的网站时，我注意到我的域名提供商已列出一些原因？我没有在任何代码中指定提供程序。 然后我尝试通过添加更多元标记来更改它，但这不起作用。另外，由于某种原因，我的网站图标没有显示？ 我尝试用谷歌搜索我的问题，但要么以前没有人问过，要么我没有得到任何结果，因为我不知道它的解剖结构google 搜索结果。 有人可以帮助我吗？   由   提交/u/Beenright  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cqqj01/domain_name_provider_in_search_result/</guid>
+      <pubDate>Mon, 13 May 2024 04:15:28 GMT</pubDate>
+    </item>
     <item>
       <title>作为有向图的复式记账</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqpaio/double_entry_bookkeeping_as_a_directed_graph/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>开发人员做出架构决策吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</link>
-      <description><![CDATA[受一位前同事的恩惠，我开始了一份自由职业。这是一个6人团队。业务方面有 2 个人，工程方面是 CTO、UI/UX 设计师、前端开发人员和我（BE） 在与 CTO 会面时，我被告知主站点有已经由我之前的开发人员构建了。他希望我使用 django 为网站的其余功能构建微服务。我总是觉得 django 用来构建微服务很奇怪，因为它是更重量级的框架之一（相对于 Flask），但这并不是唯一奇怪的部分。 所以他让我计划一下我将如何构建微服务。我反问他有什么规格吗？我应该使用sql、nosql作为数据库吗？网络套接字？长轮询？短轮询？网络钩子？我应该使用memcache作为缓存吗？他说他让我来决定。  BE 开发人员应该做出这些决定吗？如果我们是的话，那么 CTO 的意义何在？   由   提交 /u/FrostNovaIceLance   [链接] [评论]]]></description>
+      <description><![CDATA[受一位前同事的恩惠，我开始了一份自由职业。这是一个6人团队。业务方面有 2 个人，工程方面是 CTO、UI/UX 设计师、前端开发人员和我（BE） 在与 CTO 会面时，我被告知主站点有已经由我之前的开发人员构建了。他希望我使用 django 为网站的其余功能构建微服务。我总是觉得 django 用来构建微服务很奇怪，因为它是更重量级的框架之一（相对于 Flask），但这并不是唯一奇怪的部分。 所以他让我计划一下我将如何构建微服务。我反问他有什么规格吗？我应该使用sql、nosql作为数据库吗？网络套接字？长轮询？短轮询？网络钩子？我应该使用memcache作为缓存吗？他说他让我来决定。 所以整件事似乎...违反直觉，微服务的好处是我可以选择自己的堆栈，我不能选择那个，但是更重要的事情，例如sql，没有sql，我可以自由选择。 BE dev 应该做出这些决定吗？如果我们是的话，那么 CTO 的意义何在？   由   提交 /u/FrostNovaIceLance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqofkn/do_developers_make_architecture_decisions/</guid>
       <pubDate>Mon, 13 May 2024 02:19:28 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>Javascript 有时让我发疯，伙计</title>
       <link>https://www.reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/</link>
-      <description><![CDATA[我需要一个带有行和列的坐标对象。世界上最简单的对象。 interface Coords { row: number column: number }  但这不允许我轻松比较两个坐标为了平等。因此，我使用 equals 函数创建一个类： class Coords { row: number;列：数字；构造函数（行：数字，列：数字）{ this.row = row; this.column = 列； } equals(other: 坐标): boolean { return this.row === other.row &amp;&amp; this.column === other.column; } }  快进一点。我创建了一个Map，它允许我将坐标映射到值。 Map.get 和 Map.has 函数根本不起作用。经过一分钟的思考，我意识到这是因为 Coords 对象的相等性依赖于我的 .equals 函数，而 Map 使用 === 。所以我不能为此使用 Map。 我确信有人会说“你只是不习惯 JS”，好吧，当然，但是其他的语言对此有一个解决方案。 Python 有 __eq__。 Java 有 .equals。 C++ 和 C# 有 operator==。 我可以继续说下去。这个语言人。 。 。    由   提交 /u/Negative-Net7551    reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我需要一个带有行和列的坐标对象。世界上最简单的对象。 interface Coords { row: number column: number }  但这不允许我轻松比较两个坐标为了平等。因此，我使用 equals 函数创建一个类： class Coordinates { row: number;列：数字；构造函数（行：数字，列：数字）{ this.row = row; this.column = 列； } equals(other: 坐标): boolean { return this.row === other.row &amp;&amp; this.column === other.column; } }  快进一点。我创建了一个Map，它允许我将坐标映射到值。 Map.get 和 Map.has 函数根本不起作用。经过一分钟的思考，我意识到这是因为 Coords 对象的相等性依赖于我的 .equals 函数，而 Map 使用 === 。所以我不能为此使用 Map 。 我确信有人会说“你只是不习惯 JS”，好吧，当然，但是其他的语言对此有一个解决方案。 Python 有 __eq__。 Java 有 .equals。 C++ 和 C# 有 operator==。 我可以继续说下去。这个语言人。 。 。    由   提交 /u/Negative-Net7551    reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqmn4j/javascript_drives_me_nuts_sometimes_man/</guid>
       <pubDate>Mon, 13 May 2024 00:45:44 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[嗨，我遇到了此页面响应能力的问题，我似乎无法弄清楚为什么一切都移动得这么厉害。任何帮助将非常感激。    由   提交/u/gggggpedws  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cqj3zg/need_help_with_moving_buttons/</guid>
       <pubDate>Sun, 12 May 2024 21:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作一个看起来整洁的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqi4sn/making_a_website_that_looks_neat/</link>
-      <description><![CDATA[大家好！我从来都不是一个网络开发者，但我做过各种电子项目。我想制作一个网站来展示我已完成的一些项目，并且看起来不错甚至是独特的。我知道如何使用 HTML/CSS/Bootstrap 和后端框架，只是不知道如何让网站看起来漂亮。我想要一些好的资源，甚至是我可以使用的其他工具。    由   提交/u/ronnyjordeen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqi4sn/making_a_website_that_looks_neat/</guid>
-      <pubDate>Sun, 12 May 2024 21:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费构建以添加到简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqi2ud/building_for_free_to_add_to_resume/</link>
-      <description><![CDATA[我一直在考虑为初创公司创建免费的登陆页面，甚至电子商务网站。这样做的目的是为了积累经验并为我的简历添加内容，因为我即将从计算机科学专业毕业并且工作经验为 0。 有什么想法吗？    由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqi2ud/building_for_free_to_add_to_resume/</guid>
-      <pubDate>Sun, 12 May 2024 21:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我 24 岁的网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqhv0w/my_24_years_old_website/</link>
-      <description><![CDATA[https://celmeli.com/web /virgonline/index.html 今天，我决定让我 24 年前在高中时期创建的网站重新上线。    由   提交 /u/xkdhc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqhv0w/my_24_years_old_website/</guid>
-      <pubDate>Sun, 12 May 2024 20:58:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理视频块</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqg0xf/handling_video_chunks/</link>
-      <description><![CDATA[我正在开发一个宠物项目，其中我将实时视频录制的临时上传文件对象分块发送到后端，但是当我存储时本地存储中的块作为 mp4 文件，它的持续时间比块的持续时间长，我也尝试了 webm 和二进制文件，但没有任何效果。之后我还需要将所有块连接到视频中。我需要帮助寻找资源或来自某人的建议也会非常有帮助。   由   提交/u/pr7nce00  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqg0xf/handling_video_chunks/</guid>
-      <pubDate>Sun, 12 May 2024 19:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：使用 ChatGPT 治疗机器人构建我的第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cqfb49/help_needed_building_my_first_website_with_a/</link>
-      <description><![CDATA[您好！ 我是 Web 开发新手，十多年前只有创建静态网页的基本经验。我现在正在寻找一个新项目来进一步发展我的技能。我有兴趣使用 ChatGPT API 创建一个包含聊天机器人的简单网页，它的作用就像心理治疗师一样。鉴于可用的平台过多，我发现自己不知所措，不知道从哪里开始，无论是开发还是托管。 您能否建议一下：1. 哪些平台最适合初学者开发集成网站聊天机器人？ 2. 托管此类网站最简单的选择是什么？ 3. 您能否分享一下我应该遵循的任何提示或一般步骤，以在这种情况下有效地使用 ChatGPT API？ 谢谢😁！   由   提交/u/pulsarttt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cqfb49/help_needed_building_my_first_website_with_a/</guid>
-      <pubDate>Sun, 12 May 2024 19:06:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
