@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢纳特！</description>
-    <lastBuildDate>Tue, 14 May 2024 09:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 12:23:20 GMT</lastBuildDate>
     <item>
-      <title>了解 OpenAI GPT-4o：技术细节</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crnnjt/understanding_openai_gpt4o_technical_details/</link>
-      <description><![CDATA[嘿各位 Reddit 用户， 我很高兴看到 OpenAI 的最新版本 GPT-4o，它结合了文本到具有情感、视觉等功能的文本生成。然而，从技术角度来看，我很难理解它是如何工作的。 作为熟悉转换器和嵌入的人，我了解 GPT 部分的基础知识，但我很好奇：   视觉/情感/声音数据如何编码并嵌入到模型中？ 是否基于传统计算机视觉技术（例如，卷积神经网络）还是全新的东西？ 视觉组件如何与 GPT-4o 的文本生成功能交互？有没有融合视觉和文本信息的具体机制？  我已经搜索了 OpenAI 的公告，但我想更深入地了解技术细节。   p&gt; 任何人都可以向我指出相关论文或解释的方向，以阐明这一点吗？ 我不是在寻找营销摘要或“这很神奇！”回应。我真诚地想了解 GPT-4o 功能的技术基础。 欢迎分享您的知识和见解，让我们一起探索计算机视觉和自然语言处理的迷人交叉点！ &lt; /div&gt;  由   提交 /u/ankaer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnnjt/understanding_openai_gpt4o_technical_details/</guid>
-      <pubDate>Tue, 14 May 2024 09:06:21 GMT</pubDate>
+      <title>聊天 gpt4overloaded</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crqioy/chat_gpt4overloaded/</link>
+      <description><![CDATA[昨晚我终于解决了我困扰了几周的问题：让聊天 gpt、gemini、claude 编写 api 调用以将 square 连接到 google床单。它从来没有工作过。 昨晚chatgpt4o 经过几次迭代后做到了。 今天早上系统出现了问题。 Open Ai 近期有建立新数据中心的计划吗？与所有这些免费客户一起，视觉长时间聊天以及它解决我的编码问题的方式是每次都重写整个脚本！系统负载似乎明显增大。   由   提交 /u/BlackrockSeafood   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crqioy/chat_gpt4overloaded/</guid>
+      <pubDate>Tue, 14 May 2024 12:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>从多个文档中获取信息并创建满足特定要求的文本的最佳方法？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crnknx/best_way_to_get_information_out_of_multiple/</link>
-      <description><![CDATA[所以我正在写一篇关于我知之甚少的主题的提交，这让我疯狂地以专业和完整的方式填写所有要求方式。 我正在考虑使用 ChatGPT4 或任何其他 GPT 衍生品来完成此任务。 我的想法是给出我拥有的所有文档作为基础，然后告诉 GPT 哪些文档是它需要编写的章节和子章节。它应该保留我已有的文本，也许可以添加更多内容并填写空白。另外+如果它可以保持语言相同并且不添加大量“彩色无用的填充文本”。  这对于 ChatGPT4 可行吗？或者您会推荐另一个 GPT 吗？如果它能完成这项任务，我就准备付钱。   由   提交/u/paoea  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnknx/best_way_to_get_information_out_of_multiple/</guid>
-      <pubDate>Tue, 14 May 2024 09:00:45 GMT</pubDate>
+      <title>我要求 GPT-4o 创建一些关于 AI 和电影《她》的模因。这就是我得到的！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crqinv/i_asked_gpt4o_to_create_some_memes_about_ai_and/</link>
+      <description><![CDATA[       由   提交/u/Positive_Box_69   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crqinv/i_asked_gpt4o_to_create_some_memes_about_ai_and/</guid>
+      <pubDate>Tue, 14 May 2024 12:07:28 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道 ChatGPT Desktop 的系统要求是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crnkaa/does_anyone_know_what_the_system_requirements_for/</link>
-      <description><![CDATA[我似乎无法在任何地方找到列表。我运行的是 2020 Macbook Pro（Intel，16GB RAM，v14.4.1），但收到一条消息“您无法打开应用程序“ChatGPT”，因为此 Mac 不支持此应用程序”消息。 还有其他人看到这个吗？   由   提交/u/jwd2017  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnkaa/does_anyone_know_what_the_system_requirements_for/</guid>
-      <pubDate>Tue, 14 May 2024 09:00:11 GMT</pubDate>
+      <title>对于我们这样的组织来说，这是一件大事。它为我们真正做出改变打开了大门。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crqga3/this_is_a_big_deal_for_organizations_like_ours_it/</link>
+      <description><![CDATA[   /u/MartianMaterial  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crqga3/this_is_a_big_deal_for_organizations_like_ours_it/</guid>
+      <pubDate>Tue, 14 May 2024 12:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>当我通过 Apple ID 帐户使用 ChatGPT 时，我的个人资料图片为空白。为什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crnjbg/when_i_use_chatgpt_with_my_apple_id_account_my/</link>
-      <description><![CDATA[当我使用我的 Google 帐户时，它显示该帐户的个人资料图片，但不显示我的 Apple 帐户的个人资料图片。有什么方法可以使用我的 Apple 帐户显示它吗？只是想知道。   由   提交/u/Double_Abalone_2148   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnjbg/when_i_use_chatgpt_with_my_apple_id_account_my/</guid>
-      <pubDate>Tue, 14 May 2024 08:58:17 GMT</pubDate>
+      <title>正在更新我的应用程序并看到了这个。微软 Prometheus 比 ChatGPT 更好？？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq90x/was_updating_my_apps_and_saw_this_microsoft/</link>
+      <description><![CDATA[   /u/evil701  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq90x/was_updating_my_apps_and_saw_this_microsoft/</guid>
+      <pubDate>Tue, 14 May 2024 11:53:11 GMT</pubDate>
     </item>
     <item>
-      <title>谁应该拿走我的钱</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crnbm7/who_should_take_my_money/</link>
-      <description><![CDATA[你好，我是一名学生，我即将进行一些考试，我需要人工智能的帮助。对于这里有经验的用户来说，在我上传图像并要求它为我解决问题的情况下，付费聊天 GPT 更好还是 Gemini 高级。更少的数学问题，更多关于具体的化学和生物学领域   由   提交 /u/_--Ali--_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnbm7/who_should_take_my_money/</guid>
-      <pubDate>Tue, 14 May 2024 08:42:39 GMT</pubDate>
+      <title>问题：4o 会取代 MYGPT 的 gpt4 吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq68p/question_will_4o_replace_gpt4_for_mygpts/</link>
+      <description><![CDATA[想知道 4o + 内存是否会合并到 MYGPT 中。我昨天查了一下公告，只发现MYGPY的免费了。感谢您的帮助。   由   提交 /u/Mozbee1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq68p/question_will_4o_replace_gpt4_for_mygpts/</guid>
+      <pubDate>Tue, 14 May 2024 11:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲4o</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crn6zz/4o_in_europe/</link>
-      <description><![CDATA[大家好。我正在努力寻找有关以下 2 个主题的信息： 1) 4o 在欧洲也是免费的吗？我现在可以取消当前的 plus 订阅吗？ 2) 欧洲可以使用视频功能吗？我看不到任何启动该模式的图标。机器人还回答说可能是某些地区不可用。 非常感谢。   由   提交/u/L1l_K1M   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn6zz/4o_in_europe/</guid>
-      <pubDate>Tue, 14 May 2024 08:32:45 GMT</pubDate>
+      <title>为什么 ChatGPT 和 Gemini 中的模型更改图标相同？ （星形）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq5bo/why_are_the_model_change_icons_are_the_same_in/</link>
+      <description><![CDATA[      https://preview.redd.it/48f2z4ynqd0d1.png?width=511&amp;format=png&amp;auto=webp&amp;s=3ba41c51ef4e 3a9352b846c1a105e8c459a6bf23 https://preview .redd.it/47sdi7rpqd0d1.png?width=400&amp;format=png&amp;auto=webp&amp;s=198168d0af307a5c10a170f1fd9e56f3f57777f0   由   提交 /u/brianelete   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq5bo/why_are_the_model_change_icons_are_the_same_in/</guid>
+      <pubDate>Tue, 14 May 2024 11:47:33 GMT</pubDate>
     </item>
     <item>
-      <title>您使用哪种型号进行 Plus 订阅编码？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crn51g/which_model_are_you_using_for_coding_with_plus/</link>
-      <description><![CDATA[您使用其中的哪种模型进行编码？或者您使用 API 密钥    由   提交/u/Philipp_Nut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn51g/which_model_are_you_using_for_coding_with_plus/</guid>
-      <pubDate>Tue, 14 May 2024 08:28:45 GMT</pubDate>
+      <title>乔</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq4sx/joe/</link>
+      <description><![CDATA[&lt;表&gt;      由   提交/u/Messsyfloor   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq4sx/joe/</guid>
+      <pubDate>Tue, 14 May 2024 11:46:42 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 对比 Claude-3 Opus 对比 GPT-4 Turbo</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crn1su/gpt4o_vs_claude3_opus_vs_gpt4_turbo/</link>
-      <description><![CDATA[     &lt; /td&gt; 要求男孩在点“一个”时在篮子里放一个芒果，在点“两个”时放一个橙子，当订购“三个”时，需要从篮子中取出一个苹果；当订购“四个”时，需要从篮子中取出一个芒果和橙子。给出的订单序列为 12332142314223314113234 在上述订单序列结束时，篮子里总共有多少个水果？ 11 是正确答案    由   提交 /u/SideMurky8087   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn1su/gpt4o_vs_claude3_opus_vs_gpt4_turbo/</guid>
-      <pubDate>Tue, 14 May 2024 08:21:51 GMT</pubDate>
+      <title>Google I/O 直播链接。太平洋时间上午 9:30 开始</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq4ls/google_io_livestream_link_starting_at_930am_pt/</link>
+      <description><![CDATA[       由   提交 /u/Vladiesh   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq4ls/google_io_livestream_link_starting_at_930am_pt/</guid>
+      <pubDate>Tue, 14 May 2024 11:46:23 GMT</pubDate>
     </item>
     <item>
-      <title>哇，如果 MSFT 投入了这么多钱，我会很高兴它首先出现在 Mac 上......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crn0fu/wow_i_wouldnt_be_happy_in_the_place_of_msft_that/</link>
-      <description><![CDATA[       由   提交/u/vasarmilan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn0fu/wow_i_wouldnt_be_happy_in_the_place_of_msft_that/</guid>
-      <pubDate>Tue, 14 May 2024 08:19:01 GMT</pubDate>
+      <title>人工智能约翰·J·H·约翰的故事施密特</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq47t/the_ai_story_of_john_jh_schmidt/</link>
+      <description><![CDATA[   同时给我 6 岁的儿子讲一个可爱的睡前故事，讲述我如何发誓自从我在一次错误的失踪行为中失去了我最好的朋友……我设法想出了这个故事的想法……享受吧。   由   提交/u/kodakzack93  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq47t/the_ai_story_of_john_jh_schmidt/</guid>
+      <pubDate>Tue, 14 May 2024 11:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>太棒了💯??也许吧。给我一个标题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crn074/so_freaking_good_mayhap_gimme_a_title_for_this/</link>
-      <description><![CDATA[   /u/Rajdeep_Tour_129   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn074/so_freaking_good_mayhap_gimme_a_title_for_this/</guid>
-      <pubDate>Tue, 14 May 2024 08:18:32 GMT</pubDate>
+      <title>GPT-4o 真的那么擅长编码吗？到目前为止你的经验是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq3vw/is_gpt4o_really_that_good_at_coding_whats_your/</link>
+      <description><![CDATA[    /u/Spirited-Animal2404   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq3vw/is_gpt4o_really_that_good_at_coding_whats_your/</guid>
+      <pubDate>Tue, 14 May 2024 11:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>是的，我不会撒谎，我认为它还没有掌握文本艺术😂😂</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crmznq/ya_im_not_gonna_lie_i_dont_think_its_mastered/</link>
-      <description><![CDATA[       由   提交 /u/ForceTypical   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmznq/ya_im_not_gonna_lie_i_dont_think_its_mastered/</guid>
-      <pubDate>Tue, 14 May 2024 08:17:27 GMT</pubDate>
+      <title>有4o个问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq2lp/got_4o_question/</link>
+      <description><![CDATA[如何像视频中那样访问语音助手和摄像头功能？我单击麦克风按钮并能够与 gpt 通话，但屏幕看起来与视频中显示的不同。    由   提交 /u/Disastrous-Prompt981    reddit.com/r/ChatGPT/comments/1crq2lp/got_4o_question/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq2lp/got_4o_question/</guid>
+      <pubDate>Tue, 14 May 2024 11:43:02 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 商店实际上仍然有用吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crmzbe/is_the_gpt_store_actually_relevant_still/</link>
-      <description><![CDATA[   /u/vasarmilan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmzbe/is_the_gpt_store_actually_relevant_still/</guid>
-      <pubDate>Tue, 14 May 2024 08:16:41 GMT</pubDate>
+      <title>难道我做错了什么？或者我只是无法访问 chatgpt 4o</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crq0og/am_i_doing_something_wrong_or_do_i_just_not_have/</link>
+      <description><![CDATA[    &lt; /a&gt;  我在网站上没有看到该选项，当我在应用程序上搜索 chatgpt 4o 时，它告诉我不允许交互。   由   提交 /u/-_-ARCH-_-   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq0og/am_i_doing_something_wrong_or_do_i_just_not_have/</guid>
+      <pubDate>Tue, 14 May 2024 11:39:53 GMT</pubDate>
     </item>
     <item>
-      <title>这是AI生成的还是美颜相机？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crmz55/is_this_ai_generated_or_beauty_camera/</link>
-      <description><![CDATA[      https://preview.redd.it/dp71wnebpc0d1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=fa0aa364e1126 645d9ac09fffb42be815b59810a   由   提交/u/Odd_Association_4910   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmz55/is_this_ai_generated_or_beauty_camera/</guid>
-      <pubDate>Tue, 14 May 2024 08:16:21 GMT</pubDate>
+      <title>我重新订阅了 ChatGPT Plus，哇，我对它的书写方式感到惊讶。连懒都不行。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crptqb/i_resubscribed_to_chatgpt_plus_and_wow_i_am/</link>
+      <description><![CDATA[它像人类一样写作，并且不使用像“所以”、“遗嘱”和“它不是，它是”这样的类似人工智能的单词a”   由   提交 /u/Happy_Traveller_2023   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crptqb/i_resubscribed_to_chatgpt_plus_and_wow_i_am/</guid>
+      <pubDate>Tue, 14 May 2024 11:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>这真的是聊天机器人的未来吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crmy1i/is_this_really_the_future_of_chatbots/</link>
-      <description><![CDATA[   /u/vasarmilan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmy1i/is_this_really_the_future_of_chatbots/</guid>
-      <pubDate>Tue, 14 May 2024 08:14:07 GMT</pubDate>
+      <title>人工智能助手</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crpqxo/ai_assistant/</link>
+      <description><![CDATA[尤其是 4o 附带的语音和视觉功能，我有兴趣扩展 ChatGPT 的使用，使其基本上成为个人助理。我不知道如何实现的一个关键因素是如何将 ChatGPT 与 Google 日历集成，因为我不是一个真正有技术头脑的人。如果能够让自定义 GPT 成为我的私人助理，并让该助理在我的日历中安排任务和约会，这将改变游戏规则。有人做过类似的事情或有任何想法吗？   由   提交/u/Jake1517  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crpqxo/ai_assistant/</guid>
+      <pubDate>Tue, 14 May 2024 11:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>有态度的老鼠 - 什么是 Mumble Rap？ （新音乐视频，音乐由 suno 制作，艺术来自 ChatGPT，歌词由我创作）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crmudk/rats_with_attitudes_whats_mumble_rap_new_music/</link>
-      <description><![CDATA[      &amp;# 32；由   提交 /u/PlasmoTV   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmudk/rats_with_attitudes_whats_mumble_rap_new_music/</guid>
-      <pubDate>Tue, 14 May 2024 08:06:38 GMT</pubDate>
+      <title>GPT-4o 仍需要一些基础培训</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crpqmf/gpt4o_still_needing_some_basic_training/</link>
+      <description><![CDATA[      正在路上，但尚未实现！ &lt;!-- SC_ON - -&gt;  由   提交/u/xfakex  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crpqmf/gpt4o_still_needing_some_basic_training/</guid>
+      <pubDate>Tue, 14 May 2024 11:23:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
