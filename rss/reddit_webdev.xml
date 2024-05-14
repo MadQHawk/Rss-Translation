@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 14 May 2024 18:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 21:12:34 GMT</lastBuildDate>
+    <item>
+      <title>非官方 TikTok Api 可以转发、分享、点赞和评论视频吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs3423/unofficial_tiktok_api_to_repost_share_like_and/</link>
+      <description><![CDATA[基本上正如标题所说，不确定我是否在正确的地方询问，但想知道是否有一个非官方的 Api 允许这样做？谢谢！   由   提交/u/brik-6  /u/brik-6 reddit.com/r/webdev/comments/1cs3423/unofficial_tiktok_api_to_repost_share_like_and/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs3423/unofficial_tiktok_api_to_repost_share_like_and/</guid>
+      <pubDate>Tue, 14 May 2024 21:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于学习/研究成瘾，你们有什么建议或心态可以分享吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs2n5y/any_tip_or_mindset_any_of_you_could_share_about/</link>
+      <description><![CDATA[我“完成”的最后一个业余项目时间回到 2021 年，我已经 3 年没有发货过任何东西了，因为我一直在阅读或“学习”。 “最佳方法”或“最快的框架”尽管我清楚地知道不存在这样的事情，只有权衡。 每次我想要开始某件事时，我都会读到有关利弊的信息，然后我决定继续调查或学习，但我什么也没完成. 我读过几乎所有内容：所有云、无服务器、编程语言、Web 框架、容器编排，凡是你能想到的。 我脑海中的一些想法让我陷入消极螺旋的想法是：  如果你需要一种更高效的语言并且将来无法重写怎么办？ 如果您出现问题并最终产生大量云账单怎么办？ 如果您的这个想法不适合您此时的最佳选择怎么办？生活是大到你无法处理还是小到无法成为重要的副业？  我读过：闪亮对象综合症，过早优化是一切之母邪恶，还有一大堆类似的短语，但我仍然无法克服它。 有什么建议可以将这种学习/调查成瘾转变为完成任务成瘾吗？   由   提交 /u/Ok_Appointment2593   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs2n5y/any_tip_or_mindset_any_of_you_could_share_about/</guid>
+      <pubDate>Tue, 14 May 2024 20:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管非常简单的 Docker 网站的最佳平台是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs2htf/whats_the_best_platform_to_host_very_simple/</link>
+      <description><![CDATA[我的任务是迁移到网站。一个是flask，另一个是django。它们都已经在 docker 组件中运行，并且它们都只是制造工厂的信息网站：A）不经常更新（如果有的话）B）不会获得那么多流量，因为它们是 B2B 公司. 由于客户可以直接访问他们的平台，我想用尽可能简单的东西来设置它们，我正在考虑 Heroku 或 Render。哪一种更容易/更便宜？还有其他我没有考虑的竞争者吗？ 注释： - 不确定为什么以前的开发人员选择 Flask 和 django 来完成如此简单的事情。就是这样。 - 我没有考虑 AWS，因为我发现控制台太复杂，无法供客户端使用。我假设 Azure 和其他大型平台也将具有类似的复杂性。   由   提交 /u/sateliteconstelation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs2htf/whats_the_best_platform_to_host_very_simple/</guid>
+      <pubDate>Tue, 14 May 2024 20:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Express子路由器中间件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs2cl3/express_subrouter_middleware/</link>
+      <description><![CDATA[大家好，最近我发现自己正在尝试组织 Api 的不同部分来连续使用express.Router() myRouter.use(myMiddleware) myRouter.post(&#39;/my/path&#39;,...)  现在我发现，如果我将中间件添加到路由器，它也会添加到稍后在不同路由器中配置的所有其他路由！相当反直觉。有没有办法让我分离控制器并让它们拥有自己的中间件堆栈？    由   提交/u/tip2663  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs2cl3/express_subrouter_middleware/</guid>
+      <pubDate>Tue, 14 May 2024 20:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个插件，可以将我的下拉菜单变成可滚动的轮子</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs2bx6/looking_for_a_plugin_that_will_turn_my_dropdown/</link>
+      <description><![CDATA[我正在寻找更像 iOS 滚轮样式的下拉菜单，但嵌入在 javascript 中。 我找到了一个名为 Better Scroll 的插件，但我似乎无法让它工作。 寻找其他可能工作的插件，最好与 Angular 一起使用。   由   提交 /u/--angels-fanatic--   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs2bx6/looking_for_a_plugin_that_will_turn_my_dropdown/</guid>
+      <pubDate>Tue, 14 May 2024 20:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 div 锚定到页面最底部</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs29wv/anchoring_div_to_very_bottom_of_page/</link>
+      <description><![CDATA[嘿，我在将 div 锚定到网页的最底部时遇到了问题。由于某种原因，它并不像   Position:absolute; 那么简单。底部：0；左：0；  因为它实际上并没有到达那里。   由   提交 /u/gronktonkbabonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs29wv/anchoring_div_to_very_bottom_of_page/</guid>
+      <pubDate>Tue, 14 May 2024 20:27:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个更好的笔记/生产力平台。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs225w/i_am_building_a_better_notetakingproductivity/</link>
+      <description><![CDATA[大家好，我正在构建一个生产力应用程序，您可以在其中存储资源、突出显示 PDF、在基于块的编辑器中写笔记以及 AI 代理在文档上下文中回答并编写上下文信息，它还在每个文件和文件夹中提供独特的团队聊天功能。它是现有平台的混合体，我想知道您是否愿意检查一下。 链接：https://thedrive.ai&lt; /a&gt;   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs225w/i_am_building_a_better_notetakingproductivity/</guid>
+      <pubDate>Tue, 14 May 2024 20:19:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由网站吐槽</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs21ao/freelance_website_roast/</link>
+      <description><![CDATA[我找不到工作，我想你们中的许多人都在同一条船上。  我想我应该尝试一下，并尝试成为一名自由 Web 开发人员。不管怎样，这是我的网站。  https://www.cumuluswebdesign.net/ 我正在寻找对文案/设计/我错过的事情/我不满意的事情/等等的初步印象。 事实证明，定价文案是最棘手的事情。根据网站需求（博客、电子商务、CMS 等），我收取的费用有很多变数。我试图传达这一点，但不确定是否会出现。  无论如何，谢谢！烤走吧！    由   提交/u/endingtheworld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs21ao/freelance_website_roast/</guid>
+      <pubDate>Tue, 14 May 2024 20:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>注释图像——超级失败者初学者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs1pgj/annotating_an_image_super_ultra_loser_beginner/</link>
+      <description><![CDATA[嘿嘿！我是世界上最低标准的网页设计师 - 基本上，我精通 Wix 和 Squarespace，还有令人难以置信的蹩脚的 Leaflet 技能。 我正在尝试制作一个交互式系列对 SS 或 WP 中的图像进行注释。理想情况下，它看起来像这样： https:// www.nytimes.com/interactive/2022/08/26/us/trump-search-affidavit-release.html 有什么简单的工具可以在这里使用吗？   由   提交 /u/YogaRonSwanson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs1pgj/annotating_an_image_super_ultra_loser_beginner/</guid>
+      <pubDate>Tue, 14 May 2024 20:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的朋友客户制作了一个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs0w7b/made_a_website_for_my_friends_client/</link>
+      <description><![CDATA[嘿伙计们，希望你们一切都好！所以基本上我使用 React 为我的朋友客户制作了一个简单的一页网站，他们目前正在使用 c-panel 托管他们看起来很糟糕的 php 编码网站。我尝试更新那里的节点版本并联系他们，但没有运气。 我的问题是，对于这样的事情，我要私下存储代码并托管它，并且对我来说能够链接他们的域名，对我来说最好的选择是什么？有什么免费的吗？如果没有，最便宜的选择是什么？ ps。那里不会进行销售或任何类似的事情，所以我确信会有免费的选项可供使用 让你一天的休息愉快:)   由   提交 /u/DigImmediate7291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs0w7b/made_a_website_for_my_friends_client/</guid>
+      <pubDate>Tue, 14 May 2024 19:31:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Locust 测试了我的服务器，但对结果感到困惑。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs098v/ive_tested_my_server_with_locust_confused_with/</link>
+      <description><![CDATA[      我是第一次使用 Locust，并且在带有 nginx 和 uwsgi 的本地 PC。测试中为什么 RPS（每秒请求数）太低？ PC 规格：4 核，4 GB RAM 注意：locust 运行在不同的机器上，应用程序运行在不同的机器上单独的机器 我在运行 Locust 时也附加了报告屏幕截图和顶部命令输出： https://preview.redd.it/yy2bfp9ftf0d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=518d4bfb0bb0 a9dd19c6c9ac400569cac83f99dc https://preview .redd.it/dscaum9ftf0d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=29caa5b3297dd91145f136dad7906042d20bd4b7 https://preview.redd.it/t2jd5t9ftf0d1.png?width=1920&amp;format=png&amp;auto=webp&amp; amp;s=65ee5732d63683d435c726​​a78497044bb58807cf  顶部命令： ​ https://preview.redd.it/tu3peacztf0d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=5b61d474bf1 c1597701e6fa2ae5a44a77bfd5832 所以这意味着服务器每秒只能处理 4 个请求，而登录每秒只能处理 2 个请求，用户数量为 100，这意味着什么？ I&#39;我很困惑，请帮助找出我的应用程序每秒可以处理的请求数。 谢谢。   由   提交/u/harkishan01   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs098v/ive_tested_my_server_with_locust_confused_with/</guid>
+      <pubDate>Tue, 14 May 2024 19:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何利用 Gen AI 来提高生产力？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crzakt/how_are_you_leveraging_gen_ai_to_boost_your/</link>
+      <description><![CDATA[你如何使用它？喜欢将代码粘贴到 ChatGPT 聊天框中或使用插件或任何其他方式吗？您认为它减少了您的开发时间吗？    由   提交/u/Amazing_Guava_0707   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crzakt/how_are_you_leveraging_gen_ai_to_boost_your/</guid>
+      <pubDate>Tue, 14 May 2024 18:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有滑动 div 列的网站？这种风格有名字吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crz8kq/website_with_slidingdiv_columns_is_there_a_name/</link>
+      <description><![CDATA[世界您好！  不确定这现在流行还是不久前流行，但我最近看到过一些这样的网站，其中的滑动栏彼此叠置！  我现在正在看的是这个网站：https://forgotten-shapes.com  如何了解有关此类网站的更多信息？我开始对 CSS 和 JS 代码进行逆向工程，但我想知道这种样式是否有名称，或者是否有任何关于 CSS 技巧的文章或我可以阅读的内容？我只是习惯了标准的引导布局，这有点让我头疼。 有人熟悉这种风格吗？您对这种设计方法有何看法？寻求好友 :D   由   提交 /u/hyperclick76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crz8kq/website_with_slidingdiv_columns_is_there_a_name/</guid>
+      <pubDate>Tue, 14 May 2024 18:24:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zscaler 公司因“证书错误”而拒绝我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crz559/companies_zscaler_rejects_my_website_because_of/</link>
+      <description><![CDATA[我最近在业余时间构建了一个 scrum-poker 应用程序，将其部署在云中并通过 certbot，它使用 Let&#39;s Encrypt。 当我今天尝试向同事展示该工具时，该网站无法访问，因为我们的 Zscaler 实例报告该页面有“错误证书”。没有给出其他线索。我通过 ssllabs 测试 运行域名，证书评级为 A （A+ 是最好的评级）。 我不太了解证书，所以现在有点迷茫。 谁能告诉我证书是什么？证书存在问题，如何改进？   由   提交/u/tim-hilt  /u/tim-hilt  reddit.com/r/webdev/comments/1crz559/companies_zscaler_rejects_my_website_because_of/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crz559/companies_zscaler_rejects_my_website_because_of/</guid>
+      <pubDate>Tue, 14 May 2024 18:20:21 GMT</pubDate>
+    </item>
     <item>
       <title>一个非常愚蠢的问题，但我真的需要帮助..</title>
       <link>https://www.reddit.com/r/webdev/comments/1cryxz7/a_really_dumb_question_but_i_really_need_help/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cryxz7/a_really_dumb_question_but_i_really_need_help/</guid>
       <pubDate>Tue, 14 May 2024 18:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以使用移动用户界面轻松编辑网站内容的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cry6f5/looking_for_something_to_edit_website_content/</link>
-      <description><![CDATA[嗨，首先我不是 Web 开发人员。我可以编写 html 和 css（到目前为止还不是专业的），并且我了解一点 JavaScript 和 php。我这样做是出于爱好。 我需要为一个朋友创建一个小型静态 html 网站，他想在其中自己编辑一些内容。如果可能的话，还有一张桌子。 ui 需要简单并且可以在智能手机上使用，因为他对 html 之类的东西没有任何线索。 由于该网站托管在专用网站 Hoster 上，我无法使用需要 NodeJS 的 CMS 。我可以访问 PHP 和 MySQL。 我使用 Pico CSS 框架创建了该网站。 （目前）上面没有 JavaScript 或 php。 内容将是静态文本或表格。  所以我基本上想要的是一个带有登录选项的小型管理面板，其中的用户界面允许修改预定义的内容。 不需要添加文本区域或表格之类的东西，这是如果他想要更多内容，我仍然可以手动执行此操作。 我尝试了 Drupal 和 Typo3，它们可以直接安装在网站主机上，但它们似乎超载，而且我已经创建了网站并且无法不知道如何在那些 CMS 上使用它......这远远超出了我的知识范围。 有适合​​我的用例的东西吗？ 提前致谢！   由   提交 /u/Jannomag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cry6f5/looking_for_something_to_edit_website_content/</guid>
-      <pubDate>Tue, 14 May 2024 17:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 python 脚本创建一个“hack-y”SSG？ SSG的替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crxvua/creating_a_hacky_ssg_with_python_scripts_ssg/</link>
-      <description><![CDATA[如果我编写脚本来替换所有页面的页脚和页眉会怎么样。 然后我还可以编写查找html 文件中的某种语言（即我的模板语言），并从 JSON 或 YAML 文件中提取数据。 基本上是一种 hacky 类型的 SSG？对于那些只想要页脚和页眉部分模板以及从 JSON 文件打印数据的 SSG 的人来说，我想知道是否最好使用 python 脚本来执行此操作。 我喜欢这个解决方案的简单性，以及如何通过这种方式轻松创建自己的语法。 我是否错过了某种方式，这最终会导致我搬起石头砸自己的脚？    由   提交 /u/ExLexNihilo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crxvua/creating_a_hacky_ssg_with_python_scripts_ssg/</guid>
-      <pubDate>Tue, 14 May 2024 17:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置文本样式的作弊代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crxdnd/cheat_code_for_styling_text/</link>
-      <description><![CDATA[Tailwind 有一个排版插件，它的生产力非常高！自从我昨天发现它以来，我开始在“关于我们”部分的所有样板中使用它，并包装用户提交的内容，哇😮 3行代码就是你需要的令人惊叹的文本。  //tailwind.config.js 插件：[require(&#39;@tailwindcss/typography&#39;)] 在 html 中： ;您的内容 这是 CSSaaS，触手可及的外包排版 有了 daisyUI，我将不再需要做出样式选择 standontheshouldersofgiants&lt; /h1&gt;   由   提交/u/jogicodes_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crxdnd/cheat_code_for_styling_text/</guid>
-      <pubDate>Tue, 14 May 2024 17:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个最好用？ Stripe - SquareUp - Shopify？其他的？混合？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crx22k/which_is_best_to_use_stripe_squareup_shopify/</link>
-      <description><![CDATA[我正在为我的业务开发多个电子商务网站。我决定使用的平台需要的一些必需品是：  销售实体产品 销售数字产品（视频、食谱、Pdf 等） 销售课程（例如狗训练课程，一次性付款） 销售订阅 -（能够以用户身份访问网站的不同部分） 潜在等级  我向能够管理网站某些方面的人销售网站 亲自销售（这就是我倾向于 SquareUp 的原因，但从什么角度来看）我听说 Shopify 使在线管理变得更容易）  理想情况下，我会为所有人使用一个平台，以便我能掌握这一点。但你们觉得怎么样？ 我制作的网站使用以下技术堆栈：  NextJS 13 TailwindCSS &lt; /ul&gt;   由   提交 /u/BeanNCheeze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crx22k/which_is_best_to_use_stripe_squareup_shopify/</guid>
-      <pubDate>Tue, 14 May 2024 16:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个无代码视觉提示生成器，并且正在寻找 beta 测试人员来帮助塑造它以满足您的需求。我们来试试吧！ （链接第一条评论）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crwqod/ive_developed_a_nocode_visual_prompt_builder_and/</link>
-      <description><![CDATA[ 由   提交/u/Admirable_Proof8972   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crwqod/ive_developed_a_nocode_visual_prompt_builder_and/</guid>
-      <pubDate>Tue, 14 May 2024 16:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 html/css/js 拖动与 audiostretch（yt 上的audiostretch memes）相同的音频/视频速度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crwdc6/how_to_change_audiovideo_speed_while_i_am/</link>
-      <description><![CDATA[我想仅使用 html/css/js 更改音频/视频速度，如audiostretch   由   提交/u/Lumnu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crwdc6/how_to_change_audiovideo_speed_while_i_am/</guid>
-      <pubDate>Tue, 14 May 2024 16:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在实施 embla 轮播时需要一些帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crw0eh/need_some_help_in_implementing_embla_carousel/</link>
-      <description><![CDATA[社区您好， 我正在尝试实现 embla-carousel，当您滑动幻灯片时，上一张幻灯片会显示出来将堆叠在前一个的顶部。这是 codesandbox&lt; /a&gt;，可以看到，当你滑动幻灯片时，幻灯片会抖动得非常明显。知道如何修复它吗？谢谢！   由   提交 /u/Pipe-Silly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crw0eh/need_some_help_in_implementing_embla_carousel/</guid>
-      <pubDate>Tue, 14 May 2024 16:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何隐藏/更改此 chrome 密码弹出窗口的位置，该弹出窗口阻止了我网站中的某些指令。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crvf85/how_to_hide_change_posotion_of_this_chrome/</link>
-      <description><![CDATA[      https://preview.redd.it/itumt55bye0d1.png?width=771&amp;format=png&amp;auto=webp&amp;s=e9f84959add2018c9 09c9ec9012afe6551a8d214 有什么方法可以将此浏览器工具提示的位置更改为左侧或顶部，因为它位于我网站文本的顶部？或者我是否可以让我的文本出现在该工具提示的顶部？有什么解决方法可以解决这个问题吗？谢谢！ 每当我关注密码字段时，这个工具提示总是出现。右侧的这些指令被设计为仅在密码字段获得焦点时出现，并在焦点移开时消失。因此，如果不将焦点从字段上移开，就无法隐藏该工具提示，这也会隐藏说明。工具提示隐藏焦点的唯一方法是按 esc 键，所以也许我们可以模拟 esc 键或它可能起作用的东西？如果可能的话请告诉我。谢谢！ 如果有帮助的话，我正在使用 Angular。   由   提交 /u/nefrodectyl   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crvf85/how_to_hide_change_posotion_of_this_chrome/</guid>
-      <pubDate>Tue, 14 May 2024 15:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP Post 已被 CORS 阻止</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crv9ii/http_post_has_been_blocked_by_cors/</link>
-      <description><![CDATA[我们必须在大学里开发一个小组项目。我们使用 Angular 作为前端，使用 Spring 作为后端，一切都在 docker compose 堆栈中运行。 我无法设法从前端向后端发出 post 请求。使用邮递员使用此主体时效果很好：  {&quot;username&quot;:&quot;user&quot;,&quot;firstname&quot;:&quot;peter&quot;,&quot;lastname&quot;:&quot;parker&quot;; ,“生日”:“2024-05-14”,“电子邮件”:“p@p.com”,“密码”:“密码”}  但是，当我尝试通过网站上的表单执行帖子时，我在 js 控制台中收到此错误：  Access to XMLHttpRequest at &#39;http://localhost:8080/&#39; from origin &#39; http://localhost&#39; 已被 CORS 策略阻止：对预检请求的响应未通过访问控制检查：请求的资源上不存在“Access-Control-Allow-Origin”标头。  我在网上读到了这个错误，它说 CORS 握手失败。有谁知道如何解决这个问题或者我应该如何尝试调试这个问题？ 这是我的角度函数：  user: User = new User();密码重复：字符串=&#39;&#39;；登录用户名: string = &#39;&#39;;登录密码: string = &#39;&#39;;用户类型：字符串=&#39;&#39;； httpOptions = { headers: new HttpHeaders({ &#39;Content-Type&#39;: &#39;application/json&#39;, Accept: &#39;*/*&#39;, &#39;Access-Control-Allow-Origin&#39;: &#39;http://localhost:8080&#39;, } ), };构造函数(私有http: HttpClient) {} onRegister() { if (this.user.password !== this.passwordRepeat) { console.error(&#39;Passwort stimmt nicht mit Passwort-Wiederholung überein&#39;);返回; } const 端点 = this.usertype === &#39;管理员&#39; ? &#39;/创建/管理&#39; : &#39;/创建/玩家&#39;; this.http .post(&#39;http://localhost:8080&#39;, this.user, this.httpOptions) .subscribe( (response) =&gt; { console.log(&#39;成功: &#39;, response); } , (错误) =&gt; { console.error(&#39;错误: &#39;, 错误); }  当我在检查器中检查请求时，它看起来与邮递员中的相同： { &quot;username&quot;: &quot;my-user- name”、“firstname”：“我的名字”、“lastname”：“我的姓氏”、“电子邮件”：“me@mydomain.com”、“密码”：“123” 、“生日”：“2024-05-14” }  我非常感谢任何帮助！   由   提交 /u/SryyBae   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crv9ii/http_post_has_been_blocked_by_cors/</guid>
-      <pubDate>Tue, 14 May 2024 15:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我在登录和注册页面中不包含任何 <header> 或 <footer>，网站是否会受到 SEO 处罚？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crv76z/will_a_website_be_penalized_by_seo_if_i_dont/</link>
-      <description><![CDATA[大家好， 正如本文的标题所示，根据您的经验，您对此场景有何看法？&lt; /p&gt; 我正在考虑网站的其他主页实际上具有  和  标记的情况。但对于登录和注册页面，我不想分散注意力，只需要一个徽标和一个  以及  、&lt; button&gt; 、 &lt;h1&gt; 和 &lt;p&gt; 标签。 我担心 SEO 对此有何反应选择。 谢谢   由   提交 /u/Banzambo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crv76z/will_a_website_be_penalized_by_seo_if_i_dont/</guid>
-      <pubDate>Tue, 14 May 2024 15:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何与人联系以获得工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crv3xi/how_to_connect_with_people_for_jobs/</link>
-      <description><![CDATA[大家好， 首先让我说我已经准备好在公司工作了。没有学位等。我在一家公司担任开发人员工作了 18 个月，但我被解雇了，因为他们公司不复存在了。我创建了一些网站、MERN 堆栈商店和一个 nextjs 博客组合网站。 LinkedIn。 正如许多人所说，这不仅与您所知道的内容有关，还与您认识的人有关。在现实生活中，我时不时会遇到开发人员，但我从来没有达到他们可能会在他们公司推荐我的程度。 你如何与人们联系以在公司找到工作？  感谢您的阅读   由   提交 /u/avadakava   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crv3xi/how_to_connect_with_people_for_jobs/</guid>
-      <pubDate>Tue, 14 May 2024 15:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有暂存和生产环境的静态站点。如何设置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cruz8x/static_site_with_staging_and_production/</link>
-      <description><![CDATA[大家好， 我最近一直在探索静态网站构建器（以及无头 CMS 的世界）。非常有趣的东西！ 无论技术如何配置，对我来说一个关键功能是拥有一个用于测试事物的暂存环境。  对于无头......无论现有的部署技术如何......是否有创建临时和生产环境的最佳实践。  由于大多数这些工具似乎都可以与 Git 配合使用，那么是否就像在存储库上建立暂存和生产分支并在准备上线时在它们之间移动内容一样简单？  如果您想做到这一点，是否必须使用 CI CD 工具之类的工具，或者某些大型部署工具中的功能通常足以满足此目的？  TIA！    由   提交/u/danielrosehill  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cruz8x/static_site_with_staging_and_production/</guid>
-      <pubDate>Tue, 14 May 2024 15:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为有联系表单的朋友托管单页（非 SPA）静态 HTML/CSS 网站的最佳位置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cruw6j/best_place_to_host_a_single_page_not_spa_static/</link>
-      <description><![CDATA[我是一名开发人员，通过为一位好朋友建立了一个简单的 HTML 网站来宣传他的服务，从而帮助他摆脱了小型企业的困境。我们想要一个联系表格，以便尽可能轻松地向他发送消息，否则它完全是一个静态网站。像 Cloudflare 或 Netlify 这样的地方是最好的选择吗？ 编辑：我想找到一个可以支持联系表单的主机，这样我的朋友就可以从一个地方管理他的网站，进行托管和托管处理表单以使其更容易。   由   提交 /u/deprecateddeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cruw6j/best_place_to_host_a_single_page_not_spa_static/</guid>
-      <pubDate>Tue, 14 May 2024 15:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>升级 jQuery：努力打造健康的 Web</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cruffv/upgrading_jquery_working_towards_a_healthy_web/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cruffv/upgrading_jquery_working_towards_a_healthy_web/</guid>
-      <pubDate>Tue, 14 May 2024 15:06:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
