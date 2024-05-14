@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 14 May 2024 12:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:14:27 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 首席执行官 Sam Altman 似乎将“她”作为 ChatGPT 更新的灵感来源。也许不！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crt1q8/openai_ceo_sam_altman_has_seemingly_cited_her_as/</link>
+      <description><![CDATA[来自我们新闻执行编辑 Brian Barrett 的 ChatGPT 更新： 说实话，感觉就像 人工智能来自一部电影：她，2013 年 Spike Jonze 的科幻电影，它正确地预见了未来，人工智能关系可以轻松取代人类联系——嗯，感觉上、听起来上都是这样。在演示中，ChatGPT 的声音与她明星斯嘉丽·约翰逊的声音非常相似。如果对参考点有任何疑问，Altman 推文“她”——只是一个词——在发布后不久事件。 她是一部很棒的电影。它对人工智能的看法出人意料地细致入微，它对技术与人类关系核心的描述更倾向于乌托邦，而不是下意识的怀疑。尽管如此，对任何试图在这个世界中展现琼斯的世界——或者任何科幻试金石的世界——的人来说，还是有一个恳求：再看一遍。一路走过去。只是为了确保我们对未来的目标达成一致。 在此处阅读完整的专栏文章。你怎么认为？ https://www.wired.com/story/openai-gpt -4o-chatgpt-artificial-intelligence-her-movie/   由   提交/u/wiredmagazine  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crt1q8/openai_ceo_sam_altman_has_seemingly_cited_her_as/</guid>
+      <pubDate>Tue, 14 May 2024 14:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助寻找图像分割模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crru74/help_to_find_a_image_segmentation_model/</link>
+      <description><![CDATA[大家好！ 我需要一个可以“拆分”的模型（给我一个边界框）内部有多个文档扫描的图像。文件可以是身份证、税卡、保险等等。之后我将单独处理它。 我在 HF 和 MS Azure IA Studio 中搜索了很多，但我发现只有针对动物、人物、风景等训练的模型。 . 有什么建议吗？ 谢谢   由   提交 /u/Grogdunn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crru74/help_to_find_a_image_segmentation_model/</guid>
+      <pubDate>Tue, 14 May 2024 13:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>要求反馈！第一个人工智能网页设计师和开发人员，由 GPT-4o 提供支持</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crrgo5/feedback_requested_the_first_ai_web/</link>
+      <description><![CDATA[嘿，我们正在寻求您的反馈！ 我们刚刚发布了一款新产品 Wegic。它是一款开创性的 AI 网页设计师&amp;开发人员，由最新的 GPT-4o 模型提供支持。  它可以帮助您通过简单的对话轻松创建和发布您理想的网站。 还有什么更令人兴奋的呢？您可以用您喜欢的语言与 Wegic 互动，并让 Wegic 为您创建不同语言的网站。 您根本不需要了解任何代码✨。 只需聊天即可与 Wegic 合作，它将通过自然对话轻松打造您的完美网站😎。 请查看并告诉我们您的想法！👉 https://www.producthunt.com/posts/wegic 您的鼓励对我们来说意味着整个世界。谢谢:)   由   提交 /u/ArtichokeSavings6045   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crrgo5/feedback_requested_the_first_ai_web/</guid>
+      <pubDate>Tue, 14 May 2024 12:56:07 GMT</pubDate>
+    </item>
     <item>
       <title>可持续发展助理（GPT4-Turbo）👾✨</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crpllu/sustainability_assistant_gpt4turbo/</link>
@@ -20,13 +41,6 @@
       <pubDate>Tue, 14 May 2024 11:05:52 GMT</pubDate>
     </item>
     <item>
-      <title>制作了 OpenAI 春季更新的 5 分钟摘要视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crpc6p/made_a_5_minute_summary_video_of_the_openai/</link>
-      <description><![CDATA[我制作了一个简短的视频，总结了 OpenAI 春季更新活动中最重要的新闻。也许您会发现它很有用 -  https://youtu.be/XQj8BRaCNIw   由   提交​​ /u/mzikmund   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crpc6p/made_a_5_minute_summary_video_of_the_openai/</guid>
-      <pubDate>Tue, 14 May 2024 11:00:42 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta 开发人工智能驱动的“Camerabuds”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crp8ex/meta_developing_aipowered_camerabuds/</link>
       <description><![CDATA[ 由   提交 /u/Mindful-AI   [链接] [评论]]]></description>
@@ -39,13 +53,6 @@
       <description><![CDATA[我写了一篇关于去中心化人工智能（DeAI）和相关基础设施任务的小文章。我有一节讨论去中心化人工智能任务和相关基础设施。也许你们中的一些人会觉得有趣。 https://medium.com/kelecorix/ai-frontier-exploring-decentralized-ai-landscape-3a5a45395c0d&quot;&gt;https://medium.com/kelecorix/ai-frontier-exploring-decentralized-ai-landscape-3a5a45395c0d&quot;&gt;https://medium.com/kelecorix/ai-frontier-exploring-decentralized-ai-landscape-3a5a45395c0d&quot;&gt;https:// /medium.com/kelecorix/ai-frontier-exploring-decentralized-ai-landscape-3a5a45395c0d   由   提交 /u/sigrlami   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cro8su/ai_frontier_exploring_decentralized_ai/</guid>
       <pubDate>Tue, 14 May 2024 09:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是您需要了解的有关 OpenAI 的新 AI 模型 GPT-4o (Omni) 的所有信息</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cro6f0/here_is_all_you_need_to_know_about_openais_new_ai/</link>
-      <description><![CDATA[ 由   提交/u/Technicallysane02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cro6f0/here_is_all_you_need_to_know_about_openais_new_ai/</guid>
-      <pubDate>Tue, 14 May 2024 09:44:14 GMT</pubDate>
     </item>
     <item>
       <title>从提供的文本恢复构建器</title>
@@ -85,19 +92,12 @@
     <item>
       <title>就一个问题。我如何与 LLM 交谈？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crfh0p/just_a_question_how_do_i_just_talk_to_an_llm/</link>
-      <description><![CDATA[我是这里的菜鸟。 所有这些不同的法学硕士，我不知道如何与其中一个交谈我的声音而不是打字。  谷歌主页......嘿谷歌。还是没用。亚历克斯？？？？同样的垃圾。这些大公司怎么不知道如何直接与法学硕士交谈？ 是在其他地方吗？我缺少什么？   由   提交 /u/keyholderWendys   [链接] [评论]]]></description>
+      <description><![CDATA[我是这里的菜鸟。 所有这些不同的法学硕士，我不知道如何与其中一个交谈我的声音而不是打字。  谷歌首页......嘿谷歌。还是没用。亚历克斯？？？？同样的垃圾。这些大公司怎么不知道如何直接与法学硕士交谈？ 是在其他地方吗？我缺少什么？   由   提交 /u/keyholderWendys   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crfh0p/just_a_question_how_do_i_just_talk_to_an_llm/</guid>
       <pubDate>Tue, 14 May 2024 00:50:46 GMT</pubDate>
     </item>
     <item>
-      <title>从哪儿开始？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crccev/where_to_start/</link>
-      <description><![CDATA[我是一名拥有 CS 学士学位的全栈开发人员。我想开始了解人工智能，但很难知道该去哪里寻找，而且 YouTube 和 Google 上有太多的骗子。 我有几个问题希望获得指导：  如何在日常生活中探索使用人工智能？我已经开始使用 ChatGPT 来进行故障排除帮助或构思，我已经使用 stablediffusion web 几次来演示图像，但我觉得我才刚刚开始触及表面。我如何详细了解这些工具如何改善我的生活？ 是否可以运行我自己的这些人工智能模型版本？我假设您可以运行自己的稳定扩散版本，例如学习“即时工程”并避免支付费用，但我不知道其缺点是什么。  如何开始使用人工智能？我看过 Corridor Digital 的一段视频，他们训练了自己的 AI 模型，将视频转换为动画；我怎样才能制作出这样的自己的酷项目？    由   提交/u/freew1ll_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crccev/where_to_start/</guid>
-      <pubDate>Mon, 13 May 2024 22:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

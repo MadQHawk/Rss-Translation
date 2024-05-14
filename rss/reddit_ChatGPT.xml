@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢纳特！</description>
-    <lastBuildDate>Tue, 14 May 2024 12:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:14:32 GMT</lastBuildDate>
     <item>
-      <title>聊天 gpt4overloaded</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crqioy/chat_gpt4overloaded/</link>
-      <description><![CDATA[昨晚我终于解决了我困扰了几周的问题：让聊天 gpt、gemini、claude 编写 api 调用以将 square 连接到 google床单。它从来没有工作过。 昨晚chatgpt4o 经过几次迭代后做到了。 今天早上系统出现了问题。 Open Ai 近期有建立新数据中心的计划吗？与所有这些免费客户一起，视觉长时间聊天以及它解决我的编码问题的方式是每次都重写整个脚本！系统负载似乎明显增大。   由   提交 /u/BlackrockSeafood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crqioy/chat_gpt4overloaded/</guid>
-      <pubDate>Tue, 14 May 2024 12:07:31 GMT</pubDate>
+      <title>如何查询正在使用的llm版本？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cruiv8/how_to_query_which_llm_version_is_being_used/</link>
+      <description><![CDATA[iOS、MacOS 应用程序显示 gtp4o，但它显然没有昨天宣布的新功能。必须有一种简单的方法来查询所有平台上的版本号，以进行比较以了解启用了哪些功能。    由   提交 /u/fractaldesigner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cruiv8/how_to_query_which_llm_version_is_being_used/</guid>
+      <pubDate>Tue, 14 May 2024 15:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 GPT-4o 创建一些关于 AI 和电影《她》的模因。这就是我得到的！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crqinv/i_asked_gpt4o_to_create_some_memes_about_ai_and/</link>
-      <description><![CDATA[       由   提交/u/Positive_Box_69   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crqinv/i_asked_gpt4o_to_create_some_memes_about_ai_and/</guid>
-      <pubDate>Tue, 14 May 2024 12:07:28 GMT</pubDate>
+      <title>我的对话历史记录消失了！！！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cruihp/my_conversation_history_is_gone/</link>
+      <description><![CDATA[嗨，我需要你的帮助。在 gpt4-o 更新之后，我仍然继续使用 4 模型，但我意识到左侧栏上所有其他固定和取消固定的先前聊天都消失了......我没有为一些项目提供任何备份，现在我是真的操蛋。你知道我该如何解决这个问题吗？    由   提交/u/melisdumlu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cruihp/my_conversation_history_is_gone/</guid>
+      <pubDate>Tue, 14 May 2024 15:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>对于我们这样的组织来说，这是一件大事。它为我们真正做出改变打开了大门。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crqga3/this_is_a_big_deal_for_organizations_like_ours_it/</link>
-      <description><![CDATA[   /u/MartianMaterial  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crqga3/this_is_a_big_deal_for_organizations_like_ours_it/</guid>
-      <pubDate>Tue, 14 May 2024 12:03:57 GMT</pubDate>
+      <title>适用于免费用户的 Gpt 4o - 速率限制低于承诺的没有自定义 GPT，目前仅在选定的国家/地区提供。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crugcv/gpt_4o_for_the_free_users_rate_limit_less_than/</link>
+      <description><![CDATA[在博客中，他们说付费用户每 3 小时将收到 80 条 gpt4o 消息，在定价层中，他们说付费用户获得的消息是免费用户的 5 倍用户，这意味着 - *免费用户每 3 小时应该收到 16 条消息 * 但我检查了多个帐户，消息上限是 10 条而不是 16 条。如果您执行诸如继续生成之类的操作，即使它没有显示在聊天中，它也将其视为一条消息。  旁注我在印度，它还没有在那里推出。我现在正在使用VPN来使用它，我什至使用VPN创建了一个新的Gmail帐户，并为我们提供了所有详细信息，然后在聊天gpt中尝试了没有VPN的帐户，但不可用。  即使使用 vpn ，也没有可用的自定义 gpts 。  Android 应用程序在过去 24 小时内已更新两次（即时为测试版），他们更新了定价横幅，并附加了 * 您可以访问 gpt 4o* 标语，但无法在应用程序中访问有或没有VPN（是否进行了整个卸载，清除了缓存，清除了所有数据，但没有） 所以我猜他们实际上非常认真地希望它在未来几周而不是现在可用。但是嘿现在 gpt 4o 是免费的......对于 10 条消息，其中 5 条可以解释其他 5 条，太棒了...  另外我不知道是否有人注意到官方开放 ai成员说“我也是一个很好的 gpt2 聊天机器人”实际上是 gpt4o，但如果您前往 lmsys chatarena，您实际上可以分别选择 gpt4o 和“iaag gpt2 cb”，奇怪的是，如果它们相同，则不应该是案件。而且我仍然有一个好的 gpt2 聊天机器人，因此可能是我们的 gpt 4.5 或其他仅限付费用户的版本。   由   提交/u/The_-Legend  /u/The_-Legend  reddit.com/r/ChatGPT/comments/1crugcv/gpt_4o_for_the_free_users_rate_limit_less_than/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crugcv/gpt_4o_for_the_free_users_rate_limit_less_than/</guid>
+      <pubDate>Tue, 14 May 2024 15:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>正在更新我的应用程序并看到了这个。微软 Prometheus 比 ChatGPT 更好？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq90x/was_updating_my_apps_and_saw_this_microsoft/</link>
-      <description><![CDATA[   /u/evil701  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq90x/was_updating_my_apps_and_saw_this_microsoft/</guid>
-      <pubDate>Tue, 14 May 2024 11:53:11 GMT</pubDate>
+      <title>房间创建</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cruep4/room_creation/</link>
+      <description><![CDATA[有没有人有帮助创建房间的提示。我正在重新设计我的房子，但我似乎无法让它呈现出像样的房间图像。    由   提交 /u/bigtimetim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cruep4/room_creation/</guid>
+      <pubDate>Tue, 14 May 2024 15:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>问题：4o 会取代 MYGPT 的 gpt4 吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq68p/question_will_4o_replace_gpt4_for_mygpts/</link>
-      <description><![CDATA[想知道 4o + 内存是否会合并到 MYGPT 中。我昨天查了一下公告，只发现MYGPY的免费了。感谢您的帮助。   由   提交 /u/Mozbee1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq68p/question_will_4o_replace_gpt4_for_mygpts/</guid>
-      <pubDate>Tue, 14 May 2024 11:48:58 GMT</pubDate>
+      <title>与 chatgbt 进行表情符号对话😰🔞</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crudod/emoji_conversation_with_chatgbt/</link>
+      <description><![CDATA[     &lt; /td&gt; 我觉得很有趣💀👏  &amp;# 32；由   提交/u/ProudTF2player  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crudod/emoji_conversation_with_chatgbt/</guid>
+      <pubDate>Tue, 14 May 2024 15:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 ChatGPT 和 Gemini 中的模型更改图标相同？ （星形）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq5bo/why_are_the_model_change_icons_are_the_same_in/</link>
-      <description><![CDATA[      https://preview.redd.it/48f2z4ynqd0d1.png?width=511&amp;format=png&amp;auto=webp&amp;s=3ba41c51ef4e 3a9352b846c1a105e8c459a6bf23 https://preview .redd.it/47sdi7rpqd0d1.png?width=400&amp;format=png&amp;auto=webp&amp;s=198168d0af307a5c10a170f1fd9e56f3f57777f0   由   提交 /u/brianelete   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq5bo/why_are_the_model_change_icons_are_the_same_in/</guid>
-      <pubDate>Tue, 14 May 2024 11:47:33 GMT</pubDate>
+      <title>为什么没有人谈论 4o 有多糟糕？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crubmi/why_is_no_one_talking_about_how_bad_4o_is/</link>
+      <description><![CDATA[这件事很糟糕。昨天工作时我被随机切换到它，就像“等等，为什么我突然收到糟糕的回复”，我看到了 4o，在谷歌上搜索了它，看到了公告，然后切换回 4 并继续我的一天。它很快，但响应质量非常低。    由   提交 /u/Buskow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crubmi/why_is_no_one_talking_about_how_bad_4o_is/</guid>
+      <pubDate>Tue, 14 May 2024 15:02:23 GMT</pubDate>
     </item>
     <item>
-      <title>乔</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq4sx/joe/</link>
-      <description><![CDATA[&lt;表&gt;      由   提交/u/Messsyfloor   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq4sx/joe/</guid>
-      <pubDate>Tue, 14 May 2024 11:46:42 GMT</pubDate>
+      <title>GPT 4o 与 OpenGPT 4o</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crubfo/gpt_4o_vs_opengpt_4o/</link>
+      <description><![CDATA[OpenAI GPT 4o 超级革命性 AI 与 OpenGPT-4o 演示 GPT 4o：https://openai.com/index/hello-gpt-4o/ 演示 OpenGPT-4o：https://huggingface.co/spaces/KingNish/GPT-4o GPT 4o 与 OpenGPT 4o   功能 GPT 4o OpenGPT 4o    公开可用性 目前不 是   定价 &lt; tdalign=&quot;left&quot;&gt;免费 免费   图像生成 是 是   图像分类 是 是   语音聊天 是&lt; /td&gt; 是   多语言 是 &lt; tdalign=&quot;left&quot;&gt;否构建时间6 个月1小时   团队成员 450+ 1   类人语音 是  &quot;&gt;否   API 是 否&lt; /td&gt;   速度 345 毫秒 7 秒   强大 优于 GPT 4 优于 GPT 3.5 Turbo    更多即将推出   由   提交 /u/RealKingNish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crubfo/gpt_4o_vs_opengpt_4o/</guid>
+      <pubDate>Tue, 14 May 2024 15:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Google I/O 直播链接。太平洋时间上午 9:30 开始</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq4ls/google_io_livestream_link_starting_at_930am_pt/</link>
-      <description><![CDATA[       由   提交 /u/Vladiesh   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq4ls/google_io_livestream_link_starting_at_930am_pt/</guid>
-      <pubDate>Tue, 14 May 2024 11:46:23 GMT</pubDate>
+      <title>gpt-4 / 4o 可以转录视频吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cru9fr/can_gpt4_4o_transcribe_videos/</link>
+      <description><![CDATA[您好， 我上传了一个视频，但它说无法转录。也未能给我一个总结。视频只有40秒长。难道我做错了什么？    由   提交 /u/HanamichiSakurag1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cru9fr/can_gpt4_4o_transcribe_videos/</guid>
+      <pubDate>Tue, 14 May 2024 15:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能约翰·J·H·约翰的故事施密特</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq47t/the_ai_story_of_john_jh_schmidt/</link>
-      <description><![CDATA[   同时给我 6 岁的儿子讲一个可爱的睡前故事，讲述我如何发誓自从我在一次错误的失踪行为中失去了我最好的朋友……我设法想出了这个故事的想法……享受吧。   由   提交/u/kodakzack93  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq47t/the_ai_story_of_john_jh_schmidt/</guid>
-      <pubDate>Tue, 14 May 2024 11:45:41 GMT</pubDate>
+      <title>来吧阿多！！这张图是什么tf？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cru8vl/come_on_adobe_what_tf_is_this_image/</link>
+      <description><![CDATA[提示是“月球上的火车，现实，超现实”  第一张图片由 DALLE chatGPT plus 制作，第二张图片由 Adob​​e 最新的 Firefly 模型制作。图像本身讲述了故事。    由   提交 /u/Dayvworm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cru8vl/come_on_adobe_what_tf_is_this_image/</guid>
+      <pubDate>Tue, 14 May 2024 14:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 真的那么擅长编码吗？到目前为止你的经验是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq3vw/is_gpt4o_really_that_good_at_coding_whats_your/</link>
-      <description><![CDATA[    /u/Spirited-Animal2404   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq3vw/is_gpt4o_really_that_good_at_coding_whats_your/</guid>
-      <pubDate>Tue, 14 May 2024 11:45:12 GMT</pubDate>
+      <title>ChatGPT-4o 放射学图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cru7yt/chatgpt4o_on_radiology_images/</link>
+      <description><![CDATA[我是免费用户，无法访问 4o。有人可以尝试进行 X 射线或 MRI 并发布结果吗？请。我很高兴看到是否有任何改进   由   提交/u/journey_2be_free   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cru7yt/chatgpt4o_on_radiology_images/</guid>
+      <pubDate>Tue, 14 May 2024 14:58:28 GMT</pubDate>
     </item>
     <item>
-      <title>有4o个问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq2lp/got_4o_question/</link>
-      <description><![CDATA[如何像视频中那样访问语音助手和摄像头功能？我单击麦克风按钮并能够与 gpt 通话，但屏幕看起来与视频中显示的不同。    由   提交 /u/Disastrous-Prompt981    reddit.com/r/ChatGPT/comments/1crq2lp/got_4o_question/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq2lp/got_4o_question/</guid>
-      <pubDate>Tue, 14 May 2024 11:43:02 GMT</pubDate>
+      <title>目前 Plus 用户的消息限制上限似乎是每个型号 25 条。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cru7en/current_message_limit_cap_for_plus_users_seems_to/</link>
+      <description><![CDATA[   /u/dubesor86  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cru7en/current_message_limit_cap_for_plus_users_seems_to/</guid>
+      <pubDate>Tue, 14 May 2024 14:57:47 GMT</pubDate>
     </item>
     <item>
-      <title>难道我做错了什么？或者我只是无法访问 chatgpt 4o</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crq0og/am_i_doing_something_wrong_or_do_i_just_not_have/</link>
-      <description><![CDATA[    &lt; /a&gt;  我在网站上没有看到该选项，当我在应用程序上搜索 chatgpt 4o 时，它告诉我不允许交互。   由   提交 /u/-_-ARCH-_-   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crq0og/am_i_doing_something_wrong_or_do_i_just_not_have/</guid>
-      <pubDate>Tue, 14 May 2024 11:39:53 GMT</pubDate>
+      <title>Gpt4t 与 4o</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cru4u0/gpt4t_vs_4o/</link>
+      <description><![CDATA[他们在网站上留下了 4 Turbo 作为选项。与 4o 相比，4turbo 有什么更好的地方吗？还是 4o 在各方面都更好？   由   提交 /u/TakeThatRisk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cru4u0/gpt4t_vs_4o/</guid>
+      <pubDate>Tue, 14 May 2024 14:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>我重新订阅了 ChatGPT Plus，哇，我对它的书写方式感到惊讶。连懒都不行。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crptqb/i_resubscribed_to_chatgpt_plus_and_wow_i_am/</link>
-      <description><![CDATA[它像人类一样写作，并且不使用像“所以”、“遗嘱”和“它不是，它是”这样的类似人工智能的单词a”   由   提交 /u/Happy_Traveller_2023   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crptqb/i_resubscribed_to_chatgpt_plus_and_wow_i_am/</guid>
-      <pubDate>Tue, 14 May 2024 11:28:44 GMT</pubDate>
+      <title>GPT4 与 GPT4o</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cru268/gpt4_vs_gpt4o/</link>
+      <description><![CDATA[所以我一直在尝试使用 GPT4o 作为工作中使用 Javascript 框架 Ext.js 的解决方案。  尝试不同的提示，通过充分解释我的用例和所需的解决方案 4o 无法给我一个合适的解决方案，但第一次尝试 GPT4 给了我一个可行的解决方案。 其他人的发现是什么：GPT4o 在编码方面不如 GPT4 熟练吗？    由   提交/u/S7venE11even  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cru268/gpt4_vs_gpt4o/</guid>
+      <pubDate>Tue, 14 May 2024 14:51:36 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能助手</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crpqxo/ai_assistant/</link>
-      <description><![CDATA[尤其是 4o 附带的语音和视觉功能，我有兴趣扩展 ChatGPT 的使用，使其基本上成为个人助理。我不知道如何实现的一个关键因素是如何将 ChatGPT 与 Google 日历集成，因为我不是一个真正有技术头脑的人。如果能够让自定义 GPT 成为我的私人助理，并让该助理在我的日历中安排任务和约会，这将改变游戏规则。有人做过类似的事情或有任何想法吗？   由   提交/u/Jake1517  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crpqxo/ai_assistant/</guid>
-      <pubDate>Tue, 14 May 2024 11:24:02 GMT</pubDate>
+      <title>随着补丁的推出，GPT-4o 的质量和实用性是否会下降？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crtv97/isnt_it_a_given_that_gpt4o_will_dégradé_in/</link>
+      <description><![CDATA[我们已经看到 ChatGPT-4 自发布以来一直在走下坡路。这绝对不错，但就像 DALLE•3 以及几乎所有其他拥有私有模型或服务的人工智能公司一样，这是一个一致的趋势。 所以，这一次我们是否应该尝试充分利用在它的能力被遗忘之前，我们能尽快地利用它吗？我一直不是一个稳定的付费用户（太贵了，而且不够有用，无法全年保持订阅），但我正在考虑在所有功能正式推出后收回订阅，希望是同时推出。   由   提交/u/DistributionAgile376   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crtv97/isnt_it_a_given_that_gpt4o_will_dégradé_in/</guid>
+      <pubDate>Tue, 14 May 2024 14:43:16 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 仍需要一些基础培训</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crpqmf/gpt4o_still_needing_some_basic_training/</link>
-      <description><![CDATA[      正在路上，但尚未实现！ &lt;!-- SC_ON - -&gt;  由   提交/u/xfakex  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crpqmf/gpt4o_still_needing_some_basic_training/</guid>
-      <pubDate>Tue, 14 May 2024 11:23:34 GMT</pubDate>
+      <title>请再讲一则童话故事。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crtqk4/one_more_fairy_tale_please/</link>
+      <description><![CDATA[       由   提交/u/Philipp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crtqk4/one_more_fairy_tale_please/</guid>
+      <pubDate>Tue, 14 May 2024 14:37:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
