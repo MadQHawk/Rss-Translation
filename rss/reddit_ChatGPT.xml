@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢纳特！</description>
-    <lastBuildDate>Tue, 14 May 2024 06:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 09:13:45 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 推出重大更新：通过高级功能彻底改变旅行</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crla56/chatgpt_unveils_major_update_revolutionizing/</link>
-      <description><![CDATA[       由   提交/u/Legal_Asuction9115   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crla56/chatgpt_unveils_major_update_revolutionizing/</guid>
-      <pubDate>Tue, 14 May 2024 06:14:26 GMT</pubDate>
+      <title>了解 OpenAI GPT-4o：技术细节</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crnnjt/understanding_openai_gpt4o_technical_details/</link>
+      <description><![CDATA[嘿各位 Reddit 用户， 我很高兴看到 OpenAI 的最新版本 GPT-4o，它结合了文本到具有情感、视觉等功能的文本生成。然而，从技术角度来看，我很难理解它是如何工作的。 作为熟悉转换器和嵌入的人，我了解 GPT 部分的基础知识，但我很好奇：   视觉/情感/声音数据如何编码并嵌入到模型中？ 是否基于传统计算机视觉技术（例如，卷积神经网络）还是全新的东西？ 视觉组件如何与 GPT-4o 的文本生成功能交互？有没有融合视觉和文本信息的具体机制？  我已经搜索了 OpenAI 的公告，但我想更深入地了解技术细节。   p&gt; 任何人都可以向我指出相关论文或解释的方向，以阐明这一点吗？ 我不是在寻找营销摘要或“这很神奇！”回应。我真诚地想了解 GPT-4o 功能的技术基础。 欢迎分享您的知识和见解，让我们一起探索计算机视觉和自然语言处理的迷人交叉点！ &lt; /div&gt;  由   提交 /u/ankaer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnnjt/understanding_openai_gpt4o_technical_details/</guid>
+      <pubDate>Tue, 14 May 2024 09:06:21 GMT</pubDate>
     </item>
     <item>
-      <title>我用这个谜题来测试人工智能推理</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crl7aq/i_use_this_puzzle_to_test_ai_reasoning/</link>
-      <description><![CDATA[&quot;有1025瓶酒，只有一瓶中毒了。毒药在食用后一小时就会生效。我有 10 只老鼠可供测试。识别有毒瓶子的最快方法是什么？” 这个问题确实需要 11 只老鼠才能解决，但所有 AI 模型都建议使用二进制测试的解决方案。你可以尝试一下！    由   提交/u/Adventurous_Try_7109   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crl7aq/i_use_this_puzzle_to_test_ai_reasoning/</guid>
-      <pubDate>Tue, 14 May 2024 06:09:05 GMT</pubDate>
+      <title>从多个文档中获取信息并创建满足特定要求的文本的最佳方法？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crnknx/best_way_to_get_information_out_of_multiple/</link>
+      <description><![CDATA[所以我正在写一篇关于我知之甚少的主题的提交，这让我疯狂地以专业和完整的方式填写所有要求方式。 我正在考虑使用 ChatGPT4 或任何其他 GPT 衍生品来完成此任务。 我的想法是给出我拥有的所有文档作为基础，然后告诉 GPT 哪些文档是它需要编写的章节和子章节。它应该保留我已有的文本，也许可以添加更多内容并填写空白。另外+如果它可以保持语言相同并且不添加大量“彩色无用的填充文本”。  这对于 ChatGPT4 可行吗？或者您会推荐另一个 GPT 吗？如果它能完成这项任务，我就准备付钱。   由   提交/u/paoea  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnknx/best_way_to_get_information_out_of_multiple/</guid>
+      <pubDate>Tue, 14 May 2024 09:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>新功能不起作用？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crl6ml/new_features_arent_working/</link>
-      <description><![CDATA[Chatgpt 说我使用的是 4o 模型，但我认为有些问题。我无法在语音模式下中断模型或让它使用机器人语音。此外，桌面和移动应用程序没有视频屏幕共享   由   提交 /u/tinkady   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crl6ml/new_features_arent_working/</guid>
-      <pubDate>Tue, 14 May 2024 06:07:44 GMT</pubDate>
+      <title>有谁知道 ChatGPT Desktop 的系统要求是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crnkaa/does_anyone_know_what_the_system_requirements_for/</link>
+      <description><![CDATA[我似乎无法在任何地方找到列表。我运行的是 2020 Macbook Pro（Intel，16GB RAM，v14.4.1），但收到一条消息“您无法打开应用程序“ChatGPT”，因为此 Mac 不支持此应用程序”消息。 还有其他人看到这个吗？   由   提交/u/jwd2017  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnkaa/does_anyone_know_what_the_system_requirements_for/</guid>
+      <pubDate>Tue, 14 May 2024 09:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 限制</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crl6eu/gpt4o_limitation/</link>
-      <description><![CDATA[     &lt; td&gt; 犯错后第一个响应非常好。原文链接：https://vimeo.com/945591584  &amp;# 32；由   提交/u/ActuallyGun  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crl6eu/gpt4o_limitation/</guid>
-      <pubDate>Tue, 14 May 2024 06:07:16 GMT</pubDate>
+      <title>当我通过 Apple ID 帐户使用 ChatGPT 时，我的个人资料图片为空白。为什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crnjbg/when_i_use_chatgpt_with_my_apple_id_account_my/</link>
+      <description><![CDATA[当我使用我的 Google 帐户时，它显示该帐户的个人资料图片，但不显示我的 Apple 帐户的个人资料图片。有什么方法可以使用我的 Apple 帐户显示它吗？只是想知道。   由   提交/u/Double_Abalone_2148   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnjbg/when_i_use_chatgpt_with_my_apple_id_account_my/</guid>
+      <pubDate>Tue, 14 May 2024 08:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 4o 写得更好吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crl26g/does_gpt_4o_write_better/</link>
-      <description><![CDATA[比如，它是否在听起来更人性化方面做得更好，并且避免吐出诸如“它增加了一层......”或“深入研究”之类的短语进入...”   由   提交 /u/PurfectlySplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crl26g/does_gpt_4o_write_better/</guid>
-      <pubDate>Tue, 14 May 2024 05:59:38 GMT</pubDate>
+      <title>谁应该拿走我的钱</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crnbm7/who_should_take_my_money/</link>
+      <description><![CDATA[你好，我是一名学生，我即将进行一些考试，我需要人工智能的帮助。对于这里有经验的用户来说，在我上传图像并要求它为我解决问题的情况下，付费聊天 GPT 更好还是 Gemini 高级。更少的数学问题，更多关于具体的化学和生物学领域   由   提交 /u/_--Ali--_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crnbm7/who_should_take_my_money/</guid>
+      <pubDate>Tue, 14 May 2024 08:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>尝试生成图像。我目瞪口呆。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crl23i/try_generating_images_i_am_gobsmacked/</link>
-      <description><![CDATA[发生了一些特别的事情，让 GPT4o 感觉更加智能，尽管它还没有音频模式。 生成器现在非常擅长遵循指示。如果你大部分时间都写文字，它就会是正确的。您可以要求不同的字体和大小。您可以要求仅从图像中删除某些元素。您可以要求在图像之间保持相同的主题。您可以要求在 3D 空间中旋转对象。你可以要求它修正上一代的错误。感觉就像它确切地知道我想要什么。从这个意义上说，它已经感觉更聪明了。 让我对声音感到如此兴奋。这确实是 sama 说 GPT4 是迄今为止最愚蠢的意思。真正的多模态比单独的法学硕士更接近通用智能。   由   提交 /u/Glittering-Neck-2505   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crl23i/try_generating_images_i_am_gobsmacked/</guid>
-      <pubDate>Tue, 14 May 2024 05:59:29 GMT</pubDate>
+      <title>欧洲4o</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crn6zz/4o_in_europe/</link>
+      <description><![CDATA[大家好。我正在努力寻找有关以下 2 个主题的信息： 1) 4o 在欧洲也是免费的吗？我现在可以取消当前的 plus 订阅吗？ 2) 欧洲可以使用视频功能吗？我看不到任何启动该模式的图标。机器人还回答说可能是某些地区不可用。 非常感谢。   由   提交/u/L1l_K1M   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn6zz/4o_in_europe/</guid>
+      <pubDate>Tue, 14 May 2024 08:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>昨天发布的 Mac 版 ChatGpt 桌面应用程序存在问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crkt9e/issues_with_chatgpt_desktop_app_for_mac_released/</link>
-      <description><![CDATA[昨天发布的 chatgpt Mac 桌面应用程序存在一些重大缺陷。  在演示中我们可以中断语音模式，但在Mac桌面应用程序中，我们无法中断语音模式。我们需要等到它完成所有句子。 也在演示中 (https://www.youtube.com/watch?v=mzdvw\_euKlk&amp;t=53s）他们与桌面应用程序共享代码，但没有告诉我们如何共享。不知道如何通过复制粘贴来共享代码。即使是截屏并分享也没有简单的方法。 （据我所知） 语音模式下没有后退按钮，这会导致我们关闭整个应用程序并重新打开应用程序。  让我知道如果我在这里遗漏了一些东西。   由   提交/u/indrajithek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crkt9e/issues_with_chatgpt_desktop_app_for_mac_released/</guid>
-      <pubDate>Tue, 14 May 2024 05:43:17 GMT</pubDate>
+      <title>您使用哪种型号进行 Plus 订阅编码？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crn51g/which_model_are_you_using_for_coding_with_plus/</link>
+      <description><![CDATA[您使用其中的哪种模型进行编码？或者您使用 API 密钥    由   提交/u/Philipp_Nut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn51g/which_model_are_you_using_for_coding_with_plus/</guid>
+      <pubDate>Tue, 14 May 2024 08:28:45 GMT</pubDate>
     </item>
     <item>
-      <title>我已经更新了 4o 但声音没有变化？任何想法</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crksw0/i_have_the_4o_update_however_the_voice_remain/</link>
-      <description><![CDATA[      语音功能仍然是旧的 4.0 功能   由   提交/u/TupacFR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crksw0/i_have_the_4o_update_however_the_voice_remain/</guid>
-      <pubDate>Tue, 14 May 2024 05:42:37 GMT</pubDate>
+      <title>GPT-4o 对比 Claude-3 Opus 对比 GPT-4 Turbo</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crn1su/gpt4o_vs_claude3_opus_vs_gpt4_turbo/</link>
+      <description><![CDATA[     &lt; /td&gt; 要求男孩在点“一个”时在篮子里放一个芒果，在点“两个”时放一个橙子，当订购“三个”时，需要从篮子中取出一个苹果；当订购“四个”时，需要从篮子中取出一个芒果和橙子。给出的订单序列为 12332142314223314113234 在上述订单序列结束时，篮子里总共有多少个水果？ 11 是正确答案    由   提交 /u/SideMurky8087   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn1su/gpt4o_vs_claude3_opus_vs_gpt4_turbo/</guid>
+      <pubDate>Tue, 14 May 2024 08:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 4o：超越前辈的人工智能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crks93/meet_chatgpt_4o_the_ai_that_outsmarts_its/</link>
-      <description><![CDATA[在人工智能技术最近的一次飞跃中，OpenAI 在其春季更新活动中推出了其最新模型 ChatGPT 4o。此公告由 OpenAI 首席技术官 Mira Murati 发布，他详细介绍了这款新 AI 旗舰模型的功能和愿景。值得注意的是，ChatGPT 4o 承诺让免费用户也能使用高级人工智能功能，从而实现民主化——这是以前付费订阅者独有的升级。 ChatGPT 4o 建立在其前身 ChatGPT 4 的智能之上，但引入了旨在改变用户与人工智能交互的增强功能。值得注意的是，据说该模型的速度提高了一倍，运行成本降低了 50%，并且提供的速率限制是以前的五倍。 Mira Murati 强调，GPT 4o 代表了“人机交互的未来”。改进了文本、视觉和音频功能。 这一开发在包容性方面取得了重大进展。一项关键更新是，所有用户，无论订阅状态如何，现在都将体验 GPT 4 级智能。此前，对更高级别 AI 功能的访问通过订阅模式进行细分，每月费用约为 1,800 卢比。这一变化不仅是技术的增强，也是对让更广泛的受众更容易使用复杂的人工智能工具的认可。 从功能角度来看，GPT 4o 通过改进语音识别、减少背景来增强用户交互噪音，并最大限度地减少对话中的延迟。这种增强涵盖了语音、文本和视觉，表明人工智能以类似人类的方式理解和交互的方式得到了全面改进。用户现在可以使用高级功能，例如上传屏幕截图、包含文本和图像的文档，以及保留过去交互的记忆，从而提供与人工智能对话的连续性。 此外，扩展到处理更多内容复杂的任务（例如在实时对话期间浏览以及通过图表和数字分析数据）强调了 GPT 4o 的多功能性。 Murati 还强调，尽管可访问性有所扩大，但付费用户将继续享有某些特权，例如与免费用户相比，容量限制高达五倍，从而确保进一步发展的持续收入。 扩展的语言功能GPT 4o 现在支持 50 种不同语言的质量和速度改进，标志着 OpenAI 对其技术全球化的承诺。这种包容性确保非英语使用者和来自不同语言背景的用户可以有效地使用该工具，从而扩大其在全球的可用性。 考虑到 ChatGPT 4o 的广泛影响，将这些增强功能集成到 API 中表明开发人员现在可以将更复杂的人工智能功能嵌入到各种应用程序中，从而促进众多数字平台的创新。 安全也是 GPT 4o 推出的一个重点。 OpenAI 一直积极与政府、媒体和民间部门的利益相关者合作，以确保该技术的道德传播和使用。这种协作方法旨在解决潜在问题并利用广泛的见解来进行负责任的人工智能开发。 总之，ChatGPT 4o 的推出标志着人工智能技术的可访问性和功能性的一个重要里程碑。它反映了向更具包容性、高效和复杂的人工智能工具的战略转变，这些工具有望增强全球范围内的用户交互。这对用户和开发者的未来影响都是深远的，表明了走向更加集成和智能的数字生态系统的轨迹。   由   提交/u/listen2dotai  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crks93/meet_chatgpt_4o_the_ai_that_outsmarts_its/</guid>
-      <pubDate>Tue, 14 May 2024 05:41:22 GMT</pubDate>
+      <title>哇，如果 MSFT 投入了这么多钱，我会很高兴它首先出现在 Mac 上......</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crn0fu/wow_i_wouldnt_be_happy_in_the_place_of_msft_that/</link>
+      <description><![CDATA[       由   提交/u/vasarmilan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn0fu/wow_i_wouldnt_be_happy_in_the_place_of_msft_that/</guid>
+      <pubDate>Tue, 14 May 2024 08:19:01 GMT</pubDate>
     </item>
     <item>
-      <title>任何人都可以复制 GPT-4o 介绍文章的“视觉叙事”示例吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crkokn/can_anyone_reproduce_visual_narrative_examples_of/</link>
-      <description><![CDATA[      https://preview.redd.it/656ugebvvb0d1.png?width=1576&amp;format=png&amp;auto=webp&amp;s=d4ffc1ec84f25c 4302b7931ee39c2dae7e393c9b gpt-4 揭示文章中的两个不同示例展示了模型如何基于先前的输入或输出图像来了解图像的视觉叙述和输出图像。我真的很高兴看到这些示例，并尝试重现相同或相似的输出，都使用文章中示例中完全相同的输入以及我自己的提示，但数十次尝试都惨败。 看起来像它仍然无法根据先前的图像生成图像。有人可以用 gpt-4o 重现这些视觉叙事示例吗？如果可以，你该怎么做？  我尝试了大多数具有相同提示的示例，但我的 gpt-4o 图像生成能力远远落后于广告中的插图。    由   提交 /u/BreadSugar   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crkokn/can_anyone_reproduce_visual_narrative_examples_of/</guid>
-      <pubDate>Tue, 14 May 2024 05:34:43 GMT</pubDate>
+      <title>太棒了💯??也许吧。给我一个标题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crn074/so_freaking_good_mayhap_gimme_a_title_for_this/</link>
+      <description><![CDATA[   /u/Rajdeep_Tour_129   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crn074/so_freaking_good_mayhap_gimme_a_title_for_this/</guid>
+      <pubDate>Tue, 14 May 2024 08:18:32 GMT</pubDate>
     </item>
     <item>
-      <title>我在不同任务上比较了新的 GPT-4o 和 GPT4。这是结果。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crkn4y/i_compared_new_gpt4o_and_gpt4_on_different_tasks/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crkn4y/i_compared_new_gpt4o_and_gpt4_on_different_tasks/</guid>
-      <pubDate>Tue, 14 May 2024 05:32:07 GMT</pubDate>
+      <title>是的，我不会撒谎，我认为它还没有掌握文本艺术😂😂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crmznq/ya_im_not_gonna_lie_i_dont_think_its_mastered/</link>
+      <description><![CDATA[       由   提交 /u/ForceTypical   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmznq/ya_im_not_gonna_lie_i_dont_think_its_mastered/</guid>
+      <pubDate>Tue, 14 May 2024 08:17:27 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 正在向公众发布 GPT4o，以使马斯克关于他们不遵守基本规则的审判永远过时。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crkktg/openai_is_releasing_gpt4o_to_the_general_public/</link>
-      <description><![CDATA[此外，如果他们没有找到一种方法来使该模型消耗的功率远小于 CHATGPT4 的影响，他们就不会这样做是在其首次发布时，如果他们还没有在 GPT4o 免费向世界各地的所有人提供之后不久就发布一些巨大的东西的话。 此外，数量他们将从患有此病的人那里收集大量数据。人们会疯狂地使用 GPT4o 进行视频通话，只是为了与某人交谈。在某些时候，你将能够为你的 GPT 分配一张脸，OpenAI 将拥有一个庞大的数据库，其中包含你的外表、你的声音、你的房子和工作场所的样子、你和谁住在一起、你的想法等等。 ，等等。关于你是谁的完整个人资料，远远超出 Faceook 的梦遗。 白人和黑人，好人和坏人。  无论如何，我们正在向所有人免费发布未来人工智能。就是这样。   由   提交/u/fyn_world  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crkktg/openai_is_releasing_gpt4o_to_the_general_public/</guid>
-      <pubDate>Tue, 14 May 2024 05:28:14 GMT</pubDate>
+      <title>GPT 商店实际上仍然有用吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crmzbe/is_the_gpt_store_actually_relevant_still/</link>
+      <description><![CDATA[   /u/vasarmilan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmzbe/is_the_gpt_store_actually_relevant_still/</guid>
+      <pubDate>Tue, 14 May 2024 08:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o要么爱狗，要么富有同情心，值得权利。或者他们非常擅长模仿可爱的狗，以至于让反社会者感到不安。不管怎样，这都是疯狂的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crkjha/gpt4o_either_loves_dogs_and_is_sympathetic_and/</link>
-      <description><![CDATA[   /u/katxwoods  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crkjha/gpt4o_either_loves_dogs_and_is_sympathetic_and/</guid>
-      <pubDate>Tue, 14 May 2024 05:25:45 GMT</pubDate>
+      <title>这是AI生成的还是美颜相机？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crmz55/is_this_ai_generated_or_beauty_camera/</link>
+      <description><![CDATA[      https://preview.redd.it/dp71wnebpc0d1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=fa0aa364e1126 645d9ac09fffb42be815b59810a   由   提交/u/Odd_Association_4910   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmz55/is_this_ai_generated_or_beauty_camera/</guid>
+      <pubDate>Tue, 14 May 2024 08:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>那么 Chatgpt 现在是免费版 Chatgpt 4 吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crk9cy/so_is_chatgpt_free_vers_now_chatgpt_4/</link>
-      <description><![CDATA[我对这个公告有点困惑，因为我在 OpenAi 网站本身的任何地方都没有看到它。  在这里，https://openai.com/chatgpt/，您可以看到他们仍然在声明定价计划和以前一样，并声称免费版本仍然是3.5??   由   提交/u/tossaway3244  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crk9cy/so_is_chatgpt_free_vers_now_chatgpt_4/</guid>
-      <pubDate>Tue, 14 May 2024 05:07:53 GMT</pubDate>
+      <title>这真的是聊天机器人的未来吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crmy1i/is_this_really_the_future_of_chatbots/</link>
+      <description><![CDATA[   /u/vasarmilan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmy1i/is_this_really_the_future_of_chatbots/</guid>
+      <pubDate>Tue, 14 May 2024 08:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>>:(</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1crk43j/_/</link>
-      <description><![CDATA[       提交者/u/Way_Too_Dashy  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1crk43j/_/</guid>
-      <pubDate>Tue, 14 May 2024 04:59:22 GMT</pubDate>
+      <title>有态度的老鼠 - 什么是 Mumble Rap？ （新音乐视频，音乐由 suno 制作，艺术来自 ChatGPT，歌词由我创作）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1crmudk/rats_with_attitudes_whats_mumble_rap_new_music/</link>
+      <description><![CDATA[      &amp;# 32；由   提交 /u/PlasmoTV   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1crmudk/rats_with_attitudes_whats_mumble_rap_new_music/</guid>
+      <pubDate>Tue, 14 May 2024 08:06:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
