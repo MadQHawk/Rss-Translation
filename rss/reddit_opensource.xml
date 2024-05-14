@@ -4,27 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 14 May 2024 15:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:17:01 GMT</lastBuildDate>
     <item>
       <title>开源 AI 定义 – 5 月 13 日每周更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</link>
       <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</guid>
       <pubDate>Tue, 14 May 2024 15:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebGazer 开源项目的免费正常运行时间监控</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cruak4/free_uptime_monitoring_for_open_source_projects/</link>
-      <description><![CDATA[大家好， 我很高兴地宣布，WebGazer 现在提供专门针对开源项目的免费监控计划！ 🎉 在 WebGazer，我们理解维护开源项目所付出的奉献和辛勤工作。与任何其他服务一样，如果没有开源，WebGazer 就不可能实现。这就是为什么我们决定通过免费提供我们的服务来支持开源社区。该功能集包括网站和 cron 作业监控以及托管状态页面，可帮助您确保项目始终正常启动并顺利运行。 使用 WebGazer，可以轻松掌握项目状态。您可以在此处找到更多详细信息并注册：WebGazer for Open Source。 随意提出任何问题或分享反馈。我们在这里支持开源社区并与开源社区一起成长！ 祝您编码愉快！ 🚀   由   提交 /u/iibarbari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cruak4/free_uptime_monitoring_for_open_source_projects/</guid>
-      <pubDate>Tue, 14 May 2024 15:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 OpenGPT4 o</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cru3nt/introducing_opengpt4_o/</link>
-      <description><![CDATA[介绍OpenGPT-4o 此处演示：https://huggingface.co/spaces/KingNish/GPT-4o 功能： 1️⃣ 可能的输入是文本 ✏️、文本 + 图像 📝🖼️、音频 🎧 ，可能的输出是图像 🖼️、图像 + 文本 🖼️📝、文本 📝、音频 🎧 2️⃣ Flat 100 ％开源和超快⚡。 3️⃣在GPT 4o之前公开可用。 未来功能： 1️⃣ 使用 PDF 聊天（语音和文本） 2️⃣ 视频生成。 3️⃣ 顺序图像生成。 4️⃣ 更好的 UI 和自定义。 &gt;   由   提交 /u/RealKingNish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cru3nt/introducing_opengpt4_o/</guid>
-      <pubDate>Tue, 14 May 2024 14:53:22 GMT</pubDate>
     </item>
     <item>
       <title>我正在寻找基于实际使用情况的网络抓取工具的建议。请突出显示任何特定的优点或缺点。 🙏</title>
@@ -92,7 +78,7 @@
     <item>
       <title>对功能最丰富、功能最强大的自由开源软件视频编辑器有什么看法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cr6383/opinions_on_most_featurerich_and_powerful_foss/</link>
-      <description><![CDATA[正如标题中所说，我想知道您认为 FOSS 中功能最丰富的视频编辑器是什么。不，我不是在寻找 Davinci Resolve。到目前为止，我已经尝试过 Shotcut 和 Kdenlive，但我使用它们的时间不够长，无法判断其中一个是否比另一个更强大（尽管我觉得 kdenlive 可以做得更多） 我还没有尝试过其他的，所以如果有人尝试过，我想听听你对这个问题的看法   由   提交 /u/OhItsuMe   [链接] [评论]]]></description>
+      <description><![CDATA[正如标题中所说，我想知道您认为 FOSS 中功能最丰富的视频编辑器是什么。不，我不是在寻找 Davinci Resolve。到目前为止，我已经尝试过 Shotcut 和 Kdenlive，但我使用它们的时间不够长，无法判断其中一个是否比另一个更强大（尽管我觉得 kdenlive 可以做得更多） 我还没有尝试过其他的，所以如果有人尝试过，我想听听您对这个问题的看法   由   提交 /u/OhItsuMe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cr6383/opinions_on_most_featurerich_and_powerful_foss/</guid>
       <pubDate>Mon, 13 May 2024 18:10:44 GMT</pubDate>
     </item>
@@ -109,6 +95,20 @@
       <description><![CDATA[寻找 www.invideo.io 的替代方案您可以使用 AI 生成视频。有什么建议吗？   由   提交/u/Past-Statistician358  /u/Past-Statistician358 reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/</guid>
       <pubDate>Mon, 13 May 2024 16:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源游戏列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cqzpe1/a_list_of_open_source_games/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/moontoadzzz  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cqzpe1/a_list_of_open_source_games/</guid>
+      <pubDate>Mon, 13 May 2024 13:46:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peristyle：使用自动壁纸管理、编辑和设置本地壁纸</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cqwsp5/peristyle_manage_edit_and_set_your_local/</link>
+      <description><![CDATA[为什么选择 Peristyle？ Peristyle 是一款极其简单且复杂的 Android 壁纸管理器和浏览器应用程序。它解决了功能过多、应用程序臃肿以及对本地存储的壁纸支持极少的问题。如果您只是想要一个允许您浏览和选择自己本地存储的壁纸并让您管理和设置壁纸的应用程序，该怎么办？那么 Peristyle 适合您:) 功能  简单的架构，浏览壁纸并使用系统壁纸管理器将其设置为壁纸。 可以扫描.nomedia 目录，如果您想让壁纸远离图库，这很有用。 在任何壁纸上动态应用模糊和颜色滤镜（仅限 Android 12 及更高版本）。 自动壁纸更换器. 简单而漂亮的动画，并进行适当的优化。 生物识别锁支持。 完全材质化，您可以使用边到边界面进行设计。   ul&gt; Peristyle 作为 FOSS 应用程序发布，可以从以下位置下载： 屏幕截图  GitHub F-Droid IzzyOnDroid Peristyle 是免费的，请尝试一下，如果您有建议和反馈，请告诉我:) &lt;!-- SC_ON - -&gt;  由   提交/u/_Hamza417  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cqwsp5/peristyle_manage_edit_and_set_your_local/</guid>
+      <pubDate>Mon, 13 May 2024 11:18:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

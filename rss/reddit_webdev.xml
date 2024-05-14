@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 14 May 2024 15:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:16:57 GMT</lastBuildDate>
+    <item>
+      <title>一个非常愚蠢的问题，但我真的需要帮助..</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cryxz7/a_really_dumb_question_but_i_really_need_help/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cryxz7/a_really_dumb_question_but_i_really_need_help/</guid>
+      <pubDate>Tue, 14 May 2024 18:12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找可以使用移动用户界面轻松编辑网站内容的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cry6f5/looking_for_something_to_edit_website_content/</link>
+      <description><![CDATA[嗨，首先我不是 Web 开发人员。我可以编写 html 和 css（到目前为止还不是专业的），并且我了解一点 JavaScript 和 php。我这样做是出于爱好。 我需要为一个朋友创建一个小型静态 html 网站，他想在其中自己编辑一些内容。如果可能的话，还有一张桌子。 ui 需要简单并且可以在智能手机上使用，因为他对 html 之类的东西没有任何线索。 由于该网站托管在专用网站 Hoster 上，我无法使用需要 NodeJS 的 CMS 。我可以访问 PHP 和 MySQL。 我使用 Pico CSS 框架创建了该网站。 （目前）上面没有 JavaScript 或 php。 内容将是静态文本或表格。  所以我基本上想要的是一个带有登录选项的小型管理面板，其中的用户界面允许修改预定义的内容。 不需要添加文本区域或表格之类的东西，这是如果他想要更多内容，我仍然可以手动执行此操作。 我尝试了 Drupal 和 Typo3，它们可以直接安装在网站主机上，但它们似乎超载，而且我已经创建了网站并且无法不知道如何在那些 CMS 上使用它......这远远超出了我的知识范围。 有适合​​我的用例的东西吗？ 提前致谢！   由   提交 /u/Jannomag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cry6f5/looking_for_something_to_edit_website_content/</guid>
+      <pubDate>Tue, 14 May 2024 17:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 python 脚本创建一个“hack-y”SSG？ SSG的替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crxvua/creating_a_hacky_ssg_with_python_scripts_ssg/</link>
+      <description><![CDATA[如果我编写脚本来替换所有页面的页脚和页眉会怎么样。 然后我还可以编写查找html 文件中的某种语言（即我的模板语言），并从 JSON 或 YAML 文件中提取数据。 基本上是一种 hacky 类型的 SSG？对于那些只想要页脚和页眉部分模板以及从 JSON 文件打印数据的 SSG 的人来说，我想知道是否最好使用 python 脚本来执行此操作。 我喜欢这个解决方案的简单性，以及如何通过这种方式轻松创建自己的语法。 我是否错过了某种方式，这最终会导致我搬起石头砸自己的脚？    由   提交 /u/ExLexNihilo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crxvua/creating_a_hacky_ssg_with_python_scripts_ssg/</guid>
+      <pubDate>Tue, 14 May 2024 17:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>设置文本样式的作弊代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crxdnd/cheat_code_for_styling_text/</link>
+      <description><![CDATA[Tailwind 有一个排版插件，它的生产力非常高！自从我昨天发现它以来，我开始在“关于我们”部分的所有样板中使用它，并包装用户提交的内容，哇😮 3行代码就是你需要的令人惊叹的文本。  //tailwind.config.js 插件：[require(&#39;@tailwindcss/typography&#39;)] 在 html 中： ;您的内容 这是 CSSaaS，触手可及的外包排版 有了 daisyUI，我将不再需要做出样式选择 standontheshouldersofgiants&lt; /h1&gt;   由   提交/u/jogicodes_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crxdnd/cheat_code_for_styling_text/</guid>
+      <pubDate>Tue, 14 May 2024 17:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个最好用？ Stripe - SquareUp - Shopify？其他的？混合？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crx22k/which_is_best_to_use_stripe_squareup_shopify/</link>
+      <description><![CDATA[我正在为我的业务开发多个电子商务网站。我决定使用的平台需要的一些必需品是：  销售实体产品 销售数字产品（视频、食谱、Pdf 等） 销售课程（例如狗训练课程，一次性付款） 销售订阅 -（能够以用户身份访问网站的不同部分） 潜在等级  我向能够管理网站某些方面的人销售网站 亲自销售（这就是我倾向于 SquareUp 的原因，但从什么角度来看）我听说 Shopify 使在线管理变得更容易）  理想情况下，我会为所有人使用一个平台，以便我能掌握这一点。但你们觉得怎么样？ 我制作的网站使用以下技术堆栈：  NextJS 13 TailwindCSS &lt; /ul&gt;   由   提交 /u/BeanNCheeze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crx22k/which_is_best_to_use_stripe_squareup_shopify/</guid>
+      <pubDate>Tue, 14 May 2024 16:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个无代码视觉提示生成器，并且正在寻找 beta 测试人员来帮助塑造它以满足您的需求。我们来试试吧！ （链接第一条评论）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crwqod/ive_developed_a_nocode_visual_prompt_builder_and/</link>
+      <description><![CDATA[ 由   提交/u/Admirable_Proof8972   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crwqod/ive_developed_a_nocode_visual_prompt_builder_and/</guid>
+      <pubDate>Tue, 14 May 2024 16:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 html/css/js 拖动与 audiostretch（yt 上的audiostretch memes）相同的音频/视频速度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crwdc6/how_to_change_audiovideo_speed_while_i_am/</link>
+      <description><![CDATA[我想仅使用 html/css/js 更改音频/视频速度，如audiostretch   由   提交/u/Lumnu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crwdc6/how_to_change_audiovideo_speed_while_i_am/</guid>
+      <pubDate>Tue, 14 May 2024 16:28:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在实施 embla 轮播时需要一些帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crw0eh/need_some_help_in_implementing_embla_carousel/</link>
+      <description><![CDATA[社区您好， 我正在尝试实现 embla-carousel，当您滑动幻灯片时，上一张幻灯片会显示出来将堆叠在前一个的顶部。这是 codesandbox&lt; /a&gt;，可以看到，当你滑动幻灯片时，幻灯片会抖动得非常明显。知道如何修复它吗？谢谢！   由   提交 /u/Pipe-Silly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crw0eh/need_some_help_in_implementing_embla_carousel/</guid>
+      <pubDate>Tue, 14 May 2024 16:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何隐藏/更改此 chrome 密码弹出窗口的位置，该弹出窗口阻止了我网站中的某些指令。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crvf85/how_to_hide_change_posotion_of_this_chrome/</link>
+      <description><![CDATA[      https://preview.redd.it/itumt55bye0d1.png?width=771&amp;format=png&amp;auto=webp&amp;s=e9f84959add2018c9 09c9ec9012afe6551a8d214 有什么方法可以将此浏览器工具提示的位置更改为左侧或顶部，因为它位于我网站文本的顶部？或者我是否可以让我的文本出现在该工具提示的顶部？有什么解决方法可以解决这个问题吗？谢谢！ 每当我关注密码字段时，这个工具提示总是出现。右侧的这些指令被设计为仅在密码字段获得焦点时出现，并在焦点移开时消失。因此，如果不将焦点从字段上移开，就无法隐藏该工具提示，这也会隐藏说明。工具提示隐藏焦点的唯一方法是按 esc 键，所以也许我们可以模拟 esc 键或它可能起作用的东西？如果可能的话请告诉我。谢谢！ 如果有帮助的话，我正在使用 Angular。   由   提交 /u/nefrodectyl   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crvf85/how_to_hide_change_posotion_of_this_chrome/</guid>
+      <pubDate>Tue, 14 May 2024 15:48:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP Post 已被 CORS 阻止</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crv9ii/http_post_has_been_blocked_by_cors/</link>
+      <description><![CDATA[我们必须在大学里开发一个小组项目。我们使用 Angular 作为前端，使用 Spring 作为后端，一切都在 docker compose 堆栈中运行。 我无法设法从前端向后端发出 post 请求。使用邮递员使用此主体时效果很好：  {&quot;username&quot;:&quot;user&quot;,&quot;firstname&quot;:&quot;peter&quot;,&quot;lastname&quot;:&quot;parker&quot;; ,“生日”:“2024-05-14”,“电子邮件”:“p@p.com”,“密码”:“密码”}  但是，当我尝试通过网站上的表单执行帖子时，我在 js 控制台中收到此错误：  Access to XMLHttpRequest at &#39;http://localhost:8080/&#39; from origin &#39; http://localhost&#39; 已被 CORS 策略阻止：对预检请求的响应未通过访问控制检查：请求的资源上不存在“Access-Control-Allow-Origin”标头。  我在网上读到了这个错误，它说 CORS 握手失败。有谁知道如何解决这个问题或者我应该如何尝试调试这个问题？ 这是我的角度函数：  user: User = new User();密码重复：字符串=&#39;&#39;；登录用户名: string = &#39;&#39;;登录密码: string = &#39;&#39;;用户类型：字符串=&#39;&#39;； httpOptions = { headers: new HttpHeaders({ &#39;Content-Type&#39;: &#39;application/json&#39;, Accept: &#39;*/*&#39;, &#39;Access-Control-Allow-Origin&#39;: &#39;http://localhost:8080&#39;, } ), };构造函数(私有http: HttpClient) {} onRegister() { if (this.user.password !== this.passwordRepeat) { console.error(&#39;Passwort stimmt nicht mit Passwort-Wiederholung überein&#39;);返回; } const 端点 = this.usertype === &#39;管理员&#39; ? &#39;/创建/管理&#39; : &#39;/创建/玩家&#39;; this.http .post(&#39;http://localhost:8080&#39;, this.user, this.httpOptions) .subscribe( (response) =&gt; { console.log(&#39;成功: &#39;, response); } , (错误) =&gt; { console.error(&#39;错误: &#39;, 错误); }  当我在检查器中检查请求时，它看起来与邮递员中的相同： { &quot;username&quot;: &quot;my-user- name”、“firstname”：“我的名字”、“lastname”：“我的姓氏”、“电子邮件”：“me@mydomain.com”、“密码”：“123” 、“生日”：“2024-05-14” }  我非常感谢任何帮助！   由   提交 /u/SryyBae   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crv9ii/http_post_has_been_blocked_by_cors/</guid>
+      <pubDate>Tue, 14 May 2024 15:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我在登录和注册页面中不包含任何 <header> 或 <footer>，网站是否会受到 SEO 处罚？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crv76z/will_a_website_be_penalized_by_seo_if_i_dont/</link>
+      <description><![CDATA[大家好， 正如本文的标题所示，根据您的经验，您对此场景有何看法？&lt; /p&gt; 我正在考虑网站的其他主页实际上具有  和  标记的情况。但对于登录和注册页面，我不想分散注意力，只需要一个徽标和一个  以及  、&lt; button&gt; 、 &lt;h1&gt; 和 &lt;p&gt; 标签。 我担心 SEO 对此有何反应选择。 谢谢   由   提交 /u/Banzambo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crv76z/will_a_website_be_penalized_by_seo_if_i_dont/</guid>
+      <pubDate>Tue, 14 May 2024 15:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何与人联系以获得工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1crv3xi/how_to_connect_with_people_for_jobs/</link>
+      <description><![CDATA[大家好， 首先让我说我已经准备好在公司工作了。没有学位等。我在一家公司担任开发人员工作了 18 个月，但我被解雇了，因为他们公司不复存在了。我创建了一些网站、MERN 堆栈商店和一个 nextjs 博客组合网站。 LinkedIn。 正如许多人所说，这不仅与您所知道的内容有关，还与您认识的人有关。在现实生活中，我时不时会遇到开发人员，但我从来没有达到他们可能会在他们公司推荐我的程度。 你如何与人们联系以在公司找到工作？  感谢您的阅读   由   提交 /u/avadakava   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1crv3xi/how_to_connect_with_people_for_jobs/</guid>
+      <pubDate>Tue, 14 May 2024 15:35:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有暂存和生产环境的静态站点。如何设置？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cruz8x/static_site_with_staging_and_production/</link>
+      <description><![CDATA[大家好， 我最近一直在探索静态网站构建器（以及无头 CMS 的世界）。非常有趣的东西！ 无论技术如何配置，对我来说一个关键功能是拥有一个用于测试事物的暂存环境。  对于无头......无论现有的部署技术如何......是否有创建临时和生产环境的最佳实践。  由于大多数这些工具似乎都可以与 Git 配合使用，那么是否就像在存储库上建立暂存和生产分支并在准备上线时在它们之间移动内容一样简单？  如果您想做到这一点，是否必须使用 CI CD 工具之类的工具，或者某些大型部署工具中的功能通常足以满足此目的？  TIA！    由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cruz8x/static_site_with_staging_and_production/</guid>
+      <pubDate>Tue, 14 May 2024 15:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>为有联系表单的朋友托管单页（非 SPA）静态 HTML/CSS 网站的最佳位置？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cruw6j/best_place_to_host_a_single_page_not_spa_static/</link>
+      <description><![CDATA[我是一名开发人员，通过为一位好朋友建立了一个简单的 HTML 网站来宣传他的服务，从而帮助他摆脱了小型企业的困境。我们想要一个联系表格，以便尽可能轻松地向他发送消息，否则它完全是一个静态网站。像 Cloudflare 或 Netlify 这样的地方是最好的选择吗？ 编辑：我想找到一个可以支持联系表单的主机，这样我的朋友就可以从一个地方管理他的网站，进行托管和托管处理表单以使其更容易。   由   提交 /u/deprecateddeveloper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cruw6j/best_place_to_host_a_single_page_not_spa_static/</guid>
+      <pubDate>Tue, 14 May 2024 15:26:21 GMT</pubDate>
+    </item>
     <item>
       <title>升级 jQuery：努力打造健康的 Web</title>
       <link>https://www.reddit.com/r/webdev/comments/1cruffv/upgrading_jquery_working_towards_a_healthy_web/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cruffv/upgrading_jquery_working_towards_a_healthy_web/</guid>
       <pubDate>Tue, 14 May 2024 15:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的投资组合。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cruekv/rate_my_portfolio/</link>
-      <description><![CDATA[嗨，我最近一直在研究我的作品集，我希望有人对其进行审核，它尚未针对移动设备进行 100% 优化，但我目前正在努力。 提前致谢！ 作品集：https://shadowthings.pt   由   提交/u/shadowoff09  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cruekv/rate_my_portfolio/</guid>
-      <pubDate>Tue, 14 May 2024 15:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>将具有付费选项的项目开源有什么缺点吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crtzi9/any_downsides_with_making_a_project_opensource/</link>
-      <description><![CDATA[我正在为自己制作一个项目，并考虑将其开源，以防其他人正在寻找类似的东西并且可能想要贡献或使用 对于付费选项，我的意思只是我将托管该项目并支付所需的额外 API 服务费用，并将其纳入最终用户支付的订阅中。但如果您想自己托管它，您可以免费拥有它。 我认为很多人已经在这样做了，例如：Obsidian。 md - 您可以免费获得它，也可以付费在任何地方访问它。 我的问题是，有什么我应该记住的吗？如果人们做出贡献，然后我使用他们的代码，会发生什么？我应该避免上传任何特定部分吗？ （ofc不是密钥之类的，而是api或websocket？）    由   提交 /u/Terzom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crtzi9/any_downsides_with_making_a_project_opensource/</guid>
-      <pubDate>Tue, 14 May 2024 14:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试使用 Javascript 淡出一个元素并淡出另一个元素：不确定为什么 getElementByID 不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crtpji/trying_to_fade_one_element_out_and_fade_a/</link>
-      <description><![CDATA[好的，所以我正在尝试设置一个网页，其中不同的元素淡入和淡出。我意识到有更好的方法可以做到这一点，但我只是想弄清楚这个 javascript。我已经浏览了文档和教程，但我不确定下一步该去哪里。 在下面的代码中，我使用 Promise 和异步函数来确保元素在合适的时间。本质上，用户单击一些按钮来启动此脚本。我遇到的最大问题是目标元素没有改变。我使用“onclick”来调用脚本html 中的属性 -- 其中 target 是不同元素的 ID，因此“this”是淡出并且(一旦完成)“目标”出现。淡入。 我不太确定为什么这对我不起作用，并且我确信我的代码很混乱，但请帮助我弄清楚为什么目标元素没有出现/更改（即使我没有注释掉 trans 函数中的文档调用） const speed = 0.15;函数 fadeOut(e){ 让 op = 1; return new Promise((resolve) =&gt; { 让计时器 = setInterval(function (){ if(op &lt; 0.05){ e.style.opacity = 0; e.style.display = &quot;none&quot;;clearInterval(timer ); console.log(&quot;淡出&quot;); 解析(&quot;淡出完成&quot;); op -= op * 速度 }, 50); ; }) } 函数 fadeIn(e) { 让 op = 0.05; e.style.opacity = op; e.style.display = “内联”; return new Promise((resolve) =&gt; { lettimer = setInterval(function (){ e.style.opacity = op; op += op * speed; console.log(op); //console.log(e. style.display) if(op &gt; 0.95){ e.style.display = &quot;inline&quot;; e.style.opacity = 1; console.log(&quot;淡入&quot;); ;淡入完成”) } }, 50) } 异步函数 trans(e, target){ console.log(target); // document.getElementById(target).style.opacity = 1; // document.getElementById(target).style.display = &quot;inline&quot;;等待淡出（e）；等待 fadeIn(document.getElementById(target)); }    由   提交/u/Quaysan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crtpji/trying_to_fade_one_element_out_and_fade_a/</guid>
-      <pubDate>Tue, 14 May 2024 14:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：VPS 上的 WooCommerce 网站持续出现资源消耗问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crtjk8/help_needed_persistent_resource_consumption/</link>
-      <description><![CDATA[大家好， 我使用从 ThemeForest 购买的模板构建的 WooCommerce 电子商务网站遇到了一个持续存在的问题。该网站已经运行了三年多，但在过去的3-4个月里，由于资源消耗过高，经常出现宕机的情况。以下是该问题的概要：  初始设置：该网站最初托管在共享主机上，但由于资源限制而开始频繁停机。 &lt; li&gt;当前设置：我们已转移到 VPS (Contabo)，希望能够解决该问题，但问题仍然存在。该网站每天多次停止工作。 可能的原因：我怀疑机器人流量可能会淹没该网站。 子域测试：当我们将网站放在子域上时，它不会遇到这些问题，这让我认为主域是目标（可能是因为它索引良好并且具有良好的 SEO）。 &lt; li&gt;采取的措施： 删除并重新上传所有网站文件 - 没有变化。 启用 Cloudflare 的“受到攻击”功能模式 - 没有改进。 目前限制每 10 秒的请求数量，看看是否有帮助。   此网站至关重要为我的朋友（我免费提供帮助，因为我推荐了三年前最初制作该网站的人），他的业务严重依赖它。为了解决这个问题，我感到压力很大。 网站：https://goldenbabyshop.com/  有人遇到过类似的问题吗？关于我还可以尝试什么有什么建议吗？任何帮助或建议将不胜感激！ 提前谢谢您！   由   提交 /u/customEntregineer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crtjk8/help_needed_persistent_resource_consumption/</guid>
-      <pubDate>Tue, 14 May 2024 14:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对人工智能网站建设者有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crsyy8/what_is_your_opinion_on_ai_website_builders/</link>
-      <description><![CDATA[我经常看到一些“人工智能网站构建器”突然出现，我不得不说我今天遇到了一个非常有趣的。该网站是 https://gamma.app/ 我想知道他们的网站生成组件是如何工作的。是只是根据用户选择修改样式和颜色的模板还是在后端实际生成？ 用户还可以在完整模板中添加/删除/修改部分，有点像页面构建器。我无法理解类似的技术。   由   提交/u/Mysterious_Ad8794   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crsyy8/what_is_your_opinion_on_ai_website_builders/</guid>
-      <pubDate>Tue, 14 May 2024 14:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我试图让我的个人博客更加简约</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crsdt4/i_tried_to_make_my_personal_blog_even_more_minimal/</link>
-      <description><![CDATA[       由   提交 /u/MisterEmbedded   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crsdt4/i_tried_to_make_my_personal_blog_even_more_minimal/</guid>
-      <pubDate>Tue, 14 May 2024 13:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适合科技作家的优秀网络应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crrvyq/are_there_any_good_web_apps_for_tech_writers/</link>
-      <description><![CDATA[现在，在我的公司，我们有一种非正式的技术作家评论。主要是开发人员将我们技术作者的文本复制/粘贴到我们的各种 i18n 文件中。 是否有更好的选择，技术作者可以发布自己版本的 i18n 文件？这些会很贵吗？   由   提交 /u/StTheo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crrvyq/are_there_any_good_web_apps_for_tech_writers/</guid>
-      <pubDate>Tue, 14 May 2024 13:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名全栈开发人员，想学习人工智能。我应该怎么办 ？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crrcqk/i_am_a_full_stack_dev_and_wanna_learn_ai_what/</link>
-      <description><![CDATA[嘿，我是一名全栈开发人员，自新冠疫情以来，我一直对学习和了解人工智能抱有好奇心。我很困惑我是否应该开始学习人工智能或仍然专注于我的网络开发技能。我担心会偏离轨道。 你们中有人有类似的经历吗？你们做了什么？ 我的意思是，我当然已经在一个域中，我需要每天学习新事物并取得进步，在这个过程中，如果我开始做其他事情，它会影响我的进步，或者我会变得一无是处。您对此有何看法？   由   提交 /u/trilokkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crrcqk/i_am_a_full_stack_dev_and_wanna_learn_ai_what/</guid>
-      <pubDate>Tue, 14 May 2024 12:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以通过将 ddm 参数从 0 更改为 1 来试验 ChatGPT Mac 应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crpmak/you_can_experiment_chatgpt_mac_app_by_changing/</link>
-      <description><![CDATA[   /u/voldaew  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crpmak/you_can_experiment_chatgpt_mac_app_by_changing/</guid>
-      <pubDate>Tue, 14 May 2024 11:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>C#/CSharp 在现代软件开发中的威力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crper8/power_of_ccsharp_in_modern_software_development/</link>
-      <description><![CDATA[   /u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crper8/power_of_ccsharp_in_modern_software_development/</guid>
-      <pubDate>Tue, 14 May 2024 11:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在很多方面，“旧互联网”有更好的用户体验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1croz8u/in_many_ways_old_internet_had_better_ux/</link>
-      <description><![CDATA[现在的功能和可能性肯定是 x100，其中一些可能是怀旧的，但其他婴儿潮一代可能也有同样的一些观点 1 ）尽管网络速度很糟糕（我的第一个是“快速 7kB/s，即下载react-dom.js 需要 7 秒”）页面仍然相对较快。通常感觉这些天页面速度变慢 2）缓存和后退/前进效果很好。可以向后/向前浏览历史记录。此外，许多网站在离线状态下运行得非常好 3) 谷歌搜索过去常常提供搜索词实际出现的结果 4) 在页面上查找实际信息要容易得多，现在它是90% 的图像和空白空间，在某些模式或角落中隐藏着有意义的信息。 5) 论坛有更好的用户体验，可以找到您之前看到的帖子，查看哪些线程有新回复，将实际帖子作为线程阅读，没有赞成/反对的废话等。 6) UI 中的过度活跃。现在是不断的跳跃、过渡、情态、多步形式等等。我仍然更喜欢等待并获得完整的页面，而不是从各个方向闪现的内容   由   提交 /u/yksvaan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1croz8u/in_many_ways_old_internet_had_better_ux/</guid>
-      <pubDate>Tue, 14 May 2024 10:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为自由职业者提供外部客户支持服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crowxz/external_client_support_services_for_freelancers/</link>
-      <description><![CDATA[作为一名自由职业者，我想为我的客户提供支持服务，但由于我有很多客户，我不想被支持淹没一直在请求。是否有人使用外部支持提供商来处理此类支持请求？换句话说，客户支持的前线接受他们的请求，初级开发人员是否能够处理较轻的请求并将任何较大的项目传递给我？ 我的客户位于不同的时区，因此能够在他们的工作时间向他们提供回复也很好。   由   提交 /u/endlesswander   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crowxz/external_client_support_services_for_freelancers/</guid>
-      <pubDate>Tue, 14 May 2024 10:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>101domain适合购买国外域名吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1croskn/is_101domain_good_for_foreign_domain_purchase/</link>
-      <description><![CDATA[我需要购买阿曼域名（.om），我之前没有购买过国外域名，在 Google 上搜索时发现内容有限，有些弹出的网站是专门购买阿曼域名的，看起来不太可靠，但是101domains似乎提供了不同的国外域名，101domains购买国外域名可靠吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/Cursed_fc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1croskn/is_101domain_good_for_foreign_domain_purchase/</guid>
-      <pubDate>Tue, 14 May 2024 10:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>利基还是不利基机构？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1crok5h/to_niche_or_not_to_niche_an_agency/</link>
-      <description><![CDATA[我在这里遇到问题。我正在处理 3 个利基市场。都有不同的域。但没有任何客户。不确定我是否应该保留全部 3 个域名，还是只保留一个在我专业的网站上拥有 4-5 个细分市场的综合机构？  想法？   由   提交/u/helpmeoutplease920  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1crok5h/to_niche_or_not_to_niche_an_agency/</guid>
-      <pubDate>Tue, 14 May 2024 10:09:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
