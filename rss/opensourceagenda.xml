@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Wed, 15 May 2024 12:25:43 GMT</lastBuildDate>
-    <item>
-      <title>构建文档 C</title>
-      <link>https://www.opensourceagenda.com/projects/structuring-the-document-c</link>
-      <description><![CDATA[#include int main() { int number1, number2, sum; printf(&quot;请输入两个整数：&quot;); scanf(&quot;%d %d&quot;, &amp;number1, &amp;number2); // 计算总和 sum = number1 + number2; printf(&quot;%d + %d = %d&quot;, 数字 1, 数字 2, 总和);返回0； }]]></description>
-      <guid>https://www.opensourceagenda.com/projects/structuring-the-document-c</guid>
-      <pubDate>Wed, 15 May 2024 12:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>T5.rs</title>
-      <link>https://www.opensourceagenda.com/projects/t5rs</link>
-      <description><![CDATA[使用 Rust、Cargo Mobile 2、Dioxus、Warp 开发的固执己见的跨平台全栈应用程序模板Diesel、PostgreSQL、Supabase Auth、Bun 和 TailwindCSS。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/t5rs</guid>
-      <pubDate>Wed, 15 May 2024 12:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genkit 插件</title>
-      <link>https://www.opensourceagenda.com/projects/genkit-plugins</link>
-      <description><![CDATA[Genkit 社区插件（OpenAI、Groq、Anthropic、Cohere 等）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/genkit-plugins</guid>
-      <pubDate>Wed, 15 May 2024 12:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>国家电网</title>
-      <link>https://www.opensourceagenda.com/projects/state-grid</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/state-grid</guid>
-      <pubDate>Wed, 15 May 2024 12:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>脑肿瘤检测2</title>
-      <link>https://www.opensourceagenda.com/projects/brain-tumor-detection-2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/brain-tumor-detection-2</guid>
-      <pubDate>Wed, 15 May 2024 12:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>字符串的排列</title>
-      <link>https://www.opensourceagenda.com/projects/permutations-of-string</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/permutations-of-string</guid>
-      <pubDate>Wed, 15 May 2024 12:25:42 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 15:14:38 GMT</lastBuildDate>
     <item>
       <title>艾贾维斯</title>
       <link>https://www.opensourceagenda.com/projects/ai-jarvis</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/ai-jarvis</guid>
-      <pubDate>Wed, 15 May 2024 12:25:41 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:38 GMT</pubDate>
     </item>
     <item>
       <title>脚踏板事故预防系统</title>
       <link>https://www.opensourceagenda.com/projects/foot-board-accident-prevention-system</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/foot-board-accident-prevention-system</guid>
-      <pubDate>Wed, 15 May 2024 12:25:41 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:38 GMT</pubDate>
     </item>
     <item>
       <title>Java 文件结尾</title>
       <link>https://www.opensourceagenda.com/projects/java-end-of-the-file</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/java-end-of-the-file</guid>
-      <pubDate>Wed, 15 May 2024 12:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>很棒的CA</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-ca</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-ca</guid>
-      <pubDate>Wed, 15 May 2024 12:25:40 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:38 GMT</pubDate>
     </item>
     <item>
       <title>对字符串数组进行排序</title>
       <link>https://www.opensourceagenda.com/projects/sorting-array-of-string</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/sorting-array-of-string</guid>
-      <pubDate>Wed, 15 May 2024 12:25:40 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:37 GMT</pubDate>
     </item>
     <item>
       <title>酒精驱动发动机锁定系统</title>
       <link>https://www.opensourceagenda.com/projects/alcohol-drive-engine-locking-system</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/alcohol-drive-engine-locking-system</guid>
-      <pubDate>Wed, 15 May 2024 12:25:40 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:37 GMT</pubDate>
     </item>
     <item>
       <title>欧盟投票器</title>
       <link>https://www.opensourceagenda.com/projects/votefindereu</link>
       <description><![CDATA[为欧洲议会的文本投票 ✉️ 并找出哪个政党和你一样投票 ✌️]]></description>
       <guid>https://www.opensourceagenda.com/projects/votefindereu</guid>
-      <pubDate>Wed, 15 May 2024 12:25:40 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:37 GMT</pubDate>
     </item>
     <item>
       <title>项目中心</title>
       <link>https://www.opensourceagenda.com/projects/projectshub</link>
       <description><![CDATA[欢迎来到 ProjectsHub 平台存储库！ 🚀您的黑客马拉松、编码挑战、项目概念和自由任务的首选平台。立即加入，与其他技术爱好者一起探索、学习和合作。让我们一起创造一些令人惊奇的事情！ 🚀]]></description>
       <guid>https://www.opensourceagenda.com/projects/projectshub</guid>
-      <pubDate>Wed, 15 May 2024 12:25:39 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:36 GMT</pubDate>
     </item>
     <item>
       <title>心力衰竭预测系统</title>
       <link>https://www.opensourceagenda.com/projects/heart-failure-prediction-system</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/heart-failure-prediction-system</guid>
-      <pubDate>Wed, 15 May 2024 12:25:39 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 15:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>很棒的CA</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-ca</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/awesome-ca</guid>
+      <pubDate>Wed, 15 May 2024 15:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Img2多彩字符</title>
+      <link>https://www.opensourceagenda.com/projects/img2colorfulchars</link>
+      <description><![CDATA[将图像或视频转换为彩色字符并在 C# 控制台中打印它们。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/img2colorfulchars</guid>
+      <pubDate>Wed, 15 May 2024 15:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>控制台应用程序视觉效果</title>
+      <link>https://www.opensourceagenda.com/projects/consoleappvisuals</link>
+      <description><![CDATA[专为控制台应用程序设计的用户友好的 .NET 视觉对象库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/consoleappvisuals</guid>
+      <pubDate>Wed, 15 May 2024 15:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>打字导师</title>
+      <link>https://www.opensourceagenda.com/projects/typing-tutor</link>
+      <description><![CDATA[🎮 一款使用 C++（基于控制台）制作的交互式图形打字导师游戏，具有各种难度级别和有趣的游戏玩法。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/typing-tutor</guid>
+      <pubDate>Wed, 15 May 2024 15:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>糖踪</title>
+      <link>https://www.opensourceagenda.com/projects/sugartrail</link>
+      <description><![CDATA[可视化通过 UK Companies House 连接的公司、管理人员和地址网络]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sugartrail</guid>
+      <pubDate>Wed, 15 May 2024 15:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>瞧画廊.github.io</title>
+      <link>https://www.opensourceagenda.com/projects/voila-gallerygithubio</link>
+      <description><![CDATA[面向公众的 voila-gallery.org 部署]]></description>
+      <guid>https://www.opensourceagenda.com/projects/voila-gallerygithubio</guid>
+      <pubDate>Wed, 15 May 2024 15:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>地球引擎应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/earthengine-apps</link>
+      <description><![CDATA[使用 geemap 和瞧创建的 Earth Engine 应用程序集合]]></description>
+      <guid>https://www.opensourceagenda.com/projects/earthengine-apps</guid>
+      <pubDate>Wed, 15 May 2024 15:14:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

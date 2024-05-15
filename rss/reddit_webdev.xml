@@ -3,8 +3,85 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 May 2024 12:25:21 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 15 May 2024 15:14:11 GMT</lastBuildDate>
+    <item>
+      <title>Web4 会是什么样子？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csn8w0/how_would_web4_look_like/</link>
+      <description><![CDATA[ 由   提交/u/CuriousActive2322  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csn8w0/how_would_web4_look_like/</guid>
+      <pubDate>Wed, 15 May 2024 15:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态 Nuxt 网站在 Vercel 上使用大量带宽</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csn52x/static_nuxt_website_using_a_lot_of_bandwidth_on/</link>
+      <description><![CDATA[嗨！ 我对 Vercel 还很陌生，我曾经在 Digital Ocean 应用程序上托管我的网站，但我有 2客户规模非常小，Vercel 似乎非常适合他们，直到我收到一封电子邮件，说我几乎用完了所有快速数据传输上限。 网站 no1 完全静态，在构建时从 Prismic 提取数据，图像托管在其 CDN 上。距离为6mo。这个在过去 14 天内有 22 次页面浏览，在 Vercel 上使用了 20GB。这怎么可能？我可以做些什么来改善这一点？ Swell.js 上的产品和图像也位于其 CDN 上。距离是20mb。这个，我没有页面浏览量，但过去 30 天大概有 60 个页面浏览量，并且使用了 65gb。   由   提交/u/s0m3b0dy447  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csn52x/static_nuxt_website_using_a_lot_of_bandwidth_on/</guid>
+      <pubDate>Wed, 15 May 2024 15:08:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应式网页设计的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csmekx/problems_with_responsive_web_design/</link>
+      <description><![CDATA[我在构建响应式网站时遇到问题，是否有任何好的资源可以帮助我掌握响应式网页设计   由   提交 /u/Primary_Move_7784   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csmekx/problems_with_responsive_web_design/</guid>
+      <pubDate>Wed, 15 May 2024 14:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作一堂代码学院风格的课程。有没有示例项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csmdre/how_would_one_make_a_code_academy_style_lesson/</link>
+      <description><![CDATA[嗨， 我有点想制作一个代码学院风格的pastebin/课程。我有点不确定一些细节。  我认为对于课程部分来说，针对特定工作量身定制的 XML 文件就可以很好地工作。这是第二部分，很难。  我找到了一个开源粘贴箱，可以让我执行代码。  我遇到的问题是检查代码的多样性并找到合理的方式来提供反馈。  对于解决方案来说，不可能完全匹配，因为解决问题的方法有很多。  我想我可以使用聊天 ChatGPT API，但 Code Academy 是在任何生成式 AI 解决方案之前就已经存在的。  我尝试在 github 上找到示例，但没有成功。有人知道吗？    由   提交 /u/Coffee4thewin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csmdre/how_would_one_make_a_code_academy_style_lesson/</guid>
+      <pubDate>Wed, 15 May 2024 14:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>向 Chrome 应用商店提交广告拦截器，YouTube 可能会删除您的所有视频广告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csm34x/submit_an_ad_blocker_to_the_chrome_store_and/</link>
+      <description><![CDATA[我开发了一个 YouTube 视频广告拦截器，为了好玩，我将该插件提交到了 Chrome 应用商店。第二天，由于代码中的一个小错误，它被拒绝了。因此，我修复了它并想在重新提交之前对其进行测试。接下来发生的事情很搞笑。 在测试时，Google 似乎已经将这些点联系起来并删除了我帐户上的所有视频广告 - 我用来提交附加组件的帐户也是如此。视频广告几乎为零。我尝试加载至少 30 个视频来查找一个广告，以便测试我的修复，但没有！ 出于好奇，我切换到隐身模式，然后砰的一声，广告又回来了。在我的帐户上，仍然没有广告。然后我退出了，在第一个视频上，又出现了广告。因此，我想这对于任何开发人员来说都是一个摆脱 YouTube 广告的简单解决方案 - 只需向 Chrome 商店提交广告拦截器即可。    ;由   提交 /u/Loindes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csm34x/submit_an_ad_blocker_to_the_chrome_store_and/</guid>
+      <pubDate>Wed, 15 May 2024 14:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要什么开发人员？ - 需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/</link>
+      <description><![CDATA[开发人员您好， 我希望在加密空间中创建一个应用程序。具体来说是一个投资组合跟踪应用程序。用户将能够从这一空间跟踪和监控他们的所有钱包/投资组合。 无论如何，这都是基本的。我知道该领域已经有其他人在这样做，但我有进一步的想法来将其提升到一个水平。另外，所有行业都有竞争对手，所以这不是一个问题。  我不是开发人员，也没有任何开发知识。我的知识属于商业和营销方面。我的问题是我具体需要什么类型的开发人员？ 我假设有不同类型的开发人员，他们使用什么系统以及他们开发什么东西等。我的计划是首先通过自由职业网站（可能是更便宜的海外雇佣）来创建初始版本。一旦它开始成形，我可能会转向更昂贵、更有经验的人。  希望这些信息足以让您就我的需要提供建议。感谢任何建议   由   提交/u/Ratters-01  /u/Ratters-01  reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/</guid>
+      <pubDate>Wed, 15 May 2024 14:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费登陆页面生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cslfak/free_landing_page_generator/</link>
+      <description><![CDATA[大家好， 我最近构建了一个免费的着陆页生成器，我认为您会发现它很有用：landingpages.gptconsole.ai 它的作用： • 使用单个生成专业着陆页- 页面 HTML 结构。 • 包括重要部分：标题、功能、博客、团队、统计、用例、定价、常见问题解答、页脚。 • 允许您根据需要更改图像、编辑文本和删除部分。 • 您可以公开共享您的登陆页面或将其下载为静态 HTML 单页。  尝试一下，让我知道你的想法！   由   提交 /u/PowerfulDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cslfak/free_landing_page_generator/</guid>
+      <pubDate>Wed, 15 May 2024 13:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望建立一个讨论论坛来“实践”新技术/概念，您认为必须具备哪些功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cskzqy/looking_to_build_a_discussion_forum_to_practice/</link>
+      <description><![CDATA[我一直在考虑一个可以学习一些新技术和/或概念的项目，因为我曾经积极参与大约十年前有许多不同的论坛（主要由 phpBB 和 Invision 提供支持），我想我应该尝试构建类似的东西。 根据我的经验，我已经获得了论坛所需的一组不错的功能使用前面提到的论坛软件，但我想知道你们是否还能想到更多。到目前为止我所掌握的； 管理  角色和角色权限 基于电子邮件的禁止 基于 IP 的禁止  主题/类别  类别 CRUD 类别内的线程 CRUD 线程内回复 CRUD  提及/标记其他用户 引用其他回复&lt; /li&gt; 编辑/删除帖子的时间有限，可由管理员配置  喜欢个别回复（或添加其他反应） 固定线程 线程锁定  配置文件/用户特定  头像 个人资料横幅（可能） 签名，显示在每个回复下方 阻止/静音单个用户 用户之间的私信/私人消息 个人资料消息 个人资料上的基本统计信息（话题、回复、收到的反应、给出的反应） 高级统计信息（每个类别、每个话题的回复计数）  我遗漏了什么明显的东西吗？我不打算向公众发布它，但我希望有一个功能尽可能丰富的论坛。   由   提交 /u/MotorLock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cskzqy/looking_to_build_a_discussion_forum_to_practice/</guid>
+      <pubDate>Wed, 15 May 2024 13:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有无头 CMS 能够很好地支持直接数据库访问，而不是通过 REST/GraphQL API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csk933/do_any_headless_cmss_have_good_support_for_direct/</link>
+      <description><![CDATA[我有兴趣在我正在从事的项目中使用无头 CMS，但它们似乎都被设计为仅支持访问通过 API 获取数据。也就是说，我的后端不能直接从数据库中获取内容，而是必须发出 REST/GraphQL API 请求才能获取该内容。然而，他们中的一些人可能确实支持这一点，但只是没有真正很好地宣传它，所以我正在努力找出哪些（如果有的话）支持它。 值得注意的是，我的站点是服务器端呈现的。我的偏好是最大限度地减少在网站上呈现页面所需的服务和连接数量，因此我宁愿后端直接连接到数据库（当然通过 SDK，以确保数据一致性并保持不变量）。  我知道对于大多数人来说，我可以直接跳过 API 并进行直接 SQL 查询（并使用 Strapi 对此进行了原型设计），但这肯定是相当脆弱的，所以我不太愿意这样做。 如果它们都不是为支持我正在寻找的架构而构建的，那将是不幸的。   由   提交 /u/sftrabbit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csk933/do_any_headless_cmss_have_good_support_for_direct/</guid>
+      <pubDate>Wed, 15 May 2024 13:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建多框布局</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csk6si/how_to_create_a_multiple_box_layout/</link>
+      <description><![CDATA[       Doordash 我正在尝试制作一个电子商务网站，就像图片中所示（取自doordash）一样，他们为每家餐厅都有定制的盒子。现在，由于网站上有很多这样的代码，我想他们不可能在那么多的框中单独编码，或者只是复制粘贴它们。他们可能有一个重复添加到网站的模板，该模板获取每家餐厅的信息。  对于我的 ecom 网站，我需要以这样的自定义布局显示我的所有产品，我确信有比在 html 中制作这么多框更好的方法。我如何在普通 js 网站中执行此操作？   由   提交/u/Lord_Mystic12   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csk6si/how_to_create_a_multiple_box_layout/</guid>
+      <pubDate>Wed, 15 May 2024 12:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>驯鹿宝宝 2015 年 Facebook 重建</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csk2br/baby_reindeers_2015_facebook_reconstruction/</link>
+      <description><![CDATA[我正在 Netflix 上观看《小驯鹿》。故事背景设定在 2015 年左右，因为它是关于一个跟踪者的，所以它描绘了那个时代的各种消息系统。意识到 2015 年已经如此遥远，以至于需要一个适当的历史描述，这让我有点震惊，但在那次震惊之后，我对 2015 年 Facebook 个人资料、提要和消息的非常准确的描述感到敬畏。还有 2015 时代的智能手机、电子邮件和其他消息传递工具，但为此您只需要适当的设备/应用程序即可。他们是如何为 Facebook 做到这一点的？   由   提交/u/butokai  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csk2br/baby_reindeers_2015_facebook_reconstruction/</guid>
+      <pubDate>Wed, 15 May 2024 12:52:38 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个 API 来发送交易电子邮件可重用模板，该模板支持 Tailwind 和 JavaScript 以及 NextJS 和 Maizzle - 烘烤我的想法（链接第一条评论）</title>
       <link>https://www.reddit.com/r/webdev/comments/1csjg9q/ive_made_an_api_to_send_transactionnal_emails/</link>
@@ -15,7 +92,7 @@
     <item>
       <title>Webflow 站点地图 GSC 错误，需要帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/</link>
-      <description><![CDATA[大家好！我的网站在 Google Search Console (GSC) 上面临双重打击。事情是这样的：  站点地图蓝调： 我的站点地图看起来非常健康。我通过验证器运行它，一切都检查完毕。然而，当我尝试将其上传到 GSC 时，我不断收到神秘的“常规 HTTP 错误”。 旧 URL 孤儿：我最近将我的域名从 GoDaddy 转移到了新的域名网站。问题？尽管已经过去一周了，那些来自上一个网站的令人讨厌的旧网址仍然在搜索结果中徘徊！  我已经尝试自己解决这两个问题，但我陷入了死胡同。希望这里有人能伸出援手！ 具体来说，我希望得到一些建议：  修复“常规 HTTP 错误”：我在 GSC 中的站点地图。 加快从搜索结果中删除那些顽固的旧网址。  任何见解或建议将不胜感激！  这是我的网站只读：Webflow - Al-Omran Building Materilas   由   提交/u/Historical-Motor8515   reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好！我的网站在 Google Search Console (GSC) 上面临双重打击。事情是这样的：  站点地图蓝调： 我的站点地图看起来非常健康。我通过验证器运行它，一切都检查完毕。然而，当我尝试将其上传到 GSC 时，我不断收到神秘的“常规 HTTP 错误”。 旧 URL 孤儿：我最近将我的域名从 GoDaddy 转移到了新的域名网站。问题？尽管已经过去一周了，那些来自上一个网站的令人讨厌的旧网址仍然在搜索结果中徘徊！  我已经尝试自己解决这两个问题，但我陷入了死胡同。希望这里有人能伸出援手！ 具体来说，我希望得到一些建议：  修复“常规 HTTP 错误”：我在 GSC 中的站点地图。 加快从搜索结果中删除那些顽固的旧网址。  任何见解或建议将不胜感激！  这是我的网站只读： Webflow - Al-Omran Building Materilas   由   提交/u/Historical-Motor8515   reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/</guid>
       <pubDate>Wed, 15 May 2024 12:15:11 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[虽然您不需要成为开发人员或策略师，但您应该对前端 Web 开发的核​​心原理有基本的了解，并且用户体验设计。您应该能够轻松地参加会议、表达想法以及与内部和外部利益相关者分享您的工作。虽然您可以在世界任何地方，但您必须能够按照东部时间晚上 9 点至 5 点的时间表重叠工作至少 5 小时。 您得到的： 您&#39;您将获得灵活的时间表、无限制的休假、有竞争力的薪水、利润分享奖金（从第二年开始）、可以在任何您想要的地方工作、个人发展预算以及所有美国联邦假期和多周休假。年底要充电。我们还将抵消您的全部碳足迹。如果您在美国，我们还提供健康保险、残疾和人寿保险以及 401(k) 匹配。 如何申请？ https://www.uxremotetalent.com/ux-job/remote-ui-web-designer   由   提交 /u/ismaruizdesign   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1csit8g/uiweb_designer_needed/</guid>
       <pubDate>Wed, 15 May 2024 11:46:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>很好的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csibbg/a_good_resource/</link>
-      <description><![CDATA[我对这一切了解不多，但我决定在暑假学习 WebD，但我不知道该从哪里学学习我收到了一些人的建议： 1. Chai aur code 2. Code with Harry 3. Udemy 课程 我真的不知道哪一个是什么请帮我找到一个好的资源。谢谢    由   提交/u/Curiosity_144p   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csibbg/a_good_resource/</guid>
-      <pubDate>Wed, 15 May 2024 11:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是如何开始编码的？您的母语是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csi5bn/how_did_you_start_coding_and_what_was_your_first/</link>
-      <description><![CDATA[我喜欢听人们如何进入编程领域。让我们沿着记忆的轨迹，分享我们的故事。我先走了。 我想，从 8 岁起，我就没有一天不看显示器。我一直对电脑很着迷，小时候经常生病。 。我经常接受注射，而且我害怕针头（就像所有孩子一样）。我爸爸找到了一种方法让我不那么脾气暴躁，当时我们没有互联网，每次我有机会我爸爸都会给我买一个电脑游戏。 当我 11 岁左右的时候，我发现了 Visual Basic 6，当时它是所有的炒作，所有很酷的孩子都用它制作愚蠢的小应用程序。我制作了一些简单的计算器之类的东西，当我 13 岁的时候，我为我玩的游戏制作了一个网络钓鱼应用程序。我更感兴趣的是看看我能用它愚弄多少人，而不是我窃取的账户。我用我的 Photoshop 技巧让它看起来超级真实，并将其发布到论坛上。大约一个月内，我的电子邮件中就有了 1500 个帐户。我登录并环顾四周，但从未偷过任何东西或更改任何密码，正如我所说，我对过程而不是结果更感兴趣。 在那之后我开始黑客攻击，我运行了一些 google dorks并破坏了一些易受攻击的网站。实际上，这更像是在主页上留下警告注释而不是污损，我会说“您的网站容易受到攻击，请尽快修复”之类的话。和东西。  幸运的是，这个阶段并没有持续很长时间，我终于意识到我更喜欢构建网站而不是破坏它们，并发现了一个令人惊叹的（当时）PHP 教程。然后是 html 和 css，以及对 Photoshop 和徽标设计的一些兴趣。快进 10 年，我仍然在制作网站，并且仍然热爱其中的每一分钟。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csi5bn/how_did_you_start_coding_and_what_was_your_first/</guid>
-      <pubDate>Wed, 15 May 2024 11:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>短信诈骗如何运作以及如何防范</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csi46m/how_sms_fraud_works_and_how_to_guard_against_it/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csi46m/how_sms_fraud_works_and_how_to_guard_against_it/</guid>
-      <pubDate>Wed, 15 May 2024 11:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管商关于域名的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cshvl0/question_about_the_domain_from_hostinger/</link>
-      <description><![CDATA[我想从托管商那里购买 1 年商业计划，它附带 1 年域名，我应该使用这个域名还是从 Porkbun 获取一个并且只使用Hostinger的主机服务？但这会花费我更多的钱。   由   提交/u/kod_32  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cshvl0/question_about_the_domain_from_hostinger/</guid>
-      <pubDate>Wed, 15 May 2024 10:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bulletproof React 刚刚更新！ - 一个简单、可扩展且功能强大的架构，用于构建生产就绪的 React 应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cshinh/bulletproof_react_just_got_updated_a_simple/</link>
-      <description><![CDATA[   /u/alan_alickovic  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cshinh/bulletproof_react_just_got_updated_a_simple/</guid>
-      <pubDate>Wed, 15 May 2024 10:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 步进值数学函数现已采用 Baseline 2024</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cshcdo/the_css_stepped_value_math_functions_are_now_in/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cshcdo/the_css_stepped_value_math_functions_are_now_in/</guid>
-      <pubDate>Wed, 15 May 2024 10:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来创建知识聊天机器人，您可以在其中使用自己的 API 密钥</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csh3wy/i_made_a_website_to_create_knowledgechatbots/</link>
-      <description><![CDATA[ 由   提交 /u/Christian-Hoeller    Ghostly.chat/de&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csh3wy/i_made_a_website_to_create_knowledgechatbots/</guid>
-      <pubDate>Wed, 15 May 2024 10:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想使用带捕捉点的网站还是不带捕捉点的站点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csgixr/would_you_like_to_use_a_site_with_snap_points_or/</link>
-      <description><![CDATA[标题说明了一切。像 snap-align 这样的捕捉点，不一定用 CSS 来完成，也可以用 JS 来完成。请随意解释您的偏好，甚至举例说明哪些地方做得好，哪些地方做得不好，以及总体而言，如果您认为这是一个好的或坏的用户体验。  &amp;# 32；由   提交 /u/Chocochinoreo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csgixr/would_you_like_to_use_a_site_with_snap_points_or/</guid>
-      <pubDate>Wed, 15 May 2024 09:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>TC39 高性能应用程序的信号提案和反应。如果这是错误的，请烤我💪</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csgikr/tc39_signal_proposal_react_for_high_performance/</link>
-      <description><![CDATA[       由   提交/u/marsa-emreef   com/arif-rachim/react-hook-signal/tree/main/examples/3-adaptive-list&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csgikr/tc39_signal_proposal_react_for_high_performance/</guid>
-      <pubDate>Wed, 15 May 2024 09:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关备份无头 CMS 站点的最佳实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csggco/best_practices_regarding_backing_up_headless_cms/</link>
-      <description><![CDATA[大家好， 这是一个非常基本的问题！ 我是新来的世界无头 CMS 和静态站点生成器，并意识到它们有很多。我刚刚使用 Astro 和 Netlify 构建了我的第一个无头网站。虽然花了一些功夫，但我还是做到了。 当谈到为 Wordpress 等传统 CMS 设置备份策略时……这非常简单。目标是运行站点的服务器，并且有很多用于处理备份的插件。 以 Astro 为例......我可以通过备份本地文件系统来增量备份我的项目。  或者，我可以将 Github 的备份配置到 S3 或 B2 等对象存储上。 如果我想在部署后备份站点（尽管如果我想备份该站点，则不需要）具备上述内容）...我有点迷失了。某处有选择吗？ 除此之外，我很好奇它一般是如何工作的。  Hashnode CMS 让您可以在他们的云上写博客，然后进行无头部署。如果托管 CMS 方面没有良好的备份功能...您在哪里进行备份？ 谢谢！  &amp;# 32；由   提交/u/danielrosehill  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csggco/best_practices_regarding_backing_up_headless_cms/</guid>
-      <pubDate>Wed, 15 May 2024 09:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>翻译 React 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csfvl2/translating_a_react_website/</link>
-      <description><![CDATA[大家好，我有我的作品集，是用 React 制作的，但是在意大利找工作很难，而且由于英语流利，我决定将其翻译成中文到英语并拥有多种语言，这样我就可以在其他地方寻找。 我查了一些有关该主题的内容，似乎 i18 是最常用的方式，但它不是一个很大的网站，所以我在考虑我自己用 JSON 文件来做。基本上有一个语言选择器，它使用上下文将用户选择的语言保存到全局状态，并导入组件的语言字符串。这是一个坏主意吗？ 而且我想如果我想将语言保存到会话中以防用户返回，那么我需要一个带有 cookie 的后端。这意味着饼干横幅吗？或者仅当您使用跟踪 cookie 时，这才是法律要求？   由   提交 /u/RyXkci   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csfvl2/translating_a_react_website/</guid>
-      <pubDate>Wed, 15 May 2024 08:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
