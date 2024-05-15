@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 May 2024 15:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 18:17:01 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助决定我的期末项目 - 使用 Next.js 构建全栈应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csrkr6/need_help_deciding_my_finals_project_using_nextjs/</link>
+      <description><![CDATA[大家好， 我即将完成商业信息学/信息系统工程硕士学位。我决定使用 Next.js 为我的最终项目构建一个全栈应用程序，但我一直坚持它应该是什么。 当我开始时，我想在我的作品集中使用这个项目寻找全职工作。我想构建一些对现实世界确实有帮助的东西。 我真诚地接受任何建议。 如果您遇到问题，您认为技术可以解决或很酷需要构建的想法，请分享！您的想法确实可以塑造我的项目，并帮助其他有抱负的全栈 Web 开发人员。 非常感谢您的帮助！  &amp;# 32；由   提交/u/Menium  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csrkr6/need_help_deciding_my_finals_project_using_nextjs/</guid>
+      <pubDate>Wed, 15 May 2024 18:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有管理功能的酒店网站的最佳后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csr4om/best_backend_for_hotel_website_with_admin/</link>
+      <description><![CDATA[嗨r/webdev！ 我已经开发了一个酒店网站的前端，现在我正在寻找一个后端解决方案，该解决方案不仅可以顺利集成，而且可以使酒店业主能够轻松管理他们的业务。我优先考虑易于实施、可扩展性和安全性。 考虑 Firebase、AWS Amplify 和 Heroku。有什么建议或经验可以分享吗？ 提前致谢！ 😃   由   提交 /u/tuksba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csr4om/best_backend_for_hotel_website_with_admin/</guid>
+      <pubDate>Wed, 15 May 2024 17:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>对express.js和java-websocket服务器使用相同的端口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csqlek/using_the_same_port_for_an_expressjs_and/</link>
+      <description><![CDATA[我试图在我的树莓派上运行express.js服务器和org.java_websocket.server.WebSocketServer。我使用 ngrok 创建到特定端口的 http 隧道，但我只能创建一个隧道，因此我需要将两台服务器连接到同一端口。我查看了许多不同的 ngrok-alternatives，但没有一个对我有用，因为它们从来没有免费提供无限持久的隧道。我 看到如果两个服务器都是用节点编写的，那么这可以很容易地完成，但是如果 WebSocketServer 是用该库编写的，我该怎么办？ Java？   由   提交/u/1Dr490n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csqlek/using_the_same_port_for_an_expressjs_and/</guid>
+      <pubDate>Wed, 15 May 2024 17:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的日历插件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csppel/best_calendar_plugin/</link>
+      <description><![CDATA[嗨！我是一家小型非营利组织的通讯人员，试图重新设计我们的网站。 有什么好的插件可以包含我们的日历/活动？希望能与我们办公室的 Google 日历同步。如果它易于使用，人们可以点击并获取更多信息/重定向到另一个网站，那就太好了！ 我目前有 Google 日历插件，但它要求我们“启用”饼干”每次我们进入我们的网站时（即使我们以前这样做过）。我们认为我们服务的老年人（尤其是第一次来的人）会遇到很多困难。 作为一个非营利组织，我们的预算很低，所以免费的东西更好，但我们是开放的到选项！ 如果您在您所推广的公司工作，请这么说 – 然后说服我选择您！ :) 谢谢！ 我是一名教师/研究员，所以我不能真正编码，但我可以轻松复制粘贴插件。 提前致谢！   由   提交/u/VincentnCatherine065   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csppel/best_calendar_plugin/</guid>
+      <pubDate>Wed, 15 May 2024 16:56:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件夹</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csogfa/portfolio/</link>
+      <description><![CDATA[您好，请问这种作品集网站有具体名称吗？就像这个作品集 https://p5aholic.me/ 一样，除了项目页面等特定页面外，没有滚动条。   由   提交/u/dee_050  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csogfa/portfolio/</guid>
+      <pubDate>Wed, 15 May 2024 16:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ExpressJS 路由 - 带有 TS 的异步函数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csocyi/expressjs_routes_async_functions_with_ts/</link>
+      <description><![CDATA[嗨！我正在使用 TS 编写我的第一个 ExpressJS 项目。我想向路由传递一个异步函数，如下所示：  router.get(&#39;/boards&#39;, BoardsController.getAll); 但无论我做什么，我都会被 TS 大喊大叫我认为：Promise 在函数参数中返回，而预期返回的是 void。 如果没有 TS，将异步函数传递给 Express 路由是很正常的。我尝试使用 express-promise-router 包，但仍然收到此错误。我可以安全地关闭此规则还是应该采取不同的措施？我传递的函数已正确处理错误   由   提交/u/Araghast667   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csocyi/expressjs_routes_async_functions_with_ts/</guid>
+      <pubDate>Wed, 15 May 2024 16:00:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 JWT Auth 的简单 Web 入门模板，包含 Vue js 前端和 ASP.NET Core 后端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csnvkt/simple_web_starter_template_with_vue_js_frontend/</link>
+      <description><![CDATA[       由   提交/u/deannolan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csnvkt/simple_web_starter_template_with_vue_js_frontend/</guid>
+      <pubDate>Wed, 15 May 2024 15:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>回答面试问题的能力是否总是与开发人员在某个领域的能力水平挂钩？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csns3k/is_the_capability_to_answer_interview_questions/</link>
+      <description><![CDATA[我正在学习成为一名初级开发人员，我为自己的水平感到自豪，但我偶然发现了一个 GitHub 存储库，其中包含大约 250 多个面试问题，并且我承认滚动浏览它们，我无法回答其中的许多问题。 就好像我的大部分知识都是应用性的，但我可能会陷入一些原因和内容 难道这是通过研究这些问题就能简单解决的吗？还是这表明了我学习上的弱点？ 我每天在公交车上或者无聊/无所事事的时候都在想读几个这样的问题，我想我可以很快地完成它们。    由   提交 /u/CyperFlicker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csns3k/is_the_capability_to_answer_interview_questions/</guid>
+      <pubDate>Wed, 15 May 2024 15:35:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些工作是薪酬最高的工作之一，因为可用人才有限或难以雇用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csne63/which_are_one_of_the_highest_paying_jobs_because/</link>
+      <description><![CDATA[同上。    由    /u/i-sage 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csne63/which_are_one_of_the_highest_paying_jobs_because/</guid>
+      <pubDate>Wed, 15 May 2024 15:19:22 GMT</pubDate>
+    </item>
     <item>
       <title>Web4 会是什么样子？</title>
       <link>https://www.reddit.com/r/webdev/comments/1csn8w0/how_would_web4_look_like/</link>
@@ -43,72 +106,9 @@
     <item>
       <title>我需要什么开发人员？ - 需要帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/</link>
-      <description><![CDATA[开发人员您好， 我希望在加密空间中创建一个应用程序。具体来说是一个投资组合跟踪应用程序。用户将能够从这一空间跟踪和监控他们的所有钱包/投资组合。 无论如何，这都是基本的。我知道该领域已经有其他人在这样做，但我有进一步的想法来将其提升到一个水平。另外，所有行业都有竞争对手，所以这不是一个问题。  我不是开发人员，也没有任何开发知识。我的知识属于商业和营销方面。我的问题是我具体需要什么类型的开发人员？ 我假设有不同类型的开发人员，他们使用什么系统以及他们开发什么东西等。我的计划是首先通过自由职业网站（可能是更便宜的海外雇佣）来创建初始版本。一旦它开始成形，我可能会转向更昂贵、更有经验的人。  希望这些信息足以让您就我的需要提供建议。感谢任何建议   由   提交/u/Ratters-01  /u/Ratters-01  reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[开发人员您好， 我希望在加密空间中创建一个应用程序。具体来说是一个投资组合跟踪应用程序。用户将能够从这一空间跟踪和监控他们的所有钱包/投资组合。 无论如何，这都是基本的。我知道该领域已经有其他人在这样做，但我有进一步的想法来将其提升到一个水平。另外，所有行业都有竞争对手，所以这不是一个问题。  我不是开发人员，也没有任何开发知识。我的知识属于商业和营销方面。我的问题是我具体需要什么类型的开发人员？ 我假设有不同类型的开发人员，他们使用什么系统以及开发什么东西等。我的计划是首先通过自由职业网站（可能是更便宜的海外雇佣）来创建初始版本。一旦它开始成形，我可能会转向更昂贵、更有经验的人。  希望这些信息足以让您就我的需要提供建议。感谢任何建议   由   提交/u/Ratters-01  /u/Ratters-01  reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cslj01/what_dev_do_i_need_help_required/</guid>
       <pubDate>Wed, 15 May 2024 14:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费登陆页面生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cslfak/free_landing_page_generator/</link>
-      <description><![CDATA[大家好， 我最近构建了一个免费的着陆页生成器，我认为您会发现它很有用：landingpages.gptconsole.ai 它的作用： • 使用单个生成专业着陆页- 页面 HTML 结构。 • 包括重要部分：标题、功能、博客、团队、统计、用例、定价、常见问题解答、页脚。 • 允许您根据需要更改图像、编辑文本和删除部分。 • 您可以公开共享您的登陆页面或将其下载为静态 HTML 单页。  尝试一下，让我知道你的想法！   由   提交 /u/PowerfulDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cslfak/free_landing_page_generator/</guid>
-      <pubDate>Wed, 15 May 2024 13:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望建立一个讨论论坛来“实践”新技术/概念，您认为必须具备哪些功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cskzqy/looking_to_build_a_discussion_forum_to_practice/</link>
-      <description><![CDATA[我一直在考虑一个可以学习一些新技术和/或概念的项目，因为我曾经积极参与大约十年前有许多不同的论坛（主要由 phpBB 和 Invision 提供支持），我想我应该尝试构建类似的东西。 根据我的经验，我已经获得了论坛所需的一组不错的功能使用前面提到的论坛软件，但我想知道你们是否还能想到更多。到目前为止我所掌握的； 管理  角色和角色权限 基于电子邮件的禁止 基于 IP 的禁止  主题/类别  类别 CRUD 类别内的线程 CRUD 线程内回复 CRUD  提及/标记其他用户 引用其他回复&lt; /li&gt; 编辑/删除帖子的时间有限，可由管理员配置  喜欢个别回复（或添加其他反应） 固定线程 线程锁定  配置文件/用户特定  头像 个人资料横幅（可能） 签名，显示在每个回复下方 阻止/静音单个用户 用户之间的私信/私人消息 个人资料消息 个人资料上的基本统计信息（话题、回复、收到的反应、给出的反应） 高级统计信息（每个类别、每个话题的回复计数）  我遗漏了什么明显的东西吗？我不打算向公众发布它，但我希望有一个功能尽可能丰富的论坛。   由   提交 /u/MotorLock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cskzqy/looking_to_build_a_discussion_forum_to_practice/</guid>
-      <pubDate>Wed, 15 May 2024 13:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有无头 CMS 能够很好地支持直接数据库访问，而不是通过 REST/GraphQL API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csk933/do_any_headless_cmss_have_good_support_for_direct/</link>
-      <description><![CDATA[我有兴趣在我正在从事的项目中使用无头 CMS，但它们似乎都被设计为仅支持访问通过 API 获取数据。也就是说，我的后端不能直接从数据库中获取内容，而是必须发出 REST/GraphQL API 请求才能获取该内容。然而，他们中的一些人可能确实支持这一点，但只是没有真正很好地宣传它，所以我正在努力找出哪些（如果有的话）支持它。 值得注意的是，我的站点是服务器端呈现的。我的偏好是最大限度地减少在网站上呈现页面所需的服务和连接数量，因此我宁愿后端直接连接到数据库（当然通过 SDK，以确保数据一致性并保持不变量）。  我知道对于大多数人来说，我可以直接跳过 API 并进行直接 SQL 查询（并使用 Strapi 对此进行了原型设计），但这肯定是相当脆弱的，所以我不太愿意这样做。 如果它们都不是为支持我正在寻找的架构而构建的，那将是不幸的。   由   提交 /u/sftrabbit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csk933/do_any_headless_cmss_have_good_support_for_direct/</guid>
-      <pubDate>Wed, 15 May 2024 13:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建多框布局</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csk6si/how_to_create_a_multiple_box_layout/</link>
-      <description><![CDATA[       Doordash 我正在尝试制作一个电子商务网站，就像图片中所示（取自doordash）一样，他们为每家餐厅都有定制的盒子。现在，由于网站上有很多这样的代码，我想他们不可能在那么多的框中单独编码，或者只是复制粘贴它们。他们可能有一个重复添加到网站的模板，该模板获取每家餐厅的信息。  对于我的 ecom 网站，我需要以这样的自定义布局显示我的所有产品，我确信有比在 html 中制作这么多框更好的方法。我如何在普通 js 网站中执行此操作？   由   提交/u/Lord_Mystic12   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csk6si/how_to_create_a_multiple_box_layout/</guid>
-      <pubDate>Wed, 15 May 2024 12:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>驯鹿宝宝 2015 年 Facebook 重建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csk2br/baby_reindeers_2015_facebook_reconstruction/</link>
-      <description><![CDATA[我正在 Netflix 上观看《小驯鹿》。故事背景设定在 2015 年左右，因为它是关于一个跟踪者的，所以它描绘了那个时代的各种消息系统。意识到 2015 年已经如此遥远，以至于需要一个适当的历史描述，这让我有点震惊，但在那次震惊之后，我对 2015 年 Facebook 个人资料、提要和消息的非常准确的描述感到敬畏。还有 2015 时代的智能手机、电子邮件和其他消息传递工具，但为此您只需要适当的设备/应用程序即可。他们是如何为 Facebook 做到这一点的？   由   提交/u/butokai  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csk2br/baby_reindeers_2015_facebook_reconstruction/</guid>
-      <pubDate>Wed, 15 May 2024 12:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 API 来发送交易电子邮件可重用模板，该模板支持 Tailwind 和 JavaScript 以及 NextJS 和 Maizzle - 烘烤我的想法（链接第一条评论）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csjg9q/ive_made_an_api_to_send_transactionnal_emails/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/Admirable_Proof8972   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csjg9q/ive_made_an_api_to_send_transactionnal_emails/</guid>
-      <pubDate>Wed, 15 May 2024 12:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webflow 站点地图 GSC 错误，需要帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/</link>
-      <description><![CDATA[大家好！我的网站在 Google Search Console (GSC) 上面临双重打击。事情是这样的：  站点地图蓝调： 我的站点地图看起来非常健康。我通过验证器运行它，一切都检查完毕。然而，当我尝试将其上传到 GSC 时，我不断收到神秘的“常规 HTTP 错误”。 旧 URL 孤儿：我最近将我的域名从 GoDaddy 转移到了新的域名网站。问题？尽管已经过去一周了，那些来自上一个网站的令人讨厌的旧网址仍然在搜索结果中徘徊！  我已经尝试自己解决这两个问题，但我陷入了死胡同。希望这里有人能伸出援手！ 具体来说，我希望得到一些建议：  修复“常规 HTTP 错误”：我在 GSC 中的站点地图。 加快从搜索结果中删除那些顽固的旧网址。  任何见解或建议将不胜感激！  这是我的网站只读： Webflow - Al-Omran Building Materilas   由   提交/u/Historical-Motor8515   reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csjcgb/webflow_sitemap_gsc_error_need_help/</guid>
-      <pubDate>Wed, 15 May 2024 12:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在发布网站之前您会做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csj2ib/what_do_you_do_before_releasing_your_website/</link>
-      <description><![CDATA[我在过去几个月中开发了一个网站，并计划很快发布它。尽管我已经为另外两个网站做过这样的事情，但我在网络开发方面仍然非常缺乏经验。  现在我想知道在发布自己的网站之前绝对需要做什么。这可能是检查页面速度或法律要求... 在发布网站之前您会做什么？你有清单吗？   由   提交 /u/redditjannis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csj2ib/what_do_you_do_before_releasing_your_website/</guid>
-      <pubDate>Wed, 15 May 2024 12:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 UI/网页设计师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csit8g/uiweb_designer_needed/</link>
-      <description><![CDATA[虽然您不需要成为开发人员或策略师，但您应该对前端 Web 开发的核​​心原理有基本的了解，并且用户体验设计。您应该能够轻松地参加会议、表达想法以及与内部和外部利益相关者分享您的工作。虽然您可以在世界任何地方，但您必须能够按照东部时间晚上 9 点至 5 点的时间表重叠工作至少 5 小时。 您得到的： 您&#39;您将获得灵活的时间表、无限制的休假、有竞争力的薪水、利润分享奖金（从第二年开始）、可以在任何您想要的地方工作、个人发展预算以及所有美国联邦假期和多周休假。年底要充电。我们还将抵消您的全部碳足迹。如果您在美国，我们还提供健康保险、残疾和人寿保险以及 401(k) 匹配。 如何申请？ https://www.uxremotetalent.com/ux-job/remote-ui-web-designer   由   提交 /u/ismaruizdesign   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csit8g/uiweb_designer_needed/</guid>
-      <pubDate>Wed, 15 May 2024 11:46:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
