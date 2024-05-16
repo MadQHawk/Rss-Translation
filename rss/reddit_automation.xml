@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 16 May 2024 00:55:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 03:15:23 GMT</lastBuildDate>
     <item>
       <title>自动元件重新球机！ - 全球碳排放交易体系</title>
       <link>https://www.reddit.com/r/automation/comments/1cstz6s/automated_component_reballing_machine_global_ets/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>寻找微软电源自动化的替代品</title>
       <link>https://www.reddit.com/r/automation/comments/1cru3i9/looking_for_alternative_to_microsoft_power/</link>
-      <description><![CDATA[我正在寻找 Microsoft Power Automation 的替代方案。 我的用例 --&gt;在 Windows 10 中打开桌面应用程序，单击某些元素并填写登录表单等。电源自动化效果很好，但它需要 Microsoft 帐户，而我无法使用 Microsoft 帐户，因为它需要登录，而我不希望出于隐私考虑，将我的 IP 提供给微软。 除了要求登录微软之外，任何其他标志都可以。而且我是学生，所以我没有公司电子邮件。 /&gt; 另外，我也没有 edu 电子邮件，因为我的大学不提供。  只要工具运行良好，我不介意支付订阅费。   由   提交/u/sid741445  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找 Microsoft Power Automation 的替代方案。 我的用例 --&gt;在 Windows 10 中打开桌面应用程序，单击某些元素并填写登录表单等。电源自动化效果很好，但它需要 Microsoft 帐户，而我无法使用 Microsoft 帐户，因为它需要登录，而我不希望出于隐私考虑，将我的 IP 提供给微软。 除了要求登录微软之外，任何其他标志都可以。而且我是学生，所以我没有公司电子邮件。另外，我也没有 edu 电子邮件，因为我的大学不提供。  只要工具运行良好，我不介意支付订阅费。   由   提交/u/sid741445  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cru3i9/looking_for_alternative_to_microsoft_power/</guid>
       <pubDate>Tue, 14 May 2024 14:53:11 GMT</pubDate>
     </item>
@@ -90,9 +90,9 @@
       <pubDate>Fri, 10 May 2024 16:57:28 GMT</pubDate>
     </item>
     <item>
-      <title>StudyPal：您的人工智能个性化学习伴侣</title>
+      <title>StudyPal：您的人工智能驱动的个性化学习伴侣</title>
       <link>https://www.reddit.com/r/automation/comments/1co16eu/studypal_your_aipowered_personalized_learning/</link>
-      <description><![CDATA[        提交人    /u/High_Sleep3694   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1co16eu/studypal_your_aipowered_personalized_learning/</guid>
       <pubDate>Thu, 09 May 2024 16:18:31 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>请尽快有人帮忙</title>
       <link>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</link>
-      <description><![CDATA[文件 &quot;C:\Users\hp\OneDrive\Desktop\TEST FOLDER\irctc-cypress-automation-main\irctc-captcha-solver\ app.py”，第 6 行，在  中导入 easyocr 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr_init.py”，第 1 行，模块&gt; from .easyocr import Reader File &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\easyocr.py&quot;，第 3 行，在  中from .recognition import get_recognizer, get_text 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\recognition.py”，第 2 行，在  中导入 torch 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\init_.py”，第 142 行，在&lt;模块&gt;中raise err OSError: [WinError 126] 找不到指定的模块。加载“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\lib\fbgemm.dll”时出错或其依赖项之一。   由   提交 /u/ObsRoom   [链接] [评论]]]></description>
+      <description><![CDATA[文件 &quot;C:\Users\hp\OneDrive\Desktop\TEST FOLDER\irctc-cypress-automation-main\irctc-captcha-solver\app.py&quot;, 第 6 行, 位于 &lt;module&gt; 中 导入 easyocr 文件 &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr_init.py&quot;, 第 1 行, 位于 &lt;module&gt; 中 从 .easyocr 导入 Reader 文件 &quot;C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\easyocr.py&quot;, 第 3 行, 位于 &lt;module&gt; 中从 .recognition 导入 get_recognizer、get_text 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\easyocr\recognition.py”，第 2 行，位于 &lt;module&gt; 中 导入 torch 文件“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\init_.py”，第 142 行，位于 &lt;module&gt; 中 引发 err OSError：[WinError 126] 找不到指定的模块。加载“C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\lib\fbgemm.dll”或其依赖项之一时出错。   由    /u/ObsRoom  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</guid>
       <pubDate>Thu, 09 May 2024 05:23:29 GMT</pubDate>
     </item>
