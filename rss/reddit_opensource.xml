@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 May 2024 06:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:13:54 GMT</lastBuildDate>
     <item>
       <title>Radient - 对许多不同类型的数据进行矢量化以用于 RAG 和推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/1ct66a7/radient_vectorize_many_different_types_of_data/</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 16 May 2024 06:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>推出 Lorevault（测试版），一种从配方创建目录的工具</title>
+      <title>发布 Lorevault（测试版），一个从配方创建目录的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</link>
       <description><![CDATA[ 由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>TxtDot v1.8.0 发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1cssmcb/txtdot_v180_released/</link>
-      <description><![CDATA[TxtDot：一个只解析页面中的文本、链接和图片的 HTTP 代理，因此占用更少的带宽，去掉了广告和繁重的脚本。 txtdot v1.8.0 已经发布 新功能：1. 能够连接 webder（一个可以渲染运行在 js 上的网站的独立代理）。2. 插件 - 现在您可以方便地配置代理并创建自己的引擎和中间件。3. 您现在可以在引擎代码中使用 jsx。4. 改进了代理输出的文本格式，现在可以方便地以文本形式读取，甚至更轻量。5. 添加了中间件，现在可以添加代码高亮（已经使用 hljs 添加高亮）和自定义元素。6. 现在如果引擎出现错误，代理会寻找另一个合适的引擎。引擎只能改进网站的一部分（通过路线），并且在未实现网站解析的地方，可读性将会起作用。 https://github.com/TxtDot/txtdot/releases/tag/v1.8.0    提交人    /u/artegoser   [link] [评论]]]></description>
+      <description><![CDATA[TxtDot：仅解析页面中的文本、链接和图片的 HTTP 代理，因此使用更少的带宽、删除广告和繁重的脚本。 txtdot v1.8.0已发布 新功能： 1.能够连接webder（一个单独的代理，可以渲染在js上运行的网站）。 2. 插件 - 现在您可以方便地配置代理并创建您自己的引擎和中间件。 3. 现在您可以在引擎代码中使用jsx。 4.改进了代理输出的文本格式，现在可以方便地以文本方式阅读，甚至更轻。 5.添加了中间件，现在可以添加代码高亮（已经用hljs添加了高亮）和自定义元素。 6. 现在，如果一个引擎给出错误，代理会寻找另一个合适的引擎。引擎只能改进网站的一部分（通过路由），并且在未实现网站解析的情况下，可读性将发挥作用。 https://github.com/TxtDot/txtdot/releases/tag/v1.8.0    ;由   提交 /u/artegoser   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cssmcb/txtdot_v180_released/</guid>
       <pubDate>Wed, 15 May 2024 18:53:00 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>对于无标签的高质量街道地图有什么软件建议吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</link>
-      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记的，高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记、高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</guid>
       <pubDate>Tue, 14 May 2024 13:03:51 GMT</pubDate>
     </item>
