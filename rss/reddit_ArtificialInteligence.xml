@@ -4,27 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 16 May 2024 12:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 15:12:33 GMT</lastBuildDate>
+    <item>
+      <title>指尖陀螺牛仔（AI音乐）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctdwxd/fidget_spinner_cowboy_ai_music/</link>
+      <description><![CDATA[https://youtu.be/k4FTRw4xsRo?si =FLscSFNuFtFtru8W 嘿，昨晚我将随机的想法放入 Suno AI 音乐生成器中，并想出了“Fidget Spinner Cowboy”，一首关于喜欢指尖陀螺的牛仔的乡村歌曲。享受吧！ 型号：Suno v3   由   提交 /u/EcholessREALMS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctdwxd/fidget_spinner_cowboy_ai_music/</guid>
+      <pubDate>Thu, 16 May 2024 14:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们与人工智能的未来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcp6i/our_future_with_ai/</link>
+      <description><![CDATA[新艺术作品？新的时事通讯文章！我的最新作品《审查系列》受到了很多人的喜爱。谈论人们积极回避的事情很困难，但看到社区对新冠病毒、Z 世代和现在的人工智能等话题的热烈反响。我迫不及待地想为该系列添加更多内容。这一次，我们深入探讨人工智能主导地位所塑造的共同未来，不要错过最后的复活节彩蛋！ https://preview.redd.it/7nkdehixgs0d1.jpg?width=2388&amp;format=pjpg&amp;auto=webp&amp;s=074c55bb0aa 44e483ec8d31698d29d6acfb6e408 子堆栈： https://open.substack.com/pub/vincentleong/p/the-ai-revolutionshits-getting-real?r=2nk59p&amp;utm_campaign=post&amp;utm_medium =web&amp;showWelcomeOnShare=true 中： https://medium.com/@vincentleong_67066/the-ai-revolution-shits-getting-real-what-s-next-833877c10b72 LinkedIn： https ://www.linkedin.com/pulse/ai-revolutionshits-getting-real-whats-next-vincent-leong-u3vef  &amp;# 32；由   提交 /u/Zestyclose_Cake_5644   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcp6i/our_future_with_ai/</guid>
+      <pubDate>Thu, 16 May 2024 13:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Farfalle：开源答案引擎</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcmj5/farfalle_opensource_answer_engine/</link>
+      <description><![CDATA[https://reddit.com /link/1ctcmj5/video/nzquur1egs0d1/player 大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。它是 Perplexity 的一个自我托管替代品。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 在此处查看现场演示：farfalle.dev&lt; /a&gt;. 开源：代码在 Github 上完全开源（git. new/farfalle) 存储库包含有关如何在本地运行项目的说明，以及 Vercel 和 Render 的一键部署按钮。 🛠️ 技术堆栈&lt; /p&gt;  前端：Next.js 后端：FastAPI (Python) 搜索 API：Tavily 日志记录：Logfire 速率限制： Redis 组件：Shadcn 提供商/法学硕士：Groq/LLama3-70B、OpenAI/GPT4-o &gt;  我很想听到任何反馈！   由   提交/u/rashadphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctcmj5/farfalle_opensource_answer_engine/</guid>
+      <pubDate>Thu, 16 May 2024 13:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人因为人工智能而改变了自己的人生决定？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</link>
+      <description><![CDATA[例如，在大学开始课程、转行、组建家庭、结婚、搬家等。 或者我可能没有想到的任何小决定   由   提交/u/broxue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</guid>
+      <pubDate>Thu, 16 May 2024 12:48:16 GMT</pubDate>
+    </item>
     <item>
       <title>Blainy：每月 10 美元的人工智能写作工具解决方案！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctbd5v/blainy_your_10_monthly_ai_writing_tool_solution/</link>
       <description><![CDATA[如果您需要一个可用于论文、作业、研究论文、描述、博客等的 AI 写作工具，我们的 AI 写作Blainy 工具将帮助您！好消息是，您只需按照以下简单步骤即可每月只需 10 美元即可获得月度订阅：  点击此链接访问我们的产品搜寻页面：https://www.producthunt.com/posts/blainy 发表评论并在 Product Hunt 上给我们投赞成票。 快速截取您评论的屏幕截图。 通过电子邮件将屏幕截图发送给我们： [khalid@blainy.com](mailto:khalid @blainy.com)  收到您的屏幕截图后，我们将向您发送一个独特的促销代码，第一个月 Blainy 无限套餐可享受 10 美元折扣。就是这么简单！此优惠是我们对您的出色表示感谢的方式。不要错过 - 立即使用 Blainy 增强您的写作体验！ Blainy 的功能包括：  用于增强的人工智能建议您的写作。 人工智能自动化可简化您的写作过程。 用于重写内容的释义工具。&lt; /li&gt; 内置引文生成器，用于准确引用。 抄袭检查器，确保原创性。 &lt; p&gt;AskBlainy 功能提供即时写作帮助。    由   提交 /u/MysticMegan1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctbd5v/blainy_your_10_monthly_ai_writing_tool_solution/</guid>
       <pubDate>Thu, 16 May 2024 12:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用本地托管人工智能自动生成摘要和见解</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctaur7/automatically_generating_summaries_and_insights/</link>
-      <description><![CDATA[大家好， 我的公司即将构建一个内联网应用程序，用于从员工回答的调查中收集满意度数据。这些调查有定性和定量答案（长文本答案）。什么是一个好的人工智能解决方案来从数据库中读取这些答案并从这些数据中生成摘要和见解？要求应在本地安装。   由   提交/u/jayboogie15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctaur7/automatically_generating_summaries_and_insights/</guid>
-      <pubDate>Thu, 16 May 2024 11:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的提示写作提示是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct9bex/whats_the_best_prompt_writing_prompt/</link>
-      <description><![CDATA[ 由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/r/ChatGPT/comments/1ct7k6k/whats_the_best_prompt_writing_prompt/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct9bex/whats_the_best_prompt_writing_prompt/</guid>
-      <pubDate>Thu, 16 May 2024 09:58:46 GMT</pubDate>
     </item>
     <item>
       <title>谷歌推出 Project Astra 与 OpenAI 的 GPT-4o 竞争</title>
@@ -39,13 +53,6 @@
       <description><![CDATA[阅读这篇文章，重点介绍了 1.58 位大型语言模型的时代，标志着 AI 效率的重大飞跃。这些模型大大降低了所需的计算能力和能源，为更易于访问和可持续的人工智能应用铺平了道路。本文探讨了这项创新如何使人工智能民主化，让更广泛的受众能够使用强大的技术。通过优化比特使用，这些模型在保持高性能的同时降低成本，使更多行业能够集成先进的人工智能解决方案。这一突破代表了人工智能发展的关键时刻，预示着尖端技术既高效又可广泛使用的未来。 阅读更多：[1.58 位大型语言模型的时代](https://magazine.mindplex.ai/ 1-58 位大型语言模型时代的效率突破/)    ;由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct83x3/the_era_of_158bit_large_language_models/</guid>
       <pubDate>Thu, 16 May 2024 08:26:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>更智能的聊天：使用 ChatGPT 自动回复 WhatsApp</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ct7gqa/chat_smarter_automate_whatsapp_replies_with/</link>
-      <description><![CDATA[想象一下在自动驾驶仪上回复常见的 WhatsApp 询问。 ChatGPT，强大的人工智能聊天机器人，可以成为您的秘密武器。将其与您的 WhatsApp 集成，以制作个性化回复、回答常见问题解答并简化沟通。将自己从重复性任务中解放出来，专注于重要的事情 - 有意义的客户互动。 https: //www.seaflux.tech/blogs/integrate-chatgpt-with-whatsapp   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ct7gqa/chat_smarter_automate_whatsapp_replies_with/</guid>
-      <pubDate>Thu, 16 May 2024 07:37:49 GMT</pubDate>
     </item>
     <item>
       <title>在网络上发布您的 AI 应用程序</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[我很好奇人工智能如何影响销售人员的工作。它如何改变了他们的策略、客户互动和生产力？有哪些很酷的例子可以说明人工智能让事情变得更容易或更困难？寻找现实世界的影响。   由   提交/u/Pure_Yak1489   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1csr0sj/how_has_ai_changed_the_life_of_salespeople/</guid>
       <pubDate>Wed, 15 May 2024 17:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stack Overflow 刚刚承认输给了 AI 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1csi8qi/did_stack_overflow_just_admit_defeat_to_ai/</link>
-      <description><![CDATA[“如果你无法击败他们，那就加入他们”似乎是对 Stack Overflow 最近宣布与 OpenAI 合作。此次合作将 Stack Overflow 广泛的开发人员知识数据库与 OpenAI 的人工智能模型相结合，看起来可能是明智之举。但 Stack Overflow 是否有可能只是在意识到自己无法在人工智能驱动的领域竞争后，只是想减少损失？ 请阅读此处的全文，并告诉我您的想法：&lt; a href=&quot;https://daily.dev/blog/did-stack-overflow-just-admit-defeat-to-ai&quot;&gt;https://daily.dev/blog/did-stack-overflow-just-admit -defeat-to-ai   由   提交 /u/High_Sleep3694   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1csi8qi/did_stack_overflow_just_admit_defeat_to_ai/</guid>
-      <pubDate>Wed, 15 May 2024 11:13:44 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
