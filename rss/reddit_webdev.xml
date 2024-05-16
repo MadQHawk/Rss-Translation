@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 May 2024 21:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 00:56:01 GMT</lastBuildDate>
+    <item>
+      <title>公司付费推荐培训课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ct0h79/company_paid_for_training_course_recomendations/</link>
+      <description><![CDATA[大家好， 来自经验丰富的开发人员的交叉发帖，因为我希望获得尽可能多的想法！  我的老板让我今年选择一些培训，这是我第一次真的很难选择。在 Reddit 上进行了很多搜索，提出了很多关于召开会议等的建议，但我已经用完了今年的会议余地。 我很想听听你们中是否有人最近做了任何您喜欢的事情或者会推荐！ 预算非常健康，所以不用担心。 更多背景信息 - 我目前是一名数据工程师（databricks/azure stack），但从长远来看想要转向更传统的软件工程/全栈工作。正在考虑一个天蓝色的证书，但它太专注于供应商工具，所以不是超级有吸引力。 我一直在寻找专注于软件工程的东西，但领域不可知，所以我仍然可以将其出售给我的数据老大。例如，可能涉及系统设计、测试框架架构等。如果代码量很大，则可以加分，愿意花一些工作时间编写非数据管道代码。 很想听听您的想法！   由   提交 /u/dmhp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ct0h79/company_paid_for_training_course_recomendations/</guid>
+      <pubDate>Thu, 16 May 2024 00:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>回顾我的投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ct099w/review_my_portfolio/</link>
+      <description><![CDATA[我作为全栈开发人员工作了大约 2 年，终于开始改进我的作品集。这是我第一次尝试 UI 设计，这就是为什么它如此简单。请查看它并告诉我应该添加/删除/修改哪些内容。非常感谢！ https:// y0z64.github.io   由   提交/u/Y0z64  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ct099w/review_my_portfolio/</guid>
+      <pubDate>Thu, 16 May 2024 00:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一些免费的 nextjs 新粗野主义风格的模板，您可以将其用于您的下一个项目！链接在评论里</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ct001q/i_created_some_free_nextjs_neobrutalism_styled/</link>
+      <description><![CDATA[   /u/Nice_Wrangler_5576   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ct001q/i_created_some_free_nextjs_neobrutalism_styled/</guid>
+      <pubDate>Thu, 16 May 2024 00:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 Web 开发中使用 monorepo</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cszj2y/using_a_monorepo_in_web_development_2024/</link>
+      <description><![CDATA[最近，我开始在项目中使用 monorepo。过去，我有一个单独的存储库，用于将前端、服务器和任何其他服务分组到 GitHub 组织中。共享代码？复制粘贴。这样做有很多优点。很容易快速移动。  也就是说，我开始看到共享包为我的代码库带来的一致性的巨大价值。我主要想要两件事：  跨应用程序共享类型，这些类型通常位于单独的存储库中 通过一致的工具和配置降低复杂性  我大约花了 6 个月的时间阅读它们，并花了 3 个月的时间将 ~10 个代码库重构为 2 个 monorepos。具体来说，我正在移动相当多的 Typescript 存储库、几个 Python 存储库和一个 JavaScript 存储库。我正在使用Turborepo。  这是一个严肃的学习曲线，我觉得有些部分的样板代码比我预期的要多。具体来说，必须为每个包考虑 tsconfig、eslint、构建工具、turborepo 的配置、环境文件、测试框架配置等，感觉工作量很大。  我正在编写一个 CLI 工具来生成新的应用程序和软件包，但我想听听其他人的意见：这一切值得吗？我一直在两种想法之间斗争：我只是还不习惯它，而这对于单个开发人员来说可能不是一个合理的承诺。  有多少人使用 monorepo 来存储大部分代码？您使用什么工具？您是否使用多种语言工作？   由   提交/u/prophase25  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cszj2y/using_a_monorepo_in_web_development_2024/</guid>
+      <pubDate>Wed, 15 May 2024 23:54:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为我可以通过我的网络应用程序获利吗？这是一个电子商务应用程序，有一个管理仪表板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cszhfc/do_you_think_i_can_monetize_my_web_application_it/</link>
+      <description><![CDATA[      我最初构建的供某人使用，以便他们将其用于他们的商业产品。我只是想知道我是否可以通过这个赚钱？同样，我想到创建一个注册表单，然后在使用他们的名字或输入的任何内容注册后，它会创建一个动态路径 这就是网站的样子：  （它功能齐全，并使用 next.js、shadcnUI 和 supabase 构建） 主页 管理仪表板 您认为我可以通过此货币化吗？可以按月订阅吗？这是我第一次创建这样的项目，这让我觉得我可以添加付款，并且很高兴收到您对我想要采取的方法的想法和提示。   由   提交/u/macato  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cszhfc/do_you_think_i_can_monetize_my_web_application_it/</guid>
+      <pubDate>Wed, 15 May 2024 23:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最近使用过的最糟糕的网站有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cszaje/what_are_some_of_the_worst_websites_youve/</link>
+      <description><![CDATA[我在尝试浏览巴基斯坦签证网站时想到了这个问题，他们的网站有多糟糕，大多数时候都无法运行我看着控制台，上面写着“单击弹出窗口”这正在清除开发人员留下的调试代码😆（网站） &lt;!-- SC_ON - -&gt;  由   提交 /u/lovesToClap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cszaje/what_are_some_of_the_worst_websites_youve/</guid>
+      <pubDate>Wed, 15 May 2024 23:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人觉得自己为了同样多的钱而更加努力地工作吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csypkn/anyone_else_feel_like_theyre_working_harder_for/</link>
+      <description><![CDATA[我是前端开发人员和内容经理。尽管远程工作选项很棒，但我觉得在相同的工资下我的工作量是原来的三倍。更多的电子表格、基于更复杂的 CMS 的可视化页面构建器以及整体更高的工作量。 除此之外，我已经好几个月没有工作了，因为我拒绝了一些事情这低于我平时的速度。我对重返工作岗位并不感到兴奋。 还有其他人吗？   由   提交/u/christina______   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csypkn/anyone_else_feel_like_theyre_working_harder_for/</guid>
+      <pubDate>Wed, 15 May 2024 23:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>对如何实施 SSO 感到困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csyoge/confused_on_how_to_implement_sso/</link>
+      <description><![CDATA[我有一个具有单独前端和后端的应用程序。虽然我想让用户通过 Microsoft 进行身份验证，但一旦完成，我希望在后端为他们生成自己的 JWT，因为还有与我的应用程序相关的其他信息需要包含在我的前端在 A 上收到的 JWT 中。成功登录。 我很难理解的是如何让用户从前端开始，通过 MS 进行身份验证，然后让后端为他们生成一个新令牌并将其返回给前端，所有这些只需单击一下即可。 我目前非常接近，但还没有完全实现。我从前端重定向到处理 MS SSO 的后端端点/视图，当成功时，它会重定向到另一个后端端点，我在其中生成可通过 API 调用使用的令牌。我只是不确定如何执行最后一步，将令牌返回到我的前端。   由   提交/u/freew1ll_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csyoge/confused_on_how_to_implement_sso/</guid>
+      <pubDate>Wed, 15 May 2024 23:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>上传前创建webp有效吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csxukj/valid_to_create_webp_before_uploading/</link>
+      <description><![CDATA[作为一名设计师，开发人员要求我为网站创建 webp 图像。他们还希望我为他们建议文件大小。所以他们希望我将图像保存为 webp 并发送给他们，以便他们可以上传它们。 我可能是错的，但 webp 图像通常不是由服务器在上传原始图像后创建的吗？更多“传统”格式，例如 JPG 或 PNG？并且相同图像的不同尺寸的压缩和创建将由服务器处理？ 我也在质疑是否真的应该由设计师来决定文件大小和分辨率？首先，感觉开发人员对图像加载时间/存储方面的剩余空间有了更深入的了解，而且分辨率与原始图像不再相关，因为它被压缩和调整大小，甚至被裁剪。服务器？至少如果它是以现代方式构建的，并且只要 originsl 图像不会有数百兆字节。 我的观点是否正确，或者这是开发人员的常见且有效的请求吗？  p&gt;   由   提交 /u/tobey_g   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csxukj/valid_to_create_webp_before_uploading/</guid>
+      <pubDate>Wed, 15 May 2024 22:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 和 Python 框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csxq56/react_python_frameworks/</link>
+      <description><![CDATA[我想知道您是否知道有哪些框架在前端使用 React，在后端使用 Python，并且符合人体工程学？ （通过类型检查共享类型和 api 调用）。 原因是我需要在后端使用 python 来进行 ML 和数据科学工作（95% 的后端需要 python，所以我宁愿一切都用 python）然而，我仍然希望它能够与 React 前端无缝协作。   由   提交 /u/funerr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csxq56/react_python_frameworks/</guid>
+      <pubDate>Wed, 15 May 2024 22:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 github actions setup-dotnet 的任何人都遇到部署问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cswgwm/anyone_using_github_actions_setupdotnet_having/</link>
+      <description><![CDATA[嘿，像标题所说的那样，有人使用 github actions for CI/CD 使用 setup-dotnet 包最近遇到过部署问题吗？ 突然之间，我的所有项目都不再构建在 github 操作上，我看到了不存在的错误。诸如错误 CS1646: 逐字说明符后预期的关键字、标识符或字符串之类的事情：@ 突然出现，即使构建运行了 2 小时，也在从未更改的文件中检测到错误。我唯一的猜测是它是特定于操作的问题，因为我可以在本地运行和构建项目。 还有其他人遇到类似的问题吗？有什么建议吗？   由   提交/u/d0rf47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cswgwm/anyone_using_github_actions_setupdotnet_having/</guid>
+      <pubDate>Wed, 15 May 2024 21:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cswb6q/help_required/</link>
+      <description><![CDATA[学习 MERN 堆栈时有哪些有用的资源？ （希望获得一些关于这个领域的新原因的指导）可能有关于 udemy 的好的课程吗？   由   提交/u/PhilosopherOk6920   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cswb6q/help_required/</guid>
+      <pubDate>Wed, 15 May 2024 21:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些按钮可以在 css 中使用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1csw3bn/is_these_buttons_doable_in_css/</link>
+      <description><![CDATA[      我尝试在 css 中制作这些按钮，但我做不到，我开始这样做认为它不能用 css 制作。    由   提交 /u/lorens_osman   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1csw3bn/is_these_buttons_doable_in_css/</guid>
+      <pubDate>Wed, 15 May 2024 21:19:41 GMT</pubDate>
+    </item>
     <item>
       <title>您认为前端组件应该如何测试？</title>
       <link>https://www.reddit.com/r/webdev/comments/1csvss7/how_do_you_think_frontend_components_should_be/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[有人对在 Remix 中使用的日期选择器有任何偏好吗？似乎有很多东西，但它们要么没有维护，要么与较新的框架存在问题。  谢谢！   由   提交 /u/incarnatethegreat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1csvmuu/remix_best_date_picker_to_use/</guid>
       <pubDate>Wed, 15 May 2024 20:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件来自excel</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csv9u2/software_from_excel/</link>
-      <description><![CDATA[我正处于开发最终用户软件（对基于网络或应用程序开放）的初步研究阶段。我的职业领域有大约 60 个复杂的数学公式，我希望用户输入数据并让软件显示逐步的解决方案。我在 Excel 文档中拥有所有公式，该文档已配置为显示工作并解决它。  问题是：我从哪里开始将其变成应用程序或网站以供用户使用？   由   提交 /u/RoboticTear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csv9u2/software_from_excel/</guid>
-      <pubDate>Wed, 15 May 2024 20:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关构建信息网站的各种简单问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csuwk7/miscellaneous_simple_questions_about_building/</link>
-      <description><![CDATA[我朋友的一个朋友想要为他的企业建立一个信息网站，只是为了在线展示，不需要金钱交易。  我有一些核心 PHP 和基本的 HTML、JavaScript、CSS 经验，并且我了解托管和域名的基础知识，但这项工作似乎太简单了，我只是向他推荐一些网站构建器，例如 wix.com 自己做，我和他的谈话就结束了？  我没有使用过此类网站构建器，但我想这些平台除了提供域名和托管费用外，还必须收取一些经常性费用。因此，如果他（朋友的朋友）想省点钱，那么我会下载一个模板（或使用 wordpress.org），向其中添加内容（他的业务信息），然后将其上传到 Google 搜索结果顶部的任何托管提供商？这引出了我的下一个问题，我不了解 SEO，所以在选择模板或网站构建器时我应该知道什么？  对于域名，我知道 tld-list.com 和 tldes.com  他可能喜欢域名上的官方电子邮件地址。我记得为我在 namecheap.com 上拥有的域名设置了一个电子邮件地址，但那是很久以前的事了，所以我可能记错了我只能接收有关该邮件的电子邮件，而无法从中发送电子邮件。我想电子邮件需要在托管提供商处设置。我认为如果他可以通过 Gmail 发送官方域电子邮件就好了，我可以在不支付 Google 付费服务的情况下做到这一点吗？  在我看来，这就像构建 PowerPoint 演示文稿一样简单，我担心作为局外人我会错过什么吗？谢谢。   由   提交 /u/galaro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csuwk7/miscellaneous_simple_questions_about_building/</guid>
-      <pubDate>Wed, 15 May 2024 20:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式网站设计问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csu4uu/responsive_site_design_question/</link>
-      <description><![CDATA[朋友们大家好，我对前端开发有着前所未有的痴迷。我只有两个问题。创建响应式设计时直接使用高度和宽度是一种罪恶吗？您平均在一个页面上进行多少次媒体查询才能使其响应或自适应？   由   提交 /u/MrGolgo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csu4uu/responsive_site_design_question/</guid>
-      <pubDate>Wed, 15 May 2024 19:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>经验丰富的 Python 开发人员应该走哪条路？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cstcno/which_path_for_a_seasoned_python_developer/</link>
-      <description><![CDATA[大家好， 我想实现一个前端仪表板。 它不会需要任何后端，因为我已经通过 Python REST API 覆盖了后端。 通过进行大量研究，看起来 NextJS 具有像 NextUI 或类似库这样的库将是一个很好的前进道路。  p&gt; 我真的没有太多前端知识，我已经在很小的范围内完成了基本的 html/css/javascript。 学习 NextJS 和自己创建一个仪表板？ 依靠 GPT4 或 Claude 3 寻求帮助就足够了吗？ 我应该先学习一些基本的 React 然后是 NextJS 课程吗？ （如果是，是哪些？） 我不想成为一名 Web 开发人员，而是学习让我想出仪表板的核心概念。 我我愿意接受任何建议:)   由   提交 /u/KyuubiReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cstcno/which_path_for_a_seasoned_python_developer/</guid>
-      <pubDate>Wed, 15 May 2024 19:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Figma</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cssgx7/working_with_figma/</link>
-      <description><![CDATA[我是一名全栈 Web 开发人员，新设计师正在使用 Figma。以前设计师会给我设计的 PDF，我使用 css 框架中的边距/填充，例如bootstrap 尽可能接近设计。现在设计师想要精确的边距&amp; Figma 的填充。边距/填充没有模式，所以我必须检查 Figma 中的每个元素并切换到 vscode 才能准确复制。当我努力实现它时，设计师也在调整设计。所以我需要一种方法来跟踪 Figma 中的变化，例如此元素于周三下午 5:15 更改。还有镀铬扩展来检查元素之间的间距吗？逐一检查每个要素的过程，花费的时间太长，而且很长，而且还有自发的变化。任何帮助，不胜感激。   由   提交 /u/ChasinBuddha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cssgx7/working_with_figma/</guid>
-      <pubDate>Wed, 15 May 2024 18:46:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 编译器简介 – React</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cssbie/introducing_react_compiler_react/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/dbbk  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cssbie/introducing_react_compiler_react/</guid>
-      <pubDate>Wed, 15 May 2024 18:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于提升 .NET 开发人员技能的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1css9te/advice_for_upskilling_as_a_net_developer/</link>
-      <description><![CDATA[我正在寻找有关如何提升技能的建议。我的主要经验是使用 Visual Basic、SQL、ASP.net、Web/Win Forms（超过 10 年的经验）以及一点 C#。 2023 年 11 月被解雇后，我花了 4 个月的时间面试新工作。幸运的是，我找到了目前的角色并且大部分时间都享受它。然而，我不禁因为被解雇而产生了一点PSTD，并意识到我的一些技能是多么过时。当我浏览当前的职位空缺时（只是出于好奇），我不禁想知道如果（上帝禁止）我发现自己再次被解雇，我能做些什么来使自己处于比去年 11 月更好的位置。  我的计划还包括与我现任经理进行对话，讨论在新工作中承担更多责任并学习新技能。我对学习 .NET Core、Angular、React、云开发等特别感兴趣。 据我了解，有开源贡献和做副业项目。但这是我不清楚的另一部分：我可以在简历中包含哪些经验？虽然我知道我可以获得特定技能的认证，但在我看来，大多数公司都更看重经验而不是一张纸。 我想提高技能，但我希望我的努力是值得的我的时间。   由   提交/u/candyA25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1css9te/advice_for_upskilling_as_a_net_developer/</guid>
-      <pubDate>Wed, 15 May 2024 18:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助决定我的期末项目 - 使用 Next.js 构建全栈应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csrkr6/need_help_deciding_my_finals_project_using_nextjs/</link>
-      <description><![CDATA[大家好， 我即将完成商业信息学/信息系统工程硕士学位。我决定使用 Next.js 为我的最终项目构建一个全栈应用程序，但我一直坚持它应该是什么。 当我开始时，我想在我的作品集中使用这个项目寻找全职工作。我想构建一些对现实世界确实有帮助的东西。 我真诚地接受任何建议。 如果您遇到问题，您认为技术可以解决或很酷需要构建的想法，请分享！您的想法确实可以塑造我的项目，并帮助其他有抱负的全栈 Web 开发人员。 非常感谢您的帮助！  &amp;# 32；由   提交/u/Menium  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csrkr6/need_help_deciding_my_finals_project_using_nextjs/</guid>
-      <pubDate>Wed, 15 May 2024 18:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有管理功能的酒店网站的最佳后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csr4om/best_backend_for_hotel_website_with_admin/</link>
-      <description><![CDATA[嗨r/webdev！ 我正在为一家酒店网站开发前端，现在我正在寻找一种后端解决方案，该解决方案不仅可以顺利集成，而且可以使酒店业主能够轻松管理其业务。我优先考虑易于实施、可扩展性和安全性。 考虑 Firebase、AWS Amplify 和 Heroku。有什么建议或经验可以分享吗？ 提前致谢！ 😃 编辑：首先我为这家小酒店做了一个登陆页面，他们要求我添加一个预订部分。我正在寻找 BaaS 替代方案。    由   提交 /u/tuksba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csr4om/best_backend_for_hotel_website_with_admin/</guid>
-      <pubDate>Wed, 15 May 2024 17:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>对express.js和java-websocket服务器使用相同的端口</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csqlek/using_the_same_port_for_an_expressjs_and/</link>
-      <description><![CDATA[我试图在我的树莓派上运行express.js服务器和org.java_websocket.server.WebSocketServer。我使用 ngrok 创建到特定端口的 http 隧道，但我只能创建一个隧道，因此我需要将两台服务器连接到同一端口。我查看了许多不同的 ngrok-alternatives，但没有一个对我有用，因为它们从来没有免费提供无限持久的隧道。我 看到如果两个服务器都是用节点编写的，那么这可以很容易地完成，但是如果 WebSocketServer 是用该库编写的，我该怎么办？ Java？   由   提交/u/1Dr490n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csqlek/using_the_same_port_for_an_expressjs_and/</guid>
-      <pubDate>Wed, 15 May 2024 17:32:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的日历插件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csppel/best_calendar_plugin/</link>
-      <description><![CDATA[嗨！我是一家小型非营利组织的通讯人员，试图重新设计我们的网站。 有什么好的插件可以包含我们的日历/活动？希望能与我们办公室的 Google 日历同步。如果它易于使用，人们可以点击并获取更多信息/重定向到另一个网站，那就太好了！ 我目前有 Google 日历插件，但它要求我们“启用”饼干”每次我们进入我们的网站时（即使我们以前这样做过）。我们认为我们服务的老年人（尤其是第一次来的人）会遇到很多困难。 作为一个非营利组织，我们的预算很低，所以免费的东西更好，但我们是开放的到选项！ 如果您在您所推广的公司工作，请这么说 – 然后说服我选择您！ :) 谢谢！ 我是一名教师/研究员，所以我不能真正编码，但我可以轻松复制粘贴插件。 提前致谢！   由   提交/u/VincentnCatherine065   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csppel/best_calendar_plugin/</guid>
-      <pubDate>Wed, 15 May 2024 16:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件夹</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csogfa/portfolio/</link>
-      <description><![CDATA[您好，请问这种作品集网站有具体名称吗？就像这个作品集 https://p5aholic.me/ 一样，除了项目页面等特定页面外，没有滚动条。   由   提交/u/dee_050  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csogfa/portfolio/</guid>
-      <pubDate>Wed, 15 May 2024 16:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Google 地图和地图框的免费替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1csgob6/looking_for_free_alternatives_to_google_maps_and/</link>
-      <description><![CDATA[您好，我正在开发一个 React 网站，我想添加一个带有自定义图钉的地图，我想知道如何做到这一点。我是一名学生，并将其作为我的软件工程课程的项目。我已经研究过谷歌地图 API 密钥和地图框，但两者都需要卡详细信息。有什么办法可以免费做吗？谢谢    由   提交/u/Ok-Peach-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1csgob6/looking_for_free_alternatives_to_google_maps_and/</guid>
-      <pubDate>Wed, 15 May 2024 09:31:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
