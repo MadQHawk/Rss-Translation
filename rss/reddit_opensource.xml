@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 May 2024 15:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 18:16:53 GMT</lastBuildDate>
     <item>
-      <title>员工的个人 GitHub 存储库如何损害 Azure 的内部容器注册表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ctf87x/how_an_employees_personal_github_repository/</link>
-      <description><![CDATA[       由   提交/u/Pale_Fly_2673  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ctf87x/how_an_employees_personal_github_repository/</guid>
-      <pubDate>Thu, 16 May 2024 15:11:13 GMT</pubDate>
+      <title>VFCFinder 重点介绍开源软件中的安全补丁</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/yourbasicgeek  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</guid>
+      <pubDate>Thu, 16 May 2024 18:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在写一份专有软件的开源替代品列表，写下你最喜欢的！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ctifwo/im_writing_a_list_of_opensource_alternatives_to/</link>
+      <description><![CDATA[完成后在 github 中发布。   由   提交 /u/Flick9000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ctifwo/im_writing_a_list_of_opensource_alternatives_to/</guid>
+      <pubDate>Thu, 16 May 2024 17:27:24 GMT</pubDate>
     </item>
     <item>
       <title>Rio：纯 Python 中的 Web 应用程序。无需 JavaScript、HTML 和 CSS！</title>
@@ -99,16 +106,9 @@
     <item>
       <title>对于无标签的高质量街道地图有什么软件建议吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</link>
-      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记的，高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记、高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</guid>
       <pubDate>Tue, 14 May 2024 13:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>t5.rs - 使用 Rust 构建的跨平台应用程序开发模板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1crpxqf/t5rs_a_crossplatform_app_development_template/</link>
-      <description><![CDATA[我使用 Rust、Cargo Mobile 2、Dioxus、Warp、Diesel、PostgreSQL、Supabase Auth、Bun 和TailwindCSS，可在 https://github.com/albbus-stack/t5.rs &lt; p&gt;您现在可以在 Windows、Linux、Android 和 Web 上发布相同的 Rust 代码库（以及更多测试）。目前，此模板支持通过 API 服务器进行身份验证、路由和数据库交互。 这个项目的创建受到了启发尝试用 Rust 重写 t4-app 项目 (https://github.com/timothymiller/t4-app ），一个用 Typescript 编写的跨平台模板。  目前，我已经在一些设备（上面列出的系统）上对此进行了测试，并且在设置所有必要的工具和环境变量后工作正常。我非常感谢在 MacOS 和 iOS 上进行一些测试，因为我无法访问这些系统。欢迎在这里或直接在 Github 问题上提供任何其他类型的反馈。 如果您喜欢这个，请投下一颗星 ⭐ 在我们等待新的 Dioxus 版本期间祝您黑客愉快🤘   由   提交/u/albbbuss  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1crpxqf/t5rs_a_crossplatform_app_development_template/</guid>
-      <pubDate>Tue, 14 May 2024 11:35:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
