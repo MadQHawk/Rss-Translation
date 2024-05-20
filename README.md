@@ -12,6 +12,6 @@
 
 ## 已转换翻译源
  - source028 [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) -> [BBC-news](rss/BBC-news.xml)
- - source029 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuters-news](rss/reuters-news.xml)
+ - source029 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuters-news-world](rss/reuters-news-world.xml)
  - source030 [https://rsshub.app/reuters/world/asia-pacific](https://rsshub.app/reuters/world/asia-pacific) -> [reuters-news-asia](rss/reuters-news-asia.xml)
- - source031 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP-news](rss/AP-news.xml)
+ - source031 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP-topnews](rss/AP-topnews.xml)
