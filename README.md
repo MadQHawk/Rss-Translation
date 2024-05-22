@@ -13,4 +13,4 @@
 ## 已转换翻译源
  - source001 [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) -> [reuter-news](rss/reuter-news.xml)
  - source028 [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) -> [BBC-news](rss/BBC-news.xml)
- - source029 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP-topnews](rss/AP-topnews.xml)
+ - source029 [https://www.apnews.com/index.rss](https://www.apnews.com/index.rss) -> [AP-topnews](rss/AP-topnews.xml)
