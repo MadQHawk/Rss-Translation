@@ -11,7 +11,7 @@
  📢查看[ 已翻译的订阅源列表 ](https://MadQHawk.github.io/Rss-Translation) 修改自[ rss-translate ](https://github.com/rcy1314/Rss-Translation)
 
 ## 已转换翻译源
- - source001 [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) -> [reuter-news](rss/reuter-news.xml)
+ - source001 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [reuter-news](rss/reuter-news.xml)
  - source002 [https://rsshub.app/reuters/world/asia-pacific](https://rsshub.app/reuters/world/asia-pacific) -> [reuter-asia-news](rss/reuter-asia-news.xml)
  - source028 [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) -> [BBC-news](rss/BBC-news.xml)
  - source029 [https://www.apnews.com/index.rss](https://www.apnews.com/index.rss) -> [AP-topnews](rss/AP-topnews.xml)
