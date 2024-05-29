@@ -4,7 +4,14 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻 - 世界</description>
-    <lastBuildDate>Wed, 29 May 2024 18:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 21:11:36 GMT</lastBuildDate>
+    <item>
+      <title>南非关键选举计票正在进行中</title>
+      <link>https://www.bbc.com/news/articles/cjll8nr6962o</link>
+      <description><![CDATA[这是非洲人国民大会 30 年前执政以来竞争最为激烈的选举，目前选票正在统计中。]]></description>
+      <guid>https://www.bbc.com/news/articles/cjll8nr6962o</guid>
+      <pubDate>Wed, 29 May 2024 19:53:27 GMT</pubDate>
+    </item>
     <item>
       <title>阿姆斯特丹机场喷气式发动机撞死一名乘客</title>
       <link>https://www.bbc.com/news/articles/c0dd9pxnd0lo</link>
@@ -62,18 +69,11 @@
       <pubDate>Wed, 29 May 2024 14:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>陪审团开始就特朗普封口费案进行审议</title>
+      <title>陪审团在考虑判决时要求提供有关特朗普大厦会议的证词</title>
       <link>https://www.bbc.co.uk/news/live/world-us-canada-69073129</link>
-      <description><![CDATA[由 12 名成员组成的陪审团离开法庭，审议这位前总统在这一历史性刑事审判中的命运。]]></description>
+      <description><![CDATA[由 12 名成员组成的陪审团于周三早些时候开始对这起具有历史意义的封口费案进行审议。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-us-canada-69073129</guid>
       <pubDate>Wed, 29 May 2024 13:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>南非大选：排队时间“与 1994 年一样长”</title>
-      <link>https://www.bbc.co.uk/news/live/world-africa-69067213</link>
-      <description><![CDATA[结束种族隔离制度的非洲人国民大会 (ANC) 正面临 30 年来的最大挑战，选举即将结束。]]></description>
-      <guid>https://www.bbc.co.uk/news/live/world-africa-69067213</guid>
-      <pubDate>Wed, 29 May 2024 03:36:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
