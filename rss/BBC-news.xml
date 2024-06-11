@@ -4,41 +4,62 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻 - 世界</description>
-    <lastBuildDate>Tue, 11 Jun 2024 09:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 12:24:32 GMT</lastBuildDate>
     <item>
-      <title>马拉维军方称副总统的飞机可能在森林中坠毁</title>
-      <link>https://www.bbc.com/news/articles/c722vpp1ndro</link>
-      <description><![CDATA[士兵们正在搜查奇卡瓦森林，试图找到索洛斯·奇利马和其他九人。]]></description>
-      <guid>https://www.bbc.com/news/articles/c722vpp1ndro</guid>
-      <pubDate>Tue, 11 Jun 2024 08:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国安理会支持美国以色列-加沙停火计划</title>
-      <link>https://www.bbc.com/news/articles/cw448x7lxggo</link>
-      <description><![CDATA[该提议列出了“全面停火”和释放哈马斯人质的条件。]]></description>
-      <guid>https://www.bbc.com/news/articles/cw448x7lxggo</guid>
-      <pubDate>Tue, 11 Jun 2024 08:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>也门附近船只倾覆 39 人丧生--官员</title>
-      <link>https://www.bbc.com/news/articles/cv22nqq9yv1o</link>
-      <description><![CDATA[官员称，搜救人员仍在继续寻找 150 名失踪人员。]]></description>
-      <guid>https://www.bbc.com/news/articles/cv22nqq9yv1o</guid>
-      <pubDate>Tue, 11 Jun 2024 08:19:58 GMT</pubDate>
+      <title>布林肯称停火计划的命运取决于哈马斯</title>
+      <link>https://www.bbc.com/news/articles/cj77j7ppj52o</link>
+      <description><![CDATA[美国外交官说，这一切都取决于躲藏在加沙地下的哈马斯领导人叶海亚·辛瓦尔。]]></description>
+      <guid>https://www.bbc.com/news/articles/cj77j7ppj52o</guid>
+      <pubDate>Tue, 11 Jun 2024 12:23:04 GMT</pubDate>
     </item>
     <item>
       <title>四名美国大学教师在中国公园被刺伤</title>
       <link>https://www.bbc.com/news/articles/c844q27v732o</link>
       <description><![CDATA[康奈尔学院称，这两名教师白天参观公共公园时遭到袭击。]]></description>
       <guid>https://www.bbc.com/news/articles/c844q27v732o</guid>
-      <pubDate>Tue, 11 Jun 2024 07:42:04 GMT</pubDate>
+      <pubDate>Tue, 11 Jun 2024 12:22:43 GMT</pubDate>
     </item>
     <item>
-      <title>印度遭遇最长热浪 又有八人死亡</title>
+      <title>马拉维副总统确认在森林中坠机身亡</title>
+      <link>https://www.bbc.com/news/articles/c722vpp1ndro</link>
+      <description><![CDATA[这架飞机在恶劣天气下飞行时于周一从机场雷达上消失。]]></description>
+      <guid>https://www.bbc.com/news/articles/c722vpp1ndro</guid>
+      <pubDate>Tue, 11 Jun 2024 11:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际移民组织：也门附近船只倾覆 49 人丧生</title>
+      <link>https://www.bbc.com/news/articles/cv22nqq9yv1o</link>
+      <description><![CDATA[据国际移民组织称，搜寻工作仍在继续，仍有 140 名失踪人员。]]></description>
+      <guid>https://www.bbc.com/news/articles/cv22nqq9yv1o</guid>
+      <pubDate>Tue, 11 Jun 2024 11:28:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果在 AI 革新中将 ChatGPT 引入 iPhone</title>
+      <link>https://www.bbc.com/news/articles/c4nn5mejl89o</link>
+      <description><![CDATA[与谷歌和微软等竞争对手相比，该公司推出生成式人工智能功能的速度较慢。]]></description>
+      <guid>https://www.bbc.com/news/articles/c4nn5mejl89o</guid>
+      <pubDate>Tue, 11 Jun 2024 09:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>曼谷著名市场发生火灾 1000 只动物死亡</title>
+      <link>https://www.bbc.com/news/articles/cw44gm303wro</link>
+      <description><![CDATA[大火导致市场备受争议的宠物区内的狗、鸟、蛇和猫死亡。]]></description>
+      <guid>https://www.bbc.com/news/articles/cw44gm303wro</guid>
+      <pubDate>Tue, 11 Jun 2024 09:17:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度遭遇“最长”热浪 又有 8 人死亡</title>
       <link>https://www.bbc.com/news/articles/cz77jkk420lo</link>
       <description><![CDATA[官方数据显示，3月至5月期间，印度全国共有60人死于与高温有关的疾病。]]></description>
       <guid>https://www.bbc.com/news/articles/cz77jkk420lo</guid>
       <pubDate>Tue, 11 Jun 2024 05:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>朝鲜士兵越过边界时韩国发出警告</title>
+      <link>https://www.bbc.com/news/articles/c511ve3051po</link>
+      <description><![CDATA[非军事区事件发生之际，朝韩两国之间的紧张局势加剧。]]></description>
+      <guid>https://www.bbc.com/news/articles/c511ve3051po</guid>
+      <pubDate>Tue, 11 Jun 2024 05:39:26 GMT</pubDate>
     </item>
     <item>
       <title>尼日利亚枪手在村庄袭击中杀死至少 25 人，官员称</title>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 11 Jun 2024 05:33:28 GMT</pubDate>
     </item>
     <item>
-      <title>美国民权英雄詹姆斯·劳森去世，享年 95 岁</title>
-      <link>https://www.bbc.com/news/articles/cw00w25x2pko</link>
-      <description><![CDATA[马丁·路德·金博士称赞劳森是 20 世纪 60 年代种族平等抗议运动的首席战略家。]]></description>
-      <guid>https://www.bbc.com/news/articles/cw00w25x2pko</guid>
-      <pubDate>Tue, 11 Jun 2024 00:08:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在 AI 革新中将 ChatGPT 引入 iPhone</title>
-      <link>https://www.bbc.com/news/articles/c4nn5mejl89o</link>
-      <description><![CDATA[与谷歌和微软等竞争对手相比，该公司推出生成式人工智能功能的速度较慢。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4nn5mejl89o</guid>
-      <pubDate>Mon, 10 Jun 2024 21:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国敦促达成加沙停火协议，内塔尼亚胡走钢丝</title>
-      <link>https://www.bbc.com/news/articles/c511vl9yjwwo</link>
-      <description><![CDATA[杰里米·鲍文说，国务卿布林肯的中东使命与以色列政治发生冲突。]]></description>
-      <guid>https://www.bbc.com/news/articles/c511vl9yjwwo</guid>
-      <pubDate>Mon, 10 Jun 2024 17:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克龙提前选举 欧盟投票结果令竞争对手震惊</title>
-      <link>https://www.bbc.com/news/articles/cv22jkmldlxo</link>
-      <description><![CDATA[财政部长布鲁诺·勒梅尔表示，此次投票可能给法国带来“严重后果”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cv22jkmldlxo</guid>
-      <pubDate>Mon, 10 Jun 2024 15:24:47 GMT</pubDate>
+      <title>巴尔的摩航道在桥梁倒塌后重新开放</title>
+      <link>https://www.bbc.com/news/articles/cnkk2d1ezzyo</link>
+      <description><![CDATA[美国陆军工程兵团表示，灾难发生近三个月后，该地区“已恢复通行安全”。]]></description>
+      <guid>https://www.bbc.com/news/articles/cnkk2d1ezzyo</guid>
+      <pubDate>Tue, 11 Jun 2024 02:47:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
