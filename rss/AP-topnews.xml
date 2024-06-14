@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美联社新闻：突发新闻、最新头条和视频</title>
+    <title>美联社新闻：突发新闻、最新头条新闻和视频</title>
     <link>https://apnews.com/</link>
     <description>在 APNews.com 上阅读最新的头条新闻、突发新闻和视频，它是来自全球各个角落的独立新闻的权威来源。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 06:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:13:47 GMT</lastBuildDate>
+    <item>
+      <title>2024 年欧洲杯：匈牙利队在 A 组首轮对阵瑞士队</title>
+      <link>https://apnews.com/article/switzerland-hungary-euro-2024-preview-a32c36bde1e24062596333dd9e2d479b</link>
+      <description><![CDATA[匈牙利队将于周六在科隆迎战瑞士队，这是 A 组的第一场比赛。该组的其他球队是东道主德国队和苏格兰队。]]></description>
+      <guid>https://apnews.com/article/switzerland-hungary-euro-2024-preview-a32c36bde1e24062596333dd9e2d479b</guid>
+      <pubDate>Fri, 14 Jun 2024 08:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年欧洲杯：意大利队在 B 组对阵阿尔巴尼亚队，开启卫冕征程</title>
+      <link>https://apnews.com/article/italy-albania-preview-euro-2024-uefa-52a4328e4f25bdb441dea4f074c0f83a</link>
+      <description><![CDATA[意大利队将于周六在多特蒙德进行欧洲杯 B 组首场比赛，对手是阿尔巴尼亚队，以捍卫自己的冠军头衔。]]></description>
+      <guid>https://apnews.com/article/italy-albania-preview-euro-2024-uefa-52a4328e4f25bdb441dea4f074c0f83a</guid>
+      <pubDate>Fri, 14 Jun 2024 08:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗核计划紧张局势加剧，安装并启动先进离心机</title>
+      <link>https://apnews.com/article/iran-nuclear-program-iaea-us-mideast-tensions-a4a18eb0f8cb5105e5423eb1ddc4a806</link>
+      <description><![CDATA[在面临核计划批评后，伊朗已启动了新型先进离心机，并计划在未来几周内安装其他离心机。]]></description>
+      <guid>https://apnews.com/article/iran-nuclear-program-iaea-us-mideast-tensions-a4a18eb0f8cb5105e5423eb1ddc4a806</guid>
+      <pubDate>Fri, 14 Jun 2024 07:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>南非议会正在以前所未有的不确定性选举总统</title>
+      <link>https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf</link>
+      <description><![CDATA[30 年来，南非议会将首次于周五选举总统，而选举结果并非只是走走形式。]]></description>
+      <guid>https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf</guid>
+      <pubDate>Fri, 14 Jun 2024 07:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大部长称，加拿大在北极的国防投资符合北约的指导方针</title>
+      <link>https://apnews.com/article/nato-defense-spending-budgets-canada-russia-14708fd0c358c2b445c7ce5e1a0f112d</link>
+      <description><![CDATA[加拿大国防部长比尔·布莱尔表示，加拿大有望达到北约的军费开支指导方针。]]></description>
+      <guid>https://apnews.com/article/nato-defense-spending-budgets-canada-russia-14708fd0c358c2b445c7ce5e1a0f112d</guid>
+      <pubDate>Fri, 14 Jun 2024 07:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>AP 本周图片：欧洲和非洲</title>
+      <link>https://apnews.com/article/europe-africa-top-photos-this-week-fb2c38b1dc272a0d849c6b29c68a84a9</link>
+      <description><![CDATA[2024年6月7日至13日，马拉维副总统索洛斯·奇利马和其他9人在飞机失事中丧生。]]></description>
+      <guid>https://apnews.com/article/europe-africa-top-photos-this-week-fb2c38b1dc272a0d849c6b29c68a84a9</guid>
+      <pubDate>Fri, 14 Jun 2024 06:15:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>达拉斯队在西部联盟比赛中对阵圣路易斯城队</title>
+      <link>https://apnews.com/mls-soccer-fc-dallas-e15bc34a839048779a5e45d4094062d9</link>
+      <description><![CDATA[达拉斯和圣路易斯城足球俱乐部在西部联盟比赛中相遇。]]></description>
+      <guid>https://apnews.com/mls-soccer-fc-dallas-e15bc34a839048779a5e45d4094062d9</guid>
+      <pubDate>Fri, 14 Jun 2024 06:15:36 GMT</pubDate>
+    </item>
     <item>
       <title>美联社本周图片：全球</title>
       <link>https://apnews.com/article/europe-africa-asia-us-top-photos-this-week-d8112639b7799b4111e7e07b518fb770</link>
@@ -15,7 +64,7 @@
     <item>
       <title>R.E.M. 重聚歌曲创作人名人堂仪式，同时向 Timbaland 和 Steely Dan 致敬</title>
       <link>https://apnews.com/article/songwriters-hall-fame-timbalad-rem-steely-dan-40a0909a1e8d403e3bcbe03a7bab738c</link>
-      <description><![CDATA[纽约（美联社）——2024 年歌曲创作人名人堂入选仪式上必定有一颗彗星降落。R.E.M. 乐队成员在几个小时前曾开玩笑说，需要“一颗彗星”才能让乐队最后一次同台演出。]]></description>
+      <description><![CDATA[R.E.M. 的重聚是 2024 年词曲作者名人堂入选仪式的意外亮点之一，同时还表彰了传奇乐队 Steely Dan、R&amp;B 和说唱制作人 Timbaland、纳什维尔热门歌曲创作人 Hillary Lindsey 和帮助 Kenny Loggins 创作热门歌曲“Footloose”的 Dean Pitchford。]]></description>
       <guid>https://apnews.com/article/songwriters-hall-fame-timbalad-rem-steely-dan-40a0909a1e8d403e3bcbe03a7bab738c</guid>
       <pubDate>Fri, 14 Jun 2024 06:06:34 GMT</pubDate>
     </item>
@@ -25,55 +74,6 @@
       <description><![CDATA[人工智能初创公司 Perplexity AI 已从杰夫·贝佐斯等知名科技投资者手中筹集了数千万美元，其使命是在信息搜索业务上与谷歌竞争。]]></description>
       <guid>https://apnews.com/article/perplexity-ai-search-engine-forbes-f307cb607f0db871b05f843a3f744340</guid>
       <pubDate>Fri, 14 Jun 2024 05:59:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国球迷正在向新加坡守门员经营的小吃摊投入大量资金。原因如下</title>
-      <link>https://apnews.com/article/china-singapore-soccer-goalkeeper-world-cup-1900d8995dd0fe3c2f4ffea9645989ee</link>
-      <description><![CDATA[新加坡一名守门员在本周的一场比赛中表现出色，间接帮助中国队晋级 2026 年世界杯预选赛第三轮，此后中国足球迷们向他开设的小吃摊投入了爱心和金钱。]]></description>
-      <guid>https://apnews.com/article/china-singapore-soccer-goalkeeper-world-cup-1900d8995dd0fe3c2f4ffea9645989ee</guid>
-      <pubDate>Fri, 14 Jun 2024 05:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>今日股市：人工智能有望推动华尔街创下纪录，亚洲股市涨跌互现。日本央行维持利率不变</title>
-      <link>https://apnews.com/article/stock-markets-rates-japan-fed-4bd24b5444572136dac6c3db3d88f982</link>
-      <description><![CDATA[华尔街对人工智能技术的持续狂热推动华尔街指数再创历史新高，亚洲股市涨跌互现。]]></description>
-      <guid>https://apnews.com/article/stock-markets-rates-japan-fed-4bd24b5444572136dac6c3db3d88f982</guid>
-      <pubDate>Fri, 14 Jun 2024 05:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候变暖导致马里的一处池塘正在消失，被联合国教科文组织列为世界遗产的捕鱼传统正面临危险</title>
-      <link>https://apnews.com/article/mali-fishing-sanke-climate-change-heat-f75bf0e177263b817b8ac7bfa2931fc6</link>
-      <description><![CDATA[数百年来，每年六月，人们都会聚集在马里南部的桑镇，举行集体捕鱼仪式，仪式以动物献祭和向桑克池的水神献祭开始。]]></description>
-      <guid>https://apnews.com/article/mali-fishing-sanke-climate-change-heat-f75bf0e177263b817b8ac7bfa2931fc6</guid>
-      <pubDate>Fri, 14 Jun 2024 05:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>古巴革命偶像、吟游诗人西尔维奥·罗德里格斯在新专辑中详述古巴的困境</title>
-      <link>https://apnews.com/article/cuba-silvio-rodriguez-new-record-528ad80cf8c5ee04a4110dd47933b55e</link>
-      <description><![CDATA[他是古巴革命的诗意代言人，激励了 20 世纪 60 年代和 70 年代生活在独裁统治下的数百万拉丁美洲人，他们梦想着理想的古巴，而他——以及他的吉他——帮助唤起了这个梦想。]]></description>
-      <guid>https://apnews.com/article/cuba-silvio-rodriguez-new-record-528ad80cf8c5ee04a4110dd47933b55e</guid>
-      <pubDate>Fri, 14 Jun 2024 05:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>被指控在悉尼教堂实施恐怖行为的男孩面临刺伤主教和牧师的新指控</title>
-      <link>https://apnews.com/article/sydney-church-stabbing-bishop-terrorism-fa6d22a83f212eef5afaa86a0e952d72</link>
-      <description><![CDATA[一名 16 岁男孩被指控于 4 月份在悉尼一座教堂刺伤一名主教，犯下恐怖主义罪行，目前他面临另外两项指控。]]></description>
-      <guid>https://apnews.com/article/sydney-church-stabbing-bishop-terrorism-fa6d22a83f212eef5afaa86a0e952d72</guid>
-      <pubDate>Fri, 14 Jun 2024 05:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛伦岑投球帮助游骑兵队以 3-1 战胜道奇队，这是他们自 1999 年以来在洛杉矶首次赢得系列赛</title>
-      <link>https://apnews.com/article/dodgers-rangers-score-94746a745a9b3b6afc8df332be9875b0</link>
-      <description><![CDATA[迈克尔·洛伦岑 (Michael Lorenzen) 投出强劲的七局，新秀怀亚特·兰福德 (Wyatt Langford) 打出两支打点一垒安打，德州游骑兵队以 3-1 击败洛杉矶道奇队，自 1999 年以来首次在道奇体育场赢得系列赛。]]></description>
-      <guid>https://apnews.com/article/dodgers-rangers-score-94746a745a9b3b6afc8df332be9875b0</guid>
-      <pubDate>Fri, 14 Jun 2024 05:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中西部高 A 联赛概览</title>
-      <link>https://apnews.com/sports/high-a-midwest-league-glance-bec2abc71713824571c0959199058c4b</link>
-      <description><![CDATA[所有时间 EDT 东部赛区 胜负 胜率 胜率 莱克县 (克里夫兰) 36 24 .600 — 大湖区 (洛杉矶道奇) 33 27 .550 3 兰辛 (奥克兰) 31 29 .517 5 西密歇根 (底特律) 30 30 .500 6 代顿 (辛辛那提) 29 31 .483 7 韦恩堡 (圣地亚哥) 26 34 .433 10]]></description>
-      <guid>https://apnews.com/sports/high-a-midwest-league-glance-bec2abc71713824571c0959199058c4b</guid>
-      <pubDate>Fri, 14 Jun 2024 04:55:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
