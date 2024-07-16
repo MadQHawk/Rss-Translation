@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - source001 [https://feeds.bbci.co.uk/news/rss.xml](https://feeds.bbci.co.uk/news/rss.xml) -> [BBC](rss/BBC.xml)
+ - source002 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP-news](rss/AP-news.xml)
