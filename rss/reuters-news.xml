@@ -1,79 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>路透社</title>
-    <link>https://rss.app/rss-feed?keyword=Reuters&region=US&lang=en</link>
-    <description>#Reuters 由 RSS.app 生成</description>
-    <lastBuildDate>Tue, 16 Jul 2024 21:15:31 GMT</lastBuildDate>
+    <title>RSS.app——提要生成器</title>
+    <link>https://rss.app</link>
+    <description>从任何网页创建 RSS 提要。 - （tos6zA3DX1qWIe08）</description>
+    <lastBuildDate>Wed, 17 Jul 2024 01:09:21 GMT</lastBuildDate>
     <item>
-      <title>独家：路透社/益普索民意调查发现，五分之四的美国人担心国家陷入混乱</title>
-      <link>https://www.reuters.com/world/us/four-five-americans-fear-country-is-sliding-into-chaos-reutersipsos-poll-finds-2024-07-16/</link>
-      <description><![CDATA[路透社/益普索周二结束的一项民意调查发现，在唐纳德·特朗普遭遇暗杀企图后，美国人担心他们的国家正在失控，人们越来越担心 11 月 5 日的选举可能引发更多政治暴力。]]></description>
-      <guid>https://www.reuters.com/world/us/four-five-americans-fear-country-is-sliding-into-chaos-reutersipsos-poll-finds-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 19:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>前 OpenAI、特斯拉工程师 Andrej Karpathy 创办 AI 教育平台</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/former-openai-tesla-engineer-andrej-karpathy-starts-ai-education-platform-2024-07-16/</link>
-      <description><![CDATA[计算机科学家 Andrej Karpathy 周二宣布，他将启动一个名为 Eureka Labs 的人工智能集成教育平台，利用他在 ChatGPT 开发商 OpenAI 和特斯拉多年的经验。]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/former-openai-tesla-engineer-andrej-karpathy-starts-ai-education-platform-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 18:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>据 CNN 报道，美国收到伊朗密谋暗杀特朗普的情报</title>
-      <link>https://www.reuters.com/world/us/us-received-intel-iranian-plot-assassinate-trump-cnn-reports-2024-07-16/</link>
-      <description><![CDATA[美国有线电视新闻网（CNN）周二援引知情人士的话称，美国最近几周从人力来源获得了有关伊朗试图暗杀前总统唐纳德·特朗普的阴谋的情报。]]></description>
-      <guid>https://www.reuters.com/world/us/us-received-intel-iranian-plot-assassinate-trump-cnn-reports-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 18:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>海事中心称，油轮评估胡塞袭击后可能发生的红海漏油事件</title>
-      <link>https://www.reuters.com/world/middle-east/tanker-assesses-possible-red-sea-oil-spill-after-houthi-attack-maritime-center-2024-07-16/</link>
-      <description><![CDATA[红海和亚丁湾联合海事信息中心 (JMIC) 周二表示，悬挂利比里亚国旗的油轮 Chios Lion 在红海遭到也门胡塞武装袭击后，正在评估损失并调查潜在的漏油事件。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/tanker-assesses-possible-red-sea-oil-spill-after-houthi-attack-maritime-center-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 17:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国参议员鲍勃·梅内德斯腐败案陪审团作出裁决</title>
-      <link>https://www.reuters.com/legal/jury-reaches-verdict-us-senator-bob-menendezs-corruption-trial-2024-07-16/</link>
-      <description><![CDATA[一名法庭官员周二表示，陪审团已就美国参议员鲍勃·梅内德斯 (Bob Menendez) 涉嫌出卖权力以换取数十万美元贿赂（包括金条和现金）的刑事审判做出裁决。]]></description>
-      <guid>https://www.reuters.com/legal/jury-reaches-verdict-us-senator-bob-menendezs-corruption-trial-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 16:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗马尼亚国防部称将签署购买 F-35 战斗机的初步合同</title>
-      <link>https://www.reuters.com/world/europe/romania-sees-initial-contract-buy-f-35-fighter-jets-defence-ministry-says-2024-07-16/</link>
-      <description><![CDATA[罗马尼亚国防部周二表示，罗马尼亚预计将与美国签署政府间协议，最早于今年秋天购买最新一代 F-35 战斗机。]]></description>
-      <guid>https://www.reuters.com/world/europe/romania-sees-initial-contract-buy-f-35-fighter-jets-defence-ministry-says-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 16:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普在泄露的电话通话中争取罗伯特·肯尼迪的支持</title>
-      <link>https://www.reuters.com/world/us/trump-courts-rfk-jrs-support-leaked-phone-call-2024-07-16/</link>
-      <description><![CDATA[据周一发布在社交媒体上并得到肯尼迪证实的一段电话视频显示，共和党总统候选人唐纳德·特朗普向小罗伯特·F·肯尼迪建议，这位独立总统候选人可以做些事情来支持特朗普的竞选活动。]]></description>
-      <guid>https://www.reuters.com/world/us/trump-courts-rfk-jrs-support-leaked-phone-call-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 16:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列军方将于下周开始征召极端正统的神学院学生</title>
-      <link>https://www.reuters.com/world/middle-east/israeli-military-begin-drafting-ultra-orthodox-seminary-students-next-week-2024-07-16/</link>
-      <description><![CDATA[以色列军方周二表示，以色列军方将于下周开始向此前免于服兵役的极端正统神学院学生发出军事征兵传票。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/israeli-military-begin-drafting-ultra-orthodox-seminary-students-next-week-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 15:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列军方称哈马斯军事派别一半领导层已被消灭</title>
-      <link>https://www.reuters.com/world/middle-east/israeli-military-says-half-leadership-hamas-military-wing-eliminated-2024-07-16/</link>
-      <description><![CDATA[以色列军方周二发表声明称，自加沙战役开始以来，哈马斯军事派别的领导层一半已被消灭，约 14,000 名战士被杀或被俘。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/israeli-military-says-half-leadership-hamas-military-wing-eliminated-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 15:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普2.0押注令欧洲汽车和清洁能源受压</title>
-      <link>https://www.reuters.com/markets/europe/european-autos-clean-energy-feel-pinch-trump-20-bets-2024-07-16/</link>
-      <description><![CDATA[周二，一些欧洲汽车制造商和可再生能源公司的股价进入第二天抛售，原因是在暗杀企图增加唐纳德·特朗普赢得总统大选的机会后，人们对美国潜在政策风险的担忧日益加剧。]]></description>
-      <guid>https://www.reuters.com/markets/europe/european-autos-clean-energy-feel-pinch-trump-20-bets-2024-07-16/</guid>
-      <pubDate>Tue, 16 Jul 2024 15:12:33 GMT</pubDate>
+      <title>未找到。请注册 RSS.app 以使用此源。</title>
+      <link>https://rss.app</link>
+      <description><![CDATA[未找到。注册 RSS.app 以使用此源。- 在 RSS.app 上创建新的 RSS 源。- (tos6zA3DX1qWIe08)]]></description>
+      <guid>https://rss.app</guid>
+      <pubDate>Wed, 17 Jul 2024 01:09:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
