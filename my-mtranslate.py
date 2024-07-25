@@ -41,7 +41,7 @@ class BingTran:
     def get_newcontent(self, max_item=10):
         item_set = set()  # 使用集合来存储项目，用于过滤重复项
         item_list = []
-for entry in self.d.entries:
+        for entry in self.d.entries:
             try:
                 title = self.tr(entry.title)
             except:
