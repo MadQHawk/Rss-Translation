@@ -42,37 +42,36 @@ class BingTran:
         item_set = set()  # 使用集合来存储项目，用于过滤重复项
         item_list = []
 for entry in self.d.entries:
-    try:
-        title = self.tr(entry.title) if hasattr(entry, 'title') else "No Title"
-    except Exception as e:
-        print(f"Error translating title: {e}")
-        title = "No Title"
-    parsed_link = urlparse(entry.link)
-    if not all([parsed_link.scheme, parsed_link.netloc]):
-        continue
-    link = entry.link
-    description = ""
-    try:
-        description = self.tr(entry.summary)
-    except:
-        try:
-            description = self.tr(entry.content[0].value)
-        except:
-            pass
-    guid = link
-    pubDate = getTime(entry)
-    one = {
-        "title": title,
-        "link": link,
-        "description": description,
-        "guid": guid,
-        "pubDate": pubDate,
-    }
-    if guid not in item_set:  # 判断是否重复
-        item_set.add(guid)
-        item_list.append(one)
-    if len(item_list) >= max_item:  # 判断是否达到最大项目数
-        break
+            try:
+                title = self.tr(entry.title)
+            except:
+                title = ""
+            parsed_link = urlparse(entry.link)
+            if not all([parsed_link.scheme, parsed_link.netloc]):
+                continue
+            link = entry.link
+            description = ""
+            try:
+                description = self.tr(entry.summary)
+            except:
+                try:
+                    description = self.tr(entry.content[0].value)
+                except:
+                    pass
+            guid = link
+            pubDate = getTime(entry)
+            one = {
+                "title": title,
+                "link": link,
+                "description": description,
+                "guid": guid,
+                "pubDate": pubDate,
+            }
+            if guid not in item_set:  # 判断是否重复
+                item_set.add(guid)
+                item_list.append(one)
+            if len(item_list) >= max_item:  # 判断是否达到最大项目数
+                break
         sorted_list = sorted(item_list, key=lambda x: x["pubDate"], reverse=True)
         feed = self.d.feed
         try:
