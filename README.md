@@ -12,5 +12,5 @@
 
 ## 已转换翻译源
  - source001 [https://feeds.bbci.co.uk/news/rss.xml](https://feeds.bbci.co.uk/news/rss.xml) -> [BBC](rss/BBC.xml)
- - source002 [https://rsshub.app/apnews/topics/ap-top-news=josn](https://rsshub.app/apnews/topics/ap-top-news=josn) -> [AP-news](rss/AP-news.xml)
+ - source002 [https://rsshub.app/apnews/topics/ap-top-news=json](https://rsshub.app/apnews/topics/ap-top-news=json) -> [AP-news](rss/AP-news.xml)
  - source003 [https://rss.app/feeds/tos6zA3DX1qWIe08.xml](https://rss.app/feeds/tos6zA3DX1qWIe08.xml) -> [reuters-news](rss/reuters-news.xml)
